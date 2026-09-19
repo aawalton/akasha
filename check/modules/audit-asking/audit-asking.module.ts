@@ -18,6 +18,10 @@ export const auditAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The round asked for names the commit the caller needs judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A check's verdict is read from the audit log beside that check's page.",
     },
     {

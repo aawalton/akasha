@@ -87,8 +87,8 @@ export function notYetJudgingIn(
   return [`this answer leaves out ${counted(held.length, "check")} not yet judging: ${waiting}`]
 }
 
-export function roundFor(root: string): Round {
-  return inCluster() ? roundHere : async (checks) => await roundAsked(root, checks)
+function roundFor(root: string, commit: string): Round {
+  return inCluster() ? roundHere : async (checks) => await roundAsked(root, checks, commit)
 }
 
 async function askedOver(
@@ -107,7 +107,13 @@ async function askedOver(
     ...notYetJudgingIn(every, named),
   ]
   const checks = narrowed.checks.length
-  const told = await asked({ root, checks: narrowed.checks, commit, done, round: roundFor(root) })
+  const told = await asked({
+    root,
+    checks: narrowed.checks,
+    commit,
+    done,
+    round: roundFor(root, commit),
+  })
   return askedAnswer({ told, checks, commit, also, rounds: done }, keeping)
 }
 

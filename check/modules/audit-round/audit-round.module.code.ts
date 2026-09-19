@@ -9,7 +9,6 @@ import {
   bodyFor,
   carriedOn,
   championOf,
-  commitOf,
   movedIn,
   type Over,
   type Ran,
@@ -19,6 +18,7 @@ import {
   sending,
   telling,
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
+import { atOrAfter } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { checksIn, type Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
@@ -139,21 +139,37 @@ function without(commit: string, mine: Underway): undefined {
   else underway.set(commit, now)
 }
 
+export type Rounds = ReadonlyMap<string, readonly Underway[]>
+
+export type After = (root: string, commit: string, ran: string) => Promise<boolean>
+
+export async function satisfying(
+  root: string,
+  commit: string,
+  rounds: Rounds,
+  after: After = atOrAfter
+): Promise<readonly Underway[]> {
+  const found: Underway[] = []
+  for (const [at, held] of rounds) {
+    if (await after(root, commit, at)) found.push(...held)
+  }
+  return found
+}
+
 export async function roundJoined(
   root: string,
-  named: readonly string[] = [],
+  named: readonly string[],
+  commit: string,
   send: Sent = sending,
   to: string | null = null
 ): Promise<Turned> {
-  const commit = await commitOf(root)
   const checks = roundOver(checksIn(root), named).map((one) => one.slug)
-  const held = underway.get(commit) ?? []
-  const split = splitting(held, checks)
+  const split = splitting(await satisfying(root, commit, underway), checks)
   const waited = split.joined.map((one) => one.told)
   if (split.left.length === 0) return merged(await Promise.all(waited), checks)
-  const told = roundTold(root, split.left, send, to)
+  const told = roundTold(root, split.left, commit, send, to)
   const mine: Underway = { checks: new Set(split.left), told }
-  underway.set(commit, [...held, mine])
+  underway.set(commit, [...(underway.get(commit) ?? []), mine])
   try {
     return merged(await Promise.all([...waited, told]), checks)
   } finally {
@@ -163,11 +179,11 @@ export async function roundJoined(
 
 export async function roundTold(
   root: string,
-  named: readonly string[] = [],
+  named: readonly string[],
+  commit: string,
   send: Sent = sending,
   to: string | null = null
 ): Promise<Turned> {
-  const commit = await commitOf(root)
   const gathered = roundOver(checksIn(root), named)
   const checks = gathered.map((one) => one.slug)
   const before = verdictsFor(root, checks)

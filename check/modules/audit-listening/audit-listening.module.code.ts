@@ -11,21 +11,29 @@ export const ROUND_AT = "/round"
 
 const JSON_SAID = "application/json"
 
-export type Asked = { readonly checks: readonly string[] } | { readonly refused: string }
+export type Asked =
+  | { readonly checks: readonly string[]; readonly commit: string }
+  | { readonly refused: string }
+
+const NO_CHECKS = "a round names the checks it asks for as `checks`, a list of slugs"
+
+const NO_COMMIT = "a round names the commit it is to judge at as `commit`, one commit"
 
 export function askedIn(given: unknown): Asked {
   if (given === null || typeof given !== "object" || Array.isArray(given)) {
     return { refused: "a round is asked for by a JSON object" }
   }
-  const held = (given as { readonly checks?: unknown }).checks
-  if (held === undefined) return { checks: [] }
+  const asking = given as { readonly checks?: unknown; readonly commit?: unknown }
+  if (typeof asking.commit !== "string" || asking.commit === "") return { refused: NO_COMMIT }
+  const held = asking.checks
+  if (held === undefined) return { checks: [], commit: asking.commit }
   if (!Array.isArray(held) || held.some((one) => typeof one !== "string")) {
-    return { refused: "a round names the checks it asks for as `checks`, a list of slugs" }
+    return { refused: NO_CHECKS }
   }
-  return { checks: held as readonly string[] }
+  return { checks: held as readonly string[], commit: asking.commit }
 }
 
-export type Rounding = (checks: readonly string[]) => Promise<Told>
+export type Rounding = (checks: readonly string[], commit: string) => Promise<Told>
 
 function said(body: unknown, status: number): Response {
   return new Response(JSON.stringify(body), { status, headers: { "content-type": JSON_SAID } })
@@ -43,7 +51,7 @@ export async function answering(request: Request, round: Rounding): Promise<Resp
   if (body === UNREAD) return said({ refused: "the body did not parse as JSON" }, 400)
   const sought = askedIn(body)
   if ("refused" in sought) return said({ refused: sought.refused }, 400)
-  return said(await round(sought.checks), 200)
+  return said(await round(sought.checks, sought.commit), 200)
 }
 
 export function runAuditListening(root: string, round: Rounding): undefined {

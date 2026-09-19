@@ -25,6 +25,8 @@ const ROOT = rootOf(import.meta.dir)
 
 const nothingRan: Rounding = () => Promise.resolve({ ran: [], turned: [], refused: [] })
 
+const AT = "abc123"
+
 afterAll(scratch.sweep)
 
 function asking(body: unknown, at: string = ROUND_AT, method: string = "POST"): Request {
@@ -59,12 +61,25 @@ test("a page stating no host name leaves the loopback address bound alone", () =
 })
 
 test("a body naming no check asks for every check that runs at audit", () => {
-  expect(askedIn({})).toEqual({ checks: [] })
+  expect(askedIn({ commit: AT })).toEqual({ checks: [], commit: AT })
 })
 
 test("a body naming checks asks for those checks", () => {
-  expect(askedIn({ checks: ["typecheck", "lint-clean"] })).toEqual({
+  expect(askedIn({ checks: ["typecheck", "lint-clean"], commit: AT })).toEqual({
     checks: ["typecheck", "lint-clean"],
+    commit: AT,
+  })
+})
+
+test("a body naming no commit is refused rather than judged at whatever the service holds", () => {
+  expect(askedIn({ checks: ["typecheck"] })).toEqual({
+    refused: "a round names the commit it is to judge at as `commit`, one commit",
+  })
+  expect(askedIn({ commit: "" })).toEqual({
+    refused: "a round names the commit it is to judge at as `commit`, one commit",
+  })
+  expect(askedIn({ commit: 7 })).toEqual({
+    refused: "a round names the commit it is to judge at as `commit`, one commit",
   })
 })
 
@@ -75,10 +90,10 @@ test("a body that is no JSON object is refused", () => {
 })
 
 test("a name that is no string is refused rather than dropped", () => {
-  expect(askedIn({ checks: ["typecheck", 7] })).toEqual({
+  expect(askedIn({ checks: ["typecheck", 7], commit: AT })).toEqual({
     refused: "a round names the checks it asks for as `checks`, a list of slugs",
   })
-  expect(askedIn({ checks: "typecheck" })).toEqual({
+  expect(askedIn({ checks: "typecheck", commit: AT })).toEqual({
     refused: "a round names the checks it asks for as `checks`, a list of slugs",
   })
 })
@@ -104,7 +119,7 @@ test("a body that is no JSON is refused rather than read as naming no check", as
 
 test("a body naming a check reaches the round with that check and no other", async () => {
   const handed: string[][] = []
-  const answered = await answering(asking({ checks: ["typecheck"] }), (checks) => {
+  const answered = await answering(asking({ checks: ["typecheck"], commit: AT }), (checks) => {
     handed.push([...checks])
     return Promise.resolve({ ran: [], turned: [], refused: [] })
   })
@@ -112,8 +127,18 @@ test("a body naming a check reaches the round with that check and no other", asy
   expect(handed).toEqual([["typecheck"]])
 })
 
+test("the commit the body names reaches the round rather than a head read here", async () => {
+  const handed: string[] = []
+  const answered = await answering(asking({ commit: "def456" }), (_checks, commit) => {
+    handed.push(commit)
+    return Promise.resolve({ ran: [], turned: [], refused: [] })
+  })
+  expect(answered.status).toBe(200)
+  expect(handed).toEqual(["def456"])
+})
+
 test("what the round answered is the whole of what comes back", async () => {
-  const answered = await answering(asking({}), () =>
+  const answered = await answering(asking({ commit: AT }), () =>
     Promise.resolve({ ran: [], turned: ["typecheck"], refused: ["nobody was told"] })
   )
   expect(await answered.json()).toEqual({
@@ -154,7 +179,7 @@ test("two rounds asked for over HTTP at once are answered by one run", async () 
       const answered = await fetch(`${server.url.origin}${ROUND_AT}`, {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ checks: ["typecheck"] }),
+        body: JSON.stringify({ checks: ["typecheck"], commit: over.commit }),
       })
       return await answered.json()
     }

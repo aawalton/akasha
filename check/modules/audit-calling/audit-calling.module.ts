@@ -22,6 +22,10 @@ export const auditCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A round carries the commit the caller needs judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A connection the service refused is asked again, three times in all.",
     },
     {

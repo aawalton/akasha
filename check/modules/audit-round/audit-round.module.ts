@@ -14,7 +14,21 @@ export const auditRound = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request a round underway covers attaches to that round.",
+      statement:
+        "A round is judged at the commit handed in rather than at the head the tree holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A round underway satisfies a request where its commit is the one asked or a descendant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round underway at any other commit satisfies no part of that request.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request a round underway satisfies and covers attaches to that round.",
     },
     {
       decisionKind: "decision-kind/departure",

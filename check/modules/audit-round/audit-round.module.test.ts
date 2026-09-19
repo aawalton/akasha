@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import type { Verdicts } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
+  type After,
   answeredIn,
   merged,
   owedCarrying,
+  satisfying,
   splitting,
   type Turned,
   turnedIn,
@@ -60,6 +62,30 @@ const GATHERED = [gathered("no-class", "/r"), gathered("lint-clean", "/r")]
 function underway(checks: readonly string[]): Underway {
   return { checks: new Set(checks), told: Promise.resolve(NOTHING) }
 }
+
+const sameCommit: After = (_root, asked, ran) => Promise.resolve(asked === ran)
+
+const laterCommit: After = (_root, asked, ran) => Promise.resolve(asked === "abc" && ran === "def")
+
+const noCommit: After = () => Promise.resolve(false)
+
+test("a round underway at the commit a request names satisfies that request", async () => {
+  const running = underway(CHECKS)
+  const rounds = new Map([["abc", [running]]])
+  expect(await satisfying("/r", "abc", rounds, sameCommit)).toEqual([running])
+})
+
+test("a round underway at a commit later than the one named satisfies that request", async () => {
+  const running = underway(CHECKS)
+  const rounds = new Map([["def", [running]]])
+  expect(await satisfying("/r", "abc", rounds, laterCommit)).toEqual([running])
+})
+
+test("a round underway at a commit the request is at or after satisfies nothing", async () => {
+  const running = underway(CHECKS)
+  const rounds = new Map([["old", [running]]])
+  expect(await satisfying("/r", "abc", rounds, noCommit)).toEqual([])
+})
 
 test("a request a running round covers attaches to that round rather than opening a second", () => {
   const running = underway(CHECKS)

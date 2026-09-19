@@ -22,6 +22,8 @@ const CLEAN = { commit: "abc", ranAt: "2026-09-11T00:00:00.000Z", refusals: [], 
 
 const A_RUN = { check: "typecheck", verdict: CLEAN, ran: true }
 
+const AT = "abc123"
+
 const neverWaits = (): Promise<void> => Promise.resolve()
 
 function refusing(): Error & { code: string } {
@@ -81,7 +83,7 @@ test("a round that broke off part way says what broke rather than that nothing l
 })
 
 test("a page stating no port leaves the round unasked and says so", async () => {
-  const held = await roundAsked(scratch.rootFor("akasha-audit-calling-bare-"), [], () => {
+  const held = await roundAsked(scratch.rootFor("akasha-audit-calling-bare-"), [], AT, () => {
     throw new Error("a round was asked for where no port is stated")
   })
   expect(held).toEqual({ refused: expect.stringContaining("no page states the port") })
@@ -92,14 +94,30 @@ test("the checks asked for reach the service as the body of one call", async () 
   const held = await roundAsked(
     ROOT,
     ["typecheck"],
+    AT,
     (_url, init) => {
       bodies.push(String(init.body))
       return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
     },
     neverWaits
   )
-  expect(bodies).toEqual(['{"checks":["typecheck"]}'])
+  expect(bodies).toEqual(['{"checks":["typecheck"],"commit":"abc123"}'])
   expect(held).toEqual({ ran: [A_RUN] })
+})
+
+test("the commit the caller needs judged reaches the service in that same body", async () => {
+  const bodies: string[] = []
+  await roundAsked(
+    ROOT,
+    [],
+    "def456",
+    (_url, init) => {
+      bodies.push(String(init.body))
+      return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
+    },
+    neverWaits
+  )
+  expect(bodies).toEqual(['{"checks":[],"commit":"def456"}'])
 })
 
 test("the wait the runtime puts on a request of its own accord is turned off", async () => {
@@ -107,6 +125,7 @@ test("the wait the runtime puts on a request of its own accord is turned off", a
   await roundAsked(
     ROOT,
     [],
+    AT,
     (_url, init) => {
       sent.push(init)
       return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
@@ -122,6 +141,7 @@ test("a connection the service refused is asked again, three times in all", asyn
   const held = await roundAsked(
     ROOT,
     [],
+    AT,
     () => {
       tries += 1
       throw refusing()
@@ -137,6 +157,7 @@ test("a service that answers on a later try is not refused", async () => {
   const held = await roundAsked(
     ROOT,
     [],
+    AT,
     () => {
       tries += 1
       if (tries < ATTEMPTS) throw refusing()
@@ -152,6 +173,7 @@ test("a round still working is waited on rather than asked for a second time", a
   const held = await roundAsked(
     ROOT,
     [],
+    AT,
     () => {
       tries += 1
       throw new Error("The operation timed out.")

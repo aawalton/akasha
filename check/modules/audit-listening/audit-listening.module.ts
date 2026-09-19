@@ -47,6 +47,19 @@ export const auditListening = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body names the commit the round is to judge at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body naming no commit is refused rather than read as the head the service holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit a body names reaches the round beside the checks that body names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What the round answered is the whole of what comes back.",
     },
     {

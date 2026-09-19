@@ -1,5 +1,6 @@
 import { runAuditListening } from "akasha/check/modules/audit-listening/audit-listening.module.code.ts"
 import { roundJoined } from "akasha/check/modules/audit-round/audit-round.module.code.ts"
+import { commitOf } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import { cleanly, measured } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
@@ -13,7 +14,7 @@ const SAID = "audit-running:"
 const NEVER_STOPS = new AbortController().signal
 
 async function judgedInCluster(root: string): Promise<undefined> {
-  const told = await roundJoined(root)
+  const told = await roundJoined(root, [], await commitOf(root))
   const red = told.ran.filter((one) => measured(one.verdict) && !cleanly(one.verdict)).length
   const nothing = told.ran.filter((one) => !measured(one.verdict)).length
   process.stdout.write(
@@ -24,7 +25,7 @@ async function judgedInCluster(root: string): Promise<undefined> {
 
 export async function runService(): Promise<never> {
   const root = checkoutAt()
-  runAuditListening(root, async (checks) => await roundJoined(root, checks))
+  runAuditListening(root, async (checks, commit) => await roundJoined(root, checks, commit))
   for (;;) {
     try {
       await judgedInCluster(root)

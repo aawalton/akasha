@@ -71,6 +71,7 @@ const sleep: Sleeper = (waited) =>
 export async function roundAsked(
   root: string,
   checks: readonly string[],
+  commit: string,
   fetcher: Fetcher = fetchThrough,
   naps: Sleeper = sleep
 ): Promise<Answered> {
@@ -82,7 +83,7 @@ export async function roundAsked(
       const answered = await fetcher(at, {
         method: "POST",
         headers: { "content-type": "application/json", accept: "application/json" },
-        body: JSON.stringify({ checks }),
+        body: JSON.stringify({ checks, commit }),
         signal: AbortSignal.timeout(WORKING_MS),
         timeout: false,
       })

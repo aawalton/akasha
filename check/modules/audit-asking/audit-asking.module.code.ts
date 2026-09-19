@@ -86,7 +86,8 @@ export function verdictsWith(held: Verdicts, ran: readonly Ran[]): Verdicts {
 }
 
 export async function asked(given: Asking): Promise<Told> {
-  const ask = given.round ?? ((checks: readonly string[]) => roundAsked(given.root, checks))
+  const ask =
+    given.round ?? ((checks: readonly string[]) => roundAsked(given.root, checks, given.commit))
   const done = given.done ?? []
   const reading = given.verdicts ?? ((): Verdicts => verdictsFor(given.root, given.checks))
   let verdicts = reading()
