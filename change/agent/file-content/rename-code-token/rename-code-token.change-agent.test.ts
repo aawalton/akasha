@@ -1,5 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { renameCodeToken } from "akasha/change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { renameLocalVariable } from "akasha/change/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -183,5 +185,5 @@ test("a local name is handed to the change reached at the local address", async 
 
   await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
 
-  expect(reached).toEqual(["change-mechanical-file-content/rename-local-variable"])
+  expect(reached).toEqual([`${changeMechanicalFileContent.slug}/${renameLocalVariable.slug}`])
 })

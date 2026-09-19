@@ -1,3 +1,6 @@
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { renameExport } from "akasha/change/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.ts"
+import { renameLocalVariable } from "akasha/change/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.ts"
 import {
   gathered,
   missing,
@@ -26,9 +29,10 @@ import ts from "typescript"
 
 export const LINE = "--line"
 
-const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
+const RENAME_EXPORT = `${changeMechanicalFileContent.slug}/${renameExport.slug}` as const
 
-const RENAME_LOCAL_VARIABLE = "change-mechanical-file-content/rename-local-variable"
+const RENAME_LOCAL_VARIABLE =
+  `${changeMechanicalFileContent.slug}/${renameLocalVariable.slug}` as const
 
 const AT = "at"
 

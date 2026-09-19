@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { appendLinesCommand } from "akasha/change/agent/file-content/append-lines/append-lines.change-agent.code.ts"
+import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
@@ -9,7 +11,7 @@ import {
 
 const AT = "akasha/one/held.jsonl"
 
-const REACHES = "change-mechanical-file-content/append-lines"
+const REACHES = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 
 const APPENDING: Reaching = (_world, at, given) => {
   if (at !== REACHES) return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))

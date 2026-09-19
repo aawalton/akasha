@@ -1,3 +1,5 @@
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { removeExportKeyword } from "akasha/change/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.ts"
 import {
   gathered,
   missing,
@@ -21,7 +23,7 @@ import {
 import { changesSparing } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 
-const DROP = "change-mechanical-file-content/remove-export-keyword"
+const DROP = `${changeMechanicalFileContent.slug}/${removeExportKeyword.slug}` as const
 
 const MOST = "most"
 

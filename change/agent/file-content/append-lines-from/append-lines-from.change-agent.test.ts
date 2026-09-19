@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { appendLinesFromCommand } from "akasha/change/agent/file-content/append-lines-from/append-lines-from.change-agent.code.ts"
+import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
@@ -9,7 +11,7 @@ const FROM = "akasha/one/staged.uncommitted.jsonl"
 
 const CONTENT = "one\n"
 
-const REACHES = "change-mechanical-file-content/append-lines"
+const REACHES = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 
 const STAGED: Readonly<Record<string, string>> = { [FROM]: CONTENT }
 
