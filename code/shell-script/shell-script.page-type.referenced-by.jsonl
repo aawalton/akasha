@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-plugin-declaration/alanwalton-kokoro-plugin-declaration.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/kokoro-tts/alanwalton-kokoro-tts.shell-script.ts"}
+{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/live-activity/alanwalton-live-activity.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/monarch-tap/alanwalton-monarch-tap.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/native-audio/alanwalton-native-audio.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/picture-capture/alanwalton-picture-capture.shell-script.ts"}

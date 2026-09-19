@@ -42,6 +42,7 @@ PB="/usr/libexec/PlistBuddy"
 # moved into akasha yet, so it reaches in from outside — which is the allowed
 # direction — rather than answering to whatever cwd the manifest was run in.
 SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/ios-component/pages"
+STOPLIGHTS_CONTENT_SWIFT="$SHARED_WIDGET_SRC_DIR/alanwalton-stoplights-content/alanwalton-stoplights-content.ios-component.swift.swift"
 # Each thing this package builds is an akasha ios-program page, and the files Xcode
 # reads by a fixed name stand beside that page under names the grammar builds.
 PROGRAMS_DIR="$AKASHA_HERE/ios-program/pages"
@@ -92,6 +93,8 @@ HEALTH_SHARE_DESC="alanwalton reads your Active Energy from the Health app so yo
 HEALTH_UPDATE_DESC="alanwalton does not add any data to the Health app — it only reads your Active Energy so your daily calorie burn is tracked automatically."
 
 WIDGET_REFRESH_ENABLED="${NATIVE_SHELL_WIDGET_REFRESH:-1}"
+
+STOPLIGHTS_ACTIVITY_ENABLED="${NATIVE_SHELL_STOPLIGHTS_ACTIVITY:-1}"
 
 MONARCH_TAP_ENABLED="${NATIVE_SHELL_MONARCH_TAP:-1}"
 
@@ -167,6 +170,8 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh"
 # shellcheck source=../widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh
 . "$SEAM_DIR/widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh"
+# shellcheck source=../live-activity/alanwalton-live-activity.shell-script.shell.sh
+. "$SEAM_DIR/live-activity/alanwalton-live-activity.shell-script.shell.sh"
 # shellcheck source=../badge/alanwalton-badge.shell-script.shell.sh
 . "$SEAM_DIR/badge/alanwalton-badge.shell-script.shell.sh"
 # shellcheck source=../wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh
