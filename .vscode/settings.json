@@ -43,6 +43,7 @@
     "workbench.view.extension.opsPages",
     "workbench.view.extension.opsCommands",
     "workbench.view.extension.opsServices",
+    "workbench.view.extension.opsFindings",
     "opsTranscript.open"
   ]
 }
