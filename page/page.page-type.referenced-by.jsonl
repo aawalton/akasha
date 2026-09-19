@@ -112,6 +112,7 @@
 {"propertySlug":"extends-type","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"extends-type","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/agent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/messaging/message/message.page-type.types.ts"}

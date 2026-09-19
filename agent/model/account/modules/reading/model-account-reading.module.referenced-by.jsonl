@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/account/modules/renewing/model-account-renewing.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"}
+{"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"}

@@ -17,6 +17,8 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
@@ -29,6 +31,8 @@ const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
 const PROPERTY_TYPE = "text-property"
 
 const PAGES_AT = "akasha/agent/model/account/pages"
+
+const ABOVE = `${pageType.slug}/${page.slug}`
 
 export const FAKE_ACCESS = "fake-access-token-for-a-test"
 
@@ -171,7 +175,7 @@ export function rootFor(prefix: string): string {
 export function worldMade(): string {
   const root = rootFor("oauth-effects-")
   typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, [], ABOVE_DECLARED)
-  typeWritten(root, ACCOUNT_TYPE, "model-account", TYPE_AT, ["page-type/page"], ACCOUNT_DECLARED)
+  typeWritten(root, ACCOUNT_TYPE, "model-account", TYPE_AT, [ABOVE], ACCOUNT_DECLARED)
   accountWritten(
     root,
     "aine",
@@ -239,9 +243,9 @@ export function doorsWith(
       warnedLines.push(line)
     },
     ...said,
-    secretsRead: (root, page) => {
-      pages.push(page)
-      return reading(root, page)
+    secretsRead: (root, at) => {
+      pages.push(at)
+      return reading(root, at)
     },
   }
   return { doors, said: saidLines, warned: warnedLines, asked, pages }
@@ -255,7 +259,7 @@ function secretsHeld(): ReadonlyMap<string, string> {
 }
 
 export function secretsMissing(slug: string): Doors["secretsRead"] {
-  return (root, page) => (join(root, page).includes(`/${slug}/`) ? null : secretsHeld())
+  return (root, at) => (join(root, at).includes(`/${slug}/`) ? null : secretsHeld())
 }
 
 export function refuse(): never {
