@@ -8,4 +8,5 @@ export const eldavinUntethered = {
   world: "world/the-wandering-inn",
   firstChapter: 587,
   lastChapter: 804,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
