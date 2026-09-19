@@ -27,18 +27,17 @@ from huggingface_hub import hf_hub_download
 
 # (repo_id, repo-relative filename, models subdir, flat destination name).
 # The destination names are exactly the filename constants the model registry
-# (module/zimage-models) references — keep the two in sync. Every model is an fp8
-# quant sized to the 16 GB card (never a BF16 AIO build), and loads through stock
-# ComfyUI CORE loaders, which a GGUF quant would not. The per-eval LoRA is
+# (module/zimage-models) references — keep the two in sync. The checkpoint is an
+# fp8 quant sized to the 16 GB card (never a BF16 AIO build), and loads through
+# stock ComfyUI CORE loaders, which a GGUF quant would not. The per-eval LoRA is
 # NOT downloaded here — it is supplied as a checkpoint argument per evaluation —
 # but its loras/ subdir is created below so the loader sees it.
 #
-#   z-image-base  the fp8_e4m3fn scaled Tongyi-MAI Z-Image DiT — the undistilled
-#                 model, sampled with real CFG; same Lumina2 arch as turbo, so it
-#                 reuses the Qwen-3-4B fp8 text encoder and the Z-Image VAE below.
-#   z-image-turbo standard Tongyi-MAI Z-Image-Turbo fp8_e4m3fn DiT (drbaph quant;
-#                 the Comfy-Org repackage has no fp8) — a Lumina2 arch loading the
-#                 Qwen-3-4B fp8 text encoder and the Z-Image VAE below.
+#   beyond-reality-3  the fp8 BEYOND REALITY SUPER Z IMAGE 3.0 DiT, a Z-Image-Turbo
+#                     finetune — a Lumina2 arch loading the Qwen-3-4B fp8 text
+#                     encoder and the Z-Image VAE below. The repo spells the file
+#                     with a Chinese subtitle, so it is named here as the repo names
+#                     it and lands under the flat name the registry references.
 FILES = [
     (
         "drbaph/Z-Image-fp8",
@@ -53,16 +52,10 @@ FILES = [
         "ae.safetensors",
     ),
     (
-        "drbaph/Z-Image-fp8",
-        "z-img_fp8-e4m3fn-scaled.safetensors",
+        "Nurburgring/BEYOND_REALITY_Z_IMAGE",
+        "BEYOND REALITY SUPER Z IMAGE 3.0 浓妆淡抹总相宜 FP8.safetensors",
         "diffusion_models",
-        "z-img_fp8-e4m3fn-scaled.safetensors",
-    ),
-    (
-        "drbaph/Z-Image-Turbo-FP8",
-        "z_image_turbo_fp8_e4m3fn.safetensors",
-        "diffusion_models",
-        "z-img-turbo_fp8-e4m3fn.safetensors",
+        "beyond-reality-3_fp8.safetensors",
     ),
 ]
 
