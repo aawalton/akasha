@@ -187,7 +187,7 @@ export const spawning: Running = async (one) => {
   }
 }
 
-export const gated: Running = async (one, change) => {
+const gated: Running = async (one, change) => {
   await waitedForRoom(AUDIT)
   return await spawning(one, change)
 }
@@ -215,7 +215,7 @@ export async function commitOf(root: string): Promise<string> {
   throw new Error(`${SAID} the commit an audit would answer for could not be read: ${found.stderr}`)
 }
 
-export async function overNow(root: string): Promise<Over> {
+async function overNow(root: string): Promise<Over> {
   const commit = await commitOf(root)
   return { change: everythingIn(root), commit }
 }
@@ -255,6 +255,7 @@ export type Asking = {
 }
 
 export async function carriedOn(given: Asking, before: Verdict): Promise<Verdict | null> {
+  if (before.unrun) return null
   const moved = given.moved
   const shadow = given.shadow
   if (moved === undefined || shadow === undefined) return null
@@ -268,7 +269,7 @@ export function keyFor(given: Asking): string {
   return [given.home, given.check.slug, given.over.commit].join(PARTED)
 }
 
-export function verdictFor(given: Asking): Verdict | null {
+function verdictFor(given: Asking): Verdict | null {
   return verdictLogged(given.root, given.check.page, AUDIT_LOGS)
 }
 
@@ -379,7 +380,7 @@ export function roundOver(
   return every.filter((one) => held.has(one.slug))
 }
 
-export async function serving(given: Serving): Promise<Told> {
+async function serving(given: Serving): Promise<Told> {
   const send = given.send ?? sending
   const over = await overNow(given.root)
   const shadow = shadowAsked(over.change)

@@ -132,6 +132,15 @@ export const check = {
       statement: "An unmeasured check is counted and told apart from a check that refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An unmeasured answer is not carried to a later commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What leaves a check unmeasured is a condition of the machine rather than of the input.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "No check judges the imports a repository outside akasha takes from inside akasha.",

@@ -20,6 +20,7 @@ import {
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import {
   CLEAN,
+  carrying,
   checked,
   gathered,
   into,
@@ -401,6 +402,12 @@ test("an asker handing over no span carries nothing forward", async () => {
     { ...CLEAN, commit: made[0] ?? "" }
   )
   expect(carried).toBeNull()
+})
+
+test("an unmeasured verdict is run again rather than carried, its input unmoved", async () => {
+  const { root, made } = await repoOf(2)
+  const before = { ...CLEAN, commit: made[0] ?? "", refusals: ["one.sh — no"], unrun: true }
+  expect(await carriedOn(carrying(root, made), before)).toBeNull()
 })
 
 test("a verdict that refused is carried forward as a verdict that refuses", async () => {
