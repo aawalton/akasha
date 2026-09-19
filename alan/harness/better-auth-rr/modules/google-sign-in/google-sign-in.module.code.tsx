@@ -41,7 +41,7 @@ export function GoogleSignIn() {
       safeRedirectTarget({
         next: searchParams.get("next"),
         allowedHosts: ALLOWED_REDIRECT_HOSTS,
-      }) ?? "/"
+      }) ?? "/home"
     try {
       const answered = await fetch(SIGN_IN_AT, {
         method: "POST",
@@ -97,9 +97,6 @@ export function GoogleSignIn() {
                 "Continue with Google"
               )}
             </Button>
-            <p className="text-center text-sm text-tertiary">
-              {"Google is the one way in, and no password is kept here."}
-            </p>
           </div>
         </CardContent>
       </PanelCard>

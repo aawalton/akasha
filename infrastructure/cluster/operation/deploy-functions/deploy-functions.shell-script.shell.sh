@@ -68,12 +68,6 @@ apply_manifests() {
   check_rbac "$ns" "create" "deployments" "apps"
   check_rbac "$ns" "patch" "deployments" "apps"
   log "Applying manifests from $dir into namespace $ns"
-  if [ "${DEPLOY_DRY_RUN:-}" = "diff" ]; then
-    local rc=0
-    kubectl diff -n "$ns" -R -f "$dir/" || rc=$?
-    if [ "$rc" -gt 1 ]; then die "kubectl diff failed (exit $rc)"; fi
-    return 0
-  fi
   kubectl apply -n "$ns" -R -f "$dir/"
 }
 
@@ -87,11 +81,6 @@ build_and_push() {
 
   if [ ! -f "$dockerfile" ]; then
     die "Dockerfile not found: $dockerfile"
-  fi
-
-  if [ -n "${DEPLOY_DRY_RUN:-}" ]; then
-    log "Skipping build_and_push (dry run)"
-    return 0
   fi
 
   log "Building $tag from $dockerfile (context: $context)"
@@ -119,11 +108,6 @@ rollout_image() {
   local kind="${resource%%/*}"
   check_rbac "$ns" "patch" "$kind" "apps"
 
-  if [ -n "${DEPLOY_DRY_RUN:-}" ]; then
-    log "Skipping rollout_image (dry run)"
-    return 0
-  fi
-
   log "Setting image for $resource in $ns → $image (container: $container_name)"
   kubectl set image -n "$ns" "$resource" "$container_name=$image"
 }
@@ -134,11 +118,6 @@ verify_rollout() {
   local timeout="${3:-120s}"
   local kind="${resource%%/*}"
   check_rbac "$ns" "get" "$kind" "apps"
-
-  if [ -n "${DEPLOY_DRY_RUN:-}" ]; then
-    log "Skipping verify_rollout (dry run)"
-    return 0
-  fi
 
   log "Waiting for rollout of $resource in $ns (timeout: $timeout)"
   if kubectl rollout status -n "$ns" "$resource" --timeout="$timeout"; then
