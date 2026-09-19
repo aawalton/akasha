@@ -261,10 +261,7 @@ export const seat = {
       decisionKind: "decision-kind/departure",
       statement: "A seat whose initiative is done is assigned again.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat on call is not swept.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Every value a seat has is either declared of the seat or observed of the seat.",
