@@ -8,4 +8,5 @@ export const ci = {
   kind: "tool-image",
   folder: "infrastructure/container-image/dockerfile",
   extensions: "json",
+  repository: "cluster/ci",
 } as const satisfies BuiltImage
