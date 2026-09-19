@@ -8,6 +8,7 @@ export const product = {
   parts: [
     "domain/archive-of-worlds",
     "domain/audhdalan",
+    "domain/kofi",
     "domain/product-game",
     "domain/smilingjenny",
   ],
