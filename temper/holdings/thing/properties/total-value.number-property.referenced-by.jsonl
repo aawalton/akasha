@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"total-value.number-property.types.ts","path":"temper/character/temper-account/temper-account.page-type.types.ts"}
 {"propertySlug":"import","fileName":"total-value.number-property.types.ts","path":"temper/holdings/thing/temper-holdings-thing.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/character/temper-account/temper-account.page-type.ts","id":"01a05fcd-f547-7f1d-8f1e-1feeb37eebb3"}
-{"propertySlug":"page-property","path":"temper/holdings/temper-net-worth-hour/properties/snapshots.page-property-entry.ts","id":"01a06006-154e-7fe6-a4a2-35245e20fcfb"}
+{"propertySlug":"page-property","path":"temper/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts","id":"01a06006-154e-7fe6-a4a2-35245e20fcfb"}
 {"propertySlug":"page-property","path":"temper/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
 {"propertySlug":"parts","path":"temper/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}

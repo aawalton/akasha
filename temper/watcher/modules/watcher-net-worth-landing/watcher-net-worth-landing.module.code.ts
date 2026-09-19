@@ -22,7 +22,7 @@ import {
 
 const FOLDER = "temper/holdings/temper-net-worth-hour/pages"
 
-const ROWS_PROPERTY = "snapshots"
+const ROWS_PROPERTY = "readings"
 
 const HOUR_LENGTH = 13
 
@@ -83,7 +83,7 @@ export function readingLine(values: ReadingValues): string {
   ])
 }
 
-export function snapshotsWith(body: string | null, values: ReadingValues): string | null {
+export function readingsWith(body: string | null, values: ReadingValues): string | null {
   const held = jsonlLinesOf(body)
   for (const one of held) {
     const sameInstant = textIn(one, "capturedAt") === values.capturedAt
@@ -111,7 +111,7 @@ export async function landNetWorthReading(
   const tryOnce = async (): Promise<Tried> => {
     const found = await read([pagePath, linesPath])
     if (!found.ok) return { outcome: "again", why: found.why }
-    const content = snapshotsWith(contentIn(found.bodies, linesPath), values)
+    const content = readingsWith(contentIn(found.bodies, linesPath), values)
     if (content === null) return { outcome: "already", at: found.at }
     const puts = [{ path: linesPath, content }]
     if (contentIn(found.bodies, pagePath) === null) {

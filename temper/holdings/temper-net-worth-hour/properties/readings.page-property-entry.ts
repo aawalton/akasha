@@ -1,10 +1,10 @@
 import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
-export const snapshots = {
+export const readings = {
   id: "01a06006-154e-7fe6-a4a2-35245e20fcfb",
   type: "page-type/page-property-entry",
-  slug: "snapshots",
-  propertySlug: "snapshots",
+  slug: "readings",
+  propertySlug: "readings",
   definition: "what an account was worth, one reading to a line",
   properties: [
     { pageProperty: "text-property/account-page", required: true, many: false },

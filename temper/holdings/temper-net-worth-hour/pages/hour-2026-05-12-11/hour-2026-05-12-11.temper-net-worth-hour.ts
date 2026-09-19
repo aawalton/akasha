@@ -5,5 +5,5 @@ export const hour2026051211 = {
   type: "page-type/temper-net-worth-hour",
   slug: "hour-2026-05-12-11",
   title: "2026-05-12 11:00 UTC",
-  snapshots: "jsonl",
+  readings: "jsonl",
 } as const satisfies TemperNetWorthHour

@@ -11,7 +11,7 @@
 {"propertySlug":"page-property","path":"temper/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"page-property","path":"temper/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"page-property","path":"temper/character/temper-companion-progress/temper-companion-progress.page-type.ts","id":"01a05fcd-f54b-7497-b549-b7f8ef55b323"}
-{"propertySlug":"page-property","path":"temper/holdings/temper-net-worth-hour/properties/snapshots.page-property-entry.ts","id":"01a06006-154e-7fe6-a4a2-35245e20fcfb"}
+{"propertySlug":"page-property","path":"temper/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts","id":"01a06006-154e-7fe6-a4a2-35245e20fcfb"}
 {"propertySlug":"page-property","path":"temper/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
 {"propertySlug":"page-property","path":"temper/progress/temper-completion-override/temper-completion-override.page-type.ts","id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"propertySlug":"page-property","path":"temper/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}

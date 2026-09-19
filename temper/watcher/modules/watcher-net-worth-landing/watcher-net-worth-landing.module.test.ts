@@ -15,7 +15,7 @@ import {
   netWorthHourSlug,
   netWorthHourTitle,
   readingLine,
-  snapshotsWith,
+  readingsWith,
 } from "akasha/temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"
 import type { LandingDeps } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
@@ -27,7 +27,7 @@ const HOUR_SLUG = "hour-2026-04-29-14"
 
 const PAGE_PATH = `temper/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.ts`
 
-const LINES_PATH = `temper/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.snapshots.jsonl`
+const LINES_PATH = `temper/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.readings.jsonl`
 
 const ROOT = akashaHere()
 
@@ -148,18 +148,18 @@ test("a reading line writes a zero rather than leaving it out", () => {
 })
 
 test("an hour's lines open an hour that holds none", () => {
-  expect(snapshotsWith(null, FIRST)).toBe(`${readingLine(FIRST)}\n`)
+  expect(readingsWith(null, FIRST)).toBe(`${readingLine(FIRST)}\n`)
 })
 
 test("an hour's lines keep the order the instants were taken in", () => {
-  expect(snapshotsWith(`${readingLine(LATER)}\n`, FIRST)).toBe(
+  expect(readingsWith(`${readingLine(LATER)}\n`, FIRST)).toBe(
     `${readingLine(FIRST)}\n${readingLine(LATER)}\n`
   )
 })
 
 test("an hour refuses a reading already there for that account at that instant", () => {
   expect(
-    snapshotsWith(`${readingLine(FIRST)}\n`, {
+    readingsWith(`${readingLine(FIRST)}\n`, {
       ...FIRST,
       id: "01a06009-0000-7000-8000-000000000000",
     })
@@ -168,7 +168,7 @@ test("an hour refuses a reading already there for that account at that instant",
 
 test("an hour takes another account's reading at the same instant", () => {
   const other = { ...FIRST, accountPage: "other", id: "r2", totalValue: 1 }
-  expect(snapshotsWith(`${readingLine(FIRST)}\n`, other)).toBe(
+  expect(readingsWith(`${readingLine(FIRST)}\n`, other)).toBe(
     `${readingLine(FIRST)}\n${readingLine(other)}\n`
   )
 })
@@ -183,7 +183,7 @@ test("an hour page is the body that lands for that hour", () => {
       `  type: "${pageType.slug}/${temperNetWorthHour.slug}",`,
       '  slug: "hour-2026-04-29-14",',
       '  title: "2026-04-29 14:00 UTC",',
-      '  snapshots: "jsonl",',
+      '  readings: "jsonl",',
       "} as const satisfies TemperNetWorthHour",
       "",
     ].join("\n")

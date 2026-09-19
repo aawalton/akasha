@@ -11,9 +11,9 @@ export const temperNetWorthHour = {
     "number-property/excluded-guild-bank-value",
     "number-property/gold-amount",
     "number-property/item-value",
-    "page-property-entry/snapshots",
+    "page-property-entry/readings",
   ],
-  properties: [{ pageProperty: "page-property-entry/snapshots", required: true, many: false }],
+  properties: [{ pageProperty: "page-property-entry/readings", required: true, many: false }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
