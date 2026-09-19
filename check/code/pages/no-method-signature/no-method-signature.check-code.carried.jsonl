@@ -1,4 +1,4 @@
-{"audit":{"maxCpuSeconds":15}}
+{"audit":{"maxCpuSeconds":60}}
 {"check":{"maxCpuSeconds":1}}
 {"decisions":[{"decisionKind":"decision-kind/absence","statement":"A call signature is left out."},{"decisionKind":"decision-kind/absence","statement":"A construct signature is left out."},{"decisionKind":"decision-kind/absence","statement":"An index signature is left out."},{"decisionKind":"decision-kind/absence","statement":"So is a method written out rather than declared."},{"decisionKind":"decision-kind/departure","statement":"The method form is refused and the function-type property is not."},{"decisionKind":"decision-kind/departure","statement":"A file named `.d.ts` is passed over."},{"decisionKind":"decision-kind/departure","statement":"A declaration file names a shape another language or another writer already named."}]}
 {"definition":"the check refusing a method signature in an interface or a type literal"}

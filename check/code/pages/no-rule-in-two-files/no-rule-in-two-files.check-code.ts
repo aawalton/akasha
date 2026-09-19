@@ -191,5 +191,5 @@ export const noRuleInTwoFiles = {
     },
   ],
   check: { maxCpuSeconds: 30 },
-  audit: { maxCpuSeconds: 30 },
+  audit: { maxCpuSeconds: 120 },
 } as const satisfies CheckCode

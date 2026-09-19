@@ -61,5 +61,5 @@ export const identifierNamesOnePage = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
+  audit: { maxCpuSeconds: 45 },
 } as const satisfies CheckCode

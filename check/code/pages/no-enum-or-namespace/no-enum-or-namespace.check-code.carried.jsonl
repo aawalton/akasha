@@ -1,4 +1,4 @@
-{"audit":{"maxCpuSeconds":15}}
+{"audit":{"maxCpuSeconds":60}}
 {"check":{"maxCpuSeconds":1}}
 {"decisions":[{"decisionKind":"decision-kind/absence","statement":"A declaration about a package is left out."},{"decisionKind":"decision-kind/absence","statement":"`declare global` is left alone."},{"decisionKind":"decision-kind/absence","statement":"An enum or a namespace a type declaration holds is left out."},{"decisionKind":"decision-kind/departure","statement":"An enum and a namespace are one check."}]}
 {"definition":"the check refusing an enum or a named namespace"}

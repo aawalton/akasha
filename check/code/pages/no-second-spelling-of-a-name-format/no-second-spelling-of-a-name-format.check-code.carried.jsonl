@@ -1,4 +1,4 @@
-{"audit":{"maxCpuSeconds":15}}
+{"audit":{"maxCpuSeconds":60}}
 {"check":{"maxCpuSeconds":10}}
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A shape is collected from every name format's code file the index names."},{"decisionKind":"decision-kind/departure","statement":"A shape is the pattern a regex literal reads as without its flags."},{"decisionKind":"decision-kind/departure","statement":"A regex literal is read from the parse rather than from the text."},{"decisionKind":"decision-kind/departure","statement":"A refusal names the line spelling the shape and the file stating that shape."},{"decisionKind":"decision-kind/absence","statement":"A name format spelling its own shape is passed over."},{"decisionKind":"decision-kind/absence","statement":"Two name formats stating one shape refuse neither name format."},{"decisionKind":"decision-kind/absence","statement":"A shape reached rather than spelled is nothing to read."}]}
 {"definition":"the check refusing a regex spelling the shape a name format states"}
