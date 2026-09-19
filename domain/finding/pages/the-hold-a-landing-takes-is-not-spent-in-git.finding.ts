@@ -1,0 +1,12 @@
+import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
+
+export const theHoldALandingTakesIsNotSpentInGit = {
+  id: "01a0bb11-bffd-740a-8467-754f56109d76",
+  type: "page-type/finding",
+  slug: "the-hold-a-landing-takes-is-not-spent-in-git",
+  domain: "page-type/command",
+  claim:
+    "A landing holds the one landing lock for about 450ms whenever its change names many folders, and asking git once for each kind of thing rather than once per item did not move that. Seven holds watched over five minutes were 77ms, 405ms, 413ms, 460ms, 477ms, 488ms and 580ms, and only the 77ms one was a change naming a single folder. The commit's own git calls are now one `ls-tree` for every folder, one `hash-object` for every file, and one `mktree --batch` for each depth, about nine calls at roughly 3ms each.",
+  evidence:
+    "WHAT WAS TAKEN OUT OF THE HOLD ALREADY. Working out which paths a machine writes moved before the hold, and git's own index is written after the hold rather than inside it; `update-index --index-info` rewrites all 380,845 entries and was 73.8ms of a 101.7ms hold. Those two took a one-folder hold from 514ms on average to 48ms and 85ms.\n\nWHAT THE GIT CALLS COST. A landing's commit was counted through a shim that logs every git invocation. It is now `rev-parse HEAD`, `rev-parse HEAD^{tree}`, `ls-tree -r` for modes, one `hash-object -w --no-filters --stdin-paths`, one `ls-tree` naming every folder, one `mktree --batch` for each depth, `commit-tree`, `symbolic-ref` and `update-ref`. The whole block ran over 38ms on the shim's own clock, and the shim adds its own overhead to each call.\n\nWHAT IS LEFT TO LOOK AT. The hold also runs `unfresh`, two calls to `beforeOf` that each spawn `git cat-file --batch`, `wroteOnto`, the akasha index settle, `movedOnto` and `clearedOff`. `landing` takes a settle worked out before the hold and uses it only where `settled.base` is still the commit it lands on, so a landing whose base moved while it was judged settles inside the hold instead. The lock was busy 46% of the wall over one half hour with 79 applies, so a base moving in between is the common case rather than the rare one.",
+} as const satisfies Finding
