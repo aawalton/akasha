@@ -1,9 +1,9 @@
 import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
 
-export const ainePatreon = {
+export const aineContribution = {
   id: "01a0b743-eea8-743e-826e-771bc840d92f",
   type: "page-type/initiative",
-  slug: "aine-patreon",
+  slug: "aine-contribution",
   domain: "domain/product",
   persona: "persona/aine",
   intentStack: [
