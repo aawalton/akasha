@@ -9,8 +9,9 @@ export const movementRestriction = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "select-property/movement-pattern", required: true, many: false },
+    { pageProperty: "calendar-date-property/tested-again", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
-  parts: [],
+  parts: ["calendar-date-property/tested-again"],
 } as const satisfies PageType

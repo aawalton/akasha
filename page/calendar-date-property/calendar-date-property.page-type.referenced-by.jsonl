@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/self/life-theme/properties/start-date.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/appearance-experiment-day.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-due-date.calendar-date-property.ts"}
+{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/movement-restriction/properties/tested-again.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-date.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-date.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-last-synced-at.calendar-date-property.ts"}
