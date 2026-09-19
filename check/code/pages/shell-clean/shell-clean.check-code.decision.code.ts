@@ -166,7 +166,7 @@ export function judgedOf(looked: Looked, first: string, root: string): readonly 
     return held.map((one) => ({ path: one.path, reason: reasonOf(one) }))
   }
   const why = looked.failed.replaceAll(`${root}/`, "").replaceAll(root, MIRROR)
-  return [{ path: first, reason: `${why}. ${UNLOOKED}` }]
+  return [{ path: first, reason: `${why}. ${UNLOOKED}`, threw: true }]
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {

@@ -177,15 +177,21 @@ test("a sourced script the index does not file is a refusal rather than a clean 
   expect(said[0]?.reason).toContain("SC1091")
 })
 
-test("a linter that could not run is a refusal, not a clean answer", () => {
+test("a linter that could not run is unmeasured, not a clean answer", () => {
   const looked = lookedOver(AWAY, [ONE], null)
   expect(looked.found).toEqual([])
   const said = judgedOf(looked, ONE, AWAY)
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe(ONE)
+  expect(said[0]?.threw).toBe(true)
   expect(said[0]?.reason).toContain("is on PATH")
   expect(said[0]?.reason).toContain("nothing was looked at")
   expect(said[0]?.reason).toContain("verified nothing")
+})
+
+test("a finding the linter did look at refuses rather than going unmeasured", () => {
+  const said = judgedOf({ found: [marked(ONE, 1, 1)], failed: null }, ONE, AWAY)
+  expect(said[0]?.threw).toBeUndefined()
 })
 
 test("a run that failed is answered against the first file named, outside the mirror it read", () => {

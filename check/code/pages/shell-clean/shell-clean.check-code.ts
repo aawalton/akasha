@@ -103,7 +103,11 @@ export const shellClean = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refusal for a missing linter names the linter rather than a fault in the change.",
+        "The answer for a missing linter names the linter rather than a fault in the change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run the linter could not look in is unmeasured rather than refusing.",
     },
     {
       decisionKind: "decision-kind/absence",
