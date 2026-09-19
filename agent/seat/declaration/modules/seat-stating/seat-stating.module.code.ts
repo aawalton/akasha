@@ -1,6 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Landing,
@@ -35,11 +39,11 @@ const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
 const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
-const TAKE = "change-mechanical-file/remove-file-page"
+const TAKE = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
 
-const TAKE_FILE = "change-mechanical-file/remove-file"
+const TAKE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const UNFILED = "names no page, so no page is taken away"
 

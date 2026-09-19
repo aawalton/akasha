@@ -18,14 +18,22 @@ import {
   seatPathForName,
   seatsAt,
 } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+import { akasha as akashaDomain } from "akasha/akasha.domain.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import type {
   Asking,
   Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { akasha as akashaPersona } from "akasha/persona/pages/akasha/akasha.persona.ts"
+import { athena } from "akasha/persona/pages/athena/athena.persona.ts"
+import { persona } from "akasha/persona/persona.page-type.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -103,13 +111,19 @@ test("a seat not on call says so", () => {
   expect(seatBody({ ...WHOLE, onCall: false }, "a", ROOT)).toContain("onCall: false,")
 })
 
+const ATHENA_PERSONA = `${persona.slug}/${athena.slug}` as const
+
+const AKASHA_PERSONA = `${persona.slug}/${akashaPersona.slug}` as const
+
+const AKASHA_DOMAIN = `${domain.slug}/${akashaDomain.slug}` as const
+
 test("an assignment is addressed under the page type carrying its slug", () => {
-  expect(assignmentAddressOf("athena", ROOT)).toBe("persona/athena")
+  expect(assignmentAddressOf(athena.slug, ROOT)).toBe(ATHENA_PERSONA)
 })
 
 test("an assignment naming a page type that carries its slug is not addressed again", () => {
-  expect(assignmentAddressOf("persona/akasha", ROOT)).toBe("persona/akasha")
-  expect(assignmentAddressOf("akasha", ROOT)).toBe("domain/akasha")
+  expect(assignmentAddressOf(AKASHA_PERSONA, ROOT)).toBe(AKASHA_PERSONA)
+  expect(assignmentAddressOf(akashaDomain.slug, ROOT)).toBe(AKASHA_DOMAIN)
 })
 
 test("an assignment the page addresses keeps the page type that page names", () => {
@@ -193,9 +207,9 @@ const PAGE_AT = seatPathForName(STOPPED)
 
 const PAGE_BODY = "export const athena = {} as const\n"
 
-const TAKE_PAGE = "change-mechanical-file/remove-file-page"
+const TAKE_PAGE = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
 
-const TAKE_FILE = "change-mechanical-file/remove-file"
+const TAKE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const UNFILED_SAID = `\`${PAGE_AT}\` names no page, so no page is taken away`
 
