@@ -7,7 +7,7 @@ export const partsUnderThePageTheyName = {
   definition: "the shape of a folder gathering under a plural the pages naming the page above",
   code: "ts",
   test: "ts",
-  enabled: false,
+  enabled: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
