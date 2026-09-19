@@ -2,12 +2,14 @@ import { expect, test } from "bun:test"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { matchingIn } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
+import { nameFormat } from "akasha/page/name-format/name-format.page-type.ts"
+import { lowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
 const COMMITTED = shadowAt(REPO_AT).index
 
-const KEBAB = "name-format/lower-kebab-case"
+const KEBAB = `${nameFormat.slug}/${lowerKebabCase.slug}` as const
 
 const ID = "01a04eba-7459-7284-8c06-c79e5963387d"
 

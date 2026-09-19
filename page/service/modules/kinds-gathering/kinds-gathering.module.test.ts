@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { weight } from "akasha/alan/value/health/fitness/strength/log/properties/weight.number-property.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   pageFiled,
@@ -11,6 +12,7 @@ import {
   shapeAlsoFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { numberProperty } from "akasha/page/number-property/number-property.page-type.ts"
 import {
   carriedFor,
   computedInto,
@@ -22,6 +24,8 @@ import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
+
+const WEIGHT_AT = `${numberProperty.slug}/${weight.slug}`
 
 type Declaring = { readonly pagePropertySlug: string; readonly required: boolean }
 
@@ -211,7 +215,7 @@ test("a calculation reaches a page of another page type by its page type and its
   const root = scratch.rootFor("akasha-kinds-")
   worlded(root)
   propertied(root, "number-property", "weight", { max: null })
-  typed(root, "lifter", [], [{ pagePropertySlug: "number-property/weight", required: false }])
+  typed(root, "lifter", [], [{ pagePropertySlug: WEIGHT_AT, required: false }])
   calculated(
     root,
     "loaded",

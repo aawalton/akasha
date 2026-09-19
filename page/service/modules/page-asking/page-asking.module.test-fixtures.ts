@@ -1,4 +1,6 @@
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
+import { property } from "akasha/graph/attribute/pages/property.graph-attribute.ts"
 import {
   bodyOf,
   graphedRepo,
@@ -39,7 +41,7 @@ const HELD: readonly Named[] = [
     pageTypeSlug: "graph-edge",
     slug: "relation",
     definition: "one page naming another page under a property",
-    attributes: ["graph-attribute/property"],
+    attributes: [`${graphAttribute.slug}/${property.slug}`],
   }),
   typed("3", "tied", ["tied-first", "tied-second"]),
   typed("4", "tied-first", [], "first-owner"),

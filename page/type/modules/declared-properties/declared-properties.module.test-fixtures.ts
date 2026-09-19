@@ -1,5 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { definition } from "akasha/domain/properties/definition.standard-agent-english-property.ts"
+import { standardAgentEnglishProperty } from "akasha/domain/standard-agent-english/property/standard-agent-english-property.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   shapeAdded,
@@ -15,6 +17,8 @@ import {
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 export const scratch = scratchWorld()
+
+export const DEFINITION_AT = `${standardAgentEnglishProperty.slug}/${definition.slug}`
 
 function named(above: readonly string[] | null): string {
   if (above === null) return "[]"

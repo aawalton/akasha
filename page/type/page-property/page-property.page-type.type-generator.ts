@@ -8,6 +8,8 @@ import {
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
 import { keysFor, resolvingIn } from "akasha/page/type/page-type.page-type.type-generator.ts"
 
@@ -35,7 +37,7 @@ const RELATION = "relation-property"
 
 const RECORD = "record-property"
 
-const SLUG_AT = "text-property/slug"
+const SLUG_AT = `${textProperty.slug}/${slugPage.slug}` as const
 
 const CHOSEN = new Set(["rank-property", "select-property"])
 

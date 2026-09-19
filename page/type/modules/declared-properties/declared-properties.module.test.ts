@@ -6,6 +6,7 @@ import {
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import {
   carriedBy,
+  DEFINITION_AT,
   declaredIn,
   grouped,
   memberedBy,
@@ -140,7 +141,7 @@ test("a declaration restating an inherited property qualified binds once, the ne
     ["domain"],
     [
       {
-        pagePropertySlug: "standard-agent-english-property/definition",
+        pagePropertySlug: DEFINITION_AT,
         required: true,
         many: false,
       },
@@ -222,7 +223,7 @@ test("a shadowed declaration keeps the required it states, not the one that bind
     ["domain"],
     [
       {
-        pagePropertySlug: "standard-agent-english-property/definition",
+        pagePropertySlug: DEFINITION_AT,
         required: true,
         many: false,
       },
@@ -254,7 +255,7 @@ test("what binds is the first of the declarations, and the rest are answered her
     ["page"],
     [
       {
-        pagePropertySlug: "standard-agent-english-property/definition",
+        pagePropertySlug: DEFINITION_AT,
         required: true,
         many: false,
       },
