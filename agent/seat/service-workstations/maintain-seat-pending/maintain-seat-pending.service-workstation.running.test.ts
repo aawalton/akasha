@@ -1,7 +1,9 @@
 import { expect, mock, test } from "bun:test"
+import {
+  FOLLOWING_ON,
+  outcomeOf,
+} from "akasha/infrastructure/service/workstation/modules/run-outcome/run-outcome.module.code.ts"
 
-const SETTLED = "settled"
-const FOLLOWING_ON = "following on"
 const HANDED: (readonly string[])[] = []
 
 const maintaining = await import(
@@ -22,15 +24,6 @@ mock.module(
 const running = await import(
   "akasha/agent/seat/service-workstations/maintain-seat-pending/maintain-seat-pending.service-workstation.running.code.ts"
 )
-
-function outcomeOf(run: Promise<never>, ms: number): Promise<string> {
-  return Promise.race([
-    run.then(() => SETTLED),
-    new Promise<string>((say) => {
-      setTimeout(() => say(FOLLOWING_ON), ms)
-    }),
-  ])
-}
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
   expect(typeof running.runService).toBe("function")
