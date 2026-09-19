@@ -1,3 +1,5 @@
+import { changeFileContentOfAnyKind } from "akasha/change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
@@ -16,7 +18,8 @@ const OLD = "old"
 
 const NEW = "new"
 
-const CHANGE_FILE = "change-mechanical-file-content/change-file-content-of-any-kind"
+const CHANGE_FILE =
+  `${changeMechanicalFileContent.slug}/${changeFileContentOfAnyKind.slug}` as const
 
 const BY_MACHINE = "` is a file a machine writes rather than an agent"
 

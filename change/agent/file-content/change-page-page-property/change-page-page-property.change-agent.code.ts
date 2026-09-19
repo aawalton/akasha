@@ -1,3 +1,6 @@
+import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
+import { changePagePagePropertyRelation } from "akasha/change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { readFor, targetsIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
@@ -5,10 +8,11 @@ import { manyIn } from "akasha/change/modules/page-literal/page-literal.module.c
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
+const CHANGE_PAGE_PROPERTY =
+  `${changeMechanicalFileContent.slug}/${changePagePageProperty.slug}` as const
 
 const CHANGE_PAGE_PROPERTY_RELATION =
-  "change-mechanical-file-content/change-page-page-property-relation"
+  `${changeMechanicalFileContent.slug}/${changePagePagePropertyRelation.slug}` as const
 
 const AT = "at"
 

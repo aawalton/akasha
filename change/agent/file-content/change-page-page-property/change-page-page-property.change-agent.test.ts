@@ -3,6 +3,9 @@ import {
   changePageProperty,
   runChange,
 } from "akasha/change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts"
+import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
+import { changePagePagePropertyRelation } from "akasha/change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -92,7 +95,7 @@ test("each key is handed to the change reached at the address that key names", a
   await changePageProperty(seeing("slug", null), { at: AT, key: "slug", to: "other" })
 
   expect(reached).toEqual([
-    "change-mechanical-file-content/change-page-page-property-relation",
-    "change-mechanical-file-content/change-page-page-property",
+    `${changeMechanicalFileContent.slug}/${changePagePagePropertyRelation.slug}`,
+    `${changeMechanicalFileContent.slug}/${changePagePageProperty.slug}`,
   ])
 })

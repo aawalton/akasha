@@ -3,6 +3,8 @@ import {
   changeDomainParent,
   runChange,
 } from "akasha/change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts"
+import { changeDomainParent as changeDomainParentMechanical } from "akasha/change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   type Carried,
   worldRecording,
@@ -12,7 +14,8 @@ const PAGE = "command/imessage-contact-list"
 
 const TO = "namespace/imessage"
 
-const CHANGE_DOMAIN_PARENT = "change-mechanical-file-content/change-domain-parent"
+const CHANGE_DOMAIN_PARENT =
+  `${changeMechanicalFileContent.slug}/${changeDomainParentMechanical.slug}` as const
 
 test("the reparenting is left to the change reached at its address", async () => {
   const carried: Carried = { at: "", given: null }

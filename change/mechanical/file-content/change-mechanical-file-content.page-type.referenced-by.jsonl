@@ -5,6 +5,12 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/append-lines/append-lines.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-file/change-file.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-file/change-file.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.code.ts"}

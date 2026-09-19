@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { changeFileCommand } from "akasha/change/agent/file-content/change-file/change-file.change-agent.code.ts"
+import { changeFileContentOfAnyKind } from "akasha/change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -72,7 +74,7 @@ test("the passage this change hands on is reached through the runner the world c
     { at: AT, old: "two", new: "four" }
   )
 
-  expect(reached).toBe("change-mechanical-file-content/change-file-content-of-any-kind")
+  expect(reached).toBe(`${changeMechanicalFileContent.slug}/${changeFileContentOfAnyKind.slug}`)
   expect(said.refused).toBeNull()
 })
 
