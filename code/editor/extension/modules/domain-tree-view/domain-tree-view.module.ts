@@ -21,8 +21,8 @@ export const domainTreeView = {
       statement: "A row is identified apart while a filter is there.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A row a sequence placed has that place ahead of its label.",
+      decisionKind: "decision-kind/absence",
+      statement: "A row says nothing of the place a sequence put it in.",
     },
     {
       decisionKind: "decision-kind/departure",

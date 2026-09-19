@@ -81,9 +81,8 @@ function buildTreeItem(
   filtering: boolean,
   atTop: boolean
 ): vscode.TreeItem {
-  const label = element.position === null ? element.label : `${element.position}-${element.label}`
   const item = new vscode.TreeItem(
-    label,
+    element.label,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
       : atTop || filtering
