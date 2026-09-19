@@ -3,6 +3,8 @@ import {
   removePropertyValue,
   runChange,
 } from "akasha/change/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { removePropertyValue as removePropertyValueMechanical } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { knownOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -13,7 +15,7 @@ const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
 const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
 
-const RUNS = "change-mechanical-file-content/remove-property-value"
+const RUNS = `${changeMechanicalFileContent.slug}/${removePropertyValueMechanical.slug}` as const
 
 function worldWith(page: Value | null): World {
   const known = knownOf({})

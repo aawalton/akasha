@@ -1,3 +1,5 @@
+import { addPropertyValue as addPropertyValueMechanical } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
@@ -13,7 +15,8 @@ import {
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { reaches } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 
-const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
+const ADD_PROPERTY_VALUE =
+  `${changeMechanicalFileContent.slug}/${addPropertyValueMechanical.slug}` as const
 
 const AT = "at"
 

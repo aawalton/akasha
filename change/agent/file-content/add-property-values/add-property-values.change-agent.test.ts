@@ -1,5 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/change/agent/file-content/add-property-values/add-property-values.change-agent.code.ts"
+import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -20,7 +22,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 afterAll(scratch.sweep)
 
-const ADD = "change-mechanical-file-content/add-property-value"
+const ADD = `${changeMechanicalFileContent.slug}/${addPropertyValue.slug}` as const
 
 const PARTS = "partSlugs"
 
