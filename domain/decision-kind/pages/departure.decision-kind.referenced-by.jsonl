@@ -2691,6 +2691,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.ts","id":"01a09467-62d1-7e1e-b24d-b6186ad6cf98"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/file-following/file-following.module.ts","id":"01a05a5e-4f46-76e6-8f54-5318900f7d74"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.ts","id":"01a08dff-2d3f-7efd-945c-c66c06e004db"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/run-outcome/run-outcome.module.ts","id":"01a0b71e-6a03-7c15-aa64-3cd18c31ba0c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.ts","id":"01a0821e-fce5-7c36-a9bf-49d374faeb31"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-asking/service-asking.module.ts","id":"01a09424-ecd8-7c1f-b068-99932a16c139"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-beating/service-beating.module.ts","id":"01a08cb0-defb-7ab1-9512-d43812f8fe80"}

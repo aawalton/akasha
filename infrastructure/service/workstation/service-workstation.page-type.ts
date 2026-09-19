@@ -20,6 +20,7 @@ export const serviceWorkstation = {
     "module/code-moving",
     "module/file-following",
     "module/run-composing",
+    "module/run-outcome",
     "module/service-alerting",
     "module/service-asking",
     "module/service-beating",

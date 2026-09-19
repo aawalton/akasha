@@ -1,0 +1,23 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const runOutcome = {
+  id: "01a0b71e-6a03-7c15-aa64-3cd18c31ba0c",
+  type: "page-type/module",
+  slug: "run-outcome",
+  definition: "whether a service's run answered or is following its work on",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run that never answers is proved by racing that run against a clock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run answering before the clock says the run settled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A clock reaching the end first says the run is following its work on.",
+    },
+  ],
+} as const satisfies Module
