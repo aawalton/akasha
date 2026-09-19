@@ -53,6 +53,7 @@ import {
   typingBody,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
@@ -98,6 +99,16 @@ test("a file is answered with every file importing it, and each says a reference
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+  ])
+})
+
+test("a relation coming in is answered though the body of the page reached will not read", () => {
+  const root = relationWorld(1)
+  const bodies = bodiesIn(root)
+  const index = indexOver(readingIn(root), (path) => (path === TARGET_AT ? null : bodies(path)))
+
+  expect(edgesInto(TARGET_AT, [RELATION], index)).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
 })
 

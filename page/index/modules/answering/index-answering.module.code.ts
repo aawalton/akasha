@@ -44,6 +44,7 @@ import {
   idsNaming,
   importersOf,
   type Named,
+  namersAt,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -96,6 +97,7 @@ export type Answering = {
     fileProperties: ReadonlyMap<string, string | null>
   ) => readonly string[]
   readonly membersIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
+  readonly namersAt: (pagePath: string) => readonly Named[]
   readonly namersOf: (id: string) => readonly Named[]
   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
   readonly pageByPath: (path: string) => Value | null
@@ -145,6 +147,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
       listedWithin(reading, pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said),
     manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
     membersIfNamed: (pageTypeSlug) => membersIfNamedOf(pageTypeSlug, reading, pageOf),
+    namersAt: (pagePath) => namersAt(reading, pagePath),
     namersOf: (id) => namersOf(reading, id),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
     pageByPath: (path) => pageOf(path),

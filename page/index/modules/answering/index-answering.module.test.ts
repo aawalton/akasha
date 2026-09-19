@@ -34,6 +34,7 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   idsNaming,
+  namersAt,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -148,6 +149,8 @@ test("every question answers what the reader beneath it answers with the reading
   expect(index.listedNamed(PAGE_TYPE, MODULE, SLUG, "held")).toEqual(
     listedNamed(reading, PAGE_TYPE, MODULE, SLUG, "held")
   )
+  expect(index.namersAt(TYPE_AT)).toEqual(namersAt(reading, TYPE_AT))
+  expect(index.namersAt(TYPE_AT).length).toBeGreaterThan(0)
   expect(index.namersOf(TYPE_ID)).toEqual(namersOf(reading, TYPE_ID))
   expect(index.namersOf(TYPE_ID).length).toBeGreaterThan(0)
   expect(index.pageAt(MODULE, "held")).toEqual(pageAt(reading, MODULE, "held", pageOf))

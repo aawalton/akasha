@@ -204,11 +204,8 @@ function relationsInto(
     index.folderPropertiesAt()
   )
   if (to === null) return []
-  const value = index.pageByPath(to)
-  const held = value === null ? null : textAt(value, ID)
-  if (held === null) return []
   const found: Edge[] = []
-  for (const named of index.namersOf(held)) {
+  for (const named of index.namersAt(to)) {
     found.push({
       kind: asking.kind,
       from: named.path,

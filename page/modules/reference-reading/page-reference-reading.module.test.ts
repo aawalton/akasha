@@ -3,6 +3,7 @@ import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape
 import {
   idsNaming,
   importersOf,
+  namersAt,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
@@ -40,8 +41,10 @@ const SHAPED = `${JSON.stringify({
   fileName: "routes.ts",
 })}\n`
 
+const ID_FILED_AT = `page/id/${NAMED_ID}.jsonl`
+
 const HELD: Record<string, string> = {
-  "page/id/01a0a2e9-c513-7eed-aa47-000000000002.jsonl": `{"path":"${NAMED_AT}","id":"${NAMED_ID}"}`,
+  [ID_FILED_AT]: `{"path":"${NAMED_AT}","id":"${NAMED_ID}"}`,
   "page-type/page-type/slug/domain.jsonl":
     '{"path":"akasha/domain.page-type.ts","id":"01a0a2e9-c513-7eed-aa47-000000000005"}',
   "page-type/page-type/slug/module.jsonl":
@@ -86,6 +89,15 @@ test("the pages naming a page through one property are answered by id", () => {
 
 test("who names a page is answered with the property each name comes through, imports left out", () => {
   expect(namersOf(worldOf(HELD), NAMED_ID)).toEqual([{ path: NAMER_AT, propertySlug: "parts" }])
+})
+
+const UNFILED: Record<string, string> = Object.fromEntries(
+  Object.entries(HELD).filter(([at]) => at !== ID_FILED_AT)
+)
+
+test("who names a page is answered beside that page, though no id in the index reaches it", () => {
+  expect(namersAt(worldOf(UNFILED), NAMED_AT)).toEqual([{ path: NAMER_AT, propertySlug: "parts" }])
+  expect(namersOf(worldOf(UNFILED), NAMED_ID)).toEqual([])
 })
 
 test("who imports a file beside a page is read from that page's file", () => {

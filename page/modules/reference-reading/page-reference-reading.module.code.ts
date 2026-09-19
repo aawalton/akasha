@@ -52,13 +52,18 @@ export function idsNaming(
   return found.sort()
 }
 
-export function namersOf(given: string | Reading, id: string): readonly Named[] {
+export function namersAt(given: string | Reading, pagePath: string): readonly Named[] {
   const found: Named[] = []
-  for (const one of referencesOf(given, id)) {
+  for (const one of referencesFor(given, pagePath)) {
     if (one.propertySlug === IMPORT) continue
     found.push({ path: one.path, propertySlug: one.propertySlug })
   }
   return found
+}
+
+export function namersOf(given: string | Reading, id: string): readonly Named[] {
+  const listed = listedById(readingIn(given), id)
+  return listed === null ? [] : namersAt(given, listed.path)
 }
 
 export function importersOf(given: string | Reading, path: string): readonly string[] {
