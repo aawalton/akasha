@@ -1,0 +1,10 @@
+import type { WorldItem } from "akasha/story/world/mechanics/items/world-item.page-type.types.ts"
+
+export const vaultOfGloriousSouls = {
+  id: "01a0655a-7b80-7ed9-ac15-3940f7bb86af",
+  type: "page-type/world-item",
+  slug: "vault-of-glorious-souls",
+  title: "Vault of Glorious Souls",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldItem

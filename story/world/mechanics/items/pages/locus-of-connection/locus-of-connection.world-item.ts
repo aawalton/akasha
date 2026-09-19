@@ -1,0 +1,10 @@
+import type { WorldItem } from "akasha/story/world/mechanics/items/world-item.page-type.types.ts"
+
+export const locusOfConnection = {
+  id: "01a0655a-7b7f-7ef2-a735-6aab859ccff1",
+  type: "page-type/world-item",
+  slug: "locus-of-connection",
+  title: "Locus of Connection",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldItem

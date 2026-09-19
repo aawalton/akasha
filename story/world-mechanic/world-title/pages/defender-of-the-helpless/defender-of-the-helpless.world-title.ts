@@ -1,9 +1,0 @@
-import type { WorldTitle } from "akasha/story/world-mechanic/world-title/world-title.page-type.types.ts"
-
-export const defenderOfTheHelpless = {
-  id: "01a0655a-7b7c-7658-aff4-bc86eb450dc4",
-  type: "page-type/world-title",
-  slug: "defender-of-the-helpless",
-  title: "Defender of the Helpless",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldTitle

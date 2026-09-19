@@ -1,9 +1,0 @@
-import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/world-miracle.page-type.types.ts"
-
-export const amassTheFaithfulSWill = {
-  id: "01a0655a-7b7b-7bce-9dc4-cec597c138ce",
-  type: "page-type/world-miracle",
-  slug: "amass-the-faithful-s-will",
-  title: "Amass the Faithful’s Will",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldMiracle

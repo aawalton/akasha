@@ -1,0 +1,9 @@
+import type { WorldRecipe } from "akasha/story/world/mechanics/recipes/world-recipe.page-type.types.ts"
+
+export const stitchBread = {
+  id: "01a0655a-7b80-7353-b851-1b4ebc73c378",
+  type: "page-type/world-recipe",
+  slug: "stitch-bread",
+  title: "Stitch-bread",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldRecipe

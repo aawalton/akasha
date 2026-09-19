@@ -1,0 +1,10 @@
+import type { WorldItem } from "akasha/story/world/mechanics/items/world-item.page-type.types.ts"
+
+export const magePicture = {
+  id: "01a0655a-7b7f-73c9-b05e-c7dc157884fb",
+  type: "page-type/world-item",
+  slug: "mage-picture",
+  title: "Mage Picture",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldItem

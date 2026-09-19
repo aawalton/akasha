@@ -1,0 +1,9 @@
+import type { WorldSpecies } from "akasha/story/world/mechanics/species/world-species.page-type.types.ts"
+
+export const drake = {
+  id: "01a0655a-0687-7fd4-b572-3f6bec7bcbf1",
+  type: "page-type/world-species",
+  slug: "drake",
+  title: "Drake",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldSpecies

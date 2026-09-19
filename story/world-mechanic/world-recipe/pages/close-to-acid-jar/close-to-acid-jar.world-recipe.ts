@@ -1,9 +1,0 @@
-import type { WorldRecipe } from "akasha/story/world-mechanic/world-recipe/world-recipe.page-type.types.ts"
-
-export const closeToAcidJar = {
-  id: "01a0655a-7b80-76b7-8a54-f55724e11b33",
-  type: "page-type/world-recipe",
-  slug: "close-to-acid-jar",
-  title: "Close to Acid Jar",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldRecipe

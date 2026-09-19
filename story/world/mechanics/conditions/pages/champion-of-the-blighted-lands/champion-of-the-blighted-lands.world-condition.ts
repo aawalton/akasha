@@ -1,0 +1,10 @@
+import type { WorldCondition } from "akasha/story/world/mechanics/conditions/world-condition.page-type.types.ts"
+
+export const championOfTheBlightedLands = {
+  id: "01a0655a-7b7a-7035-9028-1ddbedbdbdcc",
+  type: "page-type/world-condition",
+  slug: "champion-of-the-blighted-lands",
+  title: "Champion of the Blighted Lands",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldCondition

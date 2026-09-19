@@ -1,0 +1,10 @@
+import type { WorldEnchantment } from "akasha/story/world/mechanics/enchantments/world-enchantment.page-type.types.ts"
+
+export const sharpness = {
+  id: "01a0655a-7b7b-7ae1-9bd4-b86ec3eda422",
+  type: "page-type/world-enchantment",
+  slug: "sharpness",
+  title: "Sharpness",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldEnchantment

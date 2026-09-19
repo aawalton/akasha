@@ -1,9 +1,0 @@
-import type { WorldLegacy } from "akasha/story/world-mechanic/world-legacy/world-legacy.page-type.types.ts"
-
-export const longRangedShot = {
-  id: "01a0655a-0687-7721-a2a6-29bd70cb0498",
-  type: "page-type/world-legacy",
-  slug: "long-ranged-shot",
-  title: "Long-ranged Shot",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldLegacy

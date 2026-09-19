@@ -1,0 +1,9 @@
+import type { WorldTitle } from "akasha/story/world/mechanics/titles/world-title.page-type.types.ts"
+
+export const aGlimpseOfMagicSTruth = {
+  id: "01a0655a-7b7c-7c06-bce0-3841636a661f",
+  type: "page-type/world-title",
+  slug: "a-glimpse-of-magic-s-truth",
+  title: "A Glimpse of Magic’s Truth",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldTitle

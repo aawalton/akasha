@@ -1,0 +1,10 @@
+import type { WorldItem } from "akasha/story/world/mechanics/items/world-item.page-type.types.ts"
+
+export const wandsOfFireball = {
+  id: "01a0655a-7b80-7106-9e88-cf6339ede935",
+  type: "page-type/world-item",
+  slug: "wands-of-fireball",
+  title: "Wands of Fireball",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldItem

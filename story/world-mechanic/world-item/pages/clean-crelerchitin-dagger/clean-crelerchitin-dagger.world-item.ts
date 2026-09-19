@@ -1,9 +1,0 @@
-import type { WorldItem } from "akasha/story/world-mechanic/world-item/world-item.page-type.types.ts"
-
-export const cleanCrelerchitinDagger = {
-  id: "01a0655a-7b7f-766d-a109-c518e3a611c6",
-  type: "page-type/world-item",
-  slug: "clean-crelerchitin-dagger",
-  title: "Clean Crelerchitin Dagger",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldItem

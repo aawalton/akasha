@@ -1,0 +1,9 @@
+import type { WorldEnchantment } from "akasha/story/world/mechanics/enchantments/world-enchantment.page-type.types.ts"
+
+export const nighteye = {
+  id: "01a0655a-7b7b-7e51-a2c8-3a123cd5a806",
+  type: "page-type/world-enchantment",
+  slug: "nighteye",
+  title: "Nighteye",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldEnchantment

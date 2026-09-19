@@ -1,0 +1,10 @@
+import type { WorldItem } from "akasha/story/world/mechanics/items/world-item.page-type.types.ts"
+
+export const stringOfFate = {
+  id: "01a0655a-7b80-7674-9277-eda94ffc896b",
+  type: "page-type/world-item",
+  slug: "string-of-fate",
+  title: "String of Fate",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldItem

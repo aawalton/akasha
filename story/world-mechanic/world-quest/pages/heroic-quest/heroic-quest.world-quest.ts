@@ -1,9 +1,0 @@
-import type { WorldQuest } from "akasha/story/world-mechanic/world-quest/world-quest.page-type.types.ts"
-
-export const heroicQuest = {
-  id: "01a0655a-0687-77e3-8d5a-163c517a554c",
-  type: "page-type/world-quest",
-  slug: "heroic-quest",
-  title: "Heroic Quest",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldQuest

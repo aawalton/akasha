@@ -1,0 +1,10 @@
+import type { WorldMiracle } from "akasha/story/world/mechanics/miracles/world-miracle.page-type.types.ts"
+
+export const healMinorWounds = {
+  id: "01a0655a-7b7c-7687-9da9-6d8c0e285c91",
+  type: "page-type/world-miracle",
+  slug: "heal-minor-wounds",
+  title: "Heal Minor Wounds",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldMiracle

@@ -1,9 +1,0 @@
-import type { WorldEnchantment } from "akasha/story/world-mechanic/world-enchantment/world-enchantment.page-type.types.ts"
-
-export const flight = {
-  id: "01a0655a-7b7b-72b3-9a3c-b5992a14b37b",
-  type: "page-type/world-enchantment",
-  slug: "flight",
-  title: "Flight",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldEnchantment
