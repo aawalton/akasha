@@ -127,12 +127,8 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
               here yet. Inventory reaches Temper through the{" "}
               <LayoutLink href="/watcher" className="text-accent hover:underline">
                 Watcher
-              </LayoutLink>{" "}
-              or the{" "}
-              <LayoutLink href="/import" className="text-accent hover:underline">
-                Import
-              </LayoutLink>{" "}
-              page.
+              </LayoutLink>
+              .
             </EmptyDescription>
           </EmptyHeader>
         </Empty>

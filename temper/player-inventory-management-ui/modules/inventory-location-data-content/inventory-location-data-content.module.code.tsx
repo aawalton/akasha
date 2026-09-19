@@ -178,16 +178,12 @@ export function InventoryLocationDataContent({
             <EmptyTitle>No inventory data</EmptyTitle>
             <EmptyDescription>
               No inventory has reached this page for your account. Inventory comes from the file the
-              TemperInventory add-on writes while you play — the Watcher syncs that file for you, or
-              you can upload it by hand.
+              TemperInventory add-on writes while you play, and the Watcher syncs that file for you.
             </EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <Button asChild variant="accent">
               <LayoutLink href="/watcher">Check sync status</LayoutLink>
-            </Button>
-            <Button asChild variant="secondary">
-              <LayoutLink href="/import">Go to Import</LayoutLink>
             </Button>
           </EmptyContent>
         </Empty>

@@ -241,15 +241,11 @@ export function InventoryRulesTab({
           <AlertTitle>No inventory has reached this page</AlertTitle>
           <AlertDescription>
             <p>
-              Inventory comes from the file the TemperInventory add-on writes while you play — the
-              Watcher syncs that file for you, or you can upload it by hand. The starter rules below
-              are inactive; enable the ones you want once your inventory arrives.{" "}
+              Inventory comes from the file the TemperInventory add-on writes while you play, and
+              the Watcher syncs that file for you. The starter rules below are inactive; enable the
+              ones you want once your inventory arrives.{" "}
               <LayoutLink href="/watcher" className="font-medium underline">
                 Check sync status
-              </LayoutLink>{" "}
-              or{" "}
-              <LayoutLink href="/import" className="font-medium underline">
-                upload a file
               </LayoutLink>
               .
             </p>
