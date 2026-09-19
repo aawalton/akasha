@@ -1,4 +1,4 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A song names one artist."},{"decisionKind":"decision-kind/absence","statement":"A song whose writer nothing names states no song type."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A song names one artist."},{"decisionKind":"decision-kind/absence","statement":"A song whose writer nothing names states no song type."},{"decisionKind":"decision-kind/departure","statement":"A song another artist also performs is part of that artist's collection."}]}
 {"definition":"a piece of music Alan keeps"}
 {"extends":["page-type/collection-external"]}
 {"id":"01a06243-144b-7012-9da5-a570a8174672"}

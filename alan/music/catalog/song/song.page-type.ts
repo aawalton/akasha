@@ -40,6 +40,10 @@ export const song = {
       decisionKind: "decision-kind/absence",
       statement: "A song whose writer nothing names states no song type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song another artist also performs is part of that artist's collection.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
