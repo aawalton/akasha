@@ -1,6 +1,6 @@
 {"definition":"what a thing spends of what that thing is allowed, and what a run measures"}
 {"id":"01a0796e-6072-74f0-b75e-599b54481bb7"}
 {"name":"measure"}
-{"parts":["command/measure-attribute","command/measure-audit","command/measure-call","command/measure-change","command/measure-check","command/measure-closure","command/measure-command","command/measure-deploy","command/measure-guard","command/measure-learning","command/measure-page","command/measure-performance","command/measure-persona","command/measure-repo","command/measure-test","module/checkout-counting","module/measure-gathering","module/measure-tabling","namespace/measure-model-account","namespace/measure-complexity"]}
+{"parts":["command/measure-attribute","command/measure-audit","command/measure-call","command/measure-change","command/measure-check","command/measure-closure","command/measure-command","command/measure-deploy","command/measure-guard","command/measure-learning","command/measure-page","command/measure-performance","command/measure-persona","command/measure-repo","command/measure-round","command/measure-test","module/checkout-counting","module/measure-gathering","module/measure-tabling","namespace/measure-model-account","namespace/measure-complexity"]}
 {"slug":"measure"}
 {"type":"page-type/namespace"}

@@ -268,6 +268,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/persona/measure-persona.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/repo/measure-repo.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/repo/measure-repo.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/round/measure-round.command.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/test/measure-test.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts"}

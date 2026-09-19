@@ -1,7 +1,9 @@
 import type { Round } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import { verdictsFor } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
+import { roundCosted } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import type { Ran } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import { roundNow } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
+import { opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
 import { check } from "akasha/command/argument/pages/check.argument.ts"
 import { audit } from "akasha/command/pages/audit/audit.command.ts"
@@ -17,6 +19,7 @@ import {
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 
 import { dispatcherIn } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
+import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 const RADIX = 36
@@ -53,7 +56,13 @@ export function ranAfter(root: string, checks: readonly string[]): readonly Ran[
   })
 }
 
-export const roundHere: Round = async (checks) => ({ ran: (await roundNow(checks)).ran })
+export const roundHere: Round = async (checks) => {
+  const before = opening()
+  const told = await roundNow(checks)
+  const refused = told.ran.filter((one) => one.verdict.refusals.length > 0).length
+  await roundCosted(checkoutAt(), before, refused)
+  return { ran: told.ran }
+}
 
 export function sentToCluster(root: string, commit: string): Round {
   return async (checks) => {
@@ -62,7 +71,7 @@ export function sentToCluster(root: string, commit: string): Round {
   }
 }
 
-export async function roundInCluster(
+async function roundInCluster(
   given: string | Reading,
   root: string,
   checks: readonly string[],

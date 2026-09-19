@@ -2136,6 +2136,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/measure/persona/measure-persona.command.ts","id":"01a082e9-18fb-7213-bd29-f105c8f9dd20"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/repo/measure-repo.command.ts","id":"01a0796e-60aa-792a-9f56-2593355a10a6"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.ts","id":"01a05a0e-6376-7000-a013-86be99eb36e0"}
+{"propertySlug":"decision-kind","path":"command/pages/measure/round/measure-round.command.ts","id":"01a0bb27-36f8-7e61-bb63-33e3d2ab2ba2"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/test/measure-test.command.ts","id":"01a09ba9-360f-77a7-9c21-32599d7d1b30"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/cut/record/mobile-cut-record.command.ts","id":"01a0685d-ceae-7002-b932-ab750606b438"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/cut/status/mobile-cut-status.command.ts","id":"01a0685d-ceae-7003-b691-5ac97b0f647a"}

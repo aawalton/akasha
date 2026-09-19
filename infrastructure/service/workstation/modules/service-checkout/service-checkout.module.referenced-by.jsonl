@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts"}

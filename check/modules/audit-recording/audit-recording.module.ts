@@ -37,6 +37,30 @@ export const auditRecording = {
       statement: "A row already measured is sent without being measured again.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A run that answers for no check is sent as what that run cost and nothing else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a whole round cost is sent the same way one check's cost is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round's row says a round ran it rather than saying a command did.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round's row is kept beside the page of the command an audit is asked by.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That page is asked of the index rather than spelled here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A root whose index names no such page records nothing and refuses nothing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs a check.",
     },

@@ -122,6 +122,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/performance/measure-performance.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/persona/measure-persona.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/repo/measure-repo.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/round/measure-round.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/test/measure-test.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.ts"}

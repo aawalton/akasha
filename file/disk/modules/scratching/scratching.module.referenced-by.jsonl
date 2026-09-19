@@ -116,6 +116,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-calling/audit-calling.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}
@@ -177,6 +178,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/modules/gathering/measure-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}

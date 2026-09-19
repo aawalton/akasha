@@ -31,6 +31,7 @@
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/modules/gathering/measure-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.test.ts"}
+{"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}

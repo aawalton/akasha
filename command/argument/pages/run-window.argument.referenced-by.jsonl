@@ -5,6 +5,7 @@
 {"propertySlug":"argument","path":"command/pages/measure/command/measure-command.command.ts","id":"01a080df-5446-793b-a0e0-ea1f3b757ca8"}
 {"propertySlug":"argument","path":"command/pages/measure/deploy/measure-deploy.command.ts","id":"01a09b9b-f7ff-78b8-b3dd-42885b24bb30"}
 {"propertySlug":"argument","path":"command/pages/measure/guard/measure-guard.command.ts","id":"01a09bab-b70c-74dd-9daa-6859cb57c2c4"}
+{"propertySlug":"argument","path":"command/pages/measure/round/measure-round.command.ts","id":"01a0bb27-36f8-7e61-bb63-33e3d2ab2ba2"}
 {"propertySlug":"argument","path":"command/pages/measure/test/measure-test.command.ts","id":"01a09ba9-360f-77a7-9c21-32599d7d1b30"}
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/audit/measure-audit.command.code.ts"}
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/audit/measure-audit.command.test.ts"}
@@ -20,5 +21,7 @@
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/deploy/measure-deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/guard/measure-guard.command.code.ts"}
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
+{"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/round/measure-round.command.code.ts"}
+{"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/test/measure-test.command.code.ts"}
 {"propertySlug":"import","fileName":"run-window.argument.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}

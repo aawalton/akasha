@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/guard/measure-guard.command.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/modules/gathering/measure-gathering.module.code.ts"}
+{"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/round/measure-round.command.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.code.ts","path":"command/pages/measure/test/measure-test.command.code.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"check/modules/measuring/check-measuring.module.test.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"command/pages/measure/audit/measure-audit.command.test.ts"}
@@ -28,5 +29,6 @@
 {"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"command/pages/measure/deploy/measure-deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"command/pages/measure/modules/gathering/measure-gathering.module.test.ts"}
+{"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"check-measuring.module.test-fixtures.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

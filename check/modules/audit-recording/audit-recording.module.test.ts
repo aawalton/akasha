@@ -1,12 +1,17 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import {
+  auditPageAt,
   type Beside,
   costKept,
   type Recording,
+  roundCosted,
   verdictSent,
 } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
+import { opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Held } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const LOGS = "audit.logs"
 
@@ -45,6 +50,33 @@ function catching(): { readonly record: Recording; readonly rows: Row[] } {
 }
 
 const refusing: Recording = () => Promise.resolve(null)
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+test("the page a round's cost is kept beside is asked of the index", () => {
+  expect(auditPageAt(process.cwd())).toContain("audit.command.ts")
+})
+
+test("what a whole round cost is sent saying a round ran it rather than a command", async () => {
+  const held = catching()
+  const at = await roundCosted(process.cwd(), opening(), 2, held.record)
+  expect(at).not.toBeNull()
+  expect(held.rows.length).toBe(1)
+  expect(held.rows[0]?.under).toBe("entries")
+  const said = JSON.parse(held.rows[0]?.line ?? "")
+  expect(said.phase).toBe("round")
+  expect(said.ran).toBe("audit")
+  expect(said.refusals).toBe(2)
+})
+
+test("a root whose index names no audit command records nothing", async () => {
+  const bare = scratch.rootFor("akasha-audit-recording-bare-")
+  nothingFiled(bare)
+  expect(auditPageAt(bare)).toBeNull()
+  expect(await roundCosted(bare, opening(), 0, refusing)).toBeNull()
+})
 
 test("a verdict is sent beside the check's page under the part it is kept in", async () => {
   const held = catching()

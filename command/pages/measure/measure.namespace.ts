@@ -20,6 +20,7 @@ export const measure = {
     "command/measure-performance",
     "command/measure-persona",
     "command/measure-repo",
+    "command/measure-round",
     "command/measure-test",
     "module/checkout-counting",
     "module/measure-gathering",

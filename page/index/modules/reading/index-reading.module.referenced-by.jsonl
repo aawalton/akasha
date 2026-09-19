@@ -102,6 +102,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/modules/change-walking/change-walking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/modules/checking/checking.module.code.ts"}
@@ -354,6 +355,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/modules/audit-recording/audit-recording.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/modules/change-walking/change-walking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/modules/checking/checking.module.test.ts"}
@@ -377,6 +379,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/measure/deploy/measure-deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/read/modules/body-owing/body-owing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}

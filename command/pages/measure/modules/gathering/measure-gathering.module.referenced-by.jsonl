@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"measure-gathering.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"measure-gathering.module.code.ts","path":"command/pages/measure/guard/measure-guard.command.code.ts"}
 {"propertySlug":"import","fileName":"measure-gathering.module.code.ts","path":"command/pages/measure/modules/gathering/measure-gathering.module.test.ts"}
+{"propertySlug":"import","fileName":"measure-gathering.module.code.ts","path":"command/pages/measure/round/measure-round.command.code.ts"}
 {"propertySlug":"import","fileName":"measure-gathering.module.code.ts","path":"command/pages/measure/test/measure-test.command.code.ts"}
 {"propertySlug":"parts","path":"command/pages/measure/measure.namespace.ts","id":"01a0796e-6072-74f0-b75e-599b54481bb7"}

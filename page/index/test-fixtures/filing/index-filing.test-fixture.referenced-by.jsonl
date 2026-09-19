@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.test.ts"}

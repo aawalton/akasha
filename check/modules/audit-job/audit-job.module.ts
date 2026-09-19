@@ -57,6 +57,23 @@ export const auditJob = {
       statement: "A check the job left no verdict for is left out rather than answered clean.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A round run here records what that whole round cost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seconds recorded are the ones the machine running the round spent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "They carry the checks the round spawned as well as the round's own process.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A round's refusals are the checks it left refusing rather than the refusals read.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs a check.",
     },

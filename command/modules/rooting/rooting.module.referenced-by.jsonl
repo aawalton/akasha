@@ -92,6 +92,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/learning/measure-learning.command.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts"}
