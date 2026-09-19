@@ -3,6 +3,8 @@ import {
   renamePageType,
   runChange,
 } from "akasha/change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { renamePageType as renamePageTypeMechanical } from "akasha/change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
@@ -61,7 +63,7 @@ test("a page type this change hands on is reached through the runner the world c
 
   const said = await renamePageType({ ...UNASKED, reaching }, { at: A_TYPE, to: TO })
 
-  expect(reached).toBe("change-mechanical-page-type/rename-page-type")
+  expect(reached).toBe(`${changeMechanicalPageType.slug}/${renamePageTypeMechanical.slug}`)
   expect(handed).toEqual({ at: A_TYPE, to: TO })
   expect(said.refused).toBeNull()
 })

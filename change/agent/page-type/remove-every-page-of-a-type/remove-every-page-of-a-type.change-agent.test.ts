@@ -3,6 +3,8 @@ import {
   removeEveryPageOfAType,
   runChange,
 } from "akasha/change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { removeEveryPageOfAType as removeEveryPageOfATypeMechanical } from "akasha/change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -13,7 +15,7 @@ import {
 
 const PAGE_TYPE = "sprig"
 
-const RUNG = "change-mechanical-page-type/remove-every-page-of-a-type"
+const RUNG = `${changeMechanicalPageType.slug}/${removeEveryPageOfATypeMechanical.slug}` as const
 
 const REACHED: string[] = []
 

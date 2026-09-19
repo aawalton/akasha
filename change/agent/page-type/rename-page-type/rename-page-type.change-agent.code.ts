@@ -1,3 +1,5 @@
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { renamePageType as renamePageTypeMechanical } from "akasha/change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -9,7 +11,8 @@ const TO = "to"
 
 const PAGE_TYPE = "page-type"
 
-const RENAME_PAGE_TYPE = "change-mechanical-page-type/rename-page-type"
+const RENAME_PAGE_TYPE =
+  `${changeMechanicalPageType.slug}/${renamePageTypeMechanical.slug}` as const
 
 export type RenamePageTypeAsked = {
   readonly at: string
