@@ -39,7 +39,7 @@ export const domainRowFiling = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "The page picture is drawn from rows kept the same way.",
+      statement: "The page picture is drawn from rows kept beside it the same way.",
     },
   ],
 } as const satisfies Module
