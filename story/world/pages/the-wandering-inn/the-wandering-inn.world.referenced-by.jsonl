@@ -1864,10 +1864,6 @@
 {"propertySlug":"world","path":"story/world/characters/pages/zineryr/zineryr.world-character.ts","id":"01a0b70d-ee88-79f6-b996-7e1a71dfff4c"}
 {"propertySlug":"world","path":"story/world/characters/pages/zinni/zinni.world-character.ts","id":"01a0b70d-eec5-74e9-9dfe-8528fdc5623d"}
 {"propertySlug":"world","path":"story/world/characters/pages/zoreik/zoreik.world-character.ts","id":"01a0b70d-ef00-7de1-883c-342f7369b3d1"}
-{"propertySlug":"world","path":"story/world/mechanics/boons/pages/blessing-of-fecundity/blessing-of-fecundity.world-boon.ts","id":"01a0655a-0687-7757-a896-3f156d62266c"}
-{"propertySlug":"world","path":"story/world/mechanics/boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts","id":"01a0655a-0687-7c4c-ac0d-726c51518feb"}
-{"propertySlug":"world","path":"story/world/mechanics/boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts","id":"01a0655a-0687-7e01-b216-956ad9782dab"}
-{"propertySlug":"world","path":"story/world/mechanics/boons/pages/sanguinum-gratitude-minor-silent-footfalls/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts","id":"01a0655a-0687-75c1-9ce7-01f39385d0a6"}
 {"propertySlug":"world","path":"story/world/mechanics/carried-memories/pages/pyrite-flooded-waters-tribe.world-carried-memory.ts","id":"01a0655a-0688-7736-9a97-dd69526ca411"}
 {"propertySlug":"world","path":"story/world/mechanics/carried-memories/pages/reiss.world-carried-memory.ts","id":"01a0655a-0688-7e24-941a-8936233f593d"}
 {"propertySlug":"world","path":"story/world/mechanics/carried-memories/pages/shorthilt-redfang-tribe.world-carried-memory.ts","id":"01a0655a-0688-7e0d-9024-1e084af41b6e"}
@@ -12710,4 +12706,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/aspects/body-of-the-eater.world-aspect.ts","id":"01a0655a-0687-7032-8019-8ce7d55d094b"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/aspects/odour-of-carrion-dreams.world-aspect.ts","id":"01a0655a-0687-737c-b9b5-121c2c9cdf92"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/aspects/rending-claws.world-aspect.ts","id":"01a0655a-0687-7d82-a9a5-1357deb3801c"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/boons/blessing-of-fecundity.world-boon.ts","id":"01a0655a-0687-7757-a896-3f156d62266c"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/boons/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts","id":"01a0655a-0687-7c4c-ac0d-726c51518feb"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/boons/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts","id":"01a0655a-0687-7e01-b216-956ad9782dab"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/boons/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts","id":"01a0655a-0687-75c1-9ce7-01f39385d0a6"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}
