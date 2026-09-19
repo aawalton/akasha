@@ -15,7 +15,7 @@ export const emberInventoryRules = {
     {
       statement: "The addon and the outside reading agree on storing a furnishing in the vault.",
       workingMemory:
-        "8 furnishings, recorded `sell` by rule 43 `778017a4`, where the fresh reading moves to furniture-vault by rule 44. Khajiit Bedding Padded 115653, Redguard Vessel Gilded 117903, Common Cargo Sealed 118051 and five more. Rule 43 is rejected on `estimatedValue undefined`, and yet the capture holds the price. `inventory-parser.module.code.ts:169-178` puts a bound thing's value on `replacementCost`, where the addon sets both. Unsettled: whether a bound thing carries a market value.",
+        "8 furnishings, recorded sell by rule 43, where the fresh reading moves to furniture-vault by rule 44. Khajiit Bedding Padded 115653, Redguard Vessel Gilded 117903, Common Cargo Sealed 118051 and five more. Rule 43 is rejected on an undefined market value, and yet the capture holds the price, under replacement cost. Settled with Alan: a bound thing has no market value and has a replacement value, so the addon is the side to mend.",
     },
     {
       statement: "The addon and the outside reading agree on which character a motif goes to.",
@@ -26,6 +26,22 @@ export const emberInventoryRules = {
       statement: "The addon and the outside reading agree on listing a companion's item.",
       workingMemory:
         "1 item: Companion's Greaves 177029, recorded `list` by rule 47 `valuable-nothing`, where the fresh reading sells by rule 73 `companion-green-sell`. The same bound-thing price drop as the furnishings: `explain` gives `replacementCost 14551.2` with no estimatedValue, so rule 47 is rejected and rule 73 takes it. Two stacks sit in bag 1 of 8796093022338107, slot 53 bound and slot 56 not. This goes with the furnishings.",
+    },
+    {
+      statement: "Each kind of value a thing has is a domain, under one domain for value itself.",
+      workingMemory:
+        "Three kinds: market value, what another player would pay; merchant value, what a vendor pays; replacement value, what you would pay to get another. The rules already name all three that way, in the market-value, merchant-value and replacement-value filters of items-rules-core, with a value filter over them. Nothing names them as domains, and the parent is held by a module defined as the value a row shows.\n",
+    },
+    {
+      statement:
+        "One name reaches a kind of value in the capture, in an item's facts and in a rule.",
+      workingMemory:
+        "A rule says marketValue, merchantValue, replacementValue or value. The facts say estimatedValue, merchantValue and replacementCost, so two of the three carry a second spelling and a rule does not say which fact it asks. The facts are at item-facts:36-38, the conditions at check-numeric:72-137. The rules side is the name to keep, and value itself has no fact behind it at all.\n",
+    },
+    {
+      statement: "A thing no player can be sold has no market value, and has a replacement value.",
+      workingMemory:
+        "The addon sets a market value on everything and copies it into replacement value: build-item-facts:127-128 sets both from the one TTC estimate. The parser goes the other way and makes them exclusive, inventory-parser:169-178, which breaks its page's one decision that a field the capture holds reaches the item. The addon is the side to mend.\n",
     },
   ],
   constraints: [
