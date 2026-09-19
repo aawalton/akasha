@@ -1,12 +1,16 @@
 import { expect, test } from "bun:test"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
+import { subagent } from "akasha/agent/subagent/subagent.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HELD_ID = "01a06d00-0000-7000-8000-000000000001"
+
+const SUBAGENT_AT = `${pageType.slug}/${subagent.slug}` as const
 
 const STATES = [
   "import type { Subagent } from",
   "export const akashaAbc = {",
-  'type: "page-type/subagent"',
+  `type: "${SUBAGENT_AT}"`,
   'slug: "akasha-abc"',
   'principalSeatName: "seat/akasha"',
   'assignmentSlug: "domain/akasha-system"',
