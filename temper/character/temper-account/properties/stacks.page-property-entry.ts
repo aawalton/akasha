@@ -41,7 +41,7 @@ export const stacks = {
     { pageProperty: "number-property/weapon-type", required: false, many: false },
     { pageProperty: "number-property/set-id", required: false, many: false },
     { pageProperty: "boolean-property/known", required: false, many: false },
-    { pageProperty: "number-property/replacement-cost", required: false, many: false },
+    { pageProperty: "number-property/replacement-value", required: false, many: false },
     { pageProperty: "text-property/furniture-category", required: false, many: false },
     { pageProperty: "number-property/furniture-category-id", required: false, many: false },
     { pageProperty: "number-property/furniture-subcategory-id", required: false, many: false },

@@ -293,7 +293,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-level","propertySlug":"relationship-level","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"renewal-day","propertySlug":"renewal-day","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"repeatable-type","propertySlug":"repeatable-type","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"replacement-cost","propertySlug":"replacement-cost","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"replacement-value","propertySlug":"replacement-value","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"replicas","propertySlug":"replicas","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reps","propertySlug":"reps","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reps-before-slowing","propertySlug":"reps-before-slowing","fileName":null,"folderName":null,"sorted":false}

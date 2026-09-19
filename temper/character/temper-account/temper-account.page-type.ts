@@ -30,7 +30,7 @@ export const temperAccount = {
     "number-property/furniture-category-id",
     "number-property/furniture-subcategory-id",
     "number-property/min-price",
-    "number-property/replacement-cost",
+    "number-property/replacement-value",
     "number-property/sale-amount-count",
     "number-property/sale-avg",
     "number-property/slot",

@@ -1,10 +1,10 @@
 import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
-export const replacementCost = {
+export const replacementValue = {
   id: "01a06053-b381-7663-a677-ee3450fbac68",
   type: "page-type/number-property",
-  slug: "replacement-cost",
-  propertySlug: "replacement-cost",
+  slug: "replacement-value",
+  propertySlug: "replacement-value",
   definition: "what buying an item again would cost in gold",
   max: null,
   types: "ts",
