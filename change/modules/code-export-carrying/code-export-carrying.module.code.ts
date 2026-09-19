@@ -1,21 +1,12 @@
 import { dirname } from "node:path"
 import { shadowedIn } from "akasha/change/modules/bound-names/bound-names.module.code.ts"
-import type {
-  Asked,
-  Carrying,
-  Going,
-  Held,
-  Landing,
-  Passage,
-  Plan,
-  Refused,
-} from "akasha/change/modules/code-export-carrying/code-export-carrying.module.types.ts"
 import {
   repointedIn,
   spelledAt,
 } from "akasha/change/modules/code-export-repointing/code-export-repointing.module.code.ts"
 import {
   anchorIn,
+  type Carried,
   everyIn,
   importsIn,
   linesOf,
@@ -52,6 +43,12 @@ function declaresOne(one: ts.VariableStatement, of: string): boolean {
   )
 }
 
+export type Held =
+  | ts.TypeAliasDeclaration
+  | ts.InterfaceDeclaration
+  | ts.FunctionDeclaration
+  | ts.VariableStatement
+
 function declaredIn(source: ts.SourceFile, of: string): Held | null {
   for (const one of source.statements) {
     if (ts.isTypeAliasDeclaration(one) && one.name.text === of) return one
@@ -69,6 +66,8 @@ function exported(declared: Held): boolean {
 function typed(declared: Held): boolean {
   return ts.isTypeAliasDeclaration(declared) || ts.isInterfaceDeclaration(declared)
 }
+
+export type Carrying = Carried & { readonly naming: string; readonly every: boolean }
 
 function carriedIn(
   declared: Held,
@@ -93,6 +92,13 @@ function carriedIn(
   return found
 }
 
+export type Going = {
+  readonly name: string
+  readonly declared: Held
+  readonly passage: string
+  readonly carried: ReadonlyMap<string, Carrying>
+}
+
 function unionOf(going: readonly Going[]): ReadonlyMap<string, Carrying> {
   const found = new Map<string, Carrying>()
   for (const one of going) {
@@ -103,6 +109,12 @@ function unionOf(going: readonly Going[]): ReadonlyMap<string, Carrying> {
 
 function takingOf(name: string, spelled: string, one: Carrying): Taking {
   return { name: namedAs(name, one.naming), from: spelled, type: one.type, every: one.every }
+}
+
+export type Asked = {
+  readonly from: string
+  readonly to: string
+  readonly of: readonly string[]
 }
 
 function spelledFor(given: Asked, from: string): string {
@@ -134,6 +146,12 @@ function bodyFor(
   )
   const held = joinedOf(written)
   return lines.length === 0 ? held : `${lines.join(LINE)}${PARTED}${held}`
+}
+
+export type Passage = {
+  readonly at: string
+  readonly old: string
+  readonly new: string
 }
 
 function droppedIn(
@@ -204,6 +222,8 @@ function laidIn(opened: string, given: Asked, written: readonly Going[]): string
   return head === "" ? laid : `${head}${PARTED}${laid}`
 }
 
+export type Refused = { readonly refused: string }
+
 function ontoFor(
   given: Asked,
   whole: string,
@@ -268,6 +288,20 @@ function leftOf(text: string, going: readonly Going[]): string {
     at = one.declared.getEnd()
   }
   return `${held}${text.slice(at)}`
+}
+
+export type Plan = {
+  readonly taken: readonly Passage[]
+  readonly body: string
+  readonly adding: boolean
+  readonly onto: Passage | null
+  readonly after: readonly Passage[]
+}
+
+export type Landing = {
+  readonly adding: boolean
+  readonly onto: string | null
+  readonly naming: Naming
 }
 
 function planFor(

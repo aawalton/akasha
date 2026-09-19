@@ -3,12 +3,10 @@
 {"propertySlug":"import","fileName":"code-export-carrying.module.code.ts","path":"change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.code.ts","path":"change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"code-export-carrying.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.test-fixtures.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.test-fixtures.ts","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.test-fixtures.ts","path":"change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.test-fixtures.ts","path":"change/mechanical/file/divide/divide-file-code/divide-file-code.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"code-export-carrying.module.test-fixtures.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test.ts"}
-{"propertySlug":"import","fileName":"code-export-carrying.module.types.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts"}
-{"propertySlug":"import","fileName":"code-export-carrying.module.types.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"code-export-carrying.module.types.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

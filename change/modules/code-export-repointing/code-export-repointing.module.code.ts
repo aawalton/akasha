@@ -3,7 +3,7 @@ import type {
   Asked,
   Passage,
   Refused,
-} from "akasha/change/modules/code-export-carrying/code-export-carrying.module.types.ts"
+} from "akasha/change/modules/code-export-carrying/code-export-carrying.module.code.ts"
 import {
   namedIn,
   namingOf,

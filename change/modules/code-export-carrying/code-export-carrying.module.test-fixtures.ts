@@ -1,14 +1,12 @@
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  type Asked,
+  type Passage,
+  type Plan,
   passagesOf,
   plannedCarrying,
+  type Refused,
 } from "akasha/change/modules/code-export-carrying/code-export-carrying.module.code.ts"
-import type {
-  Asked,
-  Passage,
-  Plan,
-  Refused,
-} from "akasha/change/modules/code-export-carrying/code-export-carrying.module.types.ts"
 import { ledgerAt, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 

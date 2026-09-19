@@ -6,7 +6,6 @@ export const codeExportCarrying = {
   slug: "code-export-carrying",
   definition: "the passages carrying named exports out of one code body and into another",
   code: "ts",
-  types: "ts",
   test: "ts",
   testFixtures: "ts",
   decisions: [
