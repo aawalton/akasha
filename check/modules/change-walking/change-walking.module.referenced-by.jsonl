@@ -124,8 +124,6 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.audit.code.ts"}

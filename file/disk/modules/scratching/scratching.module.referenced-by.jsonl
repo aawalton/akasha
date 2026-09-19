@@ -100,7 +100,6 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.test-fixtures.ts"}

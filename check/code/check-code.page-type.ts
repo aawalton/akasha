@@ -62,7 +62,6 @@ export const checkCode = {
     "check-code/page-matches-its-type",
     "check-code/page-named-as-stated",
     "check-code/page-property-has-its-file",
-    "check-code/parts-list-is-sorted",
     "check-code/phone-number-is-e164",
     "check-code/popover-keeps-its-viewport-cap",
     "check-code/property-is-declared-by-a-type",

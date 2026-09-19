@@ -753,7 +753,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.ts","id":"01a04e92-bfba-7ca8-b12b-37b6a6a4c408"}
 {"propertySlug":"decision-kind","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.ts","id":"01a04bcb-c705-720a-a6fb-4dbd5fee1594"}
 {"propertySlug":"decision-kind","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.ts","id":"01a04d86-434f-7119-b8cc-858d63edf631"}
-{"propertySlug":"decision-kind","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.ts","id":"01a09558-e9b5-7e59-a4ac-0ca6ead600aa"}
 {"propertySlug":"decision-kind","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.ts","id":"01a058ff-c2b0-7d9c-814a-e78f75d41f67"}
 {"propertySlug":"decision-kind","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.ts","id":"01a04ef8-1a07-722c-a247-40e6a9069ce4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.ts","id":"01a0aa6b-5464-7887-9431-1eb2abbdf973"}

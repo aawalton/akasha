@@ -149,8 +149,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/parts-list-is-sorted/parts-list-is-sorted.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.code.ts"}
