@@ -7,7 +7,7 @@ import {
   wrongIn,
 } from "akasha/alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts"
 import { proseIn } from "akasha/command/modules/filling/command-filling.module.test-fixtures.ts"
-import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
+import { terminal } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -35,12 +35,12 @@ test("a subject read from a file loses its line ending and a whole body keeps it
   writeFileSync(join(root, "subject.txt"), "Hello\n")
   writeFileSync(join(root, "body.md"), "Line one\n\n")
   const said = { "--subject-file": "subject.txt", "--body-file": "body.md" }
-  expect(proseIn(root, said, SUBJECT_FILING, TERMINAL)).toEqual({ text: "Hello" })
-  expect(proseIn(root, said, BODY_FILING, TERMINAL)).toEqual({ text: "Line one\n\n" })
+  expect(proseIn(root, said, SUBJECT_FILING, terminal)).toEqual({ text: "Hello" })
+  expect(proseIn(root, said, BODY_FILING, terminal)).toEqual({ text: "Line one\n\n" })
 })
 
 test("text said at its flag is taken without the file being reached for", () => {
-  expect(proseIn(rootAt(), { "--subject": "Said inline" }, SUBJECT_FILING, TERMINAL)).toEqual({
+  expect(proseIn(rootAt(), { "--subject": "Said inline" }, SUBJECT_FILING, terminal)).toEqual({
     text: "Said inline",
   })
 })

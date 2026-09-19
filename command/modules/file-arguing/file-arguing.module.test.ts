@@ -3,7 +3,7 @@ import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { builtIn, VALUED } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
-import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
+import { terminal } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -21,7 +21,7 @@ function givenIn(root: string): Given {
   return { root, calledAs: "akasha tracking", from: root, writer: null, agentId: null }
 }
 
-function refusedBy(argv: readonly string[], root = "/repo", piping: Piping = TERMINAL): string {
+function refusedBy(argv: readonly string[], root = "/repo", piping: Piping = terminal): string {
   const said = builtIn(argv, givenIn(root), piping, MECHANICAL)
   return "code" in said ? said.refusals.join("\n") : ""
 }
@@ -36,7 +36,7 @@ test("a flag this reading does not take is refused", () => {
 
 test("a caller names which flags carry no value, and --restated answers where none does", () => {
   expect(refusedBy(["--restated"])).toContain("asks for nothing")
-  const said = builtIn(["--restated"], givenIn("/repo"), TERMINAL, MECHANICAL, VALUED, [])
+  const said = builtIn(["--restated"], givenIn("/repo"), terminal, MECHANICAL, VALUED, [])
   const refusals = "code" in said ? said.refusals.join("\n") : ""
   expect(refusals).toContain("`--restated` is no flag this takes.")
 })
@@ -64,7 +64,7 @@ test("the body for a file is read from the file --content-file names", () => {
   const said = builtIn(
     ["--file-path", "akasha/one.ts", "--content-file", from],
     givenIn(root),
-    TERMINAL,
+    terminal,
     MECHANICAL
   )
   if ("code" in said) throw new Error(said.refusals.join("\n"))
@@ -77,7 +77,7 @@ test("a commit message worked out from the paths names the path written", () => 
   const said = builtIn(
     ["--file-path", "akasha/one.ts", "--content-file", from],
     givenIn(root),
-    TERMINAL,
+    terminal,
     MECHANICAL
   )
   if ("code" in said) throw new Error(said.refusals.join("\n"))

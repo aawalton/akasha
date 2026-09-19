@@ -80,7 +80,7 @@ const ANOTHER: Piping = piping("all: no\n")
 
 const NOTHING: Piping = piping("")
 
-const QUIET: Piping = () => ({ unreadable: "went quiet", part: true as const })
+const quiet: Piping = () => ({ unreadable: "went quiet", part: true as const })
 
 function rowsIn(root: string, page: string): readonly FileChange[] {
   const said = editsIn(root, page)
@@ -240,7 +240,7 @@ export const DROPS: readonly Drop[] = [
   },
   {
     name: "an input that will not open refuses the drop and leaves every edit kept",
-    said: QUIET,
+    said: quiet,
     code: INPUT,
     refusalHolds: "went quiet",
     kept: KEPT_BOTH,

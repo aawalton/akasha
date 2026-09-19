@@ -34,7 +34,7 @@ import {
   measuring,
   measuringWrongly,
   NOT_TEXT_SAID,
-  NOTHING,
+  nothing,
   owedIn,
   PAGE,
   pathsIn,
@@ -131,23 +131,14 @@ test("a call piping nothing in is refused rather than run with no argument", asy
   expect(said.refusals[0] ?? "").toContain("standard input")
 })
 
-const TAKES_AT: Loading = async () => ({
+const takesAt: Loading = async () => ({
   run: () => ({ edits: [], refused: null }),
   guards: [],
   takes: ["at", "to"],
 })
 
 test("a call piping nothing in is told what the change it named takes", async () => {
-  const said = await changing(
-    repo(),
-    PAGE,
-    null,
-    "remove-page",
-    NOTHING,
-    TAKES_AT,
-    applying,
-    CHOSEN
-  )
+  const said = await changing(repo(), PAGE, null, "remove-page", nothing, takesAt, applying, CHOSEN)
 
   expect(said.code).not.toBe(0)
   expect(said.refusals[0] ?? "").toContain("standard input")
@@ -162,7 +153,7 @@ test("the help flag piped in is answered with the change and what that change ta
     null,
     "remove-page",
     piping("--help\n"),
-    TAKES_AT,
+    takesAt,
     applying,
     CHOSEN
   )

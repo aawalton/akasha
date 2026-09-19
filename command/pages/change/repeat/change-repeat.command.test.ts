@@ -8,7 +8,7 @@ import {
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { NOTHING } from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"
+import { nothing } from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"
 import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import {
   changeRepeat,
@@ -112,7 +112,7 @@ function saidIn(held: ReturnType<typeof clearing>): readonly string[] {
   return "said" in held ? held.said : held.why
 }
 
-const REFUSING: Running = () => ({ code: 1, out: [], err: ["edit 1 no longer fits"] })
+const refusing: Running = () => ({ code: 1, out: [], err: ["edit 1 no longer fits"] })
 
 test("the edits kept before a repeat begins land before its first batch", () => {
   const root = indexedRepo(HELD)
@@ -126,7 +126,7 @@ test("edits that will not land refuse the repeat rather than being dropped", () 
   const root = indexedRepo(HELD)
   const page = keptAt(root, A_ROW)
 
-  const held = clearing(root, page, REFUSING)
+  const held = clearing(root, page, refusing)
 
   expect("why" in held).toBe(true)
   expect(saidIn(held)).toContain("edit 1 no longer fits")
@@ -137,7 +137,7 @@ test("a row that reads as no edit is swept rather than refusing every later run"
   const root = indexedRepo(HELD)
   const page = keptAt(root, "not an edit\n")
 
-  const held = clearing(root, page, REFUSING)
+  const held = clearing(root, page, refusing)
 
   expect(saidIn(held)[0] ?? "").toContain("reads as no edit")
   expect(editsWaiting(root, page)).toBe(false)
@@ -167,7 +167,7 @@ test("a call naming two changes is refused rather than repeating the first", asy
 })
 
 test("a call piping nothing in is refused", async () => {
-  const said = await changeRepeat(["wide"], givenAt("/nowhere"), NOTHING)
+  const said = await changeRepeat(["wide"], givenAt("/nowhere"), nothing)
 
   expect(said.refusals[0] ?? "").toContain("piped nothing in")
 })

@@ -36,58 +36,58 @@ const TREE: Readonly<Record<string, Level>> = {
 
 const ROOT = [TRACK_AT, "command/work-tree", "module/held"]
 
-const UNDER: Parting = (part) => {
+const under: Parting = (part) => {
   const one = TREE[part]
   return one === undefined ? [] : [one]
 }
 
 test("each leading word steps one level down from the parts of the level above", () => {
-  const said = walkingIn(ROOT, ["track", "session", "open", "one"], UNDER)
+  const said = walkingIn(ROOT, ["track", "session", "open", "one"], under)
   expect(said?.held).toBe(3)
   expect(said?.found[0]?.slug).toBe("track-session-open")
 })
 
 test("the page type a level is under is carried with the level reached", () => {
-  expect(walkingIn(ROOT, ["track"], UNDER)?.found[0]?.type).toBe("namespace")
-  expect(walkingIn(ROOT, ["work-tree"], UNDER)?.found[0]?.type).toBe("command")
+  expect(walkingIn(ROOT, ["track"], under)?.found[0]?.type).toBe("namespace")
+  expect(walkingIn(ROOT, ["work-tree"], under)?.found[0]?.type).toBe("command")
 })
 
 test("a word other than the name of a level under it ends the descent", () => {
-  const said = walkingIn(ROOT, ["track", "sessions", "open"], UNDER)
+  const said = walkingIn(ROOT, ["track", "sessions", "open"], under)
   expect(said?.held).toBe(1)
   expect(said?.found[0]?.slug).toBe("track")
 })
 
 test("a level no level above states as a part is reached by no word", () => {
-  expect(walkingIn(ROOT, ["session"], UNDER)).toBe(null)
-  expect(walkingIn(ROOT, ["track", "open"], UNDER)?.found[0]?.slug).toBe("track")
+  expect(walkingIn(ROOT, ["session"], under)).toBe(null)
+  expect(walkingIn(ROOT, ["track", "open"], under)?.found[0]?.slug).toBe("track")
 })
 
 test("a part that is no level ends no descent", () => {
-  expect(walkingIn(ROOT, ["work-tree", "one"], UNDER)?.found[0]?.slug).toBe("work-tree")
+  expect(walkingIn(ROOT, ["work-tree", "one"], under)?.found[0]?.slug).toBe("work-tree")
 })
 
 test("a word that could be no part of a slug ends the descent before that word", () => {
-  expect(walkingIn(ROOT, ["track", "--help"], UNDER)?.held).toBe(1)
+  expect(walkingIn(ROOT, ["track", "--help"], under)?.held).toBe(1)
 })
 
 test("the levels stepped through to reach a level are carried with it, widest first", () => {
-  const said = walkingIn(ROOT, ["track", "session", "open"], UNDER)
+  const said = walkingIn(ROOT, ["track", "session", "open"], under)
   expect(said?.above.map((one) => one.slug)).toEqual(["track", "track-session"])
 })
 
 test("a level reached by the first word is carried with no level above it", () => {
-  expect(walkingIn(ROOT, ["work-tree"], UNDER)?.above).toEqual([])
+  expect(walkingIn(ROOT, ["work-tree"], under)?.above).toEqual([])
 })
 
 test("a descent ending early carries the levels above the level it ended at", () => {
-  const said = walkingIn(ROOT, ["track", "session", "shut"], UNDER)
+  const said = walkingIn(ROOT, ["track", "session", "shut"], under)
   expect(said?.found[0]?.slug).toBe("track-session")
   expect(said?.above.map((one) => one.slug)).toEqual(["track"])
 })
 
 test("a descent starting from no part reaches nothing", () => {
-  expect(walkingIn([], ["track"], UNDER)).toBe(null)
+  expect(walkingIn([], ["track"], under)).toBe(null)
 })
 
 test("a name more than one level under one level states is carried out whole", () => {

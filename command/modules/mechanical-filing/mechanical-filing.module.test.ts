@@ -9,7 +9,7 @@ import {
   askedFor,
   filing,
 } from "akasha/command/modules/mechanical-filing/mechanical-filing.module.code.ts"
-import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
+import { terminal } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 
 const GIVEN: Given = {
   root: "/repo",
@@ -41,13 +41,13 @@ test("a path to take away goes through the change removing a file", () => {
 })
 
 test("a refusal the reading answers with is passed back untouched", async () => {
-  const said = await filing([], GIVEN, TERMINAL)
+  const said = await filing([], GIVEN, terminal)
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("asks for nothing")
 })
 
 test("a call refused lands nothing and reports nothing", async () => {
-  const said = await filing(["--content-file", "body.txt"], GIVEN, TERMINAL)
+  const said = await filing(["--content-file", "body.txt"], GIVEN, terminal)
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
 })

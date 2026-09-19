@@ -105,7 +105,7 @@ test("a bare word is refused, since this names every argument at a flag", async 
 
 const SEEN: Read[] = []
 
-const DRAGGING = (_done: string[], read: Read) => {
+const dragging = (_done: string[], read: Read) => {
   SEEN.push(read)
   return Promise.resolve(told([]))
 }
@@ -113,7 +113,7 @@ const DRAGGING = (_done: string[], read: Read) => {
 test("a call naming corners alone holds 800ms, takes 12 moves and waits 30ms", async () => {
   SEEN.length = 0
 
-  await mobileSimLongPressDrag(CORNERS, GIVEN, DRAGGING)
+  await mobileSimLongPressDrag(CORNERS, GIVEN, dragging)
   expect(SEEN).toEqual([{ x: 1, y: 2, toX: 3, toY: 4, holdMs: 800, steps: 12, stepMs: 30 }])
 })
 
@@ -121,7 +121,7 @@ test("a hold, a count of moves and a wait said are each read as numbers", async 
   SEEN.length = 0
   const said = [...CORNERS, "--hold-ms", "50", "--steps", "3", "--step-ms", "7"]
 
-  await mobileSimLongPressDrag(said, GIVEN, DRAGGING)
+  await mobileSimLongPressDrag(said, GIVEN, dragging)
   expect(SEEN).toEqual([{ x: 1, y: 2, toX: 3, toY: 4, holdMs: 50, steps: 3, stepMs: 7 }])
 })
 

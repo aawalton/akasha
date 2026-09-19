@@ -352,7 +352,7 @@ export function saying(
     })
 }
 
-export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
+export const throws: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
 
 export const world = scratchWorld()
 

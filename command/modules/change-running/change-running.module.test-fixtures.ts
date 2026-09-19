@@ -166,7 +166,7 @@ export function repo(): string {
   })
 }
 
-export const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })
+export const nothing: Piping = () => ({ bytes: new Uint8Array(0) })
 
 export const APPLIED: (string | null)[] = []
 
@@ -231,7 +231,7 @@ export function readingNotText(root: string): Over {
 export async function acting(
   root: string,
   slug: string | undefined,
-  said: Piping = NOTHING
+  said: Piping = nothing
 ): Promise<Answer> {
   return await changing(root, PAGE, null, slug, said, loading, applying, CHOSEN)
 }
@@ -260,13 +260,13 @@ export function drafting(root: string, at: string): Promise<Answer> {
   return acting(root, "remove-page", piping(`${taking(at)}draft: true\n`))
 }
 
-const ANSWERS_NOTHING: Loading = async () => ({
+const answersNothing: Loading = async () => ({
   run: () => ({ edits: [], refused: null }),
 })
 
 export async function answeringNothing(root: string, at: string): Promise<Answer> {
   const said = piping(`${taking(at)}draft: true\n`)
-  return await changing(root, PAGE, null, "remove-page", said, ANSWERS_NOTHING, applying, CHOSEN)
+  return await changing(root, PAGE, null, "remove-page", said, answersNothing, applying, CHOSEN)
 }
 
 export async function doneDrafting(root: string, at: string): Promise<readonly string[]> {

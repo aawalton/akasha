@@ -38,7 +38,7 @@ const NUMBERED = ["--seat", "athena", "--limit", "2"]
 
 const UNREAD = ["--seat", "athena", "--limit", "many"]
 
-const TYPED: Generating<Handed> = (_done, taken) => {
+const typed: Generating<Handed> = (_done, taken) => {
   const seat: string = taken.seat
   const limit: number | undefined = taken.limit
   return told([seat, String(limit)])
@@ -87,7 +87,7 @@ test("a work that threw after writing names what it had written", async () => {
 
 test("the work is handed values typed as the argument pages say", async () => {
   const said = await answeredByPage(NUMBERED, CALLED_AS, NAMING_THEM, PAGES, (taken, done) =>
-    TYPED(done, taken, GIVEN)
+    typed(done, taken, GIVEN)
   )
 
   expect(said.report).toEqual(["athena", "2"])

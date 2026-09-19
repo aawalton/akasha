@@ -40,12 +40,12 @@ import {
   seatFiled,
   stoppedGoes,
   stoppedStays,
-  THROWS,
   takeLine,
   there,
   threePaged,
   threwAfter,
   thrown,
+  throws,
   twoThea,
   twoWaiting,
   UNREADABLE,
@@ -174,7 +174,7 @@ test("a transcript that will not open leaves the census the other evidence reach
   const { root, base, at } = worldWith()
   for (const seen of [ACTS, ALIVE, GONE]) {
     const bare = await reported(root, base, seen, saying([]))
-    expect(await reported(root, base, seen, THROWS)).toBe(bare)
+    expect(await reported(root, base, seen, throws)).toBe(bare)
   }
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -183,7 +183,7 @@ test("a transcript that will not open leaves the census the other evidence reach
 test("a page working by its acting agent id is still working when no transcript opens", async () => {
   const { root, base, at } = worldWith()
   const held = landings()
-  const said = await removing(root, base, ACTS, THROWS, held.landing)
+  const said = await removing(root, base, ACTS, throws, held.landing)
   reportSays(
     said,
     "1 working, 0 stale, 0 undetermined",

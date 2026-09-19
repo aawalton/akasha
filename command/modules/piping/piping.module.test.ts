@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { markedLine, markingIn, pipedIn } from "akasha/command/modules/piping/piping.module.code.ts"
-import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
+import { terminal } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -69,7 +69,7 @@ test("bytes piped in are handed to whoever wants a body", () => {
 
 test("a terminal and an input holding no byte are both nothing piped in", () => {
   const empty: Piping = () => ({ bytes: new Uint8Array() })
-  for (const one of [TERMINAL, empty]) {
+  for (const one of [terminal, empty]) {
     const held = pipedIn(one, "akasha/one.ts", SAYING)
     expect("refusals" in held && held.refusals[0]).toBe("nothing is piped in for akasha/one.ts")
   }
