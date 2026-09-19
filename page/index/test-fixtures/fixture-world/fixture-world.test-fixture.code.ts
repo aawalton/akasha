@@ -8,6 +8,8 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { keptAt } from "akasha/file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
+import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
+import { known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -279,15 +281,15 @@ const graphId = (one: string): string => `01a04a4a-0006-7000-8000-00000000000${o
 
 const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
   [
-    aType(graphId("1"), "graph-attribute", [PAGE_AT]),
+    aType(graphId("1"), graphAttribute.slug, [PAGE_AT]),
     aType(graphId("2"), "graph-edge", [PAGE_AT], ["attributes"]),
     aProperty(graphId("3"), "attributes", "relation-property", {
-      targetPageType: "graph-attribute",
+      targetPageType: graphAttribute.slug,
     }),
     thePage({
       id: graphId("4"),
-      pageTypeSlug: "graph-attribute",
-      slug: "known",
+      pageTypeSlug: graphAttribute.slug,
+      slug: known.slug,
       definition: "how an edge between two files was found",
     }),
     thePage({
@@ -295,7 +297,7 @@ const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
       pageTypeSlug: "graph-edge",
       slug: "import-edge",
       definition: "one file naming another in its own body",
-      attributes: ["graph-attribute/known"],
+      attributes: [`${graphAttribute.slug}/${known.slug}`],
     }),
   ].map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])
 )

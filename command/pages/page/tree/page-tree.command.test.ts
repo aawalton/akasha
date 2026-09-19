@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { note } from "akasha/alan/value/health/fitness/strength/log/properties/note.text-property.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -6,6 +7,8 @@ import {
   pageTree,
   propertyKindsIn,
 } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
+import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
+import { property as propertyAttribute } from "akasha/graph/attribute/pages/property.graph-attribute.ts"
 import { computedProperty } from "akasha/page/computed-property/computed-property.page-type.ts"
 import type { Valued } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -17,7 +20,9 @@ import {
   scratch,
   thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { numberProperty } from "akasha/page/number-property/number-property.page-type.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -45,7 +50,7 @@ const TYPES: readonly Valued[] = [
       extends: [PAGE_AT],
       properties: [
         { pagePropertySlug: "title", required: true, many: false },
-        { pagePropertySlug: "note", required: false, many: true, maxCount: 3 },
+        { pagePropertySlug: note.propertySlug, required: false, many: true, maxCount: 3 },
       ],
     },
   },
@@ -54,7 +59,7 @@ const TYPES: readonly Valued[] = [
 
 const PROPERTIES = new Map<string, readonly Valued[]>([
   [
-    "text-property",
+    textProperty.slug,
     [
       {
         path: "one/title.text-property.ts",
@@ -62,7 +67,11 @@ const PROPERTIES = new Map<string, readonly Valued[]>([
       },
       {
         path: "one/note.text-property.ts",
-        value: { slug: "note", propertySlug: "note", definition: "a line beside a thing" },
+        value: {
+          slug: note.slug,
+          propertySlug: note.propertySlug,
+          definition: "a line beside a thing",
+        },
       },
     ],
   ],
@@ -90,8 +99,8 @@ test("the three groups are drawn from the page types and the property pages", ()
       {
         at: "akasha:one/note.text-property.ts",
         values: {
-          slug: "note",
-          key: "note",
+          slug: note.slug,
+          key: note.propertySlug,
           "defined-on-slug": "page-type/thing",
           type: "list(text, max 3) | none",
         },
@@ -102,7 +111,7 @@ test("the three groups are drawn from the page types and the property pages", ()
         at: "akasha:one/title.text-property.ts",
         values: {
           "type-slug": "title",
-          kind: "text-property",
+          kind: textProperty.slug,
           suffix: null,
           of: "the name a thing carries",
           value: null,
@@ -111,8 +120,8 @@ test("the three groups are drawn from the page types and the property pages", ()
       {
         at: "akasha:one/note.text-property.ts",
         values: {
-          "type-slug": "note",
-          kind: "text-property",
+          "type-slug": note.slug,
+          kind: textProperty.slug,
           suffix: null,
           of: "a line beside a thing",
           value: null,
@@ -147,8 +156,13 @@ test("a slug two property pages carry is named under its kind", () => {
   const twice = new Map<string, readonly Valued[]>([
     ...PROPERTIES,
     [
-      "number-property",
-      [{ path: "one/note.number-property.ts", value: { slug: "note", propertySlug: "note" } }],
+      numberProperty.slug,
+      [
+        {
+          path: "one/note.number-property.ts",
+          value: { slug: note.slug, propertySlug: note.propertySlug },
+        },
+      ],
     ],
   ])
 
@@ -156,8 +170,8 @@ test("a slug two property pages carry is named under its kind", () => {
 
   expect(said.propertyTypes.map((one) => one.values["type-slug"])).toEqual([
     "title",
-    "text-property/note",
-    "number-property/note",
+    `${textProperty.slug}/${note.slug}`,
+    `${numberProperty.slug}/${note.slug}`,
   ])
 })
 
@@ -245,8 +259,8 @@ const heldId = (one: string): string => `01a04a4a-0007-7000-8000-00000000000${on
 const HELD: readonly Named[] = [
   thePage({
     id: heldId("1"),
-    pageTypeSlug: "graph-attribute",
-    slug: "property",
+    pageTypeSlug: graphAttribute.slug,
+    slug: propertyAttribute.slug,
     definition: "the property one page named another page under",
   }),
   thePage({
@@ -254,7 +268,7 @@ const HELD: readonly Named[] = [
     pageTypeSlug: "graph-edge",
     slug: "relation",
     definition: "one page naming another page under a property",
-    attributes: ["graph-attribute/property"],
+    attributes: [`${graphAttribute.slug}/${propertyAttribute.slug}`],
   }),
   aType(heldId("3"), "computed-property", [MODULE_AT, PAGE_PROPERTY_AT]),
   aType(heldId("4"), "faith-points", [COMPUTED_PROPERTY_AT]),

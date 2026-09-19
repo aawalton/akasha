@@ -69,4 +69,5 @@
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.ts","id":"01a09cc4-9e95-7a9b-a741-4be28085d2a1"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.ts","id":"01a0920d-ff8b-71c9-9d19-5de0bfe7f1c1"}
 {"propertySlug":"change-kind","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
+{"propertySlug":"import","fileName":"change-mechanical.change-kind.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
 {"propertySlug":"parts","path":"change/kind/change-kind.page-type.ts","id":"01a05e11-d3f8-72af-b104-6cdd1255b0eb"}

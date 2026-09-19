@@ -1,5 +1,9 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { changeAgent } from "akasha/change/agent/change-agent.page-type.ts"
+import { removePage } from "akasha/change/agent/file/remove-page/remove-page.change-agent.ts"
+import { changeKind } from "akasha/change/kind/change-kind.page-type.ts"
+import { changeMechanical } from "akasha/change/kind/pages/change-mechanical.change-kind.ts"
 import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -91,7 +95,9 @@ export function givenIn(): Readonly<Record<string, string>> {
   return given
 }
 
-const REMOVE_PAGE_ADDRESS = "change-agent/remove-page"
+const REMOVE_PAGE_SLUG = removePage.slug
+
+const REMOVE_PAGE_ADDRESS = `${changeAgent.slug}/${REMOVE_PAGE_SLUG}` as const
 
 const REMOVE_PAGE: Loaded = {
   run: (world, said) => {
@@ -105,11 +111,11 @@ const REMOVE_PAGE_AT = "akasha/changes/remove-page.change-agent.ts"
 const OWING_NO_READING: Readonly<Record<string, string>> = {
   [REMOVE_PAGE_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000006",
-    pageTypeSlug: "change-agent",
-    slug: "remove-page",
+    pageTypeSlug: changeAgent.slug,
+    slug: REMOVE_PAGE_SLUG,
     definition: "a mechanical change an indexed repository carries",
     code: "ts",
-    changeKind: "change-kind/change-mechanical",
+    changeKind: `${changeKind.slug}/${changeMechanical.slug}`,
   }),
 }
 
@@ -121,15 +127,15 @@ const KINDS: Readonly<Record<string, string>> = {
   [CHANGE_KIND_TYPE_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000008",
     pageTypeSlug: "page-type",
-    slug: "change-kind",
+    slug: changeKind.slug,
     definition: "which sort one change is",
     extends: [DOMAIN_AT],
     properties: [],
   }),
   [CHANGE_KIND_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000009",
-    pageTypeSlug: "change-kind",
-    slug: "change-mechanical",
+    pageTypeSlug: changeKind.slug,
+    slug: changeMechanical.slug,
     definition: "a change composed by a program",
     runsChecks: false,
     writerOwesReading: false,
@@ -186,7 +192,7 @@ export async function refusedApply(root: string, at: string): Promise<Answer> {
     root,
     PAGE,
     null,
-    "remove-page",
+    REMOVE_PAGE_SLUG,
     piping(taking(at)),
     loading,
     refusingApply,
@@ -238,7 +244,7 @@ export async function acting(
 
 export async function removing(root: string, at: string, message?: string): Promise<Answer> {
   const said = message === undefined ? taking(at) : asking(at, message)
-  return await acting(root, "remove-page", piping(said))
+  return await acting(root, REMOVE_PAGE_SLUG, piping(said))
 }
 
 export const BOTH: readonly string[] = [NAMER_CODE, NAMER_PAGE]
@@ -257,7 +263,7 @@ export function owedIn(root: string): readonly (boolean | undefined)[] {
 }
 
 export function drafting(root: string, at: string): Promise<Answer> {
-  return acting(root, "remove-page", piping(`${taking(at)}draft: true\n`))
+  return acting(root, REMOVE_PAGE_SLUG, piping(`${taking(at)}draft: true\n`))
 }
 
 const answersNothing: Loading = async () => ({
@@ -266,28 +272,28 @@ const answersNothing: Loading = async () => ({
 
 export async function answeringNothing(root: string, at: string): Promise<Answer> {
   const said = piping(`${taking(at)}draft: true\n`)
-  return await changing(root, PAGE, null, "remove-page", said, answersNothing, applying, CHOSEN)
+  return await changing(root, PAGE, null, REMOVE_PAGE_SLUG, said, answersNothing, applying, CHOSEN)
 }
 
 export async function doneDrafting(root: string, at: string): Promise<readonly string[]> {
   const done: string[] = []
   const said = piping(`${taking(at)}draft: true\n`)
-  await changing(root, PAGE, null, "remove-page", said, loading, applying, CHOSEN, done)
+  await changing(root, PAGE, null, REMOVE_PAGE_SLUG, said, loading, applying, CHOSEN, done)
   return done
 }
 
 export function draftingAndApplying(root: string, at: string): Promise<Answer> {
-  return acting(root, "remove-page", piping(`${taking(at)}draft: true\nmessage: a message\n`))
+  return acting(root, REMOVE_PAGE_SLUG, piping(`${taking(at)}draft: true\nmessage: a message\n`))
 }
 
 export function measuring(root: string, at: string): Promise<Answer> {
-  return acting(root, "remove-page", piping(`${taking(at)}measure: true\n`))
+  return acting(root, REMOVE_PAGE_SLUG, piping(`${taking(at)}measure: true\n`))
 }
 
 export function measuringWrongly(root: string, at: string): Promise<Answer> {
-  return acting(root, "remove-page", piping(`${taking(at)}measure: yes\n`))
+  return acting(root, REMOVE_PAGE_SLUG, piping(`${taking(at)}measure: yes\n`))
 }
 
 export function draftingAndMeasuring(root: string, at: string): Promise<Answer> {
-  return acting(root, "remove-page", piping(`${taking(at)}draft: true\nmeasure: true\n`))
+  return acting(root, REMOVE_PAGE_SLUG, piping(`${taking(at)}draft: true\nmeasure: true\n`))
 }
