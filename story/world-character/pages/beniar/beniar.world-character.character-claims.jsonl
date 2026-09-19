@@ -1,44 +1,44 @@
-{"id":"01a0b707-4f59-7e8c-9cf6-af8e402a62e9","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"class","claimValue":"Rider","epistemic":"asserted","sourceChapter":"4.20 E"}
-{"id":"01a0b707-4f59-78d7-8b41-576a15b49b67","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Young adventurer","epistemic":"asserted","sourceChapter":"4.20 E"}
-{"id":"01a0b707-4f59-7a07-8c21-73591285fe3c","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Leader of Windfrozen Riders (Silver-rank)","epistemic":"asserted","sourceChapter":"4.20 E"}
-{"id":"01a0b707-4f59-7ad7-8c37-c1c064b49de9","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Competent with a sword","epistemic":"asserted","sourceChapter":"4.20 E"}
-{"id":"01a0b707-4f59-75cb-95d5-c4fa6e0f2753","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Socially clumsy, brags shamelessly","epistemic":"asserted","sourceChapter":"4.20 E"}
-{"id":"01a0b707-4f59-7eea-b041-3bae6d331ea3","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"skill","claimValue":"[Rider]","epistemic":"asserted","sourceChapter":"4.20 E"}
-{"id":"01a0b707-4f59-70b5-9ffb-e5e4da263d0a","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Captain of the Windfrozen Riders","epistemic":"asserted","sourceChapter":"4.21 E"}
-{"id":"01a0b707-4f59-79fb-b464-11ff270ab6b8","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Wounded with poisoned arrow in abdomen","epistemic":"asserted","sourceChapter":"4.21 E"}
-{"id":"01a0b707-4f59-7b8f-9e5b-02450f2b972a","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Respects Laken's care for common people","epistemic":"asserted","sourceChapter":"4.21 E"}
-{"id":"01a0b707-4f59-7fe5-98e7-92e71526736f","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Former villager","epistemic":"asserted","sourceChapter":"4.21 E"}
-{"id":"01a0b707-4f59-7e45-84c1-1c65e84efdb4","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"skill","claimValue":"Swordplay instruction","epistemic":"asserted","sourceChapter":"4.21 E"}
-{"id":"01a0b707-4f59-77b5-9b33-1faf3b6d2d18","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"skill","claimValue":"Combat leadership","epistemic":"asserted","sourceChapter":"4.21 E"}
-{"id":"01a0b707-4f59-790b-ade8-075eead44090","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"class","claimValue":"Adventurer","epistemic":"asserted","sourceChapter":"4.22 E"}
-{"id":"01a0b707-4f59-76df-ab92-c3f59980beb8","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"trait","claimValue":"Leader of Windfrozen Riders","epistemic":"asserted","sourceChapter":"4.22 E"}
-{"id":"01a0b707-4f59-75e4-823a-7be58dd26d0b","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"trait","claimValue":"Was wounded by poisoned arrow, recovered with healing potion","epistemic":"asserted","sourceChapter":"4.22 E"}
-{"id":"01a0b707-4f59-75af-95f2-48b143e80843","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"trait","claimValue":"Eager for combat, wants to pursue Goblins","epistemic":"asserted","sourceChapter":"4.22 E"}
-{"id":"01a0b707-4f59-75f5-8759-1ab2e73fdbc7","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"skill","claimValue":"Combat proficiency with sword","epistemic":"asserted","sourceChapter":"4.22 E"}
-{"id":"01a0b707-4f59-7b77-ab0f-e224cccd6e44","chapterSlug":"the-wandering-inn-0205-4-23-e","claimField":"class","claimValue":"Rider","epistemic":"asserted"}
-{"id":"01a0b707-4f59-7979-90f9-04ecfb0ec8bb","chapterSlug":"the-wandering-inn-0205-4-23-e","claimField":"trait","claimValue":"leads Windfrozen Riders","epistemic":"asserted","sourceChapter":"4.23 E"}
-{"id":"01a0b707-4f59-7b21-b8f3-3e25cd78bcbf","chapterSlug":"the-wandering-inn-0205-4-23-e","claimField":"trait","claimValue":"reckless","epistemic":"claimed","claimedBy":"Wiskeria","sourceChapter":"4.23 E"}
-{"id":"01a0b707-4f59-7052-836b-14aa75dc2d17","chapterSlug":"the-wandering-inn-0221-4-35-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted"}
-{"id":"01a0b707-4f59-76ba-9053-09cd733c3cb4","chapterSlug":"the-wandering-inn-0221-4-35-e","claimField":"trait","claimValue":"Commands cavalry and mounted riders","epistemic":"asserted","sourceChapter":"4.35 E"}
-{"id":"01a0b707-4f59-78a4-bc29-78d31b87dd34","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"5.09 E"}
-{"id":"01a0b707-4f59-7820-bed2-c76552485c94","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"trait","claimValue":"skilled night fighter","epistemic":"asserted","sourceChapter":"5.09 E"}
-{"id":"01a0b707-4f59-781d-8fc2-621e49e217b8","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"trait","claimValue":"leads mounted warriors","epistemic":"asserted","sourceChapter":"5.09 E"}
-{"id":"01a0b707-4f59-784e-bc5c-f8b35cefb336","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"skill","claimValue":"Captain","epistemic":"asserted","sourceChapter":"5.09 E"}
-{"id":"01a0b707-4f59-789d-a1fd-0e5412f95531","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"skill","claimValue":"Blacksky Riders","epistemic":"asserted","sourceChapter":"5.09 E"}
-{"id":"01a0b707-4f59-77dd-9650-b98fa2fb7635","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"5.11 E"}
-{"id":"01a0b707-4f59-7458-9d8f-eb3113a70b36","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"Captain in Emperor Laken's service","epistemic":"asserted","sourceChapter":"5.11 E"}
-{"id":"01a0b707-4f59-7b98-bb4a-fdceabf26e69","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"former Silver-rank adventurer","epistemic":"asserted","sourceChapter":"5.11 E"}
-{"id":"01a0b707-4f59-76ae-a028-22b78bdc76bb","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"skilled swordsman","epistemic":"asserted","sourceChapter":"5.11 E"}
-{"id":"01a0b707-4f59-7025-adbd-6f29747d61d4","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"has scar on cheek","epistemic":"asserted","sourceChapter":"5.11 E"}
-{"id":"01a0b707-4f59-7771-b53c-c251b1fe2821","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"skilled fighter","epistemic":"asserted","sourceChapter":"6.34 E"}
-{"id":"01a0b707-4f59-735a-a93e-df136dd43bdc","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"mounted rider with dark hair","epistemic":"asserted","sourceChapter":"6.34 E"}
-{"id":"01a0b707-4f59-718f-bc42-e6b88e2aa559","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"commands Darksky Riders","epistemic":"asserted","sourceChapter":"6.34 E"}
-{"id":"01a0b707-4f59-7dfc-8936-c3b392df6cbc","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"effective at night operations","epistemic":"asserted","sourceChapter":"6.34 E"}
-{"id":"01a0b707-4f59-7016-826a-4acffd155b16","chapterSlug":"the-wandering-inn-0351-6-37-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"6.37 E"}
-{"id":"01a0b707-4f59-7a92-ba59-e9eeb588b3e1","chapterSlug":"the-wandering-inn-0351-6-37-e","claimField":"trait","claimValue":"leads Darksky Riders","epistemic":"asserted","sourceChapter":"6.37 E"}
-{"id":"01a0b707-4f59-7e23-9acb-4ffae5f3ad7c","chapterSlug":"the-wandering-inn-0351-6-37-e","claimField":"trait","claimValue":"quick to respond","epistemic":"asserted","sourceChapter":"6.37 E"}
-{"id":"01a0b707-4f59-7c6e-b040-5458fc77d17f","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"6.41 E"}
-{"id":"01a0b707-4f59-7387-b8d0-f382f1e9daf6","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Leads Darksky Riders","epistemic":"asserted","sourceChapter":"6.41 E"}
-{"id":"01a0b707-4f59-7b80-bd49-3c8e193cdd70","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Carries a magic sword","epistemic":"asserted","sourceChapter":"6.41 E"}
-{"id":"01a0b707-4f59-76ef-b196-0bfc8e748171","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Provides escort for supply runs","epistemic":"asserted","sourceChapter":"6.41 E"}
-{"id":"01a0b707-4f59-793a-bb93-5609ec2d1d83","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Kills at least one fleeing bandit","epistemic":"asserted","sourceChapter":"6.41 E"}
+{"id":"01a0b709-c618-7a55-8de9-75c7b498eeb6","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"class","claimValue":"Rider","epistemic":"asserted","sourceChapter":"4.20 E"}
+{"id":"01a0b709-c618-730f-b810-77df1bcee03e","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Young adventurer","epistemic":"asserted","sourceChapter":"4.20 E"}
+{"id":"01a0b709-c618-7599-ace9-3859341b0286","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Leader of Windfrozen Riders (Silver-rank)","epistemic":"asserted","sourceChapter":"4.20 E"}
+{"id":"01a0b709-c618-773a-835a-f9f7976bacc1","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Competent with a sword","epistemic":"asserted","sourceChapter":"4.20 E"}
+{"id":"01a0b709-c618-72fd-81ff-2813a4647c10","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"trait","claimValue":"Socially clumsy, brags shamelessly","epistemic":"asserted","sourceChapter":"4.20 E"}
+{"id":"01a0b709-c618-7224-b3d2-1c4d11217def","chapterSlug":"the-wandering-inn-0202-4-20-e","claimField":"skill","claimValue":"[Rider]","epistemic":"asserted","sourceChapter":"4.20 E"}
+{"id":"01a0b709-c618-7a92-a75f-5dbb5d37630c","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Captain of the Windfrozen Riders","epistemic":"asserted","sourceChapter":"4.21 E"}
+{"id":"01a0b709-c618-78d2-ad66-a7dfccaed6c6","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Wounded with poisoned arrow in abdomen","epistemic":"asserted","sourceChapter":"4.21 E"}
+{"id":"01a0b709-c618-7169-a8f6-98e1e7b13b3e","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Respects Laken's care for common people","epistemic":"asserted","sourceChapter":"4.21 E"}
+{"id":"01a0b709-c618-7ec9-ba4e-4caea5c928c9","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"trait","claimValue":"Former villager","epistemic":"asserted","sourceChapter":"4.21 E"}
+{"id":"01a0b709-c618-7ec0-bee9-287868959d06","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"skill","claimValue":"Swordplay instruction","epistemic":"asserted","sourceChapter":"4.21 E"}
+{"id":"01a0b709-c618-75ea-bdba-d5fccf536954","chapterSlug":"the-wandering-inn-0203-4-21-e","claimField":"skill","claimValue":"Combat leadership","epistemic":"asserted","sourceChapter":"4.21 E"}
+{"id":"01a0b709-c618-7c0d-8a61-4a2323a59c2a","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"class","claimValue":"Adventurer","epistemic":"asserted","sourceChapter":"4.22 E"}
+{"id":"01a0b709-c618-7e22-8750-e164faf8f8fb","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"trait","claimValue":"Leader of Windfrozen Riders","epistemic":"asserted","sourceChapter":"4.22 E"}
+{"id":"01a0b709-c618-74e8-aed0-9f86e478a2fb","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"trait","claimValue":"Was wounded by poisoned arrow, recovered with healing potion","epistemic":"asserted","sourceChapter":"4.22 E"}
+{"id":"01a0b709-c618-7c53-81dc-1fb278bff06e","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"trait","claimValue":"Eager for combat, wants to pursue Goblins","epistemic":"asserted","sourceChapter":"4.22 E"}
+{"id":"01a0b709-c618-732e-9904-f8bb6c491530","chapterSlug":"the-wandering-inn-0204-4-22-e","claimField":"skill","claimValue":"Combat proficiency with sword","epistemic":"asserted","sourceChapter":"4.22 E"}
+{"id":"01a0b709-c618-7dc6-9ea8-4cae987a7d4d","chapterSlug":"the-wandering-inn-0205-4-23-e","claimField":"class","claimValue":"Rider","epistemic":"asserted"}
+{"id":"01a0b709-c618-7199-95f6-ffdda281ba34","chapterSlug":"the-wandering-inn-0205-4-23-e","claimField":"trait","claimValue":"leads Windfrozen Riders","epistemic":"asserted","sourceChapter":"4.23 E"}
+{"id":"01a0b709-c618-7243-996e-a8910faa2a03","chapterSlug":"the-wandering-inn-0205-4-23-e","claimField":"trait","claimValue":"reckless","epistemic":"claimed","claimedBy":"Wiskeria","sourceChapter":"4.23 E"}
+{"id":"01a0b709-c618-76f8-bbb7-404f902691f4","chapterSlug":"the-wandering-inn-0221-4-35-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted"}
+{"id":"01a0b709-c618-7858-a87d-608700e605c7","chapterSlug":"the-wandering-inn-0221-4-35-e","claimField":"trait","claimValue":"Commands cavalry and mounted riders","epistemic":"asserted","sourceChapter":"4.35 E"}
+{"id":"01a0b709-c618-793a-bcba-1f5019adab63","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"5.09 E"}
+{"id":"01a0b709-c618-70cc-988c-9c0d3c18f84c","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"trait","claimValue":"skilled night fighter","epistemic":"asserted","sourceChapter":"5.09 E"}
+{"id":"01a0b709-c618-7f65-84d7-0b323e979e01","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"trait","claimValue":"leads mounted warriors","epistemic":"asserted","sourceChapter":"5.09 E"}
+{"id":"01a0b709-c618-7664-a5b6-18f220fffde3","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"skill","claimValue":"Captain","epistemic":"asserted","sourceChapter":"5.09 E"}
+{"id":"01a0b709-c618-7e0f-a85b-61cb202dfb7e","chapterSlug":"the-wandering-inn-0250-5-09-e","claimField":"skill","claimValue":"Blacksky Riders","epistemic":"asserted","sourceChapter":"5.09 E"}
+{"id":"01a0b709-c618-74d4-a3e9-0be61cd39374","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"5.11 E"}
+{"id":"01a0b709-c618-7262-8711-b70773a4f806","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"Captain in Emperor Laken's service","epistemic":"asserted","sourceChapter":"5.11 E"}
+{"id":"01a0b709-c618-765e-9675-224b09da7b4b","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"former Silver-rank adventurer","epistemic":"asserted","sourceChapter":"5.11 E"}
+{"id":"01a0b709-c618-7829-9751-8ce2267f316f","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"skilled swordsman","epistemic":"asserted","sourceChapter":"5.11 E"}
+{"id":"01a0b709-c618-73ca-8159-6602a728efeb","chapterSlug":"the-wandering-inn-0252-5-11-e","claimField":"trait","claimValue":"has scar on cheek","epistemic":"asserted","sourceChapter":"5.11 E"}
+{"id":"01a0b709-c618-71a3-940e-813020e4ce65","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"skilled fighter","epistemic":"asserted","sourceChapter":"6.34 E"}
+{"id":"01a0b709-c618-717b-b024-13f64bf1eb84","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"mounted rider with dark hair","epistemic":"asserted","sourceChapter":"6.34 E"}
+{"id":"01a0b709-c618-74d3-9f75-aaaa732f29e4","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"commands Darksky Riders","epistemic":"asserted","sourceChapter":"6.34 E"}
+{"id":"01a0b709-c618-7e8b-8f13-f763020402aa","chapterSlug":"the-wandering-inn-0346-6-34-e","claimField":"trait","claimValue":"effective at night operations","epistemic":"asserted","sourceChapter":"6.34 E"}
+{"id":"01a0b709-c618-78cb-9192-6e2c8497686a","chapterSlug":"the-wandering-inn-0351-6-37-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"6.37 E"}
+{"id":"01a0b709-c618-7f65-ba96-129a21104624","chapterSlug":"the-wandering-inn-0351-6-37-e","claimField":"trait","claimValue":"leads Darksky Riders","epistemic":"asserted","sourceChapter":"6.37 E"}
+{"id":"01a0b709-c618-731e-abe5-c0cdfbeaa545","chapterSlug":"the-wandering-inn-0351-6-37-e","claimField":"trait","claimValue":"quick to respond","epistemic":"asserted","sourceChapter":"6.37 E"}
+{"id":"01a0b709-c618-7004-a335-3f282fd46519","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"class","claimValue":"Cataphract","epistemic":"asserted","sourceChapter":"6.41 E"}
+{"id":"01a0b709-c618-701d-a948-f7ee83e6d5c9","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Leads Darksky Riders","epistemic":"asserted","sourceChapter":"6.41 E"}
+{"id":"01a0b709-c618-7d3f-b73b-0b0cf8824a02","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Carries a magic sword","epistemic":"asserted","sourceChapter":"6.41 E"}
+{"id":"01a0b709-c618-75a4-aae5-7a475f13b82a","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Provides escort for supply runs","epistemic":"asserted","sourceChapter":"6.41 E"}
+{"id":"01a0b709-c618-73f6-bb58-f69fce3d2224","chapterSlug":"the-wandering-inn-0355-6-41-e","claimField":"trait","claimValue":"Kills at least one fleeing bandit","epistemic":"asserted","sourceChapter":"6.41 E"}
