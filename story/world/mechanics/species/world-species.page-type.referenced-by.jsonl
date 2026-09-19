@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/pages/boreal-half-elf/boreal-half-elf.world-species.ts"}
-{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/pages/drake/drake.world-species.ts"}
-{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/pages/half-elf/half-elf.world-species.ts"}
-{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/pages/oldblood-of-gems/oldblood-of-gems.world-species.ts"}
-{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/pages/shadow-familiars/shadow-familiars.world-species.ts"}
-{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/pages/true-familiars/true-familiars.world-species.ts"}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/boreal-half-elf.world-species.ts"}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/drake.world-species.ts"}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/half-elf.world-species.ts"}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/oldblood-of-gems.world-species.ts"}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/shadow-familiars.world-species.ts"}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/true-familiars.world-species.ts"}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
