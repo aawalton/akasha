@@ -117,7 +117,7 @@ test("a title carrying an alias is tagged with the relationship that alias names
 })
 
 test("a title carrying two aliases is tagged with both", () => {
-  expect(matchedIn("Jen + Joseph + Walk", PAGES)).toEqual([JENNIFER, JOSEPH].sort())
+  expect(matchedIn("Jen + Joseph + Walk", PAGES)).toEqual([JOSEPH, JENNIFER].sort())
 })
 
 test("two aliases of one relationship tag it once", () => {
