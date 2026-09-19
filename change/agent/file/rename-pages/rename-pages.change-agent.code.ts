@@ -1,9 +1,11 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renameFilePages } from "akasha/change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const RENAME_FILE_PAGES = "change-mechanical/rename-file-pages"
+const RENAME_FILE_PAGES = `${changeMechanical.slug}/${renameFilePages.slug}` as const
 
 const PAGE_TYPE = "page-type"
 

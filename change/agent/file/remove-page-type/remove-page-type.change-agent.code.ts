@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFilePageType } from "akasha/change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -7,7 +9,7 @@ const AT = "at"
 
 const PAGE_TYPE = "page-type"
 
-const REMOVE_PAGE_TYPE = "change-mechanical/remove-file-page-type"
+const REMOVE_PAGE_TYPE = `${changeMechanical.slug}/${removeFilePageType.slug}` as const
 
 export type RemovePageTypeAsked = {
   readonly at: string

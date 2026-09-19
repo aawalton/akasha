@@ -1,4 +1,6 @@
 import { basename, dirname, join } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { moveFileOfAnyKind } from "akasha/change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.ts"
 import {
   gathered,
   missing,
@@ -8,7 +10,7 @@ import type { Answer } from "akasha/change/modules/answer/change-answer.module.t
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const MOVE_FILE_OF_ANY_KIND = "change-mechanical/move-file-of-any-kind"
+const MOVE_FILE_OF_ANY_KIND = `${changeMechanical.slug}/${moveFileOfAnyKind.slug}` as const
 
 const MOVED = "moved"
 

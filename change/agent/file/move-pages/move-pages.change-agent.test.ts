@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/change/agent/file/move-pages/move-pages.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { MOVING } from "akasha/change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.test-fixtures.ts"
+import { moveFileOfAnyKind } from "akasha/change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -145,8 +147,7 @@ test("each carry is left to the change reached at its address", async () => {
 
   await runChange(world, { moved: `${HELD_PAGE} ${INTO}\n${BORNE_PAGE} ${INTO}\n` })
 
-  expect(reached).toEqual([
-    "change-mechanical/move-file-of-any-kind",
-    "change-mechanical/move-file-of-any-kind",
-  ])
+  const moving = `${changeMechanical.slug}/${moveFileOfAnyKind.slug}`
+
+  expect(reached).toEqual([moving, moving])
 })
