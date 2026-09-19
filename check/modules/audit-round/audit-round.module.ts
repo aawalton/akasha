@@ -18,11 +18,38 @@ export const auditRound = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request naming a check no round underway covers opens a round of its own.",
+      statement:
+        "A request naming a check no round underway covers opens a round over those checks alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A request a round underway covers in part attaches for that part and opens a round for the rest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "More than one round is underway at one commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A request is answered by every round it attached to together with the round it opened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer carries the checks the request named and no others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check two rounds both answer is carried once.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Rounds are held apart by the commit they answer for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round that ended is taken out, and the rounds beside it are left underway.",
     },
     {
       decisionKind: "decision-kind/departure",

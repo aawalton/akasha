@@ -2,10 +2,12 @@ import { expect, test } from "bun:test"
 import type { Verdicts } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
   answeredIn,
-  joining,
+  merged,
   owedCarrying,
+  splitting,
   type Turned,
   turnedIn,
+  type Underway,
 } from "akasha/check/modules/audit-round/audit-round.module.code.ts"
 import { gathered } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
@@ -55,16 +57,56 @@ test("a check that turned clean again turns nothing", () => {
 
 const GATHERED = [gathered("no-class", "/r"), gathered("lint-clean", "/r")]
 
+function underway(checks: readonly string[]): Underway {
+  return { checks: new Set(checks), told: Promise.resolve(NOTHING) }
+}
+
 test("a request a running round covers attaches to that round rather than opening a second", () => {
-  const running = { checks: new Set(["no-class", "lint-clean"]), told: Promise.resolve(NOTHING) }
-  expect(joining(running, ["no-class"])).toBe(true)
-  expect(joining(running, ["no-class", "lint-clean"])).toBe(true)
+  const running = underway(CHECKS)
+  expect(splitting([running], ["no-class"])).toEqual({ joined: [running], left: [] })
+  expect(splitting([running], CHECKS)).toEqual({ joined: [running], left: [] })
 })
 
-test("a request naming a check no running round covers opens a round of its own", () => {
-  const running = { checks: new Set(["no-class"]), told: Promise.resolve(NOTHING) }
-  expect(joining(running, ["no-class", "lint-clean"])).toBe(false)
-  expect(joining(undefined, ["no-class"])).toBe(false)
+test("a request naming a check no running round covers opens a round over those checks alone", () => {
+  expect(splitting([], CHECKS)).toEqual({ joined: [], left: CHECKS })
+  expect(splitting([underway(["page-named"])], CHECKS)).toEqual({ joined: [], left: CHECKS })
+})
+
+test("a request a running round covers in part attaches for that part and opens one for the rest", () => {
+  const running = underway(["no-class"])
+  expect(splitting([running], CHECKS)).toEqual({ joined: [running], left: ["lint-clean"] })
+})
+
+test("a request is answered by every round it attached to", () => {
+  const one = underway(["no-class"])
+  const two = underway(["lint-clean"])
+  expect(splitting([one, two], CHECKS)).toEqual({ joined: [one, two], left: [] })
+})
+
+test("an answer carries the checks the request named and no others", () => {
+  const told: Turned = {
+    ran: [
+      { check: "no-class", verdict: CLEAN, ran: true },
+      { check: "page-named", verdict: CLEAN, ran: true },
+    ],
+    turned: ["no-class", "page-named"],
+    refused: [],
+  }
+  const said = merged([told], ["no-class"])
+  expect(said.ran.map((one) => one.check)).toEqual(["no-class"])
+  expect(said.turned).toEqual(["no-class"])
+})
+
+test("a check two rounds both answer is carried once", () => {
+  const told: Turned = {
+    ran: [{ check: "no-class", verdict: CLEAN, ran: true }],
+    turned: ["no-class"],
+    refused: ["the cluster would not take it"],
+  }
+  const said = merged([told, told], CHECKS)
+  expect(said.ran.map((one) => one.check)).toEqual(["no-class"])
+  expect(said.turned).toEqual(["no-class"])
+  expect(said.refused).toEqual(["the cluster would not take it"])
 })
 
 test("a check with no verdict yet is carried nowhere and is asked for", () => {

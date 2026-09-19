@@ -98,12 +98,45 @@ export async function carriedForward(
   return carried
 }
 
-type Underway = { readonly checks: ReadonlySet<string>; readonly told: Promise<Turned> }
+export type Underway = { readonly checks: ReadonlySet<string>; readonly told: Promise<Turned> }
 
-const underway = new Map<string, Underway>()
+const underway = new Map<string, readonly Underway[]>()
 
-export function joining(held: Underway | undefined, checks: readonly string[]): boolean {
-  return held !== undefined && checks.every((one) => held.checks.has(one))
+export type Split = { readonly joined: readonly Underway[]; readonly left: readonly string[] }
+
+export function splitting(held: readonly Underway[], checks: readonly string[]): Split {
+  const joined: Underway[] = []
+  const left = new Set(checks)
+  for (const one of held) {
+    const covers = checks.filter((each) => left.has(each) && one.checks.has(each))
+    if (covers.length === 0) continue
+    joined.push(one)
+    for (const each of covers) left.delete(each)
+    if (left.size === 0) break
+  }
+  return { joined, left: checks.filter((one) => left.has(one)) }
+}
+
+export function merged(told: readonly Turned[], checks: readonly string[]): Turned {
+  const want = new Set(checks)
+  const ran = new Map<string, Ran>()
+  for (const one of told) {
+    for (const each of one.ran) {
+      if (want.has(each.check) && !ran.has(each.check)) ran.set(each.check, each)
+    }
+  }
+  const turned = told.flatMap((one) => one.turned.filter((each) => want.has(each)))
+  return {
+    ran: [...ran.values()],
+    turned: [...new Set(turned)],
+    refused: [...new Set(told.flatMap((one) => one.refused))],
+  }
+}
+
+function without(commit: string, mine: Underway): undefined {
+  const now = (underway.get(commit) ?? []).filter((one) => one !== mine)
+  if (now.length === 0) underway.delete(commit)
+  else underway.set(commit, now)
 }
 
 export async function roundJoined(
@@ -114,14 +147,17 @@ export async function roundJoined(
 ): Promise<Turned> {
   const commit = await commitOf(root)
   const checks = roundOver(checksIn(root), named).map((one) => one.slug)
-  const held = underway.get(commit)
-  if (joining(held, checks) && held !== undefined) return await held.told
-  const told = roundTold(root, checks, send, to)
-  underway.set(commit, { checks: new Set(checks), told })
+  const held = underway.get(commit) ?? []
+  const split = splitting(held, checks)
+  const waited = split.joined.map((one) => one.told)
+  if (split.left.length === 0) return merged(await Promise.all(waited), checks)
+  const told = roundTold(root, split.left, send, to)
+  const mine: Underway = { checks: new Set(split.left), told }
+  underway.set(commit, [...held, mine])
   try {
-    return await told
+    return merged(await Promise.all([...waited, told]), checks)
   } finally {
-    if (underway.get(commit)?.told === told) underway.delete(commit)
+    without(commit, mine)
   }
 }
 
