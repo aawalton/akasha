@@ -4,7 +4,7 @@ export const musicFoldSongs = {
   id: "01a0b7c9-4e11-7a26-9f03-8b41d0e5c772",
   type: "page-type/command",
   slug: "music-fold-songs",
-  definition: "the command leaving one page for each composition an artist wrote",
+  definition: "the command leaving one page for a composition, under every artist performing it",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,
@@ -15,11 +15,23 @@ export const musicFoldSongs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Songs holding one MusicBrainz work are one song whoever performs them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The page a person has written on is the page that stays.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where no page is written on, a page titled the composition stays.",
+      statement: "Where no page is written on, a page whose artist is named a writer stays.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no page names its artist a writer, a page titled the composition stays.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page that stays is part of every artist the pages that go were under.",
     },
     {
       decisionKind: "decision-kind/departure",

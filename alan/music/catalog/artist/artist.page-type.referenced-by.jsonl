@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"change/modules/page-editing/page-editing.module.test.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/link-songs/music-link-songs.command.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/adele/adele.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/alex-warren/alex-warren.artist.ts"}
