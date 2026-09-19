@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"terminal-bash.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.test.ts"}
 {"propertySlug":"import","fileName":"terminal-bash.module.code.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"}
+{"propertySlug":"import","fileName":"terminal-bash.module.code.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts"}
 {"propertySlug":"import","fileName":"terminal-bash.module.test-fixtures.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.test.ts"}
 {"propertySlug":"import","fileName":"terminal-bash.module.test-fixtures.ts","path":"code/shell/terminal/modules/terminal-ended/terminal-ended.module.test.ts"}
 {"propertySlug":"import","fileName":"terminal-bash.module.test-fixtures.ts","path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.test.ts"}

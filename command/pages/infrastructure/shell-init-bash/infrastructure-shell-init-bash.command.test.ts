@@ -1,16 +1,60 @@
-import { describe, expect, test } from "bun:test"
+import { afterAll, describe, expect, test } from "bun:test"
+import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { generateBashInit } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { infrastructureShellInitBash } from "akasha/command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"
 import { ACCOUNT_TYPE_AT } from "akasha/command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+
+const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
+
+const ACCOUNT_SLUG = "model-account"
+
+const ACCOUNT_TYPE_BODY =
+  `export const modelAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
+  `slug: "${ACCOUNT_SLUG}", pluralSlug: "model-accounts", extendsSlug: [] } as const\n`
+
+function accountlessRoot(root: string): string {
+  writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
+  pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
+  listedFiled(root, "page-type", ACCOUNT_SLUG, [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
+  return root
+}
+
+const ACCOUNTS = [
+  { account: "walton-one", aliasIndex: 1 },
+  { account: "walton-seven", aliasIndex: 7 },
+]
+
+function accountedRoot(root: string): string {
+  accountlessRoot(root)
+  valueAlsoFiled(
+    root,
+    ACCOUNT_SLUG,
+    ACCOUNTS.map((one) => ({
+      path: `agent/model/account/pages/${one.account}/${one.account}.${ACCOUNT_SLUG}.ts`,
+      value: { slug: one.account, provider: ANTHROPIC, aliasIndex: one.aliasIndex },
+    }))
+  )
+  return root
+}
+
+const WORLD = scratchWorld()
+
+afterAll(() => WORLD.sweep())
+
+const ROOT = accountedRoot(WORLD.rootFor("shell-init-bash-"))
 
 const given: Given = {
-  root: "/var/home/walton/repos/akasha",
+  root: ROOT,
   calledAs: "akasha infrastructure shell-init-bash",
-  from: "/var/home/walton/repos/akasha",
+  from: ROOT,
   writer: null,
   agentId: null,
 }
@@ -38,7 +82,7 @@ describe("the set composed", () => {
   })
 
   test("goes to the report, one line of the set to one line of the report", () => {
-    expect(answer.report.length).toBeGreaterThan(50)
+    expect(answer.report.length).toBe(generateBashInit(ACCOUNTS).split("\n").length)
     for (const one of answer.report) expect(one).not.toContain("\n")
   })
 
@@ -50,8 +94,8 @@ describe("the set composed", () => {
   })
 
   test("carries one launcher for each account page stating an alias index", () => {
-    const said = answer.report.join("\n")
-    expect(said).toMatch(/^c\d+\(\) \{$/m)
+    const said = answer.report.filter((one) => /^c\d+\(\) \{$/.test(one))
+    expect(said).toEqual(ACCOUNTS.map((one) => `c${String(one.aliasIndex)}() {`))
   })
 
   test("is bash a shell can parse", async () => {
@@ -64,19 +108,6 @@ describe("the set composed", () => {
     expect(await ran.exited).toBe(0)
   })
 })
-
-const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
-
-const ACCOUNT_TYPE_BODY =
-  `export const modelAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
-  `slug: "model-account", pluralSlug: "model-accounts", extendsSlug: [] } as const\n`
-
-function accountlessRoot(root: string): string {
-  writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
-  pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
-  listedFiled(root, "page-type", "model-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
-  return root
-}
 
 describe("a root holding no account page", () => {
   test("is a data refusal rather than a set with no launcher", () => {

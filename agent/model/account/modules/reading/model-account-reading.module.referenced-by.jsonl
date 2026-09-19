@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"}
+{"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.code.ts","path":"command/pages/model-account/add/model-account-add.command.code.ts"}
 {"propertySlug":"import","fileName":"model-account-reading.module.test-fixtures.ts","path":"agent/model/account/modules/reading/model-account-reading.module.test.ts"}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
