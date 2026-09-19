@@ -11,7 +11,7 @@ export const nimueWorkstationUpgrade = {
       statement:
         "The workstation's live data sits on a drive that does not stall the agents reading it.",
       workingMemory:
-        "The SN3000 holding the live data averages 0.45 ms reads and 1.49 ms writes, and IO stalls every task 1.11% of the time. A WD Black SN850X 4 TB is bought. It goes in M.2_1, which is CPU-attached, and the SN3000 moves to a chipset slot for bulk. 2400 TBW is 3.9 years at the rate the drive took 9.8 TB in 5.8 days. The writes are the swarm's own: agent transcripts, and the git objects and regenerated sidecars an apply lands, all CoW on btrfs.",
+        "Bazzite is installed on the SN850X at deployment 9a7184d5 over btrfs dc99381c, and walton is made again at uid 1000. ESO, the akasha folder whole and code-editor are copied to the places they held; Spotify comes from flatpak and the 111 user units from `akasha deploy`. The SN3000 is never written and mounts at `/mnt/sn3000`. Boot0000 starts the SN850X and Boot0001 the SN3000. Left: one more copy over akasha, `git worktree prune`, and the keyboard, firewalld and printer settings.\n",
     },
   ],
   constraints: [
