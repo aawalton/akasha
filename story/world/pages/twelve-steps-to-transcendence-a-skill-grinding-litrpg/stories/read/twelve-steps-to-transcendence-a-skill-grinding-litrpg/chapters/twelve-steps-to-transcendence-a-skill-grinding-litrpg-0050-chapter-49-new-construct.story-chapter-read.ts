@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0050Chapter49NewConstruct = {
   id: "01a09d03-5fda-725a-943c-c07995145243",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0771MiniChapterEldavin = {
   id: "01a0659e-17c6-73a1-8e68-bdf44fbb968e",

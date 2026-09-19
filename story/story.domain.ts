@@ -11,7 +11,6 @@ export const story = {
     "domain/ui",
     "domain/world-lore",
     "page-type/game",
-    "page-type/story-chapter-read",
     "page-type/world",
   ],
   decisions: [

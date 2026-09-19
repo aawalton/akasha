@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0253294RevengeGivenForm = {
   id: "01a06730-4eb5-7cf8-8a3a-1671407e87d4",

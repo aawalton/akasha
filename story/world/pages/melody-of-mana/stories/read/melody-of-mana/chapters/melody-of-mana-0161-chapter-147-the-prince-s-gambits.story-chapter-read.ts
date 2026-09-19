@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const melodyOfMana0161Chapter147ThePrinceSGambits = {
   id: "01a06731-ad81-700d-abbb-cf87818d7be2",

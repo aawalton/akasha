@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld001255TheMightOfProgress = {
   id: "01a06730-4e34-76bb-ba8d-30457aa7e4fc",

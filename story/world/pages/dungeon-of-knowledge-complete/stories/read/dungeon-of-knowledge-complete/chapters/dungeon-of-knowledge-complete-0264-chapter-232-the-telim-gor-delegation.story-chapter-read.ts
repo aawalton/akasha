@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0264Chapter232TheTelimGorDelegation = {
   id: "01a0672c-ebd7-7002-a7ef-5e3df1574ff2",

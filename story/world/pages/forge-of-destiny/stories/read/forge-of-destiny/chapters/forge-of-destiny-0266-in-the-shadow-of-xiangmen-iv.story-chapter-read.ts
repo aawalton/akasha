@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0266InTheShadowOfXiangmenIv = {
   id: "01a06591-3dfe-7005-ae81-5b5873b89e51",

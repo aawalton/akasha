@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theCalamitousBobStubbed0086Chapter165TheContinentalSummit = {
   id: "01a06730-4f8a-7890-9673-84cbdd57b025",

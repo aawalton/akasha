@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const heWhoFightsWithMonsters0035Chapter968ABriefButFirmReminder = {
   id: "01a06731-adcc-7000-871c-824d83d32ab7",

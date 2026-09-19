@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const timeCursedKnightTimeLoopPostApoc0100Chapter100MarkOne = {
   id: "01a06730-55dc-7b25-84fb-0c5395619232",

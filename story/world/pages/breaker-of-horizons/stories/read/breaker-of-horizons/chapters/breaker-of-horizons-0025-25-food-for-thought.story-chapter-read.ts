@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons002525FoodForThought = {
   id: "01a06731-ad9c-7006-b7f3-be1283ae25f5",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons0190PlaceholderAnnouncement = {
   id: "01a06731-adb3-7001-b080-dca10c631bf6",

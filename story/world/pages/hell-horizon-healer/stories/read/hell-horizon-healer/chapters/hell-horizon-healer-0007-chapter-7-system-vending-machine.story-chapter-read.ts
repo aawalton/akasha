@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const hellHorizonHealer0007Chapter7SystemVendingMachine = {
   id: "01a06731-ae7c-7000-8e87-71e9fb57373d",

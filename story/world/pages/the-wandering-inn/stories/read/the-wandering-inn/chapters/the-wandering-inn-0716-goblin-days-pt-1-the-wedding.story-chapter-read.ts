@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0716GoblinDaysPt1TheWedding = {
   id: "01a0659c-7ea9-74fc-982d-aadbfdcb8bb3",

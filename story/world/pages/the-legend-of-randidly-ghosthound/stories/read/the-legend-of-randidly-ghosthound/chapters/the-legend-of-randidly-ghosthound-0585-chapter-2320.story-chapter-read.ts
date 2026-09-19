@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theLegendOfRandidlyGhosthound0585Chapter2320 = {
   id: "01a06591-4372-7248-bb76-1157604f25d1",

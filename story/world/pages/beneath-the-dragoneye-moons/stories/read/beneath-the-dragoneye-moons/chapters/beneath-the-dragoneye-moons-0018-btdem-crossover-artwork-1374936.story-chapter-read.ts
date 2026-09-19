@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork1374936 = {
   id: "01a08396-51f4-7768-8899-4c71f712a49e",

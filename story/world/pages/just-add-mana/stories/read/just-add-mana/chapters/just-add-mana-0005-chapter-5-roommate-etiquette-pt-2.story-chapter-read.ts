@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const justAddMana0005Chapter5RoommateEtiquettePt2 = {
   id: "01a06731-ad94-7000-baf2-8e86dd6f5ffe",

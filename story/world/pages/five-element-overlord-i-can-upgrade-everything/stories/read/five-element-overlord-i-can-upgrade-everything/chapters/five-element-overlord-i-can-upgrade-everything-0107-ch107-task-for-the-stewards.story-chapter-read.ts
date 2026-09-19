@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything0107Ch107TaskForTheStewards = {
   id: "01a06731-adb7-7017-9b13-26771b72f8c8",

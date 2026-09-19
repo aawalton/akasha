@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything0086Ch865thLevelQiRefiner = {
   id: "01a06731-adb7-7002-aea8-cd075507d11b",

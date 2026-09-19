@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0016MarkOfTheFool6AudiobookLaunchChapterLaterTodayAfte = {
   id: "01a06731-ae97-7008-ba43-360f095a728b",

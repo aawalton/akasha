@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const rebornAsADemonicTree0032Book7IsUpOnAmazonBook8CoverReveal = {
   id: "01a06730-4dd2-7f86-a70c-b556d24ac072",

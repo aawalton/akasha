@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0078Chapter512Synchronized = {
   id: "01a06730-4e0d-7c19-a222-e3458d449149",

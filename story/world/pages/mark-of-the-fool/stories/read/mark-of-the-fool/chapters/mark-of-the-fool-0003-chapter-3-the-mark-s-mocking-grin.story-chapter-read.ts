@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0003Chapter3TheMarkSMockingGrin = {
   id: "01a06731-ae94-7000-a9f0-51ce0acc9f1a",

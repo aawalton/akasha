@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"alan/collection/collection.page-type.types.ts"}
-{"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"story/chapter-read/story-chapter-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"}
+{"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"page-property","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}
-{"propertySlug":"page-property","path":"story/chapter-read/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"page-property","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
+{"propertySlug":"page-property","path":"story/world/stories/read/chapters/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"page-property","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"parts","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}

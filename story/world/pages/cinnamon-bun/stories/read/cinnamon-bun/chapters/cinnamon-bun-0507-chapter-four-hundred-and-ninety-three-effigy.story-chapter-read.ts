@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const cinnamonBun0507ChapterFourHundredAndNinetyThreeEffigy = {
   id: "01a0672c-eb24-7005-854b-f5e23040adb0",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowwhiteDove = {
   id: "01a08396-4673-7d18-bae2-6c1209ab1fef",

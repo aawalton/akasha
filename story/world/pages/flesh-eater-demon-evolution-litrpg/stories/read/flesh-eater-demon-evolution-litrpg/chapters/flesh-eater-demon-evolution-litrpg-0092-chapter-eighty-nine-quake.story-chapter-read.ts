@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const fleshEaterDemonEvolutionLitrpg0092ChapterEightyNineQuake = {
   id: "01a06731-af64-7000-83aa-608622a3b629",

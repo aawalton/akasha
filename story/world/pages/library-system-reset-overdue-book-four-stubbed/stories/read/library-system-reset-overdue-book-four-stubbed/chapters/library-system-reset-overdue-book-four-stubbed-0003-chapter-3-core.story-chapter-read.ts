@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const librarySystemResetOverdueBookFourStubbed0003Chapter3Core = {
   id: "01a06731-ae81-7000-abf9-ed30cd5decf9",

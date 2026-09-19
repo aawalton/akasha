@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   id: "01a06730-4e89-761b-a865-f3080fba0f42",

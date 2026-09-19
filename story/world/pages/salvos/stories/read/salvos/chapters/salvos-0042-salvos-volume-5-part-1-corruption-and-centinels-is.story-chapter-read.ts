@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const salvos0042SalvosVolume5Part1CorruptionAndCentinelsIs = {
   id: "01a06730-4ddb-7cb2-854c-87591a2623a7",

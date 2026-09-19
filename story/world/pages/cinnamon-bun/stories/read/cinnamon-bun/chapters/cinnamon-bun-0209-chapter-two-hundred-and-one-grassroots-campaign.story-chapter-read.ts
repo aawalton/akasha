@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const cinnamonBun0209ChapterTwoHundredAndOneGrassrootsCampaign = {
   id: "01a0672c-eb12-700a-875e-f5e6d22c8d00",

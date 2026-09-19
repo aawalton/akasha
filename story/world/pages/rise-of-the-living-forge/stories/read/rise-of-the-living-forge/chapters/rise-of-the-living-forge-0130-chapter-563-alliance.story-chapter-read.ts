@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0130Chapter563Alliance = {
   id: "01a06730-4e10-732b-9d5d-21728487d1c6",

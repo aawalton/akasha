@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const shapeshifterANonHumanLitrpg0036Chapter31Obliteration = {
   id: "01a06730-4e0a-76bb-bd28-c05932a88e1f",

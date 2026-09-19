@@ -19,7 +19,7 @@
 {"propertySlug":"extends-type","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"extends-type","path":"design/game/achievement/achievement.page-type.ts","id":"01a06807-be66-7009-aef9-4834eb342f4f"}
 {"propertySlug":"extends-type","path":"person/pages/ki/collection-template/ki-collection-template.page-type.ts","id":"01a06825-d0ec-7fb0-9159-d7bc2e559c43"}
-{"propertySlug":"extends-type","path":"story/chapter-read/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
+{"propertySlug":"extends-type","path":"story/world/stories/read/chapters/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"extends-type","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/author/author.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/book-collection/book-collection.page-type.types.ts"}
@@ -42,6 +42,6 @@
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/track/track.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"design/game/achievement/achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"person/pages/ki/collection-template/ki-collection-template.page-type.types.ts"}
-{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"story/chapter-read/story-chapter-read.page-type.types.ts"}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts"}
 {"propertySlug":"parts","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}

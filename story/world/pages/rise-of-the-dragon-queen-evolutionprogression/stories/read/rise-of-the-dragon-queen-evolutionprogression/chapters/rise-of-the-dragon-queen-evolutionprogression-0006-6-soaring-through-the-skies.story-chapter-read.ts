@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const riseOfTheDragonQueenEvolutionprogression00066SoaringThroughTheSkies = {
   id: "01a06730-4e05-75a0-8700-542230cbcb14",

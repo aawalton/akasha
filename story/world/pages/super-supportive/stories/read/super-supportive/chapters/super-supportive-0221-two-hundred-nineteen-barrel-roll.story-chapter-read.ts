@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const superSupportive0221TwoHundredNineteenBarrelRoll = {
   id: "01a06730-4efd-7a0f-ad53-725a3de68ae8",

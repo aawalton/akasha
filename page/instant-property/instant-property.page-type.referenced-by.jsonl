@@ -52,8 +52,8 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-processed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-submitted-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/chapter-read/properties/marked-read-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/chapter-read/properties/removed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/marked-read-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/removed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/catalog/temper-world/properties/captured-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/character/temper-account/properties/last-full-scan-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/character/temper-account/properties/last-scanned-at.instant-property.ts"}

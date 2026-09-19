@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0026AnnouncementOfOathsKyembeAndWurhiSStory = {
   id: "01a06731-ae97-7012-95dc-3531f24adcb1",

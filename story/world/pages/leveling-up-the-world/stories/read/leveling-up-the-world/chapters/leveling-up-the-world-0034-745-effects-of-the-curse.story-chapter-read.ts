@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0034745EffectsOfTheCurse = {
   id: "01a06731-ae8f-7007-a0f1-a00f2265312f",

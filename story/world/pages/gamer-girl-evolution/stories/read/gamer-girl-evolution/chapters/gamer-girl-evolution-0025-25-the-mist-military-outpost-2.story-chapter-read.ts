@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const gamerGirlEvolution002525TheMistMilitaryOutpost2 = {
   id: "01a06731-b0dd-700a-adcf-c8dbb290931f",

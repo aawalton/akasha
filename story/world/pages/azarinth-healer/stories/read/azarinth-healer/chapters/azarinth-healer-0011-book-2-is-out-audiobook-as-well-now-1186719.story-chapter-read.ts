@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const azarinthHealer0011Book2IsOutAudiobookAsWellNow1186719 = {
   id: "01a08396-048b-7830-9d94-16af55a80ba5",

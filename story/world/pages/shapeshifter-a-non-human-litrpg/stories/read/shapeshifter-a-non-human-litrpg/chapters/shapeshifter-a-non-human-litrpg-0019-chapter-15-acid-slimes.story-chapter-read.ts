@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const shapeshifterANonHumanLitrpg0019Chapter15AcidSlimes = {
   id: "01a06730-4e08-7d56-bd29-5d89444feba8",

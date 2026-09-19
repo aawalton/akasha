@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const shapeshifterANonHumanLitrpg0030Chapter26ReturnOfGhostwire = {
   id: "01a06730-4e0a-75c6-9b1d-9838eff85e1d",

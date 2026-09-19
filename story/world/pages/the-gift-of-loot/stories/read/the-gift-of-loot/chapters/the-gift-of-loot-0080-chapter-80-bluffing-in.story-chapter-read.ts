@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0080Chapter80BluffingIn = {
   id: "01a091dd-1821-7260-bc02-c3e1dafdc418",

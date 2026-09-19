@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const salvos0070NewFicAnnouncementAmeliaTheLevelZeroHero = {
   id: "01a06730-4de1-7227-ad85-c71ff7474c5e",

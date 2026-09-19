@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0161Chapter120DeathFromAboveAndFoesFromBelow = {
   id: "01a06731-ad64-7009-8448-ac14f1afbe3e",

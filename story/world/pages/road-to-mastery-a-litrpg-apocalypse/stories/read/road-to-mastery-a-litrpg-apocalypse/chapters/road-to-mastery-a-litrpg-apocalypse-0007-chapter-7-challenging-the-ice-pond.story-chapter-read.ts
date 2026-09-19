@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
 
 export const roadToMasteryALitrpgApocalypse0007Chapter7ChallengingTheIcePond = {
   id: "01a0672f-8c2c-73bd-91c5-7375d31dd124",

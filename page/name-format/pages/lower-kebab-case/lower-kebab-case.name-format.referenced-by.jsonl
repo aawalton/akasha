@@ -45,7 +45,6 @@
 {"propertySlug":"name-format","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-decision.text-property.ts","id":"01a06862-a0bc-7f55-8d40-b7436ef558a4"}
 {"propertySlug":"name-format","path":"persona/image/properties/image-root.text-property.ts","id":"01a0655b-4a9b-7001-b814-afe1edf9866f"}
 {"propertySlug":"name-format","path":"persona/properties/value-slug.text-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
-{"propertySlug":"name-format","path":"story/chapter-read/properties/anchor-reference.text-property.ts","id":"01a0685e-ef8a-76f9-a66e-01a05c60c791"}
 {"propertySlug":"name-format","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"name-format","path":"story/game/properties/genre.text-property.ts","id":"01a0673c-8e0e-7005-9075-7892b4954917"}
 {"propertySlug":"name-format","path":"story/world/characters/properties/epistemic.text-property.ts","id":"01a0b6f7-33d9-7623-9db7-4338dfc0d927"}
@@ -57,6 +56,7 @@
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/reference-event.text-property.ts","id":"01a06558-a991-7b74-a9b8-26a430ce7964"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/reference-kind.text-property.ts","id":"01a06558-a991-7715-82b3-ff639c990933"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/to-slug.text-property.ts","id":"01a06558-a991-7784-9188-82a587ffd4bd"}
+{"propertySlug":"name-format","path":"story/world/stories/read/chapters/properties/anchor-reference.text-property.ts","id":"01a0685e-ef8a-76f9-a66e-01a05c60c791"}
 {"propertySlug":"name-format","path":"temper/catalog/temper-companion/base-role/properties/valid-armor-weights.text-property.ts","id":"01a05fce-1853-7880-bba6-4f23630e1dbf"}
 {"propertySlug":"name-format","path":"temper/catalog/temper-companion/base-role/properties/valid-trait-ids.text-property.ts","id":"01a05fce-1853-7aad-97fd-8d8e8e51af86"}
 {"propertySlug":"name-format","path":"temper/catalog/temper-companion/base-role/properties/valid-weapon-role-ids.text-property.ts","id":"01a05fce-1853-73f0-8008-1c06e61a3a04"}

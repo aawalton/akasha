@@ -4,8 +4,8 @@
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"page/page.page-type.page-component.code.tsx"}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"page/ui/component/modules/page-drawings/page-drawings.module.code.ts"}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/chapter-read/story-chapter-read.page-type.page-component.code.tsx"}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/played/story-played.page-type.page-component.code.tsx"}
+{"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/read/chapters/story-chapter-read.page-type.page-component.code.tsx"}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/read/story-read.page-type.page-component.code.tsx"}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

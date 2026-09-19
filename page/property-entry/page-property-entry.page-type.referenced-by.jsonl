@@ -13,11 +13,11 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/processed-messages.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-transactions.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/chapter-read/properties/chronology-anchors.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/characters/properties/character-claims.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/mechanics/properties/references.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/properties/character-readings.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/properties/mechanic-readings.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/stories/read/chapters/properties/chronology-anchors.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts"}
