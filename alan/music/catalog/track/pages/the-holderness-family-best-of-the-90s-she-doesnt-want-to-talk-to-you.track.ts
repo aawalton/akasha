@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "shedoesntwanttotalktoyou|6tITG4T8LpC0msapZ4wXGA|113972",
+  song: "song/the-holderness-family-she-doesnt-want-to-talk-to-you",
 } as const satisfies Track

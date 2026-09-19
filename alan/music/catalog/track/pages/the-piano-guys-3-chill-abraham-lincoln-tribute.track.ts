@@ -23,4 +23,5 @@ export const thePianoGuys3ChillAbrahamLincolnTribute = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "abrahamlincolntribute|0jW6R8CVyVohuUJVcuweDI|274682",
+  song: "song/the-piano-guys-abraham-lincoln-tribute",
 } as const satisfies Track

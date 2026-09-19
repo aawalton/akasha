@@ -23,4 +23,5 @@ export const theHoldernessFamilyTheGreatestHitsVolOneAllAboutThatBaste = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "allaboutthatbaste|6tITG4T8LpC0msapZ4wXGA|115696",
+  song: "song/the-holderness-family-all-about-that-baste",
 } as const satisfies Track

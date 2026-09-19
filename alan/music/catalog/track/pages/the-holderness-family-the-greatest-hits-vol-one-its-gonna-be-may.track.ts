@@ -23,4 +23,5 @@ export const theHoldernessFamilyTheGreatestHitsVolOneItsGonnaBeMay = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "itsgonnabemay|6tITG4T8LpC0msapZ4wXGA|109035",
+  song: "song/the-holderness-family-its-gonna-be-may",
 } as const satisfies Track

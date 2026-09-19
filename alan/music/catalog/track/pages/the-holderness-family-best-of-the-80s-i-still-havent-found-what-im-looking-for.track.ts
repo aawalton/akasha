@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe80sIStillHaventFoundWhatImLookingFor = 
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "istillhaventfoundwhatimlookingfor|6tITG4T8LpC0msapZ4wXGA|169168",
+  song: "song/the-holderness-family-i-still-havent-found-what-im-looking-for",
 } as const satisfies Track

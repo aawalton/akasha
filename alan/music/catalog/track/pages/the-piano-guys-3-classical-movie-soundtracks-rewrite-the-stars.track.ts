@@ -23,4 +23,5 @@ export const thePianoGuys3ClassicalMovieSoundtracksRewriteTheStars = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "rewritethestars|0jW6R8CVyVohuUJVcuweDI|210240",
+  song: "song/the-piano-guys-rewrite-the-stars",
 } as const satisfies Track

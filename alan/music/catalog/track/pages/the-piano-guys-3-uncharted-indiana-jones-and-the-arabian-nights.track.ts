@@ -23,4 +23,5 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "indianajonesandthearabiannights|0jW6R8CVyVohuUJVcuweDI|206312",
+  song: "song/the-piano-guys-indiana-jones-and-the-arabian-nights",
 } as const satisfies Track

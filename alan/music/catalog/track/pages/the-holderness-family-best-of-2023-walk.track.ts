@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2023Walk = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "walk|6tITG4T8LpC0msapZ4wXGA|127896",
+  song: "song/the-holderness-family-walk",
 } as const satisfies Track

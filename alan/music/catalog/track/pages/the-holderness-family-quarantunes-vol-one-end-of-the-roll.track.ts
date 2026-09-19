@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOneEndOfTheRoll = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "endoftheroll|6tITG4T8LpC0msapZ4wXGA|291108",
+  song: "song/the-holderness-family-end-of-the-roll",
 } as const satisfies Track

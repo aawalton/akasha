@@ -23,4 +23,5 @@ export const thePianoGuys3LimitlessDna = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "dna|0jW6R8CVyVohuUJVcuweDI|185538",
+  song: "song/the-piano-guys-dna",
 } as const satisfies Track

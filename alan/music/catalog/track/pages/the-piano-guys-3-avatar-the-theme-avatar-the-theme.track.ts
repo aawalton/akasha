@@ -23,4 +23,5 @@ export const thePianoGuys3AvatarTheThemeAvatarTheTheme = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "avatarthetheme|0jW6R8CVyVohuUJVcuweDI|183250",
+  song: "song/the-piano-guys-avatar-the-theme",
 } as const satisfies Track

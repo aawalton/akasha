@@ -23,4 +23,5 @@ export const thePianoGuys3Unstoppable2Unstoppable2 = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "unstoppable|0jW6R8CVyVohuUJVcuweDI|151379",
+  song: "song/the-piano-guys-unstoppable",
 } as const satisfies Track

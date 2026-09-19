@@ -26,4 +26,5 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
     { externalId: "6C2Jmyv6fdiRAbcadxmNtS", artistName: "Lexi Walker" },
   ],
   trackKey: "oholynightavemariafeatlexiwalker|0jW6R8CVyVohuUJVcuweDI,6C2Jmyv6fdiRAbcadxmNtS|317750",
+  song: "song/the-piano-guys-o-holy-night-ave-maria",
 } as const satisfies Track

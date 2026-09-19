@@ -30,4 +30,5 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
   ],
   trackKey:
     "letitsnowwinterwonderland|0jW6R8CVyVohuUJVcuweDI,1OfAveO4qZ0tTDBqEzFwuf,3vAPM1qiCuClMH5DNbAgtC,4us59Bx720z6eLFe7FeoEA,6JvUOG4JFmgNW6jjwm71uU|208838",
+  song: "song/the-piano-guys-let-it-snow-winter-wonderland",
 } as const satisfies Track

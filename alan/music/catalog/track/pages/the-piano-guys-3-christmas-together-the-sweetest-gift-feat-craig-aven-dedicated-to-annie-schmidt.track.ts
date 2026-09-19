@@ -27,4 +27,5 @@ export const thePianoGuys3ChristmasTogetherTheSweetestGiftFeatCraigAvenDedicated
   ],
   trackKey:
     "thesweetestgiftfeatcraigavendedicatedtoannieschmidt|0jW6R8CVyVohuUJVcuweDI,5gkAJbXodeD5sDQMdoBTrK|300062",
+  song: "song/the-piano-guys-the-sweetest-gift-dedicated-to-annie-schmidt",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "losemymind|6tITG4T8LpC0msapZ4wXGA|122096",
+  song: "song/the-holderness-family-lose-my-mind",
 } as const satisfies Track

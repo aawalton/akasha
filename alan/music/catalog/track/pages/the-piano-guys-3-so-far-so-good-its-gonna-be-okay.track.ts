@@ -26,4 +26,5 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
     { externalId: "1RTHEDesKGANeFDXyDJBQU", artistName: "Al van der Beek" },
   ],
   trackKey: "itsgonnabeokay|0jW6R8CVyVohuUJVcuweDI,1RTHEDesKGANeFDXyDJBQU|210803",
+  song: "song/the-piano-guys-its-gonna-be-okay",
 } as const satisfies Track

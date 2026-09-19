@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "iwanttoknowwhatdayitis|6tITG4T8LpC0msapZ4wXGA|226638",
+  song: "song/the-holderness-family-i-want-to-know-what-day-it-is",
 } as const satisfies Track

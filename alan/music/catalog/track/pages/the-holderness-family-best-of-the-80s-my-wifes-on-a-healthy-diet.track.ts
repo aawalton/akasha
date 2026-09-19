@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe80sMyWifesOnAHealthyDiet = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "mywifesonahealthydiet|6tITG4T8LpC0msapZ4wXGA|149786",
+  song: "song/the-holderness-family-my-wifes-on-a-healthy-diet",
 } as const satisfies Track

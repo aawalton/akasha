@@ -28,4 +28,5 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
   ],
   trackKey:
     "angelsfromtherealmsofgloryfeatdavidarchuletapeterhollens|0jW6R8CVyVohuUJVcuweDI,2C9n4tQgNLhHPhSCmdsQnk,7EIbKyiLnEJ1Y074UIUyZJ|245812",
+  song: "song/the-piano-guys-angels-from-the-realms-of-glory",
 } as const satisfies Track

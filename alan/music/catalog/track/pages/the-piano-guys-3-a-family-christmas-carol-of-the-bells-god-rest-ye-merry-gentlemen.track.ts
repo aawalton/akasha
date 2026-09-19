@@ -28,4 +28,5 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   ],
   trackKey:
     "carolofthebellsgodrestyemerrygentlemen|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf,6lBN3Tzt61u8i9AJoAhKzF|201918",
+  song: "song/the-piano-guys-carol-of-the-bells-god-rest-ye-merry-gentlemen",
 } as const satisfies Track

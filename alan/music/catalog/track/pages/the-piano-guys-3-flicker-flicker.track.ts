@@ -23,4 +23,5 @@ export const thePianoGuys3FlickerFlicker = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "flicker|0jW6R8CVyVohuUJVcuweDI|196533",
+  song: "song/the-piano-guys-flicker",
 } as const satisfies Track

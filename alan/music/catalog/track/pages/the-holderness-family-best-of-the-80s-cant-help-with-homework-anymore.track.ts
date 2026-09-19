@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe80sCantHelpWithHomeworkAnymore = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "canthelpwithhomeworkanymore|6tITG4T8LpC0msapZ4wXGA|214895",
+  song: "song/the-holderness-family-cant-help-with-homework-anymore",
 } as const satisfies Track

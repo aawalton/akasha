@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOne20SecondParodiesForHandwashing 
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "20secondparodiesforhandwashing|6tITG4T8LpC0msapZ4wXGA|199392",
+  song: "song/the-holderness-family-20-second-parodies-for-handwashing",
 } as const satisfies Track

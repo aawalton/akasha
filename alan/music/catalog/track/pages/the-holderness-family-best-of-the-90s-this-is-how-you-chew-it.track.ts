@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe90sThisIsHowYouChewIt = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thisishowyouchewit|6tITG4T8LpC0msapZ4wXGA|97802",
+  song: "song/the-holderness-family-this-is-how-you-chew-it",
 } as const satisfies Track

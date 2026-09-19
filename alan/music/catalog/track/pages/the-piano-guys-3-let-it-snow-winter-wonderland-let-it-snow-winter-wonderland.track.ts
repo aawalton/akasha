@@ -28,4 +28,5 @@ export const thePianoGuys3LetItSnowWinterWonderlandLetItSnowWinterWonderland = {
   ],
   trackKey:
     "letitsnowwinterwonderland|0jW6R8CVyVohuUJVcuweDI,3vAPM1qiCuClMH5DNbAgtC,4us59Bx720z6eLFe7FeoEA|204230",
+  song: "song/the-piano-guys-let-it-snow-winter-wonderland",
 } as const satisfies Track

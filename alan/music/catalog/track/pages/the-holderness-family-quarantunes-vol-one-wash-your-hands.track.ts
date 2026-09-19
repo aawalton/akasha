@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOneWashYourHands = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "washyourhands|6tITG4T8LpC0msapZ4wXGA|146755",
+  song: "song/the-holderness-family-wash-your-hands",
 } as const satisfies Track

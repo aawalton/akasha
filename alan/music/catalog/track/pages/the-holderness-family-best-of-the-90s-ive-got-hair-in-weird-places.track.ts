@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe90sIveGotHairInWeirdPlaces = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "ivegothairinweirdplaces|6tITG4T8LpC0msapZ4wXGA|151928",
+  song: "song/the-holderness-family-ive-got-hair-in-weird-places",
 } as const satisfies Track

@@ -30,4 +30,5 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   ],
   trackKey:
     "rockmeetsrachmaninoff|0Kekt6CKSo0m5mivKcoH51,0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5|204813",
+  song: "song/the-piano-guys-rock-meets-rachmaninoff",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const thePianoGuys310MoreThanAFeelingLongTime = {
     { externalId: "5S1qHHFKZRXRC4qjiPXyzN", artistName: "Jake Bowen" },
   ],
   trackKey: "morethanafeelinglongtime|0jW6R8CVyVohuUJVcuweDI,5S1qHHFKZRXRC4qjiPXyzN|307055",
+  song: "song/the-piano-guys-more-than-a-feeling-long-time",
 } as const satisfies Track

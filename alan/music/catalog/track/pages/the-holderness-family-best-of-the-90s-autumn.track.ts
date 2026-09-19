@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe90sAutumn = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "autumn|6tITG4T8LpC0msapZ4wXGA|208822",
+  song: "song/the-holderness-family-autumn",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const thePianoGuys3RewriteTheStarsRewriteTheStars = {
   ],
   trackKey:
     "rewritethestars|0jW6R8CVyVohuUJVcuweDI,0qKRRwXdVtrVIEdPFr8vvo,1A2uplrPcSu6bqDaRp7Xs9|211533",
+  song: "song/the-piano-guys-rewrite-the-stars",
 } as const satisfies Track

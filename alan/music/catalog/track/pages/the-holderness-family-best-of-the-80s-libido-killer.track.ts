@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe80sLibidoKiller = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "libidokiller|6tITG4T8LpC0msapZ4wXGA|180870",
+  song: "song/the-holderness-family-libido-killer",
 } as const satisfies Track

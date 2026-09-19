@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe80sSlimeAfterSlime = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "slimeafterslime|6tITG4T8LpC0msapZ4wXGA|122488",
+  song: "song/the-holderness-family-slime-after-slime",
 } as const satisfies Track

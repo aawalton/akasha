@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOneSongsForSocialDistancingMedley 
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "songsforsocialdistancingmedley|6tITG4T8LpC0msapZ4wXGA|271177",
+  song: "song/the-holderness-family-songs-for-social-distancing-medley",
 } as const satisfies Track

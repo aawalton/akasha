@@ -27,4 +27,5 @@ export const thePianoGuys3ThePianoGuys2MissionImpossibleFeatLindseyStirling = {
   ],
   trackKey:
     "missionimpossiblefeatlindseystirling|0jW6R8CVyVohuUJVcuweDI,378dH6EszOLFShpRzAQkVM|226000",
+  song: "song/the-piano-guys-mission-impossible",
 } as const satisfies Track

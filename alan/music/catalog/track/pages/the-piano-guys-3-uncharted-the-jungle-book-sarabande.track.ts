@@ -23,4 +23,5 @@ export const thePianoGuys3UnchartedTheJungleBookSarabande = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thejunglebooksarabande|0jW6R8CVyVohuUJVcuweDI|222125",
+  song: "song/the-piano-guys-the-jungle-book-sarabande",
 } as const satisfies Track

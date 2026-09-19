@@ -27,4 +27,5 @@ export const thePianoGuys3ChristmasTogetherSilentNightHolyNightFeatPlacidoDoming
   ],
   trackKey:
     "silentnightholynightfeatplacidodomingo|0jW6R8CVyVohuUJVcuweDI,4pU3BpenOZFEBzORx2YBJW|209125",
+  song: "song/the-piano-guys-silent-night-holy-night",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const thePianoGuys3ChristmasTogetherLittleDrummerBoyDoYouHearWhatIHear = 
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "littledrummerboydoyouhearwhatihear|0jW6R8CVyVohuUJVcuweDI|234062",
+  song: "song/the-piano-guys-little-drummer-boy-do-you-hear-what-i-hear",
 } as const satisfies Track

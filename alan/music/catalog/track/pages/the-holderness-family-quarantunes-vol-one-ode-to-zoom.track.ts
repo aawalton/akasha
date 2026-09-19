@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOneOdeToZoom = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "odetozoom|6tITG4T8LpC0msapZ4wXGA|178546",
+  song: "song/the-holderness-family-ode-to-zoom",
 } as const satisfies Track

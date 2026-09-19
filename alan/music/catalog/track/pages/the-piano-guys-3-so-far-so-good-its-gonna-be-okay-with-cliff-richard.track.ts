@@ -26,4 +26,5 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkayWithCliffRichard = {
     { externalId: "2nvKpWcP8etYTq4JrRiUiy", artistName: "Cliff Richard" },
   ],
   trackKey: "itsgonnabeokaywithcliffrichard|0jW6R8CVyVohuUJVcuweDI,2nvKpWcP8etYTq4JrRiUiy|212167",
+  song: "song/the-piano-guys-its-gonna-be-okay",
 } as const satisfies Track

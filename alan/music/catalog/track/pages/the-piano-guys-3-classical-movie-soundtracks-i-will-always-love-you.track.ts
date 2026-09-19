@@ -23,4 +23,5 @@ export const thePianoGuys3ClassicalMovieSoundtracksIWillAlwaysLoveYou = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "iwillalwaysloveyou|0jW6R8CVyVohuUJVcuweDI|188450",
+  song: "song/the-piano-guys-i-will-always-love-you",
 } as const satisfies Track

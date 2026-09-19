@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe90sWhereHaveAllTheChargersGone = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "wherehaveallthechargersgone|6tITG4T8LpC0msapZ4wXGA|120476",
+  song: "song/the-holderness-family-where-have-all-the-chargers-gone",
 } as const satisfies Track

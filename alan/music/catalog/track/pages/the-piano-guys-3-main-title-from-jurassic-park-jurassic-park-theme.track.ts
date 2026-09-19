@@ -26,4 +26,5 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
   ],
   trackKey: "jurassicparktheme|0jW6R8CVyVohuUJVcuweDI,3dRfiJ2650SZu6GbydcHNb|235868",
+  song: "song/the-piano-guys-jurassic-park-theme",
 } as const satisfies Track

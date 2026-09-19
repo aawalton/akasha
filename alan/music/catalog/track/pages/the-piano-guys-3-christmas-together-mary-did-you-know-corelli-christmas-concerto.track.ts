@@ -23,4 +23,5 @@ export const thePianoGuys3ChristmasTogetherMaryDidYouKnowCorelliChristmasConcert
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "marydidyouknowcorellichristmasconcerto|0jW6R8CVyVohuUJVcuweDI|241250",
+  song: "song/the-piano-guys-mary-did-you-know-corelli-christmas-concerto",
 } as const satisfies Track

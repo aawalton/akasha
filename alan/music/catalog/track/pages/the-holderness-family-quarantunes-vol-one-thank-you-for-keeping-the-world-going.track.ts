@@ -23,4 +23,5 @@ export const theHoldernessFamilyQuarantunesVolOneThankYouForKeepingTheWorldGoing
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thankyouforkeepingtheworldgoing|6tITG4T8LpC0msapZ4wXGA|160783",
+  song: "song/the-holderness-family-thank-you-for-keeping-the-world-going",
 } as const satisfies Track

@@ -1,0 +1,10 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const thePianoGuysNorthCape = {
+  id: "01a0b780-5216-7ce6-8dcd-7acc0e0fa641",
+  type: "page-type/song",
+  slug: "the-piano-guys-north-cape",
+  title: "North Cape",
+  artist: "artist/the-piano-guys",
+  performed: true,
+} as const satisfies Song

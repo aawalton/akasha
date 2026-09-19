@@ -26,4 +26,5 @@ export const thePianoGuys3ChillYouAreTheReason = {
     { externalId: "5vvlfKQdn6amTImsjy9Si5", artistName: "Dallas String Quartet" },
   ],
   trackKey: "youarethereason|0jW6R8CVyVohuUJVcuweDI,5vvlfKQdn6amTImsjy9Si5|235230",
+  song: "song/the-piano-guys-you-are-the-reason",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const theHoldernessFamilyWelcomeToTheClubMillennialsWelcomeToTheClubMille
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "welcometotheclubmillennials|6tITG4T8LpC0msapZ4wXGA|158905",
+  song: "song/the-holderness-family-welcome-to-the-club-millennials",
 } as const satisfies Track

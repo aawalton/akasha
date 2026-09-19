@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe80sGiveALittleRest = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "givealittlerest|6tITG4T8LpC0msapZ4wXGA|119300",
+  song: "song/the-holderness-family-give-a-little-rest",
 } as const satisfies Track

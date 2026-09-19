@@ -23,4 +23,5 @@ export const thePianoGuys3LiveU2LoopWithOrWithoutYouIntroductionLive = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "u2loopwithorwithoutyouintroductionlive|0jW6R8CVyVohuUJVcuweDI|40186",
+  song: "song/the-piano-guys-u2-loop-with-or-without-you-introduction",
 } as const satisfies Track

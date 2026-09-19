@@ -32,4 +32,5 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsodySomethingJustLik
   ],
   trackKey:
     "somethingjustlikethishungarianrhapsody|0fztDa29WvYXWSGqU2kLEF,0jW6R8CVyVohuUJVcuweDI,1385hLNbrnbCJGokfH2ac2,2DXdrllW1KAUjT9KJsB9NH,2R0YxXQyGLURmOrY26P1kZ,4ynr4Nw2OMdLugbiYZOqcE,6ZK1R7WvOURjOviPQkVJEm|233841",
+  song: "song/the-piano-guys-something-just-like-this-hungarian-rhapsody",
 } as const satisfies Track

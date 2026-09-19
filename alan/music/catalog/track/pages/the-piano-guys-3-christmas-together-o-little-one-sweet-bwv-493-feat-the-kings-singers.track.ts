@@ -27,4 +27,5 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   ],
   trackKey:
     "olittleonesweetbwv493featthekingssingers|0jW6R8CVyVohuUJVcuweDI,5lR7yDVN4z9kahOiUSlMhe|223062",
+  song: "song/the-piano-guys-o-little-one-sweet-bwv-493",
 } as const satisfies Track

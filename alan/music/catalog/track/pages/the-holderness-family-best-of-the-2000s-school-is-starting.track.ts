@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOfThe2000sSchoolIsStarting = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "schoolisstarting|6tITG4T8LpC0msapZ4wXGA|106560",
+  song: "song/the-holderness-family-school-is-starting",
 } as const satisfies Track
