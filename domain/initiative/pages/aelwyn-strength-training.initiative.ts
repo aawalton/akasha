@@ -10,7 +10,7 @@ export const aelwynStrengthTraining = {
     {
       statement: "A planner chooses Alan's next movement from principles he settled.",
       workingMemory:
-        "The principles are settled and are the intents below this one, so this intent is met once every one of them is built. The old planner is deleted and nothing chooses a movement yet. What is built: `akasha fitness week`, at 579b001, reading the trailing seven days into a set count for each muscle against the weekly floor and ceiling and for each pattern. Kept for the rebuild: the 884-movement catalogue, the 23 coaching notes, the selection policy numbers, and the 122 logged sets.",
+        "Built at 0b0d918 and 743d0c2: `akasha fitness next` answers one movement with a load and a rep target, and `akasha fitness week` answers the trailing seven days by muscle and by pattern, both over the `training-week` module. On 2026-09-18 it answers Dumbbell Bench Press, 30 lb for 21 reps, at the top of the rack. Alan settled that day that the goal weights are not accounted for in the selector at all and are only the yardstick it is judged by. What is left is the intents below.",
     },
     {
       statement: "A joint's mobility reads as a direction.",
