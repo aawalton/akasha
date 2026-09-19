@@ -95,7 +95,7 @@ if (!jwksRes.ok) {
 }
 const jwks = await jwksRes.json()
 
-const body = {
+const BODY = {
   name: TENANT_EXTERNAL_ID,
   external_id: TENANT_EXTERNAL_ID,
   max_concurrent_users: 500,
@@ -127,7 +127,7 @@ const res = await fetch(`${REALTIME_URL}/api/tenants/${TENANT_EXTERNAL_ID}`, {
     Authorization: `Bearer ${mgmtToken}`,
     "Content-Type": "application/json",
   },
-  body: JSON.stringify({ tenant: body }),
+  body: JSON.stringify({ tenant: BODY }),
 })
 
 const text = await res.text()

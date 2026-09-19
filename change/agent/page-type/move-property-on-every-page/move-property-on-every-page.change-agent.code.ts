@@ -5,8 +5,8 @@ import { reach, type World } from "akasha/change/modules/shadow/change-shadow.mo
 import {
   type Asked,
   askedIn,
+  VALUE_CARRYING_TAKES,
   type ValueCarryingAsked,
-  valueCarryingTakes,
 } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 
 const MOVE_PROPERTY =
@@ -19,7 +19,7 @@ export async function movePropertyOnEveryPage(
   return (await reach(world, MOVE_PROPERTY, given)).said
 }
 
-export const takes: readonly string[] = valueCarryingTakes
+export const takes: readonly string[] = VALUE_CARRYING_TAKES
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const asked = askedIn(given)

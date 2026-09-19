@@ -3,9 +3,9 @@ import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/cha
 import { type Answer, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
+  KEY_HOLDING_TAKES,
   type KeyHoldingAsked,
   keyAskedIn,
-  keyHoldingTakes,
 } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 
 const QUALIFY_RELATION =
@@ -24,7 +24,7 @@ export async function qualifyRelationOnEveryPage(
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [...keyHoldingTakes, FIELD]
+export const takes: readonly string[] = [...KEY_HOLDING_TAKES, FIELD]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const asked = keyAskedIn(given)
