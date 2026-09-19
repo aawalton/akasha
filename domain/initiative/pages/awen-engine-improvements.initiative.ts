@@ -8,10 +8,10 @@ export const awenEngineImprovements = {
   persona: "persona/awen",
   intentStack: [
     { statement: "Alan has approved the subfolder structure under story." },
-    { statement: "No story-design-note holds content another page type would carry." },
     {
       statement:
         "A turn, a rulebook and a mechanic designed as one replace what the engine holds now.",
     },
+    { statement: "No story-design-note holds content another page type would carry." },
   ],
 } as const satisfies Initiative
