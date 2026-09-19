@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   domainsDrawn,
   kindsUnderDomain,
@@ -13,6 +15,8 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"
 
@@ -23,6 +27,12 @@ const THREE = "01a04e9f-1111-7000-8000-00000000000c"
 const HER = "01a04e9f-1111-7000-8000-00000000000e"
 
 const CHAMPIONED = "championed-domain"
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 const scratch = scratchWorld()
 
@@ -72,7 +82,7 @@ function champions(root: string, id: string, her: string): undefined {
 
 test("a page type under domain is a kind that is drawn", () => {
   const root = scratch.rootFor("akasha-domains-")
-  typing(root, "module", "page-type/domain")
+  typing(root, "module", DOMAIN_AT)
   const kinds = kindsUnderDomain(root)
   expect(kinds.has("domain")).toBe(true)
   expect(kinds.has("module")).toBe(true)
@@ -80,14 +90,14 @@ test("a page type under domain is a kind that is drawn", () => {
 
 test("a page type under one that sits under domain is drawn too", () => {
   const root = scratch.rootFor("akasha-domains-")
-  typing(root, "module", "page-type/domain")
-  typing(root, "check", "page-type/module")
+  typing(root, "module", DOMAIN_AT)
+  typing(root, "check", MODULE_AT)
   expect(kindsUnderDomain(root).has("check")).toBe(true)
 })
 
 test("a page type outside domain is no kind of this panel", () => {
   const root = scratch.rootFor("akasha-domains-")
-  typing(root, "finding", "page-type/page")
+  typing(root, "finding", PAGE_AT)
   expect(kindsUnderDomain(root).has("finding")).toBe(false)
 })
 

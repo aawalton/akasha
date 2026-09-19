@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   bodyOf,
   idOf,
@@ -10,12 +11,17 @@ import {
   typesAmong,
   typeValuesIn,
 } from "akasha/page/type/modules/gathering/page-type-gathering.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
 const KIND_TYPE = "akasha/held-kind.page-type.ts"
 
 const ONE_KIND = "akasha/held-kinds/one.held-kind.ts"
+
+const PAGE_TYPE_AT = `${pageType.slug}/${pageType.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 
 function repoIn(): string {
   return indexedRepo({
@@ -24,14 +30,14 @@ function repoIn(): string {
       pageTypeSlug: "page-type",
       slug: "held-kind",
       pluralSlug: "held-kinds",
-      extends: ["page-type/page-type"],
+      extends: [PAGE_TYPE_AT],
     }),
     [ONE_KIND]: bodyOf({
       id: idOf("f"),
       pageTypeSlug: "held-kind",
       slug: "one",
       pluralSlug: "ones",
-      extends: ["page-type/module"],
+      extends: [MODULE_AT],
     }),
   })
 }

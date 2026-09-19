@@ -19,9 +19,11 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.ts"}

@@ -6,6 +6,8 @@ import {
   shapesFiledAt,
   shapesIn,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { persona } from "akasha/persona/persona.page-type.ts"
 
 const AT = "one/two/three.page-type.ts"
 
@@ -13,7 +15,7 @@ const PAGE = {
   type: "relation-property",
   slug: "seat-persona",
   propertySlug: "persona",
-  targetPageType: "page-type/persona",
+  targetPageType: `${pageType.slug}/${persona.slug}`,
 }
 
 test("the shapes sit beside the page type they are of", () => {
