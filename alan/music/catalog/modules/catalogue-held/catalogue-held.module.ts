@@ -38,5 +38,9 @@ export const catalogueHeld = {
       statement:
         "A song of another artist under the same work is named, so no slug collides with it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song is keyed by its title as well, so a song filed under no id is found.",
+    },
   ],
 } as const satisfies Module

@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import type { Catalogue } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
+import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import type { LrclibRecord } from "akasha/alan/music/catalog/modules/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
   MbArtist,
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import type {
   Asking,
   Landing,
@@ -18,6 +21,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
+  askedOf,
   type Gathered,
   gathered,
   jsonOf,
@@ -250,6 +254,45 @@ test("an artist filed under no work is read from their recordings", async () => 
   expect(found.said.songsWritten).toBe(2)
   const liveAt = `alan/music/catalog/song/pages/${ARTIST_SLUG}-bare-probe-live/${ARTIST_SLUG}-bare-probe-live.song.ts`
   expect(bodyAt(found, liveAt)).toContain(`songType: "derivative"`)
+})
+
+function catalogueOf(slug: string, title: string): Catalogue {
+  return {
+    names: catalogueNamesFrom([{ slug, externalId: null }]),
+    held: new Map(),
+    byTitle: new Map([[songKey(ARTIST_SLUG, title), slug]]),
+  }
+}
+
+function fieldsOf(id: string, title: string) {
+  return {
+    title,
+    artist: `artist/${ARTIST_SLUG}`,
+    externalIdentity: [
+      {
+        source: "musicbrainz",
+        externalId: id,
+        externalLink: `https://musicbrainz.org/work/${id}`,
+        lastSyncedAt: TODAY,
+      },
+    ],
+    songType: "original",
+    performed: true,
+  } as const
+}
+
+test("a song already filed under this artist with this title is filled in rather than filed twice", () => {
+  const filed = `${ARTIST_SLUG}-first-probe`
+  const catalogue = catalogueOf(filed, "First Probe")
+  expect(askedOf(catalogue, ARTIST_SLUG, fieldsOf("w-1", "First Probe")).slug).toBe(filed)
+  expect(catalogue.names.filed.get("w-1")).toBe(filed)
+})
+
+test("a song no title of this artist names is filed under a slug of its own", () => {
+  const catalogue = catalogueOf(`${ARTIST_SLUG}-first-probe`, "First Probe")
+  expect(askedOf(catalogue, ARTIST_SLUG, fieldsOf("w-2", "Second Probe")).slug).toBe(
+    `${ARTIST_SLUG}-second-probe`
+  )
 })
 
 test("a limit caps how many songs are brought in", async () => {

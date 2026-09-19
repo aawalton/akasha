@@ -5,6 +5,7 @@ import {
   catalogueNamesFrom,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { identityHeld } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
+import { songsFiledIn } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   textIn,
@@ -22,6 +23,7 @@ const IDENTITY = "externalIdentity"
 export type Catalogue = {
   readonly names: CatalogueNames
   readonly held: ReadonlyMap<string, Value>
+  readonly byTitle: ReadonlyMap<string, string>
 }
 
 export type Named = { readonly slug: string; readonly was: Value }
@@ -37,7 +39,7 @@ export function catalogueIn(root: string, artistSlug: string): Catalogue {
     rows.push({ slug, externalId: mine ? idFrom(one.value[IDENTITY], MUSICBRAINZ) : null })
     held.set(slug, one.value)
   }
-  return { names: catalogueNamesFrom(rows), held }
+  return { names: catalogueNamesFrom(rows), held, byTitle: songsFiledIn(root) }
 }
 
 export function artistIn(root: string, mbid: string, name: string): Named {

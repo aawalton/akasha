@@ -66,6 +66,11 @@ export const musicImportArtist = {
       decisionKind: "decision-kind/departure",
       statement: "A words file already holding the words read is written again by nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A song already filed under this artist with this title is filled in rather than filed twice.",
+    },
   ],
   name: "import-artist",
   arguments: [

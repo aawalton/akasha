@@ -39,6 +39,7 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -257,8 +258,12 @@ async function songLanded(
 
 type Asked = { readonly slug: string; readonly fields: SongFields; readonly title: string }
 
-function askedOf(catalogue: Catalogue, artistSlug: string, fields: SongFields): Asked {
+export function askedOf(catalogue: Catalogue, artistSlug: string, fields: SongFields): Asked {
   const named = songIdIn(fields) ?? fields.title
+  const held = catalogue.byTitle.get(songKey(artistSlug, fields.title))
+  if (held !== undefined && !catalogue.names.filed.has(named)) {
+    catalogue.names.filed.set(named, held)
+  }
   const slug = catalogueSlugFor(catalogue.names, artistSlug, fields.title, named)
   return { slug, fields, title: fields.title }
 }
