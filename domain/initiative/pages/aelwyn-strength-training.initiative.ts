@@ -23,10 +23,6 @@ export const aelwynStrengthTraining = {
         "Alan confirmed on 2026-09-18 that he has not trained since 2026-08-10, so the way back in is wanted now. `akasha exercise-select` is deleted. The intent below saying how long Alan was away is no reason to expect more or less of him killed the three layoff numbers, taken off the selection policy at 00fe0f1. So the way back in is a first movement Alan has history enough to read a drop against, and today read from the sets he has just done.",
     },
     {
-      statement:
-        "Every constraint keeping a movement out names when that constraint is tested again.",
-    },
-    {
       statement: "The most valuable movement available is always the one offered next.",
     },
     {
