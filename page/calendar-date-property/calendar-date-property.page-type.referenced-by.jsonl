@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/movement-restriction/properties/tested-again.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-date.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-date.calendar-date-property.ts"}
+{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/strength/decline/properties/decline-date.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-last-synced-at.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-log-date.calendar-date-property.ts"}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/purchase-date.calendar-date-property.ts"}

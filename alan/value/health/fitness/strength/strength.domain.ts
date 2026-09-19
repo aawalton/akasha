@@ -5,5 +5,5 @@ export const strength = {
   type: "page-type/domain",
   slug: "strength",
   definition: "how much load Alan's body moves",
-  parts: ["page-type/strength-exercise", "page-type/strength-log"],
+  parts: ["page-type/strength-decline", "page-type/strength-exercise", "page-type/strength-log"],
 } as const satisfies Domain

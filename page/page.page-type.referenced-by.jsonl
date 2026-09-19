@@ -60,6 +60,7 @@
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts","id":"01a06834-ca86-76cb-a54a-6f86a5225afc"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","id":"01a06558-36e9-75e2-bcf3-ce91fd6e945b"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","id":"01a06838-7a9d-7d0a-8e41-674ebea29caf"}
+{"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts","id":"01a0b71d-29d7-78fa-a2fa-467c181aa8d2"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts","id":"01a0657e-2bbf-7c1f-a05c-77af77f54cbf"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
 {"propertySlug":"extends-type","path":"alan/value/learn/mathematics/proof/proof.page-type.ts","id":"01a0657f-5da8-7d50-9da8-5ad4177c9541"}
@@ -172,6 +173,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/health/fitness/strength/log/strength-log.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/learn/mathematics/proof/proof.page-type.types.ts"}

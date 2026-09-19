@@ -136,6 +136,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts"}
