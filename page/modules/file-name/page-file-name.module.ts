@@ -40,6 +40,14 @@ export const pageFileName = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether a name is shaped as a page's is answered without any set of page types.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name shaped that way carries a slug, a page type and `ts` and nothing between.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whether a section names a file property is answered against the set handed in.",
     },
     {

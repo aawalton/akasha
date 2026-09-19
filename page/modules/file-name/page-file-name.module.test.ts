@@ -3,6 +3,7 @@ import {
   besideAt,
   heldIn,
   pageNamed,
+  pageShaped,
   partedIn,
   partIn,
   secretAt,
@@ -13,7 +14,7 @@ import {
   uncommittedNamed,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
-  agreeing,
+  everyNameAgrees,
   FILE_PROPERTIES,
   itemsAt,
   kindOf,
@@ -51,6 +52,15 @@ test("a tail is a page only where the sets handed in say so", () => {
   expect(pageNamed("one.check.ts", PAGE_TYPES)).toBe(true)
   expect(pageNamed("one.folder-shape.ts", PAGE_TYPES)).toBe(false)
   expect(pageNamed("one.folder-shape.ts", new Set(["folder-shape"]))).toBe(true)
+})
+
+test("a name is shaped as a page's where a slug and a page type are all that precede `ts`", () => {
+  expect(pageShaped("one.check.ts")).toBe(true)
+  expect(pageShaped("one.folder-shape.ts")).toBe(true)
+  expect(pageShaped("one/file-length.check.code.ts")).toBe(false)
+  expect(pageShaped("one/file-length.check.md")).toBe(false)
+  expect(pageShaped("one/held.ts")).toBe(false)
+  expect(pageShaped("one/notes.txt")).toBe(false)
 })
 
 test("a page file is held as a page, carrying its slug and its page type", () => {
@@ -294,17 +304,7 @@ test("a page type nothing knows still holds a property, an uncommitted file and 
 })
 
 test("what heldIn answers of a name is what each predicate answers of that name", () => {
-  agreeing("one/file-length.check.ts")
-  agreeing("one/file-length.check.uncommitted.ts")
-  agreeing("one/aine.model-account.sops.yaml")
-  agreeing("one/file-length.check.code.ts")
-  agreeing("one/dalla.seat.patch.uncommitted.patch")
-  agreeing("one/held.uncommitted.ts")
-  agreeing("one/held.uncommitted.ts", new Set(["uncommitted"]))
-  agreeing("one/held.sops.yaml")
-  agreeing("one/notes.txt")
-  agreeing("one/dalla.seat.patch.uncommitted.patch", PAGE_TYPES, PATCH)
-  agreeing("one/dalla.seat.patch.sops.yaml", PAGE_TYPES, PATCH)
+  everyNameAgrees()
 })
 
 test("a reserved word in the page type slot names a page type rather than a file beside a page", () => {

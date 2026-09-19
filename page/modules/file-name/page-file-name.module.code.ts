@@ -147,6 +147,11 @@ export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean
   return said !== null && pageIn(said, pageTypes)
 }
 
+export function pageShaped(path: string): boolean {
+  const said = partedIn(path)
+  return said !== null && said.sections.length === 0 && said.held === HELD_TS
+}
+
 export function uncommittedNamed(path: string): boolean {
   const said = partedIn(path)
   return said !== null && onlyIn(said) === UNCOMMITTED

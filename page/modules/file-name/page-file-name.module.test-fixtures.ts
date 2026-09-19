@@ -35,7 +35,7 @@ export function pageNameIn(path: string): string {
   return pageOf(said)
 }
 
-export function agreeing(
+function agreeing(
   path: string,
   pageTypes: ReadonlySet<string> = PAGE_TYPES,
   fileProperties: ReadonlySet<string> = FILE_PROPERTIES
@@ -44,4 +44,18 @@ export function agreeing(
   expect(pageNamed(path, pageTypes)).toBe(kind === "page")
   expect(uncommittedNamed(path)).toBe(kind === "uncommitted")
   expect(secretNamed(path)).toBe(kind === "secret")
+}
+
+export function everyNameAgrees(): undefined {
+  agreeing("one/file-length.check.ts")
+  agreeing("one/file-length.check.uncommitted.ts")
+  agreeing("one/aine.model-account.sops.yaml")
+  agreeing("one/file-length.check.code.ts")
+  agreeing("one/dalla.seat.patch.uncommitted.patch")
+  agreeing("one/held.uncommitted.ts")
+  agreeing("one/held.uncommitted.ts", new Set(["uncommitted"]))
+  agreeing("one/held.sops.yaml")
+  agreeing("one/notes.txt")
+  agreeing("one/dalla.seat.patch.uncommitted.patch", PAGE_TYPES, PATCH)
+  agreeing("one/dalla.seat.patch.sops.yaml", PAGE_TYPES, PATCH)
 }
