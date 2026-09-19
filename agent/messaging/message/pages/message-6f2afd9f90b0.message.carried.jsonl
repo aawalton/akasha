@@ -1,7 +1,0 @@
-{"body":"the audit at dbb572985747b7c364fbb92a540ac22e7de20706 found 1 check newly refusing.\n`tests-pass` refused 1 time:\n  page/service/modules/page-composing/page-composing.module.test.ts — Measured between 2026-09-19T19:53:01.166Z and 2026-09-19T19:54:01.850Z. 1 test file failed: page/service/modules/page-composing/page-composing.module.test.ts 1 of 19057 tes... (1141 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
-{"from":"audit-running"}
-{"id":"01a0bb3b-e12c-7000-b124-6f2afd9f90b0"}
-{"slug":"message-6f2afd9f90b0"}
-{"to":"seat/thea"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
