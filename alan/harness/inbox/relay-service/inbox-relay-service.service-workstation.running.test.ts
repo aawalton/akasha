@@ -1,7 +1,15 @@
 import { expect, mock, test } from "bun:test"
+import { inboxesEmail } from "akasha/alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts"
+import { inboxesTasks } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { inboxesTemperTasks } from "akasha/temper/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"
 
-const INBOXES = ["readout/inboxes-email", "readout/inboxes-tasks", "readout/inboxes-temper-tasks"]
+const INBOXES = [
+  `${readout.slug}/${inboxesEmail.slug}`,
+  `${readout.slug}/${inboxesTasks.slug}`,
+  `${readout.slug}/${inboxesTemperTasks.slug}`,
+]
 
 const TO = "https://alanwalton.com"
 

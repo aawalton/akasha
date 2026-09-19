@@ -1,7 +1,9 @@
 import { expect, mock, test } from "bun:test"
+import { monarchUnreviewedTransactions } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 
-const UNREVIEWED = "readout/monarch-unreviewed-transactions"
+const UNREVIEWED = `${readout.slug}/${monarchUnreviewedTransactions.slug}`
 
 const ALANS_SITE = "https://alanwalton.com"
 
