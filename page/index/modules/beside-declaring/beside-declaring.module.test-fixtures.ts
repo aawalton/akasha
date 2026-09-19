@@ -1,10 +1,13 @@
+import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
 export const GROUPING = [
   { id: "1", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
   {
     id: "2",
     pageTypeSlug: "page-type",
     slug: "module-property-group",
-    extends: ["page-type/file-property-group"],
+    extends: [`${pageType.slug}/${filePropertyGroup.slug}`],
     properties: [
       { pageProperty: "code-file-property/code", fixed: "ts" },
       { pageProperty: "code-file-property/test", fixed: "ts" },

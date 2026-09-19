@@ -20,6 +20,10 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.type-generator.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/agent.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/hook/agent-hook/agent-hook.page-type.ts"}

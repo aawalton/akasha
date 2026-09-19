@@ -1,5 +1,6 @@
 {"propertySlug":"extends-type","path":"code/component-property-group/component-property-group.page-type.ts","id":"01a09c84-34f2-7b18-839c-48ef7ff084e7"}
 {"propertySlug":"extends-type","path":"code/module-property-group/module-property-group.page-type.ts","id":"01a087b6-ed4d-74ed-b30f-7c9dd49d73c0"}
+{"propertySlug":"import","fileName":"file-property-group.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"file-property-group.page-type.types.ts","path":"code/component-property-group/component-property-group.page-type.types.ts"}
 {"propertySlug":"import","fileName":"file-property-group.page-type.types.ts","path":"code/module-property-group/module-property-group.page-type.types.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -92,6 +92,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/claude-code.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/claude-code-session.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts"}

@@ -5,10 +5,12 @@ import {
   pagePropertyIn,
 } from "akasha/page/index/page-property/index-page-property.index.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { page as pagePageType } from "akasha/page/page.page-type.ts"
 import {
   identifyingFrom,
   sourceOver,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const PAGE_TYPE: Value = {
   id: B,
@@ -30,7 +32,7 @@ const SECTION_TYPE: Value = {
   id: A,
   pageTypeSlug: "page-type",
   slug: "section",
-  extends: ["page-type/page"],
+  extends: [`${pageType.slug}/${pagePageType.slug}`],
   properties: [
     {
       pagePropertySlug: "slug",

@@ -1,15 +1,28 @@
 import { expect, test } from "bun:test"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   type PageTypeForInheritance,
   resolveDescendantPageTypeIds,
 } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
 
 function typed(id: string, slug: string, above: readonly string[]): PageTypeForInheritance {
   return { _id: id, properties: { slug, extendsSlug: above } }
 }
 
 test("a page type descends from the one it names as the page type it extends", () => {
-  const types = [typed("1", "page", []), typed("2", "domain", ["page-type/page"])]
+  const types = [typed("1", "page", []), typed("2", "domain", [PAGE_AT])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")].sort()).toEqual(["1", "2"])
 })
@@ -22,9 +35,9 @@ test("a parent named by slug alone is read as one named with its page type is", 
 
 test("a page type naming two parents descends from each of them", () => {
   const types = [
-    typed("1", "module", ["page-type/domain"]),
-    typed("2", "page-property", ["page-type/page"]),
-    typed("3", "computed-property", ["page-type/module", "page-type/page-property"]),
+    typed("1", "module", [DOMAIN_AT]),
+    typed("2", "page-property", [PAGE_AT]),
+    typed("3", "computed-property", [MODULE_AT, PAGE_PROPERTY_AT]),
   ]
 
   expect([...resolveDescendantPageTypeIds(types, "1")].sort()).toEqual(["1", "3"])

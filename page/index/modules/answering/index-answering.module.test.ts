@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
@@ -46,6 +47,7 @@ import {
   sourceIn,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -90,7 +92,7 @@ const TYPE_VALUE: Value = {
   id: TYPE_ID,
   pageTypeSlug: PAGE_TYPE,
   slug: MODULE,
-  extendsSlug: ["page-type/domain"],
+  extendsSlug: [`${pageType.slug}/${domain.slug}`],
   properties: [{ pagePropertySlug: SLUG, required: true, many: false }],
 }
 
