@@ -9,10 +9,6 @@ export const dungeonChampionLabels = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The labels here are English alone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A key no label answers to reads back as the empty string.",
     },
   ],
