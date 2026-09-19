@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"e0259bdb-17bf-4ba0-bcaf-5a7d2014857b","externalLink":"https://musicbrainz.org/work/e0259bdb-17bf-4ba0-bcaf-5a7d2014857b","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e0259bdb-17bf-4ba0-bcaf-5a7d2014857b","externalLink":"https://musicbrainz.org/work/e0259bdb-17bf-4ba0-bcaf-5a7d2014857b","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-8441-71b4-9570-280f35780c13"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-for-good"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"For Good"}
 {"type":"page-type/song"}

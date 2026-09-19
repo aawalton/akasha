@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"23ce97d3-1081-432c-9f46-0d44ac563ed4","externalLink":"https://musicbrainz.org/work/23ce97d3-1081-432c-9f46-0d44ac563ed4","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b76f-f213-7335-97bf-27c96941a1d6"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-petal"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"petal"}
 {"type":"page-type/song"}
+{"written":"collab"}

@@ -1,8 +1,7 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"2035da4e-ed02-3811-b134-7674fbcb92d7","externalLink":"https://musicbrainz.org/work/2035da4e-ed02-3811-b134-7674fbcb92d7","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"2035da4e-ed02-3811-b134-7674fbcb92d7","externalLink":"https://musicbrainz.org/work/2035da4e-ed02-3811-b134-7674fbcb92d7","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e0-ad51-7fe6-9075-a546f0e35f94"}
 {"performed":true}
 {"slug":"ariana-grande-do-you-love-me"}
-{"songType":"derivative"}
 {"title":"Do You Love Me"}
 {"type":"page-type/song"}

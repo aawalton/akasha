@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"cc4a9125-540b-436e-bc63-ecea09a9a9a8","externalLink":"https://musicbrainz.org/work/cc4a9125-540b-436e-bc63-ecea09a9a9a8","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"cc4a9125-540b-436e-bc63-ecea09a9a9a8","externalLink":"https://musicbrainz.org/work/cc4a9125-540b-436e-bc63-ecea09a9a9a8","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-357e-7b20-8339-0f77ec0c6ad8"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-baby-i"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Baby I"}
 {"type":"page-type/song"}

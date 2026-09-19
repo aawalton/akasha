@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"0215bac2-25dc-4296-89d8-2f8d36070aea","externalLink":"https://musicbrainz.org/work/0215bac2-25dc-4296-89d8-2f8d36070aea","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b76f-f0b8-7328-ae1d-5644aea46558"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-oh-well"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"oh well"}
 {"type":"page-type/song"}
+{"written":"collab"}

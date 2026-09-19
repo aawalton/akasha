@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"ca535430-223d-4478-8558-0b8e73fddfa4","externalLink":"https://musicbrainz.org/work/ca535430-223d-4478-8558-0b8e73fddfa4","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ca535430-223d-4478-8558-0b8e73fddfa4","externalLink":"https://musicbrainz.org/work/ca535430-223d-4478-8558-0b8e73fddfa4","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-30ce-7c3c-aecc-3e0d472d4b85"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-love-is-everything"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Love Is Everything"}
 {"type":"page-type/song"}

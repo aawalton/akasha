@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"e529ab81-4565-45df-b5f4-5045ea3cf9e6","externalLink":"https://musicbrainz.org/work/e529ab81-4565-45df-b5f4-5045ea3cf9e6","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e529ab81-4565-45df-b5f4-5045ea3cf9e6","externalLink":"https://musicbrainz.org/work/e529ab81-4565-45df-b5f4-5045ea3cf9e6","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-ca94-7d75-8d60-b38656f616ea"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-honeymoon-avenue"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Honeymoon Avenue"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"f605e0f6-4f56-49cb-a7e6-9f501841eb7c","externalLink":"https://musicbrainz.org/work/f605e0f6-4f56-49cb-a7e6-9f501841eb7c","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"f605e0f6-4f56-49cb-a7e6-9f501841eb7c","externalLink":"https://musicbrainz.org/work/f605e0f6-4f56-49cb-a7e6-9f501841eb7c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e8-6374-742e-bdcf-02fec0474ddf"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-past-life"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"past life"}
 {"type":"page-type/song"}

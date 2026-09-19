@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"c69d9717-ddc6-4747-951d-09b110af97e5","externalLink":"https://musicbrainz.org/work/c69d9717-ddc6-4747-951d-09b110af97e5","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c69d9717-ddc6-4747-951d-09b110af97e5","externalLink":"https://musicbrainz.org/work/c69d9717-ddc6-4747-951d-09b110af97e5","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-1475-7526-a9be-3f888b1738d5"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-dear-old-shiz"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Dear Old Shiz"}
 {"type":"page-type/song"}

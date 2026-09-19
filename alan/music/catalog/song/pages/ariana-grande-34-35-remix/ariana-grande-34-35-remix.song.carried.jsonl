@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06","externalLink":"https://musicbrainz.org/work/1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b7ca-af93-737e-b045-d26e80fab1af"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-34-35-remix"}
-{"title":"34+35 Remix"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"34+35 (remix)"}
 {"type":"page-type/song"}
+{"written":"collab"}

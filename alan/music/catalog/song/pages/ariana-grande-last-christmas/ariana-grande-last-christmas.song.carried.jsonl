@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"8e438d29-bc0b-3cfe-8c47-17e14113a3c3","externalLink":"https://musicbrainz.org/work/8e438d29-bc0b-3cfe-8c47-17e14113a3c3","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"8e438d29-bc0b-3cfe-8c47-17e14113a3c3","externalLink":"https://musicbrainz.org/work/8e438d29-bc0b-3cfe-8c47-17e14113a3c3","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea416-23c6-7f24-90f1-e843b1dee663"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-last-christmas"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Last Christmas"}
 {"type":"page-type/song"}

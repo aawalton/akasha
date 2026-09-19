@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"034e9335-6c73-4d09-bb2d-fa0d1051a191","externalLink":"https://musicbrainz.org/work/034e9335-6c73-4d09-bb2d-fa0d1051a191","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"034e9335-6c73-4d09-bb2d-fa0d1051a191","externalLink":"https://musicbrainz.org/work/034e9335-6c73-4d09-bb2d-fa0d1051a191","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-fe15-72c6-9954-f468f3907a11"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-why-try"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Why Try"}
 {"type":"page-type/song"}

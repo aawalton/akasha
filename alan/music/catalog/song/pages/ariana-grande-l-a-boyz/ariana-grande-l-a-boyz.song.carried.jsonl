@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"5a826084-fdb6-4de6-907e-6ef379f049ec","externalLink":"https://musicbrainz.org/work/5a826084-fdb6-4de6-907e-6ef379f049ec","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"5a826084-fdb6-4de6-907e-6ef379f049ec","externalLink":"https://musicbrainz.org/work/5a826084-fdb6-4de6-907e-6ef379f049ec","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e1-6ad7-7b11-bf6e-ada7c2e082ca"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-l-a-boyz"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"L.A. Boyz"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"d86a28a4-984a-4137-b1dd-04a886afaef2","externalLink":"https://musicbrainz.org/work/d86a28a4-984a-4137-b1dd-04a886afaef2","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"d86a28a4-984a-4137-b1dd-04a886afaef2","externalLink":"https://musicbrainz.org/work/d86a28a4-984a-4137-b1dd-04a886afaef2","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e3-626b-7f4d-a792-fcf27eb9532f"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-brand-new-you"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Brand New You"}
 {"type":"page-type/song"}

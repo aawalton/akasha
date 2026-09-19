@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e5b41533-73eb-47be-8f08-82e9e0f93ea4","externalLink":"https://musicbrainz.org/work/e5b41533-73eb-47be-8f08-82e9e0f93ea4","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b76f-ecc0-7def-9e41-b1e70d4c5ae5"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-like-i-do"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"like i do"}
 {"type":"page-type/song"}
+{"written":"collab"}

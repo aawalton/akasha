@@ -17,7 +17,7 @@ export const arianaGrande = {
       source: "musicbrainz",
       externalId: "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       externalLink: "https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
     {
       source: "spotify",

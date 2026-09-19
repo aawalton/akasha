@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"b3e33d13-b0b1-35fa-b575-b63c75c59599","externalLink":"https://musicbrainz.org/work/b3e33d13-b0b1-35fa-b575-b63c75c59599","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"b3e33d13-b0b1-35fa-b575-b63c75c59599","externalLink":"https://musicbrainz.org/work/b3e33d13-b0b1-35fa-b575-b63c75c59599","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e7-4a13-78e6-9ca5-cb37dfdec652"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-you-can-t-stop-the-beat"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"You Can’t Stop the Beat"}
 {"type":"page-type/song"}

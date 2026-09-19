@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"070b8d7e-05bf-4663-89c2-51bd67f3ea35","externalLink":"https://musicbrainz.org/work/070b8d7e-05bf-4663-89c2-51bd67f3ea35","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"070b8d7e-05bf-4663-89c2-51bd67f3ea35","externalLink":"https://musicbrainz.org/work/070b8d7e-05bf-4663-89c2-51bd67f3ea35","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e0-56aa-7619-9062-3b0860df4683"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-just-a-little-bit-of-your-heart"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Just a Little Bit of Your Heart"}
 {"type":"page-type/song"}

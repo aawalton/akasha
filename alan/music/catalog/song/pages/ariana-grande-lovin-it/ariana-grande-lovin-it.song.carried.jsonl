@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"0b7b0187-1507-4a4d-9ad3-fc201c0e1c64","externalLink":"https://musicbrainz.org/work/0b7b0187-1507-4a4d-9ad3-fc201c0e1c64","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"0b7b0187-1507-4a4d-9ad3-fc201c0e1c64","externalLink":"https://musicbrainz.org/work/0b7b0187-1507-4a4d-9ad3-fc201c0e1c64","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e4-14b5-7fda-b0f0-e678e32db3ed"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-lovin-it"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Lovin' It"}
 {"type":"page-type/song"}

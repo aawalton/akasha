@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ef9754ec-70c3-43c5-9214-06b04911c060","externalLink":"https://musicbrainz.org/work/ef9754ec-70c3-43c5-9214-06b04911c060","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b76f-ee02-715e-9713-92742b248fc9"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-never-get-over-me"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"never get over me"}
 {"type":"page-type/song"}
+{"written":"collab"}

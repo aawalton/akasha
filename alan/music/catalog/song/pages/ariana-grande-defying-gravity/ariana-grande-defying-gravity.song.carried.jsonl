@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"707e83a7-9cfd-3471-a13e-198e61cdbc49","externalLink":"https://musicbrainz.org/work/707e83a7-9cfd-3471-a13e-198e61cdbc49","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"707e83a7-9cfd-3471-a13e-198e61cdbc49","externalLink":"https://musicbrainz.org/work/707e83a7-9cfd-3471-a13e-198e61cdbc49","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e1-ba3c-7744-8e36-5d88772e9f2f"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-defying-gravity"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Defying Gravity"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"15953bcf-9ab2-3dc5-8f74-477eb6766122","externalLink":"https://musicbrainz.org/work/15953bcf-9ab2-3dc5-8f74-477eb6766122","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"15953bcf-9ab2-3dc5-8f74-477eb6766122","externalLink":"https://musicbrainz.org/work/15953bcf-9ab2-3dc5-8f74-477eb6766122","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e4-212f-7943-af1c-e64ecccd2cb4"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-popular"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Popular"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"1566c412-4381-4e93-9577-3734c1ac1c1d","externalLink":"https://musicbrainz.org/work/1566c412-4381-4e93-9577-3734c1ac1c1d","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"1566c412-4381-4e93-9577-3734c1ac1c1d","externalLink":"https://musicbrainz.org/work/1566c412-4381-4e93-9577-3734c1ac1c1d","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e0-9382-73d4-be60-6c0c722c55a9"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-dance-to-this"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Dance to This"}
 {"type":"page-type/song"}

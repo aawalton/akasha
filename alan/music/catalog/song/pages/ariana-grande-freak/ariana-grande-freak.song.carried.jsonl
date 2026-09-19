@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"db34ba0a-85db-4a6a-9fbf-b8665becb2f5","externalLink":"https://musicbrainz.org/work/db34ba0a-85db-4a6a-9fbf-b8665becb2f5","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b76f-ea3a-7b92-8255-dad0916c768a"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-freak"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"freak"}
 {"type":"page-type/song"}
+{"written":"collab"}

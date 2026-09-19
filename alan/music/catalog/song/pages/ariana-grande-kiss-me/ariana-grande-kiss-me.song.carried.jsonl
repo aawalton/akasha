@@ -1,6 +1,12 @@
 {"artist":"artist/ariana-grande"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"3b42f1ed-4db3-47bb-bc59-1d2d800f51e3","externalLink":"https://musicbrainz.org/work/3b42f1ed-4db3-47bb-bc59-1d2d800f51e3","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b76f-eb85-74ff-919e-65f814c49c13"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-kiss-me"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"kiss me"}
 {"type":"page-type/song"}
+{"written":"collab"}

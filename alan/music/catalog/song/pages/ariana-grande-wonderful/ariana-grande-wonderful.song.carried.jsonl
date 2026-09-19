@@ -1,11 +1,10 @@
 {"artist":"artist/ariana-grande"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"60f57d98-4955-4bd4-be63-94dcaa63d6db","externalLink":"https://musicbrainz.org/work/60f57d98-4955-4bd4-be63-94dcaa63d6db","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"60f57d98-4955-4bd4-be63-94dcaa63d6db","externalLink":"https://musicbrainz.org/work/60f57d98-4955-4bd4-be63-94dcaa63d6db","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4e5-7535-7e47-895f-7d5310cb8d53"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"ariana-grande-wonderful"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Wonderful"}
 {"type":"page-type/song"}
