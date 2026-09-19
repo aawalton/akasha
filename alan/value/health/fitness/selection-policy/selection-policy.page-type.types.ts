@@ -8,7 +8,9 @@ import type { RecencySaturationDays } from "akasha/alan/value/health/fitness/sel
 import type { RecencyWeight } from "akasha/alan/value/health/fitness/selection-policy/properties/recency-weight.number-property.types.ts"
 import type { RepsBeforeSlowing } from "akasha/alan/value/health/fitness/selection-policy/properties/reps-before-slowing.number-property.types.ts"
 import type { RepsWarmingUp } from "akasha/alan/value/health/fitness/selection-policy/properties/reps-warming-up.number-property.types.ts"
+import type { SecondsHoldingStretch } from "akasha/alan/value/health/fitness/selection-policy/properties/seconds-holding-stretch.number-property.types.ts"
 import type { SecondsPerRaise } from "akasha/alan/value/health/fitness/selection-policy/properties/seconds-per-raise.number-property.types.ts"
+import type { StretchesCoolingDown } from "akasha/alan/value/health/fitness/selection-policy/properties/stretches-cooling-down.number-property.types.ts"
 import type { WarmupLoadShare } from "akasha/alan/value/health/fitness/selection-policy/properties/warmup-load-share.number-property.types.ts"
 import type { WarmupReps } from "akasha/alan/value/health/fitness/selection-policy/properties/warmup-reps.number-property.types.ts"
 import type { WeeklySetCeiling } from "akasha/alan/value/health/fitness/selection-policy/properties/weekly-set-ceiling.number-property.types.ts"
@@ -41,4 +43,6 @@ export type SelectionPolicy = Page & {
   mobilisingMovements: MobilisingMovements
   secondsPerRaise: SecondsPerRaise
   repsWarmingUp: RepsWarmingUp
+  stretchesCoolingDown: StretchesCoolingDown
+  secondsHoldingStretch: SecondsHoldingStretch
 }

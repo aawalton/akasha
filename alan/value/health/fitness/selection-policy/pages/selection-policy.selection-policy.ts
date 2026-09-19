@@ -24,4 +24,6 @@ export const selectionPolicy = {
   secondsPerRaise: 60,
   mobilisingMovements: 2,
   repsWarmingUp: 10,
+  stretchesCoolingDown: 3,
+  secondsHoldingStretch: 45,
 } as const satisfies SelectionPolicy

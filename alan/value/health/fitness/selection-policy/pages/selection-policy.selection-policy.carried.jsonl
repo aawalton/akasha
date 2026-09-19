@@ -9,8 +9,10 @@
 {"recencyWeight":0.05}
 {"repsBeforeSlowing":20}
 {"repsWarmingUp":10}
+{"secondsHoldingStretch":45}
 {"secondsPerRaise":60}
 {"slug":"selection-policy"}
+{"stretchesCoolingDown":3}
 {"type":"page-type/selection-policy"}
 {"warmupLoadShare":0.5}
 {"warmupReps":10}

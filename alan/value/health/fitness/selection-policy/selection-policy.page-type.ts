@@ -27,6 +27,8 @@ export const selectionPolicy = {
     "number-property/zone2-weekly-floor",
     "number-property/seconds-per-raise",
     "number-property/reps-warming-up",
+    "number-property/stretches-cooling-down",
+    "number-property/seconds-holding-stretch",
   ],
   properties: [
     { pageProperty: "number-property/weight-longevity", required: true, many: false },
@@ -49,6 +51,8 @@ export const selectionPolicy = {
     { pageProperty: "number-property/mobilising-movements", required: true, many: false },
     { pageProperty: "number-property/seconds-per-raise", required: true, many: false },
     { pageProperty: "number-property/reps-warming-up", required: true, many: false },
+    { pageProperty: "number-property/stretches-cooling-down", required: true, many: false },
+    { pageProperty: "number-property/seconds-holding-stretch", required: true, many: false },
   ],
   decisions: [
     {
