@@ -4,7 +4,7 @@ export const fitnessNext = {
   id: "01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6",
   type: "page-type/command",
   slug: "fitness-next",
-  definition: "the movement to do next, with the load to use and the reps to beat",
+  definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
   decisions: [
