@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"initiative.page-type.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aelwyn-strength-training.initiative.ts"}
-{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-auth.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-contribution.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-kofi.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-requests.initiative.ts"}
@@ -16,6 +15,7 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-inventory-rules.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-temper-tasks.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/eppie-music-improvements.initiative.ts"}
+{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-auth.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-misc.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-workstation-upgrade.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ryn-standard-agent-english.initiative.ts"}
