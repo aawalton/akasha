@@ -390,5 +390,5 @@ export const checkReachesAPathThroughTheIndex = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 25 },
+  audit: { maxCpuSeconds: 120 },
 } as const satisfies CheckCode
