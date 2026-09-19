@@ -15,6 +15,12 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-page-property/move-file-page-property.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-page-property/move-file-page-property.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-page-type/move-file-page-type.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-page-type/move-file-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/modules/gated-landing/gated-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test.ts"}
