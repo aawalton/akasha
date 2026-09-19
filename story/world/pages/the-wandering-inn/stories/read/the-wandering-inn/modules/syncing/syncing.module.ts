@@ -48,10 +48,6 @@ export const syncing = {
       statement: "A run that files nothing is still recorded as a run that happened.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A run that only says the chapters the run would file is not recorded as a run.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the page store over the network.",
     },

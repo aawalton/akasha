@@ -42,7 +42,6 @@ async function takeChapter(
   site: Site,
   listed: ListedChapter,
   at: string,
-  dryRun: boolean,
   tally: Tally
 ): Promise<void> {
   if (isPatronTitle(listed.title)) {
@@ -68,19 +67,12 @@ async function takeChapter(
   const title = chapterTitleOf(read.ogTitle, read.docTitle, listed.title)
   const url = read.ogUrl === "" ? listed.url : read.ogUrl
 
-  if (dryRun) {
-    console.log(`  ${at} chapter ${listed.position}: would file "${title}" (${text.length} chars)`)
-    tally.skipped += 1
-    return
-  }
-
   const where = await fileChapter({ position: listed.position, title, url, text })
   console.log(`  ${at} chapter ${listed.position}: filed "${title}" at ${where}`)
   tally.created += 1
 }
 
 export async function syncWanderingInn(argv: readonly string[]): Promise<RunCounts> {
-  const dryRun = argv.includes("--dry-run")
   const ceiling = numberAfter(argv, "--limit")
 
   const site = await openSite()
@@ -107,7 +99,7 @@ export async function syncWanderingInn(argv: readonly string[]): Promise<RunCoun
     for (const [i, one] of taking.entries()) {
       const at = `${i + 1}/${taking.length}`
       try {
-        await takeChapter(site, one, at, dryRun, tally)
+        await takeChapter(site, one, at, tally)
       } catch (thrown) {
         console.log(`  ${at} chapter ${one.position}: failed — ${String(thrown)}`)
         tally.failed += 1
@@ -126,10 +118,6 @@ export async function syncWanderingInn(argv: readonly string[]): Promise<RunCoun
 }
 
 export async function main(argv: readonly string[]): Promise<number> {
-  if (argv.includes("--dry-run")) {
-    const counts = await syncWanderingInn(argv)
-    return counts.failed > 0 ? 1 : 0
-  }
   const counts = await recordingRun(SOURCE, () => syncWanderingInn(argv))
   return counts.failed > 0 ? 1 : 0
 }
