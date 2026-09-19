@@ -14,5 +14,9 @@ export const awenEngineImprovements = {
       statement:
         "A rulebook designed anew replaces both a game's rulebook and a build's game system.",
     },
+    {
+      statement:
+        "A turn, a rulebook and a mechanic designed as one replace what the engine holds now.",
+    },
   ],
 } as const satisfies Initiative
