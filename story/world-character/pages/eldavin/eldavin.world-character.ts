@@ -9,6 +9,7 @@ export const eldavin = {
   maxLevel: 16,
   eventCount: 4,
   firstChapter: 452,
-  lastChapter: 804,
+  lastChapter: 586,
   characterClaims: "jsonl",
+  aliasOf: "world-character/teriarch",
 } as const satisfies WorldCharacter

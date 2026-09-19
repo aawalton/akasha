@@ -9,4 +9,5 @@ export const eldavinTeriarch = {
   firstChapter: 496,
   lastChapter: 501,
   characterClaims: "jsonl",
+  aliasOf: "world-character/teriarch",
 } as const satisfies WorldCharacter

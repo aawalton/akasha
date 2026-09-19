@@ -9,4 +9,5 @@ export const demsleth = {
   firstChapter: 631,
   lastChapter: 751,
   characterClaims: "jsonl",
+  aliasOf: "world-character/teriarch",
 } as const satisfies WorldCharacter
