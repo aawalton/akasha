@@ -4,7 +4,8 @@ export const changeApply = {
   id: "01a08179-6ebf-724c-8698-aa6e02645d0e",
   type: "page-type/command",
   slug: "change-apply",
-  definition: "the command landing every edit kept, answering one change first where one is named",
+  definition:
+    "the command answering one change where one is named, then landing the edits kept or keeping them",
   code: "ts",
   test: "ts",
   maxWallSeconds: 900,
@@ -24,6 +25,18 @@ export const changeApply = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The fence is the caller's to pick.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body opened `key <fence> no-newline` keeps no newline on its last line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key `at` names a path, read against the repository root.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An apply naming a change answers that change before landing.",
     },
     {
@@ -36,7 +49,48 @@ export const changeApply = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The key `draft` is refused.",
+      statement: "`--draft` keeps the edits the change answered rather than landing them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting apply lands nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting apply naming no change is refused rather than reaching every change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names every change this command runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting apply names where the edits are kept and the call that lands them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two drafting applies leave two sets of edits in the order the runs were made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Under `--draft` the key `message` is refused rather than carried into a commit that is not made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Under `--draft` the key `measure` is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting apply that refuses keeps nothing and says why that apply refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No check runs under `--draft`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key `draft` is refused, and `--draft` is where a call says it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,8 +125,41 @@ export const changeApply = {
       statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The edits the change answered are kept beside the calling agent's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change is handed the world the edits kept before that change leave.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change whose writer owes reading is refused before that change's edits are kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names every page written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An apply that threw after keeping its edits names those edits in its refusal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An apply that threw before keeping anything says nothing of what it kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An apply names each thing it did in the order it did them.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "No flag other than the help flag is said on the command line.",
+      statement: "No redirect carries that answer to a file.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No flag other than `--draft` and the help flag is said on the command line.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -151,5 +238,5 @@ export const changeApply = {
     },
   ],
   name: "apply",
-  arguments: [{ argument: "argument/change", saidAs: "word" }],
+  arguments: [{ argument: "argument/change", saidAs: "word" }, { argument: "argument/draft" }],
 } as const satisfies Command

@@ -27,7 +27,11 @@ const FENCE = "HEREDOC"
 
 const READ = new RegExp("^akasha read( --full| --file-path " + PATH + ")*$")
 
-const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
+const DRAFT = "(?: --draft)?"
+
+const CHANGE = new RegExp(
+  "^akasha change(?:" + DRAFT + " " + WORD + "){0,2}" + DRAFT + "( <<'" + FENCE + "')?$"
+)
 
 const NAMING = "[a-z][a-z0-9-]*"
 
@@ -48,7 +52,7 @@ const REFUSED = [
   "holding a character the shell would act on is written in single quotes, which the shell",
   "leaves whole: `akasha read --file-path 'routes/api.pages.$pageTypeSlug.ts'`.",
   "",
-  "  akasha change draft <act> <<'HEREDOC'",
+  "  akasha change apply --draft <act> <<'HEREDOC'",
   "  at: <path>",
   "  body HEREDOC-BODY",
   "  <the body>",
@@ -60,8 +64,9 @@ const REFUSED = [
   "  HEREDOC",
   "",
   "take up to two words after `change`, naming the command and what it takes or the namespace",
-  "and the command under it, and one heredoc whose closing line ends the call. A call taking",
-  "fewer words, and one opening no heredoc, are that same form with less in it, so",
+  "and the command under it, `--draft` among them or not, and one heredoc whose closing line",
+  "ends the call. A call taking fewer words, and one opening no heredoc, are that same form",
+  "with less in it, so",
   "`akasha change apply`, `akasha change list` and `akasha change subagent list` are approved",
   "on their own. `akasha change` names the commands it carries.",
   "",
@@ -84,7 +89,7 @@ const REFUSED = [
   "",
   "Each argument opens a fence of its own, which akasha reads rather than the shell. Write the",
   "key in capitals after `HEREDOC-`: `old` closes on `HEREDOC-OLD`, `new` on `HEREDOC-NEW`. A",
-  "body carrying its own fence as a line takes another, as `akasha change draft --help` says.",
+  "body carrying its own fence as a line takes another, as `akasha change apply --help` says.",
   "",
   "The delimiter is quoted so the shell rewrites nothing. Opened unquoted, a `$HOME` in the body",
   "is replaced and a `$(...)` is run before akasha reads the body, and nothing says so.",
@@ -154,7 +159,7 @@ const CAPTURES = z.array(z.string().optional())
 
 function parseChangeOpening(opening: string): boolean | null {
   const read = CAPTURES.safeParse(CHANGE.exec(opening))
-  return read.success ? read.data[2] !== undefined : null
+  return read.success ? read.data[1] !== undefined : null
 }
 
 function closedIn(lines: readonly string[], opened: boolean): boolean {

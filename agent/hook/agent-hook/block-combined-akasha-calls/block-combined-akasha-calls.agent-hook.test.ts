@@ -100,8 +100,22 @@ test("an apply whose last line closes its quoted heredoc is let through", () => 
   )
 })
 
+test("a drafting apply is let through", () => {
+  expect(refusalIn("akasha change apply --draft add-file")).toBe(null)
+})
+
+test("a drafting apply whose last line closes its quoted heredoc is let through", () => {
+  expect(refusalIn("akasha change apply --draft add-file <<'HEREDOC'\nat: a/b.ts\nHEREDOC")).toBe(
+    null
+  )
+})
+
 test("an apply carrying a word the form does not take is refused", () => {
   expect(refusalIn("akasha change apply --message x")).toContain(NAMES)
+})
+
+test("a drafting apply carrying more words than the form takes is refused", () => {
+  expect(refusalIn("akasha change apply --draft add-file extra")).toContain(NAMES)
 })
 
 test("an apply asking for help is let through", () => {

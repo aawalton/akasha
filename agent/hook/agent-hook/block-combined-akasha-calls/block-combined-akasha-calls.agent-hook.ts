@@ -83,6 +83,10 @@ export const blockCombinedAkashaCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An approved change carries `--draft` among or after those words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Those words name the command and what it takes, or the namespace and the command under it.",
     },
