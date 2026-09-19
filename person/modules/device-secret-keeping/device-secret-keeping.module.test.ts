@@ -151,7 +151,7 @@ test("the values a contributor is minted under name that contributor as a person
   expect(valuesFor(asAccount("  "), A_DEVICE, hashDeviceSecret("one"))).toBeNull()
 })
 
-test("a secret naming both an account and a contributor is whose nobody's", () => {
+test("a secret naming both an account and a contributor is nobody's", () => {
   const both = whoseIn({ userId: ALAN_ACCOUNT, contributor: ALAN_CONTRIBUTOR })
   expect(both).toEqual({ refused: expect.stringContaining("names neither") })
   const neither = whoseIn({ userId: null, contributor: null })
