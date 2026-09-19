@@ -3,10 +3,7 @@ import {
   addPropertyValue,
   runChange,
 } from "akasha/change/agent/file-content/add-property-value/add-property-value.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
