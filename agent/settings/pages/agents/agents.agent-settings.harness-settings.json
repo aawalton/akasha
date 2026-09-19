@@ -30,5 +30,6 @@
   "remoteControlAtStartup": true,
   "agentPushNotifEnabled": false,
   "promptSuggestionEnabled": false,
-  "spinnerTipsEnabled": false
+  "spinnerTipsEnabled": false,
+  "disableAgentView": true
 }

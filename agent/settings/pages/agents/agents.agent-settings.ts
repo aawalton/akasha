@@ -11,5 +11,9 @@ export const agents = {
       decisionKind: "decision-kind/departure",
       statement: "The bash environment and the statusline are resolved by akasha rather than here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat has no agent view, so nothing moves that seat into the background.",
+    },
   ],
 } as const satisfies AgentSettings
