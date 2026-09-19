@@ -6,13 +6,7 @@ export const aelwynStrengthTraining = {
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "persona/aelwyn",
-  intentStack: [
-    {
-      statement: "A planner chooses Alan's next movement from principles he settled.",
-      workingMemory:
-        "Built at 0b0d918 and 743d0c2: `akasha fitness next` answers one movement with a load and a rep target, and `akasha fitness week` answers the trailing seven days by muscle and by pattern, both over the `training-week` module. On 2026-09-18 it answers Dumbbell Bench Press, 30 lb for 21 reps, at the top of the rack. Alan settled that day that the goal weights are not accounted for in the selector at all and are only the yardstick it is judged by. What is left is the intents below.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
     "The fitness coaching notes bind what Alan is programmed to do; this initiative settles what is tracked.",
