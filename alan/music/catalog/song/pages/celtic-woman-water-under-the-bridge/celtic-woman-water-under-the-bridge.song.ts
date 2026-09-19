@@ -14,6 +14,5 @@ export const celticWomanWaterUnderTheBridge = {
   ],
   title: "Water Under the Bridge",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

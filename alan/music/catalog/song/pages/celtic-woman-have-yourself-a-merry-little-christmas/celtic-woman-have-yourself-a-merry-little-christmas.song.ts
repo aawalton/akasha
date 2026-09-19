@@ -14,7 +14,6 @@ export const celticWomanHaveYourselfAMerryLittleChristmas = {
   ],
   title: "Have Yourself a Merry Little Christmas",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,6 +14,5 @@ export const celticWomanIKnowMyLove = {
   ],
   title: "I Know My Love",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const celticWomanMiseEire = {
   ],
   title: "Mise Éire",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

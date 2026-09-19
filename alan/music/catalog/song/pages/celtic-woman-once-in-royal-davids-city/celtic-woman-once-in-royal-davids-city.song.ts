@@ -14,7 +14,6 @@ export const celticWomanOnceInRoyalDavidsCity = {
   ],
   title: "Once in Royal David’s City",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

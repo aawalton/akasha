@@ -14,7 +14,6 @@ export const celticWomanAmidTheFallingSnow = {
   ],
   title: "Amid the Falling Snow",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

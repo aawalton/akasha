@@ -14,7 +14,6 @@ export const celticWomanGreenTheWholeYearRound = {
   ],
   title: "Green the Whole Year Round",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

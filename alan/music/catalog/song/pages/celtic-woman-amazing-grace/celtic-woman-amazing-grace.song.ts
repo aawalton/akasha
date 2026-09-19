@@ -14,7 +14,6 @@ export const celticWomanAmazingGrace = {
   ],
   title: "Amazing Grace",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

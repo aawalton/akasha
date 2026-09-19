@@ -14,7 +14,6 @@ export const celticWomanAuldLangSyne = {
   ],
   title: "Auld Lang Syne",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

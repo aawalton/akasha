@@ -14,7 +14,6 @@ export const celticWomanSomeday = {
   ],
   title: "Someday",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const celticWomanOneWorld = {
   ],
   title: "One World",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

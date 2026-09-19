@@ -14,7 +14,6 @@ export const celticWomanTearsInHeaven = {
   ],
   title: "Tears in Heaven",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

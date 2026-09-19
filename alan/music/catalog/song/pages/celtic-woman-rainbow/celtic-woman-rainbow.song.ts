@@ -14,7 +14,6 @@ export const celticWomanRainbow = {
   ],
   title: "Rainbow",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

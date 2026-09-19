@@ -14,6 +14,5 @@ export const celticWomanBlackIsTheColourOfMyTrueLovesHair = {
   ],
   title: "Black Is the Colour (of My True Love’s Hair)",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

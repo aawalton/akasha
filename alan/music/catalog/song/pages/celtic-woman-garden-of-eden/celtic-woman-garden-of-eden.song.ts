@@ -14,7 +14,6 @@ export const celticWomanGardenOfEden = {
   ],
   title: "Garden of Eden",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

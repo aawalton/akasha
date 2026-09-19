@@ -14,7 +14,6 @@ export const celticWomanFelizNavidad = {
   ],
   title: "Feliz Navidad",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

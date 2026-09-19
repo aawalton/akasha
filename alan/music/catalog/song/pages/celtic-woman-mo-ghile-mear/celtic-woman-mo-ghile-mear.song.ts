@@ -14,7 +14,6 @@ export const celticWomanMoGhileMear = {
   ],
   title: "Mo Ghile Mear",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,6 +14,5 @@ export const celticWomanTheMoorloughShore = {
   ],
   title: "The Moorlough Shore",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

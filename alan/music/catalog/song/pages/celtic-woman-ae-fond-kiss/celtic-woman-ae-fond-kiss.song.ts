@@ -14,7 +14,6 @@ export const celticWomanAeFondKiss = {
   ],
   title: "Ae Fond Kiss",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

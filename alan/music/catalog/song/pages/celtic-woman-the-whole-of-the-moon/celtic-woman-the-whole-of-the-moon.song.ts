@@ -14,7 +14,6 @@ export const celticWomanTheWholeOfTheMoon = {
   ],
   title: "The Whole of the Moon",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

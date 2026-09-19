@@ -14,7 +14,6 @@ export const celticWomanThePartingGlass = {
   ],
   title: "The Parting Glass",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

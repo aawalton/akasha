@@ -14,6 +14,5 @@ export const celticWomanOnlyAWomansHeart = {
   ],
   title: "Only a Woman’s Heart",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const celticWomanImCountingOnYou = {
   ],
   title: "I'm Counting on You",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

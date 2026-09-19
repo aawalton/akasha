@@ -14,7 +14,6 @@ export const celticWomanIsleOfInisfree = {
   ],
   title: "Isle of Inisfree",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

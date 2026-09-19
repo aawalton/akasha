@@ -14,7 +14,6 @@ export const celticWomanWalkingInTheAir = {
   ],
   title: "Walking in the Air",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

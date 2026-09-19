@@ -14,7 +14,6 @@ export const celticWomanAncientLand = {
   ],
   title: "Ancient Land",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

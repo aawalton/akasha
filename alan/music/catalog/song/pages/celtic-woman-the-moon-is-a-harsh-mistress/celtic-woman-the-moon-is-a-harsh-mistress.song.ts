@@ -14,6 +14,5 @@ export const celticWomanTheMoonIsAHarshMistress = {
   ],
   title: "The Moon Is a Harsh Mistress",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

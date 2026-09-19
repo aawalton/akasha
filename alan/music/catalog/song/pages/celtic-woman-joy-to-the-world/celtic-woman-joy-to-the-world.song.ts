@@ -14,7 +14,6 @@ export const celticWomanJoyToTheWorld = {
   ],
   title: "Joy to the World",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

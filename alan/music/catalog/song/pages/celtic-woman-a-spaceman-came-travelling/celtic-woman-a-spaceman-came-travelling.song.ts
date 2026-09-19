@@ -14,7 +14,6 @@ export const celticWomanASpacemanCameTravelling = {
   ],
   title: "A Spaceman Came Travelling",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -7,8 +7,8 @@ export const celticWomanNellaFantasia = {
   externalIdentity: [
     {
       source: "musicbrainz",
-      externalId: "75760085-843e-335f-8fed-d835d59e9f66",
-      externalLink: "https://musicbrainz.org/work/75760085-843e-335f-8fed-d835d59e9f66",
+      externalId: "c3037809-4320-3c25-b9d0-08c37ff86e0b",
+      externalLink: "https://musicbrainz.org/work/c3037809-4320-3c25-b9d0-08c37ff86e0b",
       lastSyncedAt: "2026-09-19",
     },
   ],

@@ -14,7 +14,6 @@ export const celticWomanHushLittleBaby = {
   ],
   title: "Hush, Little Baby",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

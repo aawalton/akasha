@@ -14,7 +14,6 @@ export const celticWomanDoYouHearWhatIHear = {
   ],
   title: "Do You Hear What I Hear?",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

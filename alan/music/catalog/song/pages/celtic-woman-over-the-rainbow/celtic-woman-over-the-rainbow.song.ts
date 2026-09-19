@@ -14,7 +14,6 @@ export const celticWomanOverTheRainbow = {
   ],
   title: "Over the Rainbow",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

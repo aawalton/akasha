@@ -14,7 +14,6 @@ export const celticWomanFieldsOfGold = {
   ],
   title: "Fields of Gold",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

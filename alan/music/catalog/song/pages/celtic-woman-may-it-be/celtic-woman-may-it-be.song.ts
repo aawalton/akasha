@@ -14,7 +14,6 @@ export const celticWomanMayItBe = {
   ],
   title: "May It Be",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const celticWomanSheMovedThroughTheFair = {
   ],
   title: "She Moved Through the Fair",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const celticWomanIsleOfHopeIsleOfTears = {
   ],
   title: "Isle of Hope, Isle of Tears",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,6 +14,5 @@ export const celticWomanMnaNaHeireann = {
   ],
   title: "Mná na hÉireann",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

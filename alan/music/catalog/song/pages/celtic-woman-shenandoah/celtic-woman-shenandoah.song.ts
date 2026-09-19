@@ -14,7 +14,6 @@ export const celticWomanShenandoah = {
   ],
   title: "Shenandoah",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

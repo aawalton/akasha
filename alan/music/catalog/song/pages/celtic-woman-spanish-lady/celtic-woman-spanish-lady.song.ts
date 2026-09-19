@@ -14,7 +14,6 @@ export const celticWomanSpanishLady = {
   ],
   title: "Spanish Lady",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const celticWomanMyHeartWillGoOn = {
   ],
   title: "My Heart Will Go On",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
