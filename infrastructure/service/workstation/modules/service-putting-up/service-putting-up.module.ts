@@ -44,7 +44,7 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reports the plan the run would carry out and writes nothing.",
+      statement: "The plan is read apart from the run that carries that plan out.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -161,7 +161,7 @@ async function putUp(
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, false, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
     const every = closures ?? new Map<string, ReadonlySet<string>>()
-    return putUpEvery(given.root, false, restarting ?? new Set<string>(), at, up, every)
+    return putUpEvery(given.root, restarting ?? new Set<string>(), at, up, every)
   }
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, false, at, up)

@@ -10,6 +10,7 @@ import {
   homeAt,
   installing,
   ourInstalled,
+  type Plan,
   planFor,
   systemctl,
 } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
@@ -19,8 +20,6 @@ import {
   runnerCodeIn,
 } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import type { Service } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
-
-const NOT_WRITTEN = "dry-run\tnothing was written; run it again without `--dry-run` to carry it out"
 
 const PAGES = "page-service"
 
@@ -39,14 +38,18 @@ function saidOfNoRunner(): string {
   return "nothing says which file a service is run from, so no loader can reach for it"
 }
 
-export function putUpEvery(
+export type Planned = {
+  readonly report: readonly string[]
+  readonly home: string
+  readonly plan: Plan
+}
+
+export function plannedEvery(
   root: string,
-  dryRun: boolean,
   restarting: ReadonlySet<string> = new Set(),
   codeAt: string = "",
-  up: string[] = [],
   closures: ReadonlyMap<string, ReadonlySet<string>> = new Map()
-): Answer {
+): Planned | Answer {
   const read = everyService(root, codeAt)
   if ("refused" in read) return refusedBy([read.refused], DATA)
 
@@ -69,11 +72,21 @@ export function putUpEvery(
   for (const name of plan.restart ?? []) report.push(`restart\t${name}`)
   for (const name of plan.stop) report.push(`stop\t${name}`)
   for (const name of plan.remove) report.push(`remove\t${name}`)
+  return { report, home, plan }
+}
 
-  if (dryRun) return told([...report, NOT_WRITTEN])
+export function putUpEvery(
+  root: string,
+  restarting: ReadonlySet<string> = new Set(),
+  codeAt: string = "",
+  up: string[] = [],
+  closures: ReadonlyMap<string, ReadonlySet<string>> = new Map()
+): Answer {
+  const planned = plannedEvery(root, restarting, codeAt, closures)
+  if (!("plan" in planned)) return planned
 
-  const done = installing(home, plan, systemctl, up)
-  const said = [...report, ...done.did.map((what) => `did\t${what}`)]
+  const done = installing(planned.home, planned.plan, systemctl, up)
+  const said = [...planned.report, ...done.did.map((what) => `did\t${what}`)]
   if (done.refused.length > 0) return answeredWith(said, done.refused, OPERATIONAL)
   return told(said)
 }
