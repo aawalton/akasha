@@ -392,7 +392,11 @@ export async function judgedAsleep(): Promise<Asleep> {
     const asleep = SAMPLED.filter((path) => !takes(path, asked))
     if (asleep.length === 0) continue
     const sleeping = sleepingAt(held, asleep)
-    said.push([one.slug, await one.run(sleeping.change, sleeping.shadow)])
+    try {
+      said.push([one.slug, await one.run(sleeping.change, sleeping.shadow)])
+    } catch (thrown) {
+      said.push([one.slug, [{ path: one.page, reason: `threw — ${String(thrown)}` }]])
+    }
   }
   return said
 }
