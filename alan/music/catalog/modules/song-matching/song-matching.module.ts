@@ -63,5 +63,10 @@ export const songMatching = {
       statement:
         "The song a track names is read whether or not that song is written as an address.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "A version word outside an aside and outside a tail is no reason to drop anything.",
+    },
   ],
 } as const satisfies Module

@@ -74,6 +74,12 @@ test("a tail naming neither a credit nor a version is part of the title", () => 
   expect(compositionTitle("Crush - Girls Trip")).toBe("Crush - Girls Trip")
 })
 
+test("a version word outside an aside and outside a tail is part of the title", () => {
+  expect(compositionTitle("Long Live")).toBe("Long Live")
+  expect(compositionTitle("Every Breath You Take")).toBe("Every Breath You Take")
+  expect(compositionTitle("34+35 Remix (feat. Doja Cat) - Remix")).toBe("34+35 Remix")
+})
+
 test("two titles are one title where they hold the same letters and digits", () => {
   expect(songKey("aurora", "Run-Away!")).toBe(songKey("aurora", "runaway"))
 })
