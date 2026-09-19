@@ -1,4 +1,7 @@
-import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
+import {
+  championTree,
+  type DomainRow,
+} from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { command } from "akasha/command/command.page-type.ts"
 import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import {
@@ -100,9 +103,12 @@ function commandNode(
   }
 }
 
-export function assembleCommandTree(given: string | Reading): CommandTree {
+export function assembleCommandTree(
+  given: string | Reading,
+  filed?: readonly DomainRow[]
+): CommandTree {
   const reading = readingIn(given)
-  const rows = domainRowsIn(reading)
+  const rows = filed ?? domainRowsIn(reading)
   const under = commandRoot(championTree(rows).roots)
   const definitions = definitionsOf(reading)
   const reached = new Set<string>()

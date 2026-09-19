@@ -31,6 +31,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.test.ts"}

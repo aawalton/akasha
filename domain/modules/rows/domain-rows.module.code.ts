@@ -40,13 +40,13 @@ export type Filed = {
   readonly drawn: boolean
 }
 
-function filedOf(path: string, value: Value, drawn: boolean): Filed | null {
+export function filedOf(path: string, value: Value, drawn: boolean): Filed | null {
   const id = textAt(value, ID)
   if (id === null) return null
   return { path, id, parts: partsIn(value), champions: textAt(value, CHAMPIONS), drawn }
 }
 
-function filedIn(given: string | Reading): readonly Filed[] {
+export function filedIn(given: string | Reading): readonly Filed[] {
   const reading = readingIn(given)
   const found = new Map<string, Filed>()
   for (const one of valuesOfType(reading, PERSONA)) {
@@ -116,7 +116,7 @@ function couldBeChampioned(
   return wanted
 }
 
-function domainsFrom(filed: readonly Filed[], reading: Reading): readonly DomainRow[] {
+export function domainsFrom(filed: readonly Filed[], reading: Reading): readonly DomainRow[] {
   const personas = personasIn(filed)
   const personaBy = personaSlugById(personas)
   const listed = filed.filter((one) => one.drawn)

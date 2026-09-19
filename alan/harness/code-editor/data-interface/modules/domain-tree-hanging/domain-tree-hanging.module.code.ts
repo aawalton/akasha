@@ -1,4 +1,7 @@
-import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
+import {
+  championTree,
+  type DomainRow,
+} from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -80,6 +83,9 @@ export function hungOnDomains(domains: readonly DomainNode[], hung: readonly Hun
   return { roots: [...rooted, ...loose], unreached }
 }
 
-export function domainsIn(given: string | Reading): readonly DomainNode[] {
-  return championTree(domainRowsIn(readingIn(given))).roots
+export function domainsIn(
+  given: string | Reading,
+  rows?: readonly DomainRow[]
+): readonly DomainNode[] {
+  return championTree(rows ?? domainRowsIn(readingIn(given))).roots
 }

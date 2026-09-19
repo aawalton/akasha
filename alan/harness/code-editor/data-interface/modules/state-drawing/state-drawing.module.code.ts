@@ -1,5 +1,6 @@
 import { join } from "node:path"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
+import { keptFor } from "akasha/alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"
 import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
 import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { assembleGapTree } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
@@ -7,6 +8,7 @@ import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface
 import {
   COMMAND_TREE,
   DOMAIN_TREE,
+  descentMoved,
   FINDING_TREE,
   GAP_TREE,
   PAGE_TREE,
@@ -14,10 +16,13 @@ import {
 } from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
+import {
+  championTree,
+  type DomainRow,
+} from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { pageAnswers } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
-import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
+import { domainsFrom, rowsFrom } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -62,8 +67,8 @@ function domainRow(root: string, node: DomainNode): DomainTreeRow {
   }
 }
 
-function domainTreeLine(root: string, given: string | Reading = root): string {
-  const built = championTree(domainRowsIn(given))
+function domainTreeLine(root: string, domains: readonly DomainRow[]): string {
+  const built = championTree(domains)
   return JSON.stringify({
     roots: built.roots.map((node) => domainRow(root, node as DomainNode)),
     unreached: built.unreached,
@@ -81,8 +86,8 @@ function findingRow(root: string, node: HungNode): FindingTreeRow {
   }
 }
 
-function findingTreeLine(root: string, given: string | Reading = root): string {
-  const built = assembleFindingTree(given)
+function findingTreeLine(root: string, given: Reading, domains: readonly DomainRow[]): string {
+  const built = assembleFindingTree(given, domains)
   return JSON.stringify({
     roots: built.roots.map((node) => findingRow(root, node)),
     unreached: built.unreached,
@@ -100,8 +105,8 @@ function gapRow(root: string, node: HungNode): GapTreeRow {
   }
 }
 
-function gapTreeLine(root: string, given: string | Reading = root): string {
-  const built = assembleGapTree(given)
+function gapTreeLine(root: string, given: Reading, domains: readonly DomainRow[]): string {
+  const built = assembleGapTree(given, domains)
   return JSON.stringify({
     roots: built.roots.map((node) => gapRow(root, node)),
     unreached: built.unreached,
@@ -127,7 +132,7 @@ function pageRow(root: string, node: PageNode): PageTreeRow {
   }
 }
 
-function pageTreeLine(root: string, given: string | Reading = root): string {
+function pageTreeLine(root: string, given: Reading): string {
   const built = assemblePageTree(pageAnswers(given), root)
   return JSON.stringify({
     roots: built.roots.map((node) => pageRow(root, node as PageNode)),
@@ -158,8 +163,8 @@ function commandRow(root: string, node: CommandNode): CommandTreeRow {
   }
 }
 
-function commandTreeLine(root: string, given: string | Reading = root): string {
-  const built = assembleCommandTree(given)
+function commandTreeLine(root: string, given: Reading, domains: readonly DomainRow[]): string {
+  const built = assembleCommandTree(given, domains)
   const under = built.roots.map((node) => commandRow(root, node))
   const roots: readonly CommandTreeRow[] = [
     {
@@ -187,16 +192,6 @@ export function stateAt(slug: string): string {
   return `${INTERFACES_AT}/${slug}/${slug}${STATE_TAIL}`
 }
 
-type Drawing = (root: string, given: string | Reading) => string
-
-const DRAWERS: readonly (readonly [string, Drawing])[] = [
-  [COMMAND_TREE, commandTreeLine],
-  [DOMAIN_TREE, domainTreeLine],
-  [FINDING_TREE, findingTreeLine],
-  [GAP_TREE, gapTreeLine],
-  [PAGE_TREE, pageTreeLine],
-]
-
 export function drawnFor(change: Change): Drawn {
   try {
     const turned = turnedIn(change)
@@ -205,12 +200,21 @@ export function drawnFor(change: Change): Drawn {
     if ("refused" in cast) return NOTHING_DRAWN
     const root = change.root
     const reading = cast.reading
-    const edits: FileChange[] = []
-    for (const [slug, drawing] of DRAWERS) {
+    const kept = keptFor(change, reading, descentMoved(change))
+    const domains = rowsFrom(domainsFrom(kept.rows, reading))
+    const edits: FileChange[] = [...kept.edits]
+    const drawers: readonly (readonly [string, () => string])[] = [
+      [COMMAND_TREE, () => commandTreeLine(root, reading, domains)],
+      [DOMAIN_TREE, () => domainTreeLine(root, domains)],
+      [FINDING_TREE, () => findingTreeLine(root, reading, domains)],
+      [GAP_TREE, () => gapTreeLine(root, reading, domains)],
+      [PAGE_TREE, () => pageTreeLine(root, reading)],
+    ]
+    for (const [slug, drawing] of drawers) {
       if (!turned.has(slug)) continue
       if (listedAt(reading, INTERFACE_TYPE, slug).length === 0) continue
       const path = stateAt(slug)
-      const body = `${drawing(root, reading)}\n`
+      const body = `${drawing()}\n`
       const was = textOf(diskAt(root, path))
       if (was === body) continue
       edits.push(

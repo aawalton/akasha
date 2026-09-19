@@ -135,6 +135,13 @@ function findingMoved(one: Moved): boolean {
   return moved(one, DOMAIN) || moved(one, CLAIM)
 }
 
+export function descentMoved(change: Change): boolean {
+  if (change.changed.some((path) => path.endsWith(REFERENCED_BY))) return true
+  return movedIn(change).some(
+    (one) => one.pageType === PAGE_TYPE && (appeared(one) || moved(one, EXTENDS))
+  )
+}
+
 export function turnedIn(change: Change): ReadonlySet<string> {
   const pages = movedIn(change)
   const turned = new Set<string>()

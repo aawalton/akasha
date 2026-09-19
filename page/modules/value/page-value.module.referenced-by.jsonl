@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts"}
