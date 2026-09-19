@@ -38,5 +38,7 @@ export const ainePatreon = {
     "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
     "A contributor's contribution points are one pool across every product, and every reading of them is filtered to one product.",
     "The contribution points proposing a feature request costs buy Alan's review and are spent whether or not he publishes that request.",
+    "A feature request has no price, and the contribution points committed to it only order the queue Alan reviews.",
+    "A contributor signs in at alanwalton.com, and the payment the vendor reports is matched to that sign-in by email address.",
   ],
 } as const satisfies Initiative
