@@ -9,4 +9,5 @@
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/remove-page/remove-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"remove-file-of-any-kind.change-mechanical.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/remove/change-mechanical-file-remove.domain.ts","id":"01a07cbe-1911-72dc-869f-8e733656bc1b"}

@@ -1,4 +1,6 @@
 import { resolve } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { initiative } from "akasha/command/argument/pages/initiative.argument.ts"
@@ -22,7 +24,7 @@ import { textAt } from "akasha/page/modules/value-reading/page-value-reading.mod
 
 const ID = "id"
 
-const CARRIES = "change-mechanical/remove-file-of-any-kind"
+const CARRIES = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 const REFRESH = "the index files those names until `akasha index refresh` runs"
 

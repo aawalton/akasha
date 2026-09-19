@@ -2,6 +2,8 @@ import { resolve } from "node:path"
 import { seatNameFor } from "akasha/agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.code.ts"
 import { statedProcessPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { changePagePagePropertyRelation } from "akasha/change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { initiative } from "akasha/command/argument/pages/initiative.argument.ts"
@@ -18,7 +20,8 @@ import { initiativeAssign as page } from "akasha/command/pages/initiative/assign
 import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
-const CARRIES = "change-mechanical-file-content/change-page-page-property-relation"
+const CARRIES =
+  `${changeMechanicalFileContent.slug}/${changePagePagePropertyRelation.slug}` as const
 
 const SEAT = "seat"
 

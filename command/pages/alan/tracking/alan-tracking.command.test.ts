@@ -7,6 +7,8 @@ import {
   FOOD_ENTRIES_AT,
   outsideTracked,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -34,7 +36,7 @@ const ROWS_AT = `${DAYS_AT}2026-09-01/day-2026-09-01.day.sessions.jsonl`
 
 const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
 
-const ADDS = "change-mechanical/add-file-of-any-kind"
+const ADDS = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const DAY = "the day this call composed\n"
 
