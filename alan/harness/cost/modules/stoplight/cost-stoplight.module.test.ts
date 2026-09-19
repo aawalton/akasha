@@ -3,6 +3,10 @@ import {
   answerCostAdmittedBy,
   costStoplights,
 } from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"
+import { cost as costGroup } from "akasha/alan/harness/readout/group/pages/cost/cost.readout-group.ts"
+import { surplus as surplusGroup } from "akasha/alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"
+import { upkeep as upkeepGroup } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
+import { readoutGroup } from "akasha/alan/harness/readout/group/readout-group.page-type.ts"
 import type { Stoplight } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   agedOut,
@@ -12,6 +16,8 @@ import {
   servingStore,
   storeGoes,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import { surplusHours as surplusHoursScale } from "akasha/alan/harness/readout/scale/pages/surplus-hours.readout-scale.ts"
+import { readoutScale } from "akasha/alan/harness/readout/scale/readout-scale.page-type.ts"
 
 const COST = "cost-multiplier"
 
@@ -22,7 +28,7 @@ const COST_ROW = {
   label: "Cost",
   place: 1,
   wireKey: "cost",
-  groups: ["readout-group/cost"],
+  groups: [`${readoutGroup.slug}/${costGroup.slug}`],
 }
 
 const SURPLUS_ROW = {
@@ -30,9 +36,9 @@ const SURPLUS_ROW = {
   label: "Surplus",
   unit: "hours",
   place: 2,
-  scale: "readout-scale/surplus-hours",
+  scale: `${readoutScale.slug}/${surplusHoursScale.slug}`,
   wireKey: "surplus",
-  groups: ["readout-group/upkeep", "readout-group/surplus"],
+  groups: [`${readoutGroup.slug}/${upkeepGroup.slug}`, `${readoutGroup.slug}/${surplusGroup.slug}`],
 }
 
 const SCALE_ROW = {
