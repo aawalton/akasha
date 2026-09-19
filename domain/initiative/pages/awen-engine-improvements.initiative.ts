@@ -7,11 +7,11 @@ export const awenEngineImprovements = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   intentStack: [
+    { statement: "Every page under story sits in the structure Alan approved." },
     {
       statement:
         "A turn, a rulebook and a mechanic designed as one replace what the engine holds now.",
     },
     { statement: "No story-design-note holds content another page type would carry." },
-    { statement: "Every page under story sits in the structure Alan approved." },
   ],
 } as const satisfies Initiative
