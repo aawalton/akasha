@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const flameVeil = {
+  id: "01a06572-95c3-715c-95d1-9c1282a83eec",
+  type: "page-type/world-spell",
+  slug: "flame-veil",
+  title: "Flame Veil",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

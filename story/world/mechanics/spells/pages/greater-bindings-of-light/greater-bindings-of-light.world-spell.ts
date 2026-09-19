@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const greaterBindingsOfLight = {
+  id: "01a06572-95c7-708c-affb-73cc9adadacb",
+  type: "page-type/world-spell",
+  slug: "greater-bindings-of-light",
+  title: "Greater Bindings of Light",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const avalancheOfTheStoneGiant = {
+  id: "01a06572-95b5-75ef-a2d2-7e59b653e413",
+  type: "page-type/world-spell",
+  slug: "avalanche-of-the-stone-giant",
+  title: "Avalanche of the Stone Giant",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

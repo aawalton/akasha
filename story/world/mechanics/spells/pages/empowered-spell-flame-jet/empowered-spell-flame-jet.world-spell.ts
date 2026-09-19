@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const empoweredSpellFlameJet = {
+  id: "01a06572-95bf-7207-9b0b-d045f87ddc3b",
+  type: "page-type/world-spell",
+  slug: "empowered-spell-flame-jet",
+  title: "Empowered Spell: Flame Jet",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

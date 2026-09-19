@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const plagueOfFilth = {
+  id: "01a06572-95db-75bb-bee3-0b2624208659",
+  type: "page-type/world-spell",
+  slug: "plague-of-filth",
+  title: "Plague of Filth",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

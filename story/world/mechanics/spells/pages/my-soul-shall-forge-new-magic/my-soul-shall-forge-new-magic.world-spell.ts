@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const mySoulShallForgeNewMagic = {
+  id: "01a06572-95d9-747b-b057-a20bbcefc40b",
+  type: "page-type/world-spell",
+  slug: "my-soul-shall-forge-new-magic",
+  title: "My Soul Shall Forge New Magic",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

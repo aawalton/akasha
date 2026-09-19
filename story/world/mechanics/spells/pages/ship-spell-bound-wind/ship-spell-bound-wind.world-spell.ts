@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const shipSpellBoundWind = {
+  id: "01a06572-95e0-75e7-a6af-d236c824e579",
+  type: "page-type/world-spell",
+  slug: "ship-spell-bound-wind",
+  title: "Ship Spell: Bound Wind",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

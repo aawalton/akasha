@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const ailendamusLancearrows = {
+  id: "01a06572-95b3-7e50-acd3-85cf5ae7f999",
+  type: "page-type/world-spell",
+  slug: "ailendamus-lancearrows",
+  title: "Ailendamus’ Lancearrows",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

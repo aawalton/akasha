@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const clairvoyance = {
+  id: "01a06572-95b9-7128-bf41-f66c8c9f1a4f",
+  type: "page-type/world-spell",
+  slug: "clairvoyance",
+  title: "Clairvoyance",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

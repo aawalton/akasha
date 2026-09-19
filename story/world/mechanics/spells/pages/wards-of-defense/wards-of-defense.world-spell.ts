@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const wardsOfDefense = {
+  id: "01a06572-95e9-73e6-9949-2cb01c23c34c",
+  type: "page-type/world-spell",
+  slug: "wards-of-defense",
+  title: "Wards of Defense",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

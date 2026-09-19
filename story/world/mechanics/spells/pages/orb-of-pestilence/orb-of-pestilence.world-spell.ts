@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const orbOfPestilence = {
+  id: "01a06572-95da-7865-ac22-23f8cbce4e76",
+  type: "page-type/world-spell",
+  slug: "orb-of-pestilence",
+  title: "Orb of Pestilence",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

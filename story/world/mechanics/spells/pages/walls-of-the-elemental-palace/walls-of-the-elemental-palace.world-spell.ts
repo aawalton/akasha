@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const wallsOfTheElementalPalace = {
+  id: "01a06572-95e9-7b0c-90e8-c37f1ef853fa",
+  type: "page-type/world-spell",
+  slug: "walls-of-the-elemental-palace",
+  title: "Walls of the Elemental Palace",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

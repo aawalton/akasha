@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const slipperyShadow = {
+  id: "01a06572-95e1-7007-b0a2-8aa011572e0b",
+  type: "page-type/world-spell",
+  slug: "slippery-shadow",
+  title: "Slippery Shadow",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

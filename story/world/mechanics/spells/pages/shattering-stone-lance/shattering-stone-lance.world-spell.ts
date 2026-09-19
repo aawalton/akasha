@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const shatteringStoneLance = {
+  id: "01a06572-95e0-7306-af2b-83b6f67ecc7f",
+  type: "page-type/world-spell",
+  slug: "shattering-stone-lance",
+  title: "Shattering Stone Lance",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

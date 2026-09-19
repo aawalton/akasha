@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const autocastIceSpikes = {
+  id: "01a06572-95b5-7d52-bfc5-884c21b26b7f",
+  type: "page-type/world-spell",
+  slug: "autocast-ice-spikes",
+  title: "Autocast: Ice Spikes",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

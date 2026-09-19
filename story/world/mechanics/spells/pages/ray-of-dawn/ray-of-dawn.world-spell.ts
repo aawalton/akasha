@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const rayOfDawn = {
+  id: "01a06572-95dc-7d1c-80d8-2074372371af",
+  type: "page-type/world-spell",
+  slug: "ray-of-dawn",
+  title: "Ray of Dawn",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

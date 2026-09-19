@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const windsOfZeikhal = {
+  id: "01a06572-95ea-7ab0-ae42-edb7525c5fe2",
+  type: "page-type/world-spell",
+  slug: "winds-of-zeikhal",
+  title: "Winds of Zeikhal",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

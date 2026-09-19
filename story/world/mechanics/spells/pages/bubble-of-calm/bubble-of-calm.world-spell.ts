@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const bubbleOfCalm = {
+  id: "01a06572-95b7-79d7-b599-10ed52d64268",
+  type: "page-type/world-spell",
+  slug: "bubble-of-calm",
+  title: "Bubble of Calm",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

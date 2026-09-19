@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const enchantmentAdamantiumSStrength = {
+  id: "01a06572-95bf-7bf4-a28e-f701316d8717",
+  type: "page-type/world-spell",
+  slug: "enchantment-adamantium-s-strength",
+  title: "Enchantment: Adamantium’s Strength",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

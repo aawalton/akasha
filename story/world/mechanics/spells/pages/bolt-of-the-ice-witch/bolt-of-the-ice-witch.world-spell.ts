@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const boltOfTheIceWitch = {
+  id: "01a06572-95b7-79bf-b52a-39c5172d1eb5",
+  type: "page-type/world-spell",
+  slug: "bolt-of-the-ice-witch",
+  title: "Bolt of the Ice Witch",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

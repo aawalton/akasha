@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const manaBurst = {
+  id: "01a06572-95d1-764e-8173-ed174c4cd1dd",
+  type: "page-type/world-spell",
+  slug: "mana-burst",
+  title: "Mana Burst",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

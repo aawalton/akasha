@@ -1,0 +1,11 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const fiveFoldArcaneBarrier = {
+  id: "01a06572-95c3-7cb8-bb87-48316d075d54",
+  type: "page-type/world-spell",
+  slug: "five-fold-arcane-barrier",
+  title: "Five-Fold Arcane Barrier",
+  world: "world/the-wandering-inn",
+  aliases: ["Five-fold Arcane Barrier"],
+  references: "jsonl",
+} as const satisfies WorldSpell

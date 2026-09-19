@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const acidOrb = {
+  id: "01a06572-95b3-7c38-9cce-4ab225b4140c",
+  type: "page-type/world-spell",
+  slug: "acid-orb",
+  title: "Acid Orb",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

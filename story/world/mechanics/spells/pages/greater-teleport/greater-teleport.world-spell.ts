@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const greaterTeleport = {
+  id: "01a06572-95c7-7147-9436-151f7ce62450",
+  type: "page-type/world-spell",
+  slug: "greater-teleport",
+  title: "Greater Teleport",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

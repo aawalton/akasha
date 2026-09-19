@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const boundSpellUmChainLightning = {
+  id: "01a06572-95b7-7722-b724-4e6bc8b17248",
+  type: "page-type/world-spell",
+  slug: "bound-spell-um-chain-lightning",
+  title: "Bound Spell…um…Chain Lightning",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

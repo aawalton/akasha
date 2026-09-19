@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const massSilence = {
+  id: "01a06572-95d2-7918-9f39-e9859e86f4c4",
+  type: "page-type/world-spell",
+  slug: "mass-silence",
+  title: "Mass Silence",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const spell15SecondMessage = {
+  id: "01a06572-95b2-7538-9024-2589e2d0262a",
+  type: "page-type/world-spell",
+  slug: "spell-15-second-message",
+  title: "15 Second Message",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

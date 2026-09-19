@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const enhanceSpellParalysis = {
+  id: "01a06572-95bf-7dad-bc57-6fae518dd8d1",
+  type: "page-type/world-spell",
+  slug: "enhance-spell-paralysis",
+  title: "Enhance Spell: Paralysis",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const earbreakSiren = {
+  id: "01a06572-95be-7d2e-aa78-f323dfa52d74",
+  type: "page-type/world-spell",
+  slug: "earbreak-siren",
+  title: "Earbreak Siren",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

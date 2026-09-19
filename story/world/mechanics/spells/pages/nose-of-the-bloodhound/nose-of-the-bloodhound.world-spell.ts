@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const noseOfTheBloodhound = {
+  id: "01a06572-95d9-714e-bcea-3f80975cdc87",
+  type: "page-type/world-spell",
+  slug: "nose-of-the-bloodhound",
+  title: "Nose of the Bloodhound",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

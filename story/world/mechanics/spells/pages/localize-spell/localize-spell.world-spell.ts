@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const localizeSpell = {
+  id: "01a06572-95d0-7903-a091-a8e5bb6c9bad",
+  type: "page-type/world-spell",
+  slug: "localize-spell",
+  title: "Localize Spell",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

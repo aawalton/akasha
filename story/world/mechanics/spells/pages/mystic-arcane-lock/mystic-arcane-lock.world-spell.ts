@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const mysticArcaneLock = {
+  id: "01a06572-95d9-73fa-981d-47f175c6c43a",
+  type: "page-type/world-spell",
+  slug: "mystic-arcane-lock",
+  title: "Mystic Arcane Lock",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

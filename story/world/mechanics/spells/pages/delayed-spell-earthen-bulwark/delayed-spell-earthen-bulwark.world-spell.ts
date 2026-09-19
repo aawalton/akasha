@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const delayedSpellEarthenBulwark = {
+  id: "01a06572-95bc-7dc0-850b-d55a22e13d00",
+  type: "page-type/world-spell",
+  slug: "delayed-spell-earthen-bulwark",
+  title: "Delayed Spell: Earthen Bulwark",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

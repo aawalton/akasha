@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const waterwalk = {
+  id: "01a06572-95e9-716d-a0bd-af2d50289020",
+  type: "page-type/world-spell",
+  slug: "waterwalk",
+  title: "Waterwalk",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const greaterIllusion = {
+  id: "01a06572-95c7-7da6-8091-da035b9c7451",
+  type: "page-type/world-spell",
+  slug: "greater-illusion",
+  title: "Greater Illusion",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

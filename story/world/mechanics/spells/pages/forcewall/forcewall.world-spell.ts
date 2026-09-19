@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const forcewall = {
+  id: "01a06572-95c5-7b05-8468-3ec985ef3aef",
+  type: "page-type/world-spell",
+  slug: "forcewall",
+  title: "Forcewall",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

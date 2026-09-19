@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const appraisalOfTheWorldSEye = {
+  id: "01a06572-95b4-7d0a-935f-c153237bd26a",
+  type: "page-type/world-spell",
+  slug: "appraisal-of-the-world-s-eye",
+  title: "Appraisal of the World’s Eye",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

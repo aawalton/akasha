@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const hiccupRemoval = {
+  id: "01a06572-95c8-794e-9a1c-bc104e163f18",
+  type: "page-type/world-spell",
+  slug: "hiccup-removal",
+  title: "Hiccup Removal",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const homingFireballs = {
+  id: "01a06572-95c8-7435-b477-ea4a05f23e1c",
+  type: "page-type/world-spell",
+  slug: "homing-fireballs",
+  title: "Homing Fireballs",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

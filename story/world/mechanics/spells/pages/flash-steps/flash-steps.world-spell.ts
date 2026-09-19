@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const flashSteps = {
+  id: "01a06572-95c4-714f-9d05-ac681f7070e8",
+  type: "page-type/world-spell",
+  slug: "flash-steps",
+  title: "Flash Steps",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

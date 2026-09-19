@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const thornSpray = {
+  id: "01a06572-95e6-78a7-93c3-b58637325a30",
+  type: "page-type/world-spell",
+  slug: "thorn-spray",
+  title: "Thorn Spray",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

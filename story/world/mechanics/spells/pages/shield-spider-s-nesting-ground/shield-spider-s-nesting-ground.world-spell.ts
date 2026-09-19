@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const shieldSpiderSNestingGround = {
+  id: "01a06572-95e0-7225-a3a8-d9abe73e7787",
+  type: "page-type/world-spell",
+  slug: "shield-spider-s-nesting-ground",
+  title: "Shield Spider’s Nesting Ground",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const beamOfFire = {
+  id: "01a06572-95b5-7bb2-b33d-06353c958c8e",
+  type: "page-type/world-spell",
+  slug: "beam-of-fire",
+  title: "Beam of Fire",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

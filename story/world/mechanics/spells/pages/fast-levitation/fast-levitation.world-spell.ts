@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const fastLevitation = {
+  id: "01a06572-95c0-7f79-a1a9-9b152dafd8b0",
+  type: "page-type/world-spell",
+  slug: "fast-levitation",
+  title: "Fast Levitation",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

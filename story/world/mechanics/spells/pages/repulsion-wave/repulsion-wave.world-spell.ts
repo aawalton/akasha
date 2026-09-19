@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const repulsionWave = {
+  id: "01a06572-95dd-7631-8223-afb94c97866a",
+  type: "page-type/world-spell",
+  slug: "repulsion-wave",
+  title: "Repulsion Wave",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

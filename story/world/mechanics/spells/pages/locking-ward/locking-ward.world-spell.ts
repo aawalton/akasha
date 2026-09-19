@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const lockingWard = {
+  id: "01a06572-95d0-7463-aa0c-88ca91e7ab05",
+  type: "page-type/world-spell",
+  slug: "locking-ward",
+  title: "Locking Ward",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

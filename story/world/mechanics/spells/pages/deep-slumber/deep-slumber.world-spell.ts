@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const deepSlumber = {
+  id: "01a06572-95bc-789f-97a9-ccab47c4edb9",
+  type: "page-type/world-spell",
+  slug: "deep-slumber",
+  title: "Deep Slumber",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

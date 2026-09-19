@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const pinpointSpellNeedleSFocus = {
+  id: "01a06572-95db-7790-a83c-8bbc4ce3bd38",
+  type: "page-type/world-spell",
+  slug: "pinpoint-spell-needle-s-focus",
+  title: "Pinpoint Spell: Needle’s Focus",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

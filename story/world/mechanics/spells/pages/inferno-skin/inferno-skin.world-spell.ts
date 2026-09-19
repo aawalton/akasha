@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const infernoSkin = {
+  id: "01a06572-95cb-7503-92ad-ec66f4d24b04",
+  type: "page-type/world-spell",
+  slug: "inferno-skin",
+  title: "Inferno Skin",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

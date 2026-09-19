@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const massQuickening = {
+  id: "01a06572-95d2-798f-a87f-c7c2d88d1ff1",
+  type: "page-type/world-spell",
+  slug: "mass-quickening",
+  title: "Mass Quickening",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

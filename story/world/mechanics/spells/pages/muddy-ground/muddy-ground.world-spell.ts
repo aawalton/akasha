@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const muddyGround = {
+  id: "01a06572-95d9-79ee-8354-9fdf43b98619",
+  type: "page-type/world-spell",
+  slug: "muddy-ground",
+  title: "Muddy Ground",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

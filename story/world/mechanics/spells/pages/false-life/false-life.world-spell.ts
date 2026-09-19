@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const falseLife = {
+  id: "01a06572-95bf-7fb6-adef-e3427763ae7c",
+  type: "page-type/world-spell",
+  slug: "false-life",
+  title: "False Life",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

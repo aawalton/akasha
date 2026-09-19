@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const arrowOfGravity = {
+  id: "01a06572-95b4-7e38-9679-32d1879722e2",
+  type: "page-type/world-spell",
+  slug: "arrow-of-gravity",
+  title: "Arrow of Gravity",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

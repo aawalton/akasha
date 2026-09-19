@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const coordinateLock = {
+  id: "01a06572-95bb-7917-83a1-cc1ad96100e0",
+  type: "page-type/world-spell",
+  slug: "coordinate-lock",
+  title: "Coordinate Lock",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

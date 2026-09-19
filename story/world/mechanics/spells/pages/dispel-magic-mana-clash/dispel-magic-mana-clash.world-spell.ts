@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const dispelMagicManaClash = {
+  id: "01a06572-95be-7c14-ab91-03c3efd6c919",
+  type: "page-type/world-spell",
+  slug: "dispel-magic-mana-clash",
+  title: "Dispel Magic: Mana Clash",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const summonTheThrone = {
+  id: "01a06572-95e4-7d0f-b154-9ed947767582",
+  type: "page-type/world-spell",
+  slug: "summon-the-throne",
+  title: "Summon the Throne",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

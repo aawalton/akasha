@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world/mechanics/spells/world-spell.page-type.types.ts"
+
+export const deafening = {
+  id: "01a06572-95bb-7166-9700-da0a80a1cc40",
+  type: "page-type/world-spell",
+  slug: "deafening",
+  title: "Deafening",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell
