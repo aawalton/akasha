@@ -24,7 +24,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That second page is a domain of the page type's slug.",
+      statement: "The second page the folder may have is a domain of the page type's slug.",
     },
     {
       decisionKind: "decision-kind/departure",
