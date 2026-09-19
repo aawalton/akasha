@@ -285,6 +285,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts","id":"01a08243-41cd-7873-9af3-308bc9152b5d"}
 {"propertySlug":"decision-kind","path":"file/disk/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
+{"propertySlug":"decision-kind","path":"infrastructure/auth/auth.domain.ts","id":"01a07392-d13f-7657-b149-543047125f73"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.ts","id":"01a091dd-3f89-71f8-8712-76e7c7de9a53"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.ts","id":"01a06813-7b0f-715d-8205-05e5a2b14b85"}

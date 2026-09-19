@@ -55,5 +55,13 @@ export const auth = {
       decisionKind: "decision-kind/departure",
       statement: "A refusal names the provider that address already signs in with.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "No cookie crosses from the browser a sign-in opens to the app that opened it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An app signs in by trading a one-time code for a session of its own.",
+    },
   ],
 } as const satisfies Domain
