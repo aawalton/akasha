@@ -6,7 +6,20 @@ export const aelwynStrengthTraining = {
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "persona/aelwyn",
-  intentStack: [],
+  intentStack: [
+    {
+      statement:
+        "The raise names one cardio movement, drawn from the catalogue and fitted to the work to come.",
+      workingMemory:
+        "Alan says the raise is underspecified: today it says only 5 minutes easy. Every strength-exercise page reaches the selector through week.movements, cardio ones included.",
+    },
+    {
+      statement:
+        "The raise movement varies from session to session rather than coming up the same every time.",
+      workingMemory:
+        "Alan asked for variety. Nothing logs a raise today, so recency cannot order the cardio movements the way it orders strength ones.",
+    },
+  ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
     "The fitness coaching notes bind what Alan is programmed to do; this initiative settles what is tracked.",
