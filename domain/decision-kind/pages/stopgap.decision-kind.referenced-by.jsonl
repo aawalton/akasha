@@ -71,7 +71,6 @@
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-slug.text-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/events-addon/modules/next-boss-state/next-boss-state.module.ts","id":"01a06157-8356-706b-948b-6f8dae0434bf"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-inventory-snapshot/properties/data.file-property.ts","id":"01a0675d-04be-72a0-82d2-910e3f2f80d3"}
 {"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
 {"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
 {"propertySlug":"decision-kind","path":"temper/lib-alchemy-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}

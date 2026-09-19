@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/character/temper-account-character/temper-account-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
-{"propertySlug":"page-property","path":"temper/holdings/temper-inventory-snapshot/properties/crafting-levels.page-property-entry.ts","id":"01a0675a-f185-75b8-8e9b-97a031246492"}
-{"propertySlug":"page-property","path":"temper/holdings/temper-inventory-snapshot/properties/currencies.page-property-entry.ts","id":"01a0675a-f185-764c-991b-b24e3698ed52"}
+{"propertySlug":"page-property","path":"temper/character/temper-account/properties/crafting-levels.page-property-entry.ts","id":"01a0675a-f185-75b8-8e9b-97a031246492"}
+{"propertySlug":"page-property","path":"temper/character/temper-account/properties/currencies.page-property-entry.ts","id":"01a0675a-f185-764c-991b-b24e3698ed52"}
 {"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"parts","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}

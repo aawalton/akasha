@@ -149,9 +149,8 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/temper-companion/skill/properties/special-effect.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/temper-world/temper-dungeon/properties/quest-giver.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/character/temper-account-character/properties/character-roles.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/character/temper-account/properties/currency-key.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/character/temper-companion-progress/properties/companion-roles.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/holdings/temper-inventory-chunk/properties/inventory.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/holdings/temper-inventory-snapshot/properties/currency-key.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-inventory-rule/properties/from-template.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-rule/properties/action.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-rule/properties/condition-field.relation-property.types.ts"}

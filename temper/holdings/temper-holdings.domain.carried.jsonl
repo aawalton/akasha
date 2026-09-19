@@ -1,5 +1,5 @@
 {"definition":"what an account has and what the holdings are worth"}
 {"id":"01a05fac-7582-7d58-82ce-cb03ba05751f"}
-{"parts":["page-type/temper-guild-trader","page-type/temper-holdings-thing","page-type/temper-inventory-chunk","page-type/temper-inventory-currency","page-type/temper-inventory-snapshot","page-type/temper-item-category-tree","page-type/temper-net-worth-hour","page-type/temper-sale"]}
+{"parts":["page-type/temper-guild-trader","page-type/temper-holdings-thing","page-type/temper-inventory-currency","page-type/temper-item-category-tree","page-type/temper-net-worth-hour","page-type/temper-sale"]}
 {"slug":"temper-holdings"}
 {"type":"page-type/domain"}

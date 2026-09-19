@@ -36,7 +36,6 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"observed-at","propertySlug":"observed-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"played-at","propertySlug":"played-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"published-at","propertySlug":"published-at","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"ready-at","propertySlug":"ready-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"removed-at","propertySlug":"removed-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"restart-armed-at","propertySlug":"armed-at","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"retry-allowed-at","propertySlug":"retry-allowed-at","fileName":null,"folderName":null,"sorted":false}

@@ -220,8 +220,8 @@
 {"propertySlug":"page-property","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"page-property","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"page-property","path":"story/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
+{"propertySlug":"page-property","path":"temper/character/temper-account/properties/placed-furnishings.page-property-entry.ts","id":"01a0675a-f185-72b3-a56a-b5708ff6924e"}
+{"propertySlug":"page-property","path":"temper/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
 {"propertySlug":"page-property","path":"temper/character/temper-mine/properties/items.page-property-entry.ts","id":"01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8"}
 {"propertySlug":"page-property","path":"temper/character/temper-mine/properties/quests.page-property-entry.ts","id":"01a05fcd-f553-7ed3-91d3-7f2ba2527f00"}
-{"propertySlug":"page-property","path":"temper/holdings/temper-inventory-snapshot/properties/placed-furnishings.page-property-entry.ts","id":"01a0675a-f185-72b3-a56a-b5708ff6924e"}
-{"propertySlug":"page-property","path":"temper/holdings/temper-inventory-snapshot/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

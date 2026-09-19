@@ -1,5 +1,3 @@
-{"propertySlug":"extends-type","path":"temper/holdings/temper-inventory-snapshot/temper-inventory-snapshot.page-type.ts","id":"01a05fcb-fd2d-7480-88fb-8cc035361a6e"}
 {"propertySlug":"extends-type","path":"temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","id":"01a06006-154f-7344-ae3b-0de4c53132dc"}
-{"propertySlug":"import","fileName":"temper-holdings-thing.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/temper-inventory-snapshot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-holdings-thing.page-type.types.ts","path":"temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.types.ts"}
 {"propertySlug":"parts","path":"temper/holdings/temper-holdings.domain.ts","id":"01a05fac-7582-7d58-82ce-cb03ba05751f"}

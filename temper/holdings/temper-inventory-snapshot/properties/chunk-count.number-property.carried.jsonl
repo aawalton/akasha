@@ -1,7 +1,0 @@
-{"definition":"how many files one reading of an inventory was cut into"}
-{"id":"01a05fcb-fd2d-7dd6-91a7-ef600287f306"}
-{"max":null}
-{"propertySlug":"chunk-count"}
-{"slug":"chunk-count"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

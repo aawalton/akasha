@@ -1,7 +1,6 @@
 {"propertySlug":"extends-type","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"extends-type","path":"temper/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"extends-type","path":"temper/holdings/temper-guild-trader/temper-guild-trader.page-type.ts","id":"01a05fcb-fd2c-7cff-9144-3d6612a42fa5"}
-{"propertySlug":"extends-type","path":"temper/holdings/temper-inventory-chunk/temper-inventory-chunk.page-type.ts","id":"01a05fcb-fd2f-718b-84ca-d9cdeb890706"}
 {"propertySlug":"extends-type","path":"temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts","id":"01a05fcb-fd2c-79e2-b426-908dcfb8bf4a"}
 {"propertySlug":"extends-type","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
 {"propertySlug":"extends-type","path":"temper/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
@@ -10,7 +9,6 @@
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/character/thing/temper-character-thing.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"}
-{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/holdings/temper-inventory-chunk/temper-inventory-chunk.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/holdings/temper-sale/temper-sale.page-type.types.ts"}

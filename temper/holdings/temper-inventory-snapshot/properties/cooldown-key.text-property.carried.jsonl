@@ -1,8 +1,0 @@
-{"definition":"the string the game names a timed activity by"}
-{"id":"01a0675a-f185-7261-8c87-615e5578b628"}
-{"maxLength":100}
-{"nameFormat":null}
-{"propertySlug":"cooldown-key"}
-{"slug":"cooldown-key"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

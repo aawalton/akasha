@@ -53,10 +53,9 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/chapter-read/properties/marked-read-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/chapter-read/properties/removed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/catalog/temper-world/properties/captured-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/character/temper-account/properties/last-full-scan-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/character/temper-account/properties/last-scanned-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/character/temper-mine/properties/mined-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/properties/last-full-scan-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/properties/last-scanned-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/holdings/temper-inventory-snapshot/properties/ready-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/holdings/temper-sale/properties/sold-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-inventory-rule/properties/updated-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-task/properties/completed-at.instant-property.ts"}

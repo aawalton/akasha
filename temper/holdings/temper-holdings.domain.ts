@@ -8,9 +8,7 @@ export const temperHoldings = {
   parts: [
     "page-type/temper-guild-trader",
     "page-type/temper-holdings-thing",
-    "page-type/temper-inventory-chunk",
     "page-type/temper-inventory-currency",
-    "page-type/temper-inventory-snapshot",
     "page-type/temper-item-category-tree",
     "page-type/temper-net-worth-hour",
     "page-type/temper-sale",

@@ -15,4 +15,4 @@
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.types.ts","path":"temper/holdings/temper-inventory-currency/pages/undaunted-keys.temper-inventory-currency.ts"}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.types.ts","path":"temper/holdings/temper-inventory-currency/pages/writ-vouchers.temper-inventory-currency.ts"}
 {"propertySlug":"parts","path":"temper/holdings/temper-holdings.domain.ts","id":"01a05fac-7582-7d58-82ce-cb03ba05751f"}
-{"propertySlug":"target-page-type","path":"temper/holdings/temper-inventory-snapshot/properties/currency-key.relation-property.ts","id":"01a0675a-f185-7f59-addb-d7ce1343c8c9"}
+{"propertySlug":"target-page-type","path":"temper/character/temper-account/properties/currency-key.relation-property.ts","id":"01a0675a-f185-7f59-addb-d7ce1343c8c9"}
