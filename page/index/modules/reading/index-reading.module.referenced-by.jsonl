@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts"}

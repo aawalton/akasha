@@ -181,6 +181,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
