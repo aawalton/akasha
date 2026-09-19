@@ -5,7 +5,7 @@ export const watcherSettingsConsumables = {
   type: "page-type/module",
   slug: "watcher-settings-consumables",
   definition:
-    "the consumables a build asks for, the stock held of them, and the inventory snapshot behind both",
+    "the consumables a build asks for, the stock held of them, and the account inventory behind both",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,11 +23,11 @@ export const watcherSettingsConsumables = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The latest snapshot is the snapshot captured last.",
+      statement: "An account holds one inventory, the one its last reading wrote.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the keys a read uses are asked of a snapshot row.",
+      statement: "Only the keys a read uses are asked of an account row.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,15 +41,7 @@ export const watcherSettingsConsumables = {
       decisionKind: "decision-kind/departure",
       statement: "Buy stock is unavailable and empty where no snapshot could be read.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Chunks are joined in the order of their chunk index.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A chunk count the snapshot declares that the chunk rows do not match is a failure.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "An account holding no inventory settings at all is answered an empty rule set.",
