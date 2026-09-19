@@ -90,17 +90,24 @@ struct StoplightsActivityView: View {
     }
 }
 
-// THE ISLAND DROPS THE GROUP NAMES AND LETS THE THIRTEEN RINGS SHARE THE WIDTH.
+// THE ISLAND DROPS THE GROUP NAMES AND KEEPS THE GROUPS APART BY A GAP INSTEAD.
 //
 // Naming the groups costs the width of three captions, and the island is already narrower
-// than the lock screen. The rings keep the order the rows have, so the groups are still read
-// off the run of them.
+// than the lock screen. Order alone does not say where one group ends, so a gap wider than
+// the one between rings says it, and the thirteen still share the width evenly.
 struct StoplightsIslandView: View {
     let state: StoplightsAttributes.ContentState
 
+    private var opensAGroup: Set<Int> {
+        [state.upkeep.count, state.upkeep.count + state.inboxes.count]
+    }
+
     var body: some View {
         HStack(spacing: SPACING_1) {
-            ForEach(state.all) { light in
+            ForEach(Array(state.all.enumerated()), id: \.element.id) { at, light in
+                if opensAGroup.contains(at) {
+                    Color.clear.frame(width: SPACING_2)
+                }
                 StoplightRing(
                     tier: light.drawn,
                     reading: light.reading,

@@ -21,6 +21,10 @@ export const alanwaltonStoplightsActivity = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A gap wider than the one between rings is where a group ends and the next opens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The one mark a compact island has room for is the worst color reached.",
     },
     {
