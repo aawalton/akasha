@@ -111,5 +111,10 @@ export const warming = {
       statement:
         "A movement raises where its own page says Alan can take it cold, and by nothing else.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The seconds a raise allows bound how many raises the run holds rather than what Alan is told.",
+    },
   ],
 } as const satisfies Module

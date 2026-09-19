@@ -8,6 +8,7 @@
 {"recencySaturationDays":21}
 {"recencyWeight":0.05}
 {"repsBeforeSlowing":20}
+{"repsWarmingUp":10}
 {"secondsPerRaise":60}
 {"slug":"selection-policy"}
 {"type":"page-type/selection-policy"}

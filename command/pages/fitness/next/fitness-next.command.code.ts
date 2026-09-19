@@ -99,6 +99,7 @@ export type Bounds = {
   readonly raising: number
   readonly raiseSeconds: number
   readonly mobilising: number
+  readonly easyReps: number
 }
 
 export function restrictedIn(pages: readonly Value[]): ReadonlySet<string> {
@@ -346,6 +347,7 @@ export function offerOf(
     turn: warmth.turn,
     done: warmth.done,
     raisedToday: warmth.raisedToday,
+    easyReps: bounds.easyReps,
   })
   return {
     ...work,
@@ -409,6 +411,7 @@ export function nextIn(root: string, now: Date): Offer | null {
     raising: selectionPolicy.minutesRaising,
     raiseSeconds: selectionPolicy.secondsPerRaise,
     mobilising: selectionPolicy.mobilisingMovements,
+    easyReps: selectionPolicy.repsWarmingUp,
   }
   const out = outIn(week.movements, restricted, dropped)
   const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm, today)

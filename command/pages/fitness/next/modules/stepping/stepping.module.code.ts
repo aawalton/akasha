@@ -1,3 +1,4 @@
+import type { Movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import {
   titleOf,
   type Warmup,
@@ -10,7 +11,6 @@ export type Step = {
   readonly movement: string | null
   readonly title: string | null
   readonly minutes: number | null
-  readonly seconds: number | null
   readonly weight: number | null
   readonly reps: number | null
 }
@@ -26,28 +26,23 @@ const BARE = {
   movement: null,
   title: null,
   minutes: null,
-  seconds: null,
   weight: null,
   reps: null,
 }
 
+function easedFor(one: Movement, kind: StepKind, reps: number): Step {
+  return { ...BARE, kind, movement: one.slug, title: titleOf(one), reps }
+}
+
 export function stepFor(warmup: Warmup | null, work: Work): Step {
-  const raise = warmup === null ? null : warmup.raise
-  if (raise !== null) {
-    const one = raise.movements[0]
-    if (one === undefined) return { ...BARE, kind: "raise", minutes: raise.minutes }
-    return {
-      ...BARE,
-      kind: "raise",
-      movement: one.slug,
-      title: titleOf(one),
-      seconds: raise.seconds,
-    }
-  }
-  const moving = warmup === null ? undefined : warmup.mobilise[0]
-  if (moving !== undefined)
-    return { ...BARE, kind: "mobilise", movement: moving.slug, title: titleOf(moving) }
-  if (warmup !== null)
+  if (warmup !== null) {
+    const raise = warmup.raise
+    const one = raise === null ? undefined : raise.movements[0]
+    if (raise !== null && one === undefined)
+      return { ...BARE, kind: "raise", minutes: raise.minutes }
+    if (one !== undefined) return easedFor(one, "raise", warmup.easyReps)
+    const moving = warmup.mobilise[0]
+    if (moving !== undefined) return easedFor(moving, "mobilise", warmup.easyReps)
     return {
       ...BARE,
       kind: "ramp",
@@ -56,6 +51,7 @@ export function stepFor(warmup: Warmup | null, work: Work): Step {
       weight: warmup.ramp.weight,
       reps: warmup.ramp.reps,
     }
+  }
   return {
     ...BARE,
     kind: "work",
@@ -71,8 +67,9 @@ export function steppedOf(step: Step): readonly string[] {
   if (step.kind === "raise" && named === null)
     return [`${String(step.minutes)} minutes easy, until you are breathing and damp`]
   const lead = named ?? "the movement"
-  if (step.kind === "raise") return [lead, `  ${String(step.seconds)} seconds, easy`]
-  if (step.kind === "mobilise") return [lead, "  slow and easy, through the whole range"]
+  const easy = `${String(step.reps)} easy reps`
+  if (step.kind === "raise") return [lead, `  ${easy}`]
+  if (step.kind === "mobilise") return [lead, `  ${easy}, through the whole range`]
   const reps = String(step.reps)
   if (step.kind === "ramp")
     return [

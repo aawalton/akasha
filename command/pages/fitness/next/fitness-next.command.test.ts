@@ -82,6 +82,7 @@ function bounds(over: Partial<Bounds> = {}): Bounds {
     raising: 5,
     raiseSeconds: 60,
     mobilising: 2,
+    easyReps: 10,
     ...over,
   }
 }

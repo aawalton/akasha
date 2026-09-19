@@ -21,20 +21,23 @@ const WORK: Work = {
 const RAMP = { weight: 15, reps: 10 }
 
 const WHOLE: Warmup = {
-  raise: { minutes: 5, seconds: 60, movements: [SQUATS] },
+  raise: { minutes: 5, movements: [SQUATS] },
   mobilise: [OPENING],
   ramp: RAMP,
+  easyReps: 12,
 }
+
+const RAMPING: Warmup = { ...WHOLE, raise: null, mobilise: [] }
 
 test("the step Alan is on is the raise at the head of the run", () => {
   const step = stepFor(WHOLE, WORK)
   expect(step.kind).toBe("raise")
   expect(step.title).toBe("Bodyweight Squat")
-  expect(steppedOf(step)).toEqual(["Bodyweight Squat", "  60 seconds, easy"])
+  expect(steppedOf(step)).toEqual(["Bodyweight Squat", "  12 easy reps"])
 })
 
 test("a raise with no movement to name is said as the minutes it runs", () => {
-  const bare: Warmup = { ...WHOLE, raise: { minutes: 5, seconds: 60, movements: [] } }
+  const bare: Warmup = { ...WHOLE, raise: { minutes: 5, movements: [] } }
   expect(steppedOf(stepFor(bare, WORK))).toEqual([
     "5 minutes easy, until you are breathing and damp",
   ])
@@ -45,18 +48,18 @@ test("a raise Alan has paid gives the step over to the mobilise", () => {
   expect(step.kind).toBe("mobilise")
   expect(steppedOf(step)).toEqual([
     "Dynamic Chest Stretch",
-    "  slow and easy, through the whole range",
+    "  12 easy reps, through the whole range",
   ])
 })
 
 test("a warmup paid down to the ramp is the ramp", () => {
-  const step = stepFor({ raise: null, mobilise: [], ramp: RAMP }, WORK)
+  const step = stepFor(RAMPING, WORK)
   expect(step.kind).toBe("ramp")
   expect(steppedOf(step)).toEqual(["Dumbbell Bench Press", "  ramp: 15 lb, 10 easy reps"])
 })
 
 test("a ramp with no load is said on its reps alone", () => {
-  const step = stepFor({ raise: null, mobilise: [], ramp: { weight: null, reps: 10 } }, WORK)
+  const step = stepFor({ ...RAMPING, ramp: { weight: null, reps: 10 } }, WORK)
   expect(steppedOf(step)).toEqual(["Dumbbell Bench Press", "  ramp: 10 easy reps"])
 })
 

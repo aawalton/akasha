@@ -93,6 +93,7 @@ const WARMING = {
   turn: 0,
   done: new Set<string>(),
   raisedToday: 0,
+  easyReps: 10,
 }
 
 const COLD = { ...WARMING, warm: false, ramped: false }
@@ -206,9 +207,10 @@ test("the movements offered are those sharing a muscle with the movement to come
 test("a cold Alan raises, mobilises and ramps", () => {
   const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, COLD)
   expect(held).toEqual({
-    raise: { minutes: 5, seconds: 60, movements: [PRESSING, SQUATTING] },
+    raise: { minutes: 5, movements: [PRESSING, SQUATTING] },
     mobilise: [MOVING],
     ramp: { weight: 15, reps: 10 },
+    easyReps: 10,
   })
 })
 
@@ -224,7 +226,12 @@ test("a raise paid in full today is no raise to offer", () => {
 
 test("an Alan already warm is owed the ramp alone", () => {
   const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, { ...COLD, warm: true })
-  expect(held).toEqual({ raise: null, mobilise: [], ramp: { weight: 15, reps: 10 } })
+  expect(held).toEqual({
+    raise: null,
+    mobilise: [],
+    ramp: { weight: 15, reps: 10 },
+    easyReps: 10,
+  })
 })
 
 test("a movement ramped inside the window is owed no warmup at all", () => {

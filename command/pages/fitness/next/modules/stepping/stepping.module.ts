@@ -33,5 +33,9 @@ export const stepping = {
       decisionKind: "decision-kind/departure",
       statement: "A raise with no movement to name is said as the minutes it runs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step that warms Alan is counted in easy repetitions rather than timed.",
+    },
   ],
 } as const satisfies Module

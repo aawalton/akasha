@@ -36,7 +36,6 @@ export type Ramp = {
 
 export type Raise = {
   readonly minutes: number
-  readonly seconds: number
   readonly movements: readonly Movement[]
 }
 
@@ -44,6 +43,7 @@ export type Warmup = {
   readonly raise: Raise | null
   readonly mobilise: readonly Movement[]
   readonly ramp: Ramp
+  readonly easyReps: number
 }
 
 export type Warmth = {
@@ -68,6 +68,7 @@ export type Warming = {
   readonly turn: number
   readonly done: ReadonlySet<string>
   readonly raisedToday: number
+  readonly easyReps: number
 }
 
 export function titleOf(one: Movement): string {
@@ -203,16 +204,15 @@ export function warmupFor(
     weight: working === null ? null : easedTo(loads, working * given.share),
     reps: given.reps,
   }
-  if (given.warm) return { raise: null, mobilise: [], ramp }
+  const easyReps = given.easyReps
+  if (given.warm) return { raise: null, mobilise: [], ramp, easyReps }
   const run = raisingFor(movements, one.muscles, given)
   return {
-    raise:
-      raisesLeftIn(given) === 0
-        ? null
-        : { minutes: given.raising, seconds: given.seconds, movements: run },
+    raise: raisesLeftIn(given) === 0 ? null : { minutes: given.raising, movements: run },
     mobilise: mobilisingFor(movements, one.muscles, given.mobilising).filter(
       (each) => !given.done.has(each.slug)
     ),
     ramp,
+    easyReps,
   }
 }
