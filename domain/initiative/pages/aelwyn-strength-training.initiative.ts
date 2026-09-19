@@ -9,12 +9,6 @@ export const aelwynStrengthTraining = {
   intentStack: [
     {
       statement:
-        "The raise is a run of short movements one after another rather than one movement held for minutes.",
-      workingMemory:
-        "Alan will not perform any one warmup movement for longer than 60 seconds. Five minutes of raising is therefore five movements of 60 seconds each, named in the order they are done.",
-    },
-    {
-      statement:
         "The catalogue holds enough raises that a run of five is not the same five every session.",
       workingMemory:
         "Six raises reach Alan today: high-knees, jumping-jacks, butt-kicks, shadow-boxing, skater-hops and trail-running-walking. Every other cardio page wants a machine he does not own.",
