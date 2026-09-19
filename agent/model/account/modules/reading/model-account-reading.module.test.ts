@@ -21,6 +21,8 @@ import {
   stateFrom,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { TYPE_PAGE } from "akasha/agent/model/account/modules/reading/model-account-reading.module.test-fixtures.ts"
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
+import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.model-provider.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
@@ -49,6 +51,8 @@ const RESCUED_REFRESH_FAKE = "fake-rescued-refresh-token"
 const EXPIRES_AT = "2026-09-02T18:00:00.000Z"
 
 const EXPIRES_MS = Date.parse(EXPIRES_AT)
+
+const DEEPSEEK = `${modelProvider.slug}/${deepseek.slug}`
 
 const secretsFake: SecretsRead = () =>
   new Map([
@@ -300,12 +304,12 @@ test("a fleet answer narrowed to one provider leaves out every account held else
   accountWritten(
     root,
     "deepseek",
-    { email: "deepseek@example.test", aliasIndex: 4, provider: "model-provider/deepseek" },
+    { email: "deepseek@example.test", aliasIndex: 4, provider: DEEPSEEK },
     null
   )
   expect(everyAccountSlugIn(root)).toEqual(["aine", "aow", "ctw", "deepseek"])
   expect(everyAccountSlugOfIn(root, ANTHROPIC)).toEqual(["aine", "aow", "ctw"])
-  expect(everyAccountSlugOfIn(root, "model-provider/deepseek")).toEqual(["deepseek"])
+  expect(everyAccountSlugOfIn(root, DEEPSEEK)).toEqual(["deepseek"])
   expect([...everyAccountStateIn(root, ANTHROPIC).keys()]).toEqual(["aine", "aow", "ctw"])
   expect([...everyCredentialIn(root, secretsFake, ANTHROPIC).keys()]).toEqual([
     "aine",
