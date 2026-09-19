@@ -52,6 +52,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/runner/modules/change-loading/change-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}

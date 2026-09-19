@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { runChange } from "akasha/change/mechanical/file/remove/remove-file-page-property/remove-file-page-property.change-mechanical.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+
+const REMOVE_FILE_PAGE = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
 
 const PROPERTY = "akasha/properties/kept.text-property.ts"
 
@@ -29,6 +33,6 @@ test("a page property path is taken away by the change this change reaches", asy
   const said = await runChange(worldOf(taken), { at: PROPERTY })
 
   expect(said.refused).toBe(null)
-  expect(taken.at).toBe("change-mechanical-file/remove-file-page")
+  expect(taken.at).toBe(REMOVE_FILE_PAGE)
   expect(taken.given).toEqual({ at: PROPERTY })
 })

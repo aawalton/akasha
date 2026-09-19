@@ -1,4 +1,8 @@
 import { extname } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { removeFileCode } from "akasha/change/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.ts"
 import {
   gathered,
   refusing,
@@ -21,9 +25,9 @@ import type { Named } from "akasha/page/modules/reference-reading/page-reference
 
 const PARTS = "parts"
 
-const REMOVE_FILE = "change-mechanical-file/remove-file"
+const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-const REMOVE_FILE_CODE = "change-mechanical/remove-file-code"
+const REMOVE_FILE_CODE = `${changeMechanical.slug}/${removeFileCode.slug}` as const
 
 const CODE = new Set([".ts", ".tsx"])
 

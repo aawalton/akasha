@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { runChange } from "akasha/change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.code.ts"
 import { worldTaking } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
@@ -8,7 +10,7 @@ import {
   scratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
-const REACHES = "change-mechanical-file/remove-file-page"
+const REACHES = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
 
 afterAll(scratch.sweep)
 
