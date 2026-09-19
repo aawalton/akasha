@@ -1,0 +1,59 @@
+import type { FolderShape } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.types.ts"
+
+export const kindsUnderTheirPlural = {
+  id: "01a0b7a5-8ef3-7602-bfad-e43f5b07dd13",
+  type: "page-type/folder-shape",
+  slug: "kinds-under-their-plural",
+  definition: "the shape of a folder gathering under a plural the page types that plural covers",
+  code: "ts",
+  test: "ts",
+  enabled: false,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder is named the plural one or more page types gather their pages under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named no page type's plural is refused before anything else is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type that plural covers is one of those page types or a page type extending one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every subfolder is named for a page type that plural covers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A subfolder is named for a page type whose own plural is that subfolder's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A subfolder is named for a page type whose slug is that subfolder's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A subfolder is named for a page type whose slug ends with `-` and that subfolder's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder holds no page of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder holds no file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder gathering nothing is refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "What a subfolder holds is judged where that subfolder is.",
+    },
+  ],
+} as const satisfies FolderShape
