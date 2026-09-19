@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsHarrysGame
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "harrysgame|6NWtt9pNOL2Gx7kBykdE5x|151453",
+  song: "song/celtic-woman-harrys-game",
 } as const satisfies Track

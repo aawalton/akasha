@@ -23,4 +23,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thankgoodnesslivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|240800",
+  song: "song/ariana-grande-thank-goodness",
 } as const satisfies Track

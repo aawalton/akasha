@@ -23,4 +23,5 @@ export const auroraCureForMeCureForMe = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "cureforme|1WgXqy2Dd70QQOU7Ay074N|201640",
+  song: "song/aurora-cure-for-me",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2NeverDieYoungBabyBoomBaby = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "babyboombaby|0vn7UBvSQECKJm2817Yf1P|299826",
+  song: "song/james-taylor-baby-boom-baby",
 } as const satisfies Track

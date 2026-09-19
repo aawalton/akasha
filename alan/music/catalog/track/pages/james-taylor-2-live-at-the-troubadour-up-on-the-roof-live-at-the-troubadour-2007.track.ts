@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourUpOnTheRoofLiveAtTheTroubadour2007 =
   ],
   trackKey:
     "upontheroofliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|249146",
+  song: "song/james-taylor-up-on-the-roof",
 } as const satisfies Track

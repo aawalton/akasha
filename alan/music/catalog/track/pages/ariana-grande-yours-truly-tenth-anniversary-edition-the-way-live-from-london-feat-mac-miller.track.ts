@@ -27,4 +27,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayLiveFromLondonFe
   ],
   trackKey:
     "thewaylivefromlondonfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|213694",
+  song: "song/ariana-grande-the-way",
 } as const satisfies Track

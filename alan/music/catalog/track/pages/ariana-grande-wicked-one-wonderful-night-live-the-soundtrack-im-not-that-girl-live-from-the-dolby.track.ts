@@ -23,4 +23,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackImNotThatGirlLi
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "imnotthatgirllivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ|238235",
+  song: "song/ariana-grande-i-m-not-that-girl",
 } as const satisfies Track

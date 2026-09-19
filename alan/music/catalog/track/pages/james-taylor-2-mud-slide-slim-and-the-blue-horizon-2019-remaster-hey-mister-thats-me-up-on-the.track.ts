@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHeyMisterThats
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "heymisterthatsmeuponthejukebox2019remaster|0vn7UBvSQECKJm2817Yf1P|228093",
+  song: "song/james-taylor-hey-mister-thats-me-up-on-the-jukebox",
 } as const satisfies Track

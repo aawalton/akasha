@@ -23,4 +23,5 @@ export const jamesTaylor2WalkingMan2019RemasterDaddysBaby2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "daddysbaby2019remaster|0vn7UBvSQECKJm2817Yf1P|158493",
+  song: "song/james-taylor-daddys-baby",
 } as const satisfies Track

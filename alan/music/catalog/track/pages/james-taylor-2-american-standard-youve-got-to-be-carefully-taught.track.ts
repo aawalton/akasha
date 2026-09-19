@@ -23,4 +23,5 @@ export const jamesTaylor2AmericanStandardYouveGotToBeCarefullyTaught = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youvegottobecarefullytaught|0vn7UBvSQECKJm2817Yf1P|146346",
+  song: "song/james-taylor-youve-got-to-be-carefully-taught",
 } as const satisfies Track

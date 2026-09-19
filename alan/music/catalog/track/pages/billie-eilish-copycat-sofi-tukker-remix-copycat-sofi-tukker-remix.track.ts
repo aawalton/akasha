@@ -26,4 +26,5 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
     { externalId: "586uxXMyD5ObPuzjtrzO1Q", artistName: "SOFI TUKKER" },
   ],
   trackKey: "copycatsofitukkerremix|586uxXMyD5ObPuzjtrzO1Q,6qqNVTkY8uBg9cP3Jd7DAH|198684",
+  song: "song/billie-eilish-copycat",
 } as const satisfies Track

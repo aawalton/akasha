@@ -28,4 +28,5 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLovePeaktime
   ],
   trackKey:
     "bringyourlovepeaktimedubremix|0XfQBWgzisaS9ltDV9bXAS,6tbjWDEIzxoDsBA1FuhfPW,74KM79TiuVKeVCqs8QtB0B|269641",
+  song: "song/sabrina-carpenter-bring-your-love",
 } as const satisfies Track

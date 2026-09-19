@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterWomansGottaHaveIt2019Remaster = 
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "womansgottahaveit2019remaster|0vn7UBvSQECKJm2817Yf1P|260213",
+  song: "song/james-taylor-womans-gotta-have-it",
 } as const satisfies Track

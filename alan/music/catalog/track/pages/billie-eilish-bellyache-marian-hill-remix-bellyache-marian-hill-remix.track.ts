@@ -26,4 +26,5 @@ export const billieEilishBellyacheMarianHillRemixBellyacheMarianHillRemix = {
     { externalId: "1xHQO9GJIW9OXHxGBISYc5", artistName: "Marian Hill" },
   ],
   trackKey: "bellyachemarianhillremix|1xHQO9GJIW9OXHxGBISYc5,6qqNVTkY8uBg9cP3Jd7DAH|220800",
+  song: "song/billie-eilish-bellyache",
 } as const satisfies Track

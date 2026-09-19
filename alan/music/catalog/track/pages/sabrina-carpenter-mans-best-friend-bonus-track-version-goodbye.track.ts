@@ -23,4 +23,5 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionGoodbye = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "goodbye|74KM79TiuVKeVCqs8QtB0B|225085",
+  song: "song/sabrina-carpenter-goodbye",
 } as const satisfies Track

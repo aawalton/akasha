@@ -23,4 +23,5 @@ export const sabrinaCarpenterNonsenseSpedUpVersionNonsenseSpedUpVersion = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "nonsensespedupversion|74KM79TiuVKeVCqs8QtB0B|137514",
+  song: "song/sabrina-carpenter-nonsense",
 } as const satisfies Track

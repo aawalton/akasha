@@ -26,4 +26,5 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
     { externalId: "4YLQaW1UU3mrVetC8gNkg5", artistName: "3LAU" },
   ],
   trackKey: "intoyou3lauremix|4YLQaW1UU3mrVetC8gNkg5,66CXWjxzNUsdJxJ2JdwvnR|197146",
+  song: "song/ariana-grande-into-you",
 } as const satisfies Track

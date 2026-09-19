@@ -27,4 +27,5 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
   ],
   trackKey:
     "sometypeofskinsofiakourtesisremix|1WgXqy2Dd70QQOU7Ay074N,7wXTWO45lqpUejDkike0Gf|204693",
+  song: "song/aurora-some-type-of-skin",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterIsntItNiceToBe
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "isntitnicetobehomeagain2019remaster|0vn7UBvSQECKJm2817Yf1P|55186",
+  song: "song/james-taylor-isnt-it-nice-to-be-home-again",
 } as const satisfies Track

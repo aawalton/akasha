@@ -23,4 +23,5 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesPovLiveFromVevo = 
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "povlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|195291",
+  song: "song/ariana-grande-pov",
 } as const satisfies Track

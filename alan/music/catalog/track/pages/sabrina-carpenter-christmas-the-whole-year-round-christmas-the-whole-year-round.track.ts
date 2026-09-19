@@ -23,4 +23,5 @@ export const sabrinaCarpenterChristmasTheWholeYearRoundChristmasTheWholeYearRoun
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "christmasthewholeyearround|74KM79TiuVKeVCqs8QtB0B|179426",
+  song: "song/sabrina-carpenter-christmas-the-whole-year-round",
 } as const satisfies Track

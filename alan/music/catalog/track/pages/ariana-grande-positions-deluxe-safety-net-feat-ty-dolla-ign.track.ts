@@ -26,4 +26,5 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
     { externalId: "7c0XG5cIJTrrAgEC3ULPiq", artistName: "Ty Dolla $ign" },
   ],
   trackKey: "safetynetfeattydollaign|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|208457",
+  song: "song/ariana-grande-safety-net",
 } as const satisfies Track

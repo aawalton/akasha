@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysAPoorWayfaringManOfGrief = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "apoorwayfaringmanofgrief|7FQRbf8gbKw8KZQZAJWxH2|126053",
+  song: "song/paul-cardall-a-poor-wayfaring-man-of-grief",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFelixJaehnRemix = {
   ],
   trackKey:
     "onmylovefelixjaehnremix|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg,4bL2B6hmLlMWnUEZnorEtG|210000",
+  song: "song/zara-larsson-on-my-love",
 } as const satisfies Track

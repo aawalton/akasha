@@ -26,4 +26,5 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
     { externalId: "5Dl3HXZjG6ZOWT5cV375lk", artistName: "Yo-Yo Ma" },
   ],
   trackKey: "herecomesthesun|0vn7UBvSQECKJm2817Yf1P,5Dl3HXZjG6ZOWT5cV375lk|170706",
+  song: "song/james-taylor-here-comes-the-sun",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const celticWoman2PostcardsFromIrelandBeeswing = {
     { externalId: "4g8SeRgbtDhDVyNOsq4L4B", artistName: "The Longest Johns" },
   ],
   trackKey: "beeswing|4g8SeRgbtDhDVyNOsq4L4B,6NWtt9pNOL2Gx7kBykdE5x|288520",
+  song: "song/celtic-woman-beeswing",
 } as const satisfies Track

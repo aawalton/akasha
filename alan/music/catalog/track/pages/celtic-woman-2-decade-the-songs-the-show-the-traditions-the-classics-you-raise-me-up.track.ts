@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYouRaiseMe
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youraisemeup|6NWtt9pNOL2Gx7kBykdE5x|273440",
+  song: "song/celtic-woman-you-raise-me-up",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
     { externalId: "2NtQA3PY9chI8l65ejZLTP", artistName: "SPINALL" },
   ],
   trackKey: "endoftimespinallremix|1Xylc3o4UrD53lo9CvFvVg,2NtQA3PY9chI8l65ejZLTP|221265",
+  song: "song/zara-larsson-end-of-time",
 } as const satisfies Track

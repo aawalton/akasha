@@ -23,4 +23,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveWeCantBeFriends
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wecantbefriendswaitforyourloveliveversion|66CXWjxzNUsdJxJ2JdwvnR|204069",
+  song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
 } as const satisfies Track

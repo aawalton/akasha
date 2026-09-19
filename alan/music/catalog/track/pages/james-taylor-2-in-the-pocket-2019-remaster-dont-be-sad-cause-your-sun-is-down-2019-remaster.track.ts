@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterDontBeSadCauseYourSunIsDown2019R
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "dontbesadcauseyoursunisdown2019remaster|0vn7UBvSQECKJm2817Yf1P|209466",
+  song: "song/james-taylor-dont-be-sad-cause-your-sun-is-down",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const zaraLarssonIWouldLikeGorgonCityRemixIWouldLikeGorgonCityRemix = {
     { externalId: "4VNQWV2y1E97Eqo2D5UTjx", artistName: "Gorgon City" },
   ],
   trackKey: "iwouldlikegorgoncityremix|1Xylc3o4UrD53lo9CvFvVg,4VNQWV2y1E97Eqo2D5UTjx|263655",
+  song: "song/zara-larsson-i-would-like",
 } as const satisfies Track

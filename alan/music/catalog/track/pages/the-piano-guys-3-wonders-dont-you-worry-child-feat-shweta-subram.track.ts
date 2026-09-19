@@ -27,4 +27,5 @@ export const thePianoGuys3WondersDontYouWorryChildFeatShwetaSubram = {
   ],
   trackKey:
     "dontyouworrychildfeatshwetasubram|0jW6R8CVyVohuUJVcuweDI,4dyQjiS1hL6towoj5SgUSB|243413",
+  song: "song/the-piano-guys-dont-you-worry-child",
 } as const satisfies Track

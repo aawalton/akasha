@@ -23,4 +23,5 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHell = {
   explicit: false,
   trackArtist: [{ externalId: "56oDRnqbIiwx4mymNEv7dS", artistName: "Lizzo" }],
   trackKey: "goodashell|56oDRnqbIiwx4mymNEv7dS|159735",
+  song: "song/ariana-grande-good-as-hell",
 } as const satisfies Track

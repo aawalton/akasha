@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAmazingGra
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "amazinggrace2013version|6NWtt9pNOL2Gx7kBykdE5x|349000",
+  song: "song/celtic-woman-amazing-grace",
 } as const satisfies Track

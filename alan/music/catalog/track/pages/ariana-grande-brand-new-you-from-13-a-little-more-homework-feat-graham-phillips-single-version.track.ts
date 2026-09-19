@@ -27,4 +27,5 @@ export const arianaGrandeBrandNewYouFrom13ALittleMoreHomeworkFeatGrahamPhillipsS
   ],
   trackKey:
     "alittlemorehomeworkfeatgrahamphillipssingleversion|66CXWjxzNUsdJxJ2JdwvnR,7cx3SW07K49VaNuC71o4vj|302733",
+  song: "song/ariana-grande-a-little-more-homework",
 } as const satisfies Track

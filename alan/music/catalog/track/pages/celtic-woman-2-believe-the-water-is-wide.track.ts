@@ -29,4 +29,5 @@ export const celticWoman2BelieveTheWaterIsWide = {
   ],
   trackKey:
     "thewateriswide|1U5zgr455OGyIkLNXvDdrf,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|210693",
+  song: "song/celtic-woman-the-water-is-wide",
 } as const satisfies Track

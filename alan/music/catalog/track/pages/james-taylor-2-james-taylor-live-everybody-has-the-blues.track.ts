@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveEverybodyHasTheBlues = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "everybodyhastheblues|0vn7UBvSQECKJm2817Yf1P|153933",
+  song: "song/james-taylor-everybody-has-the-blues",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeYoursTrulyAlmostIsNeverEnough = {
     { externalId: "2Rf4X6m0oayCJhaJ5K63GQ", artistName: "Nathan Sykes" },
   ],
   trackKey: "almostisneverenough|2Rf4X6m0oayCJhaJ5K63GQ,66CXWjxzNUsdJxJ2JdwvnR|327773",
+  song: "song/ariana-grande-almost-is-never-enough",
 } as const satisfies Track

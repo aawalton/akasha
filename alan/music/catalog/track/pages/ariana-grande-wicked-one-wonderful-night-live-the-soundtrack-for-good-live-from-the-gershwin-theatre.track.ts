@@ -30,4 +30,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
     ],
     trackKey:
       "forgoodlivefromthegershwintheatre|3DgcBA7P0ji5co7Z1Gfp2Q,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|271695",
+    song: "song/ariana-grande-for-good",
   } as const satisfies Track

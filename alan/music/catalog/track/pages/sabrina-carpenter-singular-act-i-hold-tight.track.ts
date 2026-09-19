@@ -26,4 +26,5 @@ export const sabrinaCarpenterSingularActIHoldTight = {
     { externalId: "5PsYkefUonoeM9VCnpf5zd", artistName: "UHMEER" },
   ],
   trackKey: "holdtight|5PsYkefUonoeM9VCnpf5zd,74KM79TiuVKeVCqs8QtB0B|175160",
+  song: "song/sabrina-carpenter-hold-tight",
 } as const satisfies Track

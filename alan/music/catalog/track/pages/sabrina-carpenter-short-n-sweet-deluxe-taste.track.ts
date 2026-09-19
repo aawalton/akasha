@@ -23,4 +23,5 @@ export const sabrinaCarpenterShortNSweetDeluxeTaste = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "taste|74KM79TiuVKeVCqs8QtB0B|157280",
+  song: "song/sabrina-carpenter-taste",
 } as const satisfies Track

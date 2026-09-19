@@ -23,4 +23,5 @@ export const jamesTaylor2WalkingMan2019RemasterLetItAllFallDown2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letitallfalldown2019remaster|0vn7UBvSQECKJm2817Yf1P|214600",
+  song: "song/james-taylor-let-it-all-fall-down",
 } as const satisfies Track

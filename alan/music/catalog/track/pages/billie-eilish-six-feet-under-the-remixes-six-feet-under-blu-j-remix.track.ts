@@ -26,4 +26,5 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderBluJRemix = {
     { externalId: "0bI3VA9gVcpoOzrklKgG7V", artistName: "BLU J" },
   ],
   trackKey: "sixfeetunderblujremix|0bI3VA9gVcpoOzrklKgG7V,6qqNVTkY8uBg9cP3Jd7DAH|215624",
+  song: "song/billie-eilish-six-feet-under",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
     { externalId: "4hbnUamwrCHpv4wQTwvCIc", artistName: "Sondr" },
   ],
   trackKey: "existforlovesondrremix|1WgXqy2Dd70QQOU7Ay074N,4hbnUamwrCHpv4wQTwvCIc|258306",
+  song: "song/aurora-exist-for-love",
 } as const satisfies Track

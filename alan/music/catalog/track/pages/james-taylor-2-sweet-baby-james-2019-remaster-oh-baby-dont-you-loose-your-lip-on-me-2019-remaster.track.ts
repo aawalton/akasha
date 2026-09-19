@@ -23,4 +23,5 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ohbabydontyoulooseyourliponme2019remaster|0vn7UBvSQECKJm2817Yf1P|109293",
+  song: "song/james-taylor-oh-baby-dont-you-loose-your-lip-on-me",
 } as const satisfies Track

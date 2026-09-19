@@ -23,4 +23,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeImperfectForYouAcoustic = 
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "imperfectforyouacoustic|66CXWjxzNUsdJxJ2JdwvnR|183133",
+  song: "song/ariana-grande-imperfect-for-you",
 } as const satisfies Track

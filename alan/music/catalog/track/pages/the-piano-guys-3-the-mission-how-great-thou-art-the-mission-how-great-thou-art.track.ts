@@ -26,4 +26,5 @@ export const thePianoGuys3TheMissionHowGreatThouArtTheMissionHowGreatThouArt = {
     { externalId: "1GRl6sRyLg9ToOohIE2wW5", artistName: "The Tabernacle Choir at Temple Square" },
   ],
   trackKey: "themissionhowgreatthouart|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5|201557",
+  song: "song/the-piano-guys-the-mission-how-great-thou-art",
 } as const satisfies Track

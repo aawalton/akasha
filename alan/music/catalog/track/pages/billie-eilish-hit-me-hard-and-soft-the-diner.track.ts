@@ -23,4 +23,5 @@ export const billieEilishHitMeHardAndSoftTheDiner = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "thediner|6qqNVTkY8uBg9cP3Jd7DAH|186346",
+  song: "song/billie-eilish-the-diner",
 } as const satisfies Track

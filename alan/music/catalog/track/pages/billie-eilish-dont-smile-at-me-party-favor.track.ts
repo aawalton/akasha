@@ -23,4 +23,5 @@ export const billieEilishDontSmileAtMePartyFavor = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "partyfavor|6qqNVTkY8uBg9cP3Jd7DAH|204770",
+  song: "song/billie-eilish-party-favor",
 } as const satisfies Track

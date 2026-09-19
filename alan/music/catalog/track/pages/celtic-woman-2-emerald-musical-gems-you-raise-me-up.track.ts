@@ -23,4 +23,5 @@ export const celticWoman2EmeraldMusicalGemsYouRaiseMeUp = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youraisemeup|6NWtt9pNOL2Gx7kBykdE5x|250853",
+  song: "song/celtic-woman-you-raise-me-up",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveFireAndRain = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "fireandrain|0vn7UBvSQECKJm2817Yf1P|273266",
+  song: "song/james-taylor-fire-and-rain",
 } as const satisfies Track

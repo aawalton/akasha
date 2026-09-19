@@ -26,4 +26,5 @@ export const zaraLarssonPosterGirlTalkAboutLoveFeatYoungThug = {
     { externalId: "50co4Is1HCEo8bhOyUWKpn", artistName: "Young Thug" },
   ],
   trackKey: "talkaboutlovefeatyoungthug|1Xylc3o4UrD53lo9CvFvVg,50co4Is1HCEo8bhOyUWKpn|199774",
+  song: "song/zara-larsson-talk-about-love",
 } as const satisfies Track

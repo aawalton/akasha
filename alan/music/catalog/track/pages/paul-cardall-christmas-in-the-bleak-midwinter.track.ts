@@ -26,4 +26,5 @@ export const paulCardallChristmasInTheBleakMidwinter = {
     { externalId: "1GKYNY4rIPnOuTfC0J1IWw", artistName: "Audrey Assad" },
   ],
   trackKey: "inthebleakmidwinter|1GKYNY4rIPnOuTfC0J1IWw,7FQRbf8gbKw8KZQZAJWxH2|280132",
+  song: "song/paul-cardall-in-the-bleak-midwinter",
 } as const satisfies Track

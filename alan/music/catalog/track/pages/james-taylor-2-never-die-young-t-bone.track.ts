@@ -23,4 +23,5 @@ export const jamesTaylor2NeverDieYoungTBone = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "tbone|0vn7UBvSQECKJm2817Yf1P|227666",
+  song: "song/james-taylor-t-bone",
 } as const satisfies Track

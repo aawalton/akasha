@@ -23,4 +23,5 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Waterfall = {
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "waterfall|2YQ4MY2VwOMv43C0GemUY5|187010",
+  song: "song/the-piano-guys-waterfall",
 } as const satisfies Track

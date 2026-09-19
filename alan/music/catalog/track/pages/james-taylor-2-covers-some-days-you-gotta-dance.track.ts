@@ -23,4 +23,5 @@ export const jamesTaylor2CoversSomeDaysYouGottaDance = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "somedaysyougottadance|0vn7UBvSQECKJm2817Yf1P|159413",
+  song: "song/james-taylor-some-days-you-gotta-dance",
 } as const satisfies Track

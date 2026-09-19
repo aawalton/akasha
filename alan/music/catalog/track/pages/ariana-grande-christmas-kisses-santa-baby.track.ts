@@ -26,4 +26,5 @@ export const arianaGrandeChristmasKissesSantaBaby = {
     { externalId: "7pLntWGInZPQxc4kXxzzjB", artistName: "Liz Gillies" },
   ],
   trackKey: "santababy|66CXWjxzNUsdJxJ2JdwvnR,7pLntWGInZPQxc4kXxzzjB|170933",
+  song: "song/ariana-grande-santa-baby",
 } as const satisfies Track

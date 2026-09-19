@@ -28,4 +28,5 @@ export const sabrinaCarpenterAlienDarkHeartRemixAlienDarkHeartRemix = {
   ],
   trackKey:
     "aliendarkheartremix|1HBjj22wzbscIZ9sEb5dyf,1k7Cc2WGh6LAE1TUh6dsiy,74KM79TiuVKeVCqs8QtB0B|209433",
+  song: "song/sabrina-carpenter-alien",
 } as const satisfies Track

@@ -27,4 +27,5 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
   ],
   trackKey:
     "forgottenloveclaptoneextendedremix|1WgXqy2Dd70QQOU7Ay074N,4mncDFjVLUa3s025Tct3Ry|404383",
+  song: "song/aurora-forgotten-love",
 } as const satisfies Track

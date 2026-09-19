@@ -26,4 +26,5 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
     { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
   ],
   trackKey: "iwouldliker3habremix|1Xylc3o4UrD53lo9CvFvVg,6cEuCEZu7PAE9ZSzLLc2oQ|146999",
+  song: "song/zara-larsson-i-would-like",
 } as const satisfies Track

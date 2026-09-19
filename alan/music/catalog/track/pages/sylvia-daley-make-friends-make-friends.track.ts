@@ -23,4 +23,5 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "makefriends|03dXd2zBbBJvX60Oap8Lgo|162125",
+  song: "song/sylvia-daley-make-friends",
 } as const satisfies Track

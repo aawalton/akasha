@@ -27,4 +27,5 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeDiamondPistolsRemix
   ],
   trackKey:
     "dontworryboutmediamondpistolsremix|1OzGBMZ8rp73R6DWx0IUr5,1Xylc3o4UrD53lo9CvFvVg|240000",
+  song: "song/zara-larsson-don-t-worry-bout-me",
 } as const satisfies Track

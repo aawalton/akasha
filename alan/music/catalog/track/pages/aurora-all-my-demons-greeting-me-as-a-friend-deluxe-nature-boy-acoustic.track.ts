@@ -23,4 +23,5 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeNatureBoyAcoustic = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "natureboyacoustic|1WgXqy2Dd70QQOU7Ay074N|179960",
+  song: "song/aurora-nature-boy",
 } as const satisfies Track

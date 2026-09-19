@@ -26,4 +26,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "dandelionacappella|66CXWjxzNUsdJxJ2JdwvnR|163782",
+    song: "song/ariana-grande-dandelion",
   } as const satisfies Track

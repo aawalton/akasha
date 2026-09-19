@@ -27,4 +27,5 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveBenjaminMRkAc
   ],
   trackKey:
     "existforlovebenjaminmrkacousticremix|1WgXqy2Dd70QQOU7Ay074N,2fC3X6tyQk1zYIDjwSYxE6|271613",
+  song: "song/aurora-exist-for-love",
 } as const satisfies Track

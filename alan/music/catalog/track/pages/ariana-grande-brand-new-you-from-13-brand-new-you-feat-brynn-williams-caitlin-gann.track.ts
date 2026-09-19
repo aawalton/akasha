@@ -28,4 +28,5 @@ export const arianaGrandeBrandNewYouFrom13BrandNewYouFeatBrynnWilliamsCaitlinGan
   ],
   trackKey:
     "brandnewyoufeatbrynnwilliamscaitlingann|1hnnj2WandO6I4kQCqS3ct,5Wy5gqWzDpWspwIYLokJY5,66CXWjxzNUsdJxJ2JdwvnR|188093",
+  song: "song/ariana-grande-brand-new-you",
 } as const satisfies Track

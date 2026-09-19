@@ -26,4 +26,5 @@ export const arianaGrandeDangerousWomanEveryday = {
     { externalId: "1RyvyyTE3xzB2ZywiAwp0i", artistName: "Future" },
   ],
   trackKey: "everyday|1RyvyyTE3xzB2ZywiAwp0i,66CXWjxzNUsdJxJ2JdwvnR|194840",
+  song: "song/ariana-grande-everyday",
 } as const satisfies Track

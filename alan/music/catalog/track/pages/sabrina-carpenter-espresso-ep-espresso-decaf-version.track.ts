@@ -23,4 +23,5 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "espressodecafversion|74KM79TiuVKeVCqs8QtB0B|194716",
+  song: "song/sabrina-carpenter-espresso",
 } as const satisfies Track

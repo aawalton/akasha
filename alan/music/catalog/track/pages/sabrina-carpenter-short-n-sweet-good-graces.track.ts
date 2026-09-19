@@ -23,4 +23,5 @@ export const sabrinaCarpenterShortNSweetGoodGraces = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "goodgraces|74KM79TiuVKeVCqs8QtB0B|185265",
+  song: "song/sabrina-carpenter-good-graces",
 } as const satisfies Track

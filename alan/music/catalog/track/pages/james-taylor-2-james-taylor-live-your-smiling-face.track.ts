@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveYourSmilingFace = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "yoursmilingface|0vn7UBvSQECKJm2817Yf1P|173506",
+  song: "song/james-taylor-your-smiling-face",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const auroraExistForLoveRemixesExistForLoveDjBorisRemix = {
     { externalId: "0CwEv3FWLZi5UomNNYUn0u", artistName: "DJ Boris" },
   ],
   trackKey: "existforlovedjborisremix|0CwEv3FWLZi5UomNNYUn0u,1WgXqy2Dd70QQOU7Ay074N|236320",
+  song: "song/aurora-exist-for-love",
 } as const satisfies Track

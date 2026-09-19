@@ -23,4 +23,5 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "themiddleofstartingover|74KM79TiuVKeVCqs8QtB0B|212760",
+  song: "song/sabrina-carpenter-the-middle-of-starting-over",
 } as const satisfies Track

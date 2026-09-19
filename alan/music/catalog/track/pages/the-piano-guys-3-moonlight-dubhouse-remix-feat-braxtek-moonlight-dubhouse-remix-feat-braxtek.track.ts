@@ -23,4 +23,5 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtekMoonlightDubhouseRemi
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "moonlightdubhouseremixfeatbraxtek|0jW6R8CVyVohuUJVcuweDI|286302",
+  song: "song/the-piano-guys-moonlight",
 } as const satisfies Track

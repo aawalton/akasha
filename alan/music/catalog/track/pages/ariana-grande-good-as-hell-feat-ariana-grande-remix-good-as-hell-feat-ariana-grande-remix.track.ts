@@ -26,4 +26,5 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHellFeatArianaGran
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "goodashellfeatarianagranderemix|56oDRnqbIiwx4mymNEv7dS,66CXWjxzNUsdJxJ2JdwvnR|159011",
+  song: "song/ariana-grande-good-as-hell",
 } as const satisfies Track

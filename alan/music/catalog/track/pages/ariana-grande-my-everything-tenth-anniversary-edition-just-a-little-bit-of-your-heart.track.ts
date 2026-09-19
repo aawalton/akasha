@@ -23,4 +23,5 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionJustALittleBitOfYour
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "justalittlebitofyourheart|66CXWjxzNUsdJxJ2JdwvnR|232681",
+  song: "song/ariana-grande-just-a-little-bit-of-your-heart",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandeOneLastTimeOneLastTimeACappella = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "onelasttimeacappella|66CXWjxzNUsdJxJ2JdwvnR|198886",
+  song: "song/ariana-grande-one-last-time",
 } as const satisfies Track

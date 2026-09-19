@@ -23,4 +23,5 @@ export const jamesTaylor2Gorilla2019RemasterIWasAFoolToCare2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "iwasafooltocare2019remaster|0vn7UBvSQECKJm2817Yf1P|200960",
+  song: "song/james-taylor-i-was-a-fool-to-care",
 } as const satisfies Track

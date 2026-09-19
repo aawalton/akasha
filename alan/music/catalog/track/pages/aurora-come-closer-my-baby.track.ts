@@ -27,4 +27,5 @@ export const auroraComeCloserMyBaby = {
     { externalId: "45F5Ue9KSHAtp7aE85zlsW", artistName: "Tom Rowlands" },
   ],
   trackKey: "mybaby|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|245653",
+  song: "song/aurora-my-baby",
 } as const satisfies Track

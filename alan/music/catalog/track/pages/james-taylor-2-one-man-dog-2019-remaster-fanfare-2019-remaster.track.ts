@@ -23,4 +23,5 @@ export const jamesTaylor2OneManDog2019RemasterFanfare2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "fanfare2019remaster|0vn7UBvSQECKJm2817Yf1P|155793",
+  song: "song/james-taylor-fanfare",
 } as const satisfies Track

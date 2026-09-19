@@ -23,4 +23,5 @@ export const jamesTaylor2HourglassLittleMoreTimeWithYou = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "littlemoretimewithyou|0vn7UBvSQECKJm2817Yf1P|230933",
+  song: "song/james-taylor-little-more-time-with-you",
 } as const satisfies Track

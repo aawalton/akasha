@@ -23,4 +23,5 @@ export const billieEilishHitMeHardAndSoftLamourDeMaVie = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "lamourdemavie|6qqNVTkY8uBg9cP3Jd7DAH|333986",
+  song: "song/billie-eilish-l-amour-de-ma-vie",
 } as const satisfies Track

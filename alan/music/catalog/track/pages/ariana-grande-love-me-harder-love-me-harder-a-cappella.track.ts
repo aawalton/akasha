@@ -26,4 +26,5 @@ export const arianaGrandeLoveMeHarderLoveMeHarderACappella = {
     { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
   ],
   trackKey: "lovemeharderacappella|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|233663",
+  song: "song/ariana-grande-love-me-harder",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineWithBrandyMonicaRemix = {
   ],
   trackKey:
     "theboyisminewithbrandymonicaremix|05oH07COxkXKIMt6mIPRee,66CXWjxzNUsdJxJ2JdwvnR,6nzxy2wXs6tLgzEtqOkEi2|213384",
+  song: "song/ariana-grande-the-boy-is-mine-remix",
 } as const satisfies Track

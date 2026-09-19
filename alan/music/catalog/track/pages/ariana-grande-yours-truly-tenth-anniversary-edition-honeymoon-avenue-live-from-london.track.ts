@@ -23,4 +23,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenueLiveFro
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "honeymoonavenuelivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|295544",
+  song: "song/ariana-grande-honeymoon-avenue",
 } as const satisfies Track

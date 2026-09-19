@@ -28,4 +28,5 @@ export const arianaGrandeBangBangRemixesBangBang3lauRemix = {
   ],
   trackKey:
     "bangbang3lauremix|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR|186333",
+  song: "song/ariana-grande-bang-bang",
 } as const satisfies Track

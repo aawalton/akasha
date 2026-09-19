@@ -29,4 +29,5 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
   ],
   trackKey:
     "onmywaydatweekazremix|329e4yvIujISKGKz1BZZbO,6UOk7DmvqlzWmo6gjhZvn6,74KM79TiuVKeVCqs8QtB0B,7vk5e3vY1uw9plTHJAMwjN|204198",
+  song: "song/sabrina-carpenter-on-my-way",
 } as const satisfies Track

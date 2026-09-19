@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourCarolinaInMyMindLiveAtTheTroubadour2
   ],
   trackKey:
     "carolinainmymindliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|256493",
+  song: "song/james-taylor-carolina-in-my-mind",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2OctoberRoadSpecialEditionHaveYourselfAMerryLittleChrist
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "haveyourselfamerrylittlechristmas|0vn7UBvSQECKJm2817Yf1P|230333",
+  song: "song/james-taylor-have-yourself-a-merry-little-christmas",
 } as const satisfies Track

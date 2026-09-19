@@ -23,4 +23,5 @@ export const sabrinaCarpenterShortNSweetDeluxeCoincidence = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "coincidence|74KM79TiuVKeVCqs8QtB0B|164200",
+  song: "song/sabrina-carpenter-coincidence",
 } as const satisfies Track

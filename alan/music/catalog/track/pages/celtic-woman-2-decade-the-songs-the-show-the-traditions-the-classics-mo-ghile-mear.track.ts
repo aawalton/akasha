@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMoGhileMea
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemear|6NWtt9pNOL2Gx7kBykdE5x|290893",
+  song: "song/celtic-woman-mo-ghile-mear",
 } as const satisfies Track

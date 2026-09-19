@@ -23,4 +23,5 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "allthegoodgirlsgotohell|6qqNVTkY8uBg9cP3Jd7DAH|168839",
+  song: "song/billie-eilish-all-the-good-girls-go-to-hell",
 } as const satisfies Track

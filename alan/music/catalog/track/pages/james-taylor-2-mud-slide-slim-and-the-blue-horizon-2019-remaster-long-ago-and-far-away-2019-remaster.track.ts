@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLongAgoAndFarA
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "longagoandfaraway2019remaster|0vn7UBvSQECKJm2817Yf1P|140973",
+  song: "song/james-taylor-long-ago-and-far-away",
 } as const satisfies Track

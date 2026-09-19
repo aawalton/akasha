@@ -23,4 +23,5 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thenearnessofyou|0vn7UBvSQECKJm2817Yf1P|232346",
+  song: "song/james-taylor-the-nearness-of-you",
 } as const satisfies Track

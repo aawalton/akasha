@@ -32,4 +32,5 @@ export const thePianoGuys3SoFarSoGoodBeethovens5Secrets = {
   ],
   trackKey:
     "beethovens5secrets|0jW6R8CVyVohuUJVcuweDI,0rUC7g0r3Q9pfNeeVioxzC,3ewlE33E3BBy5izrlsaR0G,6k7qMS96A3GiN8ZvZgo3u6|309666",
+  song: "song/the-piano-guys-beethovens-5-secrets",
 } as const satisfies Track

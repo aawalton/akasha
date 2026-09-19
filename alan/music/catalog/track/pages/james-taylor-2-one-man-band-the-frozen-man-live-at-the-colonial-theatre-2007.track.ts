@@ -23,4 +23,5 @@ export const jamesTaylor2OneManBandTheFrozenManLiveAtTheColonialTheatre2007 = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thefrozenmanliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|307173",
+  song: "song/james-taylor-the-frozen-man",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const zaraLarssonLushLifeTheRemixesLushLifeRetroVersion = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "lushliferetroversion|1Xylc3o4UrD53lo9CvFvVg|193853",
+  song: "song/zara-larsson-lush-life",
 } as const satisfies Track

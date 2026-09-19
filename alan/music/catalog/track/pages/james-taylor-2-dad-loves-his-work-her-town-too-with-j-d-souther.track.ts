@@ -26,4 +26,5 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
     { externalId: "0I7UnRLIdCD310ZBgeuqh5", artistName: "JD Souther" },
   ],
   trackKey: "hertowntoowithjdsouther|0I7UnRLIdCD310ZBgeuqh5,0vn7UBvSQECKJm2817Yf1P|274440",
+  song: "song/james-taylor-her-town-too",
 } as const satisfies Track

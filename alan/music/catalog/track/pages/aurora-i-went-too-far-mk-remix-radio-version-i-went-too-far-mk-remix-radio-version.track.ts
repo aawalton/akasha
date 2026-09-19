@@ -26,4 +26,5 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
     { externalId: "1yqxFtPHKcGcv6SXZNdyT9", artistName: "MK" },
   ],
   trackKey: "iwenttoofarmkremixradioversion|1WgXqy2Dd70QQOU7Ay074N,1yqxFtPHKcGcv6SXZNdyT9|237070",
+  song: "song/aurora-i-went-too-far",
 } as const satisfies Track

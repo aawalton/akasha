@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionE
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "eternalsunshineacappella|66CXWjxzNUsdJxJ2JdwvnR|203887",
+  song: "song/ariana-grande-eternal-sunshine",
 } as const satisfies Track

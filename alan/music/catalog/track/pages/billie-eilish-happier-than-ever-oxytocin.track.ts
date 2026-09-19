@@ -23,4 +23,5 @@ export const billieEilishHappierThanEverOxytocin = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "oxytocin|6qqNVTkY8uBg9cP3Jd7DAH|210232",
+  song: "song/billie-eilish-oxytocin",
 } as const satisfies Track

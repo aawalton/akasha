@@ -26,4 +26,5 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderGazzoRemix = {
     { externalId: "5st4KKihmnSMLRsxWOs2x3", artistName: "Gazzo" },
   ],
   trackKey: "sixfeetundergazzoremix|5st4KKihmnSMLRsxWOs2x3,6qqNVTkY8uBg9cP3Jd7DAH|208000",
+  song: "song/billie-eilish-six-feet-under",
 } as const satisfies Track

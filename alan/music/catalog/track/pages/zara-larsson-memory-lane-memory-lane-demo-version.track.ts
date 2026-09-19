@@ -23,4 +23,5 @@ export const zaraLarssonMemoryLaneMemoryLaneDemoVersion = {
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "memorylanedemoversion|1Xylc3o4UrD53lo9CvFvVg|185184",
+  song: "song/zara-larsson-memory-lane",
 } as const satisfies Track

@@ -29,4 +29,5 @@ export const auroraIDrinkTheLightJengiRemixIDrinkTheLightJengiRemix = {
   ],
   trackKey:
     "idrinkthelightjengiremix|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,4lgrPvofm0IT605L9OrOTN,5r0BuurxKQugj8cjHiO8pY|313762",
+  song: "song/aurora-i-drink-the-light",
 } as const satisfies Track

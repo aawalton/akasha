@@ -23,4 +23,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenue = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "honeymoonavenue|66CXWjxzNUsdJxJ2JdwvnR|339734",
+  song: "song/ariana-grande-honeymoon-avenue",
 } as const satisfies Track

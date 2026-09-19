@@ -28,4 +28,5 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
   ],
   trackKey:
     "inaminutelivefromthestudioversion|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|602311",
+  song: "song/aurora-in-a-minute",
 } as const satisfies Track

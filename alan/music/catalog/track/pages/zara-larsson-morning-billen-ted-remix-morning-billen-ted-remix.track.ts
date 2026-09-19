@@ -26,4 +26,5 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
     { externalId: "5PoZtBo8xZKqPWlZrIDq82", artistName: "Billen Ted" },
   ],
   trackKey: "morningbillentedremix|1Xylc3o4UrD53lo9CvFvVg,5PoZtBo8xZKqPWlZrIDq82|146904",
+  song: "song/zara-larsson-morning",
 } as const satisfies Track

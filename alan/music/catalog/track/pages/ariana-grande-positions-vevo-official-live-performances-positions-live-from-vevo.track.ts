@@ -23,4 +23,5 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesPositionsLiveFromV
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "positionslivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|261121",
+  song: "song/ariana-grande-positions",
 } as const satisfies Track

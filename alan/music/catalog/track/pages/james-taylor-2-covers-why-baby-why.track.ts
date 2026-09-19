@@ -23,4 +23,5 @@ export const jamesTaylor2CoversWhyBabyWhy = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "whybabywhy|0vn7UBvSQECKJm2817Yf1P|160680",
+  song: "song/james-taylor-why-baby-why",
 } as const satisfies Track

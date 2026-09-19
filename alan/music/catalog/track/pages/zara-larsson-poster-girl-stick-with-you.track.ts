@@ -23,4 +23,5 @@ export const zaraLarssonPosterGirlStickWithYou = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "stickwithyou|1Xylc3o4UrD53lo9CvFvVg|179502",
+  song: "song/zara-larsson-stick-with-you",
 } as const satisfies Track

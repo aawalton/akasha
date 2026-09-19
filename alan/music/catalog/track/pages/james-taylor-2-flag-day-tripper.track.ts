@@ -23,4 +23,5 @@ export const jamesTaylor2FlagDayTripper = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "daytripper|0vn7UBvSQECKJm2817Yf1P|264400",
+  song: "song/james-taylor-day-tripper",
 } as const satisfies Track

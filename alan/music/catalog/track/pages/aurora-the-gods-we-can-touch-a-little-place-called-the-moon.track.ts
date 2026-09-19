@@ -23,4 +23,5 @@ export const auroraTheGodsWeCanTouchALittlePlaceCalledTheMoon = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "alittleplacecalledthemoon|1WgXqy2Dd70QQOU7Ay074N|250693",
+  song: "song/aurora-a-little-place-called-the-moon",
 } as const satisfies Track

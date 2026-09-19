@@ -28,4 +28,5 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
   ],
   trackKey:
     "intoyoualexghenearemix|1mGISDumAyOoK6epKA8gq1,4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|218160",
+  song: "song/ariana-grande-into-you",
 } as const satisfies Track

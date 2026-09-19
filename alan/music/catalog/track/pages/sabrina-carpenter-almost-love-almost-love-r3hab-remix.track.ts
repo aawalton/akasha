@@ -26,4 +26,5 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveR3habRemix = {
     { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
   ],
   trackKey: "almostlover3habremix|6cEuCEZu7PAE9ZSzLLc2oQ,74KM79TiuVKeVCqs8QtB0B|176395",
+  song: "song/sabrina-carpenter-almost-love",
 } as const satisfies Track

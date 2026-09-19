@@ -26,4 +26,5 @@ export const arianaGrandePositionsOffTheTableWithTheWeeknd = {
     { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
   ],
   trackKey: "offthetablewiththeweeknd|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|239949",
+  song: "song/ariana-grande-off-the-table",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "dieforyouremix|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|232857",
+  song: "song/ariana-grande-die-for-you",
 } as const satisfies Track

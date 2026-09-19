@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMachineGunKell
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "machinegunkelly2019remaster|0vn7UBvSQECKJm2817Yf1P|157163",
+  song: "song/james-taylor-machine-gun-kelly",
 } as const satisfies Track

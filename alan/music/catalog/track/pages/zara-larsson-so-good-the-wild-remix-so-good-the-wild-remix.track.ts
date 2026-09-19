@@ -26,4 +26,5 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
     { externalId: "74lRkEloOvori8dZJjNEjd", artistName: "The Wild" },
   ],
   trackKey: "sogoodthewildremix|1Xylc3o4UrD53lo9CvFvVg,74lRkEloOvori8dZJjNEjd|225453",
+  song: "song/zara-larsson-so-good",
 } as const satisfies Track

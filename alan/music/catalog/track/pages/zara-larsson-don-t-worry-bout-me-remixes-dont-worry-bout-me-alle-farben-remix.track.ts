@@ -26,4 +26,5 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeAlleFarbenRemix = {
     { externalId: "61ipISvUVa5LkJlKZnm3Oo", artistName: "Alle Farben" },
   ],
   trackKey: "dontworryboutmeallefarbenremix|1Xylc3o4UrD53lo9CvFvVg,61ipISvUVa5LkJlKZnm3Oo|171913",
+  song: "song/zara-larsson-don-t-worry-bout-me",
 } as const satisfies Track

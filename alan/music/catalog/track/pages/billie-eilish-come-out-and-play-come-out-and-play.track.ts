@@ -23,4 +23,5 @@ export const billieEilishComeOutAndPlayComeOutAndPlay = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "comeoutandplay|6qqNVTkY8uBg9cP3Jd7DAH|210375",
+  song: "song/billie-eilish-come-out-and-play",
 } as const satisfies Track

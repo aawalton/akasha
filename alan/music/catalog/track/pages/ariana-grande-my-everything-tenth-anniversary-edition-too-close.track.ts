@@ -23,4 +23,5 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionTooClose = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tooclose|66CXWjxzNUsdJxJ2JdwvnR|215810",
+  song: "song/ariana-grande-too-close",
 } as const satisfies Track

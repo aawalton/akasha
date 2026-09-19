@@ -23,4 +23,5 @@ export const thePianoGuys3LiveWhatMakesYouBeautifulLive = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatmakesyoubeautifullive|0jW6R8CVyVohuUJVcuweDI|231493",
+  song: "song/the-piano-guys-what-makes-you-beautiful",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandeFocusFocus = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "focus|66CXWjxzNUsdJxJ2JdwvnR|211360",
+  song: "song/ariana-grande-focus",
 } as const satisfies Track

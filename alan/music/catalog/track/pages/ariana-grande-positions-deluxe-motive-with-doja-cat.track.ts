@@ -26,4 +26,5 @@ export const arianaGrandePositionsDeluxeMotiveWithDojaCat = {
     { externalId: "5cj0lLjcoR7YOSnhnX0Po5", artistName: "Doja Cat" },
   ],
   trackKey: "motivewithdojacat|5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|167989",
+  song: "song/ariana-grande-motive",
 } as const satisfies Track

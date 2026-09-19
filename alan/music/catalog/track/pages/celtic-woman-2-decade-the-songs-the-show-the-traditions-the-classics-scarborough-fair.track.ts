@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsScarboroug
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "scarboroughfair|6NWtt9pNOL2Gx7kBykdE5x|197386",
+  song: "song/celtic-woman-scarborough-fair",
 } as const satisfies Track

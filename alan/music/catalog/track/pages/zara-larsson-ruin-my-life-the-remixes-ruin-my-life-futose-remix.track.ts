@@ -26,4 +26,5 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeFutoseRemix = {
     { externalId: "6FeeyXqknRHo5IhqaqKe4L", artistName: "Futosé" },
   ],
   trackKey: "ruinmylifefutoseremix|1Xylc3o4UrD53lo9CvFvVg,6FeeyXqknRHo5IhqaqKe4L|284890",
+  song: "song/zara-larsson-ruin-my-life",
 } as const satisfies Track

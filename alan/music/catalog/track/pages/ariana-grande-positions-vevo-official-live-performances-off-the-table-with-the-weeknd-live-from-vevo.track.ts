@@ -28,4 +28,5 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
     ],
     trackKey:
       "offthetablewiththeweekndlivefromvevo|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|250132",
+    song: "song/ariana-grande-off-the-table",
   } as const satisfies Track

@@ -26,4 +26,5 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
     { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
   ],
   trackKey: "youneedmenowfeatsabrinacarpenter|3uwAm6vQy7kWPS2bciKWx9,74KM79TiuVKeVCqs8QtB0B|186377",
+  song: "song/girl-in-red-you-need-me-now",
 } as const satisfies Track

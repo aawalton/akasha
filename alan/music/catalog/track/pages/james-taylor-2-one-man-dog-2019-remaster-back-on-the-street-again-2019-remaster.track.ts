@@ -23,4 +23,5 @@ export const jamesTaylor2OneManDog2019RemasterBackOnTheStreetAgain2019Remaster =
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "backonthestreetagain2019remaster|0vn7UBvSQECKJm2817Yf1P|181505",
+  song: "song/james-taylor-back-on-the-street-again",
 } as const satisfies Track

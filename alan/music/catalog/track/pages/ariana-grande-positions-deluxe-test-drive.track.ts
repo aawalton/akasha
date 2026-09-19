@@ -23,4 +23,5 @@ export const arianaGrandePositionsDeluxeTestDrive = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "testdrive|66CXWjxzNUsdJxJ2JdwvnR|122174",
+  song: "song/ariana-grande-test-drive",
 } as const satisfies Track

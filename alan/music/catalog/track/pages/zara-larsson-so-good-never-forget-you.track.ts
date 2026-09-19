@@ -26,4 +26,5 @@ export const zaraLarssonSoGoodNeverForgetYou = {
     { externalId: "7uMh23xWiuR7zsNkuNcm2G", artistName: "MNEK" },
   ],
   trackKey: "neverforgetyou|1Xylc3o4UrD53lo9CvFvVg,7uMh23xWiuR7zsNkuNcm2G|212574",
+  song: "song/zara-larsson-never-forget-you",
 } as const satisfies Track

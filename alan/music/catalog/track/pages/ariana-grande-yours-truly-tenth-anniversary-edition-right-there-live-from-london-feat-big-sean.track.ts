@@ -27,4 +27,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
   ],
   trackKey:
     "righttherelivefromlondonfeatbigsean|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|196927",
+  song: "song/ariana-grande-right-there",
 } as const satisfies Track

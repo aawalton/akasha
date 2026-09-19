@@ -27,4 +27,5 @@ export const arianaGrandeSaveYourTearsRemixSaveYourTearsWithArianaGrandeRemix = 
   ],
   trackKey:
     "saveyourtearswitharianagranderemix|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|191013",
+  song: "song/ariana-grande-save-your-tears",
 } as const satisfies Track

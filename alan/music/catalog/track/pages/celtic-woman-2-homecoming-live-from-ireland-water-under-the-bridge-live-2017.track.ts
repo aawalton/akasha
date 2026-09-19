@@ -23,4 +23,5 @@ export const celticWoman2HomecomingLiveFromIrelandWaterUnderTheBridgeLive2017 = 
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "waterunderthebridgelive2017|6NWtt9pNOL2Gx7kBykdE5x|229480",
+  song: "song/celtic-woman-water-under-the-bridge",
 } as const satisfies Track

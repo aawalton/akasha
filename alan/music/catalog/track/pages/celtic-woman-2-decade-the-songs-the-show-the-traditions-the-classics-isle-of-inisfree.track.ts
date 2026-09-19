@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsIsleOfInis
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "isleofinisfree|6NWtt9pNOL2Gx7kBykdE5x|208560",
+  song: "song/celtic-woman-isle-of-inisfree",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionIDontCare = {
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "idontcare|66CXWjxzNUsdJxJ2JdwvnR|178032",
+  song: "song/ariana-grande-i-don-t-care",
 } as const satisfies Track

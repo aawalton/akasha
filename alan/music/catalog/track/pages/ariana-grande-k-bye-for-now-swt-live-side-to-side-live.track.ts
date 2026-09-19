@@ -26,4 +26,5 @@ export const arianaGrandeKByeForNowSwtLiveSideToSideLive = {
     { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
   ],
   trackKey: "sidetosidelive|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|260519",
+  song: "song/ariana-grande-side-to-side",
 } as const satisfies Track

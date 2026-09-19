@@ -26,4 +26,5 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
     { externalId: "3sKnxPwlgaR3gWa8Cz4WrE", artistName: "Black Chiney" },
   ],
   trackKey: "dontletmebeyoursblackchineyremix|1Xylc3o4UrD53lo9CvFvVg,3sKnxPwlgaR3gWa8Cz4WrE|205777",
+  song: "song/zara-larsson-don-t-let-me-be-yours",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const zaraLarssonEndOfTimeKungsRemixEndOfTimeKungsRemix = {
     { externalId: "7keGfmQR4X5w0two1xKZ7d", artistName: "Kungs" },
   ],
   trackKey: "endoftimekungsremix|1Xylc3o4UrD53lo9CvFvVg,7keGfmQR4X5w0two1xKZ7d|154890",
+  song: "song/zara-larsson-end-of-time",
 } as const satisfies Track

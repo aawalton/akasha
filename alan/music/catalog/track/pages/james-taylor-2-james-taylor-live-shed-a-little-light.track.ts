@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveShedALittleLight = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "shedalittlelight|0vn7UBvSQECKJm2817Yf1P|256133",
+  song: "song/james-taylor-shed-a-little-light",
 } as const satisfies Track

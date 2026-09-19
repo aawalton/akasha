@@ -27,4 +27,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   ],
   trackKey:
     "thewizardandilivefromthedolbytheatre|0O1n2TpXR4XizmHi7aY0l8,46UMQ0cW8ToR8egkBRwAxZ|353015",
+  song: "song/ariana-grande-the-wizard-and-i",
 } as const satisfies Track

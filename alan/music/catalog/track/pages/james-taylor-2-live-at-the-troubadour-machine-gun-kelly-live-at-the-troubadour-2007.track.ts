@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourMachineGunKellyLiveAtTheTroubadour20
   ],
   trackKey:
     "machinegunkellyliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|179293",
+  song: "song/james-taylor-machine-gun-kelly",
 } as const satisfies Track

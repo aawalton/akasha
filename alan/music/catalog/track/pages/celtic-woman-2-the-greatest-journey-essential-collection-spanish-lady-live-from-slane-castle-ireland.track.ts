@@ -24,4 +24,5 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSpanishLadyLiveFro
     explicit: false,
     trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
     trackKey: "spanishladylivefromslanecastleireland2006|6NWtt9pNOL2Gx7kBykdE5x|142946",
+    song: "song/celtic-woman-spanish-lady",
   } as const satisfies Track

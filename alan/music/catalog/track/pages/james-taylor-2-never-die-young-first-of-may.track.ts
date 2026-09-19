@@ -23,4 +23,5 @@ export const jamesTaylor2NeverDieYoungFirstOfMay = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "firstofmay|0vn7UBvSQECKJm2817Yf1P|241200",
+  song: "song/james-taylor-first-of-may",
 } as const satisfies Track

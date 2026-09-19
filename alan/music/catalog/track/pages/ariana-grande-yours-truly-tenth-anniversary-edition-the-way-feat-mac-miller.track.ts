@@ -26,4 +26,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayFeatMacMiller = 
     { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
   ],
   trackKey: "thewayfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|227033",
+  song: "song/ariana-grande-the-way",
 } as const satisfies Track

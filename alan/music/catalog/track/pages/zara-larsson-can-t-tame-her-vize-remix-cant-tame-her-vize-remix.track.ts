@@ -26,4 +26,5 @@ export const zaraLarssonCanTTameHerVizeRemixCantTameHerVizeRemix = {
     { externalId: "09agIJMxCD2k87ys9Al0f0", artistName: "VIZE" },
   ],
   trackKey: "canttamehervizeremix|09agIJMxCD2k87ys9Al0f0,1Xylc3o4UrD53lo9CvFvVg|173333",
+  song: "song/zara-larsson-can-t-tame-her",
 } as const satisfies Track

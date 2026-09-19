@@ -26,4 +26,5 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
     { externalId: "63XBtGSEZINSyXylZxEUbv", artistName: "Victoria Monét" },
   ],
   trackKey: "monopolywithvictoriamonet|63XBtGSEZINSyXylZxEUbv,66CXWjxzNUsdJxJ2JdwvnR|158586",
+  song: "song/ariana-grande-monopoly",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const billieEilishHitMeHardAndSoftWildflower = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "wildflower|6qqNVTkY8uBg9cP3Jd7DAH|261466",
+  song: "song/billie-eilish-wildflower",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const jamesTaylor2OctoberRoadSpecialEditionDontLetMeBeLonelyTonight = {
     { externalId: "5IkynsVZoak9UR2Xt8qsMj", artistName: "Michael Brecker" },
   ],
   trackKey: "dontletmebelonelytonight|0vn7UBvSQECKJm2817Yf1P,5IkynsVZoak9UR2Xt8qsMj|282933",
+  song: "song/james-taylor-dont-let-me-be-lonely-tonight",
 } as const satisfies Track

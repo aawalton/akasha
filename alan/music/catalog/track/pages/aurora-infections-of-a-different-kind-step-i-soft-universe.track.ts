@@ -23,4 +23,5 @@ export const auroraInfectionsOfADifferentKindStepISoftUniverse = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "softuniverse|1WgXqy2Dd70QQOU7Ay074N|239533",
+  song: "song/aurora-soft-universe",
 } as const satisfies Track

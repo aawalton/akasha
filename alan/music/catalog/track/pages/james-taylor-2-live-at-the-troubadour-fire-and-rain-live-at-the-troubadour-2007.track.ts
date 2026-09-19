@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
   ],
   trackKey:
     "fireandrainliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|344720",
+  song: "song/james-taylor-fire-and-rain",
 } as const satisfies Track

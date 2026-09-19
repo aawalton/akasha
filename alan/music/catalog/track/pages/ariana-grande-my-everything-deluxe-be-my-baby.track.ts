@@ -26,4 +26,5 @@ export const arianaGrandeMyEverythingDeluxeBeMyBaby = {
     { externalId: "2LZDXcxJWgsJfKXZv9a5eG", artistName: "Cashmere Cat" },
   ],
   trackKey: "bemybaby|2LZDXcxJWgsJfKXZv9a5eG,66CXWjxzNUsdJxJ2JdwvnR|217053",
+  song: "song/ariana-grande-be-my-baby",
 } as const satisfies Track

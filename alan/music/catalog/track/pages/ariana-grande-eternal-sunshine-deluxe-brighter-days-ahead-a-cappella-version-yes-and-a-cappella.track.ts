@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionY
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "yesandacappella|66CXWjxzNUsdJxJ2JdwvnR|196651",
+  song: "song/ariana-grande-yes-and-2",
 } as const satisfies Track

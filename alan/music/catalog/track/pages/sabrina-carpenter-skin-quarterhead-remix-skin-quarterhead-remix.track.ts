@@ -26,4 +26,5 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
     { externalId: "2h6hAChW74hB9HvrNoK1RY", artistName: "Quarterhead" },
   ],
   trackKey: "skinquarterheadremix|2h6hAChW74hB9HvrNoK1RY,74KM79TiuVKeVCqs8QtB0B|187000",
+  song: "song/sabrina-carpenter-skin",
 } as const satisfies Track

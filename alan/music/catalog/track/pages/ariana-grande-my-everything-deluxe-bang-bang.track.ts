@@ -27,4 +27,5 @@ export const arianaGrandeMyEverythingDeluxeBangBang = {
     { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
   ],
   trackKey: "bangbang|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR|199320",
+  song: "song/ariana-grande-bang-bang",
 } as const satisfies Track

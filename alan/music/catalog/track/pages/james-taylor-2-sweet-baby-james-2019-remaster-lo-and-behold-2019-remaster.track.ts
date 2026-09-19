@@ -23,4 +23,5 @@ export const jamesTaylor2SweetBabyJames2019RemasterLoAndBehold2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "loandbehold2019remaster|0vn7UBvSQECKJm2817Yf1P|158733",
+  song: "song/james-taylor-lo-and-behold",
 } as const satisfies Track

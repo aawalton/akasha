@@ -23,4 +23,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveIntroEndOfTheWo
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "introendoftheworldliveversion|66CXWjxzNUsdJxJ2JdwvnR|102710",
+  song: "song/ariana-grande-intro-end-of-the-world",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
     { externalId: "6LuN9FCkKOj5PcnpouEgny", artistName: "Khalid" },
   ],
   trackKey: "lovelywithkhalid|6LuN9FCkKOj5PcnpouEgny,6qqNVTkY8uBg9cP3Jd7DAH|200185",
+  song: "song/billie-eilish-lovely-2",
 } as const satisfies Track

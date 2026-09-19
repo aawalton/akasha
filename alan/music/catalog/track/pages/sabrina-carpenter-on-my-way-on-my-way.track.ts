@@ -27,4 +27,5 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
     { externalId: "329e4yvIujISKGKz1BZZbO", artistName: "Farruko" },
   ],
   trackKey: "onmyway|329e4yvIujISKGKz1BZZbO,74KM79TiuVKeVCqs8QtB0B,7vk5e3vY1uw9plTHJAMwjN|193797",
+  song: "song/sabrina-carpenter-on-my-way",
 } as const satisfies Track

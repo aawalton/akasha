@@ -23,4 +23,5 @@ export const jamesTaylor2NewMoonShineTheFrozenMan = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thefrozenman|0vn7UBvSQECKJm2817Yf1P|234240",
+  song: "song/james-taylor-the-frozen-man",
 } as const satisfies Track

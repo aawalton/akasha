@@ -26,4 +26,5 @@ export const sabrinaCarpenterSueMeRemixesSueMeDaveAudeRemix = {
     { externalId: "1vWImodgVqIgTUkekGEfR9", artistName: "Dave Audé" },
   ],
   trackKey: "suemedaveauderemix|1vWImodgVqIgTUkekGEfR9,74KM79TiuVKeVCqs8QtB0B|229687",
+  song: "song/sabrina-carpenter-sue-me",
 } as const satisfies Track

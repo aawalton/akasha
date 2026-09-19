@@ -23,4 +23,5 @@ export const arianaGrandeChristmasChillTrueLove = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "truelove|66CXWjxzNUsdJxJ2JdwvnR|166237",
+  song: "song/ariana-grande-true-love",
 } as const satisfies Track

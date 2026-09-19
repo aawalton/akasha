@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterDaddysAllGone2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "daddysallgone2019remaster|0vn7UBvSQECKJm2817Yf1P|219240",
+  song: "song/james-taylor-daddys-all-gone",
 } as const satisfies Track

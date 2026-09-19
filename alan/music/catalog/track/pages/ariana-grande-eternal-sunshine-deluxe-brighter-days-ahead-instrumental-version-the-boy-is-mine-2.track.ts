@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismineinstrumental|66CXWjxzNUsdJxJ2JdwvnR|173639",
+  song: "song/ariana-grande-the-boy-is-mine-2",
 } as const satisfies Track

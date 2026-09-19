@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMudSlideSlim20
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "mudslideslim2019remaster|0vn7UBvSQECKJm2817Yf1P|319213",
+  song: "song/james-taylor-mud-slide-slim",
 } as const satisfies Track

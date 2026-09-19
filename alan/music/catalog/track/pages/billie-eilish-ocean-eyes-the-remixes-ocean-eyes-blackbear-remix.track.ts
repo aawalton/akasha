@@ -26,4 +26,5 @@ export const billieEilishOceanEyesTheRemixesOceanEyesBlackbearRemix = {
     { externalId: "2cFrymmkijnjDg9SS92EPM", artistName: "blackbear" },
   ],
   trackKey: "oceaneyesblackbearremix|2cFrymmkijnjDg9SS92EPM,6qqNVTkY8uBg9cP3Jd7DAH|195306",
+  song: "song/billie-eilish-ocean-eyes",
 } as const satisfies Track

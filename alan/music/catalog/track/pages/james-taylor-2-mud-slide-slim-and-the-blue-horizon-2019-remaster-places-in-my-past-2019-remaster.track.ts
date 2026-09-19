@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterPlacesInMyPast
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "placesinmypast2019remaster|0vn7UBvSQECKJm2817Yf1P|121920",
+  song: "song/james-taylor-places-in-my-past",
 } as const satisfies Track

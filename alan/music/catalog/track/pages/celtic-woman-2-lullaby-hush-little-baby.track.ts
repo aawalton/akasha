@@ -26,4 +26,5 @@ export const celticWoman2LullabyHushLittleBaby = {
     { externalId: "4VdV1ro3dBSsu1cRGwbFD3", artistName: "Lisa Kelly" },
   ],
   trackKey: "hushlittlebaby|4VdV1ro3dBSsu1cRGwbFD3,6NWtt9pNOL2Gx7kBykdE5x|50173",
+  song: "song/celtic-woman-hush-little-baby",
 } as const satisfies Track

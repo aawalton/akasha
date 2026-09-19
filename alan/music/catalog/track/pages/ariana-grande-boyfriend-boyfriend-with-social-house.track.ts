@@ -26,4 +26,5 @@ export const arianaGrandeBoyfriendBoyfriendWithSocialHouse = {
     { externalId: "5UjifI1TYefXWn9GdqDOHl", artistName: "Social House" },
   ],
   trackKey: "boyfriendwithsocialhouse|5UjifI1TYefXWn9GdqDOHl,66CXWjxzNUsdJxJ2JdwvnR|186106",
+  song: "song/ariana-grande-boyfriend",
 } as const satisfies Track

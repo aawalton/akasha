@@ -26,4 +26,5 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
   ],
   trackKey: "angelswehaveheardonhigh|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|212741",
+  song: "song/the-piano-guys-angels-we-have-heard-on-high",
 } as const satisfies Track

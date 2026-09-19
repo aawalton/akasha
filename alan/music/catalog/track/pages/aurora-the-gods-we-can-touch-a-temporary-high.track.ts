@@ -23,4 +23,5 @@ export const auroraTheGodsWeCanTouchATemporaryHigh = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "atemporaryhigh|1WgXqy2Dd70QQOU7Ay074N|203066",
+  song: "song/aurora-a-temporary-high",
 } as const satisfies Track

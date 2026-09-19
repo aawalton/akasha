@@ -23,4 +23,5 @@ export const billieEilishGuitarSongsTv = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "tv|6qqNVTkY8uBg9cP3Jd7DAH|281380",
+  song: "song/billie-eilish-tv",
 } as const satisfies Track

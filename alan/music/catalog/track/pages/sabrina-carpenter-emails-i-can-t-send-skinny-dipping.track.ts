@@ -23,4 +23,5 @@ export const sabrinaCarpenterEmailsICanTSendSkinnyDipping = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "skinnydipping|74KM79TiuVKeVCqs8QtB0B|177750",
+  song: "song/sabrina-carpenter-skinny-dipping",
 } as const satisfies Track

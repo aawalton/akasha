@@ -23,4 +23,5 @@ export const jamesTaylor2NewMoonShineLikeEveryoneSheKnows = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "likeeveryonesheknows|0vn7UBvSQECKJm2817Yf1P|295973",
+  song: "song/james-taylor-like-everyone-she-knows",
 } as const satisfies Track

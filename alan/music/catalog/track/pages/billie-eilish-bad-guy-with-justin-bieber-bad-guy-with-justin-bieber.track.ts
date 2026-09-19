@@ -26,4 +26,5 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
     { externalId: "1uNFoZAHBGtllmzznpCI3s", artistName: "Justin Bieber" },
   ],
   trackKey: "badguywithjustinbieber|1uNFoZAHBGtllmzznpCI3s,6qqNVTkY8uBg9cP3Jd7DAH|194839",
+  song: "song/billie-eilish-bad-guy",
 } as const satisfies Track

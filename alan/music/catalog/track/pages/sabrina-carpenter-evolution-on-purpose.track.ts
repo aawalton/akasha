@@ -23,4 +23,5 @@ export const sabrinaCarpenterEvolutionOnPurpose = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "onpurpose|74KM79TiuVKeVCqs8QtB0B|238133",
+  song: "song/sabrina-carpenter-on-purpose",
 } as const satisfies Track

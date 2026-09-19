@@ -27,4 +27,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryWonderful = {
     { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
   ],
   trackKey: "wonderful|0O1n2TpXR4XizmHi7aY0l8,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|285456",
+  song: "song/ariana-grande-wonderful",
 } as const satisfies Track

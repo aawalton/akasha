@@ -23,4 +23,5 @@ export const sabrinaCarpenterEmailsICanTSendFwdOpposite = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "opposite|74KM79TiuVKeVCqs8QtB0B|168170",
+  song: "song/sabrina-carpenter-opposite",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "methimlastnight|66CXWjxzNUsdJxJ2JdwvnR,6S2OmqARrzebs0tKUEyXyp|204631",
+  song: "song/ariana-grande-met-him-last-night",
 } as const satisfies Track

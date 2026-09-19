@@ -26,4 +26,5 @@ export const auroraQueendomRemixesQueendomSisterBlissRemix = {
     { externalId: "4tc9NREea7ncB7JzqdBsj5", artistName: "Sister Bliss" },
   ],
   trackKey: "queendomsisterblissremix|1WgXqy2Dd70QQOU7Ay074N,4tc9NREea7ncB7JzqdBsj5|378560",
+  song: "song/aurora-queendom",
 } as const satisfies Track

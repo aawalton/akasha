@@ -23,4 +23,5 @@ export const jamesTaylor2OneManBandSteamrollerBluesLiveAtTheColonialTheatre2007 
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "steamrollerbluesliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|359560",
+  song: "song/james-taylor-steamroller-blues",
 } as const satisfies Track

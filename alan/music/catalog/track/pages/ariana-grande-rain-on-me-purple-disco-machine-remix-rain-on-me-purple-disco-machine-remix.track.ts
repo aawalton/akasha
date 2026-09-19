@@ -28,4 +28,5 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
   ],
   trackKey:
     "rainonmepurplediscomachineremix|1HY2Jd0NmPuamShAr6KMms,2WBJQGf1bT1kxuoqziH5g4,66CXWjxzNUsdJxJ2JdwvnR|394187",
+  song: "song/ariana-grande-rain-on-me",
 } as const satisfies Track

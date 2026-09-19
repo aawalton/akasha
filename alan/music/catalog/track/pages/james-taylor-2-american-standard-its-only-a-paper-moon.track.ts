@@ -23,4 +23,5 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "itsonlyapapermoon|0vn7UBvSQECKJm2817Yf1P|191893",
+  song: "song/james-taylor-its-only-a-paper-moon",
 } as const satisfies Track

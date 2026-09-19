@@ -23,4 +23,5 @@ export const jamesTaylor2OneManBandCarolinaInMyMindLiveAtTheColonialTheatre2007 
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "carolinainmymindliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|304093",
+  song: "song/james-taylor-carolina-in-my-mind",
 } as const satisfies Track

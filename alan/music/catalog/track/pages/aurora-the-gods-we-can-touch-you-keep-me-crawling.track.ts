@@ -23,4 +23,5 @@ export const auroraTheGodsWeCanTouchYouKeepMeCrawling = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "youkeepmecrawling|1WgXqy2Dd70QQOU7Ay074N|179133",
+  song: "song/aurora-you-keep-me-crawling",
 } as const satisfies Track

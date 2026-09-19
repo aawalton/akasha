@@ -29,4 +29,5 @@ export const thePianoGuys3MoreThanWordsMoreThanWords = {
   ],
   trackKey:
     "morethanwords|0jW6R8CVyVohuUJVcuweDI,3konlNIREmuxZRIFKSPKmK,5aIqB5nVVvmFsvSdExz408,703RcPLoxfMOHihd6uJxSd|235880",
+  song: "song/the-piano-guys-more-than-words",
 } as const satisfies Track

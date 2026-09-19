@@ -23,4 +23,5 @@ export const sabrinaCarpenterEvolutionSpace = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "space|74KM79TiuVKeVCqs8QtB0B|186293",
+  song: "song/sabrina-carpenter-space",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandeThankUNextThankUNext = {
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thankunext|66CXWjxzNUsdJxJ2JdwvnR|207320",
+  song: "song/ariana-grande-thank-u-next",
 } as const satisfies Track

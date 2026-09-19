@@ -26,4 +26,5 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
     { externalId: "6icQOAFXDZKsumw3YXyusw", artistName: "Lil Yachty" },
   ],
   trackKey: "aintmyfaultfeatlilyachtyremix|1Xylc3o4UrD53lo9CvFvVg,6icQOAFXDZKsumw3YXyusw|238360",
+  song: "song/zara-larsson-ain-t-my-fault",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const sabrinaCarpenterSueMeRemixesSueMeMarianHillRemix = {
     { externalId: "1xHQO9GJIW9OXHxGBISYc5", artistName: "Marian Hill" },
   ],
   trackKey: "suememarianhillremix|1xHQO9GJIW9OXHxGBISYc5,74KM79TiuVKeVCqs8QtB0B|216842",
+  song: "song/sabrina-carpenter-sue-me",
 } as const satisfies Track

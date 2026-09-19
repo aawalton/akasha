@@ -23,4 +23,5 @@ export const auroraRunawayPianoAcousticRunawayPianoAcoustic = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runawaypianoacoustic|1WgXqy2Dd70QQOU7Ay074N|288786",
+  song: "song/aurora-runaway",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
   ],
   trackKey: "ocomeocomeemmanuel|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|305108",
+  song: "song/the-piano-guys-o-come-o-come-emmanuel",
 } as const satisfies Track

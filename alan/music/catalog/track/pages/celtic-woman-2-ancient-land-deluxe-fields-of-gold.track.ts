@@ -23,4 +23,5 @@ export const celticWoman2AncientLandDeluxeFieldsOfGold = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "fieldsofgold|6NWtt9pNOL2Gx7kBykdE5x|216146",
+  song: "song/celtic-woman-fields-of-gold",
 } as const satisfies Track

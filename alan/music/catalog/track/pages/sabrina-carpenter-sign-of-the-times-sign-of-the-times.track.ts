@@ -26,4 +26,5 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
     { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
   ],
   trackKey: "signofthetimes|2TL8gYTNgD6nXkyuUdDrMg,74KM79TiuVKeVCqs8QtB0B|253269",
+  song: "song/sabrina-carpenter-sign-of-the-times",
 } as const satisfies Track

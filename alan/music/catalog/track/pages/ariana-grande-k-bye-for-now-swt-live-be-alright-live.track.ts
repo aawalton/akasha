@@ -23,4 +23,5 @@ export const arianaGrandeKByeForNowSwtLiveBeAlrightLive = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "bealrightlive|66CXWjxzNUsdJxJ2JdwvnR|174604",
+  song: "song/ariana-grande-be-alright",
 } as const satisfies Track

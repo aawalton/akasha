@@ -23,4 +23,5 @@ export const jamesTaylor2JtIfIKeepMyHeartOutOfSight = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ifikeepmyheartoutofsight|0vn7UBvSQECKJm2817Yf1P|179207",
+  song: "song/james-taylor-if-i-keep-my-heart-out-of-sight",
 } as const satisfies Track

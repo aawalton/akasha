@@ -27,4 +27,5 @@ export const zaraLarssonLikeItIsLikeItIs = {
     { externalId: "5LHRHt1k9lMyONurDHEdrp", artistName: "Tyga" },
   ],
   trackKey: "likeitis|1Xylc3o4UrD53lo9CvFvVg,23fqKkggKUBHNkbKtXEls4,5LHRHt1k9lMyONurDHEdrp|183067",
+  song: "song/zara-larsson-like-it-is",
 } as const satisfies Track

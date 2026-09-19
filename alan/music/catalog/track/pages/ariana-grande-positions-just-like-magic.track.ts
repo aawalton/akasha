@@ -23,4 +23,5 @@ export const arianaGrandePositionsJustLikeMagic = {
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "justlikemagic|66CXWjxzNUsdJxJ2JdwvnR|149900",
+  song: "song/ariana-grande-just-like-magic",
 } as const satisfies Track

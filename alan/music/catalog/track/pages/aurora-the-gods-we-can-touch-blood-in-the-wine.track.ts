@@ -23,4 +23,5 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "bloodinthewine|1WgXqy2Dd70QQOU7Ay074N|209960",
+  song: "song/aurora-blood-in-the-wine",
 } as const satisfies Track

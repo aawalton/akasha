@@ -23,4 +23,5 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "knockonwood|0vn7UBvSQECKJm2817Yf1P|232133",
+  song: "song/james-taylor-knock-on-wood",
 } as const satisfies Track

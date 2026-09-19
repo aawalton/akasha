@@ -26,4 +26,5 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
     { externalId: "7ltDVBr6mKbRvohxheJ9h1", artistName: "ROSALÍA" },
   ],
   trackKey: "lovasaolvidarwithrosalia|6qqNVTkY8uBg9cP3Jd7DAH,7ltDVBr6mKbRvohxheJ9h1|203464",
+  song: "song/billie-eilish-lo-vas-a-olvidar",
 } as const satisfies Track

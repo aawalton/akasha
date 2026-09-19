@@ -23,4 +23,5 @@ export const jamesTaylor2OneManDog2019RemasterDontLetMeBeLonelyTonight2019Remast
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "dontletmebelonelytonight2019remaster|0vn7UBvSQECKJm2817Yf1P|155343",
+  song: "song/james-taylor-dont-let-me-be-lonely-tonight",
 } as const satisfies Track

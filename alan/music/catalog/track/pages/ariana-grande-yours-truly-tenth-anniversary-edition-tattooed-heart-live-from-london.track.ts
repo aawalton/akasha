@@ -23,4 +23,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeartLiveFromL
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheartlivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|193998",
+  song: "song/ariana-grande-tattooed-heart",
 } as const satisfies Track

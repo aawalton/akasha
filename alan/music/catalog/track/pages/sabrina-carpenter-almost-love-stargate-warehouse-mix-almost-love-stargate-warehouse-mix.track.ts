@@ -23,4 +23,5 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "almostlovestargatewarehousemix|74KM79TiuVKeVCqs8QtB0B|200341",
+  song: "song/sabrina-carpenter-almost-love",
 } as const satisfies Track

@@ -27,4 +27,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionAlmostIsNeverEnoughWit
   ],
   trackKey:
     "almostisneverenoughwithnathansykes|2Rf4X6m0oayCJhaJ5K63GQ,66CXWjxzNUsdJxJ2JdwvnR|327775",
+  song: "song/ariana-grande-almost-is-never-enough",
 } as const satisfies Track

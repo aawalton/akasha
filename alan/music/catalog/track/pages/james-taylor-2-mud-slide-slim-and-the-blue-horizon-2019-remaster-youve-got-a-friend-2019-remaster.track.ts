@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterYouveGotAFrien
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youvegotafriend2019remaster|0vn7UBvSQECKJm2817Yf1P|268866",
+  song: "song/james-taylor-youve-got-a-friend",
 } as const satisfies Track

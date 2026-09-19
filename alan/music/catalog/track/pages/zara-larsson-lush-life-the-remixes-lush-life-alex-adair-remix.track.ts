@@ -26,4 +26,5 @@ export const zaraLarssonLushLifeTheRemixesLushLifeAlexAdairRemix = {
     { externalId: "1mrrvBvbrm28iYaPlJ9mG5", artistName: "Alex Adair" },
   ],
   trackKey: "lushlifealexadairremix|1Xylc3o4UrD53lo9CvFvVg,1mrrvBvbrm28iYaPlJ9mG5|214491",
+  song: "song/zara-larsson-lush-life",
 } as const satisfies Track

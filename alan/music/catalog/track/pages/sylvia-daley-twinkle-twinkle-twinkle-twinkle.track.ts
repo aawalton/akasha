@@ -23,4 +23,5 @@ export const sylviaDaleyTwinkleTwinkleTwinkleTwinkle = {
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "twinkletwinkle|03dXd2zBbBJvX60Oap8Lgo|145714",
+  song: "song/sylvia-daley-twinkle-twinkle",
 } as const satisfies Track

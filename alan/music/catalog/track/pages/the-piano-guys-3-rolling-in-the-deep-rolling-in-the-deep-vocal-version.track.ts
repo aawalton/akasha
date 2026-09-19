@@ -26,4 +26,5 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
     { externalId: "29beZlklJNMaRN3MS40ZYq", artistName: "Amanda Scott" },
   ],
   trackKey: "rollinginthedeepvocalversion|0jW6R8CVyVohuUJVcuweDI,29beZlklJNMaRN3MS40ZYq|240973",
+  song: "song/the-piano-guys-rolling-in-the-deep",
 } as const satisfies Track

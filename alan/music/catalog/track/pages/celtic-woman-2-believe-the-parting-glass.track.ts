@@ -30,4 +30,5 @@ export const celticWoman2BelieveThePartingGlass = {
   ],
   trackKey:
     "thepartingglass|0bcumn1QlNcVagBgOAvPLU,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,4XeAMQYA8376n4ua0sEMxp,6NWtt9pNOL2Gx7kBykdE5x|252080",
+  song: "song/celtic-woman-the-parting-glass",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2CoversNotFadeAway = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "notfadeaway|0vn7UBvSQECKJm2817Yf1P|165746",
+  song: "song/james-taylor-not-fade-away",
 } as const satisfies Track

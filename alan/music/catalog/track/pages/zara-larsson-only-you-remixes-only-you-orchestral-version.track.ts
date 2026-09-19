@@ -23,4 +23,5 @@ export const zaraLarssonOnlyYouRemixesOnlyYouOrchestralVersion = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "onlyyouorchestralversion|1Xylc3o4UrD53lo9CvFvVg|227389",
+  song: "song/zara-larsson-only-you",
 } as const satisfies Track

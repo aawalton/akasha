@@ -26,4 +26,5 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
     { externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" },
   ],
   trackKey: "theriveraskjellremix|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F|208002",
+  song: "song/aurora-the-river",
 } as const satisfies Track

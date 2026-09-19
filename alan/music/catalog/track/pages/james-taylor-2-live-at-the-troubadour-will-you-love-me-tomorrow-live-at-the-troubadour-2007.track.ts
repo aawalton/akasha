@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourWillYouLoveMeTomorrowLiveAtTheTrouba
   ],
   trackKey:
     "willyoulovemetomorrowliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|252653",
+  song: "song/james-taylor-will-you-love-me-tomorrow",
 } as const satisfies Track

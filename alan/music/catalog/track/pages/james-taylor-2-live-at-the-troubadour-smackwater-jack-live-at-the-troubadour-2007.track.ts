@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourSmackwaterJackLiveAtTheTroubadour200
   ],
   trackKey:
     "smackwaterjackliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|325253",
+  song: "song/james-taylor-smackwater-jack",
 } as const satisfies Track

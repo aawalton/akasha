@@ -23,4 +23,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "imperfectforyouliveversion|66CXWjxzNUsdJxJ2JdwvnR|186201",
+  song: "song/ariana-grande-imperfect-for-you",
 } as const satisfies Track

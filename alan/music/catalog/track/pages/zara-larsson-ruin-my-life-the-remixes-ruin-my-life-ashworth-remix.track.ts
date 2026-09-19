@@ -26,4 +26,5 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeAshworthRemix = {
     { externalId: "3pcGjcfEW3YD2Hfk6tDR5S", artistName: "Ashworth" },
   ],
   trackKey: "ruinmylifeashworthremix|1Xylc3o4UrD53lo9CvFvVg,3pcGjcfEW3YD2Hfk6tDR5S|191108",
+  song: "song/zara-larsson-ruin-my-life",
 } as const satisfies Track

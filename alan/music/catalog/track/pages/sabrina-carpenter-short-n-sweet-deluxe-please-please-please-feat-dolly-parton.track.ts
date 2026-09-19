@@ -27,4 +27,5 @@ export const sabrinaCarpenterShortNSweetDeluxePleasePleasePleaseFeatDollyParton 
   ],
   trackKey:
     "pleasepleasepleasefeatdollyparton|32vWCbZh0xZ4o9gkz4PsEU,74KM79TiuVKeVCqs8QtB0B|184136",
+  song: "song/sabrina-carpenter-please-please-please",
 } as const satisfies Track

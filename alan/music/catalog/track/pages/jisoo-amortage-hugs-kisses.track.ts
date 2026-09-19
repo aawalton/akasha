@@ -23,4 +23,5 @@ export const jisooAmortageHugsKisses = {
   explicit: false,
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "hugskisses|6UZ0ba50XreR4TM8u322gs|189826",
+  song: "song/jisoo-hugs-kisses",
 } as const satisfies Track

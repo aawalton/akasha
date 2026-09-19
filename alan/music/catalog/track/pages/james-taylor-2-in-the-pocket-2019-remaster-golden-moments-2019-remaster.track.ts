@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterGoldenMoments2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "goldenmoments2019remaster|0vn7UBvSQECKJm2817Yf1P|216480",
+  song: "song/james-taylor-golden-moments",
 } as const satisfies Track

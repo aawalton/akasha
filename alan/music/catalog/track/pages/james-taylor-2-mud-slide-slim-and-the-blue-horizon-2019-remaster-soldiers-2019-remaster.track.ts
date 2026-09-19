@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterSoldiers2019Re
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "soldiers2019remaster|0vn7UBvSQECKJm2817Yf1P|75240",
+  song: "song/james-taylor-soldiers",
 } as const satisfies Track

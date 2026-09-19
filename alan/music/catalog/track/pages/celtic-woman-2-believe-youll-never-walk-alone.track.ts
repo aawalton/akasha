@@ -29,4 +29,5 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
   ],
   trackKey:
     "youllneverwalkalone|2fJCHSiF0CwzZ2vuYWtt2p,4IbAZwt75dpehMOgcC3GnP,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|238226",
+  song: "song/celtic-woman-youll-never-walk-alone",
 } as const satisfies Track

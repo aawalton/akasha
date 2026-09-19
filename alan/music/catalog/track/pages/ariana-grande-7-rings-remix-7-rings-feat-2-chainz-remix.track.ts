@@ -26,4 +26,5 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
     { externalId: "17lzZA2AlOHwCwFALHttmp", artistName: "2 Chainz" },
   ],
   trackKey: "7ringsfeat2chainzremix|17lzZA2AlOHwCwFALHttmp,66CXWjxzNUsdJxJ2JdwvnR|178640",
+  song: "song/ariana-grande-7-rings",
 } as const satisfies Track

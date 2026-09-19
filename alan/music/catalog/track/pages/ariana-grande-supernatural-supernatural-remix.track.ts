@@ -26,4 +26,5 @@ export const arianaGrandeSupernaturalSupernaturalRemix = {
     { externalId: "3WGpXCj9YhhfX11TToZcXP", artistName: "Troye Sivan" },
   ],
   trackKey: "supernaturalremix|3WGpXCj9YhhfX11TToZcXP,66CXWjxzNUsdJxJ2JdwvnR|163381",
+  song: "song/ariana-grande-supernatural-2",
 } as const satisfies Track

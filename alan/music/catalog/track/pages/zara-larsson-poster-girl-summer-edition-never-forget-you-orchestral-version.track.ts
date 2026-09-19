@@ -23,4 +23,5 @@ export const zaraLarssonPosterGirlSummerEditionNeverForgetYouOrchestralVersion =
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "neverforgetyouorchestralversion|1Xylc3o4UrD53lo9CvFvVg|229605",
+  song: "song/zara-larsson-never-forget-you",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2JtLookingForLoveOnBroadway = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lookingforloveonbroadway|0vn7UBvSQECKJm2817Yf1P|141797",
+  song: "song/james-taylor-looking-for-love-on-broadway",
 } as const satisfies Track

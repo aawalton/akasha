@@ -23,4 +23,5 @@ export const billieEilishDontSmileAtMeCopycat = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "copycat|6qqNVTkY8uBg9cP3Jd7DAH|194711",
+  song: "song/billie-eilish-copycat",
 } as const satisfies Track

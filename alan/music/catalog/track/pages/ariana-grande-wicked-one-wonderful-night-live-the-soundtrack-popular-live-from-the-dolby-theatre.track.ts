@@ -23,4 +23,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "popularlivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|354873",
+  song: "song/ariana-grande-popular",
 } as const satisfies Track

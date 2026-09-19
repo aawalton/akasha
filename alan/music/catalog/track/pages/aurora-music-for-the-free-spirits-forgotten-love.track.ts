@@ -23,4 +23,5 @@ export const auroraMusicForTheFreeSpiritsForgottenLove = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "forgottenlove|1WgXqy2Dd70QQOU7Ay074N|206469",
+  song: "song/aurora-forgotten-love",
 } as const satisfies Track

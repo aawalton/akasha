@@ -23,4 +23,5 @@ export const jamesTaylor2NeverDieYoungSunOnTheMoon = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sunonthemoon|0vn7UBvSQECKJm2817Yf1P|249600",
+  song: "song/james-taylor-sun-on-the-moon",
 } as const satisfies Track

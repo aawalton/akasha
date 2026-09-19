@@ -23,4 +23,5 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "downinthehole|0vn7UBvSQECKJm2817Yf1P|315160",
+  song: "song/james-taylor-down-in-the-hole",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeForPianoLullabyVersion = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatwasimadeforpianolullabyversion|0jW6R8CVyVohuUJVcuweDI|238634",
+  song: "song/the-piano-guys-what-was-i-made-for",
 } as const satisfies Track

@@ -27,4 +27,5 @@ export const auroraCureForMeVintageCultureExtendedRemixCureForMeVintageCultureEx
   ],
   trackKey:
     "cureformevintagecultureextendedremix|1WgXqy2Dd70QQOU7Ay074N,28uJnu5EsrGml2tBd7y8ts|328960",
+  song: "song/aurora-cure-for-me",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderJerryFolkRemix = {
     { externalId: "356FCJoyYWyzONni54Dgrv", artistName: "Jerry Folk" },
   ],
   trackKey: "sixfeetunderjerryfolkremix|356FCJoyYWyzONni54Dgrv,6qqNVTkY8uBg9cP3Jd7DAH|200898",
+  song: "song/billie-eilish-six-feet-under",
 } as const satisfies Track

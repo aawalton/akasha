@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wecantbefriendswaitforyourloveacappella|66CXWjxzNUsdJxJ2JdwvnR|212220",
+  song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
 } as const satisfies Track

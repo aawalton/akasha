@@ -26,4 +26,5 @@ export const sabrinaCarpenterAlienAcousticAlienAcoustic = {
     { externalId: "1HBjj22wzbscIZ9sEb5dyf", artistName: "Jonas Blue" },
   ],
   trackKey: "alienacoustic|1HBjj22wzbscIZ9sEb5dyf,74KM79TiuVKeVCqs8QtB0B|204629",
+  song: "song/sabrina-carpenter-alien",
 } as const satisfies Track

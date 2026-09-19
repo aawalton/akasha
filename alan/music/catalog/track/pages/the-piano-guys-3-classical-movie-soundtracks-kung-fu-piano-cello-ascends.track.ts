@@ -23,4 +23,5 @@ export const thePianoGuys3ClassicalMovieSoundtracksKungFuPianoCelloAscends = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "kungfupianocelloascends|0jW6R8CVyVohuUJVcuweDI|242823",
+  song: "song/the-piano-guys-kung-fu-piano-cello-ascends",
 } as const satisfies Track

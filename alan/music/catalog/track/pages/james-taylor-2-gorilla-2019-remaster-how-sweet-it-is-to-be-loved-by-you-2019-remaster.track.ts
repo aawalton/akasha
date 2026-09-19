@@ -23,4 +23,5 @@ export const jamesTaylor2Gorilla2019RemasterHowSweetItIsToBeLovedByYou2019Remast
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "howsweetitistobelovedbyyou2019remaster|0vn7UBvSQECKJm2817Yf1P|216386",
+  song: "song/james-taylor-how-sweet-it-is-to-be-loved-by-you",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "notimetodie|6qqNVTkY8uBg9cP3Jd7DAH|242265",
+  song: "song/billie-eilish-no-time-to-die",
 } as const satisfies Track

@@ -29,4 +29,5 @@ export const jamesTaylor2OctoberRoadSpecialEditionBenjamin = {
   ],
   trackKey:
     "benjamin|0vn7UBvSQECKJm2817Yf1P,5Dl3HXZjG6ZOWT5cV375lk,5zfaMrd5q4szVTxVYWuoDV,7jkhwa4XMe9XSt1r0AWNqD|208666",
+  song: "song/james-taylor-benjamin",
 } as const satisfies Track

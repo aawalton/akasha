@@ -23,4 +23,5 @@ export const jamesTaylor2SweetBabyJames2019RemasterAnywhereLikeHeaven2019Remaste
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "anywherelikeheaven2019remaster|0vn7UBvSQECKJm2817Yf1P|207226",
+  song: "song/james-taylor-anywhere-like-heaven",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const thePianoGuys3AFamilyChristmasStillStillStill = {
   ],
   trackKey:
     "stillstillstill|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf,4dsp5Yr32mZELtFDiJijDf|299906",
+  song: "song/the-piano-guys-still-still-still",
 } as const satisfies Track

@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGreenTheWh
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "greenthewholeyearround|6NWtt9pNOL2Gx7kBykdE5x|288173",
+  song: "song/celtic-woman-green-the-whole-year-round",
 } as const satisfies Track

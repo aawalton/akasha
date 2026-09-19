@@ -23,4 +23,5 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinAcoustic = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "sometypeofskinacoustic|1WgXqy2Dd70QQOU7Ay074N|200000",
+  song: "song/aurora-some-type-of-skin",
 } as const satisfies Track

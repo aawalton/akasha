@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "iwishihatedyou|66CXWjxzNUsdJxJ2JdwvnR|153633",
+  song: "song/ariana-grande-i-wish-i-hated-you",
 } as const satisfies Track

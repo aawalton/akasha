@@ -26,4 +26,5 @@ export const zaraLarssonRightHereAlokRemixRightHereAlokRemix = {
     { externalId: "0NGAZxHanS9e0iNHpR8f2W", artistName: "Alok" },
   ],
   trackKey: "rightherealokremix|0NGAZxHanS9e0iNHpR8f2W,1Xylc3o4UrD53lo9CvFvVg|155000",
+  song: "song/zara-larsson-right-here",
 } as const satisfies Track

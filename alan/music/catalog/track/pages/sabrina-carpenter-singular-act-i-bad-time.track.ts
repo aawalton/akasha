@@ -23,4 +23,5 @@ export const sabrinaCarpenterSingularActIBadTime = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badtime|74KM79TiuVKeVCqs8QtB0B|184533",
+  song: "song/sabrina-carpenter-bad-time",
 } as const satisfies Track

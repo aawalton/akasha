@@ -28,4 +28,5 @@ export const auroraSomewhereElseSomewhereElse = {
   ],
   trackKey:
     "somewhereelse|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|251373",
+  song: "song/aurora-somewhere-else",
 } as const satisfies Track

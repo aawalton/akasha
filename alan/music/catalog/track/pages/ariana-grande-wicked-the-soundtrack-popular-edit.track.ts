@@ -23,4 +23,5 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "popularedit|66CXWjxzNUsdJxJ2JdwvnR|173915",
+  song: "song/ariana-grande-popular",
 } as const satisfies Track

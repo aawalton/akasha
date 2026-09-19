@@ -23,4 +23,5 @@ export const jamesTaylor2NeverDieYoungLetterInTheMail = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letterinthemail|0vn7UBvSQECKJm2817Yf1P|281133",
+  song: "song/james-taylor-letter-in-the-mail",
 } as const satisfies Track

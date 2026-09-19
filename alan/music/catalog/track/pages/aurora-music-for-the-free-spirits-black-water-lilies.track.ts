@@ -23,4 +23,5 @@ export const auroraMusicForTheFreeSpiritsBlackWaterLilies = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "blackwaterlilies|1WgXqy2Dd70QQOU7Ay074N|282840",
+  song: "song/aurora-black-water-lilies",
 } as const satisfies Track

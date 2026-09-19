@@ -26,4 +26,5 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
     { externalId: "6AMd49uBDJfhf30Ak2QR5s", artistName: "Coi Leray" },
   ],
   trackKey: "nonsensewithcoilerayremix|6AMd49uBDJfhf30Ak2QR5s,74KM79TiuVKeVCqs8QtB0B|175648",
+  song: "song/sabrina-carpenter-nonsense",
 } as const satisfies Track

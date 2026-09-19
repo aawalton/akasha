@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourCountryRoadLiveAtTheTroubadour2007 =
   ],
   trackKey:
     "countryroadliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|229026",
+  song: "song/james-taylor-country-road",
 } as const satisfies Track

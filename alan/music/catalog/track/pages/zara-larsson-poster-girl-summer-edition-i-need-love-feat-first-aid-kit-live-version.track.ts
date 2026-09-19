@@ -27,4 +27,5 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatFirstAidKitLiveVersi
   ],
   trackKey:
     "ineedlovefeatfirstaidkitliveversion|1Xylc3o4UrD53lo9CvFvVg,21egYD1eInY6bGFcniCRT1|200992",
+  song: "song/zara-larsson-i-need-love",
 } as const satisfies Track

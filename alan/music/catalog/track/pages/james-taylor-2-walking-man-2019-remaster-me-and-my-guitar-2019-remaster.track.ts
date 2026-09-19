@@ -23,4 +23,5 @@ export const jamesTaylor2WalkingMan2019RemasterMeAndMyGuitar2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "meandmyguitar2019remaster|0vn7UBvSQECKJm2817Yf1P|214346",
+  song: "song/james-taylor-me-and-my-guitar",
 } as const satisfies Track

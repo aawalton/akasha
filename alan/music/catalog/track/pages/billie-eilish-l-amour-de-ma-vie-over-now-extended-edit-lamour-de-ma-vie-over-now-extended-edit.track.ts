@@ -23,4 +23,5 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEditLamourDeMaVieOverNowExt
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "lamourdemavieovernowextendededit|6qqNVTkY8uBg9cP3Jd7DAH|271969",
+  song: "song/billie-eilish-l-amour-de-ma-vie",
 } as const satisfies Track

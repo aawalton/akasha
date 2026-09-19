@@ -28,4 +28,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDancingThroughL
   ],
   trackKey:
     "dancingthroughlifelivefromthedolbytheatre|0yF5IqIHlPDti2mfZtHe3K,6uGIoRQUqP4ncxyg6HksA1,7znzgTbLilllmlnY4CzazN|358056",
+  song: "song/ariana-grande-dancing-through-life",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const auroraWhatHappenedToTheHeartDeluxeSomeTypeOfSkinFeatAtarashiiGakko 
     { externalId: "4OfU76YhPU04wlmbVFFgTJ", artistName: "ATARASHII GAKKO!" },
   ],
   trackKey: "sometypeofskinfeatatarashiigakko|1WgXqy2Dd70QQOU7Ay074N,4OfU76YhPU04wlmbVFFgTJ|216160",
+  song: "song/aurora-some-type-of-skin",
 } as const satisfies Track

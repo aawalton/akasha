@@ -23,4 +23,5 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "rubikscube|03dXd2zBbBJvX60Oap8Lgo|152039",
+  song: "song/sylvia-daley-rubiks-cube",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveCarolinaInMyMind = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "carolinainmymind|0vn7UBvSQECKJm2817Yf1P|301666",
+  song: "song/james-taylor-carolina-in-my-mind",
 } as const satisfies Track

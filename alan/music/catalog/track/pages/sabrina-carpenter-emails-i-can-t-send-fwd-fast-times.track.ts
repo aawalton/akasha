@@ -23,4 +23,5 @@ export const sabrinaCarpenterEmailsICanTSendFwdFastTimes = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "fasttimes|74KM79TiuVKeVCqs8QtB0B|174539",
+  song: "song/sabrina-carpenter-fast-times",
 } as const satisfies Track

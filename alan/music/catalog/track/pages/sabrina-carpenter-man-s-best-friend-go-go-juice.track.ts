@@ -23,4 +23,5 @@ export const sabrinaCarpenterManSBestFriendGoGoJuice = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "gogojuice|74KM79TiuVKeVCqs8QtB0B|193315",
+  song: "song/sabrina-carpenter-go-go-juice",
 } as const satisfies Track

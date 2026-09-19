@@ -26,4 +26,5 @@ export const thePianoGuys3LivePeponiParadiseLive = {
     { externalId: "6SraGCznFUAZ3zb4zVe3DM", artistName: "Alex Boyé" },
   ],
   trackKey: "peponiparadiselive|0jW6R8CVyVohuUJVcuweDI,6SraGCznFUAZ3zb4zVe3DM|266693",
+  song: "song/the-piano-guys-peponi-paradise",
 } as const satisfies Track

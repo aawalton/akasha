@@ -26,4 +26,5 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionHandsOnMe = {
     { externalId: "5dHt1vcEm9qb8fCyLcB3HL", artistName: "A$AP Ferg" },
   ],
   trackKey: "handsonme|5dHt1vcEm9qb8fCyLcB3HL,66CXWjxzNUsdJxJ2JdwvnR|192214",
+  song: "song/ariana-grande-hands-on-me",
 } as const satisfies Track

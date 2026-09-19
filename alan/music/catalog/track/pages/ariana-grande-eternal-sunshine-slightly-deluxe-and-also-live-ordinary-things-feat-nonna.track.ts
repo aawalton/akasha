@@ -26,4 +26,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveOrdinaryThingsF
     { externalId: "6maPmKkdwM4eyhz5O4lbkP", artistName: "Nonna" },
   ],
   trackKey: "ordinarythingsfeatnonna|66CXWjxzNUsdJxJ2JdwvnR,6maPmKkdwM4eyhz5O4lbkP|168500",
+  song: "song/ariana-grande-ordinary-things",
 } as const satisfies Track

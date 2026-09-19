@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterSlowBurningLove2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "slowburninglove2019remaster|0vn7UBvSQECKJm2817Yf1P|223306",
+  song: "song/james-taylor-slow-burning-love",
 } as const satisfies Track

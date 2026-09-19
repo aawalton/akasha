@@ -23,4 +23,5 @@ export const jamesTaylor2Gorilla2019RemasterLighthouse2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lighthouse2019remaster|0vn7UBvSQECKJm2817Yf1P|196040",
+  song: "song/james-taylor-lighthouse",
 } as const satisfies Track

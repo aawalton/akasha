@@ -23,4 +23,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBetterLeftUnsaid = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "betterleftunsaid|66CXWjxzNUsdJxJ2JdwvnR|212838",
+  song: "song/ariana-grande-better-left-unsaid",
 } as const satisfies Track

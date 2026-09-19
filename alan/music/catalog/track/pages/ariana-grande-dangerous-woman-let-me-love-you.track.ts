@@ -26,4 +26,5 @@ export const arianaGrandeDangerousWomanLetMeLoveYou = {
     { externalId: "55Aa2cqylxrFIXC767Z865", artistName: "Lil Wayne" },
   ],
   trackKey: "letmeloveyou|55Aa2cqylxrFIXC767Z865,66CXWjxzNUsdJxJ2JdwvnR|223880",
+  song: "song/ariana-grande-let-me-love-you",
 } as const satisfies Track

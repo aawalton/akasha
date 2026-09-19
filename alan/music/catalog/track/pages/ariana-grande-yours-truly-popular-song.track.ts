@@ -26,4 +26,5 @@ export const arianaGrandeYoursTrulyPopularSong = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "popularsong|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200213",
+  song: "song/ariana-grande-popular-song",
 } as const satisfies Track

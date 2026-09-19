@@ -28,4 +28,5 @@ export const arianaGrandePositionsDeluxe3435RemixFeatDojaCatMeganTheeStallionRem
   ],
   trackKey:
     "3435remixfeatdojacatmegantheestallionremix|181bsRPaVXVlUKXrxwZfHK,5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|182437",
+  song: "song/ariana-grande-34-35-remix",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const zaraLarssonSymphonyFeatZaraLarssonSymphonyFeatZaraLarsson = {
     { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
   ],
   trackKey: "symphonyfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,6MDME20pz9RveH9rEXvrOM|212459",
+  song: "song/zara-larsson-symphony",
 } as const satisfies Track

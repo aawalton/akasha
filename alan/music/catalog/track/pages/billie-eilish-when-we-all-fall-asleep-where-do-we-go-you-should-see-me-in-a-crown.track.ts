@@ -23,4 +23,5 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoYouShouldSeeMeInACrown = 
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "youshouldseemeinacrown|6qqNVTkY8uBg9cP3Jd7DAH|180952",
+  song: "song/billie-eilish-you-should-see-me-in-a-crown",
 } as const satisfies Track

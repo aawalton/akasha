@@ -23,4 +23,5 @@ export const jamesTaylor2OneManBandChiliDogLiveAtTheColonialTheatre2007 = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "chilidogliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|117306",
+  song: "song/james-taylor-chili-dog",
 } as const satisfies Track

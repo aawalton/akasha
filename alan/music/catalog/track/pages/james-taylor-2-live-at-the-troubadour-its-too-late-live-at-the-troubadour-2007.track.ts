@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourItsTooLateLiveAtTheTroubadour2007 = 
   ],
   trackKey:
     "itstoolateliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|299040",
+  song: "song/james-taylor-its-too-late",
 } as const satisfies Track

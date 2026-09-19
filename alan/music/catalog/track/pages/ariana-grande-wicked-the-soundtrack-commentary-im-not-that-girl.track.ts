@@ -23,4 +23,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "imnotthatgirl|46UMQ0cW8ToR8egkBRwAxZ|237043",
+  song: "song/ariana-grande-i-m-not-that-girl",
 } as const satisfies Track

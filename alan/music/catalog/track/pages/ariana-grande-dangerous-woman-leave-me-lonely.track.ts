@@ -26,4 +26,5 @@ export const arianaGrandeDangerousWomanLeaveMeLonely = {
     { externalId: "4ylR3zwA0zaapAu94fktwa", artistName: "Macy Gray" },
   ],
   trackKey: "leavemelonely|4ylR3zwA0zaapAu94fktwa,66CXWjxzNUsdJxJ2JdwvnR|229680",
+  song: "song/ariana-grande-leave-me-lonely",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const auroraComeCloserSideBySide = {
   ],
   trackKey:
     "sidebyside|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|177333",
+  song: "song/aurora-side-by-side",
 } as const satisfies Track

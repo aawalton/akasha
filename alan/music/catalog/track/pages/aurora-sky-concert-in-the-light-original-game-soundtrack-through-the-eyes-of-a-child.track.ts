@@ -23,4 +23,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackThroughTheEyesOfACh
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "throughtheeyesofachild|1WgXqy2Dd70QQOU7Ay074N|274000",
+  song: "song/aurora-through-the-eyes-of-a-child",
 } as const satisfies Track

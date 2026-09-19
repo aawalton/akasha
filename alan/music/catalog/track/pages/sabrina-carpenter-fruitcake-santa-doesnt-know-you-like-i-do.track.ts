@@ -23,4 +23,5 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "santadoesntknowyoulikeido|74KM79TiuVKeVCqs8QtB0B|189753",
+  song: "song/sabrina-carpenter-santa-doesnt-know-you-like-i-do",
 } as const satisfies Track

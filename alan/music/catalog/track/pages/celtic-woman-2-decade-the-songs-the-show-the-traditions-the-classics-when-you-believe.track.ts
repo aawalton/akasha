@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouBel
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "whenyoubelieve|6NWtt9pNOL2Gx7kBykdE5x|270706",
+  song: "song/celtic-woman-when-you-believe",
 } as const satisfies Track

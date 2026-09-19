@@ -23,4 +23,5 @@ export const celticWoman2ChristmasCardsFromIrelandOHolyNight2022Version = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oholynight2022version|6NWtt9pNOL2Gx7kBykdE5x|240973",
+  song: "song/celtic-woman-o-holy-night",
 } as const satisfies Track

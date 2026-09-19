@@ -26,4 +26,5 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
     { externalId: "3eFo5fMv53RYZBYlvT5Z6a", artistName: "Chris Botti" },
   ],
   trackKey: "winterwonderlandfeatchrisbotti|0vn7UBvSQECKJm2817Yf1P,3eFo5fMv53RYZBYlvT5Z6a|213826",
+  song: "song/james-taylor-winter-wonderland",
 } as const satisfies Track

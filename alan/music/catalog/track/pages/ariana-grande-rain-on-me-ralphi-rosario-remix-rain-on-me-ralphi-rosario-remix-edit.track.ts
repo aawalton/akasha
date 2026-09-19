@@ -28,4 +28,5 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemixEdi
   ],
   trackKey:
     "rainonmeralphirosarioremixedit|0c5584rnmlOvkMpJtpBLTh,1HY2Jd0NmPuamShAr6KMms,66CXWjxzNUsdJxJ2JdwvnR|238080",
+  song: "song/ariana-grande-rain-on-me",
 } as const satisfies Track

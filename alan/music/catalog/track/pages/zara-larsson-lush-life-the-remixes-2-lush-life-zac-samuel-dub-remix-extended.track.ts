@@ -27,4 +27,5 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelDubRemixExtended = {
   ],
   trackKey:
     "lushlifezacsamueldubremixextended|1Xylc3o4UrD53lo9CvFvVg,3imlibJrwqYv8gqII7u4r0|300166",
+  song: "song/zara-larsson-lush-life",
 } as const satisfies Track

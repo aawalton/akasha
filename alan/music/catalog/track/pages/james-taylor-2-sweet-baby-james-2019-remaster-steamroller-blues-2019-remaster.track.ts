@@ -23,4 +23,5 @@ export const jamesTaylor2SweetBabyJames2019RemasterSteamrollerBlues2019Remaster 
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "steamrollerblues2019remaster|0vn7UBvSQECKJm2817Yf1P|177560",
+  song: "song/james-taylor-steamroller-blues",
 } as const satisfies Track

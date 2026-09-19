@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterMoneyMachine2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "moneymachine2019remaster|0vn7UBvSQECKJm2817Yf1P|275906",
+  song: "song/james-taylor-money-machine",
 } as const satisfies Track

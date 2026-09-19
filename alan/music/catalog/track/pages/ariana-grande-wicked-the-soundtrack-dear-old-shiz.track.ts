@@ -28,4 +28,5 @@ export const arianaGrandeWickedTheSoundtrackDearOldShiz = {
   ],
   trackKey:
     "dearoldshiz|32zfWhZAXwCpm5edh16fqj,3eLZo1bSslvsu0zNhtmMM4,66CXWjxzNUsdJxJ2JdwvnR|71734",
+  song: "song/ariana-grande-dear-old-shiz",
 } as const satisfies Track

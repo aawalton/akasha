@@ -23,4 +23,5 @@ export const auroraADifferentKindOfHumanStepIiMothership = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "mothership|1WgXqy2Dd70QQOU7Ay074N|136822",
+  song: "song/aurora-mothership",
 } as const satisfies Track

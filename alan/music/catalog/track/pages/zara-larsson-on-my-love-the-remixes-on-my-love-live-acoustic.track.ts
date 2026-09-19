@@ -26,4 +26,5 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveLiveAcoustic = {
     { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
   ],
   trackKey: "onmyloveliveacoustic|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg|224428",
+  song: "song/zara-larsson-on-my-love",
 } as const satisfies Track

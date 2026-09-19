@@ -28,4 +28,5 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
   ],
   trackKey:
     "waterfallfeatrichardelliott|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,50Bzsa2Le4qOPs6lrfKuzY|187296",
+  song: "song/the-piano-guys-waterfall",
 } as const satisfies Track

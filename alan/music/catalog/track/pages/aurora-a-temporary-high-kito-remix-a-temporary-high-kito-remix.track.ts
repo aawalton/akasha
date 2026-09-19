@@ -26,4 +26,5 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
     { externalId: "3FLUBwpAnaIlIKeaBfsxFe", artistName: "Kito" },
   ],
   trackKey: "atemporaryhighkitoremix|1WgXqy2Dd70QQOU7Ay074N,3FLUBwpAnaIlIKeaBfsxFe|186920",
+  song: "song/aurora-a-temporary-high",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveShowerThePeople = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "showerthepeople|0vn7UBvSQECKJm2817Yf1P|281066",
+  song: "song/james-taylor-shower-the-people",
 } as const satisfies Track

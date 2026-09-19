@@ -23,4 +23,5 @@ export const celticWoman2DestinyTheWholeOfTheMoon = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thewholeofthemoon|6NWtt9pNOL2Gx7kBykdE5x|245338",
+  song: "song/celtic-woman-the-whole-of-the-moon",
 } as const satisfies Track

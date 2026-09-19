@@ -23,4 +23,5 @@ export const jamesTaylor2OctoberRoadSpecialEditionOnThe4thOfJuly = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onthe4thofjuly|0vn7UBvSQECKJm2817Yf1P|203733",
+  song: "song/james-taylor-on-the-4th-of-july",
 } as const satisfies Track

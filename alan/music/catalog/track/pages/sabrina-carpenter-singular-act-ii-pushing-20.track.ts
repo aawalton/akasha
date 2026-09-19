@@ -23,4 +23,5 @@ export const sabrinaCarpenterSingularActIiPushing20 = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pushing20|74KM79TiuVKeVCqs8QtB0B|166233",
+  song: "song/sabrina-carpenter-pushing-20",
 } as const satisfies Track

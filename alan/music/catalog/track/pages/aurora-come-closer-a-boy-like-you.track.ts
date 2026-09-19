@@ -28,4 +28,5 @@ export const auroraComeCloserABoyLikeYou = {
   ],
   trackKey:
     "aboylikeyou|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|300826",
+  song: "song/aurora-a-boy-like-you",
 } as const satisfies Track

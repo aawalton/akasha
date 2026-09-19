@@ -23,4 +23,5 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionWeAlmostBrokeUpAgain
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "wealmostbrokeupagainlastnight|74KM79TiuVKeVCqs8QtB0B|203379",
+  song: "song/sabrina-carpenter-we-almost-broke-up-again-last-night",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const sabrinaCarpenterEmailsICanTSendFwdBadForBusiness = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badforbusiness|74KM79TiuVKeVCqs8QtB0B|188337",
+  song: "song/sabrina-carpenter-bad-for-business",
 } as const satisfies Track

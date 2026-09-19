@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterYouCanCloseYou
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youcancloseyoureyes2019remaster|0vn7UBvSQECKJm2817Yf1P|149263",
+  song: "song/james-taylor-you-can-close-your-eyes",
 } as const satisfies Track

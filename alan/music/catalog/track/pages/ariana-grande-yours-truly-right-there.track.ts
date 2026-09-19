@@ -26,4 +26,5 @@ export const arianaGrandeYoursTrulyRightThere = {
     { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
   ],
   trackKey: "rightthere|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|247080",
+  song: "song/ariana-grande-right-there",
 } as const satisfies Track

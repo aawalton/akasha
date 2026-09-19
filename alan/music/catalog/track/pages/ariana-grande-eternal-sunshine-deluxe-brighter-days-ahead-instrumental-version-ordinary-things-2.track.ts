@@ -30,4 +30,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     trackKey:
       "ordinarythingsfeatnonnainstrumental|66CXWjxzNUsdJxJ2JdwvnR,6maPmKkdwM4eyhz5O4lbkP|167223",
+    song: "song/ariana-grande-ordinary-things",
   } as const satisfies Track

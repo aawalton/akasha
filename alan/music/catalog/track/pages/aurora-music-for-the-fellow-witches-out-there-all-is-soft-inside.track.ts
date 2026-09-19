@@ -23,4 +23,5 @@ export const auroraMusicForTheFellowWitchesOutThereAllIsSoftInside = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "allissoftinside|1WgXqy2Dd70QQOU7Ay074N|308943",
+  song: "song/aurora-all-is-soft-inside",
 } as const satisfies Track

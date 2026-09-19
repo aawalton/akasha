@@ -23,4 +23,5 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thesurreywiththefringeontop|0vn7UBvSQECKJm2817Yf1P|200040",
+  song: "song/james-taylor-the-surrey-with-the-fringe-on-top",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomHowDeepIsYourLoveLiveSpotifyLi
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "howdeepisyourlovelivespotifyliveroom|1Xylc3o4UrD53lo9CvFvVg|132166",
+  song: "song/zara-larsson-how-deep-is-your-love",
 } as const satisfies Track

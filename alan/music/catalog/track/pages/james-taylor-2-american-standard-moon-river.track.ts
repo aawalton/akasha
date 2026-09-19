@@ -23,4 +23,5 @@ export const jamesTaylor2AmericanStandardMoonRiver = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "moonriver|0vn7UBvSQECKJm2817Yf1P|193213",
+  song: "song/james-taylor-moon-river",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const celticWoman2OHolyNight2020VersionOHolyNight2020Version = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oholynight2020version|6NWtt9pNOL2Gx7kBykdE5x|219011",
+  song: "song/celtic-woman-o-holy-night",
 } as const satisfies Track

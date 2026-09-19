@@ -23,4 +23,5 @@ export const jamesTaylor2SweetBabyJames2019RemasterBlossom2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "blossom2019remaster|0vn7UBvSQECKJm2817Yf1P|133266",
+  song: "song/james-taylor-blossom",
 } as const satisfies Track

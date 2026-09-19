@@ -26,4 +26,5 @@ export const zaraLarssonOnlyYouRemixesOnlyYouHitimpulseRemix = {
     { externalId: "2dMO34aTE4wTRQZkgDehMF", artistName: "Hitimpulse" },
   ],
   trackKey: "onlyyouhitimpulseremix|1Xylc3o4UrD53lo9CvFvVg,2dMO34aTE4wTRQZkgDehMF|219495",
+  song: "song/zara-larsson-only-you",
 } as const satisfies Track

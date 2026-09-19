@@ -28,4 +28,5 @@ export const arianaGrandeBangBangBangBangInstrumental = {
   ],
   trackKey:
     "bangbanginstrumental|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR|198363",
+  song: "song/ariana-grande-bang-bang",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2OctoberRoadSpecialEditionWheneverYoureReady = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wheneveryoureready|0vn7UBvSQECKJm2817Yf1P|254040",
+  song: "song/james-taylor-whenever-youre-ready",
 } as const satisfies Track

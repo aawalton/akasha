@@ -27,4 +27,5 @@ export const auroraComeCloserPlease = {
     { externalId: "45F5Ue9KSHAtp7aE85zlsW", artistName: "Tom Rowlands" },
   ],
   trackKey: "please|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|31000",
+  song: "song/aurora-please",
 } as const satisfies Track

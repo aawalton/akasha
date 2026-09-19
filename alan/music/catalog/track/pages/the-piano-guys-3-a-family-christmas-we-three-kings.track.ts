@@ -26,4 +26,5 @@ export const thePianoGuys3AFamilyChristmasWeThreeKings = {
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
   ],
   trackKey: "wethreekings|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|195529",
+  song: "song/the-piano-guys-we-three-kings",
 } as const satisfies Track

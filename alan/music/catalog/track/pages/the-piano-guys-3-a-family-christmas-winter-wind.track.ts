@@ -28,4 +28,5 @@ export const thePianoGuys3AFamilyChristmasWinterWind = {
   ],
   trackKey:
     "winterwind|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5,67CqEIMpWuNb6MnpTKjlFv|266725",
+  song: "song/the-piano-guys-winter-wind",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeSweetenerBlazedFeatPharrellWilliams = {
     { externalId: "2RdwBSPQiwcmiDo9kixcl8", artistName: "Pharrell Williams" },
   ],
   trackKey: "blazedfeatpharrellwilliams|2RdwBSPQiwcmiDo9kixcl8,66CXWjxzNUsdJxJ2JdwvnR|196360",
+  song: "song/ariana-grande-blazed",
 } as const satisfies Track

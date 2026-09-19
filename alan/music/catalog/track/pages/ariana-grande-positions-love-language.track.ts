@@ -23,4 +23,5 @@ export const arianaGrandePositionsLoveLanguage = {
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "lovelanguage|66CXWjxzNUsdJxJ2JdwvnR|179860",
+  song: "song/ariana-grande-love-language",
 } as const satisfies Track

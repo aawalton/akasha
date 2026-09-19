@@ -26,4 +26,5 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
     { externalId: "0FI0kxP0BWurTz8cB8BBug", artistName: "Mark Knopfler" },
   ],
   trackKey: "sailingtophiladelphia|0FI0kxP0BWurTz8cB8BBug,0vn7UBvSQECKJm2817Yf1P|328906",
+  song: "song/james-taylor-sailing-to-philadelphia",
 } as const satisfies Track

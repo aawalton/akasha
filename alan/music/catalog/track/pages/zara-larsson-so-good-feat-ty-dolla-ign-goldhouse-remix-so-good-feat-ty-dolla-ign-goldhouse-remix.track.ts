@@ -28,4 +28,5 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemixSoGoodFeatTyDollaIgnGo
   ],
   trackKey:
     "sogoodfeattydollaigngoldhouseremix|1Xylc3o4UrD53lo9CvFvVg,670UISOh9XV1zlq5z5IfoY,7c0XG5cIJTrrAgEC3ULPiq|205795",
+  song: "song/zara-larsson-so-good",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "haveyourselfamerrylittlechristmas|74KM79TiuVKeVCqs8QtB0B|226713",
+  song: "song/sabrina-carpenter-have-yourself-a-merry-little-christmas",
 } as const satisfies Track

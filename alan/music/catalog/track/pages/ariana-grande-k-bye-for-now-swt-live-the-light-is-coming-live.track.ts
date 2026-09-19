@@ -26,4 +26,5 @@ export const arianaGrandeKByeForNowSwtLiveTheLightIsComingLive = {
     { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
   ],
   trackKey: "thelightiscominglive|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|130071",
+  song: "song/ariana-grande-the-light-is-coming",
 } as const satisfies Track

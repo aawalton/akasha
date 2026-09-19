@@ -23,4 +23,5 @@ export const auroraTheGodsWeCanTouchGivingInToTheLove = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "givingintothelove|1WgXqy2Dd70QQOU7Ay074N|181333",
+  song: "song/aurora-giving-in-to-the-love",
 } as const satisfies Track

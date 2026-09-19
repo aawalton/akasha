@@ -23,4 +23,5 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeOrchestralVersion = {
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "ruinmylifeorchestralversion|1Xylc3o4UrD53lo9CvFvVg|283275",
+  song: "song/zara-larsson-ruin-my-life",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionH
     explicit: true,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "hampsteadacappella|66CXWjxzNUsdJxJ2JdwvnR|206932",
+    song: "song/ariana-grande-hampstead-2",
   } as const satisfies Track

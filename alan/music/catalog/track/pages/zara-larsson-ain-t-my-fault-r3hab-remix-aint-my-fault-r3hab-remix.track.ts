@@ -26,4 +26,5 @@ export const zaraLarssonAinTMyFaultR3habRemixAintMyFaultR3habRemix = {
     { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
   ],
   trackKey: "aintmyfaultr3habremix|1Xylc3o4UrD53lo9CvFvVg,6cEuCEZu7PAE9ZSzLLc2oQ|158772",
+  song: "song/zara-larsson-ain-t-my-fault",
 } as const satisfies Track

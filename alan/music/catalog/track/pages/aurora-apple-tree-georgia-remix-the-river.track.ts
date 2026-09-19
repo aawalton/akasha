@@ -23,4 +23,5 @@ export const auroraAppleTreeGeorgiaRemixTheRiver = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theriver|1WgXqy2Dd70QQOU7Ay074N|217853",
+  song: "song/aurora-the-river",
 } as const satisfies Track

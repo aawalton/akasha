@@ -23,4 +23,5 @@ export const jamesTaylor2NewMoonShineTheWaterIsWide = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thewateriswide|0vn7UBvSQECKJm2817Yf1P|180800",
+  song: "song/james-taylor-the-water-is-wide",
 } as const satisfies Track

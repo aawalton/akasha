@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "saturnreturnsinterludeinstrumental|66CXWjxzNUsdJxJ2JdwvnR|37195",
+  song: "song/ariana-grande-saturn-returns-interlude",
 } as const satisfies Track

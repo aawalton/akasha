@@ -26,4 +26,5 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
     { externalId: "68kEuyFKyqrdQQLLsmiatm", artistName: "Vince Staples" },
   ],
   trackKey: "burnwithvincestaples|68kEuyFKyqrdQQLLsmiatm,6qqNVTkY8uBg9cP3Jd7DAH|179015",
+  song: "song/billie-eilish-burn",
 } as const satisfies Track

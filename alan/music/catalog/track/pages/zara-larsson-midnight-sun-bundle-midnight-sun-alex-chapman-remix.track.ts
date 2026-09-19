@@ -26,4 +26,5 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
     { externalId: "3c8wfedCs5BJGHcFyusyeh", artistName: "Alex Chapman" },
   ],
   trackKey: "midnightsunalexchapmanremix|1Xylc3o4UrD53lo9CvFvVg,3c8wfedCs5BJGHcFyusyeh|193743",
+  song: "song/zara-larsson-midnight-sun",
 } as const satisfies Track

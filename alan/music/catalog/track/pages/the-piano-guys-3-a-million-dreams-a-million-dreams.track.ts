@@ -28,4 +28,5 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
   ],
   trackKey:
     "amilliondreams|0jW6R8CVyVohuUJVcuweDI,0qKRRwXdVtrVIEdPFr8vvo,1A2uplrPcSu6bqDaRp7Xs9|285837",
+  song: "song/the-piano-guys-a-million-dreams",
 } as const satisfies Track

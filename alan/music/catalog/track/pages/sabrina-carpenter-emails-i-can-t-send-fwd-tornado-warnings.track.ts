@@ -23,4 +23,5 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "tornadowarnings|74KM79TiuVKeVCqs8QtB0B|204179",
+  song: "song/sabrina-carpenter-tornado-warnings",
 } as const satisfies Track

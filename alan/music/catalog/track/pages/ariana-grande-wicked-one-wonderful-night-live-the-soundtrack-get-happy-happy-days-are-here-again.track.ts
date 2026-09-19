@@ -27,4 +27,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
   ],
   trackKey:
     "gethappyhappydaysarehereagainlivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|199290",
+  song: "song/ariana-grande-get-happy-happy-days-are-here-again",
 } as const satisfies Track

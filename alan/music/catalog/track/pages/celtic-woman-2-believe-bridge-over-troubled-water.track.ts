@@ -29,4 +29,5 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   ],
   trackKey:
     "bridgeovertroubledwater|2CvCyf1gEVhI0mX6aFXmVI,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|243280",
+  song: "song/celtic-woman-bridge-over-troubled-water",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionWhenDidYouGetHot = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "whendidyougethot|74KM79TiuVKeVCqs8QtB0B|145398",
+  song: "song/sabrina-carpenter-when-did-you-get-hot",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const auroraQueendomRemixesQueendomShuraRemix = {
     { externalId: "1qpR5mURxk3d8f6mww6uKT", artistName: "Shura" },
   ],
   trackKey: "queendomshuraremix|1WgXqy2Dd70QQOU7Ay074N,1qpR5mURxk3d8f6mww6uKT|306266",
+  song: "song/aurora-queendom",
 } as const satisfies Track

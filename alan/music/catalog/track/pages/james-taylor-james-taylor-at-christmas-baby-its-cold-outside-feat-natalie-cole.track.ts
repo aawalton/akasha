@@ -27,4 +27,5 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
   ],
   trackKey:
     "babyitscoldoutsidefeatnataliecole|0vn7UBvSQECKJm2817Yf1P,5tTsrGPwQRWUsHR2Xf7Ke9|257680",
+  song: "song/james-taylor-baby-its-cold-outside",
 } as const satisfies Track

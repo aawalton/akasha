@@ -23,4 +23,5 @@ export const zaraLarssonUncoverNeverGonnaDieAltVersion = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "nevergonnadiealtversion|1Xylc3o4UrD53lo9CvFvVg|220457",
+  song: "song/zara-larsson-never-gonna-die",
 } as const satisfies Track

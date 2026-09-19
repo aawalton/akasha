@@ -26,4 +26,5 @@ export const thePianoGuys3LiveWithoutYouLive = {
     { externalId: "7EIbKyiLnEJ1Y074UIUyZJ", artistName: "Peter Hollens" },
   ],
   trackKey: "withoutyoulive|0jW6R8CVyVohuUJVcuweDI,7EIbKyiLnEJ1Y074UIUyZJ|225413",
+  song: "song/the-piano-guys-without-you",
 } as const satisfies Track

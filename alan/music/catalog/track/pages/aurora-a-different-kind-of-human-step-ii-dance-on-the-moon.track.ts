@@ -23,4 +23,5 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "danceonthemoon|1WgXqy2Dd70QQOU7Ay074N|216294",
+  song: "song/aurora-dance-on-the-moon",
 } as const satisfies Track

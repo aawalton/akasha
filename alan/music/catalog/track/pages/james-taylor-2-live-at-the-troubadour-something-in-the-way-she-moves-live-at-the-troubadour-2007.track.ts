@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
   ],
   trackKey:
     "somethinginthewayshemovesliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|244106",
+  song: "song/james-taylor-something-in-the-way-she-moves",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const auroraComeCloserWavelengths = {
   ],
   trackKey:
     "wavelengths|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|327346",
+  song: "song/aurora-wavelengths",
 } as const satisfies Track

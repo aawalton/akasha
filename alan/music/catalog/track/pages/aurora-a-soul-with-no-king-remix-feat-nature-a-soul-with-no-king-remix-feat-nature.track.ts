@@ -26,4 +26,5 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
     { externalId: "1clB4n7uMUiSx5ZZ0FQoM1", artistName: "NATURE" },
   ],
   trackKey: "asoulwithnokingremixfeatnature|1WgXqy2Dd70QQOU7Ay074N,1clB4n7uMUiSx5ZZ0FQoM1|314933",
+  song: "song/aurora-a-soul-with-no-king",
 } as const satisfies Track

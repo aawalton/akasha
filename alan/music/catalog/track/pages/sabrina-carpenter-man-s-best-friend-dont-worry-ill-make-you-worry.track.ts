@@ -23,4 +23,5 @@ export const sabrinaCarpenterManSBestFriendDontWorryIllMakeYouWorry = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "dontworryillmakeyouworry|74KM79TiuVKeVCqs8QtB0B|222320",
+  song: "song/sabrina-carpenter-dont-worry-ill-make-you-worry",
 } as const satisfies Track

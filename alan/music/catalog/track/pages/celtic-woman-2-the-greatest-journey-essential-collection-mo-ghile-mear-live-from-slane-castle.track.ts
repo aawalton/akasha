@@ -23,4 +23,5 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionMoGhileMearLiveFro
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearlivefromslanecastleireland2006|6NWtt9pNOL2Gx7kBykdE5x|304946",
+  song: "song/celtic-woman-mo-ghile-mear",
 } as const satisfies Track

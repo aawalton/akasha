@@ -23,4 +23,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadTheBoyIsMine = {
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismine|66CXWjxzNUsdJxJ2JdwvnR|173639",
+  song: "song/ariana-grande-the-boy-is-mine-2",
 } as const satisfies Track

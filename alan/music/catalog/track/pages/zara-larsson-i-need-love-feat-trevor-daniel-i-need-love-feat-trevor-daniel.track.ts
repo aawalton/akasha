@@ -26,4 +26,5 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
     { externalId: "7uaIm6Pw7xplS8Dy06V6pT", artistName: "Trevor Daniel" },
   ],
   trackKey: "ineedlovefeattrevordaniel|1Xylc3o4UrD53lo9CvFvVg,7uaIm6Pw7xplS8Dy06V6pT|186408",
+  song: "song/zara-larsson-i-need-love",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeMyEverythingDeluxeBreakYourHeartRightBack = {
     { externalId: "73sIBHcqh3Z3NyqHKZ7FOL", artistName: "Childish Gambino" },
   ],
   trackKey: "breakyourheartrightback|66CXWjxzNUsdJxJ2JdwvnR,73sIBHcqh3Z3NyqHKZ7FOL|253386",
+  song: "song/ariana-grande-break-your-heart-right-back",
 } as const satisfies Track

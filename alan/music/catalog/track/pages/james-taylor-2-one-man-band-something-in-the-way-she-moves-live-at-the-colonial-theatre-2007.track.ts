@@ -23,4 +23,5 @@ export const jamesTaylor2OneManBandSomethingInTheWaySheMovesLiveAtTheColonialThe
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "somethinginthewayshemovesliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|227773",
+  song: "song/james-taylor-something-in-the-way-she-moves",
 } as const satisfies Track

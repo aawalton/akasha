@@ -23,4 +23,5 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeSpedUp = {
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "endoftimespedup|1Xylc3o4UrD53lo9CvFvVg|183571",
+  song: "song/zara-larsson-end-of-time",
 } as const satisfies Track

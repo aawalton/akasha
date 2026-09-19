@@ -28,4 +28,5 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLoveTwilight
   ],
   trackKey:
     "bringyourlovetwilightmix|0XfQBWgzisaS9ltDV9bXAS,6tbjWDEIzxoDsBA1FuhfPW,74KM79TiuVKeVCqs8QtB0B|433764",
+  song: "song/sabrina-carpenter-bring-your-love",
 } as const satisfies Track

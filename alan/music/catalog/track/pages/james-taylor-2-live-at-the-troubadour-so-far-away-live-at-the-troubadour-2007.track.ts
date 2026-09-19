@@ -26,4 +26,5 @@ export const jamesTaylor2LiveAtTheTroubadourSoFarAwayLiveAtTheTroubadour2007 = {
     { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
   ],
   trackKey: "sofarawayliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|282000",
+  song: "song/james-taylor-so-far-away",
 } as const satisfies Track

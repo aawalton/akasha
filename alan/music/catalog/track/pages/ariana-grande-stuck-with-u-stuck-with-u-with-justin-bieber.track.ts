@@ -26,4 +26,5 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
     { externalId: "1uNFoZAHBGtllmzznpCI3s", artistName: "Justin Bieber" },
   ],
   trackKey: "stuckwithuwithjustinbieber|1uNFoZAHBGtllmzznpCI3s,66CXWjxzNUsdJxJ2JdwvnR|228482",
+  song: "song/ariana-grande-stuck-with-u",
 } as const satisfies Track

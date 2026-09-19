@@ -26,4 +26,5 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "rainonmewitharianagrande|1HY2Jd0NmPuamShAr6KMms,66CXWjxzNUsdJxJ2JdwvnR|182200",
+  song: "song/ariana-grande-rain-on-me",
 } as const satisfies Track

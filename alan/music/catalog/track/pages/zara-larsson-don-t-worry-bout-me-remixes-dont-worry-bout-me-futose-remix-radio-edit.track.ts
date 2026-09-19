@@ -27,4 +27,5 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeFutoseRemixRadioEdi
   ],
   trackKey:
     "dontworryboutmefutoseremixradioedit|1Xylc3o4UrD53lo9CvFvVg,6FeeyXqknRHo5IhqaqKe4L|223402",
+  song: "song/zara-larsson-don-t-worry-bout-me",
 } as const satisfies Track

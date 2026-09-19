@@ -23,4 +23,5 @@ export const jamesTaylor2Gorilla2019RemasterAngryBlues2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "angryblues2019remaster|0vn7UBvSQECKJm2817Yf1P|206213",
+  song: "song/james-taylor-angry-blues",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const zaraLarssonCanTTameHerAcousticCantTameHer = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "canttameher|1Xylc3o4UrD53lo9CvFvVg|196939",
+  song: "song/zara-larsson-can-t-tame-her",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const thePianoGuysAutumnOnPianoGrowAsWeGo = {
   ],
   trackKey:
     "growaswego|0jW6R8CVyVohuUJVcuweDI,0rNPZyO8TwKKCnysRUzksl,2LpGg3qukmprl5BSlBk6HM|258888",
+  song: "song/the-piano-guys-grow-as-we-go",
 } as const satisfies Track

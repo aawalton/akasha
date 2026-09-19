@@ -26,4 +26,5 @@ export const arianaGrandeYoursTrulyTheWay = {
     { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
   ],
   trackKey: "theway|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|227026",
+  song: "song/ariana-grande-the-way",
 } as const satisfies Track

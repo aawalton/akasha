@@ -23,4 +23,5 @@ export const sabrinaCarpenterEmailsICanTSendAlreadyOver = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "alreadyover|74KM79TiuVKeVCqs8QtB0B|170827",
+  song: "song/sabrina-carpenter-already-over",
 } as const satisfies Track

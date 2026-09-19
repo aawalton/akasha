@@ -23,4 +23,5 @@ export const sabrinaCarpenterEyesWideOpenTwoYoungHearts = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "twoyounghearts|74KM79TiuVKeVCqs8QtB0B|233600",
+  song: "song/sabrina-carpenter-two-young-hearts",
 } as const satisfies Track

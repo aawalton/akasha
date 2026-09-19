@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLetMeRide2019R
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letmeride2019remaster|0vn7UBvSQECKJm2817Yf1P|164133",
+  song: "song/james-taylor-let-me-ride",
 } as const satisfies Track

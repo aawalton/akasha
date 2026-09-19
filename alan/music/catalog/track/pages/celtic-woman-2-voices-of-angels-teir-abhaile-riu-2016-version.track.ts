@@ -23,4 +23,5 @@ export const celticWoman2VoicesOfAngelsTeirAbhaileRiu2016Version = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "teirabhaileriu2016version|6NWtt9pNOL2Gx7kBykdE5x|233466",
+  song: "song/celtic-woman-teir-abhaile-riu",
 } as const satisfies Track

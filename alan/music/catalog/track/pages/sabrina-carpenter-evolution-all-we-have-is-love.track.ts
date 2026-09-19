@@ -23,4 +23,5 @@ export const sabrinaCarpenterEvolutionAllWeHaveIsLove = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "allwehaveislove|74KM79TiuVKeVCqs8QtB0B|182293",
+  song: "song/sabrina-carpenter-all-we-have-is-love",
 } as const satisfies Track

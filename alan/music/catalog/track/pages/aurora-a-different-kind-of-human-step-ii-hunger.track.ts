@@ -23,4 +23,5 @@ export const auroraADifferentKindOfHumanStepIiHunger = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "hunger|1WgXqy2Dd70QQOU7Ay074N|166893",
+  song: "song/aurora-hunger",
 } as const satisfies Track

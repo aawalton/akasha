@@ -27,4 +27,5 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerDjSmallz732JerseyClubRem
   ],
   trackKey:
     "canttameherdjsmallz732jerseyclubremix|1Xylc3o4UrD53lo9CvFvVg,6GrHfxMFCXCdIhN9DrAxjK|150791",
+  song: "song/zara-larsson-can-t-tame-her",
 } as const satisfies Track

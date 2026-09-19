@@ -23,4 +23,5 @@ export const zaraLarssonMidnightSunGirlsTripMidnightSun = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "midnightsun|1Xylc3o4UrD53lo9CvFvVg|189898",
+  song: "song/zara-larsson-midnight-sun",
 } as const satisfies Track

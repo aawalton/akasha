@@ -26,4 +26,5 @@ export const zaraLarssonWowImanbekRemixWowImanbekRemix = {
     { externalId: "5rGrDvrLOV2VV8SCFVGWlj", artistName: "Imanbek" },
   ],
   trackKey: "wowimanbekremix|1Xylc3o4UrD53lo9CvFvVg,5rGrDvrLOV2VV8SCFVGWlj|187428",
+  song: "song/zara-larsson-wow",
 } as const satisfies Track

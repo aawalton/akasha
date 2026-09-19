@@ -23,4 +23,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDefyingGravityL
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "defyinggravitylivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ|224018",
+  song: "song/ariana-grande-defying-gravity",
 } as const satisfies Track

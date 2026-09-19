@@ -26,4 +26,5 @@ export const auroraAppleTreeGeorgiaRemixAppleTreeGeorgiaRemix = {
     { externalId: "06knYh538h5SI7OAEF8ek3", artistName: "Georgia" },
   ],
   trackKey: "appletreegeorgiaremix|06knYh538h5SI7OAEF8ek3,1WgXqy2Dd70QQOU7Ay074N|263411",
+  song: "song/aurora-apple-tree",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeBreakFreeBreakFreeInstrumental = {
     { externalId: "2qxJFvFYMEDqd7ui6kSAcq", artistName: "Zedd" },
   ],
   trackKey: "breakfreeinstrumental|2qxJFvFYMEDqd7ui6kSAcq,66CXWjxzNUsdJxJ2JdwvnR|214320",
+  song: "song/ariana-grande-break-free",
 } as const satisfies Track

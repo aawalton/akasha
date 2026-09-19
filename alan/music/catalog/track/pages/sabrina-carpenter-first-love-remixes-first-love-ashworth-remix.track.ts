@@ -28,4 +28,5 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveAshworthRemix = {
   ],
   trackKey:
     "firstloveashworthremix|3hyEbRtp617pNCuuQjyOmc,3pcGjcfEW3YD2Hfk6tDR5S,74KM79TiuVKeVCqs8QtB0B|190252",
+  song: "song/sabrina-carpenter-first-love",
 } as const satisfies Track

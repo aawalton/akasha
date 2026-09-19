@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveThatLonesomeRoad = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thatlonesomeroad|0vn7UBvSQECKJm2817Yf1P|166226",
+  song: "song/james-taylor-that-lonesome-road",
 } as const satisfies Track

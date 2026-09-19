@@ -26,4 +26,5 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
     { externalId: "20gsENnposVs2I4rQ5kvrf", artistName: "Sam Feldt" },
   ],
   trackKey: "earthquakesamfeldtremix|20gsENnposVs2I4rQ5kvrf,6UZ0ba50XreR4TM8u322gs|149090",
+  song: "song/jisoo-earthquake",
 } as const satisfies Track

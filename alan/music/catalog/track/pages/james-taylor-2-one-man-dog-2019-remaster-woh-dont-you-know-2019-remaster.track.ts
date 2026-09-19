@@ -23,4 +23,5 @@ export const jamesTaylor2OneManDog2019RemasterWohDontYouKnow2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wohdontyouknow2019remaster|0vn7UBvSQECKJm2817Yf1P|131387",
+  song: "song/james-taylor-woh-dont-you-know",
 } as const satisfies Track

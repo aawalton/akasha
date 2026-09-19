@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourYouCanCloseYourEyesLiveAtTheTroubado
   ],
   trackKey:
     "youcancloseyoureyesliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|169653",
+  song: "song/james-taylor-you-can-close-your-eyes",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomMidnightSunLiveSpotifyLiveRoom
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "midnightsunlivespotifyliveroom|1Xylc3o4UrD53lo9CvFvVg|196540",
+  song: "song/zara-larsson-midnight-sun",
 } as const satisfies Track

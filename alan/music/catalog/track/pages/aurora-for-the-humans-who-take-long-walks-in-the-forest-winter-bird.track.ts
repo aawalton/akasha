@@ -23,4 +23,5 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestWinterBird = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "winterbird|1WgXqy2Dd70QQOU7Ay074N|244146",
+  song: "song/aurora-winter-bird",
 } as const satisfies Track

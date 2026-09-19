@@ -26,4 +26,5 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
     { externalId: "2tfyKNBwTB41ArvliXX1zA", artistName: "AOBeats" },
   ],
   trackKey: "dontletmebeyoursaobeatsremix|1Xylc3o4UrD53lo9CvFvVg,2tfyKNBwTB41ArvliXX1zA|251009",
+  song: "song/zara-larsson-don-t-let-me-be-yours",
 } as const satisfies Track

@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOrinocoFlo
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "orinocoflow|6NWtt9pNOL2Gx7kBykdE5x|212746",
+  song: "song/celtic-woman-orinoco-flow",
 } as const satisfies Track

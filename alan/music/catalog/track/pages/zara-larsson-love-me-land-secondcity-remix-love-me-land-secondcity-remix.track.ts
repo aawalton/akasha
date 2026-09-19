@@ -26,4 +26,5 @@ export const zaraLarssonLoveMeLandSecondcityRemixLoveMeLandSecondcityRemix = {
     { externalId: "2ew9JvyyuOGkhahuwdovDq", artistName: "Secondcity" },
   ],
   trackKey: "lovemelandsecondcityremix|1Xylc3o4UrD53lo9CvFvVg,2ew9JvyyuOGkhahuwdovDq|226901",
+  song: "song/zara-larsson-love-me-land",
 } as const satisfies Track

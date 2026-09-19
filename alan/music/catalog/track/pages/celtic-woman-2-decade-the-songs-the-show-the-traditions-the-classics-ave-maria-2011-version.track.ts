@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAveMaria20
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "avemaria2011version|6NWtt9pNOL2Gx7kBykdE5x|258906",
+  song: "song/celtic-woman-ave-maria",
 } as const satisfies Track

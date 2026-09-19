@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackDefyingGravity = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "defyinggravity|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|459766",
+  song: "song/ariana-grande-defying-gravity",
 } as const satisfies Track

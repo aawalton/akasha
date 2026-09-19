@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourIFeelTheEarthMoveLiveAtTheTroubadour
   ],
   trackKey:
     "ifeeltheearthmoveliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|245173",
+  song: "song/james-taylor-i-feel-the-earth-move",
 } as const satisfies Track

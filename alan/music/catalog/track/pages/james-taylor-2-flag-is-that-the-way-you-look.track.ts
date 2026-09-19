@@ -23,4 +23,5 @@ export const jamesTaylor2FlagIsThatTheWayYouLook = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "isthatthewayyoulook|0vn7UBvSQECKJm2817Yf1P|117666",
+  song: "song/james-taylor-is-that-the-way-you-look",
 } as const satisfies Track

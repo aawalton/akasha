@@ -23,4 +23,5 @@ export const sabrinaCarpenterFruitcakeBuyMePresents = {
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "buymepresents|74KM79TiuVKeVCqs8QtB0B|177365",
+  song: "song/sabrina-carpenter-buy-me-presents",
 } as const satisfies Track

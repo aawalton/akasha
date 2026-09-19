@@ -27,4 +27,5 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHallTheSeedFeatAn
   ],
   trackKey:
     "theseedfeatannalapwoodlivefromtheroyalalberthall|0e2JUvil990IURjsq2PmqP,1WgXqy2Dd70QQOU7Ay074N|314960",
+  song: "song/aurora-the-seed",
 } as const satisfies Track

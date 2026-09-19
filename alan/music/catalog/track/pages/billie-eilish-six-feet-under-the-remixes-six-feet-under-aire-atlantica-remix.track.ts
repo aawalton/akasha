@@ -26,4 +26,5 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderAireAtlanticaRemix = 
     { externalId: "6Ta9RS3a6sLulTlM4FWY5K", artistName: "Aire Atlantica" },
   ],
   trackKey: "sixfeetunderaireatlanticaremix|6Ta9RS3a6sLulTlM4FWY5K,6qqNVTkY8uBg9cP3Jd7DAH|221718",
+  song: "song/billie-eilish-six-feet-under",
 } as const satisfies Track

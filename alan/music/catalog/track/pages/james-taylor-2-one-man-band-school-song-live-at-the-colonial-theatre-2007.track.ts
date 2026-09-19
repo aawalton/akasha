@@ -23,4 +23,5 @@ export const jamesTaylor2OneManBandSchoolSongLiveAtTheColonialTheatre2007 = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "schoolsongliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|87560",
+  song: "song/james-taylor-school-song",
 } as const satisfies Track

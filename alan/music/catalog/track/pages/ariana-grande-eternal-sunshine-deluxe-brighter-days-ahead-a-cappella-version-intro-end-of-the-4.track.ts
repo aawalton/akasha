@@ -25,4 +25,5 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "introendoftheworldextendedacappella|66CXWjxzNUsdJxJ2JdwvnR|139515",
+  song: "song/ariana-grande-intro-end-of-the-world",
 } as const satisfies Track

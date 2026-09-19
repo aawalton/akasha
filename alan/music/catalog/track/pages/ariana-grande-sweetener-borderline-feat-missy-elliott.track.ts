@@ -26,4 +26,5 @@ export const arianaGrandeSweetenerBorderlineFeatMissyElliott = {
     { externalId: "2wIVse2owClT7go1WT98tk", artistName: "Missy Elliott" },
   ],
   trackKey: "borderlinefeatmissyelliott|2wIVse2owClT7go1WT98tk,66CXWjxzNUsdJxJ2JdwvnR|177533",
+  song: "song/ariana-grande-borderline",
 } as const satisfies Track

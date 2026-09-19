@@ -28,4 +28,5 @@ export const auroraComeCloserComeCloser = {
   ],
   trackKey:
     "comecloser|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|268453",
+  song: "song/aurora-come-closer",
 } as const satisfies Track

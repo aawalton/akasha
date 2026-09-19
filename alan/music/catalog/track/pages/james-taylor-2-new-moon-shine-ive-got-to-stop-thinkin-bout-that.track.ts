@@ -23,4 +23,5 @@ export const jamesTaylor2NewMoonShineIveGotToStopThinkinBoutThat = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ivegottostopthinkinboutthat|0vn7UBvSQECKJm2817Yf1P|239866",
+  song: "song/james-taylor-ive-got-to-stop-thinkin-bout-that",
 } as const satisfies Track

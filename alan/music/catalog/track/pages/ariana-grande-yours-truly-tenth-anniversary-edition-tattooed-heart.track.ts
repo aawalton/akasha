@@ -23,4 +23,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeart = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheart|66CXWjxzNUsdJxJ2JdwvnR|194707",
+  song: "song/ariana-grande-tattooed-heart",
 } as const satisfies Track

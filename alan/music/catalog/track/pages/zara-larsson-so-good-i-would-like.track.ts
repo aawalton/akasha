@@ -23,4 +23,5 @@ export const zaraLarssonSoGoodIWouldLike = {
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "iwouldlike|1Xylc3o4UrD53lo9CvFvVg|224576",
+  song: "song/zara-larsson-i-would-like",
 } as const satisfies Track

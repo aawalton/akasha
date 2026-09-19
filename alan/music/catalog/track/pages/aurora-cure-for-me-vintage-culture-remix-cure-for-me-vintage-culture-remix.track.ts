@@ -26,4 +26,5 @@ export const auroraCureForMeVintageCultureRemixCureForMeVintageCultureRemix = {
     { externalId: "28uJnu5EsrGml2tBd7y8ts", artistName: "Vintage Culture" },
   ],
   trackKey: "cureformevintagecultureremix|1WgXqy2Dd70QQOU7Ay074N,28uJnu5EsrGml2tBd7y8ts|210080",
+  song: "song/aurora-cure-for-me",
 } as const satisfies Track

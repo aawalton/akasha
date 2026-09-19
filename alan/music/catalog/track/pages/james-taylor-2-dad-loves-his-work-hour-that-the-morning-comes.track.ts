@@ -23,4 +23,5 @@ export const jamesTaylor2DadLovesHisWorkHourThatTheMorningComes = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "hourthatthemorningcomes|0vn7UBvSQECKJm2817Yf1P|175760",
+  song: "song/james-taylor-hour-that-the-morning-comes",
 } as const satisfies Track

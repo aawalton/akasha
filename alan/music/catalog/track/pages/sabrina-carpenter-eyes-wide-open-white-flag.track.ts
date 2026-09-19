@@ -23,4 +23,5 @@ export const sabrinaCarpenterEyesWideOpenWhiteFlag = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "whiteflag|74KM79TiuVKeVCqs8QtB0B|198386",
+  song: "song/sabrina-carpenter-white-flag",
 } as const satisfies Track

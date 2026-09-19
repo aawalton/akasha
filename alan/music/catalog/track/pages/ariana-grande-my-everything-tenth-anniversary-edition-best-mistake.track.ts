@@ -26,4 +26,5 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBestMistake = {
     { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
   ],
   trackKey: "bestmistake|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|233734",
+  song: "song/ariana-grande-best-mistake",
 } as const satisfies Track

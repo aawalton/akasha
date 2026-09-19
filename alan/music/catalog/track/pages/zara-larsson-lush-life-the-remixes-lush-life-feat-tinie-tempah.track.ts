@@ -26,4 +26,5 @@ export const zaraLarssonLushLifeTheRemixesLushLifeFeatTinieTempah = {
     { externalId: "0Tob4H0FLtEONHU1MjpUEp", artistName: "Tinie Tempah" },
   ],
   trackKey: "lushlifefeattinietempah|0Tob4H0FLtEONHU1MjpUEp,1Xylc3o4UrD53lo9CvFvVg|201032",
+  song: "song/zara-larsson-lush-life",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const celticWoman2HomecomingLiveFromIrelandThePartingGlassLive2017 = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thepartingglasslive2017|6NWtt9pNOL2Gx7kBykdE5x|305213",
+  song: "song/celtic-woman-the-parting-glass",
 } as const satisfies Track

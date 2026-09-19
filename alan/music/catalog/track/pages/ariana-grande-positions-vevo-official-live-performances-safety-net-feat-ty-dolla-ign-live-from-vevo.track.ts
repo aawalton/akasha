@@ -28,4 +28,5 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesSafetyNetFeatTyDol
     ],
     trackKey:
       "safetynetfeattydollaignlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|211921",
+    song: "song/ariana-grande-safety-net",
   } as const satisfies Track

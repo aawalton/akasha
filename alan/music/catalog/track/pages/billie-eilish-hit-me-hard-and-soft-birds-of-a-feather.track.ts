@@ -23,4 +23,5 @@ export const billieEilishHitMeHardAndSoftBirdsOfAFeather = {
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "birdsofafeather|6qqNVTkY8uBg9cP3Jd7DAH|210373",
+  song: "song/billie-eilish-birds-of-a-feather",
 } as const satisfies Track

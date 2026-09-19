@@ -23,4 +23,5 @@ export const jamesTaylor2FlagUpOnTheRoof = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "upontheroof|0vn7UBvSQECKJm2817Yf1P|260066",
+  song: "song/james-taylor-up-on-the-roof",
 } as const satisfies Track

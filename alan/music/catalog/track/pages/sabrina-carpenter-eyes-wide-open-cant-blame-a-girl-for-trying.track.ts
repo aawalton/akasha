@@ -23,4 +23,5 @@ export const sabrinaCarpenterEyesWideOpenCantBlameAGirlForTrying = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "cantblameagirlfortrying|74KM79TiuVKeVCqs8QtB0B|169306",
+  song: "song/sabrina-carpenter-cant-blame-a-girl-for-trying",
 } as const satisfies Track

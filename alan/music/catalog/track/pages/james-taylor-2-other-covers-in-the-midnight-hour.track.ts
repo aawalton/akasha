@@ -23,4 +23,5 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "inthemidnighthour|0vn7UBvSQECKJm2817Yf1P|194200",
+  song: "song/james-taylor-in-the-midnight-hour",
 } as const satisfies Track

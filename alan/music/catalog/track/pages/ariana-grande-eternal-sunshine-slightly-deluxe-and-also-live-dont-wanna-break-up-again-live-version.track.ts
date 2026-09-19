@@ -24,4 +24,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveDontWannaBreakU
     explicit: true,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "dontwannabreakupagainliveversion|66CXWjxzNUsdJxJ2JdwvnR|174251",
+    song: "song/ariana-grande-don-t-wanna-break-up-again",
   } as const satisfies Track

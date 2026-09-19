@@ -23,4 +23,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHighwaySong201
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "highwaysong2019remaster|0vn7UBvSQECKJm2817Yf1P|233333",
+  song: "song/james-taylor-highway-song",
 } as const satisfies Track

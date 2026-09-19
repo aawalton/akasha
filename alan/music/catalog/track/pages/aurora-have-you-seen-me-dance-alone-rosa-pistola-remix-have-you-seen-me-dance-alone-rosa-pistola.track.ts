@@ -29,4 +29,5 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
   ],
   trackKey:
     "haveyouseenmedancealonerosapistolaremix|06fEHseCklFEuDgM5dccHX,1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|243851",
+  song: "song/aurora-have-you-seen-me-dance-alone",
 } as const satisfies Track

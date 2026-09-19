@@ -23,4 +23,5 @@ export const celticWoman2VoicesOfAngelsJoyToTheWorld2016Version = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "joytotheworld2016version|6NWtt9pNOL2Gx7kBykdE5x|209920",
+  song: "song/celtic-woman-joy-to-the-world",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const sabrinaCarpenterFirstLoveFirstLove = {
     { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
   ],
   trackKey: "firstlove|3hyEbRtp617pNCuuQjyOmc,74KM79TiuVKeVCqs8QtB0B|207427",
+  song: "song/sabrina-carpenter-first-love",
 } as const satisfies Track

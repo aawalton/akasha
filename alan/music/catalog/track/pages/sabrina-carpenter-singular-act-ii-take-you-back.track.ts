@@ -23,4 +23,5 @@ export const sabrinaCarpenterSingularActIiTakeYouBack = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "takeyouback|74KM79TiuVKeVCqs8QtB0B|169058",
+  song: "song/sabrina-carpenter-take-you-back",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const celticWoman2LullabyWalkingInTheAir = {
     { externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" },
   ],
   trackKey: "walkingintheair|34sL9HIOU50t8u0IQMZeze,6NWtt9pNOL2Gx7kBykdE5x|210426",
+  song: "song/celtic-woman-walking-in-the-air",
 } as const satisfies Track

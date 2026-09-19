@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGood = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "forgood|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|377098",
+  song: "song/ariana-grande-for-good",
 } as const satisfies Track

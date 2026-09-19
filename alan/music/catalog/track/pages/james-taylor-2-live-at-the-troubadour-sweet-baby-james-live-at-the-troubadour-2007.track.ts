@@ -27,4 +27,5 @@ export const jamesTaylor2LiveAtTheTroubadourSweetBabyJamesLiveAtTheTroubadour200
   ],
   trackKey:
     "sweetbabyjamesliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|214946",
+  song: "song/james-taylor-sweet-baby-james",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandePositionsDeluxePov = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "pov|66CXWjxzNUsdJxJ2JdwvnR|201882",
+  song: "song/ariana-grande-pov",
 } as const satisfies Track

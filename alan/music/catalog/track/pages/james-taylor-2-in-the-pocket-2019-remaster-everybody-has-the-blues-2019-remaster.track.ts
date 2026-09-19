@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterEverybodyHasTheBlues2019Remaster
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "everybodyhastheblues2019remaster|0vn7UBvSQECKJm2817Yf1P|123080",
+  song: "song/james-taylor-everybody-has-the-blues",
 } as const satisfies Track

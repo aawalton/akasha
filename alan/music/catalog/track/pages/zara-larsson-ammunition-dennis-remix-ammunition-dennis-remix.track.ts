@@ -26,4 +26,5 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
     { externalId: "6xlRSRMLgZbsSNd0BMobwy", artistName: "DENNIS" },
   ],
   trackKey: "ammunitiondennisremix|1Xylc3o4UrD53lo9CvFvVg,6xlRSRMLgZbsSNd0BMobwy|138965",
+  song: "song/zara-larsson-ammunition",
 } as const satisfies Track

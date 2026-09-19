@@ -23,4 +23,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackQueendom = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "queendom|1WgXqy2Dd70QQOU7Ay074N|206640",
+  song: "song/aurora-queendom",
 } as const satisfies Track
