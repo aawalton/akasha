@@ -1,10 +1,7 @@
 import { expect, test } from "bun:test"
 import { appendLinesFromCommand } from "akasha/change/agent/file-content/append-lines-from/append-lines-from.change-agent.code.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "akasha/one/held.jsonl"
 

@@ -3,10 +3,7 @@ import {
   removePropertyValue,
   runChange,
 } from "akasha/change/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { knownOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
