@@ -20,10 +20,6 @@ export const ainePatreon = {
     {
       statement:
         "Every product serves the feature requests for that product at `requests` under its own domain.",
-      workingMemory: "",
-    },
-    {
-      statement: "Every product Alan has live has a view of the feature requests for that product.",
     },
     { statement: "Every feature Alan already means to build is a published feature request." },
     { statement: "A patron commits points to a published feature request." },
