@@ -7,6 +7,7 @@ import type { EventCount } from "akasha/story/world-character/properties/event-c
 import type { FirstChapter } from "akasha/story/world-character/properties/first-chapter.number-property.types.ts"
 import type { LastChapter } from "akasha/story/world-character/properties/last-chapter.number-property.types.ts"
 import type { MaxLevel } from "akasha/story/world-character/properties/max-level.number-property.types.ts"
+import type { MergedInto } from "akasha/story/world-character/properties/merged-into.relation-property.types.ts"
 
 export type WorldCharacter = Page & {
   title: Title
@@ -17,4 +18,5 @@ export type WorldCharacter = Page & {
   lastChapter?: LastChapter
   characterClaims?: CharacterClaims
   aliasOf?: AliasOf
+  mergedInto?: MergedInto
 }

@@ -68,6 +68,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"log-source","unique":null,"uniquePropertySlug":null,"slug":"log-source","propertySlug":"source","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"lua-module","unique":null,"uniquePropertySlug":null,"slug":"lua-modules","propertySlug":"lua-modules","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"members","propertySlug":"members","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"merged-into","propertySlug":"merged-into","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"message-to","propertySlug":"to","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"messaged-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-family","unique":null,"uniquePropertySlug":null,"slug":"model-family","propertySlug":"model-family","fileName":null,"folderName":null,"sorted":false}

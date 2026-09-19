@@ -15,6 +15,7 @@ export const worldCharacter = {
     "number-property/max-level",
     "page-property-entry/character-claims",
     "relation-property/alias-of",
+    "relation-property/merged-into",
     "text-property/claim-field",
     "text-property/claim-value",
     "text-property/claimed-by",
@@ -30,6 +31,7 @@ export const worldCharacter = {
     { pageProperty: "number-property/last-chapter", required: false, many: false },
     { pageProperty: "page-property-entry/character-claims", required: false, many: false },
     { pageProperty: "relation-property/alias-of", required: false, many: false },
+    { pageProperty: "relation-property/merged-into", required: false, many: false },
   ],
   decisions: [
     {

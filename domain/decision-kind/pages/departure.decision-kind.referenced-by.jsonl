@@ -3245,6 +3245,7 @@
 {"propertySlug":"decision-kind","path":"story/world-character/properties/first-chapter.number-property.ts","id":"01a0657a-9ccd-73d3-80f7-ae7f84d136d4"}
 {"propertySlug":"decision-kind","path":"story/world-character/properties/last-chapter.number-property.ts","id":"01a0657a-9ccd-7629-800d-515631354a44"}
 {"propertySlug":"decision-kind","path":"story/world-character/properties/max-level.number-property.ts","id":"01a0657a-9ccc-799d-b3da-5f74e280345a"}
+{"propertySlug":"decision-kind","path":"story/world-character/properties/merged-into.relation-property.ts","id":"01a0b751-74f6-7516-a911-7d58d348079b"}
 {"propertySlug":"decision-kind","path":"story/world-character/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"decision-kind","path":"story/world-mechanic/properties/aliases.text-property.ts","id":"01a06558-a991-7721-9c7a-fb59e452d286"}
 {"propertySlug":"decision-kind","path":"story/world-mechanic/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
