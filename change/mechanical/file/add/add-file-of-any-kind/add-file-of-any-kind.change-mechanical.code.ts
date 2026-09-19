@@ -1,3 +1,10 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
+import { addFilePage } from "akasha/change/mechanical/file/add/add-file-page/add-file-page.change-mechanical.ts"
+import { addFilePageProperty } from "akasha/change/mechanical/file/add/add-file-page-property/add-file-page-property.change-mechanical.ts"
+import { addFilePageType } from "akasha/change/mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -17,11 +24,11 @@ const NO_LITERAL = "the body declares no literal, so no `id` goes into the body"
 const BLANK = "an `id` stating nothing is no id, so `id` is left out or said as `auto`"
 
 const ADDRESSES = {
-  file: "change-mechanical-file/add-file",
-  "file-code": "change-mechanical/add-file-code",
-  "file-page": "change-mechanical/add-file-page",
-  "file-page-property": "change-mechanical/add-file-page-property",
-  "file-page-type": "change-mechanical/add-file-page-type",
+  file: `${changeMechanicalFile.slug}/${addFile.slug}`,
+  "file-code": `${changeMechanical.slug}/${addFileCode.slug}`,
+  "file-page": `${changeMechanical.slug}/${addFilePage.slug}`,
+  "file-page-property": `${changeMechanical.slug}/${addFilePageProperty.slug}`,
+  "file-page-type": `${changeMechanical.slug}/${addFilePageType.slug}`,
 } as const
 
 export function addressFor(world: World, at: string) {
