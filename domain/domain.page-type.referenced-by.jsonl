@@ -101,7 +101,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/modules/audit-telling/audit-telling.module.code.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}

@@ -127,6 +127,58 @@ export const auditServing = {
       decisionKind: "decision-kind/departure",
       statement: "The round's exit line counts what refused apart from what nothing measured.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The persona championing checks is told of a refusal that check did not have.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check already refusing is told of all the same, for a refusal that is new.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two refusals are the same refusal where the path each one names is the same.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message names the refusals a check newly has rather than every one it has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check with no verdict before has every refusal it found read as new.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The one told is read from the pages rather than named in this module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A telling nobody could receive is passed to Alan.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal a check had the round before is told again to nobody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check turning clean again is told to nobody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One message carries every check that turned in a round.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message is held to the words a message page carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal too long for that is shortened to say how much of it went.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message names where what each check answered is kept.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -198,45 +250,7 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A check refusing over its own page is run again alone before the round keeps that refusal.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A refusal naming the check's own page is about the run rather than about the tree.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every other refusal names a path in the tree, which a second run would not move.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The ceiling is read against that second run rather than against the first.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The second run is taken once the round's lanes are drained, so it runs alone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A round with no check refusing over its own page runs nothing a second time.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A check run again takes the turn its own slug names, as the first run did.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The verdict the second run leaves is written over the one the shared run left.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A check turning clean alone is told to nobody.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A check refusing alone as well is run no third time.",
+      statement: "A check is held to that ceiling whether or not a check ran beside it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -260,8 +274,8 @@ export const auditServing = {
         "A check killed at its own processor ceiling and one killed from outside die on one signal.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A check a signal ended is run again alone, its refusal naming its own page.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here runs a check again because a signal ended that check's process.",
     },
     {
       decisionKind: "decision-kind/departure",

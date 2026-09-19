@@ -1,19 +1,12 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { check as checkDomain } from "akasha/check/check.domain.ts"
 import {
   costKept,
   type Recording,
   verdictSent,
 } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
-import {
-  bodyFor,
-  championOf,
-  refusalPath,
-  refusalsNew,
-  type Sent,
-  sending,
-  telling,
-} from "akasha/check/modules/audit-telling/audit-telling.module.code.ts"
 import {
   cleanAt,
   cleanly,
@@ -30,7 +23,10 @@ import {
   takesAny,
 } from "akasha/check/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { reasonSaid } from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
+import {
+  heldTo,
+  reasonSaid,
+} from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
 import {
   bytesAwaited,
   endingOf,
@@ -38,11 +34,17 @@ import {
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
+import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
+import {
+  championing,
+  passedOn,
+} from "akasha/infrastructure/service/workstation/modules/service-alerting/service-alerting.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -56,15 +58,29 @@ const WAITED = 3_600_000
 
 const ALONE = 1
 
+const ANSWERS_FOR = `${domain.slug}/${checkDomain.slug}` as const
+
+const FALLBACK = "alan"
+
+const FROM = "audit-running"
+
 const AUDIT = "audit"
 
 const LOGS = "logs"
 
 const AUDIT_LOGS = `${AUDIT}.${LOGS}`
 
+const SHOWN = 5
+
+const BODY_CEILING = 19000
+
+const REASON_CEILING = 240
+
 const SAID = "audit-running:"
 
 const PARTED = "\n"
+
+const REASONED = " — "
 
 const BUN = "bun"
 
@@ -86,6 +102,15 @@ const UNANSWERED = "wrote no verdict where one was asked for"
 
 const UNREAD = "wrote a verdict no runner could read"
 
+const UNMEASURED = "went unmeasured"
+
+const REFUSING = "newly refusing"
+
+const NOTHING_MEASURED = "nothing measured"
+
+const WHOLE =
+  "what each of them answered is on the newest row of the audit log beside that check's page."
+
 const underway = new Map<string, Promise<Ran>>()
 
 export type Over = {
@@ -100,6 +125,8 @@ export type Ran = {
 }
 
 export type Running = (one: Gathered, change: Change) => Promise<readonly Judged[]>
+
+export type Sent = (to: string, body: string) => Promise<string | null>
 
 export type Told = {
   readonly ran: readonly Ran[]
@@ -171,6 +198,23 @@ export const spawning: Running = async (one) => {
 const gated: Running = async (one, change) => {
   await waitedForRoom(AUDIT)
   return await spawning(one, change)
+}
+
+export const sending: Sent = async (to, body) => {
+  const wrote = await writeMessage({ to, from: FROM, warrant: "announce", body })
+  return wrote.kind === "refused" ? wrote.detail : null
+}
+
+export function championOf(root: string): string {
+  return championing(domainsDrawn(root))(ANSWERS_FOR) ?? FALLBACK
+}
+
+export async function telling(send: Sent, to: string, body: string): Promise<string | null> {
+  const why = await send(to, body)
+  if (why === null) return null
+  if (to === FALLBACK) return `nothing told \`${FALLBACK}\`: ${why}`
+  const then = await send(FALLBACK, passedOn(to, body, why))
+  return then === null ? null : `nothing told \`${to}\` or \`${FALLBACK}\`: ${then}`
 }
 
 export async function commitOf(root: string): Promise<string> {
@@ -284,8 +328,46 @@ export async function auditOne(given: Asking): Promise<Ran> {
   }
 }
 
-function saidOfItself(one: Gathered, verdict: Verdict): boolean {
-  return verdict.refusals.some((two) => refusalPath(two) === one.page)
+function refusalPath(said: string): string {
+  const at = said.indexOf(REASONED)
+  return at === -1 ? said : said.slice(0, at)
+}
+
+export function refusalsNew(before: Verdict | null, after: Verdict): readonly string[] {
+  if (cleanly(after)) return []
+  if (before === null) return after.refusals
+  const had = new Set(before.refusals.map(refusalPath))
+  return after.refusals.filter((one) => !had.has(refusalPath(one)))
+}
+
+function headFor(commit: string, refused: number, unmeasured: number): string {
+  const found = `the audit at ${commit} found`
+  if (unmeasured === 0) return `${found} ${counted(refused, "check")} ${REFUSING}.`
+  if (refused === 0) return `${found} ${counted(unmeasured, "check")} ${NOTHING_MEASURED}.`
+  return (
+    `${found} ${counted(refused, "check")} ${REFUSING} and ` +
+    `${counted(unmeasured, "check")} ${NOTHING_MEASURED}.`
+  )
+}
+
+function saidOf(one: Ran): readonly string[] {
+  const head = measured(one.verdict)
+    ? `\`${one.check}\` refused ${counted(one.verdict.refusals.length, "time")}:`
+    : `\`${one.check}\` ${UNMEASURED}:`
+  return [
+    head,
+    ...one.verdict.refusals.slice(0, SHOWN).map((two) => `  ${reasonSaid(two, REASON_CEILING)}`),
+  ]
+}
+
+export function bodyFor(red: readonly Ran[], commit: string): string {
+  const refused = red.filter((one) => measured(one.verdict))
+  const unmeasured = red.filter((one) => !measured(one.verdict))
+  return [
+    headFor(commit, refused.length, unmeasured.length),
+    ...heldTo([...refused, ...unmeasured].flatMap(saidOf), BODY_CEILING),
+    WHOLE,
+  ].join("\n")
 }
 
 export type Serving = {
@@ -295,7 +377,6 @@ export type Serving = {
   readonly run?: Running
   readonly send?: Sent
   readonly to?: string
-  readonly record?: Recording
 }
 
 export function roundOver(
@@ -307,34 +388,6 @@ export function roundOver(
   return every.filter((one) => held.has(one.slug))
 }
 
-export async function aloneOver(
-  given: Serving,
-  over: Over,
-  every: readonly Gathered[],
-  ran: readonly Ran[]
-): Promise<ReadonlyMap<number, Ran>> {
-  const made = new Map<number, Ran>()
-  mkdirSync(join(given.home, TURNS), { recursive: true })
-  for (let mine = 0; mine < every.length; mine += 1) {
-    const one = every[mine]
-    const said = ran[mine]
-    if (one === undefined || said === undefined || !said.ran) continue
-    if (!saidOfItself(one, said.verdict)) continue
-    const verdict = await exclusively(
-      turnAt(given.home, one.slug),
-      async (): Promise<Verdict> => {
-        const again = await (given.run ?? gated)(one, over.change)
-        const now = verdictOf(again, over, new Date().toISOString())
-        await verdictSent(one.page, one.slug, now, AUDIT_LOGS, given.record)
-        return now
-      },
-      WAITED
-    )
-    made.set(mine, { check: one.slug, verdict, ran: true })
-  }
-  return made
-}
-
 async function serving(given: Serving): Promise<Told> {
   const send = given.send ?? sending
   const over = await overNow(given.root)
@@ -343,13 +396,6 @@ async function serving(given: Serving): Promise<Told> {
   const every = roundOver(checksIn(given.root), given.checks)
   const ran: Ran[] = []
   const found: (Ran | undefined)[] = []
-  const was: (Verdict | null)[] = []
-  const keeping = (mine: number, said: Ran): undefined => {
-    ran[mine] = said
-    const fresh = refusalsNew(was[mine] ?? null, said.verdict)
-    found[mine] =
-      fresh.length > 0 ? { ...said, verdict: { ...said.verdict, refusals: fresh } } : undefined
-  }
   let next = 0
   const turn = async (): Promise<undefined> => {
     for (;;) {
@@ -358,15 +404,17 @@ async function serving(given: Serving): Promise<Told> {
       const one = every[mine]
       if (one === undefined) return
       const asking: Asking = { ...given, check: one, over, asked: over.commit, moved, shadow }
-      was[mine] = verdictFor(asking)
-      keeping(mine, await auditOne(asking))
+      const before = verdictFor(asking)
+      const said = await auditOne(asking)
+      ran[mine] = said
+      const fresh = refusalsNew(before, said.verdict)
+      if (fresh.length > 0) found[mine] = { ...said, verdict: { ...said.verdict, refusals: fresh } }
     }
   }
   const turns: Promise<undefined>[] = []
   const lanes = Math.max(ALONE, Math.min(processorsHere() ?? ALONE, every.length))
   for (let which = 0; which < lanes; which += 1) turns.push(turn())
   await Promise.all(turns)
-  for (const [mine, said] of await aloneOver(given, over, every, ran)) keeping(mine, said)
   const red = found.flatMap((one) => (one === undefined ? [] : [one]))
   const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }

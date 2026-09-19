@@ -7,8 +7,6 @@
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}
-{"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-telling/audit-telling.module.code.ts"}
-{"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-telling/audit-telling.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/modules/checking/checking.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-verdict.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts"}

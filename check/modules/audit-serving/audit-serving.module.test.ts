@@ -1,18 +1,20 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import {
-  aloneOver,
   auditOne,
+  bodyFor,
   carriedOn,
+  championOf,
   childAt,
   commitOf,
   judgedIn,
   keyFor,
   movedIn,
   type Over,
-  type Ran,
+  refusalsNew,
   roundOver,
   spawning,
+  telling,
   turnAt,
   verdictOf,
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
@@ -30,7 +32,10 @@ import {
   scratch,
   taking,
 } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
-import { verdictLogged } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
+import {
+  type Verdict,
+  verdictLogged,
+} from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -62,6 +67,57 @@ test("a run that refused nothing leaves a clean verdict", () => {
     refusals: [],
     unrun: false,
   })
+})
+
+test("a refusal a check did not have before is new, and one it had is not", () => {
+  const red: Verdict = { ...CLEAN, refusals: ["one.ts — no"] }
+  const both: Verdict = { ...CLEAN, refusals: ["one.ts — no", "two.ts — no"] }
+  expect(refusalsNew(null, red)).toEqual(["one.ts — no"])
+  expect(refusalsNew(red, red)).toEqual([])
+  expect(refusalsNew(red, both)).toEqual(["two.ts — no"])
+  expect(refusalsNew(red, { ...CLEAN, refusals: ["one.ts — at one"] })).toEqual([])
+})
+
+test("the one told is read from the pages rather than named in the module", () => {
+  expect(championOf(process.cwd())).toMatch(/^[a-z][a-z-]*$/)
+})
+
+test("a telling nobody could receive is passed to Alan, saying who it was meant for", async () => {
+  const asked: string[] = []
+  const bodies: string[] = []
+  const why = await telling(
+    async (to, body) => {
+      asked.push(to)
+      bodies.push(body)
+      return to === "alan" ? null : "no seat holds that name"
+    },
+    "thea",
+    "a check turned."
+  )
+  expect(asked).toEqual(["thea", "alan"])
+  expect(bodies[1]).toContain("meant for `thea`")
+  expect(bodies[1]).toContain("no seat holds that name")
+  expect(why).toBeNull()
+})
+
+test("a telling Alan was meant for is not passed to Alan a second time", async () => {
+  const asked: string[] = []
+  const why = await telling(
+    async (to) => {
+      asked.push(to)
+      return "nothing is waiting there"
+    },
+    "alan",
+    "a check turned."
+  )
+  expect(asked).toEqual(["alan"])
+  expect(why).toContain("`alan`")
+})
+
+test("a telling neither could take is answered as a refusal rather than thrown", async () => {
+  const why = await telling(async () => "nothing is waiting there", "thea", "a check turned.")
+  expect(why).toContain("`thea`")
+  expect(why).toContain("`alan`")
 })
 
 test("a round a request names checks for runs those checks alone", () => {
@@ -117,6 +173,55 @@ test("two askers join one run only where check, home and commit all agree", () =
   expect(keyFor(one)).not.toBe(keyFor({ ...one, over: later }))
   expect(keyFor(one)).not.toBe(keyFor({ ...one, check: gathered("lint-clean", "/r") }))
   expect(keyFor(one)).not.toBe(keyFor({ ...one, home: "/other" }))
+})
+
+test("what the one told reads names every check that turned and what each refused", () => {
+  const said = bodyFor(
+    [{ check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }],
+    "abc"
+  )
+  expect(said).toContain("typecheck")
+  expect(said).toContain("one.ts — no")
+  expect(said).toContain("abc")
+  expect(said).toContain("the audit log beside that check's page")
+  expect(said).toContain("1 check newly refusing.")
+})
+
+test("a check nothing measured is told and counted apart from one that refused", () => {
+  const killed = { ...CLEAN, refusals: ["two.ts — died on SIGKILL apart"], unrun: true }
+  const two = { check: "no-re-export", verdict: killed, ran: true }
+  const one = { check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }
+  const said = bodyFor([one, two], "abc")
+  expect(said).toContain("found 1 check newly refusing and 1 check nothing measured.")
+  expect(said).toContain("`typecheck` refused 1 time:")
+  expect(said).toContain("`no-re-export` went unmeasured:")
+  expect(said).toContain("died on SIGKILL apart")
+  const alone = bodyFor([two], "abc")
+  expect(alone).toContain("the audit at abc found 1 check nothing measured.")
+  expect(alone).not.toContain("refus")
+})
+
+test("a refusal too long for a message is shortened to say how much of it went", () => {
+  const whole = `68 test files failed:\n${"a/b.test.ts\n".repeat(400)}`
+  const said = bodyFor(
+    [{ check: "tests-pass", verdict: { ...CLEAN, refusals: [whole] }, ran: true }],
+    "abc"
+  )
+  expect(said).toContain("68 test files failed:")
+  expect(said).toContain("lines more)")
+  expect(said.length).toBeLessThan(whole.length)
+})
+
+test("a message is held to the words a message page carries", () => {
+  const refusals = Array.from({ length: 400 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(90)}`)
+  const red = refusals.map((one, at) => ({
+    check: `check-${at}`,
+    verdict: { ...CLEAN, refusals: [one] },
+    ran: true,
+  }))
+  const said = bodyFor(red, "abc")
+  expect(new TextEncoder().encode(said).length).toBeLessThan(20000)
+  expect(said).toContain("the audit log beside that check's page")
 })
 
 test("a check with no verdict yet is run, and the verdict is kept", async () => {
@@ -321,98 +426,4 @@ test("a verdict that refused is carried forward as a verdict that refuses", asyn
   )
   expect(carried?.refusals).toEqual(["one.sh — no"])
   expect(carried?.commit).toBe(made[1] ?? "")
-})
-
-function ranFirst(refusals: readonly string[], unrun: boolean, commit: string): Ran {
-  return { check: "typecheck", verdict: { ...CLEAN, commit, refusals, unrun }, ran: true }
-}
-
-test("a check refusing over its own page is run again alone and the second verdict is kept", async () => {
-  const { root, made } = await repoOf(1)
-  const one = checked("typecheck", root)
-  const over: Over = { change: NOTHING, commit: made[0] ?? "" }
-  let runs = 0
-  const said = `${one.page} — the check \`typecheck\` spent 30 over the 15 its page states`
-  const again = await aloneOver(
-    {
-      root,
-      home: scratch.rootFor("akasha-audit-serving-home-"),
-      checks: [],
-      record: into(root),
-      run: async (): Promise<readonly Judged[]> => {
-        runs += 1
-        return []
-      },
-    },
-    over,
-    [one],
-    [ranFirst([said], false, over.commit)]
-  )
-  expect(runs).toBe(1)
-  expect(again.get(0)?.verdict.refusals).toEqual([])
-  expect(verdictLogged(root, one.page, LOGS)?.refusals).toEqual([])
-})
-
-test("a check refusing over a path in the tree is run no second time", async () => {
-  const { root, made } = await repoOf(1)
-  const one = checked("typecheck", root)
-  const over: Over = { change: NOTHING, commit: made[0] ?? "" }
-  const again = await aloneOver(
-    {
-      root,
-      home: scratch.rootFor("akasha-audit-serving-home-"),
-      checks: [],
-      record: into(root),
-      run: async (): Promise<readonly Judged[]> => {
-        throw new Error("a refusal naming the tree was run a second time")
-      },
-    },
-    over,
-    [one],
-    [ranFirst(["one.ts — one refused"], false, over.commit)]
-  )
-  expect(again.size).toBe(0)
-})
-
-test("a check a signal ended is run again alone, its refusal naming its own page", async () => {
-  const { root, made } = await repoOf(1)
-  const one = checked("typecheck", root)
-  const over: Over = { change: NOTHING, commit: made[0] ?? "" }
-  const said = `${one.page} — the check \`typecheck\` died on SIGKILL apart, so it judged nothing`
-  const again = await aloneOver(
-    {
-      root,
-      home: scratch.rootFor("akasha-audit-serving-home-"),
-      checks: [],
-      record: into(root),
-      run: async (): Promise<readonly Judged[]> => [],
-    },
-    over,
-    [one],
-    [ranFirst([said], true, over.commit)]
-  )
-  expect(again.get(0)?.verdict.unrun).toBe(false)
-  expect(again.get(0)?.verdict.refusals).toEqual([])
-})
-
-test("a check carried rather than run is run no second time", async () => {
-  const { root, made } = await repoOf(1)
-  const one = checked("typecheck", root)
-  const over: Over = { change: NOTHING, commit: made[0] ?? "" }
-  const first = ranFirst([`${one.page} — over its ceiling`], false, over.commit)
-  const again = await aloneOver(
-    {
-      root,
-      home: scratch.rootFor("akasha-audit-serving-home-"),
-      checks: [],
-      record: into(root),
-      run: async (): Promise<readonly Judged[]> => {
-        throw new Error("a carried verdict was run a second time")
-      },
-    },
-    over,
-    [one],
-    [{ ...first, ran: false }]
-  )
-  expect(again.size).toBe(0)
 })
