@@ -1,9 +1,12 @@
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { sortPropertyValuesOnEveryPage } from "akasha/change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.ts"
 import type { Reaching, World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { worldOfType } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried as Declared } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
-export const SORTING = "change-mechanical-page-type/sort-property-values-on-every-page"
+export const SORTING =
+  `${changeMechanicalPageType.slug}/${sortPropertyValuesOnEveryPage.slug}` as const
 
 export const ONE_AT = "alan/book/one.book-section.ts"
 

@@ -1,3 +1,5 @@
+import { qualifyRelationOnEveryPage } from "akasha/change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import {
   ledgerAt,
   type Reaching,
@@ -16,7 +18,8 @@ import type { Carried as Declared } from "akasha/page/type/modules/declared-prop
 
 const NOWHERE = "/nowhere"
 
-export const QUALIFYING = "change-mechanical-page-type/qualify-relation-on-every-page"
+export const QUALIFYING =
+  `${changeMechanicalPageType.slug}/${qualifyRelationOnEveryPage.slug}` as const
 
 export const TYPE = "book-section"
 
