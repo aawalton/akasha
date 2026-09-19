@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.test.ts"}

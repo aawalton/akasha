@@ -1,4 +1,4 @@
-import type { Places } from "akasha/check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"
+import type { Places } from "akasha/check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"
 import { filing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"

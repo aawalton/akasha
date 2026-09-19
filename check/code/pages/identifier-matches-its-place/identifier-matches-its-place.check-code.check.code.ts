@@ -1,7 +1,5 @@
-import {
-  placesIn,
-  refusedIn,
-} from "akasha/check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"
+import { refusedIn } from "akasha/check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"
+import { placesIn } from "akasha/check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"
 import {
   bodyOf,
   input,

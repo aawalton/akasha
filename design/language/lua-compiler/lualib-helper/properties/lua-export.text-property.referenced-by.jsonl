@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lua-export.text-property.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"lua-export.text-property.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-export.text-property.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"}
 {"propertySlug":"page-property","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}

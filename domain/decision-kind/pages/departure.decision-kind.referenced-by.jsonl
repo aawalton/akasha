@@ -1444,6 +1444,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.ts","id":"01a0824c-b5c0-7a41-9d3e-5c8f0b621e74"}
 {"propertySlug":"decision-kind","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.ts","id":"01a04bcb-c6f6-726e-ad7e-718958087eb4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","id":"01a0500d-f968-74e7-b9a7-8394faa7a890"}
+{"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.ts","id":"01a0b8af-d1b4-7dd0-956c-5529d1ad14cd"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.ts","id":"01a04f76-7430-7672-ac69-f8976ad2dc93"}
 {"propertySlug":"decision-kind","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.ts","id":"01a09ba5-5f5f-7ff3-9aec-c905e4d224ba"}
 {"propertySlug":"decision-kind","path":"check/code/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.check-code.ts","id":"01a091e9-689c-7003-b37b-c2bee87ff75b"}

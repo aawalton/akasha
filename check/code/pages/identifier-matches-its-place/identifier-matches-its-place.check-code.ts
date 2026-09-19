@@ -5,6 +5,7 @@ export const identifierMatchesItsPlace = {
   type: "page-type/check-code",
   slug: "identifier-matches-its-place",
   definition: "the check refusing a declared name not written in the format its place states",
+  parts: ["module/place-reading"],
   runsOnChange: false,
   runsOnDeploy: false,
   runsOnAudit: true,
@@ -33,10 +34,6 @@ export const identifierMatchesItsPlace = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every name a declaration file states is a declaration.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "The places hold for the whole repo.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -189,10 +186,6 @@ export const identifierMatchesItsPlace = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A name spelled as the `luaExport` its page states is passed over.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The pages carrying `luaExport` are asked of the index rather than named here.",
     },
     {
       decisionKind: "decision-kind/departure",

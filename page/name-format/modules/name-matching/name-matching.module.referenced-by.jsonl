@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"name-matching.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"name-matching.module.code.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"name-matching.module.code.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"name-matching.module.code.ts","path":"page/name-format/modules/name-matching/name-matching.module.test.ts"}
 {"propertySlug":"import","fileName":"name-matching.module.code.ts","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"}

@@ -127,7 +127,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts"}
