@@ -300,7 +300,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-root-tsconfig-names-no-file-and-the-hook-guarding-it-still-says-that-run-exits-zero.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-rule-template-table-declares-one-part-and-the-disk-holds-two.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-settings-inventory-tab-reads-two-page-types-that-are-gone.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts"}
@@ -311,6 +310,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-watchers-finished-forever-read-ignores-the-nested-progress-still-declared.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-web-pods-liveness-kills-blank-the-tile-each-time.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-web-pods-stall-is-neither-memory-nor-cpu-throttling.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-webs-only-reader-of-an-account-inventory-reads-two-page-types-that-are-gone.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-widgets-authorization-has-no-cache-and-no-fallback.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/thirteen-flat-pages-folders-need-per-page-folders-and-three-more-only-look-as-though-they-do.finding.ts"}
