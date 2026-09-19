@@ -340,8 +340,10 @@ export function filePropertiesOver(
   return carryingOver(given, left).filed
 }
 
+const carryingHeld = heldOnce((reading: Reading): Carrying => carryingOver(reading, []))
+
 function carryingAt(given: string | Reading): Carrying {
-  return carryingOver(readingIn(given), [])
+  return carryingHeld(given)
 }
 
 export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
