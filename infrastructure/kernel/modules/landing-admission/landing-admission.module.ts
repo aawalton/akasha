@@ -13,7 +13,7 @@ export const landingAdmission = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Eight gigabytes available is the least a landing starts on.",
+      statement: "Sixteen gigabytes available is the least a landing starts on.",
     },
     {
       decisionKind: "decision-kind/departure",
