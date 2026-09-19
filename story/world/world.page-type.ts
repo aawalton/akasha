@@ -20,6 +20,7 @@ export const world = {
     "page-type/story-wiki-entry",
     "page-type/story-written",
     "page-type/world-character",
+    "page-type/world-mechanic",
     "select-property/reading-kind",
     "text-property/character-slug",
     "text-property/mechanic-slug",

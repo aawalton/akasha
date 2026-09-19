@@ -5,4 +5,4 @@
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/mechanics/quests/pages/rare-quest/rare-quest.world-quest.ts"}
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/mechanics/quests/pages/rare-quests/rare-quests.world-quest.ts"}
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/mechanics/quests/pages/royal-quest/royal-quest.world-quest.ts"}
-{"propertySlug":"parts","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}

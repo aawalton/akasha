@@ -51,4 +51,4 @@
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/mechanics/conditions/pages/vow-of-poverty/vow-of-poverty.world-condition.ts"}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/mechanics/conditions/pages/wordless-thing/wordless-thing.world-condition.ts"}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/mechanics/conditions/pages/words-of-disgrace/words-of-disgrace.world-condition.ts"}
-{"propertySlug":"parts","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}

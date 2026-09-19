@@ -98,8 +98,8 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/view/properties/locked-page-type.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/view/properties/sort-descending.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-consent.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world-mechanic/properties/claimed.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world-mechanic/properties/effect-claimed.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-claimed.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/augment-delay.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/initial-tick.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/is-casting.boolean-property.ts"}

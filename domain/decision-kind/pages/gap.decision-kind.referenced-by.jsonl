@@ -395,9 +395,9 @@
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/chronology-anchors.page-property-entry.ts","id":"01a0685e-ef8a-71e6-87f4-7f7e2c65e093"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
-{"propertySlug":"decision-kind","path":"story/world-mechanic/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
-{"propertySlug":"decision-kind","path":"story/world-mechanic/properties/evolves-to-slugs.text-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-slug.text-property.ts","id":"01a063ce-6216-7006-8542-b3d67f43dc56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-slug.text-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}

@@ -14,7 +14,6 @@ export const story = {
     "page-type/game",
     "page-type/story-chapter-read",
     "page-type/world",
-    "page-type/world-mechanic",
   ],
   decisions: [
     {

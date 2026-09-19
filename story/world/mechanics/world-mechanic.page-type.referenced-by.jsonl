@@ -36,4 +36,4 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/species/world-species.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/spells/world-spell.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/titles/world-title.page-type.types.ts"}
-{"propertySlug":"parts","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
+{"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
