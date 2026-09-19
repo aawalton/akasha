@@ -24,6 +24,7 @@ import { alanwaltonWeb } from "akasha/infrastructure/service/cluster/pages/alanw
 const NAMESPACE = alanwaltonWeb.namespace
 const APP_NAME = alanwaltonWeb.resourceName
 const SECRET_NAME = "alanwalton-secrets"
+const LOGIN_SECRET_NAME = "alanwalton-login-secrets"
 const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
 
 const RESOURCE_LABELS = {
@@ -148,6 +149,12 @@ function webDeploymentYaml(): string {
                 {
                   name: "SUPABASE_JWT_SECRET",
                   valueFrom: { secretKeyRef: { name: SECRET_NAME, key: "JWT_SECRET" } },
+                },
+                {
+                  name: "HANDOVER_SIGNING_KEY",
+                  valueFrom: {
+                    secretKeyRef: { name: LOGIN_SECRET_NAME, key: "HANDOVER_SIGNING_KEY" },
+                  },
                 },
                 {
                   name: "SEAWEEDFS_S3_ENDPOINT",
