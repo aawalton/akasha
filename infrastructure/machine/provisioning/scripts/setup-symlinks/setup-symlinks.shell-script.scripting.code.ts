@@ -45,7 +45,6 @@ const DOTFILES: readonly Placing[] = [
   { slug: "git-config", pad: 8, at: "$HOME/.gitconfig" },
   { slug: "home-search-ignore", pad: 1, at: "$HOME/.ignore" },
   { slug: "git-global-ignore", pad: 2, at: "$HOME/.config/git/ignore" },
-  { slug: "repos-editor-settings", pad: 1, at: "$REPOS/.vscode/settings.json" },
 ]
 
 const LAUNCHERS: readonly Placing[] = [
@@ -142,7 +141,6 @@ function opening(given: string | Reading): readonly string[] {
     "",
     'HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"',
     `. "$HERE${AT}..${AT}${shellAt(given, ROOTS)}"`,
-    'REPOS="$(dirname -- "$AKASHA_ROOT")"',
     "",
     `FILES="$AKASHA_ROOT${AT}${files}"`,
     `SCRIPTS="$AKASHA_ROOT${AT}${scriptsUnder(given)}"`,

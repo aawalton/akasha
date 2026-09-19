@@ -41,5 +41,5 @@ test("the body writes one link line for each file this script places", () => {
   const each = bodyIn(ROOT)
     .split("\n")
     .filter((one) => one.trimStart().startsWith(LINK))
-  expect(each).toHaveLength(16)
+  expect(each).toHaveLength(15)
 })

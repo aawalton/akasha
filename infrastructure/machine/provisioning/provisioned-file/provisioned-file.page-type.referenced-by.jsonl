@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/macbook-brewfile/macbook-brewfile.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/podman-slice-share/podman-slice-share.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/profile/profile.provisioned-file.ts"}
-{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/repos-editor-settings/repos-editor-settings.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/seats-slice/seats-slice.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/swap-used-limit/swap-used-limit.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/swapfile-unit/swapfile-unit.provisioned-file.ts"}

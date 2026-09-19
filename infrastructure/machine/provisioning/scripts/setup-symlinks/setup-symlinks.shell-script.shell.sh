@@ -9,7 +9,6 @@ set -euo pipefail
 
 HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$HERE/../repo-roots/repo-roots.shell-script.shell.sh"
-REPOS="$(dirname -- "$AKASHA_ROOT")"
 
 FILES="$AKASHA_ROOT/infrastructure/machine/provisioning/provisioned-file/pages"
 SCRIPTS="$AKASHA_ROOT/infrastructure/machine/provisioning/scripts"
@@ -24,7 +23,6 @@ link "$FILES/tmux-config/tmux-config.provisioned-file.content.conf"       "$HOME
 link "$FILES/git-config/git-config.provisioned-file.content.conf"        "$HOME/.gitconfig"
 link "$FILES/home-search-ignore/home-search-ignore.provisioned-file.content.conf" "$HOME/.ignore"
 link "$FILES/git-global-ignore/git-global-ignore.provisioned-file.content.conf"  "$HOME/.config/git/ignore"
-link "$FILES/repos-editor-settings/repos-editor-settings.provisioned-file.content.json" "$REPOS/.vscode/settings.json"
 
 echo "Setting up the launchers on PATH..."
 link "$SCRIPTS/akasha-launcher/akasha-launcher.shell-script.shell.sh" "$HOME/.local/bin/akasha"

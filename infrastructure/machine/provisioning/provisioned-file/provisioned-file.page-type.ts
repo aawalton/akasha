@@ -20,7 +20,6 @@ export const provisionedFile = {
     "provisioned-file/macbook-brewfile",
     "provisioned-file/podman-slice-share",
     "provisioned-file/profile",
-    "provisioned-file/repos-editor-settings",
     "provisioned-file/seats-slice",
     "provisioned-file/swap-used-limit",
     "provisioned-file/swapfile-unit",
