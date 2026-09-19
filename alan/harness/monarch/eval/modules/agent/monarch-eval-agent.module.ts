@@ -14,10 +14,6 @@ export const monarchEvalAgent = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Uncategorized is not offered.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Every transaction gets a category.",
     },
     {
