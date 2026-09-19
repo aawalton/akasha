@@ -10,26 +10,26 @@ export const ainePatreon = {
     { statement: "Alan has a Patreon page people can back him on." },
     {
       statement:
-        "A patron is a page holding every point transaction and the balance those transactions reach.",
+        "A contributor is a page holding every contribution point transaction and the running balance.",
     },
     { statement: "Every feature request is a page naming the product that request is for." },
     {
       statement:
-        "A pledge Patreon reports lands the patron's page and the points that pledge earns.",
+        "A pledge Patreon reports lands the contributor's page and the contribution points it earns.",
     },
     {
       statement:
         "Every product serves the feature requests for that product at `requests` under its own domain.",
     },
     { statement: "Every feature Alan already means to build is a published feature request." },
-    { statement: "A patron commits points to a published feature request." },
+    { statement: "A contributor commits contribution points to a published feature request." },
     {
       statement:
         "Anyone proposes a feature request, and Alan's review is what publishes that request.",
     },
     {
       statement:
-        "A command completes a feature request, burning its points, or denies it, refunding them.",
+        "A command completes a feature request and burns its contribution points, or denies it and refunds.",
     },
   ],
   constraints: [
