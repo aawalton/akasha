@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
+import { lines } from "akasha/agent/seat/log-day/properties/lines.file-property.ts"
 import { stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { dropped } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import type {
   Carried,
   Facing,
@@ -15,10 +17,12 @@ const BESIDE = "akasha/one.thing.ts"
 
 const APPENDED = "akasha/one.thing.lines.jsonl"
 
-const SAYS: Value = { slug: "lines", propertySlug: "lines", appendOnly: true }
+const SAYS: Value = { slug: lines.slug, propertySlug: lines.propertySlug, appendOnly: true }
+
+const LINES_AT = `${fileProperty.slug}/${lines.slug}` as const
 
 function carryingAt(named: string): Carried {
-  return named === "file-property/lines"
+  return named === LINES_AT
     ? { carrying: [{ pageTypeSlug: "thing", path: BESIDE, id: ONE, within: null }] }
     : { refused: "no page property carries that slug" }
 }

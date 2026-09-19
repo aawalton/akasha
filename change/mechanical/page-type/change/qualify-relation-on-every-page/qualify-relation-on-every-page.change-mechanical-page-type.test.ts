@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { scriptures } from "akasha/alan/library/reading/scripture-collection/pages/scriptures.scripture-collection.ts"
+import { scriptureCollection } from "akasha/alan/library/reading/scripture-collection/scripture-collection.page-type.ts"
 import { qualifyRelationOnEveryPage } from "akasha/change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"
 import {
   BESIDE_ASKED,
@@ -39,6 +41,8 @@ import {
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodiesIn } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
+const SCRIPTURES_AT = `${scriptureCollection.slug}/${scriptures.slug}` as const
+
 test("every page naming a page by a bare name under the key is answered in this one answer", () => {
   const world = worldFor(BODIES, VALUES)
 
@@ -46,7 +50,7 @@ test("every page naming a page by a bare name under the key is answered in this 
 
   expect(said.refused).toBeNull()
   const bodies = bodiesIn(said, world.base)
-  expect(bodies.get(ONE_AT) ?? "").toContain(`"scripture-collection/scriptures"`)
+  expect(bodies.get(ONE_AT) ?? "").toContain(`"${SCRIPTURES_AT}"`)
   expect(bodies.get(TWO_AT) ?? "").toContain(`["collection/songs"]`)
 })
 
@@ -57,7 +61,7 @@ test("the page type written is the one the page reached is of", () => {
 
   expect(said.refused).toBeNull()
   const body = bodiesIn(said, world.base).get(ONE_AT) ?? ""
-  expect(body).toContain(`sectionOf: "scripture-collection/scriptures"`)
+  expect(body).toContain(`sectionOf: "${SCRIPTURES_AT}"`)
 })
 
 test("a name already stating its page type is passed over", () => {
@@ -167,7 +171,7 @@ test("a field named inside a record property is written anew the same way", () =
 
   expect(said.refused).toBeNull()
   const body = bodiesIn(said, world.base).get(HOLDING_AT) ?? ""
-  expect(body).toContain(`{ collection: "scripture-collection/scriptures" }`)
+  expect(body).toContain(`{ collection: "${SCRIPTURES_AT}" }`)
   expect(body).toContain(`{ collection: "collection/songs" }`)
 })
 
@@ -223,9 +227,7 @@ test("a key whose values sit in a file beside the page is written in that file a
 
   expect(said.refused).toBeNull()
   expect([...new Set(pathsIn(said))]).toEqual([ROWS_AT])
-  expect(bodiesIn(said, world.base).get(ROWS_AT) ?? "").toBe(
-    '{"collection":"scripture-collection/scriptures"}\n'
-  )
+  expect(bodiesIn(said, world.base).get(ROWS_AT) ?? "").toBe(`{"collection":"${SCRIPTURES_AT}"}\n`)
 })
 
 test("every part of that file is written", () => {
@@ -238,7 +240,7 @@ test("every part of that file is written", () => {
 
   expect(said.refused).toBeNull()
   const bodies = bodiesIn(said, world.base)
-  expect(bodies.get(ROWS_AT) ?? "").toContain("scripture-collection/scriptures")
+  expect(bodies.get(ROWS_AT) ?? "").toContain(SCRIPTURES_AT)
   expect(bodies.get(PART_TWO_AT) ?? "").toContain("collection/songs")
 })
 
@@ -261,7 +263,7 @@ test("a row whose field holds no text is passed over", () => {
 
   expect(said.refused).toBeNull()
   expect(bodiesIn(said, world.base).get(ROWS_AT) ?? "").toBe(
-    '{"id":"a"}\n{"collection":"scripture-collection/scriptures"}\n'
+    `{"id":"a"}\n{"collection":"${SCRIPTURES_AT}"}\n`
   )
 })
 
@@ -273,7 +275,7 @@ test("a key of the same name inside a value a row states is left as it is", () =
 
   expect(said.refused).toBeNull()
   const body = bodiesIn(said, world.base).get(ROWS_AT) ?? ""
-  expect(body).toContain('{"collection":"scripture-collection/scriptures"}')
+  expect(body).toContain(`{"collection":"${SCRIPTURES_AT}"}`)
   expect(body).toContain('{"collection":{"collection":"scriptures"}}')
 })
 
@@ -284,7 +286,7 @@ test("a row's keys are left as they are", () => {
 
   expect(said.refused).toBeNull()
   expect(bodiesIn(said, world.base).get(ROWS_AT) ?? "").toBe(
-    '{"id":"a","collection":"scripture-collection/scriptures"}\n'
+    `{"id":"a","collection":"${SCRIPTURES_AT}"}\n`
   )
 })
 
@@ -295,7 +297,7 @@ test("a field holding many names has each bare name written anew", () => {
 
   expect(said.refused).toBeNull()
   expect(bodiesIn(said, world.base).get(ROWS_AT) ?? "").toBe(
-    '{"collection":["scripture-collection/scriptures","collection/songs"]}\n'
+    `{"collection":["${SCRIPTURES_AT}","collection/songs"]}\n`
   )
 })
 

@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { imessage as imessageDomain } from "akasha/alan/harness/imessage/imessage.domain.ts"
+import { imessageHost } from "akasha/alan/harness/imessage/modules/host/imessage-host.module.ts"
 import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
 import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
 import { runChange } from "akasha/change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts"
@@ -7,10 +9,12 @@ import { changeMechanicalFileContent } from "akasha/change/mechanical/file-conte
 import { removePropertyValue } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { knownOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { command } from "akasha/command/command.page-type.ts"
 import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
 import { imessageContactList } from "akasha/command/pages/imessage/contact-list/imessage-contact-list.command.ts"
 import { imessage } from "akasha/command/pages/imessage/imessage.namespace.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const COMMAND = "01a07932-2568-72a6-8b8e-314ac44c417b"
@@ -29,6 +33,10 @@ const PAGE_AT = `${command.slug}/${imessageContactList.slug}` as const
 
 const TO_AT = `${namespace.slug}/${imessage.slug}` as const
 
+const DOMAIN_AT = `${domain.slug}/${imessageDomain.slug}` as const
+
+const HOST_AT = `${module.slug}/${imessageHost.slug}` as const
+
 const HELD = "imessage/imessage.workspace-package.ts"
 
 const UNDER = "command-system/namespaces/pages/imessage.namespace.ts"
@@ -42,21 +50,21 @@ const PATHS: Readonly<Record<string, string>> = {
 const LISTED: Readonly<Record<string, string>> = {
   [PAGE_AT]: COMMAND,
   [TO_AT]: NAMESPACE,
-  "domain/imessage": PACKAGE,
+  [DOMAIN_AT]: PACKAGE,
 }
 
 const PARENT: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  parts: ["module/imessage-host", PAGE_AT],
+  parts: [HOST_AT, PAGE_AT],
 }
 
 const BARE: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  parts: ["module/imessage-host"],
+  parts: [HOST_AT],
 }
 
 const EMPTY: Value = {

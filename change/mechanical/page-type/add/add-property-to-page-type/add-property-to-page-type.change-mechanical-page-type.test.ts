@@ -10,7 +10,9 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { parts } from "akasha/domain/properties/parts.relation-property.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
 
 const AT = "thrumming/moots/moot.page-type.ts"
 
@@ -21,6 +23,8 @@ const OUTSIDE_AT = "elsewhere/sung-at.moot-property.ts"
 const PROPERTY = "moot-property/sung-at"
 
 const HELD = "moot-property/weight"
+
+const PARTS_AT = `${relationProperty.slug}/${parts.slug}` as const
 
 const BODY = `export const moot = {
   type: "page-type",
@@ -74,9 +78,7 @@ function worldFor(holding: Holding = {}): World {
   const body = holding.body ?? BODY
   const path = holding.path ?? PROPERTY_AT
   const elsewhere = holding.elsewhere ?? new Map<string, boolean>()
-  const shapes = new Map<string, Shape>([
-    ["relation-property/parts", shaped(holding.sorted === true)],
-  ])
+  const shapes = new Map<string, Shape>([[PARTS_AT, shaped(holding.sorted === true)]])
   return {
     root: "/nowhere",
     index: {

@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
+import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
 import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
   ADDRESSED_CARRIED,
@@ -86,6 +88,8 @@ const CARRIED_REFS = "akasha/carried/carried.module.referenced-by.jsonl"
 const HELD_CARRIED = "akasha/one/held.module.carried.jsonl"
 
 const CARRIED_CARRIED = "akasha/carried/carried.module.carried.jsonl"
+
+const MY_MATH = `${alanBook.slug}/${myMath.slug}` as const
 
 const heldWas = textIn(heldAt)
 
@@ -383,11 +387,11 @@ test("a page whose type scopes nothing is addressed by its page type and its slu
 
 test("a page type scoping its slug names that scope in the address", () => {
   const known = knownOf({ scoping: () => SCOPING })
-  expect(addressOf(known, aPage({ sectionOf: "my-math" }), CARRIED)).toBe(
-    `book-section/my-math/${CARRIED}`
+  expect(addressOf(known, aPage({ sectionOf: myMath.slug }), CARRIED)).toBe(
+    `book-section/${myMath.slug}/${CARRIED}`
   )
-  expect(addressOf(known, aPage({ sectionOf: "alan-book/my-math" }), CARRIED)).toBe(
-    `book-section/my-math/${CARRIED}`
+  expect(addressOf(known, aPage({ sectionOf: MY_MATH }), CARRIED)).toBe(
+    `book-section/${myMath.slug}/${CARRIED}`
   )
   expect(addressOf(known, aPage({}), CARRIED)).toBe(`book-section/${CARRIED}`)
 })
