@@ -49,7 +49,7 @@ export const checkNumeric = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A missing merchant value and a missing replacement cost each count as zero.",
+      statement: "A missing merchant value and a missing replacement value each count as zero.",
     },
   ],
 } as const satisfies Module

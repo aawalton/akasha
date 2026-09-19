@@ -96,7 +96,7 @@ test("a missing merchant value is compared as zero", () => {
   expect(checkNumeric(rule, NO_VALUES, CTX)).toEqual({ kind: "pass" })
 })
 
-test("a missing replacement cost is compared as zero", () => {
+test("a missing replacement value is compared as zero", () => {
   const rule: CompiledOrderedRule = { categoryId: "all", action: "destroy", replacementValue: 0 }
 
   expect(checkNumeric(rule, NO_VALUES, CTX)).toEqual({ kind: "pass" })

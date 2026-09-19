@@ -7,5 +7,5 @@ export const replacementValue = {
   title: "Replacement Value",
   key: "replacementValue",
   description:
-    "An item's replacement cost, read as zero where absent, is compared against the number or named constant stated, under `<=` by default.",
+    "An item's replacement value, read as zero where absent, is compared against the number or named constant stated, under `<=` by default.",
 } as const satisfies TemperConditionField

@@ -7,5 +7,5 @@ export const value = {
   title: "Value",
   key: "value",
   description:
-    "The greatest of an item's estimated value, merchant value and replacement cost is compared against the number or named constant stated, under `<=` by default.",
+    "The greatest of an item's market value, merchant value and replacement value is compared against the number or named constant stated, under `<=` by default.",
 } as const satisfies TemperConditionField

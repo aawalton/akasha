@@ -7,5 +7,5 @@ export const replacementValueOp = {
   title: "Replacement Value Comparison",
   key: "replacementValueOp",
   description:
-    "The operator named here replaces the default `<=` when an item's replacement cost is compared against `replacementValue`.",
+    "The operator named here replaces the default `<=` when an item's replacement value is compared against `replacementValue`.",
 } as const satisfies TemperConditionField
