@@ -6,6 +6,8 @@ import {
   type Routing,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -31,7 +33,7 @@ import {
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
 const ACCESS_KEY = "access-token"
 

@@ -3,6 +3,8 @@ import {
   accountPathIn,
   everyAccountIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -27,7 +29,7 @@ const TYPES = "types"
 
 const TS = "ts"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
 const ACCOUNT_SHAPE = /^[a-z0-9][a-z0-9_-]*$/
 

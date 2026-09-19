@@ -73,6 +73,8 @@ import {
   LEFT_BY,
   refusalsSaid,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -143,7 +145,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
     const at = pathOf(slugOf("akasha", OWN))
     const named: string[] = []
     expect(await took(root, "akasha", OWN, [], landingNaming(named), null, RETURNED)).toEqual(WENT)
-    expect(named).toEqual(["change-mechanical-file/remove-file-page"])
+    expect(named).toEqual([`${changeMechanicalFile.slug}/${removeFilePage.slug}`])
     expect(existsSync(join(root, at))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
     expect(keptBySeat(root)).toEqual(NOTHING_KEPT)
