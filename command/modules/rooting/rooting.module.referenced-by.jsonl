@@ -146,6 +146,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/modules/secret/page-secret.module.test.ts"}

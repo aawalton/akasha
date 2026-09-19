@@ -1,12 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   carrying,
   ledgerAt,
   ledgerIn,
   ledgerRead,
   ledgerWrite,
+  type Ticked,
   ticking,
 } from "akasha/infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"
 
@@ -14,7 +16,7 @@ const HOME = mkdtempSync("/var/tmp/service-watching-")
 
 afterAll(() => rmSync(HOME, { recursive: true, force: true }))
 
-const ROOT = process.cwd()
+const ROOT = rootOf(import.meta.dir)
 
 const OWN_SLUG = "service-watching"
 
@@ -112,24 +114,32 @@ const SEEN: string[] = []
 
 const NAMED: string[] = []
 
-const LIVE = await ticking({
-  root: ROOT,
-  home: LIVE_HOME,
-  now: LIVE_NOW,
-  send: async () => null,
-  keep: (root, health, at, slug) => {
-    NAMED.push(`${root} ${at} ${slug}`)
-    for (const one of health) SEEN.push(one.pagePath)
-    return []
-  },
-})
+let started: Promise<Ticked> | null = null
 
-test("a tick over the services there today writes a ledger and refuses nothing", () => {
-  expect(LIVE.refused).toEqual([])
+function live(): Promise<Ticked> {
+  if (started === null) {
+    started = ticking({
+      root: ROOT,
+      home: LIVE_HOME,
+      now: LIVE_NOW,
+      send: async () => null,
+      keep: (root, health, at, slug) => {
+        NAMED.push(`${root} ${at} ${slug}`)
+        for (const one of health) SEEN.push(one.pagePath)
+        return []
+      },
+    })
+  }
+  return started
+}
+
+test("a tick over the services there today writes a ledger and refuses nothing", async () => {
+  expect((await live()).refused).toEqual([])
   expect(existsSync(ledgerAt(LIVE_HOME))).toBe(true)
 })
 
-test("this run hands the keeper every service, its moment and its own slug", () => {
+test("this run hands the keeper every service, its moment and its own slug", async () => {
+  await live()
   expect(NAMED).toEqual([`${ROOT} ${LIVE_NOW} ${OWN_SLUG}`])
   expect(SEEN.length).toBeGreaterThan(0)
   expect(SEEN.every((one) => one.endsWith(SERVICE_ENDING))).toBe(true)
