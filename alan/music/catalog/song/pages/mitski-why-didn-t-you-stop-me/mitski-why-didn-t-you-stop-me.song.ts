@@ -14,7 +14,6 @@ export const mitskiWhyDidnTYouStopMe = {
   ],
   title: "Why Didn’t You Stop Me?",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

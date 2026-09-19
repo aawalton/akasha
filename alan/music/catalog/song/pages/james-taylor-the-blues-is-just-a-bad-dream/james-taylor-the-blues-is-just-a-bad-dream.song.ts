@@ -14,7 +14,6 @@ export const jamesTaylorTheBluesIsJustABadDream = {
   ],
   title: "The Blues Is Just a Bad Dream",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

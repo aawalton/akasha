@@ -14,7 +14,6 @@ export const jamesTaylorIveGotToStopThinkinBoutThat = {
   ],
   title: "(I’ve Got To) Stop Thinkin’ ’bout That",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

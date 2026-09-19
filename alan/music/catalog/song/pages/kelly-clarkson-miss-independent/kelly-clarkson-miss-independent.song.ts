@@ -14,7 +14,6 @@ export const kellyClarksonMissIndependent = {
   ],
   title: "Miss Independent",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

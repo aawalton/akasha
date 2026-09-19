@@ -14,7 +14,6 @@ export const billieEilishWhenIWasOlder = {
   ],
   title: "WHEN I WAS OLDER",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterIsItNewYearsYet = {
   ],
   title: "is it new years yet?",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

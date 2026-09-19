@@ -15,7 +15,6 @@ export const billieEilishHappierThanEver = {
   ],
   title: "Happier Than Ever",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

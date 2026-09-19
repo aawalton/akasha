@@ -14,7 +14,6 @@ export const billieEilishBillieBossaNova = {
   ],
   title: "Billie Bossa Nova",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

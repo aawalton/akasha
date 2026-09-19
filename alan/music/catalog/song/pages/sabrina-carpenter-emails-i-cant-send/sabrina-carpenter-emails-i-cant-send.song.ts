@@ -14,7 +14,6 @@ export const sabrinaCarpenterEmailsICantSend = {
   ],
   title: "emails i can’t send",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

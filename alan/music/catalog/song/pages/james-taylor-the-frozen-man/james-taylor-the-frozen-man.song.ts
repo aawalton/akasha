@@ -14,7 +14,6 @@ export const jamesTaylorTheFrozenMan = {
   ],
   title: "The Frozen Man",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

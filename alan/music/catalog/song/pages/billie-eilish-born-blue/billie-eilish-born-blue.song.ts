@@ -14,7 +14,6 @@ export const billieEilishBornBlue = {
   ],
   title: "BORN BLUE",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

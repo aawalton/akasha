@@ -14,7 +14,6 @@ export const kellyClarksonCreep = {
   ],
   title: "Creep",
   artist: "artist/kelly-clarkson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

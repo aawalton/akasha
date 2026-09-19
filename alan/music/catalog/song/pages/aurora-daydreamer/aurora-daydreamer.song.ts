@@ -14,7 +14,6 @@ export const auroraDaydreamer = {
   ],
   title: "Daydreamer",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

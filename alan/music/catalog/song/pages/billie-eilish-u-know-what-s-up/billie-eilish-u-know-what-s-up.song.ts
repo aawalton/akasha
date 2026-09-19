@@ -14,7 +14,6 @@ export const billieEilishUKnowWhatSUp = {
   ],
   title: "U Know What’s Up",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

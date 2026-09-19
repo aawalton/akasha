@@ -14,7 +14,6 @@ export const jamesTaylorOneMorningInMay = {
   ],
   title: "One Morning in May",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

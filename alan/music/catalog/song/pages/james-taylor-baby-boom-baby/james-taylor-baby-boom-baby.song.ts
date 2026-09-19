@@ -14,7 +14,6 @@ export const jamesTaylorBabyBoomBaby = {
   ],
   title: "Baby Boom Baby",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

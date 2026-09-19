@@ -14,7 +14,6 @@ export const kellyClarksonPieceByPiece = {
   ],
   title: "Piece by Piece",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const kellyClarksonWhereIsYourHeart = {
   ],
   title: "Where Is Your Heart",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

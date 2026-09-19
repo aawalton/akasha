@@ -14,7 +14,6 @@ export const celticWomanNellaFantasia = {
   ],
   title: "Nella fantasia",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const auroraComeCloser = {
   ],
   title: "COME CLOSER",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

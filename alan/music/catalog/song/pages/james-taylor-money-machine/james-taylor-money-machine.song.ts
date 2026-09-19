@@ -14,7 +14,6 @@ export const jamesTaylorMoneyMachine = {
   ],
   title: "Money Machine",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

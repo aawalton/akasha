@@ -14,7 +14,6 @@ export const mitskiBagOfBones = {
   ],
   title: "Bag of Bones",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

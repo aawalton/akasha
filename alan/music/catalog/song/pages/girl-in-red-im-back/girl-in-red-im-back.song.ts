@@ -14,7 +14,6 @@ export const girlInRedImBack = {
   ],
   title: "I’m Back",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

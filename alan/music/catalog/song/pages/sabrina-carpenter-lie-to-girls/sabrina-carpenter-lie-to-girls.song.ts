@@ -14,7 +14,6 @@ export const sabrinaCarpenterLieToGirls = {
   ],
   title: "Lie to Girls",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const arianaGrandeNowhereNobody = {
   ],
   title: "nowhere, nobody",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

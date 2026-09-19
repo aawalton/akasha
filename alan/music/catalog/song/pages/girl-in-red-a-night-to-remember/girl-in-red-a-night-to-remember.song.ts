@@ -14,7 +14,6 @@ export const girlInRedANightToRemember = {
   ],
   title: "A Night to Remember",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const kellyClarksonIfNoOneWillListen = {
   ],
   title: "If No One Will Listen",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

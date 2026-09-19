@@ -14,7 +14,6 @@ export const sabrinaCarpenterNeverGettingLaid = {
   ],
   title: "Never Getting Laid",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

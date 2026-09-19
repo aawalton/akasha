@@ -14,7 +14,6 @@ export const auroraItHappenedQuiet = {
   ],
   title: "It Happened Quiet",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

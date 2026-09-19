@@ -14,7 +14,6 @@ export const sabrinaCarpenterSuchAFunnyWay = {
   ],
   title: "Such a Funny Way",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

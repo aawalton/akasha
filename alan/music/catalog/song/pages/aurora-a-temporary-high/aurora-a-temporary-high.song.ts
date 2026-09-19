@@ -14,7 +14,6 @@ export const auroraATemporaryHigh = {
   ],
   title: "A Temporary High",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

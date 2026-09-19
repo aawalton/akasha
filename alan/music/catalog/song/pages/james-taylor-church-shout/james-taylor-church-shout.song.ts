@@ -14,7 +14,6 @@ export const jamesTaylorChurchShout = {
   ],
   title: "Church Shout",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "solo",
 } as const satisfies Song

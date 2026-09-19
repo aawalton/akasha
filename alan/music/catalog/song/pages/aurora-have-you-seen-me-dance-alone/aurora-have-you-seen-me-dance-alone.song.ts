@@ -14,7 +14,6 @@ export const auroraHaveYouSeenMeDanceAlone = {
   ],
   title: "HAVE YOU SEEN ME DANCE ALONE",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

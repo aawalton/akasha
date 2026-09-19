@@ -14,7 +14,6 @@ export const jamesTaylorOnlyADreamInRio = {
   ],
   title: "Only a Dream in Rio",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

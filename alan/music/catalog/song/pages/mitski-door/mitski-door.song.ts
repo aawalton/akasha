@@ -14,7 +14,6 @@ export const mitskiDoor = {
   ],
   title: "Door",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

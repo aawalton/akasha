@@ -14,7 +14,6 @@ export const auroraHunger = {
   ],
   title: "Hunger",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

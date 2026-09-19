@@ -14,7 +14,6 @@ export const jamesTaylorDontLetMeBeLonelyTonight = {
   ],
   title: "Don’t Let Me Be Lonely Tonight",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

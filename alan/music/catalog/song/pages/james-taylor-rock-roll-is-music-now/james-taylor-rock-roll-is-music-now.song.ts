@@ -14,7 +14,6 @@ export const jamesTaylorRockRollIsMusicNow = {
   ],
   title: "Rock & Roll Is Music Now",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

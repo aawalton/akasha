@@ -16,7 +16,6 @@ export const billieEilishBirdsOfAFeather = {
   ],
   title: "BIRDS OF A FEATHER",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

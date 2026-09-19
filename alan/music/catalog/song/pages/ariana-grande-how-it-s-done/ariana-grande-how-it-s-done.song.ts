@@ -14,7 +14,6 @@ export const arianaGrandeHowItSDone = {
   ],
   title: "How It’s Done",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

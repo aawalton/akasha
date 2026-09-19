@@ -14,7 +14,6 @@ export const arianaGrandeObvious = {
   ],
   title: "obvious",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

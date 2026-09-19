@@ -14,7 +14,6 @@ export const jamesTaylorNothinLikeAHundredMiles = {
   ],
   title: "Nothin’ Like a Hundred Miles",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

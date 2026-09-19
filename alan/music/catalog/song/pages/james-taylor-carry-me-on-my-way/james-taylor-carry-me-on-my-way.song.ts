@@ -14,7 +14,6 @@ export const jamesTaylorCarryMeOnMyWay = {
   ],
   title: "Carry Me on My Way",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

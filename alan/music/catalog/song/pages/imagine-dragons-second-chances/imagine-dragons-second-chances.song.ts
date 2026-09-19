@@ -14,7 +14,6 @@ export const imagineDragonsSecondChances = {
   ],
   title: "Second Chances",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

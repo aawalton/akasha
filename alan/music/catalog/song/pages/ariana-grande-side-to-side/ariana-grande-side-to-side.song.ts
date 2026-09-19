@@ -14,7 +14,6 @@ export const arianaGrandeSideToSide = {
   ],
   title: "Side to Side",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

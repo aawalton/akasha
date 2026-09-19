@@ -14,7 +14,6 @@ export const sabrinaCarpenterSugarTalking = {
   ],
   title: "Sugar Talking",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

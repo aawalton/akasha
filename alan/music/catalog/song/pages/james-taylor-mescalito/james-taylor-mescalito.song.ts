@@ -14,7 +14,6 @@ export const jamesTaylorMescalito = {
   ],
   title: "Mescalito",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

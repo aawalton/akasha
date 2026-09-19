@@ -14,7 +14,6 @@ export const imagineDragonsRelease = {
   ],
   title: "Release",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

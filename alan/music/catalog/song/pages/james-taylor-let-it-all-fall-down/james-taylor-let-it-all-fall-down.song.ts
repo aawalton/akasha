@@ -14,7 +14,6 @@ export const jamesTaylorLetItAllFallDown = {
   ],
   title: "Let It All Fall Down",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

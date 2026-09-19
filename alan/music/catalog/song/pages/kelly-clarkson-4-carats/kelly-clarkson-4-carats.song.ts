@@ -14,7 +14,6 @@ export const kellyClarkson4Carats = {
   ],
   title: "4 Carats",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

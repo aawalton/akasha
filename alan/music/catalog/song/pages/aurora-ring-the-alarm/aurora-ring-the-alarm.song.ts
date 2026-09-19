@@ -14,7 +14,6 @@ export const auroraRingTheAlarm = {
   ],
   title: "RING THE ALARM",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

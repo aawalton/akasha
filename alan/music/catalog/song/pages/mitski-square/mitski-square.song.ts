@@ -14,7 +14,6 @@ export const mitskiSquare = {
   ],
   title: "Square",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const mitskiCharonSObol = {
   ],
   title: "Charon’s Obol",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

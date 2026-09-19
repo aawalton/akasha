@@ -14,7 +14,6 @@ export const mitskiIDonTSmoke = {
   ],
   title: "I Don’t Smoke",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

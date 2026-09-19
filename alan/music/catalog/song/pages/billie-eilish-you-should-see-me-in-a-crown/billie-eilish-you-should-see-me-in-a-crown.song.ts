@@ -14,7 +14,6 @@ export const billieEilishYouShouldSeeMeInACrown = {
   ],
   title: "you should see me in a crown",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

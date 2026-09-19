@@ -14,7 +14,6 @@ export const celticWomanSiuilARunWalkMyLove = {
   ],
   title: "Siúil A Run (Walk My Love)",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

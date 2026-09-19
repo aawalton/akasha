@@ -14,7 +14,6 @@ export const jamesTaylorRunawayBoy = {
   ],
   title: "Runaway Boy",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

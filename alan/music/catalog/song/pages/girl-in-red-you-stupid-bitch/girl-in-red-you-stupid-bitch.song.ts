@@ -14,7 +14,6 @@ export const girlInRedYouStupidBitch = {
   ],
   title: "You Stupid Bitch",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

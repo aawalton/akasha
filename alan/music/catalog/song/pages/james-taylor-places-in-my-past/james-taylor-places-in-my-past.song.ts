@@ -14,7 +14,6 @@ export const jamesTaylorPlacesInMyPast = {
   ],
   title: "Places in My Past",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

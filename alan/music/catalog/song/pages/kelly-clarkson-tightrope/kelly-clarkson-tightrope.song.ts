@@ -14,7 +14,6 @@ export const kellyClarksonTightrope = {
   ],
   title: "Tightrope",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

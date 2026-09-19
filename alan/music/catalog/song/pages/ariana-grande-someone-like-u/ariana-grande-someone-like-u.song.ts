@@ -14,7 +14,6 @@ export const arianaGrandeSomeoneLikeU = {
   ],
   title: "someone like u",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const girlInRedSummerDepression = {
   ],
   title: "summer depression",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

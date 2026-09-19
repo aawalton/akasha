@@ -14,7 +14,6 @@ export const auroraTheSeed = {
   ],
   title: "The Seed",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

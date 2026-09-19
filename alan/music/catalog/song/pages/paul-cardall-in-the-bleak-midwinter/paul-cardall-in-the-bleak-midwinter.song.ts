@@ -14,7 +14,6 @@ export const paulCardallInTheBleakMidwinter = {
   ],
   title: "In the Bleak Midwinter",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

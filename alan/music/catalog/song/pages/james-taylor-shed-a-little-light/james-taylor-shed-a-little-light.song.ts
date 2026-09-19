@@ -14,7 +14,6 @@ export const jamesTaylorShedALittleLight = {
   ],
   title: "Shed a Little Light",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

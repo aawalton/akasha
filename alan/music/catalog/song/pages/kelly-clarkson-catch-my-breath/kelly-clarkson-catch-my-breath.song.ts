@@ -14,7 +14,6 @@ export const kellyClarksonCatchMyBreath = {
   ],
   title: "Catch My Breath",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

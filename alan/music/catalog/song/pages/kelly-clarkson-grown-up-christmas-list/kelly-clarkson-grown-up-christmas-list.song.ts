@@ -14,7 +14,6 @@ export const kellyClarksonGrownUpChristmasList = {
   ],
   title: "Grown Up Christmas List",
   artist: "artist/kelly-clarkson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorOnlyForMe = {
   ],
   title: "Only for Me",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

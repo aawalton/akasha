@@ -14,7 +14,6 @@ export const jamesTaylorCaptainJimsDrunkenDream = {
   ],
   title: "Captain Jim’s Drunken Dream",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

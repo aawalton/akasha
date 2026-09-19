@@ -14,7 +14,6 @@ export const auroraRunningWithTheWolves = {
   ],
   title: "Running with the Wolves",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

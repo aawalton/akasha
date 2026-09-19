@@ -14,7 +14,6 @@ export const auroraTheRiver = {
   ],
   title: "The River",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

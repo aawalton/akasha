@@ -14,7 +14,6 @@ export const sabrinaCarpenterDecode = {
   ],
   title: "decode",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

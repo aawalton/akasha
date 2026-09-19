@@ -14,7 +14,6 @@ export const mitskiBecauseDreamingCostsMoneyMyDear = {
   ],
   title: "Because Dreaming Costs Money, My Dear",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

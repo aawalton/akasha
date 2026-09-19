@@ -14,7 +14,6 @@ export const sabrinaCarpenterDontWantItBack = {
   ],
   title: "Don’t Want It Back",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

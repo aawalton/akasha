@@ -14,7 +14,6 @@ export const auroraPlease = {
   ],
   title: "PLEASE",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

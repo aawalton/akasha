@@ -14,7 +14,6 @@ export const jamesTaylorBabyBuffalo = {
   ],
   title: "Baby Buffalo",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

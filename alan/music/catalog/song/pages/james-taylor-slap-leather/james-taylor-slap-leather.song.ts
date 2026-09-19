@@ -14,7 +14,6 @@ export const jamesTaylorSlapLeather = {
   ],
   title: "Slap Leather",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

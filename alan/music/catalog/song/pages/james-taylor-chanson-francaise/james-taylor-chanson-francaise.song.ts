@@ -14,7 +14,6 @@ export const jamesTaylorChansonFrancaise = {
   ],
   title: "Chanson Française",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const siaAllTheDjSLoveYouInNewYork = {
   ],
   title: "All the DJ’s Love You In New York",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

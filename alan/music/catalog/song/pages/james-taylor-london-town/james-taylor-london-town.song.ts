@@ -14,7 +14,6 @@ export const jamesTaylorLondonTown = {
   ],
   title: "London Town",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

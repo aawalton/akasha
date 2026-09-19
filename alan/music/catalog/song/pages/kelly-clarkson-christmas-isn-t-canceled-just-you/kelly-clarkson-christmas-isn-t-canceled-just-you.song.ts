@@ -14,7 +14,6 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   ],
   title: "Christmas Isn’t Canceled (Just You)",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterPushing20 = {
   ],
   title: "Pushing 20",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

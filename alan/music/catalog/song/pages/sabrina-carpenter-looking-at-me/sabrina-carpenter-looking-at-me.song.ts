@@ -14,7 +14,6 @@ export const sabrinaCarpenterLookingAtMe = {
   ],
   title: "Looking at Me",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

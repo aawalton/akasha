@@ -14,7 +14,6 @@ export const kellyClarksonMine = {
   ],
   title: "mine",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

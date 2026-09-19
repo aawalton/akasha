@@ -14,7 +14,6 @@ export const mitskiThursdayGirl = {
   ],
   title: "Thursday Girl",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

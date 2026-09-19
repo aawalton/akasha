@@ -14,7 +14,6 @@ export const auroraSomewhereElse = {
   ],
   title: "SOMEWHERE ELSE",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

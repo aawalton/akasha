@@ -14,7 +14,6 @@ export const girlInRedBodyAndMind = {
   ],
   title: "Body and Mind",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

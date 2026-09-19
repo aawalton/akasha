@@ -14,7 +14,6 @@ export const mitskiCircle = {
   ],
   title: "Circle",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

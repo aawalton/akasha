@@ -14,7 +14,6 @@ export const billieEilishMyFuture = {
   ],
   title: "my future",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

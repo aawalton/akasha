@@ -14,7 +14,6 @@ export const sabrinaCarpenterICantStopMe = {
   ],
   title: "I Can’t Stop Me",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const mitskiLoveMeMore = {
   ],
   title: "Love Me More",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const auroraInfectionsOfADifferentKind = {
   ],
   title: "Infections of a Different Kind",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

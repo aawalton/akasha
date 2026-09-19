@@ -14,7 +14,6 @@ export const jamesTaylorYourSmilingFace = {
   ],
   title: "Your Smiling Face",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

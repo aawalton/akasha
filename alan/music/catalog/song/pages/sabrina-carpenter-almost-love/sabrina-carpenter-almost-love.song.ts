@@ -14,7 +14,6 @@ export const sabrinaCarpenterAlmostLove = {
   ],
   title: "Almost Love",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

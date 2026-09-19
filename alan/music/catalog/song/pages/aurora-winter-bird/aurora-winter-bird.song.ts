@@ -14,7 +14,6 @@ export const auroraWinterBird = {
   ],
   title: "Winter Bird",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

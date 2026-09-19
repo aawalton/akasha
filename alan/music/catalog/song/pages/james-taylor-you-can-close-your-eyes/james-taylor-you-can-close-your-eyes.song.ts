@@ -14,7 +14,6 @@ export const jamesTaylorYouCanCloseYourEyes = {
   ],
   title: "You Can Close Your Eyes",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

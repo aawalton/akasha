@@ -14,7 +14,6 @@ export const jamesTaylorLetterInTheMail = {
   ],
   title: "Letter in the Mail",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

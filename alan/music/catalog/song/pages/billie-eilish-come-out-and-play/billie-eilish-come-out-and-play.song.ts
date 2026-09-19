@@ -14,7 +14,6 @@ export const billieEilishComeOutAndPlay = {
   ],
   title: "come out and play",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

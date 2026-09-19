@@ -14,7 +14,6 @@ export const mitskiStrawberryBlond = {
   ],
   title: "Strawberry Blond",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

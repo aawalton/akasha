@@ -14,7 +14,6 @@ export const jamesTaylorSolecasMiaVoj = {
   ],
   title: "Solecas mia voj'",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

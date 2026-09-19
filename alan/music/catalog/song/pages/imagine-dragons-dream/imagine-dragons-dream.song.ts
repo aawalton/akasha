@@ -14,7 +14,6 @@ export const imagineDragonsDream = {
   ],
   title: "Dream",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

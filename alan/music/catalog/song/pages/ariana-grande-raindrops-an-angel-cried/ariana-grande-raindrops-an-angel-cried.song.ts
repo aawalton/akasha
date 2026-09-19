@@ -14,7 +14,6 @@ export const arianaGrandeRaindropsAnAngelCried = {
   ],
   title: "raindrops (an angel cried)",
   artist: "artist/ariana-grande",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

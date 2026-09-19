@@ -14,7 +14,6 @@ export const sabrinaCarpenterRunAndHide = {
   ],
   title: "Run and Hide",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

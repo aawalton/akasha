@@ -14,7 +14,6 @@ export const arianaGrandeYouDonTKnowMe = {
   ],
   title: "You Don't Know Me",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

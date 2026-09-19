@@ -14,7 +14,6 @@ export const girlInRedUglySide = {
   ],
   title: "Ugly Side",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

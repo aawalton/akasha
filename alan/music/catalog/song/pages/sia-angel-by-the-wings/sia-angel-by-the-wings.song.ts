@@ -14,7 +14,6 @@ export const siaAngelByTheWings = {
   ],
   title: "Angel by the Wings",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

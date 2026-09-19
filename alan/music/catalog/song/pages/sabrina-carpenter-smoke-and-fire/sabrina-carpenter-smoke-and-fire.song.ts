@@ -14,7 +14,6 @@ export const sabrinaCarpenterSmokeAndFire = {
   ],
   title: "Smoke and Fire",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

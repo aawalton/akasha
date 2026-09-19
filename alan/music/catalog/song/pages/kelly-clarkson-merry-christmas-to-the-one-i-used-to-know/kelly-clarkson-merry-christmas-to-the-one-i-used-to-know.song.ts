@@ -14,7 +14,6 @@ export const kellyClarksonMerryChristmasToTheOneIUsedToKnow = {
   ],
   title: "Merry Christmas (to the One I Used to Know)",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

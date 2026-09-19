@@ -16,7 +16,6 @@ export const auroraALittlePlaceCalledTheMoon = {
   ],
   title: "A Little Place Called the Moon",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const jamesTaylorTrafficJam = {
   ],
   title: "Traffic Jam",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

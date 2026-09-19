@@ -14,7 +14,6 @@ export const billieEilish61818 = {
   ],
   title: "6.18.18",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

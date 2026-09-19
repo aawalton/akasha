@@ -14,7 +14,6 @@ export const auroraMurderSong54321 = {
   ],
   title: "Murder Song (5, 4, 3, 2, 1)",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

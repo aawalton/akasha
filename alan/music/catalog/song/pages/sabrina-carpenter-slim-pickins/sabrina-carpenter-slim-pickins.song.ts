@@ -14,7 +14,6 @@ export const sabrinaCarpenterSlimPickins = {
   ],
   title: "Slim Pickins",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

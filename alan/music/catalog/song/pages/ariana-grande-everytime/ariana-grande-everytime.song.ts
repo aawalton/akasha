@@ -14,7 +14,6 @@ export const arianaGrandeEverytime = {
   ],
   title: "everytime",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

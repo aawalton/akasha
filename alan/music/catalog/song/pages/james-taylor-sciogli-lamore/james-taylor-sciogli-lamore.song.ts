@@ -14,7 +14,6 @@ export const jamesTaylorSciogliLamore = {
   ],
   title: "Sciogli l’amore",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

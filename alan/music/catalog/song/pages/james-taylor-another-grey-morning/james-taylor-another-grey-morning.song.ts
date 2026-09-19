@@ -14,7 +14,6 @@ export const jamesTaylorAnotherGreyMorning = {
   ],
   title: "Another Grey Morning",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

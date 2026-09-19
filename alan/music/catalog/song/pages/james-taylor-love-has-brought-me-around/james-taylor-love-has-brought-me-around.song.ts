@@ -14,7 +14,6 @@ export const jamesTaylorLoveHasBroughtMeAround = {
   ],
   title: "Love Has Brought Me Around",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

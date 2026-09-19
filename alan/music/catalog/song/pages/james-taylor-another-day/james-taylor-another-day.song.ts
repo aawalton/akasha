@@ -14,7 +14,6 @@ export const jamesTaylorAnotherDay = {
   ],
   title: "Another Day",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

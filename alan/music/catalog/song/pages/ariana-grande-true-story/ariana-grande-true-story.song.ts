@@ -14,7 +14,6 @@ export const arianaGrandeTrueStory = {
   ],
   title: "true story",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

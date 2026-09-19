@@ -14,7 +14,6 @@ export const arianaGrandeIDonTDoDrugs = {
   ],
   title: "I Don’t Do Drugs",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const kellyClarksonMaybe = {
   ],
   title: "Maybe",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

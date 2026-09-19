@@ -14,7 +14,6 @@ export const sabrinaCarpenterTakeYouBack = {
   ],
   title: "Take You Back",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

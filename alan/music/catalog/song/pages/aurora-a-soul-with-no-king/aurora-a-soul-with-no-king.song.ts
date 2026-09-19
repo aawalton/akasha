@@ -14,7 +14,6 @@ export const auroraASoulWithNoKing = {
   ],
   title: "A Soul With No King",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

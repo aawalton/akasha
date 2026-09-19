@@ -14,7 +14,6 @@ export const auroraABoyLikeYou = {
   ],
   title: "A BOY LIKE YOU",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

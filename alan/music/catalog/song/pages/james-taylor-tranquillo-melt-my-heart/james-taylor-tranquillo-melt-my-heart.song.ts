@@ -14,7 +14,6 @@ export const jamesTaylorTranquilloMeltMyHeart = {
   ],
   title: "Tranquillo (Melt My Heart)",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

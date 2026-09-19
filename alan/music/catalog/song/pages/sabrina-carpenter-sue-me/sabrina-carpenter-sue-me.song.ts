@@ -14,7 +14,6 @@ export const sabrinaCarpenterSueMe = {
   ],
   title: "Sue Me",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const jamesTaylorIsThatTheWayYouLook = {
   ],
   title: "Is That the Way You Look?",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

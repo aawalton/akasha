@@ -14,7 +14,6 @@ export const jamesTaylorAnywhereLikeHeaven = {
   ],
   title: "Anywhere Like Heaven",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

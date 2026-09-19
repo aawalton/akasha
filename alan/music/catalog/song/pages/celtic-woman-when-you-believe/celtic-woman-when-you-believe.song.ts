@@ -14,7 +14,6 @@ export const celticWomanWhenYouBelieve = {
   ],
   title: "When You Believe",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

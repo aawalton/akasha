@@ -15,7 +15,6 @@ export const mitskiTwoSlowDancers = {
   ],
   title: "Two Slow Dancers",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

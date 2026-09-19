@@ -14,7 +14,6 @@ export const arianaGrandeNoTearsLeftToCry = {
   ],
   title: "no tears left to cry",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

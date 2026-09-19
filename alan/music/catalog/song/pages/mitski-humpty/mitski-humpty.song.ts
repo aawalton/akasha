@@ -14,7 +14,6 @@ export const mitskiHumpty = {
   ],
   title: "Humpty",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

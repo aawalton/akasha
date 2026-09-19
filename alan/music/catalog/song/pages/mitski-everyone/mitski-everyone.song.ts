@@ -14,7 +14,6 @@ export const mitskiEveryone = {
   ],
   title: "Everyone",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

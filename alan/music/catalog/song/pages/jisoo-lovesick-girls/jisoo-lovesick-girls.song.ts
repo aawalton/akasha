@@ -14,7 +14,6 @@ export const jisooLovesickGirls = {
   ],
   title: "Lovesick Girls",
   artist: "artist/jisoo",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

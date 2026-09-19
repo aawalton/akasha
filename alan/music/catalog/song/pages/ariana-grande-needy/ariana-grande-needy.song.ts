@@ -14,7 +14,6 @@ export const arianaGrandeNeedy = {
   ],
   title: "needy",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

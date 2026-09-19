@@ -14,7 +14,6 @@ export const billieEilishFingersCrossed = {
   ],
   title: "Fingers Crossed",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

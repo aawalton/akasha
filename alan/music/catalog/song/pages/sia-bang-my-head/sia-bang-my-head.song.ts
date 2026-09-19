@@ -14,7 +14,6 @@ export const siaBangMyHead = {
   ],
   title: "Bang My Head",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

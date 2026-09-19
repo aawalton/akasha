@@ -14,7 +14,6 @@ export const jamesTaylorShowerThePeople = {
   ],
   title: "Shower the People",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

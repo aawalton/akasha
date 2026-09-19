@@ -14,7 +14,6 @@ export const kellyClarksonUnderTheMistletoe = {
   ],
   title: "Under the Mistletoe",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

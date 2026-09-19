@@ -14,7 +14,6 @@ export const auroraIDrinkTheLight = {
   ],
   title: "I DRINK THE LIGHT",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

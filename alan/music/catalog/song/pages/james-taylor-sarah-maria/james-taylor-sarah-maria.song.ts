@@ -14,7 +14,6 @@ export const jamesTaylorSarahMaria = {
   ],
   title: "Sarah Maria",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

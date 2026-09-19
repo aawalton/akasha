@@ -14,7 +14,6 @@ export const girlInRedTwoQueensInAKingSizedBed = {
   ],
   title: "two queens in a king sized bed",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

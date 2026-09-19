@@ -14,7 +14,6 @@ export const kellyClarksonSleighRide = {
   ],
   title: "Sleigh Ride",
   artist: "artist/kelly-clarkson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

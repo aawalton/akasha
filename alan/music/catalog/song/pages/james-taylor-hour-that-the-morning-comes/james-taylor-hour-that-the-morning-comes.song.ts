@@ -14,7 +14,6 @@ export const jamesTaylorHourThatTheMorningComes = {
   ],
   title: "Hour That the Morning Comes",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

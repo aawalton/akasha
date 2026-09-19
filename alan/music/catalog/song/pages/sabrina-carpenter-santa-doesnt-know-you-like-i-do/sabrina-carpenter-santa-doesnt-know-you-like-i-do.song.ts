@@ -14,7 +14,6 @@ export const sabrinaCarpenterSantaDoesntKnowYouLikeIDo = {
   ],
   title: "santa doesn’t know you like i do",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

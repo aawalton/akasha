@@ -14,7 +14,6 @@ export const jamesTaylorAJunkiesLament = {
   ],
   title: "A Junkie’s Lament",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

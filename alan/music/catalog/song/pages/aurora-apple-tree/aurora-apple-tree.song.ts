@@ -14,7 +14,6 @@ export const auroraAppleTree = {
   ],
   title: "Apple Tree",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

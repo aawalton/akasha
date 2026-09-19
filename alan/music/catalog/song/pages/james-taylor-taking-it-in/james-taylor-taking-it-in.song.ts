@@ -14,7 +14,6 @@ export const jamesTaylorTakingItIn = {
   ],
   title: "Taking It In",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

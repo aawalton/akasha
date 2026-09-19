@@ -14,7 +14,6 @@ export const arianaGrandeRainOnMe = {
   ],
   title: "Rain on Me",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

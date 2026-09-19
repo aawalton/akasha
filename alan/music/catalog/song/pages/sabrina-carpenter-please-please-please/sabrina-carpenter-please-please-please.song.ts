@@ -14,7 +14,6 @@ export const sabrinaCarpenterPleasePleasePlease = {
   ],
   title: "Please Please Please",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

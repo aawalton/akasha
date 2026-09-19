@@ -14,7 +14,6 @@ export const jamesTaylorSweetBabyJames = {
   ],
   title: "Sweet Baby James",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

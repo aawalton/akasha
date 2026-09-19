@@ -14,7 +14,6 @@ export const girlInRedDidYouCome = {
   ],
   title: "Did You Come?",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

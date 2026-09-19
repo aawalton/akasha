@@ -14,7 +14,6 @@ export const lilithMaxDarkErlKing = {
       lastSyncedAt: "2026-06-08",
     },
   ],
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

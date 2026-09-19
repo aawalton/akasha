@@ -14,7 +14,6 @@ export const siaBattleCry = {
   ],
   title: "Battle Cry",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

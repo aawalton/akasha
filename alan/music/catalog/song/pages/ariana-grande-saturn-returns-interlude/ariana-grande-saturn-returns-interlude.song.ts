@@ -14,7 +14,6 @@ export const arianaGrandeSaturnReturnsInterlude = {
   ],
   title: "Saturn Returns Interlude",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

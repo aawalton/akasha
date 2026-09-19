@@ -14,7 +14,6 @@ export const arianaGrandeKnewBetterForeverBoy = {
   ],
   title: "Knew Better / Forever Boy",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

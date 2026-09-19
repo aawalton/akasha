@@ -14,7 +14,6 @@ export const mitskiLastWordsOfAShootingStar = {
   ],
   title: "Last Words of a Shooting Star",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

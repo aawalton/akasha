@@ -14,7 +14,6 @@ export const jamesTaylorGoldenMoments = {
   ],
   title: "Golden Moments",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

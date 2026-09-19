@@ -14,7 +14,6 @@ export const imagineDragonsGold = {
   ],
   title: "Gold",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

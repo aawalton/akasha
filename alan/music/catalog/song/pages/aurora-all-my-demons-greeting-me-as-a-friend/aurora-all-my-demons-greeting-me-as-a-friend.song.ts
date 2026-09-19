@@ -14,7 +14,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriend = {
   ],
   title: "All My Demons Greeting Me as a Friend",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const jamesTaylorSleepComeFreeMe = {
   ],
   title: "Sleep Come Free Me",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

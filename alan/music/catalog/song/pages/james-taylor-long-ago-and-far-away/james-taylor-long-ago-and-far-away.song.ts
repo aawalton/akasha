@@ -14,7 +14,6 @@ export const jamesTaylorLongAgoAndFarAway = {
   ],
   title: "Long Ago and Far Away",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

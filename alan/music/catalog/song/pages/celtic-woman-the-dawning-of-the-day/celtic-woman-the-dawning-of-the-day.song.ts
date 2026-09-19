@@ -14,7 +14,6 @@ export const celticWomanTheDawningOfTheDay = {
   ],
   title: "The Dawning of the Day",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

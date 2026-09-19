@@ -14,7 +14,6 @@ export const jamesTaylorLetMeRide = {
   ],
   title: "Let Me Ride",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

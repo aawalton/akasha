@@ -14,7 +14,6 @@ export const mitskiHappy = {
   ],
   title: "Happy",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

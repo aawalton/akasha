@@ -14,7 +14,6 @@ export const jessicaBaioBadTimes = {
       lastSyncedAt: "2026-06-08",
     },
   ],
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

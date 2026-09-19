@@ -14,7 +14,6 @@ export const kellyClarksonCry = {
   ],
   title: "Cry",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

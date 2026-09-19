@@ -14,7 +14,6 @@ export const mitskiThatSOurLamp = {
   ],
   title: "That’s Our Lamp",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

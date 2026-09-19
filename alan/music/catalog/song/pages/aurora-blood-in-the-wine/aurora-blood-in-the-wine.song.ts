@@ -14,7 +14,6 @@ export const auroraBloodInTheWine = {
   ],
   title: "Blood in the Wine",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

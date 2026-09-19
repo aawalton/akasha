@@ -14,7 +14,6 @@ export const arianaGrandeMyHair = {
   ],
   title: "my hair",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

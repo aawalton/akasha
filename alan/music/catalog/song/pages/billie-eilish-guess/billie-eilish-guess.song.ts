@@ -14,7 +14,6 @@ export const billieEilishGuess = {
   ],
   title: "Guess",
   artist: "artist/billie-eilish",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

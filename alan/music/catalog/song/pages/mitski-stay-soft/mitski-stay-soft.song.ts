@@ -14,7 +14,6 @@ export const mitskiStaySoft = {
   ],
   title: "Stay Soft",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

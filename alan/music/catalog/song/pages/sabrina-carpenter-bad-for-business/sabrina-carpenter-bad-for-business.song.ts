@@ -14,7 +14,6 @@ export const sabrinaCarpenterBadForBusiness = {
   ],
   title: "Bad for Business",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const mitskiILlChangeForYou = {
   ],
   title: "I’ll Change for You",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

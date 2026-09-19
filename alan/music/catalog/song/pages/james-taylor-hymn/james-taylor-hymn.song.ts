@@ -14,7 +14,6 @@ export const jamesTaylorHymn = {
   ],
   title: "Hymn",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

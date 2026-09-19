@@ -14,7 +14,6 @@ export const billieEilishTheDiner = {
   ],
   title: "THE DINER",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

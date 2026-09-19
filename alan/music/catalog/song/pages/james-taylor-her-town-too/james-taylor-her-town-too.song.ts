@@ -14,7 +14,6 @@ export const jamesTaylorHerTownToo = {
   ],
   title: "Her Town Too",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

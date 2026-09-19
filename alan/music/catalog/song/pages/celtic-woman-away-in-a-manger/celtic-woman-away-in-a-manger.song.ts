@@ -15,7 +15,6 @@ export const celticWomanAwayInAManger = {
   ],
   title: "Away in a Manger",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const girlInRedRue = {
   ],
   title: "rue",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const girlInRedNewLove = {
   ],
   title: "New Love",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

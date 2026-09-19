@@ -15,7 +15,6 @@ export const auroraADangerousThing = {
   ],
   title: "A Dangerous Thing",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

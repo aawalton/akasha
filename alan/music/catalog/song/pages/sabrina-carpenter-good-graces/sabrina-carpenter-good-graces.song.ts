@@ -14,7 +14,6 @@ export const sabrinaCarpenterGoodGraces = {
   ],
   title: "Good Graces",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

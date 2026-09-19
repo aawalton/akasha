@@ -14,7 +14,6 @@ export const arianaGrandeTattooedHeart = {
   ],
   title: "Tattooed Heart",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

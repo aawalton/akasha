@@ -14,7 +14,6 @@ export const auroraThisCouldBeADream = {
   ],
   title: "This Could Be a Dream",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

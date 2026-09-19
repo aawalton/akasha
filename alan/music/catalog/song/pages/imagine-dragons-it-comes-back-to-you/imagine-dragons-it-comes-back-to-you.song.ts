@@ -14,7 +14,6 @@ export const imagineDragonsItComesBackToYou = {
   ],
   title: "It Comes Back to You",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

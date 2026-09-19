@@ -14,7 +14,6 @@ export const arianaGrandeSympathyIsAKnife = {
   ],
   title: "Sympathy is a knife",
   artist: "artist/ariana-grande",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

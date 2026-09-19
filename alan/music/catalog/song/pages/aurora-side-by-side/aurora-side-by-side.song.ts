@@ -14,7 +14,6 @@ export const auroraSideBySide = {
   ],
   title: "SIDE BY SIDE",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

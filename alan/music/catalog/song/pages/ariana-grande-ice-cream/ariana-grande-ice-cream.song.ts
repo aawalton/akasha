@@ -14,7 +14,6 @@ export const arianaGrandeIceCream = {
   ],
   title: "Ice Cream",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

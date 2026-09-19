@@ -14,7 +14,6 @@ export const mitskiThatWhiteCat = {
   ],
   title: "That White Cat",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

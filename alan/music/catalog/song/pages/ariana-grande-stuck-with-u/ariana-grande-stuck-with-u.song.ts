@@ -14,7 +14,6 @@ export const arianaGrandeStuckWithU = {
   ],
   title: "Stuck with U",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

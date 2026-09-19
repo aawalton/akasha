@@ -17,7 +17,6 @@ export const billieEilishWhatWasIMadeFor = {
   ],
   title: "What Was I Made For?",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

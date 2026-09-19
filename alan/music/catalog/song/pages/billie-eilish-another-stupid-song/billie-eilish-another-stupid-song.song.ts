@@ -14,7 +14,6 @@ export const billieEilishAnotherStupidSong = {
   ],
   title: "another stupid song",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

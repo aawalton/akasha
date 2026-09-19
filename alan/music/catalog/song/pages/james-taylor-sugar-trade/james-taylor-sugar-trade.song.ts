@@ -14,7 +14,6 @@ export const jamesTaylorSugarTrade = {
   ],
   title: "Sugar Trade",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

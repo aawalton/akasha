@@ -14,7 +14,6 @@ export const jamesTaylorHighwaySong = {
   ],
   title: "Highway Song",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

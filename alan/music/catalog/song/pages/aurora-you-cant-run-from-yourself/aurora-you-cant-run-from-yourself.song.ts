@@ -14,7 +14,6 @@ export const auroraYouCantRunFromYourself = {
   ],
   title: "You Can’t Run From Yourself",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

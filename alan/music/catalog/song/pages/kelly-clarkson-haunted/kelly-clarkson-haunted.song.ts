@@ -14,7 +14,6 @@ export const kellyClarksonHaunted = {
   ],
   title: "Haunted",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

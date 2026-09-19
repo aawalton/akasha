@@ -14,7 +14,6 @@ export const girlInRedOctoberPassedMeBy = {
   ],
   title: "October Passed Me By",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

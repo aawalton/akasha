@@ -14,7 +14,6 @@ export const jamesTaylorIWillNotLieForYou = {
   ],
   title: "I Will Not Lie for You",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

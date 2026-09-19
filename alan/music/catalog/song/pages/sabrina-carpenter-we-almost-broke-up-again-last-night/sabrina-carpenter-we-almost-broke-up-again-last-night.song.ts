@@ -14,7 +14,6 @@ export const sabrinaCarpenterWeAlmostBrokeUpAgainLastNight = {
   ],
   title: "We Almost Broke Up Again Last Night",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

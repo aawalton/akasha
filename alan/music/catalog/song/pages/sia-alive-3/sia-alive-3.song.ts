@@ -16,7 +16,6 @@ export const siaAlive3 = {
   ],
   title: "Alive",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

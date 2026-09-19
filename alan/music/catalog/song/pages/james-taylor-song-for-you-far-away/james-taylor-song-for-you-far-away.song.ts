@@ -14,7 +14,6 @@ export const jamesTaylorSongForYouFarAway = {
   ],
   title: "Song for You Far Away",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

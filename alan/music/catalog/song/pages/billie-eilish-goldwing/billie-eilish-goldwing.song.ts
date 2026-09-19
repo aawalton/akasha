@@ -14,7 +14,6 @@ export const billieEilishGoldwing = {
   ],
   title: "GOLDWING",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

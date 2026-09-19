@@ -14,7 +14,6 @@ export const mitskiAHorseNamedColdAir = {
   ],
   title: "A Horse Named Cold Air",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

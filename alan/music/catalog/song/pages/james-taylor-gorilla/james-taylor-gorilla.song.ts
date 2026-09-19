@@ -14,7 +14,6 @@ export const jamesTaylorGorilla = {
   ],
   title: "Gorilla",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

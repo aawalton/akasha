@@ -14,7 +14,6 @@ export const sabrinaCarpenterBadReviews = {
   ],
   title: "Bad Reviews",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const mitskiWorkingForTheKnife = {
   ],
   title: "Working for the Knife",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

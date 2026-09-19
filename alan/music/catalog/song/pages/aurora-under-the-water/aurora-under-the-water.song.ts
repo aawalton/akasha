@@ -14,7 +14,6 @@ export const auroraUnderTheWater = {
   ],
   title: "Under the Water",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

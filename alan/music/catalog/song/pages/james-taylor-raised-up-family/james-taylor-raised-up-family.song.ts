@@ -14,7 +14,6 @@ export const jamesTaylorRaisedUpFamily = {
   ],
   title: "Raised Up Family",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

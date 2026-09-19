@@ -14,7 +14,6 @@ export const auroraWarrior = {
   ],
   title: "Warrior",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

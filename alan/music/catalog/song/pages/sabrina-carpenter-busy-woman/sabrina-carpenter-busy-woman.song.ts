@@ -14,7 +14,6 @@ export const sabrinaCarpenterBusyWoman = {
   ],
   title: "Busy Woman",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

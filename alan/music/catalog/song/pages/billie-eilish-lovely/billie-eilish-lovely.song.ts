@@ -14,7 +14,6 @@ export const billieEilishLovely = {
   ],
   title: "Lovely",
   artist: "artist/billie-eilish",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

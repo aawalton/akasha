@@ -14,7 +14,6 @@ export const arianaGrandeDonTCallMeAngelCharlieSAngels = {
   ],
   title: "Don't Call Me Angel (Charlie's Angels)",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

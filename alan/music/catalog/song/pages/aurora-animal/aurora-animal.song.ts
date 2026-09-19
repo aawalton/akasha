@@ -14,7 +14,6 @@ export const auroraAnimal = {
   ],
   title: "Animal",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

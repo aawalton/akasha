@@ -14,7 +14,6 @@ export const jisooYeahYeahYeah = {
   ],
   title: "Yeah Yeah Yeah",
   artist: "artist/jisoo",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

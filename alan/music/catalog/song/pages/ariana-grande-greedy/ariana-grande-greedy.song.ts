@@ -14,7 +14,6 @@ export const arianaGrandeGreedy = {
   ],
   title: "Greedy",
   artist: "artist/ariana-grande",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

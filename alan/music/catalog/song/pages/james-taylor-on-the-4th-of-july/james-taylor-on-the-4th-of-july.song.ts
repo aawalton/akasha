@@ -14,7 +14,6 @@ export const jamesTaylorOnThe4thOfJuly = {
   ],
   title: "On the 4th of July",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

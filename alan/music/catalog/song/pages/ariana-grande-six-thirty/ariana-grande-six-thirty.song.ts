@@ -14,7 +14,6 @@ export const arianaGrandeSixThirty = {
   ],
   title: "six thirty",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

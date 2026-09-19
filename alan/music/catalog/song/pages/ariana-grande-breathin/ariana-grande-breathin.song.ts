@@ -14,7 +14,6 @@ export const arianaGrandeBreathin = {
   ],
   title: "breathin",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

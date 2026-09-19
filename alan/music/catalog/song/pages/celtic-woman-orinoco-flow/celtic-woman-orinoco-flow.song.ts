@@ -14,7 +14,6 @@ export const celticWomanOrinocoFlow = {
   ],
   title: "Orinoco Flow",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

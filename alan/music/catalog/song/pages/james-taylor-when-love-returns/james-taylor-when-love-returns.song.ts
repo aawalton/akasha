@@ -14,7 +14,6 @@ export const jamesTaylorWhenLoveReturns = {
   ],
   title: "When Love Returns",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

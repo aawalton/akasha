@@ -14,7 +14,6 @@ export const jamesTaylorSteamroller = {
   ],
   title: "Steam Roller",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "solo",

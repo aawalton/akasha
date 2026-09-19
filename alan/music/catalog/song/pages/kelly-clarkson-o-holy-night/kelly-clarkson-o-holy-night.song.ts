@@ -14,7 +14,6 @@ export const kellyClarksonOHolyNight = {
   ],
   title: "O Holy Night",
   artist: "artist/kelly-clarkson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

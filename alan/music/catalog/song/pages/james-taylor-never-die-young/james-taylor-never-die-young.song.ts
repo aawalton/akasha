@@ -14,7 +14,6 @@ export const jamesTaylorNeverDieYoung = {
   ],
   title: "Never Die Young",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

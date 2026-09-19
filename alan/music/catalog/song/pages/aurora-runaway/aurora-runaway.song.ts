@@ -14,7 +14,6 @@ export const auroraRunaway = {
   ],
   title: "Runaway",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

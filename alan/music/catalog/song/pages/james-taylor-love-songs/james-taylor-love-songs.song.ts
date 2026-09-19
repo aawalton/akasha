@@ -14,7 +14,6 @@ export const jamesTaylorLoveSongs = {
   ],
   title: "Love Songs",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

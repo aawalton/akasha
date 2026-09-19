@@ -14,7 +14,6 @@ export const sabrinaCarpenterHoneymoonFades = {
   ],
   title: "Honeymoon Fades",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

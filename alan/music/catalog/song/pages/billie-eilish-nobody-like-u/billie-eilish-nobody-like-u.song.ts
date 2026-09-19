@@ -14,7 +14,6 @@ export const billieEilishNobodyLikeU = {
   ],
   title: "Nobody Like U",
   artist: "artist/billie-eilish",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

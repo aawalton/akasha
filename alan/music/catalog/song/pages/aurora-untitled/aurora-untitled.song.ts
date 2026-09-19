@@ -14,6 +14,5 @@ export const auroraUntitled = {
   ],
   title: "イントゥ・ジ・アンノウン〜心のままに",
   artist: "artist/aurora",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

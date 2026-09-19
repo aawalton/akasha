@@ -14,7 +14,6 @@ export const billieEilishEverybodyDies = {
   ],
   title: "Everybody Dies",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

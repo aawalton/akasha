@@ -14,7 +14,6 @@ export const mitskiComeIntoTheWater = {
   ],
   title: "Come Into the Water",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const auroraForgottenLove = {
   ],
   title: "Forgotten Love",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

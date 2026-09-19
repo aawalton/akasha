@@ -14,7 +14,6 @@ export const auroraBlackWaterLilies = {
   ],
   title: "Black Water Lilies",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

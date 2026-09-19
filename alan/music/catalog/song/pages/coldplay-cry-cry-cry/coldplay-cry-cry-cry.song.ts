@@ -14,7 +14,6 @@ export const coldplayCryCryCry = {
   ],
   title: "Cry Cry Cry",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

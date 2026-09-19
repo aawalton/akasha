@@ -14,7 +14,6 @@ export const arianaGrandeDandelion = {
   ],
   title: "dandelion",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

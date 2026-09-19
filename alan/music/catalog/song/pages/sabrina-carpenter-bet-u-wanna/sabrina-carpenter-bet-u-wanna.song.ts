@@ -14,7 +14,6 @@ export const sabrinaCarpenterBetUWanna = {
   ],
   title: "bet u wanna",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

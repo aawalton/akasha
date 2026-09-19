@@ -14,7 +14,6 @@ export const mitskiTexasReznikoff = {
   ],
   title: "Texas Reznikoff",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

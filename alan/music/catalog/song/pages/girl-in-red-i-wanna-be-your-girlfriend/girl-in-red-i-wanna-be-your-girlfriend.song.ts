@@ -14,7 +14,6 @@ export const girlInRedIWannaBeYourGirlfriend = {
   ],
   title: "i wanna be your girlfriend",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

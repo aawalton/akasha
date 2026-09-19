@@ -14,7 +14,6 @@ export const girlInRedSayAnything = {
   ],
   title: "say anything",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

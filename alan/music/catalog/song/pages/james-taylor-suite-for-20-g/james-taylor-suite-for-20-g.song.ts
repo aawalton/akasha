@@ -14,7 +14,6 @@ export const jamesTaylorSuiteFor20G = {
   ],
   title: "Suite for 20 G",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

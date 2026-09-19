@@ -14,7 +14,6 @@ export const celticWomanTeirAbhaileRiu = {
   ],
   title: "Téir abhaile Riú",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

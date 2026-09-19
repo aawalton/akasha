@@ -14,7 +14,6 @@ export const arianaGrandeLeaveMeLonely = {
   ],
   title: "Leave Me Lonely",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

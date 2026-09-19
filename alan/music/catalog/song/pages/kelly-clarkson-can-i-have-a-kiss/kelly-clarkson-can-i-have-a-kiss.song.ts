@@ -14,7 +14,6 @@ export const kellyClarksonCanIHaveAKiss = {
   ],
   title: "Can I Have a Kiss",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

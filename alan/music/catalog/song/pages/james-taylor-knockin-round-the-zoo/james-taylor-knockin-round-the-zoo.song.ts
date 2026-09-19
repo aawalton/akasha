@@ -14,7 +14,6 @@ export const jamesTaylorKnockinRoundTheZoo = {
   ],
   title: "Knockin 'round the Zoo",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const kellyClarksonYeah = {
   ],
   title: "Yeah",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const jamesTaylorIWasAFoolToCare = {
   ],
   title: "I Was a Fool to Care",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const auroraTheThing = {
   ],
   title: "THE THING",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

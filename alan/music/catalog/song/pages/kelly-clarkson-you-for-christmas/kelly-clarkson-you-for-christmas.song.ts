@@ -14,7 +14,6 @@ export const kellyClarksonYouForChristmas = {
   ],
   title: "You for Christmas",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

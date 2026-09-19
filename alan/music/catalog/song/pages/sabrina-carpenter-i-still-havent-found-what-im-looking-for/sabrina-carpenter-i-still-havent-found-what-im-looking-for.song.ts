@@ -14,7 +14,6 @@ export const sabrinaCarpenterIStillHaventFoundWhatImLookingFor = {
   ],
   title: "I Still Haven’t Found What I’m Looking For",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

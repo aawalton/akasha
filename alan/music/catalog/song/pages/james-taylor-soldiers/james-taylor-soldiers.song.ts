@@ -14,7 +14,6 @@ export const jamesTaylorSoldiers = {
   ],
   title: "Soldiers",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

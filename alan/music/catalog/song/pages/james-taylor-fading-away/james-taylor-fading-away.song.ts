@@ -14,7 +14,6 @@ export const jamesTaylorFadingAway = {
   ],
   title: "Fading Away",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

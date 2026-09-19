@@ -14,7 +14,6 @@ export const mitskiBlueLight = {
   ],
   title: "Blue Light",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

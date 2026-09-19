@@ -14,7 +14,6 @@ export const auroraSoullessCreatures = {
   ],
   title: "Soulless Creatures",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

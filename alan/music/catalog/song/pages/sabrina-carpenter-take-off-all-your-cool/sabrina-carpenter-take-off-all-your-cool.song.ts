@@ -14,7 +14,6 @@ export const sabrinaCarpenterTakeOffAllYourCool = {
   ],
   title: "Take Off All Your Cool",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

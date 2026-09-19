@@ -14,7 +14,6 @@ export const jamesTaylorWalkingMan = {
   ],
   title: "Walking Man",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

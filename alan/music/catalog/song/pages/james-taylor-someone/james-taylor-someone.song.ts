@@ -14,7 +14,6 @@ export const jamesTaylorSomeone = {
   ],
   title: "Someone",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

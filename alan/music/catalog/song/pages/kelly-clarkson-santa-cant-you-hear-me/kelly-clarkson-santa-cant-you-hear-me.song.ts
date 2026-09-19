@@ -15,7 +15,6 @@ export const kellyClarksonSantaCantYouHearMe = {
   ],
   title: "Santa, Can’t You Hear Me",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

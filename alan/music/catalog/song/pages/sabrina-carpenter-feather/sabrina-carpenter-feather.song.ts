@@ -14,7 +14,6 @@ export const sabrinaCarpenterFeather = {
   ],
   title: "Feather",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

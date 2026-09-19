@@ -14,7 +14,6 @@ export const jamesTaylorTheWaterIsWide = {
   ],
   title: "The Water Is Wide",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

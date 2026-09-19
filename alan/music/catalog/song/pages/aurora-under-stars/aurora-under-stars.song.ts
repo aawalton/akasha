@@ -14,7 +14,6 @@ export const auroraUnderStars = {
   ],
   title: "Under Stars",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

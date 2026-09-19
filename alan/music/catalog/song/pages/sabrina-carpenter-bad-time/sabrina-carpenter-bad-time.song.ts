@@ -14,7 +14,6 @@ export const sabrinaCarpenterBadTime = {
   ],
   title: "Bad Time",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

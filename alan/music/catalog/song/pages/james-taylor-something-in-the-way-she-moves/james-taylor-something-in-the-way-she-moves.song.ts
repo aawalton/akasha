@@ -14,7 +14,6 @@ export const jamesTaylorSomethingInTheWaySheMoves = {
   ],
   title: "Something in the Way She Moves",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

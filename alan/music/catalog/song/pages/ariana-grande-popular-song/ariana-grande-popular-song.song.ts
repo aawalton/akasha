@@ -14,7 +14,6 @@ export const arianaGrandePopularSong = {
   ],
   title: "Popular Song",
   artist: "artist/ariana-grande",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

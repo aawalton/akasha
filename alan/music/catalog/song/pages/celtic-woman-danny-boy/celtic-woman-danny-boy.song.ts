@@ -14,7 +14,6 @@ export const celticWomanDannyBoy = {
   ],
   title: "Danny Boy",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

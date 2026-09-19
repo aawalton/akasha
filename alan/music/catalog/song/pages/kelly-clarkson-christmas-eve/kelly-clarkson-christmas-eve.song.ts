@@ -14,7 +14,6 @@ export const kellyClarksonChristmasEve = {
   ],
   title: "Christmas Eve",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const mitskiWait = {
   ],
   title: "Wait",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

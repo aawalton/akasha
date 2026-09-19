@@ -14,7 +14,6 @@ export const girlInRedMidnightLove = {
   ],
   title: "midnight love",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

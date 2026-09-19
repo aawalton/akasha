@@ -14,7 +14,6 @@ export const imagineDragonsPolaroid = {
   ],
   title: "Polaroid",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

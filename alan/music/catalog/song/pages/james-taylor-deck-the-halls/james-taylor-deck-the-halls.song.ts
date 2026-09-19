@@ -14,7 +14,6 @@ export const jamesTaylorDeckTheHalls = {
   ],
   title: "Deck the Halls",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

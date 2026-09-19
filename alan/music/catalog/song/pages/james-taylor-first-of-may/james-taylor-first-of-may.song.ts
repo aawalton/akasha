@@ -14,7 +14,6 @@ export const jamesTaylorFirstOfMay = {
   ],
   title: "First of May",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const kellyClarksonHowIFeel = {
   ],
   title: "How I Feel",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const jamesTaylorThatLonesomeRoad = {
   ],
   title: "That Lonesome Road",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const mitskiThereSNothingLeftForYou = {
   ],
   title: "There’s Nothing Left for You",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

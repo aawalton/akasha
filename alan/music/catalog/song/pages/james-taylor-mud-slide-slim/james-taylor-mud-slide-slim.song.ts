@@ -14,7 +14,6 @@ export const jamesTaylorMudSlideSlim = {
   ],
   title: "Mud Slide Slim",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const billieEilishListenBeforeIGo = {
   ],
   title: "listen before i go",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const girlInRedIllCallYouMine = {
   ],
   title: "I’ll Call You Mine",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

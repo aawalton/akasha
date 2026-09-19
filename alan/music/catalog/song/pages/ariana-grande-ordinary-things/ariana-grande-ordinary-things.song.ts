@@ -14,7 +14,6 @@ export const arianaGrandeOrdinaryThings = {
   ],
   title: "ordinary things",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterCupidTwinVer = {
   ],
   title: "Cupid (Twin ver.)",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

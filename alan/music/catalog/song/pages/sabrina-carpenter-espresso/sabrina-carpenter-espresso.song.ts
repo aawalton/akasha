@@ -14,7 +14,6 @@ export const sabrinaCarpenterEspresso = {
   ],
   title: "Espresso",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

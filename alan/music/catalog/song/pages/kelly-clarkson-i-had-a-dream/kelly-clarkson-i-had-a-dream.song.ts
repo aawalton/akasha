@@ -14,7 +14,6 @@ export const kellyClarksonIHadADream = {
   ],
   title: "I Had a Dream",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

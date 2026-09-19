@@ -14,7 +14,6 @@ export const sabrinaCarpenterReadYourMind = {
   ],
   title: "Read your Mind",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

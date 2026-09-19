@@ -14,7 +14,6 @@ export const auroraTheWomanIAm = {
   ],
   title: "The Woman I Am",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

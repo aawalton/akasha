@@ -14,7 +14,6 @@ export const girlInRedPhantomPain = {
   ],
   title: "Phantom Pain",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

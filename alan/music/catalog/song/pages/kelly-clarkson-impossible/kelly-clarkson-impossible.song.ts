@@ -14,7 +14,6 @@ export const kellyClarksonImpossible = {
   ],
   title: "Impossible",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

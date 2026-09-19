@@ -16,7 +16,6 @@ export const billieEilishEverythingIWanted = {
   ],
   title: "everything i wanted",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

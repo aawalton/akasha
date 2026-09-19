@@ -14,7 +14,6 @@ export const kellyClarksonDonTWasteYourTime = {
   ],
   title: "Don't Waste Your Time",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

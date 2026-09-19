@@ -15,7 +15,6 @@ export const kellyClarksonOComeOComeEmmanuel = {
   ],
   title: "O Come, O Come, Emmanuel",
   artist: "artist/kelly-clarkson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

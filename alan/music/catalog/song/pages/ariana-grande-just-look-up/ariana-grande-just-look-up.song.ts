@@ -14,7 +14,6 @@ export const arianaGrandeJustLookUp = {
   ],
   title: "Just Look Up",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

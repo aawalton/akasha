@@ -14,7 +14,6 @@ export const mitskiMeAndMyHusband = {
   ],
   title: "Me and My Husband",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

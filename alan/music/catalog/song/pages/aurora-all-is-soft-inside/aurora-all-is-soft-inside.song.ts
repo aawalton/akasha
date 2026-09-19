@@ -14,7 +14,6 @@ export const auroraAllIsSoftInside = {
   ],
   title: "All Is Soft Inside",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

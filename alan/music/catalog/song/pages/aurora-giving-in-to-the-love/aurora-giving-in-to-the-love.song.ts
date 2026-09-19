@@ -14,7 +14,6 @@ export const auroraGivingInToTheLove = {
   ],
   title: "Giving In to the Love",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

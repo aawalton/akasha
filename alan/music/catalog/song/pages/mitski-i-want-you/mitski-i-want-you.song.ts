@@ -14,7 +14,6 @@ export const mitskiIWantYou = {
   ],
   title: "I Want You",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const arianaGrandeGoodnightNGo = {
   ],
   title: "goodnight n go",
   artist: "artist/ariana-grande",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

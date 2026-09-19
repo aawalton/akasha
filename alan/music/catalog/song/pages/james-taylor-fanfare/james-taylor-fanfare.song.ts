@@ -14,7 +14,6 @@ export const jamesTaylorFanfare = {
   ],
   title: "Fanfare",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const celticWomanBeyondTheSea = {
   ],
   title: "Beyond the Sea",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

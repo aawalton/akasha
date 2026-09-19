@@ -14,7 +14,6 @@ export const jamesTaylorBelieveItOrNot = {
   ],
   title: "Believe It or Not",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

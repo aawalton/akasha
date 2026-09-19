@@ -14,7 +14,6 @@ export const jamesTaylorJaiEteFouDaimer = {
   ],
   title: "J’ai été fou d’aimer",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

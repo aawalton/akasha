@@ -14,7 +14,6 @@ export const sabrinaCarpenterCouldntMakeItAnyHarder = {
   ],
   title: "Couldn't Make It Any Harder",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

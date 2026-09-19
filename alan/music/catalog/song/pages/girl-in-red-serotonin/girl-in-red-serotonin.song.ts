@@ -14,7 +14,6 @@ export const girlInRedSerotonin = {
   ],
   title: "Serotonin",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

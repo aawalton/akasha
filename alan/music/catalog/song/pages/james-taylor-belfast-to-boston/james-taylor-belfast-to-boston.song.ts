@@ -14,7 +14,6 @@ export const jamesTaylorBelfastToBoston = {
   ],
   title: "Belfast to Boston",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const girlInRed4am = {
   ],
   title: "4am",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

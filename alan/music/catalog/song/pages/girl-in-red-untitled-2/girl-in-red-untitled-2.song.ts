@@ -14,7 +14,6 @@ export const girlInRedUntitled2 = {
   ],
   title: ".",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

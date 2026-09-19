@@ -14,7 +14,6 @@ export const siaAngelInYourEyes = {
   ],
   title: "Angel in Your Eyes",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

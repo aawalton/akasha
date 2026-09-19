@@ -14,7 +14,6 @@ export const arianaGrandeDonTWannaBreakUpAgain = {
   ],
   title: "don’t wanna break up again",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

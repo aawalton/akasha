@@ -14,7 +14,6 @@ export const kellyClarksonHole = {
   ],
   title: "Hole",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

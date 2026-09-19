@@ -14,7 +14,6 @@ export const jamesTaylorSpy = {
   ],
   title: "Spy",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

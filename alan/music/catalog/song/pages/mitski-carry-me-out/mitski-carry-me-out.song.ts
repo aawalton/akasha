@@ -14,7 +14,6 @@ export const mitskiCarryMeOut = {
   ],
   title: "Carry Me Out",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

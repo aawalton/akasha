@@ -14,7 +14,6 @@ export const jamesTaylorIfIKeepMyHeartOutOfSight = {
   ],
   title: "If I Keep My Heart Out of Sight",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const jamesTaylorSchliaDeineAugn = {
   ],
   title: "Schliaß deine Augn",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: false,
   written: "solo",
 } as const satisfies Song

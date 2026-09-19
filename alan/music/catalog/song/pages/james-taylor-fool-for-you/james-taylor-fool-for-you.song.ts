@@ -14,7 +14,6 @@ export const jamesTaylorFoolForYou = {
   ],
   title: "Fool for You",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

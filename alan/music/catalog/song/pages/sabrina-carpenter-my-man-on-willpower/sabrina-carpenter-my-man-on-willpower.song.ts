@@ -14,7 +14,6 @@ export const sabrinaCarpenterMyManOnWillpower = {
   ],
   title: "My Man on Willpower",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

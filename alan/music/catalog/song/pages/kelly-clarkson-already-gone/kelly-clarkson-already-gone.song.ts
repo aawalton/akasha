@@ -14,7 +14,6 @@ export const kellyClarksonAlreadyGone = {
   ],
   title: "Already Gone",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

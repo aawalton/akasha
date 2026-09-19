@@ -14,7 +14,6 @@ export const mitskiShame = {
   ],
   title: "Shame",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

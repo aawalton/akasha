@@ -14,7 +14,6 @@ export const auroraSoftUniverse = {
   ],
   title: "Soft Universe",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

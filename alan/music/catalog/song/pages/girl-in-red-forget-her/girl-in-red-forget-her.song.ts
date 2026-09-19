@@ -14,7 +14,6 @@ export const girlInRedForgetHer = {
   ],
   title: "forget her",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

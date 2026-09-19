@@ -14,7 +14,6 @@ export const mitskiALovingFeeling = {
   ],
   title: "A Loving Feeling",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

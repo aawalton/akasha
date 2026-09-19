@@ -14,7 +14,6 @@ export const kellyClarksonInTheBlue = {
   ],
   title: "In the Blue",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

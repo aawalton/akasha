@@ -14,7 +14,6 @@ export const jamesTaylorForeverMyLove = {
   ],
   title: "Forever My Love",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

@@ -16,7 +16,6 @@ export const auroraADifferentKindOfHuman = {
   ],
   title: "A Different Kind of Human",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

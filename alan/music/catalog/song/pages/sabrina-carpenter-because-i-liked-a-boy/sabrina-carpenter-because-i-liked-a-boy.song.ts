@@ -14,7 +14,6 @@ export const sabrinaCarpenterBecauseILikedABoy = {
   ],
   title: "because i liked a boy",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

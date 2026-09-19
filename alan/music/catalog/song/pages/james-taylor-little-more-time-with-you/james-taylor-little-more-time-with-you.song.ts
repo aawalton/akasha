@@ -14,7 +14,6 @@ export const jamesTaylorLittleMoreTimeWithYou = {
   ],
   title: "Little More Time With You",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

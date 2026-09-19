@@ -14,7 +14,6 @@ export const jamesTaylorTerraNova = {
   ],
   title: "Terra Nova",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

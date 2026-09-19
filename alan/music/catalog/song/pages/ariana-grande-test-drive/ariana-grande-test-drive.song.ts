@@ -14,7 +14,6 @@ export const arianaGrandeTestDrive = {
   ],
   title: "test drive",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

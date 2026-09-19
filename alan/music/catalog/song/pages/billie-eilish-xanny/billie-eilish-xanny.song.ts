@@ -14,7 +14,6 @@ export const billieEilishXanny = {
   ],
   title: "xanny",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

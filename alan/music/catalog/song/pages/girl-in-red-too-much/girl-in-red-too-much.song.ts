@@ -14,7 +14,6 @@ export const girlInRedTooMuch = {
   ],
   title: "Too Much",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

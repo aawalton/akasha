@@ -14,7 +14,6 @@ export const sabrinaCarpenterLieForLove = {
   ],
   title: "Lie for Love",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

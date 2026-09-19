@@ -14,7 +14,6 @@ export const arianaGrandeGoodAsHell = {
   ],
   title: "Good as Hell",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

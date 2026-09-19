@@ -14,7 +14,6 @@ export const coldplayTalk = {
   ],
   title: "Talk",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

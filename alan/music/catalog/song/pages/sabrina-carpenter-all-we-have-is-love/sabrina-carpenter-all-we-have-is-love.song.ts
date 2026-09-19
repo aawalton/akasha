@@ -14,7 +14,6 @@ export const sabrinaCarpenterAllWeHaveIsLove = {
   ],
   title: "All We Have Is Love",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

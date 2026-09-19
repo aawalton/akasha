@@ -14,7 +14,6 @@ export const mitskiOnceMoreToSeeYou = {
   ],
   title: "Once More to See You",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

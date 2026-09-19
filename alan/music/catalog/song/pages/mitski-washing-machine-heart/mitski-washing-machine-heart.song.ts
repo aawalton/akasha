@@ -14,7 +14,6 @@ export const mitskiWashingMachineHeart = {
   ],
   title: "Washing Machine Heart",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

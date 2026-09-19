@@ -14,7 +14,6 @@ export const arianaGrandeImperfectForYou = {
   ],
   title: "imperfect for you",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

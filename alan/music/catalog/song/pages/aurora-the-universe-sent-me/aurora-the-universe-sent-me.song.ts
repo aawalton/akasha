@@ -14,7 +14,6 @@ export const auroraTheUniverseSentMe = {
   ],
   title: "The Universe Sent Me",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

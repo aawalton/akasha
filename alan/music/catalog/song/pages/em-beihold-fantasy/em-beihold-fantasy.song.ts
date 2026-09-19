@@ -14,7 +14,6 @@ export const emBeiholdFantasy = {
       lastSyncedAt: "2026-06-08",
     },
   ],
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

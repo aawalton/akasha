@@ -14,7 +14,6 @@ export const jamesTaylorIWasOnlyTellingALie = {
   ],
   title: "I Was Only Telling a Lie",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

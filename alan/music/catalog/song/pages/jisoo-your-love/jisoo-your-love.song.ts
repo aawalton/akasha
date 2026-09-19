@@ -14,7 +14,6 @@ export const jisooYourLove = {
   ],
   title: "Your Love",
   artist: "artist/jisoo",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

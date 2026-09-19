@@ -14,7 +14,6 @@ export const imagineDragonsTheFall = {
   ],
   title: "The Fall",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

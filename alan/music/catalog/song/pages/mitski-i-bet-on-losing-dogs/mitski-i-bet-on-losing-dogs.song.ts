@@ -15,7 +15,6 @@ export const mitskiIBetOnLosingDogs = {
   ],
   title: "I Bet on Losing Dogs",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

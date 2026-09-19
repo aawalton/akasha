@@ -14,7 +14,6 @@ export const jamesTaylorMexico = {
   ],
   title: "Mexico",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

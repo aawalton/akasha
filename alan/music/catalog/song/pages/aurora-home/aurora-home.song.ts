@@ -14,7 +14,6 @@ export const auroraHome = {
   ],
   title: "Home",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const arianaGrandeTime = {
   ],
   title: "Time",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

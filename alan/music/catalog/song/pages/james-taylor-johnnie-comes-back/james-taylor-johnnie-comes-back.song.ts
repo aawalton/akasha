@@ -14,7 +14,6 @@ export const jamesTaylorJohnnieComesBack = {
   ],
   title: "Johnnie Comes Back",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterDontWorryIllMakeYouWorry = {
   ],
   title: "Don’t Worry I’ll Make You Worry",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

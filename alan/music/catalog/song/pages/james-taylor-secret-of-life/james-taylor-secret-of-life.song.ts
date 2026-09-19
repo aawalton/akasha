@@ -14,7 +14,6 @@ export const jamesTaylorSecretOfLife = {
   ],
   title: "Secret of Life",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

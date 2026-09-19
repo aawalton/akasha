@@ -14,7 +14,6 @@ export const kellyClarksonIdBeLyin = {
   ],
   title: "I’d Be Lyin’",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

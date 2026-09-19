@@ -14,7 +14,6 @@ export const mitskiSusieSaveYourLove = {
   ],
   title: "Susie Save Your Love",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

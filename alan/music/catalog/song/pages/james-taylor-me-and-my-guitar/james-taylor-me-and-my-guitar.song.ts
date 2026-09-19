@@ -14,7 +14,6 @@ export const jamesTaylorMeAndMyGuitar = {
   ],
   title: "Me and My Guitar",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

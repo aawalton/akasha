@@ -14,7 +14,6 @@ export const arianaGrandeBetterLeftUnsaid = {
   ],
   title: "Better Left Unsaid",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

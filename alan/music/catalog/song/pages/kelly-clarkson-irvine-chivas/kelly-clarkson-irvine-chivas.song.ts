@@ -14,7 +14,6 @@ export const kellyClarksonIrvineChivas = {
   ],
   title: "Irvine / Chivas",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

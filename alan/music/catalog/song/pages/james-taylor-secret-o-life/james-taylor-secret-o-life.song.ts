@@ -14,7 +14,6 @@ export const jamesTaylorSecretOLife = {
   ],
   title: "Secret o’ Life",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

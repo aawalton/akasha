@@ -14,7 +14,6 @@ export const auroraHeathens = {
   ],
   title: "Heathens",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

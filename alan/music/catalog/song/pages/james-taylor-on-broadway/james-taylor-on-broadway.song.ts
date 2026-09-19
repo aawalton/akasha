@@ -14,7 +14,6 @@ export const jamesTaylorOnBroadway = {
   ],
   title: "On Broadway",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

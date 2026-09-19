@@ -14,7 +14,6 @@ export const auroraEverythingMatters = {
   ],
   title: "Everything Matters",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

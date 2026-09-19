@@ -14,7 +14,6 @@ export const auroraGentleEarthquakes = {
   ],
   title: "Gentle Earthquakes",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

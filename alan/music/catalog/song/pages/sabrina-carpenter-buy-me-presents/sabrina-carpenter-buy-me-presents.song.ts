@@ -14,7 +14,6 @@ export const sabrinaCarpenterBuyMePresents = {
   ],
   title: "buy me presents",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

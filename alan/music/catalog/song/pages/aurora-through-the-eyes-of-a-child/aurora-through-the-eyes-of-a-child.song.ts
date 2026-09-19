@@ -14,7 +14,6 @@ export const auroraThroughTheEyesOfAChild = {
   ],
   title: "Through the Eyes of a Child",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

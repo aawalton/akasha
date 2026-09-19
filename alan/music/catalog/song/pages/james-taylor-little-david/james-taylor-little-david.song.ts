@@ -14,7 +14,6 @@ export const jamesTaylorLittleDavid = {
   ],
   title: "Little David",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

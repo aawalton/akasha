@@ -14,7 +14,6 @@ export const jamesTaylorDaddysAllGone = {
   ],
   title: "Daddy’s All Gone",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

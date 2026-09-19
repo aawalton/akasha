@@ -14,7 +14,6 @@ export const jamesTaylorHardTimes = {
   ],
   title: "Hard Times",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

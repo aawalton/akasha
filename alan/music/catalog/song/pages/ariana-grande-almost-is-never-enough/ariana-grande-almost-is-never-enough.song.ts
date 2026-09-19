@@ -14,7 +14,6 @@ export const arianaGrandeAlmostIsNeverEnough = {
   ],
   title: "Almost Is Never Enough",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

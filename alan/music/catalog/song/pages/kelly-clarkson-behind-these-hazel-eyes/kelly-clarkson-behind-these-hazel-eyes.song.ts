@@ -14,7 +14,6 @@ export const kellyClarksonBehindTheseHazelEyes = {
   ],
   title: "Behind These Hazel Eyes",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

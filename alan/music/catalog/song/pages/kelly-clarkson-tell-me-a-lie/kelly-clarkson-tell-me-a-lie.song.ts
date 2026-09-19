@@ -14,7 +14,6 @@ export const kellyClarksonTellMeALie = {
   ],
   title: "Tell Me a Lie",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

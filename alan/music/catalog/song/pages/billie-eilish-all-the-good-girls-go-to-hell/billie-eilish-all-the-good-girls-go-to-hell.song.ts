@@ -14,7 +14,6 @@ export const billieEilishAllTheGoodGirlsGoToHell = {
   ],
   title: "all the good girls go to hell",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

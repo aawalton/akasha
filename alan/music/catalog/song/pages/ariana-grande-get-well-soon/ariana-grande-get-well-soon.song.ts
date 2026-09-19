@@ -14,7 +14,6 @@ export const arianaGrandeGetWellSoon = {
   ],
   title: "get well soon",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

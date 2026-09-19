@@ -14,7 +14,6 @@ export const jamesTaylorBrotherTrucker = {
   ],
   title: "Brother Trucker",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

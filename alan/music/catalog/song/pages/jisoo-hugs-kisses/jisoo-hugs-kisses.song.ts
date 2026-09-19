@@ -14,7 +14,6 @@ export const jisooHugsKisses = {
   ],
   title: "Hugs & Kisses",
   artist: "artist/jisoo",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

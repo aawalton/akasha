@@ -14,7 +14,6 @@ export const kellyClarksonTipOfMyTongue = {
   ],
   title: "Tip of My Tongue",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

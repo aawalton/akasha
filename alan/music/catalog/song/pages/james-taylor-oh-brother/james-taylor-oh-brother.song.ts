@@ -14,7 +14,6 @@ export const jamesTaylorOhBrother = {
   ],
   title: "Oh Brother",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

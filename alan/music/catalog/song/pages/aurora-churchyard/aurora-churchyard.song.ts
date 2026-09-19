@@ -14,7 +14,6 @@ export const auroraChurchyard = {
   ],
   title: "Churchyard",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

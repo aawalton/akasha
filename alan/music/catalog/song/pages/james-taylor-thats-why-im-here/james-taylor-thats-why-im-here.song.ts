@@ -14,7 +14,6 @@ export const jamesTaylorThatsWhyImHere = {
   ],
   title: "That’s Why I’m Here",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

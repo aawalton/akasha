@@ -14,7 +14,6 @@ export const auroraLucky = {
   ],
   title: "Lucky",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

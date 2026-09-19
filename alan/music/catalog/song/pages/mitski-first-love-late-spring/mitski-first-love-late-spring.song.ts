@@ -14,7 +14,6 @@ export const mitskiFirstLoveLateSpring = {
   ],
   title: "First Love / Late Spring",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

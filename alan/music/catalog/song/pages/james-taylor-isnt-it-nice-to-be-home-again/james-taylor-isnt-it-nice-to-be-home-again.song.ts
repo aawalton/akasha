@@ -14,7 +14,6 @@ export const jamesTaylorIsntItNiceToBeHomeAgain = {
   ],
   title: "Isn’t It Nice to Be Home Again",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

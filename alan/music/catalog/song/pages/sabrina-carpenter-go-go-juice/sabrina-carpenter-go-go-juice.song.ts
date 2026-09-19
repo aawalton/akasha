@@ -14,7 +14,6 @@ export const sabrinaCarpenterGoGoJuice = {
   ],
   title: "Go Go Juice",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

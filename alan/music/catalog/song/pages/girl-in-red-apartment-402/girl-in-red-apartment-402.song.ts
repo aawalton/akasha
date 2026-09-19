@@ -14,7 +14,6 @@ export const girlInRedApartment402 = {
   ],
   title: "Apartment 402",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterHoldTight = {
   ],
   title: "Hold Tight",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

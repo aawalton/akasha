@@ -14,7 +14,6 @@ export const sabrinaCarpenterCindyLouWho = {
   ],
   title: "cindy lou who",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

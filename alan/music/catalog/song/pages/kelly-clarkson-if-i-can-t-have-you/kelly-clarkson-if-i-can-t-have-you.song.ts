@@ -14,7 +14,6 @@ export const kellyClarksonIfICanTHaveYou = {
   ],
   title: "If I Can't Have You",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

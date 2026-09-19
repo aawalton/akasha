@@ -14,7 +14,6 @@ export const billieEilishMyBoy = {
   ],
   title: "my boy",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

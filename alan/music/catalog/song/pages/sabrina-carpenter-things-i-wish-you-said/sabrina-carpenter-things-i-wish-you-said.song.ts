@@ -14,7 +14,6 @@ export const sabrinaCarpenterThingsIWishYouSaid = {
   ],
   title: "things i wish you said",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

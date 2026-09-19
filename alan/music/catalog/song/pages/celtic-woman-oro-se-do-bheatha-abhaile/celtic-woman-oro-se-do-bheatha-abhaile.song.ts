@@ -14,7 +14,6 @@ export const celticWomanOroSeDoBheathaAbhaile = {
   ],
   title: "Óró sé do bheatha abhaile",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

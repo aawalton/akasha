@@ -14,7 +14,6 @@ export const kellyClarksonWinterDreamsBrandonSSong = {
   ],
   title: "Winter Dreams (Brandon's Song)",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

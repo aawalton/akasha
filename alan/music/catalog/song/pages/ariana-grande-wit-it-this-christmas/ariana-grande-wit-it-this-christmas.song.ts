@@ -14,7 +14,6 @@ export const arianaGrandeWitItThisChristmas = {
   ],
   title: "Wit It This Christmas",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

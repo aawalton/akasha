@@ -14,7 +14,6 @@ export const jamesTaylorCarolineISeeYou = {
   ],
   title: "Caroline I See You",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

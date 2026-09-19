@@ -14,7 +14,6 @@ export const auroraYouKeepMeCrawling = {
   ],
   title: "You Keep Me Crawling",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

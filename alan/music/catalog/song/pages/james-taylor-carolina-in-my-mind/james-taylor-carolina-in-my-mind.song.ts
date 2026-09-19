@@ -14,7 +14,6 @@ export const jamesTaylorCarolinaInMyMind = {
   ],
   title: "Carolina in My Mind",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

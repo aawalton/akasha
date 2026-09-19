@@ -14,7 +14,6 @@ export const jisooTears = {
   ],
   title: "TEARS",
   artist: "artist/jisoo",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

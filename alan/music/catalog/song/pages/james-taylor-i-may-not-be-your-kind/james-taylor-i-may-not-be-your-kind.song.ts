@@ -14,7 +14,6 @@ export const jamesTaylorIMayNotBeYourKind = {
   ],
   title: "I May Not Be Your Kind",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

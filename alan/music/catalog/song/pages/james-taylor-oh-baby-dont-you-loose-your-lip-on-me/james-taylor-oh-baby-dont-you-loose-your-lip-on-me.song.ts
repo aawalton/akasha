@@ -14,7 +14,6 @@ export const jamesTaylorOhBabyDontYouLooseYourLipOnMe = {
   ],
   title: "Oh Baby, Don't You Loose Your Lip on Me",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

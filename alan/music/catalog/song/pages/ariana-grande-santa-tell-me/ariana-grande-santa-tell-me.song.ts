@@ -14,7 +14,6 @@ export const arianaGrandeSantaTellMe = {
   ],
   title: "Santa Tell Me",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

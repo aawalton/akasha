@@ -14,7 +14,6 @@ export const imagineDragonsWhoWeAre = {
   ],
   title: "Who We Are",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

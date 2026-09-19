@@ -14,7 +14,6 @@ export const sabrinaCarpenterImFakin = {
   ],
   title: "I’m Fakin",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

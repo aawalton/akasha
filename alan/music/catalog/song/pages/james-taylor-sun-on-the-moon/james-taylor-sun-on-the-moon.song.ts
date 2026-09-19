@@ -14,7 +14,6 @@ export const jamesTaylorSunOnTheMoon = {
   ],
   title: "Sun on the Moon",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

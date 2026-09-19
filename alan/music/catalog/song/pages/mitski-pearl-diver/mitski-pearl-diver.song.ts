@@ -14,7 +14,6 @@ export const mitskiPearlDiver = {
   ],
   title: "Pearl Diver",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const kellyClarksonEveryChristmas = {
   ],
   title: "Every Christmas",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

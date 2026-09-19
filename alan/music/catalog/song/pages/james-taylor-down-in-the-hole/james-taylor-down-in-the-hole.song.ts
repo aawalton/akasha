@@ -14,7 +14,6 @@ export const jamesTaylorDownInTheHole = {
   ],
   title: "Down in the Hole",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const evynneHollensRunningOutOfTime = {
   ],
   title: "Running Out of Time",
   artist: "artist/evynne-hollens",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

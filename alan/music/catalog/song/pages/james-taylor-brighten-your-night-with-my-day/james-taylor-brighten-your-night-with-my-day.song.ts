@@ -14,7 +14,6 @@ export const jamesTaylorBrightenYourNightWithMyDay = {
   ],
   title: "Brighten Your Night With My Day",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

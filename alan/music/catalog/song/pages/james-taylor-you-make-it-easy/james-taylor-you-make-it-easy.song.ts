@@ -14,7 +14,6 @@ export const jamesTaylorYouMakeItEasy = {
   ],
   title: "You Make It Easy",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

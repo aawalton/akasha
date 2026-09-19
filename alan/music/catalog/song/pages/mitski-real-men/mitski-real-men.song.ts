@@ -14,7 +14,6 @@ export const mitskiRealMen = {
   ],
   title: "Real Men",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

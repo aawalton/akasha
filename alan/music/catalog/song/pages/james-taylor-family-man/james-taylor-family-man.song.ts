@@ -14,7 +14,6 @@ export const jamesTaylorFamilyMan = {
   ],
   title: "Family Man",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

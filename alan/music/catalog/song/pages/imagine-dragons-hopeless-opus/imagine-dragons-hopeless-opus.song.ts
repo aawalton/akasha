@@ -14,7 +14,6 @@ export const imagineDragonsHopelessOpus = {
   ],
   title: "Hopeless Opus",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

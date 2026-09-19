@@ -14,7 +14,6 @@ export const mitskiIWill = {
   ],
   title: "I Will",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const celticWomanTheWaterIsWide = {
   ],
   title: "The Water Is Wide",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

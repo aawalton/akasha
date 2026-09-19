@@ -14,6 +14,5 @@ export const jamesTaylorDontThinkTwiceItsAllRight = {
   ],
   title: "Don’t Think Twice, It’s All Right",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const arianaGrande3435 = {
   ],
   title: "34+35",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

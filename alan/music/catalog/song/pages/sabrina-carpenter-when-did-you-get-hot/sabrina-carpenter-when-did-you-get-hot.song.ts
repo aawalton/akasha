@@ -14,7 +14,6 @@ export const sabrinaCarpenterWhenDidYouGetHot = {
   ],
   title: "When Did You Get Hot?",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const kellyClarksonTheTroubleWithLoveIs = {
   ],
   title: "The Trouble With Love Is",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

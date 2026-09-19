@@ -14,7 +14,6 @@ export const auroraInBottles = {
   ],
   title: "In Bottles",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

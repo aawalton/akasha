@@ -14,7 +14,6 @@ export const celticWomanBeanPhaidin = {
   ],
   title: "Bean Pháidín",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

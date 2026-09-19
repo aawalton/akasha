@@ -14,7 +14,6 @@ export const jamesTaylorHeyMisterThatsMeUpOnTheJukebox = {
   ],
   title: "Hey Mister, That’s Me Up on the Jukebox",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

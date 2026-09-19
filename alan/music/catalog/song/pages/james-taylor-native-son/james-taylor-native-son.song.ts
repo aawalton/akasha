@@ -14,7 +14,6 @@ export const jamesTaylorNativeSon = {
   ],
   title: "Native Son",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

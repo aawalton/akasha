@@ -14,7 +14,6 @@ export const jamesTaylorAngryBlues = {
   ],
   title: "Angry Blues",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const auroraMyBaby = {
   ],
   title: "MY BABY",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

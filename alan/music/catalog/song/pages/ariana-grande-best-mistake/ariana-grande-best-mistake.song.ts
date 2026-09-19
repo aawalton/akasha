@@ -14,7 +14,6 @@ export const arianaGrandeBestMistake = {
   ],
   title: "Best Mistake",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

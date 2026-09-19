@@ -14,7 +14,6 @@ export const arianaGrandeOhWell = {
   ],
   title: "oh well",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

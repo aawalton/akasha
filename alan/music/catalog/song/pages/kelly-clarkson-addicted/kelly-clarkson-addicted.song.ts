@@ -14,7 +14,6 @@ export const kellyClarksonAddicted = {
   ],
   title: "Addicted",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

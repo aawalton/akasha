@@ -14,7 +14,6 @@ export const kellyClarksonBecauseOfYou = {
   ],
   title: "Because of You",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

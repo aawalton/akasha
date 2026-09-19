@@ -14,7 +14,6 @@ export const mitskiCrackBaby = {
   ],
   title: "Crack Baby",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const mitskiBrandNewCity = {
   ],
   title: "Brand New City",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

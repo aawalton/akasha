@@ -14,7 +14,6 @@ export const jamesTaylorThereWeAre = {
   ],
   title: "There We Are",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

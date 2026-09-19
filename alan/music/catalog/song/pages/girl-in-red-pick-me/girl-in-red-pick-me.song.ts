@@ -14,7 +14,6 @@ export const girlInRedPickMe = {
   ],
   title: "Pick Me",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

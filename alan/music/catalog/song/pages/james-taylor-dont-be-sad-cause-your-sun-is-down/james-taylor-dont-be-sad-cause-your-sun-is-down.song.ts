@@ -14,7 +14,6 @@ export const jamesTaylorDontBeSadCauseYourSunIsDown = {
   ],
   title: "Don’t Be Sad ’cause Your Sun Is Down",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

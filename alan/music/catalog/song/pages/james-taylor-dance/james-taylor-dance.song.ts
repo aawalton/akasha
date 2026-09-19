@@ -14,7 +14,6 @@ export const jamesTaylorDance = {
   ],
   title: "Dance",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

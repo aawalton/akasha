@@ -14,7 +14,6 @@ export const jamesTaylorLookingForLoveOnBroadway = {
   ],
   title: "Looking for Love on Broadway",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

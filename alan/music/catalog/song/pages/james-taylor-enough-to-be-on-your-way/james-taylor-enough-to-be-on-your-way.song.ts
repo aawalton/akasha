@@ -14,7 +14,6 @@ export const jamesTaylorEnoughToBeOnYourWay = {
   ],
   title: "Enough to Be on Your Way",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const billieEilishThe30th = {
   ],
   title: "The 30th",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

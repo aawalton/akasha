@@ -14,7 +14,6 @@ export const arianaGrandeHateThatIMadeYouLoveMe = {
   ],
   title: "hate that i made you love me",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

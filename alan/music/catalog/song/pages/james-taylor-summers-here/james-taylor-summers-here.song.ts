@@ -14,7 +14,6 @@ export const jamesTaylorSummersHere = {
   ],
   title: "Summer’s Here",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

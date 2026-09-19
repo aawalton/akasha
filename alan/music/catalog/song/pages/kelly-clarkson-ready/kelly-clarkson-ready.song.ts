@@ -14,7 +14,6 @@ export const kellyClarksonReady = {
   ],
   title: "Ready",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

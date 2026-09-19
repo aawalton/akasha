@@ -21,7 +21,6 @@ export const celticWomanSilentNight = {
   ],
   title: "Silent Night",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

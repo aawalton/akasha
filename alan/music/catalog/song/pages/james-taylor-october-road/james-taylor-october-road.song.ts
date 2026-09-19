@@ -14,7 +14,6 @@ export const jamesTaylorOctoberRoad = {
   ],
   title: "October Road",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

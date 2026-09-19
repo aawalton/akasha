@@ -14,7 +14,6 @@ export const billieEilishIDidnTChangeMyNumber = {
   ],
   title: "I Didn’t Change My Number",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

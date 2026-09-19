@@ -14,7 +14,6 @@ export const billieEilishUntitled2 = {
   ],
   title: "どんな君も",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

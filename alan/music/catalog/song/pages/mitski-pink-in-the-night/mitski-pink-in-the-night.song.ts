@@ -14,7 +14,6 @@ export const mitskiPinkInTheNight = {
   ],
   title: "Pink in the Night",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

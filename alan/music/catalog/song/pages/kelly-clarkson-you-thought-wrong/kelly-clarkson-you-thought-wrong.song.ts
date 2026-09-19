@@ -14,7 +14,6 @@ export const kellyClarksonYouThoughtWrong = {
   ],
   title: "You Thought Wrong",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

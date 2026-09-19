@@ -14,7 +14,6 @@ export const jamesTaylorHelloOldFriend = {
   ],
   title: "Hello Old Friend",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

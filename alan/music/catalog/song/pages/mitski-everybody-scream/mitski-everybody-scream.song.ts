@@ -14,7 +14,6 @@ export const mitskiEverybodyScream = {
   ],
   title: "Everybody Scream",
   artist: "artist/mitski",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

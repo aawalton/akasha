@@ -14,7 +14,6 @@ export const kellyClarksonOneMinute = {
   ],
   title: "One Minute",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

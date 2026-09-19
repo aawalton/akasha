@@ -14,7 +14,6 @@ export const billieEilishILoveYou = {
   ],
   title: "i love you",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

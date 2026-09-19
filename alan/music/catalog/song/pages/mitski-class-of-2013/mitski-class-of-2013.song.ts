@@ -14,7 +14,6 @@ export const mitskiClassOf2013 = {
   ],
   title: "Class of 2013",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

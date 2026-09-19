@@ -14,7 +14,6 @@ export const girlInRedDoingItAgainBaby = {
   ],
   title: "DOING IT AGAIN BABY",
   artist: "artist/girl-in-red",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

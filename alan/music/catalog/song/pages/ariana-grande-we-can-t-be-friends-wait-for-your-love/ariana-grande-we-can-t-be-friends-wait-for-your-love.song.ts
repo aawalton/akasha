@@ -14,7 +14,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   ],
   title: "we can’t be friends (wait for your love)",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

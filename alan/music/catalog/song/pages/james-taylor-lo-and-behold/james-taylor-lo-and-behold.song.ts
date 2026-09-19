@@ -14,7 +14,6 @@ export const jamesTaylorLoAndBehold = {
   ],
   title: "Lo and Behold",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

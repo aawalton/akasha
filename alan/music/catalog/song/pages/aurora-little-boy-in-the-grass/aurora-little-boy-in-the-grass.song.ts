@@ -14,7 +14,6 @@ export const auroraLittleBoyInTheGrass = {
   ],
   title: "Little Boy in the Grass",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

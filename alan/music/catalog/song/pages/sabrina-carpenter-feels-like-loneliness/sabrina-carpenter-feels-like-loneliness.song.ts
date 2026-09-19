@@ -14,7 +14,6 @@ export const sabrinaCarpenterFeelsLikeLoneliness = {
   ],
   title: "Feels Like Loneliness",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

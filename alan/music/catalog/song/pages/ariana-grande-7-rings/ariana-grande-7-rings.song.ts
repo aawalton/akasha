@@ -14,7 +14,6 @@ export const arianaGrande7Rings = {
   ],
   title: "7 rings",
   artist: "artist/ariana-grande",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

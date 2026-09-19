@@ -14,6 +14,5 @@ export const kellyClarksonLoveMeLikeAMan = {
   ],
   title: "Love Me Like a Man",
   artist: "artist/kelly-clarkson",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

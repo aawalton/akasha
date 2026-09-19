@@ -14,7 +14,6 @@ export const jamesTaylorStandAndFight = {
   ],
   title: "Stand and Fight",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

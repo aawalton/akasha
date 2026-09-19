@@ -14,7 +14,6 @@ export const aurora3MilesHigh = {
   ],
   title: "3 Miles High",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

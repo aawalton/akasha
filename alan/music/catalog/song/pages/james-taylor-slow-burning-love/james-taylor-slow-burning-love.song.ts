@@ -14,7 +14,6 @@ export const jamesTaylorSlowBurningLove = {
   ],
   title: "Slow Burning Love",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

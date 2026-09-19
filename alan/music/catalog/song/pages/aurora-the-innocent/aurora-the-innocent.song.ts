@@ -14,7 +14,6 @@ export const auroraTheInnocent = {
   ],
   title: "The Innocent",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

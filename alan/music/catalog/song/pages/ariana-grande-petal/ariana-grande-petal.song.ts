@@ -14,7 +14,6 @@ export const arianaGrandePetal = {
   ],
   title: "petal",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

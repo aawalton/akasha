@@ -14,7 +14,6 @@ export const auroraEveOfDestruction = {
   ],
   title: "Eve of Destruction",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

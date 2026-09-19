@@ -14,7 +14,6 @@ export const jamesTaylorLikeEveryoneSheKnows = {
   ],
   title: "Like Everyone She Knows",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

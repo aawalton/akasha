@@ -14,7 +14,6 @@ export const sabrinaCarpenterAlreadyOver = {
   ],
   title: "Already Over",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

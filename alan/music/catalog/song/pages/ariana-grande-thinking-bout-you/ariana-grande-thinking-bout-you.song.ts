@@ -14,7 +14,6 @@ export const arianaGrandeThinkingBoutYou = {
   ],
   title: "Thinking Bout You",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

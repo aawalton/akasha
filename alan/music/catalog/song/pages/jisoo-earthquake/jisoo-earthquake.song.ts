@@ -14,7 +14,6 @@ export const jisooEarthquake = {
   ],
   title: "earthquake",
   artist: "artist/jisoo",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

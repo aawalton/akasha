@@ -14,7 +14,6 @@ export const sabrinaCarpenterOnPurpose = {
   ],
   title: "On Purpose",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

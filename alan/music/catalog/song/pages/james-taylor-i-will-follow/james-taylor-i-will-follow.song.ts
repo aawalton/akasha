@@ -14,7 +14,6 @@ export const jamesTaylorIWillFollow = {
   ],
   title: "I Will Follow",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

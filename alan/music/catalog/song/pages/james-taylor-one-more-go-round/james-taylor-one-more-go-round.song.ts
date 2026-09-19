@@ -14,7 +14,6 @@ export const jamesTaylorOneMoreGoRound = {
   ],
   title: "One More Go Round",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

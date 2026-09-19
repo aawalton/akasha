@@ -14,7 +14,6 @@ export const sabrinaCarpenterTricky = {
   ],
   title: "Tricky",
   artist: "artist/sabrina-carpenter",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

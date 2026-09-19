@@ -14,7 +14,6 @@ export const arianaGrandeLetMeLoveYou = {
   ],
   title: "Let Me Love You",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

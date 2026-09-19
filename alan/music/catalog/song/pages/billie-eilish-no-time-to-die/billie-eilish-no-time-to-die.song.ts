@@ -14,7 +14,6 @@ export const billieEilishNoTimeToDie = {
   ],
   title: "No Time to Die",
   artist: "artist/billie-eilish",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

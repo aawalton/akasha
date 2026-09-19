@@ -14,7 +14,6 @@ export const celticWomanWildMountainThyme = {
   ],
   title: "Wild Mountain Thyme",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

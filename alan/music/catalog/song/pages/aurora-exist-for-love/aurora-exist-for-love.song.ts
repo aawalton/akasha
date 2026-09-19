@@ -14,7 +14,6 @@ export const auroraExistForLove = {
   ],
   title: "Exist for Love",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

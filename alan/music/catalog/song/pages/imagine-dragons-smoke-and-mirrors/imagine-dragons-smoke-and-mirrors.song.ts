@@ -14,7 +14,6 @@ export const imagineDragonsSmokeAndMirrors = {
   ],
   title: "Smoke and Mirrors",
   artist: "artist/imagine-dragons",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

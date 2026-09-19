@@ -14,7 +14,6 @@ export const jamesTaylorDaddysBaby = {
   ],
   title: "Daddy’s Baby",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

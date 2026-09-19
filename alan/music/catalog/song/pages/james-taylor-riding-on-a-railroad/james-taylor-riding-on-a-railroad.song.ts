@@ -14,7 +14,6 @@ export const jamesTaylorRidingOnARailroad = {
   ],
   title: "Riding on a Railroad",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

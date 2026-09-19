@@ -14,7 +14,6 @@ export const auroraIWentTooFar = {
   ],
   title: "I Went Too Far",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const arianaGrandeMyEverything = {
   ],
   title: "My Everything",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

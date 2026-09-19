@@ -14,7 +14,6 @@ export const auroraInAMinute = {
   ],
   title: "IN A MINUTE",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

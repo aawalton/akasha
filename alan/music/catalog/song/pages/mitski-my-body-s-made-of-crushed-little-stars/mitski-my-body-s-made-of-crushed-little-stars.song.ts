@@ -14,7 +14,6 @@ export const mitskiMyBodySMadeOfCrushedLittleStars = {
   ],
   title: "My Body’s Made of Crushed Little Stars",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

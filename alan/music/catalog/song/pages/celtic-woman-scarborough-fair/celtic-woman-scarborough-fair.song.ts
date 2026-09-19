@@ -14,7 +14,6 @@ export const celticWomanScarboroughFair = {
   ],
   title: "Scarborough Fair",
   artist: "artist/celtic-woman",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

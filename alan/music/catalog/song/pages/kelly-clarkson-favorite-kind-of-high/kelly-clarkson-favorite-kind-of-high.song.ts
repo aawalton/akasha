@@ -14,7 +14,6 @@ export const kellyClarksonFavoriteKindOfHigh = {
   ],
   title: "favorite kind of high",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

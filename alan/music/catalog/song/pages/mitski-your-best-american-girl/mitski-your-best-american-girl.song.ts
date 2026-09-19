@@ -15,7 +15,6 @@ export const mitskiYourBestAmericanGirl = {
   ],
   title: "Your Best American Girl",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

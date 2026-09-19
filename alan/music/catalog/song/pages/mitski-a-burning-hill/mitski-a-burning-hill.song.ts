@@ -14,7 +14,6 @@ export const mitskiABurningHill = {
   ],
   title: "A Burning Hill",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

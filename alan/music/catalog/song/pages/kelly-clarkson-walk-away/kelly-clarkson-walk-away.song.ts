@@ -14,7 +14,6 @@ export const kellyClarksonWalkAway = {
   ],
   title: "Walk Away",
   artist: "artist/kelly-clarkson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

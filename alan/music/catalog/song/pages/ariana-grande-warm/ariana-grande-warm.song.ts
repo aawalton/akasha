@@ -14,7 +14,6 @@ export const arianaGrandeWarm = {
   ],
   title: "warm",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

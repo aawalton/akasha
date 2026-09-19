@@ -14,7 +14,6 @@ export const jamesTaylorWohDontYouKnow = {
   ],
   title: "Woh, Don't You Know",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

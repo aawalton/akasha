@@ -14,7 +14,6 @@ export const arianaGrandeOffTheTable = {
   ],
   title: "off the table",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

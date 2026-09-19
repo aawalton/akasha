@@ -14,7 +14,6 @@ export const auroraWavelengths = {
   ],
   title: "WAVELENGTHS",
   artist: "artist/aurora",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaAsrepOnosim = {
   ],
   title: "Asrep onosim",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

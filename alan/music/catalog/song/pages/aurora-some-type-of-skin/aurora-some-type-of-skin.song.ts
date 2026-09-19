@@ -14,7 +14,6 @@ export const auroraSomeTypeOfSkin = {
   ],
   title: "Some Type of Skin",
   artist: "artist/aurora",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

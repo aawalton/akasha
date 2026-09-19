@@ -14,7 +14,6 @@ export const arianaGrandeBadDecisions = {
   ],
   title: "Bad Decisions",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

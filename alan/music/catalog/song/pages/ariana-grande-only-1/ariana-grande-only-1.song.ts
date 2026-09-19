@@ -14,7 +14,6 @@ export const arianaGrandeOnly1 = {
   ],
   title: "Only 1",
   artist: "artist/ariana-grande",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

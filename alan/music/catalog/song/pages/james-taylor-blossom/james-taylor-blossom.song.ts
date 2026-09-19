@@ -14,7 +14,6 @@ export const jamesTaylorBlossom = {
   ],
   title: "Blossom",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

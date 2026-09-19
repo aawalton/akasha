@@ -14,7 +14,6 @@ export const jamesTaylorSunshineSunshine = {
   ],
   title: "Sunshine Sunshine",
   artist: "artist/james-taylor",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

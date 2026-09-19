@@ -14,7 +14,6 @@ export const mitskiValentineTexas = {
   ],
   title: "Valentine, Texas",
   artist: "artist/mitski",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",
