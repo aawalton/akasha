@@ -9,4 +9,5 @@ export const piscesDeifeuss = {
   firstChapter: 452,
   lastChapter: 452,
   characterClaims: "jsonl",
+  aliasOf: "world-character/pisces-jealnet",
 } as const satisfies WorldCharacter

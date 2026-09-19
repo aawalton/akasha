@@ -10,4 +10,5 @@ export const teres = {
   firstChapter: 177,
   lastChapter: 454,
   characterClaims: "jsonl",
+  aliasOf: "world-character/teresa-atwood",
 } as const satisfies WorldCharacter
