@@ -4,7 +4,7 @@ import { resolveGuildBankListState } from "akasha/temper/web/modules/guild-bank-
 const SETTLED_WITH_GUILD_BANKS = {
   isLoading: false,
   isError: false,
-  hasSnapshot: true,
+  hasReading: true,
   hasInventory: true,
   guildBankCount: 2,
 }
@@ -15,7 +15,7 @@ describe("resolveGuildBankListState", () => {
       resolveGuildBankListState({
         isLoading: true,
         isError: false,
-        hasSnapshot: false,
+        hasReading: false,
         hasInventory: false,
         guildBankCount: 0,
       })
@@ -28,7 +28,7 @@ describe("resolveGuildBankListState", () => {
         resolveGuildBankListState({
           isLoading: true,
           isError: false,
-          hasSnapshot: false,
+          hasReading: false,
           hasInventory,
           guildBankCount: 0,
         })
@@ -41,7 +41,7 @@ describe("resolveGuildBankListState", () => {
       resolveGuildBankListState({
         isLoading: false,
         isError: true,
-        hasSnapshot: false,
+        hasReading: false,
         hasInventory: false,
         guildBankCount: 0,
       })
@@ -53,7 +53,7 @@ describe("resolveGuildBankListState", () => {
       resolveGuildBankListState({
         isLoading: false,
         isError: false,
-        hasSnapshot: false,
+        hasReading: false,
         hasInventory: false,
         guildBankCount: 0,
       })
@@ -63,19 +63,19 @@ describe("resolveGuildBankListState", () => {
       resolveGuildBankListState({
         isLoading: false,
         isError: false,
-        hasSnapshot: true,
+        hasReading: true,
         hasInventory: true,
         guildBankCount: 0,
       })
     ).toBe("no-guild-banks")
   })
 
-  it("never claims nothing was received when a snapshot exists but would not reassemble", () => {
+  it("never claims nothing was received when a reading exists but would not reassemble", () => {
     expect(
       resolveGuildBankListState({
         isLoading: false,
         isError: false,
-        hasSnapshot: true,
+        hasReading: true,
         hasInventory: false,
         guildBankCount: 0,
       })

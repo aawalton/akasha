@@ -38,7 +38,7 @@ export function InventoryTab({ active }: InventoryTabProps) {
   const state = resolveGuildBankListState({
     isLoading,
     isError,
-    hasSnapshot: capturedAt !== null,
+    hasReading: capturedAt !== null,
     hasInventory: inventory !== null,
     guildBankCount: guildBanks.length,
   })
@@ -106,10 +106,10 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
             </EmptyMedia>
             <EmptyTitle>Your inventory data could not be read</EmptyTitle>
             <EmptyDescription>
-              Temper has an inventory snapshot for this account but could not reassemble it, so it
+              Temper has an inventory reading for this account but could not reassemble it, so it
               cannot tell which guild banks are in it. The data arrived — reading it is what failed,
               which is Temper's fault rather than your game's. A fresh sync will replace the
-              snapshot.
+              reading.
             </EmptyDescription>
           </EmptyHeader>
         </Empty>

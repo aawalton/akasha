@@ -9,14 +9,14 @@ export type GuildBankListState =
 export function resolveGuildBankListState(args: {
   isLoading: boolean
   isError: boolean
-  hasSnapshot: boolean
+  hasReading: boolean
   hasInventory: boolean
   guildBankCount: number
 }): GuildBankListState {
   if (args.isLoading) return "loading"
   if (args.isError) return "load-failed"
   if (!args.hasInventory) {
-    return args.hasSnapshot ? "data-unreadable" : "no-inventory-data"
+    return args.hasReading ? "data-unreadable" : "no-inventory-data"
   }
   if (args.guildBankCount === 0) return "no-guild-banks"
   return "ready"

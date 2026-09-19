@@ -5,7 +5,7 @@ import { temperInventoryReading } from "akasha/command/pages/temper/inventory/re
 
 const GIVEN: Given = {
   root: "/nowhere",
-  calledAs: "akasha temper inventory snapshot",
+  calledAs: "akasha temper inventory reading",
   from: "/nowhere",
   writer: null,
   agentId: null,

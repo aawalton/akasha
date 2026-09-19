@@ -60,7 +60,7 @@ export const temperInventoryPlan = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "The holdings are read from a stored snapshot rather than from the workstation.",
+      statement: "The holdings are read from a stored reading rather than from the workstation.",
     },
     {
       decisionKind: "decision-kind/departure",
