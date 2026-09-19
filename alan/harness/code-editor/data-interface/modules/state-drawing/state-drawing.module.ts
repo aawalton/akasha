@@ -29,6 +29,14 @@ export const stateDrawing = {
       statement: "A drawing that throws is said rather than thrown, and the landing goes on.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture the change cannot have moved is not drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change moving no picture casts no shadow.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },

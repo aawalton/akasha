@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts"}

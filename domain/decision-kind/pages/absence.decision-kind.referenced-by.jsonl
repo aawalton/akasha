@@ -276,6 +276,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.ts","id":"01a09ca3-cbe9-7489-b97b-135b73b4be8a"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.ts","id":"01a0789c-53c4-7eae-9e56-7aa7e07e6e06"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.ts","id":"01a07290-1f4c-7a63-9e21-58c0bd47e3f2"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.ts","id":"01a0ba7d-9193-7498-8bf2-4ba35684f91e"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/properties/state.file-property.ts","id":"01a07235-8d04-7c15-8c68-fc8181d908e4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts","id":"01a06826-92e5-77ad-ad85-f1aa8cb5d359"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.ts","id":"01a0a166-9b55-7421-ab40-928cc3618bd6"}

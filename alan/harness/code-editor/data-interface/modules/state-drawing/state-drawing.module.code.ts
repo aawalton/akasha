@@ -4,6 +4,14 @@ import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/mo
 import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { assembleGapTree } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
+import {
+  COMMAND_TREE,
+  DOMAIN_TREE,
+  FINDING_TREE,
+  GAP_TREE,
+  PAGE_TREE,
+  turnedIn,
+} from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
@@ -19,16 +27,6 @@ const INTERFACES_AT = "alan/harness/code-editor/data-interface/pages"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 
 const INTERFACE_TYPE = "code-editor-data-interface"
-
-const COMMAND_TREE = "command-tree"
-
-const DOMAIN_TREE = "domain-tree"
-
-const FINDING_TREE = "finding-tree"
-
-const GAP_TREE = "gap-tree"
-
-const PAGE_TREE = "page-tree"
 
 const NOT_DRAWN = "the editor's pictures of the pages were not drawn —"
 
@@ -200,12 +198,15 @@ const DRAWERS: readonly (readonly [string, Drawing])[] = [
 
 export function drawnFor(change: Change): Drawn {
   try {
+    const turned = turnedIn(change)
+    if (turned.size === 0) return NOTHING_DRAWN
     const cast = shadowFor(change)
     if ("refused" in cast) return NOTHING_DRAWN
     const root = change.root
     const reading = cast.reading
     const edits: FileChange[] = []
     for (const [slug, drawing] of DRAWERS) {
+      if (!turned.has(slug)) continue
       if (listedAt(reading, INTERFACE_TYPE, slug).length === 0) continue
       const path = stateAt(slug)
       const body = `${drawing(root, reading)}\n`

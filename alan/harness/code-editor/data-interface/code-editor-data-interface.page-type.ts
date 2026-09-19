@@ -32,6 +32,7 @@ export const codeEditorDataInterface = {
     "module/state-writing",
     "module/status-bar-composing",
     "module/tree-drawing",
+    "module/tree-turning",
     "number-property/cooldown-milliseconds",
     "service-workstation/code-editor-data-watcher",
     "type-declaration/tree-row",

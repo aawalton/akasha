@@ -521,6 +521,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/cost/modules/color/cost-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.ts"}

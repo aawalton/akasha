@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-selecting/sample-selecting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.test.ts"}
