@@ -16,8 +16,8 @@ import {
   type Naming,
   type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { theWanderingInn as wanderingInnRead } from "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts"
 import { theWanderingInn as wanderingInnWorld } from "akasha/story/world/pages/the-wandering-inn/the-wandering-inn.world.ts"
-import { theWanderingInn as wanderingInnRead } from "akasha/story/world/stories/read/pages/the-wandering-inn/the-wandering-inn.story-read.ts"
 import { storyRead } from "akasha/story/world/stories/read/story-read.page-type.ts"
 import { world } from "akasha/story/world/world.page-type.ts"
 
