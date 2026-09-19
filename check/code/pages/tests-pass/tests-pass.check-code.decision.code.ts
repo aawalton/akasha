@@ -150,7 +150,7 @@ function outputOf(ran: Ran, failing: readonly string[]): string {
 }
 
 function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
-  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(outputOf(ran, failing))}`
+  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(ran.output)}`
   if (failing.length === 0) return `${UNNAMED}\n\n${said}`
   const blamed = ran.summary.failed === 0 ? "errored" : "failed"
   return `${counted(failing.length)} ${blamed}:\n${failing.join("\n")}\n\n${said}`
