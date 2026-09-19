@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/chaislyn/chaislyn.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/clairo/clairo.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/coldplay/coldplay.artist.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/cynthia-erivo/cynthia-erivo.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/ejae/ejae.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/ella-henderson/ella-henderson.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/elvis-presley/elvis-presley.artist.ts"}
@@ -34,9 +35,11 @@
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/jada-facer/jada-facer.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/james-taylor/james-taylor.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/japanese-breakfast/japanese-breakfast.artist.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/jeff-goldblum/jeff-goldblum.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/jenna-raine/jenna-raine.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/jessica-baio/jessica-baio.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/jisoo/jisoo.artist.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/jonathan-bailey/jonathan-bailey.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/justin-timberlake/justin-timberlake.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/k-da/k-da.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/katy-perry/katy-perry.artist.ts"}
@@ -55,6 +58,7 @@
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/nsync/nsync.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/paul-cardall/paul-cardall.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/pentatonix/pentatonix.artist.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/peter-dinklage/peter-dinklage.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/phoebe-bridgers/phoebe-bridgers.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/renee-rapp/renee-rapp.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/rockapella/rockapella.artist.ts"}
@@ -67,9 +71,11 @@
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/the-holderness-family/the-holderness-family.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/the-piano-guys/the-piano-guys.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/the-tabernacle-choir-at-temple-square/the-tabernacle-choir-at-temple-square.artist.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/the-wicked-orchestra/the-wicked-orchestra.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/tom-lehrer/tom-lehrer.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/vinny-marchi/vinny-marchi.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/weird-al-yankovic/weird-al-yankovic.artist.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/wicked-movie-cast/wicked-movie-cast.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/yaelokre/yaelokre.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/zara-larsson/zara-larsson.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"}
