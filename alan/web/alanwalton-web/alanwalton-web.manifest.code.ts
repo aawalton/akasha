@@ -149,12 +149,6 @@ function webDeploymentYaml(): string {
                   valueFrom: { secretKeyRef: { name: SECRET_NAME, key: "JWT_SECRET" } },
                 },
                 {
-                  name: "STRIPE_WEBHOOK_SECRET",
-                  valueFrom: {
-                    secretKeyRef: { name: SECRET_NAME, key: "STRIPE_WEBHOOK_SECRET" },
-                  },
-                },
-                {
                   name: "SEAWEEDFS_S3_ENDPOINT",
                   value: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
                 },
