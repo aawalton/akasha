@@ -16,13 +16,16 @@ import {
 import {
   asking,
   assignedTo,
+  heldForEdits,
   LOG_AT,
+  leftWhereItIs,
   logPathOf,
   notWorking,
   seatNamedIn,
   stampedAt,
   startedIn,
   took,
+  tookUnder,
   WRITING,
   wrote,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
@@ -218,23 +221,29 @@ test("a page that is not there is taken away by doing nothing", async () => {
   })
 })
 
-test("a take-down moves what its subagent left onto the seat, and the page goes", async () => {
+test("a take-down takes a page with no edits waiting, moving refusals onto the seat", async () => {
   await underSeat(async (root) => {
     const at = await pageWritten(root)
-    writing(root, editsAt(at) ?? "", ROW)
     refusalsKept(root, at, [REFUSAL])
     expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
-    const kept = keptBySeat(root)
-    expect(kept.refusals).toBe(refusalsSaid(slugOf("akasha", OWN), REFUSAL))
-    const row = JSON.parse(kept.edits) as Record<string, unknown>
-    expect(row[LEFT_BY]).toBe(slugOf("akasha", OWN))
-    expect(typeof row[CARRIED_AT]).toBe("string")
-    expect(JSON.stringify({ kind: row.kind, path: row.path })).toBe(ROW.trim())
+    expect(keptBySeat(root).refusals).toBe(refusalsSaid(slugOf("akasha", OWN), REFUSAL))
   })
 })
 
-test("a take-down whose seat the index has no page for leaves edits waiting", async () => {
+test("a take-down leaves a page with edits waiting though the index files its seat", async () => {
+  await underSeat(async (root) => {
+    const at = await pageWritten(root)
+    writing(root, editsAt(at) ?? "", ROW)
+    expect(whyIn(await took(root, "akasha", OWN, [], LANDS, null, RETURNED))).toContain(
+      "edits waiting"
+    )
+    expect(existsSync(join(root, at))).toBe(true)
+    expect(keptBySeat(root)).toEqual(NOTHING_KEPT)
+  })
+})
+
+test("a take-down leaves edits waiting under a seat the index files no page for", async () => {
   await underSeat(async (root) => {
     const at = pageUnder(root, "thea")
     writing(root, editsAt(at) ?? "", ROW)
@@ -242,6 +251,31 @@ test("a take-down whose seat the index has no page for leaves edits waiting", as
       "edits waiting"
     )
     expect(existsSync(join(root, at))).toBe(true)
+  })
+})
+
+test("a page is held for its edits whether or not the index files its seat", async () => {
+  await underSeat(async (root) => {
+    const at = await pageWritten(root)
+    expect(heldForEdits(root, at)).toBe(null)
+    writing(root, editsAt(at) ?? "", ROW)
+    expect(heldForEdits(root, at) ?? "").toContain("edits waiting")
+    expect(leftWhereItIs(root, "akasha", at)).toBe(null)
+    expect(leftWhereItIs(root, "thea", at) ?? "").toContain("edits waiting")
+  })
+})
+
+test("a sweep takes a page with edits waiting, moving them onto the seat", async () => {
+  await underSeat(async (root) => {
+    const at = await pageWritten(root)
+    writing(root, editsAt(at) ?? "", ROW)
+    listedFiled(root, "subagent", slugOf("akasha", OWN), [{ path: at, id: AGENT }])
+    expect(await tookUnder(root, "akasha", "is gone", [], LANDS, RETURNED)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(false)
+    const row = JSON.parse(keptBySeat(root).edits) as Record<string, unknown>
+    expect(row[LEFT_BY]).toBe(slugOf("akasha", OWN))
+    expect(typeof row[CARRIED_AT]).toBe("string")
+    expect(JSON.stringify({ kind: row.kind, path: row.path })).toBe(ROW.trim())
   })
 })
 

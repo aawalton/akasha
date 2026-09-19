@@ -191,13 +191,11 @@ export const subagentPresence = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A take-down whose seat the index has no page for leaves a page with edits waiting where it is.",
+      statement: "A take-down leaves a page with edits waiting where it is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "That take-down takes a page with no edits waiting away as any other take-down does.",
+      statement: "A take-down takes a page with no edits waiting away.",
     },
     {
       decisionKind: "decision-kind/departure",

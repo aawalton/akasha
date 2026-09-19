@@ -68,7 +68,8 @@ export const subagent = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page goes whether or not the subagent left edits waiting beside it.",
+      statement:
+        "A take-down leaves a page with edits waiting beside it, and a sweep takes that page.",
     },
     {
       decisionKind: "decision-kind/departure",

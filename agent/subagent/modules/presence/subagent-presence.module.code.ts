@@ -209,8 +209,16 @@ export function leftWhereItIs(root: string, seatName: string, at: string): strin
   )
 }
 
+export function heldForEdits(root: string, at: string): string | null {
+  if (!editsWaiting(root, at)) return null
+  return (
+    `${at} has edits waiting that its take-down would move onto its seat, where the subagent` +
+    ` that wrote them could no longer revise them, so that page was left where it is`
+  )
+}
+
 function movingOff(root: string, seatName: string, at: string): Went {
-  const why = leftWhereItIs(root, seatName, at)
+  const why = heldForEdits(root, at)
   if (why !== null) return { why }
   const seat = seatPageIn(root, seatName)
   if (seat !== null) movedOnto(root, seat, at)
