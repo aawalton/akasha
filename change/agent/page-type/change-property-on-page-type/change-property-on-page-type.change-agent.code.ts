@@ -1,3 +1,5 @@
+import { changePropertyOnPageType as changePropertyOnPageTypeMechanical } from "akasha/change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -19,7 +21,8 @@ const TRUE = "true"
 
 const PAGE_TYPE = "page-type"
 
-const CHANGE_PROPERTY = "change-mechanical-page-type/change-property-on-page-type"
+const CHANGE_PROPERTY =
+  `${changeMechanicalPageType.slug}/${changePropertyOnPageTypeMechanical.slug}` as const
 
 export type ChangePropertyOnPageTypeAsked = {
   readonly at: string

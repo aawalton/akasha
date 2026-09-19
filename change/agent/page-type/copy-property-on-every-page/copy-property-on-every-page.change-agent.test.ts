@@ -3,6 +3,8 @@ import {
   copyPropertyOnEveryPage,
   runChange,
 } from "akasha/change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"
+import { copyPropertyOnEveryPage as copyPropertyOnEveryPageMechanical } from "akasha/change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { bodiesIn, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   listing,
@@ -215,5 +217,7 @@ test("the one change reached is the mechanical change acting on a page type", as
 
   await copyPropertyOnEveryPage(world, COPYING)
 
-  expect(seen).toEqual(["change-mechanical-page-type/copy-property-on-every-page"])
+  expect(seen).toEqual([
+    `${changeMechanicalPageType.slug}/${copyPropertyOnEveryPageMechanical.slug}`,
+  ])
 })

@@ -3,6 +3,8 @@ import {
   changePropertyOnPageType,
   runChange,
 } from "akasha/change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"
+import { changePropertyOnPageType as changePropertyOnPageTypeMechanical } from "akasha/change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -12,7 +14,7 @@ import {
 
 const ASKED = "the world was asked"
 
-const RUNG = "change-mechanical-page-type/change-property-on-page-type"
+const RUNG = `${changeMechanicalPageType.slug}/${changePropertyOnPageTypeMechanical.slug}` as const
 
 const A_TYPE = "alan/kept/kept-thing.page-type.ts"
 

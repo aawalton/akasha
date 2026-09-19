@@ -3,6 +3,8 @@ import {
   movePropertyOnEveryPage,
   runChange,
 } from "akasha/change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { movePropertyOnEveryPage as movePropertyOnEveryPageMechanical } from "akasha/change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.ts"
 import { bodiesIn, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { spelledAs } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import {
@@ -222,5 +224,7 @@ test("the one change reached is the mechanical change acting on a page type", as
 
   await movePropertyOnEveryPage(world, MOVING)
 
-  expect(seen).toEqual(["change-mechanical-page-type/move-property-on-every-page"])
+  expect(seen).toEqual([
+    `${changeMechanicalPageType.slug}/${movePropertyOnEveryPageMechanical.slug}`,
+  ])
 })

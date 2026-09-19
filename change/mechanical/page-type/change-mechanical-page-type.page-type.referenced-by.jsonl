@@ -10,6 +10,12 @@
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.types.ts","path":"change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.types.ts","path":"change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-page-type.page-type.types.ts","path":"change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.ts"}
