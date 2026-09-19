@@ -236,6 +236,14 @@ function constantsIn(source: ts.SourceFile, at: string): readonly ts.Identifier[
   return found
 }
 
+function typedIn(source: ts.SourceFile): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of source.statements) {
+    if (ts.isTypeAliasDeclaration(one) || ts.isInterfaceDeclaration(one)) found.add(one.name.text)
+  }
+  return found
+}
+
 function declaring(at: string): boolean {
   return at.endsWith(DECLARED)
 }
@@ -263,6 +271,7 @@ function stating(node: ts.Node): boolean {
 export function refusedIn(at: string, text: string, places: Places): readonly string[] {
   if (declaring(at)) return []
   const source = parsedAs(at, text)
+  const typed = typedIn(source)
   const found: string[] = []
   const take = (name: ts.Identifier, kind: string, placing: Placing): undefined => {
     const said = refusalAt(source, name, kind, placing)
@@ -277,6 +286,8 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   }
   const drawnIn = at.endsWith(DRAWN)
   const fixedHere = places.fixed.get(dirname(at))
+  const alsoAType = (name: ts.Identifier, holding: ts.Node | null): boolean =>
+    holding === null && typed.has(name.text)
   const taking = (
     name: ts.Identifier,
     held: ts.Node,
@@ -297,12 +308,12 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
-      taking(node.name, node, holding ?? source, node)
+      if (!alsoAType(node.name, holding)) taking(node.name, node, holding ?? source, node)
     }
     if (ts.isVariableDeclaration(node)) {
       const bound = node.initializer
       if (ts.isIdentifier(node.name) && bound !== undefined && boundToAFunction(node)) {
-        taking(node.name, bound, holding ?? source, node)
+        if (!alsoAType(node.name, holding)) taking(node.name, bound, holding ?? source, node)
       } else if (holding !== null && !ts.isCatchClause(node.parent)) {
         eachIn(node.name, holding)
       }
@@ -325,7 +336,7 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   }
   ts.forEachChild(source, (each) => walk(each, null))
   for (const one of constantsIn(source, at)) {
-    if (one.text === fixedHere) continue
+    if (one.text === fixedHere || typed.has(one.text)) continue
     take(one, "constant", places.constantIdentifier)
   }
   return found

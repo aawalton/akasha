@@ -184,6 +184,11 @@ export const identifierMatchesItsPlace = {
       decisionKind: "decision-kind/departure",
       statement: "The pages carrying `luaExport` are asked of the index rather than named here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name declared both as a type and as a value in the same file stands in the type's place.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

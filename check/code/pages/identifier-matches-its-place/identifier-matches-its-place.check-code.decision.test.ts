@@ -28,8 +28,9 @@ test("a type in upper camel case and a function in lower camel case are let thro
   expect(refusedIn(AT, body, PLACES)).toEqual([])
 })
 
-test("a type not in upper camel case is refused, naming the line and the format", () => {
-  const said = refusedIn(AT, "\nexport type pageEdge = string\n", PLACES)
+test("a type not in upper camel case is refused, and a value of that name is not", () => {
+  const body = "\nexport type pageEdge = string\nexport const pageEdge = 1\n"
+  const said = refusedIn(AT, body, PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
   expect(said[0]).toContain("the type `pageEdge`")
