@@ -6,4 +6,23 @@ export const hooksInventory = {
   slug: "hooks-inventory",
   definition: "one player's inventory and its prices, read for a browser",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account's inventory is the body of the data file beside that account's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The account is the one whose page is titled with the signed-in user.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One read serves every caller in the browser, and is held until the user changes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body that comes back as the file's ending is a fault rather than an empty inventory.",
+    },
+  ],
 } as const satisfies Module

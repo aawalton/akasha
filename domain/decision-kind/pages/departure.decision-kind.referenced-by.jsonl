@@ -5067,6 +5067,7 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts","id":"01a08ee1-1c98-7da2-b6af-8e53c812c8c5"}
 {"propertySlug":"decision-kind","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
+{"propertySlug":"decision-kind","path":"temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
 {"propertySlug":"decision-kind","path":"temper/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.ts","id":"01a0976a-31b2-7c40-9f5e-6b0d4a2e77c1"}
 {"propertySlug":"decision-kind","path":"temper/player-inventory-management-ui/modules/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.ts","id":"01a0636c-5da1-7d24-92b7-2d9551ec0065"}
 {"propertySlug":"decision-kind","path":"temper/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}

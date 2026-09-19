@@ -1,79 +1,104 @@
 "use client"
 
-import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
-import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
-import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
-import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
-import { assembleInventory } from "akasha/temper/items-core/modules/assemble-inventory/assemble-inventory.module.code.ts"
+import { listenerSet } from "akasha/design/interface/primitive/modules/listener-set/listener-set.module.code.ts"
+import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import { chunksStillLoading } from "akasha/temper/player-inventory-management-ui/modules/chunks-loading/chunks-loading.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
-import { useMemo } from "react"
+import { useEffect, useSyncExternalStore } from "react"
 
-const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
-const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
+const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
 
-interface InventorySnapshotRow {
-  id: string
-  capturedAt: string
-  totalValue: number
-  chunkCount: number
+const DATA = "data"
+
+const CAPTURED_AT = "capturedAt"
+
+const ENDING = "json"
+
+const DATA_UNREAD = `\`${DATA}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the account page, so the reading went unread.`
+
+interface Held {
+  readonly inventory: InventoryDatabase | null
+  readonly capturedAt: string | null
+  readonly isRead: boolean
+  readonly error: Error | null
 }
 
-function readNumber(value: unknown): number | undefined {
-  return parseNumber(value)
-}
+const UNREAD: Held = { inventory: null, capturedAt: null, isRead: false, error: null }
 
-function mapSnapshotRow(row: Record<string, unknown>): InventorySnapshotRow {
+const NOTHING_LANDED: Held = { inventory: null, capturedAt: null, isRead: true, error: null }
+
+async function readingOf(userId: string): Promise<Held> {
+  const asked = await askComposed({
+    "page-type": ACCOUNT_PAGE_TYPE_SLUG,
+    where: { title: { is: userId } },
+    keys: ["slug", CAPTURED_AT, DATA],
+    files: [DATA],
+  })
+  if (!asked.ok) throw new Error(asked.why)
+  const values = asked.answer.rows[0]?.values
+  if (values === undefined) return NOTHING_LANDED
+  const body = values[DATA]
+  if (body === undefined || body === "") return NOTHING_LANDED
+  if (typeof body !== "string") {
+    throw new Error(`\`${DATA}\` came back as a ${typeof body} rather than the file's body.`)
+  }
+  if (body === ENDING) throw new Error(DATA_UNREAD)
+  const capturedAt = values[CAPTURED_AT]
   return {
-    id: stringIn(row.id) ?? "",
-    capturedAt: stringIn(row.capturedAt) ?? "",
-    totalValue: readNumber(row.totalValue) ?? 0,
-    chunkCount: readNumber(row.chunkCount) ?? 0,
+    inventory: JSON.parse(body) as InventoryDatabase,
+    capturedAt: typeof capturedAt === "string" ? capturedAt : null,
+    isRead: true,
+    error: null,
   }
 }
 
+let heldFor: string | null = null
+let held: Held = UNREAD
+const readingListeners = listenerSet()
+
+function holdReading(next: Held): undefined {
+  held = next
+  readingListeners.tell()
+}
+
+function readHeld(): Held {
+  return held
+}
+
 export function useInventory(userId: string | null) {
-  const snapshotRead = usePages({
-    pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
-    where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
-        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
-    order: [{ by: "capturedAt", dir: "desc" }],
-    limit: 1,
-  })
-  const snapshot = snapshotRead.rows[0] ? mapSnapshotRow(snapshotRead.rows[0]) : null
+  const state = useSyncExternalStore(readingListeners.subscribe, readHeld, readHeld)
 
-  const chunksRead = usePages({
-    pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
-    where: snapshot
-      ? [{ key: "inventory", eq: snapshot.id }]
-      : [{ key: "inventory", eq: NEVER_MATCH_VALUE }],
-    order: [{ by: "chunkIndex", dir: "asc" }],
-    limit: 200,
-  })
-
-  const chunksLoading = chunksStillLoading({
-    readIsLoading: chunksRead.isLoading,
-    loadedCount: chunksRead.rows.length,
-    expectedCount: snapshot?.chunkCount ?? null,
-  })
-
-  const inventory = useMemo<InventoryDatabase | null>(() => {
-    if (!snapshot) return null
-    if (chunksLoading) return null
-    return assembleInventory(chunksRead.rows)
-  }, [snapshot, chunksLoading, chunksRead.rows])
+  useEffect(() => {
+    if (userId == null) {
+      heldFor = null
+      holdReading(UNREAD)
+      return
+    }
+    if (heldFor === userId) return
+    heldFor = userId
+    holdReading(UNREAD)
+    void (async () => {
+      try {
+        const reading = await readingOf(userId)
+        if (heldFor !== userId) return
+        holdReading(reading)
+      } catch (thrown) {
+        if (heldFor !== userId) return
+        holdReading({
+          inventory: null,
+          capturedAt: null,
+          isRead: false,
+          error: thrown instanceof Error ? thrown : new Error(String(thrown)),
+        })
+      }
+    })()
+  }, [userId])
 
   return {
-    inventory,
-    totalValue: snapshot?.totalValue ?? null,
-    capturedAt: snapshot?.capturedAt ?? null,
-    isLoading: snapshotRead.isLoading || (snapshot != null && chunksLoading),
-    isError: snapshotRead.error !== null,
-    error: snapshotRead.error,
-    retry: undefined,
+    inventory: state.inventory,
+    capturedAt: state.capturedAt,
+    isLoading: userId != null && !state.isRead && state.error === null,
+    isError: state.error !== null,
   }
 }
 

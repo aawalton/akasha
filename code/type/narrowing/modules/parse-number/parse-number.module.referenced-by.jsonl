@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}
