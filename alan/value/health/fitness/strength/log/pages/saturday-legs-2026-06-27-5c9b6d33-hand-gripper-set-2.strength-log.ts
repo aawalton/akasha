@@ -10,7 +10,6 @@ export const saturdayLegs202606275c9b6d33HandGripperSet2 = {
   note: "20 each hand, set 2",
   reps: 40,
   sessionSlug: "saturday-legs-2026-06-27-5c9b6d33",
-  setLogDate: "2026-06-27",
   day: "day/day-2026-06-27",
   setNumber: 2,
   weight: 10,

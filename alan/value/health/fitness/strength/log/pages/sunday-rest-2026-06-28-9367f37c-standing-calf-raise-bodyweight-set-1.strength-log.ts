@@ -11,7 +11,6 @@ export const sundayRest202606289367f37cStandingCalfRaiseBodyweightSet1 = {
   reps: 20,
   rpe: 2,
   sessionSlug: "sunday-rest-2026-06-28-9367f37c",
-  setLogDate: "2026-06-28",
   day: "day/day-2026-06-28",
   setNumber: 1,
   weight: 0,

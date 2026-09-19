@@ -11,7 +11,6 @@ export const fridayPull20260626105c11ffSeatedBentOverRearDeltRaiseSet1 = {
   reps: 15,
   rpe: 8,
   sessionSlug: "friday-pull-2026-06-26-105c11ff",
-  setLogDate: "2026-06-26",
   day: "day/day-2026-06-26",
   setNumber: 1,
   weight: 10,

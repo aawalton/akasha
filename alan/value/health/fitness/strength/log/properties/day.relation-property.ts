@@ -14,7 +14,8 @@ export const day = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The day named is the day the set's own date spells.",
+      statement:
+        "The day named is the only day a set has, and the instant says when inside that day.",
     },
   ],
   types: "ts",

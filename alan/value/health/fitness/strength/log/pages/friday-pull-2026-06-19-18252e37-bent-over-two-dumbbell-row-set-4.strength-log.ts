@@ -10,7 +10,6 @@ export const fridayPull2026061918252e37BentOverTwoDumbbellRowSet4 = {
   reps: 10,
   rpe: 8,
   sessionSlug: "friday-pull-2026-06-19-18252e37",
-  setLogDate: "2026-06-19",
   day: "day/day-2026-06-19",
   setNumber: 4,
   weight: 30,

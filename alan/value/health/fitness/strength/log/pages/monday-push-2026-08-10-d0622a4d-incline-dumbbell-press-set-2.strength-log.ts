@@ -10,7 +10,6 @@ export const mondayPush20260810D0622a4dInclineDumbbellPressSet2 = {
   reps: 20,
   rpe: 9,
   sessionSlug: "monday-push-2026-08-10-d0622a4d",
-  setLogDate: "2026-08-10",
   day: "day/day-2026-08-10",
   setNumber: 2,
   weight: 25,

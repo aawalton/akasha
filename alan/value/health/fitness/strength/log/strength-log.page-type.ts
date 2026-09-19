@@ -8,8 +8,8 @@ export const strengthLog = {
   extends: ["page-type/page"],
   parts: [
     "boolean-property/is-warmup",
-    "calendar-date-property/set-log-date",
     "computed-property/set-volume",
+    "instant-property/set-performed-at",
     "number-property/distance",
     "number-property/duration-seconds",
     "number-property/reps",
@@ -33,11 +33,11 @@ export const strengthLog = {
     { pageProperty: "number-property/reps", required: false, many: false },
     { pageProperty: "number-property/rpe", required: false, many: false },
     { pageProperty: "text-property/session-slug", required: true, many: false },
-    { pageProperty: "calendar-date-property/set-log-date", required: true, many: false },
     { pageProperty: "relation-property/day", required: true, many: false },
     { pageProperty: "number-property/set-number", required: true, many: false },
     { pageProperty: "number-property/weight", required: false, many: false },
     { pageProperty: "computed-property/set-volume", required: false, many: false },
+    { pageProperty: "instant-property/set-performed-at", required: false, many: false },
   ],
   decisions: [
     {
@@ -47,7 +47,7 @@ export const strengthLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set states the day that set was performed.",
+      statement: "A set states the instant Alan performed it, where that instant was recorded.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,7 +55,8 @@ export const strengthLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The day a set names is the day that set's own date spells.",
+      statement:
+        "A set logged before instants were kept states no instant, and names only its day.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -10,7 +10,6 @@ export const thursdayPush20260625Bc9bc790InclineDumbbellPressSet1 = {
   note: "45deg, ribs down/braced; muscle fatigue triceps to elbow, no joint pain. Target hit (was 8).",
   reps: 12,
   sessionSlug: "thursday-push-2026-06-25-bc9bc790",
-  setLogDate: "2026-06-25",
   day: "day/day-2026-06-25",
   setNumber: 1,
   weight: 25,

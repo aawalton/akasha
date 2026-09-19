@@ -11,7 +11,6 @@ export const thursdayPush20260625Bc9bc790SideLateralRaiseSet1 = {
   reps: 13,
   rpe: 8,
   sessionSlug: "thursday-push-2026-06-25-bc9bc790",
-  setLogDate: "2026-06-25",
   day: "day/day-2026-06-25",
   setNumber: 1,
   weight: 10,

@@ -10,7 +10,6 @@ export const wednesdayLegs20260624789253e9GobletSquatSet1 = {
   reps: 12,
   rpe: 3,
   sessionSlug: "wednesday-legs-2026-06-24-789253e9",
-  setLogDate: "2026-06-24",
   day: "day/day-2026-06-24",
   setNumber: 1,
   weight: 30,

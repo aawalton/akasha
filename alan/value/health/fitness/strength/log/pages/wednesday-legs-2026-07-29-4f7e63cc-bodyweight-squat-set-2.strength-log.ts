@@ -10,7 +10,6 @@ export const wednesdayLegs202607294f7e63ccBodyweightSquatSet2 = {
   reps: 48,
   rpe: 8,
   sessionSlug: "wednesday-legs-2026-07-29-4f7e63cc",
-  setLogDate: "2026-07-29",
   day: "day/day-2026-07-29",
   setNumber: 2,
 } as const satisfies StrengthLog

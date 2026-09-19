@@ -11,7 +11,6 @@ export const saturdayLegs2026062014b3a37bGobletReverseLungeSet1 = {
   reps: 20,
   rpe: 6,
   sessionSlug: "saturday-legs-2026-06-20-14b3a37b",
-  setLogDate: "2026-06-20",
   day: "day/day-2026-06-20",
   setNumber: 1,
   weight: 25,

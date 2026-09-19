@@ -10,7 +10,6 @@ export const wednesdayLegs2026062485078a04StandingCalfRaiseBodyweightSet3 = {
   note: "movement snack 12",
   reps: 25,
   sessionSlug: "wednesday-legs-2026-06-24-85078a04",
-  setLogDate: "2026-06-24",
   day: "day/day-2026-06-24",
   setNumber: 3,
 } as const satisfies StrengthLog

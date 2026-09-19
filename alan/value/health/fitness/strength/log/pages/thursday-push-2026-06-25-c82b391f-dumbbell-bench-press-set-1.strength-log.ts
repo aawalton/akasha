@@ -11,7 +11,6 @@ export const thursdayPush20260625C82b391fDumbbellBenchPressSet1 = {
   reps: 20,
   rpe: 9,
   sessionSlug: "thursday-push-2026-06-25-c82b391f",
-  setLogDate: "2026-06-25",
   day: "day/day-2026-06-25",
   setNumber: 1,
   weight: 30,

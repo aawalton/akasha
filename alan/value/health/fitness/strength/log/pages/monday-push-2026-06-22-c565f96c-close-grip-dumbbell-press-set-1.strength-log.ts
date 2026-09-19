@@ -10,7 +10,6 @@ export const mondayPush20260622C565f96cCloseGripDumbbellPressSet1 = {
   note: "triceps finisher; elbows tucked, lying flat (low-back safe); clean",
   reps: 12,
   sessionSlug: "monday-push-2026-06-22-c565f96c",
-  setLogDate: "2026-06-22",
   day: "day/day-2026-06-22",
   setNumber: 1,
   weight: 20,

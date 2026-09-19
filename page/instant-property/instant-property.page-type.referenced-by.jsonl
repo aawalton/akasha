@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/location-trace/properties/trace-captured-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-completed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-last-completed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-performed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"infrastructure/service/properties/deploy-ended-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"infrastructure/service/properties/deploy-refused-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/looked-at.instant-property.ts"}
