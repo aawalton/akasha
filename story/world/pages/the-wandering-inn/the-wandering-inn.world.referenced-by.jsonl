@@ -6074,12 +6074,6 @@
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/yodelling-lieutenant/yodelling-lieutenant.world-class.ts","id":"01a0657e-0272-7750-84e7-9ed57166e14b"}
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/young-hunter/young-hunter.world-class.ts","id":"01a06586-0a85-7f34-8f9e-21bbf1b74824"}
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/z-v-na/z-v-na.world-class.ts","id":"01a0657e-0272-7b57-84a4-1fde25335894"}
-{"propertySlug":"world","path":"story/world/mechanics/curses/pages/blood-of-enemies-boil/blood-of-enemies-boil.world-curse.ts","id":"01a0655a-0687-72d9-aa10-461adb309f61"}
-{"propertySlug":"world","path":"story/world/mechanics/curses/pages/curse-of-the-dunce/curse-of-the-dunce.world-curse.ts","id":"01a0655a-0687-7f80-92f7-7ecf0eb31fff"}
-{"propertySlug":"world","path":"story/world/mechanics/curses/pages/helpful-servant-s-smile/helpful-servant-s-smile.world-curse.ts","id":"01a0655a-0687-72cd-8749-da6001290f06"}
-{"propertySlug":"world","path":"story/world/mechanics/curses/pages/stinging-warts/stinging-warts.world-curse.ts","id":"01a0655a-0687-7244-b030-6683332b13df"}
-{"propertySlug":"world","path":"story/world/mechanics/curses/pages/the-synectic-haze/the-synectic-haze.world-curse.ts","id":"01a0655a-0687-7c8f-8e08-053de530425c"}
-{"propertySlug":"world","path":"story/world/mechanics/curses/pages/vitality-of-the-undead/vitality-of-the-undead.world-curse.ts","id":"01a0655a-0687-74e3-bfef-c7e957e4c917"}
 {"propertySlug":"world","path":"story/world/mechanics/enchantments/pages/appraisal/appraisal.world-enchantment.ts","id":"01a0655a-7b7b-779c-9310-0b0bbadde5e9"}
 {"propertySlug":"world","path":"story/world/mechanics/enchantments/pages/bloodletter/bloodletter.world-enchantment.ts","id":"01a0655a-7b7b-705b-84fb-257e641470f7"}
 {"propertySlug":"world","path":"story/world/mechanics/enchantments/pages/durability/durability.world-enchantment.ts","id":"01a0655a-7b7b-7dbd-afa9-24bc9931dca0"}
@@ -12710,4 +12704,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/conditions/vow-of-poverty.world-condition.ts","id":"01a0655a-7b7b-7c82-a354-d2a6d9d10891"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/conditions/wordless-thing.world-condition.ts","id":"01a0655a-7b7b-782a-a0a0-4c34419adae7"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/conditions/words-of-disgrace.world-condition.ts","id":"01a0655a-7b7b-77c9-af25-098b54cc8f33"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/curses/blood-of-enemies-boil.world-curse.ts","id":"01a0655a-0687-72d9-aa10-461adb309f61"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/curses/curse-of-the-dunce.world-curse.ts","id":"01a0655a-0687-7f80-92f7-7ecf0eb31fff"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/curses/helpful-servant-s-smile.world-curse.ts","id":"01a0655a-0687-72cd-8749-da6001290f06"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/curses/stinging-warts.world-curse.ts","id":"01a0655a-0687-7244-b030-6683332b13df"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/curses/the-synectic-haze.world-curse.ts","id":"01a0655a-0687-7c8f-8e08-053de530425c"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/curses/vitality-of-the-undead.world-curse.ts","id":"01a0655a-0687-74e3-bfef-c7e957e4c917"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}
