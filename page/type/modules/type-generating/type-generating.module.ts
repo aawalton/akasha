@@ -58,6 +58,15 @@ export const typeGenerating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body equal to what is already there is left out before the formatter is asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every body the formatter is asked about goes in one run rather than one run each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A file that is not there yet is answered as an addition rather than a replacement.",
     },

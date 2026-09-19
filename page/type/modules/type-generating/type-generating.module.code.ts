@@ -5,7 +5,7 @@ import {
   heldOver,
 } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
+import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import {
   readingIn,
   valuesOfType,
@@ -76,14 +76,40 @@ function writtenBy(generating: Generating, change: Change, shadow: Shadow): Answ
   }
 }
 
+type Kept = {
+  readonly path: string
+  readonly slug: string
+  readonly body: Uint8Array
+  readonly was: string | null
+}
+
+function writtenOver(root: string, kept: readonly Kept[]): Typed {
+  if (kept.length === 0) return NOTHING_TYPED
+  const decoder = new TextDecoder()
+  const done = formattedBodies(root, new Map(kept.map((one) => [one.path, one.body])))
+  const edits: (Adding | Replacing)[] = []
+  const said: string[] = []
+  for (const one of kept) {
+    const made = done.get(one.path)
+    const now = decoder.decode(made === undefined ? one.body : made.body)
+    if (one.was === now) continue
+    edits.push(
+      one.was === null
+        ? { kind: "add", path: one.path, content: now }
+        : { kind: "replace", path: one.path, contentFrom: one.was, contentTo: now }
+    )
+    said.push(`\`${one.path}\` was written again by the generator \`${one.slug}\` states`)
+  }
+  return { edits, said }
+}
+
 export function typedOver(
   change: Change,
   shadow: Shadow,
   reaching: Reaching = generatingIn
 ): Typed {
-  const edits: (Adding | Replacing)[] = []
   const said: string[] = []
-  const decoder = new TextDecoder()
+  const kept: Kept[] = []
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(listed.path)
     if (value === null) continue
@@ -113,19 +139,13 @@ export function typedOver(
       continue
     }
     for (const one of answered.written) {
-      const body = BYTES.encode(one.content)
-      const now = decoder.decode(formattedBody(change.root, one.path, body).body)
       const was = textOf(change.after(one.path))
-      if (was === now) continue
-      edits.push(
-        was === null
-          ? { kind: "add", path: one.path, content: now }
-          : { kind: "replace", path: one.path, contentFrom: was, contentTo: now }
-      )
-      said.push(`\`${one.path}\` was written again by the generator \`${slug}\` states`)
+      if (was === one.content) continue
+      kept.push({ path: one.path, slug, body: BYTES.encode(one.content), was })
     }
   }
-  return { edits, said }
+  const written = writtenOver(change.root, kept)
+  return { edits: written.edits, said: [...said, ...written.said] }
 }
 
 function askedOf(change: Change, reaching: Reaching, path: string): boolean {
