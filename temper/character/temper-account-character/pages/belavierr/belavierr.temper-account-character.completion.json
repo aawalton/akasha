@@ -1064,7 +1064,7 @@
         "criteria": {
           "1": {
             "numRequired": 30,
-            "numCompleted": 23
+            "numCompleted": 24
           }
         },
         "completedSteps": 0,
@@ -13429,8 +13429,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-15",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-15"
   },
   "dailyWritStates": {
     "completed": {
@@ -13451,7 +13451,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-16"
+    "date": "2026-09-18"
   },
   "motifKnowledge": {
     "2": {
