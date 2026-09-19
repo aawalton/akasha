@@ -104,12 +104,15 @@ function ordering(one: Entry, two: Entry): number {
   return a < b ? -1 : a > b ? 1 : 0
 }
 
-function madeFrom(root: string, every: readonly Entry[]): string {
-  const body = [...every]
+function bodyOf(every: readonly Entry[]): string {
+  return [...every]
     .sort(ordering)
     .map((one) => `${one.mode} ${one.kind} ${one.oid}\t${one.name}\n`)
     .join("")
-  return gitIn(root, ["mktree"], { stdin: bytesOf(body) }).trim()
+}
+
+function madeFrom(root: string, every: readonly Entry[]): string {
+  return gitIn(root, ["mktree"], { stdin: bytesOf(bodyOf(every)) }).trim()
 }
 
 function nodeOf(put: ReadonlyMap<string, string | null>): Node {
@@ -133,31 +136,71 @@ function nodeOf(put: ReadonlyMap<string, string | null>): Node {
   return top
 }
 
-function treeFrom(
-  root: string,
+type Made = { readonly at: string; readonly node: Node }
+
+function leveledIn(node: Node, at: string, depth: number, found: Map<number, Made[]>): undefined {
+  const held = found.get(depth)
+  if (held === undefined) found.set(depth, [{ at, node }])
+  else held.push({ at, node })
+  for (const [name, sub] of node.dirs) leveledIn(sub, `${at}${name}/`, depth + 1, found)
+}
+
+function entriesFor(
   listed: ReadonlyMap<string, readonly Entry[]>,
-  node: Node,
-  modes: ReadonlyMap<string, string>,
-  at: string
-): string | null {
+  made: ReadonlyMap<string, string | null>,
+  one: Made,
+  modes: ReadonlyMap<string, string>
+): readonly Entry[] {
   const by = new Map<string, Entry>()
-  for (const one of listed.get(at) ?? []) by.set(one.name, one)
-  for (const [name, sub] of node.dirs) {
-    const made = treeFrom(root, listed, sub, modes, `${at}${name}/`)
-    if (made === null) by.delete(name)
-    else by.set(name, { mode: TREE_MODE, kind: TREE, oid: made, name })
+  for (const each of listed.get(one.at) ?? []) by.set(each.name, each)
+  for (const name of one.node.dirs.keys()) {
+    const oid = made.get(`${one.at}${name}/`) ?? null
+    if (oid === null) by.delete(name)
+    else by.set(name, { mode: TREE_MODE, kind: TREE, oid, name })
   }
-  for (const [name, oid] of node.files) {
+  for (const [name, oid] of one.node.files) {
     if (oid === null) {
       by.delete(name)
       continue
     }
     const there = by.get(name)
-    const mode = modes.get(`${at}${name}`) ?? there?.mode ?? FILE_MODE
+    const mode = modes.get(`${one.at}${name}`) ?? there?.mode ?? FILE_MODE
     by.set(name, { mode, kind: BLOB, oid, name })
   }
-  const every = [...by.values()]
-  return every.length === 0 ? null : madeFrom(root, every)
+  return [...by.values()]
+}
+
+function treesFrom(
+  root: string,
+  listed: ReadonlyMap<string, readonly Entry[]>,
+  node: Node,
+  modes: ReadonlyMap<string, string>
+): string | null {
+  const levels = new Map<number, Made[]>()
+  leveledIn(node, "", 0, levels)
+  const made = new Map<string, string | null>()
+  for (const depth of [...levels.keys()].sort((one, two) => two - one)) {
+    const bodies: string[] = []
+    const asked: Made[] = []
+    for (const one of levels.get(depth) ?? []) {
+      const every = entriesFor(listed, made, one, modes)
+      if (every.length === 0) {
+        made.set(one.at, null)
+        continue
+      }
+      bodies.push(bodyOf(every))
+      asked.push(one)
+    }
+    if (asked.length === 0) continue
+    const said = gitIn(root, ["mktree", "--batch"], { stdin: bytesOf(bodies.join("\n")) })
+      .trim()
+      .split("\n")
+    if (said.length !== asked.length) {
+      throw new Error(`git made ${said.length} of the ${asked.length} trees this commit needs`)
+    }
+    asked.forEach((one, at) => made.set(one.at, said[at] ?? null))
+  }
+  return made.get("") ?? null
 }
 
 function modesIn(root: string, head: string, paths: readonly string[]): Map<string, string> {
@@ -246,8 +289,16 @@ function identifying(writer: string): readonly string[] {
   return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
 }
 
-function blobOf(root: string, body: Uint8Array): string {
-  return gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: body }).trim()
+function blobsOf(root: string, paths: readonly string[]): readonly string[] {
+  if (paths.length === 0) return []
+  const said = gitIn(root, ["hash-object", "-w", "--no-filters", "--stdin-paths"], {
+    stdin: bytesOf(`${paths.join("\n")}\n`),
+  })
+  const held = said.trim().split("\n")
+  if (held.length !== paths.length) {
+    throw new Error(`git hashed ${held.length} of the ${paths.length} files this commit writes`)
+  }
+  return held
 }
 
 export type Staging = { run: (() => undefined) | null }
@@ -265,12 +316,14 @@ export function committed(
   const was = gitIn(root, ["rev-parse", `${head}^{tree}`]).trim()
   const modes = modesFor(root, head, [...wrote.keys()], took)
   const put = new Map<string, string | null>()
-  for (const [path, body] of wrote) put.set(path, blobOf(root, body))
+  const named = [...wrote.keys()]
+  const oids = blobsOf(root, named)
+  named.forEach((path, at) => put.set(path, oids[at] ?? null))
   for (const one of took) put.set(one, null)
   const node = nodeOf(put)
   const dirs: string[] = []
   dirsIn(node, "", dirs)
-  const tree = treeFrom(root, listedIn(root, was, dirs), node, modes, "") ?? madeFrom(root, [])
+  const tree = treesFrom(root, listedIn(root, was, dirs), node, modes) ?? madeFrom(root, [])
   if (tree === was) return null
   const writing = writer ?? AUTHOR
   const made = gitIn(root, [

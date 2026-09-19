@@ -55,6 +55,18 @@ export const committing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every file a commit writes is hashed in one call rather than each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file is hashed from the body on disk rather than from the bytes handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The trees at one depth are made in one call, deepest first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The git index is written after the branch moves.",
     },
     {
