@@ -8,6 +8,7 @@ export const ulinde = {
   world: "world/the-wandering-inn",
   maxLevel: 28,
   eventCount: 3,
-  firstChapter: 506,
-  lastChapter: 506,
+  firstChapter: 374,
+  lastChapter: 786,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

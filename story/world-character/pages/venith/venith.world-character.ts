@@ -1,0 +1,12 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const venith = {
+  id: "01a0b70d-8e11-795f-baa9-fdd700cc4160",
+  type: "page-type/world-character",
+  slug: "venith",
+  title: "Venith",
+  world: "world/the-wandering-inn",
+  firstChapter: 178,
+  lastChapter: 182,
+  characterClaims: "jsonl",
+} as const satisfies WorldCharacter

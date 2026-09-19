@@ -10,4 +10,5 @@ export const vernoueDuMarquin = {
   eventCount: 4,
   firstChapter: 774,
   lastChapter: 774,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

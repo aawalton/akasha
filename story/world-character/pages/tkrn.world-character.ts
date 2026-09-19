@@ -8,6 +8,7 @@ export const tkrn = {
   world: "world/the-wandering-inn",
   maxLevel: 21,
   eventCount: 6,
-  firstChapter: 566,
-  lastChapter: 566,
+  firstChapter: 49,
+  lastChapter: 711,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

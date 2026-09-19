@@ -9,5 +9,6 @@ export const vandum = {
   maxLevel: 50,
   eventCount: 4,
   firstChapter: 636,
-  lastChapter: 636,
+  lastChapter: 671,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -8,6 +8,7 @@ export const typhenous = {
   world: "world/the-wandering-inn",
   maxLevel: 28,
   eventCount: 2,
-  firstChapter: 506,
-  lastChapter: 506,
+  firstChapter: 94,
+  lastChapter: 791,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

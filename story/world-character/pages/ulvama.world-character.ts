@@ -8,6 +8,7 @@ export const ulvama = {
   world: "world/the-wandering-inn",
   maxLevel: 39,
   eventCount: 10,
-  firstChapter: 532,
+  firstChapter: 154,
   lastChapter: 805,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -9,5 +9,6 @@ export const vess = {
   maxLevel: 12,
   eventCount: 4,
   firstChapter: 562,
-  lastChapter: 562,
+  lastChapter: 747,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
