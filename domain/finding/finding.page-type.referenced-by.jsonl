@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-command-stopped-at-its-ceiling-is-killed-before-its-cleanup-runs.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-compaction-costs-twenty-six-pages-re-read-before-a-change-lands.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well-because-it-can-never-reach-failed.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-cut-away-capability-leaves-a-throwing-stub-that-typechecks-at-every-call-site.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-deploy-places-every-secret-its-manifests-demand.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-deploy-that-refuses-is-judged-over-more-the-next-time.finding.ts"}
