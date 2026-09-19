@@ -1,6 +1,3 @@
-{"propertySlug":"argument","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.ts","id":"01a09408-da19-7177-908e-7197c74583a4"}
-{"propertySlug":"argument","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.ts","id":"01a09408-3c21-76b5-9bca-08ff2b3e3716"}
-{"propertySlug":"argument","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.ts","id":"01a09408-a1a1-7e96-9e19-38cfb6a5715e"}
 {"propertySlug":"argument","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
 {"propertySlug":"argument","path":"command/pages/music/fold-songs/music-fold-songs.command.ts","id":"01a0b7c9-4e11-7a26-9f03-8b41d0e5c772"}
 {"propertySlug":"argument","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
@@ -15,9 +12,6 @@
 {"propertySlug":"argument","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/argument/modules/naming/argument-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts"}
-{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts"}
-{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}

@@ -17,10 +17,6 @@ export const serviceUnitAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run names the unit systemd would be asked about and asks nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A systemctl that refuses makes the call refuse.",
     },
     {

@@ -34,11 +34,3 @@ test("a slug no page carries is the caller's mistake", () => {
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("no-such-service-is-here")
 })
-
-test("a dry run names the unit systemd would be asked about and asks nothing", () => {
-  const answer = infrastructureServiceStop(["page-service", "--dry-run"], HERE)
-  expect(answer.code).toBe(0)
-  expect(answer.refusals).toEqual([])
-  expect(answer.report[0]).toBe("stop\tpage-service.service")
-  expect(answer.report[answer.report.length - 1]).toContain("dry-run")
-})

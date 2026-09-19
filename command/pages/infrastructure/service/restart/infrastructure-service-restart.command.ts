@@ -26,8 +26,5 @@ export const infrastructureServiceRestart = {
       statement: "Nothing here is installed for the whole machine.",
     },
   ],
-  arguments: [
-    { argument: "argument/dry-run" },
-    { argument: "argument/workstation-service", required: true, saidAs: "word" },
-  ],
+  arguments: [{ argument: "argument/workstation-service", required: true, saidAs: "word" }],
 } as const satisfies Command
