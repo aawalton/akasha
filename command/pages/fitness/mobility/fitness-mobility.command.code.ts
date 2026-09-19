@@ -103,7 +103,8 @@ export function saidOf(ways: readonly Way[]): readonly string[] {
     if (said.length > 0) said.push("")
     said.push(one.side === NO_SIDE ? one.metric : `${one.metric} (${one.side})`)
     const many = one.readings === 1 ? "reading" : "readings"
-    said.push(`  ${String(one.readings)} ${many}, ${one.from} to ${one.to}`)
+    const span = one.from === one.to ? one.from : `${one.from} to ${one.to}`
+    said.push(`  ${String(one.readings)} ${many}, ${span}`)
     said.push(sayingOf(one))
   }
   return said
