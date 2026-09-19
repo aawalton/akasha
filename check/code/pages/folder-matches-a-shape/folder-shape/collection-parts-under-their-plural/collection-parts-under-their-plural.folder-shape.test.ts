@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
+import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
+import { myStrategy } from "akasha/alan/book/pages/my-strategy/my-strategy.alan-book.ts"
 import {
   folderFrom,
   gatheringFrom,
@@ -10,7 +13,9 @@ const ABOVE = "akasha/alan/book/my-strategy"
 
 const FOLDER = `${ABOVE}/sections`
 
-const BOOK = "alan-book/my-strategy"
+const BOOK = `${alanBook.slug}/${myStrategy.slug}` as const
+
+const MATH = `${alanBook.slug}/${myMath.slug}` as const
 
 const PAGE_TYPES = new Set<string>(["alan-book", "book", "book-section"])
 
@@ -76,7 +81,7 @@ test("a page gathered under another name is refused", () => {
 
 test("a section naming another collection is refused", () => {
   const held = over({
-    partOf: (page) => (page.slug === "two" ? ["alan-book/my-math"] : [BOOK]),
+    partOf: (page) => (page.slug === "two" ? [MATH] : [BOOK]),
   })
   const said = collectionPartsUnderTheirPlural(held(["one.book-section.ts", "two.book-section.ts"]))
   expect(said).toHaveLength(1)

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { onCall } from "akasha/agent/seat/properties/on-call.boolean-property.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import {
   folderFrom,
@@ -7,6 +8,7 @@ import {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { partsUnderTheirPlural } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.code.ts"
+import { booleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const FOLDER = "akasha/checks/modules"
@@ -93,7 +95,7 @@ function propertied(parts: (page: { readonly path: string }) => readonly string[
     extending,
     gathered,
     parts,
-    declared: () => new Set<string>(["boolean-property/on-call"]),
+    declared: () => new Set<string>([`${booleanProperty.slug}/${onCall.slug}`]),
   })(["on-call.boolean-property.ts", "on-call.boolean-property.types.ts"])
 }
 

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { modelAsking } from "akasha/agent/model/modules/asking/model-asking.module.ts"
 import {
   folderFrom,
   gatheringFrom,
@@ -10,6 +11,9 @@ import type {
   Declaring,
   Standing,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
+import { temper } from "akasha/temper/temper.domain.ts"
 
 const FOLDER = "akasha/models"
 
@@ -17,7 +21,7 @@ const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat"])
 
 const TYPES = new Set<string>(["page-type"])
 
-const DECLARED = new Set<string>(["page-type/model-humming", "module/model-asking"])
+const DECLARED = new Set<string>(["page-type/model-humming", `${module.slug}/${modelAsking.slug}`])
 
 const DECLARING: Declaring = { slug: "model", propertySlugs: new Set<string>() }
 
@@ -137,7 +141,7 @@ test("a folder named the page type's slug with every name above it taken off tak
     extending: TYPING,
     naming: () => ({ name: "catalog-skill" }),
     holds: holdsFrom({
-      "akasha/temper": ["domain/temper"],
+      "akasha/temper": [`${domain.slug}/${temper.slug}`],
       "akasha/temper/catalog": ["page-type/temper-catalog"],
     }),
   })

@@ -9,6 +9,8 @@ import type {
   Standing,
   Wanted,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
+import { temper } from "akasha/temper/temper.domain.ts"
 
 const FOLDER = "akasha/code-checks"
 
@@ -67,7 +69,7 @@ test("a folder named its page's slug with every name above it taken off takes th
     pageTypes: PAGE_TYPES,
     naming: () => ({ name: "catalog-skill" }),
     holds: holdsFrom({
-      "akasha/temper": ["domain/temper"],
+      "akasha/temper": [`${domain.slug}/${temper.slug}`],
       "akasha/temper/catalog": ["page-type/temper-catalog"],
     }),
   })

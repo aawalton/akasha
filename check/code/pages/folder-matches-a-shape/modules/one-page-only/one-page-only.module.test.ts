@@ -6,6 +6,8 @@ import {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { namedAsAsked } from "akasha/check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
+import { temper } from "akasha/temper/temper.domain.ts"
 
 const PAGE_TYPES = new Set<string>(["page-type", "domain", "module"])
 
@@ -32,7 +34,7 @@ test("a folder the page above names nothing for is named as asked", () => {
 })
 
 const ABOVE = holdsFrom({
-  "akasha/temper": ["domain/temper"],
+  "akasha/temper": [`${domain.slug}/${temper.slug}`],
   "akasha/temper/catalog": ["page-type/temper-catalog"],
 })
 
