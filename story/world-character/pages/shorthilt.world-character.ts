@@ -8,6 +8,7 @@ export const shorthilt = {
   world: "world/the-wandering-inn",
   maxLevel: 24,
   eventCount: 2,
-  firstChapter: 283,
-  lastChapter: 283,
+  firstChapter: 146,
+  lastChapter: 627,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

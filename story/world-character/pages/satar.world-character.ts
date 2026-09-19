@@ -9,5 +9,6 @@ export const satar = {
   maxLevel: 25,
   eventCount: 10,
   firstChapter: 564,
-  lastChapter: 565,
+  lastChapter: 807,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

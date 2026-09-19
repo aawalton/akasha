@@ -10,4 +10,5 @@ export const spy = {
   eventCount: 6,
   firstChapter: 654,
   lastChapter: 654,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

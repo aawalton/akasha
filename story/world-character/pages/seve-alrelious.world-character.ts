@@ -8,6 +8,7 @@ export const seveAlrelious = {
   world: "world/the-wandering-inn",
   maxLevel: 46,
   eventCount: 3,
-  firstChapter: 652,
-  lastChapter: 652,
+  firstChapter: 456,
+  lastChapter: 698,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

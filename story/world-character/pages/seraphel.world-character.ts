@@ -8,6 +8,7 @@ export const seraphel = {
   world: "world/the-wandering-inn",
   maxLevel: 35,
   eventCount: 3,
-  firstChapter: 795,
+  firstChapter: 512,
   lastChapter: 795,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

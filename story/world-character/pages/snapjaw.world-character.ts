@@ -8,6 +8,7 @@ export const snapjaw = {
   world: "world/the-wandering-inn",
   maxLevel: 31,
   eventCount: 7,
-  firstChapter: 532,
-  lastChapter: 532,
+  firstChapter: 232,
+  lastChapter: 718,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

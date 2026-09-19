@@ -1,0 +1,12 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const thePrincess = {
+  id: "01a0b70d-205c-7bcc-8af2-fa44d754ad87",
+  type: "page-type/world-character",
+  slug: "the-princess",
+  title: "the creature in the night",
+  world: "world/the-wandering-inn",
+  firstChapter: 90,
+  lastChapter: 90,
+  characterClaims: "jsonl",
+} as const satisfies WorldCharacter

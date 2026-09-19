@@ -10,4 +10,5 @@ export const theophilus = {
   eventCount: 9,
   firstChapter: 562,
   lastChapter: 562,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
