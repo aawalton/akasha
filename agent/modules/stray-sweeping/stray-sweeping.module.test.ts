@@ -25,9 +25,9 @@ const ACTING = `${SEAT}--a05867e64f733ddec`
 
 const OTHER = `${SEAT}--b17968f54e844fe21`
 
-const TIMES: TimesOf = () => ({ ranMs: 4_200_000, burnedMs: 4_140_000 })
+const times: TimesOf = () => ({ ranMs: 4_200_000, burnedMs: 4_140_000 })
 
-const NOWHERE: TimesOf = () => null
+const nowhere: TimesOf = () => null
 
 const STAT = "7 (bash) S 1 7 7 0 -1 4194304 100 0 0 0 300 60 0 0 20 0 1 0 999"
 
@@ -38,13 +38,13 @@ function entry(pid: number, ppid: number, cmdline: string, acting?: string): Pro
 }
 
 test("a line names the process, its subagent, its times and its command line", () => {
-  expect(lineOf({ pid: 2749479, actingAgentId: ACTING, cmdline: "sleep 900" }, TIMES)).toBe(
+  expect(lineOf({ pid: 2749479, actingAgentId: ACTING, cmdline: "sleep 900" }, times)).toBe(
     `2749479  ${ACTING}  ran 1:10:00  burned 1:09:00  sleep 900`
   )
 })
 
 test("a process whose times will not be read is named with its times left unsaid", () => {
-  expect(lineOf(SHELL, NOWHERE)).toContain("ran ?  burned ?")
+  expect(lineOf(SHELL, nowhere)).toContain("ran ?  burned ?")
 })
 
 test("a span is said in hours, minutes and seconds", () => {
@@ -94,7 +94,7 @@ test("a sweep ends the processes the reading named and their descendants and not
       entry(12, 1, "bun run other.ts", OTHER),
     ],
     () => Promise.resolve({ strays: [SHELL], unread: [] }),
-    TIMES,
+    times,
     (pids) => {
       asked.push([...pids])
       return Promise.resolve(undefined)
@@ -128,7 +128,7 @@ test("a sweep that read every subagent and found no stray signals nothing and sa
   const swept = await sweptOnce(
     () => [],
     () => Promise.resolve({ strays: [], unread: [] }),
-    TIMES,
+    times,
     () => {
       asked += 1
       return Promise.resolve(undefined)
@@ -143,7 +143,7 @@ test("a sweep that could read no subagent says so rather than passing for a clea
   const swept = await sweptOnce(
     () => [],
     () => Promise.resolve({ strays: [], unread: [ACTING] }),
-    TIMES,
+    times,
     () => Promise.resolve(undefined)
   )
 

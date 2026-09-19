@@ -6,22 +6,22 @@ import {
   presenceStated,
 } from "akasha/agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.code.ts"
 
-const ALWAYS_GONE = (): SeatPresence => "absent"
+const alwaysGone = (): SeatPresence => "absent"
 
-const ALWAYS_THERE = (): SeatPresence => "present"
+const alwaysThere = (): SeatPresence => "present"
 
-const ALWAYS_UNKNOWN = (): SeatPresence => "unknown"
+const alwaysUnknown = (): SeatPresence => "unknown"
 
 test("a seat whose process is gone is named", () => {
-  expect(agentsWithNoOne([["one", "10-20"]], ALWAYS_GONE)).toEqual(["one"])
+  expect(agentsWithNoOne([["one", "10-20"]], alwaysGone)).toEqual(["one"])
 })
 
 test("a seat whose process is there is not named", () => {
-  expect(agentsWithNoOne([["one", "10-20"]], ALWAYS_THERE)).toEqual([])
+  expect(agentsWithNoOne([["one", "10-20"]], alwaysThere)).toEqual([])
 })
 
 test("a seat whose process cannot be read is not named", () => {
-  expect(agentsWithNoOne([["one", "10-20"]], ALWAYS_UNKNOWN)).toEqual([])
+  expect(agentsWithNoOne([["one", "10-20"]], alwaysUnknown)).toEqual([])
 })
 
 test("a seat stating no process is not named", () => {
@@ -31,7 +31,7 @@ test("a seat stating no process is not named", () => {
         ["one", null],
         ["two", ""],
       ],
-      ALWAYS_GONE
+      alwaysGone
     )
   ).toEqual([])
 })
