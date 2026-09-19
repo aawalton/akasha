@@ -1,8 +1,10 @@
 import type { SetVolume } from "akasha/alan/value/health/fitness/strength/log/properties/set-volume.computed-property.types.ts"
 import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/strength-log.page-type.types.ts"
 import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { person } from "akasha/person/person.page-type.ts"
 
-const LIFTER = "person/alan"
+const LIFTER = `${person.slug}/${alan.slug}` as const
 
 type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
 
