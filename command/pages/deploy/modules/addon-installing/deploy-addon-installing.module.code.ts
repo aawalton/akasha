@@ -1,5 +1,4 @@
 import { dirname, join } from "node:path"
-import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   answeredWith,
   DATA,
@@ -8,27 +7,14 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
-import {
-  bundlePathFor,
-  compiledAddon,
-} from "akasha/temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"
+import { compiledAddon } from "akasha/temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"
 import { placedAddon } from "akasha/temper/addon-build/modules/addon-placing/addon-placing.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { addonsDir } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-
-function goingTo(): string {
-  try {
-    return addonsDir()
-  } catch (thrown) {
-    return `nowhere this machine answers for — ${saidBy(thrown)}`
-  }
-}
 
 export async function putUpAddon(
   codeAt: string,
   slug: string,
   pagePath: string,
-  dryRun: boolean,
   up: string[] = []
 ): Promise<Answer> {
   const under = dirname(pagePath)
@@ -41,13 +27,6 @@ export async function putUpAddon(
     )
   }
   const name = found.canonicalName
-  if (dryRun) {
-    return told([
-      `${slug} would be compiled from ${under} to ${bundlePathFor(codeAt, name)}`,
-      `and placed as ${name} in ${goingTo()}`,
-    ])
-  }
-
   const report: string[] = []
   const compiled = await compiledAddon(codeAt, dir, name)
   report.push(...compiled.lines)

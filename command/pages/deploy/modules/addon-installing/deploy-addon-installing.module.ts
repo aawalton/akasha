@@ -33,10 +33,6 @@ export const deployAddonInstalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run says where the addon is built from and what it is placed as.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "What the compile said is answered beside what the placing said.",
     },
     {
