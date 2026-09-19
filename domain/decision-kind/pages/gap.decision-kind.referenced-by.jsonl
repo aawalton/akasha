@@ -108,6 +108,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/code-editor.domain.ts","id":"01a0658a-e55d-7059-8f58-e3521a432370"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.ts","id":"01a07266-d474-7296-bd8e-10c7667fe6b6"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.ts","id":"01a0ba96-7fb2-7a7e-b5a5-3d48da0d7bc4"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.ts","id":"01a0bab3-6aea-7212-b459-11f2ce2dc7b7"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.ts","id":"01a05c77-31e6-7a9f-9805-d1c81725dd03"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/email-inbound.domain.ts","id":"01a05bcd-25e2-7b0c-aff6-314192c66a72"}
