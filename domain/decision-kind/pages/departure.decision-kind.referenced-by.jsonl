@@ -5150,7 +5150,6 @@
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-7/skyshards-part-7.module.ts","id":"01a061a8-9c69-75a2-b7b3-9f86f9d709aa"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-8/skyshards-part-8.module.ts","id":"01a061a8-9c69-769d-b065-e5762fce5d41"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-9/skyshards-part-9.module.ts","id":"01a061a8-9c6a-7345-8144-0e0b6adb0bc0"}
-{"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-ui-strings/skyshards-ui-strings.module.ts","id":"01a061a8-9c6d-78ec-a73e-8cbbac148296"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.ts","id":"01a061a8-9c6c-77af-ab8d-fc301a1713ff"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

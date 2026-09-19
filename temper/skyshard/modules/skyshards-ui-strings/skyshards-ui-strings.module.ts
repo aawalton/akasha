@@ -6,10 +6,5 @@ export const skyshardsUiStrings = {
   slug: "skyshards-ui-strings",
   definition: "the English text this add-on adds to the game's table of strings",
   code: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The text here is English alone.",
-    },
-  ],
+  decisions: [],
 } as const satisfies Module
