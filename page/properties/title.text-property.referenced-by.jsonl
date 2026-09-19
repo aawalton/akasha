@@ -91,9 +91,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/chapter-played/story-chapter-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/chapter-read/story-chapter-read.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/chapter-written/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world-mechanic/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
@@ -102,8 +100,10 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/designs/story-design.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/world.page-type.types.ts"}
@@ -204,9 +204,7 @@
 {"propertySlug":"page-property","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"page-property","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
 {"propertySlug":"page-property","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
-{"propertySlug":"page-property","path":"story/chapter-played/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
 {"propertySlug":"page-property","path":"story/chapter-read/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
-{"propertySlug":"page-property","path":"story/chapter-written/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"page-property","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"page-property","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
@@ -215,8 +213,10 @@
 {"propertySlug":"page-property","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"page-property","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"page-property","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
 {"propertySlug":"page-property","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"page-property","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
+{"propertySlug":"page-property","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"page-property","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"page-property","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"page-property","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

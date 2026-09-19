@@ -3194,7 +3194,6 @@
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.ts","id":"01a0824d-0956-7e7c-8f1c-271aa57e00a8"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.ts","id":"01a07c5d-9ae4-79ac-8807-7f63c08e44df"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts","id":"01a08bee-4262-784b-b397-8a5a0ad37433"}
-{"propertySlug":"decision-kind","path":"story/chapter-played/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/anchor-claimed-by.text-property.ts","id":"01a0685e-ef8a-79db-8377-e5f878c0cb0c"}
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/anchor-lexeme.text-property.ts","id":"01a0685e-ef8a-7012-99bf-937f4b87f963"}
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/anchor-reference.text-property.ts","id":"01a0685e-ef8a-76f9-a66e-01a05c60c791"}
@@ -3204,10 +3203,6 @@
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/marked-read-at.instant-property.ts","id":"01a06860-cb0c-7346-bb65-3d5bb4069535"}
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/removed-at.instant-property.ts","id":"01a06554-d8bd-779b-9fbf-e9e8e3127e1f"}
 {"propertySlug":"decision-kind","path":"story/chapter-read/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
-{"propertySlug":"decision-kind","path":"story/chapter-written/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
-{"propertySlug":"decision-kind","path":"story/element-played/properties/element-kind.select-property.ts","id":"01a06828-cb97-7ee3-9578-4a81ad1884a6"}
-{"propertySlug":"decision-kind","path":"story/element-played/properties/turn-states.file-property.ts","id":"01a06828-cb99-70d4-bcad-c28091bb8c4c"}
-{"propertySlug":"decision-kind","path":"story/element-played/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/audit-record-schema/audit-record-schema.module.ts","id":"01a05b71-e543-7988-b1b1-86b89ad98708"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/entity-schema/entity-schema.module.ts","id":"01a05b71-e543-79e4-8728-cee11630d9ab"}
@@ -3227,7 +3222,6 @@
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
-{"propertySlug":"decision-kind","path":"story/turn-played/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"decision-kind","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.ts","id":"01a0686c-fd2c-7001-b7a4-465b147c2a2c"}
 {"propertySlug":"decision-kind","path":"story/wandering-inn/modules/chapter/chapter.module.ts","id":"01a06578-5721-7001-b6e6-cb205ab28c07"}
 {"propertySlug":"decision-kind","path":"story/wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
@@ -3258,6 +3252,10 @@
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-readings.page-property-entry.ts","id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-kind.select-property.ts","id":"01a063ce-6216-7005-95f1-cc6876e8a107"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-slug.text-property.ts","id":"01a063ce-6216-7003-82e9-30fd6cf9ebfc"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/elements/properties/element-kind.select-property.ts","id":"01a06828-cb97-7ee3-9578-4a81ad1884a6"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts","id":"01a06828-cb99-70d4-bcad-c28091bb8c4c"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-panels/played-panels.module.ts","id":"01a0a163-2e7c-7f18-9a60-4d82b5e1c03f"}
@@ -3266,6 +3264,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.ts","id":"01a0a114-1db7-7ff6-a448-374b26986286"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.ts","id":"01a0a114-877c-70bd-a3d0-f5d9ac5fe26e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.ts","id":"01a0a10a-d1f9-7c13-b526-33d95a14d7dc"}
@@ -3273,6 +3272,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/properties/external-tags.text-property.ts","id":"01a06554-d8bd-7dd9-bc8b-f7015c1af16c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/properties/publication-status.select-property.ts","id":"01a06554-d8bd-750b-95f4-3b810f2c4875"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"decision-kind","path":"story/world/wiki-entries/properties/wiki-kind.select-property.ts","id":"01a06577-f385-7cda-a112-1e8887344a93"}
 {"propertySlug":"decision-kind","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}

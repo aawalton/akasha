@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const theDungeonOfOneThousandDeaths0008TheLens = {
+  id: "01a064b4-9ec8-7799-a2fc-0af091fce2a5",
+  type: "page-type/story-chapter-played",
+  slug: "the-dungeon-of-one-thousand-deaths-0008-the-lens",
+  title: "The Lens",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
+  position: 8,
+  ownLength: 4406,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

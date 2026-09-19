@@ -1,0 +1,13 @@
+import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
+
+export const haremHotel00012 = {
+  id: "01a064bd-7cc9-71ab-9bcb-0c69081a2e7b",
+  type: "page-type/story-turn-played",
+  slug: "harem-hotel-00-012",
+  partOfCollections: ["story-played/harem-hotel"],
+  position: 12,
+  ownLength: 648,
+  unit: "unit/words",
+  publishedAt: "2026-07-13T12:13:46.808Z",
+  prose: "txt",
+} as const satisfies StoryTurnPlayed

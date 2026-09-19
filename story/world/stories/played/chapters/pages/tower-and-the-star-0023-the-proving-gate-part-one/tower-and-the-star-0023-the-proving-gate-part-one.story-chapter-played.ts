@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const towerAndTheStar0023TheProvingGatePartOne = {
+  id: "01a064b4-9ec8-7fa6-aaee-cef1bafd1441",
+  type: "page-type/story-chapter-played",
+  slug: "tower-and-the-star-0023-the-proving-gate-part-one",
+  title: "The Proving Gate (Part One)",
+  story: "story-played/tower-and-the-star",
+  position: 23,
+  ownLength: 2950,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

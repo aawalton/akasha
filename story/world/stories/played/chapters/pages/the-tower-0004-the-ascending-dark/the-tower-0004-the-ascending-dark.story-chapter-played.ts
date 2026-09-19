@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const theTower0004TheAscendingDark = {
+  id: "01a064b4-9ec8-7a24-a6d2-a7f7354bc224",
+  type: "page-type/story-chapter-played",
+  slug: "the-tower-0004-the-ascending-dark",
+  title: "The Ascending Dark",
+  story: "story-played/the-tower",
+  position: 4,
+  ownLength: 6047,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

@@ -114,7 +114,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/mobile-wallpaper.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/element-played/properties/turn-states.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/gate-dimensions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/policies.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/sheet-template.file-property.ts"}
@@ -136,6 +135,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/turns.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/properties/prose.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-account/properties/data.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-player/properties/settings.file-property.ts"}

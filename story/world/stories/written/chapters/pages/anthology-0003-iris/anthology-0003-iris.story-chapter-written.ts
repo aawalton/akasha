@@ -1,0 +1,13 @@
+import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
+
+export const anthology0003Iris = {
+  id: "01a06599-c380-70a6-af8b-35dc312b1259",
+  type: "page-type/story-chapter-written",
+  slug: "anthology-0003-iris",
+  title: "Iris",
+  story: "story-written/anthology",
+  position: 3,
+  ownLength: 4157,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterWritten

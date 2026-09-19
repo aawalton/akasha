@@ -1,0 +1,13 @@
+import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
+
+export const partners01006 = {
+  id: "01a064bd-7ccb-7190-80cc-f3d3586a631c",
+  type: "page-type/story-turn-played",
+  slug: "partners-01-006",
+  partOfCollections: ["story-played/partners"],
+  position: 6,
+  ownLength: 720,
+  unit: "unit/words",
+  publishedAt: "2026-07-08T23:49:12.145Z",
+  prose: "txt",
+} as const satisfies StoryTurnPlayed

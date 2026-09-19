@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const theDungeonOfOneThousandDeaths0013TheRoute = {
+  id: "01a064b4-9ec8-7ba2-b67f-acb02775f856",
+  type: "page-type/story-chapter-played",
+  slug: "the-dungeon-of-one-thousand-deaths-0013-the-route",
+  title: "The Route",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
+  position: 13,
+  ownLength: 4119,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

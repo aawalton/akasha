@@ -2,6 +2,7 @@
 {"definition":"a story written here"}
 {"extends":["page-type/collection"]}
 {"id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
+{"parts":["page-type/story-chapter-written"]}
 {"pluralSlug":"stories"}
 {"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false}]}
 {"runsTabooCheck":false}

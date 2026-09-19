@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const towerAndTheStar0032Section31 = {
+  id: "01a064b4-9ec8-7a4a-9d78-c7252b3beab5",
+  type: "page-type/story-chapter-played",
+  slug: "tower-and-the-star-0032-section-31",
+  title: "Section 31",
+  story: "story-played/tower-and-the-star",
+  position: 32,
+  ownLength: 2573,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

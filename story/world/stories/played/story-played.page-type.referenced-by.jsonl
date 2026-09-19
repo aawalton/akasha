@@ -13,5 +13,5 @@
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/stories/played/pages/the-violet-hour/the-violet-hour.story-played.ts"}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/stories/played/pages/tower-and-the-star/tower-and-the-star.story-played.ts"}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
-{"propertySlug":"target-page-type","path":"story/chapter-played/properties/played-chapter-story.relation-property.ts","id":"01a08421-9d1c-792e-b906-be0d553df679"}
-{"propertySlug":"target-page-type","path":"story/element-played/properties/played-story.relation-property.ts","id":"01a06828-cb98-7a8f-a4fb-4b2676ab5c61"}
+{"propertySlug":"target-page-type","path":"story/world/stories/played/chapters/properties/played-chapter-story.relation-property.ts","id":"01a08421-9d1c-792e-b906-be0d553df679"}
+{"propertySlug":"target-page-type","path":"story/world/stories/played/elements/properties/played-story.relation-property.ts","id":"01a06828-cb98-7a8f-a4fb-4b2676ab5c61"}

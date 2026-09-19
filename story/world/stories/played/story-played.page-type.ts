@@ -22,6 +22,9 @@ export const storyPlayed = {
     "module/played-rows",
     "module/played-shell",
     "module/prose-beside",
+    "page-type/story-chapter-played",
+    "page-type/story-element-played",
+    "page-type/story-turn-played",
     "relation-property/world",
   ],
   properties: [

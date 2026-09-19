@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const theDungeonOfOneThousandDeaths0005TheTerminalBuilder = {
+  id: "01a064b4-9ec8-734d-aabc-1ea9180cd512",
+  type: "page-type/story-chapter-played",
+  slug: "the-dungeon-of-one-thousand-deaths-0005-the-terminal-builder",
+  title: "The Terminal Builder",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
+  position: 5,
+  ownLength: 3264,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

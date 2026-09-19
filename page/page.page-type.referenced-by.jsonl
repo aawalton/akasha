@@ -99,7 +99,6 @@
 {"propertySlug":"extends-type","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts","id":"019e2701-19cb-71d9-a820-bddf28cec176"}
 {"propertySlug":"extends-type","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
 {"propertySlug":"extends-type","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
-{"propertySlug":"extends-type","path":"story/element-played/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"propertySlug":"extends-type","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
 {"propertySlug":"extends-type","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"extends-type","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
@@ -108,6 +107,7 @@
 {"propertySlug":"extends-type","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"extends-type","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"extends-type","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"extends-type","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"propertySlug":"extends-type","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"extends-type","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"extends-type","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
@@ -238,7 +238,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/element-played/story-element-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world-mechanic/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
@@ -247,6 +246,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/designs/story-design.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/named-events/named-event.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/stories/played/elements/story-element-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/world.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}

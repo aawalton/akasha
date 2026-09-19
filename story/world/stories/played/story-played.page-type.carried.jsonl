@@ -3,7 +3,7 @@
 {"detailConfig":{"header":{"showCover":true,"fields":[]}}}
 {"extends":["page-type/collection"]}
 {"id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
-{"parts":["file-property/prose","module/game-beside","module/played-channel","module/played-panels","module/played-rows","module/played-shell","module/prose-beside","relation-property/world"]}
+{"parts":["file-property/prose","module/game-beside","module/played-channel","module/played-panels","module/played-rows","module/played-shell","module/prose-beside","page-type/story-chapter-played","page-type/story-element-played","page-type/story-turn-played","relation-property/world"]}
 {"pluralSlug":"stories"}
 {"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false}]}
 {"runsTabooCheck":false}

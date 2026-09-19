@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const towerAndTheStar0006TheBossOfFloor8 = {
+  id: "01a064b4-9ec8-722d-89b1-480242017f51",
+  type: "page-type/story-chapter-played",
+  slug: "tower-and-the-star-0006-the-boss-of-floor-8",
+  title: "The Boss of Floor 8",
+  story: "story-played/tower-and-the-star",
+  position: 6,
+  ownLength: 6544,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed

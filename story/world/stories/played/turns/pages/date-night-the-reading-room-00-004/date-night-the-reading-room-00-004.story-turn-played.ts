@@ -1,0 +1,12 @@
+import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
+
+export const dateNightTheReadingRoom00004 = {
+  id: "01a064bd-7cc6-7a8d-90fc-c524a6777749",
+  type: "page-type/story-turn-played",
+  slug: "date-night-the-reading-room-00-004",
+  partOfCollections: ["story-played/date-night-the-reading-room"],
+  position: 4,
+  unit: "unit/words",
+  publishedAt: "2026-07-11T14:59:11.355Z",
+  prose: "txt",
+} as const satisfies StoryTurnPlayed

@@ -8,6 +8,7 @@ export const storyWritten = {
   pluralSlug: "stories",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
+  parts: ["page-type/story-chapter-written"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },

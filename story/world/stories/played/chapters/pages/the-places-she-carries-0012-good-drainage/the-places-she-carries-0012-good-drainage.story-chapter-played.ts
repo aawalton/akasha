@@ -1,0 +1,13 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const thePlacesSheCarries0012GoodDrainage = {
+  id: "01a064b4-9ec8-746e-b0f1-0ec0e772bcc4",
+  type: "page-type/story-chapter-played",
+  slug: "the-places-she-carries-0012-good-drainage",
+  title: "Good Drainage",
+  story: "story-played/the-places-she-carries",
+  position: 12,
+  ownLength: 4114,
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryChapterPlayed
