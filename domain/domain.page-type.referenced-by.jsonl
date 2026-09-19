@@ -529,6 +529,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/kofi/kofi.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/product.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/smilingjenny/smilingjenny.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/wandering-inn-wiki/wandering-inn-wiki.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/core/story-engine-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/story-engine.domain.ts"}

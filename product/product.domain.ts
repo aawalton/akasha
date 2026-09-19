@@ -11,5 +11,6 @@ export const product = {
     "domain/kofi",
     "domain/product-game",
     "domain/smilingjenny",
+    "domain/wandering-inn-wiki",
   ],
 } as const satisfies Domain
