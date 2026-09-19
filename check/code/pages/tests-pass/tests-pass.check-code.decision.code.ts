@@ -213,7 +213,7 @@ function costsKept(root: string, each: readonly Spent[]): undefined {
 const NESTED =
   "no test ran: this landing was made from inside a test run, which `AKASHA_TESTS_RUNNING` says is going, so the tests beside the files this change carries were not run and nothing says whether they pass."
 
-export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
+export async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Judged[]> {
   const change = holdingOver(given)
   const named = namedIn(change)
   const first = named[0]
@@ -221,11 +221,11 @@ export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
   if (alreadyRunning()) return [{ path: first, reason: NESTED }]
   const bodies = bodiesOf(change, shadow)
   if (measuring()) {
-    const each = spentOver(change.root, named, bodies)
+    const each = await spentOver(change.root, named, bodies)
     costsKept(change.root, each)
     return [{ path: first, reason: spentlyOf(each) }]
   }
-  const found = ranOver(change.root, named, named.length, null, bodies)
+  const found = await ranOver(change.root, named, named.length, null, bodies)
   costsKept(change.root, found.spent)
   if (found.verdict === "pass") return []
   const said = {

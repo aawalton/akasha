@@ -3,11 +3,15 @@ import { dirname, join, relative } from "node:path"
 import { test as testFile } from "akasha/code/module/properties/test.code-file-property.ts"
 import {
   type Bodies,
+  type Lane,
   mountedOver,
   type Overlay,
 } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import type { Said } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import {
+  processorsHere,
+  ranAwaited,
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
@@ -67,6 +71,8 @@ export const RUNNING = "AKASHA_TESTS_RUNNING"
 export const MEASURING = "AKASHA_TESTS_MEASURING"
 
 export const CEILING = testFile.maxCpuSeconds
+
+const ALONE = 1
 
 const MEMORY = testFile.maxMemoryMb
 
@@ -259,9 +265,9 @@ function wholeOf(name: string): string {
   return `^${name.replace(SPECIAL, "\\$&")}$`
 }
 
-function rootsOver(over: Overlay): Readonly<Record<string, string>> {
+function rootsOver(lane: Lane): Readonly<Record<string, string>> {
   const at = rootsHere()
-  const held: Record<string, string> = { [rootEnvName(AKASHA)]: over.merged }
+  const held: Record<string, string> = { [rootEnvName(AKASHA)]: lane.merged }
   for (const repo of repos()) {
     if (repo === AKASHA) continue
     const root = at[repo]
@@ -270,10 +276,14 @@ function rootsOver(over: Overlay): Readonly<Record<string, string>> {
   return held
 }
 
-function runsIn(root: string, argv: readonly string[], over: Overlay | null): Said {
-  const env = over === null ? process.env : { ...process.env, ...over.env, ...rootsOver(over) }
-  const called = over === null ? [...argv] : [...over.under(argv)]
-  return ran(called, { cwd: root, env: { ...env, [RUNNING]: MARK }, memoryCeiling: MEMORY })
+async function runsIn(root: string, argv: readonly string[], lane: Lane | null): Promise<Said> {
+  const env = lane === null ? process.env : { ...process.env, ...lane.env, ...rootsOver(lane) }
+  const called = lane === null ? [...argv] : [...lane.under(argv)]
+  return await ranAwaited(called, {
+    cwd: root,
+    env: { ...env, [RUNNING]: MARK },
+    memoryCeiling: MEMORY,
+  })
 }
 
 function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
@@ -281,21 +291,47 @@ function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
   return grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
 }
 
-function spentIn(
-  root: string,
-  runs: readonly Grouping[],
-  naming: readonly string[],
-  over: Overlay | null = null
-): readonly Spent[] {
-  const found: Spent[] = []
+type Called = {
+  readonly path: string
+  readonly argv: readonly string[]
+}
+
+function calledIn(runs: readonly Grouping[], naming: readonly string[]): readonly Called[] {
+  const held: Called[] = []
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
-      const argv = [RUNNER, RUNS, ...preloading, ...naming, pathed(one)]
+      held.push({ path: one, argv: [RUNNER, RUNS, ...preloading, ...naming, pathed(one)] })
+    }
+  }
+  return held
+}
+
+function atOnceHere(): number {
+  return processorsHere() ?? ALONE
+}
+
+async function spentIn(
+  root: string,
+  runs: readonly Grouping[],
+  naming: readonly string[],
+  over: Overlay | null = null,
+  atOnce: number = atOnceHere()
+): Promise<readonly Spent[]> {
+  const calls = calledIn(runs, naming)
+  const found: Spent[] = []
+  let next = 0
+  const turn = async (which: number): Promise<undefined> => {
+    const lane = over === null ? null : over.lane(which)
+    for (;;) {
+      const mine = next
+      next += 1
+      const call = calls[mine]
+      if (call === undefined) return
       const began = Date.now()
-      const done = runsIn(root, argv, over)
-      found.push({
-        path: one,
+      const done = await runsIn(root, call.argv, lane)
+      found[mine] = {
+        path: call.path,
         ranAt: new Date(began).toISOString(),
         wallMs: Date.now() - began,
         cpuSeconds: done.cpuSeconds,
@@ -304,9 +340,13 @@ function spentIn(
         signal: done.signal,
         code: done.code,
         out: `${done.out}${done.err}`,
-      })
+      }
     }
   }
+  const turns: Promise<undefined>[] = []
+  const lanes = Math.max(ALONE, Math.min(atOnce, calls.length))
+  for (let which = 0; which < lanes; which += 1) turns.push(turn(which))
+  await Promise.all(turns)
   return found
 }
 
@@ -320,28 +360,28 @@ export function judgedAs(said: Verdict, over: number): Verdict {
   return over > 0 ? "slow" : said
 }
 
-export function spentOver(
+export async function spentOver(
   root: string,
   named: readonly string[],
   bodies: Bodies | null = null
-): readonly Spent[] {
+): Promise<readonly Spent[]> {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return spentIn(root, runsFor(root, named), [], over)
+    return await spentIn(root, runsFor(root, named), [], over)
   } finally {
     over?.sweep()
   }
 }
 
-function ranUnder(
+async function ranUnder(
   root: string,
   named: readonly string[],
   expected: number,
   name: string | null,
   over: Overlay | null
-): Ran {
+): Promise<Ran> {
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
-  const each = spentIn(root, runsFor(root, named), naming, over)
+  const each = await spentIn(root, runsFor(root, named), naming, over)
   let code = 0
   let signal: string | null = null
   let output = ""
@@ -371,16 +411,16 @@ function ranUnder(
   }
 }
 
-export function ranOver(
+export async function ranOver(
   root: string,
   named: readonly string[],
   expected: number,
   name: string | null = null,
   bodies: Bodies | null = null
-): Ran {
+): Promise<Ran> {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return ranUnder(root, named, expected, name, over)
+    return await ranUnder(root, named, expected, name, over)
   } finally {
     over?.sweep()
   }

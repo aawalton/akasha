@@ -27,10 +27,13 @@ function checkout(): string {
   return at
 }
 
+const FIRST = 0
+
 function inside(root: string, bodies: Bodies, argv: readonly string[]): Said {
   const over = mountedOver(root, bodies)
   try {
-    return ran(over.under(argv), { cwd: root, env: { ...process.env, ...over.env } })
+    const lane = over.lane(FIRST)
+    return ran(lane.under(argv), { cwd: root, env: { ...process.env, ...lane.env } })
   } finally {
     over.sweep()
   }
@@ -101,8 +104,9 @@ test("a run begins in the mounted tree rather than in the checkout", () => {
   const root = checkout()
   const over = mountedOver(root, {})
   try {
-    const said = ran(over.under(["pwd"]), { cwd: root, env: { ...process.env, ...over.env } })
-    expect(said.out.trim()).toBe(over.merged)
+    const lane = over.lane(FIRST)
+    const said = ran(lane.under(["pwd"]), { cwd: root, env: { ...process.env, ...lane.env } })
+    expect(said.out.trim()).toBe(lane.merged)
   } finally {
     over.sweep()
   }
@@ -111,11 +115,12 @@ test("a run begins in the mounted tree rather than in the checkout", () => {
 test("a run under a mount has a home of its own, and the sweep takes that home away", () => {
   const root = checkout()
   const over = mountedOver(root, {})
-  const homed = String(over.env.HOME)
+  const lane = over.lane(FIRST)
+  const homed = String(lane.env.HOME)
   try {
-    const said = ran(over.under(["sh", "-c", 'printf %s "$HOME"']), {
+    const said = ran(lane.under(["sh", "-c", 'printf %s "$HOME"']), {
       cwd: root,
-      env: { ...process.env, ...over.env },
+      env: { ...process.env, ...lane.env },
     })
     expect(said.out).toBe(homed)
     expect(homed).not.toBe(process.env.HOME)
@@ -125,12 +130,53 @@ test("a run under a mount has a home of its own, and the sweep takes that home a
   expect(ran(["test", "-e", homed]).code).not.toBe(0)
 })
 
+const SECOND = 1
+
+test("a lane asked for again is the lane made before", () => {
+  const over = mountedOver(checkout(), {})
+  try {
+    expect(over.lane(FIRST)).toBe(over.lane(FIRST))
+  } finally {
+    over.sweep()
+  }
+})
+
+test("two lanes write nowhere in common, so two mounts share no work folder", () => {
+  const over = mountedOver(checkout(), {})
+  try {
+    const one = over.lane(FIRST)
+    const two = over.lane(SECOND)
+    expect(one.env.AKASHA_WORK).not.toBe(two.env.AKASHA_WORK)
+    expect(one.env.AKASHA_UPPER).not.toBe(two.env.AKASHA_UPPER)
+    expect(one.merged).not.toBe(two.merged)
+    expect(one.env.HOME).not.toBe(two.env.HOME)
+    expect(one.env.AKASHA_LOWER).toBe(two.env.AKASHA_LOWER)
+  } finally {
+    over.sweep()
+  }
+})
+
+test("a body carried reaches a lane that was never the lane carrying it", () => {
+  const root = checkout()
+  const over = mountedOver(root, { "one.txt": "carried\n" })
+  try {
+    const lane = over.lane(SECOND)
+    const said = ran(lane.under(["cat", "one.txt"]), {
+      cwd: root,
+      env: { ...process.env, ...lane.env },
+    })
+    expect(said.out).toBe("carried\n")
+  } finally {
+    over.sweep()
+  }
+})
+
 test("a run under a mount is told where the age key sits, since its own home holds none", () => {
   const held = process.env["SOPS_AGE_KEY_FILE"]
   process.env["SOPS_AGE_KEY_FILE"] = "/nowhere/keys.txt"
   const over = mountedOver(checkout(), {})
   try {
-    expect(over.env["SOPS_AGE_KEY_FILE"]).toBe("/nowhere/keys.txt")
+    expect(over.lane(FIRST).env["SOPS_AGE_KEY_FILE"]).toBe("/nowhere/keys.txt")
   } finally {
     over.sweep()
     if (held === undefined) delete process.env["SOPS_AGE_KEY_FILE"]
@@ -196,7 +242,7 @@ test("the reading of an absent path says renaming that path mends nothing", () =
 
 test("what a mount wrote to is gone once that mount is swept", () => {
   const over = mountedOver(checkout(), { "one.txt": "carried\n" })
-  const held = over.env.AKASHA_UPPER
+  const held = over.lane(FIRST).env.AKASHA_UPPER
   over.sweep()
   expect(held).toBeDefined()
   expect(ran(["test", "-e", String(held)]).code).not.toBe(0)

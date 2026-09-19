@@ -18,6 +18,10 @@ export const HOLD = "/var/tmp"
 
 const PREFIX = "akasha-overlay-"
 
+const BODIES = "bodies"
+
+const LANE = "lane"
+
 const UPPER = "upper"
 
 const WORK = "work"
@@ -25,6 +29,8 @@ const WORK = "work"
 const MERGED = "merged"
 
 const HOMED = "home"
+
+const LAYERED = ":"
 
 export const MOUNTED = "AKASHA_MERGED"
 
@@ -96,10 +102,14 @@ export function absentlyOf(each: readonly Absent[]): string {
   )
 }
 
-export type Overlay = {
+export type Lane = {
   readonly merged: string
   readonly env: Readonly<Record<string, string>>
   readonly under: (argv: readonly string[]) => readonly string[]
+}
+
+export type Overlay = {
+  readonly lane: (which: number) => Lane
   readonly sweep: () => undefined
 }
 
@@ -136,18 +146,15 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
   }
   const held = mkdtempSync(join(HOLD, PREFIX))
   try {
-    const upper = join(held, UPPER)
-    const work = join(held, WORK)
-    const merged = join(held, MERGED)
-    const homed = join(held, HOMED)
-    for (const one of [upper, work, merged, homed]) mkdirSync(one)
+    const bodied = join(held, BODIES)
+    mkdirSync(bodied)
     const taken: string[] = []
     for (const [one, body] of Object.entries(bodies)) {
       if (body === null) {
         taken.push(one)
         continue
       }
-      const at = join(upper, one)
+      const at = join(bodied, one)
       mkdirSync(dirname(at), { recursive: true })
       if (linked(body)) {
         symlinkSync(body.linkedTo, at)
@@ -161,18 +168,31 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
     writeFileSync(listed, taken.map((one) => `${one}\n`).join(""))
     const shim = join(held, MOUNTING)
     writeFileSync(shim, SHIM, { mode: MODE })
+    const shared = {
+      AKASHA_LOWER: `${bodied}${LAYERED}${root}`,
+      AKASHA_TAKEN: listed,
+      ...ageKeyNamed(),
+    }
+    const lanes = new Map<number, Lane>()
+    const lane = (which: number): Lane => {
+      const found = lanes.get(which)
+      if (found !== undefined) return found
+      const at = join(held, `${LANE}${String(which)}`)
+      const upper = join(at, UPPER)
+      const work = join(at, WORK)
+      const merged = join(at, MERGED)
+      const homed = join(at, HOMED)
+      for (const one of [at, upper, work, merged, homed]) mkdirSync(one)
+      const made: Lane = {
+        merged,
+        env: { ...shared, AKASHA_UPPER: upper, AKASHA_WORK: work, [MOUNTED]: merged, HOME: homed },
+        under: (argv: readonly string[]): readonly string[] => [...OWN, shim, ...argv],
+      }
+      lanes.set(which, made)
+      return made
+    }
     return {
-      merged,
-      env: {
-        AKASHA_LOWER: root,
-        AKASHA_UPPER: upper,
-        AKASHA_WORK: work,
-        [MOUNTED]: merged,
-        AKASHA_TAKEN: listed,
-        ...ageKeyNamed(),
-        HOME: homed,
-      },
-      under: (argv: readonly string[]): readonly string[] => [...OWN, shim, ...argv],
+      lane,
       sweep: (): undefined => {
         sweptAt(held)
       },

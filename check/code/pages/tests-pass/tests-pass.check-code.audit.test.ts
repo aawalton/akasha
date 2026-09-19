@@ -13,15 +13,15 @@ import { tracked } from "akasha/check/test-fixtures/scratch/check-scratch.test-f
 
 afterAll(scratch.sweep)
 
-test("a repository holding a failing test is refused, and the reason says how many", () => {
+test("a repository holding a failing test is refused, and the reason says how many", async () => {
   const root = tracked(repo({ [CODE_AT]: "", [TEST_AT]: FAILS }))
-  const said = withoutGuard(() => testsPass(root))
+  const said = await withoutGuard(async () => await testsPass(root))
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe(TEST_AT)
   expect(said[0]?.reason).toContain("1 of 1 tests failed")
 })
 
-test("a repository whose tests are green is refused by nothing", () => {
+test("a repository whose tests are green is refused by nothing", async () => {
   const root = tracked(repo({ [CODE_AT]: "", [TEST_AT]: PASSES }))
-  expect(withoutGuard(() => testsPass(root))).toEqual([])
+  expect(await withoutGuard(async () => await testsPass(root))).toEqual([])
 })

@@ -389,41 +389,125 @@ export function grouped(asked: Asked): boolean {
   )
 }
 
-export function bytes(argv: readonly string[], asked: Asked = {}): Held {
-  const ceiling = asked.cpuCeiling
-  const held = asked.memoryCeiling
+export function processorsHere(): number | null {
+  const own = ownAt()
+  return own === null ? null : processorsOver(join(MOUNT, own))
+}
+
+type Opened = {
+  readonly at: string | null
+  readonly named: readonly string[]
+  readonly env: Asked["env"]
+  readonly watch: { readonly kill: () => void } | null
+}
+
+function opened(argv: readonly string[], asked: Asked): Opened {
   const found = foundFor(argv, asked)
   const at = found === null || !grouped(asked) ? null : budgetAt()
+  const held = asked.memoryCeiling
   if (at !== null && held !== undefined) throttled(at, held)
+  const ceiling = asked.cpuCeiling
   const watch =
     at === null || ceiling === undefined
       ? null
       : Bun.spawn(["bun", "-e", watching(at, ceiling)], { stdout: "ignore", stderr: "ignore" })
+  return {
+    at,
+    named: at === null || found === null ? argv : joined(at, argv, found),
+    env: envUnder(asked, at),
+    watch,
+  }
+}
+
+function heldOf(
+  open: Opened,
+  code: number | null,
+  signal: string | null,
+  out: Uint8Array,
+  err: string,
+  spent: number
+): Held {
+  const group = open.at === null ? null : spentAt(open.at)
+  const peak = open.at === null ? null : peakAt(open.at)
+  return {
+    code: code ?? NO_CODE,
+    signal,
+    out,
+    err,
+    cpuSeconds: group ?? spent,
+    peakBytes: peak ?? 0,
+    peakMeasured: peak !== null,
+  }
+}
+
+function closed(open: Opened): undefined {
+  open.watch?.kill()
+  if (open.at !== null) swept(open.at)
+}
+
+export function bytes(argv: readonly string[], asked: Asked = {}): Held {
+  const open = opened(argv, asked)
   try {
-    const named = at === null || found === null ? argv : joined(at, argv, found)
-    const env = envUnder(asked, at)
-    const done = Bun.spawnSync([...named], {
+    const done = Bun.spawnSync([...open.named], {
       stdout: "pipe",
       stderr: "pipe",
       ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
-      ...(env === undefined ? {} : { env }),
+      ...(open.env === undefined ? {} : { env: open.env }),
       ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
       ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
     })
-    const group = at === null ? null : spentAt(at)
-    const peak = at === null ? null : peakAt(at)
-    return {
-      code: done.exitCode ?? NO_CODE,
-      signal: done.signalCode ?? null,
-      out: done.stdout,
-      err: done.stderr.toString(),
-      cpuSeconds: group ?? Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
-      peakBytes: peak ?? 0,
-      peakMeasured: peak !== null,
-    }
+    return heldOf(
+      open,
+      done.exitCode,
+      done.signalCode ?? null,
+      done.stdout,
+      done.stderr.toString(),
+      Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS
+    )
   } finally {
-    watch?.kill()
-    if (at !== null) swept(at)
+    closed(open)
+  }
+}
+
+export async function bytesAwaited(argv: readonly string[], asked: Asked = {}): Promise<Held> {
+  const open = opened(argv, asked)
+  try {
+    const done = Bun.spawn([...open.named], {
+      stdout: "pipe",
+      stderr: "pipe",
+      ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
+      ...(open.env === undefined ? {} : { env: open.env }),
+      ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
+      ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
+    })
+    const [out, err] = await Promise.all([
+      new Response(done.stdout).bytes(),
+      new Response(done.stderr).text(),
+    ])
+    await done.exited
+    return heldOf(
+      open,
+      done.exitCode,
+      done.signalCode ?? null,
+      out,
+      err,
+      Number(done.resourceUsage()?.cpuTime.total ?? 0n) / MICROS
+    )
+  } finally {
+    closed(open)
+  }
+}
+
+export async function ranAwaited(argv: readonly string[], asked: Asked = {}): Promise<Said> {
+  const done = await bytesAwaited(argv, asked)
+  return {
+    code: done.code,
+    signal: done.signal,
+    out: new TextDecoder().decode(done.out),
+    err: done.err,
+    cpuSeconds: done.cpuSeconds,
+    peakBytes: done.peakBytes,
+    peakMeasured: done.peakMeasured,
   }
 }
 

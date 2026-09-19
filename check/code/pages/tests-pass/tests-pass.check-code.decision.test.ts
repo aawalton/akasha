@@ -81,13 +81,15 @@ test("a measured file whose run failed is not read as a cost", () => {
   expect(said).toContain("did not come back clean")
 })
 
-test("what a test file's run cost is recorded beside the page that file is of", () => {
+test("what a test file's run cost is recorded beside the page that file is of", async () => {
   const root = repo({
     "akasha/one.module.ts": "",
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": PASSES,
   })
-  withoutGuard(() => refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root)))
+  await withoutGuard(
+    async () => await refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+  )
   const line = readFileSync(join(root, "akasha/one.module.entries.uncommitted.jsonl"), "utf8")
   expect(line.trim().split("\n").length).toBe(1)
   expect(line).toContain('"phase":"test"')
@@ -119,47 +121,53 @@ test("a run ended at the ceiling is not refused as the runner failing", () => {
   expect(said).not.toContain("the runner failing")
 })
 
-test("a change carrying no file with a test beside it is judged by no run", () => {
+test("a change carrying no file with a test beside it is judged by no run", async () => {
   const root = repo({ "akasha/held.md": "held" })
   expect(
-    withoutGuard(() => refusalsOver(change(root, ["akasha/held.md"]), shadowAt(root)))
+    await withoutGuard(
+      async () => await refusalsOver(change(root, ["akasha/held.md"]), shadowAt(root))
+    )
   ).toEqual([])
 })
 
-test("a change is judged by the body it proposes, not the one standing on disk", () => {
+test("a change is judged by the body it proposes, not the one standing on disk", async () => {
   const root = repo({
     "akasha/one.module.code.ts": HOLDS,
     "akasha/one.module.test.ts": READS,
   })
   const at = proposing(root, "akasha/one.module.code.ts", BREAKS)
-  const said = withoutGuard(() =>
-    refusalsOver(change(root, ["akasha/one.module.code.ts"], at), shadowAt(root))
+  const said = await withoutGuard(
+    async () => await refusalsOver(change(root, ["akasha/one.module.code.ts"], at), shadowAt(root))
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.module.test.ts")
   expect(said[0]?.reason).toContain("1 of 1 tests failed")
   expect(readFileSync(join(root, "akasha/one.module.code.ts"), "utf8")).toBe(HOLDS)
   expect(
-    withoutGuard(() => refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root)))
+    await withoutGuard(
+      async () => await refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+    )
   ).toEqual([])
 })
 
-test("a run already inside a run refuses rather than saying the tests passed", () => {
+test("a run already inside a run refuses rather than saying the tests passed", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": FAILS,
   })
-  const said = withGuard(() =>
-    refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+  const said = await withGuard(
+    async () => await refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.module.test.ts")
   expect(said[0]?.reason).toContain("no test ran")
 })
 
-test("a run already inside a run refuses nothing where the change names no test", () => {
+test("a run already inside a run refuses nothing where the change names no test", async () => {
   const root = repo({ "akasha/held.md": "held" })
-  const said = withGuard(() => refusalsOver(change(root, ["akasha/held.md"]), shadowAt(root)))
+  const said = await withGuard(
+    async () => await refusalsOver(change(root, ["akasha/held.md"]), shadowAt(root))
+  )
   expect(said).toEqual([])
 })
 
@@ -197,7 +205,7 @@ test("the whole run is carried rather than the end of the run", () => {
   expect(said).toContain("line 199")
 })
 
-test("a run under a change that moves a page type resolves that page type where it lands", () => {
+test("a run under a change that moves a page type resolves that page type where it lands", async () => {
   const root = repoAt(realpathSync(scratch.rootFor("tests-pass-moved-")), typingUnder(TREE))
   const body = readFileSync(join(root, TYPE_WAS))
   const moved = landing(
@@ -206,7 +214,7 @@ test("a run under a change that moves a page type resolves that page type where 
     { [TYPE_WAS]: body }
   )
 
-  const said = withoutGuard(() => refusalsOver(moved, shadowAsked(moved)))
+  const said = await withoutGuard(async () => await refusalsOver(moved, shadowAsked(moved)))
 
   expect(said).toEqual([])
 })
@@ -303,31 +311,32 @@ test("a refusal carries the failing file's own output rather than the head of th
   expect(reasonSaid(said, HELD)).toContain('Expected: "1 fileish"')
 })
 
-test("the reason names a file where it stands in the change, not in the world it ran in", () => {
+test("the reason names a file where it stands in the change, not in the world it ran in", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": FAILS,
   })
-  const said = withoutGuard(() =>
-    refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+  const said = await withoutGuard(
+    async () => await refusalsOver(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
   expect(said[0]?.reason).toContain("Measured at 20")
   expect(said[0]?.reason).toContain("akasha/one.module.test.ts")
 })
 
-test("a file that throws as it loads is the file the refusal names", () => {
+test("a file that throws as it loads is the file the refusal names", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": PASSES,
     "akasha/two.module.code.ts": "",
     "akasha/two.module.test.ts": THROWS,
   })
-  const said = withoutGuard(() =>
-    refusalsOver(
-      change(root, ["akasha/one.module.code.ts", "akasha/two.module.code.ts"]),
-      shadowAt(root)
-    )
+  const said = await withoutGuard(
+    async () =>
+      await refusalsOver(
+        change(root, ["akasha/one.module.code.ts", "akasha/two.module.code.ts"]),
+        shadowAt(root)
+      )
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/two.module.test.ts")

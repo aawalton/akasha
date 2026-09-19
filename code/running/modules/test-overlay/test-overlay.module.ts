@@ -71,6 +71,39 @@ export const testOverlay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An overlay is mounted in lanes, and a lane carries one run at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The change's bodies are a layer under every lane rather than the layer one writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lane has an upper, a work folder, a mounted tree and a home of its own.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Two mounts sharing one work folder is what having a work folder each is for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a run writes lands in that run's lane and reaches no other lane.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lane is made when that lane is first asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lane asked for again is the lane made before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One sweep takes away every lane together with the bodies under them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A link a page states under `~` is placed in that home rather than in the real home.",
     },

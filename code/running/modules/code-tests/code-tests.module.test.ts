@@ -167,53 +167,59 @@ check("an error a test printed is no count of errors", () => {
   expect(verdictOf(1, output, 2)).toBe("pass")
 })
 
-check("a run answers what it printed, the summary in it, and the verdict that follows", () => {
-  const root = repo({ "one.test.ts": PASSES })
-  const done = ranOver(root, ["akasha"], 1)
-  expect(done.code).toBe(0)
-  expect(done.output).toContain("1 pass")
-  expect(done.summary.passed).toBe(1)
-  expect(done.verdict).toBe("pass")
-})
+check(
+  "a run answers what it printed, the summary in it, and the verdict that follows",
+  async () => {
+    const root = repo({ "one.test.ts": PASSES })
+    const done = await ranOver(root, ["akasha"], 1)
+    expect(done.code).toBe(0)
+    expect(done.output).toContain("1 pass")
+    expect(done.summary.passed).toBe(1)
+    expect(done.verdict).toBe("pass")
+  }
+)
 
-check("a run holding a failing test answers a failing verdict", () => {
+check("a run holding a failing test answers a failing verdict", async () => {
   const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
-  const done = ranOver(root, ["akasha"], 2)
+  const done = await ranOver(root, ["akasha"], 2)
   expect(done.summary.failed).toBe(1)
   expect(done.verdict).toBe("fail")
 })
 
-check("a run holding a file that throws as it loads counts that file and answers fail", () => {
-  const root = repo({ "one.test.ts": PASSES, "two.test.ts": THROWS })
-  const done = ranOver(root, ["akasha"], 2)
-  expect(done.summary).toEqual({ files: 2, failed: 1, passed: 1 })
-  expect(errorsIn(done.output)).toBe(1)
-  expect(plain(done.output)).toContain("# Unhandled error between tests")
-  expect(done.verdict).toBe("fail")
-})
+check(
+  "a run holding a file that throws as it loads counts that file and answers fail",
+  async () => {
+    const root = repo({ "one.test.ts": PASSES, "two.test.ts": THROWS })
+    const done = await ranOver(root, ["akasha"], 2)
+    expect(done.summary).toEqual({ files: 2, failed: 1, passed: 1 })
+    expect(errorsIn(done.output)).toBe(1)
+    expect(plain(done.output)).toContain("# Unhandled error between tests")
+    expect(done.verdict).toBe("fail")
+  }
+)
 
-check("one named path runs alone, and its neighbour does not", () => {
+check("one named path runs alone, and its neighbour does not", async () => {
   const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
-  const done = ranOver(root, ["akasha/one.test.ts"], 1)
+  const done = await ranOver(root, ["akasha/one.test.ts"], 1)
   expect(done.verdict).toBe("pass")
 })
 
-check("a run handed bodies reads them over the checkout, which is left as it was", () => {
+check("a run handed bodies reads them over the checkout, which is left as it was", async () => {
   const root = repo({ "one.test.ts": FAILS })
   const bodies = { "akasha/one.test.ts": PASSES }
-  expect(ranOver(root, ["akasha"], 1, null, bodies).verdict).toBe("pass")
+  expect((await ranOver(root, ["akasha"], 1, null, bodies)).verdict).toBe("pass")
   expect(readFileSync(join(root, "akasha/one.test.ts"), "utf8")).toBe(FAILS)
 })
 
-check("a run inside the overlay names that overlay as the akasha root", () => {
+check("a run inside the overlay names that overlay as the akasha root", async () => {
   const root = repo({ "one.test.ts": ROOTED })
   const bodies = { "akasha/carried.txt": "carried\n" }
-  expect(ranOver(root, ["akasha"], 1, null, bodies).verdict).toBe("pass")
+  expect((await ranOver(root, ["akasha"], 1, null, bodies)).verdict).toBe("pass")
 })
 
-check("what a run spawns is marked as inside one", () => {
+check("what a run spawns is marked as inside one", async () => {
   const root = repo({ "one.test.ts": MARKED })
-  expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
+  expect((await ranOver(root, ["akasha"], 1)).verdict).toBe("pass")
 })
 
 check("the mark a run carries is read back by whoever is inside it", () => {
@@ -227,39 +233,42 @@ check("the mark a run carries is read back by whoever is inside it", () => {
   else process.env[RUNNING] = was
 })
 
-check("a test is run with what the nearest bunfig.toml above it preloads", () => {
+check("a test is run with what the nearest bunfig.toml above it preloads", async () => {
   const root = repo({ "web/one.test.ts": NEEDS, "web/sets.ts": SETS, "plain.test.ts": PASSES })
   writeFileSync(join(root, WEB_BUNFIG), '[test]\npreload = ["./sets.ts"]\n')
   expect(groupedBy(root, ["akasha"])).toEqual([
     { preloads: [], named: ["akasha/plain.test.ts"] },
     { preloads: [join(root, "akasha/web/sets.ts")], named: ["akasha/web/one.test.ts"] },
   ])
-  expect(ranOver(root, ["akasha"], 2).verdict).toBe("pass")
+  expect((await ranOver(root, ["akasha"], 2)).verdict).toBe("pass")
 })
 
-check("the bunfig.toml at the root is left to the runner rather than handed over", () => {
+check("the bunfig.toml at the root is left to the runner rather than handed over", async () => {
   const root = repo({ "one.test.ts": NEEDS, "sets.ts": SETS })
   writeFileSync(join(root, "bunfig.toml"), '[test]\npreload = ["./akasha/sets.ts"]\n')
   expect(groupedBy(root, ["akasha"])).toEqual([{ preloads: [], named: ["akasha/one.test.ts"] }])
-  expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
-})
-
-check("a group of several files is run one file to a runner, and the counts are the sum", () => {
-  const held: Record<string, string> = {}
-  const many = 3
-  for (let at = 0; at < many; at += 1) held[`one-${at}.test.ts`] = PASSES
-  const done = ranOver(repo(held), ["akasha"], many)
-  expect(plain(done.output).match(/Ran \d+ tests? across \d+ files?/g)?.length).toBe(many)
-  expect(done.summary.files).toBe(many)
-  expect(done.summary.passed).toBe(many)
-  expect(done.verdict).toBe("pass")
+  expect((await ranOver(root, ["akasha"], 1)).verdict).toBe("pass")
 })
 
 check(
+  "a group of several files is run one file to a runner, and the counts are the sum",
+  async () => {
+    const held: Record<string, string> = {}
+    const many = 3
+    for (let at = 0; at < many; at += 1) held[`one-${at}.test.ts`] = PASSES
+    const done = await ranOver(repo(held), ["akasha"], many)
+    expect(plain(done.output).match(/Ran \d+ tests? across \d+ files?/g)?.length).toBe(many)
+    expect(done.summary.files).toBe(many)
+    expect(done.summary.passed).toBe(many)
+    expect(done.verdict).toBe("pass")
+  }
+)
+
+check(
   "a file past the ceiling runs to its end and is answered with what that file spent",
-  () => {
+  async () => {
     const root = repo({ "one.test.ts": PASSES, "slow.test.ts": BURNS })
-    const found = beyondIn(spentOver(root, ["akasha"]), 1)
+    const found = beyondIn(await spentOver(root, ["akasha"]), 1)
     expect(found.map((one) => one.path)).toEqual(["akasha/slow.test.ts"])
     expect(found[0]?.cpuSeconds).toBeGreaterThan(1.5)
   },
@@ -273,14 +282,14 @@ check("a run is slow only where a file went past the seconds one file may spend"
   expect(judgedAs("crash", 0)).toBe("crash")
 })
 
-check("a file under the ceiling is not answered as over it", () => {
+check("a file under the ceiling is not answered as over it", async () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(beyondIn(spentOver(root, ["akasha"]))).toEqual([])
+  expect(beyondIn(await spentOver(root, ["akasha"]))).toEqual([])
 })
 
-check("a file under the ceiling is still answered with what that file spent", () => {
+check("a file under the ceiling is still answered with what that file spent", async () => {
   const root = repo({ "one.test.ts": PASSES })
-  const found = spentOver(root, ["akasha"])
+  const found = await spentOver(root, ["akasha"])
   expect(found.map((one) => one.path)).toEqual(["akasha/one.test.ts"])
   expect(found[0]?.signal).toBeNull()
   expect(found[0]?.cpuSeconds).toBeGreaterThan(0)
@@ -292,9 +301,9 @@ check("a file under the ceiling is still answered with what that file spent", ()
 
 check(
   "two files of one run are each answered the peak that file reached",
-  () => {
+  async () => {
     const root = repo({ "big.test.ts": SWELLS, "one.test.ts": PASSES })
-    const found = spentOver(root, ["akasha"])
+    const found = await spentOver(root, ["akasha"])
     expect(found.map((one) => one.path)).toEqual(["akasha/big.test.ts", "akasha/one.test.ts"])
     const big = found[0]?.peakBytes ?? 0
     const small = found[1]?.peakBytes ?? 0
@@ -305,12 +314,32 @@ check(
   30000
 )
 
-check("a run whose files are each under the ceiling is clean and carries what it spent", () => {
-  const root = repo({ "one.test.ts": PASSES })
-  const done = ranOver(root, ["akasha"], 1)
-  expect(done.slow).toEqual([])
-  expect(done.cpuSeconds).toBeGreaterThan(0)
-})
+check(
+  "a run whose files are each under the ceiling is clean and carries what it spent",
+  async () => {
+    const root = repo({ "one.test.ts": PASSES })
+    const done = await ranOver(root, ["akasha"], 1)
+    expect(done.slow).toEqual([])
+    expect(done.cpuSeconds).toBeGreaterThan(0)
+  }
+)
+
+check(
+  "a file is answered in the place that file was named rather than where it ended",
+  async () => {
+    const held: Record<string, string> = { "slow.test.ts": BURNS }
+    const many = 3
+    for (let at = 0; at < many; at += 1) held[`quick-${String(at)}.test.ts`] = PASSES
+    const found = await spentOver(repo(held), ["akasha"])
+    expect(found.map((one) => one.path)).toEqual([
+      "akasha/quick-0.test.ts",
+      "akasha/quick-1.test.ts",
+      "akasha/quick-2.test.ts",
+      "akasha/slow.test.ts",
+    ])
+  },
+  30000
+)
 
 check("a path named twice over is run once", () => {
   const root = repo({ "one.test.ts": PASSES })

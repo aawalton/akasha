@@ -178,6 +178,38 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Several of those runs are made at one time rather than one after another.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How many run at one time is how many processors this run may use.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run no group holds to a quota runs one file at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may state how many run at one time in place of that count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each run made at one time holds a lane of the overlay of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lane carries every file that lane is handed, one after another.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file is answered in the place that file was named rather than where it ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The clock read around one file is that file's own rather than the whole run's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run of the runner is handed the preloads of the group its file belongs to.",
     },
     {

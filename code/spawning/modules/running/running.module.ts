@@ -329,6 +329,14 @@ export const running = {
       statement: "Every run is made in the process asking for it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may await a run, which is bounded and measured as a run held for is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How many processors the process asking may use is answered here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No process started here is meant to outlive its starter.",
     },

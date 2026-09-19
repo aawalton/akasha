@@ -38,18 +38,18 @@ test("a test is input to the check by standing beside itself", () => {
   expect(testsPass.isInput("akasha/new.module.test.ts", shadowAt(root))).toBe(true)
 })
 
-test("a change whose tests are green is not refused", () => {
+test("a change whose tests are green is not refused", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": PASSES,
   })
-  const said = withoutGuard(() =>
-    testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+  const said = await withoutGuard(
+    async () => await testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said).toEqual([])
 })
 
-test("a test file taken away after the check read it is judged on the body that read got", () => {
+test("a test file taken away after the check read it is judged on the body that read got", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": PASSES,
@@ -66,18 +66,18 @@ test("a test file taken away after the check read it is judged on the body that 
       return bytes
     },
   }
-  const said = withoutGuard(() => testsPass(racing, shadowAt(root)))
+  const said = await withoutGuard(async () => await testsPass(racing, shadowAt(root)))
   expect(existsSync(at)).toBe(false)
   expect(said).toEqual([])
 })
 
-test("a change whose tests fail is refused, and the reason says how many", () => {
+test("a change whose tests fail is refused, and the reason says how many", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": FAILS,
   })
-  const said = withoutGuard(() =>
-    testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+  const said = await withoutGuard(
+    async () => await testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.module.test.ts")
