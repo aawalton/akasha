@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"story-build.page-type.types.ts","path":"story/world/builds/pages/cornerstone-build/cornerstone-build.story-build.ts"}
-{"propertySlug":"import","fileName":"story-build.page-type.types.ts","path":"story/world/builds/pages/the-beholder-build/the-beholder-build.story-build.ts"}
-{"propertySlug":"import","fileName":"story-build.page-type.types.ts","path":"story/world/builds/pages/tower-of-nimue-build/tower-of-nimue-build.story-build.ts"}
+{"propertySlug":"import","fileName":"story-build.page-type.types.ts","path":"story/world/pages/cornerstone/builds/cornerstone-build.story-build.ts"}
+{"propertySlug":"import","fileName":"story-build.page-type.types.ts","path":"story/world/pages/the-beholder/builds/the-beholder-build.story-build.ts"}
+{"propertySlug":"import","fileName":"story-build.page-type.types.ts","path":"story/world/pages/tower-of-nimue/builds/tower-of-nimue-build.story-build.ts"}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
