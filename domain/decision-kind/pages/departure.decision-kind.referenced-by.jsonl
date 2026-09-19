@@ -3187,6 +3187,8 @@
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts","id":"01a0ba90-7481-7416-9833-84de20e54722"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts","id":"01a0ba91-c1b5-7a3f-86a1-3c43bcfcbb7c"}
 {"propertySlug":"decision-kind","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
+{"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts","id":"01a0ba94-259d-76eb-abb6-1b5550909276"}
+{"propertySlug":"decision-kind","path":"product/kofi/stripe/stripe.domain.ts","id":"01a0ba93-b192-7535-b398-9f14143a73fa"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.ts","id":"01a0881b-03c9-76d7-910e-803dd38e06fa"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts","id":"01a06558-c2cc-700b-8c63-64111f2259ac"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.ts","id":"01a06558-c2cc-700c-a9ae-9d94adb263ca"}

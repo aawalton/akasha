@@ -6,7 +6,12 @@ export const kofi = {
   slug: "kofi",
   definition:
     "the account Alan's products call for backing on, and what Ko-fi does with that backing",
-  parts: ["domain/contribution-point", "domain/feature-request", "page-type/contributor"],
+  parts: [
+    "domain/contribution-point",
+    "domain/feature-request",
+    "page-type/contributor",
+    "domain/stripe",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

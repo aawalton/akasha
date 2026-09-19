@@ -333,6 +333,7 @@
 {"propertySlug":"decision-kind","path":"persona/modules/voice-spec/voice-spec.module.ts","id":"01a05b70-a58d-78db-84fb-024bfd2939aa"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}
 {"propertySlug":"decision-kind","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
+{"propertySlug":"decision-kind","path":"product/kofi/stripe/stripe.domain.ts","id":"01a0ba93-b192-7535-b398-9f14143a73fa"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.ts","id":"01a08bb2-255f-7fcd-be97-19292bc4115b"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.ts","id":"01a0824d-0956-7e7c-8f1c-271aa57e00a8"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts","id":"01a08bee-4262-784b-b397-8a5a0ad37433"}

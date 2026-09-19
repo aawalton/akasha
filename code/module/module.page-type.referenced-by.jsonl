@@ -2529,6 +2529,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/deck-slides/deck-slides.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/resource-list/resource-list.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts"}
