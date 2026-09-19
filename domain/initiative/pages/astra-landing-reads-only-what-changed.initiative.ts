@@ -28,7 +28,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
       workingMemory:
-        "`globbedFor` in `source-globbing.module.code.ts` is 2.87s of the same landing, and the change it ran over named one finding page and no stylesheet.",
+        "`globbedFor` in `source-globbing.module.code.ts` was 2.87s of a landing whose change named one finding page and no stylesheet. It now gathers nothing where every specifier and every file of code remains as it was, which is most landings. What is left is the landing that does move a specifier, which still walks every file the app reaches.",
     },
     {
       statement:
