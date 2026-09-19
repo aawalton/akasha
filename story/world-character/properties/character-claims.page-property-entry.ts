@@ -1,0 +1,40 @@
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
+
+export const characterClaims = {
+  id: "01a0b6f7-9c68-7aa7-9196-01fd02ca2707",
+  type: "page-type/page-property-entry",
+  slug: "character-claims",
+  propertySlug: "character-claims",
+  definition: "every place a story settles something about a character, one claim to a line",
+  properties: [
+    { pageProperty: "text-property/chapter-slug", required: true, many: false },
+    { pageProperty: "text-property/claim-field", required: true, many: false },
+    { pageProperty: "text-property/claim-value", required: true, many: false },
+    { pageProperty: "text-property/epistemic", required: true, many: false },
+    { pageProperty: "text-property/claimed-by", required: false, many: false },
+    { pageProperty: "text-property/source-chapter", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A claim is one thing the story settles rather than a summary of many.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A claim says whether the story asserted it or a character said it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A claim a character said names who said it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chapter a claim cites is that chapter's own label rather than a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wording of a claim is the story's rather than akasha's own.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PagePropertyEntry

@@ -1,0 +1,8 @@
+{"definition":"whether the story asserted a claim or a character made it"}
+{"id":"01a0b6f7-33d9-7623-9db7-4338dfc0d927"}
+{"maxLength":20}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"epistemic"}
+{"slug":"epistemic"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

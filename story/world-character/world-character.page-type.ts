@@ -12,6 +12,12 @@ export const worldCharacter = {
     "number-property/first-chapter",
     "number-property/last-chapter",
     "number-property/max-level",
+    "page-property-entry/character-claims",
+    "text-property/claim-field",
+    "text-property/claim-value",
+    "text-property/claimed-by",
+    "text-property/epistemic",
+    "text-property/source-chapter",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -20,6 +26,7 @@ export const worldCharacter = {
     { pageProperty: "number-property/event-count", required: false, many: false },
     { pageProperty: "number-property/first-chapter", required: false, many: false },
     { pageProperty: "number-property/last-chapter", required: false, many: false },
+    { pageProperty: "page-property-entry/character-claims", required: false, many: false },
   ],
   decisions: [
     {

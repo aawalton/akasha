@@ -84,6 +84,9 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"child-relation","propertySlug":"child-relation","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"chosen","propertySlug":"chosen","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"claim","propertySlug":"claim","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"claim-field","propertySlug":"claim-field","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"claim-value","propertySlug":"claim-value","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"claimed-by","propertySlug":"claimed-by","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"claimed-by-slug","propertySlug":"claimed-by-slug","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"class-id","propertySlug":"class-id","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"class-name","propertySlug":"class-name","fileName":null,"folderName":null,"sorted":false}
@@ -168,6 +171,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"end-time","propertySlug":"end-time","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"enemy-types","propertySlug":"enemy-types","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"entry-default","propertySlug":"default","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"epistemic","propertySlug":"epistemic","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"epoch","propertySlug":"epoch","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"error-app","propertySlug":"app","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"error-fingerprint","propertySlug":"fingerprint","fileName":null,"folderName":null,"sorted":false}
@@ -483,6 +487,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sms-consent-user-agent","propertySlug":"user-agent","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"solo-difficulty","propertySlug":"solo-difficulty","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sort-key","propertySlug":"key","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"source-chapter","propertySlug":"source-chapter","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"source-description","propertySlug":"source-description","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"source-directory","propertySlug":"source-directory","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"source-game-id","propertySlug":"source-game-id","fileName":null,"folderName":null,"sorted":false}
