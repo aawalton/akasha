@@ -1,5 +1,7 @@
 import { ATLAS_APP_SLUG } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"
 import { AppShell } from "akasha/alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.code.tsx"
+import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
@@ -12,10 +14,10 @@ import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
   const { user, headers } = await getUser(request)
-  const userEnvelope = user ? { id: user.id, email: user.email ?? undefined } : null
+  const signedIn = user !== null || (await signedInAs(ATLAS_SITE, request)) !== null
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
-  if (user) {
+  if (signedIn) {
     const { headers: navHeaders } = createServerClient(request)
     try {
       const result = await getPages({
@@ -32,7 +34,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ user: userEnvelope, navItems }, { headers })
+  return data({ signedIn, navItems }, { headers })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
@@ -51,7 +53,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
   return (
     <SupabaseProvider>
       <AuthProvider>
-        <AppShell user={loaderData.user} ssrNavItems={loaderData.navItems}>
+        <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
           <Outlet />
         </AppShell>
         <Toaster />

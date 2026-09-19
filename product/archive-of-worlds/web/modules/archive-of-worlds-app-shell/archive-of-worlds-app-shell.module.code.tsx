@@ -16,11 +16,11 @@ import { useMemo } from "react"
 
 interface AppShellProps {
   children: React.ReactNode
-  user: { id: string; email?: string } | null
+  signedIn: boolean
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
-function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
+function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
     onReorder,
@@ -42,7 +42,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
       bottomSections: [],
       brandLabel: "ARCHIVE OF WORLDS",
       bottomNavMaxItems: 5,
-      footerSlot: <AuthFooter user={user} />,
+      footerSlot: <AuthFooter signedIn={signedIn} />,
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
       renderPrimaryItems: (items, renderItem) => (
         <SortableNavs
@@ -58,7 +58,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
       ),
     }),
     [
-      user,
+      signedIn,
       dynamicPrimaryItems,
       dynamicItemIds,
       onReorder,

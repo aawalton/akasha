@@ -1,3 +1,4 @@
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
@@ -6,15 +7,16 @@ import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
 import { ARCHIVE_OF_WORLDS_APP_SLUG } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { AppShell } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
+import { ARCHIVE_OF_WORLDS_SITE } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
   const { user, headers } = await getUser(request)
-  const userEnvelope = user ? { id: user.id, email: user.email ?? undefined } : null
+  const signedIn = user !== null || (await signedInAs(ARCHIVE_OF_WORLDS_SITE, request)) !== null
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
-  if (user) {
+  if (signedIn) {
     const { headers: navHeaders } = createServerClient(request)
     try {
       const result = await getPages({
@@ -31,14 +33,14 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ user: userEnvelope, navItems }, { headers })
+  return data({ signedIn, navItems }, { headers })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   return (
     <SupabaseProvider>
       <AuthProvider>
-        <AppShell user={loaderData.user} ssrNavItems={loaderData.navItems}>
+        <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
           <Outlet />
         </AppShell>
         <Toaster />

@@ -2,10 +2,10 @@ import { useSidebarState } from "akasha/design/interface/layout/modules/use-side
 import { LogIn, LogOut } from "lucide-react"
 import { Link } from "react-router"
 
-export function AuthFooter({ user }: { user: { id: string } | null }) {
+export function AuthFooter({ signedIn }: { signedIn: boolean }) {
   const { effectiveIsCollapsed } = useSidebarState()
 
-  if (user) {
+  if (signedIn) {
     return (
       <form method="POST" action="/sign-out">
         <button
