@@ -23,5 +23,4 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wecantbefriendswaitforyourloveinstrumental|66CXWjxzNUsdJxJ2JdwvnR|228639",
-  song: "song/ariana-grande-we-cant-be-friends-wait-for-your-love-instrumental",
 } as const satisfies Track

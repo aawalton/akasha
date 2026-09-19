@@ -25,5 +25,4 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismineacappella|66CXWjxzNUsdJxJ2JdwvnR|163985",
-  song: "song/ariana-grande-the-boy-is-mine-a-cappella",
 } as const satisfies Track
