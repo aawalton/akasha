@@ -37,4 +37,10 @@ export const ainePatreon = {
         "A command completes a feature request, burning its points, or denies it, refunding them.",
     },
   ],
+  constraints: [
+    "Each product carries a brand of its own and calls for backing on the one shared Patreon.",
+    "A backer's points are one pool across every product, and every reading of those points is filtered to one product.",
+    "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
+    "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
+  ],
 } as const satisfies Initiative
