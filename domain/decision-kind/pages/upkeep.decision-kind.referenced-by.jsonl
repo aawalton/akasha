@@ -6,6 +6,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts","id":"01a06871-3115-700c-bb97-5d8f1d4b1d6d"}
 {"propertySlug":"decision-kind","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/song/properties/performed.boolean-property.ts","id":"01a06243-144b-7008-8401-2cea9948eac0"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts","id":"01a0b71d-29d7-78fa-a2fa-467c181aa8d2"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
 {"propertySlug":"decision-kind","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"decision-kind","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

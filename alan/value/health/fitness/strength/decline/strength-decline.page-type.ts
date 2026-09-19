@@ -14,4 +14,14 @@ export const strengthDecline = {
   types: "ts",
   schema: "jsonl",
   parts: ["calendar-date-property/decline-date"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "Every movement Alan turns down reaches a page, as every set Alan performs does.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A decline says nothing of why Alan turned the movement down.",
+    },
+  ],
 } as const satisfies PageType
