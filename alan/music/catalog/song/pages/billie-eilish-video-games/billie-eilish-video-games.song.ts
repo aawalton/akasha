@@ -4,16 +4,15 @@ export const billieEilishVideoGames = {
   id: "019ea4ab-a7fb-70dd-8ec8-d3f03215b331",
   type: "page-type/song",
   slug: "billie-eilish-video-games",
-  title: "Video Games",
-  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "dca9c2c2-ffbc-4ab6-9dee-c32deb3438d4",
       externalLink: "https://musicbrainz.org/work/dca9c2c2-ffbc-4ab6-9dee-c32deb3438d4",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "Video Games",
+  artist: "artist/billie-eilish",
   performed: true,
 } as const satisfies Song

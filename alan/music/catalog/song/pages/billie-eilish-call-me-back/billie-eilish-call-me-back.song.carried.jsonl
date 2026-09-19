@@ -1,8 +1,7 @@
 {"artist":"artist/billie-eilish"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"fdcf502f-2123-4da8-ae04-de5476516571","externalLink":"https://musicbrainz.org/work/fdcf502f-2123-4da8-ae04-de5476516571","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"fdcf502f-2123-4da8-ae04-de5476516571","externalLink":"https://musicbrainz.org/work/fdcf502f-2123-4da8-ae04-de5476516571","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ac-6365-733d-8be6-dc1a98efed0a"}
 {"performed":true}
 {"slug":"billie-eilish-call-me-back"}
-{"songType":"derivative"}
 {"title":"Call Me Back"}
 {"type":"page-type/song"}

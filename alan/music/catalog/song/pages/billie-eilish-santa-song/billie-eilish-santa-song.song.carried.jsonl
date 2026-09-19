@@ -1,8 +1,7 @@
 {"artist":"artist/billie-eilish"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"2fa3279e-1235-4e1b-8ec3-71f978c3852f","externalLink":"https://musicbrainz.org/work/2fa3279e-1235-4e1b-8ec3-71f978c3852f","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"2fa3279e-1235-4e1b-8ec3-71f978c3852f","externalLink":"https://musicbrainz.org/work/2fa3279e-1235-4e1b-8ec3-71f978c3852f","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a8-d814-7524-8b67-4740fd938be5"}
 {"performed":true}
 {"slug":"billie-eilish-santa-song"}
-{"songType":"derivative"}
 {"title":"Santa Song"}
 {"type":"page-type/song"}

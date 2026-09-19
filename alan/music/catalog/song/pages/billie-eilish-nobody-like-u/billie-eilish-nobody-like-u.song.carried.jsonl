@@ -1,9 +1,9 @@
 {"artist":"artist/billie-eilish"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"c324a482-90df-4400-8249-a6ef24ca56ef","externalLink":"https://musicbrainz.org/work/c324a482-90df-4400-8249-a6ef24ca56ef","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c324a482-90df-4400-8249-a6ef24ca56ef","externalLink":"https://musicbrainz.org/work/c324a482-90df-4400-8249-a6ef24ca56ef","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ab-378a-7ca1-8cb0-d0218408a4ba"}
 {"performed":false}
 {"slug":"billie-eilish-nobody-like-u"}
-{"songType":"original"}
+{"songType":"derivative"}
 {"title":"Nobody Like U"}
 {"type":"page-type/song"}
 {"written":"collab"}

@@ -17,7 +17,7 @@ export const billieEilish = {
       source: "musicbrainz",
       externalId: "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
       externalLink: "https://musicbrainz.org/artist/f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
     {
       source: "spotify",
@@ -28,13 +28,13 @@ export const billieEilish = {
   ],
   title: "Billie Eilish",
   genre: [
-    "alternative pop",
     "electropop",
+    "alternative pop",
     "pop",
     "alternative r&b",
     "art pop",
+    "bedroom pop",
     "contemporary r&b",
     "indie pop",
-    "bedroom pop",
   ],
 } as const satisfies Artist

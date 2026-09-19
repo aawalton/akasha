@@ -1,11 +1,10 @@
 {"artist":"artist/billie-eilish"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"1d6f5a61-e53b-4ac7-bd46-8557a0435347","externalLink":"https://musicbrainz.org/work/1d6f5a61-e53b-4ac7-bd46-8557a0435347","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"1d6f5a61-e53b-4ac7-bd46-8557a0435347","externalLink":"https://musicbrainz.org/work/1d6f5a61-e53b-4ac7-bd46-8557a0435347","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a8-8fd4-7ac0-83da-37c3c6f30af7"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"billie-eilish-hotline-bling"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Hotline Bling"}
 {"type":"page-type/song"}

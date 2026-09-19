@@ -1,6 +1,12 @@
 {"artist":"artist/billie-eilish"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"aab769d3-a157-427d-b6b0-ac8120efce4d","externalLink":"https://musicbrainz.org/work/aab769d3-a157-427d-b6b0-ac8120efce4d","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b771-0fc1-74e7-87b3-11d1dba4e836"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"billie-eilish-happier-than-ever"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
 {"title":"Happier Than Ever"}
 {"type":"page-type/song"}
+{"written":"collab"}
