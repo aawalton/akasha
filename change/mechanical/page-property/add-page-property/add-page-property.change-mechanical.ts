@@ -42,11 +42,8 @@ export const addPageProperty = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The property is named among the parts of the one page handed in for that.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A part is written in order where the index says that key is sorted.",
+      statement:
+        "The property is named after the parts the one page handed in for that already names.",
     },
     {
       decisionKind: "decision-kind/departure",

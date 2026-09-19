@@ -4,7 +4,6 @@ import {
   splicedIn,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
-  inOrder,
   without,
   withProperty,
   withRecord,
@@ -34,7 +33,6 @@ export type Written =
       readonly key: string
       readonly value: string
       readonly after?: string
-      readonly sorted?: boolean
     }
   | { readonly written: "valueGone"; readonly key: string; readonly values: readonly string[] }
   | {
@@ -93,9 +91,7 @@ function listedIn(
   if (holding.elements.some((each) => each.getText(source) === one.value)) {
     return `\`${one.key}\` holds \`${one.value}\` already`
   }
-  return one.sorted === true
-    ? inOrder(source, holding, one.value)
-    : withValue(source, holding, one.value)
+  return withValue(source, holding, one.value)
 }
 
 function valueGoneIn(

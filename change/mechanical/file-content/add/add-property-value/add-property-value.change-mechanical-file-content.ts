@@ -15,12 +15,7 @@ export const addPropertyValue = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A value is put after the values a property already has where that property says nothing of order.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A value is put into the place that order asks for where the property says its values are sorted.",
+        "A value is put after the values a property already has, whatever order those values are in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -91,15 +86,6 @@ export const addPropertyValue = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The passage answered is the lines the value is put into rather than the body.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Whether a key is sorted is worked out by the module this change names.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The shapes are one answer held for the change rather than a page opened for each value.",
     },
     {
       decisionKind: "decision-kind/absence",

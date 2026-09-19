@@ -86,7 +86,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"page-property","propertySlug":"page-property","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"parent-statement","propertySlug":"parent-statement","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection","unique":null,"uniquePropertySlug":null,"slug":"part-of-collections","propertySlug":"part-of-collections","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"parts","propertySlug":"parts","fileName":null,"folderName":null,"sorted":true}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"parts","propertySlug":"parts","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person","propertySlug":"person","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"access-kind","unique":null,"uniquePropertySlug":null,"slug":"person-access-kind","propertySlug":"access-kind","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person-access-person","propertySlug":"person","fileName":null,"folderName":null,"sorted":false}

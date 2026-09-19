@@ -29,7 +29,7 @@ export const addPropertyToPageType = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A part is written in order where the index says that key is sorted.",
+      statement: "A part is written after the parts that page type already names.",
     },
     {
       decisionKind: "decision-kind/departure",

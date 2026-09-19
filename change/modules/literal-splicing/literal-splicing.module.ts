@@ -21,19 +21,8 @@ export const literalSplicing = {
       statement: "A value written after another value is written behind a comma and a space.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A value put in order falls before the first value already written that sorts after it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A value put in order that sorts after every value already written falls after the last of them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A value is ordered against the others as each is written rather than as each reads.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here weighs a value against the values already written.",
     },
     {
       decisionKind: "decision-kind/departure",

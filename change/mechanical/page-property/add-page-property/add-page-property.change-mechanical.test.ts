@@ -90,14 +90,7 @@ const PAGED: readonly (readonly [string, Value])[] = [
   [TWO_AT, VALUES[TWO_AT] as Value],
 ]
 
-type Shaped = { readonly propertySlug: string; readonly sorted: boolean }
-
-const IN_ORDER: readonly Shaped[] = [{ propertySlug: "parts", sorted: true }]
-
-const NONE: readonly Shaped[] = []
-
 type Making = {
-  readonly sorted?: boolean
   readonly seen?: string[]
   readonly reads?: Map<string, number>
 }
@@ -105,7 +98,6 @@ type Making = {
 function worldIn(made: Making): World {
   const held = worldOf(BODIES)
   const reads = made.reads ?? new Map<string, number>()
-  const shapes = made.sorted === true ? IN_ORDER : NONE
   return {
     ...held,
     textOf: (path) => {
@@ -116,7 +108,6 @@ function worldIn(made: Making): World {
       pageByPath: (at: string) => VALUES[at] ?? null,
       kindsUnder: (slug: string) => new Set(UNDER[slug] ?? [slug]),
       valuesByPath: (slug: string) => new Map(slug === "quoin" ? PAGED : []),
-      shapesAt: () => new Map(shapes.map((one) => [one.propertySlug, one])),
     } as never,
     reaching: listing(made.seen ?? []),
   }
@@ -155,14 +146,6 @@ test("the property is named among the parts of the one page handed in for that",
   const said = addPageProperty(world, TEXT)
 
   expect(bodyAnswered(said, world, TYPE_AT)).toContain(`"text-property/zebra", "${WOLD}"`)
-})
-
-test("a part is written in order where the index says that key is sorted", () => {
-  const world = worldIn({ sorted: true })
-
-  const said = addPageProperty(world, TEXT)
-
-  expect(bodyAnswered(said, world, TYPE_AT)).toContain(`["${WOLD}", "text-property/zebra"]`)
 })
 
 test("the key is put on every page of those page types, holding that default", () => {

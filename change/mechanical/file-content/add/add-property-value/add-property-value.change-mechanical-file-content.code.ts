@@ -5,11 +5,9 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
-  inOrder,
   withProperty,
   withValue,
 } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
-import { sortedKey } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {
   afterFaultIn,
   keyFaultIn,
@@ -64,9 +62,7 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
   if (already) {
     return refusing(`\`${given.key}\` holds \`${given.value}\` already`)
   }
-  const sorted = sortedKey(world.index.shapesAt().values(), given.key)
-  const splice = sorted ? inOrder(source, holding, said) : withValue(source, holding, said)
-  return stating(spliced(given.at, text, splice))
+  return stating(spliced(given.at, text, withValue(source, holding, said)))
 }
 
 export function runChange(world: World, given: AddPropertyValueAsked): Said {

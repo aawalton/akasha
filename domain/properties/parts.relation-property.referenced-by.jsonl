@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"parts.relation-property.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"parts.relation-property.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts"}
 {"propertySlug":"import","fileName":"parts.relation-property.types.ts","path":"domain/domain.page-type.types.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/parts-admits-only-a-domain-so-a-page-type-cannot-declare-its-own-pages.finding.ts","id":"01a08807-80b5-7353-b324-c89868fd4333"}

@@ -14,10 +14,6 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.test.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts"}

@@ -107,17 +107,8 @@ export const pageKnowing = {
       statement: "No more than sixty-four of those pages are read.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Whether a key is sorted is read off the shapes the caller hands in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A key several page properties answer to is sorted only where every one of them says so.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A key no page property answers to is not sorted.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here says where among a key's values a new value falls.",
     },
   ],
 } as const satisfies Module

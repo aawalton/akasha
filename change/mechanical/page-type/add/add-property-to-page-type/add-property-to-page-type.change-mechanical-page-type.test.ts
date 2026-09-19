@@ -10,9 +10,6 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
-import { parts } from "akasha/domain/properties/parts.relation-property.ts"
-import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
 
 const AT = "thrumming/moots/moot.page-type.ts"
 
@@ -23,8 +20,6 @@ const OUTSIDE_AT = "elsewhere/sung-at.moot-property.ts"
 const PROPERTY = "moot-property/sung-at"
 
 const HELD = "moot-property/weight"
-
-const PARTS_AT = `${relationProperty.slug}/${parts.slug}` as const
 
 const BODY = `export const moot = {
   type: "page-type",
@@ -47,24 +42,9 @@ const PARTLESS = `export const moot = {
 
 const REACHED: string[] = []
 
-function shaped(sorted: boolean): Shape {
-  return {
-    pageTypeSlug: "relation-property",
-    targetPageTypeSlug: null,
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "parts",
-    propertySlug: "parts",
-    fileName: null,
-    folderName: null,
-    sorted,
-  }
-}
-
 type Holding = {
   readonly listed?: boolean
   readonly owner?: boolean
-  readonly sorted?: boolean
   readonly path?: string
   readonly body?: string
   readonly elsewhere?: ReadonlyMap<string, boolean>
@@ -78,13 +58,11 @@ function worldFor(holding: Holding = {}): World {
   const body = holding.body ?? BODY
   const path = holding.path ?? PROPERTY_AT
   const elsewhere = holding.elsewhere ?? new Map<string, boolean>()
-  const shapes = new Map<string, Shape>([[PARTS_AT, shaped(holding.sorted === true)]])
   return {
     root: "/nowhere",
     index: {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: () => (holding.owner === false ? null : { slug: "moot" }),
-      shapesAt: () => shapes,
       pageTypesIn: () => new Set(elsewhere.keys()),
       propertiesOf: (slug: string) => {
         const many = elsewhere.get(slug)
@@ -122,8 +100,8 @@ test("a page type naming no part yet gains its first part under that same key", 
   expect(bodyFor({ body: PARTLESS })).toContain(`parts: ["${PROPERTY}"],`)
 })
 
-test("a part is written in order where the index says that key is sorted", () => {
-  expect(bodyFor({ sorted: true })).toContain(`parts: ["${PROPERTY}", "moot-property/weight"],`)
+test("a part sorting before the parts already named is still written after them", () => {
+  expect(bodyFor()).toContain(`parts: ["moot-property/weight", "${PROPERTY}"],`)
 })
 
 test("a property sitting outside the page type's folder is declared the same way", () => {

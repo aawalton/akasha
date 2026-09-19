@@ -182,10 +182,10 @@ test("a value put into a list falls after the values that list holds", () => {
   )
 })
 
-test("a value put in where the caller says the key is sorted falls in that order", () => {
-  const body = heldBody([{ written: "listed", key: "parts", value: `"moot/alpha"`, sorted: true }])
+test("a value sorting before the values a list holds still falls after them", () => {
+  const body = heldBody([{ written: "listed", key: "parts", value: `"moot/alpha"` }])
 
-  expect(body).toContain(`["moot/alpha", "moot/one", "moot/two"]`)
+  expect(body).toContain(`["moot/one", "moot/two", "moot/alpha"]`)
 })
 
 test("a key the page states nowhere gains that value as its one value in a list", () => {

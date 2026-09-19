@@ -3,7 +3,7 @@ import {
   type Said,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { pageIn, sortedKey } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
+import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { literalIn, textsOf } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
   editsOver,
@@ -141,7 +141,6 @@ function writingIn(world: World, given: Asked, made: Made, spelled: Spelled): Wr
     written: "listed",
     key: PARTS,
     value: JSON.stringify(made.property),
-    sorted: sortedKey(world.index.shapesAt().values(), PARTS),
   })
   const record = declaringOf(given, made, spelled.said)
   for (const one of given.on) {

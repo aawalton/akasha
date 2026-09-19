@@ -30,11 +30,8 @@ export const pagePropertySplicing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value put into a list falls after the values that list holds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A value put in where the caller says the key is sorted falls in that order.",
+      statement:
+        "A value put into a list falls after the values that list holds, whatever order they are in.",
     },
     {
       decisionKind: "decision-kind/departure",

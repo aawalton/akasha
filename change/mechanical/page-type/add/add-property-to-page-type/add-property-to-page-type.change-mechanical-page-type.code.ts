@@ -3,7 +3,7 @@ import {
   type Said,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { pageIn, sortedKey } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
+import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {
   editsFor,
   type Written,
@@ -46,15 +46,10 @@ export function recordFor(given: Asked): string {
   return `{ ${held.join(", ")} }`
 }
 
-export function writtenFor(world: World, given: Asked): readonly Written[] {
+export function writtenFor(given: Asked): readonly Written[] {
   return [
     { written: "recorded", key: PROPERTIES, record: recordFor(given) },
-    {
-      written: "listed",
-      key: PARTS,
-      value: JSON.stringify(given.property),
-      sorted: sortedKey(world.index.shapesAt().values(), PARTS),
-    },
+    { written: "listed", key: PARTS, value: JSON.stringify(given.property) },
   ]
 }
 
@@ -90,7 +85,7 @@ export function addPropertyToPageType(world: World, given: Asked): Said {
   const clashing = clashingIn(world, given)
   if (clashing.length > 0) return refusing(clashedOver(clashing, given))
   if (pageIn(world, given.at) === null) return refusing(`\`${given.at}\` names no page type`)
-  const made = editsFor(world, { path: given.at, written: writtenFor(world, given) })
+  const made = editsFor(world, { path: given.at, written: writtenFor(given) })
   return typeof made === "string" ? refusing(made) : stating(made)
 }
 

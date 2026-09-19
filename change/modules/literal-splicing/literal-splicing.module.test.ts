@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
-  inOrder,
   without,
   withProperty,
   withRecord,
@@ -95,12 +94,6 @@ function valuePut(text: string, key: string, put: string): string {
   return list === null ? "" : splicedInto(text, withValue(source, list, put))
 }
 
-function valueOrdered(text: string, key: string, put: string): string {
-  const source = parsedAs(AT, text)
-  const list = listIn(source, key)
-  return list === null ? "" : splicedInto(text, inOrder(source, list, put))
-}
-
 function recordPut(text: string, key: string, put: string): string {
   const source = parsedAs(AT, text)
   const list = listIn(source, key)
@@ -139,26 +132,10 @@ test("a value is written as the caller spells it", () => {
   expect(valuePut(BODY, "partSlugs", "true")).toContain('"module/two", true]')
 })
 
-test("a value put in order falls before the first value that sorts after it", () => {
-  expect(valueOrdered(BODY, "partSlugs", '"module/only"')).toBe(
-    BODY.replace('"module/two"', '"module/only", "module/two"')
+test("a value sorting before every value the list holds still falls after the last of them", () => {
+  expect(valuePut(BODY, "partSlugs", '"module/alpha"')).toBe(
+    BODY.replace('"module/two"]', '"module/two", "module/alpha"]')
   )
-})
-
-test("a value put in order sorting after every value falls after the last of them", () => {
-  expect(valueOrdered(BODY, "partSlugs", '"module/zero"')).toBe(
-    BODY.replace('"module/two"]', '"module/two", "module/zero"]')
-  )
-})
-
-test("a value put in order falls before the first value even where that is the first", () => {
-  expect(valueOrdered(BODY, "partSlugs", '"module/alpha"')).toBe(
-    BODY.replace('"module/one"', '"module/alpha", "module/one"')
-  )
-})
-
-test("a value put in order into a list holding none falls just inside the bracket", () => {
-  expect(valueOrdered(EMPTY, "partSlugs", '"module/one"')).toContain('partSlugs: ["module/one"],')
 })
 
 test("an entry put into an object falls after the entry `after` names", () => {
