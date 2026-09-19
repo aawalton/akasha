@@ -57,6 +57,7 @@
 {"propertySlug":"world","path":"story/world-character/pages/cave-crab/cave-crab.world-character.ts","id":"01a0b705-e6fb-74f4-b562-2d8b0b4a3dd1"}
 {"propertySlug":"world","path":"story/world-character/pages/cave-dragon/cave-dragon.world-character.ts","id":"01a0b705-e74f-7278-9eb8-4bc030975313"}
 {"propertySlug":"world","path":"story/world-character/pages/ceria-springwalker.world-character.ts","id":"01a06580-2494-7ec7-be55-4ecdfa65a541"}
+{"propertySlug":"world","path":"story/world-character/pages/ceria/ceria.world-character.ts","id":"01a0b706-d36f-7302-8ebe-8714473c0858"}
 {"propertySlug":"world","path":"story/world-character/pages/cirille-bitterclaw.world-character.ts","id":"01a06580-2494-7782-8e50-3e35901ab5c4"}
 {"propertySlug":"world","path":"story/world-character/pages/crusader-51.world-character.ts","id":"01a06580-2494-7719-88fa-8218c6f4c1f7"}
 {"propertySlug":"world","path":"story/world-character/pages/dame-ushar.world-character.ts","id":"01a06580-2494-7c3f-ac00-620d6535f098"}
@@ -83,6 +84,7 @@
 {"propertySlug":"world","path":"story/world-character/pages/goblin-slayer.world-character.ts","id":"01a06580-2494-7311-bead-bbef89c556f9"}
 {"propertySlug":"world","path":"story/world-character/pages/gothica.world-character.ts","id":"01a06580-2494-7690-a8b5-0c37549f50ed"}
 {"propertySlug":"world","path":"story/world-character/pages/halrac-everam.world-character.ts","id":"01a06580-2494-7180-8da2-6f5bc8763993"}
+{"propertySlug":"world","path":"story/world-character/pages/halrac/halrac.world-character.ts","id":"01a0b706-d66d-77a1-93d5-aa3ffe847691"}
 {"propertySlug":"world","path":"story/world-character/pages/harvey-glastone.world-character.ts","id":"01a06580-2494-7e5b-8a58-a65199e4ad85"}
 {"propertySlug":"world","path":"story/world-character/pages/headscratcher.world-character.ts","id":"01a06580-2494-7b0c-822d-5b4957abf79c"}
 {"propertySlug":"world","path":"story/world-character/pages/horror-girl.world-character.ts","id":"01a06580-2494-7450-85c7-caa155995ead"}
@@ -106,6 +108,7 @@
 {"propertySlug":"world","path":"story/world-character/pages/levil.world-character.ts","id":"01a06580-2494-7e73-930c-ab5a8006ead2"}
 {"propertySlug":"world","path":"story/world-character/pages/liska.world-character.ts","id":"01a06580-2494-76e5-b9ca-0757b2955c15"}
 {"propertySlug":"world","path":"story/world-character/pages/luan-khumalo.world-character.ts","id":"01a06580-2494-77d6-945b-84329d157c7d"}
+{"propertySlug":"world","path":"story/world-character/pages/lyon/lyon.world-character.ts","id":"01a0b706-d7c7-760a-8289-3cbc51346ec7"}
 {"propertySlug":"world","path":"story/world-character/pages/lyonette-du-marquin.world-character.ts","id":"01a06580-2494-76a7-9c5d-212d2617f34c"}
 {"propertySlug":"world","path":"story/world-character/pages/lyonette.world-character.ts","id":"01a06580-2494-738a-aa8f-89b000c9099d"}
 {"propertySlug":"world","path":"story/world-character/pages/magnolia-reinhart.world-character.ts","id":"01a06580-2494-7d79-bc34-79f022266af0"}

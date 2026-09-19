@@ -1,13 +1,11 @@
 import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
 
-export const erin = {
-  id: "01a06580-2494-765b-b42d-40f9c2d72f04",
+export const ceria = {
+  id: "01a0b706-d36f-7302-8ebe-8714473c0858",
   type: "page-type/world-character",
-  slug: "erin",
-  title: "Erin",
+  slug: "ceria",
+  title: "Ceria",
   world: "world/the-wandering-inn",
-  maxLevel: 55,
-  eventCount: 140,
   firstChapter: 104,
   lastChapter: 104,
   characterClaims: "jsonl",

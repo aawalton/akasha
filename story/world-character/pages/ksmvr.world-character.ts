@@ -8,6 +8,7 @@ export const ksmvr = {
   world: "world/the-wandering-inn",
   maxLevel: 30,
   eventCount: 17,
-  firstChapter: 506,
-  lastChapter: 637,
+  firstChapter: 104,
+  lastChapter: 104,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

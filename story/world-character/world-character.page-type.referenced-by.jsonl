@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/cave-crab/cave-crab.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/cave-dragon/cave-dragon.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/ceria-springwalker.world-character.ts"}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/ceria/ceria.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/cirille-bitterclaw.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/crusader-51.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/dame-ushar.world-character.ts"}
@@ -42,6 +43,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/goblin-slayer.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/gothica.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/halrac-everam.world-character.ts"}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/halrac/halrac.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/harvey-glastone.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/headscratcher.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/horror-girl.world-character.ts"}
@@ -65,6 +67,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/levil.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/liska.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/luan-khumalo.world-character.ts"}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/lyon/lyon.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/lyonette-du-marquin.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/lyonette.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/magnolia-reinhart.world-character.ts"}

@@ -8,6 +8,7 @@ export const yvlon = {
   world: "world/the-wandering-inn",
   maxLevel: 45,
   eventCount: 15,
-  firstChapter: 385,
-  lastChapter: 733,
+  firstChapter: 104,
+  lastChapter: 104,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
