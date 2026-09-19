@@ -18,16 +18,22 @@ import {
   weekIn,
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { fitnessNext as page } from "akasha/command/pages/fitness/next/fitness-next.command.ts"
+import {
+  coveredBy,
+  KIT_TYPE,
+  type Kit,
+  kitIn,
+  loadsFor,
+  type Warmup,
+  warmupOf,
+} from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
   slugAt,
-  slugsIn,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-
-const KIT_TYPE = "fitness-equipment"
 
 const RESTRICTION_TYPE = "movement-restriction"
 
@@ -36,11 +42,6 @@ const DECLINE_TYPE = "strength-decline"
 const BODY_ONLY = "body-only"
 
 const UNRANKED = ["stretching", "cardio"]
-
-export type Kit = {
-  readonly covers: readonly string[]
-  readonly loads: readonly number[]
-}
 
 export type Mark = {
   readonly sets: number
@@ -76,6 +77,7 @@ export type Offer = {
   readonly atKitCeiling: boolean
   readonly familiar: boolean
   readonly slower: boolean
+  readonly warmup: Warmup | null
 }
 
 export type Bounds = {
@@ -83,27 +85,8 @@ export type Bounds = {
   readonly ceiling: number
   readonly newnessLeft: number
   readonly repsCap: number
-}
-
-export function kitIn(pages: readonly Value[]): readonly Kit[] {
-  const held: Kit[] = []
-  for (const one of pages) {
-    if (one.available !== true) continue
-    const loads = Array.isArray(one.loads)
-      ? one.loads.filter((each): each is number => typeof each === "number")
-      : []
-    held.push({ covers: slugsIn(one.covers), loads })
-  }
-  return held
-}
-
-export function coveredBy(kit: readonly Kit[]): ReadonlySet<string> {
-  return new Set(kit.flatMap((one) => [...one.covers]))
-}
-
-export function topLoadFor(kit: readonly Kit[], implement: string): number | null {
-  const loads = kit.filter((one) => one.covers.includes(implement)).flatMap((one) => [...one.loads])
-  return loads.length === 0 ? null : Math.max(...loads)
+  readonly warmupShare: number
+  readonly warmupReps: number
 }
 
 export function restrictedIn(pages: readonly Value[]): ReadonlySet<string> {
@@ -239,6 +222,16 @@ export function outIn(
   return held
 }
 
+export function performedOn(sets: readonly Value[], day: string): ReadonlySet<string> {
+  const named = new Set<string>()
+  for (const one of sets) {
+    if (textAt(one, "setLogDate") !== day) continue
+    const slug = slugAt(one, "exercise")
+    if (slug !== null) named.add(slug)
+  }
+  return named
+}
+
 export function doneOn(
   sets: readonly Value[],
   day: string,
@@ -300,7 +293,8 @@ export function offerOf(
   kit: readonly Kit[],
   marks: ReadonlyMap<string, Mark>,
   bounds: Bounds,
-  out: ReadonlySet<string>
+  out: ReadonlySet<string>,
+  performed: ReadonlySet<string> = new Set()
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, bounds.low).flatMap((muscle) => {
@@ -320,7 +314,8 @@ export function offerOf(
   )[0]
   if (best === undefined) return null
   const mark = marks.get(best.one.slug) ?? null
-  const top = best.one.implement === null ? null : topLoadFor(kit, best.one.implement)
+  const loads = best.one.implement === null ? [] : loadsFor(kit, best.one.implement)
+  const top = loads.length === 0 ? null : Math.max(...loads)
   const atKitCeiling = mark?.weight != null && top !== null && mark.weight >= top
   const climb = climbOf(mark, atKitCeiling, bounds.repsCap)
   return {
@@ -333,16 +328,33 @@ export function offerOf(
     atKitCeiling,
     familiar: (mark?.sets ?? 0) > 0,
     slower: climb.slower,
+    warmup: performed.has(best.one.slug)
+      ? null
+      : warmupOf(mark?.weight ?? null, loads, bounds.warmupShare, bounds.warmupReps),
   }
+}
+
+export function warmedOf(warmup: Warmup | null): readonly string[] {
+  if (warmup === null) return []
+  const reps = String(warmup.reps)
+  if (warmup.weight === null) return [`  warm up: ${reps} easy reps`]
+  return [`  warm up: ${String(warmup.weight)} lb, ${reps} easy reps`]
 }
 
 export function saidOf(offer: Offer | null): readonly string[] {
   if (offer === null) return ["nothing is owed and nothing is loadable — rest is the answer today"]
+  const warmed = warmedOf(offer.warmup)
+  const lead = warmed.length === 0 ? "  " : "  then "
   const load =
     offer.weight === null
-      ? "  find a load that takes you near failure inside eight to twelve reps"
-      : `  ${String(offer.weight)} lb, ${offer.reps === null ? "near failure" : `${String(offer.reps)} reps`}`
-  const said = [offer.title, load, `  ${offer.muscle} is owed ${String(offer.owed)} more this week`]
+      ? `${lead}find a load that takes you near failure inside eight to twelve reps`
+      : `${lead}${String(offer.weight)} lb, ${offer.reps === null ? "near failure" : `${String(offer.reps)} reps`}`
+  const said = [
+    offer.title,
+    ...warmed,
+    load,
+    `  ${offer.muscle} is owed ${String(offer.owed)} more this week`,
+  ]
   if (offer.slower)
     said.push("  your kit and your reps both top out here, so lower slowly and pause at the bottom")
   else if (offer.atKitCeiling)
@@ -383,8 +395,11 @@ export function nextIn(root: string, today: string): Offer | null {
     ceiling: selectionPolicy.weeklySetCeiling,
     newnessLeft: newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession),
     repsCap: selectionPolicy.repsBeforeSlowing,
+    warmupShare: selectionPolicy.warmupLoadShare,
+    warmupReps: selectionPolicy.warmupReps,
   }
-  return offerOf(week, kit, marks, bounds, outIn(week.movements, restricted, dropped))
+  const out = outIn(week.movements, restricted, dropped)
+  return offerOf(week, kit, marks, bounds, out, performedOn(week.sets, today))
 }
 
 export function fitnessNext(argv: readonly string[], given: Given): Answer {

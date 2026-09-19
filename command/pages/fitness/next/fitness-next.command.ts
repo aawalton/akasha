@@ -7,6 +7,7 @@ export const fitnessNext = {
   definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
+  parts: ["module/kit-loading"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -137,6 +138,33 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement:
         "Stimulus against fatigue parts two movements the pattern and the history leave alike.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement Alan has not performed today is offered with a warmup before its working set.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A warmup set takes the heaviest load Alan owns at or under a share of the working weight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A load under the lightest Alan owns is answered with the lightest Alan owns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A movement with no working weight yet is warmed up with easy reps and no load.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Any set Alan logged today is having performed that movement, warmup or working set.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A warmup set is under the near-failure line, so the week's tally passes it over.",
     },
   ],
   name: "next",

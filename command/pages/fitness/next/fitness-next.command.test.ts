@@ -5,23 +5,26 @@ import {
   type Bounds,
   chosenFor,
   climbOf,
-  coveredBy,
   depthOf,
   droppedIn,
   fitnessNext,
-  type Kit,
   loadable,
   type Mark,
   marksIn,
   newnessLeftIn,
+  type Offer,
   offerOf,
   outIn,
   owedIn,
+  performedOn,
   restrictedIn,
   saidOf,
-  topLoadFor,
   turnsIn,
 } from "akasha/command/pages/fitness/next/fitness-next.command.code.ts"
+import {
+  coveredBy,
+  type Kit,
+} from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -81,7 +84,30 @@ const KNOWN = new Map<string, Mark>([["dumbbell-bench-press", mark()]])
 const FREE: ReadonlySet<string> = new Set()
 
 function bounds(over: Partial<Bounds> = {}): Bounds {
-  return { low: 6, ceiling: 12, newnessLeft: 0, repsCap: 20, ...over }
+  return {
+    low: 6,
+    ceiling: 12,
+    newnessLeft: 0,
+    repsCap: 20,
+    warmupShare: 0.5,
+    warmupReps: 10,
+    ...over,
+  }
+}
+
+const WARM: ReadonlySet<string> = new Set(["dumbbell-bench-press"])
+
+const OFFER: Offer = {
+  movement: "dumbbell-bench-press",
+  title: "Dumbbell Bench Press",
+  muscle: "chest",
+  owed: 6,
+  weight: 30,
+  reps: 20,
+  atKitCeiling: false,
+  familiar: true,
+  slower: false,
+  warmup: null,
 }
 
 const BOUNDS = bounds()
@@ -98,11 +124,6 @@ test("a movement naming kit Alan does not own is not loadable", () => {
 
 test("a stretch is no movement to rank", () => {
   expect(loadable(movement("hamstring-stretch", { category: "stretching" }), COVERED)).toBe(false)
-})
-
-test("the top load is read off the kit covering the movement", () => {
-  expect(topLoadFor(KIT, "dumbbell")).toBe(30)
-  expect(topLoadFor(KIT, "barbell")).toBe(null)
 })
 
 test("the muscle owed the most comes first", () => {
@@ -234,6 +255,33 @@ test("a dropped movement is offered again once its pattern has progressed elsewh
     ["incline-dumbbell-press", mark({ bestOn: "2026-07-10", lastOn: "2026-07-10" })],
   ])
   expect(droppedIn(marks, week([BENCH, fresh]).movements, 3).size).toBe(0)
+})
+
+test("a movement Alan has not performed today is warmed up before its working set", () => {
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
+  expect(offer?.warmup).toEqual({ weight: 10, reps: 10 })
+  const said = saidOf(offer)
+  expect(said[1]).toBe("  warm up: 10 lb, 10 easy reps")
+  expect(said[2]).toBe("  then 30 lb, 20 reps")
+})
+
+test("a movement Alan performed already today is offered with no warmup", () => {
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
+  expect(offer?.warmup).toBe(null)
+  expect(saidOf(offer)[1]).toBe("  30 lb, 20 reps")
+})
+
+test("a movement with no working weight yet is warmed up with easy reps and no load", () => {
+  const warm = { weight: null, reps: 10 }
+  const said = saidOf({ ...OFFER, weight: null, reps: null, warmup: warm })
+  expect(said[1]).toBe("  warm up: 10 easy reps")
+  expect(said[2]).toContain("then find a load")
+})
+
+test("a set logged today counts as performed whether it was a warmup or not", () => {
+  const sets = [{ setLogDate: "2026-09-18", exercise: "dumbbell-bench-press", isWarmup: true }]
+  expect(performedOn(sets, "2026-09-18")).toEqual(new Set(["dumbbell-bench-press"]))
+  expect(performedOn(sets, "2026-09-17").size).toBe(0)
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {
