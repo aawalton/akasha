@@ -146,6 +146,14 @@ export const clusterRunning = {
       decisionKind: "decision-kind/departure",
       statement: "A job states that the run it carries is the one in the cluster.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job states the node the cluster put it on in the run's environment.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That node is taken from the pod's own field rather than from a call to the api.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

@@ -16,6 +16,7 @@ import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-a
 import {
   IN_CLUSTER,
   IN_CLUSTER_SET,
+  NODE_NAME,
 } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import {
   type Carried,
@@ -73,6 +74,8 @@ const DEADLINE_SECONDS = 3600
 
 const UNCONFINED = "Unconfined"
 
+const ON_NODE = "spec.nodeName"
+
 function fetchedFor(commit: string, was: string | null): readonly string[] {
   const at = `git fetch -q --depth 1 origin ${commit}`
   if (was === null || was === commit) return [at]
@@ -120,6 +123,7 @@ function jobFor(name: string, script: string): ApiObjectManifest {
                 { name: "HOME", value: ORCHESTRATOR_CACHE_MOUNT_PATH },
                 { name: ROOM, value: ROOM_GB },
                 { name: IN_CLUSTER, value: IN_CLUSTER_SET },
+                { name: NODE_NAME, valueFrom: { fieldRef: { fieldPath: ON_NODE } } },
                 {
                   name: GIT_TOKEN,
                   valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TOKEN } },

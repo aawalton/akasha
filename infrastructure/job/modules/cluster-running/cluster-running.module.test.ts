@@ -23,7 +23,10 @@ import {
   refusedPush,
   uncarried,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
-import { IN_CLUSTER } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
+import {
+  IN_CLUSTER,
+  NODE_NAME,
+} from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 
 const NAME = "held-job-0123456789ab"
 
@@ -94,6 +97,12 @@ test("the memory a landing starts on is read from the pod", () => {
 
 test("a job states that the run it carries is the one in the cluster", () => {
   expect(jobYamlFor(NAME, SCRIPT)).toContain(IN_CLUSTER)
+})
+
+test("a job states the node the cluster put it on in the run's environment", () => {
+  const said = jobYamlFor(NAME, SCRIPT)
+  expect(said).toContain(NODE_NAME)
+  expect(said).toContain("fieldPath: spec.nodeName")
 })
 
 test("a job holds every privilege the node gives a container", () => {

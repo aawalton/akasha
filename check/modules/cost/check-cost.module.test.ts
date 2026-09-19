@@ -3,7 +3,11 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Cost, Spawned } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { costSpawned, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { runsRead } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { NODE_NAME } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
+
+const NODE = "node-05"
 
 const MIB = 1024 * 1024
 
@@ -58,6 +62,32 @@ test("every second a spawned run spent is a child's", () => {
   expect(cost.writeCalls).toBe(0)
   expect(cost.readBytes).toBe(0)
   expect(cost.pathsChanged).toBe(0)
+})
+
+test("a line names the node the run it measures landed on", () => {
+  process.env[NODE_NAME] = NODE
+  const cost = costSpawned(spawned(MIB))
+  delete process.env[NODE_NAME]
+  expect(cost.node).toBe(NODE)
+})
+
+test("a run on no node of the cluster's carries the key nowhere", () => {
+  delete process.env[NODE_NAME]
+  const cost = costSpawned(spawned(MIB))
+  expect(cost.node).toBe(undefined)
+  expect(Object.hasOwn(cost, "node")).toBe(false)
+})
+
+test("a reader takes each field by name, so a line naming no node reads as one naming it", () => {
+  process.env[NODE_NAME] = NODE
+  const named = runsRead(`${JSON.stringify(costSpawned(spawned(MIB)))}\n`)
+  delete process.env[NODE_NAME]
+  const bare = runsRead(`${JSON.stringify(costSpawned(spawned(MIB)))}\n`)
+  expect(named.torn).toBe(0)
+  expect(bare.torn).toBe(0)
+  expect(named.runs.length).toBe(1)
+  expect(bare.runs.length).toBe(1)
+  expect(named.runs[0]).toEqual(bare.runs[0])
 })
 
 function seeded(): string {

@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { sizeOnDisk } from "akasha/file/disk/modules/file-size/file-size.module.code.ts"
 import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
+import { nodeNamed } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 
@@ -58,6 +59,12 @@ export type Cost = {
   readonly readBytes: number
   readonly pathsChanged: number
   readonly refusals: number
+  readonly node?: string
+}
+
+function nodeSaid(): { readonly node?: string } {
+  const said = nodeNamed()
+  return said === null ? {} : { node: said }
 }
 
 export type Taken = {
@@ -242,6 +249,7 @@ export function costOf(
     readBytes: after.readBytes - before.readBytes,
     pathsChanged,
     refusals,
+    ...nodeSaid(),
   }
 }
 
@@ -275,6 +283,7 @@ export function costSpawned(given: Spawned): Cost {
     readBytes: 0,
     pathsChanged: 0,
     refusals: given.refusals,
+    ...nodeSaid(),
   }
 }
 

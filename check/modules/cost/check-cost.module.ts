@@ -22,6 +22,34 @@ export const checkCost = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line names the node the run it measures landed on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That node is read from the environment the cluster states it in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run on no node of the cluster's names none rather than naming this machine.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line for such a run carries the key nowhere rather than carrying it empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader of these lines takes every field it reads by name.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The processor a node carries is read nowhere here.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "What processor a node carries is asked of the cluster rather than of a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The paths counted are the change's own rather than the paths the check judged.",
     },
     {
