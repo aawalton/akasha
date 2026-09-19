@@ -31,10 +31,6 @@ export const changeMeasuring = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file that would not read is named rather than counting as no runs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A row a write left half appended is passed over and the rest of the file read.",
     },
     {
