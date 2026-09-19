@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/modules/commit-author/commit-author.module.code.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/athena/athena.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-live-writer-appends-a-seats-log-lines-under-the-root-those-lines-were-moved-out-of.finding.ts","id":"01a09591-b374-75fb-9354-d734a8c435d8"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-read-record-entry-does-not-outlast-the-reads-after-it.finding.ts","id":"01a06c31-1b01-7000-b602-000000000001"}
