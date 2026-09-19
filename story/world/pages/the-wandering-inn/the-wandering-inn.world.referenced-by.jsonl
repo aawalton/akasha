@@ -6074,9 +6074,6 @@
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/yodelling-lieutenant/yodelling-lieutenant.world-class.ts","id":"01a0657e-0272-7750-84e7-9ed57166e14b"}
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/young-hunter/young-hunter.world-class.ts","id":"01a06586-0a85-7f34-8f9e-21bbf1b74824"}
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/z-v-na/z-v-na.world-class.ts","id":"01a0657e-0272-7b57-84a4-1fde25335894"}
-{"propertySlug":"world","path":"story/world/mechanics/legacies/pages/lay-our-sins-and-glories-in-open-air.world-legacy.ts","id":"01a0655a-0687-7819-886c-af1bd495ef4b"}
-{"propertySlug":"world","path":"story/world/mechanics/legacies/pages/long-ranged-shot.world-legacy.ts","id":"01a0655a-0687-7721-a2a6-29bd70cb0498"}
-{"propertySlug":"world","path":"story/world/mechanics/legacies/pages/pinpoint-arrows.world-legacy.ts","id":"01a0655a-0687-7b91-8ff7-5edf03e82098"}
 {"propertySlug":"world","path":"story/world/mechanics/miracles/pages/a-ray-of-sunlight/a-ray-of-sunlight.world-miracle.ts","id":"01a0655a-7b7b-702e-a80c-55ab3d721c01"}
 {"propertySlug":"world","path":"story/world/mechanics/miracles/pages/amass-the-faithful-s-will/amass-the-faithful-s-will.world-miracle.ts","id":"01a0655a-7b7b-7bce-9dc4-cec597c138ce"}
 {"propertySlug":"world","path":"story/world/mechanics/miracles/pages/avatar-of-faith/avatar-of-faith.world-miracle.ts","id":"01a0655a-7b7c-754b-8c6e-83a12aedf146"}
@@ -12710,4 +12707,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/items/wands-of-fireball.world-item.ts","id":"01a0655a-7b80-7106-9e88-cf6339ede935"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/items/waterproof-fabric.world-item.ts","id":"01a0655a-7b80-7192-8358-b677123144af"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/items/wyvernhide-potions.world-item.ts","id":"01a0655a-7b80-75b9-8b68-bfcb414bfd71"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/legacies/lay-our-sins-and-glories-in-open-air.world-legacy.ts","id":"01a0655a-0687-7819-886c-af1bd495ef4b"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/legacies/long-ranged-shot.world-legacy.ts","id":"01a0655a-0687-7721-a2a6-29bd70cb0498"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/legacies/pinpoint-arrows.world-legacy.ts","id":"01a0655a-0687-7b91-8ff7-5edf03e82098"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}
