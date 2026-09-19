@@ -9,4 +9,5 @@ export const chieftainRags = {
   firstChapter: 747,
   lastChapter: 763,
   characterClaims: "jsonl",
+  aliasOf: "world-character/rags",
 } as const satisfies WorldCharacter
