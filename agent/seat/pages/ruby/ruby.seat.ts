@@ -11,4 +11,5 @@ export const ruby = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "f6bc5d13-994e-4790-88b4-d8f9822f5296",
 } as const satisfies Seat
