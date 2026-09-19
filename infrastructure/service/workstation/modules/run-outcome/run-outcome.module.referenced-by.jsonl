@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"agent/seat/service-workstations/maintain-seat-pending/maintain-seat-pending.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"agent/seat/service-workstations/sweep-absent-seats/sweep-absent-seats.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"alan/harness/code-editor/data-interface/service-workstations/code-editor-data-watcher/code-editor-data-watcher.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"alan/harness/inbox/count-watch-service/inbox-count-watch-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"page/service/page-service.service-workstation.running.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
