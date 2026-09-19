@@ -192,6 +192,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/track/session/modules/day-landing/day-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/track/session/modules/session-acting/session-acting.module.code.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"domain/context/warrant/agent-akasha/agent-akasha.context-warrant.test.ts"}

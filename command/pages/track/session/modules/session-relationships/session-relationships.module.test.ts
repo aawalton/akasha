@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import {
   aliasesIn,
   carriedIn,
@@ -9,8 +9,8 @@ import {
   taggedFor,
   tokensIn,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
-
-const ROOT = "/var/home/walton/repos/akasha"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const JENNIFER = "019db533-f382-757e-93d6-8b217ef99d58"
 const JOSEPH = "019db533-f382-777c-aa86-873204c877f7"
@@ -84,15 +84,47 @@ test("the flag left unsaid reads as no tagging at all", () => {
   expect(relationshipsFor({ relationship: [] }, PAGES)).toBe(null)
 })
 
-test("the relationship pages are read off the checkout", () => {
-  const pages = relationshipsIn(ROOT)
-  expect(pages.length).toBeGreaterThan(600)
+const TYPE = "relationship"
+
+const WORLD = scratchWorld()
+
+afterAll(() => WORLD.sweep())
+
+const FILED = [
+  {
+    slug: "jennifer-walton",
+    id: JENNIFER,
+    title: "Jennifer Walton",
+    relationshipAliases: ["Jen", "Jenny"],
+  },
+  {
+    slug: "lizzy-walton",
+    id: LIZZY,
+    title: "Lizzy Walton",
+    relationshipAliases: ["Lizzy", "Elizabeth"],
+  },
+  { slug: "ryan-seamons", id: RYAN, title: "Ryan Seamons" },
+]
+
+function relationshipsFiled(): string {
+  const root = WORLD.rootFor("session-relationships-")
+  valueAlsoFiled(
+    root,
+    TYPE,
+    FILED.map((one) => ({ path: `person/pages/${one.slug}/${one.slug}.${TYPE}.ts`, value: one }))
+  )
+  return root
+}
+
+test("every relationship page the index lists is read, and none is dropped", () => {
+  const pages = relationshipsIn(relationshipsFiled())
+  expect(pages.length).toBe(FILED.length)
   expect(pages.every((one) => one.id !== "" && one.title !== "")).toBe(true)
   expect(pages.find((one) => one.id === JENNIFER)?.title).toBe("Jennifer Walton")
 })
 
 test("the aliases a relationship page carries are read off it too", () => {
-  const pages = relationshipsIn(ROOT)
+  const pages = relationshipsIn(relationshipsFiled())
   expect(pages.find((one) => one.id === JENNIFER)?.aliases).toEqual(["Jen", "Jenny"])
   expect(pages.find((one) => one.id === LIZZY)?.aliases).toEqual(["Lizzy", "Elizabeth"])
   expect(pages.find((one) => one.id === RYAN)?.aliases).toEqual([])
