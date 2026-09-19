@@ -2,6 +2,8 @@ import {
   songSlugFor,
   songsFiledIn,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Landing,
@@ -37,7 +39,7 @@ const SONG = "song"
 
 const SONG_KEY = "song"
 
-const WRITE = "change-mechanical/add-file-of-any-kind"
+const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const NAMED = [json, dryRun] as const
 
