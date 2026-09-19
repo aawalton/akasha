@@ -183,11 +183,13 @@ export function WatcherPageContent({
               <Text variant="prose">
                 You can{" "}
                 <LayoutLink href="/import" className="text-accent hover:underline">
-                  upload your SavedVariables file by hand
+                  upload your TemperCharacters file by hand
                 </LayoutLink>{" "}
-                instead. It works on any operating system, but you'll need to repeat it whenever you
-                want Temper to see fresh data — and it needs the same Temper ESO add-ons, since they
-                are what create the file you would be uploading.
+                instead, for your characters, companions and completion. It works on any operating
+                system, but you'll need to repeat it whenever you want Temper to see fresh data —
+                and it needs the same Temper ESO add-ons, since they are what create the file you
+                would be uploading. Your inventory reaches Temper through the Watcher and no other
+                way.
               </Text>
             </CardContent>
           </Card>
