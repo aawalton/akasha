@@ -1,11 +1,10 @@
 {"artist":"artist/mitski"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"318e44e6-3f6c-4e58-a674-ebedc3edd831","externalLink":"https://musicbrainz.org/work/318e44e6-3f6c-4e58-a674-ebedc3edd831","lastSyncedAt":"2026-06-28"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"318e44e6-3f6c-4e58-a674-ebedc3edd831","externalLink":"https://musicbrainz.org/work/318e44e6-3f6c-4e58-a674-ebedc3edd831","lastSyncedAt":"2026-09-19"}]}
 {"id":"019f0e9e-43c4-77d9-85ca-4b4968505bcc"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"mitski-between-the-breaths"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Between the Breaths"}
 {"type":"page-type/song"}

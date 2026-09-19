@@ -1,11 +1,10 @@
 {"artist":"artist/mitski"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"299f78e5-663c-4760-aeb7-94587e1b2e21","externalLink":"https://musicbrainz.org/work/299f78e5-663c-4760-aeb7-94587e1b2e21","lastSyncedAt":"2026-06-28"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"299f78e5-663c-4760-aeb7-94587e1b2e21","externalLink":"https://musicbrainz.org/work/299f78e5-663c-4760-aeb7-94587e1b2e21","lastSyncedAt":"2026-09-19"}]}
 {"id":"019f0e9d-e226-7546-94a5-a820e7115a5f"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"mitski-i-don-t-like-my-mind"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"I Don’t Like My Mind"}
 {"type":"page-type/song"}

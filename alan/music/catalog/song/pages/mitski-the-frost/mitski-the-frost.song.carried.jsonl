@@ -1,11 +1,10 @@
 {"artist":"artist/mitski"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"7343df08-4abb-49ac-91ab-f9302a34233c","externalLink":"https://musicbrainz.org/work/7343df08-4abb-49ac-91ab-f9302a34233c","lastSyncedAt":"2026-06-28"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"7343df08-4abb-49ac-91ab-f9302a34233c","externalLink":"https://musicbrainz.org/work/7343df08-4abb-49ac-91ab-f9302a34233c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019f0ea1-d134-7c6f-9f63-6d67115005e4"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"mitski-the-frost"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"The Frost"}
 {"type":"page-type/song"}
