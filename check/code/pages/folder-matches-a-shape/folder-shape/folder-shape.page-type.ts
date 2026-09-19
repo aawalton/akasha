@@ -25,6 +25,7 @@ export type Standing = {
   readonly gathered: (named: string) => readonly string[]
   readonly parts: (page: Held) => readonly string[]
   readonly partOf: (page: Held) => readonly string[]
+  readonly addressing: (page: Held) => readonly string[]
   readonly claimed: (folder: string) => boolean
 }
 
@@ -46,6 +47,7 @@ export const folderShape = {
     "folder-shape/modules-only",
     "folder-shape/pages-of-the-kind-named",
     "folder-shape/pages-of-the-type-above",
+    "folder-shape/parts-under-the-page-they-name",
     "folder-shape/parts-under-their-plural",
     "folder-shape/sections-of-the-section-beside",
   ],
@@ -226,6 +228,15 @@ export const folderShape = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A page answers with the collections that page names as holding that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page answers with every value on that page reading as a page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value reads as a page's address where that value is a page type slug and a slug.",
     },
     {
       decisionKind: "decision-kind/departure",

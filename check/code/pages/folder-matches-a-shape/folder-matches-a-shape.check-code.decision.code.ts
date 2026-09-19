@@ -43,7 +43,7 @@ import {
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Carried } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { addressIn, namedAs, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   type Held,
   heldIn,
@@ -269,6 +269,30 @@ export function partOfOver(index: Paged): (page: Held) => readonly string[] {
   }
 }
 
+function addressesIn(held: unknown, found: Set<string>): undefined {
+  if (typeof held === "string") {
+    const address = addressIn(held)
+    if (address.kind === "qualified") found.add(namedAs(address.pageTypeSlug, address.slug, null))
+    return
+  }
+  if (Array.isArray(held)) {
+    for (const one of held) addressesIn(one, found)
+    return
+  }
+  if (held === null || typeof held !== "object") return
+  for (const one of Object.values(held)) addressesIn(one, found)
+}
+
+export function addressingOver(index: Paged): (page: Held) => readonly string[] {
+  return (page) => {
+    const value = index.pageByPath(page.path)
+    if (value === null) return []
+    const found = new Set<string>()
+    for (const one of Object.values(value)) addressesIn(one, found)
+    return [...found]
+  }
+}
+
 const anything = (): boolean => true
 
 function namingParts(
@@ -368,6 +392,7 @@ export function judgingOver(given: Reading): Judging {
     )
   )
   const partOf = partOfOver(index)
+  const addressing = addressingOver(index)
   const claimed = claimingOver(grouped, pageTypes, fileProperties, parts)
   const refusalsAt = (folders: Iterable<string>): readonly Judged[] => {
     const found: Judged[] = []
@@ -406,6 +431,7 @@ export function judgingOver(given: Reading): Judging {
         gathered: (plural) => plurals.get(plural) ?? [],
         parts,
         partOf,
+        addressing,
         claimed,
       }
       const said = shapes.map((one) => ({ slug: one.slug, reasons: judgedBy(one, described) }))

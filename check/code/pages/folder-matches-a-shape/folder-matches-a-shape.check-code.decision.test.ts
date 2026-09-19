@@ -5,6 +5,7 @@ import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
 import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
 import { myStrategy } from "akasha/alan/book/pages/my-strategy/my-strategy.alan-book.ts"
 import {
+  addressingOver,
   holdingOver,
   namesFiling,
   type Paged,
@@ -175,6 +176,31 @@ test("a workspace beside a domain answers for the domain and for what that domai
     `${workspace.slug}/${akashaWorkspace.slug}`,
   ])
   expect([...holds("").declared]).toEqual(["domain/agents"])
+})
+
+const CHAPTER_AT = "story/world/pages/ember/stories/read/dawn/chapters/one.story-chapter-read.ts"
+
+const CHAPTER_TYPES = new Set<string>(["story-chapter-read"])
+
+const CHAPTER: Value = {
+  pageTypeSlug: "story-chapter-read",
+  slug: "one",
+  title: "Chapter 1",
+  story: "story-read/dawn",
+  position: 1,
+  decisions: [{ decisionKind: "decision-kind/departure", statement: "A chapter names a story." }],
+}
+
+test("a page answers with every value on it reading as a page type slug and a slug", () => {
+  const addressing = addressingOver({ pageByPath: () => CHAPTER })
+  const found = addressing(heldIn(CHAPTER_AT, CHAPTER_TYPES, new Set<string>()))
+  expect(found).toEqual(["story-read/dawn", "decision-kind/departure"])
+})
+
+test("a page the index reaches by no path answers with no address", () => {
+  const addressing = addressingOver({ pageByPath: () => null })
+  const found = addressing(heldIn(CHAPTER_AT, CHAPTER_TYPES, new Set<string>()))
+  expect(found).toEqual([])
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {
