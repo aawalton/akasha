@@ -1,16 +1,7 @@
 import { basename } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
+import { kindsNamedBy } from "akasha/check/code/pages/folder-matches-a-shape/modules/kind-naming/kind-naming.module.code.ts"
 import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.module.code.ts"
-
-function covered(standing: Standing, wanted: readonly string[], pageTypeSlug: string): boolean {
-  return wanted.some((one) => standing.extending(pageTypeSlug, one))
-}
-
-function namedFor(standing: Standing, wanted: readonly string[], name: string): boolean {
-  if (covered(standing, wanted, name)) return true
-  if (wanted.some((one) => one.endsWith(`-${name}`))) return true
-  return standing.gathered(name).some((one) => covered(standing, wanted, one))
-}
 
 export function kindsUnderTheirPlural(standing: Standing): readonly string[] {
   const named = basename(standing.folder)
@@ -24,7 +15,9 @@ export function kindsUnderTheirPlural(standing: Standing): readonly string[] {
       `${standing.files.length} files sit here, and a folder gathering page types holds none: ${saidInside(standing.folder, standing.files)}`
     )
   }
-  const apart = standing.subfolders.filter((at) => !namedFor(standing, wanted, basename(at)))
+  const apart = standing.subfolders.filter(
+    (at) => kindsNamedBy(standing, wanted, basename(at)).length === 0
+  )
   if (apart.length > 0) {
     said.push(
       `${apart.length} subfolders are named for no page type \`${named}\` covers: ${saidInside(standing.folder, apart)}`

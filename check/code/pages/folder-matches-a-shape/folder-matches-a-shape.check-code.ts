@@ -9,6 +9,7 @@ export const folderMatchesAShape = {
     "module/collection-parts",
     "module/folder-grouping",
     "module/folder-naming",
+    "module/kind-naming",
     "module/one-page-only",
     "module/one-type-only",
     "module/plural-gathering",

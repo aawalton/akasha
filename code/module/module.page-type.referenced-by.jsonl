@@ -927,6 +927,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/kind-naming/kind-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.ts"}

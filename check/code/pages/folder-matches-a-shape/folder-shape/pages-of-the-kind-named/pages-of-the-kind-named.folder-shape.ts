@@ -1,0 +1,60 @@
+import type { FolderShape } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.types.ts"
+
+export const pagesOfTheKindNamed = {
+  id: "01a0b7b2-0c55-763a-99e0-2613a7d25b8b",
+  type: "page-type/folder-shape",
+  slug: "pages-of-the-kind-named",
+  definition:
+    "the shape of a folder named for one page type, under that type's plural, with its pages",
+  code: "ts",
+  test: "ts",
+  enabled: false,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder above is named the plural one or more page types gather their pages under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder whose folder above is named no page type's plural is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type that plural covers is one of those page types or a page type extending one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder is named for exactly one page type that plural covers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named for no such page type is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named for more than one such page type is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every page here is of that page type or of a page type extending it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page sits here as a file of its own or in a folder of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file that is neither a page nor a file beside one is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder holding no page at all is refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The files a page in a folder of its own holds are judged where that page is.",
+    },
+  ],
+} as const satisfies FolderShape

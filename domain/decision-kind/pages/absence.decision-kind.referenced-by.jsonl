@@ -694,11 +694,13 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts","id":"01a04e33-f280-701e-96a0-859a53ed8298"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/kinds-under-their-plural/kinds-under-their-plural.folder-shape.ts","id":"01a0b7a5-8ef3-7602-bfad-e43f5b07dd13"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/modules-only/modules-only.folder-shape.ts","id":"01a05f26-edf0-76fc-b2f1-9351eb172aee"}
+{"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-kind-named/pages-of-the-kind-named.folder-shape.ts","id":"01a0b7b2-0c55-763a-99e0-2613a7d25b8b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-type-above/pages-of-the-type-above.folder-shape.ts","id":"01a05f26-edf0-78fe-b79b-4b1b278b55f2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.ts","id":"01a0a5c5-2740-7001-863a-0802035387a4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.ts","id":"01a09ec3-da54-7a58-9554-ea6fd937fd5f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.ts","id":"01a076d1-2008-7e68-acfc-f5b939d07cc3"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.ts","id":"01a08862-ae61-7aba-8958-91c3c7732e22"}
+{"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/kind-naming/kind-naming.module.ts","id":"01a0b7b1-69cc-7aad-8e0a-f9614f110824"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.ts","id":"01a09d18-8d7c-7838-a182-93dea1d06ca2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.ts","id":"01a09c36-f538-72e2-9125-1f0b39671fa5"}
 {"propertySlug":"decision-kind","path":"check/code/pages/global-declared-once/global-declared-once.check-code.ts","id":"01a061ca-2484-773a-8dc7-e6a08fe588f9"}

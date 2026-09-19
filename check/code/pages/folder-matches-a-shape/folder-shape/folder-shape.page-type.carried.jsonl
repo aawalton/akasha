@@ -3,7 +3,7 @@
 {"extends":["page-type/module"]}
 {"id":"01a04e33-f280-701e-96a0-859a53ed8298"}
 {"loadedBy":"check-code/folder-matches-a-shape"}
-{"parts":["boolean-property/folder-shape-enabled","folder-shape/a-claimed-folder","folder-shape/a-domain-with-its-parts","folder-shape/a-page-type-with-its-parts","folder-shape/a-page-with-its-parts","folder-shape/collection-parts-under-their-plural","folder-shape/kinds-under-their-plural","folder-shape/modules-only","folder-shape/pages-of-the-type-above","folder-shape/parts-under-their-plural","folder-shape/sections-of-the-section-beside"]}
+{"parts":["boolean-property/folder-shape-enabled","folder-shape/a-claimed-folder","folder-shape/a-domain-with-its-parts","folder-shape/a-page-type-with-its-parts","folder-shape/a-page-with-its-parts","folder-shape/collection-parts-under-their-plural","folder-shape/kinds-under-their-plural","folder-shape/modules-only","folder-shape/pages-of-the-kind-named","folder-shape/pages-of-the-type-above","folder-shape/parts-under-their-plural","folder-shape/sections-of-the-section-beside"]}
 {"properties":[{"pageProperty":"code-file-property/test","required":true,"many":false},{"pageProperty":"boolean-property/folder-shape-enabled","required":true,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"folder-shape"}
