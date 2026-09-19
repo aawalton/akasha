@@ -1,0 +1,12 @@
+{"artist":"artist/james-taylor"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"32b03c03-f5b1-4c4a-b9e4-eec5956f56b4","externalLink":"https://musicbrainz.org/work/32b03c03-f5b1-4c4a-b9e4-eec5956f56b4","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0b72f-34fc-7938-9809-1f553757c15d"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"james-taylor-music"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
+{"title":"Music"}
+{"type":"page-type/song"}
+{"written":"solo"}

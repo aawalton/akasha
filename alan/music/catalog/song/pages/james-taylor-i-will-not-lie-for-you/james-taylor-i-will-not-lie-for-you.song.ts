@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const jamesTaylorIWillNotLieForYou = {
+  id: "01a0b72f-3ea9-7542-9624-06f0f4a1d119",
+  type: "page-type/song",
+  slug: "james-taylor-i-will-not-lie-for-you",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b758215d-b71e-4c2b-b49f-806b51beb1ca",
+      externalLink: "https://musicbrainz.org/work/b758215d-b71e-4c2b-b49f-806b51beb1ca",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "I Will Not Lie for You",
+  artist: "artist/james-taylor",
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "solo",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

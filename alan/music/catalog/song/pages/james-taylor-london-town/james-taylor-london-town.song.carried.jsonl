@@ -1,0 +1,12 @@
+{"artist":"artist/james-taylor"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c8cba951-e1f2-42c7-8a01-9a8aa8539f6f","externalLink":"https://musicbrainz.org/work/c8cba951-e1f2-42c7-8a01-9a8aa8539f6f","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0b72f-40fd-7e1a-b5a0-2f044cd59feb"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"james-taylor-london-town"}
+{"songType":"original"}
+{"syncedLyrics":"txt"}
+{"title":"London Town"}
+{"type":"page-type/song"}
+{"written":"solo"}

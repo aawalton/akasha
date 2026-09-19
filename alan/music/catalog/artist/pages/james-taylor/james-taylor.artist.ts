@@ -14,6 +14,12 @@ export const jamesTaylor = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "107d0c22-d051-4d98-8206-4e14de02132a",
+      externalLink: "https://musicbrainz.org/artist/107d0c22-d051-4d98-8206-4e14de02132a",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "0vn7UBvSQECKJm2817Yf1P",
       externalLink: "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P",
@@ -21,4 +27,14 @@ export const jamesTaylor = {
     },
   ],
   title: "James Taylor",
+  genre: [
+    "rock",
+    "soft rock",
+    "folk rock",
+    "singer-songwriter",
+    "country",
+    "pop rock",
+    "folk",
+    "folk pop",
+  ],
 } as const satisfies Artist
