@@ -1,7 +1,9 @@
 import { beforeEach, expect, mock, test } from "bun:test"
+import { upkeepCapacity } from "akasha/alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 
-const CAPACITY = "readout/upkeep-capacity"
+const CAPACITY = `${readout.slug}/${upkeepCapacity.slug}`
 
 const ALAN = "https://alanwalton.com"
 

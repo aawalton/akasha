@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"upkeep-capacity.readout.reading.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"upkeep-capacity.readout.reading.code.ts","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.reading.test.ts"}
+{"propertySlug":"import","fileName":"upkeep-capacity.readout.ts","path":"alan/harness/capacity/relay-service/capacity-relay-service.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"upkeep-capacity.readout.ts","path":"alan/harness/capacity/relay-service/capacity-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"parts","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
