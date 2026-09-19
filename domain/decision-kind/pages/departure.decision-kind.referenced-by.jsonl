@@ -5207,6 +5207,7 @@
 {"propertySlug":"decision-kind","path":"temper/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.ts","id":"01a0685a-f9b2-7000-8097-747bc58d26f6"}
 {"propertySlug":"decision-kind","path":"temper/upstream-data/modules/zone-upstream-verify/zone-upstream-verify.module.ts","id":"01a06288-c640-74b3-b566-c847f9efc2c9"}
 {"propertySlug":"decision-kind","path":"temper/upstream-data/temper-upstream-data.domain.ts","id":"01a06038-2cbe-79d6-9497-4ef8b26650e5"}
+{"propertySlug":"decision-kind","path":"temper/value/temper-value.domain.ts","id":"01a0b760-9c78-7f15-bcd1-231796bec651"}
 {"propertySlug":"decision-kind","path":"temper/watcher-tray/installer/watcher-tray-installer.rust-module.ts","id":"01a06034-87f4-7908-a23a-069bdb5b09be"}
 {"propertySlug":"decision-kind","path":"temper/watcher-tray/logger/watcher-tray-logger.rust-module.ts","id":"01a06034-87f3-7e8f-8172-3c3603e9bb0c"}
 {"propertySlug":"decision-kind","path":"temper/watcher-tray/main/watcher-tray-main.rust-module.ts","id":"01a06034-87f2-7fac-8b9d-cf99a6a41d3b"}

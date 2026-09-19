@@ -603,6 +603,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-listing/temper-trading-listing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-pricing/temper-trading-pricing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/upstream-data/temper-upstream-data.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/value/temper-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/writing/text-writing.domain.ts"}
