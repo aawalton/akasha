@@ -36,23 +36,20 @@ export const setVolume = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A warmup set is worth nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A set stating an activity is worth nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A set stating no activity is strength.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A set's volume is not rounded.",
     },
     {
       decisionKind: "decision-kind/stopgap",
       statement: "A field the set states nothing for counts as nought rather than refusing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set is worth the load it moved, whether that set warmed Alan up or worked him.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A set carrying no load and a set counting no rep come out at nought on the arithmetic alone.",
     },
   ],
   types: "ts",

@@ -11,8 +11,6 @@ type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
 type Weighed = { readonly bodyweight?: number }
 
 export const work: Work<StrengthLog, SetVolume> = (page, reach) => {
-  if (page.isWarmup === true) return 0
-  if (page.activityType !== undefined) return 0
   const named = page.exercise
   const movement = named === undefined ? null : reach.target<Loaded>(named)
   const lifter = reach.target<Weighed>(LIFTER)
