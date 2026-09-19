@@ -13,6 +13,10 @@ const SHARED_FROM = "../modules/hours/hours.computed-property-module.code.ts"
 
 const BESIDE = "akasha/held.computed-property.ts"
 
+const PAGE_FROM = "akasha/lifter/pages/held-one/held-one.lifter.ts"
+
+const PAGE_CODE_FROM = "akasha/lifter/pages/held-one/held-one.lifter.code.ts"
+
 test("a calculation importing only types is let through", () => {
   const body =
     'import type { Work } from "@akasha/pages/computed-property"\n' +
@@ -93,6 +97,28 @@ test("a namespace import of a computed-property-module is refused", () => {
   const said = foundIn(AT, `import * as hours from "${SHARED_FROM}"\n`)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`hours`")
+})
+
+test("a named import of a page is let through", () => {
+  expect(foundIn(AT, `import { heldOne } from "${PAGE_FROM}"\n`)).toEqual([])
+})
+
+test("a default import of a page is refused", () => {
+  const said = foundIn(AT, `import heldOne from "${PAGE_FROM}"\n`)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`heldOne`")
+})
+
+test("a namespace import of a page is refused", () => {
+  const said = foundIn(AT, `import * as heldOne from "${PAGE_FROM}"\n`)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`heldOne`")
+})
+
+test("a file beside a page is no page, so a value import of one is refused", () => {
+  const said = foundIn(AT, `import { held } from "${PAGE_CODE_FROM}"\n`)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`held`")
 })
 
 test("a computed-property-module's own code file is judged by the same rule", () => {

@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/runner/change-runner.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.decision.code.ts"}

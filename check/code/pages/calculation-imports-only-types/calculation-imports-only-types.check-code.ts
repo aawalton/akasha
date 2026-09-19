@@ -15,7 +15,11 @@ export const calculationImportsOnlyTypes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a computed-property-module's code file is folded into that text.",
+      statement: "Only a page and a computed-property-module's code file fold into that text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page is told by the shape of its name rather than by the index.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,11 +28,11 @@ export const calculationImportsOnlyTypes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A named element imported from a computed-property-module is let through.",
+      statement: "A named element imported from either of those is let through.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A default or namespace import of a computed-property-module is refused.",
+      statement: "A default or namespace import of either of those is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

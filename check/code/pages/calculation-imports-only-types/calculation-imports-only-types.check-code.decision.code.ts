@@ -2,6 +2,7 @@ import {
   lineOf,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { pageShaped } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 
 const CALCULATED = ".computed-property.code.ts"
@@ -9,7 +10,7 @@ const CALCULATED = ".computed-property.code.ts"
 const SHARED = ".computed-property-module.code.ts"
 
 const ONLY =
-  "a calculation runs from its text, and only a computed-property-module folds into that text"
+  "a calculation runs from its text, and only a page or a computed-property-module folds into that text"
 
 type Found = {
   readonly named: string | null
@@ -17,9 +18,13 @@ type Found = {
   readonly from: string
 }
 
+function foldsIn(from: string): boolean {
+  return from.endsWith(SHARED) || pageShaped(from)
+}
+
 function boundIn(bound: ts.NamedImportBindings, line: number, from: string): readonly Found[] {
   if (ts.isNamespaceImport(bound)) return [{ named: bound.name.text, line, from }]
-  if (from.endsWith(SHARED)) return []
+  if (foldsIn(from)) return []
   return bound.elements
     .filter((each) => !each.isTypeOnly)
     .map((each) => ({ named: each.name.text, line, from }))
