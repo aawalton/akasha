@@ -78,10 +78,17 @@ func makeView(
     // Nothing it holds comes off a feed, so it has no refused and no never-loaded picture to
     // render, and the body is read straight. The moment it carries is spelled the way the app
     // spells it when it hands one over, which is why the reader here is the reader the app uses.
-    case "StoplightsActivity":
+    // THE ISLAND IS DRAWN UNDER A SECOND NAME, THE WAY THE COST TILE'S FORMS ARE.
+    //
+    // The bundle ships `StoplightsActivity` alone, so that name asks for the lock screen and the
+    // island's name asks for no coverage line and is reached only by a case naming it.
+    case "StoplightsActivity", "StoplightsIslandWidget":
         let reader = JSONDecoder()
         reader.dateDecodingStrategy = .iso8601
         let content = try reader.decode(StoplightsAttributes.ContentState.self, from: body)
+        if widget == "StoplightsIslandWidget" {
+            return AnyView(StoplightsIslandView(state: content))
+        }
         return AnyView(StoplightsActivityView(state: content))
     #endif
     case "UpkeepStoplightsWidget":

@@ -230,6 +230,11 @@ func cases(now: Date) -> [RenderCase] {
             name: "stoplights-activity-lock-screen", widget: "StoplightsActivity",
             familySource: "systemLarge", body: stoplightsActivity,
             sizeOverride: CGSize(width: 360, height: 160)))
+    all.append(
+        RenderCase(
+            name: "stoplights-activity-island", widget: "StoplightsIslandWidget",
+            familySource: "systemLarge", body: stoplightsActivity,
+            sizeOverride: CGSize(width: 340, height: 64)))
 
     all.append(
         contentsOf: wideAndPlaceholderCases(
