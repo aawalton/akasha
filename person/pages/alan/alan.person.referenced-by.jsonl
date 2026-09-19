@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/route-access/route-access.module.test.ts"}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"person","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0b6d5-b280-7000-8585-60e5052cb5a3"}
+{"propertySlug":"person","path":"agent/seat/pages/astra/astra.seat.ts","id":"01a0ba41-773c-7000-baa1-9afa8d8c43d0"}
 {"propertySlug":"person","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0b9c3-b99c-7000-82fc-a7b7f4fcba55"}
 {"propertySlug":"person","path":"alan/harness/notification-feed/pages/alan/alan.notification-feed.ts","id":"01a06864-7aa1-7c13-b966-6dae89eb5283"}
 {"propertySlug":"person","path":"alan/music/listening/heard-music/pages/alan/alan.heard-music.ts","id":"01a01d3e-45ba-76ff-9d84-5bef96f9f1b8"}
