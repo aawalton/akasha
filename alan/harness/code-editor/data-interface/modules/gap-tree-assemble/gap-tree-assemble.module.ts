@@ -1,0 +1,62 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const gapTreeAssemble = {
+  id: "01a0b7a0-c25d-7889-8128-bb4ddc41c72c",
+  type: "page-type/module",
+  slug: "gap-tree-assemble",
+  definition: "the gaps read out of the pages, each hung on the page stating that gap",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap hangs under the page stating that gap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page is named here by its page type and its slug, as the domains panel names it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A decision of any other kind is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap is drawn as the sentence that gap states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap opens the page that gap is stated on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gaps of one page are drawn in the order that page states them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap is keyed by the page and the place that gap holds among the page's gaps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap stating no sentence is skipped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file beside a page rather than a page of its own states no gap.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "An initiative's intents are the work panel's and are no decision, so none is here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here nests the domains or counts what hangs on them.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads a file the editor holds.",
+    },
+  ],
+} as const satisfies Module
