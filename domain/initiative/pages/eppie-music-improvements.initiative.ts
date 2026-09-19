@@ -16,5 +16,8 @@ export const eppieMusicImprovements = {
     {
       statement: "No song is a version of another song.",
     },
+    {
+      statement: "Every song has a type.",
+    },
   ],
 } as const satisfies Initiative

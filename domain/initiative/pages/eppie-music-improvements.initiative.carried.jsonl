@@ -1,6 +1,6 @@
 {"domain":"domain/music"}
 {"id":"01a0913d-13a5-7a7d-b7c4-f779d4059ebd"}
-{"intentStack":[{"statement":"Every artist whose tracks Alan keeps has the songs of that artist filed."},{"statement":"Every track names the song that track is a recording of."},{"statement":"No song is a version of another song."}]}
+{"intentStack":[{"statement":"Every artist whose tracks Alan keeps has the songs of that artist filed."},{"statement":"Every track names the song that track is a recording of."},{"statement":"No song is a version of another song."},{"statement":"Every song has a type."}]}
 {"persona":"persona/eppie"}
 {"slug":"eppie-music-improvements"}
 {"type":"page-type/initiative"}
