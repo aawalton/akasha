@@ -8,6 +8,7 @@ export const barnethei = {
   world: "world/the-wandering-inn",
   maxLevel: 46,
   eventCount: 8,
-  firstChapter: 772,
-  lastChapter: 772,
+  firstChapter: 592,
+  lastChapter: 815,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

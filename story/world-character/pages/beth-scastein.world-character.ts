@@ -10,4 +10,5 @@ export const bethScastein = {
   eventCount: 15,
   firstChapter: 643,
   lastChapter: 643,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

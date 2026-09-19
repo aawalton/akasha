@@ -8,6 +8,7 @@ export const alevica = {
   world: "world/the-wandering-inn",
   maxLevel: 34,
   eventCount: 8,
-  firstChapter: 714,
-  lastChapter: 715,
+  firstChapter: 349,
+  lastChapter: 746,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

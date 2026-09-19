@@ -7,6 +7,7 @@ export const apista = {
   title: "Apista",
   world: "world/the-wandering-inn",
   eventCount: 2,
-  firstChapter: 319,
-  lastChapter: 319,
+  firstChapter: 227,
+  lastChapter: 752,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -9,5 +9,6 @@ export const adetrSteelfur = {
   maxLevel: 27,
   eventCount: 2,
   firstChapter: 520,
-  lastChapter: 520,
+  lastChapter: 711,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

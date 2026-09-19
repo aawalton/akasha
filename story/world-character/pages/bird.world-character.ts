@@ -8,6 +8,7 @@ export const bird = {
   world: "world/the-wandering-inn",
   maxLevel: 42,
   eventCount: 29,
-  firstChapter: 274,
-  lastChapter: 669,
+  firstChapter: 65,
+  lastChapter: 763,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -8,6 +8,7 @@ export const badarrow = {
   world: "world/the-wandering-inn",
   maxLevel: 25,
   eventCount: 3,
-  firstChapter: 283,
-  lastChapter: 283,
+  firstChapter: 143,
+  lastChapter: 775,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

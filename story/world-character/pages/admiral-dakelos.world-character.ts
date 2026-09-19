@@ -4,10 +4,11 @@ export const admiralDakelos = {
   id: "01a06580-2493-754d-aa3d-c53cb24be1e6",
   type: "page-type/world-character",
   slug: "admiral-dakelos",
-  title: "Admiral Dakelos",
+  title: "Dakelos",
   world: "world/the-wandering-inn",
   maxLevel: 40,
   eventCount: 7,
   firstChapter: 646,
-  lastChapter: 646,
+  lastChapter: 687,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

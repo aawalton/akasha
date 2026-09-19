@@ -8,6 +8,7 @@ export const azKerash = {
   world: "world/the-wandering-inn",
   maxLevel: 78,
   eventCount: 6,
-  firstChapter: 614,
-  lastChapter: 614,
+  firstChapter: 46,
+  lastChapter: 757,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
