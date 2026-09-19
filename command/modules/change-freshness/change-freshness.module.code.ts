@@ -80,10 +80,8 @@ function unfreshPast(
   const moved = named === null || named === base ? [] : movedBetween(root, named, base, held)
   if (named !== null && moved.length > 0) {
     return [
-      ...moved.map(
-        (one) =>
-          `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, ${PUT_BACK}`
-      ),
+      `${moved.join(", ")} — read against \`${named}\`, and what is at \`${base}\` is not ` +
+        `what was read, ${PUT_BACK}`,
       tail,
     ]
   }
@@ -93,10 +91,7 @@ function unfreshPast(
     asRead.filter((one) => !machine.has(one.path))
   )
   if (stirred.length === 0) return null
-  return [
-    ...stirred.map((one) => `${one} — what is on disk is not the body you read, ${PUT_BACK}`),
-    tail,
-  ]
+  return [`${stirred.join(", ")} — what is on disk is not the body you read, ${PUT_BACK}`, tail]
 }
 
 export function unfresh(

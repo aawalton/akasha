@@ -90,5 +90,10 @@ export const changeFreshness = {
       statement:
         "A refusal over a body that moved closes in the same words whichever way that body moved.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every path whose body moved is named in one refusal rather than one refusal each.",
+    },
   ],
 } as const satisfies Module

@@ -233,6 +233,21 @@ test("a body on disk that is the body read is answered as nothing", () => {
   expect(unfresh(root, null, headOf(root), [AT], [readA()], "tail")).toBe(null)
 })
 
+const TYPE_AT = "akasha/domain.page-type.ts"
+
+test("every body that moved is named in one refusal rather than one refusal each", () => {
+  const root = repoWith(PAGES)
+  const held = [readA(), asRead(TYPE_AT, blobIdOf(bytes(TYPE)))]
+  writeFileSync(join(root, AT), "moved")
+  writeFileSync(join(root, TYPE_AT), "moved as well")
+  const said = unfresh(root, null, headOf(root), [AT, TYPE_AT], held, "tail")
+  expect(said?.length).toBe(2)
+  expect(said?.[0]).toContain(AT)
+  expect(said?.[0]).toContain(TYPE_AT)
+  expect(said?.[0] ?? "").toEndWith(PUT_BACK)
+  expect(said?.at(-1)).toBe("tail")
+})
+
 test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {
   const root = repoWith(PAGES)
   const said = await landing(
