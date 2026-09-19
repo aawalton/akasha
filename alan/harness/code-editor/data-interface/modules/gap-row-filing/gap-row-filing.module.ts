@@ -37,9 +37,5 @@ export const gapRowFiling = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The finding rows and the command rows are kept beside their pictures this way.",
-    },
   ],
 } as const satisfies Module
