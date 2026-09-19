@@ -129,7 +129,6 @@ const pool = async <T>(
 
 const main = async (): Promise<void> => {
   const args = process.argv.slice(2)
-  const dryRun = args.includes("--dry-run")
   const limitArg = args.indexOf("--limit")
   const limit = limitArg >= 0 ? Number.parseInt(args[limitArg + 1] ?? "", 10) : undefined
 
@@ -167,17 +166,13 @@ const main = async (): Promise<void> => {
       continue
     }
 
-    if (!dryRun) mkdirSync(folder, { recursive: true })
+    mkdirSync(folder, { recursive: true })
     console.log(`• ${folderName} — ${resolutions.length} sizes`)
 
     await pool(resolutions, CONCURRENCY, async (resolution) => {
       const dest = join(folder, `${resolution.label}.jpg`)
       if (existsSync(dest) && statSync(dest).size > 0) {
         skipped++
-        return
-      }
-      if (dryRun) {
-        console.log(`    would download ${resolution.label} <- ${resolution.url}`)
         return
       }
       try {

@@ -69,11 +69,10 @@ const renderFinal = (src: string, dest: string): Promise<string> =>
 
 const main = async (): Promise<void> => {
   const args = process.argv.slice(2)
-  const dryRun = args.includes("--dry-run")
   const force = args.includes("--force")
 
   if (!existsSync(SOURCE_ROOT)) throw new Error(`Source root not found: ${SOURCE_ROOT}`)
-  if (!dryRun) mkdirSync(OUTPUT_ROOT, { recursive: true })
+  mkdirSync(OUTPUT_ROOT, { recursive: true })
 
   const folders = readdirSync(SOURCE_ROOT, { withFileTypes: true })
     .filter((entry) => entry.isDirectory())
@@ -110,10 +109,6 @@ const main = async (): Promise<void> => {
     }
 
     const srcLabel = best.path.split("/").at(-1) ?? best.path
-    if (dryRun) {
-      console.log(`  ${folder}.png <- ${srcLabel} (${best.width}x${best.height})`)
-      continue
-    }
     try {
       await renderFinal(best.path, dest)
       rendered++
