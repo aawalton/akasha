@@ -21,7 +21,12 @@ const ASIDE = new RegExp(
   "giu"
 )
 
-const TRAILING = new RegExp(`\\s+-\\s+(?=[^-]*(?:${CREDIT}|${VERSION}))[^-]*$`, "iu")
+const DASHES = "-\\u2013\\u2014"
+
+const TRAILING = new RegExp(
+  `\\s+[${DASHES}]\\s+(?=[^${DASHES}]*(?:${CREDIT}|${VERSION}))[^${DASHES}]*$`,
+  "iu"
+)
 
 export function compositionTitle(title: string): string {
   let held = title

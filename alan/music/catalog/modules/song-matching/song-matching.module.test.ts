@@ -60,6 +60,14 @@ test("an aside holding a version word anywhere in it is dropped whole", () => {
   )
 })
 
+test("a tail is dropped whether it opens on a hyphen, an en dash or an em dash", () => {
+  expect(compositionTitle("the boy is mine – a cappella")).toBe("the boy is mine")
+  expect(compositionTitle("the boy is mine — instrumental")).toBe("the boy is mine")
+  expect(compositionTitle("we can't be friends (wait for your love) – string version")).toBe(
+    "we can't be friends (wait for your love)"
+  )
+})
+
 test("a tail naming neither a credit nor a version is part of the title", () => {
   expect(compositionTitle("Crush - Girls Trip")).toBe("Crush - Girls Trip")
 })

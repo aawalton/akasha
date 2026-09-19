@@ -30,7 +30,8 @@ export const songMatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tail after a dash holding a credit or a version word is dropped from a title.",
+      statement:
+        "A tail after a hyphen, an en dash or an em dash holding a credit or a version word is dropped.",
     },
     {
       decisionKind: "decision-kind/departure",
