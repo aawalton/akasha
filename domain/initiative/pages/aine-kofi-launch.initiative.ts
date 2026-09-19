@@ -7,4 +7,5 @@ export const aineKofiLaunch = {
   domain: "domain/kofi",
   persona: "persona/aine",
   constraints: ["Nothing here is done until everything this launch waits on is done."],
+  intentStack: [{ statement: "Alan has a Ko-fi page people can back him on." }],
 } as const satisfies Initiative

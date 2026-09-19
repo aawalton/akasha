@@ -7,7 +7,6 @@ export const aineKofi = {
   domain: "domain/kofi",
   persona: "persona/aine",
   intentStack: [
-    { statement: "Alan has a Ko-fi page people can back him on." },
     {
       statement:
         "A payment Stripe reports lands the contributor's page and the contribution points it earns.",
