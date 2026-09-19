@@ -1,18 +1,18 @@
 import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
 
-export const kellyClarksonOHolyNight = {
-  id: "019ea4b1-f17c-73e2-b591-1653dd2e3289",
+export const paulCardallInTheBleakMidwinter = {
+  id: "01a0b717-54a6-729d-9735-380e417abd51",
   type: "page-type/song",
-  slug: "kelly-clarkson-o-holy-night",
+  slug: "paul-cardall-in-the-bleak-midwinter",
   externalIdentity: [
     {
       source: "musicbrainz",
-      externalId: "368a7dea-3e18-4d46-86f9-3c31c5cb55a1",
-      externalLink: "https://musicbrainz.org/work/368a7dea-3e18-4d46-86f9-3c31c5cb55a1",
+      externalId: "9c43c39d-7642-3f5b-973b-e8c0ff098c04",
+      externalLink: "https://musicbrainz.org/work/9c43c39d-7642-3f5b-973b-e8c0ff098c04",
       lastSyncedAt: "2026-09-19",
     },
   ],
-  title: "O Holy Night",
+  title: "In the Bleak Midwinter",
   artist: "artist/paul-cardall",
   songType: "derivative",
   performed: true,
