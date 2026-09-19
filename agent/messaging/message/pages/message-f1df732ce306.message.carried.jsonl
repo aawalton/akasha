@@ -1,0 +1,7 @@
+{"body":"the audit at 735cca3b94b665a648599147909800466ebe027b found 1 check nothing measured.\n`folder-matches-a-shape` went unmeasured:\n  check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.ts — the check `folder-matches-a-shape` died on SIGKILL apart, so it judged nothing —\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0bac6-b35d-7000-8ad9-f1df732ce306"}
+{"slug":"message-f1df732ce306"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
