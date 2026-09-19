@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const phantomBladeRitardandoCombo = {
+  id: "01a0657d-028f-7afa-90b5-062a576b55f9",
+  type: "page-type/world-skill",
+  slug: "phantom-blade-ritardando-combo",
+  title: "Phantom Blade: Ritardando Combo",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

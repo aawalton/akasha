@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const squadGoblinTeamwork = {
+  id: "01a0657d-02ee-724e-ba3b-83b5ad7b5c1a",
+  type: "page-type/world-skill",
+  slug: "squad-goblin-teamwork",
+  title: "Squad: Goblin Teamwork",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

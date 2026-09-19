@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const unitSpeedRaid = {
+  id: "01a0657d-031f-7afb-a542-8bd6a7d87239",
+  type: "page-type/world-skill",
+  slug: "unit-speed-raid",
+  title: "Unit: Speed Raid",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

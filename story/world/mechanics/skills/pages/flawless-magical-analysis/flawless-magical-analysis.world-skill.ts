@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const flawlessMagicalAnalysis = {
+  id: "01a06575-980e-77ca-b4eb-a6f96ce9d28e",
+  type: "page-type/world-skill",
+  slug: "flawless-magical-analysis",
+  title: "Flawless Magical Analysis",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

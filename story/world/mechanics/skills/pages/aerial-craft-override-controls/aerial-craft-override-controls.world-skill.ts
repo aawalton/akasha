@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const aerialCraftOverrideControls = {
+  id: "01a06575-97ea-7a77-8f62-395c1953b226",
+  type: "page-type/world-skill",
+  slug: "aerial-craft-override-controls",
+  title: "Aerial Craft: Override Controls",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

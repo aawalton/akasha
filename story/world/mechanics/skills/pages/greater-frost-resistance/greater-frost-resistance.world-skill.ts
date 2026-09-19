@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const greaterFrostResistance = {
+  id: "01a06575-9817-78f6-87c8-a53f4fbaf014",
+  type: "page-type/world-skill",
+  slug: "greater-frost-resistance",
+  title: "Greater Frost Resistance",
+  world: "world/the-wandering-inn",
+  evolvesFromSlugs: ["lesser-frost-resistance"],
+  references: "jsonl",
+} as const satisfies WorldSkill

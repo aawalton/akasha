@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const championSGear = {
+  id: "01a06575-97fa-72e2-aa1a-6446b1e64871",
+  type: "page-type/world-skill",
+  slug: "champion-s-gear",
+  title: "Champion’s Gear",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

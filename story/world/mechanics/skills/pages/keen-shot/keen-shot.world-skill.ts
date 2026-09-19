@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const keenShot = {
+  id: "01a06575-9821-77bb-9c01-a28c06201358",
+  type: "page-type/world-skill",
+  slug: "keen-shot",
+  title: "Keen Shot",
+  world: "world/the-wandering-inn",
+  evolvesToSlugs: ["silverstake-spreadshot"],
+} as const satisfies WorldSkill

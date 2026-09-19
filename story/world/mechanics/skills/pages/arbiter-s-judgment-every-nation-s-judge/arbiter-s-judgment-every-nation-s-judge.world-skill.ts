@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const arbiterSJudgmentEveryNationSJudge = {
+  id: "01a06575-97ec-70f5-9c48-8c78dbd4e019",
+  type: "page-type/world-skill",
+  slug: "arbiter-s-judgment-every-nation-s-judge",
+  title: "Arbiter’s Judgment: Every Nation’s Judge",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

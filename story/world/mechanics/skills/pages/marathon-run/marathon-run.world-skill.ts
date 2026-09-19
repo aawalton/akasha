@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const marathonRun = {
+  id: "01a0657d-0243-7d93-9e96-ea9cb5e677b8",
+  type: "page-type/world-skill",
+  slug: "marathon-run",
+  title: "Marathon Run",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

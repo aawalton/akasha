@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const luckOfTheFoolhardy = {
+  id: "01a0657d-0241-7ef4-aa7a-b5af6e69224d",
+  type: "page-type/world-skill",
+  slug: "luck-of-the-foolhardy",
+  title: "Luck of the Foolhardy",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

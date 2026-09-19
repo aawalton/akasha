@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const lingeringPresence = {
+  id: "01a0657d-023f-7edc-a7a6-92dff31aebf6",
+  type: "page-type/world-skill",
+  slug: "lingering-presence",
+  title: "Lingering Presence",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

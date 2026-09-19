@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const companyTheLucreOfDrakes = {
+  id: "01a06575-97fc-7ff3-b99e-354a1ce3d37d",
+  type: "page-type/world-skill",
+  slug: "company-the-lucre-of-drakes",
+  title: "Company: The Lucre of Drakes",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

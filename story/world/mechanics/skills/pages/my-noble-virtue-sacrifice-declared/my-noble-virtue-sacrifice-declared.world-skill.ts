@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const myNobleVirtueSacrificeDeclared = {
+  id: "01a0657d-0270-72a6-9822-91b2b2217bed",
+  type: "page-type/world-skill",
+  slug: "my-noble-virtue-sacrifice-declared",
+  title: "My Noble Virtue: Sacrifice declared.",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

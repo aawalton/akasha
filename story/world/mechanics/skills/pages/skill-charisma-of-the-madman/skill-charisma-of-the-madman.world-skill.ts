@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const skillCharismaOfTheMadman = {
+  id: "01a0657d-02c6-73a9-94d5-64832a060b06",
+  type: "page-type/world-skill",
+  slug: "skill-charisma-of-the-madman",
+  title: "Skill – Charisma of the Madman",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

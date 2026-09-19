@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const transferAfflictionsSelf = {
+  id: "01a0657d-0316-7107-b22b-3f1db90bb12b",
+  type: "page-type/world-skill",
+  slug: "transfer-afflictions-self",
+  title: "Transfer Afflictions (Self)",
+  world: "world/the-wandering-inn",
+  aliases: ["Transfer Afflictions: Self"],
+  references: "jsonl",
+} as const satisfies WorldSkill

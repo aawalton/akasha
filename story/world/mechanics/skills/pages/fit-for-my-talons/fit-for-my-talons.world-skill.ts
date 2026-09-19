@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const fitForMyTalons = {
+  id: "01a06575-980d-7263-93ca-0e73381da9b6",
+  type: "page-type/world-skill",
+  slug: "fit-for-my-talons",
+  title: "Fit For My Talons",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

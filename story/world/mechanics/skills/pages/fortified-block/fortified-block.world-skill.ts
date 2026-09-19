@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const fortifiedBlock = {
+  id: "01a06575-9810-7a5a-80d8-be153cc9ec53",
+  type: "page-type/world-skill",
+  slug: "fortified-block",
+  title: "Fortified Block",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

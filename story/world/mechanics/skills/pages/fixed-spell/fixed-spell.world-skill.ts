@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const fixedSpell = {
+  id: "01a06575-980d-7d12-9a4b-72ca7e3053a0",
+  type: "page-type/world-skill",
+  slug: "fixed-spell",
+  title: "Fixed Spell",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

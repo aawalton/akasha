@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const markOfDanger = {
+  id: "01a0657d-0243-7725-87b8-121493286118",
+  type: "page-type/world-skill",
+  slug: "mark-of-danger",
+  title: "Mark of Danger",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

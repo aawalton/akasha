@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const skillChangeQuickStepFlashStep = {
+  id: "01a0657d-02c6-718e-9c71-7b7488828e75",
+  type: "page-type/world-skill",
+  slug: "skill-change-quick-step-flash-step",
+  title: "Skill Change – Quick Step → Flash Step!",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

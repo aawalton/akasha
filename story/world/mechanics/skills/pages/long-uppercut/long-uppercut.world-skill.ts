@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const longUppercut = {
+  id: "01a0657d-0240-7f93-b41b-05b4c9645788",
+  type: "page-type/world-skill",
+  slug: "long-uppercut",
+  title: "Long Uppercut",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

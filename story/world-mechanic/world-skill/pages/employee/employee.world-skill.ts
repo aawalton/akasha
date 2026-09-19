@@ -1,9 +1,0 @@
-import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
-
-export const employee = {
-  id: "01a06575-9808-75ba-a7f0-0766ed986db4",
-  type: "page-type/world-skill",
-  slug: "employee",
-  title: "Employee",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldSkill

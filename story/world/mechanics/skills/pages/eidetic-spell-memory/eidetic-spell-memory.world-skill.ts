@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const eideticSpellMemory = {
+  id: "01a06575-9807-7d5f-8ef4-d36ea8733145",
+  type: "page-type/world-skill",
+  slug: "eidetic-spell-memory",
+  title: "Eidetic Spell Memory",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

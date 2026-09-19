@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const fameIsMyMagic = {
+  id: "01a06575-980b-7ea4-a283-1608cc62393e",
+  type: "page-type/world-skill",
+  slug: "fame-is-my-magic",
+  title: "Fame Is My Magic",
+  world: "world/the-wandering-inn",
+  aliases: ["Fame is My Magic"],
+  references: "jsonl",
+} as const satisfies WorldSkill

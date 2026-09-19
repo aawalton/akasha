@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const blindingArrow = {
+  id: "01a06575-97f6-7966-8f19-3f0897656124",
+  type: "page-type/world-skill",
+  slug: "blinding-arrow",
+  title: "Blinding Arrow",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

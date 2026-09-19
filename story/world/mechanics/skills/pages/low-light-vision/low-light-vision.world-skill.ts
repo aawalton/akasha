@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const lowLightVision = {
+  id: "01a0657d-0241-7750-aeb7-5a83c6293de5",
+  type: "page-type/world-skill",
+  slug: "low-light-vision",
+  title: "Low-Light Vision",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

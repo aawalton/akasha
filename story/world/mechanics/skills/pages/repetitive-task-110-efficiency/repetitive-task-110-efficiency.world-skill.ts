@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const repetitiveTask110Efficiency = {
+  id: "01a0657d-02b0-77b8-8ffd-ededd9d0daa9",
+  type: "page-type/world-skill",
+  slug: "repetitive-task-110-efficiency",
+  title: "Repetitive Task: 110% Efficiency",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

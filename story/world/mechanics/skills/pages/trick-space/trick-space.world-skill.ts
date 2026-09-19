@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const trickSpace = {
+  id: "01a0657d-0317-74a6-ba8c-bc28968af286",
+  type: "page-type/world-skill",
+  slug: "trick-space",
+  title: "Trick Space",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

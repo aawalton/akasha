@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const tailStab = {
+  id: "01a0657d-0307-750a-b2eb-f25eb84a365b",
+  type: "page-type/world-skill",
+  slug: "tail-stab",
+  title: "Tail Stab",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

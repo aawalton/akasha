@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const recaptureTheRunaway = {
+  id: "01a0657d-02a5-7d7c-9a5d-1c38b5a5dfd8",
+  type: "page-type/world-skill",
+  slug: "recapture-the-runaway",
+  title: "Recapture the Runaway",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

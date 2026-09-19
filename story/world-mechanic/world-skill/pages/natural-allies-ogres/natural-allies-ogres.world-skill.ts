@@ -1,9 +1,0 @@
-import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
-
-export const naturalAlliesOgres = {
-  id: "01a0657d-0271-75da-bcce-841298ef6c64",
-  type: "page-type/world-skill",
-  slug: "natural-allies-ogres",
-  title: "Natural Allies: Ogres",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldSkill

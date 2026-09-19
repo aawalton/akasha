@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const dataSearchMoass = {
+  id: "01a06575-9801-7d27-b2f0-f2834c40c8c4",
+  type: "page-type/world-skill",
+  slug: "data-search-moass",
+  title: "Data Search: Moass",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

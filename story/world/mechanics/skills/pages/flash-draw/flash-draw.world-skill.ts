@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const flashDraw = {
+  id: "01a06575-980d-7dd1-9ad4-3d705a18022e",
+  type: "page-type/world-skill",
+  slug: "flash-draw",
+  title: "Flash Draw",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

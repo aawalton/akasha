@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const summonSwordOfLight = {
+  id: "01a0657d-02ff-7f00-9560-0d532885f9d8",
+  type: "page-type/world-skill",
+  slug: "summon-sword-of-light",
+  title: "Summon: Sword of Light",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

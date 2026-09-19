@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const arrowCatch = {
+  id: "01a06575-97ed-742a-91ed-a1ec7d81f129",
+  type: "page-type/world-skill",
+  slug: "arrow-catch",
+  title: "Arrow Catch",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

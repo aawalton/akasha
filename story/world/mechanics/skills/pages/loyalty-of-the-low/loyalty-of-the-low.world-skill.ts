@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const loyaltyOfTheLow = {
+  id: "01a0657d-0241-77eb-812e-5d339d264c4e",
+  type: "page-type/world-skill",
+  slug: "loyalty-of-the-low",
+  title: "Loyalty of the Low",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

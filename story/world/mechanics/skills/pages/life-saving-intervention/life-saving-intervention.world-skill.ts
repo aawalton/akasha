@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const lifeSavingIntervention = {
+  id: "01a0657d-023a-71e2-b886-35b102e773db",
+  type: "page-type/world-skill",
+  slug: "life-saving-intervention",
+  title: "Life-Saving Intervention",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

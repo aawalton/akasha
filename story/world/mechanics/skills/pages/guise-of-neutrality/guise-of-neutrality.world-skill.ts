@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const guiseOfNeutrality = {
+  id: "01a06575-9817-7b92-9a19-558f0345d002",
+  type: "page-type/world-skill",
+  slug: "guise-of-neutrality",
+  title: "Guise of Neutrality",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

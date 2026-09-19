@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const quickenedMixture = {
+  id: "01a0657d-029b-7af8-9ee0-29580b797346",
+  type: "page-type/world-skill",
+  slug: "quickened-mixture",
+  title: "Quickened Mixture",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const miracleTheSkyIsFalling = {
+  id: "01a0657d-026d-7b2e-af5f-8644b09646c7",
+  type: "page-type/world-skill",
+  slug: "miracle-the-sky-is-falling",
+  title: "Miracle: The Sky is Falling",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

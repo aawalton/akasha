@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const enchantmentAcidCoating = {
+  id: "01a06575-9808-7917-82ab-95cc4055a248",
+  type: "page-type/world-skill",
+  slug: "enchantment-acid-coating",
+  title: "Enchantment: Acid Coating",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const markedForHell = {
+  id: "01a0657d-024b-7742-b1cb-6fae2039f788",
+  type: "page-type/world-skill",
+  slug: "marked-for-hell",
+  title: "Marked For Hell",
+  world: "world/the-wandering-inn",
+  aliases: ["Marked for Hell"],
+  references: "jsonl",
+} as const satisfies WorldSkill

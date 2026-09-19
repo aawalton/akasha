@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const worldOfYouAndMe = {
+  id: "01a0657d-0337-7776-9f24-f3eb2638021f",
+  type: "page-type/world-skill",
+  slug: "world-of-you-and-me",
+  title: "World of You and Me",
+  world: "world/the-wandering-inn",
+  aliases: ["World of You And Me"],
+  references: "jsonl",
+} as const satisfies WorldSkill

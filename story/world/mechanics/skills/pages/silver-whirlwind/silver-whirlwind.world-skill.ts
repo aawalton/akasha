@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const silverWhirlwind = {
+  id: "01a0657d-02c1-7679-95eb-022703a0209f",
+  type: "page-type/world-skill",
+  slug: "silver-whirlwind",
+  title: "Silver Whirlwind",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

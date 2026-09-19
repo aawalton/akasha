@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const supportSkillRetreatOfTheSkirmisher = {
+  id: "01a0657d-0303-7a52-babc-654cc4ca1c22",
+  type: "page-type/world-skill",
+  slug: "support-skill-retreat-of-the-skirmisher",
+  title: "Support Skill: Retreat of the Skirmisher",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

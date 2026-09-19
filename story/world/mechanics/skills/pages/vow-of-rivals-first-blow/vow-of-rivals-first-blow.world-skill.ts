@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const vowOfRivalsFirstBlow = {
+  id: "01a0657d-032c-7889-b412-e0d7001676a6",
+  type: "page-type/world-skill",
+  slug: "vow-of-rivals-first-blow",
+  title: "Vow of Rivals: First Blow",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

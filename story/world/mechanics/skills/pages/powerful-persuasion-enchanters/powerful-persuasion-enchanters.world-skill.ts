@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const powerfulPersuasionEnchanters = {
+  id: "01a0657d-0296-7593-863e-0acbc011eab8",
+  type: "page-type/world-skill",
+  slug: "powerful-persuasion-enchanters",
+  title: "Powerful Persuasion: Enchanters",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const lockDocument = {
+  id: "01a0657d-0240-7fde-b2e2-e62e85713a82",
+  type: "page-type/world-skill",
+  slug: "lock-document",
+  title: "Lock Document",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

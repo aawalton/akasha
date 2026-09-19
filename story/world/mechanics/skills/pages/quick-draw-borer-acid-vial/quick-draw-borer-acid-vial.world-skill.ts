@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const quickDrawBorerAcidVial = {
+  id: "01a0657d-029b-7daf-9f7d-51f71c93a413",
+  type: "page-type/world-skill",
+  slug: "quick-draw-borer-acid-vial",
+  title: "Quick Draw: Borer Acid Vial",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const ruleOfCombat = {
+  id: "01a0657d-02b7-71ac-9e95-2a2072f64813",
+  type: "page-type/world-skill",
+  slug: "rule-of-combat",
+  title: "Rule of Combat",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

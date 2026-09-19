@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const contactMemory = {
+  id: "01a06575-97fd-7654-9fd3-4733486a20a2",
+  type: "page-type/world-skill",
+  slug: "contact-memory",
+  title: "Contact Memory",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

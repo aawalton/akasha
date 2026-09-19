@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const enragingTaunt = {
+  id: "01a06575-9809-764b-a91d-b55b972c1837",
+  type: "page-type/world-skill",
+  slug: "enraging-taunt",
+  title: "Enraging Taunt",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

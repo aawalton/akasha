@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const scytheOfTheSlaughter = {
+  id: "01a0657d-02b8-73bf-99d2-ff65755c7f15",
+  type: "page-type/world-skill",
+  slug: "scythe-of-the-slaughter",
+  title: "Scythe of the Slaughter",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

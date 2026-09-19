@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const winebreathBlaster = {
+  id: "01a0657d-0336-7359-a99a-327eac34464d",
+  type: "page-type/world-skill",
+  slug: "winebreath-blaster",
+  title: "Winebreath Blaster",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

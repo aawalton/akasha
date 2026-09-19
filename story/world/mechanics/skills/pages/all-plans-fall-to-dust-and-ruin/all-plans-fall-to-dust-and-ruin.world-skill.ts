@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const allPlansFallToDustAndRuin = {
+  id: "01a06575-97ea-7778-b6d7-a3d6886a8f2b",
+  type: "page-type/world-skill",
+  slug: "all-plans-fall-to-dust-and-ruin",
+  title: "All Plans Fall to Dust and Ruin",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

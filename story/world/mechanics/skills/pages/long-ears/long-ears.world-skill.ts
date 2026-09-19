@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const longEars = {
+  id: "01a0657d-0240-7617-a322-1b2214bac68a",
+  type: "page-type/world-skill",
+  slug: "long-ears",
+  title: "Long Ears",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const swiftRearmament = {
+  id: "01a0657d-0303-7ce5-a9a0-13d4983bc434",
+  type: "page-type/world-skill",
+  slug: "swift-rearmament",
+  title: "Swift Rearmament",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

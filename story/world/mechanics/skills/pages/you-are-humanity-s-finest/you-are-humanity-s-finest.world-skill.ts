@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const youAreHumanitySFinest = {
+  id: "01a0657d-0338-767b-906d-38ed9af3f8dd",
+  type: "page-type/world-skill",
+  slug: "you-are-humanity-s-finest",
+  title: "You Are Humanity’s Finest",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const safehouseLockdown = {
+  id: "01a0657d-02b7-7e45-9a75-b0117aa5b869",
+  type: "page-type/world-skill",
+  slug: "safehouse-lockdown",
+  title: "Safehouse: Lockdown",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const remoteSubmitAssignment = {
+  id: "01a0657d-02b0-7d63-9600-0705b82087d0",
+  type: "page-type/world-skill",
+  slug: "remote-submit-assignment",
+  title: "Remote Submit Assignment",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

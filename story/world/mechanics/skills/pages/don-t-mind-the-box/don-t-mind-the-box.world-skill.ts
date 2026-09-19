@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const donTMindTheBox = {
+  id: "01a06575-9804-7457-8aa1-d7fc0ee36d4d",
+  type: "page-type/world-skill",
+  slug: "don-t-mind-the-box",
+  title: "Don’t Mind the Box",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

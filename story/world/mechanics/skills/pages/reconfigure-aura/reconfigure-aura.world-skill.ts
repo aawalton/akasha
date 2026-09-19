@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const reconfigureAura = {
+  id: "01a0657d-02a6-7822-8e33-5c59540a19cf",
+  type: "page-type/world-skill",
+  slug: "reconfigure-aura",
+  title: "Reconfigure Aura",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

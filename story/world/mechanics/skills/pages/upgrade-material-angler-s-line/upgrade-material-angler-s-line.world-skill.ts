@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const upgradeMaterialAnglerSLine = {
+  id: "01a0657d-0320-76f0-bd11-c650db0b2ecd",
+  type: "page-type/world-skill",
+  slug: "upgrade-material-angler-s-line",
+  title: "Upgrade Material: Angler’s Line",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

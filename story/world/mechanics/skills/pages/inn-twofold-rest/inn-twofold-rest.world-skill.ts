@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const innTwofoldRest = {
+  id: "01a06575-981f-75c3-8936-d155c7134eb7",
+  type: "page-type/world-skill",
+  slug: "inn-twofold-rest",
+  title: "Inn: Twofold Rest",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

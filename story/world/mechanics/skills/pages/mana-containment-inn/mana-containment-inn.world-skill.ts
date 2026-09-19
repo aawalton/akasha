@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const manaContainmentInn = {
+  id: "01a0657d-0242-7721-acbc-fc5df0f8d48e",
+  type: "page-type/world-skill",
+  slug: "mana-containment-inn",
+  title: "Mana Containment (Inn)",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const remotelyWriteLedger = {
+  id: "01a0657d-02b0-78d1-bcb0-76a783b668d2",
+  type: "page-type/world-skill",
+  slug: "remotely-write-ledger",
+  title: "Remotely Write Ledger",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

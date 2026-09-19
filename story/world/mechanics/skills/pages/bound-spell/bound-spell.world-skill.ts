@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const boundSpell = {
+  id: "01a06575-97f8-7b2e-b3bc-b19a54694a8b",
+  type: "page-type/world-skill",
+  slug: "bound-spell",
+  title: "Bound Spell",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

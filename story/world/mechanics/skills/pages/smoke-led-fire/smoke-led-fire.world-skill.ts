@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const smokeLedFire = {
+  id: "01a0657d-02c7-791c-afc2-584eecb074e6",
+  type: "page-type/world-skill",
+  slug: "smoke-led-fire",
+  title: "Smoke-led Fire",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

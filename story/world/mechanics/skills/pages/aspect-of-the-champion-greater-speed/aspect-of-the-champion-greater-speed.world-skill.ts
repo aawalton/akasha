@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const aspectOfTheChampionGreaterSpeed = {
+  id: "01a06575-97ee-75e2-8ef7-b008a5f126fc",
+  type: "page-type/world-skill",
+  slug: "aspect-of-the-champion-greater-speed",
+  title: "Aspect of the Champion: Greater Speed",
+  world: "world/the-wandering-inn",
+  aliases: ["Aspect of the Champion – Greater Speed"],
+  references: "jsonl",
+} as const satisfies WorldSkill

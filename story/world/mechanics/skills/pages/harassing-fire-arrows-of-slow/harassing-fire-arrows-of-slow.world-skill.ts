@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const harassingFireArrowsOfSlow = {
+  id: "01a06575-9818-7f7c-9379-cdc0a33db31d",
+  type: "page-type/world-skill",
+  slug: "harassing-fire-arrows-of-slow",
+  title: "Harassing Fire: Arrows of Slow",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

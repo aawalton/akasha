@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const rapidRegeneration = {
+  id: "01a0657d-02a4-7048-9745-a5d5a47327dd",
+  type: "page-type/world-skill",
+  slug: "rapid-regeneration",
+  title: "Rapid Regener—",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

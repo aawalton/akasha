@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const aBottleADayInk = {
+  id: "01a06575-97e6-7f52-a451-380d24bfc212",
+  type: "page-type/world-skill",
+  slug: "a-bottle-a-day-ink",
+  title: "A Bottle A Day: Ink",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

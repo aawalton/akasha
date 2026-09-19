@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const loverSEmbraceRhythmOfSteel = {
+  id: "01a0657d-0241-732a-9ace-fb94ecf65f2b",
+  type: "page-type/world-skill",
+  slug: "lover-s-embrace-rhythm-of-steel",
+  title: "Lover’s Embrace: Rhythm of Steel",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

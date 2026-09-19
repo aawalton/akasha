@@ -378,7 +378,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/game.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-mechanic.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-skill/world-skill.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/builds/story-build.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/characters/world-character.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/decisions/story-decision.page-type.ts"}
@@ -398,6 +397,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/recipes/world-recipe.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/religions/world-religion.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/reputations/world-reputation.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/skills/world-skill.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/songs/world-song.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/species/world-species.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/spells/world-spell.page-type.ts"}

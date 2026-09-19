@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const battlefieldSense = {
+  id: "01a06575-97f4-7899-af35-49605179ad12",
+  type: "page-type/world-skill",
+  slug: "battlefield-sense",
+  title: "Battlefield Sense",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

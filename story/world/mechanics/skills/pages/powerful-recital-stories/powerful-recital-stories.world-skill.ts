@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const powerfulRecitalStories = {
+  id: "01a0657d-0296-77db-9957-ba73f623e9c9",
+  type: "page-type/world-skill",
+  slug: "powerful-recital-stories",
+  title: "Powerful Recital (Stories)",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

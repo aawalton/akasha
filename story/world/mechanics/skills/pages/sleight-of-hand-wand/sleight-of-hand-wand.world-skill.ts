@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const sleightOfHandWand = {
+  id: "01a0657d-02c6-7b4b-aa60-8c2c934a7e7b",
+  type: "page-type/world-skill",
+  slug: "sleight-of-hand-wand",
+  title: "Sleight of Hand: Wand",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

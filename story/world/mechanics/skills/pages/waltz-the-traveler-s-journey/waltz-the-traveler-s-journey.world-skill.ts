@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const waltzTheTravelerSJourney = {
+  id: "01a0657d-032c-7e4a-b611-6bbd3a1d2631",
+  type: "page-type/world-skill",
+  slug: "waltz-the-traveler-s-journey",
+  title: "Waltz: The Traveler’s Journey",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

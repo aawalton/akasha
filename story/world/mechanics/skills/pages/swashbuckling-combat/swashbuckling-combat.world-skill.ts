@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const swashbucklingCombat = {
+  id: "01a0657d-0303-7fea-b48f-be2fe920d760",
+  type: "page-type/world-skill",
+  slug: "swashbuckling-combat",
+  title: "Swashbuckling Combat",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

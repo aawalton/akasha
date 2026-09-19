@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const dDefianceAfterDeath = {
+  id: "01a06575-9800-7fea-be89-678128dc8625",
+  type: "page-type/world-skill",
+  slug: "d-defiance-after-death",
+  title: "D-Defiance After Death",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

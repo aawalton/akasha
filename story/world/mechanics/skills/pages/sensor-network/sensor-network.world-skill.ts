@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const sensorNetwork = {
+  id: "01a0657d-02bf-753a-96be-c6c552cc927b",
+  type: "page-type/world-skill",
+  slug: "sensor-network",
+  title: "Sensor Network",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

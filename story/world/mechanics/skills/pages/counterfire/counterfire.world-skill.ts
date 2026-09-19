@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const counterfire = {
+  id: "01a06575-97fe-7084-a00b-101fc734da77",
+  type: "page-type/world-skill",
+  slug: "counterfire",
+  title: "Counterfire",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

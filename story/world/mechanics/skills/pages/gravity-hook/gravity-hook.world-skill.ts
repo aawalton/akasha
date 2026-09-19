@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const gravityHook = {
+  id: "01a06575-9816-71be-b089-9e7c19eb43b8",
+  type: "page-type/world-skill",
+  slug: "gravity-hook",
+  title: "Gravity Hook",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const analysisVisionOfGreatestBattle = {
+  id: "01a06575-97eb-7dc7-93f8-3867c8ead4d8",
+  type: "page-type/world-skill",
+  slug: "analysis-vision-of-greatest-battle",
+  title: "Analysis: Vision of Greatest Battle",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

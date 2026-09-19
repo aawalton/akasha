@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const formALine = {
+  id: "01a06575-9810-7601-9dce-28d42b996aa9",
+  type: "page-type/world-skill",
+  slug: "form-a-line",
+  title: "Form a Line",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,9 +1,0 @@
-import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
-
-export const deepBreath = {
-  id: "01a06575-9802-71e9-a261-b6c7bb835780",
-  type: "page-type/world-skill",
-  slug: "deep-breath",
-  title: "Deep Breath",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldSkill

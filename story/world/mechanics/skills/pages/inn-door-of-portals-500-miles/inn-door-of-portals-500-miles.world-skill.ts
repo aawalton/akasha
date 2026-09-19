@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const innDoorOfPortals500Miles = {
+  id: "01a06575-981e-72c6-b9c8-9b62d1569b11",
+  type: "page-type/world-skill",
+  slug: "inn-door-of-portals-500-miles",
+  title: "Inn: Door of Portals (500 Miles)",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

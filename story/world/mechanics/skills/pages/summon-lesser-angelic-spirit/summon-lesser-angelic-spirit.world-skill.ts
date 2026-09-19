@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const summonLesserAngelicSpirit = {
+  id: "01a0657d-02fe-7fe7-bc3f-c9f5a48e59bc",
+  type: "page-type/world-skill",
+  slug: "summon-lesser-angelic-spirit",
+  title: "Summon Lesser Angelic Spirit",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const commitToMemory = {
+  id: "01a06575-97fc-7c1a-820c-23a0e77a33b4",
+  type: "page-type/world-skill",
+  slug: "commit-to-memory",
+  title: "Commit to Memory",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

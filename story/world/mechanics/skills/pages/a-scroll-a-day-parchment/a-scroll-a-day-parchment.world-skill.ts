@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const aScrollADayParchment = {
+  id: "01a06575-97e7-73a5-a737-3f54c738f0bc",
+  type: "page-type/world-skill",
+  slug: "a-scroll-a-day-parchment",
+  title: "A Scroll A Day: Parchment",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

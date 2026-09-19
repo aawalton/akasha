@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const dailyResourceBlackpowder = {
+  id: "01a06575-9800-769d-b6e3-87bf3feedd9e",
+  type: "page-type/world-skill",
+  slug: "daily-resource-blackpowder",
+  title: "Daily Resource: Blackpowder",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

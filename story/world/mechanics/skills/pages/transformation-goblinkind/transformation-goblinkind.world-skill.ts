@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const transformationGoblinkind = {
+  id: "01a0657d-0316-7b75-9768-29db6f5bddd2",
+  type: "page-type/world-skill",
+  slug: "transformation-goblinkind",
+  title: "Transformation: Goblinkind",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

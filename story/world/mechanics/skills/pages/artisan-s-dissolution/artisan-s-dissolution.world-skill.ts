@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const artisanSDissolution = {
+  id: "01a06575-97ed-74f5-8430-866ec7dd618b",
+  type: "page-type/world-skill",
+  slug: "artisan-s-dissolution",
+  title: "Artisan’s Dissolution",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

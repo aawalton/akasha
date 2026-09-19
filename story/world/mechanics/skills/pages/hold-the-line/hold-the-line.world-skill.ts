@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const holdTheLine = {
+  id: "01a06575-981a-73f1-9fa6-02fd26608410",
+  type: "page-type/world-skill",
+  slug: "hold-the-line",
+  title: "Hold the Line",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

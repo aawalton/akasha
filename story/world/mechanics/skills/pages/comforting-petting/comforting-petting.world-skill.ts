@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const comfortingPetting = {
+  id: "01a06575-97fc-746c-824b-544b4c8e0ca8",
+  type: "page-type/world-skill",
+  slug: "comforting-petting",
+  title: "Comforting Petting",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

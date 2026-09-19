@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const berserkerRage = {
+  id: "01a06575-97f5-7488-bc7b-d388c5ace7f5",
+  type: "page-type/world-skill",
+  slug: "berserker-rage",
+  title: "Berserker Rage",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

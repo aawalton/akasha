@@ -1,9 +1,0 @@
-import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
-
-export const rallyTheCrowds = {
-  id: "01a0657d-029c-723e-9b74-b19244c91621",
-  type: "page-type/world-skill",
-  slug: "rally-the-crowds",
-  title: "Rally the Crowds",
-  world: "world/the-wandering-inn",
-} as const satisfies WorldSkill

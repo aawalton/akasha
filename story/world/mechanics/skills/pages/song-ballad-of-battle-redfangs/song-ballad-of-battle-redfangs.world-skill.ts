@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const songBalladOfBattleRedfangs = {
+  id: "01a0657d-02c7-77d9-8d55-038159327bcc",
+  type: "page-type/world-skill",
+  slug: "song-ballad-of-battle-redfangs",
+  title: "Song: Ballad of Battle (Redfangs)",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

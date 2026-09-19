@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const noWindEscapesMySails = {
+  id: "01a0657d-027b-7143-8fbe-2b9c400d21ca",
+  type: "page-type/world-skill",
+  slug: "no-wind-escapes-my-sails",
+  title: "No Wind Escapes My Sails",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

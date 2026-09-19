@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const wingSlash = {
+  id: "01a0657d-0336-71d4-9aaf-838f90293eb2",
+  type: "page-type/world-skill",
+  slug: "wing-slash",
+  title: "Wing Slash",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

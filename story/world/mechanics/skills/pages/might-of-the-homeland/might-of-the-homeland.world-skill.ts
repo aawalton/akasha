@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const mightOfTheHomeland = {
+  id: "01a0657d-024d-76e3-af23-29ab260a5a97",
+  type: "page-type/world-skill",
+  slug: "might-of-the-homeland",
+  title: "Might of the Homeland",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

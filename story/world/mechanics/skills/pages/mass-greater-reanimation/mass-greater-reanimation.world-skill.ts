@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const massGreaterReanimation = {
+  id: "01a0657d-024b-753a-a692-9f469cfacdf1",
+  type: "page-type/world-skill",
+  slug: "mass-greater-reanimation",
+  title: "Mass Greater Reanimation",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

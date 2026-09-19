@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const bindingQuickivoryBones = {
+  id: "01a06575-97f5-7b03-b703-50c57c2fbe2b",
+  type: "page-type/world-skill",
+  slug: "binding-quickivory-bones",
+  title: "Binding: Quickivory Bones",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

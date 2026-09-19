@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const empireMinorBlessingOfLuck = {
+  id: "01a06575-9807-75c7-a2fb-235cfb035d18",
+  type: "page-type/world-skill",
+  slug: "empire-minor-blessing-of-luck",
+  title: "Empire: Minor Blessing of Luck",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

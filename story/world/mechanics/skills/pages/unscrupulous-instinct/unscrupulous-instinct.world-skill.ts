@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const unscrupulousInstinct = {
+  id: "01a0657d-031f-79cf-a998-9cf0f4720d4c",
+  type: "page-type/world-skill",
+  slug: "unscrupulous-instinct",
+  title: "Unscrupulous Instinct",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

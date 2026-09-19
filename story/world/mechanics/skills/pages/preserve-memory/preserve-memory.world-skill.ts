@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const preserveMemory = {
+  id: "01a0657d-0296-7c00-8d68-896291f1d3fa",
+  type: "page-type/world-skill",
+  slug: "preserve-memory",
+  title: "Preserve Memory",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

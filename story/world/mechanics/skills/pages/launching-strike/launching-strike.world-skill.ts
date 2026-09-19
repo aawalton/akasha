@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.types.ts"
+
+export const launchingStrike = {
+  id: "01a06575-9822-7602-b16f-7a5bb50b33a8",
+  type: "page-type/world-skill",
+  slug: "launching-strike",
+  title: "Launching Strike",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill
