@@ -37,5 +37,6 @@ export const ainePatreon = {
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
     "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
     "A contributor's contribution points are one pool across every product, and every reading of them is filtered to one product.",
+    "The contribution points proposing a feature request costs buy Alan's review and are spent whether or not he publishes that request.",
   ],
 } as const satisfies Initiative
