@@ -141,6 +141,6 @@ test("a field Spotify adds later is carried through unread", () => {
 })
 
 test("an album stating no release date is refused rather than read as none", () => {
-  const { release_date, ...without } = ALBUM
+  const { release_date: releaseDate, ...without } = ALBUM
   expect(() => albumSchema.parse(without)).toThrow()
 })
