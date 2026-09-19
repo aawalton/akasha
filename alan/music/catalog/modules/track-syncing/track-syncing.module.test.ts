@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
+import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import {
@@ -16,6 +18,8 @@ import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ADDS = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
+
+const MINUTES = `${unit.slug}/${minutes.slug}` as const
 
 const TODAY = "2026-09-15"
 
@@ -83,7 +87,7 @@ test("a track arrives started by nobody and heard for none of its length", () =>
   expect(values["partOfCollections"]).toEqual(["release/sylvia-daley-pixie"])
   expect(values["position"]).toBe(3)
   expect(values["ownLength"]).toBe(1.5)
-  expect(values["unit"]).toBe("unit/minutes")
+  expect(values["unit"]).toBe(MINUTES)
   expect(values["status"]).toBe("not-started")
   expect(values["ownProgress"]).toBe(0)
   expect(values["type"]).toBe("track")

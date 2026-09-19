@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/account/modules/reading/model-account-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"}
 {"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"model-provider.page-type.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts"}
 {"propertySlug":"import","fileName":"model-provider.page-type.types.ts","path":"agent/model/provider/pages/anthropic/anthropic.model-provider.ts"}
 {"propertySlug":"import","fileName":"model-provider.page-type.types.ts","path":"agent/model/provider/pages/deepseek/deepseek.model-provider.ts"}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}

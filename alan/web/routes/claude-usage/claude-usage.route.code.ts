@@ -1,3 +1,5 @@
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
+import { anthropic } from "akasha/agent/model/provider/pages/anthropic/anthropic.model-provider.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
 import type {
@@ -24,7 +26,7 @@ const NEXT_SEVEN_DAY_BACK = "the next seven-day window to come back"
 const NEXT_SEVEN_DAY_END = "the next seven-day window to end"
 
 export const ACCOUNT = "model-account"
-export const ANTHROPIC = "model-provider/anthropic"
+export const ANTHROPIC = `${modelProvider.slug}/${anthropic.slug}` as const
 const PROVIDER = "provider"
 const SLUG = "slug"
 const EFFECTIVE_FIVE_HOUR_USAGE = "effectiveFiveHourUsage"

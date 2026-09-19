@@ -9,6 +9,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sylvia-daley-secure/sylvia-daley-secure.song.ts","id":"01a0b725-af2d-7035-b079-37bb3a3e9fa4"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sylvia-daley-twinkle-twinkle/sylvia-daley-twinkle-twinkle.song.ts","id":"01a0b725-ae60-7af9-bca2-439912096079"}
 {"propertySlug":"import","fileName":"sylvia-daley.artist.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts"}
+{"propertySlug":"import","fileName":"sylvia-daley.artist.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/sylvia-daley-contortionist/sylvia-daley-contortionist.release.ts","id":"01a0a6c3-6b9d-7a8f-802b-2247e67aa0c7"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/sylvia-daley-make-friends/sylvia-daley-make-friends.release.ts","id":"01a0a6c3-6b01-7102-a837-aac19a571b6d"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/sylvia-daley-my-own-rules/sylvia-daley-my-own-rules.release.ts","id":"01a0a6c3-6bec-761b-8a87-895cd718779c"}

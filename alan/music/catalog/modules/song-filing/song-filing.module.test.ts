@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import {
   type Filing,
   songFiledFor,
@@ -9,6 +11,8 @@ import { song } from "akasha/alan/music/catalog/song/song.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const SONG_AT = `${pageType.slug}/${song.slug}` as const
+
+const ARTIST_AT = `${artist.slug}/${sylviaDaley.slug}` as const
 
 function filing(): Filing {
   return {
@@ -26,7 +30,7 @@ test("a title matching no song is filed as a song of the artist the release name
     type: SONG_AT,
     slug: "sylvia-daley-pixie-dust",
     title: "Pixie Dust",
-    artist: "artist/sylvia-daley",
+    artist: ARTIST_AT,
     performed: true,
   })
 })
