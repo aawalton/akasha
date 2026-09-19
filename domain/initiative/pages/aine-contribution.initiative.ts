@@ -14,10 +14,6 @@ export const aineContribution = {
     { statement: "Every feature request is a page naming the product that request is for." },
     {
       statement:
-        "A payment Stripe reports lands the contributor's page and the contribution points it earns.",
-    },
-    {
-      statement:
         "Every product serves the feature requests for that product at `requests` under its own domain.",
     },
     { statement: "Every feature Alan already means to build is a published feature request." },

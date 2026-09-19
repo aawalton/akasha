@@ -1,6 +1,6 @@
 {"domain":"domain/kofi"}
 {"id":"01a0b79c-1f93-77a4-8f8b-4946c5589cda"}
-{"intentStack":[{"statement":"Alan has a Ko-fi page people can back him on."}]}
+{"intentStack":[{"statement":"Alan has a Ko-fi page people can back him on."},{"statement":"A payment Stripe reports lands the contributor's page and the contribution points it earns."}]}
 {"persona":"persona/aine"}
 {"slug":"aine-kofi"}
 {"type":"page-type/initiative"}
