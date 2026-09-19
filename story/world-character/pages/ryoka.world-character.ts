@@ -8,6 +8,7 @@ export const ryoka = {
   world: "world/the-wandering-inn",
   maxLevel: 3,
   eventCount: 2,
-  firstChapter: 114,
-  lastChapter: 114,
+  firstChapter: 22,
+  lastChapter: 699,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

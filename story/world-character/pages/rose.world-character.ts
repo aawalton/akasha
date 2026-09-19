@@ -8,6 +8,7 @@ export const rose = {
   world: "world/the-wandering-inn",
   maxLevel: 4,
   eventCount: 4,
-  firstChapter: 697,
-  lastChapter: 697,
+  firstChapter: 67,
+  lastChapter: 753,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

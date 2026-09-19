@@ -10,4 +10,5 @@ export const pewerthePotter = {
   eventCount: 6,
   firstChapter: 809,
   lastChapter: 809,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

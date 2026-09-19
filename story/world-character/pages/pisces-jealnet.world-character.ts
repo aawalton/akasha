@@ -8,6 +8,7 @@ export const piscesJealnet = {
   world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 10,
-  firstChapter: 506,
-  lastChapter: 506,
+  firstChapter: 375,
+  lastChapter: 798,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

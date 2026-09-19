@@ -8,6 +8,7 @@ export const rhaldon = {
   world: "world/the-wandering-inn",
   maxLevel: 15,
   eventCount: 20,
-  firstChapter: 665,
-  lastChapter: 665,
+  firstChapter: 590,
+  lastChapter: 675,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

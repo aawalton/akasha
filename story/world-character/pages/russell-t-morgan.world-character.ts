@@ -10,4 +10,5 @@ export const russellTMorgan = {
   eventCount: 3,
   firstChapter: 816,
   lastChapter: 816,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

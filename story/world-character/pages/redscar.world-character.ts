@@ -8,6 +8,7 @@ export const redscar = {
   world: "world/the-wandering-inn",
   maxLevel: 52,
   eventCount: 4,
-  firstChapter: 752,
-  lastChapter: 752,
+  firstChapter: 155,
+  lastChapter: 760,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

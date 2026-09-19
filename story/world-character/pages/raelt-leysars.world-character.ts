@@ -9,5 +9,6 @@ export const raeltLeysars = {
   maxLevel: 35,
   eventCount: 10,
   firstChapter: 410,
-  lastChapter: 410,
+  lastChapter: 453,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

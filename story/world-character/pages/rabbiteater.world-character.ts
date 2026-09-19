@@ -8,6 +8,7 @@ export const rabbiteater = {
   world: "world/the-wandering-inn",
   maxLevel: 40,
   eventCount: 38,
-  firstChapter: 283,
-  lastChapter: 731,
+  firstChapter: 219,
+  lastChapter: 795,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

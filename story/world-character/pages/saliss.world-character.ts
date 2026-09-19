@@ -8,6 +8,7 @@ export const saliss = {
   world: "world/the-wandering-inn",
   maxLevel: 56,
   eventCount: 2,
-  firstChapter: 697,
-  lastChapter: 697,
+  firstChapter: 396,
+  lastChapter: 794,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
