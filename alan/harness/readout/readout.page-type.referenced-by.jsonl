@@ -12,6 +12,10 @@
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/sleep/relay-service/sleep-relay-service.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/sleep/relay-service/sleep-relay-service.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts"}

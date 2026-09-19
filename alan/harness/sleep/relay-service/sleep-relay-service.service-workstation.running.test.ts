@@ -1,11 +1,13 @@
 import { expect, mock, test } from "bun:test"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { upkeepSleep } from "akasha/alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts"
 
 const TUPLES: [string, string][] = []
 
 const SITES = ["https://alanwalton.com", "https://smilingjenny.me"]
 
-const POINT = "readout/upkeep-sleep"
+const POINT = `${readout.slug}/${upkeepSleep.slug}`
 
 const carrying = await import(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
