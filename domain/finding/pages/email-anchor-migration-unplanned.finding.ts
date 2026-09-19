@@ -4,7 +4,7 @@ export const emailAnchorMigrationUnplanned = {
   id: "01a06555-9f3d-7e69-8f62-ab59579ae82d",
   type: "page-type/finding",
   slug: "email-anchor-migration-unplanned",
-  domain: "domain/all-about-alan",
+  domain: "alan-book/all-about-alan",
   claim:
     "Gmail is the identity-recovery anchor for most of Alan's online accounts, making a move off it a project touching email, Drive and YouTube together. The split is decided — logging in through Google stays, for want of an alternative, and only the recovery-anchor role migrates — but neither half of the execution exists: no map of which accounts anchor there, no ordering that avoids a window where an account is recoverable only through a half-migrated path, and no chosen mail stack.",
   evidence:
