@@ -46,5 +46,9 @@ export const auth = {
       decisionKind: "decision-kind/departure",
       statement: "An app signs in by trading a one-time code for a session of its own.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "No app shows a provider's screen in a webview of its own.",
+    },
   ],
 } as const satisfies Domain
