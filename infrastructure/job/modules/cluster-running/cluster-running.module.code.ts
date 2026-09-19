@@ -4,7 +4,10 @@ import {
   type ApiObjectManifest,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import {
+  HOSTNAME_KEY,
+  workloadClassMemberSelector,
+} from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
@@ -47,6 +50,10 @@ const EVERY_LINE = "--tail=-1"
 const JOB = "Job"
 
 const CLASS = "ci"
+
+const FASTEST = "node-06"
+
+const MOST = 100
 
 const JOB_SECRET = "workers-secrets"
 
@@ -106,6 +113,18 @@ function jobFor(name: string, script: string): ApiObjectManifest {
       template: {
         spec: {
           nodeSelector: workloadClassMemberSelector(CLASS),
+          affinity: {
+            nodeAffinity: {
+              preferredDuringSchedulingIgnoredDuringExecution: [
+                {
+                  weight: MOST,
+                  preference: {
+                    matchExpressions: [{ key: HOSTNAME_KEY, operator: "In", values: [FASTEST] }],
+                  },
+                },
+              ],
+            },
+          },
           restartPolicy: "Never",
           serviceAccountName: deployAccount.slug,
           securityContext: { seccompProfile: { type: UNCONFINED } },
