@@ -12,6 +12,7 @@ export const selectionPolicy = {
     "number-property/novelty-cap-per-session",
     "number-property/recency-saturation-days",
     "number-property/recency-weight",
+    "number-property/reps-before-slowing",
     "number-property/weekly-set-ceiling",
     "number-property/weekly-set-floor",
     "number-property/weight-aesthetics",
@@ -33,6 +34,7 @@ export const selectionPolicy = {
     { pageProperty: "number-property/recency-saturation-days", required: true, many: false },
     { pageProperty: "number-property/near-failure-rpe-floor", required: true, many: false },
     { pageProperty: "number-property/bouts-without-progress", required: true, many: false },
+    { pageProperty: "number-property/reps-before-slowing", required: true, many: false },
   ],
   decisions: [
     {

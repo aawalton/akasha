@@ -16,4 +16,5 @@ export const selectionPolicy = {
   recencyWeight: 0.05,
   recencySaturationDays: 21,
   boutsWithoutProgress: 3,
+  repsBeforeSlowing: 20,
 } as const satisfies SelectionPolicy
