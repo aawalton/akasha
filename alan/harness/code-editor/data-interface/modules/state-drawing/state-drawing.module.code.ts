@@ -15,6 +15,7 @@ import {
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
+import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { pageAnswers } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
 import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -210,7 +211,7 @@ export function drawnFor(change: Change): Drawn {
       if (listedAt(reading, INTERFACE_TYPE, slug).length === 0) continue
       const path = stateAt(slug)
       const body = `${drawing(root, reading)}\n`
-      const was = textOf(change.after(path))
+      const was = textOf(diskAt(root, path))
       if (was === body) continue
       edits.push(
         was === null

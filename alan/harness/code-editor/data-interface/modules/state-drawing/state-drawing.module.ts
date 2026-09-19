@@ -22,6 +22,11 @@ export const stateDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The picture already filed is read from the working tree, because no commit holds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change no shadow can be cast over draws nothing rather than refusing.",
     },
     {
