@@ -12,6 +12,7 @@ import {
   isNativeShell,
   type PluginListenerHandle,
 } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { postDeviceToken } from "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useContext, useEffect } from "react"
 import { z } from "zod"
@@ -55,6 +56,7 @@ export function StoplightsActivitySync() {
 
     let cancelled = false
     let handle: PluginListenerHandle | null = null
+    let carrying: PluginListenerHandle | null = null
 
     const carry = async (): Promise<void> => {
       const content = await contentRead(new Date().toISOString())
@@ -65,6 +67,14 @@ export function StoplightsActivitySync() {
         console.error("[stoplights-activity] would not take the reading", error)
       }
     }
+
+    void (async () => {
+      const opened = await plugin.addListener("token", (event) => {
+        void postDeviceToken(event.value, "liveactivity")
+      })
+      if (cancelled) void opened.remove()
+      else carrying = opened
+    })()
 
     void carry()
 
@@ -81,6 +91,7 @@ export function StoplightsActivitySync() {
     return () => {
       cancelled = true
       if (handle != null) void handle.remove()
+      if (carrying != null) void carrying.remove()
     }
   }, [userID])
 

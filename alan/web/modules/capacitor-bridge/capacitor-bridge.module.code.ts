@@ -126,10 +126,18 @@ export interface KokoroTtsPlugin {
   ) => PluginListenerHandle | Promise<PluginListenerHandle>
 }
 
+export interface StoplightsActivityEventMap {
+  token: { value: string }
+}
+
 export interface StoplightsActivityPlugin {
   start: (options: { content: string }) => Promise<{ id: string }>
   update: (options: { content: string }) => Promise<void>
   end: () => Promise<void>
+  addListener: <E extends keyof StoplightsActivityEventMap>(
+    eventName: E,
+    listener: (event: StoplightsActivityEventMap[E]) => void
+  ) => PluginListenerHandle | Promise<PluginListenerHandle>
 }
 
 interface CapacitorGlobal {
@@ -212,6 +220,7 @@ export function getStoplightsActivity(): StoplightsActivityPlugin | null {
   if (typeof plugin.start !== "function") return null
   if (typeof plugin.update !== "function") return null
   if (typeof plugin.end !== "function") return null
+  if (typeof plugin.addListener !== "function") return null
   return plugin
 }
 

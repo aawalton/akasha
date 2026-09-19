@@ -68,6 +68,13 @@ cat >> "$APPDELEGATE" <<'SWIFT_STOPLIGHTS_ACTIVITY'
 //
 // ONE ACTIVITY AT A TIME. Starting where one already runs updates the one running, because
 // two would sit on the lock screen at once, each claiming to be the whole answer.
+//
+// THE ACTIVITY IS ASKED FOR A PUSH TOKEN, AND EVERY TOKEN IT NAMES IS HANDED UP.
+//
+// An activity never draws itself again on its own, so a lock screen left alone goes stale
+// until the app is opened. Apple addresses a push to the activity rather than to the device,
+// and hands that address over as a token which rotates. `pushTokenUpdates` names the one in
+// force now and every later one, so the web layer posts each as that one arrives.
 @objc(StoplightsActivityPlugin)
 public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
     public let identifier = "StoplightsActivityPlugin"
@@ -88,6 +95,23 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
         Activity<StoplightsAttributes>.activities.first
     }
 
+    private var carrying: Set<String> = []
+
+    override public func load() {
+        for one in Activity<StoplightsAttributes>.activities { carry(one) }
+    }
+
+    private func carry(_ activity: Activity<StoplightsAttributes>) {
+        if carrying.contains(activity.id) { return }
+        carrying.insert(activity.id)
+        Task { [weak self] in
+            for await token in activity.pushTokenUpdates {
+                let hex = token.map { String(format: "%02x", $0) }.joined()
+                self?.notifyListeners("token", data: ["value": hex])
+            }
+        }
+    }
+
     @objc func start(_ call: CAPPluginCall) {
         guard ActivityAuthorizationInfo().areActivitiesEnabled else {
             call.reject("live activities are turned off for this app in Settings")
@@ -98,6 +122,7 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
             return
         }
         if let already = running {
+            carry(already)
             Task {
                 await already.update(ActivityContent(state: content, staleDate: nil))
                 call.resolve(["id": already.id])
@@ -108,8 +133,9 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
             let started = try Activity.request(
                 attributes: StoplightsAttributes(),
                 content: ActivityContent(state: content, staleDate: nil),
-                pushType: nil
+                pushType: .token
             )
+            carry(started)
             call.resolve(["id": started.id])
         } catch {
             call.reject("the activity would not start: \(error.localizedDescription)")

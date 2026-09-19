@@ -20,9 +20,29 @@ test("a platform other than iOS is refused", () => {
   ).toBe(false)
 })
 
-test("a body carrying more than the token and the platform is refused", () => {
+test("a body carrying more than the token, the platform and the sort is refused", () => {
   expect(
     registerDeviceTokenSchema.safeParse({ deviceToken: "a-token", platform: "ios", userId: "me" })
       .success
+  ).toBe(false)
+})
+
+test("a body naming a live activity is taken", () => {
+  expect(
+    registerDeviceTokenSchema.safeParse({
+      deviceToken: "a-token",
+      platform: "ios",
+      pushType: "liveactivity",
+    }).success
+  ).toBe(true)
+})
+
+test("a sort that is no sort of push is refused", () => {
+  expect(
+    registerDeviceTokenSchema.safeParse({
+      deviceToken: "a-token",
+      platform: "ios",
+      pushType: "complication",
+    }).success
   ).toBe(false)
 })

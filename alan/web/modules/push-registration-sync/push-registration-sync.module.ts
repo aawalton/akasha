@@ -6,4 +6,14 @@ export const pushRegistrationSync = {
   slug: "push-registration-sync",
   definition: "the device's push token registered as the shell starts",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One call posts a token, whichever sort of push that token takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call naming no sort posts a token taking an alert.",
+    },
+  ],
 } as const satisfies Module

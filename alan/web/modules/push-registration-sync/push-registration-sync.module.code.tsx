@@ -13,8 +13,15 @@ import { decidePushRoute } from "akasha/person/modules/push-routing/push-routing
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 
-async function postDeviceToken(deviceToken: string): Promise<void> {
-  const body = registerDeviceTokenSchema.safeParse({ deviceToken, platform: "ios" })
+export async function postDeviceToken(
+  deviceToken: string,
+  pushType?: "liveactivity"
+): Promise<void> {
+  const body = registerDeviceTokenSchema.safeParse({
+    deviceToken,
+    platform: "ios",
+    ...(pushType === undefined ? {} : { pushType }),
+  })
   if (!body.success) {
     console.error("[push] built an invalid registration body", body.error.issues)
     return

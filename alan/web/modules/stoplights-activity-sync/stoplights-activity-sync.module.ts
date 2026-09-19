@@ -25,6 +25,14 @@ export const stoplightsActivitySync = {
       statement: "The shape a reading is handed over in is the shape a pushed reading has.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The token the activity is pushed at is posted as soon as the activity has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A token that rotates is posted again, since the activity says so again.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here ends the activity.",
     },

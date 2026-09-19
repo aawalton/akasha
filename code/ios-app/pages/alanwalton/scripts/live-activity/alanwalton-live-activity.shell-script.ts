@@ -7,4 +7,22 @@ export const alanwaltonLiveActivity = {
   definition: "the Swift starting, updating and ending the stoplights live activity",
   shell: "sh",
   sourced: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An activity is started asking Apple for a token to push it at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every token the activity names is handed to the web layer as it arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An activity still running when the app starts again is watched for a token.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One activity is watched once, however many times a start reaches it.",
+    },
+  ],
 } as const satisfies ShellScript

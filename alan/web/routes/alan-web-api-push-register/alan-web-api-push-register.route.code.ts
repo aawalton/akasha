@@ -43,6 +43,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     userId: ctx.userId,
     deviceTokenRegistration: parsed.data.deviceToken,
     platform: parsed.data.platform,
+    pushType: parsed.data.pushType,
     bundleId: ALANWALTON_PUSH_APP.bundleId,
   })
   return Response.json({ ok: true }, { headers: withCors(ctx.headers, cors) })
