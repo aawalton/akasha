@@ -1,9 +1,12 @@
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { removePropertyRecord as removePropertyRecordMechanical } from "akasha/change/mechanical/file-content/remove/remove-property-record/remove-property-record.change-mechanical-file-content.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { readFor } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const REMOVE_PROPERTY_RECORD = "change-mechanical-file-content/remove-property-record"
+const REMOVE_PROPERTY_RECORD =
+  `${changeMechanicalFileContent.slug}/${removePropertyRecordMechanical.slug}` as const
 
 const AT = "at"
 

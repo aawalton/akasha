@@ -1,8 +1,14 @@
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/append-lines/append-lines.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}

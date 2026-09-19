@@ -3,6 +3,8 @@ import {
   removePropertyRecord,
   runChange,
 } from "akasha/change/agent/file-content/remove-property-record/remove-property-record.change-agent.code.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { removePropertyRecord as removePropertyRecordMechanical } from "akasha/change/mechanical/file-content/remove/remove-property-record/remove-property-record.change-mechanical-file-content.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -11,7 +13,8 @@ import {
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const ADDRESS = "change-mechanical-file-content/remove-property-record"
+const ADDRESS =
+  `${changeMechanicalFileContent.slug}/${removePropertyRecordMechanical.slug}` as const
 
 const AT = "change/modules/held/held.module.ts"
 
