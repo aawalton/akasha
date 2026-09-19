@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/modules/gated-landing/gated-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts"}

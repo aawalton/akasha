@@ -1,7 +1,9 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFilePage } from "akasha/change/mechanical/file/add/add-file-page/add-file-page.change-mechanical.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const ADD_FILE_PAGE = "change-mechanical/add-file-page"
+const ADD_FILE_PAGE = `${changeMechanical.slug}/${addFilePage.slug}` as const
 
 export type Asked = {
   readonly at: string
