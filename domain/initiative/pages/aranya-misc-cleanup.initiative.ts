@@ -8,11 +8,6 @@ export const aranyaMiscCleanup = {
   persona: "persona/aranya",
   intentStack: [
     {
-      statement: "A mechanical landing is reached through one entry point.",
-      workingMemory:
-        "landedMechanically at mechanical-change-running.change-runner.code.ts:107 is runMechanicalChange(root, asked, message, null, { done }) reordered. It carries no agent id, writer, read or commit slot. subagent-presence:144 and seat-stating hold an agent id and drop it, so applied skips asReadOf:340 and recordedAsLanded:363. 17 code files import it, 3 calling it directly. Twelve respell its parameters as a local Landing type. page-secret-acting:159 defaults to runMechanicalChange with no adapter.",
-    },
-    {
       statement: "No code spells a page's address as a plain string.",
       workingMemory:
         "The check check-code/no-page-address-spelled landed experimental at 73671b2; its audit refuses 1036 spellings in 341 files in 6 seconds. A rename reaches a page through the relation index and code through the import index, so a literal address is the one reference nothing files, and why address-restating sweeps every file. The fix per case is to import the page and read its slug, or to declare a relation. Resolving these lets the sweep go and the check into service.",
