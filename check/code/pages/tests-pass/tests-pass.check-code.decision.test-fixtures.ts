@@ -232,6 +232,38 @@ export function ranAs(
   return { code: 1, signal: null, output, summary, verdict, cpuSeconds, slow, spent: [] }
 }
 
+export const AUTHORED_PASSED = `bun test v1.3.14 (0d9b296a)
+..........
+10 pass
+0 fail
+10 expect() calls
+Ran 10 tests across 1 file. [27.00ms]
+`
+
+export type Ending = {
+  readonly path: string
+  readonly out: string
+  readonly code?: number
+}
+
+export function ranOverEach(
+  verdict: Ran["verdict"],
+  summary: Ran["summary"],
+  each: readonly Ending[]
+): Ran {
+  const spent = each.map((one) => ({ ...spentAs(one.path, 0, one.code ?? 0), out: one.out }))
+  return {
+    code: 1,
+    signal: null,
+    output: spent.map((one) => one.out).join(""),
+    summary,
+    verdict,
+    cpuSeconds: 0,
+    slow: [],
+    spent,
+  }
+}
+
 export function spentAs(path: string, cpuSeconds: number, code: number): Spent {
   return {
     path,

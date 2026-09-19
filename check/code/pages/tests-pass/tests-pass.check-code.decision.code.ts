@@ -141,8 +141,16 @@ function countingOf(ran: Ran): string {
   return failed === 0 ? `${outside}, and no test failed` : `${said}, and ${outside}`
 }
 
+function outputOf(ran: Ran, failing: readonly string[]): string {
+  const held = new Set(failing)
+  const blamed = ran.spent.filter(
+    (one) => held.has(one.path) || one.code !== 0 || one.signal !== null
+  )
+  return blamed.length === 0 ? ran.output : blamed.map((one) => one.out).join("")
+}
+
 function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
-  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(ran.output)}`
+  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(outputOf(ran, failing))}`
   if (failing.length === 0) return `${UNNAMED}\n\n${said}`
   const blamed = ran.summary.failed === 0 ? "errored" : "failed"
   return `${counted(failing.length)} ${blamed}:\n${failing.join("\n")}\n\n${said}`
@@ -165,13 +173,13 @@ export function reasonOf(ran: Ran, named: readonly string[], failing: readonly s
   if (ran.verdict === "short") {
     return (
       `${when}${ran.summary.files} of the ${named.length} test files named ran, so the ones ` +
-      `that did pass say nothing about the rest:\n${saidOf(ran.output)}`
+      `that did pass say nothing about the rest:\n${saidOf(outputOf(ran, failing))}`
     )
   }
   const ended = endingOf(ran.code, ran.signal)
   return (
     `${when}the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
-    `This is the runner failing, not a test:\n${saidOf(ran.output)}`
+    `This is the runner failing, not a test:\n${saidOf(outputOf(ran, failing))}`
   )
 }
 
@@ -261,7 +269,11 @@ export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
   const found = ranOver(change.root, named, named.length, null, bodies)
   costsKept(change.root, found.spent)
   if (found.verdict === "pass") return []
-  const said = { ...found, output: spelledIn(found.output, change.root) }
+  const said = {
+    ...found,
+    output: spelledIn(found.output, change.root),
+    spent: found.spent.map((one) => ({ ...one, out: spelledIn(one.out, change.root) })),
+  }
   const judged = refusedOf(said, named, first)
   const absent = absentFrom(change.root, named, bodies)
   const blamed = absent[0]
