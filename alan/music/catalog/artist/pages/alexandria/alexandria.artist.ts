@@ -14,6 +14,12 @@ export const alexandria = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "45ac08ff-e04c-492c-b9f6-6604f778740e",
+      externalLink: "https://musicbrainz.org/artist/45ac08ff-e04c-492c-b9f6-6604f778740e",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "0SQG4wPVUlfbmbGQfqB47y",
       externalLink: "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y",
@@ -21,4 +27,5 @@ export const alexandria = {
     },
   ],
   title: "Alexandria",
+  genre: ["gothic metal", "metal", "symphonic metal"],
 } as const satisfies Artist
