@@ -243,6 +243,19 @@ export const auditServing = {
       statement: "The processor ceiling that check's audit group states is put on that process.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A check sharing a machine with the checks beside it spends more than it would alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That ceiling is put on a check only where the round may use one processor.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The job's deadline is what bounds a check no ceiling was put on.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The memory ceiling that group states is put on that process where one is stated.",
     },
