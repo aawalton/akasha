@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { argument } from "akasha/command/argument/argument.page-type.ts"
 import { argumentsNamed } from "akasha/command/argument/modules/naming/argument-naming.module.code.ts"
-import { dryRun as dryRunArgument } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { json as jsonArgument } from "akasha/command/argument/pages/json.argument.ts"
 import { node as nodeArgument } from "akasha/command/argument/pages/node.argument.ts"
+import { plan as planArgument } from "akasha/command/argument/pages/plan.argument.ts"
 import {
   ANSWERS,
   argumentsFiled,
@@ -18,13 +18,13 @@ const JSON_LINE = {
   takes: "answer as JSON rather than as the lines a reader takes",
 }
 
-const DRY_RUN = { said: "--dry-run", takes: "judge what the act would land and write nothing" }
+const PLAN = { said: "--plan", takes: "report what the run would do and do none of it" }
 
 const NODE = { said: "--node", takes: "the node acted on, as the node table names it" }
 
 const RULE = { said: "--rule", takes: "the rule acted on" }
 
-const DRY_RUN_AT = `${argument.slug}/${dryRunArgument.slug}` as const
+const PLAN_AT = `${argument.slug}/${planArgument.slug}` as const
 
 const JSON_AT = `${argument.slug}/${jsonArgument.slug}` as const
 
@@ -34,7 +34,7 @@ function rooted(): string {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   argumentsFiled(root, [
     { slug: "json", ...JSON_LINE },
-    { slug: "dry-run", ...DRY_RUN },
+    { slug: "plan", ...PLAN },
     { slug: "node", ...NODE, placeholder: "id" },
     { slug: "rule", ...RULE },
     { slug: "unsaid" },
@@ -75,8 +75,8 @@ test("an argument is read by the slug after the page type, as how it is said and
 })
 
 test("the arguments are answered in the order the command names them", () => {
-  const page = { arguments: [{ argument: DRY_RUN_AT }, { argument: JSON_AT }] }
-  expect(argumentsNamed(rooted(), page)).toEqual([DRY_RUN, JSON_LINE])
+  const page = { arguments: [{ argument: PLAN_AT }, { argument: JSON_AT }] }
+  expect(argumentsNamed(rooted(), page)).toEqual([PLAN, JSON_LINE])
 })
 
 test("an argument name reaching no page is answered with nothing in its place", () => {

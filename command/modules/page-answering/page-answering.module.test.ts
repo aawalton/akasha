@@ -53,7 +53,7 @@ test("what the call said reaches the work, read against the page handed in", asy
 
   const said = await answeredByPage(SEATED, CALLED_AS, NAMING_THEM, PAGES, work)
 
-  expect(seen).toEqual([{ seat: "athena", dryRun: false, to: [] }])
+  expect(seen).toEqual([{ seat: "athena", plan: false, to: [] }])
   expect(said.report).toEqual(["ran"])
 })
 

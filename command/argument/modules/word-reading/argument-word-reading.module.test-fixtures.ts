@@ -30,7 +30,7 @@ function argumentOf(slug: string, value: Argument["value"]): Argument {
   } as Argument
 }
 
-export const DRY_RUN: Naming = { argument: argumentOf("dry-run", "none") }
+export const PLAN: Naming = { argument: argumentOf("plan", "none") }
 
 export const LIMIT: Naming = { argument: argumentOf("limit", "whole-number") }
 

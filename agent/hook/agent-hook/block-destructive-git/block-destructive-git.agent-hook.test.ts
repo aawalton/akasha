@@ -145,7 +145,7 @@ test("a plain push is refused, whatever remote or refspec follows it", () => {
 test("a push refusal names the route that is not refused", () => {
   const said = refusalIn("git push origin main") ?? ""
   expect(said).toContain("`akasha git push` is the route that is not")
-  expect(said).toContain("akasha git push --dry-run")
+  expect(said).toContain("akasha git push --plan")
   expect(said).toContain("it forces nothing")
 })
 

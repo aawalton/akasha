@@ -3,7 +3,6 @@ import {
   ACTIVE,
   COUNT,
   DASH,
-  DRY_RUN,
   EACH_STATING,
   FROM,
   LIMIT,
@@ -17,6 +16,7 @@ import {
   ONE_OF_TWO,
   ONTO,
   PLACED,
+  PLAN,
   REST,
   refusals,
   SAID_NEITHER,
@@ -27,8 +27,8 @@ import {
 } from "akasha/command/argument/modules/word-reading/argument-word-reading.module.test-fixtures.ts"
 
 test("an argument carrying no value is true where it is said and false where it is not", () => {
-  expect(taken(["--dry-run"], [DRY_RUN])).toEqual({ dryRun: true })
-  expect(taken([], [DRY_RUN])).toEqual({ dryRun: false })
+  expect(taken(["--plan"], [PLAN])).toEqual({ plan: true })
+  expect(taken([], [PLAN])).toEqual({ plan: false })
 })
 
 test("a whole number is read as a number", () => {
@@ -48,12 +48,12 @@ test("a repeating argument nothing said is an empty list", () => {
 })
 
 test("an argument's key is its slug written in camel", () => {
-  expect(Object.keys(taken(["--dry-run"], [DRY_RUN]))).toEqual(["dryRun"])
+  expect(Object.keys(taken(["--to-position", "1"], ONE_OF_THREE))).toEqual(["toPosition"])
 })
 
 test("an argument no page names is refused, and the refusal names what the command takes", () => {
-  expect(refusals(["--nope"], [DRY_RUN])[0]).toBe(
-    "`--nope` is no argument `akasha thing` takes — it takes `--dry-run`"
+  expect(refusals(["--nope"], [PLAN])[0]).toBe(
+    "`--nope` is no argument `akasha thing` takes — it takes `--plan`"
   )
 })
 
@@ -64,7 +64,7 @@ test("a command naming no argument refuses every word", () => {
 })
 
 test("an argument whose value is another argument is an argument no value follows", () => {
-  expect(refusals(["--limit", "--dry-run"], [LIMIT, DRY_RUN])[0]).toBe(NO_VALUE)
+  expect(refusals(["--limit", "--plan"], [LIMIT, PLAN])[0]).toBe(NO_VALUE)
 })
 
 test("a flag the command takes no argument at is refused rather than filling the one before it", () => {
@@ -87,8 +87,8 @@ test("an argument that does not repeat is refused where one call says it twice",
   expect(refusals(["--limit", "1", "--limit", "2"], [LIMIT])[0]).toBe(
     "`--limit` is said twice, and one call says it once"
   )
-  expect(refusals(["--dry-run", "--dry-run"], [DRY_RUN])[0]).toBe(
-    "`--dry-run` is said twice, and one call says it once"
+  expect(refusals(["--plan", "--plan"], [PLAN])[0]).toBe(
+    "`--plan` is said twice, and one call says it once"
   )
 })
 
@@ -242,8 +242,8 @@ test("an empty word where a command takes a word is refused rather than filling 
 })
 
 test("an argument carrying no value is refused where a call writes an equals after it", () => {
-  expect(refusals(["--dry-run=yes"], [DRY_RUN])[0]).toBe(
-    "`--dry-run` carries no value, and `--dry-run=yes` names one"
+  expect(refusals(["--plan=yes"], [PLAN])[0]).toBe(
+    "`--plan` carries no value, and `--plan=yes` names one"
   )
 })
 

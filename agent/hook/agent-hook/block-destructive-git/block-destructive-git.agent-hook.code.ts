@@ -134,7 +134,7 @@ const PUSHED = [
   "`akasha git push` is the route that is not.",
   "It carries the branch this checkout is on to the remote that branch tracks, it forces nothing",
   "in any form, and where the remote has moved ahead it refuses rather than overwriting.",
-  "Say `akasha git push`, or `akasha git push --dry-run` to read how many commits would be carried",
+  "Say `akasha git push`, or `akasha git push --plan` to read how many commits would be carried",
   "without reaching the remote at all.",
   "Reach for no other route from here: another remote, another branch, a refspec, or",
   "`git push --dry-run` — every one of them is this same act and every one is refused here.",

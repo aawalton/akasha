@@ -20,7 +20,7 @@ import {
 test("a command page's entries are read against the argument pages its code names", () => {
   expect(pageTaken(["--seat", "athena"], NAMING_THEM, PAGES)).toEqual({
     seat: "athena",
-    dryRun: false,
+    plan: false,
     to: [],
   })
 })
@@ -29,10 +29,10 @@ test("what a command page names is answered under those keys and typed as the pa
   const read = takenFor(["--seat", "athena", "--limit", "2"], "akasha thing", NAMING_THEM, PAGES)
   if ("refused" in read) throw new Error(read.refused.join("; "))
   const seat: string = read.taken.seat
-  const dry: boolean = read.taken.dryRun
+  const plan: boolean = read.taken.plan
   const limit: number | undefined = read.taken.limit
   const to: readonly string[] = read.taken.to
-  expect([seat, dry, limit, to]).toEqual(["athena", false, 2, []])
+  expect([seat, plan, limit, to]).toEqual(["athena", false, 2, []])
 })
 
 test("an argument the command page needs is refused where nothing said it", () => {

@@ -3,8 +3,8 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 import type { Commanding } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import type { Taken } from "akasha/command/argument/modules/word-reading/argument-word-reading.module.code.ts"
-import { dryRun as dryRunArgument } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { limit as limitArgument } from "akasha/command/argument/pages/limit.argument.ts"
+import { plan as planArgument } from "akasha/command/argument/pages/plan.argument.ts"
 import { seat as seatArgument } from "akasha/command/argument/pages/seat.argument.ts"
 import { tail as tailArgument } from "akasha/command/argument/pages/tail.argument.ts"
 
@@ -30,12 +30,12 @@ export function pageRefusals(
   return read.refused
 }
 
-const DRY_RUN_PAGE = {
+const PLAN_PAGE = {
   id: "01a09400-0000-7000-8000-000000000001",
   type: "argument",
-  slug: "dry-run",
-  said: "--dry-run",
-  takes: "what dry-run is for",
+  slug: "plan",
+  said: "--plan",
+  takes: "what plan is for",
   value: "none",
 } as const satisfies Argument
 
@@ -76,9 +76,9 @@ export const TAIL_PAGE = {
   default: "100",
 } as const satisfies Argument
 
-export const PAGES = [DRY_RUN_PAGE, SEAT_PAGE, LIMIT_PAGE, TO_PAGE]
+export const PAGES = [PLAN_PAGE, SEAT_PAGE, LIMIT_PAGE, TO_PAGE]
 
-const DRY_RUN_AT = `${argument.slug}/${dryRunArgument.slug}` as const
+const PLAN_AT = `${argument.slug}/${planArgument.slug}` as const
 
 export const SEAT_AT = `${argument.slug}/${seatArgument.slug}` as const
 
@@ -91,7 +91,7 @@ export const NAMING_TAIL = { slug: "thing", arguments: [{ argument: TAIL_AT }] }
 export const NAMING_THEM = {
   slug: "thing",
   arguments: [
-    { argument: DRY_RUN_AT },
+    { argument: PLAN_AT },
     { argument: SEAT_AT, required: true },
     { argument: LIMIT_AT },
     { argument: "argument/to", repeats: true },
