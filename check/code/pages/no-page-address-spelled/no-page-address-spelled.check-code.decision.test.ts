@@ -12,6 +12,8 @@ import {
   SCOPED,
   UNCOMMITTED,
 } from "akasha/check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.test-fixtures.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 test("a body spelling a page's address is refused, naming the address", () => {
   const said = reasonsIn(given(HELD, `const AT = "${ADDRESS}"\n`))
@@ -25,7 +27,7 @@ test("a scoped address is refused as a qualified one is", () => {
 })
 
 test("each spelling is named on its own", () => {
-  const body = `const a = "${ADDRESS}"\nconst b = "page-type/module"\n`
+  const body = `const a = "${ADDRESS}"\nconst b = "${pageType.slug}/${module.slug}"\n`
   expect(reasonsIn(given(HELD, body))).toHaveLength(2)
 })
 

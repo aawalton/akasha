@@ -12,6 +12,8 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const scratch = scratchWorld()
 
@@ -62,7 +64,7 @@ function alsoSeeded(root: string): undefined {
   filing(PAGE_TYPE, FILE_PROPERTY, `akasha/${FILE_PROPERTY}.page-type.ts`, {
     pageTypeSlug: PAGE_TYPE,
     slug: FILE_PROPERTY,
-    extends: ["page-type/page-property"],
+    extends: [`${pageType.slug}/${pageProperty.slug}`],
   })
   for (const value of CARRIED) {
     const slug = String(value["slug"])

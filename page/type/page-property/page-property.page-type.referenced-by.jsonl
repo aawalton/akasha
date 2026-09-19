@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/model/properties/model-tests.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/eso-addon/properties/eso-interfaces.relation-property.types.ts"}

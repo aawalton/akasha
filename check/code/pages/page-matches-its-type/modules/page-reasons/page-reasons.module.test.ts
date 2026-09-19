@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { checkCode } from "akasha/check/code/check-code.page-type.ts"
 import {
   computedKey,
   reasonsIn,
@@ -20,6 +21,7 @@ import {
   matchingIn,
 } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -66,7 +68,14 @@ const GROUP: Carried = {
 }
 
 function grouped(held: Value): readonly string[] {
-  return reasonsIn(held, [GROUP], HERE, "page-type/check-code", allows, new Set<string>())
+  return reasonsIn(
+    held,
+    [GROUP],
+    HERE,
+    `${pageType.slug}/${checkCode.slug}`,
+    allows,
+    new Set<string>()
+  )
 }
 
 test("a group a page states is judged against the members that group declares", () => {

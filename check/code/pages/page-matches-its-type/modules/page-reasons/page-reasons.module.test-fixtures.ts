@@ -1,12 +1,24 @@
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const FORMAT = "all-lower"
 
 const AKASHA = "akasha"
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_TYPE_AT = `${pageType.slug}/${pageType.slug}` as const
+
+const PAGE_PROPERTY_ENTRY_AT = `${pageType.slug}/${pagePropertyEntry.slug}` as const
 
 const TYPES: readonly Value[] = [
   {
@@ -23,14 +35,14 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000002",
     pageTypeSlug: "page-type",
     slug: "module",
-    extends: ["page-type/page"],
+    extends: [PAGE_AT],
     properties: [{ pagePropertySlug: "test", required: false, many: false }],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000003",
     pageTypeSlug: "page-type",
     slug: "check",
-    extends: ["page-type/module"],
+    extends: [MODULE_AT],
     properties: [
       { pagePropertySlug: "test", required: true, many: false },
       { pagePropertySlug: "aids", required: false, many: true, maxCount: 2, maxLength: 3 },
@@ -40,7 +52,7 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000004",
     pageTypeSlug: "page-type",
     slug: "told",
-    extends: ["page-type/page"],
+    extends: [PAGE_AT],
     properties: [
       { pagePropertySlug: "directives", required: false, many: true, maxCount: null },
       { pagePropertySlug: "aids", required: false, many: true, maxCount: null },
@@ -60,7 +72,7 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000010",
     pageTypeSlug: "page-type",
     slug: "held",
-    extends: ["page-type/page"],
+    extends: [PAGE_AT],
     properties: [
       { pagePropertySlug: "page-type-slug", required: true, many: false },
       { pagePropertySlug: "test", required: true, many: false },
@@ -73,7 +85,7 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000017",
     pageTypeSlug: "page-type",
     slug: "page-type",
-    extends: ["page-type/page"],
+    extends: [PAGE_AT],
     properties: [
       { pagePropertySlug: "extends-type", required: false, many: true, maxCount: null },
       { pagePropertySlug: "page-type-slug", required: false, many: false },
@@ -84,7 +96,7 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000022",
     pageTypeSlug: "page-type",
     slug: "page-property",
-    extends: ["page-type/page"],
+    extends: [PAGE_AT],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000018",
@@ -120,7 +132,7 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000012",
     pageTypeSlug: "page-type",
     slug: "name-format",
-    extends: ["page-type/page"],
+    extends: [PAGE_AT],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000015",
@@ -144,7 +156,7 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000024",
     pageTypeSlug: "page-type",
     slug: "rowed-property",
-    extends: ["page-type/page-property-entry"],
+    extends: [PAGE_PROPERTY_ENTRY_AT],
   },
 ]
 
@@ -207,7 +219,7 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "relation-property",
     slug: "extends-type",
     propertySlug: "extends",
-    targetPageType: "page-type/page-type",
+    targetPageType: PAGE_TYPE_AT,
   },
   "page-property-slug": {
     id: "01a0540d-0000-7000-8000-00000000001a",
