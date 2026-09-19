@@ -19,6 +19,7 @@ export const arianaGrandeKByeForNowSwtLiveRightThereLive = {
     },
   ],
   title: "right there - live",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

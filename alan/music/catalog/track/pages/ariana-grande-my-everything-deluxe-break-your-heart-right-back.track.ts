@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingDeluxeBreakYourHeartRightBack = {
     },
   ],
   title: "Break Your Heart Right Back",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

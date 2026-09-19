@@ -19,6 +19,7 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
     },
   ],
   title: "Sympathy is a knife featuring ariana grande",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

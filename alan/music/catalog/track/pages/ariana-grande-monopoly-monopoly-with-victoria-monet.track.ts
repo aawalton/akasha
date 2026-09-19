@@ -19,6 +19,7 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
     },
   ],
   title: "MONOPOLY (with Victoria Monét)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

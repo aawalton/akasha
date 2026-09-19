@@ -19,6 +19,7 @@ export const auroraIDrinkTheLightJengiRemixIDrinkTheLightJengiRemix = {
     },
   ],
   title: "I DRINK THE LIGHT - Jengi Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

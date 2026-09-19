@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingDeluxeJustALittleBitOfYourHeart = {
     },
   ],
   title: "Just A Little Bit Of Your Heart",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

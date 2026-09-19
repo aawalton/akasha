@@ -19,6 +19,7 @@ export const arianaGrandeYoursTrulyPopularSong = {
     },
   ],
   title: "Popular Song",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

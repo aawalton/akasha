@@ -19,6 +19,7 @@ export const auroraForgottenLoveClaptoneRemixForgottenLoveClaptoneExtendedRemix 
     },
   ],
   title: "Forgotten Love - Claptone Extended Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

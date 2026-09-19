@@ -19,6 +19,7 @@ export const arianaGrandeSweetenerRaindropsAnAngelCried = {
     },
   ],
   title: "raindrops (an angel cried)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

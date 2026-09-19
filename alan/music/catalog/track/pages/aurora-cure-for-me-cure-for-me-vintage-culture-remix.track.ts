@@ -19,6 +19,7 @@ export const auroraCureForMeCureForMeVintageCultureRemix = {
     },
   ],
   title: "Cure For Me - Vintage Culture Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

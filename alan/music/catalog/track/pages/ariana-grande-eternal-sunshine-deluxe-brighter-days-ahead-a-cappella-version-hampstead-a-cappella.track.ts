@@ -22,6 +22,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionH
       },
     ],
     title: "Hampstead - a cappella",
+    trackType: "a-cappella",
     discNumber: 1,
     explicit: true,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

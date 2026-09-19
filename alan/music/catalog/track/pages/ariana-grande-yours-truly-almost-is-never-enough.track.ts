@@ -19,6 +19,7 @@ export const arianaGrandeYoursTrulyAlmostIsNeverEnough = {
     },
   ],
   title: "Almost Is Never Enough",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

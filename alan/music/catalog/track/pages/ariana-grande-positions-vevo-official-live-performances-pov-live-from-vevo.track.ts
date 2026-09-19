@@ -19,6 +19,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesPovLiveFromVevo = 
     },
   ],
   title: "pov - live from Vevo",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

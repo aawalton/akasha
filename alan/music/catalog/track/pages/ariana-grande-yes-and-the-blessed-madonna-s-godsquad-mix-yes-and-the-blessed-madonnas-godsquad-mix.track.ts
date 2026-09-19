@@ -19,6 +19,7 @@ export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMixYesAndTheBlessedMado
     },
   ],
   title: "yes, and? - The Blessed Madonna’s Godsquad Mix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

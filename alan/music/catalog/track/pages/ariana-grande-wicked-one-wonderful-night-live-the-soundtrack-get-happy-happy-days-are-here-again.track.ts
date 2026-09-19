@@ -19,6 +19,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
     },
   ],
   title: "Get Happy / Happy Days Are Here Again - Live from the Dolby Theatre",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

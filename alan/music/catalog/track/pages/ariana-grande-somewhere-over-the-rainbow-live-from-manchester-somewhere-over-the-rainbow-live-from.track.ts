@@ -20,6 +20,7 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchesterSomewhereOverT
       },
     ],
     title: "Somewhere Over The Rainbow - Live From Manchester",
+    trackType: "live",
     discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

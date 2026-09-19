@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBeMyBaby = {
     },
   ],
   title: "Be My Baby",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

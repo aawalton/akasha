@@ -19,6 +19,7 @@ export const auroraExistForLoveRemixesExistForLoveSondrRemix = {
     },
   ],
   title: "Exist for Love - Sondr Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

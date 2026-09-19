@@ -19,6 +19,7 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
     },
   ],
   title: "Met Him Last Night",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

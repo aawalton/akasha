@@ -19,6 +19,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
     },
   ],
   title: "Popular Song (MIKA & Ariana Grande)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemixEdi
     },
   ],
   title: "Rain On Me - Ralphi Rosario Remix - Edit",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const auroraComeCloserWavelengths = {
     },
   ],
   title: "WAVELENGTHS",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

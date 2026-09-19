@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingDeluxeBreakFree = {
     },
   ],
   title: "Break Free",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

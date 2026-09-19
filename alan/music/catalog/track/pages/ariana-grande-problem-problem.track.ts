@@ -19,6 +19,7 @@ export const arianaGrandeProblemProblem = {
     },
   ],
   title: "Problem",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

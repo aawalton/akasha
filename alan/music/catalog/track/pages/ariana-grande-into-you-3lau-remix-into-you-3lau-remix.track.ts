@@ -19,6 +19,7 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
     },
   ],
   title: "Into You - 3LAU Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

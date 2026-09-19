@@ -19,6 +19,7 @@ export const auroraAppleTreeGeorgiaRemixAppleTreeGeorgiaRemix = {
     },
   ],
   title: "Apple Tree - Georgia Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

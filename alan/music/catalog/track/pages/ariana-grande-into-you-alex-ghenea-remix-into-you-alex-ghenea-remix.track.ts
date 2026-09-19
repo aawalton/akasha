@@ -19,6 +19,7 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
     },
   ],
   title: "Into You - Alex Ghenea Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

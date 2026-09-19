@@ -19,6 +19,7 @@ export const auroraDaydreamerKdaLondonDubDaydreamerKdaLondonDub = {
     },
   ],
   title: "Daydreamer - KDA London Dub",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

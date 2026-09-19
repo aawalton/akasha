@@ -19,6 +19,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLeaveMeLonely = {
     },
   ],
   title: "Leave Me Lonely",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

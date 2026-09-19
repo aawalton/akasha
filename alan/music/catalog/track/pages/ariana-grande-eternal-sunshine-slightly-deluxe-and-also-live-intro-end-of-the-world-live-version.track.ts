@@ -19,6 +19,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveIntroEndOfTheWo
     },
   ],
   title: "intro (end of the world) - live version",
+  trackType: "live",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

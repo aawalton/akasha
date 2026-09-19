@@ -19,6 +19,7 @@ export const arianaGrandeSideToSideRemixesSideToSidePhantomsRemix = {
     },
   ],
   title: "Side To Side - Phantoms Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

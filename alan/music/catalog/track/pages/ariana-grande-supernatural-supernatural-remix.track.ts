@@ -19,6 +19,7 @@ export const arianaGrandeSupernaturalSupernaturalRemix = {
     },
   ],
   title: "supernatural - remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingDeluxeHandsOnMe = {
     },
   ],
   title: "Hands On Me",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

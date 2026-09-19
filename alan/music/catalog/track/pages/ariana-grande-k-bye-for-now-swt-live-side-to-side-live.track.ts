@@ -19,6 +19,7 @@ export const arianaGrandeKByeForNowSwtLiveSideToSideLive = {
     },
   ],
   title: "side to side - live",
+  trackType: "live",
   discNumber: 1,
   explicit: true,
   trackArtist: [

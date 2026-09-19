@@ -21,6 +21,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionS
     },
   ],
   title: "Saturn Returns Interlude",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

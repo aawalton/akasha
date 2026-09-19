@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
     },
   ],
   title: "March of the Witch Hunters",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

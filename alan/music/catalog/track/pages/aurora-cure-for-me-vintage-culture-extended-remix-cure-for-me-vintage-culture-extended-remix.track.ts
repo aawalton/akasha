@@ -19,6 +19,7 @@ export const auroraCureForMeVintageCultureExtendedRemixCureForMeVintageCultureEx
     },
   ],
   title: "Cure For Me - Vintage Culture Extended Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

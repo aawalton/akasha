@@ -19,6 +19,7 @@ export const arianaGrandeKByeForNowSwtLiveInMyHeadInterludeLive = {
     },
   ],
   title: "in my head interlude - live",
+  trackType: "live",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

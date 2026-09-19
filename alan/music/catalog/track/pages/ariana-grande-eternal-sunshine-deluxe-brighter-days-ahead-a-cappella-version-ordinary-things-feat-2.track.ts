@@ -22,6 +22,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionO
       },
     ],
     title: "ordinary things (feat. Nonna) - a cappella",
+    trackType: "a-cappella",
     discNumber: 1,
     explicit: false,
     trackArtist: [

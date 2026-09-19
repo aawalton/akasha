@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackAsLongAsYoureMine = {
     },
   ],
   title: "As Long As You’re Mine",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
     },
   ],
   title: "Dancing Through Life - Commentary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

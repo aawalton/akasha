@@ -22,6 +22,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
       },
     ],
     title: "i wish i hated you - instrumental",
+    trackType: "instrumental",
     discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

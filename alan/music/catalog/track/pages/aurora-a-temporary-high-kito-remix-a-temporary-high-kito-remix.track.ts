@@ -19,6 +19,7 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
     },
   ],
   title: "A Temporary High - Kito Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

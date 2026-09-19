@@ -19,6 +19,7 @@ export const auroraComeCloserComeCloser = {
     },
   ],
   title: "COME CLOSER",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

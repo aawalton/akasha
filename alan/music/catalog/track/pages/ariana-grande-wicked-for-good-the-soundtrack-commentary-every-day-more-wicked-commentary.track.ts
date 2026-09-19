@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
     },
   ],
   title: "Every Day More Wicked - Commentary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

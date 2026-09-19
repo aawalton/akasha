@@ -19,6 +19,7 @@ export const arianaGrandeKByeForNowSwtLiveTheLightIsComingLive = {
     },
   ],
   title: "the light is coming - live",
+  trackType: "live",
   discNumber: 1,
   explicit: true,
   trackArtist: [

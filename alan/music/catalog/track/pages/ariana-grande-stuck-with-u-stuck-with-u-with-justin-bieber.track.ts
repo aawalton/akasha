@@ -19,6 +19,7 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
     },
   ],
   title: "Stuck with U (with Justin Bieber)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

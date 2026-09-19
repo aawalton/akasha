@@ -19,6 +19,7 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHell = {
     },
   ],
   title: "Good as Hell",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "56oDRnqbIiwx4mymNEv7dS", artistName: "Lizzo" }],

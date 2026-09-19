@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
     },
   ],
   title: "The Wicked Witch of the East - Commentary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6uGIoRQUqP4ncxyg6HksA1", artistName: "Marissa Bode" }],

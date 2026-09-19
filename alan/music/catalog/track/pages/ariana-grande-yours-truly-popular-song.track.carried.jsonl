@@ -12,5 +12,6 @@
 {"title":"Popular Song"}
 {"trackArtist":[{"externalId":"5MmVJVhhYKQ86izuGHzJYA","artistName":"MIKA"},{"externalId":"66CXWjxzNUsdJxJ2JdwvnR","artistName":"Ariana Grande"}]}
 {"trackKey":"popularsong|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200213"}
+{"trackType":"studio"}
 {"type":"page-type/track"}
 {"unit":"unit/minutes"}

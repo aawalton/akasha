@@ -19,6 +19,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
     },
   ],
   title: "The Wizard And I - Live from the Dolby Theatre",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

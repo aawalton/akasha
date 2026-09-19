@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryASentimentalManCommentary 
     },
   ],
   title: "A Sentimental Man - Commentary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" }],

@@ -19,6 +19,7 @@ export const arianaGrandeKByeForNowSwtLiveBreakUpWithYourGirlfriendImBoredLive =
     },
   ],
   title: "break up with your girlfriend, i'm bored - live",
+  trackType: "live",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

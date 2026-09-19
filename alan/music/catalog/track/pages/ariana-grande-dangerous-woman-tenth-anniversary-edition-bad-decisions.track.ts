@@ -19,6 +19,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionBadDecisions = {
     },
   ],
   title: "Bad Decisions",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

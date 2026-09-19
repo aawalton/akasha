@@ -19,6 +19,7 @@ export const auroraComeCloserHaveYouSeenMeDanceAlone = {
     },
   ],
   title: "HAVE YOU SEEN ME DANCE ALONE?",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

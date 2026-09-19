@@ -19,6 +19,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLetMeLoveYou = {
     },
   ],
   title: "Let Me Love You",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

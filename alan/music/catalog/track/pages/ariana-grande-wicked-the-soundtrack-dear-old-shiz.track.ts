@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackDearOldShiz = {
     },
   ],
   title: "Dear Old Shiz",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

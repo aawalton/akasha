@@ -19,6 +19,7 @@ export const auroraAnimalSoulAnimalSoul = {
     },
   ],
   title: "Animal Soul",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],

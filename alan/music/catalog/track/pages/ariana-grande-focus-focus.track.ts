@@ -19,6 +19,7 @@ export const arianaGrandeFocusFocus = {
     },
   ],
   title: "Focus",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeelingCommentar
     },
   ],
   title: "What Is This Feeling? - Commentary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

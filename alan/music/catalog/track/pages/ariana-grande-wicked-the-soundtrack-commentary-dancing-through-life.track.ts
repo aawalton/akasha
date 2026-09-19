@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLife = {
     },
   ],
   title: "Dancing Through Life",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
     },
   ],
   title: "Rain On Me (with Ariana Grande)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

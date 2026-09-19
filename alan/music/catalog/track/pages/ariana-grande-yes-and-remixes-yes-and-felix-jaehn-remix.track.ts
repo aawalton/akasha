@@ -19,6 +19,7 @@ export const arianaGrandeYesAndRemixesYesAndFelixJaehnRemix = {
     },
   ],
   title: "yes, and? - Felix Jaehn Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

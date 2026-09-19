@@ -19,6 +19,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
     },
   ],
   title: "Right There - Live from London (feat. Big Sean)",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

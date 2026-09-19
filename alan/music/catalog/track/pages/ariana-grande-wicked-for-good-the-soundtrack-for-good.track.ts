@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackForGood = {
     },
   ],
   title: "For Good",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

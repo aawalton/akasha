@@ -19,6 +19,7 @@ export const arianaGrandePositionsDeluxe3435RemixFeatDojaCatMeganTheeStallionRem
     },
   ],
   title: "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

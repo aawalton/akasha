@@ -19,6 +19,7 @@ export const auroraComeCloserMyBaby = {
     },
   ],
   title: "MY BABY",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

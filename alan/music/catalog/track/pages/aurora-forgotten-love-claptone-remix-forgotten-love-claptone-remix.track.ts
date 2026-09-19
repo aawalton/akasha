@@ -19,6 +19,7 @@ export const auroraForgottenLoveClaptoneRemixForgottenLoveClaptoneRemix = {
     },
   ],
   title: "Forgotten Love - Claptone Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

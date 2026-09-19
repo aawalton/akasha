@@ -22,6 +22,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
       },
     ],
     title: "ordinary things (feat. Nonna) - instrumental",
+    trackType: "instrumental",
     discNumber: 1,
     explicit: false,
     trackArtist: [

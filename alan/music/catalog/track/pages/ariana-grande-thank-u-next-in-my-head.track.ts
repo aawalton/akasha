@@ -19,6 +19,7 @@ export const arianaGrandeThankUNextInMyHead = {
     },
   ],
   title: "in my head",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

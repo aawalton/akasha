@@ -19,6 +19,7 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
     },
   ],
   title: "Just Look Up (From Don’t Look Up)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

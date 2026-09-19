@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGoodCommentary =
     },
   ],
   title: "For Good - Commentary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

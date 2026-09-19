@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBangBang = {
     },
   ],
   title: "Bang Bang",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

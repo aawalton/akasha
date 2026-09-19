@@ -19,6 +19,7 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
     },
   ],
   title: "A Soul With No King - Remix (feat. NATURE)",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

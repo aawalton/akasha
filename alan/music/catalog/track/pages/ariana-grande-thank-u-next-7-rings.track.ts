@@ -19,6 +19,7 @@ export const arianaGrandeThankUNext7Rings = {
     },
   ],
   title: "7 rings",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

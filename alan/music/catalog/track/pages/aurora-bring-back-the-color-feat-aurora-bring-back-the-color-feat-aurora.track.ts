@@ -19,6 +19,7 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
     },
   ],
   title: "BRING BACK THE COLOR (feat. AURORA)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

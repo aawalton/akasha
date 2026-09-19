@@ -19,6 +19,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeSupernaturalWithTroyeSivan
     },
   ],
   title: "supernatural (with Troye Sivan) - remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

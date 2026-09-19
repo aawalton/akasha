@@ -19,6 +19,7 @@ export const arianaGrandeYoursTrulyRightThere = {
     },
   ],
   title: "Right There",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

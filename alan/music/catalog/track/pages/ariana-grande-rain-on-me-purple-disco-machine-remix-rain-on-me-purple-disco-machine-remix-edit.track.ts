@@ -19,6 +19,7 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
     },
   ],
   title: "Rain On Me - Purple Disco Machine Remix - Edit",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

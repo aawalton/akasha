@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBestMistake = {
     },
   ],
   title: "Best Mistake",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
     },
   ],
   title: "Cure For Me (feat. Silvana Estrada) - Live",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

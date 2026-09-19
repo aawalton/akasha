@@ -19,6 +19,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveBenjaminMRkAc
     },
   ],
   title: "Exist for Love - Benjamin Mørk Acoustic Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

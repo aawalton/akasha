@@ -19,6 +19,7 @@ export const arianaGrandePositionsSafetyNetFeatTyDollaIgn = {
     },
   ],
   title: "safety net (feat. Ty Dolla $ign)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const auroraExistForLoveRemixesExistForLoveDjBorisRemix = {
     },
   ],
   title: "Exist for Love - DJ Boris Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

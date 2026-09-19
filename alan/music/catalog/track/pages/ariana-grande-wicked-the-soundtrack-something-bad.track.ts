@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackSomethingBad = {
     },
   ],
   title: "Something Bad",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

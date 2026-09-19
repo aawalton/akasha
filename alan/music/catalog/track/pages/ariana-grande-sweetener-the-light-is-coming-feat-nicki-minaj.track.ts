@@ -19,6 +19,7 @@ export const arianaGrandeSweetenerTheLightIsComingFeatNickiMinaj = {
     },
   ],
   title: "the light is coming (feat. Nicki Minaj)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

@@ -20,6 +20,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesSafetyNetFeatTyDol
       },
     ],
     title: "safety net (feat. Ty Dolla $ign) - live from Vevo",
+    trackType: "live",
     discNumber: 1,
     explicit: false,
     trackArtist: [

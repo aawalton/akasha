@@ -19,6 +19,7 @@ export const auroraComeCloserABoyLikeYou = {
     },
   ],
   title: "A BOY LIKE YOU",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -20,6 +20,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
       },
     ],
     title: "off the table (with The Weeknd) - live from Vevo",
+    trackType: "live",
     discNumber: 1,
     explicit: false,
     trackArtist: [

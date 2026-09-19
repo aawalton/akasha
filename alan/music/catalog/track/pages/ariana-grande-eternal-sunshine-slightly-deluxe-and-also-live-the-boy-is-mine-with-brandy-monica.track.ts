@@ -19,6 +19,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveTheBoyIsMineWit
     },
   ],
   title: "the boy is mine (with Brandy, Monica) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

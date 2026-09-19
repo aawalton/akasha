@@ -19,6 +19,7 @@ export const arianaGrandeSaveYourTearsRemixSaveYourTearsWithArianaGrandeRemix = 
     },
   ],
   title: "Save Your Tears (with Ariana Grande) (Remix)",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
     },
   ],
   title: "The Wicked Witch of the East",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

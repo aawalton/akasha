@@ -19,6 +19,7 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
     },
   ],
   title: "IN A MINUTE - LIVE FROM THE STUDIO VERSION",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

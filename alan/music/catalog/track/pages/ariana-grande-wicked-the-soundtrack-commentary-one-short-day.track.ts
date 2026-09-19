@@ -19,6 +19,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDay = {
     },
   ],
   title: "One Short Day",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

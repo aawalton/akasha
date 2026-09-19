@@ -19,6 +19,7 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
     },
   ],
   title: "Hotel Rock Bottom (feat. Ariana Grande)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

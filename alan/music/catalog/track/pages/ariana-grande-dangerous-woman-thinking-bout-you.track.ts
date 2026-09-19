@@ -19,6 +19,7 @@ export const arianaGrandeDangerousWomanThinkingBoutYou = {
     },
   ],
   title: "Thinking Bout You",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

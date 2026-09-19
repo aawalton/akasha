@@ -19,6 +19,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
     },
   ],
   title: "Exist for Love - Sondr Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionLoveMeHarder = {
     },
   ],
   title: "Love Me Harder",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

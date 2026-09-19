@@ -19,6 +19,7 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
     },
   ],
   title: "my heart belongs to daddy - live",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

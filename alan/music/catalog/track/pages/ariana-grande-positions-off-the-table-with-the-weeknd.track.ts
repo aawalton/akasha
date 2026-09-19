@@ -19,6 +19,7 @@ export const arianaGrandePositionsOffTheTableWithTheWeeknd = {
     },
   ],
   title: "off the table (with The Weeknd)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

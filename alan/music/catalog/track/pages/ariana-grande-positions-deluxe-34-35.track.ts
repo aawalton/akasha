@@ -19,6 +19,7 @@ export const arianaGrandePositionsDeluxe3435 = {
     },
   ],
   title: "34+35",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

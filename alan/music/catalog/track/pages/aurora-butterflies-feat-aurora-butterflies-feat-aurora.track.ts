@@ -19,6 +19,7 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
     },
   ],
   title: "Butterflies (feat. AURORA)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

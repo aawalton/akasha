@@ -19,6 +19,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadIntroEndOfTheWorl
     },
   ],
   title: "intro (end of the world) - extended",
+  trackType: "version",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],

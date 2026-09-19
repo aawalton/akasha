@@ -19,6 +19,7 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHellFeatArianaGran
     },
   ],
   title: "Good as Hell (feat. Ariana Grande) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const auroraComeCloserTheThing = {
     },
   ],
   title: "THE THING",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [
