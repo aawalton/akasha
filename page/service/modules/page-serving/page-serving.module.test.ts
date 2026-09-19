@@ -257,21 +257,23 @@ test("a page a write composes keeps its values beside what that write already ke
   expect(folded.kept?.map((one) => one.path)).toEqual([A_PAGE, "akasha/b.ts"])
 })
 
+const A_DEFINITION = "a distance the domain has not closed"
+
 test("a page a write has merging is composed over what the page already has", async () => {
   await answering(
     GIVEN,
     writing({
       pages: [
         {
-          pageTypeSlug: "idle-game",
-          slug: "idle",
-          values: { favoritedAt: AN_INSTANT },
+          pageTypeSlug: "decision-kind",
+          slug: "gap",
+          values: { definition: A_DEFINITION },
           merge: true,
         },
       ],
     })
   )
   const told = TOLD[TOLD.length - 1]
-  expect(told?.puts?.[0]?.content).toContain('gameEngine: "idle"')
-  expect(told?.puts?.[0]?.content).toContain('unit: "unit/moments"')
+  expect(told?.puts?.[0]?.content).toContain('decisionGroup: "decision-group/intent"')
+  expect(told?.puts?.[0]?.content).toContain(`definition: "${A_DEFINITION}"`)
 })
