@@ -113,7 +113,7 @@ export async function pollTransactions(options: { readonly verbose: boolean }): 
   }
 
   if (landed > 0) {
-    const tally = await categorizeRecent({ dryRun: false })
+    const tally = await categorizeRecent()
     if (tally.contested.length > 0) {
       throw new Error(`${tally.contested.length} row(s) claimed by more than one rule`)
     }

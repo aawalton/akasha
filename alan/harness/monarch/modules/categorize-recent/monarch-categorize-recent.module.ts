@@ -33,10 +33,6 @@ export const monarchCategorizeRecent = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run may say the changes that run would make and write nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A contested row leaves the run non-zero.",
     },
   ],

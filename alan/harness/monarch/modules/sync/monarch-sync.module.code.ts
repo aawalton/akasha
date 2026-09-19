@@ -124,7 +124,7 @@ export async function sync(options: { readonly incremental: boolean }): Promise<
   console.log("--- categorizing what arrived ---")
   let unsettled: string | null = null
   try {
-    const tally = await categorizeRecent({ dryRun: false })
+    const tally = await categorizeRecent()
     if (tally.contested.length > 0) {
       unsettled = `${tally.contested.length} row(s) claimed by more than one rule`
     }

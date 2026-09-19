@@ -7,10 +7,7 @@ import {
   readSince,
 } from "akasha/alan/harness/monarch/modules/history/monarch-history.module.code.ts"
 import { loadCategoryRules } from "akasha/alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"
-import {
-  categoryTitles,
-  readFlags,
-} from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
+import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import {
   clausesMatch,
   decide,
@@ -32,9 +29,7 @@ function describe(row: HistoryRow): string {
   return `${row.date}  ${row.amount.toFixed(2).padStart(10)}  ${row.merchant || row.statement}`
 }
 
-export async function categorizeRecent(options: {
-  readonly dryRun: boolean
-}): Promise<CategorizeTally> {
+export async function categorizeRecent(): Promise<CategorizeTally> {
   const from = unattendedFrom()
   const rules = (await loadCategoryRules()).rules
   const titles = await categoryTitles()
@@ -70,18 +65,13 @@ export async function categorizeRecent(options: {
       continue
     }
     const title = titles.get(decision.category) ?? decision.category
-    if (options.dryRun) {
-      console.log(`  would set  ${describe(row)}  →  ${title}  (${rule.name})`)
-      set += 1
-      continue
-    }
     const applied = await applyDecision(rule, row, decision)
     set += 1
     legs += applied.legs.length
     console.log(`  set  ${describe(row)}  →  ${title}  (${rule.name}, ${applied.legs.length} leg)`)
   }
 
-  console.log(`  ${options.dryRun ? "would set" : "set"} ${set} row(s) over ${legs} leg(s)`)
+  console.log(`  set ${set} row(s) over ${legs} leg(s)`)
   for (const [why, count] of [...left.entries()].sort((one, other) => other[1] - one[1])) {
     console.log(`  left  ${String(count).padStart(4)}  ${why}`)
   }
@@ -96,9 +86,6 @@ export async function categorizeRecent(options: {
 }
 
 if (import.meta.main) {
-  const flags = readFlags(process.argv.slice(2))
-  const dryRun = flags.has("dry-run")
-  const tally = await categorizeRecent({ dryRun })
-  if (dryRun) console.log("\nnothing was written.")
+  const tally = await categorizeRecent()
   if (tally.contested.length > 0) process.exit(1)
 }
