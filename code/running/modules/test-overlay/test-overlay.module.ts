@@ -27,6 +27,14 @@ export const testOverlay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body carried over a file keeps the mode that file has in the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body carried where the checkout has no file takes the mode a write gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A link the change has is made at the path that link is filed at.",
     },
     {

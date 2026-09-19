@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { chmodSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   absentFrom,
@@ -66,6 +66,22 @@ test("a link carried beside a folder reaches what that folder holds", () => {
     "under/deep/two.txt",
   ])
   expect(said.out).toBe("deeper on disk\n")
+})
+
+test("a body carried over an executable file keeps that file's mode inside", () => {
+  const root = checkout()
+  writeFileSync(join(root, "run.sh"), "#!/bin/sh\necho on disk\n")
+  chmodSync(join(root, "run.sh"), 0o755)
+  const said = inside(root, { "run.sh": "#!/bin/sh\necho carried\n" }, ["./run.sh"])
+  expect(said.out).toBe("carried\n")
+  expect(said.code).toBe(0)
+})
+
+test("a body carried over a file the owner alone reads keeps that reading to the owner", () => {
+  const root = checkout()
+  chmodSync(join(root, "one.txt"), 0o600)
+  const said = inside(root, { "one.txt": "carried\n" }, ["stat", "-c", "%a", "one.txt"])
+  expect(said.out.trim()).toBe("600")
 })
 
 test("a path the change carries no body for is read off the checkout", () => {

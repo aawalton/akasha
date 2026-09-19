@@ -1,4 +1,13 @@
-import { existsSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import {
+  chmodSync,
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  rmSync,
+  statSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { homedir } from "node:os"
 import { dirname, isAbsolute, join, normalize } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -26,6 +35,8 @@ const TAKEN = "taken.txt"
 const OWN = ["unshare", "-Urm", "--propagation", "private"]
 
 const MODE = 0o755
+
+const CARRIED = 0o777
 
 const OUTSIDE = "reaches outside the checkout, and a mount carries the checkout's own paths alone"
 
@@ -108,6 +119,12 @@ function ageKeyNamed(): Readonly<Record<string, string>> {
   return existsSync(at) ? { [AGE_KEY]: at } : {}
 }
 
+function modeUnder(root: string, one: string): number | null {
+  const found = statSync(join(root, one), { throwIfNoEntry: false })
+  if (found === undefined || !found.isFile()) return null
+  return found.mode & CARRIED
+}
+
 function sweptAt(held: string): undefined {
   ran([...OWN, "rm", "-rf", held])
   rmSync(held, { recursive: true, force: true })
@@ -132,8 +149,13 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
       }
       const at = join(upper, one)
       mkdirSync(dirname(at), { recursive: true })
-      if (linked(body)) symlinkSync(body.linkedTo, at)
-      else writeFileSync(at, body)
+      if (linked(body)) {
+        symlinkSync(body.linkedTo, at)
+        continue
+      }
+      const mode = modeUnder(root, one)
+      writeFileSync(at, body)
+      if (mode !== null) chmodSync(at, mode)
     }
     const listed = join(held, TAKEN)
     writeFileSync(listed, taken.map((one) => `${one}\n`).join(""))
