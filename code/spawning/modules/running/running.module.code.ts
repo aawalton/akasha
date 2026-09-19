@@ -33,6 +33,10 @@ const PEAK = "memory.peak"
 
 const HIGH = "memory.high"
 
+const MAX = "cpu.max"
+
+const UNBOUND = "max"
+
 const MEGA = 1_048_576
 
 const USAGE = "usage_usec "
@@ -78,6 +82,45 @@ export function delegatedAt(own: string): string | null {
     at = dirname(at)
   }
   return null
+}
+
+type Quota = {
+  readonly stated: string
+  readonly share: number
+}
+
+function quotaIn(at: string): Quota | null {
+  let stated = ""
+  try {
+    stated = readFileSync(join(at, MAX), "utf8").trim()
+  } catch {
+    return null
+  }
+  const [held, over] = stated.split(/\s+/)
+  if (held === undefined || held === UNBOUND) return null
+  const share = Number(held) / Number(over)
+  return Number.isFinite(share) && share > 0 ? { stated, share } : null
+}
+
+function quotaOver(at: string): string | null {
+  let tightest: Quota | null = null
+  let here = at
+  while (here.startsWith(MOUNT) && here !== MOUNT) {
+    const held = quotaIn(here)
+    if (held !== null && (tightest === null || held.share < tightest.share)) tightest = held
+    here = dirname(here)
+  }
+  return tightest === null ? null : tightest.stated
+}
+
+function bounded(at: string, quota: string | null): undefined {
+  if (quota === null) return
+  try {
+    writeFileSync(join(at, MAX), quota)
+  } catch {}
+  try {
+    writeFileSync(join(at, RUN, MAX), quota)
+  } catch {}
 }
 
 export function madePid(named: string): number | null {
@@ -197,6 +240,7 @@ function budgetAt(): string | null {
     mkdirSync(at)
     writeFileSync(join(at, CONTROL), TURN_ON)
     mkdirSync(join(at, RUN))
+    bounded(at, quotaOver(parent))
     return at
   } catch {
     swept(at)

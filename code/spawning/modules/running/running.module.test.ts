@@ -20,6 +20,12 @@ import {
   ran,
   said,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import {
+  NO_QUOTA,
+  NOTHING,
+  quotaAbove,
+  quotaSeen,
+} from "akasha/code/spawning/modules/running/running.module.test-fixtures.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
 
@@ -216,6 +222,26 @@ test("a process is given the memory ceiling its caller stated", () => {
 
 test("a process given no memory ceiling is held to none", () => {
   expect(ran(["sh", "-c", `cat ${WEIGHING}/memory.high`], MEASURED).out.trim()).toBe("max")
+})
+
+const TIGHT = "200000 50000"
+
+const WIDE = "800000 100000"
+
+test("the group made for a run states the processor quota that group is already held to", () => {
+  expect(quotaSeen([TIGHT])).toBe(TIGHT)
+})
+
+test("a group above the run stating no quota is read past to the quota in force", () => {
+  expect(quotaSeen([TIGHT, NOTHING])).toBe(TIGHT)
+})
+
+test("the quota stated is the tightest in force rather than the nearest one stated", () => {
+  expect(quotaSeen([TIGHT, WIDE])).toBe(TIGHT)
+})
+
+test("a run no group above holds to a quota states none rather than one made up", () => {
+  expect(quotaSeen([NOTHING, NOTHING])).toBe(quotaAbove() ?? NO_QUOTA)
 })
 
 test("a process inside one given a ceiling states a ceiling above its own", () => {

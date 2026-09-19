@@ -7,6 +7,7 @@ export const running = {
   definition: "a process run to its end, and the code and streams it leaves",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -355,6 +356,25 @@ export const running = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing raises where a process cannot be held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The group made for a run states the processor quota that group is already held to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That quota is the tightest any group above states rather than the nearest one stated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run no group above holds to a quota states none rather than one worked out for it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A program reading its own group for a quota reads the quota that run is held to.",
     },
   ],
 } as const satisfies Module
