@@ -18,6 +18,7 @@ import {
   seatPathForName,
   seatsAt,
 } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { akasha as akashaDomain } from "akasha/akasha.domain.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
@@ -31,6 +32,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { akasha as akashaPersona } from "akasha/persona/pages/akasha/akasha.persona.ts"
 import { athena } from "akasha/persona/pages/athena/athena.persona.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
@@ -60,7 +62,7 @@ function short(key: keyof SeatStated): SeatStated {
 test("a seat stating everything is written as a page naming its person", () => {
   const body = seatBody(WHOLE, "athena", ROOT)
   expect(body).toContain("export const athena = {")
-  expect(body).toContain('type: "page-type/seat"')
+  expect(body).toContain(`type: "${pageType.slug}/${seat.slug}"`)
   expect(body).not.toContain("pageTypeSlug:")
   expect(body).toContain('person: "person/alan"')
   expect(body).toContain('role: "role/definer"')

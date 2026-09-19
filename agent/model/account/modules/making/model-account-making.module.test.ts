@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { modelAccount } from "akasha/agent/model/account/model-account.page-type.ts"
 import {
   accountPageAt,
   accountPageText,
@@ -9,6 +10,7 @@ import type { Landing } from "akasha/change/runner/pages/mechanical-change-runni
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ROOT = "/nowhere"
 
@@ -90,7 +92,7 @@ describe("accountPageText", () => {
     expect(rest.join("\n")).toBe(`
 export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
-  type: "page-type/model-account",
+  type: "${pageType.slug}/${modelAccount.slug}",
   slug: "c-seven",
   provider: "model-provider/anthropic",
   email: "seven@example.com",

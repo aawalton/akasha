@@ -1,4 +1,5 @@
 import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
+import { command } from "akasha/command/command.page-type.ts"
 import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import {
   readingIn,
@@ -8,10 +9,11 @@ import {
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
-const COMMAND_ROOT = "page-type/command"
+const COMMAND_ROOT = `${pageType.slug}/${command.slug}` as const
 const COMMAND = "command/"
 const NAMESPACE = "namespace/"
 const DEFINITION = "definition"

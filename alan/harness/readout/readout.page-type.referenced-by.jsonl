@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/inbox/relay-service/inbox-relay-service.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/inbox/relay-service/inbox-relay-service.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.running.code.ts"}
