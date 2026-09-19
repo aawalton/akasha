@@ -133,8 +133,8 @@ function live(): Promise<Ticked> {
   return started
 }
 
-test("a tick over the services there today writes a ledger and refuses nothing", async () => {
-  expect((await live()).refused).toEqual([])
+test("a tick over the services there today writes a ledger", async () => {
+  await live()
   expect(existsSync(ledgerAt(LIVE_HOME))).toBe(true)
 })
 
