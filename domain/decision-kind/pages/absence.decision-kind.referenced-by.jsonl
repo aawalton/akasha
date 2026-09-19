@@ -1111,6 +1111,8 @@
 {"propertySlug":"decision-kind","path":"command/pages/email/message/trash/email-message-trash.command.ts","id":"01a06810-cf11-7809-b382-e88022027eb3"}
 {"propertySlug":"decision-kind","path":"command/pages/email/unsubscribe/email-unsubscribe.command.ts","id":"01a06810-cf11-7b83-a5f8-81736bc497fb"}
 {"propertySlug":"decision-kind","path":"command/pages/finding/delete/finding-delete.command.ts","id":"01a0b7a0-c25d-78e0-805d-10b09d6406a2"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/cooldown/fitness-cooldown.command.ts","id":"01a0bab8-8a7a-78db-bb48-a6667b1f8812"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.ts","id":"01a0bab7-a12a-7864-a9da-d54a152e1852"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","id":"01a0b72c-3d76-75eb-92a1-4fc4a0021192"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/modules/training-week/training-week.module.ts","id":"01a0b6ed-9dd8-7ed5-a746-300f4c03dd98"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}

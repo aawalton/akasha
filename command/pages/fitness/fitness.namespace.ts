@@ -6,6 +6,7 @@ export const fitness = {
   slug: "fitness",
   definition: "how Alan trains his body and what the training did",
   parts: [
+    "command/fitness-cooldown",
     "command/fitness-mobility",
     "command/fitness-next",
     "command/fitness-week",

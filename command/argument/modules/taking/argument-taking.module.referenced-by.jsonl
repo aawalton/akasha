@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.test.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}

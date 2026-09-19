@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts"}
+{"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
@@ -6,6 +8,7 @@
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/modules/warming/warming.module.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.test.ts"}
+{"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/next/fitness-next.command.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/next/modules/stepping/stepping.module.test.ts"}
