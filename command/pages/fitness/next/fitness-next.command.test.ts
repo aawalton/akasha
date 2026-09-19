@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import {
+  allowed,
   chosenFor,
   coveredBy,
   fitnessNext,
@@ -11,6 +12,7 @@ import {
   newnessLeftIn,
   offerOf,
   owedIn,
+  restrictedIn,
   saidOf,
   topLoadFor,
 } from "akasha/command/pages/fitness/next/fitness-next.command.code.ts"
@@ -57,6 +59,8 @@ function week(movements: readonly Movement[], took: ReadonlyMap<string, number> 
 
 const KNOWN = new Map<string, Mark>([["dumbbell-bench-press", { sets: 4, weight: 30, reps: 20 }]])
 
+const FREE: ReadonlySet<string> = new Set()
+
 test("a movement of the body alone is loadable with no kit at all", () => {
   expect(loadable(movement("pushups", { implement: "body-only" }), new Set())).toBe(true)
 })
@@ -89,22 +93,22 @@ test("a muscle at its floor is owed nothing", () => {
 
 test("the first movement of a bout is one Alan has taken near failure before", () => {
   const fresh = movement("incline-dumbbell-press")
-  const chosen = chosenFor(week([BENCH, fresh]), "chest", COVERED, KNOWN, 12, 0)
+  const chosen = chosenFor(week([BENCH, fresh]), "chest", COVERED, KNOWN, 12, 0, FREE)
   expect(chosen?.slug).toBe("dumbbell-bench-press")
 })
 
 test("a movement new to Alan is offered only once Alan has worked today", () => {
   const fresh = movement("incline-dumbbell-press")
-  const chosen = chosenFor(week([fresh]), "chest", COVERED, new Map(), 12, 0)
+  const chosen = chosenFor(week([fresh]), "chest", COVERED, new Map(), 12, 0, FREE)
   expect(chosen).toBe(null)
-  expect(chosenFor(week([fresh]), "chest", COVERED, new Map(), 12, 1)?.slug).toBe(
+  expect(chosenFor(week([fresh]), "chest", COVERED, new Map(), 12, 1, FREE)?.slug).toBe(
     "incline-dumbbell-press"
   )
 })
 
 test("a movement every muscle of which is at its ceiling is out", () => {
   const took = new Map([["chest", 12]])
-  expect(chosenFor(week([BENCH], took), "chest", COVERED, KNOWN, 12, 0)).toBe(null)
+  expect(chosenFor(week([BENCH], took), "chest", COVERED, KNOWN, 12, 0, FREE)).toBe(null)
 })
 
 test("a bout that has taken its new movement takes no more", () => {
@@ -118,20 +122,20 @@ test("a bout not begun allows nothing new", () => {
 })
 
 test("a movement offered carries the weight used and one rep past the best", () => {
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, 6, 12, 0)
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, 6, 12, 0, FREE)
   expect(offer?.weight).toBe(30)
   expect(offer?.reps).toBe(21)
 })
 
 test("a movement at the top of its kit says the weight holds", () => {
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, 6, 12, 0)
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, 6, 12, 0, FREE)
   expect(offer?.atKitCeiling).toBe(true)
   expect(saidOf(offer).some((one) => one.includes("tops out"))).toBe(true)
 })
 
 test("a movement Alan never took near failure carries no weight and no reps", () => {
   const fresh = movement("incline-dumbbell-press")
-  const offer = offerOf(week([fresh]), KIT, new Map(), 6, 12, 1)
+  const offer = offerOf(week([fresh]), KIT, new Map(), 6, 12, 1, FREE)
   expect(offer?.weight).toBe(null)
   expect(offer?.reps).toBe(null)
 })
@@ -142,8 +146,27 @@ test("muscles owed alike are parted by the deepest history", () => {
     ["dumbbell-bench-press", { sets: 16, weight: 30, reps: 20 }],
     ["hammer-curls", { sets: 5, weight: 15, reps: 15 }],
   ])
-  const offer = offerOf(week([BENCH, curl]), KIT, marks, 6, 12, 0)
+  const offer = offerOf(week([BENCH, curl]), KIT, marks, 6, 12, 0, FREE)
   expect(offer?.movement).toBe("dumbbell-bench-press")
+})
+
+test("a restriction names the pattern it keeps out", () => {
+  expect(restrictedIn([{ movementPattern: "v-push" }, {}])).toEqual(new Set(["v-push"]))
+})
+
+test("a movement whose pattern is restricted may not be performed", () => {
+  expect(allowed(BENCH, new Set(["h-push"]))).toBe(false)
+  expect(allowed(BENCH, new Set(["hinge"]))).toBe(true)
+})
+
+test("a movement Alan may not perform is gone before any movement is ranked", () => {
+  const curl = movement("hammer-curls", { muscles: ["biceps"], pattern: "isolation-other" })
+  const marks = new Map<string, Mark>([
+    ["dumbbell-bench-press", { sets: 16, weight: 30, reps: 20 }],
+    ["hammer-curls", { sets: 5, weight: 15, reps: 15 }],
+  ])
+  const offer = offerOf(week([BENCH, curl]), KIT, marks, 6, 12, 0, new Set(["h-push"]))
+  expect(offer?.movement).toBe("hammer-curls")
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {

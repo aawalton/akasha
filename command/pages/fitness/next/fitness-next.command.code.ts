@@ -29,6 +29,8 @@ import {
 
 const KIT_TYPE = "fitness-equipment"
 
+const RESTRICTION_TYPE = "movement-restriction"
+
 const BODY_ONLY = "body-only"
 
 const UNRANKED = ["stretching", "cardio"]
@@ -74,6 +76,19 @@ export function coveredBy(kit: readonly Kit[]): ReadonlySet<string> {
 export function topLoadFor(kit: readonly Kit[], implement: string): number | null {
   const loads = kit.filter((one) => one.covers.includes(implement)).flatMap((one) => [...one.loads])
   return loads.length === 0 ? null : Math.max(...loads)
+}
+
+export function restrictedIn(pages: readonly Value[]): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const one of pages) {
+    const pattern = textAt(one, "movementPattern")
+    if (pattern !== null) held.add(pattern)
+  }
+  return held
+}
+
+export function allowed(one: Movement, restricted: ReadonlySet<string>): boolean {
+  return one.pattern === null || !restricted.has(one.pattern)
 }
 
 export function loadable(one: Movement, covered: ReadonlySet<string>): boolean {
@@ -140,9 +155,11 @@ export function chosenFor(
   covered: ReadonlySet<string>,
   marks: ReadonlyMap<string, Mark>,
   ceiling: number,
-  newnessLeft: number
+  newnessLeft: number,
+  restricted: ReadonlySet<string>
 ): Movement | null {
   const able = [...week.movements.values()].filter((one) => {
+    if (!allowed(one, restricted)) return false
     if (!one.muscles.includes(muscle) || !loadable(one, covered)) return false
     if (one.muscles.every((each) => (week.tally.muscles.get(each) ?? 0) >= ceiling)) return false
     return (marks.get(one.slug)?.sets ?? 0) > 0 || newnessLeft > 0
@@ -165,11 +182,12 @@ export function offerOf(
   marks: ReadonlyMap<string, Mark>,
   low: number,
   ceiling: number,
-  newnessLeft: number
+  newnessLeft: number,
+  restricted: ReadonlySet<string>
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, low).flatMap((muscle) => {
-    const one = chosenFor(week, muscle, covered, marks, ceiling, newnessLeft)
+    const one = chosenFor(week, muscle, covered, marks, ceiling, newnessLeft, restricted)
     if (one === null) return []
     return [
       {
@@ -237,7 +255,8 @@ export function nextIn(root: string, today: string): Offer | null {
     marks,
     selectionPolicy.weeklySetFloor,
     selectionPolicy.weeklySetCeiling,
-    newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession)
+    newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession),
+    restrictedIn(valuesOfType(root, RESTRICTION_TYPE).map((one) => one.value))
   )
 }
 
