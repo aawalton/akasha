@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -21,14 +25,19 @@ test("a body to write goes in through the change adding a file of any kind", () 
   const asked = askedFor([{ kind: "add", path: AT, content: "alpha\n" }])
 
   expect(asked).toEqual([
-    { at: "change-mechanical/add-file-of-any-kind", given: { at: AT, body: "alpha\n" } },
+    {
+      at: `${changeMechanical.slug}/${addFileOfAnyKind.slug}`,
+      given: { at: AT, body: "alpha\n" },
+    },
   ])
 })
 
 test("a path to take away goes through the change removing a file", () => {
   const asked = askedFor([{ kind: "remove", path: AT }])
 
-  expect(asked).toEqual([{ at: "change-mechanical-file/remove-file", given: { at: AT } }])
+  expect(asked).toEqual([
+    { at: `${changeMechanicalFile.slug}/${removeFile.slug}`, given: { at: AT } },
+  ])
 })
 
 test("a refusal the reading answers with is passed back untouched", async () => {

@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.types.ts","path":"change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.types.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.types.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.ts"}

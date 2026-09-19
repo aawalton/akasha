@@ -1,3 +1,7 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type {
   Asking,
@@ -18,9 +22,9 @@ import { builtIn } from "akasha/command/modules/file-arguing/file-arguing.module
 import { commitSaid } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 
-const PUT = "change-mechanical/add-file-of-any-kind"
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const TAKE = "change-mechanical-file/remove-file"
+const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   const asked: Asking[] = []
