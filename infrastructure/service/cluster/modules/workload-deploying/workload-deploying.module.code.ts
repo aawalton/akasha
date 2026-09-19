@@ -1,6 +1,9 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { ran as running } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import {
+  ranAwaited,
+  ran as running,
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 
 const KUBECTL = "kubectl"
@@ -55,6 +58,16 @@ export function runKubectl(argv: readonly string[]): Ran {
 
 export function runKubectlOn(argv: readonly string[], text: string): Ran {
   const done = running([KUBECTL, ...argv], { stdin: new TextEncoder().encode(text) })
+  return { argv, code: done.code, stdout: done.out, stderr: done.err }
+}
+
+export async function runKubectlAwaited(argv: readonly string[]): Promise<Ran> {
+  const done = await ranAwaited([KUBECTL, ...argv])
+  return { argv, code: done.code, stdout: done.out, stderr: done.err }
+}
+
+export async function runKubectlOnAwaited(argv: readonly string[], text: string): Promise<Ran> {
+  const done = await ranAwaited([KUBECTL, ...argv], { stdin: new TextEncoder().encode(text) })
   return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 

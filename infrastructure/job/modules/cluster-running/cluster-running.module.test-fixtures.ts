@@ -44,7 +44,7 @@ export function capturing(answering: (argv: readonly string[]) => Ran = () => ra
     running: (argv, text) => {
       seen.push([...argv])
       if (text !== null) sent = text
-      return answering(argv)
+      return Promise.resolve(answering(argv))
     },
     seen,
     sent: () => sent,

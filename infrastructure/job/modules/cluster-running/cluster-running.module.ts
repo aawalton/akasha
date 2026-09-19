@@ -52,6 +52,14 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The loop the waiting run is on keeps turning, so what shares it is answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service waiting on a job answers a request that arrives while it waits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job that failed is seen on the round it failed rather than after the wait.",
     },
     {

@@ -116,15 +116,15 @@ test("the wait names the job, its namespace and how long it is waited on", () =>
   expect(said).toContain("workers")
 })
 
-test("a job that failed is seen on the round it failed rather than after the whole wait", () => {
+test("a job that failed is seen on the round it failed rather than after the whole wait", async () => {
   const held = capturing((argv) => ranOf(argv.includes("--for=condition=Failed") ? 0 : 1))
-  expect(fateOf(held.running, NAME, 180)).toBe("failed")
+  expect(await fateOf(held.running, NAME, 180)).toBe("failed")
   expect(held.seen.length).toBe(2)
 })
 
-test("a job still running past every round is answered as running", () => {
+test("a job still running past every round is answered as running", async () => {
   const held = capturing(() => ranOf(1))
-  expect(fateOf(held.running, NAME, 3)).toBe("running")
+  expect(await fateOf(held.running, NAME, 3)).toBe("running")
   expect(held.seen.length).toBe(6)
 })
 

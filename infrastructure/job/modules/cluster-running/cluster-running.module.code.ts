@@ -28,8 +28,8 @@ import {
 import {
   type Plan,
   type Ran,
-  runKubectl,
-  runKubectlOn,
+  runKubectlAwaited,
+  runKubectlOnAwaited,
 } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 import { placeSecrets } from "akasha/infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"
 
@@ -172,7 +172,7 @@ export function jobYamlFor(name: string, script: string): string {
   return synthOne(JOB_NAMESPACE, name, jobFor(name, script))
 }
 
-export type Running = (argv: readonly string[], text: string | null) => Ran
+export type Running = (argv: readonly string[], text: string | null) => Promise<Ran>
 
 export type Carrying = (root: string, commit: string) => Carried
 
@@ -204,7 +204,8 @@ export function logsArgv(name: string): readonly string[] {
   return ["logs", "-n", JOB_NAMESPACE, `job/${name}`, EVERY_LINE]
 }
 
-const ranBy: Running = (argv, text) => (text === null ? runKubectl(argv) : runKubectlOn(argv, text))
+const ranBy: Running = async (argv, text) =>
+  text === null ? await runKubectlAwaited(argv) : await runKubectlOnAwaited(argv, text)
 
 export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
   const said = lines.stdout.trim() === "" ? [] : lines.stdout.trim().split("\n")
@@ -213,10 +214,10 @@ export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
   return { why: `the job ${name} had not ended, so its lines are all that is known` }
 }
 
-export function fateOf(running: Running, name: string, rounds: number): Fate {
+export async function fateOf(running: Running, name: string, rounds: number): Promise<Fate> {
   for (let round = 0; round < rounds; round += 1) {
-    if (running(waitArgv(name, COMPLETE, WAITED_ONCE), null).code === 0) return "complete"
-    if (running(waitArgv(name, FAILED, AT_ONCE), null).code === 0) return "failed"
+    if ((await running(waitArgv(name, COMPLETE, WAITED_ONCE), null)).code === 0) return "complete"
+    if ((await running(waitArgv(name, FAILED, AT_ONCE), null)).code === 0) return "failed"
   }
   return "running"
 }
@@ -268,9 +269,10 @@ export async function jobRan(
     const short = placing.unplaced.map((one) => `${one.name}/${one.key}`).join(", ")
     return { why: `no secret page places ${short}, so the job would read no repository` }
   }
-  const put = running(applyArgv(), yaml)
+  const put = await running(applyArgv(), yaml)
   if (put.code !== 0) {
     return { why: `the job ${name} would not go up: ${put.stderr.trim()}` }
   }
-  return endedBy(fateOf(running, name, rounds), running(logsArgv(name), null), name)
+  const fate = await fateOf(running, name, rounds)
+  return endedBy(fate, await running(logsArgv(name), null), name)
 }

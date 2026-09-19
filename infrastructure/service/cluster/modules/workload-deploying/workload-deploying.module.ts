@@ -48,6 +48,14 @@ export const workloadDeploying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A kubectl a caller waits on is run so that the caller's loop keeps turning.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller holding a loop others are answered on reaches for that one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What comes between is put up after the namespace is opened and before the rest is applied.",
     },
