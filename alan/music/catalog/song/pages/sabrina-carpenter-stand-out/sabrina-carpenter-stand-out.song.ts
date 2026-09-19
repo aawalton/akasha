@@ -14,7 +14,6 @@ export const sabrinaCarpenterStandOut = {
   ],
   title: "Stand Out",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

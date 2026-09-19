@@ -14,7 +14,6 @@ export const sabrinaCarpenterYoureAMeanOneMrGrinch = {
   ],
   title: "You’re a Mean One, Mr. Grinch",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

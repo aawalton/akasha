@@ -14,7 +14,6 @@ export const sabrinaCarpenterCantBlameAGirlForTrying = {
   ],
   title: "Can’t Blame a Girl for Trying",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

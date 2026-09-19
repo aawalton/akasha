@@ -14,7 +14,6 @@ export const sabrinaCarpenterThumbs = {
   ],
   title: "Thumbs",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

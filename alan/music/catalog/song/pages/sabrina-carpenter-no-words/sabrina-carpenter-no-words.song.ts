@@ -14,7 +14,6 @@ export const sabrinaCarpenterNoWords = {
   ],
   title: "No Words",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

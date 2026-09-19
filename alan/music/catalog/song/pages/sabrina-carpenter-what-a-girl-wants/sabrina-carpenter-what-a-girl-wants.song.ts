@@ -14,7 +14,6 @@ export const sabrinaCarpenterWhatAGirlWants = {
   ],
   title: "What a Girl Wants",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

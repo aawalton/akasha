@@ -14,7 +14,6 @@ export const sabrinaCarpenterGoodLuckBabe = {
   ],
   title: "Good Luck, Babe!",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

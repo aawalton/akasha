@@ -14,7 +14,6 @@ export const sabrinaCarpenterEyesWideOpen = {
   ],
   title: "Eyes Wide Open",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

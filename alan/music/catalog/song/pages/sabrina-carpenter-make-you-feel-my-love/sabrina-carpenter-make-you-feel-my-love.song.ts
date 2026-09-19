@@ -14,7 +14,6 @@ export const sabrinaCarpenterMakeYouFeelMyLove = {
   ],
   title: "Make You Feel My Love",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

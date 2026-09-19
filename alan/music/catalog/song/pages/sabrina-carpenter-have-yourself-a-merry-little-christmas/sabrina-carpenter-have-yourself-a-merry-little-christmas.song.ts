@@ -14,7 +14,6 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmas = {
   ],
   title: "Have Yourself a Merry Little Christmas",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

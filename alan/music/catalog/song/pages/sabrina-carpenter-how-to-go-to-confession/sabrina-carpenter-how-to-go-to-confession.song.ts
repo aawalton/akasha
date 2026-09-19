@@ -14,7 +14,6 @@ export const sabrinaCarpenterHowToGoToConfession = {
   ],
   title: "How to Go to Confession",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

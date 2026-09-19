@@ -14,7 +14,6 @@ export const sabrinaCarpenterItsFinallyChristmas = {
   ],
   title: "It's Finally Christmas",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

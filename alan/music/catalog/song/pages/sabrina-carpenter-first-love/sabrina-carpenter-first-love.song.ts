@@ -14,7 +14,6 @@ export const sabrinaCarpenterFirstLove = {
   ],
   title: "First Love",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

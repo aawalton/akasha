@@ -14,7 +14,6 @@ export const sabrinaCarpenterTheMiddleOfStartingOver = {
   ],
   title: "The Middle of Starting Over",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

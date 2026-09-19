@@ -14,6 +14,5 @@ export const sabrinaCarpenterBlueprint = {
   ],
   title: "blueprint",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

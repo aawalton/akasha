@@ -14,7 +14,6 @@ export const sabrinaCarpenterChristmasTheWholeYearRound = {
   ],
   title: "Christmas the Whole Year Round",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterTheLifeOfAShowgirl = {
   ],
   title: "The Life of a Showgirl",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

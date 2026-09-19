@@ -14,7 +14,6 @@ export const sabrinaCarpenterSantaClausIsComingToTown = {
   ],
   title: "Santa Claus Is Coming to Town",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

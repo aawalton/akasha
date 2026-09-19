@@ -14,7 +14,6 @@ export const sabrinaCarpenterWellBeTheStars = {
   ],
   title: "We’ll Be the Stars",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const sabrinaCarpenterDarlingImAMess = {
   ],
   title: "Darling I’m a Mess",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

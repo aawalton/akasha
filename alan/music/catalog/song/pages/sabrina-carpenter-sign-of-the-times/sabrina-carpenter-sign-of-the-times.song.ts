@@ -14,7 +14,6 @@ export const sabrinaCarpenterSignOfTheTimes = {
   ],
   title: "Sign of the Times",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

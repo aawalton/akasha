@@ -14,7 +14,6 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakes = {
   ],
   title: "A Dream Is a Wish Your Heart Makes",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

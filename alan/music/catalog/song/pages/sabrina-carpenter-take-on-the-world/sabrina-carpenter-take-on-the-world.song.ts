@@ -14,7 +14,6 @@ export const sabrinaCarpenterTakeOnTheWorld = {
   ],
   title: "Take on the World",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

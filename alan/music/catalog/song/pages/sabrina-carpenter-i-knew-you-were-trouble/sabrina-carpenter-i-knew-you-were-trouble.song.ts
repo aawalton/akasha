@@ -14,7 +14,6 @@ export const sabrinaCarpenterIKnewYouWereTrouble = {
   ],
   title: "I Knew You Were Trouble.",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

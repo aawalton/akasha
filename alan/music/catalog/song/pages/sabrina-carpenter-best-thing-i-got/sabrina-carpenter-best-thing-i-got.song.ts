@@ -14,7 +14,6 @@ export const sabrinaCarpenterBestThingIGot = {
   ],
   title: "Best Thing I Got",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

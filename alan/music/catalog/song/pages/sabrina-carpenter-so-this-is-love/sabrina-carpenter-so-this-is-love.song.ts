@@ -14,6 +14,5 @@ export const sabrinaCarpenterSoThisIsLove = {
   ],
   title: "So This Is Love",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

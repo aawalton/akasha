@@ -14,7 +14,6 @@ export const sabrinaCarpenterFixMeUp = {
   ],
   title: "Fix Me Up",
   artist: "artist/sabrina-carpenter",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
