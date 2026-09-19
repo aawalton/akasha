@@ -1552,6 +1552,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/audit-recording/audit-recording.module.ts","id":"01a0aa80-f294-72e3-b796-a0ad8f7a69c3"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-round/audit-round.module.ts","id":"01a0aca1-9651-7fd0-9386-902aead96271"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
+{"propertySlug":"decision-kind","path":"check/modules/audit-telling/audit-telling.module.ts","id":"01a0bb36-df5d-7c08-8b47-05d8913e3e37"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
 {"propertySlug":"decision-kind","path":"check/modules/body-not-utf8/body-not-utf8.module.ts","id":"01a06982-39cd-7000-aaed-afa3d4b4e20b"}
 {"propertySlug":"decision-kind","path":"check/modules/change-mirror/change-mirror.module.ts","id":"01a080b1-5322-7000-ae97-da48e0382c61"}

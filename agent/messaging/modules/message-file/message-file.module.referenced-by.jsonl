@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"}
-{"propertySlug":"import","fileName":"message-file.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"message-file.module.code.ts","path":"check/modules/audit-telling/audit-telling.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"message-file.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"}
 {"propertySlug":"parts","path":"agent/messaging/messaging.domain.ts","id":"01a08842-144e-783f-af6d-2e8a02ad5e8d"}
