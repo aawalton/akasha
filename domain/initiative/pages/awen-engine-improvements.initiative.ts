@@ -6,4 +6,7 @@ export const awenEngineImprovements = {
   slug: "awen-engine-improvements",
   domain: "domain/story-engine",
   persona: "persona/awen",
+  intentStack: [
+    { statement: "Every file the dirty folder held is a page or is deliberately dropped." },
+  ],
 } as const satisfies Initiative
