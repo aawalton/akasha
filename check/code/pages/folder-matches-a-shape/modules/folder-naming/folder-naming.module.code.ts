@@ -15,8 +15,7 @@ export type Holds = (folder: string) => Holding
 const ROOT = ""
 
 export function heldFolder(at: string, holds: Holds, held: ReadonlySet<string>): boolean {
-  const named = basename(at)
-  return held.has(named) && !holds(at).names.includes(named)
+  return held.has(basename(at)) && holds(at).names.length === 0
 }
 
 export function namingFolderOf(folder: string, holds: Holds, held: ReadonlySet<string>): string {

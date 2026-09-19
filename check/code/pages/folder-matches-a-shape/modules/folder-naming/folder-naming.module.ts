@@ -18,7 +18,7 @@ export const folderNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder named for a part that the page in it names is that page's own folder.",
+      statement: "A folder named for a part that holds a page is that page's own folder.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -69,7 +69,7 @@ export const folderMatchesAShape = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A folder named as an enabled shape's own name is a part of the page above that folder.",
+        "A folder named as an enabled shape's own name and holding no page is a part of the page above.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -86,8 +86,7 @@ export const folderMatchesAShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A folder named by the one page in that folder is that page's own folder rather than a part.",
+      statement: "A folder holding a page is that page's own folder rather than a part.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -66,10 +66,10 @@ test("a folder named `pages` the page in it names is that page's folder rather t
   )
 })
 
-test("a folder named `pages` the page in it does not name is a part, and is looked through", () => {
+test("a folder named `pages` the page in it does not name is that page's folder all the same", () => {
   const holds = holding({ "akasha/foo/pages": ["bar"] })
-  expect(heldFolder("akasha/foo/pages", holds, HELD)).toBe(true)
-  expect(namingFolderOf("akasha/foo/pages/deep", holds, HELD)).toBe("akasha/foo")
+  expect(heldFolder("akasha/foo/pages", holds, HELD)).toBe(false)
+  expect(namingFolderOf("akasha/foo/pages/deep", holds, HELD)).toBe("akasha/foo/pages")
 })
 
 test("a folder named `pages` holding no page at all is a part", () => {
@@ -83,10 +83,10 @@ test("a name no enabled shape takes is no part, whatever else that folder is", (
   expect(heldFolder("akasha/foo/pages", holds, new Set<string>(["modules"]))).toBe(false)
 })
 
-test("a folder named `scripts` the page in it does not name is a part, and is looked through", () => {
+test("a folder named `scripts` holding a page is that page's folder rather than a part", () => {
   const holds = holding({ "akasha/foo/scripts": ["bar"] })
-  expect(heldFolder("akasha/foo/scripts", holds, HELD)).toBe(true)
-  expect(namingFolderOf("akasha/foo/scripts/deep", holds, HELD)).toBe("akasha/foo")
+  expect(heldFolder("akasha/foo/scripts", holds, HELD)).toBe(false)
+  expect(namingFolderOf("akasha/foo/scripts/deep", holds, HELD)).toBe("akasha/foo/scripts")
 })
 
 test("a folder named `scripts` the page in it names is that page's folder rather than a part", () => {
@@ -111,4 +111,16 @@ test("a folder named for no part is never looked through", () => {
 test("a part is looked through, so a folder in it is named against the folder above that part", () => {
   const holds = holding({ "akasha/foo": ["foo"] })
   expect(namingFolderOf("akasha/foo/modules/one", holds, HELD)).toBe("akasha/foo")
+})
+
+test("a folder named a plural holding a page slugged otherwise names what sits under it", () => {
+  const held = new Set<string>([...HELD, "mechanics", "skills"])
+  const holds = holding({
+    "story/world": ["world"],
+    "story/world/mechanics": ["world-mechanic"],
+  })
+  const at = "story/world/mechanics/skills/pages/world-class-solo"
+  expect(heldFolder("story/world/mechanics", holds, held)).toBe(false)
+  expect(namingFolderOf(at, holds, held)).toBe("story/world/mechanics")
+  expect(namedUnder(at, "world-class-solo", holds, held)).toBe("world-class-solo")
 })
