@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"typecheck.check-code.decision.test-fixtures.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.test.ts"}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.test-fixtures.ts","path":"check/code/pages/typecheck/typecheck.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.test-fixtures.ts","path":"check/code/pages/typecheck/typecheck.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.test-fixtures.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test.ts"}

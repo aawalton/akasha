@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/modules/change-walking/change-walking.module.test-fixtures.ts"}

@@ -123,6 +123,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/property-sits-under-the-page-it-is-a-part-of/property-sits-under-the-page-it-is-a-part-of.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}

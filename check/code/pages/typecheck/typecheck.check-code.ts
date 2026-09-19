@@ -5,6 +5,7 @@ export const typecheck = {
   type: "page-type/check-code",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
+  parts: ["module/page-narrowing"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -230,29 +231,6 @@ export const typecheck = {
       decisionKind: "decision-kind/departure",
       statement: "A way in naming a file that is nowhere reaches nothing.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A page being created is compiled against its type less the properties a generator fills.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The type a body is held to is narrowed and no diagnostic is suppressed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The narrowing is written on the line the `satisfies` clause already stands on.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A page being created and carrying no `satisfies` clause is compiled as the page stands.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No import is added for the narrowing.",
-    },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "An audit hands this check every file, so its program is the whole tree.",

@@ -1,6 +1,10 @@
 import { existsSync, readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import {
+  type Minting,
+  mintingIn,
+} from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
+import {
   holdingOver,
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -8,7 +12,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { lua50Config } from "akasha/code/lua-runtime-library/properties/lua50-config.file-property.ts"
 import { universalConfig } from "akasha/code/lua-runtime-library/properties/universal-config.file-property.ts"
-import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   compiled,
@@ -26,14 +30,11 @@ import { importers } from "akasha/graph/predicate/pages/importers/importers.grap
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { waitingKeys } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { namedUnder, pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import ts from "typescript"
 import { API } from "typescript-7/unstable/async"
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
-
-const OMIT = "Omit"
 
 const TYPEGEN = "+types"
 
@@ -133,34 +134,6 @@ function declaringIn(change: Change, shadow: Shadow): readonly string[] {
   return [...held].filter(
     (one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null
   )
-}
-
-export type Minting = (path: string, text: string) => string
-
-export function omittingIn(path: string, text: string, keys: readonly string[]): string | null {
-  if (keys.length === 0) return null
-  const held = keys.map((one) => JSON.stringify(one)).join(" | ")
-  const source = parsedAs(path, text)
-  for (const statement of source.statements) {
-    if (!ts.isVariableStatement(statement)) continue
-    for (const declared of statement.declarationList.declarations) {
-      const said = declared.initializer
-      if (said === undefined || !ts.isSatisfiesExpression(said)) continue
-      const at = said.type.getStart(source)
-      const to = said.type.getEnd()
-      return `${text.slice(0, at)}${OMIT}<${text.slice(at, to)}, ${held}>${text.slice(to)}`
-    }
-  }
-  return null
-}
-
-function mintingIn(change: Change, keys: readonly string[], index: Answering): Minting {
-  const pageTypes = keys.length === 0 ? null : index.pageTypesIn()
-  return (path, text) => {
-    if (pageTypes === null || !pageNamed(path, pageTypes)) return text
-    if (change.before(path) !== null) return text
-    return omittingIn(path, text, keys) ?? text
-  }
 }
 
 function bodiesOf(
