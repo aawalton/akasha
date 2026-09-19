@@ -11,10 +11,14 @@ import {
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { delve } from "akasha/story/read/pages/delve/delve.story-read.ts"
+import { storyRead } from "akasha/story/read/story-read.page-type.ts"
 
 const ONE_AT = "story/chapter-read/pages/one.story-chapter-read.ts"
 
 const TWO_AT = "story/chapter-read/pages/two.story-chapter-read.ts"
+
+const DELVE = `${storyRead.slug}/${delve.slug}` as const
 
 function bodied(slug: string, parent: string): string {
   return `import type { StoryChapterRead } from "../story-chapter-read.page-type.ts"
@@ -30,14 +34,14 @@ export const ${slug} = {
 
 const BODIES = {
   [ONE_AT]: bodied("one", "salvos"),
-  [TWO_AT]: bodied("two", "story-read/delve"),
+  [TWO_AT]: bodied("two", DELVE),
 }
 
 type Values = ReadonlyMap<string, Readonly<Record<string, unknown>>>
 
 const VALUES: Values = new Map([
   [ONE_AT, { slug: "one", partOfCollectionSlugs: ["salvos"] }],
-  [TWO_AT, { slug: "two", partOfCollectionSlugs: ["story-read/delve"] }],
+  [TWO_AT, { slug: "two", partOfCollectionSlugs: [DELVE] }],
 ])
 
 const ONE_VALUE: Carried = {
@@ -99,7 +103,7 @@ test("a list of more than one is no value where the key written to holds one val
 test("every page with the key read from is carried, with the value the body spells", () => {
   expect(carriedIn(typedIn(DECLARED), CARRYING)).toEqual([
     { path: ONE_AT, value: `"salvos"` },
-    { path: TWO_AT, value: `"story-read/delve"` },
+    { path: TWO_AT, value: `"${DELVE}"` },
   ])
 })
 

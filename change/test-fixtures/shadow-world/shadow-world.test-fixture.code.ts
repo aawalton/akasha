@@ -1,6 +1,11 @@
 import { expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   type Answer,
   type BodyOf,
@@ -47,7 +52,7 @@ const MODULES = "node_modules"
 
 const CONFIG = "biome.json"
 
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-file-content"
+const CHANGE_IMPORTS = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
 
 const PROPERTY_AT = "akasha/types.file-property.ts"
 
@@ -386,11 +391,11 @@ export const AT = "akasha/one/fresh.module.code.ts"
 
 export const OTHER = "akasha/one/other.module.code.ts"
 
-export const ADD_FILE = "change-mechanical-file/add-file"
+export const ADD_FILE = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
-export const REMOVE_FILE = "change-mechanical-file/remove-file"
+export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-export const AROUND = "change-mechanical-file/add-file-around"
+export const AROUND = `${changeMechanicalFile.slug}/add-file-around` as const
 
 export const NO_BODY = `\`${AT}\` holds no body, so nothing is taken away`
 

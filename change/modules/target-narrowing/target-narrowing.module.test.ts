@@ -4,11 +4,21 @@ import {
   narrows,
   slugIn,
 } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
+import { changeTargetSubtype } from "akasha/change/target/subtype/change-target-subtype.page-type.ts"
+import { file } from "akasha/change/target/subtype/pages/file.change-target-subtype.ts"
+import { fileCode } from "akasha/change/target/subtype/pages/file-code.change-target-subtype.ts"
+import { filePage } from "akasha/change/target/subtype/pages/file-page.change-target-subtype.ts"
+
+const FILE_AT = `${changeTargetSubtype.slug}/${file.slug}` as const
+
+const FILE_CODE_AT = `${changeTargetSubtype.slug}/${fileCode.slug}` as const
+
+const FILE_PAGE_AT = `${changeTargetSubtype.slug}/${filePage.slug}` as const
 
 const PARENTS: Readonly<Record<string, string>> = {
-  "file-code": "change-target-subtype/file",
-  "file-page": "change-target-subtype/file-code",
-  "file-page-type": "change-target-subtype/file-page",
+  "file-code": FILE_AT,
+  "file-page": FILE_CODE_AT,
+  "file-page-type": FILE_PAGE_AT,
 }
 
 const LOOPED: Readonly<Record<string, string>> = {
@@ -60,5 +70,5 @@ test("a chain of parents coming back on itself is walked once", () => {
 })
 
 test("the slug is the part of an address past the page type", () => {
-  expect(slugIn("change-target-subtype/file-page")).toBe("file-page")
+  expect(slugIn(FILE_PAGE_AT)).toBe(filePage.slug)
 })

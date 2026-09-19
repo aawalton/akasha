@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeAgent } from "akasha/change/agent/change-agent.page-type.ts"
+import { removePage } from "akasha/change/agent/file/remove-page/remove-page.change-agent.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import {
   type Answer,
@@ -21,6 +23,12 @@ import {
   takesSaid,
   targetRefusal,
 } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { changeTargetSubtype } from "akasha/change/target/subtype/change-target-subtype.page-type.ts"
+import { file } from "akasha/change/target/subtype/pages/file.change-target-subtype.ts"
+import { fileCode } from "akasha/change/target/subtype/pages/file-code.change-target-subtype.ts"
+import { filePage } from "akasha/change/target/subtype/pages/file-page.change-target-subtype.ts"
+import { filePageType } from "akasha/change/target/subtype/pages/file-page-type.change-target-subtype.ts"
+import { folder } from "akasha/change/target/subtype/pages/folder.change-target-subtype.ts"
 import {
   indexedRepo,
   scratch,
@@ -38,6 +46,8 @@ const NOW = "akasha/one/one.held-anew.code.ts"
 const WAS_PAGE = "akasha/one/held-one.held-kind.ts"
 
 const NOW_PAGE = "akasha/one/held-one.held-other.ts"
+
+const REMOVE_PAGE_AT = `${changeAgent.slug}/${removePage.slug}` as const
 
 const WROTE: Answer = stating([{ kind: "add", path: AT, content: "held\n" }])
 
@@ -78,7 +88,7 @@ test("a page a move carries elsewhere is read for its code beside the path that 
 })
 
 test("an address is parted at the first slash into a page type and a slug", () => {
-  expect(partsOf("change-agent/remove-page")).toEqual(["change-agent", "remove-page"])
+  expect(partsOf(REMOVE_PAGE_AT)).toEqual([changeAgent.slug, removePage.slug])
 })
 
 test("an address carrying a slash in its slug keeps that slash in the slug", () => {
@@ -115,17 +125,27 @@ test("a change that refuses answers that refusal", async () => {
   expect(said.refused).toBe("no")
 })
 
+const SUBTYPE = changeTargetSubtype.slug
+
+const FILE_AT = `${SUBTYPE}/${file.slug}` as const
+
+const FILE_CODE_AT = `${SUBTYPE}/${fileCode.slug}` as const
+
+const FILE_PAGE_AT = `${SUBTYPE}/${filePage.slug}` as const
+
+const FILE_PAGE_TYPE_AT = `${SUBTYPE}/${filePageType.slug}` as const
+
+const FOLDER_AT = `${SUBTYPE}/${folder.slug}` as const
+
 const SUBTYPES: Readonly<Record<string, string>> = {
-  "file-code": "change-target-subtype/file",
-  "file-page": "change-target-subtype/file-code",
-  "file-page-type": "change-target-subtype/file-page",
+  "file-code": FILE_AT,
+  "file-page": FILE_CODE_AT,
+  "file-page-type": FILE_PAGE_AT,
 }
 
 const PAGE_TYPES = new Set(["held", "page-type"])
 
 const UNDER = new Set(["text-property"])
-
-const SUBTYPE = "change-target-subtype"
 
 const PAGE_TYPE_AT = "akasha/kept.page-type.ts"
 
@@ -151,19 +171,19 @@ function judging(acts: string | null): World {
 }
 
 test("a path whose kind is the subtype the change acts on is run", () => {
-  const world = judging("change-target-subtype/file-page")
+  const world = judging(FILE_PAGE_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
 })
 
 test("a path whose kind narrows the subtype the change acts on is run", () => {
-  const world = judging("change-target-subtype/file-code")
+  const world = judging(FILE_CODE_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
 })
 
 test("a path whose kind does not narrow that subtype is refused before the change runs", () => {
-  const world = judging("change-target-subtype/file-page-type")
+  const world = judging(FILE_PAGE_TYPE_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: AT })).toBe(
     `\`${AT}\` is a \`file-page\`, and \`${ADDRESS}\` acts on a \`file-page-type\``
@@ -171,13 +191,13 @@ test("a path whose kind does not narrow that subtype is refused before the chang
 })
 
 test("a path the change acts on is judged whatever the change would have done with it", () => {
-  const world = judging("change-target-subtype/file-page")
+  const world = judging(FILE_PAGE_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: PAGE_TYPE_AT })).toBeNull()
 })
 
 test("the path a carry comes from is the path judged", () => {
-  const world = judging("change-target-subtype/file-page")
+  const world = judging(FILE_PAGE_AT)
 
   expect(targetRefusal(world, ADDRESS, { from: PLAIN, to: AT })).toBe(
     `\`${PLAIN}\` is a \`file\`, and \`${ADDRESS}\` acts on a \`file-page\``
@@ -189,13 +209,13 @@ test("a change acting on no subtype has no path judged", () => {
 })
 
 test("a change acting on no file subtype has no path judged", () => {
-  const world = judging("change-target-subtype/folder")
+  const world = judging(FOLDER_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
 })
 
 test("a change acting on a file of any kind runs a path of every kind", () => {
-  const world = judging("change-target-subtype/file")
+  const world = judging(FILE_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
   expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
@@ -203,7 +223,7 @@ test("a change acting on a file of any kind runs a path of every kind", () => {
 })
 
 test("a change acting on a file of any kind asks the index for no path's kind", () => {
-  const world = judging("change-target-subtype/file")
+  const world = judging(FILE_AT)
   let asked = 0
   const over: World = {
     ...world,
@@ -222,7 +242,7 @@ test("a change acting on a file of any kind asks the index for no path's kind", 
 })
 
 test("the subtype a change judges a path against is worked out once over one world", () => {
-  const world = judging("change-target-subtype/file-page")
+  const world = judging(FILE_PAGE_AT)
   let asked = 0
   const over: World = {
     ...world,
@@ -265,7 +285,7 @@ test("an address whose code exports no run is refused for the export", async () 
 })
 
 test("a call handing in no path has no path judged", () => {
-  const world = judging("change-target-subtype/file-page-type")
+  const world = judging(FILE_PAGE_TYPE_AT)
 
   expect(targetRefusal(world, ADDRESS, {})).toBeNull()
 })

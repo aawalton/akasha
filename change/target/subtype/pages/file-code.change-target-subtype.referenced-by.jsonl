@@ -4,4 +4,6 @@
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.ts","id":"01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.ts","id":"01a07987-afc1-73bf-8a8e-9ba1cc6c5248"}
 {"propertySlug":"change-target-subtype-parent","path":"change/target/subtype/pages/file-page.change-target-subtype.ts","id":"01a07c70-bc1d-7011-9766-74cbb066190d"}
+{"propertySlug":"import","fileName":"file-code.change-target-subtype.ts","path":"change/modules/target-narrowing/target-narrowing.module.test.ts"}
+{"propertySlug":"import","fileName":"file-code.change-target-subtype.ts","path":"change/runner/modules/change-loading/change-loading.module.test.ts"}
 {"propertySlug":"parts","path":"change/target/subtype/change-target-subtype.page-type.ts","id":"01a07c71-2924-76f9-b37f-a239b7b97045"}
