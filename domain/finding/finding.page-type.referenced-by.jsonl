@@ -120,6 +120,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-apps-host-names-are-stated-on-a-page-and-routed-from-a-file.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-pod-with-no-build-cannot-become-ready-and-only-a-running-pod-is-built-in.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-whole-file-landing-reverts-a-sibling-workers-lines-with-code-zero.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-whole-tree-check-reads-every-file-before-the-judge-filters-by-path.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-workstation-services-runs-path-is-never-checked-against-the-checkout.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-writer-and-a-reader-of-one-held-shape-drifted-apart-with-no-round-trip-test.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/abandoned-island-architecture-stands.finding.ts"}
