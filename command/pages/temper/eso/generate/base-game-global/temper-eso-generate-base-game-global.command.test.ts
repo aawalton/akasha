@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  answeredWith,
-  OK,
-} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { answeredWith, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   staging,

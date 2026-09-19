@@ -2,10 +2,7 @@ import { expect, test } from "bun:test"
 import { buyRuleId } from "akasha/command/argument/pages/buy-rule-id.argument.ts"
 import { source as sourceArgument } from "akasha/command/argument/pages/source.argument.ts"
 import { targetQuantity as targetArgument } from "akasha/command/argument/pages/target-quantity.argument.ts"
-import {
-  answering,
-  INPUT,
-} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { answering, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
