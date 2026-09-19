@@ -1864,9 +1864,6 @@
 {"propertySlug":"world","path":"story/world/characters/pages/zineryr/zineryr.world-character.ts","id":"01a0b70d-ee88-79f6-b996-7e1a71dfff4c"}
 {"propertySlug":"world","path":"story/world/characters/pages/zinni/zinni.world-character.ts","id":"01a0b70d-eec5-74e9-9dfe-8528fdc5623d"}
 {"propertySlug":"world","path":"story/world/characters/pages/zoreik/zoreik.world-character.ts","id":"01a0b70d-ef00-7de1-883c-342f7369b3d1"}
-{"propertySlug":"world","path":"story/world/mechanics/aspects/pages/body-of-the-eater/body-of-the-eater.world-aspect.ts","id":"01a0655a-0687-7032-8019-8ce7d55d094b"}
-{"propertySlug":"world","path":"story/world/mechanics/aspects/pages/odour-of-carrion-dreams/odour-of-carrion-dreams.world-aspect.ts","id":"01a0655a-0687-737c-b9b5-121c2c9cdf92"}
-{"propertySlug":"world","path":"story/world/mechanics/aspects/pages/rending-claws/rending-claws.world-aspect.ts","id":"01a0655a-0687-7d82-a9a5-1357deb3801c"}
 {"propertySlug":"world","path":"story/world/mechanics/boons/pages/blessing-of-fecundity/blessing-of-fecundity.world-boon.ts","id":"01a0655a-0687-7757-a896-3f156d62266c"}
 {"propertySlug":"world","path":"story/world/mechanics/boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts","id":"01a0655a-0687-7c4c-ac0d-726c51518feb"}
 {"propertySlug":"world","path":"story/world/mechanics/boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts","id":"01a0655a-0687-7e01-b216-956ad9782dab"}
@@ -12710,4 +12707,7 @@
 {"propertySlug":"world","path":"story/world/named-events/pages/winter-solstice-y1.named-event.ts","id":"019f6865-705d-7d59-aa4c-ee81a7a9524f"}
 {"propertySlug":"world","path":"story/world/named-events/pages/winter-solstice-y2.named-event.ts","id":"019f6865-7170-7794-9c14-5233b219e99f"}
 {"propertySlug":"world","path":"story/world/named-events/pages/wyverns-attack-pallass.named-event.ts","id":"019f6865-7b9c-7eae-9a6d-19a3fbdebc99"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/aspects/body-of-the-eater.world-aspect.ts","id":"01a0655a-0687-7032-8019-8ce7d55d094b"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/aspects/odour-of-carrion-dreams.world-aspect.ts","id":"01a0655a-0687-737c-b9b5-121c2c9cdf92"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/aspects/rending-claws.world-aspect.ts","id":"01a0655a-0687-7d82-a9a5-1357deb3801c"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}
