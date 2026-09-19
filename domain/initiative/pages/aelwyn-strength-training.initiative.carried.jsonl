@@ -1,7 +1,7 @@
 {"constraints":["The 122 sets already logged stay readable through any change to how training is tracked.","The fitness coaching notes bind what Alan is programmed to do; this initiative settles what is tracked."]}
 {"domain":"domain/fitness"}
 {"id":"01a07cf1-f428-7e0b-b26f-c7c657f361ba"}
-{"intentStack":[{"statement":"A movement Alan has not performed today is offered with a warmup before its working set.","workingMemory":"Alan found this: the selector hands him a top set cold. The ramp belongs in the offer rather than being a movement of its own, because the movement is already chosen and the ramp is how he enters it. Warmup sets fall under the near-failure line, so the week's tally passes them over untouched."}]}
+{"intentStack":[]}
 {"persona":"persona/aelwyn"}
 {"slug":"aelwyn-strength-training"}
 {"type":"page-type/initiative"}

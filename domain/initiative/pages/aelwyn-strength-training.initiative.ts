@@ -6,14 +6,7 @@ export const aelwynStrengthTraining = {
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "persona/aelwyn",
-  intentStack: [
-    {
-      statement:
-        "A movement Alan has not performed today is offered with a warmup before its working set.",
-      workingMemory:
-        "Alan found this: the selector hands him a top set cold. The ramp belongs in the offer rather than being a movement of its own, because the movement is already chosen and the ramp is how he enters it. Warmup sets fall under the near-failure line, so the week's tally passes them over untouched.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
     "The fitness coaching notes bind what Alan is programmed to do; this initiative settles what is tracked.",
