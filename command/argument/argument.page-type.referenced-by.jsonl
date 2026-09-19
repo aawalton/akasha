@@ -100,6 +100,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/direction.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/domain.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/download.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/draft.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/drag-steps.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/drive-file.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/dry-run.argument.ts"}
