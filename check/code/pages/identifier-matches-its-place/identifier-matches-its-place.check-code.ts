@@ -6,8 +6,8 @@ export const identifierMatchesItsPlace = {
   slug: "identifier-matches-its-place",
   definition: "the check refusing a declared name not written in the format its place states",
   parts: ["module/place-reading"],
-  runsOnChange: false,
-  runsOnDeploy: false,
+  runsOnChange: true,
+  runsOnDeploy: true,
   runsOnAudit: true,
   decisions: [
     {
@@ -205,5 +205,4 @@ export const identifierMatchesItsPlace = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-  experimental: true,
 } as const satisfies CheckCode
