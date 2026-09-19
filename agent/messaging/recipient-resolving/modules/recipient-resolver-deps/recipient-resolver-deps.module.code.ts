@@ -47,12 +47,6 @@ export async function defaultRecipientResolverDeps(
     reportUnrevivable: async (name, agentId, tellSeat): Promise<void> => {
       if (unrevivableReported.has(agentId)) return
       const told = tellSeat === null ? "Alan" : `\`${tellSeat}\``
-      if (config.dryRun) {
-        console.log(
-          `${LOG} recipient-resolver: [dry-run] would tell ${told} that ${name} (${agentId}) is down and cannot be woken`
-        )
-        return
-      }
       unrevivableReported.add(agentId)
       try {
         if (tellSeat === null) await pushKeeperUnrevivableToAlan(name, agentId)

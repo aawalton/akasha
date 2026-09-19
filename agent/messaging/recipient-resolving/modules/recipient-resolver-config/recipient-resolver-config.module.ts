@@ -4,7 +4,7 @@ export const recipientResolverConfig = {
   id: "01a0657d-a75e-7000-8cb9-c08b467911d7",
   type: "page-type/module",
   slug: "recipient-resolver-config",
-  definition: "the tick interval, revive timeout and dry-run setting read out of the environment",
+  definition: "the tick interval and revive timeout read out of the environment",
   code: "ts",
   decisions: [
     {
@@ -14,15 +14,6 @@ export const recipientResolverConfig = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The seconds the environment states are held as milliseconds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Dry run is on where the environment says `1` or `true` or `yes` or `on`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The value the environment states is read without regard to case or surrounding spaces.",
     },
   ],
 } as const satisfies Module

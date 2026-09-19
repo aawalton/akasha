@@ -16,11 +16,6 @@ export async function reviveSeat(
   bootPrompt: string | undefined,
   config: RecipientResolverConfig
 ): Promise<ReviveVerifySignal> {
-  if (config.dryRun) {
-    console.log(`${LOG} recipient-resolver: [dry-run] would revive ${agentId} (nothing is called)`)
-    return "benign"
-  }
-
   const came: Promise<Came> = resumeSeat({
     agentId,
     verify: true,

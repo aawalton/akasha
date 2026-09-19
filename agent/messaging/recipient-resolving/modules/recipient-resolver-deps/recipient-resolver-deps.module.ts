@@ -24,9 +24,5 @@ export const recipientResolverDeps = {
       decisionKind: "decision-kind/departure",
       statement: "Alan is told where the seat that did not come back is the harness lead itself.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A dry run tells nobody and marks nothing as told.",
-    },
   ],
 } as const satisfies Module

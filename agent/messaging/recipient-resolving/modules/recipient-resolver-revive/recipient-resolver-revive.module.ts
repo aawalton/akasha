@@ -23,9 +23,5 @@ export const recipientResolverRevive = {
       decisionKind: "decision-kind/departure",
       statement: "A revive that did not verify is a seat that was not revived.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A dry run revives nothing.",
-    },
   ],
 } as const satisfies Module
