@@ -1,3 +1,5 @@
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
+import { anthropic } from "akasha/agent/model/provider/pages/anthropic/anthropic.model-provider.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   everyOfType,
@@ -31,7 +33,7 @@ const PROVIDER = "provider"
 
 const API_KEY = "apiKey"
 
-export const ANTHROPIC = "model-provider/anthropic"
+export const ANTHROPIC = `${modelProvider.slug}/${anthropic.slug}` as const
 
 const ACCOUNT_UUID = "accountUuid"
 

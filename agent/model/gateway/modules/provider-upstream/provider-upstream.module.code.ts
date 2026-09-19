@@ -9,12 +9,14 @@ import {
   type Upstream,
 } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
 import { rewrittenToModel } from "akasha/agent/model/gateway/modules/model-body/model-body.module.code.ts"
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
 import {
   apiBaseIn,
   providerModelIn,
 } from "akasha/agent/model/provider/modules/reading/model-provider-reading.module.code.ts"
+import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.model-provider.ts"
 
-const FALLBACK = "model-provider/deepseek"
+const FALLBACK = `${modelProvider.slug}/${deepseek.slug}` as const
 
 export type Fallback = {
   readonly account: string
