@@ -141,7 +141,7 @@ test("a first line past that width is shortened to it", () => {
 })
 
 test("two long first lines opening alike are gathered as one row", () => {
-  const opening = "akasha change draft change-file and a good deal more than a column holds"
+  const opening = "akasha change apply change-file and a good deal more than a column holds"
   const said = saidFor([{ ran: `${opening} one` }, { runId: TWO, ran: `${opening} two` }])
   const rows = said.split("\n").filter((one) => one.startsWith(shortened(opening)))
 

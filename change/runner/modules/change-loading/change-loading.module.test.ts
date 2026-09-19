@@ -310,9 +310,9 @@ test("the arguments a change takes are said from that change's own list", () => 
 })
 
 test("a help answer opens with the call and the change's own definition", () => {
-  expect(helpOfChange("akasha change draft", "remove-page", "one page taken away", ["at"])).toEqual(
+  expect(helpOfChange("akasha change apply", "remove-page", "one page taken away", ["at"])).toEqual(
     [
-      "akasha change draft remove-page",
+      "akasha change apply remove-page",
       "",
       "one page taken away",
       "",
@@ -324,8 +324,8 @@ test("a help answer opens with the call and the change's own definition", () => 
 })
 
 test("a change stating no definition is answered with the call alone", () => {
-  expect(helpOfChange("akasha change draft", "held", null, [])).toEqual([
-    "akasha change draft held",
+  expect(helpOfChange("akasha change apply", "held", null, [])).toEqual([
+    "akasha change apply held",
     "",
     "It takes no argument.",
   ])

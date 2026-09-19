@@ -272,7 +272,7 @@ function quoted(word: string): string {
 const FENCE = "AKASHA-BODY"
 
 export function removingAt(change: string, rel: string): string {
-  return `printf 'at: %s\\n' ${quoted(rel)} | akasha change draft ${change}`
+  return `printf 'at: %s\\n' ${quoted(rel)} | akasha change apply --draft ${change}`
 }
 
 function fenced(key: string, at: string, body: string): readonly string[] {
@@ -289,7 +289,7 @@ export function addingFile(rel: string, at: string, body: string): readonly stri
     "{",
     `  printf 'at: %s\\n' ${quoted(rel)}`,
     ...fenced("body", at, body),
-    "} | akasha change draft add-file",
+    "} | akasha change apply --draft add-file",
   ]
 }
 
@@ -304,7 +304,7 @@ export function changingFile(
     `  printf 'at: %s\\n' ${quoted(rel)}`,
     ...fenced("old", was, readFileSync(was, "utf8")),
     ...fenced("new", at, body),
-    "} | akasha change draft change-file",
+    "} | akasha change apply --draft change-file",
   ]
 }
 
