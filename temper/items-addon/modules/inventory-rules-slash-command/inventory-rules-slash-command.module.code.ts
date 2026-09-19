@@ -112,7 +112,7 @@ function buildMatchContextForRender(itemLink: string, ancestorChain: string[]): 
     saleAmountCount: pricing.saleAmountCount,
     estimatedValue: pricing.estimatedValue,
     merchantValue,
-    replacementCost: pricing.estimatedValue,
+    replacementValue: pricing.estimatedValue,
   }
 }
 

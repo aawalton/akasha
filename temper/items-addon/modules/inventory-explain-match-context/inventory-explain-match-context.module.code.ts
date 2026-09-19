@@ -90,6 +90,6 @@ export function buildMatchContext(
     saleAmountCount: pricing.saleAmountCount,
     estimatedValue: pricing.estimatedValue,
     merchantValue,
-    replacementCost: pricing.estimatedValue,
+    replacementValue: pricing.estimatedValue,
   }
 }

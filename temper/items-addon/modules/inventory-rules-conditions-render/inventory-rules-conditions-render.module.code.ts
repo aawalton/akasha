@@ -31,7 +31,7 @@ export interface MatchContext {
   saleAmountCount: number | undefined
   estimatedValue: number | undefined
   merchantValue: number | undefined
-  replacementCost: number | undefined
+  replacementValue: number | undefined
 }
 
 export function formatCategoryPath(chain: string[]): string {
@@ -71,11 +71,11 @@ function computeCombinedValue(ctx: MatchContext): number | undefined {
   if (
     ctx.estimatedValue === undefined &&
     ctx.merchantValue === undefined &&
-    ctx.replacementCost === undefined
+    ctx.replacementValue === undefined
   ) {
     return undefined
   }
-  return Math.max(ctx.estimatedValue ?? 0, ctx.merchantValue ?? 0, ctx.replacementCost ?? 0)
+  return Math.max(ctx.estimatedValue ?? 0, ctx.merchantValue ?? 0, ctx.replacementValue ?? 0)
 }
 
 function pushValueConditions(
@@ -133,7 +133,7 @@ function pushValueConditions(
 
   if (rule.replacementValue !== undefined) {
     const op = rule.replacementValueOp ?? "<="
-    const rc = ctx.replacementCost ?? 0
+    const rc = ctx.replacementValue ?? 0
     parts.push(
       `${formatConditionResult(`replacementValue${op}${rule.replacementValue}`, compareWithOp(op, rc, resolveThreshold(rule.replacementValue)))} (rc=${rc})`
     )
