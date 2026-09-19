@@ -19,6 +19,7 @@ export const musicCatalog = {
     "module/song-matching",
     "module/song-words",
     "module/track-syncing",
+    "module/track-typing",
     "page-type/artist",
     "page-type/artist-collection",
     "page-type/release",

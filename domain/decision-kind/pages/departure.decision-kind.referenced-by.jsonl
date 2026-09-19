@@ -1029,6 +1029,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/song-matching/song-matching.module.ts","id":"01a0b706-3edc-7c6a-9152-707fe1316ff6"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/song-words/song-words.module.ts","id":"01a0bad8-4f1e-7c00-9d31-5a2f0b7e61c4"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.ts","id":"01a0a593-09e4-757b-a4e7-c505b16e801a"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/modules/track-typing/track-typing.module.ts","id":"01a0c1f2-8a44-7b10-9e57-2c6d0f83a41b"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
