@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/command-tree-view/command-tree-view.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/domain-tree-view/domain-tree-view.module.code.ts"}
+{"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/finding-tree-view/finding-tree-view.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/page-tree-view/page-tree-view.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/service-tree-view/service-tree-view.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-filter.module.code.ts","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.code.ts"}

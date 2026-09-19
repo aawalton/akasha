@@ -1,0 +1,59 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const findingTreePanel = {
+  id: "01a0b733-1337-7151-b08a-42f1495a23a5",
+  type: "page-type/module",
+  slug: "finding-tree-panel",
+  definition: "the Findings panel brought up, and the findings drawn into it from one file",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The findings are read from the file the landing writes rather than composed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel draws the rows that file has before any change to the file arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel draws again when that file is written and at no other time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file written while the panel is hidden is kept rather than drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel becoming visible with a drawing owed draws the rows the file last had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The rows the file has are drawn unchanged rather than spelled again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel counts the findings it holds rather than the rows it holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A finding naming no domain is named on the channel.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing tells Alan of a finding naming no domain, since the row is drawn anyway.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No watcher on a source file is registered here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here composes the tree.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here decides the look of a row.",
+    },
+  ],
+} as const satisfies Module

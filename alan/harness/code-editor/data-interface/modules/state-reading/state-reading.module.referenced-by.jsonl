@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/command-tree-panel/command-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"}
 {"propertySlug":"import","fileName":"state-reading.module.code.ts","path":"code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts"}

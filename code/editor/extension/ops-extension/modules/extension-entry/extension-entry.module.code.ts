@@ -6,6 +6,7 @@ import * as agentTree from "akasha/code/editor/extension/modules/agent-tree-pane
 import * as commandTree from "akasha/code/editor/extension/modules/command-tree-panel/command-tree-panel.module.code.ts"
 import * as domainTree from "akasha/code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts"
 import * as editorLayout from "akasha/code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts"
+import * as findingTree from "akasha/code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts"
 import {
   commandServerHeard,
   disposeCommandServer,
@@ -40,6 +41,7 @@ const features = (
   { name: "page-tree", start: async () => pageTree.activate(context) },
   { name: "command-tree", start: async () => commandTree.activate(context) },
   { name: "service-tree", start: async () => serviceTree.activate(context) },
+  { name: "finding-tree", start: async () => findingTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },
