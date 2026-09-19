@@ -1,0 +1,7 @@
+{"definition":"the share of a working set's weight a warmup set takes"}
+{"id":"01a0b739-cbb2-769c-a934-9ec872efa0ea"}
+{"max":null}
+{"propertySlug":"warmup-load-share"}
+{"slug":"warmup-load-share"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

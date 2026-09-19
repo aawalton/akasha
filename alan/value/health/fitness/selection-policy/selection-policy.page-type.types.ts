@@ -4,6 +4,8 @@ import type { NoveltyCapPerSession } from "akasha/alan/value/health/fitness/sele
 import type { RecencySaturationDays } from "akasha/alan/value/health/fitness/selection-policy/properties/recency-saturation-days.number-property.types.ts"
 import type { RecencyWeight } from "akasha/alan/value/health/fitness/selection-policy/properties/recency-weight.number-property.types.ts"
 import type { RepsBeforeSlowing } from "akasha/alan/value/health/fitness/selection-policy/properties/reps-before-slowing.number-property.types.ts"
+import type { WarmupLoadShare } from "akasha/alan/value/health/fitness/selection-policy/properties/warmup-load-share.number-property.types.ts"
+import type { WarmupReps } from "akasha/alan/value/health/fitness/selection-policy/properties/warmup-reps.number-property.types.ts"
 import type { WeeklySetCeiling } from "akasha/alan/value/health/fitness/selection-policy/properties/weekly-set-ceiling.number-property.types.ts"
 import type { WeeklySetFloor } from "akasha/alan/value/health/fitness/selection-policy/properties/weekly-set-floor.number-property.types.ts"
 import type { WeightAesthetics } from "akasha/alan/value/health/fitness/selection-policy/properties/weight-aesthetics.number-property.types.ts"
@@ -27,4 +29,6 @@ export type SelectionPolicy = Page & {
   nearFailureRpeFloor: NearFailureRpeFloor
   boutsWithoutProgress: BoutsWithoutProgress
   repsBeforeSlowing: RepsBeforeSlowing
+  warmupLoadShare: WarmupLoadShare
+  warmupReps: WarmupReps
 }

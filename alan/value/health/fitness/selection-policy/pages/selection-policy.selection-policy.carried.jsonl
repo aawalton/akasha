@@ -7,6 +7,8 @@
 {"repsBeforeSlowing":20}
 {"slug":"selection-policy"}
 {"type":"page-type/selection-policy"}
+{"warmupLoadShare":0.5}
+{"warmupReps":10}
 {"weeklySetCeiling":12}
 {"weeklySetFloor":6}
 {"weightAesthetics":10}
