@@ -9,10 +9,6 @@ export const personaRoutingRun = {
   test: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here takes a routing rule away or turns one off.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A dry run answers its plan before any rule is written.",
     },
