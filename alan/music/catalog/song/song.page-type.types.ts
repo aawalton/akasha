@@ -14,7 +14,7 @@ import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 export type Song = CollectionExternal & {
   title: Title
   artist: Artist
-  songType: SongType
+  songType?: SongType
   performed: Performed
   lyricsSource?: LyricsSource
   written?: Written

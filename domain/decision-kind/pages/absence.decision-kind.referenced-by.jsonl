@@ -438,6 +438,8 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.ts","id":"01a06262-ff4b-7000-b97e-0a84ff1da2bd"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/song-matching/song-matching.module.ts","id":"01a0b706-3edc-7c6a-9152-707fe1316ff6"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.ts","id":"01a0a593-09e4-757b-a4e7-c505b16e801a"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.ts","id":"01a06281-4d9d-7003-a5cb-de0f475a7e60"}

@@ -28,7 +28,7 @@ export const musicCatalog = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "MusicBrainz defines a song and an artist.",
+      statement: "MusicBrainz names an artist and the songs MusicBrainz holds a record of.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,6 +37,10 @@ export const musicCatalog = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Spotify states the releases an artist put out.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No song waits on a record in MusicBrainz to be filed.",
     },
   ],
 } as const satisfies Domain

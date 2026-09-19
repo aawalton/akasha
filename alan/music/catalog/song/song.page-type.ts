@@ -21,7 +21,7 @@ export const song = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/artist", required: true, many: false },
-    { pageProperty: "select-property/song-type", required: true, many: false },
+    { pageProperty: "select-property/song-type", required: false, many: false },
     { pageProperty: "boolean-property/performed", required: true, many: false },
     { pageProperty: "text-property/lyrics-source", required: false, many: false },
     { pageProperty: "select-property/written", required: false, many: false },
@@ -35,6 +35,10 @@ export const song = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A song names one artist.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A song whose writer nothing names states no song type.",
     },
   ],
   types: "ts",
