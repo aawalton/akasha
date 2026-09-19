@@ -278,6 +278,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/weight/track-weight.command.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-command-stopped-at-its-ceiling-is-killed-before-its-cleanup-runs.finding.ts","id":"01a09602-34f6-7ed3-a7a7-e5745ba730c7"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-group-that-cannot-load-leaves-its-derived-file-stale-and-the-landing-commits.finding.ts","id":"01a092e2-de3f-7e48-ae06-0eec06340a0d"}
+{"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-spends-two-minutes-before-the-first-check-runs.finding.ts","id":"01a0ba58-e14b-75c1-85e3-fcab69f36524"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/commands-disagree-on-which-word-comes-first.finding.ts","id":"01a073c1-e073-7304-9fd2-d312e380e985"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it.finding.ts","id":"01a08210-09bb-72b1-ad4f-d5ac17ee8bb5"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-commands-pages-folder-is-written-by-nothing-and-refused-by-nothing.finding.ts","id":"01a09c5d-c802-7dda-b708-852e90e767f9"}
