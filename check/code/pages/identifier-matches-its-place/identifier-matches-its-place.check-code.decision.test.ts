@@ -220,12 +220,11 @@ test("a function drawing a JSX element is a component, so upper camel case is le
   expect(refusedIn(DRAWN_AT, body, PLACES)).toEqual([])
 })
 
-test("a component not in upper camel case is refused, naming it a component", () => {
-  const body = "export function readoutRing() {\n  return <p>one</p>\n}\n"
-  const said = refusedIn(DRAWN_AT, body, PLACES)
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("the component `readoutRing`")
-  expect(said[0]).toContain(`\`${UPPER_CAMEL}\``)
+test("a function drawing an element and opening lower is judged a function", () => {
+  const declared = "export function readoutRing() {\n  return <p>one</p>\n}\n"
+  const arrow = "export const readoutRing = () => <p>one</p>\n"
+  expect(refusedIn(DRAWN_AT, declared, PLACES)).toEqual([])
+  expect(refusedIn(DRAWN_AT, arrow, PLACES)).toEqual([])
 })
 
 test("a component a drawn file exports draws null", () => {
@@ -234,14 +233,9 @@ test("a component a drawn file exports draws null", () => {
   expect(refusedIn(DRAWN_AT, DRAWN_HELD, PLACES)).toHaveLength(1)
 })
 
-test("a component bound to a name is judged as one, arrow and declaration alike", () => {
-  const body = "export const readoutRing = () => <p>one</p>\n"
-  expect(refusedIn(DRAWN_AT, body, PLACES)[0]).toContain("the component `readoutRing`")
-})
-
-test("a self-closing element and a fragment each make a component", () => {
-  expect(refusedIn(DRAWN_AT, "const one = () => <br />\n", PLACES)).toHaveLength(1)
-  expect(refusedIn(DRAWN_AT, "const one = () => <>held</>\n", PLACES)).toHaveLength(1)
+test("a self-closing element and a fragment are each drawn", () => {
+  expect(refusedIn(DRAWN_AT, "const One = () => <br />\n", PLACES)).toEqual([])
+  expect(refusedIn(DRAWN_AT, "const One = () => <>held</>\n", PLACES)).toEqual([])
 })
 
 test("a name a JSX element opens with is a component, so upper camel case is let through", () => {

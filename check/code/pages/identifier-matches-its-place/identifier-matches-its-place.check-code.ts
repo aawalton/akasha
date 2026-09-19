@@ -52,7 +52,8 @@ export const identifierMatchesItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function is judged a component by the value the function answers with.",
+      statement:
+        "A function opening upper is judged a component by the value the function answers with.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -103,6 +104,15 @@ export const identifierMatchesItsPlace = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A tag opening lower makes no component.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function opening lower is judged a function however that function draws.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A component opened as a tag only under the name another file imports it as is judged a function.",
     },
     {
       decisionKind: "decision-kind/departure",

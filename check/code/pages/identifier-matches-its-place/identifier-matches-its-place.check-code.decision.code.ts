@@ -315,7 +315,10 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     declared: ts.Node
   ): undefined => {
     if (fixedAs(name.text)) return
-    if (drawing(held) || openedAsATag(scope, name.text)) {
+    if (openedAsATag(scope, name.text)) {
+      return take(name, "component", places.componentIdentifier)
+    }
+    if (drawing(held) && OPENING.test(name.text)) {
       return take(name, "component", places.componentIdentifier)
     }
     if (drawnIn && OPENING.test(name.text) && isExported(declared) && answersNull(held)) {
