@@ -9,6 +9,8 @@ import {
   parseFictionPage,
   royalRoadUrl,
 } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
+import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
+import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
@@ -39,7 +41,7 @@ const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const RESTATE = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
 const PROSE = "prose"
 const TXT = "txt"
-const WORDS = "unit/words"
+const WORDS = `${unit.slug}/${words.slug}` as const
 const STORY = "story"
 const IDENTITY = "externalIdentity"
 const REQUEST_DELAY_MS = 1500

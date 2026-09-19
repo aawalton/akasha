@@ -16,15 +16,19 @@ import type {
   Putting,
 } from "akasha/agent/model/test/pages/directive-kept/directive-kept.model-test.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { person } from "akasha/person/person.page-type.ts"
+
+const ALAN_AT = `${person.slug}/${alan.slug}` as const
 
 const SEATS: readonly Valued[] = [
-  { path: "one.seat.ts", value: { id: "a", person: "person/alan" } },
+  { path: "one.seat.ts", value: { id: "a", person: ALAN_AT } },
   { path: "two.seat.ts", value: { id: "b" } },
   { path: "three.seat.ts", value: { id: "c", person: "" } },
 ]
 
 test("a seat is found by the id the agent runs under", () => {
-  expect(personIn(SEATS, "a")).toBe("alan")
+  expect(personIn(SEATS, "a")).toBe(alan.slug)
 })
 
 test("a seat naming no person answers nothing", () => {

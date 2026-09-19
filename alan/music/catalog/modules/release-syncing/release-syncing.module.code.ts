@@ -3,6 +3,8 @@ import {
   idFrom,
   syncedFrom,
 } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
+import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import {
   type CatalogueNames,
   catalogueNamesFrom,
@@ -51,7 +53,7 @@ const RELEASE = "release"
 
 const FOLLOWING = "following"
 
-const MINUTES = "unit/minutes"
+const MINUTES = `${unit.slug}/${minutes.slug}` as const
 
 const NOT_STARTED = "not-started"
 

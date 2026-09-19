@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
+import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
+import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   artistIn,
@@ -19,6 +23,10 @@ import type {
   AlbumWithTracks,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+
+const MINUTES = `${unit.slug}/${minutes.slug}` as const
+
+const SYLVIA_AT = `${artist.slug}/${sylviaDaley.slug}` as const
 
 const TODAY = "2026-09-13"
 
@@ -127,8 +135,8 @@ test("a release arrives started by nobody and heard for none of its length", () 
   expect(values["status"]).toBe("not-started")
   expect(values["ownProgress"]).toBe(0)
   expect(values["ownLength"]).toBe(2)
-  expect(values["unit"]).toBe("unit/minutes")
-  expect(values["partOfCollections"]).toEqual(["artist/sylvia-daley"])
+  expect(values["unit"]).toBe(MINUTES)
+  expect(values["partOfCollections"]).toEqual([SYLVIA_AT])
   expect(values["publishedAt"]).toBe("2026-02-27")
 })
 
@@ -225,7 +233,7 @@ test("a release Spotify gives a new id is the release already filed under its ti
       was: {
         slug: "sylvia-daley-secure",
         title: "Secure",
-        partOfCollections: ["artist/sylvia-daley"],
+        partOfCollections: [SYLVIA_AT],
         ownProgress: 3,
         status: "completed",
         externalIdentity: [{ source: "spotify", externalId: "an-older-id" }],
@@ -260,8 +268,8 @@ test("an artist and a title together name one filed release", () => {
 })
 
 test("a release names its artist the same whether or not the page type is written", () => {
-  expect(artistIn({ partOfCollections: ["artist/sylvia-daley"] })).toBe("sylvia-daley")
-  expect(artistIn({ partOfCollections: ["sylvia-daley"] })).toBe("sylvia-daley")
+  expect(artistIn({ partOfCollections: [SYLVIA_AT] })).toBe(sylviaDaley.slug)
+  expect(artistIn({ partOfCollections: [sylviaDaley.slug] })).toBe(sylviaDaley.slug)
   expect(artistIn({})).toBeNull()
 })
 
