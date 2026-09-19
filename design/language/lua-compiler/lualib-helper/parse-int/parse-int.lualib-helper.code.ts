@@ -1,6 +1,6 @@
 import { __TS__Match } from "akasha/design/language/lua-compiler/lualib-helper/match/match.lualib-helper.code.ts"
 
-const parseIntBasePattern = "0123456789aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTvVwWxXyYzZ"
+const PARSE_INT_BASE_PATTERN = "0123456789aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTvVwWxXyYzZ"
 
 export function __TS__ParseInt(this: void, numberString: string, base?: number): number {
   if (base === undefined) {
@@ -20,8 +20,8 @@ export function __TS__ParseInt(this: void, numberString: string, base?: number):
 
   const allowedDigits =
     base <= 10
-      ? parseIntBasePattern.substring(0, base)
-      : parseIntBasePattern.substring(0, 10 + 2 * (base - 10))
+      ? PARSE_INT_BASE_PATTERN.substring(0, base)
+      : PARSE_INT_BASE_PATTERN.substring(0, 10 + 2 * (base - 10))
   const pattern = `^%s*(-?[${allowedDigits}]*)`
 
   const number = tonumber(__TS__Match(numberString, pattern)[0], base)

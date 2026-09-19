@@ -12,8 +12,8 @@ import {
 import {
   escapeString,
   isSimpleExpression,
-  operatorMap,
-  operatorPrecedence,
+  OPERATOR_MAP,
+  OPERATOR_PRECEDENCE,
   rightAssociativeOperators,
   type SourceChunk,
 } from "akasha/design/language/lua-compiler/modules/lua-printer-helpers/lua-printer-helpers.module.code.ts"
@@ -225,7 +225,7 @@ export function printUnaryExpression(
     printExpressionInParenthesesIfNeeded(
       state,
       expression.operand,
-      operatorPrecedence[expression.operator]
+      OPERATOR_PRECEDENCE[expression.operator]
     )
   )
 
@@ -238,7 +238,7 @@ export function printBinaryExpression(
 ): SourceNode {
   const chunks: SourceChunk[] = []
   const isRightAssociative = rightAssociativeOperators.has(expression.operator)
-  const precedence = operatorPrecedence[expression.operator]
+  const precedence = OPERATOR_PRECEDENCE[expression.operator]
   chunks.push(
     printExpressionInParenthesesIfNeeded(
       state,
@@ -278,7 +278,7 @@ function needsParenthesis(
   ) {
     return (
       minPrecedenceToOmit === undefined ||
-      operatorPrecedence[expression.operator] < minPrecedenceToOmit
+      OPERATOR_PRECEDENCE[expression.operator] < minPrecedenceToOmit
     )
   } else {
     return (
@@ -386,7 +386,7 @@ export function printConditionalExpression(
 }
 
 export function printOperator(state: LuaPrinterState, kind: luaCore.Operator): SourceNode {
-  return new SourceNode(null, null, state.relativeSourcePath, operatorMap[kind])
+  return new SourceNode(null, null, state.relativeSourcePath, OPERATOR_MAP[kind])
 }
 
 function isSimpleExpressionList(expressions: readonly luaExpressions.Expression[]): boolean {

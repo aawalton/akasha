@@ -1,6 +1,6 @@
 import { __TS__MathModf } from "akasha/design/language/lua-compiler/lualib-helper/math-modf/math-modf.lualib-helper.code.ts"
 
-const radixChars = "0123456789abcdefghijklmnopqrstuvwxyz"
+const RADIX_CHARS = "0123456789abcdefghijklmnopqrstuvwxyz"
 
 export function __TS__NumberToString(this: number, radix?: number): string {
   if (
@@ -27,7 +27,7 @@ export function __TS__NumberToString(this: number, radix?: number): string {
     result = string.format("%x", integer)
   } else {
     do {
-      result = radixChars[integer % radix] + result
+      result = RADIX_CHARS[integer % radix] + result
       integer = Math.floor(integer / radix)
     } while (integer !== 0)
   }
@@ -39,7 +39,7 @@ export function __TS__NumberToString(this: number, radix?: number): string {
       fraction *= radix
       delta *= radix
       const digit = Math.floor(fraction)
-      result += radixChars[digit]
+      result += RADIX_CHARS[digit]
       fraction -= digit
     } while (fraction >= delta)
   }

@@ -15,7 +15,7 @@ export function castArray<T>(value: T | readonly T[]): readonly T[] {
 export const intersperse = <T>(values: readonly T[], separator: T): readonly T[] =>
   values.flatMap((value, index) => (index === 0 ? [value] : [separator, value]))
 
-export const diagnosticSource = "@akasha/lua-compiler"
+export const DIAGNOSTIC_SOURCE = "@akasha/lua-compiler"
 
 type DiagnosticBody = Partial<ts.Diagnostic> & Pick<ts.Diagnostic, "messageText">
 
@@ -30,7 +30,7 @@ export const createDiagnosticFactoryWithCode = <TArgs extends readonly unknown[]
       length: undefined,
       category: ts.DiagnosticCategory.Error,
       code,
-      source: diagnosticSource,
+      source: DIAGNOSTIC_SOURCE,
       ...create(...args),
     }),
     { code }

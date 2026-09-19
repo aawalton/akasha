@@ -8,7 +8,7 @@ import type { EmitHost } from "akasha/design/language/lua-compiler/modules/trans
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
 
-const escapeStringRegExp = /[\b\f\n\r\t\v\\"\0]/g
+const ESCAPE_STRING_REG_EXP = /[\b\f\n\r\t\v\\"\0]/g
 const escapeStringMap = new Map<string, string>([
   ["\b", "\\b"],
   ["\f", "\\f"],
@@ -22,7 +22,7 @@ const escapeStringMap = new Map<string, string>([
 ])
 
 export const escapeString = (value: string) =>
-  `"${value.replace(escapeStringRegExp, (char) => requireGet(escapeStringMap, char))}"`
+  `"${value.replace(ESCAPE_STRING_REG_EXP, (char) => requireGet(escapeStringMap, char))}"`
 
 export const isValidLuaFunctionDeclarationName = (str: string, options: CompilerOptions) =>
   (shouldAllowUnicode(options) ? /^[a-zA-Z0-9_\u00FF-\uFFFD.]+$/ : /^[a-zA-Z0-9_.]+$/).test(str)
@@ -76,7 +76,7 @@ export interface PrintResult {
   sourceMapNode: SourceNode
 }
 
-export const operatorMap: Record<luaCore.Operator, string> = {
+export const OPERATOR_MAP: Record<luaCore.Operator, string> = {
   [luaCore.SyntaxKind.AdditionOperator]: "+",
   [luaCore.SyntaxKind.SubtractionOperator]: "-",
   [luaCore.SyntaxKind.MultiplicationOperator]: "*",
@@ -104,7 +104,7 @@ export const operatorMap: Record<luaCore.Operator, string> = {
   [luaCore.SyntaxKind.BitwiseNotOperator]: "~",
 }
 
-export const operatorPrecedence: Record<luaCore.Operator, number> = {
+export const OPERATOR_PRECEDENCE: Record<luaCore.Operator, number> = {
   [luaCore.SyntaxKind.OrOperator]: 1,
   [luaCore.SyntaxKind.AndOperator]: 2,
 

@@ -1,4 +1,4 @@
-const symbolMetatable = {
+const SYMBOL_METATABLE = {
   __tostring(this: symbol): string {
     return `Symbol(${this.description ?? ""})`
   },
@@ -13,5 +13,5 @@ function asSymbol(x: unknown): symbol {
 }
 
 export function __TS__Symbol(this: void, description?: string | number): symbol {
-  return asSymbol(widen(setmetatable({ description }, symbolMetatable)))
+  return asSymbol(widen(setmetatable({ description }, SYMBOL_METATABLE)))
 }
