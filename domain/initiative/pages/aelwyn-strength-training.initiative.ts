@@ -6,14 +6,7 @@ export const aelwynStrengthTraining = {
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "persona/aelwyn",
-  intentStack: [
-    {
-      statement:
-        "The day's focus narrows what the selector may offer, and a rest day offers nothing.",
-      workingMemory:
-        "The seven schedule-day pages state a focus of push, pull, legs or rest. Every strength-exercise states a muscleFocus of push, pull, legs, core or other. Nothing read either until now.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
     "The fitness coaching notes bind what Alan is programmed to do; this initiative settles what is tracked.",
