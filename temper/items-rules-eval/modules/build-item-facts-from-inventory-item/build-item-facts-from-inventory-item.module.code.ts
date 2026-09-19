@@ -59,7 +59,7 @@ export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): Ite
     isCrafted: item.crafted,
     estimatedValue: item.estimatedValue,
     merchantValue: item.merchantValue,
-    replacementCost: item.replacementCost,
+    replacementValue: item.replacementCost,
     known: item.known,
     isKnowledgeItem: isKnowledgeItem(item.itemType, item.specializedItemType),
     potionEffectMetricIds: resolvePotionRestoreMetricIds(

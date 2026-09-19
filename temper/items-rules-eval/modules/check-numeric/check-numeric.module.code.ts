@@ -55,7 +55,7 @@ export function checkNumeric(
 
   if (rule.value !== undefined) {
     const ruleValue = resolveThreshold(rule.value)
-    const cv = computeValue(facts.estimatedValue, facts.merchantValue, facts.replacementCost)
+    const cv = computeValue(facts.estimatedValue, facts.merchantValue, facts.replacementValue)
     const op = rule.valueOp ?? "<="
     if (cv === undefined) {
       if (!(ruleValue === 0 && op === "<=")) {
@@ -127,7 +127,7 @@ export function checkNumeric(
 
   if (rule.replacementValue !== undefined) {
     const ruleReplacementValue = resolveThreshold(rule.replacementValue)
-    const rc = facts.replacementCost ?? 0
+    const rc = facts.replacementValue ?? 0
     const op = rule.replacementValueOp ?? "<="
     if (!compareWithOp(op, rc, ruleReplacementValue)) {
       return {

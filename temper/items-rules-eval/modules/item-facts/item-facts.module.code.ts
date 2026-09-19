@@ -35,7 +35,7 @@ export interface ItemFacts {
 
   readonly estimatedValue?: number
   readonly merchantValue?: number
-  readonly replacementCost?: number
+  readonly replacementValue?: number
 
   readonly known?: boolean
 

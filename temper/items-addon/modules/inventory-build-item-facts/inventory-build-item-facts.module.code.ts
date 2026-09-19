@@ -125,7 +125,7 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
 
   const pricing = lookupTtcPricing(itemLink)
   const estimatedValue = pricing.estimatedValue
-  const replacementCost = pricing.estimatedValue
+  const replacementValue = pricing.estimatedValue
 
   const potionEffectMetricIds = resolvePotionRestoreMetricIds(itemId, parsePotionData(itemLink))
 
@@ -165,7 +165,7 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     isTransmuted,
     estimatedValue,
     merchantValue: slot.merchantValue,
-    replacementCost,
+    replacementValue,
     known,
     isKnowledgeItem: isKnowledge,
     potionEffectMetricIds,
