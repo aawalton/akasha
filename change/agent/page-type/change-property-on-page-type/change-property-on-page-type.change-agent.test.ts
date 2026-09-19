@@ -3,10 +3,7 @@ import {
   changePropertyOnPageType,
   runChange,
 } from "akasha/change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   type Caught,
