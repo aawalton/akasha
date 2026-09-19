@@ -4,10 +4,11 @@ import {
   type Sending,
   writeMessage,
 } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { IN_CLUSTER } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-const TO = "dalla"
+const TO = [...akashaSeatsThatExist().values()].sort()[0] ?? ""
 
 const FROM = "message-file-test"
 
