@@ -1,11 +1,11 @@
 import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
 
-export const worldTreeTrilogy = {
+export const treeTrilogy = {
   id: "01a0657d-ada7-7171-8db8-753e7cf13e71",
   type: "page-type/story-read",
-  slug: "world-tree-trilogy",
+  slug: "tree-trilogy",
   title: "World-Tree Trilogy",
-  world: "world/world-tree-trilogy",
+  world: "world/tree-trilogy",
   externalIdentity: [
     {
       source: "kindle",
