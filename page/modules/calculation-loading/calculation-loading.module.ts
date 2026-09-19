@@ -19,12 +19,21 @@ export const calculationLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A code file importing a value that is no computed-property-module does not load.",
+      statement:
+        "A code file importing a value that is neither a page nor such a module does not load.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
         "An import of a computed-property-module's code file is folded into the text before it runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import of a page is folded the same way, and the page's value is what folds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page is told from a code file by the shape of its name rather than the index.",
     },
     {
       decisionKind: "decision-kind/departure",

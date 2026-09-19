@@ -1,6 +1,7 @@
 import { dirname, join } from "node:path"
 import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
 import type { Held } from "akasha/page/modules/computing/page-computing.module.code.ts"
+import { pageShaped } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { declaredIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
@@ -54,12 +55,16 @@ function pathFor(at: string, from: string): string {
   return from.startsWith(ROOTED) ? from.slice(ROOTED.length) : join(dirname(at), from)
 }
 
+function folds(from: string, path: string): boolean {
+  return from.endsWith(SHARED) || pageShaped(path)
+}
+
 function foldedIn(body: string, at: string, textOf: TextOf): string {
   let alone = body.replace(TYPE_IMPORT, "")
   for (const found of body.matchAll(IMPORT)) {
     const from = found[2] ?? ""
-    if (!from.endsWith(SHARED)) continue
     const path = pathFor(at, from)
+    if (!folds(from, path)) continue
     const text = textOf(path)
     if (text === null) throw new Error(`\`${from}\` reaches no file at \`${path}\``)
     const taken = takenIn(found[1] ?? "")

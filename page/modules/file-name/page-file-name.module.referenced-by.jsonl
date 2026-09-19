@@ -204,6 +204,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/akasha-page-values/akasha-page-values.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/beside/page-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/beside/page-beside.module.test.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/calculation-loading/calculation-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/carried/page-carried.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/entries/page-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.code.ts"}

@@ -55,6 +55,29 @@ const RENAMING = [
 
 const SPAN: Held = { startTime: 0, endTime: 7200000 }
 
+const LIFTER = "lifter/pages/held-one/held-one.lifter.ts"
+
+const LIFTER_FROM = `akasha/${LIFTER}`
+
+const PAGES = new Map<string, string>([
+  [
+    LIFTER,
+    [
+      'import type { Lifter } from "akasha/lifter/lifter.page-type.types.ts"',
+      "",
+      'export const heldOne = { slug: "held-one", bodyweight: 177.9 } as const satisfies Lifter',
+    ].join("\n"),
+  ],
+])
+
+const REACHING = [
+  `import { heldOne } from "${LIFTER_FROM}"`,
+  "",
+  "export const work = (page) => (page.reps === undefined ? null : page.reps * heldOne.bodyweight)",
+].join("\n")
+
+const REPS: Held = { reps: 2 }
+
 describe("the calculation a code file exports", () => {
   test("a code file exporting `work` answers that function", () => {
     const loaded = workIn(CALCULATION, AT, () => null)
@@ -85,7 +108,7 @@ describe("the calculation a code file exports", () => {
     expect(loaded.failed).toContain("exports nothing")
   })
 
-  test("a code file importing a value that is no computed-property-module does not load", () => {
+  test("a code file importing a value that is neither a page nor such a module does not load", () => {
     const body = 'import { each } from "./neighbour.ts"\nexport const work = () => each\n'
     expect("failed" in workIn(body, AT, () => null)).toBe(true)
   })
@@ -140,5 +163,26 @@ describe("a calculation importing a computed-property-module", () => {
     const loaded = workIn(body, AT, (path) => SHARED.get(path) ?? null)
     if (!("failed" in loaded)) throw new Error("nothing was refused")
     expect(loaded.failed).toContain("hoursApart")
+  })
+})
+
+describe("a calculation importing a page", () => {
+  test("the value that page declares is folded in, so the calculation reads it", () => {
+    const loaded = workIn(REACHING, AT, (path) => PAGES.get(path) ?? null)
+    if ("failed" in loaded) throw new Error(loaded.failed)
+    expect(loaded.work(REPS, REACH)).toBe(355.8)
+  })
+
+  test("an import reaching no page refuses the load by the path it reached", () => {
+    const loaded = workIn(REACHING, AT, () => null)
+    if (!("failed" in loaded)) throw new Error("nothing was refused")
+    expect(loaded.failed).toContain(LIFTER)
+  })
+
+  test("a name the page does not declare refuses the load by that name", () => {
+    const body = `import { heldTwo } from "${LIFTER_FROM}"\nexport const work = () => heldTwo\n`
+    const loaded = workIn(body, AT, (path) => PAGES.get(path) ?? null)
+    if (!("failed" in loaded)) throw new Error("nothing was refused")
+    expect(loaded.failed).toContain("heldTwo")
   })
 })
