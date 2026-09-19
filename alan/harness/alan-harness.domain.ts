@@ -145,6 +145,11 @@ export const alanHarness = {
       statement:
         "The code editor panel named Services is a tree of services by the kind each one is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The code editor panel named Findings is a tree of findings by the domain each one names.",
+    },
   ],
   directives: [
     {
