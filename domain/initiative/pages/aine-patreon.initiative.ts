@@ -6,4 +6,35 @@ export const ainePatreon = {
   slug: "aine-patreon",
   domain: "domain/product",
   persona: "persona/aine",
+  intentStack: [
+    { statement: "Alan has a Patreon page people can back him on." },
+    {
+      statement:
+        "A patron is a page holding every point transaction and the balance those transactions reach.",
+    },
+    { statement: "Every feature request is a page naming the product that request is for." },
+    {
+      statement:
+        "A pledge Patreon reports lands the patron's page and the points that pledge earns.",
+    },
+    {
+      statement:
+        "Anyone reaches a public site holding every published feature request and its points.",
+      workingMemory:
+        "Which domain this site is served under, and what it is branded as, is unsettled and waits on Alan.",
+    },
+    {
+      statement: "Every product Alan has live has a view of the feature requests for that product.",
+    },
+    { statement: "Every feature Alan already means to build is a published feature request." },
+    { statement: "A patron commits points to a published feature request." },
+    {
+      statement:
+        "Anyone proposes a feature request, and Alan's review is what publishes that request.",
+    },
+    {
+      statement:
+        "A command completes a feature request, burning its points, or denies it, refunding them.",
+    },
+  ],
 } as const satisfies Initiative
