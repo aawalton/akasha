@@ -1,4 +1,8 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { cost as costGroup } from "akasha/alan/harness/readout/group/pages/cost/cost.readout-group.ts"
+import { surplus as surplusGroup } from "akasha/alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"
+import { upkeep as upkeepGroup } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
+import { readoutGroup } from "akasha/alan/harness/readout/group/readout-group.page-type.ts"
 import {
   colorIn,
   readingsDropped,
@@ -13,6 +17,8 @@ import {
   type Relaying,
   relayingTo,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
+import { surplusHours as surplusHoursScale } from "akasha/alan/harness/readout/scale/pages/surplus-hours.readout-scale.ts"
+import { readoutScale } from "akasha/alan/harness/readout/scale/readout-scale.page-type.ts"
 import { loader } from "akasha/product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.code.ts"
 import { action } from "akasha/product/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 
@@ -32,7 +38,7 @@ const COST_ROW = {
   label: "Cost",
   place: 1,
   wireKey: "cost",
-  groups: ["readout-group/cost"],
+  groups: [`${readoutGroup.slug}/${costGroup.slug}`],
 }
 
 const SURPLUS_ROW = {
@@ -40,9 +46,9 @@ const SURPLUS_ROW = {
   label: "Surplus",
   unit: "hours",
   place: 2,
-  scale: "readout-scale/surplus-hours",
+  scale: `${readoutScale.slug}/${surplusHoursScale.slug}`,
   wireKey: "surplus",
-  groups: ["readout-group/upkeep", "readout-group/surplus"],
+  groups: [`${readoutGroup.slug}/${upkeepGroup.slug}`, `${readoutGroup.slug}/${surplusGroup.slug}`],
 }
 
 const SCALE_ROW = {
