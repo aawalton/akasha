@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { removePageType } from "akasha/change/agent/file/remove-page-type/remove-page-type.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
 

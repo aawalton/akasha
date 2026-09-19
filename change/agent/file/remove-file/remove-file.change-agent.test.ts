@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { removeFile } from "akasha/change/agent/file/remove-file/remove-file.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 
 const ASKED = "the world was asked"
