@@ -184,3 +184,43 @@ test("a subfolder declared by the domain beside its page type takes the shape", 
   })
   expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
 })
+
+test("a subfolder named a plural a page type gathers its pages under is a part", () => {
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    extending: typing,
+    declared: () => DECLARED,
+    holds: holdsAt,
+    gathered: gatheringFrom({ characters: ["world-character"] }),
+    deep: ["characters/rulo/rulo.world-character.ts"],
+  })
+  expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
+})
+
+const HELD_BY_NAME = new Set<string>([
+  "modules",
+  "pages",
+  "properties",
+  "scripts",
+  "workstation-services",
+])
+
+test("the names held are parts where no page type gathers its pages under them", () => {
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    extending: typing,
+    declared: () => DECLARED,
+    holds: holdsAt,
+    held: HELD_BY_NAME,
+    deep: [
+      "modules/model-asking/model-asking.module.ts",
+      "pages/one.model-humming.ts",
+      "properties/held.text-property.ts",
+      "scripts/build-humming/build-humming.shell-script.ts",
+      "workstation-services/one/one.service-workstation.ts",
+    ],
+  })
+  expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
+})

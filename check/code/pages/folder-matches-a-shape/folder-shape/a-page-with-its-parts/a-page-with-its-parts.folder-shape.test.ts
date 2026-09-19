@@ -151,3 +151,32 @@ test("a file the page does state a property for is a part rather than a stray", 
   })
   expect(aPageWithItsParts(held(["held.module.ts", "held.module.code.ts"]))).toEqual([])
 })
+
+test("a subfolder named a plural a page type gathers its pages under is a part", () => {
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    naming: (at) => NAMING.get(at) ?? null,
+    gathered: gatheringFrom({ characters: ["world-character"] }),
+    deep: ["characters/rulo/rulo.world-character.ts"],
+  })
+  expect(aPageWithItsParts(made(["check-code.page-type.ts"]))).toEqual([])
+})
+
+const HELD_BY_NAME = new Set<string>(["modules", "pages", "properties", "sections"])
+
+test("the names held are parts where no page type gathers its pages under them", () => {
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    naming: (at) => NAMING.get(at) ?? null,
+    held: HELD_BY_NAME,
+    deep: [
+      "modules/m/m.module.ts",
+      "pages/one.check-code.ts",
+      "properties/two.text-property.ts",
+      "sections/one.book-section.ts",
+    ],
+  })
+  expect(aPageWithItsParts(made(["check-code.page-type.ts"]))).toEqual([])
+})

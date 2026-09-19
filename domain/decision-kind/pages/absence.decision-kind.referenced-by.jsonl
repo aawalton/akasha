@@ -689,6 +689,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/file-length/file-length.check-code.ts","id":"01a04bcb-c6e7-7e01-9b01-3cad38df56be"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.ts","id":"01a04e33-f281-7900-a29d-0b79e444ca98"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-claimed-folder/a-claimed-folder.folder-shape.ts","id":"01a095cd-e1f6-7ab8-8f0e-c2747098063c"}
+{"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts","id":"01a0626e-045c-71cf-8781-17811b8d9f9d"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.ts","id":"01a05f26-edf0-768f-823e-e5442db4f971"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/collection-parts-under-their-plural/collection-parts-under-their-plural.folder-shape.ts","id":"01a0a5c5-2740-7002-a26e-a1c0c1a39ac1"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts","id":"01a04e33-f280-701e-96a0-859a53ed8298"}

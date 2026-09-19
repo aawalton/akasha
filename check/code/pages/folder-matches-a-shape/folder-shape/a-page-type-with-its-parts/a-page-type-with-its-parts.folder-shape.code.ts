@@ -37,7 +37,9 @@ export function aPageTypeWithItsParts(standing: Standing): readonly string[] {
   const said: string[] = [...looseFilesIn(standing, page, parts), ...namedAsAsked(standing, page)]
   const declared = standing.declared(standing.folder)
   const stray = standing.subfolders.filter((at) => {
-    if (standing.held.has(basename(at))) return false
+    const named = basename(at)
+    if (standing.held.has(named)) return false
+    if (standing.gathered(named).length > 0) return false
     if ([...parts].some((one) => one.startsWith(`${at}/`))) return false
     const held = standing.holds(at)
     return !held.some((one) => declared.has(one))

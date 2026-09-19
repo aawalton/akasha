@@ -64,6 +64,15 @@ export const aPageWithItsParts = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A subfolder named a plural a page type gathers its pages under is a part of that page.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "What such a subfolder holds is judged where that subfolder is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A subfolder named anything else is no part of that page.",
     },
     {

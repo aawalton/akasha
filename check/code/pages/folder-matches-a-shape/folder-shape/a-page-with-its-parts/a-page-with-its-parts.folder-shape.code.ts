@@ -18,7 +18,10 @@ export function aPageWithItsParts(standing: Standing): readonly string[] {
   }
   const parts = new Set<string>(standing.parts(page))
   const said: string[] = [...looseFilesIn(standing, page, parts), ...namedAsAsked(standing, page)]
-  const stray = standing.subfolders.filter((at) => !standing.held.has(basename(at)))
+  const stray = standing.subfolders.filter((at) => {
+    const named = basename(at)
+    return !standing.held.has(named) && standing.gathered(named).length === 0
+  })
   if (stray.length > 0) {
     said.push(
       `${stray.length} subfolders are no part of \`${page.slug}\`: ${saidInside(standing.folder, stray)}`
