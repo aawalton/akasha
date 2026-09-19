@@ -6,7 +6,7 @@ export const halrac = {
   slug: "halrac",
   title: "Halrac",
   world: "world/the-wandering-inn",
-  firstChapter: 104,
-  lastChapter: 104,
+  firstChapter: 94,
+  lastChapter: 758,
   characterClaims: "jsonl",
 } as const satisfies WorldCharacter

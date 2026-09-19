@@ -8,6 +8,7 @@ export const jecaina = {
   world: "world/the-wandering-inn",
   maxLevel: 29,
   eventCount: 8,
-  firstChapter: 492,
-  lastChapter: 492,
+  firstChapter: 326,
+  lastChapter: 586,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

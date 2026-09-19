@@ -8,6 +8,7 @@ export const headscratcher = {
   world: "world/the-wandering-inn",
   maxLevel: 20,
   eventCount: 4,
-  firstChapter: 276,
-  lastChapter: 276,
+  firstChapter: 146,
+  lastChapter: 740,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -8,6 +8,7 @@ export const insill = {
   world: "world/the-wandering-inn",
   maxLevel: 28,
   eventCount: 2,
-  firstChapter: 622,
-  lastChapter: 622,
+  firstChapter: 185,
+  lastChapter: 364,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

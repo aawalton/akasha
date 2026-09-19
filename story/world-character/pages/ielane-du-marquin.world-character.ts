@@ -8,6 +8,7 @@ export const ielaneDuMarquin = {
   world: "world/the-wandering-inn",
   maxLevel: 44,
   eventCount: 2,
-  firstChapter: 774,
+  firstChapter: 708,
   lastChapter: 774,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

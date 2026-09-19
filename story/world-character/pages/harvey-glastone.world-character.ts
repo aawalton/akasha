@@ -10,4 +10,5 @@ export const harveyGlastone = {
   eventCount: 2,
   firstChapter: 807,
   lastChapter: 807,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

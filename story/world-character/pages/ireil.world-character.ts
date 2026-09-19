@@ -10,4 +10,5 @@ export const ireil = {
   eventCount: 7,
   firstChapter: 674,
   lastChapter: 674,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

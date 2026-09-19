@@ -9,4 +9,5 @@ export const horrorGirl = {
   eventCount: 3,
   firstChapter: 143,
   lastChapter: 143,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

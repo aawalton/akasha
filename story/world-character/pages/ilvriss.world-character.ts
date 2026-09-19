@@ -8,6 +8,7 @@ export const ilvriss = {
   world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 3,
-  firstChapter: 821,
-  lastChapter: 821,
+  firstChapter: 101,
+  lastChapter: 824,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

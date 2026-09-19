@@ -9,5 +9,6 @@ export const gothica = {
   maxLevel: 8,
   eventCount: 7,
   firstChapter: 532,
-  lastChapter: 532,
+  lastChapter: 747,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

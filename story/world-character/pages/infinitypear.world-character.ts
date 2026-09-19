@@ -9,5 +9,6 @@ export const infinitypear = {
   maxLevel: 11,
   eventCount: 11,
   firstChapter: 521,
-  lastChapter: 622,
+  lastChapter: 815,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

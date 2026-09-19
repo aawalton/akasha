@@ -8,6 +8,7 @@ export const inreza = {
   world: "world/the-wandering-inn",
   maxLevel: 61,
   eventCount: 1,
-  firstChapter: 669,
+  firstChapter: 543,
   lastChapter: 669,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

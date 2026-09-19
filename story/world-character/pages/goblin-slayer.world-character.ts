@@ -10,4 +10,5 @@ export const goblinSlayer = {
   eventCount: 5,
   firstChapter: 378,
   lastChapter: 378,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

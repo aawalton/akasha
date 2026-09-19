@@ -8,6 +8,7 @@ export const jasi = {
   world: "world/the-wandering-inn",
   maxLevel: 25,
   eventCount: 4,
-  firstChapter: 382,
-  lastChapter: 382,
+  firstChapter: 141,
+  lastChapter: 458,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

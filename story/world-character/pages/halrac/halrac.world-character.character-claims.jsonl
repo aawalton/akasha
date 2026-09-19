@@ -1,6 +1,181 @@
-{"id":"01a0b706-d2c5-7f2e-b68a-66382da417bd","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"class","claimValue":"Scout","epistemic":"asserted"}
-{"id":"01a0b706-d2c5-7a77-bd28-e52d3be019b2","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Member of Griffin Hunt","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7ff0-b67f-28d651f9cc1a","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"claimed","claimedBy":"Drake messenger","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-72e3-bdd6-aa06dbd3bd36","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Can sense when being watched","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-739c-8df6-c6f308794280","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Archery","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-749c-9b9a-0c01f6efa0af","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Rapid accurate shooting","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70a-cd5d-719a-85e5-2f0dd496eedf","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b70a-cd5d-7512-b361-35fd632b372f","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"trait","claimValue":"[Marksman]","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b70a-cd5d-7b61-a8f5-ec6e7e822e36","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"trait","claimValue":"Gold-rank adventurer, lead of Griffon Hunt","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b70a-cd5d-7f74-ad24-0355ab03ceef","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"trait","claimValue":"hates undead, prefers working in a team","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b70a-cd5d-7a53-9a78-9eb1b25993e1","chapterSlug":"the-wandering-inn-0094-2-24-t","claimField":"trait","claimValue":"irritable","epistemic":"asserted","sourceChapter":"2.24 T"}
+{"id":"01a0b70a-cd5d-71ba-b609-ec4ed6cf12a4","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"identity","claimValue":"human","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-794c-85b9-0bc0ac4e7766","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-79f5-b059-229aae99fd5c","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"skilled archer","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-7d63-8542-172e41389888","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"uses non-lethal blunt arrows","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-7b17-9fe1-82f68d791321","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"carries magical special arrows","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-737f-9bca-1ef15123657c","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"trait","claimValue":"stoic and focused","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-7133-b055-e4e55eaffe68","chapterSlug":"the-wandering-inn-0096-2-26","claimField":"skill","claimValue":"Pinpoint Shot","epistemic":"asserted","sourceChapter":"2.26"}
+{"id":"01a0b70a-cd5d-7acb-8eeb-500cecd91c99","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"identity","claimValue":"veteran Gold-rank adventurer","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.31"}
+{"id":"01a0b70a-cd5d-72ff-8ca3-ab946d4ec614","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70a-cd5d-7b3a-980c-75ef0bd16994","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"trait","claimValue":"grumpy and dour","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70a-cd5d-71e9-8545-b478fc88c435","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"trait","claimValue":"nostalgic for his past","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70a-cd5d-72a1-a57b-78bf56f24cf5","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"class","claimValue":"Scout","epistemic":"asserted"}
+{"id":"01a0b70a-cd5d-7be1-8461-16891d0a1bdc","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Member of Griffin Hunt","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70a-cd5d-7c1a-96c9-44ca416584a1","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"claimed","claimedBy":"Drake messenger","sourceChapter":"2.32 H"}
+{"id":"01a0b70a-cd5d-7847-8435-74b185df80a2","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Can sense when being watched","epistemic":"claimed","claimedBy":"Ceria","sourceChapter":"2.32 H"}
+{"id":"01a0b70a-cd5d-7e45-95ca-45439cd1d67c","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Archery","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70a-cd5d-798a-b493-bad56435b2a6","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Rapid accurate shooting","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70a-cd5d-7e26-86d5-0ab4efc7cdf1","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Human","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-7852-a3f1-c081317c170f","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-7b6a-8f32-71a71c91c743","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Member of Griffon Hunt","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-789c-b311-f9c6a78944d1","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Veteran fighter","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-73ec-8a03-18af3a678ffd","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Silent and reserved","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-7eb7-9f35-d73b30833b87","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Regular customer at Erin's inn","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-7d17-a964-94109e887e81","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Armed with a dagger","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-7834-b228-189596a3ce06","chapterSlug":"the-wandering-inn-0114-2-39","claimField":"trait","claimValue":"Stands with Erin against Relc","epistemic":"asserted","sourceChapter":"2.39"}
+{"id":"01a0b70a-cd5d-7795-9304-53ff1fecf655","chapterSlug":"the-wandering-inn-0115-2-40","claimField":"class","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"2.40"}
+{"id":"01a0b70a-cd5d-7699-bbe8-741c08346470","chapterSlug":"the-wandering-inn-0115-2-40","claimField":"trait","claimValue":"grizzled","epistemic":"asserted","sourceChapter":"2.40"}
+{"id":"01a0b70a-cd5d-76c9-a151-90f0d1e857fc","chapterSlug":"the-wandering-inn-0115-2-40","claimField":"trait","claimValue":"knowledgeable about magical potions","epistemic":"asserted","sourceChapter":"2.40"}
+{"id":"01a0b70a-cd5d-7389-b48d-874b9b01b4a6","chapterSlug":"the-wandering-inn-0116-2-41","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"2.41"}
+{"id":"01a0b70a-cd5d-7ea1-8462-a79172c2c842","chapterSlug":"the-wandering-inn-0116-2-41","claimField":"trait","claimValue":"left the inn staggering after the faerie flower drink the night before","epistemic":"asserted","sourceChapter":"2.41"}
+{"id":"01a0b70a-cd5d-7b85-b5c9-2b791debdf5b","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70a-cd5d-73d0-9395-fdda1fab1efb","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70a-cd5d-7de4-8f2c-8ed3186c8d52","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"trait","claimValue":"Grumpy and irritable","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70a-cd5d-7db3-9264-c7ae271e2240","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"trait","claimValue":"Keen-eyed tracker","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70a-cd5d-7020-9b25-0d2e81bbcf53","chapterSlug":"the-wandering-inn-0123-2-48","claimField":"identity","claimValue":"Captain of Griffin Hunt","epistemic":"asserted","sourceChapter":"2.48"}
+{"id":"01a0b70a-cd5d-7d34-9840-eb95582694a7","chapterSlug":"the-wandering-inn-0123-2-48","claimField":"class","claimValue":"[Scout]","epistemic":"asserted","sourceChapter":"2.48"}
+{"id":"01a0b70a-cd5d-70b6-93b8-853ed0f1f4ae","chapterSlug":"the-wandering-inn-0123-2-48","claimField":"trait","claimValue":"Experienced adventurer","epistemic":"asserted","sourceChapter":"2.48"}
+{"id":"01a0b70a-cd5d-73d2-b7d8-ad28c0212908","chapterSlug":"the-wandering-inn-0123-2-48","claimField":"trait","claimValue":"Cautious and strategic","epistemic":"asserted","sourceChapter":"2.48"}
+{"id":"01a0b70a-cd5d-7799-8bd9-b7827f75d2df","chapterSlug":"the-wandering-inn-0123-2-48","claimField":"trait","claimValue":"Uses magical arrows","epistemic":"asserted","sourceChapter":"2.48"}
+{"id":"01a0b70a-cd5d-7197-80fc-ea11a49ac30b","chapterSlug":"the-wandering-inn-0123-2-48","claimField":"trait","claimValue":"Distrustful of Antinium","epistemic":"asserted","sourceChapter":"2.48"}
+{"id":"01a0b70a-cd5d-7850-a947-67a136689e9c","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"3.05 L"}
+{"id":"01a0b70a-cd5d-71c6-9aef-1bb109439c59","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"wears a dark cloak","epistemic":"asserted","sourceChapter":"3.05 L"}
+{"id":"01a0b70a-cd5d-7c0e-9ac6-26a5461a06b5","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"carries a dagger","epistemic":"asserted","sourceChapter":"3.05 L"}
+{"id":"01a0b70a-cd5d-7ba5-86ff-2d564fe8524e","chapterSlug":"the-wandering-inn-0166-3-33","claimField":"trait","claimValue":"Human adventurer, Griffon Hunt leader","epistemic":"asserted","sourceChapter":"3.33"}
+{"id":"01a0b70a-cd5d-7733-936a-ab4314444915","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70a-cd5d-7bee-927c-5e588e5746c2","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Leader of Griffon Hunt","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70a-cd5d-7572-b70c-8d3bd0a502df","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Concerned about magical dungeon with rotating traps","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70a-cd5d-7517-9b0c-75336217c99b","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Has seen kids killed in dungeon","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70a-cd5d-737e-b692-0a7094e394be","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"skill","claimValue":"Dungeon delving","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70a-cd5d-7820-acc4-4e7e7ef8470b","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"skill","claimValue":"Trap detection and disarming","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70a-cd5d-785e-9f38-6baf7f23c75e","chapterSlug":"the-wandering-inn-0174-3-41","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"3.41"}
+{"id":"01a0b70a-cd5d-795a-8228-0173a853d678","chapterSlug":"the-wandering-inn-0174-3-41","claimField":"trait","claimValue":"Usually grumpy and distant","epistemic":"asserted","sourceChapter":"3.41"}
+{"id":"01a0b70a-cd5d-7f93-a9a3-632eb63f7d40","chapterSlug":"the-wandering-inn-0174-3-41","claimField":"trait","claimValue":"Smiles privately when he thinks no one is watching","epistemic":"asserted","sourceChapter":"3.41"}
+{"id":"01a0b70a-cd5d-7a27-a328-45a560ee49a9","chapterSlug":"the-wandering-inn-0174-3-41","claimField":"trait","claimValue":"Remembers warm milk and bread from childhood","epistemic":"asserted","sourceChapter":"3.41"}
+{"id":"01a0b70a-cd5d-7640-a018-83dbcc99349a","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"level","claimValue":"30","epistemic":"asserted"}
+{"id":"01a0b70a-cd5d-7445-95b4-1ea8f46aad99","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"leader of Griffon Hunt","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70a-cd5d-7092-8d69-0ae43ce24931","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"has scar on arm","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70a-cd5d-7a08-846b-2a1381f452b7","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"keen ears","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70a-cd5d-7ec6-aa6d-040d5825844f","chapterSlug":"the-wandering-inn-0200-4-18","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"4.18"}
+{"id":"01a0b70a-cd5d-752f-8e0f-e930811fa9e7","chapterSlug":"the-wandering-inn-0200-4-18","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"4.18"}
+{"id":"01a0b70a-cd5d-73c5-bc5c-812f4ea4466e","chapterSlug":"the-wandering-inn-0200-4-18","claimField":"trait","claimValue":"Uses reflex bow made of spriggan wood","epistemic":"asserted","sourceChapter":"4.18"}
+{"id":"01a0b70a-cd5d-7139-b855-0048ebc59780","chapterSlug":"the-wandering-inn-0200-4-18","claimField":"trait","claimValue":"Agrees to teach Bird archery","epistemic":"asserted","sourceChapter":"4.18"}
+{"id":"01a0b70a-cd5d-7b80-b612-096b6a208a5e","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"class","claimValue":"[Scout]","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-7d46-ac7f-9fc8223aabcb","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-7825-8aa3-a4a4870b1a42","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"trait","claimValue":"member of Griffon Hunt","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-7497-ba15-ff680d2099d7","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"trait","claimValue":"observant and patient","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-74a8-abc7-4f9e0dca3698","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"trait","claimValue":"dislikes his nickname 'Halrac the Grim'","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-782f-9783-3be0db38fb37","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"trait","claimValue":"has soft spot for Erin","epistemic":"claimed","claimedBy":"Revi","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-7f68-8ea3-d82cd3d39fe2","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"skill","claimValue":"[Dangersense]","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-71c8-b80d-ffe50ecd26c9","chapterSlug":"the-wandering-inn-0201-4-19","claimField":"skill","claimValue":"expert marksman","epistemic":"asserted","sourceChapter":"4.19"}
+{"id":"01a0b70a-cd5d-7094-a200-9391a50b5aa4","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-721b-b40e-e33339d9a2a2","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7bd3-8130-d32555560596","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Member of Griffon Hunt","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7481-89e9-7ac50da265fd","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Has superior vision to owls in pitch darkness","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7745-8f0f-330c82f4af9b","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Expert tracker and trap finder","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-713d-aab9-08ae6ec36259","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Recently lost team leader Ulrien to Regrika Blackpaw","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7d47-8303-d32e53106615","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Grieving and withdrawn, speaks rarely","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-746c-a1f4-ee924854dff1","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"trait","claimValue":"Known as 'Halrac the Grim'","epistemic":"claimed","claimedBy":"Bronze-rank adventurers","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7232-8ce9-468fccaa840d","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"skill","claimValue":"Dangersense","epistemic":"claimed","claimedBy":"narration","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7726-85b5-60a27096559e","chapterSlug":"the-wandering-inn-0245-5-05","claimField":"skill","claimValue":"Piercing Shot","epistemic":"asserted","sourceChapter":"5.05"}
+{"id":"01a0b70a-cd5d-7035-bcdf-3c9b7903e345","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"identity","claimValue":"Halrac the Grim","epistemic":"claimed","claimedBy":"crowd","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-79cd-b964-43be9959ce1e","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-7098-9efd-f0038ece45df","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"skilled archer","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-770a-9385-6f39e0373900","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"can fire arrows with explosive effects","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-75f4-9055-8a325178aae5","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"has grim personality","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-75c6-b2c5-9c9366d858bd","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"part of Griffon Hunt","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-7c2b-a718-926885fd3795","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"popular with crowds despite sour demeanor","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70a-cd5d-7a2f-9632-5589a2884f89","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-77d5-9080-ffc775d2c2f3","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Human","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-7c44-a431-c6344a25f351","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Unfriendly","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-7da2-8352-672c322400f6","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-703d-b715-832e55d2bfe4","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Leader of Griffon Hunt","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-71a5-89b2-31a541236a0f","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-7409-9b3e-c88b020d301d","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Piercing Shot","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-70e2-bc41-b81a1dd5d596","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Dangersense","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-7b2c-a7ac-43680c32dbca","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Trap detection","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-7990-a722-6cefc251cab1","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Superior vision","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70a-cd5d-7bb1-bed2-1e7af645ac68","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b70a-cd5d-7d09-92ae-4e0d7d79f4e8","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"trait","claimValue":"Strategic leadership under pressure","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b70a-cd5d-71d0-8d45-1dff34468224","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"trait","claimValue":"Expert archer and tactician","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b70a-cd5d-785c-ba2f-52c590afe7d0","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b70a-cd5d-795e-9ed8-ea4cb16804e9","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"trait","claimValue":"Scout class","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b70a-cd5d-73bf-ac50-40c314334c6d","chapterSlug":"the-wandering-inn-0278-5-36","claimField":"trait","claimValue":"leader of Griffon Hunt","epistemic":"asserted","sourceChapter":"5.36"}
+{"id":"01a0b70a-cd5d-7c92-a8b2-3f6f908fde4e","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70a-cd5d-73fb-b0f9-9946fb6f5670","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70a-cd5d-7f69-a5b3-ed2de58dbf12","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Exceptional archer","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70a-cd5d-7f91-9dd8-56e0acf25b43","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Distrustful of Goblins","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70a-cd5d-7cad-b361-887a56810372","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"skill","claimValue":"[Arrow Grab]","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70a-cd5d-7f53-a022-521cb825e163","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"skill","claimValue":"[Piercing Shot]","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70a-cd5d-7f9f-af9e-f713d5a7263b","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7263-9b61-609e195d4e37","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"known as Halrac the Grim","epistemic":"claimed","claimedBy":"Bevussa","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7ff7-871c-25b3baaf7bcf","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"can continue fighting despite exhaustion","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7b8f-86f9-3fa1482f636c","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"refuses to retreat until forced by tactical reality","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7fd6-9f28-aaf6d761068e","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"carried poisoned arrows using tactics from Griffin campaign","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7d9b-9b53-ef3a830eb0ae","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"skill","claimValue":"archery","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7a3a-860d-4f3d49b2b699","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"skill","claimValue":"poison arrow crafting","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7447-9731-462cb48a7491","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"skill","claimValue":"tracking and detection","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7995-b7ff-622c3d8df9f9","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"skill","claimValue":"tactical command","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70a-cd5d-7794-92fb-22b8b81a4931","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"class","claimValue":"Soldier","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b70a-cd5d-7b40-a2ad-dfa428965718","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Gold-rank adventurer captain","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b70a-cd5d-7483-adee-5bc78b664a98","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Cold and decisive leader","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b70a-cd5d-7e44-be36-6adbd12f9706","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"trait","claimValue":"Former [Soldier]","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b70a-cd5d-7c19-a0b0-5d47c4a83f6d","chapterSlug":"the-wandering-inn-0285-5-43","claimField":"skill","claimValue":"Bow mastery","epistemic":"asserted","sourceChapter":"5.43"}
+{"id":"01a0b70a-cd5d-73b8-b233-e9a42d151894","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"class","claimValue":"Veteran Scout","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b70a-cd5d-75b8-9d67-5b3f3a722804","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"trait","claimValue":"Excellent baseball player","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b70a-cd5d-76b3-afe3-98736f80e83f","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"trait","claimValue":"Has keen observational eyes","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b70a-cd5d-78df-b5a7-d2ed26110f39","chapterSlug":"the-wandering-inn-0289-5-46","claimField":"trait","claimValue":"Serves as effective umpire","epistemic":"asserted","sourceChapter":"5.46"}
+{"id":"01a0b70a-cd5d-7307-b70a-d7fd344121df","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70a-cd5d-702a-a288-0cf4c0e1f61e","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Veteran Gold-rank [Scout]","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70a-cd5d-7a53-a5b9-3d9a7289b524","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Leader of Griffon Hunt","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70a-cd5d-7765-b91b-54514f643cb7","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Wants the magical bow from the spoils","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70a-cd5d-7221-86a7-4b2b4733fa50","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Decides team should leave the dungeon after achieving wealth","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70a-cd5d-7edb-8d06-f7d4c9b40d18","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"class","claimValue":"Scout","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-7caf-929d-39344eda8f57","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"leader of Griffon Hunt","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-741d-b8b3-88c334101a7d","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"arrow expert","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-7138-bd54-3daded43097e","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"uses steel arrows","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-7008-a404-c14ffb90dc71","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"from village near Riverfarm/Windrest","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-7bba-8af7-2359d18c8dfa","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"skill","claimValue":"archery","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-7aa7-a7d5-5d8b3662f82e","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"skill","claimValue":"hunting","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70a-cd5d-76bf-9681-2ecaf6d4c6c3","chapterSlug":"the-wandering-inn-0413-7-15-r","claimField":"class","claimValue":"Veteran Scout","epistemic":"asserted","sourceChapter":"7.15"}
+{"id":"01a0b70a-cd5d-7ff8-99ed-e734da746118","chapterSlug":"the-wandering-inn-0413-7-15-r","claimField":"trait","claimValue":"Grim demeanor","epistemic":"asserted","sourceChapter":"7.15"}
+{"id":"01a0b70a-cd5d-7a70-b3c2-3531107af92b","chapterSlug":"the-wandering-inn-0413-7-15-r","claimField":"trait","claimValue":"Reluctant leader","epistemic":"asserted","sourceChapter":"7.15"}
+{"id":"01a0b70a-cd5d-7db3-9ec8-19b292f73f30","chapterSlug":"the-wandering-inn-0413-7-15-r","claimField":"trait","claimValue":"Scowls habitually","epistemic":"asserted","sourceChapter":"7.15"}
+{"id":"01a0b70a-cd5d-7c48-a752-e73cc3b812c8","chapterSlug":"the-wandering-inn-0413-7-15-r","claimField":"skill","claimValue":"Piercing Shot","epistemic":"asserted","sourceChapter":"7.15"}
+{"id":"01a0b70a-cd5d-7809-9aac-9343a26cc6ea","chapterSlug":"the-wandering-inn-0413-7-15-r","claimField":"skill","claimValue":"Double Shot","epistemic":"asserted","sourceChapter":"7.15"}
+{"id":"01a0b70a-cd5d-7226-b5bf-556fe4208c72","chapterSlug":"the-wandering-inn-0463-7-55-e","claimField":"trait","claimValue":"captain of Griffon Hunt","epistemic":"asserted","sourceChapter":"7.55 E"}
+{"id":"01a0b70a-cd5d-713b-9cf0-83c3efa181ce","chapterSlug":"the-wandering-inn-0463-7-55-e","claimField":"trait","claimValue":"Gold-ranked adventurer","epistemic":"asserted","sourceChapter":"7.55 E"}
+{"id":"01a0b70a-cd5d-712c-a6d6-2086f66e3538","chapterSlug":"the-wandering-inn-0463-7-55-e","claimField":"trait","claimValue":"formerly knew Pebblesnatch at the inn","epistemic":"asserted","sourceChapter":"7.55 E"}
+{"id":"01a0b70a-cd5d-7573-a99c-aad6396d022d","chapterSlug":"the-wandering-inn-0463-7-55-e","claimField":"skill","claimValue":"Archery","epistemic":"asserted","sourceChapter":"7.55 E"}
+{"id":"01a0b70a-cd5d-7768-bd8e-7dc7e793ec33","chapterSlug":"the-wandering-inn-0476-solstice-pt-3","claimField":"trait","claimValue":"attendee at the Solstice gathering with some connection to the four fae visitors","epistemic":"asserted","sourceChapter":"Solstice (Pt. 3)"}
+{"id":"01a0b70a-cd5d-7688-9beb-b88fe4ba9f2d","chapterSlug":"the-wandering-inn-0504-8-17-h","claimField":"trait","claimValue":"Marksman","epistemic":"asserted","sourceChapter":"8.17 H"}
+{"id":"01a0b70a-cd5d-7ac0-b663-d38998c0f8f4","chapterSlug":"the-wandering-inn-0504-8-17-h","claimField":"trait","claimValue":"Veteran Scout","epistemic":"asserted","sourceChapter":"8.17 H"}
+{"id":"01a0b70a-cd5d-7dce-b85a-e08c805b8088","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"class","claimValue":"Veteran Scout","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70a-cd5d-7f25-b4bd-a57085e16668","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"carries invisible bow","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70a-cd5d-7e85-aab4-7284892b8c29","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70a-cd5d-7bf9-9e5c-8eef2bb0a304","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"skill","claimValue":"Seeking Missile","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70a-cd5d-71c2-bbb9-df1a351e7888","chapterSlug":"the-wandering-inn-0602-9-10-w","claimField":"class","claimValue":"Marksman","epistemic":"asserted","sourceChapter":"9.10 W"}
+{"id":"01a0b70a-cd5d-71e9-ac41-2de73c0c4838","chapterSlug":"the-wandering-inn-0602-9-10-w","claimField":"trait","claimValue":"Thought Erin was dead","epistemic":"asserted","sourceChapter":"9.10 W"}
+{"id":"01a0b70a-cd5d-7d8d-a2e4-a7e9e5fb48c1","chapterSlug":"the-wandering-inn-0602-9-10-w","claimField":"trait","claimValue":"Emotionally moved by seeing Erin alive","epistemic":"asserted","sourceChapter":"9.10 W"}
+{"id":"01a0b70a-cd5d-718d-a26e-4fcb94204767","chapterSlug":"the-wandering-inn-0602-9-10-w","claimField":"skill","claimValue":"Bowman of Loss","epistemic":"asserted","sourceChapter":"9.10 W"}
+{"id":"01a0b70a-cd5d-7da5-83df-3169a99b4469","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70a-cd5d-7945-a4f5-b8843738a32f","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Captain of Griffon Hunt","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70a-cd5d-79d8-abcb-0ac5f9f2b98e","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Works for Emperor Laken Godart","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70a-cd5d-7685-b1ec-4ecddaafc8aa","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Owns Boots of Balance from Godart","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70a-cd5d-7f1a-a1fc-cd7adbf38829","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Archer]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70a-cd5d-751a-94f1-bd3f33471053","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Bowman of Loss]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70a-cd5d-7a7a-9b66-08bd4b5e37d4","chapterSlug":"the-wandering-inn-0681-9-67-pt-2","claimField":"trait","claimValue":"Archer and ghost in Kasignel","epistemic":"asserted","sourceChapter":"9.67 (Pt. 2)"}
+{"id":"01a0b70a-cd5d-72bc-b081-edb04a13312b","chapterSlug":"the-wandering-inn-0682-9-68","claimField":"class","claimValue":"Knight-Archer of Lost Flames","epistemic":"asserted","sourceChapter":"9.68"}
+{"id":"01a0b70a-cd5d-739a-94db-60c4cb5ec4e9","chapterSlug":"the-wandering-inn-0682-9-68","claimField":"level","claimValue":"36","epistemic":"asserted","sourceChapter":"9.68"}
+{"id":"01a0b70a-cd5d-75ac-a875-57b804b09eba","chapterSlug":"the-wandering-inn-0682-9-68","claimField":"trait","claimValue":"Killed during the Solstice fighting","epistemic":"asserted","sourceChapter":"9.68"}
+{"id":"01a0b70a-cd5d-71f6-836a-03f9305593e0","chapterSlug":"the-wandering-inn-0682-9-68","claimField":"trait","claimValue":"Arrow used by Iert taken as trophy","epistemic":"asserted","sourceChapter":"9.68"}
+{"id":"01a0b70a-cd5d-7fef-b89b-dc606d4a2a43","chapterSlug":"the-wandering-inn-0758-10-35-pt-3","claimField":"class","claimValue":"Bowman","epistemic":"asserted"}
+{"id":"01a0b70a-cd5d-77f4-b97a-46f69a09dd56","chapterSlug":"the-wandering-inn-0758-10-35-pt-3","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"10.35 (Pt. 3)"}
+{"id":"01a0b70a-cd5d-7de6-b9a7-286c244537c8","chapterSlug":"the-wandering-inn-0758-10-35-pt-3","claimField":"trait","claimValue":"Expert swordsman and archer","epistemic":"asserted","sourceChapter":"10.35 (Pt. 3)"}
+{"id":"01a0b70a-cd5d-76a1-b02f-8e27cd614036","chapterSlug":"the-wandering-inn-0758-10-35-pt-3","claimField":"trait","claimValue":"Fights the Maiden with dagger and Faerie-flower blades","epistemic":"asserted","sourceChapter":"10.35 (Pt. 3)"}
+{"id":"01a0b70a-cd5d-76bc-8f64-ff3ac55017e0","chapterSlug":"the-wandering-inn-0758-10-35-pt-3","claimField":"trait","claimValue":"Dies impaled on the Maiden's scythe after mortally wounding her","epistemic":"asserted","sourceChapter":"10.35 (Pt. 3)"}
