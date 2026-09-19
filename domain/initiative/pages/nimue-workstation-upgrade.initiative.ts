@@ -6,10 +6,7 @@ export const nimueWorkstationUpgrade = {
   slug: "nimue-workstation-upgrade",
   domain: "domain/infrastructure",
   persona: "persona/nimue",
-  intentStack: [
-    { statement: "The archive drive is empty." },
-    { statement: "Memory limits are appropriate for the new total memory amount." },
-  ],
+  intentStack: [{ statement: "Memory limits are appropriate for the new total memory amount." }],
   constraints: [
     "Agents run on the filesystem holding the live data, so the memory they take cannot be moved to the cluster.",
     "Four dual-rank modules are the hardest arrangement for the memory controller to train, so the rated speed may not hold.",
