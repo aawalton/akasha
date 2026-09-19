@@ -117,7 +117,7 @@ function changeTurning(at: string, body: string): Change {
   }
 }
 
-const HANDED: Reaching = (_change, _at, body) => ({ writing: () => body ?? OFF_DISK })
+const handed: Reaching = (_change, _at, body) => ({ writing: () => body ?? OFF_DISK })
 
 describe("the body a group's code is loaded from", () => {
   test("a group is run off the body the change leaves", () => {
@@ -135,7 +135,7 @@ describe("a change to a group's own code", () => {
   const change = changeTurning(ONE, TURNED)
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  const written = writtenOver(change, cast.shadow, cast.reading, HANDED)
+  const written = writtenOver(change, cast.shadow, cast.reading, handed)
 
   test("the file that group writes is composed from the body the change leaves", () => {
     expect(written.edits.filter((one) => bodyOf(one) === TURNED)).toHaveLength(1)

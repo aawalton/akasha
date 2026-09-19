@@ -29,7 +29,7 @@ const A_PAGE_TYPE_AT = `akasha/${listedAt(ROOT, "page-type", "world")[0]?.path ?
 
 const A_TERM = "the estate stands here"
 
-const KNOWING = (): Known => ({ types: new Set<string>() })
+const knowing = (): Known => ({ types: new Set<string>() })
 
 function changingTo(said: string): Changing {
   const body = new TextEncoder().encode(said)
@@ -221,10 +221,10 @@ test("a page's own file holds no property, so nothing there holds bytes", () => 
 })
 
 test("a term written into a file whose property holds bytes warrants nothing", () => {
-  expect(changeTabooTerms(ROOT, A_PICTURE_AT, KNOWING, changingTo(A_TERM))).toEqual([])
+  expect(changeTabooTerms(ROOT, A_PICTURE_AT, knowing, changingTo(A_TERM))).toEqual([])
 })
 
 test("the same term written into a file whose property holds text warrants a reading", () => {
-  const said = changeTabooTerms(ROOT, A_PORTRAIT_AT, KNOWING, changingTo(A_TERM))
+  const said = changeTabooTerms(ROOT, A_PORTRAIT_AT, knowing, changingTo(A_TERM))
   expect(said.length).toBeGreaterThan(0)
 })

@@ -9,7 +9,7 @@ import {
 
 const ROOT = "/"
 
-const NOTHING_MOVED: Moved = () => null
+const nothingMoved: Moved = () => null
 
 const DASHBOARDS =
   'const at = join(import.meta.dir, "..", "dashboards", "pages", slug, `${slug}.json`)\n'
@@ -102,7 +102,7 @@ test("where what moved landed is asked of a lookup, by a path from the root", ()
     'const at = join(import.meta.dir, "../deep/lualib")\n'
   )
   expect(asked).toContain("/a/b/lualib")
-  expect(rewrote(body, host, host, holding(), NOTHING_MOVED)).toBe(body)
+  expect(rewrote(body, host, host, holding(), nothingMoved)).toBe(body)
 })
 
 test("a walk to the top asks whether the root itself is held", () => {
@@ -111,7 +111,7 @@ test("a walk to the top asks whether the root itself is held", () => {
     'const held = resolve(import.meta.dir, "../../..")\n',
     "command/pages/compose-notices/one.command.test.ts",
     "command/pages/seat/compose-notices/one.command.test.ts",
-    NOTHING_MOVED,
+    nothingMoved,
     (absolute) => {
       asked.push(absolute)
       return true
@@ -126,7 +126,7 @@ test("a body naming neither its own url nor its own directory is left as that bo
     'const at = join(process.cwd(), "..", "lualib")\n',
     "a/b/host/host.module.code.ts",
     "a/b/modules/host/host.module.code.ts",
-    NOTHING_MOVED,
+    nothingMoved,
     holding("/a/b/lualib")
   )
 
@@ -187,7 +187,7 @@ test("a path built from something other than a written literal is named rather t
 })
 
 test("a base that cannot be read is named only where the move carries the body out", () => {
-  const said = runtimePatches(DASHBOARDS, GRAFANA, GRAFANA, NOTHING_MOVED, holding())
+  const said = runtimePatches(DASHBOARDS, GRAFANA, GRAFANA, nothingMoved, holding())
 
   expect(said.unread).toBe(1)
   expect(said.unreadable).toEqual([])

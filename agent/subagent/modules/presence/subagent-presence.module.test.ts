@@ -32,8 +32,8 @@ import {
   COMMITTED,
   HELD_ASSIGNMENT,
   HELD_ID,
-  HELD_LANDING,
   heldInHistory,
+  heldLanding,
   heldUnder,
   idIn,
   inScratch,
@@ -61,7 +61,7 @@ import {
   SEAT_BODY,
   SEAT_ID,
   stampOpening,
-  THREW_AFTER,
+  threwAfter,
   UNREAD,
   underSeat,
   WENT,
@@ -166,7 +166,7 @@ test("a take-down a held hold refused answers a why worth another try, taking no
   await underSeat(async (root) => {
     const at = await pageWritten(root)
     lockHeldIn(root)
-    const why = whyIn(await took(root, "akasha", OWN, [], HELD_LANDING, null, RETURNED))
+    const why = whyIn(await took(root, "akasha", OWN, [], heldLanding, null, RETURNED))
     expect(worthAnotherTry(why)).toBe(true)
     expect(existsSync(join(root, at))).toBe(true)
   })
@@ -203,7 +203,7 @@ test("a take-down that threw after it landed names what it landed", async () => 
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const done: string[] = []
     const went = await landingAgain(
-      () => took(root, "akasha", OWN, done, THREW_AFTER, null, RETURNED),
+      () => took(root, "akasha", OWN, done, threwAfter, null, RETURNED),
       done
     )
     expect(whyIn(went)).toContain(COMMITTED)

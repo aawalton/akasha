@@ -240,11 +240,11 @@ const UNCOMMITTED: SidecarsBy = new Map([
   ["domain", { secret: false, uncommitted: true, besides: BESIDES }],
 ])
 
-const SOPS_THERE: IsThere = (at) => at === "a.domain.sops.yaml"
+const sopsThere: IsThere = (at) => at === "a.domain.sops.yaml"
 
-const BESIDE_THERE: IsThere = (at) => at === "a.domain.uncommitted.ts"
+const besideThere: IsThere = (at) => at === "a.domain.uncommitted.ts"
 
-const PATCH_THERE: IsThere = (at) => at === "a.domain.patch.diff"
+const patchThere: IsThere = (at) => at === "a.domain.patch.diff"
 
 test("a value carrying no id claims its own path as a value carrying one does", () => {
   expect(claimsOf({ pageTypeSlug: "domain", slug: "a" }, AT, REPO, NO_FILES, NONE)).toEqual([
@@ -263,7 +263,7 @@ test("a page whose type declares a secret claims no sops file while that file is
 })
 
 test("that same page's claims carry the sops file as soon as that file is there", () => {
-  expect(claimsOf(VALUE, AT, REPO, NO_FILES, SECRET, undefined, SOPS_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, SECRET, undefined, sopsThere)).toEqual([
     "a.domain.ts",
     "a.domain.sops.yaml",
   ])
@@ -274,7 +274,7 @@ test("a page whose type declares an uncommitted value claims no file that is not
 })
 
 test("that same page claims the file beside it as soon as that file is there", () => {
-  expect(claimsOf(VALUE, AT, REPO, NO_FILES, UNCOMMITTED, undefined, BESIDE_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, UNCOMMITTED, undefined, besideThere)).toEqual([
     "a.domain.ts",
     "a.domain.uncommitted.ts",
   ])
@@ -295,7 +295,7 @@ const PATCH_FILED: FilePropertiesBy = new Map([["domain", new Map([["patch", nul
 
 test("a page whose type gives a file property a default claims no file that is not there", () => {
   expect(claimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING)).toEqual(["a.domain.ts"])
-  expect(claimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING, undefined, PATCH_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING, undefined, patchThere)).toEqual([
     "a.domain.ts",
     "a.domain.patch.diff",
   ])
@@ -332,7 +332,7 @@ test("an uncommitted value held in no file claims no file beside the page", () =
     ],
   ])
 
-  expect(claimsOf(VALUE, AT, REPO, NO_FILES, held, undefined, BESIDE_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, held, undefined, besideThere)).toEqual([
     "a.domain.ts",
     "a.domain.uncommitted.ts",
   ])

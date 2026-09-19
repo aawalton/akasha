@@ -44,19 +44,19 @@ const FOLDERED: FoldersBy = new Map([["eso-addon", new Map([["icons", "Icons"]])
 
 const NAMED: FilePropertiesBy = new Map([["eso-addon", new Map([["bindings", "Bindings.xml"]])]])
 
-const PAGING: Paging = (folder, types) =>
+const paging: Paging = (folder, types) =>
   folder === "deep" && types.has("eso-addon") ? ADDON : null
 
 export function claimantBelow(path: string): string | null {
-  return claimantOf(PAGING, path, NO_KINDS, NO_FILED, FOLDERED)
+  return claimantOf(paging, path, NO_KINDS, NO_FILED, FOLDERED)
 }
 
 export function claimantNamed(path: string): string | null {
-  return claimantOf(PAGING, path, NO_KINDS, NAMED, NO_FOLDERED)
+  return claimantOf(paging, path, NO_KINDS, NAMED, NO_FOLDERED)
 }
 
 const ENDED: ExtensionsBy = new Map([["eso-addon", new Map([["addon-dds-file", "dds"]])]])
 
 export function claimantClosing(path: string): string | null {
-  return claimantOf(PAGING, path, NO_KINDS, NO_FILED, FOLDERED, ENDED)
+  return claimantOf(paging, path, NO_KINDS, NO_FILED, FOLDERED, ENDED)
 }

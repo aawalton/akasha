@@ -44,7 +44,7 @@ export type SidecarsBy = ReadonlyMap<string, Sidecars>
 
 type Members = (pageTypeSlug: string) => ReadonlyMap<string, Beside> | null
 
-const NO_MEMBERS: Members = () => null
+const noMembers: Members = () => null
 
 const NOTHING: Sidecars = { secret: false, uncommitted: false, besides: new Map() }
 
@@ -123,7 +123,7 @@ export function sidecarsIn(
       walked.add(here)
       const value = raw.get(here)
       if (value === undefined) continue
-      for (const [key, beside] of declaredIn(value, NO_MEMBERS).besides) {
+      for (const [key, beside] of declaredIn(value, noMembers).besides) {
         if (!made.has(key)) made.set(key, beside)
       }
       for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)

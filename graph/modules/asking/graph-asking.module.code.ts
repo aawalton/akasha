@@ -187,7 +187,7 @@ function loadedFrom(
   }))
 }
 
-const NOWHERE: Paging = () => null
+const nowhere: Paging = () => null
 
 function relationsInto(
   index: Answering,
@@ -197,7 +197,7 @@ function relationsInto(
 ): readonly Edge[] {
   const attribute = attributeNamed(asking, PROPERTY, asked)
   const to = claimantOf(
-    NOWHERE,
+    nowhere,
     path,
     index.pageTypesIn(),
     index.filePropertiesAt(),

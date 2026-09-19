@@ -292,20 +292,20 @@ function takesBack(at: string): boolean {
   }
 }
 
-const FREELY = (): undefined => undefined
+const freely = (): undefined => undefined
 
 export function heldHere(megabytes: number): () => undefined {
   const own = ownAt()
-  if (own === null) return FREELY
+  if (own === null) return freely
   const home = join(MOUNT, own)
-  if (!takesBack(home)) return FREELY
+  if (!takesBack(home)) return freely
   const at = budgetAt()
-  if (at === null) return FREELY
+  if (at === null) return freely
   const leaf = join(at, RUN)
   throttled(leaf, megabytes)
   if (!movedTo(leaf)) {
     swept(at)
-    return FREELY
+    return freely
   }
   return () => {
     movedTo(home)

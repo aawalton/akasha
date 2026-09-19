@@ -113,9 +113,9 @@ export type HarnessOptions = {
   readonly seams?: Partial<AccountWalkSeams>
 }
 
-const NO_FALLBACK: FallbackRead = () => null
+const noFallback: FallbackRead = () => null
 
-export const DEEPSEEK_FALLBACK: FallbackRead = () => ({
+export const deepseekFallback: FallbackRead = () => ({
   account: "deepseek",
   upstream: {
     base: "https://api.deepseek.test/anthropic",
@@ -168,7 +168,7 @@ export function buildHarness(options: HarnessOptions): WalkHarness {
     },
     getFreshToken: options.freshTokens ?? (async (account) => credentialFor(account)),
     forward,
-    fallback: options.fallback ?? NO_FALLBACK,
+    fallback: options.fallback ?? noFallback,
     markAtLimit: async ({ account }): Promise<undefined> => {
       acts.atLimit.push(account)
     },

@@ -5,7 +5,7 @@ import {
   buildHarness,
   capacityLimited,
   credentialFor,
-  DEEPSEEK_FALLBACK,
+  deepseekFallback,
   forcedToolChoiceRefused,
   modelMissing,
   overloaded,
@@ -248,7 +248,7 @@ test("a 429 with every account exhausted is answered empty naming the trail", as
 })
 
 test("a pool with no account at all is sent to the fallback provider", async () => {
-  const harness = buildHarness({ answers: [ok], accounts: [], fallback: DEEPSEEK_FALLBACK })
+  const harness = buildHarness({ answers: [ok], accounts: [], fallback: deepseekFallback })
   const outcome = await runAccountWalk(harness.argsWith())
   expect(outcome.kind).toBe("served")
   expect(harness.sent).toEqual([
@@ -267,7 +267,7 @@ test("a pool with no account at all is sent to the fallback provider", async () 
 test("a 429 with every account exhausted is sent to the fallback provider", async () => {
   const harness = buildHarness({
     answers: [capacityLimited, capacityLimited, ok],
-    fallback: DEEPSEEK_FALLBACK,
+    fallback: deepseekFallback,
   })
   const outcome = await runAccountWalk(harness.argsWith())
   if (outcome.kind !== "served") throw new Error("the walk served nothing")
@@ -281,7 +281,7 @@ test("a fallback attempt asks for the model the fallback provider states", async
   const harness = buildHarness({
     answers: [capacityLimited, capacityLimited, ok],
     originalBody: bodyOf({ model: "claude-opus-5[1m]", max_tokens: 8 }),
-    fallback: DEEPSEEK_FALLBACK,
+    fallback: deepseekFallback,
   })
   await runAccountWalk(harness.argsWith())
   expect(harness.sent[2]?.body).toContain('"model":"deepseek-flash"')
@@ -292,7 +292,7 @@ test("a fallback attempt asks for the model the fallback provider states", async
 test("a fallback that refuses is served rather than answered empty", async () => {
   const harness = buildHarness({
     answers: [capacityLimited, capacityLimited, () => new Response("no balance", { status: 402 })],
-    fallback: DEEPSEEK_FALLBACK,
+    fallback: deepseekFallback,
   })
   const outcome = await runAccountWalk(harness.argsWith())
   if (outcome.kind !== "served") throw new Error("the walk served nothing")
@@ -303,7 +303,7 @@ test("a fallback that throws leaves the answer empty", async () => {
   const harness = buildHarness({
     answers: [ok],
     accounts: [],
-    fallback: DEEPSEEK_FALLBACK,
+    fallback: deepseekFallback,
     seams: {
       forward: async () => {
         throw new Error("deepseek went away")

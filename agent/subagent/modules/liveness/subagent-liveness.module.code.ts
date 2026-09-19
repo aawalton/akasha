@@ -56,11 +56,11 @@ export type Transcripts = {
 
 export type TranscriptAt = (seatId: string) => string | null
 
-const TRANSCRIPT_AT: TranscriptAt = (seatId) => transcriptOf(seatId)?.value ?? null
+const transcriptAt: TranscriptAt = (seatId) => transcriptOf(seatId)?.value ?? null
 
 export async function readFor(
   acting: Acting,
-  at: TranscriptAt = TRANSCRIPT_AT,
+  at: TranscriptAt = transcriptAt,
   reading: Transcripts = createSubagentReader()
 ): Promise<Read> {
   try {

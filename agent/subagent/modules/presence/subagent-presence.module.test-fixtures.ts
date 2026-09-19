@@ -260,10 +260,10 @@ export function lockHeldIn(root: string): undefined {
   writing(root, LOCK_AT, `${process.pid} ${startedAt(process.pid)}`)
 }
 
-export const HELD_LANDING: Landing = (root) =>
+export const heldLanding: Landing = (root) =>
   refusedWhereHeld(() => Promise.resolve(holding(root, () => LANDED, 0)))
 
-export const THREW_AFTER: Landing = (_root, _changes, _message, noting) => {
+export const threwAfter: Landing = (_root, _changes, _message, noting) => {
   noting?.done?.push(COMMITTED)
   throw new Error("the work after that commit stopped")
 }
