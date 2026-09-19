@@ -51,7 +51,7 @@ export function resolveItemRoute(
     quality: item.quality,
     action,
     value: computePlanItemValue(action, item),
-    marketValue: item.estimatedValue,
+    marketValue: item.marketValue,
     replacementValue: item.replacementValue,
     merchantValue: item.merchantValue,
     saleAvg: item.saleAvg,

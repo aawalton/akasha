@@ -144,7 +144,7 @@ export function AffectedItemsViews({
       const key = `${item.itemId}-${item.quality}`
       const existing = collapsed.get(key)
       const entryValue =
-        item.estimatedValue !== undefined ? item.estimatedValue * item.stackCount : undefined
+        item.marketValue !== undefined ? item.marketValue * item.stackCount : undefined
       if (existing) {
         existing.stackCount += item.stackCount
         if (entryValue !== undefined) {

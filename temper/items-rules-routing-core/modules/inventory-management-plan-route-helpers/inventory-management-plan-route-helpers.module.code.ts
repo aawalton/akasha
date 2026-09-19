@@ -20,7 +20,7 @@ export function computePlanItemValue(
     case "fence-sell":
       return item.merchantValue
     case "list":
-      return item.estimatedValue
+      return item.marketValue
     case "mail":
       return undefined
     case "nothing":
@@ -37,7 +37,7 @@ export function computePlanItemValue(
     case "research":
     case "use":
     case "open":
-      return computeValue(item.estimatedValue, item.merchantValue, item.replacementValue)
+      return computeValue(item.marketValue, item.merchantValue, item.replacementValue)
     default:
       return assertNever(action)
   }

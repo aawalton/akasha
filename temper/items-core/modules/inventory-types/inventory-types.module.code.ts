@@ -53,7 +53,7 @@ export interface InventoryItemData {
   amountCount?: number
   saleAmountCount?: number
   suggestedPrice?: number
-  estimatedValue?: number
+  marketValue?: number
   replacementValue?: number
   merchantValue?: number
   stolen?: boolean
@@ -83,7 +83,7 @@ export interface PlacedFurnishingData {
   amountCount?: number
   saleAmountCount?: number
   suggestedPrice?: number
-  estimatedValue?: number
+  marketValue?: number
 }
 
 export interface InventoryLocationData {

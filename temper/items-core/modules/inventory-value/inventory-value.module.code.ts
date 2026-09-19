@@ -7,7 +7,7 @@ export function computeInventoryTotalValue(inventory: InventoryDatabase): number
   for (const location of Object.values(inventory.locations)) {
     for (const bag of Object.values(location.bags)) {
       for (const item of Object.values(bag)) {
-        const value = computeValue(item.estimatedValue, item.merchantValue, item.replacementValue)
+        const value = computeValue(item.marketValue, item.merchantValue, item.replacementValue)
         if (value !== undefined && value > 0) {
           total += value * item.stackCount
         }
@@ -16,8 +16,8 @@ export function computeInventoryTotalValue(inventory: InventoryDatabase): number
 
     if (location.placedFurnishings) {
       for (const furnishing of Object.values(location.placedFurnishings)) {
-        if (furnishing.estimatedValue !== undefined && furnishing.estimatedValue > 0) {
-          total += furnishing.estimatedValue
+        if (furnishing.marketValue !== undefined && furnishing.marketValue > 0) {
+          total += furnishing.marketValue
         }
       }
     }

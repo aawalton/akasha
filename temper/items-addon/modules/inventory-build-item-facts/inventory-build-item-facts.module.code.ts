@@ -124,8 +124,8 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     GetItemTraitInformationFromItemLink(itemLink) === ITEM_TRAIT_INFORMATION_RETRAITED
 
   const pricing = lookupTtcPricing(itemLink)
-  const marketValue = pricing.estimatedValue
-  const replacementValue = pricing.estimatedValue
+  const marketValue = pricing.marketValue
+  const replacementValue = pricing.marketValue
 
   const potionEffectMetricIds = resolvePotionRestoreMetricIds(itemId, parsePotionData(itemLink))
 

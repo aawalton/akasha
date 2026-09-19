@@ -11,7 +11,7 @@ export function computeLiveNetWorth(
     for (const bag of Object.values(location.bags)) {
       for (const item of Object.values(bag)) {
         const replacementValue = crownReplacementCosts?.[item.itemId]
-        const value = computeValue(item.estimatedValue, item.merchantValue, replacementValue)
+        const value = computeValue(item.marketValue, item.merchantValue, replacementValue)
         if (value !== undefined && value > 0) {
           total += value * item.stackCount
         }
@@ -20,8 +20,8 @@ export function computeLiveNetWorth(
 
     if (location.placedFurnishings) {
       for (const furnishing of Object.values(location.placedFurnishings)) {
-        if (furnishing.estimatedValue !== undefined && furnishing.estimatedValue > 0) {
-          total += furnishing.estimatedValue
+        if (furnishing.marketValue !== undefined && furnishing.marketValue > 0) {
+          total += furnishing.marketValue
         }
       }
     }

@@ -13,7 +13,7 @@ export function lookupTtcPricing(
   itemLink: string
 ): Pick<
   ItemData,
-  "saleAvg" | "minPrice" | "amountCount" | "saleAmountCount" | "suggestedPrice" | "estimatedValue"
+  "saleAvg" | "minPrice" | "amountCount" | "saleAmountCount" | "suggestedPrice" | "marketValue"
 > {
   const priceApi = TamrielTradeCentrePrice
   if (priceApi === undefined) return {}
@@ -29,7 +29,7 @@ export function lookupTtcPricing(
 
   const result: Pick<
     ItemData,
-    "saleAvg" | "minPrice" | "amountCount" | "saleAmountCount" | "suggestedPrice" | "estimatedValue"
+    "saleAvg" | "minPrice" | "amountCount" | "saleAmountCount" | "suggestedPrice" | "marketValue"
   > = {}
 
   if (sa !== undefined) result.saleAvg = sa
@@ -39,9 +39,9 @@ export function lookupTtcPricing(
   if (s !== undefined) result.suggestedPrice = s
 
   if (s !== undefined) {
-    result.estimatedValue = s
+    result.marketValue = s
   } else if (sa !== undefined) {
-    result.estimatedValue = sa
+    result.marketValue = sa
   }
 
   return result
@@ -126,7 +126,7 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
     amountCount: pricing.amountCount,
     saleAmountCount: pricing.saleAmountCount,
     suggestedPrice: pricing.suggestedPrice,
-    estimatedValue: pricing.estimatedValue,
+    marketValue: pricing.marketValue,
   }
 
   const sellPrice = GetItemSellValueWithBonuses(bagId, slotIndex)

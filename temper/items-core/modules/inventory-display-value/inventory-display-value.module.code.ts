@@ -1,9 +1,9 @@
 export function computeValue(
-  estimatedValue: number | undefined,
+  marketValue: number | undefined,
   merchantValue: number | undefined,
   replacementValue?: number | undefined
 ): number | undefined {
-  if (estimatedValue === undefined && merchantValue === undefined && replacementValue === undefined)
+  if (marketValue === undefined && merchantValue === undefined && replacementValue === undefined)
     return undefined
-  return Math.max(estimatedValue ?? 0, merchantValue ?? 0, replacementValue ?? 0)
+  return Math.max(marketValue ?? 0, merchantValue ?? 0, replacementValue ?? 0)
 }

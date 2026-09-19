@@ -110,9 +110,9 @@ function buildMatchContextForRender(itemLink: string, ancestorChain: string[]): 
     minPrice: pricing.minPrice,
     amountCount: pricing.amountCount,
     saleAmountCount: pricing.saleAmountCount,
-    estimatedValue: pricing.estimatedValue,
+    marketValue: pricing.marketValue,
     merchantValue,
-    replacementValue: pricing.estimatedValue,
+    replacementValue: pricing.marketValue,
   }
 }
 

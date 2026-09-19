@@ -45,8 +45,8 @@ export function UnmappedItemsPanelCard({
     let totalValue: number | undefined
     for (const entry of items) {
       stackCount += entry.item.stackCount
-      if (entry.item.estimatedValue !== undefined) {
-        totalValue = (totalValue ?? 0) + entry.item.estimatedValue * entry.item.stackCount
+      if (entry.item.marketValue !== undefined) {
+        totalValue = (totalValue ?? 0) + entry.item.marketValue * entry.item.stackCount
       }
     }
     return { stackCount, totalValue }

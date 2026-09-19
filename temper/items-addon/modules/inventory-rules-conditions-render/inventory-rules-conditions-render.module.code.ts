@@ -29,7 +29,7 @@ export interface MatchContext {
   minPrice: number | undefined
   amountCount: number | undefined
   saleAmountCount: number | undefined
-  estimatedValue: number | undefined
+  marketValue: number | undefined
   merchantValue: number | undefined
   replacementValue: number | undefined
 }
@@ -60,22 +60,22 @@ function deriveStrLabel(ac: number | undefined, sac: number | undefined): string
 }
 
 function ttcBlend(ctx: MatchContext): string {
-  if (ctx.saleAvg === undefined && ctx.minPrice === undefined && ctx.estimatedValue === undefined) {
+  if (ctx.saleAvg === undefined && ctx.minPrice === undefined && ctx.marketValue === undefined) {
     return ""
   }
   const str = deriveStrLabel(ctx.amountCount, ctx.saleAmountCount)
-  return ` [TTC SA=${fmtNum(ctx.saleAvg)} Min=${fmtNum(ctx.minPrice)} AC=${fmtNum(ctx.amountCount)} SAC=${fmtNum(ctx.saleAmountCount)} STR=${str} est=${fmtNum(ctx.estimatedValue)}]`
+  return ` [TTC SA=${fmtNum(ctx.saleAvg)} Min=${fmtNum(ctx.minPrice)} AC=${fmtNum(ctx.amountCount)} SAC=${fmtNum(ctx.saleAmountCount)} STR=${str} market=${fmtNum(ctx.marketValue)}]`
 }
 
 function computeCombinedValue(ctx: MatchContext): number | undefined {
   if (
-    ctx.estimatedValue === undefined &&
+    ctx.marketValue === undefined &&
     ctx.merchantValue === undefined &&
     ctx.replacementValue === undefined
   ) {
     return undefined
   }
-  return Math.max(ctx.estimatedValue ?? 0, ctx.merchantValue ?? 0, ctx.replacementValue ?? 0)
+  return Math.max(ctx.marketValue ?? 0, ctx.merchantValue ?? 0, ctx.replacementValue ?? 0)
 }
 
 function pushValueConditions(
@@ -83,7 +83,7 @@ function pushValueConditions(
   rule: CompiledOrderedRule,
   ctx: MatchContext
 ): undefined {
-  const ev = ctx.estimatedValue
+  const ev = ctx.marketValue
 
   if (rule.marketValue !== undefined) {
     const op = rule.marketValueOp ?? "<="

@@ -164,17 +164,17 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   const amountCount = asOptionalNumber(item.amountCount)
   const saleAmountCount = asOptionalNumber(item.saleAmountCount)
   const suggestedPrice = asOptionalNumber(item.suggestedPrice)
-  const estimatedValue = asOptionalNumber(item.estimatedValue)
+  const marketValue = asOptionalNumber(item.marketValue) ?? asOptionalNumber(item.estimatedValue)
 
   if (parsed.bound) {
-    if (estimatedValue !== undefined) parsed.replacementValue = estimatedValue
+    if (marketValue !== undefined) parsed.replacementValue = marketValue
   } else {
     if (saleAvg !== undefined) parsed.saleAvg = saleAvg
     if (minPrice !== undefined) parsed.minPrice = minPrice
     if (amountCount !== undefined) parsed.amountCount = amountCount
     if (saleAmountCount !== undefined) parsed.saleAmountCount = saleAmountCount
     if (suggestedPrice !== undefined) parsed.suggestedPrice = suggestedPrice
-    if (estimatedValue !== undefined) parsed.estimatedValue = estimatedValue
+    if (marketValue !== undefined) parsed.marketValue = marketValue
   }
 
   return parsed
@@ -197,14 +197,14 @@ function parsePlacedFurnishing(raw: unknown): PlacedFurnishingData | undefined {
     const amountCount = asOptionalNumber(f.amountCount)
     const saleAmountCount = asOptionalNumber(f.saleAmountCount)
     const suggestedPrice = asOptionalNumber(f.suggestedPrice)
-    const estimatedValue = asOptionalNumber(f.estimatedValue)
+    const marketValue = asOptionalNumber(f.marketValue) ?? asOptionalNumber(f.estimatedValue)
 
     if (saleAvg !== undefined) parsed.saleAvg = saleAvg
     if (minPrice !== undefined) parsed.minPrice = minPrice
     if (amountCount !== undefined) parsed.amountCount = amountCount
     if (saleAmountCount !== undefined) parsed.saleAmountCount = saleAmountCount
     if (suggestedPrice !== undefined) parsed.suggestedPrice = suggestedPrice
-    if (estimatedValue !== undefined) parsed.estimatedValue = estimatedValue
+    if (marketValue !== undefined) parsed.marketValue = marketValue
   }
 
   return parsed

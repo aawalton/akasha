@@ -29,7 +29,7 @@ const itemSchema = z
     amountCount: z.number().optional(),
     saleAmountCount: z.number().optional(),
     suggestedPrice: z.number().optional(),
-    estimatedValue: z.number().optional(),
+    marketValue: z.number().optional(),
     replacementValue: z.number().optional(),
     merchantValue: z.number().optional(),
     stolen: z.boolean().optional(),
@@ -63,7 +63,7 @@ const placedFurnishingSchema = z
     amountCount: z.number().optional(),
     saleAmountCount: z.number().optional(),
     suggestedPrice: z.number().optional(),
-    estimatedValue: z.number().optional(),
+    marketValue: z.number().optional(),
   })
   .strict()
 

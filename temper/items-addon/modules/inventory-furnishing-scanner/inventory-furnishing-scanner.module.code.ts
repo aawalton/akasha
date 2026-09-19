@@ -26,7 +26,7 @@ function extractFurnishingData(furnitureId: Id64): PlacedFurnishingData | undefi
     if (pricing.amountCount !== undefined) data.amountCount = pricing.amountCount
     if (pricing.saleAmountCount !== undefined) data.saleAmountCount = pricing.saleAmountCount
     if (pricing.suggestedPrice !== undefined) data.suggestedPrice = pricing.suggestedPrice
-    if (pricing.estimatedValue !== undefined) data.estimatedValue = pricing.estimatedValue
+    if (pricing.marketValue !== undefined) data.marketValue = pricing.marketValue
   }
 
   return data

@@ -24,7 +24,7 @@ export interface TtcBreakdown {
   readonly minPrice: number | null
   readonly amountCount: number | null
   readonly saleAmountCount: number | null
-  readonly estimatedValue: number | null
+  readonly marketValue: number | null
   readonly merchantValue: number | null
   readonly replacementValue: number | null
 }
@@ -76,7 +76,7 @@ export function formatExplainWalk(out: JsonOutput): string {
     const str = deriveStr(t.amountCount, t.saleAmountCount)
     lines.push("")
     lines.push(
-      "# TTC pricing: saleAvg\tminPrice\tamountCount\tsaleAmountCount\tstr\testimatedValue\tmerchantValue\treplacementValue"
+      "# TTC pricing: saleAvg\tminPrice\tamountCount\tsaleAmountCount\tstr\tmarketValue\tmerchantValue\treplacementValue"
     )
     lines.push(
       [
@@ -86,7 +86,7 @@ export function formatExplainWalk(out: JsonOutput): string {
         num(t.amountCount),
         num(t.saleAmountCount),
         str === undefined ? "" : str.toFixed(4),
-        num(t.estimatedValue),
+        num(t.marketValue),
         num(t.merchantValue),
         num(t.replacementValue),
       ].join("\t")

@@ -174,7 +174,7 @@ const HOMES: InventoryValues = {
             quality: 4,
             itemLink: "",
             collectibleLink: "|H1:collectible:9|h|h",
-            estimatedValue: 1200,
+            marketValue: 1200,
           },
         },
       },

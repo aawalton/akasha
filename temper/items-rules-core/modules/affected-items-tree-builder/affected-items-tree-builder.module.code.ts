@@ -23,7 +23,7 @@ function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry 
       itemName: item.itemName,
       quality: item.quality,
       stackCount: item.stackCount,
-      value: computeValue(item.estimatedValue, item.merchantValue, item.replacementValue),
+      value: computeValue(item.marketValue, item.merchantValue, item.replacementValue),
       filterType: item.filterType,
       itemType: item.itemType,
       specializedItemType: item.specializedItemType,

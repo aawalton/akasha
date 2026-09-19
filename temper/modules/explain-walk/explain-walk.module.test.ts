@@ -48,7 +48,7 @@ const TTC: TtcBreakdown = {
   minPrice: 900,
   amountCount: 40,
   saleAmountCount: 10,
-  estimatedValue: 1150,
+  marketValue: 1150,
   merchantValue: 60,
   replacementValue: 1300,
 }

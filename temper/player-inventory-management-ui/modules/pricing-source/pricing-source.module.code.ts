@@ -15,7 +15,7 @@ function hasAnyPricedItem(inventory: InventoryDatabase): boolean {
   for (const location of Object.values(inventory.locations)) {
     for (const bag of Object.values(location.bags)) {
       for (const item of Object.values(bag)) {
-        if (item.estimatedValue !== undefined) return true
+        if (item.marketValue !== undefined) return true
       }
     }
   }

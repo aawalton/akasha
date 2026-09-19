@@ -11,5 +11,10 @@ export const inventoryParser = {
       decisionKind: "decision-kind/departure",
       statement: "A field the capture holds for an item reaches the item read out of it.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A capture written before the rename says estimatedValue where marketValue is meant.",
+    },
   ],
 } as const satisfies Module
