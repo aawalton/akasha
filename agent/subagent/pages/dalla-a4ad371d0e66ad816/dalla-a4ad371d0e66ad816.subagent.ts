@@ -1,0 +1,11 @@
+import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts"
+
+export const dallaA4ad371d0e66ad816 = {
+  id: "01a0b74a-895c-7c79-9527-70eafe025504",
+  type: "page-type/subagent",
+  slug: "dalla-a4ad371d0e66ad816",
+  principalSeatName: "seat/dalla",
+  assignmentSlug: "initiative/dalla-offload-to-cluster",
+  dispatchedAs: "Explore",
+  agentId: "01a0b746-31e8-7000-8022-ec315b967ba1--a4ad371d0e66ad816",
+} as const satisfies Subagent
