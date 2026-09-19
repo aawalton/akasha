@@ -1,0 +1,8 @@
+{"definition":"the service whose word says who a person is"}
+{"id":"01a0bae9-dc45-7cb3-a9cc-064293500f07"}
+{"maxLength":20}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"provider"}
+{"slug":"sign-in-provider"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

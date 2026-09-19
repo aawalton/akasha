@@ -100,6 +100,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"graph/predicate/properties/edges.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-persona.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/secrets.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/service-manifest.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/inference/properties/provision.relation-property.ts"}

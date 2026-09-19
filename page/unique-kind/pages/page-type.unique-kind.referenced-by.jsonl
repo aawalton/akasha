@@ -4,6 +4,7 @@
 {"propertySlug":"unique","path":"code/ios-app/properties/bundle-id.text-property.ts","id":"01a0597a-8eac-7076-83c7-0a77ea71e29b"}
 {"propertySlug":"unique","path":"code/ios-program/properties/profile-name.text-property.ts","id":"01a059b4-7acb-714e-a535-bcc8e1972c6a"}
 {"propertySlug":"unique","path":"code/ios-program/properties/target-name.text-property.ts","id":"01a059c0-5610-793f-b79a-cb8f78cf963e"}
+{"propertySlug":"unique","path":"infrastructure/auth/sign-in/properties/sign-in-subject-hash.text-property.ts","id":"01a0baea-1b78-7dbf-b2bd-81ca4f6f3f8a"}
 {"propertySlug":"unique","path":"page/index/properties/index-name.text-property.ts","id":"01a04ef3-160f-7845-bc55-4507fdef6109"}
 {"propertySlug":"unique","path":"page/properties/slug.text-property.ts","id":"01a049b9-856c-7187-96e0-518b0a8c72cb"}
 {"propertySlug":"unique","path":"person/device-secret/properties/device-secret-hash.text-property.ts","id":"01a05b39-f50c-7eb2-a48c-d4679699f045"}

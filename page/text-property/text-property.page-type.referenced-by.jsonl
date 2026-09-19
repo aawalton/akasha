@@ -272,6 +272,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-domain.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-role-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-summary.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-provider.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-subject-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-folder.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-repository.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/computer-model.text-property.ts"}

@@ -2469,6 +2469,8 @@
 {"propertySlug":"decision-kind","path":"infrastructure/analysis-complexity/modules/operator-classification/operator-classification.module.ts","id":"01a0680f-d1b7-79ab-913f-0358ec466fac"}
 {"propertySlug":"decision-kind","path":"infrastructure/analysis-complexity/modules/walk-functions/walk-functions.module.ts","id":"01a0680f-d1b7-72c6-a3b9-0ccb673e665d"}
 {"propertySlug":"decision-kind","path":"infrastructure/auth/auth.domain.ts","id":"01a07392-d13f-7657-b149-543047125f73"}
+{"propertySlug":"decision-kind","path":"infrastructure/auth/sign-in/properties/sign-in-subject-hash.text-property.ts","id":"01a0baea-1b78-7dbf-b2bd-81ca4f6f3f8a"}
+{"propertySlug":"decision-kind","path":"infrastructure/auth/sign-in/sign-in.page-type.ts","id":"01a0baea-de7e-759b-9308-31ab255cc263"}
 {"propertySlug":"decision-kind","path":"infrastructure/ci-benchmark/ci-benchmark.domain.ts","id":"01a0675b-16d8-704b-a679-f300bf41cd88"}
 {"propertySlug":"decision-kind","path":"infrastructure/ci-benchmark/modules/toolchain-manifest/toolchain-manifest.module.ts","id":"01a0680f-d1b7-7713-9d02-85fa22f033a1"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/api/cluster-api.domain.ts","id":"01a068d4-d2aa-79d4-b241-bf8c8672b7fd"}

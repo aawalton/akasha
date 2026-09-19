@@ -5,7 +5,7 @@ export const auth = {
   type: "page-type/domain",
   slug: "auth",
   definition: "who a caller is, and what says so",
-  parts: ["manifest/gotrue"],
+  parts: ["manifest/gotrue", "page-type/sign-in"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

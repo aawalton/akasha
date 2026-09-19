@@ -25,6 +25,7 @@
 {"propertySlug":"name-format","path":"graph/predicate/properties/direction.text-property.ts","id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
 {"propertySlug":"name-format","path":"infrastructure/alert/properties/alert-domain.text-property.ts","id":"01a06755-0778-78ee-bf36-f7fd5ffa5619"}
 {"propertySlug":"name-format","path":"infrastructure/alert/properties/alert-role-slug.text-property.ts","id":"01a06935-977a-7e91-ae12-88623e6a23ba"}
+{"propertySlug":"name-format","path":"infrastructure/auth/sign-in/properties/sign-in-provider.text-property.ts","id":"01a0bae9-dc45-7cb3-a9cc-064293500f07"}
 {"propertySlug":"name-format","path":"infrastructure/service/cluster/properties/namespace.text-property.ts","id":"01a05a41-58c4-75fd-a1fe-fc3595ae4a50"}
 {"propertySlug":"name-format","path":"infrastructure/service/cluster/properties/resource-name.text-property.ts","id":"01a05a41-58c5-7070-8223-2b245078d3b9"}
 {"propertySlug":"name-format","path":"infrastructure/service/inference/properties/inference-host.text-property.ts","id":"01a09094-7525-73c0-bc06-d3cdd15b053b"}

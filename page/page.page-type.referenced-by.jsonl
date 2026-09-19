@@ -77,6 +77,7 @@
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
 {"propertySlug":"extends-type","path":"domain/taboo-term/taboo-term.page-type.ts","id":"01a0592c-2737-7057-aa66-a46141334052"}
 {"propertySlug":"extends-type","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
+{"propertySlug":"extends-type","path":"infrastructure/auth/sign-in/sign-in.page-type.ts","id":"01a0baea-de7e-759b-9308-31ab255cc263"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/log/generation-log.page-type.ts","id":"01a01d18-306b-7000-9796-b41f285a1bad"}
@@ -217,6 +218,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/standard-agent-english/term/term.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/taboo-term/taboo-term.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/alert/alert.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/auth/sign-in/sign-in.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/audio/audio.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/log/generation-log.page-type.types.ts"}

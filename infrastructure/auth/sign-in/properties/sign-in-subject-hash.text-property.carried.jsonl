@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"What a provider calls a person is hashed rather than written down."},{"decisionKind":"decision-kind/departure","statement":"Every provider's name for a person hashes to one shape of name."}]}
+{"definition":"the sha-256 of what a provider calls a person, written as lower hex"}
+{"id":"01a0baea-1b78-7dbf-b2bd-81ca4f6f3f8a"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"subject-hash"}
+{"slug":"sign-in-subject-hash"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}
