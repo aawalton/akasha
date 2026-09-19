@@ -4,17 +4,17 @@ export const siaLetMeLoveYouUntilYouLearnToLoveYourself = {
   id: "019ea4c9-7aaf-76e2-a85b-046858577d20",
   type: "page-type/song",
   slug: "sia-let-me-love-you-until-you-learn-to-love-yourself",
-  title: "Let Me Love You (Until You Learn to Love Yourself)",
-  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "a93e6cca-40e6-4a09-aef6-8aae3c2b00b0",
       externalLink: "https://musicbrainz.org/work/a93e6cca-40e6-4a09-aef6-8aae3c2b00b0",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
+  title: "Let Me Love You (Until You Learn to Love Yourself)",
+  artist: "artist/sia",
   songType: "original",
-  performed: false,
+  performed: true,
   written: "collab",
 } as const satisfies Song

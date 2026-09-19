@@ -1,11 +1,10 @@
 {"artist":"artist/sia"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"3ac3f0d2-8c53-4ee5-87d7-da90fec74458","externalLink":"https://musicbrainz.org/work/3ac3f0d2-8c53-4ee5-87d7-da90fec74458","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"3ac3f0d2-8c53-4ee5-87d7-da90fec74458","externalLink":"https://musicbrainz.org/work/3ac3f0d2-8c53-4ee5-87d7-da90fec74458","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4cb-c750-761d-8edb-1f33fa3f772d"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"sia-satisfied"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Satisfied"}
 {"type":"page-type/song"}

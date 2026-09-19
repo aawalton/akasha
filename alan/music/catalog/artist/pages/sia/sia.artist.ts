@@ -16,7 +16,7 @@ export const sia = {
       source: "musicbrainz",
       externalId: "2f548675-008d-4332-876c-108b0c7ab9c5",
       externalLink: "https://musicbrainz.org/artist/2f548675-008d-4332-876c-108b0c7ab9c5",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
     {
       source: "spotify",

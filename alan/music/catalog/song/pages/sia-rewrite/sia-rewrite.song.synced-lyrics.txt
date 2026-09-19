@@ -1,9 +1,3 @@
-[ar:Sia]
-[al:Colour the Small One]
-[ti:Rewrite]
-[length:04:46.00]
-[by:Tubifarry Lyrics Enhancer]
-
 [00:15.32] You don't know me
 [00:30.69] You can't hold me
 [00:47.73] I'll slip through your hands
@@ -28,3 +22,4 @@
 [04:17.82] Happily received
 [04:29.82] You are free to love
 [04:33.68] Delete and rewrite me
+[04:38.10] 

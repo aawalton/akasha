@@ -2495,6 +2495,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-85-blocks/sia-85-blocks.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-a-situation/sia-a-situation.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-academia/sia-academia.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-adhd/sia-adhd.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-alive-3/sia-alive-3.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-all-i-need/sia-all-i-need.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-all-in-your-head/sia-all-in-your-head.song.ts"}
@@ -2540,6 +2541,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-butterflies/sia-butterflies.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-buttons/sia-buttons.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-by-your-side/sia-by-your-side.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-california-dreamin/sia-california-dreamin.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-candy-cane-lane/sia-candy-cane-lane.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-cannonball/sia-cannonball.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-casualty/sia-casualty.song.ts"}
@@ -2564,6 +2566,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-del-mar/sia-del-mar.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-destiny/sia-destiny.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-devil-in-me/sia-devil-in-me.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-diamonds-remix/sia-diamonds-remix.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-diamonds/sia-diamonds.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-dim-the-lights/sia-dim-the-lights.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-distractions/sia-distractions.song.ts"}
@@ -2580,11 +2583,13 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-everyday-is-christmas/sia-everyday-is-christmas.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-exhale/sia-exhale.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-expertease-ready-set-go/sia-expertease-ready-set-go.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-eye-of-the-needle-bounce-remix/sia-eye-of-the-needle-bounce-remix.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-eye-of-the-needle/sia-eye-of-the-needle.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-eye-to-eye/sia-eye-to-eye.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-fair-game/sia-fair-game.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-fame-won-t-love-you/sia-fame-won-t-love-you.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-fear/sia-fear.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-feels-like-heaven/sia-feels-like-heaven.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-fire-meet-gasoline/sia-fire-meet-gasoline.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-firecracker/sia-firecracker.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-fist-fighting-a-sandstorm/sia-fist-fighting-a-sandstorm.song.ts"}
@@ -2600,6 +2605,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-get-over-u/sia-get-over-u.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-gimme-love/sia-gimme-love.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-go-on/sia-go-on.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-guts-over-fear/sia-guts-over-fear.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-hass-hass/sia-hass-hass.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-healing-is-difficult/sia-healing-is-difficult.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-heart-of-glass/sia-heart-of-glass.song.ts"}
@@ -2619,6 +2625,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-forgive-you/sia-i-forgive-you.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-go-to-sleep/sia-i-go-to-sleep.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-had-a-heart/sia-i-had-a-heart.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-love-it-trials-remix/sia-i-love-it-trials-remix.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-love-it/sia-i-love-it.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-m-in-here/sia-i-m-in-here.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-i-m-not-important-to-you/sia-i-m-not-important-to-you.song.ts"}
@@ -2740,6 +2747,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-the-greatest/sia-the-greatest.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-the-pageant-of-the-bizarre/sia-the-pageant-of-the-bizarre.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-the-whisperer/sia-the-whisperer.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-things/sia-things.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-thistles/sia-thistles.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-thunderclouds/sia-thunderclouds.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-titanium/sia-titanium.song.ts"}
@@ -2749,6 +2757,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-towards-the-sun/sia-towards-the-sun.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-tripoutro/sia-tripoutro.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-try-everything/sia-try-everything.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-under-the-milky-way/sia-under-the-milky-way.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-underneath-the-christmas-lights/sia-underneath-the-christmas-lights.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-underneath-the-mistletoe/sia-underneath-the-mistletoe.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/sia-unforgettable/sia-unforgettable.song.ts"}

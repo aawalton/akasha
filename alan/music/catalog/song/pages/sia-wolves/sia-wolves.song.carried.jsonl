@@ -1,11 +1,10 @@
 {"artist":"artist/sia"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"26022377-f20c-4d6b-b465-74b9f157c084","externalLink":"https://musicbrainz.org/work/26022377-f20c-4d6b-b465-74b9f157c084","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"26022377-f20c-4d6b-b465-74b9f157c084","externalLink":"https://musicbrainz.org/work/26022377-f20c-4d6b-b465-74b9f157c084","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4cb-3247-7881-ae1b-fdb2b630fed2"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"sia-wolves"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Wolves"}
 {"type":"page-type/song"}

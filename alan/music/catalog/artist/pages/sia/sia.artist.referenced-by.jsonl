@@ -2,6 +2,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-85-blocks/sia-85-blocks.song.ts","id":"019ea4c4-e148-7845-975b-5ae06d0c2107"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-a-situation/sia-a-situation.song.ts","id":"019ea4c2-a830-7f2b-9bce-90140abd8147"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-academia/sia-academia.song.ts","id":"019ea4c3-c8e1-7476-9c47-59c136286248"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-adhd/sia-adhd.song.ts","id":"01a0ba9d-fb06-7e25-b60e-86d7f8965060"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-alive-3/sia-alive-3.song.ts","id":"019ea4c6-6d40-7c03-8b76-a28f384ae1ac"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-all-i-need/sia-all-i-need.song.ts","id":"019ea4c3-8945-7815-9e1f-fb101dccbfff"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-all-in-your-head/sia-all-in-your-head.song.ts","id":"019ea4c4-5b1b-78b3-ab58-4429c0f05b65"}
@@ -47,6 +48,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-butterflies/sia-butterflies.song.ts","id":"019ea4c2-92cb-729c-a0cc-7f48e0184f52"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-buttons/sia-buttons.song.ts","id":"019ea4c3-e8e3-7d3e-85df-2ed7fe36462b"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-by-your-side/sia-by-your-side.song.ts","id":"019ea4c3-7979-7224-a9df-cfdae613872a"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-california-dreamin/sia-california-dreamin.song.ts","id":"01a0ba9e-0006-7ece-a829-38ad3e09efe6"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-candy-cane-lane/sia-candy-cane-lane.song.ts","id":"019ea4c5-4d49-7bad-9ae0-43507ecebdb1"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-cannonball/sia-cannonball.song.ts","id":"019ea4c3-7343-747b-bf6c-cf53672d8e3c"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-casualty/sia-casualty.song.ts","id":"019ea4c6-5970-73a5-8c98-c055a96dc499"}
@@ -71,6 +73,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-del-mar/sia-del-mar.song.ts","id":"019ea4c3-5605-78cd-a751-041d186d0b13"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-destiny/sia-destiny.song.ts","id":"019ea4c5-8f56-759d-95c4-d11d9df85979"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-devil-in-me/sia-devil-in-me.song.ts","id":"019ea4c5-550d-7f78-a508-58bef0ede364"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-diamonds-remix/sia-diamonds-remix.song.ts","id":"01a0ba9e-0708-7f09-8c6e-e038b152ec6b"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-diamonds/sia-diamonds.song.ts","id":"019ea4c3-cf41-7a06-a5ad-3f940ab3a0e4"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-dim-the-lights/sia-dim-the-lights.song.ts","id":"019ea4c4-9c94-7335-a405-4cbb825bd33f"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-distractions/sia-distractions.song.ts","id":"019ea4c3-2eb7-794d-8de1-09452f3caeef"}
@@ -87,11 +90,13 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-everyday-is-christmas/sia-everyday-is-christmas.song.ts","id":"019ea4c5-7b55-76e0-827f-d0fca75beedc"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-exhale/sia-exhale.song.ts","id":"019ea4c2-8777-7fa9-b53b-ceba8669ac8b"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-expertease-ready-set-go/sia-expertease-ready-set-go.song.ts","id":"019ea4c2-98b1-72b0-9d41-07a17d06cf4c"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-eye-of-the-needle-bounce-remix/sia-eye-of-the-needle-bounce-remix.song.ts","id":"01a0ba9d-fe9f-7e3b-9450-00d8ce38c4f2"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-eye-of-the-needle/sia-eye-of-the-needle.song.ts","id":"019ea4c5-e39e-7b42-9741-4a4d84dbd98b"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-eye-to-eye/sia-eye-to-eye.song.ts","id":"019ea4c5-bed3-7231-a84a-6802f9bb28dc"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-fair-game/sia-fair-game.song.ts","id":"019ea4c6-516e-758b-a354-44dcfec3cc00"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-fame-won-t-love-you/sia-fame-won-t-love-you.song.ts","id":"019ea4c3-44ec-7e80-a148-2ec6648573cd"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-fear/sia-fear.song.ts","id":"019ea4c6-8ba3-7c93-8b7a-b7e90cc2c1fb"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-feels-like-heaven/sia-feels-like-heaven.song.ts","id":"01a0ba9e-1816-7a93-bb7f-d563ef36895a"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-fire-meet-gasoline/sia-fire-meet-gasoline.song.ts","id":"019ea4c6-bb5e-7385-bc6e-d6b3fa3c07fb"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-firecracker/sia-firecracker.song.ts","id":"019ea4c7-08d5-719b-ae20-482a9119f156"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-fist-fighting-a-sandstorm/sia-fist-fighting-a-sandstorm.song.ts","id":"019ea4ca-2fdc-7723-b310-ad9c58107456"}
@@ -107,6 +112,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-get-over-u/sia-get-over-u.song.ts","id":"019ea4c8-209f-7745-ac57-fbce3ed5db75"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-gimme-love/sia-gimme-love.song.ts","id":"019ea4c8-bc3c-70da-a116-44fe9937025d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-go-on/sia-go-on.song.ts","id":"019ea4c7-b1da-7fef-8a76-55a441851996"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-guts-over-fear/sia-guts-over-fear.song.ts","id":"01a0ba9e-1428-75e0-b952-05ceb6a6a11a"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-hass-hass/sia-hass-hass.song.ts","id":"019ea4c7-4d84-7545-a227-2bc1b0e1d08a"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-healing-is-difficult/sia-healing-is-difficult.song.ts","id":"019ea4c8-c291-7f7e-ae81-2ebf8ac8ca1d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-heart-of-glass/sia-heart-of-glass.song.ts","id":"019ea4c7-cde8-7820-a4c1-77f666c508ad"}
@@ -126,6 +132,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-forgive-you/sia-i-forgive-you.song.ts","id":"019ea4c9-935c-743f-acf2-2b4ac958c488"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-go-to-sleep/sia-i-go-to-sleep.song.ts","id":"019ea4c7-2914-7092-9c44-9960552994f4"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-had-a-heart/sia-i-had-a-heart.song.ts","id":"019ea4c9-5df2-7990-9278-c57f1c270d73"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-love-it-trials-remix/sia-i-love-it-trials-remix.song.ts","id":"01a0ba9e-1cf9-75fd-a082-2383e1fd4f3e"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-love-it/sia-i-love-it.song.ts","id":"019ea4c6-e7ad-71ae-a859-f43cbcb30e8d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-m-in-here/sia-i-m-in-here.song.ts","id":"019ea4c9-afdb-761f-b0a8-fd1e940aff00"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-i-m-not-important-to-you/sia-i-m-not-important-to-you.song.ts","id":"019ea4ca-60b6-71a8-a9d8-78772a753167"}
@@ -247,6 +254,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-the-greatest/sia-the-greatest.song.ts","id":"019ea4cc-6e18-7271-ba7f-cec0ee4756ab"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-the-pageant-of-the-bizarre/sia-the-pageant-of-the-bizarre.song.ts","id":"019ea4cd-c7ae-7f05-9418-e354290279ec"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-the-whisperer/sia-the-whisperer.song.ts","id":"019ea4cb-b2a8-765c-b772-14bcb8ce0d5c"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-things/sia-things.song.ts","id":"01a0ba9e-36b7-78a2-acb5-e13993c5dc55"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-thistles/sia-thistles.song.ts","id":"019ea4ce-7f0f-793e-b26f-73eda4d9bf32"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-thunderclouds/sia-thunderclouds.song.ts","id":"019ea4cd-beb5-799a-a324-b5640eeabd79"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-titanium/sia-titanium.song.ts","id":"019ea4cb-7676-70dd-b865-fe24bb1aea0c"}
@@ -256,6 +264,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-towards-the-sun/sia-towards-the-sun.song.ts","id":"019ea4cb-9f97-7670-b809-e97d82d477d0"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-tripoutro/sia-tripoutro.song.ts","id":"019ea4ca-a8a4-7196-b107-8d0750b2c436"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-try-everything/sia-try-everything.song.ts","id":"019ea4ce-ad1a-7fcb-9f9a-9231417152c1"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-under-the-milky-way/sia-under-the-milky-way.song.ts","id":"01a0ba9e-3ac0-74c0-b0a3-700eccaf1e0f"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-underneath-the-christmas-lights/sia-underneath-the-christmas-lights.song.ts","id":"019ea4cd-b5f0-738b-b53c-c7c417d458f1"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-underneath-the-mistletoe/sia-underneath-the-mistletoe.song.ts","id":"019ea4ca-b001-74de-ab8b-ec1553d21833"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sia-unforgettable/sia-unforgettable.song.ts","id":"019ea4cb-fb29-7251-9486-5a0c747b7b6b"}

@@ -1,11 +1,10 @@
 {"artist":"artist/sia"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"fc4e60b9-3e7f-3ce4-8e39-08635f98d287","externalLink":"https://musicbrainz.org/work/fc4e60b9-3e7f-3ce4-8e39-08635f98d287","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"fc4e60b9-3e7f-3ce4-8e39-08635f98d287","externalLink":"https://musicbrainz.org/work/fc4e60b9-3e7f-3ce4-8e39-08635f98d287","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4a2-4b23-7c0e-95bf-685605cea721"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"sia-lay-all-your-love-on-me"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Lay All Your Love on Me"}
 {"type":"page-type/song"}

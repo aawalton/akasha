@@ -1,11 +1,10 @@
 {"artist":"artist/sia"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"ef2d042c-622b-4cd2-8751-e7abbacc0ac5","externalLink":"https://musicbrainz.org/work/ef2d042c-622b-4cd2-8751-e7abbacc0ac5","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ef2d042c-622b-4cd2-8751-e7abbacc0ac5","externalLink":"https://musicbrainz.org/work/ef2d042c-622b-4cd2-8751-e7abbacc0ac5","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ce-7f0f-793e-b26f-73eda4d9bf32"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"sia-thistles"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Thistles"}
 {"type":"page-type/song"}
