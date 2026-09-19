@@ -8,6 +8,9 @@ export const selectionPolicy = {
   extends: ["page-type/page"],
   parts: [
     "number-property/bouts-without-progress",
+    "number-property/minutes-raising",
+    "number-property/minutes-staying-warm",
+    "number-property/mobilising-movements",
     "number-property/near-failure-rpe-floor",
     "number-property/novelty-cap-per-session",
     "number-property/recency-saturation-days",
@@ -39,6 +42,9 @@ export const selectionPolicy = {
     { pageProperty: "number-property/reps-before-slowing", required: true, many: false },
     { pageProperty: "number-property/warmup-load-share", required: true, many: false },
     { pageProperty: "number-property/warmup-reps", required: true, many: false },
+    { pageProperty: "number-property/minutes-staying-warm", required: true, many: false },
+    { pageProperty: "number-property/minutes-raising", required: true, many: false },
+    { pageProperty: "number-property/mobilising-movements", required: true, many: false },
   ],
   decisions: [
     {

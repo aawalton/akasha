@@ -1,4 +1,7 @@
 import type { BoutsWithoutProgress } from "akasha/alan/value/health/fitness/selection-policy/properties/bouts-without-progress.number-property.types.ts"
+import type { MinutesRaising } from "akasha/alan/value/health/fitness/selection-policy/properties/minutes-raising.number-property.types.ts"
+import type { MinutesStayingWarm } from "akasha/alan/value/health/fitness/selection-policy/properties/minutes-staying-warm.number-property.types.ts"
+import type { MobilisingMovements } from "akasha/alan/value/health/fitness/selection-policy/properties/mobilising-movements.number-property.types.ts"
 import type { NearFailureRpeFloor } from "akasha/alan/value/health/fitness/selection-policy/properties/near-failure-rpe-floor.number-property.types.ts"
 import type { NoveltyCapPerSession } from "akasha/alan/value/health/fitness/selection-policy/properties/novelty-cap-per-session.number-property.types.ts"
 import type { RecencySaturationDays } from "akasha/alan/value/health/fitness/selection-policy/properties/recency-saturation-days.number-property.types.ts"
@@ -31,4 +34,7 @@ export type SelectionPolicy = Page & {
   repsBeforeSlowing: RepsBeforeSlowing
   warmupLoadShare: WarmupLoadShare
   warmupReps: WarmupReps
+  minutesStayingWarm: MinutesStayingWarm
+  minutesRaising: MinutesRaising
+  mobilisingMovements: MobilisingMovements
 }

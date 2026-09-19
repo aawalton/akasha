@@ -19,4 +19,7 @@ export const selectionPolicy = {
   repsBeforeSlowing: 20,
   warmupLoadShare: 0.5,
   warmupReps: 10,
+  minutesStayingWarm: 15,
+  minutesRaising: 5,
+  mobilisingMovements: 2,
 } as const satisfies SelectionPolicy
