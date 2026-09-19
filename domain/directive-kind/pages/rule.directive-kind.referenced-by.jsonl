@@ -37,5 +37,6 @@
 {"propertySlug":"directive-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"directive-kind","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"directive-kind","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}
+{"propertySlug":"directive-kind","path":"persona/pages/aelwyn/aelwyn.persona.ts","id":"019eb83a-d8b0-740f-bb4e-2363dde26ac3"}
 {"propertySlug":"directive-kind","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"parts","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
