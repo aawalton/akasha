@@ -6,4 +6,5 @@ export const kofi = {
   slug: "kofi",
   definition:
     "the account Alan's products call for backing on, and what Ko-fi does with that backing",
+  parts: ["domain/contribution-point", "domain/contributor"],
 } as const satisfies Domain
