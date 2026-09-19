@@ -32,7 +32,7 @@ function as__TS__Promise<T>(this: void, value: PromiseLike<T>): __TS__Promise<T>
   return value as __TS__Promise<T>
 }
 
-function Awaited<T>(this: void, value: T | PromiseLike<T>): Awaited<T> {
+function awaited<T>(this: void, value: T | PromiseLike<T>): Awaited<T> {
   return value as Awaited<T>
 }
 
@@ -58,7 +58,7 @@ export class __TS__Promise<T> implements Promise<T> {
       return value
     }
     const promise = new __TS__Promise<Awaited<T>>(doNothing)
-    promise.state = { tag: "fulfilled", value: Awaited(value) }
+    promise.state = { tag: "fulfilled", value: awaited(value) }
     return promise
   }
 
