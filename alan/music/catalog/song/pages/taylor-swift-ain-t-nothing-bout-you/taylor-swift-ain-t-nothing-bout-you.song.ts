@@ -4,16 +4,15 @@ export const taylorSwiftAinTNothingBoutYou = {
   id: "019ea416-139d-7ec4-86fc-c6f91793a265",
   type: "page-type/song",
   slug: "taylor-swift-ain-t-nothing-bout-you",
-  title: "Ain’t Nothing ’bout You",
-  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "c1cffe5a-e174-4d17-bcbe-3d076cb50af2",
       externalLink: "https://musicbrainz.org/work/c1cffe5a-e174-4d17-bcbe-3d076cb50af2",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "Ain’t Nothing ’bout You",
+  artist: "artist/taylor-swift",
   performed: true,
 } as const satisfies Song

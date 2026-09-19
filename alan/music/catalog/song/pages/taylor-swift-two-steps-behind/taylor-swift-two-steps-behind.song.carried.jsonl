@@ -1,8 +1,7 @@
 {"artist":"artist/taylor-swift"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"daf6e75b-b440-334c-99fb-b0af4fb08dd2","externalLink":"https://musicbrainz.org/work/daf6e75b-b440-334c-99fb-b0af4fb08dd2","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"daf6e75b-b440-334c-99fb-b0af4fb08dd2","externalLink":"https://musicbrainz.org/work/daf6e75b-b440-334c-99fb-b0af4fb08dd2","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea416-4b76-7644-9d58-0fde6820ecaf"}
 {"performed":true}
 {"slug":"taylor-swift-two-steps-behind"}
-{"songType":"derivative"}
 {"title":"Two Steps Behind"}
 {"type":"page-type/song"}

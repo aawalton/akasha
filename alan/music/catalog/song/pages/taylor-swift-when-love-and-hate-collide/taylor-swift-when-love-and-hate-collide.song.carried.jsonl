@@ -1,11 +1,10 @@
 {"artist":"artist/taylor-swift"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"1fa03e3f-2016-3c2d-8d5c-7af4eff7786d","externalLink":"https://musicbrainz.org/work/1fa03e3f-2016-3c2d-8d5c-7af4eff7786d","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"1fa03e3f-2016-3c2d-8d5c-7af4eff7786d","externalLink":"https://musicbrainz.org/work/1fa03e3f-2016-3c2d-8d5c-7af4eff7786d","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea416-43b9-7750-8af4-af43a01a11f9"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"taylor-swift-when-love-and-hate-collide"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"When Love and Hate Collide"}
 {"type":"page-type/song"}

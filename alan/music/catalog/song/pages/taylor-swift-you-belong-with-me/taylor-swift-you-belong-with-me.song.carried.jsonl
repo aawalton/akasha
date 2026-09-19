@@ -1,11 +1,11 @@
 {"artist":"artist/taylor-swift"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"4f0b6123-2bbd-3672-a928-b1949a42654d","externalLink":"https://musicbrainz.org/work/4f0b6123-2bbd-3672-a928-b1949a42654d","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"4f0b6123-2bbd-3672-a928-b1949a42654d","externalLink":"https://musicbrainz.org/work/4f0b6123-2bbd-3672-a928-b1949a42654d","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea416-456d-79b3-9f81-296b185f8212"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"taylor-swift-you-belong-with-me"}
-{"songType":"original"}
+{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"You Belong with Me"}
 {"type":"page-type/song"}

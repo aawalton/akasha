@@ -1,11 +1,10 @@
 {"artist":"artist/taylor-swift"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"e0c92588-ed77-487b-b327-a9c7bbb324fd","externalLink":"https://musicbrainz.org/work/e0c92588-ed77-487b-b327-a9c7bbb324fd","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e0c92588-ed77-487b-b327-a9c7bbb324fd","externalLink":"https://musicbrainz.org/work/e0c92588-ed77-487b-b327-a9c7bbb324fd","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea416-3ec2-7c2b-88e6-4ee9e073ceae"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"taylor-swift-the-joker-and-the-queen"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"The Joker and the Queen"}
 {"type":"page-type/song"}

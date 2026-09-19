@@ -2794,6 +2794,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-ain-t-nothing-bout-you/taylor-swift-ain-t-nothing-bout-you.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-all-night-diner/taylor-swift-all-night-diner.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-all-of-the-girls-you-loved-before/taylor-swift-all-of-the-girls-you-loved-before.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-all-too-well-jakes-version/taylor-swift-all-too-well-jakes-version.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-all-too-well/taylor-swift-all-too-well.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-all-you-had-to-do-was-stay/taylor-swift-all-you-had-to-do-was-stay.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-american-boy/taylor-swift-american-boy.song.ts"}
@@ -2949,6 +2950,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-karma/taylor-swift-karma.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-king-of-my-heart/taylor-swift-king-of-my-heart.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-labyrinth/taylor-swift-labyrinth.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-last-christmas/taylor-swift-last-christmas.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-last-kiss/taylor-swift-last-kiss.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-lavender-haze/taylor-swift-lavender-haze.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-loml/taylor-swift-loml.song.ts"}
@@ -2959,6 +2961,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-love-story/taylor-swift-love-story.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-love-they-haven-t-thought-of-yet/taylor-swift-love-they-haven-t-thought-of-yet.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-love/taylor-swift-love.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-lover-remix/taylor-swift-lover-remix.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-lover/taylor-swift-lover.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-lucky-you/taylor-swift-lucky-you.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-mad-woman/taylor-swift-mad-woman.song.ts"}
@@ -3000,6 +3003,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-peter/taylor-swift-peter.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-photograph/taylor-swift-photograph.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-picture-to-burn/taylor-swift-picture-to-burn.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-polkamania/taylor-swift-polkamania.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-pour-some-sugar-on-me/taylor-swift-pour-some-sugar-on-me.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-pretty-words/taylor-swift-pretty-words.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-question/taylor-swift-question.song.ts"}
@@ -3010,10 +3014,12 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-riptide/taylor-swift-riptide.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-robin/taylor-swift-robin.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-ronan/taylor-swift-ronan.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-royals/taylor-swift-royals.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-ruin-the-friendship/taylor-swift-ruin-the-friendship.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-run/taylor-swift-run.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-sad-beautiful-tragic/taylor-swift-sad-beautiful-tragic.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-safe-sound/taylor-swift-safe-sound.song.ts"}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-santa-baby/taylor-swift-santa-baby.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-say-don-t-go/taylor-swift-say-don-t-go.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-september/taylor-swift-september.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/taylor-swift-seven/taylor-swift-seven.song.ts"}
