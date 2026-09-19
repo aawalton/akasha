@@ -1,3 +1,7 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type {
@@ -24,9 +28,9 @@ export const FOOD_ENTRIES_AT = "alan/track/food-entry/pages/"
 
 const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
-const PUT = "change-mechanical/add-file-of-any-kind"
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const TAKE = "change-mechanical-file/remove-file"
+const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const NOTHING = "nothing was composed to land"
 

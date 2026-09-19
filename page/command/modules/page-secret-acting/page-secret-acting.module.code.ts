@@ -1,5 +1,9 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import type {
   Asking,
   Landing,
@@ -109,9 +113,9 @@ function messageFor(saying: Saying, target: Target, act: string): string {
   return `page secret ${act} ${named}`
 }
 
-export const PUT = "change-mechanical/add-file-of-any-kind"
+export const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-export const TAKE = "change-mechanical-file/remove-file"
+export const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const NOTHING_WRITTEN = "nothing was written"
 

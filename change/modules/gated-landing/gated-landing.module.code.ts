@@ -1,3 +1,6 @@
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -25,9 +28,9 @@ export type Landed =
   | { readonly ok: true; readonly sha: string | null; readonly unpushed: string | null }
   | { readonly ok: false; readonly why: string }
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
-const TAKE = "change-mechanical-file/remove-file"
+const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 function rootOf(act: GatedAct): string {
   return act.root ?? rootFor(resolveRoots(), act.repo)

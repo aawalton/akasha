@@ -1,3 +1,6 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -7,9 +10,9 @@ import {
   type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
-const PUT = "change-mechanical/add-file-of-any-kind"
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const TAKE = "change-mechanical/remove-file-of-any-kind"
+const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 export type Wrote =
   | { readonly landed: readonly string[]; readonly wrong: readonly string[] }

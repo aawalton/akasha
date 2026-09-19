@@ -1,3 +1,6 @@
+import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   type Asking,
@@ -53,9 +56,9 @@ const APART = "\n\n---\n\n"
 
 const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
-const PUT = "change-mechanical-file/add-if-not-present-file"
+const PUT = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
 
-const TAKE = "change-mechanical-file/remove-file"
+const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE }>
 
