@@ -16,5 +16,10 @@ export const apiWatcherUpsertPricingSnapshot = {
       decisionKind: "decision-kind/departure",
       statement: "This route answers 410 once the watcher token is judged.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The word snapshot here is the retired caller's address rather than this domain's name.",
+    },
   ],
 } as const satisfies Route
