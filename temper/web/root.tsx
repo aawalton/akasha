@@ -46,16 +46,19 @@ import {
   Meta,
   type MetaFunction,
   Outlet,
+  redirect,
   Scripts,
   ScrollRestoration,
   useRouteLoaderData,
 } from "react-router"
 
+const HOME_PATH = "/home"
+
 const AUTH_CONFIG: AuthRouteConfig = {
   signInPath: "/sign-in",
   authPaths: ["/sign-in", "/sign-up"],
   internalApiPaths: ["/api/", "/companion-build/h/", "/character-build/h/", /^\/$/, /^\/handover$/],
-  rootRedirects: { authenticated: "/home" },
+  rootRedirects: { authenticated: HOME_PATH },
   signInOnInvalidSession: true,
 }
 
@@ -69,7 +72,13 @@ export const meta: MetaFunction = () => [
 export async function loader({ request, context }: LoaderFunctionArgs<AppLoadContext>) {
   const nonce = typeof context.nonce === "string" ? context.nonce : undefined
   const guard = await authGuard(request, AUTH_CONFIG)
-  if (!(guard instanceof Response)) return data({ nonce }, { headers: guard.headers })
+  if (!(guard instanceof Response)) {
+    const atRoot = new URL(request.url).pathname === "/"
+    if (atRoot && (await signedInAs(TEMPER_SITE, request)) !== null) {
+      return redirect(HOME_PATH, { headers: guard.headers })
+    }
+    return data({ nonce }, { headers: guard.headers })
+  }
   if (!bouncedToSignIn(guard, AUTH_CONFIG.signInPath)) return guard
   if ((await signedInAs(TEMPER_SITE, request)) === null) return guard
   return data({ nonce }, { headers: passingOn(guard) })
