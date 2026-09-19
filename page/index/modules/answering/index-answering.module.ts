@@ -79,7 +79,6 @@ export const indexAnswering = {
       decisionKind: "decision-kind/departure",
       statement: "A question here taking no arguments is answered once and held.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "A page is answered by its path from the reader of page bodies bound here.",
