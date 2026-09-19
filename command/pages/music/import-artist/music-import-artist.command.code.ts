@@ -221,7 +221,13 @@ async function songLanded(
   return { edits, worded }
 }
 
-type Asked = { readonly slug: string; readonly fields: SongFields; readonly title: string }
+export type Asked = { readonly slug: string; readonly fields: SongFields; readonly title: string }
+
+export function oneEach(asked: readonly Asked[]): readonly Asked[] {
+  const held = new Map<string, Asked>()
+  for (const one of asked) if (!held.has(one.slug)) held.set(one.slug, one)
+  return [...held.values()]
+}
 
 export function askedOf(catalogue: Catalogue, artistSlug: string, fields: SongFields): Asked {
   const named = songIdIn(fields) ?? fields.title
@@ -256,16 +262,18 @@ async function songsAsked(
     const distinct = dedupeRecordings(recordings)
     const taking = held.limit === null ? distinct : distinct.slice(0, held.limit)
     return {
-      asked: taking.map((one) =>
-        askedOf(
-          catalogue,
-          artistSlug,
-          mbRecordingToSongFields({
-            title: one.title,
-            recordingId: one.recordingId,
+      asked: oneEach(
+        taking.map((one) =>
+          askedOf(
+            catalogue,
             artistSlug,
-            today,
-          })
+            mbRecordingToSongFields({
+              title: one.title,
+              recordingId: one.recordingId,
+              artistSlug,
+              today,
+            })
+          )
         )
       ),
       derivedFrom: "recordings",
@@ -274,17 +282,19 @@ async function songsAsked(
   const performed = performedWorkIds(recordings)
   const taking = held.limit === null ? works : works.slice(0, held.limit)
   return {
-    asked: taking.map((one) =>
-      askedOf(
-        catalogue,
-        artistSlug,
-        mbWorkToSongFields({
-          work: one,
+    asked: oneEach(
+      taking.map((one) =>
+        askedOf(
+          catalogue,
           artistSlug,
-          artistMbid: mbid,
-          performed: performed.has(one.id),
-          today,
-        })
+          mbWorkToSongFields({
+            work: one,
+            artistSlug,
+            artistMbid: mbid,
+            performed: performed.has(one.id),
+            today,
+          })
+        )
       )
     ),
     derivedFrom: "works",

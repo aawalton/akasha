@@ -7,6 +7,7 @@ export const musicImportArtist = {
   definition: "the command bringing an artist and every song of theirs in from MusicBrainz",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   maxWallSeconds: 600,
 
   decisions: [
@@ -71,6 +72,10 @@ export const musicImportArtist = {
       decisionKind: "decision-kind/departure",
       statement:
         "A song already filed under this artist with this title is filled in rather than filed twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Works one run files under one slug are one song, and the first of them is kept.",
     },
     {
       decisionKind: "decision-kind/departure",

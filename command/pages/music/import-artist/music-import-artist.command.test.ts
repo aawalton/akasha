@@ -2,12 +2,6 @@ import { expect, test } from "bun:test"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Catalogue } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
-import type { LrclibRecord } from "akasha/alan/music/catalog/modules/lrclib-schema/lrclib-schema.module.code.ts"
-import type {
-  MbArtist,
-  MbRecording,
-  MbWork,
-} from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import type {
   Asking,
@@ -26,66 +20,28 @@ import {
   gathered,
   jsonOf,
   musicImportArtist,
+  oneEach,
   type Reach,
   rowsOf,
   taken,
   WRITE,
 } from "akasha/command/pages/music/import-artist/music-import-artist.command.code.ts"
+import {
+  ARTIST,
+  ARTIST_NAME,
+  ARTIST_SLUG,
+  lyricsOf,
+  MBID,
+  recordingOf,
+  TODAY,
+  workOf,
+} from "akasha/command/pages/music/import-artist/music-import-artist.command.test-fixtures.ts"
 
 const ROOT = rootOf(process.cwd())
 
 const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, agentId: null }
 
-const MBID = "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
-
-const ARTIST_NAME = "Probe Artist Nine"
-
-const ARTIST_SLUG = "probe-artist-nine"
-
-const TODAY = "2026-09-02"
-
 const REACHED = "a reach was asked for what this test does not answer"
-
-const ARTIST: MbArtist = {
-  id: MBID,
-  name: ARTIST_NAME,
-  genres: [
-    { name: "folk", count: 9 },
-    { name: "ambient", count: 2 },
-  ],
-}
-
-function workOf(id: string, title: string): MbWork {
-  return {
-    id,
-    title,
-    relations: [
-      { type: "writer", "target-type": "artist", artist: { id: MBID, name: ARTIST_NAME } },
-    ],
-  }
-}
-
-function recordingOf(id: string, title: string, workId: string | null): MbRecording {
-  return {
-    id,
-    title,
-    relations:
-      workId === null
-        ? []
-        : [{ type: "performance", "target-type": "work", work: { id: workId, title } }],
-  }
-}
-
-function lyricsOf(title: string): LrclibRecord {
-  return {
-    id: 1,
-    trackName: title,
-    artistName: ARTIST_NAME,
-    instrumental: false,
-    plainLyrics: `the words of ${title}\n`,
-    syncedLyrics: `[00:01.00] the words of ${title}\n`,
-  }
-}
 
 function reachOf(over: Partial<Reach>): Reach {
   const nothing = async () => {
@@ -293,6 +249,17 @@ test("a song no title of this artist names is filed under a slug of its own", ()
   expect(askedOf(catalogue, ARTIST_SLUG, fieldsOf("w-2", "Second Probe")).slug).toBe(
     `${ARTIST_SLUG}-second-probe`
   )
+})
+
+test("two works of one title already filed are brought in as one song", () => {
+  const filed = `${ARTIST_SLUG}-first-probe`
+  const catalogue = catalogueOf(filed, "First Probe")
+  const both = [
+    askedOf(catalogue, ARTIST_SLUG, fieldsOf("w-1", "First Probe")),
+    askedOf(catalogue, ARTIST_SLUG, fieldsOf("w-2", "First Probe")),
+  ]
+  expect(both.map((one) => one.slug)).toEqual([filed, filed])
+  expect(oneEach(both).length).toBe(1)
 })
 
 test("a limit caps how many songs are brought in", async () => {
