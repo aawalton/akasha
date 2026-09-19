@@ -8,9 +8,9 @@ export const emberInventoryRules = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "One word names a reading of the inventory, in a slug as in the prose.",
+      statement: "The web shows the inventory an account's last reading landed.",
       workingMemory:
-        "Met but for one site. The command is `akasha temper inventory reading`, the modules are inventory-reading and watcher-inventory-landing, the account property is reading-locations, an hour's rows are readings over 873 files, and every failure kind and player-facing message says reading. Mending rename-page-property-property-slug to carry an entry shape's rows is what unblocked the 873. Left: the pricing route keeps the word, being the retired caller's address, and its page says why.\n",
+        "Nothing shows it yet. `useInventory` asks for `temper-inventory-snapshot` and then `temper-inventory-chunk`, neither of which is a page type, so it answers null at fifteen call sites in eleven modules and every one of them draws an empty account. The reading is row files beside the account's `temper-account` page — reading-locations, bag-sizes, crafting-levels, placed-furnishings, currencies, stacks — with capturedAt and totalValue on the page and a data.json beside it.",
     },
   ],
   constraints: [
