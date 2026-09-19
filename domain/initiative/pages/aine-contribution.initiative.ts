@@ -31,7 +31,6 @@ export const aineContribution = {
         "A feature request names each contributor backing it and the points committed, most first.",
     },
     { statement: "An account newly made holds a hundred contribution points." },
-    { statement: "A contributor signs in at alanwalton.com with Google or with Discord." },
   ],
   constraints: [
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",

@@ -8,5 +8,6 @@ export const aineAuth = {
   persona: "persona/aine",
   intentStack: [
     { statement: "Anyone makes an account at alanwalton.com, and that account is a contributor." },
+    { statement: "A contributor signs in at alanwalton.com with Google or with Discord." },
   ],
 } as const satisfies Initiative
