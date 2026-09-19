@@ -1,9 +1,1 @@
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/+types/root.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/routes/audhdalan-api-errors/+types/audhdalan-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/routes/audhdalan-api-health/+types/audhdalan-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/routes/audhdalan-api-subscribe/+types/audhdalan-api-subscribe.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/routes/audhdalan-autcon-2026/+types/audhdalan-autcon-2026.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/routes/audhdalan-home/+types/audhdalan-home.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"product/audhdalan/web/.react-router/types/routes/audhdalan-safety-levels/+types/audhdalan-safety-levels.route.code.ts"}
-{"propertySlug":"import","fileName":"root.tsx","path":"product/audhdalan/web/.react-router/types/+routes.ts"}
 {"propertySlug":"parts","path":"product/audhdalan/audhdalan.domain.ts","id":"01a06558-c2cc-7000-8cc9-fca361852367"}

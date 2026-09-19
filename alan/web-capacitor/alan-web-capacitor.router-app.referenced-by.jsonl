@@ -1,13 +1,1 @@
-{"propertySlug":"import","fileName":"_app-layout.js","path":"alan/web-capacitor/.react-router/types/routes/+types/_app-layout.ts"}
-{"propertySlug":"import","fileName":"_app-layout.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-home/+types/alan-web-capacitor-home.route.code.ts"}
-{"propertySlug":"import","fileName":"_app-layout.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-page-detail/+types/alan-web-capacitor-page-detail.route.code.ts"}
-{"propertySlug":"import","fileName":"_app-layout.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-page-listing/+types/alan-web-capacitor-page-listing.route.code.ts"}
-{"propertySlug":"import","fileName":"_app-layout.tsx","path":"alan/web-capacitor/.react-router/types/+routes.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"alan/web-capacitor/.react-router/types/+types/root.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"alan/web-capacitor/.react-router/types/routes/+types/_app-layout.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-home/+types/alan-web-capacitor-home.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-page-detail/+types/alan-web-capacitor-page-detail.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-page-listing/+types/alan-web-capacitor-page-listing.route.code.ts"}
-{"propertySlug":"import","fileName":"root.js","path":"alan/web-capacitor/.react-router/types/routes/alan-web-capacitor-sign-in/+types/alan-web-capacitor-sign-in.route.code.ts"}
-{"propertySlug":"import","fileName":"root.tsx","path":"alan/web-capacitor/.react-router/types/+routes.ts"}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
