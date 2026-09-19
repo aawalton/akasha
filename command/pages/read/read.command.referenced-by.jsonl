@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"read.command.code.ts","path":"command/pages/read/read.command.test.ts"}
 {"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/pages/read/read.command.test.ts"}
+{"propertySlug":"import","fileName":"read.command.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"read.command.ts","path":"command/pages/read/read.command.code.ts"}
 {"propertySlug":"import","fileName":"read.command.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

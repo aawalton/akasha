@@ -5,10 +5,13 @@ import {
   placeReasonIn,
   reasonIn,
 } from "akasha/check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.code.ts"
+import { read as readCommand } from "akasha/command/pages/read/read.command.ts"
 
 const ROOT = { folder: PAGES_AT, slug: null }
 
-const READ = { folder: "command/pages/read", beside: true }
+const READ_AT = `${PAGES_AT}/${readCommand.slug}` as const
+
+const READ = { folder: READ_AT, beside: true }
 
 const CALENDAR = { folder: "command/pages/google/calendar", slug: "google-calendar" }
 
@@ -86,7 +89,7 @@ test("a module in a folder directly inside the folder of the command naming it i
 test("a module beside the command naming it rather than under it is refused", () => {
   const said = moduleReasonIn("command/pages/read/humming.module.ts", READ)
 
-  expect(said).toContain("command/pages/read")
+  expect(said).toContain(READ_AT)
 })
 
 test("a module one folder too deep under the command naming it is refused", () => {
@@ -97,7 +100,7 @@ test("a module one folder too deep under the command naming it is refused", () =
 
 test("a module under a page that is no command and no namespace is refused", () => {
   const at = "command/pages/read/humming/humming.module.ts"
-  const said = moduleReasonIn(at, { folder: "command/pages/read", beside: false })
+  const said = moduleReasonIn(at, { folder: READ_AT, beside: false })
 
   expect(said).toContain("named by the command or the namespace beside it")
 })
@@ -126,7 +129,7 @@ test("a module whose name carries a word of a folder above it is let through", (
 })
 
 const LEVELS = new Set<string>([
-  "command/pages/read",
+  READ_AT,
   "command/pages/google",
   "command/pages/google/calendar",
   "command/pages/google/calendar/event",
@@ -175,7 +178,7 @@ test("a module reached from a module counts that module's level", () => {
 
 test("a module two commands under different namespaces reach belongs in the modules folder", () => {
   const at = "command/pages/read/humming/humming.module.ts"
-  const reaching = ["command/pages/read", "command/pages/google/drive"]
+  const reaching = [READ_AT, "command/pages/google/drive"]
   const said = placeReasonIn(at, { levels: LEVELS, reaching })
 
   expect(said).toContain("command/modules")
