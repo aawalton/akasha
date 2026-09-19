@@ -23,4 +23,5 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "eyetoeyelive|7FQRbf8gbKw8KZQZAJWxH2|232386",
+  song: "song/paul-cardall-eye-to-eye",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022WeDontTalkAboutCovid = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "wedonttalkaboutcovid|6tITG4T8LpC0msapZ4wXGA|160056",
+  song: "song/the-holderness-family-we-dont-talk-about-covid",
 } as const satisfies Track

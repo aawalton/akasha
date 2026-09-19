@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetINeedTheeEveryHour = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ineedtheeeveryhour|7FQRbf8gbKw8KZQZAJWxH2|202631",
+  song: "song/paul-cardall-i-need-thee-every-hour",
 } as const satisfies Track

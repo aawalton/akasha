@@ -28,4 +28,5 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
     { externalId: "7z5WFjZAIYejWy0NI5lv4T", artistName: "Dan + Shay" },
   ],
   trackKey: "thatsnothowthisworksfeatdanshay|6VuMaDnrHyPL1p4EHjYLi7,7z5WFjZAIYejWy0NI5lv4T|165619",
+  song: "song/sabrina-carpenter-thats-not-how-this-works",
 } as const satisfies Track

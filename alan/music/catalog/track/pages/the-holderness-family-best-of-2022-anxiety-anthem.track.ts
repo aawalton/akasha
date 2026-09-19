@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022AnxietyAnthem = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "anxietyanthem|6tITG4T8LpC0msapZ4wXGA|147096",
+  song: "song/the-holderness-family-anxiety-anthem",
 } as const satisfies Track

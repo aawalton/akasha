@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionLandOfOurAncestorsSoloPianoVer
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "landofourancestorssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|171451",
+  song: "song/paul-cardall-land-of-our-ancestors",
 } as const satisfies Track

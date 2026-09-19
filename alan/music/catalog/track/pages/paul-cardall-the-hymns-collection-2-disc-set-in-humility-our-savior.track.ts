@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetInHumilityOurSavior = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "inhumilityoursavior|7FQRbf8gbKw8KZQZAJWxH2|285910",
+  song: "song/paul-cardall-in-humility-our-savior",
 } as const satisfies Track

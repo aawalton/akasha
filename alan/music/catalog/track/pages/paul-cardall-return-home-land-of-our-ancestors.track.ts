@@ -23,4 +23,5 @@ export const paulCardallReturnHomeLandOfOurAncestors = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "landofourancestors|7FQRbf8gbKw8KZQZAJWxH2|193914",
+  song: "song/paul-cardall-land-of-our-ancestors",
 } as const satisfies Track

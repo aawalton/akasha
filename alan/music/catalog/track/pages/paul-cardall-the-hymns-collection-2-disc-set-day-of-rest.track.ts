@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetDayOfRest = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "dayofrest|7FQRbf8gbKw8KZQZAJWxH2|159503",
+  song: "song/paul-cardall-day-of-rest",
 } as const satisfies Track

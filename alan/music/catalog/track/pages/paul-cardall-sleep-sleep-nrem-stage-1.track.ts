@@ -23,4 +23,5 @@ export const paulCardallSleepSleepNremStage1 = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sleepnremstage1|7FQRbf8gbKw8KZQZAJWxH2|1292194",
+  song: "song/paul-cardall-sleep-nrem-stage-1",
 } as const satisfies Track

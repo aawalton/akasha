@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionRedPoppyFieldsSoloPianoVersion
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "redpoppyfieldssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|197989",
+  song: "song/paul-cardall-red-poppy-fields",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetAbideWithMeTisEventide = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "abidewithmetiseventide|7FQRbf8gbKw8KZQZAJWxH2|140120",
+  song: "song/paul-cardall-abide-with-me-tis-eventide",
 } as const satisfies Track

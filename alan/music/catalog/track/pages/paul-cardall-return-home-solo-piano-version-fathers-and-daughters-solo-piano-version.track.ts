@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionFathersAndDaughtersSoloPianoVe
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fathersanddaughterssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|246125",
+  song: "song/paul-cardall-fathers-and-daughters",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022AWholeNewWordle = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "awholenewwordle|6tITG4T8LpC0msapZ4wXGA|155808",
+  song: "song/the-holderness-family-a-whole-new-wordle",
 } as const satisfies Track

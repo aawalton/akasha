@@ -26,4 +26,5 @@ export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
     { externalId: "2C9n4tQgNLhHPhSCmdsQnk", artistName: "David Archuleta" },
   ],
   trackKey: "myheartbeatsforyou|2C9n4tQgNLhHPhSCmdsQnk,7FQRbf8gbKw8KZQZAJWxH2|214146",
+  song: "song/paul-cardall-my-heart-beats-for-you",
 } as const satisfies Track

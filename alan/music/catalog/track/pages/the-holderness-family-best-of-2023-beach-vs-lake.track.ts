@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2023BeachVsLake = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "beachvslake|6tITG4T8LpC0msapZ4wXGA|174048",
+  song: "song/the-holderness-family-beach-vs-lake",
 } as const satisfies Track

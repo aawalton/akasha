@@ -23,4 +23,5 @@ export const paulCardallTheLookingGlassQuayesTheme = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "quayestheme|7FQRbf8gbKw8KZQZAJWxH2|226626",
+  song: "song/paul-cardall-quayes-theme",
 } as const satisfies Track

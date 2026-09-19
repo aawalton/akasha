@@ -26,4 +26,5 @@ export const paulCardallTheBrokenMiracleSomeKindOfWonderful = {
     { externalId: "1Fj0R2t4HaJa3oUe8azB8R", artistName: "Ty Herndon" },
   ],
   trackKey: "somekindofwonderful|1Fj0R2t4HaJa3oUe8azB8R,7FQRbf8gbKw8KZQZAJWxH2|232253",
+  song: "song/paul-cardall-some-kind-of-wonderful",
 } as const satisfies Track

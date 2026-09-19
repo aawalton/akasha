@@ -23,4 +23,5 @@ export const paulCardallPeacefulPianoDanceOfTheLiving = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "danceoftheliving|7FQRbf8gbKw8KZQZAJWxH2|215266",
+  song: "song/paul-cardall-dance-of-the-living",
 } as const satisfies Track

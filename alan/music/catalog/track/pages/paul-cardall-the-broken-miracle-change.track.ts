@@ -26,4 +26,5 @@ export const paulCardallTheBrokenMiracleChange = {
     { externalId: "2MA2dqcGvuj6b7lZwppAb6", artistName: "Trevor Price" },
   ],
   trackKey: "change|2MA2dqcGvuj6b7lZwppAb6,7FQRbf8gbKw8KZQZAJWxH2|299146",
+  song: "song/paul-cardall-change",
 } as const satisfies Track

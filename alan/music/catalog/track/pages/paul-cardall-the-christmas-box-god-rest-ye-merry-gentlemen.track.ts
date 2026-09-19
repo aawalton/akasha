@@ -23,4 +23,5 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godrestyemerrygentlemen|7FQRbf8gbKw8KZQZAJWxH2|141173",
+  song: "song/paul-cardall-god-rest-ye-merry-gentlemen",
 } as const satisfies Track

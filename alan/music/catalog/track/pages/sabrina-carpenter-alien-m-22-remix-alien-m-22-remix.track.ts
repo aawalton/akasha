@@ -28,4 +28,5 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
   ],
   trackKey:
     "alienm22remix|1HBjj22wzbscIZ9sEb5dyf,4WFtYn5RyU8VGPpPyW9Pxw,74KM79TiuVKeVCqs8QtB0B|205199",
+  song: "song/sabrina-carpenter-alien-m-22-remix",
 } as const satisfies Track

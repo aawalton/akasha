@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionShropshireHillsSoloPianoVersio
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "shropshirehillssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|190500",
+  song: "song/paul-cardall-shropshire-hills",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionCastlesAndCathedralsSoloPianoV
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "castlesandcathedralssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|290000",
+  song: "song/paul-cardall-castles-and-cathedrals",
 } as const satisfies Track

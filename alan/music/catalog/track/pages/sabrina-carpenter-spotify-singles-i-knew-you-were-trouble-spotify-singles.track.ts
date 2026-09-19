@@ -23,4 +23,5 @@ export const sabrinaCarpenterSpotifySinglesIKnewYouWereTroubleSpotifySingles = {
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "iknewyouweretroublespotifysingles|74KM79TiuVKeVCqs8QtB0B|233617",
+  song: "song/sabrina-carpenter-i-knew-you-were-trouble-spotify-singles",
 } as const satisfies Track

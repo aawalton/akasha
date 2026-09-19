@@ -23,4 +23,5 @@ export const paulCardallWhereCanITurnForPeaceWhereCanITurnForPeace = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wherecaniturnforpeace|7FQRbf8gbKw8KZQZAJWxH2|235000",
+  song: "song/paul-cardall-where-can-i-turn-for-peace",
 } as const satisfies Track

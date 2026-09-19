@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2023AlanisMorissetteNarratesYourDay = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "alanismorissettenarratesyourday|6tITG4T8LpC0msapZ4wXGA|268511",
+  song: "song/the-holderness-family-alanis-morissette-narrates-your-day",
 } as const satisfies Track

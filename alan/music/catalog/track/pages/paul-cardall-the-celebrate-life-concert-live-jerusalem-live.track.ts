@@ -26,4 +26,5 @@ export const paulCardallTheCelebrateLifeConcertLiveJerusalemLive = {
     { externalId: "0do1x1rbJllT74h9mwoB2U", artistName: "Peter Breinholt" },
   ],
   trackKey: "jerusalemlive|0do1x1rbJllT74h9mwoB2U,7FQRbf8gbKw8KZQZAJWxH2|359654",
+  song: "song/paul-cardall-jerusalem",
 } as const satisfies Track

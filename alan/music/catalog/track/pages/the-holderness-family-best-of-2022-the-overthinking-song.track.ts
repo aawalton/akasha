@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022TheOverthinkingSong = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "theoverthinkingsong|6tITG4T8LpC0msapZ4wXGA|153648",
+  song: "song/the-holderness-family-the-overthinking-song",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallSignOfAffection10thAnniversaryWintersWisp = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "winterswisp|7FQRbf8gbKw8KZQZAJWxH2|339400",
+  song: "song/paul-cardall-winters-wisp",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetGodBeWithYouTillWeMeetAgain = 
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godbewithyoutillwemeetagain|7FQRbf8gbKw8KZQZAJWxH2|199706",
+  song: "song/paul-cardall-god-be-with-you-till-we-meet-again",
 } as const satisfies Track

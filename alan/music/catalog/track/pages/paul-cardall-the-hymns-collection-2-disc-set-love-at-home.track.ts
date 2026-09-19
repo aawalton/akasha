@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetLoveAtHome = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "loveathome|7FQRbf8gbKw8KZQZAJWxH2|228884",
+  song: "song/paul-cardall-love-at-home",
 } as const satisfies Track

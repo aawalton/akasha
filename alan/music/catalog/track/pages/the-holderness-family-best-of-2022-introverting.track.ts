@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022Introverting = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "introverting|6tITG4T8LpC0msapZ4wXGA|141816",
+  song: "song/the-holderness-family-introverting",
 } as const satisfies Track

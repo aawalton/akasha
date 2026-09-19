@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionImmigrantShipsSoloPianoVersion
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "immigrantshipssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|193500",
+  song: "song/paul-cardall-immigrant-ships",
 } as const satisfies Track

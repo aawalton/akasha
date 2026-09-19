@@ -28,4 +28,5 @@ export const paulCardallTheBrokenMiracleWeCouldBeKind = {
   ],
   trackKey:
     "wecouldbekind|1PdisgvacJ6lqkRwiCasuU,3nNqVtVWWbakB2px2HphUw,7FQRbf8gbKw8KZQZAJWxH2|192546",
+  song: "song/paul-cardall-we-could-be-kind",
 } as const satisfies Track

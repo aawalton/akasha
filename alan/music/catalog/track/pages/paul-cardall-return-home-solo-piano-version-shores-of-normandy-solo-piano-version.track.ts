@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "shoresofnormandysolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|247330",
+  song: "song/paul-cardall-shores-of-normandy",
 } as const satisfies Track

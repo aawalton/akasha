@@ -29,4 +29,5 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   ],
   trackKey:
     "takeontheworldthemesongfromgirlmeetsworld|45af7IeC0N5gQ9cyoIFyS6,74KM79TiuVKeVCqs8QtB0B|192640",
+  song: "song/sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
 } as const satisfies Track

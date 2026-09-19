@@ -23,4 +23,5 @@ export const paulCardallPrimaryWorshipOhWhatDoYouDoInTheSummertime = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ohwhatdoyoudointhesummertime|7FQRbf8gbKw8KZQZAJWxH2|172187",
+  song: "song/paul-cardall-oh-what-do-you-do-in-the-summertime",
 } as const satisfies Track

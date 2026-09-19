@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetComeFollowMe = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comefollowme|7FQRbf8gbKw8KZQZAJWxH2|160052",
+  song: "song/paul-cardall-come-follow-me",
 } as const satisfies Track

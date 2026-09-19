@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionLoveOneAnotherSoloPianoVersion
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "loveoneanothersolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|242000",
+  song: "song/paul-cardall-love-one-another",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022GenXSummer = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "genxsummer|6tITG4T8LpC0msapZ4wXGA|176688",
+  song: "song/the-holderness-family-gen-x-summer",
 } as const satisfies Track

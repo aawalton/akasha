@@ -23,4 +23,5 @@ export const paulCardallTheChristmasBoxTheWidowsMansion = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thewidowsmansion|7FQRbf8gbKw8KZQZAJWxH2|207506",
+  song: "song/paul-cardall-the-widows-mansion",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
   ],
   trackKey:
     "illbehomeforchristmas|5uLFfLEAeIwKrgRtpfKAzq,6KxBixTtWRYyojmIvlFvjD,74KM79TiuVKeVCqs8QtB0B|215132",
+  song: "song/sabrina-carpenter-ill-be-home-for-christmas",
 } as const satisfies Track

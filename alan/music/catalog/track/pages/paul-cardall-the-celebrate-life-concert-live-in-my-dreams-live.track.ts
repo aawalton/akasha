@@ -26,4 +26,5 @@ export const paulCardallTheCelebrateLifeConcertLiveInMyDreamsLive = {
     { externalId: "7muihwIKkXMGBY7gcIvPJI", artistName: "Charley Jenkins" },
   ],
   trackKey: "inmydreamslive|7FQRbf8gbKw8KZQZAJWxH2,7muihwIKkXMGBY7gcIvPJI|228023",
+  song: "song/paul-cardall-in-my-dreams",
 } as const satisfies Track

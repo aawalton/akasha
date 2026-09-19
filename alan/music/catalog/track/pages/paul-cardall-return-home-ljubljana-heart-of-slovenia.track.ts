@@ -23,4 +23,5 @@ export const paulCardallReturnHomeLjubljanaHeartOfSlovenia = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ljubljanaheartofslovenia|7FQRbf8gbKw8KZQZAJWxH2|235437",
+  song: "song/paul-cardall-ljubljana-heart-of-slovenia",
 } as const satisfies Track

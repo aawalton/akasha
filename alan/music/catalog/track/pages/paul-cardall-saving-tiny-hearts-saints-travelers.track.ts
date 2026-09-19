@@ -23,4 +23,5 @@ export const paulCardallSavingTinyHeartsSaintsTravelers = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "saintstravelers|7FQRbf8gbKw8KZQZAJWxH2|93786",
+  song: "song/paul-cardall-saints-travelers",
 } as const satisfies Track

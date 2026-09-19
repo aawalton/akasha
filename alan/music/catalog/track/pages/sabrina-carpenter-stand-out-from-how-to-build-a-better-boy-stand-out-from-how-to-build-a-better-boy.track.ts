@@ -23,4 +23,5 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "standoutfromhowtobuildabetterboy|74KM79TiuVKeVCqs8QtB0B|208826",
+  song: "song/sabrina-carpenter-stand-out-from-how-to-build-a-better-boy",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bookofmormonstories|7FQRbf8gbKw8KZQZAJWxH2|407333",
+  song: "song/paul-cardall-book-of-mormon-stories",
 } as const satisfies Track

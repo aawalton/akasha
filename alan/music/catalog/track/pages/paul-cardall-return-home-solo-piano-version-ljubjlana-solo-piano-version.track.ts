@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionLjubjlanaSoloPianoVersion = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ljubjlanasolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|233812",
+  song: "song/paul-cardall-ljubjlana",
 } as const satisfies Track

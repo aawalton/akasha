@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetFiresideMedleyRememberMeIBelie
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "firesidemedleyremembermeibelieveinchristcomethoufou|7FQRbf8gbKw8KZQZAJWxH2|285283",
+  song: "song/paul-cardall-fireside-medley-remember-me-i-believe-in-christ-come-thou-fou",
 } as const satisfies Track

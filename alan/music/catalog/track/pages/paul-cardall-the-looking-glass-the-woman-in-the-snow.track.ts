@@ -23,4 +23,5 @@ export const paulCardallTheLookingGlassTheWomanInTheSnow = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thewomaninthesnow|7FQRbf8gbKw8KZQZAJWxH2|223066",
+  song: "song/paul-cardall-the-woman-in-the-snow",
 } as const satisfies Track

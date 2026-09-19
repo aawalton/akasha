@@ -23,4 +23,5 @@ export const paulCardallSignOfAffection10thAnniversaryWithoutYou = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "withoutyou|7FQRbf8gbKw8KZQZAJWxH2|175866",
+  song: "song/paul-cardall-without-you",
 } as const satisfies Track

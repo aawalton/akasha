@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "issheatthegame|6tITG4T8LpC0msapZ4wXGA|141480",
+  song: "song/the-holderness-family-is-she-at-the-game",
 } as const satisfies Track

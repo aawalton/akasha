@@ -23,4 +23,5 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "therestorationmedleyjosephsfirstprayerpraisetotheman|7FQRbf8gbKw8KZQZAJWxH2|463516",
+  song: "song/paul-cardall-the-restoration-medley-josephs-first-prayer-praise-to-the-man",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const paulCardallTheBrokenMiracleBrokenMachine = {
     { externalId: "7w0qj2HiAPIeUcoPogvOZ6", artistName: "Rachael Yamagata" },
   ],
   trackKey: "brokenmachine|7FQRbf8gbKw8KZQZAJWxH2,7w0qj2HiAPIeUcoPogvOZ6|172733",
+  song: "song/paul-cardall-broken-machine",
 } as const satisfies Track

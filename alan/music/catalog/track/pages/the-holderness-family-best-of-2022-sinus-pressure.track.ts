@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022SinusPressure = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "sinuspressure|6tITG4T8LpC0msapZ4wXGA|184440",
+  song: "song/the-holderness-family-sinus-pressure",
 } as const satisfies Track

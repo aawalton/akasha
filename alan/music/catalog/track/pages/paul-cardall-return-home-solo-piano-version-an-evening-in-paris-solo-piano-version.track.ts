@@ -23,4 +23,5 @@ export const paulCardallReturnHomeSoloPianoVersionAnEveningInParisSoloPianoVersi
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "aneveninginparissolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|305029",
+  song: "song/paul-cardall-an-evening-in-paris",
 } as const satisfies Track

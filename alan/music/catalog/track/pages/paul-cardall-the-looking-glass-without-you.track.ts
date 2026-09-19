@@ -23,4 +23,5 @@ export const paulCardallTheLookingGlassWithoutYou = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "withoutyou|7FQRbf8gbKw8KZQZAJWxH2|205543",
+  song: "song/paul-cardall-without-you",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkItLetMeMoveYouFro
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "letmemoveyoufromthenetflixfilmworkit|74KM79TiuVKeVCqs8QtB0B|147070",
+  song: "song/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardallTheBrokenMiracleForBetterOrWorse = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "forbetterorworse|7FQRbf8gbKw8KZQZAJWxH2|159760",
+  song: "song/paul-cardall-for-better-or-worse",
 } as const satisfies Track

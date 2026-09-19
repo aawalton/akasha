@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "everytriptocostco|6tITG4T8LpC0msapZ4wXGA|162840",
+  song: "song/the-holderness-family-every-trip-to-costco",
 } as const satisfies Track

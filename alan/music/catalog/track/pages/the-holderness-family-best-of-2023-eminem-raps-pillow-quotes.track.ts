@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2023EminemRapsPillowQuotes = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "eminemrapspillowquotes|6tITG4T8LpC0msapZ4wXGA|167688",
+  song: "song/the-holderness-family-eminem-raps-pillow-quotes",
 } as const satisfies Track

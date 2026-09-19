@@ -26,4 +26,5 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
     { externalId: "0Bvs8yPjrQSbmVIRqSg1Sp", artistName: "Thompson Square" },
   ],
   trackKey: "themanwithhalfaheart|0Bvs8yPjrQSbmVIRqSg1Sp,7FQRbf8gbKw8KZQZAJWxH2|259385",
+  song: "song/paul-cardall-the-man-with-half-a-heart",
 } as const satisfies Track

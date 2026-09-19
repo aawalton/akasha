@@ -26,4 +26,5 @@ export const paulCardallTheBrokenMiracleTheBrokenMiracle = {
     { externalId: "0o77vi5tCsW348tzvdjNPw", artistName: "Matt Hammitt" },
   ],
   trackKey: "thebrokenmiracle|0o77vi5tCsW348tzvdjNPw,7FQRbf8gbKw8KZQZAJWxH2|192946",
+  song: "song/paul-cardall-the-broken-miracle",
 } as const satisfies Track

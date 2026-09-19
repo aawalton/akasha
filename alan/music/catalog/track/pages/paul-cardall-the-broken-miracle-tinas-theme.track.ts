@@ -23,4 +23,5 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "tinastheme|7FQRbf8gbKw8KZQZAJWxH2|219693",
+  song: "song/paul-cardall-tinas-theme",
 } as const satisfies Track

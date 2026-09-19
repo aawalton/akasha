@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022OdeToPickleball = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "odetopickleball|6tITG4T8LpC0msapZ4wXGA|187488",
+  song: "song/the-holderness-family-ode-to-pickleball",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const theHoldernessFamilyBestOf2022DontYouForgetTheTurkey = {
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "dontyouforgettheturkey|6tITG4T8LpC0msapZ4wXGA|187776",
+  song: "song/the-holderness-family-dont-you-forget-the-turkey",
 } as const satisfies Track
