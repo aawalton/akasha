@@ -1,16 +1,14 @@
 import {
+  type Answer,
+  type FileChange,
   gathered,
   notText,
   refusing,
   replayed,
+  type Splice,
   splicedIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { carriedBy } from "akasha/change/modules/file-carrying/file-carrying.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {

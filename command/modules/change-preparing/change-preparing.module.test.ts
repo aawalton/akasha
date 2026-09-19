@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {

@@ -1,7 +1,6 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {

@@ -6,7 +6,7 @@ import {
   readingIn,
   sameBody,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   AGENT,

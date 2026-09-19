@@ -1,8 +1,11 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
-import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  gathered,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { statedIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
   carrying,

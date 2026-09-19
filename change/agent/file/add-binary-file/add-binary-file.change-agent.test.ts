@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { addBinaryFileCommand } from "akasha/change/agent/file/add-binary-file/add-binary-file.change-agent.code.ts"
-import { NOT_TEXT } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Held } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type Held, NOT_TEXT } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const BYTES = "temper/collections-addon/Icons/book1.dds"

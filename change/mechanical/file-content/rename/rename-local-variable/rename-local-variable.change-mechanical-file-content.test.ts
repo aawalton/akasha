@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { renameLocalVariable } from "akasha/change/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "/repo/one.ts"

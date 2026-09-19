@@ -1,25 +1,14 @@
-import type {
-  Adding,
-  Answer,
-  Appending,
-  Bringing,
-  FileChange,
-  Held,
-  Moving,
-  NotText,
-  Removing,
-  Replacing,
-  Replayed,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { meantSaid } from "akasha/text/writing/modules/suggest-closest/suggest-closest.module.code.ts"
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
 
 const NOT_TEXT_ENDED = "is not text, so nothing is put at the end of it"
 
+export type NotText = { readonly notText: true }
+
 export const NOT_TEXT: NotText = { notText: true }
+
+export type Held = string | NotText
 
 export type BodyOf = (path: string) => Held | null
 
@@ -39,9 +28,16 @@ export type Leaving = {
 
 export type Expanded = { readonly left: Leaving } | { readonly refused: string }
 
+export type Answer = {
+  readonly edits: readonly FileChange[]
+  readonly refused: string | null
+}
+
 export function refusing(why: string): Answer {
   return { edits: [], refused: why }
 }
+
+export type FileChange = Adding | Appending | Replacing | Removing | Moving | Bringing
 
 export function pathsOf(one: FileChange): readonly string[] {
   return one.kind === "move" ? [one.pathFrom, one.pathTo] : [one.path]
@@ -65,6 +61,8 @@ export function untaken(key: string, takes: readonly string[]): string {
     meantSaid(key, takes)
   )
 }
+
+export type Said = Answer
 
 export function stating(edits: readonly FileChange[]): Said {
   return { edits, refused: null }
@@ -93,6 +91,12 @@ function windowed(text: string, from: number, to: number): readonly [number, num
     shut = closing(text, Math.min(shut + 1, text.length))
   }
   return [start, shut]
+}
+
+export type Splice = {
+  readonly from: number
+  readonly to: number
+  readonly put: string
 }
 
 export function spliced(path: string, text: string, splice: Splice): readonly FileChange[] {
@@ -158,11 +162,23 @@ export function splicedIn(
   return splicing(path, text, held)
 }
 
+export type Adding = Reading & {
+  readonly kind: "add"
+  readonly path: string
+  readonly content: string
+}
+
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
   if (holds(textOf(one.path))) {
     return { refused: `\`${one.path}\` holds a body already, so nothing is added` }
   }
   return { left: { path: one.path, body: one.content } }
+}
+
+export type Appending = Reading & {
+  readonly kind: "append"
+  readonly path: string
+  readonly content: string
 }
 
 function appendedIn(one: Appending, textOf: BodyOf): Expanded {
@@ -174,6 +190,13 @@ function appendedIn(one: Appending, textOf: BodyOf): Expanded {
     return { refused: `\`${one.path}\` ${NOT_TEXT_ENDED}` }
   }
   return { left: { path: one.path, body: `${text ?? ""}${one.content}` } }
+}
+
+export type Replacing = Reading & {
+  readonly kind: "replace"
+  readonly path: string
+  readonly contentFrom: string
+  readonly contentTo: string
 }
 
 function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
@@ -202,12 +225,23 @@ function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
   return { left: { path: one.path, body } }
 }
 
+export type Removing = Reading & {
+  readonly kind: "remove"
+  readonly path: string
+}
+
 function removedIn(one: Removing, textOf: BodyOf): Expanded {
   const text = textOf(one.path)
   if (text === null) {
     return { refused: `\`${one.path}\` holds no body, so nothing is taken away` }
   }
   return { left: { path: one.path, body: null } }
+}
+
+export type Moving = Reading & {
+  readonly kind: "move"
+  readonly pathFrom: string
+  readonly pathTo: string
 }
 
 function movedIn(one: Moving, textOf: BodyOf): Expanded {
@@ -219,6 +253,11 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
     return { refused: `\`${one.pathTo}\` holds a body already, so nothing is moved there` }
   }
   return { left: { path: one.pathTo, body: text, from: one.pathFrom } }
+}
+
+export type Bringing = Reading & {
+  readonly kind: "bring"
+  readonly path: string
 }
 
 function broughtIn(one: Bringing, textOf: BodyOf): Expanded {
@@ -237,6 +276,8 @@ export function expanded(one: FileChange, textOf: BodyOf): Expanded {
   if (one.kind === "move") return movedIn(one, textOf)
   return broughtIn(one, textOf)
 }
+
+export type Replayed = ReadonlyMap<string, Held | null>
 
 export function replayed(said: Said, textOf: BodyOf): Replayed | { readonly refused: string } {
   const held = new Map<string, Held | null>()
@@ -258,3 +299,10 @@ export function gathered(answers: readonly Answer[]): Answer {
   }
   return { edits, refused: null }
 }
+
+export type Reading = {
+  readonly readersOweReading?: boolean
+  readonly writerOwesReading?: boolean
+}
+
+export type Bodies = ReadonlyMap<string, string | null>

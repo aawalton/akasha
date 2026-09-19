@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
-import { stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type FileChange, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { literalIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
   editsFor,

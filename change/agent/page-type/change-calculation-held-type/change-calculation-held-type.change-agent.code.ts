@@ -1,6 +1,6 @@
 import { changeCalculationHeldType as changeCalculationHeldTypeMechanical } from "akasha/change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts"
 import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_HELD_TYPE =

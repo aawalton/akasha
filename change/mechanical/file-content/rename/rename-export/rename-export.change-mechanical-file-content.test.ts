@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { renameExport } from "akasha/change/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type Answer, pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodiesIn } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { bodyAt } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { NOWHERE } from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"

@@ -1,7 +1,10 @@
 import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { renamePageType as renamePageTypeMechanical } from "akasha/change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 

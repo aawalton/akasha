@@ -1,4 +1,4 @@
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"

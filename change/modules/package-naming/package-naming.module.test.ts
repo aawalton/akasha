@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Splice } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   nameFor,
   spelledAnew,

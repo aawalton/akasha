@@ -1,18 +1,16 @@
 import { basename, dirname, join, relative } from "node:path"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import {
+  type Answer,
+  type FileChange,
   gathered,
   pathsIn,
   refusing,
+  type Splice,
   splicedIn,
   splicing,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { exportRenamed } from "akasha/change/modules/export-renaming/export-renaming.module.code.ts"
 import {
   carriedBy,

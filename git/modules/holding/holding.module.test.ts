@@ -9,7 +9,7 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"

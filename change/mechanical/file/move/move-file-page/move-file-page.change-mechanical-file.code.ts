@@ -3,8 +3,11 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { moveFileCode } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.ts"
-import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  gathered,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Given, Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import { unwarrantedIn } from "akasha/command/modules/warrant-owing/warrant-owing.module.code.ts"
 

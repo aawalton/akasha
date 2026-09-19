@@ -1,8 +1,11 @@
 import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
 import { changePagePagePropertyRelation } from "akasha/change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { readFor, targetsIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { manyIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"

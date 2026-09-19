@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { sidecarsOver } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import {
   filePropertiesAt,

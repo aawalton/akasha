@@ -1,14 +1,12 @@
 import {
+  type FileChange,
   refusing,
+  type Said,
+  type Splice,
   spliced,
   splicedIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { without } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
 import { afterIn, holdsIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {

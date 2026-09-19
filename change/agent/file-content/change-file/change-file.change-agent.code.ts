@@ -1,7 +1,10 @@
 import { changeFileContentOfAnyKind } from "akasha/change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   facingHeld,
   reach,

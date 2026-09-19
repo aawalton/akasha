@@ -3,7 +3,7 @@ import {
   outsideTracked,
   trackedIn,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { MECHANICAL_KIND } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { commitMessage } from "akasha/command/argument/pages/commit-message.argument.ts"

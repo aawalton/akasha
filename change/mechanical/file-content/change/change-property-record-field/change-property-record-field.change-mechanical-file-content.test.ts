@@ -3,7 +3,7 @@ import {
   fieldRestated,
   type Named,
 } from "akasha/change/mechanical/file-content/change/change-property-record-field/change-property-record-field.change-mechanical-file-content.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/held/kept.module.ts"

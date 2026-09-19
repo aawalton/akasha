@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   EVERY_KIND,

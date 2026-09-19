@@ -2,7 +2,7 @@ import { changeFileContent } from "akasha/change/mechanical/file-content/change/
 import { changeFileContentCode } from "akasha/change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.ts"
 import { changeFileContentPage } from "akasha/change/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 

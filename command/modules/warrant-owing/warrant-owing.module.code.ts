@@ -1,5 +1,4 @@
-import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Given, Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   changingOf,

@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type BodyOf,
   expanded,
+  type FileChange,
   gathered,
   NOT_TEXT,
   replayed,
@@ -9,7 +10,6 @@ import {
   splicedIn,
   splicing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/one/held.ts"

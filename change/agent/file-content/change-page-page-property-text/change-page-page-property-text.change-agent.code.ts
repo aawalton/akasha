@@ -1,7 +1,10 @@
 import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { readFor } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

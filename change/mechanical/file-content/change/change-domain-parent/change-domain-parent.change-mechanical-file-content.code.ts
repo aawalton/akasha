@@ -2,8 +2,11 @@ import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-p
 import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { removePropertyValue } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts"
-import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  gathered,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   afterIn,
   heldIn,

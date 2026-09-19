@@ -1,4 +1,4 @@
-import type { Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"

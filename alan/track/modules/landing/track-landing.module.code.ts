@@ -2,8 +2,7 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
-import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type {
   Asking,
   Landing,

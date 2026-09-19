@@ -1,6 +1,10 @@
 import { join } from "node:path"
-import { refusing, untaken } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer, Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  refusing,
+  type Said,
+  untaken,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { dropped } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
 import { facingHeld, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"

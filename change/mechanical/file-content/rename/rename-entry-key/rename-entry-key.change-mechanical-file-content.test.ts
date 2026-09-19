@@ -3,7 +3,7 @@ import {
   respelled,
   runChange,
 } from "akasha/change/mechanical/file-content/rename/rename-entry-key/rename-entry-key.change-mechanical-file-content.code.ts"
-import type { Answer, Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyOf,
   worldOf,

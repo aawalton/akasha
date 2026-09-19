@@ -1,8 +1,11 @@
 import { basename, dirname, join } from "node:path"
 import { changeMechanicalFolder } from "akasha/change/mechanical/folder/change-mechanical-folder.page-type.ts"
 import { moveFolder } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts"
-import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  gathered,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 

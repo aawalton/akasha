@@ -1,8 +1,11 @@
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
-import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  gathered,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"

@@ -1,5 +1,8 @@
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  refusing,
+  type Said,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsOver } from "akasha/change/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { carriedIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"

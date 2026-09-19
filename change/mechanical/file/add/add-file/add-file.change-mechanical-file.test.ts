@@ -3,7 +3,7 @@ import {
   type Asked,
   runChange,
 } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 

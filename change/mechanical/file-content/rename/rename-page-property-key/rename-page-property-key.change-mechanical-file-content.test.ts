@@ -4,7 +4,7 @@ import {
   runChange,
 } from "akasha/change/mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.code.ts"
 import { BODY } from "akasha/change/mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.test-fixtures.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyOf,
   worldOf,

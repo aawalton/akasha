@@ -2,7 +2,7 @@ import type {
   Adding,
   FileChange,
   Replacing,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import {
   baseOf,

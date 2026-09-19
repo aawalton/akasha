@@ -4,7 +4,7 @@ import {
   movedValue,
   placesOf,
 } from "akasha/change/mechanical/file-content/move/move-property-value/move-property-value.change-mechanical-file-content.code.ts"
-import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Said } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/held/kept.module.ts"

@@ -2,16 +2,14 @@ import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
+  type Answer,
   type BodyOf,
+  type FileChange,
   gathered,
+  type Held,
   NOT_TEXT,
+  type Reading,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Held,
-  Reading,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { decodeUtf8 } from "akasha/code/body/modules/utf8-body/utf8-body.module.code.ts"
 import { sizeOnDisk } from "akasha/file/disk/modules/file-size/file-size.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"

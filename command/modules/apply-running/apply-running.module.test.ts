@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, symlinkSync } from "node:fs"
 import { linkFor, linksAt } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   appendEdits,
   editsIn,

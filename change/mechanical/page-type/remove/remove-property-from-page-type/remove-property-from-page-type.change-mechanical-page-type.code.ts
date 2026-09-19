@@ -1,5 +1,8 @@
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  refusing,
+  type Said,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {
   editsFor,

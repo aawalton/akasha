@@ -1,12 +1,12 @@
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { removeExportKeyword } from "akasha/change/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.ts"
 import {
+  type Answer,
   gathered,
   missing,
   refusing,
   untaken,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { droppableIn } from "akasha/change/modules/export-keyword/export-keyword.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {

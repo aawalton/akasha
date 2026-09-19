@@ -1,4 +1,4 @@
-import type { Splice } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 

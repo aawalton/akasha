@@ -11,7 +11,7 @@ import {
   sameBody,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { slugOf } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   againOf,
   callOf,

@@ -1,6 +1,6 @@
 import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ADD_FILE = `${changeMechanicalFile.slug}/${addFile.slug}` as const

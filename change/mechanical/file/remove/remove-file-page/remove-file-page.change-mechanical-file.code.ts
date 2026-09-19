@@ -4,11 +4,11 @@ import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mecha
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { removeFileCode } from "akasha/change/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.ts"
 import {
+  type Answer,
   gathered,
   refusing,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {

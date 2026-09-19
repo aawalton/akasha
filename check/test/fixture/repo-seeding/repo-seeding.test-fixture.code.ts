@@ -1,6 +1,6 @@
 import { cpSync, existsSync } from "node:fs"
 import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Phase } from "akasha/check/modules/checking/checking.module.code.ts"
 import { bytesOf as bytes } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {

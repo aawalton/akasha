@@ -1,6 +1,6 @@
 import { addFilePropertyExtensions as addFilePropertyExtensionsMechanical } from "akasha/change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.ts"
 import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ADD_EXTENSIONS =

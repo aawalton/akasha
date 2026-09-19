@@ -1,5 +1,8 @@
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  refusing,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,

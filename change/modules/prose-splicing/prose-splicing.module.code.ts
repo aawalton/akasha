@@ -1,9 +1,10 @@
 import {
   refusing,
+  type Said,
+  type Splice,
   spliced,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Said, Splice } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   listIn,
   matchingIn,

@@ -1,6 +1,10 @@
 import { join, relative } from "node:path"
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  type FileChange,
+  refusing,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {

@@ -1,5 +1,8 @@
-import { splicedIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange, Splice } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type FileChange,
+  type Splice,
+  splicedIn,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   inOrder,
   without,

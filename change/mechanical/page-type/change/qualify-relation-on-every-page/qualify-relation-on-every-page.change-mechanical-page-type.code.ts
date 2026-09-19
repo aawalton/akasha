@@ -1,13 +1,11 @@
 import {
+  type FileChange,
   refusing,
+  type Said,
+  type Splice,
   splicedIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { valuesWrittenAnewInEntries } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import {
   keyOf,

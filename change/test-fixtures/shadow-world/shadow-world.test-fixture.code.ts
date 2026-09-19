@@ -2,12 +2,12 @@ import { expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  type Answer,
   type BodyOf,
   refusing,
   replayed,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   ledgerAt,

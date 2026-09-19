@@ -5,8 +5,12 @@ import {
   LEFT_BY,
   seatEditsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { type BodyOf, expanded } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange, Held } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type BodyOf,
+  expanded,
+  type FileChange,
+  type Held,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   appendEdits,
   bodyIn,

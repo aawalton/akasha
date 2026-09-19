@@ -1,13 +1,11 @@
 import {
+  type FileChange,
   refusing,
+  type Said,
+  type Splice,
   spliced,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { listIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"

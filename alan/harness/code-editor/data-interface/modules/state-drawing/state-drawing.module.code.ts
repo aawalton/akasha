@@ -5,7 +5,7 @@ import {
   type FindingNode,
 } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { pageAnswers } from "akasha/command/pages/page/tree/page-tree.command.code.ts"

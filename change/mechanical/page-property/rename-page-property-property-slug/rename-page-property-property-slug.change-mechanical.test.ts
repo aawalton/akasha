@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import { renamePagePropertyPropertySlug } from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"
-import { pathsIn, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  pathsIn,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,

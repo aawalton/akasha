@@ -4,8 +4,11 @@ import {
   parentsOf,
   runChange,
 } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
-import { pathsIn, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  pathsIn,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,

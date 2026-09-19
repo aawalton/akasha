@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { ignoredUnder, trackedUnder } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {

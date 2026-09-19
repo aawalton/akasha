@@ -1,7 +1,10 @@
 import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { removeEveryPageOfAType as removeEveryPageOfATypeMechanical } from "akasha/change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 

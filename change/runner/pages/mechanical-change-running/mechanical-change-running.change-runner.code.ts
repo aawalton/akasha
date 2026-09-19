@@ -1,5 +1,4 @@
-import { gathered } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type Answer, gathered } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   ledgerAt,

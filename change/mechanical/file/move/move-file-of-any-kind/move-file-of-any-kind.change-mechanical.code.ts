@@ -5,7 +5,7 @@ import { moveFileCode } from "akasha/change/mechanical/file/move/move-file-code/
 import { moveFilePage } from "akasha/change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.ts"
 import { moveFilePageProperty } from "akasha/change/mechanical/file/move/move-file-page-property/move-file-page-property.change-mechanical.ts"
 import { moveFilePageType } from "akasha/change/mechanical/file/move/move-file-page-type/move-file-page-type.change-mechanical.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 

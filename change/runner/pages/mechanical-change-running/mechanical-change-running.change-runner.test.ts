@@ -3,8 +3,11 @@ import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-cod
 import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer as Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  refusing,
+  type Answer as Said,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { ledgerAt, type Reaching } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   type Asking,

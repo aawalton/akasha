@@ -1,4 +1,4 @@
-import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"

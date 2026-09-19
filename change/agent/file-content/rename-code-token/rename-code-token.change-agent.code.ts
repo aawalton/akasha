@@ -2,12 +2,12 @@ import { changeMechanicalFileContent } from "akasha/change/mechanical/file-conte
 import { renameExport } from "akasha/change/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.ts"
 import { renameLocalVariable } from "akasha/change/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.ts"
 import {
+  type Answer,
   gathered,
   missing,
   pathsIn,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   declaredNamed,

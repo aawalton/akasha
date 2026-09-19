@@ -1,15 +1,13 @@
 import { dirname, join } from "node:path"
 import {
+  type FileChange,
   missing,
   refusing,
+  type Said,
+  type Splice,
   splicing,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"

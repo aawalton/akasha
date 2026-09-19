@@ -1,6 +1,5 @@
 import { rgPath } from "@vscode/ripgrep"
-import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type Answer, leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"

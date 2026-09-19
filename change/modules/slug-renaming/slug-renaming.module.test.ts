@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,

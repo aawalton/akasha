@@ -1,15 +1,13 @@
 import {
   type BodyOf,
+  type Bringing,
+  type FileChange,
   NOT_TEXT,
   notText,
   pathsOf,
   replayed,
+  type Answer as Said,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Bringing,
-  FileChange,
-  Answer as Said,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"

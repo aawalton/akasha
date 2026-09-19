@@ -2,11 +2,11 @@ import { basename, dirname, join } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { moveFileOfAnyKind } from "akasha/change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.ts"
 import {
+  type Answer,
   gathered,
   missing,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 

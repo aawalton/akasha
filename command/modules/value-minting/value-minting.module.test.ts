@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   identified,

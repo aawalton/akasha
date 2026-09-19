@@ -1,4 +1,4 @@
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"

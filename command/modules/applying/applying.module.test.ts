@@ -3,7 +3,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   applied,

@@ -1,9 +1,9 @@
 import {
   refusing,
+  type Said,
   spliced,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { statedIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"

@@ -1,10 +1,11 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf, replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Answer as Said,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type FileChange,
+  pathsOf,
+  replayed,
+  type Answer as Said,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyIn,
   foldedIn,

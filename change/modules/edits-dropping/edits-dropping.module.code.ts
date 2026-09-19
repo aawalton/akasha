@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { appendOnlyIn } from "akasha/page/index/modules/file-appending/file-appending.module.code.ts"
 import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 

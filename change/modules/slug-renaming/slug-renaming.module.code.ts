@@ -1,15 +1,13 @@
 import {
+  type FileChange,
   gathered,
   pathsIn,
   refusing,
+  type Said,
+  type Splice,
   splicedIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { exportRenamed } from "akasha/change/modules/export-renaming/export-renaming.module.code.ts"
 import { readFor } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {

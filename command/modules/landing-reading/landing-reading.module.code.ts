@@ -4,7 +4,7 @@ import {
   carryReadings,
   dropReadings,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 

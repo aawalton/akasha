@@ -1,18 +1,16 @@
 import {
+  type Answer,
+  type Bodies,
   type BodyOf,
+  type FileChange,
   gathered,
+  type Held,
   notText,
   pathsIn,
+  type Replayed,
   refusing,
   replayed,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  Bodies,
-  FileChange,
-  Held,
-  Replayed,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   type Naming,
   namesOver,

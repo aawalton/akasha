@@ -6,7 +6,7 @@ import {
   seatEditsAt,
   seatReadsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 
 export const SEAT = "agent/seat/pages/tester/tester.seat.ts"
 

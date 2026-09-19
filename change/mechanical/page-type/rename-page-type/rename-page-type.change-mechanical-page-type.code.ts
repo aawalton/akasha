@@ -3,17 +3,15 @@ import {
   restatedOver,
 } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import {
+  type Answer,
+  type FileChange,
   gathered,
   pathsIn,
   refusing,
+  type Splice,
   splicedIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { exportRenamed } from "akasha/change/modules/export-renaming/export-renaming.module.code.ts"
 import { carriedBy } from "akasha/change/modules/file-carrying/file-carrying.module.code.ts"
 import { statedIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"

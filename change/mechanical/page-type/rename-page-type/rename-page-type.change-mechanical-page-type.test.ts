@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { renamePageType } from "akasha/change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"
 import { OWNED_LANDS_AT } from "akasha/change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test-fixtures.ts"
-import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer, Bodies } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  type Bodies,
+  pathsIn,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodiesIn, worldAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import {

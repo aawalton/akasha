@@ -1,13 +1,11 @@
 import {
+  type Answer,
+  type FileChange,
   refusing,
+  type Splice,
   splicedIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { keysGoingInEntries } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import { without } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"

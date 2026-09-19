@@ -1,7 +1,10 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { moveCodeExport } from "akasha/change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const FROM = "from"

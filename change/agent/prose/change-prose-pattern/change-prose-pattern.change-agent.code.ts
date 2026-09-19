@@ -1,7 +1,10 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { changeProsePattern as changeProsePatternMechanical } from "akasha/change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts"
-import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  missing,
+  refusing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import type { Pattern } from "akasha/domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"
 import {

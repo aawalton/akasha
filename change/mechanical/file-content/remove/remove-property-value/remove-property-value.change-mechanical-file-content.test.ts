@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { removePropertyValue } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type Answer, pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyOf,
   declaring,

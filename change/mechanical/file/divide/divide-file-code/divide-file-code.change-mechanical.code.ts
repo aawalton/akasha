@@ -1,7 +1,11 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  type FileChange,
+  refusing,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   passagesOf,
   plannedCarrying,

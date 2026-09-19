@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { pageTypeRestated } from "akasha/change/modules/page-type-restating/page-type-restating.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 

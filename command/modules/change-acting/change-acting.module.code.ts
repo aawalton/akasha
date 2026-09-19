@@ -1,5 +1,8 @@
-import { leftAt, replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type FileChange,
+  leftAt,
+  replayed,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyIn,
   editsIn,

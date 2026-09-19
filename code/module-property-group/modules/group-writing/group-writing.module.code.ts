@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyFor,
   type Held,

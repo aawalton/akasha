@@ -1,4 +1,4 @@
-import type { Adding } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Adding } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { importedFrom, saidAs } from "akasha/page/modules/body/page-body.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"

@@ -3,11 +3,12 @@ import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mecha
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { runChange } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import {
+  type Answer,
   type BodyOf,
   gathered,
   leftAt,
+  type Moving,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer, Moving } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   type World,

@@ -1,5 +1,9 @@
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange, Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type FileChange,
+  refusing,
+  type Said,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"

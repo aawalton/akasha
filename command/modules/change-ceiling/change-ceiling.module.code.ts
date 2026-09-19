@@ -1,4 +1,4 @@
-import type { Answer as Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer as Said } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { closing, opening, type Taken } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { heldHere } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

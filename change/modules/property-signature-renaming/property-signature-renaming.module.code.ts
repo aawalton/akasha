@@ -1,14 +1,12 @@
 import {
+  type FileChange,
   pathsIn,
   refusing,
+  type Said,
+  type Splice,
   splicing,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   declaredNamed,

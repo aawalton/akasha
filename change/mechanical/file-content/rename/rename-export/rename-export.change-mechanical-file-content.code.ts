@@ -1,5 +1,4 @@
-import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { pathsIn, type Said } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { exportRenamed } from "akasha/change/modules/export-renaming/export-renaming.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {

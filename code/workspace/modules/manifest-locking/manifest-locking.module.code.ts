@@ -10,14 +10,14 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Adding,
-  FileChange,
-  Moving,
-  Removing,
-  Replacing,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Adding,
+  type FileChange,
+  type Moving,
+  pathsOf,
+  type Removing,
+  type Replacing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { argvFor } from "akasha/git/modules/running/git-running.module.code.ts"

@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type Answer,
+  refusing,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   ledgerAt,
   NOTHING_OVER,

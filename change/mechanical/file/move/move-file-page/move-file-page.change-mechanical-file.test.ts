@@ -6,7 +6,7 @@ import {
   landingFor,
   runChange,
 } from "akasha/change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,

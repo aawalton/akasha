@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { type FileChange, leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { notUtf8 } from "akasha/check/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { bytesAt, textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import {

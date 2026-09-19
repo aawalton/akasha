@@ -5,7 +5,7 @@ import type {
   Adding,
   Moving,
   Removing,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   carriesLock,

@@ -6,7 +6,6 @@ export const changeAnswer = {
   slug: "change-answer",
   definition: "the edits a change answers rather than writes",
   code: "ts",
-  types: "ts",
   test: "ts",
   decisions: [
     {

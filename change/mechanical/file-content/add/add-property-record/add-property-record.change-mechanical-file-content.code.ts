@@ -1,9 +1,9 @@
 import {
   refusing,
+  type Said,
   spliced,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   withProperty,
   withRecord,

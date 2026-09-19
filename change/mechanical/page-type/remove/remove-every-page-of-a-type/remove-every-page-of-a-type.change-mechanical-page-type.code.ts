@@ -1,5 +1,9 @@
-import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type { FileChange, Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  type FileChange,
+  refusing,
+  type Said,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {
