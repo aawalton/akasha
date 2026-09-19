@@ -26,4 +26,5 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
     { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
   ],
   trackKey: "miraclessomeonespecial|0c173mlxpT3dSFRgMO8XPh,4gzpq5DPGxSnKTe4SA8HAU|276906",
+  song: "song/coldplay-miracles-someone-special",
 } as const satisfies Track

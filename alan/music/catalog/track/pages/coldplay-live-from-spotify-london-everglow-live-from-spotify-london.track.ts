@@ -23,4 +23,5 @@ export const coldplayLiveFromSpotifyLondonEverglowLiveFromSpotifyLondon = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everglowlivefromspotifylondon|4gzpq5DPGxSnKTe4SA8HAU|255853",
+  song: "song/coldplay-everglow",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayLeftrightleftrightleftLiveGlassOfWaterLiveInSydney2009 = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "glassofwaterliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|284240",
+  song: "song/coldplay-glass-of-water",
 } as const satisfies Track

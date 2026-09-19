@@ -23,4 +23,5 @@ export const coldplayLeftrightleftrightleftLiveDeathWillNeverConquerLiveInSydney
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "deathwillneverconquerliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|99306",
+  song: "song/coldplay-death-will-never-conquer",
 } as const satisfies Track

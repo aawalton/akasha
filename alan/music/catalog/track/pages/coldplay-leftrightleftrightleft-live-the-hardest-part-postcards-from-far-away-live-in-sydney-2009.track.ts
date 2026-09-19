@@ -24,4 +24,5 @@ export const coldplayLeftrightleftrightleftLiveTheHardestPartPostcardsFromFarAwa
     explicit: false,
     trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
     trackKey: "thehardestpartpostcardsfromfarawayliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|255213",
+    song: "song/coldplay-the-hardest-part-postcards-from-far-away",
   } as const satisfies Track

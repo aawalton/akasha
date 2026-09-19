@@ -23,4 +23,5 @@ export const coldplayGodPutASmileUponYourFaceGodPutASmileUponYourFace = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "godputasmileuponyourface|4gzpq5DPGxSnKTe4SA8HAU|297306",
+  song: "song/coldplay-god-put-a-smile-upon-your-face",
 } as const satisfies Track

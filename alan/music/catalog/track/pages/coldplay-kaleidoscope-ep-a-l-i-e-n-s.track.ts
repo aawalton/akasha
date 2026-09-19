@@ -23,4 +23,5 @@ export const coldplayKaleidoscopeEpALIENS = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "aliens|4gzpq5DPGxSnKTe4SA8HAU|282426",
+  song: "song/coldplay-a-l-i-e-n-s",
 } as const satisfies Track

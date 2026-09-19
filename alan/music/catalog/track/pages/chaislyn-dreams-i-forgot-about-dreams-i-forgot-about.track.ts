@@ -23,4 +23,5 @@ export const chaislynDreamsIForgotAboutDreamsIForgotAbout = {
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "dreamsiforgotabout|3zmbniiciaBAJlSX1Bzq9R|211915",
+  song: "song/chaislyn-dreams-i-forgot-about",
 } as const satisfies Track

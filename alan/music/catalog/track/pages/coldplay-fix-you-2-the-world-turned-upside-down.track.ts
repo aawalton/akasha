@@ -23,4 +23,5 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "theworldturnedupsidedown|4gzpq5DPGxSnKTe4SA8HAU|272626",
+  song: "song/coldplay-the-world-turned-upside-down",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayFeelslikeimfallinginloveFeelslikeimfallinginloveSingleVersi
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "feelslikeimfallinginlovesingleversion|4gzpq5DPGxSnKTe4SA8HAU|237803",
+  song: "song/coldplay-feelslikeimfallinginlove",
 } as const satisfies Track

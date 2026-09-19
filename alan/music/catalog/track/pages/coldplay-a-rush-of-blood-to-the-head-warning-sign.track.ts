@@ -23,4 +23,5 @@ export const coldplayARushOfBloodToTheHeadWarningSign = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "warningsign|4gzpq5DPGxSnKTe4SA8HAU|331133",
+  song: "song/coldplay-warning-sign",
 } as const satisfies Track

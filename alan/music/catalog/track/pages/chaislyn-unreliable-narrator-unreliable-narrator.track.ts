@@ -23,4 +23,5 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "unreliablenarrator|3zmbniiciaBAJlSX1Bzq9R|165452",
+  song: "song/chaislyn-unreliable-narrator",
 } as const satisfies Track

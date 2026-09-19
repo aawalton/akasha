@@ -26,4 +26,5 @@ export const coldplayAllMyLovePnauXColdplayAllMyLovePnauXColdplay = {
     { externalId: "6n28c9qs9hNGriNa72b26u", artistName: "PNAU" },
   ],
   trackKey: "allmylovepnauxcoldplay|4gzpq5DPGxSnKTe4SA8HAU,6n28c9qs9hNGriNa72b26u|194560",
+  song: "song/coldplay-all-my-love-pnau-x-coldplay",
 } as const satisfies Track

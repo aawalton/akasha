@@ -23,4 +23,5 @@ export const coldplayEveryTeardropIsAWaterfall2EveryTeardropIsAWaterfall = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everyteardropisawaterfall|4gzpq5DPGxSnKTe4SA8HAU|243000",
+  song: "song/coldplay-every-teardrop-is-a-waterfall",
 } as const satisfies Track

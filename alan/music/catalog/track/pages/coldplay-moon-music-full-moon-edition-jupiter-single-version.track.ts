@@ -23,4 +23,5 @@ export const coldplayMoonMusicFullMoonEditionJupiterSingleVersion = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "jupitersingleversion|4gzpq5DPGxSnKTe4SA8HAU|173250",
+  song: "song/coldplay-jupiter",
 } as const satisfies Track

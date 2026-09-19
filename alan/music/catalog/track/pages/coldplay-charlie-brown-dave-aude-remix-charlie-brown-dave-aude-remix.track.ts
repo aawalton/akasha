@@ -26,4 +26,5 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
     { externalId: "1vWImodgVqIgTUkekGEfR9", artistName: "Dave Audé" },
   ],
   trackKey: "charliebrowndaveauderemix|1vWImodgVqIgTUkekGEfR9,4gzpq5DPGxSnKTe4SA8HAU|403842",
+  song: "song/coldplay-charlie-brown",
 } as const satisfies Track

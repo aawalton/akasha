@@ -26,4 +26,5 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
     { externalId: "5nPOO9iTcrs9k6yFffPxjH", artistName: "Röyksopp" },
   ],
   trackKey: "clocksroyksopptremblingheartmix|4gzpq5DPGxSnKTe4SA8HAU,5nPOO9iTcrs9k6yFffPxjH|344533",
+  song: "song/coldplay-clocks",
 } as const satisfies Track

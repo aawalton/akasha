@@ -29,4 +29,5 @@ export const coldplayMidnightRemixesMidnightGiorgioMoroderRemix = {
   ],
   trackKey:
     "midnightgiorgiomoroderremix|4gzpq5DPGxSnKTe4SA8HAU,6RqI7khBhEoxvoarTF71d1,6bCstT28hps6jk7uaROYJA,6jU2Tt13MmXYk0ZBv1KmfO|517745",
+  song: "song/coldplay-midnight",
 } as const satisfies Track

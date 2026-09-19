@@ -23,4 +23,5 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thegoldrush|4gzpq5DPGxSnKTe4SA8HAU|149253",
+  song: "song/coldplay-the-goldrush",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "inkliveatlecasinodeparisparis|4gzpq5DPGxSnKTe4SA8HAU|249360",
+  song: "song/coldplay-ink",
 } as const satisfies Track

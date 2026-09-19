@@ -28,4 +28,5 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGoKygoRemix = {
   ],
   trackKey:
     "letsomebodygokygoremix|0C8ZW7ezQVs4URX5aX7Kqx,23fqKkggKUBHNkbKtXEls4,4gzpq5DPGxSnKTe4SA8HAU|197267",
+  song: "song/coldplay-let-somebody-go",
 } as const satisfies Track

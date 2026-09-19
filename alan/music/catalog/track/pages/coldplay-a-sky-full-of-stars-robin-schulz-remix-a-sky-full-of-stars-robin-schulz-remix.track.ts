@@ -26,4 +26,5 @@ export const coldplayASkyFullOfStarsRobinSchulzRemixASkyFullOfStarsRobinSchulzRe
     { externalId: "3t5xRXzsuZmMDkQzgOX35S", artistName: "Robin Schulz" },
   ],
   trackKey: "askyfullofstarsrobinschulzremix|3t5xRXzsuZmMDkQzgOX35S,4gzpq5DPGxSnKTe4SA8HAU|363020",
+  song: "song/coldplay-a-sky-full-of-stars",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const coldplayAdventureOfALifetimeMatomaRemixAdventureOfALifetimeMatomaRe
     { externalId: "4YXycRbyyAE0wozTk7QMEq", artistName: "Matoma" },
   ],
   trackKey: "adventureofalifetimematomaremix|4YXycRbyyAE0wozTk7QMEq,4gzpq5DPGxSnKTe4SA8HAU|250714",
+  song: "song/coldplay-adventure-of-a-lifetime",
 } as const satisfies Track

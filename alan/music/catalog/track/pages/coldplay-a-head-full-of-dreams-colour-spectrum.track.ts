@@ -23,4 +23,5 @@ export const coldplayAHeadFullOfDreamsColourSpectrum = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "colourspectrum|4gzpq5DPGxSnKTe4SA8HAU|60106",
+  song: "song/coldplay-colour-spectrum",
 } as const satisfies Track

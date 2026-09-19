@@ -26,4 +26,5 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
     { externalId: "4gxmaAX3cWO9PUVmEYVAhd", artistName: "Alyx Ander" },
   ],
   trackKey: "higherpoweralyxanderremix|4gxmaAX3cWO9PUVmEYVAhd,4gzpq5DPGxSnKTe4SA8HAU|153629",
+  song: "song/coldplay-higher-power",
 } as const satisfies Track

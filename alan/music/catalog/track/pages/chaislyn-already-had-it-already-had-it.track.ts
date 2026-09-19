@@ -23,4 +23,5 @@ export const chaislynAlreadyHadItAlreadyHadIt = {
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "alreadyhadit|3zmbniiciaBAJlSX1Bzq9R|176842",
+  song: "song/chaislyn-already-had-it",
 } as const satisfies Track

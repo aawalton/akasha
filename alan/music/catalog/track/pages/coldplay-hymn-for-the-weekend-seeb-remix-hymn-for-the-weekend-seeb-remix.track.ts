@@ -26,4 +26,5 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
     { externalId: "5iNrZmtVMtYev5M9yoWpEq", artistName: "Seeb" },
   ],
   trackKey: "hymnfortheweekendseebremix|4gzpq5DPGxSnKTe4SA8HAU,5iNrZmtVMtYev5M9yoWpEq|212647",
+  song: "song/coldplay-hymn-for-the-weekend",
 } as const satisfies Track

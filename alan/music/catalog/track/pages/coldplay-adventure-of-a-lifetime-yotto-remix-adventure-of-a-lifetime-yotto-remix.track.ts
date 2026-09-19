@@ -26,4 +26,5 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
     { externalId: "5Dyfxq0ZrFjjeFBdSNxDbo", artistName: "YOTTO" },
   ],
   trackKey: "adventureofalifetimeyottoremix|4gzpq5DPGxSnKTe4SA8HAU,5Dyfxq0ZrFjjeFBdSNxDbo|229867",
+  song: "song/coldplay-adventure-of-a-lifetime",
 } as const satisfies Track

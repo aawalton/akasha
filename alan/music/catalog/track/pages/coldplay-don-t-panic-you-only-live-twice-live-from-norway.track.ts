@@ -23,4 +23,5 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "youonlylivetwicelivefromnorway|4gzpq5DPGxSnKTe4SA8HAU|246666",
+  song: "song/coldplay-you-only-live-twice",
 } as const satisfies Track

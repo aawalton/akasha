@@ -23,4 +23,5 @@ export const coldplayGhostStoriesLive2014AnothersArmsLiveAtTheBeaconTheatreNewYo
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "anothersarmsliveatthebeacontheatrenewyork|4gzpq5DPGxSnKTe4SA8HAU|235880",
+  song: "song/coldplay-anothers-arms",
 } as const satisfies Track

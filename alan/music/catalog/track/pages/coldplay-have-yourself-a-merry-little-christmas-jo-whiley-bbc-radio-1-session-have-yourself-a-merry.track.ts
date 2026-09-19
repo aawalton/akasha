@@ -26,4 +26,5 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1SessionHa
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey:
     "haveyourselfamerrylittlechristmasjowhileybbcradio1session|4gzpq5DPGxSnKTe4SA8HAU|139208",
+  song: "song/coldplay-have-yourself-a-merry-little-christmas",
 } as const satisfies Track

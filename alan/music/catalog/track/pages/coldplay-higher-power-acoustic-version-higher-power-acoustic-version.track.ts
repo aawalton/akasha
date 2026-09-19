@@ -23,4 +23,5 @@ export const coldplayHigherPowerAcousticVersionHigherPowerAcousticVersion = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "higherpoweracousticversion|4gzpq5DPGxSnKTe4SA8HAU|214427",
+  song: "song/coldplay-higher-power",
 } as const satisfies Track

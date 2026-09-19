@@ -23,4 +23,5 @@ export const coldplayGhostStoriesLive2014AlwaysInMyHeadLiveAtTheRoyalAlbertHallL
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "alwaysinmyheadliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|237266",
+  song: "song/coldplay-always-in-my-head",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayKaleidoscopeEpHypnotisedEpMix = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hypnotisedepmix|4gzpq5DPGxSnKTe4SA8HAU|391413",
+  song: "song/coldplay-hypnotised",
 } as const satisfies Track

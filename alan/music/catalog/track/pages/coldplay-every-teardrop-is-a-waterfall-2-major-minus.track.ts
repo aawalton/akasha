@@ -23,4 +23,5 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "majorminus|4gzpq5DPGxSnKTe4SA8HAU|210284",
+  song: "song/coldplay-major-minus",
 } as const satisfies Track

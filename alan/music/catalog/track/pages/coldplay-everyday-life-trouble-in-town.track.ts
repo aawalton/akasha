@@ -23,4 +23,5 @@ export const coldplayEverydayLifeTroubleInTown = {
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "troubleintown|4gzpq5DPGxSnKTe4SA8HAU|278906",
+  song: "song/coldplay-trouble-in-town",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const coldplayLetSomebodyGoOfenbachRemixLetSomebodyGoOfenbachRemix = {
   ],
   trackKey:
     "letsomebodygoofenbachremix|0C8ZW7ezQVs4URX5aX7Kqx,4AKwRarlmsUlLjIwt38NLw,4gzpq5DPGxSnKTe4SA8HAU|194487",
+  song: "song/coldplay-let-somebody-go",
 } as const satisfies Track

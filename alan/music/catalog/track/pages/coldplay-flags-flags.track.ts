@@ -23,4 +23,5 @@ export const coldplayFlagsFlags = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "flags|4gzpq5DPGxSnKTe4SA8HAU|216493",
+  song: "song/coldplay-flags",
 } as const satisfies Track

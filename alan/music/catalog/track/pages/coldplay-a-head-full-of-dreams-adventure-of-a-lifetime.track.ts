@@ -23,4 +23,5 @@ export const coldplayAHeadFullOfDreamsAdventureOfALifetime = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "adventureofalifetime|4gzpq5DPGxSnKTe4SA8HAU|263786",
+  song: "song/coldplay-adventure-of-a-lifetime",
 } as const satisfies Track

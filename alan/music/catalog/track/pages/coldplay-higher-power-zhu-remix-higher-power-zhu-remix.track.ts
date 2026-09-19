@@ -26,4 +26,5 @@ export const coldplayHigherPowerZhuRemixHigherPowerZhuRemix = {
     { externalId: "28j8lBWDdDSHSSt5oPlsX2", artistName: "ZHU" },
   ],
   trackKey: "higherpowerzhuremix|28j8lBWDdDSHSSt5oPlsX2,4gzpq5DPGxSnKTe4SA8HAU|286093",
+  song: "song/coldplay-higher-power",
 } as const satisfies Track

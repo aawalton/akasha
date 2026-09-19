@@ -23,4 +23,5 @@ export const coldplayGhostStoriesLive2014MidnightLiveAtTheRoyalAlbertHallLondon 
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "midnightliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|288666",
+  song: "song/coldplay-midnight",
 } as const satisfies Track

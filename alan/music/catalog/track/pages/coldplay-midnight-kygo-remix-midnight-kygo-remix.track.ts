@@ -26,4 +26,5 @@ export const coldplayMidnightKygoRemixMidnightKygoRemix = {
     { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
   ],
   trackKey: "midnightkygoremix|23fqKkggKUBHNkbKtXEls4,4gzpq5DPGxSnKTe4SA8HAU|316347",
+  song: "song/coldplay-midnight",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayLiveInBuenosAiresDeMusicaLigeraLiveInBuenosAires = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "demusicaligeraliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|369306",
+  song: "song/coldplay-de-musica-ligera",
 } as const satisfies Track

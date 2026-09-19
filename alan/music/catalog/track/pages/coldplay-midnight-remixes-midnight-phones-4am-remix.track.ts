@@ -28,4 +28,5 @@ export const coldplayMidnightRemixesMidnightPhones4amRemix = {
   ],
   trackKey:
     "midnightphones4amremix|04ouBKIoUizgF9j6v6TWR8,3ziQfZn3PliWCCN8HgDPpS,4gzpq5DPGxSnKTe4SA8HAU|656171",
+  song: "song/coldplay-midnight",
 } as const satisfies Track

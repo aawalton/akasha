@@ -23,4 +23,5 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "championoftheworldliveatnprstinydesk|4gzpq5DPGxSnKTe4SA8HAU|216333",
+  song: "song/coldplay-champion-of-the-world",
 } as const satisfies Track

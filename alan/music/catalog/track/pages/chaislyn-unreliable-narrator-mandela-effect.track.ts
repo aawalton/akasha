@@ -23,4 +23,5 @@ export const chaislynUnreliableNarratorMandelaEffect = {
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "mandelaeffect|3zmbniiciaBAJlSX1Bzq9R|169416",
+  song: "song/chaislyn-mandela-effect",
 } as const satisfies Track

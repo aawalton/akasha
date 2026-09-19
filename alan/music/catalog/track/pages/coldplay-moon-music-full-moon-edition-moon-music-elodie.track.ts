@@ -23,4 +23,5 @@ export const coldplayMoonMusicFullMoonEditionMoonMusicElodie = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "moonmusicelodie|4gzpq5DPGxSnKTe4SA8HAU|166183",
+  song: "song/coldplay-moon-music-elodie",
 } as const satisfies Track

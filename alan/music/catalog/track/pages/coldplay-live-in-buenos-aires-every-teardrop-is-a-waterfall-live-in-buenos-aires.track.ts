@@ -23,4 +23,5 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everyteardropisawaterfallliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|244306",
+  song: "song/coldplay-every-teardrop-is-a-waterfall",
 } as const satisfies Track

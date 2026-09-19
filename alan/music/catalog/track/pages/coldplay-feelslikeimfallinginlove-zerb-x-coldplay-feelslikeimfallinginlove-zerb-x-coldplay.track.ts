@@ -27,4 +27,5 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplayFeelslikeimfallinginlo
   ],
   trackKey:
     "feelslikeimfallinginlovezerbxcoldplay|4gzpq5DPGxSnKTe4SA8HAU,6mDl7lQiLxT0iQ8LYhAlWy|236612",
+  song: "song/coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
 } as const satisfies Track

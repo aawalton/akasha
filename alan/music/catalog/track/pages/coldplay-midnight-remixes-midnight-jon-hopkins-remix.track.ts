@@ -26,4 +26,5 @@ export const coldplayMidnightRemixesMidnightJonHopkinsRemix = {
     { externalId: "7yxi31szvlbwvKq9dYOmFI", artistName: "Jon Hopkins" },
   ],
   trackKey: "midnightjonhopkinsremix|4gzpq5DPGxSnKTe4SA8HAU,7yxi31szvlbwvKq9dYOmFI|605739",
+  song: "song/coldplay-midnight",
 } as const satisfies Track

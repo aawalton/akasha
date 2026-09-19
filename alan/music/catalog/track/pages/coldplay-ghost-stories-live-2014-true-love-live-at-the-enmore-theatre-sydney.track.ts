@@ -23,4 +23,5 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "trueloveliveattheenmoretheatresydney|4gzpq5DPGxSnKTe4SA8HAU|260026",
+  song: "song/coldplay-true-love",
 } as const satisfies Track

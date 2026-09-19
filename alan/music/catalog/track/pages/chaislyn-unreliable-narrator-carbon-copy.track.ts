@@ -23,4 +23,5 @@ export const chaislynUnreliableNarratorCarbonCopy = {
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "carboncopy|3zmbniiciaBAJlSX1Bzq9R|171818",
+  song: "song/chaislyn-carbon-copy",
 } as const satisfies Track

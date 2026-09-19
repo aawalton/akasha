@@ -26,4 +26,5 @@ export const coldplayMoonMusicGoodFeelings = {
     { externalId: "3ZpEKRjHaHANcpk10u6Ntq", artistName: "Ayra Starr" },
   ],
   trackKey: "goodfeelings|3ZpEKRjHaHANcpk10u6Ntq,4gzpq5DPGxSnKTe4SA8HAU|217380",
+  song: "song/coldplay-good-feelings",
 } as const satisfies Track

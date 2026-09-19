@@ -23,4 +23,5 @@ export const coldplayLeftrightleftrightleftLiveDeathAndAllHisFriendsLiveInMadrid
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "deathandallhisfriendsliveinmadrid2008|4gzpq5DPGxSnKTe4SA8HAU|264426",
+  song: "song/coldplay-death-and-all-his-friends",
 } as const satisfies Track

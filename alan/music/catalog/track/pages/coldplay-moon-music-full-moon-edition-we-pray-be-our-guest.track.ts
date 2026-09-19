@@ -30,4 +30,5 @@ export const coldplayMoonMusicFullMoonEditionWePrayBeOurGuest = {
   ],
   trackKey:
     "wepraybeourguest|0jIWKlfmD4Ew7HeVVrq03g,3wcj11K77LjEY1PkEazffa,4gzpq5DPGxSnKTe4SA8HAU,6eXZu6O7nAUA5z6vLV8NKI,7vXDAI8JwjW531ouMGbfcp|233320",
+  song: "song/coldplay-we-pray-be-our-guest",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayLiveFromSpotifyLondonAdventureOfALifetimeLiveFromSpotifyLon
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "adventureofalifetimelivefromspotifylondon|4gzpq5DPGxSnKTe4SA8HAU|258613",
+  song: "song/coldplay-adventure-of-a-lifetime",
 } as const satisfies Track

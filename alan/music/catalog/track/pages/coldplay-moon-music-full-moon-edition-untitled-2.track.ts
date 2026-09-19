@@ -26,4 +26,5 @@ export const coldplayMoonMusicFullMoonEditionUntitled2 = {
     { externalId: "7yxi31szvlbwvKq9dYOmFI", artistName: "Jon Hopkins" },
   ],
   trackKey: "|4gzpq5DPGxSnKTe4SA8HAU,7yxi31szvlbwvKq9dYOmFI|153229",
+  song: "song/coldplay-untitled-6",
 } as const satisfies Track

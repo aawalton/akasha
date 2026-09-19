@@ -23,4 +23,5 @@ export const coldplayLive2012PrincessOfChinaLive = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "princessofchinalive|4gzpq5DPGxSnKTe4SA8HAU|228960",
+  song: "song/coldplay-princess-of-china",
 } as const satisfies Track

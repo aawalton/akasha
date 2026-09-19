@@ -26,4 +26,5 @@ export const coldplayHigherPowerTiestoRemixHigherPowerTiestoRemix = {
     { externalId: "2o5jDhtHVPhrJdv3cEQ99Z", artistName: "Tiësto" },
   ],
   trackKey: "higherpowertiestoremix|2o5jDhtHVPhrJdv3cEQ99Z,4gzpq5DPGxSnKTe4SA8HAU|229565",
+  song: "song/coldplay-higher-power",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const coldplayASkyFullOfStarsHardwellRemixASkyFullOfStarsHardwellRemix = 
     { externalId: "6BrvowZBreEkXzJQMpL174", artistName: "Hardwell" },
   ],
   trackKey: "askyfullofstarshardwellremix|4gzpq5DPGxSnKTe4SA8HAU,6BrvowZBreEkXzJQMpL174|313124",
+  song: "song/coldplay-a-sky-full-of-stars",
 } as const satisfies Track

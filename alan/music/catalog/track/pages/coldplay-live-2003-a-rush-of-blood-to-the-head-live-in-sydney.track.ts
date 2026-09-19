@@ -23,4 +23,5 @@ export const coldplayLive2003ARushOfBloodToTheHeadLiveInSydney = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "arushofbloodtotheheadliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|410773",
+  song: "song/coldplay-a-rush-of-blood-to-the-head",
 } as const satisfies Track

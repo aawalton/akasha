@@ -23,4 +23,5 @@ export const coldplayMoonMusicIaam = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "iaam|4gzpq5DPGxSnKTe4SA8HAU|183371",
+  song: "song/coldplay-iaam",
 } as const satisfies Track
