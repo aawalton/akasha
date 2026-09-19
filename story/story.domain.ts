@@ -56,10 +56,6 @@ export const story = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's slug opens with the story the chapter is part of.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The source a chapter came from is no page type of its own.",
     },
     {
@@ -77,6 +73,31 @@ export const story = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every story engine and story content file sits under `story/`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Everything a world holds sits under that world's own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story sits under the world the story is of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter sits under the story the chapter is part of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The code one story needs sits under that story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's slug says the chapter's place in its story rather than naming the story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folders under the world page type mirror the folders under one world's page.",
     },
   ],
 } as const satisfies Domain
