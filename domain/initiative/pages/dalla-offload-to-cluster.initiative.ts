@@ -7,7 +7,6 @@ export const dallaOffloadToCluster = {
   domain: "domain/infrastructure",
   persona: "persona/dalla",
   intentStack: [
-    { statement: "A full audit answers in under ten minutes." },
     {
       statement:
         "An audit request a running audit answers attaches to that audit rather than opening a second.",
