@@ -52,7 +52,7 @@ test("whether a service is told is read from its page", () => {
 })
 
 test("a service whose page states it is not told is read that way", () => {
-  const read = readFor(ROOT, "memory-reaper")
+  const read = readFor(ROOT, "maintain-seat-pending")
   expect("refused" in read || "unnamed" in read).toBe(false)
   if ("refused" in read || "unnamed" in read) return
   expect(read.services[0]?.service.told).toBe(false)
@@ -182,7 +182,7 @@ test("the origin is the loopback and the port the pages service's own page state
 })
 
 test("a service is read with the origin the pages service answers on", () => {
-  const read = readFor(ROOT, "memory-reaper")
+  const read = readFor(ROOT, "maintain-seat-pending")
   expect("services" in read).toBe(true)
   if (!("services" in read)) return
   expect(read.services[0]?.pagesOrigin).toBe(pagesOriginIn(ROOT))
