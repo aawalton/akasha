@@ -7,7 +7,6 @@ export const nimueWorkstationUpgrade = {
   domain: "domain/infrastructure",
   persona: "persona/nimue",
   intentStack: [
-    { statement: "Agents use only the archive drive for scratch files." },
     { statement: "The archive drive is empty." },
     { statement: "Memory limits are appropriate for the new total memory amount." },
   ],
