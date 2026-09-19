@@ -17,9 +17,9 @@ const SIGNED_IN_SESSION = {
 let authCallback: AuthCallback | null = null
 let currentSession: unknown = SIGNED_IN_SESSION
 
-const trail: string[] = []
+const TRAIL: string[] = []
 
-const fakeSupabase = {
+const FAKE_SUPABASE = {
   auth: {
     getSession: () => Promise.resolve({ data: { session: currentSession } }),
     refreshSession: () => Promise.resolve({ error: null }),
@@ -33,7 +33,7 @@ const fakeSupabase = {
 mock.module(
   "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx",
   () => ({
-    useSupabase: () => fakeSupabase,
+    useSupabase: () => FAKE_SUPABASE,
     SupabaseProvider: ({ children }: { children: unknown }) => children,
   })
 )
@@ -104,7 +104,7 @@ mock.module(
 function IdentityRecorder() {
   const userID = useContext(UserIdContext)
   useEffect(() => {
-    trail.push(`identity is ${userID ?? "null"}`)
+    TRAIL.push(`identity is ${userID ?? "null"}`)
   }, [userID])
   return null
 }
@@ -113,7 +113,7 @@ const reactRouter = await import("react-router")
 mock.module("react-router", () => ({
   ...reactRouter,
   useNavigate: () => (to: string) => {
-    trail.push(`navigate ${to}`)
+    TRAIL.push(`navigate ${to}`)
   },
 }))
 
@@ -138,7 +138,7 @@ const happyDom = globalThis as typeof globalThis & {
 }
 
 beforeEach(() => {
-  trail.length = 0
+  TRAIL.length = 0
   authCallback = null
   currentSession = SIGNED_IN_SESSION
   happyDom.happyDOM.setURL(`http://localhost${SIGNED_IN_AT}`)
@@ -151,9 +151,9 @@ async function renderSignedInThenSignOut(): Promise<void> {
     </AuthProvider>
   )
   await settle()
-  expect(trail).toContain("identity is user-under-test")
+  expect(TRAIL).toContain("identity is user-under-test")
 
-  trail.length = 0
+  TRAIL.length = 0
 
   currentSession = null
   await act(async () => {
@@ -165,14 +165,14 @@ async function renderSignedInThenSignOut(): Promise<void> {
 test("a session ending drops the identity out of the context", async () => {
   await renderSignedInThenSignOut()
 
-  expect(trail).toContain("identity is null")
+  expect(TRAIL).toContain("identity is null")
 })
 
 test("the identity goes null before the route changes, or the clear is never reached", async () => {
   await renderSignedInThenSignOut()
 
-  const sawNull = trail.indexOf("identity is null")
-  const moved = trail.findIndex((entry) => entry.startsWith("navigate "))
+  const sawNull = TRAIL.indexOf("identity is null")
+  const moved = TRAIL.findIndex((entry) => entry.startsWith("navigate "))
 
   expect(sawNull).toBeGreaterThan(-1)
   expect(moved).toBeGreaterThan(-1)
@@ -182,7 +182,7 @@ test("the identity goes null before the route changes, or the clear is never rea
 test("sign-out lands on the signed-out route, remembering where the person was", async () => {
   await renderSignedInThenSignOut()
 
-  expect(trail.filter((entry) => entry.startsWith("navigate "))).toEqual([
+  expect(TRAIL.filter((entry) => entry.startsWith("navigate "))).toEqual([
     `navigate /sign-in?next=${encodeURIComponent(SIGNED_IN_AT)}`,
   ])
 })

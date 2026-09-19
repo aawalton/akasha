@@ -6,9 +6,9 @@ import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.mo
 import { act } from "react"
 
 let clearCount = 0
-const apiCalls: string[] = []
+const API_CALLS: string[] = []
 
-const plugin = {
+const PLUGIN = {
   getDeviceId: () => Promise.resolve({ deviceId: "device-under-test" }),
   peek: () => Promise.resolve({ present: true, fingerprint: null, domain: "pinned" }),
   store: () => Promise.resolve({ domain: "pinned" }),
@@ -21,13 +21,13 @@ const plugin = {
 mock.module("akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts", () => ({
   ...capacitorBridge,
   isNativeShell: () => true,
-  getDeviceSecret: () => plugin,
+  getDeviceSecret: () => PLUGIN,
 }))
 
 mock.module("akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts", () => ({
   ...apiFetchModule,
   apiFetch: (input: string) => {
-    apiCalls.push(input)
+    API_CALLS.push(input)
     return Promise.resolve(new Response(JSON.stringify({ ok: true }), { status: 200 }))
   },
 }))
@@ -54,7 +54,7 @@ async function settle(): Promise<void> {
 
 beforeEach(() => {
   clearCount = 0
-  apiCalls.length = 0
+  API_CALLS.length = 0
 })
 
 test("an identity going null clears the on-device secret and asks the store to revoke it", async () => {
@@ -66,7 +66,7 @@ test("an identity going null clears the on-device secret and asks the store to r
   await settle()
 
   expect(clearCount).toBe(1)
-  expect(apiCalls).toContain("/api/device-secret/revoke")
+  expect(API_CALLS).toContain("/api/device-secret/revoke")
 })
 
 test("booting with no identity clears nothing, so sign-out cannot reload its way out", async () => {
@@ -74,5 +74,5 @@ test("booting with no identity clears nothing, so sign-out cannot reload its way
   await settle()
 
   expect(clearCount).toBe(0)
-  expect(apiCalls).toEqual([])
+  expect(API_CALLS).toEqual([])
 })
