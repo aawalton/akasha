@@ -1,16 +1,24 @@
 import { expect, mock, test } from "bun:test"
+import { attributeCharisma } from "akasha/alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts"
+import { attributeConstitution } from "akasha/alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts"
+import { attributeEndurance } from "akasha/alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts"
+import { attributeIntelligence } from "akasha/alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts"
+import { attributeLuck } from "akasha/alan/attribute/readout/attribute-luck/attribute-luck.readout.ts"
+import { attributeStrength } from "akasha/alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"
+import { attributeWisdom } from "akasha/alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 
 const SHOWN_AT = "https://alanwalton.com"
 
 const POINTS = [
-  "readout/attribute-strength",
-  "readout/attribute-endurance",
-  "readout/attribute-constitution",
-  "readout/attribute-wisdom",
-  "readout/attribute-intelligence",
-  "readout/attribute-charisma",
-  "readout/attribute-luck",
+  `${readout.slug}/${attributeStrength.slug}`,
+  `${readout.slug}/${attributeEndurance.slug}`,
+  `${readout.slug}/${attributeConstitution.slug}`,
+  `${readout.slug}/${attributeWisdom.slug}`,
+  `${readout.slug}/${attributeIntelligence.slug}`,
+  `${readout.slug}/${attributeCharisma.slug}`,
+  `${readout.slug}/${attributeLuck.slug}`,
 ]
 
 const HANDED: Carry[] = []
