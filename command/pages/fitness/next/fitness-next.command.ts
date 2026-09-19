@@ -42,7 +42,7 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pattern least covered this week breaks a tie.",
+      statement: "The pattern least covered this week leads among the movements for that muscle.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -127,6 +127,16 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement:
         "A movement whose reps have run out as well as its kit holds both and is slowed instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every run ranks every movement again, so nothing is offered for having been offered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Stimulus against fatigue parts two movements the pattern and the history leave alike.",
     },
   ],
   name: "next",
