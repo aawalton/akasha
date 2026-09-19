@@ -8,7 +8,7 @@ export const antiquityLore = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-19T00:01:04.238Z",
+  capturedAt: "2026-09-19T00:11:58.947Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
