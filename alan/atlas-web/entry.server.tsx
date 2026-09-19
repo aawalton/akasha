@@ -2,7 +2,7 @@ import { renderRouterApp } from "akasha/code/router-app/modules/rendering/router
 import { isbot } from "isbot"
 import type { AppLoadContext, EntryContext } from "react-router"
 
-const streamTimeout = 15_000
+const STREAM_TIMEOUT = 15_000
 
 export default function handleRequest(
   request: Request,
@@ -17,7 +17,7 @@ export default function handleRequest(
     responseHeaders,
     routerContext,
     loadContext.nonce,
-    streamTimeout,
+    STREAM_TIMEOUT,
     isbot
   )
 }
