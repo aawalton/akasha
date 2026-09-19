@@ -33,6 +33,12 @@ const PEAK = "memory.peak"
 
 const HIGH = "memory.high"
 
+const MAX = "cpu.max"
+
+const UNBOUND = "max"
+
+const PROCESSORS = "GOMAXPROCS"
+
 const MEGA = 1_048_576
 
 const USAGE = "usage_usec "
@@ -78,6 +84,30 @@ export function delegatedAt(own: string): string | null {
     at = dirname(at)
   }
   return null
+}
+
+function shareIn(at: string): number | null {
+  let stated = ""
+  try {
+    stated = readFileSync(join(at, MAX), "utf8").trim()
+  } catch {
+    return null
+  }
+  const [held, over] = stated.split(/\s+/)
+  if (held === undefined || held === UNBOUND) return null
+  const share = Number(held) / Number(over)
+  return Number.isFinite(share) && share > 0 ? share : null
+}
+
+function processorsOver(at: string): number | null {
+  let tightest: number | null = null
+  let here = at
+  while (here.startsWith(MOUNT) && here !== MOUNT) {
+    const share = shareIn(here)
+    if (share !== null && (tightest === null || share < tightest)) tightest = share
+    here = dirname(here)
+  }
+  return tightest === null ? null : Math.max(1, Math.round(tightest))
 }
 
 export function madePid(named: string): number | null {
@@ -239,6 +269,14 @@ function foundFor(argv: readonly string[], asked: Asked): string | null {
   })
 }
 
+function envUnder(asked: Asked, at: string | null): Asked["env"] {
+  if (at === null) return asked.env
+  const held = asked.env ?? process.env
+  if (held[PROCESSORS] !== undefined) return asked.env
+  const processors = processorsOver(at)
+  return processors === null ? asked.env : { ...held, [PROCESSORS]: String(processors) }
+}
+
 function spentAt(at: string): number | null {
   let text = ""
   try {
@@ -363,11 +401,12 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
       : Bun.spawn(["bun", "-e", watching(at, ceiling)], { stdout: "ignore", stderr: "ignore" })
   try {
     const named = at === null || found === null ? argv : joined(at, argv, found)
+    const env = envUnder(asked, at)
     const done = Bun.spawnSync([...named], {
       stdout: "pipe",
       stderr: "pipe",
       ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
-      ...(asked.env === undefined ? {} : { env: asked.env }),
+      ...(env === undefined ? {} : { env }),
       ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
       ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
     })

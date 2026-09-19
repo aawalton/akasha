@@ -7,6 +7,7 @@ export const running = {
   definition: "a process run to its end, and the code and streams it leaves",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -355,6 +356,44 @@ export const running = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing raises where a process cannot be held.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A Go program reads its own group for a processor quota and consults no group above it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A group held to a memory ceiling and a quota at once cannot reclaim its way under that ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run given a group of its own is given the processors its quota buys as `GOMAXPROCS`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That count is stated in the run's environment rather than on the run's group.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The quota is the tightest any group above the run states rather than the nearest one stated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A quota buying part of a processor is given as one processor rather than as none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run no group above holds to a quota is given the environment its caller stated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller stating that count itself is left the count that caller stated.",
     },
   ],
 } as const satisfies Module
