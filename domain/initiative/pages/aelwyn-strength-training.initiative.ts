@@ -50,9 +50,6 @@ export const aelwynStrengthTraining = {
       statement: "A movement Alan turns down tells the selector as much as a set Alan finishes.",
     },
     {
-      statement: "Every constraint the selector obeys is a predicate over an exercise page.",
-    },
-    {
       statement: "What Alan owns is read from the kit pages rather than written as a constraint.",
     },
   ],
