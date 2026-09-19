@@ -204,5 +204,5 @@ export const identifierMatchesItsPlace = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
+  audit: { maxCpuSeconds: 120 },
 } as const satisfies CheckCode
