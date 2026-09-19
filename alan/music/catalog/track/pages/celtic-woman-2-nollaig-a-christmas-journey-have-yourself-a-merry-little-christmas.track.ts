@@ -23,5 +23,5 @@ export const celticWoman2NollaigAChristmasJourneyHaveYourselfAMerryLittleChristm
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "haveyourselfamerrylittlechristmas|6NWtt9pNOL2Gx7kBykdE5x|181450",
-  song: "song/celtic-woman-have-yourself-a-merry-little-christmas",
+  song: "song/coldplay-have-yourself-a-merry-little-christmas",
 } as const satisfies Track

@@ -4,6 +4,7 @@ export const kellyClarksonSantaCantYouHearMe = {
   id: "01a0ba7f-c328-7644-a574-ac18e5cac35d",
   type: "page-type/song",
   slug: "kelly-clarkson-santa-cant-you-hear-me",
+  partOfCollections: ["artist/ariana-grande"],
   externalIdentity: [
     {
       source: "musicbrainz",

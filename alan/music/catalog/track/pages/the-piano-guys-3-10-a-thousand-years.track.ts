@@ -23,5 +23,5 @@ export const thePianoGuys310AThousandYears = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "athousandyears|0jW6R8CVyVohuUJVcuweDI|270441",
-  song: "song/the-piano-guys-a-thousand-years",
+  song: "song/evynne-hollens-a-thousand-years",
 } as const satisfies Track

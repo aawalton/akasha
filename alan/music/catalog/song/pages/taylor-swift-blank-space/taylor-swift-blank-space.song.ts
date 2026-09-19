@@ -4,6 +4,7 @@ export const taylorSwiftBlankSpace = {
   id: "019ea416-0298-7727-96de-056ed3e397b8",
   type: "page-type/song",
   slug: "taylor-swift-blank-space",
+  partOfCollections: ["artist/imagine-dragons"],
   externalIdentity: [
     {
       source: "musicbrainz",

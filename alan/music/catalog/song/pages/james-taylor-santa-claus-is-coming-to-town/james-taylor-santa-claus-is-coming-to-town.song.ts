@@ -4,6 +4,7 @@ export const jamesTaylorSantaClausIsComingToTown = {
   id: "01a0b72f-5208-734b-a929-ddf45648078f",
   type: "page-type/song",
   slug: "james-taylor-santa-claus-is-coming-to-town",
+  partOfCollections: ["artist/sabrina-carpenter"],
   externalIdentity: [
     {
       source: "musicbrainz",

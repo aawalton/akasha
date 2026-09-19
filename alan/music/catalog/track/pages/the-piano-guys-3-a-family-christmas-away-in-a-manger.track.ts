@@ -28,5 +28,5 @@ export const thePianoGuys3AFamilyChristmasAwayInAManger = {
   ],
   trackKey:
     "awayinamanger|0IyFf7sJynolp1a7Ck79u9,0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|191896",
-  song: "song/the-piano-guys-away-in-a-manger",
+  song: "song/celtic-woman-away-in-a-manger",
 } as const satisfies Track

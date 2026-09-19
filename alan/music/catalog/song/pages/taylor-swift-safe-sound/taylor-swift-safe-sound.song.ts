@@ -4,6 +4,7 @@ export const taylorSwiftSafeSound = {
   id: "019ea416-35c9-76aa-9dfc-56f943ccfb37",
   type: "page-type/song",
   slug: "taylor-swift-safe-sound",
+  partOfCollections: ["artist/sabrina-carpenter"],
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -4,6 +4,7 @@ export const celticWomanMyHeartWillGoOn = {
   id: "01a0b720-0ee3-7037-9f75-e2077ceea039",
   type: "page-type/song",
   slug: "celtic-woman-my-heart-will-go-on",
+  partOfCollections: ["artist/zara-larsson"],
   externalIdentity: [
     {
       source: "musicbrainz",

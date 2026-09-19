@@ -4,6 +4,7 @@ export const coldplayWhatAWonderfulWorld = {
   id: "01a0ba60-fd2e-73a6-821b-2663b62a1791",
   type: "page-type/song",
   slug: "coldplay-what-a-wonderful-world",
+  partOfCollections: ["artist/the-piano-guys"],
   externalIdentity: [
     {
       source: "musicbrainz",

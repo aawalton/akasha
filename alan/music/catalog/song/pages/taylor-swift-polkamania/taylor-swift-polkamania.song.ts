@@ -4,6 +4,7 @@ export const taylorSwiftPolkamania = {
   id: "01a0ba97-710a-7f67-84e1-67b35cd4daac",
   type: "page-type/song",
   slug: "taylor-swift-polkamania",
+  partOfCollections: ["artist/ariana-grande", "artist/billie-eilish"],
   externalIdentity: [
     {
       source: "musicbrainz",

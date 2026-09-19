@@ -4,6 +4,13 @@ export const celticWomanSilentNight = {
   id: "01a0b720-0cbf-74cc-a1e0-7b6c212def7b",
   type: "page-type/song",
   slug: "celtic-woman-silent-night",
+  partOfCollections: [
+    "artist/kelly-clarkson",
+    "artist/paul-cardall",
+    "artist/taylor-swift",
+    "artist/the-piano-guys",
+    "artist/zara-larsson",
+  ],
   externalIdentity: [
     {
       source: "musicbrainz",

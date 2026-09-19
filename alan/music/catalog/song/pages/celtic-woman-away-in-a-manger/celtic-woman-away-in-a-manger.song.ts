@@ -4,6 +4,7 @@ export const celticWomanAwayInAManger = {
   id: "01a0b720-1029-7923-94a3-eb097b7af67e",
   type: "page-type/song",
   slug: "celtic-woman-away-in-a-manger",
+  partOfCollections: ["artist/paul-cardall", "artist/the-piano-guys"],
   externalIdentity: [
     {
       source: "musicbrainz",

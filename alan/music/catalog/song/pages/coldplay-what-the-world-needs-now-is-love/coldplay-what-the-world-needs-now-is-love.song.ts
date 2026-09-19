@@ -4,6 +4,7 @@ export const coldplayWhatTheWorldNeedsNowIsLove = {
   id: "01a0ba5d-4c3d-7348-8872-a315cbf9c5fb",
   type: "page-type/song",
   slug: "coldplay-what-the-world-needs-now-is-love",
+  partOfCollections: ["artist/james-taylor"],
   externalIdentity: [
     {
       source: "musicbrainz",

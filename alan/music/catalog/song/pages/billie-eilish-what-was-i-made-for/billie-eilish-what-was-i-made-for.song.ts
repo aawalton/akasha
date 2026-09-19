@@ -4,6 +4,7 @@ export const billieEilishWhatWasIMadeFor = {
   id: "019ea4a8-fc19-7e4e-83a9-51a5347e6c66",
   type: "page-type/song",
   slug: "billie-eilish-what-was-i-made-for",
+  partOfCollections: ["artist/the-piano-guys"],
   rank: "S",
   tags: ["autism"],
   externalIdentity: [

@@ -4,6 +4,7 @@ export const taylorSwiftLastChristmas = {
   id: "01a0ba97-5ea6-7bc9-becd-f006635e41e0",
   type: "page-type/song",
   slug: "taylor-swift-last-christmas",
+  partOfCollections: ["artist/ariana-grande", "artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

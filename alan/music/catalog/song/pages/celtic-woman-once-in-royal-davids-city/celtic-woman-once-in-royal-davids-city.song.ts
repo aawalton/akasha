@@ -4,6 +4,7 @@ export const celticWomanOnceInRoyalDavidsCity = {
   id: "01a0b720-0b15-7716-8ba6-62b3c4751c8c",
   type: "page-type/song",
   slug: "celtic-woman-once-in-royal-davids-city",
+  partOfCollections: ["artist/paul-cardall"],
   externalIdentity: [
     {
       source: "musicbrainz",

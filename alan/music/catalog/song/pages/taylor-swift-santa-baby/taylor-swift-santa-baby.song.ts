@@ -4,6 +4,7 @@ export const taylorSwiftSantaBaby = {
   id: "01a0ba97-751b-7916-97a3-dcaeb55698af",
   type: "page-type/song",
   slug: "taylor-swift-santa-baby",
+  partOfCollections: ["artist/ariana-grande", "artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

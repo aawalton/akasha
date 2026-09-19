@@ -4,6 +4,7 @@ export const siaInvincible = {
   id: "019ea4af-99f8-765e-bdb2-1a0be4b3708e",
   type: "page-type/song",
   slug: "sia-invincible",
+  partOfCollections: ["artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

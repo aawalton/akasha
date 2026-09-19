@@ -4,6 +4,7 @@ export const evynneHollensAThousandYears = {
   id: "019ea4cf-0d36-7d0b-a473-30436cf374ac",
   type: "page-type/song",
   slug: "evynne-hollens-a-thousand-years",
+  partOfCollections: ["artist/the-piano-guys"],
   externalIdentity: [
     {
       source: "musicbrainz",

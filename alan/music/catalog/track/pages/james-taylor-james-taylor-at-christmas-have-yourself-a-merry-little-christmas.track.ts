@@ -23,5 +23,5 @@ export const jamesTaylorJamesTaylorAtChristmasHaveYourselfAMerryLittleChristmas 
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "haveyourselfamerrylittlechristmas|0vn7UBvSQECKJm2817Yf1P|204613",
-  song: "song/james-taylor-have-yourself-a-merry-little-christmas",
+  song: "song/coldplay-have-yourself-a-merry-little-christmas",
 } as const satisfies Track

@@ -4,6 +4,12 @@ export const coldplayHaveYourselfAMerryLittleChristmas = {
   id: "01a0ba5d-3b0f-7982-a24f-e677f1a1be9a",
   type: "page-type/song",
   slug: "coldplay-have-yourself-a-merry-little-christmas",
+  partOfCollections: [
+    "artist/celtic-woman",
+    "artist/james-taylor",
+    "artist/kelly-clarkson",
+    "artist/sabrina-carpenter",
+  ],
   externalIdentity: [
     {
       source: "musicbrainz",

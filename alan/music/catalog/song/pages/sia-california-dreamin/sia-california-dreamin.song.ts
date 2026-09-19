@@ -4,6 +4,7 @@ export const siaCaliforniaDreamin = {
   id: "01a0ba9e-0006-7ece-a829-38ad3e09efe6",
   type: "page-type/song",
   slug: "sia-california-dreamin",
+  partOfCollections: ["artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

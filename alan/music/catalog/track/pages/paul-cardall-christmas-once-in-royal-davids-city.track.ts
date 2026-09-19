@@ -23,5 +23,5 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "onceinroyaldavidscity|7FQRbf8gbKw8KZQZAJWxH2|188677",
-  song: "song/paul-cardall-once-in-royal-davids-city",
+  song: "song/celtic-woman-once-in-royal-davids-city",
 } as const satisfies Track

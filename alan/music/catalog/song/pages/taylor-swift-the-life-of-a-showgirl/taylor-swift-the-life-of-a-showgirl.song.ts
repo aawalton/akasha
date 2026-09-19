@@ -4,6 +4,7 @@ export const taylorSwiftTheLifeOfAShowgirl = {
   id: "019ea416-3ef7-7438-b09d-0b122ab4f254",
   type: "page-type/song",
   slug: "taylor-swift-the-life-of-a-showgirl",
+  partOfCollections: ["artist/sabrina-carpenter"],
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -4,6 +4,7 @@ export const taylorSwiftWhiteChristmas = {
   id: "019ea416-4439-7b5a-b231-6fa33724890e",
   type: "page-type/song",
   slug: "taylor-swift-white-christmas",
+  partOfCollections: ["artist/kelly-clarkson", "artist/sabrina-carpenter"],
   externalIdentity: [
     {
       source: "musicbrainz",

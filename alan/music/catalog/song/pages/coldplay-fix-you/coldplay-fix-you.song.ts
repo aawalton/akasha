@@ -4,6 +4,7 @@ export const coldplayFixYou = {
   id: "01a0ba5d-461d-70c6-b1a9-cc5cc5f0e218",
   type: "page-type/song",
   slug: "coldplay-fix-you",
+  partOfCollections: ["artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

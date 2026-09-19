@@ -4,6 +4,7 @@ export const jamesTaylorWinterWonderland = {
   id: "01a0b72f-4829-733f-bd04-13ff838db182",
   type: "page-type/song",
   slug: "james-taylor-winter-wonderland",
+  partOfCollections: ["artist/the-piano-guys"],
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -4,6 +4,7 @@ export const celticWomanJoyToTheWorld = {
   id: "01a0b720-0fc8-7a93-b429-ec437f02bf97",
   type: "page-type/song",
   slug: "celtic-woman-joy-to-the-world",
+  partOfCollections: ["artist/paul-cardall"],
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -23,5 +23,5 @@ export const paulCardallChristmasHymnsAwayInAManger = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "awayinamanger|7FQRbf8gbKw8KZQZAJWxH2|263696",
-  song: "song/paul-cardall-away-in-a-manger",
+  song: "song/celtic-woman-away-in-a-manger",
 } as const satisfies Track

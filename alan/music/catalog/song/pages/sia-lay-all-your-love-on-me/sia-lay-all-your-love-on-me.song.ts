@@ -4,6 +4,7 @@ export const siaLayAllYourLoveOnMe = {
   id: "019ea4a2-4b23-7c0e-95bf-685605cea721",
   type: "page-type/song",
   slug: "sia-lay-all-your-love-on-me",
+  partOfCollections: ["artist/zara-larsson"],
   externalIdentity: [
     {
       source: "musicbrainz",

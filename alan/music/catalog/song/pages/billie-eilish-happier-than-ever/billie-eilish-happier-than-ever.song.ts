@@ -4,6 +4,7 @@ export const billieEilishHappierThanEver = {
   id: "01a0b771-0fc1-74e7-87b3-11d1dba4e836",
   type: "page-type/song",
   slug: "billie-eilish-happier-than-ever",
+  partOfCollections: ["artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

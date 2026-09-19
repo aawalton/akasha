@@ -74,7 +74,6 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-greensleeves/celtic-woman-greensleeves.song.ts","id":"01a0b779-49f6-745a-9469-97e08752adbf"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-hark-the-herald-angels-sing/celtic-woman-hark-the-herald-angels-sing.song.ts","id":"01a0b771-9dfc-7f44-903c-c7a4e895cf44"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-harrys-game/celtic-woman-harrys-game.song.ts","id":"01a0b720-14fd-7a88-b3f5-662714fed739"}
-{"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-have-yourself-a-merry-little-christmas/celtic-woman-have-yourself-a-merry-little-christmas.song.ts","id":"01a0b720-0a26-7729-a821-a42d96fd9093"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-home-and-the-heartland/celtic-woman-home-and-the-heartland.song.ts","id":"01a0b779-374a-78dc-8c18-3ab0f92a9291"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-homecoming-lament/celtic-woman-homecoming-lament.song.ts","id":"01a0b771-aa53-7219-afa6-39725c9eaa70"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-homeland/celtic-woman-homeland.song.ts","id":"01a0b771-4f1f-74b3-80e3-55a1dbb7d30c"}
@@ -216,7 +215,6 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-tread-lightly/celtic-woman-tread-lightly.song.ts","id":"01a0b720-0f53-72d3-bcbe-bb3ff41dc73b"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-vivaldis-rain/celtic-woman-vivaldis-rain.song.ts","id":"01a0b771-47a6-7a7f-ac8f-aadb4a17302d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-walk-beside-me/celtic-woman-walk-beside-me.song.ts","id":"01a0b771-968d-7fd4-bc0a-bf1a06f02e0f"}
-{"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-walking-in-the-air/celtic-woman-walking-in-the-air.song.ts","id":"01a0b720-0bc6-7910-867b-1c2a44fd044f"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-walking-the-night-the-world-falls-away/celtic-woman-walking-the-night-the-world-falls-away.song.ts","id":"01a0b771-8532-7300-a11a-f912dd6bc58f"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-water-under-the-bridge/celtic-woman-water-under-the-bridge.song.ts","id":"01a0b720-160a-7abc-8e6c-5fb73e4b8793"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/celtic-woman-we-three-kings/celtic-woman-we-three-kings.song.ts","id":"01a0b771-a2da-70b2-9985-c177ee64add1"}
@@ -278,3 +276,5 @@
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/celtic-woman-2-voices-of-angels/celtic-woman-2-voices-of-angels.release.ts","id":"01a0676a-d730-700b-afee-9fb598750f76"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/celtic-woman-2-water-under-the-bridge/celtic-woman-2-water-under-the-bridge.release.ts","id":"01a0676a-d730-701d-903b-fb5359e53d4b"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/celtic-woman-2-you-raise-me-up-20th-anniversary/celtic-woman-2-you-raise-me-up-20th-anniversary.release.ts","id":"01a0676a-d732-7013-b858-fcb8c0618c13"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/song/pages/aurora-walking-in-the-air/aurora-walking-in-the-air.song.ts","id":"019ea4a4-ff09-7e83-aec1-e76d03874a16"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/song/pages/coldplay-have-yourself-a-merry-little-christmas/coldplay-have-yourself-a-merry-little-christmas.song.ts","id":"01a0ba5d-3b0f-7982-a24f-e677f1a1be9a"}

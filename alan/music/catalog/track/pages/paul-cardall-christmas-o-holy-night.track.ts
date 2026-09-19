@@ -26,5 +26,5 @@ export const paulCardallChristmasOHolyNight = {
     { externalId: "3qfrrrSO7utFdJkM2tvMRb", artistName: "CeCe Winans" },
   ],
   trackKey: "oholynight|3qfrrrSO7utFdJkM2tvMRb,7FQRbf8gbKw8KZQZAJWxH2|427881",
-  song: "song/paul-cardall-o-holy-night",
+  song: "song/celtic-woman-o-holy-night",
 } as const satisfies Track

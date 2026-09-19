@@ -4,6 +4,7 @@ export const girlInRedYouNeedMeNow = {
   id: "01a0b724-d284-7262-8d69-6ee951cc2bfa",
   type: "page-type/song",
   slug: "girl-in-red-you-need-me-now",
+  partOfCollections: ["artist/sabrina-carpenter"],
   externalIdentity: [
     {
       source: "musicbrainz",

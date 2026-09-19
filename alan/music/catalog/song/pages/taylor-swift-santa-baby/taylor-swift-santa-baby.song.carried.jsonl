@@ -1,6 +1,7 @@
 {"artist":"artist/taylor-swift"}
 {"externalIdentity":[{"source":"musicbrainz","externalId":"a10d7ca4-2dea-3127-b84c-b15fdd24b026","externalLink":"https://musicbrainz.org/work/a10d7ca4-2dea-3127-b84c-b15fdd24b026","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0ba97-751b-7916-97a3-dcaeb55698af"}
+{"partOfCollections":["artist/ariana-grande","artist/kelly-clarkson"]}
 {"performed":true}
 {"slug":"taylor-swift-santa-baby"}
 {"title":"Santa Baby"}

@@ -26,5 +26,5 @@ export const thePianoGuys3LiveAThousandYearsLive = {
     { externalId: "3behdijGrqvmGolVpLXTLz", artistName: "Julie Nelson" },
   ],
   trackKey: "athousandyearslive|0jW6R8CVyVohuUJVcuweDI,3behdijGrqvmGolVpLXTLz|278640",
-  song: "song/the-piano-guys-a-thousand-years",
+  song: "song/evynne-hollens-a-thousand-years",
 } as const satisfies Track

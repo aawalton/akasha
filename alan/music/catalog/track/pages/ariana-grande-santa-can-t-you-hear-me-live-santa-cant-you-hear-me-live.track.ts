@@ -26,5 +26,5 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMeLive = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "santacantyouhearmelive|3BmGtnKgCSGYIUhmivXKWX,66CXWjxzNUsdJxJ2JdwvnR|225578",
-  song: "song/ariana-grande-santa-can-t-you-hear-me",
+  song: "song/kelly-clarkson-santa-cant-you-hear-me",
 } as const satisfies Track

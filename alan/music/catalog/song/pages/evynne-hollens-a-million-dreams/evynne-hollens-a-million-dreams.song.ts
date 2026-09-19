@@ -4,6 +4,7 @@ export const evynneHollensAMillionDreams = {
   id: "019ea4cf-1d64-71ff-a353-0be93833703c",
   type: "page-type/song",
   slug: "evynne-hollens-a-million-dreams",
+  partOfCollections: ["artist/the-piano-guys"],
   externalIdentity: [
     {
       source: "musicbrainz",

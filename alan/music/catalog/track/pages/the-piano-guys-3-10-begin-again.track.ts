@@ -23,5 +23,5 @@ export const thePianoGuys310BeginAgain = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "beginagain|0jW6R8CVyVohuUJVcuweDI|245506",
-  song: "song/the-piano-guys-begin-again",
+  song: "song/taylor-swift-begin-again",
 } as const satisfies Track

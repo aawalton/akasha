@@ -4,6 +4,7 @@ export const coldplayHereComesTheSun = {
   id: "01a0ba5d-4077-782c-82d9-d8dac361304d",
   type: "page-type/song",
   slug: "coldplay-here-comes-the-sun",
+  partOfCollections: ["artist/james-taylor"],
   externalIdentity: [
     {
       source: "musicbrainz",

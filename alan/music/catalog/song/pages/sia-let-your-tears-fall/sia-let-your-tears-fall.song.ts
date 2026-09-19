@@ -4,6 +4,7 @@ export const siaLetYourTearsFall = {
   id: "019ea4ad-f94c-7d85-802c-0bc8c4a16185",
   type: "page-type/song",
   slug: "sia-let-your-tears-fall",
+  partOfCollections: ["artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

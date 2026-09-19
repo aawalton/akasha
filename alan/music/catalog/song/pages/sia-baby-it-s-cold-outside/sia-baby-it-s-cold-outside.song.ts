@@ -4,6 +4,7 @@ export const siaBabyItSColdOutside = {
   id: "019ea4b0-07df-704b-9b51-90354da08573",
   type: "page-type/song",
   slug: "sia-baby-it-s-cold-outside",
+  partOfCollections: ["artist/james-taylor", "artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

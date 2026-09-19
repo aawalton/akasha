@@ -26,5 +26,5 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
   ],
   trackKey: "silentnight|0jW6R8CVyVohuUJVcuweDI,395Z91yDQ05pkMbRKik18y|210127",
-  song: "song/the-piano-guys-silent-night",
+  song: "song/celtic-woman-silent-night",
 } as const satisfies Track

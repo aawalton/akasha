@@ -23,5 +23,5 @@ export const paulCardallChristmasHymnsSilentNight = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "silentnight|7FQRbf8gbKw8KZQZAJWxH2|231493",
-  song: "song/paul-cardall-silent-night",
+  song: "song/celtic-woman-silent-night",
 } as const satisfies Track

@@ -4,6 +4,7 @@ export const celticWomanOHolyNight = {
   id: "01a0b720-0ae1-7aeb-b96b-b5c00f6ae8fe",
   type: "page-type/song",
   slug: "celtic-woman-o-holy-night",
+  partOfCollections: ["artist/paul-cardall"],
   externalIdentity: [
     {
       source: "musicbrainz",

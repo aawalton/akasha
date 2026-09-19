@@ -4,6 +4,7 @@ export const auroraWalkingInTheAir = {
   id: "019ea4a4-ff09-7e83-aec1-e76d03874a16",
   type: "page-type/song",
   slug: "aurora-walking-in-the-air",
+  partOfCollections: ["artist/celtic-woman"],
   externalIdentity: [
     {
       source: "musicbrainz",

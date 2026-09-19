@@ -23,5 +23,5 @@ export const thePianoGuys3LimitlessAMillionDreams = {
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "amilliondreams|0jW6R8CVyVohuUJVcuweDI|285837",
-  song: "song/the-piano-guys-a-million-dreams",
+  song: "song/evynne-hollens-a-million-dreams",
 } as const satisfies Track

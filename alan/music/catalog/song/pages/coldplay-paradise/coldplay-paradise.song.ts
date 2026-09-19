@@ -4,6 +4,7 @@ export const coldplayParadise = {
   id: "01a0ba5d-4df5-7f99-920c-8052dda745d4",
   type: "page-type/song",
   slug: "coldplay-paradise",
+  partOfCollections: ["artist/the-piano-guys"],
   externalIdentity: [
     {
       source: "musicbrainz",

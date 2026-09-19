@@ -4,6 +4,7 @@ export const jamesTaylorWideOpenSpaces = {
   id: "01a0b72f-4b75-7a64-84bd-2fd6bf5bffec",
   type: "page-type/song",
   slug: "james-taylor-wide-open-spaces",
+  partOfCollections: ["artist/kelly-clarkson"],
   externalIdentity: [
     {
       source: "musicbrainz",

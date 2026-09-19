@@ -4,6 +4,7 @@ export const taylorSwiftIKnewYouWereTrouble = {
   id: "019ea416-235e-7886-91b2-0b720d6dfca4",
   type: "page-type/song",
   slug: "taylor-swift-i-knew-you-were-trouble",
+  partOfCollections: ["artist/sabrina-carpenter"],
   externalIdentity: [
     {
       source: "musicbrainz",

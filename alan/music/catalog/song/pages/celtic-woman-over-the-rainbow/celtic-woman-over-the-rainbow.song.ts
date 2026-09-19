@@ -4,6 +4,7 @@ export const celticWomanOverTheRainbow = {
   id: "01a0b720-162d-7f54-ac79-af81c12881f7",
   type: "page-type/song",
   slug: "celtic-woman-over-the-rainbow",
+  partOfCollections: ["artist/ariana-grande"],
   externalIdentity: [
     {
       source: "musicbrainz",

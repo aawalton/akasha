@@ -4,6 +4,7 @@ export const billieEilishLunch = {
   id: "019ea4aa-33ea-7287-ae60-9320c8da624f",
   type: "page-type/song",
   slug: "billie-eilish-lunch",
+  partOfCollections: ["artist/girl-in-red"],
   externalIdentity: [
     {
       source: "musicbrainz",
