@@ -151,7 +151,9 @@ test("a page's stated lua feature takes the place of the one its export names", 
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)
-  expect(held.featureBySourceName.get("well-known-symbols.lualib-helper.code")).toBe("WellKnownSymbols")
+  expect(held.featureBySourceName.get("well-known-symbols.lualib-helper.code")).toBe(
+    "WellKnownSymbols"
+  )
 })
 
 test("a page naming a feature the scan found nowhere is added after what the scan found", () => {

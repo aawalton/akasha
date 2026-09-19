@@ -3,10 +3,7 @@ import { action } from "akasha/command/argument/pages/action.argument.ts"
 import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
 import { conditions } from "akasha/command/argument/pages/conditions.argument.ts"
 import { title } from "akasha/command/argument/pages/title.argument.ts"
-import {
-  answering,
-  INPUT,
-} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { answering, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {

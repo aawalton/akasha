@@ -10,9 +10,11 @@ export const UNPACK_CODE = "/lua-compiler/lualib-helper/unpack/unpack.lualib-hel
 
 export const UNPACK_LUA50 = "/lua-compiler/lualib-helper/unpack/unpack.lualib-helper.lua50-code.ts"
 
-export const PERFORMANCE_PAGE = "/lua-compiler/lualib-helper/performance/performance.lualib-helper.ts"
+export const PERFORMANCE_PAGE =
+  "/lua-compiler/lualib-helper/performance/performance.lualib-helper.ts"
 
-export const PERFORMANCE_CODE = "/lua-compiler/lualib-helper/performance/performance.lualib-helper.code.ts"
+export const PERFORMANCE_CODE =
+  "/lua-compiler/lualib-helper/performance/performance.lualib-helper.code.ts"
 
 export const WELL_KNOWN_PAGE =
   "/lua-compiler/lualib-helper/well-known-symbols/well-known-symbols.lualib-helper.ts"
