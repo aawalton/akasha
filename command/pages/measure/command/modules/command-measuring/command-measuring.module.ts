@@ -59,6 +59,18 @@ export const commandMeasuring = {
       statement: "The rows are drawn by the rule the check measuring draws its rows by.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Commands are ordered by falling average elapsed time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Commands taking equal elapsed time are ordered by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A command with no average is ordered after every command that has one.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a row.",
     },

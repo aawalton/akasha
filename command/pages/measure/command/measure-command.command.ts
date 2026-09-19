@@ -67,11 +67,15 @@ export const measureCommand = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Commands are ordered by what their runs took on average.",
+      statement: "Commands are ordered by the elapsed time their runs took on average.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Commands taking equal processor time are ordered by name.",
+      statement: "The command whose runs took the longest is drawn first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Commands taking equal elapsed time are ordered by name.",
     },
     {
       decisionKind: "decision-kind/absence",

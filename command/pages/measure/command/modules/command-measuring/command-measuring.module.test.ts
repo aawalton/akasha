@@ -1,15 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
-import { linesOf, windowOf } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
+import {
+  costOf,
+  linesOf,
+  windowOf,
+} from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
   HOUR,
   NOW,
+  runsOf,
   spacedOnce,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { ALLOWED } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import {
+  byWall,
   costsIn,
   foundIn,
   heldIn,
@@ -150,6 +156,22 @@ test("a command stating no seconds is drawn with the seconds the wrapper allows"
   commandFiled(root, "index")
 
   expect(costsIn(root, NOW, DAY_BACK).checks[0]?.limits.wall).toBe(ALLOWED)
+})
+
+test("commands are ordered by falling average elapsed time rather than by processor time", () => {
+  const root = rootFor()
+  rowsInto(root, INDEX_AT, [{ runId: ONE, cpuSeconds: 9, wallMs: 1000, ran: "index" }])
+  rowsInto(root, READ_AT, [{ runId: TWO, cpuSeconds: 1, wallMs: 5000, ran: "read" }])
+
+  expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["read", "index"])
+})
+
+test("equal elapsed times are ordered by name, and a command with no average comes last", () => {
+  const walled = (check: string, wallMs?: number) =>
+    costOf(check, wallMs === undefined ? [] : runsOf([{ phase: "command", wallMs }]))
+  const rows = [walled("b-tie", 2000), walled("none"), walled("slow", 5000), walled("a-tie", 2000)]
+
+  expect([...rows].sort(byWall).map((one) => one.check)).toEqual(["slow", "a-tie", "b-tie", "none"])
 })
 
 test("a window is chosen by the rule the check measuring chooses one by", () => {

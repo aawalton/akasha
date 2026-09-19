@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  byCpu,
+  type CheckCost,
   type Chosen,
   type Costs,
   costOf,
@@ -81,6 +81,13 @@ function limitsFor(root: string, ran: string): Limits {
   return { cpu: null, wall: secondsIn(valueByPath(root, one.path)), mem: null }
 }
 
+export function byWall(a: CheckCost, b: CheckCost): number {
+  if (a.wall === null && b.wall === null) return a.check.localeCompare(b.check)
+  if (a.wall === null) return 1
+  if (b.wall === null) return -1
+  return b.wall - a.wall || a.check.localeCompare(b.check)
+}
+
 export function costsIn(root: string, now: number, chosen: Chosen): Costs {
   const reading = heldIn(root)
   const held = reading.runs.filter((one) => one.phase === COMMAND)
@@ -90,7 +97,7 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
       : runningOf(held, rankedOf(latestOf(held), chosen.runs))
   const checks = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs, limitsFor(root, ran)))
   return {
-    checks: [...checks].sort(byCpu),
+    checks: [...checks].sort(byWall),
     total: totalOf(within),
     unread: reading.unread,
     torn: reading.torn,
