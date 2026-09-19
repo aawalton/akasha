@@ -10,10 +10,7 @@ import type {
   Keeping,
   Running,
 } from "akasha/command/pages/talos/apply/talos-apply.command.code.ts"
-import {
-  tookSaid,
-  wroteConfig,
-} from "akasha/command/pages/talos/apply/talos-apply.command.code.ts"
+import { tookSaid, wroteConfig } from "akasha/command/pages/talos/apply/talos-apply.command.code.ts"
 
 const APPLIED: Applied = {
   cluster: "home",

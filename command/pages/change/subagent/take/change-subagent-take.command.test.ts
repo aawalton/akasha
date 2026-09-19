@@ -2,11 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { seatEditsAt } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { baseOf as headOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
-import { changeSubagentTake } from "akasha/command/pages/change/subagent/take/change-subagent-take.command.code.ts"
-import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   AGENT,
@@ -15,6 +10,11 @@ import {
   repoWith,
   scratch,
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { baseOf as headOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
+import { changeSubagentTake } from "akasha/command/pages/change/subagent/take/change-subagent-take.command.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 afterAll(scratch.sweep)
 
