@@ -22,10 +22,6 @@ export const serviceHealth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service publishing a host name the service could not bind is broken.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A host name unbound is broken whether or not that service is scheduled.",
     },
     {
