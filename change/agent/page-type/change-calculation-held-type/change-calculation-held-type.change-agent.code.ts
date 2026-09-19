@@ -1,7 +1,10 @@
+import { changeCalculationHeldType as changeCalculationHeldTypeMechanical } from "akasha/change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const CHANGE_HELD_TYPE = "change-mechanical-page-type/change-calculation-held-type"
+const CHANGE_HELD_TYPE =
+  `${changeMechanicalPageType.slug}/${changeCalculationHeldTypeMechanical.slug}` as const
 
 const UNDER = "under"
 

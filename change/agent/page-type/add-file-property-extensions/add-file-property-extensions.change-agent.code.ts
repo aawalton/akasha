@@ -1,7 +1,10 @@
+import { addFilePropertyExtensions as addFilePropertyExtensionsMechanical } from "akasha/change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const ADD_EXTENSIONS = "change-mechanical-page-type/add-file-property-extensions"
+const ADD_EXTENSIONS =
+  `${changeMechanicalPageType.slug}/${addFilePropertyExtensionsMechanical.slug}` as const
 
 const UNDER = "under"
 

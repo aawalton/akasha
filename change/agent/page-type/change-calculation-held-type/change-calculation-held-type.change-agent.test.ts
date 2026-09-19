@@ -3,6 +3,8 @@ import {
   changeCalculationHeldType,
   runChange,
 } from "akasha/change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"
+import { changeCalculationHeldType as changeCalculationHeldTypeMechanical } from "akasha/change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -10,7 +12,7 @@ import {
   catching,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
-const RUNG = "change-mechanical-page-type/change-calculation-held-type"
+const RUNG = `${changeMechanicalPageType.slug}/${changeCalculationHeldTypeMechanical.slug}` as const
 
 const NOWHERE = "/nowhere"
 

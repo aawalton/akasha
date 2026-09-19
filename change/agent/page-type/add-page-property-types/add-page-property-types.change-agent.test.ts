@@ -3,6 +3,8 @@ import {
   addPagePropertyTypes,
   runChange,
 } from "akasha/change/agent/page-type/add-page-property-types/add-page-property-types.change-agent.code.ts"
+import { addPagePropertyTypes as addPagePropertyTypesMechanical } from "akasha/change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -10,7 +12,7 @@ import {
   catching,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
-const RUNG = "change-mechanical-page-type/add-page-property-types"
+const RUNG = `${changeMechanicalPageType.slug}/${addPagePropertyTypesMechanical.slug}` as const
 
 const KIND = "boolean-property"
 
