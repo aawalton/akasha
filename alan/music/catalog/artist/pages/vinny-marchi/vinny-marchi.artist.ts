@@ -14,6 +14,12 @@ export const vinnyMarchi = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "888e374a-b1ce-4730-bf5e-05b0758eb9a3",
+      externalLink: "https://musicbrainz.org/artist/888e374a-b1ce-4730-bf5e-05b0758eb9a3",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "5USAMqcbMAzF3HBmeD5pJF",
       externalLink: "https://open.spotify.com/artist/5USAMqcbMAzF3HBmeD5pJF",
@@ -21,4 +27,5 @@ export const vinnyMarchi = {
     },
   ],
   title: "Vinny Marchi",
+  genre: [],
 } as const satisfies Artist
