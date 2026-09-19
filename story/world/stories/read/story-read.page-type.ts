@@ -23,9 +23,9 @@ export const storyRead = {
     "module/chapter-channel",
     "module/chapter-turns",
     "module/reader-shell",
+    "page-type/story-chapter-read",
     "select-property/publication-status",
     "text-property/external-tags",
-    "relation-property/parts",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

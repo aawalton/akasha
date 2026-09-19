@@ -19961,3 +19961,4 @@
 {"propertySlug":"import","fileName":"story-chapter-read.page-type.types.ts","path":"story/world/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/stories/read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapters/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0085-085-analog.story-chapter-read.ts"}
 {"propertySlug":"import","fileName":"story-chapter-read.page-type.types.ts","path":"story/world/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/stories/read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapters/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0086-086-demonic-meteor.story-chapter-read.ts"}
 {"propertySlug":"parts","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
+{"propertySlug":"parts","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
