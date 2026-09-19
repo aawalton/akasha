@@ -178,7 +178,7 @@ const NAMED: ReadonlyMap<string, string> = new Map([
   ["work-tree", "work-tree"],
   ["temper", "temper"],
   ["temper-addon", "addon"],
-  ["temper-addon-data-generate", "data-generate"],
+  ["temper-addon-copy-metadata", "copy-metadata"],
 ])
 
 export const LEVELS_NAMED: Naming = (slug) => NAMED.get(slug) ?? null
@@ -189,7 +189,7 @@ const TYPED: ReadonlyMap<string, Kind> = new Map([
   ["work-tree", COMMAND],
   ["temper", NAMESPACE],
   ["temper-addon", NAMESPACE],
-  ["temper-addon-data-generate", COMMAND],
+  ["temper-addon-copy-metadata", COMMAND],
 ])
 
 export const LEVELS_TYPED: Typing = (slug) => TYPED.get(slug) ?? null

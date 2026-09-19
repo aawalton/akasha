@@ -29,13 +29,13 @@ function over(text: string): readonly Refusal[] {
 }
 
 test("a call collapsed into one hyphenated word is refused", () => {
-  const said = over('const SELF = "akasha temper-addon-data-generate"\n')
+  const said = over('const SELF = "akasha temper-addon-copy-metadata"\n')
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("akasha temper addon data-generate")
+  expect(said[0]?.reason).toContain("akasha temper addon copy-metadata")
 })
 
 test("the same call spelled with spaces is left alone", () => {
-  expect(over('const SELF = "akasha temper addon data-generate"\n')).toEqual([])
+  expect(over('const SELF = "akasha temper addon copy-metadata"\n')).toEqual([])
 })
 
 test("a namespace collapsed into one word is refused too", () => {
@@ -51,7 +51,7 @@ test("a hyphenated name no level of the command tree carries is left alone", () 
 })
 
 test("a slug with no akasha before it names a page and is left alone", () => {
-  expect(over('const PAGE = "temper-addon-data-generate"\n')).toEqual([])
+  expect(over('const PAGE = "temper-addon-copy-metadata"\n')).toEqual([])
 })
 
 test("a specifier under the akasha package is left alone", () => {
@@ -59,11 +59,11 @@ test("a specifier under the akasha package is left alone", () => {
 })
 
 test("a piece of a template literal is judged as a whole string literal is", () => {
-  expect(over("const why = `${one} came from akasha temper-addon-data-generate`\n")).toHaveLength(1)
+  expect(over("const why = `${one} came from akasha temper-addon-copy-metadata`\n")).toHaveLength(1)
 })
 
 test("a file that holds no code is judged not", () => {
-  expect(judged(HOLDS_NO_CODE, 'const SELF = "akasha temper-addon-data-generate"\n')).toEqual([])
+  expect(judged(HOLDS_NO_CODE, 'const SELF = "akasha temper-addon-copy-metadata"\n')).toEqual([])
 })
 
 test("the line named is the line the literal is on", () => {
@@ -71,13 +71,13 @@ test("the line named is the line the literal is on", () => {
 })
 
 test("this mark excuses a file only where this rule could not have refused it", () => {
-  const text = 'const SELF = "akasha temper-addon-data-generate"\n'
+  const text = 'const SELF = "akasha temper-addon-copy-metadata"\n'
   expect(over(text)).toHaveLength(1)
   expect(mark(text, PROBE_AT)).toBe(true)
 })
 
 test("two collapsed calls in one literal are refused once each", () => {
   expect(
-    over('const SAID = "akasha temper-addon-data-generate and akasha temper-addon"\n')
+    over('const SAID = "akasha temper-addon-copy-metadata and akasha temper-addon"\n')
   ).toHaveLength(2)
 })

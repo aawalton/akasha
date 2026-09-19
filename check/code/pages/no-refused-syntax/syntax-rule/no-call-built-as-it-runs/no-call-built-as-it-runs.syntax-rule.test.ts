@@ -35,14 +35,14 @@ function over(text: string): readonly Refusal[] {
 }
 
 test("a constant this file declares is put in place and the call it builds is refused", () => {
-  const said = over('const AT = "temper-addon-data-generate"\nconst why = `run akasha ${AT} now`\n')
+  const said = over('const AT = "temper-addon-copy-metadata"\nconst why = `run akasha ${AT} now`\n')
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("akasha temper addon data-generate")
+  expect(said[0]?.reason).toContain("akasha temper addon copy-metadata")
 })
 
 test("the same call built with the levels apart is left alone", () => {
   expect(
-    over('const AT = "temper addon data-generate"\nconst why = `run akasha ${AT} now`\n')
+    over('const AT = "temper addon copy-metadata"\nconst why = `run akasha ${AT} now`\n')
   ).toEqual([])
 })
 
@@ -83,7 +83,7 @@ test("a name built as the code runs that names no call is left alone", () => {
 })
 
 test("a file that holds no code is judged not", () => {
-  const text = 'const AT = "temper-addon-data-generate"\nconst why = `run akasha ${AT} now`\n'
+  const text = 'const AT = "temper-addon-copy-metadata"\nconst why = `run akasha ${AT} now`\n'
   expect(judged(HOLDS_NO_CODE, text)).toEqual([])
 })
 

@@ -41,7 +41,7 @@ test("a call whose every word names a level is refused nothing", () => {
 })
 
 test("a three-level call whose deepest name carries a hyphen is refused nothing", () => {
-  expect(over(said("run `akasha temper addon data-generate`"))).toEqual([])
+  expect(over(said("run `akasha temper addon copy-metadata`"))).toEqual([])
 })
 
 test("a word naming no level under a namespace is refused", () => {
