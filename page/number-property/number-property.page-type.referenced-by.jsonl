@@ -148,6 +148,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/recency-saturation-days.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/recency-weight.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/reps-before-slowing.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/seconds-per-raise.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/warmup-load-share.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/warmup-reps.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/properties/weekly-set-ceiling.number-property.ts"}

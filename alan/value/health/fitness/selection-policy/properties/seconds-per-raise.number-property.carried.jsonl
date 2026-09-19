@@ -1,0 +1,7 @@
+{"definition":"how many seconds Alan spends on any one movement that raises his temperature"}
+{"id":"01a0ba57-fb54-70a9-a68a-e712c4a0541d"}
+{"max":null}
+{"propertySlug":"seconds-per-raise"}
+{"slug":"seconds-per-raise"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

@@ -21,5 +21,6 @@ export const selectionPolicy = {
   warmupReps: 10,
   minutesStayingWarm: 15,
   minutesRaising: 5,
+  secondsPerRaise: 60,
   mobilisingMovements: 2,
 } as const satisfies SelectionPolicy
