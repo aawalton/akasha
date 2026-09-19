@@ -7,7 +7,10 @@ import {
   isDeconUsefulForCharacter,
   isDeconUsefulForCurrent,
 } from "akasha/temper/items-addon/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
-import { knowsMotifByCharData } from "akasha/temper/items-addon/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
+import {
+  knownChapterCountForStyleByCharData,
+  knowsMotifByCharData,
+} from "akasha/temper/items-addon/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
 import { countItemInBag } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { countScripts } from "akasha/temper/items-addon/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
@@ -15,6 +18,7 @@ import { buildGetCharacterSkillLineRanks } from "akasha/temper/items-addon/modul
 import { canCharacterLevelMorphs } from "akasha/temper/items-addon/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 
@@ -273,5 +277,21 @@ export function buildEsoEvalEnv(): EvalEnv {
       return curseState(charId)
     },
     getCharacterCanLevelMorphs: (charId) => canCharacterLevelMorphs(charId),
+    getKnownChapterCountForStyle: (charId, styleId) => {
+      if (charId === currentId) {
+        const styleChapters = STYLE_TO_CHAPTERS[styleId]
+        if (styleChapters === undefined || styleChapters.length === 0) return 0
+        let count = 0
+        for (const chapter of styleChapters) {
+          if (IsSmithingStyleKnown(styleId, chapter)) count++
+        }
+        return count
+      }
+      const characters = getTemperCharactersData()
+      if (!characters) return 0
+      const charData = asObjectRecord(characters[charId])
+      if (!charData) return 0
+      return knownChapterCountForStyleByCharData(charData, styleId)
+    },
   }
 }

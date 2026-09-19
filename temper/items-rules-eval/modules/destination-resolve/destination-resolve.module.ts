@@ -46,5 +46,15 @@ export const destinationResolve = {
       decisionKind: "decision-kind/departure",
       statement: "A character already claiming the same item key is skipped during use resolution.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A master motif is ordered over every eligible character by the ordering the game side uses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every other item kind resolves to the first eligible character without reading the rest.",
+    },
   ],
 } as const satisfies Module

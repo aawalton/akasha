@@ -73,6 +73,8 @@ export interface EvalEnv {
   readonly getCharacterCurseState: (charId: string) => LookupResult<CurseState | undefined>
 
   readonly getCharacterCanLevelMorphs: (charId: string) => LookupResult<boolean>
+
+  readonly getKnownChapterCountForStyle: (charId: string, styleId: number) => LookupResult<number>
 }
 
 export interface WantedEquipmentFacts {

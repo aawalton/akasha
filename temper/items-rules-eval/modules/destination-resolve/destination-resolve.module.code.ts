@@ -5,8 +5,14 @@ import {
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { DestinationChain } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items-rules-core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
-import { hashItemKey } from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
-import { characterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
+import {
+  hashItemKey,
+  orderedForMasterMotif,
+} from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
+import {
+  characterId,
+  type ItemKey,
+} from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { buildWantedEquipmentFacts } from "akasha/temper/items-rules-eval/modules/check-equip-target/check-equip-target.module.code.ts"
 import {
   inferInspireCraftingType,
@@ -226,6 +232,10 @@ function resolveUseByPriority(facts: ItemFacts, ctx: EvalContext): DestinationRe
   const claimHash = hashItemKey(itemKey)
   const claims = ctx.claimedByCharacter
 
+  if (itemKey.kind === "motif" && itemKey.chapterId === null) {
+    return resolveMasterMotifByPriority(itemKey, itemKey.styleId, priority, claimHash, ctx)
+  }
+
   for (const charId of priority) {
     if (claims !== undefined) {
       const existing = claims.get(charId)
@@ -242,6 +252,47 @@ function resolveUseByPriority(facts: ItemFacts, ctx: EvalContext): DestinationRe
   }
 
   return { kind: "no-eligible-target", detail: "every priority character already knows item" }
+}
+
+function resolveMasterMotifByPriority(
+  itemKey: ItemKey,
+  styleId: number,
+  priority: ReadonlyArray<string>,
+  claimHash: string,
+  ctx: EvalContext
+): DestinationResolution {
+  const claims = ctx.claimedByCharacter
+  const eligible: string[] = []
+  for (const charId of priority) {
+    if (claims !== undefined) {
+      const existing = claims.get(charId)
+      if (existing?.has(claimHash)) {
+        continue
+      }
+    }
+    const known = ctx.env.isKnownByCharacter(itemKey, charId)
+    if (known === "unknown") {
+      return { kind: "indeterminate", detail: `knowledge unknown for ${charId}` }
+    }
+    if (known) continue
+    eligible.push(charId)
+  }
+
+  const countByCharacter = new Map<string, number>()
+  for (const charId of eligible) {
+    const count = ctx.env.getKnownChapterCountForStyle(charId, styleId)
+    if (count === "unknown") {
+      return { kind: "indeterminate", detail: `known chapter count unknown for ${charId}` }
+    }
+    countByCharacter.set(charId, count)
+  }
+
+  const ordered = orderedForMasterMotif(eligible, (charId) => countByCharacter.get(charId) ?? 0)
+  const first = ordered[0]
+  if (first === undefined) {
+    return { kind: "no-eligible-target", detail: "every priority character already knows item" }
+  }
+  return { kind: "resolved", concrete: `character:${first}` }
 }
 
 function resolveResearchByPriority(facts: ItemFacts, ctx: EvalContext): DestinationResolution {

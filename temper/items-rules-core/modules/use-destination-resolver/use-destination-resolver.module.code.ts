@@ -24,6 +24,19 @@ function isClaimable(itemKey: ItemKey): boolean {
   return itemKey.kind !== "consumable"
 }
 
+export function orderedForMasterMotif<T>(
+  eligible: readonly T[],
+  knownChapterCount: (one: T) => number
+): readonly T[] {
+  const decorated = eligible.map((one, index) => [one, knownChapterCount(one), index] as const)
+  decorated.sort((a, b) => {
+    const byCount = a[1] - b[1]
+    if (byCount !== 0) return byCount
+    return a[2] - b[2]
+  })
+  return decorated.map(([one]) => one)
+}
+
 export function planUseDestinationsForStack(
   itemKey: ItemKey,
   stackCount: number,
@@ -51,16 +64,11 @@ export function planUseDestinationsForStack(
 
   if (itemKey.kind === "motif" && itemKey.chapterId === null) {
     const styleId = itemKey.styleId
-    const decorated = eligible.map(
-      (charId, index) => [charId, ctx.knownChapterCountForStyle(charId, styleId), index] as const
+    const ordered = orderedForMasterMotif(eligible, (charId) =>
+      ctx.knownChapterCountForStyle(charId, styleId)
     )
-    decorated.sort((a, b) => {
-      const byCount = a[1] - b[1]
-      if (byCount !== 0) return byCount
-      return a[2] - b[2]
-    })
     eligible.length = 0
-    for (const [charId] of decorated) eligible.push(charId)
+    for (const charId of ordered) eligible.push(charId)
   }
 
   const allocations: CharacterId[] = []

@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"command/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.code.ts"}
 {"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.test.ts"}
+{"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"temper/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"temper/items-addon/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"}
 {"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"temper/items-addon/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"motif-chapter-set.module.code.ts","path":"temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}

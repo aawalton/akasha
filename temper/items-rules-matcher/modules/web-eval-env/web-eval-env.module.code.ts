@@ -193,6 +193,11 @@ export function buildWebEvalEnv(
       if (resolve === undefined) return "unknown"
       return resolve(charId)
     },
+    getKnownChapterCountForStyle: (charId, styleId) => {
+      const knownChapters = lookupKnownMotifChapters(ctx, charId, styleId)
+      if (knownChapters === undefined) return 0
+      return knownChapters.size
+    },
   }
 }
 
@@ -221,6 +226,7 @@ const UNKNOWN_ENV: EvalEnv = {
   getCharacterSkillLineRanks: () => "unknown",
   getCharacterCurseState: () => "unknown",
   getCharacterCanLevelMorphs: () => "unknown",
+  getKnownChapterCountForStyle: () => "unknown",
 }
 
 export function buildItemIdToCooldownGroup(

@@ -72,6 +72,14 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     },
     getCharacterCurseState: (charId) => charactersById.get(charId)?.curseState,
     getCharacterCanLevelMorphs: () => UNKNOWN,
+    getKnownChapterCountForStyle: (charId, styleId) => {
+      const held = charactersById.get(charId)
+      if (held === undefined) return 0
+      const knownChapters =
+        held.motifKnowledgeByStyle.get(styleId) ?? held.motifChaptersByStyle.get(styleId)
+      if (knownChapters === undefined) return 0
+      return knownChapters.size
+    },
 
     getConsumableWanters: (itemId) => consumableWanters.get(itemId) ?? [],
     getConsumableStock: (itemId, charId) => {
