@@ -97,10 +97,3 @@ export async function runMechanicalChange(
 }
 
 export type Landing = typeof runMechanicalChange
-
-export const landedMechanically = (
-  done: string[],
-  root: string,
-  asked: readonly Asking[],
-  message: string
-): Promise<Applied | Refused> => runMechanicalChange(root, asked, message, { done })

@@ -83,6 +83,15 @@ export const mechanicalChangeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A mechanical landing is reached through one entry point.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The agent id, the writer, the read and the commit slot a caller names are one record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An agent id is carried only where the caller has an agent id.",
     },
     {
