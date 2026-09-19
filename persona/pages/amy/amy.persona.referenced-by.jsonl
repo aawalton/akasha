@@ -8,7 +8,6 @@
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/amy-l2.persona-wallpaper-notification.ts","id":"019f0f65-b2db-7264-be0b-a010fb108528"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-11.persona-craft-day.ts","id":"019f15d6-8cb1-7508-b4d2-0f182f993122"}
-{"propertySlug":"seat-persona","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0ba7a-87a1-7000-abcc-8c58ad56b7f2"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0b6d5-b280-7000-8585-60e5052cb5a3"}
 {"propertySlug":"sent-from","path":"alan/harness/reminder-system/reminder/pages/amazon-return-dropoff.reminder.ts","id":"01a0a80d-8e52-7c74-92cc-786178bfdb05"}
 {"propertySlug":"sent-to","path":"alan/harness/reminder-system/reminder/pages/amazon-return-dropoff.reminder.ts","id":"01a0a80d-8e52-7c74-92cc-786178bfdb05"}
