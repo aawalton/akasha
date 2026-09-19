@@ -96,6 +96,10 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement: "A movement Alan may not perform is one a restriction names the pattern of.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The kit keeping a movement out is tested on every run rather than on a day.",
+    },
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],
