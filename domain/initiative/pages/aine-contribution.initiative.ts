@@ -51,7 +51,6 @@ export const aineContribution = {
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
     "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
     "A contributor's contribution points are one pool across every product, and every reading of them is filtered to one product.",
-    "The contribution points proposing a feature request costs buy Alan's review and are spent whether or not he publishes that request.",
     "A feature request has no price, and the contribution points committed to it only order the queue Alan reviews.",
     "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
     "A cent contributed earns one contribution point, and that rate is fixed until something proves it wrong.",
@@ -60,5 +59,6 @@ export const aineContribution = {
     "Each product carries a brand of its own and calls for backing on the one shared Ko-fi account.",
     "A contributor signs in at alanwalton.com, and the payment Stripe reports is matched to that sign-in by email address.",
     "Stripe is the only payment method Ko-fi offers, so every contribution lands in Alan's own Stripe account and nothing is read from Ko-fi.",
+    "Proposing a feature request costs a hundred contribution points, which back that request, and which are spent where Alan does not publish it.",
   ],
 } as const satisfies Initiative
