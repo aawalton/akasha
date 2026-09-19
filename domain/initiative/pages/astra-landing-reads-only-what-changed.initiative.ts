@@ -23,7 +23,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "What a property carries is worked out for the pages a change names rather than across the index.",
       workingMemory:
-        "`facingIn` with `carryingOf` and `derivedFor` in `property-carrying.module.code.ts` is 5.10s of a 12.4s landing, the largest thing left. One `carryingOf` walks every page under the type declaring the property, `take` at 3.81s, where `slugsWhere` and `writersIn` want the page type slugs alone. `readByGenerated` in `type-turning.module.code.ts` builds a second face over the root, 2.99s more.",
+        "`facingIn` with `derivedFor` in `property-carrying.module.code.ts` was 5.10s of a 12.4s landing, all of it walking every page under the type declaring a property. `slugsWhere` and `writersIn` now ask `typesCarrying` in `property-declaring.module.code.ts` which page types carry a name, and read no page under them. `readByGenerated` in `type-turning.module.code.ts` builds a second face over the root, 2.99s, and is next.",
     },
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
