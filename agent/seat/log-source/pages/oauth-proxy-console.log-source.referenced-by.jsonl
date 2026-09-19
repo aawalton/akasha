@@ -40,7 +40,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-athena-2026-09-19/oauth-proxy-console-athena-2026-09-19.seat-log-day.ts","id":"01a0b9c6-929c-7001-af56-efee7b8afe01"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-aura-2026-09-15/oauth-proxy-console-aura-2026-09-15.seat-log-day.ts","id":"01a0a694-8221-7a40-8c3c-5d06c59dec4d"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-aura-2026-09-16/oauth-proxy-console-aura-2026-09-16.seat-log-day.ts","id":"01a0aa91-bcb8-74ea-8730-5e99e883ccd8"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-awen-2026-09-19/oauth-proxy-console-awen-2026-09-19.seat-log-day.ts","id":"01a0ba53-67e7-799b-9f51-671e46bd09d4"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-12/oauth-proxy-console-dalla-2026-09-12.seat-log-day.ts","id":"01a092ea-0571-7986-968c-5ae2b80509e9"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-13/oauth-proxy-console-dalla-2026-09-13.seat-log-day.ts","id":"01a09c18-9a76-7f38-9840-fa28c82eb129"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-dalla-2026-09-14/oauth-proxy-console-dalla-2026-09-14.seat-log-day.ts","id":"01a09d36-e3aa-786e-b826-a255514de0f0"}
@@ -54,6 +53,7 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-13/oauth-proxy-console-ember-2026-09-13.seat-log-day.ts","id":"01a09c01-8e97-7013-87d4-82472d5f0fba"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-14/oauth-proxy-console-ember-2026-09-14.seat-log-day.ts","id":"01a09d36-b85f-709c-9626-b3c1f6d0ec7c"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-15/oauth-proxy-console-ember-2026-09-15.seat-log-day.ts","id":"01a0a2cd-c873-7ff8-93a1-3e32e5055d36"}
+{"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-19/oauth-proxy-console-ember-2026-09-19.seat-log-day.ts","id":"01a0ba53-90cd-7521-b7d1-9c19925d4c16"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-eppie-2026-09-12/oauth-proxy-console-eppie-2026-09-12.seat-log-day.ts","id":"01a092ea-4e51-7d76-b703-34c7971b4b6b"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-eppie-2026-09-13/oauth-proxy-console-eppie-2026-09-13.seat-log-day.ts","id":"01a09b60-b268-7a81-9198-e746846db945"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/oauth-proxy-console-eppie-2026-09-14/oauth-proxy-console-eppie-2026-09-14.seat-log-day.ts","id":"01a09d37-22b6-7118-be40-0d89b7a308ac"}
