@@ -44,4 +44,5 @@ test("a repo whose index carries no fixed name answers none", () => {
   const places = reading()
   expect(places.fixed.size).toBe(0)
   expect(places.loaded.size).toBe(0)
+  expect(places.filed.size).toBe(0)
 })

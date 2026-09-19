@@ -9,4 +9,5 @@ export const tunnelRoutes = {
   extensions: ["ts"],
   fileName: "tunnel-routes.ts",
   types: "ts",
+  fixedExport: ["routes"],
 } as const satisfies CodeFileProperty

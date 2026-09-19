@@ -9,12 +9,14 @@ export const codeFileProperty = {
     "number-property/max-cpu-seconds",
     "number-property/max-memory-mb",
     "number-property/max-wall-seconds",
+    "text-property/fixed-export",
   ],
   extends: ["page-type/file-property"],
   properties: [
     { pageProperty: "number-property/max-cpu-seconds", required: false, many: false },
     { pageProperty: "number-property/max-wall-seconds", required: false, many: false },
     { pageProperty: "number-property/max-memory-mb", required: false, many: false },
+    { pageProperty: "text-property/fixed-export", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

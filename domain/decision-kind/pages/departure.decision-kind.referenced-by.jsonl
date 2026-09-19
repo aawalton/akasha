@@ -2816,6 +2816,7 @@
 {"propertySlug":"decision-kind","path":"page/calendar-date-property/calendar-date-property.page-type.ts","id":"01a063de-2c60-7001-89b5-5efdc8482d83"}
 {"propertySlug":"decision-kind","path":"page/calendar-time-property/calendar-time-property.page-type.ts","id":"01a06d87-9d4d-7c65-aad0-8a0385b221c6"}
 {"propertySlug":"decision-kind","path":"page/code-file-property/code-file-property.page-type.ts","id":"01a0877d-0474-7e0b-9ce4-b84e15eed4ed"}
+{"propertySlug":"decision-kind","path":"page/code-file-property/properties/fixed-export.text-property.ts","id":"01a0b8b8-c95b-78fc-acaf-f63af9984f5e"}
 {"propertySlug":"decision-kind","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.ts","id":"01a06869-1dd9-7000-9568-50cc17d96243"}
 {"propertySlug":"decision-kind","path":"page/command/modules/page-secret-acting/page-secret-acting.module.ts","id":"01a06812-3ce8-7ffb-9691-94df69748ba6"}
 {"propertySlug":"decision-kind","path":"page/command/page-command.domain.ts","id":"01a06812-3ce8-79c7-b7c0-ca183f330ca5"}

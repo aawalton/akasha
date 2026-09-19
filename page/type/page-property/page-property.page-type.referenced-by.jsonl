@@ -107,6 +107,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/workstation/properties/stops.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/workstation/properties/unbound.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/workstation/properties/wants.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/code-file-property/properties/fixed-export.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/file-property/properties/extensions.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}

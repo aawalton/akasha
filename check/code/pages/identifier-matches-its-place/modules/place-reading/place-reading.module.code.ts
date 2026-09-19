@@ -1,5 +1,6 @@
 import { dirname } from "node:path"
 import { luaExport } from "akasha/design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts"
+import { fixedExport } from "akasha/page/code-file-property/properties/fixed-export.text-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   textAt,
@@ -23,6 +24,12 @@ const LOADED_BY = `${textProperty.slug}/${loadedExport.slug}` as const
 
 const LOADED_KEY = "loadedExport"
 
+const FILED_BY = `${textProperty.slug}/${fixedExport.slug}` as const
+
+const FILED_KEY = "fixedExport"
+
+const FILE_NAME = "fileName"
+
 const SLUG = "slug"
 
 export type Placing = {
@@ -38,6 +45,7 @@ export type Places = {
   readonly derivedIdentifier: Placing
   readonly fixed: ReadonlyMap<string, string>
   readonly loaded: ReadonlyMap<string, ReadonlySet<string>>
+  readonly filed: ReadonlyMap<string, ReadonlySet<string>>
 }
 
 function fixedNamesIn(index: Answering): ReadonlyMap<string, string> {
@@ -68,6 +76,21 @@ function loadedNamesIn(index: Answering): ReadonlyMap<string, ReadonlySet<string
   return found
 }
 
+function filedNamesIn(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, ReadonlySet<string>>()
+  const held = index.carryingOf(FILED_BY)
+  if ("refused" in held) return found
+  for (const one of held.carrying) {
+    const value = index.pageByPath(one.path)
+    if (value === null) continue
+    const named = textsAt(value, FILED_KEY)
+    const fileName = textAt(value, FILE_NAME)
+    if (named === null || fileName === null) continue
+    found.set(fileName, new Set(named))
+  }
+  return found
+}
+
 export function placesIn(
   root: string,
   index: Answering,
@@ -81,6 +104,7 @@ export function placesIn(
   return {
     fixed: fixedNamesIn(index),
     loaded: loadedNamesIn(index),
+    filed: filedNamesIn(index),
     typeIdentifier: held(typeIdentifier.nameFormat),
     functionIdentifier: held(functionIdentifier.nameFormat),
     componentIdentifier: held(componentIdentifier.nameFormat),

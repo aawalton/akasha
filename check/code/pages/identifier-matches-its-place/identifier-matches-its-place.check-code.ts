@@ -197,6 +197,11 @@ export const identifierMatchesItsPlace = {
       statement:
         "A name declared both as a type and as a value in the same file stands in the type's place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name a file property states as a `fixedExport` is passed over in the file that property names.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

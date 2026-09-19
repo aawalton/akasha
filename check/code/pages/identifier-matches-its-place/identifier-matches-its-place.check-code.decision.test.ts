@@ -7,6 +7,8 @@ import {
   DRAWN_HELD,
   DRAWN_NULL,
   DRAWN_ONE,
+  FILED,
+  FILED_AT,
   FIXED_AT,
   FIXED_BODY,
   FIXED_HELD,
@@ -296,6 +298,8 @@ test("a name another writer or a loader fixed is passed over, however it is boun
   expect(refusedIn(AT, FIXED_HELD, PLACES)).toHaveLength(1)
   expect(refusedIn(TAKEN_AT, TAKEN, PLACES)).toEqual([])
   expect(refusedIn(AT, TAKEN, PLACES)).toHaveLength(1)
+  expect(refusedIn(FILED_AT, FILED, PLACES)).toEqual([])
+  expect(refusedIn(AT, FILED, PLACES)).toHaveLength(1)
 })
 
 test("a declaration in an ordinary file is passed over, and a name beside it is not", () => {

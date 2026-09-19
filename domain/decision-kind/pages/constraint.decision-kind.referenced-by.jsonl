@@ -308,6 +308,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-loading/service-loading.module.ts","id":"01a09fef-e3b8-7987-8115-0f845edec368"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/container-registry/container-registry.domain.ts","id":"01a0658b-0f02-7e11-9293-61be7a832920"}
+{"propertySlug":"decision-kind","path":"page/code-file-property/properties/fixed-export.text-property.ts","id":"01a0b8b8-c95b-78fc-acaf-f63af9984f5e"}
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
 {"propertySlug":"decision-kind","path":"page/generator-kind/generator-kind.page-type.ts","id":"01a04f17-5b78-7c66-9145-7a386e55406e"}
 {"propertySlug":"decision-kind","path":"page/index/modules/answering/index-answering.module.ts","id":"01a05eca-0849-789d-8118-1e8d7ae05244"}

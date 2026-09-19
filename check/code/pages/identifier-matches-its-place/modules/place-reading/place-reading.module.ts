@@ -20,5 +20,10 @@ export const placeReading = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a body or judges a name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The file properties carrying `fixedExport` are asked of the index rather than named here.",
+    },
   ],
 } as const satisfies Module

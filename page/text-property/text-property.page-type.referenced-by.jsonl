@@ -306,6 +306,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/unbound.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/wanted-by.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/wants.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/code-file-property/properties/fixed-export.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/file-property/properties/extensions.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/file-property/properties/file-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/index/properties/index-name.text-property.ts"}

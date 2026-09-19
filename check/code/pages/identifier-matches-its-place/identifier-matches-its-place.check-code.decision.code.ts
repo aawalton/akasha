@@ -1,4 +1,4 @@
-import { dirname } from "node:path"
+import { basename, dirname } from "node:path"
 import type {
   Places,
   Placing,
@@ -269,7 +269,9 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     parted === null || parted.sections.length !== 1 || parted.sections[0] !== CODE
       ? undefined
       : places.loaded.get(parted.pageType)
-  const fixedAs = (held: string): boolean => held === fixedHere || loadedHere?.has(held) === true
+  const filedHere = places.filed.get(basename(at))
+  const fixedAs = (held: string): boolean =>
+    held === fixedHere || loadedHere?.has(held) === true || filedHere?.has(held) === true
   const alsoAType = (name: ts.Identifier, holding: ts.Node | null): boolean =>
     holding === null && typed.has(name.text)
   const taking = (
