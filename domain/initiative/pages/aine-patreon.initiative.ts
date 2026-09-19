@@ -19,9 +19,8 @@ export const ainePatreon = {
     },
     {
       statement:
-        "Anyone reaches a public site holding every published feature request and its points.",
-      workingMemory:
-        "Which domain this site is served under, and what it is branded as, is unsettled and waits on Alan.",
+        "Every product serves the feature requests for that product at `requests` under its own domain.",
+      workingMemory: "",
     },
     {
       statement: "Every product Alan has live has a view of the feature requests for that product.",
