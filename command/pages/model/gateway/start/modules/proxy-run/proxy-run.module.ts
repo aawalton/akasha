@@ -78,10 +78,6 @@ export const proxyRun = {
       statement: "Nothing here reads an account.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here makes a request of a gateway.",
-    },
-    {
       decisionKind: "decision-kind/gap",
       statement: "The version given is not computed from the entry.",
     },
