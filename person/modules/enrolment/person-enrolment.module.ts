@@ -4,7 +4,7 @@ export const personEnrolment = {
   id: "01a05afe-7a0e-7ae1-ad39-ba070a334a6b",
   type: "page-type/module",
   slug: "person-enrolment",
-  definition: "the person an account signing in represents",
+  definition: "the person a caller signing in represents",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -12,6 +12,30 @@ export const personEnrolment = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An account reaches a person through the account that person states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor reaches a person through the contributor that person names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whoever a caller is, is one contributor or one account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor named without a page type is the contributor of that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor named under another page type is nobody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor no person names is nobody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor two people name is read to neither person.",
     },
     {
       decisionKind: "decision-kind/departure",

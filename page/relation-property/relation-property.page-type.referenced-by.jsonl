@@ -126,6 +126,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-person.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/authority/properties/person-authority-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/authority/properties/person-authority-person.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/device-secret/properties/device-secret-contributor.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/device-token/properties/device-token-ios-app.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/device-token/properties/device-token-person.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/properties/answered-by.relation-property.ts"}

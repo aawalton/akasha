@@ -1,8 +1,15 @@
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.code.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.test.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/readout-guarding/readout-guarding.module.code.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/route-access-holding/route-access-holding.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/device-token-registration/device-token-registration.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/route-access/route-access.module.code.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/route-access/route-access.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.test-fixtures.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.test-fixtures.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.test-fixtures.ts","path":"person/modules/route-access/route-access.module.test.ts"}

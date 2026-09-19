@@ -3,6 +3,7 @@ import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-rec
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { accessKind } from "akasha/person/access-kind/access-kind.page-type.ts"
 import { route } from "akasha/person/access-kind/pages/route.access-kind.ts"
+import { asAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
   noNap,
   recordingFetcher,
@@ -10,7 +11,7 @@ import {
 import {
   grantsRoute,
   ROUTE_TARGETS,
-  routeAccessForAccount,
+  routeAccessFor,
   routeAccessForPerson,
   routeTargetsFor,
 } from "akasha/person/modules/route-access/route-access.module.code.ts"
@@ -40,8 +41,8 @@ function answeringByType(byType: Record<string, readonly Record<string, unknown>
 }
 
 test("an account no person states reaches no route", async () => {
-  const decided = await routeAccessForAccount(
-    ACCOUNT_NOBODY_STATES,
+  const decided = await routeAccessFor(
+    asAccount(ACCOUNT_NOBODY_STATES),
     ROUTE_TARGETS.READOUT_FEED,
     answeringByType({ person: [] }),
     noNap
@@ -81,8 +82,8 @@ test("only an access of the route kind is asked for", async () => {
 })
 
 test("an account read to a person takes that person's grants", async () => {
-  const decided = await routeAccessForAccount(
-    "an-account",
+  const decided = await routeAccessFor(
+    asAccount("an-account"),
     "readout-feed",
     answeringByType({
       person: [{ slug: "jenny" }],
@@ -106,7 +107,7 @@ test("access pages that went unread open nothing", async () => {
       headers: { "content-type": "application/json" },
     })
   }
-  const decided = await routeAccessForAccount("an-account", "readout-feed", fetcher, noNap)
+  const decided = await routeAccessFor(asAccount("an-account"), "readout-feed", fetcher, noNap)
   expect(decided.permitted).toBe(false)
   expect(decided.why).toContain("went unread")
 })

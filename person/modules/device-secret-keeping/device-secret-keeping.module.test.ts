@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   DEVICE_SECRET_PAGE_TYPE,
@@ -10,17 +11,28 @@ import {
   hashDeviceSecret,
   pageIn,
   readPresentedDeviceSecret,
+  valuesFor,
+  whoseIn,
 } from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,
 } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
 import {
+  asAccount,
+  asContributor,
+} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import {
   noNap,
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
-const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+const ALAN_ACCOUNT = alan.supabaseAuthUserId
+
+const ALAN_CONTRIBUTOR = alan.contributor
+
+const ALAN_CONTRIBUTOR_SLUG = slugIn(ALAN_CONTRIBUTOR) ?? ""
 
 const A_DEVICE = "A1B2C3D4-E5F6-47B8-9C0D-1E2F3A4B5C6D"
 
@@ -101,6 +113,7 @@ test("the values handed over name no secret and say nothing of a revocation", ()
   const secret = generateDeviceSecret()
   const values = deviceSecretValues({
     userId: ALAN_ACCOUNT,
+    contributor: null,
     deviceId: A_DEVICE,
     secretHash: hashDeviceSecret(secret),
     revokedAt: null,
@@ -113,9 +126,42 @@ test("the values handed over name no secret and say nothing of a revocation", ()
   expect(JSON.stringify(values)).not.toContain(secret)
 })
 
+test("the values a contributor's secret hands over name that contributor and no account", () => {
+  const values = deviceSecretValues({
+    userId: null,
+    contributor: ALAN_CONTRIBUTOR,
+    deviceId: A_DEVICE,
+    secretHash: hashDeviceSecret("one"),
+    revokedAt: null,
+  })
+  expect(values).toEqual({
+    contributor: ALAN_CONTRIBUTOR,
+    deviceId: A_DEVICE,
+    secretHash: hashDeviceSecret("one"),
+  })
+})
+
+test("the values a contributor is minted under name that contributor as a person names it", () => {
+  const kept = valuesFor(asContributor(ALAN_CONTRIBUTOR_SLUG), A_DEVICE, hashDeviceSecret("one"))
+  expect(kept?.contributor).toBe(ALAN_CONTRIBUTOR)
+  expect(kept?.userId).toBeNull()
+  expect(valuesFor(asAccount(ALAN_ACCOUNT), A_DEVICE, hashDeviceSecret("one"))?.contributor).toBe(
+    null
+  )
+  expect(valuesFor(asAccount("  "), A_DEVICE, hashDeviceSecret("one"))).toBeNull()
+})
+
+test("a secret naming both an account and a contributor is whose nobody's", () => {
+  const both = whoseIn({ userId: ALAN_ACCOUNT, contributor: ALAN_CONTRIBUTOR })
+  expect(both).toEqual({ refused: expect.stringContaining("names neither") })
+  const neither = whoseIn({ userId: null, contributor: null })
+  expect(neither).toEqual({ refused: expect.stringContaining("is nobody's") })
+})
+
 test("the values handed over state when the secret was revoked where it was", () => {
   const values = deviceSecretValues({
     userId: ALAN_ACCOUNT,
+    contributor: null,
     deviceId: A_DEVICE,
     secretHash: hashDeviceSecret("one"),
     revokedAt: "2026-08-31T00:00:00.000Z",
@@ -159,9 +205,63 @@ test("a caller presenting a secret a page represents is read to that account", a
   )
   expect(read).toEqual({
     outcome: "stands",
-    userId: ALAN_ACCOUNT,
+    whom: asAccount(ALAN_ACCOUNT),
     slug: "alan-a1b2c3d4-e5f6-47b8-9c0d-1e2f3a4b5c6d",
   })
+})
+
+test("a caller presenting a secret a contributor's page represents is read to that contributor", async () => {
+  const secret = generateDeviceSecret()
+  const page = {
+    id: AN_ID,
+    pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+    slug: deviceSecretSlug("alan", A_DEVICE),
+    contributor: ALAN_CONTRIBUTOR,
+    deviceId: A_DEVICE,
+    secretHash: hashDeviceSecret(secret),
+  }
+  const read = await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [page] }),
+    noNap
+  )
+  expect(read).toEqual({
+    outcome: "stands",
+    whom: asContributor(ALAN_CONTRIBUTOR),
+    slug: "alan-a1b2c3d4-e5f6-47b8-9c0d-1e2f3a4b5c6d",
+  })
+})
+
+test("a secret whose page names an account and a contributor opens nothing", async () => {
+  const secret = generateDeviceSecret()
+  const page = pageFor(secret, { contributor: ALAN_CONTRIBUTOR })
+  const held = await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [page] }),
+    noNap
+  )
+  expect(held.outcome).toBe("refused")
+  if (held.outcome !== "refused") return
+  expect(held.why).toContain("names neither")
+})
+
+test("a secret whose page names neither an account nor a contributor opens nothing", async () => {
+  const secret = generateDeviceSecret()
+  const page = {
+    id: AN_ID,
+    pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+    slug: deviceSecretSlug("alan", A_DEVICE),
+    deviceId: A_DEVICE,
+    secretHash: hashDeviceSecret(secret),
+  }
+  const held = await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [page] }),
+    noNap
+  )
+  expect(held.outcome).toBe("refused")
+  if (held.outcome !== "refused") return
+  expect(held.why).toContain("is nobody's")
 })
 
 test("the page is asked for under the key the page carries", async () => {

@@ -16,6 +16,14 @@ export const readoutGuarding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A signed-in contributor is read off the request before any account is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request carrying a device secret is read by that secret and by nothing else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reader admitted either way must hold readout access.",
     },
     {

@@ -4,6 +4,20 @@ export const routeAccessHolding = {
   id: "01a0655e-d39a-7381-af75-83593fd6c7b1",
   type: "page-type/module",
   slug: "route-access-holding",
-  definition: "whether an account may reach a route, with the refusal written to the log",
+  definition: "whether a caller may reach a route, with the refusal written to the log",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call handing over a request reads the session on it before any account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call handing over no request is read by its account alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller already read to a contributor or an account is decided without a read.",
+    },
+  ],
 } as const satisfies Module

@@ -132,6 +132,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/access/properties/person-access-person.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/authority/properties/person-authority-kind.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/authority/properties/person-authority-person.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/device-secret/properties/device-secret-contributor.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/device-token/properties/device-token-ios-app.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/device-token/properties/device-token-person.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/properties/answered-by.relation-property.types.ts"}

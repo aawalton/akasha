@@ -4,7 +4,7 @@ export const routeAccess = {
   id: "01a05afe-7a0f-7405-b894-524372b09614",
   type: "page-type/module",
   slug: "route-access",
-  definition: "whether the person an account represents may reach a route",
+  definition: "whether the person a caller represents may reach a route",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,6 +27,14 @@ export const routeAccess = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An account read to no person reaches no route.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor read to no person reaches no route.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor and an account reach a route the same way, through the person.",
     },
     {
       decisionKind: "decision-kind/departure",

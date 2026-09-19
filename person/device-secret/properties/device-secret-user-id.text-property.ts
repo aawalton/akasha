@@ -13,6 +13,15 @@ export const deviceSecretUserId = {
       decisionKind: "decision-kind/departure",
       statement: "This user id is the account a person states rather than that person's slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This user id is an account and never a contributor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A device secret minted under a session names a contributor and states no account.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

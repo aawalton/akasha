@@ -4,7 +4,7 @@ export const deviceSecretKeeping = {
   id: "01a05b39-f50c-7ad6-a7d4-29b6957fb929",
   type: "page-type/module",
   slug: "device-secret-keeping",
-  definition: "the account a device presenting a secret represents, and how that secret is kept",
+  definition: "whoever a device presenting a secret represents, and how that secret is kept",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,7 +14,28 @@ export const deviceSecretKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page is asked for under the key the page carries rather than under its slug.",
+      statement:
+        "A page matched by what it carries is asked for under that key rather than under its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a device already has a secret is read at the slug that secret has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret names an account or a contributor, and never both.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A secret whose page names both is refused rather than read as either.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A secret whose page names neither is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Either refusal opens nothing rather than asking the caller to try again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,7 +64,19 @@ export const deviceSecretKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A secret is minted only for a contributor a person names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A device minting again keeps the page the device is already on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page a minting writes over is the page at the slug that minting writes to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page naming the same account and device at another slug is not written over.",
     },
     {
       decisionKind: "decision-kind/departure",

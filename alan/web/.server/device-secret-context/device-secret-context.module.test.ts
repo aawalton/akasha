@@ -12,6 +12,7 @@ import {
   generateDeviceSecret,
   hashDeviceSecret,
 } from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
+import { asAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { z } from "zod"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
@@ -70,7 +71,7 @@ test("a secret the store matches reads to that account", async () => {
     storeHolding([pageFor(secret)]),
     noNap
   )
-  expect(held).toEqual({ outcome: "admitted", userId: ALAN_ACCOUNT })
+  expect(held).toEqual({ outcome: "admitted", whom: asAccount(ALAN_ACCOUNT) })
 })
 
 test("a secret the store matches to nothing is refused", async () => {

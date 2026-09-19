@@ -7,7 +7,13 @@ import {
   type Sleeper,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { personSlugForAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import {
+  asAccount,
+  asContributor,
+  personSlugFor,
+  personSlugForAccount,
+  type Whom,
+} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
 
@@ -22,7 +28,8 @@ export const ALERT = "alert"
 export const LIVE_ACTIVITY = "liveactivity"
 
 export interface DeviceTokenRegistration {
-  readonly userId: string
+  readonly userId?: string
+  readonly contributor?: string
   readonly deviceTokenRegistration: string
   readonly platform: string
   readonly bundleId: string
@@ -115,12 +122,18 @@ export async function deviceTokensFor(
   return { ok: true, tokens }
 }
 
+export function whomIn(args: DeviceTokenRegistration): Whom {
+  const contributor = (args.contributor ?? "").trim()
+  if (contributor !== "") return asContributor(contributor)
+  return asAccount(args.userId ?? "")
+}
+
 export async function registerDeviceToken(
   args: DeviceTokenRegistration,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<void> {
-  const enrolled = await personSlugForAccount(args.userId, fetcher, naps)
+  const enrolled = await personSlugFor(whomIn(args), fetcher, naps)
   if (!enrolled.ok) throw new Error(`registerDeviceToken: ${enrolled.why}`)
   const person = enrolled.personSlug
   const apps = await bundlesByApp(fetcher, naps)

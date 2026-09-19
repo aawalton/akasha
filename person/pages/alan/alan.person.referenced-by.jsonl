@@ -1,6 +1,7 @@
 {"propertySlug":"device-token-person","path":"person/device-token/pages/alan-alanwalton-f3856b70c2a1c4435d399176b9c28c8435285a777a482f8f9a93e89a60def19b.device-token.ts","id":"01a06244-2290-76f7-8b58-355085abab49"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/route-access/route-access.module.test.ts"}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"person","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0babc-789b-7000-be8a-be01e1d247fd"}

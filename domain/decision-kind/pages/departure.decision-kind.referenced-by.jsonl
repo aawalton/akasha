@@ -1183,6 +1183,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.ts","id":"01a0655e-d39b-7b16-9974-8d43261a1726"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/picture-answering/picture-answering.module.ts","id":"01a09c61-a5d9-766a-9d6d-662757fe1a24"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/readout-guarding/readout-guarding.module.ts","id":"01a0655e-d39a-743e-a192-9fef67057d38"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/route-access-holding/route-access-holding.module.ts","id":"01a0655e-d39a-7381-af75-83593fd6c7b1"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/alanwalton-web/alanwalton-web.manifest.ts","id":"01a0737e-5eae-7286-97df-40905333f97f"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","id":"01a0655d-dab8-7853-9f9b-b95d2c8ee8a0"}
@@ -3140,6 +3141,7 @@
 {"propertySlug":"decision-kind","path":"person/access/properties/person-access-target.text-property.ts","id":"01a05430-c0ee-7f62-a8b7-74d97d845e28"}
 {"propertySlug":"decision-kind","path":"person/authority/properties/person-authority-target.text-property.ts","id":"01a05430-c0f0-78db-bb0e-ea07c84713f0"}
 {"propertySlug":"decision-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}
+{"propertySlug":"decision-kind","path":"person/device-secret/properties/device-secret-contributor.relation-property.ts","id":"01a0bb8b-035d-7000-b57a-e7b33e0f3722"}
 {"propertySlug":"decision-kind","path":"person/device-secret/properties/device-secret-device-id.text-property.ts","id":"01a05b39-f50c-7066-918d-6a9ab1940531"}
 {"propertySlug":"decision-kind","path":"person/device-secret/properties/device-secret-revoked-at.instant-property.ts","id":"01a05b39-f50c-73d4-bf1e-b7d036cba922"}
 {"propertySlug":"decision-kind","path":"person/device-secret/properties/device-secret-user-id.text-property.ts","id":"01a05b39-f50c-7103-abe2-bf3c03f7aab4"}

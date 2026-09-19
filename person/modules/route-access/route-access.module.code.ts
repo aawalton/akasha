@@ -4,7 +4,10 @@ import {
   type Fetcher,
   type Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { personSlugForAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import {
+  personSlugFor,
+  type Whom,
+} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const PERSON_ACCESS_PAGE_TYPE = "person-access"
 
@@ -82,13 +85,13 @@ export async function routeAccessForPerson(
   }
 }
 
-export async function routeAccessForAccount(
-  accountUserId: string,
+export async function routeAccessFor(
+  whom: Whom,
   target: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Decision> {
-  const enrolled = await personSlugForAccount(accountUserId, fetcher, naps)
+  const enrolled = await personSlugFor(whom, fetcher, naps)
   if (!enrolled.ok) return { permitted: false, why: enrolled.why }
   return routeAccessForPerson(enrolled.personSlug, target, fetcher, naps)
 }

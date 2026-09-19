@@ -12,6 +12,10 @@ import type {
   Fetcher,
   Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  asAccount,
+  asContributor,
+} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const CAPACITOR = "capacitor://localhost"
 
@@ -48,7 +52,8 @@ function effectsWith(over: Partial<PictureEffects> = {}) {
   const recorded: string[] = []
   const detached: Promise<void>[] = []
   const effects: PictureEffects = {
-    admit: async () => ({ outcome: "admitted", userId: ALAN_ACCOUNT }),
+    admit: async () => ({ outcome: "admitted", whom: asAccount(ALAN_ACCOUNT) }),
+    signedIn: async () => null,
     enrol: async () => ({ ok: true, personSlug: "alan" }),
     keep: async (id, bytes) => {
       kept.push({ id, bytes })
@@ -76,6 +81,43 @@ function effectsWith(over: Partial<PictureEffects> = {}) {
 test("a caller the device secrets refuse is refused", async () => {
   const { effects } = effectsWith({ admit: async () => ({ outcome: "refused" }) })
   expect((await answerPicture(asked(JPEG), effects)).status).toBe(401)
+})
+
+test("a signed-in contributor is taken without the device secrets being read", async () => {
+  let admitted = false
+  const asWhom: string[] = []
+  const { effects } = effectsWith({
+    signedIn: async () => ({ contributor: "contributor-abc", subjectHash: "" }),
+    admit: async () => {
+      admitted = true
+      return { outcome: "refused" }
+    },
+    enrol: async (whom) => {
+      asWhom.push(JSON.stringify(whom))
+      return { ok: true, personSlug: "alan" }
+    },
+  })
+  expect((await answerPicture(asked(JPEG), effects)).status).toBe(200)
+  expect(admitted).toBe(false)
+  expect(asWhom).toEqual([JSON.stringify(asContributor("contributor-abc"))])
+})
+
+test("a contributor no person names is refused rather than answered", async () => {
+  const { effects, kept } = effectsWith({
+    signedIn: async () => ({ contributor: "contributor-abc", subjectHash: "" }),
+    enrol: async () => ({ ok: false, unread: false, why: "no person states the contributor" }),
+  })
+  expect((await answerPicture(asked(JPEG), effects)).status).toBe(403)
+  expect(kept).toEqual([])
+})
+
+test("a caller with neither a session nor a device secret is refused", async () => {
+  const { effects, kept } = effectsWith({
+    signedIn: async () => null,
+    admit: async () => ({ outcome: "refused" }),
+  })
+  expect((await answerPicture(asked(JPEG), effects)).status).toBe(401)
+  expect(kept).toEqual([])
 })
 
 test("a caller the device secrets could not be read for is told to try again", async () => {

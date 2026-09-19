@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"contributor.page-type.types.ts","path":"product/kofi/contributor/pages/9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4.contributor.ts"}
 {"propertySlug":"parts","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
 {"propertySlug":"target-page-type","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.ts","id":"01a0baea-5af8-7b34-9d41-c76e47d9c2e8"}
+{"propertySlug":"target-page-type","path":"person/device-secret/properties/device-secret-contributor.relation-property.ts","id":"01a0bb8b-035d-7000-b57a-e7b33e0f3722"}
 {"propertySlug":"target-page-type","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}

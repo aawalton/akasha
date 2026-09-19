@@ -1,4 +1,8 @@
 import { messageNamed } from "akasha/agent/messaging/modules/message-naming/message-naming.module.code.ts"
+import {
+  type SignedIn,
+  signedInAs,
+} from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { computeFingerprint } from "akasha/alan/harness/errors-core/modules/error-fingerprint/error-fingerprint.module.code.ts"
 import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
 import {
@@ -20,8 +24,10 @@ import {
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
+  asContributor,
   type Enrolment,
-  personSlugForAccount,
+  personSlugFor,
+  type Whom,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
@@ -52,7 +58,9 @@ const REPORTED_AT = "api/picture"
 
 export type Admitting = (request: Request) => Promise<DeviceSecretContext>
 
-export type Enrolling = (userId: string) => Promise<Enrolment>
+export type SigningIn = (request: Request) => Promise<SignedIn | null>
+
+export type Enrolling = (whom: Whom) => Promise<Enrolment>
 
 export type Keeping = (id: string, bytes: Uint8Array<ArrayBuffer>) => Promise<void>
 
@@ -64,6 +72,7 @@ export type Detaching = (work: Promise<void>) => void
 
 export type PictureEffects = {
   readonly admit: Admitting
+  readonly signedIn: SigningIn
   readonly enrol: Enrolling
   readonly keep: Keeping | null
   readonly deliver: Delivering
@@ -173,7 +182,8 @@ function defaultEffects(): PictureEffects {
   const store = seaweedFSObjectStoreFromEnv()
   return {
     admit: (request) => resolveDeviceSecretContext(request),
-    enrol: (userId) => personSlugForAccount(userId),
+    signedIn: (request) => signedInAs(request),
+    enrol: (whom) => personSlugFor(whom),
     keep: store === null ? null : (id, bytes) => store.put(pictureObjectKey(id), bytes),
     deliver: (to, body) => deliverToSeat(to, body),
     record: (why) => recordUnannounced(why),
@@ -183,6 +193,21 @@ function defaultEffects(): PictureEffects {
     now: () => new Date(),
     mint: () => crypto.randomUUID(),
   }
+}
+
+type Whoever =
+  | { readonly ok: true; readonly whom: Whom }
+  | { readonly ok: false; readonly outcome: "refused" | "unread" }
+
+async function whomFor(
+  effects: Pick<PictureEffects, "admit" | "signedIn">,
+  request: Request
+): Promise<Whoever> {
+  const signed = await effects.signedIn(request)
+  if (signed !== null) return { ok: true, whom: asContributor(signed.contributor) }
+  const ctx = await effects.admit(request)
+  if (ctx.outcome === "admitted") return { ok: true, whom: ctx.whom }
+  return { ok: false, outcome: ctx.outcome }
 }
 
 export function answerPictureAsked(request: Request): Response {
@@ -202,11 +227,11 @@ export async function answerPicture(
   const answer = (body: unknown, status: number): Response =>
     Response.json(body, { status, headers: withCors(new Headers(), cors) })
 
-  const ctx = await effects.admit(request)
-  if (ctx.outcome === "unread") {
+  const whoever = await whomFor(effects, request)
+  if (!whoever.ok && whoever.outcome === "unread") {
     return answer({ ok: false, error: "Device secrets went unread.", retryable: true }, 503)
   }
-  if (ctx.outcome === "refused") return answer({ ok: false, error: "Not authenticated." }, 401)
+  if (!whoever.ok) return answer({ ok: false, error: "Not authenticated." }, 401)
 
   if (mediaTypeOf(request) !== JPEG) {
     return answer({ ok: false, error: `A picture is sent as ${JPEG}.` }, 415)
@@ -221,7 +246,7 @@ export async function answerPicture(
     return answer({ ok: false, error: `A picture holds at most ${BYTES_HELD} bytes.` }, 413)
   }
 
-  const enrolled = await effects.enrol(ctx.userId)
+  const enrolled = await effects.enrol(whoever.whom)
   if (!enrolled.ok) {
     return answer(
       { ok: false, error: enrolled.why, retryable: enrolled.unread },

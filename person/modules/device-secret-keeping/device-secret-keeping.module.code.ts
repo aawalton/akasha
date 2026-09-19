@@ -13,7 +13,13 @@ import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,
 } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
-import { personSlugForAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import {
+  asAccount,
+  asContributor,
+  contributorNamed,
+  personSlugFor,
+  type Whom,
+} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
 
@@ -27,6 +33,8 @@ const SECRET_HASH_KEY = "secretHash"
 
 const USER_ID_KEY = "userId"
 
+const CONTRIBUTOR_KEY = "contributor"
+
 const DEVICE_ID_KEY = "deviceId"
 
 const REVOKED_AT_KEY = "revokedAt"
@@ -35,12 +43,19 @@ const HASH_SHAPE = /^[0-9a-f]{64}$/
 
 const NO_MATCH = "no device secret represents the secret presented"
 
+const NAMES_BOTH =
+  "a device secret naming an account and a contributor names neither, so it opens nothing"
+
+const NAMES_NEITHER =
+  "a device secret naming no account and no contributor is nobody's, so it opens nothing"
+
 export type Presented =
   | { readonly ok: true; readonly secret: string }
   | { readonly ok: false; readonly reason: "absent" | "malformed" }
 
 export type DeviceSecretValues = {
-  readonly userId: string
+  readonly userId: string | null
+  readonly contributor: string | null
   readonly deviceId: string
   readonly secretHash: string
   readonly revokedAt: string | null
@@ -51,13 +66,17 @@ export type DeviceSecretPage = DeviceSecretValues & {
   readonly slug: string
 }
 
+export type Whose = { readonly whom: Whom } | { readonly refused: string }
+
+export type Held = { readonly has: boolean } | { readonly unread: string }
+
 export type Found =
   | { readonly outcome: "found"; readonly page: DeviceSecretPage }
   | { readonly outcome: "none" }
   | { readonly outcome: "unread"; readonly why: string }
 
 export type Admitted =
-  | { readonly outcome: "stands"; readonly userId: string; readonly slug: string }
+  | { readonly outcome: "stands"; readonly whom: Whom; readonly slug: string }
   | { readonly outcome: "refused"; readonly why: string }
   | { readonly outcome: "unread"; readonly why: string }
 
@@ -102,23 +121,53 @@ export function deviceSecretSlug(personSlug: string, deviceId: string): string {
 
 export function deviceSecretValues(kept: DeviceSecretValues): Record<string, unknown> {
   const values: Record<string, unknown> = {
-    [USER_ID_KEY]: kept.userId,
     [DEVICE_ID_KEY]: kept.deviceId,
     [SECRET_HASH_KEY]: kept.secretHash,
   }
+  if (kept.userId !== null) values[USER_ID_KEY] = kept.userId
+  if (kept.contributor !== null) values[CONTRIBUTOR_KEY] = kept.contributor
   if (kept.revokedAt !== null) values[REVOKED_AT_KEY] = kept.revokedAt
   return values
+}
+
+export function whoseIn(kept: Pick<DeviceSecretValues, "userId" | "contributor">): Whose {
+  if (kept.userId !== null && kept.contributor !== null) return { refused: NAMES_BOTH }
+  if (kept.contributor !== null) return { whom: asContributor(kept.contributor) }
+  if (kept.userId !== null) return { whom: asAccount(kept.userId) }
+  return { refused: NAMES_NEITHER }
+}
+
+export function valuesFor(
+  whom: Whom,
+  deviceId: string,
+  secretHash: string
+): DeviceSecretValues | null {
+  if (whom.by === "account") {
+    const account = whom.account.trim()
+    if (account === "") return null
+    return { userId: account, contributor: null, deviceId, secretHash, revokedAt: null }
+  }
+  const contributor = contributorNamed(whom.contributor)
+  if (contributor === null) return null
+  return { userId: null, contributor, deviceId, secretHash, revokedAt: null }
 }
 
 export function pageIn(values: Readonly<Record<string, unknown>>): DeviceSecretPage | null {
   const id = textAt(values, "id")
   const slug = textAt(values, "slug")
-  const userId = textAt(values, USER_ID_KEY)
   const deviceId = textAt(values, DEVICE_ID_KEY)
   const secretHash = textAt(values, SECRET_HASH_KEY)
   if (id === null || slug === null) return null
-  if (userId === null || deviceId === null || secretHash === null) return null
-  return { id, slug, userId, deviceId, secretHash, revokedAt: textAt(values, REVOKED_AT_KEY) }
+  if (deviceId === null || secretHash === null) return null
+  return {
+    id,
+    slug,
+    userId: textAt(values, USER_ID_KEY),
+    contributor: textAt(values, CONTRIBUTOR_KEY),
+    deviceId,
+    secretHash,
+    revokedAt: textAt(values, REVOKED_AT_KEY),
+  }
 }
 
 async function onlyOne(
@@ -141,7 +190,7 @@ async function onlyOne(
     if (page === null) {
       return {
         outcome: "unread",
-        why: "a device secret page carries no account or no device or no hash",
+        why: "a device secret page carries no device or no hash",
       }
     }
     if (narrows(page)) held.push(page)
@@ -166,18 +215,44 @@ async function deviceSecretCarryingHash(
 }
 
 async function deviceSecretFor(
-  userId: string,
+  whom: Whom,
   deviceId: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Found> {
+  const two = `more than one device secret represents ${deviceId}, and neither is read`
+  if (whom.by === "account") {
+    const account = whom.account.trim()
+    if (account === "") return { outcome: "none" }
+    return onlyOne(
+      { [USER_ID_KEY]: { is: account }, [DEVICE_ID_KEY]: { is: deviceId } },
+      (page) => page.userId === account && page.deviceId === deviceId,
+      two,
+      fetcher,
+      naps
+    )
+  }
+  const contributor = contributorNamed(whom.contributor)
+  if (contributor === null) return { outcome: "none" }
   return onlyOne(
-    { [USER_ID_KEY]: { is: userId }, [DEVICE_ID_KEY]: { is: deviceId } },
-    (page) => page.userId === userId && page.deviceId === deviceId,
-    `more than one device secret represents ${deviceId}, and neither is read`,
+    { [CONTRIBUTOR_KEY]: { is: contributor }, [DEVICE_ID_KEY]: { is: deviceId } },
+    (page) => page.contributor === contributor && page.deviceId === deviceId,
+    two,
     fetcher,
     naps
   )
+}
+
+async function deviceSecretHeldAt(slug: string, fetcher?: Fetcher, naps?: Sleeper): Promise<Held> {
+  const read = await readingFor(
+    { pages: [{ pageTypeSlug: DEVICE_SECRET_PAGE_TYPE, slug }] },
+    fetcher,
+    naps
+  )
+  if ("refused" in read) {
+    return { unread: `\`${slug}\` went unread, so nothing was minted over it: ${read.refused}` }
+  }
+  return { has: read.bodies.some((one) => one.content !== null) }
 }
 
 export async function deviceSecretPresented(
@@ -194,13 +269,17 @@ export async function deviceSecretPresented(
   if (found.outcome === "unread") return found
   if (found.outcome === "none") return { outcome: "refused", why: NO_MATCH }
   const page = found.page
+  const whose = whoseIn(page)
+  if ("refused" in whose) {
+    return { outcome: "refused", why: `\`${page.slug}\`: ${whose.refused}` }
+  }
   if (page.revokedAt !== null) {
     return { outcome: "refused", why: `\`${page.slug}\` was revoked at ${page.revokedAt}` }
   }
   if (!deviceSecretHashesEqual(page.secretHash, presentedHash)) {
     return { outcome: "refused", why: NO_MATCH }
   }
-  return { outcome: "stands", userId: page.userId, slug: page.slug }
+  return { outcome: "stands", whom: whose.whom, slug: page.slug }
 }
 
 async function landing(
@@ -233,7 +312,7 @@ async function landing(
 }
 
 export async function mintDeviceSecret(
-  userId: string,
+  whom: Whom,
   deviceId: string,
   fetcher?: Fetcher,
   naps?: Sleeper
@@ -241,16 +320,18 @@ export async function mintDeviceSecret(
   if (!upperUuid(deviceId)) {
     return { ok: false, why: `\`${deviceId}\` is no device identifier, which is an upper uuid` }
   }
-  const enrolled = await personSlugForAccount(userId, fetcher, naps)
+  const enrolled = await personSlugFor(whom, fetcher, naps)
   if (!enrolled.ok) return { ok: false, why: enrolled.why }
-  const found = await deviceSecretFor(userId, deviceId, fetcher, naps)
-  if (found.outcome === "unread") return { ok: false, why: found.why }
-  const slug = deviceSecretSlug(enrolled.personSlug, deviceId)
   const secret = generateDeviceSecret()
+  const kept = valuesFor(whom, deviceId, hashDeviceSecret(secret))
+  if (kept === null) return { ok: false, why: NAMES_NEITHER }
+  const slug = deviceSecretSlug(enrolled.personSlug, deviceId)
+  const held = await deviceSecretHeldAt(slug, fetcher, naps)
+  if ("unread" in held) return { ok: false, why: held.unread }
   const landed = await landing(
     slug,
-    { userId, deviceId, secretHash: hashDeviceSecret(secret), revokedAt: null },
-    found.outcome === "found",
+    kept,
+    held.has,
     `a device secret is minted for ${enrolled.personSlug}`,
     fetcher,
     naps
@@ -260,13 +341,13 @@ export async function mintDeviceSecret(
 }
 
 export async function revokeDeviceSecret(
-  userId: string,
+  whom: Whom,
   deviceId: string,
   at: string = new Date().toISOString(),
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Revoked> {
-  const found = await deviceSecretFor(userId, deviceId, fetcher, naps)
+  const found = await deviceSecretFor(whom, deviceId, fetcher, naps)
   if (found.outcome === "unread") return { ok: false, why: found.why }
   if (found.outcome === "none") return { ok: true, slug: null, at: null }
   const page = found.page

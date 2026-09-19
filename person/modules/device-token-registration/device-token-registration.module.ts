@@ -20,6 +20,15 @@ export const deviceTokenRegistration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A registration naming a contributor is read to a person by that contributor instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A registration naming both is read by its contributor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The app a token is kept against is the iOS app page with the bundle registered.",
     },
     {

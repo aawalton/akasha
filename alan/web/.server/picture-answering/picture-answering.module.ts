@@ -10,7 +10,15 @@ export const pictureAnswering = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sender is known by its device secret rather than by a session.",
+      statement: "A sender signed in is known by the contributor that session names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sender signed in nowhere is known by its device secret.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sender known neither way is refused and nothing is kept.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,7 +46,7 @@ export const pictureAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The seat told is the one named for the person the device secret was minted to.",
+      statement: "The seat told is the one named for the person the sender was read to.",
     },
     {
       decisionKind: "decision-kind/departure",

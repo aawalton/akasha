@@ -11,12 +11,14 @@ export const deviceSecret = {
     "text-property/device-secret-device-id",
     "text-property/device-secret-hash",
     "text-property/device-secret-user-id",
+    "relation-property/device-secret-contributor",
   ],
   properties: [
-    { pageProperty: "text-property/device-secret-user-id", required: true, many: false },
+    { pageProperty: "text-property/device-secret-user-id", required: false, many: false },
     { pageProperty: "text-property/device-secret-device-id", required: true, many: false },
     { pageProperty: "text-property/device-secret-hash", required: true, many: false },
     { pageProperty: "instant-property/device-secret-revoked-at", required: false, many: false },
+    { pageProperty: "relation-property/device-secret-contributor", required: false, many: false },
   ],
   mortal: true,
   decisions: [
@@ -26,7 +28,23 @@ export const deviceSecret = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A device secret opens everything that account opens and nothing more.",
+      statement: "A device secret minted under a session represents a contributor instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret names an account or a contributor, and never both.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret naming both opens nothing rather than being read as either.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret naming neither opens nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret opens everything the one it names opens and nothing more.",
     },
     {
       decisionKind: "decision-kind/departure",
