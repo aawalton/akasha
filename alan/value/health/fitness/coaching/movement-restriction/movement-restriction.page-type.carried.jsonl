@@ -1,7 +1,7 @@
 {"definition":"a movement Alan may not be offered, and the day that is tested again"}
 {"extends":["page-type/page"]}
 {"id":"01a0b701-cf5a-7a05-8428-2b41611a70f4"}
-{"parts":["select-property/movement-pattern"]}
+{"parts":[]}
 {"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"select-property/movement-pattern","required":true,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"movement-restriction"}

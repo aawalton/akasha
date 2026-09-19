@@ -12,5 +12,5 @@ export const movementRestriction = {
   ],
   types: "ts",
   schema: "jsonl",
-  parts: ["select-property/movement-pattern"],
+  parts: [],
 } as const satisfies PageType
