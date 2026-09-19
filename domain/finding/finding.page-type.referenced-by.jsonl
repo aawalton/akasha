@@ -199,6 +199,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/mint-mobile-trust-reset.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/model-link-crosses-the-repo-line.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/monarch-poll-returns-0-whatever-its-tally-says.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/mortal-sparing-never-reaches-a-referenced-by-file-so-audit-rounds-refuse-them.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-mentions-of-page-type-slug-are-not-the-page-key.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-ways-into-pages-ui-components-are-taken-only-from-inside.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names.finding.ts"}
