@@ -29,4 +29,5 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "idontknowwhyijustdo|66CXWjxzNUsdJxJ2JdwvnR,7lbrnX0ng1Il12RdEU1Ohu|224826",
+  song: "song/ariana-grande-i-dont-know-why-i-just-do",
 } as const satisfies Track

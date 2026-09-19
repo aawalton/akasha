@@ -28,4 +28,5 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineWithBrandyMonicaRemixACappella 
   ],
   trackKey:
     "theboyisminewithbrandymonicaremixacappella|05oH07COxkXKIMt6mIPRee,66CXWjxzNUsdJxJ2JdwvnR,6nzxy2wXs6tLgzEtqOkEi2|212076",
+  song: "song/ariana-grande-the-boy-is-mine-remix-a-cappella",
 } as const satisfies Track

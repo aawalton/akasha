@@ -23,4 +23,5 @@ export const arianaGrandePetalNowhereNobody = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "nowherenobody|66CXWjxzNUsdJxJ2JdwvnR|172001",
+  song: "song/ariana-grande-nowhere-nobody",
 } as const satisfies Track

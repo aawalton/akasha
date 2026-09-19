@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
     { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
   ],
   trackKey: "imnotthatgirlreprisecommentary|66CXWjxzNUsdJxJ2JdwvnR,7daPb40K64rRtF36wd3ZOk|67448",
+  song: "song/ariana-grande-im-not-that-girl-commentary",
 } as const satisfies Track

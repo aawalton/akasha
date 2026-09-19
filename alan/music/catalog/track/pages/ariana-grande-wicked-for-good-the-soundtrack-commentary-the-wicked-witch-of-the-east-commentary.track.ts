@@ -23,4 +23,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   explicit: false,
   trackArtist: [{ externalId: "6uGIoRQUqP4ncxyg6HksA1", artistName: "Marissa Bode" }],
   trackKey: "thewickedwitchoftheeastcommentary|6uGIoRQUqP4ncxyg6HksA1|21886",
+  song: "song/ariana-grande-the-wicked-witch-of-the-east-commentary",
 } as const satisfies Track

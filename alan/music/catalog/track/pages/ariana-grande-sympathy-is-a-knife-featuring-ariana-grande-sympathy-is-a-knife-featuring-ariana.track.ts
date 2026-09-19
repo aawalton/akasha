@@ -27,4 +27,5 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   ],
   trackKey:
     "sympathyisaknifefeaturingarianagrande|25uiPmTg16RbhZWAqwLBy5,66CXWjxzNUsdJxJ2JdwvnR|154126",
+  song: "song/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
 } as const satisfies Track

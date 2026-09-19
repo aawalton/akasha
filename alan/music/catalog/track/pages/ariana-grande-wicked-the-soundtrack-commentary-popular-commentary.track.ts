@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopularCommentary = {
     { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
   ],
   trackKey: "popularcommentary|66CXWjxzNUsdJxJ2JdwvnR,7daPb40K64rRtF36wd3ZOk|71687",
+  song: "song/ariana-grande-popular-commentary",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const alexandriaFireAndIceFireAndIce = {
   explicit: false,
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "fireandice|0SQG4wPVUlfbmbGQfqB47y|140094",
+  song: "song/alexandria-fire-and-ice",
 } as const satisfies Track

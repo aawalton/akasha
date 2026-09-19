@@ -28,4 +28,5 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   ],
   trackKey:
     "itwasamaskedchristmasfeatarianagrandemegantheestallion|181bsRPaVXVlUKXrxwZfHK,66CXWjxzNUsdJxJ2JdwvnR,7mAcgRMD6EfCKHO6cIkDOP|180909",
+  song: "song/ariana-grande-it-was-a-masked-christmas",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHomeComm
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "noplacelikehomecommentary|46UMQ0cW8ToR8egkBRwAxZ|41861",
+  song: "song/ariana-grande-no-place-like-home-commentary",
 } as const satisfies Track

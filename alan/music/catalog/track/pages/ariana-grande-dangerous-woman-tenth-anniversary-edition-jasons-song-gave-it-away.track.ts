@@ -23,4 +23,5 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionJasonsSongGaveItAw
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "jasonssonggaveitaway|66CXWjxzNUsdJxJ2JdwvnR|264626",
+  song: "song/ariana-grande-jasons-song-gave-it-away",
 } as const satisfies Track

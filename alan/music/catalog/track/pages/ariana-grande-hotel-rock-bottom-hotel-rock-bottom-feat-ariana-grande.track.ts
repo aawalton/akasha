@@ -26,4 +26,5 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "hotelrockbottomfeatarianagrande|31hoObE1mECmBt2P64uqLK,66CXWjxzNUsdJxJ2JdwvnR|195705",
+  song: "song/ariana-grande-hotel-rock-bottom",
 } as const satisfies Track

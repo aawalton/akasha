@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBadCommentary = {
     { externalId: "0pHTIdyC4DAsoMhpSufQaz", artistName: "Peter Dinklage" },
   ],
   trackKey: "somethingbadcommentary|0pHTIdyC4DAsoMhpSufQaz,2NqTD8XByzWPCUQQmza0xP|80063",
+  song: "song/ariana-grande-something-bad-commentary",
 } as const satisfies Track

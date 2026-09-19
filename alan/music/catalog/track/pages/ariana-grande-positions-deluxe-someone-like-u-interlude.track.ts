@@ -23,4 +23,5 @@ export const arianaGrandePositionsDeluxeSomeoneLikeUInterlude = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "someonelikeuinterlude|66CXWjxzNUsdJxJ2JdwvnR|76742",
+  song: "song/ariana-grande-someone-like-u-interlude",
 } as const satisfies Track

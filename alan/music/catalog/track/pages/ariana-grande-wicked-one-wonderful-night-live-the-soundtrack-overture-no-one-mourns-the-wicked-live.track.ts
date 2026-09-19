@@ -24,4 +24,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackOvertureNoOneMo
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "overturenoonemournsthewickedlivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|414605",
+    song: "song/ariana-grande-overture-no-one-mourns-the-wicked",
   } as const satisfies Track

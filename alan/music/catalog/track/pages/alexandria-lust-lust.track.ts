@@ -26,4 +26,5 @@ export const alexandriaLustLust = {
     { externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" },
   ],
   trackKey: "lust|0SQG4wPVUlfbmbGQfqB47y,3HedFe4b2Nqeg1CEzmt6ZI|115294",
+  song: "song/alexandria-lust",
 } as const satisfies Track

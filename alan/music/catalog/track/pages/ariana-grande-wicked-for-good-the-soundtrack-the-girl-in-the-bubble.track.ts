@@ -23,4 +23,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackTheGirlInTheBubble = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thegirlinthebubble|66CXWjxzNUsdJxJ2JdwvnR|220500",
+  song: "song/ariana-grande-the-girl-in-the-bubble",
 } as const satisfies Track

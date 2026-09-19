@@ -28,4 +28,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDayCommentary = {
   ],
   trackKey:
     "oneshortdaycommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,7daPb40K64rRtF36wd3ZOk|147480",
+  song: "song/ariana-grande-one-short-day-commentary",
 } as const satisfies Track

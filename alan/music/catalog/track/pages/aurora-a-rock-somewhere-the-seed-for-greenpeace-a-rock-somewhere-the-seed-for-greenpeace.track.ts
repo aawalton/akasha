@@ -27,4 +27,5 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
   ],
   trackKey:
     "arocksomewheretheseedforgreenpeace|0QWrMNukfcVOmgEU0FEDyD,1WgXqy2Dd70QQOU7Ay074N|358246",
+  song: "song/aurora-a-rock-somewhere-the-seed-for-greenpeace",
 } as const satisfies Track

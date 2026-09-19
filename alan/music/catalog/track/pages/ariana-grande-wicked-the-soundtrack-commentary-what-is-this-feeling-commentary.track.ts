@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeelingCommentar
     { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
   ],
   trackKey: "whatisthisfeelingcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|55463",
+  song: "song/ariana-grande-what-is-this-feeling-commentary",
 } as const satisfies Track

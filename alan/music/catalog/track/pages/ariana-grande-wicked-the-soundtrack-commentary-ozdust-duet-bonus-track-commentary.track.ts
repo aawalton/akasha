@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
     { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
   ],
   trackKey: "ozdustduetbonustrackcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|88320",
+  song: "song/ariana-grande-ozdust-duet-bonus-track-commentary",
 } as const satisfies Track

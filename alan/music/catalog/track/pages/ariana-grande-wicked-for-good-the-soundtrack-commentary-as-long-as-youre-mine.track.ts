@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryAsLongAsYoureMine =
     { externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" },
   ],
   trackKey: "aslongasyouremine|2Je7IdIHe8UvZbLXdapQ26,46UMQ0cW8ToR8egkBRwAxZ|246573",
+  song: "song/ariana-grande-as-long-as-youre-mine",
 } as const satisfies Track

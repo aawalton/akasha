@@ -28,4 +28,5 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     ],
     trackKey:
       "whatisthisfeelingdearoldshizlivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|262449",
+    song: "song/ariana-grande-what-is-this-feeling-dear-old-shiz",
   } as const satisfies Track

@@ -23,4 +23,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackNoGoodDeed = {
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "nogooddeed|46UMQ0cW8ToR8egkBRwAxZ|230250",
+  song: "song/ariana-grande-no-good-deed",
 } as const satisfies Track

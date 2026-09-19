@@ -28,4 +28,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackThankGoodnessICouldntBeHappie
   ],
   trackKey:
     "thankgoodnessicouldntbehappier|3eLZo1bSslvsu0zNhtmMM4,5IaJcuBeBkVqhGAzxMciwu,66CXWjxzNUsdJxJ2JdwvnR|322866",
+  song: "song/ariana-grande-thank-goodness-i-couldnt-be-happier",
 } as const satisfies Track

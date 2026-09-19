@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryWonderfulCommentary
     { externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" },
   ],
   trackKey: "wonderfulcommentary|0O1n2TpXR4XizmHi7aY0l8,6VAUVq50O85s387FLQJi2B|57402",
+  song: "song/ariana-grande-wonderful-commentary",
 } as const satisfies Track

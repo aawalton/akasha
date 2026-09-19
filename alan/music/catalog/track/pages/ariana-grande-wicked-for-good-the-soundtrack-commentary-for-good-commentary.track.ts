@@ -29,4 +29,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGoodCommentary =
   ],
   trackKey:
     "forgoodcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|138064",
+  song: "song/ariana-grande-for-good-commentary",
 } as const satisfies Track

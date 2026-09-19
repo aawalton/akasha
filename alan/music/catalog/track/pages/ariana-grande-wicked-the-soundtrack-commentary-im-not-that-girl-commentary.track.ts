@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirlCommentary = 
     { externalId: "1e6BRnFiiwNZl04xu1yqmi", artistName: "Stephen Oremus" },
   ],
   trackKey: "imnotthatgirlcommentary|1e6BRnFiiwNZl04xu1yqmi,2NqTD8XByzWPCUQQmza0xP|73031",
+  song: "song/ariana-grande-im-not-that-girl-commentary",
 } as const satisfies Track

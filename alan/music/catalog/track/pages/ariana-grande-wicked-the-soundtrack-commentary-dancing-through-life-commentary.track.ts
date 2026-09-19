@@ -26,4 +26,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "dancingthroughlifecommentary|2Je7IdIHe8UvZbLXdapQ26,66CXWjxzNUsdJxJ2JdwvnR|84815",
+  song: "song/ariana-grande-dancing-through-life-commentary",
 } as const satisfies Track

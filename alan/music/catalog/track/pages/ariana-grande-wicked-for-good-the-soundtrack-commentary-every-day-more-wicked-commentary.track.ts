@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
     { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
   ],
   trackKey: "everydaymorewickedcommentary|6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|47529",
+  song: "song/ariana-grande-every-day-more-wicked-commentary",
 } as const satisfies Track

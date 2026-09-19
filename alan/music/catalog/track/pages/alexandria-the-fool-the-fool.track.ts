@@ -23,4 +23,5 @@ export const alexandriaTheFoolTheFool = {
   explicit: false,
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "thefool|0SQG4wPVUlfbmbGQfqB47y|175161",
+  song: "song/alexandria-the-fool",
 } as const satisfies Track

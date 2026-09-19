@@ -24,4 +24,5 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchesterSomewhereOverT
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "somewhereovertherainbowlivefrommanchester|66CXWjxzNUsdJxJ2JdwvnR|272026",
+    song: "song/ariana-grande-somewhere-over-the-rainbow",
   } as const satisfies Track

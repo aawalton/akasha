@@ -29,4 +29,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentar
   ],
   trackKey:
     "nogooddeedcommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|101110",
+  song: "song/ariana-grande-no-good-deed-commentary",
 } as const satisfies Track

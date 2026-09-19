@@ -28,4 +28,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravityCommentary =
   ],
   trackKey:
     "defyinggravitycommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,7daPb40K64rRtF36wd3ZOk|150480",
+  song: "song/ariana-grande-defying-gravity-commentary",
 } as const satisfies Track

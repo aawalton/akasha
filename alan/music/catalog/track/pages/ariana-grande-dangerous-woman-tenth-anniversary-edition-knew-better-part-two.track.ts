@@ -23,4 +23,5 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionKnewBetterPartTwo 
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "knewbetterparttwo|66CXWjxzNUsdJxJ2JdwvnR|164772",
+  song: "song/ariana-grande-knew-better-part-two",
 } as const satisfies Track

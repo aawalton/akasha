@@ -23,4 +23,5 @@ export const auroraAPotionForLoveAPotionForLove = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "apotionforlove|1WgXqy2Dd70QQOU7Ay074N|216426",
+  song: "song/aurora-a-potion-for-love",
 } as const satisfies Track

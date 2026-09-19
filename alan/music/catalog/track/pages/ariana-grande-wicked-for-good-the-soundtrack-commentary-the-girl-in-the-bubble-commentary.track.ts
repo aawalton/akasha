@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubbleC
     { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },
   ],
   trackKey: "thegirlinthebubblecommentary|66CXWjxzNUsdJxJ2JdwvnR,6VAUVq50O85s387FLQJi2B|68483",
+  song: "song/ariana-grande-the-girl-in-the-bubble-commentary",
 } as const satisfies Track

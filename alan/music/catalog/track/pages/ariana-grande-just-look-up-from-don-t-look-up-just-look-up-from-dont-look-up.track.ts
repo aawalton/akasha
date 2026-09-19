@@ -26,4 +26,5 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
     { externalId: "0fA0VVWsXO9YnASrzqfmYu", artistName: "Kid Cudi" },
   ],
   trackKey: "justlookupfromdontlookup|0fA0VVWsXO9YnASrzqfmYu,66CXWjxzNUsdJxJ2JdwvnR|201667",
+  song: "song/ariana-grande-just-look-up-from-dont-look-up",
 } as const satisfies Track

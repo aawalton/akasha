@@ -23,4 +23,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShizCommentary = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "dearoldshizcommentary|66CXWjxzNUsdJxJ2JdwvnR|41303",
+  song: "song/ariana-grande-dear-old-shiz-commentary",
 } as const satisfies Track

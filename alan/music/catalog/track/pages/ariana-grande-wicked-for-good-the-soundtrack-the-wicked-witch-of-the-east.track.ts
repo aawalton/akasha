@@ -28,4 +28,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackTheWickedWitchOfTheEast = {
   ],
   trackKey:
     "thewickedwitchoftheeast|0yF5IqIHlPDti2mfZtHe3K,46UMQ0cW8ToR8egkBRwAxZ,6uGIoRQUqP4ncxyg6HksA1|203330",
+  song: "song/ariana-grande-the-wicked-witch-of-the-east",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "ahandformrsclaus|66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|149040",
+  song: "song/ariana-grande-a-hand-for-mrs-claus",
 } as const satisfies Track

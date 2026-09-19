@@ -26,4 +26,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "popularsongmikaarianagrande|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200201",
+  song: "song/ariana-grande-popular-song-mika-ariana-grande",
 } as const satisfies Track

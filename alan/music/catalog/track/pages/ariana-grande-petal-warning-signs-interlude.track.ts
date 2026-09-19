@@ -23,4 +23,5 @@ export const arianaGrandePetalWarningSignsInterlude = {
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "warningsignsinterlude|66CXWjxzNUsdJxJ2JdwvnR|77342",
+  song: "song/ariana-grande-warning-signs-interlude",
 } as const satisfies Track

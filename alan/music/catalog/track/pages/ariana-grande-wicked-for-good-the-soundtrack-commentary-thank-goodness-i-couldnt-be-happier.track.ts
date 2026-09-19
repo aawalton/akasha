@@ -23,4 +23,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thankgoodnessicouldntbehappiercommentary|66CXWjxzNUsdJxJ2JdwvnR|33609",
+  song: "song/ariana-grande-thank-goodness-i-couldnt-be-happier-commentary",
 } as const satisfies Track

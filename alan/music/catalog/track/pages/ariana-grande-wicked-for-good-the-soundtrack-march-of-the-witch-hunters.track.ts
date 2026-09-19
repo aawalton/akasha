@@ -26,4 +26,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackMarchOfTheWitchHunters = {
     { externalId: "0yF5IqIHlPDti2mfZtHe3K", artistName: "Ethan Slater" },
   ],
   trackKey: "marchofthewitchhunters|0yF5IqIHlPDti2mfZtHe3K,3eLZo1bSslvsu0zNhtmMM4|156209",
+  song: "song/ariana-grande-march-of-the-witch-hunters",
 } as const satisfies Track

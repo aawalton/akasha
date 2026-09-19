@@ -23,4 +23,5 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndICommentary = 
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "thewizardandicommentary|46UMQ0cW8ToR8egkBRwAxZ|46367",
+  song: "song/ariana-grande-the-wizard-and-i-commentary",
 } as const satisfies Track

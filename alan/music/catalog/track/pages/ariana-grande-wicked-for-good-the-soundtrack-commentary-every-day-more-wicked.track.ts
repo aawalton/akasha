@@ -29,4 +29,5 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWicked 
   ],
   trackKey:
     "everydaymorewicked|3eLZo1bSslvsu0zNhtmMM4,46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu,66CXWjxzNUsdJxJ2JdwvnR|288766",
+  song: "song/ariana-grande-every-day-more-wicked",
 } as const satisfies Track

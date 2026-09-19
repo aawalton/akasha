@@ -23,4 +23,5 @@ export const arianaGrandePetalLikeIDo = {
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "likeido|66CXWjxzNUsdJxJ2JdwvnR|167333",
+  song: "song/ariana-grande-like-i-do",
 } as const satisfies Track
