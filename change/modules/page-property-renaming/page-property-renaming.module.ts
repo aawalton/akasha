@@ -39,7 +39,7 @@ export const pagePropertyRenaming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body already stating the key asked for is refused.",
+      statement: "A body whose object already states the key asked for is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,6 +56,14 @@ export const pagePropertyRenaming = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An entry stating no such key is passed over rather than refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry stating the key asked for and not that key is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry stating both that key and the key asked for is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

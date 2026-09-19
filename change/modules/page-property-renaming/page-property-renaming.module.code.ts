@@ -119,6 +119,8 @@ type Keyed = {
 function keyedOver(text: string, was: string, now: string): Keyed | null {
   const spots: Splice[] = []
   let holding = false
+  let named = false
+  let opened = 0
   let depth = 0
   let keying = false
   let at = 0
@@ -128,7 +130,7 @@ function keyedOver(text: string, was: string, now: string): Keyed | null {
       const held = quotedOn(text, at)
       if (held === null) return null
       if (keying && depth === OUTERMOST) {
-        if (held.said === now) holding = true
+        if (held.said === now) named = true
         if (held.said === was) spots.push({ from: at, to: held.to, put: JSON.stringify(now) })
       }
       keying = false
@@ -138,8 +140,13 @@ function keyedOver(text: string, was: string, now: string): Keyed | null {
     if (here === OPENS || here === OPENS_LIST) {
       depth = depth + 1
       keying = here === OPENS && depth === OUTERMOST
+      if (keying) {
+        named = false
+        opened = spots.length
+      }
     } else if (here === SHUTS || here === SHUTS_LIST) {
       depth = depth - 1
+      if (depth === 0 && named && spots.length > opened) holding = true
       keying = false
     } else if (here === NEXT) {
       keying = depth === OUTERMOST
@@ -165,7 +172,7 @@ function spannedOver(text: string, spots: readonly Splice[]): Splice | null {
 export function entrySpotted(path: string, text: string, was: string, now: string): Spotted {
   const held = keyedOver(text, was, now)
   if (held === null) return { refused: `\`${path}\` ${NO_ENTRIES}` }
-  if (held.holding) return { refused: `\`${path}\` states \`${now}\` already` }
+  if (held.holding) return { refused: `\`${path}\` states \`${was}\` and \`${now}\` in one entry` }
   const over = spannedOver(text, held.spots)
   return { spots: over === null ? [] : [over] }
 }

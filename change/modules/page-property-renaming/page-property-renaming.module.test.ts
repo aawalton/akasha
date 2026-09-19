@@ -124,9 +124,17 @@ test("a key inside a value an entry states is left as that key is", () => {
   )
 })
 
-test("a run of entries already stating the key asked for is refused", () => {
+test("an entry stating both that key and the key asked for is refused", () => {
   expect(refusalOf(entrySpotted(ENTRIES_AT, ENTRIES_BODY, "wold", "id"))).toBe(
-    `\`${ENTRIES_AT}\` states \`id\` already`
+    `\`${ENTRIES_AT}\` states \`wold\` and \`id\` in one entry`
+  )
+})
+
+test("an entry stating the key asked for and not that key is passed over", () => {
+  const text = '{"id":"a","wold":"ts"}\n{"id":"b","woldFile":"ts"}\n'
+
+  expect(bodyOver(ENTRIES_AT, text, entrySpotted(ENTRIES_AT, text, "wold", "woldFile"))).toBe(
+    '{"id":"a","woldFile":"ts"}\n{"id":"b","woldFile":"ts"}\n'
   )
 })
 
