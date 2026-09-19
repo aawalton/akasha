@@ -59,5 +59,6 @@ export const aineContribution = {
     "A reversed contribution takes back its points wherever they went, and a contributor's balance goes negative rather than a completed request losing its credit.",
     "Each product carries a brand of its own and calls for backing on the one shared Ko-fi account.",
     "A contributor signs in at alanwalton.com, and the payment Stripe reports is matched to that sign-in by email address.",
+    "Stripe is the only payment method Ko-fi offers, so every contribution lands in Alan's own Stripe account and nothing is read from Ko-fi.",
   ],
 } as const satisfies Initiative
