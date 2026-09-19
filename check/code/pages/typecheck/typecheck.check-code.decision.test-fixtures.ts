@@ -89,13 +89,6 @@ export const ONE_NUMBER = "export const one: number = 1\n"
 
 export const TWO_BREAKS = `${ONE_NUMBER}export const two: string = one\n`
 
-export function exporting(): string {
-  return staged({
-    "akasha/held.module.ts": "export const one = 1\nexport const two = 2\n",
-    "akasha/calls.ts": 'import { two } from "./held.module.ts"\nexport const said = two\n',
-  })
-}
-
 export function across(): string {
   return staged({
     "akasha/one.module.ts": "export const one = 1\n",

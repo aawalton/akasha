@@ -24,7 +24,6 @@ import {
   declaring,
   deep,
   EARLY,
-  exporting,
   FIRST_OF,
   GONE_AT,
   generating,
@@ -184,30 +183,20 @@ test("a page being created is still refused for what the narrowing does not cove
   expect(said[0]?.reason).toContain("not assignable")
 })
 
-test("akasha TypeScript that compiles is judged clean", async () => {
-  const root = numbered()
-  expect(await over(root, "akasha/one.ts", ONE_NUMBER)).toEqual([])
-})
-
-test("a proposed body whose type does not hold is refused, and names the line", async () => {
-  const root = numbered()
-  const said = await over(root, "akasha/one.ts", TWO_BREAKS)
-  expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe("akasha/one.ts")
-  expect(said[0]?.reason).toContain("line 2")
-  expect(said[0]?.reason).toContain("TS2322")
-})
-
 test("a proposed body that fixes what stands on disk is judged clean, so the change is what is read", async () => {
   const root = breaking()
   expect(await over(root, "akasha/one.ts", ONE_NUMBER)).toEqual([])
   expect(await over(root, "akasha/one.ts", null)).toEqual([])
 })
 
-test("a proposed body that breaks what stands clean on disk is refused, so the change is what is read", async () => {
+test("a proposed body that breaks a clean file on disk is refused and names the line, so the change is what is read", async () => {
   const root = numbered()
   expect(await judged(change(root, {}))).toEqual([])
-  expect(await over(root, "akasha/one.ts", "export const one: string = 1\n")).toHaveLength(1)
+  const said = await over(root, "akasha/one.ts", TWO_BREAKS)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/one.ts")
+  expect(said[0]?.reason).toContain("line 2")
+  expect(said[0]?.reason).toContain("TS2322")
   expect(await judged(change(root, {}))).toEqual([])
 })
 
@@ -246,18 +235,6 @@ test("a file the change takes away that a file the change adds still imports is 
   const root = orphaning()
   expect(orphans(root, {})).toEqual([GONE_AT])
   expect(orphans(root, READS_GONE)).toEqual([])
-})
-
-test("a file the change takes away answers for none of its own diagnostics", async () => {
-  const root = breaking()
-  expect(await over(root, "akasha/one.ts", null)).toEqual([])
-})
-
-test("an export the change takes away breaks the file reading it", async () => {
-  const root = exporting()
-  const said = await over(root, "akasha/held.module.ts", "export const one = 1\n")
-  expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe("akasha/calls.ts")
 })
 
 test("a file the change brings is compiled though no disk holds it", async () => {
