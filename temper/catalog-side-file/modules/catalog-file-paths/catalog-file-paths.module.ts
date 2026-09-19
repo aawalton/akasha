@@ -19,9 +19,5 @@ export const catalogFilePaths = {
       decisionKind: "decision-kind/departure",
       statement: "The request file is looked for in the catalog addon's own folder.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here opens a file.",
-    },
   ],
 } as const satisfies Module
