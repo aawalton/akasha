@@ -14,6 +14,7 @@ import {
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { trackLimit } from "akasha/command/argument/pages/track-limit.argument.ts"
 import {
   answering,
   DATA,
@@ -40,9 +41,13 @@ const SONG_KEY = "song"
 
 const UNDER_ARTIST = "artist/"
 
-const NAMED = [json, dryRun] as const
+const NAMED = [json, dryRun, trackLimit] as const
 
-export type Taken = { readonly json: boolean; readonly dryRun: boolean }
+export type Taken = {
+  readonly json: boolean
+  readonly dryRun: boolean
+  readonly limit: number | null
+}
 
 export type Counted = {
   readonly tracks: number
@@ -62,7 +67,11 @@ export function taken(
 ): Taken | { readonly refused: string } {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused.join(" ") }
-  return { json: read.taken.json, dryRun: read.taken.dryRun }
+  return {
+    json: read.taken.json,
+    dryRun: read.taken.dryRun,
+    limit: read.taken.trackLimit ?? null,
+  }
 }
 
 export function artistUnder(value: Value): string | null {
@@ -130,7 +139,7 @@ export function valuesLinked(value: Value, song: string | null): Value {
   return { ...held, [SONG_KEY]: `${SONG}/${song}` }
 }
 
-export function linkingIn(root: string): Linking {
+export function linkingIn(root: string, limit: number | null = null): Linking {
   const filing = filingIn(root)
   const byRelease = artistByRelease(root)
   const source = sourceFor(root)
@@ -142,7 +151,9 @@ export function linkingIn(root: string): Linking {
   let held = 0
   let filed = 0
   let unmatched = 0
+  let acted = 0
   for (const one of valuesOfType(root, TRACK)) {
+    if (limit !== null && acted >= limit) break
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
     tracks += 1
@@ -167,6 +178,7 @@ export function linkingIn(root: string): Linking {
     else if (now === null) unlinked += 1
     else relinked += 1
     changes.push(composedEdit(root, TRACK, slug, valuesLinked(one.value, now), source))
+    acted += 1
   }
   return { counts: { tracks, linked, relinked, unlinked, held, filed, unmatched }, changes }
 }
@@ -190,7 +202,7 @@ export function messageOf(counts: Counted): string {
 async function ran(argv: readonly string[], given: Given, landing: Landing): Promise<Answer> {
   const held = taken(argv, given.calledAs)
   if ("refused" in held) return refused(held.refused, DATA)
-  const found = linkingIn(given.root)
+  const found = linkingIn(given.root, held.limit)
   const rows = held.json ? [JSON.stringify(found.counts)] : rowsOf(found.counts)
   if (held.dryRun || found.changes.length === 0) return told(rows)
   const landed = await landing(given.root, found.changes, messageOf(found.counts))

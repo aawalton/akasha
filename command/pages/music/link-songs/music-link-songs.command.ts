@@ -45,7 +45,16 @@ export const musicLinkSongs = {
       decisionKind: "decision-kind/departure",
       statement: "A track matching no song has that song filed and then names it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run stopped at its limit reports the tracks that run read rather than every track filed.",
+    },
   ],
   name: "link-songs",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/dry-run" },
+    { argument: "argument/track-limit" },
+  ],
 } as const satisfies Command
