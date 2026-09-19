@@ -3,9 +3,9 @@
 {"detailConfig":{"header":{"showCover":true,"fields":[]},"childCollection":{"childType":"page-type/story-chapter-read","childRelation":"story"}}}
 {"extends":["page-type/collection-external"]}
 {"id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
-{"parts":["module/chapter-alerts","module/chapter-channel","module/chapter-turns","module/reader-shell","select-property/publication-status","text-property/external-tags"]}
+{"parts":["module/chapter-alerts","module/chapter-channel","module/chapter-turns","module/reader-shell","select-property/publication-status","text-property/external-tags","relation-property/parts"]}
 {"pluralSlug":"stories"}
-{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"text-property/external-tags","required":false,"many":true,"maxCount":null},{"pageProperty":"select-property/publication-status","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false}]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"text-property/external-tags","required":false,"many":true,"maxCount":null},{"pageProperty":"select-property/publication-status","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false},{"pageProperty":"relation-property/parts","required":false,"many":true,"maxCount":null}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"story-read"}

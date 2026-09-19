@@ -25,6 +25,7 @@ export const storyRead = {
     "module/reader-shell",
     "select-property/publication-status",
     "text-property/external-tags",
+    "relation-property/parts",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -37,6 +38,7 @@ export const storyRead = {
     },
     { pageProperty: "select-property/publication-status", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
+    { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
