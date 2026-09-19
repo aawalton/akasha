@@ -4,10 +4,7 @@ import {
   runChange,
 } from "akasha/change/agent/page-property/remove-page-property/remove-page-property.change-agent.code.ts"
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   type Carried,
