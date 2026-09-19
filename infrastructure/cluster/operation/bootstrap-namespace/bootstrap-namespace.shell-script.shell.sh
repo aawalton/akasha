@@ -60,7 +60,13 @@ check_rbac "$NAMESPACE" "create" "secrets"
 check_rbac "$NAMESPACE" "patch" "secrets"
 
 if SAID="$(bun "$SECRET_SAYING" --root "$AKASHA_ROOT" --resource "$SECRET_RESOURCE" --namespace "$NAMESPACE")"; then
-  printf '%s' "$SAID" | kubectl apply -f -
+  if [[ "${DEPLOY_DRY_RUN:-}" == "diff" ]]; then
+    rc=0
+    printf '%s' "$SAID" | kubectl diff -f - > /dev/null 2>&1 || rc=$?
+    if [[ "$rc" -gt 1 ]]; then die "kubectl diff failed (exit $rc)"; fi
+  else
+    printf '%s' "$SAID" | kubectl apply -f -
+  fi
   unset SAID
   ok "Secrets applied from the pages placing values in $SECRET_RESOURCE"
 else
