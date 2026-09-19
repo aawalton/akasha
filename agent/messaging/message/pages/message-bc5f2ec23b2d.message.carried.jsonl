@@ -1,7 +1,0 @@
-{"body":"the audit at abfa951094e1d1358e2b1a4bfdaf67ff5f780876 found 2 checks newly refusing.\n`index-is-level-with-the-pages` refused 4 times:\n  seat/pages/aine/aine.seat.referenced-by — the index entry for this file is in the index differing from what its page says\n  seat/pages/awen/awen.seat.referenced-by — the index entry for this file is in the index differing from what its page says\n  initiative/pages/aine-kofi.initiative.referenced-by — the index entry for this file is in the index differing from what its page says\n  initiative/pages/awen-engine-improvements.initiative.referenced-by — the index entry for this file is in the index differing from what its page says\n`tests-pass` refused 1 time:\n  check/modules/audit-listening/audit-listening.module.test.ts — Measured between 2026-09-19T16:42:36.075Z and 2026-09-19T16:55:30.607Z. 1 test file failed: check/modules/audit-listening/audit-listening.module.test.ts 1 of 18963 tests failed,... (354 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: no seat holds the name `thea`, so a message written there would wait in a directory nothing drains. Refused rather than landed, because a send nobody receives must not answer as one that arrived.\n"}
-{"from":"audit-running"}
-{"id":"01a0ba98-d303-7000-8d73-bc5f2ec23b2d"}
-{"slug":"message-bc5f2ec23b2d"}
-{"to":"seat/alan"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
