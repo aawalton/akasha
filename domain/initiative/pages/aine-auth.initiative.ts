@@ -6,4 +6,7 @@ export const aineAuth = {
   slug: "aine-auth",
   domain: "domain/auth",
   persona: "persona/aine",
+  intentStack: [
+    { statement: "Anyone makes an account at alanwalton.com, and that account is a contributor." },
+  ],
 } as const satisfies Initiative

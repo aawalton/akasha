@@ -31,7 +31,6 @@ export const aineContribution = {
         "A feature request names each contributor backing it and the points committed, most first.",
     },
     { statement: "An account newly made holds a hundred contribution points." },
-    { statement: "Anyone makes an account at alanwalton.com, and that account is a contributor." },
     { statement: "A contributor signs in at alanwalton.com with Google or with Discord." },
   ],
   constraints: [
