@@ -19,6 +19,7 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
     },
   ],
   title: "Don't Let Me Be Yours - AObeats Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

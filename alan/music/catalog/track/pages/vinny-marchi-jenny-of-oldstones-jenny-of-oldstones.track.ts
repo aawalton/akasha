@@ -19,6 +19,7 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
     },
   ],
   title: "Jenny Of Oldstones",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

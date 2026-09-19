@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveNightcoreRemix = {
     },
   ],
   title: "On My Love - Nightcore Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

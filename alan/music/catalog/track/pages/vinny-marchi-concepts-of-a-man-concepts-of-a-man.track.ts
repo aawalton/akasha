@@ -19,6 +19,7 @@ export const vinnyMarchiConceptsOfAManConceptsOfAMan = {
     },
   ],
   title: "Concepts of a Man",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],

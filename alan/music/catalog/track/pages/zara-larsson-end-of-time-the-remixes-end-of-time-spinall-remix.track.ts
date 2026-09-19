@@ -19,6 +19,7 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeSpinallRemix = {
     },
   ],
   title: "End Of Time - SPINALL Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

@@ -19,6 +19,7 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
     },
   ],
   title: "So Good - The Wild Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

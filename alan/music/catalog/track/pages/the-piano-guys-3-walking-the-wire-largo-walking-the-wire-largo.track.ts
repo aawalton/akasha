@@ -19,6 +19,7 @@ export const thePianoGuys3WalkingTheWireLargoWalkingTheWireLargo = {
     },
   ],
   title: "Walking the Wire / Largo",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

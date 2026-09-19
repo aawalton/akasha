@@ -19,6 +19,7 @@ export const zaraLarssonOnlyYouRemixesOnlyYouKreamRemix = {
     },
   ],
   title: "Only You - KREAM Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

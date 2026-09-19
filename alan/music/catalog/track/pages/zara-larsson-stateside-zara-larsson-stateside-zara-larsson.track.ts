@@ -19,6 +19,7 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
     },
   ],
   title: "Stateside + Zara Larsson",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

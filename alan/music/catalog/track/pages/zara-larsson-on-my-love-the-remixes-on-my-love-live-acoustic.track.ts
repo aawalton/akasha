@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveLiveAcoustic = {
     },
   ],
   title: "On My Love - Live Acoustic",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

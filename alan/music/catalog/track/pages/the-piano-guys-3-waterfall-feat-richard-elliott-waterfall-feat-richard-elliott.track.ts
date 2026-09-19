@@ -19,6 +19,7 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
     },
   ],
   title: "Waterfall - feat. Richard Elliott",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

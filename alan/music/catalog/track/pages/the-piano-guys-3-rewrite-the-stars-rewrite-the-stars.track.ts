@@ -19,6 +19,7 @@ export const thePianoGuys3RewriteTheStarsRewriteTheStars = {
     },
   ],
   title: "Rewrite the Stars",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

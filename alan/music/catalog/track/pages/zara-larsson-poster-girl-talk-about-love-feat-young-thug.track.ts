@@ -19,6 +19,7 @@ export const zaraLarssonPosterGirlTalkAboutLoveFeatYoungThug = {
     },
   ],
   title: "Talk About Love (feat. Young Thug)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

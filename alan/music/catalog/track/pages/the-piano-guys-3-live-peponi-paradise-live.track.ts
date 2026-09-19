@@ -19,6 +19,7 @@ export const thePianoGuys3LivePeponiParadiseLive = {
     },
   ],
   title: "Peponi (Paradise) [Live]",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonSheDidItAgainFeatZaraLarsson
     },
   ],
   title: "SHE DID IT AGAIN (feat. Zara Larsson)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

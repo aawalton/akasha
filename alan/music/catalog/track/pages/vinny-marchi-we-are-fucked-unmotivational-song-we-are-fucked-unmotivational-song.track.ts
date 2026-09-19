@@ -19,6 +19,7 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSongWeAreFuckedUnmotivationalSo
     },
   ],
   title: "We Are Fucked (unmotivational song)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],

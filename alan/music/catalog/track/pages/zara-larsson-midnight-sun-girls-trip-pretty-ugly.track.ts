@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunGirlsTripPrettyUgly = {
     },
   ],
   title: "Pretty Ugly",
+  trackType: "studio",
   discNumber: 2,
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],

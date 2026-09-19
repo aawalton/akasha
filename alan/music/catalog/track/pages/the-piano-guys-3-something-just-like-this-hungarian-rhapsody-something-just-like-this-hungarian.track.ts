@@ -19,6 +19,7 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsodySomethingJustLik
     },
   ],
   title: "Something Just Like This / Hungarian Rhapsody",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
     },
   ],
   title: "Bad Days Good",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

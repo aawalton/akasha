@@ -19,6 +19,7 @@ export const zaraLarssonMemoryLaneMemoryLaneFastBoyRemix = {
     },
   ],
   title: "Memory Lane - FAST BOY Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

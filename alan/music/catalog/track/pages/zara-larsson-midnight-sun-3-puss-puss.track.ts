@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSun3PussPuss = {
     },
   ],
   title: "Puss Puss",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],

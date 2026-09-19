@@ -19,6 +19,7 @@ export const thePianoGuys3ThePianoGuysCelloWars = {
     },
   ],
   title: "Cello Wars",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],

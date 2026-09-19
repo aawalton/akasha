@@ -19,6 +19,7 @@ export const vinnyMarchiSugarStarsMayItBe = {
     },
   ],
   title: "May It Be",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],

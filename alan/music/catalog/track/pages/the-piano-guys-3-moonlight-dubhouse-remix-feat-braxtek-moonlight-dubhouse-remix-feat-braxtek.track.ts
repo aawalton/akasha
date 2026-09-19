@@ -19,6 +19,7 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtekMoonlightDubhouseRemi
     },
   ],
   title: "Moonlight (Dubhouse Remix) (feat. Braxtek)",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],

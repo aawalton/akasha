@@ -19,6 +19,7 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
     },
   ],
   title: "Don't Let Me Be Yours - Black Chiney Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

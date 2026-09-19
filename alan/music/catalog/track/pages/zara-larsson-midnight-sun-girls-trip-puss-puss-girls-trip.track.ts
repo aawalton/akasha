@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunGirlsTripPussPussGirlsTrip = {
     },
   ],
   title: "Puss Puss - Girls Trip",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

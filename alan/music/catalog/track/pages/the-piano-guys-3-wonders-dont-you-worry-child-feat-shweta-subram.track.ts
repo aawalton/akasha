@@ -19,6 +19,7 @@ export const thePianoGuys3WondersDontYouWorryChildFeatShwetaSubram = {
     },
   ],
   title: "Don't You Worry Child (feat. Shweta Subram)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

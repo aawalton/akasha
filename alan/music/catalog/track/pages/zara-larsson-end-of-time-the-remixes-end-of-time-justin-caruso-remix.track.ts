@@ -19,6 +19,7 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeJustinCarusoRemix = {
     },
   ],
   title: "End Of Time - Justin Caruso Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

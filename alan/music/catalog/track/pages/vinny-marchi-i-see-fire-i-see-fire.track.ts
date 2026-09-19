@@ -19,6 +19,7 @@ export const vinnyMarchiISeeFireISeeFire = {
     },
   ],
   title: "I See Fire",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

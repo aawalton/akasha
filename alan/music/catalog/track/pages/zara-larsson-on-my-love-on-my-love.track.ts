@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveOnMyLove = {
     },
   ],
   title: "On My Love",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

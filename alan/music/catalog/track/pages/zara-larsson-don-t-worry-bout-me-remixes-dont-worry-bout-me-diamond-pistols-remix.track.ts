@@ -19,6 +19,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeDiamondPistolsRemix
     },
   ],
   title: "Don't Worry Bout Me - Diamond Pistols Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

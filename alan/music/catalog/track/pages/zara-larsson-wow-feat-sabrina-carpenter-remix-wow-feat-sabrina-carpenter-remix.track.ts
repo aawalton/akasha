@@ -19,6 +19,7 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemixWowFeatSabrinaCarpenterRemix
     },
   ],
   title: "WOW (feat. Sabrina Carpenter) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

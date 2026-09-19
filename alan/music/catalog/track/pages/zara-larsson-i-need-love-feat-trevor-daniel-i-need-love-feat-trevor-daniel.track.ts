@@ -19,6 +19,7 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
     },
   ],
   title: "I Need Love (feat. Trevor Daniel)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

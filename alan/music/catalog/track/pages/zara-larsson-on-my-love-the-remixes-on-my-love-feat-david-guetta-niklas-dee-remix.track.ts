@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFeatDavidGuettaNiklasDeeRemix 
     },
   ],
   title: "On My Love (feat. David Guetta) - Niklas Dee Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

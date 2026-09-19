@@ -21,6 +21,7 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
     },
   ],
   title: "Tuya Es La Gloria (arr. for Choir, Orchestra, Solo Cello, and Piano by Mack Wilberg)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

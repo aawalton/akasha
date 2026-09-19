@@ -19,6 +19,7 @@ export const zaraLarssonIWouldLikeGorgonCityRemixIWouldLikeGorgonCityRemix = {
     },
   ],
   title: "I Would Like - Gorgon City Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

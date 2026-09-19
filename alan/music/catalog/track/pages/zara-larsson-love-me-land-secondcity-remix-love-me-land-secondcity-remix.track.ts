@@ -19,6 +19,7 @@ export const zaraLarssonLoveMeLandSecondcityRemixLoveMeLandSecondcityRemix = {
     },
   ],
   title: "Love Me Land - Secondcity Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const vinnyMarchiBabaYetuBabaYetu = {
     },
   ],
   title: "Baba Yetu",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],

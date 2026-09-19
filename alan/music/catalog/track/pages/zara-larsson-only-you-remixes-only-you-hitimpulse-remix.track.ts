@@ -19,6 +19,7 @@ export const zaraLarssonOnlyYouRemixesOnlyYouHitimpulseRemix = {
     },
   ],
   title: "Only You - Hitimpulse Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

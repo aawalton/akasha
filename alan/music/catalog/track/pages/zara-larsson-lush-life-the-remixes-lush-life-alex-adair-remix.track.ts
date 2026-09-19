@@ -19,6 +19,7 @@ export const zaraLarssonLushLifeTheRemixesLushLifeAlexAdairRemix = {
     },
   ],
   title: "Lush Life - Alex Adair Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

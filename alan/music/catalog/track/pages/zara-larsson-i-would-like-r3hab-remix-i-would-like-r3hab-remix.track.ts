@@ -19,6 +19,7 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
     },
   ],
   title: "I Would Like - R3hab Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

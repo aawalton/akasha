@@ -19,6 +19,7 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelRemixExtended = {
     },
   ],
   title: "Lush Life (Zac Samuel Remix) [Extended]",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

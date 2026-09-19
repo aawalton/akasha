@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
     },
   ],
   title: "The Ambition - Girls Trip",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

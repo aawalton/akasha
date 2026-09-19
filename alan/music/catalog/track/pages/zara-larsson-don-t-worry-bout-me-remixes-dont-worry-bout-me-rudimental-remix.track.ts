@@ -19,6 +19,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeRudimentalRemix = {
     },
   ],
   title: "Don't Worry Bout Me - Rudimental Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

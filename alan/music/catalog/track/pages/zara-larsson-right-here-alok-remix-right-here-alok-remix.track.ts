@@ -19,6 +19,7 @@ export const zaraLarssonRightHereAlokRemixRightHereAlokRemix = {
     },
   ],
   title: "Right Here - Alok Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

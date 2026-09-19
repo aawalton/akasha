@@ -19,6 +19,7 @@ export const thePianoGuys3LiveAThousandYearsLive = {
     },
   ],
   title: "A Thousand Years (Live)",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

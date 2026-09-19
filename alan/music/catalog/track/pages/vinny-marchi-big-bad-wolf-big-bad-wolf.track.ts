@@ -19,6 +19,7 @@ export const vinnyMarchiBigBadWolfBigBadWolf = {
     },
   ],
   title: "Big Bad Wolf",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],

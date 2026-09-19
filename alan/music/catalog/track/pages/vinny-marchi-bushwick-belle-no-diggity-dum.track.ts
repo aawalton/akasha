@@ -19,6 +19,7 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
     },
   ],
   title: "No Diggity Dum",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

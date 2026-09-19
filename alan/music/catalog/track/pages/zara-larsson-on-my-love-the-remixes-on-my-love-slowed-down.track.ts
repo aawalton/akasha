@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveSlowedDown = {
     },
   ],
   title: "On My Love - Slowed Down",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

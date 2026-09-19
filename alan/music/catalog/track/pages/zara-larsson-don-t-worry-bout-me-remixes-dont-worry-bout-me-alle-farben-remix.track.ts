@@ -19,6 +19,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeAlleFarbenRemix = {
     },
   ],
   title: "Don't Worry Bout Me - Alle Farben Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

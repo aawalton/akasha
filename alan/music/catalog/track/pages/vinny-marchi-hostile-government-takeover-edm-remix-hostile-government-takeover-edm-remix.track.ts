@@ -19,6 +19,7 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
     },
   ],
   title: "Hostile Government Takeover - EDM Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

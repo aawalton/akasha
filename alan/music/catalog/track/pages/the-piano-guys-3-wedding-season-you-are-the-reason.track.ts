@@ -19,6 +19,7 @@ export const thePianoGuys3WeddingSeasonYouAreTheReason = {
     },
   ],
   title: "You Are The Reason",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

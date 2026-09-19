@@ -19,6 +19,7 @@ export const thePianoGuys3ThePianoGuys2MissionImpossibleFeatLindseyStirling = {
     },
   ],
   title: "Mission Impossible (feat. Lindsey Stirling)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

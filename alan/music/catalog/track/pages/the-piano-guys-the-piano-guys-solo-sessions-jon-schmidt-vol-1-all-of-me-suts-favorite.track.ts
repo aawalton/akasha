@@ -19,6 +19,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1AllOfMeSutsFavori
     },
   ],
   title: "All of Me (Sut's Favorite)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],

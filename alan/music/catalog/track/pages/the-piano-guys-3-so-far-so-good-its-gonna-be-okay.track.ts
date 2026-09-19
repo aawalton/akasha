@@ -19,6 +19,7 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
     },
   ],
   title: "(It's Gonna Be) Okay",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

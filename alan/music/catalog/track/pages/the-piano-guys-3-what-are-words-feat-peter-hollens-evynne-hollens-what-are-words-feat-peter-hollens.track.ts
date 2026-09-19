@@ -19,6 +19,7 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollensWhatAreWordsF
     },
   ],
   title: "What Are Words (feat. Peter Hollens & Evynne Hollens)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

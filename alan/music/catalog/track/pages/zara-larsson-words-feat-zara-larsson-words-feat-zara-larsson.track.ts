@@ -19,6 +19,7 @@ export const zaraLarssonWordsFeatZaraLarssonWordsFeatZaraLarsson = {
     },
   ],
   title: "Words (feat. Zara Larsson)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

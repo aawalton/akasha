@@ -19,6 +19,7 @@ export const thePianoGuys3ThePianoGuys2CantHelpFallingInLove = {
     },
   ],
   title: "Can't Help Falling in Love",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],

@@ -19,6 +19,7 @@ export const zaraLarssonSoGoodNeverForgetYou = {
     },
   ],
   title: "Never Forget You",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

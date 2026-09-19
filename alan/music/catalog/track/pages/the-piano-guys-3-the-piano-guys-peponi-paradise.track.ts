@@ -19,6 +19,7 @@ export const thePianoGuys3ThePianoGuysPeponiParadise = {
     },
   ],
   title: "Peponi (Paradise)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

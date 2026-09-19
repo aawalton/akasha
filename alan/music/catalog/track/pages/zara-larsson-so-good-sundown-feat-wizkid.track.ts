@@ -19,6 +19,7 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
     },
   ],
   title: "Sundown (feat. Wizkid)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

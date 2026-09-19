@@ -19,6 +19,7 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
     },
   ],
   title: "Wayfaring Stranger",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

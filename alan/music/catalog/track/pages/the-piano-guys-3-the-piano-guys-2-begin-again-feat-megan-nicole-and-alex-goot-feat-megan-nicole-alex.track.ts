@@ -19,6 +19,7 @@ export const thePianoGuys3ThePianoGuys2BeginAgainFeatMeganNicoleAndAlexGootFeatM
     },
   ],
   title: "Begin Again (feat. Megan Nicole and Alex Goot) (feat. Megan Nicole & Alex Goot)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

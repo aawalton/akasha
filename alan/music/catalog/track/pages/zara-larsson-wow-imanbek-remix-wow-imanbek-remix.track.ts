@@ -19,6 +19,7 @@ export const zaraLarssonWowImanbekRemixWowImanbekRemix = {
     },
   ],
   title: "WOW - Imanbek Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

@@ -19,6 +19,7 @@ export const zaraLarssonAllTheTimeDonDiabloRemixAllTheTimeDonDiabloRemix = {
     },
   ],
   title: "All the Time - Don Diablo Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

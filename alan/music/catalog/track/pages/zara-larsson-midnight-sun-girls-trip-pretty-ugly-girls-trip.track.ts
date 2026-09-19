@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunGirlsTripPrettyUglyGirlsTrip = {
     },
   ],
   title: "Pretty Ugly - Girls Trip",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

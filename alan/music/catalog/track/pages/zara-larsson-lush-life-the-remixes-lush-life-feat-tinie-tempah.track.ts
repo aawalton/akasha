@@ -19,6 +19,7 @@ export const zaraLarssonLushLifeTheRemixesLushLifeFeatTinieTempah = {
     },
   ],
   title: "Lush Life (feat. Tinie Tempah)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

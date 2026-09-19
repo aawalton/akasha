@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveExtendedVersion = {
     },
   ],
   title: "On My Love - Extended Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

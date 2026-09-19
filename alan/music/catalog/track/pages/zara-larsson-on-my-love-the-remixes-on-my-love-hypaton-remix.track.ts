@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveHypatonRemix = {
     },
   ],
   title: "On My Love - Hypaton Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

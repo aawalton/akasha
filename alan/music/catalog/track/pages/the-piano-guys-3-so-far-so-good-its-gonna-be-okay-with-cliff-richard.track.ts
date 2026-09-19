@@ -19,6 +19,7 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkayWithCliffRichard = {
     },
   ],
   title: "(It's Gonna Be) Okay (with Cliff Richard)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

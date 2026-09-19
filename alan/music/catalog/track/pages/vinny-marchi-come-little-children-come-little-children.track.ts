@@ -19,6 +19,7 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
     },
   ],
   title: "Come Little Children",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

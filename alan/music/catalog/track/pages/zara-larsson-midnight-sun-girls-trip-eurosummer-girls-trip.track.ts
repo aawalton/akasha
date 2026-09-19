@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunGirlsTripEurosummerGirlsTrip = {
     },
   ],
   title: "Eurosummer - Girls Trip",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

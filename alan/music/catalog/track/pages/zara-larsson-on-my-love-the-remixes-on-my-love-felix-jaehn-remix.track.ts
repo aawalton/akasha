@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFelixJaehnRemix = {
     },
   ],
   title: "On My Love - Felix Jaehn Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

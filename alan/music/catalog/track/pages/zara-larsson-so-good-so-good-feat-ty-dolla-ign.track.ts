@@ -19,6 +19,7 @@ export const zaraLarssonSoGoodSoGoodFeatTyDollaIgn = {
     },
   ],
   title: "So Good (feat. Ty Dolla $ign)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

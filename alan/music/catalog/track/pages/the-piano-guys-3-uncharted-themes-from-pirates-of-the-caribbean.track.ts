@@ -19,6 +19,7 @@ export const thePianoGuys3UnchartedThemesFromPiratesOfTheCaribbean = {
     },
   ],
   title: "Themes from Pirates of the Caribbean",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

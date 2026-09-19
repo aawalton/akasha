@@ -19,6 +19,7 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSteveJamesRemix = {
     },
   ],
   title: "Ruin My Life - Steve James Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

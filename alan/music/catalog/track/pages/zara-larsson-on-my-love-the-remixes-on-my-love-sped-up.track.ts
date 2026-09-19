@@ -19,6 +19,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveSpedUp = {
     },
   ],
   title: "On My Love - Sped Up",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

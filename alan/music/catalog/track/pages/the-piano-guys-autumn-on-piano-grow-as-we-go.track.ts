@@ -19,6 +19,7 @@ export const thePianoGuysAutumnOnPianoGrowAsWeGo = {
     },
   ],
   title: "Grow As We Go",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

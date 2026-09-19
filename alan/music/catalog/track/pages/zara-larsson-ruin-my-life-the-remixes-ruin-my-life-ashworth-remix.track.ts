@@ -19,6 +19,7 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeAshworthRemix = {
     },
   ],
   title: "Ruin My Life - Ashworth Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

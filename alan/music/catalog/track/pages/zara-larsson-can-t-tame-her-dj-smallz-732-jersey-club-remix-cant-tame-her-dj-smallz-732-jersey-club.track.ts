@@ -19,6 +19,7 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemixCantTameHerDjSmallz
     },
   ],
   title: "Can't Tame Her - DJ Smallz 732 Jersey Club Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

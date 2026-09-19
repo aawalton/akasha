@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbition = {
     },
   ],
   title: "The Ambition",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],

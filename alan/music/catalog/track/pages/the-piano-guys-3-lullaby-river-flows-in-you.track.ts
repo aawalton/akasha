@@ -19,6 +19,7 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
     },
   ],
   title: "River Flows In You",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

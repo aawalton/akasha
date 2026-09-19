@@ -19,6 +19,7 @@ export const thePianoGuys3TheMissionHowGreatThouArtTheMissionHowGreatThouArt = {
     },
   ],
   title: "The Mission / How Great Thou Art",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

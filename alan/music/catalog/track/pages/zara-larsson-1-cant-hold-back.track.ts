@@ -19,6 +19,7 @@ export const zaraLarsson1CantHoldBack = {
     },
   ],
   title: "Can't Hold Back",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],

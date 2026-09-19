@@ -19,6 +19,7 @@ export const zaraLarssonAinTMyFaultR3habRemixAintMyFaultR3habRemix = {
     },
   ],
   title: "Ain't My Fault - R3hab Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

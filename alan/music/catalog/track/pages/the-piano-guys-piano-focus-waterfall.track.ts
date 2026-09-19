@@ -19,6 +19,7 @@ export const thePianoGuysPianoFocusWaterfall = {
     },
   ],
   title: "Waterfall",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

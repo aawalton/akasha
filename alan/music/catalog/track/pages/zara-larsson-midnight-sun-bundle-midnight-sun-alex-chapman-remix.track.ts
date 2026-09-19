@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
     },
   ],
   title: "Midnight Sun - Alex Chapman Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

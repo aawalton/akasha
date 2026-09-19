@@ -19,6 +19,7 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
     },
   ],
   title: "Ain't My Fault (feat. Lil Yachty) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

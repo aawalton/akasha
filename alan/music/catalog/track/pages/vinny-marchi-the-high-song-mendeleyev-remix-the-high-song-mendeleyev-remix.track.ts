@@ -19,6 +19,7 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
     },
   ],
   title: "The High Song - Mendeleyev Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const zaraLarssonUncoverWannaBeYourBabyAltVersion = {
     },
   ],
   title: "Wanna Be Your Baby - Alt Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],

@@ -19,6 +19,7 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatFirstAidKitLiveVersi
     },
   ],
   title: "I Need Love (feat. First Aid Kit) - Live Version",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

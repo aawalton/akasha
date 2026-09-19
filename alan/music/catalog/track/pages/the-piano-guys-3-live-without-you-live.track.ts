@@ -19,6 +19,7 @@ export const thePianoGuys3LiveWithoutYouLive = {
     },
   ],
   title: "Without You (Live)",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

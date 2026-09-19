@@ -19,6 +19,7 @@ export const vinnyMarchiAveMariaAveMaria = {
     },
   ],
   title: "Ave Maria",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

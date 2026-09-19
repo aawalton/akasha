@@ -19,6 +19,7 @@ export const zaraLarssonMidnightSun2MidnightSun = {
     },
   ],
   title: "Midnight Sun",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

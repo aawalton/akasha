@@ -19,6 +19,7 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
     },
   ],
   title: "Morning - Billen Ted Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

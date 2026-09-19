@@ -19,6 +19,7 @@ export const zaraLarssonTalkToMeZaraTalkToMeZara = {
     },
   ],
   title: "Talk To Me, Zara",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

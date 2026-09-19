@@ -19,6 +19,7 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
     },
   ],
   title: "Rolling in the Deep (vocal version)",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

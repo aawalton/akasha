@@ -19,6 +19,7 @@ export const vinnyMarchi20162016 = {
     },
   ],
   title: "2016",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],

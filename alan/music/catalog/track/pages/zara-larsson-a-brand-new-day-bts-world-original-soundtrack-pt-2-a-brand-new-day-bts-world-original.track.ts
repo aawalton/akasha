@@ -19,6 +19,7 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2ABrandNewDayBts
     },
   ],
   title: "A Brand New Day - BTS World Original Soundtrack (Pt. 2)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

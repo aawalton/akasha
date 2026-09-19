@@ -19,6 +19,7 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
     },
   ],
   title: "Lush Life - French Braids Remix [Extended]",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [
