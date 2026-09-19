@@ -1,5 +1,5 @@
 {"definition":"a notification delivered to a phone by Apple's push service"}
 {"id":"01a0675b-16d5-73ec-b556-2248facf0650"}
-{"parts":["module/apns-sending","module/push-device-tokens","module/push-notifier-tick","module/push-notifying","module/push-payload","service-workstation/apns-push-notifier"]}
+{"parts":["module/apns-sending","module/push-device-tokens","module/push-notifier-tick","module/push-notifying","module/push-payload","module/stoplights-activity-pushing","service-workstation/apns-push-notifier"]}
 {"slug":"alanwalton-ios-notification"}
 {"type":"page-type/domain"}

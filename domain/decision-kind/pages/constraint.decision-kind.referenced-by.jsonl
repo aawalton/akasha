@@ -98,6 +98,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts","id":"01a08c12-a327-7694-af88-2d20734ad347"}
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.ts","id":"01a069b6-bb6b-79f2-adbe-d2024ad66374"}
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.ts","id":"01a069b6-bb6b-7ff9-a785-a069880a2e41"}
+{"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.ts","id":"01a0ba95-fb0f-7bb4-a8f6-4b15c58b8546"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/alan-harness-attribute.domain.ts","id":"01a0687a-f498-76b9-9a54-205509f15f64"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}

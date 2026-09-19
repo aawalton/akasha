@@ -1,5 +1,10 @@
 "use client"
 
+import {
+  type ActivityRows,
+  contentOf,
+  type StoplightsContent,
+} from "akasha/alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   getApp,
@@ -7,61 +12,24 @@ import {
   isNativeShell,
   type PluginListenerHandle,
 } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useContext, useEffect } from "react"
 import { z } from "zod"
 
-const FEEDS = [
-  { at: "/api/habit-stoplights", wireKey: "habit" },
-  { at: "/api/inbox-stoplights", wireKey: "inbox" },
-  { at: "/api/attribute-stoplights", wireKey: "attribute" },
-] as const
+const FEEDS = ["/api/habit-stoplights", "/api/inbox-stoplights", "/api/attribute-stoplights"]
 
 const ANSWER = z.object({ stoplights: z.array(z.record(z.string(), z.unknown())) })
 
-export interface ActivityStoplight {
-  readonly key: string
-  readonly label: string
-  readonly tier: string
-  readonly reading: string | null
-  readonly nextTier: string | null
-  readonly progress: number | null
+export function contentIn(
+  groups: readonly (ActivityRows | null)[],
+  takenAt: string
+): StoplightsContent | null {
+  const [upkeep, inboxes, attributes] = groups
+  if (upkeep == null || inboxes == null || attributes == null) return null
+  return contentOf([upkeep, inboxes, attributes], takenAt)
 }
 
-export interface StoplightsContent {
-  readonly upkeep: readonly ActivityStoplight[]
-  readonly inboxes: readonly ActivityStoplight[]
-  readonly attributes: readonly ActivityStoplight[]
-  readonly takenAt: string
-}
-
-function numberIn(value: unknown): number | null {
-  return typeof value === "number" && Number.isFinite(value) ? value : null
-}
-
-export function stoplightsIn(
-  rows: readonly Readonly<Record<string, unknown>>[],
-  wireKey: string
-): readonly ActivityStoplight[] {
-  const held: ActivityStoplight[] = []
-  for (const row of rows) {
-    const key = textIn(row[wireKey])
-    const tier = textIn(row.tier)
-    if (key === null || tier === null) continue
-    held.push({
-      key,
-      label: textIn(row.label) ?? key,
-      tier,
-      reading: textIn(row.reading),
-      nextTier: textIn(row.nextTier),
-      progress: numberIn(row.progress),
-    })
-  }
-  return held
-}
-
-async function rowsIn(at: string): Promise<readonly Readonly<Record<string, unknown>>[] | null> {
+async function rowsIn(at: string): Promise<ActivityRows | null> {
   try {
     const answer = await apiFetch(at)
     if (!answer.ok) return null
@@ -73,14 +41,7 @@ async function rowsIn(at: string): Promise<readonly Readonly<Record<string, unkn
 }
 
 export async function contentRead(at: string): Promise<StoplightsContent | null> {
-  const [upkeep, inboxes, attributes] = await Promise.all(FEEDS.map((one) => rowsIn(one.at)))
-  if (upkeep == null || inboxes == null || attributes == null) return null
-  return {
-    upkeep: stoplightsIn(upkeep, FEEDS[0].wireKey),
-    inboxes: stoplightsIn(inboxes, FEEDS[1].wireKey),
-    attributes: stoplightsIn(attributes, FEEDS[2].wireKey),
-    takenAt: at,
-  }
+  return contentIn(await Promise.all(FEEDS.map(rowsIn)), at)
 }
 
 export function StoplightsActivitySync() {

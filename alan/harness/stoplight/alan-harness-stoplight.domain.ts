@@ -5,6 +5,7 @@ export const alanHarnessStoplight = {
   type: "page-type/domain",
   slug: "alan-harness-stoplight",
   definition: "how Alan knows what to do next",
+  parts: ["module/stoplights-activity-content"],
   decisions: [
     {
       decisionKind: "decision-kind/gap",

@@ -50,6 +50,22 @@ export const deviceTokenRegistration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The sort of push a token takes is kept beside the token.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A registration naming no sort registers a token taking an alert.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A token kept before any sort was named reads back as taking an alert.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here decides which sort a push is addressed to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The values a registration writes are the properties the page type declares.",
     },
     {

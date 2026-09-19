@@ -257,6 +257,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.ts","id":"01a069b6-bb6b-79e0-abb9-81217fe400a3"}
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-notifying/push-notifying.module.ts","id":"01a0686a-7a57-739f-880c-5afe3034b05a"}
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.ts","id":"01a069b6-bb6b-7ff9-a785-a069880a2e41"}
+{"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.ts","id":"01a0ba95-fb0f-7bb4-a8f6-4b15c58b8546"}
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.ts","id":"01a06829-0193-7bb7-858d-8cb22b1eb62d"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
@@ -415,6 +416,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/verify-signature/verify-signature.module.ts","id":"01a05b6f-999d-7522-a55b-564a85f90c43"}
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/sms-core.domain.ts","id":"01a05b6f-999c-7a6b-9de1-eb062ff820b3"}
 {"propertySlug":"decision-kind","path":"alan/harness/ssh-access/ssh-access.domain.ts","id":"01a05c2f-0f02-7fb7-aaea-fff4b50ef0c6"}
+{"propertySlug":"decision-kind","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.ts","id":"01a0ba93-4f27-70aa-884c-3c2b957eadf7"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/auth/auth.module.ts","id":"01a05c6d-3508-781d-8ca6-f6de618f4ea6"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.ts","id":"01a05c6d-350a-7a9e-b989-5c974158f6f9"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}

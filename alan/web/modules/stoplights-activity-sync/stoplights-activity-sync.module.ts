@@ -22,7 +22,7 @@ export const stoplightsActivitySync = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row naming no stoplight and no color is left out rather than drawn black.",
+      statement: "The shape a reading is handed over in is the shape a pushed reading has.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -28,6 +28,19 @@ export const pushDeviceTokens = {
       statement: "A token list that cannot be read is a throw rather than an empty answer.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A list holds only the tokens taking the sort of push asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An alert and a live activity are asked for apart.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The topic a live activity is pushed under is the bundle with `.push-type.liveactivity` after it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a push.",
     },

@@ -353,6 +353,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/device-secret/properties/device-secret-device-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/device-secret/properties/device-secret-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/device-secret/properties/device-secret-user-id.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/device-token/properties/device-token-push-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/device-token/properties/device-token-token.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-decision.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-message-id.text-property.ts"}
