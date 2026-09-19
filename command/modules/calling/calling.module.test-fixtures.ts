@@ -4,7 +4,7 @@ import { command } from "akasha/command/command.page-type.ts"
 import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
 import { change } from "akasha/command/pages/change/change.namespace.ts"
-import { changeDraft } from "akasha/command/pages/change/draft/change-draft.command.ts"
+import { changeDrop } from "akasha/command/pages/change/drop/change-drop.command.ts"
 import { trackSessionOpen } from "akasha/command/pages/track/session/open/track-session-open.command.ts"
 import { trackSession as trackSessionNamespace } from "akasha/command/pages/track/session/track-session.namespace.ts"
 import { track } from "akasha/command/pages/track/track.namespace.ts"
@@ -194,7 +194,7 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
 
 const CHANGE_AT = `${namespace.slug}/${change.slug}` as const
 
-const CHANGE_DRAFT_AT = `${command.slug}/${changeDraft.slug}` as const
+const CHANGE_DROP_AT = `${command.slug}/${changeDrop.slug}` as const
 
 const TRACK_AT = `${namespace.slug}/${track.slug}` as const
 
@@ -215,8 +215,8 @@ export function ruledRoot(): string {
   return root
 }
 
-export function draftUnderChange(): string {
-  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }], COMMAND, [
+export function dropUnderChange(): string {
+  const root = rootWith([{ slug: "change-drop", body: ANSWERS, name: "drop" }], COMMAND, [
     CHANGE_AT,
   ])
   namespacesIn(root, [
@@ -224,7 +224,7 @@ export function draftUnderChange(): string {
       slug: "change",
       name: "change",
       definition: "what a landing carries",
-      parts: [CHANGE_DRAFT_AT],
+      parts: [CHANGE_DROP_AT],
     },
   ])
   return root

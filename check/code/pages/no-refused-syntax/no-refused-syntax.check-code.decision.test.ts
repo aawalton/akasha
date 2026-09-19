@@ -193,7 +193,7 @@ test("what a level of the command tree names itself is read off that level's own
   const named = levelsOf(shadowAt(root)).namedAt
 
   expect(named("change")).toBe("change")
-  expect(named("change-draft")).toBe("draft")
+  expect(named("change-drop")).toBe("drop")
   expect(named("no-level-carries-this-slug")).toBe(null)
 })
 
@@ -203,7 +203,7 @@ test("whether a level is a command or a namespace is read off that level's own p
   const typed = levelsOf(shadowAt(root)).typedAt
 
   expect(typed("change")).toBe("namespace")
-  expect(typed("change-draft")).toBe("command")
+  expect(typed("change-drop")).toBe("command")
   expect(typed("no-level-carries-this-slug")).toBe(null)
 })
 

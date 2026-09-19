@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/modules/change-acting/change-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts"}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/change/draft/change-draft.command.code.ts"}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/change/drop/change-drop.command.code.ts"}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/change/list/change-list.command.code.ts"}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts"}

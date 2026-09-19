@@ -43,10 +43,10 @@ function limitsFor(root: string, ran: string): Limits {
   return { cpu: cpuAllowedIn(value), wall: null, mem: memoryAllowedIn(value) }
 }
 
-const SLUGS: readonly string[] = ["change-draft", "change-apply"]
+const APPLY_SLUG = "change-apply"
 
 export function pagesIn(root: string): readonly string[] {
-  return SLUGS.flatMap((slug) => listedAt(root, COMMAND, slug).map((one) => one.path))
+  return listedAt(root, COMMAND, APPLY_SLUG).map((one) => one.path)
 }
 
 export interface Reading {

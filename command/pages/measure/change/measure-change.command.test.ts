@@ -11,7 +11,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { measureChange } from "akasha/command/pages/measure/change/measure-change.command.code.ts"
 import { measureChange as page } from "akasha/command/pages/measure/change/measure-change.command.ts"
 import {
-  CHANGE_AT,
+  APPLY_AT,
   ONE,
   rowsInto,
   THREE,
@@ -83,7 +83,7 @@ test("a window that is neither a count of runs nor a period is refused once it i
 })
 
 test("a call naming no window reads the runs of the past twenty-four hours", () => {
-  const root = rowsInto(scratch.rootFor("measure-change-"), CHANGE_AT, [
+  const root = rowsInto(scratch.rootFor("measure-change-"), APPLY_AT, [
     { runId: ONE, ran: "change-file", ranAt: sinceNow(HOUR) },
     { runId: TWO, ran: "add-file", ranAt: sinceNow(2 * HOUR) },
     { runId: THREE, ran: "move-file", ranAt: sinceNow(DAY + HOUR) },

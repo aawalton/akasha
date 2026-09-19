@@ -14,23 +14,17 @@ export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30c30"
 
 const COMMAND = "command"
 
-const CHANGE_SLUG = "change-draft"
-
 const APPLY_SLUG = "change-apply"
 
 const CHANGED = "change-agent"
 
-export const CHANGE_AT = `command/pages/change/draft/${CHANGE_SLUG}.${COMMAND}`
-
 export const APPLY_AT = `command/pages/change/apply/${APPLY_SLUG}.${COMMAND}`
 
 const SLUGGED: Readonly<Record<string, string>> = {
-  [CHANGE_AT]: CHANGE_SLUG,
   [APPLY_AT]: APPLY_SLUG,
 }
 
 const IDS: Readonly<Record<string, string>> = {
-  [CHANGE_SLUG]: "01a08071-39a4-7000-9c6b-6cee59d30d10",
   [APPLY_SLUG]: "01a08071-39a4-7000-9c6b-6cee59d30d20",
 }
 

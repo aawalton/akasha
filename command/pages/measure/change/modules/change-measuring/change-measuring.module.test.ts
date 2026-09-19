@@ -21,7 +21,6 @@ import {
 } from "akasha/command/pages/measure/change/modules/change-measuring/change-measuring.module.code.ts"
 import {
   APPLY_AT,
-  CHANGE_AT,
   changeFiled,
   commandFiled,
   lineOf,
@@ -52,15 +51,16 @@ function rootFor(): string {
 }
 
 test("the rows are read from beside the page of the command that wrote them", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
+  const root = rowsInto(rootFor(), APPLY_AT, [{ cpuSeconds: 2 }])
 
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["change-file"])
 })
 
-test("the change page and the apply page are both read", () => {
-  const root = rootFor()
-  rowsInto(root, CHANGE_AT, [{ runId: ONE, ran: "change-file" }])
-  rowsInto(root, APPLY_AT, [{ runId: TWO, phase: "apply", ran: "apply" }])
+test("a change run and an apply run beside one page are both read", () => {
+  const root = rowsInto(rootFor(), APPLY_AT, [
+    { runId: ONE, ran: "change-file" },
+    { runId: TWO, phase: "apply", ran: "apply" },
+  ])
 
   expect(
     costsIn(root, NOW, DAY_BACK)
@@ -71,39 +71,39 @@ test("the change page and the apply page are both read", () => {
 
 test("every numbered file of a page's rows is read rather than the first alone", () => {
   const root = rootFor()
-  rowsInto(root, CHANGE_AT, [{ runId: ONE }], 1)
-  rowsInto(root, CHANGE_AT, [{ runId: TWO }], 2)
-  rowsInto(root, CHANGE_AT, [{ runId: THREE }], 3)
+  rowsInto(root, APPLY_AT, [{ runId: ONE }], 1)
+  rowsInto(root, APPLY_AT, [{ runId: TWO }], 2)
+  rowsInto(root, APPLY_AT, [{ runId: THREE }], 3)
 
-  expect(partsIn(root, `${CHANGE_AT}.ts`, ENTRIES).length).toBe(3)
+  expect(partsIn(root, `${APPLY_AT}.ts`, ENTRIES).length).toBe(3)
   expect(heldIn(root).runs.length).toBe(3)
 })
 
 test("a numbered file that is not there is no file left unread", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{}])
+  const root = rowsInto(rootFor(), APPLY_AT, [{}])
 
   expect(heldIn(root).unread).toEqual([])
 })
 
-test("the pages read are the ones the index names for the change and the apply", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{}])
+test("the page read is the one the index names for the apply", () => {
+  const root = rowsInto(rootFor(), APPLY_AT, [{}])
 
-  expect(pagesIn(root)).toEqual([`${CHANGE_AT}.ts`])
+  expect(pagesIn(root)).toEqual([`${APPLY_AT}.ts`])
 })
 
 test("a file that would not read is named rather than counting as no runs", () => {
-  const root = commandFiled(rootFor(), CHANGE_AT)
-  put(root, `${partAt(CHANGE_AT, 1)}/inner`, "")
+  const root = commandFiled(rootFor(), APPLY_AT)
+  put(root, `${partAt(APPLY_AT, 1)}/inner`, "")
 
   const reading = heldIn(root)
 
   expect(reading.runs).toEqual([])
-  expect(reading.unread).toEqual([partAt(CHANGE_AT, 1)])
+  expect(reading.unread).toEqual([partAt(APPLY_AT, 1)])
 })
 
 test("a row a write left half appended is passed over and the rest of the file read", () => {
-  const root = commandFiled(rootFor(), CHANGE_AT)
-  put(root, partAt(CHANGE_AT, 1), `${lineOf({})}\n${HALF}`)
+  const root = commandFiled(rootFor(), APPLY_AT)
+  put(root, partAt(APPLY_AT, 1), `${lineOf({})}\n${HALF}`)
 
   const reading = heldIn(root)
 
@@ -112,16 +112,16 @@ test("a row a write left half appended is passed over and the rest of the file r
 })
 
 test("the file that row is in is named beneath the table under its own heading", () => {
-  const root = commandFiled(rootFor(), CHANGE_AT)
-  put(root, partAt(CHANGE_AT, 1), `${lineOf({})}\n${HALF}`)
+  const root = commandFiled(rootFor(), APPLY_AT)
+  put(root, partAt(APPLY_AT, 1), `${lineOf({})}\n${HALF}`)
   const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
 
-  expect(heldIn(root).torn).toEqual([partAt(CHANGE_AT, 1)])
-  expect(said.slice(-2)).toEqual([TORN_SAID, partAt(CHANGE_AT, 1)])
+  expect(heldIn(root).torn).toEqual([partAt(APPLY_AT, 1)])
+  expect(said.slice(-2)).toEqual([TORN_SAID, partAt(APPLY_AT, 1)])
 })
 
 test("the runs are gathered under what ran rather than under the page read", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [
+  const root = rowsInto(rootFor(), APPLY_AT, [
     { runId: ONE, ran: "change-file" },
     { runId: TWO, ran: "add-file" },
   ])
@@ -138,17 +138,18 @@ test("a window is chosen by the rule the check measuring chooses one by", () => 
   expect(windowOf("24h").chosen).toEqual({ by: "period", ms: DAY, said: "24h" })
 })
 
-test("a count of runs names the most recent runs over both pages together", () => {
-  const root = rootFor()
-  rowsInto(root, CHANGE_AT, [{ runId: ONE, ranAt: agoOf(2 * HOUR), ran: "change-file" }])
-  rowsInto(root, APPLY_AT, [{ runId: TWO, ranAt: agoOf(HOUR), phase: "apply", ran: "apply" }])
+test("a count of runs names the most recent runs", () => {
+  const root = rowsInto(rootFor(), APPLY_AT, [
+    { runId: ONE, ranAt: agoOf(2 * HOUR), ran: "change-file" },
+    { runId: TWO, ranAt: agoOf(HOUR), phase: "apply", ran: "apply" },
+  ])
 
   expect(costsIn(root, NOW, LAST_ONE).checks.map((one) => one.check)).toEqual(["apply"])
   expect(costsIn(root, NOW, LAST_NINE).total.runs).toBe(2)
 })
 
 test("a period names every row stamped within that period", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [
+  const root = rowsInto(rootFor(), APPLY_AT, [
     { runId: ONE, ranAt: agoOf(HOUR) },
     { runId: TWO, ranAt: agoOf(2 * DAY) },
   ])
@@ -157,7 +158,7 @@ test("a period names every row stamped within that period", () => {
 })
 
 test("the rows are drawn by the rule the check measuring draws its rows by", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
+  const root = rowsInto(rootFor(), APPLY_AT, [{ cpuSeconds: 2 }])
 
   const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
 
@@ -170,7 +171,7 @@ test("the rows are drawn by the rule the check measuring draws its rows by", () 
 })
 
 test("a change's ceilings are drawn beside what its runs took", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
+  const root = rowsInto(rootFor(), APPLY_AT, [{ cpuSeconds: 2 }])
   changeFiled(root, "change-file", { maxCpuSeconds: 30, maxMemoryMb: 1024 })
 
   const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
@@ -181,7 +182,7 @@ test("a change's ceilings are drawn beside what its runs took", () => {
 })
 
 test("a change stating no processor ceiling is drawn with the one every change is held to", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
+  const root = rowsInto(rootFor(), APPLY_AT, [{ cpuSeconds: 2 }])
   changeFiled(root, "change-file")
 
   expect(costsIn(root, NOW, DAY_BACK).checks[0]?.limits).toEqual({
@@ -192,15 +193,16 @@ test("a change stating no processor ceiling is drawn with the one every change i
 })
 
 test("a row naming the change phase or the apply phase is read, and no other row is", () => {
-  const root = rootFor()
-  rowsInto(root, CHANGE_AT, [{ runId: ONE, phase: "change", ran: "change-file" }])
-  rowsInto(root, APPLY_AT, [{ runId: TWO, phase: "apply", ran: "apply" }])
+  const root = rowsInto(rootFor(), APPLY_AT, [
+    { runId: ONE, phase: "change", ran: "change-file" },
+    { runId: TWO, phase: "apply", ran: "apply" },
+  ])
 
   expect(costsIn(root, NOW, DAY_BACK).total.runs).toBe(2)
 })
 
 test("the row a command run wrote beside the same page counts nowhere here", () => {
-  const root = rowsInto(rootFor(), CHANGE_AT, [
+  const root = rowsInto(rootFor(), APPLY_AT, [
     { runId: ONE, phase: "change", ran: "change-file" },
     { runId: TWO, phase: "command", ran: "change" },
   ])

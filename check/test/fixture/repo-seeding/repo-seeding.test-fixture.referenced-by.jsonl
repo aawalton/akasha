@@ -4,6 +4,5 @@
 {"propertySlug":"import","fileName":"repo-seeding.test-fixture.code.ts","path":"command/modules/landing-reading/landing-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"repo-seeding.test-fixture.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"repo-seeding.test-fixture.code.ts","path":"command/pages/change/apply/change-apply.command.test.ts"}
-{"propertySlug":"import","fileName":"repo-seeding.test-fixture.code.ts","path":"command/pages/change/draft/change-draft.command.test.ts"}
 {"propertySlug":"import","fileName":"repo-seeding.test-fixture.code.ts","path":"command/pages/change/subagent/take/change-subagent-take.command.test.ts"}
 {"propertySlug":"parts","path":"check/test/fixture/test-fixture.page-type.ts","id":"01a09c17-9d01-7f25-b06d-5521c1acc95d"}

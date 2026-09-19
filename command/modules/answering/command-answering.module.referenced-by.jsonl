@@ -60,8 +60,6 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/apply/change-apply.command.test.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/draft/change-draft.command.code.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/draft/change-draft.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts"}

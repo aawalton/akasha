@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts"}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/apply/change-apply.command.test.ts"}
-{"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/draft/change-draft.command.code.ts"}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/drop/change-drop.command.code.ts"}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/list/change-list.command.code.ts"}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}

@@ -32,7 +32,7 @@ export const measureChange = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The rows are read from beside the change page and the apply page.",
+      statement: "The rows are read from beside the apply page.",
     },
     {
       decisionKind: "decision-kind/departure",

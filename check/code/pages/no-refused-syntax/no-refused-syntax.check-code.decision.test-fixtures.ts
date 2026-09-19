@@ -152,12 +152,12 @@ const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
     },
   ],
   [
-    "akasha/command/pages/change/draft/change-draft.command.ts",
+    "akasha/command/pages/change/drop/change-drop.command.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000006",
       pageTypeSlug: COMMAND,
-      slug: "change-draft",
-      name: "draft",
+      slug: "change-drop",
+      name: "drop",
     },
   ],
 ]
@@ -174,7 +174,7 @@ export function levelsFiled(root: string): undefined {
 
 const NAMED: ReadonlyMap<string, string> = new Map([
   ["change", "change"],
-  ["change-draft", "draft"],
+  ["change-drop", "drop"],
   ["work-tree", "work-tree"],
   ["temper", "temper"],
   ["temper-addon", "addon"],
@@ -185,7 +185,7 @@ export const levelsNamed: Naming = (slug) => NAMED.get(slug) ?? null
 
 const TYPED: ReadonlyMap<string, Kind> = new Map([
   ["change", NAMESPACE],
-  ["change-draft", COMMAND],
+  ["change-drop", COMMAND],
   ["work-tree", COMMAND],
   ["temper", NAMESPACE],
   ["temper-addon", NAMESPACE],

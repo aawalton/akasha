@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.test.ts"}
 {"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"command/pages/change/apply/change-apply.command.test.ts"}
-{"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"command/pages/change/draft/change-draft.command.test.ts"}
 {"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"minting.test-fixture.code.ts","path":"domain/context/warrant/file-property-file/file-property-file.context-warrant.test.ts"}

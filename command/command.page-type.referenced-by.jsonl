@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/change/apply/change-apply.command.ts"}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/change/draft/change-draft.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/change/drop/change-drop.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/change/list/change-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/change/repeat/change-repeat.command.ts"}

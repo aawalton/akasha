@@ -37,7 +37,7 @@ function marked(call: string): string {
 }
 
 test("a call whose every word names a level is refused nothing", () => {
-  expect(over(said("run `akasha change draft` first"))).toEqual([])
+  expect(over(said("run `akasha change drop` first"))).toEqual([])
 })
 
 test("a three-level call whose deepest name carries a hyphen is refused nothing", () => {
@@ -56,7 +56,7 @@ test("the refusal names the deepest level the call reached", () => {
 })
 
 test("a word after a command is an argument rather than a level", () => {
-  expect(over(said("`akasha change draft add-file`"))).toEqual([])
+  expect(over(said("`akasha change drop add-file`"))).toEqual([])
 })
 
 test("a call whose first word names no level is judged nothing", () => {

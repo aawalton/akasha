@@ -1,6 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
-{"propertySlug":"argument","path":"command/pages/change/draft/change-draft.command.ts","id":"01a08179-3176-7aa0-8d0b-d07d8da49eb2"}
 {"propertySlug":"argument","path":"command/pages/change/repeat/change-repeat.command.ts","id":"01a091e2-0bc2-799b-9f8f-d9a05bfc3696"}
 {"propertySlug":"import","fileName":"change.argument.ts","path":"command/pages/change/apply/change-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"change.argument.ts","path":"command/pages/change/draft/change-draft.command.code.ts"}
 {"propertySlug":"import","fileName":"change.argument.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}

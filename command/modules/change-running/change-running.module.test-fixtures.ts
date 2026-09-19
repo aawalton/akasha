@@ -58,13 +58,13 @@ const SPARE: Readonly<Record<string, string>> = {
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
 }
 
-const DRAFT_AT = "akasha/change-draft.command.ts"
+const APPLY_AT = "akasha/change-apply.command.ts"
 
-const DRAFT_SLUG = "change-draft"
+const APPLY_SLUG = "change-apply"
 
 const COMMAND_TYPE_AT = "akasha/command.page-type.ts"
 
-const DRAFT_COMMAND: Readonly<Record<string, string>> = {
+const APPLY_COMMAND: Readonly<Record<string, string>> = {
   [COMMAND_TYPE_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000001",
     pageTypeSlug: "page-type",
@@ -73,10 +73,10 @@ const DRAFT_COMMAND: Readonly<Record<string, string>> = {
     extends: [DOMAIN_AT],
     properties: [],
   }),
-  [DRAFT_AT]: pageOf({
+  [APPLY_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000002",
     pageTypeSlug: "command",
-    slug: DRAFT_SLUG,
+    slug: APPLY_SLUG,
     definition: "the command a run records what that run cost beside",
   }),
 }
@@ -85,7 +85,7 @@ export const CHOSEN: Chosen = {
   said: "change",
   drafts: null,
   barred: [],
-  slug: DRAFT_SLUG,
+  slug: APPLY_SLUG,
   calledAs: "akasha change",
 }
 
@@ -168,7 +168,7 @@ export function repo(): string {
     ...OWING_NO_READING,
     ...REACHING_ANY_KIND,
     ...KINDS,
-    ...DRAFT_COMMAND,
+    ...APPLY_COMMAND,
   })
 }
 

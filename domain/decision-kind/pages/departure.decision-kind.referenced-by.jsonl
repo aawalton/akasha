@@ -1972,7 +1972,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.ts","id":"01a06862-06c8-7002-8a7a-7c207e2c7cd4"}
 {"propertySlug":"decision-kind","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.ts","id":"01a06862-06c8-7001-8a4c-2018f029da13"}
 {"propertySlug":"decision-kind","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
-{"propertySlug":"decision-kind","path":"command/pages/change/draft/change-draft.command.ts","id":"01a08179-3176-7aa0-8d0b-d07d8da49eb2"}
 {"propertySlug":"decision-kind","path":"command/pages/change/drop/change-drop.command.ts","id":"01a08175-75cb-75dc-a288-942c054573f9"}
 {"propertySlug":"decision-kind","path":"command/pages/change/list/change-list.command.ts","id":"01a0816b-f0ae-7c9a-88cc-25ed0222c61f"}
 {"propertySlug":"decision-kind","path":"command/pages/change/repeat/change-repeat.command.ts","id":"01a091e2-0bc2-799b-9f8f-d9a05bfc3696"}

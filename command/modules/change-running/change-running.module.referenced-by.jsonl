@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/modules/change-running/change-running.module.test.ts"}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/change/draft/change-draft.command.code.ts"}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts"}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/change/subagent/show/change-subagent-show.command.code.ts"}
 {"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/modules/change-running/change-running.module.test.ts"}

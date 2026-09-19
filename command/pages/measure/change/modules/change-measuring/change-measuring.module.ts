@@ -15,11 +15,11 @@ export const changeMeasuring = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The page of every command running a change or an apply is read.",
+      statement: "The page of the command running a change or an apply is read.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where each of those pages sits is read from the index.",
+      statement: "Where that page sits is read from the index.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,7 +47,7 @@ export const changeMeasuring = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A count of runs names the most recent runs over both pages together.",
+      statement: "A count of runs names the most recent runs.",
     },
     {
       decisionKind: "decision-kind/departure",

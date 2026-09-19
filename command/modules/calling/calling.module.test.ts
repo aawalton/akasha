@@ -8,7 +8,7 @@ import {
   bootstrapped,
   COMMAND,
   COMMAND_TYPE,
-  draftUnderChange,
+  dropUnderChange,
   heldTwice,
   mixedTwice,
   namespacedTwice,
@@ -89,7 +89,7 @@ test("a name near a namespace's is refused with that namespace pointed at", asyn
   namespacesIn(root, [
     { slug: "change", definition: "what a landing carries", parts: ["command/held"] },
   ])
-  const said = await calling(["chnge", "draft"], { ...OUTSIDE, root })
+  const said = await calling(["chnge", "drop"], { ...OUTSIDE, root })
   expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("`chnge` is no command akasha carries.")
   expect(said.refusals[0]).toContain("Did you mean `change`?")
@@ -188,12 +188,12 @@ test("a command reached under a namespace is answered rather than the namespace"
 })
 
 test("a word past a namespace reaching nothing it holds is refused", async () => {
-  const said = await calling(["change", "draf", "one"], { ...OUTSIDE, root: draftUnderChange() })
+  const said = await calling(["change", "dro", "one"], { ...OUTSIDE, root: dropUnderChange() })
   expect(said.code).toBe(INPUT)
-  expect(said.refusals[0]).toContain("`akasha change` holds no `draf`")
-  expect(said.refusals[0]).toContain("`draf one` reached nothing")
-  expect(said.refusals[0]).toContain("Did you mean `draft`?")
-  expect(said.refusals).toContain("  akasha change draft")
+  expect(said.refusals[0]).toContain("`akasha change` holds no `dro`")
+  expect(said.refusals[0]).toContain("`dro one` reached nothing")
+  expect(said.refusals[0]).toContain("Did you mean `drop`?")
+  expect(said.refusals).toContain("  akasha change drop")
   expect(said.report).toEqual([])
 })
 
@@ -213,11 +213,11 @@ test("a word a command and a namespace share is refused alike, either order", as
 })
 
 test("a namespace with nothing past it but the help flag is listed", async () => {
-  const root = draftUnderChange()
+  const root = dropUnderChange()
   for (const argv of [["change"], ["change", HELP]]) {
     const said = await calling(argv, { ...OUTSIDE, root })
     expect(said.code).toBe(0)
-    expect(said.report).toContain("  akasha change draft")
+    expect(said.report).toContain("  akasha change drop")
   }
 })
 
@@ -329,20 +329,20 @@ test("the commands there are come from the index", () => {
 })
 
 test("a command under a namespace is named by the call reaching it", () => {
-  expect(commandsIn(draftUnderChange())).toEqual(["change draft"])
+  expect(commandsIn(dropUnderChange())).toEqual(["change drop"])
 })
 
 test("the commands a refusal lists are the calls reaching them", async () => {
-  const said = await calling(["nowhere"], { ...OUTSIDE, root: draftUnderChange() })
+  const said = await calling(["nowhere"], { ...OUTSIDE, root: dropUnderChange() })
   expect(said.code).toBe(INPUT)
-  expect(said.refusals[0]).toContain("  akasha change draft")
-  expect(said.refusals[0]).not.toContain("akasha change-draft")
+  expect(said.refusals[0]).toContain("  akasha change drop")
+  expect(said.refusals[0]).not.toContain("akasha change-drop")
 })
 
 test("a name near a command's is pointed at as the call reaching that command", async () => {
-  const said = await calling(["change-draf"], { ...OUTSIDE, root: draftUnderChange() })
+  const said = await calling(["change-dro"], { ...OUTSIDE, root: dropUnderChange() })
   expect(said.code).toBe(INPUT)
-  expect(said.refusals[0]).toContain("Did you mean `change draft`?")
+  expect(said.refusals[0]).toContain("Did you mean `change drop`?")
 })
 
 test("a name no command carries is told where the surface is written down", async () => {

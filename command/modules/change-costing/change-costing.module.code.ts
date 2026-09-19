@@ -2,8 +2,6 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 
 const COMMAND = "command"
 
-export const CHANGE_DRAFT_SLUG = "change-draft"
-
 export const CHANGE_APPLY_SLUG = "change-apply"
 
 export const APPLY = "apply"
