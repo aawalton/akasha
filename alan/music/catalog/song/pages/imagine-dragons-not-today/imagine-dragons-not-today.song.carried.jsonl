@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"e1299aba-2caf-428d-bdc7-1a3e3e45cb44","externalLink":"https://musicbrainz.org/work/e1299aba-2caf-428d-bdc7-1a3e3e45cb44","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e1299aba-2caf-428d-bdc7-1a3e3e45cb44","externalLink":"https://musicbrainz.org/work/e1299aba-2caf-428d-bdc7-1a3e3e45cb44","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-b6cb-726f-9660-e09d2841d0be"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-not-today"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Not Today"}
 {"type":"page-type/song"}

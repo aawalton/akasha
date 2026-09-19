@@ -1,8 +1,7 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"16e5a571-ea5a-43d5-aac8-7b9878da3b00","externalLink":"https://musicbrainz.org/work/16e5a571-ea5a-43d5-aac8-7b9878da3b00","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"16e5a571-ea5a-43d5-aac8-7b9878da3b00","externalLink":"https://musicbrainz.org/work/16e5a571-ea5a-43d5-aac8-7b9878da3b00","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea496-f008-7a0c-9f84-b124a84f7d27"}
 {"performed":true}
 {"slug":"imagine-dragons-intro"}
-{"songType":"derivative"}
 {"title":"Intro"}
 {"type":"page-type/song"}

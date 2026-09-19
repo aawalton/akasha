@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"f0a1dd2f-7449-45f7-a04c-518e6d279249","externalLink":"https://musicbrainz.org/work/f0a1dd2f-7449-45f7-a04c-518e6d279249","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"f0a1dd2f-7449-45f7-a04c-518e6d279249","externalLink":"https://musicbrainz.org/work/f0a1dd2f-7449-45f7-a04c-518e6d279249","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49d-2356-7f34-8fb0-7293844eed79"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-tied"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Tied"}
 {"type":"page-type/song"}

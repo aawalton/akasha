@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"ed80ee93-fe76-4a3d-bde8-836d24065638","externalLink":"https://musicbrainz.org/work/ed80ee93-fe76-4a3d-bde8-836d24065638","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ed80ee93-fe76-4a3d-bde8-836d24065638","externalLink":"https://musicbrainz.org/work/ed80ee93-fe76-4a3d-bde8-836d24065638","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49d-10ee-75b1-aa24-e0a62525b6f6"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-younger"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Younger"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"e2910c83-73c5-4b4b-bff4-03e868a51011","externalLink":"https://musicbrainz.org/work/e2910c83-73c5-4b4b-bff4-03e868a51011","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e2910c83-73c5-4b4b-bff4-03e868a51011","externalLink":"https://musicbrainz.org/work/e2910c83-73c5-4b4b-bff4-03e868a51011","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-d547-7b4e-b2eb-1246c3002546"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-burn-out"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Burn Out"}
 {"type":"page-type/song"}

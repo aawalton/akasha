@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"74bfdec9-f2fc-4afa-9327-a718b801f469","externalLink":"https://musicbrainz.org/work/74bfdec9-f2fc-4afa-9327-a718b801f469","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"74bfdec9-f2fc-4afa-9327-a718b801f469","externalLink":"https://musicbrainz.org/work/74bfdec9-f2fc-4afa-9327-a718b801f469","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea499-0625-7bf9-8b29-c1fe6425b236"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-dare-u"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Dare U"}
 {"type":"page-type/song"}

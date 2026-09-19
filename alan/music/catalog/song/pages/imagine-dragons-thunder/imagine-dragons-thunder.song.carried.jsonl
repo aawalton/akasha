@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"f0c6bc60-2838-4797-8700-9068a58bf02f","externalLink":"https://musicbrainz.org/work/f0c6bc60-2838-4797-8700-9068a58bf02f","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"f0c6bc60-2838-4797-8700-9068a58bf02f","externalLink":"https://musicbrainz.org/work/f0c6bc60-2838-4797-8700-9068a58bf02f","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49d-2eb5-7388-ab74-ad3d380fbca7"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-thunder"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Thunder"}
 {"type":"page-type/song"}

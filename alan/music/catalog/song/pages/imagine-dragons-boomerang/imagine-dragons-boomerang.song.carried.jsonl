@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"67df168b-a709-4658-945b-9e0a2f31a9ff","externalLink":"https://musicbrainz.org/work/67df168b-a709-4658-945b-9e0a2f31a9ff","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"67df168b-a709-4658-945b-9e0a2f31a9ff","externalLink":"https://musicbrainz.org/work/67df168b-a709-4658-945b-9e0a2f31a9ff","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea498-9ad8-72b0-8dab-50b382948b58"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-boomerang"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Boomerang"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"876de2ac-92ef-46d0-a9c8-3de0705c6191","externalLink":"https://musicbrainz.org/work/876de2ac-92ef-46d0-a9c8-3de0705c6191","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"876de2ac-92ef-46d0-a9c8-3de0705c6191","externalLink":"https://musicbrainz.org/work/876de2ac-92ef-46d0-a9c8-3de0705c6191","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49c-7e98-7702-8b55-f694c603c975"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-working-man"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Working Man"}
 {"type":"page-type/song"}

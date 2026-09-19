@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158","externalLink":"https://musicbrainz.org/work/7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158","externalLink":"https://musicbrainz.org/work/7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea499-4224-7eaa-ac1c-c10fe12544ca"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-bubble"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Bubble"}
 {"type":"page-type/song"}

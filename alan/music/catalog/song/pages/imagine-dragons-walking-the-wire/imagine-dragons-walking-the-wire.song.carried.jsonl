@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"0c58d8f2-c1a2-4850-b839-429a3590ba99","externalLink":"https://musicbrainz.org/work/0c58d8f2-c1a2-4850-b839-429a3590ba99","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"0c58d8f2-c1a2-4850-b839-429a3590ba99","externalLink":"https://musicbrainz.org/work/0c58d8f2-c1a2-4850-b839-429a3590ba99","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49b-6d02-7495-8b07-738adead0f2a"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-walking-the-wire"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Walking the Wire"}
 {"type":"page-type/song"}

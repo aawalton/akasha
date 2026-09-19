@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"da408d6d-4338-4b03-9cbd-f5d281f66584","externalLink":"https://musicbrainz.org/work/da408d6d-4338-4b03-9cbd-f5d281f66584","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"da408d6d-4338-4b03-9cbd-f5d281f66584","externalLink":"https://musicbrainz.org/work/da408d6d-4338-4b03-9cbd-f5d281f66584","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-a5d0-707d-a76f-c502e05c5e54"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-it-s-ok"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"It’s Ok"}
 {"type":"page-type/song"}

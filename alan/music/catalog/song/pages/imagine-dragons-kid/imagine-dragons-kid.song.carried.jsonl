@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"e200fea5-c3df-4e38-8754-2545b979c55c","externalLink":"https://musicbrainz.org/work/e200fea5-c3df-4e38-8754-2545b979c55c","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"e200fea5-c3df-4e38-8754-2545b979c55c","externalLink":"https://musicbrainz.org/work/e200fea5-c3df-4e38-8754-2545b979c55c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-c9bd-7e52-845a-78e1330c862c"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-kid"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Kid"}
 {"type":"page-type/song"}

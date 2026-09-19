@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"21ae7771-a5dd-425c-8e13-020c9ddd39b7","externalLink":"https://musicbrainz.org/work/21ae7771-a5dd-425c-8e13-020c9ddd39b7","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"21ae7771-a5dd-425c-8e13-020c9ddd39b7","externalLink":"https://musicbrainz.org/work/21ae7771-a5dd-425c-8e13-020c9ddd39b7","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea497-0bf5-7544-9ff3-83a00c0571f5"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-all-eyes"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"All Eyes"}
 {"type":"page-type/song"}

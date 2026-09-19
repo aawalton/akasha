@@ -1,8 +1,7 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"f8c51ad3-75f0-34da-91e9-9c76e02066cf","externalLink":"https://musicbrainz.org/work/f8c51ad3-75f0-34da-91e9-9c76e02066cf","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"f8c51ad3-75f0-34da-91e9-9c76e02066cf","externalLink":"https://musicbrainz.org/work/f8c51ad3-75f0-34da-91e9-9c76e02066cf","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49b-3450-76e5-817a-e8d9f122e9e9"}
 {"performed":true}
 {"slug":"imagine-dragons-forever-young"}
-{"songType":"derivative"}
 {"title":"Forever Young"}
 {"type":"page-type/song"}

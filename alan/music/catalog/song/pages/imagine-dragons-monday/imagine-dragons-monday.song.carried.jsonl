@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"3c6844ae-4b63-4a6c-8b64-e27df8e9908c","externalLink":"https://musicbrainz.org/work/3c6844ae-4b63-4a6c-8b64-e27df8e9908c","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"3c6844ae-4b63-4a6c-8b64-e27df8e9908c","externalLink":"https://musicbrainz.org/work/3c6844ae-4b63-4a6c-8b64-e27df8e9908c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea497-88b0-782c-b31a-d6c77b76540f"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-monday"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Monday"}
 {"type":"page-type/song"}

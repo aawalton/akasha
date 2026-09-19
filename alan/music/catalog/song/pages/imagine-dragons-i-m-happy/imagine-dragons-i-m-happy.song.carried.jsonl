@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"c0bfa305-0705-4b83-a10e-96cd2baef8e9","externalLink":"https://musicbrainz.org/work/c0bfa305-0705-4b83-a10e-96cd2baef8e9","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c0bfa305-0705-4b83-a10e-96cd2baef8e9","externalLink":"https://musicbrainz.org/work/c0bfa305-0705-4b83-a10e-96cd2baef8e9","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-59e9-7ff1-b561-9600de385b64"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-i-m-happy"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"I’m Happy"}
 {"type":"page-type/song"}

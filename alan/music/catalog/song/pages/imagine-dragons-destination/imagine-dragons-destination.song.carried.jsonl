@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"b604a4cb-f5d1-4449-8c3e-e3ef5d35ced1","externalLink":"https://musicbrainz.org/work/b604a4cb-f5d1-4449-8c3e-e3ef5d35ced1","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"b604a4cb-f5d1-4449-8c3e-e3ef5d35ced1","externalLink":"https://musicbrainz.org/work/b604a4cb-f5d1-4449-8c3e-e3ef5d35ced1","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-2e0b-7619-aec0-4c37fc491789"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-destination"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Destination"}
 {"type":"page-type/song"}

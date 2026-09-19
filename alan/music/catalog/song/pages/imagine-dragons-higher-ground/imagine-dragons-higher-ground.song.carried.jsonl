@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"4b409796-03ee-4aff-b3af-7075458ec997","externalLink":"https://musicbrainz.org/work/4b409796-03ee-4aff-b3af-7075458ec997","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"4b409796-03ee-4aff-b3af-7075458ec997","externalLink":"https://musicbrainz.org/work/4b409796-03ee-4aff-b3af-7075458ec997","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea497-fc6e-746b-949b-5c1c8b892768"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-higher-ground"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Higher Ground"}
 {"type":"page-type/song"}

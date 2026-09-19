@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"1f5335da-01c5-42b0-af5e-9c7ab6d39eb3","externalLink":"https://musicbrainz.org/work/1f5335da-01c5-42b0-af5e-9c7ab6d39eb3","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"1f5335da-01c5-42b0-af5e-9c7ab6d39eb3","externalLink":"https://musicbrainz.org/work/1f5335da-01c5-42b0-af5e-9c7ab6d39eb3","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49b-b4b4-7703-9b9a-788fc183e767"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-tiptoe"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Tiptoe"}
 {"type":"page-type/song"}

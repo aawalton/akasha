@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"cb154679-7ca9-487e-9a39-4b7281071302","externalLink":"https://musicbrainz.org/work/cb154679-7ca9-487e-9a39-4b7281071302","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"cb154679-7ca9-487e-9a39-4b7281071302","externalLink":"https://musicbrainz.org/work/cb154679-7ca9-487e-9a39-4b7281071302","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea49a-9c8e-72c4-8379-80b0c00ff068"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-every-night"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Every Night"}
 {"type":"page-type/song"}

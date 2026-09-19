@@ -1,11 +1,10 @@
 {"artist":"artist/imagine-dragons"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"693340eb-cf1e-4911-bba8-326488b3c56b","externalLink":"https://musicbrainz.org/work/693340eb-cf1e-4911-bba8-326488b3c56b","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"693340eb-cf1e-4911-bba8-326488b3c56b","externalLink":"https://musicbrainz.org/work/693340eb-cf1e-4911-bba8-326488b3c56b","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea498-a0bc-78e5-906a-285bf8268493"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"imagine-dragons-hear-me"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Hear Me"}
 {"type":"page-type/song"}
