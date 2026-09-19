@@ -17,11 +17,15 @@ export const seatsSlice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat takes the whole machine while the apps want none of it.",
+      statement: "A seat takes the whole processor while the apps want none of it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A seat already running keeps the slice that seat began in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seats hold one memory ceiling whether or not the apps want memory.",
     },
   ],
 } as const satisfies ProvisionedFile
