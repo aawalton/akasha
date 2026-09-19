@@ -1,6 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { command } from "akasha/command/command.page-type.ts"
 import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
+import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
+import { change } from "akasha/command/pages/change/change.namespace.ts"
+import { changeDraft } from "akasha/command/pages/change/draft/change-draft.command.ts"
+import { trackSessionOpen } from "akasha/command/pages/track/session/open/track-session-open.command.ts"
+import { trackSession as trackSessionNamespace } from "akasha/command/pages/track/session/track-session.namespace.ts"
+import { track } from "akasha/command/pages/track/track.namespace.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
@@ -185,6 +192,16 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
   }
 }
 
+const CHANGE_AT = `${namespace.slug}/${change.slug}` as const
+
+const CHANGE_DRAFT_AT = `${command.slug}/${changeDraft.slug}` as const
+
+const TRACK_AT = `${namespace.slug}/${track.slug}` as const
+
+const TRACK_SESSION_AT = `${namespace.slug}/${trackSessionNamespace.slug}` as const
+
+const TRACK_SESSION_OPEN_AT = `${command.slug}/${trackSessionOpen.slug}` as const
+
 export function ruledRoot(): string {
   const root = rootWith(
     [{ slug: "a-b-c", body: ANSWERS, name: "c", directives: [ruleNamed("Own")] }],
@@ -200,14 +217,14 @@ export function ruledRoot(): string {
 
 export function draftUnderChange(): string {
   const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }], COMMAND, [
-    "namespace/change",
+    CHANGE_AT,
   ])
   namespacesIn(root, [
     {
       slug: "change",
       name: "change",
       definition: "what a landing carries",
-      parts: ["command/change-draft"],
+      parts: [CHANGE_DRAFT_AT],
     },
   ])
   return root
@@ -252,7 +269,7 @@ export function pickedTwice(): string {
 }
 
 export function namespacedTwice(): string {
-  const root = rootWith([{ slug: "held", body: ANSWERS }], COMMAND, ["namespace/track"])
+  const root = rootWith([{ slug: "held", body: ANSWERS }], COMMAND, [TRACK_AT])
   namespacesIn(root, [
     { slug: "track", name: "track", parts: ["namespace/track-one", "namespace/track-other"] },
     { slug: "track-one", name: "session", parts: ["command/held"] },
@@ -272,15 +289,15 @@ export function mixedTwice(namespaceFirst: boolean): string {
 
 export function openUnderSession(): string {
   const root = rootWith([{ slug: "track-session-open", body: ANSWERS, name: "open" }], COMMAND, [
-    "namespace/track",
+    TRACK_AT,
   ])
   namespacesIn(root, [
-    { slug: "track", name: "track", parts: ["namespace/track-session"] },
+    { slug: "track", name: "track", parts: [TRACK_SESSION_AT] },
     {
       slug: "track-session",
       name: "session",
       definition: "the stretches",
-      parts: ["command/track-session-open"],
+      parts: [TRACK_SESSION_OPEN_AT],
     },
   ])
   return root

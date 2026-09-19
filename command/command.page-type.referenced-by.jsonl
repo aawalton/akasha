@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"command.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"command.page-type.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"command.page-type.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"command.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
+{"propertySlug":"import","fileName":"command.page-type.ts","path":"command/modules/calling/calling.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"command.page-type.ts","path":"command/modules/namespace-listing/namespace-listing.module.test.ts"}
 {"propertySlug":"import","fileName":"command.page-type.ts","path":"command/modules/walking/command-walking.module.test.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/agent/strays/agent-strays.command.ts"}

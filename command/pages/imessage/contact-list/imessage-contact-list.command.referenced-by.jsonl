@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"imessage-contact-list.command.code.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.test.ts"}
 {"propertySlug":"import","fileName":"imessage-contact-list.command.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"imessage-contact-list.command.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"imessage-contact-list.command.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
 {"propertySlug":"import","fileName":"imessage-contact-list.command.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.test.ts"}
 {"propertySlug":"parts","path":"command/pages/imessage/imessage.namespace.ts","id":"01a07962-b0fa-7141-ae89-2d50447947d2"}

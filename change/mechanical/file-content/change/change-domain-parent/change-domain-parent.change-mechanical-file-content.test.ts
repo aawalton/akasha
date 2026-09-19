@@ -7,6 +7,10 @@ import { changeMechanicalFileContent } from "akasha/change/mechanical/file-conte
 import { removePropertyValue } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { knownOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { command } from "akasha/command/command.page-type.ts"
+import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
+import { imessageContactList } from "akasha/command/pages/imessage/contact-list/imessage-contact-list.command.ts"
+import { imessage } from "akasha/command/pages/imessage/imessage.namespace.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const COMMAND = "01a07932-2568-72a6-8b8e-314ac44c417b"
@@ -21,6 +25,10 @@ const PUTS = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}` as co
 
 const REMOVES = `${changeMechanicalFileContent.slug}/${removePropertyValue.slug}` as const
 
+const PAGE_AT = `${command.slug}/${imessageContactList.slug}` as const
+
+const TO_AT = `${namespace.slug}/${imessage.slug}` as const
+
 const HELD = "imessage/imessage.workspace-package.ts"
 
 const UNDER = "command-system/namespaces/pages/imessage.namespace.ts"
@@ -32,8 +40,8 @@ const PATHS: Readonly<Record<string, string>> = {
 }
 
 const LISTED: Readonly<Record<string, string>> = {
-  "command/imessage-contact-list": COMMAND,
-  "namespace/imessage": NAMESPACE,
+  [PAGE_AT]: COMMAND,
+  [TO_AT]: NAMESPACE,
   "domain/imessage": PACKAGE,
 }
 
@@ -41,7 +49,7 @@ const PARENT: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  parts: ["module/imessage-host", "command/imessage-contact-list"],
+  parts: ["module/imessage-host", PAGE_AT],
 }
 
 const BARE: Value = {
@@ -99,7 +107,7 @@ function worldTold(told: Told): World {
   }
 }
 
-const ASKED = { page: "command/imessage-contact-list", to: "namespace/imessage" }
+const ASKED = { page: PAGE_AT, to: TO_AT }
 
 type Reached = { readonly at: string; readonly given: unknown }
 
@@ -127,16 +135,8 @@ test("both mechanical changes are handed the parts key and the spelling that was
 
   await runChange(watching(worldTold({ namers: [PACKAGE] }), kept), ASKED)
 
-  expect(kept[0]?.given).toEqual({
-    at: HELD,
-    key: "parts",
-    value: "command/imessage-contact-list",
-  })
-  expect(kept[1]?.given).toEqual({
-    at: UNDER,
-    key: "parts",
-    value: "command/imessage-contact-list",
-  })
+  expect(kept[0]?.given).toEqual({ at: HELD, key: "parts", value: PAGE_AT })
+  expect(kept[1]?.given).toEqual({ at: UNDER, key: "parts", value: PAGE_AT })
 })
 
 test("a parent stating no parts gains the list rather than being refused", async () => {
@@ -149,11 +149,7 @@ test("a parent stating no parts gains the list rather than being refused", async
 
   expect(said.refused).toBeNull()
   expect(kept.map((one) => one.at)).toEqual([REMOVES, PUTS])
-  expect(kept[1]?.given).toEqual({
-    at: UNDER,
-    key: "parts",
-    value: `["command/imessage-contact-list"]`,
-  })
+  expect(kept[1]?.given).toEqual({ at: UNDER, key: "parts", value: `["${PAGE_AT}"]` })
 })
 
 const NAMESPACES = new Map<string, Value>([
@@ -174,7 +170,7 @@ test("the parts key gained is written where the pages of that type write it", as
   expect(kept[1]?.given).toEqual({
     at: UNDER,
     key: "parts",
-    value: `["command/imessage-contact-list"]`,
+    value: `["${PAGE_AT}"]`,
     after: "slug",
   })
 })
@@ -184,7 +180,7 @@ test("a page no page names among its parts is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    "no page names `command/imessage-contact-list` among its parts, so `add-property-value` puts it under one"
+    `no page names \`${PAGE_AT}\` among its parts, so \`add-property-value\` puts it under one`
   )
 })
 
@@ -193,7 +189,7 @@ test("a page more than one page names among its parts is refused, naming each", 
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    `\`command/imessage-contact-list\` is a part of \`${HELD}\`, \`${UNDER}\`, so which parent goes is not settled`
+    `\`${PAGE_AT}\` is a part of \`${HELD}\`, \`${UNDER}\`, so which parent goes is not settled`
   )
 })
 
@@ -201,15 +197,13 @@ test("a page already a part of the parent named is refused", async () => {
   const said = await runChange(worldTold({ namers: [NAMESPACE] }), ASKED)
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toBe(
-    `\`command/imessage-contact-list\` is a part of \`${UNDER}\` already`
-  )
+  expect(said.refused ?? "").toBe(`\`${PAGE_AT}\` is a part of \`${UNDER}\` already`)
 })
 
 test("a page the index reaches nothing for is refused by the key naming it", async () => {
   const said = await runChange(worldTold({ namers: [PACKAGE] }), {
     page: "command/nowhere",
-    to: "namespace/imessage",
+    to: TO_AT,
   })
 
   expect(said.edits).toEqual([])
@@ -222,16 +216,14 @@ test("a parent whose parts do not spell the page is refused", async () => {
   const said = await runChange(worldTold({ namers: [PACKAGE], page: BARE }), ASKED)
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toBe(
-    `\`${HELD}\` states \`command/imessage-contact-list\` among no parts`
-  )
+  expect(said.refused ?? "").toBe(`\`${HELD}\` states \`${PAGE_AT}\` among no parts`)
 })
 
 const TWICE: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  parts: ["command/imessage-contact-list", COMMAND],
+  parts: [PAGE_AT, COMMAND],
 }
 
 test("a parent spelling the page among its parts more than once is refused", async () => {
@@ -239,17 +231,17 @@ test("a parent spelling the page among its parts more than once is refused", asy
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    `\`${HELD}\` spells \`command/imessage-contact-list\` among its parts more than once`
+    `\`${HELD}\` spells \`${PAGE_AT}\` among its parts more than once`
   )
 })
 
 test("that refusal does not turn on which spelling is written first", async () => {
-  const flipped: Value = { ...TWICE, parts: [COMMAND, "command/imessage-contact-list"] }
+  const flipped: Value = { ...TWICE, parts: [COMMAND, PAGE_AT] }
 
   const said = await runChange(worldTold({ namers: [PACKAGE], page: flipped }), ASKED)
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    `\`${HELD}\` spells \`command/imessage-contact-list\` among its parts more than once`
+    `\`${HELD}\` spells \`${PAGE_AT}\` among its parts more than once`
   )
 })
