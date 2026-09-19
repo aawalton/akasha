@@ -42,10 +42,6 @@ export const inboxRun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run writes neither the state nor the action log.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A rule that throws is recorded as failed and the run carries on.",
     },
     {

@@ -80,7 +80,7 @@ export async function runInboxWatching(): Promise<void> {
   while (!stopping.signal.aborted) {
     const done: string[] = []
     try {
-      const report = await oneRun(PERSON, ROOT, box, { dryRun: false }, done)
+      const report = await oneRun(PERSON, ROOT, box, done)
       if (report.acted > 0 || report.waiting > 0 || report.unclaimed > 0 || report.discarded > 0)
         log(
           `${report.examined} examined, ${report.acted} acted on, ${report.waiting} waiting, ` +

@@ -22,14 +22,6 @@ export const inboxPass = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run decides everything and carries nothing out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run says in its closing line whether that run was a dry run.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Every decision a run made is said before the tally.",
     },
     {

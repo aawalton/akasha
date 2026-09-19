@@ -195,7 +195,6 @@ export async function oneRun(
   person: string,
   root: string,
   box: Mailbox,
-  options: { readonly dryRun: boolean },
   done: string[] = []
 ): Promise<RunReport> {
   const rules = rulesOf(person, root)
@@ -221,18 +220,13 @@ export async function oneRun(
     if (stillIn) continue
     const at = claims.findIndex((one) => one.messageId === claim.messageId)
     if (at !== -1) claims.splice(at, 1)
-    if (!options.dryRun)
-      record({ message: claim.messageId, rule: claim.rule, action: "claim-cleared" })
+    record({ message: claim.messageId, rule: claim.rule, action: "claim-cleared" })
   }
 
   for (const claim of state.claims) {
     if (claim.actAt === undefined || Date.parse(claim.actAt) > now) continue
     const rule = rules.find((one) => one.slug === claim.rule)
     if (rule === undefined) continue
-    if (options.dryRun) {
-      decisions.push(`${claim.messageId} → ${rule.slug} (delayed, now due)`)
-      continue
-    }
     const did: string[] = []
     try {
       await carry(rule, await box.message(claim.messageId), box, root, did)
@@ -264,43 +258,39 @@ export async function oneRun(
     const channelWay = decideChannel(buildInboundMessage(message, selfAddress, channels))
     if (channelWay.action === "agent-handle") {
       decisions.push(channelSaid(id, message, channelWay.reason))
-      if (!options.dryRun) {
-        claims.push({
-          messageId: id,
-          rule: AGENT_CHANNEL,
-          from: message.from,
-          subject: message.subject,
-          why: "agent",
-          handle: channelWay.agentHandle,
-        })
-        record({
-          message: id,
-          rule: AGENT_CHANNEL,
-          action: "claimed",
-          forKind: "agent",
-          handle: channelWay.agentHandle,
-        })
-      }
+      claims.push({
+        messageId: id,
+        rule: AGENT_CHANNEL,
+        from: message.from,
+        subject: message.subject,
+        why: "agent",
+        handle: channelWay.agentHandle,
+      })
+      record({
+        message: id,
+        rule: AGENT_CHANNEL,
+        action: "claimed",
+        forKind: "agent",
+        handle: channelWay.agentHandle,
+      })
       continue
     }
     if (channelWay.action === "discard") {
       discarded += 1
       decisions.push(channelSaid(id, message, channelWay.reason))
-      if (!options.dryRun)
-        record({ message: id, action: "discard-channel", reason: channelWay.reason })
+      record({ message: id, action: "discard-channel", reason: channelWay.reason })
       continue
     }
     const rule = decide(rules, message)
     if (rule === null) {
       unclaimed += 1
       decisions.push(`${id} → nothing matched | ${message.from} | ${message.subject.slice(0, 60)}`)
-      if (!options.dryRun)
-        record({
-          message: id,
-          action: "unclaimed",
-          from: message.fromAddress,
-          subject: message.subject,
-        })
+      record({
+        message: id,
+        action: "unclaimed",
+        from: message.fromAddress,
+        subject: message.subject,
+      })
       continue
     }
     const due = new Date(message.arrivedAt.getTime() + rule.delayMinutes * 60_000)
@@ -313,7 +303,6 @@ export async function oneRun(
     decisions.push(
       `${id} → ${rule.slug} (${shape}) | ${message.from} | ${message.subject.slice(0, 60)}`
     )
-    if (options.dryRun) continue
 
     if (rule.kind === "agent") {
       claims.push({
@@ -352,7 +341,7 @@ export async function oneRun(
   }
 
   const waiting = claims.filter((one) => one.actAt === undefined)
-  if (!options.dryRun) writeState({ historyId: found.historyId, claims })
+  writeState({ historyId: found.historyId, claims })
   return {
     examined: found.ids.length,
     decisions,
