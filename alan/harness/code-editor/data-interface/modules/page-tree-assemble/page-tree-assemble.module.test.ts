@@ -5,8 +5,11 @@ import {
   type PageNode,
   type QueryRow,
 } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
+import { computedProperty } from "akasha/page/computed-property/computed-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const REPO = "/repo"
+const COMPUTED_PROPERTY_AT = `${pageType.slug}/${computedProperty.slug}` as const
 
 function typeRow(slug: string, above: string | null): QueryRow {
   return { at: `akasha:one/${slug}.page-type.ts`, values: { slug, "extends-slug": above } }
@@ -72,7 +75,7 @@ test("everything under a second drawing carries an id of its own", () => {
           values: {
             slug: "holds",
             key: "holds",
-            "defined-on-slug": "page-type/computed-property",
+            "defined-on-slug": COMPUTED_PROPERTY_AT,
             type: "text",
           },
         },
@@ -98,7 +101,7 @@ test("a property a page type declares is drawn nowhere", () => {
           values: {
             slug: "holds",
             key: "holds",
-            "defined-on-slug": "page-type/computed-property",
+            "defined-on-slug": COMPUTED_PROPERTY_AT,
             type: "text",
           },
         },

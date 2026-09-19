@@ -29,6 +29,8 @@ import {
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 
@@ -189,7 +191,7 @@ const STATES_A_GENERATOR = `export const held = {
   id: "01a04e11-0000-7000-8000-000000000041",
   pageTypeSlug: "page-type",
   slug: "held",
-  extends: ["page-type/page"],
+  extends: ["${pageType.slug}/${page.slug}"],
   typeGenerator: "ts",
 }
 `

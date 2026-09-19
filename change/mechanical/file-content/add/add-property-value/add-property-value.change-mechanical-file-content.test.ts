@@ -5,8 +5,11 @@ import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 const BODY = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
 } as const satisfies PageType
@@ -16,13 +19,13 @@ const EMPTY = `${OPENING}  partSlugs: [],
 } as const satisfies PageType
 `
 
-const GAINED_AFTER_SLUG = `${OPENING}  extendsSlug: ["page-type/page"],
+const GAINED_AFTER_SLUG = `${OPENING}  extendsSlug: ["${PAGE_AT}"],
   partSlugs: ["kept/one", "kept/two"],
 } as const satisfies PageType
 `
 
 const GAINED_LAST = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
-  extendsSlug: ["page-type/page"],
+  extendsSlug: ["${PAGE_AT}"],
 } as const satisfies PageType
 `
 
@@ -154,7 +157,7 @@ test("a page stating no such key gains that key after the property `after` names
   const said = addPropertyValue(worldOf(BODY), {
     at: AT,
     key: "extendsSlug",
-    value: "page-type/page",
+    value: PAGE_AT,
     after: "slug",
   })
 
@@ -165,7 +168,7 @@ test("an `after` naming no property the page states is refused rather than dropp
   const said = addPropertyValue(worldOf(BODY), {
     at: AT,
     key: "extendsSlug",
-    value: "page-type/page",
+    value: PAGE_AT,
     after: "definition",
   })
 
@@ -177,7 +180,7 @@ test("a key the page gains is written last where no `after` is stated", () => {
   const said = addPropertyValue(worldOf(BODY), {
     at: AT,
     key: "extendsSlug",
-    value: "page-type/page",
+    value: PAGE_AT,
   })
 
   expect(bodyOf(said, () => BODY)).toBe(GAINED_LAST)
@@ -201,7 +204,7 @@ test("a body exporting no object is refused", () => {
   const said = addPropertyValue(worldOf("const kept = 1\n"), {
     at: AT,
     key: "extendsSlug",
-    value: "page-type/page",
+    value: PAGE_AT,
   })
 
   expect(said.edits).toEqual([])

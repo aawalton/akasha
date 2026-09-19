@@ -4,6 +4,7 @@ import { OWNED_LANDS_AT } from "akasha/change/mechanical/page-type/rename-page-t
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer, Bodies } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { bodiesIn, worldAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   bodyOf,
   idOf,
@@ -12,8 +13,14 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
 const CARRIED = "carried"
 
@@ -44,7 +51,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "kept",
   pluralSlug: "kepts",
-  extends: ["page-type/page"],
+  extends: [PAGE_AT],
   properties: [{ pagePropertySlug: "file-property/code", required: false, many: false }],
 })}`
 
@@ -70,7 +77,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "bare",
   pluralSlug: "bares",
-  extends: ["page-type/page"],
+  extends: [PAGE_AT],
 })}`
 
 function repoIn(): string {
@@ -174,7 +181,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "long-day",
   pluralSlug: "long-days",
-  extends: ["page-type/page"],
+  extends: [PAGE_AT],
   worked: "ts",
 })}`
 
@@ -200,7 +207,7 @@ const TYPES_BODY = bodyOf({
   id: idOf("2"),
   pageTypeSlug: "page-type",
   slug: "page-type",
-  extends: ["page-type/domain"],
+  extends: [DOMAIN_AT],
   properties: [{ pagePropertySlug: "file-property/worked", required: false, many: false }],
 })
 

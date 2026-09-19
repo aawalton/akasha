@@ -5,6 +5,8 @@ import {
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
@@ -13,6 +15,14 @@ import {
   indexedRepo,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
 export function movesOf(said: Answer): readonly (readonly [string, string])[] {
   const found: (readonly [string, string])[] = []
@@ -100,7 +110,7 @@ export const pagesAt: string = packaged({
     pageTypeSlug: "page-type",
     slug: "warded",
     pluralSlug: "warded",
-    extends: ["page-type/module"],
+    extends: [MODULE_AT],
     properties: [
       { pagePropertySlug: "relation-property/note", required: false, many: false, secret: true },
     ],
@@ -127,7 +137,7 @@ export const pagesAt: string = packaged({
     id: oneId("07"),
     pageTypeSlug: "page-type",
     slug: "page-property-entry",
-    extends: ["page-type/page-property"],
+    extends: [PAGE_PROPERTY_AT],
     properties: [],
   }),
   "akasha/sessions.page-property-entry.ts": bodyOf({
@@ -152,7 +162,7 @@ export const pagesAt: string = packaged({
     pageTypeSlug: "page-type",
     slug: "file-property",
     pluralSlug: "file-properties",
-    extends: ["page-type/page-property"],
+    extends: [PAGE_PROPERTY_AT],
   }),
   "akasha/entries.file-property.ts": pageOf({
     id: oneId("0b"),
@@ -165,7 +175,7 @@ export const pagesAt: string = packaged({
     pageTypeSlug: "page-type",
     slug: "kept",
     pluralSlug: "kepts",
-    extends: ["page-type/module"],
+    extends: [MODULE_AT],
     properties: [
       {
         pagePropertySlug: "file-property/entries",
@@ -190,7 +200,7 @@ export const pagesAt: string = packaged({
     pageTypeSlug: "page-type",
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
-    extends: ["page-type/domain"],
+    extends: [DOMAIN_AT],
     properties: [
       { pagePropertySlug: "file-property/workspace-manifest", required: true, many: false },
     ],
@@ -288,7 +298,7 @@ export const addressedAt: string = indexedRepo({
     id: idOf("b"),
     pageTypeSlug: "module",
     slug: "addressed-one",
-  }).replace('"pageTypeSlug": "module"', '"type": "page-type/module"'),
+  }).replace('"pageTypeSlug": "module"', `"type": "${MODULE_AT}"`),
 })
 
 export const RUNS: Reaching = running

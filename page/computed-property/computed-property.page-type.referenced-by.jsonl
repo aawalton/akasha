@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-progress.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-remaining.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.test.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/faith-level.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/faith-stoplight.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/fun-level.computed-property.code.ts"}

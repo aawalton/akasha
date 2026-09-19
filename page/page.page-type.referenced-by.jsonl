@@ -113,12 +113,15 @@
 {"propertySlug":"extends-type","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
