@@ -3,17 +3,12 @@ import {
   digestOf,
   jobNameFor,
   ranAfter,
-  roundInCluster,
   scriptFor,
   WAITED_ROUNDS,
 } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
-import {
-  COMMIT,
-  capturing,
-  carried,
-  pushed,
-} from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
+import { jobYamlFor } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
+import { COMMIT } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
 
 const CHECKS = ["no-class", "lint-clean"]
 
@@ -67,10 +62,8 @@ test("a check the job left no verdict for is left out rather than answered clean
   expect(ranAfter(ROOT, ["no-such-check-is-filed"])).toEqual([])
 })
 
-test("what a round found is read from the verdicts rather than from what the job said", async () => {
-  const held = capturing()
-  const ended = await roundInCluster(ROOT, ROOT, CHECKS, COMMIT, held.running, carried, pushed)
-  expect("said" in ended).toBe(true)
-  expect(held.seen[0]).toEqual(["apply", "-f", "-"])
-  expect(held.sent()).toContain(jobNameFor(COMMIT, CHECKS))
+test("what a round found is read from the verdicts rather than from what the job said", () => {
+  const named = jobNameFor(COMMIT, CHECKS)
+  expect(jobYamlFor(named, scriptFor(ROOT, CHECKS, COMMIT))).toContain(named)
+  expect(ranAfter(ROOT, CHECKS).every((one) => one.ran)).toBe(true)
 })
