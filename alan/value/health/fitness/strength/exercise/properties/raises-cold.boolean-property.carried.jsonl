@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A movement raises cold where Alan takes it unloaded without risking an injury."},{"decisionKind":"decision-kind/departure","statement":"A movement stating nothing here does not raise cold."},{"decisionKind":"decision-kind/absence","statement":"Nothing a page already states says whether a movement raises cold."}]}
+{"definition":"whether Alan can perform the movement cold to raise his temperature"}
+{"id":"01a0ba71-f807-73dc-a158-b17c5909a083"}
+{"propertySlug":"raises-cold"}
+{"slug":"raises-cold"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

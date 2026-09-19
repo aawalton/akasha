@@ -34,6 +34,7 @@ export const strengthExercise = {
     "url-property/exercise-external-link",
     "url-property/image-end-url",
     "url-property/image-start-url",
+    "boolean-property/raises-cold",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -77,6 +78,7 @@ export const strengthExercise = {
     { pageProperty: "select-property/exercise-source", required: true, many: false },
     { pageProperty: "boolean-property/trains-lengthened-range", required: true, many: false },
     { pageProperty: "file-property/instructions", required: false, many: false },
+    { pageProperty: "boolean-property/raises-cold", required: false, many: false },
   ],
   decisions: [
     {

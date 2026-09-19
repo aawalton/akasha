@@ -50,22 +50,20 @@ const HELD = movement("cat-stretch", {
   force: "static",
 })
 
-const BOXING = movement("shadow-boxing", {
-  title: "Shadow Boxing",
-  pattern: "conditioning",
-  category: "cardio",
+const PRESSING = movement("incline-push-up", {
+  title: "Incline Push-Up",
+  pattern: "h-push",
   implement: "body-only",
   muscles: ["shoulders", "chest"],
-  scoring: "time",
+  raisesCold: true,
 })
 
-const JACKS = movement("jumping-jacks", {
-  title: "Jumping Jacks",
-  pattern: "conditioning",
-  category: "cardio",
+const SQUATTING = movement("bodyweight-squat", {
+  title: "Bodyweight Squat",
+  pattern: "squat",
   implement: "body-only",
   muscles: ["shoulders", "calves"],
-  scoring: "time",
+  raisesCold: true,
 })
 
 const TREADMILL = movement("running-treadmill", {
@@ -75,10 +73,11 @@ const TREADMILL = movement("running-treadmill", {
   implement: "machine",
   muscles: ["quadriceps"],
   scoring: "time",
+  raisesCold: true,
 })
 
 const MOVEMENTS = new Map(
-  [BENCH, MOVING, HELD, BOXING, JACKS, TREADMILL].map((one) => [one.slug, one])
+  [BENCH, MOVING, HELD, PRESSING, SQUATTING, TREADMILL].map((one) => [one.slug, one])
 )
 
 const COVERED = new Set(["dumbbell"])
@@ -138,46 +137,52 @@ test("what Alan has done today is read off the day he did it on", () => {
 
 test("a raise is offered only where Alan's kit can carry that raise", () => {
   expect(raisingIn(MOVEMENTS, COVERED).map((one) => one.slug)).toEqual([
-    "jumping-jacks",
-    "shadow-boxing",
+    "bodyweight-squat",
+    "incline-push-up",
   ])
+})
+
+test("a movement that does not raise cold is no raise to offer", () => {
+  const cautious = new Map(MOVEMENTS)
+  cautious.set(PRESSING.slug, { ...PRESSING, raisesCold: false })
+  expect(raisingIn(cautious, COVERED).map((one) => one.slug)).toEqual(["bodyweight-squat"])
 })
 
 const running = (muscles: readonly string[], given: typeof COLD): readonly string[] =>
   raisingFor(MOVEMENTS, muscles, given).map(titleOf)
 
 test("the raises sharing a muscle with the work to come lead the run", () => {
-  expect(running(BENCH.muscles, COLD)).toEqual(["Shadow Boxing", "Jumping Jacks"])
+  expect(running(BENCH.muscles, COLD)).toEqual(["Incline Push-Up", "Bodyweight Squat"])
 })
 
 test("a work no raise fits is raised on every raise Alan's kit carries", () => {
-  expect(running(["lats"], COLD)).toEqual(["Jumping Jacks", "Shadow Boxing"])
+  expect(running(["lats"], COLD)).toEqual(["Bodyweight Squat", "Incline Push-Up"])
 })
 
 test("the raise Alan performed longest ago leads the run", () => {
-  const raised = new Map([["jumping-jacks", day20260917.date]])
-  expect(running(["lats"], { ...COLD, raised })).toEqual(["Shadow Boxing", "Jumping Jacks"])
+  const raised = new Map([[SQUATTING.slug, day20260917.date]])
+  expect(running(["lats"], { ...COLD, raised })).toEqual(["Incline Push-Up", "Bodyweight Squat"])
 })
 
 test("the day parts raises Alan has gone equally long without", () => {
-  expect(running(["lats"], { ...COLD, turn: 1 })).toEqual(["Shadow Boxing", "Jumping Jacks"])
+  expect(running(["lats"], { ...COLD, turn: 1 })).toEqual(["Incline Push-Up", "Bodyweight Squat"])
 })
 
 test("the run holds as many raises as the minutes divided by the seconds allow", () => {
   expect(raisesIn(COLD)).toBe(5)
   expect(raisesIn({ ...COLD, raising: 1 })).toBe(1)
-  expect(running(["lats"], { ...COLD, raising: 1 })).toEqual(["Jumping Jacks"])
+  expect(running(["lats"], { ...COLD, raising: 1 })).toEqual(["Bodyweight Squat"])
 })
 
 test("a raise Alan performed today is gone from the run", () => {
-  const done = new Set(["shadow-boxing"])
-  expect(running(BENCH.muscles, { ...COLD, done })).toEqual(["Jumping Jacks"])
+  const done = new Set([PRESSING.slug])
+  expect(running(BENCH.muscles, { ...COLD, done })).toEqual(["Bodyweight Squat"])
 })
 
 test("the run is shortened by the raises today already holds", () => {
   expect(raisesLeftIn({ ...COLD, raisedToday: 3 })).toBe(2)
   expect(raisesLeftIn({ ...COLD, raisedToday: 9 })).toBe(0)
-  expect(running(BENCH.muscles, { ...COLD, raisedToday: 4 })).toEqual(["Shadow Boxing"])
+  expect(running(BENCH.muscles, { ...COLD, raisedToday: 4 })).toEqual(["Incline Push-Up"])
 })
 
 test("what Alan raised with is read from the sets logged as cardio", () => {
@@ -201,7 +206,7 @@ test("the movements offered are those sharing a muscle with the movement to come
 test("a cold Alan raises, mobilises and ramps", () => {
   const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, COLD)
   expect(held).toEqual({
-    raise: { minutes: 5, seconds: 60, movements: [BOXING, JACKS] },
+    raise: { minutes: 5, seconds: 60, movements: [PRESSING, SQUATTING] },
     mobilise: [MOVING],
     ramp: { weight: 15, reps: 10 },
   })

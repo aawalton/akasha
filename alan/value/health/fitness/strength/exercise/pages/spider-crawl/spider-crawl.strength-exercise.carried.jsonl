@@ -19,6 +19,7 @@
 {"movementPattern":"gait"}
 {"muscleFocus":"core"}
 {"primaryMuscles":["abdominals"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"secondaryMuscles":["chest","shoulders","triceps"]}
 {"sfrScore":3}

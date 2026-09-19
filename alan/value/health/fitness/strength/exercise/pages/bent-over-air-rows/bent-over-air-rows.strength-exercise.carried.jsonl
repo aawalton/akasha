@@ -14,6 +14,7 @@
 {"movementPattern":"conditioning"}
 {"muscleFocus":"pull"}
 {"primaryMuscles":["lats","middle-back"]}
+{"raisesCold":true}
 {"scoringMode":"time"}
 {"secondaryMuscles":["biceps","lower-back"]}
 {"sfrScore":3}

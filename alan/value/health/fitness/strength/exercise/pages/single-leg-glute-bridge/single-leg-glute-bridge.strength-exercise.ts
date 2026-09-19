@@ -33,4 +33,5 @@ export const singleLegGluteBridge = {
   exerciseSource: "free-exercise-db",
   trainsLengthenedRange: false,
   instructions: "txt",
+  raisesCold: true,
 } as const satisfies StrengthExercise

@@ -19,6 +19,7 @@
 {"movementPattern":"h-push"}
 {"muscleFocus":"push"}
 {"primaryMuscles":["chest"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"secondaryMuscles":["shoulders","triceps"]}
 {"sfrScore":3}

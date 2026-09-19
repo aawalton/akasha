@@ -18,6 +18,7 @@ import type { Mechanic } from "akasha/alan/value/health/fitness/strength/exercis
 import type { MovementPattern } from "akasha/alan/value/health/fitness/strength/exercise/properties/movement-pattern.select-property.types.ts"
 import type { MuscleFocus } from "akasha/alan/value/health/fitness/strength/exercise/properties/muscle-focus.select-property.types.ts"
 import type { PrimaryMuscles } from "akasha/alan/value/health/fitness/strength/exercise/properties/primary-muscles.select-property.types.ts"
+import type { RaisesCold } from "akasha/alan/value/health/fitness/strength/exercise/properties/raises-cold.boolean-property.types.ts"
 import type { ScoringMode } from "akasha/alan/value/health/fitness/strength/exercise/properties/scoring-mode.select-property.types.ts"
 import type { SecondaryMuscles } from "akasha/alan/value/health/fitness/strength/exercise/properties/secondary-muscles.select-property.types.ts"
 import type { SecondaryPattern } from "akasha/alan/value/health/fitness/strength/exercise/properties/secondary-pattern.select-property.types.ts"
@@ -55,4 +56,5 @@ export type StrengthExercise = Page & {
   exerciseSource: ExerciseSource
   trainsLengthenedRange: TrainsLengthenedRange
   instructions?: Instructions
+  raisesCold?: RaisesCold
 }

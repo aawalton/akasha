@@ -14,6 +14,7 @@
 {"movementPattern":"conditioning"}
 {"muscleFocus":"pull"}
 {"primaryMuscles":["middle-back","shoulders"]}
+{"raisesCold":true}
 {"scoringMode":"time"}
 {"secondaryMuscles":["traps","lats"]}
 {"sfrScore":3}

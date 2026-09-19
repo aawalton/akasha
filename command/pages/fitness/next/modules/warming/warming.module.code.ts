@@ -143,7 +143,7 @@ export function raisingIn(
   return [...movements.values()]
     .filter(
       (one) =>
-        one.category === CARDIO &&
+        one.raisesCold &&
         (one.implement === null || one.implement === BODY_ONLY || covered.has(one.implement))
     )
     .sort((a, b) => a.slug.localeCompare(b.slug))

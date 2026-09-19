@@ -489,6 +489,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","id":"01a06558-36e9-75e2-bcf3-ce91fd6e945b"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","id":"01a06838-7a9d-7d0a-8e41-674ebea29caf"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts","id":"01a0b71d-29d7-78fa-a2fa-467c181aa8d2"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/exercise/properties/raises-cold.boolean-property.ts","id":"01a0ba71-f807-73dc-a158-b17c5909a083"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","id":"01a06580-66fd-7412-a20a-d678614e0121"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}

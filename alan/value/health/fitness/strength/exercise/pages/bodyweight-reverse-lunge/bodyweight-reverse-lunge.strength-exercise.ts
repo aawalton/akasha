@@ -24,4 +24,5 @@ export const bodyweightReverseLunge = {
   skillCost: "moderate",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  raisesCold: true,
 } as const satisfies StrengthExercise

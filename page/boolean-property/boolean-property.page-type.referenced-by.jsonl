@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-active.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-available.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/is-ballistic.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/raises-cold.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/trains-lengthened-range.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/is-warmup.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"change/kind/properties/readers-owe-reading.boolean-property.ts"}

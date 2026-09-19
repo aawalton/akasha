@@ -101,5 +101,15 @@ export const warming = {
       decisionKind: "decision-kind/departure",
       statement: "A raise or a mobilise Alan logged today is gone from what he is offered today.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A raise is a strength movement Alan takes unloaded rather than a movement kept for warming.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement raises where its own page says Alan can take it cold, and by nothing else.",
+    },
   ],
 } as const satisfies Module

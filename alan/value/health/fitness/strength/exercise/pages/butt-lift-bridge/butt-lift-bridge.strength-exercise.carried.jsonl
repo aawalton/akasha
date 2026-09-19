@@ -19,6 +19,7 @@
 {"movementPattern":"isolation-other"}
 {"muscleFocus":"legs"}
 {"primaryMuscles":["glutes"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"secondaryMuscles":["hamstrings"]}
 {"sfrScore":4}

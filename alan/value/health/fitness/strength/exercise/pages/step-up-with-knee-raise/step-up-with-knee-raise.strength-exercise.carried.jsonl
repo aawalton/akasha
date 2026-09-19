@@ -19,6 +19,7 @@
 {"movementPattern":"lunge"}
 {"muscleFocus":"legs"}
 {"primaryMuscles":["glutes"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"secondaryMuscles":["hamstrings","quadriceps"]}
 {"sfrScore":3}

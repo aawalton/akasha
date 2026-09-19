@@ -19,6 +19,7 @@
 {"movementPattern":"squat"}
 {"muscleFocus":"legs"}
 {"primaryMuscles":["quadriceps"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"secondaryMuscles":["glutes","hamstrings"]}
 {"sfrScore":3}

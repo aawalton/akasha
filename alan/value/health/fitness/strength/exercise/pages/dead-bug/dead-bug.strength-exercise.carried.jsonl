@@ -19,6 +19,7 @@
 {"movementPattern":"core-anti-extension"}
 {"muscleFocus":"core"}
 {"primaryMuscles":["abdominals"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"sfrScore":3}
 {"skillCost":"moderate"}

@@ -19,6 +19,7 @@
 {"movementPattern":"isolation-other"}
 {"muscleFocus":"core"}
 {"primaryMuscles":["abdominals"]}
+{"raisesCold":true}
 {"scoringMode":"reps"}
 {"sfrScore":3}
 {"skillCost":"moderate"}

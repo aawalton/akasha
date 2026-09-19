@@ -25,4 +25,5 @@ export const bentOverAirRows = {
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  raisesCold: true,
 } as const satisfies StrengthExercise
