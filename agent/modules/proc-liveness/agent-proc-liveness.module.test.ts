@@ -37,6 +37,14 @@ test("the supervisor spelling this predicate was written for is gone", () => {
   expect(isSupervisorCmdline("/usr/bin/bun tools/lib/supervisor.ts --seat one")).toBe(false)
 })
 
+test("the proxy carrying the supervisor in its arguments is no supervisor", () => {
+  expect(
+    isSupervisorCmdline(
+      "bun run /repo/agent/seat/pty/modules/proxy/pty-proxy.module.code.ts -- bun run /repo/run-supervisor.module.code.ts"
+    )
+  ).toBe(false)
+})
+
 test("an agent's own process is its child or its supervisor and nothing else", () => {
   expect(isAgentProcessCmdline(CHILD)).toBe(true)
   expect(isAgentProcessCmdline(SUPERVISOR)).toBe(true)

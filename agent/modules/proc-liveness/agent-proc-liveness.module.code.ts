@@ -6,7 +6,8 @@ function isAgentId(agentId: string): boolean {
 
 const CLAUDE_CHILD_CMDLINE_RE = /\bclaude\b.*--dangerously-skip-permissions/
 
-const SUPERVISOR_CMDLINE_RE = /^(?:\S*\/)?bun\b.*\brun-supervisor(?:\.module\.code)?\.ts/
+const SUPERVISOR_CMDLINE_RE =
+  /^(?:\S*\/)?bun(?:\s+run)?\s+\S*run-supervisor(?:\.module\.code)?\.ts\b/
 
 export function isSupervisorCmdline(cmdline: string): boolean {
   return SUPERVISOR_CMDLINE_RE.test(cmdline)
