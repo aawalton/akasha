@@ -20,6 +20,7 @@ export function holding(named: Readonly<Record<string, readonly string[]>>): Hol
   return (folder) => ({
     names: named[folder] ?? [],
     holds: [],
+    paths: [],
     declared: new Set<string>(),
   })
 }
@@ -78,6 +79,7 @@ export type Shaping = {
   readonly naming?: Standing["naming"]
   readonly parts?: Standing["parts"]
   readonly holds?: Standing["holds"]
+  readonly pathsHeld?: Standing["pathsHeld"]
   readonly declared?: Standing["declared"]
   readonly gathered?: Standing["gathered"]
   readonly partOf?: Standing["partOf"]
@@ -144,6 +146,7 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
       declaring,
       naming: shaping.naming ?? ((): null => null),
       holds: shaping.holds ?? ((): readonly string[] => []),
+      pathsHeld: shaping.pathsHeld ?? ((): readonly string[] => []),
       declared: shaping.declared ?? ((): ReadonlySet<string> => new Set<string>()),
       gathered: shaping.gathered ?? ((): readonly string[] => []),
       parts: shaping.parts ?? ((page) => [page.path]),

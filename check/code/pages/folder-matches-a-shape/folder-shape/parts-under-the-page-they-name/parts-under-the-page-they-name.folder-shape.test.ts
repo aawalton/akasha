@@ -25,6 +25,7 @@ type Over = {
   readonly folder?: string
   readonly deep?: readonly string[]
   readonly holds?: Standing["holds"]
+  readonly pathsHeld?: Standing["pathsHeld"]
   readonly addressing?: Standing["addressing"]
   readonly parts?: Standing["parts"]
 }
@@ -37,11 +38,16 @@ function over(said: Over): (names: readonly string[]) => Standing {
     extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted || BELOW[pageTypeSlug] === wanted,
     gathered,
     holds: said.holds ?? holdsFrom({ [WORLD]: [EMBER] }),
+    pathsHeld: said.pathsHeld ?? holdsFrom({}),
     addressing: said.addressing ?? ((): readonly string[] => [EMBER]),
     parts: said.parts ?? ((page) => [page.path]),
     deep: said.deep ?? [],
   })
 }
+
+const IRIS_AT = `${FOLDER}/iris/iris.world-character.ts`
+
+const NOVA_AT = `${FOLDER}/nova/nova.world-character.ts`
 
 const folder = over({})
 
@@ -60,8 +66,26 @@ test("a character in a folder of its own takes the shape", () => {
   const held = over({
     deep: ["iris/iris.world-character.ts", "iris/iris.world-character.portrait.png"],
     holds: holdsFrom({ [WORLD]: [EMBER], [`${FOLDER}/iris`]: ["world-character/iris"] }),
+    pathsHeld: holdsFrom({ [`${FOLDER}/iris`]: [IRIS_AT] }),
   })
   expect(partsUnderThePageTheyName(held([]))).toEqual([])
+})
+
+test("a character in a folder of its own naming another world is refused", () => {
+  const held = over({
+    deep: ["iris/iris.world-character.ts", "nova/nova.world-character.ts"],
+    holds: holdsFrom({
+      [WORLD]: [EMBER],
+      [`${FOLDER}/iris`]: ["world-character/iris"],
+      [`${FOLDER}/nova`]: ["world-character/nova"],
+    }),
+    pathsHeld: holdsFrom({ [`${FOLDER}/iris`]: [IRIS_AT], [`${FOLDER}/nova`]: [NOVA_AT] }),
+    addressing: (at) => (at === NOVA_AT ? [ASH] : [EMBER]),
+  })
+  const said = partsUnderThePageTheyName(held([]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(`\`${EMBER}\``)
+  expect(said[0]).toContain("nova")
 })
 
 test("a character carrying a file the page states takes the shape", () => {
@@ -101,7 +125,9 @@ test("a page gathered under another name is refused", () => {
 })
 
 test("a character naming another world is refused", () => {
-  const held = over({ addressing: (page) => (page.slug === "nova" ? [ASH] : [EMBER]) })
+  const held = over({
+    addressing: (at) => (at === `${FOLDER}/nova.world-character.ts` ? [ASH] : [EMBER]),
+  })
   const said = partsUnderThePageTheyName(
     held(["iris.world-character.ts", "nova.world-character.ts"])
   )

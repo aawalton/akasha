@@ -153,6 +153,7 @@ test("the page in a folder is read by its path, so a scoped page states its slug
     SECTION_FILES
   )
   expect(holds(MY_STRATEGY_SECTIONS).names).toEqual(["beginnings"])
+  expect(holds(MY_STRATEGY_SECTIONS).paths).toEqual([HOLDER_AT])
   expect([...holds(MY_STRATEGY_SECTIONS).declared]).toEqual(["book-section/two"])
 })
 
@@ -182,8 +183,6 @@ test("a workspace beside a domain answers for the domain and for what that domai
 
 const CHAPTER_AT = "story/world/pages/ember/stories/read/dawn/chapters/one.story-chapter-read.ts"
 
-const CHAPTER_TYPES = new Set<string>(["story-chapter-read"])
-
 const DEPARTURE_AT = `${decisionKind.slug}/${departure.slug}` as const
 
 const CHAPTER: Value = {
@@ -197,14 +196,12 @@ const CHAPTER: Value = {
 
 test("a page answers with every value on it reading as a page type slug and a slug", () => {
   const addressing = addressingOver({ pageByPath: () => CHAPTER })
-  const found = addressing(heldIn(CHAPTER_AT, CHAPTER_TYPES, new Set<string>()))
-  expect(found).toEqual(["story-read/dawn", DEPARTURE_AT])
+  expect(addressing(CHAPTER_AT)).toEqual(["story-read/dawn", DEPARTURE_AT])
 })
 
 test("a page the index reaches by no path answers with no address", () => {
   const addressing = addressingOver({ pageByPath: () => null })
-  const found = addressing(heldIn(CHAPTER_AT, CHAPTER_TYPES, new Set<string>()))
-  expect(found).toEqual([])
+  expect(addressing(CHAPTER_AT)).toEqual([])
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {

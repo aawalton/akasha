@@ -63,8 +63,12 @@ export const partsUnderThePageTheyName = {
       statement: "The files a page in a folder of its own holds are judged where that page is.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A page in a folder of its own is read for what that page names.",
+      decisionKind: "decision-kind/departure",
+      statement: "A page in a folder of its own names the page above as a page sitting here does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page is read for what it names by the path the folder holding it answers with.",
     },
   ],
 } as const satisfies FolderShape

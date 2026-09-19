@@ -21,11 +21,12 @@ export type Standing = {
   readonly declaring: (folder: string) => Declaring | null
   readonly naming: (folder: string) => Wanted | null
   readonly holds: (folder: string) => readonly string[]
+  readonly pathsHeld: (folder: string) => readonly string[]
   readonly declared: (folder: string) => ReadonlySet<string>
   readonly gathered: (named: string) => readonly string[]
   readonly parts: (page: Held) => readonly string[]
   readonly partOf: (page: Held) => readonly string[]
-  readonly addressing: (page: Held) => readonly string[]
+  readonly addressing: (at: string) => readonly string[]
   readonly claimed: (folder: string) => boolean
 }
 
@@ -206,6 +207,10 @@ export const folderShape = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder answers with the path each of those pages was read from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder answers with the parts the page in that folder declares.",
     },
     {
@@ -228,6 +233,11 @@ export const folderShape = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A page answers with the collections that page names as holding that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page is read for its addresses by its path rather than by what names that page.",
     },
     {
       decisionKind: "decision-kind/departure",

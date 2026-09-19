@@ -6,6 +6,7 @@ import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named
 export type Holding = {
   readonly names: readonly string[]
   readonly holds: readonly string[]
+  readonly paths: readonly string[]
   readonly declared: ReadonlySet<string>
 }
 

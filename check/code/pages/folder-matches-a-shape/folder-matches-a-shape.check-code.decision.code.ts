@@ -175,7 +175,7 @@ function declaringOver(index: Answering, grouped: Grouped): (folder: string) => 
   }
 }
 
-const NOTHING: Holding = { names: [], holds: [], declared: new Set<string>() }
+const NOTHING: Holding = { names: [], holds: [], paths: [], declared: new Set<string>() }
 
 function pairs(page: Held, said: Held): boolean {
   return page.slug !== null && said.slug === page.slug
@@ -211,6 +211,11 @@ function identityOf(page: Held | undefined): readonly string[] {
   return [`${page.pageTypeSlug}/${page.slug}`]
 }
 
+function pathOf(page: Held | undefined): readonly string[] {
+  if (page === undefined || page.slug === null || page.pageTypeSlug === null) return []
+  return [page.path]
+}
+
 export function holdingOver(
   index: Paged,
   grouped: Grouped,
@@ -234,6 +239,7 @@ export function holdingOver(
       made = {
         names: [page.slug],
         holds: [...identityOf(paired[0]), ...identityOf(paired[1])],
+        paths: [...pathOf(paired[0]), ...pathOf(paired[1])],
         declared: new Set<string>([
           ...(value === null ? [] : (textsAt(value, PARTS) ?? textsAt(value, PART_SLUGS) ?? [])),
           ...declaredBy(index, paired[1]),
@@ -283,9 +289,9 @@ function addressesIn(held: unknown, found: Set<string>): undefined {
   for (const one of Object.values(held)) addressesIn(one, found)
 }
 
-export function addressingOver(index: Paged): (page: Held) => readonly string[] {
-  return (page) => {
-    const value = index.pageByPath(page.path)
+export function addressingOver(index: Paged): (at: string) => readonly string[] {
+  return (at) => {
+    const value = index.pageByPath(at)
     if (value === null) return []
     const found = new Set<string>()
     for (const one of Object.values(value)) addressesIn(one, found)
@@ -427,6 +433,7 @@ export function judgingOver(given: Reading): Judging {
         declaring,
         naming: namedFor,
         holds: (at) => holds(at).holds,
+        pathsHeld: (at) => holds(at).paths,
         declared: (at) => holds(at).declared,
         gathered: (plural) => plurals.get(plural) ?? [],
         parts,

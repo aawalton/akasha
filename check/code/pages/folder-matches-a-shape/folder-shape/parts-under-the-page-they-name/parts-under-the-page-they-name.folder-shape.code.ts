@@ -14,7 +14,11 @@ export function partsUnderThePageTheyName(standing: Standing): readonly string[]
   const above = standing.holds(dirname(standing.folder))
   const first = above[0]
   if (first === undefined) return ["the folder above holds no page of its own"]
-  const naming = new Set<string>(standing.pages.flatMap((one) => standing.addressing(one)))
+  const here = [
+    ...standing.pages.map((one) => one.path),
+    ...standing.subfolders.flatMap((at) => standing.pathsHeld(at)),
+  ]
+  const naming = new Set<string>(here.flatMap((at) => standing.addressing(at)))
   const holder = above.find((one) => naming.has(one)) ?? first
   const said: string[] = []
   if (standing.strays.length > 0) {
@@ -40,11 +44,18 @@ export function partsUnderThePageTheyName(standing: Standing): readonly string[]
       `${apart.length + elsewhere.length} pages here are gathered under no \`${named}\`: ${saidInside(standing.folder, [...apart, ...elsewhere])}`
     )
   }
-  const loose = standing.pages.filter(
-    (one) =>
-      covering(standing, wanted, String(one.pageTypeSlug)) &&
-      !standing.addressing(one).includes(holder)
-  )
+  const loose = [
+    ...standing.pages.filter(
+      (one) =>
+        covering(standing, wanted, String(one.pageTypeSlug)) &&
+        !standing.addressing(one.path).includes(holder)
+    ),
+    ...standing.subfolders.filter(
+      (at) =>
+        !elsewhere.includes(at) &&
+        !standing.pathsHeld(at).some((one) => standing.addressing(one).includes(holder))
+    ),
+  ]
   if (loose.length > 0) {
     said.push(
       `${loose.length} pages here name \`${holder}\` nowhere: ${saidInside(standing.folder, loose)}`
