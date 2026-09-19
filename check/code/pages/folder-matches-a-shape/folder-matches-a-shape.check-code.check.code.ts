@@ -6,9 +6,10 @@ import {
 import { FILES, input } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
-  facingOn,
+  facingIn,
   generatedIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -29,7 +30,7 @@ export function foldersJudgedBy(change: Change): ReadonlySet<string> {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const facing = facingOn(change.root)
+  const facing = facingIn(change.root, readingIn(change.root))
   const grouped = groupedOver(change, (path) => generatedIn(facing, path))
   const judging = judgingOver({ root: change.root, shadow, grouped })
   return judging.refusalsAt(foldersJudgedBy(change))
