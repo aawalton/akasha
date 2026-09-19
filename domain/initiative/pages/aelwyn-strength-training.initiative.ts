@@ -50,9 +50,6 @@ export const aelwynStrengthTraining = {
       statement: "A movement Alan turns down tells the selector as much as a set Alan finishes.",
     },
     {
-      statement: "A movement chosen carries the weight to use and a suggested number of reps.",
-    },
-    {
       statement: "Every constraint the selector obeys is a predicate over an exercise page.",
     },
     {
