@@ -23,8 +23,8 @@ makeBankSim()
 const { getSavedVariables, setSavedVarsInstance } = await import(
   "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 )
-const traceOnly: Partial<SavedVariablesData> = { diagnostics: {} }
-setSavedVarsInstance(traceOnly as SavedVariablesData)
+const TRACE_ONLY: Partial<SavedVariablesData> = { diagnostics: {} }
+setSavedVarsInstance(TRACE_ONLY as SavedVariablesData)
 
 const { beginBankTrace } = await import(
   "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"

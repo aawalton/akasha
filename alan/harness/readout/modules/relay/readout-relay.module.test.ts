@@ -62,12 +62,12 @@ function storeAnswering(
   return { asked, fetcher }
 }
 
-const placed = { at: AT_A_COMMIT, bodies: [{ path: PAGE_AT, content: null }], unplaced: [] }
+const PLACED = { at: AT_A_COMMIT, bodies: [{ path: PAGE_AT, content: null }], unplaced: [] }
 
-const landed = { commit: null, wrote: [PAGE_AT], took: [] }
+const LANDED = { commit: null, wrote: [PAGE_AT], took: [] }
 
 test("a reading arriving is written beside the page the store places for its readout", async () => {
-  const { asked, fetcher } = storeAnswering(placed, landed)
+  const { asked, fetcher } = storeAnswering(PLACED, LANDED)
   expect(await keepRelayed(carried(19, TAKEN, 2), fetcher, naps)).toBeNull()
   expect(asked.map((one) => one.at)).toEqual(["/read", "/write"])
   expect(asked[0]?.body.pages).toEqual([{ pageTypeSlug: "readout", slug: READOUT }])
@@ -77,7 +77,7 @@ test("a reading arriving is written beside the page the store places for its rea
 })
 
 test("a reading is kept beside a page rather than put as a body the store would commit", async () => {
-  const { asked, fetcher } = storeAnswering(placed, landed)
+  const { asked, fetcher } = storeAnswering(PLACED, LANDED)
   await keepRelayed(carried(19), fetcher, naps)
   const body = asked[1]?.body
   expect(body?.pages).toBeUndefined()
@@ -87,14 +87,14 @@ test("a reading is kept beside a page rather than put as a body the store would 
 test("a readout the store places no page for has its reading refused rather than written", async () => {
   const { asked, fetcher } = storeAnswering(
     { at: AT_A_COMMIT, bodies: [], unplaced: [`readout/${READOUT}`] },
-    landed
+    LANDED
   )
   expect(await keepRelayed(carried(19), fetcher, naps)).toBe(noReadoutSlugged(READOUT))
   expect(asked.map((one) => one.at)).toEqual(["/read"])
 })
 
 test("a store refusing the write answers why rather than counting the reading written", async () => {
-  const { fetcher } = storeAnswering(placed, { refused: "the pages are read only" })
+  const { fetcher } = storeAnswering(PLACED, { refused: "the pages are read only" })
   expect(await keepRelayed(carried(19), fetcher, naps)).toBe("the pages are read only")
 })
 

@@ -12,15 +12,15 @@ import {
 import type { Said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
-const roots: string[] = []
+const ROOTS: string[] = []
 
 afterAll(() => {
-  for (const at of roots) rmSync(at, { recursive: true, force: true })
+  for (const at of ROOTS) rmSync(at, { recursive: true, force: true })
 })
 
 function checkout(): string {
   const at = mkdtempSync(join(HOLD, "akasha-overlay-under-"))
-  roots.push(at)
+  ROOTS.push(at)
   mkdirSync(join(at, "deep"))
   writeFileSync(join(at, "one.txt"), "on disk\n")
   writeFileSync(join(at, "deep/two.txt"), "deeper on disk\n")

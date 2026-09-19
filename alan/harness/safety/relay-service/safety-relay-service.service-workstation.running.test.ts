@@ -9,7 +9,7 @@ const ALANS_SITE = "https://alanwalton.com"
 
 const JENNYS_SITE = "https://smilingjenny.me"
 
-const seen = {
+const SEEN = {
   points: [] as string[],
   sites: [] as string[],
   rounds: 0,
@@ -24,10 +24,10 @@ mock.module(
   () => ({
     ...carrying,
     carryEachReading: (carries: readonly Carry[]) => {
-      seen.rounds += 1
+      SEEN.rounds += 1
       for (const one of carries) {
-        seen.points.push(one.point)
-        seen.sites.push(one.to)
+        SEEN.points.push(one.point)
+        SEEN.sites.push(one.to)
       }
       return Promise.resolve(undefined)
     },
@@ -38,12 +38,12 @@ const running = await import(
   "akasha/alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.code.ts"
 )
 
-const seenAfterOneRun = async (): Promise<typeof seen> => {
-  seen.points.length = 0
-  seen.sites.length = 0
-  seen.rounds = 0
+const seenAfterOneRun = async (): Promise<typeof SEEN> => {
+  SEEN.points.length = 0
+  SEEN.sites.length = 0
+  SEEN.rounds = 0
   await running.runService()
-  return seen
+  return SEEN
 }
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

@@ -39,7 +39,7 @@ const made = scratchWorld()
 
 const BODY = `export const it = { type: "${pageType.slug}/${readout.slug}" }\n`
 
-const scratch = {
+const SCRATCH = {
   rootFor: (name: string): string => {
     const root = made.rootFor(name)
     writing(root, PAGE, BODY)
@@ -49,10 +49,10 @@ const scratch = {
   sweep: made.sweep,
 }
 
-afterAll(() => scratch.sweep())
+afterAll(() => SCRATCH.sweep())
 
 test("where a readout's page sits is asked of the index", () => {
-  const root = scratch.rootFor("readout-page-")
+  const root = SCRATCH.rootFor("readout-page-")
   nothingFiled(root)
   listedFiled(root, READOUT, PROBE_SLUG, [{ path: PAGE, id: PROBE_ID }])
 
@@ -60,24 +60,24 @@ test("where a readout's page sits is asked of the index", () => {
 })
 
 test("a readout the index names no page for is refused rather than answered", () => {
-  const root = scratch.rootFor("readout-page-")
+  const root = SCRATCH.rootFor("readout-page-")
   nothingFiled(root)
 
   expect(() => readoutPage(root, PROBE_SLUG)).toThrow()
 })
 
 test("a readout with nothing beside it has taken no reading", () => {
-  expect(readingKept(scratch.rootFor("readout-reading-"), PAGE)).toBeNull()
+  expect(readingKept(SCRATCH.rootFor("readout-reading-"), PAGE)).toBeNull()
 })
 
 test("a reading kept is the reading read back", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   keepReading(root, PAGE, 19, new Date(TAKEN))
   expect(readingKept(root, PAGE)).toEqual({ value: 19, at: TAKEN, fallsPerHour: 0 })
 })
 
 test("a reading replaces the one before it rather than sitting beside it", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   keepReading(root, PAGE, 19, new Date(TAKEN))
   keepReading(root, PAGE, 4, new Date("2026-08-31T12:05:00.000Z"))
   expect(readingKept(root, PAGE)).toEqual({
@@ -88,33 +88,33 @@ test("a reading replaces the one before it rather than sitting beside it", () =>
 })
 
 test("a reading falling with the clock is read back at the rate it was kept at", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   keepReading(root, PAGE, 19, new Date(TAKEN), 2)
   expect(readingKept(root, PAGE)).toEqual({ value: 19, at: TAKEN, fallsPerHour: 2 })
 })
 
 test("a take naming no rate leaves the rate the take before it wrote", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   keepReading(root, PAGE, 19, new Date(TAKEN), 2)
   keepReading(root, PAGE, 19, new Date(TAKEN))
   expect(readingKept(root, PAGE)?.fallsPerHour).toBe(2)
 })
 
 test("a take naming a rate of nothing writes that rather than leaving the rate before it", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   keepReading(root, PAGE, 19, new Date(TAKEN), 2)
   keepReading(root, PAGE, 19, new Date(TAKEN), 0)
   expect(readingKept(root, PAGE)?.fallsPerHour).toBe(0)
 })
 
 test("a reading of nothing is a reading rather than an absent one", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   keepReading(root, PAGE, 0, new Date(TAKEN))
   expect(readingKept(root, PAGE)?.value).toBe(0)
 })
 
 test("a reading carrying only one of its halves is refused rather than read as none", () => {
-  const root = scratch.rootFor("readout-reading-")
+  const root = SCRATCH.rootFor("readout-reading-")
   mergeUncommitted(root, PAGE, { lastValue: 19 })
   expect(() => readingKept(root, PAGE)).toThrow()
 })
@@ -185,26 +185,26 @@ test("the key the moment of silence is carried under is named here alone", () =>
 })
 
 test("a readout that answered nothing carries when it began answering nothing", () => {
-  const root = scratch.rootFor("readout-silence-")
+  const root = SCRATCH.rootFor("readout-silence-")
   expect(keepSilence(root, [PAGE], new Set([PAGE]), new Date(TAKEN))).toEqual([PAGE])
   expect(wentSilentAtKept(root, PAGE)).toBe(TAKEN)
 })
 
 test("a readout that answered a number carries no such moment", () => {
-  const root = scratch.rootFor("readout-silence-")
+  const root = SCRATCH.rootFor("readout-silence-")
   expect(keepSilence(root, [PAGE], new Set(), new Date(TAKEN))).toEqual([])
   expect(wentSilentAtKept(root, PAGE)).toBeNull()
 })
 
 test("a readout answering nothing again leaves that moment where it already was", () => {
-  const root = scratch.rootFor("readout-silence-")
+  const root = SCRATCH.rootFor("readout-silence-")
   keepSilence(root, [PAGE], new Set([PAGE]), new Date(TAKEN))
   expect(keepSilence(root, [PAGE], new Set([PAGE]), new Date(LATER))).toEqual([])
   expect(wentSilentAtKept(root, PAGE)).toBe(TAKEN)
 })
 
 test("that moment is taken away by the take that answers a number again", () => {
-  const root = scratch.rootFor("readout-silence-")
+  const root = SCRATCH.rootFor("readout-silence-")
   keepReading(root, PAGE, 19, new Date(TAKEN))
   keepSilence(root, [PAGE], new Set([PAGE]), new Date(TAKEN))
   expect(keepSilence(root, [PAGE], new Set(), new Date(LATER))).toEqual([PAGE])
@@ -213,14 +213,14 @@ test("that moment is taken away by the take that answers a number again", () => 
 })
 
 test("one readout answering nothing leaves the readouts beside it carrying nothing", () => {
-  const root = scratch.rootFor("readout-silence-")
+  const root = SCRATCH.rootFor("readout-silence-")
   keepSilence(root, [PAGE, OTHER], new Set([OTHER]), new Date(TAKEN))
   expect(wentSilentAtKept(root, PAGE)).toBeNull()
   expect(wentSilentAtKept(root, OTHER)).toBe(TAKEN)
 })
 
 test("the moment of silence sits beside the reading rather than replacing it", () => {
-  const root = scratch.rootFor("readout-silence-")
+  const root = SCRATCH.rootFor("readout-silence-")
   keepReading(root, PAGE, 19, new Date(TAKEN))
   keepSilence(root, [PAGE], new Set([PAGE]), new Date(LATER))
   expect(uncommittedIn(root, PAGE)).toEqual({

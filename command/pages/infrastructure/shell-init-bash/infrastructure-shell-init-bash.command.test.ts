@@ -51,7 +51,7 @@ afterAll(() => WORLD.sweep())
 
 const ROOT = accountedRoot(WORLD.rootFor("shell-init-bash-"))
 
-const given: Given = {
+const GIVEN: Given = {
   root: ROOT,
   calledAs: "akasha infrastructure shell-init-bash",
   from: ROOT,
@@ -61,20 +61,20 @@ const given: Given = {
 
 describe("what this takes", () => {
   test("is nothing", () => {
-    expect(infrastructureShellInitBash([], given).refusals).toEqual([])
+    expect(infrastructureShellInitBash([], GIVEN).refusals).toEqual([])
   })
 
   test("so a word given to it is refused", () => {
-    expect(infrastructureShellInitBash(["bash"], given).code).toBe(1)
+    expect(infrastructureShellInitBash(["bash"], GIVEN).code).toBe(1)
   })
 
   test("and every word given is named rather than the first alone", () => {
-    expect(infrastructureShellInitBash(["one", "two"], given).refusals.length).toBe(2)
+    expect(infrastructureShellInitBash(["one", "two"], GIVEN).refusals.length).toBe(2)
   })
 })
 
 describe("the set composed", () => {
-  const answer = infrastructureShellInitBash([], given)
+  const answer = infrastructureShellInitBash([], GIVEN)
 
   test("is answered rather than refused", () => {
     expect(answer.refusals).toEqual([])
@@ -114,7 +114,7 @@ describe("a root holding no account page", () => {
     const world = scratchWorld()
     try {
       const root = accountlessRoot(world.rootFor("shell-init-bash-"))
-      const answer = infrastructureShellInitBash([], { ...given, root })
+      const answer = infrastructureShellInitBash([], { ...GIVEN, root })
       expect(answer.code).toBe(2)
       expect(answer.report).toEqual([])
       expect(answer.refusals[0]).toContain("no model account page was read")

@@ -66,11 +66,11 @@ function answering(body: unknown, status: number = 200, rows: readonly unknown[]
 
 const pages = (held: Answering): Keeping => ({ through: held.fetcher, naps: neverNaps })
 
-const roots: string[] = []
+const ROOTS: string[] = []
 
 function aRoot(): string {
   const root = mkdtempSync(join(SCRATCH, "akasha-deploy-recording-"))
-  roots.push(root)
+  ROOTS.push(root)
   mkdirSync(join(root, dirname(BESIDE)), { recursive: true })
   return root
 }
@@ -79,7 +79,7 @@ const uncommittedTimeOf = (root: string): number =>
   statSync(join(root, BESIDE.replace(/\.ts$/, ".uncommitted.ts"))).mtimeMs
 
 afterAll(() => {
-  for (const one of roots) rmSync(one, { recursive: true, force: true })
+  for (const one of ROOTS) rmSync(one, { recursive: true, force: true })
 })
 
 test("the commit put up and the commit refused are kept under two keys", () => {

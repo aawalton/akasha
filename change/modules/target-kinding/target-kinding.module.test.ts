@@ -16,7 +16,7 @@ const BESIDE = "akasha/one/kept.module.code.ts"
 
 const PLAIN = "akasha/one/notes.md"
 
-const world: World = {
+const WORLD: World = {
   root: "/nowhere",
   index: Object.assign({} as World["index"], {
     pageTypesIn: () => NAMED,
@@ -30,21 +30,21 @@ const world: World = {
 }
 
 test("a path under a page type name is a page type", () => {
-  expect(kindOf(world, TYPE)).toBe("file-page-type")
+  expect(kindOf(WORLD, TYPE)).toBe("file-page-type")
 })
 
 test("a path under a page property name is a page property", () => {
-  expect(kindOf(world, PROPERTY)).toBe("file-page-property")
+  expect(kindOf(WORLD, PROPERTY)).toBe("file-page-property")
 })
 
 test("every other path under a page name is a page", () => {
-  expect(kindOf(world, PAGE)).toBe("file-page")
+  expect(kindOf(WORLD, PAGE)).toBe("file-page")
 })
 
 test("a path beside a page is code rather than a page", () => {
-  expect(kindOf(world, BESIDE)).toBe("file-code")
+  expect(kindOf(WORLD, BESIDE)).toBe("file-code")
 })
 
 test("a path under no page name and no TypeScript name is a file", () => {
-  expect(kindOf(world, PLAIN)).toBe("file")
+  expect(kindOf(WORLD, PLAIN)).toBe("file")
 })
