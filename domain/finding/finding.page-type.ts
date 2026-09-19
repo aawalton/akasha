@@ -49,6 +49,14 @@ export const finding = {
         "An observation that comes up again is filed as a new finding rather than the old finding restored.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A finding names code by its symbol rather than by its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A finding pointing inside a body quotes the line rather than numbering it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A file or property close to its length limit is no finding.",
     },
