@@ -89,5 +89,17 @@ export const warming = {
       statement:
         "The run holds the raising minutes divided by those seconds, and one raise at the least.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Warming up is not being warm, so a raise or a mobilise leaves Alan cold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A warmup Alan has begun is offered as what he has left of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A raise or a mobilise Alan logged today is gone from what he is offered today.",
+    },
   ],
 } as const satisfies Module

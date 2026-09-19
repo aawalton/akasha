@@ -90,6 +90,8 @@ const WARM: Warmth = {
   ramped: new Set(["dumbbell-bench-press"]),
   raised: new Map(),
   turn: 0,
+  done: new Set(),
+  raisedToday: 0,
 }
 
 const OFFER: Offer = {

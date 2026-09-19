@@ -293,7 +293,14 @@ export function offerOf(
   marks: ReadonlyMap<string, Mark>,
   bounds: Bounds,
   out: ReadonlySet<string>,
-  warmth: Warmth = { warm: false, ramped: new Set(), raised: new Map(), turn: 0 }
+  warmth: Warmth = {
+    warm: false,
+    ramped: new Set(),
+    raised: new Map(),
+    turn: 0,
+    done: new Set(),
+    raisedToday: 0,
+  }
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, bounds.low).flatMap((muscle) => {
@@ -338,6 +345,8 @@ export function offerOf(
       covered,
       raised: warmth.raised,
       turn: warmth.turn,
+      done: warmth.done,
+      raisedToday: warmth.raisedToday,
     }),
   }
 }

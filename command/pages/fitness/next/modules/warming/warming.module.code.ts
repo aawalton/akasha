@@ -37,12 +37,12 @@ export type Ramp = {
 export type Raise = {
   readonly minutes: number
   readonly seconds: number
-  readonly movements: readonly string[]
+  readonly movements: readonly Movement[]
 }
 
 export type Warmup = {
   readonly raise: Raise | null
-  readonly mobilise: readonly string[]
+  readonly mobilise: readonly Movement[]
   readonly ramp: Ramp
 }
 
@@ -51,6 +51,8 @@ export type Warmth = {
   readonly ramped: ReadonlySet<string>
   readonly raised: ReadonlyMap<string, string>
   readonly turn: number
+  readonly done: ReadonlySet<string>
+  readonly raisedToday: number
 }
 
 export type Warming = {
@@ -64,6 +66,12 @@ export type Warming = {
   readonly covered: ReadonlySet<string>
   readonly raised: ReadonlyMap<string, string>
   readonly turn: number
+  readonly done: ReadonlySet<string>
+  readonly raisedToday: number
+}
+
+export function titleOf(one: Movement): string {
+  return one.title ?? one.slug
 }
 
 export function raisedIn(sets: readonly Value[]): ReadonlyMap<string, string> {
@@ -90,17 +98,25 @@ export function warmthIn(sets: readonly Value[], now: Date, minutes: number, day
   const to = now.getTime()
   const from = to - minutes * MS_PER_MINUTE
   const ramped = new Set<string>()
+  const done = new Set<string>()
   let warm = false
+  let raisedToday = 0
   for (const one of sets) {
+    const named = slugAt(one, "exercise")
+    const activity = textAt(one, ACTIVITY)
+    if (dayOf(one) === day) {
+      if (named !== null) done.add(named)
+      if (activity === CARDIO) raisedToday += 1
+    }
+    if (activity !== null) continue
     const at = textAt(one, AT)
     if (at === null) continue
     const held = Date.parse(at)
     if (!Number.isFinite(held) || held < from || held > to) continue
     warm = true
-    const named = slugAt(one, "exercise")
     if (named !== null) ramped.add(named)
   }
-  return { warm, ramped, raised: raisedIn(sets), turn: turnOf(day) }
+  return { warm, ramped, raised: raisedIn(sets), turn: turnOf(day), done, raisedToday }
 }
 
 export function movingIn(movements: ReadonlyMap<string, Movement>): readonly Movement[] {
@@ -113,12 +129,11 @@ export function mobilisingFor(
   movements: ReadonlyMap<string, Movement>,
   muscles: readonly string[],
   many: number
-): readonly string[] {
+): readonly Movement[] {
   return movingIn(movements)
     .filter((one) => one.muscles.some((each) => muscles.includes(each)))
     .sort((a, b) => a.slug.localeCompare(b.slug))
     .slice(0, many)
-    .map((one) => one.title ?? one.slug)
 }
 
 export function raisingIn(
@@ -155,12 +170,16 @@ export function raisesIn(given: Warming): number {
   return Math.max(1, Math.round((given.raising * SECONDS_PER_MINUTE) / given.seconds))
 }
 
+export function raisesLeftIn(given: Warming): number {
+  return Math.max(0, raisesIn(given) - given.raisedToday)
+}
+
 export function raisingFor(
   movements: ReadonlyMap<string, Movement>,
   muscles: readonly string[],
   given: Warming
-): readonly string[] {
-  const able = raisingIn(movements, given.covered)
+): readonly Movement[] {
+  const able = raisingIn(movements, given.covered).filter((one) => !given.done.has(one.slug))
   const fits = (one: Movement): boolean => one.muscles.some((each) => muscles.includes(each))
   return [
     ...turnedBy(able.filter(fits), given.raised, given.turn),
@@ -169,9 +188,7 @@ export function raisingFor(
       given.raised,
       given.turn
     ),
-  ]
-    .slice(0, raisesIn(given))
-    .map((one) => one.title ?? one.slug)
+  ].slice(0, raisesLeftIn(given))
 }
 
 export function warmupFor(
@@ -187,13 +204,15 @@ export function warmupFor(
     reps: given.reps,
   }
   if (given.warm) return { raise: null, mobilise: [], ramp }
+  const run = raisingFor(movements, one.muscles, given)
   return {
-    raise: {
-      minutes: given.raising,
-      seconds: given.seconds,
-      movements: raisingFor(movements, one.muscles, given),
-    },
-    mobilise: mobilisingFor(movements, one.muscles, given.mobilising),
+    raise:
+      raisesLeftIn(given) === 0
+        ? null
+        : { minutes: given.raising, seconds: given.seconds, movements: run },
+    mobilise: mobilisingFor(movements, one.muscles, given.mobilising).filter(
+      (each) => !given.done.has(each.slug)
+    ),
     ramp,
   }
 }
@@ -203,14 +222,15 @@ export function warmedOf(warmup: Warmup | null): readonly string[] {
   const said: string[] = []
   const raise = warmup.raise
   if (raise !== null) {
-    const run = raise.movements.join(", ")
+    const run = raise.movements.map(titleOf).join(", ")
     said.push(
       raise.movements.length === 0
         ? `  raise: ${String(raise.minutes)} minutes easy, until you are breathing and damp`
         : `  raise: ${String(raise.seconds)} seconds each, easy — ${run}`
     )
   }
-  if (warmup.mobilise.length > 0) said.push(`  mobilise: ${warmup.mobilise.join(", ")}`)
+  if (warmup.mobilise.length > 0)
+    said.push(`  mobilise: ${warmup.mobilise.map(titleOf).join(", ")}`)
   const reps = `${String(warmup.ramp.reps)} easy reps`
   const weight = warmup.ramp.weight
   said.push(weight === null ? `  ramp: ${reps}` : `  ramp: ${String(weight)} lb, ${reps}`)
