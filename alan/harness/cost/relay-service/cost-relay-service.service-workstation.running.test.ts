@@ -1,9 +1,11 @@
 import { expect, mock, test } from "bun:test"
+import { costMultiplier } from "akasha/alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 
 const SHOWN_ON = ["https://alanwalton.com", "https://smilingjenny.me"]
 
-const MULTIPLIER = "readout/cost-multiplier"
+const MULTIPLIER = `${readout.slug}/${costMultiplier.slug}`
 
 const TRAIL: string[] = []
 
