@@ -237,7 +237,7 @@ function activeBuyItemIds(ruleSettings: RuleSettings): Set<number> {
 
 function suspendedBuyRules(buyItemIds: ReadonlySet<number>): string {
   const named = [...buyItemIds].join(", ")
-  return `${buyItemIds.size} buy rule(s) suspended for item(s) ${named}: without an inventory snapshot the addon cannot tell what is already owned, so it will decline rather than buy.`
+  return `${buyItemIds.size} buy rule(s) suspended for item(s) ${named}: without an inventory reading the addon cannot tell what is already owned, so it will decline rather than buy.`
 }
 
 type InventoryValues = Pick<SideFileValues, "sell" | "sellTimestamps" | "sellCompiled">

@@ -35,11 +35,11 @@ export const watcherSettingsConsumables = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A failure names the snapshot at fault and the reason that snapshot is at fault.",
+      statement: "A failure names the reading at fault and the reason that reading is at fault.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Buy stock is unavailable and empty where no snapshot could be read.",
+      statement: "Buy stock is unavailable and empty where the account's reading went unread.",
     },
 
     {

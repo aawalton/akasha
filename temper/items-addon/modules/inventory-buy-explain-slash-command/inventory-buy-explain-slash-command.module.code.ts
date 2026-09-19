@@ -56,7 +56,7 @@ export function onTemperInventoryExplainBuyCommand(this: void, args: string): un
   )
   if (!trace.stockAvailable) {
     d(
-      `${PREFIX} STOCK UNAVAILABLE — no inventory snapshot reached this build. acct/otherChars below are 0 because they are UNKNOWN, not because they are empty; buying is declined until a sync lands.`
+      `${PREFIX} STOCK UNAVAILABLE — no inventory reading reached this build. acct/otherChars below are 0 because they are UNKNOWN, not because they are empty; buying is declined until a sync lands.`
     )
   }
   for (const r of trace.rules) printRule(r)

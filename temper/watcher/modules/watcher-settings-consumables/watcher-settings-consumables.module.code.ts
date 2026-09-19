@@ -45,11 +45,11 @@ export type TargetBuildCharacterReader = (
 export type InventoryRow = Record<string, unknown>
 
 export interface InventoryRowReader {
-  latestSnapshot: (userId: string) => Promise<InventoryRow | undefined>
+  latestReading: (userId: string) => Promise<InventoryRow | undefined>
   dataOf: (slug: string) => Promise<string | null>
 }
 
-export async function snapshotDataOf(
+export async function readingDataOf(
   slug: string,
   pages: ReadPages = readPages,
   files: ReadFiles = readFiles
@@ -73,7 +73,7 @@ export async function snapshotDataOf(
 }
 
 export const PAGE_INVENTORY_ROWS: InventoryRowReader = {
-  latestSnapshot: async (userId) => {
+  latestReading: async (userId) => {
     const { rows } = await getPages({
       pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
       where: [{ key: "title", eq: userId }],
@@ -82,7 +82,7 @@ export const PAGE_INVENTORY_ROWS: InventoryRowReader = {
     })
     return rows[0]
   },
-  dataOf: (slug) => snapshotDataOf(slug),
+  dataOf: (slug) => readingDataOf(slug),
 }
 
 export async function compileCharacterPriority(
@@ -142,13 +142,13 @@ export async function compileWantedConsumables(
 }
 
 export type InventoryReadFailure =
-  | { readonly kind: "no-snapshot" }
-  | { readonly kind: "snapshot-has-no-id" }
-  | { readonly kind: "snapshot-has-no-slug"; readonly snapshotId: string }
-  | { readonly kind: "no-data"; readonly snapshotId: string; readonly slug: string }
+  | { readonly kind: "no-reading" }
+  | { readonly kind: "reading-has-no-id" }
+  | { readonly kind: "reading-has-no-slug"; readonly readingId: string }
+  | { readonly kind: "no-data"; readonly readingId: string; readonly slug: string }
   | {
       readonly kind: "json-parse-failed"
-      readonly snapshotId: string
+      readonly readingId: string
       readonly bytes: number
       readonly message: string
     }
@@ -162,14 +162,14 @@ const FAILURE_DESCRIPTIONS: {
     failure: Extract<InventoryReadFailure, { kind: K }>
   ) => string
 } = {
-  "no-snapshot": () => "no inventory snapshot exists for this user yet",
-  "snapshot-has-no-id": () => "the latest inventory snapshot row carries no id",
-  "snapshot-has-no-slug": (failure) =>
-    `inventory snapshot ${failure.snapshotId} states no slug, so its data file cannot be found`,
+  "no-reading": () => "no inventory reading exists for this user yet",
+  "reading-has-no-id": () => "the latest inventory reading row carries no id",
+  "reading-has-no-slug": (failure) =>
+    `inventory reading ${failure.readingId} states no slug, so its data file cannot be found`,
   "no-data": (failure) =>
-    `inventory snapshot ${failure.snapshotId} has no data file beside ${failure.slug} — the snapshot is mid-write or was truncated`,
+    `inventory reading ${failure.readingId} has no data file beside ${failure.slug} — the reading is mid-write or was truncated`,
   "json-parse-failed": (failure) =>
-    `inventory snapshot ${failure.snapshotId} holds ${failure.bytes} byte(s) that are not valid JSON: ${failure.message}`,
+    `inventory reading ${failure.readingId} holds ${failure.bytes} byte(s) that are not valid JSON: ${failure.message}`,
 }
 
 export function describeInventoryReadFailure(failure: InventoryReadFailure): string {
@@ -180,21 +180,21 @@ export async function readLatestInventory(
   userId: string,
   rows: InventoryRowReader = PAGE_INVENTORY_ROWS
 ): Promise<InventoryReadResult> {
-  const snapshot = await rows.latestSnapshot(userId)
-  if (snapshot == null) return { ok: false, failure: { kind: "no-snapshot" } }
+  const reading = await rows.latestReading(userId)
+  if (reading == null) return { ok: false, failure: { kind: "no-reading" } }
 
-  const snapshotId = snapshot.id
-  if (typeof snapshotId !== "string") {
-    return { ok: false, failure: { kind: "snapshot-has-no-id" } }
+  const readingId = reading.id
+  if (typeof readingId !== "string") {
+    return { ok: false, failure: { kind: "reading-has-no-id" } }
   }
 
-  const slug = snapshot.slug
+  const slug = reading.slug
   if (typeof slug !== "string") {
-    return { ok: false, failure: { kind: "snapshot-has-no-slug", snapshotId } }
+    return { ok: false, failure: { kind: "reading-has-no-slug", readingId } }
   }
 
   const data = await rows.dataOf(slug)
-  if (data === null) return { ok: false, failure: { kind: "no-data", snapshotId, slug } }
+  if (data === null) return { ok: false, failure: { kind: "no-data", readingId, slug } }
 
   try {
     const db: InventoryDatabase = JSON.parse(data)
@@ -204,7 +204,7 @@ export async function readLatestInventory(
       ok: false,
       failure: {
         kind: "json-parse-failed",
-        snapshotId,
+        readingId,
         bytes: data.length,
         message: err instanceof Error ? err.message : String(err),
       },

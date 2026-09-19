@@ -71,7 +71,7 @@ export const watcherExportSettings = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A buy rule with no inventory snapshot behind that rule is said to be suspended.",
+      statement: "A buy rule with no inventory reading behind that rule is said to be suspended.",
     },
     {
       decisionKind: "decision-kind/departure",

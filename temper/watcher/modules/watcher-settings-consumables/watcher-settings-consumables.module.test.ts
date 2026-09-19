@@ -20,8 +20,8 @@ import {
   type InventoryReadFailure,
   type InventoryRow,
   type InventoryRowReader,
+  readingDataOf,
   readLatestInventory,
-  snapshotDataOf,
   toRuleSettings,
 } from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 
@@ -86,20 +86,20 @@ const HOLDINGS: InventoryDatabase = {
   meta: { displayName: "someone", worldName: "PC-EU", lastFullScan: 0 },
 }
 
-const SNAPSHOT_SLUG = "at-2025-02-08-07-33-20"
+const READING_SLUG = "at-2025-02-08-07-33-20"
 
-const SNAPSHOT_PAGE_PATH = `pages/${SNAPSHOT_SLUG}/${SNAPSHOT_SLUG}.temper-inventory-snapshot.ts`
+const READING_PAGE_PATH = `pages/${READING_SLUG}/${READING_SLUG}.temper-account.ts`
 
-const SNAPSHOT_DATA_PATH = `pages/${SNAPSHOT_SLUG}/${SNAPSHOT_SLUG}.temper-inventory-snapshot.data.json`
+const READING_DATA_PATH = `pages/${READING_SLUG}/${READING_SLUG}.temper-account.data.json`
 
-function readerOver(snapshot: InventoryRow | undefined, data: string | null): InventoryRowReader {
-  return { latestSnapshot: async () => snapshot, dataOf: async () => data }
+function readerOver(reading: InventoryRow | undefined, data: string | null): InventoryRowReader {
+  return { latestReading: async () => reading, dataOf: async () => data }
 }
 
-const snapshotPages: ReadPages = async () => ({
+const readingPages: ReadPages = async () => ({
   ok: true,
   at: "c1",
-  bodies: [{ path: SNAPSHOT_PAGE_PATH, content: "" }],
+  bodies: [{ path: READING_PAGE_PATH, content: "" }],
   unplaced: [],
 })
 
@@ -166,34 +166,34 @@ test("buying nothing is available and empty", () => {
 
 test("buy stock is unavailable where no inventory could be read", () => {
   expect(
-    compileBuyStock({ ok: false, failure: { kind: "no-snapshot" } }, new Set([GARLIC_HAGFISH_ITEM]))
+    compileBuyStock({ ok: false, failure: { kind: "no-reading" } }, new Set([GARLIC_HAGFISH_ITEM]))
   ).toEqual({ available: false, buyStockByChar: {}, buyStockAccount: {} })
 })
 
 test("each read failure is described", () => {
-  expect(describeInventoryReadFailure({ kind: "no-snapshot" })).toBe(
-    "no inventory snapshot exists for this user yet"
+  expect(describeInventoryReadFailure({ kind: "no-reading" })).toBe(
+    "no inventory reading exists for this user yet"
   )
-  expect(describeInventoryReadFailure({ kind: "snapshot-has-no-id" })).toBe(
-    "the latest inventory snapshot row carries no id"
+  expect(describeInventoryReadFailure({ kind: "reading-has-no-id" })).toBe(
+    "the latest inventory reading row carries no id"
   )
-  expect(describeInventoryReadFailure({ kind: "snapshot-has-no-slug", snapshotId: "snap-1" })).toBe(
-    "inventory snapshot snap-1 states no slug, so its data file cannot be found"
+  expect(describeInventoryReadFailure({ kind: "reading-has-no-slug", readingId: "read-1" })).toBe(
+    "inventory reading read-1 states no slug, so its data file cannot be found"
   )
   expect(
-    describeInventoryReadFailure({ kind: "no-data", snapshotId: "snap-1", slug: SNAPSHOT_SLUG })
+    describeInventoryReadFailure({ kind: "no-data", readingId: "read-1", slug: READING_SLUG })
   ).toBe(
-    `inventory snapshot snap-1 has no data file beside ${SNAPSHOT_SLUG} — the snapshot is mid-write or was truncated`
+    `inventory reading read-1 has no data file beside ${READING_SLUG} — the reading is mid-write or was truncated`
   )
   expect(
     describeInventoryReadFailure({
       kind: "json-parse-failed",
-      snapshotId: "snap-1",
+      readingId: "read-1",
       bytes: 12,
       message: "Unexpected end of JSON input",
     })
   ).toBe(
-    "inventory snapshot snap-1 holds 12 byte(s) that are not valid JSON: Unexpected end of JSON input"
+    "inventory reading read-1 holds 12 byte(s) that are not valid JSON: Unexpected end of JSON input"
   )
 })
 
@@ -239,58 +239,58 @@ test("nothing the guard refuses is ever answered as an empty rule set", () => {
   }
 })
 
-test("a user with no snapshot is a no-snapshot failure", async () => {
+test("a user with no reading is a no-reading failure", async () => {
   expect(await readLatestInventory("u1", readerOver(undefined, null))).toEqual({
     ok: false,
-    failure: { kind: "no-snapshot" },
+    failure: { kind: "no-reading" },
   })
 })
 
-test("a snapshot row with no id is its own failure", async () => {
-  expect(await readLatestInventory("u1", readerOver({ slug: SNAPSHOT_SLUG }, null))).toEqual({
+test("a reading row with no id is its own failure", async () => {
+  expect(await readLatestInventory("u1", readerOver({ slug: READING_SLUG }, null))).toEqual({
     ok: false,
-    failure: { kind: "snapshot-has-no-id" },
+    failure: { kind: "reading-has-no-id" },
   })
 })
 
-test("a snapshot with no slug cannot say where its data file is", async () => {
-  expect(await readLatestInventory("u1", readerOver({ id: "snap-1" }, null))).toEqual({
+test("a reading with no slug cannot say where its data file is", async () => {
+  expect(await readLatestInventory("u1", readerOver({ id: "read-1" }, null))).toEqual({
     ok: false,
-    failure: { kind: "snapshot-has-no-slug", snapshotId: "snap-1" },
+    failure: { kind: "reading-has-no-slug", readingId: "read-1" },
   })
 })
 
-test("the data is asked for under the snapshot's own slug", async () => {
+test("the data is asked for under the reading's own slug", async () => {
   let asked = ""
   await readLatestInventory("u1", {
-    latestSnapshot: async () => ({ id: "snap-1", slug: SNAPSHOT_SLUG }),
+    latestReading: async () => ({ id: "read-1", slug: READING_SLUG }),
     dataOf: async (slug) => {
       asked = slug
       return null
     },
   })
-  expect(asked).toBe(SNAPSHOT_SLUG)
+  expect(asked).toBe(READING_SLUG)
 })
 
-test("a snapshot with no data file beside it is a failure naming the slug", async () => {
+test("a reading with no data file beside it is a failure naming the slug", async () => {
   expect(
-    await readLatestInventory("u1", readerOver({ id: "snap-1", slug: SNAPSHOT_SLUG }, null))
+    await readLatestInventory("u1", readerOver({ id: "read-1", slug: READING_SLUG }, null))
   ).toEqual({
     ok: false,
-    failure: { kind: "no-data", snapshotId: "snap-1", slug: SNAPSHOT_SLUG },
+    failure: { kind: "no-data", readingId: "read-1", slug: READING_SLUG },
   })
 })
 
 test("data that is not JSON is a failure counting the bytes", async () => {
   const read = await readLatestInventory(
     "u1",
-    readerOver({ id: "snap-1", slug: SNAPSHOT_SLUG }, '{"locations":')
+    readerOver({ id: "read-1", slug: READING_SLUG }, '{"locations":')
   )
   expect(read.ok).toBe(false)
   if (read.ok) return
   expect(read.failure.kind).toBe("json-parse-failed")
   if (read.failure.kind !== "json-parse-failed") return
-  expect(read.failure.snapshotId).toBe("snap-1")
+  expect(read.failure.readingId).toBe("read-1")
   expect(read.failure.bytes).toBe(13)
   expect(read.failure.message.length).toBeGreaterThan(0)
 })
@@ -304,34 +304,34 @@ test("the whole data file parses as one database", async () => {
   expect(
     await readLatestInventory(
       "u1",
-      readerOver({ id: "snap-1", slug: SNAPSHOT_SLUG }, JSON.stringify(EMPTY_DATABASE))
+      readerOver({ id: "read-1", slug: READING_SLUG }, JSON.stringify(EMPTY_DATABASE))
     )
   ).toEqual({ ok: true, db: EMPTY_DATABASE })
 })
 
-test("the data comes from the file beside the snapshot's own page", async () => {
+test("the data comes from the file beside the reading's own page", async () => {
   let asked: readonly string[] = []
   const files: ReadFiles = async (paths) => {
     asked = paths
     return {
       ok: true,
       at: "c1",
-      bodies: [{ path: SNAPSHOT_DATA_PATH, content: '{"locations":{}}' }],
+      bodies: [{ path: READING_DATA_PATH, content: '{"locations":{}}' }],
       unplaced: [],
     }
   }
-  expect(await snapshotDataOf(SNAPSHOT_SLUG, snapshotPages, files)).toBe('{"locations":{}}')
-  expect(asked).toEqual([SNAPSHOT_DATA_PATH])
+  expect(await readingDataOf(READING_SLUG, readingPages, files)).toBe('{"locations":{}}')
+  expect(asked).toEqual([READING_DATA_PATH])
 })
 
 test("a beside path the store holds no body for reads as no data", async () => {
   const files: ReadFiles = async () => ({ ok: true, at: "c1", bodies: [], unplaced: [] })
-  expect(await snapshotDataOf(SNAPSHOT_SLUG, snapshotPages, files)).toBe(null)
+  expect(await readingDataOf(READING_SLUG, readingPages, files)).toBe(null)
 })
 
 test("a store that refuses the data file is refused with what it said", async () => {
   const files: ReadFiles = async () => ({ ok: false, why: "the store was unreachable" })
-  await expect(snapshotDataOf(SNAPSHOT_SLUG, snapshotPages, files)).rejects.toThrow(
+  await expect(readingDataOf(READING_SLUG, readingPages, files)).rejects.toThrow(
     "the store was unreachable"
   )
 })
@@ -354,16 +354,16 @@ const SPREAD: InventoryDatabase = {
 
 const MID_WRITE: InventoryReadFailure = {
   kind: "no-data",
-  snapshotId: "snap-1",
-  slug: SNAPSHOT_SLUG,
+  readingId: "read-1",
+  slug: READING_SLUG,
 }
 
 const EVERY_FAILURE: readonly InventoryReadFailure[] = [
-  { kind: "no-snapshot" },
-  { kind: "snapshot-has-no-id" },
-  { kind: "snapshot-has-no-slug", snapshotId: "snap-1" },
+  { kind: "no-reading" },
+  { kind: "reading-has-no-id" },
+  { kind: "reading-has-no-slug", readingId: "read-1" },
   MID_WRITE,
-  { kind: "json-parse-failed", snapshotId: "snap-1", bytes: 41230, message: "bad" },
+  { kind: "json-parse-failed", readingId: "read-1", bytes: 41230, message: "bad" },
 ]
 
 function heldTotal(stock: BuyStock, itemId: number): number {
@@ -389,7 +389,7 @@ test("an item the account holds none of is left out of both records", () => {
 
 test("a failed read reads as owning nothing, and availability alone tells them apart", () => {
   const failed = compileBuyStock(
-    { ok: false, failure: { kind: "no-snapshot" } },
+    { ok: false, failure: { kind: "no-reading" } },
     new Set([BUY_ITEM])
   )
   const nothing = compileBuyStock({ ok: true, db: EMPTY_DATABASE }, new Set([BUY_ITEM]))
