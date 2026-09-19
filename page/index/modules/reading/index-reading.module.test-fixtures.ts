@@ -190,7 +190,7 @@ export function typeListed(root: string, slug: string, path?: string): string {
 function typeValued(root: string, kind: string, above: readonly string[]): undefined {
   const at = `akasha/${kind}.${PAGE_TYPE}.ts`
   const id = typeListed(root, kind, at)
-  const value = { id, pageTypeSlug: PAGE_TYPE, slug: kind, extends: above }
+  const value = { id, pageTypeSlug: `${PAGE_TYPE}/${PAGE_TYPE}`, slug: kind, extends: above }
   valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
   for (const one of above) relationFiled(root, typeIdOf(one), EXTENDS_TYPE, id, [{ path: at }])
 }
