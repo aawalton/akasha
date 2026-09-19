@@ -25,7 +25,7 @@ export const ainePatreon = {
     { statement: "A contributor commits contribution points to a published feature request." },
     {
       statement:
-        "Anyone proposes a feature request, and Alan's review is what publishes that request.",
+        "Only a contributor proposes a feature request, paying contribution points, and Alan publishes it.",
     },
     {
       statement:
