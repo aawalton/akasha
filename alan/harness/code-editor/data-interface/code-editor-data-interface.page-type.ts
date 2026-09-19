@@ -17,6 +17,7 @@ export const codeEditorDataInterface = {
     "code-editor-data-interface/status-bar",
     "code-editor-data-interface/terminal-tabs",
     "code-editor-data-interface/work-tree",
+    "file-property/rows",
     "file-property/state",
     "module/command-tree-assemble",
     "module/data-watching",
@@ -46,6 +47,13 @@ export const codeEditorDataInterface = {
       many: false,
       uncommitted: true,
       default: "json",
+    },
+    {
+      pageProperty: "file-property/rows",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
     },
   ],
   decisions: [

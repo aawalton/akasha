@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/chess/game/properties/pgn.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/chess/review-session/properties/chess-review-session-notes.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/collection/place/location-collection/properties/location-collection-description.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/harness/code-editor/data-interface/properties/rows.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/harness/code-editor/data-interface/properties/state.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/library/reading/book-section/properties/chapter-text.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/library/reading/scripture-passage/properties/passage-text.file-property.ts"}
