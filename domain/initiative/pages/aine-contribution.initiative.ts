@@ -59,6 +59,6 @@ export const aineContribution = {
     "Each product carries a brand of its own and calls for backing on the one shared Ko-fi account.",
     "A contributor signs in at alanwalton.com, and the payment Stripe reports is matched to that sign-in by email address.",
     "Stripe is the only payment method Ko-fi offers, so every contribution lands in Alan's own Stripe account and nothing is read from Ko-fi.",
-    "Proposing a feature request costs a hundred contribution points, which back that request, and which are spent where Alan does not publish it.",
+    "Proposing a feature request costs a hundred contribution points, which back that request and remain spent whatever becomes of it.",
   ],
 } as const satisfies Initiative
