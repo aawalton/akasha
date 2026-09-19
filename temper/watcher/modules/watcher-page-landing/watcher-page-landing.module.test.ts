@@ -79,7 +79,7 @@ test("a page type import names the page type file from the root", () => {
 
 test("a page path and the jsonl path beside it are the paths the landings already wrote", () => {
   expect(pagePathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour")).toBe(HOUR_AT)
-  expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "snapshots")).toBe(
+  expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "readings")).toBe(
     HOUR_ROWS_AT
   )
   expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(TASK_AT)
@@ -97,11 +97,11 @@ test("a page body is the body the hour landing writes, byte for byte", () => {
       "01a06009-4775-7004-82c8-ee74889a2ada",
       [
         ["title", "2026-04-29 14:00 UTC"],
-        ["snapshots", "jsonl"],
+        ["readings", "jsonl"],
       ]
     )
   ).toBe(
-    `import type { TemperNetWorthHour } from "akasha/temper/holdings/probe-hours/temper-net-worth-hour.page-type.types.ts"\n\nexport const hour2026042914 = {\n  id: "01a06009-4775-7004-82c8-ee74889a2ada",\n  type: "${pageType.slug}/${temperNetWorthHour.slug}",\n  slug: "hour-2026-04-29-14",\n  title: "2026-04-29 14:00 UTC",\n  snapshots: "jsonl",\n} as const satisfies TemperNetWorthHour\n`
+    `import type { TemperNetWorthHour } from "akasha/temper/holdings/probe-hours/temper-net-worth-hour.page-type.types.ts"\n\nexport const hour2026042914 = {\n  id: "01a06009-4775-7004-82c8-ee74889a2ada",\n  type: "${pageType.slug}/${temperNetWorthHour.slug}",\n  slug: "hour-2026-04-29-14",\n  title: "2026-04-29 14:00 UTC",\n  readings: "jsonl",\n} as const satisfies TemperNetWorthHour\n`
   )
 })
 
