@@ -72,5 +72,14 @@ export const accountUpkeepStallReading = {
       decisionKind: "decision-kind/departure",
       statement: "A latch is held after the notification lands and never before that landing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ruling is written out as one anchored line with no line break.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The faults found are written where a person reads rather than where a caller parses.",
+    },
   ],
 } as const satisfies Module

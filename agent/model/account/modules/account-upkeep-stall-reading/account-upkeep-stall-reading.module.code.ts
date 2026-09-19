@@ -15,7 +15,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { emitReading } from "akasha/verdict/modules/reading-channel/reading-channel.module.code.ts"
 
 const LATCH_AT = "/var/tmp/model-account-upkeep-stall.latch"
 
@@ -76,6 +75,24 @@ function buildReading(stall: UpkeepStall, observedAtMs: number): StallReading {
     evidence: stall,
     findings,
   }
+}
+
+const READING_ANCHOR = "READING: "
+
+const FOLD_LINE_BREAKS = /\s*[\r\n]+\s*/g
+
+function readingLine(reading: StallReading): string {
+  const { observed, declared, unit } = reading.coverage
+  const head = `${reading.state.toUpperCase()} — ${reading.subject}`
+  const said = `${head}: ${reading.reason} [over ${observed} of ${declared} ${unit}]`
+  return `${READING_ANCHOR}${said.replace(FOLD_LINE_BREAKS, " ")}`
+}
+
+function emitReading(reading: StallReading): undefined {
+  for (const finding of reading.findings) {
+    process.stderr.write(`  [${finding.at}] ${finding.detail}\n`)
+  }
+  process.stdout.write(`${readingLine(reading)}\n`)
 }
 
 function latchedAccounts(): readonly string[] {
