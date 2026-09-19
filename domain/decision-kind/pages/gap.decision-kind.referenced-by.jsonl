@@ -182,7 +182,6 @@
 {"propertySlug":"decision-kind","path":"change/runner/properties/addressed.file-property.ts","id":"01a077c9-302e-73d9-ab09-7e86e4854566"}
 {"propertySlug":"decision-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
 {"propertySlug":"decision-kind","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.ts","id":"01a0824b-5ca1-7150-a799-fd2189f44fe4"}
-{"propertySlug":"decision-kind","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.ts","id":"01a05407-306d-7b50-85c4-bf43575aa786"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","id":"01a0500d-f968-74e7-b9a7-8394faa7a890"}
 {"propertySlug":"decision-kind","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.ts","id":"01a09ba5-5f5f-7ff3-9aec-c905e4d224ba"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}

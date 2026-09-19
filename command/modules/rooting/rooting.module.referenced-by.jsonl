@@ -32,8 +32,6 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts"}

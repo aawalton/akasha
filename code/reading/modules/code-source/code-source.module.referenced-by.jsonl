@@ -46,7 +46,6 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.test.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/decision-statement-is-plain/decision-statement-is-plain.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.decision.code.ts"}
