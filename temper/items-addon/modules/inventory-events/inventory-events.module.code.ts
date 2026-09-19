@@ -321,7 +321,7 @@ export function registerInventoryEvents(): undefined {
   INVENTORY_FRAGMENT.RegisterCallback(
     "StateChange",
     function (this: void, _oldState: number, newState: number): undefined {
-      if (newState !== SCENE_SHOWING) return
+      if (newState !== SCENE_FRAGMENT_SHOWING) return
       rescanWornItems()
       dispatchUnlockActions()
       dispatchSafeOpenActions()
