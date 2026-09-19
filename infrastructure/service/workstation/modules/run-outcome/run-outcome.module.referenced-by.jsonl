@@ -4,4 +4,5 @@
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"alan/harness/inbox/count-watch-service/inbox-count-watch-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"page/service/page-service.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"run-outcome.module.code.ts","path":"temper/watcher/temper-watcher.service-workstation.running.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
