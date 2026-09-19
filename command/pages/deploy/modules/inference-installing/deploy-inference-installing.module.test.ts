@@ -22,20 +22,13 @@ function reaching(over: Partial<Reaching>): Reaching {
 }
 
 test("a slug no inference service is filed under is refused rather than raised", async () => {
-  const answer = await putUpInferenceService(ROOT, "no-such-service", false, ROOT, [], reaching({}))
+  const answer = await putUpInferenceService(ROOT, "no-such-service", ROOT, [], reaching({}))
   expect(answer.refusals[0]).toContain("no-such-service")
-})
-
-test("a dry run reaches the host to read it and puts nothing up", async () => {
-  const up: string[] = []
-  const answer = await putUpInferenceService(ROOT, SERVICE, true, ROOT, up, reaching({}))
-  expect(answer.code).toBe(0)
-  expect(up).toEqual([])
 })
 
 test("a run that finished names each thing that reached the host", async () => {
   const up: string[] = []
-  const answer = await putUpInferenceService(ROOT, SERVICE, false, ROOT, up, reaching({}))
+  const answer = await putUpInferenceService(ROOT, SERVICE, ROOT, up, reaching({}))
   expect(answer.code).toBe(0)
   expect(up).toHaveLength(3)
   expect(up[0]).toContain("the pool file on macbook")
@@ -48,7 +41,6 @@ test("a folder that would not ship raises, and what reached the host is named", 
   const putting = putUpInferenceService(
     ROOT,
     SERVICE,
-    false,
     ROOT,
     up,
     reaching({ syncDir: () => Promise.reject(new Error("syncDir failed for src")) })
@@ -63,7 +55,6 @@ test("a run nothing reached the host in names nothing as put up", async () => {
   const putting = putUpInferenceService(
     ROOT,
     SERVICE,
-    false,
     ROOT,
     up,
     reaching({ runSsh: () => Promise.reject(new Error("ssh exited 255")) })
@@ -77,7 +68,6 @@ test("a host with no GUI session raises before anything reaches that host", asyn
   const putting = putUpInferenceService(
     ROOT,
     SERVICE,
-    false,
     ROOT,
     up,
     reaching({ runSshCapture: () => Promise.resolve(HOLDS_NONE) })

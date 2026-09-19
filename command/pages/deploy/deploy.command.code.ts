@@ -164,7 +164,7 @@ async function putUp(
     return putUpEvery(given.root, restarting ?? new Set<string>(), at, up, every)
   }
   if (read.kind === INFERENCE_SERVICE) {
-    return await putUpInferenceService(given.root, slug, false, at, up)
+    return await putUpInferenceService(given.root, slug, at, up)
   }
   if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, false, up)
   if (read.kind === CLUSTER_FOUNDATION) {

@@ -30,10 +30,6 @@ export const deployInferenceInstalling = {
         "Nothing is applied where the host has no GUI session for launchd to load an agent into.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A dry run reaches the host to read that host and changes nothing.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here tears down a service the pages no longer name.",
     },

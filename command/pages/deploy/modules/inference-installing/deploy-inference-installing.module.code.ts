@@ -100,7 +100,6 @@ export const OVER_SSH: Reaching = { runSsh, runSshCapture, syncDir }
 export async function putUpInferenceService(
   root: string,
   slug: string,
-  dryRun: boolean,
   codeAt: string,
   up: string[] = [],
   reaching: Reaching = OVER_SSH
@@ -117,7 +116,6 @@ export async function putUpInferenceService(
 
   if (!service.enabled) {
     report.push("is not to be running, so it is torn off the host")
-    if (dryRun) return told(report)
     await reaching.runSsh(target, buildPruneScript({ host, name: service.name }))
     up.push(`${service.name}, torn off ${host.name}`)
     report.push(`tore ${service.name} down`)
@@ -140,7 +138,6 @@ export async function putUpInferenceService(
     return told(report)
   }
   report.push(`is applied because ${reasonFor(held)}`)
-  if (dryRun) return told(report)
 
   const probed = await reaching.runSshCapture(target, buildGuiSessionProbeScript())
   if (!decideGuiSession(probed).sessionPresent) {
