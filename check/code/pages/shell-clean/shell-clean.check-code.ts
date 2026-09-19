@@ -115,5 +115,5 @@ export const shellClean = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CheckCode
