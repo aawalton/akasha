@@ -267,12 +267,17 @@ const GROUP_CODE = "akasha/one.thing.scripting.code.ts"
 
 const SHELL_AT = "akasha/shell.file-property.ts"
 
+const REFS_AT = "akasha/refs.file-property.ts"
+
+const GENERATED_AT = "akasha/one.thing.refs.jsonl"
+
 const GROUP_PAGE = "akasha/scripting.module-property-group.ts"
 
 const WRITTEN_BY = `${modulePropertyGroup.slug}/${scripting.slug}` as const
 
 const SAYING: ReadonlyMap<string, Value> = new Map([
   [SHELL_AT, { propertySlug: "shell", writtenBy: WRITTEN_BY }],
+  [REFS_AT, { propertySlug: "refs", generated: true }],
   [GROUP_PAGE, { slug: scripting.slug, propertySlug: scripting.propertySlug }],
 ])
 
@@ -280,13 +285,13 @@ function groupsAt(root: string): Facing {
   return {
     kindsUnder: (of) => (of === "file-property" ? ["file-property"] : []),
     everyOfType: (kind) => {
-      if (kind === "file-property") return [{ path: SHELL_AT }]
+      if (kind === "file-property") return [{ path: SHELL_AT }, { path: REFS_AT }]
       if (kind === "module-property-group") return [{ path: GROUP_PAGE }]
       return []
     },
     valueAt: (path) => SAYING.get(path) ?? null,
     carryingOf: (named) =>
-      named === "file-property/shell"
+      named === "file-property/shell" || named === "file-property/refs"
         ? {
             carrying: [
               { pageTypeSlug: "thing", path: "akasha/one.thing.ts", id: "held", within: null },
@@ -331,4 +336,21 @@ test("the file a group writes is the only path of the three a machine wrote", ()
   const root = repoWithGroup()
 
   expect([...machineWrote(groupsAt(root), [GROUP_AT, GROUP_CODE, AT])]).toEqual([GROUP_AT])
+})
+
+test("a path a machine generates is one a machine wrote, though no group writes it", () => {
+  const root = repoWithGroup()
+
+  expect([...machineWrote(groupsAt(root), [GENERATED_AT, AT])]).toEqual([GENERATED_AT])
+})
+
+test("a path a machine generates is held neither to a reading nor to the commit named", () => {
+  const root = repoWithGroup()
+  const read = headOf(root)
+  writeFileSync(join(root, GENERATED_AT), "generated again\n")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "meanwhile"])
+  const held = [asRead(GENERATED_AT, blobIdOf(bytes("generated once\n")))]
+  const said = unfresh(root, read, headOf(root), [GENERATED_AT], held, "tail", groupsAt(root))
+  expect(said).toBe(null)
 })

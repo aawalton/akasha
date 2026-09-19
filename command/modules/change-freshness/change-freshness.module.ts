@@ -54,15 +54,16 @@ export const changeFreshness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A path a group writes is held neither to a reading nor to the commit a change names.",
+        "A path a machine generates is held neither to a reading nor to the commit a change names.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A path a group writes carries no work of an agent's to be written over.",
+      statement: "A path a machine generates carries no work of an agent's to be written over.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which paths a group writes is read from the index rather than from the change.",
+      statement:
+        "Which paths a machine generates is read from the index rather than from the change.",
     },
     {
       decisionKind: "decision-kind/absence",

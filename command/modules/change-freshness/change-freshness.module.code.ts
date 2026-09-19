@@ -10,7 +10,7 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   type Facing,
   facingOn,
-  writerAt,
+  generatedIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 
 const NONE: ReadonlySet<string> = new Set()
@@ -54,7 +54,7 @@ function movedBetween(
 
 export function machineWrote(given: Facing, paths: Iterable<string>): ReadonlySet<string> {
   const made = new Set<string>()
-  for (const one of paths) if (writerAt(given, one) !== null) made.add(one)
+  for (const one of paths) if (generatedIn(given, one)) made.add(one)
   return made
 }
 
