@@ -1,7 +1,7 @@
 {
   "base_image": "oven/bun:1.3.14",
   "package_installer": "apt",
-  "system_packages": ["jq", "gettext-base", "bash", "curl", "git", "coreutils", "ca-certificates", "procps"],
+  "system_packages": ["jq", "gettext-base", "bash", "curl", "git", "coreutils", "ca-certificates", "procps", "shellcheck"],
   "extra_run_commands": [
     "RUN curl -fsSL -o /usr/local/bin/kubectl https://dl.k8s.io/release/v1.33.1/bin/linux/amd64/kubectl && chmod +x /usr/local/bin/kubectl",
     "RUN curl -fsSL -o /usr/local/bin/sops https://github.com/getsops/sops/releases/download/v3.9.4/sops-v3.9.4.linux.amd64 && chmod +x /usr/local/bin/sops",
