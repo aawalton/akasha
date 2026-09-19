@@ -1165,6 +1165,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/home-dni-param/home-dni-param.module.ts","id":"01a0655e-d399-7f57-a5ed-36dc75b69609"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.ts","id":"01a0655e-d39b-7b16-9974-8d43261a1726"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/picture-answering/picture-answering.module.ts","id":"01a09c61-a5d9-766a-9d6d-662757fe1a24"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/readout-guarding/readout-guarding.module.ts","id":"01a0655e-d39a-743e-a192-9fef67057d38"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/alanwalton-web/alanwalton-web.manifest.ts","id":"01a0737e-5eae-7286-97df-40905333f97f"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","id":"01a0655d-dab8-7853-9f9b-b95d2c8ee8a0"}
