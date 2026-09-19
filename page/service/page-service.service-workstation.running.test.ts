@@ -1,8 +1,10 @@
 import { expect, mock, test } from "bun:test"
+import {
+  FOLLOWING_ON,
+  outcomeOf,
+} from "akasha/infrastructure/service/workstation/modules/run-outcome/run-outcome.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
 
-const SETTLED = "settled"
-const LISTENING_ON = "listening on"
 const HANDED: string[] = []
 
 const listening = await import(
@@ -18,15 +20,6 @@ mock.module("akasha/page/service/modules/page-listening/page-listening.module.co
 
 const running = await import("akasha/page/service/page-service.service-workstation.running.code.ts")
 
-function outcomeOf(run: Promise<never>, ms: number): Promise<string> {
-  return Promise.race([
-    run.then(() => SETTLED),
-    new Promise<string>((say) => {
-      setTimeout(() => say(LISTENING_ON), ms)
-    }),
-  ])
-}
-
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
   expect(typeof running.runService).toBe("function")
   expect(running.runService.length).toBe(0)
@@ -38,13 +31,13 @@ test("the run is the only way into this file, so the service has one entry", () 
 
 test("a run binds through the listening module rather than through servers bound again here", async () => {
   HANDED.length = 0
-  await expect(outcomeOf(running.runService(), 25)).resolves.toBe(LISTENING_ON)
+  await expect(outcomeOf(running.runService(), 25)).resolves.toBe(FOLLOWING_ON)
   expect(HANDED).toEqual([checkoutAt()])
 })
 
 test("a run does not answer while the servers are up, so the runner's process stays the service", async () => {
   HANDED.length = 0
-  await expect(outcomeOf(running.runService(), 100)).resolves.toBe(LISTENING_ON)
+  await expect(outcomeOf(running.runService(), 100)).resolves.toBe(FOLLOWING_ON)
 })
 
 test("a host name that would not bind is carried out rather than swallowed, so a failed start is a failed unit", async () => {
