@@ -19,6 +19,7 @@ export const coldplayEverydayLifeUntitled = {
     },
   ],
   title: "بنی آدم",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

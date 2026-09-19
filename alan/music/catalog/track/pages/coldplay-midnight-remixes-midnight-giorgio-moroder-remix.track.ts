@@ -19,6 +19,7 @@ export const coldplayMidnightRemixesMidnightGiorgioMoroderRemix = {
     },
   ],
   title: "Midnight - Giorgio Moroder Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

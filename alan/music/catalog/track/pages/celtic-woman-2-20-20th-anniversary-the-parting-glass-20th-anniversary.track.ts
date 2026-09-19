@@ -19,6 +19,7 @@ export const celticWoman22020thAnniversaryThePartingGlass20thAnniversary = {
     },
   ],
   title: "The Parting Glass - 20th Anniversary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

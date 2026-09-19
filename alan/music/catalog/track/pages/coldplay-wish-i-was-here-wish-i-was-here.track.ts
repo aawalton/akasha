@@ -19,6 +19,7 @@ export const coldplayWishIWasHereWishIWasHere = {
     },
   ],
   title: "Wish I Was Here",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

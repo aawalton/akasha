@@ -19,6 +19,7 @@ export const jamesTaylor2LiveAtTheTroubadourIFeelTheEarthMoveLiveAtTheTroubadour
     },
   ],
   title: "I Feel The Earth Move - Live At The Troubadour / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

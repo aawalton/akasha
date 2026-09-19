@@ -19,6 +19,7 @@ export const coldplayLiveFromSpotifyLondonChristmasLightsLiveFromSpotifyLondon =
     },
   ],
   title: "Christmas Lights - Live from Spotify London",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

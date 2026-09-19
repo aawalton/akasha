@@ -19,6 +19,7 @@ export const coldplaySomethingJustLikeThisSomethingJustLikeThis = {
     },
   ],
   title: "Something Just Like This",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

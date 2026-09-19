@@ -19,6 +19,7 @@ export const billieEilishHappierThanEverIDidntChangeMyNumber = {
     },
   ],
   title: "I Didn't Change My Number",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

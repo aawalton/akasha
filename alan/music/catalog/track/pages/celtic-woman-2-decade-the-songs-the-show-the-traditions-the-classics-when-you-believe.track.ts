@@ -21,6 +21,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouBel
     },
   ],
   title: "When You Believe",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

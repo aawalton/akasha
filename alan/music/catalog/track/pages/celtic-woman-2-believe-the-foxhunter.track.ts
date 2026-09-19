@@ -19,6 +19,7 @@ export const celticWoman2BelieveTheFoxhunter = {
     },
   ],
   title: "The Foxhunter",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

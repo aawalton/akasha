@@ -19,6 +19,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWolfOrGirl = {
     },
   ],
   title: "Wolf or Girl",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],

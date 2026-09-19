@@ -19,6 +19,7 @@ export const coldplayMidnightKygoRemixMidnightKygoRemix = {
     },
   ],
   title: "Midnight - Kygo Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

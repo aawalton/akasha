@@ -19,6 +19,7 @@ export const coldplayMoonMusicFullMoonEditionAllMyLoveLiveInDublin = {
     },
   ],
   title: "All My Love - Live in Dublin",
+  trackType: "live",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

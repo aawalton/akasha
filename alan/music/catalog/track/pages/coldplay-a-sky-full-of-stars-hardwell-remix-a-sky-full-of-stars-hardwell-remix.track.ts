@@ -19,6 +19,7 @@ export const coldplayASkyFullOfStarsHardwellRemixASkyFullOfStarsHardwellRemix = 
     },
   ],
   title: "A Sky Full of Stars - Hardwell Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const jamesTaylor2JamesTaylorLiveCopperline = {
     },
   ],
   title: "Copperline",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],

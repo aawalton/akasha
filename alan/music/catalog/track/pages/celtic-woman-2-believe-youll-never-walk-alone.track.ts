@@ -19,6 +19,7 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
     },
   ],
   title: "You'll Never Walk Alone",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

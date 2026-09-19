@@ -19,6 +19,7 @@ export const auroraMurderSong54321MurderSong54321 = {
     },
   ],
   title: "Murder Song (5, 4, 3, 2, 1)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],

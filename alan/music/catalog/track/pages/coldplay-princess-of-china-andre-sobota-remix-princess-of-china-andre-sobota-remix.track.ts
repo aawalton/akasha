@@ -19,6 +19,7 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
     },
   ],
   title: "Princess of China - Andre Sobota Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

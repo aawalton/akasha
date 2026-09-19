@@ -19,6 +19,7 @@ export const celticWoman2NollaigNaMbanNollaigNaMban = {
     },
   ],
   title: "Nollaig na mBan",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

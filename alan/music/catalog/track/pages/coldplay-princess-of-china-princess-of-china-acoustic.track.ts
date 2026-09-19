@@ -19,6 +19,7 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
     },
   ],
   title: "Princess of China - Acoustic",
+  trackType: "acoustic",
   discNumber: 1,
   explicit: false,
   trackArtist: [

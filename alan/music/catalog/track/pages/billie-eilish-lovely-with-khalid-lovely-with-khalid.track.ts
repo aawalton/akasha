@@ -19,6 +19,7 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
     },
   ],
   title: "lovely (with Khalid)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

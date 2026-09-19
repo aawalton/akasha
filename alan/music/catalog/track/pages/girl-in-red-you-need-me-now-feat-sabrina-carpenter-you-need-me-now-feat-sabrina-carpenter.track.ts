@@ -19,6 +19,7 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
     },
   ],
   title: "You Need Me Now? (feat. Sabrina Carpenter)",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

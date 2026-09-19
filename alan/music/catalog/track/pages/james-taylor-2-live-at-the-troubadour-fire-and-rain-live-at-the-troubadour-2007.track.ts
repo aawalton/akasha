@@ -19,6 +19,7 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
     },
   ],
   title: "Fire And Rain - Live At The Troubadour / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

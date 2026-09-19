@@ -19,6 +19,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesCautiousClayRemix = {
     },
   ],
   title: "Ocean Eyes - Cautious Clay Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

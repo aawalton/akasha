@@ -19,6 +19,7 @@ export const celticWoman2AChristmasCelebrationTheLittleDrummerBoy = {
     },
   ],
   title: "The Little Drummer Boy",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

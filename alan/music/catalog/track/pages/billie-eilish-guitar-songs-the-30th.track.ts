@@ -19,6 +19,7 @@ export const billieEilishGuitarSongsThe30th = {
     },
   ],
   title: "The 30th",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

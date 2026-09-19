@@ -19,6 +19,7 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
     },
   ],
   title: "Up&Up - Freedo Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

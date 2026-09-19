@@ -19,6 +19,7 @@ export const coldplayLeftrightleftrightleftLiveDeathAndAllHisFriendsLiveInMadrid
     },
   ],
   title: "Death and All His Friends - Live in Madrid, 2008",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

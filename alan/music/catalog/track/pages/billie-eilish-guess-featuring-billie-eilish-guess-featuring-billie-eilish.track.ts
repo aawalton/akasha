@@ -19,6 +19,7 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
     },
   ],
   title: "Guess featuring billie eilish",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

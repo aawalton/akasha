@@ -19,6 +19,7 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplayFeelslikeimfallinginlo
     },
   ],
   title: "feelslikeimfallinginlove - Zerb x Coldplay",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

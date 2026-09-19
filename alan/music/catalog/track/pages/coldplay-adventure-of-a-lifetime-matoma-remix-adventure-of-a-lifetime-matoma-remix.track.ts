@@ -19,6 +19,7 @@ export const coldplayAdventureOfALifetimeMatomaRemixAdventureOfALifetimeMatomaRe
     },
   ],
   title: "Adventure of a Lifetime - Matoma Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

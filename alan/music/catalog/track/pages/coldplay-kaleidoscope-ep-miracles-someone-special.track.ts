@@ -19,6 +19,7 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
     },
   ],
   title: "Miracles (Someone Special)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

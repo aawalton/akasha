@@ -20,6 +20,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRunningWithTheWolve
       },
     ],
     title: "Running with the Wolves - WolfWalkers Version",
+    trackType: "version",
     discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],

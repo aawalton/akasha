@@ -19,6 +19,7 @@ export const auroraSofiaSofiaRadioEdit = {
     },
   ],
   title: "Sofia - Radio Edit",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

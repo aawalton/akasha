@@ -19,6 +19,7 @@ export const auroraWorldOfWarcraftAPlaceToCallHomeAPlaceToCallHome = {
     },
   ],
   title: "A Place To Call Home",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

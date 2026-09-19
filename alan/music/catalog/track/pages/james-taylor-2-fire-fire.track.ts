@@ -19,6 +19,7 @@ export const jamesTaylor2FireFire = {
     },
   ],
   title: "Fire",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

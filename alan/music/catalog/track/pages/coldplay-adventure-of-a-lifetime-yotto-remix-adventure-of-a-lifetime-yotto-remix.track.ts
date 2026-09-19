@@ -19,6 +19,7 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
     },
   ],
   title: "Adventure of a Lifetime - Yotto Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

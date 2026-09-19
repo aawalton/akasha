@@ -19,6 +19,7 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
     },
   ],
   title: "The River - Askjell Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

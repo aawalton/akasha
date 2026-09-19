@@ -19,6 +19,7 @@ export const billieEilishDontSmileAtMeBurnWithVinceStaples = {
     },
   ],
   title: "&burn (with Vince Staples)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

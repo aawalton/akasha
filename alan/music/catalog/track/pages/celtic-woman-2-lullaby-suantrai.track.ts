@@ -19,6 +19,7 @@ export const celticWoman2LullabySuantrai = {
     },
   ],
   title: "Suantraí",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

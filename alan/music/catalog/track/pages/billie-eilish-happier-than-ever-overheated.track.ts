@@ -19,6 +19,7 @@ export const billieEilishHappierThanEverOverheated = {
     },
   ],
   title: "OverHeated",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

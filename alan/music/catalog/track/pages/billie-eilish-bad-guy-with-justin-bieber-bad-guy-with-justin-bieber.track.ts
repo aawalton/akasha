@@ -19,6 +19,7 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
     },
   ],
   title: "bad guy (with Justin Bieber)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

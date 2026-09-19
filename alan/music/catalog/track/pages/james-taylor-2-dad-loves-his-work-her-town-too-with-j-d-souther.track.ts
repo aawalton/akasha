@@ -19,6 +19,7 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
     },
   ],
   title: "Her Town Too (with J.D. Souther)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

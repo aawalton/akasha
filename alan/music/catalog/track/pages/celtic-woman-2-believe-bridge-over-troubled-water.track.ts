@@ -19,6 +19,7 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
     },
   ],
   title: "Bridge Over Troubled Water",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

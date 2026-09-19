@@ -21,6 +21,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWalkingThe
     },
   ],
   title: "Walking the Night/The World Falls Away",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

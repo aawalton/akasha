@@ -19,6 +19,7 @@ export const auroraRunawayLvl2RunawayLvl2 = {
     },
   ],
   title: "Runaway - Lvl.2",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],

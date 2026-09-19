@@ -21,6 +21,7 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
     },
   ],
   title: "ilomilo - Live From The Film - Billie Eilish: The World’s A Little Blurry",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

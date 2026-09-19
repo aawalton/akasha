@@ -19,6 +19,7 @@ export const coldplayFeelslikeimfallinginloveFeelslikeimfallinginloveSingleVersi
     },
   ],
   title: "feelslikeimfallinginlove - Single Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

@@ -19,6 +19,7 @@ export const coldplayAllMyLovePnauXColdplayAllMyLovePnauXColdplay = {
     },
   ],
   title: "ALL MY LOVE - PNAU x Coldplay",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

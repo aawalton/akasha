@@ -19,6 +19,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRobynsTune = {
     },
   ],
   title: "Robyn's Tune",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6YtMPqKR0zhZ5OPv3RrJNx", artistName: "Kíla" }],

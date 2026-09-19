@@ -19,6 +19,7 @@ export const coldplayLiveInBuenosAiresGodPutASmileUponYourFaceLiveInBuenosAires 
     },
   ],
   title: "God Put a Smile upon Your Face - Live in Buenos Aires",
+  trackType: "live",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

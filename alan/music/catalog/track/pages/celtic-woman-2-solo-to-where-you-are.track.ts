@@ -19,6 +19,7 @@ export const celticWoman2SoloToWhereYouAre = {
     },
   ],
   title: "To Where You Are",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "71POUphzXd95FKPipXjtE0", artistName: "Chloe" }],

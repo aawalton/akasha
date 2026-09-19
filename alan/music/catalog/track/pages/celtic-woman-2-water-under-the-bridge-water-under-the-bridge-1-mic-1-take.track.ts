@@ -19,6 +19,7 @@ export const celticWoman2WaterUnderTheBridgeWaterUnderTheBridge1Mic1Take = {
     },
   ],
   title: "Water Under the Bridge - 1 Mic 1 Take",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

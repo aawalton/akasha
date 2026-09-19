@@ -19,6 +19,7 @@ export const celticWoman2BelieveSongsFromTheHeartWalkingTheNightTheWorldFallsAwa
     },
   ],
   title: "Songs From The Heart: Walking The Night/The World Falls Away",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const coldplayLive2003ARushOfBloodToTheHeadLiveInSydney = {
     },
   ],
   title: "A Rush of Blood to the Head - Live in Sydney",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

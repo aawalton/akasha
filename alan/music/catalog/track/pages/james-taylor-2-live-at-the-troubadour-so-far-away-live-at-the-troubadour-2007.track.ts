@@ -19,6 +19,7 @@ export const jamesTaylor2LiveAtTheTroubadourSoFarAwayLiveAtTheTroubadour2007 = {
     },
   ],
   title: "So Far Away - Live At The Troubadour / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

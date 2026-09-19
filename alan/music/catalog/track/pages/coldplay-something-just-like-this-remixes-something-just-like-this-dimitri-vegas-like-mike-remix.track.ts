@@ -19,6 +19,7 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDimitriVeg
     },
   ],
   title: "Something Just Like This - Dimitri Vegas & Like Mike Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

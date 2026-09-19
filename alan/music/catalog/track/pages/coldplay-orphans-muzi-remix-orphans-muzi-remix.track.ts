@@ -19,6 +19,7 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
     },
   ],
   title: "Orphans - Muzi Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

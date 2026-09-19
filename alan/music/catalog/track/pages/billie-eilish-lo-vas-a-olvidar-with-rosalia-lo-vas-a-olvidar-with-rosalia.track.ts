@@ -19,6 +19,7 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
     },
   ],
   title: "Lo Vas A Olvidar (with ROSALÍA)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

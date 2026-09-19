@@ -19,6 +19,7 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
     },
   ],
   title: "Dreams (feat. Nicole Zignago)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

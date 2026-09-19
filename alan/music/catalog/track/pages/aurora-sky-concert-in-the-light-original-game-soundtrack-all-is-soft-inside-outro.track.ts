@@ -19,6 +19,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideOutr
     },
   ],
   title: "All Is Soft Inside Outro",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

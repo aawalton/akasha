@@ -19,6 +19,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesBlackbearRemix = {
     },
   ],
   title: "Ocean Eyes - Blackbear Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

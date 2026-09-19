@@ -19,6 +19,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriends42 = {
     },
   ],
   title: "42",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

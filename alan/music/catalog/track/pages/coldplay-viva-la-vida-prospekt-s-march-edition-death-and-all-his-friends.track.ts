@@ -19,6 +19,7 @@ export const coldplayVivaLaVidaProspektSMarchEditionDeathAndAllHisFriends = {
     },
   ],
   title: "Death and All His Friends",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

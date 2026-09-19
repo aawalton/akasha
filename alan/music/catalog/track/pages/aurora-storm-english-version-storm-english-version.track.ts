@@ -19,6 +19,7 @@ export const auroraStormEnglishVersionStormEnglishVersion = {
     },
   ],
   title: "Storm - English Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

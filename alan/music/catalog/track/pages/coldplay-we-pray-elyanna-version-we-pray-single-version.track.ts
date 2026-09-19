@@ -19,6 +19,7 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
     },
   ],
   title: "WE PRAY - Single Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
     },
   ],
   title: "To Be Alright - The Sanctuary Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const coldplaySpotifySinglesLetSomebodyGoSpotifySingles = {
     },
   ],
   title: "Let Somebody Go - Spotify Singles",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
     },
   ],
   title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

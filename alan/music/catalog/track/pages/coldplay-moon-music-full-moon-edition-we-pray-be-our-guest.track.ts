@@ -19,6 +19,7 @@ export const coldplayMoonMusicFullMoonEditionWePrayBeOurGuest = {
     },
   ],
   title: "We Pray - Be Our Guest",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [

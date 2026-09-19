@@ -19,6 +19,7 @@ export const auroraRingTheAlarmRingTheAlarm = {
     },
   ],
   title: "RING THE ALARM",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

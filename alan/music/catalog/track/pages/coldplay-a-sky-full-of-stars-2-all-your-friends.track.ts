@@ -19,6 +19,7 @@ export const coldplayASkyFullOfStars2AllYourFriends = {
     },
   ],
   title: "All Your Friends",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

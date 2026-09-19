@@ -19,6 +19,7 @@ export const coldplayALIENSMarkusDravsRemixALIENSMarkusDravsRemix = {
     },
   ],
   title: "A L I E N S - Markus Dravs Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
     },
   ],
   title: "A Spaceman Came Traveling",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

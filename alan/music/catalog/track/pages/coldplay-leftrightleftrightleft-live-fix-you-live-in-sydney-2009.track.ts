@@ -19,6 +19,7 @@ export const coldplayLeftrightleftrightleftLiveFixYouLiveInSydney2009 = {
     },
   ],
   title: "Fix You - Live in Sydney, 2009",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

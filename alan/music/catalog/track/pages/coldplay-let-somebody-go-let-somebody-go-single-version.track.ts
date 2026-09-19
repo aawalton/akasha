@@ -19,6 +19,7 @@ export const coldplayLetSomebodyGoLetSomebodyGoSingleVersion = {
     },
   ],
   title: "Let Somebody Go - Single Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

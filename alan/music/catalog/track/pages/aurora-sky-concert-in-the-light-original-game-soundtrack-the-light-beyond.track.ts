@@ -19,6 +19,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheLightBeyond = {
     },
   ],
   title: "The Light Beyond",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

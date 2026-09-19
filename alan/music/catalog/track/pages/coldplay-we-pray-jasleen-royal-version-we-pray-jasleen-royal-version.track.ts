@@ -19,6 +19,7 @@ export const coldplayWePrayJasleenRoyalVersionWePrayJasleenRoyalVersion = {
     },
   ],
   title: "WE PRAY - Jasleen Royal Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

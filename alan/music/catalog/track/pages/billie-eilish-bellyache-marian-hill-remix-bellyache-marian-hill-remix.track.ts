@@ -19,6 +19,7 @@ export const billieEilishBellyacheMarianHillRemixBellyacheMarianHillRemix = {
     },
   ],
   title: "Bellyache - Marian Hill Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

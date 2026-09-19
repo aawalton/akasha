@@ -19,6 +19,7 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
     },
   ],
   title: "Some Type of Skin - Sofia Kourtesis Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

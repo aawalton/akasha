@@ -19,6 +19,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderBluJRemix = {
     },
   ],
   title: "Six Feet Under - BLU J Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

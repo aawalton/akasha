@@ -19,6 +19,7 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHallTheSeedFeatAn
     },
   ],
   title: "The Seed (feat. Anna Lapwood) - Live from the Royal Albert Hall",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

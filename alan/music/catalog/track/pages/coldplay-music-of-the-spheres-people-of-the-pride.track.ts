@@ -19,6 +19,7 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
     },
   ],
   title: "People of The Pride",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

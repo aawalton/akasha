@@ -19,6 +19,7 @@ export const auroraQueendomRemixesQueendomBTraitsRemix = {
     },
   ],
   title: "Queendom - B.Traits Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
     },
   ],
   title: "Something In The Way She Moves - Live At The Troubadour / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

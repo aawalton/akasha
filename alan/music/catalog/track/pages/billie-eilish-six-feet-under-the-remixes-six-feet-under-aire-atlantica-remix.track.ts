@@ -19,6 +19,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderAireAtlanticaRemix = 
     },
   ],
   title: "Six Feet Under - Aire Atlantica Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

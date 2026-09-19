@@ -19,6 +19,7 @@ export const coldplayMyUniverseMyUniverseAcousticVersion = {
     },
   ],
   title: "My Universe - Acoustic Version",
+  trackType: "acoustic",
   discNumber: 1,
   explicit: false,
   trackArtist: [

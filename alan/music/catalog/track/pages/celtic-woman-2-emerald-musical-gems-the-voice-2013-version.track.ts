@@ -19,6 +19,7 @@ export const celticWoman2EmeraldMusicalGemsTheVoice2013Version = {
     },
   ],
   title: "The Voice - 2013 Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

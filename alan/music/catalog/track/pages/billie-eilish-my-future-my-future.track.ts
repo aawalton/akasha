@@ -19,6 +19,7 @@ export const billieEilishMyFutureMyFuture = {
     },
   ],
   title: "my future",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

@@ -19,6 +19,7 @@ export const coldplayMoonMusicFullMoonEditionManInTheMoon = {
     },
   ],
   title: "Man in The Moon",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

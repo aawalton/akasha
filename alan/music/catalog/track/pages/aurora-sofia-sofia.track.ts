@@ -19,6 +19,7 @@ export const auroraSofiaSofia = {
     },
   ],
   title: "Sofia",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

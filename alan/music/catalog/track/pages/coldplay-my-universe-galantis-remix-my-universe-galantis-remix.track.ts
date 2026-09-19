@@ -19,6 +19,7 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
     },
   ],
   title: "My Universe - Galantis Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

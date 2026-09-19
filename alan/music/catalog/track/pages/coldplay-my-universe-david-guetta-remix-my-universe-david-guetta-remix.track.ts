@@ -19,6 +19,7 @@ export const coldplayMyUniverseDavidGuettaRemixMyUniverseDavidGuettaRemix = {
     },
   ],
   title: "My Universe - David Guetta Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

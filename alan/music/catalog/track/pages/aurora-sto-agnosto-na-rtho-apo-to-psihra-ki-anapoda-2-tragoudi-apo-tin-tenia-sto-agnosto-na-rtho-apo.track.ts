@@ -22,6 +22,7 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
   ],
   title:
     'Sto agnosto na \'rtho - Apo to "Psihra Ki Anapoda - Ta Tragoudia 2"/Tragoudi apo tin Tenia',
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
     },
   ],
   title: "Clocks - Royksopp Trembling Heart Mix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const celticWoman2SoloYoullBeInMyHeart = {
     },
   ],
   title: "You'll Be in My Heart",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0BPyH0yYOcGiI6MzXi8lRZ", artistName: "Alex" }],

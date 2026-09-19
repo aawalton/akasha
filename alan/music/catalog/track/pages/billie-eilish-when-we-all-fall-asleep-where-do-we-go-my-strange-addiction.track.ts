@@ -19,6 +19,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoMyStrangeAddiction = {
     },
   ],
   title: "my strange addiction",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

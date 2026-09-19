@@ -19,6 +19,7 @@ export const celticWoman2BelieveNocturne = {
     },
   ],
   title: "Nocturne",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

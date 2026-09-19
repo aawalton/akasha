@@ -19,6 +19,7 @@ export const celticWoman2BelieveSailing = {
     },
   ],
   title: "Sailing",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

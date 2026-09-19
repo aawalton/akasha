@@ -19,6 +19,7 @@ export const coldplayTrueLoveDavideRossiRemixTrueLoveDavideRossiRemix = {
     },
   ],
   title: "True Love - Davide Rossi Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

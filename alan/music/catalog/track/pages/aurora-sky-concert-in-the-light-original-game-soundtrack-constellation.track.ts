@@ -19,6 +19,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConstellation = {
     },
   ],
   title: "Constellation",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

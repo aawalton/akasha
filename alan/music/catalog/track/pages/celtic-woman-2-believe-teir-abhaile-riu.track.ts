@@ -19,6 +19,7 @@ export const celticWoman2BelieveTeirAbhaileRiu = {
     },
   ],
   title: "Teir Abhaile Riu",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

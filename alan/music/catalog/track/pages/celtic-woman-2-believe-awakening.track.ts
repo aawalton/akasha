@@ -19,6 +19,7 @@ export const celticWoman2BelieveAwakening = {
     },
   ],
   title: "Awakening",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const billieEilishHappierThanEverEditHappierThanEverEdit = {
     },
   ],
   title: "Happier Than Ever - Edit",
+  trackType: "version",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],

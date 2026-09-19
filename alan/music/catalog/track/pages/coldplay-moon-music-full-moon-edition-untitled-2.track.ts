@@ -19,6 +19,7 @@ export const coldplayMoonMusicFullMoonEditionUntitled2 = {
     },
   ],
   title: "👋",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [

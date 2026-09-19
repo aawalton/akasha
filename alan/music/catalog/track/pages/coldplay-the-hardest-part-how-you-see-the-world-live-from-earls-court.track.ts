@@ -19,6 +19,7 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
     },
   ],
   title: "How You See the World - Live from Earls Court",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

@@ -19,6 +19,7 @@ export const jamesTaylor2LiveAtTheTroubadourSweetBabyJamesLiveAtTheTroubadour200
     },
   ],
   title: "Sweet Baby James - Live At The Troubadour / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

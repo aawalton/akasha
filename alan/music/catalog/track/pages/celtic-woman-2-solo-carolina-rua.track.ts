@@ -19,6 +19,7 @@ export const celticWoman2SoloCarolinaRua = {
     },
   ],
   title: "Carolina Rua",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "77xijq3ky5eW45DosksSNb", artistName: "Lynn Hillary" }],

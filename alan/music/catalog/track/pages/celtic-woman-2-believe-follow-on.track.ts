@@ -19,6 +19,7 @@ export const celticWoman2BelieveFollowOn = {
     },
   ],
   title: "Follow On",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

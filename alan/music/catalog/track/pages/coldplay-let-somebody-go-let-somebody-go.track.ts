@@ -19,6 +19,7 @@ export const coldplayLetSomebodyGoLetSomebodyGo = {
     },
   ],
   title: "Let Somebody Go",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

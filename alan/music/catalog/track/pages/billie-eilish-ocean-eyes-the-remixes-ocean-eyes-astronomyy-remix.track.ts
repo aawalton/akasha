@@ -19,6 +19,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesAstronomyyRemix = {
     },
   ],
   title: "Ocean Eyes - Astronomyy Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

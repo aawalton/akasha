@@ -19,6 +19,7 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
     },
   ],
   title: "Strawberry Swing - Live in Madrid, 2008",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

@@ -19,6 +19,7 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
     },
   ],
   title: "Hymn for the Weekend - Seeb Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

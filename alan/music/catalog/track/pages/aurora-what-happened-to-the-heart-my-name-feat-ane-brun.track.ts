@@ -19,6 +19,7 @@ export const auroraWhatHappenedToTheHeartMyNameFeatAneBrun = {
     },
   ],
   title: "My Name (feat. Ane Brun)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

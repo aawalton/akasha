@@ -19,6 +19,7 @@ export const celticWoman2BelieveAveMaria = {
     },
   ],
   title: "Ave Maria",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

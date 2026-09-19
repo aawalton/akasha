@@ -21,6 +21,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAveMaria20
     },
   ],
   title: "Ave Maria - 2011 Version",
+  trackType: "version",
   discNumber: 4,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

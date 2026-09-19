@@ -19,6 +19,7 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
     },
   ],
   title: "Every Teardrop Is a Waterfall - Live in Buenos Aires",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

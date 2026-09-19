@@ -19,6 +19,7 @@ export const celticWoman22020thAnniversaryIKnowMyLove20thAnniversary = {
     },
   ],
   title: "I Know My Love - 20th Anniversary",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

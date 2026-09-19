@@ -19,6 +19,7 @@ export const coldplayLetSomebodyGoOfenbachRemixLetSomebodyGoOfenbachRemix = {
     },
   ],
   title: "Let Somebody Go - Ofenbach Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

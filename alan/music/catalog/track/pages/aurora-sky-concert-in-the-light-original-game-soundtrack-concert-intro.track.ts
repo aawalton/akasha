@@ -19,6 +19,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConcertIntro = {
     },
   ],
   title: "Concert Intro",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

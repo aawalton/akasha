@@ -21,6 +21,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSiuilARun 
     },
   ],
   title: "Siúil a Rún",
+  trackType: "studio",
   discNumber: 3,
   explicit: false,
   trackArtist: [

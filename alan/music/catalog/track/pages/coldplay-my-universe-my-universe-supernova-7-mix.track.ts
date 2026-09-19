@@ -19,6 +19,7 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
     },
   ],
   title: "My Universe - Supernova 7 Mix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

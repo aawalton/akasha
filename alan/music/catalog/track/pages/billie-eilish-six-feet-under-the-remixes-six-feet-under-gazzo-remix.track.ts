@@ -19,6 +19,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderGazzoRemix = {
     },
   ],
   title: "Six Feet Under - Gazzo Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

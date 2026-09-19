@@ -19,6 +19,7 @@ export const celticWoman2LullabyHushLittleBaby = {
     },
   ],
   title: "Hush Little Baby",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

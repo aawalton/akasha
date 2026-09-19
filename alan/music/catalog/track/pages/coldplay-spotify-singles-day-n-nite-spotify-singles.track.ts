@@ -19,6 +19,7 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
     },
   ],
   title: "Day ‘n’ Nite - Spotify Singles",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

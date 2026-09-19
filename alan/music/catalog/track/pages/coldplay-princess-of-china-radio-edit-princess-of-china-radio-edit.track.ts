@@ -19,6 +19,7 @@ export const coldplayPrincessOfChinaRadioEditPrincessOfChinaRadioEdit = {
     },
   ],
   title: "Princess of China - Radio Edit",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

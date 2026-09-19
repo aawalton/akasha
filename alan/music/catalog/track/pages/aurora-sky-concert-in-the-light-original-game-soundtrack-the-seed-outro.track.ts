@@ -19,6 +19,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedOutro = {
     },
   ],
   title: "The Seed Outro",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

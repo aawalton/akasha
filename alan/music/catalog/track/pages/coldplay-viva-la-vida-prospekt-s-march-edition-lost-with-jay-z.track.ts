@@ -19,6 +19,7 @@ export const coldplayVivaLaVidaProspektSMarchEditionLostWithJayZ = {
     },
   ],
   title: "Lost+ (with Jay-Z)",
+  trackType: "studio",
   discNumber: 2,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

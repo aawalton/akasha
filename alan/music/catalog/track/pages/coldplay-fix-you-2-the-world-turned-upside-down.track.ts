@@ -19,6 +19,7 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
     },
   ],
   title: "The World Turned Upside Down",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

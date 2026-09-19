@@ -19,6 +19,7 @@ export const coldplayMidnightRemixesMidnightPhones4amRemix = {
     },
   ],
   title: "Midnight - Phones 4AM Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

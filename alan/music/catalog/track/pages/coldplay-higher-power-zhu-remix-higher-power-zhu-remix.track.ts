@@ -19,6 +19,7 @@ export const coldplayHigherPowerZhuRemixHigherPowerZhuRemix = {
     },
   ],
   title: "Higher Power - ZHU Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

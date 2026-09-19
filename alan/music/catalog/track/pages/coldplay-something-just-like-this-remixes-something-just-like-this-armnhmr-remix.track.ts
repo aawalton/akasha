@@ -19,6 +19,7 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisArmnhmrRem
     },
   ],
   title: "Something Just Like This - ARMNHMR Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const jamesTaylor2LiveAtTheTroubadourCountryRoadLiveAtTheTroubadour2007 =
     },
   ],
   title: "Country Road - Live At The Troubadour / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

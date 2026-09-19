@@ -19,6 +19,7 @@ export const coldplayVivaLaVidaProspektSMarchEditionLoversInJapanOsakaSunMix = {
     },
   ],
   title: "Lovers in Japan - Osaka Sun Mix",
+  trackType: "remix",
   discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

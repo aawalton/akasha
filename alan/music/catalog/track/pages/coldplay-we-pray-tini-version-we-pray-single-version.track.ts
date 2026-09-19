@@ -19,6 +19,7 @@ export const coldplayWePrayTiniVersionWePraySingleVersion = {
     },
   ],
   title: "WE PRAY - Single Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [

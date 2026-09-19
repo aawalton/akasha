@@ -19,6 +19,7 @@ export const coldplayLive2012CharlieBrownLive = {
     },
   ],
   title: "Charlie Brown - Live",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

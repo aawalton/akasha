@@ -19,6 +19,7 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGoKygoRemix = {
     },
   ],
   title: "Let Somebody Go - Kygo Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisJaiWolfRem
     },
   ],
   title: "Something Just Like This - Jai Wolf Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

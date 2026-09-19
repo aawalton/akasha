@@ -19,6 +19,7 @@ export const chaislynHimHim = {
     },
   ],
   title: "Him",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],

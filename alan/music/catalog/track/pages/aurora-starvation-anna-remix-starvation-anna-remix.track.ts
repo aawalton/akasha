@@ -19,6 +19,7 @@ export const auroraStarvationAnnaRemixStarvationAnnaRemix = {
     },
   ],
   title: "Starvation (ANNA Remix)",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
     },
   ],
   title: "Champion Of The World - Live at NPR's Tiny Desk",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],

@@ -19,6 +19,7 @@ export const celticWoman2NollaigAChristmasJourneyCodailALinbh = {
     },
   ],
   title: "Codail a Linbh",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const jamesTaylor2FireFoxyLady = {
     },
   ],
   title: "Foxy Lady",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

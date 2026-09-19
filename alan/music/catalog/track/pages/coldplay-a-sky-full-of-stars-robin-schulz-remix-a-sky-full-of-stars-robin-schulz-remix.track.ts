@@ -19,6 +19,7 @@ export const coldplayASkyFullOfStarsRobinSchulzRemixASkyFullOfStarsRobinSchulzRe
     },
   ],
   title: "A Sky Full of Stars - Robin Schulz Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

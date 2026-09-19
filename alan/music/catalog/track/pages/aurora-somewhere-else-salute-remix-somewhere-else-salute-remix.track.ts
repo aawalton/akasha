@@ -19,6 +19,7 @@ export const auroraSomewhereElseSaluteRemixSomewhereElseSaluteRemix = {
     },
   ],
   title: "SOMEWHERE ELSE - salute Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

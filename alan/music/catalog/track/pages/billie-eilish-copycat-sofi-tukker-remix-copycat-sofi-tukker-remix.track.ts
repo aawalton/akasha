@@ -19,6 +19,7 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
     },
   ],
   title: "COPYCAT - Sofi Tukker Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

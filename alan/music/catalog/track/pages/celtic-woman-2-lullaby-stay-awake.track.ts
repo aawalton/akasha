@@ -19,6 +19,7 @@ export const celticWoman2LullabyStayAwake = {
     },
   ],
   title: "Stay Awake",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

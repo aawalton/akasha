@@ -19,6 +19,7 @@ export const coldplayMoonMusicFullMoonEditionWePray = {
     },
   ],
   title: "WE PRAY",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const coldplayMyloXylotoPrincessOfChina = {
     },
   ],
   title: "Princess of China",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

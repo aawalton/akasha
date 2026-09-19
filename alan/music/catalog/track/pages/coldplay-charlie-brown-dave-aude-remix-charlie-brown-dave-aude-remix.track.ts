@@ -19,6 +19,7 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
     },
   ],
   title: "Charlie Brown - Dave Audé Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

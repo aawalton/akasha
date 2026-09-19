@@ -19,6 +19,7 @@ export const coldplayMyUniverse2MyUniverseInstrumental = {
     },
   ],
   title: "My Universe - Instrumental",
+  trackType: "instrumental",
   discNumber: 1,
   explicit: false,
   trackArtist: [

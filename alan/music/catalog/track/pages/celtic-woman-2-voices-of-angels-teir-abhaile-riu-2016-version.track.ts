@@ -19,6 +19,7 @@ export const celticWoman2VoicesOfAngelsTeirAbhaileRiu2016Version = {
     },
   ],
   title: "Téir Abhaile Riú - 2016 Version",
+  trackType: "version",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

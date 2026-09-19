@@ -21,6 +21,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCoastOf
     },
   ],
   title: "The Coast of Galiçia",
+  trackType: "studio",
   discNumber: 3,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],

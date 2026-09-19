@@ -19,6 +19,7 @@ export const coldplayMoonMusicFullMoonEditionGoodFeelings = {
     },
   ],
   title: "GOOD FEELiNGS",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

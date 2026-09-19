@@ -19,6 +19,7 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
     },
   ],
   title: "Higher Power - Alyx Ander Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

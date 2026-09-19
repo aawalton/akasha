@@ -19,6 +19,7 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
     },
   ],
   title: "It's Only A Paper Moon",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],

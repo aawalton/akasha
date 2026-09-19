@@ -19,6 +19,7 @@ export const celticWoman2LullabyBabyMine = {
     },
   ],
   title: "Baby Mine",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

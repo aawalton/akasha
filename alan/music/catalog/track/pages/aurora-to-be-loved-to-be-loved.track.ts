@@ -19,6 +19,7 @@ export const auroraToBeLovedToBeLoved = {
     },
   ],
   title: "To Be Loved",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

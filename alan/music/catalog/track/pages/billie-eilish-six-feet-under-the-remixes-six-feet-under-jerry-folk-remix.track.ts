@@ -19,6 +19,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderJerryFolkRemix = {
     },
   ],
   title: "Six Feet Under - Jerry Folk Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

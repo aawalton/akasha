@@ -19,6 +19,7 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
     },
   ],
   title: "Southern Star (feat. AURORA)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [
