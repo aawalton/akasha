@@ -200,7 +200,12 @@ test("a process given a ceiling is ended at twice that many processor seconds", 
 })
 
 test("a run over its stated ceiling and under twice it runs to its own end", () => {
-  const spinning = "const at = Date.now(); while (Date.now() - at < 500) {}"
+  const spinning =
+    "const at = process.cpuUsage()\n" +
+    "for (;;) {\n" +
+    "  const spent = process.cpuUsage(at)\n" +
+    "  if ((spent.user + spent.system) / 1e6 >= 0.5) break\n" +
+    "}"
   const done = ran(["bun", "-e", spinning], { cpuCeiling: 0.4 })
   expect(done.signal).toBeNull()
   expect(done.code).toBe(0)
