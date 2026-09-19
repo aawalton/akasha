@@ -30,6 +30,10 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/applying/applying.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}

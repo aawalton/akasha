@@ -27,11 +27,15 @@ import {
   refreshedApart,
   refreshedIn,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { page } from "akasha/page/page.page-type.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const TREE = "."
+
+const ABOVE = `${pageType.slug}/${page.slug}` as const
 
 const CODE_AT = "command/pages/thrumming/refresh/thrum-refresh.command.code.ts"
 
@@ -81,13 +85,13 @@ function typed(
 
 const PAGES: Readonly<Record<string, string>> = {
   "page.page-type.ts": typed("11", "page", [], ["id", "slug"]),
-  "page-type.page-type.ts": typed("12", "page-type", ["page-type/page"]),
-  "page-property.page-type.ts": typed("13", "page-property", ["page-type/page"]),
+  "page-type.page-type.ts": typed("12", "page-type", [ABOVE]),
+  "page-property.page-type.ts": typed("13", "page-property", [ABOVE]),
   "domain.page-type.ts": bodyOf({
     id: TYPE_ID,
     pageTypeSlug: "page-type",
     slug: "domain",
-    extends: ["page-type/page"],
+    extends: [ABOVE],
   }),
   "text-property.page-type.ts": bodyOf(textProperty),
   "id.text-property.ts": bodyOf(idPage),

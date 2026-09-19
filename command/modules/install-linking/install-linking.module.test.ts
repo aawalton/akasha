@@ -14,6 +14,7 @@ import {
   machineNow,
   weighedIn,
 } from "akasha/command/modules/install-linking/install-linking.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -27,6 +28,8 @@ import {
   scratch as worldScratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -52,17 +55,21 @@ const LAUNCHER = "akasha-launcher"
 
 const AT = "~/bin/one"
 
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
+
 const idOf = (one: string): string => `01a09221-0000-7000-8000-00000000000${one}`
 
 const VOCABULARY: readonly Named[] = [
-  aType(idOf("1"), SCRIPT, ["page-type/domain"], [SHELL, "install-path", "only-on"]),
-  aType(idOf("2"), PLACED, ["page-type/domain"], [CONTENT, "install-path", "only-on", "placed-by"]),
+  aType(idOf("1"), SCRIPT, [DOMAIN_AT], [SHELL, "install-path", "only-on"]),
+  aType(idOf("2"), PLACED, [DOMAIN_AT], [CONTENT, "install-path", "only-on", "placed-by"]),
   aProperty(idOf("3"), SHELL, "file-property"),
   aProperty(idOf("4"), CONTENT, "file-property"),
   aProperty(idOf("5"), "install-path", "text-property"),
   aProperty(idOf("6"), "only-on", "text-property"),
   aProperty(idOf("7"), "placed-by", "text-property"),
-  aType(idOf("8"), "text-property", ["page-type/page-property"]),
+  aType(idOf("8"), "text-property", [PAGE_PROPERTY_AT]),
 ]
 
 function besideOf(kind: string, property: string, slug: string): string {

@@ -24,6 +24,7 @@ import {
 } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   graphedRepo,
   idOf,
@@ -31,6 +32,9 @@ import {
   NAMER_PAGE,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
 export const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 
@@ -63,7 +67,7 @@ const DRAFT_COMMAND: Readonly<Record<string, string>> = {
     pageTypeSlug: "page-type",
     slug: "command",
     definition: "a call an indexed repository carries",
-    extends: ["page-type/domain"],
+    extends: [DOMAIN_AT],
     properties: [],
   }),
   [DRAFT_AT]: pageOf({
@@ -120,7 +124,7 @@ const KINDS: Readonly<Record<string, string>> = {
     pageTypeSlug: "page-type",
     slug: "change-kind",
     definition: "which sort one change is",
-    extends: ["page-type/domain"],
+    extends: [DOMAIN_AT],
     properties: [],
   }),
   [CHANGE_KIND_AT]: pageOf({

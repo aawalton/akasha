@@ -32,11 +32,15 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 export const scratch = scratchWorld()
 
@@ -302,7 +306,7 @@ export async function landedMoving(root: string, read: string): Promise<Landed |
   return await landing(root, rows, "m", ADMITS, null, read)
 }
 
-export const TYPE = typed("02", "domain", ["page-type/page"])
+export const TYPE = typed("02", "domain", [PAGE_AT])
 
 export const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
 
@@ -318,8 +322,8 @@ export const filedFor = (id: string): readonly string[] => [
 
 const VOCABULARY: readonly (readonly [string, string])[] = [
   ["akasha/page.page-type.ts", typed("11", "page", [], ["id", "slug"])],
-  ["akasha/page-type.page-type.ts", typed("12", "page-type", ["page-type/page"])],
-  ["akasha/page-property.page-type.ts", typed("13", "page-property", ["page-type/page"])],
+  ["akasha/page-type.page-type.ts", typed("12", "page-type", [PAGE_AT])],
+  ["akasha/page-property.page-type.ts", typed("13", "page-property", [PAGE_AT])],
   ["akasha/domain.page-type.ts", TYPE],
 ]
 
@@ -332,8 +336,8 @@ const identityAmong = (found: readonly string[]): readonly string[] =>
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]
 
-const REAL_AT: readonly { readonly path: string; readonly value: Value }[] = REAL.map((page) => {
-  const [at, value] = thePage(page)
+const REAL_AT: readonly { readonly path: string; readonly value: Value }[] = REAL.map((one) => {
+  const [at, value] = thePage(one)
   return { path: join("akasha", at), value }
 })
 

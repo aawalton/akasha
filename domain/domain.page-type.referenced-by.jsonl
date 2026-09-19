@@ -94,6 +94,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
