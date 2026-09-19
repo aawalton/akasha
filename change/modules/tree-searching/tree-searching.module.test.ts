@@ -39,6 +39,8 @@ const WROTE_AT = "akasha/held/three/held-three.held-kind.code.ts"
 
 const PENDING_AT = "akasha/held/pending/held-pending.held-kind.seat.uncommitted.ts"
 
+const PENDING_UNDER = "akasha/held/pending.uncommitted.folder/held-under.held-kind.code.ts"
+
 const IGNORED_AT = "built/held-built.held-kind.code.ts"
 
 const EMITTED_AT = "akasha/held/three/held-three.held-kind.emitted.ts"
@@ -257,6 +259,18 @@ test("a listing leaves out a file the repository ignores and keeps a body no com
   })
 
   expect(pathsListed(world.root)).toEqual([GITIGNORE_AT, CODE_AT, PENDING_AT])
+})
+
+test("a listing names a body under a folder spelled uncommitted the repository ignores", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [IGNORED_AT]: CODE_BODY,
+    [PENDING_UNDER]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsListed(world.root)).toEqual([GITIGNORE_AT, CODE_AT, PENDING_UNDER])
 })
 
 test("a listing names a file no commit holds that the repository does not ignore", () => {

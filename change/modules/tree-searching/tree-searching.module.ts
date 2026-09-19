@@ -52,6 +52,15 @@ export const treeSearching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A listing asks the program for the paths spelled uncommitted rather than for the whole tree twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder spelled uncommitted is asked for there as well as a file spelled so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path the answer so far writes is answered beside the paths the search names.",
     },
     {

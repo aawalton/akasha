@@ -19,6 +19,15 @@ const GLOBBED = "--glob"
 
 const UNIGNORED = "--no-ignore"
 
+const SPELLED = "uncommitted"
+
+const NAMED_UNCOMMITTED: readonly string[] = [
+  GLOBBED,
+  `**/*.${SPELLED}.*`,
+  GLOBBED,
+  `**/*.${SPELLED}.*/**`,
+]
+
 const TAKEN: readonly string[] = ["--null", "--no-config", "--hidden"]
 
 const SEARCHED: readonly string[] = [
@@ -70,9 +79,12 @@ function ranWith(
   return foundIn(done.out, done.code, done.err, root)
 }
 
-function bothWays(run: (said: readonly string[]) => readonly string[]): readonly string[] {
+function bothWays(
+  run: (said: readonly string[]) => readonly string[],
+  narrowed: readonly string[] = []
+): readonly string[] {
   const found = new Set(run([]))
-  for (const path of run([UNIGNORED])) {
+  for (const path of run([UNIGNORED, ...narrowed])) {
     if (uncommittedSpelled(path)) found.add(path)
   }
   return [...found]
@@ -92,7 +104,10 @@ export function pathsSearched(
 
 export function pathsListed(root: string, threads: number | null = null): readonly string[] {
   const held = [...LISTED, ...threading(threads)]
-  return bothWays((said) => ranWith(root, [...held, ...said], EVERY_KIND, null)).toSorted()
+  return bothWays(
+    (said) => ranWith(root, [...held, ...said], EVERY_KIND, null),
+    NAMED_UNCOMMITTED
+  ).toSorted()
 }
 
 const TYPED = "--type-add"
