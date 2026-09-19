@@ -49,5 +49,10 @@ export const devServerEnvWriting = {
       decisionKind: "decision-kind/departure",
       statement: "The write is named here, so every caller names it the same way.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value the resource names only under its public spelling is copied to the browser name too.",
+    },
   ],
 } as const satisfies Module
