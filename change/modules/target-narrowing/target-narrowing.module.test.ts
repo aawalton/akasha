@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   narrows,
   slugIn,

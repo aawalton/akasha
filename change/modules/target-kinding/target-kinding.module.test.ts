@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 
 const NAMED = new Set(["page-type", "module", "text-property"])
