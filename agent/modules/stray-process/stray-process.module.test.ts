@@ -17,15 +17,15 @@ const ACTING = `${SEAT}--a05867e64f733ddec`
 
 const ANOTHER = `${SEAT}--a32671c5cf0526c7f`
 
-const REFUSING: SeatPaging = () => {
+const refusing: SeatPaging = () => {
   throw new Error("the index would not answer which pages are seats")
 }
 
 const FILED = "where the index files a page"
 
-const SEATED: SeatPaging = () => FILED
+const seated: SeatPaging = () => FILED
 
-const NO_SEAT: SeatPaging = () => null
+const noSeat: SeatPaging = () => null
 
 function transcribing(liveness: Liveness): ReadingFor {
   return async () => ({ liveness, why: "what this test hands back" })
@@ -132,11 +132,11 @@ test("a seat the index carries no page for is gone", async () => {
 })
 
 test("an index that would not answer leaves the subagent unread rather than gone", async () => {
-  expect(await answerAsked(ACTING, REFUSING)).toBe("unread")
+  expect(await answerAsked(ACTING, refusing)).toBe("unread")
 })
 
 test("an index that would not answer yields no stray", async () => {
-  const read = await strayAmong([procAt(11, ACTING)], (one) => answerAsked(one, REFUSING))
+  const read = await strayAmong([procAt(11, ACTING)], (one) => answerAsked(one, refusing))
 
   expect(read.strays).toEqual([])
   expect(read.unread).toEqual([ACTING])
@@ -144,7 +144,7 @@ test("an index that would not answer yields no stray", async () => {
 
 test("a subagent the transcript records a return for has departed", async () => {
   const asking = (one: string): Promise<Answer> =>
-    answerAsked(one, SEATED, transcribing("returned"))
+    answerAsked(one, seated, transcribing("returned"))
 
   expect(await asking(ACTING)).toBe("returned")
 
@@ -155,7 +155,7 @@ test("a subagent the transcript records a return for has departed", async () => 
 })
 
 test("a subagent whose transcript names it as running is no stray", async () => {
-  const asking = (one: string): Promise<Answer> => answerAsked(one, SEATED, transcribing("working"))
+  const asking = (one: string): Promise<Answer> => answerAsked(one, seated, transcribing("working"))
 
   expect(await asking(ACTING)).toBe("working")
 
@@ -166,7 +166,7 @@ test("a subagent whose transcript names it as running is no stray", async () => 
 })
 
 test("a transcript that could not be read leaves the subagent unread", async () => {
-  const asking = (one: string): Promise<Answer> => answerAsked(one, SEATED, transcribing("unread"))
+  const asking = (one: string): Promise<Answer> => answerAsked(one, seated, transcribing("unread"))
 
   expect(await asking(ACTING)).toBe("unread")
 
@@ -177,11 +177,11 @@ test("a transcript that could not be read leaves the subagent unread", async () 
 })
 
 test("a seat no page carries is gone whatever its transcript says", async () => {
-  expect(await answerAsked(ACTING, NO_SEAT, transcribing("working"))).toBe("gone")
-  expect(await answerAsked(ACTING, NO_SEAT, transcribing("unread"))).toBe("gone")
+  expect(await answerAsked(ACTING, noSeat, transcribing("working"))).toBe("gone")
+  expect(await answerAsked(ACTING, noSeat, transcribing("unread"))).toBe("gone")
 
   const read = await strayAmong([procAt(11, ACTING), procAt(12, ACTING)], (one) =>
-    answerAsked(one, NO_SEAT, transcribing("working"))
+    answerAsked(one, noSeat, transcribing("working"))
   )
 
   expect(read.strays.map((one) => one.pid)).toEqual([11, 12])
