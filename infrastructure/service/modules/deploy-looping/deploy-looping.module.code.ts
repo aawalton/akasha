@@ -1,6 +1,8 @@
 import { join } from "node:path"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { cli } from "akasha/command/modules/cli/cli.module.ts"
 import {
   keepingFor,
   recordedEnding,
@@ -52,7 +54,7 @@ export const SCOPE_LEAD = "akasha-deploy-"
 
 export const SCOPE_END = ".scope"
 
-const CLI = "module/cli"
+const CLI = `${module.slug}/${cli.slug}` as const
 
 const DEPLOY = "deploy"
 

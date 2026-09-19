@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { shellScript } from "akasha/code/shell-script/shell-script.page-type.ts"
+import { mlxAudioProvision } from "akasha/infrastructure/inference/pool/mlx-audio-provision/mlx-audio-provision.shell-script.ts"
 import {
   everyInference,
   folderOf,
@@ -32,7 +34,7 @@ test("the one command line a service runs is read, and anything else is none", (
 })
 
 test("the folder handed to the host is the folder the named script sits in", () => {
-  expect(folderOf(ROOT, "shell-script/mlx-audio-provision")).toBe(
+  expect(folderOf(ROOT, `${shellScript.slug}/${mlxAudioProvision.slug}`)).toBe(
     "infrastructure/inference/pool/mlx-audio-provision"
   )
   expect(folderOf(ROOT, "no-script-is-filed-under-this")).toBe(null)

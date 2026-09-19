@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { decisionKind } from "akasha/domain/properties/decision-kind.relation-property.ts"
+import { decisions } from "akasha/domain/properties/decisions.record-property.ts"
+import { name } from "akasha/domain/properties/name.text-property.ts"
 import {
   proseFrom,
   type Reach,
@@ -7,6 +10,9 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { recordProperty } from "akasha/page/record-property/record-property.page-type.ts"
+import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import {
   carriedFrom,
   sourceOver,
@@ -15,6 +21,12 @@ import {
 const PROSE = "standard-agent-english-property"
 
 const RECORD = "record-property"
+
+const KIND_AT = `${relationProperty.slug}/${decisionKind.slug}` as const
+
+const NAME_AT = `${textProperty.slug}/${name.slug}` as const
+
+const DECISIONS_AT = `${recordProperty.slug}/${decisions.slug}` as const
 
 function reachOver(values: readonly Value[]): Reach {
   const source = sourceOver(values)
@@ -53,7 +65,7 @@ const DECISIONS = {
   slug: "decisions",
   propertySlug: "decisions",
   properties: [
-    { pagePropertySlug: "relation-property/decision-kind", required: true, many: false },
+    { pagePropertySlug: KIND_AT, required: true, many: false },
     { pagePropertySlug: `${PROSE}/decision-statement`, required: true, many: false },
   ],
 }
@@ -83,22 +95,20 @@ test("a prose property is reached under the key its page states", () => {
 })
 
 test("a property that is no prose is not reached", () => {
-  const one = typed("one", [
-    { pagePropertySlug: "text-property/name", required: false, many: false },
-  ])
+  const one = typed("one", [{ pagePropertySlug: NAME_AT, required: false, many: false }])
   expect(proseOn([one], "one")).toEqual([])
 })
 
 test("a prose field of a record is reached under the record's key", () => {
   const one = typed("one", [
-    { pagePropertySlug: "record-property/decisions", required: false, many: true, maxCount: null },
+    { pagePropertySlug: DECISIONS_AT, required: false, many: true, maxCount: null },
   ])
   expect(proseOn([one], "one")).toEqual([{ key: "decisions", under: ["statement"] }])
 })
 
 test("a field of a record that is no prose is not reached", () => {
   const one = typed("one", [
-    { pagePropertySlug: "record-property/decisions", required: false, many: true, maxCount: null },
+    { pagePropertySlug: DECISIONS_AT, required: false, many: true, maxCount: null },
   ])
   expect(proseOn([one], "one").some((at) => at.under.includes("decisionKind"))).toBe(false)
 })

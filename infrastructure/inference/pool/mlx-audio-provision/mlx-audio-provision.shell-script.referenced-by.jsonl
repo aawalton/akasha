@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"mlx-audio-provision.shell-script.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/inference/pool/inference-pool.domain.ts","id":"01a06815-9efd-7015-b82a-e620372e1e32"}
 {"propertySlug":"provision","path":"infrastructure/inference/pool/service-inferences/csm.service-inference.ts","id":"01a090a2-71a8-79b2-a532-b27c27e05122"}
 {"propertySlug":"provision","path":"infrastructure/inference/pool/service-inferences/higgs-audio.service-inference.ts","id":"01a090a2-4671-73bf-9c7f-1581d427b5b9"}

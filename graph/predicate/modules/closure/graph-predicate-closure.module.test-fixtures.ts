@@ -1,4 +1,6 @@
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
+import { names } from "akasha/graph/attribute/pages/names.graph-attribute.ts"
 import {
   AT_LOAD,
   BY_DECLARATION,
@@ -22,9 +24,11 @@ import { importers } from "akasha/graph/predicate/pages/importers/importers.grap
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
+const NAMES_AT = `${graphAttribute.slug}/${names.slug}`
+
 const EITHER_NAME = [
-  { attribute: "graph-attribute/names", value: NAMES_CODE },
-  { attribute: "graph-attribute/names", value: NAMES_TYPE },
+  { attribute: NAMES_AT, value: NAMES_CODE },
+  { attribute: NAMES_AT, value: NAMES_TYPE },
 ]
 
 const ENDING = ".ts"
