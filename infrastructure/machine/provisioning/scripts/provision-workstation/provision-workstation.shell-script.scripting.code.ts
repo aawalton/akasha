@@ -237,7 +237,7 @@ export function bodyIn(given: string | Reading): string {
     'echo "==> Ensuring disk-backed swapfile (OOM cushion below zram)..."',
     "if [ ! -f /var/swap/swapfile ]; then",
     "  sudo btrfs subvolume create /var/swap 2>/dev/null || sudo mkdir -p /var/swap",
-    "  sudo btrfs filesystem mkswapfile --size 64g /var/swap/swapfile",
+    "  sudo btrfs filesystem mkswapfile --size 32g /var/swap/swapfile",
     "fi",
     "if [ -f /etc/systemd/system/var-swap-swapfile.swap ]; then",
     "  sudo systemctl start var-swap-swapfile.swap || true",
