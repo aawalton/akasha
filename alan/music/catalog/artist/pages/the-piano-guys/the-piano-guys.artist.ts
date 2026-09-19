@@ -14,6 +14,12 @@ export const thePianoGuys = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "322d2e0e-7df2-4208-a46c-26cb6c60ba56",
+      externalLink: "https://musicbrainz.org/artist/322d2e0e-7df2-4208-a46c-26cb6c60ba56",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "0jW6R8CVyVohuUJVcuweDI",
       externalLink: "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI",
@@ -21,4 +27,11 @@ export const thePianoGuys = {
     },
   ],
   title: "The Piano Guys",
+  genre: [
+    "classical crossover",
+    "classical",
+    "contemporary classical",
+    "easy listening",
+    "instrumental",
+  ],
 } as const satisfies Artist

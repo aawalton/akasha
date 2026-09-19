@@ -1,0 +1,19 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const thePianoGuysWinterWonderland = {
+  id: "01a0b71e-98e7-74d2-8f15-7eee52a8b380",
+  type: "page-type/song",
+  slug: "the-piano-guys-winter-wonderland",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "272df053-1800-46bf-b180-08df4173e58f",
+      externalLink: "https://musicbrainz.org/work/272df053-1800-46bf-b180-08df4173e58f",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Winter Wonderland",
+  artist: "artist/the-piano-guys",
+  songType: "derivative",
+  performed: true,
+} as const satisfies Song
