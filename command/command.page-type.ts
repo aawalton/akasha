@@ -165,6 +165,15 @@ export const command = {
         "A refusal backticks what the call wrote and says what is true before what the call did.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A command that wrote before it threw says in its refusal what that command wrote.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A command takes no two arguments spelled alike.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "A refusal opens lowercase and carries no bracketed tag, no parenthetical and no capital for stress.",
@@ -180,15 +189,6 @@ export const command = {
     {
       decisionKind: "decision-kind/upkeep",
       statement: "Every property this page type declares is read by code.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A command that wrote before it threw says in its refusal what that command wrote.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A command takes no two arguments spelled alike.",
     },
   ],
   directives: [
