@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { lines } from "akasha/agent/seat/log-day/properties/lines.file-property.ts"
+import { logs } from "akasha/code/module-property-group/properties/logs.file-property.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -10,6 +13,7 @@ import {
   streamThere,
 } from "akasha/page/modules/record-sweeping/record-sweeping.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { entries } from "akasha/page/properties/entries.file-property.ts"
 import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -35,6 +39,12 @@ const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
 
+const ENTRIES_AT = `${fileProperty.slug}/${entries.slug}` as const
+
+const LINES_AT = `${fileProperty.slug}/${lines.slug}` as const
+
+const LOGS_AT = `${fileProperty.slug}/${logs.slug}` as const
+
 const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
   slug,
   extends: above,
@@ -45,22 +55,18 @@ const aProperty = (slug: string, hours: number | null): Held =>
   hours === null ? { slug, propertySlug: slug } : { slug, propertySlug: slug, keptForHours: hours }
 
 const TYPES: readonly Held[] = [
-  aType(
-    "page",
-    [],
-    [{ pageProperty: "file-property/entries" }, { pageProperty: "file-property/lines" }]
-  ),
+  aType("page", [], [{ pageProperty: ENTRIES_AT }, { pageProperty: LINES_AT }]),
   aType("page-property", [PAGE_AT], []),
   aType("file-property-group", [PAGE_PROPERTY_AT], []),
-  aType("held-group", [FILE_PROPERTY_GROUP_AT], [{ pageProperty: "file-property/logs" }]),
+  aType("held-group", [FILE_PROPERTY_GROUP_AT], [{ pageProperty: LOGS_AT }]),
   aType("hook", [PAGE_AT], []),
   aType("check", [PAGE_AT], [{ pageProperty: "held-group/audit" }]),
 ]
 
 const PROPERTIES: readonly Held[] = [
-  aProperty("entries", HOURS),
-  aProperty("logs", HOURS),
-  aProperty("lines", null),
+  aProperty(entries.slug, HOURS),
+  aProperty(logs.slug, HOURS),
+  aProperty(lines.slug, null),
 ]
 
 function carrying(pageTypeSlug: string, values: readonly Held[]): readonly Page[] {

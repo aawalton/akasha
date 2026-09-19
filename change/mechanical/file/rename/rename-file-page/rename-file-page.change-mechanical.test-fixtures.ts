@@ -6,7 +6,9 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
+import { workspaceManifest } from "akasha/code/workspace/properties/workspace-manifest.file-property.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
@@ -15,6 +17,7 @@ import {
   indexedRepo,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { entries } from "akasha/page/properties/entries.file-property.ts"
 import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -23,6 +26,10 @@ const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
 
 const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const ENTRIES_AT = `${fileProperty.slug}/${entries.slug}` as const
+
+const WORKSPACE_MANIFEST_AT = `${fileProperty.slug}/${workspaceManifest.slug}` as const
 
 export function movesOf(said: Answer): readonly (readonly [string, string])[] {
   const found: (readonly [string, string])[] = []
@@ -166,9 +173,9 @@ export const pagesAt: string = packaged({
   }),
   "akasha/entries.file-property.ts": pageOf({
     id: oneId("0b"),
-    pageTypeSlug: "file-property",
-    slug: "entries",
-    propertySlug: "entries",
+    pageTypeSlug: fileProperty.slug,
+    slug: entries.slug,
+    propertySlug: entries.propertySlug,
   }),
   "akasha/kept.page-type.ts": pageOf({
     id: oneId("0c"),
@@ -178,7 +185,7 @@ export const pagesAt: string = packaged({
     extends: [MODULE_AT],
     properties: [
       {
-        pagePropertySlug: "file-property/entries",
+        pagePropertySlug: ENTRIES_AT,
         required: false,
         many: false,
         uncommitted: true,
@@ -190,9 +197,9 @@ export const pagesAt: string = packaged({
   [KEPT_ENTRIES]: '{"kind":"add"}\n',
   "akasha/workspace-manifest.file-property.ts": pageOf({
     id: oneId("0e"),
-    pageTypeSlug: "file-property",
-    slug: "workspace-manifest",
-    propertySlug: "workspace-manifest",
+    pageTypeSlug: fileProperty.slug,
+    slug: workspaceManifest.slug,
+    propertySlug: workspaceManifest.propertySlug,
     fileName: "package.json",
   }),
   [PACKAGE_TYPE_AT]: pageOf({
@@ -201,9 +208,7 @@ export const pagesAt: string = packaged({
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
     extends: [DOMAIN_AT],
-    properties: [
-      { pagePropertySlug: "file-property/workspace-manifest", required: true, many: false },
-    ],
+    properties: [{ pagePropertySlug: WORKSPACE_MANIFEST_AT, required: true, many: false }],
   }),
   "akasha/nine/nine.workspace-package.ts": pageOf({
     id: oneId("10"),
