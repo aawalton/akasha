@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"inventory-snapshot-reading.module.code.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts"}
+{"propertySlug":"import","fileName":"inventory-snapshot-reading.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

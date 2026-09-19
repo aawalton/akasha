@@ -4,33 +4,21 @@ export const temperInventorySnapshot = {
   id: "01a0603c-c1d9-7ef8-acb9-f19095076d6e",
   type: "page-type/command",
   slug: "temper-inventory-snapshot",
-  definition: "the command giving back a stored holdings snapshot as one whole record",
+  definition: "the command giving back the inventory an account holds as one whole record",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A snapshot's whole record sits in one data file beside its page.",
+      statement: "An account holds one inventory, in one data file beside the account's own page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pieces a reading arrived in were rejoined before the snapshot landed.",
+      statement: "The account read is the one the call runs as.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A snapshot is reached by its page id or by its slug.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call naming a snapshot and asking for the newest at once is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The newest snapshot is the snapshot whose reading was taken most recently.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A snapshot with no data file refuses the call.",
+      statement: "An account with no data file refuses the call.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -44,21 +32,7 @@ export const temperInventorySnapshot = {
       decisionKind: "decision-kind/stopgap",
       statement: "So `--json` here takes the indenting off rather than choosing JSON.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call naming no snapshot and not asking for the newest is refused.",
-    },
   ],
   name: "snapshot",
-  arguments: [
-    { argument: "argument/latest" },
-    {
-      argument: "argument/snapshot",
-      saidAs: "word",
-      notWith: ["argument/latest"],
-      oneOf: ["argument/latest"],
-    },
-    { argument: "argument/output" },
-    { argument: "argument/json-one-line" },
-  ],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/json-one-line" }],
 } as const satisfies Command

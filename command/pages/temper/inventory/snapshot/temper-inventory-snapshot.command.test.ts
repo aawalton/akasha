@@ -11,42 +11,22 @@ const GIVEN: Given = {
   agentId: null,
 }
 
-test("a call naming no snapshot and asking for no newest is refused over the pair", async () => {
-  const said = await temperInventorySnapshot([], GIVEN)
+test("a word is refused, because the account read is the one the call runs as", async () => {
+  const said = await temperInventorySnapshot(["one"], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals).toEqual([
-    "`akasha temper inventory snapshot` takes `--latest` or `<snapshot>`, and nothing said either",
-  ])
-})
-
-test("a call naming a snapshot and asking for the newest at once is refused", async () => {
-  const said = await temperInventorySnapshot(["one", "--latest"], GIVEN)
-
-  expect(said.code).toBe(INPUT)
-  expect(said.refusals).toEqual([
-    "`<snapshot>` and `--latest` are never said together, and this call says both",
-  ])
-})
-
-test("a second snapshot is refused rather than read as the one asked for", async () => {
-  const said = await temperInventorySnapshot(["one", "two"], GIVEN)
-
-  expect(said.code).toBe(INPUT)
-  expect(said.refusals[0]).toBe(
-    "`akasha temper inventory snapshot` takes 1 word and this call says 2 words — nothing takes `two`"
-  )
+  expect(said.refusals.join("\n")).toContain("`one` is no argument")
 })
 
 test("the file written to with nothing after it is refused", async () => {
-  const said = await temperInventorySnapshot(["--latest", "--output"], GIVEN)
+  const said = await temperInventorySnapshot(["--output"], GIVEN)
 
   expect(said.code).toBe(INPUT)
   expect(said.refusals.join("\n")).toContain("`--output` takes a value, and none follows it")
 })
 
 test("a flag this command does not take is refused, naming what it takes", async () => {
-  const said = await temperInventorySnapshot(["--latest", "--nonsense"], GIVEN)
+  const said = await temperInventorySnapshot(["--nonsense"], GIVEN)
 
   expect(said.code).toBe(INPUT)
   expect(said.refusals.join("\n")).toContain("`--nonsense` is no argument")

@@ -176,7 +176,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"}

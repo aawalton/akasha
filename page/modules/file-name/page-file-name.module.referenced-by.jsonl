@@ -165,7 +165,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warrant-saying/warrant-saying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts"}
