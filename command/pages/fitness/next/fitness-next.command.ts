@@ -7,7 +7,7 @@ export const fitnessNext = {
   definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
-  parts: ["module/kit-loading", "module/stepping", "module/warming"],
+  parts: ["module/stepping", "module/warming"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

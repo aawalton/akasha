@@ -4,7 +4,7 @@
 {"definition":"the movement to do next, with the load to take and what to beat"}
 {"id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
 {"name":"next"}
-{"parts":["module/kit-loading","module/stepping","module/warming"]}
+{"parts":["module/stepping","module/warming"]}
 {"slug":"fitness-next"}
 {"test":"ts"}
 {"type":"page-type/command"}

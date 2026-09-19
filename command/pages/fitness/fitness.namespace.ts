@@ -10,6 +10,7 @@ export const fitness = {
     "command/fitness-mobility",
     "command/fitness-next",
     "command/fitness-week",
+    "module/kit-loading",
     "module/training-week",
   ],
   name: "fitness",

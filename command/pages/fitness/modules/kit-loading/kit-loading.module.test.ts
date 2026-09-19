@@ -9,7 +9,7 @@ import {
   kitIn,
   loadsFor,
   topLoadFor,
-} from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
+} from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 
 const DUMBBELL_AT = `${strengthExerciseImplement.slug}/${dumbbell.slug}` as const
 

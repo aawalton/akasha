@@ -26,6 +26,7 @@ const CHEST = movement("chest-stretch", {
   pattern: "mobility",
   category: "stretching",
   force: "static",
+  implement: null,
   muscles: ["chest"],
   scoring: "time",
 })
@@ -35,6 +36,7 @@ const QUADS = movement("quad-stretch", {
   pattern: "mobility",
   category: "stretching",
   force: null,
+  implement: "body-only",
   muscles: ["quadriceps"],
   scoring: "time",
 })
@@ -48,17 +50,41 @@ const SWINGING = movement("dynamic-chest-stretch", {
   scoring: "time",
 })
 
-const MOVEMENTS = new Map([BENCH, CHEST, QUADS, SWINGING].map((one) => [one.slug, one]))
+const ROLLED = movement("lats-smr", {
+  title: "Latissimus Dorsi-SMR",
+  pattern: "mobility",
+  category: "stretching",
+  force: "static",
+  implement: "foam-roll",
+  muscles: ["lats"],
+  scoring: "time",
+})
+
+const MOVEMENTS = new Map([BENCH, CHEST, QUADS, SWINGING, ROLLED].map((one) => [one.slug, one]))
+
+const COVERED = new Set(["dumbbell"])
 
 const COOLING: Cooling = {
   stretches: 3,
   seconds: 45,
   worked: ["chest", "triceps"],
   done: new Set<string>(),
+  covered: COVERED,
 }
 
 test("a stretch cools Alan where it is held rather than driven", () => {
-  expect(heldIn(MOVEMENTS).map((one) => one.slug)).toEqual(["chest-stretch", "quad-stretch"])
+  expect(heldIn(MOVEMENTS, COVERED).map((one) => one.slug)).toEqual([
+    "chest-stretch",
+    "quad-stretch",
+  ])
+})
+
+test("a stretch Alan's kit cannot carry is no stretch to offer", () => {
+  expect(heldIn(MOVEMENTS, new Set(["foam-roll"])).map((one) => one.slug)).toEqual([
+    "chest-stretch",
+    "lats-smr",
+    "quad-stretch",
+  ])
 })
 
 test("the muscles to stretch are those the day's sets worked", () => {

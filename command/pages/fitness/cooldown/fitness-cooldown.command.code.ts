@@ -18,16 +18,24 @@ import {
   takenOn,
   workedOn,
 } from "akasha/command/pages/fitness/cooldown/modules/cooling/cooling.module.code.ts"
+import {
+  coveredBy,
+  KIT_TYPE,
+  kitIn,
+} from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import { weekIn } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 export function coolingIn(root: string, now: Date): Cool | null {
   const today = getMountainMorningDayStr(now)
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
+  const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
   return coolFor(week.movements, {
     stretches: selectionPolicy.stretchesCoolingDown,
     seconds: selectionPolicy.secondsHoldingStretch,
     worked: workedOn(week.sets, today, week.movements),
     done: takenOn(week.sets, today),
+    covered: coveredBy(kit),
   })
 }
 

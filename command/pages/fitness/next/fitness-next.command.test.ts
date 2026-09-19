@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import {
+  coveredBy,
+  type Kit,
+} from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import type { Movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import {
@@ -21,10 +25,6 @@ import {
   saidOf,
   turnsIn,
 } from "akasha/command/pages/fitness/next/fitness-next.command.code.ts"
-import {
-  coveredBy,
-  type Kit,
-} from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 import { stepFor } from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
 import type { Warmth } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 

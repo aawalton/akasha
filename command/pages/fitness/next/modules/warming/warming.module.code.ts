@@ -2,11 +2,11 @@ import {
   MS_PER_DAY,
   parseDay,
 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+import { easedTo } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import {
   dayOf,
   type Movement,
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
-import { easedTo } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 import {
   slugAt,
   textAt,

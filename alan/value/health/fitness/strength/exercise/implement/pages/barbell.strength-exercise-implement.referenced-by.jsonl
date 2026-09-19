@@ -168,5 +168,5 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/wide-stance-stiff-legs/wide-stance-stiff-legs.strength-exercise.ts","id":"019ebc78-c148-7587-a279-6fef81e4a2c8"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/wrist-rotations-with-straight-bar/wrist-rotations-with-straight-bar.strength-exercise.ts","id":"019ebc78-c2f3-7386-9d50-23f7cac5682a"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/zercher-squats/zercher-squats.strength-exercise.ts","id":"019ebc78-c37d-7fb7-92fd-3a6555107872"}
-{"propertySlug":"import","fileName":"barbell.strength-exercise-implement.ts","path":"command/pages/fitness/next/modules/kit-loading/kit-loading.module.test.ts"}
+{"propertySlug":"import","fileName":"barbell.strength-exercise-implement.ts","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.test.ts"}
 {"propertySlug":"parts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}

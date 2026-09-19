@@ -12,6 +12,13 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
+  coveredBy,
+  KIT_TYPE,
+  type Kit,
+  kitIn,
+  loadsFor,
+} from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
+import {
   dayOf,
   type Movement,
   nearFailureIn,
@@ -19,13 +26,6 @@ import {
   weekIn,
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { fitnessNext as page } from "akasha/command/pages/fitness/next/fitness-next.command.ts"
-import {
-  coveredBy,
-  KIT_TYPE,
-  type Kit,
-  kitIn,
-  loadsFor,
-} from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 import {
   type Step,
   stepFor,

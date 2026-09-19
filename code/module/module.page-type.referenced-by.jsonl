@@ -1288,8 +1288,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/modules/training-week/training-week.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/kit-loading/kit-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/warming/warming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.ts"}

@@ -41,5 +41,9 @@ export const cooling = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads whether Alan is warm.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stretch Alan's kit cannot carry is no stretch to offer.",
+    },
   ],
 } as const satisfies Module

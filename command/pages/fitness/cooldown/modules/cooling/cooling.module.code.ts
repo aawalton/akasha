@@ -11,11 +11,14 @@ const MOBILITY = "mobility"
 
 const STATIC = "static"
 
+const BODY_ONLY = "body-only"
+
 export type Cooling = {
   readonly stretches: number
   readonly seconds: number
   readonly worked: readonly string[]
   readonly done: ReadonlySet<string>
+  readonly covered: ReadonlySet<string>
 }
 
 export type Cool = {
@@ -24,9 +27,17 @@ export type Cool = {
   readonly seconds: number
 }
 
-export function heldIn(movements: ReadonlyMap<string, Movement>): readonly Movement[] {
+export function heldIn(
+  movements: ReadonlyMap<string, Movement>,
+  covered: ReadonlySet<string>
+): readonly Movement[] {
   return [...movements.values()]
-    .filter((one) => one.pattern === MOBILITY && (one.force === null || one.force === STATIC))
+    .filter(
+      (one) =>
+        one.pattern === MOBILITY &&
+        (one.force === null || one.force === STATIC) &&
+        (one.implement === null || one.implement === BODY_ONLY || covered.has(one.implement))
+    )
     .sort((a, b) => a.slug.localeCompare(b.slug))
 }
 
@@ -58,7 +69,7 @@ export function coolingFor(
   movements: ReadonlyMap<string, Movement>,
   given: Cooling
 ): readonly Movement[] {
-  const able = heldIn(movements)
+  const able = heldIn(movements, given.covered)
   const left = given.stretches - able.filter((one) => given.done.has(one.slug)).length
   if (left <= 0) return []
   const open = able.filter((one) => !given.done.has(one.slug))
