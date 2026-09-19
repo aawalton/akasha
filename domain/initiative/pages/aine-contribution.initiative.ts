@@ -15,7 +15,7 @@ export const aineContribution = {
     { statement: "Every feature request is a page naming the product that request is for." },
     {
       statement:
-        "A pledge Patreon reports lands the contributor's page and the contribution points it earns.",
+        "A payment Stripe reports lands the contributor's page and the contribution points it earns.",
     },
     {
       statement:
@@ -40,6 +40,12 @@ export const aineContribution = {
       workingMemory:
         "Ko-fi cannot change the platform fee on a Stripe membership after that membership starts. A membership taken before Gold pays 5% for life; one taken while Gold is on pays nothing for life, even if Gold is cancelled afterwards. A new account defaults into the 5% tier, and Gold is $12 a month.",
     },
+    {
+      statement:
+        "A refund or dispute Stripe reports posts a negative transaction against the contributor.",
+      workingMemory:
+        "Ko-fi reports no cancellation, refund or chargeback, and says so itself. Stripe does, because Alan is the merchant rather than Ko-fi.",
+    },
   ],
   constraints: [
     "Each product carries a brand of its own and calls for backing on the one shared Patreon.",
@@ -52,5 +58,6 @@ export const aineContribution = {
     "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
     "A cent contributed earns one contribution point, and that rate is fixed until something proves it wrong.",
     "Ko-fi takes the money, because Patreon's terms forbid leading a contributor from Patreon to Alan's own site, which this model requires.",
+    "A reversed contribution takes back its points wherever they went, and a contributor's balance goes negative rather than a completed request losing its credit.",
   ],
 } as const satisfies Initiative
