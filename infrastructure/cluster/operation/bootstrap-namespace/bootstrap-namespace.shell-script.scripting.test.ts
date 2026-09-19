@@ -27,7 +27,8 @@ test("every path the body names is a file that is there", () => {
 
 test("the body tells shellcheck where the sourced script sits and then sources it", () => {
   const said = bodyIn(ROOT).split("\n")
-  expect(said.filter((one) => one.includes(basename(functionsBesideIn(ROOT))))).toHaveLength(2)
+  const beside = basename(functionsBesideIn(ROOT))
+  expect(said.filter((one) => one.includes(beside))).toHaveLength(2)
 })
 
 test("the body reaches the secret saying under the root it found rather than under a guess", () => {
