@@ -3,7 +3,7 @@ import { requireMatchPositional } from "akasha/code/type/narrowing/modules/requi
 import { enforceInodeAdmission } from "akasha/infrastructure/kernel/modules/inode-guard/inode-guard.module.code.ts"
 import { z } from "zod"
 
-const MIN_FREE_MEMORY_GB = 8
+const MIN_FREE_MEMORY_GB = 16
 
 const KB_PER_GB = 1024 * 1024
 const THRESHOLD_KB = MIN_FREE_MEMORY_GB * KB_PER_GB

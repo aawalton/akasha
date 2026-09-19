@@ -9,7 +9,7 @@ export const memoryGuard = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Eight gigabytes free is the least the workstation admits a process on.",
+      statement: "Sixteen gigabytes free is the least the workstation admits a process on.",
     },
     {
       decisionKind: "decision-kind/departure",
