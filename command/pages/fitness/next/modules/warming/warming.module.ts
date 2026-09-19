@@ -44,5 +44,35 @@ export const warming = {
       decisionKind: "decision-kind/gap",
       statement: "Whether a movement moves through a range is read from force rather than stated.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The raise names one cardio movement rather than leaving what to do open.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A raise Alan's kit cannot carry is no raise to offer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A raise sharing a muscle with the work to come leads; where none does, every raise is drawn on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The raise Alan performed longest ago is the raise offered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day parts raises Alan has gone equally long without.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What Alan raised with is read from the sets he logged as cardio.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A raise Alan performs without logging it ages no further, so the day alone varies it.",
+    },
   ],
 } as const satisfies Module

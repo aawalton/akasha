@@ -292,7 +292,7 @@ export function offerOf(
   marks: ReadonlyMap<string, Mark>,
   bounds: Bounds,
   out: ReadonlySet<string>,
-  warmth: Warmth = { warm: false, ramped: new Set() }
+  warmth: Warmth = { warm: false, ramped: new Set(), raised: new Map(), turn: 0 }
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, bounds.low).flatMap((muscle) => {
@@ -333,6 +333,9 @@ export function offerOf(
       mobilising: bounds.mobilising,
       share: bounds.warmupShare,
       reps: bounds.warmupReps,
+      covered,
+      raised: warmth.raised,
+      turn: warmth.turn,
     }),
   }
 }
@@ -398,7 +401,7 @@ export function nextIn(root: string, now: Date): Offer | null {
     mobilising: selectionPolicy.mobilisingMovements,
   }
   const out = outIn(week.movements, restricted, dropped)
-  const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm)
+  const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm, today)
   return offerOf(week, kit, marks, bounds, out, warmth)
 }
 

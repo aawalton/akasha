@@ -84,7 +84,12 @@ function bounds(over: Partial<Bounds> = {}): Bounds {
   }
 }
 
-const WARM: Warmth = { warm: true, ramped: new Set(["dumbbell-bench-press"]) }
+const WARM: Warmth = {
+  warm: true,
+  ramped: new Set(["dumbbell-bench-press"]),
+  raised: new Map(),
+  turn: 0,
+}
 
 const OFFER: Offer = {
   movement: "dumbbell-bench-press",
@@ -248,7 +253,7 @@ test("a dropped movement is offered again once its pattern has progressed elsewh
 
 test("a cold Alan is offered the whole warmup before his working set", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
-  expect(offer?.warmup?.raise).toBe(5)
+  expect(offer?.warmup?.raise).toEqual({ minutes: 5, title: null })
   expect(offer?.warmup?.ramp).toEqual({ weight: 10, reps: 10 })
   const said = saidOf(offer)
   expect(said[1]).toBe("  raise: 5 minutes easy, until you are breathing and damp")
