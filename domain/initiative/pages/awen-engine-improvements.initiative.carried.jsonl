@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"Every file the dirty folder held is a page or is deliberately dropped."},{"statement":"Alan has approved the subfolder structure under story."}]}
+{"intentStack":[{"statement":"Every file the dirty folder held is a page or is deliberately dropped."},{"statement":"Alan has approved the subfolder structure under story."},{"statement":"No story-design-note holds content another page type would carry."}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}
