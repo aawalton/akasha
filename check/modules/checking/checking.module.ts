@@ -248,6 +248,10 @@ export const checking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run at deploy is held to the audit group's ceiling whichever group's code ran.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run narrowed to named files runs the check group's code.",
     },
     {

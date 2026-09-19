@@ -100,6 +100,8 @@ const EVERY_PHASE: readonly Phase[] = ["change", "deploy", "audit"]
 
 const AT_CHANGE: Phase = "change"
 
+const AT_DEPLOY: Phase = "deploy"
+
 const loadFrom = createRequire(import.meta.url)
 
 function checkSlugIn(root: string): string {
@@ -400,6 +402,7 @@ export function judgingBy(
         const found: Judged[] = []
         const audit = auditingOver(one, wholly)
         const group = audit === null ? CHECK_GROUP : AUDIT_GROUP
+        const ceilingGroup = phase === AT_DEPLOY ? AUDIT_GROUP : group
         try {
           found.push(...(await (audit === null ? one.run(change, shadow) : audit())))
         } catch (thrown) {
@@ -414,7 +417,7 @@ export function judgingBy(
           change.changed.length,
           found.length
         )
-        const over = ranOver(one, group, cost)
+        const over = ranOver(one, ceilingGroup, cost)
         const kept = sparing === null ? found : [...(await sparing(one.run, found))]
         if (over !== null) kept.push(over)
         const under = logsUnder(one, group)

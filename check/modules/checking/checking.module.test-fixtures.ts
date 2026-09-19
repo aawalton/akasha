@@ -310,7 +310,7 @@ const BURNS_CPU =
 export const BURNS_CHECK = [{ slug: BURNS, runsOn: ["change"], body: BURNS_CPU, checkCeiling: 0 }]
 
 export const BURNS_AT_DEPLOY = [
-  { slug: BURNS, runsOn: ["deploy"], body: BURNS_CPU, checkCeiling: 0 },
+  { slug: BURNS, runsOn: ["deploy"], body: BURNS_CPU, checkCeiling: 0, auditCeiling: 9 },
 ]
 
 export const BURNS_AT_AUDIT = [

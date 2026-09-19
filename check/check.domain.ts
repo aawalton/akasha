@@ -152,7 +152,7 @@ export const check = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A run is held to the ceiling stated for the code that ran rather than for the phase.",
+        "A run is held to the ceiling stated for the code that ran, and a run at deploy to the audit group's.",
     },
   ],
   directives: [

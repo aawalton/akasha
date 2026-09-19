@@ -309,9 +309,8 @@ test("a check over its ceiling refuses, and the refusal names the check's own pa
   expect(said[0]?.reason).toContain("over the 0 its page states, so what it judged does not land")
 })
 
-test("a check over its ceiling at deploy refuses by its check group", async () => {
-  const said = await judgedIn(BURNS_AT_DEPLOY, [ONE_TS], [ONE_TS], "deploy")
-  expect(said[0]?.reason).toContain("over the 0 its page states")
+test("a check at deploy is held to the audit group's ceiling rather than the check group's", async () => {
+  expect(await judgedIn(BURNS_AT_DEPLOY, [ONE_TS], [ONE_TS], "deploy")).toEqual([])
 })
 
 test("a check at its ceiling refuses nothing, and one over it names its own page", () => {
