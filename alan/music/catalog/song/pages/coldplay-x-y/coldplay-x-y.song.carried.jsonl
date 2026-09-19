@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"bfb4c42d-c6eb-3b53-883c-df9a849a0d30","externalLink":"https://musicbrainz.org/work/bfb4c42d-c6eb-3b53-883c-df9a849a0d30","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba60-ffc9-70f1-8209-8761acabd433"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-x-y"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"X&Y"}
+{"type":"page-type/song"}

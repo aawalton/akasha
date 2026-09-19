@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c662eefb-5a93-37f1-a750-0059cb0f1e79","externalLink":"https://musicbrainz.org/work/c662eefb-5a93-37f1-a750-0059cb0f1e79","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba61-0021-7866-847f-0d4e29322c93"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-yes"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"Yes"}
+{"type":"page-type/song"}

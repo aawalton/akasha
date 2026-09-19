@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ede2afbb-c49e-4105-bcdb-3e3f37196e0c","externalLink":"https://musicbrainz.org/work/ede2afbb-c49e-4105-bcdb-3e3f37196e0c","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba60-fdab-75d4-bfc1-ff457af7b370"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-the-goldrush"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"The Goldrush"}
+{"type":"page-type/song"}

@@ -1,8 +1,11 @@
 {"artist":"artist/coldplay"}
 {"externalIdentity":[{"source":"musicbrainz","externalId":"a3db58af-fb3c-4a6e-ac21-ba286c985f44","externalLink":"https://musicbrainz.org/work/a3db58af-fb3c-4a6e-ac21-ba286c985f44","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0ba5d-438c-7095-b924-1b87a353d789"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"coldplay-a-l-i-e-n-s"}
 {"songType":"derivative"}
+{"syncedLyrics":"txt"}
 {"title":"A L I E N S"}
 {"type":"page-type/song"}
