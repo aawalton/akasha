@@ -54,14 +54,11 @@ export function ImportPageContent() {
           <Card>
             <CardContent className="space-y-2 text-secondary text-sm">
               <p>
-                <strong className="text-primary">
-                  These files come from the Temper ESO add-ons.
-                </strong>{" "}
-                ESO does not write them on its own —{" "}
-                <strong className="text-primary">TemperCharacters</strong> and{" "}
-                <strong className="text-primary">TemperInventory</strong> create them while you
-                play. If those add-ons are not installed in your game, the files below will not
-                exist on your computer and there is nothing to upload.
+                <strong className="text-primary">This file comes from a Temper ESO add-on.</strong>{" "}
+                ESO does not write it on its own —{" "}
+                <strong className="text-primary">TemperCharacters</strong> creates it while you
+                play. If that add-on is not installed in your game, the file below will not exist on
+                your computer and there is nothing to upload.
               </p>
               <p>
                 <a
@@ -88,7 +85,7 @@ export function ImportPageContent() {
                 redistribute it — so it is not in that download, and you install it yourself from
                 Minion or esoui.com. It is where Temper gets guild-store prices. TemperInventory
                 records whatever prices it finds at scan time, so an inventory captured without it
-                uploads fine and then values your items at vendor prices only — a small fraction of
+                syncs fine and then values your items at vendor prices only — a small fraction of
                 what they are worth.
               </p>
               <p className="text-tertiary">
@@ -96,7 +93,8 @@ export function ImportPageContent() {
                 <LayoutLink href="/watcher" className="text-accent hover:underline">
                   Temper Watcher
                 </LayoutLink>{" "}
-                does the same thing automatically, on Windows only.
+                does this automatically, on Windows only, and is the only way your inventory reaches
+                Temper.
               </p>
             </CardContent>
           </Card>
