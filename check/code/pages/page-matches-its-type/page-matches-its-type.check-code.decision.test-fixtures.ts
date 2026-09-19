@@ -17,7 +17,9 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Formatting } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const allows: Formatting = () => (): boolean => true
 
@@ -134,7 +136,11 @@ function grounding(root: string): undefined {
   const declares =
     '{ pagePropertySlug: "extends", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
     ', { pagePropertySlug: "properties", many: true, maxCount: null }'
-  put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '["page-type/page"]', declares))
+  put(
+    root,
+    typeAt,
+    typing(PAGE_TYPE_ID, "page-type", `["${pageType.slug}/${page.slug}"]`, declares)
+  )
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
   schemaFiledFor(root, "relation-property", "extends")
   schemaFiledFor(root, "relation-property", "page-type-slug")

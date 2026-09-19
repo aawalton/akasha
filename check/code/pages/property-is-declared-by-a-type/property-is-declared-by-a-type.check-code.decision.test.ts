@@ -23,6 +23,8 @@ import {
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -198,7 +200,7 @@ test("a property of a page type the change itself adds is judged too", () => {
     landing(root, {
       "akasha/measure-property.page-type.ts": new TextEncoder().encode(
         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
-          `slug: "measure-property", extends: ["page-type/page-property"] }\n`
+          `slug: "measure-property", extends: ["${pageType.slug}/${pageProperty.slug}"] }\n`
       ),
       [pathFor("measure-property", "held")]: body("measure-property", "held", ONE),
     })

@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing as wrote } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import {
@@ -13,6 +14,8 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const A = "akasha/t/a.note.ts"
 
@@ -40,11 +43,17 @@ export const S_ID = "01a04d99-71ca-7e06-8000-000000000005"
 
 export const T_ID = "01a04d99-71ca-7e06-8000-000000000006"
 
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const PAGE_TYPE_AT = `${pageType.slug}/${pageType.slug}` as const
+
+export const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
 const TYPES: readonly (readonly [string, string | null, boolean])[] = [
-  ["page-type", "page-type/page", false],
-  ["domain", "page-type/page-type", false],
-  ["note", "page-type/domain", false],
-  ["spark", "page-type/domain", true],
+  ["page-type", PAGE_AT, false],
+  ["domain", PAGE_TYPE_AT, false],
+  ["note", DOMAIN_AT, false],
+  ["spark", DOMAIN_AT, true],
 ]
 
 const SCHEMA: Record<string, Record<string, string | null>> = {

@@ -22,6 +22,8 @@ import {
   pathFor,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { phoneNumberProperty } from "akasha/page/phone-number-property/phone-number-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -125,7 +127,7 @@ test("a page type the change itself puts under `phone-number-property` is judged
   const root = rooted()
   const above = bytesOf(
     `export const held = { id: ${JSON.stringify(MOBILE)}, pageTypeSlug: "page-type", ` +
-      `slug: "mobile-number-property", extends: ["page-type/phone-number-property"] }\n`
+      `slug: "mobile-number-property", extends: ["${pageType.slug}/${phoneNumberProperty.slug}"] }\n`
   )
   const said = judged(root, { [MOBILE_AT]: above, [AT]: person('mobile: "6085122510"') })
   expect(said.map((one) => one.path)).toEqual([AT])

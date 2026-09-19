@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"phone-number-property.page-type.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"alan/harness/sms-core/telnyx-account/properties/telnyx-account-from-number.phone-number-property.ts"}
 {"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-phone.phone-number-property.ts"}
 {"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"person/properties/phone.phone-number-property.ts"}

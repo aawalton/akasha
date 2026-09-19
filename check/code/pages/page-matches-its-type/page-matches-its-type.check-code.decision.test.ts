@@ -25,10 +25,14 @@ import { onDisk } from "akasha/check/modules/change-walking/change-walking.modul
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { judgingBy } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
 const HELD_AT = "akasha/held.page-type.ts"
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 function bytesFor(bodies: Readonly<Record<string, string>>, root?: string) {
   const disk = root === undefined ? (): null => null : onDisk(root)
@@ -123,7 +127,7 @@ test("a page stating what a page type the change puts above its own declares is 
 test("a page type the change carries is read as the change leaves it", () => {
   const root = scratch.rootFor("akasha-carried-")
   seeded(root)
-  const narrowing = { [HELD_AT]: typing(HELD_ID, "held", '["page-type/page"]', NARROWED) }
+  const narrowing = { [HELD_AT]: typing(HELD_ID, "held", `["${PAGE_AT}"]`, NARROWED) }
   expect(landing(root, { ...narrowing, [ONE_HELD_AT]: ONE_HELD }, {})).toEqual([
     { path: ONE_HELD_AT, reason: "does not state `name`, which `page-type/held` requires" },
   ])
