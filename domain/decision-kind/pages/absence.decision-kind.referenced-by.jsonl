@@ -1852,7 +1852,6 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.ts","id":"01a06108-2fef-7f5e-8bcb-0e8fbd99a8ff"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-override/completion-override.module.ts","id":"01a06103-061b-7457-afea-60b18bad59f0"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-progress-index/completion-progress-index.module.ts","id":"01a0640c-1e9b-7ed3-97f9-cf48e60107c6"}
-{"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-recipe-progress/completion-recipe-progress.module.ts","id":"01a06121-f0d4-7ab6-9220-119f03765b07"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-summary-account/completion-summary-account.module.ts","id":"01a063a1-6ec3-7070-a4c2-0e4e020a6407"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-summary-companion/completion-summary-companion.module.ts","id":"01a06124-14db-7fde-9ac1-6e23fae35a9d"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-summary/completion-summary.module.ts","id":"01a063a1-6ec2-7027-8d27-e1641844f7dc"}

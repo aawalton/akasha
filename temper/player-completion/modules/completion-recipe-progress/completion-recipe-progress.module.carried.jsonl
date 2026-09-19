@@ -1,5 +1,5 @@
 {"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the game."}]}
+{"decisions":[]}
 {"definition":"the recipes each character knows, counted by recipe list"}
 {"id":"01a06121-f0d4-7ab6-9220-119f03765b07"}
 {"slug":"completion-recipe-progress"}

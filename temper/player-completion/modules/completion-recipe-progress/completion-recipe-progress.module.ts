@@ -6,10 +6,5 @@ export const completionRecipeProgress = {
   slug: "completion-recipe-progress",
   definition: "the recipes each character knows, counted by recipe list",
   code: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here reaches the game.",
-    },
-  ],
+  decisions: [],
 } as const satisfies Module
