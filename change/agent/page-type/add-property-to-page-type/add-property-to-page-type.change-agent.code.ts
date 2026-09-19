@@ -1,8 +1,11 @@
+import { addPropertyToPageType as addPropertyToPageTypeMechanical } from "akasha/change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const ADD_PROPERTY_TO_PAGE_TYPE = "change-mechanical-page-type/add-property-to-page-type"
+const ADD_PROPERTY_TO_PAGE_TYPE =
+  `${changeMechanicalPageType.slug}/${addPropertyToPageTypeMechanical.slug}` as const
 
 const AT = "at"
 

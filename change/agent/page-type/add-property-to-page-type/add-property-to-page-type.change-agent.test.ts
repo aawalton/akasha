@@ -3,6 +3,8 @@ import {
   addPropertyToPageType,
   runChange,
 } from "akasha/change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.code.ts"
+import { addPropertyToPageType as addPropertyToPageTypeMechanical } from "akasha/change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import type { Reaching, World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -15,7 +17,7 @@ const OWNER_AT = "thrumming/moots/moot.page-type.ts"
 
 const PROPERTY = "build-folder-property/web-directory"
 
-const RUNG = "change-mechanical-page-type/add-property-to-page-type"
+const RUNG = `${changeMechanicalPageType.slug}/${addPropertyToPageTypeMechanical.slug}` as const
 
 const REACHED: string[] = []
 

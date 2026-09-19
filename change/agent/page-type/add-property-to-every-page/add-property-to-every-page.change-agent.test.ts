@@ -4,6 +4,8 @@ import {
   runChange,
 } from "akasha/change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.code.ts"
 import { worldFor as mootsWorld } from "akasha/change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test-fixtures.ts"
+import { addPropertyToEveryPage as addPropertyToEveryPageMechanical } from "akasha/change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import { bodiesIn, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   listing,
@@ -164,5 +166,7 @@ test("the one change reached is the mechanical change acting on a page type", as
 
   await addPropertyToEveryPage(mootsWorld(BODIES, [DECLARED], listing(seen)), SECTION_OF)
 
-  expect(seen).toEqual(["change-mechanical-page-type/add-property-to-every-page"])
+  expect(seen).toEqual([
+    `${changeMechanicalPageType.slug}/${addPropertyToEveryPageMechanical.slug}`,
+  ])
 })

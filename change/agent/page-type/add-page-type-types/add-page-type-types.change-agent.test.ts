@@ -3,6 +3,8 @@ import {
   addPageTypeTypes,
   runChange,
 } from "akasha/change/agent/page-type/add-page-type-types/add-page-type-types.change-agent.code.ts"
+import { addPageTypeTypes as addPageTypeTypesMechanical } from "akasha/change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
@@ -13,7 +15,7 @@ import {
 
 const AT = "thrumming/moots/moot.page-type.ts"
 
-const RUNG = "change-mechanical-page-type/add-page-type-types"
+const RUNG = `${changeMechanicalPageType.slug}/${addPageTypeTypesMechanical.slug}` as const
 
 const REACHED: string[] = []
 

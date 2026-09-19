@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"add-property-to-page-type.change-mechanical-page-type.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"add-property-to-page-type.change-mechanical-page-type.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"add-property-to-page-type.change-mechanical-page-type.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"add-property-to-page-type.change-mechanical-page-type.ts","path":"change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"add-property-to-page-type.change-mechanical-page-type.ts","path":"change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.test.ts"}
 {"propertySlug":"parts","path":"change/mechanical/page-type/add/change-mechanical-page-type-add.domain.ts","id":"01a09c5c-dc1b-77e2-a464-b112c07559a1"}
