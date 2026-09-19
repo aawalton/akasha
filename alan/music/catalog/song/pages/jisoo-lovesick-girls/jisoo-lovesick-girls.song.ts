@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const jisooLovesickGirls = {
+  id: "01a0b724-3802-7ce9-b2fb-e3263a30705c",
+  type: "page-type/song",
+  slug: "jisoo-lovesick-girls",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "08be9dd3-8a1d-4ce5-ac40-adf4411d30a9",
+      externalLink: "https://musicbrainz.org/work/08be9dd3-8a1d-4ce5-ac40-adf4411d30a9",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Lovesick Girls",
+  artist: "artist/jisoo",
+  songType: "original",
+  performed: false,
+  written: "collab",
+} as const satisfies Song

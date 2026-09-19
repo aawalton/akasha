@@ -13,6 +13,12 @@ export const jisoo = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "f906154a-7011-49c3-8f6a-44ca83311b08",
+      externalLink: "https://musicbrainz.org/artist/f906154a-7011-49c3-8f6a-44ca83311b08",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "6UZ0ba50XreR4TM8u322gs",
       externalLink: "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs",
@@ -20,4 +26,5 @@ export const jisoo = {
     },
   ],
   title: "JISOO",
+  genre: ["k-pop"],
 } as const satisfies Artist
