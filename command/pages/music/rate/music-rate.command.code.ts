@@ -1,5 +1,7 @@
 import { join } from "node:path"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Landing,
@@ -81,7 +83,7 @@ const CONNECTIONS_FILING: Filing = {
 
 const INSIGHTS_FILING: Filing = { said: insights.said, file: insightsFile.said, whole: WHOLE }
 
-export const WRITE = "change-mechanical/add-file-of-any-kind"
+export const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 export type Taken = {
   readonly target: string

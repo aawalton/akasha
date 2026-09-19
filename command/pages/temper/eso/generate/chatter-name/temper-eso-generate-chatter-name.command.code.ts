@@ -1,6 +1,8 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import {
@@ -33,7 +35,7 @@ const TABLES = "quests-chatter-name-tables"
 
 const CODE = "code"
 
-const PUT = "change-mechanical/add-file-code"
+const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
