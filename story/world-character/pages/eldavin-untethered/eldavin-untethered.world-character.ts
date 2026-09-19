@@ -6,6 +6,8 @@ export const eldavinUntethered = {
   slug: "eldavin-untethered",
   title: "Eldavin",
   world: "world/the-wandering-inn",
+  maxLevel: 16,
+  eventCount: 4,
   firstChapter: 587,
   lastChapter: 804,
   characterClaims: "jsonl",

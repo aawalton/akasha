@@ -6,8 +6,6 @@ export const eldavin = {
   slug: "eldavin",
   title: "Grand Magus Eldavin",
   world: "world/the-wandering-inn",
-  maxLevel: 16,
-  eventCount: 4,
   firstChapter: 452,
   lastChapter: 586,
   characterClaims: "jsonl",
