@@ -17,6 +17,8 @@ const JWT_LIFE_SECONDS = 50 * 60
 
 const SEND_CEILING_MS = 20_000
 
+export type ApnsPushType = "alert" | "liveactivity"
+
 export type ApnsPayload = Readonly<Record<string, unknown>>
 
 export type ApnsOutcome =
@@ -25,7 +27,12 @@ export type ApnsOutcome =
   | { readonly kind: "error"; readonly status: number; readonly reason: string | null }
 
 export interface ApnsSender {
-  readonly send: (deviceToken: string, payload: ApnsPayload, topic: string) => Promise<ApnsOutcome>
+  readonly send: (
+    deviceToken: string,
+    payload: ApnsPayload,
+    topic: string,
+    pushType?: ApnsPushType
+  ) => Promise<ApnsOutcome>
   readonly close: () => undefined
 }
 
@@ -124,7 +131,8 @@ function apnsSender(pem: string): ApnsSender {
   async function send(
     deviceToken: string,
     payload: ApnsPayload,
-    topic: string
+    topic: string,
+    pushType: ApnsPushType = "alert"
   ): Promise<ApnsOutcome> {
     const jwt = await token()
     const body = JSON.stringify(payload)
@@ -135,7 +143,7 @@ function apnsSender(pem: string): ApnsSender {
         ":path": `/3/device/${deviceToken}`,
         authorization: `bearer ${jwt}`,
         "apns-topic": topic,
-        "apns-push-type": "alert",
+        "apns-push-type": pushType,
         "apns-priority": "10",
         "content-type": "application/json",
         "content-length": Buffer.byteLength(body),

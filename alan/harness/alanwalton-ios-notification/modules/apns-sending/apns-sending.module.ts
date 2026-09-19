@@ -4,7 +4,7 @@ export const apnsSending = {
   id: "01a069b6-bb6b-7ca0-81b1-b62e52519bbf",
   type: "page-type/module",
   slug: "apns-sending",
-  definition: "one alert handed to Apple's push service over a connection kept open",
+  definition: "one push handed to Apple's push service over a connection kept open",
   code: "ts",
   decisions: [
     {
@@ -43,6 +43,18 @@ export const apnsSending = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides who a push goes to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which sort of push a send is, is the caller's to name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send naming no sort is an alert.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A live activity is the one other sort a send can be.",
     },
   ],
 } as const satisfies Module
