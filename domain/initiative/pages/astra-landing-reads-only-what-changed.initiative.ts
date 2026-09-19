@@ -16,7 +16,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "The gap tree an apply draws covers the pages its change names rather than every page there is.",
       workingMemory:
-        "`drawnFor` in `state-drawing.module.code.ts` is 4.01s of a 15,984ms landing, through `assembleGapTree` and `gapsIn` to `everyValue`, which reads every page value the index holds. Drawing the code editor's tree is no part of composing a commit.",
+        "Met where a landing moves no picture. `turnedIn` in `tree-turning.module.code.ts` answers from the change's paths and what they held, and `drawnFor` skips the shadow and every drawer it clears. A finding page mended went from 15,984ms to 12,112ms and from 451,892 write calls to 13,787, runs `01a0ba66-fe2f` and `01a0ba82-cbf6`. Left is the landing that does move one, which still reads every page.",
     },
     {
       statement:
