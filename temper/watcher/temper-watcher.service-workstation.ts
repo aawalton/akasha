@@ -76,7 +76,7 @@ export const temperWatcher = {
     "module/watcher-import-item-rule-verdicts",
     "module/watcher-import-sales",
     "module/watcher-import-tasks",
-    "module/watcher-inventory-snapshot-landing",
+    "module/watcher-inventory-landing",
     "module/watcher-log-line",
     "module/watcher-log-merging",
     "module/watcher-logging",

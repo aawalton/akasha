@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.test.ts"}
+{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.test.ts"}

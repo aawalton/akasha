@@ -766,7 +766,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/song-words/song-words.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts"}
@@ -3451,13 +3450,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-parity-trace/inventory-parity-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-rule-rows/inventory-rule-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/name-ordering/name-ordering.module.ts"}
@@ -6313,7 +6312,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-log-line/watcher-log-line.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.ts"}

@@ -11,7 +11,7 @@ import {
   scanTimestampOf,
   summaryLines,
 } from "akasha/temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts"
-import type { InventoryValues } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
+import type { InventoryValues } from "akasha/temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const COUNTS = { locationCount: 3, itemCount: 47 }

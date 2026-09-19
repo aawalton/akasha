@@ -10,6 +10,6 @@
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"}
-{"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/web/modules/use-temper-import/use-temper-import.module.code.ts"}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

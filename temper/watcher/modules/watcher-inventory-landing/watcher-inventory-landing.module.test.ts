@@ -17,7 +17,7 @@ import {
   locationRowsOf,
   placedFurnishingRowsOf,
   stackRowsOf,
-} from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"
 import type {
   ReadPages,
   WriteFiles,

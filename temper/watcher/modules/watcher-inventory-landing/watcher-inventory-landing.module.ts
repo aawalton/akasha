@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const watcherInventorySnapshotLanding = {
+export const watcherInventoryLanding = {
   id: "01a0a65d-ef8f-7a9e-b659-47f2639b391a",
   type: "page-type/module",
-  slug: "watcher-inventory-snapshot-landing",
+  slug: "watcher-inventory-landing",
   definition: "the row files an account's inventory is written as, rewritten on every reading",
   code: "ts",
   test: "ts",

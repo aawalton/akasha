@@ -38,6 +38,6 @@
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"}
-{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

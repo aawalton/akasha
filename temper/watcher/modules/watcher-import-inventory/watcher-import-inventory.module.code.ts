@@ -22,7 +22,7 @@ import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-ac
 import {
   type InventoryValues,
   landAccountInventory,
-} from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
