@@ -86,7 +86,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-relation-value-is-resolved-as-an-address-and-written-as-the-spelling-handed-in.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-relay-reports-success-carrying-a-reading-nothing-refreshed.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-keeps-a-parts-entry-in-place-so-a-sorted-list-can-stop-being-sorted.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-leaves-a-part-file-named-for-the-old-page.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-misses-a-page-named-through-an-ambiguous-record-key.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves.finding.ts"}
