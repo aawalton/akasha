@@ -24,5 +24,19 @@ export const catalogueHeld = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the network or writes a page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An artist the musicbrainz id finds nothing for is found by the slug that name makes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song is keyed by that id only where the song is the named artist's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A song of another artist under the same work is named, so no slug collides with it.",
+    },
   ],
 } as const satisfies Module

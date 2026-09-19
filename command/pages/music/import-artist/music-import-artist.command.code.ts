@@ -342,7 +342,7 @@ export async function gathered(
   )
   if ("refused" in composed) return composed
   const changes: Asking[] = [edited(composed.put)]
-  const catalogue = catalogueIn(root)
+  const catalogue = catalogueIn(root, named.slug)
   const songs = await songsAsked(held, reach, found, named.slug, catalogue, today)
   let songsWithLyrics = 0
   let songsLyricsUnread = 0

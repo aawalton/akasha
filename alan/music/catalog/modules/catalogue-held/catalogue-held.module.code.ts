@@ -26,24 +26,28 @@ export type Catalogue = {
 
 export type Named = { readonly slug: string; readonly was: Value }
 
-export function catalogueIn(root: string): Catalogue {
+export function catalogueIn(root: string, artistSlug: string): Catalogue {
+  const under = `${ARTIST}/${artistSlug}`
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
   for (const one of valuesOfType(root, SONG)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
-    const stated = one.value[IDENTITY]
-    rows.push({ slug, externalId: idFrom(stated, MUSICBRAINZ) })
+    const mine = textIn(one.value, "artist") === under
+    rows.push({ slug, externalId: mine ? idFrom(one.value[IDENTITY], MUSICBRAINZ) : null })
     held.set(slug, one.value)
   }
   return { names: catalogueNamesFrom(rows), held }
 }
 
 export function artistIn(root: string, mbid: string, name: string): Named {
+  const wanted = artistSlugOf(name)
+  let named: Named | null = null
   for (const one of valuesOfType(root, ARTIST)) {
-    if (!identityHeld(one.value[IDENTITY], mbid)) continue
     const slug = textIn(one.value, "slug")
-    if (slug !== null) return { slug, was: one.value }
+    if (slug === null) continue
+    if (identityHeld(one.value[IDENTITY], mbid)) return { slug, was: one.value }
+    if (slug === wanted) named = { slug, was: one.value }
   }
-  return { slug: artistSlugOf(name), was: {} }
+  return named ?? { slug: wanted, was: {} }
 }

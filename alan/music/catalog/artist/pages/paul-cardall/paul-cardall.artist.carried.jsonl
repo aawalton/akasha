@@ -1,6 +1,13 @@
-{"externalIdentity":[{"source":"musicbrainz","externalId":"b45ecac2-4e1e-48e4-8131-20b66bf3ae5e","externalLink":"https://musicbrainz.org/artist/b45ecac2-4e1e-48e4-8131-20b66bf3ae5e","lastSyncedAt":"2026-09-19"}]}
-{"genre":[]}
+{"externalIdentity":[{"source":"spotify","externalId":"7FQRbf8gbKw8KZQZAJWxH2","externalLink":"https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2","lastSyncedAt":"2026-09-18"},{"source":"musicbrainz","externalId":"b45ecac2-4e1e-48e4-8131-20b66bf3ae5e","externalLink":"https://musicbrainz.org/artist/b45ecac2-4e1e-48e4-8131-20b66bf3ae5e","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a06803-676c-7002-9bd6-18d8aef62a63"}
+{"ownLength":0}
+{"ownProgress":0}
+{"partOfCollections":["artist-collection/artists"]}
+{"position":0}
+{"rank":"B"}
 {"slug":"paul-cardall"}
+{"status":"following"}
+{"tags":["Instrumental"]}
 {"title":"Paul Cardall"}
 {"type":"page-type/artist"}
+{"unit":"unit/minutes"}

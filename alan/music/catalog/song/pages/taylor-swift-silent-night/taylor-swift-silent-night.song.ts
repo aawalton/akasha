@@ -13,7 +13,7 @@ export const taylorSwiftSilentNight = {
     },
   ],
   title: "Silent Night",
-  artist: "artist/paul-cardall",
+  artist: "artist/taylor-swift",
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
