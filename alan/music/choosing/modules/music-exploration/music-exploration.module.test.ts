@@ -17,7 +17,6 @@ function song(slug: string, artistSlug: string, fields: Partial<CatalogSong> = {
     slug,
     title: slug,
     artist: artistSlug,
-    songType: "original",
     performed: true,
     ...fields,
   }
@@ -58,15 +57,15 @@ describe("selectNextSong", () => {
     expect(selectNextSong(held, "queen")?.slug).toBe("queen-two")
   })
 
-  test("skips a song the artist did not write", () => {
+  test("offers a song whoever wrote it", () => {
     const held = catalog(
       [artist("queen")],
       [
-        song("queen-one", "queen", { title: "A Cover", songType: "derivative" }),
+        song("queen-one", "queen", { title: "A Cover" }),
         song("queen-two", "queen", { title: "B Own" }),
       ]
     )
-    expect(selectNextSong(held, "queen")?.slug).toBe("queen-two")
+    expect(selectNextSong(held, "queen")?.slug).toBe("queen-one")
   })
 
   test("skips a song the artist does not perform", () => {

@@ -57,10 +57,9 @@ test("a title holding no letter and no digit is filed as a song of its own", () 
   expect(songFiledFor(held, "sylvia-daley", "!!!")?.values?.["title"]).toBe("!!!")
 })
 
-test("a song filed this way states no external record and no song type", () => {
+test("a song filed this way states no external record", () => {
   const values = songValuesFor("sylvia-daley", "sylvia-daley-elf", "Elf")
   expect(values["externalIdentity"]).toBeUndefined()
-  expect(values["songType"]).toBeUndefined()
 })
 
 test("a title a song is filed under already names that song rather than filing another", () => {

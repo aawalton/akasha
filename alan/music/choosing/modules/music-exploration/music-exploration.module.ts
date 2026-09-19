@@ -10,11 +10,11 @@ export const musicExploration = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A song offered is a song the artist wrote themselves.",
+      statement: "A song offered is a song the artist performs.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A song offered is a song the artist performs.",
+      decisionKind: "decision-kind/absence",
+      statement: "Whose composition a song is settles nothing about offering that song.",
     },
     {
       decisionKind: "decision-kind/departure",

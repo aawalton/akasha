@@ -6,7 +6,6 @@ import type { LyricsSource } from "akasha/alan/music/catalog/song/properties/lyr
 import type { Performed } from "akasha/alan/music/catalog/song/properties/performed.boolean-property.types.ts"
 import type { PersonalConnections } from "akasha/alan/music/catalog/song/properties/personal-connections.file-property.types.ts"
 import type { Singability } from "akasha/alan/music/catalog/song/properties/singability.rank-property.types.ts"
-import type { SongType } from "akasha/alan/music/catalog/song/properties/song-type.select-property.types.ts"
 import type { SyncedLyrics } from "akasha/alan/music/catalog/song/properties/synced-lyrics.file-property.types.ts"
 import type { Written } from "akasha/alan/music/catalog/song/properties/written.select-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
@@ -14,7 +13,6 @@ import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 export type Song = CollectionExternal & {
   title: Title
   artist: Artist
-  songType?: SongType
   performed: Performed
   lyricsSource?: LyricsSource
   written?: Written

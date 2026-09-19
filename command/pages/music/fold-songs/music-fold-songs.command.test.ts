@@ -91,5 +91,5 @@ test("a page is written on where it states what a person judged of it", () => {
   expect(ownValued({ title: "Alive", singability: "S-" })).toBe(true)
   expect(ownValued({ title: "Alive", insights: "txt" })).toBe(true)
   expect(ownValued({ title: "Alive", rank: "S" })).toBe(true)
-  expect(ownValued({ title: "Alive", songType: "original", performed: true })).toBe(false)
+  expect(ownValued({ title: "Alive", written: "solo", performed: true })).toBe(false)
 })

@@ -26,7 +26,8 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A song page naming no type is read as a song the artist did not write.",
+      statement:
+        "A song page stating nothing performed is read as a song Alan holds no recording of.",
     },
     {
       decisionKind: "decision-kind/departure",

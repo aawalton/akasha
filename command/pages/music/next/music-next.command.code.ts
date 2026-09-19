@@ -28,8 +28,6 @@ const SONG = "song"
 
 const RANK = "rank"
 
-const SONG_TYPES = ["original", "derivative"] as const
-
 type Held = Record<string, unknown>
 
 type Named = {
@@ -58,11 +56,6 @@ function list(held: Held, key: string): readonly string[] {
 function rank(held: Held): MusicRating | undefined {
   const said = text(held, RANK)
   return MUSIC_RATINGS.find((step) => step === said)
-}
-
-function oneOf<T extends string>(held: Held, key: string, admitted: readonly T[]): T | undefined {
-  const said = text(held, key)
-  return admitted.find((one) => one === said)
 }
 
 export function undeclaredIn(root: string, pageTypeSlug: string): string | null {
@@ -95,7 +88,6 @@ function songIn(held: Held): CatalogSong {
     slug: text(held, "slug") ?? "",
     title: text(held, "title") ?? "",
     artist: named === undefined ? "" : slugOf(named),
-    songType: oneOf(held, "songType", SONG_TYPES) ?? "derivative",
     performed: held["performed"] === true,
     ...(graded === undefined ? {} : { rank: graded }),
   }

@@ -6,7 +6,6 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { SongType } from "akasha/alan/music/catalog/song/properties/song-type.select-property.types.ts"
 import type { Written } from "akasha/alan/music/catalog/song/properties/written.select-property.types.ts"
 import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
 import { compareKey } from "akasha/code/type/narrowing/modules/compare-key/compare-key.module.code.ts"
@@ -18,7 +17,7 @@ export type ArtistIdentity = NonNullable<Artist["externalIdentity"]>[number]
 
 export type SongFields = Pick<
   Song,
-  "title" | "artist" | "externalIdentity" | "songType" | "performed" | "written"
+  "title" | "artist" | "externalIdentity" | "performed" | "written"
 >
 
 export type DistinctRecording = {
@@ -35,17 +34,6 @@ function artistAddressOf(artistSlug: string): string {
 }
 
 const WRITER_REL_TYPES: ReadonlySet<string> = new Set(["writer", "composer", "lyricist"])
-
-const VERSION_REL_TYPES: ReadonlySet<string> = new Set([
-  "other version",
-  "based on",
-  "translated version",
-])
-
-const VERSION_KEYWORD_RE =
-  /\b(?:remix|live|acoustic|stripped|version|instrumental|demo|remaster|edit|mix)\b/i
-
-const BRACKETED_SEGMENT_RE = /[([]([^)\]]*)[)\]]/g
 
 const MUSICBRAINZ_BASE = "https://musicbrainz.org"
 
@@ -111,25 +99,6 @@ export function deriveWritten(work: MbWork, artistMbid: string): Written | null 
   }
   if (!writerIds.has(artistMbid)) return null
   return writerIds.size <= 1 ? "solo" : "collab"
-}
-
-export function deriveSongType(work: MbWork, written: Written | null): SongType | null {
-  const isAlternateVersion = work.relations.some(
-    (rel) =>
-      rel["target-type"] === "work" &&
-      rel.direction === "backward" &&
-      VERSION_REL_TYPES.has(rel.type)
-  )
-  if (isAlternateVersion) return "derivative"
-  return written === null ? null : "original"
-}
-
-export function deriveSongTypeFromTitle(title: string): SongType {
-  for (const match of title.matchAll(BRACKETED_SEGMENT_RE)) {
-    const segment = match[1]
-    if (segment != null && VERSION_KEYWORD_RE.test(segment)) return "derivative"
-  }
-  return "original"
 }
 
 export function performedWorkIds(recordings: readonly MbRecording[]): ReadonlySet<string> {
@@ -204,7 +173,6 @@ export function mbWorkToSongFields(args: {
   readonly today: string
 }): SongFields {
   const written = deriveWritten(args.work, args.artistMbid)
-  const songType = deriveSongType(args.work, written)
   return {
     title: args.work.title,
     artist: artistAddressOf(args.artistSlug),
@@ -216,7 +184,6 @@ export function mbWorkToSongFields(args: {
         lastSyncedAt: args.today,
       },
     ],
-    ...(songType !== null ? { songType } : {}),
     performed: args.performed,
     ...(written != null ? { written } : {}),
   }
@@ -239,7 +206,6 @@ export function mbRecordingToSongFields(args: {
         lastSyncedAt: args.today,
       },
     ],
-    songType: deriveSongTypeFromTitle(args.title),
     performed: true,
   }
 }
@@ -248,7 +214,7 @@ export function songIdIn(fields: SongFields): string | null {
   return idFrom(fields.externalIdentity, SOURCE)
 }
 
-const JUDGED = ["songType", "written"] as const
+const JUDGED = ["written"] as const
 
 export function songValuesOver(held: Value, fields: SongFields): Value {
   const rest: Value = { ...held }

@@ -46,16 +46,12 @@ export const musicbrainzMap = {
       statement: "A work naming the artist among several writers is written `collab`.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A work naming the artist as no writer of the work states no song type.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Naming no writer of a work is no record that another wrote the work.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A work made from another work is derivative whoever is named writer of it.",
+      decisionKind: "decision-kind/absence",
+      statement: "A work made from another work is read no differently from any other work.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -74,8 +70,8 @@ export const musicbrainzMap = {
       statement: "A recording with no title is dropped.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A recording whose title brackets a word like `remix` or `live` is derivative.",
+      decisionKind: "decision-kind/absence",
+      statement: "A word a recording's title brackets says nothing here, because a track says it.",
     },
     {
       decisionKind: "decision-kind/departure",

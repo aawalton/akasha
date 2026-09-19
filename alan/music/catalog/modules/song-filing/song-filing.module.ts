@@ -34,10 +34,7 @@ export const songFiling = {
       decisionKind: "decision-kind/absence",
       statement: "A song filed this way states no external record.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A song filed this way states no song type.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No song is filed under an artist who has no page.",

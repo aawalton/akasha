@@ -14,14 +14,13 @@ export const song = {
     "file-property/synced-lyrics",
     "rank-property/singability",
     "relation-property/artist",
-    "select-property/song-type",
     "select-property/written",
     "text-property/lyrics-source",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/artist", required: true, many: false },
-    { pageProperty: "select-property/song-type", required: false, many: false },
+
     { pageProperty: "boolean-property/performed", required: true, many: false },
     { pageProperty: "text-property/lyrics-source", required: false, many: false },
     { pageProperty: "select-property/written", required: false, many: false },
@@ -38,7 +37,7 @@ export const song = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A song whose writer nothing names states no song type.",
+      statement: "A song says nothing of the kind of recording it is, because a track says that.",
     },
     {
       decisionKind: "decision-kind/departure",

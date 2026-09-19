@@ -30,28 +30,9 @@ const CATALOG: Catalog = {
     { slug: "unknown-one", title: "Unknown One", genre: ["pop"] },
   ],
   songs: [
-    {
-      slug: "loved-one-heard",
-      title: "Heard",
-      artist: "loved-one",
-      songType: "original",
-      performed: true,
-      rank: "A",
-    },
-    {
-      slug: "loved-one-unheard",
-      title: "Unheard",
-      artist: "loved-one",
-      songType: "original",
-      performed: true,
-    },
-    {
-      slug: "unknown-one-first",
-      title: "First",
-      artist: "unknown-one",
-      songType: "original",
-      performed: true,
-    },
+    { slug: "loved-one-heard", title: "Heard", artist: "loved-one", performed: true, rank: "A" },
+    { slug: "loved-one-unheard", title: "Unheard", artist: "loved-one", performed: true },
+    { slug: "unknown-one-first", title: "First", artist: "unknown-one", performed: true },
   ],
 }
 

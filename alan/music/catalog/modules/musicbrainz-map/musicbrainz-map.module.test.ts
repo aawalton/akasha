@@ -1,8 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
   dedupeRecordings,
-  deriveSongType,
-  deriveSongTypeFromTitle,
   deriveWritten,
   extractGenres,
   identityHeld,
@@ -162,56 +160,18 @@ describe("deriveWritten", () => {
   })
 })
 
-describe("deriveSongType", () => {
-  test("states nothing where nothing names who wrote it", () => {
-    expect(deriveSongType(work("w1", "Song"), null)).toBeNull()
-  })
-
-  test("is derivative where a work nobody names a writer of is a version of another", () => {
-    const held = work("w1", "Song", [versionRel("other version", "backward")])
-    expect(deriveSongType(held, null)).toBe("derivative")
-  })
-
-  test("is original where the artist wrote it and it is no version of another", () => {
-    expect(deriveSongType(work("w1", "Song", [writerRel(QUEEN)]), "solo")).toBe("original")
-  })
-
-  test("is derivative where the work is another version of an earlier work", () => {
-    const held = work("w1", "Song", [versionRel("other version", "backward")])
-    expect(deriveSongType(held, "solo")).toBe("derivative")
-  })
-
-  test("is derivative where the work is based on an earlier work", () => {
-    const held = work("w1", "Song", [versionRel("based on", "backward")])
-    expect(deriveSongType(held, "collab")).toBe("derivative")
-  })
-
-  test("is original where the earlier work points forward at this one", () => {
-    const held = work("w1", "Song", [versionRel("other version", "forward")])
-    expect(deriveSongType(held, "solo")).toBe("original")
-  })
-})
-
-describe("deriveSongTypeFromTitle", () => {
-  test("is original where the title brackets nothing", () => {
-    expect(deriveSongTypeFromTitle("Bohemian Rhapsody")).toBe("original")
-  })
-
-  test("is derivative where a round bracket holds a version word", () => {
-    expect(deriveSongTypeFromTitle("Under Pressure (Live)")).toBe("derivative")
-    expect(deriveSongTypeFromTitle("Under Pressure (2011 Remaster)")).toBe("derivative")
-  })
-
-  test("is derivative where a square bracket holds a version word", () => {
-    expect(deriveSongTypeFromTitle("Under Pressure [Acoustic Version]")).toBe("derivative")
-  })
-
-  test("is original where the version word sits outside every bracket", () => {
-    expect(deriveSongTypeFromTitle("Live and Let Die")).toBe("original")
-  })
-
-  test("is original where the bracket holds no version word", () => {
-    expect(deriveSongTypeFromTitle("Killer Queen (feat. Someone)")).toBe("original")
+describe("a work made from another work", () => {
+  test("is read no differently from any other work", () => {
+    const held = work("w1", "Song", [versionRel("other version", "backward"), writerRel(QUEEN)])
+    const fields = mbWorkToSongFields({
+      work: held,
+      artistSlug: "queen",
+      artistMbid: QUEEN,
+      performed: true,
+      today: "2026-09-02",
+    })
+    expect(fields.written).toBe("solo")
+    expect("songType" in fields).toBe(false)
   })
 })
 
@@ -352,7 +312,6 @@ describe("mbWorkToSongFields", () => {
           lastSyncedAt: "2026-09-02",
         },
       ],
-      songType: "original",
       performed: true,
       written: "solo",
     })
@@ -380,7 +339,7 @@ describe("mbWorkToSongFields", () => {
     expect(fields.title).toBe("Ég Anda")
   })
 
-  test("names neither a written field nor a song type where nothing names a writer", () => {
+  test("names no written field where nothing names a writer", () => {
     const fields = mbWorkToSongFields({
       work: work("w1", "Someone Else's Song"),
       artistSlug: "queen",
@@ -389,7 +348,6 @@ describe("mbWorkToSongFields", () => {
       today: "2026-09-02",
     })
     expect("written" in fields).toBe(false)
-    expect("songType" in fields).toBe(false)
   })
 })
 
@@ -398,11 +356,6 @@ describe("songValuesOver", () => {
     title: "Yellow",
     artist: "artist/queen",
     performed: true,
-  })
-
-  test("clears a song type the run states nothing under", () => {
-    const held = { slug: "queen-yellow", songType: "derivative", performed: true }
-    expect("songType" in songValuesOver(held, fields())).toBe(false)
   })
 
   test("clears a written the run states nothing under", () => {
@@ -417,16 +370,16 @@ describe("songValuesOver", () => {
     expect(values["tags"]).toEqual(["night"])
   })
 
-  test("takes the song type this run states", () => {
-    const held = { slug: "queen-yellow", songType: "derivative" }
-    const values = songValuesOver(held, { ...fields(), songType: "original" })
-    expect(values["songType"]).toBe("original")
-    expect(held.songType).toBe("derivative")
+  test("takes the written this run states", () => {
+    const held = { slug: "queen-yellow", written: "collab" }
+    const values = songValuesOver(held, { ...fields(), written: "solo" })
+    expect(values["written"]).toBe("solo")
+    expect(held.written).toBe("collab")
   })
 })
 
 describe("mbRecordingToSongFields", () => {
-  test("answers a performed song with the type its title says", () => {
+  test("answers a performed song titled as the recording is titled", () => {
     expect(
       mbRecordingToSongFields({
         title: "Under Pressure (Live)",
@@ -445,15 +398,12 @@ describe("mbRecordingToSongFields", () => {
           lastSyncedAt: "2026-09-02",
         },
       ],
-      songType: "derivative",
       performed: true,
     })
   })
 
   test("a song holding no record of musicbrainz answers no id", () => {
-    expect(
-      songIdIn({ title: "Held", artist: "queen", songType: "original", performed: true })
-    ).toBeNull()
+    expect(songIdIn({ title: "Held", artist: "queen", performed: true })).toBeNull()
   })
 
   test("keeps a title written in no Latin letter", () => {

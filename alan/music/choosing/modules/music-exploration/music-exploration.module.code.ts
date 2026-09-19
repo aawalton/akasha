@@ -8,10 +8,7 @@ import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.mod
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rank">
 
-export type CatalogSong = Pick<
-  Song,
-  "slug" | "title" | "artist" | "songType" | "performed" | "rank"
->
+export type CatalogSong = Pick<Song, "slug" | "title" | "artist" | "performed" | "rank">
 
 export type Catalog = {
   readonly artists: readonly CatalogArtist[]
@@ -44,8 +41,8 @@ function byTitleThenSlug(a: Named, b: Named): number {
   return a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0
 }
 
-function isRecordedOriginal(song: CatalogSong): boolean {
-  return song.songType === "original" && song.performed
+function isRecorded(song: CatalogSong): boolean {
+  return song.performed
 }
 
 function artistSlugOf(song: CatalogSong): string {
@@ -54,7 +51,7 @@ function artistSlugOf(song: CatalogSong): string {
 
 export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSong | null {
   const recorded = catalog.songs
-    .filter((song) => artistSlugOf(song) === artistSlug && isRecordedOriginal(song))
+    .filter((song) => artistSlugOf(song) === artistSlug && isRecorded(song))
     .sort(byTitleThenSlug)
   const graded = new Set<string>()
   const offered = new Map<string, CatalogSong>()

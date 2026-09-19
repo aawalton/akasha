@@ -209,7 +209,7 @@ test("an artist filed under no work is read from their recordings", async () => 
   expect(found.said.derivedFrom).toBe("recordings")
   expect(found.said.songsWritten).toBe(2)
   const liveAt = `alan/music/catalog/song/pages/${ARTIST_SLUG}-bare-probe-live/${ARTIST_SLUG}-bare-probe-live.song.ts`
-  expect(bodyAt(found, liveAt)).toContain(`songType: "derivative"`)
+  expect(bodyAt(found, liveAt)).not.toContain("songType")
 })
 
 function catalogueOf(slug: string, title: string): Catalogue {
@@ -233,7 +233,6 @@ function fieldsOf(id: string, title: string) {
         lastSyncedAt: TODAY,
       },
     ],
-    songType: "original",
     performed: true,
   } as const
 }

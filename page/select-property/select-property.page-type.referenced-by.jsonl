@@ -33,7 +33,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/reading/scripture-passage/properties/scripture-translation.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/watching/episode/properties/episode-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/watching/properties/production-status.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/song/properties/song-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/song/properties/written.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-category.select-property.ts"}
