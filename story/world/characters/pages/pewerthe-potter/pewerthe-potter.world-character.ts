@@ -1,0 +1,15 @@
+import type { WorldCharacter } from "akasha/story/world/characters/world-character.page-type.types.ts"
+
+export const pewerthePotter = {
+  id: "01a06580-2495-7325-abc0-fdbe29296928",
+  type: "page-type/world-character",
+  slug: "pewerthe-potter",
+  title: "Pewerthe",
+  world: "world/the-wandering-inn",
+  maxLevel: 47,
+  eventCount: 6,
+  firstChapter: 809,
+  lastChapter: 809,
+  characterClaims: "jsonl",
+  aliasOf: "world-character/pewerthe",
+} as const satisfies WorldCharacter

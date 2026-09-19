@@ -146,8 +146,8 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter-written/properties/written-chapter-story.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/element-played/properties/played-story.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/played/properties/world.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world-character/properties/alias-of.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world-character/properties/merged-into.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/alias-of.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/merged-into.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/temper-companion/skill/properties/special-effect.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/temper-world/temper-dungeon/properties/quest-giver.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/character/temper-account-character/properties/character-roles.relation-property.types.ts"}

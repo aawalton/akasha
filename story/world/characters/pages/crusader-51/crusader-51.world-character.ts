@@ -1,0 +1,14 @@
+import type { WorldCharacter } from "akasha/story/world/characters/world-character.page-type.types.ts"
+
+export const crusader51 = {
+  id: "01a06580-2494-7719-88fa-8218c6f4c1f7",
+  type: "page-type/world-character",
+  slug: "crusader-51",
+  title: "Crusader 51",
+  world: "world/the-wandering-inn",
+  maxLevel: 25,
+  eventCount: 23,
+  firstChapter: 561,
+  lastChapter: 561,
+  characterClaims: "jsonl",
+} as const satisfies WorldCharacter

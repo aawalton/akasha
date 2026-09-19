@@ -21,7 +21,6 @@ export const story = {
     "page-type/story-turn-played",
     "page-type/story-written",
     "page-type/world",
-    "page-type/world-character",
     "page-type/world-mechanic",
   ],
   decisions: [

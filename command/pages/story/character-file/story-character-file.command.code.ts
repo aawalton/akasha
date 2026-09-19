@@ -18,7 +18,7 @@ import {
   FilingRefused,
   fileCharacters,
   type Landed,
-} from "akasha/story/world-character/modules/character-filing/character-filing.module.code.ts"
+} from "akasha/story/world/characters/modules/character-filing/character-filing.module.code.ts"
 
 const NAMED = [readingsDirArgument, batchArgument] as const
 

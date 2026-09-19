@@ -97,9 +97,9 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/played/story-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/read/story-read.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world-character/world-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world-mechanic/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/designs/story-design.page-type.types.ts"}
@@ -210,9 +210,9 @@
 {"propertySlug":"page-property","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"page-property","path":"story/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"page-property","path":"story/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
-{"propertySlug":"page-property","path":"story/world-character/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"page-property","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
+{"propertySlug":"page-property","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"page-property","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"page-property","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"page-property","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}

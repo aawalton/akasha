@@ -101,9 +101,9 @@
 {"propertySlug":"extends-type","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
 {"propertySlug":"extends-type","path":"story/element-played/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"propertySlug":"extends-type","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
-{"propertySlug":"extends-type","path":"story/world-character/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"extends-type","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"extends-type","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
+{"propertySlug":"extends-type","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"extends-type","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"extends-type","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"extends-type","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
@@ -240,9 +240,9 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/element-played/story-element-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world-character/world-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world-mechanic/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/designs/story-design.page-type.types.ts"}

@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world/characters/world-character.page-type.types.ts"
+
+export const eldavinTeriarch = {
+  id: "01a0b70a-2636-7630-a971-e098ca7fd475",
+  type: "page-type/world-character",
+  slug: "eldavin-teriarch",
+  title: "Eldavin",
+  world: "world/the-wandering-inn",
+  firstChapter: 496,
+  lastChapter: 501,
+  characterClaims: "jsonl",
+  aliasOf: "world-character/teriarch",
+} as const satisfies WorldCharacter

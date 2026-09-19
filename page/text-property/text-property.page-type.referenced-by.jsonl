@@ -389,11 +389,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/themes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/tone.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/read/properties/external-tags.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/claim-field.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/claim-value.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/claimed-by.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/epistemic.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-character/properties/source-chapter.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/aliases.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/chapter-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/claimed-by-slug.text-property.ts"}
@@ -409,6 +404,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/wording.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/class-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/game-system.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claim-field.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claim-value.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claimed-by.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/epistemic.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/source-chapter.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/decisions/properties/chosen.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/decisions/properties/decision-effect.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/decisions/properties/decision-options.text-property.ts"}

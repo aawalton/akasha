@@ -1,0 +1,14 @@
+import type { WorldCharacter } from "akasha/story/world/characters/world-character.page-type.types.ts"
+
+export const genevaScala = {
+  id: "01a06580-2494-7a9c-860b-30b005a50252",
+  type: "page-type/world-character",
+  slug: "geneva-scala",
+  title: "Geneva Scala",
+  world: "world/the-wandering-inn",
+  maxLevel: 37,
+  eventCount: 18,
+  firstChapter: 130,
+  lastChapter: 776,
+  characterClaims: "jsonl",
+} as const satisfies WorldCharacter

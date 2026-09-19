@@ -1,0 +1,14 @@
+import type { WorldCharacter } from "akasha/story/world/characters/world-character.page-type.types.ts"
+
+export const vernoueDuMarquin = {
+  id: "01a06580-2495-7893-8762-183f54660b22",
+  type: "page-type/world-character",
+  slug: "vernoue-du-marquin",
+  title: "Princess Vernoue du Marquin",
+  world: "world/the-wandering-inn",
+  maxLevel: 28,
+  eventCount: 4,
+  firstChapter: 774,
+  lastChapter: 774,
+  characterClaims: "jsonl",
+} as const satisfies WorldCharacter

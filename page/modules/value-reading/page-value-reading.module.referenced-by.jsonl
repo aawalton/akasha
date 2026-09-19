@@ -305,7 +305,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world-character/modules/character-filing/character-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}

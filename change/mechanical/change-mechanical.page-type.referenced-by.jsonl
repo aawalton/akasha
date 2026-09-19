@@ -80,7 +80,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"story/world-character/modules/character-filing/character-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"}

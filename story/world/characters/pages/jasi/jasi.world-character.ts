@@ -1,0 +1,14 @@
+import type { WorldCharacter } from "akasha/story/world/characters/world-character.page-type.types.ts"
+
+export const jasi = {
+  id: "01a06580-2494-74e7-a5ee-e93546e37102",
+  type: "page-type/world-character",
+  slug: "jasi",
+  title: "Jasi",
+  world: "world/the-wandering-inn",
+  maxLevel: 25,
+  eventCount: 4,
+  firstChapter: 141,
+  lastChapter: 458,
+  characterClaims: "jsonl",
+} as const satisfies WorldCharacter
