@@ -7,7 +7,6 @@ export const story = {
   definition: "worlds and their stories, kept true to each other",
   parts: [
     "domain/narrative-production",
-    "domain/narrative-story-turn-promotion",
     "domain/story-engine",
     "domain/ui",
     "domain/wandering-inn",

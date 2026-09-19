@@ -3202,11 +3202,11 @@
 {"propertySlug":"decision-kind","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
 {"propertySlug":"decision-kind","path":"story/engine/doctrine/properties/doctrine-version.number-property.ts","id":"01a06590-c57a-7735-8352-d549372de788"}
 {"propertySlug":"decision-kind","path":"story/engine/doctrine/properties/policies.file-property.ts","id":"01a06590-c57a-759d-9dcc-73c83dba1a1a"}
+{"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"decision-kind","path":"story/named-event/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
-{"propertySlug":"decision-kind","path":"story/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
 {"propertySlug":"decision-kind","path":"story/played/modules/played-panels/played-panels.module.ts","id":"01a0a163-2e7c-7f18-9a60-4d82b5e1c03f"}
