@@ -5,7 +5,7 @@ export const typecheck = {
   type: "page-type/check-code",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
-  parts: ["module/page-narrowing"],
+  parts: ["module/page-narrowing", "module/program-naming"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -91,18 +91,6 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every declaration file akasha has is compiled with every change.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A declaration file states globals no import reaches.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A declaration file the change reaches is judged as any other file is judged.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A file another config compiles is compiled by that config rather than here.",
     },
     {
@@ -112,10 +100,6 @@ export const typecheck = {
     {
       decisionKind: "decision-kind/departure",
       statement: "One program is built for a set of changes however many files that set holds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The program is built over the files judged and the declarations alone.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -241,20 +225,7 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A change taking away a file no import reaches and rooting nothing has the declarations judged.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Judging those costs no compiling, the program holding them already.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A lua runtime library the change moves is found where that change leaves it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A declaration file the change moves is found where that change leaves it.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -187,6 +187,8 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/typecheck/modules/program-naming/program-naming.module.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/typecheck/modules/program-naming/program-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}

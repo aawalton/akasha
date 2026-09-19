@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/modules/program-naming/program-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-naming/code-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-naming/code-naming.module.test-fixtures.ts"}

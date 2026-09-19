@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/typecheck/modules/program-naming/program-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}

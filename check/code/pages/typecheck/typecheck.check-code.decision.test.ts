@@ -18,8 +18,6 @@ import {
   breaking,
   CHAINED,
   calling,
-  DECLARED_AT,
-  declared,
   declaring,
   deep,
   FIRST_OF,
@@ -42,11 +40,9 @@ import {
   pairing,
   READER_AT,
   READS_GONE,
-  RELYING_AT,
   RENUMBERED,
   reached,
   reading,
-  relying,
   TWO_BREAKS,
   twinned,
   unindexed,
@@ -92,30 +88,6 @@ test("a page the change takes away leaves what its page type says loads it uncom
   if ("refused" in cast) throw new Error(cast.refused)
   expect(rootsOf(gone, cast.shadow)).toEqual([])
   expect(await refusalsOver(gone, cast.shadow)).toEqual([])
-})
-
-test("a declaration file akasha holds names a global for a change no import reaches it from", async () => {
-  const root = declared({ "akasha/one.ts": "export const one = 1\n" })
-  expect(await over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
-})
-
-test("a declaration file the change carries is judged, so a fault inside it is refused", async () => {
-  const root = declared({})
-  const said = await over(root, DECLARED_AT, "declare const HELD_ONE: number = 1\n")
-  expect(said.map((one) => one.path)).toEqual([DECLARED_AT])
-  expect(said[0]?.reason).toContain("TS1039")
-})
-
-test("a declaration file the change takes away is judged, so one relying on its global is refused", async () => {
-  const said = await over(relying(), DECLARED_AT, null)
-  expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe(RELYING_AT)
-  expect(said[0]?.reason).toContain("TS2304")
-})
-
-test("that declaration going beside a file to root judges the file and not the declarations", async () => {
-  const at = { [DECLARED_AT]: null, "akasha/apart.ts": "export const apart = 1\n" }
-  expect(await judged(change(relying(), at))).toEqual([])
 })
 
 test("what a config's include names is read as a pattern rather than as plain text", () => {

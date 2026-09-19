@@ -4,6 +4,7 @@ import {
   type Minting,
   mintingIn,
 } from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
+import { namingOf } from "akasha/check/code/pages/typecheck/modules/program-naming/program-naming.module.code.ts"
 import {
   holdingOver,
   textNamed,
@@ -12,7 +13,6 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { lua50Config } from "akasha/code/lua-runtime-library/properties/lua50-config.file-property.ts"
 import { universalConfig } from "akasha/code/lua-runtime-library/properties/universal-config.file-property.ts"
-
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   compiled,
@@ -39,8 +39,6 @@ const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 const TYPEGEN = "+types"
 
 const GENERATED_AT = "/.react-router/"
-
-const DECLARED = ".d.ts"
 
 const LIBRARY = "lua-runtime-library"
 
@@ -127,13 +125,6 @@ export function orphanedIn(change: Change, index: Answering): readonly string[] 
   if (gone.length === 0) return []
   const held = closureOf(importers, gone, { index, through: compiled })
   return held.some((one) => change.after(one) !== null) ? [] : gone
-}
-
-function declaringIn(change: Change, shadow: Shadow): readonly string[] {
-  const held = new Set([...shadow.listed(), ...change.changed])
-  return [...held].filter(
-    (one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null
-  )
 }
 
 function bodiesOf(
@@ -269,9 +260,7 @@ async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]>
   const beside = shadow.index.manifestsBeside(shadow.index.fileKeysAt())
   const manifests = [...new Set([...beside, ...change.changed])]
   const placed = placingOver(manifests, (one) => textOf(change.after(one)))
-  const declared = declaringIn(change, shadow).filter((one) => !claimed(one))
-  const named = [...new Set([...roots, ...declared])]
-  const asked = roots.length === 0 && orphaned.length > 0 ? named : roots
+  const { named, asked } = namingOf(change, shadow, roots, orphaned, claimed)
   if (asked.length === 0) return []
   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
   const at = join(root, CONFIG_NAME)
