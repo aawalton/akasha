@@ -13,6 +13,12 @@ import Foundation
 //
 // Which color a word draws is the extension's to say, and saying it here would pull the
 // whole drawing into the app target, which starts the activity and draws none of it.
+//
+// THE INSTANT IS CARRIED AS TEXT RATHER THAN AS A DATE.
+//
+// A push arrives as content ActivityKit decodes itself, with a decoder this code never
+// reaches, and what a Date decodes from is that decoder's to choose. Text decodes the same
+// whichever choice it made, so the reading pushed and the reading handed over are one shape.
 
 struct ActivityStoplight: Codable, Hashable, Identifiable {
     let key: String
@@ -30,7 +36,7 @@ struct StoplightsAttributes: ActivityAttributes {
         let upkeep: [ActivityStoplight]
         let inboxes: [ActivityStoplight]
         let attributes: [ActivityStoplight]
-        let takenAt: Date
+        let takenAt: String
     }
 }
 

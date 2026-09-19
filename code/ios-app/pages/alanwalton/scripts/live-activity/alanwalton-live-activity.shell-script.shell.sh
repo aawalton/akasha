@@ -80,9 +80,7 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
 
     private func contentIn(_ call: CAPPluginCall) -> StoplightsAttributes.ContentState? {
         guard let said = call.getString("content") else { return nil }
-        let reader = JSONDecoder()
-        reader.dateDecodingStrategy = .iso8601
-        return try? reader.decode(
+        return try? JSONDecoder().decode(
             StoplightsAttributes.ContentState.self, from: Data(said.utf8))
     }
 

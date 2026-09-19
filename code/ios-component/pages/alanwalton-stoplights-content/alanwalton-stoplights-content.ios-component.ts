@@ -23,5 +23,13 @@ export const alanwaltonStoplightsContent = {
       decisionKind: "decision-kind/departure",
       statement: "The groups are carried apart, since the lock screen keeps them apart.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The instant a reading was taken is carried as text.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "ActivityKit decodes a pushed reading with a decoder no code here reaches.",
+    },
   ],
 } as const satisfies IosComponent
