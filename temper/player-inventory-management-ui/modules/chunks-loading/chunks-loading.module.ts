@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const chunksLoading = {
-  id: "01a0636c-5d97-7d82-846f-902e53670007",
-  type: "page-type/module",
-  slug: "chunks-loading",
-  definition: "whether an inventory's chunks are still arriving",
-  code: "ts",
-} as const satisfies Module

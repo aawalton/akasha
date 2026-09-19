@@ -4355,7 +4355,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-addon/modules/inventory-writ-toggles/inventory-writ-toggles.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/assemble-inventory/assemble-inventory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/backpack-settings-types/backpack-settings-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/capture-instant/capture-instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.ts"}
@@ -5999,7 +5998,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/character-target-select/character-target-select.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/chunks-loading/chunks-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.ts"}

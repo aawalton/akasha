@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/combat-addon/modules/combat-categories/combat-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/combat-addon/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/items-core/modules/assemble-inventory/assemble-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/items-core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}

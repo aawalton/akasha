@@ -6,7 +6,6 @@ export const temperItemsCore = {
   slug: "temper-items-core",
   definition: "what an item is, read off what the game hands out about it",
   parts: [
-    "module/assemble-inventory",
     "module/backpack-settings-types",
     "module/classify-item",
     "module/classify-item-node-ids",

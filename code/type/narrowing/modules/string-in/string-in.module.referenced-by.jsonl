@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/capture-datamining-addon/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/errors-addon/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"}
-{"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/items-core/modules/assemble-inventory/assemble-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}

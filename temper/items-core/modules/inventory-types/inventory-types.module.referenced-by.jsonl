@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-addon/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-core/modules/assemble-inventory/assemble-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-core/modules/inventory-currencies/inventory-currencies.module.code.ts"}

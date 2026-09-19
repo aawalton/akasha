@@ -13,7 +13,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/affected-items-views",
     "module/buy-rule-card",
     "module/character-target-select",
-    "module/chunks-loading",
     "module/companion-target-select",
     "module/comparison-op-picker",
     "module/deconstruct-scope-select",
