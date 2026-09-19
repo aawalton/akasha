@@ -188,7 +188,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}

@@ -231,7 +231,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/run/upscale-run.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/srpo/upscale-srpo.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/up/upscale-up.shell-script.scripting.code.ts"}

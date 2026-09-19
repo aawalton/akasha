@@ -130,7 +130,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.test.ts"}

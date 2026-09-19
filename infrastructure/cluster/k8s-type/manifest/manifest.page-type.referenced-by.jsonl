@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/git-transport/janitor/git-transport-janitor.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/git-transport/manifests/git-transport-manifests.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/job/deploy-account/deploy-account.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/job/pod-janitor/pod-janitor.manifest.ts"}
