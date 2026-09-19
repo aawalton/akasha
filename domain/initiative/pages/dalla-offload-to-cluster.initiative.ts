@@ -7,7 +7,6 @@ export const dallaOffloadToCluster = {
   domain: "domain/infrastructure",
   persona: "persona/dalla",
   intentStack: [
-    { statement: "Every manifest is part of one service." },
     {
       statement:
         "A namespace is named for one service and holds that service with the satellites of that service.",
