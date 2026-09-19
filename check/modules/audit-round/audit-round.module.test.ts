@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import type { Verdicts } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
   type After,
+  answeredBy,
   answeredIn,
+  latestOf,
   merged,
   owedCarrying,
   satisfying,
@@ -10,6 +12,7 @@ import {
   type Turned,
   turnedIn,
   type Underway,
+  type Waiting,
 } from "akasha/check/modules/audit-round/audit-round.module.code.ts"
 import { gathered } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
@@ -68,6 +71,40 @@ const sameCommit: After = (_root, asked, ran) => Promise.resolve(asked === ran)
 const laterCommit: After = (_root, asked, ran) => Promise.resolve(asked === "abc" && ran === "def")
 
 const noCommit: After = () => Promise.resolve(false)
+
+const CHAIN = ["a", "b", "c"]
+
+const inChain: After = (_root, commit, ran) =>
+  Promise.resolve(CHAIN.indexOf(commit) <= CHAIN.indexOf(ran))
+
+function waiting(commit: string, checks: readonly string[]): Waiting {
+  return {
+    commit,
+    checks,
+    told: Promise.resolve(NOTHING),
+    settle: () => undefined,
+    broke: () => undefined,
+  }
+}
+
+test("the round after those waiting runs at the latest commit they named", async () => {
+  expect(await latestOf("/r", ["a", "c", "b"], inChain)).toBe("c")
+  expect(await latestOf("/r", ["b"], inChain)).toBe("b")
+})
+
+test("the latest is the one the most of those waiting are at or before", async () => {
+  const apart: After = (_root, commit, ran) =>
+    Promise.resolve(commit === ran || (commit === "a" && ran === "b"))
+  expect(await latestOf("/r", ["a", "b", "x"], apart)).toBe("b")
+})
+
+test("a request the round's commit satisfies is taken, and one it does not waits", async () => {
+  const one = waiting("a", ["no-class"])
+  const two = waiting("c", ["lint-clean"])
+  const split = await answeredBy("/r", "b", [one, two], inChain)
+  expect(split.now).toEqual([one])
+  expect(split.later).toEqual([two])
+})
 
 test("a round underway at the commit a request names satisfies that request", async () => {
   const running = underway(CHECKS)

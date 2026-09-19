@@ -156,6 +156,115 @@ export async function satisfying(
   return found
 }
 
+export type Waiting = {
+  readonly checks: readonly string[]
+  readonly commit: string
+  readonly told: Promise<Turned>
+  readonly settle: (turned: Turned) => undefined
+  readonly broke: (why: unknown) => undefined
+}
+
+const PENDING: Waiting[] = []
+
+let turning: Promise<undefined> | null = null
+
+export async function latestOf(
+  root: string,
+  commits: readonly string[],
+  after: After = atOrAfter
+): Promise<string> {
+  const each = [...new Set(commits)]
+  let latest = each[0] ?? ""
+  let most = -1
+  for (const one of each) {
+    let held = 0
+    for (const two of each) if (await after(root, two, one)) held += 1
+    if (held > most) {
+      latest = one
+      most = held
+    }
+  }
+  return latest
+}
+
+export type Taken = { readonly now: readonly Waiting[]; readonly later: readonly Waiting[] }
+
+export async function answeredBy(
+  root: string,
+  at: string,
+  held: readonly Waiting[],
+  after: After = atOrAfter
+): Promise<Taken> {
+  const now: Waiting[] = []
+  const later: Waiting[] = []
+  for (const one of held) {
+    if (await after(root, one.commit, at)) now.push(one)
+    else later.push(one)
+  }
+  return { now, later }
+}
+
+async function turnedOver(
+  root: string,
+  taken: readonly Waiting[],
+  send: Sent,
+  to: string | null
+): Promise<undefined> {
+  const at = await latestOf(
+    root,
+    taken.map((one) => one.commit)
+  )
+  const split = await answeredBy(root, at, taken)
+  PENDING.push(...split.later)
+  const checks = [...new Set(split.now.flatMap((one) => one.checks))]
+  const told = roundTold(root, checks, at, send, to)
+  const mine: Underway = { checks: new Set(checks), told }
+  underway.set(at, [...(underway.get(at) ?? []), mine])
+  try {
+    const turned = await told
+    for (const one of split.now) one.settle(turned)
+  } catch (thrown) {
+    for (const one of split.now) one.broke(thrown)
+  } finally {
+    without(at, mine)
+  }
+}
+
+async function turningOn(root: string, send: Sent, to: string | null): Promise<undefined> {
+  for (;;) {
+    const taken = PENDING.splice(0, PENDING.length)
+    if (taken.length === 0) {
+      turning = null
+      return
+    }
+    await turnedOver(root, taken, send, to)
+  }
+}
+
+function queued(
+  root: string,
+  checks: readonly string[],
+  commit: string,
+  send: Sent,
+  to: string | null
+): Promise<Turned> {
+  let settle: (turned: Turned) => undefined = () => undefined
+  let broke: (why: unknown) => undefined = () => undefined
+  const told = new Promise<Turned>((keep, drop) => {
+    settle = (turned) => {
+      keep(turned)
+      return undefined
+    }
+    broke = (why) => {
+      drop(why)
+      return undefined
+    }
+  })
+  PENDING.push({ checks, commit, told, settle, broke })
+  if (turning === null) turning = turningOn(root, send, to)
+  return told
+}
+
 export async function roundJoined(
   root: string,
   named: readonly string[],
@@ -167,14 +276,8 @@ export async function roundJoined(
   const split = splitting(await satisfying(root, commit, underway), checks)
   const waited = split.joined.map((one) => one.told)
   if (split.left.length === 0) return merged(await Promise.all(waited), checks)
-  const told = roundTold(root, split.left, commit, send, to)
-  const mine: Underway = { checks: new Set(split.left), told }
-  underway.set(commit, [...(underway.get(commit) ?? []), mine])
-  try {
-    return merged(await Promise.all([...waited, told]), checks)
-  } finally {
-    without(commit, mine)
-  }
+  const mine = queued(root, split.left, commit, send, to)
+  return merged(await Promise.all([...waited, mine]), checks)
 }
 
 export async function roundTold(

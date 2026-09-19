@@ -32,17 +32,44 @@ export const auditRound = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A request naming a check no round underway covers opens a round over those checks alone.",
+      statement: "A request no round underway covers waits rather than opening a round beside.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A request a round underway covers in part attaches for that part and opens a round for the rest.",
+        "A request a round underway covers in part attaches for that part and waits for the rest.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "More than one round is underway at one commit.",
+      statement: "One round is underway at a time, however many requests are waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every request waiting when a round ends is taken into the round after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That round runs at the latest commit those requests named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The latest is the one the most of them are at or before, each being a candidate.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That round covers every check those requests named together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request that commit does not satisfy waits for the round after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round that threw refuses the requests it took rather than the ones waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round that threw leaves the round after it to take what is waiting.",
     },
     {
       decisionKind: "decision-kind/departure",
