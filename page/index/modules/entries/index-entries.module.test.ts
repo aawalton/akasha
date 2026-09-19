@@ -1,6 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { audit } from "akasha/check/code/properties/audit.module-property-group.ts"
+import { lua } from "akasha/code/lua-module/properties/lua.code-file-property.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
+import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
+import { logs } from "akasha/code/module-property-group/properties/logs.file-property.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
+import { codeFileProperty } from "akasha/page/code-file-property/code-file-property.page-type.ts"
 import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import {
@@ -148,21 +153,23 @@ const EXTENDING = [
     slug: "code-file-property",
     extends: [FILE_PROPERTY_AT],
   },
-  { id: "2", pageTypeSlug: "code-file-property", slug: "lua", propertySlug: "lua" },
+  { id: "2", pageTypeSlug: codeFileProperty.slug, slug: lua.slug, propertySlug: lua.propertySlug },
   {
     id: "3",
     pageTypeSlug: "page-type",
     slug: "lua-module",
-    properties: [{ pagePropertySlug: "code-file-property/lua" }],
+    properties: [{ pagePropertySlug: `${codeFileProperty.slug}/${lua.slug}` }],
   },
 ]
 
 test("a property whose page type extends a file property is held in a file, naming no file", () => {
-  expect([...fileKeysIn(EXTENDING)]).toEqual([["lua", null]])
+  expect([...fileKeysIn(EXTENDING)]).toEqual([[lua.propertySlug, null]])
 })
 
 test("a page type declaring such a property holds that property in a file too", () => {
-  expect([...(filePropertiesIn(EXTENDING).get("lua-module") ?? [])]).toEqual([["lua", null]])
+  expect([...(filePropertiesIn(EXTENDING).get("lua-module") ?? [])]).toEqual([
+    [lua.propertySlug, null],
+  ])
 })
 
 test("a file property is answered under the page type declaring it and under no other", () => {
@@ -271,7 +278,7 @@ test("a property two page types equally near declare is taken from the last one 
 const GROUPED = [
   { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
   { id: "2", pageTypeSlug: "file-property", slug: "test", propertySlug: "test" },
-  { id: "3", pageTypeSlug: "file-property", slug: "logs", propertySlug: "logs" },
+  { id: "3", pageTypeSlug: fileProperty.slug, slug: logs.slug, propertySlug: logs.propertySlug },
   { id: "4", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
   {
     id: "5",
@@ -281,23 +288,28 @@ const GROUPED = [
     properties: [
       { pageProperty: "file-property/code" },
       { pageProperty: "file-property/test" },
-      { pageProperty: "file-property/logs", uncommitted: true },
+      { pageProperty: `${fileProperty.slug}/${logs.slug}`, uncommitted: true },
     ],
   },
-  { id: "6", pageTypeSlug: "module-property-group", slug: "audit", propertySlug: "audit" },
+  {
+    id: "6",
+    pageTypeSlug: modulePropertyGroup.slug,
+    slug: audit.slug,
+    propertySlug: audit.propertySlug,
+  },
   {
     id: "7",
     pageTypeSlug: "page-type",
     slug: "check-code",
-    properties: [{ pageProperty: "module-property-group/audit" }],
+    properties: [{ pageProperty: `${modulePropertyGroup.slug}/${audit.slug}` }],
   },
 ]
 
 test("a page type declaring a file property group holds every member of that group in a file", () => {
   expect([...(filePropertiesIn(GROUPED).get("check-code") ?? [])]).toEqual([
-    ["audit.code", null],
-    ["audit.test", null],
-    ["audit.logs", null],
+    [`${audit.propertySlug}.code`, null],
+    [`${audit.propertySlug}.test`, null],
+    [`${audit.propertySlug}.${logs.propertySlug}`, null],
   ])
 })
 
@@ -309,9 +321,9 @@ test("a group's own key names no file, and each member of it names one", () => {
   expect([...fileKeysIn(GROUPED)]).toEqual([
     ["code", null],
     ["test", null],
-    ["logs", null],
-    ["audit.code", null],
-    ["audit.test", null],
-    ["audit.logs", null],
+    [logs.propertySlug, null],
+    [`${audit.propertySlug}.code`, null],
+    [`${audit.propertySlug}.test`, null],
+    [`${audit.propertySlug}.${logs.propertySlug}`, null],
   ])
 })

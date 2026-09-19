@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { akasha } from "akasha/akasha.domain.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import {
@@ -33,6 +34,8 @@ const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 
 const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const AKASHA_AT = `${domain.slug}/${akasha.slug}` as const
 
 const scratch = scratchWorld()
 
@@ -167,7 +170,7 @@ test("a domain no persona names answers with no champion", () => {
 test("a panel row says the drawn path as relPath and carries the champion on", () => {
   const said = rowsFrom([
     {
-      slug: "domain/akasha",
+      slug: AKASHA_AT,
       path: "akasha/akasha.domain.ts",
       persona: "amy",
       parent: null,
@@ -177,7 +180,7 @@ test("a panel row says the drawn path as relPath and carries the champion on", (
 
   expect(said).toEqual([
     {
-      slug: "domain/akasha",
+      slug: AKASHA_AT,
       relPath: "akasha/akasha.domain.ts",
       persona: "amy",
       parent: null,
