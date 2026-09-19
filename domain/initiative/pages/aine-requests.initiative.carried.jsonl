@@ -1,6 +1,6 @@
 {"domain":"domain/feature-request"}
 {"id":"01a0b79c-7791-7361-9dfd-ddc209fb5fee"}
-{"intentStack":[{"statement":"Every feature request is a page naming the product that request is for."}]}
+{"intentStack":[{"statement":"Every feature request is a page naming the product that request is for."},{"statement":"Every product serves the feature requests for that product at `requests` under its own domain."}]}
 {"persona":"persona/aine"}
 {"slug":"aine-requests"}
 {"type":"page-type/initiative"}

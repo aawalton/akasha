@@ -8,5 +8,9 @@ export const aineRequests = {
   persona: "persona/aine",
   intentStack: [
     { statement: "Every feature request is a page naming the product that request is for." },
+    {
+      statement:
+        "Every product serves the feature requests for that product at `requests` under its own domain.",
+    },
   ],
 } as const satisfies Initiative

@@ -11,10 +11,6 @@ export const aineContribution = {
       statement:
         "A contributor is a page holding every contribution point transaction and the running balance.",
     },
-    {
-      statement:
-        "Every product serves the feature requests for that product at `requests` under its own domain.",
-    },
     { statement: "Every feature Alan already means to build is a published feature request." },
     { statement: "A contributor commits contribution points to a published feature request." },
     {
