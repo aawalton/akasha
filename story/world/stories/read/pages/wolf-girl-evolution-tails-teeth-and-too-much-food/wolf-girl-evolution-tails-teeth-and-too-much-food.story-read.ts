@@ -1,0 +1,36 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
+  id: "01a0657d-ada6-72c0-8787-dfbe49e472e8",
+  type: "page-type/story-read",
+  slug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  rank: "C",
+  unit: "unit/words",
+  title: "Wolf Girl Evolution",
+  world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129699",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Non-Human Lead",
+    "Slice of Life",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Cozy",
+    "Female Lead",
+    "High Fantasy",
+    "Magic",
+    "Monster Evolution",
+  ],
+  publicationStatus: "ongoing",
+} as const satisfies StoryRead

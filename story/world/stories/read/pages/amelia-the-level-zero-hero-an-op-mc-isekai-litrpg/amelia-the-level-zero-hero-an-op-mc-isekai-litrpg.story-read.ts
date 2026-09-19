@@ -1,0 +1,35 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
+  id: "01a0657d-ada0-796c-a819-952701a30928",
+  type: "page-type/story-read",
+  slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  rank: "C",
+  unit: "unit/words",
+  title: "Amelia the Level Zero Hero",
+  world: "world/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "61480",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Comedy",
+    "Female Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "GameLit",
+    "High Fantasy",
+    "Low Fantasy",
+    "Magic",
+    "Slice of Life",
+    "Strong Lead",
+  ],
+} as const satisfies StoryRead

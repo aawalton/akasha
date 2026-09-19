@@ -1,0 +1,10 @@
+import type { StoryWritten } from "akasha/story/world/stories/written/story-written.page-type.types.ts"
+
+export const cornerstone = {
+  id: "01a06585-da9a-74f0-a37a-cf7c1bcf0ce9",
+  type: "page-type/story-written",
+  slug: "cornerstone",
+  title: "Cornerstone",
+  world: "world/cornerstone",
+  unit: "unit/words",
+} as const satisfies StoryWritten

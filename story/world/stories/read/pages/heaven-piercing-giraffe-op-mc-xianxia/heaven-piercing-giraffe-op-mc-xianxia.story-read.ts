@@ -1,0 +1,33 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const heavenPiercingGiraffeOpMcXianxia = {
+  id: "01a0657d-ada2-72a0-a027-2a0e3ac88d8e",
+  type: "page-type/story-read",
+  slug: "heaven-piercing-giraffe-op-mc-xianxia",
+  title: "Heaven-Piercing Giraffe",
+  world: "world/heaven-piercing-giraffe-op-mc-xianxia",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172357",
+      externalLink: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe",
+    },
+  ],
+  author: "A4 bAnAnA",
+  publicationStatus: "ongoing",
+  externalTags: [
+    "Reincarnation",
+    "Cultivation",
+    "Comedy",
+    "Non-Human Lead",
+    "Slice of Life",
+    "Adventure",
+    "Fantasy",
+    "Satire",
+    "Female Lead",
+    "Lesbian Romance",
+    "Strong Lead",
+  ],
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryRead

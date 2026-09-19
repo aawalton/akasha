@@ -1,0 +1,35 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const roadToMasteryALitrpgApocalypse = {
+  id: "01a0657d-ada4-783e-9560-786c933fc500",
+  type: "page-type/story-read",
+  slug: "road-to-mastery-a-litrpg-apocalypse",
+  title: "Road to Mastery: A LitRPG Apocalypse",
+  world: "world/road-to-mastery-a-litrpg-apocalypse",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "61041",
+      externalLink: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse",
+    },
+  ],
+  author: "Valerios",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Comedy",
+    "Male Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Mythos",
+    "Supernatural",
+  ],
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryRead

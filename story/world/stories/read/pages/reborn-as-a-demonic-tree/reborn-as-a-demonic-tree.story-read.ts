@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const rebornAsADemonicTree = {
+  id: "01a0657d-ada4-786e-a739-b34fd02c3f16",
+  type: "page-type/story-read",
+  slug: "reborn-as-a-demonic-tree",
+  title: "Reborn as a Demonic Tree",
+  world: "world/reborn-as-a-demonic-tree",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "62881",
+      externalLink: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree",
+    },
+  ],
+  author: "XKARNATION",
+  rank: "B",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Reincarnation",
+    "Progression",
+    "Anti-Hero Lead",
+    "Kingdom Building",
+    "Action",
+    "Fantasy",
+    "Cultivation",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Martial Arts",
+    "Multiple Lead Characters",
+    "Non-Human Lead",
+    "Secret Identity",
+    "Slice of Life",
+    "Strong Lead",
+    "Villainous Lead",
+  ],
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryRead

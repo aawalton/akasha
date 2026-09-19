@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const gamerGirlEvolution = {
+  id: "01a0657d-ada2-7e1e-bdef-efe3c17eb718",
+  type: "page-type/story-read",
+  slug: "gamer-girl-evolution",
+  title: "Gamer Girl Evolution",
+  world: "world/gamer-girl-evolution",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130828",
+      externalLink: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution",
+    },
+  ],
+  author: "Silva Sensei",
+  rank: "C",
+  following: true,
+  publicationStatus: "hiatus",
+  externalTags: [
+    "Virtual Reality",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Comedy",
+    "Female Lead",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "LitRPG",
+    "Low Fantasy",
+    "Magic",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  unit: "unit/words",
+  prose: "txt",
+} as const satisfies StoryRead

@@ -5,7 +5,7 @@ import type { ChronologyAnchors } from "akasha/story/chapter-read/properties/chr
 import type { MarkedReadAt } from "akasha/story/chapter-read/properties/marked-read-at.instant-property.types.ts"
 import type { ReadChapterStory } from "akasha/story/chapter-read/properties/read-chapter-story.relation-property.types.ts"
 import type { RemovedAt } from "akasha/story/chapter-read/properties/removed-at.instant-property.types.ts"
-import type { Prose } from "akasha/story/played/properties/prose.file-property.types.ts"
+import type { Prose } from "akasha/story/world/stories/played/properties/prose.file-property.types.ts"
 
 export type StoryChapterRead = CollectionExternal & {
   title: Title

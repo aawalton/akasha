@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/played/modules/game-beside/game-beside.module.code.ts"}
-{"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
 {"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/ui/modules/session-envelope/session-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/ui/modules/session-envelope/session-envelope.module.test.ts"}
+{"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/world/stories/played/modules/game-beside/game-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"state-schema.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
 {"propertySlug":"parts","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}

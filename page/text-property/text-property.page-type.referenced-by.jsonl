@@ -389,7 +389,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/reader-framing.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/themes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/tone.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/read/properties/external-tags.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/aliases.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/chapter-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/claimed-by-slug.text-property.ts"}
@@ -442,6 +441,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/mechanic-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/reading-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/reading-slug.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/read/properties/external-tags.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/temper-companion/base-role/properties/abbreviation.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-armor-weights.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-trait-ids.text-property.ts"}

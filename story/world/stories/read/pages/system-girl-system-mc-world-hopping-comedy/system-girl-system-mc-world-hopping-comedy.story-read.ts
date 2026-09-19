@@ -1,0 +1,36 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy = {
+  id: "01a0657d-ada5-7638-97a1-adc2b888f303",
+  type: "page-type/story-read",
+  slug: "system-girl-system-mc-world-hopping-comedy",
+  rank: "C",
+  unit: "unit/words",
+  title: "System Girl",
+  world: "world/system-girl-system-mc-world-hopping-comedy",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "131265",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Comedy",
+    "Multiple Lead Characters",
+    "Slice of Life",
+    "Adventure",
+    "Fantasy",
+    "Artificial Intelligence",
+    "Female Lead",
+    "Genetically Engineered",
+    "Magic",
+    "Non-Human Lead",
+    "Reader Interactive",
+    "Reincarnation",
+  ],
+  publicationStatus: "ongoing",
+} as const satisfies StoryRead

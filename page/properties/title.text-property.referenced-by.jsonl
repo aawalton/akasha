@@ -95,8 +95,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/chapter-read/story-chapter-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/chapter-written/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/game.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/played/story-played.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/read/story-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world-mechanic/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
@@ -104,9 +102,11 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/designs/story-design.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/world.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/written/story-written.page-type.types.ts"}
 {"propertySlug":"page-property","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
 {"propertySlug":"page-property","path":"alan/book/alan-book.page-type.ts","id":"01a06d23-26a9-7d50-bca7-7aa5849e1c17"}
 {"propertySlug":"page-property","path":"alan/book/pages/all-about-alan/experiment/all-about-alan-experiment.page-type.ts","id":"01a0657f-a729-7906-84f8-825c8af36228"}
@@ -208,8 +208,6 @@
 {"propertySlug":"page-property","path":"story/chapter-read/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"page-property","path":"story/chapter-written/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"page-property","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
-{"propertySlug":"page-property","path":"story/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
-{"propertySlug":"page-property","path":"story/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"page-property","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"page-property","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
@@ -217,9 +215,11 @@
 {"propertySlug":"page-property","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"page-property","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"page-property","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"page-property","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
+{"propertySlug":"page-property","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"page-property","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"page-property","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
-{"propertySlug":"page-property","path":"story/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"page-property","path":"temper/character/temper-account/properties/placed-furnishings.page-property-entry.ts","id":"01a0675a-f185-72b3-a56a-b5708ff6924e"}
 {"propertySlug":"page-property","path":"temper/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
 {"propertySlug":"page-property","path":"temper/character/temper-mine/properties/items.page-property-entry.ts","id":"01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8"}

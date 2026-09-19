@@ -53,11 +53,11 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/played/modules/played-shell/played-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/read/modules/chapter-turns/chapter-turns.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/read/modules/reader-shell/reader-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/build-support/modules/build-url/build-url.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}

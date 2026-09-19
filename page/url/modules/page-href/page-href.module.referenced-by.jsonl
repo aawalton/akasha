@@ -20,9 +20,9 @@
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"page/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/read/modules/chapter-turns/chapter-turns.module.code.ts"}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
+{"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"temper/build-support/modules/build-url/build-url.module.code.ts"}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
 {"propertySlug":"parts","path":"page/url/page-url.domain.ts","id":"01a05c13-a25f-72e2-bc3a-a48eec764e2f"}

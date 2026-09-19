@@ -11,8 +11,8 @@ import {
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { delve } from "akasha/story/read/pages/delve/delve.story-read.ts"
-import { storyRead } from "akasha/story/read/story-read.page-type.ts"
+import { delve } from "akasha/story/world/stories/read/pages/delve/delve.story-read.ts"
+import { storyRead } from "akasha/story/world/stories/read/story-read.page-type.ts"
 
 const ONE_AT = "story/chapter-read/pages/one.story-chapter-read.ts"
 

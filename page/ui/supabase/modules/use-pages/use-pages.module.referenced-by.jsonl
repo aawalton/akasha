@@ -2,8 +2,8 @@
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/played/modules/played-shell/played-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/read/modules/reader-shell/reader-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/companions-ui/modules/use-companions/use-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}

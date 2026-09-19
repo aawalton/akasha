@@ -59,10 +59,10 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/url/modules/page-href/page-href.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.test.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/read/modules/chapter-turns/chapter-turns.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/read/modules/chapter-turns/chapter-turns.module.test.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.test.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"}

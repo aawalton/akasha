@@ -1,7 +1,3 @@
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/played/modules/played-channel/played-channel.module.code.tsx"}
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/read/modules/chapter-channel/chapter-channel.module.code.tsx"}
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/read/modules/chapter-turns/chapter-turns.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
@@ -11,4 +7,8 @@
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.test.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/story-so-far/story-so-far.module.code.tsx"}
+{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"}
+{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.code.tsx"}
+{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"}
 {"propertySlug":"parts","path":"story/ui/ui.domain.ts","id":"01a0628e-a5db-710f-96c6-55f3f7b2427a"}

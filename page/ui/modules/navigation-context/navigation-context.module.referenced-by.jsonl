@@ -14,8 +14,8 @@
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"story/played/modules/played-channel/played-channel.module.code.tsx"}
-{"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"story/read/modules/chapter-channel/chapter-channel.module.code.tsx"}
+{"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"}
+{"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.code.tsx"}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"temper/companions-ui/modules/use-companions/use-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"temper/web/modules/automation-panel-card/automation-panel-card.module.code.tsx"}

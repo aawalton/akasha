@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"the-wandering-inn.world.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
-{"propertySlug":"world","path":"story/read/pages/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}
 {"propertySlug":"world","path":"story/world-mechanic/world-aspect/pages/body-of-the-eater/body-of-the-eater.world-aspect.ts","id":"01a0655a-0687-7032-8019-8ce7d55d094b"}
 {"propertySlug":"world","path":"story/world-mechanic/world-aspect/pages/odour-of-carrion-dreams/odour-of-carrion-dreams.world-aspect.ts","id":"01a0655a-0687-737c-b9b5-121c2c9cdf92"}
 {"propertySlug":"world","path":"story/world-mechanic/world-aspect/pages/rending-claws/rending-claws.world-aspect.ts","id":"01a0655a-0687-7d82-a9a5-1357deb3801c"}
@@ -12711,3 +12710,4 @@
 {"propertySlug":"world","path":"story/world/named-events/pages/winter-solstice-y1.named-event.ts","id":"019f6865-705d-7d59-aa4c-ee81a7a9524f"}
 {"propertySlug":"world","path":"story/world/named-events/pages/winter-solstice-y2.named-event.ts","id":"019f6865-7170-7794-9c14-5233b219e99f"}
 {"propertySlug":"world","path":"story/world/named-events/pages/wyverns-attack-pallass.named-event.ts","id":"019f6865-7b9c-7eae-9a6d-19a3fbdebc99"}
+{"propertySlug":"world","path":"story/world/stories/read/pages/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}

@@ -1,0 +1,33 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const bornForTheApocalypseADaopcalypseLitrpgBook = {
+  id: "01a0657d-ada1-767e-8a4e-ae07544371b8",
+  type: "page-type/story-read",
+  slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  title: "Born for the Apocalypse",
+  world: "world/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "64122",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+    },
+  ],
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Post Apocalyptic",
+    "Martial Arts",
+    "Psychological",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "First Contact",
+    "High Fantasy",
+    "Male Lead",
+  ],
+  ownProgress: 124025,
+  unit: "unit/words",
+} as const satisfies StoryRead

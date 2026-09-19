@@ -1,9 +1,3 @@
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/played/modules/game-beside/game-beside.module.code.ts"}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/played/modules/played-channel/played-channel.module.code.tsx"}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/played/modules/played-panels/played-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/played/modules/played-rows/played-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/read/modules/chapter-alerts/chapter-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/read/modules/chapter-turns/chapter-turns.module.code.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/alert-sound/alert-sound.module.code.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/hud-panel/hud-panel.module.code.tsx"}
@@ -12,4 +6,10 @@
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/session-envelope/session-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/session-envelope/session-envelope.module.test.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/world/stories/played/modules/game-beside/game-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.code.ts"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"}
 {"propertySlug":"parts","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}

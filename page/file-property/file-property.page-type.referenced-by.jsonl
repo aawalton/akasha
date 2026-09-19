@@ -134,9 +134,9 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/tower-floors.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/tower-sessions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/turns.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/played/properties/prose.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/properties/prose.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-account/properties/data.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-player/properties/settings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/thing/properties/completion.file-property.ts"}
