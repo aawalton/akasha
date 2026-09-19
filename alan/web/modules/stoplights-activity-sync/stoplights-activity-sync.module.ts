@@ -18,6 +18,14 @@ export const stoplightsActivitySync = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading that never came is thrown rather than passed over in silence.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A throw here is caught where every other client fault is, and reported.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading is handed over when the app comes forward as well as at sign-in.",
     },
     {

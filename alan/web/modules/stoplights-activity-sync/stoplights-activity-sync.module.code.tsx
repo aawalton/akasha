@@ -60,7 +60,10 @@ export function StoplightsActivitySync() {
 
     const carry = async (): Promise<void> => {
       const content = await contentRead(new Date().toISOString())
-      if (cancelled || content === null) return
+      if (cancelled) return
+      if (content === null) {
+        throw new Error("the stoplight feeds gave no reading, so no activity could start")
+      }
       try {
         await plugin.start({ content: JSON.stringify(content) })
       } catch (error: unknown) {
