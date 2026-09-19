@@ -1,0 +1,7 @@
+{"definition":"how many bouts a movement goes without progressing before it is dropped"}
+{"id":"01a0b716-c506-7fc0-8c47-598b8f2ffcc4"}
+{"max":null}
+{"propertySlug":"bouts-without-progress"}
+{"slug":"bouts-without-progress"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

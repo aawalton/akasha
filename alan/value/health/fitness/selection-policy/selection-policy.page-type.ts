@@ -7,6 +7,7 @@ export const selectionPolicy = {
   definition: "the numbers the coach picks and bounds a session by",
   extends: ["page-type/page"],
   parts: [
+    "number-property/bouts-without-progress",
     "number-property/near-failure-rpe-floor",
     "number-property/novelty-cap-per-session",
     "number-property/recency-saturation-days",
@@ -31,6 +32,7 @@ export const selectionPolicy = {
     { pageProperty: "number-property/recency-weight", required: true, many: false },
     { pageProperty: "number-property/recency-saturation-days", required: true, many: false },
     { pageProperty: "number-property/near-failure-rpe-floor", required: true, many: false },
+    { pageProperty: "number-property/bouts-without-progress", required: true, many: false },
   ],
   decisions: [
     {

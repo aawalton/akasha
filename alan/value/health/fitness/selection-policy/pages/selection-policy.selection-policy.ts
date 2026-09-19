@@ -15,4 +15,5 @@ export const selectionPolicy = {
   zone2WeeklyFloor: 150,
   recencyWeight: 0.05,
   recencySaturationDays: 21,
+  boutsWithoutProgress: 3,
 } as const satisfies SelectionPolicy
