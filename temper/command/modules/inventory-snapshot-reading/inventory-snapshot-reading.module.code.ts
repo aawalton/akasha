@@ -8,49 +8,40 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
 
-const SNAPSHOT_PAGE_TYPE = "temper-inventory-snapshot"
+const ACCOUNT_PAGE_TYPE = "temper-account"
 
-const SNAPSHOT_KEYS = ["slug", "id", "account-page", "captured-at", "total-value", "chunk-count"]
+const ACCOUNT_KEYS = ["slug", "id", "title", "captured-at", "total-value"]
 
-const SNAPSHOT_HEADER_SHAPE = z
+const INVENTORY_HEADER_SHAPE = z
   .object({
     id: z.string(),
     slug: z.string(),
     "captured-at": z.string(),
     "total-value": z.coerce.number(),
-    "chunk-count": z.coerce.number(),
   })
   .passthrough()
 
-export type SnapshotHeader = z.infer<typeof SNAPSHOT_HEADER_SHAPE>
+export type InventoryHeader = z.infer<typeof INVENTORY_HEADER_SHAPE>
 
-async function headerFrom(
-  where: Readonly<Record<string, unknown>>
-): Promise<SnapshotHeader | null> {
+export async function accountInventory(accountUserId: string): Promise<InventoryHeader | null> {
   const asked = await askComposed({
-    "page-type": SNAPSHOT_PAGE_TYPE,
-    where,
-    keys: SNAPSHOT_KEYS,
-    "sort-by": "captured-at",
-    descending: true,
+    "page-type": ACCOUNT_PAGE_TYPE,
+    where: { title: { is: accountUserId } },
+    keys: ACCOUNT_KEYS,
     limit: 1,
   })
-  if (!asked.ok) throw new Error(`${SNAPSHOT_PAGE_TYPE} went unread — ${asked.why}`)
+  if (!asked.ok) throw new Error(`${ACCOUNT_PAGE_TYPE} went unread — ${asked.why}`)
   const row = asked.answer.rows[0]
-  return row === undefined ? null : SNAPSHOT_HEADER_SHAPE.parse(row.values)
-}
-
-export function latestSnapshot(accountUserId: string): Promise<SnapshotHeader | null> {
-  return headerFrom({ "account-page": { is: accountUserId } })
+  return row === undefined ? null : INVENTORY_HEADER_SHAPE.parse(row.values)
 }
 
 const DATA_PROPERTY = "data"
 
 const HELD = "json"
 
-export async function snapshotDatabase(slug: string): Promise<InventoryDatabase | null> {
+export async function inventoryDatabase(slug: string): Promise<InventoryDatabase | null> {
   const root = codeRoot()
-  const found = listedAt(root, SNAPSHOT_PAGE_TYPE, slug)[0]
+  const found = listedAt(root, ACCOUNT_PAGE_TYPE, slug)[0]
   if (found === undefined) return null
   const beside = besideAt(found.path, DATA_PROPERTY, HELD)
   if (beside === null) return null

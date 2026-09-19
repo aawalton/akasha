@@ -9,19 +9,11 @@ export const inventorySnapshotReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The latest reading for an account is the reading captured last.",
+      statement: "An account holds one inventory, the one its last reading wrote.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The chunk pages record how the transport divided a reading and nothing more.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The bytes are read from the snapshot's own data file.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The bytes in that data file are already rejoined.",
+      statement: "The bytes are read from the data file beside the account's own page.",
     },
     {
       decisionKind: "decision-kind/departure",

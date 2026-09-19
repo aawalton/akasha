@@ -10,14 +10,14 @@ import {
   toldRows,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
-  latestSnapshot,
-  snapshotDatabase,
+  accountInventory,
+  inventoryDatabase,
 } from "akasha/temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
 import { computeItemStock } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
 
-const NO_SNAPSHOT = "no-snapshot"
+const NO_INVENTORY = "no-inventory"
 
 const COLUMNS = [
   "itemName",
@@ -35,16 +35,16 @@ type Reading = { readonly currentTotal: number | null; readonly shortfall: numbe
 
 const UNREAD: Reading = { currentTotal: null, shortfall: null }
 
-async function latestInventory(): Promise<InventoryDatabase | null> {
-  const header = await latestSnapshot(USER_ID)
+async function heldInventory(): Promise<InventoryDatabase | null> {
+  const header = await accountInventory(USER_ID)
   if (header === null) return null
-  return snapshotDatabase(header.slug)
+  return inventoryDatabase(header.slug)
 }
 
 async function shortfalls(asJson: boolean): Promise<Answer> {
   const settings = await (await settingsOf()).read()
   const rules = settings.buyRules ?? []
-  const inventory = await latestInventory()
+  const inventory = await heldInventory()
   const reading = new Map<string, Reading>()
   if (inventory === null) {
     for (const rule of rules) reading.set(rule.id, UNREAD)
@@ -72,8 +72,8 @@ async function shortfalls(asJson: boolean): Promise<Answer> {
         itemName: rule.itemName,
         itemId: rule.itemId,
         target: rule.targetQuantity,
-        current: read.currentTotal ?? NO_SNAPSHOT,
-        shortfall: read.shortfall ?? NO_SNAPSHOT,
+        current: read.currentTotal ?? NO_INVENTORY,
+        shortfall: read.shortfall ?? NO_INVENTORY,
         source: rule.source,
         active: rule.active,
         locked: rule.locked,
