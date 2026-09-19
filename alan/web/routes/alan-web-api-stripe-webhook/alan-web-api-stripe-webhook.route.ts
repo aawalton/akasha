@@ -27,6 +27,16 @@ export const alanWebApiStripeWebhook = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "One question answers whether a contributor is there and what that contributor holds.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A transaction is a row beside the page rather than a file, so no file call reads one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An address nobody has paid under before opens a contributor holding no points.",
     },
     {

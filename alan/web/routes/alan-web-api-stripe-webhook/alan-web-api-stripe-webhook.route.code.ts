@@ -1,7 +1,6 @@
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   askingFor,
-  filingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
@@ -18,11 +17,9 @@ const SECRET_NAME = "STRIPE_WEBHOOK_SECRET"
 
 const WRITER = "alanwalton web <web@alanwalton.com>"
 
-const TRANSACTIONS = "transactions"
+const EMAIL_HASH = "emailHash"
 
-const CONTRIBUTOR_KEYS: readonly string[] = ["slug", "emailHash", "balance"]
-
-type Row = Readonly<Record<string, unknown>>
+const CONTRIBUTOR_KEYS: readonly string[] = ["slug", EMAIL_HASH, "balance", "transactions"]
 
 type Transaction = Readonly<Record<string, unknown>>
 
@@ -34,24 +31,11 @@ function pointsIn(held: unknown): number {
   return typeof held === "number" && Number.isSafeInteger(held) ? held : 0
 }
 
-function rowsIn(text: string): readonly Transaction[] {
-  const held: Transaction[] = []
-  for (const line of text.split("\n")) {
-    if (line.trim() === "") continue
-    try {
-      const one: unknown = JSON.parse(line)
-      if (one !== null && typeof one === "object" && !Array.isArray(one)) {
-        held.push(one as Transaction)
-      }
-    } catch {}
-  }
-  return held
-}
-
-async function transactionsOf(slug: string): Promise<readonly Transaction[] | { refused: string }> {
-  const fetched = await filingFor({ pageTypeSlug: CONTRIBUTOR, slug, key: TRANSACTIONS })
-  if ("refused" in fetched) return { refused: fetched.refused }
-  return rowsIn(new TextDecoder().decode(fetched.bytes))
+function transactionsIn(held: unknown): readonly Transaction[] {
+  if (!Array.isArray(held)) return []
+  return held.filter(
+    (one): one is Transaction => one !== null && typeof one === "object" && !Array.isArray(one)
+  )
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {
@@ -92,21 +76,17 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const emailHash = await hashOf(email)
   const slug = slugFor(emailHash)
 
-  const asked = await askingFor({ pageTypeSlug: CONTRIBUTOR, keys: CONTRIBUTOR_KEYS })
+  const asked = await askingFor({
+    pageTypeSlug: CONTRIBUTOR,
+    where: { [EMAIL_HASH]: { is: emailHash } },
+    keys: CONTRIBUTOR_KEYS,
+  })
   if ("refused" in asked) {
     return Response.json({ error: asked.refused }, { status: 503 })
   }
 
-  const already = asked.rows.find((row: Row) => row.emailHash === emailHash)
-
-  let held: readonly Transaction[] = []
-  if (already !== undefined) {
-    const fetched = await transactionsOf(slug)
-    if ("refused" in fetched) {
-      return Response.json({ error: fetched.refused }, { status: 503 })
-    }
-    held = fetched
-  }
+  const already = asked.rows[0]
+  const held = already === undefined ? [] : transactionsIn(already.transactions)
 
   if (held.some((one) => one.stripeChargeId === chargeId && pointsIn(one.points) === points)) {
     return Response.json({ ok: true, passedOver: `\`${chargeId}\` moved these points already` })
