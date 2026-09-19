@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.code.ts"}
 {"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"}
+{"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts"}
 {"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.code.ts"}
 {"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"folder-shape.page-type.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.test.ts"}

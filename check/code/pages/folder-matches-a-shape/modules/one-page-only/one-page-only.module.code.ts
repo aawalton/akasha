@@ -1,7 +1,12 @@
 import { basename } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.module.code.ts"
+import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Held } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
+
+const ROOT = ""
 
 export type Answered = { readonly page: Held } | { readonly refusal: string }
 
@@ -28,16 +33,39 @@ export function looseFilesIn(
   ]
 }
 
+function namesAbove(standing: Standing): readonly string[] {
+  const found: string[] = []
+  let at = standing.folder
+  while (at !== ROOT) {
+    at = folderOf(at)
+    const held = standing.holds(at)[0]
+    const slug = held === undefined ? null : slugIn(held)
+    if (slug !== null) found.push(slug)
+  }
+  return found
+}
+
+function strippedAbove(standing: Standing, page: Held): string | null {
+  if (page.slug === null) return null
+  return strippedOf(page.slug, namesAbove(standing))
+}
+
+function gathersPage(standing: Standing, page: Held, named: string): boolean {
+  return page.pageTypeSlug !== null && standing.gathered(named).includes(page.pageTypeSlug)
+}
+
 export function namedAsAsked(standing: Standing, page: Held): readonly string[] {
   const wants = standing.naming(standing.folder)
   if (wants === null) return []
+  const named = basename(standing.folder)
+  if (wants.name === named) return []
+  if (strippedAbove(standing, page) === named) return []
+  if (gathersPage(standing, page, named)) return []
   if (wants.name === null) {
     return [
       `it wants a name this check cannot work out: \`${page.slug}\` calls its folder \`${wants.gives}\`, which is what the page above it is named`,
     ]
   }
-  const named = basename(standing.folder)
-  if (wants.name === named) return []
   return [
     `it is named \`${named}\` rather than \`${wants.name}\`, what \`${page.slug}\` calls its folder`,
   ]

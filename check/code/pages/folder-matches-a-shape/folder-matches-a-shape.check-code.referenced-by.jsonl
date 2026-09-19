@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"folder-matches-a-shape.check-code.decision.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"folder-matches-a-shape.check-code.decision.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/sections-of-the-section-beside/sections-of-the-section-beside.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"folder-matches-a-shape.check-code.decision.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.test.ts"}
+{"propertySlug":"import","fileName":"folder-matches-a-shape.check-code.decision.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts"}
 {"propertySlug":"import","fileName":"folder-matches-a-shape.check-code.decision.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.test.ts"}
 {"propertySlug":"loaded-by","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts","id":"01a04e33-f280-701e-96a0-859a53ed8298"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/thirteen-flat-pages-folders-need-per-page-folders-and-three-more-only-look-as-though-they-do.finding.ts","id":"01a0887c-f198-7151-bd0b-37845f3e4e87"}

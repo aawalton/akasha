@@ -205,6 +205,15 @@ export const folderMatchesAShape = {
       decisionKind: "decision-kind/departure",
       statement: "Such a file beside a page leaves that page in the folder that page sat in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named its page's slug with every name above taken off is right as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A folder named a plural the page's own type gathers its pages under is right as well.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },

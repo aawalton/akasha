@@ -6,6 +6,7 @@ export const onePageOnly = {
   slug: "one-page-only",
   definition: "what the shapes of a folder headed by one page all say alike",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -38,6 +39,21 @@ export const onePageOnly = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges what page type the page is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A folder named its page's slug with the names of every page above taken off is right.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name is taken off for every folder above holding a page rather than for the nearest alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A folder named the plural the page's own page type gathers its pages under is right.",
     },
   ],
 } as const satisfies Module

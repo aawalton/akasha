@@ -76,5 +76,14 @@ export const aDomainWithItsParts = {
       decisionKind: "decision-kind/departure",
       statement: "A subfolder this page's own folder property names is a part of that page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder may take that page's slug with the names of the pages above taken off.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder may take the plural that page's own type gathers its pages under.",
+    },
   ],
 } as const satisfies FolderShape

@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
+import {
+  folderFrom,
+  gatheringFrom,
+  holdsFrom,
+} from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { aPageWithItsParts } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.code.ts"
 import type {
   Standing,
@@ -51,10 +55,45 @@ test("a folder named other than what its page calls it is refused, naming both",
     pageTypes: PAGE_TYPES,
     naming: () => ({ name: "code-checks" }),
   })
-  const said = aPageWithItsParts(held(["check-code.page-type.ts"]))
+  const said = aPageWithItsParts(held(["code-checks.page-type.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`check-code`")
   expect(said[0]).toContain("`code-checks`")
+})
+
+test("a folder named its page's slug with every name above it taken off takes the shape", () => {
+  const held = folderFrom({
+    folder: "akasha/temper/catalog/skill",
+    pageTypes: PAGE_TYPES,
+    naming: () => ({ name: "catalog-skill" }),
+    holds: holdsFrom({
+      "akasha/temper": ["domain/temper"],
+      "akasha/temper/catalog": ["page-type/temper-catalog"],
+    }),
+  })
+  expect(aPageWithItsParts(held(["temper-catalog-skill.module.ts"]))).toEqual([])
+})
+
+test("a folder named the plural that page's own type gathers its pages under takes the shape", () => {
+  const held = folderFrom({
+    folder: "akasha/pages",
+    pageTypes: PAGE_TYPES,
+    naming: () => ({ name: "first" }),
+    gathered: gatheringFrom({ pages: ["check-code"] }),
+  })
+  expect(aPageWithItsParts(held(["first.check-code.ts"]))).toEqual([])
+})
+
+test("a folder named a plural no type of that page gathers under is refused", () => {
+  const held = folderFrom({
+    folder: "akasha/pages",
+    pageTypes: PAGE_TYPES,
+    naming: () => ({ name: "first" }),
+    gathered: gatheringFrom({ pages: ["module"] }),
+  })
+  const said = aPageWithItsParts(held(["first.check-code.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`pages`")
 })
 
 test("a folder wanting a name no name can be worked out for is refused for wanting one", () => {

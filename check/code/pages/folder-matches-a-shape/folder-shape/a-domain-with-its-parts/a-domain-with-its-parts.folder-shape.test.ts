@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   folderFrom,
+  gatheringFrom,
   holdsAt,
   holdsFrom,
   type Shaping,
@@ -162,4 +163,45 @@ test("a file neither page states is refused", () => {
   const said = aDomainWithItsParts(rootFrom({})([...ROOT_PAGES, "package.json"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("package.json")
+})
+
+const DOMAINING: Standing["extending"] = (pageTypeSlug, wanted) =>
+  wanted === "domain" && DOMAINS.has(pageTypeSlug)
+
+test("a folder named its domain's slug with every name above it taken off takes the shape", () => {
+  const made = folderFrom({
+    folder: "akasha/temper/catalog/skill",
+    pageTypes: PAGE_TYPES,
+    extending: DOMAINING,
+    naming: () => ({ name: "catalog-skill" }),
+    holds: holdsFrom({
+      "akasha/temper": ["domain/temper"],
+      "akasha/temper/catalog": ["page-type/temper-catalog"],
+    }),
+  })
+  expect(aDomainWithItsParts(made(["temper-catalog-skill.domain.ts"]))).toEqual([])
+})
+
+test("a folder named the plural that page's own type gathers its pages under takes the shape", () => {
+  const made = folderFrom({
+    folder: "akasha/domains",
+    pageTypes: PAGE_TYPES,
+    extending: DOMAINING,
+    naming: () => ({ name: "models" }),
+    gathered: gatheringFrom({ domains: ["domain"] }),
+  })
+  expect(aDomainWithItsParts(made(["models.domain.ts"]))).toEqual([])
+})
+
+test("a folder named a plural no type of that page gathers under is refused", () => {
+  const made = folderFrom({
+    folder: "akasha/domains",
+    pageTypes: PAGE_TYPES,
+    extending: DOMAINING,
+    naming: () => ({ name: "models" }),
+    gathered: gatheringFrom({ domains: ["seat"] }),
+  })
+  const said = aDomainWithItsParts(made(["models.domain.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`domains`")
 })

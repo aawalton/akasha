@@ -1,10 +1,15 @@
 import { expect, test } from "bun:test"
 import {
   folderFrom,
+  gatheringFrom,
   holdsAt,
+  holdsFrom,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { aPageTypeWithItsParts } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts"
-import type { Declaring } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
+import type {
+  Declaring,
+  Standing,
+} from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 
 const FOLDER = "akasha/models"
 
@@ -120,6 +125,47 @@ test("a subfolder a file the page's own property names sits under is a part", ()
   })
   expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
   expect(judged([DEEP], ["model.page-type.ts"])).toHaveLength(1)
+})
+
+const TYPING: Standing["extending"] = (pageTypeSlug, wanted) =>
+  wanted === "page-type" && TYPES.has(pageTypeSlug)
+
+test("a folder named the page type's slug with every name above it taken off takes the shape", () => {
+  const made = folderFrom({
+    folder: "akasha/temper/catalog/skill",
+    pageTypes: PAGE_TYPES,
+    extending: TYPING,
+    naming: () => ({ name: "catalog-skill" }),
+    holds: holdsFrom({
+      "akasha/temper": ["domain/temper"],
+      "akasha/temper/catalog": ["page-type/temper-catalog"],
+    }),
+  })
+  expect(aPageTypeWithItsParts(made(["temper-catalog-skill.page-type.ts"]))).toEqual([])
+})
+
+test("a folder named the plural that page's own type gathers its pages under takes the shape", () => {
+  const made = folderFrom({
+    folder: "akasha/page-types",
+    pageTypes: PAGE_TYPES,
+    extending: TYPING,
+    naming: () => ({ name: "model" }),
+    gathered: gatheringFrom({ "page-types": ["page-type"] }),
+  })
+  expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
+})
+
+test("a folder named a plural no type of that page gathers under is refused", () => {
+  const made = folderFrom({
+    folder: "akasha/page-types",
+    pageTypes: PAGE_TYPES,
+    extending: TYPING,
+    naming: () => ({ name: "model" }),
+    gathered: gatheringFrom({ "page-types": ["seat"] }),
+  })
+  const said = aPageTypeWithItsParts(made(["model.page-type.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`page-types`")
 })
 
 test("a subfolder declared by the domain beside its page type takes the shape", () => {

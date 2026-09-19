@@ -92,5 +92,14 @@ export const aPageTypeWithItsParts = {
       statement:
         "A subfolder a file this page's own property names sits under is a part of that page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder may have the page type's slug with the names of the pages above taken off.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder may have the plural that page's own type gathers its pages under.",
+    },
   ],
 } as const satisfies FolderShape

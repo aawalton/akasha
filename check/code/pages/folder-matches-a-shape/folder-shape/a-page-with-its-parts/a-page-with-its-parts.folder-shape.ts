@@ -78,5 +78,15 @@ export const aPageWithItsParts = {
       decisionKind: "decision-kind/departure",
       statement: "A folder holding more than one page is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder's name may be that page's slug with the names of the pages above taken off.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder's name may be the plural that page's page type gathers its pages under.",
+    },
   ],
 } as const satisfies FolderShape
