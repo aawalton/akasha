@@ -14,7 +14,6 @@ export const coldplayChristmasLights = {
   ],
   title: "Christmas Lights",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

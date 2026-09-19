@@ -14,7 +14,6 @@ export const coldplayAHeadFullOfDreams = {
   ],
   title: "A Head Full of Dreams",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

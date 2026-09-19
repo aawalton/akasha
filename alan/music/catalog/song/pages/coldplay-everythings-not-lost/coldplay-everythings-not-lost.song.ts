@@ -14,7 +14,6 @@ export const coldplayEverythingsNotLost = {
   ],
   title: "Everything’s Not Lost",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

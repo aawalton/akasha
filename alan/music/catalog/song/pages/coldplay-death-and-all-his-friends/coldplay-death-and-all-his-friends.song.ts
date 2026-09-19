@@ -14,7 +14,6 @@ export const coldplayDeathAndAllHisFriends = {
   ],
   title: "Death and All His Friends",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

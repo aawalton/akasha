@@ -14,7 +14,6 @@ export const coldplayDontPanic = {
   ],
   title: "Don’t Panic",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

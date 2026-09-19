@@ -14,7 +14,6 @@ export const coldplayTheHardestPart = {
   ],
   title: "The Hardest Part",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayPrincessOfChina = {
   ],
   title: "Princess of China",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

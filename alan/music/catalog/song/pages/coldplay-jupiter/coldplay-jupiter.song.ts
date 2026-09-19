@@ -14,7 +14,6 @@ export const coldplayJupiter = {
   ],
   title: "JUPiTER",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

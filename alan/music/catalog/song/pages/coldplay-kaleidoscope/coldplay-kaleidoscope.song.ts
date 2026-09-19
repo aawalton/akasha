@@ -14,7 +14,6 @@ export const coldplayKaleidoscope = {
   ],
   title: "Kaleidoscope",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

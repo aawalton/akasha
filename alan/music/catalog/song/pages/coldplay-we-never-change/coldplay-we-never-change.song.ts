@@ -14,7 +14,6 @@ export const coldplayWeNeverChange = {
   ],
   title: "We Never Change",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

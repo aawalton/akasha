@@ -14,7 +14,6 @@ export const coldplayHelpIsRoundTheCorner = {
   ],
   title: "Help Is Round the Corner",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

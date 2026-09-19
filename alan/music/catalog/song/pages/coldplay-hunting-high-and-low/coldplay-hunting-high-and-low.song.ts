@@ -14,6 +14,5 @@ export const coldplayHuntingHighAndLow = {
   ],
   title: "Hunting High and Low",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

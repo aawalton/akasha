@@ -14,7 +14,6 @@ export const coldplayALIENS = {
   ],
   title: "A L I E N S",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayTroubleInTown = {
   ],
   title: "Trouble in Town",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

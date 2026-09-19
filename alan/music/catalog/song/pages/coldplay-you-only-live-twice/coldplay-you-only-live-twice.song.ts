@@ -14,7 +14,6 @@ export const coldplayYouOnlyLiveTwice = {
   ],
   title: "You Only Live Twice",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,6 +14,8 @@ export const coldplayDeathWillNeverConquer = {
   ],
   title: "Death Will Never Conquer",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
 } as const satisfies Song

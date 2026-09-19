@@ -14,7 +14,6 @@ export const coldplayOldFriends = {
   ],
   title: "Old Friends",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

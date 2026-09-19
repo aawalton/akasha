@@ -14,6 +14,8 @@ export const coldplayLetSomebodyGo = {
   ],
   title: "Let Somebody Go",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
 } as const satisfies Song

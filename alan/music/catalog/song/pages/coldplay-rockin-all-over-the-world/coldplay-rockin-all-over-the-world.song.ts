@@ -14,6 +14,5 @@ export const coldplayRockinAllOverTheWorld = {
   ],
   title: "Rockin’ All Over the World",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const coldplayUFO = {
   ],
   title: "U.F.O.",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

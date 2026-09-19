@@ -14,7 +14,6 @@ export const coldplayAtlas = {
   ],
   title: "Atlas",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayLifeIsForLiving = {
   ],
   title: "Life Is for Living",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

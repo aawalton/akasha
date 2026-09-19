@@ -14,6 +14,5 @@ export const coldplayBillieJean = {
   ],
   title: "Billie Jean",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

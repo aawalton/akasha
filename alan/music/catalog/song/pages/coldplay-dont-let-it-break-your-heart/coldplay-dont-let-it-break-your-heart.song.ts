@@ -14,7 +14,6 @@ export const coldplayDontLetItBreakYourHeart = {
   ],
   title: "Don’t Let It Break Your Heart",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

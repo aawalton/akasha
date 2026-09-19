@@ -14,7 +14,6 @@ export const coldplayUpWithTheBirds = {
   ],
   title: "Up With the Birds",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

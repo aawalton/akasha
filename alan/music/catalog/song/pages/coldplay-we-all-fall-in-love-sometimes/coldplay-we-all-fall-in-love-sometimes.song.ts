@@ -14,7 +14,6 @@ export const coldplayWeAllFallInLoveSometimes = {
   ],
   title: "We All Fall in Love Sometimes",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayGhostStory = {
   ],
   title: "Ghost Story",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

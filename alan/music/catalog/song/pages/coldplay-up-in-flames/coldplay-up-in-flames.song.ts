@@ -14,7 +14,6 @@ export const coldplayUpInFlames = {
   ],
   title: "Up in Flames",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

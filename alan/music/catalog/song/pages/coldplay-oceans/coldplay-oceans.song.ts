@@ -14,7 +14,6 @@ export const coldplayOceans = {
   ],
   title: "Oceans",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

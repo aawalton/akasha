@@ -14,7 +14,6 @@ export const coldplayAllYourFriends = {
   ],
   title: "All Your Friends",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

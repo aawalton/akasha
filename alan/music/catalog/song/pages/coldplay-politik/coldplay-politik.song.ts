@@ -14,7 +14,6 @@ export const coldplayPolitik = {
   ],
   title: "Politik",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

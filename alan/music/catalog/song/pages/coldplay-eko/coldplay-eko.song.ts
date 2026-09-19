@@ -14,7 +14,6 @@ export const coldplayEko = {
   ],
   title: "Èkó",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

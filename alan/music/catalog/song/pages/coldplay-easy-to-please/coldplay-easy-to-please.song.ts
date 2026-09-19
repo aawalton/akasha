@@ -14,7 +14,6 @@ export const coldplayEasyToPlease = {
   ],
   title: "Easy to Please",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

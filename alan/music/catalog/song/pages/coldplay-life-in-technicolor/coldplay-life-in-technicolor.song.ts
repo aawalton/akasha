@@ -14,7 +14,6 @@ export const coldplayLifeInTechnicolor = {
   ],
   title: "Life in Technicolor",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

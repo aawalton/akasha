@@ -14,7 +14,6 @@ export const coldplayClocks = {
   ],
   title: "Clocks",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

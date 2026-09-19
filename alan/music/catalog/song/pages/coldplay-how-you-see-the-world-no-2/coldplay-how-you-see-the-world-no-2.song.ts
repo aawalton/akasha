@@ -14,7 +14,6 @@ export const coldplayHowYouSeeTheWorldNo2 = {
   ],
   title: "How You See the World No. 2",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

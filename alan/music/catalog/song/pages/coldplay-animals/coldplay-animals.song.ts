@@ -14,7 +14,6 @@ export const coldplayAnimals = {
   ],
   title: "Animals",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

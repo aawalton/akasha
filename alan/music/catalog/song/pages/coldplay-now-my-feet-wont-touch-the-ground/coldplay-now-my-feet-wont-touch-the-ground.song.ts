@@ -14,7 +14,6 @@ export const coldplayNowMyFeetWontTouchTheGround = {
   ],
   title: "Now My Feet Won’t Touch the Ground",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayForYou = {
   ],
   title: "For You",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayMoses = {
   ],
   title: "Moses",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

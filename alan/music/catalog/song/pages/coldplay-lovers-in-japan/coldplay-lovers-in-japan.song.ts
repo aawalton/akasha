@@ -14,7 +14,6 @@ export const coldplayLoversInJapan = {
   ],
   title: "Lovers in Japan",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

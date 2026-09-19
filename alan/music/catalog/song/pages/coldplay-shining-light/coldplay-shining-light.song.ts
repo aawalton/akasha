@@ -14,6 +14,5 @@ export const coldplayShiningLight = {
   ],
   title: "Shining Light",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

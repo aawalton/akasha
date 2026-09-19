@@ -14,6 +14,5 @@ export const coldplayOdeToDeodorant = {
   ],
   title: "Ode to Deodorant",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

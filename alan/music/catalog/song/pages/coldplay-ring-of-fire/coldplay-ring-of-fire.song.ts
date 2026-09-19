@@ -14,6 +14,5 @@ export const coldplayRingOfFire = {
   ],
   title: "Ring of Fire",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const coldplayTheEscapist = {
   ],
   title: "The Escapist",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

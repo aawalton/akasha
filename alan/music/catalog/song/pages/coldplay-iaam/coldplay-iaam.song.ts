@@ -14,7 +14,6 @@ export const coldplayIaam = {
   ],
   title: "iAAM",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

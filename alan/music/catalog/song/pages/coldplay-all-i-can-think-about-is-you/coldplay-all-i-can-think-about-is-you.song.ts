@@ -14,7 +14,6 @@ export const coldplayAllICanThinkAboutIsYou = {
   ],
   title: "All I Can Think About Is You",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

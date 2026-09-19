@@ -14,7 +14,6 @@ export const coldplay136 = {
   ],
   title: "1.36",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

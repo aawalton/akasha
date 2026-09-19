@@ -14,7 +14,6 @@ export const coldplayNoMoreKeepingMyFeetOnTheGround = {
   ],
   title: "No More Keeping My Feet on the Ground",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

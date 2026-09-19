@@ -14,7 +14,6 @@ export const coldplaySpeedOfSound = {
   ],
   title: "Speed of Sound",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayPeopleOfThePride = {
   ],
   title: "People of the Pride",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

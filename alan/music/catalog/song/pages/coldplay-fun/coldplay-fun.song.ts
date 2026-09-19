@@ -14,7 +14,6 @@ export const coldplayFun = {
   ],
   title: "Fun",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

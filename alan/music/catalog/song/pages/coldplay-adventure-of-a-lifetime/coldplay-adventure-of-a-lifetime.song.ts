@@ -14,7 +14,6 @@ export const coldplayAdventureOfALifetime = {
   ],
   title: "Adventure of a Lifetime",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

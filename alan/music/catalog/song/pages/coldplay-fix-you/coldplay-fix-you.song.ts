@@ -14,7 +14,6 @@ export const coldplayFixYou = {
   ],
   title: "Fix You",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

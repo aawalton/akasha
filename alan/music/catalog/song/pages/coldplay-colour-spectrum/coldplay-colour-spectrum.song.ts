@@ -14,7 +14,6 @@ export const coldplayColourSpectrum = {
   ],
   title: "Colour Spectrum",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayXMarksTheSpot = {
   ],
   title: "X Marks the Spot",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

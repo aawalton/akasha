@@ -14,7 +14,6 @@ export const coldplayTrueLove = {
   ],
   title: "True Love",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

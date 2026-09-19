@@ -14,7 +14,6 @@ export const coldplayAHopefulTransmission = {
   ],
   title: "A Hopeful Transmission",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

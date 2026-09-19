@@ -14,7 +14,6 @@ export const coldplayCarefulWhereYouStand = {
   ],
   title: "Careful Where You Stand",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

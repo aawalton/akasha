@@ -14,6 +14,5 @@ export const coldplayEppureSentireUnSensoDiTe = {
   ],
   title: "Eppure sentire (Un senso di te)",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

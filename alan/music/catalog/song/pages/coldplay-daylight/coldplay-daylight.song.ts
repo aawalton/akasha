@@ -14,7 +14,6 @@ export const coldplayDaylight = {
   ],
   title: "Daylight",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayArmyOfOne = {
   ],
   title: "Army of One",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

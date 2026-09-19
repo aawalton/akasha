@@ -14,7 +14,6 @@ export const coldplayTilKingdomCome = {
   ],
   title: "Til Kingdom Come",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

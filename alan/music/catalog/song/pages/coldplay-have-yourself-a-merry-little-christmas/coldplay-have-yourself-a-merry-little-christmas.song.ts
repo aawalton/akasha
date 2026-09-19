@@ -14,7 +14,6 @@ export const coldplayHaveYourselfAMerryLittleChristmas = {
   ],
   title: "Have Yourself a Merry Little Christmas",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplay2000Miles = {
   ],
   title: "2000 Miles",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

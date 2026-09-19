@@ -14,6 +14,5 @@ export const coldplayMusicOfTheSpheres2 = {
   ],
   title: "Music of the Spheres 2",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

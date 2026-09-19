@@ -14,7 +14,6 @@ export const coldplayShiver = {
   ],
   title: "Shiver",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

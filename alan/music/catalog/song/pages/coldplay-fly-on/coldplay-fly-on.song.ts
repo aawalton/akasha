@@ -14,7 +14,6 @@ export const coldplayFlyOn = {
   ],
   title: "Fly On",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

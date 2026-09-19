@@ -14,6 +14,5 @@ export const coldplayStopMeIfYouThinkYouveHeardThisOneBefore = {
   ],
   title: "Stop Me If You Think You’ve Heard This One Before",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,6 +14,5 @@ export const coldplayYourLoveMeansEverythingPart2 = {
   ],
   title: "Your Love Means Everything, Part 2",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

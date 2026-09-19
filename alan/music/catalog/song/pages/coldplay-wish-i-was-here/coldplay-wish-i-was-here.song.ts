@@ -14,7 +14,6 @@ export const coldplayWishIWasHere = {
   ],
   title: "Wish I Was Here",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

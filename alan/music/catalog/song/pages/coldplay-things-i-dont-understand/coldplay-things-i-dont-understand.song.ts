@@ -14,7 +14,6 @@ export const coldplayThingsIDontUnderstand = {
   ],
   title: "Things I Don’t Understand",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayChineseSleepChant = {
   ],
   title: "Chinese Sleep Chant",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

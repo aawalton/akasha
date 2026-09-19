@@ -14,7 +14,6 @@ export const coldplayOnlySuperstition = {
   ],
   title: "Only Superstition",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayMyloXyloto = {
   ],
   title: "Mylo Xyloto",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayIRanAway = {
   ],
   title: "I Ran Away",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

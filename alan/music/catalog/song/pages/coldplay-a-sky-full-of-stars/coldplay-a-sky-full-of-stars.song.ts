@@ -14,7 +14,6 @@ export const coldplayASkyFullOfStars = {
   ],
   title: "A Sky Full of Stars",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

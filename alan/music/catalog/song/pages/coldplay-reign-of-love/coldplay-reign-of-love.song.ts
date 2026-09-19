@@ -14,7 +14,6 @@ export const coldplayReignOfLove = {
   ],
   title: "Reign of Love",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayBiutyful = {
   ],
   title: "Biutyful",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

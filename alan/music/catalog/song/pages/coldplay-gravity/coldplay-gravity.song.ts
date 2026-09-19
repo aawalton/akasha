@@ -14,7 +14,6 @@ export const coldplayGravity = {
   ],
   title: "Gravity",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

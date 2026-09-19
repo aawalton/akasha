@@ -14,7 +14,6 @@ export const coldplayASpellARebelYell = {
   ],
   title: "A Spell a Rebel Yell",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplaySpies = {
   ],
   title: "Spies",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

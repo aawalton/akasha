@@ -14,7 +14,6 @@ export const coldplayARushOfBloodToTheHead = {
   ],
   title: "A Rush of Blood to the Head",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

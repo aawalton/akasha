@@ -14,7 +14,6 @@ export const coldplayCrestsOfWaves = {
   ],
   title: "Crests of Waves",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

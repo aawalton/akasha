@@ -14,7 +14,6 @@ export const coldplayAnothersArms = {
   ],
   title: "Another’s Arms",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

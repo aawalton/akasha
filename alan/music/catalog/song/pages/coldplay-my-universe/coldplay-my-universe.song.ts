@@ -14,7 +14,6 @@ export const coldplayMyUniverse = {
   ],
   title: "My Universe",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

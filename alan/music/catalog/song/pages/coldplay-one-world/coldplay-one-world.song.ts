@@ -14,7 +14,6 @@ export const coldplayOneWorld = {
   ],
   title: "ONE WORLD",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayMovingToMars = {
   ],
   title: "Moving to Mars",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayParadise = {
   ],
   title: "Paradise",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const coldplayGodPutASmileUponYourFace = {
   ],
   title: "God Put a Smile Upon Your Face",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

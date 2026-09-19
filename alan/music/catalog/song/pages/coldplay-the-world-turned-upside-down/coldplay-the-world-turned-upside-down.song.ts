@@ -14,7 +14,6 @@ export const coldplayTheWorldTurnedUpsideDown = {
   ],
   title: "The World Turned Upside Down",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

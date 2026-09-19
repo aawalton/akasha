@@ -14,7 +14,6 @@ export const coldplayChampionOfTheWorld = {
   ],
   title: "Champion of the World",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

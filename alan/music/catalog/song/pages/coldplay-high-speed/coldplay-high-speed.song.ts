@@ -14,7 +14,6 @@ export const coldplayHighSpeed = {
   ],
   title: "High Speed",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

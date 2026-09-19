@@ -14,7 +14,6 @@ export const coldplayWhenINeedAFriend = {
   ],
   title: "When I Need a Friend",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

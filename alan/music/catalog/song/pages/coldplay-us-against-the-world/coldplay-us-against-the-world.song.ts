@@ -14,7 +14,6 @@ export const coldplayUsAgainstTheWorld = {
   ],
   title: "Us Against the World",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

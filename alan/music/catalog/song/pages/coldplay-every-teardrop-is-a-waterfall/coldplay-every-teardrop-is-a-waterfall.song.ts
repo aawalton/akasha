@@ -14,7 +14,6 @@ export const coldplayEveryTeardropIsAWaterfall = {
   ],
   title: "Every Teardrop Is a Waterfall",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

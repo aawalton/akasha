@@ -14,7 +14,6 @@ export const coldplayPourMe = {
   ],
   title: "Pour Me",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

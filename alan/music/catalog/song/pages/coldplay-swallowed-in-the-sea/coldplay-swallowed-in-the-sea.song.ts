@@ -14,7 +14,6 @@ export const coldplaySwallowedInTheSea = {
   ],
   title: "Swallowed in the Sea",
   artist: "artist/coldplay",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
