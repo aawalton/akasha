@@ -31,8 +31,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/payload/hook-payload.test-fixture.ts","id":"01a04f4d-f0ea-791d-8bb4-ce41b59e46b1"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/message-file/message-file.module.ts","id":"01a06a00-69c9-7000-9e16-a5778d6ad576"}
 {"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/person-handlers/person-handlers.module.ts","id":"01a0691b-4f64-73b2-8015-87e24cab720b"}
-{"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/recipient-resolver-deps/recipient-resolver-deps.module.ts","id":"01a0657d-a75e-7001-8ac5-1d57805bf5ae"}
-{"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.ts","id":"01a0657d-a75e-7004-be2b-c82d305902a9"}
 {"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/seat-identity/seat-identity.module.ts","id":"01a0691b-4f64-74ee-829a-1886f2b0a5e5"}
 {"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.ts","id":"01a0691b-4f64-7b71-ba64-5c92023f77fe"}
 {"propertySlug":"decision-kind","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
