@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bounce's location is dropped and its cookies are kept."},{"decisionKind":"decision-kind/departure","statement":"Each cookie a bounce sets is appended, so none writes over another."},{"decisionKind":"decision-kind/departure","statement":"A root route is told which path a sign-in is at rather than knowing it here."}]}
+{"definition":"the headers a guard's bounce carries on, and whether that bounce went to a sign-in page"}
+{"id":"01a0bb5b-8f41-7780-9975-3de2710f47c0"}
+{"slug":"handover-bounce"}
+{"type":"page-type/module"}

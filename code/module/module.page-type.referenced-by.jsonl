@@ -419,6 +419,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/basemap-range/basemap-range.module.ts"}
@@ -562,6 +563,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/stack-normalizing/stack-normalizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-site/handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-rows/sample-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-selecting/sample-selecting.module.ts"}

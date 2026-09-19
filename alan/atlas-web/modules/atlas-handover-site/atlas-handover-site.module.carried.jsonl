@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Atlas is named `atlas` in a handover, and alanwalton.com knows that name."},{"decisionKind":"decision-kind/departure","statement":"Atlas signs its own cookie with `ATLAS_SESSION_KEY`."}]}
+{"definition":"what Atlas is called in a handover, where Atlas answers, and the key Atlas signs with"}
+{"id":"01a0bb46-11c3-76f3-84e4-f735a56d061d"}
+{"slug":"atlas-handover-site"}
+{"type":"page-type/module"}

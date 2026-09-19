@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-places-search/atlas-api-places-search.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-basemap-na-eu/atlas-basemap-na-eu.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-handover/atlas-handover.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-home/atlas-home.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-page-detail/atlas-page-detail.route.ts"}
@@ -53,6 +54,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-design/alan-web-design.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-home/alan-web-home.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.ts"}

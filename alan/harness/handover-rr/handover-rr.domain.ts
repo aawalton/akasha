@@ -1,0 +1,58 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const handoverRr = {
+  id: "01a0bb5b-cb42-713b-bb83-e6d3265a0786",
+  type: "page-type/domain",
+  slug: "handover-rr",
+  definition:
+    "the sign-in a peripheral borrows from alanwalton.com, taken as a code and kept as its own cookie",
+  parts: [
+    "module/handover-arrival",
+    "module/handover-bounce",
+    "module/handover-code",
+    "module/handover-session",
+    "module/handover-site",
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A peripheral asks alanwalton.com who a person is, and asks no provider itself.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No Better Auth is reached from here, so a peripheral holds no provider secret.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code is an EdDSA JWT naming the one origin that code is for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code lives thirty seconds, and a code living longer than sixty is refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No record is kept of a code spent, so an unexpired code handed back twice is taken twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A site signs its session cookie with a key of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A session cookie carries the contributor slug and an issued-at, and nothing else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A return path is a path of the peripheral's own, and a code sends nobody off-site.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A code that will not read sends the person back to the start of the handover, signing nobody in.",
+    },
+  ],
+} as const satisfies Domain

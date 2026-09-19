@@ -1,7 +1,13 @@
+import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import { NavCommands } from "akasha/alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.code.tsx"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
+import {
+  bouncedToSignIn,
+  passingOn,
+} from "akasha/alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
 import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
@@ -11,6 +17,7 @@ import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostic
 import type React from "react"
 import { useEffect } from "react"
 import {
+  data,
   isRouteErrorResponse,
   Links,
   Meta,
@@ -25,7 +32,7 @@ import "akasha/alan/atlas-web/look/alan-atlas-web-look.stylesheet.styles.css"
 const AUTH_CONFIG: AuthRouteConfig = {
   signInPath: "/sign-in",
   authPaths: ["/sign-in", "/sign-up"],
-  internalApiPaths: ["/api/health", "/api/errors", "/basemap/na-eu.pmtiles"],
+  internalApiPaths: ["/api/health", "/api/errors", "/basemap/na-eu.pmtiles", /^\/handover$/],
   externalRedirectPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
 }
 
@@ -35,7 +42,11 @@ export const meta: Route.MetaFunction = () => [
 ]
 
 export async function loader({ request, context }: Route.LoaderArgs) {
-  return guardedRootData(request, AUTH_CONFIG, context.nonce)
+  const guarded = await guardedRootData(request, AUTH_CONFIG, context.nonce)
+  if (!(guarded instanceof Response)) return guarded
+  if (!bouncedToSignIn(guarded, AUTH_CONFIG.signInPath)) return guarded
+  if ((await signedInAs(ATLAS_SITE, request)) === null) return guarded
+  return data({ nonce: context.nonce }, { headers: passingOn(guarded) })
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

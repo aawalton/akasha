@@ -3,6 +3,10 @@ import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-au
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
+import {
+  bouncedToSignIn,
+  passingOn,
+} from "akasha/alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.code.ts"
 import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
 import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
@@ -102,26 +106,10 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Alan Walton — unified workspace" },
 ]
 
-function passingOn(bounced: Response): Headers {
-  const headers = new Headers()
-  for (const [key, value] of bounced.headers) {
-    const name = key.toLowerCase()
-    if (name === "location" || name === "set-cookie") continue
-    headers.set(key, value)
-  }
-  for (const one of bounced.headers.getSetCookie()) headers.append("set-cookie", one)
-  return headers
-}
-
-function bouncedToSignIn(answered: Response): boolean {
-  const sentTo = answered.headers.get("location") ?? ""
-  return sentTo === AUTH_CONFIG.signInPath || sentTo.startsWith(`${AUTH_CONFIG.signInPath}?`)
-}
-
 export async function loader({ request, context }: Route.LoaderArgs) {
   const guarded = await guardedRootData(request, AUTH_CONFIG, context.nonce)
   if (!(guarded instanceof Response)) return guarded
-  if (!bouncedToSignIn(guarded)) return guarded
+  if (!bouncedToSignIn(guarded, AUTH_CONFIG.signInPath)) return guarded
   if ((await signedInAs(request)) === null) return guarded
   return data({ nonce: context.nonce }, { headers: passingOn(guarded) })
 }

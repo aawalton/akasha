@@ -433,13 +433,16 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/properties/subagent-stopped.boolean-property.ts","id":"01a09c51-0af1-7b79-8b0d-282cd0e95b9d"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.ts","id":"01a07382-cc82-70f9-994d-20709df7bec4"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.ts","id":"01a0bb46-11c3-76f3-84e4-f735a56d061d"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-page-write/atlas-api-page-write.route.ts","id":"01a08838-c84b-70c9-ae34-60620a677571"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts","id":"01a0883b-b4dd-7183-8f6a-4afc210a6fc8"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-basemap-na-eu/atlas-basemap-na-eu.route.ts","id":"01a0883b-0035-7210-a6bc-ddb46f2840c5"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-handover/atlas-handover.route.ts","id":"01a0bb46-6945-7bae-a6c8-2735a79228a2"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.ts","id":"01a0883d-3b05-7404-bc35-cbb827588fe9"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-page-detail/atlas-page-detail.route.ts","id":"01a0883d-a94b-761e-a164-2900c651ecf8"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-page-listing/atlas-page-listing.route.ts","id":"01a0883c-86f0-7495-92b2-1e1957b490a8"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-search/atlas-search.route.ts","id":"01a0883f-0826-7e5c-8e46-5e2a38ee8554"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-sign-in/atlas-sign-in.route.ts","id":"01a08839-e4a2-7fb1-bc8d-19574cec390b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/points/attribute-points.module.ts","id":"01a081f8-593c-795e-92d9-6c2e0b74460e"}
@@ -678,6 +681,12 @@
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-user-agent.text-property.ts","id":"01a05f3f-e3e0-7e41-90e7-af904c25308e"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"decision-kind","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts","id":"01a05c48-deeb-7002-a7d6-912bcaf143d2"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts","id":"01a0bb44-e843-7fb1-8970-cb9a34941050"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts","id":"01a0bb5b-8f41-7780-9975-3de2710f47c0"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts","id":"01a0bb44-4dec-7f6d-b99e-f83158413eb6"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.ts","id":"01a0bb44-9e4d-7660-9ae3-e797378ebcab"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-site/handover-site.module.ts","id":"01a0bb43-f125-7242-ae2b-72157ed7dc6b"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/health-sample-access.domain.ts","id":"01a05bc7-9129-7000-a4ef-ca6a1a3463b1"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.ts","id":"01a05bc7-9129-7002-ab78-700980114edd"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/modules/sample-rows/sample-rows.module.ts","id":"01a05bc7-9129-7003-ad69-0d84f3a9d2ea"}
@@ -1208,6 +1217,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.ts","id":"01a0ba9c-04fb-7a10-9331-ba1d5382ec7a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.ts","id":"01a08835-7148-7ce8-968b-e46434e1f048"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.ts","id":"01a08828-5d45-7bd8-a16d-6e8d242d8a4c"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.ts","id":"01a0bb45-8674-7d4f-86d6-38a518fd593b"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-home/alan-web-home.route.ts","id":"01a08830-7db2-77e4-a5d5-9c29796416ef"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.ts","id":"01a08831-2175-75aa-959c-c43105b54c5a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.ts","id":"01a08833-1672-716a-8f04-9183f3106bcc"}

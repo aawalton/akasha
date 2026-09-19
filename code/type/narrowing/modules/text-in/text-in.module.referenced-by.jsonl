@@ -6,6 +6,8 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts"}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/editor/extension/modules/subagent-core/subagent-core.module.code.ts"}

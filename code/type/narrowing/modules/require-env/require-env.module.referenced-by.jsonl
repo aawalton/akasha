@@ -10,6 +10,8 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/email-routing/modules/email-zone-reaching/email-zone-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/music/spotify/modules/credentials/spotify-credentials.module.code.ts"}

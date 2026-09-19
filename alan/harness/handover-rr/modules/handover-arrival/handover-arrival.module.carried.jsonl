@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A return path is read as a path of the peripheral's own or thrown away."},{"decisionKind":"decision-kind/departure","statement":"A return path naming the landing path or the sign-in path is thrown away."},{"decisionKind":"decision-kind/departure","statement":"A code that reads as nobody sends the person back to alanwalton.com rather than signing anyone in."},{"decisionKind":"decision-kind/departure","statement":"The cookie is set on the redirect that carries the person to the return path."}]}
+{"definition":"taking a code at a peripheral's landing path, and sending a stranger off to get one"}
+{"id":"01a0bb44-e843-7fb1-8970-cb9a34941050"}
+{"slug":"handover-arrival"}
+{"type":"page-type/module"}

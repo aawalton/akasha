@@ -64,6 +64,7 @@ export const alanWebRoutes = {
     "route/widget-tap",
     "route/alan-web-api-stripe-webhook",
     "route/alan-web-api-auth",
+    "route/alan-web-handover-mint",
   ],
   decisions: [
     {

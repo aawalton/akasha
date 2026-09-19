@@ -307,6 +307,8 @@
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-kind.text-property.ts","id":"01a05f3f-e3e0-70ed-a9ac-229acd8e154c"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"decision-kind","path":"alan/harness/geo-io/geo-io.domain.ts","id":"01a05c48-deeb-7000-a8e9-296daa14b0c7"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.ts","id":"01a0bb44-9e4d-7660-9ae3-e797378ebcab"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/health-sample-access.domain.ts","id":"01a05bc7-9129-7000-a4ef-ca6a1a3463b1"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.ts","id":"01a05bc7-9129-7002-ab78-700980114edd"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/modules/sample-selecting/sample-selecting.module.ts","id":"01a05bc7-9129-7004-a85c-285fd90a0c08"}

@@ -23,6 +23,7 @@ export const alanAtlasWeb = {
     "manifest/alanwalton-atlas",
     "module/atlas-app-id",
     "module/atlas-app-shell",
+    "module/atlas-handover-site",
     "module/atlas-nav-command",
     "module/atlas-nav-items",
     "module/basemap-range",
