@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { barbell } from "akasha/alan/value/health/fitness/strength/exercise/implement/pages/barbell.strength-exercise-implement.ts"
+import { dumbbell } from "akasha/alan/value/health/fitness/strength/exercise/implement/pages/dumbbell.strength-exercise-implement.ts"
+import { strengthExerciseImplement } from "akasha/alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts"
 import {
   coveredBy,
   easedTo,
@@ -8,23 +11,27 @@ import {
   topLoadFor,
 } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 
-const DUMBBELLS: Kit = { covers: ["dumbbell"], loads: [3, 5, 8, 10, 15, 20, 25, 30] }
+const DUMBBELL_AT = `${strengthExerciseImplement.slug}/${dumbbell.slug}` as const
+
+const BARBELL_AT = `${strengthExerciseImplement.slug}/${barbell.slug}` as const
+
+const DUMBBELLS: Kit = { covers: [dumbbell.slug], loads: [3, 5, 8, 10, 15, 20, 25, 30] }
 
 const KIT = [DUMBBELLS]
 
 test("kit Alan does not have to hand offers no loads", () => {
   const read = kitIn([
-    { available: true, covers: ["strength-exercise-implement/dumbbell"], loads: [10, 20] },
-    { available: false, covers: ["strength-exercise-implement/barbell"], loads: [45] },
+    { available: true, covers: [DUMBBELL_AT], loads: [10, 20] },
+    { available: false, covers: [BARBELL_AT], loads: [45] },
   ])
-  expect(read).toEqual([{ covers: ["dumbbell"], loads: [10, 20] }])
-  expect(coveredBy(read)).toEqual(new Set(["dumbbell"]))
+  expect(read).toEqual([{ covers: [dumbbell.slug], loads: [10, 20] }])
+  expect(coveredBy(read)).toEqual(new Set([dumbbell.slug]))
 })
 
 test("the loads are read off the kit covering the movement", () => {
-  expect(loadsFor(KIT, "dumbbell")).toEqual([3, 5, 8, 10, 15, 20, 25, 30])
-  expect(topLoadFor(KIT, "dumbbell")).toBe(30)
-  expect(topLoadFor(KIT, "barbell")).toBe(null)
+  expect(loadsFor(KIT, dumbbell.slug)).toEqual([3, 5, 8, 10, 15, 20, 25, 30])
+  expect(topLoadFor(KIT, dumbbell.slug)).toBe(30)
+  expect(topLoadFor(KIT, barbell.slug)).toBe(null)
 })
 
 test("a load asked for by a target is the heaviest load at or under that target", () => {

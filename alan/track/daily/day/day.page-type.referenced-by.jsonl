@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/surplus-hours.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/total-level.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"alan/track/daily/day/properties/wealth-stoplight.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"day.page-type.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/day.page-type.ts"}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts"}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/pages/2026-01-02/day-2026-01-02.day.ts"}

@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"infrastructure/git-transport/git-hook/git-hook.page-type.ts","id":"01a08b9f-d972-7ee0-8e22-db3bbd9747c8"}
+{"propertySlug":"import","fileName":"shell-script.page-type.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/apns-forwarding/alanwalton-apns-forwarding.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/app-entitlements/alanwalton-app-entitlements.shell-script.ts"}

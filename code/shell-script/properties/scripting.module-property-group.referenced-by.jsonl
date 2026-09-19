@@ -1,4 +1,5 @@
 {"propertySlug":"file-written-by","path":"code/shell-script/properties/shell.code-file-property.ts","id":"01a05849-1564-7478-8fc5-2b62cc74068d"}
 {"propertySlug":"import","fileName":"scripting.module-property-group.ts","path":"code/shell-script/shell-script.page-type.types.ts"}
+{"propertySlug":"import","fileName":"scripting.module-property-group.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}
 {"propertySlug":"page-property","path":"code/shell-script/shell-script.page-type.ts","id":"01a05849-1565-72f5-a51d-6ed25321a433"}
 {"propertySlug":"parts","path":"code/shell-script/shell-script.page-type.ts","id":"01a05849-1565-72f5-a51d-6ed25321a433"}

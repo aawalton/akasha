@@ -4,6 +4,8 @@ import { join } from "node:path"
 import { blobIdOf, type Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
+import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
+import { scripting } from "akasha/code/shell-script/properties/scripting.module-property-group.ts"
 import {
   commitNamed,
   machineWrote,
@@ -252,9 +254,11 @@ const SHELL_AT = "akasha/shell.file-property.ts"
 
 const GROUP_PAGE = "akasha/scripting.module-property-group.ts"
 
+const WRITTEN_BY = `${modulePropertyGroup.slug}/${scripting.slug}` as const
+
 const SAYING: ReadonlyMap<string, Value> = new Map([
-  [SHELL_AT, { propertySlug: "shell", writtenBy: "module-property-group/scripting" }],
-  [GROUP_PAGE, { slug: "scripting", propertySlug: "scripting" }],
+  [SHELL_AT, { propertySlug: "shell", writtenBy: WRITTEN_BY }],
+  [GROUP_PAGE, { slug: scripting.slug, propertySlug: scripting.propertySlug }],
 ])
 
 function groupsAt(root: string): Facing {

@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import { day } from "akasha/alan/track/daily/day/day.page-type.ts"
+import { day20260810 } from "akasha/alan/track/daily/day/pages/2026-08-10/day-2026-08-10.day.ts"
+import { dumbbellBenchPress } from "akasha/alan/value/health/fitness/strength/exercise/pages/dumbbell-bench-press/dumbbell-bench-press.strength-exercise.ts"
+import { strengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts"
 import {
   dayOf,
   type Movement,
@@ -8,17 +12,19 @@ import {
 import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const BENCH = movement("dumbbell-bench-press", {
+const BENCH = movement(dumbbellBenchPress.slug, {
   title: "Dumbbell Bench Press",
   muscles: ["chest", "triceps"],
 })
 
 const MOVEMENTS = new Map<string, Movement>([[BENCH.slug, BENCH]])
 
+const AUGUST_TENTH = `${day.slug}/${day20260810.slug}` as const
+
 function set(on: string, rpe: number | null, warmup = false): Value {
   const made: Record<string, unknown> = {
-    day: `day/day-${on}`,
-    exercise: "strength-exercise/dumbbell-bench-press",
+    day: `${day.slug}/day-${on}`,
+    exercise: `${strengthExercise.slug}/${dumbbellBenchPress.slug}`,
   }
   if (rpe !== null) made.rpe = rpe
   if (warmup) made.isWarmup = true
@@ -68,8 +74,8 @@ test("a warmup set is passed over", () => {
 
 test("a set naming a movement this does not know is passed over", () => {
   const stray: Value = {
-    day: "day/day-2026-08-10",
-    exercise: "strength-exercise/nothing-here",
+    day: AUGUST_TENTH,
+    exercise: `${strengthExercise.slug}/nothing-here`,
     rpe: 9,
   }
   const held = tally([stray])
@@ -84,6 +90,6 @@ test("a set outside the window is neither counted nor passed over", () => {
 })
 
 test("the day a set falls on is read from the day that set names", () => {
-  expect(dayOf({ day: "day/day-2026-08-10" })).toBe("2026-08-10")
+  expect(dayOf({ day: AUGUST_TENTH })).toBe(day20260810.date)
   expect(dayOf({})).toBe(null)
 })

@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"check/code/properties/decision.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"code/container-recipe/properties/composing.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"code/shell-script/properties/scripting.module-property-group.ts"}
+{"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/extending.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/filling.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/service/workstation/properties/running.module-property-group.ts"}

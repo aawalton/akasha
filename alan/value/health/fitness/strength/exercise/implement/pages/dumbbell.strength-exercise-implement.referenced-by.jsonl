@@ -126,4 +126,5 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/zottman-curl/zottman-curl.strength-exercise.ts","id":"019ebc78-c3bf-71f5-bfc5-3d0bbf81ba3c"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/zottman-preacher-curl/zottman-preacher-curl.strength-exercise.ts","id":"019ebc78-c406-7af8-93a2-8b9691ad2af2"}
 {"propertySlug":"fitness-equipment-covers","path":"alan/value/health/fitness/equipment/pages/dumbbells/dumbbells.fitness-equipment.ts","id":"019f01e1-b0dc-72f8-9040-f0924d81a528"}
+{"propertySlug":"import","fileName":"dumbbell.strength-exercise-implement.ts","path":"command/pages/fitness/next/modules/kit-loading/kit-loading.module.test.ts"}
 {"propertySlug":"parts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}
