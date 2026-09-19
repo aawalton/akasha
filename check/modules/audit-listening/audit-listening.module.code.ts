@@ -1,5 +1,4 @@
 import type { Told } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
-import { roundNow } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import {
   bindsFor,
   portFor,
@@ -34,7 +33,7 @@ function said(body: unknown, status: number): Response {
 
 const UNREAD = Symbol("unread")
 
-export async function answering(request: Request, round: Rounding = roundNow): Promise<Response> {
+export async function answering(request: Request, round: Rounding): Promise<Response> {
   const at = new URL(request.url).pathname
   if (at !== ROUND_AT) return said({ refused: `nothing is asked at ${at}` }, 404)
   if (request.method !== "POST") {
@@ -47,7 +46,7 @@ export async function answering(request: Request, round: Rounding = roundNow): P
   return said(await round(sought.checks), 200)
 }
 
-export function runAuditListening(root: string, round: Rounding = roundNow): undefined {
+export function runAuditListening(root: string, round: Rounding): undefined {
   const port = portFor(root, SERVICE_SLUG)
   if (port === null) {
     throw new Error(

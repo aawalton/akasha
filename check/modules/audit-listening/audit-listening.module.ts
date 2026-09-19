@@ -55,6 +55,10 @@ export const auditListening = {
     },
     {
       decisionKind: "decision-kind/absence",
+      statement: "Nothing here falls back to a round of its own where none is handed in.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here says which checks there are.",
     },
     {
