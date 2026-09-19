@@ -37,7 +37,7 @@ test("an unknown market value fails a threshold above zero", () => {
   expect(checkNumeric(LISTING_THRESHOLD, NO_VALUES, CTX)).toEqual({
     kind: "fail",
     conditionKind: "marketValue",
-    detail: "estimatedValue undefined",
+    detail: "marketValue undefined",
   })
 })
 
@@ -51,7 +51,7 @@ test("an unknown market value still passes a zero threshold where the source hol
 })
 
 test("a priced item is judged on its price whether or not a table is claimed missing", () => {
-  const priced: ItemFacts = { ...NO_VALUES, estimatedValue: 12 }
+  const priced: ItemFacts = { ...NO_VALUES, marketValue: 12 }
   expect(checkNumeric(ZERO_THRESHOLD, priced, NO_TABLE)).toEqual({
     kind: "fail",
     conditionKind: "marketValue",
@@ -71,7 +71,7 @@ test("a threshold an unknown market value already fails still fails with no pric
   expect(checkNumeric(LISTING_THRESHOLD, NO_VALUES, NO_TABLE)).toEqual({
     kind: "fail",
     conditionKind: "marketValue",
-    detail: "estimatedValue undefined",
+    detail: "marketValue undefined",
   })
 })
 

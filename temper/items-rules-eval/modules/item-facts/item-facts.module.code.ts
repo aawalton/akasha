@@ -33,7 +33,7 @@ export interface ItemFacts {
   readonly isReconstructed?: boolean
   readonly isTransmuted?: boolean
 
-  readonly estimatedValue?: number
+  readonly marketValue?: number
   readonly merchantValue?: number
   readonly replacementValue?: number
 

@@ -55,7 +55,7 @@ export function checkNumeric(
 
   if (rule.value !== undefined) {
     const ruleValue = resolveThreshold(rule.value)
-    const cv = computeValue(facts.estimatedValue, facts.merchantValue, facts.replacementValue)
+    const cv = computeValue(facts.marketValue, facts.merchantValue, facts.replacementValue)
     const op = rule.valueOp ?? "<="
     if (cv === undefined) {
       if (!(ruleValue === 0 && op === "<=")) {
@@ -71,11 +71,11 @@ export function checkNumeric(
 
   if (rule.marketValue !== undefined) {
     const ruleMarketValue = resolveThreshold(rule.marketValue)
-    const ev = facts.estimatedValue
+    const ev = facts.marketValue
     const op = rule.marketValueOp ?? "<="
     if (ev === undefined) {
       if (!(ruleMarketValue === 0 && op === "<=")) {
-        return { kind: "fail", conditionKind: "marketValue", detail: "estimatedValue undefined" }
+        return { kind: "fail", conditionKind: "marketValue", detail: "marketValue undefined" }
       }
       if (ctx.priceTableMissing === true) {
         return { kind: "indeterminate", conditionKind: "marketValue", missingSignal: PRICE_TABLE }
@@ -88,12 +88,12 @@ export function checkNumeric(
       }
     }
   } else if (rule.maxValue !== undefined || rule.minValue !== undefined) {
-    const ev = facts.estimatedValue
+    const ev = facts.marketValue
     if (ev === undefined) {
       return {
         kind: "indeterminate",
         conditionKind: "marketValue",
-        missingSignal: "estimatedValue",
+        missingSignal: "marketValue",
       }
     }
     if (rule.maxValue !== undefined && ev > rule.maxValue) {
