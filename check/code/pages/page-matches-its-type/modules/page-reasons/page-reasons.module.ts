@@ -37,10 +37,6 @@ export const pageReasons = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A declaration's length narrows the length its property states.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A property named as excused is not asked of the page.",
     },
     {
