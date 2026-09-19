@@ -169,7 +169,7 @@ export const spawning: Running = async (one) => {
   const scratch = scratchWorld()
   try {
     const at = join(scratch.rootFor(SCRATCH), ANSWERED)
-    const cpu = (processorsHere() ?? ALONE) === ALONE ? (one.auditCeiling ?? null) : null
+    const cpu = one.auditCeiling ?? null
     const memory = one.auditMemoryMb ?? null
     const began = Date.now()
     const done = await bytesAwaited([BUN, childAt(one.root), one.root, one.slug, at], {

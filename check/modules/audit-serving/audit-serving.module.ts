@@ -249,11 +249,11 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That ceiling is put on a check only where the round may use one processor.",
+      statement: "A check is held to that ceiling whether or not a check ran beside it.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The job's deadline is what bounds a check no ceiling was put on.",
+      decisionKind: "decision-kind/departure",
+      statement: "A check that runs away is stopped there rather than holding the round open.",
     },
     {
       decisionKind: "decision-kind/departure",
