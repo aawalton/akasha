@@ -66,7 +66,7 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-description-utils/companion-description-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts"}

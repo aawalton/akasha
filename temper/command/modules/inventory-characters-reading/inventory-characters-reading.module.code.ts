@@ -1,7 +1,10 @@
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
+import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
@@ -236,6 +239,40 @@ function collectResearchedTraits(
 
 function readCurseState(held: string | undefined): CharacterCurseState | undefined {
   return held === "vampire" || held === "werewolf" ? held : undefined
+}
+
+export function knownMotifChapters(
+  held: CharacterKnowledge,
+  styleId: number
+): ReadonlySet<number> | undefined {
+  return held.motifKnowledgeByStyle.get(styleId) ?? held.motifChaptersByStyle.get(styleId)
+}
+
+export function knownMotifStyleIds(held: CharacterKnowledge): ReadonlySet<number> {
+  return new Set([...held.motifKnowledgeByStyle.keys(), ...held.motifChaptersByStyle.keys()])
+}
+
+export function knowsItem(held: CharacterKnowledge, itemKey: ItemKey): boolean {
+  switch (itemKey.kind) {
+    case "recipe":
+      return held.recipeResultItemIds.has(itemKey.resultItemId)
+    case "motif": {
+      const knownChapters = knownMotifChapters(held, itemKey.styleId)
+      if (knownChapters === undefined) return false
+      if (itemKey.chapterId === null) {
+        const styleChapters = STYLE_TO_CHAPTERS[itemKey.styleId]
+        if (styleChapters === undefined || styleChapters.length === 0) return false
+        return knownChapters.size === styleChapters.length
+      }
+      return knownChapters.has(itemKey.chapterId)
+    }
+    case "script":
+      return held.unlockedScriptIds.has(itemKey.scriptId)
+    case "consumable":
+      return false
+    default:
+      return assertNever(itemKey)
+  }
 }
 
 export function parseTemperCharacters(content: string): ReadonlyArray<CharacterKnowledge> {

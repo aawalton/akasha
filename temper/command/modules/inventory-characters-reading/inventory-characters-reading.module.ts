@@ -65,5 +65,15 @@ export const inventoryCharactersReading = {
       statement:
         "A scribing script is named by the item id of the book teaching it, found by its name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a character knows of a style comes from motifKnowledge, or the lore table where it is absent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Whether a character knows an item is answered here, for a command and for a rule walk alike.",
+    },
   ],
 } as const satisfies Module

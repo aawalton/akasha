@@ -18,10 +18,13 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { temperInventoryKnowledge as page } from "akasha/command/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.ts"
 import {
   type CharacterKnowledge,
+  knownMotifChapters,
+  knownMotifStyleIds,
+  knowsItem,
   loadTemperCharactersFromPath,
 } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 const NAMED = [jsonArgument, charactersPathArgument, charArgument, itemKeyArgument]
 
@@ -32,18 +35,6 @@ const ITEM_KEY = itemKeyArgument.said
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
 const MASTER = "master"
-
-type RecipeKey = { readonly kind: "recipe"; readonly resultItemId: number }
-
-type MotifKey = {
-  readonly kind: "motif"
-  readonly styleId: number
-  readonly chapterId: number | null
-}
-
-type ScriptKey = { readonly kind: "script"; readonly scriptId: number }
-
-type ItemKey = RecipeKey | MotifKey | ScriptKey
 
 export function itemKeyIn(raw: string): ItemKey | string {
   const colon = raw.indexOf(":")
@@ -86,26 +77,11 @@ export function itemKeyIn(raw: string): ItemKey | string {
   return `\`${ITEM_KEY}\` carries \`recipe\`, \`motif\` and \`script\`, and \`${kind}\` is none of them`
 }
 
-function knowsItem(
-  one: CharacterKnowledge,
-  key: ItemKey,
-  styleToChapters: Readonly<Record<number, readonly number[]>>
-): boolean {
-  if (key.kind === "recipe") return one.recipeResultItemIds.has(key.resultItemId)
-  if (key.kind === "script") return one.unlockedScriptIds.has(key.scriptId)
-  const known = one.motifChaptersByStyle.get(key.styleId)
-  if (known === undefined) return false
-  if (key.chapterId === null) {
-    const chapters = styleToChapters[key.styleId]
-    if (chapters === undefined || chapters.length === 0) return false
-    return known.size === chapters.length
-  }
-  return known.has(key.chapterId)
-}
-
 function motifBookCount(one: CharacterKnowledge): number {
   let total = 0
-  for (const chapters of one.motifChaptersByStyle.values()) total += chapters.size
+  for (const styleId of knownMotifStyleIds(one)) {
+    total += knownMotifChapters(one, styleId)?.size ?? 0
+  }
   return total
 }
 
@@ -144,7 +120,7 @@ export async function temperInventoryKnowledge(
     const rows = selected.map((one) => ({
       id: one.id,
       name: one.name,
-      knows: knowsItem(one, key, STYLE_TO_CHAPTERS),
+      knows: knowsItem(one, key),
     }))
     if (taken.json) return asJson(rows)
     return told(rows.map((one) => `${one.id}\t${one.name ?? ""}\t${one.knows}`))

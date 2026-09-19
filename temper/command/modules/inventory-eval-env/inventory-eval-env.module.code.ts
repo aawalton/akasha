@@ -1,6 +1,9 @@
-import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  type CharacterKnowledge,
+  knownMotifChapters,
+  knowsItem,
+} from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   computeBankStock,
   computeItemStock,
@@ -9,13 +12,11 @@ import { findCooldownGroup } from "akasha/temper/items-core/modules/cooldown-gro
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
-import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/saved-variable/modules/lua-array/lua-array.module.code.ts"
 
@@ -26,10 +27,6 @@ export interface CliEvalEnvDeps {
   readonly wantedEquipment?: ReadonlyArray<WantedEquipmentSignature>
   readonly wantedCompanionEquipment?: ReadonlyArray<WantedCompanionEquipmentSignature>
   readonly db?: InventoryDatabase
-}
-
-function chaptersOfStyle(styleId: number): readonly number[] | undefined {
-  return STYLE_TO_CHAPTERS[styleId]
 }
 
 const UNKNOWN = "unknown"
@@ -48,10 +45,13 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
   const consumableStock = computeItemStock(db ?? null, new Set(consumableWanters.keys()))
   const bankStock = computeBankStock(db ?? null)
   return {
-    isKnownByCharacter: (itemKey, charId) => knowsItemForChar(charactersById, charId, itemKey),
+    isKnownByCharacter: (itemKey, charId) => {
+      const held = charactersById.get(charId)
+      return held !== undefined && knowsItem(held, itemKey)
+    },
     isKnownByAnyCharacter: (itemKey) => {
-      for (const charId of charactersById.keys()) {
-        if (knowsItemForChar(charactersById, charId, itemKey)) return true
+      for (const held of charactersById.values()) {
+        if (knowsItem(held, itemKey)) return true
       }
       return false
     },
@@ -75,10 +75,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     getKnownChapterCountForStyle: (charId, styleId) => {
       const held = charactersById.get(charId)
       if (held === undefined) return 0
-      const knownChapters =
-        held.motifKnowledgeByStyle.get(styleId) ?? held.motifChaptersByStyle.get(styleId)
-      if (knownChapters === undefined) return 0
-      return knownChapters.size
+      return knownMotifChapters(held, styleId)?.size ?? 0
     },
 
     getConsumableWanters: (itemId) => consumableWanters.get(itemId) ?? [],
@@ -171,35 +168,4 @@ function compileItemIdToCooldownGroup(
     }
   }
   return result
-}
-
-function knowsItemForChar(
-  charactersById: ReadonlyMap<string, CharacterKnowledge>,
-  charId: string,
-  itemKey: ItemKey
-): boolean {
-  const held = charactersById.get(charId)
-  if (held === undefined) return false
-  switch (itemKey.kind) {
-    case "recipe":
-      return held.recipeResultItemIds.has(itemKey.resultItemId)
-    case "motif": {
-      const knownChapters =
-        held.motifKnowledgeByStyle.get(itemKey.styleId) ??
-        held.motifChaptersByStyle.get(itemKey.styleId)
-      if (knownChapters === undefined) return false
-      if (itemKey.chapterId === null) {
-        const styleChapters = chaptersOfStyle(itemKey.styleId)
-        if (styleChapters === undefined || styleChapters.length === 0) return false
-        return knownChapters.size === styleChapters.length
-      }
-      return knownChapters.has(itemKey.chapterId)
-    }
-    case "script":
-      return held.unlockedScriptIds.has(itemKey.scriptId)
-    case "consumable":
-      return false
-    default:
-      return assertNever(itemKey)
-  }
 }
