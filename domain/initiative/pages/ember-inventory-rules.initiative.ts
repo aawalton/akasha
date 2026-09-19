@@ -28,11 +28,6 @@ export const emberInventoryRules = {
         "1 item: Companion's Greaves 177029, recorded `list` by rule 47 `valuable-nothing`, where the fresh reading sells by rule 73 `companion-green-sell`. The same bound-thing price drop as the furnishings: `explain` gives `replacementCost 14551.2` with no estimatedValue, so rule 47 is rejected and rule 73 takes it. Two stacks sit in bag 1 of 8796093022338107, slot 53 bound and slot 56 not. This goes with the furnishings.",
     },
     {
-      statement: "Each kind of value a thing has is a domain, under one domain for value itself.",
-      workingMemory:
-        "Three kinds: market value, what another player would pay; merchant value, what a vendor pays; replacement value, what you would pay to get another. The rules already name all three that way, in the market-value, merchant-value and replacement-value filters of items-rules-core, with a value filter over them. Nothing names them as domains, and the parent is held by a module defined as the value a row shows.\n",
-    },
-    {
       statement:
         "One name reaches a kind of value in the capture, in an item's facts and in a rule.",
       workingMemory:
