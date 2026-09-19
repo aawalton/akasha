@@ -23,4 +23,5 @@ export const coldplayXYAMessage = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "amessage|4gzpq5DPGxSnKTe4SA8HAU|285345",
+  song: "song/coldplay-a-message",
 } as const satisfies Track

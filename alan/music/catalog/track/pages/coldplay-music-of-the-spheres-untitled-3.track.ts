@@ -27,4 +27,5 @@ export const coldplayMusicOfTheSpheresUntitled3 = {
     { externalId: "0QWrMNukfcVOmgEU0FEDyD", artistName: "Jacob Collier" },
   ],
   trackKey: "|0FPWyyf6MD4QZTj3aypD3O,0QWrMNukfcVOmgEU0FEDyD,4gzpq5DPGxSnKTe4SA8HAU|188966",
+  song: "song/coldplay-untitled-3",
 } as const satisfies Track

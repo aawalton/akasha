@@ -23,4 +23,5 @@ export const coldplaySpeedOfSoundThingsIDontUnderstand = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thingsidontunderstand|4gzpq5DPGxSnKTe4SA8HAU|295626",
+  song: "song/coldplay-things-i-dont-understand",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const coldplaySpotifySinglesLetSomebodyGoSpotifySingles = {
     { externalId: "0C8ZW7ezQVs4URX5aX7Kqx", artistName: "Selena Gomez" },
   ],
   trackKey: "letsomebodygospotifysingles|0C8ZW7ezQVs4URX5aX7Kqx,4gzpq5DPGxSnKTe4SA8HAU|243154",
+  song: "song/coldplay-let-somebody-go-spotify-singles",
 } as const satisfies Track

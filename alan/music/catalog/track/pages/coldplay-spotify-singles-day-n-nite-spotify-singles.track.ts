@@ -23,4 +23,5 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "daynnitespotifysingles|4gzpq5DPGxSnKTe4SA8HAU|258862",
+  song: "song/coldplay-day-n-nite-spotify-singles",
 } as const satisfies Track

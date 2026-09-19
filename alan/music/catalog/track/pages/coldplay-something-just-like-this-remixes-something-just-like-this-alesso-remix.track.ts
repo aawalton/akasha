@@ -28,4 +28,5 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisAlessoRemi
   ],
   trackKey:
     "somethingjustlikethisalessoremix|4AVFqumd2ogHFlRbKIjp1t,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|252933",
+  song: "song/coldplay-something-just-like-this",
 } as const satisfies Track

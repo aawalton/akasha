@@ -23,4 +23,5 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "peopleofthepride|4gzpq5DPGxSnKTe4SA8HAU|217266",
+  song: "song/coldplay-people-of-the-pride",
 } as const satisfies Track

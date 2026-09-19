@@ -23,4 +23,5 @@ export const coldplayMusicOfTheSpheresBiutyful = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "biutyful|4gzpq5DPGxSnKTe4SA8HAU|192394",
+  song: "song/coldplay-biutyful",
 } as const satisfies Track

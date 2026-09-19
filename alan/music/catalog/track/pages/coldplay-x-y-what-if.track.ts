@@ -23,4 +23,5 @@ export const coldplayXYWhatIf = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "whatif|4gzpq5DPGxSnKTe4SA8HAU|298519",
+  song: "song/coldplay-what-if",
 } as const satisfies Track

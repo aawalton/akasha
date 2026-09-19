@@ -26,4 +26,5 @@ export const coldplayMyUniverse2MyUniverseInstrumental = {
     { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
   ],
   trackKey: "myuniverseinstrumental|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|228000",
+  song: "song/coldplay-my-universe",
 } as const satisfies Track

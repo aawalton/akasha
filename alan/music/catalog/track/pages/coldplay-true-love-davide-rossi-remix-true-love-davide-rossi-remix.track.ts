@@ -26,4 +26,5 @@ export const coldplayTrueLoveDavideRossiRemixTrueLoveDavideRossiRemix = {
     { externalId: "3n5USfahZSYCaiIYW58Mmy", artistName: "Davide Rossi" },
   ],
   trackKey: "truelovedaviderossiremix|3n5USfahZSYCaiIYW58Mmy,4gzpq5DPGxSnKTe4SA8HAU|281750",
+  song: "song/coldplay-true-love",
 } as const satisfies Track

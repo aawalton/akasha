@@ -23,4 +23,5 @@ export const coldplayVivaLaVidaProspektSMarchEditionCemeteriesOfLondon = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "cemeteriesoflondon|4gzpq5DPGxSnKTe4SA8HAU|201106",
+  song: "song/coldplay-cemeteries-of-london",
 } as const satisfies Track

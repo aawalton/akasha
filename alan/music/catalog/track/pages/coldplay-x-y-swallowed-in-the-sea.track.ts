@@ -23,4 +23,5 @@ export const coldplayXYSwallowedInTheSea = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "swallowedinthesea|4gzpq5DPGxSnKTe4SA8HAU|239001",
+  song: "song/coldplay-swallowed-in-the-sea",
 } as const satisfies Track

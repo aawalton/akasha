@@ -23,4 +23,5 @@ export const coldplayTalkTalkFrancoisKDub = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "talkfrancoiskdub|4gzpq5DPGxSnKTe4SA8HAU|543613",
+  song: "song/coldplay-talk-francois-k-dub",
 } as const satisfies Track

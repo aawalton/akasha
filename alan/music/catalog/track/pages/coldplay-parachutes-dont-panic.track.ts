@@ -23,4 +23,5 @@ export const coldplayParachutesDontPanic = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "dontpanic|4gzpq5DPGxSnKTe4SA8HAU|136866",
+  song: "song/coldplay-dont-panic",
 } as const satisfies Track

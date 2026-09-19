@@ -23,4 +23,5 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "shiverjowhileylunchtimesocial|4gzpq5DPGxSnKTe4SA8HAU|261360",
+  song: "song/coldplay-shiver-jo-whiley-lunchtime-social",
 } as const satisfies Track

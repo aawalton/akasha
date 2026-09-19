@@ -26,4 +26,5 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
     { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
   ],
   trackKey: "myuniversesupernova7mix|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|279317",
+  song: "song/coldplay-my-universe",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayMyloXylotoMMIX = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "mmix|4gzpq5DPGxSnKTe4SA8HAU|48466",
+  song: "song/coldplay-m-m-i-x",
 } as const satisfies Track

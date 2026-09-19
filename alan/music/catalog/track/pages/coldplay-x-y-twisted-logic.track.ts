@@ -23,4 +23,5 @@ export const coldplayXYTwistedLogic = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "twistedlogic|4gzpq5DPGxSnKTe4SA8HAU|271860",
+  song: "song/coldplay-twisted-logic",
 } as const satisfies Track

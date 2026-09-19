@@ -23,4 +23,5 @@ export const coldplayYellowHelpIsRoundTheCorner = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "helpisroundthecorner|4gzpq5DPGxSnKTe4SA8HAU|156160",
+  song: "song/coldplay-help-is-round-the-corner",
 } as const satisfies Track

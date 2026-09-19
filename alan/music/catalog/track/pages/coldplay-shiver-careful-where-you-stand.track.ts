@@ -23,4 +23,5 @@ export const coldplayShiverCarefulWhereYouStand = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "carefulwhereyoustand|4gzpq5DPGxSnKTe4SA8HAU|285026",
+  song: "song/coldplay-careful-where-you-stand",
 } as const satisfies Track

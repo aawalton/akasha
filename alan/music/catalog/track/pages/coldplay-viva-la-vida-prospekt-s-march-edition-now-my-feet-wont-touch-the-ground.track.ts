@@ -23,4 +23,5 @@ export const coldplayVivaLaVidaProspektSMarchEditionNowMyFeetWontTouchTheGround 
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "nowmyfeetwonttouchtheground|4gzpq5DPGxSnKTe4SA8HAU|147521",
+  song: "song/coldplay-now-my-feet-wont-touch-the-ground",
 } as const satisfies Track

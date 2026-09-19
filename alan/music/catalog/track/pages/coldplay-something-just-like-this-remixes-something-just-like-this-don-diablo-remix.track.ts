@@ -28,4 +28,5 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDonDiabloR
   ],
   trackKey:
     "somethingjustlikethisdondiabloremix|1l2ekx5skC4gJH8djERwh1,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|230853",
+  song: "song/coldplay-something-just-like-this",
 } as const satisfies Track

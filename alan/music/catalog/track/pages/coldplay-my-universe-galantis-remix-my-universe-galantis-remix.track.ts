@@ -28,4 +28,5 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
   ],
   trackKey:
     "myuniversegalantisremix|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU,4sTQVOfp9vEMCemLw50sbu|224908",
+  song: "song/coldplay-my-universe",
 } as const satisfies Track

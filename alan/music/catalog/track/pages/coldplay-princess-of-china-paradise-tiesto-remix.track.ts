@@ -26,4 +26,5 @@ export const coldplayPrincessOfChinaParadiseTiestoRemix = {
     { externalId: "2o5jDhtHVPhrJdv3cEQ99Z", artistName: "Tiësto" },
   ],
   trackKey: "paradisetiestoremix|2o5jDhtHVPhrJdv3cEQ99Z,4gzpq5DPGxSnKTe4SA8HAU|286346",
+  song: "song/coldplay-paradise",
 } as const satisfies Track

@@ -28,4 +28,5 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
   ],
   trackKey:
     "princessofchinaandresobotaremix|0Tdo9YdoMdoj41B2KNTywZ,4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|303984",
+  song: "song/coldplay-princess-of-china",
 } as const satisfies Track

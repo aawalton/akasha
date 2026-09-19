@@ -28,4 +28,5 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisArmnhmrRem
   ],
   trackKey:
     "somethingjustlikethisarmnhmrremix|0P2bZXPyjHYRW4guHVAFl1,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|224320",
+  song: "song/coldplay-something-just-like-this",
 } as const satisfies Track

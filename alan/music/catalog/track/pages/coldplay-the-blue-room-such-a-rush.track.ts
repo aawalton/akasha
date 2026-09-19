@@ -23,4 +23,5 @@ export const coldplayTheBlueRoomSuchARush = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "sucharush|4gzpq5DPGxSnKTe4SA8HAU|297733",
+  song: "song/coldplay-such-a-rush",
 } as const satisfies Track

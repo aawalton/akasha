@@ -23,4 +23,5 @@ export const coldplayTheBlueRoomBiggerStronger = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "biggerstronger|4gzpq5DPGxSnKTe4SA8HAU|289133",
+  song: "song/coldplay-bigger-stronger",
 } as const satisfies Track

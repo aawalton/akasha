@@ -26,4 +26,5 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
     { externalId: "4fd3n8zcAmsG2up1QWDNj5", artistName: "Muzi" },
   ],
   trackKey: "orphansmuziremix|4fd3n8zcAmsG2up1QWDNj5,4gzpq5DPGxSnKTe4SA8HAU|221160",
+  song: "song/coldplay-orphans",
 } as const satisfies Track

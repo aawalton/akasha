@@ -26,4 +26,5 @@ export const coldplayMyloXylotoPrincessOfChina = {
     { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
   ],
   trackKey: "princessofchina|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|239215",
+  song: "song/coldplay-princess-of-china",
 } as const satisfies Track

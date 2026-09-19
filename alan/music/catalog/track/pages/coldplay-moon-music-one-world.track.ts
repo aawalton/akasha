@@ -23,4 +23,5 @@ export const coldplayMoonMusicOneWorld = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "oneworld|4gzpq5DPGxSnKTe4SA8HAU|407656",
+  song: "song/coldplay-one-world",
 } as const satisfies Track

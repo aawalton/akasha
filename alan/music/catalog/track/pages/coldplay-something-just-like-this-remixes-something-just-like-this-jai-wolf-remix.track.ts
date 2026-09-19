@@ -28,4 +28,5 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisJaiWolfRem
   ],
   trackKey:
     "somethingjustlikethisjaiwolfremix|24V5UY0nChKpnb1TBPJhCw,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|176813",
+  song: "song/coldplay-something-just-like-this",
 } as const satisfies Track

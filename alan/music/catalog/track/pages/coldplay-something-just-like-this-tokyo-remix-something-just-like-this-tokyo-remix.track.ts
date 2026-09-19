@@ -26,4 +26,5 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
     { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
   ],
   trackKey: "somethingjustlikethistokyoremix|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|272986",
+  song: "song/coldplay-something-just-like-this",
 } as const satisfies Track

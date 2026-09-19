@@ -23,4 +23,5 @@ export const coldplayMusicOfTheSpheresUntitled = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "|4gzpq5DPGxSnKTe4SA8HAU|53184",
+  song: "song/coldplay-untitled-2",
 } as const satisfies Track

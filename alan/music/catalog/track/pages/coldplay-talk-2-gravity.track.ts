@@ -23,4 +23,5 @@ export const coldplayTalk2Gravity = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "gravity|4gzpq5DPGxSnKTe4SA8HAU|380946",
+  song: "song/coldplay-gravity",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const coldplayProspektSMarchLoversInJapanOsakaSunMix = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "loversinjapanosakasunmix|4gzpq5DPGxSnKTe4SA8HAU|238240",
+  song: "song/coldplay-lovers-in-japan",
 } as const satisfies Track

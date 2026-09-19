@@ -23,4 +23,5 @@ export const coldplayOverturaOverturaMusicOfTheSpheresAlbumTrailer = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "overturamusicofthespheresalbumtrailer|4gzpq5DPGxSnKTe4SA8HAU|112812",
+  song: "song/coldplay-overtura-music-of-the-spheres-album-trailer",
 } as const satisfies Track

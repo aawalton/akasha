@@ -23,4 +23,5 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLifeInTechnicolor = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "lifeintechnicolor|4gzpq5DPGxSnKTe4SA8HAU|149133",
+  song: "song/coldplay-life-in-technicolor",
 } as const satisfies Track

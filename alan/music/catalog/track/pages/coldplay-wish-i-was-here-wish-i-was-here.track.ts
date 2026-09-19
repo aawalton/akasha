@@ -26,4 +26,5 @@ export const coldplayWishIWasHereWishIWasHere = {
     { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
   ],
   trackKey: "wishiwashere|4gzpq5DPGxSnKTe4SA8HAU,6G7OerKc3eBO9sVkRNopFC|190893",
+  song: "song/coldplay-wish-i-was-here",
 } as const satisfies Track

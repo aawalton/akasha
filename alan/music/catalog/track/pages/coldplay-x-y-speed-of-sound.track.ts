@@ -23,4 +23,5 @@ export const coldplayXYSpeedOfSound = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "speedofsound|4gzpq5DPGxSnKTe4SA8HAU|287906",
+  song: "song/coldplay-speed-of-sound",
 } as const satisfies Track

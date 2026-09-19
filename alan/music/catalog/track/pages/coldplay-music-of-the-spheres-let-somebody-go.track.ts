@@ -26,4 +26,5 @@ export const coldplayMusicOfTheSpheresLetSomebodyGo = {
     { externalId: "0C8ZW7ezQVs4URX5aX7Kqx", artistName: "Selena Gomez" },
   ],
   trackKey: "letsomebodygo|0C8ZW7ezQVs4URX5aX7Kqx,4gzpq5DPGxSnKTe4SA8HAU|241595",
+  song: "song/coldplay-let-somebody-go",
 } as const satisfies Track

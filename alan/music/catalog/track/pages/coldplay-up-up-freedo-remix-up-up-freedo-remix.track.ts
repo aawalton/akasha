@@ -26,4 +26,5 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
     { externalId: "2b6Cbp1cgD0hwisrGbKsZJ", artistName: "Freedo" },
   ],
   trackKey: "upupfreedoremix|2b6Cbp1cgD0hwisrGbKsZJ,4gzpq5DPGxSnKTe4SA8HAU|210294",
+  song: "song/coldplay-up-up",
 } as const satisfies Track

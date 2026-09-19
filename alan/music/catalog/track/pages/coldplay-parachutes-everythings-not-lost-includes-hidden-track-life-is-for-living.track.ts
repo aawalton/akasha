@@ -23,4 +23,5 @@ export const coldplayParachutesEverythingsNotLostIncludesHiddenTrackLifeIsForLiv
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everythingsnotlostincludeshiddentracklifeisforliving|4gzpq5DPGxSnKTe4SA8HAU|436440",
+  song: "song/coldplay-everythings-not-lost-includes-hidden-track-life-is-for-living",
 } as const satisfies Track

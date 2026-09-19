@@ -23,4 +23,5 @@ export const coldplayVivaLaVidaDeathWillNeverConquer = {
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "deathwillneverconquer|4gzpq5DPGxSnKTe4SA8HAU|77853",
+  song: "song/coldplay-death-will-never-conquer",
 } as const satisfies Track
