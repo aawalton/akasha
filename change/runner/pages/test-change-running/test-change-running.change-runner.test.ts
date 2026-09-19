@@ -1,4 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
+import { moveFileCode } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { type World, worldAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   type Address,
@@ -14,13 +20,15 @@ import {
 
 afterAll(scratch.sweep)
 
-const ADD_FILE: Address = "change-mechanical-file/add-file"
+const ADD_FILE: Address = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
-const MOVE_FILE_CODE: Address = "change-mechanical/move-file-code"
+const MOVE_FILE_CODE: Address = `${changeMechanical.slug}/${moveFileCode.slug}` as const
 
-const MOVE_FILE: Address = "change-mechanical-file/move-file"
+const MOVE_FILE: Address = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
 
-const REMOVE_FILE: Address = "change-mechanical-file/remove-file"
+const REMOVE_FILE: Address = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
+
+const NOTHING_FILED = `${changeMechanicalFile.slug}/nothing-at-all` as const
 
 const FRESH = "akasha/one/fresh.md"
 
@@ -38,10 +46,8 @@ test("the change filed at an address is run over the world handed in", async () 
 })
 
 test("an address no page is filed under is refused", async () => {
-  const said = await running(scratchWorld(), "change-mechanical-file/nothing-at-all", {})
-  expect(said.refused).toBe(
-    "`change-mechanical-file/nothing-at-all` names no page here, so no code is there to load"
-  )
+  const said = await running(scratchWorld(), NOTHING_FILED, {})
+  expect(said.refused).toBe(`\`${NOTHING_FILED}\` names no page here, so no code is there to load`)
 })
 
 test("a change reaching another change reaches it over the world handed in", async () => {

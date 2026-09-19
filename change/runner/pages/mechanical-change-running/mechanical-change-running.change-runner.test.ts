@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer as Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { ledgerAt, type Reaching } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -9,9 +12,9 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 
-const ADD = "change-mechanical-file/add-file"
+const ADD = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
-const MOVE = "change-mechanical-file/move-file"
+const MOVE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
 
 const ONE = "one.md"
 

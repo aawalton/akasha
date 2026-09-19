@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
@@ -127,7 +128,7 @@ const PAGE_TYPE_AT = "akasha/kept.page-type.ts"
 
 const PLAIN = "akasha/one/notes.md"
 
-const ADDRESS = "change-mechanical/held-one"
+const ADDRESS = `${changeMechanical.slug}/held-one` as const
 
 function judging(acts: string | null): World {
   return {
