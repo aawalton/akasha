@@ -9,4 +9,5 @@ export const gireulashia = {
   firstChapter: 543,
   lastChapter: 637,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gireulashia-ekhtouch",
 } as const satisfies WorldCharacter

@@ -11,4 +11,5 @@ export const damia = {
   firstChapter: 819,
   lastChapter: 821,
   characterClaims: "jsonl",
+  aliasOf: "world-character/damia-reinhart",
 } as const satisfies WorldCharacter

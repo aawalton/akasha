@@ -9,4 +9,5 @@ export const halrac = {
   firstChapter: 94,
   lastChapter: 758,
   characterClaims: "jsonl",
+  aliasOf: "world-character/halrac-everam",
 } as const satisfies WorldCharacter

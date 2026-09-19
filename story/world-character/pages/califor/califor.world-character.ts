@@ -9,4 +9,5 @@ export const califor = {
   firstChapter: 351,
   lastChapter: 495,
   characterClaims: "jsonl",
+  aliasOf: "world-character/califor-weishart",
 } as const satisfies WorldCharacter

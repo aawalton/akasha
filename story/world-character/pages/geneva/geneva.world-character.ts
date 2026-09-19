@@ -11,4 +11,5 @@ export const geneva = {
   firstChapter: 131,
   lastChapter: 699,
   characterClaims: "jsonl",
+  aliasOf: "world-character/geneva-scala",
 } as const satisfies WorldCharacter

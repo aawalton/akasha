@@ -9,4 +9,5 @@ export const adetr = {
   firstChapter: 564,
   lastChapter: 585,
   characterClaims: "jsonl",
+  aliasOf: "world-character/adetr-steelfur",
 } as const satisfies WorldCharacter

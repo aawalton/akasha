@@ -9,4 +9,5 @@ export const fierreNolastname = {
   firstChapter: 451,
   lastChapter: 451,
   characterClaims: "jsonl",
+  aliasOf: "world-character/fierre-val-lischelle-drakle",
 } as const satisfies WorldCharacter

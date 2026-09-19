@@ -9,4 +9,5 @@ export const barelleBard = {
   firstChapter: 534,
   lastChapter: 534,
   characterClaims: "jsonl",
+  aliasOf: "world-character/barelle",
 } as const satisfies WorldCharacter

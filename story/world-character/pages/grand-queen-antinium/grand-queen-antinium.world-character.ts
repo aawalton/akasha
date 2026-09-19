@@ -9,4 +9,5 @@ export const grandQueenAntinium = {
   firstChapter: 238,
   lastChapter: 238,
   characterClaims: "jsonl",
+  aliasOf: "world-character/grand-queen",
 } as const satisfies WorldCharacter

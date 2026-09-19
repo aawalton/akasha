@@ -9,4 +9,5 @@ export const griffinPrinceKaliv = {
   firstChapter: 422,
   lastChapter: 422,
   characterClaims: "jsonl",
+  aliasOf: "world-character/griffin-prince-ostevien",
 } as const satisfies WorldCharacter

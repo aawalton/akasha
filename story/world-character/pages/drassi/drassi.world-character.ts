@@ -10,4 +10,5 @@ export const drassi = {
   firstChapter: 13,
   lastChapter: 803,
   characterClaims: "jsonl",
+  aliasOf: "world-character/drassi-tewing",
 } as const satisfies WorldCharacter

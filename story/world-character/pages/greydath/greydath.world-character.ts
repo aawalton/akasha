@@ -9,4 +9,5 @@ export const greydath = {
   firstChapter: 225,
   lastChapter: 686,
   characterClaims: "jsonl",
+  aliasOf: "world-character/greydath-of-blades",
 } as const satisfies WorldCharacter

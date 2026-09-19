@@ -9,4 +9,5 @@ export const hawkTheHare = {
   firstChapter: 468,
   lastChapter: 468,
   characterClaims: "jsonl",
+  aliasOf: "world-character/hawk",
 } as const satisfies WorldCharacter

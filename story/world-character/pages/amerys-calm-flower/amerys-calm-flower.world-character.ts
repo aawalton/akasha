@@ -9,4 +9,5 @@ export const amerysCalmFlower = {
   firstChapter: 704,
   lastChapter: 704,
   characterClaims: "jsonl",
+  aliasOf: "world-character/amerys",
 } as const satisfies WorldCharacter

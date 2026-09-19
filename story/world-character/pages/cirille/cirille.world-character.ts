@@ -9,4 +9,5 @@ export const cirille = {
   firstChapter: 438,
   lastChapter: 439,
   characterClaims: "jsonl",
+  aliasOf: "world-character/cirille-bitterclaw",
 } as const satisfies WorldCharacter

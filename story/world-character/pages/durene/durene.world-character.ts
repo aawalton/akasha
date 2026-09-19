@@ -11,4 +11,5 @@ export const durene = {
   firstChapter: 124,
   lastChapter: 476,
   characterClaims: "jsonl",
+  aliasOf: "world-character/durene-faerise",
 } as const satisfies WorldCharacter

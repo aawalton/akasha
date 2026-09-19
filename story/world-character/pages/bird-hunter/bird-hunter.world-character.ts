@@ -9,4 +9,5 @@ export const birdHunter = {
   firstChapter: 434,
   lastChapter: 434,
   characterClaims: "jsonl",
+  aliasOf: "world-character/bird",
 } as const satisfies WorldCharacter

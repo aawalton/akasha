@@ -9,4 +9,5 @@ export const lordGilamQuellae = {
   firstChapter: 787,
   lastChapter: 787,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gilam-quellae",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const friekeFalcon = {
   firstChapter: 514,
   lastChapter: 514,
   characterClaims: "jsonl",
+  aliasOf: "world-character/frieke",
 } as const satisfies WorldCharacter

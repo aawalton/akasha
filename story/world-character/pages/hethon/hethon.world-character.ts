@@ -9,4 +9,5 @@ export const hethon = {
   firstChapter: 653,
   lastChapter: 656,
   characterClaims: "jsonl",
+  aliasOf: "world-character/hethon-veltras",
 } as const satisfies WorldCharacter

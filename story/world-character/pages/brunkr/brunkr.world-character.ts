@@ -9,4 +9,5 @@ export const brunkr = {
   firstChapter: 95,
   lastChapter: 747,
   characterClaims: "jsonl",
+  aliasOf: "world-character/brunkr-silverfang",
 } as const satisfies WorldCharacter

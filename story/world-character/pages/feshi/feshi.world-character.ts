@@ -9,4 +9,5 @@ export const feshi = {
   firstChapter: 334,
   lastChapter: 566,
   characterClaims: "jsonl",
+  aliasOf: "world-character/feshi-weatherfur",
 } as const satisfies WorldCharacter

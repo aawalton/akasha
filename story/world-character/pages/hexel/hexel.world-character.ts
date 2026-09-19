@@ -9,4 +9,5 @@ export const hexel = {
   firstChapter: 459,
   lastChapter: 706,
   characterClaims: "jsonl",
+  aliasOf: "world-character/hexel-quithail",
 } as const satisfies WorldCharacter

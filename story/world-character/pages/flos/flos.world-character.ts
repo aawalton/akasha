@@ -9,4 +9,5 @@ export const flos = {
   firstChapter: 67,
   lastChapter: 705,
   characterClaims: "jsonl",
+  aliasOf: "world-character/flos-reimarch",
 } as const satisfies WorldCharacter

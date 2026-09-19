@@ -9,4 +9,5 @@ export const feorArchmage = {
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",
+  aliasOf: "world-character/feor",
 } as const satisfies WorldCharacter

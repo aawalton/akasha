@@ -9,4 +9,5 @@ export const geram = {
   firstChapter: 250,
   lastChapter: 250,
   characterClaims: "jsonl",
+  aliasOf: "world-character/geram-redfist",
 } as const satisfies WorldCharacter

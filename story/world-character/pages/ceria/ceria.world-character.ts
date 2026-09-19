@@ -9,4 +9,5 @@ export const ceria = {
   firstChapter: 29,
   lastChapter: 796,
   characterClaims: "jsonl",
+  aliasOf: "world-character/ceria-springwalker",
 } as const satisfies WorldCharacter

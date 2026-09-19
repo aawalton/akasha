@@ -9,4 +9,5 @@ export const cognita = {
   firstChapter: 158,
   lastChapter: 796,
   characterClaims: "jsonl",
+  aliasOf: "world-character/cognita-truestone",
 } as const satisfies WorldCharacter

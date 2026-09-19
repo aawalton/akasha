@@ -9,4 +9,5 @@ export const gloriamTheInvincible = {
   firstChapter: 576,
   lastChapter: 576,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gloriam",
 } as const satisfies WorldCharacter

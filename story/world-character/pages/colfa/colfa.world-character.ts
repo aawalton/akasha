@@ -9,4 +9,5 @@ export const colfa = {
   firstChapter: 312,
   lastChapter: 763,
   characterClaims: "jsonl",
+  aliasOf: "world-character/colfa-val-lischelle-drakle",
 } as const satisfies WorldCharacter

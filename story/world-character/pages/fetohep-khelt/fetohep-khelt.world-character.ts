@@ -9,4 +9,5 @@ export const fetohepKhelt = {
   firstChapter: 418,
   lastChapter: 422,
   characterClaims: "jsonl",
+  aliasOf: "world-character/fetohep",
 } as const satisfies WorldCharacter

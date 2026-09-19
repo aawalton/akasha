@@ -11,4 +11,5 @@ export const briganda = {
   firstChapter: 413,
   lastChapter: 413,
   characterClaims: "jsonl",
+  aliasOf: "world-character/briganda-rishaw",
 } as const satisfies WorldCharacter

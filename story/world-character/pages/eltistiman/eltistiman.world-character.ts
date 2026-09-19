@@ -9,4 +9,5 @@ export const eltistiman = {
   firstChapter: 296,
   lastChapter: 413,
   characterClaims: "jsonl",
+  aliasOf: "world-character/eltistiman-verdue",
 } as const satisfies WorldCharacter

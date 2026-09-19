@@ -11,4 +11,5 @@ export const embria = {
   firstChapter: 258,
   lastChapter: 810,
   characterClaims: "jsonl",
+  aliasOf: "world-character/embria-grasstongue",
 } as const satisfies WorldCharacter

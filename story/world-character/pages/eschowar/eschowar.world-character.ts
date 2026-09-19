@@ -9,4 +9,5 @@ export const eschowar = {
   firstChapter: 663,
   lastChapter: 824,
   characterClaims: "jsonl",
+  aliasOf: "world-character/eschowar-erchirite",
 } as const satisfies WorldCharacter

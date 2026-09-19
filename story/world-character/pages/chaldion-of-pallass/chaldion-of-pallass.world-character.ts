@@ -9,4 +9,5 @@ export const chaldionOfPallass = {
   firstChapter: 468,
   lastChapter: 468,
   characterClaims: "jsonl",
+  aliasOf: "world-character/chaldion",
 } as const satisfies WorldCharacter

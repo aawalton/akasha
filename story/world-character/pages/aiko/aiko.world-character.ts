@@ -9,4 +9,5 @@ export const aiko = {
   firstChapter: 196,
   lastChapter: 317,
   characterClaims: "jsonl",
+  aliasOf: "world-character/aiko-nonomura",
 } as const satisfies WorldCharacter

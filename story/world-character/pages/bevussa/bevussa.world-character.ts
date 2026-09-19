@@ -9,4 +9,5 @@ export const bevussa = {
   firstChapter: 282,
   lastChapter: 644,
   characterClaims: "jsonl",
+  aliasOf: "world-character/bevussa-slenderscale",
 } as const satisfies WorldCharacter

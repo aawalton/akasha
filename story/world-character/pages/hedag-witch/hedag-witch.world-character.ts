@@ -9,4 +9,5 @@ export const hedagWitch = {
   firstChapter: 519,
   lastChapter: 519,
   characterClaims: "jsonl",
+  aliasOf: "world-character/hedag",
 } as const satisfies WorldCharacter

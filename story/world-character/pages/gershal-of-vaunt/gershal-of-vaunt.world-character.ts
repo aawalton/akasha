@@ -9,4 +9,5 @@ export const gershalOfVaunt = {
   firstChapter: 604,
   lastChapter: 680,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gershal",
 } as const satisfies WorldCharacter

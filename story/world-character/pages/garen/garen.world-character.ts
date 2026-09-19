@@ -9,4 +9,5 @@ export const garen = {
   firstChapter: 99,
   lastChapter: 308,
   characterClaims: "jsonl",
+  aliasOf: "world-character/garen-redfang",
 } as const satisfies WorldCharacter

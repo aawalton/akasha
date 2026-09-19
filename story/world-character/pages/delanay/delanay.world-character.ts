@@ -9,4 +9,5 @@ export const delanay = {
   firstChapter: 430,
   lastChapter: 430,
   characterClaims: "jsonl",
+  aliasOf: "world-character/delanay-d-artien",
 } as const satisfies WorldCharacter

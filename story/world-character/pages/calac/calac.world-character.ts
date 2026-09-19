@@ -9,4 +9,5 @@ export const calac = {
   firstChapter: 179,
   lastChapter: 370,
   characterClaims: "jsonl",
+  aliasOf: "world-character/calac-crusland",
 } as const satisfies WorldCharacter

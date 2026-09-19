@@ -9,4 +9,5 @@ export const gaziTheOmniscient = {
   firstChapter: 116,
   lastChapter: 116,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gazi",
 } as const satisfies WorldCharacter

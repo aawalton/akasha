@@ -9,4 +9,5 @@ export const farri = {
   firstChapter: 374,
   lastChapter: 374,
   characterClaims: "jsonl",
+  aliasOf: "world-character/farri-sightly",
 } as const satisfies WorldCharacter
