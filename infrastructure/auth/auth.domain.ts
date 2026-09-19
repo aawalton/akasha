@@ -70,5 +70,10 @@ export const auth = {
       decisionKind: "decision-kind/departure",
       statement: "A code is signed and read rather than written down and looked up.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Anyone makes an account at alanwalton.com, and that account is a contributor.",
+    },
+    { decisionKind: "decision-kind/departure", statement: "A contributor signs in with Google." },
   ],
 } as const satisfies Domain
