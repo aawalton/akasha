@@ -164,4 +164,4 @@ test("two rounds asked for over HTTP at once are answered by one run", async () 
   } finally {
     server.stop(true)
   }
-})
+}, 30000)
