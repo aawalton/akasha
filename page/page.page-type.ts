@@ -197,6 +197,14 @@ export const page = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Code reaching one page imports that page and reads its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page's address spelled as a plain string is a reference nothing files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page's code that lists a folder lists that folder on disk.",
     },
     {

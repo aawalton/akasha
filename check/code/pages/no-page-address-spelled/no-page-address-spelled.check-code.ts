@@ -65,5 +65,4 @@ export const noPageAddressSpelled = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 30 },
-  experimental: true,
 } as const satisfies CheckCode
