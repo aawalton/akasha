@@ -14,6 +14,5 @@ export const thePianoGuysGrowAsWeGo = {
   ],
   title: "Grow as We Go",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

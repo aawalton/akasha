@@ -14,6 +14,5 @@ export const thePianoGuysThemesFromPiratesOfTheCaribbean = {
   ],
   title: "Themes from Pirates of the Caribbean",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

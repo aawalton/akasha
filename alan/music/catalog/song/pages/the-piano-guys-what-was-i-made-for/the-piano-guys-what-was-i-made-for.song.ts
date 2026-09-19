@@ -14,6 +14,5 @@ export const thePianoGuysWhatWasIMadeFor = {
   ],
   title: "What Was I Made For?",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

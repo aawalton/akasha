@@ -14,7 +14,6 @@ export const thePianoGuysBecauseOfYou = {
   ],
   title: "Because of You",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

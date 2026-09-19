@@ -14,6 +14,5 @@ export const thePianoGuysLetItSnowLetItSnowLetItSnow = {
   ],
   title: "Let It Snow! Let It Snow! Let It Snow!",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

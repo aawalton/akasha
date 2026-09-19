@@ -14,6 +14,5 @@ export const thePianoGuysGodRestYeMerryGentlemen = {
   ],
   title: "God Rest Ye Merry, Gentlemen",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

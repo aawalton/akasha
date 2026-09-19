@@ -14,6 +14,5 @@ export const thePianoGuysAThousandYears = {
   ],
   title: "A Thousand Years",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

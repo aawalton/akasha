@@ -14,7 +14,6 @@ export const thePianoGuysWhereAreYouChristmas = {
   ],
   title: "Where Are You Christmas?",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

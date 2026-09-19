@@ -14,6 +14,5 @@ export const thePianoGuysMeAndMyCelloHappyTogether = {
   ],
   title: "Me and My Cello (Happy Together)",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

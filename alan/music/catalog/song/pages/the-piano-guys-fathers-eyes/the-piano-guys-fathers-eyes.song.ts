@@ -14,7 +14,6 @@ export const thePianoGuysFathersEyes = {
   ],
   title: "Father's Eyes",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

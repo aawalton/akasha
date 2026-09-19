@@ -14,6 +14,5 @@ export const thePianoGuysPavaneOp50 = {
   ],
   title: "Pavane, op. 50",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song
