@@ -8,6 +8,7 @@ import {
   bodiesIn,
   type World,
   worldAt,
+  worldOver,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
@@ -150,4 +151,43 @@ test("each carry is left to the change reached at its address", async () => {
   const moving = `${changeMechanical.slug}/${moveFileOfAnyKind.slug}`
 
   expect(reached).toEqual([moving, moving])
+})
+
+const BOTH = `${HELD_PAGE} ${INTO}\n${BORNE_PAGE} ${INTO}\n`
+
+const HELD_FILES = [HELD_CODE, HELD_PAGE].sort()
+
+const BORNE_FILES = [BORNE_CODE, BORNE_PAGE, BORNE_TEXT].sort()
+
+test("a count handed in holds how many pages one call carries", async () => {
+  const said = await runChange(worldIn(repo()), { moved: BOTH, "at-most": "1" })
+  const came = said.edits.flatMap((one) => (one.kind === "move" ? [one.pathFrom] : []))
+
+  expect([...came].sort()).toEqual(HELD_FILES)
+})
+
+test("a line whose page is gone and already sits where that line lands is read over", async () => {
+  const world = worldIn(repo())
+  const first = await runChange(world, { moved: BOTH, "at-most": "1" })
+  const next = await runChange(worldOver(world, first), { moved: BOTH, "at-most": "1" })
+  const came = next.edits.flatMap((one) => (one.kind === "move" ? [one.pathFrom] : []))
+
+  expect(next.refused).toBeNull()
+  expect([...came].sort()).toEqual(BORNE_FILES)
+})
+
+test("a call carrying no page at all is refused", async () => {
+  const world = worldIn(repo())
+  const first = await runChange(world, { moved: BOTH })
+  const next = await runChange(worldOver(world, first), { moved: BOTH })
+
+  expect(next.edits).toEqual([])
+  expect(next.refused ?? "").toContain("sitting where that line lands already")
+})
+
+test("a count that is no whole number above nothing is refused", async () => {
+  const said = await runChange(worldIn(repo()), { moved: BOTH, "at-most": "0" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("no count of pages")
 })

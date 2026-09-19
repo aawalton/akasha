@@ -8,6 +8,7 @@ export const movePages = {
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
   definition: "many pages carried into the folders their lines name, in one call",
+  takesAtMost: true,
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,6 +51,26 @@ export const movePages = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A line is carried against the world the lines before it leave.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A count handed in holds how many pages one call carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run handed no count carries every page its lines name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A count that is no whole number above nothing is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line whose page is gone and already sits where that line lands is read over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call carrying no page at all is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

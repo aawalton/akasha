@@ -8,11 +8,17 @@ import {
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const MOVE_FILE_OF_ANY_KIND = `${changeMechanical.slug}/${moveFileOfAnyKind.slug}` as const
 
 const MOVED = "moved"
+
+const AT_MOST = "at-most"
+
+const NONE_LEFT =
+  "every line names a page sitting where that line lands already, so none is carried"
 
 const SPACED = /\s+/
 
@@ -49,11 +55,17 @@ export function readIn(said: string): Read {
   return { pairs }
 }
 
-export async function movePages(world: World, pairs: readonly Pair[]): Promise<Answer> {
+export async function movePages(
+  world: World,
+  pairs: readonly Pair[],
+  atMost: number | null = null
+): Promise<Answer> {
   const carried: Answer[] = []
   let seen = world
   for (const one of pairs) {
+    if (atMost !== null && carried.length >= atMost) break
     const to = join(one.to, basename(one.at))
+    if (seen.textOf(one.at) === null && seen.textOf(to) !== null) continue
     const carrying = await reach(seen, MOVE_FILE_OF_ANY_KIND, { from: one.at, to })
     const why = carrying.said.refused
     if (why !== null) {
@@ -62,18 +74,21 @@ export async function movePages(world: World, pairs: readonly Pair[]): Promise<A
     carried.push(carrying.said)
     seen = carrying.world
   }
+  if (carried.length === 0) return refusing(NONE_LEFT)
   return gathered(carried)
 }
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [MOVED]
+export const takes: readonly string[] = [MOVED, AT_MOST]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const said = given[MOVED]
   if (said === undefined) return refusing(missing(MOVED))
+  const atMost = atMostIn(given[AT_MOST])
+  if (typeof atMost === "string") return refusing(atMost)
   const read = readIn(said)
   if ("refused" in read) return refusing(read.refused)
   if (read.pairs.length === 0) return refusing(NO_LINE)
-  return await movePages(world, read.pairs)
+  return await movePages(world, read.pairs, atMost)
 }
