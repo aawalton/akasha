@@ -8,5 +8,6 @@ export const awenEngineImprovements = {
   persona: "persona/awen",
   intentStack: [
     { statement: "Every file the dirty folder held is a page or is deliberately dropped." },
+    { statement: "Alan has approved the subfolder structure under story." },
   ],
 } as const satisfies Initiative
