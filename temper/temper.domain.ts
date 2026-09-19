@@ -184,5 +184,17 @@ export const temper = {
       decisionKind: "decision-kind/gap",
       statement: "Every need a player has outside The Elder Scrolls Online is met by Temper.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the addon writes into the game's saved variables is a capture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What is worked out from a capture outside the game is a reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Writing a reading into akasha is a landing.",
+    },
   ],
 } as const satisfies Domain
