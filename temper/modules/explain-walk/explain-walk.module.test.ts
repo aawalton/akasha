@@ -50,7 +50,7 @@ const TTC: TtcBreakdown = {
   saleAmountCount: 10,
   estimatedValue: 1150,
   merchantValue: 60,
-  replacementCost: 1300,
+  replacementValue: 1300,
 }
 
 function lineFor(text: string, key: string): string | undefined {
