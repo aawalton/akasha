@@ -1,4 +1,8 @@
 import { expect, mock, test } from "bun:test"
+import {
+  FOLLOWING_ON,
+  outcomeOf,
+} from "akasha/infrastructure/service/workstation/modules/run-outcome/run-outcome.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
 
 const RAN: string[] = []
@@ -23,10 +27,6 @@ const tick = await import(
   "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 )
 
-const SETTLED = "settled"
-
-const WAITING = "waiting out the hour to the round after"
-
 mock.module(
   "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts",
   () => ({
@@ -34,15 +34,6 @@ mock.module(
     sleptUntilStopped: () => new Promise<boolean>(() => {}),
   })
 )
-
-function outcomeOf(run: Promise<never>, ms: number): Promise<string> {
-  return Promise.race([
-    run.then(() => SETTLED),
-    new Promise<string>((say) => {
-      setTimeout(() => say(WAITING), ms)
-    }),
-  ])
-}
 
 mock.module("akasha/check/modules/audit-listening/audit-listening.module.code.ts", () => ({
   ...listening,
@@ -66,13 +57,13 @@ test("the run is the only way into this file, so the service has one entry", () 
 
 test("a run binds through the listening module rather than through servers bound again here", async () => {
   BOUND.length = 0
-  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(FOLLOWING_ON)
   expect(BOUND).toEqual([checkoutAt()])
 })
 
 test("a round opens as the service starts, over the checkout the service reads", async () => {
   RAN.length = 0
-  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(FOLLOWING_ON)
   expect(RAN).toEqual([checkoutAt()])
 })
 
@@ -83,7 +74,7 @@ test("a round that threw leaves the service listening rather than ending the run
     ...round,
     roundTold: () => Promise.reject(new Error(THREW)),
   }))
-  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(WAITING)
+  await expect(outcomeOf(running.runService(), 50)).resolves.toBe(FOLLOWING_ON)
 })
 
 test("a host name that would not bind is carried out rather than swallowed, so a failed start is a failed unit", async () => {
