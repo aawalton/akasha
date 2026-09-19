@@ -274,9 +274,18 @@ export function refreshBackpackActions(): undefined {
   }
 }
 
+function refreshWornActions(): undefined {
+  const claims = new Map<CharacterId, Set<string>>()
+  const bagSize = GetBagSize(BAG_WORN)
+  for (let slot = 0; slot < bagSize; slot++) {
+    evaluateRules(BAG_WORN, slot, claims)
+  }
+}
+
 export function rescanInventory(): undefined {
   clearAllPendingActions()
   refreshBackpackActions()
+  refreshWornActions()
   dispatchUseActions()
   fireInventoryActionsChanged()
   refreshLockOverlays()
@@ -284,11 +293,7 @@ export function rescanInventory(): undefined {
 }
 
 export function rescanWornItems(): undefined {
-  const claims = new Map<CharacterId, Set<string>>()
-  const bagSize = GetBagSize(BAG_WORN)
-  for (let slot = 0; slot < bagSize; slot++) {
-    evaluateRules(BAG_WORN, slot, claims)
-  }
+  refreshWornActions()
   refreshLockOverlays()
   refreshEquipmentLockOverlays()
 }

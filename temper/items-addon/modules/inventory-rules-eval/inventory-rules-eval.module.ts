@@ -37,5 +37,9 @@ export const inventoryRulesEval = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing is recorded for an item the addon did not judge.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Judging the whole inventory judges the worn slots as well as the backpack slots.",
+    },
   ],
 } as const satisfies Module
