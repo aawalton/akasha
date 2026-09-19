@@ -78,11 +78,11 @@ test("a body stating that key in no entry answers no edit rather than being refu
   expect(said.refused).toBeNull()
 })
 
-test("a body whose entry already states the key asked for is refused", () => {
+test("a body whose entry states both the key held and the key asked for is refused", () => {
   const said = ranOn("accountSlug", "id")
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${AT}\` states \`id\` already`)
+  expect(said.refused).toBe(`\`${AT}\` states \`accountSlug\` and \`id\` in one entry`)
 })
 
 test("a body that is no run of JSON objects is refused", () => {
