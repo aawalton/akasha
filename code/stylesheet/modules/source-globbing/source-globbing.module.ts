@@ -66,6 +66,18 @@ export const sourceGlobbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change carrying code that leaves every specifier as it was moves no glob.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file of code the change adds or takes away moves the globs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A specifier is compared as written rather than as the specifier resolves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stylesheet already with the body that would be written again is left alone.",
     },
     {

@@ -2,6 +2,7 @@ import type { Replacing } from "akasha/change/modules/answer/change-answer.modul
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
+import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
@@ -158,11 +159,23 @@ function globbedOver(change: Change): Globbed {
   return { edits, said }
 }
 
+function specifiersIn(body: string | null, path: string): string {
+  if (body === null) return ""
+  return placedIn(path, body)
+    .map((one) => one.text)
+    .sort()
+    .join("\n")
+}
+
 function couldTurn(change: Change): boolean {
   for (const path of change.changed) {
     if (path === MANIFEST || path.endsWith(`/${MANIFEST}`)) return true
     if (styledName(path)) return true
-    if (typeScripted(path)) return true
+    if (!typeScripted(path)) continue
+    const before = textOf(change.before(path))
+    const after = textOf(change.after(path))
+    if ((before === null) !== (after === null)) return true
+    if (specifiersIn(before, path) !== specifiersIn(after, path)) return true
   }
   return false
 }

@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"code/reading/modules/code-importing/code-importing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"code/reading/modules/code-specifier/code-specifier.module.test.ts"}
+{"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"infrastructure/machine/provisioning/scripts/provision-workstation/provision-workstation.shell-script.scripting.test.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"page/index/modules/package-reaching/package-reaching.module.code.ts"}
