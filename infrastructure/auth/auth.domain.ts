@@ -17,7 +17,8 @@ export const auth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A person is known by the address the provider says that person owns.",
+      statement:
+        "A person is known by the provider that person signs in with and the identifier that provider gives.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,11 +26,26 @@ export const auth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The contributor a person signs in to is the one that person's address names.",
+      statement:
+        "An address binds a sign-in to a contributor only where that contributor has no sign-in.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A person signing in under an address no contributor names gets a contributor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A sign-in is a page naming a provider, that provider's identifier, and one contributor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One contributor has more than one sign-in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A contributor that has a sign-in gains another only from inside that contributor's session.",
     },
   ],
 } as const satisfies Domain
