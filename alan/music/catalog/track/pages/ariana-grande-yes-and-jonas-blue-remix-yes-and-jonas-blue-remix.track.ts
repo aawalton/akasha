@@ -26,5 +26,5 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
     { externalId: "1HBjj22wzbscIZ9sEb5dyf", artistName: "Jonas Blue" },
   ],
   trackKey: "yesandjonasblueremix|1HBjj22wzbscIZ9sEb5dyf,66CXWjxzNUsdJxJ2JdwvnR|212903",
-  song: "song/ariana-grande-yes-and-2",
+  song: "song/ariana-grande-yes-and",
 } as const satisfies Track

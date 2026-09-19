@@ -27,5 +27,5 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
   ],
   trackKey:
     "yesandtheblessedmadonnasgodsquadmix|4TvhRzxIL1le2PWCeUqxQw,66CXWjxzNUsdJxJ2JdwvnR|301982",
-  song: "song/ariana-grande-yes-and-2",
+  song: "song/ariana-grande-yes-and",
 } as const satisfies Track

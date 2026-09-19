@@ -26,5 +26,5 @@ export const arianaGrandeYesAnd2YesAndWithMariahCareyRemix = {
     { externalId: "4iHNK0tOyZPYnBU7nGAgpQ", artistName: "Mariah Carey" },
   ],
   trackKey: "yesandwithmariahcareyremix|4iHNK0tOyZPYnBU7nGAgpQ,66CXWjxzNUsdJxJ2JdwvnR|214994",
-  song: "song/ariana-grande-yes-and-2",
+  song: "song/ariana-grande-yes-and",
 } as const satisfies Track

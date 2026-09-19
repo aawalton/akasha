@@ -23,5 +23,5 @@ export const jamesTaylor2ThatSWhyIMHereOnlyADreamInRio = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onlyadreaminrio|0vn7UBvSQECKJm2817Yf1P|299440",
-  song: "song/james-taylor-only-a-dream-in-rio-2",
+  song: "song/james-taylor-only-a-dream-in-rio",
 } as const satisfies Track
