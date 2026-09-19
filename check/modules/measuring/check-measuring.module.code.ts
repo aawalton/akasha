@@ -57,6 +57,9 @@ const HEADED: readonly string[] = [
   "cpu avg",
   "wall avg",
   "mem avg",
+  "cpu mid",
+  "wall mid",
+  "mem mid",
   "cpu max",
   "wall max",
   "mem max",
@@ -137,6 +140,9 @@ export interface CheckCost {
   readonly wallMost: number | null
   readonly mem: number | null
   readonly memMost: number | null
+  readonly cpuMid: number | null
+  readonly wallMid: number | null
+  readonly memMid: number | null
   readonly limits: Limits
 }
 
@@ -147,6 +153,8 @@ export interface Total {
   readonly wall: number | null
   readonly wallMost: number | null
   readonly memMost: number | null
+  readonly cpuMid: number | null
+  readonly wallMid: number | null
 }
 
 export interface Costs {
@@ -159,6 +167,15 @@ export interface Costs {
 export function meanOf(found: readonly number[]): number | null {
   if (found.length === 0) return null
   return found.reduce((total, one) => total + one, 0) / found.length
+}
+
+export function midOf(found: readonly number[]): number | null {
+  if (found.length === 0) return null
+  const ranked = [...found].sort((a, b) => a - b)
+  const half = Math.floor(ranked.length / 2)
+  const above = ranked[half] ?? 0
+  if (ranked.length % 2 === 1) return above
+  return ((ranked[half - 1] ?? 0) + above) / 2
 }
 
 export function mostOf(found: readonly number[]): number | null {
@@ -295,6 +312,9 @@ export function costOf(check: string, runs: readonly Run[], limits: Limits = NO_
     wallMost: mostOf(wall),
     mem: meanOf(mem),
     memMost: mostOf(mem),
+    cpuMid: midOf(cpu),
+    wallMid: midOf(wall),
+    memMid: midOf(mem),
     limits,
   }
 }
@@ -320,6 +340,8 @@ export function totalOf(runs: readonly Run[]): Total {
     wall: shared((one) => one.wall),
     wallMost: mostOf(wholeRuns(runs, (one) => one.wall)),
     memMost: mostOf(memoryOf(runs)),
+    cpuMid: midOf(wholeRuns(runs, (one) => one.cpu)),
+    wallMid: midOf(wholeRuns(runs, (one) => one.wall)),
   }
 }
 
@@ -465,6 +487,9 @@ function rowOf(one: CheckCost): readonly string[] {
     saidAs(one.cpu, secondsAs),
     saidAs(one.wall, secondsAs),
     saidAs(one.mem, bytesAs),
+    saidAs(one.cpuMid, secondsAs),
+    saidAs(one.wallMid, secondsAs),
+    saidAs(one.memMid, bytesAs),
     saidAs(one.cpuMost, secondsAs),
     saidAs(one.wallMost, secondsAs),
     saidAs(one.memMost, bytesAs),
@@ -478,6 +503,9 @@ function totalRowOf(total: Total): readonly string[] {
     String(total.runs),
     saidAs(total.cpu, secondsAs),
     saidAs(total.wall, secondsAs),
+    ABSENT,
+    saidAs(total.cpuMid, secondsAs),
+    saidAs(total.wallMid, secondsAs),
     ABSENT,
     saidAs(total.cpuMost, secondsAs),
     saidAs(total.wallMost, secondsAs),

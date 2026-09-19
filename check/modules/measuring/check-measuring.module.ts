@@ -288,5 +288,39 @@ export const checkMeasuring = {
       statement: "A ceiling of memory is stated in megabytes and drawn as bytes.",
     },
     { decisionKind: "decision-kind/departure", statement: "The total draws no ceiling." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A middle is what the run in the middle took, the runs ranked by the measure said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A middle over an even count of runs is halfway between the two runs at the middle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each measure is said as a middle beside its average.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The middles are drawn after the averages and before the maximums.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A ceiling is set from the middle rather than from the average.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An average far from its middle says those runs are not one population.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The total's middle is the middle of what the whole runs took.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The total draws its middle memory as absent.",
+    },
   ],
 } as const satisfies Module

@@ -122,6 +122,11 @@ export const measureTest = {
       decisionKind: "decision-kind/departure",
       statement: "Every test file is drawn with the one ceiling every test file is held to.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A test file's ceiling is set from the middle of its runs rather than their average.",
+    },
   ],
   name: "test",
   arguments: [{ argument: "argument/run-window" }],

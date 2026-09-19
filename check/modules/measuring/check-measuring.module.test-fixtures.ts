@@ -86,6 +86,8 @@ export const NO_TOTAL: Total = {
   wall: null,
   wallMost: null,
   memMost: null,
+  cpuMid: null,
+  wallMid: null,
 }
 
 export const ZERO_TOTAL: Total = {
@@ -95,6 +97,30 @@ export const ZERO_TOTAL: Total = {
   wall: 0,
   wallMost: 0,
   memMost: 0,
+  cpuMid: 0,
+  wallMid: 0,
+}
+
+export const JUDGED_TOTAL: Total = {
+  runs: 1,
+  cpu: 5,
+  cpuMost: 5,
+  wall: 0,
+  wallMost: 0,
+  memMost: 0,
+  cpuMid: 5,
+  wallMid: 0,
+}
+
+export const DRAWN_TOTAL: Total = {
+  runs: 1,
+  cpu: 2,
+  cpuMost: 3,
+  wall: 4,
+  wallMost: 5,
+  memMost: 2048,
+  cpuMid: 6,
+  wallMid: 7,
 }
 
 export function runsOf(rows: readonly Record<string, unknown>[]): readonly Run[] {
@@ -182,6 +208,53 @@ export function rootJudged(): string {
     one: [{ phase: "change", cpuSeconds: 2, runId: TWO, ranAt: agoOf(HOUR) }],
     two: [{ phase: "change", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
     three: [{ phase: "change", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
+  })
+}
+
+export function rootStale(): string {
+  return rootWith({
+    fresh: [{ phase: "change", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
+    stale: [
+      { phase: "change", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
+      { phase: "deploy", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
+    ],
+  })
+}
+
+export function rootLoose(): string {
+  return rootWith({
+    one: [
+      { phase: "change", cpuSeconds: 2, runId: ONE },
+      { phase: "change", cpuSeconds: 100, runId: null },
+    ],
+  })
+}
+
+export function rootUnrun(): string {
+  return rootWith({
+    one: [
+      { phase: "change", cpuSeconds: 2, runId: null },
+      { phase: "change", cpuSeconds: 4, runId: null },
+    ],
+  })
+}
+
+export function rootThrice(): string {
+  return rootWith({
+    one: [
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 3 },
+      { phase: "change", cpuSeconds: 8 },
+    ],
+  })
+}
+
+export function rootDeployed(): string {
+  return rootWith({
+    one: [
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "deploy", cpuSeconds: 8 },
+    ],
   })
 }
 
