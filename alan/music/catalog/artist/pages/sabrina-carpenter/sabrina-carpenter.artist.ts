@@ -13,6 +13,12 @@ export const sabrinaCarpenter = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      externalLink: "https://musicbrainz.org/artist/1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "74KM79TiuVKeVCqs8QtB0B",
       externalLink: "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
@@ -20,4 +26,5 @@ export const sabrinaCarpenter = {
     },
   ],
   title: "Sabrina Carpenter",
+  genre: ["pop", "dance-pop", "electropop"],
 } as const satisfies Artist

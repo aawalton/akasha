@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const sabrinaCarpenterImFakin = {
+  id: "01a0b723-cf14-71bf-a129-98e984c51cde",
+  type: "page-type/song",
+  slug: "sabrina-carpenter-im-fakin",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f1d58bc8-d387-4e12-936c-7c6cdcbfb947",
+      externalLink: "https://musicbrainz.org/work/f1d58bc8-d387-4e12-936c-7c6cdcbfb947",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "I’m Fakin",
+  artist: "artist/sabrina-carpenter",
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song
