@@ -66,5 +66,9 @@ export const serviceWatching = {
       decisionKind: "decision-kind/gap",
       statement: "Something tells Alan when this run is the run that is broken.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tick may be handed what systemd says rather than asking systemd itself.",
+    },
   ],
 } as const satisfies Module

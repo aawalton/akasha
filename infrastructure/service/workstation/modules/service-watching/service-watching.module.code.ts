@@ -120,9 +120,10 @@ export async function ticking(given: {
   readonly now: string
   readonly send?: Sent
   readonly keep?: Kept
+  readonly show?: (units: readonly string[]) => string
 }): Promise<Ticked> {
   const keep = given.keep ?? looked
-  const health = healthFor(given.root)
+  const health = healthFor(given.root, given.show)
   if (typeof health === "string") {
     throw new Error(`${SAID} the services could not be read, so nothing is judged: ${health}`)
   }

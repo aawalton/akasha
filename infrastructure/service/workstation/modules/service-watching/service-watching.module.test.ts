@@ -114,6 +114,16 @@ const SEEN: string[] = []
 
 const NAMED: string[] = []
 
+const A_SECOND = 1000
+
+const LIVE_STAMP = `@${Math.floor(Date.parse(LIVE_NOW) / A_SECOND)}`
+
+function shown(units: readonly string[]): string {
+  const said = (unit: string) =>
+    `Id=${unit}\nActiveState=active\nResult=success\nStateChangeTimestamp=${LIVE_STAMP}`
+  return units.map(said).join("\n\n")
+}
+
 let started: Promise<Ticked> | null = null
 
 function live(): Promise<Ticked> {
@@ -123,6 +133,7 @@ function live(): Promise<Ticked> {
       home: LIVE_HOME,
       now: LIVE_NOW,
       send: async () => null,
+      show: shown,
       keep: (root, health, at, slug) => {
         NAMED.push(`${root} ${at} ${slug}`)
         for (const one of health) SEEN.push(one.pagePath)
