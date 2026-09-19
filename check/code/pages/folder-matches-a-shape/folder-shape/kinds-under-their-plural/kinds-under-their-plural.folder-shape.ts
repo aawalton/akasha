@@ -7,7 +7,7 @@ export const kindsUnderTheirPlural = {
   definition: "the shape of a folder gathering under a plural the page types that plural covers",
   code: "ts",
   test: "ts",
-  enabled: false,
+  enabled: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
