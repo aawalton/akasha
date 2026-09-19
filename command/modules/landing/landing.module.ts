@@ -297,6 +297,10 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Git's own index is written after the hold is let go rather than inside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every commit this writes carries the attribution.",
     },
     {
