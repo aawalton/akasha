@@ -47,5 +47,13 @@ export const auth = {
       statement:
         "A contributor that has a sign-in gains another only from inside that contributor's session.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new provider under an address a contributor already has is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal names the provider that address already signs in with.",
+    },
   ],
 } as const satisfies Domain
