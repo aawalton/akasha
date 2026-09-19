@@ -1,10 +1,10 @@
 import { lstatSync, mkdirSync, readlinkSync, statSync, symlinkSync, unlinkSync } from "node:fs"
 import { resolve } from "node:path"
 import { configPathForAccount } from "akasha/agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export const HOME_DIR = shape.string().default("/home/walton").parse(process.env.HOME)
+export const HOME_DIR = SHAPE.string().default("/home/walton").parse(process.env.HOME)
 const ACCOUNTS_DIR = `${HOME_DIR}/.claude/accounts`
 
 export const REPO_ROOT = akashaRoot()

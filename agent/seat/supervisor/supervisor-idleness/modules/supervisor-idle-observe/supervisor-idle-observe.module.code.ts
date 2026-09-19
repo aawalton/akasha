@@ -8,13 +8,13 @@ import type {
   BusyChildDetail,
   IdleRuleSource,
 } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const INFLIGHT_FETCH_TIMEOUT_MS = 1_000
 
-const inFlightResponseShape = shape
-  .object({ inFlight: shape.number().int().nonnegative() })
-  .passthrough()
+const inFlightResponseShape = SHAPE.object({
+  inFlight: SHAPE.number().int().nonnegative(),
+}).passthrough()
 
 function parseInFlightResponse(body: unknown): number | null {
   const parsed = inFlightResponseShape.safeParse(body)

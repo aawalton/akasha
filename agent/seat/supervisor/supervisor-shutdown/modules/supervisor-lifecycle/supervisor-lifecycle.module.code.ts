@@ -19,13 +19,13 @@ import {
 } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"
 import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { takeSeatPage } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
 const SHUTDOWN_SIGKILL_BACKSTOP_MS = 1_500
 
 function inplaceReExecEnabled(): boolean {
-  return shape.string().optional().parse(process.env.SUPERVISOR_USE_INPLACE_REEXEC) !== "0"
+  return SHAPE.string().optional().parse(process.env.SUPERVISOR_USE_INPLACE_REEXEC) !== "0"
 }
 
 async function reExecSupervisor(): Promise<never> {

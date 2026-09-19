@@ -1,5 +1,5 @@
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const DURATION_MULTIPLIERS = {
   s: 1_000,
@@ -9,8 +9,7 @@ const DURATION_MULTIPLIERS = {
 } satisfies Record<string, number>
 
 export function parseWindowDuration(value: string, flagName = "--window"): number {
-  const match = shape
-    .tuple([shape.string(), shape.string(), shape.enum(["s", "m", "h", "d"])])
+  const match = SHAPE.tuple([SHAPE.string(), SHAPE.string(), SHAPE.enum(["s", "m", "h", "d"])])
     .nullable()
     .parse(value.match(/^(\d+)\s*(s|m|h|d)$/))
   if (!match) {

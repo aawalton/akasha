@@ -3,7 +3,7 @@ import {
   type RuleAnswer,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const RULE = "deferredRestartRule"
 
@@ -49,39 +49,39 @@ export type DeferredRestartWindows = {
   readonly preCliffOverrideMs: number
 }
 
-const stateZ = shape.object({
-  idleStreak: shape.number(),
-  elapsedTicks: shape.number(),
-  staleStreak: shape.number(),
-  prevBusyReason: shape.string().nullable(),
-  prevTranscriptMtimeMs: shape.number().nullable(),
+const stateZ = SHAPE.object({
+  idleStreak: SHAPE.number(),
+  elapsedTicks: SHAPE.number(),
+  staleStreak: SHAPE.number(),
+  prevBusyReason: SHAPE.string().nullable(),
+  prevTranscriptMtimeMs: SHAPE.number().nullable(),
 })
 
-const ConstantsZ = shape.object({
-  [RULE]: shape.object({
-    constants: shape.object({
+const ConstantsZ = SHAPE.object({
+  [RULE]: SHAPE.object({
+    constants: SHAPE.object({
       INITIAL_DEFERRED_RESTART_STATE: stateZ,
-      EDGE_CONNECTION_CLIFF_PREEMPT_MS: shape.number(),
-      EDGE_CONNECTION_CLIFF_OVERRIDE_MS: shape.number(),
+      EDGE_CONNECTION_CLIFF_PREEMPT_MS: SHAPE.number(),
+      EDGE_CONNECTION_CLIFF_OVERRIDE_MS: SHAPE.number(),
     }),
   }),
 })
 
-const DecideZ = shape.object({
-  [RULE]: shape.object({
-    decideDeferredRestart: shape.object({
+const DecideZ = SHAPE.object({
+  [RULE]: SHAPE.object({
+    decideDeferredRestart: SHAPE.object({
       state: stateZ,
-      fire: shape.boolean(),
-      fireReason: shape.enum(["idle", "stale-wedge", "ceiling"]).nullable(),
+      fire: SHAPE.boolean(),
+      fireReason: SHAPE.enum(["idle", "stale-wedge", "ceiling"]).nullable(),
     }),
   }),
 })
 
-const WindowsZ = shape.object({
-  [RULE]: shape.object({
-    resolveMaxDeferMs: shape.number(),
-    resolveStaleWedgeMs: shape.number(),
-    resolvePreCliffOverrideMs: shape.number(),
+const WindowsZ = SHAPE.object({
+  [RULE]: SHAPE.object({
+    resolveMaxDeferMs: SHAPE.number(),
+    resolveStaleWedgeMs: SHAPE.number(),
+    resolvePreCliffOverrideMs: SHAPE.number(),
   }),
 })
 

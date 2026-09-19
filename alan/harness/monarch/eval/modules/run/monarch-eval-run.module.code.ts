@@ -28,7 +28,7 @@ import {
   readFlags,
 } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import { chunk } from "akasha/code/type/narrowing/modules/chunk/chunk.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const PARALLEL = 4
 
@@ -95,7 +95,7 @@ if (import.meta.main) {
     throw new Error("--per-stratum takes a count")
   const again = flags.has("again")
   const said = flags.get("out")?.[0]
-  const home = shape.string().optional().parse(process.env.HOME)
+  const home = SHAPE.string().optional().parse(process.env.HOME)
   if (said === undefined && (home === undefined || home === "")) {
     throw new Error(
       "$HOME is unset and --out names no path, so nothing says where the run file stands. A " +

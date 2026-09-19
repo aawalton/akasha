@@ -2,7 +2,7 @@ import {
   type Definition,
   everyKind,
 } from "akasha/agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-agents]"
 
@@ -15,7 +15,7 @@ const DELEGATION_OFF =
   `cannot dispatch a subagent at all. A subagent started without these definitions is never ` +
   `told to read its seat, and nothing it can see tells it apart from one that was.`
 
-const AGENT_MAP = shape.record(shape.string(), shape.unknown())
+const AGENT_MAP = SHAPE.record(SHAPE.string(), SHAPE.unknown())
 
 function renderSubagentDefinitions(composed: Readonly<Record<string, Definition>>): string | null {
   const parsed = AGENT_MAP.safeParse(composed)

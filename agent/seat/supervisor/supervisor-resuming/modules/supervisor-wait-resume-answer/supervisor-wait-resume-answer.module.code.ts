@@ -1,27 +1,27 @@
 import { SUPERVISOR_DECIDE_COMMAND } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import type { Infer } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 
 const WAIT_RESUME_DECISION = "waitResume"
 
 export type AskDecide = (stdin: string) => Promise<unknown>
 
-const WaitResumeAnswerShape = shape.object({
-  [WAIT_RESUME_DECISION]: shape.discriminatedUnion("kind", [
-    shape.object({
-      kind: shape.literal("nudge"),
-      reason: shape.string(),
-      attempt: shape.number(),
-      nudge: shape.string().refine((text) => text.trim() !== "", {
+const WaitResumeAnswerShape = SHAPE.object({
+  [WAIT_RESUME_DECISION]: SHAPE.discriminatedUnion("kind", [
+    SHAPE.object({
+      kind: SHAPE.literal("nudge"),
+      reason: SHAPE.string(),
+      attempt: SHAPE.number(),
+      nudge: SHAPE.string().refine((text) => text.trim() !== "", {
         message: "the nudge text is blank, which would reach the seat as an empty turn",
       }),
     }),
-    shape.object({
-      kind: shape.literal("wait"),
-      reason: shape.string(),
-      readyAtMs: shape.number(),
+    SHAPE.object({
+      kind: SHAPE.literal("wait"),
+      reason: SHAPE.string(),
+      readyAtMs: SHAPE.number(),
     }),
-    shape.object({ kind: shape.literal("hold"), reason: shape.string() }),
+    SHAPE.object({ kind: SHAPE.literal("hold"), reason: SHAPE.string() }),
   ]),
 })
 

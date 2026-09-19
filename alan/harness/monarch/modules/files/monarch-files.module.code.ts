@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import {
   slugsOfType,
   valuesOfType,
@@ -48,26 +48,26 @@ export type TransactionLine = {
   readonly amazonOrderNumber?: string
 }
 
-const TRANSACTION_LINE = shape.object({
-  id: shape.string(),
-  monarchId: shape.string(),
-  monarchUpdatedAt: shape.string().optional(),
-  transactionDay: shape.string(),
-  amount: shape.number(),
-  statementLine: shape.string().optional(),
-  merchant: shape.string().optional(),
-  accountName: shape.string().optional(),
-  account: shape.string().optional(),
-  category: shape.string().optional(),
-  categorySource: shape.string().optional(),
-  categoryDecidedBy: shape.string().optional(),
-  tags: shape.array(shape.string()).optional(),
-  transactionNote: shape.string().optional(),
-  pending: shape.boolean().optional(),
-  recurring: shape.boolean().optional(),
-  split: shape.boolean().optional(),
-  needsReview: shape.boolean().optional(),
-  amazonOrderNumber: shape.string().optional(),
+const TRANSACTION_LINE = SHAPE.object({
+  id: SHAPE.string(),
+  monarchId: SHAPE.string(),
+  monarchUpdatedAt: SHAPE.string().optional(),
+  transactionDay: SHAPE.string(),
+  amount: SHAPE.number(),
+  statementLine: SHAPE.string().optional(),
+  merchant: SHAPE.string().optional(),
+  accountName: SHAPE.string().optional(),
+  account: SHAPE.string().optional(),
+  category: SHAPE.string().optional(),
+  categorySource: SHAPE.string().optional(),
+  categoryDecidedBy: SHAPE.string().optional(),
+  tags: SHAPE.array(SHAPE.string()).optional(),
+  transactionNote: SHAPE.string().optional(),
+  pending: SHAPE.boolean().optional(),
+  recurring: SHAPE.boolean().optional(),
+  split: SHAPE.boolean().optional(),
+  needsReview: SHAPE.boolean().optional(),
+  amazonOrderNumber: SHAPE.string().optional(),
 })
 
 export function parseTransactionLine(line: string): TransactionLine {

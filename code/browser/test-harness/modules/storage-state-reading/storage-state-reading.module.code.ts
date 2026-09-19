@@ -1,43 +1,35 @@
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import type { Infer } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 
 const JWT_FRESHNESS_MARGIN_MS = 10 * 60 * 1000
 
 const COOKIE_CHUNK_LIMIT = 3180
 
-const CookieSchema = shape
-  .object({
-    name: shape.string(),
-    value: shape.string(),
-  })
-  .passthrough()
+const CookieSchema = SHAPE.object({
+  name: SHAPE.string(),
+  value: SHAPE.string(),
+}).passthrough()
 
-const StorageStateSchema = shape
-  .object({
-    cookies: shape.array(CookieSchema).default([]),
-    origins: shape.array(shape.unknown()).default([]),
-  })
-  .passthrough()
+const StorageStateSchema = SHAPE.object({
+  cookies: SHAPE.array(CookieSchema).default([]),
+  origins: SHAPE.array(SHAPE.unknown()).default([]),
+}).passthrough()
 
 export type StorageState = Infer<typeof StorageStateSchema>
 
-const AuthSessionSchema = shape
-  .object({
-    access_token: shape.string(),
-    refresh_token: shape.string(),
-  })
-  .passthrough()
+const AuthSessionSchema = SHAPE.object({
+  access_token: SHAPE.string(),
+  refresh_token: SHAPE.string(),
+}).passthrough()
 
 export type AuthSession = Infer<typeof AuthSessionSchema>
 
-export const RefreshedTokensSchema = shape
-  .object({
-    access_token: shape.string(),
-    refresh_token: shape.string(),
-    expires_in: shape.number(),
-    expires_at: shape.number().optional(),
-  })
-  .passthrough()
+export const RefreshedTokensSchema = SHAPE.object({
+  access_token: SHAPE.string(),
+  refresh_token: SHAPE.string(),
+  expires_in: SHAPE.number(),
+  expires_at: SHAPE.number().optional(),
+}).passthrough()
 
 export type RefreshedTokens = Infer<typeof RefreshedTokensSchema>
 
@@ -46,7 +38,7 @@ export type StorageStateClassification =
   | { kind: "needs-refresh"; jwtExpIso: string; session: AuthSession }
   | { kind: "needs-export"; reason: string }
 
-const JwtPayloadSchema = shape.object({ exp: shape.number() }).passthrough()
+const JwtPayloadSchema = SHAPE.object({ exp: SHAPE.number() }).passthrough()
 
 function decodeJwtExpMs(accessToken: string): number | null {
   const parts = accessToken.split(".")
@@ -63,7 +55,7 @@ function decodeJwtExpMs(accessToken: string): number | null {
 
 const AUTH_COOKIE_PATTERN = /^sb-.*-auth-token(\.\d+)?$/
 const CHUNK_SUFFIX_RE = /\.(\d+)$/
-const CHUNK_SUFFIX_MATCH_SCHEMA = shape.tuple([shape.string(), shape.string()])
+const CHUNK_SUFFIX_MATCH_SCHEMA = SHAPE.tuple([SHAPE.string(), SHAPE.string()])
 
 function assembleAuthCookieValue(state: StorageState): string | null {
   const parts = state.cookies

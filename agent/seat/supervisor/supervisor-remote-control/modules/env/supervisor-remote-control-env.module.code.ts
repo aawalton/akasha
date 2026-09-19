@@ -2,24 +2,21 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { RemoteControlEnv } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-env/supervisor-env.module.code.ts"
 import { harnessSettingsAt } from "akasha/agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-const CREDENTIAL_FILE_SCHEMA = shape
-  .object({
-    claudeAiOauth: shape
-      .object({
-        accessToken: shape.string().min(1),
-        refreshToken: shape.string().min(1),
-        expiresAt: shape.number(),
-        scopes: shape.array(shape.string()).optional(),
-        subscriptionType: shape.string().nullable().optional(),
-        rateLimitTier: shape.string().nullable().optional(),
-      })
-      .passthrough()
-      .optional(),
+const CREDENTIAL_FILE_SCHEMA = SHAPE.object({
+  claudeAiOauth: SHAPE.object({
+    accessToken: SHAPE.string().min(1),
+    refreshToken: SHAPE.string().min(1),
+    expiresAt: SHAPE.number(),
+    scopes: SHAPE.array(SHAPE.string()).optional(),
+    subscriptionType: SHAPE.string().nullable().optional(),
+    rateLimitTier: SHAPE.string().nullable().optional(),
   })
-  .passthrough()
+    .passthrough()
+    .optional(),
+}).passthrough()
 
 function readCredentialFileSync(
   credentialDir: string
@@ -43,8 +40,8 @@ const REMOTE_CONTROL = "remote-control"
 
 const UNKNOWN = "the scopes remote control falls back on are unknown"
 
-const RC_SETTINGS_SCHEMA = shape.object({
-  fallbackScopes: shape.array(shape.string()),
+const RC_SETTINGS_SCHEMA = SHAPE.object({
+  fallbackScopes: SHAPE.array(SHAPE.string()),
 })
 
 function declaredFallbackScopes(): string {

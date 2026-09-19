@@ -21,16 +21,16 @@ import {
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "akasha/code/browser/test-harness/modules/storage-state-reading/storage-state-reading.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const LOG = "[supervisor-mcp]"
 
 const EXPORT_COMMAND = "browser test-storage-state"
 const REFRESH_TIMEOUT_MS = 10_000
 
-const RefreshEnvSchema = shape.object({
-  SUPABASE_URL: shape.string().url(),
-  SUPABASE_ANON_KEY: shape.string().min(1),
+const RefreshEnvSchema = SHAPE.object({
+  SUPABASE_URL: SHAPE.string().url(),
+  SUPABASE_ANON_KEY: SHAPE.string().min(1),
 })
 
 async function refreshSeededSession(session: AuthSession): Promise<string | null> {

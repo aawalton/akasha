@@ -3,7 +3,7 @@ import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import type {
   Infer,
   ShapeError,
@@ -13,13 +13,13 @@ const SUPERVISOR_NOTICE_PREFIX = "[supervisor]"
 
 const RESTART_NOTICE_DECISION = "restartNotice"
 
-const handed = shape.string().min(1)
+const handed = SHAPE.string().min(1)
 
-const RestartNoticeVerdictZ = shape.object({
-  route: shape.enum(["spawn-argv", "rail"]),
+const RestartNoticeVerdictZ = SHAPE.object({
+  route: SHAPE.enum(["spawn-argv", "rail"]),
   notice: handed,
 })
-const RestartNoticeAnswerZ = shape.object({ [RESTART_NOTICE_DECISION]: RestartNoticeVerdictZ })
+const RestartNoticeAnswerZ = SHAPE.object({ [RESTART_NOTICE_DECISION]: RestartNoticeVerdictZ })
 export type RestartNoticePlan = Infer<typeof RestartNoticeVerdictZ>
 
 export type AskDecide = (stdin: string) => Promise<unknown>

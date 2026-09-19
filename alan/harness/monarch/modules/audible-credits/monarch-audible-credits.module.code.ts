@@ -6,11 +6,11 @@ import {
   keyOf,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { createTransaction } from "akasha/alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const CASH_ACCOUNT_ID = "151732808422660966"
 const MERCHANT = "Audible Credit Transfer"
-const HOME = shape.string().default(".").parse(process.env.HOME)
+const HOME = SHAPE.string().default(".").parse(process.env.HOME)
 const DEFAULT_LIST = `${HOME}/audible/rebuild.tsv`
 
 interface BookTransfer {

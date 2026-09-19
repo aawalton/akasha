@@ -1,9 +1,9 @@
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export const PORT_READ_BUDGET_MS = 5_000
 
-const PORT_LINE_DIGITS = shape.string().regex(/^\d+$/)
-const PORT_NUMBER = shape.number().int().min(1).max(65535)
+const PORT_LINE_DIGITS = SHAPE.string().regex(/^\d+$/)
+const PORT_NUMBER = SHAPE.number().int().min(1).max(65535)
 
 function parsePortLine(line: string): number {
   return PORT_NUMBER.parse(Number.parseInt(PORT_LINE_DIGITS.parse(line), 10))

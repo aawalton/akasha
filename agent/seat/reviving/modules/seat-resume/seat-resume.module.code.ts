@@ -43,7 +43,7 @@ import {
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { parseArgs } from "akasha/command/modules/parse-args/parse-args.module.code.ts"
 import { readStdinOrFile } from "akasha/file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 
@@ -75,7 +75,7 @@ async function graceWindowMs(value: string): Promise<number> {
 }
 
 function readSelfAgentId(): string | null {
-  const parsed = shape.string().uuid().safeParse(process.env.AGENT_ID)
+  const parsed = SHAPE.string().uuid().safeParse(process.env.AGENT_ID)
   return parsed.success ? parsed.data : null
 }
 
@@ -375,7 +375,7 @@ export default async function seatResume(
       )
     }
     const named =
-      parsed.string("--agent-id") ?? shape.string().optional().parse(process.env.AGENT_ID)
+      parsed.string("--agent-id") ?? SHAPE.string().optional().parse(process.env.AGENT_ID)
     if (named === undefined || named.length === 0) {
       throw inputError(NONE_NAMED)
     }
@@ -393,7 +393,7 @@ export default async function seatResume(
     return
   }
 
-  const asked = parsed.string("--agent-id") ?? shape.string().optional().parse(process.env.AGENT_ID)
+  const asked = parsed.string("--agent-id") ?? SHAPE.string().optional().parse(process.env.AGENT_ID)
   if (asked === undefined || asked.length === 0) {
     throw inputError(NONE_NAMED)
   }

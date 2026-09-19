@@ -1,9 +1,9 @@
 import { realpathSync } from "node:fs"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-const CONFIG_DIR_ENV = shape.string().optional()
+const CONFIG_DIR_ENV = SHAPE.string().optional()
 
-const HOME_ENV = shape.string().default("/home/walton")
+const HOME_ENV = SHAPE.string().default("/home/walton")
 
 export function sessionProjectDir(cwd: string, configDir?: string): string {
   let resolved = cwd

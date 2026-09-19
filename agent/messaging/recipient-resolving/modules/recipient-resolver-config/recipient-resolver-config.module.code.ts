@@ -1,4 +1,4 @@
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const SEC_MS = 1000
 
@@ -12,7 +12,7 @@ const DEFAULT_TICK_SEC = 15
 
 const DEFAULT_REVIVE_TIMEOUT_SEC = 120
 
-const positiveNumber = shape.coerce.number().positive().finite()
+const positiveNumber = SHAPE.coerce.number().positive().finite()
 const boolEnvTrue: ReadonlySet<string> = new Set(["1", "true", "yes", "on"])
 
 function resolvePositiveNumberEnv(name: string, fallback: number): number {
@@ -21,7 +21,7 @@ function resolvePositiveNumberEnv(name: string, fallback: number): number {
 }
 
 function resolveBoolEnv(name: string): boolean {
-  const parsed = shape.string().safeParse(process.env[name])
+  const parsed = SHAPE.string().safeParse(process.env[name])
   return parsed.success && boolEnvTrue.has(parsed.data.trim().toLowerCase())
 }
 

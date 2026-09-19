@@ -3,7 +3,7 @@ import {
   type RuleAnswer,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const RULE = "proxyAdoptionRule"
 
@@ -15,9 +15,9 @@ export type ProxyAdoptionInput = {
 
 export type ProxyAdoptionDecision = "adopt" | "adopt-with-drift" | "spawn-fresh"
 
-const AnswerZ = shape.object({
-  [RULE]: shape.object({
-    decideProxyAdoption: shape.enum(["adopt", "adopt-with-drift", "spawn-fresh"]),
+const AnswerZ = SHAPE.object({
+  [RULE]: SHAPE.object({
+    decideProxyAdoption: SHAPE.enum(["adopt", "adopt-with-drift", "spawn-fresh"]),
   }),
 })
 

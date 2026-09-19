@@ -39,9 +39,9 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-const ENV_OPTIONAL = shape.string().optional()
+const ENV_OPTIONAL = SHAPE.string().optional()
 
 export async function bootInteractiveSession(
   args: InteractiveBootArgs

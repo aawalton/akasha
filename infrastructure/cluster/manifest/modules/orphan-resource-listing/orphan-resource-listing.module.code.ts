@@ -1,5 +1,5 @@
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const TOKEN_ENV = "PIPELINE_SA_TOKEN"
 
@@ -53,12 +53,12 @@ function listPath(namespace: string, kind: AuditedKind): string {
   return `/api/v1/namespaces/${namespace}/services`
 }
 
-const ListShape = shape.looseObject({
-  items: shape.array(
-    shape.looseObject({
-      metadata: shape.looseObject({
-        name: shape.string(),
-        labels: shape.record(shape.string(), shape.string()).optional(),
+const ListShape = SHAPE.looseObject({
+  items: SHAPE.array(
+    SHAPE.looseObject({
+      metadata: SHAPE.looseObject({
+        name: SHAPE.string(),
+        labels: SHAPE.record(SHAPE.string(), SHAPE.string()).optional(),
       }),
     })
   ),

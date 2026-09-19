@@ -3,7 +3,7 @@ import {
   getMessage,
   listMessages,
 } from "akasha/alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export interface EmailMessage {
   readonly id: string
@@ -12,11 +12,11 @@ export interface EmailMessage {
   readonly body: string
 }
 
-const CACHED_MESSAGE = shape.object({
-  id: shape.string(),
-  subject: shape.string().default(""),
-  date: shape.string().default(""),
-  body: shape.string().default(""),
+const CACHED_MESSAGE = SHAPE.object({
+  id: SHAPE.string(),
+  subject: SHAPE.string().default(""),
+  date: SHAPE.string().default(""),
+  body: SHAPE.string().default(""),
 })
 
 const FETCH_WIDTH = 8

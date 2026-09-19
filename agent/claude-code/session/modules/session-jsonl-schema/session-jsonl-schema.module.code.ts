@@ -1,28 +1,28 @@
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import type { Infer } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 
-const TextBlock = shape.looseObject({
-  type: shape.literal("text"),
-  text: shape.string(),
+const TextBlock = SHAPE.looseObject({
+  type: SHAPE.literal("text"),
+  text: SHAPE.string(),
 })
 
-const ToolUseBlock = shape.looseObject({
-  type: shape.literal("tool_use"),
-  id: shape.string(),
-  name: shape.string(),
-  input: shape.unknown(),
+const ToolUseBlock = SHAPE.looseObject({
+  type: SHAPE.literal("tool_use"),
+  id: SHAPE.string(),
+  name: SHAPE.string(),
+  input: SHAPE.unknown(),
 })
 
-const ToolResultBlock = shape.looseObject({
-  type: shape.literal("tool_result"),
-  tool_use_id: shape.string(),
-  content: shape.union([shape.string(), shape.array(shape.unknown())]).optional(),
-  is_error: shape.boolean().optional(),
+const ToolResultBlock = SHAPE.looseObject({
+  type: SHAPE.literal("tool_result"),
+  tool_use_id: SHAPE.string(),
+  content: SHAPE.union([SHAPE.string(), SHAPE.array(SHAPE.unknown())]).optional(),
+  is_error: SHAPE.boolean().optional(),
 })
 
-const ThinkingBlock = shape.looseObject({
-  type: shape.literal("thinking"),
-  thinking: shape.string(),
+const ThinkingBlock = SHAPE.looseObject({
+  type: SHAPE.literal("thinking"),
+  thinking: SHAPE.string(),
 })
 
 export const MODELED_CONTENT_BLOCK_TYPES: ReadonlySet<string> = new Set([
@@ -32,79 +32,78 @@ export const MODELED_CONTENT_BLOCK_TYPES: ReadonlySet<string> = new Set([
   "thinking",
 ])
 
-const ModeledContentBlock = shape.discriminatedUnion("type", [
+const ModeledContentBlock = SHAPE.discriminatedUnion("type", [
   TextBlock,
   ToolUseBlock,
   ToolResultBlock,
   ThinkingBlock,
 ])
 
-const UnknownContentBlock = shape
-  .looseObject({ type: shape.string() })
-  .refine((b) => !MODELED_CONTENT_BLOCK_TYPES.has(b.type), { message: "Invalid input" })
+const UnknownContentBlock = SHAPE.looseObject({ type: SHAPE.string() }).refine(
+  (b) => !MODELED_CONTENT_BLOCK_TYPES.has(b.type),
+  { message: "Invalid input" }
+)
 
-const ContentBlock = shape.union([ModeledContentBlock, UnknownContentBlock])
+const ContentBlock = SHAPE.union([ModeledContentBlock, UnknownContentBlock])
 export type ContentBlock = Infer<typeof ContentBlock>
 
-const TokenUsage = shape.looseObject({
-  input_tokens: shape.number(),
-  output_tokens: shape.number(),
-  cache_creation_input_tokens: shape.number(),
-  cache_read_input_tokens: shape.number(),
-  cache_creation: shape
-    .looseObject({
-      ephemeral_5m_input_tokens: shape.number().optional(),
-      ephemeral_1h_input_tokens: shape.number().optional(),
-    })
-    .optional(),
+const TokenUsage = SHAPE.looseObject({
+  input_tokens: SHAPE.number(),
+  output_tokens: SHAPE.number(),
+  cache_creation_input_tokens: SHAPE.number(),
+  cache_read_input_tokens: SHAPE.number(),
+  cache_creation: SHAPE.looseObject({
+    ephemeral_5m_input_tokens: SHAPE.number().optional(),
+    ephemeral_1h_input_tokens: SHAPE.number().optional(),
+  }).optional(),
 })
 export type TokenUsage = Infer<typeof TokenUsage>
 
-const AssistantMessage = shape.looseObject({
-  type: shape.literal("assistant"),
-  timestamp: shape.string().optional(),
-  isApiErrorMessage: shape.boolean().optional(),
-  apiErrorStatus: shape.number().optional(),
-  error: shape.string().optional(),
-  message: shape.looseObject({
-    id: shape.string().optional(),
-    model: shape.string().optional(),
-    content: shape.array(ContentBlock),
+const AssistantMessage = SHAPE.looseObject({
+  type: SHAPE.literal("assistant"),
+  timestamp: SHAPE.string().optional(),
+  isApiErrorMessage: SHAPE.boolean().optional(),
+  apiErrorStatus: SHAPE.number().optional(),
+  error: SHAPE.string().optional(),
+  message: SHAPE.looseObject({
+    id: SHAPE.string().optional(),
+    model: SHAPE.string().optional(),
+    content: SHAPE.array(ContentBlock),
     usage: TokenUsage.optional(),
   }),
 })
 export type AssistantMessage = Infer<typeof AssistantMessage>
 
-const ToolUseSummaryMessage = shape.looseObject({
-  type: shape.literal("tool_use_summary"),
-  summary: shape.string(),
+const ToolUseSummaryMessage = SHAPE.looseObject({
+  type: SHAPE.literal("tool_use_summary"),
+  summary: SHAPE.string(),
 })
 
-const ResultMessage = shape.looseObject({
-  type: shape.literal("result"),
-  subtype: shape.string(),
-  errors: shape.array(shape.string()).optional(),
+const ResultMessage = SHAPE.looseObject({
+  type: SHAPE.literal("result"),
+  subtype: SHAPE.string(),
+  errors: SHAPE.array(SHAPE.string()).optional(),
 })
 
-const UserMessage = shape.looseObject({
-  type: shape.literal("user"),
-  timestamp: shape.string().optional(),
-  origin: shape.looseObject({ kind: shape.string() }).optional(),
-  message: shape.looseObject({
-    content: shape.union([shape.string(), shape.array(ContentBlock)]),
+const UserMessage = SHAPE.looseObject({
+  type: SHAPE.literal("user"),
+  timestamp: SHAPE.string().optional(),
+  origin: SHAPE.looseObject({ kind: SHAPE.string() }).optional(),
+  message: SHAPE.looseObject({
+    content: SHAPE.union([SHAPE.string(), SHAPE.array(ContentBlock)]),
   }),
 })
 export type UserMessage = Infer<typeof UserMessage>
 
-const QueueOperationMessage = shape.looseObject({
-  type: shape.literal("queue-operation"),
-  operation: shape.string(),
-  content: shape.string().optional(),
-  timestamp: shape.string().optional(),
+const QueueOperationMessage = SHAPE.looseObject({
+  type: SHAPE.literal("queue-operation"),
+  operation: SHAPE.string(),
+  content: SHAPE.string().optional(),
+  timestamp: SHAPE.string().optional(),
 })
 export type QueueOperationMessage = Infer<typeof QueueOperationMessage>
 
-export const SessionMessage = shape.discriminatedUnion("type", [
+export const SessionMessage = SHAPE.discriminatedUnion("type", [
   AssistantMessage,
   ToolUseSummaryMessage,
   ResultMessage,
@@ -121,4 +120,4 @@ export const MODELED_TYPES = new Set([
   "queue-operation",
 ])
 
-export const RawSessionLine = shape.unknown()
+export const RawSessionLine = SHAPE.unknown()

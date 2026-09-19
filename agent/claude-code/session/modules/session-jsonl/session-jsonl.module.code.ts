@@ -4,9 +4,9 @@ import {
   RawSessionLine,
   SessionMessage,
 } from "akasha/agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-const ResultSubtypePresence = shape.looseObject({ subtype: shape.string() })
+const ResultSubtypePresence = SHAPE.looseObject({ subtype: SHAPE.string() })
 
 export function parseSessionLine(line: string): SessionMessage | null {
   let json: unknown
@@ -23,7 +23,7 @@ export function parseSessionLine(line: string): SessionMessage | null {
   return SessionMessage.parse(json)
 }
 
-const SessionIdLine = shape.looseObject({ sessionId: shape.string().min(1) })
+const SessionIdLine = SHAPE.looseObject({ sessionId: SHAPE.string().min(1) })
 
 export function readTranscriptSessionId(text: string): string | null {
   for (const raw of text.split("\n")) {
@@ -49,9 +49,9 @@ function quarantinePlaceholder(type: string): { type: "text"; text: string } {
   return { type: "text", text: `[${type} block removed during transcript sanitization]` }
 }
 
-const ContentBearingLine = shape.looseObject({
-  message: shape.looseObject({
-    content: shape.array(shape.looseObject({ type: shape.string() })),
+const ContentBearingLine = SHAPE.looseObject({
+  message: SHAPE.looseObject({
+    content: SHAPE.array(SHAPE.looseObject({ type: SHAPE.string() })),
   }),
 })
 

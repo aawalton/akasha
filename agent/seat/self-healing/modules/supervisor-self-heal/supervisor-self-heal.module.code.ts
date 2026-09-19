@@ -7,7 +7,7 @@ import {
   LOG,
   REPO_ROOT,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export function resolveReExecArgv(): readonly string[] {
   const agentId = SELF_HEAL_STATE.currentAgentIdForSelfHeal
@@ -64,7 +64,7 @@ export async function handleVersionUpdate(
     )
     const { value: windows, notice } = await SELF_HEAL_STATE.deferredRestartRuleForSelfHeal.windows(
       {
-        maxDeferMs: shape.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
+        maxDeferMs: SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
         staleWedgeMs: undefined,
         preCliffOverrideMs: undefined,
       }
@@ -83,7 +83,7 @@ export async function handleVersionUpdate(
         SELF_HEAL_STATE.deferredReExecGate = null
         const { value: delayMs } = await SELF_HEAL_STATE.selfHealJitterRuleForSelfHeal(
           SELF_HEAL_STATE.randomFloat(),
-          shape.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_JITTER_MS)
+          SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_JITTER_MS)
         )
         console.log(
           `${LOG} Self-heal: agent idle; scheduling re-exec SIGTERM in ${delayMs}ms (jitter)`

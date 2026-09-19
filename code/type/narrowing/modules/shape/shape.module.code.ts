@@ -18,7 +18,7 @@ import {
   unknownShape,
 } from "akasha/code/type/narrowing/modules/shape-scalar/shape-scalar.module.code.ts"
 
-export const shape = {
+export const SHAPE = {
   string: stringShape,
   number: numberShape,
   boolean: booleanShape,

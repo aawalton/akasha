@@ -1,14 +1,14 @@
 import { harnessSettings } from "akasha/agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const SETTINGS_SLUG = "tool-access"
 
 const UNKNOWN = "which tools an agent may reach is unknown"
 
-const Declaration = shape.object({
-  builtinTools: shape.array(shape.string()).nullable(),
-  disallowedTools: shape.array(shape.string()),
-  alwaysAllowed: shape.array(shape.string()),
+const Declaration = SHAPE.object({
+  builtinTools: SHAPE.array(SHAPE.string()).nullable(),
+  disallowedTools: SHAPE.array(SHAPE.string()),
+  alwaysAllowed: SHAPE.array(SHAPE.string()),
 })
 
 function declaration(): ReturnType<typeof Declaration.parse> {

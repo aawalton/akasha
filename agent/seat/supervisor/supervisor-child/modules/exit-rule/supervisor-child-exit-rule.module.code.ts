@@ -10,7 +10,7 @@ import {
   type RuleAnswer,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const RULE = "childExitRule"
 
@@ -18,40 +18,40 @@ const UNREAD_STATUS: ChildExitStatus = { exitCode: null, signal: null }
 
 const UNREAD_COLLAPSE = 1
 
-const statusZ = shape.object({
-  exitCode: shape.number().nullable(),
-  signal: shape.string().nullable(),
+const statusZ = SHAPE.object({
+  exitCode: SHAPE.number().nullable(),
+  signal: SHAPE.string().nullable(),
 })
 
-const stopReasonZ = shape.enum(Object.values(DB_STOP_REASON))
+const stopReasonZ = SHAPE.enum(Object.values(DB_STOP_REASON))
 
-const declaredZ = shape.record(shape.string(), shape.string())
+const declaredZ = SHAPE.record(SHAPE.string(), SHAPE.string())
 
-const DecodeZ = shape.object({ [RULE]: shape.object({ decodeWaitStatus: statusZ }) })
+const DecodeZ = SHAPE.object({ [RULE]: SHAPE.object({ decodeWaitStatus: statusZ }) })
 
-const CollapseZ = shape.object({
-  [RULE]: shape.object({ collapseChildExitStatus: shape.number() }),
+const CollapseZ = SHAPE.object({
+  [RULE]: SHAPE.object({ collapseChildExitStatus: SHAPE.number() }),
 })
 
-const ClassifyZ = shape.object({
-  [RULE]: shape.object({
+const ClassifyZ = SHAPE.object({
+  [RULE]: SHAPE.object({
     stopReason: declaredZ,
-    classifyChildExit: shape.object({
-      crashed: shape.boolean(),
+    classifyChildExit: SHAPE.object({
+      crashed: SHAPE.boolean(),
       stopReason: stopReasonZ,
-      reason: shape.string(),
+      reason: SHAPE.string(),
       status: statusZ,
     }),
   }),
 })
 
-const ShutdownWriteZ = shape.object({
-  [RULE]: shape.object({
+const ShutdownWriteZ = SHAPE.object({
+  [RULE]: SHAPE.object({
     stopReason: declaredZ,
-    decideShutdownExitWrite: shape.object({
-      stampCleanExit: shape.boolean(),
+    decideShutdownExitWrite: SHAPE.object({
+      stampCleanExit: SHAPE.boolean(),
       stopReason: stopReasonZ,
-      recordCrash: shape.boolean(),
+      recordCrash: SHAPE.boolean(),
     }),
   }),
 })

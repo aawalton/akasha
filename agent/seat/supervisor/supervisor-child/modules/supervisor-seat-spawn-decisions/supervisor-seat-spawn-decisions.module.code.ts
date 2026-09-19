@@ -10,10 +10,10 @@ import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-const SeatSpawnAnswerShape = shape.object({
-  [REMOTE_CONTROL_DECISION]: shape.tuple([RemoteControlVerdictShape]),
+const SeatSpawnAnswerShape = SHAPE.object({
+  [REMOTE_CONTROL_DECISION]: SHAPE.tuple([RemoteControlVerdictShape]),
 })
 
 export type SeatSpawnDecisions = {

@@ -4,7 +4,7 @@ import {
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const RULE = "idleRule"
 
@@ -12,16 +12,16 @@ export type BusyChildDetail = { pid: string; cmdline: string; ageMs: number | nu
 
 export type IdleVerdict = { readonly idle: boolean; readonly reason: string }
 
-const IgnoredZ = shape.object({
-  [RULE]: shape.object({ ignoredMcpCmdlines: shape.array(shape.boolean()) }),
+const IgnoredZ = SHAPE.object({
+  [RULE]: SHAPE.object({ ignoredMcpCmdlines: SHAPE.array(SHAPE.boolean()) }),
 })
 
-const PreservingZ = shape.object({
-  [RULE]: shape.object({ preservingRestart: shape.boolean(), busyReason: shape.string() }),
+const PreservingZ = SHAPE.object({
+  [RULE]: SHAPE.object({ preservingRestart: SHAPE.boolean(), busyReason: SHAPE.string() }),
 })
 
-const PastCliffZ = shape.object({
-  [RULE]: shape.object({ preservingRestartPastCliff: shape.boolean(), busyReason: shape.string() }),
+const PastCliffZ = SHAPE.object({
+  [RULE]: SHAPE.object({ preservingRestartPastCliff: SHAPE.boolean(), busyReason: SHAPE.string() }),
 })
 
 const UNREACHED_REASON = "rule-unreachable"

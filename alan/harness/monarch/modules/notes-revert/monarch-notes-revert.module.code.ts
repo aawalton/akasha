@@ -6,9 +6,9 @@ import {
   overwriteTransactionNotes,
   setTransactionTags,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
+const HOME = SHAPE.string().default("/home/walton").parse(process.env.HOME)
 
 const SNAPSHOT_PATH = `${HOME}/monarch-notes-snapshot-18168.json`
 
@@ -30,13 +30,13 @@ function snapshotRow(t: MonarchTransaction): SnapshotRow {
   }
 }
 
-const SNAPSHOT_SHAPE = shape.array(
-  shape.object({
-    monarchId: shape.string(),
-    date: shape.string(),
-    amount: shape.number(),
-    notes: shape.string().nullable(),
-    tagIds: shape.array(shape.string()),
+const SNAPSHOT_SHAPE = SHAPE.array(
+  SHAPE.object({
+    monarchId: SHAPE.string(),
+    date: SHAPE.string(),
+    amount: SHAPE.number(),
+    notes: SHAPE.string().nullable(),
+    tagIds: SHAPE.array(SHAPE.string()),
   })
 )
 

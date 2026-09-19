@@ -10,7 +10,7 @@ import {
   pidAliveOrRefuse,
 } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import {
   listedAt,
   slugsOfType,
@@ -31,17 +31,15 @@ export interface DevServerState {
   readonly log_path: string
 }
 
-const STATE_SHAPE = shape
-  .object({
-    pid: shape.number(),
-    port: shape.number(),
-    app: shape.string(),
-    commit: shape.string(),
-    tree_path: shape.string(),
-    started_at: shape.string(),
-    log_path: shape.string(),
-  })
-  .strict()
+const STATE_SHAPE = SHAPE.object({
+  pid: SHAPE.number(),
+  port: SHAPE.number(),
+  app: SHAPE.string(),
+  commit: SHAPE.string(),
+  tree_path: SHAPE.string(),
+  started_at: SHAPE.string(),
+  log_path: SHAPE.string(),
+}).strict()
 
 export interface DevServerApp {
   readonly name: string

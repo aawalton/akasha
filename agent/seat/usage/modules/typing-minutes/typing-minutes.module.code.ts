@@ -1,19 +1,19 @@
 import { appendFile, mkdir } from "node:fs/promises"
 import { seatNameForSupervisorPid } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import type { Infer } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 
 const MS_PER_MINUTE = 60_000
 
-const TypingMinuteRecordSchema = shape.object({
-  minute: shape.number().finite(),
-  seat: shape.string().min(1),
+const TypingMinuteRecordSchema = SHAPE.object({
+  minute: SHAPE.number().finite(),
+  seat: SHAPE.string().min(1),
 })
 
 export type TypingMinuteRecord = Infer<typeof TypingMinuteRecordSchema>
 
 function typingSpoolDir(): string {
-  const home = shape.string().default("/home/walton").parse(process.env.HOME)
+  const home = SHAPE.string().default("/home/walton").parse(process.env.HOME)
   return `${home}/.cache/alan-typing-minutes`
 }
 

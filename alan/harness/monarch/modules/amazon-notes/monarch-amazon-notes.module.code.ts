@@ -26,11 +26,11 @@ import {
   liveTransaction,
   mayWriteNotes,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const GMAIL_QUERY = "from:auto-confirm@amazon.com subject:Ordered after:2025/01/01"
 
-const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
+const HOME = SHAPE.string().default("/home/walton").parse(process.env.HOME)
 const BODY_CACHE = `${HOME}/.cache/monarch-amazon-orders`
 
 export async function orderEmails(): Promise<readonly EmailMessage[]> {

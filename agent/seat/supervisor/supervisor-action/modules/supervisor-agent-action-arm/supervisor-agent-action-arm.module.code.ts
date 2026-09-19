@@ -5,7 +5,7 @@ import type {
   DeferredRestartWindows,
 } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { readProcessStartMs } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export interface IdleGateConfig {
   interruptMessage: string | null
@@ -45,13 +45,11 @@ export function buildIdleGateArm(opts: {
     idleGateArming = true
     try {
       const { value: windows, notice } = await opts.deferredRestartRule.windows({
-        maxDeferMs: shape.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
-        staleWedgeMs: shape
-          .string()
+        maxDeferMs: SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
+        staleWedgeMs: SHAPE.string()
           .optional()
           .parse(process.env.SUPERVISOR_DEFERRED_STALE_WEDGE_MS),
-        preCliffOverrideMs: shape
-          .string()
+        preCliffOverrideMs: SHAPE.string()
           .optional()
           .parse(process.env.SUPERVISOR_PRECLIFF_OVERRIDE_MS),
       })

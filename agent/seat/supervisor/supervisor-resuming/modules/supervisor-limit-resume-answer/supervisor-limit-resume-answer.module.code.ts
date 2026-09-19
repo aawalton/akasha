@@ -1,25 +1,25 @@
 import { SUPERVISOR_DECIDE_COMMAND } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import type { Infer } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 
 const LIMIT_RESUME_DECISION = "limitResume"
 
 export type AskDecide = (stdin: string) => Promise<unknown>
 
-const LimitResumeAnswerShape = shape.object({
-  [LIMIT_RESUME_DECISION]: shape.discriminatedUnion("kind", [
-    shape.object({
-      kind: shape.literal("nudge"),
-      reason: shape.string(),
-      nudge: shape.string().refine((text) => text.trim() !== "", {
+const LimitResumeAnswerShape = SHAPE.object({
+  [LIMIT_RESUME_DECISION]: SHAPE.discriminatedUnion("kind", [
+    SHAPE.object({
+      kind: SHAPE.literal("nudge"),
+      reason: SHAPE.string(),
+      nudge: SHAPE.string().refine((text) => text.trim() !== "", {
         message: "the nudge text is blank, which would reach the seat as an empty turn",
       }),
-      floorMs: shape.number().refine((ms) => Number.isFinite(ms) && ms > 0, {
+      floorMs: SHAPE.number().refine((ms) => Number.isFinite(ms) && ms > 0, {
         message: "the floor window is not a positive finite number, which would disable the floor",
       }),
     }),
-    shape.object({ kind: shape.literal("wait"), reason: shape.string() }),
-    shape.object({ kind: shape.literal("hold"), reason: shape.string() }),
+    SHAPE.object({ kind: SHAPE.literal("wait"), reason: SHAPE.string() }),
+    SHAPE.object({ kind: SHAPE.literal("hold"), reason: SHAPE.string() }),
   ]),
 })
 

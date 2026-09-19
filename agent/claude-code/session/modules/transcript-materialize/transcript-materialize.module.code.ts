@@ -7,10 +7,10 @@ import {
 } from "akasha/agent/claude-code/session/modules/session-stream/session-stream.module.code.ts"
 import { sessionProjectDir } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-config/seaweedfs-config.module.code.ts"
 
-const SessionIdLine = shape.looseObject({ sessionId: shape.string().optional() })
+const SessionIdLine = SHAPE.looseObject({ sessionId: SHAPE.string().optional() })
 
 export interface MaterializeTranscriptResult {
   readonly path: string

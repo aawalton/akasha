@@ -3,7 +3,7 @@ import {
   type RuleAnswer,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const RULE = "proxyLivenessRule"
 
@@ -20,16 +20,16 @@ export type ProxyLivenessVerdict = {
   readonly action: ProxyLivenessAction
 }
 
-const StateZ = shape.object({
-  consecutiveFailures: shape.number(),
-  consecutiveRespawns: shape.number(),
-  gaveUp: shape.boolean(),
+const StateZ = SHAPE.object({
+  consecutiveFailures: SHAPE.number(),
+  consecutiveRespawns: SHAPE.number(),
+  gaveUp: SHAPE.boolean(),
 })
-const AnswerZ = shape.object({
-  [RULE]: shape.object({
-    decideProxyLiveness: shape.object({
+const AnswerZ = SHAPE.object({
+  [RULE]: SHAPE.object({
+    decideProxyLiveness: SHAPE.object({
       state: StateZ,
-      action: shape.enum(["none", "respawn", "give-up"]),
+      action: SHAPE.enum(["none", "respawn", "give-up"]),
     }),
   }),
 })
