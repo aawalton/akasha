@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The character a story names several ways is one page, and each other name is a page stating this."},{"decisionKind":"decision-kind/departure","statement":"A page stating this keeps the claims read under that name."},{"decisionKind":"decision-kind/departure","statement":"The character a name is read as states nothing here."},{"decisionKind":"decision-kind/departure","statement":"No name is read as a name that is itself read as another."},{"decisionKind":"decision-kind/departure","statement":"A later self and an earlier self are two characters rather than two names."}]}
+{"definition":"the character another name for that character is read as"}
+{"id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
+{"propertySlug":"alias-of"}
+{"slug":"alias-of"}
+{"targetPageType":"page-type/world-character"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

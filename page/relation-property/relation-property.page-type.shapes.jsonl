@@ -2,6 +2,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-action","unique":null,"uniquePropertySlug":null,"slug":"action","propertySlug":"action","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"held-addon","unique":null,"uniquePropertySlug":null,"slug":"adjacents","propertySlug":"adjacents","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"alert-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"alias-of","propertySlug":"alias-of","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"answered-by","propertySlug":"answered-by","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"app","propertySlug":"app","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"argument","propertySlug":"argument","fileName":null,"folderName":null,"sorted":false}

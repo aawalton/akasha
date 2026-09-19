@@ -136,6 +136,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/chapter-written/properties/written-chapter-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/element-played/properties/played-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/played/properties/world.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world-character/properties/alias-of.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/special-effect.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/temper-world/temper-dungeon/properties/quest-giver.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/character/temper-account-character/properties/character-roles.relation-property.ts"}

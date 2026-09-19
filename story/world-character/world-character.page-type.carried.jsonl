@@ -2,8 +2,8 @@
 {"definition":"somebody a world's story follows"}
 {"extends":["page-type/page"]}
 {"id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
-{"parts":["module/character-filing","number-property/event-count","number-property/first-chapter","number-property/last-chapter","number-property/max-level","page-property-entry/character-claims","text-property/claim-field","text-property/claim-value","text-property/claimed-by","text-property/epistemic","text-property/source-chapter"]}
-{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"number-property/max-level","required":false,"many":false},{"pageProperty":"number-property/event-count","required":false,"many":false},{"pageProperty":"number-property/first-chapter","required":false,"many":false},{"pageProperty":"number-property/last-chapter","required":false,"many":false},{"pageProperty":"page-property-entry/character-claims","required":false,"many":false}]}
+{"parts":["module/character-filing","number-property/event-count","number-property/first-chapter","number-property/last-chapter","number-property/max-level","page-property-entry/character-claims","relation-property/alias-of","text-property/claim-field","text-property/claim-value","text-property/claimed-by","text-property/epistemic","text-property/source-chapter"]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"number-property/max-level","required":false,"many":false},{"pageProperty":"number-property/event-count","required":false,"many":false},{"pageProperty":"number-property/first-chapter","required":false,"many":false},{"pageProperty":"number-property/last-chapter","required":false,"many":false},{"pageProperty":"page-property-entry/character-claims","required":false,"many":false},{"pageProperty":"relation-property/alias-of","required":false,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"world-character"}

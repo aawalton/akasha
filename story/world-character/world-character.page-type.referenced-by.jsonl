@@ -1861,3 +1861,4 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/zinni/zinni.world-character.ts"}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world-character/pages/zoreik/zoreik.world-character.ts"}
 {"propertySlug":"parts","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
+{"propertySlug":"target-page-type","path":"story/world-character/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
