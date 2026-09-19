@@ -14,7 +14,6 @@ export const jamesTaylorOhWhatABeautifulMornin = {
   ],
   title: "Oh, What a Beautiful Mornin’",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

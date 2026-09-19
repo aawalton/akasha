@@ -14,7 +14,6 @@ export const jamesTaylorHardTimesComeAgainNoMore = {
   ],
   title: "Hard Times Come Again No More",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

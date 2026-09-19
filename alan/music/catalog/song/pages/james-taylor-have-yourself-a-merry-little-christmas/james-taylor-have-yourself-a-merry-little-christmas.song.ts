@@ -14,7 +14,6 @@ export const jamesTaylorHaveYourselfAMerryLittleChristmas = {
   ],
   title: "Have Yourself a Merry Little Christmas",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

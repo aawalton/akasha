@@ -14,7 +14,6 @@ export const jamesTaylorDontTrySoHard = {
   ],
   title: "Don't Try So Hard",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

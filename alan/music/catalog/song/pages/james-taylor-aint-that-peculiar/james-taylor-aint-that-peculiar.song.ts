@@ -14,7 +14,6 @@ export const jamesTaylorAintThatPeculiar = {
   ],
   title: "Ain’t That Peculiar",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

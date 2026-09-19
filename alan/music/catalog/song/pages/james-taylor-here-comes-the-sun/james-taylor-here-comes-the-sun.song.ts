@@ -14,7 +14,6 @@ export const jamesTaylorHereComesTheSun = {
   ],
   title: "Here Comes the Sun",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

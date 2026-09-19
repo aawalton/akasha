@@ -14,7 +14,6 @@ export const jamesTaylorSheThinksIStillCare = {
   ],
   title: "She Thinks I Still Care",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

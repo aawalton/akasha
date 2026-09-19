@@ -14,7 +14,6 @@ export const jamesTaylorWhyBabyWhy = {
   ],
   title: "Why Baby Why",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

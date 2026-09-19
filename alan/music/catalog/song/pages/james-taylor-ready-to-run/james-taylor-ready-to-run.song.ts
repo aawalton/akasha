@@ -14,7 +14,6 @@ export const jamesTaylorReadyToRun = {
   ],
   title: "Ready to Run",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

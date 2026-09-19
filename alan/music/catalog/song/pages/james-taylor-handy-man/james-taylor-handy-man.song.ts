@@ -14,7 +14,6 @@ export const jamesTaylorHandyMan = {
   ],
   title: "Handy Man",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorDayTripper = {
   ],
   title: "Day Tripper",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

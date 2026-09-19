@@ -14,6 +14,5 @@ export const jamesTaylorIDidntKnowWhatTimeItWas = {
   ],
   title: "I Didn’t Know What Time It Was",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const jamesTaylorThatSongAboutTheMidway = {
   ],
   title: "That Song About the Midway",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

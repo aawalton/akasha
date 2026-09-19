@@ -14,7 +14,6 @@ export const jamesTaylorEverybodyLovesToChaChaCha = {
   ],
   title: "Everybody Loves to Cha‐Cha‐Cha",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

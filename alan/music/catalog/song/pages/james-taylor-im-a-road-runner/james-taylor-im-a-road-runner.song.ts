@@ -14,7 +14,6 @@ export const jamesTaylorImARoadRunner = {
   ],
   title: "(I’m a) Road Runner",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

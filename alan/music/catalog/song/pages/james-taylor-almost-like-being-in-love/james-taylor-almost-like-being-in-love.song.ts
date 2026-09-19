@@ -14,7 +14,6 @@ export const jamesTaylorAlmostLikeBeingInLove = {
   ],
   title: "Almost Like Being in Love",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

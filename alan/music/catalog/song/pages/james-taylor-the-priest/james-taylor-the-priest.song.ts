@@ -14,6 +14,5 @@ export const jamesTaylorThePriest = {
   ],
   title: "The Priest",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

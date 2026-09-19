@@ -14,7 +14,6 @@ export const jamesTaylorIveGrownAccustomedToHerFace = {
   ],
   title: "I’ve Grown Accustomed to Her Face",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

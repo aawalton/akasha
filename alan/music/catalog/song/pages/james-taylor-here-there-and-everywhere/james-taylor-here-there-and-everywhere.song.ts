@@ -14,6 +14,5 @@ export const jamesTaylorHereThereAndEverywhere = {
   ],
   title: "Here, There and Everywhere",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

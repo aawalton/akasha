@@ -14,7 +14,6 @@ export const jamesTaylorDevotedToYou = {
   ],
   title: "Devoted to You",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

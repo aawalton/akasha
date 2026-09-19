@@ -7,17 +7,17 @@ export const jamesTaylorOnlyADreamInRio = {
   externalIdentity: [
     {
       source: "musicbrainz",
-      externalId: "7dc1dc47-07a4-4800-bc9d-61c78fbb3b46",
-      externalLink: "https://musicbrainz.org/work/7dc1dc47-07a4-4800-bc9d-61c78fbb3b46",
+      externalId: "fa53f320-e61c-474c-81f0-556079a17111",
+      externalLink: "https://musicbrainz.org/work/fa53f320-e61c-474c-81f0-556079a17111",
       lastSyncedAt: "2026-09-19",
     },
   ],
   title: "Only a Dream in Rio",
   artist: "artist/james-taylor",
-  songType: "derivative",
+  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
-  written: "collab",
+  written: "solo",
   lyrics: "txt",
   syncedLyrics: "txt",
 } as const satisfies Song

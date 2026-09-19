@@ -14,7 +14,6 @@ export const jamesTaylorTakinItToTheStreets = {
   ],
   title: "Takin’ It to the Streets",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

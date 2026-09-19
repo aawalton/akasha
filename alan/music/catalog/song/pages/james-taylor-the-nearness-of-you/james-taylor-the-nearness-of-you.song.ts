@@ -14,7 +14,6 @@ export const jamesTaylorTheNearnessOfYou = {
   ],
   title: "The Nearness of You",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

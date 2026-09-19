@@ -14,7 +14,6 @@ export const jamesTaylorTheSurreyWithTheFringeOnTop = {
   ],
   title: "The Surrey With the Fringe on Top",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

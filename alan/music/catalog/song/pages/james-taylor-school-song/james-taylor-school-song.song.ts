@@ -14,7 +14,6 @@ export const jamesTaylorSchoolSong = {
   ],
   title: "School Song",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

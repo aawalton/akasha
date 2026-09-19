@@ -14,7 +14,6 @@ export const jamesTaylorNotFadeAway = {
   ],
   title: "Not Fade Away",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorBackOnTheStreetAgain = {
   ],
   title: "Back on the Street Again",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

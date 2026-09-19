@@ -14,7 +14,6 @@ export const jamesTaylorPutOnAHappyFace = {
   ],
   title: "Put On a Happy Face",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

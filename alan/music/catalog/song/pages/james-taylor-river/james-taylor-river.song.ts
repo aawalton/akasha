@@ -14,7 +14,6 @@ export const jamesTaylorRiver = {
   ],
   title: "River",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

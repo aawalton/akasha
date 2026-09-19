@@ -14,7 +14,6 @@ export const jamesTaylorUpOnTheRoof = {
   ],
   title: "Up on the Roof",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorWillYouLoveMeTomorrow = {
   ],
   title: "Will You Love Me Tomorrow",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorHowsTheWorldTreatingYou = {
   ],
   title: "How’s the World Treating You",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

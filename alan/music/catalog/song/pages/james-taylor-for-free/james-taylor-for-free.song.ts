@@ -14,7 +14,6 @@ export const jamesTaylorForFree = {
   ],
   title: "For Free",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

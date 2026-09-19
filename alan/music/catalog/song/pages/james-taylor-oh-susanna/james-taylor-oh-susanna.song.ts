@@ -14,7 +14,6 @@ export const jamesTaylorOhSusanna = {
   ],
   title: "Oh! Susanna",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

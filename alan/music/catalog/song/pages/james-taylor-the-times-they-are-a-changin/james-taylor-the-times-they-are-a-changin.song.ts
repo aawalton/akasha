@@ -14,6 +14,5 @@ export const jamesTaylorTheTimesTheyAreAChangin = {
   ],
   title: "The Times They Are A‐Changin’",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

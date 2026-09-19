@@ -14,6 +14,5 @@ export const jamesTaylorTwoOfUs = {
   ],
   title: "Two of Us",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

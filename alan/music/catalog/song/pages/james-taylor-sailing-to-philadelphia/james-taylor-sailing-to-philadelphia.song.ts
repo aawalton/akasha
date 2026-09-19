@@ -14,7 +14,6 @@ export const jamesTaylorSailingToPhiladelphia = {
   ],
   title: "Sailing to Philadelphia",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

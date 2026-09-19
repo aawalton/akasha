@@ -14,6 +14,5 @@ export const jamesTaylorItsInHisKiss = {
   ],
   title: "It’s in His Kiss",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

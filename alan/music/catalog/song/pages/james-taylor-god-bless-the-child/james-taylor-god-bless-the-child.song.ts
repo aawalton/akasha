@@ -14,7 +14,6 @@ export const jamesTaylorGodBlessTheChild = {
   ],
   title: "God Bless the Child",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorCircleRoundTheSun = {
   ],
   title: "Circle Round the Sun",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

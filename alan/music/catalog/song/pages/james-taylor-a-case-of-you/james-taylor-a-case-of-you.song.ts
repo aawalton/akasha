@@ -14,7 +14,6 @@ export const jamesTaylorACaseOfYou = {
   ],
   title: "A Case of You",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

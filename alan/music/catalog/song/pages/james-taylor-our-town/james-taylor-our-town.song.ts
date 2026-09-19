@@ -14,6 +14,8 @@ export const jamesTaylorOurTown = {
   ],
   title: "Our Town",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
 } as const satisfies Song

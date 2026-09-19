@@ -14,7 +14,6 @@ export const jamesTaylorItsOnlyAPaperMoon = {
   ],
   title: "It’s Only a Paper Moon",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

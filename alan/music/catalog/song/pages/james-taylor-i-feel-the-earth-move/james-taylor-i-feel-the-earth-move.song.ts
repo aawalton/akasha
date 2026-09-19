@@ -14,7 +14,6 @@ export const jamesTaylorIFeelTheEarthMove = {
   ],
   title: "I Feel the Earth Move",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

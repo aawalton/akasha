@@ -16,5 +16,8 @@ export const jamesTaylorTakingItIn = {
   artist: "artist/james-taylor",
   songType: "original",
   performed: true,
+  lyricsSource: "lrclib",
   written: "solo",
+  lyrics: "txt",
+  syncedLyrics: "txt",
 } as const satisfies Song

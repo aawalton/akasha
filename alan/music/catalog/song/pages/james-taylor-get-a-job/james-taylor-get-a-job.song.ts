@@ -14,7 +14,6 @@ export const jamesTaylorGetAJob = {
   ],
   title: "Get a Job",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

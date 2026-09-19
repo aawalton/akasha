@@ -14,7 +14,6 @@ export const jamesTaylorHoundDog = {
   ],
   title: "Hound Dog",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

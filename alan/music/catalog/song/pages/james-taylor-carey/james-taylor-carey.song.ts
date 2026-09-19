@@ -14,7 +14,6 @@ export const jamesTaylorCarey = {
   ],
   title: "Carey",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

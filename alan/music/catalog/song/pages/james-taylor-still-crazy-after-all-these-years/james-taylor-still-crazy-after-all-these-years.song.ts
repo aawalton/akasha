@@ -14,6 +14,5 @@ export const jamesTaylorStillCrazyAfterAllTheseYears = {
   ],
   title: "Still Crazy After All These Years",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

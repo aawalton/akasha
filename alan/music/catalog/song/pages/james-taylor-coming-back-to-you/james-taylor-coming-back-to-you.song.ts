@@ -14,7 +14,6 @@ export const jamesTaylorComingBackToYou = {
   ],
   title: "Coming Back to You",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

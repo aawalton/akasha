@@ -14,7 +14,6 @@ export const jamesTaylorMyHeartStoodStill = {
   ],
   title: "My Heart Stood Still",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

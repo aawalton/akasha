@@ -14,7 +14,6 @@ export const jamesTaylorItsTooLate = {
   ],
   title: "It’s Too Late",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

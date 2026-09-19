@@ -14,6 +14,5 @@ export const jamesTaylorItsGonnaWorkOutFine = {
   ],
   title: "It’s Gonna Work Out Fine",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const jamesTaylorYouveGotAFriend = {
   ],
   title: "You’ve Got a Friend",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

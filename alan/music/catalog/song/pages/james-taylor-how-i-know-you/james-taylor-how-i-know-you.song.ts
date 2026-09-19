@@ -14,7 +14,6 @@ export const jamesTaylorHowIKnowYou = {
   ],
   title: "How I Know You",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

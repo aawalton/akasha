@@ -14,7 +14,6 @@ export const jamesTaylorSitDownYoureRockingTheBoat = {
   ],
   title: "Sit Down, You’re Rocking the Boat",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

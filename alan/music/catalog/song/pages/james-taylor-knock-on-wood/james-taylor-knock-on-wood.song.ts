@@ -14,7 +14,6 @@ export const jamesTaylorKnockOnWood = {
   ],
   title: "Knock on Wood",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

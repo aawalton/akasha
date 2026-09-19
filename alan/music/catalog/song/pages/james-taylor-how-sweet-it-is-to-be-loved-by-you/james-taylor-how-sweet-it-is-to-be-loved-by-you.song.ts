@@ -14,7 +14,6 @@ export const jamesTaylorHowSweetItIsToBeLovedByYou = {
   ],
   title: "How Sweet It Is (to Be Loved by You)",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

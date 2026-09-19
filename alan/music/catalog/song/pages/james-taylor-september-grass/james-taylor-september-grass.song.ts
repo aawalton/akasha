@@ -14,7 +14,6 @@ export const jamesTaylorSeptemberGrass = {
   ],
   title: "September Grass",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

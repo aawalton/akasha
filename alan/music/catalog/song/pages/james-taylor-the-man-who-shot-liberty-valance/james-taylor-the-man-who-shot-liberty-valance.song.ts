@@ -14,7 +14,6 @@ export const jamesTaylorTheManWhoShotLibertyValance = {
   ],
   title: "The Man Who Shot Liberty Valance",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,7 +14,6 @@ export const jamesTaylorHoneyDontLeaveLA = {
   ],
   title: "Honey Don’t Leave L.A.",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

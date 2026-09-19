@@ -14,7 +14,6 @@ export const jamesTaylorCryingInTheRain = {
   ],
   title: "Crying in the Rain",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,6 +14,5 @@ export const jamesTaylorWhatTheWorldNeedsNowIsLove = {
   ],
   title: "What the World Needs Now Is Love",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

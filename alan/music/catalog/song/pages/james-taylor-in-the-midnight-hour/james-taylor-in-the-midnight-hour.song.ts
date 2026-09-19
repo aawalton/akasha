@@ -14,7 +14,6 @@ export const jamesTaylorInTheMidnightHour = {
   ],
   title: "In the Midnight Hour",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

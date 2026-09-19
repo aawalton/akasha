@@ -14,6 +14,5 @@ export const jamesTaylorStraightenUpAndFlyRight = {
   ],
   title: "Straighten Up and Fly Right",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

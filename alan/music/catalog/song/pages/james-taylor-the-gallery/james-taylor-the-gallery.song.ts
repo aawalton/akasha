@@ -14,7 +14,6 @@ export const jamesTaylorTheGallery = {
   ],
   title: "The Gallery",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

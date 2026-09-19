@@ -14,7 +14,6 @@ export const jamesTaylorSantaClausIsComingToTown = {
   ],
   title: "Santa Claus Is Coming to Town",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

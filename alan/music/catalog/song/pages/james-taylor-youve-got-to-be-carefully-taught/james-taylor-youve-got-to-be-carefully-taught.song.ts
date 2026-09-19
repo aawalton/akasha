@@ -14,7 +14,6 @@ export const jamesTaylorYouveGotToBeCarefullyTaught = {
   ],
   title: "You’ve Got to Be Carefully Taught",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

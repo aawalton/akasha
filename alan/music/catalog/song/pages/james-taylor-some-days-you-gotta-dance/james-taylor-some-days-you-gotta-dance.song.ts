@@ -14,7 +14,6 @@ export const jamesTaylorSomeDaysYouGottaDance = {
   ],
   title: "Some Days You Gotta Dance",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

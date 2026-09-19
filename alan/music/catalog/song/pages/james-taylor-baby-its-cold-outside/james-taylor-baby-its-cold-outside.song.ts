@@ -14,7 +14,6 @@ export const jamesTaylorBabyItsColdOutside = {
   ],
   title: "Baby, It’s Cold Outside",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

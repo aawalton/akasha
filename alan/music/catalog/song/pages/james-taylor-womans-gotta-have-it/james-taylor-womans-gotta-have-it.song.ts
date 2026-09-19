@@ -14,7 +14,6 @@ export const jamesTaylorWomansGottaHaveIt = {
   ],
   title: "Woman’s Gotta Have It",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

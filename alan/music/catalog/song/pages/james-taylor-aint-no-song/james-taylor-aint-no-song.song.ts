@@ -14,7 +14,6 @@ export const jamesTaylorAintNoSong = {
   ],
   title: "Ain’t No Song",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

@@ -14,6 +14,5 @@ export const jamesTaylorWithALittleHelpFromMyFriends = {
   ],
   title: "With a Little Help From My Friends",
   artist: "artist/james-taylor",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song
