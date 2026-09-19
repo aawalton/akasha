@@ -9,10 +9,14 @@ import {
   type Carried,
   worldRecording,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { command } from "akasha/command/command.page-type.ts"
+import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
+import { imessageContactList } from "akasha/command/pages/imessage/contact-list/imessage-contact-list.command.ts"
+import { imessage } from "akasha/command/pages/imessage/imessage.namespace.ts"
 
-const PAGE = "command/imessage-contact-list"
+const PAGE = `${command.slug}/${imessageContactList.slug}` as const
 
-const TO = "namespace/imessage"
+const TO = `${namespace.slug}/${imessage.slug}` as const
 
 const CHANGE_DOMAIN_PARENT =
   `${changeMechanicalFileContent.slug}/${changeDomainParentMechanical.slug}` as const

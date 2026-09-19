@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { command } from "akasha/command/command.page-type.ts"
 import { calling } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
@@ -14,10 +15,20 @@ import {
   partsOf,
   slugOfPart,
 } from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
+import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
+import { trackSessionOpen } from "akasha/command/pages/track/session/open/track-session-open.command.ts"
+import { trackSession } from "akasha/command/pages/track/session/track-session.namespace.ts"
+import { track } from "akasha/command/pages/track/track.namespace.ts"
 
 afterAll(sweep)
 
 const HELP = "--help"
+
+const TRACK_AT = `${namespace.slug}/${track.slug}` as const
+
+const TRACK_SESSION_AT = `${namespace.slug}/${trackSession.slug}` as const
+
+const TRACK_SESSION_OPEN_AT = `${command.slug}/${trackSessionOpen.slug}` as const
 
 test("the parts a page names are read off it, and anything else is not", () => {
   expect(partsOf({ parts: ["command/a", "namespace/b"] })).toEqual(["command/a", "namespace/b"])
@@ -28,7 +39,7 @@ test("the parts a page names are read off it, and anything else is not", () => {
 })
 
 test("the page type a part names is dropped", () => {
-  expect(slugOfPart("command/track-session-open")).toBe("track-session-open")
+  expect(slugOfPart(TRACK_SESSION_OPEN_AT)).toBe("track-session-open")
   expect(slugOfPart("track-session-open")).toBe("track-session-open")
 })
 
@@ -68,15 +79,15 @@ test("a namespace naming no command is answered with what sits under it", async 
   const root = rootWith(
     [{ slug: "track-session-open", name: "open", body: ANSWERS, definition: "open one" }],
     COMMAND,
-    ["namespace/track"]
+    [TRACK_AT]
   )
   namespacesIn(root, [
-    { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
+    { slug: "track", name: "track", definition: "a day", parts: [TRACK_SESSION_AT] },
     {
       slug: "track-session",
       name: "session",
       definition: "the stretches a day holds",
-      parts: ["command/track-session-open"],
+      parts: [TRACK_SESSION_OPEN_AT],
     },
   ])
   const said = await calling(["track", "session"], { ...OUTSIDE, root })
@@ -87,16 +98,14 @@ test("a namespace naming no command is answered with what sits under it", async 
 })
 
 test("a namespace under a namespace is listed as one word more", async () => {
-  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }], COMMAND, [
-    "namespace/track",
-  ])
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }], COMMAND, [TRACK_AT])
   namespacesIn(root, [
-    { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
+    { slug: "track", name: "track", definition: "a day", parts: [TRACK_SESSION_AT] },
     {
       slug: "track-session",
       name: "session",
       definition: "the stretches",
-      parts: ["command/track-session-open"],
+      parts: [TRACK_SESSION_OPEN_AT],
     },
   ])
   const said = await calling(["track"], { ...OUTSIDE, root })

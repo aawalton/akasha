@@ -3,6 +3,7 @@
 {"propertySlug":"argument","path":"command/pages/talos/image-build/talos-image-build.command.ts","id":"01a06810-1f0b-710a-93fa-714723dbf5f9"}
 {"propertySlug":"argument","path":"command/pages/talos/remote-install/talos-remote-install.command.ts","id":"01a06810-1f0b-741e-a044-c84fec558b56"}
 {"propertySlug":"import","fileName":"node.argument.ts","path":"command/argument/modules/naming/argument-naming.module.test.ts"}
+{"propertySlug":"import","fileName":"node.argument.ts","path":"command/modules/help-writing/help-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"node.argument.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
 {"propertySlug":"import","fileName":"node.argument.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}
 {"propertySlug":"import","fileName":"node.argument.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.test.ts"}

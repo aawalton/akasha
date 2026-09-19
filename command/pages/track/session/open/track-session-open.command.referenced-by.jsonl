@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"track-session-open.command.code.ts","path":"command/pages/track/session/open/track-session-open.command.test.ts"}
+{"propertySlug":"import","fileName":"track-session-open.command.ts","path":"command/modules/namespace-listing/namespace-listing.module.test.ts"}
+{"propertySlug":"import","fileName":"track-session-open.command.ts","path":"command/modules/walking/command-walking.module.test.ts"}
 {"propertySlug":"import","fileName":"track-session-open.command.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"track-session-open.command.ts","path":"command/pages/track/session/open/track-session-open.command.code.ts"}
 {"propertySlug":"import","fileName":"track-session-open.command.ts","path":"command/pages/track/session/open/track-session-open.command.test.ts"}

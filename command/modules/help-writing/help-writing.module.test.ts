@@ -1,4 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
+import { argument } from "akasha/command/argument/argument.page-type.ts"
+import { json as jsonArgument } from "akasha/command/argument/pages/json.argument.ts"
+import { node as nodeArgument } from "akasha/command/argument/pages/node.argument.ts"
 import { calling, HELP, HELP_SHORT } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
@@ -32,6 +35,10 @@ const JSON_LINE = {
   takes: "answer as JSON rather than as the lines a reader takes",
 }
 
+const JSON_AT = `${argument.slug}/${jsonArgument.slug}` as const
+
+const NODE_AT = `${argument.slug}/${nodeArgument.slug}` as const
+
 const SHOWN: Surface = {
   taking: [
     { said: "--file-path <path>", takes: "the page read" },
@@ -42,11 +49,11 @@ const SHOWN: Surface = {
 }
 
 test("an entry's name and how that command takes it are both read off the entry", () => {
-  expect(argumentsIn({ arguments: [{ argument: "argument/json", required: false }] })).toEqual([
-    { argument: "argument/json", saidAs: null },
+  expect(argumentsIn({ arguments: [{ argument: JSON_AT, required: false }] })).toEqual([
+    { argument: JSON_AT, saidAs: null },
   ])
-  expect(argumentsIn({ arguments: [{ argument: "argument/node", saidAs: "word" }] })).toEqual([
-    { argument: "argument/node", saidAs: "word" },
+  expect(argumentsIn({ arguments: [{ argument: NODE_AT, saidAs: "word" }] })).toEqual([
+    { argument: NODE_AT, saidAs: "word" },
   ])
   expect(argumentsIn({ arguments: [{ required: true }, "held", null, 1] })).toEqual([])
   expect(argumentsIn({ arguments: "held" })).toEqual([])
@@ -54,7 +61,7 @@ test("an entry's name and how that command takes it are both read off the entry"
 })
 
 test("a page naming the arguments it takes has a surface", () => {
-  expect(surfaceOf({ arguments: [{ argument: "argument/json" }] }, NONE, [JSON_LINE])).toEqual({
+  expect(surfaceOf({ arguments: [{ argument: JSON_AT }] }, NONE, [JSON_LINE])).toEqual({
     taking: [JSON_LINE],
     holds: [],
     notYet: [],
@@ -220,7 +227,7 @@ test("a command whose page states no definition is listed by name alone", async 
 })
 
 test("a command naming an argument is answered for from that argument's page", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS, arguments: ["argument/json"] }])
+  const root = rootWith([{ slug: "held", body: ANSWERS, arguments: [JSON_AT] }])
   argumentsFiled(root, [{ slug: "json", ...JSON_LINE }])
   const said = await calling(["held", HELP], { ...OUTSIDE, root })
   expect(said.code).toBe(0)

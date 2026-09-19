@@ -12,10 +12,14 @@ import {
   levelsIn,
   levelsOf,
 } from "akasha/command/modules/leveling/command-leveling.module.code.ts"
+import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
+import { track } from "akasha/command/pages/track/track.namespace.ts"
 
 afterAll(sweep)
 
 const TYPES = ["command", "namespace"]
+
+const TRACK_AT = `${namespace.slug}/${track.slug}` as const
 
 test("a part names the level its page type and its slug reach", () => {
   const root = rootWith([
@@ -42,11 +46,9 @@ test("the name a level states is the name that level is reached by", () => {
 })
 
 test("the parts a level states come with that level", () => {
-  const root = rootWith([{ slug: "track-open", body: ANSWERS, name: "open" }], COMMAND, [
-    "namespace/track",
-  ])
+  const root = rootWith([{ slug: "track-open", body: ANSWERS, name: "open" }], COMMAND, [TRACK_AT])
   namespacesIn(root, [{ slug: "track", name: "track", parts: ["command/track-open"] }])
-  const one = levelsOf(levelsIn(root, TYPES), "namespace/track")[0]
+  const one = levelsOf(levelsIn(root, TYPES), TRACK_AT)[0]
   expect(one?.parts).toEqual(["command/track-open"])
 })
 
