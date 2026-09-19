@@ -7,6 +7,7 @@ import {
   filing,
   founded,
   pathFor,
+  relating,
   typed,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
@@ -29,6 +30,7 @@ afterAll(scratch.sweep)
 function rooted(): string {
   const root = scratch.rootFor("akasha-parented-audit-")
   founded(root)
+  relating(root)
   typed(root, "page-type", "page")
   typed(root, "domain", "page")
   claiming(root, TYPE_AT, "id-domain")
