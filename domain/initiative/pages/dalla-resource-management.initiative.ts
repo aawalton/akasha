@@ -1,11 +1,11 @@
 import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
 
-export const aineResourceManagement = {
+export const dallaResourceManagement = {
   id: "01a09140-cf1e-779f-aeea-831ac4709019",
   type: "page-type/initiative",
-  slug: "aine-resource-management",
+  slug: "dalla-resource-management",
   domain: "domain/memory",
-  persona: "persona/aine",
+  persona: "persona/dalla",
   intentStack: [
     {
       statement: "An audit reads the one commit it opened at, from its first file to its last.",
