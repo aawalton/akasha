@@ -27,7 +27,7 @@ const ONE_CHARACTER = savedVariables(
             ["name"] = "Ayrenn",
             ["recipes"] = { ["food"] = { [1] = 41, [2] = 42 }, ["drink"] = { ["a"] = 43 } },
             ["motifKnowledge"] = { ["7"] = { [1] = 1, [2] = 2 } },
-            ["scribing"] = { ["scripts"] = { ["5"] = { ["unlocked"] = true }, ["6"] = { ["unlocked"] = false } } },
+            ["scribing"] = { ["scripts"] = { ["45"] = { ["unlocked"] = true, ["name"] = "Interrupt" }, ["44"] = { ["unlocked"] = false, ["name"] = "Off Balance" } } },
             ["curseState"] = "vampire",
             ["skillLineProgress"] = { [111] = { ["currentRank"] = 7 }, [117] = { } },
             ["traitResearch"] = { [1] = { ["name"] = "Blacksmithing", ["lines"] = { [1] = { ["name"] = "Axe", ["traits"] = { [1] = { ["name"] = "Powered", ["known"] = true }, [2] = { ["name"] = "Sharpened", ["known"] = false } } }, [2] = { ["name"] = "Mace", ["traits"] = { [1] = { ["name"] = "Powered", ["known"] = false } } } } } },
@@ -56,7 +56,12 @@ test("a motif style carries the chapters said under it", () => {
 
 test("a scribing script counts as known only where it says it is unlocked", () => {
   const held = parseTemperCharacters(ONE_CHARACTER)
-  expect([...(held[0]?.unlockedScriptIds ?? [])]).toEqual([5])
+  expect([...(held[0]?.unlockedScriptIds ?? [])]).toEqual([204593])
+})
+
+test("a scribing script is named by the item id of the book teaching it", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.unlockedScriptIds.has(45)).toBe(false)
 })
 
 test("a skill line held with no current rank reads as being at rank zero", () => {

@@ -1,6 +1,7 @@
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
+import { getScriptItemIdByName } from "akasha/temper/items-core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
@@ -35,7 +36,9 @@ const RECIPES_SCHEMA = z.record(z.string(), NUMBER_LIST_OR_RECORD_SCHEMA).option
 const LORE_CATEGORY_SCHEMA = z.record(z.string(), NUMBER_LIST_OR_RECORD_SCHEMA)
 const LORE_LIBRARY_SCHEMA = z.record(z.string(), LORE_CATEGORY_SCHEMA).optional()
 
-const SCRIBING_SCRIPT_ENTRY_SCHEMA = z.object({ unlocked: z.boolean().optional() }).passthrough()
+const SCRIBING_SCRIPT_ENTRY_SCHEMA = z
+  .object({ unlocked: z.boolean().optional(), name: z.string().optional() })
+  .passthrough()
 
 const SCRIBING_SCHEMA = z
   .object({
@@ -185,10 +188,12 @@ function collectUnlockedScriptIds(scribing: z.infer<typeof SCRIBING_SCHEMA>): Re
   const ids = new Set<number>()
   const scripts = scribing?.scripts
   if (!scripts) return ids
-  for (const [scriptKey, entry] of Object.entries(scripts)) {
+  for (const entry of Object.values(scripts)) {
     if (entry.unlocked !== true) continue
-    const scriptId = Number(scriptKey)
-    if (Number.isInteger(scriptId)) ids.add(scriptId)
+    const name = entry.name
+    if (name === undefined || name === "") continue
+    const itemId = getScriptItemIdByName(name)
+    if (itemId !== undefined) ids.add(itemId)
   }
   return ids
 }

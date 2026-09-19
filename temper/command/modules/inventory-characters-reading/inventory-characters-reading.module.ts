@@ -60,5 +60,10 @@ export const inventoryCharactersReading = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here talks to the game.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A scribing script is named by the item id of the book teaching it, found by its name.",
+    },
   ],
 } as const satisfies Module
