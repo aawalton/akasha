@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { cases } from "akasha/agent/model/test/properties/cases.page-property-entry.ts"
 import {
   B,
   C,
@@ -23,6 +24,7 @@ import {
 import { readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { pagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -255,7 +257,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
     pageTypeSlug: "page-type",
     slug: "cased",
     properties: [
-      { pagePropertySlug: "page-property-entry/cases" },
+      { pagePropertySlug: `${pagePropertyEntry.slug}/${cases.slug}` },
       { pagePropertySlug: "page-property-entry/logs" },
     ],
   })

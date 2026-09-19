@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { routeTable } from "akasha/code/router-app/properties/route-table.code-file-property.ts"
+import { codeFileProperty } from "akasha/page/code-file-property/code-file-property.page-type.ts"
 import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   idsNaming,
@@ -31,7 +33,7 @@ const TYPED = `export const routerApp = ${JSON.stringify({
   id: APP_TYPE_ID,
   pageTypeSlug: "page-type",
   slug: "router-app",
-  properties: [{ pageProperty: "code-file-property/route-table" }],
+  properties: [{ pageProperty: `${codeFileProperty.slug}/${routeTable.slug}` }],
 })}\n`
 
 const SHAPED = `${JSON.stringify({

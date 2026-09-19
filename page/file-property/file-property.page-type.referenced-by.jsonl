@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"file-property.page-type.ts","path":"change/modules/edits-dropping/edits-dropping.module.test.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.ts","path":"page/index/modules/file-appending/file-appending.module.test.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.ts","path":"page/index/modules/property-carrying/property-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/hook/agent-hook/inference-hook/properties/stop-gates.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/hook/agent-hook/properties/clearings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/messaging/notice/properties/notice-text.file-property.ts"}

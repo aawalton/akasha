@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
+import { parts } from "akasha/domain/properties/parts.relation-property.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   shapeOf,
@@ -8,6 +9,7 @@ import {
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { shapeAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -67,7 +69,7 @@ test("a property saying it is sorted carries that, and one saying nothing carrie
   ])
   const held = shapesAt(root)
 
-  expect(held.get("relation-property/parts")?.sorted).toBe(true)
+  expect(held.get(`${relationProperty.slug}/${parts.slug}`)?.sorted).toBe(true)
   expect(held.get("relation-property/intents")?.sorted).toBe(false)
 })
 

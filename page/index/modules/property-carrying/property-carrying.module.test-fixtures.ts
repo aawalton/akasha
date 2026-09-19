@@ -1,3 +1,5 @@
+import { lockfile } from "akasha/code/workspace/properties/lockfile.file-property.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import type {
   Carried,
   Facing,
@@ -63,7 +65,7 @@ export function saidNever(): boolean {
 
 export function carryingAt(at: string): (named: string) => Carried {
   return (named) =>
-    named === "file-property/lockfile"
+    named === `${fileProperty.slug}/${lockfile.slug}`
       ? { carrying: [{ pageTypeSlug: "workspace", path: at, id: ONE, within: null }] }
       : { refused: "no page property carries that slug" }
 }

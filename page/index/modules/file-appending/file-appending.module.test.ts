@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import {
   appendingFor,
   appendOnlyIn,
@@ -9,6 +10,7 @@ import type {
   Facing,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { entries } from "akasha/page/properties/entries.file-property.ts"
 
 const ONE = "01a058c0-0000-7000-8000-000000000001"
 
@@ -34,7 +36,7 @@ const NAMES: Value = {
 }
 
 function carryingAt(named: string): Carried {
-  return named === "file-property/entries"
+  return named === `${fileProperty.slug}/${entries.slug}`
     ? { carrying: [{ pageTypeSlug: "thing", path: BESIDE, id: ONE, within: null }] }
     : { refused: "no page property carries that slug" }
 }

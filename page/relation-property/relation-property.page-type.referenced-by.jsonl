@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/messaging/message/properties/message-to.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/account/properties/provider.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/test/properties/model-family.relation-property.ts"}
