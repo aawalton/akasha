@@ -54,6 +54,8 @@
 {"propertySlug":"world","path":"story/world-character/pages/bird.world-character.ts","id":"01a06580-2494-7871-b674-a99406200efd"}
 {"propertySlug":"world","path":"story/world-character/pages/briganda.world-character.ts","id":"01a06580-2494-7c23-8934-771d62c0cda5"}
 {"propertySlug":"world","path":"story/world-character/pages/calidus-reinhart.world-character.ts","id":"01a06580-2494-7354-a37f-26d42e9b625f"}
+{"propertySlug":"world","path":"story/world-character/pages/cave-crab/cave-crab.world-character.ts","id":"01a0b705-e6fb-74f4-b562-2d8b0b4a3dd1"}
+{"propertySlug":"world","path":"story/world-character/pages/cave-dragon/cave-dragon.world-character.ts","id":"01a0b705-e74f-7278-9eb8-4bc030975313"}
 {"propertySlug":"world","path":"story/world-character/pages/ceria-springwalker.world-character.ts","id":"01a06580-2494-7ec7-be55-4ecdfa65a541"}
 {"propertySlug":"world","path":"story/world-character/pages/cirille-bitterclaw.world-character.ts","id":"01a06580-2494-7782-8e50-3e35901ab5c4"}
 {"propertySlug":"world","path":"story/world-character/pages/crusader-51.world-character.ts","id":"01a06580-2494-7719-88fa-8218c6f4c1f7"}
@@ -66,6 +68,7 @@
 {"propertySlug":"world","path":"story/world-character/pages/eldavin.world-character.ts","id":"01a06580-2494-7ddb-abe9-0b88773932df"}
 {"propertySlug":"world","path":"story/world-character/pages/elia-arcsinger.world-character.ts","id":"01a06580-2494-7f7a-a218-4ade25153bf0"}
 {"propertySlug":"world","path":"story/world-character/pages/embria.world-character.ts","id":"01a06580-2494-74e8-8287-c3a1fe9ed588"}
+{"propertySlug":"world","path":"story/world-character/pages/erin-solstice/erin-solstice.world-character.ts","id":"01a0b705-e78c-77bf-8ab2-eb428dbcf7d6"}
 {"propertySlug":"world","path":"story/world-character/pages/erin.world-character.ts","id":"01a06580-2494-765b-b42d-40f9c2d72f04"}
 {"propertySlug":"world","path":"story/world-character/pages/exemplar-warrior-unnamed.world-character.ts","id":"01a06580-2494-7dd3-b3cb-9cefe751790b"}
 {"propertySlug":"world","path":"story/world-character/pages/felkhr.world-character.ts","id":"01a06580-2494-725e-93f2-899417d56fb9"}
@@ -76,6 +79,7 @@
 {"propertySlug":"world","path":"story/world-character/pages/garry.world-character.ts","id":"01a06580-2494-7e3f-986c-3f39b2b99338"}
 {"propertySlug":"world","path":"story/world-character/pages/geneva-scala.world-character.ts","id":"01a06580-2494-7a9c-860b-30b005a50252"}
 {"propertySlug":"world","path":"story/world-character/pages/geneva.world-character.ts","id":"01a06580-2494-7d5e-8f29-212ba43389ec"}
+{"propertySlug":"world","path":"story/world-character/pages/goblin-pack/goblin-pack.world-character.ts","id":"01a0b705-e7bd-7d7e-a89e-a3307f93feb6"}
 {"propertySlug":"world","path":"story/world-character/pages/goblin-slayer.world-character.ts","id":"01a06580-2494-7311-bead-bbef89c556f9"}
 {"propertySlug":"world","path":"story/world-character/pages/gothica.world-character.ts","id":"01a06580-2494-7690-a8b5-0c37549f50ed"}
 {"propertySlug":"world","path":"story/world-character/pages/halrac-everam.world-character.ts","id":"01a06580-2494-7180-8da2-6f5bc8763993"}
