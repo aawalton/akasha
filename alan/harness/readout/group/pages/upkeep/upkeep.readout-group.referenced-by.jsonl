@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"upkeep.readout-group.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.test.ts"}
 {"propertySlug":"import","fileName":"upkeep.readout-group.ts","path":"alan/web/routes/cost/cost.route.test.ts"}
 {"propertySlug":"import","fileName":"upkeep.readout-group.ts","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.test.ts"}
+{"propertySlug":"import","fileName":"upkeep.readout-group.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.test.ts"}
 {"propertySlug":"parts","path":"alan/harness/readout/group/readout-group.page-type.ts","id":"01a05446-e75e-7657-acda-566edc2b182e"}

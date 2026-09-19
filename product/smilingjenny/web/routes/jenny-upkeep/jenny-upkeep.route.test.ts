@@ -1,4 +1,9 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { cost as costGroup } from "akasha/alan/harness/readout/group/pages/cost/cost.readout-group.ts"
+import { safety as safetyGroup } from "akasha/alan/harness/readout/group/pages/safety/safety.readout-group.ts"
+import { surplus as surplusGroup } from "akasha/alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"
+import { upkeep as upkeepGroup } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
+import { readoutGroup } from "akasha/alan/harness/readout/group/readout-group.page-type.ts"
 import {
   colorIn,
   readingsDropped,
@@ -13,13 +18,18 @@ import {
   type Relaying,
   relayingTo,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
+import { capacityHours } from "akasha/alan/harness/readout/scale/pages/capacity-hours.readout-scale.ts"
+import { safetyLevel } from "akasha/alan/harness/readout/scale/pages/safety-level.readout-scale.ts"
+import { sleepHours } from "akasha/alan/harness/readout/scale/pages/sleep-hours.readout-scale.ts"
+import { surplusHours } from "akasha/alan/harness/readout/scale/pages/surplus-hours.readout-scale.ts"
+import { readoutScale } from "akasha/alan/harness/readout/scale/readout-scale.page-type.ts"
 import { action } from "akasha/product/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
-const GROUP = "upkeep"
-const GROUP_AT = `readout-group/${GROUP}`
+const GROUP = upkeepGroup.slug
+const GROUP_AT = `${readoutGroup.slug}/${GROUP}`
 const PATH = "/api/upkeep"
 
 process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
@@ -36,25 +46,25 @@ const SAFETY_ROW = {
   slug: SAFETY,
   label: "Safety",
   place: 1,
-  scale: "readout-scale/safety-level",
+  scale: `${readoutScale.slug}/${safetyLevel.slug}`,
   wireKey: "safety",
-  groups: [GROUP_AT, "readout-group/safety"],
+  groups: [GROUP_AT, `${readoutGroup.slug}/${safetyGroup.slug}`],
 }
 
 const SURPLUS_ROW = {
   slug: SURPLUS,
   label: "Surplus",
   place: 2,
-  scale: "readout-scale/surplus-hours",
+  scale: `${readoutScale.slug}/${surplusHours.slug}`,
   wireKey: "surplus",
-  groups: [GROUP_AT, "readout-group/surplus"],
+  groups: [GROUP_AT, `${readoutGroup.slug}/${surplusGroup.slug}`],
 }
 
 const CAPACITY_ROW = {
   slug: CAPACITY,
   label: "Capacity",
   place: 3,
-  scale: "readout-scale/capacity-hours",
+  scale: `${readoutScale.slug}/${capacityHours.slug}`,
   wireKey: "capacity",
   groups: [GROUP_AT],
 }
@@ -63,7 +73,7 @@ const SLEEP_ROW = {
   slug: SLEEP,
   label: "Sleep",
   place: 6,
-  scale: "readout-scale/sleep-hours",
+  scale: `${readoutScale.slug}/${sleepHours.slug}`,
   wireKey: "sleep",
   groups: [GROUP_AT],
 }
@@ -196,7 +206,7 @@ test("a readout joining the group reaches the tile without this route changing",
       slug: "upkeep-plants",
       label: "Plants",
       place: 4,
-      scale: "readout-scale/safety-level",
+      scale: `${readoutScale.slug}/${safetyLevel.slug}`,
       wireKey: "plants",
       groups: [GROUP_AT],
     },
@@ -214,9 +224,9 @@ test("a readout the group does not name is left off the tile", async () => {
       slug: "cost-multiplier",
       label: "Cost",
       place: 1,
-      scale: "readout-scale/safety-level",
+      scale: `${readoutScale.slug}/${safetyLevel.slug}`,
       wireKey: "cost",
-      groups: ["readout-group/cost"],
+      groups: [`${readoutGroup.slug}/${costGroup.slug}`],
     },
   ]
   expect((await drawn()).map((one) => one.habit)).not.toContain("cost")
