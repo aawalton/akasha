@@ -110,7 +110,7 @@ function encodeValue(this: void, value: any): string | undefined {
   return undefined
 }
 
-function __TS__JSONStringify(this: void, value: any): string {
+function jsonStringify(this: void, value: any): string {
   const enc = encodeValue(value)
   return enc ?? "null"
 }
@@ -330,7 +330,7 @@ function parseArray(this: void, state: ParseState): unknown[] {
   }
 }
 
-function __TS__JSONParse(this: void, text: string): unknown {
+function jsonParse(this: void, text: string): unknown {
   const state: ParseState = { src: text, pos: 1 }
   const result = parseValue(state)
   skipWs(state)
@@ -339,6 +339,6 @@ function __TS__JSONParse(this: void, text: string): unknown {
 }
 
 export const JSON = {
-  parse: __TS__JSONParse,
-  stringify: __TS__JSONStringify,
+  parse: jsonParse,
+  stringify: jsonStringify,
 }

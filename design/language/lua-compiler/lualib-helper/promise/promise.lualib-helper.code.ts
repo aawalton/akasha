@@ -28,7 +28,7 @@ function isPromiseLike<T>(this: void, value: unknown): value is PromiseLike<T> {
   return value instanceof __TS__Promise
 }
 
-function as__TS__Promise<T>(this: void, value: PromiseLike<T>): __TS__Promise<T> {
+function asLuaPromise<T>(this: void, value: PromiseLike<T>): __TS__Promise<T> {
   return value as __TS__Promise<T>
 }
 
@@ -128,7 +128,7 @@ export class __TS__Promise<T> implements Promise<T> {
 
   private resolve(value: T | PromiseLike<T>): undefined {
     if (isPromiseLike<T>(value)) {
-      return as__TS__Promise(value).addCallbacks(
+      return asLuaPromise(value).addCallbacks(
         (v) => this.resolve(v),
         (err) => this.reject(err)
       )
@@ -196,7 +196,7 @@ export class __TS__Promise<T> implements Promise<T> {
     reject: (reason: any) => void
   ): undefined {
     if (isPromiseLike<TResult>(value)) {
-      const nextpromise = as__TS__Promise(value)
+      const nextpromise = asLuaPromise(value)
       if (nextpromise.state.tag === "fulfilled") {
         return resolve(nextpromise.state.value)
       } else if (nextpromise.state.tag === "rejected") {
