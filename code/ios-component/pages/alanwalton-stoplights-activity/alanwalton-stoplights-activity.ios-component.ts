@@ -36,6 +36,14 @@ export const alanwaltonStoplightsActivity = {
       statement: "Nothing here asks the server for a reading.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here tints the activity's background.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The lock screen draws its own material behind the rings.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "What the lock screen shows is what was last handed to the activity.",
     },

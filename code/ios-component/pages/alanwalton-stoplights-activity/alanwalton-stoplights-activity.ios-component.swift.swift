@@ -135,7 +135,7 @@ struct StoplightsActivity: Widget {
     var body: some WidgetConfiguration {
         ActivityConfiguration(for: StoplightsAttributes.self) { context in
             StoplightsActivityView(state: context.state)
-                .activityBackgroundTint(Color(.systemBackground))
+                .activityBackgroundTint(nil)
                 .activitySystemActionForegroundColor(.primary)
         } dynamicIsland: { context in
             DynamicIsland {
