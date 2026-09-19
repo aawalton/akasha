@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts"}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts"}
+{"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.test.ts"}
+{"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test.ts"}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/progress/temper-item-action/pages/character-equip.temper-item-action.ts"}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/progress/temper-item-action/pages/companion-equip.temper-item-action.ts"}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.types.ts","path":"temper/progress/temper-item-action/pages/deconstruct.temper-item-action.ts"}

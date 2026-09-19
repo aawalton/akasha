@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { archivalFortunes } from "akasha/temper/holdings/temper-inventory-currency/pages/archival-fortunes.temper-inventory-currency.ts"
+import { gold } from "akasha/temper/holdings/temper-inventory-currency/pages/gold.temper-inventory-currency.ts"
+import { telVarStones } from "akasha/temper/holdings/temper-inventory-currency/pages/tel-var-stones.temper-inventory-currency.ts"
+import { transmuteCrystals } from "akasha/temper/holdings/temper-inventory-currency/pages/transmute-crystals.temper-inventory-currency.ts"
+import { temperInventoryCurrency } from "akasha/temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   bagSizeRowsOf,
@@ -347,27 +352,32 @@ test("each purse becomes a row naming the currency's own page", () => {
     {
       id: "p1",
       scope: "account",
-      currencyKey: "temper-inventory-currency/archival-fortunes",
+      currencyKey: `${temperInventoryCurrency.slug}/${archivalFortunes.slug}`,
       amount: 322940,
     },
     {
       id: "p2",
       scope: "account",
-      currencyKey: "temper-inventory-currency/transmute-crystals",
+      currencyKey: `${temperInventoryCurrency.slug}/${transmuteCrystals.slug}`,
       amount: 1889,
     },
-    { id: "p3", scope: "bank", currencyKey: "temper-inventory-currency/gold", amount: 23138989 },
+    {
+      id: "p3",
+      scope: "bank",
+      currencyKey: `${temperInventoryCurrency.slug}/${gold.slug}`,
+      amount: 23138989,
+    },
     {
       id: "p4",
       scope: "bank",
-      currencyKey: "temper-inventory-currency/tel-var-stones",
+      currencyKey: `${temperInventoryCurrency.slug}/${telVarStones.slug}`,
       amount: 425674,
     },
     {
       id: "p5",
       scope: "character",
       esoCharacterId: "8796093022338107",
-      currencyKey: "temper-inventory-currency/gold",
+      currencyKey: `${temperInventoryCurrency.slug}/${gold.slug}`,
       amount: 1876306,
       lastScannedAt: new Date(PURSE_SCANNED * MS).toISOString(),
     },

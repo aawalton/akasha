@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import type { HeldRule } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { stock } from "akasha/temper/progress/temper-item-action/pages/stock.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
 import {
   type ExportSettingsSeams,
   runExportSettings,
@@ -254,7 +256,7 @@ const A_RULE: HeldRule = {
     slug: "rule-gold-stock",
     categoryId: "currency-gold",
     displayOrder: 0,
-    action: "temper-item-action/stock",
+    action: `${temperItemAction.slug}/${stock.slug}`,
     active: true,
     updatedAt: "2026-05-04T16:04:31.132Z",
   },

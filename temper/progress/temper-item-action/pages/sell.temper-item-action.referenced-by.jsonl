@@ -27,3 +27,4 @@
 {"propertySlug":"action","path":"temper/progress/temper-rule-template/pages/treasures-sell/treasures-sell.temper-rule-template.ts","id":"019e3104-2627-7b26-8ce5-f198e4be0e34"}
 {"propertySlug":"import","fileName":"sell.temper-item-action.ts","path":"temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts"}
 {"propertySlug":"import","fileName":"sell.temper-item-action.ts","path":"temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts"}
+{"propertySlug":"import","fileName":"sell.temper-item-action.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.test.ts"}

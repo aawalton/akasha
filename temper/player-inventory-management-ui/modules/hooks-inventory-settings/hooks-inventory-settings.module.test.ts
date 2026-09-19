@@ -11,12 +11,14 @@ import {
   useManagedGuildBanks,
   useSettingsBlob,
 } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { sell } from "akasha/temper/progress/temper-item-action/pages/sell.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
 
 const A_ROW = {
   slug: "rule-one",
   categoryId: "scripts",
   displayOrder: 3,
-  action: "temper-item-action/sell",
+  action: `${temperItemAction.slug}/${sell.slug}`,
   active: true,
   updatedAt: "1970-01-01T00:00:00.000Z",
 }
