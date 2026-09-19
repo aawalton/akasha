@@ -30,6 +30,8 @@ import {
   textAt,
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import { loadedExport } from "akasha/page/type/properties/loaded-export.text-property.ts"
 
 export type Body = {
   readonly root: string
@@ -90,44 +92,23 @@ export function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
   return made
 }
 
-const CHANGE = "change"
-
-const PAGE_TYPE = "page-type"
-
 const SLUG = "slug"
 
-const EXTENDS = "extends"
+const LOADED_EXPORT_BY = `${textProperty.slug}/${loadedExport.slug}` as const
 
-const PARTED_BY = "/"
+const LOADED_EXPORT = "loadedExport"
 
-function slugOf(address: string): string {
-  const cut = address.indexOf(PARTED_BY)
-  return cut < 0 ? address : address.slice(cut + 1)
-}
-
-function reachesChange(
-  slug: string,
-  above: ReadonlyMap<string, readonly string[]>,
-  seen: Set<string>
-): boolean {
-  if (slug === CHANGE) return true
-  if (seen.has(slug)) return false
-  seen.add(slug)
-  return (above.get(slug) ?? []).some((one) => reachesChange(one, above, seen))
-}
-
-export function changesSparing(index: Answering): ReadonlySet<string> {
-  const above = new Map<string, readonly string[]>()
-  for (const listed of index.everyOfType(PAGE_TYPE)) {
-    const value = index.pageByPath(listed.path)
+export function loadedExportsSparing(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, ReadonlySet<string>>()
+  const held = index.carryingOf(LOADED_EXPORT_BY)
+  if ("refused" in held) return found
+  for (const one of held.carrying) {
+    const value = index.pageByPath(one.path)
     if (value === null) continue
+    const named = textsAt(value, LOADED_EXPORT)
     const slug = textAt(value, SLUG)
-    if (slug === null) continue
-    above.set(slug, (textsAt(value, EXTENDS) ?? []).map(slugOf))
-  }
-  const found = new Set<string>()
-  for (const slug of above.keys()) {
-    if (slug !== CHANGE && reachesChange(slug, above, new Set())) found.add(slug)
+    if (named === null || slug === null) continue
+    found.set(slug, new Set(named))
   }
   return found
 }

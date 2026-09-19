@@ -19,11 +19,8 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which page types are changes is read from what each page type extends.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page type extending a change through another page type is a change too.",
+      statement:
+        "The names spared in the code beside a page are read off the page type stating them.",
     },
     {
       decisionKind: "decision-kind/departure",

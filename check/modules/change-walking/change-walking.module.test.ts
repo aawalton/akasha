@@ -6,6 +6,7 @@ import {
   FILES,
   input,
   judgingEach,
+  loadedExportsSparing,
   onDisk,
   overEachFile,
   overEachText,
@@ -20,11 +21,13 @@ import {
   textWas,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
+  AGENT,
   BUILT_AT,
   CODE_AT,
   counting,
   GONE_AT,
   KEPT_AT,
+  loadedWorld,
   MODULE,
   mixedWorld,
   PAGE_AT,
@@ -45,6 +48,16 @@ import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 const GONE_ID = "01a04bc4-0000-7000-8000-00000000000b"
 
 afterAll(scratch.sweep)
+
+test("the names spared beside a page are the ones that page's type states its loader reads", () => {
+  expect(loadedExportsSparing(loadedWorld(["runChange", "takes"]))).toEqual(
+    new Map([[AGENT, new Set(["runChange", "takes"])]])
+  )
+})
+
+test("a page type stating no loaded export spares no name at all beside its pages", () => {
+  expect(loadedExportsSparing(loadedWorld(null))).toEqual(new Map())
+})
 
 test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
   const root = scratch.rootFor("akasha-each-file-")

@@ -3,12 +3,23 @@ import { dirname, join } from "node:path"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import {
+  type Answering,
+  answeringOver,
+} from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  relationFiled,
+  shapeAdded,
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import {
+  idFiled,
+  listedFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
 
@@ -35,7 +46,48 @@ export const PAGE_TYPE = "page-type"
 
 export const MODULE = "module"
 
+export const AGENT = "change-agent"
+
+const TEXT_PROPERTY = "text-property"
+
+const PAGE_PROPERTY = "page-property"
+
+const LOADED_EXPORT_SLUG = "loaded-export"
+
+const LOADED_EXPORT_KEY = "loadedExport"
+
+const TYPE_PAGE_AT = "akasha/page-type.page-type.ts"
+
+const PROPERTY_PAGE_AT = "akasha/loaded-export.text-property.ts"
+
+const AGENT_PAGE_AT = "akasha/change-agent.page-type.ts"
+
 export const scratch = scratchWorld()
+
+export function loadedWorld(loaded: readonly string[] | null): Answering {
+  const root = scratch.rootFor("akasha-loaded-export-")
+  const values = new Map<string, Value>()
+  const filed = (kind: string, slug: string, path: string, value: Value): string => {
+    const id = `id-${slug}`
+    listedFiled(root, kind, slug, [{ path, id }])
+    idFiled(root, id, [{ path, id }])
+    values.set(path, { id, ...value })
+    return id
+  }
+  shapeAdded(root, TEXT_PROPERTY, LOADED_EXPORT_SLUG, [
+    { pageTypeSlug: TEXT_PROPERTY, slug: LOADED_EXPORT_SLUG, propertySlug: LOADED_EXPORT_SLUG },
+  ])
+  const type = filed(PAGE_TYPE, PAGE_TYPE, TYPE_PAGE_AT, { slug: PAGE_TYPE })
+  const property = filed(TEXT_PROPERTY, LOADED_EXPORT_SLUG, PROPERTY_PAGE_AT, {
+    slug: LOADED_EXPORT_SLUG,
+  })
+  relationFiled(root, property, PAGE_PROPERTY, type, [{ path: TYPE_PAGE_AT, id: type }])
+  filed(PAGE_TYPE, AGENT, AGENT_PAGE_AT, {
+    slug: AGENT,
+    ...(loaded === null ? {} : { [LOADED_EXPORT_KEY]: loaded }),
+  })
+  return answeringOver(readingIn(root), (path) => values.get(path) ?? null)
+}
 
 function bodyAt(root: string, path: string, body: string): undefined {
   const at = join(root, path)

@@ -20,7 +20,7 @@ import {
   sparedIn,
   unreachedIn,
 } from "akasha/check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"
-import { changesSparing } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { loadedExportsSparing } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 
 const DROP = `${changeMechanicalFileContent.slug}/${removeExportKeyword.slug}` as const
@@ -37,7 +37,7 @@ function surplusIn(
   groups: ReadonlyMap<string, string>,
   loaders: ReadonlySet<string>,
   reached: ReadonlyMap<string, ReadonlySet<string>>,
-  changes: ReadonlySet<string>,
+  loadedExports: ReadonlyMap<string, ReadonlySet<string>>,
   path: string
 ): readonly string[] {
   const text = world.textOf(path)
@@ -45,7 +45,7 @@ function surplusIn(
   const found = unreachedIn(
     path,
     text,
-    sparedIn(path, pageTypes, groups, loaders, reached, changes, world.textOf),
+    sparedIn(path, pageTypes, groups, loaders, reached, loadedExports, world.textOf),
     world.index.importersOf(path),
     world.textOf
   )
@@ -62,12 +62,12 @@ export async function removeUnusedExportKeywords(
   const groups = groupsSparing(world.index)
   const loaders = loadersSparing(world.index)
   const reached = reachedByPathSparing(world.index)
-  const changes = changesSparing(world.index)
+  const loadedExports = loadedExportsSparing(world.index)
   const answers: Answer[] = []
   for (const path of pathsNaming(world, [KEYWORD], TYPED_KINDS)) {
     if (answers.length >= most) break
     if (!typed(path) || but.has(path)) continue
-    const names = surplusIn(world, pageTypes, groups, loaders, reached, changes, path)
+    const names = surplusIn(world, pageTypes, groups, loaders, reached, loadedExports, path)
     if (names.length === 0) continue
     answers.push((await reach(world, DROP, { at: path, names })).said)
   }

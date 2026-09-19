@@ -35,6 +35,7 @@ function worldOver(
   const root = scratch.rootFor("remove-unused-export-keywords-")
   for (const [at, body] of Object.entries(held)) put(root, at, body)
   const index = {
+    carryingOf: () => ({ refused: "no page property carries that slug here" }),
     everyOfType: () => [],
     everyPath: () => Object.keys(held),
     importersOf: () => importers,
