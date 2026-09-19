@@ -37,12 +37,11 @@ export const alanwaltonStoplightsActivity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The activity's background is tinted clear rather than left to the system material.",
+      statement: "The activity's background is the page's own color at half strength.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What sits behind the rings is whatever the lock screen already draws there.",
+      statement: "The lock screen shows through the rings rather than being covered by them.",
     },
     {
       decisionKind: "decision-kind/departure",
