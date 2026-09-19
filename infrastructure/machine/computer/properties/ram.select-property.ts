@@ -6,6 +6,6 @@ export const ram = {
   slug: "ram",
   propertySlug: "ram",
   definition: "how much memory it carries",
-  values: ["64gb", "16gb", "32gb", "12gb"],
+  values: ["64gb", "16gb", "32gb", "12gb", "128gb"],
   types: "ts",
 } as const satisfies SelectProperty
