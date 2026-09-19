@@ -26,9 +26,6 @@ export const aelwynStrengthTraining = {
       statement: "The most valuable movement available is always the one offered next.",
     },
     {
-      statement: "A dropped movement is offered again once its pattern has progressed elsewhere.",
-    },
-    {
       statement: "A movement Alan's kit cannot load further is made harder some other way.",
     },
     {
