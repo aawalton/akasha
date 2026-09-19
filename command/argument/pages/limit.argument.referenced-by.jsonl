@@ -5,6 +5,7 @@
 {"propertySlug":"argument","path":"command/pages/infrastructure/loki/infrastructure-loki.command.ts","id":"01a06809-250b-7ab3-b9ac-5e00cfbba4ec"}
 {"propertySlug":"argument","path":"command/pages/music/listening/music-listening.command.ts","id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}
 {"propertySlug":"argument","path":"command/pages/music/search/music-search.command.ts","id":"01a062f8-ead9-70cb-ae30-58a51b7fc488"}
+{"propertySlug":"argument","path":"command/pages/music/type-tracks/music-type-tracks.command.ts","id":"01a0c204-6d31-7e88-b0a4-51fe3c7a9d62"}
 {"propertySlug":"argument","path":"command/pages/temper/watcher/log/temper-watcher-log.command.ts","id":"01a0603c-c1da-744c-8d22-01ee1ec32945"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
@@ -16,4 +17,5 @@
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.code.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/music/listening/music-listening.command.code.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/music/search/music-search.command.code.ts"}
+{"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts"}

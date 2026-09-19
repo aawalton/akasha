@@ -333,6 +333,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/skip/music-skip.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/transfer/music-transfer.command.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/upcoming/music-upcoming.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/volume/music-volume.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"}

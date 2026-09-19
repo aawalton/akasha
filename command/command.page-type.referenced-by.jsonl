@@ -161,6 +161,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/shuffle/music-shuffle.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/skip/music-skip.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/transfer/music-transfer.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/upcoming/music-upcoming.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/volume/music-volume.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts"}

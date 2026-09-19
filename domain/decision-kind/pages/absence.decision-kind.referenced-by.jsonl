@@ -1241,6 +1241,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/shuffle/music-shuffle.command.ts","id":"01a0a028-06be-7e85-a38c-8e1253d467de"}
 {"propertySlug":"decision-kind","path":"command/pages/music/skip/music-skip.command.ts","id":"01a0a01b-4ebe-7423-8d37-562cec9b1bc4"}
 {"propertySlug":"decision-kind","path":"command/pages/music/transfer/music-transfer.command.ts","id":"01a0a02c-b833-7d5a-8f9c-f4ad8bddc830"}
+{"propertySlug":"decision-kind","path":"command/pages/music/type-tracks/music-type-tracks.command.ts","id":"01a0c204-6d31-7e88-b0a4-51fe3c7a9d62"}
 {"propertySlug":"decision-kind","path":"command/pages/music/upcoming/music-upcoming.command.ts","id":"01a0a02b-2231-768e-9e62-b714e56d0aed"}
 {"propertySlug":"decision-kind","path":"command/pages/music/volume/music-volume.command.ts","id":"01a0a024-06ab-7ffa-baff-52d236353a00"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
