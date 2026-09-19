@@ -6,4 +6,15 @@ export const eppieMusicImprovements = {
   slug: "eppie-music-improvements",
   domain: "domain/music",
   persona: "persona/eppie",
+  intentStack: [
+    {
+      statement: "Every artist whose tracks Alan keeps has the songs of that artist filed.",
+    },
+    {
+      statement: "Every track names the song that track is a recording of.",
+    },
+    {
+      statement: "No song is a version of another song.",
+    },
+  ],
 } as const satisfies Initiative
