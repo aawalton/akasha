@@ -13,7 +13,8 @@ const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 const ACTING = `${ONE}--a38f63805f9b94edf`
 
 const CHILD = "claude --dangerously-skip-permissions --model opus"
-const SUPERVISOR = "/usr/bin/bun tools/lib/supervisor.ts --seat one"
+const SUPERVISOR =
+  "bun run /repo/agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts -a aawalton"
 const TASK = "rg --json needle ."
 
 test("a Claude child is read off its skip-permissions flag", () => {
@@ -21,13 +22,19 @@ test("a Claude child is read off its skip-permissions flag", () => {
   expect(isClaudeChildCmdline("claude --help")).toBe(false)
 })
 
-test("a supervisor is read off bun running supervisor.ts", () => {
+test("a supervisor is read off bun running run-supervisor", () => {
   expect(isSupervisorCmdline(SUPERVISOR)).toBe(true)
   expect(isSupervisorCmdline("bun tools/lib/other.ts")).toBe(false)
 })
 
-test("a supervisor named by a bare bun is a supervisor too", () => {
-  expect(isSupervisorCmdline("bun supervisor.ts")).toBe(true)
+test("a supervisor the bun on the path runs is a supervisor too", () => {
+  expect(
+    isSupervisorCmdline("/var/home/walton/.bun/bin/bun /repo/run-supervisor.module.code.ts")
+  ).toBe(true)
+})
+
+test("the supervisor spelling this predicate was written for is gone", () => {
+  expect(isSupervisorCmdline("/usr/bin/bun tools/lib/supervisor.ts --seat one")).toBe(false)
 })
 
 test("an agent's own process is its child or its supervisor and nothing else", () => {
