@@ -41,6 +41,7 @@ export const iosComponent = {
     "ios-component/surplus-ring",
     "ios-component/tier",
     "ios-component/timeline-checks",
+    "ios-component/alanwalton-stoplights-activity",
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],

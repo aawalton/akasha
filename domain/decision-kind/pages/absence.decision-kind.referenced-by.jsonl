@@ -920,6 +920,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-app/scripts/build-sim/build-sim.shell-script.ts","id":"01a059c3-3841-7618-b81d-ab1c53725140"}
 {"propertySlug":"decision-kind","path":"code/ios-app/scripts/build-stamp/build-stamp.shell-script.ts","id":"01a05934-fe0c-75ac-a104-88e6686eb2af"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts","id":"01a05835-69dc-706e-a604-be35e231c198"}
+{"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-stoplights-activity/alanwalton-stoplights-activity.ios-component.ts","id":"01a0ba5e-225c-7d6e-9341-9294f7f129b2"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.ts","id":"01a05835-69d7-777a-9161-494558086ce9"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/cost-ring/cost-ring.ios-component.ts","id":"01a08bbb-de99-7239-ae5c-c8f4b66aefa3"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/falling-checks/falling-checks.ios-component.ts","id":"01a08c54-a75a-7c9b-b63f-c642ff505fb5"}

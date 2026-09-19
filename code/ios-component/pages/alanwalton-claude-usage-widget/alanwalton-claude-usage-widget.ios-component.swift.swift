@@ -43,5 +43,6 @@ struct AlanWaltonWidgets: WidgetBundle {
         SurplusWidget()
         CostWidget()
         FreshnessWidget()
+        StoplightsActivity()
     }
 }

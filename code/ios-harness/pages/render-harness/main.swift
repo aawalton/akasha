@@ -62,6 +62,12 @@ func run() throws {
     let all = cases(now: now)
 
     for widget in scan.bundleWidgets {
+        if scan.liveActivities.contains(widget) {
+            report(
+                true, "coverage/\(slug(widget))",
+                "the bundle ships it as a live activity, drawn on the lock screen rather than at a family")
+            continue
+        }
         let declared = scan.familiesByWidget[widget] ?? []
         if declared.isEmpty {
             report(

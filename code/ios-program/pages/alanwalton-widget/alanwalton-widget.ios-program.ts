@@ -32,6 +32,7 @@ export const alanwaltonWidget = {
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
+    "ios-component/alanwalton-stoplights-activity",
   ],
   targetName: "ValuesWidgetExtension",
   profileName: "alanwalton widget App Store",
