@@ -134,7 +134,7 @@ function flattenLocationItems(
         itemName: item.itemName,
         quality: item.quality,
         stackCount: item.stackCount,
-        value: computeValue(item.estimatedValue, item.merchantValue, item.replacementCost),
+        value: computeValue(item.estimatedValue, item.merchantValue, item.replacementValue),
         filterType: item.filterType,
         itemType: item.itemType,
         specializedItemType: item.specializedItemType,
@@ -151,7 +151,7 @@ function flattenLocationItems(
         itemLink: item.itemLink,
         requiredLevel: item.requiredLevel,
       }
-      if (item.replacementCost !== undefined) row.replacementValue = item.replacementCost
+      if (item.replacementValue !== undefined) row.replacementValue = item.replacementValue
       if (item.merchantValue !== undefined) row.merchantValue = item.merchantValue
       if (item.saleAvg !== undefined) row.saleAvg = item.saleAvg
       if (item.minPrice !== undefined) row.minPrice = item.minPrice

@@ -37,7 +37,7 @@ export function computePlanItemValue(
     case "research":
     case "use":
     case "open":
-      return computeValue(item.estimatedValue, item.merchantValue, item.replacementCost)
+      return computeValue(item.estimatedValue, item.merchantValue, item.replacementValue)
     default:
       return assertNever(action)
   }

@@ -156,7 +156,7 @@ function ttcOf(item: InventoryItemData): TtcBreakdown {
     saleAmountCount: item.saleAmountCount ?? null,
     estimatedValue: item.estimatedValue ?? null,
     merchantValue: item.merchantValue ?? null,
-    replacementValue: item.replacementCost ?? null,
+    replacementValue: item.replacementValue ?? null,
   }
 }
 

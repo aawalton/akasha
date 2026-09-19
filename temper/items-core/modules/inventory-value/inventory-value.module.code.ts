@@ -7,7 +7,7 @@ export function computeInventoryTotalValue(inventory: InventoryDatabase): number
   for (const location of Object.values(inventory.locations)) {
     for (const bag of Object.values(location.bags)) {
       for (const item of Object.values(bag)) {
-        const value = computeValue(item.estimatedValue, item.merchantValue, item.replacementCost)
+        const value = computeValue(item.estimatedValue, item.merchantValue, item.replacementValue)
         if (value !== undefined && value > 0) {
           total += value * item.stackCount
         }

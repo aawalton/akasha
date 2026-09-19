@@ -52,7 +52,7 @@ export function resolveItemRoute(
     action,
     value: computePlanItemValue(action, item),
     marketValue: item.estimatedValue,
-    replacementValue: item.replacementCost,
+    replacementValue: item.replacementValue,
     merchantValue: item.merchantValue,
     saleAvg: item.saleAvg,
     minPrice: item.minPrice,

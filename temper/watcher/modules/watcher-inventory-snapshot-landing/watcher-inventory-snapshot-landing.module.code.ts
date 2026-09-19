@@ -191,7 +191,7 @@ function stackRowOf(
     ["weaponType", one.weaponType],
     ["setId", one.setId],
     ["known", one.known],
-    ["replacementCost", one.replacementCost],
+    ["replacementCost", one.replacementValue],
     ["furnitureCategory", saidOnly(one.furnitureCategory)],
     ["furnitureCategoryId", one.furnitureCategoryId],
     ["furnitureSubcategoryId", one.furnitureSubcategoryId],

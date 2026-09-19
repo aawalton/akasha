@@ -167,7 +167,7 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   const estimatedValue = asOptionalNumber(item.estimatedValue)
 
   if (parsed.bound) {
-    if (estimatedValue !== undefined) parsed.replacementCost = estimatedValue
+    if (estimatedValue !== undefined) parsed.replacementValue = estimatedValue
   } else {
     if (saleAvg !== undefined) parsed.saleAvg = saleAvg
     if (minPrice !== undefined) parsed.minPrice = minPrice

@@ -30,7 +30,7 @@ const itemSchema = z
     saleAmountCount: z.number().optional(),
     suggestedPrice: z.number().optional(),
     estimatedValue: z.number().optional(),
-    replacementCost: z.number().optional(),
+    replacementValue: z.number().optional(),
     merchantValue: z.number().optional(),
     stolen: z.boolean().optional(),
     bound: z.boolean().optional(),

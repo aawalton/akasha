@@ -54,7 +54,7 @@ export interface InventoryItemData {
   saleAmountCount?: number
   suggestedPrice?: number
   estimatedValue?: number
-  replacementCost?: number
+  replacementValue?: number
   merchantValue?: number
   stolen?: boolean
   bound?: boolean
