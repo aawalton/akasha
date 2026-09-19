@@ -10,7 +10,7 @@ export const emberInventoryRules = {
     {
       statement: "One word names a reading of the inventory, in a slug as in the prose.",
       workingMemory:
-        "Landed: the command is `akasha temper inventory reading`, the modules are inventory-reading and watcher-inventory-landing, the account property is reading-locations, and watcher-settings-consumables' failure kinds and messages say reading. The pricing route keeps the word, which is the retired caller's address. Left: temper-net-worth-hour's snapshots, blocked by a gap in rename-page-property-property-slug that the finding names. StatSnapshot and taskProgressSnapshots name other things and stay.\n",
+        "Met but for one site. The command is `akasha temper inventory reading`, the modules are inventory-reading and watcher-inventory-landing, the account property is reading-locations, an hour's rows are readings over 873 files, and every failure kind and player-facing message says reading. Mending rename-page-property-property-slug to carry an entry shape's rows is what unblocked the 873. Left: the pricing route keeps the word, being the retired caller's address, and its page says why.\n",
     },
   ],
   constraints: [
