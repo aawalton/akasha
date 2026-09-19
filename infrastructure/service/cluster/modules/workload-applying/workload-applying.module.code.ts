@@ -23,6 +23,7 @@ import {
   type Between,
   planFor,
   putUp,
+  type Ran,
   unfilledOf,
   upAlready,
   writeManifests,
@@ -128,6 +129,25 @@ export function saidOfPlacing(placing: Placing): readonly string[] {
   return [...placing.placed.map(saidOfPlaced), ...placing.unplaced.map(saidOfUnplaced)]
 }
 
+function refusedBy(running: () => readonly Ran[], report: string[], up: string[]): Answer | null {
+  const refusals: string[] = []
+  try {
+    for (const one of running()) {
+      report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
+      if (one.code !== 0) {
+        refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
+        continue
+      }
+      up.push(appliedSaid(one.argv))
+    }
+  } catch (thrown) {
+    if (!(thrown instanceof DeployRefused)) throw thrown
+    return answeredWith(report, [thrown.message], OPERATIONAL)
+  }
+  if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
+  return null
+}
+
 export function placingBetween(root: string, report: string[]): Between {
   return (plan) => {
     const placing = placeSecrets(root, plan)
@@ -190,6 +210,10 @@ export async function appliedWorkload(
   report.push(`running\t${alreadyUp ? "yes" : "no"}`)
 
   if (!differs && alreadyUp) {
+    if (!dryRun) {
+      const refused = refusedBy(() => placingBetween(root, report)(plan), report, up)
+      if (refused !== null) return refused
+    }
     report.push(`nothing\tthe cluster already runs ${slug} as its page describes`)
     return told(report)
   }
@@ -200,21 +224,8 @@ export async function appliedWorkload(
   }
 
   for (const one of writeManifests(root, plan)) report.push(`wrote\t${one}`)
-  const refusals: string[] = []
-  try {
-    for (const one of putUp(plan, placingBetween(root, report))) {
-      report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
-      if (one.code !== 0) {
-        refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
-        continue
-      }
-      up.push(appliedSaid(one.argv))
-    }
-  } catch (thrown) {
-    if (!(thrown instanceof DeployRefused)) throw thrown
-    return answeredWith(report, [thrown.message], OPERATIONAL)
-  }
-  if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
+  const refused = refusedBy(() => putUp(plan, placingBetween(root, report)), report, up)
+  if (refused !== null) return refused
 
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} runs as its page describes`

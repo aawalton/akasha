@@ -110,5 +110,10 @@ export const workloadApplying = {
       decisionKind: "decision-kind/departure",
       statement: "A dry run places no secret.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy places the secrets even where every manifest already matches the cluster.",
+    },
   ],
 } as const satisfies Module
