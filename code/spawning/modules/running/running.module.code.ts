@@ -99,10 +99,10 @@ function shareIn(at: string): number | null {
   return Number.isFinite(share) && share > 0 ? share : null
 }
 
-function processorsOver(at: string): number | null {
+export function processorsOver(at: string, mount: string = MOUNT): number | null {
   let tightest: number | null = null
   let here = at
-  while (here.startsWith(MOUNT) && here !== MOUNT) {
+  while (here.startsWith(mount) && here !== mount) {
     const share = shareIn(here)
     if (share !== null && (tightest === null || share < tightest)) tightest = share
     here = dirname(here)

@@ -22,8 +22,7 @@ import {
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   NOTHING,
-  processorsAbove,
-  processorsSeen,
+  processorsFor,
 } from "akasha/code/spawning/modules/running/running.module.test-fixtures.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
@@ -232,23 +231,32 @@ const PART = "40000 100000"
 const NAMED = "3"
 
 test("a run given a group of its own is given the processors its quota buys", () => {
-  expect(processorsSeen([TIGHT])).toBe("4")
+  expect(processorsFor([TIGHT])).toBe(4)
 })
 
 test("the quota given is the tightest in force rather than the nearest one stated", () => {
-  expect(processorsSeen([TIGHT, WIDE])).toBe("4")
+  expect(processorsFor([TIGHT, WIDE])).toBe(4)
+})
+
+test("a group above the run stating no quota is read past to the quota in force", () => {
+  expect(processorsFor([TIGHT, NOTHING])).toBe(4)
 })
 
 test("a quota buying part of a processor is given as one processor rather than as none", () => {
-  expect(processorsSeen([PART])).toBe("1")
+  expect(processorsFor([PART])).toBe(1)
 })
 
 test("a run no group above holds to a quota is given no count of its own", () => {
-  expect(processorsSeen([NOTHING, NOTHING])).toBe(processorsAbove())
+  expect(processorsFor([NOTHING, NOTHING])).toBeNull()
 })
 
 test("a caller stating that count itself is left the count that caller stated", () => {
-  expect(processorsSeen([TIGHT], { env: { ...process.env, GOMAXPROCS: NAMED } })).toBe(NAMED)
+  expect(
+    ran(["sh", "-c", 'printf %s "$GOMAXPROCS"'], {
+      metered: true,
+      env: { ...process.env, GOMAXPROCS: NAMED },
+    }).out
+  ).toBe(NAMED)
 })
 
 test("a process inside one given a ceiling states a ceiling above its own", () => {
