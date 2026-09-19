@@ -17,6 +17,8 @@ import type {
   WantedEquipmentSignature,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
+import { hashItemKey } from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
+import { resolveStaticItemKey } from "akasha/temper/items-rules-eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/saved-variable/modules/lua-array/lua-array.module.code.ts"
 
@@ -41,16 +43,20 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     db,
   } = deps
   const itemIdToCooldownGroup = compileItemIdToCooldownGroup(db)
+  const knownInBag = compileKnownInBag(db, charactersById)
   const consumableWanters = compileConsumableWanters(wantedConsumables)
   const consumableStock = computeItemStock(db ?? null, new Set(consumableWanters.keys()))
   const bankStock = computeBankStock(db ?? null)
   return {
     isKnownByCharacter: (itemKey, charId) => {
+      if (knownInBag.get(charId)?.has(hashItemKey(itemKey)) === true) return true
       const held = charactersById.get(charId)
       return held !== undefined && knowsItem(held, itemKey)
     },
     isKnownByAnyCharacter: (itemKey) => {
-      for (const held of charactersById.values()) {
+      const hash = hashItemKey(itemKey)
+      for (const [charId, held] of charactersById) {
+        if (knownInBag.get(charId)?.has(hash) === true) return true
         if (knowsItem(held, itemKey)) return true
       }
       return false
@@ -148,6 +154,31 @@ function compileConsumableWanters(
     if (!Number.isFinite(itemId)) continue
     const named = luaStringsOrEmpty(value)
     if (named.length > 0) result.set(itemId, named)
+  }
+  return result
+}
+
+function compileKnownInBag(
+  db: InventoryDatabase | undefined,
+  charactersById: ReadonlyMap<string, CharacterKnowledge>
+): ReadonlyMap<string, ReadonlySet<string>> {
+  const result = new Map<string, Set<string>>()
+  if (db === undefined) return result
+  for (const [locationKey, location] of Object.entries(db.locations)) {
+    if (!charactersById.has(locationKey)) continue
+    for (const slots of Object.values(location.bags)) {
+      for (const item of Object.values(slots)) {
+        if (item.known !== true) continue
+        const itemKey = resolveStaticItemKey(item)
+        if (itemKey === undefined) continue
+        let held = result.get(locationKey)
+        if (held === undefined) {
+          held = new Set<string>()
+          result.set(locationKey, held)
+        }
+        held.add(hashItemKey(itemKey))
+      }
+    }
   }
   return result
 }

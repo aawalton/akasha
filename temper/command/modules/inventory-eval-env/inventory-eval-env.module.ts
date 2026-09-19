@@ -81,5 +81,10 @@ export const inventoryEvalEnv = {
       decisionKind: "decision-kind/departure",
       statement: "How many scribing scripts there are comes from the table both readings share.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stack the capture marks known is known by the character whose own bag holds it.",
+    },
   ],
 } as const satisfies Module
