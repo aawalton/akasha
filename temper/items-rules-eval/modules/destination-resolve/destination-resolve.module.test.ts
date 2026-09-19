@@ -105,6 +105,58 @@ test("a chain with no by-priority tier leaves the flat destination to answer", (
   })
 })
 
+const MASTER_MOTIF_FACTS: ItemFacts = {
+  itemId: 16428,
+  itemName: "Crafting Motif 3: Wood Elf Style",
+  itemLink: "|H1:item:16428|h|h",
+  itemKey: { kind: "motif", styleId: 3, chapterId: null },
+}
+
+const USE_RULE: CompiledOrderedRule = {
+  categoryId: "knowledge",
+  action: "use",
+  destination: "character:by-priority",
+}
+
+test("a master motif goes to the eligible character knowing the fewest chapters", () => {
+  const chapters: Record<string, number> = { one: 9, two: 2, three: 5 }
+  const ctx = ctxWith({
+    getCharacterPriority: () => ["one", "two", "three"],
+    isKnownByCharacter: () => false,
+    getKnownChapterCountForStyle: (charId) => chapters[charId] ?? 0,
+  })
+
+  expect(resolveDestination(USE_RULE, MASTER_MOTIF_FACTS, ctx)).toEqual({
+    kind: "resolved",
+    concrete: "character:two",
+  })
+})
+
+test("characters tying on known chapters keep the order priority gave them", () => {
+  const ctx = ctxWith({
+    getCharacterPriority: () => ["one", "two", "three"],
+    isKnownByCharacter: (_itemKey, charId) => charId === "one",
+    getKnownChapterCountForStyle: () => 0,
+  })
+
+  expect(resolveDestination(USE_RULE, MASTER_MOTIF_FACTS, ctx)).toEqual({
+    kind: "resolved",
+    concrete: "character:two",
+  })
+})
+
+test("a chapter count the environment cannot answer leaves a master motif indeterminate", () => {
+  const ctx = ctxWith({
+    getCharacterPriority: () => ["one"],
+    isKnownByCharacter: () => false,
+  })
+
+  expect(resolveDestination(USE_RULE, MASTER_MOTIF_FACTS, ctx)).toEqual({
+    kind: "indeterminate",
+    detail: "known chapter count unknown for one",
+  })
+})
+
 test("a chain whose fill tier is its last tier has no surplus to name", () => {
   const rule: CompiledOrderedRule = {
     categoryId: "potions",
