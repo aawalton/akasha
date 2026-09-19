@@ -20,7 +20,7 @@ export const emberInventoryRules = {
     {
       statement: "The addon and the outside reading agree on which character a motif goes to.",
       workingMemory:
-        "1 item: Crafting Motif 3 Wood Elf Style 16428. Both sides use by rule 37 with `character:by-priority`, so the rule agrees and the character does not: recorded Ceria Springwater 8796093045974297, fresh Mrsha du Marquin 8796093045924843. Two causes. The stack is in Mrsha's backpack and the capture says known of it, yet `knowsItemForChar` wants the whole chapter set for a master book. And the addon gives it to whoever knows fewest chapters, where parity takes first in priority.",
+        "1 item: Crafting Motif 3 Wood Elf Style 16428. Recorded Ceria Springwater, fresh Mrsha du Marquin, both by rule 37. The second cause is mended: eaade2f orders a master motif by fewest known chapters on both sides, proven by test. It does not move this row. What remains is the first cause: the stack sits in Mrsha's own bag carrying `known` true, and `knowsItemForChar` passes that flag over and wants the whole 14-chapter set, which her motifKnowledge lacks.",
     },
     {
       statement: "The addon and the outside reading agree on listing a companion's item.",
@@ -37,6 +37,11 @@ export const emberInventoryRules = {
       statement: "A thing no player can be sold has no market value, and has a replacement value.",
       workingMemory:
         "The addon sets a market value on everything and copies it into replacement value: build-item-facts:127-128 sets both from the one TTC estimate. The parser goes the other way and makes them exclusive, inventory-parser:169-178, which breaks its page's one decision that a field the capture holds reaches the item. The addon is the side to mend.\n",
+    },
+    {
+      statement: "One reading of what a character knows answers a command and the rules alike.",
+      workingMemory:
+        "The knowledge command reads motifChaptersByStyle alone, at temper-inventory-knowledge:96, where the rules read motifKnowledgeByStyle first and fall back to it, at inventory-eval-env:188-189. The capture fills the two differently, so the command answers false where the rules answer true, and reading the command misleads.\n",
     },
   ],
   constraints: [
