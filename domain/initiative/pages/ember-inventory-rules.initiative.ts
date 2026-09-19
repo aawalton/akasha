@@ -10,7 +10,7 @@ export const emberInventoryRules = {
     {
       statement: "The addon and the outside reading agree on locking a set piece.",
       workingMemory:
-        "Worn slots were never judged: of 20 characters only 3 carry worn records, 10 each, all predating the stamp, and the four played this morning stamped every backpack slot and no worn slot. Landed 270c5de0 (the inventory fragment's state is read against SCENE_FRAGMENT_SHOWING) and 90fe9d34 (rescanInventory walks worn), deployed at c978e68c. Left: Alan's next login walks and stamps the worn slots, and record-parity then says whether rule 0 agrees.\n",
+        "Where the addon now walks a worn piece the two readings agree. Shaestrel's 12 and Seraphel's 7 were judged fresh, rule 0 locked them, and after locking both readings say no-match, so neither raises a row. The 18 rows left are Erin's 9 and Three-Color Stalker's 9, whose records predate the stamp and carry no resolvedAt. They clear when those two are next played. Landed 270c5de0 and 90fe9d34, deployed at c978e68c.\n",
     },
   ],
   constraints: [
