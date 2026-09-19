@@ -1,11 +1,11 @@
 import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
 
-export const aineFindingsToZero = {
+export const akashaFindingsToZero = {
   id: "01a0884c-4471-76ab-86aa-bb94691c846a",
   type: "page-type/initiative",
-  slug: "aine-findings-to-zero",
+  slug: "akasha-findings-to-zero",
   domain: "page-type/finding",
-  persona: "persona/aine",
+  persona: "persona/akasha",
   intentStack: [
     {
       statement: "No finding is left.",
