@@ -8,9 +8,9 @@ export const emberInventoryRules = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "The addon and the outside reading agree on locking a set piece.",
+      statement: "One word names a reading of the inventory, in a slug as in the prose.",
       workingMemory:
-        "Where the addon now walks a worn piece the two readings agree. Shaestrel's 12 and Seraphel's 7 were judged fresh, rule 0 locked them, and after locking both readings say no-match, so neither raises a row. The 18 rows left are Erin's 9 and Three-Color Stalker's 9, whose records predate the stamp and carry no resolvedAt. They clear when those two are next played. Landed 270c5de0 and 90fe9d34, deployed at c978e68c.\n",
+        "The domain settled on capture for what the addon writes and reading for what is worked out from it. Snapshot is a second spelling over both. It reaches the command name snapshot, the slugs inventory-snapshot-reading and watcher-inventory-snapshot-landing, the account property snapshot-locations, net-worth-hour's snapshots over 872 data files, watcher-settings-consumables' failure kinds, and the pricing route's path. StatSnapshot and taskProgressSnapshots name other things and stay.\n",
     },
   ],
   constraints: [
