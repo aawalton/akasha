@@ -8,7 +8,10 @@ export const nimueAuth = {
   persona: "persona/nimue",
   intentStack: [
     { statement: "Anyone makes an account at alanwalton.com, and that account is a contributor." },
-    { statement: "A contributor signs in at alanwalton.com with Google or with Discord." },
+    { statement: "A contributor signs in with Google, with Discord or with Apple." },
     { statement: "Nothing at alanwalton.com signs a person in with a password." },
+    { statement: "Every site Alan runs signs a person in the way alanwalton.com does." },
+    { statement: "No GoTrue issues a token for anything Alan runs." },
+    { statement: "Nothing Alan runs keeps anything in Postgres." },
   ],
 } as const satisfies Initiative
