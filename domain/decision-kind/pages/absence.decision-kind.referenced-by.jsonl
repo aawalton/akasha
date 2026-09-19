@@ -1602,6 +1602,7 @@
 {"propertySlug":"decision-kind","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.ts","id":"01a082e4-93b8-7fa1-acc9-1b958af98ee5"}
 {"propertySlug":"decision-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
 {"propertySlug":"decision-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
+{"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contribution-point-transactions.page-property-entry.ts","id":"01a0ba91-e892-7379-95c1-ab471bc6af43"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts","id":"01a0ba90-7481-7416-9833-84de20e54722"}
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}

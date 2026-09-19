@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A balance is the sum of the transactions beside the contributor."},{"decisionKind":"decision-kind/departure","statement":"A balance goes below zero where a reversal takes back points already spent."}]}
+{"definition":"the points a contributor holds unspent"}
+{"id":"01a0ba92-0b87-7f20-9b60-902eea2c3eed"}
+{"max":1000000000}
+{"propertySlug":"balance"}
+{"slug":"contribution-point-balance"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

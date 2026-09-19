@@ -374,6 +374,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/wallpaper/properties/eso-day.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/metric.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-chapter.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-claimed-by.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-lexeme.text-property.ts"}

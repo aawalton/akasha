@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A transaction Stripe did not report states no charge."},{"decisionKind":"decision-kind/departure","statement":"A charge already carried by a transaction is not carried a second time."}]}
+{"definition":"the charge Stripe reported that a transaction answers"}
+{"id":"01a0ba91-c1b5-7a3f-86a1-3c43bcfcbb7c"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"stripe-charge-id"}
+{"slug":"stripe-charge-id"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

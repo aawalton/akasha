@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/processed-messages.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-transactions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/chapter-read/properties/chronology-anchors.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/characters/properties/character-claims.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/mechanics/properties/references.page-property-entry.ts"}

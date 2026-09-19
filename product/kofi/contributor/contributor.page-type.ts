@@ -6,9 +6,22 @@ export const contributor = {
   slug: "contributor",
   definition: "a person who has given Alan something and holds the weight that giving earned",
   extends: ["page-type/page"],
-  parts: ["text-property/contributor-email-hash"],
+  parts: [
+    "text-property/contributor-email-hash",
+    "number-property/contribution-point-balance",
+    "page-property-entry/contribution-point-transactions",
+    "instant-property/contribution-point-at",
+    "number-property/contribution-points",
+    "text-property/stripe-charge-id",
+  ],
   properties: [
     { pageProperty: "text-property/contributor-email-hash", required: true, many: false },
+    { pageProperty: "number-property/contribution-point-balance", required: true, many: false },
+    {
+      pageProperty: "page-property-entry/contribution-point-transactions",
+      required: true,
+      many: false,
+    },
   ],
   decisions: [
     {
