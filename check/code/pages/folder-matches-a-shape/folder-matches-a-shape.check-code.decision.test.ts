@@ -1,4 +1,9 @@
 import { expect, test } from "bun:test"
+import { akasha } from "akasha/akasha.domain.ts"
+import { akashaWorkspace } from "akasha/akasha-workspace.workspace.ts"
+import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
+import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
+import { myStrategy } from "akasha/alan/book/pages/my-strategy/my-strategy.alan-book.ts"
 import {
   holdingOver,
   namesFiling,
@@ -17,6 +22,8 @@ import {
   segmentedLater,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { collectionPartsUnderTheirPlural } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/collection-parts-under-their-plural/collection-parts-under-their-plural.folder-shape.code.ts"
+import { workspace } from "akasha/code/workspace/workspace.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import type { FoldersBy } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { type Held, heldIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -71,26 +78,23 @@ const MY_STRATEGY = "alan/book/my-strategy"
 
 const MY_STRATEGY_SECTIONS = `${MY_STRATEGY}/sections`
 
+const BOOK = `${alanBook.slug}/${myStrategy.slug}` as const
+
+const MATH = `${alanBook.slug}/${myMath.slug}` as const
+
 const SECTION_TYPES = new Set<string>(["alan-book", "book-section"])
 
 const SECTION_FILES = new Set<string>(["chapter-text"])
 
 const SCOPED = new Map<string, Value>([
-  [
-    MY_MATH_AT,
-    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: ["alan-book/my-math"] },
-  ],
+  [MY_MATH_AT, { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: [MATH] }],
   [
     `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`,
-    {
-      pageTypeSlug: "book-section",
-      slug: "beginnings",
-      partOfCollections: ["alan-book/my-strategy"],
-    },
+    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: [BOOK] },
   ],
   [
     `${MY_STRATEGY_SECTIONS}/two.book-section.ts`,
-    { pageTypeSlug: "book-section", slug: "two", partOfCollections: ["alan-book/my-strategy"] },
+    { pageTypeSlug: "book-section", slug: "two", partOfCollections: [BOOK] },
   ],
 ])
 
@@ -102,8 +106,8 @@ function sectioned(at: string): Held {
 
 test("two sections slugged alike under different books each name the book holding it", () => {
   const strategy = sectioned(`${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`)
-  expect(scopedPartOf(sectioned(MY_MATH_AT))).toEqual(["alan-book/my-math"])
-  expect(scopedPartOf(strategy)).toEqual(["alan-book/my-strategy"])
+  expect(scopedPartOf(sectioned(MY_MATH_AT))).toEqual([MATH])
+  expect(scopedPartOf(strategy)).toEqual([BOOK])
 })
 
 const sectionsFolder = folderFrom({
@@ -111,7 +115,7 @@ const sectionsFolder = folderFrom({
   pageTypes: SECTION_TYPES,
   fileProperties: SECTION_FILES,
   extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
-  holds: (at) => (at === MY_STRATEGY ? ["alan-book/my-strategy"] : []),
+  holds: (at) => (at === MY_STRATEGY ? [BOOK] : []),
   partOf: scopedPartOf,
   gathered: gatheringFrom({ sections: ["book-section"] }),
 })
@@ -129,7 +133,7 @@ test("that shape still refuses a section the index cannot reach by path", () => 
   )
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("stray.book-section.ts")
-  expect(said[0]).toContain("`alan-book/my-strategy`")
+  expect(said[0]).toContain(`\`${BOOK}\``)
 })
 
 const HOLDER_AT = `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`
@@ -166,7 +170,10 @@ test("a workspace beside a domain answers for the domain and for what that domai
     new Set<string>()
   )
   expect(holds("").names).toEqual(["akasha"])
-  expect([...holds("").holds]).toEqual(["domain/akasha", "workspace/akasha-workspace"])
+  expect([...holds("").holds]).toEqual([
+    `${domain.slug}/${akasha.slug}`,
+    `${workspace.slug}/${akashaWorkspace.slug}`,
+  ])
   expect([...holds("").declared]).toEqual(["domain/agents"])
 })
 

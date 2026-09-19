@@ -14,6 +14,20 @@ import {
   secondPartReads,
   shapingFor,
 } from "akasha/check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts"
+import { initiative } from "akasha/domain/initiative/properties/initiative.relation-property.ts"
+import { decisions } from "akasha/domain/properties/decisions.record-property.ts"
+import { directives } from "akasha/domain/properties/directives.record-property.ts"
+import { pageDomain } from "akasha/domain/properties/page-domain.relation-property.ts"
+import { recordProperty } from "akasha/page/record-property/record-property.page-type.ts"
+import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
+
+const DECISIONS = `${recordProperty.slug}/${decisions.slug}` as const
+
+const DIRECTIVES = `${recordProperty.slug}/${directives.slug}` as const
+
+const PAGE_DOMAIN = `${relationProperty.slug}/${pageDomain.slug}` as const
+
+const INITIATIVE = `${relationProperty.slug}/${initiative.slug}` as const
 
 const OWN = new Set(["id"])
 
@@ -53,18 +67,12 @@ test("a field its shape leaves optional is not demanded of a row", () => {
 })
 
 test("a one-of property opens the one member that declares fields", () => {
-  expect(openedFor(["record-property/decisions", "relation-property/page-domain"])).toEqual([
-    ["decisionKind", "statement"],
-    true,
-  ])
-  expect(openedFor(["relation-property/page-domain", "relation-property/initiative"])).toEqual([
-    [],
-    true,
-  ])
+  expect(openedFor([DECISIONS, PAGE_DOMAIN])).toEqual([["decisionKind", "statement"], true])
+  expect(openedFor([PAGE_DOMAIN, INITIATIVE])).toEqual([[], true])
 })
 
 test("a property whose members declare fields more than once holds each of those fields", () => {
-  const members = ["record-property/decisions", "record-property/directives"]
+  const members = [DECISIONS, DIRECTIVES]
 
   expect(openedFor(members)).toEqual([[], false])
   expect(amongFor(members)).toEqual([

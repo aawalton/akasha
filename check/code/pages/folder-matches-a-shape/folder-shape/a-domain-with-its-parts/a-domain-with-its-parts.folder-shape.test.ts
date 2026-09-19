@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { modelAsking } from "akasha/agent/model/modules/asking/model-asking.module.ts"
+import { akasha } from "akasha/akasha.domain.ts"
+import { akashaWorkspace } from "akasha/akasha-workspace.workspace.ts"
 import {
   folderFrom,
   gatheringFrom,
@@ -8,6 +11,10 @@ import {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { aDomainWithItsParts } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.code.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { workspace } from "akasha/code/workspace/workspace.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
+import { temper } from "akasha/temper/temper.domain.ts"
 
 const FOLDER = "akasha/models"
 
@@ -15,7 +22,7 @@ const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat"])
 
 const DOMAINS = new Set<string>(["domain", "page-type", "module"])
 
-const DECLARED = new Set<string>(["page-type/model-humming", "module/model-asking"])
+const DECLARED = new Set<string>(["page-type/model-humming", `${module.slug}/${modelAsking.slug}`])
 
 function judged(deep: readonly string[], names: readonly string[]): readonly string[] {
   const made = folderFrom({
@@ -122,7 +129,7 @@ const ROOT = ""
 const ROOT_TYPES = new Set<string>(["domain", "workspace", "page-type", "module", "seat"])
 
 const ROOT_HELD: Readonly<Record<string, readonly string[]>> = {
-  "": ["domain/akasha", "workspace/akasha-workspace"],
+  "": [`${domain.slug}/${akasha.slug}`, `${workspace.slug}/${akashaWorkspace.slug}`],
   "/held": ["domain/held"],
 }
 
@@ -175,7 +182,7 @@ test("a folder named its domain's slug with every name above it taken off takes 
     extending: DOMAINING,
     naming: () => ({ name: "catalog-skill" }),
     holds: holdsFrom({
-      "akasha/temper": ["domain/temper"],
+      "akasha/temper": [`${domain.slug}/${temper.slug}`],
       "akasha/temper/catalog": ["page-type/temper-catalog"],
     }),
   })

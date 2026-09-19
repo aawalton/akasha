@@ -1,8 +1,10 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { opensYes } from "akasha/agent/model/modules/answer/model-answer.module.code.ts"
+import { modelAsking } from "akasha/agent/model/modules/asking/model-asking.module.ts"
 import { PAGES } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
@@ -16,7 +18,7 @@ import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const CHECK_MODEL_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 
-const ASKER = "module/model-asking"
+const ASKER = `${module.slug}/${modelAsking.slug}` as const
 
 const UNANSWERED = "did not run, so what it would have judged landed unjudged"
 

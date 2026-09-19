@@ -14,10 +14,12 @@
 {"propertySlug":"extends-type","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"check/modules/model-running/model-running.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
