@@ -100,6 +100,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/claude-code.domain.ts"}

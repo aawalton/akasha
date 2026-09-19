@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}

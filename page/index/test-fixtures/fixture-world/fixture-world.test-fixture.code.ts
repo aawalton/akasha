@@ -1,7 +1,9 @@
 import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { keptAt } from "akasha/file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
@@ -16,6 +18,7 @@ import {
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import {
@@ -24,6 +27,8 @@ import {
   shapesFiledAt,
   shapesIn,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export type Held = Record<string, unknown>
 
@@ -52,6 +57,14 @@ export const scratch = scratchWorld()
 const SHAPED = new Map<string, Map<string, Value>>()
 
 const PAGE_TYPE = "page-type"
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
 
 function besideFor(held: ReadonlyMap<string, Value>, kind: string): string | null {
   for (const [path, one] of held) {
@@ -195,20 +208,20 @@ const CHANGE_SLUGS: readonly Reached[] = [
 const changeId = (one: string): string => `01a04a4a-0001-7000-8000-00000000000${one}`
 
 const REPO_VOCABULARY: readonly Named[] = [
-  aType(changeId("0"), CHANGE_TYPE, ["page-type/module"]),
+  aType(changeId("0"), CHANGE_TYPE, [MODULE_AT]),
   aType(changeId("a"), "change-mechanical-file", [`page-type/${CHANGE_TYPE}`]),
   aType(changeId("b"), "change-mechanical-folder", [`page-type/${CHANGE_TYPE}`]),
   aType(changeId("c"), "change-mechanical-file-content", [`page-type/${CHANGE_TYPE}`]),
   aType(changeId("d"), "change-agent", [`page-type/${CHANGE_TYPE}`]),
   aType(idOf("1"), "page", [], ["id", "slug"]),
-  aType(idOf("2"), "page-type", ["page-type/domain"]),
-  aType(idOf("3"), "page-property", ["page-type/page"]),
-  aType(idOf("4"), "file-property", ["page-type/page-property"]),
-  aType(idOf("5"), "domain", ["page-type/page"]),
-  aType(idOf("6"), "module", ["page-type/domain"], ["code", "test", "note", "part-slugs"]),
+  aType(idOf("2"), "page-type", [DOMAIN_AT]),
+  aType(idOf("3"), "page-property", [PAGE_AT]),
+  aType(idOf("4"), "file-property", [PAGE_PROPERTY_AT]),
+  aType(idOf("5"), "domain", [PAGE_AT]),
+  aType(idOf("6"), "module", [DOMAIN_AT], ["code", "test", "note", "part-slugs"]),
   aProperty(idOf("7"), "code", "file-property"),
   aProperty("01a04a4a-0002-7000-8000-000000000007", "test", "file-property"),
-  aType(idOf("a"), "relation-property", ["page-type/page-property"]),
+  aType(idOf("a"), "relation-property", [PAGE_PROPERTY_AT]),
   aProperty("01a04a4a-0002-7000-8000-000000000005", "extends-type", "relation-property", {
     propertySlug: "extends",
     targetPageType: "page-type",
@@ -266,8 +279,8 @@ const graphId = (one: string): string => `01a04a4a-0006-7000-8000-00000000000${o
 
 const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
   [
-    aType(graphId("1"), "graph-attribute", ["page-type/page"]),
-    aType(graphId("2"), "graph-edge", ["page-type/page"], ["attributes"]),
+    aType(graphId("1"), "graph-attribute", [PAGE_AT]),
+    aType(graphId("2"), "graph-edge", [PAGE_AT], ["attributes"]),
     aProperty(graphId("3"), "attributes", "relation-property", {
       targetPageType: "graph-attribute",
     }),

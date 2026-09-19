@@ -128,6 +128,7 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
