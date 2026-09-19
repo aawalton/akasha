@@ -3,6 +3,8 @@ import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
 import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import type { Filing } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { musicalTheaterWickedTheSoundtrack } from "akasha/alan/music/catalog/release/pages/musical-theater-wicked-the-soundtrack/musical-theater-wicked-the-soundtrack.release.ts"
+import { release } from "akasha/alan/music/catalog/release/release.page-type.ts"
 import { musicalTheater } from "akasha/alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts"
 import { releaseCollection } from "akasha/alan/music/catalog/release-collection/release-collection.page-type.ts"
 import {
@@ -51,7 +53,7 @@ test("a track on no release is matched to no song", () => {
 
 test("a track whose release names no artist takes the artist Spotify credits on it", () => {
   const onWicked = {
-    partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
+    partOfCollections: [`${release.slug}/${musicalTheaterWickedTheSoundtrack.slug}`],
     trackArtist: [{ artistName: "Cynthia Erivo" }, { artistName: "Ariana Grande" }],
   }
   expect(artistOf(BY_RELEASE, onWicked)).toBe("cynthia-erivo")

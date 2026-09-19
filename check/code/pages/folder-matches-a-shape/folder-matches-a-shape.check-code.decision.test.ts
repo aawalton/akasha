@@ -24,6 +24,8 @@ import {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { collectionPartsUnderTheirPlural } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/collection-parts-under-their-plural/collection-parts-under-their-plural.folder-shape.code.ts"
 import { workspace } from "akasha/code/workspace/workspace.page-type.ts"
+import { decisionKind } from "akasha/domain/decision-kind/decision-kind.page-type.ts"
+import { departure } from "akasha/domain/decision-kind/pages/departure.decision-kind.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import type { FoldersBy } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { type Held, heldIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -182,19 +184,21 @@ const CHAPTER_AT = "story/world/pages/ember/stories/read/dawn/chapters/one.story
 
 const CHAPTER_TYPES = new Set<string>(["story-chapter-read"])
 
+const DEPARTURE_AT = `${decisionKind.slug}/${departure.slug}` as const
+
 const CHAPTER: Value = {
   pageTypeSlug: "story-chapter-read",
   slug: "one",
   title: "Chapter 1",
   story: "story-read/dawn",
   position: 1,
-  decisions: [{ decisionKind: "decision-kind/departure", statement: "A chapter names a story." }],
+  decisions: [{ decisionKind: DEPARTURE_AT, statement: "A chapter names a story." }],
 }
 
 test("a page answers with every value on it reading as a page type slug and a slug", () => {
   const addressing = addressingOver({ pageByPath: () => CHAPTER })
   const found = addressing(heldIn(CHAPTER_AT, CHAPTER_TYPES, new Set<string>()))
-  expect(found).toEqual(["story-read/dawn", "decision-kind/departure"])
+  expect(found).toEqual(["story-read/dawn", DEPARTURE_AT])
 })
 
 test("a page the index reaches by no path answers with no address", () => {
