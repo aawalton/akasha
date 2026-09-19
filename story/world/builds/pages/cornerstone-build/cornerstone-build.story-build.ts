@@ -1,4 +1,4 @@
-import type { StoryBuild } from "akasha/story/build/story-build.page-type.types.ts"
+import type { StoryBuild } from "akasha/story/world/builds/story-build.page-type.types.ts"
 
 export const cornerstoneBuild = {
   id: "01a0657d-bb95-73af-a144-74c52923eaa7",

@@ -225,7 +225,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/craters.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/hazards-marked.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/zones-completed.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/build/properties/build-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-beat.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-volume.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/engine/doctrine/properties/doctrine-version.number-property.ts"}
@@ -240,6 +239,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-character/properties/max-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-mechanic/properties/paragraph.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world-mechanic/properties/reference-level.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/ability-id.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/alternate-ability-ids.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/skill/properties/conditional-multiplier.number-property.ts"}

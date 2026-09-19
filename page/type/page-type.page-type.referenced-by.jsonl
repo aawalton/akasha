@@ -374,7 +374,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/build/story-build.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/chapter-played/story-chapter-played.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/chapter-read/story-chapter-read.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/chapter-written/story-chapter-written.page-type.ts"}
@@ -410,6 +409,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-species/world-species.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-spell/world-spell.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world-mechanic/world-title/world-title.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/builds/story-build.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/world.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/written/story-written.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/temper-companion/activation-buff/temper-companion-activation-buff.page-type.ts"}

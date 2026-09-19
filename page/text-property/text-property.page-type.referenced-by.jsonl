@@ -370,8 +370,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/voice-reference-sha256.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/wallpaper/properties/eso-day.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/metric.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/build/properties/class-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/build/properties/game-system.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-chapter.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-claimed-by.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-lexeme.text-property.ts"}
@@ -435,6 +433,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/reference-kind.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/to-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world-mechanic/properties/wording.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/class-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/game-system.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/character-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/mechanic-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/reading-name.text-property.ts"}

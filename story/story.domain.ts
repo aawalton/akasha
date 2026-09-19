@@ -13,7 +13,6 @@ export const story = {
     "domain/world-lore",
     "page-type/game",
     "page-type/named-event",
-    "page-type/story-build",
     "page-type/story-chapter-played",
     "page-type/story-chapter-read",
     "page-type/story-chapter-written",
