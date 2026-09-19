@@ -7,6 +7,7 @@ export const dallaOffloadToCluster = {
   domain: "domain/infrastructure",
   persona: "persona/dalla",
   intentStack: [
+    { statement: "Audits and deploys use the fastest available node in the cluster." },
     {
       statement:
         "An audit request a running audit answers attaches to that audit rather than opening a second.",
@@ -20,7 +21,6 @@ export const dallaOffloadToCluster = {
       statement:
         "The namespaces, the roles and the operator configuration the cluster is built on are one service.",
     },
-    { statement: "Audits and deploys use the fastest available node in the cluster." },
   ],
   constraints: [
     "A cluster service, a container recipe and a web app are put up by a run triggered on the workstation and made nowhere on it.",
