@@ -181,7 +181,6 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/label.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lang.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/last.argument.ts"}
-{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/latest.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/library.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lightning.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/limit.argument.ts"}
@@ -298,7 +297,6 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/since.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/size.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/slug.argument.ts"}
-{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/snapshot.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/song-limit.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/source.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/spoken-text.argument.ts"}
