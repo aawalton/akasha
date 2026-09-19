@@ -1,6 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Recording } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
+import {
+  type Recording,
+  verdictSent,
+} from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
 import {
   type Asking,
   movedIn,
@@ -30,6 +33,10 @@ export const NOTHING: Change = {
 
 export function into(root: string): Recording {
   return (page, under, line) => Promise.resolve(recorded(root, page, `${line}\n`, under))
+}
+
+export async function cleanKept(root: string, check: Gathered, commit: string): Promise<void> {
+  await verdictSent(check.page, check.slug, { ...CLEAN, commit }, LOGS, into(root))
 }
 
 export function gathered(slug: string, root: string): Gathered {

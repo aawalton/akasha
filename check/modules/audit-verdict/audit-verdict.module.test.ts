@@ -1,19 +1,24 @@
 import { afterAll, expect, test } from "bun:test"
-import { readFileSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  answerLine,
   atOrAfter,
   cleanAt,
   cleanly,
   commitHeld,
+  loggedLine,
   measured,
-  verdictAnswered,
+  type Verdict,
   verdictLogged,
   verdictOver,
-  verdictRecorded,
   verdictRowIn,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
-import { type Cost, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import {
+  type Cost,
+  recordCost,
+  recorded,
+} from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
@@ -27,8 +32,6 @@ const CLEAN = { commit: "a", ranAt: "2026-09-11T00:00:00.000Z", refusals: [], un
 const LOGS = "audit.logs"
 
 const PAGE = "one.check-code.ts"
-
-const LOG_AT = "one.check-code.audit.logs.uncommitted.jsonl"
 
 const COST: Cost = {
   runId: "01a0a634-03d5-7000-baec-1b80de61d1d8",
@@ -55,8 +58,8 @@ function pageIn(): string {
   return root
 }
 
-function rowIn(root: string): Record<string, unknown> {
-  return JSON.parse(readFileSync(join(root, LOG_AT), "utf8").trim()) as Record<string, unknown>
+function rowOf(verdict: Verdict): Record<string, unknown> {
+  return JSON.parse(loggedLine(COST, verdict)) as Record<string, unknown>
 }
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
@@ -91,8 +94,9 @@ test("a row recording a verdict is read back whole", () => {
 
 test("the verdict a log holds is the one on its newest verdict-bearing row", () => {
   const root = pageIn()
-  verdictAnswered(root, PAGE, "typecheck", { ...CLEAN, refusals: ["one.ts — no"] }, LOGS)
-  verdictRecorded(root, PAGE, COST, { ...CLEAN, commit: "b" }, LOGS)
+  const first = answerLine("typecheck", { ...CLEAN, refusals: ["one.ts — no"] })
+  recorded(root, PAGE, `${first}\n`, LOGS)
+  recorded(root, PAGE, `${loggedLine(COST, { ...CLEAN, commit: "b" })}\n`, LOGS)
   recordCost(root, PAGE, COST, LOGS)
   const found = verdictLogged(root, PAGE, LOGS)
   expect(found?.commit).toBe("b")
@@ -157,9 +161,7 @@ test("a root holding no commit reads as no commit rather than throwing", () => {
 })
 
 test("a row carries what the run cost beside the verdict that run took", () => {
-  const root = pageIn()
-  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: ["one.ts — no"] }, LOGS)
-  const row = rowIn(root)
+  const row = rowOf({ ...CLEAN, refusals: ["one.ts — no"] })
   expect(row["ran"]).toBe("typecheck")
   expect(row["phase"]).toBe("audit")
   expect(row["childCpuSeconds"]).toBe(1.29)
@@ -170,26 +172,22 @@ test("a row carries what the run cost beside the verdict that run took", () => {
 })
 
 test("a refusal too long for a row is shortened rather than written whole", () => {
-  const root = pageIn()
   const whole = `many files failed:\n${"a/b.test.ts\n".repeat(4000)}`
-  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: [whole] }, LOGS)
-  const refused = rowIn(root)["refused"] as readonly string[]
+  const refused = rowOf({ ...CLEAN, refusals: [whole] })["refused"] as readonly string[]
   expect(refused[0]?.length).toBeLessThan(whole.length)
   expect(refused[0]).toContain("many files failed:")
 })
 
 test("more refusals than a row holds are left off, and the row says how many there were", () => {
-  const root = pageIn()
   const many = Array.from({ length: 1000 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(90)}`)
-  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: many }, LOGS)
-  const refused = rowIn(root)["refused"] as readonly string[]
+  const refused = rowOf({ ...CLEAN, refusals: many })["refused"] as readonly string[]
   expect(refused.length).toBeLessThan(many.length)
   expect(refused[refused.length - 1]).toContain("1000 refusals in all")
 })
 
 test("every refusal a check with hundreds of them found is on the row", () => {
-  const root = pageIn()
   const many = Array.from({ length: 200 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(60)}`)
-  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: many }, LOGS)
-  expect((rowIn(root)["refused"] as readonly string[]).length).toBe(many.length)
+  expect((rowOf({ ...CLEAN, refusals: many })["refused"] as readonly string[]).length).toBe(
+    many.length
+  )
 })

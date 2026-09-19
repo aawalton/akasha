@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { type Cost, recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import type { Cost } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   heldTo,
@@ -142,24 +142,4 @@ export function answerLine(ran: string, verdict: Verdict): string {
     refused: refusedHeld(verdict.refusals),
     unrun: verdict.unrun,
   })
-}
-
-export function verdictRecorded(
-  root: string,
-  page: string,
-  cost: Cost,
-  verdict: Verdict,
-  under: string
-): string | null {
-  return recorded(root, page, `${loggedLine(cost, verdict)}\n`, under)
-}
-
-export function verdictAnswered(
-  root: string,
-  page: string,
-  ran: string,
-  verdict: Verdict,
-  under: string
-): string | null {
-  return recorded(root, page, `${answerLine(ran, verdict)}\n`, under)
 }

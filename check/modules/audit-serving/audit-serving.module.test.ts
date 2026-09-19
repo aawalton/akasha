@@ -22,6 +22,7 @@ import {
   CLEAN,
   carrying,
   checked,
+  cleanKept,
   gathered,
   into,
   LOGS,
@@ -33,7 +34,6 @@ import {
 } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
 import {
   type Verdict,
-  verdictAnswered,
   verdictLogged,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
@@ -246,7 +246,7 @@ test("a check with no verdict yet is run, and the verdict is kept", async () => 
 test("an asker whose check is clean at the asker's commit starts no run", async () => {
   const { root, made } = await repoOf(2)
   const one = checked("typecheck", root)
-  verdictAnswered(root, one.page, one.slug, { ...CLEAN, commit: made[1] ?? "" }, LOGS)
+  await cleanKept(root, one, made[1] ?? "")
   const ran = await auditOne({
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
@@ -263,7 +263,7 @@ test("an asker whose check is clean at the asker's commit starts no run", async 
 test("an asker at a commit after the verdict is run again", async () => {
   const { root, made } = await repoOf(2)
   const one = checked("typecheck", root)
-  verdictAnswered(root, one.page, one.slug, { ...CLEAN, commit: made[0] ?? "" }, LOGS)
+  await cleanKept(root, one, made[0] ?? "")
   const ran = await auditOne({
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
@@ -281,7 +281,7 @@ test("an asker at a commit after the verdict is run again", async () => {
 test("a check whose input never moved is carried onto the newer commit in its log", async () => {
   const { root, made } = await repoOf(2)
   const one = { ...checked("shell-clean", root), isInput: (path: string) => path.endsWith(".sh") }
-  verdictAnswered(root, one.page, one.slug, { ...CLEAN, commit: made[0] ?? "" }, LOGS)
+  await cleanKept(root, one, made[0] ?? "")
   const ran = await auditOne({
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
