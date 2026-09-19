@@ -77,7 +77,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts"}

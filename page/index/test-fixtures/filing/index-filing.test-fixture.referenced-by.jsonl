@@ -19,7 +19,6 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"}

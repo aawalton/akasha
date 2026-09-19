@@ -34,7 +34,6 @@ export const checkCode = {
     "check-code/index-is-level-with-the-pages",
     "check-code/instant-property-slug-closes-with-at",
     "check-code/introduced-property-is-a-part",
-    "check-code/decision-restated-on-a-part-narrows-it",
     "check-code/key-names-one-property",
     "check-code/lint-clean",
     "check-code/manifest-lands-on-a-file",

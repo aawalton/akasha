@@ -9,10 +9,6 @@
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/decision-restated-on-a-part-narrows-it/decision-restated-on-a-part-narrows-it.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.test.ts"}
