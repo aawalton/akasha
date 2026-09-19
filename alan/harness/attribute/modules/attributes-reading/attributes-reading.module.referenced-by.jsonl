@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"command/pages/refresh/attribute/refresh-attribute.command.code.ts"}
+{"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"command/pages/refresh/attribute/refresh-attribute.command.test.ts"}
 {"propertySlug":"parts","path":"alan/harness/attribute/alan-harness-attribute.domain.ts","id":"01a0687a-f498-76b9-9a54-205509f15f64"}

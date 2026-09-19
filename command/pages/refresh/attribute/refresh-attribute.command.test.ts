@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import {
+  STRENGTH_PAGE,
+  WISDOM_PAGE,
+} from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   answering,
@@ -47,14 +51,8 @@ function keeping(upTo: number): Keeping {
   }
 }
 
-const AT = "alan/attribute/readouts"
-
-const STRENGTH = `${AT}/attribute-strength/attribute-strength.readout.ts`
-
-const WISDOM = `${AT}/attribute-wisdom/attribute-wisdom.readout.ts`
-
 test("each readout's figure is filed under the attribute that readout counts", () => {
-  expect([...slugsIn({ [STRENGTH]: 4.5, [WISDOM]: 1 })]).toEqual([
+  expect([...slugsIn({ [STRENGTH_PAGE]: 4.5, [WISDOM_PAGE]: 1 })]).toEqual([
     ["strength", 4.5],
     ["wisdom", 1],
   ])
@@ -65,7 +63,7 @@ test("a figure whose readout counts no attribute is left out", () => {
 })
 
 test("a figure of zero is a figure rather than an absent one", () => {
-  expect([...slugsIn({ [STRENGTH]: 0 })]).toEqual([["strength", 0]])
+  expect([...slugsIn({ [STRENGTH_PAGE]: 0 })]).toEqual([["strength", 0]])
 })
 
 test("one attribute rebuilt is said in the singular", () => {
