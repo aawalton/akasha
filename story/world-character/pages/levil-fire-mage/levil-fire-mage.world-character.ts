@@ -9,4 +9,5 @@ export const levilFireMage = {
   firstChapter: 337,
   lastChapter: 337,
   characterClaims: "jsonl",
+  aliasOf: "world-character/levil",
 } as const satisfies WorldCharacter

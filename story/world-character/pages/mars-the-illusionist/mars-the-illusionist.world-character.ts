@@ -9,4 +9,5 @@ export const marsTheIllusionist = {
   firstChapter: 440,
   lastChapter: 440,
   characterClaims: "jsonl",
+  aliasOf: "world-character/mars",
 } as const satisfies WorldCharacter

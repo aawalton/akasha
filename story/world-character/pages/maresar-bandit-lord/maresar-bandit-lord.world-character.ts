@@ -9,4 +9,5 @@ export const maresarBanditLord = {
   firstChapter: 559,
   lastChapter: 559,
   characterClaims: "jsonl",
+  aliasOf: "world-character/maresar",
 } as const satisfies WorldCharacter

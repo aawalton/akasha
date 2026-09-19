@@ -9,4 +9,5 @@ export const sacraOdveig = {
   firstChapter: 250,
   lastChapter: 250,
   characterClaims: "jsonl",
+  aliasOf: "world-character/sacra",
 } as const satisfies WorldCharacter

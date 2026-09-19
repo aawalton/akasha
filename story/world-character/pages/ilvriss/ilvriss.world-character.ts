@@ -11,4 +11,5 @@ export const ilvriss = {
   firstChapter: 101,
   lastChapter: 824,
   characterClaims: "jsonl",
+  aliasOf: "world-character/ilvriss-gemscale",
 } as const satisfies WorldCharacter

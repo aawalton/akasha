@@ -9,4 +9,5 @@ export const persua = {
   firstChapter: 29,
   lastChapter: 601,
   characterClaims: "jsonl",
+  aliasOf: "world-character/persua-mavva",
 } as const satisfies WorldCharacter

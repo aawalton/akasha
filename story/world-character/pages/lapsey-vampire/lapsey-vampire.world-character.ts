@@ -9,4 +9,5 @@ export const lapseyVampire = {
   firstChapter: 715,
   lastChapter: 715,
   characterClaims: "jsonl",
+  aliasOf: "world-character/lapsey",
 } as const satisfies WorldCharacter

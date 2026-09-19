@@ -9,4 +9,5 @@ export const mivifa = {
   firstChapter: 464,
   lastChapter: 794,
   characterClaims: "jsonl",
+  aliasOf: "world-character/mivifa-selifscale",
 } as const satisfies WorldCharacter

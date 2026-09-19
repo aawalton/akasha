@@ -9,4 +9,5 @@ export const jewelOfGlitterblade = {
   firstChapter: 641,
   lastChapter: 641,
   characterClaims: "jsonl",
+  aliasOf: "world-character/jewel",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const pellmia = {
   firstChapter: 290,
   lastChapter: 290,
   characterClaims: "jsonl",
+  aliasOf: "world-character/pellmia-quellae",
 } as const satisfies WorldCharacter

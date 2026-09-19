@@ -9,4 +9,5 @@ export const peclir = {
   firstChapter: 575,
   lastChapter: 575,
   characterClaims: "jsonl",
+  aliasOf: "world-character/peclir-im",
 } as const satisfies WorldCharacter

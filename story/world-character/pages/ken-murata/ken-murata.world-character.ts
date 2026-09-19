@@ -11,4 +11,5 @@ export const kenMurata = {
   firstChapter: 198,
   lastChapter: 198,
   characterClaims: "jsonl",
+  aliasOf: "world-character/kenjiro-murata",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const kasignaCrone = {
   firstChapter: 741,
   lastChapter: 741,
   characterClaims: "jsonl",
+  aliasOf: "world-character/kasigna",
 } as const satisfies WorldCharacter

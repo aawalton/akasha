@@ -9,4 +9,5 @@ export const pawnApostle = {
   firstChapter: 753,
   lastChapter: 757,
   characterClaims: "jsonl",
+  aliasOf: "world-character/pawn",
 } as const satisfies WorldCharacter

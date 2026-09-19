@@ -11,4 +11,5 @@ export const normen = {
   firstChapter: 597,
   lastChapter: 784,
   characterClaims: "jsonl",
+  aliasOf: "world-character/normen-callsten",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const klbkchTheSlayer = {
   firstChapter: 113,
   lastChapter: 113,
   characterClaims: "jsonl",
+  aliasOf: "world-character/klbkch",
 } as const satisfies WorldCharacter

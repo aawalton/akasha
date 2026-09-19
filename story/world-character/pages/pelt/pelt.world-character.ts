@@ -9,4 +9,5 @@ export const pelt = {
   firstChapter: 324,
   lastChapter: 627,
   characterClaims: "jsonl",
+  aliasOf: "world-character/pelt-dooristone",
 } as const satisfies WorldCharacter

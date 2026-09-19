@@ -11,4 +11,5 @@ export const jelaqua = {
   firstChapter: 96,
   lastChapter: 786,
   characterClaims: "jsonl",
+  aliasOf: "world-character/jelaqua-ivirith",
 } as const satisfies WorldCharacter

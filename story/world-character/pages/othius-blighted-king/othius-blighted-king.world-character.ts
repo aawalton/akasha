@@ -9,4 +9,5 @@ export const othiusBlightedKing = {
   firstChapter: 437,
   lastChapter: 437,
   characterClaims: "jsonl",
+  aliasOf: "world-character/othius-iv",
 } as const satisfies WorldCharacter

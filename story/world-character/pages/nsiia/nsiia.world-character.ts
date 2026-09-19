@@ -9,4 +9,5 @@ export const nsiia = {
   firstChapter: 326,
   lastChapter: 554,
   characterClaims: "jsonl",
+  aliasOf: "world-character/nsiia-oliphant",
 } as const satisfies WorldCharacter

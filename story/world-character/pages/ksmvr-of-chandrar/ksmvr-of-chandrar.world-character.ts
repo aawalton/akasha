@@ -9,4 +9,5 @@ export const ksmvrOfChandrar = {
   firstChapter: 553,
   lastChapter: 553,
   characterClaims: "jsonl",
+  aliasOf: "world-character/ksmvr",
 } as const satisfies WorldCharacter

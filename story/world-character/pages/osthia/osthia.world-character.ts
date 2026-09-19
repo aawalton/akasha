@@ -11,4 +11,5 @@ export const osthia = {
   firstChapter: 301,
   lastChapter: 822,
   characterClaims: "jsonl",
+  aliasOf: "world-character/osthia-blackwing",
 } as const satisfies WorldCharacter

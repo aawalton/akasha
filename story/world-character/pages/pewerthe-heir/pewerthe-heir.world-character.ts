@@ -9,4 +9,5 @@ export const pewertheHeir = {
   firstChapter: 808,
   lastChapter: 808,
   characterClaims: "jsonl",
+  aliasOf: "world-character/pewerthe",
 } as const satisfies WorldCharacter

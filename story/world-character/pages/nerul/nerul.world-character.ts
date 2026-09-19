@@ -9,4 +9,5 @@ export const nerul = {
   firstChapter: 489,
   lastChapter: 664,
   characterClaims: "jsonl",
+  aliasOf: "world-character/nerul-gemscale",
 } as const satisfies WorldCharacter

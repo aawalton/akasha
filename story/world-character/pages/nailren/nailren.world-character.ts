@@ -11,4 +11,5 @@ export const nailren = {
   firstChapter: 268,
   lastChapter: 818,
   characterClaims: "jsonl",
+  aliasOf: "world-character/nailren-fletchsing",
 } as const satisfies WorldCharacter

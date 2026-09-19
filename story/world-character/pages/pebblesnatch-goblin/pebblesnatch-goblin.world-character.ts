@@ -9,4 +9,5 @@ export const pebblesnatchGoblin = {
   firstChapter: 519,
   lastChapter: 519,
   characterClaims: "jsonl",
+  aliasOf: "world-character/pebblesnatch",
 } as const satisfies WorldCharacter

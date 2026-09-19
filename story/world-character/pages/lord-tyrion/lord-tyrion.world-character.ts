@@ -9,4 +9,5 @@ export const lordTyrion = {
   firstChapter: 111,
   lastChapter: 250,
   characterClaims: "jsonl",
+  aliasOf: "world-character/tyrion-veltras",
 } as const satisfies WorldCharacter

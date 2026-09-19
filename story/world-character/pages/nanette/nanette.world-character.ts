@@ -11,4 +11,5 @@ export const nanette = {
   firstChapter: 351,
   lastChapter: 812,
   characterClaims: "jsonl",
+  aliasOf: "world-character/nanette-weishart",
 } as const satisfies WorldCharacter

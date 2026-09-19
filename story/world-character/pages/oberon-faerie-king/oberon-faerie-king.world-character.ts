@@ -9,4 +9,5 @@ export const oberonFaerieKing = {
   firstChapter: 482,
   lastChapter: 482,
   characterClaims: "jsonl",
+  aliasOf: "world-character/oberon",
 } as const satisfies WorldCharacter

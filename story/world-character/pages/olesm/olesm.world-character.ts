@@ -11,4 +11,5 @@ export const olesm = {
   firstChapter: 19,
   lastChapter: 658,
   characterClaims: "jsonl",
+  aliasOf: "world-character/olesm-swifttail",
 } as const satisfies WorldCharacter

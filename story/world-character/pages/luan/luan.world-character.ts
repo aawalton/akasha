@@ -9,4 +9,5 @@ export const luan = {
   firstChapter: 196,
   lastChapter: 695,
   characterClaims: "jsonl",
+  aliasOf: "world-character/luan-khumalo",
 } as const satisfies WorldCharacter

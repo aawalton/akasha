@@ -9,4 +9,5 @@ export const ladyCalva = {
   firstChapter: 720,
   lastChapter: 720,
   characterClaims: "jsonl",
+  aliasOf: "world-character/lady-calva-lanight",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const luppFarmer = {
   firstChapter: 337,
   lastChapter: 337,
   characterClaims: "jsonl",
+  aliasOf: "world-character/lupp",
 } as const satisfies WorldCharacter

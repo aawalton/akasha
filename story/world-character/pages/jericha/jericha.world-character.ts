@@ -9,4 +9,5 @@ export const jericha = {
   firstChapter: 478,
   lastChapter: 478,
   characterClaims: "jsonl",
+  aliasOf: "world-character/jericha-synthel",
 } as const satisfies WorldCharacter

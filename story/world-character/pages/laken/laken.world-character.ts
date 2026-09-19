@@ -11,4 +11,5 @@ export const laken = {
   firstChapter: 125,
   lastChapter: 763,
   characterClaims: "jsonl",
+  aliasOf: "world-character/laken-godart",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const navine = {
   firstChapter: 366,
   lastChapter: 663,
   characterClaims: "jsonl",
+  aliasOf: "world-character/navine-gemscale",
 } as const satisfies WorldCharacter

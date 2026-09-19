@@ -9,4 +9,5 @@ export const luciva = {
   firstChapter: 803,
   lastChapter: 810,
   characterClaims: "jsonl",
+  aliasOf: "world-character/luciva-skybreath",
 } as const satisfies WorldCharacter

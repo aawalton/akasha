@@ -9,4 +9,5 @@ export const niers = {
   firstChapter: 123,
   lastChapter: 802,
   characterClaims: "jsonl",
+  aliasOf: "world-character/niers-astoragon",
 } as const satisfies WorldCharacter

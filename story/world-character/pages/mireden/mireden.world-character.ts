@@ -9,4 +9,5 @@ export const mireden = {
   firstChapter: 790,
   lastChapter: 790,
   characterClaims: "jsonl",
+  aliasOf: "world-character/mireden-raithland",
 } as const satisfies WorldCharacter
