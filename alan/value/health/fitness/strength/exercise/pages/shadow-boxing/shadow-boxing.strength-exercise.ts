@@ -24,4 +24,5 @@ export const shadowBoxing = {
   skillCost: "low",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  instructions: "txt",
 } as const satisfies StrengthExercise

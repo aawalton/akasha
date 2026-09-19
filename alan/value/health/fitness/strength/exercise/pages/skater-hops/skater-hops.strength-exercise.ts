@@ -24,4 +24,5 @@ export const skaterHops = {
   skillCost: "moderate",
   exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
+  instructions: "txt",
 } as const satisfies StrengthExercise
