@@ -1,0 +1,11 @@
+import type { StoryDesignNote } from "akasha/story/world/design-notes/story-design-note.page-type.types.ts"
+
+export const theTowerSheetsAshling01 = {
+  id: "01a0657d-bb98-73e8-a306-25d82e563ba1",
+  type: "page-type/story-design-note",
+  slug: "the-tower-sheets-ashling-01",
+  title: "ashling-01",
+  world: "world/personas",
+  subject: "sheets",
+  prose: "txt",
+} as const satisfies StoryDesignNote

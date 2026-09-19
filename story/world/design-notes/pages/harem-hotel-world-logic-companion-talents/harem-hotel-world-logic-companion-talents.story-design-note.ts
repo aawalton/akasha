@@ -1,0 +1,11 @@
+import type { StoryDesignNote } from "akasha/story/world/design-notes/story-design-note.page-type.types.ts"
+
+export const haremHotelWorldLogicCompanionTalents = {
+  id: "01a0657d-bb98-7dc0-9e42-c1e378a687c4",
+  type: "page-type/story-design-note",
+  slug: "harem-hotel-world-logic-companion-talents",
+  title: "Companion Talents",
+  world: "world/personas",
+  subject: "world-logic",
+  prose: "txt",
+} as const satisfies StoryDesignNote

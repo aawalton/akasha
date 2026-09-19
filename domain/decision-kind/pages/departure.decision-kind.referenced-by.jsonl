@@ -3200,11 +3200,6 @@
 {"propertySlug":"decision-kind","path":"story/chapter-read/properties/removed-at.instant-property.ts","id":"01a06554-d8bd-779b-9fbf-e9e8e3127e1f"}
 {"propertySlug":"decision-kind","path":"story/chapter-read/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"decision-kind","path":"story/chapter-written/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
-{"propertySlug":"decision-kind","path":"story/decision/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
-{"propertySlug":"decision-kind","path":"story/design-note/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
-{"propertySlug":"decision-kind","path":"story/design/properties/arc-structure.file-property.ts","id":"01a06577-f385-7d82-9322-ca4e27181d96"}
-{"propertySlug":"decision-kind","path":"story/design/properties/story-premise.file-property.ts","id":"01a06577-f385-7179-9713-a0ebc7944548"}
-{"propertySlug":"decision-kind","path":"story/design/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"decision-kind","path":"story/element-played/properties/element-kind.select-property.ts","id":"01a06828-cb97-7ee3-9578-4a81ad1884a6"}
 {"propertySlug":"decision-kind","path":"story/element-played/properties/turn-states.file-property.ts","id":"01a06828-cb99-70d4-bcad-c28091bb8c4c"}
 {"propertySlug":"decision-kind","path":"story/element-played/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
@@ -3266,6 +3261,11 @@
 {"propertySlug":"decision-kind","path":"story/world-mechanic/properties/references.page-property-entry.ts","id":"01a06558-a991-78a4-abf8-48597f34d759"}
 {"propertySlug":"decision-kind","path":"story/world-mechanic/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
+{"propertySlug":"decision-kind","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
+{"propertySlug":"decision-kind","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
+{"propertySlug":"decision-kind","path":"story/world/designs/properties/arc-structure.file-property.ts","id":"01a06577-f385-7d82-9322-ca4e27181d96"}
+{"propertySlug":"decision-kind","path":"story/world/designs/properties/story-premise.file-property.ts","id":"01a06577-f385-7179-9713-a0ebc7944548"}
+{"propertySlug":"decision-kind","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-readings.page-property-entry.ts","id":"01a063ce-6216-7001-b3f6-26b45c0bef56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-readings.page-property-entry.ts","id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-kind.select-property.ts","id":"01a063ce-6216-7005-95f1-cc6876e8a107"}

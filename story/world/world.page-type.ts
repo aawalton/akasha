@@ -16,6 +16,9 @@ export const world = {
     "text-property/reading-name",
     "text-property/reading-slug",
     "page-type/story-build",
+    "page-type/story-decision",
+    "page-type/story-design-note",
+    "page-type/story-design",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

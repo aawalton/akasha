@@ -114,8 +114,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/mobile-wallpaper.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/design/properties/arc-structure.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/design/properties/story-premise.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/element-played/properties/turn-states.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/gate-dimensions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/policies.file-property.ts"}
@@ -137,6 +135,8 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/tower-sessions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/turns.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/played/properties/prose.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-account/properties/data.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-player/properties/settings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/thing/properties/completion.file-property.ts"}

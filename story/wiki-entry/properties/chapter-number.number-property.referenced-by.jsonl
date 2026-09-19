@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"chapter-number.number-property.types.ts","path":"story/decision/story-decision.page-type.types.ts"}
 {"propertySlug":"import","fileName":"chapter-number.number-property.types.ts","path":"story/wiki-entry/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"chapter-number.number-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
-{"propertySlug":"page-property","path":"story/decision/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
+{"propertySlug":"import","fileName":"chapter-number.number-property.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts"}
 {"propertySlug":"page-property","path":"story/wiki-entry/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
+{"propertySlug":"page-property","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"parts","path":"story/wiki-entry/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}

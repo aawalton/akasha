@@ -107,7 +107,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-standing.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/chapter-read/properties/anchor-tier.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/decision/properties/decision-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/element-played/properties/element-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/controlled-entity-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/mechanics-weight.select-property.ts"}
@@ -115,6 +114,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/named-event/properties/named-event-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/read/properties/publication-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/wiki-entry/properties/wiki-kind.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/decisions/properties/decision-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/properties/reading-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/character/character-build/properties/build-visibility.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/character/companion-build/properties/base-roles.select-property.ts"}

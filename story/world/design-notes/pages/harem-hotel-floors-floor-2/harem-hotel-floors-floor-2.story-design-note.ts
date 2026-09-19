@@ -1,0 +1,11 @@
+import type { StoryDesignNote } from "akasha/story/world/design-notes/story-design-note.page-type.types.ts"
+
+export const haremHotelFloorsFloor2 = {
+  id: "01a0657d-bb98-79ce-9240-8627ef8573e5",
+  type: "page-type/story-design-note",
+  slug: "harem-hotel-floors-floor-2",
+  title: "Floor 2",
+  world: "world/personas",
+  subject: "floors",
+  prose: "txt",
+} as const satisfies StoryDesignNote

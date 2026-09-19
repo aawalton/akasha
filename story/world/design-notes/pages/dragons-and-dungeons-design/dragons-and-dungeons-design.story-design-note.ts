@@ -1,0 +1,11 @@
+import type { StoryDesignNote } from "akasha/story/world/design-notes/story-design-note.page-type.types.ts"
+
+export const dragonsAndDungeonsDesign = {
+  id: "01a0657d-bb98-7094-addd-60c0c2b1bee5",
+  type: "page-type/story-design-note",
+  slug: "dragons-and-dungeons-design",
+  title: "Dragons & Dungeons — a tabletop game run for one mortal",
+  world: "world/personas",
+  subject: "dragons-and-dungeons",
+  prose: "txt",
+} as const satisfies StoryDesignNote
