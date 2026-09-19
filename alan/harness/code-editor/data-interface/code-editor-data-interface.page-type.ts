@@ -19,6 +19,7 @@ export const codeEditorDataInterface = {
     "file-property/state",
     "module/command-tree-assemble",
     "module/data-watching",
+    "module/domain-tree-hanging",
     "module/finding-tree-assemble",
     "module/group-stoplights",
     "module/page-tree-assemble",

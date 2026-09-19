@@ -4,7 +4,7 @@ export const findingTreeAssemble = {
   id: "01a0b733-1334-745d-9d31-186baa85e4a2",
   type: "page-type/module",
   slug: "finding-tree-assemble",
-  definition: "the tree of findings the domains they name are turned into",
+  definition: "the findings read out of the pages, each hung on the domain that finding names",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,27 +14,11 @@ export const findingTreeAssemble = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The domains are nested here the way the domains panel nests them.",
+      statement: "A finding is drawn as the sentence that finding says.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A domain with no finding beneath it anywhere is left out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A domain's count is every finding beneath it rather than every row beneath it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That count reaches the whole descent rather than the findings hanging directly.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A finding carries no count of its own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A domain's own findings are drawn after the domains beneath it.",
+      statement: "A finding opens the file that finding is written in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,16 +26,11 @@ export const findingTreeAssemble = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A finding naming a domain the nesting never reached is drawn as a root of its own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every domain named that way is reported unreached as well as drawn.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A finding missing the domain it is of or the sentence it says is skipped.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here nests the domains or counts what hangs on them.",
     },
     {
       decisionKind: "decision-kind/absence",

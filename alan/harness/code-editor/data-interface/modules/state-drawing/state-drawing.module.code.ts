@@ -1,9 +1,7 @@
 import { join } from "node:path"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
-import {
-  assembleFindingTree,
-  type FindingNode,
-} from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
+import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
+import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
@@ -70,13 +68,13 @@ function domainTreeLine(root: string, given: string | Reading = root): string {
   } satisfies DomainTreeState)
 }
 
-function findingRow(root: string, node: FindingNode): FindingTreeRow {
+function findingRow(root: string, node: HungNode): FindingTreeRow {
   return {
     key: node.key,
     label: node.label,
     at: wholePath(root, node.at),
     color: null,
-    findings: node.findings,
+    findings: node.count,
     children: node.children.map((child) => findingRow(root, child)),
   }
 }
