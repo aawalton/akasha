@@ -17,4 +17,6 @@
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
+{"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"story/world-character/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/add/change-mechanical-file-add.domain.ts","id":"01a07cbe-0ba6-7171-9d7d-de7707aec829"}

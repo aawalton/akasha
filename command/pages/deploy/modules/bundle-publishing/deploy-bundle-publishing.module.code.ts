@@ -1,6 +1,8 @@
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
@@ -44,7 +46,7 @@ const IMAGE_SLUG = "addon-bundle-image"
 
 const IMAGE_KEY = "addonBundleImage"
 
-const PUT = "change-mechanical/add-file-code"
+const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the addon bundle image the cluster pulls, named by the content it was built from"
 

@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import {
   type Asked,
   batchIn,
@@ -68,10 +71,13 @@ test("a path put names the change adding a body and a path taken away the change
   const held = asking({ puts: [{ path: "akasha/a.ts", content: "x" }], removes: ["akasha/b.ts"] })
   expect(editsIn(held)).toEqual([
     {
-      at: "change-mechanical-file/add-if-not-present-file",
+      at: `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}`,
       given: { at: "akasha/a.ts", body: "x" },
     },
-    { at: "change-mechanical-file/remove-file", given: { at: "akasha/b.ts" } },
+    {
+      at: `${changeMechanicalFile.slug}/${removeFile.slug}`,
+      given: { at: "akasha/b.ts" },
+    },
   ])
 })
 

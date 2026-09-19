@@ -1,3 +1,5 @@
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
@@ -10,7 +12,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 const SYNC_PAGE_TYPE = "sync"
 const SYNC_RUNS = "sync-runs"
 const JSONL = "jsonl"
-const PUT = "change-mechanical-file/add-file"
+const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
 const RUNNING = "running"
 const FAILED = "failed"

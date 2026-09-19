@@ -1,4 +1,6 @@
 import { linkFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -18,7 +20,7 @@ import {
   STORY_SLUG,
 } from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
 
-const PUT = "change-mechanical/add-file-of-any-kind"
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const PAGE_TYPE = "page-type"
 const PROSE = "prose"
 const TXT = "txt"

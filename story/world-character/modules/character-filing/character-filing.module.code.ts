@@ -1,5 +1,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -20,7 +22,7 @@ const CHARACTER_PAGE_TYPE = "world-character"
 const CHAPTER_PAGE_TYPE = "story-chapter-read"
 const STORY_ADDRESS = "story-read/the-wandering-inn"
 const WORLD_ADDRESS = "world/the-wandering-inn"
-const PUT = "change-mechanical/add-file-of-any-kind"
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const CHARACTER = "character"
 const CLAIMS = "characterClaims"
 const JSON_ENDING = ".json"
