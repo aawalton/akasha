@@ -14,7 +14,6 @@ export const girlInRedStay = {
   ],
   title: "STAY",
   artist: "artist/girl-in-red",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

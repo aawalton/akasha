@@ -14,7 +14,6 @@ export const girlInRedGirlfriendIsBetter = {
   ],
   title: "Girlfriend Is Better",
   artist: "artist/girl-in-red",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
