@@ -73,6 +73,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/biome-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/bun-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/docker-ignore.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/editor-settings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/lockfile.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/secrets-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/typescript-base-config.file-property.ts"}

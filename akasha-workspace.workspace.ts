@@ -26,4 +26,5 @@ export const akashaWorkspace = {
     "@capacitor/status-bar",
     "@playwright/mcp",
   ],
+  editorSettings: "json",
 } as const satisfies Workspace

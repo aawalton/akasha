@@ -1,0 +1,48 @@
+{
+  "chat.agentsControl.enabled": false,
+  "workbench.activityBar.location": "top",
+  "workbench.tree.indent": 16,
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Dark 2026",
+  "workbench.layoutControl.enabled": true,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.editor.autoLockGroups": {
+    "terminalEditor": false
+  },
+  "explorer.confirmDragAndDrop": false,
+  "files.exclude": {
+    "**/node_modules": true,
+    "akasha-backup-*": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "akasha-backup-*": true
+  },
+  "files.watcherExclude": {
+    "**/agent/seat/*.lock": true,
+    "**/.git/**": true,
+    "**/node_modules/**": true,
+    "akasha-backup-*/**": true
+  },
+  "terminal.integrated.mouseWheelScrollSensitivity": 3,
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.initialHint": false,
+  "terminal.integrated.tabs.description": "",
+  "terminal.integrated.confirmOnExit": "never",
+  "terminal.integrated.confirmOnKill": "always",
+  "terminal.integrated.enablePersistentSessions": true,
+  "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose",
+  "terminal.integrated.scrollback": 50000,
+  "terminal.integrated.commandsToSkipShell": [
+    "opsAgentTree.enterInSeatTerminal",
+    "opsAgentTree.openLineInSeatTerminal",
+    "workbench.view.extension.opsAgents",
+    "workbench.view.extension.opsDomains",
+    "workbench.view.extension.opsWork",
+    "workbench.view.extension.opsPages",
+    "workbench.view.extension.opsCommands",
+    "workbench.view.extension.opsServices",
+    "opsTranscript.open"
+  ]
+}

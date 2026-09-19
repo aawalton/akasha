@@ -2,6 +2,7 @@
 {"bunConfig":"toml"}
 {"definition":"every package in this tree, installed as one"}
 {"dockerIgnore":"dockerignore"}
+{"editorSettings":"json"}
 {"id":"01a06cbb-60a1-73d5-88dc-0ffa3d84c96d"}
 {"lockfile":"lock"}
 {"packageDirectory":true}

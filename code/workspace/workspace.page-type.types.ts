@@ -1,6 +1,7 @@
 import type { BiomeConfig } from "akasha/code/workspace/properties/biome-config.file-property.types.ts"
 import type { BunConfig } from "akasha/code/workspace/properties/bun-config.file-property.types.ts"
 import type { DockerIgnore } from "akasha/code/workspace/properties/docker-ignore.file-property.types.ts"
+import type { EditorSettings } from "akasha/code/workspace/properties/editor-settings.file-property.types.ts"
 import type { Lockfile } from "akasha/code/workspace/properties/lockfile.file-property.types.ts"
 import type { PackageDirectory } from "akasha/code/workspace/properties/package-directory.build-folder-property.types.ts"
 import type { SecretsConfig } from "akasha/code/workspace/properties/secrets-config.file-property.types.ts"
@@ -25,4 +26,5 @@ export type Workspace = Domain & {
   workspaceGitIgnore: WorkspaceGitIgnore
   packageDirectory?: PackageDirectory
   toolReached?: ToolReached
+  editorSettings: EditorSettings
 }

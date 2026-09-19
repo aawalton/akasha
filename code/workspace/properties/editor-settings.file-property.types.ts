@@ -1,0 +1,1 @@
+export type EditorSettings = "json"

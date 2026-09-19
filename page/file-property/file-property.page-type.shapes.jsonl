@@ -31,6 +31,7 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"desktop-wallpaper","propertySlug":"desktop-wallpaper","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"display-config","propertySlug":"display-config","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"docker-ignore","propertySlug":"docker-ignore","fileName":".dockerignore","folderName":null,"sorted":false}
+{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"editor-settings","propertySlug":"editor-settings","fileName":".vscode/settings.json","folderName":null,"sorted":false}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"edits","propertySlug":"edits","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"entities","propertySlug":"entities","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"entitlements","propertySlug":"entitlements","fileName":null,"folderName":null,"sorted":false}
