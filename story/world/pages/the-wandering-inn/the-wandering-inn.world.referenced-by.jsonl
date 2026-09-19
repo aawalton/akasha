@@ -6074,13 +6074,6 @@
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/yodelling-lieutenant/yodelling-lieutenant.world-class.ts","id":"01a0657e-0272-7750-84e7-9ed57166e14b"}
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/young-hunter/young-hunter.world-class.ts","id":"01a06586-0a85-7f34-8f9e-21bbf1b74824"}
 {"propertySlug":"world","path":"story/world/mechanics/classes/pages/z-v-na/z-v-na.world-class.ts","id":"01a0657e-0272-7b57-84a4-1fde25335894"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/basic-quest/basic-quest.world-quest.ts","id":"01a0655a-0687-7a67-b94e-acb9249a12aa"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/heroic-quest/heroic-quest.world-quest.ts","id":"01a0655a-0687-77e3-8d5a-163c517a554c"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/legendary-quest/legendary-quest.world-quest.ts","id":"01a0655a-0688-72f0-8d16-874303f95a54"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/mythical-quest/mythical-quest.world-quest.ts","id":"01a0655a-0688-764e-b679-2e8865598901"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/rare-quest/rare-quest.world-quest.ts","id":"01a0655a-0688-7c9a-adea-c7a784aaaf37"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/rare-quests/rare-quests.world-quest.ts","id":"01a0655a-0688-7653-a304-234de79c9142"}
-{"propertySlug":"world","path":"story/world/mechanics/quests/pages/royal-quest/royal-quest.world-quest.ts","id":"01a0655a-0688-73dd-b0d8-acefbdff8e3a"}
 {"propertySlug":"world","path":"story/world/mechanics/recipes/pages/close-to-acid-jar/close-to-acid-jar.world-recipe.ts","id":"01a0655a-7b80-76b7-8a54-f55724e11b33"}
 {"propertySlug":"world","path":"story/world/mechanics/recipes/pages/dragonpan-toast/dragonpan-toast.world-recipe.ts","id":"01a0655a-7b80-7ca9-bb9e-76f26fcb9474"}
 {"propertySlug":"world","path":"story/world/mechanics/recipes/pages/infused-dough-scaethen-dough/infused-dough-scaethen-dough.world-recipe.ts","id":"01a0655a-7b80-7197-b817-4c3a170e3ba6"}
@@ -12710,4 +12703,11 @@
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/miracles/upgrade-spell-futuristic-magic.world-miracle.ts","id":"01a0655a-7b7c-786b-96f8-90d2a37f6aa5"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/miracles/we-return-to-safe-harbors.world-miracle.ts","id":"01a0655a-7b7c-7cd8-88e5-ff3603895c2e"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/miracles/witness-it-twice.world-miracle.ts","id":"01a0655a-7b7c-7b2a-b87f-8d6211e031ca"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/basic-quest.world-quest.ts","id":"01a0655a-0687-7a67-b94e-acb9249a12aa"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/heroic-quest.world-quest.ts","id":"01a0655a-0687-77e3-8d5a-163c517a554c"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/legendary-quest.world-quest.ts","id":"01a0655a-0688-72f0-8d16-874303f95a54"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/mythical-quest.world-quest.ts","id":"01a0655a-0688-764e-b679-2e8865598901"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/rare-quest.world-quest.ts","id":"01a0655a-0688-7c9a-adea-c7a784aaaf37"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/rare-quests.world-quest.ts","id":"01a0655a-0688-7653-a304-234de79c9142"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/quests/royal-quest.world-quest.ts","id":"01a0655a-0688-73dd-b0d8-acefbdff8e3a"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}
