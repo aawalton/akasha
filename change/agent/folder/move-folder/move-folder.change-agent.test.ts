@@ -5,6 +5,8 @@ import {
   moveFolder,
   runChange,
 } from "akasha/change/agent/folder/move-folder/move-folder.change-agent.code.ts"
+import { changeMechanicalFolder } from "akasha/change/mechanical/folder/change-mechanical-folder.page-type.ts"
+import { moveFolder as moveFolderMechanical } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { type World, worldAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -58,7 +60,7 @@ const NOT_TEXT = `${FROM}/deep/held.png`
 
 const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0xff, 0xfe, 0x00, 0x11])
 
-const MOVE_FOLDER = "change-mechanical-folder/move-folder"
+const MOVE_FOLDER = `${changeMechanicalFolder.slug}/${moveFolderMechanical.slug}` as const
 
 function worldIn(root: string): World {
   return worldAt(root, bodyIn(root), running)

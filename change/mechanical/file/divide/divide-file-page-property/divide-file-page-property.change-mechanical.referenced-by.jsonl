@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"divide-file-page-property.change-mechanical.code.ts","path":"change/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"divide-file-page-property.change-mechanical.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"divide-file-page-property.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"divide-file-page-property.change-mechanical.ts","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"divide-file-page-property.change-mechanical.ts","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.test.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/divide/change-mechanical-file-divide.domain.ts","id":"01a08df0-768c-7d3b-995c-093cebfb7b67"}

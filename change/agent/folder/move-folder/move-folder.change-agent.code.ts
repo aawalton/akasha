@@ -1,8 +1,10 @@
+import { changeMechanicalFolder } from "akasha/change/mechanical/folder/change-mechanical-folder.page-type.ts"
+import { moveFolder as moveFolderMechanical } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const MOVE_FOLDER = "change-mechanical-folder/move-folder"
+const MOVE_FOLDER = `${changeMechanicalFolder.slug}/${moveFolderMechanical.slug}` as const
 
 const AT = "at"
 

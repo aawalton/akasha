@@ -14,6 +14,10 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/add-file/add-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/move-page/move-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/move-page/move-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/move-pages/move-pages.change-agent.code.ts"}

@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"change-mechanical-folder.page-type.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-folder.page-type.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-folder.page-type.types.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-folder.page-type.types.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.ts"}
 {"propertySlug":"parts","path":"change/mechanical/change-mechanical.page-type.ts","id":"01a078e8-e0c0-7001-9d36-808d02d6c285"}

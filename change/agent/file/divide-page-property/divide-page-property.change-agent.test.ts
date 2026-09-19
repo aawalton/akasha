@@ -1,10 +1,12 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/change/agent/file/divide-page-property/divide-page-property.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { divideFilePageProperty } from "akasha/change/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
 
-const DIVIDE = "change-mechanical/divide-file-page-property"
+const DIVIDE = `${changeMechanical.slug}/${divideFilePageProperty.slug}` as const
 
 const PAGE = "made-up/logs/one/one.made-up-log.ts"
 

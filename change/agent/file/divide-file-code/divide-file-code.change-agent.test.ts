@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { divideFileCodeCommand } from "akasha/change/agent/file/divide-file-code/divide-file-code.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { divideFileCode } from "akasha/change/mechanical/file/divide/divide-file-code/divide-file-code.change-mechanical.ts"
 import {
   addedAt,
   FROM,
@@ -9,7 +11,7 @@ import {
 } from "akasha/change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"
 import { NOTHING_OVER } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const DIVIDED = "change-mechanical/divide-file-code"
+const DIVIDED = `${changeMechanical.slug}/${divideFileCode.slug}` as const
 
 test("the three arguments are answered as the edits the division leaves", async () => {
   const said = await divideFileCodeCommand(worldOf({ [FROM]: HELD }), {
