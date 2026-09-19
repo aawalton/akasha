@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-contribution.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-kofi.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-requests.initiative.ts"}
-{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aine-wiki.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/akasha-findings-to-zero.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/amy-telnyx-approval.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/aranya-misc-cleanup.initiative.ts"}
@@ -12,6 +11,7 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/dalla-offload-to-cluster.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/dalla-resource-management.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/dalla-worktrees.initiative.ts"}
+{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/elin-wiki.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-inventory-rules.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-temper-tasks.initiative.ts"}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/eppie-music-improvements.initiative.ts"}
