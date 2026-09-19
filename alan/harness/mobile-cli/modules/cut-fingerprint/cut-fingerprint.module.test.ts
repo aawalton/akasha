@@ -182,9 +182,9 @@ describe("recordCutFingerprint", () => {
     }
   }
 
-  const UNREADABLE = filing({ valued: () => null })
+  const unreadable = filing({ valued: () => null })
 
-  const UNLANDED = filing({
+  const unlanded = filing({
     changed: () => Promise.resolve({ refusals: ["the change was refused"], code: DATA }),
   })
 
@@ -197,7 +197,7 @@ describe("recordCutFingerprint", () => {
 
   test("a filing whose page will not read still names the commit that took it", async () => {
     const held = await answering(async (done) => {
-      await recordCutFingerprint("alanwalton", BASIS, done, UNREADABLE)
+      await recordCutFingerprint("alanwalton", BASIS, done, unreadable)
       return told([])
     })
 
@@ -210,7 +210,7 @@ describe("recordCutFingerprint", () => {
 
   test("a filing refused before any commit names nothing", async () => {
     const held = await answering(async (done) => {
-      await recordCutFingerprint("alanwalton", BASIS, done, UNLANDED)
+      await recordCutFingerprint("alanwalton", BASIS, done, unlanded)
       return told([])
     })
 

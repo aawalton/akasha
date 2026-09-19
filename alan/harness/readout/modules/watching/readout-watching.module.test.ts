@@ -195,7 +195,7 @@ test("a carry that fails to one site does not stop the carry to another site", a
 })
 
 test("a page of a type a readout reads moving in its folder takes that readout again", async () => {
-  const OTHER_DAY = `${FOLDER}/../1999-01-01/day-1999-01-01.day.ts`
+  const otherDay = `${FOLDER}/../1999-01-01/day-1999-01-01.day.ts`
   let takes = 0
   const held = setupOf({
     watched: [
@@ -204,13 +204,13 @@ test("a page of a type a readout reads moving in its folder takes that readout a
           takes += 1
           return Promise.resolve(takes)
         }),
-        holds: (at) => at === MADE_OF || at === OTHER_DAY,
+        holds: (at) => at === MADE_OF || at === otherDay,
       },
     ],
   })
   held.taking.open()
   await held.taking.settled()
-  held.taking.moved([OTHER_DAY])
+  held.taking.moved([otherDay])
   await held.taking.settled()
   expect(takes).toBe(2)
   expect(held.written).toEqual([

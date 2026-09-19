@@ -163,7 +163,7 @@ function transcriptsHere(): readonly string[] {
 
 export type Filing = (root: string, day: string, counted: readonly Counted[]) => boolean
 
-const FILING: Filing = (root, day, counted) => {
+const filingHere: Filing = (root, day, counted) => {
   const page = dayPageAt(root, day)
   if (page === null) return false
   mergeUncommitted(root, page, { [PERSONA_MESSAGES]: counted })
@@ -174,7 +174,7 @@ export function keepMined(
   root: string,
   mined: readonly Mined[],
   done: string[] = [],
-  filing: Filing = FILING
+  filing: Filing = filingHere
 ): Kept {
   const unfiled: string[] = []
   let days = 0

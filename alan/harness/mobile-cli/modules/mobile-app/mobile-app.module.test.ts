@@ -99,22 +99,22 @@ describe("splitRepoPath", () => {
 })
 
 describe("ringCredentialPartIn", () => {
-  const AT = "one.ios-app.ts"
-  const RING = "shell-script/one-ring-credential"
-  const OTHER = "shell-script/one-widget-target"
+  const at = "one.ios-app.ts"
+  const ring = "shell-script/one-ring-credential"
+  const other = "shell-script/one-widget-target"
 
   test("the ring credential a page names is answered whatever place it is written in", () => {
-    expect(ringCredentialPartIn([RING, OTHER], AT)).toBe(RING)
-    expect(ringCredentialPartIn([OTHER, RING], AT)).toBe(RING)
+    expect(ringCredentialPartIn([ring, other], at)).toBe(ring)
+    expect(ringCredentialPartIn([other, ring], at)).toBe(ring)
   })
 
   test("a page naming two ring credential scripts is refused rather than answered by the first", () => {
-    const two = [RING, "shell-script/two-ring-credential"]
-    expect(() => ringCredentialPartIn(two, AT)).toThrow(InputError)
-    expect(() => ringCredentialPartIn([...two].reverse(), AT)).toThrow(InputError)
+    const two = [ring, "shell-script/two-ring-credential"]
+    expect(() => ringCredentialPartIn(two, at)).toThrow(InputError)
+    expect(() => ringCredentialPartIn([...two].reverse(), at)).toThrow(InputError)
   })
 
   test("a page naming no ring credential script is answered as none", () => {
-    expect(ringCredentialPartIn([OTHER], AT)).toBeNull()
+    expect(ringCredentialPartIn([other], at)).toBeNull()
   })
 })
