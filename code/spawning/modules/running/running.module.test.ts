@@ -319,6 +319,14 @@ test("bytes a reader could not read as text come back whole", () => {
   expect([...done.out]).toEqual([255, 254])
 })
 
+const AFTERWARDS = 20
+
+test("the bytes one run answered are not written over by the runs after it", () => {
+  const first = bytes(["printf", "AAAA"]).out
+  for (let held = 0; held < AFTERWARDS; held += 1) bytes(["printf", "BBBB"])
+  expect(new TextDecoder().decode(first)).toBe("AAAA")
+})
+
 const ROOM = 4096
 
 test("a process held here sits in a leaf of the group made for that hold", () => {

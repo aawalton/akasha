@@ -415,7 +415,7 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
     return {
       code: done.exitCode ?? NO_CODE,
       signal: done.signalCode ?? null,
-      out: new Uint8Array(done.stdout),
+      out: done.stdout,
       err: done.stderr.toString(),
       cpuSeconds: group ?? Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
       peakBytes: peak ?? 0,

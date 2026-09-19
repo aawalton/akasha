@@ -59,6 +59,18 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The bytes answered are the ones the run was captured into rather than a copy.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Capturing a run's output costs nothing until something reads those bytes.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A second buffer holding a run's output again costs what that output holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A process is answered with the processor seconds that process spent.",
     },
     {
