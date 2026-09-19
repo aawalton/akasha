@@ -3,6 +3,8 @@ import {
   removeFolder,
   runChange,
 } from "akasha/change/agent/folder/remove-folder/remove-folder.change-agent.code.ts"
+import { changeMechanicalFolder } from "akasha/change/mechanical/folder/change-mechanical-folder.page-type.ts"
+import { removeFolder as removeFolderMechanical } from "akasha/change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.ts"
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
@@ -12,7 +14,7 @@ import {
 
 const AT = "akasha/code-system"
 
-const REMOVE_FOLDER = "change-mechanical-folder/remove-folder"
+const REMOVE_FOLDER = `${changeMechanicalFolder.slug}/${removeFolderMechanical.slug}` as const
 
 const REFUSED = "`akasha/code-system` holds no body, so nothing is taken away"
 

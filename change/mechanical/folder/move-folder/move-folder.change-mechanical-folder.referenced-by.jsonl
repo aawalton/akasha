@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"move-folder.change-mechanical-folder.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"move-folder.change-mechanical-folder.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"move-folder.change-mechanical-folder.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"move-folder.change-mechanical-folder.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.code.ts"}
 {"propertySlug":"parts","path":"change/mechanical/folder/change-mechanical-folder.page-type.ts","id":"01a07ba6-609c-74fc-9684-d3a8d7baccfb"}

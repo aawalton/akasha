@@ -3,6 +3,8 @@ import {
   addPageProperty,
   runChange,
 } from "akasha/change/agent/page-property/add-page-property/add-page-property.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addPageProperty as addPagePropertyMechanical } from "akasha/change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.ts"
 import { refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
@@ -19,7 +21,7 @@ const TYPE_AT = "akasha/quoin.page-type.ts"
 
 const ALSO_AT = "akasha/quoit.page-type.ts"
 
-const ADD_PAGE_PROPERTY = "change-mechanical/add-page-property"
+const ADD_PAGE_PROPERTY = `${changeMechanical.slug}/${addPagePropertyMechanical.slug}` as const
 
 const REFUSED = "`akasha/quoin.page-type.ts` names no page type"
 
