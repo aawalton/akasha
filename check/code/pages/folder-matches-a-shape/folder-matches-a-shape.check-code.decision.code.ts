@@ -269,7 +269,7 @@ export function partOfOver(index: Paged): (page: Held) => readonly string[] {
   }
 }
 
-const ANY = (): boolean => true
+const anything = (): boolean => true
 
 function namingParts(
   shadow: Shadow,
@@ -282,7 +282,8 @@ function namingParts(
     const more = grouped
       .at(folderOf(page.path))
       .filter(
-        (one) => !found.includes(one) && heldNamed(one, extensionsFor(shadow.index), ANY, carrying)
+        (one) =>
+          !found.includes(one) && heldNamed(one, extensionsFor(shadow.index), anything, carrying)
       )
     return more.length === 0 ? found : [...found, ...more]
   }

@@ -7,9 +7,9 @@ import {
 
 const ROOT = "/repo"
 
-const LIVES = (): boolean => false
+const lives = (): boolean => false
 
-const STILL = { at: () => "abc", moved: () => [], written: () => [], dies: LIVES }
+const STILL = { at: () => "abc", moved: () => [], written: () => [], dies: lives }
 
 test("an audit is handed the root the reconcile is read over", () => {
   let asked = ""
@@ -52,7 +52,7 @@ test("a repository that never moved while the reconcile ran is asked for no span
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",
     written: () => [],
-    dies: LIVES,
+    dies: lives,
     read: () => ({ added: ["path/checks/one.ts.jsonl"], changed: [], went: [] }),
     moved: () => {
       asked += 1
@@ -69,7 +69,7 @@ test("a file a commit landing while the reconcile ran touched refuses nothing", 
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => commits[at++] ?? "",
     written: () => [],
-    dies: LIVES,
+    dies: lives,
     read: () => ({
       added: ["path/checks/one.ts.jsonl"],
       changed: [],
@@ -87,7 +87,7 @@ test("the span asked for runs from the commit the reconcile opened at to the one
   indexIsLevelWithThePages(ROOT, {
     at: () => commits[at++] ?? "",
     written: () => [],
-    dies: LIVES,
+    dies: lives,
     read: () => ({ added: [], changed: [], went: [] }),
     moved: (root, from, to) => {
       asked.push(root, from, to)
@@ -101,7 +101,7 @@ test("a file written and not yet committed refuses nothing", () => {
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",
     moved: () => [],
-    dies: LIVES,
+    dies: lives,
     written: () => ["checks/one.ts"],
     read: () => ({
       added: ["path/checks/one.ts.jsonl"],
@@ -117,7 +117,7 @@ test("the working tree is read before the reconcile and again after it", () => {
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",
     moved: () => [],
-    dies: LIVES,
+    dies: lives,
     written: () => {
       seen.push("read")
       return seen.length > 1 ? ["checks/late.ts"] : []
@@ -169,5 +169,5 @@ test("a mortal page is read out of every drift the reconcile names", () => {
 
 test("a page type that is not mortal is read out of no drift", () => {
   const drift = { added: ["path/checks/one.ts.jsonl"], changed: [], went: [] }
-  expect(livingIn(drift, LIVES)).toEqual(drift)
+  expect(livingIn(drift, lives)).toEqual(drift)
 })

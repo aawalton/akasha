@@ -131,14 +131,14 @@ test("a subfolder a file the page's own property names sits under is a part", ()
   expect(judged([DEEP], ["model.page-type.ts"])).toHaveLength(1)
 })
 
-const TYPING: Standing["extending"] = (pageTypeSlug, wanted) =>
+const typing: Standing["extending"] = (pageTypeSlug, wanted) =>
   wanted === "page-type" && TYPES.has(pageTypeSlug)
 
 test("a folder named the page type's slug with every name above it taken off takes the shape", () => {
   const made = folderFrom({
     folder: "akasha/temper/catalog/skill",
     pageTypes: PAGE_TYPES,
-    extending: TYPING,
+    extending: typing,
     naming: () => ({ name: "catalog-skill" }),
     holds: holdsFrom({
       "akasha/temper": [`${domain.slug}/${temper.slug}`],
@@ -152,7 +152,7 @@ test("a folder named the plural that page's own type gathers its pages under tak
   const made = folderFrom({
     folder: "akasha/page-types",
     pageTypes: PAGE_TYPES,
-    extending: TYPING,
+    extending: typing,
     naming: () => ({ name: "model" }),
     gathered: gatheringFrom({ "page-types": ["page-type"] }),
   })
@@ -163,7 +163,7 @@ test("a folder named a plural no type of that page gathers under is refused", ()
   const made = folderFrom({
     folder: "akasha/page-types",
     pageTypes: PAGE_TYPES,
-    extending: TYPING,
+    extending: typing,
     naming: () => ({ name: "model" }),
     gathered: gatheringFrom({ "page-types": ["seat"] }),
   })

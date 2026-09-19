@@ -80,7 +80,7 @@ type Taking = {
   readonly at: number
 }
 
-const NOTHING_OPENS: Opening = () => null
+const nothingOpens: Opening = () => null
 
 export function reaching(open: Opening): Reach {
   return { open, held: new Map() }
@@ -356,7 +356,7 @@ function before(path: string, one: Found, other: Found): number {
 export function found(path: string, text: string, reach?: Reach): readonly string[] {
   if (!judgedIn(path)) return []
   const opened = openedOf(path, parsedAs(path, text))
-  const shared: Shared = { reach: reach ?? reaching(NOTHING_OPENS), walked: new Set(), seen: [] }
+  const shared: Shared = { reach: reach ?? reaching(nothingOpens), walked: new Set(), seen: [] }
   const state: Reading = { shared, at: path, opened, hops: FIRST }
   for (const one of takingFor(path, opened)) reading(state, one.holder, one.at)
   const said = [...shared.seen].sort((one, other) => before(path, one, other))

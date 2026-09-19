@@ -21,11 +21,11 @@ export type Grouped = {
   readonly foldersIn: (folder: string) => readonly string[]
 }
 
-const NOTHING_GENERATED = (): boolean => false
+const nothingGenerated = (): boolean => false
 
 export function groupedOver(
   change: Change,
-  generated: (path: string) => boolean = NOTHING_GENERATED
+  generated: (path: string) => boolean = nothingGenerated
 ): Grouped {
   const base = change.base ?? null
   const added = new Map<string, Set<string>>()

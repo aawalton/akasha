@@ -22,7 +22,7 @@ const CLEAN = { commit: "abc", ranAt: "2026-09-11T00:00:00.000Z", refusals: [], 
 
 const A_RUN = { check: "typecheck", verdict: CLEAN, ran: true }
 
-const NEVER_WAITS = (): Promise<void> => Promise.resolve()
+const neverWaits = (): Promise<void> => Promise.resolve()
 
 function refusing(): Error & { code: string } {
   return Object.assign(new Error("Unable to connect."), { code: "ConnectionRefused" })
@@ -96,7 +96,7 @@ test("the checks asked for reach the service as the body of one call", async () 
       bodies.push(String(init.body))
       return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
     },
-    NEVER_WAITS
+    neverWaits
   )
   expect(bodies).toEqual(['{"checks":["typecheck"]}'])
   expect(held).toEqual({ ran: [A_RUN] })
@@ -111,7 +111,7 @@ test("the wait the runtime puts on a request of its own accord is turned off", a
       sent.push(init)
       return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
     },
-    NEVER_WAITS
+    neverWaits
   )
   expect(sent[0]?.timeout).toBe(false)
   expect(sent[0]?.signal?.aborted).toBe(false)
@@ -126,7 +126,7 @@ test("a connection the service refused is asked again, three times in all", asyn
       tries += 1
       throw refusing()
     },
-    NEVER_WAITS
+    neverWaits
   )
   expect(tries).toBe(ATTEMPTS)
   expect(held).toEqual({ refused: expect.stringContaining("nothing is listening at") })
@@ -142,7 +142,7 @@ test("a service that answers on a later try is not refused", async () => {
       if (tries < ATTEMPTS) throw refusing()
       return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
     },
-    NEVER_WAITS
+    neverWaits
   )
   expect(held).toEqual({ ran: [A_RUN] })
 })
@@ -156,7 +156,7 @@ test("a round still working is waited on rather than asked for a second time", a
       tries += 1
       throw new Error("The operation timed out.")
     },
-    NEVER_WAITS
+    neverWaits
   )
   expect(tries).toBe(1)
   expect(held).toEqual({ refused: expect.stringContaining("The operation timed out.") })

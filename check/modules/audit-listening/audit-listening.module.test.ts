@@ -23,7 +23,7 @@ import {
 
 const ROOT = rootOf(import.meta.dir)
 
-const NOTHING_RAN: Rounding = () => Promise.resolve({ ran: [], turned: [], refused: [] })
+const nothingRan: Rounding = () => Promise.resolve({ ran: [], turned: [], refused: [] })
 
 afterAll(scratch.sweep)
 
@@ -84,20 +84,20 @@ test("a name that is no string is refused rather than dropped", () => {
 })
 
 test("nothing is asked for at another path", async () => {
-  const answered = await answering(asking({}, "/elsewhere"), NOTHING_RAN)
+  const answered = await answering(asking({}, "/elsewhere"), nothingRan)
   expect(answered.status).toBe(404)
   expect(await refusalOf(answered)).toBe("nothing is asked at /elsewhere")
 })
 
 test("a round asked for by another method is refused", async () => {
-  const answered = await answering(asking({}, ROUND_AT, "GET"), NOTHING_RAN)
+  const answered = await answering(asking({}, ROUND_AT, "GET"), nothingRan)
   expect(answered.status).toBe(405)
   expect(await refusalOf(answered)).toContain("POST")
 })
 
 test("a body that is no JSON is refused rather than read as naming no check", async () => {
   const held = new Request(`http://workstation${ROUND_AT}`, { method: "POST", body: "{" })
-  const answered = await answering(held, NOTHING_RAN)
+  const answered = await answering(held, nothingRan)
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toBe("the body did not parse as JSON")
 })

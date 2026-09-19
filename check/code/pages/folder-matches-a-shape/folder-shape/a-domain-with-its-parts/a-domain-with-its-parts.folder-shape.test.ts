@@ -172,14 +172,14 @@ test("a file neither page states is refused", () => {
   expect(said[0]).toContain("package.json")
 })
 
-const DOMAINING: Standing["extending"] = (pageTypeSlug, wanted) =>
+const domaining: Standing["extending"] = (pageTypeSlug, wanted) =>
   wanted === "domain" && DOMAINS.has(pageTypeSlug)
 
 test("a folder named its domain's slug with every name above it taken off takes the shape", () => {
   const made = folderFrom({
     folder: "akasha/temper/catalog/skill",
     pageTypes: PAGE_TYPES,
-    extending: DOMAINING,
+    extending: domaining,
     naming: () => ({ name: "catalog-skill" }),
     holds: holdsFrom({
       "akasha/temper": [`${domain.slug}/${temper.slug}`],
@@ -193,7 +193,7 @@ test("a folder named the plural that page's own type gathers its pages under tak
   const made = folderFrom({
     folder: "akasha/domains",
     pageTypes: PAGE_TYPES,
-    extending: DOMAINING,
+    extending: domaining,
     naming: () => ({ name: "models" }),
     gathered: gatheringFrom({ domains: ["domain"] }),
   })
@@ -204,7 +204,7 @@ test("a folder named a plural no type of that page gathers under is refused", ()
   const made = folderFrom({
     folder: "akasha/domains",
     pageTypes: PAGE_TYPES,
-    extending: DOMAINING,
+    extending: domaining,
     naming: () => ({ name: "models" }),
     gathered: gatheringFrom({ domains: ["seat"] }),
   })

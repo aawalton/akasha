@@ -22,10 +22,10 @@ const IGNORED =
 
 const ASIDE = asideIn(IGNORED)
 
-const ROOTED = (slug: string): boolean => slug === "code-root"
+const rootNamed = (slug: string): boolean => slug === "code-root"
 
 function only(text: string): readonly string[] {
-  return reasonsOver(AT, text, ASIDE, ROOTED)
+  return reasonsOver(AT, text, ASIDE, rootNamed)
 }
 
 test("the ignored names are read with `.git` and without one an un-ignoring rule reaches", () => {
@@ -302,7 +302,7 @@ test("a root taken from any module the index names as answering one is the check
   const repoRoot = (slug: string): boolean => slug === "repo-root"
 
   expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, repoRoot)).toHaveLength(1)
-  expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, ROOTED)).toEqual([])
+  expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, rootNamed)).toEqual([])
 })
 
 test("a module answers a checkout root where that module's own page says so and not otherwise", () => {
@@ -322,8 +322,8 @@ test("a write to a name an un-ignoring rule reaches is judged where that rule is
     '  writeFileSync(join(given.root, "a/b.d.ts"), "")\n' +
     "}\n"
 
-  expect(reasonsOver(AT, body, asideIn("*.d.ts\n"), ROOTED)).toEqual([])
-  expect(reasonsOver(AT, body, asideIn("*.d.ts\n!**/types/**/*.d.ts\n"), ROOTED)).toHaveLength(1)
+  expect(reasonsOver(AT, body, asideIn("*.d.ts\n"), rootNamed)).toEqual([])
+  expect(reasonsOver(AT, body, asideIn("*.d.ts\n!**/types/**/*.d.ts\n"), rootNamed)).toHaveLength(1)
 })
 
 function opened(taken: string, flag: string): readonly string[] {
