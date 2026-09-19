@@ -153,7 +153,6 @@ export const noteShaped = (pageTypeSlug: string, targetPageTypeSlug: string | nu
   propertySlug: "note",
   fileName: null,
   folderName: null,
-  sorted: false,
 })
 
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageType: "domain" })
