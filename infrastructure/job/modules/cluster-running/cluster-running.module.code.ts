@@ -158,7 +158,7 @@ function jobFor(name: string, script: string): ApiObjectManifest {
               ],
               resources: {
                 requests: { cpu: "2", memory: "6Gi" },
-                limits: { cpu: "8", memory: "12Gi" },
+                limits: { cpu: "16", memory: "24Gi" },
               },
             },
           ],

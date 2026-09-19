@@ -144,6 +144,18 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A job reserves what one run needs and may take what the fastest node has spare.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a job reserves is what settles which nodes would have it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The processors a job may take is what the work inside it spreads itself over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The memory a landing starts on is read from the pod rather than the workstation.",
     },
     {

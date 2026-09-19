@@ -27,7 +27,11 @@ import {
   heldTo,
   reasonSaid,
 } from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
-import { bytes, endingOf } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import {
+  bytesAwaited,
+  endingOf,
+  processorsHere,
+} from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
@@ -51,6 +55,8 @@ import { counted } from "akasha/text/writing/modules/counted/counted.module.code
 const TURNS = ".local/state/workstation-services/audit-turns"
 
 const WAITED = 3_600_000
+
+const ALONE = 1
 
 const ANSWERS_FOR = `${domain.slug}/${checkDomain.slug}` as const
 
@@ -166,7 +172,7 @@ export const spawning: Running = async (one) => {
     const cpu = one.auditCeiling ?? null
     const memory = one.auditMemoryMb ?? null
     const began = Date.now()
-    const done = bytes([BUN, childAt(one.root), one.root, one.slug, at], {
+    const done = await bytesAwaited([BUN, childAt(one.root), one.root, one.slug, at], {
       cwd: one.root,
       metered: true,
       ...(cpu === null ? {} : { cpuCeiling: cpu }),
@@ -387,16 +393,29 @@ async function serving(given: Serving): Promise<Told> {
   const over = await overNow(given.root)
   const shadow = shadowAsked(over.change)
   const moved = movedIn(given.root, over.commit)
+  const every = roundOver(checksIn(given.root), given.checks)
   const ran: Ran[] = []
-  const red: Ran[] = []
-  for (const one of roundOver(checksIn(given.root), given.checks)) {
-    const asking: Asking = { ...given, check: one, over, asked: over.commit, moved, shadow }
-    const before = verdictFor(asking)
-    const said = await auditOne(asking)
-    ran.push(said)
-    const fresh = refusalsNew(before, said.verdict)
-    if (fresh.length > 0) red.push({ ...said, verdict: { ...said.verdict, refusals: fresh } })
+  const found: (Ran | undefined)[] = []
+  let next = 0
+  const turn = async (): Promise<undefined> => {
+    for (;;) {
+      const mine = next
+      next += 1
+      const one = every[mine]
+      if (one === undefined) return
+      const asking: Asking = { ...given, check: one, over, asked: over.commit, moved, shadow }
+      const before = verdictFor(asking)
+      const said = await auditOne(asking)
+      ran[mine] = said
+      const fresh = refusalsNew(before, said.verdict)
+      if (fresh.length > 0) found[mine] = { ...said, verdict: { ...said.verdict, refusals: fresh } }
+    }
   }
+  const turns: Promise<undefined>[] = []
+  const lanes = Math.max(ALONE, Math.min(processorsHere() ?? ALONE, every.length))
+  for (let which = 0; which < lanes; which += 1) turns.push(turn())
+  await Promise.all(turns)
+  const red = found.flatMap((one) => (one === undefined ? [] : [one]))
   const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }
   const to = given.to ?? championOf(given.root)

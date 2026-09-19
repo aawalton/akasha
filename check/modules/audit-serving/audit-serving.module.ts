@@ -27,6 +27,27 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A round runs several of its checks at one time rather than one after another.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How many run at one time is how many processors the round may use.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round no group holds to a quota runs one check at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A check is answered in the place that check was named rather than where it ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What turned red is read in that same order whichever check ended first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A second asker inside one process waits on the first asker's answer.",
     },
     {
