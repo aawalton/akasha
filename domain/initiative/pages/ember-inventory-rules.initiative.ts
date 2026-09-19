@@ -10,7 +10,7 @@ export const emberInventoryRules = {
     {
       statement: "One word names a reading of the inventory, in a slug as in the prose.",
       workingMemory:
-        "The domain settled on capture for what the addon writes and reading for what is worked out from it. Snapshot is a second spelling over both. It reaches the command name snapshot, the slugs inventory-snapshot-reading and watcher-inventory-snapshot-landing, the account property snapshot-locations, net-worth-hour's snapshots over 872 data files, watcher-settings-consumables' failure kinds, and the pricing route's path. StatSnapshot and taskProgressSnapshots name other things and stay.\n",
+        "Landed: the command is `akasha temper inventory reading`, the modules are inventory-reading and watcher-inventory-landing, the account property is reading-locations, and watcher-settings-consumables' failure kinds and messages say reading. The pricing route keeps the word, which is the retired caller's address. Left: temper-net-worth-hour's snapshots, blocked by a gap in rename-page-property-property-slug that the finding names. StatSnapshot and taskProgressSnapshots name other things and stay.\n",
     },
   ],
   constraints: [
