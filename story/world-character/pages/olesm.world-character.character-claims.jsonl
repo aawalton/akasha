@@ -1,5 +1,281 @@
-{"id":"01a0b706-d2c5-77ff-8766-421190077cbe","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-71e3-a622-ba162f0f81f2","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"class","claimValue":"Tactician","epistemic":"asserted"}
-{"id":"01a0b706-d2c5-7671-adaa-c14d4d612ecd","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Captain of the Watch","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7fb9-b533-fd5443001aa9","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Wants to become stronger","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7750-a283-15853f08f1fa","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Romantic interest of Ceria","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-cb16-7b62-9bc0-03c0b6197e2f","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-7439-a139-84ad17cc8e16","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-78f4-916b-a222e9df3a9d","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"young","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-78ed-b5ec-b1112e1c690d","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"sky-blue scales","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-7b9c-a7d6-5ad7d54d7ee9","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"thin but taller than Erin","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-738a-a58e-07ffc694b051","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"nephew of Lism","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-753f-b272-b08746f9b128","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"has played over 100 games of chess, won more than two-thirds","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-7b4e-867a-a28b389848c4","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"meticulous and careful player","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-7ccb-8fd2-dfaf232d25a4","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"trait","claimValue":"works for the Council","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-7e70-83b8-690c27ad4469","chapterSlug":"the-wandering-inn-0019-1-17","claimField":"skill","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"1.17"}
+{"id":"01a0b70b-cb16-70f9-b98c-0829048a30da","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-700c-8274-53ab1caa350f","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"class","claimValue":"[Tactician]","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-74ae-bc41-5861ccd5890d","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"level","claimValue":"22","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-7507-aa61-f4a515a31c2c","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"trait","claimValue":"Has been playing chess for a few years","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-73dc-b21b-d0f68101ace9","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"trait","claimValue":"Considered best chess player in Liscor by play frequency","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-7857-9af7-cb8bfd694b65","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"trait","claimValue":"Aspires to attain the Grandmaster class","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-7bd2-bbdf-1f58ab200978","chapterSlug":"the-wandering-inn-0020-1-18","claimField":"skill","claimValue":"Chess","epistemic":"asserted","sourceChapter":"1.18"}
+{"id":"01a0b70b-cb16-7308-a525-1df2bfd88c37","chapterSlug":"the-wandering-inn-0023-1-21","claimField":"trait","claimValue":"wants to play games with Erin","epistemic":"asserted","sourceChapter":"1.21"}
+{"id":"01a0b70b-cb16-7397-a260-ea4203752ce9","chapterSlug":"the-wandering-inn-0023-1-21","claimField":"trait","claimValue":"carries boxes","epistemic":"asserted","sourceChapter":"1.21"}
+{"id":"01a0b70b-cb16-766a-94ac-fed1449014dc","chapterSlug":"the-wandering-inn-0028-1-25","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.25"}
+{"id":"01a0b70b-cb16-768f-998a-9a1510020fd5","chapterSlug":"the-wandering-inn-0028-1-25","claimField":"class","claimValue":"Tactician","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.25"}
+{"id":"01a0b70b-cb16-7a6a-86cd-c0d3a1986da1","chapterSlug":"the-wandering-inn-0028-1-25","claimField":"trait","claimValue":"Drake Tactician who liaisons with the Liscor Council","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.25"}
+{"id":"01a0b70b-cb16-7bec-ad3b-3bdfeb6c8048","chapterSlug":"the-wandering-inn-0028-1-25","claimField":"trait","claimValue":"recently learned chess from Erin","epistemic":"asserted","sourceChapter":"1.25"}
+{"id":"01a0b70b-cb16-7f4f-bbf1-2c70c811aa74","chapterSlug":"the-wandering-inn-0028-1-25","claimField":"trait","claimValue":"tail wags like a dog's when pleased","epistemic":"asserted","sourceChapter":"1.25"}
+{"id":"01a0b70b-cb16-7faf-86bf-f92f5ce9c219","chapterSlug":"the-wandering-inn-0028-1-25","claimField":"trait","claimValue":"leveled up that night","epistemic":"asserted","sourceChapter":"1.25"}
+{"id":"01a0b70b-cb16-7f3d-b3e5-53b2244b5d50","chapterSlug":"the-wandering-inn-0041-1-38","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.38"}
+{"id":"01a0b70b-cb16-76c6-a577-11902990a95b","chapterSlug":"the-wandering-inn-0041-1-38","claimField":"trait","claimValue":"loves chess and puzzles","epistemic":"asserted","sourceChapter":"1.38"}
+{"id":"01a0b70b-cb16-78f1-8232-a20a3fe28ac2","chapterSlug":"the-wandering-inn-0041-1-38","claimField":"trait","claimValue":"admires Erin's skill","epistemic":"asserted","sourceChapter":"1.38"}
+{"id":"01a0b70b-cb16-74cf-b560-c754b99e580c","chapterSlug":"the-wandering-inn-0041-1-38","claimField":"trait","claimValue":"younger Drake","epistemic":"asserted","sourceChapter":"1.38"}
+{"id":"01a0b70b-cb16-7b4f-8d90-53fb94583af9","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7347-b44c-4e9533fd9cfa","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"enthusiastic chess player","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7682-b1ec-957022a5f74b","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"spent nearly a week solving a complex chess puzzle","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-74ec-abaf-edaff7d9414f","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"blue scales with raindrop-pattern eyes","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7698-ad63-fa50a3db1e46","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"has bloodshot, wild eyes indicating sleep deprivation","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7fb0-a6dc-2ac731669591","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"gaunt and unwashed from intensive problem-solving","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7942-857e-59ac04571180","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"has flaking scales suggesting fungal infection","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7960-b710-f76a671f2dd0","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"trait","claimValue":"gained two levels from solving the puzzle","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7f7d-8584-6bbcfd15adbd","chapterSlug":"the-wandering-inn-0053-1-50","claimField":"skill","claimValue":"chess","epistemic":"asserted","sourceChapter":"1.50"}
+{"id":"01a0b70b-cb16-7a50-90e0-c5a445a9c715","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.56"}
+{"id":"01a0b70b-cb16-7398-8ebe-0fd1a6077635","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"class","claimValue":"Tactician","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.56"}
+{"id":"01a0b70b-cb16-77fb-9b6a-3130d091b7c7","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"level","claimValue":"24","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.56"}
+{"id":"01a0b70b-cb16-73c7-8054-93ad158f43d9","chapterSlug":"the-wandering-inn-0059-1-56","claimField":"trait","claimValue":"seeks improvement","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.56"}
+{"id":"01a0b70b-cb16-79c0-878c-c5b6b10886d6","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"class","claimValue":"[Tactician]","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b70b-cb16-77d6-99f8-9dd1cae73bce","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"level","claimValue":"24","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b70b-cb16-7acf-b463-9cb402669f44","chapterSlug":"the-wandering-inn-0060-1-57-h","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.57 H"}
+{"id":"01a0b70b-cb16-7e14-af98-b34138629a7d","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"class","claimValue":"[Tactician]","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.58 H"}
+{"id":"01a0b70b-cb16-77af-ae09-86d9432beb18","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b70b-cb16-7348-ad72-0995c41db4b5","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"trait","claimValue":"mostly defensive or information-oriented skills","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.58 H"}
+{"id":"01a0b70b-cb16-7794-b459-a37f8aa3a9af","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Rapid Retreat]","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"1.58 H"}
+{"id":"01a0b70b-cb16-7bf2-8d5e-9150ec7495dd","chapterSlug":"the-wandering-inn-0061-1-58-h","claimField":"skill","claimValue":"[Attack Formation]","epistemic":"asserted","sourceChapter":"1.58 H"}
+{"id":"01a0b70b-cb16-7efb-9fd5-f2c89a98f0bb","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b70b-cb16-7798-a30e-962fbdab95ad","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"trait","claimValue":"young","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b70b-cb16-75f1-9c7d-9332df5a9c53","chapterSlug":"the-wandering-inn-0062-1-59-h","claimField":"trait","claimValue":"first adventure","epistemic":"asserted","sourceChapter":"1.59 H"}
+{"id":"01a0b70b-cb16-731b-a29a-53234aa8d2f5","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b70b-cb16-7237-abcd-2410ad7b9e54","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"trait","claimValue":"light blue scales","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b70b-cb16-7213-bfae-902132c2e6d8","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70b-cb16-75ac-a3f9-5db006541183","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70b-cb16-7e24-a742-42c12054b2db","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"trait","claimValue":"saved Ceria from ghouls","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70b-cb16-7b15-80a3-f07b391ee668","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"trait","claimValue":"severely weakened from days without food or water","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70b-cb16-7819-bba1-b427a41e65f0","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b70b-cb16-7493-9ace-689e2770f30c","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"Good at chess; loses every game to Erin","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b70b-cb16-7594-b749-0adc1c1f8d7f","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"Recovering from injuries at the Watch barracks","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b70b-cb16-7094-823f-b70d73eaf61e","chapterSlug":"the-wandering-inn-0078-2-09","claimField":"trait","claimValue":"Eager to visit Erin's inn and play chess with her","epistemic":"asserted","sourceChapter":"2.09"}
+{"id":"01a0b70b-cb16-7c3e-839d-12309e7aeedd","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b70b-cb16-7b93-b1fd-20ab3602fbea","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"trait","claimValue":"Optimistic","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b70b-cb16-7ff9-b805-581cdccc1e26","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"trait","claimValue":"Chess player","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b70b-cb16-793e-ad71-906def153b6a","chapterSlug":"the-wandering-inn-0080-2-11","claimField":"trait","claimValue":"Helpful","epistemic":"asserted","sourceChapter":"2.11"}
+{"id":"01a0b70b-cb16-7a01-b944-5d517d1c1634","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b70b-cb16-7b0a-a82c-c448fed2e349","chapterSlug":"the-wandering-inn-0082-2-13","claimField":"trait","claimValue":"watchguard","epistemic":"asserted","sourceChapter":"2.13"}
+{"id":"01a0b70b-cb16-7deb-ae6d-cc1a4dcf3ae8","chapterSlug":"the-wandering-inn-0084-interlude-mating-rituals-pt-1","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"84"}
+{"id":"01a0b70b-cb16-7297-adde-e55f6812703a","chapterSlug":"the-wandering-inn-0084-interlude-mating-rituals-pt-1","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"84"}
+{"id":"01a0b70b-cb16-712e-95b5-412f90baa16b","chapterSlug":"the-wandering-inn-0084-interlude-mating-rituals-pt-1","claimField":"trait","claimValue":"smart","epistemic":"claimed","claimedBy":"Selys","sourceChapter":"84"}
+{"id":"01a0b70b-cb16-7b4a-9881-e275d8d9cf19","chapterSlug":"the-wandering-inn-0084-interlude-mating-rituals-pt-1","claimField":"trait","claimValue":"has good prospects for advancement","epistemic":"claimed","claimedBy":"Selys","sourceChapter":"84"}
+{"id":"01a0b70b-cb16-7e9b-bee7-956eafcdaa50","chapterSlug":"the-wandering-inn-0084-interlude-mating-rituals-pt-1","claimField":"trait","claimValue":"attractive","epistemic":"claimed","claimedBy":"Selys","sourceChapter":"84"}
+{"id":"01a0b70b-cb16-74f4-9772-07175873b1a5","chapterSlug":"the-wandering-inn-0086-2-16","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.16"}
+{"id":"01a0b70b-cb16-7c62-83c5-8b69759f0042","chapterSlug":"the-wandering-inn-0086-2-16","claimField":"skill","claimValue":"skilled chess player","epistemic":"asserted","sourceChapter":"2.16"}
+{"id":"01a0b70b-cb16-7ca0-977a-58b91e16f933","chapterSlug":"the-wandering-inn-0086-2-16","claimField":"skill","claimValue":"gained levels","epistemic":"asserted","sourceChapter":"2.16"}
+{"id":"01a0b70b-cb16-733f-aad3-398325f7b303","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b70b-cb16-791f-a21a-0767474a24cc","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"trait","claimValue":"Drake with spines","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b70b-cb16-78b6-9d95-2d45f34e627b","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"trait","claimValue":"Skilled at chess","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b70b-cb16-7082-b4d6-19d1930847c1","chapterSlug":"the-wandering-inn-0087-2-17","claimField":"trait","claimValue":"Tail wags to music beat","epistemic":"asserted","sourceChapter":"2.17"}
+{"id":"01a0b70b-cb16-7474-8410-352a98531763","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b70b-cb16-711f-8221-7d09c2aaaabe","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b70b-cb16-7109-8999-78ffe6f96ff3","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Has romantic feelings for Erin","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b70b-cb16-785e-b8e9-dd41054ff6e0","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Loves playing chess","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b70b-cb16-72ae-ad74-859d25594a61","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Loses decisively at chess against unseen opponent","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b70b-cb16-76b2-9a78-760e95e8919f","chapterSlug":"the-wandering-inn-0088-2-18","claimField":"trait","claimValue":"Records chess games in notation","epistemic":"asserted","sourceChapter":"2.18"}
+{"id":"01a0b70b-cb16-7254-92a4-be5d06aad63f","chapterSlug":"the-wandering-inn-0089-2-19-g","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.19 G"}
+{"id":"01a0b70b-cb16-7e8f-bcac-88117729d414","chapterSlug":"the-wandering-inn-0089-2-19-g","claimField":"class","claimValue":"Tactician","epistemic":"asserted"}
+{"id":"01a0b70b-cb16-7b3d-94e5-adb5011bfe07","chapterSlug":"the-wandering-inn-0089-2-19-g","claimField":"trait","claimValue":"watches Erin rather than noticing Rags","epistemic":"asserted","sourceChapter":"2.19 G"}
+{"id":"01a0b70b-cb16-7585-987c-d67b99a93bb1","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b70b-cb16-7b16-8055-2d5c00b5823d","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"levels up from playing chess with Erin","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b70b-cb16-733d-ac2f-6948d7116cee","chapterSlug":"the-wandering-inn-0090-2-20","claimField":"trait","claimValue":"records chess games in notation","epistemic":"asserted","sourceChapter":"2.20"}
+{"id":"01a0b70b-cb16-718b-a50a-b4471e7bda45","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70b-cb16-7707-a8ad-b7b27faba77f","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"trait","claimValue":"plays chess","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70b-cb16-7da6-a89b-c9397cf61827","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-cb16-73fe-9e97-f279cdaf94da","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Captain of the Watch","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-cb16-7d02-9a67-e1042c9e9061","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Wants to become stronger","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-cb16-7c75-8a5b-c58752e51435","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Romantic interest of Ceria","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-cb16-7283-a833-3160bf27ba6d","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-cb16-7511-9a12-e9fbf11c6915","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-cb16-7d11-a756-d062b2706578","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"trait","claimValue":"highest-level [Tactician] in Liscor","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-cb16-7645-ae68-d10a95236b88","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"skill","claimValue":"[Tactician]","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-cb16-7d5d-8dc7-de6733279d6a","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70b-cb16-7267-968b-a84fad4412c7","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70b-cb16-7db8-931f-ef067cc580a5","chapterSlug":"the-wandering-inn-0118-2-43","claimField":"trait","claimValue":"Interested in Erin","epistemic":"asserted","sourceChapter":"2.43"}
+{"id":"01a0b70b-cb16-718b-8cff-cda29e619291","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"3.05 L"}
+{"id":"01a0b70b-cb16-73bb-93de-464de91faba1","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"[Guardsman]","epistemic":"asserted","sourceChapter":"3.05 L"}
+{"id":"01a0b70b-cb16-7a83-9485-8b3c5deb4cf0","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"brought food supplies to Lyonette","epistemic":"asserted","sourceChapter":"3.05 L"}
+{"id":"01a0b70b-cb16-7fda-a523-17399da5b0ab","chapterSlug":"the-wandering-inn-0149-3-23-l","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"3.23 L"}
+{"id":"01a0b70b-cb16-7b5e-a185-f66d241021e8","chapterSlug":"the-wandering-inn-0149-3-23-l","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"3.23 L"}
+{"id":"01a0b70b-cb16-7ce8-a5d1-4d4c7468231b","chapterSlug":"the-wandering-inn-0149-3-23-l","claimField":"trait","claimValue":"Distributes chess games and puzzles via mail to major cities","epistemic":"asserted","sourceChapter":"3.23 L"}
+{"id":"01a0b70b-cb16-77e1-9a88-060333372263","chapterSlug":"the-wandering-inn-0149-3-23-l","claimField":"trait","claimValue":"Has received money and letters from [Strategists] interested in chess","epistemic":"asserted","sourceChapter":"3.23 L"}
+{"id":"01a0b70b-cb16-71ac-98f3-82b1a7ed4470","chapterSlug":"the-wandering-inn-0149-3-23-l","claimField":"trait","claimValue":"Planning to send games to all major cities worldwide","epistemic":"asserted","sourceChapter":"3.23 L"}
+{"id":"01a0b70b-cb16-76ae-b707-cc5d3ec5d6f9","chapterSlug":"the-wandering-inn-0153-3-27-m","claimField":"trait","claimValue":"arrived at rescue location","epistemic":"asserted","sourceChapter":"3.27 M"}
+{"id":"01a0b70b-cb16-79de-9cf5-0af7d3143324","chapterSlug":"the-wandering-inn-0166-3-33","claimField":"trait","claimValue":"Drake with light blue tail","epistemic":"asserted","sourceChapter":"3.33"}
+{"id":"01a0b70b-cb16-786a-9be4-cb9f8b7e79f2","chapterSlug":"the-wandering-inn-0171-3-38","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"3.38"}
+{"id":"01a0b70b-cb16-7b5f-8d18-42acf1fe9241","chapterSlug":"the-wandering-inn-0171-3-38","claimField":"trait","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"3.38"}
+{"id":"01a0b70b-cb16-7aa5-8485-209426e5618d","chapterSlug":"the-wandering-inn-0171-3-38","claimField":"trait","claimValue":"member of the city council","epistemic":"asserted","sourceChapter":"3.38"}
+{"id":"01a0b70b-cb16-7968-b79d-3ebc7f57f5af","chapterSlug":"the-wandering-inn-0171-3-38","claimField":"trait","claimValue":"plays chess","epistemic":"asserted","sourceChapter":"3.38"}
+{"id":"01a0b70b-cb16-70f8-b64e-004e48e1cd69","chapterSlug":"the-wandering-inn-0171-3-38","claimField":"trait","claimValue":"writes letters","epistemic":"asserted","sourceChapter":"3.38"}
+{"id":"01a0b70b-cb16-7d32-8622-c60c937eb4cf","chapterSlug":"the-wandering-inn-0171-3-38","claimField":"trait","claimValue":"fond of Erin","epistemic":"asserted","sourceChapter":"3.38"}
+{"id":"01a0b70b-cb16-7808-914c-7184ef9b9028","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-7df5-85eb-341aca48934e","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Blushes easily","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-70a3-ac28-7aadb3384023","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Has 20+ newsletter readers","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-7cad-aa85-9f9656bd5421","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Letters circulate widely","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-7245-8581-10f950ee6844","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"trait","claimValue":"Ambitious but cautious","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-740c-8b60-71894ad18150","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"skill","claimValue":"Chess","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-7b2c-af12-a760795aa24c","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"skill","claimValue":"Tactical analysis","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-729b-83e0-61e74a44b656","chapterSlug":"the-wandering-inn-0172-3-39","claimField":"skill","claimValue":"Newsletter publication","epistemic":"asserted","sourceChapter":"3.39"}
+{"id":"01a0b70b-cb16-7a5c-a9aa-c32b185db1de","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-cb16-7a99-90d1-8819b18b1e15","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"plays Go","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-cb16-736e-9806-f0ad183f44fa","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"tail twitches with emotion","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-cb16-70ab-b405-955e71cef0d0","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b70b-cb16-78e8-a59e-f7e573e2ec71","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"trait","claimValue":"plays chess","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b70b-cb16-7a17-9d7b-87dc8005d247","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"trait","claimValue":"corresponds with famous strategist","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b70b-cb16-7a2d-9fa7-014b6d9a3c1b","chapterSlug":"the-wandering-inn-0189-4-12","claimField":"trait","claimValue":"hosting chess strategist visitor","epistemic":"asserted","sourceChapter":"4.12"}
+{"id":"01a0b70b-cb16-762a-a08f-70b8e52357fc","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-7f63-bbc8-41b0334de81c","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"level","claimValue":"27","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-7249-9021-bb030e13b7db","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-7031-8dcb-19d793a63549","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"trait","claimValue":"Prodigy","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-7b70-8568-11a5ae5cd81e","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"trait","claimValue":"Intelligent","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-7ec4-8d1c-3d54e9fd1cfc","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"skill","claimValue":"Tactics","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-7e5f-b388-b29775aefc8a","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"skill","claimValue":"Chess analysis","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-71d4-a7f1-cb3e7c8653c7","chapterSlug":"the-wandering-inn-0222-4-36-o","claimField":"skill","claimValue":"Strategic planning","epistemic":"asserted","sourceChapter":"4.36 O"}
+{"id":"01a0b70b-cb16-72d7-9176-bb6e663f87ab","chapterSlug":"the-wandering-inn-0223-4-37-o","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"4.37 O"}
+{"id":"01a0b70b-cb16-7341-8420-b3dfd00224fa","chapterSlug":"the-wandering-inn-0223-4-37-o","claimField":"level","claimValue":"28","epistemic":"asserted","sourceChapter":"4.37 O"}
+{"id":"01a0b70b-cb16-751e-86dc-32b1da2e5a2d","chapterSlug":"the-wandering-inn-0223-4-37-o","claimField":"skill","claimValue":"Rallying Presence","epistemic":"asserted","sourceChapter":"4.37 O"}
+{"id":"01a0b70b-cb16-7722-9676-934c47f9e85b","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b70b-cb16-72fc-8cc3-adb91128d562","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b70b-cb16-723d-8549-4178efad8cde","chapterSlug":"the-wandering-inn-0236-interlude-the-antinium-wars-pt-5","claimField":"identity","claimValue":"Lizardfolk","epistemic":"asserted","sourceChapter":"236"}
+{"id":"01a0b70b-cb16-7817-ba8f-12bb05e9e034","chapterSlug":"the-wandering-inn-0236-interlude-the-antinium-wars-pt-5","claimField":"trait","claimValue":"Reads history books in a small office","epistemic":"asserted","sourceChapter":"236"}
+{"id":"01a0b70b-cb16-7500-9301-7fae2e5e3fc2","chapterSlug":"the-wandering-inn-0236-interlude-the-antinium-wars-pt-5","claimField":"trait","claimValue":"Is a [Strategist]","epistemic":"claimed","claimedBy":"narration","sourceChapter":"236"}
+{"id":"01a0b70b-cb16-7dd7-ad49-4749cfefe62b","chapterSlug":"the-wandering-inn-0236-interlude-the-antinium-wars-pt-5","claimField":"trait","claimValue":"Critiques biased historical accounts","epistemic":"asserted","sourceChapter":"236"}
+{"id":"01a0b70b-cb16-77b3-b147-83428694a88c","chapterSlug":"the-wandering-inn-0236-interlude-the-antinium-wars-pt-5","claimField":"trait","claimValue":"Questions why the Goblin King did not dodge the arrow","epistemic":"asserted","sourceChapter":"236"}
+{"id":"01a0b70b-cb16-74d1-9724-be407d754356","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-cb16-7b8b-941e-ed44d809d6d4","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-cb16-7fed-af12-7abcef5617ce","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"City's best tactician","epistemic":"claimed","claimedBy":"Zevara","sourceChapter":"5.07"}
+{"id":"01a0b70b-cb16-73ab-ab53-c1e28517af13","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Has a Dangersense","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-cb16-7ea3-8fba-a6c34c786ded","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"class","claimValue":"Tactician","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-7db6-b79d-30c41b9a0a87","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-70b1-82c0-21487704496a","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"tactical commander for Liscor","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-7d65-b5b9-8871e7c10807","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"uses command scrolls","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-751a-a2c9-765ad34e5636","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"kills giant moths using lightning magic","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-7e31-a7d2-c18ac6218a61","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"skill","claimValue":"Strategic command","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-7cf7-a9dd-61d883a7592b","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"skill","claimValue":"Lightning magic","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-cb16-7423-8bc3-45915978b470","chapterSlug":"the-wandering-inn-0253-5-12","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.12"}
+{"id":"01a0b70b-cb16-70ea-aa25-a788e5a80cc0","chapterSlug":"the-wandering-inn-0253-5-12","claimField":"level","claimValue":"30","epistemic":"asserted","sourceChapter":"5.12"}
+{"id":"01a0b70b-cb16-70bd-b49b-885074fe65fe","chapterSlug":"the-wandering-inn-0253-5-12","claimField":"skill","claimValue":"[Vigor of Champions]","epistemic":"asserted","sourceChapter":"5.12"}
+{"id":"01a0b70b-cb16-70b2-812a-b11b4613e5ee","chapterSlug":"the-wandering-inn-0257-5-16-s","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.16 S"}
+{"id":"01a0b70b-cb16-7b72-b58b-cc49ac809c09","chapterSlug":"the-wandering-inn-0257-5-16-s","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.16 S"}
+{"id":"01a0b70b-cb16-7602-a37d-ab194d86c0b3","chapterSlug":"the-wandering-inn-0257-5-16-s","claimField":"trait","claimValue":"possessive of food","epistemic":"asserted","sourceChapter":"5.16 S"}
+{"id":"01a0b70b-cb16-7a84-9f4d-2be8d396a680","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-cb16-73ad-b629-c1bac6528811","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-cb16-783c-9a87-45a8b3a239c1","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"a strategist who plays chess","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-cb16-7ca1-b554-71b5b8babbb6","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"carries a sword","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-cb16-7cad-b204-497fcfa294db","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-cb16-7843-8c7b-3424ed708f12","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Recently promoted from Tactician to Strategist","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-cb16-7ff8-a88c-b11cb35cbc43","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Fought Raskghar in dungeon","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-cb16-7ec8-8888-5d2c3a5c7075","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Slew a Raskghar with his claws","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-cb16-7eaf-aadc-bf99afeb8965","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Wounded during battle (arm flayed open)","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-cb16-76ed-aa22-ed427f920626","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"skill","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-cb16-7628-8af7-8617c1416fdf","chapterSlug":"the-wandering-inn-0296-5-52","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.52"}
+{"id":"01a0b70b-cb16-7c88-8225-e366274d160a","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70b-cb16-71a9-8dfb-6c9291b4197e","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70b-cb16-7462-9afb-f13f37a0213b","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"trait","claimValue":"Chief [Strategist] of Liscor","epistemic":"asserted","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70b-cb16-7f35-9896-b6b59ac24ed9","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"trait","claimValue":"Black eye from Erin's punch","epistemic":"asserted","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70b-cb16-7679-b36d-eec501cd9956","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"trait","claimValue":"Knows of the Humans' trebuchets and siege capability","epistemic":"asserted","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70b-cb16-73b4-94cc-fcd8c8f84f5b","chapterSlug":"the-wandering-inn-0299-5-54","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.54"}
+{"id":"01a0b70b-cb16-7e16-ad09-5966b92754fb","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"300"}
+{"id":"01a0b70b-cb16-7751-8893-578c65f900ea","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"300"}
+{"id":"01a0b70b-cb16-7745-a11b-aa5a9939654f","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"trait","claimValue":"Pale blue scales; fear-scented","epistemic":"asserted","sourceChapter":"300"}
+{"id":"01a0b70b-cb16-7dfb-88e9-745e6448b62b","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"trait","claimValue":"Believes reinforcements will arrive but too late","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"300"}
+{"id":"01a0b70b-cb16-757a-aa51-e513daf33026","chapterSlug":"the-wandering-inn-0303-5-57","claimField":"identity","claimValue":"Strategist","epistemic":"claimed","claimedBy":"narration","sourceChapter":"5.57"}
+{"id":"01a0b70b-cb16-74ae-a1ca-77f9afd302a1","chapterSlug":"the-wandering-inn-0303-5-57","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.57"}
+{"id":"01a0b70b-cb16-7305-a8cb-3d77a893a2f7","chapterSlug":"the-wandering-inn-0303-5-57","claimField":"trait","claimValue":"strategic thinker","epistemic":"asserted","sourceChapter":"5.57"}
+{"id":"01a0b70b-cb16-7415-b3e1-047044bf192c","chapterSlug":"the-wandering-inn-0305-5-59","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"5.59"}
+{"id":"01a0b70b-cb16-7e6a-b4a0-1f874e768832","chapterSlug":"the-wandering-inn-0305-5-59","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.59"}
+{"id":"01a0b70b-cb16-70e8-b6a9-0704541ea6d1","chapterSlug":"the-wandering-inn-0322-6-11","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"6.11"}
+{"id":"01a0b70b-cb16-7522-bdba-89d05a9e875d","chapterSlug":"the-wandering-inn-0322-6-11","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.11"}
+{"id":"01a0b70b-cb16-74a8-84bd-9d9b29212c54","chapterSlug":"the-wandering-inn-0322-6-11","claimField":"trait","claimValue":"publishes chess magazine and strategy commentary","epistemic":"asserted","sourceChapter":"6.11"}
+{"id":"01a0b70b-cb16-7c70-86bf-ac0e0cacea20","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70b-cb16-7c07-8add-711d160cd172","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"level","claimValue":"30","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70b-cb16-75c6-9541-827d3b1d2a96","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"trait","claimValue":"Drake with blue scales","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70b-cb16-74de-8c4f-bbbeebfd5a4c","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"trait","claimValue":"analytical and strategic thinker","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70b-cb16-7f46-a5aa-a8a0ed7e79d3","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"trait","claimValue":"concerned about Antinium expansion risk","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70b-cb16-7b64-b998-df4c164839dc","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"skill","claimValue":"Strategic analysis","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70b-cb16-7c3c-addc-2c6ab7ed0f51","chapterSlug":"the-wandering-inn-0343-6-31","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"6.31"}
+{"id":"01a0b70b-cb16-7ef7-8296-6ef7d836a7c3","chapterSlug":"the-wandering-inn-0343-6-31","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.31"}
+{"id":"01a0b70b-cb16-7e43-8e98-0a882ed61faf","chapterSlug":"the-wandering-inn-0343-6-31","claimField":"trait","claimValue":"nephew of Lism","epistemic":"asserted","sourceChapter":"6.31"}
+{"id":"01a0b70b-cb16-7b1c-9210-c26a9dd3f8c9","chapterSlug":"the-wandering-inn-0343-6-31","claimField":"trait","claimValue":"strategic mind","epistemic":"asserted","sourceChapter":"6.31"}
+{"id":"01a0b70b-cb16-704c-a3b6-81855716bd2c","chapterSlug":"the-wandering-inn-0357-interlude-rufelt","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"Interlude - Rufelt"}
+{"id":"01a0b70b-cb16-79fd-8214-f572d11d764d","chapterSlug":"the-wandering-inn-0357-interlude-rufelt","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"Interlude - Rufelt"}
+{"id":"01a0b70b-cb16-7da3-87bf-3adc0aa5a03c","chapterSlug":"the-wandering-inn-0357-interlude-rufelt","claimField":"trait","claimValue":"troubled about something","epistemic":"asserted","sourceChapter":"Interlude - Rufelt"}
+{"id":"01a0b70b-cb16-743a-8941-5be134dce841","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"class","claimValue":"Strategist","epistemic":"asserted"}
+{"id":"01a0b70b-cb16-7fc3-b903-0ebdef52d408","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70b-cb16-7881-ab66-3af4b93fa77f","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"nephew of Lism","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70b-cb16-7a32-9e5b-e9a48dcce8de","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"serves as strategic advisor to the Council","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70b-cb16-79d9-adef-200e5c7828b7","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"realizes the new Council is composed of working-class members","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70b-cb16-7bc7-84ac-78547269b055","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"keeps detailed strategic reports","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70b-cb16-71c8-bced-d7a046188abd","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-cb16-7fcc-988e-010f64f978c5","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Organized baseball field","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-cb16-73a7-823a-3cf939777fe8","chapterSlug":"the-wandering-inn-0408-interlude-the-hangover-after","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"Interlude - The Hangover After"}
+{"id":"01a0b70b-cb16-7658-a662-e37dcb1600c2","chapterSlug":"the-wandering-inn-0421-interlude-a-night-in-the-inn","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"421"}
+{"id":"01a0b70b-cb16-7bd9-bfcb-a64009c3e82f","chapterSlug":"the-wandering-inn-0421-interlude-a-night-in-the-inn","claimField":"trait","claimValue":"is [Strategist] of Liscor","epistemic":"asserted","sourceChapter":"421"}
+{"id":"01a0b70b-cb16-7743-adb6-79685165d411","chapterSlug":"the-wandering-inn-0421-interlude-a-night-in-the-inn","claimField":"trait","claimValue":"feels depressed and excluded after recent political events","epistemic":"asserted","sourceChapter":"421"}
+{"id":"01a0b70b-cb16-7304-9a46-70166f9bf580","chapterSlug":"the-wandering-inn-0421-interlude-a-night-in-the-inn","claimField":"trait","claimValue":"worries about the Antinium threat to Liscor","epistemic":"asserted","sourceChapter":"421"}
+{"id":"01a0b70b-cb16-7638-9250-718f5a19fb21","chapterSlug":"the-wandering-inn-0426-7-25","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"7.25"}
+{"id":"01a0b70b-cb16-71d2-a790-17ec4ebf9dd7","chapterSlug":"the-wandering-inn-0426-7-25","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"7.25"}
+{"id":"01a0b70b-cb16-72ec-820e-a72332c36391","chapterSlug":"the-wandering-inn-0426-7-25","claimField":"trait","claimValue":"From Liscor","epistemic":"asserted","sourceChapter":"7.25"}
+{"id":"01a0b70b-cb16-76f8-b1cb-1543787a2273","chapterSlug":"the-wandering-inn-0426-7-25","claimField":"trait","claimValue":"Takes command of relief coordination in Celum","epistemic":"asserted","sourceChapter":"7.25"}
+{"id":"01a0b70b-cb16-7b5d-ae9c-571654e771be","chapterSlug":"the-wandering-inn-0426-7-25","claimField":"trait","claimValue":"Works through the night organizing recovery efforts","epistemic":"asserted","sourceChapter":"7.25"}
+{"id":"01a0b70b-cb16-703c-bc0b-3c01c4bb6a48","chapterSlug":"the-wandering-inn-0432-7-30","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"7.30"}
+{"id":"01a0b70b-cb16-70c2-8a1b-be4af7bd03b3","chapterSlug":"the-wandering-inn-0432-7-30","claimField":"trait","claimValue":"Liscor's [Strategist]","epistemic":"asserted","sourceChapter":"7.30"}
+{"id":"01a0b70b-cb16-7289-bb42-8557ce07ed16","chapterSlug":"the-wandering-inn-0432-7-30","claimField":"trait","claimValue":"romantically involved with Maviola El","epistemic":"asserted","sourceChapter":"7.30"}
+{"id":"01a0b70b-cb16-79f0-bb2f-2b5ed093a94c","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"class","claimValue":"[Strategist]","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70b-cb16-771a-9d91-64d312b0720b","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70b-cb16-7840-bac4-464c1ac95a2d","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"trait","claimValue":"nephew of Lism","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70b-cb16-7098-9bfd-f6c0a02bf881","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"trait","claimValue":"recognizes danger of Raskghar intelligence","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70b-cb16-70f0-a7c0-b6306508f0b5","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"skill","claimValue":"military strategy","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70b-cb16-716c-8c05-fe8747cd7e38","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"skill","claimValue":"tactics","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70b-cb16-7e13-8c5e-8a8d7fd8b15b","chapterSlug":"the-wandering-inn-0473-7-62","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"7.62"}
+{"id":"01a0b70b-cb16-7ab1-92cd-72a1902f5d9c","chapterSlug":"the-wandering-inn-0473-7-62","claimField":"trait","claimValue":"leads Liscor's army against Hectval","epistemic":"asserted","sourceChapter":"7.62"}
+{"id":"01a0b70b-cb16-7038-93da-d510e495b05f","chapterSlug":"the-wandering-inn-0473-7-62","claimField":"trait","claimValue":"wields the Kaalblade from Maviola","epistemic":"asserted","sourceChapter":"7.62"}
+{"id":"01a0b70b-cb16-795a-a437-69dbbe6074e7","chapterSlug":"the-wandering-inn-0473-7-62","claimField":"skill","claimValue":"[Blades of Glory]","epistemic":"asserted","sourceChapter":"7.62"}
+{"id":"01a0b70b-cb16-72d0-9c18-be36335c5b5a","chapterSlug":"the-wandering-inn-0473-7-62","claimField":"skill","claimValue":"[Vigor of Champions]","epistemic":"asserted","sourceChapter":"7.62"}
+{"id":"01a0b70b-cb16-7362-b9cc-b94f22bf0ff8","chapterSlug":"the-wandering-inn-0484-8-01","claimField":"class","claimValue":"Strategist","epistemic":"asserted","sourceChapter":"8.01"}
+{"id":"01a0b70b-cb16-7334-afc3-883166d01063","chapterSlug":"the-wandering-inn-0526-8-35","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"8.35"}
+{"id":"01a0b70b-cb16-79d2-be57-8eb7fe17b0f0","chapterSlug":"the-wandering-inn-0526-8-35","claimField":"class","claimValue":"[Strategist]","epistemic":"asserted","sourceChapter":"8.35"}
+{"id":"01a0b70b-cb16-74c1-9b3e-e4199ee7d1d9","chapterSlug":"the-wandering-inn-0526-8-35","claimField":"trait","claimValue":"leads Liscor forces against Hectval alliance","epistemic":"asserted","sourceChapter":"8.35"}
+{"id":"01a0b70b-cb16-7959-a608-22acb7d27e32","chapterSlug":"the-wandering-inn-0526-8-35","claimField":"trait","claimValue":"possesses Kaalblade","epistemic":"asserted","sourceChapter":"8.35"}
+{"id":"01a0b70b-cb16-70e4-bb6b-354d162d61f1","chapterSlug":"the-wandering-inn-0526-8-35","claimField":"trait","claimValue":"commands thousand Painted Antinium soldiers","epistemic":"asserted","sourceChapter":"8.35"}
+{"id":"01a0b70b-cb16-77ec-9927-87361a329df1","chapterSlug":"the-wandering-inn-0526-8-35","claimField":"trait","claimValue":"recognizes [Crusaders] as new threat","epistemic":"asserted","sourceChapter":"8.35"}
+{"id":"01a0b70b-cb16-7f0d-a88a-a726d9426dd6","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"class","claimValue":"Leader","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-76bc-9088-e9d4515e1ad3","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"level","claimValue":"6","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7b54-850c-33e46a89e573","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"trait","claimValue":"[Strategist] leading Liscor's army against Hectval alliance","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7c8c-b700-54cd141aead0","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"trait","claimValue":"First campaign commander","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7a11-aa8d-7cc69a01e5c2","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"trait","claimValue":"Implements morale system with unit names and commendations","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7b0f-910e-8f251bfcdd2e","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"skill","claimValue":"Instantaneous Barrage","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7ab9-a2f3-1365c4b19d0b","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"skill","claimValue":"Vigor of Champions","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7e95-8f67-0e7858999a01","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"skill","claimValue":"Bird's Eye View","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-7064-8c1e-ec3ae8df9b46","chapterSlug":"the-wandering-inn-0561-interlude-hectval-pt-1","claimField":"skill","claimValue":"Boosted Morale (Unit)","epistemic":"asserted","sourceChapter":"Interlude - Hectval (Pt. 1)"}
+{"id":"01a0b70b-cb16-777c-b81d-f62a40cc0600","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"class","claimValue":"Leader","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-750b-98f8-e68b517fb832","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"level","claimValue":"17","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7e8a-aac0-e8e493e666a7","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7e33-aa0d-eee2c62fcd08","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"trait","claimValue":"Commands Liscor's forces","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7b43-a0c5-7a5377c6f055","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"skill","claimValue":"Preserve Morale (Casualties)","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7605-bad3-239a0824f0df","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"skill","claimValue":"Bloodthirsty Engagement","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7bf3-886d-aa305004f1db","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"skill","claimValue":"Detect Disloyalty","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7a7b-a959-9fb943bf26d5","chapterSlug":"the-wandering-inn-0562-interlude-hectval-pt-2","claimField":"skill","claimValue":"Hundredfold Arms Repair","epistemic":"asserted","sourceChapter":"Interlude – Hectval (Pt. 2)"}
+{"id":"01a0b70b-cb16-7bdd-9844-ff9939e19d38","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"class","claimValue":"[Eleleu Strategos]","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-741b-9e51-c680842387b0","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"level","claimValue":"35","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-7859-a3a9-22a852b3e78c","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"skill","claimValue":"[Instantaneous Barrage]","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-7667-be8c-c12a94906033","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"skill","claimValue":"[Officer Under Arms]","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-7c03-b223-df5cdeb455ec","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"skill","claimValue":"[Delegate Skill]","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-7b54-859f-66caef847a50","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"skill","claimValue":"[Our Suffering We Returned Twofold]","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-70a9-8c47-d28d8e715c06","chapterSlug":"the-wandering-inn-0563-interlude-hectval-pt-3","claimField":"skill","claimValue":"[War Cry: Eleleu]","epistemic":"asserted","sourceChapter":"563.00"}
+{"id":"01a0b70b-cb16-7afc-b6a1-32a268caae4c","chapterSlug":"the-wandering-inn-0658-9-47-u","claimField":"class","claimValue":"Strategos","epistemic":"asserted","sourceChapter":"9.47 U"}
+{"id":"01a0b70b-cb16-7490-ab3d-2512dc5099a6","chapterSlug":"the-wandering-inn-0658-9-47-u","claimField":"trait","claimValue":"[Strategos] of Liscor's army","epistemic":"asserted","sourceChapter":"9.47 U"}
+{"id":"01a0b70b-cb16-7757-b22f-e84a04fdefbc","chapterSlug":"the-wandering-inn-0658-9-47-u","claimField":"trait","claimValue":"coming to consult Erin about moving people back to Liscor","epistemic":"asserted","sourceChapter":"9.47 U"}
+{"id":"01a0b70b-cb16-7b08-a1f7-fa30b945f946","chapterSlug":"the-wandering-inn-0658-9-47-u","claimField":"trait","claimValue":"tripped into water upon seeing Erin with dyed hair","epistemic":"asserted","sourceChapter":"9.47 U"}

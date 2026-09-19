@@ -8,6 +8,7 @@ export const normen = {
   world: "world/the-wandering-inn",
   maxLevel: 30,
   eventCount: 11,
-  firstChapter: 650,
-  lastChapter: 650,
+  firstChapter: 597,
+  lastChapter: 784,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

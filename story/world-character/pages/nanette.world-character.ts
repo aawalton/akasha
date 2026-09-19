@@ -8,6 +8,7 @@ export const nanette = {
   world: "world/the-wandering-inn",
   maxLevel: 4,
   eventCount: 14,
-  firstChapter: 672,
-  lastChapter: 818,
+  firstChapter: 351,
+  lastChapter: 812,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

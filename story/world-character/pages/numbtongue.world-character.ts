@@ -8,6 +8,7 @@ export const numbtongue = {
   world: "world/the-wandering-inn",
   maxLevel: 35,
   eventCount: 22,
-  firstChapter: 313,
-  lastChapter: 518,
+  firstChapter: 146,
+  lastChapter: 763,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

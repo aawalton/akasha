@@ -8,6 +8,7 @@ export const nailren = {
   world: "world/the-wandering-inn",
   maxLevel: 33,
   eventCount: 11,
-  firstChapter: 637,
-  lastChapter: 816,
+  firstChapter: 268,
+  lastChapter: 818,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

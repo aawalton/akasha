@@ -8,6 +8,7 @@ export const pawn = {
   world: "world/the-wandering-inn",
   maxLevel: 44,
   eventCount: 11,
-  firstChapter: 103,
+  firstChapter: 33,
   lastChapter: 809,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

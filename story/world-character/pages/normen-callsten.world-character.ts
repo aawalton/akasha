@@ -8,6 +8,7 @@ export const normenCallsten = {
   world: "world/the-wandering-inn",
   maxLevel: 27,
   eventCount: 2,
-  firstChapter: 715,
+  firstChapter: 714,
   lastChapter: 715,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

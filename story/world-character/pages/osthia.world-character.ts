@@ -8,6 +8,7 @@ export const osthia = {
   world: "world/the-wandering-inn",
   maxLevel: 35,
   eventCount: 18,
-  firstChapter: 822,
+  firstChapter: 301,
   lastChapter: 822,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

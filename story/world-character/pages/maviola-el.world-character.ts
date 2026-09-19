@@ -8,6 +8,7 @@ export const maviolaEl = {
   world: "world/the-wandering-inn",
   maxLevel: 49,
   eventCount: 2,
-  firstChapter: 424,
-  lastChapter: 424,
+  firstChapter: 416,
+  lastChapter: 495,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -8,6 +8,7 @@ export const pekona = {
   world: "world/the-wandering-inn",
   maxLevel: 2,
   eventCount: 4,
-  firstChapter: 768,
-  lastChapter: 768,
+  firstChapter: 185,
+  lastChapter: 815,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

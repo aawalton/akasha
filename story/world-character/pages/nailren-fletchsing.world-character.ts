@@ -10,4 +10,5 @@ export const nailrenFletchsing = {
   eventCount: 6,
   firstChapter: 768,
   lastChapter: 768,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

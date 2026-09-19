@@ -8,6 +8,7 @@ export const nollesc = {
   world: "world/the-wandering-inn",
   maxLevel: 31,
   eventCount: 1,
-  firstChapter: 655,
-  lastChapter: 655,
+  firstChapter: 668,
+  lastChapter: 668,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

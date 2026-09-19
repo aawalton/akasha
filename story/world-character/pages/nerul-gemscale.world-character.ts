@@ -10,4 +10,5 @@ export const nerulGemscale = {
   eventCount: 5,
   firstChapter: 824,
   lastChapter: 824,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

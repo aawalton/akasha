@@ -10,4 +10,5 @@ export const moltin = {
   eventCount: 2,
   firstChapter: 732,
   lastChapter: 732,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

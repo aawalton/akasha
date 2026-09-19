@@ -8,6 +8,7 @@ export const pebblesnatch = {
   world: "world/the-wandering-inn",
   maxLevel: 10,
   eventCount: 9,
-  firstChapter: 395,
-  lastChapter: 395,
+  firstChapter: 278,
+  lastChapter: 763,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -8,7 +8,7 @@ export const olesm = {
   world: "world/the-wandering-inn",
   maxLevel: 35,
   eventCount: 18,
-  firstChapter: 104,
-  lastChapter: 104,
+  firstChapter: 19,
+  lastChapter: 658,
   characterClaims: "jsonl",
 } as const satisfies WorldCharacter

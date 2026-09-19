@@ -8,6 +8,7 @@ export const minotaurEmissary = {
   world: "world/the-wandering-inn",
   maxLevel: 37,
   eventCount: 2,
-  firstChapter: 506,
-  lastChapter: 506,
+  firstChapter: 183,
+  lastChapter: 183,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

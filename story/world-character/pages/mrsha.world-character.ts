@@ -8,6 +8,7 @@ export const mrsha = {
   world: "world/the-wandering-inn",
   maxLevel: 70,
   eventCount: 49,
-  firstChapter: 246,
-  lastChapter: 763,
+  firstChapter: 100,
+  lastChapter: 824,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
