@@ -3172,6 +3172,7 @@
 {"propertySlug":"decision-kind","path":"person/pages/ki/show/ki-show.page-type.ts","id":"01a06825-d0ec-71a0-a7ee-80d30e5385ef"}
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"person/properties/bodyweight.number-property.ts","id":"01a06860-a0ef-76b6-bebf-a5ed8fc42f7b"}
+{"propertySlug":"decision-kind","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
 {"propertySlug":"decision-kind","path":"person/properties/supabase-auth-user-id.text-property.ts","id":"01a053fa-eba7-79fc-b15c-76eb7cbfe5b4"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"decision-kind","path":"persona/anchor-image/persona-anchor-image.page-type.ts","id":"01a0655b-4a9b-700a-b7af-04be2a9c0df4"}

@@ -135,6 +135,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/device-token/properties/device-token-ios-app.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/device-token/properties/device-token-person.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/properties/answered-by.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/properties/person-contributor.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/craft-day/properties/craft-day-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/craft-day/properties/personas-crafted.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/image/properties/image-persona.relation-property.types.ts"}

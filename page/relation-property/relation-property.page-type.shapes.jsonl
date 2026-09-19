@@ -92,6 +92,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person-access-person","propertySlug":"person","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"authority-kind","unique":null,"uniquePropertySlug":null,"slug":"person-authority-kind","propertySlug":"authority-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person-authority-person","propertySlug":"person","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"person-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"personas-crafted","propertySlug":"personas-crafted","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-played","unique":null,"uniquePropertySlug":null,"slug":"played-chapter-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-played","unique":null,"uniquePropertySlug":null,"slug":"played-story","propertySlug":"played-story","fileName":null,"folderName":null}

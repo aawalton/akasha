@@ -41,6 +41,7 @@ export const person = {
     "phone-number-property/phone",
     "relation-property/answered-by",
     "text-property/supabase-auth-user-id",
+    "relation-property/person-contributor",
   ],
   properties: [
     { pageProperty: "relation-property/answered-by", required: true, many: false },
@@ -48,6 +49,7 @@ export const person = {
     { pageProperty: "email-address-property/email-address", required: false, many: false },
     { pageProperty: "text-property/supabase-auth-user-id", required: false, many: false },
     { pageProperty: "number-property/bodyweight", required: false, many: false },
+    { pageProperty: "relation-property/person-contributor", required: false, many: false },
   ],
   decisions: [
     {
