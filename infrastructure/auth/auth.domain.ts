@@ -39,23 +39,6 @@ export const auth = {
         "A sign-in is a page naming a provider, that provider's identifier, and one contributor.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "One contributor has more than one sign-in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A contributor that has a sign-in gains another only from inside that contributor's session.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A new provider under an address a contributor already has is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refusal names the provider that address already signs in with.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement: "No cookie crosses from the browser a sign-in opens to the app that opened it.",
     },
