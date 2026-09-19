@@ -6,10 +6,5 @@ export const lccc = {
   slug: "lccc",
   definition: "the codes library this add-on carries and leaves in the global table",
   code: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A copy already loaded at the same version or newer is left alone.",
-    },
-  ],
+  decisions: [],
 } as const satisfies Module

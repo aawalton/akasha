@@ -4216,7 +4216,6 @@
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-state/keybinder-state.module.ts","id":"01a06381-67c1-7d0e-a12d-5abeb99a1a60"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-ui-strings/keybinder-ui-strings.module.ts","id":"01a06381-67c1-7cd2-a410-e5dbfae940cd"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
-{"propertySlug":"decision-kind","path":"temper/lccc/modules/lccc/lccc.module.ts","id":"01a0617d-5450-7ad0-a8e0-924df3500d6f"}
 {"propertySlug":"decision-kind","path":"temper/lccc/temper-lccc.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
