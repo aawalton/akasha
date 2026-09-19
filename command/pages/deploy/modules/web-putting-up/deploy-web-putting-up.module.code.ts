@@ -21,6 +21,7 @@ import {
   resolveBuildEnv,
 } from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
+import { placingBetween } from "akasha/infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"
 import {
   appliedOf,
   planFor,
@@ -29,6 +30,7 @@ import {
   upAlready,
   writeManifests,
 } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
+import { DeployRefused } from "akasha/infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"
 
 const SAID = 4
 
@@ -62,6 +64,31 @@ export async function putUpWebApp(
       left.map((one) => `${one}, and applying it would write the stand-in itself into the cluster`),
       DATA
     )
+  }
+
+  const alreadyUp = upAlready(workload)
+  report.push(`standing\t${alreadyUp ? "up" : "not up"}`)
+
+  const placing = (): readonly string[] => {
+    const refusals: string[] = []
+    try {
+      for (const one of placingBetween(given.root, report)(plan)) {
+        report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
+        if (one.code !== 0) {
+          refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
+        }
+      }
+    } catch (thrown) {
+      if (!(thrown instanceof DeployRefused)) throw thrown
+      refusals.push(thrown.message)
+    }
+    return refusals
+  }
+
+  const placed = alreadyUp && !dryRun
+  if (placed) {
+    const refusals = placing()
+    if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
   }
 
   const carried = carriedByOrigin(given.root, sha)
@@ -135,9 +162,6 @@ export async function putUpWebApp(
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
     if (!applied.stands) differs = true
   }
-  const alreadyUp = upAlready(workload)
-  report.push(`standing\t${alreadyUp ? "up" : "not up"}`)
-
   if (!differs && alreadyUp && isBuilt) {
     report.push(
       `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
@@ -153,7 +177,7 @@ export async function putUpWebApp(
   const applying = (): readonly string[] => {
     for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
     const refusals: string[] = []
-    for (const one of putUp(plan)) {
+    for (const one of putUp(plan, placed ? () => [] : placingBetween(given.root, report))) {
       report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
       if (one.code !== 0) {
         refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"workload-applying.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
+{"propertySlug":"import","fileName":"workload-applying.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-applying.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-applying.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}

@@ -125,5 +125,21 @@ export const deployWebPuttingUp = {
       statement:
         "The manifests and what the build needs are read from the tree pinned at the commit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy places every secret its manifests demand before the build is made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy places them even where every manifest already matches the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy onto a workload the cluster does not run places them as it applies.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dry run places no secret.",
+    },
   ],
 } as const satisfies Module
