@@ -160,7 +160,6 @@ export async function appliedWorkload(
   root: string,
   slug: string,
   servable: Servable,
-  dryRun: boolean,
   codeAt: string,
   up: string[] = []
 ): Promise<Answer> {
@@ -187,12 +186,10 @@ export async function appliedWorkload(
   try {
     for (const one of await publishedFor(
       plan.manifests.map((manifest) => manifest.yaml),
-      dryRun,
       codeAt,
       up
     )) {
-      const how = one.held ? "in the registry" : one.built ? "built and pushed" : "would be built"
-      report.push(`image\t${one.ref}\t${how}`)
+      report.push(`image\t${one.ref}\t${one.held ? "in the registry" : "built and pushed"}`)
     }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
@@ -210,16 +207,9 @@ export async function appliedWorkload(
   report.push(`running\t${alreadyUp ? "yes" : "no"}`)
 
   if (!differs && alreadyUp) {
-    if (!dryRun) {
-      const refused = refusedBy(() => placingBetween(root, report)(plan), report, up)
-      if (refused !== null) return refused
-    }
+    const refused = refusedBy(() => placingBetween(root, report)(plan), report, up)
+    if (refused !== null) return refused
     report.push(`nothing\tthe cluster already runs ${slug} as its page describes`)
-    return told(report)
-  }
-
-  if (dryRun) {
-    report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
     return told(report)
   }
 

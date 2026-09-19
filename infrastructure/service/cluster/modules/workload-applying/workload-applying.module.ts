@@ -58,10 +58,6 @@ export const workloadApplying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reports the plan the run would carry out and applies nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A kubectl that refuses makes the apply refuse.",
     },
     {
@@ -79,10 +75,6 @@ export const workloadApplying = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An image the registry lacks is built before the manifests naming it are applied.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dry run says which image would be built and builds none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -105,10 +97,6 @@ export const workloadApplying = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A refused placing is answered as the cluster's fault with the report so far.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dry run places no secret.",
     },
     {
       decisionKind: "decision-kind/departure",

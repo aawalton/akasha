@@ -241,7 +241,7 @@ export function carriedAt(
 export async function imageHeldFor(yaml: string, root: string): Promise<string | null> {
   const done: string[] = []
   try {
-    await publishedFor([yaml], false, root, done)
+    await publishedFor([yaml], root, done)
     return null
   } catch (thrown) {
     const said = thrown instanceof Error ? thrown.message : String(thrown)

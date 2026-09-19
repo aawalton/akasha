@@ -158,7 +158,7 @@ async function putUp(
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, up)
   }
-  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, false, at, up)
+  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
     const every = closures ?? new Map<string, ReadonlySet<string>>()
     return putUpEvery(given.root, restarting ?? new Set<string>(), at, up, every)
@@ -173,7 +173,7 @@ async function putUp(
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
-    return appliedWorkload(given.root, slug, servable.servable, false, at, up)
+    return appliedWorkload(given.root, slug, servable.servable, at, up)
   }
   const bundle = await publishedBundleFor(given.root, slug, false, at, up)
   if (bundle !== null && bundle.refusals.length > 0) {

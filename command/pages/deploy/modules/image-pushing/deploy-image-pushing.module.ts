@@ -34,8 +34,7 @@ export const deployImagePushing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "That line says it was built and pushed, or the registry holds it, or it would be.",
+      statement: "That line says it was built and pushed, or that the registry holds it.",
     },
   ],
 } as const satisfies Module

@@ -139,14 +139,13 @@ export interface Published {
 
 export async function publish(
   build: ImageBuild,
-  dryRun: boolean,
   codeAt: string = ROOT,
   done: string[] = []
 ): Promise<Published> {
   const inputs = inputsFor(build, codeAt)
   const ref = refFor(build.repository, inputs.hash)
   const held = await heldInRegistry(build.repository, inputs.hash)
-  if (held || dryRun) return { slug: build.slug, ref, held, built: false }
+  if (held) return { slug: build.slug, ref, held, built: false }
   const drifted = driftedIn(inputs.copied, codeAt)
   if (drifted.length > 0) {
     throw new Error(
@@ -170,13 +169,12 @@ export function claimedIn(yamls: readonly string[]): readonly ImageNamed[] {
 
 export async function publishedFor(
   yamls: readonly string[],
-  dryRun: boolean,
   codeAt: string = ROOT,
   done: string[] = []
 ): Promise<readonly Published[]> {
   const every: Published[] = []
   for (const named of claimedIn(yamls)) {
-    every.push(await publish(buildOf(named.slug, codeAt), dryRun, codeAt, done))
+    every.push(await publish(buildOf(named.slug, codeAt), codeAt, done))
   }
   return every
 }

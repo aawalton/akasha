@@ -6,14 +6,12 @@ import { publish } from "akasha/infrastructure/container-image/modules/image-pub
 const IMAGE = "image"
 const HELD = "the registry holds it"
 const BUILT = "built and pushed"
-const WOULD = "would be built"
 
 export async function pushedImage(
   slug: string,
-  dryRun: boolean,
   codeAt: string,
   up: string[] = []
 ): Promise<Answer> {
-  const made = await publish(buildOf(slug, codeAt), dryRun, codeAt, up)
-  return told([[IMAGE, made.ref, made.built ? BUILT : made.held ? HELD : WOULD].join("\t")])
+  const made = await publish(buildOf(slug, codeAt), codeAt, up)
+  return told([[IMAGE, made.ref, made.built ? BUILT : HELD].join("\t")])
 }
