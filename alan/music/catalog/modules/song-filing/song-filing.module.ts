@@ -46,5 +46,9 @@ export const songFiling = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes over a song already filed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key a song names its artist under is read from the song page type.",
+    },
   ],
 } as const satisfies Module

@@ -48,5 +48,14 @@ export const catalogueHeld = {
       statement:
         "An artist whose titles meet no track already filed under that artist is a stranger of that name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song is keyed by the musicbrainz id on it whoever that song is filed under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A song filed under another artist takes this artist as a collection it is part of.",
+    },
   ],
 } as const satisfies Module

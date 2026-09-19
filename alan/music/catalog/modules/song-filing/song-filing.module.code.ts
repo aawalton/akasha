@@ -11,12 +11,30 @@ import {
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  propertiesIfNamed,
+  type Source,
+} from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 const ARTIST = "artist"
 
 const SONG = "song"
 
 const PAGE_TYPE = "page-type"
+
+const ARTIST_SLUG_KEY = "artistSlug"
+
+export function artistKeyIn(source: Source): string {
+  const declared = propertiesIfNamed(SONG, source)
+  const named = declared === null ? [] : declared.map((one) => one.key)
+  return named.includes(ARTIST) ? ARTIST : ARTIST_SLUG_KEY
+}
+
+export function underArtistKey(values: Value, key: string): Value {
+  const { artist, artistSlug, ...rest } = values
+  const said = key === ARTIST ? (artist ?? artistSlug) : (artistSlug ?? artist)
+  return said === undefined ? rest : { ...rest, [key]: said }
+}
 
 export type Filing = {
   readonly songs: Map<string, string>

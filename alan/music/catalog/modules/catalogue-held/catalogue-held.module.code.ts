@@ -6,6 +6,8 @@ import {
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { identityHeld } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import {
+  artistNamed,
+  artistsUnder,
   compositionTitle,
   looseTitle,
   songsFiledIn,
@@ -24,10 +26,13 @@ const MUSICBRAINZ = "musicbrainz"
 
 const IDENTITY = "externalIdentity"
 
+const PART_OF = "partOfCollections"
+
 export type Catalogue = {
   readonly names: CatalogueNames
   readonly held: ReadonlyMap<string, Value>
   readonly byTitle: ReadonlyMap<string, string>
+  readonly byWork: ReadonlyMap<string, string>
 }
 
 export type Named = { readonly slug: string; readonly was: Value }
@@ -36,14 +41,24 @@ export function catalogueIn(root: string, artistSlug: string): Catalogue {
   const under = `${ARTIST}/${artistSlug}`
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
+  const byWork = new Map<string, string>()
   for (const one of valuesOfType(root, SONG)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
+    const said = idFrom(one.value[IDENTITY], MUSICBRAINZ)
     const mine = textIn(one.value, "artist") === under
-    rows.push({ slug, externalId: mine ? idFrom(one.value[IDENTITY], MUSICBRAINZ) : null })
+    rows.push({ slug, externalId: mine ? said : null })
     held.set(slug, one.value)
+    if (said !== null && !byWork.has(said)) byWork.set(said, slug)
   }
-  return { names: catalogueNamesFrom(rows), held, byTitle: songsFiledIn(root) }
+  return { names: catalogueNamesFrom(rows), held, byTitle: songsFiledIn(root), byWork }
+}
+
+export function joinedValues(was: Value, artistSlug: string): Value | null {
+  const under = new Set(artistsUnder(was))
+  if (artistNamed(was) === artistSlug || under.has(artistSlug)) return null
+  under.add(artistSlug)
+  return { ...was, [PART_OF]: [...under].map((one) => `${ARTIST}/${one}`) }
 }
 
 const STRANGER =

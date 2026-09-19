@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts"}

@@ -3,6 +3,7 @@ import {
   artistIn,
   type Catalogue,
   catalogueIn,
+  joinedValues,
   strangerIn,
 } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { catalogueSlugFor } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
@@ -35,6 +36,11 @@ import type {
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import {
+  artistKeyIn,
+  underArtistKey,
+} from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
+import {
+  artistNamed,
   songKey,
   titlesUnderArtist,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
@@ -75,10 +81,7 @@ import {
   type Put,
   sourceFor,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import {
-  propertiesIfNamed,
-  type Source,
-} from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import type { Source } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { todayYYYYMMDD } from "akasha/text/writing/modules/today/today.module.code.ts"
 
 const ARTIST = "artist"
@@ -124,6 +127,7 @@ export type Imported = {
   readonly artistSlug: string
   readonly songsTotal: number
   readonly songsWritten: number
+  readonly songsJoined: number
   readonly songsWithLyrics: number
   readonly songsLyricsUnread: number
   readonly derivedFrom: "works" | "recordings"
@@ -154,6 +158,7 @@ export function rowsOf(said: Imported): readonly string[] {
     `lyrics\t${said.songsWithLyrics}`,
     `source\t${said.derivedFrom}`,
   ]
+  if (said.songsJoined > 0) rows.push(`joined\t${said.songsJoined}`)
   if (said.songsLyricsUnread > 0) rows.push(`lyrics-unread\t${said.songsLyricsUnread}`)
   return rows
 }
@@ -163,6 +168,7 @@ export function jsonOf(said: Imported): string {
     artist: { name: said.artistName, mbid: said.mbid, slug: said.artistSlug },
     songsTotal: said.songsTotal,
     songsWritten: said.songsWritten,
+    songsJoined: said.songsJoined,
     songsWithLyrics: said.songsWithLyrics,
     songsLyricsUnread: said.songsLyricsUnread,
     derivedFrom: said.derivedFrom,
@@ -174,22 +180,6 @@ function edited(put: Put): Asking {
 }
 
 type Songed = { readonly edits: readonly Asking[]; readonly worded: Worded }
-
-const ARTIST_KEY = "artist"
-
-const ARTIST_SLUG_KEY = "artistSlug"
-
-function artistKeyIn(source: Source): string {
-  const declared = propertiesIfNamed(SONG, source)
-  const named = declared === null ? [] : declared.map((one) => one.key)
-  return named.includes(ARTIST_KEY) ? ARTIST_KEY : ARTIST_SLUG_KEY
-}
-
-function underArtistKey(values: Value, key: string): Value {
-  const { artist, artistSlug, ...rest } = values
-  const said = key === ARTIST_KEY ? (artist ?? artistSlug) : (artistSlug ?? artist)
-  return said === undefined ? rest : { ...rest, [key]: said }
-}
 
 async function songLanded(
   root: string,
@@ -221,7 +211,27 @@ async function songLanded(
   return { edits, worded }
 }
 
-export type Asked = { readonly slug: string; readonly fields: SongFields; readonly title: string }
+function joinedIn(
+  root: string,
+  catalogue: Catalogue,
+  slug: string,
+  artistSlug: string,
+  source: Source
+): Asking | null | { readonly refused: string } {
+  const was = catalogue.held.get(slug)
+  const values = was === undefined ? null : joinedValues(was, artistSlug)
+  if (values === null) return null
+  const composed = composedFor(root, { pageTypeSlug: SONG, slug, values }, source)
+  if ("refused" in composed) return composed
+  return edited(composed.put)
+}
+
+export type Asked = {
+  readonly slug: string
+  readonly fields: SongFields
+  readonly title: string
+  readonly joins: boolean
+}
 
 export function oneEach(asked: readonly Asked[]): readonly Asked[] {
   const held = new Map<string, Asked>()
@@ -231,12 +241,17 @@ export function oneEach(asked: readonly Asked[]): readonly Asked[] {
 
 export function askedOf(catalogue: Catalogue, artistSlug: string, fields: SongFields): Asked {
   const named = songIdIn(fields) ?? fields.title
-  const held = catalogue.byTitle.get(songKey(artistSlug, fields.title))
+  const held =
+    catalogue.byWork.get(named) ?? catalogue.byTitle.get(songKey(artistSlug, fields.title))
+  const was = held === undefined ? undefined : catalogue.held.get(held)
+  if (held !== undefined && was !== undefined && artistNamed(was) !== artistSlug) {
+    return { slug: held, fields, title: fields.title, joins: true }
+  }
   if (held !== undefined && !catalogue.names.filed.has(named)) {
     catalogue.names.filed.set(named, held)
   }
   const slug = catalogueSlugFor(catalogue.names, artistSlug, fields.title, named)
-  return { slug, fields, title: fields.title }
+  return { slug, fields, title: fields.title, joins: false }
 }
 
 async function mbidFor(held: Taken, reach: Reach): Promise<string | { readonly refused: string }> {
@@ -347,7 +362,15 @@ export async function gathered(
   if (stranger !== null) return { refused: stranger }
   let songsWithLyrics = 0
   let songsLyricsUnread = 0
+  let songsJoined = 0
   for (const one of songs.asked) {
+    if (one.joins) {
+      const join = joinedIn(root, catalogue, one.slug, named.slug, source)
+      if (join !== null && "refused" in join) return join
+      if (join !== null) changes.push(join)
+      songsJoined += 1
+      continue
+    }
     const landed = await songLanded(
       root,
       catalogue,
@@ -368,7 +391,8 @@ export async function gathered(
       artistName: artist.name,
       artistSlug: named.slug,
       songsTotal: songs.asked.length,
-      songsWritten: songs.asked.length,
+      songsWritten: songs.asked.length - songsJoined,
+      songsJoined,
       songsWithLyrics,
       songsLyricsUnread,
       derivedFrom: songs.derivedFrom,

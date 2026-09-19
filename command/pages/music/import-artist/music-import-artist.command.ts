@@ -86,6 +86,11 @@ export const musicImportArtist = {
       decisionKind: "decision-kind/departure",
       statement: "An artist named by a MusicBrainz id is brought in whatever the titles meet.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A work already filed under another artist takes this artist as a collection rather than a page.",
+    },
   ],
   name: "import-artist",
   arguments: [

@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"song-filing.module.code.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"song-filing.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"song-filing.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
+{"propertySlug":"import","fileName":"song-filing.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"song-filing.module.code.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"song-filing.module.test-fixtures.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"song-filing.module.test-fixtures.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}

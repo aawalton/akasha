@@ -217,6 +217,7 @@ function catalogueOf(slug: string, title: string): Catalogue {
     names: catalogueNamesFrom([{ slug, externalId: null }]),
     held: new Map(),
     byTitle: new Map([[songKey(ARTIST_SLUG, title), slug]]),
+    byWork: new Map(),
   }
 }
 
@@ -262,6 +263,19 @@ test("two works of one title already filed are brought in as one song", () => {
   expect(oneEach(both).length).toBe(1)
 })
 
+test("a work already filed under another artist takes this artist rather than a page", () => {
+  const filed = "other-probe-first-probe"
+  const catalogue: Catalogue = {
+    names: catalogueNamesFrom([{ slug: filed, externalId: null }]),
+    held: new Map([[filed, { slug: filed, title: "First Probe", artist: "other-probe" }]]),
+    byTitle: new Map(),
+    byWork: new Map([["w-1", filed]]),
+  }
+  const asked = askedOf(catalogue, ARTIST_SLUG, fieldsOf("w-1", "First Probe"))
+  expect(asked.joins).toBe(true)
+  expect(asked.slug).toBe(filed)
+})
+
 test("a limit caps how many songs are brought in", async () => {
   const found = await gatheringOf(
     reachOf({
@@ -303,6 +317,7 @@ test("what was brought in is said as rows and as JSON", () => {
     artistSlug: ARTIST_SLUG,
     songsTotal: 3,
     songsWritten: 3,
+    songsJoined: 0,
     songsWithLyrics: 2,
     songsLyricsUnread: 0,
     derivedFrom: "works",
