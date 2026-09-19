@@ -10616,10 +10616,6 @@
 {"propertySlug":"world","path":"story/world/mechanics/skills/pages/zigzag-dash/zigzag-dash.world-skill.ts","id":"01a0657d-0338-7198-a410-df7479b398ed"}
 {"propertySlug":"world","path":"story/world/mechanics/skills/pages/zone-of-interception-fire/zone-of-interception-fire.world-skill.ts","id":"01a0657d-0338-702d-8aeb-6e042a99b91d"}
 {"propertySlug":"world","path":"story/world/mechanics/skills/pages/zweihander-chop/zweihander-chop.world-skill.ts","id":"01a0657d-0338-7a15-9211-d01be8bca51a"}
-{"propertySlug":"world","path":"story/world/mechanics/songs/pages/harmony-of-mana.world-song.ts","id":"01a0655a-0688-7508-b6b9-899eb8a2597a"}
-{"propertySlug":"world","path":"story/world/mechanics/songs/pages/lightcaller-harmony.world-song.ts","id":"01a0655a-0688-7eaa-9950-ef1777cafdcd"}
-{"propertySlug":"world","path":"story/world/mechanics/songs/pages/peaceful-melody.world-song.ts","id":"01a0655a-0688-7f77-b8a8-4145aef07660"}
-{"propertySlug":"world","path":"story/world/mechanics/songs/pages/the-brave-fall-first.world-song.ts","id":"01a0655a-0688-7a7c-bab7-ae474cd230aa"}
 {"propertySlug":"world","path":"story/world/mechanics/species/pages/boreal-half-elf/boreal-half-elf.world-species.ts","id":"01a0655a-0687-7dc9-86bf-5cefbf5b7c1d"}
 {"propertySlug":"world","path":"story/world/mechanics/species/pages/drake/drake.world-species.ts","id":"01a0655a-0687-7fd4-b572-3f6bec7bcbf1"}
 {"propertySlug":"world","path":"story/world/mechanics/species/pages/half-elf/half-elf.world-species.ts","id":"01a0655a-0687-75e4-b42e-cc53cafcc644"}
@@ -12710,4 +12706,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/reputations/nerrhavia-s-fallen-heroic.world-reputation.ts","id":"01a0655a-0688-7ddd-9a0e-2c8a57cf94d4"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/reputations/ship-friend-of-the-liminal-folk.world-reputation.ts","id":"01a0655a-0688-78e8-9ae1-6cbce754dbf0"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/reputations/stitchfolk-favored.world-reputation.ts","id":"01a0655a-0688-7d44-81b6-6dd220c7f5b6"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/songs/harmony-of-mana.world-song.ts","id":"01a0655a-0688-7508-b6b9-899eb8a2597a"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/songs/lightcaller-harmony.world-song.ts","id":"01a0655a-0688-7eaa-9950-ef1777cafdcd"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/songs/peaceful-melody.world-song.ts","id":"01a0655a-0688-7f77-b8a8-4145aef07660"}
+{"propertySlug":"world","path":"story/world/pages/the-wandering-inn/mechanics/songs/the-brave-fall-first.world-song.ts","id":"01a0655a-0688-7a7c-bab7-ae474cd230aa"}
 {"propertySlug":"world","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/the-wandering-inn.story-read.ts","id":"01a0657d-ada7-783d-a3df-0d4d06ca98ab"}

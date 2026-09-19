@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/mechanics/songs/pages/harmony-of-mana.world-song.ts"}
-{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/mechanics/songs/pages/lightcaller-harmony.world-song.ts"}
-{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/mechanics/songs/pages/peaceful-melody.world-song.ts"}
-{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/mechanics/songs/pages/the-brave-fall-first.world-song.ts"}
+{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/songs/harmony-of-mana.world-song.ts"}
+{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/songs/lightcaller-harmony.world-song.ts"}
+{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/songs/peaceful-melody.world-song.ts"}
+{"propertySlug":"import","fileName":"world-song.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/songs/the-brave-fall-first.world-song.ts"}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
