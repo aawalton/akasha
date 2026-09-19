@@ -75,6 +75,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts"}

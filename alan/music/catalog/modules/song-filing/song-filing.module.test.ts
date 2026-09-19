@@ -1,0 +1,62 @@
+import { expect, test } from "bun:test"
+import {
+  type Filing,
+  songFiledFor,
+  songValuesFor,
+} from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
+import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+
+function filing(): Filing {
+  return {
+    songs: new Map([[songKey("sylvia-daley", "Elf"), "sylvia-daley-elf"]]),
+    taken: new Set(["sylvia-daley-elf"]),
+    artists: new Set(["sylvia-daley"]),
+  }
+}
+
+test("a title matching no song is filed as a song of the artist the release names", () => {
+  const held = filing()
+  const filed = songFiledFor(held, "sylvia-daley", "Pixie Dust")
+  expect(filed?.slug).toBe("sylvia-daley-pixie-dust")
+  expect(filed?.values).toEqual({
+    type: "page-type/song",
+    slug: "sylvia-daley-pixie-dust",
+    title: "Pixie Dust",
+    artist: "artist/sylvia-daley",
+    performed: true,
+  })
+})
+
+test("a song filed this way is titled the composition rather than the release title", () => {
+  const filed = songFiledFor(filing(), "sylvia-daley", "Pixie Dust - Live At The Grove")
+  expect(filed?.slug).toBe("sylvia-daley-pixie-dust")
+  expect(filed?.values?.["title"]).toBe("Pixie Dust")
+})
+
+test("two titles reducing to one composition are filed as one song", () => {
+  const held = filing()
+  const one = songFiledFor(held, "sylvia-daley", "Pixie Dust")
+  const two = songFiledFor(held, "sylvia-daley", "Pixie Dust (Acoustic)")
+  expect(two?.slug).toBe(one?.slug)
+  expect(two?.values).toBeNull()
+})
+
+test("nothing here writes over a song already filed", () => {
+  const filed = songFiledFor(filing(), "sylvia-daley", "Elf - 2019 Remaster")
+  expect(filed?.slug).toBe("sylvia-daley-elf")
+  expect(filed?.values).toBeNull()
+})
+
+test("no song is filed under an artist who has no page", () => {
+  expect(songFiledFor(filing(), "musical-theater", "Defying Gravity")).toBeNull()
+})
+
+test("a title holding no letter and no digit is filed as no song", () => {
+  expect(songFiledFor(filing(), "sylvia-daley", "★★★")).toBeNull()
+})
+
+test("a song filed this way states no external record and no song type", () => {
+  const values = songValuesFor("sylvia-daley", "sylvia-daley-elf", "Elf")
+  expect(values["externalIdentity"]).toBeUndefined()
+  expect(values["songType"]).toBeUndefined()
+})

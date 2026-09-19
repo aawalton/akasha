@@ -1,6 +1,6 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"MusicBrainz names an artist and the songs MusicBrainz holds a record of."},{"decisionKind":"decision-kind/departure","statement":"LRCLIB states the words of a song."},{"decisionKind":"decision-kind/departure","statement":"Spotify states the releases an artist put out."},{"decisionKind":"decision-kind/absence","statement":"No song waits on a record in MusicBrainz to be filed."}]}
 {"definition":"the songs and the artists who made them"}
 {"id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}
-{"parts":["module/catalogue-held","module/lrclib-client","module/lrclib-map","module/lrclib-schema","module/musicbrainz-client","module/musicbrainz-map","module/musicbrainz-schema","module/catalogue-slug","module/release-syncing","module/song-matching","module/track-syncing","page-type/artist","page-type/artist-collection","page-type/release","page-type/release-collection","page-type/song","page-type/track","service-workstation/spotify-sync"]}
+{"parts":["module/catalogue-held","module/lrclib-client","module/lrclib-map","module/lrclib-schema","module/musicbrainz-client","module/musicbrainz-map","module/musicbrainz-schema","module/catalogue-slug","module/release-syncing","module/song-filing","module/song-matching","module/track-syncing","page-type/artist","page-type/artist-collection","page-type/release","page-type/release-collection","page-type/song","page-type/track","service-workstation/spotify-sync"]}
 {"slug":"music-catalog"}
 {"type":"page-type/domain"}

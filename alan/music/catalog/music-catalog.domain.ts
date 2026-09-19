@@ -15,6 +15,7 @@ export const musicCatalog = {
     "module/musicbrainz-schema",
     "module/catalogue-slug",
     "module/release-syncing",
+    "module/song-filing",
     "module/song-matching",
     "module/track-syncing",
     "page-type/artist",

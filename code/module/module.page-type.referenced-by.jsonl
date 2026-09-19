@@ -741,6 +741,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts"}
