@@ -9,4 +9,5 @@ export const tolveiloukaVeDelinaMer = {
   firstChapter: 506,
   lastChapter: 506,
   characterClaims: "jsonl",
+  aliasOf: "world-character/tolveilouka",
 } as const satisfies WorldCharacter

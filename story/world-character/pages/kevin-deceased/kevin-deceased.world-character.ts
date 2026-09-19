@@ -9,5 +9,5 @@ export const kevinDeceased = {
   firstChapter: 716,
   lastChapter: 716,
   characterClaims: "jsonl",
-  aliasOf: "world-character/kevin-hall",
+  aliasOf: "world-character/kevin",
 } as const satisfies WorldCharacter
