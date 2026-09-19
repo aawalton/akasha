@@ -1606,11 +1606,11 @@
 {"propertySlug":"decision-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contribution-point-transactions.page-property-entry.ts","id":"01a0ba91-e892-7379-95c1-ab471bc6af43"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts","id":"01a0ba90-7481-7416-9833-84de20e54722"}
+{"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/movement/movement.module.ts","id":"01a0ba9a-9aa0-7d5a-a08f-4fd31546c134"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts","id":"01a0ba94-259d-76eb-abb6-1b5550909276"}
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
-{"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
-{"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
+{"propertySlug":"decision-kind","path":"story/wandering-inn/wandering-inn.domain.ts","id":"01a06578-5721-7000-ac18-7acf6bd4ad0b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-rows/played-rows.module.ts","id":"01a0a15f-4c11-7a20-9e33-2b6f0d41c7a5"}

@@ -2531,6 +2531,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/deck-slides/deck-slides.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/resource-list/resource-list.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/stripe/modules/movement/movement.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.ts"}
@@ -2580,12 +2581,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/system-card/system-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/system-choice-card/system-choice-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/system-window-card/system-window-card.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/chapter/chapter.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/site/site.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/syncing/syncing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/characters/modules/character-filing/character-filing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter/chapter.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/played-panels/played-panels.module.ts"}

@@ -5,7 +5,7 @@ export const stripe = {
   type: "page-type/domain",
   slug: "stripe",
   definition: "the money Ko-fi takes, landing in an account of Alan's own",
-  parts: ["module/verify-stripe-signature"],
+  parts: ["module/verify-stripe-signature", "module/movement"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
