@@ -21,7 +21,7 @@ const GIVEN: Given = {
 
 const SAYING = ["--code-root", "/checkout", "--stage", "/stage", "--eso-root", "/lua"]
 
-const UNRUN: Staging = () => {
+const unrun: Staging = () => {
   throw new Error("the staging ran, and this call is refused before anything is read")
 }
 
@@ -32,14 +32,14 @@ test("the world reaches this where the dispatcher hands it, rather than the test
 })
 
 test("an argument this command does not take is refused rather than passed over", async () => {
-  const said = await methoding(["--json"], GIVEN, UNRUN)
+  const said = await methoding(["--json"], GIVEN, unrun)
 
   expect(said.code).not.toBe(0)
   expect(said.refusals.join("\n")).toContain("`--json` is no argument")
 })
 
 test("the Lua root said twice is refused rather than read as the first saying", async () => {
-  const said = await methoding(["--eso-root", "/one", "--eso-root", "/two"], GIVEN, UNRUN)
+  const said = await methoding(["--eso-root", "/one", "--eso-root", "/two"], GIVEN, unrun)
 
   expect(said.code).not.toBe(0)
   expect(said.refusals.join("\n")).toContain("`--eso-root` is said twice")

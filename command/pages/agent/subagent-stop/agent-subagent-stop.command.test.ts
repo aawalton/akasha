@@ -25,7 +25,7 @@ const ACTING = `${SEAT_ID}--${OWN}`
 
 const CHILD = "claude --dangerously-skip-permissions --model opus"
 
-const NO_SAID: RunningSaid = () =>
+const noSaid: RunningSaid = () =>
   Promise.resolve({ running: new Set(), ended: new Set(), outlived: new Set() })
 
 const COMMIT = "1111111111111111111111111111111111111111"
@@ -90,7 +90,7 @@ function stopping(root: string, seen: readonly ProcLivenessEntry[]) {
   const base = mkdtempSync(join(SCRATCH_AT, "amy-subagent-stop-logs-"))
   return {
     held,
-    said: agentSubagentStop([NAME], given(root), seen, base, NO_SAID, held.landing),
+    said: agentSubagentStop([NAME], given(root), seen, base, noSaid, held.landing),
   }
 }
 
@@ -115,7 +115,7 @@ test("a name no subagent holds a page for is a data refusal", async () => {
 test("a stop is written beside the subagent's page", async () => {
   const root = rootWithPage()
   try {
-    const said = await agentSubagentStop([NAME], given(root), [], undefined, NO_SAID)
+    const said = await agentSubagentStop([NAME], given(root), [], undefined, noSaid)
     expect(said.code).toBe(0)
     expect(said.report[0]).toContain("is stopped")
     expect(said.report[0]).toContain("next model turn")
@@ -129,8 +129,8 @@ test("a stop is written beside the subagent's page", async () => {
 test("a subagent stopped already is left as it is, and the run says so", async () => {
   const root = rootWithPage()
   try {
-    await agentSubagentStop([NAME], given(root), [], undefined, NO_SAID)
-    const said = await agentSubagentStop([NAME], given(root), [], undefined, NO_SAID)
+    await agentSubagentStop([NAME], given(root), [], undefined, noSaid)
+    const said = await agentSubagentStop([NAME], given(root), [], undefined, noSaid)
     expect(said.code).toBe(0)
     expect(said.report[0]).toContain("already")
   } finally {

@@ -40,12 +40,12 @@ import {
   seatFiled,
   stoppedGoes,
   stoppedStays,
-  THREW_AFTER,
-  THROWN,
   THROWS,
   takeLine,
   there,
   threePaged,
+  threwAfter,
+  thrown,
   twoThea,
   twoWaiting,
   UNREADABLE,
@@ -362,7 +362,7 @@ test("a page a live process acts under stays though the transcript says that pag
 
 test("a run whose landing committed before it threw names that commit", async () => {
   const { root, base } = worldWith()
-  const said = await removing(root, base, GONE, saying([]), THREW_AFTER)
+  const said = await removing(root, base, GONE, saying([]), threwAfter)
   expect(said.refusals.join("\n")).toContain(COMMIT)
   world.sweep()
 })
@@ -382,7 +382,7 @@ test("a run whose landing threw part way names in its refusal what it had moved"
   const { root, base } = worldWith()
   twoWaiting(root)
 
-  const said = await removing(root, base, ALIVE, saying([]), THROWN)
+  const said = await removing(root, base, ALIVE, saying([]), thrown)
   expect(said.code).toBe(3)
   const last = said.refusals[said.refusals.length - 1] as string
   expect(last).toContain(unlandedBy("thea", OWN))
@@ -404,7 +404,7 @@ test("a stopped page anything reads as working stays and is named to no landing"
 test("a run whose landing threw before anything moved names nothing moved", async () => {
   const { root, base } = worldWith()
 
-  const said = await removing(root, base, GONE, saying([]), THROWN)
+  const said = await removing(root, base, GONE, saying([]), thrown)
   expect(said.code).toBe(3)
   expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
   world.sweep()

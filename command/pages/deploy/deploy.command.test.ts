@@ -50,7 +50,7 @@ async function offTheCluster<T>(act: () => Promise<T>): Promise<T> {
 
 const HERE = given(committed(WORLD.root))
 
-const NO_WAIT: Waiting = async () => await Promise.resolve(undefined)
+const noWait: Waiting = async () => await Promise.resolve(undefined)
 
 function keptAt(commit: string | null = null): Fetcher {
   return (url) => {
@@ -64,12 +64,12 @@ function keptAt(commit: string | null = null): Fetcher {
 
 const KEPT: Fetcher = keptAt()
 
-const NO_JOB: Dispatching = () => {
+const noJob: Dispatching = () => {
   throw new Error("a job went up in the cluster")
 }
 
 const deploy = async (...said: Parameters<typeof deploying>) =>
-  await deploying(said[0], said[1], said[2], NO_WAIT, said[4] ?? KEPT, said[5] ?? NO_JOB)
+  await deploying(said[0], said[1], said[2], noWait, said[4] ?? KEPT, said[5] ?? noJob)
 
 function pastTheChecks(): {
   readonly root: string
@@ -179,7 +179,7 @@ test("a call naming no commit answers no commit rather than a fixed one", async 
     seen.push(wanted)
     return await Promise.resolve({ report: [], refusals: [], code: OK })
   }
-  await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
+  await deploy(["one-web"], given(world.root), putting, noWait, world.kept)
   expect(seen[0]?.ref).toBeNull()
 })
 
@@ -220,7 +220,7 @@ test("a deploy that threw part way names in its refusal what it had put up", asy
     up.push(`${world.commit}, pushed to origin main`)
     throw new Error("kubectl apply was killed")
   }
-  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
+  const answer = await deploy(["one-web"], given(world.root), putting, noWait, world.kept)
   expect(answer.code).toBe(3)
   expect(answer.refusals[0]).toContain("kubectl apply was killed")
   expect(answer.refusals[1]).toContain(IMAGE)
@@ -238,7 +238,7 @@ test("a deploy refused without a throw names in its refusal what it had put up",
       code: OPERATIONAL,
     })
   }
-  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
+  const answer = await deploy(["one-web"], given(world.root), putting, noWait, world.kept)
   expect(answer.refusals[0]).toContain("kubectl apply exited 1")
   expect(answer.refusals[1]).toContain(IMAGE)
 })
@@ -251,7 +251,7 @@ test("a deploy refused with nothing put up says nothing about what it put up", a
       refusals: ["the recipe names no repository"],
       code: DATA,
     })
-  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
+  const answer = await deploy(["one-web"], given(world.root), putting, noWait, world.kept)
   expect(answer.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
 
@@ -260,7 +260,7 @@ test("a deploy that threw before anything reached a machine says that rather tha
   const putting: PuttingUp = () => {
     throw new Error("the pinned tree would not open")
   }
-  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
+  const answer = await deploy(["one-web"], given(world.root), putting, noWait, world.kept)
   expect(answer.code).toBe(3)
   expect(answer.refusals[1]).toContain("nothing it puts up had reached a machine")
   expect(answer.refusals[1]).not.toContain("may be")
@@ -287,7 +287,7 @@ test("a deploy that put nothing up says so, which that sentence does not", () =>
   expect(stoppedPartWay([])).toContain("nothing it puts up had reached a machine")
 })
 
-const NOWHERE_HERE: PuttingUp = () => {
+const nowhereHere: PuttingUp = () => {
   throw new Error("the deploy ran on the workstation")
 }
 
@@ -298,7 +298,7 @@ test("a web app is sent to the cluster rather than put up on the workstation", a
     return { said: ["commit\tabc", "up\tone-web"] }
   }
   const answer = await offTheCluster(
-    async () => await deploy(["one-web"], HERE, NOWHERE_HERE, NO_WAIT, KEPT, dispatching)
+    async () => await deploy(["one-web"], HERE, nowhereHere, noWait, KEPT, dispatching)
   )
   expect(answer.code).toBe(OK)
   expect(answer.report).toEqual(["commit\tabc", "up\tone-web"])
@@ -308,7 +308,7 @@ test("a web app is sent to the cluster rather than put up on the workstation", a
 test("what the run in the cluster would not do refuses the deploy", async () => {
   const dispatching: Dispatching = () => ({ why: "the job deploy-one-web-0123 failed" })
   const answer = await offTheCluster(
-    async () => await deploy(["one-web"], HERE, NOWHERE_HERE, NO_WAIT, KEPT, dispatching)
+    async () => await deploy(["one-web"], HERE, nowhereHere, noWait, KEPT, dispatching)
   )
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("deploy-one-web-0123 failed")
@@ -318,7 +318,7 @@ test("a deploy that is the run in the cluster puts up there rather than sending 
   const world = pastTheChecks()
   const putting: PuttingUp = async () =>
     await Promise.resolve({ report: ["up\tone-web"], refusals: [], code: OK })
-  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept, NO_JOB)
+  const answer = await deploy(["one-web"], given(world.root), putting, noWait, world.kept, noJob)
   expect(answer.code).toBe(OK)
   expect(answer.report).toContain("up\tone-web")
 })

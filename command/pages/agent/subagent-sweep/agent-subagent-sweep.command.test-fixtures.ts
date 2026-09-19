@@ -401,11 +401,11 @@ export function countingReads(): { reads: SeatTranscripts; asked: () => number }
   return { reads, asked: () => asked }
 }
 
-export const THROWN: Landing = () => {
+export const thrown: Landing = () => {
   throw new OperationalError("another landing held the lock")
 }
 
-export const THREW_AFTER: Landing = (_root, _changes, _message, noting) => {
+export const threwAfter: Landing = (_root, _changes, _message, noting) => {
   noting?.done?.push(COMMIT)
   throw new OperationalError("the commit landed and the work after that commit stopped")
 }

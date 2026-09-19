@@ -40,16 +40,16 @@ import {
   NONE,
   oldAt,
   PROBE_DAY,
-  PROBE_PLAYS,
   pathsOf,
   playOf,
+  probePlays,
   REPEAT_PLAYS,
   ROOT,
   rowsIn,
   THREE_PLAYS,
-  TOLD_NOTHING,
   type Told,
   TWO_PLAYS,
+  toldNothing,
 } from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 
@@ -305,7 +305,7 @@ test("what capture files is named to the landing at the change writing any path"
     message = said
     return undefined
   }
-  const answer = await capturing([], GIVEN, PROBE_PLAYS, landingTelling(told))
+  const answer = await capturing([], GIVEN, probePlays, landingTelling(told))
   expect(answer.refusals).toEqual([])
   expect(answer.code).toBe(0)
   expect(message).toContain("listen(s) over")
@@ -314,7 +314,7 @@ test("what capture files is named to the landing at the change writing any path"
 })
 
 test("a run saying to write nothing reaches no landing and names what would be written", async () => {
-  const answer = await capturing(["--dry-run"], GIVEN, PROBE_PLAYS, () => {
+  const answer = await capturing(["--dry-run"], GIVEN, probePlays, () => {
     throw new Error("a dry run reached the landing")
   })
   expect(answer.code).toBe(0)
@@ -323,8 +323,8 @@ test("a run saying to write nothing reaches no landing and names what would be w
 })
 
 test("a landing that refused is answered with the refusal and nothing filed", async () => {
-  const held = landingTelling(TOLD_NOTHING, LOCK_HELD)
-  const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
+  const held = landingTelling(toldNothing, LOCK_HELD)
+  const answer = await capturing([], GIVEN, probePlays, held)
   expect(answer.code).toBe(3)
   expect(answer.refusals).toEqual(["the lock was held"])
   expect(answer.report).toEqual([])
@@ -332,15 +332,15 @@ test("a landing that refused is answered with the refusal and nothing filed", as
 
 test("a landing that wrote before it went wrong names what it wrote", async () => {
   const landed = { ...LANDED, landed: ["one/day.listens.jsonl"], wrong: ["the install stopped"] }
-  const answer = await capturing([], GIVEN, PROBE_PLAYS, landingTelling(TOLD_NOTHING, landed))
+  const answer = await capturing([], GIVEN, probePlays, landingTelling(toldNothing, landed))
   expect(answer.code).toBe(3)
   expect(answer.refusals).toEqual(["the install stopped"])
   expect(answer.report).toEqual(["wrote one/day.listens.jsonl"])
 })
 
 test("what landed is reported under the rows saying what was filed", async () => {
-  const held = landingTelling(TOLD_NOTHING, { ...LANDED, landed: ["one/day.listens.jsonl"] })
-  const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
+  const held = landingTelling(toldNothing, { ...LANDED, landed: ["one/day.listens.jsonl"] })
+  const answer = await capturing([], GIVEN, probePlays, held)
   expect(answer.report[0]).toBe("fetched\t1")
   expect(answer.report).toContain("wrote one/day.listens.jsonl")
 })
@@ -348,14 +348,14 @@ test("what landed is reported under the rows saying what was filed", async () =>
 const WRONG = new Error("the commit went wrong")
 
 test("a run that landed then threw says what it landed", async () => {
-  const said = await capturing([], GIVEN, PROBE_PLAYS, throwingAfter(["abc"], WRONG))
+  const said = await capturing([], GIVEN, probePlays, throwingAfter(["abc"], WRONG))
   expect(said.report).toEqual(["abc"])
   expect(said.refusals.at(-1)).toBe(partWay(["abc"])[0])
   expect(said.code).toBe(OPERATIONAL)
 })
 
 test("a run that threw before it landed says why alone", async () => {
-  const said = await capturing([], GIVEN, PROBE_PLAYS, throwingAfter([], WRONG))
+  const said = await capturing([], GIVEN, probePlays, throwingAfter([], WRONG))
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("the commit went wrong")
   expect(said.refusals.at(-1)).not.toContain("stopped part way")
@@ -363,7 +363,7 @@ test("a run that threw before it landed says why alone", async () => {
 
 test("a run that wrote twice names both in order", async () => {
   const wrote = ["wrote one/day.listens.jsonl", "abc"]
-  const said = await capturing([], GIVEN, PROBE_PLAYS, throwingAfter(wrote, WRONG))
+  const said = await capturing([], GIVEN, probePlays, throwingAfter(wrote, WRONG))
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toBe(partWay(wrote)[0])
 })

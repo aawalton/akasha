@@ -22,7 +22,7 @@ const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null
 
 const HELD_RULES = WROTE.read
 
-const NO_RULES = (): Promise<InventoryRuleSettings> => Promise.resolve({ version: 2, rules: [] })
+const noRules = (): Promise<InventoryRuleSettings> => Promise.resolve({ version: 2, rules: [] })
 
 test("the page takes one flag, and asking for JSON is the whole of the call", () => {
   expect(page.arguments.length).toBe(1)
@@ -42,7 +42,7 @@ test("the rules are given in the order the settings have", async () => {
 })
 
 test("settings holding no item rule are answered with no rule rather than nothing", async () => {
-  const said = await listing(false, NO_RULES)
+  const said = await listing(false, noRules)
   expect(said.refusals).toEqual([])
   expect(said.report.join("\n")).not.toContain(ITEM_HELD)
 })

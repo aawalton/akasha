@@ -82,7 +82,7 @@ export const SEAT_PAGE = "agent/seat/pages/held.seat.ts"
 
 export const BIN = "akasha/one/held.bin"
 
-const SEATLESS: SeatAt = () => null
+const seatless: SeatAt = () => null
 
 export function seatedAt(at: string): SeatAt {
   return (agentId) => (agentId === AGENT ? at : null)
@@ -92,7 +92,7 @@ export function seatRoot(body = "one\ntwo\n"): string {
   return rootWith([{ at: SEAT_PAGE, body }])
 }
 
-export function read(argv: readonly string[], given: Given, seatAt: SeatAt = SEATLESS): Answer {
+export function read(argv: readonly string[], given: Given, seatAt: SeatAt = seatless): Answer {
   return readWith(argv, given, null, seatAt)
 }
 
@@ -104,7 +104,7 @@ export type Rooted = { readonly root: string; readonly said: Answer }
 
 export function bareRead(at: string | null): Rooted {
   const root = seatRoot()
-  return { root, said: read([], givenFor(root), at === null ? SEATLESS : seatedAt(at)) }
+  return { root, said: read([], givenFor(root), at === null ? seatless : seatedAt(at)) }
 }
 
 export type Besided = Rooted & { readonly asked: () => number }
@@ -178,7 +178,7 @@ export function waitedOut(): Waited {
   const root = heldRoot()
   const given = { ...givenFor(root), agentId: PAGELESS }
   const at = Date.now()
-  const said = readWith(["--file-path", HELD], given, null, SEATLESS, WAITED)
+  const said = readWith(["--file-path", HELD], given, null, seatless, WAITED)
   return { root, said, spent: Date.now() - at }
 }
 

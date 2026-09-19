@@ -68,7 +68,7 @@ function ran(stdout: string, code: number): Ran {
   return () => Promise.resolve({ stdout, code })
 }
 
-const SECRET = (): string => "the-keychain-password"
+const secret = (): string => "the-keychain-password"
 
 test("each step the mac got through is named in the order the script ran them", () => {
   expect(doneIn(WHOLE)).toEqual([
@@ -84,7 +84,7 @@ test("a run that failed after the checkout still names the checkout and the sync
     "quiet",
     () => PHONED,
     ran(`${CHECKED_OUT}\n${SYNCED}\nerror: code signing failed`, 65),
-    SECRET
+    secret
   )
 
   expect(answer.code).toBe(OPERATIONAL)
@@ -94,7 +94,7 @@ test("a run that failed after the checkout still names the checkout and the sync
 })
 
 test("a run that reached the mac and got nothing done names no step", async () => {
-  const answer = await installedOnDevice("quiet", () => PHONED, ran("", 255), SECRET)
+  const answer = await installedOnDevice("quiet", () => PHONED, ran("", 255), secret)
 
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.report).not.toContain("the app was built")
@@ -106,7 +106,7 @@ test("an ssh that threw before the mac ran anything names nothing", async () => 
     "quiet",
     () => PHONED,
     () => Promise.reject(new OperationalError("ssh not found on PATH")),
-    SECRET
+    secret
   )
 
   expect(answer.report).toEqual([])

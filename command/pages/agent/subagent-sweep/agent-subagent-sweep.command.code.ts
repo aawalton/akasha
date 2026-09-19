@@ -82,7 +82,7 @@ export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<OwnIds>
 
 export type SeatsNow = () => Iterable<string>
 
-const NO_SEATS: SeatsNow = () => []
+const noSeats: SeatsNow = () => []
 
 function seatsNow(): Iterable<string> {
   try {
@@ -106,7 +106,7 @@ export async function runningOwnIn(
   pathOf: TranscriptPathOf,
   pidOf: HolderPidOf = akashaHolderPidOf,
   startedAt: (pid: number) => number | null = clientStartedAt,
-  seatsOf: SeatsNow = NO_SEATS
+  seatsOf: SeatsNow = noSeats
 ): Promise<OwnIds> {
   const running = new Set<string>()
   const ended = new Set<string>()

@@ -170,10 +170,10 @@ export function landingTelling(told: Told, answer: Applied | Refused = LANDED): 
   }
 }
 
-export const PROBE_PLAYS: Plays = async () => ({
+export const probePlays: Plays = async () => ({
   items: [
     playOf("probe-track-nine", "2026-09-02T12:00:00.000Z", "Probe Nine", "Probe Artist Nine"),
   ],
 })
 
-export const TOLD_NOTHING: Told = () => undefined
+export const toldNothing: Told = () => undefined
