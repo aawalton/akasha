@@ -2,8 +2,8 @@
 
 import {
   getNavItemProducts,
-  navItemContent,
-  navItemTech,
+  NAV_ITEM_CONTENT,
+  NAV_ITEM_TECH,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import { PALETTE_ONLY } from "akasha/design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.code.ts"
@@ -22,7 +22,7 @@ export interface NavCommand {
 }
 
 function internalNavCommands(): readonly NavCommand[] {
-  const sections = [getNavItemProducts(), navItemContent, navItemTech]
+  const sections = [getNavItemProducts(), NAV_ITEM_CONTENT, NAV_ITEM_TECH]
   const fromSidebar = sections
     .flatMap((section) => section.children ?? [])
     .filter(

@@ -9,9 +9,9 @@ import {
   type CtaSlide,
   type LevelSlide,
   type ResourceBarColor,
+  SLIDES,
   type Slide,
   type StoplightColor,
-  slides,
   type TitleSlide,
 } from "akasha/product/audhdalan/web/modules/deck-slides/deck-slides.module.code.ts"
 import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
@@ -24,7 +24,7 @@ const ABOUT_FACT_ICONS: Record<AboutFactIcon, typeof Brain> = {
   gauge: Gauge,
 }
 
-const total = slides.length
+const total = SLIDES.length
 
 function parseHashIndex(raw: string): number {
   const trimmed = raw.replace(/^#/, "")
@@ -52,7 +52,7 @@ export function DeckPageContent() {
   }, [])
 
   useEffect(() => {
-    const slide = slides[index]
+    const slide = SLIDES[index]
     if (slide != null) {
       document.title = `${slide.title} — AutCon 2026`
     }
@@ -91,7 +91,7 @@ export function DeckPageContent() {
     return () => window.removeEventListener("keydown", onKey)
   }, [go, index])
 
-  const slide = slides[index]
+  const slide = SLIDES[index]
   if (!slide) return null
 
   return (
@@ -100,10 +100,10 @@ export function DeckPageContent() {
         <div className="flex-1">{renderSlide(slide)}</div>
       </div>
       <div className="mx-auto flex w-full max-w-4xl flex-col gap-16 px-6 py-12 sm:hidden">
-        {slides.map((s, i) => (
+        {SLIDES.map((s, i) => (
           <section key={s.number} className="flex flex-col gap-16">
             {renderSlide(s)}
-            {i < slides.length - 1 ? <Separator /> : null}
+            {i < SLIDES.length - 1 ? <Separator /> : null}
           </section>
         ))}
       </div>

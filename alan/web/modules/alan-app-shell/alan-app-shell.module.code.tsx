@@ -5,9 +5,9 @@ import {
 } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import {
   getNavItemProducts,
-  navItemContent,
-  navItemTech,
-  primaryNavItems,
+  NAV_ITEM_CONTENT,
+  NAV_ITEM_TECH,
+  PRIMARY_NAV_ITEMS,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"
@@ -80,7 +80,7 @@ function AuthFooter({ user }: { user: { id: string } | null }) {
   )
 }
 
-const staticBottomSections = [navItemContent, navItemTech] as const
+const STATIC_BOTTOM_SECTIONS = [NAV_ITEM_CONTENT, NAV_ITEM_TECH] as const
 
 function AdminDialogs() {
   const [quickAddOpen, setQuickAddOpen] = useState(false)
@@ -151,14 +151,14 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
   } = useAppNavItems({
     appId: ALANWALTON_APP_ID,
     appSlug: ALANWALTON_APP_SLUG,
-    primaryItems: primaryNavItems,
+    primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })
 
   const config = useMemo<AppNavConfig>(
     () => ({
       primaryItems: dynamicPrimaryItems,
-      bottomSections: [getNavItemProducts(), ...staticBottomSections],
+      bottomSections: [getNavItemProducts(), ...STATIC_BOTTOM_SECTIONS],
       brandLabel: "ALAN",
       bottomNavMaxItems: 5,
       navReady,

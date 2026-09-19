@@ -11,7 +11,7 @@ import {
   ARCHIVE_OF_WORLDS_APP_ID,
   ARCHIVE_OF_WORLDS_APP_SLUG,
 } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
-import { primaryNavItems } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
+import { PRIMARY_NAV_ITEMS } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
 import { useMemo } from "react"
 
 interface AppShellProps {
@@ -32,7 +32,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
   } = useAppNavItems({
     appId: ARCHIVE_OF_WORLDS_APP_ID,
     appSlug: ARCHIVE_OF_WORLDS_APP_SLUG,
-    primaryItems: primaryNavItems,
+    primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })
 

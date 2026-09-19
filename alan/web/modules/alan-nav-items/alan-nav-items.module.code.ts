@@ -13,9 +13,9 @@ import { z } from "zod"
 
 const NODE_ENV_SCHEMA = z.string().optional()
 
-export const primaryNavItems: AppNavItem[] = []
+export const PRIMARY_NAV_ITEMS: AppNavItem[] = []
 
-export const navItemContent: AppNavItem = {
+export const NAV_ITEM_CONTENT: AppNavItem = {
   id: "content",
   label: "Content",
   shortLabel: "Content",
@@ -38,7 +38,7 @@ export const navItemContent: AppNavItem = {
   ],
 }
 
-export const navItemTech: AppNavItem = {
+export const NAV_ITEM_TECH: AppNavItem = {
   id: "tech",
   label: "Tech",
   shortLabel: "Tech",

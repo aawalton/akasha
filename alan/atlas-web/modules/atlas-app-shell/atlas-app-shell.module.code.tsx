@@ -2,7 +2,7 @@ import {
   ATLAS_APP_ID,
   ATLAS_APP_SLUG,
 } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"
-import { primaryNavItems } from "akasha/alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.code.ts"
+import { PRIMARY_NAV_ITEMS } from "akasha/alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.code.ts"
 import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
@@ -32,7 +32,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
   } = useAppNavItems({
     appId: ATLAS_APP_ID,
     appSlug: ATLAS_APP_SLUG,
-    primaryItems: primaryNavItems,
+    primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })
 

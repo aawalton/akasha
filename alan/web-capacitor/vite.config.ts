@@ -10,18 +10,18 @@ const NODE_IN_CLIENT_IS_FATAL = true
 
 const repoRoot = rootOf(import.meta.dirname ?? process.cwd())
 
-const browserExternalPrefix = "__vite-browser-external:"
+const BROWSER_EXTERNAL_PREFIX = "__vite-browser-external:"
 
 function nodeBuiltinReached(dep: string): string | undefined {
   const id = dep.replace(/^\0/, "")
-  if (id.startsWith(browserExternalPrefix)) {
-    return id.slice(browserExternalPrefix.length) || "node"
+  if (id.startsWith(BROWSER_EXTERNAL_PREFIX)) {
+    return id.slice(BROWSER_EXTERNAL_PREFIX.length) || "node"
   }
   if (id.startsWith("node:") || id.startsWith("bun:")) return id
   return undefined
 }
 
-const noNodeInClient: Plugin = {
+const NO_NODE_IN_CLIENT: Plugin = {
   name: "no-node-in-client",
   applyToEnvironment: (environment) => environment.name === "client",
   buildEnd() {
@@ -71,7 +71,7 @@ const noNodeInClient: Plugin = {
 export default defineConfig({
   base: "/",
   envDir: "../web",
-  plugins: [tailwindcss(), reactRouter(), noNodeInClient, supabaseClientEnvGuard()],
+  plugins: [tailwindcss(), reactRouter(), NO_NODE_IN_CLIENT, supabaseClientEnvGuard()],
   resolve: {
     tsconfigPaths: true,
   },

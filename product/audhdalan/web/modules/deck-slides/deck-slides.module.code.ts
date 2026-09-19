@@ -65,7 +65,7 @@ export type CtaSlide = {
 
 export type Slide = TitleSlide | AboutSlide | AgendaSlide | LevelSlide | CtaSlide
 
-export const slides: readonly Slide[] = [
+export const SLIDES: readonly Slide[] = [
   {
     number: 0,
     kind: "title",
