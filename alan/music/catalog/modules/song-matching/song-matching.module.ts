@@ -72,5 +72,10 @@ export const songMatching = {
       decisionKind: "decision-kind/departure",
       statement: "A track whose release names no artist takes the artist Spotify credits on it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A song is under the artist that song names and under every artist that song is part of.",
+    },
   ],
 } as const satisfies Module

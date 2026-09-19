@@ -7,6 +7,8 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
+const ARTIST = "artist"
+
 const SONG = "song"
 
 const UNDER_ARTIST = "artist/"
@@ -62,15 +64,31 @@ export function songKey(artistSlug: string, title: string): string {
   return `${artistSlug}|${looseTitle(title)}`
 }
 
-export function artistUnder(value: Value): string | null {
+export function artistsUnder(value: Value): readonly string[] {
   const held = value["partOfCollections"]
-  if (!Array.isArray(held)) return null
+  if (!Array.isArray(held)) return []
+  const under: string[] = []
   for (const said of held) {
     if (typeof said === "string" && said.startsWith(UNDER_ARTIST)) {
-      return said.slice(UNDER_ARTIST.length)
+      under.push(said.slice(UNDER_ARTIST.length))
     }
   }
-  return null
+  return under
+}
+
+export function artistUnder(value: Value): string | null {
+  return artistsUnder(value)[0] ?? null
+}
+
+export function artistNamed(value: Value): string | null {
+  const said = textIn(value, ARTIST)
+  if (said === null) return null
+  return said.startsWith(UNDER_ARTIST) ? said.slice(UNDER_ARTIST.length) : said
+}
+
+export function artistsOfSong(value: Value): readonly string[] {
+  const named = artistNamed(value)
+  return [...new Set([...(named === null ? [] : [named]), ...artistsUnder(value)])]
 }
 
 export function artistByRelease(root: string): ReadonlyMap<string, string> {
@@ -130,11 +148,11 @@ export function songsFiledIn(root: string): ReadonlyMap<string, string> {
   for (const one of valuesOfType(root, SONG)) {
     const slug = textIn(one.value, "slug")
     const title = textIn(one.value, "title")
-    const artist = textIn(one.value, "artist")
-    if (slug === null || title === null || artist === null) continue
-    const under = artist.startsWith(UNDER_ARTIST) ? artist.slice(UNDER_ARTIST.length) : artist
-    const key = songKey(under, title)
-    if (!byTitle.has(key)) byTitle.set(key, slug)
+    if (slug === null || title === null) continue
+    for (const under of artistsOfSong(one.value)) {
+      const key = songKey(under, title)
+      if (!byTitle.has(key)) byTitle.set(key, slug)
+    }
   }
   return byTitle
 }
