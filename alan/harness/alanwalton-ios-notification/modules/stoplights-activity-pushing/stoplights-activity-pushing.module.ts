@@ -10,7 +10,11 @@ export const stoplightsActivityPushing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken from the readout pages rather than fetched over HTTP.",
+      statement: "The reading is taken from the readout pages rather than from a route.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages are reached at the loopback this workstation's own service binds.",
     },
     {
       decisionKind: "decision-kind/departure",

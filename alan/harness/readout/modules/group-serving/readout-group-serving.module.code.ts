@@ -17,7 +17,10 @@ import {
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  askingFor,
+  type Fetcher,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 
@@ -75,11 +78,14 @@ function fallingWith(
   }
 }
 
-async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
-  const asked = await askingFor({
-    pageTypeSlug: READOUT_SCALE,
-    where: { slug: { is: scaleSlug } },
-  })
+async function rungsOf(scaleSlug: string, fetcher?: Fetcher): Promise<readonly Rung[]> {
+  const asked = await askingFor(
+    {
+      pageTypeSlug: READOUT_SCALE,
+      where: { slug: { is: scaleSlug } },
+    },
+    fetcher
+  )
   if ("refused" in asked) return []
   const [row] = asked.rows
   return row === undefined ? [] : rungsIn(row)
@@ -127,12 +133,13 @@ export function stoplightWith(
 export async function stoplightOf(
   row: Values,
   wireKeyName: string = HABIT,
-  readingHeld: ReadingHeld = readingHeldOn
+  readingHeld: ReadingHeld = readingHeldOn,
+  fetcher?: Fetcher
 ): Promise<Stoplight | null> {
   const scaleSlug = scaleSlugIn(row)
   if (scaleSlug === undefined) return null
   const reading = readingHeld(row)
-  const rungs = reading.held === "fresh" ? await rungsOf(scaleSlug) : []
+  const rungs = reading.held === "fresh" ? await rungsOf(scaleSlug, fetcher) : []
   return stoplightWith(row, rungs, wireKeyName, () => reading)
 }
 
@@ -140,11 +147,14 @@ export function stilled(row: Values): boolean {
   return row.enabled === false
 }
 
-async function figureOffScaleOf(groupSlug: string): Promise<boolean> {
-  const asked = await askingFor({
-    pageTypeSlug: READOUT_GROUP,
-    where: { slug: { is: groupSlug } },
-  })
+async function figureOffScaleOf(groupSlug: string, fetcher?: Fetcher): Promise<boolean> {
+  const asked = await askingFor(
+    {
+      pageTypeSlug: READOUT_GROUP,
+      where: { slug: { is: groupSlug } },
+    },
+    fetcher
+  )
   if ("refused" in asked) return false
   const [row] = asked.rows
   return row?.figureOffScale === true
@@ -153,20 +163,24 @@ async function figureOffScaleOf(groupSlug: string): Promise<boolean> {
 export async function stoplightsInGroup(
   groupSlug: string,
   wireKeyName: string = HABIT,
-  readingHeld: ReadingHeld = readingHeldOn
+  readingHeld: ReadingHeld = readingHeldOn,
+  fetcher?: Fetcher
 ): Promise<readonly Stoplight[]> {
-  const asked = await askingFor({
-    pageTypeSlug: READOUT,
-    where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
-  })
+  const asked = await askingFor(
+    {
+      pageTypeSlug: READOUT,
+      where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
+    },
+    fetcher
+  )
   if ("refused" in asked) return []
 
-  const figureOffScale = await figureOffScaleOf(groupSlug)
+  const figureOffScale = await figureOffScaleOf(groupSlug, fetcher)
 
   const stoplights: Stoplight[] = []
   for (const row of inPlaceOrder(asked.rows)) {
     if (stilled(row)) continue
-    const one = await stoplightOf(row, wireKeyName, readingHeld)
+    const one = await stoplightOf(row, wireKeyName, readingHeld, fetcher)
     if (one !== null) stoplights.push(figureOffScale ? { ...one, figureOffScale } : one)
   }
   return stoplights

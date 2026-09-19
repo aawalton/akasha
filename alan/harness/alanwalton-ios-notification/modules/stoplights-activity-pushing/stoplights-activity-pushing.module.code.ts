@@ -5,6 +5,7 @@ import type {
 import {
   listActivityTokens,
   liveActivityTopic,
+  onTheWorkstation,
   pruneDeviceToken,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
 import { stoplightsInGroup } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
@@ -25,7 +26,15 @@ export interface ActivityPushState {
 
 export async function contentNow(takenAt: string): Promise<StoplightsContent> {
   const [upkeep, inboxes, attributes] = await Promise.all(
-    ACTIVITY_GROUPS.map((one) => stoplightsInGroup(one.group, one.wireKey) as Promise<ActivityRows>)
+    ACTIVITY_GROUPS.map(
+      (one) =>
+        stoplightsInGroup(
+          one.group,
+          one.wireKey,
+          undefined,
+          onTheWorkstation
+        ) as Promise<ActivityRows>
+    )
   )
   return contentOf([upkeep ?? [], inboxes ?? [], attributes ?? []], takenAt)
 }

@@ -61,6 +61,14 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller off the cluster hands in how the pages are reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller handing in none reaches the pages the way every other reader does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The stoplight a row makes is worked out from rungs handed in.",
     },
     {
