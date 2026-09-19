@@ -4,7 +4,7 @@ export const aineContribution = {
   id: "01a0b743-eea8-743e-826e-771bc840d92f",
   type: "page-type/initiative",
   slug: "aine-contribution",
-  domain: "domain/product",
+  domain: "domain/kofi",
   persona: "persona/aine",
   intentStack: [
     { statement: "Alan has a Ko-fi page people can back him on." },
