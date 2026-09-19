@@ -123,5 +123,9 @@ export const unitWriting = {
       decisionKind: "decision-kind/absence",
       statement: "A service handed no origin has that name nowhere in its unit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every unit writes its throwaway files where the rest of the system writes them.",
+    },
   ],
 } as const satisfies Module

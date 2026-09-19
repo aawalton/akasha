@@ -1,3 +1,4 @@
+import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { loadedHere } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
 import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -124,6 +125,7 @@ export function serviceUnitText(given: Service): string {
     `WorkingDirectory=${CHECKOUT}`,
     `Environment=PATH=${PATH_ENV}`,
     `Environment=AKASHA_ROOT=${CHECKOUT}`,
+    `Environment=TMPDIR=${SCRATCH_AT}`,
     ...(given.pagesOrigin === undefined ? [] : [`Environment=${ORIGIN_ENV}=${given.pagesOrigin}`]),
     ...execLines(given),
   ]

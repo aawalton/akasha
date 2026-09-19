@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test.ts"}
