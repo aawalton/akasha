@@ -1,0 +1,61 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const findingTreeAssemble = {
+  id: "01a0b733-1334-745d-9d31-186baa85e4a2",
+  type: "page-type/module",
+  slug: "finding-tree-assemble",
+  definition: "the tree of findings the domains they name are turned into",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A finding hangs under the domain that finding names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The domains are nested here the way the domains panel nests them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain with no finding beneath it anywhere is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain's count is every finding beneath it rather than every row beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That count reaches the whole descent rather than the findings hanging directly.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A finding carries no count of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain's own findings are drawn after the domains beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The findings of one domain are ordered by the name each finding is filed under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A finding naming a domain the nesting never reached is drawn as a root of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every domain named that way is reported unreached as well as drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A finding missing the domain it is of or the sentence it says is skipped.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads a file the editor holds.",
+    },
+  ],
+} as const satisfies Module

@@ -7,6 +7,7 @@
     "../../../alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts",
     "../../../alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.d.ts",
     "../../../alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.d.ts",
     "../../../alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.d.ts",
     "../../../alan/harness/code-editor/data-interface/pages/status-bar/status-bar.code-editor-data-interface.d.ts",
     "../../../alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.d.ts",

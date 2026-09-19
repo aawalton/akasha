@@ -601,6 +601,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/code-editor-data-interface.page-type.ts","id":"01a07235-8d02-729e-880d-47af61f83714"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.ts","id":"01a07c93-3aad-7d0a-87f2-3f002f5aad39"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.ts","id":"01a07266-d474-7296-bd8e-10c7667fe6b6"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.ts","id":"01a0b733-1334-745d-9d31-186baa85e4a2"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/group-stoplights/group-stoplights.module.ts","id":"01a064e4-627c-717e-bcf8-2ad1f41c1222"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.ts","id":"01a064f6-a793-7d40-b075-7d7a7f1f133a"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}

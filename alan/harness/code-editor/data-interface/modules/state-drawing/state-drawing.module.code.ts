@@ -1,5 +1,9 @@
 import { join } from "node:path"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
+import {
+  assembleFindingTree,
+  type FindingNode,
+} from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
@@ -20,6 +24,8 @@ const INTERFACE_TYPE = "code-editor-data-interface"
 const COMMAND_TREE = "command-tree"
 
 const DOMAIN_TREE = "domain-tree"
+
+const FINDING_TREE = "finding-tree"
 
 const PAGE_TREE = "page-tree"
 
@@ -62,6 +68,25 @@ function domainTreeLine(root: string, given: string | Reading = root): string {
     roots: built.roots.map((node) => domainRow(root, node as DomainNode)),
     unreached: built.unreached,
   } satisfies DomainTreeState)
+}
+
+function findingRow(root: string, node: FindingNode): FindingTreeRow {
+  return {
+    key: node.key,
+    label: node.label,
+    at: wholePath(root, node.at),
+    color: null,
+    findings: node.findings,
+    children: node.children.map((child) => findingRow(root, child)),
+  }
+}
+
+function findingTreeLine(root: string, given: string | Reading = root): string {
+  const built = assembleFindingTree(given)
+  return JSON.stringify({
+    roots: built.roots.map((node) => findingRow(root, node)),
+    unreached: built.unreached,
+  } satisfies FindingTreeState)
 }
 
 type PageNode = {
@@ -148,6 +173,7 @@ type Drawing = (root: string, given: string | Reading) => string
 const DRAWERS: readonly (readonly [string, Drawing])[] = [
   [COMMAND_TREE, commandTreeLine],
   [DOMAIN_TREE, domainTreeLine],
+  [FINDING_TREE, findingTreeLine],
   [PAGE_TREE, pageTreeLine],
 ]
 
