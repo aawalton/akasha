@@ -48,6 +48,7 @@ export const aineContribution = {
     },
     { statement: "An account newly made holds a hundred contribution points." },
     { statement: "Anyone makes an account at alanwalton.com, and that account is a contributor." },
+    { statement: "A contributor signs in at alanwalton.com with Google or with Discord." },
   ],
   constraints: [
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
