@@ -7,7 +7,7 @@ export const fitnessNext = {
   definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
-  parts: ["module/kit-loading", "module/warming"],
+  parts: ["module/kit-loading", "module/stepping", "module/warming"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -169,6 +169,10 @@ export const fitnessNext = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A run is handed the instant it runs at, and the day falls out of that instant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run answers the one step Alan is on rather than the session that step opens.",
     },
   ],
   name: "next",

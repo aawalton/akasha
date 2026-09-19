@@ -25,6 +25,7 @@ import {
   coveredBy,
   type Kit,
 } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
+import { stepFor } from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
 import type { Warmth } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 
 const GIVEN: Given = {
@@ -104,7 +105,12 @@ const OFFER: Offer = {
   atKitCeiling: false,
   familiar: true,
   slower: false,
-  warmup: null,
+  step: stepFor(null, {
+    movement: "dumbbell-bench-press",
+    title: "Dumbbell Bench Press",
+    weight: 30,
+    reps: 20,
+  }),
 }
 
 const BOUNDS = bounds()
@@ -174,13 +180,13 @@ test("a movement offered carries the weight used and one rep past the best", () 
 })
 
 test("a movement at the top of its kit says the weight holds", () => {
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, ROOM, FREE)
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, ROOM, FREE, WARM)
   expect(offer?.atKitCeiling).toBe(true)
   expect(saidOf(offer).some((one) => one.includes("tops out"))).toBe(true)
 })
 
 test("a movement the kit cannot load further is made harder by slowing the rep", () => {
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
   expect(offer?.reps).toBe(20)
   expect(offer?.slower).toBe(true)
   expect(saidOf(offer).some((one) => one.includes("lower slowly"))).toBe(true)
@@ -254,27 +260,29 @@ test("a dropped movement is offered again once its pattern has progressed elsewh
   expect(droppedIn(marks, week([BENCH, fresh]).movements, 3).size).toBe(0)
 })
 
-test("a cold Alan is offered the whole warmup before his working set", () => {
+test("a cold Alan is put on the raise rather than on the work behind it", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
-  expect(offer?.warmup?.raise).toEqual({ minutes: 5, seconds: 60, movements: [] })
-  expect(offer?.warmup?.ramp).toEqual({ weight: 10, reps: 10 })
-  const said = saidOf(offer)
-  expect(said[1]).toBe("  raise: 5 minutes easy, until you are breathing and damp")
-  expect(said[2]).toBe("  ramp: 10 lb, 10 easy reps")
-  expect(said[3]).toBe("  work: 30 lb, 20 reps")
+  expect(offer?.step.kind).toBe("raise")
+  expect(saidOf(offer)).toEqual(["5 minutes easy, until you are breathing and damp"])
 })
 
-test("a movement ramped inside the window is offered with no warmup", () => {
+test("a movement ramped inside the window puts Alan on the working set", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
-  expect(offer?.warmup).toBe(null)
-  expect(saidOf(offer)[1]).toBe("  30 lb, 20 reps")
+  expect(offer?.step.kind).toBe("work")
+  const said = saidOf(offer)
+  expect(said[0]).toBe(BENCH.slug)
+  expect(said[1]).toBe("  30 lb, 20 reps")
 })
 
-test("a movement with no working weight yet ramps on reps and no load", () => {
-  const warm = { raise: null, mobilise: [], ramp: { weight: null, reps: 10 } }
-  const said = saidOf({ ...OFFER, weight: null, reps: null, warmup: warm })
-  expect(said[1]).toBe("  ramp: 10 easy reps")
-  expect(said[2]).toContain("work: find a load")
+test("an Alan warm but unramped is put on the ramp", () => {
+  const warm = { ...WARM, ramped: new Set<string>() }
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, warm)
+  expect(offer?.step.kind).toBe("ramp")
+  expect(saidOf(offer)[1]).toBe("  ramp: 10 lb, 10 easy reps")
+})
+
+test("what the work is owed is said with the work and with nothing else", () => {
+  expect(saidOf(OFFER)[2]).toBe("  chest is owed 6 more this week")
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {

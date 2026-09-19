@@ -27,9 +27,12 @@ import {
   loadsFor,
 } from "akasha/command/pages/fitness/next/modules/kit-loading/kit-loading.module.code.ts"
 import {
+  type Step,
+  stepFor,
+  steppedOf,
+} from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
+import {
   type Warmth,
-  type Warmup,
-  warmedOf,
   warmthIn,
   warmupFor,
 } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
@@ -83,7 +86,7 @@ export type Offer = {
   readonly atKitCeiling: boolean
   readonly familiar: boolean
   readonly slower: boolean
-  readonly warmup: Warmup | null
+  readonly step: Step
 }
 
 export type Bounds = {
@@ -324,47 +327,42 @@ export function offerOf(
   const top = loads.length === 0 ? null : Math.max(...loads)
   const atKitCeiling = mark?.weight != null && top !== null && mark.weight >= top
   const climb = climbOf(mark, atKitCeiling, bounds.repsCap)
-  return {
+  const work = {
     movement: best.one.slug,
     title: best.one.title ?? best.one.slug,
-    muscle: best.muscle,
-    owed: best.owed,
     weight: mark?.weight ?? null,
     reps: climb.reps,
+  }
+  const warmup = warmupFor(best.one, mark?.weight ?? null, loads, week.movements, {
+    warm: warmth.warm,
+    ramped: warmth.ramped.has(best.one.slug),
+    raising: bounds.raising,
+    mobilising: bounds.mobilising,
+    share: bounds.warmupShare,
+    reps: bounds.warmupReps,
+    seconds: bounds.raiseSeconds,
+    covered,
+    raised: warmth.raised,
+    turn: warmth.turn,
+    done: warmth.done,
+    raisedToday: warmth.raisedToday,
+  })
+  return {
+    ...work,
+    muscle: best.muscle,
+    owed: best.owed,
     atKitCeiling,
     familiar: (mark?.sets ?? 0) > 0,
     slower: climb.slower,
-    warmup: warmupFor(best.one, mark?.weight ?? null, loads, week.movements, {
-      warm: warmth.warm,
-      ramped: warmth.ramped.has(best.one.slug),
-      raising: bounds.raising,
-      mobilising: bounds.mobilising,
-      share: bounds.warmupShare,
-      reps: bounds.warmupReps,
-      seconds: bounds.raiseSeconds,
-      covered,
-      raised: warmth.raised,
-      turn: warmth.turn,
-      done: warmth.done,
-      raisedToday: warmth.raisedToday,
-    }),
+    step: stepFor(warmup, work),
   }
 }
 
 export function saidOf(offer: Offer | null): readonly string[] {
   if (offer === null) return ["nothing is owed and nothing is loadable — rest is the answer today"]
-  const warmed = warmedOf(offer.warmup)
-  const lead = warmed.length === 0 ? "  " : "  work: "
-  const load =
-    offer.weight === null
-      ? `${lead}find a load that takes you near failure inside eight to twelve reps`
-      : `${lead}${String(offer.weight)} lb, ${offer.reps === null ? "near failure" : `${String(offer.reps)} reps`}`
-  const said = [
-    offer.title,
-    ...warmed,
-    load,
-    `  ${offer.muscle} is owed ${String(offer.owed)} more this week`,
-  ]
+  const said = [...steppedOf(offer.step)]
+  if (offer.step.kind !== "work") return said
+  said.push(`  ${offer.muscle} is owed ${String(offer.owed)} more this week`)
   if (offer.slower)
     said.push("  your kit and your reps both top out here, so lower slowly and pause at the bottom")
   else if (offer.atKitCeiling)

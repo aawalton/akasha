@@ -16,7 +16,6 @@ import {
   raisingFor,
   raisingIn,
   titleOf,
-  warmedOf,
   warmthIn,
   warmupFor,
 } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
@@ -230,14 +229,4 @@ test("a movement ramped inside the window is owed no warmup at all", () => {
 test("a movement with no working weight ramps on reps alone", () => {
   const held = warmupFor(BENCH, null, LOADS, MOVEMENTS, { ...COLD, warm: true })
   expect(held?.ramp).toEqual({ weight: null, reps: 10 })
-  expect(warmedOf(held)).toEqual(["  ramp: 10 easy reps"])
-})
-
-test("a warmup is said in the order it is done", () => {
-  expect(warmedOf(warmupFor(BENCH, 30, LOADS, MOVEMENTS, COLD))).toEqual([
-    "  raise: 60 seconds each, easy — Shadow Boxing, Jumping Jacks",
-    "  mobilise: Dynamic Chest Stretch",
-    "  ramp: 15 lb, 10 easy reps",
-  ])
-  expect(warmedOf(null)).toEqual([])
 })

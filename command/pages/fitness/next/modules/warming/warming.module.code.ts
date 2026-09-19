@@ -216,23 +216,3 @@ export function warmupFor(
     ramp,
   }
 }
-
-export function warmedOf(warmup: Warmup | null): readonly string[] {
-  if (warmup === null) return []
-  const said: string[] = []
-  const raise = warmup.raise
-  if (raise !== null) {
-    const run = raise.movements.map(titleOf).join(", ")
-    said.push(
-      raise.movements.length === 0
-        ? `  raise: ${String(raise.minutes)} minutes easy, until you are breathing and damp`
-        : `  raise: ${String(raise.seconds)} seconds each, easy — ${run}`
-    )
-  }
-  if (warmup.mobilise.length > 0)
-    said.push(`  mobilise: ${warmup.mobilise.map(titleOf).join(", ")}`)
-  const reps = `${String(warmup.ramp.reps)} easy reps`
-  const weight = warmup.ramp.weight
-  said.push(weight === null ? `  ramp: ${reps}` : `  ramp: ${String(weight)} lb, ${reps}`)
-  return said
-}

@@ -1105,6 +1105,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","id":"01a0b72c-3d76-75eb-92a1-4fc4a0021192"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/modules/training-week/training-week.module.ts","id":"01a0b6ed-9dd8-7ed5-a746-300f4c03dd98"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/stepping/stepping.module.ts","id":"01a0ba6c-ee3c-7e54-a879-6045758db635"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/warming/warming.module.ts","id":"01a0b75d-7a11-7470-8520-71da591ec032"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"decision-kind","path":"command/pages/gap/delete/gap-delete.command.ts","id":"01a0b7a0-c25d-7717-a0fa-41e1a1ee2221"}
