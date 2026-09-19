@@ -19,6 +19,7 @@ export const paulCardallTheCelebrateLifeConcertLiveInMyDreamsLive = {
     },
   ],
   title: "In My Dreams - Live",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const paulCardallChristmasOHolyNight = {
     },
   ],
   title: "O Holy Night",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

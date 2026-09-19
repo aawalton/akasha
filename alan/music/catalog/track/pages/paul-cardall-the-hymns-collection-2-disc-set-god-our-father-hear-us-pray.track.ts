@@ -19,6 +19,7 @@ export const paulCardallTheHymnsCollection2DiscSetGodOurFatherHearUsPray = {
     },
   ],
   title: "God, Our Father, Hear Us Pray",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],

@@ -19,6 +19,7 @@ export const paulCardallNewLifeSweetIsTheWork = {
     },
   ],
   title: "Sweet Is the Work",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],

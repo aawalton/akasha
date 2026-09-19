@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasStillStillStill = {
     },
   ],
   title: "Still, Still, Still",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

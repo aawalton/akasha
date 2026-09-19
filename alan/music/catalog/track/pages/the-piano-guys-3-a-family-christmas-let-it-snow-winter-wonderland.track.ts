@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
     },
   ],
   title: "Let It Snow / Winter Wonderland",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

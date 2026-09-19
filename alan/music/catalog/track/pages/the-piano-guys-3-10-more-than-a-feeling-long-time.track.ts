@@ -19,6 +19,7 @@ export const thePianoGuys310MoreThanAFeelingLongTime = {
     },
   ],
   title: "More Than a Feeling / Long Time",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

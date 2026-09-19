@@ -19,6 +19,7 @@ export const theHoldernessFamilyBestOfThe80sGiveALittleRest = {
     },
   ],
   title: "Give a Little Rest",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],

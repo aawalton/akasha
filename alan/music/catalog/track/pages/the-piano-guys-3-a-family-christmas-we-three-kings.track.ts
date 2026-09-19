@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasWeThreeKings = {
     },
   ],
   title: "We Three Kings",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

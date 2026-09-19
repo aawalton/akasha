@@ -19,6 +19,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
     },
   ],
   title: "Sailing To Philadelphia",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const sabrinaCarpenterSingularActIiLookingAtMe = {
     },
   ],
   title: "Looking at Me",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],

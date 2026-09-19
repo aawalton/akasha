@@ -19,6 +19,7 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
     },
   ],
   title: "Skin - Quarterhead Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

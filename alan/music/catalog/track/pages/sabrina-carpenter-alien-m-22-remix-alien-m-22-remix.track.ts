@@ -19,6 +19,7 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
     },
   ],
   title: "Alien - M-22 Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

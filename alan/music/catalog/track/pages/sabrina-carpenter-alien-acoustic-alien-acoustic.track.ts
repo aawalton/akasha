@@ -19,6 +19,7 @@ export const sabrinaCarpenterAlienAcousticAlienAcoustic = {
     },
   ],
   title: "Alien - Acoustic",
+  trackType: "acoustic",
   discNumber: 1,
   explicit: false,
   trackArtist: [

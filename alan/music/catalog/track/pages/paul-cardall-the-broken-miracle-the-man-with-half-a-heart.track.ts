@@ -19,6 +19,7 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
     },
   ],
   title: "The Man with Half a Heart",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const paulCardallAllISeeIsSnowAllISeeIsSnow = {
     },
   ],
   title: "All I See Is Snow",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

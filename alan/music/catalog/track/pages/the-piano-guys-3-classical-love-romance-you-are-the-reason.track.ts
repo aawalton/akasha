@@ -19,6 +19,7 @@ export const thePianoGuys3ClassicalLoveRomanceYouAreTheReason = {
     },
   ],
   title: "You Are The Reason",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

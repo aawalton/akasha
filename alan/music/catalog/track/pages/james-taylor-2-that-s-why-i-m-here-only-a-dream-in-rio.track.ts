@@ -19,6 +19,7 @@ export const jamesTaylor2ThatSWhyIMHereOnlyADreamInRio = {
     },
   ],
   title: "Only a Dream in Rio",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],

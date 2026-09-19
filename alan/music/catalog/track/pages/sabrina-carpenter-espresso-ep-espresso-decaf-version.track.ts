@@ -19,6 +19,7 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
     },
   ],
   title: "Espresso - Decaf Version",
+  trackType: "version",
   discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],

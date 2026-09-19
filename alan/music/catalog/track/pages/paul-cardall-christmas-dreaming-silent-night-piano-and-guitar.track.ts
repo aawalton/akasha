@@ -19,6 +19,7 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
     },
   ],
   title: "Silent Night - Piano and Guitar",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

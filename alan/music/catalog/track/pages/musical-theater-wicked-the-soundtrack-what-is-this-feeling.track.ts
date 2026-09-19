@@ -19,6 +19,7 @@ export const musicalTheaterWickedTheSoundtrackWhatIsThisFeeling = {
     },
   ],
   title: "What Is This Feeling?",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

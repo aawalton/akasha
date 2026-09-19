@@ -19,6 +19,7 @@ export const sabrinaCarpenterAlienAlien = {
     },
   ],
   title: "Alien",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

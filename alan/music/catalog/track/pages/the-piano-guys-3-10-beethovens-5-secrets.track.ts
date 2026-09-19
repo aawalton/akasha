@@ -19,6 +19,7 @@ export const thePianoGuys310Beethovens5Secrets = {
     },
   ],
   title: "Beethoven's 5 Secrets",
+  trackType: "studio",
   discNumber: 2,
   explicit: false,
   trackArtist: [

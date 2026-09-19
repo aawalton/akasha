@@ -19,6 +19,7 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
     },
   ],
   title: "Winter Wonderland (feat. Chris Botti)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

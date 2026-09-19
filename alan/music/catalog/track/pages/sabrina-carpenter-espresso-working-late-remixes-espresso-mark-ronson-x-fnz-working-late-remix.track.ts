@@ -19,6 +19,7 @@ export const sabrinaCarpenterEspressoWorkingLateRemixesEspressoMarkRonsonXFnzWor
     },
   ],
   title: "Espresso - Mark Ronson x FNZ Working Late Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [

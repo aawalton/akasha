@@ -19,6 +19,7 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
     },
   ],
   title: "A Million Dreams",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

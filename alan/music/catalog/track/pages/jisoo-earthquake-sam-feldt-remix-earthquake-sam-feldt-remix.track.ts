@@ -19,6 +19,7 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
     },
   ],
   title: "earthquake - Sam Feldt remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

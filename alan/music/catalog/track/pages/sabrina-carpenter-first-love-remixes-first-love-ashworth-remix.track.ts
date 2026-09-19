@@ -19,6 +19,7 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveAshworthRemix = {
     },
   ],
   title: "First Love - Ashworth Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

@@ -19,6 +19,7 @@ export const jamesTaylor2OneManBandTheFrozenManLiveAtTheColonialTheatre2007 = {
     },
   ],
   title: "The Frozen Man - Live At The Colonial Theatre / 2007",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],

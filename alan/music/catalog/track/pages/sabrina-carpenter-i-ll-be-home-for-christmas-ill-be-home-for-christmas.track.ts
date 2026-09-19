@@ -19,6 +19,7 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
     },
   ],
   title: "I'll Be Home For Christmas",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

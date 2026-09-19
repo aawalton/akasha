@@ -19,6 +19,7 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
     },
   ],
   title: "I Know It Hurts",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

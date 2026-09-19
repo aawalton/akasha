@@ -19,6 +19,7 @@ export const paulCardallTheBrokenMiracleSomeKindOfWonderful = {
     },
   ],
   title: "Some Kind of Wonderful",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

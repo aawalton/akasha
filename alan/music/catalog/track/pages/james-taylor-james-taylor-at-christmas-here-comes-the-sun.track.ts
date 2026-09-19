@@ -19,6 +19,7 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
     },
   ],
   title: "Here Comes the Sun",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

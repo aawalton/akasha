@@ -19,6 +19,7 @@ export const musicalTheaterWickedTheSoundtrackNoOneMournsTheWicked = {
     },
   ],
   title: "No One Mourns the Wicked",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

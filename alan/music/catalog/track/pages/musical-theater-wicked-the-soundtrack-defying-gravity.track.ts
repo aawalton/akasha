@@ -19,6 +19,7 @@ export const musicalTheaterWickedTheSoundtrackDefyingGravity = {
     },
   ],
   title: "Defying Gravity",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

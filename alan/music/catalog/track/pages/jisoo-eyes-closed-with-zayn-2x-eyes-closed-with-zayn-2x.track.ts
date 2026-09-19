@@ -19,6 +19,7 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn2x = {
     },
   ],
   title: "EYES CLOSED (with ZAYN) - 2X",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

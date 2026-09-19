@@ -19,6 +19,7 @@ export const thePianoGuys3DonTYouWorryChildInstrumentalDontYouWorryChildInstrume
     },
   ],
   title: "Don't You Worry Child (Instrumental)",
+  trackType: "instrumental",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],

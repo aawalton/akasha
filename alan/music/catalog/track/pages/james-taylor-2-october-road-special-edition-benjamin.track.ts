@@ -19,6 +19,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionBenjamin = {
     },
   ],
   title: "Benjamin",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

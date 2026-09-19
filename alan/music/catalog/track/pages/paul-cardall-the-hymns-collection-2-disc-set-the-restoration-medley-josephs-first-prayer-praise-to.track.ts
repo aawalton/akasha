@@ -19,6 +19,7 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
     },
   ],
   title: "The Restoration Medley: Joseph's First Prayer, Praise to the Man",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],

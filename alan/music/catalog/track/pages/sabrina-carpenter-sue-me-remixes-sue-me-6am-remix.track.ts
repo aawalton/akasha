@@ -19,6 +19,7 @@ export const sabrinaCarpenterSueMeRemixesSueMe6amRemix = {
     },
   ],
   title: "Sue Me - 6am Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

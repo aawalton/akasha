@@ -19,6 +19,7 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
     },
   ],
   title: "On My Way",
+  trackType: "studio",
   discNumber: 1,
   explicit: true,
   trackArtist: [

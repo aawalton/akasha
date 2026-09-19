@@ -19,6 +19,7 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
     },
   ],
   title: "Angels from the Realms of Glory (feat. David Archuleta & Peter Hollens)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

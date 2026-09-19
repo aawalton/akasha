@@ -19,6 +19,7 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
     },
   ],
   title: "O Holy Night / Ave Maria (feat. Lexi Walker)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

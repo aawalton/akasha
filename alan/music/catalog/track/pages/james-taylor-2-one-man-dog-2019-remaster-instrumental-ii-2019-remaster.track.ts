@@ -19,6 +19,7 @@ export const jamesTaylor2OneManDog2019RemasterInstrumentalIi2019Remaster = {
     },
   ],
   title: "Instrumental II - 2019 Remaster",
+  trackType: "remaster",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],

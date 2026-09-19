@@ -19,6 +19,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionDontLetMeBeLonelyTonight = {
     },
   ],
   title: "Don't Let Me Be Lonely Tonight",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

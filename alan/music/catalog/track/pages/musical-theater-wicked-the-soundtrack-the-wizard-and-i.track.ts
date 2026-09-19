@@ -19,6 +19,7 @@ export const musicalTheaterWickedTheSoundtrackTheWizardAndI = {
     },
   ],
   title: "The Wizard And I",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

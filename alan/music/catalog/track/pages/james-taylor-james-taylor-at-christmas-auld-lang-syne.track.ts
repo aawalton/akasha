@@ -19,6 +19,7 @@ export const jamesTaylorJamesTaylorAtChristmasAuldLangSyne = {
     },
   ],
   title: "Auld Lang Syne",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],

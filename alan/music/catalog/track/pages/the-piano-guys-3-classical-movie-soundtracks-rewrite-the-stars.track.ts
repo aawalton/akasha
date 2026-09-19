@@ -19,6 +19,7 @@ export const thePianoGuys3ClassicalMovieSoundtracksRewriteTheStars = {
     },
   ],
   title: "Rewrite The Stars",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],

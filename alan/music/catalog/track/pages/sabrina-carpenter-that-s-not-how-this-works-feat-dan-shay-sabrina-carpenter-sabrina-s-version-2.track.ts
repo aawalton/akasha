@@ -21,6 +21,7 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
     },
   ],
   title: "That’s Not How This Works (feat. Dan + Shay)",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

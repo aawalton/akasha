@@ -19,6 +19,7 @@ export const thePianoGuys310LoseYouToLoveMe = {
     },
   ],
   title: "Lose You To Love Me",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

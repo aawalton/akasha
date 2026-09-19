@@ -19,6 +19,7 @@ export const theHoldernessFamilyBestOfThe90sThisIsHowYouChewIt = {
     },
   ],
   title: "This Is How You Chew It",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],

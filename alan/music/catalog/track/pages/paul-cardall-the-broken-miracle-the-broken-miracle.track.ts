@@ -19,6 +19,7 @@ export const paulCardallTheBrokenMiracleTheBrokenMiracle = {
     },
   ],
   title: "The Broken Miracle",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

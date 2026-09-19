@@ -19,6 +19,7 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveR3habRemix = {
     },
   ],
   title: "Almost Love - R3HAB Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: false,
   trackArtist: [

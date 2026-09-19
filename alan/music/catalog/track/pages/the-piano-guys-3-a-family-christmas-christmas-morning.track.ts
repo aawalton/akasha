@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasChristmasMorning = {
     },
   ],
   title: "Christmas Morning",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

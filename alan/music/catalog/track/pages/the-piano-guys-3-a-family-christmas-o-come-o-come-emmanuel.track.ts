@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
     },
   ],
   title: "O Come, O Come, Emmanuel",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

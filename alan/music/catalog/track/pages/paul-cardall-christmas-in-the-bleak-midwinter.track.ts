@@ -19,6 +19,7 @@ export const paulCardallChristmasInTheBleakMidwinter = {
     },
   ],
   title: "In the Bleak Midwinter",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

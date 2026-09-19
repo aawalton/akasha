@@ -12,5 +12,6 @@
 {"title":"Something Bad"}
 {"trackArtist":[{"externalId":"0pHTIdyC4DAsoMhpSufQaz","artistName":"Peter Dinklage"},{"externalId":"46UMQ0cW8ToR8egkBRwAxZ","artistName":"Cynthia Erivo"}]}
 {"trackKey":"somethingbad|0pHTIdyC4DAsoMhpSufQaz,46UMQ0cW8ToR8egkBRwAxZ|108300"}
+{"trackType":"studio"}
 {"type":"page-type/track"}
 {"unit":"unit/minutes"}

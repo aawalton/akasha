@@ -19,6 +19,7 @@ export const paulCardallSleepSleepNremStage2 = {
     },
   ],
   title: "Sleep NREM Stage 2",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],

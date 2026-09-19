@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
     },
   ],
   title: "Angels We Have Heard on High",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

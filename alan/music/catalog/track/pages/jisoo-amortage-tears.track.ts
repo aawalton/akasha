@@ -19,6 +19,7 @@ export const jisooAmortageTears = {
     },
   ],
   title: "TEARS",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],

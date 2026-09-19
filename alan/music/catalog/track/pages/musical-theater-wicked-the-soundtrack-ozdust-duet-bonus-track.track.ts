@@ -19,6 +19,7 @@ export const musicalTheaterWickedTheSoundtrackOzdustDuetBonusTrack = {
     },
   ],
   title: "Ozdust Duet - Bonus Track",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0bVjGR347nlhO79Z3i881P", artistName: "The Wicked Orchestra" }],

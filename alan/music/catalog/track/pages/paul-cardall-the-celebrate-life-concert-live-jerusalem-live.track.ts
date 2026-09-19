@@ -19,6 +19,7 @@ export const paulCardallTheCelebrateLifeConcertLiveJerusalemLive = {
     },
   ],
   title: "Jerusalem - Live",
+  trackType: "live",
   discNumber: 1,
   explicit: false,
   trackArtist: [

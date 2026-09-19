@@ -19,6 +19,7 @@ export const thePianoGuys3IWantYouBackIWantYouBack = {
     },
   ],
   title: "I Want You Back",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

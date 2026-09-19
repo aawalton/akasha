@@ -19,6 +19,7 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
     },
   ],
   title: "How Great The Wisdom And The Love",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],

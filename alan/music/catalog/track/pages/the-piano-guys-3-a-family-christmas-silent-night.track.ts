@@ -19,6 +19,7 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
     },
   ],
   title: "Silent Night",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

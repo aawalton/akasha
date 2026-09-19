@@ -19,6 +19,7 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
     },
   ],
   title: "Jesu, Joy of Man's Desiring, BWV 147 - Classical Guitar",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

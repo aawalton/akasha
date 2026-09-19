@@ -19,6 +19,7 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
     },
   ],
   title: "Sign of the Times",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

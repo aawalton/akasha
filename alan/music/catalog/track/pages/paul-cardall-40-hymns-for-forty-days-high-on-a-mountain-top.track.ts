@@ -19,6 +19,7 @@ export const paulCardall40HymnsForFortyDaysHighOnAMountainTop = {
     },
   ],
   title: "High On a Mountain Top",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],

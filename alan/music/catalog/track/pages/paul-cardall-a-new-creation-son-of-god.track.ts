@@ -19,6 +19,7 @@ export const paulCardallANewCreationSonOfGod = {
     },
   ],
   title: "Son of God",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

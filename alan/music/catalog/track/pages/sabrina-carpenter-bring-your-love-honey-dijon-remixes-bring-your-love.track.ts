@@ -19,6 +19,7 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLove = {
     },
   ],
   title: "Bring Your Love",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

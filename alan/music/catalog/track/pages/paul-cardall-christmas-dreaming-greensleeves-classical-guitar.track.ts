@@ -19,6 +19,7 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
     },
   ],
   title: "Greensleeves - Classical Guitar",
+  trackType: "studio",
   discNumber: 1,
   explicit: false,
   trackArtist: [

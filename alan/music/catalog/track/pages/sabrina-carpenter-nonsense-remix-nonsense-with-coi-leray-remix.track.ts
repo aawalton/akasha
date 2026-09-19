@@ -19,6 +19,7 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
     },
   ],
   title: "Nonsense (with Coi Leray) - Remix",
+  trackType: "remix",
   discNumber: 1,
   explicit: true,
   trackArtist: [
