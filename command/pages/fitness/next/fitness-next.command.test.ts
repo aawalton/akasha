@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import {
+  type Bounds,
   chosenFor,
+  climbOf,
   coveredBy,
   depthOf,
   droppedIn,
@@ -78,6 +80,14 @@ const KNOWN = new Map<string, Mark>([["dumbbell-bench-press", mark()]])
 
 const FREE: ReadonlySet<string> = new Set()
 
+function bounds(over: Partial<Bounds> = {}): Bounds {
+  return { low: 6, ceiling: 12, newnessLeft: 0, repsCap: 20, ...over }
+}
+
+const BOUNDS = bounds()
+
+const ROOM = bounds({ repsCap: 25 })
+
 test("a movement of the body alone is loadable with no kit at all", () => {
   expect(loadable(movement("pushups", { implement: "body-only" }), new Set())).toBe(true)
 })
@@ -110,22 +120,23 @@ test("a muscle at its floor is owed nothing", () => {
 
 test("the first movement of a bout is one Alan has taken near failure before", () => {
   const fresh = movement("incline-dumbbell-press")
-  const chosen = chosenFor(week([BENCH, fresh]), "chest", COVERED, KNOWN, 12, 0, FREE)
+  const chosen = chosenFor(week([BENCH, fresh]), "chest", COVERED, KNOWN, BOUNDS, FREE)
   expect(chosen?.slug).toBe("dumbbell-bench-press")
 })
 
 test("a movement new to Alan is offered only once Alan has worked today", () => {
   const fresh = movement("incline-dumbbell-press")
-  const chosen = chosenFor(week([fresh]), "chest", COVERED, new Map(), 12, 0, FREE)
+  const chosen = chosenFor(week([fresh]), "chest", COVERED, new Map(), BOUNDS, FREE)
   expect(chosen).toBe(null)
-  expect(chosenFor(week([fresh]), "chest", COVERED, new Map(), 12, 1, FREE)?.slug).toBe(
+  const room = bounds({ newnessLeft: 1 })
+  expect(chosenFor(week([fresh]), "chest", COVERED, new Map(), room, FREE)?.slug).toBe(
     "incline-dumbbell-press"
   )
 })
 
 test("a movement every muscle of which is at its ceiling is out", () => {
   const took = new Map([["chest", 12]])
-  expect(chosenFor(week([BENCH], took), "chest", COVERED, KNOWN, 12, 0, FREE)).toBe(null)
+  expect(chosenFor(week([BENCH], took), "chest", COVERED, KNOWN, BOUNDS, FREE)).toBe(null)
 })
 
 test("a bout that has taken its new movement takes no more", () => {
@@ -139,20 +150,31 @@ test("a bout not begun allows nothing new", () => {
 })
 
 test("a movement offered carries the weight used and one rep past the best", () => {
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, 6, 12, 0, FREE)
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, ROOM, FREE)
   expect(offer?.weight).toBe(30)
   expect(offer?.reps).toBe(21)
 })
 
 test("a movement at the top of its kit says the weight holds", () => {
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, 6, 12, 0, FREE)
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, ROOM, FREE)
   expect(offer?.atKitCeiling).toBe(true)
   expect(saidOf(offer).some((one) => one.includes("tops out"))).toBe(true)
 })
 
+test("a movement the kit cannot load further is made harder by slowing the rep", () => {
+  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
+  expect(offer?.reps).toBe(20)
+  expect(offer?.slower).toBe(true)
+  expect(saidOf(offer).some((one) => one.includes("lower slowly"))).toBe(true)
+})
+
+test("reps climb while the kit can still load the movement", () => {
+  expect(climbOf(mark({ reps: 30 }), false, 20)).toEqual({ reps: 31, slower: false })
+})
+
 test("a movement Alan never took near failure carries no weight and no reps", () => {
   const fresh = movement("incline-dumbbell-press")
-  const offer = offerOf(week([fresh]), KIT, new Map(), 6, 12, 1, FREE)
+  const offer = offerOf(week([fresh]), KIT, new Map(), bounds({ newnessLeft: 1 }), FREE)
   expect(offer?.weight).toBe(null)
   expect(offer?.reps).toBe(null)
 })
@@ -165,7 +187,7 @@ const BOTH = new Map<string, Mark>([
 ])
 
 test("muscles owed alike are parted by the deepest history", () => {
-  const offer = offerOf(week([BENCH, CURL]), KIT, BOTH, 6, 12, 0, FREE)
+  const offer = offerOf(week([BENCH, CURL]), KIT, BOTH, BOUNDS, FREE)
   expect(offer?.movement).toBe("dumbbell-bench-press")
 })
 
@@ -176,7 +198,7 @@ test("a restriction names the pattern it keeps out", () => {
 test("a movement Alan may not perform is gone before any movement is ranked", () => {
   const two = week([BENCH, CURL])
   const out = outIn(two.movements, new Set(["h-push"]), new Set())
-  expect(offerOf(two, KIT, BOTH, 6, 12, 0, out)?.movement).toBe("hammer-curls")
+  expect(offerOf(two, KIT, BOTH, BOUNDS, out)?.movement).toBe("hammer-curls")
 })
 
 test("a movement Alan turns down counts against it as much as a set counts for it", () => {
@@ -192,7 +214,7 @@ test("a movement turned down before today is ranked below one never turned down"
     ["dumbbell-bench-press", mark({ sets: 16, turns: 16 })],
     ["hammer-curls", mark({ sets: 5, weight: 15, reps: 15 })],
   ])
-  expect(offerOf(two, KIT, turned, 6, 12, 0, FREE)?.movement).toBe("hammer-curls")
+  expect(offerOf(two, KIT, turned, BOUNDS, FREE)?.movement).toBe("hammer-curls")
 })
 
 test("a movement is dropped when that movement stops progressing", () => {

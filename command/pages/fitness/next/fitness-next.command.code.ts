@@ -75,6 +75,14 @@ export type Offer = {
   readonly reps: number | null
   readonly atKitCeiling: boolean
   readonly familiar: boolean
+  readonly slower: boolean
+}
+
+export type Bounds = {
+  readonly low: number
+  readonly ceiling: number
+  readonly newnessLeft: number
+  readonly repsCap: number
 }
 
 export function kitIn(pages: readonly Value[]): readonly Kit[] {
@@ -254,15 +262,15 @@ export function chosenFor(
   muscle: string,
   covered: ReadonlySet<string>,
   marks: ReadonlyMap<string, Mark>,
-  ceiling: number,
-  newnessLeft: number,
+  bounds: Bounds,
   out: ReadonlySet<string>
 ): Movement | null {
   const able = [...week.movements.values()].filter((one) => {
     if (out.has(one.slug)) return false
     if (!one.muscles.includes(muscle) || !loadable(one, covered)) return false
+    const ceiling = bounds.ceiling
     if (one.muscles.every((each) => (week.tally.muscles.get(each) ?? 0) >= ceiling)) return false
-    return (marks.get(one.slug)?.sets ?? 0) > 0 || newnessLeft > 0
+    return (marks.get(one.slug)?.sets ?? 0) > 0 || bounds.newnessLeft > 0
   })
   const sorted = [...able].sort((a, b) => {
     const seen = depthOf(marks.get(b.slug)) - depthOf(marks.get(a.slug))
@@ -276,24 +284,33 @@ export function chosenFor(
   return sorted[0] ?? null
 }
 
+export function climbOf(
+  mark: Mark | null,
+  atKitCeiling: boolean,
+  cap: number
+): { readonly reps: number | null; readonly slower: boolean } {
+  const best = mark?.reps ?? null
+  if (best === null) return { reps: null, slower: false }
+  if (atKitCeiling && best >= cap) return { reps: best, slower: true }
+  return { reps: best + 1, slower: false }
+}
+
 export function offerOf(
   week: TrainingWeek,
   kit: readonly Kit[],
   marks: ReadonlyMap<string, Mark>,
-  low: number,
-  ceiling: number,
-  newnessLeft: number,
+  bounds: Bounds,
   out: ReadonlySet<string>
 ): Offer | null {
   const covered = coveredBy(kit)
-  const picks = owedIn(week.tally.muscles, low).flatMap((muscle) => {
-    const one = chosenFor(week, muscle, covered, marks, ceiling, newnessLeft, out)
+  const picks = owedIn(week.tally.muscles, bounds.low).flatMap((muscle) => {
+    const one = chosenFor(week, muscle, covered, marks, bounds, out)
     if (one === null) return []
     return [
       {
         muscle,
         one,
-        owed: low - (week.tally.muscles.get(muscle) ?? 0),
+        owed: bounds.low - (week.tally.muscles.get(muscle) ?? 0),
         seen: depthOf(marks.get(one.slug)),
       },
     ]
@@ -304,15 +321,18 @@ export function offerOf(
   if (best === undefined) return null
   const mark = marks.get(best.one.slug) ?? null
   const top = best.one.implement === null ? null : topLoadFor(kit, best.one.implement)
+  const atKitCeiling = mark?.weight != null && top !== null && mark.weight >= top
+  const climb = climbOf(mark, atKitCeiling, bounds.repsCap)
   return {
     movement: best.one.slug,
     title: best.one.title ?? best.one.slug,
     muscle: best.muscle,
     owed: best.owed,
     weight: mark?.weight ?? null,
-    reps: mark?.reps === null || mark?.reps === undefined ? null : mark.reps + 1,
-    atKitCeiling: mark?.weight != null && top !== null && mark.weight >= top,
+    reps: climb.reps,
+    atKitCeiling,
     familiar: (mark?.sets ?? 0) > 0,
+    slower: climb.slower,
   }
 }
 
@@ -323,7 +343,9 @@ export function saidOf(offer: Offer | null): readonly string[] {
       ? "  find a load that takes you near failure inside eight to twelve reps"
       : `  ${String(offer.weight)} lb, ${offer.reps === null ? "near failure" : `${String(offer.reps)} reps`}`
   const said = [offer.title, load, `  ${offer.muscle} is owed ${String(offer.owed)} more this week`]
-  if (offer.atKitCeiling)
+  if (offer.slower)
+    said.push("  your kit and your reps both top out here, so lower slowly and pause at the bottom")
+  else if (offer.atKitCeiling)
     said.push("  your kit tops out here, so the weight holds and the reps climb")
   if (!offer.familiar) said.push("  this one is new to you")
   return said
@@ -356,15 +378,13 @@ export function nextIn(root: string, today: string): Offer | null {
   const restricted = restrictedIn(valuesOfType(root, RESTRICTION_TYPE).map((one) => one.value))
   const dropped = new Set(droppedIn(marks, week.movements, selectionPolicy.boutsWithoutProgress))
   for (const [slug, said] of turns) if (said.includes(today)) dropped.add(slug)
-  return offerOf(
-    week,
-    kit,
-    marks,
-    selectionPolicy.weeklySetFloor,
-    selectionPolicy.weeklySetCeiling,
-    newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession),
-    outIn(week.movements, restricted, dropped)
-  )
+  const bounds: Bounds = {
+    low: selectionPolicy.weeklySetFloor,
+    ceiling: selectionPolicy.weeklySetCeiling,
+    newnessLeft: newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession),
+    repsCap: selectionPolicy.repsBeforeSlowing,
+  }
+  return offerOf(week, kit, marks, bounds, outIn(week.movements, restricted, dropped))
 }
 
 export function fitnessNext(argv: readonly string[], given: Given): Answer {

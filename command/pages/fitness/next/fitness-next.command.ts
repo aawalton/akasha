@@ -123,6 +123,11 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement: "A movement Alan turned down today is out for today.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement whose reps have run out as well as its kit holds both and is slowed instead.",
+    },
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],
