@@ -2,6 +2,7 @@ import {
   type Body,
   overEachFile,
   overEachText,
+  textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
@@ -46,5 +47,5 @@ export function reasonsIn(stands: Stands): (given: Body) => readonly string[] {
 
 export function refusalsOver(change: Change): readonly Judged[] {
   const stands: Stands = (at) => change.after(at) !== null
-  return overEachFile(change, reasonsIn(stands))
+  return overEachFile(change, textNamed, reasonsIn(stands))
 }

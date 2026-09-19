@@ -11,7 +11,6 @@ import {
   overEachText,
   overEveryBody,
   overEveryText,
-  overEveryTextAsync,
   overEveryTextNaming,
   PAGES,
   pagesTailed,
@@ -37,6 +36,7 @@ import {
   tailedWorld,
   treeWorld,
   VENDORED_AT,
+  watchedWorld,
 } from "akasha/check/modules/change-walking/change-walking.module.test-fixtures.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -51,9 +51,18 @@ test("the helper hands over each body the change leaves standing, and no path it
   writeFileSync(join(root, "here.ts"), "here")
   const said = overEachFile(
     { root, changed: ["gone.ts", "here.ts"], after: onDisk(root), before: onDisk(root) },
+    () => true,
     (given) => [`${given.path} holds ${given.bytes.length} bytes`]
   )
   expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
+})
+
+test("a walk over each file opens a path it takes and never opens one its judge would drop", () => {
+  const opened: string[] = []
+  const change = watchedWorld(opened)
+  const said = overEachFile(change, textNamed, (given) => [given.path])
+  expect(said).toEqual([{ path: "here.ts", reason: "here.ts" }])
+  expect(opened).toEqual(["here.ts"])
 })
 
 test("reading each text hands the path and the body on, and passes over what is no TypeScript", () => {
@@ -305,13 +314,6 @@ test("a walk over the texts holding a spelling takes a text git ignores but no c
   writeFileSync(join(root, kept), "export const held = 1\n")
   const every = overEveryTextNaming(root, ["export const held"], (path) => [path])
   expect(every.map((one) => one.path)).toContain(kept)
-})
-
-test("a walk over every text awaits each judgement where the judge answers with a promise", async () => {
-  const said = await overEveryTextAsync(treeWorld(), (path) => Promise.resolve([path]))
-  const every = said.map((one) => one.path)
-  expect(every).toContain(CODE_AT)
-  expect(every).not.toContain(KEPT_AT)
 })
 
 test("a root that is no tree at all refuses the walk rather than taking nothing", () => {

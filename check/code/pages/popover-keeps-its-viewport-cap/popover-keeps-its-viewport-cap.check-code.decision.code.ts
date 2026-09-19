@@ -252,7 +252,5 @@ export function reasonsIn(
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const tags = tagsFor(change, shadow)
-  return overEachFile(change, (given) =>
-    tsxNamed(given.path) ? reasonsIn(tags, given.path, bodyOf(given)) : []
-  )
+  return overEachFile(change, tsxNamed, (given) => reasonsIn(tags, given.path, bodyOf(given)))
 }

@@ -78,11 +78,16 @@ function extrasSaid(rest: readonly Stated[]): string {
   return rest.map((one) => `\`${slugOf(one.pageTypeSlug)}/${one.slug}\``).join(", ")
 }
 
+function namedForAPage(path: string, heldInAFile: ReadonlySet<string>): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  const beside = sectionedIn(said, heldInAFile)
+  return beside === null || !heldInAFile.has(beside.propertySlug)
+}
+
 export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
   const said = partedIn(given.path)
-  if (said === null) return []
-  const beside = sectionedIn(said, heldInAFile)
-  if (beside !== null && heldInAFile.has(beside.propertySlug)) return []
+  if (said === null || !namedForAPage(given.path, heldInAFile)) return []
   const stem = said.slug
   const suffix = said.pageType
   const body = bodyOf(given)
@@ -123,5 +128,9 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const heldInAFile = new Set(shadow.index.fileKeysAt().keys())
-  return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
+  return overEachFile(
+    change,
+    (path) => namedForAPage(path, heldInAFile),
+    (given) => reasonsIn(given, heldInAFile)
+  )
 }

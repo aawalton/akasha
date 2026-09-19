@@ -3,6 +3,7 @@ import {
   type Body,
   overEachFile,
   overEachText,
+  textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
@@ -38,5 +39,5 @@ function found(path: string, text: string): readonly string[] {
 export const reasonsIn: (given: Body) => readonly string[] = overEachText(found)
 
 export function refusalsOver(change: Change): readonly Judged[] {
-  return overEachFile(change, reasonsIn)
+  return overEachFile(change, textNamed, reasonsIn)
 }

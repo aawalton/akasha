@@ -112,10 +112,7 @@ export function reasonsIn(path: string, text: string, every: Saying): readonly s
 }
 
 function refusingBy(change: Change, every: Saying): readonly Judged[] {
-  return overEachFile(change, (given) => {
-    if (!textNamed(given.path)) return []
-    return reasonsIn(given.path, bodyOf(given), every)
-  })
+  return overEachFile(change, textNamed, (given) => reasonsIn(given.path, bodyOf(given), every))
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {

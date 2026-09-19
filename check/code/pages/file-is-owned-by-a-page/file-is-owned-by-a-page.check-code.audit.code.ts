@@ -8,5 +8,9 @@ import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export function fileIsOwnedByAPage(root: string): readonly Judged[] {
   const shadow = shadowAt(root)
-  return overEachFile(everythingIn(root), (given) => judgedIn(given, shadow))
+  return overEachFile(
+    everythingIn(root),
+    () => true,
+    (given) => judgedIn(given, shadow)
+  )
 }

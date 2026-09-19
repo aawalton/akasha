@@ -15,10 +15,7 @@ const refusalsIn: Running = (change, shadow) => {
   const wanted = change.changed.some((one) => textNamed(one))
   if (!wanted) return []
   const places = placesIn(change.root, shadow.index, shadow.codeAt)
-  return overEachFile(change, (given) => {
-    if (!textNamed(given.path)) return []
-    return refusedIn(given.path, bodyOf(given), places)
-  })
+  return overEachFile(change, textNamed, (given) => refusedIn(given.path, bodyOf(given), places))
 }
 
 export const identifierMatchesItsPlace = input(TEXTS, refusalsIn)

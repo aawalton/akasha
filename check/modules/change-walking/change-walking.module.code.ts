@@ -73,8 +73,9 @@ const TS = ".ts"
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
-function* bodiesIn(change: Change): Iterable<Body> {
+function* bodiesIn(change: Change, taken: (path: string) => boolean): Iterable<Body> {
   for (const path of change.changed) {
+    if (!taken(path)) continue
     const bytes = change.after(path)
     if (bytes === null) continue
     yield { root: change.root, path, bytes }
@@ -252,21 +253,6 @@ export function judgingEach<T extends { readonly path: string }>(
   return Object.assign(run, stated)
 }
 
-export function judgingEachAsync<T extends { readonly path: string }>(
-  selector: Selector<T>,
-  judge: (given: T, shadow: Shadow) => Promise<readonly string[]>
-): BoundedAsync {
-  const run = async (change: Change, shadow: Shadow): Promise<readonly Judged[]> => {
-    const said: Judged[] = []
-    for (const given of selector.from(change, shadow)) {
-      for (const reason of await judge(given, shadow)) said.push({ path: given.path, reason })
-    }
-    return said
-  }
-  const stated: Stated = { isInput: selector.isInput }
-  return Object.assign(run, stated)
-}
-
 export function takenIn(takes: Input | null, paths: readonly string[], shadow: Shadow): boolean {
   if (takes === null) return true
   try {
@@ -308,10 +294,11 @@ export function overEachText(
 
 export function overEachFile(
   change: Change,
+  taken: (path: string) => boolean,
   judge: (given: Body) => readonly string[]
 ): readonly Judged[] {
   const said: Judged[] = []
-  for (const given of bodiesIn(change)) {
+  for (const given of bodiesIn(change, taken)) {
     for (const reason of judge(given)) said.push({ path: given.path, reason })
   }
   return said
@@ -362,21 +349,6 @@ export function overEveryTextNaming(
   const both = onDisk(root)
   const changed = pathsSearched(root, asked, TYPED_KINDS, ONE_THREAD).toSorted()
   return overEveryIn({ root, changed, before: both, after: both }, textNamed, judge)
-}
-
-export async function overEveryTextAsync(
-  root: string,
-  judge: (path: string, text: string) => Promise<readonly string[]>
-): Promise<readonly Judged[]> {
-  const change = everythingIn(root)
-  const said: Judged[] = []
-  for (const path of change.changed) {
-    if (!textNamed(path)) continue
-    const text = textIn(change, path)
-    if (text === null) continue
-    for (const reason of await judge(path, text)) said.push({ path, reason })
-  }
-  return said
 }
 
 const VENDORED = "node_modules"

@@ -67,6 +67,22 @@ export function mixedWorld(): Change {
   return { root, changed: ["gone.ts", "here.ts", "note.md"], after: held, before: held }
 }
 
+export function watchedWorld(opened: string[]): Change {
+  const root = scratch.rootFor("akasha-each-taken-")
+  writeFileSync(join(root, "here.ts"), "here")
+  writeFileSync(join(root, "note.md"), "note")
+  const held = onDisk(root)
+  return {
+    root,
+    changed: ["here.ts", "note.md"],
+    after: (path) => {
+      opened.push(path)
+      return held(path)
+    },
+    before: held,
+  }
+}
+
 export function pagedWorld(): Change {
   const root = scratch.rootFor("akasha-paging-")
   mkdirSync(join(root, PAGE_AT.slice(0, PAGE_AT.lastIndexOf("/"))), { recursive: true })
