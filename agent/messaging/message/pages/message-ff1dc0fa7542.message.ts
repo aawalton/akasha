@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agent/messaging/message/message.page-type.types.ts"
+
+export const messageFf1dc0fa7542 = {
+  id: "01a0bb67-d544-7000-b1fc-ff1dc0fa7542",
+  type: "page-type/message",
+  slug: "message-ff1dc0fa7542",
+  to: "seat/thea",
+  from: "audit-running",
+  warrant: "announce",
+  body: 'the audit at 17fa256a6df96ccfd770abdbf63ce6cd1018dfde found 7 checks newly refusing.\n`id-is-a-uuid-version-7` refused 1 time:\n  page/view/pages/-personas.view.ts — line 4 states id "f1f0af67-a9cc-4b32-b72b-12f56efb9c8b", which is a uuid version 4, and a page\'s identity is a uuid version 7\n`manifest-names-what-is-reached` refused 1 time:\n  check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.ts — the check `manifest-names-what-is-reached` spent 32.58 processor seconds judging this change, over the 25 its page states, so what it judged does... (76 characters more)\n`no-code-comments` refused 1 time:\n  check/code/pages/no-code-comments/no-code-comments.check-code.ts — the check `no-code-comments` spent 19.631 processor seconds judging this change, over the 15 its page states, so what it judged does not land — take it to Alan to make the c... (35 characters more)\n`no-color-literal` refused 1 time:\n  check/code/pages/no-color-literal/no-color-literal.check-code.ts — the check `no-color-literal` spent 18.254 processor seconds judging this change, over the 15 its page states, so what it judged does not land — take it to Alan to make the c... (35 characters more)\n`page-matches-its-type` refused 1 time:\n  page/view/pages/-personas.view.ts — `slug` is "-personas", which is not written in `name-format/lower-kebab-case`\n`page-named-as-stated` refused 1 time:\n  check/code/pages/page-named-as-stated/page-named-as-stated.check-code.ts — the check `page-named-as-stated` spent 17.108 processor seconds judging this change, over the 15 its page states, so what it judged does not land — take it to Alan t... (47 characters more)\n`relation-resolves` refused 1 time:\n  page/view/pages/-personas.view.ts — states `nav`, and no `nav` carries the slug ``\nwhat each of them answered is on the newest row of the audit log beside that check\'s page.\n',
+} as const satisfies Message
