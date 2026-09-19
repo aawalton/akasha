@@ -73,6 +73,16 @@ func makeView(
     case "AttributeStoplightsWidget":
         let state = try feedState(AttributeStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(AttributeHomeView(entry: FeedEntry(date: date, state: state)))
+    // THE LIVE ACTIVITY IS HANDED ITS CONTENT RATHER THAN FETCHING ONE, SO IT HAS NO FEED STATE.
+    //
+    // Nothing it holds comes off a feed, so it has no refused and no never-loaded picture to
+    // render, and the body is read straight. The moment it carries is spelled the way the app
+    // spells it when it hands one over, which is why the reader here is the reader the app uses.
+    case "StoplightsActivity":
+        let reader = JSONDecoder()
+        reader.dateDecodingStrategy = .iso8601
+        let content = try reader.decode(StoplightsAttributes.ContentState.self, from: body)
+        return AnyView(StoplightsActivityView(state: content))
     #endif
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)

@@ -188,6 +188,49 @@ func cases(now: Date) -> [RenderCase] {
                 widget: tile.widget, familySource: tile.family, body: "", refused: true))
     }
 
+    // THE ONE PICTURE THAT HOLDS ALL THIRTEEN, AT THE WIDTH A LOCK SCREEN GIVES IT.
+    //
+    // No widget family is this shape, so the size is named on the case. The readings are the
+    // ones the three tiles are drawn from, so the rows here and the tiles beside them can be
+    // compared without allowing for a second set of numbers.
+    let stoplightsActivity = """
+        {"upkeep":[\
+        {"key":"safety","label":"Safety","tier":"yellow","reading":"2.5","nextTier":"green",\
+        "progress":0.5},\
+        {"key":"surplus","label":"Surplus","tier":"yellow","reading":"-2.5","nextTier":"green",\
+        "progress":0.375},\
+        {"key":"capacity","label":"Capacity","tier":"blue","reading":"12.0","nextTier":null,\
+        "progress":null},\
+        {"key":"sleep","label":"Sleep","tier":"red","reading":"6.4","nextTier":"yellow",\
+        "progress":0.4}],\
+        "inboxes":[\
+        {"key":"email","label":"Email","tier":"black","reading":"3.0k","nextTier":null,\
+        "progress":null},\
+        {"key":"tasks","label":"Tasks","tier":"blue","reading":"0","nextTier":null,\
+        "progress":null},\
+        {"key":"temperTasks","label":"Temper","tier":"red","reading":"23","nextTier":"yellow",\
+        "progress":0.8444444444444444}],\
+        "attributes":[\
+        {"key":"strength","label":"STR","tier":"green","reading":"1.4","nextTier":"blue",\
+        "progress":0.4},\
+        {"key":"endurance","label":"END","tier":"black","reading":"0.0","nextTier":"red",\
+        "progress":0.0238},\
+        {"key":"constitution","label":"CON","tier":"yellow","reading":"0.6","nextTier":"green",\
+        "progress":0.2},\
+        {"key":"wisdom","label":"WIS","tier":"black","reading":"0","nextTier":"red",\
+        "progress":0},\
+        {"key":"intelligence","label":"INT","tier":"red","reading":"0.3","nextTier":"yellow",\
+        "progress":0.2},\
+        {"key":"charisma","label":"CHA","tier":"blue","reading":"2.3","nextTier":null,\
+        "progress":null}],\
+        "takenAt":"2026-09-19T17:00:00Z"}
+        """
+    all.append(
+        RenderCase(
+            name: "stoplights-activity-lock-screen", widget: "StoplightsActivity",
+            familySource: "systemLarge", body: stoplightsActivity,
+            sizeOverride: CGSize(width: 360, height: 160)))
+
     all.append(
         contentsOf: wideAndPlaceholderCases(
             CaseFixtures(
