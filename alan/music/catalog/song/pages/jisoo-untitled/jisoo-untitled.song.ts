@@ -14,7 +14,6 @@ export const jisooUntitled = {
   ],
   title: "雪の華",
   artist: "artist/jisoo",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",
