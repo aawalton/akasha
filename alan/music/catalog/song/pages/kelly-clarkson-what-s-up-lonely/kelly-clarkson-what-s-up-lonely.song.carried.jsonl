@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"232e552d-ca0b-469e-a5d9-837992395176","externalLink":"https://musicbrainz.org/work/232e552d-ca0b-469e-a5d9-837992395176","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"232e552d-ca0b-469e-a5d9-837992395176","externalLink":"https://musicbrainz.org/work/232e552d-ca0b-469e-a5d9-837992395176","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b1-bdb9-7ec1-9dab-f1c2cbaa4b4a"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-what-s-up-lonely"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"What’s Up Lonely"}
 {"type":"page-type/song"}

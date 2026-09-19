@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"b4452948-ccf3-4230-b56f-9a264c80520c","externalLink":"https://musicbrainz.org/work/b4452948-ccf3-4230-b56f-9a264c80520c","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"b4452948-ccf3-4230-b56f-9a264c80520c","externalLink":"https://musicbrainz.org/work/b4452948-ccf3-4230-b56f-9a264c80520c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4af-c931-77e6-b919-eabc62d7c96c"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-keeping-score"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Keeping Score"}
 {"type":"page-type/song"}

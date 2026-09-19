@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"6e7a0137-54a4-4577-b20c-3bc4a8d15636","externalLink":"https://musicbrainz.org/work/6e7a0137-54a4-4577-b20c-3bc4a8d15636","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"6e7a0137-54a4-4577-b20c-3bc4a8d15636","externalLink":"https://musicbrainz.org/work/6e7a0137-54a4-4577-b20c-3bc4a8d15636","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b2-7e90-7a20-8bdf-529e82d882dc"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-second-hand-heart"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Second Hand Heart"}
 {"type":"page-type/song"}

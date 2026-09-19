@@ -4,16 +4,15 @@ export const kellyClarksonDonT = {
   id: "019ea4ae-3614-7da7-b782-1a4bdb6962c3",
   type: "page-type/song",
   slug: "kelly-clarkson-don-t",
-  title: "Don't",
-  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "51f62874-703d-31e3-8e59-2de0f5d4d692",
       externalLink: "https://musicbrainz.org/work/51f62874-703d-31e3-8e59-2de0f5d4d692",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "Don't",
+  artist: "artist/kelly-clarkson",
   performed: true,
 } as const satisfies Song

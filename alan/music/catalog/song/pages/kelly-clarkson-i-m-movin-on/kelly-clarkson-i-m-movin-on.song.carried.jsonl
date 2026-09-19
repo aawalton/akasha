@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"ca38f867-8093-4458-bf28-0163edd20e7d","externalLink":"https://musicbrainz.org/work/ca38f867-8093-4458-bf28-0163edd20e7d","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ca38f867-8093-4458-bf28-0163edd20e7d","externalLink":"https://musicbrainz.org/work/ca38f867-8093-4458-bf28-0163edd20e7d","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b0-10a2-7d21-96c6-bd8ddc1d8d36"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-i-m-movin-on"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"I'm Movin' On"}
 {"type":"page-type/song"}

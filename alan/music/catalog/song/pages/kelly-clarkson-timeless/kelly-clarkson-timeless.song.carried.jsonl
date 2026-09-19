@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"f622d118-01c1-3696-ae9d-96d719e6dddb","externalLink":"https://musicbrainz.org/work/f622d118-01c1-3696-ae9d-96d719e6dddb","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"f622d118-01c1-3696-ae9d-96d719e6dddb","externalLink":"https://musicbrainz.org/work/f622d118-01c1-3696-ae9d-96d719e6dddb","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4c1-9231-7fd7-90c7-5dfea1d8872e"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-timeless"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Timeless"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"20e9348e-d961-41da-88e9-b8aa3a7267be","externalLink":"https://musicbrainz.org/work/20e9348e-d961-41da-88e9-b8aa3a7267be","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"20e9348e-d961-41da-88e9-b8aa3a7267be","externalLink":"https://musicbrainz.org/work/20e9348e-d961-41da-88e9-b8aa3a7267be","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b1-b15d-7c45-9792-b528614b7560"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-queen-of-the-night"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Queen of the Night"}
 {"type":"page-type/song"}

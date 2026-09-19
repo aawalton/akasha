@@ -4,20 +4,18 @@ export const kellyClarksonHappierThanEver = {
   id: "019ea4aa-e95d-7446-9457-2ab561c8d01d",
   type: "page-type/song",
   slug: "kelly-clarkson-happier-than-ever",
-  title: "Happier Than Ever",
-  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",
       externalId: "aab769d3-a157-427d-b6b0-ac8120efce4d",
       externalLink: "https://musicbrainz.org/work/aab769d3-a157-427d-b6b0-ac8120efce4d",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
   ],
-  songType: "derivative",
+  title: "Happier Than Ever",
+  artist: "artist/kelly-clarkson",
   performed: true,
   lyricsSource: "lrclib",
-  written: "collab",
   lyrics: "txt",
   syncedLyrics: "txt",
 } as const satisfies Song

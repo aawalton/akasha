@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"d2799d77-ee1f-3219-98ba-0a70bf10f35c","externalLink":"https://musicbrainz.org/work/d2799d77-ee1f-3219-98ba-0a70bf10f35c","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"d2799d77-ee1f-3219-98ba-0a70bf10f35c","externalLink":"https://musicbrainz.org/work/d2799d77-ee1f-3219-98ba-0a70bf10f35c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b0-5b32-7d94-8717-1f492d2f408d"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-you-make-me-feel-like-a-natural-woman"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"(You Make Me Feel Like) A Natural Woman"}
 {"type":"page-type/song"}

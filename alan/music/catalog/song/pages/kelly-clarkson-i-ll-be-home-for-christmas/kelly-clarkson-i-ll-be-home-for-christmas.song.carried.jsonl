@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"1aa1b720-0c31-4f32-8a63-accc54024713","externalLink":"https://musicbrainz.org/work/1aa1b720-0c31-4f32-8a63-accc54024713","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"1aa1b720-0c31-4f32-8a63-accc54024713","externalLink":"https://musicbrainz.org/work/1aa1b720-0c31-4f32-8a63-accc54024713","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ad-1cc7-772b-931c-5ffca5c35710"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-i-ll-be-home-for-christmas"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"I’ll Be Home for Christmas"}
 {"type":"page-type/song"}

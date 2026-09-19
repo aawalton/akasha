@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"2bdce8d5-1ee0-4a79-aa39-091c91b1de40","externalLink":"https://musicbrainz.org/work/2bdce8d5-1ee0-4a79-aa39-091c91b1de40","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"2bdce8d5-1ee0-4a79-aa39-091c91b1de40","externalLink":"https://musicbrainz.org/work/2bdce8d5-1ee0-4a79-aa39-091c91b1de40","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ad-59a9-79d4-ae55-dc372baa4745"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-just-missed-the-train"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Just Missed the Train"}
 {"type":"page-type/song"}

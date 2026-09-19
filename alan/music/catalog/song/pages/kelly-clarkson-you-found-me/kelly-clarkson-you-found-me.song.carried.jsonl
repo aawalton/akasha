@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"af585333-04de-38b2-95f6-f1276a89f931","externalLink":"https://musicbrainz.org/work/af585333-04de-38b2-95f6-f1276a89f931","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"af585333-04de-38b2-95f6-f1276a89f931","externalLink":"https://musicbrainz.org/work/af585333-04de-38b2-95f6-f1276a89f931","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4c1-3cd5-7705-a8d5-0ab9266d7174"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-you-found-me"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"You Found Me"}
 {"type":"page-type/song"}

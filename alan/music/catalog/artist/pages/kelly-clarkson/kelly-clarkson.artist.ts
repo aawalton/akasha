@@ -16,7 +16,7 @@ export const kellyClarkson = {
       source: "musicbrainz",
       externalId: "d339efbb-77b9-4147-ba9e-59f2f24550b2",
       externalLink: "https://musicbrainz.org/artist/d339efbb-77b9-4147-ba9e-59f2f24550b2",
-      lastSyncedAt: "2026-06-08",
+      lastSyncedAt: "2026-09-19",
     },
     {
       source: "spotify",

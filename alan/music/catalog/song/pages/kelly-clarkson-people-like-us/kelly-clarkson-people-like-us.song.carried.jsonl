@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"a700ae69-f1df-4241-9b47-8090deadd70a","externalLink":"https://musicbrainz.org/work/a700ae69-f1df-4241-9b47-8090deadd70a","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"a700ae69-f1df-4241-9b47-8090deadd70a","externalLink":"https://musicbrainz.org/work/a700ae69-f1df-4241-9b47-8090deadd70a","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4c1-287d-736e-9c3b-edd89f646a0f"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-people-like-us"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"People Like Us"}
 {"type":"page-type/song"}

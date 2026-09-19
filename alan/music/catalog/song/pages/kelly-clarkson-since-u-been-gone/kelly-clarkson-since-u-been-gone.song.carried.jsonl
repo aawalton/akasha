@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"8cec7817-e78f-39f4-b58e-3cc9bf830423","externalLink":"https://musicbrainz.org/work/8cec7817-e78f-39f4-b58e-3cc9bf830423","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"8cec7817-e78f-39f4-b58e-3cc9bf830423","externalLink":"https://musicbrainz.org/work/8cec7817-e78f-39f4-b58e-3cc9bf830423","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b2-e045-71a8-adc2-a2a2d0d20b07"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-since-u-been-gone"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Since U Been Gone"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"5de0b9fc-f9ae-4c8b-ab69-3f62b64a06a0","externalLink":"https://musicbrainz.org/work/5de0b9fc-f9ae-4c8b-ab69-3f62b64a06a0","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"c69fec1c-1ec7-3c36-a7e9-e65653cd7c45","externalLink":"https://musicbrainz.org/work/c69fec1c-1ec7-3c36-a7e9-e65653cd7c45","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ae-79c9-70b6-8443-ea0c551aa3a8"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-baby-it-s-cold-outside"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Baby, It’s Cold Outside"}
 {"type":"page-type/song"}

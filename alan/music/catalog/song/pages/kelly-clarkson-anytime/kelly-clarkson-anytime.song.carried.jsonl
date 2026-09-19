@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"caa60276-88a7-4627-93f2-1adf9e95aeb2","externalLink":"https://musicbrainz.org/work/caa60276-88a7-4627-93f2-1adf9e95aeb2","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"caa60276-88a7-4627-93f2-1adf9e95aeb2","externalLink":"https://musicbrainz.org/work/caa60276-88a7-4627-93f2-1adf9e95aeb2","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b0-25ee-7164-8713-7d1db6fdc10e"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-anytime"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Anytime"}
 {"type":"page-type/song"}

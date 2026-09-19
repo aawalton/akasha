@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"62cd9af9-435f-3632-b885-f7d4685211a4","externalLink":"https://musicbrainz.org/work/62cd9af9-435f-3632-b885-f7d4685211a4","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"62cd9af9-435f-3632-b885-f7d4685211a4","externalLink":"https://musicbrainz.org/work/62cd9af9-435f-3632-b885-f7d4685211a4","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b2-6247-71f7-8f8a-7c4161703fee"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-respect"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Respect"}
 {"type":"page-type/song"}

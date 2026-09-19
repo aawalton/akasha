@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"0a60c381-5eb0-3c0e-a368-2f562bb6da95","externalLink":"https://musicbrainz.org/work/0a60c381-5eb0-3c0e-a368-2f562bb6da95","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"0a60c381-5eb0-3c0e-a368-2f562bb6da95","externalLink":"https://musicbrainz.org/work/0a60c381-5eb0-3c0e-a368-2f562bb6da95","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ac-c590-7c58-ba2b-87ce2157d817"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-9-to-5"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"9 to 5"}
 {"type":"page-type/song"}

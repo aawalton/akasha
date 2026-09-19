@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"414afdb5-bd79-3349-8a93-d940da14c36e","externalLink":"https://musicbrainz.org/work/414afdb5-bd79-3349-8a93-d940da14c36e","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"414afdb5-bd79-3349-8a93-d940da14c36e","externalLink":"https://musicbrainz.org/work/414afdb5-bd79-3349-8a93-d940da14c36e","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ad-ccfc-75b3-b2be-62d43c4bd1c4"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-blue-christmas"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Blue Christmas"}
 {"type":"page-type/song"}

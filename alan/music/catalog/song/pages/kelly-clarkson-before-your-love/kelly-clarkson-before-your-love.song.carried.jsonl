@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"3aad7de1-9250-4860-8c3b-bd1cfdb5bf59","externalLink":"https://musicbrainz.org/work/3aad7de1-9250-4860-8c3b-bd1cfdb5bf59","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"90e947b5-1aaa-49cb-94a3-d0036995a388","externalLink":"https://musicbrainz.org/work/90e947b5-1aaa-49cb-94a3-d0036995a388","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ad-a5c4-7aba-ab66-fba674366279"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-before-your-love"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Before Your Love"}
 {"type":"page-type/song"}

@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"18fbe723-0ac7-4183-8fd7-cd4404aab010","externalLink":"https://musicbrainz.org/work/18fbe723-0ac7-4183-8fd7-cd4404aab010","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"18fbe723-0ac7-4183-8fd7-cd4404aab010","externalLink":"https://musicbrainz.org/work/18fbe723-0ac7-4183-8fd7-cd4404aab010","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b1-86ee-7e0e-9088-69849035eeb4"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-there-s-a-new-kid-in-town"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"There's a New Kid in Town"}
 {"type":"page-type/song"}

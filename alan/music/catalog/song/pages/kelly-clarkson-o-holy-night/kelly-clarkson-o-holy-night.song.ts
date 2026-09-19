@@ -7,8 +7,8 @@ export const kellyClarksonOHolyNight = {
   externalIdentity: [
     {
       source: "musicbrainz",
-      externalId: "368a7dea-3e18-4d46-86f9-3c31c5cb55a1",
-      externalLink: "https://musicbrainz.org/work/368a7dea-3e18-4d46-86f9-3c31c5cb55a1",
+      externalId: "bf57c435-6ce0-3d57-ab04-e2a9179b178c",
+      externalLink: "https://musicbrainz.org/work/bf57c435-6ce0-3d57-ab04-e2a9179b178c",
       lastSyncedAt: "2026-09-19",
     },
   ],

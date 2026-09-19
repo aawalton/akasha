@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"653769c3-7a78-3b1b-9bcc-be7a6c335a1b","externalLink":"https://musicbrainz.org/work/653769c3-7a78-3b1b-9bcc-be7a6c335a1b","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"653769c3-7a78-3b1b-9bcc-be7a6c335a1b","externalLink":"https://musicbrainz.org/work/653769c3-7a78-3b1b-9bcc-be7a6c335a1b","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ae-ce21-7fff-a71f-8018455d1495"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-blue-bayou"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Blue Bayou"}
 {"type":"page-type/song"}

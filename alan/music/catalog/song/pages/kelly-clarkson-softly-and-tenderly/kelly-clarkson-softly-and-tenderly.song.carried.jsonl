@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"7975de9f-455b-4727-8f93-2f35230ed56a","externalLink":"https://musicbrainz.org/work/7975de9f-455b-4727-8f93-2f35230ed56a","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"7975de9f-455b-4727-8f93-2f35230ed56a","externalLink":"https://musicbrainz.org/work/7975de9f-455b-4727-8f93-2f35230ed56a","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4b2-bcfc-73f7-bc12-ae88ab6e7140"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-softly-and-tenderly"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Softly and Tenderly"}
 {"type":"page-type/song"}

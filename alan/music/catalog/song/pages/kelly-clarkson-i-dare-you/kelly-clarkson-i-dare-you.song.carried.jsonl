@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"08b3ebac-7fa6-4574-90cc-6ec495aa327c","externalLink":"https://musicbrainz.org/work/08b3ebac-7fa6-4574-90cc-6ec495aa327c","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"08b3ebac-7fa6-4574-90cc-6ec495aa327c","externalLink":"https://musicbrainz.org/work/08b3ebac-7fa6-4574-90cc-6ec495aa327c","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ac-bc11-799b-8ecd-758f1983878f"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-i-dare-you"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"I Dare You"}
 {"type":"page-type/song"}

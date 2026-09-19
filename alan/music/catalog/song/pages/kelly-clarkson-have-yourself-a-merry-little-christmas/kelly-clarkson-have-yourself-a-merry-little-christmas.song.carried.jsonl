@@ -1,11 +1,10 @@
 {"artist":"artist/kelly-clarkson"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"2ff51d26-cc88-443e-83b9-baf9cf244112","externalLink":"https://musicbrainz.org/work/2ff51d26-cc88-443e-83b9-baf9cf244112","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"2ff51d26-cc88-443e-83b9-baf9cf244112","externalLink":"https://musicbrainz.org/work/2ff51d26-cc88-443e-83b9-baf9cf244112","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4ad-6376-7559-8d2d-15ab69788c1a"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"kelly-clarkson-have-yourself-a-merry-little-christmas"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Have Yourself a Merry Little Christmas"}
 {"type":"page-type/song"}
