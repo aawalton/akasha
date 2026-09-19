@@ -1,7 +1,7 @@
 {"constraints":["A cluster service, a container recipe and a web app are put up by a run triggered on the workstation and made nowhere on it.","The commit a run is made at reaches the cluster as a push to origin.","A run checks that commit out in the cluster rather than being handed a tree from the workstation.","What a run learns is written through the pages service rather than into the tree the run holds.","A workstation service, an iOS app, an inference service and an ESO addon are put up on the workstation."]}
 {"domain":"domain/infrastructure"}
 {"id":"01a0a0d3-06ac-76e2-94f9-341e7ce50da4"}
-{"intentStack":[{"statement":"An audit request a running audit answers attaches to that audit rather than opening a second."},{"statement":"Every manifest is part of one service."},{"statement":"A namespace is named for one service and holds that service with the satellites of that service."},{"statement":"The namespaces, the roles and the operator configuration the cluster is built on are one service."}]}
+{"intentStack":[{"statement":"An audit request a running audit answers attaches to that audit rather than opening a second."},{"statement":"Every manifest is part of one service."},{"statement":"A namespace is named for one service and holds that service with the satellites of that service."},{"statement":"The namespaces, the roles and the operator configuration the cluster is built on are one service."},{"statement":"A full audit answers in under ten minutes."}]}
 {"persona":"persona/dalla"}
 {"slug":"dalla-offload-to-cluster"}
 {"type":"page-type/initiative"}
