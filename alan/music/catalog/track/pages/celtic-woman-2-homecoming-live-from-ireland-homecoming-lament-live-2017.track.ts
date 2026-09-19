@@ -23,4 +23,5 @@ export const celticWoman2HomecomingLiveFromIrelandHomecomingLamentLive2017 = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "homecominglamentlive2017|6NWtt9pNOL2Gx7kBykdE5x|122040",
+  song: "song/celtic-woman-homecoming-lament",
 } as const satisfies Track

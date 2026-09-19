@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSheMovedTh
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "shemovedthruthefair|6NWtt9pNOL2Gx7kBykdE5x|210920",
+  song: "song/celtic-woman-she-moved-thru-the-fair",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const celticWoman2HomecomingLiveFromIrelandArdUiChuainSadhbhNiBhruinneall
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "arduichuainsadhbhnibhruinneallaighlive2017|6NWtt9pNOL2Gx7kBykdE5x|261586",
+  song: "song/celtic-woman-ard-ui-chuain-sadhbh-ni-bhruinneallaigh",
 } as const satisfies Track

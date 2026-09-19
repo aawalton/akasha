@@ -26,4 +26,5 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
   ],
   trackKey: "bringbackthecolorfeataurora|0jNDKefhfSbLR9sFvcPLHo,1WgXqy2Dd70QQOU7Ay074N|168545",
+  song: "song/aurora-bring-back-the-color",
 } as const satisfies Track

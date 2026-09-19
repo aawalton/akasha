@@ -23,4 +23,5 @@ export const celticWoman2CelticWomanLastRoseOfSummerWalkingInTheAirMedley = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "lastroseofsummerwalkingintheairmedley|6NWtt9pNOL2Gx7kBykdE5x|260026",
+  song: "song/celtic-woman-last-rose-of-summer-walking-in-the-air-medley",
 } as const satisfies Track

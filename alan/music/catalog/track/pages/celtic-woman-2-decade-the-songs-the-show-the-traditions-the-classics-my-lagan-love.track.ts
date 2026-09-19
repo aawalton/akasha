@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMyLaganLov
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "mylaganlove|6NWtt9pNOL2Gx7kBykdE5x|170360",
+  song: "song/celtic-woman-my-lagan-love",
 } as const satisfies Track

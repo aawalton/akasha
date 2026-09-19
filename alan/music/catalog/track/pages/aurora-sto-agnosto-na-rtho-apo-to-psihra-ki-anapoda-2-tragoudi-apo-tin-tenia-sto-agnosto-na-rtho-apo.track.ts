@@ -30,4 +30,5 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
   ],
   trackKey:
     "stoagnostonarthoapotopsihrakianapodatatragoudia2tragoudiapotintenia|1WgXqy2Dd70QQOU7Ay074N,4huNtMLF5FVeov9mFg6qWn|194866",
+  song: "song/aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-ta-tragoudia-2-tragoudi-apo-tin-tenia",
 } as const satisfies Track

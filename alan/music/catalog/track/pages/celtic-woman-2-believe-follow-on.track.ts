@@ -29,4 +29,5 @@ export const celticWoman2BelieveFollowOn = {
   ],
   trackKey:
     "followon|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x,7lauB9o5ZYmU5lTBOw7w8L|289733",
+  song: "song/celtic-woman-follow-on",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const celticWoman2AChristmasCelebrationDonOicheUdIMbeithilThatNightInBeth
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "donoicheudimbeithilthatnightinbethlehem|6NWtt9pNOL2Gx7kBykdE5x|164280",
+  song: "song/celtic-woman-don-oiche-ud-i-mbeithil-that-night-in-bethlehem",
 } as const satisfies Track

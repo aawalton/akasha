@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheBlessin
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theblessing|6NWtt9pNOL2Gx7kBykdE5x|229760",
+  song: "song/celtic-woman-the-blessing",
 } as const satisfies Track

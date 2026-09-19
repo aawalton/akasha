@@ -26,4 +26,5 @@ export const auroraStarvationAnnaRemixStarvationAnnaRemix = {
     { externalId: "3wkaDi2HJV3eCaBJ4iH6om", artistName: "ANNA" },
   ],
   trackKey: "starvationannaremix|1WgXqy2Dd70QQOU7Ay074N,3wkaDi2HJV3eCaBJ4iH6om|213986",
+  song: "song/aurora-starvation",
 } as const satisfies Track

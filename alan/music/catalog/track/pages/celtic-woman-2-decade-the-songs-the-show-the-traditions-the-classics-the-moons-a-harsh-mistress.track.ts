@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheMoonsAH
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "themoonsaharshmistress|6NWtt9pNOL2Gx7kBykdE5x|196466",
+  song: "song/celtic-woman-the-moons-a-harsh-mistress",
 } as const satisfies Track

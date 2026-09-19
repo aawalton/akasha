@@ -23,4 +23,5 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMebhsTune = {
   explicit: false,
   trackArtist: [{ externalId: "6YtMPqKR0zhZ5OPv3RrJNx", artistName: "Kíla" }],
   trackKey: "mebhstune|6YtMPqKR0zhZ5OPv3RrJNx|184773",
+  song: "song/aurora-mebhs-tune",
 } as const satisfies Track

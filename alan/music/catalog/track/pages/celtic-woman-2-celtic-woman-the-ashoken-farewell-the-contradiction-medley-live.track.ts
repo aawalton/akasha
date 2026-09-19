@@ -23,4 +23,5 @@ export const celticWoman2CelticWomanTheAshokenFarewellTheContradictionMedleyLive
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theashokenfarewellthecontradictionmedleylive|6NWtt9pNOL2Gx7kBykdE5x|250186",
+  song: "song/celtic-woman-the-ashoken-farewell-the-contradiction",
 } as const satisfies Track

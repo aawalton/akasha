@@ -29,4 +29,5 @@ export const celticWoman2BelieveBlackIsTheColour = {
   ],
   trackKey:
     "blackisthecolour|1U5zgr455OGyIkLNXvDdrf,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|224346",
+  song: "song/celtic-woman-black-is-the-colour",
 } as const satisfies Track

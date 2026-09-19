@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCoastOf
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thecoastofgalicia|6NWtt9pNOL2Gx7kBykdE5x|215893",
+  song: "song/celtic-woman-the-coast-of-galicia",
 } as const satisfies Track

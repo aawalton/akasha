@@ -26,4 +26,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideOutr
     { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
   ],
   trackKey: "allissoftinsideoutro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|54000",
+  song: "song/aurora-all-is-soft-inside-outro",
 } as const satisfies Track

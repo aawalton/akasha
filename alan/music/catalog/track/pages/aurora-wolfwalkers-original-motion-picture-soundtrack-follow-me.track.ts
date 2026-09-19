@@ -23,4 +23,5 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackFollowMe = {
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "followme|5kjb55jtwPnbYXXDvP4x7R|207920",
+  song: "song/aurora-follow-me",
 } as const satisfies Track

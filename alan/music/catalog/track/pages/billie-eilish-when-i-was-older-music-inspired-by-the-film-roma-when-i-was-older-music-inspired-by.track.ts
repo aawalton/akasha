@@ -23,4 +23,5 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRomaWhenIWasOlderMus
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "wheniwasoldermusicinspiredbythefilmroma|6qqNVTkY8uBg9cP3Jd7DAH|270519",
+  song: "song/billie-eilish-when-i-was-older-music-inspired-by-the-film-roma",
 } as const satisfies Track

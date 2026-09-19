@@ -30,4 +30,5 @@ export const celticWoman2BelieveSongsFromTheHeartWalkingTheNightTheWorldFallsAwa
   ],
   trackKey:
     "songsfromtheheartwalkingthenighttheworldfallsaway|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,4gpWwMQpb2Brtj1zqsJRBf,6NWtt9pNOL2Gx7kBykdE5x,7mJ7vUZmcgRob2PKidv21k|402173",
+  song: "song/celtic-woman-songs-from-the-heart-walking-the-night-the-world-falls-away",
 } as const satisfies Track

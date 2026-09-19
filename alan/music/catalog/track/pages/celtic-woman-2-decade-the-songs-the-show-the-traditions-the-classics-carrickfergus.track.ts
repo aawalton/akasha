@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsCarrickfer
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "carrickfergus|6NWtt9pNOL2Gx7kBykdE5x|223226",
+  song: "song/celtic-woman-carrickfergus",
 } as const satisfies Track

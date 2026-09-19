@@ -26,4 +26,5 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
   ],
   trackKey: "butterfliesfeataurora|1WgXqy2Dd70QQOU7Ay074N,2txHhyCwHjUEpJjWrEyqyX|130666",
+  song: "song/aurora-butterflies",
 } as const satisfies Track

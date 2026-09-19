@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWalkingThe
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "walkingthenighttheworldfallsaway|6NWtt9pNOL2Gx7kBykdE5x|403373",
+  song: "song/celtic-woman-walking-the-night-the-world-falls-away",
 } as const satisfies Track

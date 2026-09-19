@@ -23,4 +23,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackWarriorIntro = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "warriorintro|1WgXqy2Dd70QQOU7Ay074N|30000",
+  song: "song/aurora-warrior-intro",
 } as const satisfies Track

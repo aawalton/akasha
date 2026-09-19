@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAwakening 
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "awakening|6NWtt9pNOL2Gx7kBykdE5x|315706",
+  song: "song/celtic-woman-awakening",
 } as const satisfies Track

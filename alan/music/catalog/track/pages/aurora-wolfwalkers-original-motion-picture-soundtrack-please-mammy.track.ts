@@ -23,4 +23,5 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackPleaseMammy = {
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "pleasemammy|5kjb55jtwPnbYXXDvP4x7R|107066",
+  song: "song/aurora-please-mammy",
 } as const satisfies Track

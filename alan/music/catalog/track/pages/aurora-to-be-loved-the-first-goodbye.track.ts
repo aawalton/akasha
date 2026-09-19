@@ -23,4 +23,5 @@ export const auroraToBeLovedTheFirstGoodbye = {
   explicit: false,
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "thefirstgoodbye|3NABmtfO8G8s96WFGhbR7F|210779",
+  song: "song/aurora-the-first-goodbye",
 } as const satisfies Track

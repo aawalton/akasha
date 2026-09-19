@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheButterf
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thebutterfly|6NWtt9pNOL2Gx7kBykdE5x|180226",
+  song: "song/celtic-woman-the-butterfly",
 } as const satisfies Track

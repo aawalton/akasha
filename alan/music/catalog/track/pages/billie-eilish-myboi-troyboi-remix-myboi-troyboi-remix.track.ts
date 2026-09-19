@@ -26,4 +26,5 @@ export const billieEilishMyboiTroyboiRemixMyboiTroyboiRemix = {
     { externalId: "0tvpihdAsKiNnP6sWS3jUI", artistName: "TroyBoi" },
   ],
   trackKey: "myboitroyboiremix|0tvpihdAsKiNnP6sWS3jUI,6qqNVTkY8uBg9cP3Jd7DAH|211304",
+  song: "song/billie-eilish-myboi",
 } as const satisfies Track

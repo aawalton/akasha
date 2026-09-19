@@ -23,4 +23,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhaleOutro =
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "exhaleinhaleoutro|1WgXqy2Dd70QQOU7Ay074N|25000",
+  song: "song/aurora-exhale-inhale-outro",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbieWhatWasIMadeFo
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "whatwasimadeforfromthemotionpicturebarbie|6qqNVTkY8uBg9cP3Jd7DAH|222369",
+  song: "song/billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
 } as const satisfies Track

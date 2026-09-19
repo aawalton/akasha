@@ -26,4 +26,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedOutro = {
     { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
   ],
   trackKey: "theseedoutro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|95000",
+  song: "song/aurora-the-seed-outro",
 } as const satisfies Track

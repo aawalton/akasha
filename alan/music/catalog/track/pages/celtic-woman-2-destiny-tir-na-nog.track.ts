@@ -26,4 +26,5 @@ export const celticWoman2DestinyTirNaNog = {
     { externalId: "46CaFQ5mdimxfNmTILDBlk", artistName: "Oonagh" },
   ],
   trackKey: "tirnanog|46CaFQ5mdimxfNmTILDBlk,6NWtt9pNOL2Gx7kBykdE5x|188724",
+  song: "song/celtic-woman-tir-na-nog",
 } as const satisfies Track

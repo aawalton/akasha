@@ -23,4 +23,5 @@ export const celticWoman2HomecomingLiveFromIrelandMoGhileMearMyGallantStarLive20
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearmygallantstarlive2017|6NWtt9pNOL2Gx7kBykdE5x|249786",
+  song: "song/celtic-woman-mo-ghile-mear-my-gallant-star",
 } as const satisfies Track

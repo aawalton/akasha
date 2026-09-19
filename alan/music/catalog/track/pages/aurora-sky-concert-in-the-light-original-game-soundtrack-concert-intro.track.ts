@@ -26,4 +26,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConcertIntro = {
     { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
   ],
   trackKey: "concertintro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|67000",
+  song: "song/aurora-concert-intro",
 } as const satisfies Track

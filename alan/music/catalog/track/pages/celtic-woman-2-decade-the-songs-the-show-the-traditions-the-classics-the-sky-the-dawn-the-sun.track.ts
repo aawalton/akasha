@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSkyTheD
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theskythedawnthesun|6NWtt9pNOL2Gx7kBykdE5x|322426",
+  song: "song/celtic-woman-the-sky-the-dawn-the-sun",
 } as const satisfies Track

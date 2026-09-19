@@ -23,4 +23,5 @@ export const auroraWhatHappenedToTheHeartTheBlade = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theblade|1WgXqy2Dd70QQOU7Ay074N|273213",
+  song: "song/aurora-the-blade",
 } as const satisfies Track

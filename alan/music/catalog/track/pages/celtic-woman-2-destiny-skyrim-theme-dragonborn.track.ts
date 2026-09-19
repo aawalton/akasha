@@ -23,4 +23,5 @@ export const celticWoman2DestinySkyrimThemeDragonborn = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "skyrimthemedragonborn|6NWtt9pNOL2Gx7kBykdE5x|191739",
+  song: "song/celtic-woman-skyrim-theme-dragonborn",
 } as const satisfies Track

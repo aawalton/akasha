@@ -26,4 +26,5 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
     { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
   ],
   trackKey: "guessfeaturingbillieeilish|25uiPmTg16RbhZWAqwLBy5,6qqNVTkY8uBg9cP3Jd7DAH|143330",
+  song: "song/billie-eilish-guess-featuring-billie-eilish",
 } as const satisfies Track

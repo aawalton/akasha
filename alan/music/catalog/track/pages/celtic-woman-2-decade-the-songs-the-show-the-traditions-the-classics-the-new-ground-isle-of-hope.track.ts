@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheNewGrou
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thenewgroundisleofhope|6NWtt9pNOL2Gx7kBykdE5x|401026",
+  song: "song/celtic-woman-the-new-ground-isle-of-hope",
 } as const satisfies Track

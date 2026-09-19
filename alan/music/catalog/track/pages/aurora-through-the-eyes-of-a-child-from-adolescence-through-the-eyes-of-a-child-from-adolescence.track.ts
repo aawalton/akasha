@@ -23,4 +23,5 @@ export const auroraThroughTheEyesOfAChildFromAdolescenceThroughTheEyesOfAChildFr
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "throughtheeyesofachildfromadolescence|1WgXqy2Dd70QQOU7Ay074N|274413",
+  song: "song/aurora-through-the-eyes-of-a-child-from-adolescence",
 } as const satisfies Track

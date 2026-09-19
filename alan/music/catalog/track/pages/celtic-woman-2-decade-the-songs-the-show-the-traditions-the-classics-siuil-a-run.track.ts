@@ -28,4 +28,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSiuilARun 
     { externalId: "5oLAxXGiZCQwR8FuXcTDJM", artistName: "Órla Fallon" },
   ],
   trackKey: "siuilarun|5oLAxXGiZCQwR8FuXcTDJM,6NWtt9pNOL2Gx7kBykdE5x|227200",
+  song: "song/celtic-woman-siuil-a-run",
 } as const satisfies Track

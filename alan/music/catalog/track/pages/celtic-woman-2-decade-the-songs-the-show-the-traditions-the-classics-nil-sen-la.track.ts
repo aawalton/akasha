@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNilSenLa =
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "nilsenla|6NWtt9pNOL2Gx7kBykdE5x|215106",
+  song: "song/celtic-woman-nil-sen-la",
 } as const satisfies Track

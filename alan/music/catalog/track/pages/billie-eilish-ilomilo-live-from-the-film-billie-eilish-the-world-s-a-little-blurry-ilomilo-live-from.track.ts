@@ -26,4 +26,5 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey:
     "ilomilolivefromthefilmbillieeilishtheworldsalittleblurry|6qqNVTkY8uBg9cP3Jd7DAH|164051",
+  song: "song/billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-worlds-a-little-blurry",
 } as const satisfies Track

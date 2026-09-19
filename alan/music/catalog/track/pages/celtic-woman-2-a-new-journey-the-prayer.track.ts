@@ -23,4 +23,5 @@ export const celticWoman2ANewJourneyThePrayer = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theprayer|6NWtt9pNOL2Gx7kBykdE5x|259573",
+  song: "song/celtic-woman-the-prayer",
 } as const satisfies Track

@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFollowOn =
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "followon|6NWtt9pNOL2Gx7kBykdE5x|291213",
+  song: "song/celtic-woman-follow-on",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
     { externalId: "3wvB1waB73AEUljz3Gl5Ph", artistName: "nic" },
   ],
   trackKey: "dreamsfeatnicolezignago|1WgXqy2Dd70QQOU7Ay074N,3wvB1waB73AEUljz3Gl5Ph|264120",
+  song: "song/aurora-dreams",
 } as const satisfies Track

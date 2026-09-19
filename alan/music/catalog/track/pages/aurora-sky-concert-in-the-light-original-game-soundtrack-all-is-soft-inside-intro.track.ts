@@ -23,4 +23,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideIntr
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "allissoftinsideintro|1WgXqy2Dd70QQOU7Ay074N|29000",
+  song: "song/aurora-all-is-soft-inside-intro",
 } as const satisfies Track

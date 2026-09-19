@@ -23,4 +23,5 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackHowlsTheWolfMollsSo
   explicit: false,
   trackArtist: [{ externalId: "6YtMPqKR0zhZ5OPv3RrJNx", artistName: "Kíla" }],
   trackKey: "howlsthewolfmollssongwolfrunfree|6YtMPqKR0zhZ5OPv3RrJNx|117000",
+  song: "song/aurora-howls-the-wolf-molls-song-wolf-run-free",
 } as const satisfies Track

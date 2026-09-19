@@ -26,4 +26,5 @@ export const auroraToBeLovedToBeLoved = {
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
   ],
   trackKey: "tobeloved|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F|228594",
+  song: "song/aurora-to-be-loved",
 } as const satisfies Track

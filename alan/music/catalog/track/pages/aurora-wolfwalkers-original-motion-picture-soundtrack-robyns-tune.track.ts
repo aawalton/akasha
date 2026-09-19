@@ -23,4 +23,5 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRobynsTune = {
   explicit: false,
   trackArtist: [{ externalId: "6YtMPqKR0zhZ5OPv3RrJNx", artistName: "Kíla" }],
   trackKey: "robynstune|6YtMPqKR0zhZ5OPv3RrJNx|103920",
+  song: "song/aurora-robyns-tune",
 } as const satisfies Track

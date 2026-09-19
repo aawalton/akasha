@@ -29,4 +29,5 @@ export const celticWoman2BelieveAWomansHeart = {
   ],
   trackKey:
     "awomansheart|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,50SDcJ4wO9jS355IoJc7O9,6NWtt9pNOL2Gx7kBykdE5x|264546",
+  song: "song/celtic-woman-a-womans-heart",
 } as const satisfies Track

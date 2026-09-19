@@ -23,4 +23,5 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runningwiththewolveswolfwalkersedition|1WgXqy2Dd70QQOU7Ay074N|166546",
+  song: "song/aurora-running-with-the-wolves-wolfwalkers-edition",
 } as const satisfies Track

@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSoftGoo
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thesoftgoodbye|6NWtt9pNOL2Gx7kBykdE5x|239133",
+  song: "song/celtic-woman-the-soft-goodbye",
 } as const satisfies Track

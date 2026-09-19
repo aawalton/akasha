@@ -29,4 +29,5 @@ export const auroraWorldOfWarcraftAPlaceToCallHomeAPlaceToCallHome = {
   ],
   trackKey:
     "aplacetocallhome|1WgXqy2Dd70QQOU7Ay074N,2dlo6TFsxQawXjxytNerod,5ZU7xWKgKq5T47aBVHBeMs,6UJ3pPsN7xzsz0Cneucy59|131978",
+  song: "song/aurora-a-place-to-call-home",
 } as const satisfies Track

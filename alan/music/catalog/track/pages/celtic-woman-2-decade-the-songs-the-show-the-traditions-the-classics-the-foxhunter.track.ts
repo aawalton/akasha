@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheFoxhunt
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thefoxhunter|6NWtt9pNOL2Gx7kBykdE5x|208613",
+  song: "song/celtic-woman-the-foxhunter",
 } as const satisfies Track

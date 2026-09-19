@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBlackIsThe
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "blackisthecolour|6NWtt9pNOL2Gx7kBykdE5x|224346",
+  song: "song/celtic-woman-black-is-the-colour",
 } as const satisfies Track

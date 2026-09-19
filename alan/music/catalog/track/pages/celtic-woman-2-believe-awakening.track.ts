@@ -30,4 +30,5 @@ export const celticWoman2BelieveAwakening = {
   ],
   trackKey:
     "awakening|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,4gpWwMQpb2Brtj1zqsJRBf,6NWtt9pNOL2Gx7kBykdE5x,7mJ7vUZmcgRob2PKidv21k|314853",
+  song: "song/celtic-woman-awakening",
 } as const satisfies Track

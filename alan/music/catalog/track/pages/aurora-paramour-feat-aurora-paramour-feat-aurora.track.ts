@@ -26,4 +26,5 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
   ],
   trackKey: "paramourfeataurora|1WgXqy2Dd70QQOU7Ay074N,7gXb99Sf9nNmpNYeAgIQFG|168433",
+  song: "song/aurora-paramour",
 } as const satisfies Track

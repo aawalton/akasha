@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheLastRos
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thelastroseofsummer|6NWtt9pNOL2Gx7kBykdE5x|216933",
+  song: "song/celtic-woman-the-last-rose-of-summer",
 } as const satisfies Track

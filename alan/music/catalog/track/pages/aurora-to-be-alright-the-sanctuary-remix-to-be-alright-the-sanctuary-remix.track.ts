@@ -26,4 +26,5 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
     { externalId: "3c7DW1zmCGBdgHy8HllzV2", artistName: "The Sanctuary" },
   ],
   trackKey: "tobealrightthesanctuaryremix|1WgXqy2Dd70QQOU7Ay074N,3c7DW1zmCGBdgHy8HllzV2|226449",
+  song: "song/aurora-to-be-alright",
 } as const satisfies Track

@@ -26,4 +26,5 @@ export const auroraDaydreamerKdaLondonDubDaydreamerKdaLondonDub = {
     { externalId: "3EK3opK9Hp93HJjBPupzfg", artistName: "KDA" },
   ],
   trackKey: "daydreamerkdalondondub|1WgXqy2Dd70QQOU7Ay074N,3EK3opK9Hp93HJjBPupzfg|326773",
+  song: "song/aurora-daydreamer-kda-london-dub",
 } as const satisfies Track

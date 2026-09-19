@@ -23,4 +23,5 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackThisIsIntolerable =
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "thisisintolerable|5kjb55jtwPnbYXXDvP4x7R|217840",
+  song: "song/aurora-this-is-intolerable",
 } as const satisfies Track

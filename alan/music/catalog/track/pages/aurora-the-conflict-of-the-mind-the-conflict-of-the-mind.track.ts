@@ -23,4 +23,5 @@ export const auroraTheConflictOfTheMindTheConflictOfTheMind = {
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theconflictofthemind|1WgXqy2Dd70QQOU7Ay074N|255800",
+  song: "song/aurora-the-conflict-of-the-mind",
 } as const satisfies Track

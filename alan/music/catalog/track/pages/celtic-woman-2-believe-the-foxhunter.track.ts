@@ -29,4 +29,5 @@ export const celticWoman2BelieveTheFoxhunter = {
   ],
   trackKey:
     "thefoxhunter|1U5zgr455OGyIkLNXvDdrf,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|208600",
+  song: "song/celtic-woman-the-foxhunter",
 } as const satisfies Track

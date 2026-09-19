@@ -23,4 +23,5 @@ export const celticWoman2DestinyWhenYouGo = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "whenyougo|6NWtt9pNOL2Gx7kBykdE5x|209168",
+  song: "song/celtic-woman-when-you-go",
 } as const satisfies Track

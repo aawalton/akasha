@@ -23,4 +23,5 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8YouCantRunFromYourselfFromK
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "youcantrunfromyourselffromkaijuno8|1WgXqy2Dd70QQOU7Ay074N|136720",
+  song: "song/aurora-you-cant-run-from-yourself-from-kaiju-no-8",
 } as const satisfies Track

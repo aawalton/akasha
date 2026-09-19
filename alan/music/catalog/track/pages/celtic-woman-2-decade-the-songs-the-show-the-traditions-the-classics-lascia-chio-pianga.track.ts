@@ -25,4 +25,5 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsLasciaChio
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "lasciachiopianga|6NWtt9pNOL2Gx7kBykdE5x|211893",
+  song: "song/celtic-woman-lascia-chio-pianga",
 } as const satisfies Track

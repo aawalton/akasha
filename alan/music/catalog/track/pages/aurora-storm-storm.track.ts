@@ -26,4 +26,5 @@ export const auroraStormStorm = {
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
   ],
   trackKey: "storm|1WgXqy2Dd70QQOU7Ay074N,5a5vu4RzsAHdKN0aYyblZ8|227688",
+  song: "song/aurora-storm",
 } as const satisfies Track
