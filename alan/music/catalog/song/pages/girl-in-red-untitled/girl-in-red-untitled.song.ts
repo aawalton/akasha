@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const girlInRedUntitled = {
+  id: "01a0b724-d26c-7455-ae04-e3f21f8a70ba",
+  type: "page-type/song",
+  slug: "girl-in-red-untitled",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "453ef7f3-29e5-4a20-97a3-a28d5a703f52",
+      externalLink: "https://musicbrainz.org/work/453ef7f3-29e5-4a20-97a3-a28d5a703f52",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "★★★★★",
+  artist: "artist/girl-in-red",
+  songType: "original",
+  performed: true,
+  written: "collab",
+} as const satisfies Song

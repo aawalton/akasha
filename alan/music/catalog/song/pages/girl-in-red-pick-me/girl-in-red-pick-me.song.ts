@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const girlInRedPickMe = {
+  id: "01a0b724-d07e-75d5-8efb-f682ca433288",
+  type: "page-type/song",
+  slug: "girl-in-red-pick-me",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1273c257-7bb5-4991-8075-e06c3f112b21",
+      externalLink: "https://musicbrainz.org/work/1273c257-7bb5-4991-8075-e06c3f112b21",
+      lastSyncedAt: "2026-09-19",
+    },
+  ],
+  title: "Pick Me",
+  artist: "artist/girl-in-red",
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song
