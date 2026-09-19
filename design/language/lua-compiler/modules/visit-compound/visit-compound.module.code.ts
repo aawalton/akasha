@@ -47,7 +47,10 @@ type CompoundAssignmentToken =
   | ts.SyntaxKind.AmpersandAmpersandToken
   | ts.SyntaxKind.QuestionQuestionToken
 
-const compoundToAssignmentTokens: Record<ts.CompoundAssignmentOperator, CompoundAssignmentToken> = {
+const COMPOUND_TO_ASSIGNMENT_TOKENS: Record<
+  ts.CompoundAssignmentOperator,
+  CompoundAssignmentToken
+> = {
   [ts.SyntaxKind.BarEqualsToken]: ts.SyntaxKind.BarToken,
   [ts.SyntaxKind.PlusEqualsToken]: ts.SyntaxKind.PlusToken,
   [ts.SyntaxKind.CaretEqualsToken]: ts.SyntaxKind.CaretToken,
@@ -68,11 +71,11 @@ const compoundToAssignmentTokens: Record<ts.CompoundAssignmentOperator, Compound
 
 export const isCompoundAssignmentToken = (
   token: ts.BinaryOperator
-): token is ts.CompoundAssignmentOperator => token in compoundToAssignmentTokens
+): token is ts.CompoundAssignmentOperator => token in COMPOUND_TO_ASSIGNMENT_TOKENS
 
 export const unwrapCompoundAssignmentToken = (
   token: ts.CompoundAssignmentOperator
-): CompoundAssignmentToken => compoundToAssignmentTokens[token]
+): CompoundAssignmentToken => COMPOUND_TO_ASSIGNMENT_TOKENS[token]
 
 function transformCompoundAssignment(
   context: TransformationContext,

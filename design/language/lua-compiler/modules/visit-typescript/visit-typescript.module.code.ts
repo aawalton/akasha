@@ -21,7 +21,7 @@ const transformAssertionExpression: FunctionVisitor<ts.AssertionExpression> = (
   return context.transformExpression(expression.expression)
 }
 
-export const typescriptVisitors: Visitors = {
+export const TYPESCRIPT_VISITORS: Visitors = {
   [ts.SyntaxKind.TypeAliasDeclaration]: () => undefined,
   [ts.SyntaxKind.InterfaceDeclaration]: () => undefined,
 

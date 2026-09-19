@@ -78,12 +78,12 @@ const requiresLua53 = new Set([
   ExtensionKind.FloorDivisionOperatorMethodType,
 ])
 
-export const operatorExtensionTransformers: LanguageExtensionCallTransformerMap = {}
+export const OPERATOR_EXTENSION_TRANSFORMERS: LanguageExtensionCallTransformerMap = {}
 for (const kind of binaryOperatorMappings.keys()) {
-  operatorExtensionTransformers[kind] = transformBinaryOperator
+  OPERATOR_EXTENSION_TRANSFORMERS[kind] = transformBinaryOperator
 }
 for (const kind of unaryOperatorMappings.keys()) {
-  operatorExtensionTransformers[kind] = transformUnaryOperator
+  OPERATOR_EXTENSION_TRANSFORMERS[kind] = transformUnaryOperator
 }
 
 function transformBinaryOperator(

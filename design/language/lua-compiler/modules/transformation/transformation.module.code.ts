@@ -8,7 +8,7 @@ import type {
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { usingTransformer } from "akasha/design/language/lua-compiler/modules/transform-using-transformer/transform-using-transformer.module.code.ts"
 import { getOrUpdate } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
-import { standardVisitors } from "akasha/design/language/lua-compiler/modules/visitors-visitors/visitors-visitors.module.code.ts"
+import { STANDARD_VISITORS } from "akasha/design/language/lua-compiler/modules/visitors-visitors/visitors-visitors.module.code.ts"
 import * as ts from "typescript"
 
 function isSyntaxKind(value: number): value is ts.SyntaxKind {
@@ -17,8 +17,8 @@ function isSyntaxKind(value: number): value is ts.SyntaxKind {
 
 export function createVisitorMap(customVisitors: readonly Visitors[]): VisitorMap {
   const objectVisitorMap: Map<ts.SyntaxKind, Array<ObjectVisitor<ts.Node>>> = new Map()
-  for (const visitors of [standardVisitors, ...customVisitors]) {
-    const priority = visitors === standardVisitors ? -Infinity : 0
+  for (const visitors of [STANDARD_VISITORS, ...customVisitors]) {
+    const priority = visitors === STANDARD_VISITORS ? -Infinity : 0
     for (const [syntaxKindKey, visitor] of Object.entries(visitors)) {
       if (!visitor) continue
 

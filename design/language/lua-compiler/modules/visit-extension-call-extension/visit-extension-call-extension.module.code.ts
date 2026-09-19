@@ -4,19 +4,19 @@ import {
   getExtensionKindForNode,
 } from "akasha/design/language/lua-compiler/modules/language-extension-kinds/language-extension-kinds.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { operatorExtensionTransformers } from "akasha/design/language/lua-compiler/modules/visit-extension-operators/visit-extension-operators.module.code.ts"
+import { OPERATOR_EXTENSION_TRANSFORMERS } from "akasha/design/language/lua-compiler/modules/visit-extension-operators/visit-extension-operators.module.code.ts"
 import {
-  tableExtensionTransformers,
-  tableNewExtensions,
+  TABLE_EXTENSION_TRANSFORMERS,
+  TABLE_NEW_EXTENSIONS,
 } from "akasha/design/language/lua-compiler/modules/visit-extension-table/visit-extension-table.module.code.ts"
 import type * as ts from "typescript"
 
-const allCallExtensionHandlers: LanguageExtensionCallTransformerMap = {
-  ...operatorExtensionTransformers,
-  ...tableExtensionTransformers,
+const ALL_CALL_EXTENSION_HANDLERS: LanguageExtensionCallTransformerMap = {
+  ...OPERATOR_EXTENSION_TRANSFORMERS,
+  ...TABLE_EXTENSION_TRANSFORMERS,
 }
 
-const callExtensionKinds: readonly ExtensionKind[] = [
+const CALL_EXTENSION_KINDS: readonly ExtensionKind[] = [
   ExtensionKind.AdditionOperatorType,
   ExtensionKind.AdditionOperatorMethodType,
   ExtensionKind.SubtractionOperatorType,
@@ -67,13 +67,13 @@ const callExtensionKinds: readonly ExtensionKind[] = [
   ExtensionKind.TableIsEmptyMethodType,
 ]
 
-const _coverage = allCallExtensionHandlers satisfies Partial<
-  Record<(typeof callExtensionKinds)[number], LanguageExtensionCallTransformer>
+const _coverage = ALL_CALL_EXTENSION_HANDLERS satisfies Partial<
+  Record<(typeof CALL_EXTENSION_KINDS)[number], LanguageExtensionCallTransformer>
 >
 void _coverage
 
-export const callExtensions = new Set<ExtensionKind>(callExtensionKinds)
-tableNewExtensions.forEach((kind) => callExtensions.add(kind))
+export const callExtensions = new Set<ExtensionKind>(CALL_EXTENSION_KINDS)
+TABLE_NEW_EXTENSIONS.forEach((kind) => callExtensions.add(kind))
 
 export type LanguageExtensionCallTransformer = (
   context: TransformationContext,
@@ -90,7 +90,7 @@ export function transformLanguageExtensionCallExpression(
 ): luaExpressions.Expression | undefined {
   const extensionKind = getExtensionKindForNode(context, node.expression)
   if (extensionKind == null) return
-  const transformer = allCallExtensionHandlers[extensionKind]
+  const transformer = ALL_CALL_EXTENSION_HANDLERS[extensionKind]
   if (transformer) {
     return transformer(context, node, extensionKind)
   }

@@ -7,7 +7,7 @@ import {
 } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import type * as ts from "typescript"
 
-const extensionKindToValueName: { [T in ExtensionKind]?: string } = {
+const EXTENSION_KIND_TO_VALUE_NAME: { [T in ExtensionKind]?: string } = {
   [ExtensionKind.MultiFunction]: "$multi",
   [ExtensionKind.RangeFunction]: "$range",
   [ExtensionKind.VarargConstant]: "$vararg",
@@ -16,7 +16,7 @@ export function isIdentifierExtensionValue(
   symbol: ts.Symbol | undefined,
   extensionKind: ExtensionKind
 ): boolean {
-  return symbol !== undefined && extensionKindToValueName[extensionKind] === symbol.name
+  return symbol !== undefined && EXTENSION_KIND_TO_VALUE_NAME[extensionKind] === symbol.name
 }
 
 export function reportInvalidExtensionValue(

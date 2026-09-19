@@ -17,9 +17,9 @@ export function isTableNewCall(context: TransformationContext, node: ts.NewExpre
   return getExtensionKindForNode(context, node.expression) === ExtensionKind.TableNewType
 }
 
-export const tableNewExtensions = [ExtensionKind.TableNewType]
+export const TABLE_NEW_EXTENSIONS = [ExtensionKind.TableNewType]
 
-export const tableExtensionTransformers: LanguageExtensionCallTransformerMap = {
+export const TABLE_EXTENSION_TRANSFORMERS: LanguageExtensionCallTransformerMap = {
   [ExtensionKind.TableDeleteType]: transformTableDeleteExpression,
   [ExtensionKind.TableDeleteMethodType]: transformTableDeleteExpression,
   [ExtensionKind.TableGetType]: transformTableGetExpression,

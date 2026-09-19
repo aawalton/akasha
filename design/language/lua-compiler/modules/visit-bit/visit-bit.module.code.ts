@@ -11,9 +11,9 @@ import * as ts from "typescript"
 
 export type BitOperator = ts.ShiftOperator | ts.BitwiseOperator
 export const isBitOperator = (operator: ts.BinaryOperator): operator is BitOperator =>
-  operator in bitOperatorToLibOperation
+  operator in BIT_OPERATOR_TO_LIB_OPERATION
 
-const bitOperatorToLibOperation: Record<BitOperator, string> = {
+const BIT_OPERATOR_TO_LIB_OPERATION: Record<BitOperator, string> = {
   [ts.SyntaxKind.AmpersandToken]: "band",
   [ts.SyntaxKind.BarToken]: "bor",
   [ts.SyntaxKind.CaretToken]: "bxor",
@@ -29,7 +29,7 @@ function transformBinaryBitLibOperation(
   operator: BitOperator,
   lib: string
 ): luaExpressions.Expression {
-  const functionName = bitOperatorToLibOperation[operator]
+  const functionName = BIT_OPERATOR_TO_LIB_OPERATION[operator]
   return luaExpressions.createCallExpression(
     luaExpressions.createTableIndexExpression(
       luaExpressions.createIdentifier(lib),

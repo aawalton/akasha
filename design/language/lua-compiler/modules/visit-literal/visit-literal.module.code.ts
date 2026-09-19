@@ -224,7 +224,7 @@ function isUndefinedOrNull(node: ts.Node) {
   )
 }
 
-export const literalVisitors: Visitors = {
+export const LITERAL_VISITORS: Visitors = {
   [ts.SyntaxKind.NullKeyword]: (node) => luaExpressions.createNilLiteral(node),
   [ts.SyntaxKind.TrueKeyword]: (node) => luaExpressions.createBooleanLiteral(true, node),
   [ts.SyntaxKind.FalseKeyword]: (node) => luaExpressions.createBooleanLiteral(false, node),

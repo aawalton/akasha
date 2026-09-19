@@ -57,7 +57,7 @@ export type SimpleOperator =
   | ts.EqualityOperator
   | ts.LogicalOperator
 
-const simpleOperatorsToLua: Record<SimpleOperator, luaCore.BinaryOperator> = {
+const SIMPLE_OPERATORS_TO_LUA: Record<SimpleOperator, luaCore.BinaryOperator> = {
   [ts.SyntaxKind.AmpersandAmpersandToken]: luaCore.SyntaxKind.AndOperator,
   [ts.SyntaxKind.BarBarToken]: luaCore.SyntaxKind.OrOperator,
   [ts.SyntaxKind.PlusToken]: luaCore.SyntaxKind.AdditionOperator,
@@ -100,7 +100,7 @@ function transformBinaryOperationWithNoPrecedingStatements(
     return luaExpressions.createCallExpression(mathMod, [left, right], node)
   }
 
-  let luaOperator = simpleOperatorsToLua[operator]
+  let luaOperator = SIMPLE_OPERATORS_TO_LUA[operator]
 
   if (operator === ts.SyntaxKind.PlusToken && ts.isBinaryExpression(node)) {
     const typeLeft = context.checker.getTypeAtLocation(node.left)

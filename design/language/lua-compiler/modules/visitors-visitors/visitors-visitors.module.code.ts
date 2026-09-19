@@ -47,7 +47,7 @@ import {
   transformImportDeclaration,
   transformImportEqualsDeclaration,
 } from "akasha/design/language/lua-compiler/modules/visit-import/visit-import.module.code.ts"
-import { literalVisitors } from "akasha/design/language/lua-compiler/modules/visit-literal/visit-literal.module.code.ts"
+import { LITERAL_VISITORS } from "akasha/design/language/lua-compiler/modules/visit-literal/visit-literal.module.code.ts"
 import { transformModuleDeclaration } from "akasha/design/language/lua-compiler/modules/visit-namespace/visit-namespace.module.code.ts"
 import { transformNewExpression } from "akasha/design/language/lua-compiler/modules/visit-new/visit-new.module.code.ts"
 import { transformReturnStatement } from "akasha/design/language/lua-compiler/modules/visit-return/visit-return.module.code.ts"
@@ -59,7 +59,7 @@ import {
   transformTemplateExpression,
 } from "akasha/design/language/lua-compiler/modules/visit-template/visit-template.module.code.ts"
 import { transformTypeOfExpression } from "akasha/design/language/lua-compiler/modules/visit-typeof/visit-typeof.module.code.ts"
-import { typescriptVisitors } from "akasha/design/language/lua-compiler/modules/visit-typescript/visit-typescript.module.code.ts"
+import { TYPESCRIPT_VISITORS } from "akasha/design/language/lua-compiler/modules/visit-typescript/visit-typescript.module.code.ts"
 import {
   transformPostfixUnaryExpression,
   transformPrefixUnaryExpression,
@@ -81,9 +81,9 @@ const transformParenthesizedExpression: FunctionVisitor<ts.ParenthesizedExpressi
   context
 ) => context.transformExpression(node.expression)
 
-export const standardVisitors: Visitors = {
-  ...literalVisitors,
-  ...typescriptVisitors,
+export const STANDARD_VISITORS: Visitors = {
+  ...LITERAL_VISITORS,
+  ...TYPESCRIPT_VISITORS,
   [ts.SyntaxKind.ArrowFunction]: transformFunctionLikeDeclaration,
   [ts.SyntaxKind.AwaitExpression]: transformAwaitExpression,
   [ts.SyntaxKind.BinaryExpression]: transformBinaryExpression,

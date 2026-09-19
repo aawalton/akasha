@@ -11,9 +11,9 @@ import {
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
 
-const multiReturnExtensionName = "__luaMultiReturn"
+const MULTI_RETURN_EXTENSION_NAME = "__luaMultiReturn"
 export function isMultiReturnType(type: ts.Type): boolean {
-  return type.getProperty(multiReturnExtensionName) !== undefined
+  return type.getProperty(MULTI_RETURN_EXTENSION_NAME) !== undefined
 }
 
 export function canBeMultiReturnType(type: ts.Type): boolean {
