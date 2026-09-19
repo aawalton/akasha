@@ -6,7 +6,6 @@ import {
   assignedKinds,
   assignmentAddressOf,
   assignmentStatedIn,
-  type Landing,
   personNamed,
   type SeatStated,
   seatBody,
@@ -20,7 +19,10 @@ import {
   seatsAt,
 } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
@@ -207,7 +209,7 @@ function landingSaying(answers: readonly (readonly string[])[]): {
 } {
   const named: string[] = []
   let asked = 0
-  const landing: Landing = (_done, _root, changes, _message) => {
+  const landing: Landing = (_root, changes, _message) => {
     named.push(changes.map((one) => one.at).join(","))
     const said = answers[asked] ?? []
     asked += 1
@@ -267,8 +269,8 @@ test("a stop whose landing committed before it refused names that commit", async
   try {
     const root = world.rootFor("seat-stating-")
     writing(root, PAGE_AT, PAGE_BODY)
-    const landing: Landing = (done) => {
-      done.push(COMMITTED)
+    const landing: Landing = (_root, _changes, _message, carried) => {
+      carried?.done?.push(COMMITTED)
       return Promise.resolve({ refusals: [HELD_LOCK], code: EXIT.OPERATIONAL })
     }
     const said = await tookSeat(root, STOPPED, "deliberate", landing)
@@ -297,7 +299,7 @@ const SITS_SOMEWHERE = seatedSomewhere()
 
 async function statingAt(name: string): Promise<readonly Asking[]> {
   let asked: readonly Asking[] = []
-  const landing: Landing = (_done, _root, changes, _message) => {
+  const landing: Landing = (_root, changes, _message) => {
     asked = changes
     return Promise.resolve({ refusals: [], code: EXIT.OPERATIONAL })
   }

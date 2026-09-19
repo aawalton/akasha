@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
-  type Landing,
   type SeatStated,
   type Stating,
   statedSeat,
@@ -13,7 +12,10 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { landedMechanically } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  type Landing,
+  runMechanicalChange,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -102,8 +104,8 @@ export async function seatBackFromHistory(
   if (held === null) return null
   const stated = statedIn(held.body)
   if (stated === null) return null
-  const saying: Landing = (wrote, at, changes) =>
-    landedMechanically(wrote, at, changes, saidOfBack(name, held.commit))
+  const saying: Landing = (at, changes, _message, writing) =>
+    runMechanicalChange(at, changes, saidOfBack(name, held.commit), writing)
   const said = await stating(root, stated, name, saying)
   if (said.kind === "refused") throw dataError(said.said)
   if (said.kind === "unstated") return null

@@ -2,7 +2,10 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { landedMechanically } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  type Landing,
+  runMechanicalChange,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import {
@@ -172,7 +175,7 @@ export async function statedSeat(
   root: string,
   stated: SeatStated,
   seatName: string,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Stating> {
   const page = seatPathForName(seatName)
   const there = existsSync(join(root, page))
@@ -184,22 +187,15 @@ export async function statedSeat(
   const given = was === null ? { at: page, body } : { at: page, body, old: was }
   const done: string[] = []
   const landed = await landing(
-    done,
     root,
     [{ at: PUT, given }],
-    `${seatName}: the seat is in akasha as what it states`
+    `${seatName}: the seat is in akasha as what it states`,
+    { done }
   )
   const refused = refusalsIn(landed)
   if (refused.length > 0) return refusing(refused, done)
   return { kind: "wrote" }
 }
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof landedMechanically>
 
 export function unfiled(wrong: readonly string[]): boolean {
   return wrong.length === 1 && wrong[0]?.includes(UNFILED) === true
@@ -209,19 +205,19 @@ export async function tookSeat(
   root: string,
   seatName: string,
   why: string,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Stating> {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
   const message = `${seatName} stopped, ${why}, so its page goes`
   const done: string[] = []
   const refused = refusalsIn(
-    await landing(done, root, [{ at: TAKE, given: { at: page } }], message)
+    await landing(root, [{ at: TAKE, given: { at: page } }], message, { done })
   )
   if (refused.length === 0) return { kind: "took" }
   if (!unfiled(refused)) return refusing(refused, done)
   const taken: readonly Asking[] = [{ at: TAKE_FILE, given: { at: page } }]
-  const left = refusalsIn(await landing(done, root, taken, message))
+  const left = refusalsIn(await landing(root, taken, message, { done }))
   if (left.length > 0) return refusing(left, done)
   return { kind: "took" }
 }
