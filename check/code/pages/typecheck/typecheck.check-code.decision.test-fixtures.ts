@@ -13,6 +13,7 @@ import {
   named,
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   relationFiled,
   shapeAdded,
@@ -58,7 +59,7 @@ const WAITS = "waiting"
 
 export const EARLY = "uuid-v7"
 
-export const HERE = "/var/home/walton/repos/akasha"
+export const HERE = rootOf(import.meta.dir)
 
 const KIND_AT = "akasha/waiting.generator-kind.ts"
 
