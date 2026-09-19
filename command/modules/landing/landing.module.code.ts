@@ -75,7 +75,11 @@ import {
   bodyAt,
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
+import {
+  committed,
+  type Staging,
+  whileIndexFrees,
+} from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
@@ -373,6 +377,7 @@ export async function landing(
   const split = heldBack(root, edits)
   const paths = edits.map((one) => one.path)
   const machine = machineOver(root, paths, asRead, facing)
+  const staging: Staging = { run: null }
   const landed = holding(root, (): Held | Refused => {
     const base = baseOf(root)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing, machine)
@@ -403,7 +408,14 @@ export async function landing(
         const took = [
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
-        const commit = committed(root, bodies, took, attributed(message, attributionHeld()), writer)
+        const commit = committed(
+          root,
+          bodies,
+          took,
+          attributed(message, attributionHeld()),
+          writer,
+          staging
+        )
         if (commit !== null) {
           if (noting !== null) noting.commit = commit
           done.push(`commit ${commit}`)
@@ -435,6 +447,7 @@ export async function landing(
     }
   })
   if ("refusals" in landed) return landed
+  staging.run?.()
   const { cleared, ...ended } = landed
   return { ...finishedOver(root, cleared, moves, homedir()), ...ended }
 }

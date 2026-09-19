@@ -237,12 +237,15 @@ function blobOf(root: string, body: Uint8Array): string {
   return gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: body }).trim()
 }
 
+export type Staging = { run: (() => undefined) | null }
+
 export function committed(
   root: string,
   wrote: ReadonlyMap<string, Uint8Array>,
   took: readonly string[],
   message: string,
-  writer: string | null
+  writer: string | null,
+  staging: Staging | null = null
 ): string | null {
   const head = nameOf(root)
   if (head === UNNAMED) throw new Error("HEAD names no commit, so nothing lands onto it")
@@ -264,6 +267,8 @@ export function committed(
     message,
   ]).trim()
   gitIn(root, ["update-ref", refOf(root), made, head])
-  indexOnto(root, put, modes)
+  const stage = (): undefined => indexOnto(root, put, modes)
+  if (staging === null) stage()
+  else staging.run = stage
   return made
 }

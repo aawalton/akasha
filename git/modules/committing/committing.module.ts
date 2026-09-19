@@ -55,6 +55,10 @@ export const committing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller may take that write to run once the caller has let its hold go.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change the branch refuses leaves the git index as it was.",
     },
     {
