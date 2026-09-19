@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts"}

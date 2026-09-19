@@ -1005,6 +1005,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/finding-tree-ids/finding-tree-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/finding-tree-view/finding-tree-view.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/gap-tree-ids/gap-tree-ids.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/gap-tree-view/gap-tree-view.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/harness-call/harness-call.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/harness-wire/harness-wire.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/invoked-seat/invoked-seat.module.ts"}

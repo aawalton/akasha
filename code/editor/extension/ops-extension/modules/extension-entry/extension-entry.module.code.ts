@@ -7,6 +7,7 @@ import * as commandTree from "akasha/code/editor/extension/modules/command-tree-
 import * as domainTree from "akasha/code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts"
 import * as editorLayout from "akasha/code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts"
 import * as findingTree from "akasha/code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts"
+import * as gapTree from "akasha/code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.code.ts"
 import {
   commandServerHeard,
   disposeCommandServer,
@@ -42,6 +43,7 @@ const features = (
   { name: "command-tree", start: async () => commandTree.activate(context) },
   { name: "service-tree", start: async () => serviceTree.activate(context) },
   { name: "finding-tree", start: async () => findingTree.activate(context) },
+  { name: "gap-tree", start: async () => gapTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },

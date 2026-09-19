@@ -1,0 +1,59 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const gapTreePanel = {
+  id: "01a0b7a0-c25d-7f18-85bd-47f61888ed1b",
+  type: "page-type/module",
+  slug: "gap-tree-panel",
+  definition: "the Gaps panel brought up, and the gaps drawn into it from one file",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gaps are read from the file the landing writes rather than composed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel draws the rows that file has before any change to the file arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel draws again when that file is written and at no other time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file written while the panel is hidden is kept rather than drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel becoming visible with a drawing owed draws the rows the file last had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The rows the file has are drawn unchanged rather than spelled again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel counts the gaps it holds rather than the rows it holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap on a page the nesting never reached is named on the channel.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing tells Alan of such a gap, since the row is drawn anyway.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No watcher on a source file is registered here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here composes the tree.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here decides the look of a row.",
+    },
+  ],
+} as const satisfies Module

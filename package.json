@@ -28,7 +28,8 @@
         { "id": "opsPages", "title": "Page Types", "icon": "$(symbol-structure)" },
         { "id": "opsCommands", "title": "Commands", "icon": "$(terminal)" },
         { "id": "opsServices", "title": "Services", "icon": "$(server)" },
-        { "id": "opsFindings", "title": "Findings", "icon": "$(lightbulb)" }
+        { "id": "opsFindings", "title": "Findings", "icon": "$(lightbulb)" },
+        { "id": "opsGaps", "title": "Gaps", "icon": "$(target)" }
       ]
     },
     "views": {
@@ -38,7 +39,8 @@
       "opsPages": [{ "id": "opsPageTree", "name": "Page Types" }],
       "opsCommands": [{ "id": "opsCommandTree", "name": "Commands" }],
       "opsServices": [{ "id": "opsServiceTree", "name": "Services" }],
-      "opsFindings": [{ "id": "opsFindingTree", "name": "Findings" }]
+      "opsFindings": [{ "id": "opsFindingTree", "name": "Findings" }],
+      "opsGaps": [{ "id": "opsGapTree", "name": "Gaps" }]
     },
     "commands": [
       { "command": "agentTerminalName.syncNow", "title": "Ops Terminal Rename: Sync Now" },
@@ -51,6 +53,7 @@
       { "command": "opsCommandTree.refreshNow", "title": "Ops Commands: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsServiceTree.refreshNow", "title": "Ops Services: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsFindingTree.refreshNow", "title": "Ops Findings: Refresh Now", "icon": "$(refresh)" },
+      { "command": "opsGapTree.refreshNow", "title": "Ops Gaps: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsAgentTree.runStop", "category": "Ops Agents", "title": "Stop" },
       { "command": "opsAgentTree.runResume", "category": "Ops Agents", "title": "Resume" },
       { "command": "opsAgentTree.runReset", "category": "Ops Agents", "title": "Reset" },
@@ -81,6 +84,7 @@
       { "key": "ctrl+alt+c", "command": "workbench.view.extension.opsCommands" },
       { "key": "ctrl+alt+s", "command": "workbench.view.extension.opsServices" },
       { "key": "ctrl+alt+f", "command": "workbench.view.extension.opsFindings" },
+      { "key": "ctrl+alt+g", "command": "workbench.view.extension.opsGaps" },
       { "key": "ctrl+alt+t", "command": "opsTranscript.open" }
     ],
     "menus": {
@@ -91,7 +95,8 @@
         { "command": "opsPageTree.refreshNow", "when": "view == opsPageTree", "group": "navigation" },
         { "command": "opsCommandTree.refreshNow", "when": "view == opsCommandTree", "group": "navigation" },
         { "command": "opsServiceTree.refreshNow", "when": "view == opsServiceTree", "group": "navigation" },
-        { "command": "opsFindingTree.refreshNow", "when": "view == opsFindingTree", "group": "navigation" }
+        { "command": "opsFindingTree.refreshNow", "when": "view == opsFindingTree", "group": "navigation" },
+        { "command": "opsGapTree.refreshNow", "when": "view == opsGapTree", "group": "navigation" }
       ],
       "view/item/context": [
         {

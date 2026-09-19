@@ -44,6 +44,7 @@
     "workbench.view.extension.opsCommands",
     "workbench.view.extension.opsServices",
     "workbench.view.extension.opsFindings",
+    "workbench.view.extension.opsGaps",
     "opsTranscript.open"
   ]
 }

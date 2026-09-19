@@ -833,6 +833,9 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/finding-tree-ids/finding-tree-ids.module.ts","id":"01a0b733-1335-7905-aadc-12b4dd01c4a9"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.ts","id":"01a0b733-1337-7151-b08a-42f1495a23a5"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/finding-tree-view/finding-tree-view.module.ts","id":"01a0b733-1336-7683-a2fc-d9cc3ba735f1"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/gap-tree-ids/gap-tree-ids.module.ts","id":"01a0b7a0-c25d-78d7-bebd-94055960d71c"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.ts","id":"01a0b7a0-c25d-7f18-85bd-47f61888ed1b"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/gap-tree-view/gap-tree-view.module.ts","id":"01a0b7a0-c25d-7f0b-8611-c3ab29914d86"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-call/harness-call.module.ts","id":"01a064f0-734d-7459-91b7-33e6eb60021d"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-wire/harness-wire.module.ts","id":"01a08b9e-4c10-7c47-9cc1-698db3594c89"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/invoked-seat/invoked-seat.module.ts","id":"01a0686b-bfe9-7de3-9eeb-08993f0dc27e"}

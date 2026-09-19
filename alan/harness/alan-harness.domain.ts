@@ -150,6 +150,10 @@ export const alanHarness = {
       statement:
         "The code editor panel named Findings is a tree of findings by the domain each one names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The code editor panel named Gaps is a tree of gaps by the page stating each one.",
+    },
   ],
   directives: [
     {
