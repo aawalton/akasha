@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/editor/extension/modules/subagent-core/subagent-core.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-at/text-at.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-in/text-in.module.test.ts"}

@@ -500,6 +500,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/offline-text-cache/offline-text-cache.module.ts","id":"01a0655d-daab-74e1-ab68-7d53cf730d46"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/offline-text-sync/offline-text-sync.module.ts","id":"01a0655d-dab8-7fdd-98b8-f681d5314c3b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/offline-text/offline-text.module.ts","id":"01a0655d-daab-77d7-a316-1495d9684b74"}
+{"propertySlug":"decision-kind","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts","id":"01a0ba6e-8c03-7601-9695-3532675a5936"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.ts","id":"01a0655d-dab9-72ea-9ecc-aad82b9431df"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts","id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","id":"01a090d4-4959-7068-b799-d973b6d7993e"}
@@ -1105,7 +1106,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","id":"01a0b72c-3d76-75eb-92a1-4fc4a0021192"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/modules/training-week/training-week.module.ts","id":"01a0b6ed-9dd8-7ed5-a746-300f4c03dd98"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
-{"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/stepping/stepping.module.ts","id":"01a0ba6c-ee3c-7e54-a879-6045758db635"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/warming/warming.module.ts","id":"01a0b75d-7a11-7470-8520-71da591ec032"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"decision-kind","path":"command/pages/gap/delete/gap-delete.command.ts","id":"01a0b7a0-c25d-7717-a0fa-41e1a1ee2221"}

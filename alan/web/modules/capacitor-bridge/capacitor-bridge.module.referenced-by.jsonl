@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"}
+{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/routes/_app-layout.tsx"}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

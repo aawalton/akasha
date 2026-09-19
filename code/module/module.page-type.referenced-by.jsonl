@@ -874,6 +874,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/signed-in-redirect/signed-in-redirect.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/status-bar-chrome/status-bar-chrome.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-is-online/use-is-online.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-media-variants/use-media-variants.module.ts"}
@@ -1283,7 +1284,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/modules/training-week/training-week.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/kit-loading/kit-loading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/stepping/stepping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/warming/warming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.ts"}

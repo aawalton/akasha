@@ -126,6 +126,12 @@ export interface KokoroTtsPlugin {
   ) => PluginListenerHandle | Promise<PluginListenerHandle>
 }
 
+export interface StoplightsActivityPlugin {
+  start: (options: { content: string }) => Promise<{ id: string }>
+  update: (options: { content: string }) => Promise<void>
+  end: () => Promise<void>
+}
+
 interface CapacitorGlobal {
   isNativePlatform?: () => boolean
   Plugins?: {
@@ -136,6 +142,7 @@ interface CapacitorGlobal {
     App?: AppPlugin
     KokoroTts?: KokoroTtsPlugin
     DeviceSecret?: DeviceSecretPlugin
+    StoplightsActivity?: StoplightsActivityPlugin
   }
 }
 
@@ -196,6 +203,15 @@ export function getApp(): AppPlugin | null {
   const plugin = capacitorGlobal()?.Plugins?.App
   if (plugin == null) return null
   if (typeof plugin.addListener !== "function") return null
+  return plugin
+}
+
+export function getStoplightsActivity(): StoplightsActivityPlugin | null {
+  const plugin = capacitorGlobal()?.Plugins?.StoplightsActivity
+  if (plugin == null) return null
+  if (typeof plugin.start !== "function") return null
+  if (typeof plugin.update !== "function") return null
+  if (typeof plugin.end !== "function") return null
   return plugin
 }
 

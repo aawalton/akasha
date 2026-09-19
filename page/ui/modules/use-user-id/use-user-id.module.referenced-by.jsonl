@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx"}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx"}

@@ -96,6 +96,7 @@ export const alanWeb = {
     "module/use-reader-active-marks",
     "module/widget-tap-answering",
     "stylesheet/alan-web-look",
+    "module/stoplights-activity-sync",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp
