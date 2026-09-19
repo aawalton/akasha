@@ -161,8 +161,13 @@ describe("deriveWritten", () => {
 })
 
 describe("deriveSongType", () => {
-  test("is derivative where the artist wrote none of it", () => {
-    expect(deriveSongType(work("w1", "Song"), null)).toBe("derivative")
+  test("states nothing where nothing names who wrote it", () => {
+    expect(deriveSongType(work("w1", "Song"), null)).toBeNull()
+  })
+
+  test("is derivative where a work nobody names a writer of is a version of another", () => {
+    const held = work("w1", "Song", [versionRel("other version", "backward")])
+    expect(deriveSongType(held, null)).toBe("derivative")
   })
 
   test("is original where the artist wrote it and it is no version of another", () => {
@@ -373,7 +378,7 @@ describe("mbWorkToSongFields", () => {
     expect(fields.title).toBe("Ég Anda")
   })
 
-  test("names no written field where the artist wrote none of it", () => {
+  test("names neither a written field nor a song type where nothing names a writer", () => {
     const fields = mbWorkToSongFields({
       work: work("w1", "Someone Else's Song"),
       artistSlug: "queen",
@@ -382,6 +387,17 @@ describe("mbWorkToSongFields", () => {
       today: "2026-09-02",
     })
     expect("written" in fields).toBe(false)
+    expect("songType" in fields).toBe(false)
+  })
+
+  test("names a song type where the work is a version of another", () => {
+    const fields = mbWorkToSongFields({
+      work: work("w1", "Someone Else's Song", [versionRel("based on", "backward")]),
+      artistSlug: "queen",
+      artistMbid: QUEEN,
+      performed: false,
+      today: "2026-09-02",
+    })
     expect(fields.songType).toBe("derivative")
   })
 })

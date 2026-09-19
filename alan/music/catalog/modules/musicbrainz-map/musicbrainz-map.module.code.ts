@@ -112,15 +112,15 @@ export function deriveWritten(work: MbWork, artistMbid: string): Written | null 
   return writerIds.size <= 1 ? "solo" : "collab"
 }
 
-export function deriveSongType(work: MbWork, written: Written | null): SongType {
-  if (written === null) return "derivative"
+export function deriveSongType(work: MbWork, written: Written | null): SongType | null {
   const isAlternateVersion = work.relations.some(
     (rel) =>
       rel["target-type"] === "work" &&
       rel.direction === "backward" &&
       VERSION_REL_TYPES.has(rel.type)
   )
-  return isAlternateVersion ? "derivative" : "original"
+  if (isAlternateVersion) return "derivative"
+  return written === null ? null : "original"
 }
 
 export function deriveSongTypeFromTitle(title: string): SongType {
@@ -203,6 +203,7 @@ export function mbWorkToSongFields(args: {
   readonly today: string
 }): SongFields {
   const written = deriveWritten(args.work, args.artistMbid)
+  const songType = deriveSongType(args.work, written)
   return {
     title: args.work.title,
     artist: artistAddressOf(args.artistSlug),
@@ -214,7 +215,7 @@ export function mbWorkToSongFields(args: {
         lastSyncedAt: args.today,
       },
     ],
-    songType: deriveSongType(args.work, written),
+    ...(songType !== null ? { songType } : {}),
     performed: args.performed,
     ...(written != null ? { written } : {}),
   }

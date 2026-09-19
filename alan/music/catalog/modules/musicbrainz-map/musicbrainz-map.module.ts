@@ -47,11 +47,15 @@ export const musicbrainzMap = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A work naming the artist as no writer of the work is derivative.",
+      statement: "A work naming the artist as no writer of the work states no song type.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Naming no writer of a work is no record that another wrote the work.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A work made from another work is derivative.",
+      statement: "A work made from another work is derivative whoever is named writer of it.",
     },
     {
       decisionKind: "decision-kind/departure",
