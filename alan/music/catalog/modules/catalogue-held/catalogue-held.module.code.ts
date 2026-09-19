@@ -5,7 +5,11 @@ import {
   catalogueNamesFrom,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { identityHeld } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
-import { songsFiledIn } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import {
+  compositionTitle,
+  looseTitle,
+  songsFiledIn,
+} from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   textIn,
@@ -40,6 +44,34 @@ export function catalogueIn(root: string, artistSlug: string): Catalogue {
     held.set(slug, one.value)
   }
   return { names: catalogueNamesFrom(rows), held, byTitle: songsFiledIn(root) }
+}
+
+const STRANGER =
+  "so this names another artist of that name rather than the one whose tracks are filed"
+
+export function metIn(held: ReadonlySet<string> | undefined, titles: readonly string[]): number {
+  if (held === undefined) return 0
+  let met = 0
+  for (const one of titles) {
+    if (held.has(looseTitle(compositionTitle(one)))) met += 1
+  }
+  return met
+}
+
+export function strangerIn(args: {
+  readonly artistName: string
+  readonly artistSlug: string
+  readonly held: ReadonlySet<string> | undefined
+  readonly titles: readonly string[]
+  readonly sayInstead: string
+}): string | null {
+  if (args.held === undefined || args.held.size === 0) return null
+  if (args.titles.length === 0) return null
+  if (metIn(args.held, args.titles) > 0) return null
+  return (
+    `MusicBrainz answers \`${args.artistName}\` with ${args.titles.length} title(s) and none is ` +
+    `a track filed under \`${ARTIST}/${args.artistSlug}\`, ${STRANGER} — ${args.sayInstead}`
+  )
 }
 
 export function artistIn(root: string, mbid: string, name: string): Named {

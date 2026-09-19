@@ -71,6 +71,15 @@ export const musicImportArtist = {
       statement:
         "A song already filed under this artist with this title is filled in rather than filed twice.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An artist found by name whose titles meet no track already filed under that artist is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An artist named by a MusicBrainz id is brought in whatever the titles meet.",
+    },
   ],
   name: "import-artist",
   arguments: [

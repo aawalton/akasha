@@ -5,6 +5,7 @@ import {
   artistIn,
   type Catalogue,
   catalogueIn,
+  strangerIn,
 } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { catalogueSlugFor } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { searchLyrics } from "akasha/alan/music/catalog/modules/lrclib-client/lrclib-client.module.code.ts"
@@ -39,7 +40,10 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import {
+  songKey,
+  titlesUnderArtist,
+} from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -359,6 +363,17 @@ export async function gathered(
   const changes: Asking[] = [edited(composed.put)]
   const catalogue = catalogueIn(root, named.slug)
   const songs = await songsAsked(held, reach, found, named.slug, catalogue, today)
+  const stranger =
+    held.mbid === null || held.mbid === ""
+      ? strangerIn({
+          artistName: artist.name,
+          artistSlug: named.slug,
+          held: titlesUnderArtist(root).get(named.slug),
+          titles: songs.asked.map((one) => one.title),
+          sayInstead: `say \`${mbidArgument.said}\` to bring it in anyway`,
+        })
+      : null
+  if (stranger !== null) return { refused: stranger }
   let songsWithLyrics = 0
   let songsLyricsUnread = 0
   for (const one of songs.asked) {

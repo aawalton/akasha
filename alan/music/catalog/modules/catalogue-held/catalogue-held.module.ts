@@ -6,6 +6,7 @@ export const catalogueHeld = {
   slug: "catalogue-held",
   definition: "the artists and songs already filed, read by what musicbrainz calls each",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -41,6 +42,11 @@ export const catalogueHeld = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A song is keyed by its title as well, so a song filed under no id is found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An artist whose titles meet no track already filed under that artist is a stranger of that name.",
     },
   ],
 } as const satisfies Module
