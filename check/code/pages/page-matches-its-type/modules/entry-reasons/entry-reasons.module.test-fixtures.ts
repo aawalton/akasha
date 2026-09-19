@@ -15,7 +15,7 @@ import type { Carried } from "akasha/page/type/modules/declared-properties/decla
 
 const REPO = rootOf(import.meta.path)
 
-const RESTATEMENT = "agent/model/test/pages/restatement/restatement.model-test.ts"
+const DIRECTIVE_KEPT = "agent/model/test/pages/directive-kept/directive-kept.model-test.ts"
 
 export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
 
@@ -171,15 +171,15 @@ export function amongFor(members: readonly string[]): readonly (readonly string[
   return opened.among.map((fields) => [...fields.keys()].sort())
 }
 
-const CASES = `${RESTATEMENT.slice(0, -3)}.cases`
+const CASES = `${DIRECTIVE_KEPT.slice(0, -3)}.cases`
 
 function judged(beside: (at: string) => string | null): readonly string[] {
   const shadow = shadowAt(REPO)
   return entryReasonsIn(
-    valueAt(RESTATEMENT, REPO) ?? {},
+    valueAt(DIRECTIVE_KEPT, REPO) ?? {},
     shadow.index.propertiesOf("model-test"),
     shadow,
-    RESTATEMENT,
+    DIRECTIVE_KEPT,
     beside,
     allows
   )

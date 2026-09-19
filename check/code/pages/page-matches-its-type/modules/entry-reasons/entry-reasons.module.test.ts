@@ -120,7 +120,7 @@ test("a group's fields are the members its page type declares, less those held i
   expect(groupFieldsFor([{ maxCpuSeconds: 10 }])).toEqual([])
 })
 
-test("the cases beside the restatement test are read and judged", () => {
+test("the cases beside the directive-kept test are read and judged", () => {
   expect(entriesJudged(null)).toEqual([])
   expect(entriesJudged("no json here\n")[0]).toContain("unknown rather than nothing")
   expect(entriesJudged(ID_LESS)).toEqual([NO_ID])
