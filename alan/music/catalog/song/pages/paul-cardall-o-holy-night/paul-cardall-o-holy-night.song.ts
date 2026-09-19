@@ -14,7 +14,6 @@ export const paulCardallOHolyNight = {
   ],
   title: "O Holy Night",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

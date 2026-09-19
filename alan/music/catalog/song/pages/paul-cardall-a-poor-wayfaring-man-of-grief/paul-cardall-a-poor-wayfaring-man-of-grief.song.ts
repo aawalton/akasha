@@ -14,6 +14,5 @@ export const paulCardallAPoorWayfaringManOfGrief = {
   ],
   title: "A Poor Wayfaring Man of Grief",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: false,
 } as const satisfies Song

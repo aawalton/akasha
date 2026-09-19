@@ -14,6 +14,5 @@ export const paulCardallOComeOComeEmmanuel = {
   ],
   title: "O Come, O Come Emmanuel",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

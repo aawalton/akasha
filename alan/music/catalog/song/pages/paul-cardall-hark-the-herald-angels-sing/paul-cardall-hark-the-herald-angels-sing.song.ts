@@ -14,6 +14,5 @@ export const paulCardallHarkTheHeraldAngelsSing = {
   ],
   title: "Hark! The Herald Angels Sing",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

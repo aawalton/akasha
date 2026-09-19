@@ -14,6 +14,5 @@ export const paulCardallOnceInRoyalDavidsCity = {
   ],
   title: "Once in Royal David’s City",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

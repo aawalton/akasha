@@ -14,6 +14,5 @@ export const paulCardallJoyToTheWorld = {
   ],
   title: "Joy to the World",
   artist: "artist/paul-cardall",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song
