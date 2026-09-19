@@ -107,7 +107,6 @@ export const role = {
         "A deploy carries to the machine what the pages already say, so waiting leaves the machine stale.",
       aids: [
         "A page mended and never deployed leaves the fault running.",
-        "A dry run is the looking that an irreversible command wants.",
         "Reaching Alan's machine is not the same as needing Alan.",
       ],
     },
