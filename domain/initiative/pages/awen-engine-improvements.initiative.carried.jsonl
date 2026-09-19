@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"A turn, a rulebook and a mechanic designed as one replace what the engine holds now."},{"statement":"No story-design-note holds content another page type would carry."}]}
+{"intentStack":[{"statement":"A turn, a rulebook and a mechanic designed as one replace what the engine holds now."},{"statement":"No story-design-note holds content another page type would carry."},{"statement":"Every page under story sits in the structure Alan approved."}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}
