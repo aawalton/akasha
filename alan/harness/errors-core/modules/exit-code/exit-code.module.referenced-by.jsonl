@@ -137,7 +137,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/secret/modules/workstation-secrets/workstation-secrets.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.test.ts"}

@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
+import { commit } from "akasha/command/argument/pages/commit.argument.ts"
 import { everyServer } from "akasha/command/argument/pages/every-server.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
-import { seq } from "akasha/command/argument/pages/seq.argument.ts"
 import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -16,7 +16,7 @@ const REPO = rootOf(import.meta.dir)
 
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
-const OFFERED: readonly Argument[] = [json, seq, webApp, everyServer]
+const OFFERED: readonly Argument[] = [commit, json, webApp, everyServer]
 
 const SAID: readonly string[] = page.arguments.map((one) => saidForPart(OFFERED, one.argument))
 
@@ -25,7 +25,7 @@ const APART = page.arguments.find((one) => "notWith" in one)
 const KEPT_FROM: readonly string[] =
   APART === undefined ? [] : APART.notWith.map((one) => saidForPart(OFFERED, one))
 
-const WORD = `<${seq.placeholder}>`
+const WORD = `<${commit.placeholder}>`
 
 const stopRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await infrastructureDevServerStop(argv, GIVEN)
@@ -37,7 +37,7 @@ const stopRefusing = async (argv: readonly string[]): Promise<readonly string[]>
 
 test("every argument the page declares is one this test carries the argument page for", () => {
   expect(SAID.length).toBe(page.arguments.length)
-  expect(SAID).toEqual([json.said, seq.said, webApp.said, everyServer.said])
+  expect(SAID).toEqual([json.said, commit.said, webApp.said, everyServer.said])
 })
 
 test("the flag naming every server is said shorter than the argument page is slugged", () => {
@@ -46,13 +46,13 @@ test("the flag naming every server is said shorter than the argument page is slu
 })
 
 test("every server is kept apart from the two that name one server", () => {
-  expect(KEPT_FROM).toEqual([seq.said, webApp.said])
+  expect(KEPT_FROM).toEqual([commit.said, webApp.said])
 })
 
-test("a flag this takes nothing of is refused, naming the seq both ways among the rest", async () => {
+test("a flag this takes nothing of is refused, naming the commit both ways among the rest", async () => {
   const said = (await stopRefusing(["--nope"]))[0] ?? ""
   expect(said).toContain("--nope")
-  expect(said).toContain(`\`${json.said}\`, \`${WORD}\`, \`${seq.said}\``)
+  expect(said).toContain(`\`${json.said}\`, \`${WORD}\`, \`${commit.said}\``)
   expect(said).toContain(`\`${webApp.said}\`, \`${everyServer.said}\``)
 })
 
@@ -66,7 +66,7 @@ test("each argument every server is kept from is refused where a call says both"
 })
 
 test("both arguments said beside every server earn a refusal each", async () => {
-  const said = await stopRefusing([everyServer.said, seq.said, "3", webApp.said, "temper-web"])
+  const said = await stopRefusing([everyServer.said, commit.said, "3", webApp.said, "temper-web"])
   expect(said.length).toBe(KEPT_FROM.length)
 })
 
@@ -74,13 +74,13 @@ test("a call naming neither every server nor both of the pair is refused", async
   const said = await stopRefusing([])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${everyServer.said}\``)
-  expect(said[0]).toContain(`\`${seq.said}\``)
+  expect(said[0]).toContain(`\`${commit.said}\``)
   expect(said[0]).toContain(`\`${webApp.said}\``)
 })
 
 test("one of the pair alone is refused as saying neither is", async () => {
   for (const one of [
-    [seq.said, "3"],
+    [commit.said, "3"],
     [webApp.said, "temper-web"],
   ]) {
     const said = await stopRefusing(one)
@@ -89,10 +89,10 @@ test("one of the pair alone is refused as saying neither is", async () => {
   }
 })
 
-test("the seq said as a word and at its flag in one call is refused", async () => {
-  const said = await stopRefusing(["3", seq.said, "4"])
+test("the commit said as a word and at its flag in one call is refused", async () => {
+  const said = await stopRefusing(["3", commit.said, "4"])
   expect(said[0]).toContain(`\`${WORD}\``)
-  expect(said[0]).toContain(`\`${seq.said}\``)
+  expect(said[0]).toContain(`\`${commit.said}\``)
 })
 
 test("every server carries no value, so one joined to it is refused", async () => {

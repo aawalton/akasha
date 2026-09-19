@@ -2675,11 +2675,10 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.ts","id":"01a068e5-527b-7fd9-b67c-c38bcf39040a"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/change-branch-worktree/change-branch-worktree.module.ts","id":"01a069c1-1f43-7000-bf9c-42ecd1235cba"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.ts","id":"01a06583-0030-7006-a432-522c63fe9935"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-recording/dev-server-recording.module.ts","id":"01a06583-0030-7005-bc8d-acc88730da21"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.ts","id":"01a06583-0030-7004-8711-a9cd6a8dbe3b"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.ts","id":"01a06583-0030-7007-bd2f-2f51bdbb851c"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.ts","id":"01a0b711-835f-7852-be91-2ba3e1e6e35c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/base-port.number-property.ts","id":"01a08cfa-c5f4-7b3f-80e6-1a9623e9954d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/build-command.text-property.ts","id":"01a05b26-f8b6-7600-9b5a-4fed2b228f2b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/hostnames.text-property.ts","id":"01a05b26-f8b6-7019-9588-3230dc4b1044"}

@@ -1,6 +1,6 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { commit } from "akasha/command/argument/pages/commit.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
-import { seq } from "akasha/command/argument/pages/seq.argument.ts"
 import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   asJson,
@@ -25,9 +25,10 @@ import {
   lookupApp,
   readStateFile,
 } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { commitNamed } from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 type Named = {
-  readonly seq: number | null
+  readonly commit: string | null
   readonly app: string | null
   readonly json: boolean
 }
@@ -36,16 +37,16 @@ function reading(read: Named, root: string): Answer {
   const recorded = (state: DevServerState): DevServerRecord =>
     recordFromState(state, isPidAlive(state.pid))
   let records: readonly DevServerRecord[]
-  if (read.seq !== null && read.app !== null) {
+  if (read.commit !== null && read.app !== null) {
     lookupApp(root, read.app)
-    const state = readStateFile(read.seq, read.app)
-    records = state === null ? [stoppedRecord(read.seq, read.app)] : [recorded(state)]
-  } else if (read.seq === null && read.app === null) {
+    const state = readStateFile(read.commit, read.app)
+    records = state === null ? [stoppedRecord(read.commit, read.app)] : [recorded(state)]
+  } else if (read.commit === null && read.app === null) {
     records = listStateFiles().map(recorded)
   } else {
     records = listStateFiles()
       .map(recorded)
-      .filter((one) => (read.seq !== null ? one.seq === read.seq : one.app === read.app))
+      .filter((one) => (read.commit !== null ? one.commit === read.commit : one.app === read.app))
   }
   if (read.json) return asJson(records)
   return told(records.map(devServerTsvLine))
@@ -55,11 +56,16 @@ export async function infrastructureDevServerStatus(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, [json, seq, webApp])
+  const read = takenFor(argv, given.calledAs, page, [commit, json, webApp])
   if ("refused" in read) return refusedBy(read.refused)
   try {
+    const said = read.taken.commit
     return reading(
-      { seq: read.taken.seq ?? null, app: read.taken.webApp ?? null, json: read.taken.json },
+      {
+        commit: said === undefined ? null : commitNamed(given.root, said),
+        app: read.taken.webApp ?? null,
+        json: read.taken.json,
+      },
       given.root
     )
   } catch (thrown) {

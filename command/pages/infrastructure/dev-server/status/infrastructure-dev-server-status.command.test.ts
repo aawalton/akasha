@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
+import { commit } from "akasha/command/argument/pages/commit.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
-import { seq } from "akasha/command/argument/pages/seq.argument.ts"
 import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -15,11 +15,11 @@ const REPO = rootOf(import.meta.dir)
 
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
-const CARRIED: readonly Argument[] = [json, seq, webApp]
+const CARRIED: readonly Argument[] = [commit, json, webApp]
 
 const NAMES: readonly string[] = page.arguments.map((one) => saidForPart(CARRIED, one.argument))
 
-const PLACED = `<${seq.placeholder}>`
+const PLACED = `<${commit.placeholder}>`
 
 const statusRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await infrastructureDevServerStatus(argv, GIVEN)
@@ -31,7 +31,7 @@ const statusRefusing = async (argv: readonly string[]): Promise<readonly string[
 
 test("every argument the page declares is one this test carries the argument page for", () => {
   expect(NAMES.length).toBe(page.arguments.length)
-  expect(NAMES).toEqual([json.said, seq.said, webApp.said])
+  expect(NAMES).toEqual([json.said, commit.said, webApp.said])
 })
 
 test("this reads rather than writes, so the page needs no argument and takes no port", () => {
@@ -39,10 +39,10 @@ test("this reads rather than writes, so the page needs no argument and takes no 
   expect(NAMES).not.toContain("--port")
 })
 
-test("a flag this takes nothing of is refused, naming the seq both ways among the rest", async () => {
+test("a flag this takes nothing of is refused, naming the commit both ways among the rest", async () => {
   const said = (await statusRefusing(["--nope"]))[0] ?? ""
   expect(said).toContain("--nope")
-  expect(said).toContain(`\`${json.said}\`, \`${PLACED}\`, \`${seq.said}\`, \`${webApp.said}\``)
+  expect(said).toContain(`\`${json.said}\`, \`${PLACED}\`, \`${commit.said}\`, \`${webApp.said}\``)
 })
 
 test("a second word is refused and the refusal names the word nothing takes", async () => {
@@ -53,11 +53,11 @@ test("a second word is refused and the refusal names the word nothing takes", as
   expect(said[0]).toContain("`4`")
 })
 
-test("the seq said as a word and at its flag in one call is refused", async () => {
-  const said = await statusRefusing(["3", seq.said, "4"])
+test("the commit said as a word and at its flag in one call is refused", async () => {
+  const said = await statusRefusing(["3", commit.said, "4"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${PLACED}\``)
-  expect(said[0]).toContain(`\`${seq.said}\``)
+  expect(said[0]).toContain(`\`${commit.said}\``)
 })
 
 test("the app said twice is refused, and no line naming the apps follows it here", async () => {

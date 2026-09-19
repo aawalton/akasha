@@ -25,8 +25,8 @@ export interface DevServerState {
   readonly pid: number
   readonly port: number
   readonly app: string
-  readonly seq: number
-  readonly worktree_path: string
+  readonly commit: string
+  readonly tree_path: string
   readonly started_at: string
   readonly log_path: string
 }
@@ -36,8 +36,8 @@ const STATE_SHAPE = shape
     pid: shape.number(),
     port: shape.number(),
     app: shape.string(),
-    seq: shape.number(),
-    worktree_path: shape.string(),
+    commit: shape.string(),
+    tree_path: shape.string(),
     started_at: shape.string(),
     log_path: shape.string(),
   })
@@ -142,24 +142,24 @@ function projectsRoot(): string {
   return `${homedir()}/projects`
 }
 
-function devServerDir(seq: number): string {
-  return `${projectsRoot()}/${seq}/dev-servers`
+function devServerDir(commit: string): string {
+  return `${projectsRoot()}/${commit}/dev-servers`
 }
 
-function devServerLogDir(seq: number): string {
-  return `${devServerDir(seq)}/logs`
+function devServerLogDir(commit: string): string {
+  return `${devServerDir(commit)}/logs`
 }
 
-export function stateFilePath(seq: number, app: string): string {
-  return `${devServerDir(seq)}/${app}.json`
+export function stateFilePath(commit: string, app: string): string {
+  return `${devServerDir(commit)}/${app}.json`
 }
 
-export function logFilePath(seq: number, app: string): string {
-  return `${devServerLogDir(seq)}/${app}.log`
+export function logFilePath(commit: string, app: string): string {
+  return `${devServerLogDir(commit)}/${app}.log`
 }
 
-export function ensureDevServerDirs(seq: number): undefined {
-  mkdirSync(devServerLogDir(seq), { recursive: true })
+export function ensureDevServerDirs(commit: string): undefined {
+  mkdirSync(devServerLogDir(commit), { recursive: true })
 }
 
 function parseState(raw: string): DevServerState {
@@ -175,14 +175,14 @@ function parseState(raw: string): DevServerState {
 }
 
 export function writeStateFile(state: DevServerState): undefined {
-  ensureDevServerDirs(state.seq)
-  writeFileSync(stateFilePath(state.seq, state.app), `${JSON.stringify(state)}\n`, {
+  ensureDevServerDirs(state.commit)
+  writeFileSync(stateFilePath(state.commit, state.app), `${JSON.stringify(state)}\n`, {
     mode: 0o600,
   })
 }
 
-export function readStateFile(seq: number, app: string): DevServerState | null {
-  const path = stateFilePath(seq, app)
+export function readStateFile(commit: string, app: string): DevServerState | null {
+  const path = stateFilePath(commit, app)
   if (!existsSync(path)) return null
   return parseState(readFileSync(path, "utf8"))
 }
@@ -196,22 +196,33 @@ function entriesIn(dir: string): readonly Dirent[] | null {
   }
 }
 
+const COMMIT_NAMED = /^[0-9a-f]{40}$/
+
+function statesUnder(dir: string): readonly DevServerState[] {
+  const stateEntries = entriesIn(dir)
+  if (stateEntries === null) return []
+  const states: DevServerState[] = []
+  for (const one of stateEntries) {
+    if (!one.isFile()) continue
+    if (!one.name.endsWith(".json")) continue
+    states.push(parseState(readFileSync(`${dir}/${one.name}`, "utf8")))
+  }
+  return states
+}
+
+export function statesFor(commit: string): readonly DevServerState[] {
+  return statesUnder(devServerDir(commit))
+}
+
 export function listStateFiles(): readonly DevServerState[] {
   const root = projectsRoot()
-  const projectEntries = entriesIn(root)
-  if (projectEntries === null) return []
+  const commitEntries = entriesIn(root)
+  if (commitEntries === null) return []
   const states: DevServerState[] = []
-  for (const projectEntry of projectEntries) {
-    if (!projectEntry.isDirectory()) continue
-    if (!/^\d+$/.test(projectEntry.name)) continue
-    const dir = `${root}/${projectEntry.name}/dev-servers`
-    const stateEntries = entriesIn(dir)
-    if (stateEntries === null) continue
-    for (const one of stateEntries) {
-      if (!one.isFile()) continue
-      if (!one.name.endsWith(".json")) continue
-      states.push(parseState(readFileSync(`${dir}/${one.name}`, "utf8")))
-    }
+  for (const commitEntry of commitEntries) {
+    if (!commitEntry.isDirectory()) continue
+    if (!COMMIT_NAMED.test(commitEntry.name)) continue
+    states.push(...statesUnder(`${root}/${commitEntry.name}/dev-servers`))
   }
   return states
 }

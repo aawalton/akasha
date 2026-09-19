@@ -35,7 +35,6 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.code.ts"}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/web-app/modules/change-branch-worktree/change-branch-worktree.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"}

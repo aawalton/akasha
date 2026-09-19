@@ -4,7 +4,7 @@ export const devServerRunning = {
   id: "01a09401-2596-7b81-9dc3-f483f18f9657",
   type: "page-type/module",
   slug: "dev-server-running",
-  definition: "one app's dev server spawned in a worktree, and ended again",
+  definition: "one app's dev server spawned on a commit's tree, and ended again",
   code: "ts",
   decisions: [
     {
@@ -45,6 +45,14 @@ export const devServerRunning = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A start names the server it left running and the state file it wrote.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A start lays the commit's tree down where that tree is not down already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stop takes the commit's tree away once no server on that tree is left.",
     },
   ],
 } as const satisfies Module

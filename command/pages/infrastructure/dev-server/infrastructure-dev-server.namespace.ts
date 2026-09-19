@@ -4,7 +4,7 @@ export const infrastructureDevServer = {
   id: "01a09406-1772-7273-b7a0-e3d2563134c0",
   type: "page-type/namespace",
   slug: "infrastructure-dev-server",
-  definition: "one app's dev server in a branch's worktree",
+  definition: "one app's dev server on the tree of a commit",
   name: "dev-server",
   parts: [
     "command/infrastructure-dev-server-bootstrap",

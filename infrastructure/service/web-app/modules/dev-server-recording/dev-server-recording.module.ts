@@ -23,5 +23,9 @@ export const devServerRecording = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row says the first twelve characters of the commit rather than the whole hash.",
+    },
   ],
 } as const satisfies Module

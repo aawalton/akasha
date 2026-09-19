@@ -3,24 +3,27 @@ import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exi
 import { DATA, partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { infrastructureDevServerBootstrap } from "akasha/command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.code.ts"
 import { wroteEnvSaid } from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+
+const REPO = rootOf(import.meta.dir)
 
 function given(root: string): Given {
   const calledAs = "akasha infrastructure dev-server bootstrap"
   return { root, calledAs, from: root, writer: null, agentId: null }
 }
 
-const ARGV = ["--seq", "7", "--app", "temper-web"]
+const ARGV = ["--commit", "HEAD", "--app", "temper-web"]
 
-const WROTE = wroteEnvSaid("/worktree/apps/one/.env.local", 12)
+const WROTE = wroteEnvSaid("/tree/apps/one/.env.local", 12)
 
 const NO_SECRETS = new DataError("the resource places no value at all")
 
 test("a run that wrote the env file and then threw names that file", async () => {
   const said = await infrastructureDevServerBootstrap(
     ARGV,
-    given("/nowhere"),
+    given(REPO),
     throwingAfter([WROTE], NO_SECRETS)
   )
 
@@ -32,7 +35,7 @@ test("a run that wrote the env file and then threw names that file", async () =>
 test("a run that threw before it wrote names the fault alone", async () => {
   const said = await infrastructureDevServerBootstrap(
     ARGV,
-    given("/nowhere"),
+    given(REPO),
     throwingAfter([], NO_SECRETS)
   )
 

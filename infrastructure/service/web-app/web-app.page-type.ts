@@ -7,11 +7,10 @@ export const webApp = {
   definition: "a site built from one folder of this repository and served over the web",
   extends: ["page-type/service"],
   parts: [
-    "module/change-branch-worktree",
     "module/dev-server-env-writing",
     "module/dev-server-recording",
     "module/dev-server-stating",
-    "module/dev-server-worktree",
+    "module/dev-server-tree",
     "number-property/base-port",
     "relation-property/service-clusters",
     "text-property/build-command",

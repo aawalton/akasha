@@ -1,6 +1,6 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
 import { errnoCodeOf } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
-import { seq as seqArgument } from "akasha/command/argument/pages/seq.argument.ts"
+import { commit as commitArgument } from "akasha/command/argument/pages/commit.argument.ts"
 import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   answeredWith,
@@ -28,9 +28,13 @@ import {
   lookupApp,
   readStateFile,
   stateFilePath,
+  statesFor,
   writeStateFile,
 } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { resolveWorktreePath } from "akasha/infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
+import {
+  treeLaidDown,
+  treeTakenAway,
+} from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 const TERM_POLL_MS = 100
 
@@ -51,7 +55,7 @@ const REPLACED_BY = "akasha infrastructure dev-server restart"
 export async function starting(
   read: {
     root: string
-    seq: number
+    commit: string
     app: string
     port: number | null
     json: boolean
@@ -60,22 +64,30 @@ export async function starting(
 ): Promise<Answer> {
   const report: string[] = []
   const app = lookupApp(read.root, read.app)
-  const port = read.port ?? freePortFrom(app.basePort)
 
-  const worktreePath = await resolveWorktreePath(read.seq)
-  const cwd = `${worktreePath}/${app.packagePath}`
+  const already = readStateFile(read.commit, read.app)
+  if (already !== null && isPidAlive(already.pid)) {
+    return refused(
+      `a dev server is already running for commit=${read.commit.slice(0, 12)} app=${read.app} ` +
+        `(pid=${already.pid}, port=${already.port}) — \`${REPLACED_BY}\` is how one is replaced`,
+      OPERATIONAL
+    )
+  }
+
+  const treePath = treeLaidDown(read.root, read.commit)
+  const cwd = `${treePath}/${app.packagePath}`
   if (!existsSync(cwd)) {
     return refused(
-      `no app workspace is at ${cwd} — check that \`${seqArgument.said}\` and \`${webApp.said}\` name what you meant`,
+      `no app workspace is at ${cwd} — check that \`${commitArgument.said}\` and \`${webApp.said}\` name what you meant`,
       INPUT
     )
   }
 
-  const envLocalPath = resolveEnvLocalPath(read.root, worktreePath, read.app)
+  const envLocalPath = resolveEnvLocalPath(read.root, treePath, read.app)
   if (!existsSync(envLocalPath)) {
     const written = writeEnvLocalFromPages({
       root: read.root,
-      worktreePath,
+      worktreePath: treePath,
       appName: read.app,
     })
     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)
@@ -83,19 +95,11 @@ export async function starting(
   }
   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
 
-  const already = readStateFile(read.seq, read.app)
-  if (already !== null && isPidAlive(already.pid)) {
-    return refused(
-      `a dev server is already running for seq=${read.seq} app=${read.app} ` +
-        `(pid=${already.pid}, port=${already.port}) — \`${REPLACED_BY}\` is how one is replaced`,
-      OPERATIONAL
-    )
-  }
-
   enforceMemoryGuard(KIND)
 
-  ensureDevServerDirs(read.seq)
-  const logPath = logFilePath(read.seq, read.app)
+  const port = read.port ?? freePortFrom(app.basePort)
+  ensureDevServerDirs(read.commit)
+  const logPath = logFilePath(read.commit, read.app)
   const logFd = openSync(logPath, "a", 0o600)
   const portSaid = String(port)
   const cmd = DEV_COMMAND.map((one) => (one === PORT_MARK ? portSaid : one))
@@ -133,13 +137,13 @@ export async function starting(
     pid: proc.pid,
     port,
     app: read.app,
-    seq: read.seq,
-    worktree_path: worktreePath,
+    commit: read.commit,
+    tree_path: treePath,
     started_at: new Date().toISOString(),
     log_path: logPath,
   }
   writeStateFile(state)
-  done.push(`wrote the state file for seq=${String(read.seq)} app=${read.app}`)
+  done.push(`wrote the state file for commit=${read.commit.slice(0, 12)} app=${read.app}`)
 
   report.push(
     read.json
@@ -150,20 +154,20 @@ export async function starting(
 }
 
 type Stopped = {
-  readonly seq: number
+  readonly commit: string
   readonly app: string
   readonly pid: number
   readonly was_running: boolean
 }
 
 async function stoppedOne(state: DevServerState, done: string[]): Promise<Stopped> {
-  const { pid, seq, app } = state
+  const { pid, commit, app } = state
   let wasRunning = false
   if (isPidAlive(pid)) {
     wasRunning = true
     try {
       process.kill(pid, "SIGTERM")
-      done.push(`signalled seq=${String(seq)} app=${app} pid=${String(pid)}`)
+      done.push(`signalled commit=${commit.slice(0, 12)} app=${app} pid=${String(pid)}`)
     } catch (thrown) {
       if (errnoCodeOf(thrown) !== "ESRCH") throw thrown
       wasRunning = false
@@ -182,22 +186,26 @@ async function stoppedOne(state: DevServerState, done: string[]): Promise<Stoppe
       }
     }
   }
-  const path = stateFilePath(seq, app)
+  const path = stateFilePath(commit, app)
   if (existsSync(path)) {
     unlinkSync(path)
     done.push(`took ${path}`)
   }
-  return { seq, app, pid, was_running: wasRunning }
+  if (statesFor(commit).length === 0) {
+    treeTakenAway(commit)
+    done.push(`took the tree of ${commit.slice(0, 12)}`)
+  }
+  return { commit, app, pid, was_running: wasRunning }
 }
 
 function stopSaid(one: Stopped): string {
-  return `stopped seq=${one.seq} app=${one.app} pid=${one.pid} (${one.was_running ? "was running" : "was stopped"})`
+  return `stopped commit=${one.commit.slice(0, 12)} app=${one.app} pid=${one.pid} (${one.was_running ? "was running" : "was stopped"})`
 }
 
 export async function stopping(
   read: {
     root: string
-    seq: number | null
+    commit: string | null
     app: string | null
     all: boolean
     json: boolean
@@ -208,12 +216,12 @@ export async function stopping(
   if (read.all) {
     states = listStateFiles()
   } else {
-    const seq = read.seq ?? 0
+    const commit = read.commit ?? ""
     const app = read.app ?? ""
     lookupApp(read.root, app)
-    const state = readStateFile(seq, app)
+    const state = readStateFile(commit, app)
     if (state === null) {
-      const said: Stopped = { seq, app, pid: 0, was_running: false }
+      const said: Stopped = { commit, app, pid: 0, was_running: false }
       return read.json ? asJson({ stopped: [said] }) : told([stopSaid(said)])
     }
     states = [state]

@@ -1847,11 +1847,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/secret/modules/placing/secret-placing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/secret/modules/saying/secret-saying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/secret/modules/workstation-secrets/workstation-secrets.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/web-app/modules/change-branch-worktree/change-branch-worktree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/web-app/modules/dev-server-recording/dev-server-recording.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/binary-running/binary-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/file-following/file-following.module.ts"}

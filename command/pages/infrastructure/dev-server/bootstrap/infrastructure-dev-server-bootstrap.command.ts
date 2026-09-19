@@ -11,12 +11,11 @@ export const infrastructureDevServerBootstrap = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seq said as a word and after `--seq` is refused.",
+      statement: "A commit said as a word and after `--commit` is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The worktree the seq names is the one `WORKTREE_DIR` states where `WORKTREE_DIR` states one.",
+      statement: "The tree the commit names is laid down where that tree is not laid down already.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -31,7 +30,7 @@ export const infrastructureDevServerBootstrap = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/force" },
-    { argument: "argument/seq", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/commit", required: true, saidAs: "flag-or-word" },
     { argument: "argument/web-app", required: true },
   ],
 } as const satisfies Command

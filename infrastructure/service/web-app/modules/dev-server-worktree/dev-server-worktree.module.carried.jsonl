@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A change number with no worktree is refused with why."},{"decisionKind":"decision-kind/absence","statement":"Nothing here makes a worktree."}]}
-{"definition":"the worktree path a numbered change branch has"}
-{"id":"01a06583-0030-7007-bd2f-2f51bdbb851c"}
-{"slug":"dev-server-worktree"}
-{"type":"page-type/module"}

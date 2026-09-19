@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/google/calendar/event/list/google-calendar-event-list.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/infrastructure/dev-server/restart/infrastructure-dev-server-restart.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/infrastructure/dev-server/start/infrastructure-dev-server-start.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.test.ts"}

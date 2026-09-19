@@ -1,0 +1,48 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const devServerTree = {
+  id: "01a0b711-835f-7852-be91-2ba3e1e6e35c",
+  type: "page-type/module",
+  slug: "dev-server-tree",
+  definition: "the tree a dev server runs, laid down from the commit it is named by",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree is named by the whole hash of the commit it holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a caller says is read as a commit by git rather than taken as a hash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name git reads as no commit is the caller's mistake.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree already laid down is run again rather than laid down twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree counts as laid down only once the whole of it is there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lay-down that failed leaves nothing behind for the next one to find.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The packages are the checkout's own, reached from the tree by one link each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The package named for this repository points at the tree rather than the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here makes a worktree.",
+    },
+  ],
+} as const satisfies Module

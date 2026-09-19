@@ -46,7 +46,7 @@ export const devServerStating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a numbered directory under the projects root has dev server state.",
+      statement: "Only a folder named by a whole commit hash holds dev server state.",
     },
     {
       decisionKind: "decision-kind/absence",

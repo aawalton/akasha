@@ -11,7 +11,7 @@ export const infrastructureDevServerStop = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seq said as a word and after `--seq` is refused.",
+      statement: "A commit said as a word and after `--commit` is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,11 +46,11 @@ export const infrastructureDevServerStop = {
   ],
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/seq", saidAs: "flag-or-word" },
+    { argument: "argument/commit", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
     {
       argument: "argument/every-server",
-      notWith: ["argument/seq", "argument/web-app"],
+      notWith: ["argument/commit", "argument/web-app"],
     },
   ],
 } as const satisfies Command

@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
+import { commit } from "akasha/command/argument/pages/commit.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { port } from "akasha/command/argument/pages/port.argument.ts"
-import { seq } from "akasha/command/argument/pages/seq.argument.ts"
 import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -16,7 +16,7 @@ const REPO = rootOf(import.meta.dir)
 
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
 
-const HELD: readonly Argument[] = [json, seq, webApp, port]
+const HELD: readonly Argument[] = [commit, json, webApp, port]
 
 const ENTRIES = page.arguments.map((one) => ({
   said: saidForPart(HELD, one.argument),
@@ -28,9 +28,9 @@ const NEEDED = ENTRIES.filter((one) => one.needed).map((one) => one.said)
 
 const EITHER_WAY = ENTRIES.filter((one) => one.asWord).map((one) => one.said)
 
-const WORD = `<${seq.placeholder}>`
+const WORD = `<${commit.placeholder}>`
 
-const NAMED = [seq.said, "3", webApp.said, "temper-web"]
+const NAMED = [commit.said, "3", webApp.said, "temper-web"]
 
 const restartRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await infrastructureDevServerRestart(argv, GIVEN)
@@ -42,12 +42,12 @@ const restartRefusing = async (argv: readonly string[]): Promise<readonly string
 
 test("every argument the page declares is one this test carries the argument page for", () => {
   expect(ENTRIES.length).toBe(page.arguments.length)
-  expect(NEEDED).toEqual([seq.said, webApp.said])
-  expect(EITHER_WAY).toEqual([seq.said])
+  expect(NEEDED).toEqual([commit.said, webApp.said])
+  expect(EITHER_WAY).toEqual([commit.said])
 })
 
 test("a restart takes what a start takes, so the port is among them and nothing more", () => {
-  expect(ENTRIES.map((one) => one.said)).toEqual([json.said, seq.said, webApp.said, port.said])
+  expect(ENTRIES.map((one) => one.said)).toEqual([json.said, commit.said, webApp.said, port.said])
 })
 
 test("a flag this takes nothing of is refused and names the arguments it does take", async () => {
@@ -68,10 +68,10 @@ test("a missing app draws a line naming the apps beside the line asking for it",
   expect(said.at(-1)).toContain("temper-web")
 })
 
-test("the seq is refused where one call says it as a word and at its flag", async () => {
+test("the commit is refused where one call says it as a word and at its flag", async () => {
   const said = await restartRefusing(["3", ...NAMED])
   expect(said[0]).toContain(`\`${WORD}\``)
-  expect(said[0]).toContain(`\`${seq.said}\``)
+  expect(said[0]).toContain(`\`${commit.said}\``)
 })
 
 test("the port takes a whole number, and a word that is none is refused", async () => {
@@ -93,6 +93,6 @@ test("any refusal naming the app carries the apps there are on the line after it
 })
 
 test("an argument carrying a value is refused where no value follows it", async () => {
-  const said = await restartRefusing([seq.said, "3", webApp.said])
+  const said = await restartRefusing([commit.said, "3", webApp.said])
   expect(said).toContain(`\`${webApp.said}\` takes a value, and none follows it`)
 })

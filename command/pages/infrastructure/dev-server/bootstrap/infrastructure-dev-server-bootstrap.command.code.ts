@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { commit } from "akasha/command/argument/pages/commit.argument.ts"
 import { force } from "akasha/command/argument/pages/force.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
-import { seq } from "akasha/command/argument/pages/seq.argument.ts"
 import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   answering,
@@ -19,11 +19,14 @@ import {
   wroteEnvSaid,
 } from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import { namingApps } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { resolveWorktreePath } from "akasha/infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
+import {
+  commitNamed,
+  treeLaidDown,
+} from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 export type Read = {
   readonly root: string
-  readonly seq: number
+  readonly commit: string
   readonly app: string
   readonly force: boolean
   readonly json: boolean
@@ -32,14 +35,14 @@ export type Read = {
 export type Bootstrapping = (done: string[], read: Read) => Promise<Answer>
 
 async function bootstrapped(done: string[], read: Read): Promise<Answer> {
-  const worktreePath = await resolveWorktreePath(read.seq)
-  const envPath = resolveEnvLocalPath(read.root, worktreePath, read.app)
+  const treePath = treeLaidDown(read.root, read.commit)
+  const envPath = resolveEnvLocalPath(read.root, treePath, read.app)
   if (existsSync(envPath) && !read.force) {
     return refused(`${envPath} is there already — say \`${force.said}\` to write over it`, INPUT)
   }
   const written = writeEnvLocalFromPages({
     root: read.root,
-    worktreePath,
+    worktreePath: treePath,
     appName: read.app,
   })
   done.push(wroteEnvSaid(written.path, written.varCount))
@@ -54,13 +57,13 @@ export async function infrastructureDevServerBootstrap(
   given: Given,
   bootstrapping: Bootstrapping = bootstrapped
 ): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, [json, force, seq, webApp])
+  const read = takenFor(argv, given.calledAs, page, [json, force, commit, webApp])
   if ("refused" in read) return refusedBy(namingApps(read.refused, given.root, webApp.said))
   return await answering(
     async (done) =>
       await bootstrapping(done, {
         root: given.root,
-        seq: read.taken.seq,
+        commit: commitNamed(given.root, read.taken.commit),
         app: read.taken.webApp,
         force: read.taken.force,
         json: read.taken.json,
