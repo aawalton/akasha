@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
@@ -6,7 +8,7 @@ import {
 } from "akasha/change/modules/code-export-carrying/code-export-carrying.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const ADD_FILE_CODE = "change-mechanical/add-file-code"
+const ADD_FILE_CODE = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const SPACED = /\s+/
 

@@ -1,5 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { runChange } from "akasha/change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -158,5 +160,5 @@ test("the file moved is moved by the rung this change reaches", async () => {
   const said = await runChange(world, { at: ONE_PAGE, to: SPARE_TYPE })
 
   expect(said.refused).toBeNull()
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file/move-file"]))
+  expect(new Set(reached)).toEqual(new Set([`${changeMechanicalFile.slug}/${moveFile.slug}`]))
 })

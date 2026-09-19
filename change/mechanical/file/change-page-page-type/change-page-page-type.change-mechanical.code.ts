@@ -1,3 +1,5 @@
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
@@ -13,7 +15,7 @@ import {
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const MOVE_FILE = "change-mechanical-file/move-file"
+const MOVE_FILE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
 
 export type Asked = {
   readonly at: string

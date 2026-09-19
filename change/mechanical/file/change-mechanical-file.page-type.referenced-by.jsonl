@@ -13,6 +13,8 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"}
