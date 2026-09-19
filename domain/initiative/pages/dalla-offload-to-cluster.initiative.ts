@@ -11,10 +11,6 @@ export const dallaOffloadToCluster = {
       statement:
         "A namespace is named for one service and holds that service with the satellites of that service.",
     },
-    {
-      statement:
-        "The namespaces, the roles and the operator configuration the cluster is built on are one service.",
-    },
   ],
   constraints: [
     "A cluster service, a container recipe and a web app are put up by a run triggered on the workstation and made nowhere on it.",
