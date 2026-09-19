@@ -28,6 +28,10 @@ import {
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { subagentStarted } from "akasha/agent/subagent/properties/subagent-started.number-property.ts"
 import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { editsWaiting } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   type Asking,
@@ -68,9 +72,9 @@ const KIND = "dispatchedAs"
 
 const ID = "id"
 
-const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
+const ADD_PAGE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const TAKE_PAGE = "change-mechanical-file/remove-file-page"
+const TAKE_PAGE = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
 
 const STARTED = subagentStarted.propertySlug
 
