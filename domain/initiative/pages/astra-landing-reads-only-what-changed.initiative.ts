@@ -10,7 +10,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A landing reads only what the paths its change names reach.",
       workingMemory:
-        "A landing is 4.78s of work, profiled. The hold it takes while writing was 514ms on average and 740ms at worst. Working out which paths a machine writes before the hold, writing git's own index after the hold, and asking git once for every folder listed, every file hashed and every tree of a depth took two of mine to 48ms and 85ms. A hold over a change naming many folders was 473ms to 509ms before those last calls were batched.",
+        "The hold a landing takes is 48ms to 85ms where the change names one folder and about 480ms where it adds or removes a page, because `.index/page/id` held 77,208 entries in one folder and every such landing rebuilt that tree. A page's id is filed under its last two characters as well now, 256 folders of about 300. Reading and writing only that shape waits on the 52 akasha processes older than `3b97759e` turning over.",
     },
 
     {
