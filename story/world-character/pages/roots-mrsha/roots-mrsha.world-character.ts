@@ -9,4 +9,5 @@ export const rootsMrsha = {
   firstChapter: 753,
   lastChapter: 757,
   characterClaims: "jsonl",
+  mergedInto: "world-character/mrsha",
 } as const satisfies WorldCharacter
