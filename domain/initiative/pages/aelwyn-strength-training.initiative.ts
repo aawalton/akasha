@@ -8,11 +8,6 @@ export const aelwynStrengthTraining = {
   persona: "persona/aelwyn",
   intentStack: [
     {
-      statement: "A set states the instant Alan performed it rather than the day.",
-      workingMemory:
-        "Warmth is a fact about the last quarter hour, and a calendar date cannot hold it. The 122 sets already logged carry no clock time anywhere, so each takes noon on the day it states, and a stopgap decision says so rather than letting a made-up hour read as a measured one. The repository already spells that conversion: NOON in the day-string module.",
-    },
-    {
       statement:
         "Whether Alan is warm is read from the minutes since his last set rather than from the day.",
       workingMemory:
