@@ -27,6 +27,13 @@ import {
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { fitnessNext as page } from "akasha/command/pages/fitness/next/fitness-next.command.ts"
 import {
+  DAY_TYPE,
+  fitsIn,
+  focusOn,
+  RESTING,
+  weekdayOn,
+} from "akasha/command/pages/fitness/next/modules/rotation/rotation.module.code.ts"
+import {
   type Step,
   stepFor,
   steppedOf,
@@ -259,10 +266,11 @@ export function chosenFor(
   covered: ReadonlySet<string>,
   marks: ReadonlyMap<string, Mark>,
   bounds: Bounds,
-  out: ReadonlySet<string>
+  out: ReadonlySet<string>,
+  focus: string | null = null
 ): Movement | null {
   const able = [...week.movements.values()].filter((one) => {
-    if (out.has(one.slug)) return false
+    if (out.has(one.slug) || !fitsIn(one, focus)) return false
     if (!one.muscles.includes(muscle) || !loadable(one, covered)) return false
     const ceiling = bounds.ceiling
     if (one.muscles.every((each) => (week.tally.muscles.get(each) ?? 0) >= ceiling)) return false
@@ -304,11 +312,12 @@ export function offerOf(
     turn: 0,
     done: new Set(),
     raisedToday: 0,
-  }
+  },
+  focus: string | null = null
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, bounds.low).flatMap((muscle) => {
-    const one = chosenFor(week, muscle, covered, marks, bounds, out)
+    const one = chosenFor(week, muscle, covered, marks, bounds, out, focus)
     if (one === null) return []
     return [
       {
@@ -360,7 +369,8 @@ export function offerOf(
   }
 }
 
-export function saidOf(offer: Offer | null): readonly string[] {
+export function saidOf(offer: Offer | null, resting = false): readonly string[] {
+  if (resting) return ["today is a rest day — walk, eat well, and let the week's work settle"]
   if (offer === null) return ["nothing is owed and nothing is loadable — rest is the answer today"]
   const said = [...steppedOf(offer.step)]
   if (offer.step.kind !== "work") return said
@@ -387,8 +397,24 @@ export function newnessLeftIn(
   return Math.max(0, cap - fresh)
 }
 
-export function nextIn(root: string, now: Date): Offer | null {
+export type Next = {
+  readonly offer: Offer | null
+  readonly resting: boolean
+}
+
+export function focusIn(root: string, today: string): string | null {
+  const weekday = weekdayOn(today)
+  if (weekday === null) return null
+  return focusOn(
+    valuesOfType(root, DAY_TYPE).map((one) => one.value),
+    weekday
+  )
+}
+
+export function nextIn(root: string, now: Date): Next {
   const today = getMountainMorningDayStr(now)
+  const focus = focusIn(root, today)
+  if (focus === RESTING) return { offer: null, resting: true }
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
   const turns = turnsIn(
@@ -414,16 +440,16 @@ export function nextIn(root: string, now: Date): Offer | null {
   }
   const out = outIn(week.movements, restricted, dropped)
   const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm, today)
-  return offerOf(week, kit, marks, bounds, out, warmth)
+  return { offer: offerOf(week, kit, marks, bounds, out, warmth, focus), resting: false }
 }
 
 export function fitnessNext(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return mistaking(read.refused)
   try {
-    const offer = nextIn(given.root, new Date())
-    if (read.taken.json) return told([JSON.stringify(offer)])
-    return told([...saidOf(offer)])
+    const next = nextIn(given.root, new Date())
+    if (read.taken.json) return told([JSON.stringify(next)])
+    return told([...saidOf(next.offer, next.resting)])
   } catch (thrown) {
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }

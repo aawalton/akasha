@@ -11,6 +11,7 @@ export function movement(slug: string, over: Partial<Movement> = {}): Movement {
     scoring: "reps",
     sfr: 5,
     force: "push",
+    focus: "push",
     raisesCold: false,
     ...over,
   }

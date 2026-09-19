@@ -7,7 +7,7 @@ export const fitnessNext = {
   definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
-  parts: ["module/stepping", "module/warming"],
+  parts: ["module/rotation", "module/stepping", "module/warming"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -35,7 +35,24 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The muscle owed the most against its weekly floor picks the movement.",
+      statement: "The weekday Alan is on names the focus the day trains.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A movement outside the day's focus is gone before any movement is ranked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day whose focus is rest is answered as rest rather than with a movement.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day no schedule names leaves every movement in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The muscle owed the most against its weekly floor picks the movement from what the focus left.",
     },
     {
       decisionKind: "decision-kind/departure",

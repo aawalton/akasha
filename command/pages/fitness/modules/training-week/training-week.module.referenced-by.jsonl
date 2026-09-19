@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.test.ts"}
+{"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/modules/rotation/rotation.module.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/modules/stepping/stepping.module.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/next/modules/warming/warming.module.code.ts"}
 {"propertySlug":"import","fileName":"training-week.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
@@ -11,6 +12,7 @@
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/next/fitness-next.command.test.ts"}
+{"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/next/modules/rotation/rotation.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/next/modules/stepping/stepping.module.test.ts"}
 {"propertySlug":"import","fileName":"training-week.module.test-fixtures.ts","path":"command/pages/fitness/next/modules/warming/warming.module.test.ts"}
 {"propertySlug":"parts","path":"command/pages/fitness/fitness.namespace.ts","id":"01a0b6de-94d3-70e8-885d-2799c7d023a9"}

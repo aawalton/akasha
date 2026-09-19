@@ -1291,6 +1291,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/modules/training-week/training-week.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/rotation/rotation.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/stepping/stepping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/warming/warming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.ts"}

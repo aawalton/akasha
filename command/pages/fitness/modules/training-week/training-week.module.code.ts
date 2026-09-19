@@ -35,6 +35,7 @@ export type Movement = {
   readonly scoring: string | null
   readonly sfr: number | null
   readonly force: string | null
+  readonly focus: string | null
   readonly raisesCold: boolean
 }
 
@@ -76,6 +77,7 @@ export function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Moveme
       scoring: textAt(one, "scoringMode"),
       sfr: numberAt(one, "sfrScore"),
       force: textAt(one, "force"),
+      focus: textAt(one, "muscleFocus"),
       raisesCold: one[RAISES_COLD] === true,
     })
   }

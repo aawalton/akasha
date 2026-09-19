@@ -290,6 +290,47 @@ test("nothing owed and nothing loadable is answered as rest", () => {
   expect(saidOf(null)[0]).toContain("rest")
 })
 
+const LEGS = movement("goblet-squat", {
+  muscles: ["quadriceps"],
+  pattern: "squat",
+  focus: "legs",
+})
+
+const CRUNCH = movement("crunch", {
+  muscles: ["abdominals"],
+  pattern: "isolation-other",
+  implement: "body-only",
+  focus: "core",
+})
+
+const OWED = new Map<string, Mark>([
+  ["dumbbell-bench-press", mark()],
+  ["goblet-squat", mark({ weight: 20 })],
+  ["crunch", mark({ weight: null })],
+])
+
+test("a movement outside the day's focus is gone before any movement is ranked", () => {
+  const three = week([BENCH, LEGS, CRUNCH], new Map([["abdominals", 6]]))
+  expect(offerOf(three, KIT, OWED, BOUNDS, FREE, WARM, "legs")?.movement).toBe("goblet-squat")
+  expect(offerOf(three, KIT, OWED, BOUNDS, FREE, WARM, "push")?.movement).toBe(
+    "dumbbell-bench-press"
+  )
+})
+
+test("a day no schedule names leaves every movement in", () => {
+  const two = week([BENCH, LEGS], new Map([["chest", 5]]))
+  expect(offerOf(two, KIT, OWED, BOUNDS, FREE, WARM)?.movement).toBe("goblet-squat")
+})
+
+test("a movement of the core is offered whatever the day trains", () => {
+  const two = week([LEGS, CRUNCH])
+  expect(offerOf(two, KIT, OWED, BOUNDS, FREE, WARM, "push")?.movement).toBe("crunch")
+})
+
+test("a day whose focus is rest is answered as rest", () => {
+  expect(saidOf(null, true)[0]).toContain("rest day")
+})
+
 test("a word this takes no argument for is refused", () => {
   const said = fitnessNext(["stray"], GIVEN)
   expect(said.code).toBe(1)
