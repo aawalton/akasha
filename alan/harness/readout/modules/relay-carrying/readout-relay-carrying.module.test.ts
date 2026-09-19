@@ -1,5 +1,6 @@
 import { expect, mock, test } from "bun:test"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 
 const SECRET = "the-one-relay-secret-this-module-test-carries-on"
 
@@ -7,9 +8,9 @@ const ROOT = "a-checkout-standing-in-for-the-one-a-service-reads"
 
 const KEPT_AT = "-is-where-this-test-alone-keeps-that-point"
 
-const FIRST_POINT = "readout/a-point-invented-for-this-test"
+const FIRST_POINT = `${readout.slug}/a-point-invented-for-this-test`
 
-const SECOND_POINT = "readout/a-second-point-invented-for-this-test"
+const SECOND_POINT = `${readout.slug}/a-second-point-invented-for-this-test`
 
 const FIRST_SITE = "https://first.invalid"
 

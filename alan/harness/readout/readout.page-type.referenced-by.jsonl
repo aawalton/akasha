@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.ts","path":"alan/harness/sleep/relay-service/sleep-relay-service.service-workstation.running.code.ts"}
