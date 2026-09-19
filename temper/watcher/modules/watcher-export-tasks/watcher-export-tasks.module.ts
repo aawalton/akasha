@@ -47,7 +47,7 @@ export const watcherExportTasks = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The config file is written only where a path is given and the run is for real.",
+      statement: "The config file is written only where a path is given.",
     },
     {
       decisionKind: "decision-kind/departure",

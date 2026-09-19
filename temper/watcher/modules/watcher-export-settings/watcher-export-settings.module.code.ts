@@ -325,10 +325,9 @@ export interface ExportSettingsResult {
 export async function runExportSettings(
   content: string,
   supabase: SignedInReader,
-  options: { userId?: string; dryRun?: boolean; inventoryConfigPath?: string } = {},
+  options: { userId?: string; inventoryConfigPath?: string } = {},
   seams: ExportSettingsSeams = WATCHER_SEAMS
 ): Promise<ExportSettingsResult> {
-  const dryRun = options.dryRun ?? false
   const say = seams.say
   const userId = await userIdFor(supabase, options.userId, "export these settings")
 
@@ -369,19 +368,13 @@ export async function runExportSettings(
   let lines: readonly string[] = content.split("\n")
   for (const [key, value] of Object.entries(values)) {
     const block = serializeLuaBlock(key, value, indent)
-    if (dryRun) {
-      say(`generated lua block ${key}:`)
-      for (const line of block) say(line)
-    }
     lines = replaceOrInsertLuaBlock(lines, key, block, TEMPER_INVENTORY_SIBLINGS)
   }
 
   const modifiedContent = lines.join("\n")
   const sideFilePath = options.inventoryConfigPath
   const inventoryConfigSideFileHash =
-    sideFilePath == null || dryRun
-      ? null
-      : seams.writeSideFile(sideFilePath, buildSideFileContent(values))
+    sideFilePath == null ? null : seams.writeSideFile(sideFilePath, buildSideFileContent(values))
 
   return {
     content: modifiedContent,

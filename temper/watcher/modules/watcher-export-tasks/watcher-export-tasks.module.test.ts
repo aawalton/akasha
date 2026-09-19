@@ -324,17 +324,6 @@ test("no task and no config path leaves the content alone and answers no hash", 
   expect(seam.said).toEqual(["No tasks to export."])
 })
 
-test("a dry run writes no config file even where a path is given", async () => {
-  const seam = recording(TASK_ROWS, OVERRIDE_ROWS, {
-    charactersConfigPath: "/nowhere/characters.lua",
-    dryRun: true,
-  })
-  const result = await runExportTasks(CONTENT, SUPABASE, seam.options)
-  expect(seam.written).toEqual([])
-  expect(result.charactersConfigSideFileHash).toBe(null)
-  expect(result.content).toBe(LEGACY_CONTENT)
-})
-
 test("only a task awaiting sync is marked back, and every task is named", async () => {
   const seam = recording(TASK_ROWS, OVERRIDE_ROWS)
   await runExportTasks(CONTENT, SUPABASE, seam.options)

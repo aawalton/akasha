@@ -76,7 +76,6 @@ export type ExportReport = (message: string) => void
 export interface ExportTasksOptions {
   readonly userId?: string
   readonly charactersConfigPath?: string
-  readonly dryRun?: boolean
   readonly collect?: PageCollect
   readonly getRows?: PageGet
   readonly patchRow?: PagePatchById
@@ -199,8 +198,7 @@ export async function runExportTasks(
   const compilePriority = options.compilePriority ?? compileCharacterPriority
   const writeSideFile = options.writeSideFile ?? writeSideFileIfChanged
   const report = options.report ?? log
-  const configPath = options.charactersConfigPath
-  const sideFilePath = configPath != null && options.dryRun !== true ? configPath : null
+  const sideFilePath = options.charactersConfigPath ?? null
 
   const userId = await userIdFor(supabase, options.userId, "export these tasks")
 

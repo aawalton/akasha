@@ -75,14 +75,6 @@ export const watcherExportSettings = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run says every block that run generated.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dry run writes no side file.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A side file is written only where the caller named a path for that file.",
     },
     {

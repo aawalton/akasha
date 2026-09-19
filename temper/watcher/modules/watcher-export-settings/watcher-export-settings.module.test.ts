@@ -161,26 +161,13 @@ test("the hash answered is the one from whatever wrote the side file", async () 
   expect(recorded.written[0]?.content).toContain('["backpack"]')
 })
 
-test("a dry run writes no side file even where a path is given", async () => {
+test("no path for the side file writes no side file and answers no hash", async () => {
   const recorded = recorder()
   const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorded)
-  const result = await runExportSettings(
-    BEFORE,
-    NO_CLIENT,
-    { userId: "alan", inventoryConfigPath: "/var/tmp/inventory.lua", dryRun: true },
-    seams
-  )
+  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
   expect(recorded.written).toEqual([])
   expect(result.inventoryConfigSideFileHash).toBe(null)
   expect(result.content).toBe(AFTER)
-})
-
-test("a dry run says every block it generated", async () => {
-  const recorded = recorder()
-  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorded)
-  await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan", dryRun: true }, seams)
-  expect(recorded.said).toContain("generated lua block logging:")
-  expect(recorded.said).toContain("generated lua block crownReplacementCosts:")
 })
 
 test("automation reaches the file only where it holds a characters and a companions record", async () => {
