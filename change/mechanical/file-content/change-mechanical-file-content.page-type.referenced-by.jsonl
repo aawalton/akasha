@@ -26,6 +26,11 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}

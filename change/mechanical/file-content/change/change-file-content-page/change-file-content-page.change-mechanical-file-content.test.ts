@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
+import { changeFileContentCode } from "akasha/change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.ts"
 import { runChange } from "akasha/change/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.code.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+
+const CHANGE_FILE_CONTENT_CODE =
+  `${changeMechanicalFileContent.slug}/${changeFileContentCode.slug}` as const
 
 const AT = "akasha/one/kept.module.ts"
 
@@ -33,7 +38,7 @@ test("the passage is worked by the change this change reaches", async () => {
   const said = await runChange(worldOf(worked), { at: AT, old: OLD, new: NEW })
 
   expect(said.refused).toBe(null)
-  expect(worked.at).toBe("change-mechanical-file-content/change-file-content-code")
+  expect(worked.at).toBe(CHANGE_FILE_CONTENT_CODE)
   expect(worked.given).toEqual({ at: AT, old: OLD, new: NEW })
 })
 

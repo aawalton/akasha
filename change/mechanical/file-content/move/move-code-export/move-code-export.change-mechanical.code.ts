@@ -1,3 +1,5 @@
+import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
@@ -6,7 +8,7 @@ import {
 } from "akasha/change/modules/code-export-carrying/code-export-carrying.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
+const CHANGE_FILE_CONTENT = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
 
 const MADE_BY = "`divide-file-code` makes a file that is not there yet"
 
