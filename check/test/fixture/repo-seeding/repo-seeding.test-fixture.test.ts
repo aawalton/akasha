@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { REFUSES_CODE } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
@@ -15,6 +14,7 @@ import {
   wrote,
   wroteWith,
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -18,10 +18,7 @@ import {
   said,
   scratch,
 } from "akasha/check/code/pages/lint-clean/lint-clean.check-code.decision.test-fixtures.ts"
-import {
-  change,
-  gone,
-} from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { change, gone } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 
