@@ -48,16 +48,16 @@ export const aineContribution = {
     },
   ],
   constraints: [
-    "Each product carries a brand of its own and calls for backing on the one shared Patreon.",
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
     "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
     "A contributor's contribution points are one pool across every product, and every reading of them is filtered to one product.",
     "The contribution points proposing a feature request costs buy Alan's review and are spent whether or not he publishes that request.",
     "A feature request has no price, and the contribution points committed to it only order the queue Alan reviews.",
-    "A contributor signs in at alanwalton.com, and the payment the vendor reports is matched to that sign-in by email address.",
     "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
     "A cent contributed earns one contribution point, and that rate is fixed until something proves it wrong.",
     "Ko-fi takes the money, because Patreon's terms forbid leading a contributor from Patreon to Alan's own site, which this model requires.",
     "A reversed contribution takes back its points wherever they went, and a contributor's balance goes negative rather than a completed request losing its credit.",
+    "Each product carries a brand of its own and calls for backing on the one shared Ko-fi account.",
+    "A contributor signs in at alanwalton.com, and the payment Stripe reports is matched to that sign-in by email address.",
   ],
 } as const satisfies Initiative
