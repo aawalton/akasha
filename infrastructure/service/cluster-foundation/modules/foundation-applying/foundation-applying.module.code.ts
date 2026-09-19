@@ -120,7 +120,6 @@ async function plannedFor(
 export async function appliedFoundation(
   root: string,
   slug: string,
-  dryRun: boolean,
   codeAt: string,
   up: string[] = []
 ): Promise<Answer> {
@@ -144,11 +143,6 @@ export async function appliedFoundation(
 
   if (!differs) {
     report.push(`nothing\tthe cluster already holds ${slug} as its page describes`)
-    return told(report)
-  }
-
-  if (dryRun) {
-    report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
     return told(report)
   }
 

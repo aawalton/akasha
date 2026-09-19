@@ -168,7 +168,7 @@ async function putUp(
   }
   if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, false, up)
   if (read.kind === CLUSTER_FOUNDATION) {
-    return await appliedFoundation(given.root, slug, false, at, up)
+    return await appliedFoundation(given.root, slug, at, up)
   }
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)

@@ -43,10 +43,6 @@ export const foundationApplying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reports what the run would apply and applies nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "The manifests are emitted from the tree pinned at the commit and written to the checkout.",
     },

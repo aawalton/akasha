@@ -115,14 +115,14 @@ test("a manifest page whose code file is not there is refused", () => {
 })
 
 test("a foundation no page describes is answered as a refusal rather than applied", async () => {
-  const answer = await appliedFoundation(ROOT, "no-such-foundation", true, ROOT)
+  const answer = await appliedFoundation(ROOT, "no-such-foundation", ROOT)
 
   expect(answer.refusals).toHaveLength(1)
   expect(answer.report).toEqual([])
 })
 
 test("a foundation naming a manifest no page describes reaches no cluster", async () => {
-  const answer = await appliedFoundation(ROOT, "lost", true, ROOT)
+  const answer = await appliedFoundation(ROOT, "lost", ROOT)
 
   expect(answer.refusals[0]).toContain("no-such-manifest")
 })
