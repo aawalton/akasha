@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}

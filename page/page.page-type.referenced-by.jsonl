@@ -128,6 +128,8 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}

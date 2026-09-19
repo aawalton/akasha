@@ -31,6 +31,8 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const CALLED_AS = "akasha read"
 
@@ -263,6 +265,8 @@ const CONTEXT_WARRANT = "context-warrant"
 
 const PAGE_TYPE_SLUG = "page-type"
 
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
 export const THING = "akasha/one/held.thing.ts"
 
 export const THING_TYPE = "akasha/kind/thing.page-type.ts"
@@ -277,7 +281,7 @@ type Planted = {
   readonly code: string
 }
 
-const THING_BODY = 'export const thing = { slug: "thing", extendsSlug: ["page-type/page"] }\n'
+const THING_BODY = `export const thing = { slug: "thing", extendsSlug: ["${PAGE_AT}"] }\n`
 
 const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: [] }\n'
 
@@ -287,7 +291,7 @@ const TYPES: readonly {
   readonly body: string
   readonly above: readonly string[]
 }[] = [
-  { slug: "thing", at: THING_TYPE, body: THING_BODY, above: ["page-type/page"] },
+  { slug: "thing", at: THING_TYPE, body: THING_BODY, above: [PAGE_AT] },
   { slug: "page", at: PAGE_TYPE, body: PAGE_BODY, above: [] },
 ]
 

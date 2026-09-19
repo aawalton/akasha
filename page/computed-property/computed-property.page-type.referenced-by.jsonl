@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/wealth-level.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/wealth-stoplight.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/modules/calculation-loading/calculation-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/modules/calculation-loading/calculation-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/modules/computing/page-computing.module.code.ts"}

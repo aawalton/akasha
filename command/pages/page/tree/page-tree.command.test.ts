@@ -1,10 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
+import { module } from "akasha/code/module/module.page-type.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answersFrom,
   pageTree,
   propertyKindsIn,
 } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
+import { computedProperty } from "akasha/page/computed-property/computed-property.page-type.ts"
 import type { Valued } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   aType,
@@ -15,10 +17,21 @@ import {
   scratch,
   thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
 const ROOT = "/nowhere"
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
+
+const COMPUTED_PROPERTY_AT = `${pageType.slug}/${computedProperty.slug}` as const
 
 function givenIn(): Given {
   return { root: ROOT, calledAs: "akasha page tree", from: ROOT, writer: null, agentId: null }
@@ -29,7 +42,7 @@ const TYPES: readonly Valued[] = [
     path: "one/thing.page-type.ts",
     value: {
       slug: "thing",
-      extends: ["page-type/page"],
+      extends: [PAGE_AT],
       properties: [
         { pagePropertySlug: "title", required: true, many: false },
         { pagePropertySlug: "note", required: false, many: true, maxCount: 3 },
@@ -155,7 +168,7 @@ test("a property pointing at a page type is drawn as pointing at it", () => {
       [
         {
           path: "one/owner.relation-property.ts",
-          value: { slug: "title", propertySlug: "title", targetPageType: "page-type/page" },
+          value: { slug: "title", propertySlug: "title", targetPageType: PAGE_AT },
         },
       ],
     ],
@@ -200,9 +213,9 @@ test("every word said is named in the refusal, not only the first", () => {
 const ABOVE_TWO: readonly Valued[] = [
   {
     path: "one/held.page-type.ts",
-    value: { slug: "held", extends: ["page-type/module", "page-type/page-property"] },
+    value: { slug: "held", extends: [MODULE_AT, PAGE_PROPERTY_AT] },
   },
-  { path: "one/module.page-type.ts", value: { slug: "module", extends: ["page-type/page"] } },
+  { path: "one/module.page-type.ts", value: { slug: "module", extends: [PAGE_AT] } },
   { path: "one/page.page-type.ts", value: { slug: "page", extends: [] } },
 ]
 
@@ -243,11 +256,11 @@ const HELD: readonly Named[] = [
     definition: "one page naming another page under a property",
     attributes: ["graph-attribute/property"],
   }),
-  aType(heldId("3"), "computed-property", ["page-type/module", "page-type/page-property"]),
-  aType(heldId("4"), "faith-points", ["page-type/computed-property"]),
-  aType(heldId("5"), "id-named-property", [idOf("3"), "page-type/page"]),
-  aType(heldId("6"), "one-ringed", ["page-type/two-ringed", "page-type/page"]),
-  aType(heldId("7"), "two-ringed", ["page-type/one-ringed", "page-type/page"]),
+  aType(heldId("3"), "computed-property", [MODULE_AT, PAGE_PROPERTY_AT]),
+  aType(heldId("4"), "faith-points", [COMPUTED_PROPERTY_AT]),
+  aType(heldId("5"), "id-named-property", [idOf("3"), PAGE_AT]),
+  aType(heldId("6"), "one-ringed", ["page-type/two-ringed", PAGE_AT]),
+  aType(heldId("7"), "two-ringed", ["page-type/one-ringed", PAGE_AT]),
 ]
 
 function typesRepo(): string {
