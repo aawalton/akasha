@@ -34,10 +34,6 @@ export const trackHealthImport = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run reads and counts and writes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A run taken up again begins where the earlier run ended.",
     },
     {
@@ -87,7 +83,6 @@ export const trackHealthImport = {
   ],
   name: "health-import",
   arguments: [
-    { argument: "argument/dry-run" },
     { argument: "argument/health-export-path" },
     { argument: "argument/batch" },
     { argument: "argument/restart" },

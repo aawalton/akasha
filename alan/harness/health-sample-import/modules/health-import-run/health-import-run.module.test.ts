@@ -50,7 +50,6 @@ function options(cacheDir: string): ImportRunOptions {
   return {
     sinceDay: NO_LOWER_BOUND,
     batchSize: 2,
-    dryRun: false,
     restart: true,
     onProgress: () => undefined,
     cacheDir,
@@ -123,18 +122,5 @@ test("a run that ended names every batch it wrote, the last one short", async ()
       "wrote batch 2, 2 samples, through record line 4",
       "wrote batch 3, 1 samples, through record line 5",
     ])
-  })
-})
-
-test("a dry run reaches no writer and so names nothing written", async () => {
-  await inScratch(async (cacheDir) => {
-    const done: string[] = []
-    const outcome = await runHealthImport(
-      { ...options(cacheDir), dryRun: true },
-      reaching(6, 1),
-      done
-    )
-    expect(outcome.batches).toBe(3)
-    expect(done).toEqual([])
   })
 })

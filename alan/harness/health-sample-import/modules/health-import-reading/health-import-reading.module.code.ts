@@ -63,7 +63,7 @@ function doubtFindings(outcome: ImportOutcome): readonly VerdictFinding[] {
 
 export function importReading(
   outcome: ImportOutcome,
-  args: { readonly dryRun: boolean; readonly observedAtMs: number }
+  args: { readonly observedAtMs: number }
 ): ImportReading {
   const evidence = evidenceOf(outcome)
   const coverage = {
@@ -90,7 +90,7 @@ export function importReading(
     }
   }
 
-  const doubts = args.dryRun ? [] : doubtFindings(outcome)
+  const doubts = doubtFindings(outcome)
   if (doubts.length > 0) {
     return {
       ...base,
@@ -108,8 +108,6 @@ export function importReading(
     coverage,
     evidence,
     findings: [],
-    reason: args.dryRun
-      ? `every one of ${outcome.tally.recordLines} record(s) converts cleanly; nothing was written`
-      : `every one of ${outcome.tally.recordLines} record(s) reached the table under its own source name, with no stored value overwritten${resumeNote}`,
+    reason: `every one of ${outcome.tally.recordLines} record(s) reached the table under its own source name, with no stored value overwritten${resumeNote}`,
   }
 }

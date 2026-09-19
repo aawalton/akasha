@@ -43,7 +43,6 @@ export interface ImportProgress {
 export interface ImportRunOptions {
   readonly sinceDay: string
   readonly batchSize: number
-  readonly dryRun: boolean
   readonly restart: boolean
   readonly onProgress: (progress: ImportProgress) => undefined
   readonly cacheDir?: string
@@ -128,17 +127,15 @@ export async function runHealthImport(
   const flush = async (): Promise<void> => {
     if (buffer.length === 0) return
     const many = buffer.length
-    if (!opts.dryRun) {
-      const report = await deps.writeBatch(buffer, done)
-      write = addReport(write, report)
-      done.push(
-        `wrote batch ${batches + 1}, ${many} samples, through record line ${tally.recordLines}`
-      )
-    }
+    const report = await deps.writeBatch(buffer, done)
+    write = addReport(write, report)
+    done.push(
+      `wrote batch ${batches + 1}, ${many} samples, through record line ${tally.recordLines}`
+    )
     samplesWritten += many
     batches += 1
     buffer = []
-    if (!opts.dryRun && key !== undefined) {
+    if (key !== undefined) {
       await writeCheckpoint(
         key,
         {
@@ -182,7 +179,7 @@ export async function runHealthImport(
         sinceDay: opts.sinceDay,
         metrics: IMPORT_METRICS,
       })
-      if (!opts.restart && !opts.dryRun) {
+      if (!opts.restart) {
         const prior = await readCheckpoint(key, opts.cacheDir)
         if (prior !== undefined) {
           skipUntilLine = prior.recordLinesCommitted
@@ -208,7 +205,7 @@ export async function runHealthImport(
   }
 
   await flush()
-  if (!opts.dryRun && key !== undefined) await clearCheckpoint(key, opts.cacheDir)
+  if (key !== undefined) await clearCheckpoint(key, opts.cacheDir)
 
   return {
     sourceFile,

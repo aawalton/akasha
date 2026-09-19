@@ -139,7 +139,7 @@ test("a flag taking a value and given none is refused", () => {
   expect(taken(["--file-path"], CALLED)).toEqual({
     refusals: [expect.stringContaining("none follows it")],
   })
-  expect(taken(["--since", "--dry-run"], CALLED)).toEqual({
+  expect(taken(["--since", "--restart"], CALLED)).toEqual({
     refusals: [expect.stringContaining("none follows it")],
   })
 })
@@ -154,7 +154,6 @@ test("a call naming nothing takes the whole history a thousand readings at a tim
     path: undefined,
     since: NO_LOWER_BOUND,
     batch: MAX_IMPORT_BATCH,
-    dryRun: false,
     restart: false,
   })
 })
@@ -195,14 +194,6 @@ test("the missing export after a batch landed still says the run can be taken up
   expect(said.refusals[said.refusals.length - 1]).toContain("--restart")
 })
 
-test("a dry run reads the export, reaches no writer, and says nothing was written", async () => {
-  const answer = await healthImported(held(["--dry-run"]), EMPTY_EXPORT, 0)
-  expect(answer.code).toBe(0)
-  expect(answer.report[0]).toBe(`import\thealth\t${SOURCE}`)
-  expect(answer.report.some((one) => one.startsWith("dry-run"))).toBe(true)
-  expect(answer.report.some((one) => one.startsWith("batches"))).toBe(false)
-})
-
 test("a run over an export holding no record reaches no writer and counts nothing", async () => {
   const answer = await healthImported(held([]), EMPTY_EXPORT, 0)
   expect(answer.code).toBe(0)
@@ -219,18 +210,14 @@ test("a reach that breaks is refused as an operational fault, and the run can be
   expect(answer.refusals[answer.refusals.length - 1]).toContain("--restart")
 })
 
-test("a dry run's report names no batch and no row, and a run's report names both", () => {
-  const outcome = outcomeOf()
-  const dry = linesOf(outcome, true)
-  expect(dry[dry.length - 1]).toContain("dry-run")
-  expect(dry.some((one) => one.startsWith("inserted"))).toBe(false)
-  const wet = linesOf(outcome, false)
-  expect(wet).toContain("batches\t0")
-  expect(wet).toContain("inserted\t0")
+test("a report names the batches written and the rows filed", () => {
+  const said = linesOf(outcomeOf())
+  expect(said).toContain("batches\t0")
+  expect(said).toContain("inserted\t0")
 })
 
 test("a report carries a count and an instant for each metric and no reading's own value", () => {
-  const said = linesOf(outcomeOf(), true)
+  const said = linesOf(outcomeOf())
   expect(said).toContain("activeEnergy\t0 records\tearliest —\tlatest —")
   expect(said).toContain("stepCount\t0 records\tearliest —\tlatest —")
   expect(said).toContain("record lines\t0")

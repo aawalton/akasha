@@ -11,7 +11,6 @@ import {
 } from "akasha/alan/harness/health-sample-import/modules/health-import-run/health-import-run.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { batch as batchArgument } from "akasha/command/argument/pages/batch.argument.ts"
-import { dryRun as dryRunArgument } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { firstDay } from "akasha/command/argument/pages/first-day.argument.ts"
 import { healthExportPath } from "akasha/command/argument/pages/health-export-path.argument.ts"
 import { restart as restartArgument } from "akasha/command/argument/pages/restart.argument.ts"
@@ -43,7 +42,6 @@ export type Taken = {
   readonly path: string | undefined
   readonly since: string
   readonly batch: number
-  readonly dryRun: boolean
   readonly restart: boolean
 }
 
@@ -51,7 +49,6 @@ export type Reading = Taken | { readonly refusals: readonly string[] }
 
 export function taken(argv: readonly string[], calledAs: string): Reading {
   const read = takenFor(argv, calledAs, page, [
-    dryRunArgument,
     healthExportPath,
     batchArgument,
     restartArgument,
@@ -75,7 +72,6 @@ export function taken(argv: readonly string[], calledAs: string): Reading {
     path: held.healthExportPath,
     since: held.firstDay,
     batch: held.batch,
-    dryRun: held.dryRun,
     restart: held.restart,
   }
 }
@@ -84,7 +80,7 @@ function minuteOf(ms: number | undefined): string {
   return ms === undefined ? NOTHING : new Date(ms).toISOString().slice(0, 16).replace("T", " ")
 }
 
-export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly string[] {
+export function linesOf(outcome: ImportOutcome): readonly string[] {
   const said: string[] = [
     `import\t${HEALTH}\t${outcome.sourceFile ?? NOTHING}`,
     `exported\t${minuteOf(outcome.exportedAtMs)} UTC`,
@@ -104,12 +100,6 @@ export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly strin
   for (const [why, many] of Object.entries(outcome.tally.rejected)) {
     if (many > 0) said.push(`refused\t${why}\t${many}`)
   }
-  if (dryRun) {
-    said.push(
-      `dry-run\tnothing was written; run it again without \`${dryRunArgument.said}\` to carry it out`
-    )
-    return said
-  }
   said.push(`batches\t${outcome.batches}`)
   said.push(`inserted\t${outcome.write.inserted}`)
   said.push(`already filed\t${outcome.write.unchanged}`)
@@ -117,8 +107,8 @@ export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly strin
   return said
 }
 
-function readingLines(outcome: ImportOutcome, dryRun: boolean, atMs: number): readonly string[] {
-  const read = importReading(outcome, { dryRun, observedAtMs: atMs })
+function readingLines(outcome: ImportOutcome, atMs: number): readonly string[] {
+  const read = importReading(outcome, { observedAtMs: atMs })
   const said = [`reading\t${read.state}\t${read.reason}`]
   for (const one of read.findings) {
     said.push(one.at === null ? `finding\t${one.detail}` : `finding\t${one.at}\t${one.detail}`)
@@ -143,7 +133,6 @@ export async function healthImported(
         {
           sinceDay: held.since,
           batchSize: held.batch,
-          dryRun: held.dryRun,
           restart: held.restart,
           onProgress: () => undefined,
         },
@@ -151,7 +140,7 @@ export async function healthImported(
         done
       )
       if (outcome.sourceFile === null) return keeping(done, refused(NO_EXPORT, DATA))
-      return told([...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)])
+      return told([...linesOf(outcome), ...readingLines(outcome, atMs)])
     })
   )
 }
@@ -164,10 +153,7 @@ function reaching(held: Taken): ImportRunDeps {
   })
   return {
     openStream: () => streamExportLines(script),
-    writeBatch: async (samples, done) => {
-      if (held.dryRun) throw new Error("a dry run reached the writer, which writes nothing")
-      return await upsertHealthSamples({ samples }, done)
-    },
+    writeBatch: async (samples, done) => await upsertHealthSamples({ samples }, done),
   }
 }
 
