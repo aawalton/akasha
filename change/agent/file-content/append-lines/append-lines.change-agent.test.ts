@@ -13,7 +13,7 @@ const AT = "akasha/one/held.jsonl"
 
 const REACHES = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 
-const APPENDING: Reaching = (_world, at, given) => {
+const appending: Reaching = (_world, at, given) => {
   if (at !== REACHES) return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   const asked = given as { readonly at: string; readonly content: string }
   return Promise.resolve(stating([{ kind: "append", path: asked.at, content: asked.content }]))
@@ -28,7 +28,7 @@ function worldOf(held: Readonly<Record<string, string>>): World {
     under: () => [],
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
-    reaching: APPENDING,
+    reaching: appending,
   }
 }
 

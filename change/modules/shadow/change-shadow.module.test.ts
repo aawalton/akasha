@@ -30,8 +30,8 @@ import {
   GENERATED_AT,
   IN_ORDER,
   LOOSE,
-  NESTING,
   NO_BODY,
+  nesting,
   OTHER,
   REMOVE_FILE,
   REORDERED,
@@ -379,7 +379,7 @@ test("an edit that will not replay onto a world throws rather than answering", (
 
 test("a reach inside a change states an edit the reach around that change states again", async () => {
   const root = indexedRepo()
-  const ledger = ledgerAt(root, textIn(root), NESTING)
+  const ledger = ledgerAt(root, textIn(root), nesting)
 
   const said = await reach(ledger, AROUND as never, { at: AT, body: "held\n" })
 

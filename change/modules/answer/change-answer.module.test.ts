@@ -142,10 +142,10 @@ test("a move onto a path holding no characters is answered", () => {
   })
 })
 
-const BYTES: BodyOf = (path) => (path === AWAY ? NOT_TEXT : null)
+const bytes: BodyOf = (path) => (path === AWAY ? NOT_TEXT : null)
 
 test("a remove of a body that is not text answers no body under the path", () => {
-  expect(expanded({ kind: "remove", path: AWAY }, BYTES)).toEqual({
+  expect(expanded({ kind: "remove", path: AWAY }, bytes)).toEqual({
     left: { path: AWAY, body: null },
   })
 })
@@ -153,25 +153,25 @@ test("a remove of a body that is not text answers no body under the path", () =>
 test("a move carries a body that is not text to the path moved to", () => {
   const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
 
-  expect(expanded(one, BYTES)).toEqual({ left: { path: AT, body: NOT_TEXT, from: AWAY } })
+  expect(expanded(one, bytes)).toEqual({ left: { path: AT, body: NOT_TEXT, from: AWAY } })
 })
 
 test("a replace worked in a body that is not text is refused", () => {
   const one = { kind: "replace", path: AWAY, contentFrom: "two", contentTo: "three" } as const
 
-  expect(expanded(one, BYTES)).toEqual({
+  expect(expanded(one, bytes)).toEqual({
     refused: `\`${AWAY}\` is not text, so no passage in it is changed`,
   })
 })
 
 test("an append onto a body that is not text is refused", () => {
-  expect(expanded({ kind: "append", path: AWAY, content: "one" }, BYTES)).toEqual({
+  expect(expanded({ kind: "append", path: AWAY, content: "one" }, bytes)).toEqual({
     refused: `\`${AWAY}\` is not text, so nothing is put at the end of it`,
   })
 })
 
 test("an add onto a path holding a body that is not text is refused", () => {
-  expect(expanded({ kind: "add", path: AWAY, content: "one" }, BYTES)).toEqual({
+  expect(expanded({ kind: "add", path: AWAY, content: "one" }, bytes)).toEqual({
     refused: `\`${AWAY}\` holds a body already, so nothing is added`,
   })
 })

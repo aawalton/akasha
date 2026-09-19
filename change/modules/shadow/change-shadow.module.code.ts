@@ -109,7 +109,7 @@ export function facingHeld(world: World): Facing {
 
 export const NOTHING_OVER: Answer = { edits: [], refused: null }
 
-const REACHES_NOTHING: Reaching = (_world, at) =>
+const reachesNothing: Reaching = (_world, at) =>
   Promise.resolve(refusing(`\`${at}\` is reached by no runner, so no change was run`))
 
 export type Reaches = keyof AgentChanges | keyof MechanicalChanges
@@ -151,7 +151,7 @@ function withheld(world: World, facing: Facing, said: Answer): Reached {
 
 export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
   const facing = facingHeld(world)
-  const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
+  const said = await (world.reaching ?? reachesNothing)(world, at, given)
   if (said.refused !== null) return { said, world }
   const was = new Map<string, string | null>()
   for (const one of said.edits) {
@@ -212,7 +212,7 @@ export function changeOver(root: string, said: Answer, textOf: BodyOf): Change {
 export function worldAt(
   root: string,
   bodyOf: BodyOf,
-  reaching: Reaching = REACHES_NOTHING,
+  reaching: Reaching = reachesNothing,
   textOf: (path: string) => string | null = narrowed(bodyOf)
 ): World {
   const index = shadowAt(root).index
@@ -308,7 +308,7 @@ function settledIn(kept: Kept): Answering {
 export function ledgerAt(
   root: string,
   bodyOf: BodyOf,
-  reaching: Reaching = REACHES_NOTHING,
+  reaching: Reaching = reachesNothing,
   textOf: (path: string) => string | null = narrowed(bodyOf)
 ): Ledger {
   const kept: Kept = {

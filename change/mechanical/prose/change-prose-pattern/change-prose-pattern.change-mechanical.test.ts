@@ -8,8 +8,8 @@ import {
   BODIES,
   ONE,
   ONE_AT,
-  PARSING,
   PATTERNS,
+  parsing,
   SPELLINGS,
   TWO,
   TWO_AT,
@@ -35,7 +35,7 @@ function worldOf(
 test("every passage a banned term is written in is restated in this one answer", async () => {
   const world = worldOf()
 
-  const said = await changeProsePattern(world, ASKED, PARSING)
+  const said = await changeProsePattern(world, ASKED, parsing)
 
   expect(bodyAnswered(said, world, ONE_AT)).toContain(`saying: "a page has a value",`)
   expect(bodyAnswered(said, world, ONE_AT)).toContain(`statement: "a page has one",`)
@@ -45,7 +45,7 @@ test("every passage a banned term is written in is restated in this one answer",
 test("two passages in one body are answered by one edit", async () => {
   const world = worldOf()
 
-  const said = await changeProsePattern(world, ASKED, PARSING)
+  const said = await changeProsePattern(world, ASKED, parsing)
 
   const held = said.edits.filter((one) => one.kind === "replace" && one.path === ONE_AT)
 
@@ -57,7 +57,7 @@ test("no rung beneath is reached", async () => {
   const seen: string[] = []
   const world = worldOf(BODIES, VALUES, seen)
 
-  const said = await changeProsePattern(world, ASKED, PARSING)
+  const said = await changeProsePattern(world, ASKED, parsing)
 
   expect(said.refused).toBeNull()
   expect(seen).toEqual([])
@@ -66,7 +66,7 @@ test("no rung beneath is reached", async () => {
 test("a count handed in holds how many passages one run restates", async () => {
   const world = worldOf()
 
-  const said = await changeProsePattern(world, { ...ASKED, count: 1 }, PARSING)
+  const said = await changeProsePattern(world, { ...ASKED, count: 1 }, parsing)
 
   expect([...new Set(pathsIn(said))]).toEqual([ONE_AT])
   expect(bodyAnswered(said, world, ONE_AT)).toContain(`statement: "a page holds one",`)
@@ -75,21 +75,21 @@ test("a count handed in holds how many passages one run restates", async () => {
 test("one passage refused refuses the whole, and the refusal names that page", async () => {
   const world = worldOf({ ...BODIES, [ONE_AT]: "const one = 1\n" })
 
-  const said = await changeProsePattern(world, ASKED, PARSING)
+  const said = await changeProsePattern(world, ASKED, parsing)
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(ONE_AT)
 })
 
 test("a run stating no pair is refused", async () => {
-  const said = await changeProsePattern(worldOf(), { spellings: SPELLINGS, patterns: [] }, PARSING)
+  const said = await changeProsePattern(worldOf(), { spellings: SPELLINGS, patterns: [] }, parsing)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("no pair is handed in, so nothing says what is written instead")
 })
 
 test("a run stating no spelling is refused", async () => {
-  const said = await changeProsePattern(worldOf(), { spellings: [], patterns: PATTERNS }, PARSING)
+  const said = await changeProsePattern(worldOf(), { spellings: [], patterns: PATTERNS }, parsing)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("no spelling is handed in, so no passage is found")
@@ -99,7 +99,7 @@ test("a repository stating the term nowhere is refused by the plainest spelling"
   const said = await changeProsePattern(
     worldOf(BODIES, new Map([[TWO_AT, { ...TWO, saying: "a page has a value" }]])),
     ASKED,
-    PARSING
+    parsing
   )
 
   expect(said.edits).toEqual([])

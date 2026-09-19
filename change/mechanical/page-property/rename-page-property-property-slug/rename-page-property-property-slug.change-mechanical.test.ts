@@ -116,7 +116,7 @@ const BY_A_RECORD: readonly Declaring[] = [
 
 const REACHED: string[] = []
 
-const REACHES: Reaching = (_world, at) => {
+const reaches: Reaching = (_world, at) => {
   REACHED.push(at)
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -141,7 +141,7 @@ function worldIn(
       everyPath: () => Object.keys(bodies),
       fileKeysAt: () => new Map<string, string | null>(),
     } as never,
-    reaching: REACHES,
+    reaching: reaches,
   }
 }
 

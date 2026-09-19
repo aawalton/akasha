@@ -24,13 +24,13 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 const REACHED: string[] = []
 
-const REACHES: Reaching = (_world, at) => {
+const reaches: Reaching = (_world, at) => {
   REACHED.push(at)
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
 test("every page holding the key out of order is answered in this one answer", () => {
-  const world = worldFor(BODIES, VALUES, REACHES)
+  const world = worldFor(BODIES, VALUES, reaches)
 
   const said = runChange(world, { pageType: TYPE, key: KEY })
 
@@ -43,7 +43,7 @@ test("every page holding the key out of order is answered in this one answer", (
 
 test("one page's property is answered by one edit over that property", () => {
   const held = { [ONE_AT]: sectionAt("one", MANY) }
-  const world = worldFor(held, valued({ [ONE_AT]: MANY }), REACHES)
+  const world = worldFor(held, valued({ [ONE_AT]: MANY }), reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
@@ -52,7 +52,7 @@ test("one page's property is answered by one edit over that property", () => {
 
 test("the values of a page carried come out in the order they sort in", () => {
   const held = { [ONE_AT]: sectionAt("one", MANY) }
-  const world = worldFor(held, valued({ [ONE_AT]: MANY }), REACHES)
+  const world = worldFor(held, valued({ [ONE_AT]: MANY }), reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
@@ -71,7 +71,7 @@ test("a list already in order carries nothing", () => {
 })
 
 test("the spelling a value already has is the spelling that value keeps", () => {
-  const world = worldFor({ [ONE_AT]: SPELLED }, valued({ [ONE_AT]: ["beta", "alpha"] }), REACHES)
+  const world = worldFor({ [ONE_AT]: SPELLED }, valued({ [ONE_AT]: ["beta", "alpha"] }), reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
@@ -80,7 +80,7 @@ test("the spelling a value already has is the spelling that value keeps", () => 
 })
 
 test("a key holding no list is passed over rather than refused here", () => {
-  const world = worldFor(BODIES, new Map([[ONE_AT, { [KEY]: "alpha" } as Value]]), REACHES)
+  const world = worldFor(BODIES, new Map([[ONE_AT, { [KEY]: "alpha" } as Value]]), reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
@@ -89,7 +89,7 @@ test("a key holding no list is passed over rather than refused here", () => {
 })
 
 test("a page type the index does not name is refused here", () => {
-  const world = worldFor(BODIES, VALUES, REACHES, null)
+  const world = worldFor(BODIES, VALUES, reaches, null)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
@@ -98,7 +98,7 @@ test("a page type the index does not name is refused here", () => {
 })
 
 test("a count handed in bounds how many pages one answer carries values on", () => {
-  const world = worldFor(BODIES, VALUES, REACHES)
+  const world = worldFor(BODIES, VALUES, reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY, atMost: 1 })
 
@@ -107,7 +107,7 @@ test("a count handed in bounds how many pages one answer carries values on", () 
 })
 
 test("a page stating no list under the key is refused by its path", () => {
-  const world = worldFor({ ...BODIES, [TWO_AT]: "const two = 1\n" }, VALUES, REACHES)
+  const world = worldFor({ ...BODIES, [TWO_AT]: "const two = 1\n" }, VALUES, reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
@@ -117,7 +117,7 @@ test("a page stating no list under the key is refused by its path", () => {
 
 test("no rung beneath is reached", () => {
   REACHED.length = 0
-  const world = worldFor(BODIES, VALUES, REACHES)
+  const world = worldFor(BODIES, VALUES, reaches)
 
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 

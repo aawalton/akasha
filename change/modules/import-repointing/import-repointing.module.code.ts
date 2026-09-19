@@ -41,7 +41,7 @@ export type Landing = (path: string) => string | null
 
 export type Known = (path: string) => boolean
 
-const NAMES_NOTHING: Known = () => false
+const namesNothing: Known = () => false
 
 function stemOf(path: string): string {
   const name = basename(path)
@@ -322,7 +322,7 @@ function hasPath(names: Known, path: string): boolean {
 function landingFor(world: World, given: Given): Landing {
   const carried = given.carried
   if (carried !== undefined) {
-    const names = world.names ?? NAMES_NOTHING
+    const names = world.names ?? namesNothing
     return (path) => (hasPath(names, path) ? landedAt(path, carried.from, carried.to) : null)
   }
   const moved = mapFor(given.moved ?? NOTHING_MOVED)
@@ -334,7 +334,7 @@ export function repointed(world: World, given: Given): Said {
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
   const landing = landingFor(world, given)
-  const known = world.names ?? NAMES_NOTHING
+  const known = world.names ?? namesNothing
   if (CODE.has(extname(given.now))) {
     return changeImports(given.was, given.now, held, landing, known)
   }

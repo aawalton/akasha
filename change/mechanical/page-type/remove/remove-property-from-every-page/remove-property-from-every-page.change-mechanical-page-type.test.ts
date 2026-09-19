@@ -23,7 +23,7 @@ const KEY = "heldBy"
 
 const REACHED: string[] = []
 
-const REACHES: Reaching = (_world, at) => {
+const reaches: Reaching = (_world, at) => {
   REACHED.push(at)
   return Promise.resolve({ edits: [], refused: null })
 }
@@ -64,7 +64,7 @@ function worldFor(
   listed: readonly string[]
 ): World {
   const values = new Map(listed.map((path) => [path, HOLDS]))
-  return worldOfType(TYPE, bodies, carried, values, REACHES)
+  return worldOfType(TYPE, bodies, carried, values, reaches)
 }
 
 const EVERY = [ONE_AT, TWO_AT]

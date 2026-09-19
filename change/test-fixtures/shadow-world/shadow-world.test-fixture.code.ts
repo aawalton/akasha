@@ -401,7 +401,7 @@ export const NO_BODY = `\`${AT}\` holds no body, so nothing is taken away`
 
 export const WRITING: Reaching = runningChange
 
-export const NESTING: Reaching = async (world, at, given) => {
+export const nesting: Reaching = async (world, at, given) => {
   if (at !== AROUND) return await WRITING(world, at, given)
   return (await reach(world, ADD_FILE as never, given)).said
 }

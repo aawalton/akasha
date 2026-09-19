@@ -121,7 +121,7 @@ function tokensOf(text: string): DepToken[] {
   })
 }
 
-export const PARSING: Parsing = (text) => {
+export const parsing: Parsing = (text) => {
   if (!text.includes(HOLDS)) return Promise.resolve([])
   const tokens = tokensOf(text)
   return Promise.resolve([makeSentence({ text, start: 0, end: text.length, tokens })])
