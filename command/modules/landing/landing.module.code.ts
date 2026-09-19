@@ -14,6 +14,7 @@ import {
 } from "akasha/command/modules/beside-sweeping/beside-sweeping.module.code.ts"
 import {
   commitNamed,
+  machineOver,
   unfresh,
 } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import {
@@ -370,10 +371,11 @@ export async function landing(
     }
   }
   const split = heldBack(root, edits)
+  const paths = edits.map((one) => one.path)
+  const machine = machineOver(root, paths, asRead, facing)
   const landed = holding(root, (): Held | Refused => {
     const base = baseOf(root)
-    const paths = edits.map((one) => one.path)
-    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing)
+    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing, machine)
     if (stale !== null) return { refusals: stale, code: DATA }
     const moving = movesHeld(
       moves,

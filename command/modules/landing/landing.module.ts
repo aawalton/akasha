@@ -205,8 +205,7 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The face saying which paths a machine writes is handed in rather than built inside the hold.",
+      statement: "Which paths a machine writes is worked out before the hold rather than in it.",
     },
     {
       decisionKind: "decision-kind/departure",

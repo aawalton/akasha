@@ -96,6 +96,16 @@ function unfreshPast(
   return [`${stirred.join(", ")} — what is on disk is not the body you read, ${PUT_BACK}`, tail]
 }
 
+export function machineOver(
+  root: string,
+  paths: readonly string[],
+  asRead: readonly Reading[],
+  given: Facing | null
+): ReadonlySet<string> {
+  const pathed = [...paths, ...asRead.map((one) => one.path)]
+  return given === null ? groupWrote(root, pathed) : machineWrote(given, pathed)
+}
+
 export function unfresh(
   root: string,
   named: string | null,
@@ -103,11 +113,11 @@ export function unfresh(
   paths: readonly string[],
   asRead: readonly Reading[],
   tail: string,
-  given: Facing | null = null
+  given: Facing | null = null,
+  machine: ReadonlySet<string> | null = null
 ): readonly string[] | null {
-  const pathed = [...paths, ...asRead.map((one) => one.path)]
-  const machine = given === null ? groupWrote(root, pathed) : machineWrote(given, pathed)
-  return unfreshPast(machine, root, named, base, paths, asRead, tail)
+  const held = machine ?? machineOver(root, paths, asRead, given)
+  return unfreshPast(held, root, named, base, paths, asRead, tail)
 }
 
 export function commitNamed(root: string, named: string): string | null {
