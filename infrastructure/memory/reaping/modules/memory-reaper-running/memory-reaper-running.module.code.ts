@@ -17,7 +17,7 @@ export async function runMemoryReaper(): Promise<void> {
   console.log(reaperConfigBanner())
   console.log(`memory-reaper: starting tick loop pid=${process.pid}`)
 
-  const state: ReaperState = { lastGlobalKillAtMs: null }
+  const state: ReaperState = { lastGlobalKillAtMs: null, availableKbAtLastKill: null }
 
   while (!ac.signal.aborted) {
     try {

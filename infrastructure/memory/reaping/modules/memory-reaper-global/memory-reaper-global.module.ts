@@ -26,12 +26,16 @@ export const memoryReaperGlobal = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing else is killed until the recovery window after a kill has elapsed.",
+      statement: "Nothing else is killed until the kill before it has had time to settle.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
         "The window resets the moment the leg reads clear rather than when that window expires.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The recovery window holds only while the memory the host has left is holding.",
     },
   ],
 } as const satisfies Module

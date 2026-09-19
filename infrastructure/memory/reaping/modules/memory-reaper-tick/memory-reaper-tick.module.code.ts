@@ -1,9 +1,11 @@
 import { leftSweptHere } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { readMemInfoKb } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 import {
+  GLOBAL_CRITICAL_AVAIL_KB,
   GLOBAL_MIN_AVAIL_KB,
   GLOBAL_MIN_FREE_SWAP_KB,
   LOG,
+  MIN_SETTLE_MS,
   RECOVERY_WINDOW_MS,
   THRESHOLD_KB,
   TREE_THRESHOLD_KB,
@@ -29,7 +31,10 @@ import {
 } from "akasha/infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"
 import { withTickDeadline } from "akasha/infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.code.ts"
 
-export type ReaperState = { lastGlobalKillAtMs: number | null }
+export type ReaperState = {
+  lastGlobalKillAtMs: number | null
+  availableKbAtLastKill: number | null
+}
 
 async function runReaperTick(
   state: ReaperState,
@@ -81,13 +86,21 @@ async function runReaperTick(
     nowMs: Date.now(),
     lastGlobalKillAtMs: state.lastGlobalKillAtMs,
     recoveryWindowMs: RECOVERY_WINDOW_MS,
+    availableKb,
+    availableKbAtLastKill: state.availableKbAtLastKill,
+    minSettleMs: MIN_SETTLE_MS,
+    criticalAvailKb: GLOBAL_CRITICAL_AVAIL_KB,
   })
-  if (recovery.recovered) state.lastGlobalKillAtMs = null
+  if (recovery.recovered) {
+    state.lastGlobalKillAtMs = null
+    state.availableKbAtLastKill = null
+  }
   let globalTarget: GlobalKillTarget | null = null
   if (globalDecision.kill && globalDecision.target !== null) {
     if (recovery.execute) {
       console.log(`${LOG} ${globalDecision.reason} (${recovery.reason})`)
       state.lastGlobalKillAtMs = Date.now()
+      state.availableKbAtLastKill = availableKb
       globalTarget = globalDecision.target
     } else {
       console.log(`${LOG} ${globalDecision.reason} — SUPPRESSED: ${recovery.reason}`)

@@ -94,11 +94,19 @@ export function assessGlobalKill(input: GlobalKillInput): GlobalKillDecision {
 
 export const GLOBAL_RECOVERY_WINDOW_SEC = 60
 
+export const GLOBAL_MIN_SETTLE_SEC = 10
+
+export const GLOBAL_CRITICAL_AVAIL_GB = 1
+
 export type RecoveryWindowInput = {
   globalTripped: boolean
   nowMs: number
   lastGlobalKillAtMs: number | null
   recoveryWindowMs: number
+  availableKb: number
+  availableKbAtLastKill: number | null
+  minSettleMs: number
+  criticalAvailKb: number
 }
 
 export type RecoveryWindowDecision = {
@@ -119,17 +127,42 @@ export function assessRecoveryWindow(input: RecoveryWindowInput): RecoveryWindow
     }
   }
   const elapsedMs = input.nowMs - input.lastGlobalKillAtMs
+  const elapsedSec = (elapsedMs / 1000).toFixed(0)
+  if (elapsedMs < input.minSettleMs) {
+    return {
+      execute: false,
+      recovered: false,
+      reason: `the kill ${elapsedSec}s ago has not settled yet — suppressing escalation`,
+    }
+  }
+  if (input.availableKb <= input.criticalAvailKb) {
+    const availGb = (input.availableKb / KB_PER_GB).toFixed(1)
+    return {
+      execute: true,
+      recovered: false,
+      reason: `MemAvailable ${availGb} GB leaves nothing to wait with — escalating inside the recovery window`,
+    }
+  }
+  if (input.availableKbAtLastKill !== null && input.availableKb < input.availableKbAtLastKill) {
+    const availGb = (input.availableKb / KB_PER_GB).toFixed(1)
+    const wasGb = (input.availableKbAtLastKill / KB_PER_GB).toFixed(1)
+    return {
+      execute: true,
+      recovered: false,
+      reason: `MemAvailable fell from ${wasGb} GB to ${availGb} GB since the kill ${elapsedSec}s ago — escalating inside the recovery window`,
+    }
+  }
   if (elapsedMs < input.recoveryWindowMs) {
     const remainingSec = ((input.recoveryWindowMs - elapsedMs) / 1000).toFixed(0)
     return {
       execute: false,
       recovered: false,
-      reason: `global leg still tripped but within recovery window (${remainingSec}s remaining) — suppressing escalation, waiting for MemAvailable to recover`,
+      reason: `global leg still tripped and MemAvailable is holding (${remainingSec}s of recovery window remaining) — suppressing escalation`,
     }
   }
   return {
     execute: true,
     recovered: false,
-    reason: `global leg still tripped ${(elapsedMs / 1000).toFixed(0)}s after last kill (recovery window elapsed) — escalating one more kill`,
+    reason: `global leg still tripped ${elapsedSec}s after last kill (recovery window elapsed) — escalating one more kill`,
   }
 }

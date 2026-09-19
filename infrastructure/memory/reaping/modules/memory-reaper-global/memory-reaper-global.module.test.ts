@@ -82,12 +82,20 @@ describe("assessGlobalKill", () => {
 describe("assessRecoveryWindow", () => {
   const windowMs = 60_000
 
+  const HOLDING = {
+    recoveryWindowMs: windowMs,
+    availableKb: 2 * KB_PER_GB,
+    availableKbAtLastKill: 2 * KB_PER_GB,
+    minSettleMs: 10_000,
+    criticalAvailKb: KB_PER_GB,
+  }
+
   test("resets the window the moment the leg reads clear", () => {
     const out = assessRecoveryWindow({
       globalTripped: false,
       nowMs: 1000,
       lastGlobalKillAtMs: 500,
-      recoveryWindowMs: windowMs,
+      ...HOLDING,
     })
     expect(out).toMatchObject({ execute: false, recovered: true })
   })
@@ -97,20 +105,57 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 1000,
       lastGlobalKillAtMs: null,
-      recoveryWindowMs: windowMs,
+      ...HOLDING,
     })
     expect(out.execute).toBe(true)
   })
 
-  test("suppresses inside the window", () => {
+  test("suppresses inside the window while the memory is holding", () => {
+    const out = assessRecoveryWindow({
+      globalTripped: true,
+      nowMs: 20_000,
+      lastGlobalKillAtMs: 0,
+      ...HOLDING,
+    })
+    expect(out.execute).toBe(false)
+    expect(out.reason).toContain("recovery window")
+  })
+
+  test("suppresses while the kill before it has not settled", () => {
     const out = assessRecoveryWindow({
       globalTripped: true,
       nowMs: 1000,
       lastGlobalKillAtMs: 0,
-      recoveryWindowMs: windowMs,
+      ...HOLDING,
+      availableKb: 0,
     })
     expect(out.execute).toBe(false)
-    expect(out.reason).toContain("recovery window")
+    expect(out.reason).toContain("settled")
+  })
+
+  test("breaks the window where the memory left is critical", () => {
+    const out = assessRecoveryWindow({
+      globalTripped: true,
+      nowMs: 20_000,
+      lastGlobalKillAtMs: 0,
+      ...HOLDING,
+      availableKb: KB_PER_GB / 2,
+    })
+    expect(out.execute).toBe(true)
+    expect(out.reason).toContain("nothing to wait with")
+  })
+
+  test("breaks the window where the memory fell since the kill", () => {
+    const out = assessRecoveryWindow({
+      globalTripped: true,
+      nowMs: 20_000,
+      lastGlobalKillAtMs: 0,
+      ...HOLDING,
+      availableKb: 1.5 * KB_PER_GB,
+      availableKbAtLastKill: 2 * KB_PER_GB,
+    })
+    expect(out.execute).toBe(true)
+    expect(out.reason).toContain("fell")
   })
 
   test("escalates once the window has elapsed", () => {
@@ -118,7 +163,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: windowMs + 1,
       lastGlobalKillAtMs: 0,
-      recoveryWindowMs: windowMs,
+      ...HOLDING,
     })
     expect(out.execute).toBe(true)
     expect(out.recovered).toBe(false)

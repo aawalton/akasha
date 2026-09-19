@@ -28,7 +28,8 @@ export const memoryReaping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A headroom kill is followed by a window in which that leg takes nothing else.",
+      statement:
+        "A headroom kill is followed by a window that holds only while the memory recovers.",
     },
     {
       decisionKind: "decision-kind/departure",
