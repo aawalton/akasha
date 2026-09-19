@@ -1,11 +1,10 @@
 {"artist":"artist/evynne-hollens"}
-{"externalIdentity":[{"source":"musicbrainz","externalId":"56e63873-a432-44aa-94ac-549594fc9c82","externalLink":"https://musicbrainz.org/work/56e63873-a432-44aa-94ac-549594fc9c82","lastSyncedAt":"2026-06-08"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"56e63873-a432-44aa-94ac-549594fc9c82","externalLink":"https://musicbrainz.org/work/56e63873-a432-44aa-94ac-549594fc9c82","lastSyncedAt":"2026-09-19"}]}
 {"id":"019ea4cf-2eb4-79dd-86eb-338d0bc43f03"}
 {"lyrics":"txt"}
 {"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"evynne-hollens-seasons-of-love"}
-{"songType":"derivative"}
 {"syncedLyrics":"txt"}
 {"title":"Seasons of Love"}
 {"type":"page-type/song"}
