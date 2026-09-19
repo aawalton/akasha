@@ -1,5 +1,8 @@
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { textIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textIn,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const SONG = "song"
 
@@ -48,6 +51,21 @@ export function looseTitle(title: string): string {
 
 export function songKey(artistSlug: string, title: string): string {
   return `${artistSlug}|${looseTitle(title)}`
+}
+
+export function songNamed(value: Value): string | null {
+  const said = textIn(value, SONG)
+  if (said === null) return null
+  return said.startsWith(`${SONG}/`) ? said.slice(SONG.length + 1) : said
+}
+
+export function valuesLinked(value: Value, song: string | null): Value {
+  const held: Value = { ...value }
+  if (song === null) {
+    delete held[SONG]
+    return held
+  }
+  return { ...held, [SONG]: `${SONG}/${song}` }
 }
 
 export function songsFiledIn(root: string): ReadonlyMap<string, string> {

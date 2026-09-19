@@ -58,5 +58,10 @@ export const songMatching = {
       decisionKind: "decision-kind/absence",
       statement: "A title holding no letter and no digit is keyed by the title itself.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The song a track names is read whether or not that song is written as an address.",
+    },
   ],
 } as const satisfies Module

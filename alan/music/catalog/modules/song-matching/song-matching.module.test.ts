@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import {
   compositionTitle,
   songKey,
+  songNamed,
   songSlugFor,
+  valuesLinked,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 
 const ORDINARY = "ariana-grande-ordinary-things"
@@ -78,6 +80,25 @@ test("two titles are one title where they hold the same letters and digits", () 
 
 test("a title left with nothing by what was dropped keeps itself instead", () => {
   expect(compositionTitle("(Live)")).toBe("(Live)")
+})
+
+test("the song a track names is read whether or not it is written as an address", () => {
+  expect(songNamed({ song: "song/aurora-runaway" })).toBe(RUNAWAY)
+  expect(songNamed({ song: "aurora-runaway" })).toBe(RUNAWAY)
+  expect(songNamed({})).toBeNull()
+})
+
+test("a track given a song names that song as an address", () => {
+  expect(valuesLinked({ title: "Runaway" }, RUNAWAY)).toEqual({
+    title: "Runaway",
+    song: "song/aurora-runaway",
+  })
+})
+
+test("a track naming a song no longer matched gives that song up", () => {
+  expect(valuesLinked({ title: "Runaway", song: "song/aurora-runaway" }, null)).toEqual({
+    title: "Runaway",
+  })
 })
 
 test("no title is matched to a song of another artist", () => {

@@ -12,8 +12,6 @@ import {
   artistUnder,
   songFiledOn,
   songMatched,
-  songNamed,
-  valuesLinked,
 } from "akasha/command/pages/music/link-songs/music-link-songs.command.code.ts"
 
 const ARTIST_AT = `${artist.slug}/${sylviaDaley.slug}` as const
@@ -85,23 +83,4 @@ test("a track matching no song has that song filed under the artist the release 
   expect(songMatched(filing.songs, BY_RELEASE, { ...ON_PIXIE, title: "Pixie Dust" })).toBe(
     "sylvia-daley-pixie-dust"
   )
-})
-
-test("the song a track names is read whether or not it is written as an address", () => {
-  expect(songNamed({ song: "song/sylvia-daley-elf" })).toBe("sylvia-daley-elf")
-  expect(songNamed({ song: "sylvia-daley-elf" })).toBe("sylvia-daley-elf")
-  expect(songNamed({})).toBeNull()
-})
-
-test("a track given a song names that song as an address", () => {
-  expect(valuesLinked({ title: "Elf" }, "sylvia-daley-elf")).toEqual({
-    title: "Elf",
-    song: "song/sylvia-daley-elf",
-  })
-})
-
-test("a track naming a song no longer matched gives that song up", () => {
-  expect(valuesLinked({ title: "Elf", song: "song/sylvia-daley-elf" }, null)).toEqual({
-    title: "Elf",
-  })
 })

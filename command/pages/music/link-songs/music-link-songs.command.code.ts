@@ -5,7 +5,11 @@ import {
   filingIn,
   songFiledFor,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
-import { songSlugFor } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import {
+  songNamed,
+  songSlugFor,
+  valuesLinked,
+} from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { composedEdit } from "akasha/change/modules/page-editing/page-editing.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -38,8 +42,6 @@ const TRACK = "track"
 const RELEASE = "release"
 
 const SONG = "song"
-
-const SONG_KEY = "song"
 
 const UNDER_ARTIST = "artist/"
 
@@ -100,12 +102,6 @@ export function artistByRelease(root: string): ReadonlyMap<string, string> {
   return byRelease
 }
 
-export function songNamed(value: Value): string | null {
-  const said = textIn(value, SONG_KEY)
-  if (said === null) return null
-  return said.startsWith(`${SONG}/`) ? said.slice(SONG.length + 1) : said
-}
-
 export function artistCredited(value: Value): string | null {
   const first = recordsIn(value[TRACK_ARTIST])[0]
   const name = first === undefined ? null : textIn(first, "artistName")
@@ -138,15 +134,6 @@ export function songFiledOn(
   const title = textIn(value, "title")
   if (artistSlug === null || title === null) return null
   return songFiledFor(filing, artistSlug, title)
-}
-
-export function valuesLinked(value: Value, song: string | null): Value {
-  const held: Value = { ...value }
-  if (song === null) {
-    delete held[SONG_KEY]
-    return held
-  }
-  return { ...held, [SONG_KEY]: `${SONG}/${song}` }
 }
 
 export function linkingIn(root: string, limit: number | null = null): Linking {
