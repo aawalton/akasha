@@ -239,5 +239,9 @@ export const propertyCarrying = {
       decisionKind: "decision-kind/gap",
       statement: "Nothing judges that a group's code writes the file the property names.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A caller wanting the page types alone is answered without every page under them.",
+    },
   ],
 } as const satisfies Module
