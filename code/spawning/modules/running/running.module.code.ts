@@ -39,6 +39,8 @@ const USAGE = "usage_usec "
 
 const POLL = 50
 
+const MARGIN = 2
+
 const SWEEPS = 20
 
 const MADE = "akasha-"
@@ -203,7 +205,7 @@ function budgetAt(): string | null {
 }
 
 function watching(at: string, ceiling: number): string {
-  const cap = String(Math.round(ceiling * MICROS))
+  const cap = String(Math.round(ceiling * MARGIN * MICROS))
   return (
     `const fs = require("node:fs")\n` +
     `const at = ${JSON.stringify(at)}\n` +

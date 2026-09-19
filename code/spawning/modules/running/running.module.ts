@@ -121,7 +121,7 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A process ended at its ceiling is answered as having died on a signal.",
+      statement: "A process ended for running away is answered as having died on a signal.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -259,7 +259,21 @@ export const running = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every process in the group is ended at once where those seconds go past the ceiling.",
+        "Every process in the group is ended at once where those seconds go past twice the ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run is ended at twice the ceiling its caller stated rather than at that ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run over its stated ceiling and under twice it runs to its own end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The seconds such a run is answered are what its caller reads its stated ceiling against.",
     },
     {
       decisionKind: "decision-kind/departure",

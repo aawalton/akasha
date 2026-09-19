@@ -25,6 +25,12 @@ test("a group stating no ceiling refuses nothing however long its check runs", (
   expect(ranOver({ ...GATHERED, checkCeiling: null }, "check", costing(600, 600))).toBe(null)
 })
 
+test("a run the watcher let by for being under twice its ceiling is refused here", () => {
+  const one = { ...GATHERED, auditCeiling: 15 }
+  expect(ranOver(one, "audit", costing(0, 15.041))?.path).toBe(BURNS_AT)
+  expect(ranOver(one, "audit", costing(0, 29.9))?.reason).toContain("over the 15 its page states")
+})
+
 test("the group whose code ran decides which group states the ceiling", () => {
   const one = { ...GATHERED, checkCeiling: 9, auditCeiling: 1 }
   expect(ranOver(one, "check", costing(2, 0))).toBe(null)

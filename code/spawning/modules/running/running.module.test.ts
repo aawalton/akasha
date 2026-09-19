@@ -188,10 +188,19 @@ test("a group that cannot be taken away once its run is over is said aloud", () 
   expect(ran(["bun", "-e", inner + run]).err).toMatch(/a group was left at .* 1 processes/)
 })
 
-test("a process given a ceiling is ended at that many processor seconds", () => {
+test("a process given a ceiling is ended at twice that many processor seconds", () => {
   const done = ran(["sh", "-c", "while :; do :; done"], { cpuCeiling: 0.3 })
   expect(done.signal).toBe("SIGKILL")
-  expect(done.cpuSeconds).toBeLessThan(1)
+  expect(done.cpuSeconds).toBeGreaterThan(0.5)
+  expect(done.cpuSeconds).toBeLessThan(1.2)
+})
+
+test("a run over its stated ceiling and under twice it runs to its own end", () => {
+  const spinning = "const at = Date.now(); while (Date.now() - at < 500) {}"
+  const done = ran(["bun", "-e", spinning], { cpuCeiling: 0.4 })
+  expect(done.signal).toBeNull()
+  expect(done.code).toBe(0)
+  expect(done.cpuSeconds).toBeGreaterThan(0.4)
 })
 
 test("a process given no ceiling runs to its own end", () => {
