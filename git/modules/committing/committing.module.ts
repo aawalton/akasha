@@ -51,6 +51,10 @@ export const committing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every folder those trees are built from is listed in one call rather than each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The git index is written after the branch moves.",
     },
     {

@@ -73,9 +73,29 @@ function entriesIn(said: string): readonly Entry[] {
   return held
 }
 
-function entriesOf(root: string, tree: string): readonly Entry[] {
-  const said = gitTold(root, ["ls-tree", tree])
-  return said === null ? [] : entriesIn(said)
+const ROOT_SPEC = "."
+
+function dirsIn(node: Node, at: string, found: string[]): undefined {
+  found.push(at)
+  for (const [name, sub] of node.dirs) dirsIn(sub, `${at}${name}/`, found)
+}
+
+function listedIn(
+  root: string,
+  tree: string,
+  dirs: readonly string[]
+): ReadonlyMap<string, readonly Entry[]> {
+  const found = new Map<string, Entry[]>()
+  for (const one of dirs) found.set(one, [])
+  const spec = dirs.map((one) => (one === "" ? ROOT_SPEC : one))
+  const said = gitTold(root, ["ls-tree", tree, "--", ...spec])
+  for (const one of said === null ? [] : entriesIn(said)) {
+    const cut = one.name.lastIndexOf("/")
+    const held = found.get(cut < 0 ? "" : one.name.slice(0, cut + 1))
+    if (held === undefined) continue
+    held.push({ ...one, name: one.name.slice(cut + 1) })
+  }
+  return found
 }
 
 function ordering(one: Entry, two: Entry): number {
@@ -115,22 +135,15 @@ function nodeOf(put: ReadonlyMap<string, string | null>): Node {
 
 function treeFrom(
   root: string,
-  from: string | null,
+  listed: ReadonlyMap<string, readonly Entry[]>,
   node: Node,
   modes: ReadonlyMap<string, string>,
   at: string
 ): string | null {
   const by = new Map<string, Entry>()
-  for (const one of from === null ? [] : entriesOf(root, from)) by.set(one.name, one)
+  for (const one of listed.get(at) ?? []) by.set(one.name, one)
   for (const [name, sub] of node.dirs) {
-    const there = by.get(name)
-    const made = treeFrom(
-      root,
-      there !== undefined && there.kind === TREE ? there.oid : null,
-      sub,
-      modes,
-      `${at}${name}/`
-    )
+    const made = treeFrom(root, listed, sub, modes, `${at}${name}/`)
     if (made === null) by.delete(name)
     else by.set(name, { mode: TREE_MODE, kind: TREE, oid: made, name })
   }
@@ -254,7 +267,10 @@ export function committed(
   const put = new Map<string, string | null>()
   for (const [path, body] of wrote) put.set(path, blobOf(root, body))
   for (const one of took) put.set(one, null)
-  const tree = treeFrom(root, was, nodeOf(put), modes, "") ?? madeFrom(root, [])
+  const node = nodeOf(put)
+  const dirs: string[] = []
+  dirsIn(node, "", dirs)
+  const tree = treeFrom(root, listedIn(root, was, dirs), node, modes, "") ?? madeFrom(root, [])
   if (tree === was) return null
   const writing = writer ?? AUTHOR
   const made = gitIn(root, [
