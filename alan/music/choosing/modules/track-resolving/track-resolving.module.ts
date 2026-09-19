@@ -52,9 +52,5 @@ export const trackResolving = {
       decisionKind: "decision-kind/departure",
       statement: "No device left to take is an operational error.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes a page.",
-    },
   ],
 } as const satisfies Module

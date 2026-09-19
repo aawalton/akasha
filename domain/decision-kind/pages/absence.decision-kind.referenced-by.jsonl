@@ -443,7 +443,6 @@
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.ts","id":"01a06281-4d9d-7003-a5cb-de0f475a7e60"}
-{"propertySlug":"decision-kind","path":"alan/music/choosing/modules/track-resolving/track-resolving.module.ts","id":"01a06281-4d9d-7004-9a0b-82fe940e4d95"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/music-choosing.domain.ts","id":"01a06281-4d9d-7000-8324-01f8e3c762a1"}
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/auth-cli/spotify-auth-cli.module.ts","id":"01a06261-dc1d-700c-a56a-b1a6269144c7"}
