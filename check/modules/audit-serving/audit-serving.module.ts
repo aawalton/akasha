@@ -179,7 +179,6 @@ export const auditServing = {
       decisionKind: "decision-kind/departure",
       statement: "A message names where what each check answered is kept.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement:
