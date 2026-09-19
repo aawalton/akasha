@@ -19,11 +19,8 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"
 import {
   ImportSummary,
-  InventoryImportSummary,
   importHadCaveats,
 } from "akasha/temper/web/modules/import-summaries/import-summaries.module.code.tsx"
 import { useTemperImport } from "akasha/temper/web/modules/use-temper-import/use-temper-import.module.code.ts"
@@ -32,7 +29,6 @@ import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 export function ImportPageContent() {
   const surface = useSurface()
   const path = `rounded ${surfaceClass(surface + 1)} px-1.5 py-0.5 text-xs`
-  const userId = useUserId()
   const {
     state,
     dragOver,
@@ -44,20 +40,7 @@ export function ImportPageContent() {
     reset,
   } = useTemperImport()
 
-  const {
-    state: inventoryState,
-    dragOver: inventoryDragOver,
-    inputRef: inventoryInputRef,
-    handleFileChange: handleInventoryFileChange,
-    handleDrop: handleInventoryDrop,
-    handleDragOver: handleInventoryDragOver,
-    handleDragLeave: handleInventoryDragLeave,
-    reset: resetInventory,
-  } = useInventoryImport(userId)
-
   const isProcessing = state.phase === "reading" || state.phase === "importing"
-  const isInventoryProcessing =
-    inventoryState.phase === "reading" || inventoryState.phase === "importing"
 
   return (
     <PageLayout>
@@ -191,71 +174,6 @@ export function ImportPageContent() {
           )}
 
           {isProcessing && <div className="sr-only pointer-events-none" />}
-
-          {}
-          <Card>
-            <CardContent className="space-y-2 text-secondary text-sm">
-              <p>
-                Upload your <strong className="text-primary">TemperInventory.lua</strong> saved
-                variables file to import your inventory data for companion gear tracking. It is
-                written by the <strong className="text-primary">TemperInventory</strong> add-on.
-              </p>
-              <p className="text-tertiary">
-                Default location:{" "}
-                <code className={path}>
-                  Documents/Elder Scrolls Online/live/SavedVariables/TemperInventory.lua
-                </code>
-              </p>
-            </CardContent>
-          </Card>
-
-          {inventoryState.phase === "idle" && (
-            <DropZone
-              label="Drop your TemperInventory.lua file here"
-              dragOver={inventoryDragOver}
-              inputRef={inventoryInputRef}
-              onDrop={handleInventoryDrop}
-              onDragOver={handleInventoryDragOver}
-              onDragLeave={handleInventoryDragLeave}
-              onFileChange={handleInventoryFileChange}
-            />
-          )}
-
-          {inventoryState.phase === "reading" && <ProcessingCard message="Reading file..." />}
-          {inventoryState.phase === "importing" && (
-            <ProcessingCard message="Importing inventory..." />
-          )}
-
-          {inventoryState.phase === "success" && (
-            <>
-              <Alert>
-                <CheckCircle2 className="text-primary" />
-                <AlertTitle>Inventory import complete</AlertTitle>
-                <AlertDescription>
-                  <InventoryImportSummary result={inventoryState.result} />
-                </AlertDescription>
-              </Alert>
-              <Button variant="secondary" onClick={resetInventory} className="w-fit">
-                <FileUp className="h-4 w-4" />
-                Import Another File
-              </Button>
-            </>
-          )}
-
-          {inventoryState.phase === "error" && (
-            <>
-              <Alert variant="destructive">
-                <AlertCircle />
-                <AlertTitle>Inventory import failed</AlertTitle>
-                <AlertDescription>{inventoryState.message}</AlertDescription>
-              </Alert>
-              <Button variant="secondary" onClick={resetInventory} className="w-fit">
-                Try Again
-              </Button>
-            </>
-          )}
-
-          {isInventoryProcessing && <div className="sr-only pointer-events-none" />}
         </div>
       </PageLayout.Content>
     </PageLayout>

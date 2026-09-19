@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/companions-ui/modules/use-companions/use-companions.module.code.ts"}
-{"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}

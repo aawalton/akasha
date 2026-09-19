@@ -5,6 +5,5 @@
 {"propertySlug":"import","fileName":"use-optimistic-create-page.module.code.ts","path":"page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"use-optimistic-create-page.module.code.ts","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"use-optimistic-create-page.module.code.ts","path":"temper/companions-ui/modules/use-companions/use-companions.module.code.ts"}
-{"propertySlug":"import","fileName":"use-optimistic-create-page.module.code.ts","path":"temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"}
 {"propertySlug":"import","fileName":"use-optimistic-create-page.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}
 {"propertySlug":"parts","path":"page/ui/supabase/mutation/page-ui-supabase-mutation.domain.ts","id":"01a071d2-6ff8-7914-854c-2f159045dd16"}

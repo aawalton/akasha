@@ -106,7 +106,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/stock-scope-select",
     "module/unmapped-items-panel-card",
     "module/use-destination-options",
-    "module/use-inventory-import",
     "module/use-inventory-rules-filter",
     "module/use-inventory-rules-settings-state",
     "module/use-inventory-rules-tab-affected-items",

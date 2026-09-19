@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/player-inventory-management-ui/modules/use-inventory-import/use-inventory-import.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
