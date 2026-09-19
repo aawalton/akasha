@@ -50,5 +50,9 @@ export const auth = {
       decisionKind: "decision-kind/constraint",
       statement: "No app shows a provider's screen in a webview of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "alanwalton.com is the login, and every other site is a peripheral of it.",
+    },
   ],
 } as const satisfies Domain
