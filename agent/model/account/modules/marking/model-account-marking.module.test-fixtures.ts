@@ -27,7 +27,9 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
@@ -40,6 +42,8 @@ const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
 const PAGES_AT = "akasha/agent/model/account/pages"
 
 const PROPERTY_TYPE = "text-property"
+
+const ABOVE = `${pageType.slug}/${page.slug}`
 
 export const RESETS_AT = "2026-09-05T00:00:00.000Z"
 
@@ -265,7 +269,7 @@ export function bareTypeIn(prefix: string): string {
 
 export function worldIn(root: string, declared: readonly Declared[] = ACCOUNT_DECLARED): string {
   typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, [], ABOVE_DECLARED)
-  typeWritten(root, ACCOUNT_TYPE, "model-account", TYPE_AT, ["page-type/page"], declared)
+  typeWritten(root, ACCOUNT_TYPE, "model-account", TYPE_AT, [ABOVE], declared)
   accountWritten(root, "aine", { fiveHourPercentUsed: 12, terminalAt: RESETS_AT })
   accountWritten(root, "aow", null)
   accountWritten(root, "ctw", { sevenDayPercentUsed: 40 })
