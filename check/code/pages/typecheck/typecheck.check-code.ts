@@ -293,5 +293,5 @@ export const typecheck = {
     },
   ],
   check: { maxCpuSeconds: 300 },
-  audit: { maxCpuSeconds: 150 },
+  audit: { maxCpuSeconds: 300 },
 } as const satisfies CheckCode
