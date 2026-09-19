@@ -28,7 +28,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/inventory-currency-panel-card",
     "module/inventory-filter-bar",
     "module/inventory-filter-types",
-    "module/inventory-import-types",
     "module/inventory-item-rules-panel",
     "module/inventory-location-data-content",
     "module/inventory-location-summary-panel-card",

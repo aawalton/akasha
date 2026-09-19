@@ -1,4 +1,3 @@
-import type { InventoryImportResult } from "akasha/temper/player-inventory-management-ui/modules/inventory-import-types/inventory-import-types.module.code.ts"
 import type { ImportResult } from "akasha/temper/web/modules/import-result/import-result.module.code.ts"
 
 type EntityStatus = ImportResult["account"]["status"]
@@ -66,24 +65,5 @@ export function ImportSummary({ result }: { result: ImportResult }) {
         </p>
       )}
     </div>
-  )
-}
-
-export function InventoryImportSummary({ result }: { result: InventoryImportResult }) {
-  const lines: string[] = []
-
-  lines.push(`${result.locationCount} location${result.locationCount !== 1 ? "s" : ""} scanned`)
-  lines.push(`${result.itemCount} item${result.itemCount !== 1 ? "s" : ""} indexed`)
-  if (result.totalValue > 0) {
-    lines.push(`Estimated value: ${Math.round(result.totalValue).toLocaleString()} gold`)
-  }
-  lines.push(`Inventory snapshot saved`)
-
-  return (
-    <ul className="list-inside list-disc">
-      {lines.map((line) => (
-        <li key={line}>{line}</li>
-      ))}
-    </ul>
   )
 }

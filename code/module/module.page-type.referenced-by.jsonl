@@ -5975,7 +5975,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-currency-panel-card/inventory-currency-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-filter-bar/inventory-filter-bar.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-import-types/inventory-import-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-item-rules-panel/inventory-item-rules-panel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.ts"}
