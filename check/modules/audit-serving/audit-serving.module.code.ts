@@ -1,6 +1,7 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { check as checkDomain } from "akasha/check/check.domain.ts"
 import {
   costKept,
   type Recording,
@@ -29,6 +30,7 @@ import {
 import { bytes, endingOf } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
@@ -50,7 +52,7 @@ const TURNS = ".local/state/workstation-services/audit-turns"
 
 const WAITED = 3_600_000
 
-const ANSWERS_FOR = "domain/check"
+const ANSWERS_FOR = `${domain.slug}/${checkDomain.slug}` as const
 
 const FALLBACK = "alan"
 
