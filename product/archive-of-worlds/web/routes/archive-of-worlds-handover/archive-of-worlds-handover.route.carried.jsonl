@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This route draws nothing, and answers with a redirect either way."},{"decisionKind":"decision-kind/departure","statement":"This route is reached without a session, because the code is what signs a reader in."}]}
+{"definition":"where a reader arrives from alanwalton.com carrying a code"}
+{"id":"01a0bb92-75ea-7d80-91b1-1a70858aeb5b"}
+{"slug":"archive-of-worlds-handover"}
+{"type":"page-type/route"}
+{"urlPath":"handover"}

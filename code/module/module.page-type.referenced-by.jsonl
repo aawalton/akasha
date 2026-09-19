@@ -2544,6 +2544,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.ts"}
@@ -6619,6 +6620,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-auth-page-content/temper-auth-page-content.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/text-area-panel-card/text-area-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/timing-badges/timing-badges.module.ts"}

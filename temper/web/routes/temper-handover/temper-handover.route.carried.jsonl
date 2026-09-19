@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This route draws nothing, and answers with a redirect either way."},{"decisionKind":"decision-kind/departure","statement":"This route is reached without a session, because the code is what signs a player in."},{"decisionKind":"decision-kind/departure","statement":"A code handed to any other host under tempereso.com is spent on tempereso.com."}]}
+{"definition":"where a player arrives from alanwalton.com carrying a code"}
+{"id":"01a0bb8f-d316-75c8-b3d6-0f9e6134e682"}
+{"slug":"temper-handover"}
+{"type":"page-type/route"}
+{"urlPath":"handover"}

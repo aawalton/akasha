@@ -47,6 +47,5 @@
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/modules/watcher-run-status-card/watcher-run-status-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/modules/watcher-sync-status-card/watcher-sync-status-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/routes/landing/landing.route.code.tsx"}
-{"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/routes/sign-in/sign-in.route.code.tsx"}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/routes/sign-up/sign-up.route.code.tsx"}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

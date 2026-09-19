@@ -1415,6 +1415,7 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-version/watcher-version.module.ts","id":"01a06370-eddf-7a1c-97ea-eec451828f6a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.ts","id":"01a0642d-9a17-737e-aba1-6edefa44c29f"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts","id":"01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}

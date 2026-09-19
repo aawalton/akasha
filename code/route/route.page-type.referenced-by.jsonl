@@ -88,6 +88,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-types/archive-of-worlds-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-write/archive-of-worlds-api-page-write.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-pages/archive-of-worlds-api-pages.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-handover/archive-of-worlds-handover.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-home/archive-of-worlds-home.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.ts"}
@@ -153,6 +154,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-character-build-hash/temper-character-build-hash.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-companion-build-hash/temper-companion-build-hash.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-handover/temper-handover.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-page-listing/temper-page-listing.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-user-completion/temper-user-completion.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/watcher/watcher.route.ts"}

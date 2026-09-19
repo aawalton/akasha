@@ -272,6 +272,7 @@ export const temperWeb = {
     "module/temper-app-shell",
     "module/temper-auth-page-content",
     "module/temper-declared-effects",
+    "module/temper-handover-site",
     "module/temper-pages-resolver",
     "module/text-area-panel-card",
     "module/timing-badges",

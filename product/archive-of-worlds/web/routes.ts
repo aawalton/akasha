@@ -12,7 +12,8 @@ export default [
       "routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.code.tsx"
     ),
   ]),
-  route("sign-in", "routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.code.tsx"),
+  route("handover", "routes/archive-of-worlds-handover/archive-of-worlds-handover.route.code.ts"),
+  route("sign-in", "routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.code.ts"),
   route("sign-up", "routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.code.tsx"),
   route("sign-out", "routes/archive-of-worlds-sign-out/archive-of-worlds-sign-out.route.code.ts"),
   route(

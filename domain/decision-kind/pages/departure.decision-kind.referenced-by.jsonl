@@ -3218,6 +3218,9 @@
 {"propertySlug":"decision-kind","path":"persona/wallpaper/persona-wallpaper.page-type.ts","id":"01a0655b-4a9b-700c-8243-c78f27e30dd7"}
 {"propertySlug":"decision-kind","path":"persona/wallpaper/properties/eso-day.text-property.ts","id":"01a060fb-040d-7f7f-bce8-a74c90df15bc"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/archive-of-worlds-web.router-app.ts","id":"01a06582-2737-7abe-a512-ecb40685ecf4"}
+{"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.ts","id":"01a0bb92-4d60-7a2d-a44a-b6ab161a858c"}
+{"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-handover/archive-of-worlds-handover.route.ts","id":"01a0bb92-75ea-7d80-91b1-1a70858aeb5b"}
+{"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.ts","id":"01a08281-abd1-7cef-b003-c8e010071b28"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts","id":"019e2701-19cb-71d9-a820-bddf28cec176"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/clear-the-world.domain.ts","id":"01a06579-e4f7-7351-8560-e330582149a8"}
@@ -5363,6 +5366,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.ts","id":"01a0642d-9a17-737e-aba1-6edefa44c29f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/tab-defaults/tab-defaults.module.ts","id":"01a0640f-850f-70cf-af93-e19e03bde002"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts","id":"01a0640f-8510-7199-93a8-3fa778720f68"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts","id":"01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts","id":"01a0640f-8510-7c72-8ea7-ff3cbcdf74b3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts","id":"01a0640f-8510-7137-a8d9-9ada066e759b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
@@ -5378,6 +5382,8 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-extract/api-watcher-upsert-pricing-extract.route.ts","id":"01a082fe-11cd-7a65-b8ed-c1dfdf1595f5"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-snapshot/api-watcher-upsert-pricing-snapshot.route.ts","id":"01a082fe-7dee-72e6-89a1-b20f7230159b"}
+{"propertySlug":"decision-kind","path":"temper/web/routes/sign-in/sign-in.route.ts","id":"01a08306-c2ad-71ec-bdd7-449e1708d6ea"}
+{"propertySlug":"decision-kind","path":"temper/web/routes/temper-handover/temper-handover.route.ts","id":"01a0bb8f-d316-75c8-b3d6-0f9e6134e682"}
 {"propertySlug":"decision-kind","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts","id":"01a08ee4-41a2-7873-81b7-b181807acb88"}
 {"propertySlug":"decision-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}

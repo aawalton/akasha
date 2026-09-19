@@ -14,6 +14,7 @@ export const archiveOfWorldsWebRoutes = {
     "route/archive-of-worlds-api-page-types",
     "route/archive-of-worlds-api-page-write",
     "route/archive-of-worlds-api-pages",
+    "route/archive-of-worlds-handover",
     "route/archive-of-worlds-home",
     "route/archive-of-worlds-page-detail",
     "route/archive-of-worlds-page-listing",

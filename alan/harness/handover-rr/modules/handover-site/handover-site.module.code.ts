@@ -23,7 +23,9 @@ export type Peripheral = {
 }
 
 export const PERIPHERALS = {
+  "archive-of-worlds": { origin: "https://archiveofworlds.app", landingPath: "/handover" },
   atlas: { origin: "https://atlas.alanwalton.com", landingPath: "/handover" },
+  temper: { origin: "https://tempereso.com", landingPath: "/handover" },
 } as const satisfies Readonly<Record<string, Peripheral>>
 
 export function peripheralNamed(name: string | null): Peripheral | null {

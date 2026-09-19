@@ -23,6 +23,7 @@ export const archiveOfWorldsWeb = {
     "manifest/archive-of-worlds-web-manifests",
     "module/archive-of-worlds-app-id",
     "module/archive-of-worlds-app-shell",
+    "module/archive-of-worlds-handover-site",
     "module/archive-of-worlds-nav-command",
     "module/archive-of-worlds-nav-items",
     "stylesheet/archive-of-worlds-web-look",

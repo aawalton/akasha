@@ -5,7 +5,7 @@
 {"definition":"the routes archiveofworlds.app serves to a browser"}
 {"gitIgnore":"gitignore"}
 {"id":"01a06582-2737-7abe-a512-ecb40685ecf4"}
-{"parts":["app-routes/archive-of-worlds-web-routes","manifest/archive-of-worlds-web-manifests","module/archive-of-worlds-app-id","module/archive-of-worlds-app-shell","module/archive-of-worlds-nav-command","module/archive-of-worlds-nav-items","stylesheet/archive-of-worlds-web-look"]}
+{"parts":["app-routes/archive-of-worlds-web-routes","manifest/archive-of-worlds-web-manifests","module/archive-of-worlds-app-id","module/archive-of-worlds-app-shell","module/archive-of-worlds-handover-site","module/archive-of-worlds-nav-command","module/archive-of-worlds-nav-items","stylesheet/archive-of-worlds-web-look"]}
 {"rootRoute":"tsx"}
 {"routeTable":"ts"}
 {"routeTypesDirectory":true}

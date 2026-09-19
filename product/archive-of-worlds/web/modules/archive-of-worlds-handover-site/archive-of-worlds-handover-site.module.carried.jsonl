@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The archive is named `archive-of-worlds` in a handover, and alanwalton.com knows that name."},{"decisionKind":"decision-kind/departure","statement":"The archive signs its own cookie with `ARCHIVE_OF_WORLDS_SESSION_KEY`."},{"decisionKind":"decision-kind/departure","statement":"A signed-in reader lands on `/`."}]}
+{"definition":"what the archive is called in a handover, where it answers, and the key it signs with"}
+{"id":"01a0bb92-4d60-7a2d-a44a-b6ab161a858c"}
+{"slug":"archive-of-worlds-handover-site"}
+{"type":"page-type/module"}
