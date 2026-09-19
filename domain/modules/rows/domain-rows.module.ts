@@ -114,6 +114,14 @@ export const domainRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Gathering what each page states is apart from working the domains out from it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gathered row holds what one page states and nothing read across pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every question one call asks is asked of one reading.",
     },
   ],

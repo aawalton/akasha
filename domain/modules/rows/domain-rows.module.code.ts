@@ -32,22 +32,41 @@ export type DomainRow = {
   readonly sequence: readonly string[]
 }
 
-type Held = {
+export type Filed = {
   readonly path: string
   readonly id: string
-  readonly value: Value
+  readonly parts: readonly string[]
+  readonly champions: string | null
+  readonly drawn: boolean
 }
 
-function heldOfType(reading: Reading, pageTypeSlug: string): readonly Held[] {
-  const found: Held[] = []
-  for (const one of valuesOfType(reading, pageTypeSlug)) {
-    const id = textAt(one.value, ID)
-    if (id !== null) found.push({ path: one.path, id, value: one.value })
+function filedOf(path: string, value: Value, drawn: boolean): Filed | null {
+  const id = textAt(value, ID)
+  if (id === null) return null
+  return { path, id, parts: partsIn(value), champions: textAt(value, CHAMPIONS), drawn }
+}
+
+function filedIn(given: string | Reading): readonly Filed[] {
+  const reading = readingIn(given)
+  const found = new Map<string, Filed>()
+  for (const one of valuesOfType(reading, PERSONA)) {
+    const made = filedOf(one.path, one.value, false)
+    if (made !== null) found.set(one.path, made)
   }
-  return found
+  for (const kind of [...kindsUnderDomain(reading)].sort()) {
+    for (const one of valuesOfType(reading, kind)) {
+      const made = filedOf(one.path, one.value, true)
+      if (made !== null) found.set(one.path, made)
+    }
+  }
+  return [...found.values()]
 }
 
-function personaSlugById(personas: readonly Held[]): ReadonlyMap<string, string> {
+function personasIn(filed: readonly Filed[]): readonly Filed[] {
+  return filed.filter((one) => partedIn(one.path)?.pageType === PERSONA)
+}
+
+function personaSlugById(personas: readonly Filed[]): ReadonlyMap<string, string> {
   const byId = new Map<string, string>()
   for (const one of personas) {
     const said = partedIn(one.path)
@@ -74,7 +93,7 @@ export function kindsUnderDomain(given: string | Reading): ReadonlySet<string> {
 }
 
 function couldBeChampioned(
-  personas: readonly Held[],
+  personas: readonly Filed[],
   addresses: ReadonlySet<string>
 ): ReadonlySet<string> {
   const bySlug = new Map<string, string[]>()
@@ -86,7 +105,7 @@ function couldBeChampioned(
   }
   const wanted = new Set<string>()
   for (const one of personas) {
-    const named = textAt(one.value, CHAMPIONS)
+    const named = one.champions
     if (named === null) continue
     if (named.includes("/")) {
       if (addresses.has(named)) wanted.add(named)
@@ -97,14 +116,10 @@ function couldBeChampioned(
   return wanted
 }
 
-export function domainsDrawn(given: string | Reading): readonly DomainRow[] {
-  const reading = readingIn(given)
-  const personas = heldOfType(reading, PERSONA)
+function domainsFrom(filed: readonly Filed[], reading: Reading): readonly DomainRow[] {
+  const personas = personasIn(filed)
   const personaBy = personaSlugById(personas)
-  const listed: Held[] = []
-  for (const kind of [...kindsUnderDomain(reading)].sort()) {
-    listed.push(...heldOfType(reading, kind))
-  }
+  const listed = filed.filter((one) => one.drawn)
   const addressById = new Map<string, string>()
   for (const one of listed) {
     const address = addressOf(one.path)
@@ -114,9 +129,7 @@ export function domainsDrawn(given: string | Reading): readonly DomainRow[] {
   const edges = listed.flatMap((one) => {
     const parent = addressById.get(one.id)
     if (parent === undefined) return []
-    return partsIn(one.value)
-      .filter((child) => addresses.has(child))
-      .map((child) => ({ child, parent }))
+    return one.parts.filter((child) => addresses.has(child)).map((child) => ({ child, parent }))
   })
   const parentsOf = Map.groupBy(edges, (one) => one.child)
   const naming = new Set(edges.map((one) => one.parent))
@@ -124,7 +137,7 @@ export function domainsDrawn(given: string | Reading): readonly DomainRow[] {
   for (const one of listed) {
     const address = addressById.get(one.id)
     if (address === undefined || !naming.has(address)) continue
-    sequenceOf.set(address, partsIn(one.value))
+    sequenceOf.set(address, one.parts)
   }
   const championed = couldBeChampioned(personas, addresses)
   const drawn: DomainRow[] = []
@@ -147,6 +160,11 @@ export function domainsDrawn(given: string | Reading): readonly DomainRow[] {
     })
   }
   return drawn
+}
+
+export function domainsDrawn(given: string | Reading): readonly DomainRow[] {
+  const reading = readingIn(given)
+  return domainsFrom(filedIn(reading), reading)
 }
 
 export function rowsFrom(drawn: readonly DomainRow[]): readonly PanelRow[] {
