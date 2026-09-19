@@ -100,6 +100,7 @@ export const command = {
     "namespace/refresh",
     "namespace/seat",
     "namespace/sms",
+    "namespace/story",
     "namespace/talos",
     "namespace/temper",
     "namespace/track",

@@ -1,0 +1,56 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const characterFiling = {
+  id: "01a0b6fd-c7fa-7619-85e1-ecea58423500",
+  type: "page-type/module",
+  slug: "character-filing",
+  definition: "a world's characters filed from what a reading of its chapters gathered",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character is filed under the slug the reading gave that character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character already filed is written again rather than filed twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a character already states and this filing does not is left as it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's claims are landed in the file beside its page rather than in the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two claims alike in every field are one claim.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A claim is filed under the chapter whose reading gathered that claim.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter is known by the label its page carries as a title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading whose chapter no page carries is passed over rather than guessed at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The first and last chapter a character has are the chapters its claims reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character whose claims reach no chapter states no first and no last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Characters are landed a batch at a time rather than all in one landing.",
+    },
+  ],
+} as const satisfies Module

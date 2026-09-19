@@ -9,5 +9,6 @@
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"page/id/modules/uuid-version-7/uuid-version-7.module.test.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"story/world-character/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"}
 {"propertySlug":"parts","path":"page/id/id.domain.ts","id":"01a05c48-deeb-7011-83b1-73490aa9b3ca"}

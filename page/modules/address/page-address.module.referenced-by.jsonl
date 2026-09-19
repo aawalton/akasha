@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/played/modules/played-shell/played-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/read/modules/reader-shell/reader-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world-character/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

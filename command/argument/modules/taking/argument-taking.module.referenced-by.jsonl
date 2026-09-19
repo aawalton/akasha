@@ -180,6 +180,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}

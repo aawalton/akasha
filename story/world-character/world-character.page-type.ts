@@ -8,6 +8,7 @@ export const worldCharacter = {
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
+    "module/character-filing",
     "number-property/event-count",
     "number-property/first-chapter",
     "number-property/last-chapter",

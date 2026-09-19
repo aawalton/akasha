@@ -172,6 +172,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/sms/send/sms-send.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/character-file/story-character-file.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/talos/apply/talos-apply.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.ts"}

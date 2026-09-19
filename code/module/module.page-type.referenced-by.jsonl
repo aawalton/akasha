@@ -2556,6 +2556,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/site/site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/wandering-inn/modules/syncing/syncing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world-character/modules/character-filing/character-filing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-build/modules/addon-bundling/addon-bundling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon-build/modules/addon-compiling/addon-compiling.module.ts"}
