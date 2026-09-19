@@ -10,17 +10,17 @@ export type TransformOptionalChainWithCaptureFn = (
   isDelete?: ts.DeleteExpression
 ) => ExpressionWithThisValue
 
-export const transformOptionalChainWithCaptureHolder: {
+export const TRANSFORM_OPTIONAL_CHAIN_WITH_CAPTURE_HOLDER: {
   fn: TransformOptionalChainWithCaptureFn | undefined
 } = {
   fn: undefined,
 }
 
 export function requireTransformOptionalChainWithCapture(): TransformOptionalChainWithCaptureFn {
-  if (transformOptionalChainWithCaptureHolder.fn === undefined) {
+  if (TRANSFORM_OPTIONAL_CHAIN_WITH_CAPTURE_HOLDER.fn === undefined) {
     throw new Error(
       "visitors/access: transformOptionalChainWithCapture not registered — visitors/optional-chaining must load before transform*AccessExpressionWithCapture is called"
     )
   }
-  return transformOptionalChainWithCaptureHolder.fn
+  return TRANSFORM_OPTIONAL_CHAIN_WITH_CAPTURE_HOLDER.fn
 }

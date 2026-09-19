@@ -26,7 +26,7 @@ import {
   transformAssignmentExpression,
   transformAssignmentStatement,
 } from "akasha/design/language/lua-compiler/modules/visit-assignments/visit-assignments.module.code.ts"
-import { transformBinaryOperationHolder } from "akasha/design/language/lua-compiler/modules/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
+import { TRANSFORM_BINARY_OPERATION_HOLDER } from "akasha/design/language/lua-compiler/modules/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
 import {
   type BitOperator,
   isBitOperator,
@@ -352,4 +352,4 @@ function transformNullishCoalescingOperationNoPrecedingStatements(
   }
 }
 
-transformBinaryOperationHolder.fn = transformBinaryOperation
+TRANSFORM_BINARY_OPERATION_HOLDER.fn = transformBinaryOperation

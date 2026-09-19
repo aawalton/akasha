@@ -7,17 +7,17 @@ export type IsOptimizedVarArgSpreadFn = (
   identifier: ts.Identifier
 ) => boolean | undefined
 
-export const isOptimizedVarArgSpreadHolder: {
+export const IS_OPTIMIZED_VAR_ARG_SPREAD_HOLDER: {
   fn: IsOptimizedVarArgSpreadFn | undefined
 } = {
   fn: undefined,
 }
 
 export function requireIsOptimizedVarArgSpread(): IsOptimizedVarArgSpreadFn {
-  if (isOptimizedVarArgSpreadHolder.fn === undefined) {
+  if (IS_OPTIMIZED_VAR_ARG_SPREAD_HOLDER.fn === undefined) {
     throw new Error(
       "utils/symbols: isOptimizedVarArgSpread not registered — visitors/spread must load before trackSymbolReference is called"
     )
   }
-  return isOptimizedVarArgSpreadHolder.fn
+  return IS_OPTIMIZED_VAR_ARG_SPREAD_HOLDER.fn
 }

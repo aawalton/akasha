@@ -17,7 +17,7 @@ import {
   transformAssignmentStatement,
 } from "akasha/design/language/lua-compiler/modules/visit-assignments/visit-assignments.module.code.ts"
 import { requireTransformBinaryOperation } from "akasha/design/language/lua-compiler/modules/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
-import { transformDestructuringAssignmentHolder } from "akasha/design/language/lua-compiler/modules/visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
+import { TRANSFORM_DESTRUCTURING_ASSIGNMENT_HOLDER } from "akasha/design/language/lua-compiler/modules/visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/modules/visit-property-name/visit-property-name.module.code.ts"
 import * as ts from "typescript"
 
@@ -376,4 +376,4 @@ function transformSpreadAssignment(
   return transformAssignment(context, node.expression, extractingExpression)
 }
 
-transformDestructuringAssignmentHolder.fn = transformDestructuringAssignment
+TRANSFORM_DESTRUCTURING_ASSIGNMENT_HOLDER.fn = transformDestructuringAssignment

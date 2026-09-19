@@ -7,17 +7,17 @@ export type TransformTypeOfBinaryExpressionFn = (
   node: ts.BinaryExpression
 ) => luaExpressions.Expression | undefined
 
-export const transformTypeOfBinaryExpressionHolder: {
+export const TRANSFORM_TYPE_OF_BINARY_EXPRESSION_HOLDER: {
   fn: TransformTypeOfBinaryExpressionFn | undefined
 } = {
   fn: undefined,
 }
 
 export function requireTransformTypeOfBinaryExpression(): TransformTypeOfBinaryExpressionFn {
-  if (transformTypeOfBinaryExpressionHolder.fn === undefined) {
+  if (TRANSFORM_TYPE_OF_BINARY_EXPRESSION_HOLDER.fn === undefined) {
     throw new Error(
       "binary-expression/index: transformTypeOfBinaryExpression not registered — visitors/typeof must load before transformBinaryExpression is called"
     )
   }
-  return transformTypeOfBinaryExpressionHolder.fn
+  return TRANSFORM_TYPE_OF_BINARY_EXPRESSION_HOLDER.fn
 }

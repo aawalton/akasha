@@ -22,7 +22,7 @@ import {
   transformPropertyAccessExpressionWithCapture,
 } from "akasha/design/language/lua-compiler/modules/visit-access/visit-access.module.code.ts"
 import { wrapInStatement } from "akasha/design/language/lua-compiler/modules/visit-expression-statement/visit-expression-statement.module.code.ts"
-import { transformOptionalChainWithCaptureHolder } from "akasha/design/language/lua-compiler/modules/visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
+import { TRANSFORM_OPTIONAL_CHAIN_WITH_CAPTURE_HOLDER } from "akasha/design/language/lua-compiler/modules/visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
 import type { ExpressionWithThisValue } from "akasha/design/language/lua-compiler/modules/visit-this-value-capture/visit-this-value-capture.module.code.ts"
 import * as ts from "typescript"
 
@@ -281,4 +281,4 @@ export function transformOptionalDeleteExpression(
   return luaExpressions.createBooleanLiteral(true, node)
 }
 
-transformOptionalChainWithCaptureHolder.fn = transformOptionalChainWithCapture
+TRANSFORM_OPTIONAL_CHAIN_WITH_CAPTURE_HOLDER.fn = transformOptionalChainWithCapture

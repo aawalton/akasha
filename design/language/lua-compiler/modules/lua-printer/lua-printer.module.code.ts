@@ -18,7 +18,7 @@ import type {
   SourceChunk,
 } from "akasha/design/language/lua-compiler/modules/lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import * as stmt from "akasha/design/language/lua-compiler/modules/lua-printer-statements/lua-printer-statements.module.code.ts"
-import { lualibPrinterHolder } from "akasha/design/language/lua-compiler/modules/lualib-builder-deps/lualib-builder-deps.module.code.ts"
+import { LUALIB_PRINTER_HOLDER } from "akasha/design/language/lua-compiler/modules/lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   loadImportedLualibFeatures,
   loadInlineLualibFeatures,
@@ -191,4 +191,4 @@ export function createLuaPrinter(
   return { print }
 }
 
-lualibPrinterHolder.fn = createLuaPrinter
+LUALIB_PRINTER_HOLDER.fn = createLuaPrinter

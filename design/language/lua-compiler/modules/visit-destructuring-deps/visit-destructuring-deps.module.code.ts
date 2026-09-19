@@ -10,17 +10,17 @@ export type TransformDestructuringAssignmentFn = (
   rightHasPrecedingStatements: boolean
 ) => readonly luaStatements.Statement[]
 
-export const transformDestructuringAssignmentHolder: {
+export const TRANSFORM_DESTRUCTURING_ASSIGNMENT_HOLDER: {
   fn: TransformDestructuringAssignmentFn | undefined
 } = {
   fn: undefined,
 }
 
 export function requireTransformDestructuringAssignment(): TransformDestructuringAssignmentFn {
-  if (transformDestructuringAssignmentHolder.fn === undefined) {
+  if (TRANSFORM_DESTRUCTURING_ASSIGNMENT_HOLDER.fn === undefined) {
     throw new Error(
       "binary-expression/assignments: transformDestructuringAssignment not registered — binary-expression/destructuring-assignments must load before transformAssignmentStatement is called"
     )
   }
-  return transformDestructuringAssignmentHolder.fn
+  return TRANSFORM_DESTRUCTURING_ASSIGNMENT_HOLDER.fn
 }

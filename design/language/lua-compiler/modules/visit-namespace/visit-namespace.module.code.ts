@@ -1,6 +1,6 @@
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
-import { moduleLocalNameHolder } from "akasha/design/language/lua-compiler/modules/export-deps/export-deps.module.code.ts"
+import { MODULE_LOCAL_NAME_HOLDER } from "akasha/design/language/lua-compiler/modules/export-deps/export-deps.module.code.ts"
 import {
   addExportToIdentifier,
   createExportedIdentifier,
@@ -42,7 +42,7 @@ function createModuleLocalName(
   return createModuleLocalNameIdentifier(context, module)
 }
 
-moduleLocalNameHolder.fn = createModuleLocalName
+MODULE_LOCAL_NAME_HOLDER.fn = createModuleLocalName
 
 function createModuleLocalNameIdentifier(
   context: TransformationContext,

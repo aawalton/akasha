@@ -7,15 +7,15 @@ export type CreateModuleLocalNameFn = (
   module: ts.ModuleDeclaration
 ) => luaExpressions.Expression
 
-export const moduleLocalNameHolder: { fn: CreateModuleLocalNameFn | undefined } = {
+export const MODULE_LOCAL_NAME_HOLDER: { fn: CreateModuleLocalNameFn | undefined } = {
   fn: undefined,
 }
 
 export function requireCreateModuleLocalName(): CreateModuleLocalNameFn {
-  if (moduleLocalNameHolder.fn === undefined) {
+  if (MODULE_LOCAL_NAME_HOLDER.fn === undefined) {
     throw new Error(
       "utils/export: createModuleLocalName not registered — visitors/namespace must load before createExportedIdentifier is called"
     )
   }
-  return moduleLocalNameHolder.fn
+  return MODULE_LOCAL_NAME_HOLDER.fn
 }

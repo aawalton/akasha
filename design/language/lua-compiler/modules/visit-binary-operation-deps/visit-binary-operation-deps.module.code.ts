@@ -15,17 +15,17 @@ export type TransformBinaryOperationFn = (
   node: ts.Node
 ) => WithPrecedingStatements<luaExpressions.Expression>
 
-export const transformBinaryOperationHolder: {
+export const TRANSFORM_BINARY_OPERATION_HOLDER: {
   fn: TransformBinaryOperationFn | undefined
 } = {
   fn: undefined,
 }
 
 export function requireTransformBinaryOperation(): TransformBinaryOperationFn {
-  if (transformBinaryOperationHolder.fn === undefined) {
+  if (TRANSFORM_BINARY_OPERATION_HOLDER.fn === undefined) {
     throw new Error(
       "binary-expression: transformBinaryOperation not registered — binary-expression/index must load before transformBinaryOperation is called"
     )
   }
-  return transformBinaryOperationHolder.fn
+  return TRANSFORM_BINARY_OPERATION_HOLDER.fn
 }

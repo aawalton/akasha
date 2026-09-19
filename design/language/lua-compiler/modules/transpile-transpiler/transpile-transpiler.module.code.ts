@@ -5,7 +5,7 @@ import {
   LuaLibImportKind,
   LuaTarget,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
-import { lualibTranspilerHolder } from "akasha/design/language/lua-compiler/modules/lualib-builder-deps/lualib-builder-deps.module.code.ts"
+import { LUALIB_TRANSPILER_HOLDER } from "akasha/design/language/lua-compiler/modules/lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   buildMinimalLualibBundle,
   findUsedLualibFeatures,
@@ -198,4 +198,4 @@ export function createTranspiler({ emitHost = ts.sys }: TranspilerOptions = {}):
   return { emit }
 }
 
-lualibTranspilerHolder.fn = createTranspiler
+LUALIB_TRANSPILER_HOLDER.fn = createTranspiler

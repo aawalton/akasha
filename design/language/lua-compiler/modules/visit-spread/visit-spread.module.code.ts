@@ -16,7 +16,7 @@ import {
   hasReferencedUndefinedLocalFunction,
   ScopeType,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import { isOptimizedVarArgSpreadHolder } from "akasha/design/language/lua-compiler/modules/symbols-deps/symbols-deps.module.code.ts"
+import { IS_OPTIMIZED_VAR_ARG_SPREAD_HOLDER } from "akasha/design/language/lua-compiler/modules/symbols-deps/symbols-deps.module.code.ts"
 import {
   findFirstNonOuterParent,
   isAlwaysArrayType,
@@ -75,7 +75,7 @@ function isOptimizedVarArgSpread(
   return true
 }
 
-isOptimizedVarArgSpreadHolder.fn = isOptimizedVarArgSpread
+IS_OPTIMIZED_VAR_ARG_SPREAD_HOLDER.fn = isOptimizedVarArgSpread
 
 export const transformSpreadElement: FunctionVisitor<ts.SpreadElement> = (node, context) => {
   const tsInnerExpression = ts.skipOuterExpressions(node.expression)
