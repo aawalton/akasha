@@ -7,7 +7,7 @@ export const ainePatreon = {
   domain: "domain/product",
   persona: "persona/aine",
   intentStack: [
-    { statement: "Alan has a Patreon page people can back him on." },
+    { statement: "Alan has a Ko-fi page people can back him on." },
     {
       statement:
         "A contributor is a page holding every contribution point transaction and the running balance.",
@@ -35,6 +35,11 @@ export const ainePatreon = {
       statement:
         "A feature request names each contributor backing it and the points committed, most first.",
     },
+    {
+      statement: "Ko-fi Gold is on before Alan's first member.",
+      workingMemory:
+        "Ko-fi cannot change the platform fee on a Stripe membership after that membership starts. A membership taken before Gold pays 5% for life; one taken while Gold is on pays nothing for life, even if Gold is cancelled afterwards. A new account defaults into the 5% tier, and Gold is $12 a month.",
+    },
   ],
   constraints: [
     "Each product carries a brand of its own and calls for backing on the one shared Patreon.",
@@ -46,5 +51,6 @@ export const ainePatreon = {
     "A contributor signs in at alanwalton.com, and the payment the vendor reports is matched to that sign-in by email address.",
     "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
     "A cent contributed earns one contribution point, and that rate is fixed until something proves it wrong.",
+    "Ko-fi takes the money, because Patreon's terms forbid leading a contributor from Patreon to Alan's own site, which this model requires.",
   ],
 } as const satisfies Initiative
