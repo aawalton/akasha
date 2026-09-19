@@ -1,0 +1,7 @@
+{"body":"the audit at 1025f84d29a08e85ec26d97ccd631ab7ca3fb8af found 1 check newly refusing.\n`tests-pass` refused 1 time:\n  check/modules/audit-job/audit-job.module.test.ts — Measured between 2026-09-19T03:10:14.310Z and 2026-09-19T03:21:57.447Z. 2 test files failed: check/modules/audit-job/audit-job.module.test.ts infrastructure/service/workstation/modules/serv... (3752 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0b7b0-8769-7000-8edd-e36eaf09cb72"}
+{"slug":"message-e36eaf09cb72"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
