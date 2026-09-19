@@ -6,7 +6,7 @@ import type { Reaching } from "akasha/change/modules/shadow/change-shadow.module
 
 const ADD_FILE = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
-export const REACHING: Reaching = (world, at, given) => {
+export const addFileReaching: Reaching = (world, at, given) => {
   if (at === ADD_FILE) {
     return Promise.resolve(runChange(world, given as { at: string; body: string }))
   }

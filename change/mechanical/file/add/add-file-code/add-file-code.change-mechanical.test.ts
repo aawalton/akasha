@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { dirname, join } from "node:path"
-import { REACHING } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
+import { addFileReaching } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
 import { runChange } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts"
 import { type World, worldAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
@@ -15,7 +15,7 @@ afterAll(scratch.sweep)
 const BODY = "export const fresh = 1\n"
 
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), REACHING)
+  return worldAt(root, textIn(root), addFileReaching)
 }
 
 test("a code path is written by the change this change reaches", async () => {

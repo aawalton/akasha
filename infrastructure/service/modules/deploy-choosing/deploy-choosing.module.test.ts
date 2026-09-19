@@ -13,7 +13,7 @@ import {
 
 const NOW = 1_000_000_000
 
-const EVERY: Wanting = () => true
+const everyone: Wanting = () => true
 
 const none: Wanting = () => false
 
@@ -36,7 +36,7 @@ function candidate(slug: string, some: Partial<Candidate> = {}): Candidate {
 }
 
 test("a service wanting a deploy is chosen", () => {
-  expect(chosenFrom([candidate("one")], NOW, EVERY)?.slug).toBe("one")
+  expect(chosenFrom([candidate("one")], NOW, everyone)?.slug).toBe("one")
 })
 
 test("a service wanting no deploy is chosen by nothing", () => {
@@ -56,12 +56,12 @@ test("a service with a deploy running is passed over without being asked", () =>
 
 test("a service inside its cooldown is passed over", () => {
   const one = candidate("one", { deployEndedAt: NOW - 30_000, cooldownSeconds: 60 })
-  expect(chosenFrom([one], NOW, EVERY)).toBe(null)
+  expect(chosenFrom([one], NOW, everyone)).toBe(null)
 })
 
 test("a service past its cooldown is chosen", () => {
   const one = candidate("one", { deployEndedAt: NOW - 61_000, cooldownSeconds: 60 })
-  expect(chosenFrom([one], NOW, EVERY)?.slug).toBe("one")
+  expect(chosenFrom([one], NOW, everyone)?.slug).toBe("one")
 })
 
 test("a service whose last deploy ended at no moment is past its cooldown", () => {
@@ -76,8 +76,8 @@ test("the cooldown a page states is the one waited out", () => {
 test("a service a service it depends on wants a deploy for is held back", () => {
   const one = candidate("one", { dependsOn: ["two"] })
   const two = candidate("two")
-  expect(heldBackBy(one, byName([one, two]), EVERY)).toEqual(["two"])
-  expect(chosenFrom([one, two], NOW, EVERY)?.slug).toBe("two")
+  expect(heldBackBy(one, byName([one, two]), everyone)).toEqual(["two"])
+  expect(chosenFrom([one, two], NOW, everyone)?.slug).toBe("two")
 })
 
 test("a service whose dependency wants nothing is not held back", () => {
@@ -90,41 +90,41 @@ test("holding back carries down a chain", () => {
   const one = candidate("one", { dependsOn: ["two"] })
   const two = candidate("two", { dependsOn: ["three"] })
   const three = candidate("three")
-  expect(chosenFrom([one, two, three], NOW, EVERY)?.slug).toBe("three")
+  expect(chosenFrom([one, two, three], NOW, everyone)?.slug).toBe("three")
 })
 
 test("a service naming a service that is nowhere is held back by nothing", () => {
   const one = candidate("one", { dependsOn: ["gone"] })
-  expect(chosenFrom([one], NOW, EVERY)?.slug).toBe("one")
+  expect(chosenFrom([one], NOW, everyone)?.slug).toBe("one")
 })
 
 test("the service furthest behind is chosen", () => {
   const one = candidate("one", { deployedAt: NOW - 1000 })
   const two = candidate("two", { deployedAt: NOW - 50_000 })
-  expect(chosenFrom([one, two], NOW, EVERY)?.slug).toBe("two")
+  expect(chosenFrom([one, two], NOW, everyone)?.slug).toBe("two")
 })
 
 test("a service never deployed is furthest behind of all", () => {
   const one = candidate("one", { deployedAt: NOW - 900_000 })
   const two = candidate("two", { deployedAt: null })
-  expect(chosenFrom([one, two], NOW, EVERY)?.slug).toBe("two")
+  expect(chosenFrom([one, two], NOW, everyone)?.slug).toBe("two")
 })
 
 test("two services equally far behind are ordered by slug", () => {
   const one = candidate("beta", { deployedAt: NOW - 5000 })
   const two = candidate("alpha", { deployedAt: NOW - 5000 })
-  expect(chosenFrom([one, two], NOW, EVERY)?.slug).toBe("alpha")
-  expect(chosenFrom([two, one], NOW, EVERY)?.slug).toBe("alpha")
+  expect(chosenFrom([one, two], NOW, everyone)?.slug).toBe("alpha")
+  expect(chosenFrom([two, one], NOW, everyone)?.slug).toBe("alpha")
 })
 
 test("two services never deployed are ordered by slug", () => {
   const one = candidate("beta", { deployedAt: null })
   const two = candidate("alpha", { deployedAt: null })
-  expect(chosenFrom([one, two], NOW, EVERY)?.slug).toBe("alpha")
+  expect(chosenFrom([one, two], NOW, everyone)?.slug).toBe("alpha")
 })
 
 test("a tick with nothing able chooses nothing", () => {
-  expect(chosenFrom([], NOW, EVERY)).toBe(null)
+  expect(chosenFrom([], NOW, everyone)).toBe(null)
 })
 
 test("a service behind the one chosen is never asked whether it wants a deploy", () => {

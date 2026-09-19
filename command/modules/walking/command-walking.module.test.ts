@@ -20,7 +20,7 @@ const TRACK_SESSION_AT = `${namespace.slug}/${trackSession.slug}` as const
 
 const TRACK_SESSION_OPEN_AT = `${command.slug}/${trackSessionOpen.slug}` as const
 
-const NAMED: Naming = (slug) =>
+const naming: Naming = (slug) =>
   ({ "track-session-open": "open", "track-session": "session", track: "track" })[slug] ?? null
 
 function level(type: string, slug: string, named: string, parts: readonly string[] = []): Level {
@@ -157,9 +157,9 @@ test("a walk taking no word is spelled as nothing", () => {
 })
 
 test("the words reaching a level are each name above it, ending with its own", () => {
-  expect(pathOf("track-session-open", NAMED)).toBe("track session open")
-  expect(pathOf("track-session", NAMED)).toBe("track session")
-  expect(pathOf("track", NAMED)).toBe("track")
+  expect(pathOf("track-session-open", naming)).toBe("track session open")
+  expect(pathOf("track-session", naming)).toBe("track session")
+  expect(pathOf("track", naming)).toBe("track")
 })
 
 test("a level whose own name carries a hyphen keeps that hyphen in one word", () => {

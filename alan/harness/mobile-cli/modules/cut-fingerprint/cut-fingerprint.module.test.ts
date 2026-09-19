@@ -154,30 +154,30 @@ describe("cutPageBody", () => {
 })
 
 describe("recordCutFingerprint", () => {
-  const COMMIT = "0f6062d9e734fcdb2ee190deca37f7a56328a2aa"
+  const commitSha = "0f6062d9e734fcdb2ee190deca37f7a56328a2aa"
 
-  const SLUG = cutPageNameFor("alanwalton", BASIS.buildNumber)
+  const pageSlug = cutPageNameFor("alanwalton", BASIS.buildNumber)
 
-  const PATH = `a/folder/${SLUG}/${SLUG}.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
+  const pagePath = `a/folder/${pageSlug}/${pageSlug}.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 
-  const FILED = filedSaid(SLUG, PATH)
+  const filedReport = filedSaid(pageSlug, pagePath)
 
   function filing(over: Partial<Filing> = {}): Filing {
     return {
       rooted: () => "/a/checkout",
-      pathed: () => PATH,
+      pathed: () => pagePath,
       changed: (_root, _asked, _message, writing) => {
-        writing?.done?.push(COMMIT)
+        writing?.done?.push(commitSha)
         return Promise.resolve({
           base: "HEAD",
-          landed: [PATH],
+          landed: [pagePath],
           formatted: [],
           said: [],
           wrong: [],
-          commit: COMMIT,
+          commit: commitSha,
         })
       },
-      valued: () => ({ slug: SLUG }),
+      valued: () => ({ slug: pageSlug }),
       ...over,
     }
   }
@@ -192,7 +192,7 @@ describe("recordCutFingerprint", () => {
     const done: string[] = []
 
     await recordCutFingerprint("alanwalton", BASIS, done, filing())
-    expect(done).toEqual([COMMIT, FILED])
+    expect(done).toEqual([commitSha, filedReport])
   })
 
   test("a filing whose page will not read still names the commit that took it", async () => {
@@ -202,10 +202,10 @@ describe("recordCutFingerprint", () => {
     })
 
     expect(held.code).toBe(OPERATIONAL)
-    expect(held.report).toEqual([COMMIT, FILED])
+    expect(held.report).toEqual([commitSha, filedReport])
     const last = held.refusals[held.refusals.length - 1] as string
-    expect(last).toContain(COMMIT)
-    expect(last).toContain(FILED)
+    expect(last).toContain(commitSha)
+    expect(last).toContain(filedReport)
   })
 
   test("a filing refused before any commit names nothing", async () => {

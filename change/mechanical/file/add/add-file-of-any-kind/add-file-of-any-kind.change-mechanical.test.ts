@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { REACHING } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
+import { addFileReaching } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import {
   addressFor,
@@ -49,7 +49,7 @@ function worldOf(named: ReadonlySet<string>): World {
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,
-    reaching: REACHING,
+    reaching: addFileReaching,
   }
 }
 
