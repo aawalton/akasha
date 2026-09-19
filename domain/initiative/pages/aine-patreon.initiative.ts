@@ -45,5 +45,6 @@ export const ainePatreon = {
     "A feature request has no price, and the contribution points committed to it only order the queue Alan reviews.",
     "A contributor signs in at alanwalton.com, and the payment the vendor reports is matched to that sign-in by email address.",
     "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
+    "A cent contributed earns one contribution point, and that rate is fixed until something proves it wrong.",
   ],
 } as const satisfies Initiative
