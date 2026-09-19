@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/watching/properties/production-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/song/properties/song-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/song/properties/written.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-category.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-modality.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-model-basis.select-property.ts"}

@@ -11,10 +11,12 @@ export const track = {
     "number-property/disc-number",
     "record-property/track-artist",
     "relation-property/song",
+    "select-property/track-type",
     "text-property/track-key",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "select-property/track-type", required: false, many: false },
     { pageProperty: "number-property/disc-number", required: false, many: false },
     { pageProperty: "boolean-property/explicit", required: false, many: false },
     {
@@ -46,6 +48,11 @@ export const track = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A track names the song that track is a recording of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A track states what kind of recording it is, and the song it names states nothing of that.",
     },
   ],
   types: "ts",

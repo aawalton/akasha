@@ -1038,6 +1038,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/explicit.boolean-property.ts","id":"01a0a5e0-58f3-740e-9244-3bdebb7ceedb"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/track-key.text-property.ts","id":"01a0a620-826b-7e60-9d85-16c3162b769c"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/track-type.select-property.ts","id":"01a0c1e4-3b7a-7f00-8c62-4d9e1a70b5c3"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}

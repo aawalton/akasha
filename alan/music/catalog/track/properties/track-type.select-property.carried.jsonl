@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A track saying nothing of itself is the studio recording."},{"decisionKind":"decision-kind/departure","statement":"A recording no other value names and a title calls a version is a version."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says whose composition the track is a recording of."}]}
+{"definition":"what kind of recording a track is"}
+{"id":"01a0c1e4-3b7a-7f00-8c62-4d9e1a70b5c3"}
+{"propertySlug":"track-type"}
+{"slug":"track-type"}
+{"type":"page-type/select-property"}
+{"types":"ts"}
+{"values":["studio","live","remix","acoustic","instrumental","a-cappella","remaster","demo","version"]}
