@@ -57,6 +57,8 @@ function linkPackages(root: string, tree: string): undefined {
 
 const LAY_DOWN = 'git archive --format=tar "$1" | tar -x -C "$2"'
 
+const HOLD = 'find "$1" -type f -exec chmod a-w {} +'
+
 export function treeLaidDown(root: string, commit: string): string {
   const at = treePath(commit)
   if (existsSync(laidMark(commit))) return at
@@ -66,6 +68,11 @@ export function treeLaidDown(root: string, commit: string): string {
   if (done.code !== 0) {
     rmSync(at, { recursive: true, force: true })
     throw dataError(`the tree of ${commit} could not be laid down at ${at} — ${done.err.trim()}`)
+  }
+  const held = ran(["sh", "-c", HOLD, "sh", at])
+  if (held.code !== 0) {
+    rmSync(at, { recursive: true, force: true })
+    throw dataError(`the tree at ${at} could not be held still — ${held.err.trim()}`)
   }
   linkPackages(root, at)
   writeFileSync(laidMark(commit), `${commit}\n`, { mode: 0o600 })

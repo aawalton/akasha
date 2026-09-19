@@ -49,5 +49,14 @@ export const devServerTree = {
       decisionKind: "decision-kind/departure",
       statement: "A cache a package folder hides is left out, so each tree builds its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every file the commit holds is laid down refusing a write, so the tree is read alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder stays open to writing, so a build and a cache are made inside the tree.",
+    },
   ],
 } as const satisfies Module
