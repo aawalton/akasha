@@ -34,3 +34,4 @@
 {"propertySlug":"condition-field","path":"temper/progress/temper-rule-template/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.ts","id":"019e3104-261f-7668-98d5-65fc2dc8d58a"}
 {"propertySlug":"condition-field","path":"temper/progress/temper-rule-template/pages/treasures-sell/treasures-sell.temper-rule-template.ts","id":"019e3104-2627-7b26-8ce5-f198e4be0e34"}
 {"propertySlug":"condition-field","path":"temper/progress/temper-rule-template/pages/worthless-destroy/worthless-destroy.temper-rule-template.ts","id":"019e3104-262e-7641-92a5-c6fd26067689"}
+{"propertySlug":"import","fileName":"max-quality.temper-condition-field.ts","path":"temper/items-rules-core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.test.ts"}

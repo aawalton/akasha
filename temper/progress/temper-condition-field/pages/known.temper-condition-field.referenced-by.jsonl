@@ -3,3 +3,4 @@
 {"propertySlug":"condition-field","path":"temper/progress/temper-inventory-rule/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts","id":"01a0728a-f56f-72eb-8914-32da9b6ac87e"}
 {"propertySlug":"condition-field","path":"temper/progress/temper-inventory-rule/pages/rule-fc1c9638/rule-fc1c9638.temper-inventory-rule.ts","id":"01a0728b-2e7d-7b22-add5-e5717834cb9f"}
 {"propertySlug":"condition-field","path":"temper/progress/temper-rule-template/pages/recipes-known-sell/recipes-known-sell.temper-rule-template.ts","id":"019e3104-2628-7b7f-bd11-f6d4ad45e189"}
+{"propertySlug":"import","fileName":"known.temper-condition-field.ts","path":"temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts"}

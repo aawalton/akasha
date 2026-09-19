@@ -5,3 +5,4 @@
 {"propertySlug":"action","path":"temper/progress/temper-inventory-rule/pages/rule-gold-stock/rule-gold-stock.temper-inventory-rule.ts","id":"01a0728b-4fbc-7854-8786-0d70a2944ea8"}
 {"propertySlug":"action","path":"temper/progress/temper-inventory-rule/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.ts","id":"01a0728b-6d6f-721e-a2cd-e61cc89fdac5"}
 {"propertySlug":"action","path":"temper/progress/temper-rule-template/pages/gold-stock/gold-stock.temper-rule-template.ts","id":"019e3104-2604-7bfa-b202-1d8e5fce47aa"}
+{"propertySlug":"import","fileName":"stock.temper-item-action.ts","path":"temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts"}

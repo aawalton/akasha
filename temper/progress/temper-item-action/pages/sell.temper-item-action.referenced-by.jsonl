@@ -25,3 +25,5 @@
 {"propertySlug":"action","path":"temper/progress/temper-rule-template/pages/recipes-known-sell/recipes-known-sell.temper-rule-template.ts","id":"019e3104-2628-7b7f-bd11-f6d4ad45e189"}
 {"propertySlug":"action","path":"temper/progress/temper-rule-template/pages/trash-sell/trash-sell.temper-rule-template.ts","id":"019e3104-2624-7509-9de0-8c51f78d2dfa"}
 {"propertySlug":"action","path":"temper/progress/temper-rule-template/pages/treasures-sell/treasures-sell.temper-rule-template.ts","id":"019e3104-2627-7b26-8ce5-f198e4be0e34"}
+{"propertySlug":"import","fileName":"sell.temper-item-action.ts","path":"temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts"}
+{"propertySlug":"import","fileName":"sell.temper-item-action.ts","path":"temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts"}

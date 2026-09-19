@@ -9,12 +9,15 @@ import {
   ruleFromPage,
   rulesFromPages,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { sell } from "akasha/temper/progress/temper-item-action/pages/sell.temper-item-action.ts"
+import { stock } from "akasha/temper/progress/temper-item-action/pages/stock.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
 
 const PAGE: RulePage = {
   slug: "rule-gold-stock",
   categoryId: "currency-gold",
   displayOrder: 5,
-  action: "temper-item-action/stock",
+  action: `${temperItemAction.slug}/${stock.slug}` as const,
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
 }
@@ -141,7 +144,7 @@ const A_ROW = {
   slug: "rule-one",
   categoryId: "scripts",
   displayOrder: 3,
-  action: "temper-item-action/sell",
+  action: `${temperItemAction.slug}/${sell.slug}` as const,
   active: true,
   updatedAt: "1970-01-01T00:00:00.000Z",
 }

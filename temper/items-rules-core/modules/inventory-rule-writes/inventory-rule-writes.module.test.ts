@@ -7,12 +7,19 @@ import {
   valuesFor,
   writesFor,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { known } from "akasha/temper/progress/temper-condition-field/pages/known.temper-condition-field.ts"
+import { temperConditionField } from "akasha/temper/progress/temper-condition-field/temper-condition-field.page-type.ts"
+import { sell } from "akasha/temper/progress/temper-item-action/pages/sell.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const AN_INSTANT = "1970-01-01T00:00:00.000Z"
 
-const A_ROW = { conditionField: "temper-condition-field/known", conditionValue: "known" }
+const A_ROW = {
+  conditionField: `${temperConditionField.slug}/${known.slug}` as const,
+  conditionValue: "known",
+}
 
 function ruleOf(id: string, over: Partial<CategoryRule> = {}): CategoryRule {
   return { id, categoryId: "scripts", action: "sell", ...over }
@@ -25,7 +32,7 @@ function heldOf(id: string, at: number, over: Partial<HeldRule["page"]> = {}): H
       accountPage: ACCOUNT,
       categoryId: "scripts",
       displayOrder: at,
-      action: "temper-item-action/sell",
+      action: `${temperItemAction.slug}/${sell.slug}` as const,
       active: true,
       updatedAt: AN_INSTANT,
       ...over,
