@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { akasha } from "akasha/akasha.domain.ts"
 import {
   changePagePropertyText,
   runChange,
@@ -9,6 +10,7 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
@@ -17,6 +19,8 @@ const AT = "agent/seat/pages/held.seat.ts"
 const TEXT_PROPERTY = "text-property"
 
 const PROSE = "standard-agent-english-property"
+
+const AKASHA_DOMAIN = `${domain.slug}/${akasha.slug}` as const
 
 const ID = "01a07995-6678-7cad-9f52-e0a331e96bde"
 
@@ -92,7 +96,7 @@ test("a key naming no text property is refused by the kind of property named", a
   const said = await changePagePropertyText(world, {
     at: AT,
     key: "assignmentSlug",
-    to: "domain/akasha",
+    to: AKASHA_DOMAIN,
   })
 
   expect(said.edits).toEqual([])

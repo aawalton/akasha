@@ -13,12 +13,16 @@ import {
 } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { worldOfType } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { delve } from "akasha/story/read/pages/delve/delve.story-read.ts"
+import { storyRead } from "akasha/story/read/story-read.page-type.ts"
 
 const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"
 
 const TWO_AT = "thrumming/chapters/pages/two.story-chapter-read.ts"
 
 const TYPE_AT = "thrumming/chapters/story-chapter-read.page-type.ts"
+
+const DELVE = `${storyRead.slug}/${delve.slug}` as const
 
 const TYPED = `export type StoryChapterRead = {
   pageTypeSlug: string
@@ -43,7 +47,7 @@ export const ${slug} = {
 
 const BODIES = {
   [ONE_AT]: bodied("one", "salvos"),
-  [TWO_AT]: bodied("two", "story-read/delve"),
+  [TWO_AT]: bodied("two", DELVE),
   [TYPE_AT]: TYPED,
 }
 
@@ -51,7 +55,7 @@ type Values = ReadonlyMap<string, Readonly<Record<string, unknown>>>
 
 const VALUES: Values = new Map([
   [ONE_AT, { slug: "one", partOfCollectionSlugs: ["salvos"] }],
-  [TWO_AT, { slug: "two", partOfCollectionSlugs: ["story-read/delve"] }],
+  [TWO_AT, { slug: "two", partOfCollectionSlugs: [DELVE] }],
 ])
 
 const ONE_VALUE: Carried = {
@@ -101,7 +105,7 @@ test("every page of the page type has the value under the key written to", async
   expect(said.refused).toBeNull()
   const bodies = bodiesIn(said, world.base)
   expect(bodies.get(ONE_AT) ?? "").toContain(`storySlug: "salvos"`)
-  expect(bodies.get(TWO_AT) ?? "").toContain(`storySlug: "story-read/delve"`)
+  expect(bodies.get(TWO_AT) ?? "").toContain(`storySlug: "${DELVE}"`)
 })
 
 test("the key read from is taken away", async () => {

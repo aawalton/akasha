@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { harnessSettings } from "akasha/agent/settings/properties/harness-settings.file-property.ts"
+import { telling } from "akasha/agent/settings/properties/telling.module-property-group.ts"
 import { changeFileCommand } from "akasha/change/agent/file-content/change-file/change-file.change-agent.code.ts"
 import { changeFileContentOfAnyKind } from "akasha/change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
@@ -6,6 +8,8 @@ import { replayed } from "akasha/change/modules/answer/change-answer.module.code
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const AT = "akasha/one.held.ts"
@@ -119,8 +123,12 @@ const PROPERTY = "akasha/harness-settings.file-property.ts"
 
 const GROUP = "akasha/telling.module-property-group.ts"
 
+const TELLING = `${modulePropertyGroup.slug}/${telling.slug}` as const
+
+const HARNESS_SETTINGS = `${fileProperty.slug}/${harnessSettings.slug}` as const
+
 const SAYING: ReadonlyMap<string, Value> = new Map([
-  [PROPERTY, { propertySlug: "harness-settings", writtenBy: "module-property-group/telling" }],
+  [PROPERTY, { propertySlug: harnessSettings.slug, writtenBy: TELLING }],
   [GROUP, { slug: "telling", propertySlug: "telling" }],
 ])
 
@@ -134,7 +142,7 @@ const GROUPS = {
   },
   pageByPath: (path: string) => SAYING.get(path) ?? null,
   carryingOf: (named: string) =>
-    named === "file-property/harness-settings"
+    named === HARNESS_SETTINGS
       ? { carrying: [{ pageTypeSlug: "held-settings", path: PAGE, id: "held", within: null }] }
       : { refused: "no page property carries the slug" },
 } as never

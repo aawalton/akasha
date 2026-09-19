@@ -12,10 +12,12 @@ import {
   refusingAt,
   worldOf,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { webDirectory } from "akasha/code/ios-app/properties/web-directory.build-folder-property.ts"
+import { buildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.ts"
 
 const OWNER_AT = "thrumming/moots/moot.page-type.ts"
 
-const PROPERTY = "build-folder-property/web-directory"
+const PROPERTY = `${buildFolderProperty.slug}/${webDirectory.slug}` as const
 
 const RUNG = `${changeMechanicalPageType.slug}/${addPropertyToPageTypeMechanical.slug}` as const
 
