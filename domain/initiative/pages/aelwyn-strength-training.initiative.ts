@@ -28,9 +28,6 @@ export const aelwynStrengthTraining = {
     {
       statement: "A movement Alan's kit cannot load further is made harder some other way.",
     },
-    {
-      statement: "A movement Alan turns down tells the selector as much as a set Alan finishes.",
-    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
