@@ -38,10 +38,6 @@ export const songFiling = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A title holding no letter and no digit is filed as no song.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
       statement: "Nothing here writes over a song already filed.",
     },
   ],

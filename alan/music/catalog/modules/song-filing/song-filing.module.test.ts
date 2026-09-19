@@ -59,8 +59,10 @@ test("no song is filed under an artist who has no page", () => {
   expect(songFiledFor(filing(), "musical-theater", "Defying Gravity")).toBeNull()
 })
 
-test("a title holding no letter and no digit is filed as no song", () => {
-  expect(songFiledFor(filing(), "sylvia-daley", "★★★")).toBeNull()
+test("a title holding no letter and no digit is filed as a song of its own", () => {
+  const held = filing()
+  expect(songFiledFor(held, "sylvia-daley", "★★★")?.values?.["title"]).toBe("★★★")
+  expect(songFiledFor(held, "sylvia-daley", "!!!")?.values?.["title"]).toBe("!!!")
 })
 
 test("a song filed this way states no external record and no song type", () => {

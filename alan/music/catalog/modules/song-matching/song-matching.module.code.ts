@@ -9,6 +9,8 @@ const LOOSE = /[^a-z0-9]+/gu
 
 const DOUBLED = /\s{2,}/gu
 
+const SPACES = /\s+/gu
+
 const CREDIT = "(?:feat|ft|featuring|with)\\b"
 
 const VERSION =
@@ -39,7 +41,9 @@ export function compositionTitle(title: string): string {
 }
 
 export function looseTitle(title: string): string {
-  return title.normalize("NFKD").toLowerCase().replace(LOOSE, "")
+  const said = title.normalize("NFKD").toLowerCase()
+  const held = said.replace(LOOSE, "")
+  return held === "" ? said.replace(SPACES, "") : held
 }
 
 export function songKey(artistSlug: string, title: string): string {
@@ -53,7 +57,6 @@ export function songsFiledIn(root: string): ReadonlyMap<string, string> {
     const title = textIn(one.value, "title")
     const artist = textIn(one.value, "artist")
     if (slug === null || title === null || artist === null) continue
-    if (looseTitle(title) === "") continue
     const under = artist.startsWith(UNDER_ARTIST) ? artist.slice(UNDER_ARTIST.length) : artist
     const key = songKey(under, title)
     if (!byTitle.has(key)) byTitle.set(key, slug)
@@ -66,7 +69,6 @@ export function songSlugFor(
   artistSlug: string,
   title: string
 ): string | null {
-  if (looseTitle(title) === "") return null
   return (
     songs.get(songKey(artistSlug, title)) ??
     songs.get(songKey(artistSlug, compositionTitle(title))) ??

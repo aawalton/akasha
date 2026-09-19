@@ -1,7 +1,6 @@
 import { mintCatalogueSlug } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   compositionTitle,
-  looseTitle,
   songKey,
   songsFiledIn,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
@@ -56,7 +55,6 @@ export function songValuesFor(artistSlug: string, slug: string, title: string): 
 export function songFiledFor(filing: Filing, artistSlug: string, said: string): Filed | null {
   if (!filing.artists.has(artistSlug)) return null
   const title = compositionTitle(said)
-  if (looseTitle(title) === "") return null
   const key = songKey(artistSlug, title)
   const held = filing.songs.get(key)
   if (held !== undefined) return { slug: held, values: null }
