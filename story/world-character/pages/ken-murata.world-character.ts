@@ -10,4 +10,5 @@ export const kenMurata = {
   eventCount: 4,
   firstChapter: 198,
   lastChapter: 198,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

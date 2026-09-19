@@ -8,6 +8,7 @@ export const liska = {
   world: "world/the-wandering-inn",
   maxLevel: 34,
   eventCount: 7,
-  firstChapter: 817,
+  firstChapter: 610,
   lastChapter: 821,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

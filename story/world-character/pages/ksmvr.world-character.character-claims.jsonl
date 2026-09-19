@@ -1,7 +1,444 @@
-{"id":"01a0b706-d2c5-77c8-bf65-a78d776630ee","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7b92-9984-3c735dc78f35","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Missing right lower arm (jagged stump)","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7129-bfcc-63c22478dafb","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"No Skills","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7a8e-8ff7-5a90f6127a83","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Former Prognugator of Hive","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7d7d-a919-f2bb966ea0bb","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Silver-rank equivalent capability claimed","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7189-9142-824bfb8739b8","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Archery","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-705d-a597-39b35354c3f0","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Multiple weapon types","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-76eb-8888-6e8d7a3012bf","chapterSlug":"the-wandering-inn-0040-1-37","claimField":"trait","claimValue":"Antinium Prognugator","epistemic":"asserted","sourceChapter":"1.37"}
+{"id":"01a0b70b-4e7f-7ed7-95fd-c00c52adae7a","chapterSlug":"the-wandering-inn-0040-1-37","claimField":"trait","claimValue":"carries twin swords","epistemic":"asserted","sourceChapter":"1.37"}
+{"id":"01a0b70b-4e7f-7cad-9035-266bc9fca14f","chapterSlug":"the-wandering-inn-0040-1-37","claimField":"trait","claimValue":"receives commands from the Queen","epistemic":"asserted","sourceChapter":"1.37"}
+{"id":"01a0b70b-4e7f-7ef4-88cd-4ce1f1ee5888","chapterSlug":"the-wandering-inn-0054-1-51","claimField":"class","claimValue":"Prognugator","epistemic":"asserted","sourceChapter":"1.51"}
+{"id":"01a0b70b-4e7f-71c9-aae2-5d2a6401678e","chapterSlug":"the-wandering-inn-0054-1-51","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"1.51"}
+{"id":"01a0b70b-4e7f-74b4-819b-3e9f62694197","chapterSlug":"the-wandering-inn-0054-1-51","claimField":"trait","claimValue":"Capable of free thought and individual decision-making","epistemic":"asserted","sourceChapter":"1.51"}
+{"id":"01a0b70b-4e7f-7698-b412-d47d01773f2f","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b70b-4e7f-725a-9ee9-69ca798551dc","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"trait","claimValue":"Prognugator","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b70b-4e7f-74ac-903f-9ee8faab0411","chapterSlug":"the-wandering-inn-0056-1-53","claimField":"trait","claimValue":"determines Individuality","epistemic":"asserted","sourceChapter":"1.53"}
+{"id":"01a0b70b-4e7f-79df-b293-7946f1564b63","chapterSlug":"the-wandering-inn-0063-1-60","claimField":"identity","claimValue":"Antinium Prognugator","epistemic":"asserted","sourceChapter":"1.60"}
+{"id":"01a0b70b-4e7f-715d-9c62-10c776c1f1be","chapterSlug":"the-wandering-inn-0063-1-60","claimField":"trait","claimValue":"willing to defend the city","epistemic":"asserted","sourceChapter":"1.60"}
+{"id":"01a0b70b-4e7f-7383-abd6-23497d2a7d43","chapterSlug":"the-wandering-inn-0063-1-60","claimField":"trait","claimValue":"restricted from bringing full Hive forces due to Queen's Rite of Anastases","epistemic":"asserted","sourceChapter":"1.60"}
+{"id":"01a0b70b-4e7f-7c93-a8e5-43a43ba43abc","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70b-4e7f-7b25-b81e-c757fe409ff7","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"trait","claimValue":"Prognugator of the Antinium","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70b-4e7f-77ff-a057-59345546f74e","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"trait","claimValue":"Logical and dutiful","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70b-4e7f-77f3-940f-a8b9fa1e85b9","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"trait","claimValue":"Prioritizes Hive safety above all","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70b-4e7f-7382-a293-d2070719096d","chapterSlug":"the-wandering-inn-0069-2-01","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"2.01"}
+{"id":"01a0b70b-4e7f-7273-baf0-5e19d7cdfd8c","chapterSlug":"the-wandering-inn-0069-2-01","claimField":"trait","claimValue":"assumed Prognugator role","epistemic":"asserted","sourceChapter":"2.01"}
+{"id":"01a0b70b-4e7f-74c1-8b1c-5f10d4e97694","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"2.02"}
+{"id":"01a0b70b-4e7f-7cb1-ad01-2386fe9c75bf","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"trait","claimValue":"warrior with swords","epistemic":"asserted","sourceChapter":"2.02"}
+{"id":"01a0b70b-4e7f-7227-9ca4-6351dc1e4a64","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"trait","claimValue":"claims to be Prognugator","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.02"}
+{"id":"01a0b70b-4e7f-7792-880c-edad12b38ccb","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"trait","claimValue":"sees in darkness","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b70b-4e7f-75aa-aff2-6c2d2d81713f","chapterSlug":"the-wandering-inn-0071-2-03","claimField":"trait","claimValue":"fast with multiple weapons","epistemic":"asserted","sourceChapter":"2.03"}
+{"id":"01a0b70b-4e7f-73b8-a56b-6c7093699840","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Wields four weapons simultaneously with four limbs","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b70b-4e7f-77d0-873f-cb19bdfcc66e","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Observes that Gazi's armor is impenetrable","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b70b-4e7f-761b-8830-0cd00358f18a","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Can throw daggers with precision","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b70b-4e7f-7a32-a763-1062115956db","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"class","claimValue":"Prognugator","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b70b-4e7f-7a1f-8605-451aada2e04c","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b70b-4e7f-7098-857c-28ef92018303","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"New to position","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b70b-4e7f-7635-af46-40a6662ec5f1","chapterSlug":"the-wandering-inn-0093-2-23","claimField":"trait","claimValue":"Less experienced than Klbkch","epistemic":"asserted","sourceChapter":"2.23"}
+{"id":"01a0b70b-4e7f-7c67-a9a3-36a8d025e61b","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-7a04-b1a0-25103813c5dd","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Missing right lower arm (jagged stump)","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-7fc7-a4ea-4749d5878e09","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"No Skills","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-7583-8347-71d6050995b6","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Former Prognugator of Hive","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-7a65-841c-c26de0535e00","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Silver-rank equivalent capability claimed","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-774f-987e-3c0da2f20447","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Archery","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-7fbe-b64a-8320141f5153","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"skill","claimValue":"Multiple weapon types","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"2.32 H"}
+{"id":"01a0b70b-4e7f-7bec-94f4-62ef41509541","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"identity","claimValue":"Antinium Prognugator","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-4e7f-7f0f-af60-ab7795468e9c","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"trait","claimValue":"missing third arm","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-4e7f-7124-ba08-6fe43367d748","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"trait","claimValue":"was a Prognugator in his Hive","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-4e7f-7fd5-8c8f-d677f83c185b","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"trait","claimValue":"was expelled from his Hive","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-4e7f-7c48-88fe-9146a3a6ded3","chapterSlug":"the-wandering-inn-0105-2-33","claimField":"trait","claimValue":"has difficulty consuming gluten","epistemic":"asserted","sourceChapter":"2.33"}
+{"id":"01a0b70b-4e7f-72b2-a39b-c2d7c57d5a52","chapterSlug":"the-wandering-inn-0126-3-02-h","claimField":"identity","claimValue":"Aberration","epistemic":"claimed","claimedBy":"Ksmvr (under magical confusion, stating questioningly)","sourceChapter":"3.02 H"}
+{"id":"01a0b70b-4e7f-7208-a923-da14adae7a41","chapterSlug":"the-wandering-inn-0126-3-02-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.02 H"}
+{"id":"01a0b70b-4e7f-7f5f-b271-6855093424a2","chapterSlug":"the-wandering-inn-0126-3-02-h","claimField":"trait","claimValue":"former Prognugator","epistemic":"asserted","sourceChapter":"3.02 H"}
+{"id":"01a0b70b-4e7f-74e2-a173-35a6d42e6c75","chapterSlug":"the-wandering-inn-0126-3-02-h","claimField":"trait","claimValue":"three arms","epistemic":"asserted","sourceChapter":"3.02 H"}
+{"id":"01a0b70b-4e7f-732c-8763-1f8f7c090036","chapterSlug":"the-wandering-inn-0126-3-02-h","claimField":"trait","claimValue":"poor sense of smell","epistemic":"asserted","sourceChapter":"3.02 H"}
+{"id":"01a0b70b-4e7f-7d8a-918c-6ee5dd98edfa","chapterSlug":"the-wandering-inn-0126-3-02-h","claimField":"trait","claimValue":"competent with weapons","epistemic":"asserted","sourceChapter":"3.02 H"}
+{"id":"01a0b70b-4e7f-7633-9a90-92c93525b0a2","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b70b-4e7f-7153-a51b-6aee459144b9","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"has three arms","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b70b-4e7f-7c20-b329-82d20886def3","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"carapace damaged with exposed innards and green blood","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b70b-4e7f-7aeb-a8c7-e2f40ce46032","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"trait","claimValue":"vulnerable to becoming Aberration if truly driven mad","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b70b-4e7f-7ee0-8956-d92b2ddd5c3e","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"vision adapted to darkness","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b70b-4e7f-7d65-a50c-efa50ceda10a","chapterSlug":"the-wandering-inn-0133-3-07-h","claimField":"skill","claimValue":"innate resistance to mental enchantments via Antinium conditioning","epistemic":"asserted","sourceChapter":"3.07 H"}
+{"id":"01a0b70b-4e7f-7c30-b2b7-8d56efe78ef5","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b70b-4e7f-70ab-9350-88e2bf6a898a","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"trait","claimValue":"three hands","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b70b-4e7f-7e04-a89c-0ce114ba698a","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"trait","claimValue":"capable of heavy labor and carrying—bore the bulk of the treasure load","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b70b-4e7f-7d14-9032-ac766c877203","chapterSlug":"the-wandering-inn-0134-3-08-h","claimField":"trait","claimValue":"loyal member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.08 H"}
+{"id":"01a0b70b-4e7f-74e4-96ac-776a981ee39d","chapterSlug":"the-wandering-inn-0135-3-09","claimField":"class","claimValue":"Adventurer","epistemic":"asserted"}
+{"id":"01a0b70b-4e7f-7241-b9ce-0d4c5120027e","chapterSlug":"the-wandering-inn-0135-3-09","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.09"}
+{"id":"01a0b70b-4e7f-75f2-a0de-02c1ac47719e","chapterSlug":"the-wandering-inn-0135-3-09","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.09"}
+{"id":"01a0b70b-4e7f-7be8-a46d-fc5832fb49d3","chapterSlug":"the-wandering-inn-0135-3-09","claimField":"trait","claimValue":"appears immune to alcohol poisoning","epistemic":"asserted","sourceChapter":"3.09"}
+{"id":"01a0b70b-4e7f-73f3-8e0b-a013042e0481","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b70b-4e7f-7fe4-a09d-4ff4f91967fd","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"trait","claimValue":"Antinium with multiple hands","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b70b-4e7f-73c7-83cb-a1d22e04ab83","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"trait","claimValue":"Direct and literal in speech","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b70b-4e7f-76a7-92e3-7c467f259402","chapterSlug":"the-wandering-inn-0136-3-10","claimField":"trait","claimValue":"Combat-ready and loyal","epistemic":"asserted","sourceChapter":"3.10"}
+{"id":"01a0b70b-4e7f-757f-9319-d64a77a254dd","chapterSlug":"the-wandering-inn-0150-3-24","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.24"}
+{"id":"01a0b70b-4e7f-7ed7-b2c2-30b77cae099e","chapterSlug":"the-wandering-inn-0150-3-24","claimField":"trait","claimValue":"Can eat raw dough with charm against food poisoning","epistemic":"asserted","sourceChapter":"3.24"}
+{"id":"01a0b70b-4e7f-7f5c-a312-a8bc12dfdcaf","chapterSlug":"the-wandering-inn-0151-3-25","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.25"}
+{"id":"01a0b70b-4e7f-7214-8ad1-4cbb1406dedc","chapterSlug":"the-wandering-inn-0151-3-25","claimField":"trait","claimValue":"successfully teleported via the door's anchor stone","epistemic":"asserted","sourceChapter":"3.25"}
+{"id":"01a0b70b-4e7f-7738-8164-c1899d49beca","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"class","claimValue":"Warrior","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7c6e-930e-6cf97fa9b096","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7a1f-9f19-65874efe916e","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"possesses three arms","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7ac6-ba95-b5de29644816","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7a9d-a453-cbec9006719c","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"trait","claimValue":"poor sense of humor","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7909-89e4-9617b5a0b83c","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"skill","claimValue":"multi-armed combat","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7f15-973e-053039205cd4","chapterSlug":"the-wandering-inn-0156-3-30","claimField":"skill","claimValue":"weapon throwing","epistemic":"asserted","sourceChapter":"3.30"}
+{"id":"01a0b70b-4e7f-7ed4-acb6-732d139bf7db","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b70b-4e7f-7aec-b6a6-b9d5001a2d80","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Exiled from his Hive","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b70b-4e7f-7ab1-8012-f571dc13474a","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Loyal member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.32"}
+{"id":"01a0b70b-4e7f-7b9b-8c94-74b6398d1424","chapterSlug":"the-wandering-inn-0165-3-32","claimField":"trait","claimValue":"Hopes to return to Liscor's Hive someday","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"3.32"}
+{"id":"01a0b70b-4e7f-7d6b-a326-9395ed6ee4b7","chapterSlug":"the-wandering-inn-0166-3-33","claimField":"trait","claimValue":"Antinium with three arms and carapace","epistemic":"asserted","sourceChapter":"3.33"}
+{"id":"01a0b70b-4e7f-7576-b89c-7fe95bcf27a1","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-4e7f-74dc-8c83-08b5af76515e","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"four arms (at least three functional)","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-4e7f-7541-84bc-87572b16ec53","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"former Prognugator for the Hive","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-4e7f-72e8-bd02-735b0ce640c5","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"exiled due to failures","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-4e7f-7fa5-82a4-e3b8c2da0278","chapterSlug":"the-wandering-inn-0175-3-42","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"3.42"}
+{"id":"01a0b70b-4e7f-75e4-b195-31e8db227b76","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"4.10"}
+{"id":"01a0b70b-4e7f-7843-9f16-fd668e7920ce","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"trait","claimValue":"Has three arms, lacks a fourth","epistemic":"asserted","sourceChapter":"4.10"}
+{"id":"01a0b70b-4e7f-70c1-b3f8-5e4bd42a04c8","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"trait","claimValue":"Demonstrates generosity toward party members","epistemic":"asserted","sourceChapter":"4.10"}
+{"id":"01a0b70b-4e7f-7955-af38-49450677d0fc","chapterSlug":"the-wandering-inn-0187-4-10","claimField":"trait","claimValue":"Can breathe underwater with the right magical item","epistemic":"claimed","claimedBy":"Ryoka","sourceChapter":"4.10"}
+{"id":"01a0b70b-4e7f-767c-8983-367130ac77fb","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"identity","claimValue":"Former Free Antinium","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-70b8-b9e2-b41238ac04d8","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"class","claimValue":"Warrior","epistemic":"asserted","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-77d4-ae9a-763c92bc501a","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"level","claimValue":"16","epistemic":"asserted","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-78ce-8e01-ca1f5ca5a01f","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"trait","claimValue":"Antinium Individual","epistemic":"asserted","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-72b1-bd68-79a45b915db0","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"trait","claimValue":"From the Free Antinium","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-770f-9794-b8a9fdda545c","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"skill","claimValue":"Warrior","epistemic":"asserted","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-783a-9ed0-cecebc1884c9","chapterSlug":"the-wandering-inn-0209-4-27-h","claimField":"skill","claimValue":"Ring of Jumping","epistemic":"asserted","sourceChapter":"4.27 H"}
+{"id":"01a0b70b-4e7f-7da4-9566-f435af535589","chapterSlug":"the-wandering-inn-0227-4-41-l","claimField":"trait","claimValue":"former Prognugator of the Hive","epistemic":"asserted","sourceChapter":"4.41 L"}
+{"id":"01a0b70b-4e7f-7714-ab32-ccb884c1b2a3","chapterSlug":"the-wandering-inn-0227-4-41-l","claimField":"trait","claimValue":"has three hands","epistemic":"asserted","sourceChapter":"4.41 L"}
+{"id":"01a0b70b-4e7f-7174-8606-e9c43c895827","chapterSlug":"the-wandering-inn-0227-4-41-l","claimField":"trait","claimValue":"carries shortbow and shortsword","epistemic":"asserted","sourceChapter":"4.41 L"}
+{"id":"01a0b70b-4e7f-7464-838a-8b13265ca7b9","chapterSlug":"the-wandering-inn-0227-4-41-l","claimField":"trait","claimValue":"stopped the fight between Yellow Splatters and Purple Smile with threats of violence","epistemic":"asserted","sourceChapter":"4.41 L"}
+{"id":"01a0b70b-4e7f-77ad-8686-6cb75c15a1ad","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b70b-4e7f-75aa-80ad-20c6f7993968","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"trait","claimValue":"has a Ring of Jumping","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b70b-4e7f-72ab-abcd-d4bee709265b","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"trait","claimValue":"part of Horns of Hammerad","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b70b-4e7f-74d4-ae6e-8caabb32a8a2","chapterSlug":"the-wandering-inn-0229-4-43","claimField":"trait","claimValue":"can jump incredibly high","epistemic":"asserted","sourceChapter":"4.43"}
+{"id":"01a0b70b-4e80-7b13-9a69-1d4e144336c6","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b70b-4e80-72fe-9d02-f61497ae93c1","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"trait","claimValue":"Member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b70b-4e80-7262-9944-22c4c87e8b0f","chapterSlug":"the-wandering-inn-0231-4-45","claimField":"trait","claimValue":"Enjoys listening to Dawil's metalcraft lectures","epistemic":"asserted","sourceChapter":"4.45"}
+{"id":"01a0b70b-4e80-7582-86d1-99193db2333b","chapterSlug":"the-wandering-inn-0240-5-00","claimField":"identity","claimValue":"ant man","epistemic":"asserted","sourceChapter":"5.00"}
+{"id":"01a0b70b-4e80-7c4b-8007-9e6b416dd716","chapterSlug":"the-wandering-inn-0240-5-00","claimField":"trait","claimValue":"black-brown with three arms","epistemic":"asserted","sourceChapter":"5.00"}
+{"id":"01a0b70b-4e80-73e9-8fd0-b9f625c0a5bb","chapterSlug":"the-wandering-inn-0240-5-00","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.00"}
+{"id":"01a0b70b-4e80-79f8-ae62-5a73f354a317","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-4e80-7432-95a6-c6b05c38ff5d","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Three-armed","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-4e80-7d8d-b4ea-56503a6794cd","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Cast out from his Hive","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-4e80-7baa-9760-e488de9f247b","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Follows Antinium provisioning policy of eating foes on the march","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70b-4e80-7faf-a88c-c3232a607810","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-4e80-725d-b444-a3e53536663e","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"fights with multiple arms","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70b-4e80-79ca-b559-4151e86e1dc3","chapterSlug":"the-wandering-inn-0253-5-12","claimField":"class","claimValue":"Antinium","epistemic":"asserted"}
+{"id":"01a0b70b-4e80-7931-9f70-e5b2d9fe9111","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70b-4e80-72b9-b2a8-7ab196f68e99","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"has magical cape","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70b-4e80-7f01-b8ba-51227f84020d","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"can leap very high","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70b-4e80-70bb-9a21-4816778c41f0","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"wields daggers","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70b-4e80-7d37-884c-eb517ff798d2","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70b-4e80-7a42-98c4-a3c530d166d5","chapterSlug":"the-wandering-inn-0256-5-15","claimField":"trait","claimValue":"Owns a magical water-breathing ring","epistemic":"asserted","sourceChapter":"5.15"}
+{"id":"01a0b70b-4e80-7956-b932-e5512d19eda2","chapterSlug":"the-wandering-inn-0256-5-15","claimField":"trait","claimValue":"Lends magic items to Erin","epistemic":"asserted","sourceChapter":"5.15"}
+{"id":"01a0b70b-4e80-7d45-a3ac-3ec3f8c07f9a","chapterSlug":"the-wandering-inn-0265-5-24-l","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.24 L"}
+{"id":"01a0b70b-4e80-7174-81aa-2e23add323b9","chapterSlug":"the-wandering-inn-0265-5-24-l","claimField":"trait","claimValue":"Afraid of water","epistemic":"asserted","sourceChapter":"5.24 L"}
+{"id":"01a0b70b-4e80-725b-9ebd-f22f90971e39","chapterSlug":"the-wandering-inn-0265-5-24-l","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.24 L"}
+{"id":"01a0b70b-4e80-7407-9482-81695adf2ffb","chapterSlug":"the-wandering-inn-0266-5-25-l","claimField":"identity","claimValue":"former Prognugator","epistemic":"asserted","sourceChapter":"5.25 L"}
+{"id":"01a0b70b-4e80-74de-89bd-d5f8d43e56c4","chapterSlug":"the-wandering-inn-0266-5-25-l","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.25 L"}
+{"id":"01a0b70b-4e80-7cec-b85c-0b4b13273711","chapterSlug":"the-wandering-inn-0266-5-25-l","claimField":"trait","claimValue":"Black-brown colored","epistemic":"asserted","sourceChapter":"5.25 L"}
+{"id":"01a0b70b-4e80-7add-b648-296f002d6fc2","chapterSlug":"the-wandering-inn-0266-5-25-l","claimField":"trait","claimValue":"Fear of water","epistemic":"claimed","claimedBy":"Pawn","sourceChapter":"5.25 L"}
+{"id":"01a0b70b-4e80-779a-9244-55c9f1f6d7c8","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b70b-4e80-72ac-a0a6-0b9fb18e2943","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b70b-4e80-757f-bce3-10420a62fd4e","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Deeply loyal to his team","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b70b-4e80-7b95-a2b3-ef37b4f00fd5","chapterSlug":"the-wandering-inn-0268-5-27","claimField":"trait","claimValue":"Willing to face danger alone if it means serving his team","epistemic":"asserted","sourceChapter":"5.27"}
+{"id":"01a0b70b-4e80-7895-8258-3258f521f953","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70b-4e80-779d-8845-9610158de173","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70b-4e80-7a2b-9c59-f14432c67199","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Often confused or doesn't understand social dynamics","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70b-4e80-7924-8da9-29a1050941c1","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Bow combat","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70b-4e80-7e26-ae41-5722112f2f95","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Enchanted dagger combat","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70b-4e80-7d8f-8a59-a68c32c4eca7","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b70b-4e80-765f-b379-604bb9929988","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b70b-4e80-757a-a23a-38f190876370","chapterSlug":"the-wandering-inn-0270-5-29","claimField":"trait","claimValue":"Carries magical distraction toy","epistemic":"asserted","sourceChapter":"5.29"}
+{"id":"01a0b70b-4e80-77b9-89b0-dc500ba33d67","chapterSlug":"the-wandering-inn-0276-5-34","claimField":"identity","claimValue":"Insectoid","epistemic":"asserted","sourceChapter":"5.34"}
+{"id":"01a0b70b-4e80-7378-81ea-f1bb146e37cc","chapterSlug":"the-wandering-inn-0276-5-34","claimField":"class","claimValue":"Warrior","epistemic":"asserted","sourceChapter":"5.34"}
+{"id":"01a0b70b-4e80-7600-b578-9f7ed56bd174","chapterSlug":"the-wandering-inn-0276-5-34","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.34"}
+{"id":"01a0b70b-4e80-785d-aaa9-dc4da50bba0c","chapterSlug":"the-wandering-inn-0276-5-34","claimField":"trait","claimValue":"Fights with enchanted shortsword","epistemic":"asserted","sourceChapter":"5.34"}
+{"id":"01a0b70b-4e80-7d4c-8038-3cb49f85533f","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.35"}
+{"id":"01a0b70b-4e80-79da-b25e-36da4d57ef8a","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"trait","claimValue":"Part of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.35"}
+{"id":"01a0b70b-4e80-7032-bc18-eb43a5a3fb3a","chapterSlug":"the-wandering-inn-0277-5-35-h","claimField":"trait","claimValue":"Disgraced Prognugator exiled from his Hive","epistemic":"claimed","claimedBy":"Ksmvr internal monologue","sourceChapter":"5.35"}
+{"id":"01a0b70b-4e80-76bf-9c0f-4bc0d1eed3f9","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-7040-bb5c-65e96a83b893","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"former Prognugator","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-75bb-9509-e33e42212879","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-7ea0-ba1a-ae5cc3fe2d54","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"carries enchanted shortsword and Flamecoat Dagger","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-7d0b-ab54-b322bf49a121","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"has Ring of Jumping","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-76da-a57c-39c361fca48f","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"defeated by Klbkch in combat","epistemic":"asserted","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-78e0-9952-f23ba3d7e559","chapterSlug":"the-wandering-inn-0281-5-39","claimField":"trait","claimValue":"expelled from the Hive for incompetence","epistemic":"claimed","claimedBy":"Klbkch","sourceChapter":"5.39"}
+{"id":"01a0b70b-4e80-7a94-86c0-946ea9d6712c","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70b-4e80-799b-b90d-835bb820c993","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"suffered self-doubt about failing the team twice","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70b-4e80-7121-8937-1aba022a24ae","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"three-handed Antinium","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70b-4e80-7a4f-b40b-1b550ded5468","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"incredibly strong, can lift Yvlon and full armor","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70b-4e80-7a5f-8d84-dfed9bc99b48","chapterSlug":"the-wandering-inn-0282-5-40","claimField":"trait","claimValue":"visited Revalantor Klbkch for help but failed to convince him","epistemic":"asserted","sourceChapter":"5.40"}
+{"id":"01a0b70b-4e80-7206-97a5-7f346ba99ce1","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-4e80-798a-be56-4537b271f4e5","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"part of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-4e80-768a-adc6-8f3f34ce8024","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"carries three weapons: dagger, shortsword, magical buckler","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-4e80-7e8f-ad33-26d215c0257c","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"the dagger (Flamecoat Dagger) causes fire damage","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-4e80-7d91-b4d4-9637fded28df","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"the buckler emits an energy field that blocks attacks","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70b-4e80-77e8-bff4-b7eb4fdb4d52","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b70b-4e80-7ac1-9dfb-4c8694c1b0ae","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"can lift heavy objects with ease","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b70b-4e80-7b47-a1ee-c5a995084f1a","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"speaks formally with precision","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b70b-4e80-715e-8a65-04d9f19cbf55","chapterSlug":"the-wandering-inn-0288-5-45","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"5.45"}
+{"id":"01a0b70b-4e80-7400-8585-c442da26725c","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Part of Horns of Hammerad","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-4e80-7c3c-8558-1ce54c17367f","chapterSlug":"the-wandering-inn-0292-5-49","claimField":"trait","claimValue":"Insectoid adventurer","epistemic":"asserted","sourceChapter":"5.49"}
+{"id":"01a0b70b-4e80-75ad-9743-98c9958815a7","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b70b-4e80-7cf8-a048-f709e472a77e","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"trait","claimValue":"Carries weeks-old decomposing rations","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b70b-4e80-7fd7-87e0-8c68e77d5a73","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b70b-4e80-7eda-97fd-a0f8127f6f60","chapterSlug":"the-wandering-inn-0321-6-10","claimField":"trait","claimValue":"Obedient and literal-minded","epistemic":"asserted","sourceChapter":"6.10"}
+{"id":"01a0b70b-4e80-7073-9bcd-93016ea6c091","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70b-4e80-779a-856b-74a1860011be","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"four-armed","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70b-4e80-74cb-9b45-cbc143f1eb0f","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70b-4e80-78be-a87c-e4c590848e2b","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"skill","claimValue":"Forceshield operation","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70b-4e80-7361-a5c8-95291e327204","chapterSlug":"the-wandering-inn-0327-6-16","claimField":"skill","claimValue":"shortsword combat","epistemic":"asserted","sourceChapter":"6.16"}
+{"id":"01a0b70b-4e80-71fc-b8ff-763a50bf6e23","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-7ce1-a067-88a68db46d94","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"has three good hands; fourth arm is a stump","epistemic":"asserted","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-7463-90e5-5a0a63fc74fd","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"created as replacement Prognugator by his Queen","epistemic":"asserted","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-7377-a8b4-6bad2c4b9c51","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"three years old","epistemic":"asserted","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-7af6-bd3f-0a5af7be3814","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"trained for two years before being considered fully competent by Queen's standards","epistemic":"asserted","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-7c1c-8114-e8537d10edb8","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"has not reached Level 20","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-73e3-8a5b-9a31db4ebb05","chapterSlug":"the-wandering-inn-0329-6-18-h","claimField":"trait","claimValue":"lowest-leveled member of Horns of Hammerad","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"6.18 H"}
+{"id":"01a0b70b-4e80-762d-ac3a-846263445260","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"identity","claimValue":"Prognugator of Free Antinium","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-768c-b482-6c0af4b3571e","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-71af-8ac9-ec94850f6962","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"level","claimValue":"20","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-7799-a560-778dbb019389","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"three arms","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-71c0-903f-ccbeacaaaef8","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"Worker-form Antinium body","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-7bc5-99ee-4de67786b561","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"mandibles with incisors","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-7230-ae0f-241384e7881b","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"trait","claimValue":"exoskeleton","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-72d9-b0ad-a144cb5fe890","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"skill","claimValue":"Quick Movement","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-7e18-842a-64973f46db37","chapterSlug":"the-wandering-inn-0330-6-19-h","claimField":"skill","claimValue":"evasion Skill","epistemic":"asserted","sourceChapter":"6.19 H"}
+{"id":"01a0b70b-4e80-7160-a413-c03421012eb3","chapterSlug":"the-wandering-inn-0341-interlude-embria","claimField":"trait","claimValue":"Exiled from Liscor's Hive","epistemic":"asserted","sourceChapter":"341.00"}
+{"id":"01a0b70b-4e80-735a-b2c6-9a9833fd9dac","chapterSlug":"the-wandering-inn-0341-interlude-embria","claimField":"trait","claimValue":"Adventurer working with Yvlon","epistemic":"asserted","sourceChapter":"341.00"}
+{"id":"01a0b70b-4e80-7492-9736-6789857576a2","chapterSlug":"the-wandering-inn-0352-6-38","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.38"}
+{"id":"01a0b70b-4e80-740d-b719-ec0335cad92f","chapterSlug":"the-wandering-inn-0352-6-38","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.38"}
+{"id":"01a0b70b-4e80-7651-a905-65b1ce6b7d55","chapterSlug":"the-wandering-inn-0353-6-39","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.39"}
+{"id":"01a0b70b-4e80-76e5-9ff9-0788e510bda5","chapterSlug":"the-wandering-inn-0353-6-39","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.39"}
+{"id":"01a0b70b-4e80-7ca9-8f57-604463527e25","chapterSlug":"the-wandering-inn-0353-6-39","claimField":"level","claimValue":"20","epistemic":"asserted","sourceChapter":"6.39"}
+{"id":"01a0b70b-4e80-7faf-a714-217cef0f4576","chapterSlug":"the-wandering-inn-0353-6-39","claimField":"trait","claimValue":"Horns of Hammerad team member","epistemic":"asserted","sourceChapter":"6.39"}
+{"id":"01a0b70b-4e80-7146-baf3-041372b38482","chapterSlug":"the-wandering-inn-0353-6-39","claimField":"skill","claimValue":"[Quick Movement]","epistemic":"asserted","sourceChapter":"6.39"}
+{"id":"01a0b70b-4e80-74bb-bdbe-c4aade727474","chapterSlug":"the-wandering-inn-0353-6-39","claimField":"skill","claimValue":"[Quick Slash]","epistemic":"asserted","sourceChapter":"6.39"}
+{"id":"01a0b70b-4e80-71c4-a3f6-38fd9d0dddf9","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b70b-4e80-7e0f-88de-f88f22bfd661","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Member of adventuring team with Pisces","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b70b-4e80-7477-9e39-8c27ade7c397","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Respectful of Pisces' abilities","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b70b-4e80-7c33-a157-1466441f415e","chapterSlug":"the-wandering-inn-0367-6-51-a","claimField":"trait","claimValue":"Willing to engage in play and physical experimentation","epistemic":"asserted","sourceChapter":"6.51 A"}
+{"id":"01a0b70b-4e80-7067-b1e3-12b1c41335cc","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-749f-90d5-f1e7da1539bc","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-7574-8123-18d08c1fa0f1","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"has three arms","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-7dbe-a6ea-50c9058ffea3","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"wears a Forceshield Buckler","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-7ac0-8549-d47d853d2335","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"approximately four years old","epistemic":"claimed","claimedBy":"Yvlon","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-767f-877a-a57d827b6f39","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"trait","claimValue":"lacks subtlety in social interaction","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-708a-88ed-5130607294ce","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"skill","claimValue":"Quick Movement","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-708e-a4b0-b5f346ea9fef","chapterSlug":"the-wandering-inn-0373-6-56","claimField":"skill","claimValue":"Quick Slash","epistemic":"asserted","sourceChapter":"6.56"}
+{"id":"01a0b70b-4e80-7a5e-a69e-c24b8f7ab93a","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b70b-4e80-7733-9014-0531b7e0c44d","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"Three years old","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b70b-4e80-7efb-9d77-f12d0b9b1a7c","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"Loyal to his team","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b70b-4e80-7301-85e4-f87073dbe798","chapterSlug":"the-wandering-inn-0374-6-57","claimField":"trait","claimValue":"Strong in combat","epistemic":"asserted","sourceChapter":"6.57"}
+{"id":"01a0b70b-4e80-75bf-adc1-3570ab5bb39c","chapterSlug":"the-wandering-inn-0376-6-59","claimField":"identity","claimValue":"an Antinium","epistemic":"asserted","sourceChapter":"6.59"}
+{"id":"01a0b70b-4e80-75d6-9698-47e41ecf4c02","chapterSlug":"the-wandering-inn-0376-6-59","claimField":"trait","claimValue":"member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"6.59"}
+{"id":"01a0b70b-4e80-7047-b407-9931dc8bddd8","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70b-4e80-73d1-96b2-87ac3b7b3bca","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70b-4e80-7c5b-8e60-34f61a1d6c3b","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"has three arms","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70b-4e80-75ab-846f-5bd351e384fb","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"former Prognugator","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70b-4e80-779f-9a8e-7d1753a5ac87","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"cast out of his Hive","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70b-4e80-74d4-a374-4b1790c56c41","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b70b-4e80-7d85-a3bd-bebbeda98e6d","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b70b-4e80-73cf-b4b2-2265f8b85c67","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"trait","claimValue":"educated in warfare","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b70b-4e80-748e-b6d0-038ff76da9b8","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"trait","claimValue":"speaks with mandibles","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b70b-4e80-7c5f-8a52-3832a957d9fd","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"skill","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b70b-4e80-77d4-95c1-4f4784ea523e","chapterSlug":"the-wandering-inn-0383-6-64","claimField":"skill","claimValue":"Ring of Jumping","epistemic":"asserted","sourceChapter":"6.64"}
+{"id":"01a0b70b-4e80-7631-ade2-d8802843395b","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b70b-4e80-7d31-957b-651ea5c09418","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"trait","claimValue":"Unwavering loyalty to team","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b70b-4e80-73a9-85c2-5641eb93a146","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"trait","claimValue":"Disarms through humor","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b70b-4e80-7002-bbc4-cce4f04bc064","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"skill","claimValue":"Bow mastery","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b70b-4e80-743c-9ce3-5c0210faf569","chapterSlug":"the-wandering-inn-0384-6-65","claimField":"skill","claimValue":"Arrow precision","epistemic":"asserted","sourceChapter":"6.65"}
+{"id":"01a0b70b-4e80-7544-bb99-7afb0508e067","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-7891-8928-e54c62ffbefa","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"antinium","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-7f8d-bf94-ceec83d4d2e6","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"one antenna torn off during battle","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-78c9-90d4-285511a81269","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"bleeds green","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-75dd-b235-2e7cad3e3a81","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"wears Ring of Barkskin","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-792e-81b3-56b5d4925382","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"carries Forceshield and dual blades","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-7dcb-91b2-aad0fddc6626","chapterSlug":"the-wandering-inn-0385-6-66-h","claimField":"trait","claimValue":"deeply devoted to Yvlon, trembles at risk of losing her","epistemic":"asserted","sourceChapter":"6.66 H"}
+{"id":"01a0b70b-4e80-7779-afc5-110baf548520","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-4e80-76e8-9cc2-a886eb2b2d82","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Antinium Worker","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-4e80-7d03-89e1-6257027e521f","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Loyal to team","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-4e80-7a8d-a31f-aa0e3f08c7ee","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"skill","claimValue":"Surefoot","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-4e80-7b22-a623-302d55792ce0","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"skill","claimValue":"Evasive Flip","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70b-4e80-7084-924d-3be932c09ee9","chapterSlug":"the-wandering-inn-0410-7-13-k","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"7.13 K"}
+{"id":"01a0b70b-4e80-7eb4-8225-94298a960294","chapterSlug":"the-wandering-inn-0420-7-20","claimField":"trait","claimValue":"Antinium Worker","epistemic":"asserted","sourceChapter":"7.20"}
+{"id":"01a0b70b-4e80-7c8d-ade3-82ea4ae12a1f","chapterSlug":"the-wandering-inn-0420-7-20","claimField":"trait","claimValue":"three years old","epistemic":"asserted","sourceChapter":"7.20"}
+{"id":"01a0b70b-4e80-7a0b-b921-fa938206bac9","chapterSlug":"the-wandering-inn-0420-7-20","claimField":"skill","claimValue":"crossbow mastery","epistemic":"asserted","sourceChapter":"7.20"}
+{"id":"01a0b70b-4e80-7029-9afc-87e9008c43ba","chapterSlug":"the-wandering-inn-0440-7-37","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"7.37"}
+{"id":"01a0b70b-4e80-76d4-9478-818c10bbb7e9","chapterSlug":"the-wandering-inn-0440-7-37","claimField":"trait","claimValue":"Gold-rank registered adventurer","epistemic":"asserted","sourceChapter":"7.37"}
+{"id":"01a0b70b-4e80-732b-8e86-bbb381e377d1","chapterSlug":"the-wandering-inn-0440-7-37","claimField":"trait","claimValue":"Member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"7.37"}
+{"id":"01a0b70b-4e80-7f0e-bd64-49e943504e28","chapterSlug":"the-wandering-inn-0440-7-37","claimField":"trait","claimValue":"Fights with Forceshield, dagger, and shortsword","epistemic":"asserted","sourceChapter":"7.37"}
+{"id":"01a0b70b-4e80-7eed-96e7-4d3de50966d1","chapterSlug":"the-wandering-inn-0440-7-37","claimField":"trait","claimValue":"Has a [Focus of Ire] skill that draws enemy attention","epistemic":"asserted","sourceChapter":"7.37"}
+{"id":"01a0b70b-4e80-75cd-af76-bd8130e97a15","chapterSlug":"the-wandering-inn-0452-7-45","claimField":"class","claimValue":"[Skirmisher]","epistemic":"asserted","sourceChapter":"7.45"}
+{"id":"01a0b70b-4e80-7999-bf81-581495295f1d","chapterSlug":"the-wandering-inn-0452-7-45","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"7.45"}
+{"id":"01a0b70b-4e80-7509-8668-a80beeeb9dcc","chapterSlug":"the-wandering-inn-0452-7-45","claimField":"trait","claimValue":"Owns a tree with a deed from Yvlon","epistemic":"asserted","sourceChapter":"7.45"}
+{"id":"01a0b70b-4e80-7251-91dd-5ee8ddf788ba","chapterSlug":"the-wandering-inn-0452-7-45","claimField":"trait","claimValue":"Young, around two years old","epistemic":"claimed","claimedBy":"Ceria's observation","sourceChapter":"7.45"}
+{"id":"01a0b70b-4e80-778b-ad0d-f78e2ee9d277","chapterSlug":"the-wandering-inn-0452-7-45","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"7.45"}
+{"id":"01a0b70b-4e80-796d-ba05-9d9456f465d7","chapterSlug":"the-wandering-inn-0483-8-00","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted"}
+{"id":"01a0b70b-4e80-7477-b080-b2a3efecf048","chapterSlug":"the-wandering-inn-0483-8-00","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.00"}
+{"id":"01a0b70b-4e80-779f-adeb-9f45d9cd145f","chapterSlug":"the-wandering-inn-0504-8-17-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.17 H"}
+{"id":"01a0b70b-4e80-792f-b520-3f09d735191b","chapterSlug":"the-wandering-inn-0504-8-17-h","claimField":"trait","claimValue":"Three-armed","epistemic":"asserted","sourceChapter":"8.17 H"}
+{"id":"01a0b70b-4e80-79cf-80e0-4e4cc5116f86","chapterSlug":"the-wandering-inn-0504-8-17-h","claimField":"trait","claimValue":"Only known adventuring Antinium","epistemic":"asserted","sourceChapter":"8.17 H"}
+{"id":"01a0b70b-4e80-78fa-b27d-0e104fb0c6b7","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70b-4e80-7d1d-af44-9686add1ccdb","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70b-4e80-7d1c-9824-d8cc49b118b1","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"three arms","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70b-4e80-744b-bf02-643c9903b469","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"trait","claimValue":"wears Barkskin ring and cloak","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70b-4e80-768f-8aef-eaf364223c30","chapterSlug":"the-wandering-inn-0505-8-18-h","claimField":"skill","claimValue":"Evasive Flip","epistemic":"asserted","sourceChapter":"8.18 H"}
+{"id":"01a0b70b-4e80-7317-a785-450ba69b89bf","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-7830-a8be-786276cce309","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"level","claimValue":"28","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-7097-9794-a5b46b427f7d","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-71b3-9bb4-43639791e92a","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"skill","claimValue":"Piercing Strikes","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-7e88-a7fa-df12562307f9","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"skill","claimValue":"Swift Rearmament","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-74a1-a06a-fcd22ec59297","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"skill","claimValue":"Aggregate Volley","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-7e31-bd52-122646cdf972","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"skill","claimValue":"Teammate","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-7b1b-9ca3-36bc6e979913","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"skill","claimValue":"Sense Affection (Platonic)","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-7d01-953e-ff59159aa0bf","chapterSlug":"the-wandering-inn-0506-8-19-h","claimField":"skill","claimValue":"Stronger Together","epistemic":"asserted","sourceChapter":"8.19 H"}
+{"id":"01a0b70b-4e80-76b6-96c1-ab5f1a4e3110","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-7e0f-a8d4-9f426fb9b723","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"class","claimValue":"[Skirmisher]","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-7f7b-8ab1-d7eefa57b6a9","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-7ac9-99ac-e1bb12ab53cf","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"no eyelids","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-72ff-8f07-63af59c9bbe9","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"imprisoned in an underground arena in Chandrar","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-7649-b6ab-8f3c574ee563","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"wakes to find prisoners looting his equipment","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-7f04-aa6e-fca40061cee2","chapterSlug":"the-wandering-inn-0507-8-20","claimField":"trait","claimValue":"subdues prisoners and recovers his weapons","epistemic":"asserted","sourceChapter":"8.20"}
+{"id":"01a0b70b-4e80-7327-abb8-d4635f1e89d6","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"class","claimValue":"Brave Skirmisher","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7a26-9535-cb03e19a060d","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"level","claimValue":"30","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7aa8-9a37-3b4b1cea00db","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7f72-8f32-207a5d432065","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7bf1-9e44-9fb4016a24b9","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7d2f-a58c-eec7a6fd473f","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Worker caste","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7c9f-84d7-8dc80666ed6c","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"trait","claimValue":"Separated from team","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7f3e-80ac-b39f78630b1b","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"skill","claimValue":"Piercing Strikes","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-71cd-b1c1-e05324c0fa2a","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"skill","claimValue":"Swift Rearmament","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7bbf-8dd5-117713e93010","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"skill","claimValue":"Aggregate Volley","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-7597-9b84-6fbbb2fcbde5","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"skill","claimValue":"Barkskin","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-71cc-afc6-b06c9259a7da","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"skill","claimValue":"Knuckles of Iron","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-735e-8727-0900d19a756f","chapterSlug":"the-wandering-inn-0509-8-22-he","claimField":"skill","claimValue":"Surpass Limits","epistemic":"asserted","sourceChapter":"8.22 HE"}
+{"id":"01a0b70b-4e80-72d7-b58c-7d8517937a2b","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-75a1-8d92-4c536699a67f","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-7d18-a30c-e65fe758315e","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"trait","claimValue":"Free Antinium of Liscor","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-7bc8-8b47-031ac9437528","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-7fc4-9394-c369ced40964","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"trait","claimValue":"Obtained Animal Friend class","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-7215-8499-f9495ee4a3f4","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"skill","claimValue":"Combat","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-7013-877b-3e63c86687a4","chapterSlug":"the-wandering-inn-0513-8-25-kh","claimField":"skill","claimValue":"Comforting Petting","epistemic":"asserted","sourceChapter":"8.25"}
+{"id":"01a0b70b-4e80-7f80-9f66-557826e03aaf","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"class","claimValue":"Brave Skirmisher","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-7f1d-9117-625a656dcca6","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"level","claimValue":"32","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-7d2b-8b49-6cf8f1ef0bff","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-7786-bebc-09c961a36f19","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-77ba-926a-f9625214061b","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-737c-aeea-2251ef5bd320","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"trait","claimValue":"devoted to his team above all","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-7ba1-a995-20f9625cfb2e","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"skill","claimValue":"Aggregate Volley","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-726b-be31-b6d45e09b989","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"skill","claimValue":"Knuckles of Iron","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-7163-bef2-b3ca74d79545","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"skill","claimValue":"Surpass Limits","epistemic":"asserted","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-74b5-927e-81ce83bdae06","chapterSlug":"the-wandering-inn-0528-8-37-h","claimField":"skill","claimValue":"Comforting Petting","epistemic":"claimed","claimedBy":"narrator","sourceChapter":"8.37 H"}
+{"id":"01a0b70b-4e80-77ff-b6e8-1c76f8e99319","chapterSlug":"the-wandering-inn-0529-8-38-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.38 H"}
+{"id":"01a0b70b-4e80-74f2-8aab-d42167b0c412","chapterSlug":"the-wandering-inn-0529-8-38-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.38 H"}
+{"id":"01a0b70b-4e80-7120-98b3-644aa5bc8fa5","chapterSlug":"the-wandering-inn-0529-8-38-h","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"claimed","claimedBy":"Pisces","sourceChapter":"8.38 H"}
+{"id":"01a0b70b-4e80-7650-9402-baaada8d0108","chapterSlug":"the-wandering-inn-0529-8-38-h","claimField":"trait","claimValue":"Skilled with all weapons","epistemic":"claimed","claimedBy":"Pisces","sourceChapter":"8.38 H"}
+{"id":"01a0b70b-4e80-752c-9da7-552126022930","chapterSlug":"the-wandering-inn-0529-8-38-h","claimField":"trait","claimValue":"Young","epistemic":"claimed","claimedBy":"Pisces","sourceChapter":"8.38 H"}
+{"id":"01a0b70b-4e80-7b46-baea-e18113bfafe9","chapterSlug":"the-wandering-inn-0529-8-38-h","claimField":"trait","claimValue":"Commendably loyal","epistemic":"claimed","claimedBy":"Pisces","sourceChapter":"8.38 H"}
+{"id":"01a0b70b-4e80-7707-91bb-cbafb456bf38","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"class","claimValue":"Brave Skirmisher","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-77c1-b028-6f7c8bf4e63c","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"level","claimValue":"30","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-7729-abed-6f09d09c4ab5","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"trait","claimValue":"Antinium Individual","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-7b39-bc1e-6d88ac23b8fd","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"trait","claimValue":"Cannot sweat or self-regulate temperature","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-7cba-917a-0f248063ae66","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"trait","claimValue":"Vulnerable to extreme heat despite high level","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-76b4-b1fa-eddac1c2aa5c","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"trait","claimValue":"Loyal and practical","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-7a35-aa4d-4e7a23fd5c70","chapterSlug":"the-wandering-inn-0536-8-43","claimField":"skill","claimValue":"Gold-rank adventuring","epistemic":"asserted","sourceChapter":"8.43"}
+{"id":"01a0b70b-4e80-7a16-b887-b8fcc492a035","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7283-8aee-12e39594a70c","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-75ed-bb72-4b052b182a51","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"level","claimValue":"30","epistemic":"claimed","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7cd4-abfc-373e87de25d5","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7baa-a822-bac9d809e71d","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"three arms","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7cef-b7cd-d7da03c001d3","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"chitin carapace","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7830-9e82-4f61c41b463f","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"one severed arm","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-798a-97be-fc3769676b87","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"owns two trees","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7986-9b24-03c7906d5dc1","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7cc9-859b-8f0ccf8c4f59","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"trait","claimValue":"exiled from the Free Antinium","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7de8-b616-1274ee86ff98","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"skill","claimValue":"Aggregate Volley","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7b73-a31e-eca929a950c6","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"skill","claimValue":"Follow the Story","epistemic":"claimed","claimedBy":"Rémi Canada","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-765e-bd59-74a00590ecdd","chapterSlug":"the-wandering-inn-0541-8-47-h","claimField":"skill","claimValue":"Feel the Rhythm","epistemic":"asserted","sourceChapter":"8.47 H"}
+{"id":"01a0b70b-4e80-7438-8d18-ca998bf2de08","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-7a63-af0e-24a85372599b","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"level","claimValue":"30","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-7cd3-9bad-be04d45cb579","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"trait","claimValue":"Exile from Free Antinium Hive","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-7f0e-ac62-6335f15d52eb","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"trait","claimValue":"Three years old","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-7af7-9c06-7f67ccd32786","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"trait","claimValue":"Created from ten thousand Antinium","epistemic":"claimed","claimedBy":"Ksmvr","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-732d-bf14-389c2e538bd0","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"skill","claimValue":"Sense Affection","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-71ef-aa23-825cdb8c65ae","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"skill","claimValue":"Silver Illusion – Sword School","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-7f27-9288-56827c08a45e","chapterSlug":"the-wandering-inn-0542-8-48-h","claimField":"skill","claimValue":"Long Backstep","epistemic":"asserted","sourceChapter":"8.48 H"}
+{"id":"01a0b70b-4e80-7f0d-8f50-98a274eea897","chapterSlug":"the-wandering-inn-0554-8-59-h","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"8.59"}
+{"id":"01a0b70b-4e80-7fff-b1ef-25dfec9dd061","chapterSlug":"the-wandering-inn-0554-8-59-h","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.59"}
+{"id":"01a0b70b-4e80-7235-b923-0b80c2c82598","chapterSlug":"the-wandering-inn-0554-8-59-h","claimField":"trait","claimValue":"Gold-rank Adventurer","epistemic":"asserted","sourceChapter":"8.59"}
+{"id":"01a0b70b-4e80-7047-9d5e-6ec8e2574452","chapterSlug":"the-wandering-inn-0577-8-78-f","claimField":"class","claimValue":"Brave Skirmisher","epistemic":"asserted"}
+{"id":"01a0b70b-4e80-78ca-affa-3aee6cee7050","chapterSlug":"the-wandering-inn-0577-8-78-f","claimField":"trait","claimValue":"Antinium adventurer from Izril","epistemic":"asserted","sourceChapter":"8.78 F"}
+{"id":"01a0b70b-4e80-740f-b9b1-baad0bcde5b4","chapterSlug":"the-wandering-inn-0577-8-78-f","claimField":"trait","claimValue":"wields silver blades and inherited the Silver Illusion sword school","epistemic":"asserted","sourceChapter":"8.78 F"}
+{"id":"01a0b70b-4e80-7111-9c91-d25a120ce718","chapterSlug":"the-wandering-inn-0577-8-78-f","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.78 F"}
+{"id":"01a0b70b-4e80-74d8-aa84-d3ef09c250f6","chapterSlug":"the-wandering-inn-0577-8-78-f","claimField":"trait","claimValue":"fights alongside the Empress of Beasts","epistemic":"asserted","sourceChapter":"8.78 F"}
+{"id":"01a0b70b-4e80-7f6e-9e96-3129ad0c10a5","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b70b-4e80-7d44-85cd-d1a143a5a4ef","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"trait","claimValue":"Gold-rank adventurer","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b70b-4e80-7659-bb97-92a93681b44d","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"trait","claimValue":"Subject of documentaries","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b70b-4e80-76b4-a2a6-9d34eb916e15","chapterSlug":"the-wandering-inn-0580-8-81","claimField":"skill","claimValue":"Skilled adventurer","epistemic":"asserted","sourceChapter":"8.81"}
+{"id":"01a0b70b-4e80-7e3b-b7fa-47b21adf2058","chapterSlug":"the-wandering-inn-0604-9-12","claimField":"identity","claimValue":"Ksmvr of Chandrar","epistemic":"claimed","claimedBy":"fleeing civilians","sourceChapter":"9.12"}
+{"id":"01a0b70b-4e80-7459-870b-bbe66e151001","chapterSlug":"the-wandering-inn-0604-9-12","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"9.12"}
+{"id":"01a0b70b-4e80-750b-8a70-70835d8b2269","chapterSlug":"the-wandering-inn-0604-9-12","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.12"}
+{"id":"01a0b70b-4e80-7aa3-82a0-d105eb644810","chapterSlug":"the-wandering-inn-0604-9-12","claimField":"trait","claimValue":"member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"9.12"}
+{"id":"01a0b70b-4e80-7a74-9ab8-3344e16a120f","chapterSlug":"the-wandering-inn-0604-9-12","claimField":"skill","claimValue":"dancing","epistemic":"asserted","sourceChapter":"9.12"}
+{"id":"01a0b70b-4e80-7acb-9cc8-63b8d871fb81","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70b-4e80-75da-aaff-44ea08c5cb26","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"trait","claimValue":"Has antennae and mandibles","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70b-4e80-7b0a-8e70-5c827a3739d9","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Sense Affection (Platonic)]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70b-4e80-752c-926d-0477a8ff16b1","chapterSlug":"the-wandering-inn-0620-interlude-adventurers-pt-1","claimField":"skill","claimValue":"[Teammate]","epistemic":"asserted","sourceChapter":"620"}
+{"id":"01a0b70b-4e80-70b2-a58a-8783f99fb692","chapterSlug":"the-wandering-inn-0621-interlude-adventurers-pt-2","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"621"}
+{"id":"01a0b70b-4e80-7253-aac0-76da84c5134f","chapterSlug":"the-wandering-inn-0621-interlude-adventurers-pt-2","claimField":"class","claimValue":"Soldier","epistemic":"asserted","sourceChapter":"621"}
+{"id":"01a0b70b-4e80-771a-a665-e19025a4292f","chapterSlug":"the-wandering-inn-0621-interlude-adventurers-pt-2","claimField":"trait","claimValue":"has regrown arm","epistemic":"asserted","sourceChapter":"621"}
+{"id":"01a0b70b-4e80-7072-bc68-d7ad4fd14d7c","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-7724-9393-36cd828a8803","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Owns trees in multiple cities","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-7f10-ae9d-000d6e5ea29d","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Level 8 [Teammate]","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-738d-974b-e50720ae97d8","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Level 13 [Animal Friend]","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-7617-92cc-00935ef0a06d","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Level 7 [Tree Collector]","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-7be1-9f58-9345829a44fb","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Level 6 [Dancer]","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-751a-9e7e-deaf0eff228e","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"trait","claimValue":"Can communicate with animals","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-72d9-9f26-97cf85fde820","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"skill","claimValue":"Silver Illusion Sword School","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-721c-8418-13a1688b95c4","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"skill","claimValue":"Recital: Litany of Possession","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-75c2-ae76-8c7bc9c205a2","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"skill","claimValue":"Bound Spell of the Collector – Summon Leaves","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-71b6-8a7e-c18fadd2a413","chapterSlug":"the-wandering-inn-0637-9-36-ho","claimField":"skill","claimValue":"Animal Respect: Friend by Deed","epistemic":"asserted","sourceChapter":"9.36"}
+{"id":"01a0b70b-4e80-7b49-b3c1-59cc7707bbb8","chapterSlug":"the-wandering-inn-0638-9-37-ho","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.37 HO"}
+{"id":"01a0b70b-4e80-7123-91da-e0c7374a6dfc","chapterSlug":"the-wandering-inn-0638-9-37-ho","claimField":"trait","claimValue":"Curious about learning","epistemic":"asserted","sourceChapter":"9.37 HO"}
+{"id":"01a0b70b-4e80-78e9-baad-71fb6136c6d4","chapterSlug":"the-wandering-inn-0638-9-37-ho","claimField":"trait","claimValue":"Happy and excitable","epistemic":"asserted","sourceChapter":"9.37 HO"}
+{"id":"01a0b70b-4e80-7d18-a6aa-71bcf9efd1b4","chapterSlug":"the-wandering-inn-0638-9-37-ho","claimField":"trait","claimValue":"Can be calming presence for Yvlon's rage","epistemic":"claimed","claimedBy":"Berr the Berserker","sourceChapter":"9.37 HO"}
+{"id":"01a0b70b-4e80-7983-88f4-a7e767223c5e","chapterSlug":"the-wandering-inn-0638-9-37-ho","claimField":"skill","claimValue":"Multiple limbs (four arms)","epistemic":"asserted","sourceChapter":"9.37 HO"}
+{"id":"01a0b70b-4e80-7ea5-8ec3-8364f126c596","chapterSlug":"the-wandering-inn-0638-9-37-ho","claimField":"skill","claimValue":"Climbing ability","epistemic":"asserted","sourceChapter":"9.37 HO"}
+{"id":"01a0b70b-4e80-71ea-8f52-60029b3ae02d","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"identity","claimValue":"Antinium","epistemic":"claimed","claimedBy":"Yvlon","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70b-4e80-7408-9a70-06879added32","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"trait","claimValue":"member of Horns of Hammerad","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70b-4e80-76c9-b692-a76206473bd3","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"trait","claimValue":"nervous around Bird","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70b-4e80-795e-b8da-90e4a9893d82","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b70b-4e80-75b5-b77c-cd828892d4f1","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b70b-4e80-7428-bc74-829ac1529343","chapterSlug":"the-wandering-inn-0657-9-46-s","claimField":"trait","claimValue":"Part of the Horns group","epistemic":"asserted","sourceChapter":"9.46 S"}
+{"id":"01a0b70b-4e80-7ce2-b84f-9a254e603a85","chapterSlug":"the-wandering-inn-0660-9-49","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"9.49"}
+{"id":"01a0b70b-4e80-71d1-8733-7562595a8348","chapterSlug":"the-wandering-inn-0660-9-49","claimField":"trait","claimValue":"cannot breathe in fitted armor","epistemic":"asserted","sourceChapter":"9.49"}
+{"id":"01a0b70b-4e80-703f-bffc-10b499492515","chapterSlug":"the-wandering-inn-0660-9-49","claimField":"trait","claimValue":"has Ring of Barkskin","epistemic":"asserted","sourceChapter":"9.49"}
+{"id":"01a0b70b-4e80-73c4-b89e-dd1d4e4ae2ea","chapterSlug":"the-wandering-inn-0661-9-50","claimField":"trait","claimValue":"learning to knit","epistemic":"asserted","sourceChapter":"9.50"}
+{"id":"01a0b70b-4e80-7d17-96e6-b0046d0a64bf","chapterSlug":"the-wandering-inn-0661-9-50","claimField":"trait","claimValue":"seeks to clarify ambiguous statements","epistemic":"asserted","sourceChapter":"9.50"}
+{"id":"01a0b70b-4e80-7204-838b-43072211ed57","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"class","claimValue":"Skirmisher","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-79b9-8cc7-962ded8b85e3","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"trait","claimValue":"Four-armed Antinium","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-7add-9dbe-baca4921de23","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"trait","claimValue":"Observant and analytical","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-74b8-8138-89a26bc49bca","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"trait","claimValue":"Perceptive to distance anomalies in Crossroads","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-707b-9e09-37a2dc2ebbfa","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"skill","claimValue":"Crossbow","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-7db3-b30a-cffa3d8ec5d0","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"skill","claimValue":"Dual-sword combat","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-7614-9fb5-a0f7cec94c72","chapterSlug":"the-wandering-inn-0677-9-64-bh","claimField":"skill","claimValue":"Silver Illusion techniques","epistemic":"asserted","sourceChapter":"9.64"}
+{"id":"01a0b70b-4e80-7170-91ab-82e5a0f721fe","chapterSlug":"the-wandering-inn-0683-9-69-h-pt-1","claimField":"trait","claimValue":"Antinium exoskeleton provides natural armor","epistemic":"asserted","sourceChapter":"9.69 H (Pt. 1)"}
+{"id":"01a0b70b-4e80-720b-8b49-0b2e107c7048","chapterSlug":"the-wandering-inn-0683-9-69-h-pt-1","claimField":"trait","claimValue":"Self-regenerating via gel application","epistemic":"asserted","sourceChapter":"9.69 H (Pt. 1)"}
+{"id":"01a0b70b-4e80-7ad6-9e8f-499a1c3acfa2","chapterSlug":"the-wandering-inn-0683-9-69-h-pt-1","claimField":"trait","claimValue":"Questions whether he still enjoys adventuring","epistemic":"asserted","sourceChapter":"9.69 H (Pt. 1)"}
+{"id":"01a0b70b-4e80-7dc1-930e-9a7fcfc1f1e1","chapterSlug":"the-wandering-inn-0683-9-69-h-pt-1","claimField":"skill","claimValue":"Ring of Jumping","epistemic":"asserted","sourceChapter":"9.69 H (Pt. 1)"}
+{"id":"01a0b70b-4e80-7095-9775-1cec73df9888","chapterSlug":"the-wandering-inn-0683-9-69-h-pt-1","claimField":"skill","claimValue":"Sword proficiency","epistemic":"asserted","sourceChapter":"9.69 H (Pt. 1)"}
+{"id":"01a0b70b-4e80-76d1-99a5-c199637af5e9","chapterSlug":"the-wandering-inn-0684-9-69-h-pt-2","claimField":"class","claimValue":"Brave Skirmisher","epistemic":"asserted","sourceChapter":"9.69"}
+{"id":"01a0b70b-4e80-7b03-8d96-b41a9687d454","chapterSlug":"the-wandering-inn-0684-9-69-h-pt-2","claimField":"level","claimValue":"36","epistemic":"asserted","sourceChapter":"9.69"}
+{"id":"01a0b70b-4e80-78da-a628-85f32706351f","chapterSlug":"the-wandering-inn-0684-9-69-h-pt-2","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.69"}
+{"id":"01a0b70b-4e80-74ce-b1bf-13bfc4f7e719","chapterSlug":"the-wandering-inn-0684-9-69-h-pt-2","claimField":"skill","claimValue":"Stealthblade's Mithrilbreaker","epistemic":"asserted","sourceChapter":"9.69"}
+{"id":"01a0b70b-4e80-784c-a092-f61355da7e7e","chapterSlug":"the-wandering-inn-0684-9-69-h-pt-2","claimField":"skill","claimValue":"Animal Friend","epistemic":"asserted","sourceChapter":"9.69"}
+{"id":"01a0b70b-4e80-75ad-84c1-be04217e9bf6","chapterSlug":"the-wandering-inn-0687-9-70-pt-3","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"9.70 (Pt. 3)"}
+{"id":"01a0b70b-4e80-7b24-b0c2-fbf6de807df1","chapterSlug":"the-wandering-inn-0731-10-22-r","claimField":"trait","claimValue":"Team captain of Horns of Hammerad","epistemic":"asserted","sourceChapter":"10.22 R"}
+{"id":"01a0b70b-4e80-78a3-b781-433801a67062","chapterSlug":"the-wandering-inn-0731-10-22-r","claimField":"trait","claimValue":"Protective of Vofea","epistemic":"asserted","sourceChapter":"10.22 R"}
+{"id":"01a0b70b-4e80-7a83-b06e-cd2b365d5b77","chapterSlug":"the-wandering-inn-0733-heroes-of-hraace-pt-1","claimField":"class","claimValue":"Brave Skirmisher","epistemic":"asserted","sourceChapter":"733"}
+{"id":"01a0b70b-4e80-7e31-ae64-5c51632c50b7","chapterSlug":"the-wandering-inn-0733-heroes-of-hraace-pt-1","claimField":"trait","claimValue":"Antinium warrior, expert in many domains","epistemic":"asserted","sourceChapter":"733"}
+{"id":"01a0b70b-4e80-7bbd-93e4-bc4d11b9d4d1","chapterSlug":"the-wandering-inn-0733-heroes-of-hraace-pt-1","claimField":"trait","claimValue":"devoted team member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"733"}
+{"id":"01a0b70b-4e80-7504-b021-bead7747528a","chapterSlug":"the-wandering-inn-0795-10-48-vs","claimField":"identity","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"10.48"}
+{"id":"01a0b70b-4e80-78d2-921e-348b2922fc2a","chapterSlug":"the-wandering-inn-0795-10-48-vs","claimField":"trait","claimValue":"Member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"10.48"}
+{"id":"01a0b70b-4e80-7481-8180-fb2e03f1c304","chapterSlug":"the-wandering-inn-0795-10-48-vs","claimField":"trait","claimValue":"Skilled warrior","epistemic":"asserted","sourceChapter":"10.48"}
+{"id":"01a0b70b-4e80-7e7c-87a7-a113544200fd","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"trait","claimValue":"Stitch-man of Chandrar","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}
+{"id":"01a0b70b-4e80-7721-ba92-dda8d89b702e","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"trait","claimValue":"conquered Golem Tests of Illivere","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}
+{"id":"01a0b70b-4e80-7fe5-aaf0-c04b1dc0f035","chapterSlug":"the-wandering-inn-0796-interlude-barelle-the-bard","claimField":"trait","claimValue":"member of the Horns of Hammerad","epistemic":"asserted","sourceChapter":"Interlude - Barelle the [Bard]"}
+{"id":"01a0b70b-4e80-7103-92db-bfc69ab3bd5f","chapterSlug":"the-wandering-inn-0798-10-50-y","claimField":"trait","claimValue":"Antinium","epistemic":"asserted","sourceChapter":"10.50 Y"}
+{"id":"01a0b70b-4e80-7a4c-9bba-77f230e4768b","chapterSlug":"the-wandering-inn-0798-10-50-y","claimField":"trait","claimValue":"Bound in the Synectic Maze","epistemic":"asserted","sourceChapter":"10.50 Y"}
+{"id":"01a0b70b-4e80-74c7-b9fc-37a441d536df","chapterSlug":"the-wandering-inn-0798-10-50-y","claimField":"skill","claimValue":"Monitor Attribute (Health)","epistemic":"asserted","sourceChapter":"10.50 Y"}

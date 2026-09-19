@@ -8,6 +8,7 @@ export const kenjiroMurata = {
   world: "world/the-wandering-inn",
   maxLevel: 4,
   eventCount: 5,
-  firstChapter: 196,
-  lastChapter: 196,
+  firstChapter: 195,
+  lastChapter: 576,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

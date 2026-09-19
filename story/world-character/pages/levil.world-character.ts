@@ -8,6 +8,7 @@ export const levil = {
   world: "world/the-wandering-inn",
   maxLevel: 25,
   eventCount: 2,
-  firstChapter: 506,
-  lastChapter: 506,
+  firstChapter: 311,
+  lastChapter: 377,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

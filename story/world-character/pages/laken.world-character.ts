@@ -10,4 +10,5 @@ export const laken = {
   eventCount: 21,
   firstChapter: 125,
   lastChapter: 763,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

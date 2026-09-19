@@ -9,5 +9,6 @@ export const larra = {
   maxLevel: 48,
   eventCount: 3,
   firstChapter: 616,
-  lastChapter: 616,
+  lastChapter: 619,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter
