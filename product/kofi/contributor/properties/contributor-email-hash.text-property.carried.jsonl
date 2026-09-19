@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/absence","statement":"The address a contributor pays under exists nowhere here."},{"decisionKind":"decision-kind/departure","statement":"A payment reaches a contributor by hashing the address Stripe reports."},{"decisionKind":"decision-kind/departure","statement":"An address is lowercased before hashing and changed no other way."}]}
+{"definition":"the sha-256 of the address a contributor pays under, written as lower hex"}
+{"id":"01a0ba90-7481-7416-9833-84de20e54722"}
+{"maxLength":64}
+{"nameFormat":null}
+{"propertySlug":"email-hash"}
+{"slug":"contributor-email-hash"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
+{"unique":"unique-kind/page-type"}

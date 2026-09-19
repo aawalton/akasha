@@ -374,6 +374,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/kofi/contributor/contributor.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/chapter-read/story-chapter-read.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/game.page-type.ts"}

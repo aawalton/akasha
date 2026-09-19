@@ -3180,6 +3180,8 @@
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/clear-the-world.domain.ts","id":"01a06579-e4f7-7351-8560-e330582149a8"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
+{"propertySlug":"decision-kind","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
+{"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts","id":"01a0ba90-7481-7416-9833-84de20e54722"}
 {"propertySlug":"decision-kind","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.ts","id":"01a0881b-03c9-76d7-910e-803dd38e06fa"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts","id":"01a06558-c2cc-700b-8c63-64111f2259ac"}

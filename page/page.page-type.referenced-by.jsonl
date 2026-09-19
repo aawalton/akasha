@@ -99,6 +99,7 @@
 {"propertySlug":"extends-type","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts","id":"019e2701-19cb-71d9-a820-bddf28cec176"}
 {"propertySlug":"extends-type","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
 {"propertySlug":"extends-type","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
+{"propertySlug":"extends-type","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
 {"propertySlug":"extends-type","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
 {"propertySlug":"extends-type","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"extends-type","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
@@ -238,6 +239,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/kofi/contributor/contributor.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
