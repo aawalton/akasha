@@ -6,6 +6,8 @@ import {
   accountsAtFor,
   madeIn,
 } from "akasha/agent/model/account/modules/making/model-account-making.module.code.ts"
+import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
+import { anthropic } from "akasha/agent/model/provider/pages/anthropic/anthropic.model-provider.ts"
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -94,7 +96,7 @@ export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
   type: "${pageType.slug}/${modelAccount.slug}",
   slug: "c-seven",
-  provider: "model-provider/anthropic",
+  provider: "${modelProvider.slug}/${anthropic.slug}",
   email: "seven@example.com",
   aliasIndex: 7,
 } as const satisfies ModelAccount

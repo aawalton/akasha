@@ -6,12 +6,16 @@ import {
   songSlugFor,
   valuesLinked,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { auroraRunaway } from "akasha/alan/music/catalog/song/pages/aurora-runaway/aurora-runaway.song.ts"
+import { song } from "akasha/alan/music/catalog/song/song.page-type.ts"
 
 const ORDINARY = "ariana-grande-ordinary-things"
 
 const JASON = "ariana-grande-jasons-song-gave-it-away"
 
-const RUNAWAY = "aurora-runaway"
+const RUNAWAY = auroraRunaway.slug
+
+const RUNAWAY_AT = `${song.slug}/${auroraRunaway.slug}` as const
 
 const SONGS: ReadonlyMap<string, string> = new Map([
   [songKey("ariana-grande", "ordinary things"), ORDINARY],
@@ -89,20 +93,20 @@ test("a title left with nothing by what was dropped keeps itself instead", () =>
 })
 
 test("the song a track names is read whether or not it is written as an address", () => {
-  expect(songNamed({ song: "song/aurora-runaway" })).toBe(RUNAWAY)
-  expect(songNamed({ song: "aurora-runaway" })).toBe(RUNAWAY)
+  expect(songNamed({ song: RUNAWAY_AT })).toBe(RUNAWAY)
+  expect(songNamed({ song: RUNAWAY })).toBe(RUNAWAY)
   expect(songNamed({})).toBeNull()
 })
 
 test("a track given a song names that song as an address", () => {
   expect(valuesLinked({ title: "Runaway" }, RUNAWAY)).toEqual({
     title: "Runaway",
-    song: "song/aurora-runaway",
+    song: RUNAWAY_AT,
   })
 })
 
 test("a track naming a song no longer matched gives that song up", () => {
-  expect(valuesLinked({ title: "Runaway", song: "song/aurora-runaway" }, null)).toEqual({
+  expect(valuesLinked({ title: "Runaway", song: RUNAWAY_AT }, null)).toEqual({
     title: "Runaway",
   })
 })

@@ -17,6 +17,9 @@ import {
   wrongIn,
 } from "akasha/command/pages/gap/delete/gap-delete.command.code.ts"
 import { gapDelete as commandPage } from "akasha/command/pages/gap/delete/gap-delete.command.ts"
+import { decisionKind } from "akasha/domain/decision-kind/decision-kind.page-type.ts"
+import { departure } from "akasha/domain/decision-kind/pages/departure.decision-kind.ts"
+import { gap as gapKind } from "akasha/domain/decision-kind/pages/gap.decision-kind.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -27,6 +30,10 @@ const GIVEN: Given = {
 }
 
 const HELD = { page: "domain/alpha", statement: "A thing is so." }
+
+const DEPARTURE_AT = `${decisionKind.slug}/${departure.slug}` as const
+
+const GAP_AT = `${decisionKind.slug}/${gapKind.slug}` as const
 
 test("a call naming three words is refused", async () => {
   const said = await gapDelete(["one", "two", "three"], GIVEN)
@@ -49,7 +56,7 @@ test("a name that is no page is refused in words naming it", () => {
 
 test("a decision of another kind stating that text is no gap", () => {
   const value = {
-    decisions: [{ decisionKind: "decision-kind/departure", statement: HELD.statement }],
+    decisions: [{ decisionKind: DEPARTURE_AT, statement: HELD.statement }],
   }
   expect(gapThere(value, HELD.statement)).toBe(false)
 })
@@ -57,8 +64,8 @@ test("a decision of another kind stating that text is no gap", () => {
 test("a gap stating that text is found", () => {
   const value = {
     decisions: [
-      { decisionKind: "decision-kind/departure", statement: "Another thing is so." },
-      { decisionKind: "decision-kind/gap", statement: HELD.statement },
+      { decisionKind: DEPARTURE_AT, statement: "Another thing is so." },
+      { decisionKind: GAP_AT, statement: HELD.statement },
     ],
   }
   expect(gapThere(value, HELD.statement)).toBe(true)

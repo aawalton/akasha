@@ -5336,4 +5336,5 @@
 {"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
 {"propertySlug":"import","fileName":"departure.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts"}
 {"propertySlug":"import","fileName":"departure.decision-kind.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"departure.decision-kind.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
