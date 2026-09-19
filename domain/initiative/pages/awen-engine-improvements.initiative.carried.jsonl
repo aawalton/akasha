@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"Every file the dirty folder held is a page or is deliberately dropped."},{"statement":"Alan has approved the subfolder structure under story."},{"statement":"No story-design-note holds content another page type would carry."},{"statement":"A rulebook designed anew replaces both a game's rulebook and a build's game system."},{"statement":"The engine holds a turn and a game's state as shapes rather than as prose."}]}
+{"intentStack":[{"statement":"Every file the dirty folder held is a page or is deliberately dropped."},{"statement":"Alan has approved the subfolder structure under story."},{"statement":"No story-design-note holds content another page type would carry."},{"statement":"The engine holds a turn and a game's state as shapes rather than as prose."},{"statement":"A rulebook designed anew replaces both a game's rulebook and a build's game system."}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}

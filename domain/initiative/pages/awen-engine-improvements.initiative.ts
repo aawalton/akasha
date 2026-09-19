@@ -10,10 +10,10 @@ export const awenEngineImprovements = {
     { statement: "Every file the dirty folder held is a page or is deliberately dropped." },
     { statement: "Alan has approved the subfolder structure under story." },
     { statement: "No story-design-note holds content another page type would carry." },
+    { statement: "The engine holds a turn and a game's state as shapes rather than as prose." },
     {
       statement:
         "A rulebook designed anew replaces both a game's rulebook and a build's game system.",
     },
-    { statement: "The engine holds a turn and a game's state as shapes rather than as prose." },
   ],
 } as const satisfies Initiative
