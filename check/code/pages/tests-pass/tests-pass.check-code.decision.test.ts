@@ -15,6 +15,7 @@ import {
   AUTHORED_ERRORED,
   AUTHORED_LOGGED_ERROR,
   AUTHORED_ONE_FAILED,
+  AUTHORED_PASSED,
   AUTHORED_TWO_FAILED,
   BREAKS,
   CAPTURED_FOREIGN_HEADER,
@@ -25,6 +26,7 @@ import {
   READS,
   RESOLVES,
   ranAs,
+  ranOverEach,
   repo,
   SORTED_AT,
   scratch,
@@ -36,6 +38,7 @@ import {
   withGuard,
   withoutGuard,
 } from "akasha/check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"
+import { reasonSaid } from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { typingUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import {
@@ -275,6 +278,29 @@ test("what the runner said after a batch ended blames no file in that batch", ()
 test("a refusal blaming no file says the file it names is not the one that failed", () => {
   const ran = ranAs("fail", { files: 2, failed: 1, passed: 12 }, AUTHORED_CHATTY_CLEAN)
   expect(reasonOf(ran, [SORTED_AT], [])).toContain("prints no failure under any file")
+})
+
+const MANY = 60
+
+const HELD = AUTHORED_ONE_FAILED.length + AUTHORED_PASSED.length
+
+test("a refusal carries the failing file's own output rather than the head of the run", () => {
+  const each = [
+    ...Array.from({ length: MANY }, (_, at) => ({
+      path: `held/clean-${String(at)}/one.module.test.ts`,
+      out: AUTHORED_PASSED,
+    })),
+    { path: COUNTED_AT, out: AUTHORED_ONE_FAILED, code: 1 },
+  ]
+  const ran = ranOverEach("fail", { files: MANY + 1, failed: 1, passed: 607 }, each)
+  const said = reasonOf(
+    ran,
+    each.map((one) => one.path),
+    [COUNTED_AT]
+  )
+  expect(said).not.toContain("Ran 10 tests across 1 file")
+  expect(ran.output.length).toBeGreaterThan(HELD * 4)
+  expect(reasonSaid(said, HELD)).toContain('Expected: "1 fileish"')
 })
 
 test("the reason names a file where it stands in the change, not in the world it ran in", () => {
