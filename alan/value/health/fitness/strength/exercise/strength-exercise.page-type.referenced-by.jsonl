@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/box-squat/box-squat.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/brachialis-smr/brachialis-smr.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bradford-rocky-presses/bradford-rocky-presses.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/butt-kicks/butt-kicks.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/butt-lift-bridge/butt-lift-bridge.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/butt-ups/butt-ups.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/butterfly/butterfly.strength-exercise.ts"}
@@ -375,6 +376,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/jerk-dip-squat/jerk-dip-squat.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/jm-press/jm-press.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/jogging-treadmill/jogging-treadmill.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/jumping-jacks/jumping-jacks.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/keg-load/keg-load.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/kettlebell-arnold-press/kettlebell-arnold-press.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/kettlebell-dead-clean/kettlebell-dead-clean.strength-exercise.ts"}
@@ -660,6 +662,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/seated-triceps-press/seated-triceps-press.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/seated-two-arm-palms-up-low-pulley-wrist-curl/seated-two-arm-palms-up-low-pulley-wrist-curl.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/see-saw-press-alternating-side-press/see-saw-press-alternating-side-press.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/shadow-boxing/shadow-boxing.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/shotgun-row/shotgun-row.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/shoulder-circles/shoulder-circles.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/shoulder-press-with-bands/shoulder-press-with-bands.strength-exercise.ts"}
@@ -693,6 +696,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/single-leg-stride-jump/single-leg-stride-jump.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/sit-squats/sit-squats.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/sit-up/sit-up.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/skater-hops/skater-hops.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/skating/skating.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/sled-drag-harness/sled-drag-harness.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/sled-overhead-backward-walk/sled-overhead-backward-walk.strength-exercise.ts"}

@@ -1,0 +1,23 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"cardio"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"pull"}
+{"gripDemand":"none"}
+{"id":"01a0b772-48a2-70a2-9539-03dc3d6c6c46"}
+{"implementCount":1}
+{"isBallistic":true}
+{"laterality":"alternating"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["hamstrings","calves"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["glutes","quadriceps"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"butt-kicks"}
+{"title":"Butt Kicks"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

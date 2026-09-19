@@ -1,0 +1,23 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"cardio"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"push"}
+{"gripDemand":"none"}
+{"id":"01a0b772-2703-775b-8334-ac993a77f601"}
+{"implementCount":1}
+{"isBallistic":true}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"other"}
+{"primaryMuscles":["shoulders","calves"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["quadriceps","glutes","adductors"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"jumping-jacks"}
+{"title":"Jumping Jacks"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

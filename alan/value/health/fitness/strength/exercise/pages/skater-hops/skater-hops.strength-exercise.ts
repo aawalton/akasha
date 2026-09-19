@@ -1,0 +1,27 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const skaterHops = {
+  id: "01a0b772-f2ab-7cb4-a5eb-bd7ba9b48c05",
+  type: "page-type/strength-exercise",
+  slug: "skater-hops",
+  title: "Skater Hops",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "alternating",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "legs",
+  primaryMuscles: ["glutes", "abductors"],
+  scoringMode: "time",
+  secondaryMuscles: ["quadriceps", "calves", "adductors"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies StrengthExercise

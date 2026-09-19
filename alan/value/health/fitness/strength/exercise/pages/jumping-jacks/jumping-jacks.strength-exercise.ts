@@ -1,0 +1,27 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const jumpingJacks = {
+  id: "01a0b772-2703-775b-8334-ac993a77f601",
+  type: "page-type/strength-exercise",
+  slug: "jumping-jacks",
+  title: "Jumping Jacks",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "other",
+  primaryMuscles: ["shoulders", "calves"],
+  scoringMode: "time",
+  secondaryMuscles: ["quadriceps", "glutes", "adductors"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies StrengthExercise

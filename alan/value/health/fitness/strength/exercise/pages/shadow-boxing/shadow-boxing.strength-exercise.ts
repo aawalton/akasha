@@ -1,0 +1,27 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const shadowBoxing = {
+  id: "01a0b772-d1a2-7f29-b607-36aeab60820a",
+  type: "page-type/strength-exercise",
+  slug: "shadow-boxing",
+  title: "Shadow Boxing",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "alternating",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "push",
+  primaryMuscles: ["shoulders", "chest"],
+  scoringMode: "time",
+  secondaryMuscles: ["abdominals", "triceps", "calves"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies StrengthExercise

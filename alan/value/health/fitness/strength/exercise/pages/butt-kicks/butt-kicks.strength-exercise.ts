@@ -1,0 +1,27 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const buttKicks = {
+  id: "01a0b772-48a2-70a2-9539-03dc3d6c6c46",
+  type: "page-type/strength-exercise",
+  slug: "butt-kicks",
+  title: "Butt Kicks",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "pull",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "alternating",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings", "calves"],
+  scoringMode: "time",
+  secondaryMuscles: ["glutes", "quadriceps"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies StrengthExercise

@@ -9,6 +9,7 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bodyweight-reverse-lunge/bodyweight-reverse-lunge.strength-exercise.ts","id":"019efbeb-3290-7f24-9fea-5a3c8c91957b"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bodyweight-squat/bodyweight-squat.strength-exercise.ts","id":"019ebc76-a8c2-7389-96c4-cfa2681ade06"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bottoms-up/bottoms-up.strength-exercise.ts","id":"019ebc76-a9c3-7299-b218-344212b58c3b"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/butt-kicks/butt-kicks.strength-exercise.ts","id":"01a0b772-48a2-70a2-9539-03dc3d6c6c46"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/butt-lift-bridge/butt-lift-bridge.strength-exercise.ts","id":"019ebc76-b644-7637-bade-cbfe46552834"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/butt-ups/butt-ups.strength-exercise.ts","id":"019ebc76-b607-748c-92f5-3debc8259ce3"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/chin-up/chin-up.strength-exercise.ts","id":"019ebc76-d012-78f6-87b1-2b51133a3cab"}
@@ -57,6 +58,7 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/isometric-wipers/isometric-wipers.strength-exercise.ts","id":"019ebc77-811b-7f5a-bfa1-e770cf3f0c21"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/jackknife-sit-up/jackknife-sit-up.strength-exercise.ts","id":"019ebc77-819e-7af5-8f78-8ea710564c0d"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/janda-sit-up/janda-sit-up.strength-exercise.ts","id":"019ebc77-81da-7ad0-8df6-5c12da675a13"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/jumping-jacks/jumping-jacks.strength-exercise.ts","id":"01a0b772-2703-775b-8334-ac993a77f601"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/knee-circles/knee-circles.strength-exercise.ts","id":"019ebc77-876f-750b-b1ec-08c63b355db9"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/knee-tuck-jump/knee-tuck-jump.strength-exercise.ts","id":"019ebc77-87f0-7cec-bd70-2b168584304f"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/lateral-bound/lateral-bound.strength-exercise.ts","id":"019ebc77-8b35-7ee0-ba15-915197a9d185"}
@@ -90,6 +92,7 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seated-front-deltoid/seated-front-deltoid.strength-exercise.ts","id":"019ebc78-5819-7479-934f-2d770e1e26e0"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seated-glute/seated-glute.strength-exercise.ts","id":"019ebc78-585d-7501-ba48-fb391609d0ff"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seated-leg-tucks/seated-leg-tucks.strength-exercise.ts","id":"019ebc78-5cf0-7155-8e24-a67a412156ac"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/shadow-boxing/shadow-boxing.strength-exercise.ts","id":"01a0b772-d1a2-7f29-b607-36aeab60820a"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/side-bridge/side-bridge.strength-exercise.ts","id":"019ebc78-61f1-7569-92a5-f0695297fd32"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/side-jackknife/side-jackknife.strength-exercise.ts","id":"019ebc78-6269-75db-b1b2-0b976bdd2f0c"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/side-leg-raises/side-leg-raises.strength-exercise.ts","id":"019ebc78-631f-7a8c-af2a-a9bf9a4145cb"}
@@ -97,6 +100,7 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/single-leg-butt-kick/single-leg-butt-kick.strength-exercise.ts","id":"019ebc78-6766-7d3e-83fd-c816b01cc1b1"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/single-leg-glute-bridge/single-leg-glute-bridge.strength-exercise.ts","id":"019ebc78-67a4-79ea-92f2-e9de4ac56d75"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/sit-up/sit-up.strength-exercise.ts","id":"019ebc78-6825-7d3d-94a6-db98bdbd4d1a"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/skater-hops/skater-hops.strength-exercise.ts","id":"01a0b772-f2ab-7cb4-a5eb-bd7ba9b48c05"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/spider-crawl/spider-crawl.strength-exercise.ts","id":"019ebc78-7d7c-7526-9fe4-aaaaf74fa4a4"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/split-jump/split-jump.strength-exercise.ts","id":"019ebc78-7ebe-78a0-a3a8-dae1230db910"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/standing-calf-raise-bodyweight/standing-calf-raise-bodyweight.strength-exercise.ts","id":"019ee5fe-9a46-7c8b-8fa3-37e443f9ffd6"}
