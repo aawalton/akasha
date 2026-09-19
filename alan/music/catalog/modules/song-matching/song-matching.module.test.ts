@@ -1,11 +1,19 @@
 import { expect, test } from "bun:test"
+import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import {
+  artistOf,
+  artistUnder,
   compositionTitle,
   songKey,
   songNamed,
   songSlugFor,
   valuesLinked,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { musicalTheaterWickedTheSoundtrack } from "akasha/alan/music/catalog/release/pages/musical-theater-wicked-the-soundtrack/musical-theater-wicked-the-soundtrack.release.ts"
+import { release } from "akasha/alan/music/catalog/release/release.page-type.ts"
+import { musicalTheater } from "akasha/alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts"
+import { releaseCollection } from "akasha/alan/music/catalog/release-collection/release-collection.page-type.ts"
 import { auroraRunaway } from "akasha/alan/music/catalog/song/pages/aurora-runaway/aurora-runaway.song.ts"
 import { song } from "akasha/alan/music/catalog/song/song.page-type.ts"
 
@@ -22,6 +30,39 @@ const SONGS: ReadonlyMap<string, string> = new Map([
   [songKey("ariana-grande", "Jason's Song (Gave It Away)"), JASON],
   [songKey("aurora", "Runaway"), RUNAWAY],
 ])
+
+const BY_RELEASE: ReadonlyMap<string, string> = new Map([["sylvia-daley-pixie", "sylvia-daley"]])
+
+const ON_PIXIE = { partOfCollections: ["release/sylvia-daley-pixie"] }
+
+test("a release names the artist the release is filed under", () => {
+  expect(artistUnder({ partOfCollections: [`${artist.slug}/${sylviaDaley.slug}`] })).toBe(
+    sylviaDaley.slug
+  )
+})
+
+test("a release filed under a collection that is no artist names no artist", () => {
+  const under = `${releaseCollection.slug}/${musicalTheater.slug}`
+  expect(artistUnder({ partOfCollections: [under] })).toBeNull()
+  expect(artistUnder({})).toBeNull()
+})
+
+test("a track whose release names no artist takes the artist Spotify credits on it", () => {
+  const onWicked = {
+    partOfCollections: [`${release.slug}/${musicalTheaterWickedTheSoundtrack.slug}`],
+    trackArtist: [{ artistName: "Cynthia Erivo" }, { artistName: "Ariana Grande" }],
+  }
+  expect(artistOf(BY_RELEASE, onWicked)).toBe("cynthia-erivo")
+})
+
+test("a release naming an artist outranks the artist Spotify credits on a track", () => {
+  const onPixie = { ...ON_PIXIE, trackArtist: [{ artistName: "Somebody Else" }] }
+  expect(artistOf(BY_RELEASE, onPixie)).toBe(sylviaDaley.slug)
+})
+
+test("a track no release and no credit names takes no artist", () => {
+  expect(artistOf(BY_RELEASE, { title: "Elf" })).toBeNull()
+})
 
 test("a title a song holds whole is matched whole", () => {
   expect(songSlugFor(SONGS, "ariana-grande", "ordinary things")).toBe(ORDINARY)

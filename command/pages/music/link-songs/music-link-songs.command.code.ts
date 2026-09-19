@@ -1,4 +1,3 @@
-import { artistSlugOf } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   type Filed,
   type Filing,
@@ -6,6 +5,8 @@ import {
   songFiledFor,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import {
+  artistByRelease,
+  artistOf,
   songNamed,
   songSlugFor,
   valuesLinked,
@@ -30,8 +31,6 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { musicLinkSongs as page } from "akasha/command/pages/music/link-songs/music-link-songs.command.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
-  recordsIn,
-  slugsIn,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -39,13 +38,7 @@ import { sourceFor } from "akasha/page/service/modules/page-composing/page-compo
 
 const TRACK = "track"
 
-const RELEASE = "release"
-
 const SONG = "song"
-
-const UNDER_ARTIST = "artist/"
-
-const TRACK_ARTIST = "trackArtist"
 
 const NAMED = [json, dryRun, trackLimit] as const
 
@@ -78,40 +71,6 @@ export function taken(
     dryRun: read.taken.dryRun,
     limit: read.taken.trackLimit ?? null,
   }
-}
-
-export function artistUnder(value: Value): string | null {
-  const held = value["partOfCollections"]
-  if (!Array.isArray(held)) return null
-  for (const said of held) {
-    if (typeof said === "string" && said.startsWith(UNDER_ARTIST)) {
-      return said.slice(UNDER_ARTIST.length)
-    }
-  }
-  return null
-}
-
-export function artistByRelease(root: string): ReadonlyMap<string, string> {
-  const byRelease = new Map<string, string>()
-  for (const one of valuesOfType(root, RELEASE)) {
-    const slug = textIn(one.value, "slug")
-    const artistSlug = artistUnder(one.value)
-    if (slug === null || artistSlug === null) continue
-    byRelease.set(slug, artistSlug)
-  }
-  return byRelease
-}
-
-export function artistCredited(value: Value): string | null {
-  const first = recordsIn(value[TRACK_ARTIST])[0]
-  const name = first === undefined ? null : textIn(first, "artistName")
-  return name === null || name.trim() === "" ? null : artistSlugOf(name)
-}
-
-export function artistOf(byRelease: ReadonlyMap<string, string>, value: Value): string | null {
-  const releaseSlug = slugsIn(value["partOfCollections"])[0]
-  const under = releaseSlug === undefined ? undefined : byRelease.get(releaseSlug)
-  return under ?? artistCredited(value)
 }
 
 export function songMatched(

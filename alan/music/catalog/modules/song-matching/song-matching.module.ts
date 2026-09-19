@@ -68,5 +68,9 @@ export const songMatching = {
       statement:
         "A version word outside an aside and outside a tail is no reason to drop anything.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track whose release names no artist takes the artist Spotify credits on it.",
+    },
   ],
 } as const satisfies Module

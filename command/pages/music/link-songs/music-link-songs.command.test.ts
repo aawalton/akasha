@@ -3,20 +3,12 @@ import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
 import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import type { Filing } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
-import { musicalTheaterWickedTheSoundtrack } from "akasha/alan/music/catalog/release/pages/musical-theater-wicked-the-soundtrack/musical-theater-wicked-the-soundtrack.release.ts"
-import { release } from "akasha/alan/music/catalog/release/release.page-type.ts"
-import { musicalTheater } from "akasha/alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts"
-import { releaseCollection } from "akasha/alan/music/catalog/release-collection/release-collection.page-type.ts"
 import {
-  artistOf,
-  artistUnder,
   songFiledOn,
   songMatched,
 } from "akasha/command/pages/music/link-songs/music-link-songs.command.code.ts"
 
 const ARTIST_AT = `${artist.slug}/${sylviaDaley.slug}` as const
-
-const MUSICAL_THEATER_AT = `${releaseCollection.slug}/${musicalTheater.slug}` as const
 
 const SONGS: ReadonlyMap<string, string> = new Map([
   [songKey("sylvia-daley", "Elf"), "sylvia-daley-elf"],
@@ -25,15 +17,6 @@ const SONGS: ReadonlyMap<string, string> = new Map([
 const BY_RELEASE: ReadonlyMap<string, string> = new Map([["sylvia-daley-pixie", "sylvia-daley"]])
 
 const ON_PIXIE = { partOfCollections: ["release/sylvia-daley-pixie"] }
-
-test("a release names the artist the release is filed under", () => {
-  expect(artistUnder({ partOfCollections: [ARTIST_AT] })).toBe(sylviaDaley.slug)
-})
-
-test("a release filed under a collection that is no artist names no artist", () => {
-  expect(artistUnder({ partOfCollections: [MUSICAL_THEATER_AT] })).toBeNull()
-  expect(artistUnder({})).toBeNull()
-})
 
 test("a track is matched under the artist the release carrying it names", () => {
   expect(songMatched(SONGS, BY_RELEASE, { ...ON_PIXIE, title: "Elf" })).toBe("sylvia-daley-elf")
@@ -47,23 +30,6 @@ test("a live take is matched to the song that take is a recording of", () => {
 
 test("a track on no release is matched to no song", () => {
   expect(songMatched(SONGS, BY_RELEASE, { title: "Elf" })).toBeNull()
-})
-
-test("a track whose release names no artist takes the artist Spotify credits on it", () => {
-  const onWicked = {
-    partOfCollections: [`${release.slug}/${musicalTheaterWickedTheSoundtrack.slug}`],
-    trackArtist: [{ artistName: "Cynthia Erivo" }, { artistName: "Ariana Grande" }],
-  }
-  expect(artistOf(BY_RELEASE, onWicked)).toBe("cynthia-erivo")
-})
-
-test("a release naming an artist outranks the artist Spotify credits on a track", () => {
-  const onPixie = { ...ON_PIXIE, trackArtist: [{ artistName: "Somebody Else" }] }
-  expect(artistOf(BY_RELEASE, onPixie)).toBe(sylviaDaley.slug)
-})
-
-test("a track no release and no credit names takes no artist", () => {
-  expect(artistOf(BY_RELEASE, { title: "Elf" })).toBeNull()
 })
 
 test("a track whose release names an artist with no song is matched to no song", () => {

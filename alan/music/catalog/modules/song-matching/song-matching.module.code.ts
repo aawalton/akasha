@@ -1,5 +1,8 @@
+import { artistSlugOf } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
+  recordsIn,
+  slugsIn,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -7,6 +10,12 @@ import {
 const SONG = "song"
 
 const UNDER_ARTIST = "artist/"
+
+const RELEASE = "release"
+
+const TRACK = "track"
+
+const TRACK_ARTIST = "trackArtist"
 
 const LOOSE = /[^a-z0-9]+/gu
 
@@ -51,6 +60,54 @@ export function looseTitle(title: string): string {
 
 export function songKey(artistSlug: string, title: string): string {
   return `${artistSlug}|${looseTitle(title)}`
+}
+
+export function artistUnder(value: Value): string | null {
+  const held = value["partOfCollections"]
+  if (!Array.isArray(held)) return null
+  for (const said of held) {
+    if (typeof said === "string" && said.startsWith(UNDER_ARTIST)) {
+      return said.slice(UNDER_ARTIST.length)
+    }
+  }
+  return null
+}
+
+export function artistByRelease(root: string): ReadonlyMap<string, string> {
+  const byRelease = new Map<string, string>()
+  for (const one of valuesOfType(root, RELEASE)) {
+    const slug = textIn(one.value, "slug")
+    const artistSlug = artistUnder(one.value)
+    if (slug === null || artistSlug === null) continue
+    byRelease.set(slug, artistSlug)
+  }
+  return byRelease
+}
+
+export function artistCredited(value: Value): string | null {
+  const first = recordsIn(value[TRACK_ARTIST])[0]
+  const name = first === undefined ? null : textIn(first, "artistName")
+  return name === null || name.trim() === "" ? null : artistSlugOf(name)
+}
+
+export function artistOf(byRelease: ReadonlyMap<string, string>, value: Value): string | null {
+  const releaseSlug = slugsIn(value["partOfCollections"])[0]
+  const under = releaseSlug === undefined ? undefined : byRelease.get(releaseSlug)
+  return under ?? artistCredited(value)
+}
+
+export function titlesUnderArtist(root: string): ReadonlyMap<string, ReadonlySet<string>> {
+  const byRelease = artistByRelease(root)
+  const held = new Map<string, Set<string>>()
+  for (const one of valuesOfType(root, TRACK)) {
+    const artist = artistOf(byRelease, one.value)
+    const title = textIn(one.value, "title")
+    if (artist === null || title === null) continue
+    const kept = held.get(artist) ?? new Set<string>()
+    kept.add(looseTitle(compositionTitle(title)))
+    held.set(artist, kept)
+  }
+  return held
 }
 
 export function songNamed(value: Value): string | null {
