@@ -29,15 +29,11 @@ function isoInstant(value: unknown): string | null {
   return value
 }
 
-async function readSource(
-  pageTypeSlug: string,
-  userId: string,
-  captureKey?: string
-): Promise<WatcherSyncSourceCounts> {
+async function readSource(pageTypeSlug: string, userId: string): Promise<WatcherSyncSourceCounts> {
   const result = await getPages({
     pageTypeSlug,
     where: [{ key: "accountPage", eq: userId }],
-    select: captureKey === undefined ? ["updatedAt"] : ["updatedAt", captureKey],
+    select: ["updatedAt"],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 1,
     withCount: true,
@@ -47,7 +43,21 @@ async function readSource(
   return {
     count: result.count ?? result.rows.length,
     lastContactAt: typeof contact === "string" ? contact : null,
-    capturedAt: captureKey === undefined ? null : isoInstant(newest?.[captureKey]),
+    capturedAt: null,
+  }
+}
+
+async function readAccountInventory(userId: string): Promise<WatcherSyncSourceCounts> {
+  const held = await getPage({
+    pageTypeSlug: "temper-account",
+    where: [{ key: "title", eq: userId }],
+    select: ["updatedAt", "capturedAt"],
+  })
+  const contact = held?.updatedAt
+  return {
+    count: held == null ? 0 : 1,
+    lastContactAt: typeof contact === "string" ? contact : null,
+    capturedAt: isoInstant(held?.capturedAt),
   }
 }
 
@@ -67,7 +77,7 @@ export async function loader({ request }: { request: Request }) {
       select: ["tokenCreatedAt", "lastRunOutcome"],
     }),
     readSource("temper-account-character", user.id),
-    readSource("temper-inventory-snapshot", user.id, "capturedAt"),
+    readAccountInventory(user.id),
   ])
 
   const createdAt = enrolment?.tokenCreatedAt
