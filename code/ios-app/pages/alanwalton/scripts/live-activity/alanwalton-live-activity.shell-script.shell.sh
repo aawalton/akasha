@@ -137,6 +137,13 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
             )
             carry(started)
             call.resolve(["id": started.id])
+        } catch ActivityAuthorizationError.visibility {
+            // A LAUNCH THAT IS NOT FOREGROUND YET IS ANSWERED WITH NO ACTIVITY RATHER THAN A FAULT.
+            //
+            // iOS refuses an activity asked for by a process it does not hold foreground, and a
+            // cold launch asks before it is held. The app comes forward a moment later and asks
+            // again, so the one refusal on the way in says nothing anyone need act on.
+            call.resolve([:])
         } catch {
             call.reject("the activity would not start: \(error.localizedDescription)")
         }

@@ -242,6 +242,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.ts","id":"01a0595b-ef57-7f8a-a2ee-3943a015a892"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-anchored-read/alanwalton-health-anchored-read.shell-script.ts","id":"01a0595b-ef58-76f8-9419-7a315c06c969"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-foreground-sync/alanwalton-health-foreground-sync.shell-script.ts","id":"01a0918a-3664-7abd-bf6c-187ed7e96493"}
+{"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/live-activity/alanwalton-live-activity.shell-script.ts","id":"01a0ba68-97db-73c8-8a86-d51eb0da597b"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/picture-intent/alanwalton-picture-intent.shell-script.ts","id":"01a09c6a-b3b2-77f6-b74b-12dcf2597e31"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/picture-sending/alanwalton-picture-sending.shell-script.ts","id":"01a09c6b-960a-7d45-83d0-10de2755297d"}
 {"propertySlug":"decision-kind","path":"code/ios-app/properties/marketing-version.text-property.ts","id":"01a05f96-1925-7984-9108-b4d5346476fc"}

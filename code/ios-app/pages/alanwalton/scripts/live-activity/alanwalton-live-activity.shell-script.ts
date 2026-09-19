@@ -24,5 +24,13 @@ export const alanwaltonLiveActivity = {
       decisionKind: "decision-kind/departure",
       statement: "One activity is watched once, however many times a start reaches it.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "iOS refuses an activity asked for by a process it does not hold foreground.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A start refused that way is answered with no activity rather than a fault.",
+    },
   ],
 } as const satisfies ShellScript
