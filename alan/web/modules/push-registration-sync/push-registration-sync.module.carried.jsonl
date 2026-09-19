@@ -1,5 +1,5 @@
 {"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One call posts a token, whichever sort of push that token takes."},{"decisionKind":"decision-kind/departure","statement":"A call naming no sort posts a token taking an alert."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One call posts a token, whichever sort of push that token takes."},{"decisionKind":"decision-kind/departure","statement":"A call naming no sort posts a token taking an alert."},{"decisionKind":"decision-kind/departure","statement":"A token the server refuses is thrown rather than logged."},{"decisionKind":"decision-kind/constraint","statement":"A token that never registers leaves a device no push reaches."}]}
 {"definition":"the device's push token registered as the shell starts"}
 {"id":"01a0655d-dab9-7b64-a9ef-667c2948bf1d"}
 {"slug":"push-registration-sync"}

@@ -26,19 +26,13 @@ export async function postDeviceToken(
     console.error("[push] built an invalid registration body", body.error.issues)
     return
   }
-  try {
-    const res = await apiFetch("/api/push/register", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(body.data),
-    })
-    if (res.ok) {
-      console.info("[push] device token registered")
-    } else {
-      console.error("[push] register POST failed", res.status)
-    }
-  } catch (error: unknown) {
-    console.error("[push] register POST threw", error)
+  const res = await apiFetch("/api/push/register", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body.data),
+  })
+  if (!res.ok) {
+    throw new Error(`the device token was refused registration with ${res.status}`)
   }
 }
 

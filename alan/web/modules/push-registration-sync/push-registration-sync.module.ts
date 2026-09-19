@@ -15,5 +15,13 @@ export const pushRegistrationSync = {
       decisionKind: "decision-kind/departure",
       statement: "A call naming no sort posts a token taking an alert.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A token the server refuses is thrown rather than logged.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A token that never registers leaves a device no push reaches.",
+    },
   ],
 } as const satisfies Module
