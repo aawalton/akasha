@@ -1,6 +1,8 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import {
   type Asking,
   runMechanicalChange,
@@ -39,7 +41,7 @@ const CATALOG_AT = `akasha/${CATALOG_DIR}`
 
 const AKASHA_FILE_CEILING = 15000
 
-const PUT = "change-mechanical/add-file-code"
+const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the catalog of HUD parts, read out of the game's own scene source"
 

@@ -2,4 +2,6 @@
 {"propertySlug":"import","fileName":"add-file-code.change-mechanical.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"add-file-code.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"add-file-code.change-mechanical.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
+{"propertySlug":"import","fileName":"add-file-code.change-mechanical.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"propertySlug":"import","fileName":"add-file-code.change-mechanical.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/add/change-mechanical-file-add.domain.ts","id":"01a07cbe-0ba6-7171-9d7d-de7707aec829"}

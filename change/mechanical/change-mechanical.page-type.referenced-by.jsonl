@@ -34,11 +34,14 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/file-content/change-mechanical-file-content.page-type.types.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.ts"}

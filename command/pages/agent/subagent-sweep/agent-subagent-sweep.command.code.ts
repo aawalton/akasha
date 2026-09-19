@@ -35,6 +35,8 @@ import {
   movedOnto,
   saidOf,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import type {
   Asking,
   Landing,
@@ -57,7 +59,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { agentSubagentSweep as page } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
 
-export const TAKE = "change-mechanical/remove-file-of-any-kind"
+export const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 export interface SeatTranscripts {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>

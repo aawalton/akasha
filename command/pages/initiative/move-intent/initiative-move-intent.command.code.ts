@@ -1,4 +1,6 @@
 import { resolve } from "node:path"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { movePropertyValue } from "akasha/change/mechanical/file-content/move/move-property-value/move-property-value.change-mechanical-file-content.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { initiative } from "akasha/command/argument/pages/initiative.argument.ts"
@@ -16,7 +18,7 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { initiativeMoveIntent as page } from "akasha/command/pages/initiative/move-intent/initiative-move-intent.command.ts"
 import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 
-const CARRIES = "change-mechanical-file-content/move-property-value"
+const CARRIES = `${changeMechanicalFileContent.slug}/${movePropertyValue.slug}` as const
 
 const INTENTS = "intentStack"
 
