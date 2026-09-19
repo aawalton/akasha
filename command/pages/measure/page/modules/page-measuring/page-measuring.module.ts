@@ -15,14 +15,6 @@ export const pageMeasuring = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type is the second part of a file name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file naming a page type nothing declares is counted under no page type.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A page and the properties beside that page are counted under one page type.",
     },
     {
