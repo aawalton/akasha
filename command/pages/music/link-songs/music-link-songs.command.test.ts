@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import {
+  artistUnder,
   songMatched,
   songNamed,
   valuesLinked,
@@ -13,6 +14,15 @@ const SONGS: ReadonlyMap<string, string> = new Map([
 const BY_RELEASE: ReadonlyMap<string, string> = new Map([["sylvia-daley-pixie", "sylvia-daley"]])
 
 const ON_PIXIE = { partOfCollections: ["release/sylvia-daley-pixie"] }
+
+test("a release names the artist the release is filed under", () => {
+  expect(artistUnder({ partOfCollections: ["artist/sylvia-daley"] })).toBe("sylvia-daley")
+})
+
+test("a release filed under a collection that is no artist names no artist", () => {
+  expect(artistUnder({ partOfCollections: ["release-collection/musical-theater"] })).toBeNull()
+  expect(artistUnder({})).toBeNull()
+})
 
 test("a track is matched under the artist the release carrying it names", () => {
   expect(songMatched(SONGS, BY_RELEASE, { ...ON_PIXIE, title: "Elf" })).toBe("sylvia-daley-elf")

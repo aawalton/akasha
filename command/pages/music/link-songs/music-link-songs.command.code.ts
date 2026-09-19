@@ -39,6 +39,8 @@ const SONG = "song"
 
 const SONG_KEY = "song"
 
+const UNDER_ARTIST = "artist/"
+
 const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const NAMED = [json, dryRun] as const
@@ -65,12 +67,23 @@ export function taken(
   return { json: read.taken.json, dryRun: read.taken.dryRun }
 }
 
+export function artistUnder(value: Value): string | null {
+  const held = value["partOfCollections"]
+  if (!Array.isArray(held)) return null
+  for (const said of held) {
+    if (typeof said === "string" && said.startsWith(UNDER_ARTIST)) {
+      return said.slice(UNDER_ARTIST.length)
+    }
+  }
+  return null
+}
+
 export function artistByRelease(root: string): ReadonlyMap<string, string> {
   const byRelease = new Map<string, string>()
   for (const one of valuesOfType(root, RELEASE)) {
     const slug = textIn(one.value, "slug")
-    const artistSlug = slugsIn(one.value["partOfCollections"])[0]
-    if (slug === null || artistSlug === undefined) continue
+    const artistSlug = artistUnder(one.value)
+    if (slug === null || artistSlug === null) continue
     byRelease.set(slug, artistSlug)
   }
   return byRelease

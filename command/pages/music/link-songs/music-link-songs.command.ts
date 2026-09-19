@@ -41,6 +41,10 @@ export const musicLinkSongs = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a song.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A release filed under a collection that is no artist names no artist.",
+    },
   ],
   name: "link-songs",
   arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],
