@@ -11,7 +11,11 @@ import type {
   AlbumTrack,
   AlbumWithTracks,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+
+const ADDS = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const TODAY = "2026-09-15"
 
@@ -182,7 +186,7 @@ test("every track a release carries is composed as an edit of its own", () => {
     today: TODAY,
     edit: (pageTypeSlug, slug) => {
       asked.push(`${pageTypeSlug}/${slug}`)
-      return { at: "change-mechanical/add-file-of-any-kind", given: { at: slug, body: "" } }
+      return { at: ADDS, given: { at: slug, body: "" } }
     },
   })
   expect(edits).toHaveLength(2)
@@ -199,10 +203,7 @@ test("a release whose tracks are filed is marked so within the run that filed th
     album: album(track("t0", "One", 60_000, 1)),
     tracks,
     today: TODAY,
-    edit: (_pageTypeSlug, slug) => ({
-      at: "change-mechanical/add-file-of-any-kind",
-      given: { at: slug, body: "" },
-    }),
+    edit: (_pageTypeSlug, slug) => ({ at: ADDS, given: { at: slug, body: "" } }),
   })
   expect(tracks.byRelease.has(RELEASE)).toBe(true)
 })

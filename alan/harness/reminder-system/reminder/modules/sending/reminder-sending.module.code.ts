@@ -1,3 +1,5 @@
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -10,7 +12,7 @@ import {
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
-const TOOK = "change-mechanical-file/remove-file"
+const TOOK = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const PAGE_TYPE = "reminder"
 

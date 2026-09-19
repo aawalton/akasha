@@ -9,6 +9,10 @@ import {
   parseFictionPage,
   royalRoadUrl,
 } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import {
   type Asking,
   runMechanicalChange,
@@ -31,8 +35,8 @@ const STORY_PAGE_TYPE = "story-read"
 const CHAPTER_PAGE_TYPE = "story-chapter-read"
 const PAGE_TYPE = "page-type"
 const SOURCE = "royal-road"
-const PUT = "change-mechanical/add-file-of-any-kind"
-const RESTATE = "change-mechanical-file/add-if-not-present-file"
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
+const RESTATE = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "unit/words"

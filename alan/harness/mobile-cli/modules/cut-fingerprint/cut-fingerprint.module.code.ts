@@ -1,3 +1,5 @@
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -23,7 +25,7 @@ const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
 const PAGE_TYPE = "page-type"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 

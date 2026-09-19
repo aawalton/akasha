@@ -22,6 +22,8 @@ import {
   getAlbum,
   getArtistAlbums,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Landing,
@@ -48,7 +50,7 @@ import {
 
 export const SOURCE = "spotify"
 
-export const WRITE = "change-mechanical/add-file-of-any-kind"
+export const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const ARTIST = "artist"
 
