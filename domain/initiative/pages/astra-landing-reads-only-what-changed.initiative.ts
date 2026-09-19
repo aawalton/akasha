@@ -10,14 +10,9 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A landing reads only what the paths its change names reach.",
       workingMemory:
-        "A landing over one finding page took 15,984ms after the formatter was batched at `5a4489f6ee7a95c6d3da373104a115aad5c546c7`, run `01a0ba66-fe2f-7000-bb15-8b913861ed99`. What is left is four readings of the whole checkout, each sized by the repository rather than by the change. The checkout holds 380,845 tracked files, 153,856 of them under `.index`.",
+        "A landing over one finding page is 10,674ms, run `01a0babb-739a-7000-b417-5de73eaff513`, down from 15,984ms once the editor's pictures were gated. What is left is read whole on every landing whatever the change names, each reading sized by the repository rather than by the change. The checkout holds 380,845 tracked files, 153,856 of them under `.index`.",
     },
-    {
-      statement:
-        "The gap tree an apply draws covers the pages its change names rather than every page there is.",
-      workingMemory:
-        "Met where a landing moves no picture. `turnedIn` in `tree-turning.module.code.ts` answers from the change's paths and what they held, and `drawnFor` skips the shadow and every drawer it clears. A finding page mended went from 15,984ms to 12,112ms and from 451,892 write calls to 13,787, runs `01a0ba66-fe2f` and `01a0ba82-cbf6`. Left is the landing that does move one, which still reads every page.",
-    },
+
     {
       statement:
         "Whether a type generator turns is answered from the change rather than from a reading of the index.",
