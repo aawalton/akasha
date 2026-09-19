@@ -9,5 +9,6 @@ export const zailGemscale = {
   maxLevel: 44,
   eventCount: 2,
   firstChapter: 662,
-  lastChapter: 662,
+  lastChapter: 820,
+  characterClaims: "jsonl",
 } as const satisfies WorldCharacter

@@ -1,3 +1,214 @@
-{"id":"01a0b706-d2c5-7a0b-a708-863d45af409a","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-7fd0-8b25-b26f259832d2","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Female","epistemic":"asserted","sourceChapter":"2.32 H"}
-{"id":"01a0b706-d2c5-76c0-b070-11293a2d30f7","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Captain of the Watch","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70d-cf92-7e44-bcac-adf4cf7f46c6","chapterSlug":"the-wandering-inn-0031-1-28-a","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.28 A"}
+{"id":"01a0b70d-cf92-7e39-8e8b-b56711144526","chapterSlug":"the-wandering-inn-0031-1-28-a","claimField":"trait","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"1.28 A"}
+{"id":"01a0b70d-cf92-7320-9b85-982f4dc6dcc0","chapterSlug":"the-wandering-inn-0031-1-28-a","claimField":"trait","claimValue":"Breathes fire","epistemic":"asserted","sourceChapter":"1.28 A"}
+{"id":"01a0b70d-cf92-75f2-8f55-a38b9222e97e","chapterSlug":"the-wandering-inn-0031-1-28-a","claimField":"trait","claimValue":"Light purple eyes","epistemic":"asserted","sourceChapter":"1.28 A"}
+{"id":"01a0b70d-cf92-7471-9fba-e055fb868517","chapterSlug":"the-wandering-inn-0031-1-28-a","claimField":"trait","claimValue":"Better with sword than all but Jeiss","epistemic":"asserted","sourceChapter":"1.28 A"}
+{"id":"01a0b70d-cf92-7946-98b5-285114ec9d38","chapterSlug":"the-wandering-inn-0031-1-28-a","claimField":"trait","claimValue":"Has a tail","epistemic":"asserted","sourceChapter":"1.28 A"}
+{"id":"01a0b70d-cf92-7e83-8f07-0da250515aa8","chapterSlug":"the-wandering-inn-0063-1-60","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.60"}
+{"id":"01a0b70d-cf92-70cc-be25-1e8f15816140","chapterSlug":"the-wandering-inn-0063-1-60","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted"}
+{"id":"01a0b70d-cf92-70b9-b7b8-1f4f4aa767eb","chapterSlug":"the-wandering-inn-0063-1-60","claimField":"trait","claimValue":"can breathe fire","epistemic":"asserted","sourceChapter":"1.60"}
+{"id":"01a0b70d-cf92-7135-adb6-78e815ce1940","chapterSlug":"the-wandering-inn-0064-1-61","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.61"}
+{"id":"01a0b70d-cf92-7cd1-b1dd-231fdf86b43f","chapterSlug":"the-wandering-inn-0064-1-61","claimField":"trait","claimValue":"captain of the Watch","epistemic":"asserted","sourceChapter":"1.61"}
+{"id":"01a0b70d-cf92-740b-b685-281652b85df8","chapterSlug":"the-wandering-inn-0064-1-61","claimField":"trait","claimValue":"tactical commander","epistemic":"asserted","sourceChapter":"1.61"}
+{"id":"01a0b70d-cf92-7800-b8ab-7821d846a6e1","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70d-cf92-7da8-b355-79c99861c5ac","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70d-cf92-72c9-87dd-c5373f6ef479","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"trait","claimValue":"Breathes fire","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70d-cf92-7f41-9b5c-1705b702c0e5","chapterSlug":"the-wandering-inn-0065-1-62","claimField":"trait","claimValue":"Ancient Drake heritage","epistemic":"asserted","sourceChapter":"1.62"}
+{"id":"01a0b70d-cf92-7b84-82bf-097fa9b73aa7","chapterSlug":"the-wandering-inn-0069-2-01","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.01"}
+{"id":"01a0b70d-cf92-778b-ba16-f3a7e9958c55","chapterSlug":"the-wandering-inn-0069-2-01","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"2.01"}
+{"id":"01a0b70d-cf92-73bb-a353-82013dec0d1d","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.02"}
+{"id":"01a0b70d-cf92-79b4-9664-2f73917d7335","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"trait","claimValue":"stern","epistemic":"asserted","sourceChapter":"2.02"}
+{"id":"01a0b70d-cf92-7dc1-829e-32c66988d31b","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"trait","claimValue":"principled in protecting city assets","epistemic":"asserted","sourceChapter":"2.02"}
+{"id":"01a0b70d-cf92-7268-8138-598668fa1ae0","chapterSlug":"the-wandering-inn-0070-2-02","claimField":"trait","claimValue":"willing to breathe fire","epistemic":"claimed","claimedBy":"Selys","sourceChapter":"2.02"}
+{"id":"01a0b70d-cf92-7b66-98b6-8cbf86b1573e","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70d-cf92-7cd3-8dd0-47648bc23cd6","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70d-cf92-7411-bad3-c64f4883b2d4","chapterSlug":"the-wandering-inn-0072-2-04","claimField":"trait","claimValue":"stabbed and killed by Gazi","epistemic":"asserted","sourceChapter":"2.04"}
+{"id":"01a0b70d-cf92-7e5d-b7c9-558f741b0d7c","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b70d-cf92-7aad-9c39-481f1fd4a0ad","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Struck down unconscious by Gazi in the opening attack","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b70d-cf92-79b3-b46b-299db4b99a62","chapterSlug":"the-wandering-inn-0073-2-05","claimField":"trait","claimValue":"Has feelings for Olesm","epistemic":"asserted","sourceChapter":"2.05"}
+{"id":"01a0b70d-cf92-719e-8eb4-7461ba2cc6b5","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70d-cf92-7fce-8566-a12d8e3c160e","chapterSlug":"the-wandering-inn-0103-2-31","claimField":"trait","claimValue":"Captain of the Watch","epistemic":"asserted","sourceChapter":"2.31"}
+{"id":"01a0b70d-cf92-7f37-9b60-34bb96ce4f75","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70d-cf92-7695-a38c-01caa92042b0","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Female","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70d-cf92-783d-ade1-8a8b0ed44702","chapterSlug":"the-wandering-inn-0104-2-32-h","claimField":"trait","claimValue":"Captain of the Watch","epistemic":"asserted","sourceChapter":"2.32 H"}
+{"id":"01a0b70d-cf92-7c58-8143-dac8c81c4cf7","chapterSlug":"the-wandering-inn-0129-3-05-l","claimField":"trait","claimValue":"put dungeon entrance on permanent watch","epistemic":"claimed","claimedBy":"Olesm","sourceChapter":"3.05 L"}
+{"id":"01a0b70d-cf92-7efc-9117-4e13dd8c53ae","chapterSlug":"the-wandering-inn-0147-3-21-l","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"3.21 L"}
+{"id":"01a0b70d-cf92-7f31-8332-91f9740fb2e8","chapterSlug":"the-wandering-inn-0147-3-21-l","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"3.21 L"}
+{"id":"01a0b70d-cf92-746d-9ff8-a19ac68e0151","chapterSlug":"the-wandering-inn-0147-3-21-l","claimField":"trait","claimValue":"cautious about Antinium movements","epistemic":"asserted","sourceChapter":"3.21 L"}
+{"id":"01a0b70d-cf92-7b7c-b9b9-98775057da77","chapterSlug":"the-wandering-inn-0147-3-21-l","claimField":"trait","claimValue":"must report on Antinium activities to Walled Cities","epistemic":"asserted","sourceChapter":"3.21 L"}
+{"id":"01a0b70d-cf92-74d1-ba76-894dbae6ab18","chapterSlug":"the-wandering-inn-0241-5-01","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.01"}
+{"id":"01a0b70d-cf92-7a76-9017-a65cf6656293","chapterSlug":"the-wandering-inn-0241-5-01","claimField":"class","claimValue":"Captain","epistemic":"asserted"}
+{"id":"01a0b70d-cf92-7292-99df-3467251b3f38","chapterSlug":"the-wandering-inn-0241-5-01","claimField":"trait","claimValue":"professional","epistemic":"asserted","sourceChapter":"5.01"}
+{"id":"01a0b70d-cf92-7796-be03-dc55a634ab88","chapterSlug":"the-wandering-inn-0241-5-01","claimField":"trait","claimValue":"hardworking","epistemic":"asserted","sourceChapter":"5.01"}
+{"id":"01a0b70d-cf92-7ffa-a980-3ba8d53a1ac7","chapterSlug":"the-wandering-inn-0242-5-02","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.02"}
+{"id":"01a0b70d-cf92-7fe4-acca-bda19630ec54","chapterSlug":"the-wandering-inn-0242-5-02","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.02"}
+{"id":"01a0b70d-cf92-7d17-832e-647a8c2bf4dc","chapterSlug":"the-wandering-inn-0242-5-02","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"5.02"}
+{"id":"01a0b70d-cf92-7ab1-9840-3a4bf9196952","chapterSlug":"the-wandering-inn-0242-5-02","claimField":"trait","claimValue":"wields magical dagger","epistemic":"asserted","sourceChapter":"5.02"}
+{"id":"01a0b70d-cf92-7932-9982-517f111f3887","chapterSlug":"the-wandering-inn-0242-5-02","claimField":"trait","claimValue":"communicates secretly with other Watch Captains","epistemic":"asserted","sourceChapter":"5.02"}
+{"id":"01a0b70d-cf92-7678-8ea4-1862998e1da3","chapterSlug":"the-wandering-inn-0243-5-03","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.03"}
+{"id":"01a0b70d-cf92-7b68-9338-070ff280e445","chapterSlug":"the-wandering-inn-0243-5-03","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"5.03"}
+{"id":"01a0b70d-cf92-7a77-a8e8-35973bfc81fb","chapterSlug":"the-wandering-inn-0243-5-03","claimField":"trait","claimValue":"aware of public fear of Goblins post-Goblin Lord","epistemic":"asserted","sourceChapter":"5.03"}
+{"id":"01a0b70d-cf92-70f5-9272-58294c99288e","chapterSlug":"the-wandering-inn-0243-5-03","claimField":"trait","claimValue":"vigilant about rainy season wall defenses","epistemic":"asserted","sourceChapter":"5.03"}
+{"id":"01a0b70d-cf92-7c1b-9b16-837985bc07b2","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70d-cf92-79d3-ae2d-31b866357dbe","chapterSlug":"the-wandering-inn-0247-5-07","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"5.07"}
+{"id":"01a0b70d-cf92-70d3-b30a-15838c70c058","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-795e-a8f5-fb9702d920bc","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-7530-82e1-2dee1f082575","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"leader of Liscor's City Watch","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-7525-ab86-76c25d733157","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"breathes fire","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-7bc3-b8c8-f128774d46c5","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"trait","claimValue":"survives the battle exhausted","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-7b4c-acb9-b40f0d9306e4","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"skill","claimValue":"Fire breathing","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-7e52-9ab7-ca5b1a7bad66","chapterSlug":"the-wandering-inn-0248-5-08","claimField":"skill","claimValue":"Combat leadership","epistemic":"asserted","sourceChapter":"5.08"}
+{"id":"01a0b70d-cf92-7b08-b994-2d8f3c282828","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70d-cf92-7faf-b608-5c289c42d9e8","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"Oldblood Drake","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70d-cf92-7f24-996f-82c1a5738785","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"can produce heat/smoke from throat","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70d-cf92-7474-8a96-09a7c875835a","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"commands Liscor's City Watch","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70d-cf92-75df-86c8-246047e47a75","chapterSlug":"the-wandering-inn-0254-5-13","claimField":"trait","claimValue":"asserts final authority over military matters in Liscor","epistemic":"asserted","sourceChapter":"5.13"}
+{"id":"01a0b70d-cf92-70c2-86f8-3239150f745c","chapterSlug":"the-wandering-inn-0257-5-16-s","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.16 S"}
+{"id":"01a0b70d-cf92-77c1-a798-7f0e5a168d01","chapterSlug":"the-wandering-inn-0257-5-16-s","claimField":"trait","claimValue":"pale blue scales","epistemic":"asserted","sourceChapter":"5.16 S"}
+{"id":"01a0b70d-cf92-7449-9879-deffbebb9399","chapterSlug":"the-wandering-inn-0257-5-16-s","claimField":"trait","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.16 S"}
+{"id":"01a0b70d-cf92-7c48-9e13-5830b1e4d630","chapterSlug":"the-wandering-inn-0258-5-17-s","claimField":"identity","claimValue":"Gnoll","epistemic":"asserted","sourceChapter":"5.17 S"}
+{"id":"01a0b70d-cf92-740b-8f8a-7630c9c3c973","chapterSlug":"the-wandering-inn-0258-5-17-s","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"5.17 S"}
+{"id":"01a0b70d-cf92-79d9-8319-f7a3f911fb48","chapterSlug":"the-wandering-inn-0259-5-18-s","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.18 S"}
+{"id":"01a0b70d-cf92-7cb7-8161-5aa0a6144e5b","chapterSlug":"the-wandering-inn-0259-5-18-s","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.18 S"}
+{"id":"01a0b70d-cf92-73ed-a45b-e286db89a196","chapterSlug":"the-wandering-inn-0259-5-18-s","claimField":"trait","claimValue":"Guards the Heartflame Breastplate","epistemic":"asserted","sourceChapter":"5.18 S"}
+{"id":"01a0b70d-cf92-79e5-a785-052dca302ddb","chapterSlug":"the-wandering-inn-0259-5-18-s","claimField":"trait","claimValue":"Relatively young, seven or eight years older than Selys","epistemic":"asserted","sourceChapter":"5.18 S"}
+{"id":"01a0b70d-cf92-71c3-84e2-78faf1dff527","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70d-cf92-7c17-9558-d31290aeb371","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70d-cf92-7d1d-a26c-825cf3ba0860","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Tired but professional","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70d-cf92-72f6-850d-a00bb2937d7e","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"trait","claimValue":"Fair-minded","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70d-cf92-7ec2-8e7e-5c434fd2318d","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Law enforcement","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70d-cf92-759f-8d02-5b45a44d9708","chapterSlug":"the-wandering-inn-0269-5-28","claimField":"skill","claimValue":"Investigation","epistemic":"asserted","sourceChapter":"5.28"}
+{"id":"01a0b70d-cf92-7fcd-b23e-dc71d656f04f","chapterSlug":"the-wandering-inn-0274-5-33-b","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.33 B"}
+{"id":"01a0b70d-cf92-7509-8d20-c5e14b2bd1f9","chapterSlug":"the-wandering-inn-0274-5-33-b","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.33 B"}
+{"id":"01a0b70d-cf92-7b25-81e2-0ced19dca522","chapterSlug":"the-wandering-inn-0274-5-33-b","claimField":"trait","claimValue":"received medal for heroism defending Liscor from Face-Eater Moths","epistemic":"asserted","sourceChapter":"5.33 B"}
+{"id":"01a0b70d-cf92-7487-993b-d61954b0870f","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70d-cf92-7256-ab78-a2b4971ebf75","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70d-cf92-746d-b9af-de1f1436a194","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Defensive military commander","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70d-cf92-7b44-96e1-2eef2369a8cd","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"trait","claimValue":"Watches Goblins cautiously","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70d-cf92-783a-942c-33738ea5b874","chapterSlug":"the-wandering-inn-0280-5-38","claimField":"skill","claimValue":"Fire breath","epistemic":"asserted","sourceChapter":"5.38"}
+{"id":"01a0b70d-cf92-7cb8-b907-db61680583fa","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70d-cf92-78ca-b719-9157e826695c","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70d-cf92-7c69-9fb7-8021d7ddcfe3","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"can breathe fire","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70d-cf92-72bf-b1df-57830d23eb69","chapterSlug":"the-wandering-inn-0287-5-44","claimField":"trait","claimValue":"skilled sword fighter","epistemic":"asserted","sourceChapter":"5.44"}
+{"id":"01a0b70d-cf92-7e7a-a239-b4dd4948cf19","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"trait","claimValue":"Drake","epistemic":"claimed","claimedBy":"Olesm (reference)","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70d-cf92-798b-bf70-97909ec8fbb5","chapterSlug":"the-wandering-inn-0298-5-54-non-canon","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"claimed","claimedBy":"Olesm (reference)","sourceChapter":"5.54 (Non-Canon)"}
+{"id":"01a0b70d-cf92-7e03-a860-e47cee8261c4","chapterSlug":"the-wandering-inn-0299-5-54","claimField":"identity","claimValue":"Gnoll","epistemic":"claimed","claimedBy":"narration","sourceChapter":"5.54"}
+{"id":"01a0b70d-cf92-704f-b073-382a8f310c70","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"300"}
+{"id":"01a0b70d-cf92-77ef-93c3-8524ee417a55","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"300"}
+{"id":"01a0b70d-cf92-7760-ac7c-0bcbf890cd4a","chapterSlug":"the-wandering-inn-0300-interlude-krshia","claimField":"trait","claimValue":"Commanding officer of Liscor's City Watch","epistemic":"asserted","sourceChapter":"300"}
+{"id":"01a0b70d-cf92-794f-9465-1d98f5418bb2","chapterSlug":"the-wandering-inn-0303-5-57","claimField":"identity","claimValue":"Watch Captain","epistemic":"claimed","claimedBy":"narration","sourceChapter":"5.57"}
+{"id":"01a0b70d-cf92-7eb2-bdb1-ef773c0eeaa1","chapterSlug":"the-wandering-inn-0303-5-57","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.57"}
+{"id":"01a0b70d-cf92-7136-b1cb-124b1cbb612d","chapterSlug":"the-wandering-inn-0303-5-57","claimField":"trait","claimValue":"pragmatic","epistemic":"asserted","sourceChapter":"5.57"}
+{"id":"01a0b70d-cf92-7eb3-b065-9a7269bc9633","chapterSlug":"the-wandering-inn-0305-5-59","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.59"}
+{"id":"01a0b70d-cf92-70fe-a402-05152c09b565","chapterSlug":"the-wandering-inn-0305-5-59","claimField":"trait","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"5.59"}
+{"id":"01a0b70d-cf92-7a9b-8224-fc06a445ee45","chapterSlug":"the-wandering-inn-0308-5-61","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"5.61"}
+{"id":"01a0b70d-cf92-7c30-a66f-a6c3dbdd1d4b","chapterSlug":"the-wandering-inn-0308-5-61","claimField":"trait","claimValue":"Commands city guard","epistemic":"asserted","sourceChapter":"5.61"}
+{"id":"01a0b70d-cf92-77d6-beb6-35a8305c3988","chapterSlug":"the-wandering-inn-0313-6-02","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.02"}
+{"id":"01a0b70d-cf92-79a0-b51c-3a3b2e7a07a9","chapterSlug":"the-wandering-inn-0313-6-02","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"6.02"}
+{"id":"01a0b70d-cf92-7f22-9cca-a338ee0da1bf","chapterSlug":"the-wandering-inn-0313-6-02","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.02"}
+{"id":"01a0b70d-cf92-7229-919c-8c14c42a9519","chapterSlug":"the-wandering-inn-0313-6-02","claimField":"trait","claimValue":"tail lashes","epistemic":"asserted","sourceChapter":"6.02"}
+{"id":"01a0b70d-cf92-7579-929a-3db145a8fe36","chapterSlug":"the-wandering-inn-0319-6-08","claimField":"identity","claimValue":"Drake Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"6.08"}
+{"id":"01a0b70d-cf92-7b4d-873d-11fea8d15240","chapterSlug":"the-wandering-inn-0319-6-08","claimField":"trait","claimValue":"Professional and commanding","epistemic":"asserted","sourceChapter":"6.08"}
+{"id":"01a0b70d-cf92-7010-877b-c8b18fc973df","chapterSlug":"the-wandering-inn-0319-6-08","claimField":"trait","claimValue":"Honorable and respects law","epistemic":"asserted","sourceChapter":"6.08"}
+{"id":"01a0b70d-cf92-7dad-9b49-e1c5e8b196c4","chapterSlug":"the-wandering-inn-0319-6-08","claimField":"trait","claimValue":"Skilled negotiator despite initial hostility","epistemic":"asserted","sourceChapter":"6.08"}
+{"id":"01a0b70d-cf92-7c78-939c-cd3fe8181113","chapterSlug":"the-wandering-inn-0340-6-29","claimField":"identity","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"6.29"}
+{"id":"01a0b70d-cf92-78a6-bdb0-0393974985a6","chapterSlug":"the-wandering-inn-0340-6-29","claimField":"trait","claimValue":"Collaborates with Krshia and Selys on election campaign","epistemic":"asserted","sourceChapter":"6.29"}
+{"id":"01a0b70d-cf92-7d67-ada1-8b0d5322a4ff","chapterSlug":"the-wandering-inn-0340-6-29","claimField":"trait","claimValue":"Proposes Antinium membership in City Watch","epistemic":"asserted","sourceChapter":"6.29"}
+{"id":"01a0b70d-cf92-7f02-9c34-46e762dabcc0","chapterSlug":"the-wandering-inn-0340-6-29","claimField":"trait","claimValue":"Negotiates Antinium support for city expansion","epistemic":"asserted","sourceChapter":"6.29"}
+{"id":"01a0b70d-cf92-705e-9e2a-d0181f690c63","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70d-cf92-7ef6-986e-2a875aae6e8f","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70d-cf92-7a1f-9311-7998f8924e71","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"trait","claimValue":"politically active despite official neutrality","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70d-cf92-7172-a872-4b8621408bed","chapterSlug":"the-wandering-inn-0342-6-30","claimField":"trait","claimValue":"trusts Klbkch based on personal experience","epistemic":"asserted","sourceChapter":"6.30"}
+{"id":"01a0b70d-cf92-748f-ac70-ca4e092c8ae6","chapterSlug":"the-wandering-inn-0344-6-32","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"6.32"}
+{"id":"01a0b70d-cf92-738a-a29a-f80646847abd","chapterSlug":"the-wandering-inn-0344-6-32","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.32"}
+{"id":"01a0b70d-cf92-7393-9f5e-fdcb258332f8","chapterSlug":"the-wandering-inn-0344-6-32","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"6.32"}
+{"id":"01a0b70d-cf92-7401-b011-f93aa8caab8e","chapterSlug":"the-wandering-inn-0344-6-32","claimField":"trait","claimValue":"Conflicted about Calruz's execution","epistemic":"asserted","sourceChapter":"6.32"}
+{"id":"01a0b70d-cf92-7eeb-aacf-fcd56ebececf","chapterSlug":"the-wandering-inn-0344-6-32","claimField":"trait","claimValue":"Trusts Ceria's judgment","epistemic":"asserted","sourceChapter":"6.32"}
+{"id":"01a0b70d-cf92-7d18-9b2e-eb19d58c3d97","chapterSlug":"the-wandering-inn-0344-6-32","claimField":"trait","claimValue":"Troubled by potential injustice","epistemic":"asserted","sourceChapter":"6.32"}
+{"id":"01a0b70d-cf92-7eda-bb4f-073b1b217c49","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b70d-cf92-7155-9b20-1ca822627030","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"trait","claimValue":"enforces law above public opinion","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b70d-cf92-7502-a69f-7936b18d73b8","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"trait","claimValue":"breathes fire/flames","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b70d-cf92-7696-8190-8e92e14da418","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"trait","claimValue":"values honor and principle","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b70d-cf92-78df-a63f-24167d9ecc48","chapterSlug":"the-wandering-inn-0356-interlude-two-rats","claimField":"skill","claimValue":"[Lawbreaker's Enemy]","epistemic":"asserted","sourceChapter":"356"}
+{"id":"01a0b70d-cf92-72d7-ac89-93bfdd3b80fe","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70d-cf92-7524-85fb-b593e4bdaebd","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"believes the Free Antinium can be trusted more than other Hives","epistemic":"claimed","claimedBy":"Zevara","sourceChapter":"6.49"}
+{"id":"01a0b70d-cf92-714b-a4c1-53be6d88d200","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"knows Senior Guardsman Klbkch","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70d-cf92-7df3-9a72-25e2e2285c4e","chapterSlug":"the-wandering-inn-0365-6-49","claimField":"trait","claimValue":"has prepared defensive spells against Antinium threat","epistemic":"asserted","sourceChapter":"6.49"}
+{"id":"01a0b70d-cf92-7ba3-84be-a5daa5daf111","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-7e2f-8717-881baf77b3cc","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"trait","claimValue":"controls Liscor's Watch forces","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-752d-9d86-a7b42ee99927","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"trait","claimValue":"refuses to let Wistram operate above city law","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-7db2-b57e-4c5b2710d5c9","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"trait","claimValue":"will press charges and international action against Wistram","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-7cfc-9a0f-e5a311766f6f","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"skill","claimValue":"Watch Captain command","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-7b1c-a7d3-a86ca6db4433","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"skill","claimValue":"spell casting from walls","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-760e-bc8e-719590a1ba9d","chapterSlug":"the-wandering-inn-0375-6-58","claimField":"skill","claimValue":"resistance to charm spells","epistemic":"asserted","sourceChapter":"6.58"}
+{"id":"01a0b70d-cf92-72ea-a09a-f14aba9806cf","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70d-cf92-71fc-8c61-df4a69b983b4","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70d-cf92-7799-8dba-3fd2c3355f0d","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"skeptical of Wistram mages","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70d-cf92-707b-9f98-89549fe464aa","chapterSlug":"the-wandering-inn-0380-6-62-l","claimField":"trait","claimValue":"believes in Calruz's potential innocence","epistemic":"asserted","sourceChapter":"6.62 L"}
+{"id":"01a0b70d-cf92-7c36-a372-5a69b674332f","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70d-cf92-7fb0-9f92-71fa06141cc2","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70d-cf92-7630-aebb-d4f3a9f4222f","chapterSlug":"the-wandering-inn-0386-6-67","claimField":"trait","claimValue":"Believes Calruz can earn redemption","epistemic":"asserted","sourceChapter":"6.67"}
+{"id":"01a0b70d-cf92-73e6-ba24-db8a033b4373","chapterSlug":"the-wandering-inn-0389-7-01","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"7.01"}
+{"id":"01a0b70d-cf92-77f0-a0d9-4c3510f35d61","chapterSlug":"the-wandering-inn-0389-7-01","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"7.01"}
+{"id":"01a0b70d-cf92-769f-a89e-45867a7ab659","chapterSlug":"the-wandering-inn-0414-7-16-l","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"7.16 L"}
+{"id":"01a0b70d-cf92-78be-9279-d651ceec59ea","chapterSlug":"the-wandering-inn-0414-7-16-l","claimField":"trait","claimValue":"watches over Liscor fairly","epistemic":"claimed","claimedBy":"Zevara","sourceChapter":"7.16 L"}
+{"id":"01a0b70d-cf92-77bf-8d09-1ca7ba8d9a86","chapterSlug":"the-wandering-inn-0414-7-16-l","claimField":"skill","claimValue":"Lawbreaker's Enemy","epistemic":"asserted","sourceChapter":"7.16 L"}
+{"id":"01a0b70d-cf92-7553-b51e-fec2eec68446","chapterSlug":"the-wandering-inn-0441-7-38","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"7.38"}
+{"id":"01a0b70d-cf92-70db-8f7a-ee130b9707f4","chapterSlug":"the-wandering-inn-0441-7-38","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"7.38"}
+{"id":"01a0b70d-cf92-74c3-95a1-59d533d9aafc","chapterSlug":"the-wandering-inn-0441-7-38","claimField":"trait","claimValue":"captain of Liscor Watch","epistemic":"asserted","sourceChapter":"7.38"}
+{"id":"01a0b70d-cf92-7340-b418-9b18bbcca050","chapterSlug":"the-wandering-inn-0441-7-38","claimField":"trait","claimValue":"uses [Freeze, Criminal] skill","epistemic":"asserted","sourceChapter":"7.38"}
+{"id":"01a0b70d-cf92-7720-9e92-8fbc395699c7","chapterSlug":"the-wandering-inn-0441-7-38","claimField":"trait","claimValue":"keeps a calendar tracking 'Days Since Crazy Human Incident'","epistemic":"asserted","sourceChapter":"7.38"}
+{"id":"01a0b70d-cf92-7dc2-95a3-0c9947553919","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70d-cf92-74c5-9678-c257740f7171","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"trait","claimValue":"commands Liscor Watch","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70d-cf92-7b1a-8ad9-ea8fce549030","chapterSlug":"the-wandering-inn-0459-7-51","claimField":"trait","claimValue":"chooses mercy over vengeance against Raskghar","epistemic":"asserted","sourceChapter":"7.51"}
+{"id":"01a0b70d-cf92-79df-9975-ca5814b38214","chapterSlug":"the-wandering-inn-0460-7-52","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"7.52"}
+{"id":"01a0b70d-cf92-7cb1-80fc-728fcf0fdbf7","chapterSlug":"the-wandering-inn-0460-7-52","claimField":"trait","claimValue":"Committed to upholding the law","epistemic":"asserted","sourceChapter":"7.52"}
+{"id":"01a0b70d-cf92-74b9-89ab-4c83a8a4fce0","chapterSlug":"the-wandering-inn-0460-7-52","claimField":"trait","claimValue":"Opposes mob justice","epistemic":"asserted","sourceChapter":"7.52"}
+{"id":"01a0b70d-cf92-74d4-a295-529ef4dc21a8","chapterSlug":"the-wandering-inn-0460-7-52","claimField":"skill","claimValue":"Leadership","epistemic":"asserted","sourceChapter":"7.52"}
+{"id":"01a0b70d-cf92-737d-a7fd-72628832ba2d","chapterSlug":"the-wandering-inn-0510-interlude-senior-guardsman-relc","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"510"}
+{"id":"01a0b70d-cf92-765f-a1ff-03f3b5b6cc35","chapterSlug":"the-wandering-inn-0510-interlude-senior-guardsman-relc","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"510"}
+{"id":"01a0b70d-cf92-7321-8fd3-e10eb70f619d","chapterSlug":"the-wandering-inn-0510-interlude-senior-guardsman-relc","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"510"}
+{"id":"01a0b70d-cf92-702c-893c-0c8a3d6cc3fa","chapterSlug":"the-wandering-inn-0525-8-34-r","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"8.34"}
+{"id":"01a0b70d-cf92-771f-9114-75506640847b","chapterSlug":"the-wandering-inn-0525-8-34-r","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"8.34"}
+{"id":"01a0b70d-cf92-7f3f-aa06-0c764076dd8b","chapterSlug":"the-wandering-inn-0525-8-34-r","claimField":"trait","claimValue":"Responds to Relc's call for help","epistemic":"asserted","sourceChapter":"8.34"}
+{"id":"01a0b70d-cf92-7488-9851-a77ea48de138","chapterSlug":"the-wandering-inn-0525-8-34-r","claimField":"trait","claimValue":"Coordinated Liscor's immigration response","epistemic":"asserted","sourceChapter":"8.34"}
+{"id":"01a0b70d-cf92-74cf-a55f-562ccc90ffbb","chapterSlug":"the-wandering-inn-0639-9-38-tv-pt-1","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"9.38"}
+{"id":"01a0b70d-cf92-70ac-9b04-f0383ac2ee01","chapterSlug":"the-wandering-inn-0639-9-38-tv-pt-1","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"9.38"}
+{"id":"01a0b70d-cf92-7924-99d9-4b3affaf140e","chapterSlug":"the-wandering-inn-0639-9-38-tv-pt-1","claimField":"trait","claimValue":"has long tail","epistemic":"asserted","sourceChapter":"9.38"}
+{"id":"01a0b70d-cf92-7e69-99b3-ffb9874da59d","chapterSlug":"the-wandering-inn-0639-9-38-tv-pt-1","claimField":"trait","claimValue":"offered Watch Commander position, considering declining","epistemic":"asserted","sourceChapter":"9.38"}
+{"id":"01a0b70d-cf92-7eba-8159-661c823ae8be","chapterSlug":"the-wandering-inn-0639-9-38-tv-pt-1","claimField":"skill","claimValue":"leadership","epistemic":"asserted","sourceChapter":"9.38"}
+{"id":"01a0b70d-cf92-7b63-b596-2d6b5cfac365","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70d-cf92-781a-9a74-3bda1058a442","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70d-cf92-771c-ac48-3c922dbb86c4","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70d-cf92-753d-8e88-60edbb725e30","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"trait","claimValue":"reluctant about Watch Commander position","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70d-cf92-7117-80b2-30d33380b824","chapterSlug":"the-wandering-inn-0641-interlude-beginnings","claimField":"trait","claimValue":"beloved by her officers","epistemic":"asserted","sourceChapter":"Interlude - Beginnings"}
+{"id":"01a0b70d-cf92-7481-8136-1c22d674f4f0","chapterSlug":"the-wandering-inn-0656-9-45-gt","claimField":"identity","claimValue":"Drake","epistemic":"asserted","sourceChapter":"9.45 GT"}
+{"id":"01a0b70d-cf92-75aa-b5c6-d1a66f434f30","chapterSlug":"the-wandering-inn-0656-9-45-gt","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"9.45 GT"}
+{"id":"01a0b70d-cf92-763b-b8e6-31b0dcd61061","chapterSlug":"the-wandering-inn-0656-9-45-gt","claimField":"trait","claimValue":"enforces law fairly","epistemic":"asserted","sourceChapter":"9.45 GT"}
+{"id":"01a0b70d-cf92-7b0d-a857-f58b8c9ff103","chapterSlug":"the-wandering-inn-0666-9-55-pt-1","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"9.55 (Pt. 1)"}
+{"id":"01a0b70d-cf92-7509-af30-61a6c0a44ba3","chapterSlug":"the-wandering-inn-0666-9-55-pt-1","claimField":"trait","claimValue":"confronted wisps attacking Liscorians on Christmas","epistemic":"asserted","sourceChapter":"9.55 (Pt. 1)"}
+{"id":"01a0b70d-cf92-72ea-8c46-db48a6d65b13","chapterSlug":"the-wandering-inn-0666-9-55-pt-1","claimField":"skill","claimValue":"Dangersense","epistemic":"asserted","sourceChapter":"9.55 (Pt. 1)"}
+{"id":"01a0b70d-cf92-7e68-98cb-267213ed7b5a","chapterSlug":"the-wandering-inn-0666-9-55-pt-1","claimField":"skill","claimValue":"Freeze, Criminal","epistemic":"asserted","sourceChapter":"9.55 (Pt. 1)"}
+{"id":"01a0b70d-cf92-7529-abb8-0927dfd86148","chapterSlug":"the-wandering-inn-0762-10-37-gdi-pt-1","claimField":"trait","claimValue":"Watch Captain of Liscor","epistemic":"asserted","sourceChapter":"10.37 GDI (Pt. 1)"}
+{"id":"01a0b70d-cf92-70a7-8d06-6fc9a95a7aa3","chapterSlug":"the-wandering-inn-0762-10-37-gdi-pt-1","claimField":"trait","claimValue":"uses [Freeze, Criminal] Skill","epistemic":"asserted","sourceChapter":"10.37 GDI (Pt. 1)"}
+{"id":"01a0b70d-cf92-7e7b-97e4-64649c1a81ef","chapterSlug":"the-wandering-inn-0762-10-37-gdi-pt-1","claimField":"trait","claimValue":"creatively uses law and authority to achieve justice","epistemic":"asserted","sourceChapter":"10.37 GDI (Pt. 1)"}
+{"id":"01a0b70d-cf92-7b62-89eb-5fc895e9055e","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"class","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-7fa6-9b30-ff872db9914e","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-7101-8a5e-ed1f4634e244","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"trait","claimValue":"Native Liscorian","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-70b2-872f-adfb43a25d15","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"trait","claimValue":"Imperfect blood - breathes more smoke than fire","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-732c-93df-33beff7618fe","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"trait","claimValue":"Age 28","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-76c1-8fe8-595ecb94adc5","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Sense Intentions","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-76ad-baf0-1d3d40f35f1f","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Detect Lies","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-720c-b257-38441f923a48","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Dragonbreath","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-7a5c-aad3-405c729cf592","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Non-Lethal Strike","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-7763-9ca3-066e6f86f2a4","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Disarming Attack","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-768b-ad8c-193fd7dc115e","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Sweep Leg","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-7060-af92-f313f2f74581","chapterSlug":"the-wandering-inn-0778-10-44-z-pt-1","claimField":"skill","claimValue":"Impact Blow","epistemic":"asserted","sourceChapter":"10.44"}
+{"id":"01a0b70d-cf92-7ee2-818f-e224b59098bc","chapterSlug":"the-wandering-inn-0779-10-44-z-pt-2","claimField":"class","claimValue":"Streetwise Guardswoman","epistemic":"asserted","sourceChapter":"10.44 Z (Pt. 2)"}
+{"id":"01a0b70d-cf92-7b17-8252-b2f708bfbb61","chapterSlug":"the-wandering-inn-0779-10-44-z-pt-2","claimField":"level","claimValue":"33","epistemic":"asserted","sourceChapter":"10.44 Z (Pt. 2)"}
+{"id":"01a0b70d-cf92-76ab-818c-fbb7e411c343","chapterSlug":"the-wandering-inn-0779-10-44-z-pt-2","claimField":"trait","claimValue":"Drake","epistemic":"asserted","sourceChapter":"10.44 Z (Pt. 2)"}
+{"id":"01a0b70d-cf92-7810-a844-10174f26d0a0","chapterSlug":"the-wandering-inn-0779-10-44-z-pt-2","claimField":"trait","claimValue":"Blue scales","epistemic":"asserted","sourceChapter":"10.44 Z (Pt. 2)"}
+{"id":"01a0b70d-cf92-74ee-99b8-70a1de99e68b","chapterSlug":"the-wandering-inn-0779-10-44-z-pt-2","claimField":"skill","claimValue":"Pursue the Quarry","epistemic":"asserted","sourceChapter":"10.44 Z (Pt. 2)"}
+{"id":"01a0b70d-cf92-72f0-8f00-7af05a39a691","chapterSlug":"the-wandering-inn-0779-10-44-z-pt-2","claimField":"skill","claimValue":"Non-Lethal Strike","epistemic":"claimed","claimedBy":"Zevara","sourceChapter":"10.44 Z (Pt. 2)"}
+{"id":"01a0b70d-cf92-7d16-8b4e-be37cac0eda6","chapterSlug":"the-wandering-inn-0780-10-45-l","claimField":"trait","claimValue":"Watch Captain","epistemic":"asserted","sourceChapter":"10.45 L"}
+{"id":"01a0b70d-cf92-7c47-94b4-4ae0e8dc1cca","chapterSlug":"the-wandering-inn-0780-10-45-l","claimField":"trait","claimValue":"Riding a bicycle in Pallass during an incident with Joseph","epistemic":"asserted","sourceChapter":"10.45 L"}

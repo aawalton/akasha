@@ -8,7 +8,7 @@ export const zevara = {
   world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 12,
-  firstChapter: 104,
-  lastChapter: 104,
+  firstChapter: 31,
+  lastChapter: 780,
   characterClaims: "jsonl",
 } as const satisfies WorldCharacter
