@@ -13,6 +13,10 @@ export const nimueAuth = {
     { statement: "Every site Alan runs signs a person in the way alanwalton.com does." },
     { statement: "No GoTrue issues a token for anything Alan runs." },
     { statement: "Nothing Alan runs keeps anything in Postgres." },
-    { statement: "A contributor signs in with a passkey." },
+    {
+      statement: "A contributor signs in with a passkey.",
+      workingMemory:
+        "A passkey needs its credential kept, so the stateless cookie does not survive it: the plugin wants `user` and `session` models too, and any adapter turns off the JWE refresh. The way out is taking the ceremony alone and issuing our own cookie. Each site is its own relying party, avoiding Related Origin Requests. With no database it falls back to memory and loses every credential. The app's origin is `capacitor://localhost`, so a passkey there needs a native bridge and an AASA file.",
+    },
   ],
 } as const satisfies Initiative
