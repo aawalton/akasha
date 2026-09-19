@@ -110,7 +110,13 @@ test("a page type declaring this kind and naming no scoping property is a fault"
         extends: [],
         properties: [{ pagePropertySlug: "slug", required: true, many: false }],
       },
-      { id: C, pageTypeSlug: "text-property", slug: "slug", propertySlug: "slug", unique: "page-property" },
+      {
+        id: C,
+        pageTypeSlug: "text-property",
+        slug: "slug",
+        propertySlug: "slug",
+        unique: "page-property",
+      },
     ])
   )
 

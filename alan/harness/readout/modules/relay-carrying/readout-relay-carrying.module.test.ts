@@ -34,9 +34,7 @@ let unanswered: string | null = null
 
 let refusing: string | null = null
 
-const relay = await import(
-  "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-)
+const relay = await import("akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts")
 
 const composing = await import(
   "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"
