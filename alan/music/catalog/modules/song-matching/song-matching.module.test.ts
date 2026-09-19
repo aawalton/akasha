@@ -79,3 +79,9 @@ test("no title is matched to a song of another artist", () => {
 test("a title no song holds is matched to nothing", () => {
   expect(songSlugFor(SONGS, "aurora", "Your Blood")).toBeNull()
 })
+
+test("a title holding no letter and no digit is matched to nothing", () => {
+  const starred: ReadonlyMap<string, string> = new Map([[songKey("girl-in-red", "."), "dot"]])
+  expect(songSlugFor(starred, "girl-in-red", "★★★")).toBeNull()
+  expect(songSlugFor(starred, "girl-in-red", ".")).toBeNull()
+})

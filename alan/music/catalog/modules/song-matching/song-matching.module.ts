@@ -53,5 +53,9 @@ export const songMatching = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here mints a song.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A title holding no letter and no digit is matched to no song.",
+    },
   ],
 } as const satisfies Module
