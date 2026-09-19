@@ -6,10 +6,7 @@ import {
 } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyAnswered,
   worldOf,

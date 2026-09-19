@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/change/mechanical/file/remove/remove-file-page-property/remove-file-page-property.change-mechanical.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const PROPERTY = "akasha/properties/kept.text-property.ts"
 
