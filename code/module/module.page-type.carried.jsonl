@@ -2,9 +2,9 @@
 {"definition":"code reached by importing it"}
 {"extends":["page-type/domain"]}
 {"id":"01a04a20-6e04-7b99-81a0-0efe0ad0a02a"}
-{"parts":["boolean-property/answers-a-checkout-root","code-file-property/code","code-file-property/test","code-file-property/test-fixtures","file-property/module-types","module/name-series","text-property/page-body-readers","text-property/reached-by-path"]}
+{"parts":["boolean-property/answers-a-checkout-root","code-file-property/code","code-file-property/test","code-file-property/test-fixtures","module/name-series","text-property/page-body-readers","text-property/reached-by-path"]}
 {"pluralSlug":"modules"}
-{"properties":[{"pageProperty":"code-file-property/code","required":true,"many":false},{"pageProperty":"file-property/module-types","required":false,"many":false},{"pageProperty":"code-file-property/test","required":false,"many":false},{"pageProperty":"code-file-property/test-fixtures","required":false,"many":false},{"pageProperty":"boolean-property/allows-tmp-paths","required":false,"many":false},{"pageProperty":"boolean-property/answers-a-checkout-root","required":false,"many":false},{"pageProperty":"text-property/page-body-readers","required":false,"many":true,"maxCount":null},{"pageProperty":"text-property/reached-by-path","required":false,"many":true,"maxCount":null}]}
+{"properties":[{"pageProperty":"code-file-property/code","required":true,"many":false},{"pageProperty":"code-file-property/test","required":false,"many":false},{"pageProperty":"code-file-property/test-fixtures","required":false,"many":false},{"pageProperty":"boolean-property/allows-tmp-paths","required":false,"many":false},{"pageProperty":"boolean-property/answers-a-checkout-root","required":false,"many":false},{"pageProperty":"text-property/page-body-readers","required":false,"many":true,"maxCount":null},{"pageProperty":"text-property/reached-by-path","required":false,"many":true,"maxCount":null}]}
 {"schema":"jsonl"}
 {"slug":"module"}
 {"type":"page-type/page-type"}

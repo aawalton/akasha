@@ -11,7 +11,6 @@ export const module = {
     "code-file-property/code",
     "code-file-property/test",
     "code-file-property/test-fixtures",
-    "file-property/module-types",
     "module/name-series",
     "text-property/page-body-readers",
     "text-property/reached-by-path",
@@ -19,7 +18,6 @@ export const module = {
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "code-file-property/code", required: true, many: false },
-    { pageProperty: "file-property/module-types", required: false, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
     { pageProperty: "boolean-property/allows-tmp-paths", required: false, many: false },

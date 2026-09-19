@@ -68,7 +68,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/lua-runtime-library/properties/lua50-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/lua-runtime-library/properties/universal-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/module-property-group/properties/logs.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/module/properties/module-types.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/compile-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/placeholder-image.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/router-app-git-ignore.file-property.ts"}

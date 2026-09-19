@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A module states its shared declarations here rather than in its code."},{"decisionKind":"decision-kind/departure","statement":"A caller naming a declaration alone does not load the code answering that declaration."},{"decisionKind":"decision-kind/absence","statement":"Nothing here runs."}]}
-{"definition":"the type declarations a module's code and its callers both state"}
-{"extensions":["ts"]}
-{"id":"01a0771e-597f-7d38-a6cf-073905063498"}
-{"propertySlug":"types"}
-{"slug":"module-types"}
-{"type":"page-type/file-property"}
-{"types":"ts"}
