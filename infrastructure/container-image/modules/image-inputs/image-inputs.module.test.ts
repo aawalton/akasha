@@ -2,10 +2,19 @@ import { expect, test } from "bun:test"
 import { buildOf } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 import {
   copiedIn,
+  driftedIn,
   inputsFor,
 } from "akasha/infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"
 
 const PROXY = buildOf("auth-proxy")
+
+const COPIES_NOTHING = {
+  slug: "copies-nothing",
+  repository: "cluster/copies-nothing",
+  context: "",
+  recipe: null,
+  dockerfile: ["FROM alpine:3.21", "RUN apk add --no-cache jq", ""].join("\n"),
+}
 
 const SAMPLE = [
   "FROM oven/bun AS build",
@@ -36,4 +45,21 @@ test("what the proxy is built from carries the lockfile and its own folder", () 
   const copied = inputsFor(PROXY).copied
   expect(copied).toContain("bun.lock")
   expect(copied).toContain("infrastructure/network/auth-proxy")
+})
+
+test("a Dockerfile copying nothing hashes on its own text", () => {
+  expect(inputsFor(COPIES_NOTHING).hash).toMatch(/^[0-9a-f]{12}$/)
+})
+
+test("a Dockerfile copying nothing names no input", () => {
+  expect(inputsFor(COPIES_NOTHING).copied).toEqual([])
+})
+
+test("two Dockerfiles copying nothing hash apart where their text differs", () => {
+  const other = { ...COPIES_NOTHING, dockerfile: `${COPIES_NOTHING.dockerfile}RUN apk add curl\n` }
+  expect(inputsFor(other).hash).not.toBe(inputsFor(COPIES_NOTHING).hash)
+})
+
+test("an image copying nothing drifts in nothing", () => {
+  expect(driftedIn([])).toEqual([])
 })

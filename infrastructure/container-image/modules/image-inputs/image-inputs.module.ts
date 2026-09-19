@@ -26,5 +26,13 @@ export const imageInputs = {
       statement:
         "A copied path is named from the root rather than from the folder the build is handed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image copying nothing out of the context is hashed on its Dockerfile alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such an image drifts from the commit HEAD is at in nothing.",
+    },
   ],
 } as const satisfies Module

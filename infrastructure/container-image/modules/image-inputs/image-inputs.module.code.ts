@@ -35,20 +35,22 @@ function gitIn(argv: readonly string[], codeAt: string): string {
   return done.out
 }
 
+function listedFor(copied: readonly string[], codeAt: string): string {
+  if (copied.length === 0) return ""
+  return gitIn(["ls-tree", "-r", "HEAD", "--", ...copied], codeAt)
+}
+
 export function inputsFor(build: ImageBuild, codeAt: string = ROOT): ImageInputs {
   const dockerfile = build.dockerfile
   const copied = copiedIn(dockerfile).map((one) => join(build.context, one))
-  if (copied.length === 0) {
-    throw new Error(`the Dockerfile for ${build.slug} copies nothing, so its inputs are no hash`)
-  }
-  const listed = gitIn(["ls-tree", "-r", "HEAD", "--", ...copied], codeAt)
   const summed = createHash("sha256")
   summed.update(dockerfile)
-  summed.update(listed)
+  summed.update(listedFor(copied, codeAt))
   return { dockerfile, copied, hash: summed.digest("hex").slice(0, TAG_LENGTH) }
 }
 
 export function driftedIn(copied: readonly string[], codeAt: string = ROOT): readonly string[] {
+  if (copied.length === 0) return []
   const said = gitIn(["status", "--porcelain", "--", ...copied], codeAt)
   return said
     .split("\n")
