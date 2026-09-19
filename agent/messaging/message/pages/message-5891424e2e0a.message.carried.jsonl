@@ -1,7 +1,0 @@
-{"body":"the audit at 1089c6187c607f6e4bd54439a1efdf1bd790034a found 3 checks newly refusing.\n`check-reaches-a-path-through-the-index` refused 2 times:\n  change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts — line 22 spells `chapters/story-chapter-read.page-type.ts`, where the page `story/world/stories/read/chapters/story-chapter-read.page-type.... (79 characters more)\n  change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.test.ts — line 23 spells `chapters/story-chapter-read.page-type.ts`, where the page `story/world/stories/read/chapters/story-chapter-read.page-type.... (79 characters more)\n`index-is-level-with-the-pages` refused 2 times:\n  decision-kind/pages/absence.decision-kind.referenced-by — the index entry for this file is in the index differing from what its page says\n  pages/dalla/dalla.persona.referenced-by — the index entry for this file is in the index differing from what its page says\n`tests-pass` refused 1 time:\n  page/service/modules/page-composing/page-composing.module.test.ts — Measured between 2026-09-19T18:52:21.531Z and 2026-09-19T18:53:39.792Z. 1 test file failed: page/service/modules/page-composing/page-composing.module.test.ts 1 of 19035 tes... (1144 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
-{"from":"audit-running"}
-{"id":"01a0bb04-94ab-7000-b6fc-5891424e2e0a"}
-{"slug":"message-5891424e2e0a"}
-{"to":"seat/thea"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
