@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import {
   folderFrom,
   gatheringFrom,
@@ -6,6 +7,7 @@ import {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { partsUnderTheirPlural } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const FOLDER = "akasha/checks/modules"
 
@@ -87,7 +89,7 @@ function propertied(parts: (page: { readonly path: string }) => readonly string[
     folder: PROPERTIES,
     pageTypes: PAGE_TYPES,
     fileProperties: new Set<string>(["types"]),
-    holds: holdsFrom({ "akasha/seat": ["page-type/seat"] }),
+    holds: holdsFrom({ "akasha/seat": [`${pageType.slug}/${seat.slug}`] }),
     extending,
     gathered,
     parts,

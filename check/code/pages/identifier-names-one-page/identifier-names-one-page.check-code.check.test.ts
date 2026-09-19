@@ -22,6 +22,8 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const TEXT = "text-property"
 
@@ -207,7 +209,7 @@ test("two pages of a page type the change itself adds carrying one slug are refu
     landing(root, {
       [pathFor("page-type", "widget")]: bytesOf(
         `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "page-type", ` +
-          'slug: "widget", extends: ["page-type/page"] }\n'
+          `slug: "widget", extends: ["${pageType.slug}/${page.slug}"] }\n`
       ),
       [pathFor("widget", "one")]: body("widget", "held", ONE),
       [pathFor("widget", "two")]: body("widget", "held", TWO),

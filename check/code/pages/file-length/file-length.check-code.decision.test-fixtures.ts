@@ -15,6 +15,8 @@ import {
   slugOf,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const scratch = scratchWorld()
 
@@ -53,7 +55,7 @@ const EXTENDS_TYPE = "extends-type"
 const STEM = "01a06d55-0000-7000-8000-0000000000"
 
 const ABOVE: readonly (readonly [string, string])[] = [
-  [FILE_PROPERTY, "page-type/page-property"],
+  [FILE_PROPERTY, `${pageType.slug}/${pageProperty.slug}`],
   [DRAFTED, `page-type/${FILE_PROPERTY}`],
 ]
 

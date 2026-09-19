@@ -14,6 +14,11 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/parts-under-their-plural/parts-under-their-plural.folder-shape.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.type-generator.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/agent.page-type.ts"}

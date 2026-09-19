@@ -117,6 +117,7 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/agent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/messaging/message/message.page-type.types.ts"}

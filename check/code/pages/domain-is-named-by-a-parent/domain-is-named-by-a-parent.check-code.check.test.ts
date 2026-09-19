@@ -14,11 +14,13 @@ import {
   relating,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 
@@ -278,7 +280,7 @@ test("a page of a page type the change itself adds is judged too", () => {
     landing(root, {
       "akasha/module.page-type.ts": new TextEncoder().encode(
         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
-          `slug: "module", extends: ["page-type/domain"] }\n`
+          `slug: "module", extends: ["${pageType.slug}/${domain.slug}"] }\n`
       ),
       [pathFor("module", "held")]: body("module", "held", ONE),
     })
