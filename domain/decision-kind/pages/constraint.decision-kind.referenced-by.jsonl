@@ -101,6 +101,9 @@
 {"propertySlug":"decision-kind","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.ts","id":"01a0ba95-fb0f-7bb4-a8f6-4b15c58b8546"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/alan-harness-attribute.domain.ts","id":"01a0687a-f498-76b9-9a54-205509f15f64"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","id":"01a0bb11-44b4-71af-a75d-f347bd292d0a"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","id":"01a0bafb-08be-77ae-a54a-a90577b68072"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts","id":"01a0bb11-1bf4-7334-9382-7617d44ca836"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/code-editor.domain.ts","id":"01a0658a-e55d-7059-8f58-e3521a432370"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
@@ -178,6 +181,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts","id":"01a0655d-dab8-7c58-8569-1c6e3295591b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.ts","id":"01a0655d-dab9-7b76-a767-7101666ee41b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts","id":"01a0ba6e-8c03-7601-9695-3532675a5936"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts","id":"01a0bafb-9c26-7fbf-a604-d1157ce78af0"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.ts","id":"01a0ba9c-04fb-7a10-9331-ba1d5382ec7a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/no-such-route/no-such-route.route.ts","id":"01a072dd-d488-7e97-b669-7076f6de9c20"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/pages-ready/pages-ready.route.ts","id":"01a072b4-378d-70ab-8d75-5361b4ca7293"}

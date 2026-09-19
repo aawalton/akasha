@@ -22,6 +22,7 @@ export default [
   route("sign-up", "routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx"),
   route("sign-out", "routes/alan-web-sign-out/alan-web-sign-out.route.code.ts"),
 
+  route("api/auth/*", "routes/alan-web-api-auth/alan-web-api-auth.route.code.ts"),
   route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
   route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
   route(

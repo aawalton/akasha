@@ -56,6 +56,7 @@ export const alanHarness = {
     "page-type/readout",
     "service-workstation/overdue-rolling",
     "service-workstation/persona-points-rebuilding",
+    "domain/better-auth-rr",
   ],
   decisions: [
     {

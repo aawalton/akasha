@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"One route answers every address under the base path Better Auth is given."},{"decisionKind":"decision-kind/departure","statement":"A read and a write are both handed to the same handler."},{"decisionKind":"decision-kind/departure","statement":"Google is handed back `/api/auth/callback/google`, which is this base path and nothing added."},{"decisionKind":"decision-kind/constraint","statement":"This route beats the catch-all that answers an address under `/api/`."}]}
+{"definition":"every address Better Auth answers for alanwalton.com"}
+{"id":"01a0bafb-9c26-7fbf-a604-d1157ce78af0"}
+{"slug":"alan-web-api-auth"}
+{"type":"page-type/route"}
+{"urlPath":"api/auth/*"}

@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-page-listing/alan-web-capacitor-page-listing.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-sign-in/alan-web-capacitor-sign-in.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/about/about.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.ts"}

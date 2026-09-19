@@ -1,4 +1,5 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
+import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
@@ -21,6 +22,7 @@ import {
 import type React from "react"
 import { useEffect } from "react"
 import {
+  data,
   isRouteErrorResponse,
   Links,
   Meta,
@@ -70,6 +72,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
     /^\/api\/tracking\/health-samples$/,
     /^\/api\/sms\/webhook$/,
     /^\/api\/stripe\/webhook$/,
+    /^\/api\/auth\//,
     /^\/api\/sms\/opt-in$/,
     /^\/api\/sms\/verification-status$/,
     /^\/$/,
@@ -99,8 +102,28 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Alan Walton — unified workspace" },
 ]
 
+function passingOn(bounced: Response): Headers {
+  const headers = new Headers()
+  for (const [key, value] of bounced.headers) {
+    const name = key.toLowerCase()
+    if (name === "location" || name === "set-cookie") continue
+    headers.set(key, value)
+  }
+  for (const one of bounced.headers.getSetCookie()) headers.append("set-cookie", one)
+  return headers
+}
+
+function bouncedToSignIn(answered: Response): boolean {
+  const sentTo = answered.headers.get("location") ?? ""
+  return sentTo === AUTH_CONFIG.signInPath || sentTo.startsWith(`${AUTH_CONFIG.signInPath}?`)
+}
+
 export async function loader({ request, context }: Route.LoaderArgs) {
-  return guardedRootData(request, AUTH_CONFIG, context.nonce)
+  const guarded = await guardedRootData(request, AUTH_CONFIG, context.nonce)
+  if (!(guarded instanceof Response)) return guarded
+  if (!bouncedToSignIn(guarded)) return guarded
+  if ((await signedInAs(request)) === null) return guarded
+  return data({ nonce: context.nonce }, { headers: passingOn(guarded) })
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

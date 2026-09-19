@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The one thing a reader can do here is go to Google."},{"decisionKind":"decision-kind/departure","statement":"The browser asks the handler where Google is and goes where the handler says."},{"decisionKind":"decision-kind/constraint","statement":"Only a host named here is a target the url may ask for."},{"decisionKind":"decision-kind/departure","statement":"A reason the url carries back from a refused sign-in is shown to the reader."}]}
+{"definition":"the card a reader signs in from, holding the one button Google answers"}
+{"id":"01a0bafb-08be-77ae-a54a-a90577b68072"}
+{"slug":"google-sign-in"}
+{"type":"page-type/module"}

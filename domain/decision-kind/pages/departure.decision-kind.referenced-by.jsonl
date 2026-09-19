@@ -595,6 +595,12 @@
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/alan-harness-attribute.domain.ts","id":"01a0687a-f498-76b9-9a54-205509f15f64"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/better-auth-rr.domain.ts","id":"01a0baf7-ffe6-7560-9510-2c81f43ead48"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.ts","id":"01a0bafa-a730-7735-bd9a-e26e4084eadb"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","id":"01a0bb11-44b4-71af-a75d-f347bd292d0a"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","id":"01a0bafb-08be-77ae-a54a-a90577b68072"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.ts","id":"01a0baf8-3272-7b17-8439-b3653a48597a"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts","id":"01a0bb11-1bf4-7334-9382-7617d44ca836"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts","id":"01a069ba-b018-7b6b-b9a6-18cd82bd54b3"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
@@ -1189,6 +1195,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/signed-in-redirect/signed-in-redirect.module.ts","id":"01a08e1d-f4fb-72e1-9f35-8bab309aa758"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts","id":"01a0ba6e-8c03-7601-9695-3532675a5936"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.ts","id":"01a0655d-dab9-72ea-9ecc-aad82b9431df"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts","id":"01a0bafb-9c26-7fbf-a604-d1157ce78af0"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.ts","id":"01a08836-2978-7ffe-acee-194c3ed73a89"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-errors/alan-web-api-errors.route.ts","id":"01a0882e-29b1-7d23-b973-769880c8ff12"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-media-token/alan-web-api-media-token.route.ts","id":"01a0882f-3b1a-70b3-a4fd-b2024b64f672"}

@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Who is signed in is read off the cookie, and no page is read to answer it."},{"decisionKind":"decision-kind/departure","statement":"A session naming no contributor is nobody."},{"decisionKind":"decision-kind/departure","statement":"A cookie that will not read is nobody rather than an error."},{"decisionKind":"decision-kind/departure","statement":"A request reaching nobody goes to the sign-in page naming where it was headed."}]}
+{"definition":"the contributor a request's cookie reaches, and where a request reaching none is sent"}
+{"id":"01a0bafa-a730-7735-bd9a-e26e4084eadb"}
+{"slug":"google-auth-guard"}
+{"type":"page-type/module"}

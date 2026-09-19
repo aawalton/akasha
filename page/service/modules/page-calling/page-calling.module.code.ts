@@ -155,7 +155,7 @@ async function sentTo(
   return { refused: `${why} — ${ATTEMPTS} attempts reached ${originOf()}${at}` }
 }
 
-function objectIn(said: unknown): Readonly<Record<string, unknown>> | null {
+export function objectIn(said: unknown): Readonly<Record<string, unknown>> | null {
   if (said === null || typeof said !== "object" || Array.isArray(said)) return null
   return said as Readonly<Record<string, unknown>>
 }

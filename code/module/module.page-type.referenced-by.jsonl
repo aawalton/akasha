@@ -507,6 +507,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.ts"}
