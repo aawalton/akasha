@@ -1,26 +1,19 @@
 import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
 
-export const pushups = {
-  id: "019ebc77-c86e-78c2-a1ae-4c8251bbbab6",
+export const kneePushUp = {
+  id: "01a0ba86-0802-7c90-a65e-b5ccf5a9a7a3",
   type: "page-type/strength-exercise",
-  slug: "pushups",
-  title: "Pushups",
+  slug: "knee-push-up",
+  title: "Knee Push-Up",
   exerciseCategory: "strength",
   equipment: "strength-exercise-implement/body-only",
-  exerciseExternalId: "Pushups",
-  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pushups",
   force: "push",
   gripDemand: "low",
-  imageEndUrl:
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg",
-  imageStartUrl:
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
   implementCount: 1,
   isBallistic: false,
-  exerciseLastSyncedAt: "2026-07-25",
   laterality: "bilateral",
   exerciseLevel: "beginner",
-  loadFactor: 0.64,
+  loadFactor: 0.5,
   mechanic: "compound",
   movementPattern: "h-push",
   muscleFocus: "push",
@@ -28,8 +21,9 @@ export const pushups = {
   scoringMode: "reps",
   secondaryMuscles: ["shoulders", "triceps"],
   sfrScore: 3,
-  skillCost: "moderate",
-  exerciseSource: "free-exercise-db",
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
   trainsLengthenedRange: false,
   instructions: "txt",
+  raisesCold: true,
 } as const satisfies StrengthExercise
