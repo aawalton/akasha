@@ -81,6 +81,14 @@ export const indexAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A question here taking one name is answered once for each name and held.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "What a property carries is read over every page of every type beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page is answered by its path from the reader of page bodies bound here.",
     },
     {
