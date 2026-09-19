@@ -10,7 +10,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A landing reads only what the paths its change names reach.",
       workingMemory:
-        "A landing is 4.78s of work, profiled. The hold it takes while writing was 514ms on average and 740ms at worst, and two of mine since are 48ms and 85ms. Working out which paths a machine writes before the hold, writing git's own index after the hold, and listing every folder of the tree in one call rather than each took it there. A hold still runs past 100ms where a change names many folders, watched at 473ms and 509ms, and what that costs is not yet parted out.",
+        "A landing is 4.78s of work, profiled. The hold it takes while writing was 514ms on average and 740ms at worst. Working out which paths a machine writes before the hold, writing git's own index after the hold, and asking git once for every folder listed, every file hashed and every tree of a depth took two of mine to 48ms and 85ms. A hold over a change naming many folders was 473ms to 509ms before those last calls were batched.",
     },
 
     {
