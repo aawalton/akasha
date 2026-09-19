@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/model/account/service-workstations/upkeep-service/model-account-upkeep-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/model/account/service-workstations/upkeep-stall/model-account-upkeep-stall.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/maintain-seat-pending/maintain-seat-pending.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/memory-reaper/memory-reaper.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-absent-seats/sweep-absent-seats.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.ts"}

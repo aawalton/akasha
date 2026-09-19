@@ -11,7 +11,6 @@ const LOADED: ReadonlySet<string> = new Set([
   "code-editor-data-watcher",
   "dcgm-exporter",
   "maintain-seat-pending",
-  "memory-reaper",
   "monarch-poll",
   "node-exporter",
   "recipient-resolver",

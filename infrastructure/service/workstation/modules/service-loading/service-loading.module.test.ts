@@ -117,7 +117,7 @@ test("a service kept running by systemd is run by the loader", () => {
   for (const one of [
     "apns-push-notifier",
     "code-editor-data-watcher",
-    "memory-reaper",
+    "maintain-seat-pending",
     "surplus-fall-notifier",
   ]) {
     expect(loadedHere(one)).toBe(true)
