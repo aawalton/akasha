@@ -1,7 +1,9 @@
 import { expect, mock, test } from "bun:test"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { upkeepSafety } from "akasha/alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts"
 
-const POINT = "readout/upkeep-safety"
+const POINT = `${readout.slug}/${upkeepSafety.slug}`
 
 const ALANS_SITE = "https://alanwalton.com"
 

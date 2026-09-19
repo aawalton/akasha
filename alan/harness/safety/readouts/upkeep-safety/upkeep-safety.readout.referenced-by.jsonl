@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"upkeep-safety.readout.reading.code.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"upkeep-safety.readout.reading.code.ts","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.reading.test.ts"}
+{"propertySlug":"import","fileName":"upkeep-safety.readout.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"upkeep-safety.readout.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.test.ts"}
 {"propertySlug":"parts","path":"alan/harness/safety/safety.domain.ts","id":"01a05f42-92f5-7005-9a61-d2ed59cb2fac"}
