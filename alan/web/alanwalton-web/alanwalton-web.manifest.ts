@@ -17,5 +17,13 @@ export const alanwaltonWeb = {
       statement:
         "The keys hashed from the alanwalton-s3-creds secret are access_key and secret_key.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pod template carries the hash of the alanwalton-secrets secret.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every key that secret carries is hashed, the pod reading them all.",
+    },
   ],
 } as const satisfies Manifest

@@ -11,5 +11,9 @@ export const secretChecksum = {
       decisionKind: "decision-kind/departure",
       statement: "A dot in a key names the key rather than a field under a field.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call naming no key sums every key the secret carries.",
+    },
   ],
 } as const satisfies Module

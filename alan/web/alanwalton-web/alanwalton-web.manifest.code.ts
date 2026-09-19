@@ -112,6 +112,7 @@ function webDeploymentYaml(): string {
               "access_key",
               "secret_key",
             ]),
+            "checksum/secrets": secretChecksum(NAMESPACE, SECRET_NAME),
           },
           labels: RESOURCE_LABELS,
         },
