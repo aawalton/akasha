@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"change-page-page-type.change-mechanical.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"change-page-page-type.change-mechanical.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"change-page-page-type.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"change-page-page-type.change-mechanical.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-page-page-type.change-mechanical.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.test.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/change-mechanical-file.page-type.ts","id":"01a07ba6-609b-7d7a-bf95-48bb415b1bc2"}

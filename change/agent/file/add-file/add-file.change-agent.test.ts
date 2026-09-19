@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { addFileCommand } from "akasha/change/agent/file/add-file/add-file.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
@@ -7,7 +9,7 @@ const AT = "akasha/one.held.ts"
 
 const PLAIN = "akasha/one/notes.md"
 
-const REACHES = "change-mechanical/add-file-of-any-kind"
+const REACHES = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 function worldOf(held: Readonly<Record<string, string>>): World {
   return {

@@ -1,8 +1,11 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { changePagePageType as changePagePageTypeMechanical } from "akasha/change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const CHANGE_PAGE_PAGE_TYPE = "change-mechanical/change-page-page-type"
+const CHANGE_PAGE_PAGE_TYPE =
+  `${changeMechanical.slug}/${changePagePageTypeMechanical.slug}` as const
 
 const AT = "at"
 

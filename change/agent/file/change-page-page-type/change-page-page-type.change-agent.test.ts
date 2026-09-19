@@ -3,6 +3,8 @@ import {
   runChange,
   takes,
 } from "akasha/change/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { changePagePageType } from "akasha/change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.ts"
 import {
   type Caught,
   catching,
@@ -13,7 +15,7 @@ const AT = "akasha/kept/one.kept.ts"
 
 const TO = "akasha/spare.page-type.ts"
 
-const MECHANICAL = "change-mechanical/change-page-page-type"
+const MECHANICAL = `${changeMechanical.slug}/${changePagePageType.slug}` as const
 
 test("the page and the page type it becomes are the two arguments read here", () => {
   expect(takes).toEqual(["at", "to"])

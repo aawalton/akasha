@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -10,7 +12,7 @@ const ID = "id"
 
 const OLD = "old"
 
-const ADD_FILE_OF_ANY_KIND = "change-mechanical/add-file-of-any-kind"
+const ADD_FILE_OF_ANY_KIND = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 export type Asked = Readonly<Record<string, string>>
 

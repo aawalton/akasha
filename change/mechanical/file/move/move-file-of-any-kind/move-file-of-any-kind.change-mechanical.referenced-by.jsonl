@@ -3,4 +3,6 @@
 {"propertySlug":"import","fileName":"move-file-of-any-kind.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
 {"propertySlug":"import","fileName":"move-file-of-any-kind.change-mechanical.test-fixtures.ts","path":"change/agent/file/move-page/move-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"move-file-of-any-kind.change-mechanical.test-fixtures.ts","path":"change/agent/file/move-pages/move-pages.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"move-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/move-page/move-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"move-file-of-any-kind.change-mechanical.ts","path":"change/agent/file/move-page/move-page.change-agent.test.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/move/change-mechanical-file-move.domain.ts","id":"01a07cbe-25bd-7fd0-85e4-27292828ea8d"}
