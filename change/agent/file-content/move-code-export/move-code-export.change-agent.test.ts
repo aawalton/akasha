@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { moveCodeExportCommand } from "akasha/change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { moveCodeExport } from "akasha/change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.ts"
 import {
   BARE,
   FROM,
@@ -12,7 +14,7 @@ import {
 } from "akasha/change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"
 import { NOTHING_OVER } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const MOVED = "change-mechanical/move-code-export"
+const MOVED = `${changeMechanical.slug}/${moveCodeExport.slug}` as const
 
 test("the three arguments are answered as the edits the move leaves", async () => {
   const world = worldOf({ [FROM]: HELD, [TO]: BARE, [USES]: USING }, [USES])

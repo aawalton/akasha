@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { moveCodeExport } from "akasha/change/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.ts"
 import { missing, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -8,7 +10,7 @@ const TO = "to"
 
 const OF = "of"
 
-const MOVE_CODE_EXPORT = "change-mechanical/move-code-export"
+const MOVE_CODE_EXPORT = `${changeMechanical.slug}/${moveCodeExport.slug}` as const
 
 export type Asked = Readonly<Record<string, string>>
 

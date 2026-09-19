@@ -9,10 +9,13 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-file/change-file.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-file/change-file.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts"}

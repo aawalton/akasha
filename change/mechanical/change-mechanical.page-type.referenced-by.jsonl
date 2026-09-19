@@ -10,6 +10,8 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/add-file/add-file.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/add-file/add-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts"}
