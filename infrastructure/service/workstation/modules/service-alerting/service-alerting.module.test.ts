@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { akasha } from "akasha/akasha.domain.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import type { DomainRow } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import {
   COOLING_MS,
@@ -10,6 +12,8 @@ import {
   told,
 } from "akasha/infrastructure/service/workstation/modules/service-alerting/service-alerting.module.code.ts"
 import type { Health } from "akasha/infrastructure/service/workstation/modules/service-health/service-health.module.code.ts"
+
+const AKASHA_AT = `${domain.slug}/${akasha.slug}`
 
 const BROKE: Health = {
   slug: "held-service",
@@ -104,8 +108,8 @@ test("a mark that is no instant is owed a telling rather than swallowed", () => 
 test("the persona told is the nearest one climbing the tree", () => {
   const champion = championing([
     rowOf("service-workstation/held-service", "workspace-package/held", null),
-    rowOf("workspace-package/held", "domain/akasha", "ember"),
-    rowOf("domain/akasha", null, "akasha"),
+    rowOf("workspace-package/held", AKASHA_AT, "ember"),
+    rowOf(AKASHA_AT, null, "akasha"),
   ])
   expect(champion("service-workstation/held-service")).toBe("ember")
 })

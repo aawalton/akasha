@@ -25,6 +25,8 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}

@@ -1,5 +1,6 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { pageDomain } from "akasha/domain/properties/page-domain.relation-property.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import type {
@@ -16,6 +17,7 @@ import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.t
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
+import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
 import {
   shapedIn,
   bodyOf as shapesBodyOf,
@@ -132,7 +134,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     pageTypeSlug: "one-of-property",
     slug: "either",
     propertySlug: "either",
-    members: ["relation-property/page-domain", "relation-property/note-slug"],
+    members: [`${relationProperty.slug}/${pageDomain.slug}`, "relation-property/note-slug"],
   })
   filed(
     "page-type/record-property/slug/parts.jsonl",

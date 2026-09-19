@@ -1,3 +1,4 @@
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   commandOf,
   type Refused,
@@ -11,6 +12,7 @@ import {
   loadedHere,
   loaderRun,
 } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
+import { serviceRunning } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.ts"
 import type {
   Service,
   Started,
@@ -31,7 +33,7 @@ export const SERVICE_PAGE_TYPE = "service-workstation"
 
 const PAGE_TYPE = "page-type"
 
-const RUNNER = "module/service-running"
+const RUNNER = `${module.slug}/${serviceRunning.slug}` as const
 
 const PAGES_SLUG = "page-service"
 

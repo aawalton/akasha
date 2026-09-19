@@ -103,6 +103,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}

@@ -1,3 +1,10 @@
+import { audit } from "akasha/check/code/properties/audit.module-property-group.ts"
+import { code } from "akasha/code/module/properties/code.code-file-property.ts"
+import { test } from "akasha/code/module/properties/test.code-file-property.ts"
+import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
+import { logs } from "akasha/code/module-property-group/properties/logs.file-property.ts"
+import { codeFileProperty } from "akasha/page/code-file-property/code-file-property.page-type.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -9,16 +16,16 @@ export const GROUPING = [
     slug: "module-property-group",
     extends: [`${pageType.slug}/${filePropertyGroup.slug}`],
     properties: [
-      { pageProperty: "code-file-property/code", fixed: "ts" },
-      { pageProperty: "code-file-property/test", fixed: "ts" },
-      { pageProperty: "file-property/logs", uncommitted: true, default: "jsonl" },
+      { pageProperty: `${codeFileProperty.slug}/${code.slug}`, fixed: "ts" },
+      { pageProperty: `${codeFileProperty.slug}/${test.slug}`, fixed: "ts" },
+      { pageProperty: `${fileProperty.slug}/${logs.slug}`, uncommitted: true, default: "jsonl" },
     ],
   },
   {
     id: "3",
     pageTypeSlug: "page-type",
     slug: "check-code",
-    properties: [{ pageProperty: "module-property-group/audit" }],
+    properties: [{ pageProperty: `${modulePropertyGroup.slug}/${audit.slug}` }],
   },
 ]
 

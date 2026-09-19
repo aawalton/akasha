@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"test.code-file-property.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.ts","path":"command/pages/measure/test/measure-test.command.code.ts"}
+{"propertySlug":"import","fileName":"test.code-file-property.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"alan/attribute/attribute.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.types.ts"}

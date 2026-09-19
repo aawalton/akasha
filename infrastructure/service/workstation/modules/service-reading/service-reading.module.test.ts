@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   everyService,
   pagesOriginIn,
@@ -9,6 +10,7 @@ import {
   serviceIn,
   systemdIn,
 } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
+import { serviceReading } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const ROOT = process.cwd()
@@ -97,7 +99,7 @@ test("what a page spells of how it runs reaches no command line", () => {
   const spelled = serviceIn(ROOT, {
     ...WHOLE,
     runs: ["bun a.ts"],
-    starts: [{ code: "module/service-reading" }],
+    starts: [{ code: `${module.slug}/${serviceReading.slug}` }],
   })
   expect(spelled?.runs).toEqual(serviceIn(ROOT, { ...WHOLE })?.runs ?? [])
 })
