@@ -74,5 +74,10 @@ export const warming = {
       statement:
         "A raise Alan performs without logging it ages no further, so the day alone varies it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A raise is performed off one step, and a movement needing more than one is no raise.",
+    },
   ],
 } as const satisfies Module
