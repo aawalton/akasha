@@ -86,6 +86,9 @@ export type Changes = {
   "change-agent/move-pages": Parameters<
     typeof import("akasha/change/agent/file/move-pages/move-pages.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/move-pages-under": Parameters<
+    typeof import("akasha/change/agent/file/move-pages-under/move-pages-under.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-property-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]

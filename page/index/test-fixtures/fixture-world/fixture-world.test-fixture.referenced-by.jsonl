@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file/move-page/move-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file/move-pages/move-pages.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.test.ts"}

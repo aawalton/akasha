@@ -1,6 +1,7 @@
 {"propertySlug":"change-mode","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.ts","id":"01a0879d-8148-79b2-b976-efaa5137360f"}
 {"propertySlug":"change-mode","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.ts","id":"01a09523-3d2f-7e8b-885b-e4fc2e8a3222"}
 {"propertySlug":"change-mode","path":"change/agent/file/move-page/move-page.change-agent.ts","id":"01a07883-67ee-7249-9045-121a02fac4bf"}
+{"propertySlug":"change-mode","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.ts","id":"01a0ba5c-5a5f-79e4-a8e4-1cfded3be787"}
 {"propertySlug":"change-mode","path":"change/agent/file/move-pages/move-pages.change-agent.ts","id":"01a08863-b526-72fb-a4c4-99b6a097debc"}
 {"propertySlug":"change-mode","path":"change/agent/folder/move-folder/move-folder.change-agent.ts","id":"01a07c54-a9b0-797b-add8-8e9d734c5213"}
 {"propertySlug":"change-mode","path":"change/agent/folder/nest-modules/nest-modules.change-agent.ts","id":"01a095f8-a367-726d-98cb-052fe5052d45"}

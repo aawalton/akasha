@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/move-page/move-page.change-agent.ts"}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/move-pages/move-pages.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/remove-file/remove-file.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.ts"}

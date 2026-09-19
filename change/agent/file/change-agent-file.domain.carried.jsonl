@@ -1,5 +1,5 @@
 {"definition":"a change an agent reaches acting on where a file sits"}
 {"id":"01a07cc2-47e0-7c08-b48a-bacf9c0f9386"}
-{"parts":["change-agent/add-binary-file","change-agent/add-file","change-agent/change-page-page-type","change-agent/divide-file-code","change-agent/divide-page-property","change-agent/move-page","change-agent/move-pages","change-agent/remove-file","change-agent/remove-page","change-agent/remove-page-type","change-agent/rename-page","change-agent/rename-pages"]}
+{"parts":["change-agent/add-binary-file","change-agent/add-file","change-agent/change-page-page-type","change-agent/divide-file-code","change-agent/divide-page-property","change-agent/move-page","change-agent/move-pages","change-agent/remove-file","change-agent/remove-page","change-agent/remove-page-type","change-agent/rename-page","change-agent/rename-pages","change-agent/move-pages-under"]}
 {"slug":"change-agent-file"}
 {"type":"page-type/domain"}
