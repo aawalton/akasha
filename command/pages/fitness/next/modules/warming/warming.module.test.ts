@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { day } from "akasha/alan/track/daily/day/day.page-type.ts"
+import { day20260916 } from "akasha/alan/track/daily/day/pages/2026-09-16/day-2026-09-16.day.ts"
+import { day20260917 } from "akasha/alan/track/daily/day/pages/2026-09-17/day-2026-09-17.day.ts"
 import { day20260918 } from "akasha/alan/track/daily/day/pages/2026-09-18/day-2026-09-18.day.ts"
 import { dumbbellBenchPress } from "akasha/alan/value/health/fitness/strength/exercise/pages/dumbbell-bench-press/dumbbell-bench-press.strength-exercise.ts"
 import { hammerCurls } from "akasha/alan/value/health/fitness/strength/exercise/pages/hammer-curls/hammer-curls.strength-exercise.ts"
@@ -19,6 +21,10 @@ import {
 const NOW = new Date("2026-09-18T17:00:00.000Z")
 
 const TODAY = day20260918.date
+
+const SEPTEMBER_SIXTEENTH = `${day.slug}/${day20260916.slug}` as const
+
+const SEPTEMBER_SEVENTEENTH = `${day.slug}/${day20260917.slug}` as const
 
 const SEPTEMBER_EIGHTEENTH = `${day.slug}/${day20260918.slug}` as const
 
@@ -131,11 +137,11 @@ test("the day parts raises Alan has gone equally long without", () => {
 
 test("what Alan raised with is read from the sets logged as cardio", () => {
   const sets = [
-    { activityType: "cardio", day: "day/day-2026-09-16", exercise: "x/jumping-jacks" },
-    { activityType: "cardio", day: "day/day-2026-09-17", exercise: "x/jumping-jacks" },
-    { day: "day/day-2026-09-18", exercise: "x/shadow-boxing" },
+    { activityType: "cardio", day: SEPTEMBER_SIXTEENTH, exercise: "x/jumping-jacks" },
+    { activityType: "cardio", day: SEPTEMBER_SEVENTEENTH, exercise: "x/jumping-jacks" },
+    { day: SEPTEMBER_EIGHTEENTH, exercise: "x/shadow-boxing" },
   ]
-  expect(raisedIn(sets)).toEqual(new Map([["jumping-jacks", "2026-09-17"]]))
+  expect(raisedIn(sets)).toEqual(new Map([["jumping-jacks", day20260917.date]]))
 })
 
 test("a movement mobilises where its pattern is mobility and its force is not static", () => {
