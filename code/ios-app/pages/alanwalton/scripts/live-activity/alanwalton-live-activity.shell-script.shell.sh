@@ -107,7 +107,13 @@ public class StoplightsActivityPlugin: CAPPlugin, CAPBridgedPlugin {
         Task { [weak self] in
             for await token in activity.pushTokenUpdates {
                 let hex = token.map { String(format: "%02x", $0) }.joined()
-                self?.notifyListeners("token", data: ["value": hex])
+                // THE TOKEN IS HELD UNTIL SOMETHING TAKES IT.
+                //
+                // This plugin loads with the bridge, and an activity already running names its
+                // token at once — long before the web layer has loaded and asked to hear it. An
+                // event sent to nobody is dropped, so the address the pushes go to would be lost
+                // on every launch but the one that started the activity.
+                self?.notifyListeners("token", data: ["value": hex], retainUntilConsumed: true)
             }
         }
     }

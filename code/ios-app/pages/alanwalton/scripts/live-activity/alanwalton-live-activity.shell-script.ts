@@ -17,6 +17,14 @@ export const alanwaltonLiveActivity = {
       statement: "Every token the activity names is handed to the web layer as it arrives.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "This plugin loads with the bridge, well before the web layer asks to hear it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A token named before anything is listening is held until something takes it.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "An activity still running when the app starts again is watched for a token.",
     },
