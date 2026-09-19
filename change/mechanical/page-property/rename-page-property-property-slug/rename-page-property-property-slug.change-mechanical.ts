@@ -82,8 +82,7 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every file a file property's key names is carried to the name the new key spells.",
+      statement: "Every file a key names beside a page is carried to the name the new key spells.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -166,6 +165,10 @@ export const renamePagePropertyPropertySlug = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file property's file and an entry shape's rows are each such a file.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

@@ -44,6 +44,8 @@ const RECORD_PROPERTY = "record-property"
 
 const ENTRY_PROPERTY = "page-property-entry"
 
+const BESIDE: ReadonlySet<string> = new Set([FILE_PROPERTY, ENTRY_PROPERTY])
+
 const PAGE_TYPE = "page-type"
 
 const TYPES = "types"
@@ -228,7 +230,7 @@ export function renamePagePropertyPropertySlug(world: World, given: Asked): Answ
   const held = spelledIn(
     world,
     types.map((one) => one.slug),
-    { key, was: read.was, to: given.to, beside: read.kind === FILE_PROPERTY, atMost }
+    { key, was: read.was, to: given.to, beside: BESIDE.has(read.kind), atMost }
   )
   const spelling = gathering()
   if (whole) {

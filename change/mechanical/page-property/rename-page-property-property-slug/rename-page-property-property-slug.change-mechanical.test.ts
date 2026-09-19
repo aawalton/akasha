@@ -412,6 +412,60 @@ test("a run handed a count spells no key anew in a file of entries", () => {
   expect(pathsIn(said)).not.toContain(ROWS_AT)
 })
 
+const MONTH_TYPES_AT = "akasha/month.page-type.types.ts"
+
+const ROWS_TO = "akasha/months/one.month.tallies-held.jsonl"
+
+const ENTRY_BODY = `export const tallies = {
+  id: "tallies-id",
+  type: "page-property-entry",
+  slug: "tallies",
+  propertySlug: "tallies",
+} as const
+`
+
+const MONTH_BODY = `export const one = {
+  id: "month-one",
+  pageTypeSlug: "month",
+  slug: "one",
+  tallies: "jsonl",
+} as const
+`
+
+const SHAPE_VALUES: Readonly<Record<string, Value>> = {
+  ...ENTRY_VALUES,
+  "page-type/month": { id: "month-id", pageTypeSlug: "page-type", slug: "month", types: "ts" },
+}
+
+function shapeWorld(): World {
+  return worldIn(
+    {
+      [ENTRY_AT]: ENTRY_BODY,
+      [MONTH_AT]: MONTH_BODY,
+      [MONTH_TYPES_AT]: "export type Month = { tallies: string }\n",
+      [ROWS_AT]: '{"id":"a"}\n',
+    },
+    SHAPE_VALUES,
+    () => BY_A_MONTH,
+    { month: [[MONTH_AT, SHAPE_VALUES["month/one"] as Value]] }
+  )
+}
+
+test("the rows an entry shape's key names are carried to the new name", () => {
+  const said = renamePagePropertyPropertySlug(shapeWorld(), { at: ENTRY_AT, to: "tallies-held" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toContainEqual({ kind: "move", pathFrom: ROWS_AT, pathTo: ROWS_TO })
+})
+
+test("the key an entry shape's rows sit under is spelled anew on the page too", () => {
+  const world = shapeWorld()
+
+  const said = renamePagePropertyPropertySlug(world, { at: ENTRY_AT, to: "tallies-held" })
+
+  expect(bodyOf(said, world, MONTH_AT)).toContain('talliesHeld: "jsonl"')
+})
+
 test("no rung beneath is reached", () => {
   REACHED.length = 0
 
