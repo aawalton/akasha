@@ -1,0 +1,5 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A thing has a replacement value whether or not a player can be sold that thing."},{"decisionKind":"decision-kind/departure","statement":"A replacement value answers how hard a thing is to buy rather than what one sold for."},{"decisionKind":"decision-kind/stopgap","statement":"A replacement value is worked out exactly as a market value is."}]}
+{"definition":"what a player would pay to get another of a thing"}
+{"id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
+{"slug":"temper-replacement-value"}
+{"type":"page-type/domain"}

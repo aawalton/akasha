@@ -5,6 +5,11 @@ export const temperValue = {
   type: "page-type/domain",
   slug: "temper-value",
   definition: "what a thing a player holds is worth",
+  parts: [
+    "domain/temper-market-value",
+    "domain/temper-merchant-value",
+    "domain/temper-replacement-value",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
