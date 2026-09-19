@@ -10,8 +10,14 @@ const SECTION = "shapes"
 
 const HOLDS = "jsonl"
 
+const ENDING = `.${SECTION}.${HOLDS}`
+
 export function shapesFiledAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
+}
+
+export function shapesFiled(path: string): boolean {
+  return path.endsWith(ENDING)
 }
 
 const ENDING_NAME = "extensionName"

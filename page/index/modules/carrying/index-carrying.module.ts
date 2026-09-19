@@ -36,6 +36,20 @@ export const indexCarrying = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A change carries the shapes file beside every page type whose properties it turns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shapes file no commit holds yet is left to the generator making that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The settle works that body out once, so what is written and what is carried agree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The answers are read off the index the change leaves rather than worked out here.",
     },
     {

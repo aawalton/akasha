@@ -259,6 +259,7 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
           ...bodiesFrom(reading, settled.filings),
           ...bodiesBeside(was, settled.references),
           ...settled.carried,
+          ...settled.beside,
         ])
       }
       return bodies
