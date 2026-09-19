@@ -181,7 +181,7 @@ const NAMED: ReadonlyMap<string, string> = new Map([
   ["temper-addon-copy-metadata", "copy-metadata"],
 ])
 
-export const LEVELS_NAMED: Naming = (slug) => NAMED.get(slug) ?? null
+export const levelsNamed: Naming = (slug) => NAMED.get(slug) ?? null
 
 const TYPED: ReadonlyMap<string, Kind> = new Map([
   ["change", NAMESPACE],
@@ -192,15 +192,15 @@ const TYPED: ReadonlyMap<string, Kind> = new Map([
   ["temper-addon-copy-metadata", COMMAND],
 ])
 
-export const LEVELS_TYPED: Typing = (slug) => TYPED.get(slug) ?? null
+export const levelsTyped: Typing = (slug) => TYPED.get(slug) ?? null
 
 export function parsed(text: string, at: string = PROBE_AT): Given {
   return {
     path: at,
     source: parsedAs(at, text),
     readers: READERS_FILED,
-    namedAt: LEVELS_NAMED,
-    typedAt: LEVELS_TYPED,
+    namedAt: levelsNamed,
+    typedAt: levelsTyped,
   }
 }
 

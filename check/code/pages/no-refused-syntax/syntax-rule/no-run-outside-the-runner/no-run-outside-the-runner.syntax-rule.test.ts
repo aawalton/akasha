@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import {
-  LEVELS_NAMED,
-  LEVELS_TYPED,
+  levelsNamed,
+  levelsTyped,
   NO_READERS,
   PROBE_AT,
   parsed,
@@ -91,8 +91,8 @@ test("a file in the runner's own folder is refused nothing", () => {
       path: at,
       source: parsedAs(at, text),
       readers: NO_READERS,
-      namedAt: LEVELS_NAMED,
-      typedAt: LEVELS_TYPED,
+      namedAt: levelsNamed,
+      typedAt: levelsTyped,
     })
   ).toEqual([])
 })

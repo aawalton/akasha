@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import {
-  LEVELS_NAMED,
-  LEVELS_TYPED,
+  levelsNamed,
+  levelsTyped,
   NO_READERS,
 } from "akasha/check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.test-fixtures.ts"
 import {
@@ -25,8 +25,8 @@ function judged(path: string, text: string): readonly Refusal[] {
     path,
     source: parsedAs(path, text),
     readers: NO_READERS,
-    namedAt: LEVELS_NAMED,
-    typedAt: LEVELS_TYPED,
+    namedAt: levelsNamed,
+    typedAt: levelsTyped,
   })
 }
 
@@ -99,7 +99,7 @@ test("this mark excuses a file only where this rule could not have refused it", 
 })
 
 test("the word put in for a worked-out piece names a level only where the slug before it names one", () => {
-  const naming = alsoNaming(LEVELS_NAMED)
+  const naming = alsoNaming(levelsNamed)
   expect(naming("temper-something")).toBe("something")
   expect(naming("stray-something")).toBeNull()
   expect(naming("temper-addon")).toBe("addon")

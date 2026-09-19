@@ -232,11 +232,11 @@ export function levelsOf(shadow: Shadow): Levels {
   }
 }
 
-const NAMES_NOTHING: Naming = () => null
+const namesNothing: Naming = () => null
 
-const TYPES_NOTHING: Typing = () => null
+const typesNothing: Typing = () => null
 
-const NO_LEVELS: Levels = { namedAt: NAMES_NOTHING, typedAt: TYPES_NOTHING }
+const NO_LEVELS: Levels = { namedAt: namesNothing, typedAt: typesNothing }
 
 export function markedIn(rules: readonly Rule[], path: string, text: string): readonly Rule[] {
   return rules.filter((one) => one.mark === undefined || one.mark(text, path))

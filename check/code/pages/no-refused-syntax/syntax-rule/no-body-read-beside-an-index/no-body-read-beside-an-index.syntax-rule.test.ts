@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import {
-  LEVELS_NAMED,
-  LEVELS_TYPED,
+  levelsNamed,
+  levelsTyped,
   PROBE_AT,
   parsed,
   READERS_FILED,
@@ -30,8 +30,8 @@ function at(path: string, text: string) {
     path,
     source: parsedAs(path, text),
     readers: READERS_FILED,
-    namedAt: LEVELS_NAMED,
-    typedAt: LEVELS_TYPED,
+    namedAt: levelsNamed,
+    typedAt: levelsTyped,
   }
 }
 

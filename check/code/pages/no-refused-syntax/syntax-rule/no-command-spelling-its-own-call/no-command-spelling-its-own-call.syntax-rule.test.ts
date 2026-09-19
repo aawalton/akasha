@@ -24,17 +24,17 @@ const OUTSIDE_AT = "checks/one/one.module.code.ts"
 
 const NO_READERS: Readers = new Map()
 
-const NAMES_NOTHING: Naming = () => null
+const namesNothing: Naming = () => null
 
-const TYPES_NOTHING: Typing = () => null
+const typesNothing: Typing = () => null
 
 function at(path: string, text: string): Given {
   return {
     path,
     source: parsedAs(path, text),
     readers: NO_READERS,
-    namedAt: NAMES_NOTHING,
-    typedAt: TYPES_NOTHING,
+    namedAt: namesNothing,
+    typedAt: typesNothing,
   }
 }
 

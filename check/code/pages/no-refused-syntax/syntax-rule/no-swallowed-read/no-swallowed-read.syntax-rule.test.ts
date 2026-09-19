@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import {
   CHANGE_FROM,
   JUDGED_FROM,
-  LEVELS_NAMED,
-  LEVELS_TYPED,
+  levelsNamed,
+  levelsTyped,
   NO_READERS,
   PROBE_AT,
 } from "akasha/check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.test-fixtures.ts"
@@ -26,8 +26,8 @@ function over(text: string): readonly Refusal[] {
     path: PROBE_AT,
     source: parsedAs(PROBE_AT, text),
     readers: NO_READERS,
-    namedAt: LEVELS_NAMED,
-    typedAt: LEVELS_TYPED,
+    namedAt: levelsNamed,
+    typedAt: levelsTyped,
   })
 }
 
