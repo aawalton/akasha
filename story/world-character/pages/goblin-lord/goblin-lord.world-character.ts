@@ -7,6 +7,7 @@ export const goblinLord = {
   title: "the Goblin Lord",
   world: "world/the-wandering-inn",
   firstChapter: 152,
-  lastChapter: 756,
+  lastChapter: 298,
   characterClaims: "jsonl",
+  aliasOf: "world-character/reiss",
 } as const satisfies WorldCharacter
