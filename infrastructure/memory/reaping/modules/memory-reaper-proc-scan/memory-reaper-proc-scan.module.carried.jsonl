@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process this module cannot read is passed over rather than refused."},{"decisionKind":"decision-kind/departure","statement":"A process in a rootless-podman cgroup is a container rather than a fleet process."}]}
-{"definition":"what one process has, and whether that process is a container"}
-{"id":"01a0686c-f06b-7000-bd79-2d9700be871d"}
-{"slug":"memory-reaper-proc-scan"}
-{"test":"ts"}
-{"type":"page-type/module"}

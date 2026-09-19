@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.test-fixtures.ts","path":"agent/modules/proc-liveness/agent-proc-liveness.module.test.ts"}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.test-fixtures.ts","path":"agent/subagent/modules/census/subagent-census.module.test.ts"}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.test-fixtures.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}

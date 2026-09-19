@@ -5,7 +5,7 @@ export const memory = {
   type: "page-type/domain",
   slug: "memory",
   definition: "where bytes live while a program holds them",
-  parts: ["domain/memory-limit", "domain/memory-reaping", "page-type/memory-kind"],
+  parts: ["domain/memory-limit", "page-type/memory-kind"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

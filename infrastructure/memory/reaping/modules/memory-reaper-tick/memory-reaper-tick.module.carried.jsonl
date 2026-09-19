@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process in a container is left out of everything the tick weighs."},{"decisionKind":"decision-kind/departure","statement":"A tick that cannot read the memory the host has free disarms its headroom leg."},{"decisionKind":"decision-kind/departure","statement":"A tick that cannot read the process table does nothing rather than guessing."},{"decisionKind":"decision-kind/departure","statement":"Trees are signalled before single processes."},{"decisionKind":"decision-kind/departure","statement":"A tree is signalled from its leaves up to its root."},{"decisionKind":"decision-kind/departure","statement":"A tick that overruns its deadline is abandoned rather than left to run on."},{"decisionKind":"decision-kind/departure","statement":"A kill that throws is said aloud and the rest of the plan still runs."},{"decisionKind":"decision-kind/departure","statement":"A tick first takes away every group a run left under the topmost group the reaper may write in."},{"decisionKind":"decision-kind/departure","statement":"A sweep that throws is said aloud and the tick still weighs the host."}]}
-{"definition":"one pass of reading the host, planning the kills and signalling them"}
-{"id":"01a0686c-f06b-7008-9b99-4a53950c8d35"}
-{"slug":"memory-reaper-tick"}
-{"type":"page-type/module"}

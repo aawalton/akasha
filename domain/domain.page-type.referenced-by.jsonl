@@ -435,7 +435,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/kind/memory-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/limit/memory-limit.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/memory.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/memory/reaping/memory-reaping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/network/certificate/certificate.domain.ts"}

@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A process is asked to end before that process is made to."},{"decisionKind":"decision-kind/departure","statement":"A process still alive at the timeout is made to end."},{"decisionKind":"decision-kind/departure","statement":"A process already gone is no failure."},{"decisionKind":"decision-kind/departure","statement":"A whole tree is asked together and waited on together rather than a process at a time."}]}
-{"definition":"a process or a whole tree asked to end and then made to"}
-{"id":"01a0686c-f06b-7006-9d1b-e53dd0c8cb4a"}
-{"slug":"memory-reaper-kill"}
-{"type":"page-type/module"}

@@ -2615,17 +2615,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/memory/kind/pages/virtual.memory-kind.ts","id":"01a09131-7243-719c-8edc-d76d9fb9b86b"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/limit/memory-limit.domain.ts","id":"01a09115-8c65-76a6-bdc1-cfddcc4acd88"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/memory.domain.ts","id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/memory-reaping.domain.ts","id":"01a0886f-b428-7780-8b2e-1e374e2ff056"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-config/memory-reaper-config.module.ts","id":"01a0686c-f06b-7007-b2bd-1fadc2d0ea23"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-global/memory-reaper-global.module.ts","id":"01a0686c-f06b-7002-9ec8-2c68f87e02a6"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-kill/memory-reaper-kill.module.ts","id":"01a0686c-f06b-7006-9d1b-e53dd0c8cb4a"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-legs/memory-reaper-legs.module.ts","id":"01a0686c-f06b-7001-9b7d-734cdb98ac14"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-owner/memory-reaper-owner.module.ts","id":"01a0686c-f06b-7003-8046-1fd5f5849520"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-plan/memory-reaper-plan.module.ts","id":"01a0686c-f06b-7004-8e58-5c2972baf99d"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-proc-scan/memory-reaper-proc-scan.module.ts","id":"01a0686c-f06b-7000-bd79-2d9700be871d"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.ts","id":"01a0686c-f06b-7005-adc8-555b9569ab6f"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-running/memory-reaper-running.module.ts","id":"01a0686a-7a57-73d2-a05d-06bd52f76154"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-tick/memory-reaper-tick.module.ts","id":"01a0686c-f06b-7008-9b99-4a53950c8d35"}
 {"propertySlug":"decision-kind","path":"infrastructure/modules/calls/infrastructure-calls.module.ts","id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.ts","id":"01a06863-8e7c-7047-9da8-7b7f8e0ac120"}

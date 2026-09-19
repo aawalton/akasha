@@ -91,7 +91,6 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-tick/memory-reaper-tick.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"}

@@ -1,6 +1,6 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"The memory a host has is one pool every program on that host draws from."},{"decisionKind":"decision-kind/departure","statement":"Memory one program holds is memory no other program can have."},{"decisionKind":"decision-kind/constraint","statement":"A program is given the memory it asks for before anything weighs the ask."},{"decisionKind":"decision-kind/departure","statement":"A host out of memory ends a program rather than refusing the ask."}]}
 {"definition":"where bytes live while a program holds them"}
 {"id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}
-{"parts":["domain/memory-limit","domain/memory-reaping","page-type/memory-kind"]}
+{"parts":["domain/memory-limit","page-type/memory-kind"]}
 {"slug":"memory"}
 {"type":"page-type/domain"}

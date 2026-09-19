@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
-{"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-kill/memory-reaper-kill.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"temper/build-deploy-check/modules/check-addon-removed-refs/check-addon-removed-refs.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"temper/build-deploy-check/modules/check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts"}

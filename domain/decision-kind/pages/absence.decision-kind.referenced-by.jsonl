@@ -1382,7 +1382,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts","id":"01a07352-c56d-7d59-981a-3d7fa93e062d"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/repo-roots/repo-roots.shell-script.ts","id":"01a0691b-4f65-7e5d-ad7c-a9523f441291"}
-{"propertySlug":"decision-kind","path":"infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.ts","id":"01a0686c-f06b-7005-adc8-555b9569ab6f"}
 {"propertySlug":"decision-kind","path":"infrastructure/modules/calls/infrastructure-calls.module.ts","id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/proxy/proxy.module.ts","id":"01a06863-8e7c-79d7-b834-766a91baff9f"}

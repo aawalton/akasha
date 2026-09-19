@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"}
 {"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
-{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-tick/memory-reaper-tick.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}

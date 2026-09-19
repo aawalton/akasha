@@ -1839,16 +1839,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/machine/host/modules/cluster-nodes/cluster-nodes.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-config/memory-reaper-config.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-global/memory-reaper-global.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-kill/memory-reaper-kill.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-legs/memory-reaper-legs.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-owner/memory-reaper-owner.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-plan/memory-reaper-plan.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-proc-scan/memory-reaper-proc-scan.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-running/memory-reaper-running.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-tick/memory-reaper-tick.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/modules/calls/infrastructure-calls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/cookie-match-core/cookie-match-core.module.ts"}
