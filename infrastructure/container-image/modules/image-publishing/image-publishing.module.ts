@@ -26,6 +26,14 @@ export const imagePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build handed a folder takes its context and its Dockerfile from that folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build handed a folder keeps no cache, that folder being made new each run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Each thing a publish wrote outside the checkout is named as soon as it is written.",
     },

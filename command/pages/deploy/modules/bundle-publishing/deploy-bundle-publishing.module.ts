@@ -67,7 +67,7 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The name pushed to and the name pulled from are two names for one registry.",
+      statement: "The name pushed to and the name pulled from are one name.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -75,7 +75,11 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The image assembly and the push are each bounded.",
+      statement: "The image is built and pushed by the cluster's builder in one bounded step.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bundle and the version file reach the builder as the folder holding them.",
     },
   ],
 } as const satisfies Module

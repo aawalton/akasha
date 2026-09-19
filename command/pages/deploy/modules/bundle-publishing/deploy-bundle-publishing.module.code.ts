@@ -1,10 +1,15 @@
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import {
+  buildctlAt,
+  contextArgv,
+} from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
+import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import {
   listedAt,
@@ -28,15 +33,11 @@ const VERSION_NAME = "version.txt"
 
 const BASE_IMAGE = "docker.io/library/alpine:3.22"
 
-const WORKING_CONTAINER = "temper-addon-bundle-build"
-
 const PAYLOAD_UNDER = "/bundle"
 
 const IMAGE_REPO = "cluster/temper-addons"
 
-const PULL_REGISTRY = "registry.registry.svc.cluster.local:5000"
-
-const PUSH_REGISTRY = "192.168.68.87:30500"
+const DOCKERFILE = "Dockerfile"
 
 const ROUTER_APP = "router-app"
 
@@ -88,33 +89,27 @@ function tagBody(contentHash: string): string {
   return [
     `export const ADDON_BUNDLE_CONTENT_HASH = "${contentHash}"`,
     "",
-    `export const ADDON_BUNDLE_IMAGE = "${PULL_REGISTRY}/${IMAGE_REPO}:${contentHash}"`,
+    `export const ADDON_BUNDLE_IMAGE = "${refFor(IMAGE_REPO, contentHash)}"`,
     "",
   ].join("\n")
 }
 
-function imaged(zipPath: string, versionPath: string, pushRef: string): string | null {
-  ran(["buildah", "rm", WORKING_CONTAINER], { timeout: PUSH_CEILING_MS })
-  const setUp = mustRun(
-    ["buildah", "from", "--name", WORKING_CONTAINER, BASE_IMAGE],
-    "setting up the image base"
+function dockerfileBody(archive: string): string {
+  return [
+    `FROM ${BASE_IMAGE}`,
+    `COPY ${archive} ${PAYLOAD_UNDER}/${ARCHIVE_NAME}`,
+    `COPY ${VERSION_NAME} ${PAYLOAD_UNDER}/${VERSION_NAME}`,
+    "",
+  ].join("\n")
+}
+
+function imaged(zipPath: string, pushRef: string): string | null {
+  const context = dirname(zipPath)
+  writeFileSync(join(context, DOCKERFILE), dockerfileBody(basename(zipPath)))
+  return mustRun(
+    [buildctlAt(), ...contextArgv(context, pushRef)],
+    `building ${pushRef} and pushing it to the registry`
   )
-  if (setUp !== null) return setUp
-  try {
-    return (
-      mustRun(
-        ["buildah", "copy", WORKING_CONTAINER, zipPath, `${PAYLOAD_UNDER}/${ARCHIVE_NAME}`],
-        "copying the bundle into the image"
-      ) ??
-      mustRun(
-        ["buildah", "copy", WORKING_CONTAINER, versionPath, `${PAYLOAD_UNDER}/${VERSION_NAME}`],
-        "copying the version file into the image"
-      ) ??
-      mustRun(["buildah", "commit", WORKING_CONTAINER, pushRef], "committing the image")
-    )
-  } finally {
-    ran(["buildah", "rm", WORKING_CONTAINER], { timeout: PUSH_CEILING_MS })
-  }
 }
 
 async function publishedFrom(
@@ -148,12 +143,10 @@ async function publishedFrom(
   const contentHash = createHash("sha256").update(zip).digest("hex")
   const versionPath = join(dirname(zipPath), VERSION_NAME)
   writeFileSync(versionPath, `${contentHash}\n`)
-  const pushRef = `${PUSH_REGISTRY}/${IMAGE_REPO}:${contentHash}`
+  const pushRef = refFor(IMAGE_REPO, contentHash)
 
-  const assembled = imaged(zipPath, versionPath, pushRef)
+  const assembled = imaged(zipPath, pushRef)
   if (assembled !== null) return { lines: report, refusals: [assembled] }
-  const pushed = mustRun(["podman", "push", "--tls-verify=false", pushRef], `pushing ${pushRef}`)
-  if (pushed !== null) return { lines: report, refusals: [pushed] }
   up.push(`the addon bundle image ${pushRef}, pushed to the registry`)
   report.push(`content ${contentHash}`, `pushed ${pushRef}`)
 

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"image-publishing.module.code.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"}
 {"propertySlug":"import","fileName":"image-publishing.module.code.ts","path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"}
 {"propertySlug":"import","fileName":"image-publishing.module.code.ts","path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.test.ts"}
 {"propertySlug":"import","fileName":"image-publishing.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}

@@ -54,7 +54,7 @@ function dockerfileWrittenTo(slug: string, body: string, done: string[]): string
   return at
 }
 
-function buildctlAt(done: string[] = []): string {
+export function buildctlAt(done: string[] = []): string {
   if (existsSync(BUILDCTL)) return BUILDCTL
   const made = mkdirSync(TOOL_DIR, { recursive: true })
   if (made !== undefined) done.push(madeSaid(made))
@@ -80,6 +80,25 @@ async function heldInRegistry(repository: string, tag: string): Promise<boolean>
     headers: { Accept: HELD_KINDS },
   })
   return asked.ok
+}
+
+export function contextArgv(context: string, ref: string): readonly string[] {
+  return [
+    "--addr",
+    BUILDER,
+    "build",
+    "--progress=plain",
+    "--frontend",
+    "dockerfile.v0",
+    "--local",
+    `context=${context}`,
+    "--local",
+    `dockerfile=${context}`,
+    "--opt",
+    `filename=${DOCKERFILE}`,
+    "--output",
+    `type=image,name=${ref},push=true,${INSECURE}`,
+  ]
 }
 
 export function buildArgv(
