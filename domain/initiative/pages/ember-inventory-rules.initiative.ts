@@ -8,11 +8,6 @@ export const emberInventoryRules = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "The addon and the outside reading agree on selling a crafted weapon or jewel.",
-      workingMemory:
-        "14 items, recorded `sell` by rule 49 `ornate-sell`, where the fresh reading gives no verdict: Rubedite and Ruby Ash weapons, Platinum Ring 54511, Necklace 54515. Rule 49 matches, and rule 48 `research-by-priority` spoils the run before it. `inventory-eval-env.module.code.ts:110-116` says unknown for a trait the capture lacks, and Ornate is always lacking, since the game lists only the traits that can be researched. `freshVerdictFor` then drops `outcomeAction sell`.",
-    },
-    {
       statement: "The addon and the outside reading agree on locking a set piece.",
       workingMemory:
         "10 items, recorded as matching no rule, where the fresh reading locks by rule 0 `controlled:character:lock-worn`. Slimecraw Mask 95044, Savage Werewolf's Ring 141440, Necklace 141441, Arm Cops and six more. This one is a stale record, not a missing input: all ten are worn by 8796093022613905, scanned 1789500924, where 8796093049297261, scanned 3.2 days later, records `lock` by rule 0 on the same facts. A worn slot is ruled on again only when that character opens the inventory.",
