@@ -114,6 +114,27 @@ export const codeTests = {
         "A file over the ceiling is answered after the run rather than ended at the ceiling.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A file sharing a machine with the files beside it spends more than it would alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file that looks over the ceiling is run again alone before it is judged slow.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ceiling is read against that second run rather than against the first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run with no file over the ceiling runs nothing a second time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a file cost is recorded from the first run, which is what that run spent.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The ceiling a file is held to is the caller's to state.",
     },

@@ -356,6 +356,18 @@ export function beyondIn(each: readonly Spent[], ceiling: number = CEILING): rea
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
 
+async function beyondAlone(
+  root: string,
+  each: readonly Spent[],
+  naming: readonly string[],
+  over: Overlay | null
+): Promise<readonly Slowed[]> {
+  const looked = beyondIn(each)
+  if (looked.length === 0) return []
+  const named = looked.map((one) => one.path)
+  return beyondIn(await spentIn(root, runsFor(root, named), naming, over, ALONE))
+}
+
 export function judgedAs(said: Verdict, over: number): Verdict {
   return over > 0 ? "slow" : said
 }
@@ -398,7 +410,7 @@ async function ranUnder(
     if (code === 0) code = one.code
   }
   const said = verdictOf(code, output, expected)
-  const slow = said === "pass" ? beyondIn(each) : []
+  const slow = said === "pass" ? await beyondAlone(root, each, naming, over) : []
   return {
     code,
     signal,

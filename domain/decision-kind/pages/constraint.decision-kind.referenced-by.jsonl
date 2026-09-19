@@ -250,6 +250,7 @@
 {"propertySlug":"decision-kind","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-lint/code-lint.module.ts","id":"01a04edb-5f2c-7000-b8b5-430c5419cbda"}
+{"propertySlug":"decision-kind","path":"code/running/modules/code-tests/code-tests.module.ts","id":"01a04eb6-9e5f-7000-9bb8-11bc82309d76"}
 {"propertySlug":"decision-kind","path":"code/running/modules/test-overlay/test-overlay.module.ts","id":"01a081dc-ed7c-73ff-9f22-31e2a97f4710"}
 {"propertySlug":"decision-kind","path":"code/rust-crate/rust-crate.page-type.ts","id":"01a0602d-6ad2-7a2e-8686-1b1cf565107a"}
 {"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
