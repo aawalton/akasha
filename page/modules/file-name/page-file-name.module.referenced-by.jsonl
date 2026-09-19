@@ -238,8 +238,8 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon-build/modules/lua-build-command/lua-build-command.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"}

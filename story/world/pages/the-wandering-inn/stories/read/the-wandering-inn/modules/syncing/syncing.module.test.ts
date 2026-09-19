@@ -17,7 +17,7 @@ class FilingRefused extends Error {}
 let filing: (chapter: Filing) => Promise<string> = () => Promise.resolve(AT)
 
 mock.module(
-  "akasha/story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts",
+  "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts",
   () => ({
     FilingRefused,
     assertStoryExists: (): undefined => undefined,
@@ -26,24 +26,27 @@ mock.module(
   })
 )
 
-mock.module("akasha/story/wandering-inn/modules/site/site.module.code.ts", () => ({
-  openSite: () =>
-    Promise.resolve({
-      readContents: () => Promise.resolve([{ position: 834, title: "9.99", url: FRESH_URL }]),
-      readChapter: () =>
-        Promise.resolve({
-          patronOnly: false,
-          ogTitle: "9.99",
-          docTitle: "9.99 - The Wandering Inn",
-          ogUrl: FRESH_URL,
-          text: "Erin lit the hearth.\n\nPrevious Chapter Next Chapter",
-        }),
-      close: () => Promise.resolve(),
-    }),
-}))
+mock.module(
+  "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.code.ts",
+  () => ({
+    openSite: () =>
+      Promise.resolve({
+        readContents: () => Promise.resolve([{ position: 834, title: "9.99", url: FRESH_URL }]),
+        readChapter: () =>
+          Promise.resolve({
+            patronOnly: false,
+            ogTitle: "9.99",
+            docTitle: "9.99 - The Wandering Inn",
+            ogUrl: FRESH_URL,
+            text: "Erin lit the hearth.\n\nPrevious Chapter Next Chapter",
+          }),
+        close: () => Promise.resolve(),
+      }),
+  })
+)
 
 const { syncWanderingInn } = await import(
-  "akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts"
+  "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.code.ts"
 )
 
 type Counts = Awaited<ReturnType<typeof syncWanderingInn>>

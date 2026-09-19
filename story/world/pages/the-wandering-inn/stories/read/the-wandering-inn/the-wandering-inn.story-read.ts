@@ -16,4 +16,12 @@ export const theWanderingInn = {
   tags: ["litrpg", "fantasy", "slice-of-life"],
   unit: "unit/words",
   prose: "txt",
+  parts: [
+    "module/chapter",
+    "module/chapter-filing",
+    "module/site",
+    "module/sync-run-recording",
+    "module/syncing",
+    "service-workstation/wandering-inn-sync",
+  ],
 } as const satisfies StoryRead

@@ -27,5 +27,6 @@ export const site = {
       decisionKind: "decision-kind/departure",
       statement: "A chapter's position is the place the chapter has in the table of contents.",
     },
+    { decisionKind: "decision-kind/absence", statement: "Nothing here writes to the site." },
   ],
 } as const satisfies Module

@@ -23,5 +23,9 @@ export const chapter = {
       decisionKind: "decision-kind/departure",
       statement: "The links to the chapters either side are no part of a chapter's prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter behind patron early access is known by the chapter's title.",
+    },
   ],
 } as const satisfies Module

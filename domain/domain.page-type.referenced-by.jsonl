@@ -536,7 +536,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/narrative-production/narrative-production.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/story.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/ui/ui.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/wandering-inn/wandering-inn.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-lore/world-lore.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world/mechanics/ability/ability.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-build/temper-addon-build.domain.ts"}

@@ -7,5 +7,5 @@
 {"propertySlug":"import","fileName":"external-identity-reading.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"external-identity-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"external-identity-reading.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
-{"propertySlug":"import","fileName":"external-identity-reading.module.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"external-identity-reading.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"parts","path":"alan/collection/external/collection-external.page-type.ts","id":"01a063de-2c60-701b-ab74-7e3436f4abe3"}

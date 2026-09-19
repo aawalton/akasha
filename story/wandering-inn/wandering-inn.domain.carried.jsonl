@@ -1,6 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A chapter behind patron early access is known by the chapter's title."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes to the site."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the page store over the network."}]}
-{"definition":"The Wandering Inn as a website read for its chapters"}
-{"id":"01a06578-5721-7000-ac18-7acf6bd4ad0b"}
-{"parts":["module/chapter","module/chapter-filing","module/site","module/sync-run-recording","module/syncing","service-workstation/wandering-inn-sync"]}
-{"slug":"wandering-inn"}
-{"type":"page-type/domain"}

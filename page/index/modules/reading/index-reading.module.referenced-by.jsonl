@@ -294,7 +294,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"person/modules/reading/person-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"}

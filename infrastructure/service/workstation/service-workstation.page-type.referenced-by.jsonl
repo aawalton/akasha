@@ -54,7 +54,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"page/service/page-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"story/wandering-inn/service-workstations/sync/wandering-inn-sync.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/service-workstations/wandering-inn-sync/wandering-inn-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/trading-pricing/service-workstations/ttc-client/ttc-client.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/watcher/temper-watcher.service-workstation.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}

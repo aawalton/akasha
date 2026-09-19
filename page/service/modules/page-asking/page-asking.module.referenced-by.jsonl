@@ -36,8 +36,8 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"}
-{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"}

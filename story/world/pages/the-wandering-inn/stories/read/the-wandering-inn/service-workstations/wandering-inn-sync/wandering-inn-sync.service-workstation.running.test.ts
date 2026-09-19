@@ -3,18 +3,23 @@ import { expect, mock, test } from "bun:test"
 const HANDED: (readonly string[])[] = []
 let CODE = 0
 
-const syncing = await import("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts")
+const syncing = await import(
+  "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.code.ts"
+)
 
-mock.module("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts", () => ({
-  ...syncing,
-  main: (argv: readonly string[]) => {
-    HANDED.push(argv)
-    return Promise.resolve(CODE)
-  },
-}))
+mock.module(
+  "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.code.ts",
+  () => ({
+    ...syncing,
+    main: (argv: readonly string[]) => {
+      HANDED.push(argv)
+      return Promise.resolve(CODE)
+    },
+  })
+)
 
 const running = await import(
-  "akasha/story/wandering-inn/service-workstations/sync/wandering-inn-sync.service-workstation.running.code.ts"
+  "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/service-workstations/wandering-inn-sync/wandering-inn-sync.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
@@ -42,9 +47,12 @@ test("the run is handed no arguments, as the unit's command line hands none", as
 
 test("a sync that could not run is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   const why = new Error("the site could not be read")
-  mock.module("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts", () => ({
-    ...syncing,
-    main: () => Promise.reject(why),
-  }))
+  mock.module(
+    "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.code.ts",
+    () => ({
+      ...syncing,
+      main: () => Promise.reject(why),
+    })
+  )
   await expect(running.runService()).rejects.toThrow("the site could not be read")
 })

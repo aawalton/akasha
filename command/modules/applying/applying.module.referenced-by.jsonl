@@ -22,7 +22,7 @@
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
-{"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

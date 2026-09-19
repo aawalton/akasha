@@ -9,7 +9,6 @@ export const story = {
     "domain/narrative-production",
     "domain/story-engine",
     "domain/ui",
-    "domain/wandering-inn",
     "domain/world-lore",
     "page-type/game",
     "page-type/story-chapter-read",

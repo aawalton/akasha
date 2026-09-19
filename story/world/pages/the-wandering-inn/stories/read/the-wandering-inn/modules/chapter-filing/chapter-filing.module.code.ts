@@ -20,7 +20,7 @@ import {
   STORY_ADDRESS,
   STORY_PAGE_TYPE,
   STORY_SLUG,
-} from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
+} from "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter/chapter.module.code.ts"
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const PAGE_TYPE = "page-type"

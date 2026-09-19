@@ -39,7 +39,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { sourceFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { recordingRun } from "akasha/story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
+import { recordingRun } from "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import {
   daysAgoYYYYMMDD,
   todayYYYYMMDD,
