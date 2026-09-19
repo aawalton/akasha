@@ -241,6 +241,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/back/music-back.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}

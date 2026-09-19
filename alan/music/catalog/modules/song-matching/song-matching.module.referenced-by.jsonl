@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.test.ts"}
 {"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
+{"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
 {"propertySlug":"import","fileName":"song-matching.module.code.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}

@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}

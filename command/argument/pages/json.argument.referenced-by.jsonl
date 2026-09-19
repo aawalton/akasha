@@ -31,6 +31,7 @@
 {"propertySlug":"argument","path":"command/pages/music/artist-list/music-artist-list.command.ts","id":"01a09b87-8def-7c15-a542-ef8c973a057d"}
 {"propertySlug":"argument","path":"command/pages/music/back/music-back.command.ts","id":"01a0a01f-0b1f-7e5a-a12f-24d76abe10ed"}
 {"propertySlug":"argument","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
+{"propertySlug":"argument","path":"command/pages/music/fold-songs/music-fold-songs.command.ts","id":"01a0b7c9-4e11-7a26-9f03-8b41d0e5c772"}
 {"propertySlug":"argument","path":"command/pages/music/import-artist/music-import-artist.command.ts","id":"01a062fb-d2fd-72f5-b24e-22a9635b5910"}
 {"propertySlug":"argument","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
 {"propertySlug":"argument","path":"command/pages/music/listening/music-listening.command.ts","id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}
@@ -135,6 +136,7 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/artist-list/music-artist-list.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/back/music-back.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/listening/music-listening.command.code.ts"}
