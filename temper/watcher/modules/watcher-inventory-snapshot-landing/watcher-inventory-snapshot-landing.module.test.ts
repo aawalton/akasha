@@ -217,6 +217,7 @@ test("the account page states what the reading carries", () => {
     placedFurnishings: "jsonl",
     currencies: "jsonl",
     stacks: "jsonl",
+    data: "json",
   })
 })
 
@@ -232,7 +233,7 @@ test("a value the reading does not carry is left off the account page", () => {
   expect(Object.hasOwn(keys, "lastFullScanAt")).toBe(false)
   expect(Object.hasOwn(keys, "priceSource")).toBe(false)
   expect(Object.hasOwn(keys, "transmuteCrystalAmount")).toBe(false)
-  expect(Object.hasOwn(keys, "data")).toBe(false)
+  expect(keys.data).toBe("json")
 })
 
 test("every row file lands beside the account page in one write", async () => {
@@ -254,6 +255,7 @@ test("every row file lands beside the account page in one write", async () => {
     besides("placed-furnishings"),
     besides("currencies"),
     besides("stacks"),
+    `temper/character/temper-account/pages/${ACCOUNT_SLUG}/${ACCOUNT_SLUG}.temper-account.data.json`,
   ])
 })
 

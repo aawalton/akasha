@@ -16,6 +16,7 @@ import {
   compileConsumableStock as consumableStockOf,
   compileWantedConsumables as wantedConsumablesOf,
 } from "akasha/temper/items-rules-matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"
+import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,
@@ -26,13 +27,11 @@ import {
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import { readCharactersWithTargetBuilds } from "akasha/temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 
-const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
-
 const DATA_PROPERTY = "data"
 
 const DATA_ENDING = "json"
 
-const SNAPSHOT_KEYS = ["id", "slug"]
+const ACCOUNT_KEYS = ["id", "slug"]
 
 export interface TargetBuildCharacter {
   esoCharacterId: string
@@ -57,7 +56,7 @@ export async function snapshotDataOf(
 ): Promise<string | null> {
   const beside = await besidePathsFor(
     pages,
-    INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
+    ACCOUNT_PAGE_TYPE_SLUG,
     [slug],
     DATA_PROPERTY,
     DATA_ENDING
@@ -67,7 +66,7 @@ export async function snapshotDataOf(
   const found = await files([path])
   if (!found.ok) {
     throw new Error(
-      `the data file beside ${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${slug} went unread: ${found.why}`
+      `the data file beside ${ACCOUNT_PAGE_TYPE_SLUG}/${slug} went unread: ${found.why}`
     )
   }
   return contentIn(found.bodies, path)
@@ -76,10 +75,9 @@ export async function snapshotDataOf(
 export const PAGE_INVENTORY_ROWS: InventoryRowReader = {
   latestSnapshot: async (userId) => {
     const { rows } = await getPages({
-      pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
-      where: [{ key: "accountPage", eq: userId }],
-      order: [{ by: "capturedAt", dir: "desc" }],
-      select: SNAPSHOT_KEYS,
+      pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
+      where: [{ key: "title", eq: userId }],
+      select: ACCOUNT_KEYS,
       limit: 1,
     })
     return rows[0]

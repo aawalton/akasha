@@ -3540,6 +3540,7 @@
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/bag-sizes.page-property-entry.ts","id":"01a0675a-f185-72e7-ad66-35247edba53b"}
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/crafting-levels.page-property-entry.ts","id":"01a0675a-f185-75b8-8e9b-97a031246492"}
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/currencies.page-property-entry.ts","id":"01a0675a-f185-764c-991b-b24e3698ed52"}
+{"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/placed-furnishings.page-property-entry.ts","id":"01a0675a-f185-72b3-a56a-b5708ff6924e"}
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/snapshot-locations.page-property-entry.ts","id":"01a0675a-f185-70ca-b3c9-47a893495e70"}
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}

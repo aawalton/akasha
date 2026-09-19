@@ -130,6 +130,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/tower-sessions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/turns.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/played/properties/prose.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-account/properties/data.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-player/properties/settings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/thing/properties/completion.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/eso-declaration/eso-opt-in-list/properties/tokens.file-property.ts"}

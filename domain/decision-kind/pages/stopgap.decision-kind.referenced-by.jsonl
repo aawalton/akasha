@@ -69,6 +69,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/value-slug.text-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-slug.text-property.ts","id":"01a063ce-6216-7006-8542-b3d67f43dc56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-slug.text-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
+{"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/events-addon/modules/next-boss-state/next-boss-state.module.ts","id":"01a06157-8356-706b-948b-6f8dae0434bf"}
 {"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}

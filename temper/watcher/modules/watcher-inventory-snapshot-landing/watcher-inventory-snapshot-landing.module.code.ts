@@ -45,6 +45,10 @@ const STACKS_PROPERTY = "stacks"
 
 const ROWS_ENDING = "jsonl"
 
+const DATA_PROPERTY = "data"
+
+const DATA_ENDING = "json"
+
 const CURRENCY_PAGE_TYPE = "temper-inventory-currency"
 
 const ACCOUNT_SCOPES = ["account", "bank"] as const
@@ -336,6 +340,7 @@ export function inventoryPageKeys(values: InventoryValues): Record<string, Json>
     placedFurnishings: ROWS_ENDING,
     currencies: ROWS_ENDING,
     stacks: ROWS_ENDING,
+    data: DATA_ENDING,
   }
   if (meta.lastFullScan > 0) {
     keys.lastFullScanAt = new Date(meta.lastFullScan * MS_PER_SECOND).toISOString()
@@ -372,6 +377,9 @@ export async function landAccountInventory(
       if (path === null) return { outcome: "refused", why: unplaced }
       puts.push({ path, content: rowsFor(property, values, minted) })
     }
+    const dataPath = besidePathOf(pagePath, DATA_PROPERTY, DATA_ENDING)
+    if (dataPath === null) return { outcome: "refused", why: unplaced }
+    puts.push({ path: dataPath, content: JSON.stringify(values.inventory) })
 
     const landing = await write(puts, PAGE_LANDING_WRITER, inventoryCommitMessage(values))
     if (!landing.ok) return { outcome: "again", why: landing.why }
