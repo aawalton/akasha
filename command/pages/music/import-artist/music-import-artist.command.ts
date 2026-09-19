@@ -7,6 +7,7 @@ export const musicImportArtist = {
   definition: "the command bringing an artist and every song of theirs in from MusicBrainz",
   code: "ts",
   test: "ts",
+  maxWallSeconds: 600,
 
   decisions: [
     {
