@@ -107,7 +107,7 @@ export function buildTestflightDeployScript(opts: {
       ? [
           ...buildValidateApp(ipa),
           buildReleaseMacBuildLock(opts.app),
-          'echo "MOBILE_DEPLOY_TESTFLIGHT_DRYRUN_OK"',
+          'echo "MOBILE_DEPLOY_TESTFLIGHT_NO_UPLOAD_OK"',
         ]
       : [
           ...buildUploadApp(ipa),

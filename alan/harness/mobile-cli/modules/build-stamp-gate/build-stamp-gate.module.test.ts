@@ -153,7 +153,7 @@ describe("the gate's place in the cut script", () => {
     expect(upload).toBeGreaterThan(gate)
   })
 
-  test("gates the dry run too, so a refusal is provable without spending an upload slot", () => {
+  test("gates a no-upload cut too, so a refusal is provable without spending an upload slot", () => {
     const s = buildTestflightDeployScript({ ...base, noUpload: true })
     const gate = s.indexOf("build-stamp gate")
     const validate = s.indexOf("altool --validate-app")

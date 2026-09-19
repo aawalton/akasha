@@ -53,7 +53,7 @@ describe("the mac build lock outliving the run that took it", () => {
     }
   })
 
-  test("a dry run registers the removal too, since a dry run takes the same lock", () => {
+  test("a no-upload run registers the removal too, since it takes the same lock", () => {
     for (const app of ALL) {
       const script = buildTestflightDeployScript({
         app: resolveApp(app.slug),

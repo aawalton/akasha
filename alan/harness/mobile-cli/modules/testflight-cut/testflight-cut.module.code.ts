@@ -185,7 +185,7 @@ export async function runTestflightCut(
   }
 
   say(
-    `${noUpload ? "Dry-run archive+export of" : "Cutting"} ${app.slug} (${app.bundleId}) ${configuration} TestFlight build (${
+    `${noUpload ? "Archiving and exporting without upload" : "Cutting"} ${app.slug} (${app.bundleId}) ${configuration} TestFlight build (${
       buildNumber === undefined ? "auto-claimed number" : `build ${buildNumber}`
     }, asc floor ${ascFloor}, sync=${sync}${
       noUpload ? ", no-upload" : ""
@@ -216,7 +216,7 @@ export async function runTestflightCut(
   if (!watched) say(out.endsWith("\n") ? out : `${out}\n`)
   const macTook = elapsedSince(macAt)
 
-  const successMarker = noUpload ? "MOBILE_DEPLOY_TESTFLIGHT_DRYRUN_OK" : ALTOOL_MARKERS.uploadOk
+  const successMarker = noUpload ? "MOBILE_DEPLOY_TESTFLIGHT_NO_UPLOAD_OK" : ALTOOL_MARKERS.uploadOk
   const required = noUpload
     ? [STAMP_GATE_OK, ALTOOL_MARKERS.validateOk, successMarker]
     : [STAMP_GATE_OK, successMarker]
@@ -230,10 +230,10 @@ export async function runTestflightCut(
   say(`\n  macbook checkout to exported .ipa took ${macTook}\n`)
 
   if (noUpload) {
-    const dryRunNumber = parseAssignedBuildNumber(out)
+    const builtNumber = parseAssignedBuildNumber(out)
     say(
       `\n✓ ${configuration} archive + export + APP STORE VALIDATION passed (build ${
-        dryRunNumber ?? "?"
+        builtNumber ?? "?"
       }, signed .ipa validated by Apple) — upload SKIPPED (--no-upload). No upload slot consumed.\n`
     )
     say(`  whole run: ${elapsedSince(startedAt)}\n`)
