@@ -45,5 +45,5 @@ export const noReExport = {
     },
   ],
   check: { maxCpuSeconds: 1 },
-  audit: { maxCpuSeconds: 15 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CheckCode

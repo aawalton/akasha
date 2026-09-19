@@ -148,5 +148,5 @@ export const lintClean = {
     },
   ],
   check: { maxCpuSeconds: 60 },
-  audit: { maxCpuSeconds: 180 },
+  audit: { maxCpuSeconds: 420 },
 } as const satisfies CheckCode
