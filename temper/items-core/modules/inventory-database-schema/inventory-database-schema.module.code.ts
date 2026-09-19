@@ -49,6 +49,7 @@ const itemSchema = z
       .enum(["ordered-rule", "item-rule", "item-verdict-outbox", "locked-unlock", "no-match"])
       .optional(),
     resolvedRuleIndex: z.number().optional(),
+    resolvedAt: z.number().optional(),
   })
   .strict()
 

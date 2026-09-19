@@ -71,6 +71,7 @@ export interface InventoryItemData {
   resolvedDestination?: string
   resolvedBy?: ResolvedActionSource
   resolvedRuleIndex?: number
+  resolvedAt?: number
 }
 
 export interface PlacedFurnishingData {

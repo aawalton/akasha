@@ -23,5 +23,9 @@ export const inventoryResolvedActionRecord = {
       decisionKind: "decision-kind/departure",
       statement: "A rescan drops the record where either differs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record says when the rules resolved the item, and a rescan keeps that time.",
+    },
   ],
 } as const satisfies Module

@@ -156,6 +156,9 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   const resolvedRuleIndex = asOptionalNumber(item.resolvedRuleIndex)
   if (resolvedRuleIndex !== undefined) parsed.resolvedRuleIndex = resolvedRuleIndex
 
+  const resolvedAt = asOptionalNumber(item.resolvedAt)
+  if (resolvedAt !== undefined) parsed.resolvedAt = resolvedAt
+
   const merchantValue = asOptionalNumber(item.merchantValue)
   if (merchantValue !== undefined) parsed.merchantValue = merchantValue
 

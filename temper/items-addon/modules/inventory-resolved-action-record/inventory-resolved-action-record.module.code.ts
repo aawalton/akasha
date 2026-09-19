@@ -27,6 +27,7 @@ export function recordResolvedAction(
   item.resolvedDestination = resolved.destination
   item.resolvedBy = resolved.ruleSource
   item.resolvedRuleIndex = resolved.ruleIndex
+  item.resolvedAt = GetTimeStamp()
 }
 
 export function carryResolvedActionsForward(
@@ -46,5 +47,6 @@ export function carryResolvedActionsForward(
     item.resolvedDestination = priorItem.resolvedDestination
     item.resolvedBy = priorItem.resolvedBy
     item.resolvedRuleIndex = priorItem.resolvedRuleIndex
+    item.resolvedAt = priorItem.resolvedAt
   }
 }
