@@ -13,5 +13,6 @@ export const nimueAuth = {
     { statement: "Every site Alan runs signs a person in the way alanwalton.com does." },
     { statement: "No GoTrue issues a token for anything Alan runs." },
     { statement: "Nothing Alan runs keeps anything in Postgres." },
+    { statement: "A contributor signs in with a passkey." },
   ],
 } as const satisfies Initiative
