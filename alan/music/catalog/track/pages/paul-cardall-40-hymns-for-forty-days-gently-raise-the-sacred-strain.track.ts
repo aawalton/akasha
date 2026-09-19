@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysGentlyRaiseTheSacredStrain = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "gentlyraisethesacredstrain|7FQRbf8gbKw8KZQZAJWxH2|149426",
+  song: "song/paul-cardall-gently-raise-the-sacred-strain",
 } as const satisfies Track

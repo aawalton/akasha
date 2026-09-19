@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarPrayerOfStFrancisMakeMeAChannelOfYourPea
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "prayerofstfrancismakemeachannelofyourpeace|7FQRbf8gbKw8KZQZAJWxH2|167500",
+  song: "song/paul-cardall-prayer-of-st-francis-make-me-a-channel-of-your-peace",
 } as const satisfies Track

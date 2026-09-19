@@ -27,4 +27,5 @@ export const celticWoman2NollaigAChristmasJourneyTheBellsOfDublinChristmasEveNav
   ],
   trackKey:
     "thebellsofdublinchristmasevenavaninthesnowmedley|6NWtt9pNOL2Gx7kBykdE5x,7fUaaesLcfVUXc7Ar89ZMf|217947",
+  song: "song/celtic-woman-the-bells-of-dublin-christmas-eve-navan-in-the-snow-medley",
 } as const satisfies Track

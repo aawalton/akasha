@@ -23,4 +23,5 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionPieJesu = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "piejesu|6NWtt9pNOL2Gx7kBykdE5x|208706",
+  song: "song/celtic-woman-pie-jesu",
 } as const satisfies Track

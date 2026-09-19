@@ -26,4 +26,5 @@ export const celticWoman2LullabySuantrai = {
     { externalId: "0qxZhSelTxAwGRfUvYNudz", artistName: "Lynn Hilary" },
   ],
   trackKey: "suantrai|0qxZhSelTxAwGRfUvYNudz,6NWtt9pNOL2Gx7kBykdE5x|199280",
+  song: "song/celtic-woman-suantrai",
 } as const satisfies Track

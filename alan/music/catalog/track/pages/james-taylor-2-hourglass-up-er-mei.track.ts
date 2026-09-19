@@ -23,4 +23,5 @@ export const jamesTaylor2HourglassUpErMei = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "upermei|0vn7UBvSQECKJm2817Yf1P|226933",
+  song: "song/james-taylor-up-er-mei",
 } as const satisfies Track

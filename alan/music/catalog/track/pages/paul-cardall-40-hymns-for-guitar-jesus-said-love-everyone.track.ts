@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarJesusSaidLoveEveryone = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesussaidloveeveryone|7FQRbf8gbKw8KZQZAJWxH2|144725",
+  song: "song/paul-cardall-jesus-said-love-everyone",
 } as const satisfies Track

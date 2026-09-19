@@ -23,4 +23,5 @@ export const jamesTaylor2WalkingMan2019RemasterThePromisedLand2019Remaster = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thepromisedland2019remaster|0vn7UBvSQECKJm2817Yf1P|243893",
+  song: "song/james-taylor-the-promised-land",
 } as const satisfies Track

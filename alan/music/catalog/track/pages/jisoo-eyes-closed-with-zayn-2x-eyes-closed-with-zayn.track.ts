@@ -26,4 +26,5 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn = {
     { externalId: "5ZsFI1h6hIdQRw2ti0hz81", artistName: "ZAYN" },
   ],
   trackKey: "eyesclosedwithzayn|5ZsFI1h6hIdQRw2ti0hz81,6UZ0ba50XreR4TM8u322gs|181375",
+  song: "song/jisoo-eyes-closed",
 } as const satisfies Track

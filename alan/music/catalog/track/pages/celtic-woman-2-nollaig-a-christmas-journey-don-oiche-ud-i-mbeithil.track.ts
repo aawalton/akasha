@@ -26,4 +26,5 @@ export const celticWoman2NollaigAChristmasJourneyDonOicheUdIMbeithil = {
     { externalId: "0KT1pvlMlEkRJVQ1TKHhdj", artistName: "Sibéal" },
   ],
   trackKey: "donoicheudimbeithil|0KT1pvlMlEkRJVQ1TKHhdj,6NWtt9pNOL2Gx7kBykdE5x|146217",
+  song: "song/celtic-woman-don-oiche-ud-i-mbeithil",
 } as const satisfies Track

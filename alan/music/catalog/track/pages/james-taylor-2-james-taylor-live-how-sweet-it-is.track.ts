@@ -23,4 +23,5 @@ export const jamesTaylor2JamesTaylorLiveHowSweetItIs = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "howsweetitis|0vn7UBvSQECKJm2817Yf1P|419733",
+  song: "song/james-taylor-how-sweet-it-is",
 } as const satisfies Track

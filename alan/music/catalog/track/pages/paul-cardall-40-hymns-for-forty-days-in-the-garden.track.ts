@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysInTheGarden = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "inthegarden|7FQRbf8gbKw8KZQZAJWxH2|123360",
+  song: "song/paul-cardall-in-the-garden",
 } as const satisfies Track

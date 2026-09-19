@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysDidYouThinkToPray = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "didyouthinktopray|7FQRbf8gbKw8KZQZAJWxH2|182133",
+  song: "song/paul-cardall-did-you-think-to-pray",
 } as const satisfies Track

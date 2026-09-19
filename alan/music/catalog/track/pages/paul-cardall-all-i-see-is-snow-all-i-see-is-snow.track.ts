@@ -26,4 +26,5 @@ export const paulCardallAllISeeIsSnowAllISeeIsSnow = {
     { externalId: "0Bvs8yPjrQSbmVIRqSg1Sp", artistName: "Thompson Square" },
   ],
   trackKey: "alliseeissnow|0Bvs8yPjrQSbmVIRqSg1Sp,7FQRbf8gbKw8KZQZAJWxH2|274286",
+  song: "song/paul-cardall-all-i-see-is-snow",
 } as const satisfies Track

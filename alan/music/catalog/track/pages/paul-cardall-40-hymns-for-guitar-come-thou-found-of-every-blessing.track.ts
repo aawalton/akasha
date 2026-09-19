@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarComeThouFoundOfEveryBlessing = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comethoufoundofeveryblessing|7FQRbf8gbKw8KZQZAJWxH2|205000",
+  song: "song/paul-cardall-come-thou-found-of-every-blessing",
 } as const satisfies Track

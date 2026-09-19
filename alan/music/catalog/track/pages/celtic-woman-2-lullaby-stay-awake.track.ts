@@ -30,4 +30,5 @@ export const celticWoman2LullabyStayAwake = {
   ],
   trackKey:
     "stayawake|0qxZhSelTxAwGRfUvYNudz,34sL9HIOU50t8u0IQMZeze,4MBEdlcsagKMlt3JvRFbRe,4VdV1ro3dBSsu1cRGwbFD3,6NWtt9pNOL2Gx7kBykdE5x|202813",
+  song: "song/celtic-woman-stay-awake",
 } as const satisfies Track

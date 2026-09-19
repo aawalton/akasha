@@ -23,4 +23,5 @@ export const paulCardallANewCreationOneByOne = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "onebyone|7FQRbf8gbKw8KZQZAJWxH2|376040",
+  song: "song/paul-cardall-one-by-one",
 } as const satisfies Track

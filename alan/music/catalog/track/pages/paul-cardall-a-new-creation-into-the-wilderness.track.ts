@@ -23,4 +23,5 @@ export const paulCardallANewCreationIntoTheWilderness = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "intothewilderness|7FQRbf8gbKw8KZQZAJWxH2|179866",
+  song: "song/paul-cardall-into-the-wilderness",
 } as const satisfies Track

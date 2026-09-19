@@ -23,4 +23,5 @@ export const celticWoman2SoloBridgeOverTroubleWaters = {
   explicit: false,
   trackArtist: [{ externalId: "1Qqfmc13NiDOMzVbTFRl8I", artistName: "Lisa Lambe" }],
   trackKey: "bridgeovertroublewaters|1Qqfmc13NiDOMzVbTFRl8I|243043",
+  song: "song/celtic-woman-bridge-over-trouble-waters",
 } as const satisfies Track

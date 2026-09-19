@@ -23,4 +23,5 @@ export const jamesTaylor2BeforeThisWorldWildMountainThyme = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wildmountainthyme|0vn7UBvSQECKJm2817Yf1P|176920",
+  song: "song/james-taylor-wild-mountain-thyme",
 } as const satisfies Track

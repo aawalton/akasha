@@ -23,4 +23,5 @@ export const celticWoman2LullabyBrahmsLullabye = {
   explicit: false,
   trackArtist: [{ externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" }],
   trackKey: "brahmslullabye|34sL9HIOU50t8u0IQMZeze|138720",
+  song: "song/celtic-woman-brahms-lullabye",
 } as const satisfies Track

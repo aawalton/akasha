@@ -23,4 +23,5 @@ export const celticWoman2SoloHomeAndTheHeartland = {
   explicit: false,
   trackArtist: [{ externalId: "4VdV1ro3dBSsu1cRGwbFD3", artistName: "Lisa Kelly" }],
   trackKey: "homeandtheheartland|4VdV1ro3dBSsu1cRGwbFD3|200840",
+  song: "song/celtic-woman-home-and-the-heartland",
 } as const satisfies Track

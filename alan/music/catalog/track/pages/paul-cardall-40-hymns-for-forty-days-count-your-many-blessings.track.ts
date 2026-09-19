@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysCountYourManyBlessings = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "countyourmanyblessings|7FQRbf8gbKw8KZQZAJWxH2|142866",
+  song: "song/paul-cardall-count-your-many-blessings",
 } as const satisfies Track

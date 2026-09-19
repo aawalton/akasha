@@ -23,4 +23,5 @@ export const jisooMeFlower = {
   explicit: false,
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "flower|6UZ0ba50XreR4TM8u322gs|173134",
+  song: "song/jisoo-flower",
 } as const satisfies Track

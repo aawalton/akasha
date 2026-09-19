@@ -23,4 +23,5 @@ export const jamesTaylor2InThePocket2019RemasterNothingLikeAHundredMiles2019Rema
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "nothinglikeahundredmiles2019remaster|0vn7UBvSQECKJm2817Yf1P|223120",
+  song: "song/james-taylor-nothing-like-a-hundred-miles",
 } as const satisfies Track

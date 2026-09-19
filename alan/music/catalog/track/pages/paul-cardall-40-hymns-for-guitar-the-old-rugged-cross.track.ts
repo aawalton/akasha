@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarTheOldRuggedCross = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "theoldruggedcross|7FQRbf8gbKw8KZQZAJWxH2|172250",
+  song: "song/paul-cardall-the-old-rugged-cross",
 } as const satisfies Track

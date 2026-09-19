@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysAllCreaturesOfOurGodAndKing = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "allcreaturesofourgodandking|7FQRbf8gbKw8KZQZAJWxH2|162533",
+  song: "song/paul-cardall-all-creatures-of-our-god-and-king",
 } as const satisfies Track

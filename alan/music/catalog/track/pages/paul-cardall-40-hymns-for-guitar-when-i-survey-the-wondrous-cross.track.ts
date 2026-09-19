@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarWhenISurveyTheWondrousCross = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whenisurveythewondrouscross|7FQRbf8gbKw8KZQZAJWxH2|178000",
+  song: "song/paul-cardall-when-i-survey-the-wondrous-cross",
 } as const satisfies Track

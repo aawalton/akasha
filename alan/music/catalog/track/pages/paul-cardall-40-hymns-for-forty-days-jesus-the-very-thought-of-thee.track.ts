@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysJesusTheVeryThoughtOfThee = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesustheverythoughtofthee|7FQRbf8gbKw8KZQZAJWxH2|132853",
+  song: "song/paul-cardall-jesus-the-very-thought-of-thee",
 } as const satisfies Track

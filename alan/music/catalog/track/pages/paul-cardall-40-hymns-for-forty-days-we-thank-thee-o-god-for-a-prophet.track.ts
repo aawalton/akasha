@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wethanktheeogodforaprophet|7FQRbf8gbKw8KZQZAJWxH2|261560",
+  song: "song/paul-cardall-we-thank-thee-o-god-for-a-prophet",
 } as const satisfies Track

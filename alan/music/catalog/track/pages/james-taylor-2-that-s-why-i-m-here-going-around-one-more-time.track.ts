@@ -23,4 +23,5 @@ export const jamesTaylor2ThatSWhyIMHereGoingAroundOneMoreTime = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "goingaroundonemoretime|0vn7UBvSQECKJm2817Yf1P|202973",
+  song: "song/james-taylor-going-around-one-more-time",
 } as const satisfies Track

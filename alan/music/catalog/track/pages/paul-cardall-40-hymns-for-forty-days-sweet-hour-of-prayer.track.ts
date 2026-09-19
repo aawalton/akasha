@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysSweetHourOfPrayer = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweethourofprayer|7FQRbf8gbKw8KZQZAJWxH2|256413",
+  song: "song/paul-cardall-sweet-hour-of-prayer",
 } as const satisfies Track

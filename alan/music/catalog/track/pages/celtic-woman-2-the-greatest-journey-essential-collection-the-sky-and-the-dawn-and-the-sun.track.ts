@@ -23,4 +23,5 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSkyAndTheDawnAn
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theskyandthedawnandthesun|6NWtt9pNOL2Gx7kBykdE5x|319146",
+  song: "song/celtic-woman-the-sky-and-the-dawn-and-the-sun",
 } as const satisfies Track

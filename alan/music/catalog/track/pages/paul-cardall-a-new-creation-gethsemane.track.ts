@@ -26,4 +26,5 @@ export const paulCardallANewCreationGethsemane = {
     { externalId: "6WfsgevyXjoFI4tT5ghvhV", artistName: "Nathan Pacheco" },
   ],
   trackKey: "gethsemane|6WfsgevyXjoFI4tT5ghvhV,7FQRbf8gbKw8KZQZAJWxH2|214400",
+  song: "song/paul-cardall-gethsemane",
 } as const satisfies Track

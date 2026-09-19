@@ -23,4 +23,5 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "stretchofthehighway|0vn7UBvSQECKJm2817Yf1P|332226",
+  song: "song/james-taylor-stretch-of-the-highway",
 } as const satisfies Track

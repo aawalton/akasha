@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysTruthReflectsUponOurSenses = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "truthreflectsuponoursenses|7FQRbf8gbKw8KZQZAJWxH2|88000",
+  song: "song/paul-cardall-truth-reflects-upon-our-senses",
 } as const satisfies Track

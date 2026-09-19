@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysJesusWantsMeForASunbeam = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesuswantsmeforasunbeam|7FQRbf8gbKw8KZQZAJWxH2|131306",
+  song: "song/paul-cardall-jesus-wants-me-for-a-sunbeam",
 } as const satisfies Track

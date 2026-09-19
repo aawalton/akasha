@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysTheLordIsMyShepherd = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thelordismyshepherd|7FQRbf8gbKw8KZQZAJWxH2|195893",
+  song: "song/paul-cardall-the-lord-is-my-shepherd",
 } as const satisfies Track

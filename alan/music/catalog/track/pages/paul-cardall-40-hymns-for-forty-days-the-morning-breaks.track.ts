@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "themorningbreaks|7FQRbf8gbKw8KZQZAJWxH2|115720",
+  song: "song/paul-cardall-the-morning-breaks",
 } as const satisfies Track

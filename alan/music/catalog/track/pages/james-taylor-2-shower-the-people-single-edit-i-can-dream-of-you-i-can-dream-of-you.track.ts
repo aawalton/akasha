@@ -23,4 +23,5 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouICanDreamOfYou =
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "icandreamofyou|0vn7UBvSQECKJm2817Yf1P|198373",
+  song: "song/james-taylor-i-can-dream-of-you",
 } as const satisfies Track

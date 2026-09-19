@@ -27,4 +27,5 @@ export const jamesTaylorJamesTaylorAtChristmasTheChristmasSongChestnutsRoastingO
   ],
   trackKey:
     "thechristmassongchestnutsroastingonanopenfirefeattootsthielemans|0KyolDFb1RjJQb4qXZKCqo,0vn7UBvSQECKJm2817Yf1P|232040",
+  song: "song/james-taylor-the-christmas-song-chestnuts-roasting-on-an-open-fire",
 } as const satisfies Track

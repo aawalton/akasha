@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "israelisraelgodiscalling|7FQRbf8gbKw8KZQZAJWxH2|252173",
+  song: "song/paul-cardall-israel-israel-god-is-calling",
 } as const satisfies Track

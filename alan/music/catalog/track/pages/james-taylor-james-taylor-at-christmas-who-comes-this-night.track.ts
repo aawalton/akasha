@@ -23,4 +23,5 @@ export const jamesTaylorJamesTaylorAtChristmasWhoComesThisNight = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "whocomesthisnight|0vn7UBvSQECKJm2817Yf1P|250013",
+  song: "song/james-taylor-who-comes-this-night",
 } as const satisfies Track

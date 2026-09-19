@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysDearestChildrenGodIsNearYou = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "dearestchildrengodisnearyou|7FQRbf8gbKw8KZQZAJWxH2|120500",
+  song: "song/paul-cardall-dearest-children-god-is-near-you",
 } as const satisfies Track

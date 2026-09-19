@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysGloryToGodOnHigh = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "glorytogodonhigh|7FQRbf8gbKw8KZQZAJWxH2|152880",
+  song: "song/paul-cardall-glory-to-god-on-high",
 } as const satisfies Track

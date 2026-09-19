@@ -23,4 +23,5 @@ export const jamesTaylor2BeforeThisWorldBeforeThisWorldJollySpringtime = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "beforethisworldjollyspringtime|0vn7UBvSQECKJm2817Yf1P|334573",
+  song: "song/james-taylor-before-this-world-jolly-springtime",
 } as const satisfies Track

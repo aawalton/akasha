@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarMoonlightSonata = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "moonlightsonata|7FQRbf8gbKw8KZQZAJWxH2|283000",
+  song: "song/paul-cardall-moonlight-sonata",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const jamesTaylor2BeforeThisWorldYouAndIAgain = {
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youandiagain|0vn7UBvSQECKJm2817Yf1P|232906",
+  song: "song/james-taylor-you-and-i-again",
 } as const satisfies Track

@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarUnaccompaniedCelloSuiteNo1InGMajor = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "unaccompaniedcellosuiteno1ingmajor|7FQRbf8gbKw8KZQZAJWxH2|169301",
+  song: "song/paul-cardall-unaccompanied-cello-suite-no-1-in-g-major",
 } as const satisfies Track

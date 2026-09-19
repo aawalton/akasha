@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysRedeemerOfIsrael = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "redeemerofisrael|7FQRbf8gbKw8KZQZAJWxH2|137013",
+  song: "song/paul-cardall-redeemer-of-israel",
 } as const satisfies Track

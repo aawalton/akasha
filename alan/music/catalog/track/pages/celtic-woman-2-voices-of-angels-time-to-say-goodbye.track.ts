@@ -23,4 +23,5 @@ export const celticWoman2VoicesOfAngelsTimeToSayGoodbye = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "timetosaygoodbye|6NWtt9pNOL2Gx7kBykdE5x|241506",
+  song: "song/celtic-woman-time-to-say-goodbye",
 } as const satisfies Track

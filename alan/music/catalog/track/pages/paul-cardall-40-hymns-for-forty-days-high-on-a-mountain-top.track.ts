@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysHighOnAMountainTop = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "highonamountaintop|7FQRbf8gbKw8KZQZAJWxH2|95360",
+  song: "song/paul-cardall-high-on-a-mountain-top",
 } as const satisfies Track

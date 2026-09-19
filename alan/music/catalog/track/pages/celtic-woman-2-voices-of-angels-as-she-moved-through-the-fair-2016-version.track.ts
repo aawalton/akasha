@@ -23,4 +23,5 @@ export const celticWoman2VoicesOfAngelsAsSheMovedThroughTheFair2016Version = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "asshemovedthroughthefair2016version|6NWtt9pNOL2Gx7kBykdE5x|235520",
+  song: "song/celtic-woman-as-she-moved-through-the-fair",
 } as const satisfies Track

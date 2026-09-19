@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysUponTheCrossOfCalvary = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "uponthecrossofcalvary|7FQRbf8gbKw8KZQZAJWxH2|63466",
+  song: "song/paul-cardall-upon-the-cross-of-calvary",
 } as const satisfies Track

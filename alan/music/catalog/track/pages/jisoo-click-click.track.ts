@@ -23,4 +23,5 @@ export const jisooClickClick = {
   explicit: false,
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "click|6UZ0ba50XreR4TM8u322gs|159095",
+  song: "song/jisoo-click",
 } as const satisfies Track

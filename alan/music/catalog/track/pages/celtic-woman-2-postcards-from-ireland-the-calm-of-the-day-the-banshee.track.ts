@@ -23,4 +23,5 @@ export const celticWoman2PostcardsFromIrelandTheCalmOfTheDayTheBanshee = {
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thecalmofthedaythebanshee|6NWtt9pNOL2Gx7kBykdE5x|177226",
+  song: "song/celtic-woman-the-calm-of-the-day-the-banshee",
 } as const satisfies Track

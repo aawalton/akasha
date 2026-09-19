@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysThereIsSunshineInMySoul = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thereissunshineinmysoul|7FQRbf8gbKw8KZQZAJWxH2|189306",
+  song: "song/paul-cardall-there-is-sunshine-in-my-soul",
 } as const satisfies Track

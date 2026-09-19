@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarBlessedJesuFountOfMercy = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "blessedjesufountofmercy|7FQRbf8gbKw8KZQZAJWxH2|151552",
+  song: "song/paul-cardall-blessed-jesu-fount-of-mercy",
 } as const satisfies Track

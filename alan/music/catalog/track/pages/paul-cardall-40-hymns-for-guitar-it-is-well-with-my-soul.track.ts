@@ -23,4 +23,5 @@ export const paulCardall40HymnsForGuitarItIsWellWithMySoul = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "itiswellwithmysoul|7FQRbf8gbKw8KZQZAJWxH2|208895",
+  song: "song/paul-cardall-it-is-well-with-my-soul",
 } as const satisfies Track

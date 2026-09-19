@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysIllGoWhereYouWantMeToGo = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "illgowhereyouwantmetogo|7FQRbf8gbKw8KZQZAJWxH2|158040",
+  song: "song/paul-cardall-ill-go-where-you-want-me-to-go",
 } as const satisfies Track

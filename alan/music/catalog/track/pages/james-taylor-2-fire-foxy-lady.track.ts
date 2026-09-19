@@ -26,4 +26,5 @@ export const jamesTaylor2FireFoxyLady = {
     { externalId: "1DJVvIcjKhdedkuGRzW7PG", artistName: "The New Mastersounds" },
   ],
   trackKey: "foxylady|0vn7UBvSQECKJm2817Yf1P,1DJVvIcjKhdedkuGRzW7PG|299000",
+  song: "song/james-taylor-foxy-lady",
 } as const satisfies Track

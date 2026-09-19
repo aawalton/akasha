@@ -23,4 +23,5 @@ export const paulCardall40HymnsForFortyDaysHowFirmAFoundation = {
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "howfirmafoundation|7FQRbf8gbKw8KZQZAJWxH2|154173",
+  song: "song/paul-cardall-how-firm-a-foundation",
 } as const satisfies Track
