@@ -1,0 +1,24 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"cardio"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"push"}
+{"gripDemand":"none"}
+{"id":"01a0ba56-bd3e-7858-a86b-ac37910fa402"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":false}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["quadriceps","glutes"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["hamstrings","calves"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"air-squats"}
+{"title":"Air Squats"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

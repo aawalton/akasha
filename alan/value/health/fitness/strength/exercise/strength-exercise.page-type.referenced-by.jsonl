@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/adductor/adductor.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/advanced-kettlebell-windmill/advanced-kettlebell-windmill.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/air-bike/air-bike.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/air-squats/air-squats.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/all-fours-quad-stretch/all-fours-quad-stretch.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/alternate-hammer-curl/alternate-hammer-curl.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/alternate-heel-touchers/alternate-heel-touchers.strength-exercise.ts"}
@@ -69,6 +70,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/barbell-walking-lunge/barbell-walking-lunge.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/battling-ropes/battling-ropes.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bear-crawl-sled-drags/bear-crawl-sled-drags.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bear-crawl/bear-crawl.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/beat-saber-1-song/beat-saber-1-song.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/behind-head-chest-stretch/behind-head-chest-stretch.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bench-dips/bench-dips.strength-exercise.ts"}
@@ -80,6 +82,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-arm-barbell-pullover/bent-arm-barbell-pullover.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-arm-dumbbell-pullover/bent-arm-dumbbell-pullover.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-knee-hip-raise/bent-knee-hip-raise.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-over-air-rows/bent-over-air-rows.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-over-barbell-row/bent-over-barbell-row.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-over-dumbbell-rear-delt-raise-with-head-on-bench/bent-over-dumbbell-rear-delt-raise-with-head-on-bench.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/bent-over-low-pulley-side-lateral/bent-over-low-pulley-side-lateral.strength-exercise.ts"}
@@ -554,6 +557,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/plie-dumbbell-squat/plie-dumbbell-squat.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/plyo-kettlebell-pushups/plyo-kettlebell-pushups.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/plyo-push-up/plyo-push-up.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/pogo-hops/pogo-hops.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/posterior-tibialis-stretch/posterior-tibialis-stretch.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/power-clean-from-blocks/power-clean-from-blocks.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/power-clean/power-clean.strength-exercise.ts"}
@@ -602,6 +606,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-grip-bent-over-rows/reverse-grip-bent-over-rows.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-grip-triceps-pushdown/reverse-grip-triceps-pushdown.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-hyperextension/reverse-hyperextension.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-lunge-steps/reverse-lunge-steps.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-machine-flyes/reverse-machine-flyes.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-plate-curls/reverse-plate-curls.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/reverse-triceps-bench-press/reverse-triceps-bench-press.strength-exercise.ts"}
@@ -625,8 +630,10 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/russian-twist/russian-twist.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/sandbag-load/sandbag-load.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/scapular-pull-up/scapular-pull-up.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/scapular-wall-slides/scapular-wall-slides.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/scissor-kick/scissor-kick.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/scissors-jump/scissors-jump.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/seal-jacks/seal-jacks.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/seated-band-hamstring-curl/seated-band-hamstring-curl.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/seated-barbell-military-press/seated-barbell-military-press.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/seated-barbell-twist/seated-barbell-twist.strength-exercise.ts"}
@@ -859,6 +866,7 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/vertical-swing/vertical-swing.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/waiter-walk/waiter-walk.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/walking-treadmill/walking-treadmill.strength-exercise.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/wall-push-ups/wall-push-ups.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/wall-sit/wall-sit.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/weighted-ball-hyperextension/weighted-ball-hyperextension.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/weighted-ball-side-bend/weighted-ball-side-bend.strength-exercise.ts"}

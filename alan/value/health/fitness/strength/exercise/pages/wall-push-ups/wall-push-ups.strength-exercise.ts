@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const wallPushUps = {
+  id: "01a0ba55-a04d-7e49-9625-af8a2a9cd285",
+  type: "page-type/strength-exercise",
+  slug: "wall-push-ups",
+  title: "Wall Push-Ups",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "low",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "push",
+  primaryMuscles: ["chest", "triceps"],
+  scoringMode: "time",
+  secondaryMuscles: ["shoulders", "abdominals"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const pogoHops = {
+  id: "01a0ba57-4113-703f-bec7-f175bf490538",
+  type: "page-type/strength-exercise",
+  slug: "pogo-hops",
+  title: "Pogo Hops",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "legs",
+  primaryMuscles: ["calves"],
+  scoringMode: "time",
+  secondaryMuscles: ["quadriceps", "abdominals"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

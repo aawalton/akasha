@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const bearCrawl = {
+  id: "01a0ba56-7e36-7e5f-9ae4-f63120f692b9",
+  type: "page-type/strength-exercise",
+  slug: "bear-crawl",
+  title: "Bear Crawl",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "low",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "alternating",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "core",
+  primaryMuscles: ["shoulders", "abdominals"],
+  scoringMode: "time",
+  secondaryMuscles: ["quadriceps", "triceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

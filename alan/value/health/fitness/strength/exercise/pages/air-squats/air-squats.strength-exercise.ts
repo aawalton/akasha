@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const airSquats = {
+  id: "01a0ba56-bd3e-7858-a86b-ac37910fa402",
+  type: "page-type/strength-exercise",
+  slug: "air-squats",
+  title: "Air Squats",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps", "glutes"],
+  scoringMode: "time",
+  secondaryMuscles: ["hamstrings", "calves"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

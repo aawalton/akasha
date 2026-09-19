@@ -1,0 +1,24 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"cardio"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"push"}
+{"gripDemand":"none"}
+{"id":"01a0ba57-4113-703f-bec7-f175bf490538"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":true}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"legs"}
+{"primaryMuscles":["calves"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["quadriceps","abdominals"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"pogo-hops"}
+{"title":"Pogo Hops"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

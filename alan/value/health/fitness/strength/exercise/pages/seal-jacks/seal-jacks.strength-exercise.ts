@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const sealJacks = {
+  id: "01a0ba55-5f77-728d-8243-378986d7d744",
+  type: "page-type/strength-exercise",
+  slug: "seal-jacks",
+  title: "Seal Jacks",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "push",
+  primaryMuscles: ["chest", "shoulders"],
+  scoringMode: "time",
+  secondaryMuscles: ["calves", "quadriceps"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

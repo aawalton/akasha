@@ -1,9 +1,12 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/air-bike/air-bike.strength-exercise.ts","id":"019ebc75-bf5f-7379-bb3c-34cb0bf73f7b"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/air-squats/air-squats.strength-exercise.ts","id":"01a0ba56-bd3e-7858-a86b-ac37910fa402"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/all-fours-quad-stretch/all-fours-quad-stretch.strength-exercise.ts","id":"019ebc75-bfa2-75e7-a561-c446de107afc"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/alternate-heel-touchers/alternate-heel-touchers.strength-exercise.ts","id":"019ebc75-c02d-79bb-9f26-660f3eaeb8c4"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bear-crawl/bear-crawl.strength-exercise.ts","id":"01a0ba56-7e36-7e5f-9ae4-f63120f692b9"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bench-dips/bench-dips.strength-exercise.ts","id":"019ebc76-9e56-7e05-a26c-92208323c0f3"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bench-jump/bench-jump.strength-exercise.ts","id":"019ebc76-9ed2-7b84-a5bc-1e232e113ed6"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bent-knee-hip-raise/bent-knee-hip-raise.strength-exercise.ts","id":"019ebc76-a1fe-77be-ba9a-d816d041bd4f"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bent-over-air-rows/bent-over-air-rows.strength-exercise.ts","id":"01a0ba56-3e74-7770-90ae-3c8ebeca7591"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/body-tricep-press/body-tricep-press.strength-exercise.ts","id":"019ebc76-a7f5-78fd-9010-355da39aa8d8"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/body-up/body-up.strength-exercise.ts","id":"019ebc76-a7b9-7b03-b28e-b464761efc72"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/bodyweight-reverse-lunge/bodyweight-reverse-lunge.strength-exercise.ts","id":"019efbeb-3290-7f24-9fea-5a3c8c91957b"}
@@ -74,6 +77,7 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/overhead-triceps/overhead-triceps.strength-exercise.ts","id":"019ebc77-bdb3-7cb7-a7de-254079c337d6"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/plank/plank.strength-exercise.ts","id":"019ebc77-c12a-7aac-92bb-b4b888ace462"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/plyo-push-up/plyo-push-up.strength-exercise.ts","id":"019ebc77-c2a1-7d55-9ec1-a94a10cd6fd5"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/pogo-hops/pogo-hops.strength-exercise.ts","id":"01a0ba57-4113-703f-bec7-f175bf490538"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/pullups/pullups.strength-exercise.ts","id":"019ebc77-c67d-7051-9a04-64385a8854a5"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/push-up-to-side-plank/push-up-to-side-plank.strength-exercise.ts","id":"019ebc77-c830-7b32-ab03-d80d48fb2449"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/push-up-wide/push-up-wide.strength-exercise.ts","id":"019ebc77-c6bc-7398-b577-e28ae564c146"}
@@ -83,10 +87,13 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/pushups/pushups.strength-exercise.ts","id":"019ebc77-c86e-78c2-a1ae-4c8251bbbab6"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/rear-leg-raises/rear-leg-raises.strength-exercise.ts","id":"019ebc77-ca94-73e7-a4d3-696eb539d06c"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/reverse-crunch/reverse-crunch.strength-exercise.ts","id":"019ebc77-cd71-7d2b-a1c4-61d73bf62515"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/reverse-lunge-steps/reverse-lunge-steps.strength-exercise.ts","id":"01a0ba56-fe8a-7c55-ab53-77d5247707c2"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/rocket-jump/rocket-jump.strength-exercise.ts","id":"019ebc77-d0a3-7684-af83-7ea14ca532f5"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/russian-twist/russian-twist.strength-exercise.ts","id":"019ebc77-d3f6-7ddb-90c5-ba5ad7c781d7"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/scapular-wall-slides/scapular-wall-slides.strength-exercise.ts","id":"01a0ba55-fc5d-7a50-8032-779ed5697f3a"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/scissor-kick/scissor-kick.strength-exercise.ts","id":"019ebc77-d4b2-7965-ac19-9efa692a29ea"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/scissors-jump/scissors-jump.strength-exercise.ts","id":"019ebc77-d4f5-7a1e-8b6c-dfd9ca32dbab"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seal-jacks/seal-jacks.strength-exercise.ts","id":"01a0ba55-5f77-728d-8243-378986d7d744"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seated-biceps/seated-biceps.strength-exercise.ts","id":"019ebc78-54ad-718b-aa6c-923e761247c5"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seated-flat-bench-leg-pull-in/seated-flat-bench-leg-pull-in.strength-exercise.ts","id":"019ebc78-5790-7013-9810-89fe148fd9eb"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/seated-front-deltoid/seated-front-deltoid.strength-exercise.ts","id":"019ebc78-5819-7479-934f-2d770e1e26e0"}
@@ -114,6 +121,7 @@
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/toe-touchers/toe-touchers.strength-exercise.ts","id":"019ebc78-aa8e-76fa-8473-8f668fbe4e45"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/tuck-crunch/tuck-crunch.strength-exercise.ts","id":"019ebc78-ad50-719f-89bb-72aabcc1d002"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/v-bar-pullup/v-bar-pullup.strength-exercise.ts","id":"019ebc78-b3dc-7a1d-bd26-de190a0a5a0e"}
+{"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/wall-push-ups/wall-push-ups.strength-exercise.ts","id":"01a0ba55-a04d-7e49-9625-af8a2a9cd285"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/wall-sit/wall-sit.strength-exercise.ts","id":"019efbfe-eadb-7eee-9280-975810ea4813"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/wide-grip-rear-pull-up/wide-grip-rear-pull-up.strength-exercise.ts","id":"019ebc78-b8da-7a95-a0ed-dd320e6ce4d2"}
 {"propertySlug":"equipment","path":"alan/value/health/fitness/strength/exercise/pages/wind-sprints/wind-sprints.strength-exercise.ts","id":"019ebc78-c185-7374-9874-b615475b88dd"}

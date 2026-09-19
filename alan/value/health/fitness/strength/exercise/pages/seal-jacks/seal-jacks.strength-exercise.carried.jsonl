@@ -1,0 +1,24 @@
+{"equipment":"strength-exercise-implement/body-only"}
+{"exerciseCategory":"cardio"}
+{"exerciseLevel":"beginner"}
+{"exerciseSource":"aelwyn-custom"}
+{"force":"push"}
+{"gripDemand":"none"}
+{"id":"01a0ba55-5f77-728d-8243-378986d7d744"}
+{"implementCount":1}
+{"instructions":"txt"}
+{"isBallistic":true}
+{"laterality":"bilateral"}
+{"loadFactor":0}
+{"mechanic":"compound"}
+{"movementPattern":"conditioning"}
+{"muscleFocus":"push"}
+{"primaryMuscles":["chest","shoulders"]}
+{"scoringMode":"time"}
+{"secondaryMuscles":["calves","quadriceps"]}
+{"sfrScore":3}
+{"skillCost":"low"}
+{"slug":"seal-jacks"}
+{"title":"Seal Jacks"}
+{"trainsLengthenedRange":false}
+{"type":"page-type/strength-exercise"}

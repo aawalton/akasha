@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const scapularWallSlides = {
+  id: "01a0ba55-fc5d-7a50-8032-779ed5697f3a",
+  type: "page-type/strength-exercise",
+  slug: "scapular-wall-slides",
+  title: "Scapular Wall Slides",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "pull",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "pull",
+  primaryMuscles: ["middle-back", "shoulders"],
+  scoringMode: "time",
+  secondaryMuscles: ["traps", "lats"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

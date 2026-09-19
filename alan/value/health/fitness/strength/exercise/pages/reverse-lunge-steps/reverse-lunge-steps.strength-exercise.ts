@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const reverseLungeSteps = {
+  id: "01a0ba56-fe8a-7c55-ab53-77d5247707c2",
+  type: "page-type/strength-exercise",
+  slug: "reverse-lunge-steps",
+  title: "Reverse Lunge Steps",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "alternating",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps", "glutes"],
+  scoringMode: "time",
+  secondaryMuscles: ["hamstrings", "adductors"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise

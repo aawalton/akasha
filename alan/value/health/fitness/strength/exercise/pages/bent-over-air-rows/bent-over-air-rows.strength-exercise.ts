@@ -1,0 +1,28 @@
+import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"
+
+export const bentOverAirRows = {
+  id: "01a0ba56-3e74-7770-90ae-3c8ebeca7591",
+  type: "page-type/strength-exercise",
+  slug: "bent-over-air-rows",
+  title: "Bent-Over Air Rows",
+  exerciseCategory: "cardio",
+  equipment: "strength-exercise-implement/body-only",
+  force: "pull",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "pull",
+  primaryMuscles: ["lats", "middle-back"],
+  scoringMode: "time",
+  secondaryMuscles: ["biceps", "lower-back"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies StrengthExercise
