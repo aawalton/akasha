@@ -16,6 +16,8 @@
 {"propertySlug":"argument","path":"command/pages/track/session/open/track-session-open.command.ts","id":"01a07979-7e12-70a2-94c9-93c43aec2949"}
 {"propertySlug":"argument","path":"command/pages/track/session/split/track-session-split.command.ts","id":"01a07979-7fe5-72fa-8982-e069a28c90c2"}
 {"propertySlug":"argument","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
+{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/argument/modules/naming/argument-naming.module.test.ts"}
+{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/git/push/git-push.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/git/sweep/git-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts"}

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
+  LIMIT_AT,
   LIMIT_PAGE,
   NAMING_NONE,
   NAMING_NOT_WITH,
@@ -11,6 +12,7 @@ import {
   PAGES,
   pageRefusals,
   pageTaken,
+  SEAT_AT,
   SEAT_PAGE,
   TAIL_PAGE,
 } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
@@ -79,16 +81,16 @@ test("a call saying an argument takes that value over the default", () => {
 const NAMING_ONLY_ONE = {
   slug: "thing",
   arguments: [
-    { argument: "argument/seat", notWith: ["argument/limit"], oneOf: ["argument/limit"] },
-    { argument: "argument/limit", notWith: ["argument/seat"], oneOf: ["argument/seat"] },
+    { argument: SEAT_AT, notWith: [LIMIT_AT], oneOf: [LIMIT_AT] },
+    { argument: LIMIT_AT, notWith: [SEAT_AT], oneOf: [SEAT_AT] },
   ],
 } as const
 
 const NAMING_EITHER = {
   slug: "thing",
   arguments: [
-    { argument: "argument/seat", oneOf: ["argument/limit"] },
-    { argument: "argument/limit", oneOf: ["argument/seat"] },
+    { argument: SEAT_AT, oneOf: [LIMIT_AT] },
+    { argument: LIMIT_AT, oneOf: [SEAT_AT] },
   ],
 } as const
 
@@ -120,7 +122,7 @@ test("a group forbidding nothing is answered as two a call may leave out", () =>
 test("an entry is read from its place in the list rather than found", () => {
   const held = NAMING_THEM.arguments[1]
   expect(held.required).toBe(true)
-  expect(held.argument).toBe("argument/seat")
+  expect(held.argument).toBe(SEAT_AT)
   expect("required" in NAMING_THEM.arguments[0]).toBe(false)
   expect("repeats" in NAMING_THEM.arguments[3]).toBe(true)
 })

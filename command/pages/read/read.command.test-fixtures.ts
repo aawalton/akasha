@@ -6,6 +6,7 @@ import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { said as saying } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { argument } from "akasha/command/argument/argument.page-type.ts"
 import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
 import { full as fullArgument } from "akasha/command/argument/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -34,8 +35,8 @@ import {
 export const CALLED_AS = "akasha read"
 
 const SHOWN: Readonly<Record<string, string>> = {
-  "argument/file-path": filePath.said,
-  "argument/full": fullArgument.said,
+  [`${argument.slug}/${filePath.slug}`]: filePath.said,
+  [`${argument.slug}/${fullArgument.slug}`]: fullArgument.said,
 }
 
 export const TAKING = readCommand.arguments.map((one) => ({

@@ -3,6 +3,7 @@
 {"propertySlug":"argument","path":"command/pages/seat/reset/seat-reset.command.ts","id":"01a0797a-9aa4-7473-88de-e9a24a94bb70"}
 {"propertySlug":"argument","path":"command/pages/seat/resume/seat-resume.command.ts","id":"01a0797a-9a89-7c74-a460-ae5a33be7b89"}
 {"propertySlug":"argument","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts","id":"01a0797a-9a6f-7d91-bfd8-0ac01ac70fcd"}
+{"propertySlug":"import","fileName":"seat.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"seat.argument.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
 {"propertySlug":"import","fileName":"seat.argument.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
 {"propertySlug":"import","fileName":"seat.argument.ts","path":"command/pages/seat/reset/seat-reset.command.code.ts"}

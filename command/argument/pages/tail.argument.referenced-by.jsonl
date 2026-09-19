@@ -1,2 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.ts","id":"01a09404-76c2-7202-b118-752495e599e2"}
+{"propertySlug":"import","fileName":"tail.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"tail.argument.ts","path":"command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.code.ts"}

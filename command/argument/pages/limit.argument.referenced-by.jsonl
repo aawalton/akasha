@@ -6,6 +6,7 @@
 {"propertySlug":"argument","path":"command/pages/music/listening/music-listening.command.ts","id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}
 {"propertySlug":"argument","path":"command/pages/music/search/music-search.command.ts","id":"01a062f8-ead9-70cb-ae30-58a51b7fc488"}
 {"propertySlug":"argument","path":"command/pages/temper/watcher/log/temper-watcher-log.command.ts","id":"01a0603c-c1da-744c-8d22-01ee1ec32945"}
+{"propertySlug":"import","fileName":"limit.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.code.ts"}
 {"propertySlug":"import","fileName":"limit.argument.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.test.ts"}
