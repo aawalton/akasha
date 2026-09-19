@@ -8,5 +8,5 @@ export const model = {
   takes: "the registered checkpoint the render goes through",
   value: "text",
   placeholder: "id",
-  default: "z-image-turbo",
+  default: "beyond-reality-3",
 } as const satisfies Argument

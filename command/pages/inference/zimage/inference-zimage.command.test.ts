@@ -75,7 +75,7 @@ test("the defaults on the argument pages hold where nothing said them", () => {
     expect(said.taken.width).toBe(1024)
     expect(said.taken.height).toBe(1024)
     expect(said.taken.loraScales).toBe("1.0")
-    expect(said.taken.model).toBe("z-image-turbo")
+    expect(said.taken.model).toBe("beyond-reality-3")
   }
 })
 

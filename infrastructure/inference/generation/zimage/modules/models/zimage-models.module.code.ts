@@ -1,14 +1,6 @@
 export type ClipType = "lumina2"
 
-export type ModelId =
-  | "z-image-base"
-  | "z-image-turbo"
-  | "z-image-de-turbo"
-  | "beyond-reality-3"
-  | "cyberrealistic-zit-v4"
-  | "juggernaut-z-v1"
-  | "redzdpo-v5-veris"
-  | "twinflow-z-image-turbo"
+export type ModelId = "beyond-reality-3"
 
 export interface ModelSpec {
   readonly id: ModelId
@@ -28,9 +20,6 @@ export interface ModelSpec {
 const ZIMAGE_TEXT_ENCODER = "qwen_3_4b_fp8_mixed.safetensors"
 const ZIMAGE_VAE = "ae.safetensors"
 
-const ZIMAGE_BASE_UNET = "z-img_fp8-e4m3fn-scaled.safetensors"
-const ZIMAGE_TURBO_UNET = "z-img-turbo_fp8-e4m3fn.safetensors"
-
 const ZIMAGE_MODEL_SHIFT = 3.0
 
 interface SamplerProfile {
@@ -39,7 +28,6 @@ interface SamplerProfile {
 }
 
 const DISTILLED: SamplerProfile = { defaultSteps: 8, defaultGuidance: 1.0 }
-const UNDISTILLED: SamplerProfile = { defaultSteps: 50, defaultGuidance: 4 }
 
 function zImage(id: ModelId, unetFile: string, profile: SamplerProfile): ModelSpec {
   return {
@@ -58,26 +46,7 @@ function zImage(id: ModelId, unetFile: string, profile: SamplerProfile): ModelSp
 }
 
 export const MODELS: Readonly<Record<ModelId, ModelSpec>> = {
-  "z-image-base": zImage("z-image-base", ZIMAGE_BASE_UNET, UNDISTILLED),
-  "z-image-turbo": zImage("z-image-turbo", ZIMAGE_TURBO_UNET, DISTILLED),
-
-  "z-image-de-turbo": zImage("z-image-de-turbo", "z-image-de-turbo_bf16.safetensors", UNDISTILLED),
-
   "beyond-reality-3": zImage("beyond-reality-3", "beyond-reality-3_fp8.safetensors", DISTILLED),
-  "cyberrealistic-zit-v4": zImage(
-    "cyberrealistic-zit-v4",
-    "cyberrealistic-zit-v4_bf16.safetensors",
-    DISTILLED
-  ),
-  "juggernaut-z-v1": zImage("juggernaut-z-v1", "juggernaut-z-v1_fp8.safetensors", UNDISTILLED),
-
-  "redzdpo-v5-veris": zImage("redzdpo-v5-veris", "redzdpo-v5-veris_fp8.safetensors", DISTILLED),
-
-  "twinflow-z-image-turbo": zImage(
-    "twinflow-z-image-turbo",
-    "twinflow-z-image-turbo_bf16.safetensors",
-    DISTILLED
-  ),
 }
 
 export const MODEL_IDS: readonly ModelId[] = Object.keys(MODELS) as readonly ModelId[]
