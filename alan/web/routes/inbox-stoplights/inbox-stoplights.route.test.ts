@@ -48,7 +48,7 @@ const READOUT_ROWS = [
   },
   {
     slug: "inboxes-temper-tasks",
-    label: "Temper tasks",
+    label: "Temper",
     unit: "tasks",
     place: 3,
     scale: "daily-inbox",
@@ -164,7 +164,7 @@ test("the three keys are the three the shipped widget looks its labels up by", a
 
 test("the rings come back in the place order the readout pages state", async () => {
   await carryAll()
-  expect((await tile.drawn()).map((one) => one.label)).toEqual(["Email", "Tasks", "Temper tasks"])
+  expect((await tile.drawn()).map((one) => one.label)).toEqual(["Email", "Tasks", "Temper"])
 })
 
 test("an inbox with no fresh reading keeps its ring rather than leaving the tile short", async () => {
