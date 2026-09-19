@@ -6,6 +6,7 @@
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.ts","id":"01a09408-a1a1-7e96-9e19-38cfb6a5715e"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.ts","id":"01a09409-1cc5-728a-ba59-c959fa5540ed"}
 {"propertySlug":"argument","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
+{"propertySlug":"argument","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
 {"propertySlug":"argument","path":"command/pages/track/health-import/track-health-import.command.ts","id":"01a0620c-6340-70c9-a176-730aa9470e96"}
 {"propertySlug":"argument","path":"command/pages/track/session/amend/track-session-amend.command.ts","id":"01a07979-7f49-7026-ba5c-99f1601920f2"}
 {"propertySlug":"argument","path":"command/pages/track/session/close/track-session-close.command.ts","id":"01a07979-7ead-77a5-955b-3cf604e934c7"}
@@ -23,6 +24,7 @@
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
+{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/track/health-import/track-health-import.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/track/session/amend/track-session-amend.command.code.ts"}

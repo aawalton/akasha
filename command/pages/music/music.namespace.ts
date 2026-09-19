@@ -10,6 +10,7 @@ export const music = {
     "command/music-back",
     "command/music-capture",
     "command/music-import-artist",
+    "command/music-link-songs",
     "command/music-listening",
     "command/music-next",
     "command/music-now-playing",

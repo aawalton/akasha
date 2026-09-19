@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.test.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}

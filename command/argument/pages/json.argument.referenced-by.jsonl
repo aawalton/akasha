@@ -32,6 +32,7 @@
 {"propertySlug":"argument","path":"command/pages/music/back/music-back.command.ts","id":"01a0a01f-0b1f-7e5a-a12f-24d76abe10ed"}
 {"propertySlug":"argument","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
 {"propertySlug":"argument","path":"command/pages/music/import-artist/music-import-artist.command.ts","id":"01a062fb-d2fd-72f5-b24e-22a9635b5910"}
+{"propertySlug":"argument","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
 {"propertySlug":"argument","path":"command/pages/music/listening/music-listening.command.ts","id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}
 {"propertySlug":"argument","path":"command/pages/music/next/music-next.command.ts","id":"01a062f8-fe5a-7000-a955-ec84925efd37"}
 {"propertySlug":"argument","path":"command/pages/music/now-playing/music-now-playing.command.ts","id":"01a062f8-ead8-74de-aa60-befb47afaae9"}
@@ -133,6 +134,7 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/back/music-back.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/listening/music-listening.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/next/music-next.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/music/now-playing/music-now-playing.command.code.ts"}

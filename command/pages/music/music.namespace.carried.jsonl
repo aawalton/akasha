@@ -1,6 +1,6 @@
 {"definition":"the music playing now and what Alan says about it"}
 {"id":"01a07bbf-258e-7f64-8bc2-f340c44e592e"}
 {"name":"music"}
-{"parts":["command/music-artist-list","command/music-back","command/music-capture","command/music-import-artist","command/music-listening","command/music-next","command/music-now-playing","command/music-pause","command/music-play","command/music-queue","command/music-rate","command/music-repeat","command/music-search","command/music-seek","command/music-shuffle","command/music-skip","command/music-transfer","command/music-upcoming","command/music-volume","module/device-option"]}
+{"parts":["command/music-artist-list","command/music-back","command/music-capture","command/music-import-artist","command/music-link-songs","command/music-listening","command/music-next","command/music-now-playing","command/music-pause","command/music-play","command/music-queue","command/music-rate","command/music-repeat","command/music-search","command/music-seek","command/music-shuffle","command/music-skip","command/music-transfer","command/music-upcoming","command/music-volume","module/device-option"]}
 {"slug":"music"}
 {"type":"page-type/namespace"}
