@@ -26,12 +26,10 @@ export interface Reaching {
 export async function reconciledOver(
   declared: readonly string[],
   reaching: Reaching,
-  dry: boolean,
   done: string[] = []
 ): Promise<Plan> {
   const rules = await reaching.rules()
   const plan = plannedOver(declared, rules, forwardedTo(rules))
-  if (dry) return plan
   for (const one of plan.writing) {
     await reaching.write(one.rule)
     done.push(`routed ${one.address}`)
@@ -46,15 +44,15 @@ function reachingZone(token: string, zoneId: string): Reaching {
   }
 }
 
-export async function runPersonaRouting(dry: boolean, done: string[] = []): Promise<undefined> {
+export async function runPersonaRouting(done: string[] = []): Promise<undefined> {
   const root = rootStated(process.env) ?? process.cwd()
   const token = tokenStated()
   const reaching = reachingZone(token, await zoneIdOf(token, ZONE))
   const declared = addressesDeclared(personasStanding(root), ZONE)
-  const plan = await reconciledOver(declared, reaching, dry, done)
-  process.stdout.write(`${saidOf(plan, dry).join("\n")}\n`)
+  const plan = await reconciledOver(declared, reaching, done)
+  process.stdout.write(`${saidOf(plan).join("\n")}\n`)
 }
 
 if (import.meta.main) {
-  await runPersonaRouting(!process.argv.slice(2).includes("--apply"))
+  await runPersonaRouting()
 }

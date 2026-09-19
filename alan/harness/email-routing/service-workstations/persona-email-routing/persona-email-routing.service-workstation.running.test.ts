@@ -28,10 +28,10 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(service)).toEqual(["runService"])
 })
 
-test("a service run writes rather than running dry, because nobody reads a dry run here", async () => {
+test("a service run turns the routing run with nothing said about how to run it", async () => {
   HANDED.length = 0
   await service.runService()
-  expect(HANDED).toEqual([[false]])
+  expect(HANDED).toEqual([[]])
 })
 
 test("a run turns the routing module's own run rather than one written again here", async () => {

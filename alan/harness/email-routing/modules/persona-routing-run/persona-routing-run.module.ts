@@ -10,14 +10,6 @@ export const personaRoutingRun = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run answers its plan before any rule is written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run is dry unless the caller asks for the writing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A second run over a zone the first run wrote to writes nothing.",
     },
     {

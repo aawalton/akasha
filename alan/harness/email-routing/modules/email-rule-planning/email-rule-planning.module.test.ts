@@ -152,27 +152,23 @@ test("declared addresses come back folded, deduped and sorted", () => {
   expect(addressesDeclared(declaring, DOMAIN)).toEqual([AKASHA, AURA])
 })
 
-test("a dry run says what it would route rather than what it routed", () => {
-  const said = saidOf(plannedOver(DECLARED, RULES, ONWARD), true)
-  expect(said[0]).toBe("1 address would be routed")
-  expect(said[1]).toBe(`  would route ${AKASHA}`)
+test("a run says each address it routed", () => {
+  const said = saidOf(plannedOver(DECLARED, RULES, ONWARD))
+  expect(said[0]).toBe("1 address routed")
+  expect(said[1]).toBe(`  routed ${AKASHA}`)
 })
 
-test("a run that wrote says what it routed", () => {
-  expect(saidOf(plannedOver(DECLARED, RULES, ONWARD), false)[0]).toBe("1 address routed")
-})
-
-test("more than one address to route is said in the plural", () => {
+test("more than one address routed is said in the plural", () => {
   const plan = plannedOver([AKASHA, "ceri@alanwalton.com"], RULES, ONWARD)
-  expect(saidOf(plan, true)[0]).toBe("2 addresses would be routed")
+  expect(saidOf(plan)[0]).toBe("2 addresses routed")
 })
 
 test("a run with nothing to route says so rather than saying nothing", () => {
-  expect(saidOf(plannedOver([AURA], RULES, ONWARD), true)[0]).toBe("0 addresses would be routed")
+  expect(saidOf(plannedOver([AURA], RULES, ONWARD))[0]).toBe("0 addresses routed")
 })
 
 test("an unclaimed address is said as left alone", () => {
-  expect(saidOf(plannedOver(DECLARED, RULES, ONWARD), true)).toContain(
+  expect(saidOf(plannedOver(DECLARED, RULES, ONWARD))).toContain(
     `  ${ALAN} is routed and no persona declares it, so it is left as it is`
   )
 })

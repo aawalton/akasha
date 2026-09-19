@@ -41,46 +41,34 @@ const zoneOf = (held: RoutingRule[], refusing = false): Zone => {
   }
 }
 
-test("a dry run writes nothing at all", async () => {
-  const zone = zoneOf([auto(AURA)])
-  await reconciledOver([AKASHA, AURA], zone, true)
-  expect(zone.written).toEqual([])
-})
-
-test("a dry run still answers what it would route", async () => {
-  const plan = await reconciledOver([AKASHA, AURA], zoneOf([auto(AURA)]), true)
+test("a run answers the plan it carried out", async () => {
+  const plan = await reconciledOver([AKASHA, AURA], zoneOf([auto(AURA)]))
   expect(plan.writing.map((one) => one.address)).toEqual([AKASHA])
 })
 
-test("a run that was asked to write routes the address no rule claimed", async () => {
+test("a run routes the address no rule claimed", async () => {
   const zone = zoneOf([auto(AURA)])
-  await reconciledOver([AKASHA, AURA], zone, false)
+  await reconciledOver([AKASHA, AURA], zone)
   expect(zone.written.map((rule) => rule.matchers[0]?.value)).toEqual([AKASHA])
 })
 
 test("a second run straight after the first writes nothing", async () => {
   const held = [auto(AURA)]
-  await reconciledOver([AKASHA, AURA], zoneOf(held), false)
+  await reconciledOver([AKASHA, AURA], zoneOf(held))
   const again = zoneOf(held)
-  await reconciledOver([AKASHA, AURA], again, false)
+  await reconciledOver([AKASHA, AURA], again)
   expect(again.written).toEqual([])
 })
 
 test("each address is named as soon as the rule routing it is written", async () => {
   const done: string[] = []
-  await reconciledOver([AKASHA, AURA], zoneOf([auto(AURA)]), false, done)
+  await reconciledOver([AKASHA, AURA], zoneOf([auto(AURA)]), done)
   expect(done).toEqual([`routed ${AKASHA}`])
-})
-
-test("a dry run names nothing as routed, because it routed nothing", async () => {
-  const done: string[] = []
-  await reconciledOver([AKASHA, AURA], zoneOf([auto(AURA)]), true, done)
-  expect(done).toEqual([])
 })
 
 test("a write refused is carried out rather than counted as done", async () => {
   const zone = zoneOf([auto(AURA)], true)
-  await expect(reconciledOver([AKASHA, AURA], zone, false)).rejects.toThrow(
+  await expect(reconciledOver([AKASHA, AURA], zone)).rejects.toThrow(
     "the token cannot write routing rules"
   )
 })
@@ -97,7 +85,7 @@ test("a run that threw part way names what it routed before it threw", async () 
       return zone.write(rule)
     },
   }
-  await expect(reconciledOver([AKASHA, CERI], stopping, false, done)).rejects.toThrow(
+  await expect(reconciledOver([AKASHA, CERI], stopping, done)).rejects.toThrow(
     "the token cannot write routing rules"
   )
   expect(done).toEqual([`routed ${AKASHA}`])
@@ -105,20 +93,18 @@ test("a run that threw part way names what it routed before it threw", async () 
 
 test("the destination written is the one the rules read already forward to", async () => {
   const zone = zoneOf([auto(AURA)])
-  await reconciledOver([AKASHA, AURA], zone, false)
+  await reconciledOver([AKASHA, AURA], zone)
   expect(zone.written[0]?.actions).toEqual([{ type: "forward", value: [ONWARD] }])
 })
 
 test("the rule written is named by the convention the zone already keeps", async () => {
   const zone = zoneOf([auto(AURA)])
-  await reconciledOver([AKASHA, AURA], zone, false)
+  await reconciledOver([AKASHA, AURA], zone)
   expect(zone.written[0]?.name).toBe(`persona-auto: ${AKASHA} -> ${ONWARD}`)
 })
 
 test("a zone no rule forwards anywhere in is refused rather than written to", async () => {
   const zone = zoneOf([])
-  await expect(reconciledOver([AKASHA], zone, false)).rejects.toThrow(
-    "nothing to copy a destination from"
-  )
+  await expect(reconciledOver([AKASHA], zone)).rejects.toThrow("nothing to copy a destination from")
   expect(zone.written).toEqual([])
 })

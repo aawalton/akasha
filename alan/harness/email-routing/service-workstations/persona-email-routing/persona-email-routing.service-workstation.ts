@@ -24,10 +24,6 @@ export const personaEmailRouting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run here writes, because a dry run nobody reads routes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A run whose token is refused fails the unit rather than passing quietly.",
     },
     {

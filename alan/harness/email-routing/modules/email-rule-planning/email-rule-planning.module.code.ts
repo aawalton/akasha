@@ -145,10 +145,9 @@ function countedAs(many: number, one: string, rest: string): string {
   return `${String(many)} ${many === 1 ? one : rest}`
 }
 
-export function saidOf(plan: Plan, dry: boolean): readonly string[] {
-  const counted = countedAs(plan.writing.length, "address", "addresses")
-  const said = [dry ? `${counted} would be routed` : `${counted} routed`]
-  for (const one of plan.writing) said.push(`  ${dry ? "would route" : "routed"} ${one.address}`)
+export function saidOf(plan: Plan): readonly string[] {
+  const said = [`${countedAs(plan.writing.length, "address", "addresses")} routed`]
+  for (const one of plan.writing) said.push(`  routed ${one.address}`)
   said.push(`${countedAs(plan.routed.length, "address", "addresses")} already routed`)
   for (const one of plan.off) said.push(`  ${one} is claimed by a rule that is turned off`)
   for (const one of plan.unclaimed) {
