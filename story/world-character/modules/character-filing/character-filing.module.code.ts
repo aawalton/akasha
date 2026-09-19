@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   type Landing,
@@ -12,6 +12,7 @@ import { asking } from "akasha/page/service/modules/page-asking/page-asking.modu
 import {
   foldedFor,
   type Naming,
+  type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -244,6 +245,12 @@ export type Landed = {
   readonly filesPassed: number
 }
 
+export function alreadyHolds(root: string, put: Put): boolean {
+  const at = join(root, put.path)
+  if (!existsSync(at)) return false
+  return readFileSync(at, "utf8") === put.content
+}
+
 export async function landBatch(
   root: string,
   named: readonly Naming[],
@@ -258,9 +265,11 @@ export async function landBatch(
       `${folded.removes.length} files beside these pages would be taken away, and this takes none`
     )
   }
+  const moved = folded.puts.filter((put) => !alreadyHolds(root, put))
+  if (moved.length === 0) return null
   const answer = await landing(
     root,
-    folded.puts.map((put) => ({ at: PUT, given: { at: put.path, body: put.content } }) as const),
+    moved.map((put) => ({ at: PUT, given: { at: put.path, body: put.content } }) as const),
     message,
     { done }
   )

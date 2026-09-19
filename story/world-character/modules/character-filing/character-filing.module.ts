@@ -52,5 +52,9 @@ export const characterFiling = {
       decisionKind: "decision-kind/departure",
       statement: "Characters are landed a batch at a time rather than all in one landing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file already holding the body this filing would write is passed over.",
+    },
   ],
 } as const satisfies Module
