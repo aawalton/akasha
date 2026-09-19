@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { argument } from "akasha/command/argument/argument.page-type.ts"
+import { email as emailArgument } from "akasha/command/argument/pages/email.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -16,6 +18,8 @@ import {
   wrongIn,
 } from "akasha/command/pages/model-account/add/model-account-add.command.code.ts"
 import { modelAccountAdd as page } from "akasha/command/pages/model-account/add/model-account-add.command.ts"
+
+const EMAIL_AT = `${argument.slug}/${emailArgument.slug}` as const
 
 const ASKED: Asked = { account: "tempereso", email: "a@b.c", alias: null }
 
@@ -42,7 +46,7 @@ test("an address the call does not say is the account's own name at alanwalton.c
 })
 
 test("the call may leave the address out", () => {
-  const asked = page.arguments.find((one) => one.argument === "argument/email")
+  const asked = page.arguments.find((one) => one.argument === EMAIL_AT)
   expect(asked).toBeDefined()
   expect((asked as { required?: boolean }).required ?? false).toBe(false)
 })

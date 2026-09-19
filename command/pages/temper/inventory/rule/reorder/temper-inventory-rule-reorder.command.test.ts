@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { argument } from "akasha/command/argument/argument.page-type.ts"
 import { after } from "akasha/command/argument/pages/after.argument.ts"
 import { before } from "akasha/command/argument/pages/before.argument.ts"
 import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
@@ -28,6 +29,10 @@ import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modul
 
 const CALLED_AS = "akasha temper inventory rule reorder"
 
+const BEFORE_AT = `${argument.slug}/${before.slug}` as const
+
+const AFTER_AT = `${argument.slug}/${after.slug}` as const
+
 const REPO = rootOf(import.meta.dir)
 
 const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null, agentId: null }
@@ -54,8 +59,8 @@ test("the page takes the id as a word and one of three ways to place the rule", 
   expect(page.arguments.length).toBe(5)
   expect(page.arguments[1]?.required).toBe(true)
   expect(page.arguments[1]?.saidAs).toBe("word")
-  expect(page.arguments[2]?.oneOf).toEqual(["argument/before", "argument/after"])
-  expect(page.arguments[2]?.notWith).toEqual(["argument/before", "argument/after"])
+  expect(page.arguments[2]?.oneOf).toEqual([BEFORE_AT, AFTER_AT])
+  expect(page.arguments[2]?.notWith).toEqual([BEFORE_AT, AFTER_AT])
 })
 
 test("a call naming no way of placing the rule is refused for all three", async () => {

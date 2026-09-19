@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { argument } from "akasha/command/argument/argument.page-type.ts"
+import { closureSeed as closureSeedArgument } from "akasha/command/argument/pages/closure-seed.argument.ts"
+import { predicate as predicateArgument } from "akasha/command/argument/pages/predicate.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
@@ -14,6 +17,10 @@ import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module
 const CALLED_AS = "akasha measure closure"
 
 const ARGUMENT = "argument"
+
+const PREDICATE_AT = `${argument.slug}/${predicateArgument.slug}` as const
+
+const CLOSURE_SEED_AT = `${argument.slug}/${closureSeedArgument.slug}` as const
 
 const NAMED = "performance"
 
@@ -48,8 +55,8 @@ const closureRefusing = (argv: readonly string[]): readonly string[] => {
 
 test("the page takes a predicate and its seeds, both as words", () => {
   expect(page.arguments.length).toBe(2)
-  expect(page.arguments[0]?.argument).toBe("argument/predicate")
-  expect(page.arguments[1]?.argument).toBe("argument/closure-seed")
+  expect(page.arguments[0]?.argument).toBe(PREDICATE_AT)
+  expect(page.arguments[1]?.argument).toBe(CLOSURE_SEED_AT)
   expect(page.arguments[1]?.repeats).toBe(true)
   expect(page.arguments.filter((one) => one.saidAs === "word").length).toBe(2)
 })

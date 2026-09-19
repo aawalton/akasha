@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { argument } from "akasha/command/argument/argument.page-type.ts"
 import { declarationSubject } from "akasha/command/argument/pages/declaration-subject.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -49,7 +50,7 @@ test("a flag wanting a word and given none is refused", () => {
 })
 
 const SHOWN: Readonly<Record<string, string>> = {
-  "argument/declaration-subject": declarationSubject.said,
+  [`${argument.slug}/${declarationSubject.slug}`]: declarationSubject.said,
 }
 
 test("the page takes one flag", () => {
