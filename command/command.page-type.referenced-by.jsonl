@@ -282,4 +282,5 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it.finding.ts","id":"01a08210-09bb-72b1-ad4f-d5ac17ee8bb5"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-commands-pages-folder-is-written-by-nothing-and-refused-by-nothing.finding.ts","id":"01a09c5d-c802-7dda-b708-852e90e767f9"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-empty-heredoc-probe-is-answered-by-change-draft-and-acted-on-by-change-apply.finding.ts","id":"01a09669-ab00-7e9a-a75a-e7b84af7e9f4"}
+{"propertySlug":"page-domain","path":"domain/initiative/pages/astra-landing-reads-only-what-changed.initiative.ts","id":"01a0ba6f-3720-70b6-9d51-234066d336dc"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
