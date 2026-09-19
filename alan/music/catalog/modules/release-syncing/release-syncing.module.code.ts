@@ -23,8 +23,8 @@ import {
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  landedMechanically,
-  type runMechanicalChange,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -66,13 +66,6 @@ const IDENTITY = "externalIdentity"
 const SAID = "[spotify-sync]"
 
 export const DUE_AFTER_DAYS = 30
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
 
 export type Reach = {
   readonly getArtistAlbums: (artistId: string) => Promise<readonly Album[]>
@@ -373,7 +366,6 @@ export async function syncReleases(
       }
       if (landing !== null) {
         const landed = await landing(
-          [],
           root,
           changes,
           `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${filing} track(s) for ${one.title}`
@@ -402,7 +394,7 @@ export async function main(argv: readonly string[]): Promise<number> {
       root,
       held,
       REACHING,
-      held.dryRun ? null : landedMechanically,
+      held.dryRun ? null : runMechanicalChange,
       todayYYYYMMDD(),
       daysAgoYYYYMMDD(DUE_AFTER_DAYS)
     )
