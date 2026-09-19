@@ -7,7 +7,6 @@ export const awenEngineImprovements = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   intentStack: [
-    { statement: "Alan has approved the subfolder structure under story." },
     {
       statement:
         "A turn, a rulebook and a mechanic designed as one replace what the engine holds now.",
