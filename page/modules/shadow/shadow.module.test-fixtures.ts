@@ -1,6 +1,7 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { keepingIn } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
@@ -16,6 +17,7 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Cast, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const scratch = scratchWorld()
 
@@ -84,7 +86,7 @@ export const CHANGES: readonly Written[] = [
     id: idOf("t"),
     pageTypeSlug: "page-type",
     slug: "tag",
-    extends: ["page-type/domain"],
+    extends: [`${pageType.slug}/${domain.slug}`],
   }),
   aChange("h.tag.ts", { id: idOf("h"), pageTypeSlug: "tag", slug: "h", note: "domain/b" }),
 ]

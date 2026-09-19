@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   everyValue,
   readingIn,
@@ -45,6 +46,7 @@ import {
   unfiled,
 } from "akasha/page/modules/shadow/shadow.module.test-fixtures.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -110,8 +112,8 @@ test("a property the change stops making unique loses the identity filed for a p
 test("a directory the change empties is not listed, and one it fills is", () => {
   const repo = seeded()
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  expect(readingIn(repo).holds("page-type/module")).toBe(true)
-  expect(reading.holds("page-type/module")).toBe(false)
+  expect(readingIn(repo).holds(`${pageType.slug}/${module.slug}`)).toBe(true)
+  expect(reading.holds(`${pageType.slug}/${module.slug}`)).toBe(false)
   expect(reading.holds("page-type/tag")).toBe(true)
   const named = reading.listing("page-type").map((one) => one.name)
   expect(named).not.toContain("module")

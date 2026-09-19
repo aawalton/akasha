@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   declaredIn,
@@ -13,8 +14,17 @@ import {
   slugsIn,
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
 
 const scratch = scratchWorld()
 
@@ -170,14 +180,11 @@ test("a key holding no list, or a list holding what is not text, is answered as 
 })
 
 test("one page name alone is answered as nothing, a list being the shape", () => {
-  expect(slugsIn("page-type/module")).toEqual([])
+  expect(slugsIn(MODULE_AT)).toEqual([])
 })
 
 test("a list of page names is answered as their slugs, in the order named", () => {
-  expect(slugsIn(["page-type/module", "page-type/page-property"])).toEqual([
-    "module",
-    "page-property",
-  ])
+  expect(slugsIn([MODULE_AT, PAGE_PROPERTY_AT])).toEqual(["module", "page-property"])
 })
 
 test("a key naming no page is answered as an empty list rather than as nothing", () => {
@@ -188,5 +195,5 @@ test("a key naming no page is answered as an empty list rather than as nothing",
 })
 
 test("what is no page name is left out of the list rather than refusing the rest", () => {
-  expect(slugsIn(["page-type/module", 8787, "", "page-type/page"])).toEqual(["module", "page"])
+  expect(slugsIn([MODULE_AT, 8787, "", PAGE_AT])).toEqual(["module", "page"])
 })

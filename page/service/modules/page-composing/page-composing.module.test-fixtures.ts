@@ -5,12 +5,15 @@ import {
   indexedRepo,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 import {
   type Folded,
   foldedFor,
   type Naming,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageProperty as pagePropertyPageType } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 type Held = Record<string, unknown>
 
@@ -73,6 +76,10 @@ export const A_HELD_FIGURE = { pageTypeSlug: "figure", slug: HELD_FIGURE, merge:
 
 export const A_HELD_THING = { pageTypeSlug: "thing", slug: HELD_THING }
 
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pagePropertyPageType.slug}` as const
+
 const REPO_AT = rootOf(import.meta.dir)
 
 export function pageTypeAt(slug: string): string {
@@ -129,7 +136,7 @@ export const ROOT: string = indexedRepo({
     aProperty("08", "rounds", "page-property-entry"),
     aProperty("0a", "entries", "file-property"),
     aType("10", "page-property-entry", {
-      extends: ["page-type/page-property"],
+      extends: [PAGE_PROPERTY_AT],
       properties: [],
     }),
     {
@@ -143,7 +150,7 @@ export const ROOT: string = indexedRepo({
   ]),
   ...under("thing/", [
     aType("11", "thing", {
-      extends: ["page-type/page"],
+      extends: [PAGE_AT],
       types: "ts",
       properties: [
         declares("page-type-slug"),
