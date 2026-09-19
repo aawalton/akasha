@@ -1,6 +1,6 @@
-import { optionDeclarations } from "akasha/design/language/lua-compiler/modules/cli-parse/cli-parse.module.code.ts"
+import { OPTION_DECLARATIONS } from "akasha/design/language/lua-compiler/modules/cli-parse/cli-parse.module.code.ts"
 
-export const name = "@akasha/lua-compiler"
+export const NAME = "@akasha/lua-compiler"
 
 const helpString = `
 Syntax:   lua-compiler [options] [files...]
@@ -17,7 +17,7 @@ export function getHelpString(): string {
   let result = helpString + "\n\n"
 
   result += "Options:\n"
-  for (const option of optionDeclarations) {
+  for (const option of OPTION_DECLARATIONS) {
     const aliasStrings = (option.aliases ?? []).map((a) => "-" + a)
     const optionString = [...aliasStrings, "--" + option.name].join("|")
 

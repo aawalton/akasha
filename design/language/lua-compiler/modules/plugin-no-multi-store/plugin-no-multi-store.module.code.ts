@@ -78,7 +78,7 @@ function visitNode(
   ts.forEachChild(node, (child) => visitNode(child, checker, sourceFile, diagnostics))
 }
 
-const plugin: Plugin = {
+const PLUGIN: Plugin = {
   beforeTransform(program: ts.Program): DiagnosticResult {
     const checker = program.getTypeChecker()
     const diagnostics: ts.Diagnostic[] = []
@@ -94,4 +94,4 @@ const plugin: Plugin = {
   },
 }
 
-export default plugin
+export default PLUGIN

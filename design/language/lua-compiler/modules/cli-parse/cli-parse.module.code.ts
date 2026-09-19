@@ -32,7 +32,7 @@ interface CommandLineOptionOfPrimitive extends CommandLineOptionBase {
 
 type CommandLineOption = CommandLineOptionOfEnum | CommandLineOptionOfPrimitive
 
-export const optionDeclarations: CommandLineOption[] = [
+export const OPTION_DECLARATIONS: CommandLineOption[] = [
   {
     name: "buildMode",
     description:
@@ -122,7 +122,7 @@ export const optionDeclarations: CommandLineOption[] = [
 export function updateParsedConfigFile(parsedConfigFile: ts.ParsedCommandLine): ParsedCommandLine {
   let hasRootLevelOptions = false
   for (const [name, rawValue] of Object.entries(parsedConfigFile.raw)) {
-    const option = optionDeclarations.find((declaration) => declaration.name === name)
+    const option = OPTION_DECLARATIONS.find((declaration) => declaration.name === name)
     if (!option) continue
 
     if (parsedConfigFile.raw.luaCompiler === undefined) parsedConfigFile.raw.luaCompiler = {}
@@ -138,7 +138,7 @@ export function updateParsedConfigFile(parsedConfigFile: ts.ParsedCommandLine): 
     }
 
     for (const [name, rawValue] of Object.entries(parsedConfigFile.raw.luaCompiler)) {
-      const option = optionDeclarations.find((declaration) => declaration.name === name)
+      const option = OPTION_DECLARATIONS.find((declaration) => declaration.name === name)
       if (!option) {
         parsedConfigFile.errors.push(cliDiagnostics.unknownCompilerOption(name))
         continue
@@ -167,7 +167,7 @@ function updateParsedCommandLine(
 
     const isShorthand = !arg.startsWith("--")
     const argumentName = arg.substring(isShorthand ? 1 : 2)
-    const option = optionDeclarations.find((declaration) => {
+    const option = OPTION_DECLARATIONS.find((declaration) => {
       if (declaration.name.toLowerCase() === argumentName.toLowerCase()) return true
       if (isShorthand && declaration.aliases) {
         return declaration.aliases.some((a) => a.toLowerCase() === argumentName.toLowerCase())

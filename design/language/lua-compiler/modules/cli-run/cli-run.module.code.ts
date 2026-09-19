@@ -2,7 +2,7 @@
 import * as cliDiagnostics from "akasha/design/language/lua-compiler/modules/cli-diagnostics/cli-diagnostics.module.code.ts"
 import {
   getHelpString,
-  name,
+  NAME,
 } from "akasha/design/language/lua-compiler/modules/cli-information/cli-information.module.code.ts"
 import { parseCommandLine } from "akasha/design/language/lua-compiler/modules/cli-parse/cli-parse.module.code.ts"
 import { createDiagnosticReporter } from "akasha/design/language/lua-compiler/modules/cli-report/cli-report.module.code.ts"
@@ -53,12 +53,12 @@ function executeCommandLine(args: readonly string[]): undefined {
   }
 
   if (commandLine.options.version) {
-    console.log(name)
+    console.log(NAME)
     return void ts.sys.exit(ts.ExitStatus.Success)
   }
 
   if (commandLine.options.help) {
-    console.log(name)
+    console.log(NAME)
     console.log(getHelpString())
     return void ts.sys.exit(ts.ExitStatus.Success)
   }

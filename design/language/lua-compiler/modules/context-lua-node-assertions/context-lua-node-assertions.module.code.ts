@@ -26,7 +26,7 @@ export function assertAllStatements(
   for (const item of nodes) {
     if (!isLuaStatement(item)) {
       throw new Error(
-        `Statement visitor for node type ${ts.SyntaxKind[tsNode.kind]} returned a non-statement node (${luaCore.SyntaxKindName[item.kind]}).`
+        `Statement visitor for node type ${ts.SyntaxKind[tsNode.kind]} returned a non-statement node (${luaCore.SYNTAX_KIND_NAME[item.kind]}).`
       )
     }
   }
@@ -44,7 +44,7 @@ export function assertIsExpression(
   const candidate = Array.isArray(result) ? result[0] : result
   if (candidate === undefined || !isLuaExpression(candidate)) {
     throw new Error(
-      `Expression visitor for node type ${ts.SyntaxKind[node.kind]} returned a non-expression node (${candidate === undefined ? "empty array" : luaCore.SyntaxKindName[candidate.kind]}).`
+      `Expression visitor for node type ${ts.SyntaxKind[node.kind]} returned a non-expression node (${candidate === undefined ? "empty array" : luaCore.SYNTAX_KIND_NAME[candidate.kind]}).`
     )
   }
   return candidate

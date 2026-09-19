@@ -175,7 +175,7 @@ export const invalidSpreadInCallExtension = createErrorDiagnosticFactory(
 
 export const cannotAssignToNodeOfKind = createErrorDiagnosticFactory(
   (kind: luaCore.SyntaxKind) =>
-    `Cannot create assignment assigning to a node of type ${luaCore.SyntaxKindName[kind]}.`
+    `Cannot create assignment assigning to a node of type ${luaCore.SYNTAX_KIND_NAME[kind]}.`
 )
 
 export const incompleteFieldDecoratorWarning = createWarningDiagnosticFactory(

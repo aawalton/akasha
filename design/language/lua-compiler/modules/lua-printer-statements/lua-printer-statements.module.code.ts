@@ -81,7 +81,9 @@ function printStatementExcludingComments(
       return printExpressionStatement(state, statement)
     default: {
       const node: luaCore.Node = statement
-      throw new Error(`Tried to print unknown statement kind: ${luaCore.SyntaxKindName[node.kind]}`)
+      throw new Error(
+        `Tried to print unknown statement kind: ${luaCore.SYNTAX_KIND_NAME[node.kind]}`
+      )
     }
   }
 }

@@ -71,7 +71,7 @@ export const SyntaxKind = {
 } as const
 export type SyntaxKind = (typeof SyntaxKind)[keyof typeof SyntaxKind]
 
-export const SyntaxKindName: readonly string[] = [
+export const SYNTAX_KIND_NAME: readonly string[] = [
   "File",
   "Block",
   "DoStatement",
