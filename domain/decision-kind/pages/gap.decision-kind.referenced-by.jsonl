@@ -193,6 +193,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-row/agent-row.module.ts","id":"01a0686b-bfe9-7005-a82e-21c216ec82ea"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-tree-state/agent-tree-state.module.ts","id":"01a0686b-bfe9-705b-a5cc-ec57c2a1d63b"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.ts","id":"01a0b7a0-c25d-7f18-85bd-47f61888ed1b"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-call/harness-call.module.ts","id":"01a064f0-734d-7459-91b7-33e6eb60021d"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/subagent-checkpoints/subagent-checkpoints.module.ts","id":"01a0686b-bfe9-752c-8f69-90fe541e5755"}
