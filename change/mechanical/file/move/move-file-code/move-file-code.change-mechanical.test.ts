@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { runChange } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import {
   type BodyOf,
@@ -133,5 +135,5 @@ test("the file moves by a rung and the body is repointed by the module", async (
 
   await runChange(world, { from: HELD_CODE, to: KEPT })
 
-  expect(new Set(reached)).toEqual(new Set(["change-mechanical-file/move-file"]))
+  expect(new Set(reached)).toEqual(new Set([`${changeMechanicalFile.slug}/${moveFile.slug}`]))
 })

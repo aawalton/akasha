@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { moveFileCode } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.ts"
 import {
   carriedIn,
   landingFor,
@@ -102,7 +104,9 @@ test("a body importing a file beside the page names the path that file landed at
 test("each file is carried by the change for the kind of file that file is", async () => {
   const reached: string[] = []
   await runChange(worldIn(indexedRepo(), reached), { from: HELD_PAGE, to: INTO })
-  expect(reached.filter((one) => one === "change-mechanical/move-file-code")).toHaveLength(2)
+  const address = `${changeMechanical.slug}/${moveFileCode.slug}`
+
+  expect(reached.filter((one) => one === address)).toHaveLength(2)
 })
 
 test("a file the page claims and no body sits at is passed over", async () => {

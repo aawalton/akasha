@@ -1,11 +1,24 @@
 import { expect, test } from "bun:test"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { REACHING } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import {
   addressFor,
   idFilled,
   runChange,
 } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"
+import { addFilePage } from "akasha/change/mechanical/file/add/add-file-page/add-file-page.change-mechanical.ts"
+import { addFilePageProperty } from "akasha/change/mechanical/file/add/add-file-page-property/add-file-page-property.change-mechanical.ts"
+import { addFilePageType } from "akasha/change/mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+
+const ADD_FILE_CODE = `${changeMechanical.slug}/${addFileCode.slug}` as const
+
+const ADD_FILE_PAGE = `${changeMechanical.slug}/${addFilePage.slug}` as const
+
+const ADD_FILE_PAGE_PROPERTY = `${changeMechanical.slug}/${addFilePageProperty.slug}` as const
+
+const ADD_FILE_PAGE_TYPE = `${changeMechanical.slug}/${addFilePageType.slug}` as const
 
 const AT = "akasha/one.held.ts"
 
@@ -63,25 +76,23 @@ test("a path naming no page and no TypeScript name is written by the change judg
 })
 
 test("every other TypeScript path is written by the change judging the imports named", () => {
-  expect(addressFor(NOTHING_NAMED, CODE)).toBe("change-mechanical/add-file-code")
+  expect(addressFor(NOTHING_NAMED, CODE)).toBe(ADD_FILE_CODE)
 })
 
 test("a path under a page name is written by the change judging the pages named", () => {
-  expect(addressFor(PAGED, AT)).toBe("change-mechanical/add-file-page")
+  expect(addressFor(PAGED, AT)).toBe(ADD_FILE_PAGE)
 })
 
 test("a path under a page type name is written by the change judging the plural slug", () => {
   const world = worldOf(new Set(["page-type"]))
 
-  expect(addressFor(world, "akasha/kept.page-type.ts")).toBe("change-mechanical/add-file-page-type")
+  expect(addressFor(world, "akasha/kept.page-type.ts")).toBe(ADD_FILE_PAGE_TYPE)
 })
 
 test("a path under a page property name is written by the change judging the keys", () => {
   const world = worldOf(new Set(["text-property"]))
 
-  expect(addressFor(world, "akasha/properties/kept.text-property.ts")).toBe(
-    "change-mechanical/add-file-page-property"
-  )
+  expect(addressFor(world, "akasha/properties/kept.text-property.ts")).toBe(ADD_FILE_PAGE_PROPERTY)
 })
 
 test("a page type reaches its own change with the id already in the body", async () => {
@@ -91,7 +102,7 @@ test("a page type reaches its own change with the id already in the body", async
   const said = await runChange(world, { at: "akasha/kept.page-type.ts", body: PAGE_BODY })
 
   expect(said.refused).toBe(null)
-  expect(carried.at).toBe("change-mechanical/add-file-page-type")
+  expect(carried.at).toBe(ADD_FILE_PAGE_TYPE)
   expect(carried.body).toMatch(MINTED)
 })
 
@@ -131,7 +142,7 @@ test("a page reaches the change writing pages with the id already in the body", 
   const said = await runChange(reachedBy(PAGED, carried), { at: AT, body: PAGE_BODY })
 
   expect(said.refused).toBe(null)
-  expect(carried.at).toBe("change-mechanical/add-file-page")
+  expect(carried.at).toBe(ADD_FILE_PAGE)
   expect(carried.body).toMatch(MINTED)
 })
 

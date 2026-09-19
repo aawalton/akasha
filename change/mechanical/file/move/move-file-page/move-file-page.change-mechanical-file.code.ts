@@ -1,4 +1,8 @@
 import { basename, dirname, extname, join } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
+import { moveFileCode } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.ts"
 import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
@@ -6,9 +10,9 @@ import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.c
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 
-const MOVE_FILE = "change-mechanical-file/move-file"
+const MOVE_FILE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
 
-const MOVE_FILE_CODE = "change-mechanical/move-file-code"
+const MOVE_FILE_CODE = `${changeMechanical.slug}/${moveFileCode.slug}` as const
 
 const CODE = new Set([".ts", ".tsx"])
 

@@ -1,11 +1,13 @@
 import { extname } from "node:path"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 
-const MOVE_FILE = "change-mechanical-file/move-file"
+const MOVE_FILE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
 
 const CODE = new Set([".ts", ".tsx"])
 
