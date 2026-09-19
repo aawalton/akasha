@@ -16,4 +16,7 @@ export const coldplaySleepingSun = {
   artist: "artist/coldplay",
   songType: "derivative",
   performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
 } as const satisfies Song

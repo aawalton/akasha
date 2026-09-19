@@ -1,8 +1,11 @@
 {"artist":"artist/coldplay"}
 {"externalIdentity":[{"source":"musicbrainz","externalId":"85b61dfd-2abd-4cf0-b5e3-d69257ca045b","externalLink":"https://musicbrainz.org/work/85b61dfd-2abd-4cf0-b5e3-d69257ca045b","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0ba5d-40d1-7dc7-b016-066a560c1f6b"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"coldplay-day-n-nite"}
 {"songType":"derivative"}
+{"syncedLyrics":"txt"}
 {"title":"Day ’n’ Nite"}
 {"type":"page-type/song"}

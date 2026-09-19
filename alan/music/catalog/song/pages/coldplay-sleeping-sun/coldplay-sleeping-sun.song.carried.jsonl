@@ -1,8 +1,11 @@
 {"artist":"artist/coldplay"}
 {"externalIdentity":[{"source":"musicbrainz","externalId":"f97875af-7180-4615-a9c3-5de404680a4b","externalLink":"https://musicbrainz.org/work/f97875af-7180-4615-a9c3-5de404680a4b","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0ba60-fe7f-71be-b5ab-0d0c654c0db1"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
 {"performed":true}
 {"slug":"coldplay-sleeping-sun"}
 {"songType":"derivative"}
+{"syncedLyrics":"txt"}
 {"title":"Sleeping Sun"}
 {"type":"page-type/song"}
