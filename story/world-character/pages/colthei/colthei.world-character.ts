@@ -9,4 +9,5 @@ export const colthei = {
   firstChapter: 797,
   lastChapter: 798,
   characterClaims: "jsonl",
+  aliasOf: "world-character/colth",
 } as const satisfies WorldCharacter

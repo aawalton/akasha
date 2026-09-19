@@ -9,4 +9,5 @@ export const belavierrDonamia = {
   firstChapter: 586,
   lastChapter: 586,
   characterClaims: "jsonl",
+  aliasOf: "world-character/belavierr",
 } as const satisfies WorldCharacter

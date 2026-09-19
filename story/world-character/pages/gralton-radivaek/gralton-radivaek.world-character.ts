@@ -9,4 +9,5 @@ export const graltonRadivaek = {
   firstChapter: 346,
   lastChapter: 519,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gralton",
 } as const satisfies WorldCharacter

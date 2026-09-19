@@ -9,4 +9,5 @@ export const wyvernLordFrost = {
   firstChapter: 718,
   lastChapter: 718,
   characterClaims: "jsonl",
+  aliasOf: "world-character/wyvern-lord",
 } as const satisfies WorldCharacter

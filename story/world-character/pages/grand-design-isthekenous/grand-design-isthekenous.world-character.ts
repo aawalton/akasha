@@ -9,4 +9,5 @@ export const grandDesignIsthekenous = {
   firstChapter: 762,
   lastChapter: 762,
   characterClaims: "jsonl",
+  aliasOf: "world-character/grand-design",
 } as const satisfies WorldCharacter

@@ -9,4 +9,5 @@ export const himiltValLischelle = {
   firstChapter: 592,
   lastChapter: 592,
   characterClaims: "jsonl",
+  aliasOf: "world-character/himilt",
 } as const satisfies WorldCharacter

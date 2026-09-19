@@ -9,4 +9,5 @@ export const troyAtlas = {
   firstChapter: 545,
   lastChapter: 556,
   characterClaims: "jsonl",
+  aliasOf: "world-character/trey-atwood",
 } as const satisfies WorldCharacter

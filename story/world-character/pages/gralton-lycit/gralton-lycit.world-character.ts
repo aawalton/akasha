@@ -9,4 +9,5 @@ export const graltonLycit = {
   firstChapter: 271,
   lastChapter: 271,
   characterClaims: "jsonl",
+  aliasOf: "world-character/gralton",
 } as const satisfies WorldCharacter
