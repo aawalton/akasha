@@ -5,6 +5,6 @@ export const contributor8454f6ece0a6db76806fe96d09ad058c570b551e1d86b3c8d9d63df6
   type: "page-type/contributor",
   slug: "contributor-8454f6ece0a6db76806fe96d09ad058c570b551e1d86b3c8d9d63df6e7ed23aa",
   emailHash: "8454f6ece0a6db76806fe96d09ad058c570b551e1d86b3c8d9d63df6e7ed23aa",
-  balance: 1,
+  balance: 3,
   transactions: "jsonl",
 } as const satisfies Contributor
