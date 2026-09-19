@@ -49,5 +49,9 @@ export const stateDrawing = {
       decisionKind: "decision-kind/constraint",
       statement: "A picture here is made by reading every page of many page types.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "Every picture here is drawn from rows kept beside that picture.",
+    },
   ],
 } as const satisfies Module
