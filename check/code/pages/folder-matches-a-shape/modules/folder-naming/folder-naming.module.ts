@@ -32,10 +32,6 @@ export const folderNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder is asked for no name where taking that opening off leaves nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The folder with nothing above it is asked for no name.",
     },
     {
