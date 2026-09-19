@@ -526,6 +526,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/game/product-game.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/kofi/contribution-point/contribution-point.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/kofi/contributor/contributor.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/kofi/feature-request/feature-request.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/kofi/kofi.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/product.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/smilingjenny/smilingjenny.domain.ts"}
