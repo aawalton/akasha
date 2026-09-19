@@ -100,6 +100,20 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement: "The kit keeping a movement out is tested on every run rather than on a day.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement is dropped when that movement stops progressing rather than after a fixed time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bout without progress is a day Alan took the movement near failure without beating its best.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dropped movement is offered again once its pattern has progressed elsewhere.",
+    },
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],

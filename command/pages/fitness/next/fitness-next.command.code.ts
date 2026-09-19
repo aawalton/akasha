@@ -44,6 +44,18 @@ export type Mark = {
   readonly sets: number
   readonly weight: number | null
   readonly reps: number | null
+  readonly bestOn: string | null
+  readonly lastOn: string | null
+  readonly staleBouts: number
+}
+
+const NOTHING: Mark = {
+  sets: 0,
+  weight: null,
+  reps: null,
+  bestOn: null,
+  lastOn: null,
+  staleBouts: 0,
 }
 
 export type Offer = {
@@ -87,10 +99,6 @@ export function restrictedIn(pages: readonly Value[]): ReadonlySet<string> {
   return held
 }
 
-export function allowed(one: Movement, restricted: ReadonlySet<string>): boolean {
-  return one.pattern === null || !restricted.has(one.pattern)
-}
-
 export function loadable(one: Movement, covered: ReadonlySet<string>): boolean {
   if (one.category !== null && UNRANKED.includes(one.category)) return false
   if (one.implement === null || one.implement === BODY_ONLY) return true
@@ -105,11 +113,26 @@ export function owedIn(took: ReadonlyMap<string, number>, low: number): readonly
     .map((held) => held.one)
 }
 
+function staledIn(
+  held: ReadonlyMap<string, Mark>,
+  days: ReadonlyMap<string, ReadonlySet<string>>
+): ReadonlyMap<string, Mark> {
+  const done = new Map<string, Mark>()
+  for (const [slug, mark] of held) {
+    const best = mark.bestOn
+    const seen = [...(days.get(slug) ?? [])]
+    const after = best === null ? 0 : seen.filter((one) => one > best).length
+    done.set(slug, { ...mark, staleBouts: after })
+  }
+  return done
+}
+
 export function marksIn(
   sets: readonly Value[],
   nearFailure: number,
   before: string
 ): ReadonlyMap<string, Mark> {
+  const days = new Map<string, Set<string>>()
   const held = new Map<string, Mark>()
   for (const one of sets) {
     const on = textAt(one, "setLogDate")
@@ -118,15 +141,62 @@ export function marksIn(
     if (!nearFailureIn(one, nearFailure)) continue
     const weight = numberAt(one, "weight")
     const reps = numberAt(one, "reps")
-    const was = held.get(named) ?? { sets: 0, weight: null, reps: null }
+    const was = held.get(named) ?? NOTHING
     const heavier = (weight ?? 0) > (was.weight ?? 0)
     const sameWeight = (weight ?? 0) === (was.weight ?? 0)
-    const better = heavier || (sameWeight && (reps ?? 0) > (was.reps ?? 0))
+    const better = was.bestOn === null || heavier || (sameWeight && (reps ?? 0) > (was.reps ?? 0))
+    const seen = days.get(named) ?? new Set<string>()
+    seen.add(on)
+    days.set(named, seen)
     held.set(named, {
       sets: was.sets + 1,
       weight: better ? weight : was.weight,
       reps: better ? reps : was.reps,
+      bestOn: better ? on : was.bestOn,
+      lastOn: was.lastOn !== null && was.lastOn > on ? was.lastOn : on,
+      staleBouts: 0,
     })
+  }
+  return staledIn(held, days)
+}
+
+function movedOn(
+  marks: ReadonlyMap<string, Mark>,
+  movements: ReadonlyMap<string, Movement>,
+  slug: string,
+  pattern: string | null,
+  since: string
+): boolean {
+  if (pattern === null) return false
+  for (const [other, each] of marks) {
+    if (other === slug || each.bestOn === null || each.bestOn <= since) continue
+    if (movements.get(other)?.pattern === pattern) return true
+  }
+  return false
+}
+
+export function droppedIn(
+  marks: ReadonlyMap<string, Mark>,
+  movements: ReadonlyMap<string, Movement>,
+  cap: number
+): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const [slug, mark] of marks) {
+    if (mark.staleBouts < cap || mark.lastOn === null) continue
+    const pattern = movements.get(slug)?.pattern ?? null
+    if (!movedOn(marks, movements, slug, pattern, mark.lastOn)) held.add(slug)
+  }
+  return held
+}
+
+export function outIn(
+  movements: ReadonlyMap<string, Movement>,
+  restricted: ReadonlySet<string>,
+  dropped: ReadonlySet<string>
+): ReadonlySet<string> {
+  const held = new Set(dropped)
+  for (const one of movements.values()) {
+    if (one.pattern !== null && restricted.has(one.pattern)) held.add(one.slug)
   }
   return held
 }
@@ -156,10 +226,10 @@ export function chosenFor(
   marks: ReadonlyMap<string, Mark>,
   ceiling: number,
   newnessLeft: number,
-  restricted: ReadonlySet<string>
+  out: ReadonlySet<string>
 ): Movement | null {
   const able = [...week.movements.values()].filter((one) => {
-    if (!allowed(one, restricted)) return false
+    if (out.has(one.slug)) return false
     if (!one.muscles.includes(muscle) || !loadable(one, covered)) return false
     if (one.muscles.every((each) => (week.tally.muscles.get(each) ?? 0) >= ceiling)) return false
     return (marks.get(one.slug)?.sets ?? 0) > 0 || newnessLeft > 0
@@ -183,11 +253,11 @@ export function offerOf(
   low: number,
   ceiling: number,
   newnessLeft: number,
-  restricted: ReadonlySet<string>
+  out: ReadonlySet<string>
 ): Offer | null {
   const covered = coveredBy(kit)
   const picks = owedIn(week.tally.muscles, low).flatMap((muscle) => {
-    const one = chosenFor(week, muscle, covered, marks, ceiling, newnessLeft, restricted)
+    const one = chosenFor(week, muscle, covered, marks, ceiling, newnessLeft, out)
     if (one === null) return []
     return [
       {
@@ -249,6 +319,8 @@ export function nextIn(root: string, today: string): Offer | null {
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
   const marks = marksIn(week.sets, selectionPolicy.nearFailureRpeFloor, today)
   const done = doneOn(week.sets, today, selectionPolicy.nearFailureRpeFloor)
+  const restricted = restrictedIn(valuesOfType(root, RESTRICTION_TYPE).map((one) => one.value))
+  const dropped = droppedIn(marks, week.movements, selectionPolicy.boutsWithoutProgress)
   return offerOf(
     week,
     kit,
@@ -256,7 +328,7 @@ export function nextIn(root: string, today: string): Offer | null {
     selectionPolicy.weeklySetFloor,
     selectionPolicy.weeklySetCeiling,
     newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession),
-    restrictedIn(valuesOfType(root, RESTRICTION_TYPE).map((one) => one.value))
+    outIn(week.movements, restricted, dropped)
   )
 }
 

@@ -2,15 +2,16 @@ import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import {
-  allowed,
   chosenFor,
   coveredBy,
+  droppedIn,
   fitnessNext,
   type Kit,
   loadable,
   type Mark,
   newnessLeftIn,
   offerOf,
+  outIn,
   owedIn,
   restrictedIn,
   saidOf,
@@ -57,7 +58,19 @@ function week(movements: readonly Movement[], took: ReadonlyMap<string, number> 
   }
 }
 
-const KNOWN = new Map<string, Mark>([["dumbbell-bench-press", { sets: 4, weight: 30, reps: 20 }]])
+function mark(over: Partial<Mark> = {}): Mark {
+  return {
+    sets: 4,
+    weight: 30,
+    reps: 20,
+    bestOn: "2026-06-25",
+    lastOn: "2026-06-25",
+    staleBouts: 0,
+    ...over,
+  }
+}
+
+const KNOWN = new Map<string, Mark>([["dumbbell-bench-press", mark()]])
 
 const FREE: ReadonlySet<string> = new Set()
 
@@ -113,7 +126,7 @@ test("a movement every muscle of which is at its ceiling is out", () => {
 
 test("a bout that has taken its new movement takes no more", () => {
   expect(
-    newnessLeftIn(["a", "a"], new Map([["a", { sets: 2, weight: null, reps: null }]]), 1)
+    newnessLeftIn(["a", "a"], new Map([["a", mark({ sets: 2, weight: null, reps: null })]]), 1)
   ).toBe(0)
 })
 
@@ -140,13 +153,15 @@ test("a movement Alan never took near failure carries no weight and no reps", ()
   expect(offer?.reps).toBe(null)
 })
 
+const CURL = movement("hammer-curls", { muscles: ["biceps"], pattern: "isolation-other" })
+
+const BOTH = new Map<string, Mark>([
+  ["dumbbell-bench-press", mark({ sets: 16 })],
+  ["hammer-curls", mark({ sets: 5, weight: 15, reps: 15 })],
+])
+
 test("muscles owed alike are parted by the deepest history", () => {
-  const curl = movement("hammer-curls", { muscles: ["biceps"], pattern: "isolation-other" })
-  const marks = new Map<string, Mark>([
-    ["dumbbell-bench-press", { sets: 16, weight: 30, reps: 20 }],
-    ["hammer-curls", { sets: 5, weight: 15, reps: 15 }],
-  ])
-  const offer = offerOf(week([BENCH, curl]), KIT, marks, 6, 12, 0, FREE)
+  const offer = offerOf(week([BENCH, CURL]), KIT, BOTH, 6, 12, 0, FREE)
   expect(offer?.movement).toBe("dumbbell-bench-press")
 })
 
@@ -154,19 +169,29 @@ test("a restriction names the pattern it keeps out", () => {
   expect(restrictedIn([{ movementPattern: "v-push" }, {}])).toEqual(new Set(["v-push"]))
 })
 
-test("a movement whose pattern is restricted may not be performed", () => {
-  expect(allowed(BENCH, new Set(["h-push"]))).toBe(false)
-  expect(allowed(BENCH, new Set(["hinge"]))).toBe(true)
+test("a movement Alan may not perform is gone before any movement is ranked", () => {
+  const two = week([BENCH, CURL])
+  const out = outIn(two.movements, new Set(["h-push"]), new Set())
+  expect(offerOf(two, KIT, BOTH, 6, 12, 0, out)?.movement).toBe("hammer-curls")
 })
 
-test("a movement Alan may not perform is gone before any movement is ranked", () => {
-  const curl = movement("hammer-curls", { muscles: ["biceps"], pattern: "isolation-other" })
-  const marks = new Map<string, Mark>([
-    ["dumbbell-bench-press", { sets: 16, weight: 30, reps: 20 }],
-    ["hammer-curls", { sets: 5, weight: 15, reps: 15 }],
+test("a movement is dropped when that movement stops progressing", () => {
+  const marks = new Map([["dumbbell-bench-press", mark({ staleBouts: 3, lastOn: "2026-08-10" })]])
+  expect(droppedIn(marks, week([BENCH]).movements, 3)).toEqual(new Set(["dumbbell-bench-press"]))
+})
+
+test("a movement short of that many bouts is kept however long ago it was", () => {
+  const marks = new Map([["dumbbell-bench-press", mark({ staleBouts: 2, lastOn: "2026-01-01" })]])
+  expect(droppedIn(marks, week([BENCH]).movements, 3).size).toBe(0)
+})
+
+test("a dropped movement is offered again once its pattern has progressed elsewhere", () => {
+  const fresh = movement("incline-dumbbell-press")
+  const marks = new Map([
+    ["dumbbell-bench-press", mark({ staleBouts: 3, lastOn: "2026-06-29" })],
+    ["incline-dumbbell-press", mark({ bestOn: "2026-07-10", lastOn: "2026-07-10" })],
   ])
-  const offer = offerOf(week([BENCH, curl]), KIT, marks, 6, 12, 0, new Set(["h-push"]))
-  expect(offer?.movement).toBe("hammer-curls")
+  expect(droppedIn(marks, week([BENCH, fresh]).movements, 3).size).toBe(0)
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {
