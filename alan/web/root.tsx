@@ -69,6 +69,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
     /^\/api\/tracking\/active-energy$/,
     /^\/api\/tracking\/health-samples$/,
     /^\/api\/sms\/webhook$/,
+    /^\/api\/stripe\/webhook$/,
     /^\/api\/sms\/opt-in$/,
     /^\/api\/sms\/verification-status$/,
     /^\/$/,

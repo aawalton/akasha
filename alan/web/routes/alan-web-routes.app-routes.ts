@@ -62,6 +62,7 @@ export const alanWebRoutes = {
     "route/surplus",
     "route/wallpaper",
     "route/widget-tap",
+    "route/alan-web-api-stripe-webhook",
   ],
   decisions: [
     {

@@ -1191,6 +1191,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts","id":"01a08836-b1d8-7284-9c85-85d40203b334"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","id":"01a090d4-4959-7068-b799-d973b6d7993e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.ts","id":"01a08830-10e1-711f-916e-888aba8c6066"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.ts","id":"01a0ba9c-04fb-7a10-9331-ba1d5382ec7a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.ts","id":"01a08835-7148-7ce8-968b-e46434e1f048"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.ts","id":"01a08828-5d45-7bd8-a16d-6e8d242d8a4c"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-home/alan-web-home.route.ts","id":"01a08830-7db2-77e4-a5d5-9c29796416ef"}

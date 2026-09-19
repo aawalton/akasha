@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/wallpaper/wallpaper.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.code.ts"}

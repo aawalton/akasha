@@ -52,6 +52,10 @@ export default [
     "routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"
   ),
   route(
+    "api/stripe/webhook",
+    "routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"
+  ),
+  route(
     "api/spotify/callback",
     "routes/alan-web-api-spotify-callback/alan-web-api-spotify-callback.route.code.ts"
   ),

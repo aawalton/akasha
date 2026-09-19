@@ -510,6 +510,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.ts","id":"01a0655d-dab9-72ea-9ecc-aad82b9431df"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts","id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","id":"01a090d4-4959-7068-b799-d973b6d7993e"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.ts","id":"01a0ba9c-04fb-7a10-9331-ba1d5382ec7a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.ts","id":"01a08828-5d45-7bd8-a16d-6e8d242d8a4c"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/no-such-route/no-such-route.route.ts","id":"01a072dd-d488-7e97-b669-7076f6de9c20"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/wallpaper/wallpaper.route.ts","id":"01a07855-477e-7aa1-8183-3cb381287569"}
