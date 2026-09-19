@@ -12,6 +12,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
+  dayOf,
   type Movement,
   nearFailureIn,
   type TrainingWeek,
@@ -155,7 +156,7 @@ export function marksIn(
   const days = new Map<string, Set<string>>()
   const held = new Map<string, Mark>()
   for (const one of sets) {
-    const on = textAt(one, "setLogDate")
+    const on = dayOf(one)
     const named = slugAt(one, "exercise")
     if (on === null || named === null || on > before) continue
     if (!nearFailureIn(one, nearFailure)) continue
@@ -225,7 +226,7 @@ export function outIn(
 export function performedOn(sets: readonly Value[], day: string): ReadonlySet<string> {
   const named = new Set<string>()
   for (const one of sets) {
-    if (textAt(one, "setLogDate") !== day) continue
+    if (dayOf(one) !== day) continue
     const slug = slugAt(one, "exercise")
     if (slug !== null) named.add(slug)
   }
@@ -239,7 +240,7 @@ export function doneOn(
 ): readonly string[] {
   const named: string[] = []
   for (const one of sets) {
-    if (textAt(one, "setLogDate") !== day || !nearFailureIn(one, nearFailure)) continue
+    if (dayOf(one) !== day || !nearFailureIn(one, nearFailure)) continue
     const slug = slugAt(one, "exercise")
     if (slug !== null) named.push(slug)
   }

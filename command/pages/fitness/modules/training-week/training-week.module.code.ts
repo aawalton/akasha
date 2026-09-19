@@ -21,6 +21,8 @@ const DAYS = 7
 
 const WARMUP = "isWarmup"
 
+const DAY = "day-"
+
 export type Movement = {
   readonly slug: string
   readonly title: string | null
@@ -74,6 +76,11 @@ export function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Moveme
   return held
 }
 
+export function dayOf(one: Value): string | null {
+  const named = slugAt(one, "day")
+  return named === null || !named.startsWith(DAY) ? null : named.slice(DAY.length)
+}
+
 export function nearFailureIn(one: Value, nearFailure: number): boolean {
   const effort = numberAt(one, "rpe")
   return one[WARMUP] !== true && effort !== null && effort >= nearFailure
@@ -91,7 +98,7 @@ export function tallyOf(
   let counted = 0
   let passed = 0
   for (const one of sets) {
-    const on = textAt(one, "setLogDate")
+    const on = dayOf(one)
     if (on === null || on < from || on > to) continue
     const named = slugAt(one, "exercise")
     const movement = named === null ? undefined : movements.get(named)

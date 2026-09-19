@@ -28,5 +28,9 @@ export const trainingWeek = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says what a count is owed against.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day a set falls on is read from the day that set names.",
+    },
   ],
 } as const satisfies Module

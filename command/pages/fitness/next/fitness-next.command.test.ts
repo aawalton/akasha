@@ -279,7 +279,7 @@ test("a movement with no working weight yet is warmed up with easy reps and no l
 })
 
 test("a set logged today counts as performed whether it was a warmup or not", () => {
-  const sets = [{ setLogDate: "2026-09-18", exercise: "dumbbell-bench-press", isWarmup: true }]
+  const sets = [{ day: "day/day-2026-09-18", exercise: "dumbbell-bench-press", isWarmup: true }]
   expect(performedOn(sets, "2026-09-18")).toEqual(new Set(["dumbbell-bench-press"]))
   expect(performedOn(sets, "2026-09-17").size).toBe(0)
 })

@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  dayOf,
   type Movement,
   openedOn,
   tallyOf,
@@ -21,7 +22,7 @@ const MOVEMENTS = new Map<string, Movement>([[BENCH.slug, BENCH]])
 
 function set(on: string, rpe: number | null, warmup = false): Value {
   const made: Record<string, unknown> = {
-    setLogDate: on,
+    day: `day/day-${on}`,
     exercise: "strength-exercise/dumbbell-bench-press",
   }
   if (rpe !== null) made.rpe = rpe
@@ -72,7 +73,7 @@ test("a warmup set is passed over", () => {
 
 test("a set naming a movement this does not know is passed over", () => {
   const stray: Value = {
-    setLogDate: "2026-08-10",
+    day: "day/day-2026-08-10",
     exercise: "strength-exercise/nothing-here",
     rpe: 9,
   }
@@ -85,4 +86,9 @@ test("a set outside the window is neither counted nor passed over", () => {
   const held = tally([set("2026-08-03", 8)])
   expect(held.counted).toBe(0)
   expect(held.passed).toBe(0)
+})
+
+test("the day a set falls on is read from the day that set names", () => {
+  expect(dayOf({ day: "day/day-2026-08-10" })).toBe("2026-08-10")
+  expect(dayOf({})).toBe(null)
 })
