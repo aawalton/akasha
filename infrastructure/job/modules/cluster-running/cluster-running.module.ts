@@ -20,7 +20,15 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether origin carries the commit is asked again whether the push won or lost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A commit origin still does not carry after the push refuses the run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A push that lost to another writer of the same commit refuses nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

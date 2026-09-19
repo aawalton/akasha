@@ -208,10 +208,10 @@ export function carriedAt(
   if ("why" in carried) return carried.why
   if (carried.carried) return null
   const pushed = pushing(root)
-  if (pushed.failed) return `origin does not carry ${commit} and ${pushed.line}`
   const again = carrying(root, commit)
   if ("why" in again) return again.why
   if (again.carried) return null
+  if (pushed.failed) return `origin does not carry ${commit} and ${pushed.line}`
   return `origin does not carry ${commit}, so no job in the cluster can read it`
 }
 

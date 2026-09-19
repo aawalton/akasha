@@ -177,6 +177,16 @@ test("a push that failed refuses the run and says what the push said", () => {
   expect(why).toContain("refused")
 })
 
+test("a push another writer of that commit won leaves the commit carried", () => {
+  let asked = 0
+  const carriedAfter = (): { readonly carried: boolean } => {
+    asked += 1
+    return { carried: asked > 1 }
+  }
+  expect(carriedAt(ROOT, COMMIT, carriedAfter, refusedPush)).toBe(null)
+  expect(asked).toBe(2)
+})
+
 test("a commit origin carries is applied and then waited on", async () => {
   const held = capturing()
   const said = await jobRan(ROOT, COMMIT, NAME, YAML, 1, held.running, carried, pushed)
