@@ -1,4 +1,5 @@
-{"externalIdentity":[{"source":"spotify","externalId":"03dXd2zBbBJvX60Oap8Lgo","externalLink":"https://open.spotify.com/artist/03dXd2zBbBJvX60Oap8Lgo","lastSyncedAt":"2026-09-15"}]}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"7fcc0427-9092-42d7-8011-ab96b6432b3f","externalLink":"https://musicbrainz.org/artist/7fcc0427-9092-42d7-8011-ab96b6432b3f","lastSyncedAt":"2026-09-19"},{"source":"spotify","externalId":"03dXd2zBbBJvX60Oap8Lgo","externalLink":"https://open.spotify.com/artist/03dXd2zBbBJvX60Oap8Lgo","lastSyncedAt":"2026-09-15"}]}
+{"genre":["pop","singer-songwriter"]}
 {"id":"01a06803-676c-700a-a8bc-f7583737dc27"}
 {"ownLength":0}
 {"ownProgress":0}

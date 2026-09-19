@@ -13,6 +13,12 @@ export const sylviaDaley = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "7fcc0427-9092-42d7-8011-ab96b6432b3f",
+      externalLink: "https://musicbrainz.org/artist/7fcc0427-9092-42d7-8011-ab96b6432b3f",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "03dXd2zBbBJvX60Oap8Lgo",
       externalLink: "https://open.spotify.com/artist/03dXd2zBbBJvX60Oap8Lgo",
@@ -20,4 +26,5 @@ export const sylviaDaley = {
     },
   ],
   title: "Sylvia Daley",
+  genre: ["pop", "singer-songwriter"],
 } as const satisfies Artist
