@@ -1,2 +1,2 @@
-{"propertySlug":"argument","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
-{"propertySlug":"import","fileName":"json-one-line.argument.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
+{"propertySlug":"argument","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
+{"propertySlug":"import","fileName":"json-one-line.argument.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}

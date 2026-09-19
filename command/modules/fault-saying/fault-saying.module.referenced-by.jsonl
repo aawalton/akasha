@@ -63,10 +63,10 @@
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"}
-{"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}

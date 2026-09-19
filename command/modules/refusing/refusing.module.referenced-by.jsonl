@@ -106,8 +106,8 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}

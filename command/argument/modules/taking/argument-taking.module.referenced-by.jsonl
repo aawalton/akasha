@@ -233,6 +233,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.test.ts"}
@@ -240,7 +241,6 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.code.ts"}
-{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}

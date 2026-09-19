@@ -1,9 +1,9 @@
 import type { Command } from "akasha/command/command.page-type.types.ts"
 
-export const temperInventorySnapshot = {
+export const temperInventoryReading = {
   id: "01a0603c-c1d9-7ef8-acb9-f19095076d6e",
   type: "page-type/command",
-  slug: "temper-inventory-snapshot",
+  slug: "temper-inventory-reading",
   definition: "the command giving back the inventory an account holds as one whole record",
   code: "ts",
   test: "ts",
@@ -33,6 +33,6 @@ export const temperInventorySnapshot = {
       statement: "So `--json` here takes the indenting off rather than choosing JSON.",
     },
   ],
-  name: "snapshot",
+  name: "reading",
   arguments: [{ argument: "argument/output" }, { argument: "argument/json-one-line" }],
 } as const satisfies Command

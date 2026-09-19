@@ -13,7 +13,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { temperInventorySnapshot as page } from "akasha/command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts"
+import { temperInventoryReading as page } from "akasha/command/pages/temper/inventory/reading/temper-inventory-reading.command.ts"
 import {
   accountInventory,
   inventoryDatabase,
@@ -25,7 +25,7 @@ const SPACES = 2
 
 const PAGE_TYPE = "temper-account"
 
-export async function temperInventorySnapshot(
+export async function temperInventoryReading(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {

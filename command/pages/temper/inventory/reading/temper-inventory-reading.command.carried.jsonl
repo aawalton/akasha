@@ -3,7 +3,7 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account holds one inventory, in one data file beside the account's own page."},{"decisionKind":"decision-kind/departure","statement":"The account read is the one the call runs as."},{"decisionKind":"decision-kind/departure","statement":"An account with no data file refuses the call."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the page store over the network."},{"decisionKind":"decision-kind/stopgap","statement":"The record is answered as JSON whether or not `--json` is said."},{"decisionKind":"decision-kind/stopgap","statement":"So `--json` here takes the indenting off rather than choosing JSON."}]}
 {"definition":"the command giving back the inventory an account holds as one whole record"}
 {"id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
-{"name":"snapshot"}
-{"slug":"temper-inventory-snapshot"}
+{"name":"reading"}
+{"slug":"temper-inventory-reading"}
 {"test":"ts"}
 {"type":"page-type/command"}

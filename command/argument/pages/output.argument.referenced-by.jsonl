@@ -14,7 +14,7 @@
 {"propertySlug":"argument","path":"command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts","id":"01a0685d-ceae-700b-913b-dbf3c509a388"}
 {"propertySlug":"argument","path":"command/pages/talos/config-gen/talos-config-gen.command.ts","id":"01a06809-a024-740f-b1cb-f3271877bd51"}
 {"propertySlug":"argument","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.ts","id":"01a06810-1f0b-744f-aff5-3618b540bf6c"}
-{"propertySlug":"argument","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
+{"propertySlug":"argument","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/alan/picture/alan-picture.command.code.ts"}
 {"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"}
 {"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/google/drive/fetch/google-drive-fetch.command.code.ts"}
@@ -33,4 +33,4 @@
 {"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}
 {"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.test.ts"}
 {"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts"}
-{"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
+{"propertySlug":"import","fileName":"output.argument.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}

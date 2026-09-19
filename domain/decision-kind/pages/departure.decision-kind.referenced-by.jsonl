@@ -2243,6 +2243,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.ts","id":"01a09b55-1b5c-74af-9384-4db91fda4e9b"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.ts","id":"01a0603c-c1d6-73fa-8ab1-b6d5deb216e2"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.ts","id":"01a0603c-c1d6-7f83-b8aa-93c9e3917440"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.ts","id":"01a0603c-c1d6-752a-86f1-3c9eca4b7916"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts","id":"01a0603c-c1d6-798f-a6d9-f51d3fc000f9"}
@@ -2255,7 +2256,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.ts","id":"01a0959d-e8ec-72b0-95be-efffc8405b8a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.ts","id":"01a0603c-c1d8-788c-b8ed-bed2e9c842df"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.ts","id":"01a0603c-c1d9-7f77-bcad-d46ad5150baa"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.ts","id":"01a09b33-22e4-76f4-8c16-420d5f6923df"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.ts","id":"01a061f6-390b-72a7-97b3-528d057fbbf4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts","id":"01a0603c-c1da-795b-8baf-e00c1b4eb588"}

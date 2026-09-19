@@ -478,6 +478,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.code.ts"}
@@ -498,8 +500,6 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.test.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.test.ts"}
