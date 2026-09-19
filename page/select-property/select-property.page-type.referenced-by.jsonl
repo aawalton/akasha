@@ -52,10 +52,10 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/track/to-do/properties/difficulty.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-category.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-priority.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/coaching-schedule/day/properties/day-of-week.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/coaching-schedule/day/properties/focus.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/focus-tags.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/day/properties/day-of-week.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/day/properties/focus.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-category.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-configuration.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/context.select-property.ts"}

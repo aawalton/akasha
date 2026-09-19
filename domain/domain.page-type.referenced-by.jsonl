@@ -261,8 +261,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/track/daily/track-daily.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/track/track.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/track/tracking-capture/tracking-capture.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/coaching/coaching-schedule/coaching-schedule.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/coaching/fitness-coaching.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/schedule.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/fitness.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/flexibility/flexibility.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.types.ts"}

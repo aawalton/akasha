@@ -189,9 +189,9 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/tracking-entry-session/tracking-entry-session.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/tracking-entry/tracking-entry.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/track/tracking-field/tracking-field.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/coaching/coaching-schedule/day/coaching-schedule-day.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/coaching/movement-restriction/movement-restriction.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/fitness-coaching-note.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/day/schedule-day.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts"}

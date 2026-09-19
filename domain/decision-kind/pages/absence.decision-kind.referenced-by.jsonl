@@ -490,7 +490,7 @@
 {"propertySlug":"decision-kind","path":"alan/track/tracking-capture/tracking-capture.page-type.ts","id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-entry/tracking-entry.page-type.ts","id":"01a06827-ec0c-7c96-bc4a-ca5b59f6b38f"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
-{"propertySlug":"decision-kind","path":"alan/value/health/fitness/coaching/coaching-schedule/day/coaching-schedule-day.page-type.ts","id":"01a0657a-e62d-71ab-9830-6a438684618d"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/coaching/schedule/day/schedule-day.page-type.ts","id":"01a0657a-e62d-71ab-9830-6a438684618d"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","id":"01a06558-36e9-75e2-bcf3-ce91fd6e945b"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","id":"01a06838-7a9d-7d0a-8e41-674ebea29caf"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/decline/strength-decline.page-type.ts","id":"01a0b71d-29d7-78fa-a2fa-467c181aa8d2"}
