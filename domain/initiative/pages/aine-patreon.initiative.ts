@@ -34,8 +34,8 @@ export const ainePatreon = {
   ],
   constraints: [
     "Each product carries a brand of its own and calls for backing on the one shared Patreon.",
-    "A backer's points are one pool across every product, and every reading of those points is filtered to one product.",
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
     "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
+    "A contributor's contribution points are one pool across every product, and every reading of them is filtered to one product.",
   ],
 } as const satisfies Initiative
