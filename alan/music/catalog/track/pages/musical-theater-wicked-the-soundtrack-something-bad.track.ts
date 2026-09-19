@@ -26,4 +26,5 @@ export const musicalTheaterWickedTheSoundtrackSomethingBad = {
     { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
   ],
   trackKey: "somethingbad|0pHTIdyC4DAsoMhpSufQaz,46UMQ0cW8ToR8egkBRwAxZ|108300",
+  song: "song/peter-dinklage-something-bad",
 } as const satisfies Track

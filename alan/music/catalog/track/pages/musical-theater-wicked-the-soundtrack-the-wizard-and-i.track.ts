@@ -26,4 +26,5 @@ export const musicalTheaterWickedTheSoundtrackTheWizardAndI = {
     { externalId: "5IaJcuBeBkVqhGAzxMciwu", artistName: "Michelle Yeoh" },
   ],
   trackKey: "thewizardandi|46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu|336858",
+  song: "song/cynthia-erivo-the-wizard-and-i",
 } as const satisfies Track

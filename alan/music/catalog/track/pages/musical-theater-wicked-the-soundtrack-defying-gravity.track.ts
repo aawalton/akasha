@@ -26,4 +26,5 @@ export const musicalTheaterWickedTheSoundtrackDefyingGravity = {
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
   ],
   trackKey: "defyinggravity|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|459766",
+  song: "song/cynthia-erivo-defying-gravity",
 } as const satisfies Track

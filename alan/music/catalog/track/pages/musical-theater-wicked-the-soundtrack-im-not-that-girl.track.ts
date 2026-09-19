@@ -23,4 +23,5 @@ export const musicalTheaterWickedTheSoundtrackImNotThatGirl = {
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "imnotthatgirl|46UMQ0cW8ToR8egkBRwAxZ|237043",
+  song: "song/cynthia-erivo-im-not-that-girl",
 } as const satisfies Track

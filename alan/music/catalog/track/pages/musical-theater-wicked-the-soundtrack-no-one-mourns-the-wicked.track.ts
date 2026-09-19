@@ -32,4 +32,5 @@ export const musicalTheaterWickedTheSoundtrackNoOneMournsTheWicked = {
   ],
   trackKey:
     "noonemournsthewicked|0O1n2TpXR4XizmHi7aY0l8,0Udc6D0PcIN5F0q7pAlDH8,2y7iH38SZLD6dIERt3Y1zD,3UgqKykDMxZdp9fhBkQFVr,3eLZo1bSslvsu0zNhtmMM4,66CXWjxzNUsdJxJ2JdwvnR,66HrXY5d6DerEK3QCcKO6H|447991",
+  song: "song/wicked-movie-cast-no-one-mourns-the-wicked",
 } as const satisfies Track

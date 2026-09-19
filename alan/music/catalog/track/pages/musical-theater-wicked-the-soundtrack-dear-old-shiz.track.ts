@@ -28,4 +28,5 @@ export const musicalTheaterWickedTheSoundtrackDearOldShiz = {
   ],
   trackKey:
     "dearoldshiz|32zfWhZAXwCpm5edh16fqj,3eLZo1bSslvsu0zNhtmMM4,66CXWjxzNUsdJxJ2JdwvnR|71734",
+  song: "song/wicked-movie-cast-dear-old-shiz",
 } as const satisfies Track
