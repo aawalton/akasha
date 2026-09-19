@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ef4f90e1-ba3b-3a4b-9fa0-c86a2af5cfe1","externalLink":"https://musicbrainz.org/work/ef4f90e1-ba3b-3a4b-9fa0-c86a2af5cfe1","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba5d-4994-70a5-864b-3dd5470d2089"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-cemeteries-of-london"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"Cemeteries of London"}
+{"type":"page-type/song"}

@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"b842cf97-580e-42d5-9aa3-49c9a0a7dbdb","externalLink":"https://musicbrainz.org/work/b842cf97-580e-42d5-9aa3-49c9a0a7dbdb","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba5d-450d-727c-ba15-868848460e15"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-church"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"Church"}
+{"type":"page-type/song"}

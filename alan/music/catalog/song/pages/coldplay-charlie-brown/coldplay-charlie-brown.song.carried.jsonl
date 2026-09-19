@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"d9f1f42e-b67b-4c35-bb12-cdb0efe5a110","externalLink":"https://musicbrainz.org/work/d9f1f42e-b67b-4c35-bb12-cdb0efe5a110","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba5d-47fa-788f-a2ae-6c65ace9eaa3"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-charlie-brown"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"Charlie Brown"}
+{"type":"page-type/song"}

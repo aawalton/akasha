@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"50345b75-70d9-3d67-b07d-1254d275ee7d","externalLink":"https://musicbrainz.org/work/50345b75-70d9-3d67-b07d-1254d275ee7d","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba5d-4fd9-7046-b252-c5c3496fd29c"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-lost"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"Lost!"}
+{"type":"page-type/song"}

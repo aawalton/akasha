@@ -14,6 +14,12 @@ export const coldplay = {
   unit: "unit/minutes",
   externalIdentity: [
     {
+      source: "musicbrainz",
+      externalId: "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      externalLink: "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      lastSyncedAt: "2026-09-19",
+    },
+    {
       source: "spotify",
       externalId: "4gzpq5DPGxSnKTe4SA8HAU",
       externalLink: "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
@@ -21,4 +27,14 @@ export const coldplay = {
     },
   ],
   title: "Coldplay",
+  genre: [
+    "alternative rock",
+    "pop",
+    "pop rock",
+    "rock",
+    "post-britpop",
+    "piano rock",
+    "art pop",
+    "britpop",
+  ],
 } as const satisfies Artist

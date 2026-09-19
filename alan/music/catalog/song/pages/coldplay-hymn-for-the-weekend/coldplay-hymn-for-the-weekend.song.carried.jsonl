@@ -1,0 +1,11 @@
+{"artist":"artist/coldplay"}
+{"externalIdentity":[{"source":"musicbrainz","externalId":"ebc9d6c1-a8bc-4c76-ba1b-c6a4ebfd7e3f","externalLink":"https://musicbrainz.org/work/ebc9d6c1-a8bc-4c76-ba1b-c6a4ebfd7e3f","lastSyncedAt":"2026-09-19"}]}
+{"id":"01a0ba5d-4968-7343-8633-83b99f82e268"}
+{"lyrics":"txt"}
+{"lyricsSource":"lrclib"}
+{"performed":true}
+{"slug":"coldplay-hymn-for-the-weekend"}
+{"songType":"derivative"}
+{"syncedLyrics":"txt"}
+{"title":"Hymn for the Weekend"}
+{"type":"page-type/song"}
