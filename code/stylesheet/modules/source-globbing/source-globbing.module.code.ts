@@ -51,6 +51,7 @@ function everyIn(change: Change): readonly string[] {
 }
 
 function styledName(path: string): boolean {
+  if (!path.includes(STYLESHEET)) return false
   const said = partedIn(path)
   if (said === null || said.pageType !== STYLESHEET) return false
   return said.sections.length === 1 && said.sections[0] === STYLES
@@ -143,7 +144,7 @@ function globbedOver(change: Change): Globbed {
     if (css === null || !isEntry(css)) continue
     const app = appFor(at, roots)
     if (app === null) continue
-    const seeds = every.filter((one) => typeScripted(one) && one.startsWith(`${app}/`))
+    const seeds = every.filter((one) => one.startsWith(`${app}/`) && typeScripted(one))
     const reached = closureOf(imports, seeds, {
       index,
       bodyAt,
