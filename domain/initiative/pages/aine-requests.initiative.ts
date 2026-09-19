@@ -13,5 +13,9 @@ export const aineRequests = {
         "Every product serves the feature requests for that product at `requests` under its own domain.",
     },
     { statement: "Every feature Alan already means to build is a published feature request." },
+    {
+      statement:
+        "A feature request names each contributor backing it and the points committed, most first.",
+    },
   ],
 } as const satisfies Initiative

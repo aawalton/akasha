@@ -20,10 +20,6 @@ export const aineContribution = {
       statement:
         "A command completes a feature request and burns its contribution points, or denies it and refunds.",
     },
-    {
-      statement:
-        "A feature request names each contributor backing it and the points committed, most first.",
-    },
     { statement: "An account newly made holds a hundred contribution points." },
   ],
   constraints: [

@@ -1,6 +1,6 @@
 {"domain":"domain/feature-request"}
 {"id":"01a0b79c-7791-7361-9dfd-ddc209fb5fee"}
-{"intentStack":[{"statement":"Every feature request is a page naming the product that request is for."},{"statement":"Every product serves the feature requests for that product at `requests` under its own domain."},{"statement":"Every feature Alan already means to build is a published feature request."}]}
+{"intentStack":[{"statement":"Every feature request is a page naming the product that request is for."},{"statement":"Every product serves the feature requests for that product at `requests` under its own domain."},{"statement":"Every feature Alan already means to build is a published feature request."},{"statement":"A feature request names each contributor backing it and the points committed, most first."}]}
 {"persona":"persona/aine"}
 {"slug":"aine-requests"}
 {"type":"page-type/initiative"}
