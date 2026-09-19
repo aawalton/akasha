@@ -49,7 +49,6 @@ const SHAPE: Shape = {
   propertySlug: "holder",
   fileName: null,
   folderName: null,
-  sorted: false,
 }
 
 const SHAPES = new Map([["relation-property/holder", SHAPE]])
@@ -63,16 +62,15 @@ test("a path that is no TypeScript file has nothing beside it", () => {
 })
 
 test("a line carries what the property's own page says", () => {
-  const one = carryingOf(HOLDER, { ...SHAPE, sorted: true })
-  expect(one.targetPageTypeSlug).toBe("person")
+  const one = carryingOf(HOLDER, { ...SHAPE, targetPageTypeSlug: "persona" })
+  expect(one.targetPageTypeSlug).toBe("persona")
   expect(one.fileName).toBeNull()
-  expect(one.sorted).toBe(true)
 })
 
 test("a property the shapes do not name carries nothing of that property's own page", () => {
   const one = carryingOf(SLUG, undefined)
   expect(one.targetPageTypeSlug).toBeNull()
-  expect(one.sorted).toBe(false)
+  expect(one.fileName).toBeNull()
 })
 
 test("a line carries what the declaration says", () => {

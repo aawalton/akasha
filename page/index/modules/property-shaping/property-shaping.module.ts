@@ -43,11 +43,7 @@ export const propertyShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shape says whether its property keeps its values in the order they sort in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A property saying nothing about that order says false here rather than nothing.",
+      statement: "A field the property's page states nothing under is carried as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

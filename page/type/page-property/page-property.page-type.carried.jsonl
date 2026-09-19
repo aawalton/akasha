@@ -2,9 +2,9 @@
 {"definition":"one value a page carries"}
 {"extends":["page-type/domain"]}
 {"id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
-{"parts":["boolean-property/holds-bytes","boolean-property/nullable","boolean-property/quoted","boolean-property/runs-file-length","boolean-property/sorted","module/property-shape","number-property/max-count","number-property/max-length","relation-property/generator","relation-property/unique","relation-property/unique-property","text-property/property-slug"]}
+{"parts":["boolean-property/holds-bytes","boolean-property/nullable","boolean-property/quoted","boolean-property/runs-file-length","module/property-shape","number-property/max-count","number-property/max-length","relation-property/generator","relation-property/unique","relation-property/unique-property","text-property/property-slug"]}
 {"pluralSlug":"properties"}
-{"properties":[{"pageProperty":"text-property/property-slug","required":true,"many":false},{"pageProperty":"relation-property/generator","required":false,"many":false},{"pageProperty":"relation-property/unique","required":false,"many":false},{"pageProperty":"relation-property/unique-property","required":false,"many":false},{"pageProperty":"file-property/types","required":false,"many":false},{"pageProperty":"boolean-property/nullable","required":false,"many":false},{"pageProperty":"boolean-property/sorted","required":false,"many":false},{"pageProperty":"boolean-property/quoted","required":false,"many":false}]}
+{"properties":[{"pageProperty":"text-property/property-slug","required":true,"many":false},{"pageProperty":"relation-property/generator","required":false,"many":false},{"pageProperty":"relation-property/unique","required":false,"many":false},{"pageProperty":"relation-property/unique-property","required":false,"many":false},{"pageProperty":"file-property/types","required":false,"many":false},{"pageProperty":"boolean-property/nullable","required":false,"many":false},{"pageProperty":"boolean-property/quoted","required":false,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"page-property"}
 {"type":"page-type/page-type"}

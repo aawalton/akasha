@@ -218,7 +218,6 @@ function shaping(pageTypeSlug: string, slug: string): Shape {
     propertySlug: slug,
     fileName: null,
     folderName: null,
-    sorted: false,
   }
 }
 

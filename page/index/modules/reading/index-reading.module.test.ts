@@ -222,7 +222,6 @@ test("a fixture writes a shape into the file beside that property's page type", 
         propertySlug: "held",
         fileName: null,
         folderName: null,
-        sorted: false,
       },
     ])
   )

@@ -36,7 +36,6 @@ test("a page property's shape is read off its own value", () => {
     propertySlug: "persona",
     fileName: null,
     folderName: null,
-    sorted: false,
   })
 })
 

@@ -34,7 +34,6 @@ export function shapedIn(value: Value): Shape | null {
     propertySlug,
     fileName: textAt(value, "fileName"),
     folderName: textAt(value, "folderName"),
-    sorted: value["sorted"] === true,
   }
   return endingHeld(held, textAt(value, ENDING_NAME))
 }
@@ -61,7 +60,6 @@ export function shapeIn(line: string): Shape | null {
     propertySlug,
     fileName: textAt(held, "fileName"),
     folderName: textAt(held, "folderName"),
-    sorted: held["sorted"] === true,
   }
   return endingHeld(shape, textAt(held, ENDING_NAME))
 }

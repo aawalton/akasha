@@ -82,7 +82,6 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/nullable.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/quoted.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/runs-file-length.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/sorted.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/allows-tmp-paths.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/drawn-offline.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/frame-edge-to-edge.boolean-property.ts"}

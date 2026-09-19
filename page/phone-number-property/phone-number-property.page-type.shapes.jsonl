@@ -1,4 +1,4 @@
-{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"phone","propertySlug":"phone","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-phone","propertySlug":"relationship-phone","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sms-consent-phone","propertySlug":"phone","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"telnyx-account-from-number","propertySlug":"from-number","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"phone","propertySlug":"phone","fileName":null,"folderName":null}
+{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-phone","propertySlug":"relationship-phone","fileName":null,"folderName":null}
+{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sms-consent-phone","propertySlug":"phone","fileName":null,"folderName":null}
+{"pageTypeSlug":"phone-number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"telnyx-account-from-number","propertySlug":"from-number","fileName":null,"folderName":null}
