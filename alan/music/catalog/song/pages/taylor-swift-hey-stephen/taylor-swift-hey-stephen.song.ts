@@ -14,7 +14,6 @@ export const taylorSwiftHeyStephen = {
   ],
   title: "Hey Stephen",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

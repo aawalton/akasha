@@ -16,7 +16,6 @@ export const taylorSwiftMastermind = {
   ],
   title: "Mastermind",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

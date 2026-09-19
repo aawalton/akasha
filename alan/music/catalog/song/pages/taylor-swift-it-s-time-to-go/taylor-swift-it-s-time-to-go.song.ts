@@ -14,7 +14,6 @@ export const taylorSwiftItSTimeToGo = {
   ],
   title: "it’s time to go",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

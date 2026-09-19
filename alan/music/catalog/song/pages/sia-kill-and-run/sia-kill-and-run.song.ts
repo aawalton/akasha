@@ -14,7 +14,6 @@ export const siaKillAndRun = {
   ],
   title: "Kill and Run",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

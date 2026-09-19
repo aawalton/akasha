@@ -14,7 +14,6 @@ export const siaButtons = {
   ],
   title: "Buttons",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

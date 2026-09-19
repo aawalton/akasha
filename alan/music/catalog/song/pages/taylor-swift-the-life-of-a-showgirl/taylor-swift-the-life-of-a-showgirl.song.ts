@@ -15,7 +15,6 @@ export const taylorSwiftTheLifeOfAShowgirl = {
   ],
   title: "The Life of a Showgirl",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

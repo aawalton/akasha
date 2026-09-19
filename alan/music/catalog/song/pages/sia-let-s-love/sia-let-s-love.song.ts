@@ -14,7 +14,6 @@ export const siaLetSLove = {
   ],
   title: "Let’s Love",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

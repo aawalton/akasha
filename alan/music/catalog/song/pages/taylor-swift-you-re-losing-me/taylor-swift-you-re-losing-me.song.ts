@@ -14,7 +14,6 @@ export const taylorSwiftYouReLosingMe = {
   ],
   title: "You’re Losing Me",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

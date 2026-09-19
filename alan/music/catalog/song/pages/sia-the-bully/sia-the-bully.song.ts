@@ -14,7 +14,6 @@ export const siaTheBully = {
   ],
   title: "The Bully",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

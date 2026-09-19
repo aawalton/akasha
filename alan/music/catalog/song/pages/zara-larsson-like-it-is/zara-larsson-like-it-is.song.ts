@@ -14,7 +14,6 @@ export const zaraLarssonLikeItIs = {
   ],
   title: "Like It Is",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

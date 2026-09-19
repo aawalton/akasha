@@ -14,7 +14,6 @@ export const siaBeautifulCalmDriving = {
   ],
   title: "Beautiful Calm Driving",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

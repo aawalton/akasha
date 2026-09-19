@@ -14,7 +14,6 @@ export const taylorSwiftAPlaceInThisWorld = {
   ],
   title: "A Place in This World",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

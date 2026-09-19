@@ -14,7 +14,6 @@ export const siaSavedMyLife = {
   ],
   title: "Saved My Life",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftDelicate = {
   ],
   title: "Delicate",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftRed = {
   ],
   title: "Red",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

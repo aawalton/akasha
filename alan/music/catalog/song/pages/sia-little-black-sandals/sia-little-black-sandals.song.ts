@@ -14,7 +14,6 @@ export const siaLittleBlackSandals = {
   ],
   title: "Little Black Sandals",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

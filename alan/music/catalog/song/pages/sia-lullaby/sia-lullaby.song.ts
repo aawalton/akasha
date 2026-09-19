@@ -14,7 +14,6 @@ export const siaLullaby = {
   ],
   title: "Lullaby",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

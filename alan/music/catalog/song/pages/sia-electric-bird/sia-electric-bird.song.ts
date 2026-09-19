@@ -14,7 +14,6 @@ export const siaElectricBird = {
   ],
   title: "Electric Bird",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

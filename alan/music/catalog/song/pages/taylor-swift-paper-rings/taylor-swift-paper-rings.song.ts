@@ -14,7 +14,6 @@ export const taylorSwiftPaperRings = {
   ],
   title: "Paper Rings",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

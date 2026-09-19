@@ -14,7 +14,6 @@ export const taylorSwiftMyBoyOnlyBreaksHisFavoriteToys = {
   ],
   title: "My Boy Only Breaks His Favorite Toys",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const taylorSwiftForeverAlways = {
   ],
   title: "Forever & Always",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

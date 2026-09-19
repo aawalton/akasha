@@ -14,7 +14,6 @@ export const siaEverydayIsChristmas = {
   ],
   title: "Everyday Is Christmas",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

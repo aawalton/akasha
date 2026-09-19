@@ -14,7 +14,6 @@ export const siaPlayground = {
   ],
   title: "Playground",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

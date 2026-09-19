@@ -14,7 +14,6 @@ export const taylorSwiftThe1 = {
   ],
   title: "the 1",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

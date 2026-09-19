@@ -14,7 +14,6 @@ export const taylorSwiftOnlyTheYoung = {
   ],
   title: "Only the Young",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

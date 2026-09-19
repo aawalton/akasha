@@ -14,7 +14,6 @@ export const siaIMNotImportantToYou = {
   ],
   title: "I’m Not Important to You",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

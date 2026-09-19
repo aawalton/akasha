@@ -14,7 +14,6 @@ export const siaTogether = {
   ],
   title: "Together",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

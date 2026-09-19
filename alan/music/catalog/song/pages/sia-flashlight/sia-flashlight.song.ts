@@ -14,7 +14,6 @@ export const siaFlashlight = {
   ],
   title: "Flashlight",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

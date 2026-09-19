@@ -14,7 +14,6 @@ export const taylorSwiftYouLlAlwaysFindYourWayBackHome = {
   ],
   title: "You’ll Always Find Your Way Back Home",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

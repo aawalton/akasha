@@ -14,7 +14,6 @@ export const taylorSwiftIHateItHere = {
   ],
   title: "I Hate It Here",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

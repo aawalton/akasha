@@ -14,7 +14,6 @@ export const taylorSwiftThisIsWhyWeCanTHaveNiceThings = {
   ],
   title: "This Is Why We Can’t Have Nice Things",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

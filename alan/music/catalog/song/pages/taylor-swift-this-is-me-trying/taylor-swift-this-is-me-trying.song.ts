@@ -16,7 +16,6 @@ export const taylorSwiftThisIsMeTrying = {
   ],
   title: "this is me trying",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const sylviaDaleyNoiseCancellingHeadphones = {
   ],
   title: "Noise Cancelling Headphones",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

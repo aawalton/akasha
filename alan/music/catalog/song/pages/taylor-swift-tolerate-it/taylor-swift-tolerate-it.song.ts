@@ -14,7 +14,6 @@ export const taylorSwiftTolerateIt = {
   ],
   title: "tolerate it",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

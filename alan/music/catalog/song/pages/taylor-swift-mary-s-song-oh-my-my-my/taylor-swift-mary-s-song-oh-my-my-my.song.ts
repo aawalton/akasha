@@ -14,7 +14,6 @@ export const taylorSwiftMarySSongOhMyMyMy = {
   ],
   title: "Mary’s Song (Oh My My My)",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

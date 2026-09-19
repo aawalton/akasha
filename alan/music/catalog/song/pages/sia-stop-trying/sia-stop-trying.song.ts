@@ -14,7 +14,6 @@ export const siaStopTrying = {
   ],
   title: "Stop Trying",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

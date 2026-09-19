@@ -14,7 +14,6 @@ export const siaFistFightingASandstorm = {
   ],
   title: "Fist Fighting a Sandstorm",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

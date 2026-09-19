@@ -14,7 +14,6 @@ export const taylorSwiftMissAmericanaTheHeartbreakPrince = {
   ],
   title: "Miss Americana & the Heartbreak Prince",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaFreeTheAnimal = {
   ],
   title: "Free the Animal",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

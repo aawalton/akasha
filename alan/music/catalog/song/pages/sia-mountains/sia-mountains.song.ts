@@ -14,7 +14,6 @@ export const siaMountains = {
   ],
   title: "Mountains",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

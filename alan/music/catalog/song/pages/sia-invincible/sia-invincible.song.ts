@@ -15,7 +15,6 @@ export const siaInvincible = {
   ],
   title: "Invincible",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

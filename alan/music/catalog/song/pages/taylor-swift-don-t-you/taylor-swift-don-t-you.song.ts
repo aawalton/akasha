@@ -14,7 +14,6 @@ export const taylorSwiftDonTYou = {
   ],
   title: "Don’t You",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

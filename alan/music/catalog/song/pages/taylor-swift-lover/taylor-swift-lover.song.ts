@@ -14,7 +14,6 @@ export const taylorSwiftLover = {
   ],
   title: "Lover",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

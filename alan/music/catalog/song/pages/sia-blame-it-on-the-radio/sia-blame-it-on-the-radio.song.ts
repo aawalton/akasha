@@ -14,7 +14,6 @@ export const siaBlameItOnTheRadio = {
   ],
   title: "Blame It on the Radio",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

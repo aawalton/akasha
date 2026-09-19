@@ -14,7 +14,6 @@ export const siaUnderneathTheChristmasLights = {
   ],
   title: "Underneath the Christmas Lights",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

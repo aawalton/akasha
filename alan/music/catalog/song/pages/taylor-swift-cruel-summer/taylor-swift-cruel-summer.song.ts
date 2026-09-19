@@ -14,7 +14,6 @@ export const taylorSwiftCruelSummer = {
   ],
   title: "Cruel Summer",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

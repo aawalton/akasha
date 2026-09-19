@@ -14,7 +14,6 @@ export const siaConfetti = {
   ],
   title: "Confetti",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

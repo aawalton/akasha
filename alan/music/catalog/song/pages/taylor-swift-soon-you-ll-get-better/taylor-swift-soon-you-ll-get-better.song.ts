@@ -14,7 +14,6 @@ export const taylorSwiftSoonYouLlGetBetter = {
   ],
   title: "Soon You’ll Get Better",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

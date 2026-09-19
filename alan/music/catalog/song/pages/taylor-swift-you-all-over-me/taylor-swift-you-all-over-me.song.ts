@@ -14,7 +14,6 @@ export const taylorSwiftYouAllOverMe = {
   ],
   title: "You All Over Me",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

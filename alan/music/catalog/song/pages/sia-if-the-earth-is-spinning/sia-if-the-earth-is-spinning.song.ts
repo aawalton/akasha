@@ -14,7 +14,6 @@ export const siaIfTheEarthIsSpinning = {
   ],
   title: "If the Earth Is Spinning",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

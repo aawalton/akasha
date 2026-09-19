@@ -14,7 +14,6 @@ export const taylorSwiftSparksFly = {
   ],
   title: "Sparks Fly",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

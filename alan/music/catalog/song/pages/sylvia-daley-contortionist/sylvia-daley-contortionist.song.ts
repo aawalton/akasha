@@ -14,7 +14,6 @@ export const sylviaDaleyContortionist = {
   ],
   title: "Contortionist",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

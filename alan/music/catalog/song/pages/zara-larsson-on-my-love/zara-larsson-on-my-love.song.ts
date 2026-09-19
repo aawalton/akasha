@@ -14,7 +14,6 @@ export const zaraLarssonOnMyLove = {
   ],
   title: "On My Love",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

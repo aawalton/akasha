@@ -14,7 +14,6 @@ export const taylorSwiftTheStoryOfUs = {
   ],
   title: "The Story of Us",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

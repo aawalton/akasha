@@ -14,7 +14,6 @@ export const taylorSwiftNothingNew = {
   ],
   title: "Nothing New",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

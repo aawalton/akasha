@@ -14,7 +14,6 @@ export const taylorSwiftIfThisWasAMovie = {
   ],
   title: "If This Was a Movie",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

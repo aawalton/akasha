@@ -14,7 +14,6 @@ export const taylorSwiftBackToDecember = {
   ],
   title: "Back to December",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

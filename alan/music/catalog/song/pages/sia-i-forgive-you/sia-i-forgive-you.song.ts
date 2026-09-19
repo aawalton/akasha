@@ -14,7 +14,6 @@ export const siaIForgiveYou = {
   ],
   title: "I Forgive You",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

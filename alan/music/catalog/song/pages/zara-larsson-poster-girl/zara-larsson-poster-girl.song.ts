@@ -14,7 +14,6 @@ export const zaraLarssonPosterGirl = {
   ],
   title: "Poster Girl",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaChandelier = {
   ],
   title: "Chandelier",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

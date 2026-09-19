@@ -14,7 +14,6 @@ export const taylorSwiftKarma = {
   ],
   title: "Karma",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

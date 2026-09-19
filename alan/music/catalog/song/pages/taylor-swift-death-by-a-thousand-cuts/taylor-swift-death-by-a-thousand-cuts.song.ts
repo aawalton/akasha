@@ -14,7 +14,6 @@ export const taylorSwiftDeathByAThousandCuts = {
   ],
   title: "Death by a Thousand Cuts",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

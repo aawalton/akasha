@@ -14,7 +14,6 @@ export const taylorSwiftIDidSomethingBad = {
   ],
   title: "I Did Something Bad",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

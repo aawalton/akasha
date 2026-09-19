@@ -14,7 +14,6 @@ export const siaLittleMan = {
   ],
   title: "Little Man",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

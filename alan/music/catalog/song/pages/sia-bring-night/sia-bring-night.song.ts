@@ -14,7 +14,6 @@ export const siaBringNight = {
   ],
   title: "Bring Night",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

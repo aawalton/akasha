@@ -14,7 +14,6 @@ export const zaraLarssonHoldingOutForYou = {
   ],
   title: "Holding Out for You",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

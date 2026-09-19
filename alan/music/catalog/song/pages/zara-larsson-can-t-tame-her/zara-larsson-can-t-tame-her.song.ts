@@ -14,7 +14,6 @@ export const zaraLarssonCanTTameHer = {
   ],
   title: "Can’t Tame Her",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -16,7 +16,6 @@ export const siaBirdSetFree = {
   ],
   title: "Bird Set Free",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

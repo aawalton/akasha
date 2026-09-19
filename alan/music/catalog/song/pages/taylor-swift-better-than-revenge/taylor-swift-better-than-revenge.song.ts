@@ -14,7 +14,6 @@ export const taylorSwiftBetterThanRevenge = {
   ],
   title: "Better Than Revenge",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

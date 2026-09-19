@@ -14,7 +14,6 @@ export const taylorSwiftTheAlcott = {
   ],
   title: "The Alcott",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

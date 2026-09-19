@@ -14,7 +14,6 @@ export const siaBurnThePages = {
   ],
   title: "Burn the Pages",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

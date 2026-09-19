@@ -14,7 +14,6 @@ export const siaTakenForGranted = {
   ],
   title: "Taken for Granted",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const taylorSwiftILookInPeopleSWindows = {
   ],
   title: "I Look in People’s Windows",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

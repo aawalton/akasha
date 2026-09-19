@@ -14,7 +14,6 @@ export const zaraLarssonLookWhatYouVeDone = {
   ],
   title: "Look What You’ve Done",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaEyeToEye = {
   ],
   title: "Eye to Eye",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

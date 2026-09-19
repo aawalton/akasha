@@ -14,7 +14,6 @@ export const zaraLarssonNoneOfTheseGuys = {
   ],
   title: "None of These Guys",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftTwoIsBetterThanOne = {
   ],
   title: "Two Is Better Than One",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

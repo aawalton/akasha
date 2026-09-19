@@ -14,7 +14,6 @@ export const siaSaltedWound = {
   ],
   title: "Salted Wound",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

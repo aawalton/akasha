@@ -14,7 +14,6 @@ export const taylorSwiftGetawayCar = {
   ],
   title: "Getaway Car",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

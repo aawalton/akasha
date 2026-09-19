@@ -14,7 +14,6 @@ export const vinnyMarchiNoRush = {
   ],
   title: "No Rush",
   artist: "artist/vinny-marchi",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

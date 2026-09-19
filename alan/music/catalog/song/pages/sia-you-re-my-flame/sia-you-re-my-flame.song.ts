@@ -14,7 +14,6 @@ export const siaYouReMyFlame = {
   ],
   title: "You’re My Flame",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

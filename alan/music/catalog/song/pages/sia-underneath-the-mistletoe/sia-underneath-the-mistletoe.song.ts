@@ -14,7 +14,6 @@ export const siaUnderneathTheMistletoe = {
   ],
   title: "Underneath the Mistletoe",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

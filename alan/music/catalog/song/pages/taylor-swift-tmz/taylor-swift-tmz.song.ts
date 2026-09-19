@@ -14,7 +14,6 @@ export const taylorSwiftTmz = {
   ],
   title: "TMZ",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

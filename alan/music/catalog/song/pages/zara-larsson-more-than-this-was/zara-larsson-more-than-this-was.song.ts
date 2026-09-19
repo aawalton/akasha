@@ -14,7 +14,6 @@ export const zaraLarssonMoreThanThisWas = {
   ],
   title: "More Than This Was",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

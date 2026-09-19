@@ -14,7 +14,6 @@ export const siaNeverGonnaLeaveMe = {
   ],
   title: "Never Gonna Leave Me",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

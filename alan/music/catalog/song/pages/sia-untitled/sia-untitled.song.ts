@@ -14,7 +14,6 @@ export const siaUntitled = {
   ],
   title: "不要不要的",
   artist: "artist/sia",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

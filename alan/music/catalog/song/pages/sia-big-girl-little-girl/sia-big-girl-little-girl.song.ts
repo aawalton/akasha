@@ -14,7 +14,6 @@ export const siaBigGirlLittleGirl = {
   ],
   title: "Big Girl Little Girl",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

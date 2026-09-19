@@ -14,7 +14,6 @@ export const taylorSwiftActingLikeABoy = {
   ],
   title: "Acting Like a Boy",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

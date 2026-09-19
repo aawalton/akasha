@@ -14,7 +14,6 @@ export const taylorSwiftSoLongLondon = {
   ],
   title: "So Long, London",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftHaunted = {
   ],
   title: "Haunted",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const siaPuppiesAreForever = {
   ],
   title: "Puppies Are Forever",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

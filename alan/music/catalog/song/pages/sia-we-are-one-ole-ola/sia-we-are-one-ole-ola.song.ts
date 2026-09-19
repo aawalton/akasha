@@ -14,7 +14,6 @@ export const siaWeAreOneOleOla = {
   ],
   title: "We Are One (Ole Ola)",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const siaBlindedByLove = {
   ],
   title: "Blinded by Love",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

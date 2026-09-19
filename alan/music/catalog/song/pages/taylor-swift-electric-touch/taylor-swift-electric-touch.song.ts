@@ -14,7 +14,6 @@ export const taylorSwiftElectricTouch = {
   ],
   title: "Electric Touch",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const taylorSwiftForeverWinter = {
   ],
   title: "Forever Winter",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

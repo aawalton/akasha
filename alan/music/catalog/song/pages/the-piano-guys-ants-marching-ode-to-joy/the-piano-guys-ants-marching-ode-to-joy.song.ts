@@ -14,6 +14,5 @@ export const thePianoGuysAntsMarchingOdeToJoy = {
   ],
   title: "Ants Marching / Ode to Joy",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

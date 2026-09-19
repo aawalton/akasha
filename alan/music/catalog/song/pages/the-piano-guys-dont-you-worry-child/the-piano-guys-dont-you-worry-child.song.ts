@@ -14,7 +14,6 @@ export const thePianoGuysDontYouWorryChild = {
   ],
   title: "Don’t You Worry Child",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

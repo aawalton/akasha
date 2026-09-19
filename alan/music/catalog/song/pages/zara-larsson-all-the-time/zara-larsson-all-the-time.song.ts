@@ -14,7 +14,6 @@ export const zaraLarssonAllTheTime = {
   ],
   title: "All the Time",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

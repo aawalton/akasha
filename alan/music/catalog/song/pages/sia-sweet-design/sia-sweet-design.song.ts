@@ -14,7 +14,6 @@ export const siaSweetDesign = {
   ],
   title: "Sweet Design",
   artist: "artist/sia",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

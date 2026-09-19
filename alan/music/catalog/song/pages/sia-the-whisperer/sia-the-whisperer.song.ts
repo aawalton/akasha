@@ -14,7 +14,6 @@ export const siaTheWhisperer = {
   ],
   title: "The Whisperer",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

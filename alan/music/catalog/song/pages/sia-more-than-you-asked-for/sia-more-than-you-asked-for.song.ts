@@ -14,7 +14,6 @@ export const siaMoreThanYouAskedFor = {
   ],
   title: "More Than You Asked For",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

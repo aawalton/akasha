@@ -14,7 +14,6 @@ export const taylorSwiftWouldVeCouldVeShouldVe = {
   ],
   title: "Would’ve, Could’ve, Should’ve",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

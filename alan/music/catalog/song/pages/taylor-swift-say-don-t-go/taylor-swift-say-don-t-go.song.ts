@@ -14,7 +14,6 @@ export const taylorSwiftSayDonTGo = {
   ],
   title: "Say Don’t Go",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

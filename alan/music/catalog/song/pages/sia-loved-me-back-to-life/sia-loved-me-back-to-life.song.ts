@@ -14,7 +14,6 @@ export const siaLovedMeBackToLife = {
   ],
   title: "Loved Me Back to Life",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftMadWoman = {
   ],
   title: "mad woman",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

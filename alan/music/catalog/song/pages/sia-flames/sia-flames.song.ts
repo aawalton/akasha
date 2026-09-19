@@ -14,7 +14,6 @@ export const siaFlames = {
   ],
   title: "Flames",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

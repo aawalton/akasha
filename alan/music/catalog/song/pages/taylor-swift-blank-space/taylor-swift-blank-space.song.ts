@@ -15,7 +15,6 @@ export const taylorSwiftBlankSpace = {
   ],
   title: "Blank Space",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

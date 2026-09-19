@@ -14,7 +14,6 @@ export const taylorSwiftAugust = {
   ],
   title: "august",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

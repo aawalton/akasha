@@ -15,7 +15,6 @@ export const taylorSwiftChampagneProblems = {
   ],
   title: "champagne problems",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

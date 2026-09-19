@@ -14,7 +14,6 @@ export const siaHologramSmokeAndMirrors = {
   ],
   title: "Hologram (Smoke and Mirrors)",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const taylorSwiftDonTBlameMe = {
   ],
   title: "Don’t Blame Me",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

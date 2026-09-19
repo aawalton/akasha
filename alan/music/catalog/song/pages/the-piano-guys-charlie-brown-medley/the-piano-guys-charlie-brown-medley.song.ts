@@ -14,6 +14,5 @@ export const thePianoGuysCharlieBrownMedley = {
   ],
   title: "Charlie Brown Medley",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

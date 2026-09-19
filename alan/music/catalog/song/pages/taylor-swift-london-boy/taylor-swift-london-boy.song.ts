@@ -14,7 +14,6 @@ export const taylorSwiftLondonBoy = {
   ],
   title: "London Boy",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

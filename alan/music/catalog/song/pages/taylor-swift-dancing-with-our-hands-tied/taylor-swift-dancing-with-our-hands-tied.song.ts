@@ -14,7 +14,6 @@ export const taylorSwiftDancingWithOurHandsTied = {
   ],
   title: "Dancing With Our Hands Tied",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

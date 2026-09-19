@@ -14,7 +14,6 @@ export const taylorSwiftTheLakes = {
   ],
   title: "the lakes",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

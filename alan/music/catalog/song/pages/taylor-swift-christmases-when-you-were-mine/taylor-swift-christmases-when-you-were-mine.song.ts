@@ -14,7 +14,6 @@ export const taylorSwiftChristmasesWhenYouWereMine = {
   ],
   title: "Christmases When You Were Mine",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

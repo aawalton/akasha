@@ -14,7 +14,6 @@ export const taylorSwiftTheProphecy = {
   ],
   title: "The Prophecy",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

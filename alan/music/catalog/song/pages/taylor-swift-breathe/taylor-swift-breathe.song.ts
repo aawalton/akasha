@@ -14,7 +14,6 @@ export const taylorSwiftBreathe = {
   ],
   title: "Breathe",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

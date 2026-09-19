@@ -14,7 +14,6 @@ export const taylorSwiftDejaVu = {
   ],
   title: "deja vu",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

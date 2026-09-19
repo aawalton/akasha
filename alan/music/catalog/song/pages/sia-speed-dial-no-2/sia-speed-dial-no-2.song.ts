@@ -14,7 +14,6 @@ export const siaSpeedDialNo2 = {
   ],
   title: "Speed Dial No 2",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

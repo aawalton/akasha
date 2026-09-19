@@ -14,7 +14,6 @@ export const taylorSwiftPermanentMarker = {
   ],
   title: "Permanent Marker",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const taylorSwiftSadBeautifulTragic = {
   ],
   title: "Sad Beautiful Tragic",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

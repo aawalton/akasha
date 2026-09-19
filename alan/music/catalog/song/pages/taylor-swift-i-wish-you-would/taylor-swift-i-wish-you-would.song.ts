@@ -14,7 +14,6 @@ export const taylorSwiftIWishYouWould = {
   ],
   title: "I Wish You Would",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

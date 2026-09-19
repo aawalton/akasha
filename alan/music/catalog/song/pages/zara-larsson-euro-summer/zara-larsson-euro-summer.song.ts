@@ -14,7 +14,6 @@ export const zaraLarssonEuroSummer = {
   ],
   title: "Euro Summer",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaHeavenCanWait = {
   ],
   title: "Heaven Can Wait",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

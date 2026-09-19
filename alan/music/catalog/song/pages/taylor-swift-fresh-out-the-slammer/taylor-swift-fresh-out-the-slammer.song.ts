@@ -14,7 +14,6 @@ export const taylorSwiftFreshOutTheSlammer = {
   ],
   title: "Fresh Out the Slammer",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

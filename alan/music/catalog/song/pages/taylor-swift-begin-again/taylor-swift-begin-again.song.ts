@@ -15,7 +15,6 @@ export const taylorSwiftBeginAgain = {
   ],
   title: "Begin Again",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

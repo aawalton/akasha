@@ -14,7 +14,6 @@ export const taylorSwiftYouBelongWithMe = {
   ],
   title: "You Belong with Me",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

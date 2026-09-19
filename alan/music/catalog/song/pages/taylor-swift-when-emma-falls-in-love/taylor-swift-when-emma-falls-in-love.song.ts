@@ -14,7 +14,6 @@ export const taylorSwiftWhenEmmaFallsInLove = {
   ],
   title: "When Emma Falls in Love",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

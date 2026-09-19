@@ -14,7 +14,6 @@ export const siaSchneemann = {
   ],
   title: "Schneemann",
   artist: "artist/sia",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

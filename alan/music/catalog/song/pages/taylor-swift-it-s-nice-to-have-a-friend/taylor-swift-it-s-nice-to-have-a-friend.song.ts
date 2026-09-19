@@ -14,7 +14,6 @@ export const taylorSwiftItSNiceToHaveAFriend = {
   ],
   title: "It’s Nice to Have a Friend",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

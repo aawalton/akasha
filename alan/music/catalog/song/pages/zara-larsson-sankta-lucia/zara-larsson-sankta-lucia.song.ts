@@ -14,7 +14,6 @@ export const zaraLarssonSanktaLucia = {
   ],
   title: "Sankta Lucia",
   artist: "artist/zara-larsson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

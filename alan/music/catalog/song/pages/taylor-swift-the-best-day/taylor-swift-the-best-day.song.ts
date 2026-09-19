@@ -14,7 +14,6 @@ export const taylorSwiftTheBestDay = {
   ],
   title: "The Best Day",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

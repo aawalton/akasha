@@ -14,7 +14,6 @@ export const siaDrinkToGetDrunk = {
   ],
   title: "Drink to Get Drunk",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

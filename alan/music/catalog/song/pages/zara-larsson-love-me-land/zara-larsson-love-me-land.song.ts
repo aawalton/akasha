@@ -14,7 +14,6 @@ export const zaraLarssonLoveMeLand = {
   ],
   title: "Love Me Land",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

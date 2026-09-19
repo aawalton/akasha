@@ -14,7 +14,6 @@ export const taylorSwiftAllNightDiner = {
   ],
   title: "All Night Diner",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

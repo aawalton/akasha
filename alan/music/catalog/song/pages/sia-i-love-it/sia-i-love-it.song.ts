@@ -14,7 +14,6 @@ export const siaILoveIt = {
   ],
   title: "I Love It",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

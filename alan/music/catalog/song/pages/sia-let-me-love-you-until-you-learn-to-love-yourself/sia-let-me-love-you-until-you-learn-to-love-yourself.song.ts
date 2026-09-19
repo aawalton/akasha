@@ -14,7 +14,6 @@ export const siaLetMeLoveYouUntilYouLearnToLoveYourself = {
   ],
   title: "Let Me Love You (Until You Learn to Love Yourself)",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

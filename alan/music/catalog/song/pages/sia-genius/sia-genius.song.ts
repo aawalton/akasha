@@ -14,7 +14,6 @@ export const siaGenius = {
   ],
   title: "Genius",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

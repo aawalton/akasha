@@ -14,7 +14,6 @@ export const taylorSwiftRightWhereYouLeftMe = {
   ],
   title: "right where you left me",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

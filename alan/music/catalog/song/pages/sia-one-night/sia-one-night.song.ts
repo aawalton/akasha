@@ -14,7 +14,6 @@ export const siaOneNight = {
   ],
   title: "One Night",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftSpeakNow = {
   ],
   title: "Speak Now",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

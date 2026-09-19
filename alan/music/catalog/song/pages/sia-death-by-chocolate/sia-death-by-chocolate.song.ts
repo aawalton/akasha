@@ -14,7 +14,6 @@ export const siaDeathByChocolate = {
   ],
   title: "Death by Chocolate",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

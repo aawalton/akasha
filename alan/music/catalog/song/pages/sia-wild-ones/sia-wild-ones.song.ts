@@ -14,7 +14,6 @@ export const siaWildOnes = {
   ],
   title: "Wild Ones",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

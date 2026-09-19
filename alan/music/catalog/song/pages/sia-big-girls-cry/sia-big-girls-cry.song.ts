@@ -14,7 +14,6 @@ export const siaBigGirlsCry = {
   ],
   title: "Big Girls Cry",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

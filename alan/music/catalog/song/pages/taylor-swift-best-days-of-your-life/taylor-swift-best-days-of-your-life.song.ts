@@ -14,7 +14,6 @@ export const taylorSwiftBestDaysOfYourLife = {
   ],
   title: "Best Days of Your Life",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

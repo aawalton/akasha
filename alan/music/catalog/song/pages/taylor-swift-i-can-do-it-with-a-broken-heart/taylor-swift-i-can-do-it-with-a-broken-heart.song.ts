@@ -14,7 +14,6 @@ export const taylorSwiftICanDoItWithABrokenHeart = {
   ],
   title: "I Can Do It With a Broken Heart",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

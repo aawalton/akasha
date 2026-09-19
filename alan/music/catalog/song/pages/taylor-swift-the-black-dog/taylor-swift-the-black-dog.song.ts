@@ -14,7 +14,6 @@ export const taylorSwiftTheBlackDog = {
   ],
   title: "The Black Dog",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

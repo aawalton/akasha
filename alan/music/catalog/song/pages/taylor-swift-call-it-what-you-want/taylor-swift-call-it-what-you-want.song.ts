@@ -14,7 +14,6 @@ export const taylorSwiftCallItWhatYouWant = {
   ],
   title: "Call It What You Want",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

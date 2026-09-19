@@ -14,7 +14,6 @@ export const taylorSwiftTisTheDamnSeason = {
   ],
   title: "‘tis the damn season",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

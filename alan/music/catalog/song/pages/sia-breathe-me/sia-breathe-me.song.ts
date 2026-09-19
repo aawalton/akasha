@@ -14,7 +14,6 @@ export const siaBreatheMe = {
   ],
   title: "Breathe Me",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

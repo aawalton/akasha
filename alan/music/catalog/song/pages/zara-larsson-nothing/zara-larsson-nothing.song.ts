@@ -14,7 +14,6 @@ export const zaraLarssonNothing = {
   ],
   title: "Nothing",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

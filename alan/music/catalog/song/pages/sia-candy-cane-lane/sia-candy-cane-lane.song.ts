@@ -14,7 +14,6 @@ export const siaCandyCaneLane = {
   ],
   title: "Candy Cane Lane",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

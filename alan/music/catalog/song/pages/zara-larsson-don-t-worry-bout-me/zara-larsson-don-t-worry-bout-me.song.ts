@@ -14,7 +14,6 @@ export const zaraLarssonDonTWorryBoutMe = {
   ],
   title: "Don’t Worry Bout Me",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

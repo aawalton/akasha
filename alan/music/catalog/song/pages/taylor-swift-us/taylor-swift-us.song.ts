@@ -14,7 +14,6 @@ export const taylorSwiftUs = {
   ],
   title: "us.",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

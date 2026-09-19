@@ -14,7 +14,6 @@ export const zaraLarssonWords = {
   ],
   title: "Words",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

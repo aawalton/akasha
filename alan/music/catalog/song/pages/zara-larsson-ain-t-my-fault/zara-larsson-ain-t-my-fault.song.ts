@@ -14,7 +14,6 @@ export const zaraLarssonAinTMyFault = {
   ],
   title: "Ain’t My Fault",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

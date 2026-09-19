@@ -14,7 +14,6 @@ export const taylorSwiftLoveTheyHavenTThoughtOfYet = {
   ],
   title: "Love They Haven't Thought Of Yet",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

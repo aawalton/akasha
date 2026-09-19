@@ -14,7 +14,6 @@ export const taylorSwiftKingOfMyHeart = {
   ],
   title: "King of My Heart",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

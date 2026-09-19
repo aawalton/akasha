@@ -14,7 +14,6 @@ export const taylorSwiftIAlmostDo = {
   ],
   title: "I Almost Do",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

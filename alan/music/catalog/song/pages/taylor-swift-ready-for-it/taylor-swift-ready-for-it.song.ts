@@ -14,7 +14,6 @@ export const taylorSwiftReadyForIt = {
   ],
   title: "…Ready for It?",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

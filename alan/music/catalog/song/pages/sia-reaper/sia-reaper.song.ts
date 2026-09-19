@@ -14,7 +14,6 @@ export const siaReaper = {
   ],
   title: "Reaper",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

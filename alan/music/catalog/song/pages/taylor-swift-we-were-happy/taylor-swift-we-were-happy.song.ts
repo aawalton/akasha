@@ -14,7 +14,6 @@ export const taylorSwiftWeWereHappy = {
   ],
   title: "We Were Happy",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

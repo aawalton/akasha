@@ -14,7 +14,6 @@ export const taylorSwiftSuperstar = {
   ],
   title: "SuperStar",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

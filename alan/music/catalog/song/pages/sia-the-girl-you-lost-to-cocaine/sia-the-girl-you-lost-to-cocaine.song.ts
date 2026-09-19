@@ -14,7 +14,6 @@ export const siaTheGirlYouLostToCocaine = {
   ],
   title: "The Girl You Lost to Cocaine",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

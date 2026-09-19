@@ -14,7 +14,6 @@ export const siaItSTime = {
   ],
   title: "It’s Time",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

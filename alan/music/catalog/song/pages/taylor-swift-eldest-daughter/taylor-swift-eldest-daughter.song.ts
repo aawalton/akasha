@@ -14,7 +14,6 @@ export const taylorSwiftEldestDaughter = {
   ],
   title: "Eldest Daughter",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaSweetPotato = {
   ],
   title: "Sweet Potato",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftTheOtherSideOfTheDoor = {
   ],
   title: "The Other Side of the Door",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

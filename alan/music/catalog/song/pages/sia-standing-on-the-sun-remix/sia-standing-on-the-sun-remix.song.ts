@@ -14,7 +14,6 @@ export const siaStandingOnTheSunRemix = {
   ],
   title: "Standing on the Sun Remix",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

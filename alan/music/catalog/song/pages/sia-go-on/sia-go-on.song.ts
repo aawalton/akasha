@@ -14,7 +14,6 @@ export const siaGoOn = {
   ],
   title: "Go On",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

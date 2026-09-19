@@ -14,7 +14,6 @@ export const taylorSwiftBadBlood = {
   ],
   title: "Bad Blood",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

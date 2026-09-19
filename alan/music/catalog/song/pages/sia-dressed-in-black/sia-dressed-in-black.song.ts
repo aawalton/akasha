@@ -14,7 +14,6 @@ export const siaDressedInBlack = {
   ],
   title: "Dressed in Black",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

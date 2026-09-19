@@ -14,7 +14,6 @@ export const zaraLarssonIWouldLike = {
   ],
   title: "I Would Like",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

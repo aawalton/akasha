@@ -14,7 +14,6 @@ export const siaGimmeLove = {
   ],
   title: "Gimme Love",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

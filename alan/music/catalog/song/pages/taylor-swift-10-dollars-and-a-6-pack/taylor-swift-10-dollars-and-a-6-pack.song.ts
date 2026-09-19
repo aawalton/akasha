@@ -14,7 +14,6 @@ export const taylorSwift10DollarsAndA6Pack = {
   ],
   title: "10 Dollars and a 6 Pack",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

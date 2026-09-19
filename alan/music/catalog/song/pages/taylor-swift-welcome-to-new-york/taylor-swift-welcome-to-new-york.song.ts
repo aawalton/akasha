@@ -14,7 +14,6 @@ export const taylorSwiftWelcomeToNewYork = {
   ],
   title: "Welcome to New York",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

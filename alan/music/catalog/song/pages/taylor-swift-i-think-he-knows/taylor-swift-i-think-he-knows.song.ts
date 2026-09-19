@@ -14,7 +14,6 @@ export const taylorSwiftIThinkHeKnows = {
   ],
   title: "I Think He Knows",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

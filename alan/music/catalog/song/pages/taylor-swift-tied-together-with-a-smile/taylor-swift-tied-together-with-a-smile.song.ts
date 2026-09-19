@@ -14,7 +14,6 @@ export const taylorSwiftTiedTogetherWithASmile = {
   ],
   title: "Tied Together With a Smile",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftPrettyWords = {
   ],
   title: "Pretty Words",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

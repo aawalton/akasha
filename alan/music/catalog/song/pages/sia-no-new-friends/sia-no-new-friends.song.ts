@@ -14,7 +14,6 @@ export const siaNoNewFriends = {
   ],
   title: "No New Friends",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const zaraLarssonSagMigVarDuStar = {
   ],
   title: "Säg mig var du står",
   artist: "artist/zara-larsson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

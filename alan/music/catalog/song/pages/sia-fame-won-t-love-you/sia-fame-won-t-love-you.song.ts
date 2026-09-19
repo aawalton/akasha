@@ -14,7 +14,6 @@ export const siaFameWonTLoveYou = {
   ],
   title: "Fame Won’t Love You",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

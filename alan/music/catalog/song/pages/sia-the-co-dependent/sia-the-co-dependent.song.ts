@@ -14,7 +14,6 @@ export const siaTheCoDependent = {
   ],
   title: "The Co-Dependent",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

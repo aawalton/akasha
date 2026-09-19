@@ -14,7 +14,6 @@ export const zaraLarssonLastSummer = {
   ],
   title: "Last Summer",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

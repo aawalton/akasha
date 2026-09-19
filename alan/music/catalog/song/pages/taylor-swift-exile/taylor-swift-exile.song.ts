@@ -14,7 +14,6 @@ export const taylorSwiftExile = {
   ],
   title: "exile",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

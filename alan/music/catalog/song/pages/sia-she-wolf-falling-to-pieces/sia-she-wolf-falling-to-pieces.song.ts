@@ -14,7 +14,6 @@ export const siaSheWolfFallingToPieces = {
   ],
   title: "She Wolf (Falling to Pieces)",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftDearJohn = {
   ],
   title: "Dear John",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

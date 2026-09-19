@@ -14,7 +14,6 @@ export const taylorSwiftBetterOff = {
   ],
   title: "Better Off",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftHolyGround = {
   ],
   title: "Holy Ground",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

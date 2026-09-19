@@ -14,7 +14,6 @@ export const taylorSwiftIKnowPlaces = {
   ],
   title: "I Know Places",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

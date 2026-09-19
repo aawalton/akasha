@@ -14,7 +14,6 @@ export const siaMusic = {
   ],
   title: "Music",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftGuiltyAsSin = {
   ],
   title: "Guilty as Sin?",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

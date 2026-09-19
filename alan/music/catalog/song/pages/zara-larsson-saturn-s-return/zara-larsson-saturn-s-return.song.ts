@@ -14,7 +14,6 @@ export const zaraLarssonSaturnSReturn = {
   ],
   title: "Saturn’s Return",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

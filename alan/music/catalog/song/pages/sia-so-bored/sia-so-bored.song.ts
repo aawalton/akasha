@@ -14,7 +14,6 @@ export const siaSoBored = {
   ],
   title: "So Bored",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

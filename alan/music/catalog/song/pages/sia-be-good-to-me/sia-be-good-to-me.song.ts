@@ -14,7 +14,6 @@ export const siaBeGoodToMe = {
   ],
   title: "Be Good to Me",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

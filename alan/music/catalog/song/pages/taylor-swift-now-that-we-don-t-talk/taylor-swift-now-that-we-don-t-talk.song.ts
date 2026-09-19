@@ -14,7 +14,6 @@ export const taylorSwiftNowThatWeDonTTalk = {
   ],
   title: "Now That We Don’t Talk",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

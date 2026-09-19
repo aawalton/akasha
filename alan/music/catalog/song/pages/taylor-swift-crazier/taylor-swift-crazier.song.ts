@@ -14,7 +14,6 @@ export const taylorSwiftCrazier = {
   ],
   title: "Crazier",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

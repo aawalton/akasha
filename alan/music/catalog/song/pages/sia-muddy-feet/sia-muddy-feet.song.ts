@@ -14,7 +14,6 @@ export const siaMuddyFeet = {
   ],
   title: "Muddy Feet",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

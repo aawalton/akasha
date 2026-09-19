@@ -14,7 +14,6 @@ export const siaMyLove = {
   ],
   title: "My Love",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

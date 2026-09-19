@@ -14,7 +14,6 @@ export const taylorSwiftShakeItOff = {
   ],
   title: "Shake It Off",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

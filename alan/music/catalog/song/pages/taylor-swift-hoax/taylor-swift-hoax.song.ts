@@ -14,7 +14,6 @@ export const taylorSwiftHoax = {
   ],
   title: "hoax",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

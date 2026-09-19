@@ -14,7 +14,6 @@ export const taylorSwiftDramaQueen = {
   ],
   title: "Drama Queen",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

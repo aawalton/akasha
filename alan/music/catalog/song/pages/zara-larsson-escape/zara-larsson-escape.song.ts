@@ -14,7 +14,6 @@ export const zaraLarssonEscape = {
   ],
   title: "Escape",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

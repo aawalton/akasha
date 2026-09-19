@@ -14,7 +14,6 @@ export const taylorSwiftWildestDreams = {
   ],
   title: "Wildest Dreams",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

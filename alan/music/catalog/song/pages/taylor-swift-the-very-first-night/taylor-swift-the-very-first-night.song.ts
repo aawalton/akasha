@@ -14,7 +14,6 @@ export const taylorSwiftTheVeryFirstNight = {
   ],
   title: "The Very First Night",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const zaraLarssonWhatHappensHere = {
   ],
   title: "What Happens Here",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

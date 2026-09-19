@@ -14,7 +14,6 @@ export const siaHouseOnFire = {
   ],
   title: "House on Fire",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

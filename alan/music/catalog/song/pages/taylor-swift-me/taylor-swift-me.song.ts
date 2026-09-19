@@ -14,7 +14,6 @@ export const taylorSwiftMe = {
   ],
   title: "ME!",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const zaraLarssonLightACandle = {
   ],
   title: "Light a Candle",
   artist: "artist/zara-larsson",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   lyrics: "txt",

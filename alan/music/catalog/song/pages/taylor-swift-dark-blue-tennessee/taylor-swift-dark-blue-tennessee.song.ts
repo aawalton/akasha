@@ -14,7 +14,6 @@ export const taylorSwiftDarkBlueTennessee = {
   ],
   title: "Dark Blue Tennessee",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

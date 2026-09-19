@@ -14,7 +14,6 @@ export const siaDayTooSoon = {
   ],
   title: "Day Too Soon",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

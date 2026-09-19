@@ -14,7 +14,6 @@ export const taylorSwift22 = {
   ],
   title: "22",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

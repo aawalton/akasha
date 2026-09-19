@@ -14,7 +14,6 @@ export const sylviaDaleyMyOwnRules = {
   ],
   title: "My Own Rules",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

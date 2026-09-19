@@ -14,7 +14,6 @@ export const zaraLarssonTalkToMeZara = {
   ],
   title: "Talk To Me, Zara",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

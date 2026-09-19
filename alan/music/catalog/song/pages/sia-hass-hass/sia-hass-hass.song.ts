@@ -14,7 +14,6 @@ export const siaHassHass = {
   ],
   title: "Hass Hass",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

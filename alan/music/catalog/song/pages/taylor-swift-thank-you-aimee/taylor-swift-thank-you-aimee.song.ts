@@ -14,7 +14,6 @@ export const taylorSwiftThankYouAimee = {
   ],
   title: "thanK you aIMee",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

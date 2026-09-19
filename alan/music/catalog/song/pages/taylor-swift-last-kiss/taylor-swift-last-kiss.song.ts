@@ -14,7 +14,6 @@ export const taylorSwiftLastKiss = {
   ],
   title: "Last Kiss",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

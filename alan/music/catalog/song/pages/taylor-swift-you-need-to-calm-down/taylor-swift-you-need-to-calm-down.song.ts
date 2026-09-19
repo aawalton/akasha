@@ -14,7 +14,6 @@ export const taylorSwiftYouNeedToCalmDown = {
   ],
   title: "You Need to Calm Down",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

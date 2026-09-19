@@ -14,7 +14,6 @@ export const siaSummerRain = {
   ],
   title: "Summer Rain",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

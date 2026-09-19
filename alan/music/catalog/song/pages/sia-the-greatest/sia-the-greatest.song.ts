@@ -14,7 +14,6 @@ export const siaTheGreatest = {
   ],
   title: "The Greatest",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

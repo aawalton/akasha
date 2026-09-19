@@ -14,7 +14,6 @@ export const taylorSwiftShouldVeSaidNo = {
   ],
   title: "Should’ve Said No",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

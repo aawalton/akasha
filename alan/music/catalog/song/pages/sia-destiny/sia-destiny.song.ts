@@ -14,7 +14,6 @@ export const siaDestiny = {
   ],
   title: "Destiny",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaPlayDumb = {
   ],
   title: "Play Dumb",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

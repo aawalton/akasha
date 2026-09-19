@@ -14,7 +14,6 @@ export const siaSantaSComingForUs = {
   ],
   title: "Santa’s Coming for Us",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

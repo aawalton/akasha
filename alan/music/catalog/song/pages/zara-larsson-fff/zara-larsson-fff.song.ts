@@ -14,7 +14,6 @@ export const zaraLarssonFff = {
   ],
   title: "FFF",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

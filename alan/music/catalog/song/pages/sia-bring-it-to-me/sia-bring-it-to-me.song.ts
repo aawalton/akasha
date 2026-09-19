@@ -14,7 +14,6 @@ export const siaBringItToMe = {
   ],
   title: "Bring It to Me",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

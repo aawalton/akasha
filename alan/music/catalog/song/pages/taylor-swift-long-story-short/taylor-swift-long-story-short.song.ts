@@ -14,7 +14,6 @@ export const taylorSwiftLongStoryShort = {
   ],
   title: "long story short",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

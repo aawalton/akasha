@@ -14,7 +14,6 @@ export const taylorSwiftOutOfTheWoods = {
   ],
   title: "Out of the Woods",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const zaraLarssonGirlsLike = {
   ],
   title: "Girls Like",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

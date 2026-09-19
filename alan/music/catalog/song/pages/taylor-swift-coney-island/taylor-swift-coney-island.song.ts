@@ -14,7 +14,6 @@ export const taylorSwiftConeyIsland = {
   ],
   title: "coney island",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

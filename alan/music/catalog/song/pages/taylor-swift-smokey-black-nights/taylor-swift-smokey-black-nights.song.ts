@@ -14,7 +14,6 @@ export const taylorSwiftSmokeyBlackNights = {
   ],
   title: "Smokey Black Nights",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const sylviaDaleyMakeFriends = {
   ],
   title: "Make Friends",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

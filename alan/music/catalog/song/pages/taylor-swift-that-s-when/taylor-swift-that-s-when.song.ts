@@ -14,7 +14,6 @@ export const taylorSwiftThatSWhen = {
   ],
   title: "That’s When",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

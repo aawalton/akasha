@@ -14,7 +14,6 @@ export const siaDonTBringMeDown = {
   ],
   title: "Don’t Bring Me Down",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

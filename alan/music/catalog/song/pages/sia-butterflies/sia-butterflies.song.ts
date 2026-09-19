@@ -14,7 +14,6 @@ export const siaButterflies = {
   ],
   title: "Butterflies",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

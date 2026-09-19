@@ -14,7 +14,6 @@ export const taylorSwiftICanSeeYou = {
   ],
   title: "I Can See You",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

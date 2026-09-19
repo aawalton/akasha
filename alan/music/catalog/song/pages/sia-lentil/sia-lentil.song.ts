@@ -14,7 +14,6 @@ export const siaLentil = {
   ],
   title: "Lentil",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

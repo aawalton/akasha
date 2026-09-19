@@ -14,7 +14,6 @@ export const taylorSwiftClothesFromMissMabel = {
   ],
   title: "Clothes From Miss Mabel",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "solo",
 } as const satisfies Song

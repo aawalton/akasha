@@ -14,7 +14,6 @@ export const taylorSwiftFatherFigure = {
   ],
   title: "Father Figure",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

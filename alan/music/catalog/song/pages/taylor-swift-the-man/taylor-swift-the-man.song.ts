@@ -14,7 +14,6 @@ export const taylorSwiftTheMan = {
   ],
   title: "The Man",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const zaraLarssonDonTLetMeBeYours = {
   ],
   title: "Don’t Let Me Be Yours",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

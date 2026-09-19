@@ -14,7 +14,6 @@ export const siaIMInHere = {
   ],
   title: "I’m in Here",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

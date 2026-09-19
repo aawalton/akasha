@@ -14,7 +14,6 @@ export const taylorSwiftLavenderHaze = {
   ],
   title: "Lavender Haze",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

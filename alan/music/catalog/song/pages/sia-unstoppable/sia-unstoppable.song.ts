@@ -16,7 +16,6 @@ export const siaUnstoppable = {
   ],
   title: "Unstoppable",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

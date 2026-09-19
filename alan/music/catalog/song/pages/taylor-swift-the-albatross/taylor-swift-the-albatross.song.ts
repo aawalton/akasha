@@ -14,7 +14,6 @@ export const taylorSwiftTheAlbatross = {
   ],
   title: "The Albatross",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -15,7 +15,6 @@ export const taylorSwiftIKnewYouWereTrouble = {
   ],
   title: "I Knew You Were Trouble.",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

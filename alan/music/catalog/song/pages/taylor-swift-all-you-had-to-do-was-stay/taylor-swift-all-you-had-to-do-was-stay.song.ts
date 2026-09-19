@@ -14,7 +14,6 @@ export const taylorSwiftAllYouHadToDoWasStay = {
   ],
   title: "All You Had to Do Was Stay",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

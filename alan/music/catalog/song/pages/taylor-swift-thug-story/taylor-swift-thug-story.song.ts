@@ -14,7 +14,6 @@ export const taylorSwiftThugStory = {
   ],
   title: "Thug Story",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: true,
   written: "collab",
 } as const satisfies Song

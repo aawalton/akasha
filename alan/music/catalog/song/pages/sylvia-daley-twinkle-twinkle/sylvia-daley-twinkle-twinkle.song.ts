@@ -14,7 +14,6 @@ export const sylviaDaleyTwinkleTwinkle = {
   ],
   title: "Twinkle Twinkle",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

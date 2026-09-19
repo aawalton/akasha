@@ -14,7 +14,6 @@ export const taylorSwiftVigilanteShit = {
   ],
   title: "Vigilante Shit",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

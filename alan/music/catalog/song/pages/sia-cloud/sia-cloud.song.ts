@@ -14,7 +14,6 @@ export const siaCloud = {
   ],
   title: "Cloud",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

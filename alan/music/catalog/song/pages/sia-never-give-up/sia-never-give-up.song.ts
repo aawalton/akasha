@@ -14,7 +14,6 @@ export const siaNeverGiveUp = {
   ],
   title: "Never Give Up",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

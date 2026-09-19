@@ -14,7 +14,6 @@ export const taylorSwift1StepForward3StepsBack = {
   ],
   title: "1 step forward, 3 steps back",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

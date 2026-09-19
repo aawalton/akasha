@@ -14,7 +14,6 @@ export const siaRockAndBalloon = {
   ],
   title: "Rock and Balloon",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

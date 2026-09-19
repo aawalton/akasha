@@ -14,7 +14,6 @@ export const taylorSwiftThisIsWhatYouCameFor = {
   ],
   title: "This Is What You Came For",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

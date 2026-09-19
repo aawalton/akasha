@@ -15,7 +15,6 @@ export const taylorSwiftPolkamania = {
   ],
   title: "Polkamania!",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

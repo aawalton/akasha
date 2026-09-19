@@ -14,7 +14,6 @@ export const taylorSwiftInnocent = {
   ],
   title: "Innocent",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,6 +14,5 @@ export const thePianoGuysRockelbelsCanonPachelbelCanonInD = {
   ],
   title: "Rockelbel's Canon (Pachelbel Canon in D)",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

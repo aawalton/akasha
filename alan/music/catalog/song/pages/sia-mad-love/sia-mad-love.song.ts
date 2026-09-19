@@ -14,7 +14,6 @@ export const siaMadLove = {
   ],
   title: "Mad Love",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "solo",
 } as const satisfies Song

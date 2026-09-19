@@ -14,7 +14,6 @@ export const taylorSwiftWhoSAfraidOfLittleOldMe = {
   ],
   title: "Who’s Afraid of Little Old Me?",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

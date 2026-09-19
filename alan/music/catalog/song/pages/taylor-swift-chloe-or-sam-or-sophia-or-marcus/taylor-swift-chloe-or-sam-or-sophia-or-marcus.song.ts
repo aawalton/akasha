@@ -14,7 +14,6 @@ export const taylorSwiftChloeOrSamOrSophiaOrMarcus = {
   ],
   title: "Chloe or Sam or Sophia or Marcus",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

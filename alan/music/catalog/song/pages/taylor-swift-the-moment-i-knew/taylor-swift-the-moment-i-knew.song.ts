@@ -14,7 +14,6 @@ export const taylorSwiftTheMomentIKnew = {
   ],
   title: "The Moment I Knew",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const taylorSwiftIAmEveryShellWashedUponTheShore = {
   ],
   title: "I Am Every Shell Washed Upon the Shore",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

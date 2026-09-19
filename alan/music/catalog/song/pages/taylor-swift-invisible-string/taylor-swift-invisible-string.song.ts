@@ -15,7 +15,6 @@ export const taylorSwiftInvisibleString = {
   ],
   title: "invisible string",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

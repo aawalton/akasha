@@ -14,7 +14,6 @@ export const taylorSwiftIBetYouThinkAboutMe = {
   ],
   title: "I Bet You Think About Me",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

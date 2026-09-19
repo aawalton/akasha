@@ -14,7 +14,6 @@ export const siaStraightForTheKnife = {
   ],
   title: "Straight for the Knife",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

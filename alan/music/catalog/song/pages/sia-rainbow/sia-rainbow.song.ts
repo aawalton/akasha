@@ -14,7 +14,6 @@ export const siaRainbow = {
   ],
   title: "Rainbow",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftSoHighSchool = {
   ],
   title: "So High School",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

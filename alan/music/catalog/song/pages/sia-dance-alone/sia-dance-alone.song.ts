@@ -14,7 +14,6 @@ export const siaDanceAlone = {
   ],
   title: "Dance Alone",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

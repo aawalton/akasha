@@ -14,7 +14,6 @@ export const zaraLarssonPussPuss = {
   ],
   title: "Puss Puss",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

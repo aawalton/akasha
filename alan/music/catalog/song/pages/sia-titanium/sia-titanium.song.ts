@@ -14,7 +14,6 @@ export const siaTitanium = {
   ],
   title: "Titanium",
   artist: "artist/sia",
-  songType: "derivative",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

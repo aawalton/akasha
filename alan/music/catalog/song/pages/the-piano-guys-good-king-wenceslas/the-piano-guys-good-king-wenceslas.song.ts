@@ -14,6 +14,5 @@ export const thePianoGuysGoodKingWenceslas = {
   ],
   title: "Good King Wenceslas",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

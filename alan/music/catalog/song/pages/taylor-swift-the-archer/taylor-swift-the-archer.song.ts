@@ -16,7 +16,6 @@ export const taylorSwiftTheArcher = {
   ],
   title: "The Archer",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaBeautifulThingsCanHappen = {
   ],
   title: "Beautiful Things Can Happen",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

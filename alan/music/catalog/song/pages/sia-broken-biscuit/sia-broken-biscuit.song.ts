@@ -14,7 +14,6 @@ export const siaBrokenBiscuit = {
   ],
   title: "Broken Biscuit",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

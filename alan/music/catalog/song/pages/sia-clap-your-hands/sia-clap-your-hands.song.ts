@@ -14,7 +14,6 @@ export const siaClapYourHands = {
   ],
   title: "Clap Your Hands",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

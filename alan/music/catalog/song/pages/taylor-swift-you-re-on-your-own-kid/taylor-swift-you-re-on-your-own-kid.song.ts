@@ -16,7 +16,6 @@ export const taylorSwiftYouReOnYourOwnKid = {
   ],
   title: "You’re on Your Own, Kid",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

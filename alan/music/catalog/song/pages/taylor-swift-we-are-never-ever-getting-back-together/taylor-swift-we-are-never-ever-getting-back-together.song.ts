@@ -14,7 +14,6 @@ export const taylorSwiftWeAreNeverEverGettingBackTogether = {
   ],
   title: "We Are Never Ever Getting Back Together",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

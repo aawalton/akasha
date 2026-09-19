@@ -14,7 +14,6 @@ export const siaIncredible = {
   ],
   title: "Incredible",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

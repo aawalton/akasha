@@ -14,7 +14,6 @@ export const zaraLarssonTheAmbition = {
   ],
   title: "The Ambition",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

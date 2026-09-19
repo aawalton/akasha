@@ -14,6 +14,5 @@ export const thePianoGuysBeethovens5Secrets = {
   ],
   title: "Beethoven's 5 Secrets",
   artist: "artist/the-piano-guys",
-  songType: "derivative",
   performed: true,
 } as const satisfies Song

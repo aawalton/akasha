@@ -14,7 +14,6 @@ export const zaraLarssonSheDidItAgain = {
   ],
   title: "SHE DID IT AGAIN",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

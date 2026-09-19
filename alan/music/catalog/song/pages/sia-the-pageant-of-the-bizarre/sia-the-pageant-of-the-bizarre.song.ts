@@ -14,7 +14,6 @@ export const siaThePageantOfTheBizarre = {
   ],
   title: "The Pageant of the Bizarre",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

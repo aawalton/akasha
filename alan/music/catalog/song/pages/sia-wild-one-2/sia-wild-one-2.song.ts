@@ -14,7 +14,6 @@ export const siaWildOne2 = {
   ],
   title: "Wild One 2",
   artist: "artist/sia",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

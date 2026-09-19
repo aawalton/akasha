@@ -14,7 +14,6 @@ export const taylorSwiftIHeart = {
   ],
   title: "I Heart ?",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

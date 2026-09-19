@@ -14,7 +14,6 @@ export const zaraLarssonYouLoveWhoYouLove = {
   ],
   title: "You Love Who You Love",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

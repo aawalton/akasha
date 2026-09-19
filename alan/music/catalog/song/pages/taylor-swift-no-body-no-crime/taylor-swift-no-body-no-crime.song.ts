@@ -14,7 +14,6 @@ export const taylorSwiftNoBodyNoCrime = {
   ],
   title: "no body, no crime",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

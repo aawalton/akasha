@@ -14,7 +14,6 @@ export const taylorSwiftHowDidItEnd = {
   ],
   title: "How Did It End?",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

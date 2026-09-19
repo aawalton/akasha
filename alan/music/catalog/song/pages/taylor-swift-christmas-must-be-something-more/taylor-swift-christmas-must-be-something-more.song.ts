@@ -14,7 +14,6 @@ export const taylorSwiftChristmasMustBeSomethingMore = {
   ],
   title: "Christmas Must Be Something More",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const siaDimTheLights = {
   ],
   title: "Dim the Lights",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaFear = {
   ],
   title: "Fear",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

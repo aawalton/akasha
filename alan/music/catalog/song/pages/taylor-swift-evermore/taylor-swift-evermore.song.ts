@@ -14,7 +14,6 @@ export const taylorSwiftEvermore = {
   ],
   title: "evermore",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

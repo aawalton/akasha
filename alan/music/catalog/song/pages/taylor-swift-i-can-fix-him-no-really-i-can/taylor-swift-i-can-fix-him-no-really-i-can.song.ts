@@ -14,7 +14,6 @@ export const taylorSwiftICanFixHimNoReallyICan = {
   ],
   title: "I Can Fix Him (No Really I Can)",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

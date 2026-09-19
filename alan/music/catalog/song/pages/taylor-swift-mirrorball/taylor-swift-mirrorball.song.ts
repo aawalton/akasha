@@ -16,7 +16,6 @@ export const taylorSwiftMirrorball = {
   ],
   title: "mirrorball",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

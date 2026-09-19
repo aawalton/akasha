@@ -14,7 +14,6 @@ export const siaMiracle = {
   ],
   title: "Miracle",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

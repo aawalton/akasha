@@ -14,7 +14,6 @@ export const siaMakingTheMostOfTheNight = {
   ],
   title: "Making the Most of the Night",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

@@ -14,7 +14,6 @@ export const taylorSwiftTeardropsOnMyGuitar = {
   ],
   title: "Teardrops on My Guitar",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

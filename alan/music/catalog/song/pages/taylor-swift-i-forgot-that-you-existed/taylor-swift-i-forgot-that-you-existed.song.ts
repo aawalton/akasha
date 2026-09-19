@@ -14,7 +14,6 @@ export const taylorSwiftIForgotThatYouExisted = {
   ],
   title: "I Forgot That You Existed",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

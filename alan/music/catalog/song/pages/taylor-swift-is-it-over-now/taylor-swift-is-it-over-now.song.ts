@@ -14,7 +14,6 @@ export const taylorSwiftIsItOverNow = {
   ],
   title: "Is It Over Now?",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

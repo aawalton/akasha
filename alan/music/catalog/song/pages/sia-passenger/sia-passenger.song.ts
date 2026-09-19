@@ -14,7 +14,6 @@ export const siaPassenger = {
   ],
   title: "Passenger",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   written: "collab",
 } as const satisfies Song

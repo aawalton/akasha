@@ -14,7 +14,6 @@ export const siaJesusWept = {
   ],
   title: "Jesus Wept",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

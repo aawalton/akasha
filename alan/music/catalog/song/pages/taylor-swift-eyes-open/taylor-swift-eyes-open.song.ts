@@ -14,7 +14,6 @@ export const taylorSwiftEyesOpen = {
   ],
   title: "Eyes Open",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const taylorSwiftStateOfGrace = {
   ],
   title: "State of Grace",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

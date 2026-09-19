@@ -14,7 +14,6 @@ export const taylorSwiftWiHLiT = {
   ],
   title: "Wi$h Li$t",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

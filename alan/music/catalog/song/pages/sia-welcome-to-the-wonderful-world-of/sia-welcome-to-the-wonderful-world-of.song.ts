@@ -14,7 +14,6 @@ export const siaWelcomeToTheWonderfulWorldOf = {
   ],
   title: "Welcome to the Wonderful World Of",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

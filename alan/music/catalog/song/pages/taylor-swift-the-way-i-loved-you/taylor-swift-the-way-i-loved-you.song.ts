@@ -14,7 +14,6 @@ export const taylorSwiftTheWayILovedYou = {
   ],
   title: "The Way I Loved You",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

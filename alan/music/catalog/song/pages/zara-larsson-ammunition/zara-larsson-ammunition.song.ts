@@ -14,7 +14,6 @@ export const zaraLarssonAmmunition = {
   ],
   title: "Ammunition",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

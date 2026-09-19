@@ -14,7 +14,6 @@ export const taylorSwiftLookWhatYouMadeMeDo = {
   ],
   title: "Look What You Made Me Do",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

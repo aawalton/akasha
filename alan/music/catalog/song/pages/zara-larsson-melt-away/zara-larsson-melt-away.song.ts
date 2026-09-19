@@ -14,7 +14,6 @@ export const zaraLarssonMeltAway = {
   ],
   title: "Melt Away",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

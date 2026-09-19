@@ -14,7 +14,6 @@ export const siaFireMeetGasoline = {
   ],
   title: "Fire Meet Gasoline",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

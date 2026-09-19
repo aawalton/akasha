@@ -14,7 +14,6 @@ export const taylorSwiftTheLuckyOne = {
   ],
   title: "The Lucky One",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

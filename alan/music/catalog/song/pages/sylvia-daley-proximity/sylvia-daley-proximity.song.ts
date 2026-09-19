@@ -14,7 +14,6 @@ export const sylviaDaleyProximity = {
   ],
   title: "Proximity",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

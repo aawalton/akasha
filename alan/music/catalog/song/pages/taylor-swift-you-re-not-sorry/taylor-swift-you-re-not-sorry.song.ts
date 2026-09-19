@@ -14,7 +14,6 @@ export const taylorSwiftYouReNotSorry = {
   ],
   title: "You’re Not Sorry",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

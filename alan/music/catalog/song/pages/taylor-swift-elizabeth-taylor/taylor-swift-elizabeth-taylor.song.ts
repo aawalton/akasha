@@ -14,7 +14,6 @@ export const taylorSwiftElizabethTaylor = {
   ],
   title: "Elizabeth Taylor",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

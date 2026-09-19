@@ -14,7 +14,6 @@ export const siaDejaVu = {
   ],
   title: "Déjà Vu",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

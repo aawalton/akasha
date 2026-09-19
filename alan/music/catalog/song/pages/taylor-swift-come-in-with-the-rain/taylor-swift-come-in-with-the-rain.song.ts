@@ -14,7 +14,6 @@ export const taylorSwiftComeInWithTheRain = {
   ],
   title: "Come In With the Rain",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

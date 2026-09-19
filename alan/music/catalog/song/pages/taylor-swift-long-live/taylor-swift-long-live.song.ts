@@ -14,7 +14,6 @@ export const taylorSwiftLongLive = {
   ],
   title: "Long Live",
   artist: "artist/taylor-swift",
-  songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

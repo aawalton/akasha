@@ -14,7 +14,6 @@ export const siaEyeOfTheNeedle = {
   ],
   title: "Eye of the Needle",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

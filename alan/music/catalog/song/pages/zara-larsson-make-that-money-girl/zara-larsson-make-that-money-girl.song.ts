@@ -14,7 +14,6 @@ export const zaraLarssonMakeThatMoneyGirl = {
   ],
   title: "Make That Money Girl",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

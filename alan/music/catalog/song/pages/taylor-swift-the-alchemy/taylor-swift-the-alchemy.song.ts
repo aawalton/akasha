@@ -14,7 +14,6 @@ export const taylorSwiftTheAlchemy = {
   ],
   title: "The Alchemy",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

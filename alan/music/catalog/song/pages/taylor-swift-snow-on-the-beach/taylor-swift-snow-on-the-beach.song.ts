@@ -14,7 +14,6 @@ export const taylorSwiftSnowOnTheBeach = {
   ],
   title: "Snow on the Beach",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftMean = {
   ],
   title: "Mean",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -14,7 +14,6 @@ export const sylviaDaleyMojo = {
   ],
   title: "Mojo",
   artist: "artist/sylvia-daley",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

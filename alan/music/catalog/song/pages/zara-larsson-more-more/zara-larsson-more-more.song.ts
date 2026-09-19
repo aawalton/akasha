@@ -14,7 +14,6 @@ export const zaraLarssonMoreMore = {
   ],
   title: "MORE & MORE (English ver.)",
   artist: "artist/zara-larsson",
-  songType: "derivative",
   performed: false,
   written: "collab",
 } as const satisfies Song

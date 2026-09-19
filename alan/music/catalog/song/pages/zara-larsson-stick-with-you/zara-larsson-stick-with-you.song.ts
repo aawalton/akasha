@@ -14,7 +14,6 @@ export const zaraLarssonStickWithYou = {
   ],
   title: "Stick With You",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

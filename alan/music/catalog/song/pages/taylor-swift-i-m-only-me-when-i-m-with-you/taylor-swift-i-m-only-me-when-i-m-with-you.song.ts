@@ -14,7 +14,6 @@ export const taylorSwiftIMOnlyMeWhenIMWithYou = {
   ],
   title: "I’m Only Me When I’m With You",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

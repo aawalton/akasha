@@ -14,7 +14,6 @@ export const siaLittleWing = {
   ],
   title: "Little Wing",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

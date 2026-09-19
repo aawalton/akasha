@@ -14,7 +14,6 @@ export const siaYouLostMe = {
   ],
   title: "You Lost Me",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   written: "collab",
 } as const satisfies Song

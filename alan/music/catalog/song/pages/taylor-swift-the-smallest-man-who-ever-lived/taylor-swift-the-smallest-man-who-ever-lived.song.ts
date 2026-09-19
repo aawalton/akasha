@@ -14,7 +14,6 @@ export const taylorSwiftTheSmallestManWhoEverLived = {
   ],
   title: "The Smallest Man Who Ever Lived",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

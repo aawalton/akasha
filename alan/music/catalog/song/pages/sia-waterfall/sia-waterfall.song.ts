@@ -14,7 +14,6 @@ export const siaWaterfall = {
   ],
   title: "Waterfall",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftSuperman = {
   ],
   title: "Superman",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

@@ -15,7 +15,6 @@ export const siaLetYourTearsFall = {
   ],
   title: "Let Your Tears Fall",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

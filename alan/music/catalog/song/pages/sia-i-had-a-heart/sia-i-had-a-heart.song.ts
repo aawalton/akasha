@@ -14,7 +14,6 @@ export const siaIHadAHeart = {
   ],
   title: "I Had a Heart",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

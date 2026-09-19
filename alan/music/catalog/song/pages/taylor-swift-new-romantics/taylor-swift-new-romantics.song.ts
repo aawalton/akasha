@@ -14,7 +14,6 @@ export const taylorSwiftNewRomantics = {
   ],
   title: "New Romantics",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

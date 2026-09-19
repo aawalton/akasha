@@ -14,7 +14,6 @@ export const siaDistractions = {
   ],
   title: "Distractions",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

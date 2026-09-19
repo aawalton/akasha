@@ -14,7 +14,6 @@ export const taylorSwiftAllOfTheGirlsYouLovedBefore = {
   ],
   title: "All of the Girls You Loved Before",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

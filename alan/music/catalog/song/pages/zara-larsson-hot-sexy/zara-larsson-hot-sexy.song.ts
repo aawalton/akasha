@@ -14,7 +14,6 @@ export const zaraLarssonHotSexy = {
   ],
   title: "HOT & SEXY",
   artist: "artist/zara-larsson",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

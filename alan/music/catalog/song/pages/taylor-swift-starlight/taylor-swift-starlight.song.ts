@@ -14,7 +14,6 @@ export const taylorSwiftStarlight = {
   ],
   title: "Starlight",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

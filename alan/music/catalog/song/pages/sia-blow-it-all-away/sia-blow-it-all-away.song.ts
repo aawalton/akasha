@@ -14,7 +14,6 @@ export const siaBlowItAllAway = {
   ],
   title: "Blow It All Away",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

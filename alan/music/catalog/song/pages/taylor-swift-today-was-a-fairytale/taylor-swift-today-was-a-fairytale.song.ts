@@ -14,7 +14,6 @@ export const taylorSwiftTodayWasAFairytale = {
   ],
   title: "Today Was a Fairytale",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

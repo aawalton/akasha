@@ -14,7 +14,6 @@ export const taylorSwiftHitsDifferent = {
   ],
   title: "Hits Different",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const siaWaitingToDie = {
   ],
   title: "Waiting to Die",
   artist: "artist/sia",
-  songType: "original",
   performed: false,
   lyricsSource: "lrclib",
   written: "collab",

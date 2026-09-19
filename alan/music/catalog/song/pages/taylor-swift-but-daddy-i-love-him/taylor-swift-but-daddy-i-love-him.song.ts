@@ -14,7 +14,6 @@ export const taylorSwiftButDaddyILoveHim = {
   ],
   title: "But Daddy I Love Him",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

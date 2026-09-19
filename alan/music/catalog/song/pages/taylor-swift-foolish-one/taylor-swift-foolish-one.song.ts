@@ -14,7 +14,6 @@ export const taylorSwiftFoolishOne = {
   ],
   title: "Foolish One",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",

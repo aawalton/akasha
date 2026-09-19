@@ -14,7 +14,6 @@ export const siaTheChurchOfWhatSHappeningNow = {
   ],
   title: "The Church of What’s Happening Now",
   artist: "artist/sia",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

@@ -14,7 +14,6 @@ export const taylorSwiftGoldRush = {
   ],
   title: "gold rush",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",

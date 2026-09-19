@@ -14,7 +14,6 @@ export const taylorSwiftRuinTheFriendship = {
   ],
   title: "Ruin the Friendship",
   artist: "artist/taylor-swift",
-  songType: "original",
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
