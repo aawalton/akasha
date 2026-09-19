@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { temperNetWorthHour } from "akasha/temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
@@ -178,7 +180,7 @@ test("an hour page is the body that lands for that hour", () => {
       "",
       "export const hour2026042914 = {",
       '  id: "01a06009-4775-7004-82c8-ee74889a2ada",',
-      '  type: "page-type/temper-net-worth-hour",',
+      `  type: "${pageType.slug}/${temperNetWorthHour.slug}",`,
       '  slug: "hour-2026-04-29-14",',
       '  title: "2026-04-29 14:00 UTC",',
       '  snapshots: "jsonl",',
