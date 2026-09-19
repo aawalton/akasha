@@ -94,9 +94,13 @@ mock.module(
 mock.module("akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx", () => ({
   OfflineTextSync: nullComponent,
 }))
+const pushRegistrationSync = await import(
+  "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"
+)
 mock.module(
   "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx",
   () => ({
+    ...pushRegistrationSync,
     PushRegistrationSync: nullComponent,
   })
 )
