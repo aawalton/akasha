@@ -5,6 +5,11 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.type-generator.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/agent.page-type.ts"}

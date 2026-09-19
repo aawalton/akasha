@@ -15,6 +15,7 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { bodyAfter } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   aProperty,
   aType,
@@ -29,8 +30,14 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
 const MISSING = "akasha/one/missing.module.ts"
 
@@ -122,7 +129,7 @@ function keptRepo(): string {
       id: idOf("e"),
       pageTypeSlug: "page-type",
       slug: "kept",
-      extendsSlug: ["page-type/page"],
+      extendsSlug: [PAGE_AT],
       properties: [
         {
           pagePropertySlug: "notes",
@@ -155,7 +162,7 @@ const PARTS = aProperty("01a04a4a-0002-7000-8000-000000000008", "parts", "relati
 const MODULE = aType(
   idOf("6"),
   "module",
-  ["page-type/domain"],
+  [DOMAIN_AT],
   ["code", "test", "note", "part-slugs", "parts"]
 )
 

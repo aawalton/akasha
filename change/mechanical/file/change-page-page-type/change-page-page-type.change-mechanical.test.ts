@@ -17,8 +17,12 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 const KEPT_TYPE = "akasha/kept.page-type.ts"
 
@@ -61,7 +65,7 @@ function typeBody(slug: string, at: string): string {
     pageTypeSlug: "page-type",
     slug,
     pluralSlug: `${slug}s`,
-    extendsSlug: ["page-type/page"],
+    extendsSlug: [PAGE_AT],
     properties: [
       { pagePropertySlug: "file-property/code", required: false, many: false },
       { pagePropertySlug: "file-property/routes", required: false, many: false },

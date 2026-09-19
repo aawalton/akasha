@@ -85,6 +85,7 @@
 {"propertySlug":"extends-type","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"extends-type","path":"temper/eso-declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts","id":"01a081b0-6ef0-79f7-8191-4b78fb717423"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/claude-code.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/claude-code-session.domain.ts"}

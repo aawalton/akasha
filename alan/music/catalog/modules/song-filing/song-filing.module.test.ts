@@ -5,6 +5,10 @@ import {
   songValuesFor,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { song } from "akasha/alan/music/catalog/song/song.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
+const SONG_AT = `${pageType.slug}/${song.slug}` as const
 
 function filing(): Filing {
   return {
@@ -19,7 +23,7 @@ test("a title matching no song is filed as a song of the artist the release name
   const filed = songFiledFor(held, "sylvia-daley", "Pixie Dust")
   expect(filed?.slug).toBe("sylvia-daley-pixie-dust")
   expect(filed?.values).toEqual({
-    type: "page-type/song",
+    type: SONG_AT,
     slug: "sylvia-daley-pixie-dust",
     title: "Pixie Dust",
     artist: "artist/sylvia-daley",

@@ -9,8 +9,12 @@ import {
   indexedRepo,
   scratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const REACHES = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 afterAll(scratch.sweep)
 
@@ -20,7 +24,7 @@ const TYPE = bodyOf({
   id: idOf("e"),
   pageTypeSlug: "page-type",
   slug: "kept",
-  extendsSlug: ["page-type/page"],
+  extendsSlug: [PAGE_AT],
 })
 
 test("a page type path is taken away by the change this change reaches", async () => {

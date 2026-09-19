@@ -10,6 +10,7 @@ import {
   wentSilentAtKept,
   wentSilentAtOn,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
@@ -18,6 +19,7 @@ import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const PAGE = "alan/harness/readout/pages/upkeep-probe/upkeep-probe.readout.ts"
 
@@ -35,7 +37,7 @@ const LATER = "2026-08-31T12:05:00.000Z"
 
 const made = scratchWorld()
 
-const BODY = 'export const it = { type: "page-type/readout" }\n'
+const BODY = `export const it = { type: "${pageType.slug}/${readout.slug}" }\n`
 
 const scratch = {
   rootFor: (name: string): string => {
