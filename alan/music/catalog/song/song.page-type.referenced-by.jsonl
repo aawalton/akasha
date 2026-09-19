@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"song.page-type.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"song.page-type.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.test.ts"}
+{"propertySlug":"import","fileName":"song.page-type.ts","path":"alan/music/catalog/modules/song-words/song-words.module.test.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/alexandria-always-an-angel/alexandria-always-an-angel.song.ts"}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/alexandria-fallen-angel/alexandria-fallen-angel.song.ts"}

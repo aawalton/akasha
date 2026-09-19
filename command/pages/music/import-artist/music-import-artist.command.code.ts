@@ -1,5 +1,3 @@
-import { existsSync, readFileSync } from "node:fs"
-import { join } from "node:path"
 import { identitiesWith } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   artistIn,
@@ -9,11 +7,6 @@ import {
 } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { catalogueSlugFor } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { searchLyrics } from "akasha/alan/music/catalog/modules/lrclib-client/lrclib-client.module.code.ts"
-import {
-  lyricsFieldsOf,
-  pickBestLyrics,
-  type SongLyrics,
-} from "akasha/alan/music/catalog/modules/lrclib-map/lrclib-map.module.code.ts"
 import type { LrclibRecord } from "akasha/alan/music/catalog/modules/lrclib-schema/lrclib-schema.module.code.ts"
 import {
   browseArtistRecordings,
@@ -33,6 +26,7 @@ import {
   pickBestArtist,
   type SongFields,
   songIdIn,
+  songValuesOver,
 } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import type {
   MbArtist,
@@ -44,6 +38,12 @@ import {
   songKey,
   titlesUnderArtist,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import {
+  TXT,
+  type Worded,
+  wordEdits,
+  wordsFor,
+} from "akasha/alan/music/catalog/modules/song-words/song-words.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -69,7 +69,6 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicImportArtist as page } from "akasha/command/pages/music/import-artist/music-import-artist.command.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
@@ -87,12 +86,6 @@ const ARTIST = "artist"
 const SONG = "song"
 
 const PAGE_TYPE = "page-type"
-
-const TXT = "txt"
-
-const LYRICS = "lyrics"
-
-const SYNCED_LYRICS = "synced-lyrics"
 
 const NAMED = [json, songLimit, artistNameArgument, mbidArgument] as const
 
@@ -180,37 +173,6 @@ function edited(put: Put): Asking {
   return { at: WRITE, given: { at: put.path, body: put.content } }
 }
 
-function heldAt(root: string, at: string): string | null {
-  const full = join(root, at)
-  return existsSync(full) ? readFileSync(full, "utf8") : null
-}
-
-function wordEdits(root: string, put: Put, words: SongLyrics): readonly Asking[] {
-  const edits: Asking[] = []
-  for (const [propertySlug, text] of [
-    [LYRICS, words.lyrics],
-    [SYNCED_LYRICS, words.syncedLyrics],
-  ] as const) {
-    if (text === null) continue
-    const beside = besideAt(put.path, propertySlug, TXT)
-    if (beside === null) continue
-    if (heldAt(root, beside) === text) continue
-    edits.push({ at: WRITE, given: { at: beside, body: text } })
-  }
-  return edits
-}
-
-type Worded = { readonly words: SongLyrics | null; readonly unread: boolean }
-
-async function wordsFor(reach: Reach, title: string, artistName: string): Promise<Worded> {
-  try {
-    const best = pickBestLyrics(await reach.searchLyrics(title, artistName), title, artistName)
-    return { words: best === null ? null : lyricsFieldsOf(best), unread: false }
-  } catch {
-    return { words: null, unread: true }
-  }
-}
-
 type Songed = { readonly edits: readonly Asking[]; readonly worded: Worded }
 
 const ARTIST_KEY = "artist"
@@ -238,11 +200,10 @@ async function songLanded(
   reach: Reach,
   source: Source
 ): Promise<Songed | { readonly refused: string }> {
-  const worded = await wordsFor(reach, fields.title, artistName)
+  const worded = await wordsFor(reach.searchLyrics, fields.title, artistName)
   const values: Value = underArtistKey(
     {
-      ...(catalogue.held.get(slug) ?? {}),
-      ...fields,
+      ...songValuesOver(catalogue.held.get(slug) ?? {}, fields),
       type: namedAs(PAGE_TYPE, SONG, null),
       slug,
     },
@@ -256,7 +217,7 @@ async function songLanded(
   const composed = composedFor(root, { pageTypeSlug: SONG, slug, values }, source)
   if ("refused" in composed) return composed
   const edits = [edited(composed.put)]
-  if (worded.words !== null) edits.push(...wordEdits(root, composed.put, worded.words))
+  if (worded.words !== null) edits.push(...wordEdits(root, composed.put.path, worded.words))
   return { edits, worded }
 }
 

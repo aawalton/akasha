@@ -10,6 +10,7 @@ import type { SongType } from "akasha/alan/music/catalog/song/properties/song-ty
 import type { Written } from "akasha/alan/music/catalog/song/properties/written.select-property.types.ts"
 import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
 import { compareKey } from "akasha/code/type/narrowing/modules/compare-key/compare-key.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export type ArtistFields = Pick<Artist, "title" | "genre">
 
@@ -245,4 +246,12 @@ export function mbRecordingToSongFields(args: {
 
 export function songIdIn(fields: SongFields): string | null {
   return idFrom(fields.externalIdentity, SOURCE)
+}
+
+const JUDGED = ["songType", "written"] as const
+
+export function songValuesOver(held: Value, fields: SongFields): Value {
+  const rest: Value = { ...held }
+  for (const key of JUDGED) delete rest[key]
+  return { ...rest, ...fields }
 }

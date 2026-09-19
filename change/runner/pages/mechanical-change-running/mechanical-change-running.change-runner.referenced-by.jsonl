@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/music/catalog/modules/song-words/song-words.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"change/modules/gated-landing/gated-landing.module.code.ts"}

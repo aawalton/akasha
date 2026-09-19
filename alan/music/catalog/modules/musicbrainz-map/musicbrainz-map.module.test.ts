@@ -13,7 +13,9 @@ import {
   mbWorkToSongFields,
   performedWorkIds,
   pickBestArtist,
+  type SongFields,
   songIdIn,
+  songValuesOver,
 } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import {
   BOWIE,
@@ -389,16 +391,37 @@ describe("mbWorkToSongFields", () => {
     expect("written" in fields).toBe(false)
     expect("songType" in fields).toBe(false)
   })
+})
 
-  test("names a song type where the work is a version of another", () => {
-    const fields = mbWorkToSongFields({
-      work: work("w1", "Someone Else's Song", [versionRel("based on", "backward")]),
-      artistSlug: "queen",
-      artistMbid: QUEEN,
-      performed: false,
-      today: "2026-09-02",
-    })
-    expect(fields.songType).toBe("derivative")
+describe("songValuesOver", () => {
+  const fields = (): SongFields => ({
+    title: "Yellow",
+    artist: "artist/queen",
+    performed: true,
+  })
+
+  test("clears a song type the run states nothing under", () => {
+    const held = { slug: "queen-yellow", songType: "derivative", performed: true }
+    expect("songType" in songValuesOver(held, fields())).toBe(false)
+  })
+
+  test("clears a written the run states nothing under", () => {
+    const held = { slug: "queen-yellow", written: "collab", performed: true }
+    expect("written" in songValuesOver(held, fields())).toBe(false)
+  })
+
+  test("keeps what the run judges nothing about", () => {
+    const held = { slug: "queen-yellow", rank: "S", tags: ["night"] }
+    const values = songValuesOver(held, fields())
+    expect(values["rank"]).toBe("S")
+    expect(values["tags"]).toEqual(["night"])
+  })
+
+  test("takes the song type this run states", () => {
+    const held = { slug: "queen-yellow", songType: "derivative" }
+    const values = songValuesOver(held, { ...fields(), songType: "original" })
+    expect(values["songType"]).toBe("original")
+    expect(held.songType).toBe("derivative")
   })
 })
 

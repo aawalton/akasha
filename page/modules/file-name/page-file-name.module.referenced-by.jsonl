@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-sample-day/modules/opening-window/opening-window.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/music/catalog/modules/song-words/song-words.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/move-pages/move-pages.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/remove-file/remove-file.change-agent.code.ts"}
@@ -163,7 +164,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/measure/performance/measure-performance.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
@@ -241,7 +241,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon-build/modules/lua-build-command/lua-build-command.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/eso-declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}

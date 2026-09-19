@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The words of a song land in a file beside the song."},{"decisionKind":"decision-kind/departure","statement":"A song LRCLIB answers nothing for is left without words."},{"decisionKind":"decision-kind/departure","statement":"A reach that throws is read as words unread rather than as words absent."},{"decisionKind":"decision-kind/departure","statement":"A words file already holding the words read is written again by nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches the network of its own."}]}
+{"definition":"the words of a song read from LRCLIB and landed in files beside the song"}
+{"id":"01a0bad8-4f1e-7c00-9d31-5a2f0b7e61c4"}
+{"slug":"song-words"}
+{"test":"ts"}
+{"type":"page-type/module"}

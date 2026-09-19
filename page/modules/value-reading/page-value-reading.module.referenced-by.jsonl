@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.code.ts"}

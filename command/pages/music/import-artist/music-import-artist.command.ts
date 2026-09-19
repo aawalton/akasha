@@ -32,7 +32,11 @@ export const musicImportArtist = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The words of a song land in a file beside the song.",
+      statement: "A field this command judges from MusicBrainz is restated rather than left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A judged field this run states nothing under is cleared on the song.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,10 +66,7 @@ export const musicImportArtist = {
       decisionKind: "decision-kind/departure",
       statement: "A fault carries the code that fault names and says where it was thrown.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A words file already holding the words read is written again by nothing.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
