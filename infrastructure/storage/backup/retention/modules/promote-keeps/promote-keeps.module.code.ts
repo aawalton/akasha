@@ -59,16 +59,6 @@ async function main(): Promise<undefined> {
     console.log(`gfs-promoter: plan ${action.kind} ${action.backupId} (${action.reason})`)
   }
 
-  if (env.DRY_RUN === "1") {
-    console.log(`gfs-promoter: DRY_RUN — ${decision.actions.length} actions not applied`)
-    if (decision.disagreements.length > 0) {
-      for (const d of decision.disagreements)
-        console.error(`gfs-promoter: DISAGREEMENT ${d.message}`)
-      process.exit(1)
-    }
-    return
-  }
-
   const disagreements: KeepDisagreement[] = [...decision.disagreements]
   for (const action of decision.actions) {
     const expected: KeepState = action.kind === "mark-standalone" ? "standalone" : "nokeep"

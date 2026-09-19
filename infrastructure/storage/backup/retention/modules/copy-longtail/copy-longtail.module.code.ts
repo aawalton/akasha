@@ -232,13 +232,6 @@ async function main(): Promise<undefined> {
     }
     for (const id of prunes) console.log(`backup-longtail: plan prune ${id}`)
 
-    if (env.DRY_RUN === "1") {
-      console.log(
-        `backup-longtail: DRY_RUN — ${toCopy.length} copies + ${prunes.length} prunes not applied`
-      )
-      return
-    }
-
     for (const unit of toCopy) await materializeUnit(roots, unit)
 
     for (const id of prunes) {

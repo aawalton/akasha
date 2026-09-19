@@ -11,9 +11,5 @@ export const retentionEnv = {
       decisionKind: "decision-kind/departure",
       statement: "Every setting has the cluster's own value as its default.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run is a rehearsal only where the environment says so outright.",
-    },
   ],
 } as const satisfies Module
