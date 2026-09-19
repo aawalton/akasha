@@ -18,10 +18,6 @@ export const deployEndedAt = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run leaves the moment as that moment was.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The cooldown a service waits out is counted from this moment.",
     },
     {

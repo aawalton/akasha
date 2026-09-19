@@ -19,10 +19,6 @@ export const refusedCommit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run leaves the commit as that commit was.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The commit is kept uncommitted, so no deploy's closure reaches it.",
     },
   ],

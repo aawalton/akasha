@@ -23,10 +23,6 @@ export const deployedCommit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run leaves the commit as that commit was.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "What a deploy is judged against is the diff between this commit and the new one.",
     },
     {
