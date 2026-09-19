@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { addFileCommand } from "akasha/change/agent/file/add-file/add-file.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/one.held.ts"

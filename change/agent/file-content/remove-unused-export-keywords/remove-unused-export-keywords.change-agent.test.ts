@@ -1,9 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { removeUnusedExportKeywords } from "akasha/change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { bodyAnswered } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
