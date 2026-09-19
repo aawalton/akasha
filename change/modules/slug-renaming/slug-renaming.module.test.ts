@@ -14,6 +14,7 @@ import {
   bodyAfter,
   bodyAt,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   aType,
   bodyOf,
@@ -26,6 +27,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -225,7 +227,7 @@ const KEYED_KEY = "heldNote"
 
 const KEYED_NAMER = "akasha/two/keyed.module.ts"
 
-const KEYED_ABOVE = ["page-type/domain"]
+const KEYED_ABOVE = [`${pageType.slug}/${domain.slug}`]
 
 const KEYED_DECLARES = ["code", "test", "note", "part-slugs", KEYED_PROPERTY]
 

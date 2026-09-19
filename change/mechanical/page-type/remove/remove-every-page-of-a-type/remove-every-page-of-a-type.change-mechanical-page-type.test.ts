@@ -10,6 +10,7 @@ import {
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   aProperty,
   aType,
@@ -19,8 +20,11 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
 const SPRIG_TYPE = "akasha/sprig.page-type.ts"
 
@@ -41,7 +45,7 @@ const PARTING = aProperty("01a04a4a-0003-7000-8000-000000000006", "parts", "rela
 const PARTING_MODULE = aType(
   "01a04a4a-0000-7000-8000-000000000006",
   "module",
-  ["page-type/domain"],
+  [DOMAIN_AT],
   ["code", "test", "note", "part-slugs", "parts"]
 )
 
@@ -49,11 +53,9 @@ const SPRIGS: Readonly<Record<string, string>> = {
   [`akasha/${PARTING[0]}`]: bodyOf(PARTING[1]),
   [`akasha/${PARTING_MODULE[0]}`]: bodyOf(PARTING_MODULE[1]),
   [SPRIG_TYPE]: bodyOf(
-    aType("01a04a4a-0003-7000-8000-000000000001", "sprig", ["page-type/domain"], ["code"])[1]
+    aType("01a04a4a-0003-7000-8000-000000000001", "sprig", [DOMAIN_AT], ["code"])[1]
   ),
-  [TWIG_TYPE]: bodyOf(
-    aType("01a04a4a-0003-7000-8000-000000000002", "twig", ["page-type/domain"])[1]
-  ),
+  [TWIG_TYPE]: bodyOf(aType("01a04a4a-0003-7000-8000-000000000002", "twig", [DOMAIN_AT])[1]),
   [ONE_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000003",
     pageTypeSlug: "sprig",

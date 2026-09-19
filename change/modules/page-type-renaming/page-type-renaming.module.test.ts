@@ -11,6 +11,7 @@ import {
   faultSaid,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   aType,
   bodyOf,
@@ -18,6 +19,7 @@ import {
   pageOf,
   scratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -33,7 +35,9 @@ const PAGE_CODE = "akasha/widgets/one.widget.code.ts"
 
 const NAMER_AT = "akasha/wider/wider.module.code.ts"
 
-const [, WIDGET_TYPE] = aType(idOf("d"), WAS, ["page-type/domain"], ["code"])
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const [, WIDGET_TYPE] = aType(idOf("d"), WAS, [DOMAIN_AT], ["code"])
 
 const HELD: Readonly<Record<string, string>> = {
   [TYPE_AT]: bodyOf(WIDGET_TYPE),
