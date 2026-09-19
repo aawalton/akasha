@@ -1,0 +1,7 @@
+{"definition":"the service ending every seat whose agent is gone"}
+{"enabled":true}
+{"id":"01a0b716-cdc9-793e-85f4-3702945b30d5"}
+{"slug":"sweep-absent-seats"}
+{"systemd":{"restartDelaySeconds":10}}
+{"told":false}
+{"type":"page-type/service-workstation"}

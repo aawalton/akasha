@@ -56,6 +56,7 @@ export const seat = {
     "service-workstation/maintain-seat-pending",
     "service-workstation/memory-reaper",
     "service-workstation/recipient-resolver",
+    "service-workstation/sweep-absent-seats",
     "service-workstation/sweep-log-days",
     "service-workstation/sweep-supervisor-logs",
     "text-property/claude-code-session-uuid",

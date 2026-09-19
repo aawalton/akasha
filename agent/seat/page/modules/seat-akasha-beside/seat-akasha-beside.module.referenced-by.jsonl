@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/page/modules/writing/seat-page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}

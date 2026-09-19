@@ -1,0 +1,32 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const absentSweeping = {
+  id: "01a0b716-cdc8-7ec3-9c4a-8eb732595db3",
+  type: "page-type/module",
+  slug: "absent-sweeping",
+  definition: "a seat whose agent is gone found and brought to its end",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat is found here by the process that seat states being gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat stating no process is left alone, since no agent has taken it yet.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat whose process cannot be read is left alone rather than taken as gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat found here is ended by the stop every other caller ends a seat by.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here takes a page away of its own.",
+    },
+  ],
+} as const satisfies Module

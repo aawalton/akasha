@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/maintain-seat-pending/maintain-seat-pending.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/memory-reaper/memory-reaper.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-absent-seats/sweep-absent-seats.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/sweep-supervisor-logs/sweep-supervisor-logs.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.ts"}

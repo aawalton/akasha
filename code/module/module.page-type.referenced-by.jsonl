@@ -269,6 +269,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/session/seat-session.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/stopping/modules/kill-target-plan/kill-target-plan.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.ts"}

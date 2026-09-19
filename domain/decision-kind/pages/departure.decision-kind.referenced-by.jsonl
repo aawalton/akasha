@@ -318,6 +318,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.ts","id":"01a06949-b281-7c83-952b-22f6213b7460"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/seat-session.module.ts","id":"01a06949-b281-709f-96f4-45790933cf1e"}
+{"propertySlug":"decision-kind","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.ts","id":"01a0b716-cdc8-7ec3-9c4a-8eb732595db3"}
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/seat-stopping.module.ts","id":"01a05d02-889b-7880-9ab9-c72cdc79dc5c"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
