@@ -7,10 +7,10 @@ export const brushFloss = {
   title: "Brush + Floss",
   toDoCategory: "health",
   difficulty: "trivial",
-  toDoDueDate: "2026-09-19",
+  toDoDueDate: "2026-09-20",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 49,
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-18T19:34:47.564Z",
+  toDoLastCompletedAt: "2026-09-19T20:19:16.297Z",
 } as const satisfies ToDo
