@@ -10,18 +10,22 @@ import {
   pathsUnder,
 } from "akasha/check/modules/router-app-code/router-app-code.module.code.ts"
 import { filePropertiesAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  readingIn,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
 
 export function askingAt(root: string): Asking {
   const disk = onDisk(root)
+  const reading = readingIn(root)
   const shadow = shadowAt(root)
   const held = new Map<string, readonly string[]>()
   return {
-    appsFiled: () => everyOfType(root, APP).map((one) => one.path),
-    namedFilesOf: (pageTypeSlug) => filePropertiesAt(root).get(pageTypeSlug) ?? NONE,
+    appsFiled: () => everyOfType(reading, APP).map((one) => one.path),
+    namedFilesOf: (pageTypeSlug) => filePropertiesAt(reading).get(pageTypeSlug) ?? NONE,
     pathsUnder: (at) => {
       const found = held.get(at)
       if (found !== undefined) return found
