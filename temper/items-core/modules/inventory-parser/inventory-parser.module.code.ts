@@ -166,9 +166,9 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   const suggestedPrice = asOptionalNumber(item.suggestedPrice)
   const marketValue = asOptionalNumber(item.marketValue) ?? asOptionalNumber(item.estimatedValue)
 
-  if (parsed.bound) {
-    if (marketValue !== undefined) parsed.replacementValue = marketValue
-  } else {
+  if (marketValue !== undefined) parsed.replacementValue = marketValue
+
+  if (!parsed.bound) {
     if (saleAvg !== undefined) parsed.saleAvg = saleAvg
     if (minPrice !== undefined) parsed.minPrice = minPrice
     if (amountCount !== undefined) parsed.amountCount = amountCount

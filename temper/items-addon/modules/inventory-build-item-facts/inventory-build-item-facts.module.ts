@@ -6,4 +6,10 @@ export const inventoryBuildItemFacts = {
   slug: "inventory-build-item-facts",
   definition: "the facts about one item that the rule evaluator judges, read from a slot or a link",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bound item has a replacement value and no market value.",
+    },
+  ],
 } as const satisfies Module

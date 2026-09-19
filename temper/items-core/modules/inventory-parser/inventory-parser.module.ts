@@ -16,5 +16,9 @@ export const inventoryParser = {
       statement:
         "A capture written before the rename says estimatedValue where marketValue is meant.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bound item read out of a capture has a replacement value and no market value.",
+    },
   ],
 } as const satisfies Module

@@ -3973,6 +3973,7 @@
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-bank-trace-fold/inventory-bank-trace-fold.module.ts","id":"01a06258-b528-7c01-a1ff-06f7e3a14a57"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.ts","id":"01a06258-b528-744f-9bd2-f905f500edb0"}
+{"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.ts","id":"01a06258-b529-71ba-8496-6c343352f8de"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.ts","id":"01a06258-b52a-73ae-8e70-29b3bb5beb50"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-events/inventory-events.module.ts","id":"01a06258-b52b-7a61-a1ab-0439cd103604"}
 {"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-item-data/inventory-item-data.module.ts","id":"01a06258-b52d-7b46-8cda-3be08ef726d7"}

@@ -1,4 +1,5 @@
 {"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A bound item has a replacement value and no market value."}]}
 {"definition":"the facts about one item that the rule evaluator judges, read from a slot or a link"}
 {"id":"01a06258-b529-71ba-8496-6c343352f8de"}
 {"slug":"inventory-build-item-facts"}
