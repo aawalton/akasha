@@ -13,7 +13,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answering,
@@ -40,9 +39,9 @@ const OWN = ["singability", "insights", "personalConnections", "reaction", "rank
 
 const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
-const NAMED = [json, dryRun] as const
+const NAMED = [json] as const
 
-export type Taken = { readonly json: boolean; readonly dryRun: boolean }
+export type Taken = { readonly json: boolean }
 
 export type Held = {
   readonly slug: string
@@ -71,7 +70,7 @@ export function taken(
 ): Taken | { readonly refused: string } {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused.join(" ") }
-  return { json: read.taken.json, dryRun: read.taken.dryRun }
+  return { json: read.taken.json }
 }
 
 export function ownValued(value: Value): boolean {
@@ -170,7 +169,7 @@ async function ran(argv: readonly string[], given: Given, landing: Landing): Pro
   const rows = asked.json
     ? [JSON.stringify(found.counts)]
     : [...rowsOf(found.counts), ...found.held.map((one) => `left\t${one}`)]
-  if (asked.dryRun || found.changes.length === 0) return told(rows)
+  if (found.changes.length === 0) return told(rows)
   const landed = await landing(given.root, found.changes, messageOf(found.counts))
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return refused(wrong.join("; "), DATA)

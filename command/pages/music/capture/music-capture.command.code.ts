@@ -8,7 +8,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answeredWith,
@@ -66,8 +65,6 @@ const OBSERVED = "observed"
 const SEED_PRIOR_WINDOW = "seed-prior-window"
 
 const NOTHING_NEW = "nothing was played that is not already filed, so nothing landed"
-
-const NOTHING_WRITTEN = `nothing was written — ${dryRun.said}`
 
 export const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
@@ -391,14 +388,6 @@ export function jsonOf(planned: Planned): string {
   })
 }
 
-function wouldWrite(changes: readonly Asked[]): readonly string[] {
-  const said: string[] = []
-  for (const one of changes) {
-    if (one.at === WRITE) said.push(`would write ${one.given.at}`)
-  }
-  return said
-}
-
 async function captured(
   done: string[],
   argv: readonly string[],
@@ -406,7 +395,7 @@ async function captured(
   plays: Plays,
   landing: Landing
 ): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, [dryRun, json])
+  const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return refusedBy(read.refused)
   const held = read.taken
   const filed = filedIn(given.root)
@@ -418,10 +407,6 @@ async function captured(
   }
   const changes = changesFor(given.root, filed.heardPage, planned)
   if ("refused" in changes) return refused(changes.refused, DATA)
-  if (held.dryRun) {
-    const said = [...wouldWrite(changes), NOTHING_WRITTEN]
-    return told(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said])
-  }
   const landed = await landing(given.root, changes, messageFor(planned), { done })
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong

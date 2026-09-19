@@ -17,7 +17,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { trackLimit } from "akasha/command/argument/pages/track-limit.argument.ts"
 import {
@@ -39,11 +38,10 @@ const TRACK = "track"
 
 const SONG = "song"
 
-const NAMED = [json, dryRun, trackLimit] as const
+const NAMED = [json, trackLimit] as const
 
 export type Taken = {
   readonly json: boolean
-  readonly dryRun: boolean
   readonly limit: number | null
 }
 
@@ -65,11 +63,7 @@ export function taken(
 ): Taken | { readonly refused: string } {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused.join(" ") }
-  return {
-    json: read.taken.json,
-    dryRun: read.taken.dryRun,
-    limit: read.taken.trackLimit ?? null,
-  }
+  return { json: read.taken.json, limit: read.taken.trackLimit ?? null }
 }
 
 export function songOn(
@@ -143,7 +137,7 @@ async function ran(argv: readonly string[], given: Given, landing: Landing): Pro
   if ("refused" in held) return refused(held.refused, DATA)
   const found = linkingIn(given.root, held.limit)
   const rows = held.json ? [JSON.stringify(found.counts)] : rowsOf(found.counts)
-  if (held.dryRun || found.changes.length === 0) return told(rows)
+  if (found.changes.length === 0) return told(rows)
   const landed = await landing(given.root, found.changes, messageOf(found.counts))
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return refused(wrong.join("; "), DATA)

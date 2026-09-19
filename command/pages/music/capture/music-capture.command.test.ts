@@ -313,15 +313,6 @@ test("what capture files is named to the landing at the change writing any path"
   expect(asked.map((one) => one.at)).toEqual(asked.map(() => WRITE))
 })
 
-test("a run saying to write nothing reaches no landing and names what would be written", async () => {
-  const answer = await capturing(["--dry-run"], GIVEN, probePlays, () => {
-    throw new Error("a dry run reached the landing")
-  })
-  expect(answer.code).toBe(0)
-  expect(answer.report).toContain("nothing was written — --dry-run")
-  expect(answer.report.some((one) => one.startsWith("would write "))).toBe(true)
-})
-
 test("a landing that refused is answered with the refusal and nothing filed", async () => {
   const held = landingTelling(toldNothing, LOCK_HELD)
   const answer = await capturing([], GIVEN, probePlays, held)

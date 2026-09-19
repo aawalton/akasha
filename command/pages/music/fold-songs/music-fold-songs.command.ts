@@ -47,5 +47,5 @@ export const musicFoldSongs = {
     },
   ],
   name: "fold-songs",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

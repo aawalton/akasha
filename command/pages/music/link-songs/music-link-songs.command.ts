@@ -57,9 +57,5 @@ export const musicLinkSongs = {
     },
   ],
   name: "link-songs",
-  arguments: [
-    { argument: "argument/json" },
-    { argument: "argument/dry-run" },
-    { argument: "argument/track-limit" },
-  ],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/track-limit" }],
 } as const satisfies Command

@@ -1,6 +1,3 @@
-{"propertySlug":"argument","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
-{"propertySlug":"argument","path":"command/pages/music/fold-songs/music-fold-songs.command.ts","id":"01a0b7c9-4e11-7a26-9f03-8b41d0e5c772"}
-{"propertySlug":"argument","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
 {"propertySlug":"argument","path":"command/pages/track/health-import/track-health-import.command.ts","id":"01a0620c-6340-70c9-a176-730aa9470e96"}
 {"propertySlug":"argument","path":"command/pages/track/session/amend/track-session-amend.command.ts","id":"01a07979-7f49-7026-ba5c-99f1601920f2"}
 {"propertySlug":"argument","path":"command/pages/track/session/close/track-session-close.command.ts","id":"01a07979-7ead-77a5-955b-3cf604e934c7"}
@@ -12,9 +9,6 @@
 {"propertySlug":"argument","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/argument/modules/naming/argument-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/argument/modules/taking/argument-taking.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
-{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
-{"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/track/health-import/track-health-import.command.code.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"dry-run.argument.ts","path":"command/pages/track/session/amend/track-session-amend.command.code.ts"}

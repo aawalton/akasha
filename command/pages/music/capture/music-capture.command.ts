@@ -70,11 +70,6 @@ export const musicCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A run saying to write nothing reaches no landing and names what would be written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Every listen and every heard track is composed carrying an id of its own.",
     },
     {
@@ -99,5 +94,5 @@ export const musicCapture = {
     },
   ],
   name: "capture",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
