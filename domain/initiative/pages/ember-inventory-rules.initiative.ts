@@ -23,11 +23,6 @@ export const emberInventoryRules = {
         "6 Bound Affix Scripts, recorded `sell` by rule 83 `90d1aa3b`, where the fresh reading uses by rule 37 `unlock-by-priority`. Interrupt 208043, Savagery and Prophecy 208044, Berserk 208049, Lifesteal 208063, Defile 208064, Brittle 208065. The two sides key a script differently: `script-knowledge-lookup.module.code.ts:10-16` keys by item id, the capture and the addon by craftedAbilityScriptId, 1 to 70. 204593 is nowhere in the capture, so nobody knows any script outside the game.",
     },
     {
-      statement: "The addon and the outside reading agree on deconstructing a platinum jewel.",
-      workingMemory:
-        "2 items, recorded `deconstruct` by rule 60 `equipment-deconstruct`, where the fresh reading gives no verdict: Platinum Ring 138796 over 8 stacks, Platinum Necklace 138797 over 17. The same cause as the crafted weapons: rule 48 goes indeterminate on canResearch, and `freshVerdictFor` drops `outcomeAction deconstruct`. These two go once that one is answered.",
-    },
-    {
       statement: "The addon and the outside reading agree on which character a motif goes to.",
       workingMemory:
         "1 item: Crafting Motif 3 Wood Elf Style 16428. Both sides use by rule 37 with `character:by-priority`, so the rule agrees and the character does not: recorded Ceria Springwater 8796093045974297, fresh Mrsha du Marquin 8796093045924843. Two causes. The stack is in Mrsha's backpack and the capture says known of it, yet `knowsItemForChar` wants the whole chapter set for a master book. And the addon gives it to whoever knows fewest chapters, where parity takes first in priority.",
