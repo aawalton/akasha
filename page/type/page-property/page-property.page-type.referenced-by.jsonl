@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/workstation/properties/wants.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/file-property/properties/extensions.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/one-of-property/properties/members.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/select-property/properties/select-values.text-property.types.ts"}

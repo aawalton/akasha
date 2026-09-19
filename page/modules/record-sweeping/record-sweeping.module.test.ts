@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   keptFrom,
@@ -8,6 +9,9 @@ import {
   streamsIn,
   streamThere,
 } from "akasha/page/modules/record-sweeping/record-sweeping.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 type Held = Record<string, unknown>
 
@@ -25,6 +29,12 @@ const CHECK = "b/two.check.ts"
 
 const GROUP = "c/audit.held-group.ts"
 
+const FILE_PROPERTY_GROUP_AT = `${pageType.slug}/${filePropertyGroup.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
+
 const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
   slug,
   extends: above,
@@ -40,11 +50,11 @@ const TYPES: readonly Held[] = [
     [],
     [{ pageProperty: "file-property/entries" }, { pageProperty: "file-property/lines" }]
   ),
-  aType("page-property", ["page-type/page"], []),
-  aType("file-property-group", ["page-type/page-property"], []),
-  aType("held-group", ["page-type/file-property-group"], [{ pageProperty: "file-property/logs" }]),
-  aType("hook", ["page-type/page"], []),
-  aType("check", ["page-type/page"], [{ pageProperty: "held-group/audit" }]),
+  aType("page-property", [PAGE_AT], []),
+  aType("file-property-group", [PAGE_PROPERTY_AT], []),
+  aType("held-group", [FILE_PROPERTY_GROUP_AT], [{ pageProperty: "file-property/logs" }]),
+  aType("hook", [PAGE_AT], []),
+  aType("check", [PAGE_AT], [{ pageProperty: "held-group/audit" }]),
 ]
 
 const PROPERTIES: readonly Held[] = [

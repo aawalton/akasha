@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import type { Address } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   addressedIn,
@@ -7,8 +8,14 @@ import {
   slugIn,
 } from "akasha/page/modules/address/page-address.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ID = "01a04b14-4355-7352-9c98-ad67e309f5f6"
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
 function qualified(one: Address): readonly [string, string] {
   if (one.kind !== "qualified") throw new Error(`expected a qualified address, got ${one.kind}`)
@@ -22,7 +29,7 @@ test("a uuid names a page by identity", () => {
 })
 
 test("a page type and a slug are cut at the first slash", () => {
-  expect(qualified(addressIn("page-type/domain"))).toEqual(["page-type", "domain"])
+  expect(qualified(addressIn(DOMAIN_AT))).toEqual(["page-type", "domain"])
 })
 
 test("a third part names the collection a slug is unique within", () => {
@@ -70,7 +77,7 @@ test("a leading slash names an empty page type rather than no page type", () => 
 })
 
 test("a slug is taken off a qualified address and an id answers nothing", () => {
-  expect(slugIn("page-type/page")).toBe("page")
+  expect(slugIn(PAGE_AT)).toBe("page")
   expect(slugIn("page")).toBe("page")
   expect(slugIn("book-section/all-about-alan/notes")).toBe("notes")
   expect(slugIn("01a04e92-bfba-7ca8-b12b-37b6a6a4c408")).toBe(null)
@@ -88,7 +95,7 @@ test("a uuid becomes an address naming a page by the id it keeps", () => {
 })
 
 test("a page type and a slug become an address read by the slug property", () => {
-  expect(addressedIn("page-type/domain")).toEqual({
+  expect(addressedIn(DOMAIN_AT)).toEqual({
     pageTypeSlug: "page-type",
     propertySlug: "slug",
     value: "domain",
@@ -104,7 +111,7 @@ test("a parent named by a slug alone is refused, that slug naming pages of two t
 })
 
 test("a page type and a slug are named with a slash between them", () => {
-  expect(namedAs("page-type", "domain", null)).toBe("page-type/domain")
+  expect(namedAs("page-type", "domain", null)).toBe(DOMAIN_AT)
 })
 
 test("a scope is named between the page type and the slug", () => {

@@ -1,4 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
+import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import {
   fileKeysAt,
   fileKeysIn,
@@ -20,8 +24,17 @@ import {
 } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
 import { pathsOf } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const FILE_PROPERTY_AT = `${pageType.slug}/${fileProperty.slug}` as const
+
+const FILE_PROPERTY_GROUP_AT = `${pageType.slug}/${filePropertyGroup.slug}` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 
 test("the properties held in a file are the ones the file shape is", () => {
   const values = [
@@ -133,7 +146,7 @@ const EXTENDING = [
     id: "1",
     pageTypeSlug: "page-type",
     slug: "code-file-property",
-    extends: ["page-type/file-property"],
+    extends: [FILE_PROPERTY_AT],
   },
   { id: "2", pageTypeSlug: "code-file-property", slug: "lua", propertySlug: "lua" },
   {
@@ -166,11 +179,11 @@ test("a page type carries what every page type above it declares", () => {
       id: "2",
       pageTypeSlug: "page-type",
       slug: "module",
-      extends: ["page-type/domain"],
+      extends: [DOMAIN_AT],
       properties: [{ pagePropertySlug: "code" }],
     },
     { id: "3", pageTypeSlug: "page-type", slug: "domain", properties: [] },
-    { id: "4", pageTypeSlug: "page-type", slug: "index", extends: ["page-type/module"] },
+    { id: "4", pageTypeSlug: "page-type", slug: "index", extends: [MODULE_AT] },
   ]
 
   const said = filePropertiesIn(values)
@@ -264,7 +277,7 @@ const GROUPED = [
     id: "5",
     pageTypeSlug: "page-type",
     slug: "module-property-group",
-    extends: ["page-type/file-property-group"],
+    extends: [FILE_PROPERTY_GROUP_AT],
     properties: [
       { pageProperty: "file-property/code" },
       { pageProperty: "file-property/test" },

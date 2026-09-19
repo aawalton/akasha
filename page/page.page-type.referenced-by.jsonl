@@ -126,6 +126,8 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/agent.page-type.types.ts"}

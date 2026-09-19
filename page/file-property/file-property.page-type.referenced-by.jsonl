@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"page/code-file-property/code-file-property.page-type.ts","id":"01a0877d-0474-7e0b-9ce4-b84e15eed4ed"}
+{"propertySlug":"import","fileName":"file-property.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/hook/agent-hook/inference-hook/properties/stop-gates.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/hook/agent-hook/properties/clearings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/messaging/notice/properties/notice-text.file-property.ts"}
