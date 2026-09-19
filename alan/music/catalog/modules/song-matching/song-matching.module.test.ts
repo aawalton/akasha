@@ -47,6 +47,23 @@ test("an aside is dropped where a version tail is dropped beside it", () => {
   expect(compositionTitle("yes, and? (with Mariah Carey) - Remix")).toBe("yes, and?")
 })
 
+test("a tail holding a version word anywhere in it is dropped whole", () => {
+  expect(compositionTitle("A Junkie's Lament - 2019 Remaster")).toBe("A Junkie's Lament")
+  expect(compositionTitle("Blossom - Live At The Troubadour / 2007")).toBe("Blossom")
+  expect(compositionTitle("Elf - Sped Up Nightcore")).toBe("Elf")
+})
+
+test("an aside holding a version word anywhere in it is dropped whole", () => {
+  expect(compositionTitle("Elf (2019 Remaster)")).toBe("Elf")
+  expect(compositionTitle("Murder Song (5, 4, 3, 2, 1) - Acoustic")).toBe(
+    "Murder Song (5, 4, 3, 2, 1)"
+  )
+})
+
+test("a tail naming neither a credit nor a version is part of the title", () => {
+  expect(compositionTitle("Crush - Girls Trip")).toBe("Crush - Girls Trip")
+})
+
 test("two titles are one title where they hold the same letters and digits", () => {
   expect(songKey("aurora", "Run-Away!")).toBe(songKey("aurora", "runaway"))
 })

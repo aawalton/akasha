@@ -26,15 +26,16 @@ export const songMatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A bracketed aside naming a credit or a version is dropped from a title.",
+      statement: "A bracketed aside holding a credit or a version word is dropped from a title.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tail after a dash naming a credit or a version is dropped from a title.",
+      statement: "A tail after a dash holding a credit or a version word is dropped from a title.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An aside naming neither a credit nor a version is part of the title.",
+      statement:
+        "An aside or tail holding neither a credit nor a version word is part of the title.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -12,13 +12,16 @@ const DOUBLED = /\s{2,}/gu
 const CREDIT = "(?:feat|ft|featuring|with)\\b"
 
 const VERSION =
-  "(?:re-?mix(?:es)?|mix|live|acoustic|stripped|instrumental|a\\s?ca?pp?ella|demo" +
-  "|remaster(?:ed)?|sped\\s*up|slowed|reprise|radio\\s*edit|extended" +
-  "|single\\s+version|album\\s+version|version|edit|session|mono|stereo)"
+  "\\b(?:re-?mix(?:es|ed)?|mix|live|acoustic|stripped|instrumental|a\\s?ca?pp?ella|demo" +
+  "|remaster(?:ed)?|sped\\s*up|slowed|reprise|extended|version|edit|session|mono|stereo" +
+  "|take|rehearsal|single|alternate)\\b"
 
-const ASIDE = new RegExp(`\\s*[([]\\s*(?:${CREDIT}|${VERSION})[^)\\]]*[)\\]]`, "giu")
+const ASIDE = new RegExp(
+  `\\s*[(\\[](?=[^()\\[\\]]*(?:${CREDIT}|${VERSION}))[^()\\[\\]]*[)\\]]`,
+  "giu"
+)
 
-const TRAILING = new RegExp(`\\s+-\\s+(?:${CREDIT}|${VERSION}).*$`, "iu")
+const TRAILING = new RegExp(`\\s+-\\s+(?=[^-]*(?:${CREDIT}|${VERSION}))[^-]*$`, "iu")
 
 export function compositionTitle(title: string): string {
   let held = title
