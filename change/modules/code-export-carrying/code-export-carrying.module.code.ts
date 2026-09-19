@@ -11,17 +11,18 @@ import type {
   Refused,
 } from "akasha/change/modules/code-export-carrying/code-export-carrying.module.types.ts"
 import {
+  repointedIn,
+  spelledAt,
+} from "akasha/change/modules/code-export-repointing/code-export-repointing.module.code.ts"
+import {
   anchorIn,
   everyIn,
   importsIn,
   linesOf,
   namedAs,
-  namedIn,
   namesIn,
-  namingOf,
   namingsIn,
   openedIn,
-  pointedTo,
   type Taken,
   type Taking,
   withName,
@@ -42,8 +43,6 @@ const LINE = "\n"
 const PARTED = "\n\n"
 
 const OPENING = /^\n+/
-
-const EVERY = "*"
 
 const BESIDE = "."
 
@@ -154,18 +153,6 @@ function leftBy(text: string, gone: readonly Taken[]): string {
   return held
 }
 
-function rootedIn(naming: ReadonlyMap<string, string>): string | null {
-  for (const [specifier, path] of naming) {
-    if (path === EVERY && specifier.endsWith(`/${EVERY}`)) return specifier.slice(0, -EVERY.length)
-  }
-  return null
-}
-
-function spelledAt(given: Asked, path: string, naming: Naming): string {
-  const rooted = rootedIn(naming)
-  return rooted === null ? specifierFor(dirname(given.from), path) : `${rooted}${path}`
-}
-
 function takenOf(one: Going, spelled: string): Taking {
   return { name: one.name, from: spelled, type: typed(one.declared), every: false }
 }
@@ -197,60 +184,6 @@ function backIn(
   const anchor = anchorIn(text, source)
   if (anchor === null) return { at: given.from, old: text, new: `${line}${PARTED}${text}` }
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }
-}
-
-function landingFor(
-  at: string,
-  spelled: string,
-  given: Asked,
-  naming: ReadonlyMap<string, string>
-): string | null {
-  if (spelled.startsWith(BESIDE)) {
-    if (landingOf(at, spelled) !== given.from) return null
-    return specifierFor(dirname(at), given.to)
-  }
-  const rooted = rootedIn(naming)
-  if (rooted === null) return null
-  const names = naming.get(spelled) === given.from || spelled === `${rooted}${given.from}`
-  return names ? `${rooted}${given.to}` : null
-}
-
-function repointedAt(
-  text: string,
-  at: string,
-  given: Asked,
-  of: ReadonlySet<string>,
-  naming: ReadonlyMap<string, string>
-): readonly Passage[] {
-  const source = parsedAs(at, text)
-  for (const one of source.statements) {
-    if (!ts.isImportDeclaration(one)) continue
-    const bound = namedIn(one)
-    const named = one.moduleSpecifier
-    if (bound === null || !ts.isStringLiteral(named)) continue
-    const going = bound.elements.filter((each) => of.has(namingOf(each)))
-    if (going.length === 0) continue
-    const landing = landingFor(at, named.text, given, naming)
-    if (landing === null) continue
-    return pointedTo(text, source, one, bound, going, landing).map((each) => ({ at, ...each }))
-  }
-  return []
-}
-
-function repointedIn(
-  world: World,
-  given: Asked,
-  of: ReadonlySet<string>,
-  naming: Naming
-): readonly Passage[] | Refused {
-  const found: Passage[] = []
-  for (const at of world.index.importersOf(given.from)) {
-    if (at === given.to) continue
-    const held = world.textOf(at)
-    if (held === null) return { refused: `\`${at}\` names what moved and could not be read` }
-    found.push(...repointedAt(held, at, given, of, naming))
-  }
-  return found
 }
 
 function namingAt(source: ts.SourceFile, of: ReadonlySet<string>): ts.Statement | null {

@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/address-restating/address-restating.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts"}

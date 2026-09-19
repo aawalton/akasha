@@ -120,34 +120,6 @@ export const codeExportCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every body importing an export carried names the path that export landed at.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A body naming several of those exports is rewritten in one passage.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An export carried joins the line the body naming it already takes from that landing.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A line that body takes from the landing under a default or a namespace is joined by nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A body naming such an export under another name goes on naming the export under that name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A body naming such an export through a package names the export from the workspace root.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "A landing path holding no body is answered as a body to write rather than as a passage.",
     },

@@ -629,6 +629,7 @@
 {"propertySlug":"decision-kind","path":"change/modules/answer/change-answer.module.ts","id":"01a07721-531c-732a-a072-2842893f0584"}
 {"propertySlug":"decision-kind","path":"change/modules/bound-names/bound-names.module.ts","id":"01a0a67e-333d-7266-bf7a-3c5e63cb0dfb"}
 {"propertySlug":"decision-kind","path":"change/modules/code-export-carrying/code-export-carrying.module.ts","id":"01a09c3d-8d88-7d7f-9070-14c87fa1b4b2"}
+{"propertySlug":"decision-kind","path":"change/modules/code-export-repointing/code-export-repointing.module.ts","id":"01a0b795-3ef9-7cd7-bd07-ddeb56621fcf"}
 {"propertySlug":"decision-kind","path":"change/modules/edits-dropping/edits-dropping.module.ts","id":"01a09280-f5bf-7819-a752-07a3d5996019"}
 {"propertySlug":"decision-kind","path":"change/modules/edits-keeping/edits-keeping.module.ts","id":"01a0777c-12c6-7383-a773-c4a635e8720f"}
 {"propertySlug":"decision-kind","path":"change/modules/export-keyword/export-keyword.module.ts","id":"01a09b78-e712-7e62-a475-527e244c7146"}

@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/address-restating/address-restating.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/bound-names/bound-names.module.test.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts"}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/export-keyword/export-keyword.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/import-lines/import-lines.module.test.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"change/modules/literal-splicing/literal-splicing.module.test.ts"}

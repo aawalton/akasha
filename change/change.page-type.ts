@@ -16,6 +16,7 @@ export const change = {
     "module/change-shadow",
     "module/change-shadow-tree",
     "module/code-export-carrying",
+    "module/code-export-repointing",
     "module/edits-dropping",
     "module/edits-keeping",
     "module/export-keyword",

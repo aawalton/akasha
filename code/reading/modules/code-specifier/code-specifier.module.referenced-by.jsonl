@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.types.ts"}
+{"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/modules/package-naming/package-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"}
