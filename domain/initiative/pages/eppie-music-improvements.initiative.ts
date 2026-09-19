@@ -8,9 +8,6 @@ export const eppieMusicImprovements = {
   persona: "persona/eppie",
   intentStack: [
     {
-      statement: "No song is a version of another song.",
-    },
-    {
       statement: "Every song has a type.",
     },
   ],
