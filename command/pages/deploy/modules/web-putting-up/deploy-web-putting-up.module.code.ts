@@ -38,7 +38,6 @@ export async function putUpWebApp(
   slug: string,
   sha: string,
   given: Given,
-  dryRun: boolean,
   codeAt: string,
   up: string[] = []
 ): Promise<Answer> {
@@ -85,8 +84,7 @@ export async function putUpWebApp(
     return refusals
   }
 
-  const placed = alreadyUp && !dryRun
-  if (placed) {
+  if (alreadyUp) {
     const refusals = placing()
     if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
   }
@@ -96,10 +94,7 @@ export async function putUpWebApp(
   report.push(
     `source\t${sha}\t${carried.carried ? "origin carries it" : "origin does not carry it"}`
   )
-  if (!carried.carried && dryRun) {
-    report.push(`push\t${sha} would be pushed to origin, and a dry run pushes nothing`)
-  }
-  if (!carried.carried && !dryRun) {
+  if (!carried.carried) {
     const pushed = pushBranch(given.root)
     report.push(`push\t${pushed.line}`)
     if (pushed.failed) {
@@ -169,15 +164,10 @@ export async function putUpWebApp(
     return told(report)
   }
 
-  if (dryRun) {
-    report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
-    return told(report)
-  }
-
   const applying = (): readonly string[] => {
     for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
     const refusals: string[] = []
-    for (const one of putUp(plan, placed ? () => [] : placingBetween(given.root, report))) {
+    for (const one of putUp(plan, alreadyUp ? () => [] : placingBetween(given.root, report))) {
       report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
       if (one.code !== 0) {
         refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)

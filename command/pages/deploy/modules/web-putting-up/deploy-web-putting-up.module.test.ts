@@ -61,14 +61,14 @@ function ahead(root: string, name: string, message: string): string {
 }
 
 test("a slug no web app page carries is refused as the data's fault", async () => {
-  const answer = await putUpWebApp("no-such-web-app-here", NO_SHA, HERE, false, WORLD.root)
+  const answer = await putUpWebApp("no-such-web-app-here", NO_SHA, HERE, WORLD.root)
   expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("no-such-web-app-here")
   expect(answer.report).toEqual([])
 })
 
 test("a web app leaving which workload is meant unsettled is refused", async () => {
-  const answer = await putUpWebApp("two-web", NO_SHA, HERE, false, WORLD.root)
+  const answer = await putUpWebApp("two-web", NO_SHA, HERE, WORLD.root)
   expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("unsettled")
 })
@@ -82,7 +82,7 @@ test("a commit origin main does not carry is pushed there rather than refused", 
     said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
     tracking(world.root, origin)
     const sha = ahead(world.root, "later.txt", "what origin does not carry")
-    await putUpWebApp("one-web", sha, given(world.root), false, world.root)
+    await putUpWebApp("one-web", sha, given(world.root), world.root)
     expect(said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()).toBe(sha)
   } finally {
     rmSync(origin, { recursive: true, force: true })
@@ -104,31 +104,12 @@ test("a push the remote refuses refuses the call rather than building on", async
     ahead(theirs, "theirs.txt", "what someone else carried")
     said(["git", "-C", theirs, "push", "-q", "origin", "HEAD:refs/heads/main"])
     const sha = ahead(world.root, "later.txt", "what origin does not carry")
-    const answer = await putUpWebApp("one-web", sha, given(world.root), false, world.root)
+    const answer = await putUpWebApp("one-web", sha, given(world.root), world.root)
     expect(answer.code).toBe(OPERATIONAL)
     expect(answer.refusals[0]).toContain(sha)
     expect(answer.refusals.join(" ")).not.toContain("migration")
   } finally {
     rmSync(other, { recursive: true, force: true })
-    rmSync(origin, { recursive: true, force: true })
-    world.sweep()
-  }
-})
-
-test("a dry run says what the push would carry and pushes none of it", async () => {
-  const world = seededWorld()
-  const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
-  try {
-    tracked(world.root)
-    committed(world.root, "what origin carries")
-    said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
-    tracking(world.root, origin)
-    const before = said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()
-    const sha = ahead(world.root, "later.txt", "what origin does not carry")
-    const answer = await putUpWebApp("one-web", sha, given(world.root), true, world.root)
-    expect(said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()).toBe(before)
-    expect(answer.report.join("\n")).toContain(`${sha} would be pushed`)
-  } finally {
     rmSync(origin, { recursive: true, force: true })
     world.sweep()
   }

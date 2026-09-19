@@ -118,10 +118,6 @@ export const deployWebPuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dry run pushes nothing and says what the push would carry.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "The manifests and what the build needs are read from the tree pinned at the commit.",
     },
@@ -136,10 +132,6 @@ export const deployWebPuttingUp = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A deploy onto a workload the cluster does not run places them as it applies.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dry run places no secret.",
     },
   ],
 } as const satisfies Module

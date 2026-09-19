@@ -179,7 +179,7 @@ async function putUp(
   if (bundle !== null && bundle.refusals.length > 0) {
     return answeredWith(bundle.lines, bundle.refusals, OPERATIONAL)
   }
-  const web = await putUpWebApp(slug, commit, given, false, at, up)
+  const web = await putUpWebApp(slug, commit, given, at, up)
   if (bundle === null) return web
   return answeredWith([...bundle.lines, ...web.report], web.refusals, web.code)
 }
