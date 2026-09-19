@@ -6,6 +6,7 @@ import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-ma
 import { musicalTheater } from "akasha/alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts"
 import { releaseCollection } from "akasha/alan/music/catalog/release-collection/release-collection.page-type.ts"
 import {
+  artistOf,
   artistUnder,
   songFiledOn,
   songMatched,
@@ -46,6 +47,23 @@ test("a live take is matched to the song that take is a recording of", () => {
 
 test("a track on no release is matched to no song", () => {
   expect(songMatched(SONGS, BY_RELEASE, { title: "Elf" })).toBeNull()
+})
+
+test("a track whose release names no artist takes the artist Spotify credits on it", () => {
+  const onWicked = {
+    partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
+    trackArtist: [{ artistName: "Cynthia Erivo" }, { artistName: "Ariana Grande" }],
+  }
+  expect(artistOf(BY_RELEASE, onWicked)).toBe("cynthia-erivo")
+})
+
+test("a release naming an artist outranks the artist Spotify credits on a track", () => {
+  const onPixie = { ...ON_PIXIE, trackArtist: [{ artistName: "Somebody Else" }] }
+  expect(artistOf(BY_RELEASE, onPixie)).toBe(sylviaDaley.slug)
+})
+
+test("a track no release and no credit names takes no artist", () => {
+  expect(artistOf(BY_RELEASE, { title: "Elf" })).toBeNull()
 })
 
 test("a track whose release names an artist with no song is matched to no song", () => {

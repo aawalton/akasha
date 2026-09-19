@@ -39,7 +39,8 @@ export const musicLinkSongs = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A release filed under a collection that is no artist names no artist.",
+      statement:
+        "A track whose release names no artist is filed under the artist Spotify credits on it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,6 +50,10 @@ export const musicLinkSongs = {
       decisionKind: "decision-kind/departure",
       statement:
         "A run stopped at its limit reports the tracks that run read rather than every track filed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track Spotify credits to several artists is filed under the first of them.",
     },
   ],
   name: "link-songs",

@@ -1,3 +1,4 @@
+import { artistSlugOf } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   type Filed,
   type Filing,
@@ -25,6 +26,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { musicLinkSongs as page } from "akasha/command/pages/music/link-songs/music-link-songs.command.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
+  recordsIn,
   slugsIn,
   textIn,
   type Value,
@@ -40,6 +42,8 @@ const SONG = "song"
 const SONG_KEY = "song"
 
 const UNDER_ARTIST = "artist/"
+
+const TRACK_ARTIST = "trackArtist"
 
 const NAMED = [json, dryRun, trackLimit] as const
 
@@ -102,10 +106,16 @@ export function songNamed(value: Value): string | null {
   return said.startsWith(`${SONG}/`) ? said.slice(SONG.length + 1) : said
 }
 
+export function artistCredited(value: Value): string | null {
+  const first = recordsIn(value[TRACK_ARTIST])[0]
+  const name = first === undefined ? null : textIn(first, "artistName")
+  return name === null || name.trim() === "" ? null : artistSlugOf(name)
+}
+
 export function artistOf(byRelease: ReadonlyMap<string, string>, value: Value): string | null {
   const releaseSlug = slugsIn(value["partOfCollections"])[0]
-  if (releaseSlug === undefined) return null
-  return byRelease.get(releaseSlug) ?? null
+  const under = releaseSlug === undefined ? undefined : byRelease.get(releaseSlug)
+  return under ?? artistCredited(value)
 }
 
 export function songMatched(
