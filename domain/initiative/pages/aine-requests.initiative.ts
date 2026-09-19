@@ -6,4 +6,7 @@ export const aineRequests = {
   slug: "aine-requests",
   domain: "domain/feature-request",
   persona: "persona/aine",
+  intentStack: [
+    { statement: "Every feature request is a page naming the product that request is for." },
+  ],
 } as const satisfies Initiative
