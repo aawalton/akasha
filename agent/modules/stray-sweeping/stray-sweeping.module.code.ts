@@ -116,17 +116,17 @@ export type Asking = (entries: readonly ProcLivenessEntry[]) => Promise<Reading>
 
 export type Ending = (pids: readonly number[]) => Promise<unknown>
 
-const SCANNING: Scanning = () => scanProcEntries().entries
+const scanningHere: Scanning = () => scanProcEntries().entries
 
-const ASKING: Asking = (entries) => strayNow(entries)
+const askingHere: Asking = (entries) => strayNow(entries)
 
-const ENDING: Ending = (pids) => ending(pids)
+const endingHere: Ending = (pids) => ending(pids)
 
 export async function sweptOnce(
-  scanning: Scanning = SCANNING,
-  asking: Asking = ASKING,
+  scanning: Scanning = scanningHere,
+  asking: Asking = askingHere,
   times: TimesOf = timesOf,
-  end: Ending = ENDING
+  end: Ending = endingHere
 ): Promise<Swept> {
   const entries = scanning()
   const read = await asking(entries)
@@ -190,9 +190,9 @@ export type Kept = () => readonly string[]
 
 export type Keeping = (unread: readonly string[]) => undefined
 
-const KEPT: Kept = () => keptRead(homeAt())
+const keptHere: Kept = () => keptRead(homeAt())
 
-const KEEPING: Keeping = (unread) => keptWrite(unread, homeAt())
+const keepingHere: Keeping = (unread) => keptWrite(unread, homeAt())
 
 const LOG = "sweep-stray-processes:"
 
@@ -203,8 +203,8 @@ function logged(line: string): undefined {
 
 export async function sweepStrayProcesses(
   say: (line: string) => undefined = logged,
-  kept: Kept = KEPT,
-  keeping: Keeping = KEEPING
+  kept: Kept = keptHere,
+  keeping: Keeping = keepingHere
 ): Promise<void> {
   const swept = await sweptOnce()
   for (const line of saidOf(swept, kept())) say(line)
