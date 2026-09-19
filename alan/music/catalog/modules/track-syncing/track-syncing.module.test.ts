@@ -1,15 +1,31 @@
 import { expect, test } from "bun:test"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
+import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import {
   type Tracked,
   trackEdits,
   trackKeyFor,
   trackValues,
 } from "akasha/alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"
-import type { AlbumTrack } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
+import type {
+  AlbumTrack,
+  AlbumWithTracks,
+} from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TODAY = "2026-09-15"
+
+const ARTIST = "sylvia-daley"
+
+const RELEASE = "sylvia-daley-pixie"
+
+const ELF = "sylvia-daley-pixie-elf"
+
+const NO_SONGS: ReadonlyMap<string, string> = new Map()
+
+const ONE_SONG: ReadonlyMap<string, string> = new Map([
+  [songKey(ARTIST, "Elf"), "sylvia-daley-elf"],
+])
 
 function track(id: string, name: string, at: number, nth: number, disc = 1): AlbumTrack {
   return {
@@ -24,18 +40,41 @@ function track(id: string, name: string, at: number, nth: number, disc = 1): Alb
   }
 }
 
+function valuesFor(
+  one: AlbumTrack,
+  was: Value = {},
+  songs: ReadonlyMap<string, string> = NO_SONGS
+): Value {
+  return trackValues({
+    releaseSlug: RELEASE,
+    artistSlug: ARTIST,
+    songs,
+    slug: ELF,
+    track: one,
+    was,
+    today: TODAY,
+  })
+}
+
+function album(...items: readonly AlbumTrack[]): AlbumWithTracks {
+  return {
+    id: "a1",
+    name: "Pixie",
+    album_type: "album",
+    release_date: "2026-02-27",
+    release_date_precision: "day",
+    total_tracks: items.length,
+    external_urls: { spotify: "https://open.spotify.com/album/a1" },
+    tracks: { items: [...items] },
+  }
+}
+
 function nothingFiled(): Tracked {
   return { names: catalogueNamesFrom([]), held: new Map<string, Value>(), byRelease: new Set() }
 }
 
 test("a track arrives started by nobody and heard for none of its length", () => {
-  const values = trackValues({
-    releaseSlug: "sylvia-daley-pixie",
-    slug: "sylvia-daley-pixie-elf",
-    track: track("t7", "Elf", 90_000, 3),
-    was: {},
-    today: TODAY,
-  })
+  const values = valuesFor(track("t7", "Elf", 90_000, 3))
   expect(values["title"]).toBe("Elf")
   expect(values["partOfCollections"]).toEqual(["release/sylvia-daley-pixie"])
   expect(values["position"]).toBe(3)
@@ -47,26 +86,15 @@ test("a track arrives started by nobody and heard for none of its length", () =>
 })
 
 test("a track states the disc it sits on and whether it is explicit", () => {
-  const values = trackValues({
-    releaseSlug: "sylvia-daley-pixie",
-    slug: "sylvia-daley-pixie-elf",
-    track: track("t7", "Elf", 90_000, 3, 2),
-    was: {},
-    today: TODAY,
-  })
+  const values = valuesFor(track("t7", "Elf", 90_000, 3, 2))
   expect(values["discNumber"]).toBe(2)
   expect(values["explicit"]).toBe(false)
 })
 
 test("a track states every artist the provider credits, in the order given", () => {
   const one = track("t7", "Elf", 90_000, 3)
-  const values = trackValues({
-    releaseSlug: "sylvia-daley-pixie",
-    slug: "sylvia-daley-pixie-elf",
-    track: { ...one, artists: [...one.artists, { id: "sp-guest", name: "A Guest" }] },
-    was: {},
-    today: TODAY,
-  })
+  const guest = { id: "sp-guest", name: "A Guest" }
+  const values = valuesFor({ ...one, artists: [...one.artists, guest] })
   expect(values["trackArtist"]).toEqual([
     { externalId: "sp-artist", artistName: "Sylvia Daley" },
     { externalId: "sp-guest", artistName: "A Guest" },
@@ -74,14 +102,7 @@ test("a track states every artist the provider credits, in the order given", () 
 })
 
 test("a track states the key matching it to the same track on another release", () => {
-  const values = trackValues({
-    releaseSlug: "sylvia-daley-pixie",
-    slug: "sylvia-daley-pixie-elf",
-    track: track("t7", "Elf", 90_000, 3),
-    was: {},
-    today: TODAY,
-  })
-  expect(values["trackKey"]).toBe("elf|sp-artist|90000")
+  expect(valuesFor(track("t7", "Elf", 90_000, 3))["trackKey"]).toBe("elf|sp-artist|90000")
 })
 
 test("one recording carried on two releases has one track key", () => {
@@ -111,15 +132,24 @@ test("a track key names the artists in one order however the provider gives them
   expect(trackKeyFor(here)).toBe("elf|sp-artist,sp-guest|90000")
 })
 
+test("a track names the song that track is a recording of", () => {
+  expect(valuesFor(track("t7", "Elf", 90_000, 3), {}, ONE_SONG)["song"]).toBe(
+    "song/sylvia-daley-elf"
+  )
+})
+
+test("a live take names the song that take is a recording of", () => {
+  expect(valuesFor(track("t7", "Elf - Live", 90_000, 3), {}, ONE_SONG)["song"]).toBe(
+    "song/sylvia-daley-elf"
+  )
+})
+
+test("a track whose song is filed nowhere names no song", () => {
+  expect(valuesFor(track("t7", "Elf", 90_000, 3))["song"]).toBeUndefined()
+})
+
 test("a track names the one provider it was read from, stamped with the day it was read", () => {
-  const values = trackValues({
-    releaseSlug: "sylvia-daley-pixie",
-    slug: "sylvia-daley-pixie-elf",
-    track: track("t7", "Elf", 90_000, 3),
-    was: {},
-    today: TODAY,
-  })
-  expect(values["externalIdentity"]).toEqual([
+  expect(valuesFor(track("t7", "Elf", 90_000, 3))["externalIdentity"]).toEqual([
     {
       source: "spotify",
       externalId: "t7",
@@ -130,12 +160,10 @@ test("a track names the one provider it was read from, stamped with the day it w
 })
 
 test("the progress and the grade a person gave a track outlive the sweep", () => {
-  const values = trackValues({
-    releaseSlug: "sylvia-daley-pixie",
-    slug: "sylvia-daley-pixie-elf",
-    track: track("t7", "Elf", 90_000, 3),
-    was: { status: "completed", ownProgress: 1.5, rank: "S" },
-    today: TODAY,
+  const values = valuesFor(track("t7", "Elf", 90_000, 3), {
+    status: "completed",
+    ownProgress: 1.5,
+    rank: "S",
   })
   expect(values["status"]).toBe("completed")
   expect(values["ownProgress"]).toBe(1.5)
@@ -146,17 +174,10 @@ test("every track a release carries is composed as an edit of its own", () => {
   const tracks = nothingFiled()
   const asked: string[] = []
   const edits = trackEdits({
-    releaseSlug: "sylvia-daley-pixie",
-    album: {
-      id: "a1",
-      name: "Pixie",
-      album_type: "album",
-      release_date: "2026-02-27",
-      release_date_precision: "day",
-      total_tracks: 2,
-      external_urls: { spotify: "https://open.spotify.com/album/a1" },
-      tracks: { items: [track("t0", "One", 60_000, 1), track("t1", "Two", 60_000, 2)] },
-    },
+    releaseSlug: RELEASE,
+    artistSlug: ARTIST,
+    songs: NO_SONGS,
+    album: album(track("t0", "One", 60_000, 1), track("t1", "Two", 60_000, 2)),
     tracks,
     today: TODAY,
     edit: (pageTypeSlug, slug) => {
@@ -170,19 +191,12 @@ test("every track a release carries is composed as an edit of its own", () => {
 
 test("a release whose tracks are filed is marked so within the run that filed them", () => {
   const tracks = nothingFiled()
-  expect(tracks.byRelease.has("sylvia-daley-pixie")).toBe(false)
+  expect(tracks.byRelease.has(RELEASE)).toBe(false)
   trackEdits({
-    releaseSlug: "sylvia-daley-pixie",
-    album: {
-      id: "a1",
-      name: "Pixie",
-      album_type: "album",
-      release_date: "2026-02-27",
-      release_date_precision: "day",
-      total_tracks: 1,
-      external_urls: { spotify: "https://open.spotify.com/album/a1" },
-      tracks: { items: [track("t0", "One", 60_000, 1)] },
-    },
+    releaseSlug: RELEASE,
+    artistSlug: ARTIST,
+    songs: NO_SONGS,
+    album: album(track("t0", "One", 60_000, 1)),
     tracks,
     today: TODAY,
     edit: (_pageTypeSlug, slug) => ({
@@ -190,5 +204,5 @@ test("a release whose tracks are filed is marked so within the run that filed th
       given: { at: slug, body: "" },
     }),
   })
-  expect(tracks.byRelease.has("sylvia-daley-pixie")).toBe(true)
+  expect(tracks.byRelease.has(RELEASE)).toBe(true)
 })

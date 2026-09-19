@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/library/reading/book-section/properties/section-of.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/song/properties/artist.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/track/properties/song.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-relationship.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-value.relation-property.ts"}

@@ -1,0 +1,56 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const songMatching = {
+  id: "01a0b706-3edc-7c6a-9152-707fe1316ff6",
+  type: "page-type/module",
+  slug: "song-matching",
+  definition: "the song a released title is a recording of",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song is the composition rather than the release it was carried on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A remix, a live take and an acoustic cut are recordings of the one song.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A title is matched to a song under the artist the release names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A title a song holds whole is matched before anything is dropped from it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bracketed aside naming a credit or a version is dropped from a title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tail after a dash naming a credit or a version is dropped from a title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An aside naming neither a credit nor a version is part of the title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two titles are one title where they hold the same letters and digits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A title left with nothing by what was dropped keeps itself instead.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No title is matched to a song of another artist.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here mints a song.",
+    },
+  ],
+} as const satisfies Module

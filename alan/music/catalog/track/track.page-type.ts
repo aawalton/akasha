@@ -10,6 +10,7 @@ export const track = {
     "boolean-property/explicit",
     "number-property/disc-number",
     "record-property/track-artist",
+    "relation-property/song",
     "text-property/track-key",
   ],
   properties: [
@@ -23,6 +24,7 @@ export const track = {
       maxCount: null,
     },
     { pageProperty: "text-property/track-key", required: false, many: false },
+    { pageProperty: "relation-property/song", required: false, many: false },
   ],
   decisions: [
     {
@@ -42,7 +44,7 @@ export const track = {
       statement: "The tracks carrying one recording state one track key.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A track names the song that track is a recording of.",
     },
   ],

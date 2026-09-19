@@ -60,5 +60,17 @@ export const trackSyncing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here lands an edit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track names the song that track is a recording of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The song a track names is a song of the artist the release names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track whose song is filed nowhere names no song.",
+    },
   ],
 } as const satisfies Module

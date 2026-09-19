@@ -9,6 +9,7 @@ import {
   catalogueSlugFor,
   slugifyName,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
+import { songsFiledIn } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import {
   type Tracked,
   trackEdits,
@@ -301,6 +302,7 @@ export async function syncReleases(
   }
   const filed = filedIn(root)
   const tracks: Tracked = tracksFiledIn(root)
+  const songs = songsFiledIn(root)
   const source = sourceFor(root)
   const editing = (pageTypeSlug: string, slug: string, values: Value): Asking =>
     composedEdit(root, pageTypeSlug, slug, values, source)
@@ -339,6 +341,8 @@ export async function syncReleases(
         )
         const edits = trackEdits({
           releaseSlug: asked.slug,
+          artistSlug: one.slug,
+          songs,
           album: whole,
           tracks,
           today,
@@ -355,6 +359,8 @@ export async function syncReleases(
         const whole = await reach.getAlbum(behind.album.id)
         const edits = trackEdits({
           releaseSlug: behind.slug,
+          artistSlug: one.slug,
+          songs,
           album: whole,
           tracks,
           today,
