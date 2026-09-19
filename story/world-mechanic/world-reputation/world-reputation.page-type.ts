@@ -5,6 +5,7 @@ export const worldReputation = {
   type: "page-type/page-type",
   slug: "world-reputation",
   definition: "how a people stand toward a character",
+  pluralSlug: "reputations",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

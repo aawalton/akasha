@@ -1,6 +1,7 @@
 {"definition":"a shared worship a character belongs to"}
 {"extends":["page-type/world-mechanic"]}
 {"id":"01a06558-a991-75ad-97e7-2a55723fe665"}
+{"pluralSlug":"religions"}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"world-religion"}

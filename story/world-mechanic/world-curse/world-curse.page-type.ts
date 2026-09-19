@@ -5,6 +5,7 @@ export const worldCurse = {
   type: "page-type/page-type",
   slug: "world-curse",
   definition: "a lasting harm somebody lays on a character",
+  pluralSlug: "curses",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

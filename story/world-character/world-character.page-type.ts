@@ -5,6 +5,7 @@ export const worldCharacter = {
   type: "page-type/page-type",
   slug: "world-character",
   definition: "somebody a world's story follows",
+  pluralSlug: "characters",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

@@ -5,6 +5,7 @@ export const storyTurnPlayed = {
   type: "page-type/page-type",
   slug: "story-turn-played",
   definition: "one exchange of a story nobody wrote",
+  pluralSlug: "turns",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [{ pageProperty: "file-property/prose", required: true, many: false }],

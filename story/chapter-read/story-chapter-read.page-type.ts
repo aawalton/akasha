@@ -5,6 +5,7 @@ export const storyChapterRead = {
   type: "page-type/page-type",
   slug: "story-chapter-read",
   definition: "a chapter of a story somebody else wrote",
+  pluralSlug: "chapters",
   extends: ["page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {

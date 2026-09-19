@@ -5,6 +5,7 @@ export const worldSkill = {
   type: "page-type/page-type",
   slug: "world-skill",
   definition: "an ability a character works from the magic within them",
+  pluralSlug: "skills",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

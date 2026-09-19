@@ -5,6 +5,7 @@ export const namedEvent = {
   type: "page-type/page-type",
   slug: "named-event",
   definition: "something happening once in a story that its people afterwards date other things by",
+  pluralSlug: "named-events",
   extends: ["page-type/page"],
   parts: [
     "number-property/event-first-chapter",

@@ -5,6 +5,7 @@
 {"id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"mediaConfig":{"audio":{"sourcePropertyId":"prose","renderer":"tts","variantAxis":"narrator"},"image":{"renderer":"z-image-turbo"}}}
 {"parts":["instant-property/marked-read-at","instant-property/removed-at","number-property/anchor-beat","number-property/anchor-volume","page-property-entry/chronology-anchors","relation-property/read-chapter-story","select-property/anchor-direction","select-property/anchor-kind","select-property/anchor-standing","select-property/anchor-tier","text-property/anchor-chapter","text-property/anchor-claimed-by","text-property/anchor-lexeme","text-property/anchor-reference"]}
+{"pluralSlug":"chapters"}
 {"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/read-chapter-story","required":true,"many":false},{"pageProperty":"number-property/own-length","required":true,"many":false},{"pageProperty":"file-property/prose","required":true,"many":false},{"pageProperty":"instant-property/removed-at","required":false,"many":false},{"pageProperty":"instant-property/marked-read-at","required":false,"many":false},{"pageProperty":"page-property-entry/chronology-anchors","required":false,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}

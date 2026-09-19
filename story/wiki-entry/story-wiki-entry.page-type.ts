@@ -5,6 +5,7 @@ export const storyWikiEntry = {
   type: "page-type/page-type",
   slug: "story-wiki-entry",
   definition: "what a story has established about one of the things in it",
+  pluralSlug: "wiki-entries",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: ["number-property/chapter-number", "select-property/wiki-kind"],

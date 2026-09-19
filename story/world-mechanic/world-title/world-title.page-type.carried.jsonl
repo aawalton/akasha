@@ -1,6 +1,7 @@
 {"definition":"a name the world gives a character for something they did"}
 {"extends":["page-type/world-mechanic"]}
 {"id":"01a06558-a991-7a45-b681-fed7723c95e3"}
+{"pluralSlug":"titles"}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"world-title"}

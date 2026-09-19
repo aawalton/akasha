@@ -3,6 +3,7 @@
 {"extends":["page-type/page"]}
 {"id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"parts":["select-property/decision-type","text-property/chosen","text-property/decision-effect","text-property/decision-options"]}
+{"pluralSlug":"decisions"}
 {"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/world","required":false,"many":false},{"pageProperty":"number-property/chapter-number","required":false,"many":false},{"pageProperty":"select-property/decision-type","required":false,"many":false},{"pageProperty":"text-property/decision-options","required":false,"many":false},{"pageProperty":"text-property/chosen","required":false,"many":false},{"pageProperty":"text-property/decision-effect","required":false,"many":false},{"pageProperty":"file-property/prose","required":false,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}

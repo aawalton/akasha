@@ -5,6 +5,7 @@ export const worldTitle = {
   type: "page-type/page-type",
   slug: "world-title",
   definition: "a name the world gives a character for something they did",
+  pluralSlug: "titles",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

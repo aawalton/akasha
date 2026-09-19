@@ -5,6 +5,7 @@ export const worldSpell = {
   type: "page-type/page-type",
   slug: "world-spell",
   definition: "an ability a character works from the magic around them",
+  pluralSlug: "spells",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

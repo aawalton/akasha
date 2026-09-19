@@ -5,6 +5,7 @@ export const worldReligion = {
   type: "page-type/page-type",
   slug: "world-religion",
   definition: "a shared worship a character belongs to",
+  pluralSlug: "religions",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

@@ -5,6 +5,7 @@ export const worldCarriedMemory = {
   type: "page-type/page-type",
   slug: "world-carried-memory",
   definition: "someone else's remembered life, carried by a character",
+  pluralSlug: "carried-memories",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

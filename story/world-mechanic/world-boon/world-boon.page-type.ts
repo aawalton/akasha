@@ -5,6 +5,7 @@ export const worldBoon = {
   type: "page-type/page-type",
   slug: "world-boon",
   definition: "a gift a people or a power grants a character",
+  pluralSlug: "boons",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

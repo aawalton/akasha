@@ -2,6 +2,7 @@
 {"definition":"one exchange of a story nobody wrote"}
 {"extends":["page-type/collection"]}
 {"id":"01a064bc-8477-7bac-98ec-152da07077ce"}
+{"pluralSlug":"turns"}
 {"properties":[{"pageProperty":"file-property/prose","required":true,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}

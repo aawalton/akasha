@@ -5,6 +5,7 @@ export const worldCondition = {
   type: "page-type/page-type",
   slug: "world-condition",
   definition: "a change the world makes to a character, that stays with them",
+  pluralSlug: "conditions",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

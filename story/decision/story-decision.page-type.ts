@@ -5,6 +5,7 @@ export const storyDecision = {
   type: "page-type/page-type",
   slug: "story-decision",
   definition: "one fork a reader settled, with what the settling changed",
+  pluralSlug: "decisions",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

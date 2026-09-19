@@ -5,6 +5,7 @@ export const worldAspect = {
   type: "page-type/page-type",
   slug: "world-aspect",
   definition: "a change the world makes to what a character is made of",
+  pluralSlug: "aspects",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

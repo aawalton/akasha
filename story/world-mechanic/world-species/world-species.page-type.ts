@@ -5,6 +5,7 @@ export const worldSpecies = {
   type: "page-type/page-type",
   slug: "world-species",
   definition: "the kind of creature a character is",
+  pluralSlug: "species",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

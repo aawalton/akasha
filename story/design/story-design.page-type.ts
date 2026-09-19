@@ -5,6 +5,7 @@ export const storyDesign = {
   type: "page-type/page-type",
   slug: "story-design",
   definition: "how a story is meant to read, settled before the story is read",
+  pluralSlug: "designs",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

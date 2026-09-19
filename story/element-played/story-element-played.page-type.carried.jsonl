@@ -3,6 +3,7 @@
 {"extends":["page-type/page"]}
 {"id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"parts":["file-property/turn-states","relation-property/played-story","select-property/element-kind","text-property/doing","text-property/feeling","text-property/knowing","text-property/perceiving","text-property/wanting"]}
+{"pluralSlug":"elements"}
 {"properties":[{"pageProperty":"relation-property/played-story","required":true,"many":false},{"pageProperty":"select-property/element-kind","required":true,"many":false},{"pageProperty":"text-property/perceiving","required":true,"many":false},{"pageProperty":"text-property/knowing","required":true,"many":false},{"pageProperty":"text-property/feeling","required":true,"many":false},{"pageProperty":"text-property/wanting","required":true,"many":false},{"pageProperty":"text-property/doing","required":true,"many":false},{"pageProperty":"file-property/turn-states","required":false,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}

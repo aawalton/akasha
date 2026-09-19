@@ -3,6 +3,7 @@
 {"extends":["page-type/collection"]}
 {"id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"parts":["relation-property/written-chapter-story"]}
+{"pluralSlug":"chapters"}
 {"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/written-chapter-story","required":true,"many":false},{"pageProperty":"number-property/own-length","required":true,"many":false},{"pageProperty":"file-property/prose","required":true,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}

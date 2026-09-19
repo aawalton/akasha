@@ -5,6 +5,7 @@ export const storyChapterPlayed = {
   type: "page-type/page-type",
   slug: "story-chapter-played",
   definition: "a chapter of a story nobody wrote",
+  pluralSlug: "chapters",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
   parts: ["relation-property/played-chapter-story"],

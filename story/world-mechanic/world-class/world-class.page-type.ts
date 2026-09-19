@@ -5,6 +5,7 @@ export const worldClass = {
   type: "page-type/page-type",
   slug: "world-class",
   definition: "what a character is, that they get better at by being it",
+  pluralSlug: "classes",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

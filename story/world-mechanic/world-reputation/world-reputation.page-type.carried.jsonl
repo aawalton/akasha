@@ -1,6 +1,7 @@
 {"definition":"how a people stand toward a character"}
 {"extends":["page-type/world-mechanic"]}
 {"id":"01a06558-a991-7177-b114-17a075e47791"}
+{"pluralSlug":"reputations"}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"world-reputation"}

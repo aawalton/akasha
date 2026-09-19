@@ -5,6 +5,7 @@ export const worldSong = {
   type: "page-type/page-type",
   slug: "world-song",
   definition: "an ability a character works by singing",
+  pluralSlug: "songs",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

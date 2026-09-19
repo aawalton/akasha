@@ -5,6 +5,7 @@ export const storyElementPlayed = {
   type: "page-type/page-type",
   slug: "story-element-played",
   definition: "one thing a story nobody wrote was played out of",
+  pluralSlug: "elements",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

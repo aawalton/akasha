@@ -1,6 +1,7 @@
 {"definition":"a change the world makes to what a character is made of"}
 {"extends":["page-type/world-mechanic"]}
 {"id":"01a06558-a991-7cc1-8110-7cd6d92ebb03"}
+{"pluralSlug":"aspects"}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"world-aspect"}

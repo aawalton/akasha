@@ -5,6 +5,7 @@ export const worldQuest = {
   type: "page-type/page-type",
   slug: "world-quest",
   definition: "a piece of work the world sets a character",
+  pluralSlug: "quests",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

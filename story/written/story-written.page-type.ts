@@ -5,6 +5,7 @@ export const storyWritten = {
   type: "page-type/page-type",
   slug: "story-written",
   definition: "a story written here",
+  pluralSlug: "stories",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [

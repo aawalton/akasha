@@ -5,6 +5,7 @@ export const storyPlayed = {
   type: "page-type/page-type",
   slug: "story-played",
   definition: "a story nobody wrote",
+  pluralSlug: "stories",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
   detailConfig: {

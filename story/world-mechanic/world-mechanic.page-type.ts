@@ -5,6 +5,7 @@ export const worldMechanic = {
   type: "page-type/page-type",
   slug: "world-mechanic",
   definition: "one thing a world does the same way every time",
+  pluralSlug: "mechanics",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

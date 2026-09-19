@@ -5,6 +5,7 @@ export const worldItem = {
   type: "page-type/page-type",
   slug: "world-item",
   definition: "a thing a character has, that does something on its own",
+  pluralSlug: "items",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

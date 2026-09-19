@@ -5,6 +5,7 @@ export const worldRecipe = {
   type: "page-type/page-type",
   slug: "world-recipe",
   definition: "something a character knows how to make",
+  pluralSlug: "recipes",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

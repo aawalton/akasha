@@ -5,6 +5,7 @@ export const worldEnchantment = {
   type: "page-type/page-type",
   slug: "world-enchantment",
   definition: "a power worked into a made thing",
+  pluralSlug: "enchantments",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

@@ -5,6 +5,7 @@ export const worldLegacy = {
   type: "page-type/page-type",
   slug: "world-legacy",
   definition: "an ability a character inherits from whoever had it before",
+  pluralSlug: "legacies",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",

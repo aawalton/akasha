@@ -5,6 +5,7 @@ export const storyBuild = {
   type: "page-type/page-type",
   slug: "story-build",
   definition: "what a played character's numbers are at one chapter",
+  pluralSlug: "builds",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: ["number-property/build-level", "text-property/class-name", "text-property/game-system"],

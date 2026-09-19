@@ -5,6 +5,7 @@ export const worldMiracle = {
   type: "page-type/page-type",
   slug: "world-miracle",
   definition: "an ability a character works from faith rather than magic",
+  pluralSlug: "miracles",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   types: "ts",
