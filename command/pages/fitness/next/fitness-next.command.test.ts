@@ -79,6 +79,7 @@ function bounds(over: Partial<Bounds> = {}): Bounds {
     warmupShare: 0.5,
     warmupReps: 10,
     raising: 5,
+    raiseSeconds: 60,
     mobilising: 2,
     ...over,
   }
@@ -253,7 +254,7 @@ test("a dropped movement is offered again once its pattern has progressed elsewh
 
 test("a cold Alan is offered the whole warmup before his working set", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
-  expect(offer?.warmup?.raise).toEqual({ minutes: 5, title: null })
+  expect(offer?.warmup?.raise).toEqual({ minutes: 5, seconds: 60, movements: [] })
   expect(offer?.warmup?.ramp).toEqual({ weight: 10, reps: 10 })
   const said = saidOf(offer)
   expect(said[1]).toBe("  raise: 5 minutes easy, until you are breathing and damp")

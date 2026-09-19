@@ -27,6 +27,8 @@ const STATIC = "static"
 
 const MS_PER_MINUTE = 60_000
 
+const SECONDS_PER_MINUTE = 60
+
 export type Ramp = {
   readonly weight: number | null
   readonly reps: number
@@ -34,7 +36,8 @@ export type Ramp = {
 
 export type Raise = {
   readonly minutes: number
-  readonly title: string | null
+  readonly seconds: number
+  readonly movements: readonly string[]
 }
 
 export type Warmup = {
@@ -57,6 +60,7 @@ export type Warming = {
   readonly mobilising: number
   readonly share: number
   readonly reps: number
+  readonly seconds: number
   readonly covered: ReadonlySet<string>
   readonly raised: ReadonlyMap<string, string>
   readonly turn: number
@@ -130,25 +134,44 @@ export function raisingIn(
     .sort((a, b) => a.slug.localeCompare(b.slug))
 }
 
+function turnedBy(
+  some: readonly Movement[],
+  raised: ReadonlyMap<string, string>,
+  turn: number
+): readonly Movement[] {
+  const on = (one: Movement): string => raised.get(one.slug) ?? ""
+  const sorted = [...some].sort(
+    (a, b) => on(a).localeCompare(on(b)) || a.slug.localeCompare(b.slug)
+  )
+  const head = sorted[0]
+  if (head === undefined) return sorted
+  const tied = sorted.filter((one) => on(one) === on(head)).length
+  const at = ((turn % tied) + tied) % tied
+  return [...sorted.slice(at, tied), ...sorted.slice(0, at), ...sorted.slice(tied)]
+}
+
+export function raisesIn(given: Warming): number {
+  if (given.seconds <= 0) return 0
+  return Math.max(1, Math.round((given.raising * SECONDS_PER_MINUTE) / given.seconds))
+}
+
 export function raisingFor(
   movements: ReadonlyMap<string, Movement>,
   muscles: readonly string[],
   given: Warming
-): string | null {
+): readonly string[] {
   const able = raisingIn(movements, given.covered)
-  const fitted = able.filter((one) => one.muscles.some((each) => muscles.includes(each)))
-  const from = fitted.length > 0 ? fitted : able
-  const oldest = [...from].sort(
-    (a, b) =>
-      (given.raised.get(a.slug) ?? "").localeCompare(given.raised.get(b.slug) ?? "") ||
-      a.slug.localeCompare(b.slug)
-  )
-  const head = oldest[0]
-  if (head === undefined) return null
-  const on = given.raised.get(head.slug) ?? ""
-  const tied = oldest.filter((each) => (given.raised.get(each.slug) ?? "") === on)
-  const took = tied[((given.turn % tied.length) + tied.length) % tied.length]
-  return took === undefined ? null : (took.title ?? took.slug)
+  const fits = (one: Movement): boolean => one.muscles.some((each) => muscles.includes(each))
+  return [
+    ...turnedBy(able.filter(fits), given.raised, given.turn),
+    ...turnedBy(
+      able.filter((one) => !fits(one)),
+      given.raised,
+      given.turn
+    ),
+  ]
+    .slice(0, raisesIn(given))
+    .map((one) => one.title ?? one.slug)
 }
 
 export function warmupFor(
@@ -165,7 +188,11 @@ export function warmupFor(
   }
   if (given.warm) return { raise: null, mobilise: [], ramp }
   return {
-    raise: { minutes: given.raising, title: raisingFor(movements, one.muscles, given) },
+    raise: {
+      minutes: given.raising,
+      seconds: given.seconds,
+      movements: raisingFor(movements, one.muscles, given),
+    },
     mobilise: mobilisingFor(movements, one.muscles, given.mobilising),
     ramp,
   }
@@ -176,8 +203,12 @@ export function warmedOf(warmup: Warmup | null): readonly string[] {
   const said: string[] = []
   const raise = warmup.raise
   if (raise !== null) {
-    const how = `${String(raise.minutes)} minutes easy, until you are breathing and damp`
-    said.push(raise.title === null ? `  raise: ${how}` : `  raise: ${raise.title}, ${how}`)
+    const run = raise.movements.join(", ")
+    said.push(
+      raise.movements.length === 0
+        ? `  raise: ${String(raise.minutes)} minutes easy, until you are breathing and damp`
+        : `  raise: ${String(raise.seconds)} seconds each, easy — ${run}`
+    )
   }
   if (warmup.mobilise.length > 0) said.push(`  mobilise: ${warmup.mobilise.join(", ")}`)
   const reps = `${String(warmup.ramp.reps)} easy reps`

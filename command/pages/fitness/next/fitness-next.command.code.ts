@@ -94,6 +94,7 @@ export type Bounds = {
   readonly warmupShare: number
   readonly warmupReps: number
   readonly raising: number
+  readonly raiseSeconds: number
   readonly mobilising: number
 }
 
@@ -333,6 +334,7 @@ export function offerOf(
       mobilising: bounds.mobilising,
       share: bounds.warmupShare,
       reps: bounds.warmupReps,
+      seconds: bounds.raiseSeconds,
       covered,
       raised: warmth.raised,
       turn: warmth.turn,
@@ -398,6 +400,7 @@ export function nextIn(root: string, now: Date): Offer | null {
     warmupShare: selectionPolicy.warmupLoadShare,
     warmupReps: selectionPolicy.warmupReps,
     raising: selectionPolicy.minutesRaising,
+    raiseSeconds: selectionPolicy.secondsPerRaise,
     mobilising: selectionPolicy.mobilisingMovements,
   }
   const out = outIn(week.movements, restricted, dropped)

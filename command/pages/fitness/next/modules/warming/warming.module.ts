@@ -46,7 +46,8 @@ export const warming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The raise names one cardio movement rather than leaving what to do open.",
+      statement:
+        "The raise is a run of cardio movements rather than one movement held for the whole time.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,11 +56,11 @@ export const warming = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A raise sharing a muscle with the work to come leads; where none does, every raise is drawn on.",
+        "The raises sharing a muscle with the work to come lead the run, and the rest fill in behind.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The raise Alan performed longest ago is the raise offered.",
+      statement: "The raise Alan performed longest ago leads those it is ordered against.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,6 +79,15 @@ export const warming = {
       decisionKind: "decision-kind/departure",
       statement:
         "A raise is performed off one step, and a movement needing more than one is no raise.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No one movement raises Alan for longer than the seconds the policy allows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The run holds the raising minutes divided by those seconds, and one raise at the least.",
     },
   ],
 } as const satisfies Module

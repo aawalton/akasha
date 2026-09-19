@@ -11,6 +11,7 @@ import {
   mobilisingFor,
   movingIn,
   raisedIn,
+  raisesIn,
   raisingFor,
   raisingIn,
   warmedOf,
@@ -86,6 +87,7 @@ const WARMING = {
   mobilising: 2,
   share: 0.5,
   reps: 10,
+  seconds: 60,
   covered: COVERED,
   raised: new Map<string, string>(),
   turn: 0,
@@ -118,21 +120,33 @@ test("a raise is offered only where Alan's kit can carry that raise", () => {
   ])
 })
 
-test("the raise shares a muscle with the work to come", () => {
-  expect(raisingFor(MOVEMENTS, BENCH.muscles, COLD)).toBe("Shadow Boxing")
+test("the raises sharing a muscle with the work to come lead the run", () => {
+  expect(raisingFor(MOVEMENTS, BENCH.muscles, COLD)).toEqual(["Shadow Boxing", "Jumping Jacks"])
 })
 
-test("a work no raise fits is raised on any raise Alan's kit carries", () => {
-  expect(raisingFor(MOVEMENTS, ["lats"], COLD)).toBe("Jumping Jacks")
+test("a work no raise fits is raised on every raise Alan's kit carries", () => {
+  expect(raisingFor(MOVEMENTS, ["lats"], COLD)).toEqual(["Jumping Jacks", "Shadow Boxing"])
 })
 
-test("the raise Alan performed longest ago is the raise offered", () => {
-  const raised = new Map([["jumping-jacks", "2026-09-17"]])
-  expect(raisingFor(MOVEMENTS, ["lats"], { ...COLD, raised })).toBe("Shadow Boxing")
+test("the raise Alan performed longest ago leads the run", () => {
+  const raised = new Map([["jumping-jacks", day20260917.date]])
+  expect(raisingFor(MOVEMENTS, ["lats"], { ...COLD, raised })).toEqual([
+    "Shadow Boxing",
+    "Jumping Jacks",
+  ])
 })
 
 test("the day parts raises Alan has gone equally long without", () => {
-  expect(raisingFor(MOVEMENTS, ["lats"], { ...COLD, turn: 1 })).toBe("Shadow Boxing")
+  expect(raisingFor(MOVEMENTS, ["lats"], { ...COLD, turn: 1 })).toEqual([
+    "Shadow Boxing",
+    "Jumping Jacks",
+  ])
+})
+
+test("the run holds as many raises as the minutes divided by the seconds allow", () => {
+  expect(raisesIn(COLD)).toBe(5)
+  expect(raisesIn({ ...COLD, raising: 1 })).toBe(1)
+  expect(raisingFor(MOVEMENTS, ["lats"], { ...COLD, raising: 1 })).toEqual(["Jumping Jacks"])
 })
 
 test("what Alan raised with is read from the sets logged as cardio", () => {
@@ -156,7 +170,7 @@ test("the movements offered are those sharing a muscle with the movement to come
 test("a cold Alan raises, mobilises and ramps", () => {
   const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, COLD)
   expect(held).toEqual({
-    raise: { minutes: 5, title: "Shadow Boxing" },
+    raise: { minutes: 5, seconds: 60, movements: ["Shadow Boxing", "Jumping Jacks"] },
     mobilise: ["Dynamic Chest Stretch"],
     ramp: { weight: 15, reps: 10 },
   })
@@ -179,7 +193,7 @@ test("a movement with no working weight ramps on reps alone", () => {
 
 test("a warmup is said in the order it is done", () => {
   expect(warmedOf(warmupFor(BENCH, 30, LOADS, MOVEMENTS, COLD))).toEqual([
-    "  raise: Shadow Boxing, 5 minutes easy, until you are breathing and damp",
+    "  raise: 60 seconds each, easy — Shadow Boxing, Jumping Jacks",
     "  mobilise: Dynamic Chest Stretch",
     "  ramp: 15 lb, 10 easy reps",
   ])
