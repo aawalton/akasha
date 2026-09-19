@@ -8,11 +8,6 @@ export const nimueWorkstationUpgrade = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "The workstation holds 128 GB of memory running stably at a settled speed.",
-      workingMemory:
-        "Two KF560C36-32 modules hold their rated 6000 MT/s at 1.35 V on their own, in DIMMA2 and DIMMB2, both Rank 2. A second KF560C36BBEK2-64 kit is bought and not yet fitted. It goes in DIMMA1 and DIMMB1, making four dual-rank modules. 6000 may not hold across four, and 5600 then 5200 are the steps down; anything at or above 4800 is a gain. Configured Memory Speed in the DMI table says what took, and memtest86+ says it is stable.",
-    },
-    {
       statement:
         "The workstation's live data sits on a drive that does not stall the agents reading it.",
       workingMemory:
