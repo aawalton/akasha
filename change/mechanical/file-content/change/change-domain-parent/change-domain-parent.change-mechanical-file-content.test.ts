@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
+import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
+import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
 import { runChange } from "akasha/change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts"
 import { COMMAND_AT } from "akasha/change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test-fixtures.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { removePropertyValue } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { knownOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -11,11 +15,11 @@ const NAMESPACE = "01a07932-2568-72a6-8b8e-314ac44c417c"
 
 const PACKAGE = "01a07932-2568-72a6-8b8e-314ac44c417d"
 
-const ADDS = "change-mechanical-file-content/add-property-value"
+const ADDS = `${changeMechanicalFileContent.slug}/${addPropertyValue.slug}` as const
 
-const PUTS = "change-mechanical-file-content/add-page-property"
+const PUTS = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}` as const
 
-const REMOVES = "change-mechanical-file-content/remove-property-value"
+const REMOVES = `${changeMechanicalFileContent.slug}/${removePropertyValue.slug}` as const
 
 const HELD = "imessage/imessage.workspace-package.ts"
 

@@ -1,3 +1,7 @@
+import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
+import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { removePropertyValue } from "akasha/change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.ts"
 import { gathered, refusing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
@@ -14,9 +18,9 @@ import {
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
+const ADD_PAGE_PROPERTY = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}` as const
 
-const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
+const ADD_PROPERTY_VALUE = `${changeMechanicalFileContent.slug}/${addPropertyValue.slug}` as const
 
 const DOMAIN = "domain"
 
@@ -26,7 +30,8 @@ const PAGE = "page"
 
 const PARTS = "parts"
 
-const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
+const REMOVE_PROPERTY_VALUE =
+  `${changeMechanicalFileContent.slug}/${removePropertyValue.slug}` as const
 
 const TO = "to"
 
