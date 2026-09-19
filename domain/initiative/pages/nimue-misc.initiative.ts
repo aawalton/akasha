@@ -6,11 +6,5 @@ export const nimueMisc = {
   slug: "nimue-misc",
   domain: "domain/technology",
   persona: "persona/nimue",
-  intentStack: [
-    {
-      statement: "The verdict folder does not exist.",
-      workingMemory:
-        "Alan's intent. Surveying what verdict/ supports today, then settling with him what replaced it.",
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
