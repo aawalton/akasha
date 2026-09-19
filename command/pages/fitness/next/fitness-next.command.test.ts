@@ -282,8 +282,8 @@ test("an Alan warm but unramped is put on the ramp", () => {
   expect(saidOf(offer)[1]).toBe("  ramp: 10 lb, 10 easy reps")
 })
 
-test("what the work is owed is said with the work and with nothing else", () => {
-  expect(saidOf(OFFER)[2]).toBe("  chest is owed 6 more this week")
+test("what a muscle is owed is weighed and never said", () => {
+  expect(saidOf(OFFER)).toEqual(["Dumbbell Bench Press", "  30 lb, 20 reps"])
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {

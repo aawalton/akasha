@@ -174,6 +174,10 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement: "A run answers the one step Alan is on rather than the session that step opens.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "What a muscle is owed this week picks the movement and is never said to Alan.",
+    },
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],

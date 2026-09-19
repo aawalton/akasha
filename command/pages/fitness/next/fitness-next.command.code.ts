@@ -364,7 +364,6 @@ export function saidOf(offer: Offer | null): readonly string[] {
   if (offer === null) return ["nothing is owed and nothing is loadable — rest is the answer today"]
   const said = [...steppedOf(offer.step)]
   if (offer.step.kind !== "work") return said
-  said.push(`  ${offer.muscle} is owed ${String(offer.owed)} more this week`)
   if (offer.slower)
     said.push("  your kit and your reps both top out here, so lower slowly and pause at the bottom")
   else if (offer.atKitCeiling)
