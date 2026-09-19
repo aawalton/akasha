@@ -31,6 +31,8 @@ const KIT_TYPE = "fitness-equipment"
 
 const RESTRICTION_TYPE = "movement-restriction"
 
+const DECLINE_TYPE = "strength-decline"
+
 const BODY_ONLY = "body-only"
 
 const UNRANKED = ["stretching", "cardio"]
@@ -47,6 +49,7 @@ export type Mark = {
   readonly bestOn: string | null
   readonly lastOn: string | null
   readonly staleBouts: number
+  readonly turns: number
 }
 
 const NOTHING: Mark = {
@@ -56,6 +59,11 @@ const NOTHING: Mark = {
   bestOn: null,
   lastOn: null,
   staleBouts: 0,
+  turns: 0,
+}
+
+export function depthOf(mark: Mark | undefined): number {
+  return (mark?.sets ?? 0) - (mark?.turns ?? 0)
 }
 
 export type Offer = {
@@ -113,16 +121,36 @@ export function owedIn(took: ReadonlyMap<string, number>, low: number): readonly
     .map((held) => held.one)
 }
 
+export function turnsIn(
+  pages: readonly Value[],
+  before: string
+): ReadonlyMap<string, readonly string[]> {
+  const held = new Map<string, string[]>()
+  for (const one of pages) {
+    const on = textAt(one, "declineDate")
+    const named = slugAt(one, "exercise")
+    if (on === null || named === null || on > before) continue
+    const was = held.get(named) ?? []
+    was.push(on)
+    held.set(named, was)
+  }
+  return held
+}
+
 function staledIn(
   held: ReadonlyMap<string, Mark>,
-  days: ReadonlyMap<string, ReadonlySet<string>>
+  days: ReadonlyMap<string, ReadonlySet<string>>,
+  turns: ReadonlyMap<string, readonly string[]>
 ): ReadonlyMap<string, Mark> {
   const done = new Map<string, Mark>()
   for (const [slug, mark] of held) {
     const best = mark.bestOn
     const seen = [...(days.get(slug) ?? [])]
     const after = best === null ? 0 : seen.filter((one) => one > best).length
-    done.set(slug, { ...mark, staleBouts: after })
+    done.set(slug, { ...mark, staleBouts: after, turns: (turns.get(slug) ?? []).length })
+  }
+  for (const [slug, said] of turns) {
+    if (!done.has(slug)) done.set(slug, { ...NOTHING, turns: said.length })
   }
   return done
 }
@@ -130,7 +158,8 @@ function staledIn(
 export function marksIn(
   sets: readonly Value[],
   nearFailure: number,
-  before: string
+  before: string,
+  turns: ReadonlyMap<string, readonly string[]> = new Map()
 ): ReadonlyMap<string, Mark> {
   const days = new Map<string, Set<string>>()
   const held = new Map<string, Mark>()
@@ -155,9 +184,10 @@ export function marksIn(
       bestOn: better ? on : was.bestOn,
       lastOn: was.lastOn !== null && was.lastOn > on ? was.lastOn : on,
       staleBouts: 0,
+      turns: 0,
     })
   }
-  return staledIn(held, days)
+  return staledIn(held, days, turns)
 }
 
 function movedOn(
@@ -235,7 +265,7 @@ export function chosenFor(
     return (marks.get(one.slug)?.sets ?? 0) > 0 || newnessLeft > 0
   })
   const sorted = [...able].sort((a, b) => {
-    const seen = (marks.get(b.slug)?.sets ?? 0) - (marks.get(a.slug)?.sets ?? 0)
+    const seen = depthOf(marks.get(b.slug)) - depthOf(marks.get(a.slug))
     return (
       coverage(week, a) - coverage(week, b) ||
       seen ||
@@ -264,7 +294,7 @@ export function offerOf(
         muscle,
         one,
         owed: low - (week.tally.muscles.get(muscle) ?? 0),
-        seen: marks.get(one.slug)?.sets ?? 0,
+        seen: depthOf(marks.get(one.slug)),
       },
     ]
   })
@@ -317,10 +347,15 @@ export function newnessLeftIn(
 export function nextIn(root: string, today: string): Offer | null {
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
-  const marks = marksIn(week.sets, selectionPolicy.nearFailureRpeFloor, today)
+  const turns = turnsIn(
+    valuesOfType(root, DECLINE_TYPE).map((one) => one.value),
+    today
+  )
+  const marks = marksIn(week.sets, selectionPolicy.nearFailureRpeFloor, today, turns)
   const done = doneOn(week.sets, today, selectionPolicy.nearFailureRpeFloor)
   const restricted = restrictedIn(valuesOfType(root, RESTRICTION_TYPE).map((one) => one.value))
-  const dropped = droppedIn(marks, week.movements, selectionPolicy.boutsWithoutProgress)
+  const dropped = new Set(droppedIn(marks, week.movements, selectionPolicy.boutsWithoutProgress))
+  for (const [slug, said] of turns) if (said.includes(today)) dropped.add(slug)
   return offerOf(
     week,
     kit,

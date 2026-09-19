@@ -114,6 +114,15 @@ export const fitnessNext = {
       decisionKind: "decision-kind/departure",
       statement: "A dropped movement is offered again once its pattern has progressed elsewhere.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement Alan turns down counts against that movement as much as a set counts for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A movement Alan turned down today is out for today.",
+    },
   ],
   name: "next",
   arguments: [{ argument: "argument/json" }],

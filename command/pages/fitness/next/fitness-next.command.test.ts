@@ -4,11 +4,13 @@ import type { Movement } from "akasha/command/pages/fitness/modules/training-wee
 import {
   chosenFor,
   coveredBy,
+  depthOf,
   droppedIn,
   fitnessNext,
   type Kit,
   loadable,
   type Mark,
+  marksIn,
   newnessLeftIn,
   offerOf,
   outIn,
@@ -16,6 +18,7 @@ import {
   restrictedIn,
   saidOf,
   topLoadFor,
+  turnsIn,
 } from "akasha/command/pages/fitness/next/fitness-next.command.code.ts"
 
 const GIVEN: Given = {
@@ -66,6 +69,7 @@ function mark(over: Partial<Mark> = {}): Mark {
     bestOn: "2026-06-25",
     lastOn: "2026-06-25",
     staleBouts: 0,
+    turns: 0,
     ...over,
   }
 }
@@ -173,6 +177,22 @@ test("a movement Alan may not perform is gone before any movement is ranked", ()
   const two = week([BENCH, CURL])
   const out = outIn(two.movements, new Set(["h-push"]), new Set())
   expect(offerOf(two, KIT, BOTH, 6, 12, 0, out)?.movement).toBe("hammer-curls")
+})
+
+test("a movement Alan turns down counts against it as much as a set counts for it", () => {
+  const turned = turnsIn([{ declineDate: "2026-09-18", exercise: "hammer-curls" }], "2026-09-18")
+  const marks = marksIn([], 7, "2026-09-18", turned)
+  expect(depthOf(marks.get("hammer-curls"))).toBe(-1)
+  expect(depthOf(mark({ sets: 1 }))).toBe(1)
+})
+
+test("a movement turned down before today is ranked below one never turned down", () => {
+  const two = week([BENCH, CURL])
+  const turned = new Map<string, Mark>([
+    ["dumbbell-bench-press", mark({ sets: 16, turns: 16 })],
+    ["hammer-curls", mark({ sets: 5, weight: 15, reps: 15 })],
+  ])
+  expect(offerOf(two, KIT, turned, 6, 12, 0, FREE)?.movement).toBe("hammer-curls")
 })
 
 test("a movement is dropped when that movement stops progressing", () => {
