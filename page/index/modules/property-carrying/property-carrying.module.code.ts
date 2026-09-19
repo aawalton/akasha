@@ -252,9 +252,16 @@ function kindedIn(given: string | Reading): Kinded {
 }
 
 export function facingIn(root: string, given: string | Reading): Facing {
+  const held = new Map<string, Carried>()
   const made: Facing = {
     ...kindedIn(given),
-    carryingOf: (named) => carryingOf(given, named),
+    carryingOf: (named) => {
+      const found = held.get(named)
+      if (found !== undefined) return found
+      const one = carryingOf(given, named)
+      held.set(named, one)
+      return one
+    },
     root,
   }
   try {

@@ -170,6 +170,10 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which pages carry a name is worked out once for each name one face is asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A face built again works it out again.",
     },
     {
