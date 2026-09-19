@@ -1,3 +1,4 @@
+import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { resolveDeviceTokenContext } from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
 import {
   actionOnlyLoader,
@@ -15,7 +16,8 @@ export const loader = actionOnlyLoader(CORS_METHODS)
 export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   const ctx = await resolveDeviceTokenContext(request)
-  if (!ctx.authenticated) {
+  const signedIn = await signedInAs(request)
+  if (!ctx.authenticated && signedIn === null) {
     return Response.json(
       { ok: false, error: "Not authenticated." },
       { status: 401, headers: withCors(ctx.headers, cors) }
@@ -40,7 +42,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
   }
 
   await registerDeviceToken({
-    userId: ctx.userId,
+    userId: ctx.authenticated ? ctx.userId : "",
+    contributor: signedIn?.contributor,
     deviceTokenRegistration: parsed.data.deviceToken,
     platform: parsed.data.platform,
     pushType: parsed.data.pushType,

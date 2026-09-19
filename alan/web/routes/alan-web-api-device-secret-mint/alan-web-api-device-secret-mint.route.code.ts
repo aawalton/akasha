@@ -1,3 +1,4 @@
+import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { mintDeviceSecret } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
 import { resolveDeviceTokenContext } from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
 import { holdsRouteAccess } from "akasha/alan/web/.server/route-access-holding/route-access-holding.module.code.ts"
@@ -16,7 +17,8 @@ export const loader = actionOnlyLoader(CORS_METHODS)
 export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   const ctx = await resolveDeviceTokenContext(request)
-  if (!ctx.authenticated) {
+  const signedIn = await signedInAs(request)
+  if (!ctx.authenticated && signedIn === null) {
     process.stderr.write("[device-secret] mint refused: the request carries no session\n")
     return Response.json(
       { ok: false, error: "Not authenticated." },
@@ -24,7 +26,9 @@ export async function action({ request }: { request: Request }): Promise<Respons
     )
   }
 
-  if (!(await holdsRouteAccess(ctx.userId, ROUTE_TARGETS.DEVICE_SECRET_MINT))) {
+  const userId = ctx.authenticated ? ctx.userId : ""
+
+  if (!(await holdsRouteAccess(userId, ROUTE_TARGETS.DEVICE_SECRET_MINT, request))) {
     process.stderr.write(
       "[device-secret] mint refused: the session holds no device-secret-mint access, or the store did not answer\n"
     )
@@ -55,8 +59,9 @@ export async function action({ request }: { request: Request }): Promise<Respons
   process.stderr.write("[device-secret] mint reached the store\n")
 
   const minted = await mintDeviceSecret({
-    userId: ctx.userId,
+    userId,
     deviceId: parsed.data.deviceId,
+    request,
   })
   if (!minted.ok) {
     process.stderr.write(`[device-secret] mint refused: ${minted.why}\n`)
