@@ -13,8 +13,8 @@ import {
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  landedMechanically,
-  type runMechanicalChange,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { procEntries } from "akasha/code/process/modules/proc-reading/proc-reading.module.code.ts"
 import { ending } from "akasha/code/process/modules/process-ending/process-ending.module.code.ts"
@@ -139,24 +139,17 @@ async function endedSession(name: string): Promise<boolean> {
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
-
 export async function took(
   given: Given,
   paths: readonly string[],
   message: string,
   done: string[] = [],
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<boolean> {
   const here = paths.filter((one) => existsSync(join(given.root, one)))
   if (here.length === 0) return true
   const changes: readonly Asking[] = here.map((path) => ({ at: TAKE, given: { at: path } }))
-  const landed = await landing(done, given.root, changes, message)
+  const landed = await landing(given.root, changes, message, { done })
   const gone = refusalsIn(landed).length === 0
   if (gone) dropReadings(given.root, here)
   return gone
@@ -166,7 +159,7 @@ async function tookMessages(
   given: Given,
   name: string,
   done: string[] = [],
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<number> {
   const waiting = messagesTo(name).map((one) => one.relPath)
   if (waiting.length === 0) return 0

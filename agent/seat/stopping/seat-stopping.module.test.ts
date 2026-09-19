@@ -6,7 +6,6 @@ import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.
 import {
   isAgentProcess,
   killTarget,
-  type Landing,
   moving,
   pageLeft,
   stillUp,
@@ -26,7 +25,10 @@ import {
   appendEdits,
   linesIn,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -171,9 +173,9 @@ const LANDED: Applied = {
 type Handed = { readonly changes: readonly Asking[]; readonly message: string }
 
 function noting(held: Handed[], answer: Applied | Refused = LANDED): Landing {
-  return (done, _root, changes, message) => {
+  return (_root, changes, message, carried) => {
     held.push({ changes, message })
-    if ("commit" in answer && answer.commit !== null) done.push(answer.commit)
+    if ("commit" in answer && answer.commit !== null) carried?.done?.push(answer.commit)
     return Promise.resolve(answer)
   }
 }
