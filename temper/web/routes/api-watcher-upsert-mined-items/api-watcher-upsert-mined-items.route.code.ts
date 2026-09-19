@@ -23,7 +23,7 @@ type MinedItem = {
   armorRating: number
   requiredLevel: number
   requiredCp: number
-  value: number
+  merchantValue: number
   quality: number
   style: number
   filterType: number

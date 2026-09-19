@@ -69,7 +69,7 @@ export function rowToMinedItemData(row: MinedItemRow): MinedItemData {
     armorRating: numberOf(row, "armorRating"),
     requiredLevel: numberOf(row, "requiredLevel"),
     requiredCp: numberOf(row, "requiredCp"),
-    value: numberOf(row, "value"),
+    merchantValue: numberOf(row, "merchantValue"),
     quality: numberOf(row, "quality"),
     style: numberOf(row, "style"),
     filterType: numberOf(row, "filterType"),

@@ -53,7 +53,7 @@ function itemLines(item: ItemFixture): readonly string[] {
     armorRating: "0",
     requiredLevel: "0",
     requiredCP: `${item.requiredCP ?? 160}`,
-    value: "1",
+    merchantValue: "1",
     quality: "3",
     style: "4",
     filterType: "2",

@@ -141,7 +141,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
     setMaxEquip,
     setBonuses,
     flavorText,
-    value,
+    merchantValue,
   } = referenceData
 
   const iconUrl = convertIconPathToUrl(icon)
@@ -314,11 +314,11 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       )}
 
       {}
-      {value > 0 && <div style={{ ...DIVIDER_STYLE, marginBottom: "4px" }} />}
-      {value > 0 && (
+      {merchantValue > 0 && <div style={{ ...DIVIDER_STYLE, marginBottom: "4px" }} />}
+      {merchantValue > 0 && (
         <p style={{ color: "var(--secondary)", fontSize: "12px", margin: 0 }}>
           <span style={{ color: "var(--yellow)" }}>Gold: </span>
-          {value.toLocaleString()}
+          {merchantValue.toLocaleString()}
         </p>
       )}
     </div>

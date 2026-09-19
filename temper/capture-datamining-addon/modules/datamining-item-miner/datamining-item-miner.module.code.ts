@@ -50,7 +50,7 @@ function captureItemData(itemLink: string): MinedItemEntry | undefined {
   const armorRating = GetItemLinkArmorRating(itemLink, false)
   const requiredLevel = GetItemLinkRequiredLevel(itemLink)
   const requiredCP = GetItemLinkRequiredChampionPoints(itemLink)
-  const value = GetItemLinkValue(itemLink, false)
+  const merchantValue = GetItemLinkValue(itemLink, false)
   const quality = GetItemLinkDisplayQuality(itemLink)
   const style = GetItemLinkItemStyle(itemLink)
   const isUnique = IsItemLinkUnique(itemLink)
@@ -78,7 +78,7 @@ function captureItemData(itemLink: string): MinedItemEntry | undefined {
     armorRating,
     requiredLevel,
     requiredCP,
-    value,
+    merchantValue,
     quality,
     style,
     filterType,

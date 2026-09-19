@@ -16,7 +16,7 @@ export interface MinedItemEntry {
   armorRating: number
   requiredLevel: number
   requiredCP: number
-  value: number
+  merchantValue: number
   quality: number
   style: number
   filterType: number

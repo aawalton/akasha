@@ -25,7 +25,7 @@ export const minedItemSchema = z
     armorRating: z.number(),
     requiredLevel: z.number(),
     requiredCP: z.number(),
-    value: z.number(),
+    merchantValue: z.number(),
     quality: z.number(),
     style: z.number(),
     filterType: z.number(),
