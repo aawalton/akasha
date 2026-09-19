@@ -10,7 +10,7 @@ export const emberInventoryRules = {
     {
       statement: "The web shows the inventory an account's last reading landed.",
       workingMemory:
-        "Nothing shows it yet. `useInventory` asks for `temper-inventory-snapshot` and then `temper-inventory-chunk`, neither of which is a page type, so it answers null at fifteen call sites in eleven modules and every one of them draws an empty account. The reading is row files beside the account's `temper-account` page — reading-locations, bag-sizes, crafting-levels, placed-furnishings, currencies, stacks — with capturedAt and totalValue on the page and a data.json beside it.",
+        'Rewritten and deployed at f379cc99. `useInventory` reads the data.json beside the `temper-account` page through `askComposed` with `files: ["data"]`, held once for the signed-in user so the fifteen callers fetch it once. Measured at the page service: 200, 1.94 MB, 35 locations, seven keys parsing to exactly `InventoryDatabase`. assemble-inventory and chunks-loading are gone. Left: Alan confirming the tab draws, and `usePriceExtract` still answering null.\n',
     },
   ],
   constraints: [
