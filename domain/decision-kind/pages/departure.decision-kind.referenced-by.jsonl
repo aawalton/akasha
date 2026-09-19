@@ -2576,6 +2576,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/podman-slice-share/podman-slice-share.provisioned-file.ts","id":"01a09311-efdf-7871-b60c-af498677bdde"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/seats-slice/seats-slice.provisioned-file.ts","id":"01a0927c-ec26-7feb-bbd5-a2754a45f6c0"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-delegation/tmux-scope-delegation.provisioned-file.ts","id":"01a0931d-840e-7dbe-a5f7-5bc1b4c375ea"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.ts","id":"01a0b731-ec1a-7ecb-9116-b0acbb609736"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-slice/tmux-scope-slice.provisioned-file.ts","id":"01a0927d-1cbd-780f-aff8-2bacc9b0c011"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioning.domain.ts","id":"01a06861-49aa-7cbb-bded-bbd1af45e1b4"}

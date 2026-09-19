@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/swapfile-unit/swapfile-unit.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-config/tmux-config.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-delegation/tmux-scope-delegation.provisioned-file.ts"}
+{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-slice/tmux-scope-slice.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/wallpaper-black-launcher/wallpaper-black-launcher.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/workstation-brewfile/workstation-brewfile.provisioned-file.ts"}

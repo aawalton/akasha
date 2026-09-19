@@ -1,0 +1,10 @@
+{"content":"conf"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The ceiling is held by each seat alone rather than by the seats together."},{"decisionKind":"decision-kind/departure","statement":"A ceiling on the scope holds over every process and thread the seat begins."},{"decisionKind":"decision-kind/departure","statement":"One seat over the ceiling is ended without the other seats being reached."},{"decisionKind":"decision-kind/departure","statement":"The ceiling is half of what the seats hold together."}]}
+{"definition":"how much memory a scope tmux makes for a seat may hold"}
+{"id":"01a0b731-ec1a-7ecb-9116-b0acbb609736"}
+{"installPath":"~/.config/systemd/user/tmux-.scope.d/30-memory.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"systemctl --user daemon-reload"}
+{"slug":"tmux-scope-memory"}
+{"type":"page-type/provisioned-file"}

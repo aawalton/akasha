@@ -25,6 +25,7 @@ export const provisionedFile = {
     "provisioned-file/swapfile-unit",
     "provisioned-file/tmux-config",
     "provisioned-file/tmux-scope-delegation",
+    "provisioned-file/tmux-scope-memory",
     "provisioned-file/tmux-scope-slice",
     "provisioned-file/wallpaper-black-launcher",
     "provisioned-file/workstation-brewfile",
