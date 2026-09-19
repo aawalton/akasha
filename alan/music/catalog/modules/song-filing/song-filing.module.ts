@@ -4,10 +4,16 @@ export const songFiling = {
   id: "01a0bd18-4f2c-7a61-9d38-6e4b0c9a5731",
   type: "page-type/module",
   slug: "song-filing",
-  definition: "the song a released title is filed as where no song is filed yet",
+  definition: "the song a released title names, filed here where no song is filed yet",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A title a song is filed under already names that song rather than filing another.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A title matching no song is filed as a song of the artist the release names.",

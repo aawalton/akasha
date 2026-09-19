@@ -70,7 +70,15 @@ export const trackSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track whose song is filed nowhere names no song.",
+      statement: "A track whose song is filed nowhere has that song filed within the same run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song filed that way is landed beside the track naming it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track under an artist who has no page names no song.",
     },
   ],
 } as const satisfies Module

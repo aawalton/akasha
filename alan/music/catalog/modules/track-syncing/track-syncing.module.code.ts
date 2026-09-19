@@ -9,7 +9,10 @@ import {
   catalogueNamesFrom,
   catalogueSlugFor,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
-import { songSlugFor } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import {
+  type Filing,
+  songForTrack,
+} from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import {
   type AlbumTrack,
   type AlbumWithTracks,
@@ -77,19 +80,17 @@ export function tracksFiledIn(root: string): Tracked {
 
 export function trackValues(args: {
   readonly releaseSlug: string
-  readonly artistSlug: string
-  readonly songs: ReadonlyMap<string, string>
+  readonly song: string | null
   readonly slug: string
   readonly track: AlbumTrack
   readonly was: Value
   readonly today: string
 }): Value {
-  const song = songSlugFor(args.songs, args.artistSlug, args.track.name)
   return {
     ...args.was,
     ...(args.was["status"] === undefined ? { status: NOT_STARTED } : {}),
     ...(args.was["ownProgress"] === undefined ? { ownProgress: 0 } : {}),
-    ...(song === null ? {} : { song: `${SONG}/${song}` }),
+    ...(args.song === null ? {} : { song: `${SONG}/${args.song}` }),
     title: args.track.name,
     trackKey: trackKeyFor(args.track),
     partOfCollections: [`${RELEASE}/${args.releaseSlug}`],
@@ -113,26 +114,38 @@ export function trackValues(args: {
   }
 }
 
+export type Edited = {
+  readonly edits: readonly Asking[]
+  readonly tracked: number
+  readonly filed: number
+}
+
 export function trackEdits(args: {
   readonly releaseSlug: string
   readonly artistSlug: string
-  readonly songs: ReadonlyMap<string, string>
+  readonly filing: Filing
   readonly album: AlbumWithTracks
   readonly tracks: Tracked
   readonly today: string
   readonly edit: Editing
-}): readonly Asking[] {
+}): Edited {
   const edits: Asking[] = []
+  let tracked = 0
+  let filed = 0
   for (const track of args.album.tracks.items) {
     const slug = catalogueSlugFor(args.tracks.names, args.releaseSlug, track.name, track.id)
+    const song = songForTrack(args.filing, args.artistSlug, track.name)
+    if (song !== null && song.values !== null) {
+      edits.push(args.edit(SONG, song.slug, song.values))
+      filed += 1
+    }
     edits.push(
       args.edit(
         TRACK,
         slug,
         trackValues({
           releaseSlug: args.releaseSlug,
-          artistSlug: args.artistSlug,
-          songs: args.songs,
+          song: song === null ? null : song.slug,
           slug,
           track,
           was: args.tracks.held.get(slug) ?? {},
@@ -140,7 +153,8 @@ export function trackEdits(args: {
         })
       )
     )
+    tracked += 1
   }
   args.tracks.byRelease.add(args.releaseSlug)
-  return edits
+  return { edits, tracked, filed }
 }

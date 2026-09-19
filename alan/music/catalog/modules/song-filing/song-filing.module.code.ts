@@ -2,6 +2,7 @@ import { mintCatalogueSlug } from "akasha/alan/music/catalog/modules/catalogue-s
 import {
   compositionTitle,
   songKey,
+  songSlugFor,
   songsFiledIn,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -62,4 +63,10 @@ export function songFiledFor(filing: Filing, artistSlug: string, said: string): 
   filing.taken.add(slug)
   filing.songs.set(key, slug)
   return { slug, values: songValuesFor(artistSlug, slug, title) }
+}
+
+export function songForTrack(filing: Filing, artistSlug: string, said: string): Filed | null {
+  const held = songSlugFor(filing.songs, artistSlug, said)
+  if (held !== null) return { slug: held, values: null }
+  return songFiledFor(filing, artistSlug, said)
 }

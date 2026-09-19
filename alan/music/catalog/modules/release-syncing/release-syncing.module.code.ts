@@ -11,7 +11,7 @@ import {
   catalogueSlugFor,
   slugifyName,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
-import { songsFiledIn } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { filingIn } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import {
   type Tracked,
   trackEdits,
@@ -78,6 +78,7 @@ export type Counts = {
   readonly skipped: number
   readonly tracked: number
   readonly backfilled: number
+  readonly filed: number
   readonly failed: number
 }
 
@@ -285,7 +286,7 @@ export async function syncReleases(
   }
   const filed = filedIn(root)
   const tracks: Tracked = tracksFiledIn(root)
-  const songs = songsFiledIn(root)
+  const filing = filingIn(root)
   const source = sourceFor(root)
   const editing = (pageTypeSlug: string, slug: string, values: Value): Asking =>
     composedEdit(root, pageTypeSlug, slug, values, source)
@@ -294,6 +295,7 @@ export async function syncReleases(
   let skipped = 0
   let tracked = 0
   let backfilled = 0
+  let songsFiled = 0
   let failed = 0
   for (const one of sweeping) {
     const room = held.limit === null ? null : held.limit - created
@@ -304,7 +306,8 @@ export async function syncReleases(
       const changes: Asking[] = [
         composedEdit(root, ARTIST, one.slug, artistValues(one, today), source),
       ]
-      let filing = 0
+      let tracking = 0
+      let filedHere = 0
       for (const asked of unfiled.asked) {
         const whole = await reach.getAlbum(asked.album.id)
         changes.push(
@@ -325,14 +328,15 @@ export async function syncReleases(
         const edits = trackEdits({
           releaseSlug: asked.slug,
           artistSlug: one.slug,
-          songs,
+          filing,
           album: whole,
           tracks,
           today,
           edit: editing,
         })
-        changes.push(...edits)
-        filing += edits.length
+        changes.push(...edits.edits)
+        tracking += edits.tracked
+        filedHere += edits.filed
       }
       let filling = 0
       for (const behind of unfiled.settled) {
@@ -343,21 +347,22 @@ export async function syncReleases(
         const edits = trackEdits({
           releaseSlug: behind.slug,
           artistSlug: one.slug,
-          songs,
+          filing,
           album: whole,
           tracks,
           today,
           edit: editing,
         })
-        changes.push(...edits)
-        filing += edits.length
+        changes.push(...edits.edits)
+        tracking += edits.tracked
+        filedHere += edits.filed
         filling += 1
       }
       if (landing !== null) {
         const landed = await landing(
           root,
           changes,
-          `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${filing} track(s) for ${one.title}`
+          `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${tracking} track(s) and ${filedHere} song(s) for ${one.title}`
         )
         const wrong = refusalsIn(landed)
         if (wrong.length > 0) throw new Error(wrong.join("; "))
@@ -365,14 +370,15 @@ export async function syncReleases(
       created += unfiled.asked.filter((each) => Object.keys(each.was).length === 0).length
       updated += unfiled.asked.filter((each) => Object.keys(each.was).length > 0).length
       skipped += unfiled.skipped
-      tracked += filing
+      tracked += tracking
       backfilled += filling
+      songsFiled += filedHere
     } catch (thrown) {
       failed += 1
       console.error(`${SAID} ${one.slug}:`, thrown instanceof Error ? thrown.message : thrown)
     }
   }
-  return { created, updated, skipped, tracked, backfilled, failed }
+  return { created, updated, skipped, tracked, backfilled, filed: songsFiled, failed }
 }
 
 export async function main(argv: readonly string[]): Promise<number> {
@@ -389,7 +395,7 @@ export async function main(argv: readonly string[]): Promise<number> {
     )
   const counts = held.dryRun ? await running() : await recordingRun(SOURCE, running)
   console.log(
-    `${SAID} swept ${counts.created + counts.updated + counts.skipped} release(s) · filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · backfilled ${counts.backfilled} · tracks ${counts.tracked} · failed ${counts.failed}`
+    `${SAID} swept ${counts.created + counts.updated + counts.skipped} release(s) · filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · backfilled ${counts.backfilled} · tracks ${counts.tracked} · songs ${counts.filed} · failed ${counts.failed}`
   )
   return counts.failed > 0 ? 1 : 0
 }

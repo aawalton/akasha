@@ -129,5 +129,13 @@ export const releaseSyncing = {
       decisionKind: "decision-kind/departure",
       statement: "The songs filed are read once for a sweep rather than once for a release.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song a swept track needs and nothing has filed is filed by the sweep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song the sweep files lands in the commit the track naming it lands in.",
+    },
   ],
 } as const satisfies Module

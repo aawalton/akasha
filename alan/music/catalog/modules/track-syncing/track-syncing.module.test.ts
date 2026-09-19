@@ -2,7 +2,14 @@ import { expect, test } from "bun:test"
 import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
-import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import {
+  type Filing,
+  songForTrack,
+} from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
+import {
+  ELF as ELF_SONG,
+  filingOf,
+} from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.test-fixtures.ts"
 import {
   type Tracked,
   trackEdits,
@@ -29,11 +36,7 @@ const RELEASE = "sylvia-daley-pixie"
 
 const ELF = "sylvia-daley-pixie-elf"
 
-const NO_SONGS: ReadonlyMap<string, string> = new Map()
-
-const ONE_SONG: ReadonlyMap<string, string> = new Map([
-  [songKey(ARTIST, "Elf"), "sylvia-daley-elf"],
-])
+const ONE_SONG = [ELF_SONG]
 
 function track(id: string, name: string, at: number, nth: number, disc = 1): AlbumTrack {
   return {
@@ -51,12 +54,12 @@ function track(id: string, name: string, at: number, nth: number, disc = 1): Alb
 function valuesFor(
   one: AlbumTrack,
   was: Value = {},
-  songs: ReadonlyMap<string, string> = NO_SONGS
+  songs: readonly (readonly [string, string])[] = []
 ): Value {
+  const said = songForTrack(filingOf([...songs]), ARTIST, one.name)
   return trackValues({
     releaseSlug: RELEASE,
-    artistSlug: ARTIST,
-    songs,
+    song: said === null ? null : said.slug,
     slug: ELF,
     track: one,
     was,
@@ -152,8 +155,14 @@ test("a live take names the song that take is a recording of", () => {
   )
 })
 
-test("a track whose song is filed nowhere names no song", () => {
-  expect(valuesFor(track("t7", "Elf", 90_000, 3))["song"]).toBeUndefined()
+test("a track whose song is filed nowhere has that song filed and names it", () => {
+  expect(valuesFor(track("t7", "Elf", 90_000, 3))["song"]).toBe("song/sylvia-daley-elf")
+})
+
+test("a track under an artist who has no page names no song", () => {
+  const strangers: Filing = { songs: new Map(), taken: new Set(), artists: new Set() }
+  const one = track("t7", "Elf", 90_000, 3)
+  expect(songForTrack(strangers, ARTIST, one.name)).toBeNull()
 })
 
 test("a track names the one provider it was read from, stamped with the day it was read", () => {
@@ -178,23 +187,50 @@ test("the progress and the grade a person gave a track outlive the sweep", () =>
   expect(values["rank"]).toBe("S")
 })
 
-test("every track a release carries is composed as an edit of its own", () => {
-  const tracks = nothingFiled()
-  const asked: string[] = []
-  const edits = trackEdits({
+function editsOf(filing: Filing, asked: string[], ...items: readonly AlbumTrack[]) {
+  return trackEdits({
     releaseSlug: RELEASE,
     artistSlug: ARTIST,
-    songs: NO_SONGS,
-    album: album(track("t0", "One", 60_000, 1), track("t1", "Two", 60_000, 2)),
-    tracks,
+    filing,
+    album: album(...items),
+    tracks: nothingFiled(),
     today: TODAY,
     edit: (pageTypeSlug, slug) => {
       asked.push(`${pageTypeSlug}/${slug}`)
       return { at: ADDS, given: { at: slug, body: "" } }
     },
   })
-  expect(edits).toHaveLength(2)
+}
+
+test("every track a release carries is composed as an edit of its own", () => {
+  const asked: string[] = []
+  const filing = filingOf([])
+  songForTrack(filing, ARTIST, "One")
+  songForTrack(filing, ARTIST, "Two")
+  const edits = editsOf(filing, asked, track("t0", "One", 60_000, 1), track("t1", "Two", 60_000, 2))
+  expect(edits.tracked).toBe(2)
+  expect(edits.filed).toBe(0)
   expect(asked).toEqual(["track/sylvia-daley-pixie-one", "track/sylvia-daley-pixie-two"])
+})
+
+test("a song a swept track needs and nothing has filed is filed beside that track", () => {
+  const asked: string[] = []
+  const edits = editsOf(filingOf([]), asked, track("t0", "One", 60_000, 1))
+  expect(edits.filed).toBe(1)
+  expect(edits.tracked).toBe(1)
+  expect(asked).toEqual(["song/sylvia-daley-one", "track/sylvia-daley-pixie-one"])
+})
+
+test("two takes of one composition are filed as one song", () => {
+  const asked: string[] = []
+  const edits = editsOf(
+    filingOf([]),
+    asked,
+    track("t0", "One", 60_000, 1),
+    track("t1", "One - Live", 60_000, 2)
+  )
+  expect(edits.filed).toBe(1)
+  expect(edits.tracked).toBe(2)
 })
 
 test("a release whose tracks are filed is marked so within the run that filed them", () => {
@@ -203,7 +239,7 @@ test("a release whose tracks are filed is marked so within the run that filed th
   trackEdits({
     releaseSlug: RELEASE,
     artistSlug: ARTIST,
-    songs: NO_SONGS,
+    filing: filingOf([]),
     album: album(track("t0", "One", 60_000, 1)),
     tracks,
     today: TODAY,

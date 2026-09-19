@@ -2,25 +2,17 @@ import { expect, test } from "bun:test"
 import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
 import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import {
-  type Filing,
   songFiledFor,
+  songForTrack,
   songValuesFor,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
-import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
+import { filingOf as filing } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.test-fixtures.ts"
 import { song } from "akasha/alan/music/catalog/song/song.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const SONG_AT = `${pageType.slug}/${song.slug}` as const
 
 const ARTIST_AT = `${artist.slug}/${sylviaDaley.slug}` as const
-
-function filing(): Filing {
-  return {
-    songs: new Map([[songKey("sylvia-daley", "Elf"), "sylvia-daley-elf"]]),
-    taken: new Set(["sylvia-daley-elf"]),
-    artists: new Set(["sylvia-daley"]),
-  }
-}
 
 test("a title matching no song is filed as a song of the artist the release names", () => {
   const held = filing()
@@ -69,4 +61,16 @@ test("a song filed this way states no external record and no song type", () => {
   const values = songValuesFor("sylvia-daley", "sylvia-daley-elf", "Elf")
   expect(values["externalIdentity"]).toBeUndefined()
   expect(values["songType"]).toBeUndefined()
+})
+
+test("a title a song is filed under already names that song rather than filing another", () => {
+  const found = songForTrack(filing(), "sylvia-daley", "Elf")
+  expect(found?.slug).toBe("sylvia-daley-elf")
+  expect(found?.values).toBeNull()
+})
+
+test("a title matching no song is filed as one and then named", () => {
+  const held = filing()
+  expect(songForTrack(held, "sylvia-daley", "Pixie Dust")?.values).not.toBeNull()
+  expect(songForTrack(held, "sylvia-daley", "Pixie Dust")?.values).toBeNull()
 })

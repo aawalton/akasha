@@ -2,13 +2,12 @@ import {
   type Filed,
   type Filing,
   filingIn,
-  songFiledFor,
+  songForTrack,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import {
   artistByRelease,
   artistOf,
   songNamed,
-  songSlugFor,
   valuesLinked,
 } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 import { composedEdit } from "akasha/change/modules/page-editing/page-editing.module.code.ts"
@@ -73,18 +72,7 @@ export function taken(
   }
 }
 
-export function songMatched(
-  songs: ReadonlyMap<string, string>,
-  byRelease: ReadonlyMap<string, string>,
-  value: Value
-): string | null {
-  const artistSlug = artistOf(byRelease, value)
-  const title = textIn(value, "title")
-  if (artistSlug === null || title === null) return null
-  return songSlugFor(songs, artistSlug, title)
-}
-
-export function songFiledOn(
+export function songOn(
   filing: Filing,
   byRelease: ReadonlyMap<string, string>,
   value: Value
@@ -92,7 +80,7 @@ export function songFiledOn(
   const artistSlug = artistOf(byRelease, value)
   const title = textIn(value, "title")
   if (artistSlug === null || title === null) return null
-  return songFiledFor(filing, artistSlug, title)
+  return songForTrack(filing, artistSlug, title)
 }
 
 export function linkingIn(root: string, limit: number | null = null): Linking {
@@ -114,16 +102,11 @@ export function linkingIn(root: string, limit: number | null = null): Linking {
     if (slug === null) continue
     tracks += 1
     const was = songNamed(one.value)
-    let now = songMatched(filing.songs, byRelease, one.value)
-    if (now === null) {
-      const said = songFiledOn(filing, byRelease, one.value)
-      if (said !== null) {
-        now = said.slug
-        if (said.values !== null) {
-          changes.push(composedEdit(root, SONG, said.slug, said.values, source))
-          filed += 1
-        }
-      }
+    const said = songOn(filing, byRelease, one.value)
+    const now = said === null ? null : said.slug
+    if (said !== null && said.values !== null) {
+      changes.push(composedEdit(root, SONG, said.slug, said.values, source))
+      filed += 1
     }
     if (was === now) {
       if (now === null) unmatched += 1
