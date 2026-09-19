@@ -27,9 +27,5 @@ export const filterBar = {
       decisionKind: "decision-kind/departure",
       statement: "The panel reanchors each time the inventory scene shows.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides whether an item passes a filter.",
-    },
   ],
 } as const satisfies Module

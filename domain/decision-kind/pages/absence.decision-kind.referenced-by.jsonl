@@ -1719,7 +1719,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
 {"propertySlug":"decision-kind","path":"temper/items-core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.ts","id":"01a0614b-6736-7575-aaa0-1766a1adf1a8"}
-{"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.ts","id":"01a0614b-6735-71b0-b1bb-6d698f3b387d"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.ts","id":"01a0614b-6736-723e-b829-79279bb14e49"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/temper-items-filters-addon.domain.ts","id":"01a0614b-6734-767e-be82-2cfd13e1d6a8"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-core/modules/search-bop-tradeable-filter/search-bop-tradeable-filter.module.ts","id":"01a0613a-e0a5-79e4-a256-cff1d3e55d05"}
