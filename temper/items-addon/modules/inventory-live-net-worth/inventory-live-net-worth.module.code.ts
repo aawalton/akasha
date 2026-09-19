@@ -10,8 +10,8 @@ export function computeLiveNetWorth(
   for (const location of Object.values(db.locations)) {
     for (const bag of Object.values(location.bags)) {
       for (const item of Object.values(bag)) {
-        const replacementCost = crownReplacementCosts?.[item.itemId]
-        const value = computeValue(item.estimatedValue, item.merchantValue, replacementCost)
+        const replacementValue = crownReplacementCosts?.[item.itemId]
+        const value = computeValue(item.estimatedValue, item.merchantValue, replacementValue)
         if (value !== undefined && value > 0) {
           total += value * item.stackCount
         }
