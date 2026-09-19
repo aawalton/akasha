@@ -18,4 +18,7 @@ export const aineRequests = {
         "A feature request names each contributor backing it and the points committed, most first.",
     },
   ],
+  constraints: [
+    "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
+  ],
 } as const satisfies Initiative

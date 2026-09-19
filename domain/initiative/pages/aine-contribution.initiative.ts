@@ -4,7 +4,7 @@ export const aineContribution = {
   id: "01a0b743-eea8-743e-826e-771bc840d92f",
   type: "page-type/initiative",
   slug: "aine-contribution",
-  domain: "domain/kofi",
+  domain: "domain/contribution-point",
   persona: "persona/aine",
   intentStack: [
     {
@@ -27,13 +27,10 @@ export const aineContribution = {
     "Alan keeps full discretion over what he builds, and points committed to a request he denies are refunded.",
     "A contributor's contribution points are one pool across every product, and every reading of them is filtered to one product.",
     "A feature request has no price, and the contribution points committed to it only order the queue Alan reviews.",
-    "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
     "A cent contributed earns one contribution point, and that rate is fixed until something proves it wrong.",
-    "Ko-fi takes the money, because Patreon's terms forbid leading a contributor from Patreon to Alan's own site, which this model requires.",
     "A reversed contribution takes back its points wherever they went, and a contributor's balance goes negative rather than a completed request losing its credit.",
     "Each product carries a brand of its own and calls for backing on the one shared Ko-fi account.",
     "A contributor signs in at alanwalton.com, and the payment Stripe reports is matched to that sign-in by email address.",
-    "Stripe is the only payment method Ko-fi offers, so every contribution lands in Alan's own Stripe account and nothing is read from Ko-fi.",
     "Proposing a feature request costs a hundred contribution points, which back that request and remain spent whatever becomes of it.",
   ],
 } as const satisfies Initiative
