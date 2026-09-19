@@ -17,7 +17,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "Whether a type generator turns is answered from the change rather than from a reading of the index.",
       workingMemory:
-        "`turnsFor` in `type-generating.module.code.ts` is 3.63s, almost all of it `readByGenerated` in `type-turning.module.code.ts`. `turnedBy` answers one yes or no for the whole checkout, so any page type edit writes all 2,324 `.types.ts` bodies again rather than the ones that turned.",
+        "`turnsFor` in `type-generating.module.code.ts` is 465ms, down from 3.63s, almost all of it still `readByGenerated` in `type-turning.module.code.ts`. `turnedBy` answers one yes or no for the whole checkout, so any page type edit writes all 2,324 `.types.ts` bodies again rather than the ones that turned. `readByGenerated` builds `facingOn(root)`, a second face over the root, though `preparing` builds one of its own eighteen lines later.",
     },
     {
       statement:
@@ -39,7 +39,7 @@ export const astraLandingReadsOnlyWhatChanged = {
   ],
   constraints: [
     "A file already carrying what would be written again is left alone: `keepDelta`, `reconcile` and `wholeInto` each compare before writing, and the profile bears that out.",
-    "The checks are not the cost. All 48 of them together were 5.68s of wall clock in run `01a0ba46-a295`.",
+    "The checks were 5.68s of a two-minute landing and are 1.74s of a 4.78s one, so they are a third of what is left rather than a rounding error.",
     "A landing is measured from the rows beside the apply page rather than from a clock an agent reads.",
   ],
 } as const satisfies Initiative
