@@ -5228,7 +5228,6 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.ts","id":"01a06381-35cf-7769-9717-fa7f6b0898ae"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.ts","id":"01a0a65d-ef8f-7a9e-b659-47f2639b391a"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.ts","id":"01a0633f-8d1e-72bf-94b4-33c274b877c8"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-log-line/watcher-log-line.module.ts","id":"01a06039-9c89-7ba8-aee4-a339fadf4824"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.ts","id":"01a06039-9c89-7e8b-b406-28150d37543f"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.ts","id":"01a0633f-8d1e-79dd-b620-f4a7e7e43bb1"}

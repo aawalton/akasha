@@ -6281,7 +6281,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-log-line/watcher-log-line.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.ts"}

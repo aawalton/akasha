@@ -71,5 +71,7 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
 {"propertySlug":"parts","path":"page/core/page-core.domain.ts","id":"01a05b92-a9c7-7180-bdd4-8e13e47841e5"}

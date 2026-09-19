@@ -807,7 +807,6 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.ts","id":"01a06381-35cf-7e59-9fb8-159808653255"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts","id":"01a06381-35cf-75cc-986a-2d84d969ddd4"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.ts","id":"01a0a65d-ef8f-7a9e-b659-47f2639b391a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.ts","id":"01a06381-35cf-7f9a-8a86-81d472cd7c24"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-server-url/watcher-server-url.module.ts","id":"01a063c7-b010-7ea2-b91f-d479e832a8a3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.ts","id":"01a06381-35cf-70c2-819c-ef562701572b"}

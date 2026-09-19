@@ -1900,7 +1900,6 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts","id":"01a06381-35cf-75cc-986a-2d84d969ddd4"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.ts","id":"01a06381-35cf-7769-9717-fa7f6b0898ae"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.ts","id":"01a0633f-8d1e-72bf-94b4-33c274b877c8"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-log-line/watcher-log-line.module.ts","id":"01a06039-9c89-7ba8-aee4-a339fadf4824"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.ts","id":"01a06039-9c89-7e8b-b406-28150d37543f"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-main/watcher-main.module.ts","id":"01a063c7-b077-7e6b-abbc-744232614c20"}

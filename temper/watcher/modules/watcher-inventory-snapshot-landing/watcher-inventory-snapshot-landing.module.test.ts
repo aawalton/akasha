@@ -1,26 +1,30 @@
 import { expect, test } from "bun:test"
+import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   bagSizeRowsOf,
   craftingLevelRowsOf,
   currencyRowsOf,
-  landInventorySnapshot,
+  type InventoryPageUpsert,
+  type InventoryValues,
+  inventoryPageKeys,
+  landAccountInventory,
   locationRowsOf,
   placedFurnishingRowsOf,
-  type SnapshotValues,
-  snapshotDataPath,
-  snapshotPageBody,
-  snapshotPageKeys,
-  snapshotPagePath,
-  snapshotRowsPath,
   stackRowsOf,
 } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
 import type {
-  ReadFiles,
+  ReadPages,
   WriteFiles,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
-const SLUG = "at-2026-09-15-18-07-48"
+const ACCOUNT_SLUG = "account-9ba554f7-cb18-48bb-a709-ec935a895ca7"
+
+const PAGE_PATH = `temper/character/temper-account/pages/${ACCOUNT_SLUG}/${ACCOUNT_SLUG}.temper-account.ts`
+
+function besides(property: string): string {
+  return `temper/character/temper-account/pages/${ACCOUNT_SLUG}/${ACCOUNT_SLUG}.temper-account.${property}.jsonl`
+}
 
 const SCAN: InventoryDatabase = {
   locations: {},
@@ -34,34 +38,16 @@ const SCAN: InventoryDatabase = {
   transmuteCrystalCap: 3000,
 }
 
-const VALUES: SnapshotValues = {
-  slug: SLUG,
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+const VALUES: InventoryValues = {
+  accountSlug: ACCOUNT_SLUG,
   capturedAt: "2026-09-15T18:07:48.000Z",
   totalValue: 493345139,
-  chunkCount: 2,
   inventory: SCAN,
 }
 
-const PAGE_PATH = snapshotPagePath(SLUG)
-
-const DATA_PATH = snapshotDataPath(SLUG)
-
-const LOCATIONS_PATH = snapshotRowsPath(SLUG, "locations")
-
-const BAG_SIZES_PATH = snapshotRowsPath(SLUG, "bag-sizes")
-
-const CRAFTING_LEVELS_PATH = snapshotRowsPath(SLUG, "crafting-levels")
-
-const PLACED_FURNISHINGS_PATH = snapshotRowsPath(SLUG, "placed-furnishings")
-
-const CURRENCIES_PATH = snapshotRowsPath(SLUG, "currencies")
-
-const STACKS_PATH = snapshotRowsPath(SLUG, "stacks")
-
 const WORN_SCANNED = 1789495000
 
-const WORN: SnapshotValues = {
+const WORN: InventoryValues = {
   ...VALUES,
   inventory: {
     ...SCAN,
@@ -109,7 +95,7 @@ const WORN: SnapshotValues = {
 
 const PURSE_SCANNED = 1789495668
 
-const PURSES: SnapshotValues = {
+const PURSES: InventoryValues = {
   ...VALUES,
   inventory: {
     ...SCAN,
@@ -141,7 +127,7 @@ const EMBER_SCANNED = 1789400000
 
 const MS = 1000
 
-const HELD: SnapshotValues = {
+const HELD: InventoryValues = {
   ...VALUES,
   inventory: {
     ...SCAN,
@@ -162,7 +148,7 @@ const HELD: SnapshotValues = {
   },
 }
 
-const HOMES: SnapshotValues = {
+const HOMES: InventoryValues = {
   ...VALUES,
   inventory: {
     ...SCAN,
@@ -206,33 +192,21 @@ function counting(prefix: string): () => string {
   }
 }
 
-function keysOf(values: SnapshotValues): Record<string, string | number | boolean> {
-  return Object.fromEntries(snapshotPageKeys(values))
-}
-
-const missingBoth: ReadFiles = async (paths) => ({
+const accountFound: ReadPages = async () => ({
   ok: true,
   at: "c1",
-  bodies: paths.map((path) => ({ path, content: null })),
+  bodies: [{ path: PAGE_PATH, content: null }],
   unplaced: [],
 })
 
-test("the page and its data file sit in the snapshot's own folder", () => {
-  expect(PAGE_PATH).toBe(
-    `temper/holdings/temper-inventory-snapshot/pages/${SLUG}/${SLUG}.temper-inventory-snapshot.ts`
-  )
-  expect(DATA_PATH).toBe(
-    `temper/holdings/temper-inventory-snapshot/pages/${SLUG}/${SLUG}.temper-inventory-snapshot.data.json`
-  )
-})
+const ACCOUNT_ROW = asPage({ id: "account-id" })
 
-test("a page states what the scan carries", () => {
-  expect(keysOf(VALUES)).toEqual({
-    title: "2026-09-15T18:07:48.000Z",
-    accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+const upsertNothing: InventoryPageUpsert = async () => ACCOUNT_ROW
+
+test("the account page states what the reading carries", () => {
+  expect(inventoryPageKeys(VALUES)).toEqual({
     capturedAt: "2026-09-15T18:07:48.000Z",
     totalValue: 493345139,
-    chunkCount: 2,
     lastFullScanAt: "2026-09-15T18:07:48.000Z",
     priceSource: "ttc",
     transmuteCrystalAmount: 2119,
@@ -243,54 +217,71 @@ test("a page states what the scan carries", () => {
     placedFurnishings: "jsonl",
     currencies: "jsonl",
     stacks: "jsonl",
-    data: "json",
   })
 })
 
-test("a value the scan does not carry is left off the page", () => {
-  const bare: SnapshotValues = {
+test("a value the reading does not carry is left off the account page", () => {
+  const bare: InventoryValues = {
     ...VALUES,
     inventory: {
       locations: {},
       meta: { displayName: "@Alanarre", worldName: "NA Megaserver", lastFullScan: 0 },
     },
   }
-  const keys = keysOf(bare)
+  const keys = inventoryPageKeys(bare)
   expect(Object.hasOwn(keys, "lastFullScanAt")).toBe(false)
   expect(Object.hasOwn(keys, "priceSource")).toBe(false)
   expect(Object.hasOwn(keys, "transmuteCrystalAmount")).toBe(false)
-  expect(keys.data).toBe("json")
+  expect(Object.hasOwn(keys, "data")).toBe(false)
 })
 
-test("a page body names the page type and the slug", () => {
-  const body = snapshotPageBody(VALUES, "01a0-id")
-  expect(body).toContain('type: "page-type/temper-inventory-snapshot"')
-  expect(body).toContain(`slug: "${SLUG}"`)
-  expect(body).toContain('id: "01a0-id"')
-})
-
-test("the page and the data file land together in one write", async () => {
+test("every row file lands beside the account page in one write", async () => {
   let written: readonly { path: string; content: string }[] = []
   const write: WriteFiles = async (puts) => {
     written = puts as readonly { path: string; content: string }[]
     return { ok: true, at: "c2" }
   }
-  const landed = await landInventorySnapshot(VALUES, () => "id-1", {
-    read: missingBoth,
-    write,
+  const landed = await landAccountInventory(VALUES, () => "id-1", {
+    readPages: accountFound,
+    writeFiles: write,
+    upsert: upsertNothing,
   })
   expect(landed).toEqual({ outcome: "landed", at: "c2" })
   expect(written.map((one) => one.path)).toEqual([
-    PAGE_PATH,
-    LOCATIONS_PATH,
-    BAG_SIZES_PATH,
-    CRAFTING_LEVELS_PATH,
-    PLACED_FURNISHINGS_PATH,
-    CURRENCIES_PATH,
-    STACKS_PATH,
-    DATA_PATH,
+    besides("locations"),
+    besides("bag-sizes"),
+    besides("crafting-levels"),
+    besides("placed-furnishings"),
+    besides("currencies"),
+    besides("stacks"),
   ])
-  expect(JSON.parse(written[7]?.content ?? "null")).toEqual(SCAN)
+})
+
+test("a second reading writes the same paths again rather than being left alone", async () => {
+  const paths: string[][] = []
+  const write: WriteFiles = async (puts) => {
+    paths.push(puts.map((one) => one.path))
+    return { ok: true, at: "c2" }
+  }
+  const deps = { readPages: accountFound, writeFiles: write, upsert: upsertNothing }
+  await landAccountInventory(VALUES, () => "id-1", deps)
+  await landAccountInventory(WORN, () => "id-2", deps)
+  expect(paths).toHaveLength(2)
+  expect(paths[0]).toEqual(paths[1])
+})
+
+test("the account page is told which row files it now carries", async () => {
+  let set: unknown = null
+  const upsert: InventoryPageUpsert = async (args) => {
+    set = args.set
+    return ACCOUNT_ROW
+  }
+  await landAccountInventory(VALUES, () => "id-1", {
+    readPages: accountFound,
+    writeFiles: async () => ({ ok: true, at: "c2" }),
+    upsert,
+  })
+  expect(set).toEqual(inventoryPageKeys(VALUES))
 })
 
 test("every slot holding something becomes a row, bag by bag and slot by slot", () => {
@@ -445,40 +436,22 @@ test("each bag of each holder becomes a row, and a holder with no bag sizes has 
   ])
 })
 
-test("a scan holding no bag holder files no row at all", () => {
+test("a reading holding no bag holder files no row at all", () => {
   expect(locationRowsOf(VALUES, () => "r")).toBe("")
   expect(bagSizeRowsOf(VALUES, () => "b")).toBe("")
 })
 
-test("a scan whose page is filed already is left alone", async () => {
-  const held: ReadFiles = async (paths) => ({
-    ok: true,
-    at: "c3",
-    bodies: paths.map((path) => ({ path, content: path === PAGE_PATH ? "held" : null })),
-    unplaced: [],
-  })
-  let wrote = false
-  const write: WriteFiles = async () => {
-    wrote = true
-    return { ok: true, at: "c4" }
-  }
-  expect(await landInventorySnapshot(VALUES, () => "id-2", { read: held, write })).toEqual({
-    outcome: "already",
-    at: "c3",
-  })
-  expect(wrote).toBe(false)
-})
-
 test("a store that will not answer is refused rather than written to", async () => {
-  const refused: ReadFiles = async () => ({ ok: false, why: "the store was unreachable" })
+  const refused: ReadPages = async () => ({ ok: false, why: "the store was unreachable" })
   let wrote = false
   const write: WriteFiles = async () => {
     wrote = true
     return { ok: true, at: "c5" }
   }
-  const landed = await landInventorySnapshot(VALUES, () => "id-3", {
-    read: refused,
-    write,
+  const landed = await landAccountInventory(VALUES, () => "id-3", {
+    readPages: refused,
+    writeFiles: write,
+    upsert: upsertNothing,
     waiting: async () => undefined,
   })
   expect(landed.outcome).toBe("refused")

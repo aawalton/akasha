@@ -48,7 +48,7 @@ export const watcherImportInventory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A scan is filed as its own page as well as counted toward net worth.",
+      statement: "A scan is written onto the account page as well as counted toward net worth.",
     },
     {
       decisionKind: "decision-kind/absence",

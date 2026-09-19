@@ -1,50 +1,49 @@
+import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
+import {
+  type UpsertPageArgs,
+  upsertPage,
+} from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import {
+  readPages,
+  writeFiles,
+} from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { currencies } from "akasha/temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import type {
   Landed,
-  LandingDeps,
-  PageKey,
+  ReadPages,
   Tried,
+  Waiting,
+  WriteFiles,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
-  contentIn,
+  besidePathOf,
   jsonlBodyOf,
   jsonRowOf,
   landOverAttempts,
+  noPagePathWhy,
   PAGE_LANDING_WRITER,
-  pageBodyFor,
-  pagePathIn,
-  readingFor,
-  rowsPathIn,
-  triedFrom,
-  writingFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
-
-const FOLDER = "temper/holdings/temper-inventory-snapshot/pages"
-
-const DATA_PROPERTY = "data"
 
 const LOCATIONS_PROPERTY = "locations"
 
 const BAG_SIZES_PROPERTY = "bag-sizes"
 
-const BAG_SIZES_KEY = "bagSizes"
-
 const CRAFTING_LEVELS_PROPERTY = "crafting-levels"
 
-const CRAFTING_LEVELS_KEY = "craftingLevels"
-
 const PLACED_FURNISHINGS_PROPERTY = "placed-furnishings"
-
-const PLACED_FURNISHINGS_KEY = "placedFurnishings"
 
 const CURRENCIES_PROPERTY = "currencies"
 
 const STACKS_PROPERTY = "stacks"
+
+const ROWS_ENDING = "jsonl"
 
 const CURRENCY_PAGE_TYPE = "temper-inventory-currency"
 
@@ -61,38 +60,40 @@ const CURRENCY_ADDRESSES: ReadonlyMap<string, string> = new Map(
 
 const MS_PER_SECOND = 1000
 
-const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
+const ROW_PROPERTIES = [
+  LOCATIONS_PROPERTY,
+  BAG_SIZES_PROPERTY,
+  CRAFTING_LEVELS_PROPERTY,
+  PLACED_FURNISHINGS_PROPERTY,
+  CURRENCIES_PROPERTY,
+  STACKS_PROPERTY,
+] as const
 
-export interface SnapshotValues {
-  readonly slug: string
-  readonly accountPage: string
+export interface InventoryValues {
+  readonly accountSlug: string
   readonly capturedAt: string
   readonly totalValue: number
-  readonly chunkCount: number
   readonly inventory: InventoryDatabase
 }
 
-export function snapshotPagePath(slug: string): string {
-  return pagePathIn(FOLDER, slug, INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG)
-}
+export type InventoryPageUpsert = (args: UpsertPageArgs<Record<string, Json>>) => Promise<Page>
 
-export function snapshotDataPath(slug: string): string {
-  return `${FOLDER}/${slug}/${slug}.${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}.${DATA_PROPERTY}.json`
-}
-
-export function snapshotRowsPath(slug: string, property: string): string {
-  return rowsPathIn(FOLDER, slug, INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG, property)
+export interface InventoryLandingDeps {
+  readonly readPages?: ReadPages
+  readonly writeFiles?: WriteFiles
+  readonly upsert?: InventoryPageUpsert
+  readonly waiting?: Waiting
 }
 
 function instantOf(seconds: number): string {
   return new Date(seconds * MS_PER_SECOND).toISOString()
 }
 
-function locationIdsIn(values: SnapshotValues): readonly string[] {
+function locationIdsIn(values: InventoryValues): readonly string[] {
   return Object.keys(values.inventory.locations).sort()
 }
 
-export function locationRowsOf(values: SnapshotValues, minted: () => string): string {
+export function locationRowsOf(values: InventoryValues, minted: () => string): string {
   const lines: string[] = []
   for (const locationId of locationIdsIn(values)) {
     const held = values.inventory.locations[locationId]
@@ -109,7 +110,7 @@ export function locationRowsOf(values: SnapshotValues, minted: () => string): st
   return jsonlBodyOf(lines)
 }
 
-export function bagSizeRowsOf(values: SnapshotValues, minted: () => string): string {
+export function bagSizeRowsOf(values: InventoryValues, minted: () => string): string {
   const lines: string[] = []
   for (const locationId of locationIdsIn(values)) {
     const sizes = values.inventory.locations[locationId]?.bagSizes
@@ -133,39 +134,14 @@ export function bagSizeRowsOf(values: SnapshotValues, minted: () => string): str
   return jsonlBodyOf(lines)
 }
 
-export function snapshotPageKeys(values: SnapshotValues): readonly PageKey[] {
-  const { meta, transmuteCrystalAmount, transmuteCrystalCap } = values.inventory
-  const keys: PageKey[] = [
-    ["title", values.capturedAt],
-    ["accountPage", values.accountPage],
-    ["capturedAt", values.capturedAt],
-    ["totalValue", values.totalValue],
-    ["chunkCount", values.chunkCount],
-  ]
-  if (meta.lastFullScan > 0) {
-    keys.push(["lastFullScanAt", new Date(meta.lastFullScan * MS_PER_SECOND).toISOString()])
-  }
-  if (meta.priceSource !== undefined) keys.push(["priceSource", meta.priceSource])
-  if (transmuteCrystalAmount !== undefined) {
-    keys.push(["transmuteCrystalAmount", transmuteCrystalAmount])
-  }
-  if (transmuteCrystalCap !== undefined) keys.push(["transmuteCrystalCap", transmuteCrystalCap])
-  keys.push(
-    [LOCATIONS_PROPERTY, "jsonl"],
-    [BAG_SIZES_KEY, "jsonl"],
-    [CRAFTING_LEVELS_KEY, "jsonl"],
-    [PLACED_FURNISHINGS_KEY, "jsonl"],
-    [CURRENCIES_PROPERTY, "jsonl"],
-    [STACKS_PROPERTY, "jsonl"]
-  )
-  keys.push([DATA_PROPERTY, "json"])
-  return keys
-}
-
 function numbersIn(held: Record<number, unknown>): readonly number[] {
   return Object.keys(held)
     .map((one) => Number(one))
     .sort((one, two) => one - two)
+}
+
+function saidOnly(value: string | undefined): string | undefined {
+  return value === undefined || value === "" ? undefined : value
 }
 
 function stackRowOf(
@@ -219,7 +195,7 @@ function stackRowOf(
   ])
 }
 
-export function stackRowsOf(values: SnapshotValues, minted: () => string): string {
+export function stackRowsOf(values: InventoryValues, minted: () => string): string {
   const lines: string[] = []
   for (const locationId of locationIdsIn(values)) {
     const bags = values.inventory.locations[locationId]?.bags
@@ -248,7 +224,7 @@ function pursedIn(purse: CurrencyBalances): readonly (readonly [string, number])
   return [...held].sort((one, two) => one[0].localeCompare(two[0]))
 }
 
-export function currencyRowsOf(values: SnapshotValues, minted: () => string): string {
+export function currencyRowsOf(values: InventoryValues, minted: () => string): string {
   const held = values.inventory.currencies
   const lines: string[] = []
   if (held === undefined) return jsonlBodyOf(lines)
@@ -285,11 +261,7 @@ export function currencyRowsOf(values: SnapshotValues, minted: () => string): st
   return jsonlBodyOf(lines)
 }
 
-function saidOnly(value: string | undefined): string | undefined {
-  return value === undefined || value === "" ? undefined : value
-}
-
-export function placedFurnishingRowsOf(values: SnapshotValues, minted: () => string): string {
+export function placedFurnishingRowsOf(values: InventoryValues, minted: () => string): string {
   const lines: string[] = []
   for (const locationId of locationIdsIn(values)) {
     const placed = values.inventory.locations[locationId]?.placedFurnishings
@@ -319,7 +291,7 @@ export function placedFurnishingRowsOf(values: SnapshotValues, minted: () => str
   return jsonlBodyOf(lines)
 }
 
-export function craftingLevelRowsOf(values: SnapshotValues, minted: () => string): string {
+export function craftingLevelRowsOf(values: InventoryValues, minted: () => string): string {
   const held = values.inventory.craftingLevels ?? {}
   const lines: string[] = []
   for (const esoCharacterId of Object.keys(held).sort()) {
@@ -344,71 +316,76 @@ export function craftingLevelRowsOf(values: SnapshotValues, minted: () => string
   return jsonlBodyOf(lines)
 }
 
-export function snapshotPageBody(values: SnapshotValues, id: string): string {
-  return pageBodyFor(
-    FOLDER,
-    INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
-    values.slug,
-    id,
-    snapshotPageKeys(values)
-  )
+function rowsFor(property: string, values: InventoryValues, minted: () => string): string {
+  if (property === LOCATIONS_PROPERTY) return locationRowsOf(values, minted)
+  if (property === BAG_SIZES_PROPERTY) return bagSizeRowsOf(values, minted)
+  if (property === CRAFTING_LEVELS_PROPERTY) return craftingLevelRowsOf(values, minted)
+  if (property === PLACED_FURNISHINGS_PROPERTY) return placedFurnishingRowsOf(values, minted)
+  if (property === CURRENCIES_PROPERTY) return currencyRowsOf(values, minted)
+  return stackRowsOf(values, minted)
 }
 
-function snapshotCommitMessage(values: SnapshotValues): string {
-  return `temper: the inventory scan taken at ${values.capturedAt}`
-}
-
-export async function landInventorySnapshot(
-  values: SnapshotValues,
-  minted: () => string,
-  deps: LandingDeps = {}
-): Promise<Landed> {
-  const read = readingFor(deps)
-  const write = writingFor(deps)
-  const pagePath = snapshotPagePath(values.slug)
-  const dataPath = snapshotDataPath(values.slug)
-  const tryOnce = async (): Promise<Tried> => {
-    const found = await read([pagePath])
-    if (!found.ok) return { outcome: "again", why: found.why }
-    if (contentIn(found.bodies, pagePath) !== null) return { outcome: "already", at: found.at }
-    const puts = [
-      { path: pagePath, content: snapshotPageBody(values, minted()) },
-      {
-        path: snapshotRowsPath(values.slug, LOCATIONS_PROPERTY),
-        content: locationRowsOf(values, minted),
-      },
-      {
-        path: snapshotRowsPath(values.slug, BAG_SIZES_PROPERTY),
-        content: bagSizeRowsOf(values, minted),
-      },
-      {
-        path: snapshotRowsPath(values.slug, CRAFTING_LEVELS_PROPERTY),
-        content: craftingLevelRowsOf(values, minted),
-      },
-      {
-        path: snapshotRowsPath(values.slug, PLACED_FURNISHINGS_PROPERTY),
-        content: placedFurnishingRowsOf(values, minted),
-      },
-      {
-        path: snapshotRowsPath(values.slug, CURRENCIES_PROPERTY),
-        content: currencyRowsOf(values, minted),
-      },
-      {
-        path: snapshotRowsPath(values.slug, STACKS_PROPERTY),
-        content: stackRowsOf(values, minted),
-      },
-      { path: dataPath, content: JSON.stringify(values.inventory) },
-    ]
-    return triedFrom(
-      await write(
-        puts,
-        PAGE_LANDING_WRITER,
-        snapshotCommitMessage(values),
-        undefined,
-        undefined,
-        found.at
-      )
-    )
+export function inventoryPageKeys(values: InventoryValues): Record<string, Json> {
+  const { meta, transmuteCrystalAmount, transmuteCrystalCap } = values.inventory
+  const keys: Record<string, Json> = {
+    capturedAt: values.capturedAt,
+    totalValue: values.totalValue,
+    locations: ROWS_ENDING,
+    bagSizes: ROWS_ENDING,
+    craftingLevels: ROWS_ENDING,
+    placedFurnishings: ROWS_ENDING,
+    currencies: ROWS_ENDING,
+    stacks: ROWS_ENDING,
   }
-  return landOverAttempts(`no attempt to land a scan on ${pagePath} was made`, tryOnce, deps)
+  if (meta.lastFullScan > 0) {
+    keys.lastFullScanAt = new Date(meta.lastFullScan * MS_PER_SECOND).toISOString()
+  }
+  if (meta.priceSource !== undefined) keys.priceSource = meta.priceSource
+  if (transmuteCrystalAmount !== undefined) keys.transmuteCrystalAmount = transmuteCrystalAmount
+  if (transmuteCrystalCap !== undefined) keys.transmuteCrystalCap = transmuteCrystalCap
+  return keys
+}
+
+function inventoryCommitMessage(values: InventoryValues): string {
+  return `temper: the inventory read at ${values.capturedAt}`
+}
+
+export async function landAccountInventory(
+  values: InventoryValues,
+  minted: () => string,
+  deps: InventoryLandingDeps = {}
+): Promise<Landed> {
+  const read = deps.readPages ?? readPages
+  const write = deps.writeFiles ?? writeFiles
+  const upsert = deps.upsert ?? upsertPage
+  const unplaced = noPagePathWhy(ACCOUNT_PAGE_TYPE_SLUG, values.accountSlug)
+
+  const tryOnce = async (): Promise<Tried> => {
+    const found = await read([{ pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG, slug: values.accountSlug }])
+    if (!found.ok) return { outcome: "again", why: found.why }
+    const pagePath = found.bodies[0]?.path
+    if (pagePath === undefined) return { outcome: "refused", why: unplaced }
+
+    const puts: { path: string; content: string }[] = []
+    for (const property of ROW_PROPERTIES) {
+      const path = besidePathOf(pagePath, property, ROWS_ENDING)
+      if (path === null) return { outcome: "refused", why: unplaced }
+      puts.push({ path, content: rowsFor(property, values, minted) })
+    }
+
+    const landing = await write(puts, PAGE_LANDING_WRITER, inventoryCommitMessage(values))
+    if (!landing.ok) return { outcome: "again", why: landing.why }
+
+    await upsert({
+      pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
+      where: [{ key: "slug", eq: values.accountSlug }],
+      set: inventoryPageKeys(values),
+      select: ["id"],
+    })
+    return { outcome: "landed", at: landing.at }
+  }
+
+  return landOverAttempts(`no attempt to land ${unplaced} was made`, tryOnce, {
+    waiting: deps.waiting,
+  })
 }

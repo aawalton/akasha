@@ -18,11 +18,11 @@ import type {
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeInventoryTotalValue } from "akasha/temper/items-core/modules/inventory-value/inventory-value.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items-core/modules/shard-inventory/shard-inventory.module.code.ts"
+import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
-  landInventorySnapshot,
-  type SnapshotValues,
+  type InventoryValues,
+  landAccountInventory,
 } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
-import { inventorySnapshotName } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
@@ -33,8 +33,6 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-
-const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
@@ -77,7 +75,7 @@ export type LandedReading =
 
 export type LandReading = (values: ReadingValues, minted: () => string) => Promise<LandedReading>
 
-export type FileScan = (values: SnapshotValues, minted: () => string) => Promise<LandedReading>
+export type FileScan = (values: InventoryValues, minted: () => string) => Promise<LandedReading>
 
 export interface ImportInventoryTools {
   readonly say?: (line: string) => void
@@ -165,14 +163,14 @@ export function summaryLines(
 export function filedLines(
   capturedAt: string,
   filing: Filing,
-  snapshotSlug: string,
+  accountSlug: string,
   filed: Filing
 ): readonly string[] {
   const hour = netWorthHourSlug(capturedAt)
   return [
     "",
     `  Net worth filed on \`${hour}\` (${filing.outcome} at ${filing.at}).`,
-    `  Scan filed on \`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotSlug}\` ` +
+    `  Inventory filed on \`${ACCOUNT_PAGE_TYPE_SLUG}/${accountSlug}\` ` +
       `(${filed.outcome} at ${filed.at}).`,
   ]
 }
@@ -192,7 +190,7 @@ export async function runImportInventory(
     ((values: ReadingValues, minted: () => string) => landNetWorthReading(values, minted))
   const file =
     tools.file ??
-    ((values: SnapshotValues, minted: () => string) => landInventorySnapshot(values, minted))
+    ((values: InventoryValues, minted: () => string) => landAccountInventory(values, minted))
 
   const userId = await userIdFor(supabase, options.userId, "file this inventory scan")
 
@@ -241,16 +239,27 @@ export async function runImportInventory(
     )
   }
 
-  const snapshotSlug = `at-${inventorySnapshotName(capturedAt)}`
-  const filed = await file(
-    { slug: snapshotSlug, accountPage: userId, capturedAt, totalValue, chunkCount, inventory },
-    mint
-  )
+  const accountAsked = await ask({
+    pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
+    where: { title: { is: userId } },
+    limit: 1,
+  })
+  if ("refused" in accountAsked) {
+    throw new Error(
+      `the ${ACCOUNT_PAGE_TYPE_SLUG} page went unread, so this inventory has nowhere to land — ${accountAsked.refused}`
+    )
+  }
+  const accountSlug = accountAsked.rows[0]?.slug
+  if (typeof accountSlug !== "string") {
+    throw new Error(`the ${ACCOUNT_PAGE_TYPE_SLUG} page for ${userId} states no slug`)
+  }
+
+  const filed = await file({ accountSlug, capturedAt, totalValue, inventory }, mint)
   if (filed.outcome === "refused") {
     throw new Error(
-      `this scan did not land on \`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotSlug}\` — ${filed.why}`
+      `this inventory did not land on \`${ACCOUNT_PAGE_TYPE_SLUG}/${accountSlug}\` — ${filed.why}`
     )
   }
 
-  for (const line of filedLines(capturedAt, landed, snapshotSlug, filed)) say(line)
+  for (const line of filedLines(capturedAt, landed, accountSlug, filed)) say(line)
 }

@@ -4,25 +4,25 @@ export const watcherInventorySnapshotLanding = {
   id: "01a0a65d-ef8f-7a9e-b659-47f2639b391a",
   type: "page-type/module",
   slug: "watcher-inventory-snapshot-landing",
-  definition: "the page a scan is filed as, and the scan's own data file beside it",
+  definition: "the row files an account's inventory is written as, rewritten on every reading",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A scan is filed as one page named for the instant that scan was taken.",
+      statement: "An account carries one inventory, rewritten in place on every reading.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The page and the data file beside it land together or not at all.",
+      statement: "Every row file a reading writes lands together or not at all.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A scan whose page is filed already is left alone rather than written again.",
+      statement: "The account page is told which row files it carries once those files landed.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The data file holds the whole scan as the one JSON document the scan is.",
+      statement: "A reading is written again over the last one rather than left alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -79,10 +79,6 @@ export const watcherInventorySnapshotLanding = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A field the scan left out is left off the row rather than filed as null.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The rows a scan's open cooldowns become are not filed yet.",
     },
   ],
 } as const satisfies Module
