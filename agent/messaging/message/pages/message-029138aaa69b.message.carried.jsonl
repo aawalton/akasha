@@ -1,0 +1,7 @@
+{"body":"the audit at d4bded126676a65728f4575e740ad6ac8361d5e5 found 2 checks newly refusing.\n`index-is-level-with-the-pages` refused 1 time:\n  decision-kind/pages/gap.decision-kind.referenced-by — the index entry for this file is in the index differing from what its page says\n`tests-pass` refused 1 time:\n  agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.test.ts — Measured between 2026-09-19T17:03:52.732Z and 2026-09-19T17:05:02.247Z. a test file is given 5 processor seconds, and 10 test files went past that: agent... (1165 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: no seat holds the name `thea`, so a message written there would wait in a directory nothing drains. Refused rather than landed, because a send nobody receives must not answer as one that arrived.\n"}
+{"from":"audit-running"}
+{"id":"01a0baa1-4927-7000-ad22-029138aaa69b"}
+{"slug":"message-029138aaa69b"}
+{"to":"seat/alan"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
