@@ -14,7 +14,7 @@ export default [
   ]),
   route("handover", "routes/archive-of-worlds-handover/archive-of-worlds-handover.route.code.ts"),
   route("sign-in", "routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.code.ts"),
-  route("sign-up", "routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.code.tsx"),
+  route("sign-up", "routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.code.ts"),
   route("sign-out", "routes/archive-of-worlds-sign-out/archive-of-worlds-sign-out.route.code.ts"),
   route(
     "api/health",
