@@ -9,10 +9,10 @@ import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
-  const signedIn = (await signedInAs(TEMPER_SITE, request)) !== null
+  const reader = await signedInAs(TEMPER_SITE, request)
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
-  if (signedIn) {
+  if (reader !== null) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
@@ -25,13 +25,13 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ navItems })
+  return data({ reader, navItems })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   usePathTracking()
   return (
-    <AuthProviderWrapper>
+    <AuthProviderWrapper reader={loaderData.reader}>
       <AppShell ssrNavItems={loaderData.navItems}>
         <Outlet />
       </AppShell>

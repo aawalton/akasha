@@ -6,4 +6,10 @@ export const authProviderWrapper = {
   slug: "auth-provider-wrapper",
   definition: "the temper pages a signed-in reader's tree of components is given",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page store is told of the reader by the shared auth provider.",
+    },
+  ],
 } as const satisfies Module
