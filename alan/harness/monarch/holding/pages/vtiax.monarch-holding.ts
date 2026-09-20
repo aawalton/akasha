@@ -9,7 +9,7 @@ export const vtiax = {
   account: "monarch-account/alan-walton-jennifer-walton-brokerage-account-8993-445936",
   securityName: "Vanguard Total International Stock Index Fund Admiral Shares",
   ticker: "VTIAX",
-  quantity: 36222.904,
-  costBasis: 1655386.71,
-  holdingValue: 1672773.7067200001,
+  quantity: 36285.184,
+  costBasis: 1658262.81,
+  holdingValue: 1675649.79712,
 } as const satisfies MonarchHolding
