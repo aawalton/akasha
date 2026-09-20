@@ -23,7 +23,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "What a property carries is worked out for the pages a change names rather than across the index.",
       workingMemory:
-        "`filePropertiesAt` in `index-entries.module.code.ts` was 1.29s of a 6.20s landing: `carryingAt` was worked out again on each of 1,207 calls, 1,166 of them from `fileOf`, though it reads one reading alone. It is held with `heldOnce` now, as this page type's own decision says. What is left of `derivedFor` is `slugsOver` at 1.25s, reading every file property whatever the change names, and `readByGenerated` building a second face over the root.",
+        "`readingIn` built a new reading for every caller that named the root rather than a reading, so every `heldOnce` and `heldEach` memo missed and each face over the root was worked out again. One reading is held per root for the length of a command call now, and a write to the index lets it go. What that leaves of `derivedFor`, `carryingOf` and `turnsFor` is not yet measured.",
     },
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
