@@ -1,4 +1,3 @@
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
@@ -9,7 +8,6 @@ import type { Route } from "./+types/archive-of-worlds-page-listing.route.code"
 export async function loader({ params, request }: Route.LoaderArgs) {
   const pageTypeSlug = params.pageTypeSlug
 
-  const { headers } = createServerClient(request)
   const pageType = await getPageTypeBySlug(pageTypeSlug)
   if (!pageType || typeof pageType.slug !== "string") {
     throw new Response("Not Found", { status: 404 })
@@ -21,7 +19,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
     resolvedSearchParams[key] = value
   }
 
-  return data({ slug: pageType.slug, searchParams: resolvedSearchParams }, { headers })
+  return data({ slug: pageType.slug, searchParams: resolvedSearchParams })
 }
 
 export default function PagesListingRoute({ loaderData }: Route.ComponentProps) {

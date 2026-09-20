@@ -1,15 +1,10 @@
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.code.ts"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.code.tsx"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-page-detail/atlas-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/page-listing-loader/page-listing-loader.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/request-context/request-context.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/session-refresh/session-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/web/.server/device-token-context/device-token-context.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.code.tsx"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts"}

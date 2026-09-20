@@ -1,4 +1,3 @@
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   getPageByIdSuffix,
   getPageByIdSuffixAcrossTypes,
@@ -26,7 +25,7 @@ export function meta({ data: loaderData }: Route.MetaArgs) {
   ]
 }
 
-export async function loader({ params, request }: Route.LoaderArgs) {
+export async function loader({ params }: Route.LoaderArgs) {
   const { pageTypeSlug, pageHrefParam } = params
 
   const parsed = parsePageHrefParam(pageHrefParam)
@@ -35,19 +34,15 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   }
 
   if (pageTypeSlug === NAV_SLUG) {
-    return data(
-      {
-        kind: "nav" as const,
-        pageTypeSlug,
-        pageHrefParam,
-        faviconIdSuffix: parsed.idSuffix,
-      },
-      { headers: new Headers() }
-    )
+    return data({
+      kind: "nav" as const,
+      pageTypeSlug,
+      pageHrefParam,
+      faviconIdSuffix: parsed.idSuffix,
+    })
   }
 
   const brandedSlug = toPageTypeSlug(pageTypeSlug)
-  const { headers } = createServerClient(request)
 
   const exact = await getPageByIdSuffix({
     pageTypeSlug: brandedSlug,
@@ -78,15 +73,12 @@ export async function loader({ params, request }: Route.LoaderArgs) {
     throw new Response("Not Found", { status: 404 })
   }
 
-  return data(
-    {
-      kind: "detail" as const,
-      pageTypeSlug: resolvedSlug,
-      id,
-      faviconIdSuffix: null,
-    },
-    { headers }
-  )
+  return data({
+    kind: "detail" as const,
+    pageTypeSlug: resolvedSlug,
+    id,
+    faviconIdSuffix: null,
+  })
 }
 
 export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {

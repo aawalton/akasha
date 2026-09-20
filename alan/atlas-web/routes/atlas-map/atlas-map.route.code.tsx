@@ -1,6 +1,5 @@
 import { LocationMap } from "akasha/alan/atlas-web/modules/location-map/location-map.module.code.tsx"
 import { toPins } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   PageLayout,
   PageTitle,
@@ -15,8 +14,7 @@ export function meta() {
   return [{ title: "Map · Atlas" }]
 }
 
-export async function loader({ request }: { request: Request }) {
-  const { headers } = createServerClient(request)
+export async function loader() {
   const rows = await collectPages({
     pageTypeSlug: "location",
     pageSize: 1000,
@@ -26,7 +24,7 @@ export async function loader({ request }: { request: Request }) {
   const basemapUrlResult = BasemapUrlSchema.safeParse(process.env.NEXT_PUBLIC_PROTOMAPS_PMTILES_URL)
   const basemapUrl = basemapUrlResult.success ? basemapUrlResult.data : null
 
-  return data({ pins, basemapUrl }, { headers })
+  return data({ pins, basemapUrl })
 }
 
 type MapLoaderData = Awaited<ReturnType<typeof loader>>["data"]

@@ -1,4 +1,3 @@
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   PageLayout,
   PageTitle,
@@ -84,17 +83,9 @@ function countSays(shown: number, total: number): string {
   return shown === 1 ? "1 stop on this trip." : `${shown} stops on this trip.`
 }
 
-export async function loader({
-  params,
-  request,
-}: {
-  params: { tripParam: string }
-  request: Request
-}) {
+export async function loader({ params }: { params: { tripParam: string } }) {
   const parsed = parsePageHrefParam(params.tripParam)
   if (!parsed) throw new Response("Not Found", { status: 404 })
-
-  const { headers } = createServerClient(request)
 
   const collection = await getPageByIdSuffix({
     pageTypeSlug: toPageTypeSlug(COLLECTION_SLUG),
@@ -121,7 +112,7 @@ export async function loader({
         })
 
   const stops = stopsFrom(found.rows)
-  return data({ tripTitle, stops, stopCount: found.count ?? stops.length }, { headers })
+  return data({ tripTitle, stops, stopCount: found.count ?? stops.length })
 }
 
 type TripLoaderData = Awaited<ReturnType<typeof loader>>["data"]
