@@ -1,20 +1,13 @@
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { buildNavIconSvg } from "akasha/alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.code.ts"
 import { getPageByIdSuffix } from "akasha/page/access/modules/get/get.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 const NAV_SLUG = toPageTypeSlug("nav")
 
-export async function loader({
-  params,
-  request,
-}: {
-  params: { idSuffix: string }
-  request: Request
-}): Promise<Response> {
+export async function loader({ params }: { params: { idSuffix: string } }): Promise<Response> {
   const idSuffix = params.idSuffix
 
-  const { headers } = createServerClient(request)
+  const headers = new Headers()
   const page = await getPageByIdSuffix({
     pageTypeSlug: NAV_SLUG,
     idSuffix,
