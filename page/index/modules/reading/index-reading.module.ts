@@ -188,6 +188,14 @@ export const indexReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A scope may hold one reading for a root so every caller in it reads the same.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write to the index lets go of every reading a scope holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The value one page carries is read from that page's own body.",
     },
     {

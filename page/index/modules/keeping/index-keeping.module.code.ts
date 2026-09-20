@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, renameSync, rmdirSync, rmSync, writeFileSync } f
 import { dirname, join } from "node:path"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { readingsForgotten } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
@@ -45,6 +46,7 @@ function pruneAbove(at: string, root: string): undefined {
 }
 
 export function keepWhole(at: string, lines: readonly string[], root: string): undefined {
+  readingsForgotten()
   if (lines.length === 0) {
     if (existsSync(at)) rmSync(at)
     pruneAbove(dirname(at), root)

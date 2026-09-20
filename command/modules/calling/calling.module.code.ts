@@ -45,6 +45,7 @@ import {
   indexThere,
   listedAt,
   listedById,
+  readingsHeld,
   slugsOfType,
   typeSlugById,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -445,13 +446,15 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
         )
       : carried(DATA, () => `\`${named}\` was looked for and not read.`)
   }
-  const answer = await calledAt(
-    first,
-    reached.above,
-    saidIn(argv, reached.held),
-    root,
-    argv.slice(reached.held),
-    outside
+  const answer = await readingsHeld(() =>
+    calledAt(
+      first,
+      reached.above,
+      saidIn(argv, reached.held),
+      root,
+      argv.slice(reached.held),
+      outside
+    )
   )
   costRecorded(root, first.path, before, COMMAND, first.slug, 0, answer.refusals.length)
   return answer
