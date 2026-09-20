@@ -1,8 +1,4 @@
 import {
-  getRequestServerClient,
-  resolveRequestSession,
-} from "akasha/alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"
-import {
   type SentenceMark,
   sentenceMarkSchema,
 } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
@@ -35,7 +31,7 @@ const NAV_SLUG = "nav"
 const audioSentenceMarksSchema = z.array(sentenceMarkSchema)
 const READING_STORY_SLUG = "reading-story"
 
-export async function loader({ params, request }: LoaderFunctionArgs) {
+export async function loader({ params }: LoaderFunctionArgs) {
   const { pageTypeSlug, pageHrefParam } = params
   if (pageTypeSlug === undefined || pageHrefParam === undefined) {
     throw new Response("Not Found", { status: 404 })
@@ -47,8 +43,6 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
   }
 
   const brandedSlug = toPageTypeSlug(pageTypeSlug)
-  const { headers } = getRequestServerClient(request)
-  await resolveRequestSession(request)
 
   if (pageTypeSlug === NAV_SLUG) {
     const navPage = await getPageByIdSuffix({
@@ -57,16 +51,13 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
       slug: parsed.slug ?? undefined,
       select: ["id", "title"],
     })
-    return data(
-      {
-        kind: "nav" as const,
-        pageTypeSlug,
-        pageHrefParam,
-        faviconIdSuffix: parsed.idSuffix,
-        title: navPage && typeof navPage.title === "string" ? navPage.title : null,
-      },
-      { headers }
-    )
+    return data({
+      kind: "nav" as const,
+      pageTypeSlug,
+      pageHrefParam,
+      faviconIdSuffix: parsed.idSuffix,
+      title: navPage && typeof navPage.title === "string" ? navPage.title : null,
+    })
   }
 
   const exact = await getPageByIdSuffix({
@@ -191,25 +182,22 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     }
   }
 
-  return data(
-    {
-      kind: "detail" as const,
-      pageTypeSlug: resolvedSlug,
-      id,
-      faviconIdSuffix: null,
-      title,
-      audioVariants,
-      audioNextHref,
-      audioDefaultVariant,
-      audioSentenceMarks,
-      readerPrev,
-      readerNext,
-      storyHref,
-      chapterTitle,
-      chapterNumber,
-      storyTitle,
-      nextUnreadHref,
-    },
-    { headers }
-  )
+  return data({
+    kind: "detail" as const,
+    pageTypeSlug: resolvedSlug,
+    id,
+    faviconIdSuffix: null,
+    title,
+    audioVariants,
+    audioNextHref,
+    audioDefaultVariant,
+    audioSentenceMarks,
+    readerPrev,
+    readerNext,
+    storyHref,
+    chapterTitle,
+    chapterNumber,
+    storyTitle,
+    nextUnreadHref,
+  })
 }

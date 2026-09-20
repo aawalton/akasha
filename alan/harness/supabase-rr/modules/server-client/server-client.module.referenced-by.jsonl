@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/session-refresh/session-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/web/.server/device-token-context/device-token-context.module.code.ts"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts"}

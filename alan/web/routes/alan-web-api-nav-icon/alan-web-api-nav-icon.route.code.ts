@@ -1,4 +1,3 @@
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   buildNavIconSvg,
   NAV_ICON_ACCENT,
@@ -10,16 +9,10 @@ const NAV_SLUG = toPageTypeSlug("nav")
 
 const ALANWALTON_STROKE_WIDTH = 2.5
 
-export async function loader({
-  params,
-  request,
-}: {
-  params: { idSuffix: string }
-  request: Request
-}): Promise<Response> {
+export async function loader({ params }: { params: { idSuffix: string } }): Promise<Response> {
   const idSuffix = params.idSuffix
 
-  const { headers } = createServerClient(request)
+  const headers = new Headers()
   const page = await getPageByIdSuffix({
     pageTypeSlug: NAV_SLUG,
     idSuffix,
