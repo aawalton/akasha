@@ -70,14 +70,10 @@ function webBuildInitContainer(): object {
     env: [
       { name: "HOME", value: CONTAINER_TMP_PATH },
       { name: "NODE_ENV", value: "production" },
-      { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-      { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
       {
         name: "NEXT_PUBLIC_ELECTRIC_URL",
         value: "https://supabase.alanwalton.com/electric/v1/shape",
       },
-      { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
-      { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
     ],
     resources: {
       requests: { cpu: "500m", memory: "1Gi" },
@@ -143,13 +139,6 @@ function webDeploymentYaml(): string {
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: `${alanwaltonWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "alanwalton-web" },
-                { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-                { name: "SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-                { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
-                {
-                  name: "SUPABASE_JWT_SECRET",
-                  valueFrom: { secretKeyRef: { name: SECRET_NAME, key: "JWT_SECRET" } },
-                },
                 {
                   name: "HANDOVER_SIGNING_KEY",
                   valueFrom: {
@@ -211,22 +200,10 @@ function webDeploymentYaml(): string {
 }
 
 export const BUILD_ENV = [
-  { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-  { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   {
     name: "NEXT_PUBLIC_ELECTRIC_URL",
     value: "https://supabase.alanwalton.com/electric/v1/shape",
   },
-  {
-    name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
-  },
-  {
-    name: "VITE_SUPABASE_ANON_KEY",
-    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
-  },
-  { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
-  { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
 ] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
