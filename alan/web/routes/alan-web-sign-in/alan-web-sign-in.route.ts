@@ -10,7 +10,8 @@ export const alanWebSignIn = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A signed-in reader is sent to the home route.",
+      statement:
+        "A reader Google signed in goes to the home route, and every other reader sees the button.",
     },
   ],
 } as const satisfies Route

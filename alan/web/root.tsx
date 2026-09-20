@@ -49,8 +49,9 @@ configureLocalPositionReader(isNativeShell() ? readLocalPosition : null)
 
 const AUTH_CONFIG: AuthRouteConfig = {
   signInPath: "/sign-in",
-  authPaths: ["/sign-in", "/sign-up"],
+  authPaths: ["/sign-up"],
   internalApiPaths: [
+    /^\/sign-in$/,
     "/.well-known/",
     "/api/health",
     "/api/pages-ready",
