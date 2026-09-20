@@ -1191,6 +1191,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/alanwalton-web/alanwalton-web.manifest.ts","id":"01a0737e-5eae-7286-97df-40905333f97f"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","id":"01a0655d-dab8-7853-9f9b-b95d2c8ee8a0"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}
+{"propertySlug":"decision-kind","path":"alan/web/modules/api-fetch/api-fetch.module.ts","id":"01a063c9-03ff-702b-9b74-c574af51ce49"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/audio-download-offer/audio-download-offer.module.ts","id":"01a0a081-7f6a-7653-89bb-050c3254ad45"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts","id":"01a063c9-03ff-7eb7-8909-d39430301bb3"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-cors/capacitor-cors.module.ts","id":"01a063c9-03ff-733a-9c12-48399577ca75"}
@@ -1232,6 +1233,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-privacy/alan-web-privacy.route.ts","id":"01a08828-b1a2-7d99-a146-98a87aae6df0"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-routes.app-routes.ts","id":"01a08be5-e239-7a9b-8ae1-de3ce17709ec"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-sign-in/alan-web-sign-in.route.ts","id":"01a08827-e090-7b1e-87a7-2838f4274334"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-sign-out/alan-web-sign-out.route.ts","id":"01a0882d-0225-7139-b8b8-9470ea19ccb6"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.ts","id":"01a08829-98dd-78b3-af25-0ea47d32f1b5"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.ts","id":"01a06858-8cfa-79e8-a5bc-b735b8f2f652"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/categorization/categorization.route.ts","id":"01a08241-5c83-7f0f-9096-69b7da0a19b7"}

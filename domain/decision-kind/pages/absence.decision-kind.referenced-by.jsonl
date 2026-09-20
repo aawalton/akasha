@@ -514,6 +514,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}
+{"propertySlug":"decision-kind","path":"alan/web/modules/api-fetch/api-fetch.module.ts","id":"01a063c9-03ff-702b-9b74-c574af51ce49"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts","id":"01a063c9-03ff-7eb7-8909-d39430301bb3"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.ts","id":"01a0655d-daa6-7fdf-b1e7-5b58892ba09c"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/offline-text-cache/offline-text-cache.module.ts","id":"01a0655d-daab-74e1-ab68-7d53cf730d46"}
