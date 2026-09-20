@@ -1,4 +1,5 @@
 import { answerPages as answerFrom } from "akasha/alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   capacitorCorsHeaders,
   corsAnswered,
@@ -10,5 +11,5 @@ const CORS_METHODS = "GET, OPTIONS"
 export async function answerPages(request: Request, pageTypeSlug: string): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method === "OPTIONS") return corsPreflight(cors)
-  return corsAnswered(await answerFrom(request, pageTypeSlug), cors)
+  return corsAnswered(await answerFrom(request, pageTypeSlug, readAlanUser), cors)
 }
