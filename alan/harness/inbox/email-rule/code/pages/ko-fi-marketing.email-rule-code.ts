@@ -7,4 +7,5 @@ export const koFiMarketing = {
   title: "Ko-fi marketing",
   matches: [{ field: "from", comparison: "is", values: ["hello@ko-fi.com"] }],
   filing: "archive",
+  actions: ["unsubscribe"],
 } as const satisfies EmailRuleCode
