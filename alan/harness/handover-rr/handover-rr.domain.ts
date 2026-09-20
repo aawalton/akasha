@@ -56,7 +56,7 @@ export const handoverRr = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A code that will not read sends the person back to the start of the handover, signing nobody in.",
+        "A code that will not read is refused where it arrives, rather than sending the person round again.",
     },
   ],
 } as const satisfies Domain

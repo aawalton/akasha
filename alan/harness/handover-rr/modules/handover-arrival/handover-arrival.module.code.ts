@@ -25,12 +25,22 @@ export function signInAt(site: HandoverSite, request: Request): string {
   return handoverStartAt(site, returnPathIn(site, asked))
 }
 
+const UNREADABLE =
+  "That sign-in code could not be read. It may have expired. Start again from the site you meant to reach."
+
+export function codeUnreadable(): Response {
+  return new Response(UNREADABLE, {
+    status: 400,
+    headers: { "content-type": "text/plain; charset=utf-8" },
+  })
+}
+
 export async function landFromHandover(site: HandoverSite, request: Request): Promise<Response> {
   const url = new URL(request.url)
   const back = returnPathIn(site, url.searchParams.get(RETURN_PARAM))
   const code = url.searchParams.get(CODE_PARAM)
   if (code === null || code === "") return redirect(handoverStartAt(site, back))
   const contributor = await contributorInCode({ code, audience: site.origin, verifier: null })
-  if (contributor === null) return redirect(handoverStartAt(site, back))
+  if (contributor === null) return codeUnreadable()
   return redirect(back, { headers: { "set-cookie": await signedInCookie(site, contributor) } })
 }
