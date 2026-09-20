@@ -739,7 +739,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/client-env-guard/client-env-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/cookie-options/cookie-options.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/effective-auth/effective-auth.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/page-listing-loader/page-listing-loader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/request-context/request-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/request-memo/request-memo.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.ts"}
@@ -768,6 +767,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/page-listing-loader/page-listing-loader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/chapter-choosing/chapter-choosing.module.ts"}

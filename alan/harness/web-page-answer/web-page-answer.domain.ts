@@ -10,6 +10,7 @@ export const webPageAnswer = {
     "module/answer-page-write",
     "module/answer-pages",
     "module/nav-icon-svg",
+    "module/page-listing-loader",
   ],
   decisions: [
     {

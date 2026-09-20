@@ -16,7 +16,7 @@ export const supabaseRr = {
     "module/client-env-guard",
     "module/cookie-options",
     "module/effective-auth",
-    "module/page-listing-loader",
+
     "module/request-context",
     "module/request-memo",
     "module/request-session-cache",
