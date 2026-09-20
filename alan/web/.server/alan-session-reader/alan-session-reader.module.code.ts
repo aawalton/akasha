@@ -1,8 +1,10 @@
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
-import {
-  parseBearerToken,
-  resolveRequestUser,
-} from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { contributorNamed } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+
+const PERSON_PAGE_TYPE = "person"
+
+const ACCOUNT_KEY = "supabaseAuthUserId"
 
 export type AlanReader = {
   readonly contributor: string
@@ -16,12 +18,23 @@ export async function alanContributor(request: Request): Promise<string | null> 
 export async function readAlanUser(
   request: Request
 ): Promise<{ user: object | null; headers: Headers }> {
-  if (parseBearerToken(request.headers.get("authorization")) === null) {
-    const contributor = await alanContributor(request)
-    if (contributor !== null) {
-      const reader: AlanReader = { contributor }
-      return { user: reader, headers: new Headers() }
-    }
+  const contributor = await alanContributor(request)
+  const reader: AlanReader | null = contributor === null ? null : { contributor }
+  return { user: reader, headers: new Headers() }
+}
+
+export async function alanAccountId(contributor: string): Promise<string | null> {
+  const named = contributorNamed(contributor)
+  if (named === null) return null
+  const asked = await askingFor({
+    pageTypeSlug: PERSON_PAGE_TYPE,
+    where: { contributor: { is: named } },
+    keys: [ACCOUNT_KEY],
+  })
+  if ("refused" in asked) {
+    console.error(`[alan-session-reader] the person pages went unread: ${asked.refused}`)
+    return null
   }
-  return resolveRequestUser(request)
+  const held = asked.rows[0]?.[ACCOUNT_KEY]
+  return typeof held === "string" && held !== "" ? held : null
 }
