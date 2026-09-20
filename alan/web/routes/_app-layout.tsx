@@ -39,7 +39,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
   const shell = useMemo(shellMediaWiring, [])
   return (
     <SupabaseProvider>
-      <AuthProvider>
+      <AuthProvider reader={loaderData.reader}>
         {}
         <PlayingSessionProvider
           mediaSrcResolver={shell?.mediaSrcResolver}
@@ -47,7 +47,11 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
           nativeTtsAdapter={shell?.nativeTtsAdapter}
           ensureRendition={shell?.ensureRendition}
         >
-          <AppShell user={loaderData.user} ssrNavItems={loaderData.navItems}>
+          <AppShell
+            user={loaderData.user}
+            signedIn={loaderData.signedIn}
+            ssrNavItems={loaderData.navItems}
+          >
             <Outlet />
           </AppShell>
         </PlayingSessionProvider>

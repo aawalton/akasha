@@ -34,6 +34,7 @@ import { useCallback, useEffect, useMemo, useState } from "react"
 interface AppShellProps {
   children: React.ReactNode
   user: { id: string; email?: string } | null
+  signedIn?: boolean
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
@@ -93,8 +94,9 @@ function AdminDialogs() {
   )
 }
 
-function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
+function AppShellInner({ children, user, signedIn, ssrNavItems }: AppShellProps) {
   const isAdmin = user?.email === "aawalton@gmail.com"
+  const hasReader = signedIn ?? user !== null
 
   const {
     items: dynamicPrimaryItems,
@@ -119,7 +121,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
       brandLabel: "ALAN",
       bottomNavMaxItems: 5,
       navReady,
-      footerSlot: <AuthFooter signedIn={user !== null} />,
+      footerSlot: <AuthFooter signedIn={hasReader} />,
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
       renderPrimaryItems: (items, renderItem) => (
         <SortableNavs
@@ -136,6 +138,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
     }),
     [
       user,
+      hasReader,
       dynamicPrimaryItems,
       dynamicItemIds,
       onReorder,

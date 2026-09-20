@@ -35,6 +35,7 @@ const HYDRATE_OVERRUN_WARN_MS = 30_000
 const GETSESSION_GATE_TIMEOUT_MS = 3_000
 
 interface AuthProviderProps {
+  reader?: string | null
   children: React.ReactNode
 }
 
@@ -44,7 +45,7 @@ function afterEffectsRun(): Promise<void> {
   })
 }
 
-export function AuthProvider({ children }: AuthProviderProps) {
+export function AuthProvider({ reader = null, children }: AuthProviderProps) {
   useAppVersionCheck({ enabled: !isNativeShell() })
   const supabase = useSupabase()
   const [userID, setUserID] = useState<string | null>(null)
@@ -60,17 +61,21 @@ export function AuthProvider({ children }: AuthProviderProps) {
     const pushAuthToStore = async (jwt: string | null): Promise<void> => {
       const work = (async (): Promise<void> => {
         try {
-          const supabaseUrl = SupabaseUrlSchema.parse(import.meta.env.VITE_SUPABASE_URL)
-          const supabaseAnonKey = SupabaseAnonKeySchema.parse(
-            import.meta.env.VITE_SUPABASE_ANON_KEY
-          )
-          await configurePagesStoreAuth({
-            supabaseUrl,
-            supabaseAnonKey,
-            jwt,
-            refreshAuth,
-          })
-          if (jwt === null) return
+          if (jwt === null && reader !== null) {
+            await configurePagesStoreAuth({ jwt: null, owner: reader })
+          } else {
+            const supabaseUrl = SupabaseUrlSchema.parse(import.meta.env.VITE_SUPABASE_URL)
+            const supabaseAnonKey = SupabaseAnonKeySchema.parse(
+              import.meta.env.VITE_SUPABASE_ANON_KEY
+            )
+            await configurePagesStoreAuth({
+              supabaseUrl,
+              supabaseAnonKey,
+              jwt,
+              refreshAuth,
+            })
+          }
+          if (jwt === null && reader === null) return
           const store = await getPagesStore()
           store.acquireSlug(PAGE_TYPE_SLUG)
           store.acquireSlug(PROPERTY_DEFINITION_SLUG)
@@ -167,7 +172,7 @@ export function AuthProvider({ children }: AuthProviderProps) {
       cancelled = true
       subscription.subscription.unsubscribe()
     }
-  }, [supabase])
+  }, [supabase, reader])
 
   return (
     <UserIdContext value={userID}>
