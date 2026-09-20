@@ -209,6 +209,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/presence/subagent-presence.module.ts","id":"01a0598f-18dd-77f7-94be-779f0df14af9"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/recovering/subagent-recovering.module.ts","id":"01a08d67-3a64-7f77-bb80-0d2661de12d7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts","id":"01a06582-6b30-7b6f-93b3-2403a3c2ade4"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/points/attribute-points.module.ts","id":"01a081f8-593c-795e-92d9-6c2e0b74460e"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}

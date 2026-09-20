@@ -1,11 +1,12 @@
 import { searchPlaces } from "akasha/alan/atlas-web/.server/geoapify-search/geoapify-search.module.code.ts"
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
+import { handoverReader } from "akasha/alan/harness/handover-rr/modules/handover-reader/handover-reader.module.code.ts"
 import { z } from "zod"
 
 const querySchema = z.object({ q: z.string().min(1).max(200) }).strict()
 
 export async function loader({ request }: { request: Request }): Promise<Response> {
-  const { user, headers } = await getUser(request)
+  const { user, headers } = await handoverReader(ATLAS_SITE)(request)
   if (!user) {
     return Response.json({ error: "Not authenticated" }, { status: 401, headers })
   }

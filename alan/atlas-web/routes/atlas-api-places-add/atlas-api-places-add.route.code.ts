@@ -1,9 +1,10 @@
+import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import { placeCandidateSchema } from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { buildPageHref, slugStem } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const LOCATION_PAGE_TYPE_SLUG = "location"
 
@@ -12,8 +13,13 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: "method-not-allowed" }, { status: 405 })
   }
 
-  const { user, headers } = await getUser(request)
-  if (!user) {
+  const headers = new Headers()
+  const reader = await signedInAs(ATLAS_SITE, request)
+  if (reader === null) {
+    return Response.json({ error: "Not authenticated" }, { status: 401, headers })
+  }
+  const reached = await accountOfContributor(reader)
+  if (!reached.ok || reached.account === null) {
     return Response.json({ error: "Not authenticated" }, { status: 401, headers })
   }
 
@@ -29,16 +35,13 @@ export async function action({ request }: { request: Request }): Promise<Respons
   }
   const candidate = parsed.data
 
-  const { headers: sbHeaders } = createServerClient(request)
-  for (const [key, value] of sbHeaders) headers.append(key, value)
-
   const slug = slugStem(candidate.name)
   if (slug === "") {
     return Response.json({ error: "unnameable-place" }, { status: 400, headers })
   }
 
   const properties = {
-    userId: user.id,
+    userId: reached.account,
     title: candidate.name,
     slug,
     latitude: candidate.latitude,

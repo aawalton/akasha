@@ -16,5 +16,13 @@ export const atlasApiPlacesAdd = {
       decisionKind: "decision-kind/departure",
       statement: "A place whose name yields no slug is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place is kept under the account the reader's person states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader whose person states no account keeps no place.",
+    },
   ],
 } as const satisfies Route
