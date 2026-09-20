@@ -1,6 +1,7 @@
+import { base64Url } from "akasha/code/type/narrowing/modules/base64-url/base64-url.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
-import { importPKCS8, importSPKI, jwtVerify, SignJWT } from "jose"
+import { importPKCS8, importSPKI, type JWTPayload, jwtVerify, SignJWT } from "jose"
 
 export const HANDOVER_ALG = "EdDSA"
 
@@ -34,14 +35,30 @@ function readingKey(): Promise<HandoverKey> {
   return reading
 }
 
+export const CHALLENGE_CLAIM = "challenge"
+
+const BYTES = new TextEncoder()
+
+export async function challengeFor(verifier: string): Promise<string> {
+  return base64Url(await crypto.subtle.digest("SHA-256", BYTES.encode(verifier)))
+}
+
 export type CodeAsked = {
   readonly audience: string
   readonly contributor: string
+  readonly challenge: string | null
+}
+
+export type CodeShown = {
+  readonly code: string
+  readonly audience: string
+  readonly verifier: string | null
 }
 
 export async function handoverCodeFor(asked: CodeAsked): Promise<string> {
   const now = secondsNow()
-  return await new SignJWT({})
+  const bound: JWTPayload = asked.challenge === null ? {} : { [CHALLENGE_CLAIM]: asked.challenge }
+  return await new SignJWT(bound)
     .setProtectedHeader({ alg: HANDOVER_ALG, typ: "JWT" })
     .setIssuer(HANDOVER_ISSUER)
     .setAudience(asked.audience)
@@ -53,23 +70,31 @@ export async function handoverCodeFor(asked: CodeAsked): Promise<string> {
     .sign(await signingKey())
 }
 
-export async function contributorInCode(code: string, audience: string): Promise<string | null> {
+async function bindingHolds(claimed: unknown, verifier: string | null): Promise<boolean> {
+  const challenge = textIn(claimed)
+  if (challenge === null) return verifier === null
+  if (verifier === null) return false
+  return (await challengeFor(verifier)) === challenge
+}
+
+export async function contributorInCode(shown: CodeShown): Promise<string | null> {
   try {
-    const read = await jwtVerify(code, await readingKey(), {
+    const read = await jwtVerify(shown.code, await readingKey(), {
       algorithms: [HANDOVER_ALG],
       issuer: HANDOVER_ISSUER,
-      audience,
+      audience: shown.audience,
       clockTolerance: 0,
       requiredClaims: ["iss", "aud", "sub", "iat", "exp"],
     })
     const claims = read.payload
     if (claims.iss !== HANDOVER_ISSUER) return null
-    if (claims.aud !== audience) return null
+    if (claims.aud !== shown.audience) return null
     const issuedAt = claims.iat
     const expiresAt = claims.exp
     if (typeof issuedAt !== "number" || typeof expiresAt !== "number") return null
     if (expiresAt - issuedAt > CODE_SECONDS_CEILING) return null
     if (expiresAt - secondsNow() > CODE_SECONDS_CEILING) return null
+    if (!(await bindingHolds(claims[CHALLENGE_CLAIM], shown.verifier))) return null
     return textIn(claims.sub)
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)

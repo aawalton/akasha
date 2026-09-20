@@ -508,6 +508,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts"}
@@ -563,6 +564,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/stack-normalizing/stack-normalizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts"}

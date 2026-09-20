@@ -70,5 +70,9 @@ export const googleAuthServer = {
       decisionKind: "decision-kind/departure",
       statement: "The instance is made once and held for the life of the process.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The one plugin here trades a code from the app for a session of this site's own.",
+    },
   ],
 } as const satisfies Module

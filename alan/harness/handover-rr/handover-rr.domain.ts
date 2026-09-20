@@ -12,6 +12,7 @@ export const handoverRr = {
     "module/handover-code",
     "module/handover-session",
     "module/handover-site",
+    "module/handover-app",
   ],
   decisions: [
     {

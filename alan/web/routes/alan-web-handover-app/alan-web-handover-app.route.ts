@@ -1,0 +1,33 @@
+import type { Route } from "akasha/code/route/route.page-type.types.ts"
+
+export const alanWebHandoverApp = {
+  id: "01a0bc7e-522c-7c65-b007-81ff501f4a65",
+  type: "page-type/route",
+  slug: "alan-web-handover-app",
+  definition: "the code the iOS app takes away from a sign-in made in the system browser",
+  code: "ts",
+  urlPath: "handover/app",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A request naming no challenge of the right shape is refused before anybody signs in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader signed in nowhere is sent to the sign-in page and comes back here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The challenge is carried through the sign-in and back onto the code minted here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The code is handed to the app over its url scheme rather than to a browser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The code names the app's bundle id and no origin.",
+    },
+  ],
+} as const satisfies Route

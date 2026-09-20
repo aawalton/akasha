@@ -599,6 +599,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/better-auth-rr.domain.ts","id":"01a0baf7-ffe6-7560-9510-2c81f43ead48"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.ts","id":"01a0bc7d-2f57-79b3-8aa0-f4bb7ff7c9d3"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.ts","id":"01a0bafa-a730-7735-bd9a-e26e4084eadb"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","id":"01a0bb11-44b4-71af-a75d-f347bd292d0a"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","id":"01a0bafb-08be-77ae-a54a-a90577b68072"}
@@ -682,6 +683,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"decision-kind","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts","id":"01a05c48-deeb-7002-a7d6-912bcaf143d2"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.ts","id":"01a0bc7a-bbc5-7600-bf03-dcb69fe7f4e6"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts","id":"01a0bb44-e843-7fb1-8970-cb9a34941050"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts","id":"01a0bb5b-8f41-7780-9975-3de2710f47c0"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts","id":"01a0bb44-4dec-7f6d-b99e-f83158413eb6"}
@@ -1208,6 +1210,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts","id":"01a0bafb-9c26-7fbf-a604-d1157ce78af0"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.ts","id":"01a08836-2978-7ffe-acee-194c3ed73a89"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-errors/alan-web-api-errors.route.ts","id":"01a0882e-29b1-7d23-b973-769880c8ff12"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-handover-exchange/alan-web-api-handover-exchange.route.ts","id":"01a0bc7e-8f2d-7d79-ae15-766dd0ad377c"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-media-token/alan-web-api-media-token.route.ts","id":"01a0882f-3b1a-70b3-a4fd-b2024b64f672"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-write/alan-web-api-page-write.route.ts","id":"01a0882c-bfbe-7b18-9cbf-ce33bfbb3bce"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts","id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
@@ -1219,6 +1222,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.ts","id":"01a08835-7148-7ce8-968b-e46434e1f048"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-apple-app-site-association/alan-web-apple-app-site-association.route.ts","id":"01a0bbaa-1f47-7bfa-b982-1825d476f17e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.ts","id":"01a08828-5d45-7bd8-a16d-6e8d242d8a4c"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-handover-app/alan-web-handover-app.route.ts","id":"01a0bc7e-522c-7c65-b007-81ff501f4a65"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.ts","id":"01a0bb45-8674-7d4f-86d6-38a518fd593b"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-home/alan-web-home.route.ts","id":"01a08830-7db2-77e4-a5d5-9c29796416ef"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.ts","id":"01a08831-2175-75aa-959c-c43105b54c5a"}

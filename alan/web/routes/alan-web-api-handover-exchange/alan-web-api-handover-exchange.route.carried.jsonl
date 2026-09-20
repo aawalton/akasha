@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The code and the secret arrive in the body rather than in the address."},{"decisionKind":"decision-kind/departure","statement":"A body naming neither, or naming an empty one, is refused with 400."},{"decisionKind":"decision-kind/departure","statement":"A code that trades for nobody is answered 401 with no cookie."},{"decisionKind":"decision-kind/departure","statement":"The session goes back as this site's own cookie on a JSON answer."},{"decisionKind":"decision-kind/departure","statement":"Anything other than a POST is answered 405."}]}
+{"definition":"the trade of a code and the secret it names for this site's own session"}
+{"id":"01a0bc7e-8f2d-7d79-ae15-766dd0ad377c"}
+{"slug":"alan-web-api-handover-exchange"}
+{"type":"page-type/route"}
+{"urlPath":"api/handover/exchange"}

@@ -30,7 +30,7 @@ export async function landFromHandover(site: HandoverSite, request: Request): Pr
   const back = returnPathIn(site, url.searchParams.get(RETURN_PARAM))
   const code = url.searchParams.get(CODE_PARAM)
   if (code === null || code === "") return redirect(handoverStartAt(site, back))
-  const contributor = await contributorInCode(code, site.origin)
+  const contributor = await contributorInCode({ code, audience: site.origin, verifier: null })
   if (contributor === null) return redirect(handoverStartAt(site, back))
   return redirect(back, { headers: { "set-cookie": await signedInCookie(site, contributor) } })
 }

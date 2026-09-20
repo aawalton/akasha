@@ -66,6 +66,8 @@ export const alanWebRoutes = {
     "route/alan-web-api-auth",
     "route/alan-web-handover-mint",
     "route/alan-web-apple-app-site-association",
+    "route/alan-web-handover-app",
+    "route/alan-web-api-handover-exchange",
   ],
   decisions: [
     {

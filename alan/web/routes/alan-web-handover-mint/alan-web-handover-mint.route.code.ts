@@ -42,6 +42,7 @@ export async function loader({ request }: { request: Request }) {
   const code = await handoverCodeFor({
     audience: peripheral.origin,
     contributor: held.contributor,
+    challenge: null,
   })
   throw redirect(handoverLandingAt(peripheral, code, back))
 }

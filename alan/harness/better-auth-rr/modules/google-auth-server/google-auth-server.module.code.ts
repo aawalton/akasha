@@ -1,3 +1,4 @@
+import { appHandoverPlugin } from "akasha/alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts"
 import { GOOGLE } from "akasha/alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.code.ts"
 import { reachSignIn } from "akasha/alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
@@ -108,6 +109,7 @@ function makeAuthServer() {
         subjectHash: { type: "string", required: false, input: true },
       },
     },
+    plugins: [appHandoverPlugin()],
   })
 }
 

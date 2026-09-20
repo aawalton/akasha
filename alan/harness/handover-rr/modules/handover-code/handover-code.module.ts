@@ -27,5 +27,21 @@ export const handoverCode = {
       decisionKind: "decision-kind/departure",
       statement: "A code that will not read is nobody rather than an error.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code carries the hash of a secret its holder keeps, and never that secret.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code carrying that hash reads only where the secret shown hashes to it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code carrying no such hash reads only where no secret is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One reader answers every code, and the hash is weighed where the signature is.",
+    },
   ],
 } as const satisfies Module

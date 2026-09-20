@@ -11,6 +11,7 @@ export const betterAuthRr = {
     "module/google-sign-in",
     "module/sign-in-naming",
     "module/sign-in-reaching",
+    "module/app-handover-session",
   ],
   decisions: [
     {

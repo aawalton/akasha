@@ -27,6 +27,7 @@ export default [
   route("sign-up", "routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx"),
   route("sign-out", "routes/alan-web-sign-out/alan-web-sign-out.route.code.ts"),
   route("handover/mint", "routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"),
+  route("handover/app", "routes/alan-web-handover-app/alan-web-handover-app.route.code.ts"),
 
   route("api/auth/*", "routes/alan-web-api-auth/alan-web-api-auth.route.code.ts"),
   route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
@@ -134,6 +135,11 @@ export default [
   ),
 
   route("api/picture", "routes/alan-web-api-picture/alan-web-api-picture.route.code.ts"),
+
+  route(
+    "api/handover/exchange",
+    "routes/alan-web-api-handover-exchange/alan-web-api-handover-exchange.route.code.ts"
+  ),
 
   route("api/*", "routes/no-such-route/no-such-route.route.code.ts"),
 ] satisfies RouteConfig
