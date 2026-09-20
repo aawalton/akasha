@@ -2,8 +2,8 @@
 {"definition":"the rules a browser dresses something by"}
 {"extends":["page-type/domain"]}
 {"id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
-{"parts":["file-property/styles","module/source-globbing"]}
-{"properties":[{"pageProperty":"file-property/styles","required":true,"many":false}]}
+{"parts":["file-property/reached","file-property/styles","module/source-globbing"]}
+{"properties":[{"pageProperty":"file-property/styles","required":true,"many":false},{"pageProperty":"file-property/reached","required":false,"many":false,"uncommitted":true}]}
 {"schema":"jsonl"}
 {"slug":"stylesheet"}
 {"type":"page-type/page-type"}

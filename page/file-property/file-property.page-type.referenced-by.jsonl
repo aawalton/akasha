@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/test-preload.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/rust-crate/properties/cargo-manifest.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/rust-crate/properties/crate-icon.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/stylesheet/properties/reached.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/stylesheet/properties/styles.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/type-declaration/properties/ambient-types.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/workspace/properties/biome-config.file-property.ts"}

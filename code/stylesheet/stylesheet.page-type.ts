@@ -5,9 +5,12 @@ export const stylesheet = {
   type: "page-type/page-type",
   slug: "stylesheet",
   definition: "the rules a browser dresses something by",
-  parts: ["file-property/styles", "module/source-globbing"],
+  parts: ["file-property/reached", "file-property/styles", "module/source-globbing"],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "file-property/styles", required: true, many: false }],
+  properties: [
+    { pageProperty: "file-property/styles", required: true, many: false },
+    { pageProperty: "file-property/reached", required: false, many: false, uncommitted: true },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
