@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agent/messaging/message/message.page-type.types.ts"
+
+export const message0c3c426252e8 = {
+  id: "01a0bf22-8cc4-7000-b87d-0c3c426252e8",
+  type: "page-type/message",
+  slug: "message-0c3c426252e8",
+  to: "seat/thea",
+  from: "audit-running",
+  warrant: "announce",
+  body: "the audit at 6f4a1cf999bd911f195e1790d0506cdf7e913490 found 1 check nothing measured.\n`folder-matches-a-shape` went unmeasured:\n  check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.ts — the check `folder-matches-a-shape` died on SIGKILL apart, so it judged nothing —\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n",
+} as const satisfies Message
