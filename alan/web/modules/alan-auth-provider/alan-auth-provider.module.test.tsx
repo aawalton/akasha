@@ -3,40 +3,11 @@ import { render } from "@testing-library/react"
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { act, useContext, useEffect } from "react"
 
-process.env.BASE_URL = "/"
-process.env.NEXT_PUBLIC_SUPABASE_URL = "https://supabase.test"
-process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY = "anon-key-under-test"
+const READER = "contributor/alan"
 
-type AuthCallback = (event: string, session: unknown) => void
-
-const SIGNED_IN_SESSION = {
-  user: { id: "user-under-test" },
-  access_token: "token-under-test",
-}
-
-let authCallback: AuthCallback | null = null
-let currentSession: unknown = SIGNED_IN_SESSION
+const ACCOUNT_ID = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const TRAIL: string[] = []
-
-const FAKE_SUPABASE = {
-  auth: {
-    getSession: () => Promise.resolve({ data: { session: currentSession } }),
-    refreshSession: () => Promise.resolve({ error: null }),
-    onAuthStateChange: (callback: AuthCallback) => {
-      authCallback = callback
-      return { data: { subscription: { unsubscribe: () => undefined } } }
-    },
-  },
-}
-
-mock.module(
-  "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx",
-  () => ({
-    useSupabase: () => FAKE_SUPABASE,
-    SupabaseProvider: ({ children }: { children: unknown }) => children,
-  })
-)
 
 const appVersionCheck = await import(
   "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
@@ -48,10 +19,6 @@ mock.module(
     useAppVersionCheck: () => undefined,
   })
 )
-mock.module("akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts", () => ({
-  emitStoreDiagnostic: () => undefined,
-  setStoreDiagnosticsSink: () => undefined,
-}))
 mock.module("akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts", () => ({
   reportPagesStoreStall: () => Promise.resolve(),
 }))
@@ -60,7 +27,11 @@ const pagesStoreSingleton = await import(
 )
 mock.module("akasha/page/ui-store/modules/singleton/singleton.module.code.ts", () => ({
   ...pagesStoreSingleton,
-  configurePagesStoreAuth: () => Promise.resolve(),
+  configurePagesStoreAuth: (args: { jwt: string | null; owner?: string | null }) => {
+    TRAIL.push(`owner is ${args.owner ?? "null"}`)
+    TRAIL.push(`jwt is ${args.jwt ?? "null"}`)
+    return Promise.resolve()
+  },
   getPagesStore: () =>
     Promise.resolve({
       acquireSlug: () => undefined,
@@ -74,7 +45,9 @@ mock.module(
   "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts",
   () => ({
     ...offlineCacheNamespace,
-    setOfflineCacheUserKey: () => undefined,
+    setOfflineCacheUserKey: (key: string | null) => {
+      TRAIL.push(`cache key is ${key ?? "null"}`)
+    },
   })
 )
 
@@ -83,12 +56,6 @@ mock.module(
   "akasha/alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx",
   () => ({
     DeepLinkOpenSync: nullComponent,
-  })
-)
-mock.module(
-  "akasha/alan/web/modules/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx",
-  () => ({
-    NativeAuthRefreshSync: nullComponent,
   })
 )
 mock.module("akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx", () => ({
@@ -105,21 +72,13 @@ mock.module(
   })
 )
 
-function IdentityRecorder() {
+function AccountRecorder() {
   const userID = useContext(UserIdContext)
   useEffect(() => {
-    TRAIL.push(`identity is ${userID ?? "null"}`)
+    TRAIL.push(`account is ${userID ?? "null"}`)
   }, [userID])
   return null
 }
-
-const reactRouter = await import("react-router")
-mock.module("react-router", () => ({
-  ...reactRouter,
-  useNavigate: () => (to: string) => {
-    TRAIL.push(`navigate ${to}`)
-  },
-}))
 
 const { AuthProvider } = await import(
   "akasha/alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"
@@ -135,58 +94,36 @@ async function settle(): Promise<void> {
   }
 }
 
-const SIGNED_IN_AT = "/nav/tasks-a7242626"
-
-const happyDom = globalThis as typeof globalThis & {
-  happyDOM: { setURL: (url: string) => void }
+async function renderAs(reader: string | null, accountId: string | null): Promise<void> {
+  render(
+    <AuthProvider reader={reader} accountId={accountId}>
+      <AccountRecorder />
+    </AuthProvider>
+  )
+  await settle()
 }
 
 beforeEach(() => {
   TRAIL.length = 0
-  authCallback = null
-  currentSession = SIGNED_IN_SESSION
-  happyDom.happyDOM.setURL(`http://localhost${SIGNED_IN_AT}`)
 })
 
-async function renderSignedInThenSignOut(): Promise<void> {
-  render(
-    <AuthProvider>
-      <IdentityRecorder />
-    </AuthProvider>
-  )
-  await settle()
-  expect(TRAIL).toContain("identity is user-under-test")
+test("the reader the layout read is the owner the store is set to", async () => {
+  await renderAs(READER, ACCOUNT_ID)
 
-  TRAIL.length = 0
-
-  currentSession = null
-  await act(async () => {
-    authCallback?.("SIGNED_OUT", null)
-  })
-  await settle()
-}
-
-test("a session ending drops the identity out of the context", async () => {
-  await renderSignedInThenSignOut()
-
-  expect(TRAIL).toContain("identity is null")
+  expect(TRAIL).toContain(`owner is ${READER}`)
+  expect(TRAIL).toContain("jwt is null")
 })
 
-test("the identity goes null before the route changes, or the clear is never reached", async () => {
-  await renderSignedInThenSignOut()
+test("the account the person page states is what every component below reads", async () => {
+  await renderAs(READER, ACCOUNT_ID)
 
-  const sawNull = TRAIL.indexOf("identity is null")
-  const moved = TRAIL.findIndex((entry) => entry.startsWith("navigate "))
-
-  expect(sawNull).toBeGreaterThan(-1)
-  expect(moved).toBeGreaterThan(-1)
-  expect(sawNull).toBeLessThan(moved)
+  expect(TRAIL).toContain(`account is ${ACCOUNT_ID}`)
+  expect(TRAIL).toContain(`cache key is ${ACCOUNT_ID}`)
 })
 
-test("sign-out lands on the signed-out route, remembering where the person was", async () => {
-  await renderSignedInThenSignOut()
+test("a reader nobody named leaves the account and the owner empty", async () => {
+  await renderAs(null, null)
 
-  expect(TRAIL.filter((entry) => entry.startsWith("navigate "))).toEqual([
-    `navigate /sign-in?next=${encodeURIComponent(SIGNED_IN_AT)}`,
-  ])
+  expect(TRAIL).toContain("owner is null")
+  expect(TRAIL).toContain("account is null")
 })

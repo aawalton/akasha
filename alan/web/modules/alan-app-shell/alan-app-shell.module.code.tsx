@@ -33,8 +33,8 @@ import { useCallback, useEffect, useMemo, useState } from "react"
 
 interface AppShellProps {
   children: React.ReactNode
-  user: { id: string; email?: string } | null
-  signedIn?: boolean
+  signedIn: boolean
+  accountId: string | null
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
@@ -94,10 +94,7 @@ function AdminDialogs() {
   )
 }
 
-function AppShellInner({ children, user, signedIn, ssrNavItems }: AppShellProps) {
-  const isAdmin = user?.email === "aawalton@gmail.com"
-  const hasReader = signedIn ?? user !== null
-
+function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
     onReorder,
@@ -121,7 +118,7 @@ function AppShellInner({ children, user, signedIn, ssrNavItems }: AppShellProps)
       brandLabel: "ALAN",
       bottomNavMaxItems: 5,
       navReady,
-      footerSlot: <AuthFooter signedIn={hasReader} />,
+      footerSlot: <AuthFooter signedIn={signedIn} />,
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
       renderPrimaryItems: (items, renderItem) => (
         <SortableNavs
@@ -137,8 +134,7 @@ function AppShellInner({ children, user, signedIn, ssrNavItems }: AppShellProps)
       ),
     }),
     [
-      user,
-      hasReader,
+      signedIn,
       dynamicPrimaryItems,
       dynamicItemIds,
       onReorder,
@@ -158,7 +154,7 @@ function AppShellInner({ children, user, signedIn, ssrNavItems }: AppShellProps)
       <DynamicNavCommands entries={dynamicPrimaryItems} />
       <MiniPlayerBar />
       {children}
-      {isAdmin && user && <AdminDialogs />}
+      {accountId !== null && <AdminDialogs />}
     </SharedAppShell>
   )
 }

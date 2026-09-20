@@ -1,5 +1,7 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { alanContributor } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
+import {
+  alanAccountId,
+  alanContributor,
+} from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { ALANWALTON_APP_SLUG } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
@@ -22,10 +24,8 @@ async function navItemsFor(): Promise<ReadonlyArray<Record<string, unknown>> | n
 }
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  const { user, headers } = await getUser(request)
-  const reader = user === null ? await alanContributor(request) : null
-  const signedIn = user !== null || reader !== null
-  const userEnvelope = user ? { id: user.id, email: user.email ?? undefined } : null
-  const navItems = signedIn ? await navItemsFor() : null
-  return data({ user: userEnvelope, reader, signedIn, navItems }, { headers })
+  const reader = await alanContributor(request)
+  const accountId = reader === null ? null : await alanAccountId(reader)
+  const navItems = reader === null ? null : await navItemsFor()
+  return data({ reader, accountId, signedIn: reader !== null, navItems })
 }

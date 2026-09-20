@@ -1,4 +1,3 @@
-import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { loader as appLayoutLoader } from "akasha/alan/web/.server/app-layout-loading/app-layout-loading.module.code.ts"
 import { AppShell } from "akasha/alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx"
 import { AuthProvider } from "akasha/alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"
@@ -38,25 +37,23 @@ function shellMediaWiring() {
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   const shell = useMemo(shellMediaWiring, [])
   return (
-    <SupabaseProvider>
-      <AuthProvider reader={loaderData.reader}>
-        {}
-        <PlayingSessionProvider
-          mediaSrcResolver={shell?.mediaSrcResolver}
-          mediaHlsSrcResolver={shell?.mediaHlsSrcResolver}
-          nativeTtsAdapter={shell?.nativeTtsAdapter}
-          ensureRendition={shell?.ensureRendition}
+    <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
+      {}
+      <PlayingSessionProvider
+        mediaSrcResolver={shell?.mediaSrcResolver}
+        mediaHlsSrcResolver={shell?.mediaHlsSrcResolver}
+        nativeTtsAdapter={shell?.nativeTtsAdapter}
+        ensureRendition={shell?.ensureRendition}
+      >
+        <AppShell
+          signedIn={loaderData.signedIn}
+          accountId={loaderData.accountId}
+          ssrNavItems={loaderData.navItems}
         >
-          <AppShell
-            user={loaderData.user}
-            signedIn={loaderData.signedIn}
-            ssrNavItems={loaderData.navItems}
-          >
-            <Outlet />
-          </AppShell>
-        </PlayingSessionProvider>
-        <Toaster />
-      </AuthProvider>
-    </SupabaseProvider>
+          <Outlet />
+        </AppShell>
+      </PlayingSessionProvider>
+      <Toaster />
+    </AuthProvider>
   )
 }
