@@ -2,14 +2,9 @@ import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import {
-  bouncedToSignIn,
-  passingOn,
-} from "akasha/alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.code.ts"
-import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
-import {
-  type AuthRouteConfig,
-  authGuard,
-} from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
+  type HandoverGuardConfig,
+  handoverGuard,
+} from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
@@ -31,11 +26,10 @@ import {
 import type { Route } from "./+types/root"
 import "akasha/product/archive-of-worlds/web/look/archive-of-worlds-web-look.stylesheet.styles.css"
 
-const AUTH_CONFIG: AuthRouteConfig = {
-  signInPath: "/sign-in",
-  authPaths: ["/sign-in", "/sign-up"],
-  internalApiPaths: ["/api/health", "/api/errors", /^\/handover$/],
-  externalRedirectPattern: /^https:\/\/[a-z0-9-]+\.archiveofworlds\.app(\/|$)/,
+const GUARD: HandoverGuardConfig = {
+  signInPaths: ["/sign-in", "/sign-up"],
+  openPaths: [/^\/api\/health/, /^\/api\/errors/, /^\/handover$/],
+  externalReturnPattern: /^https:\/\/[a-z0-9-]+\.archiveofworlds\.app(\/|$)/,
 }
 
 export const meta: Route.MetaFunction = () => [
@@ -44,12 +38,9 @@ export const meta: Route.MetaFunction = () => [
 ]
 
 export async function loader({ request, context }: Route.LoaderArgs) {
-  const guard = await authGuard(request, AUTH_CONFIG)
-  if (!(guard instanceof Response))
-    return data({ nonce: context.nonce }, { headers: guard.headers })
-  if (!bouncedToSignIn(guard, AUTH_CONFIG.signInPath)) return guard
-  if ((await signedInAs(ARCHIVE_OF_WORLDS_SITE, request)) === null) return guard
-  return data({ nonce: context.nonce }, { headers: passingOn(guard) })
+  const bounce = await handoverGuard(ARCHIVE_OF_WORLDS_SITE, request, GUARD)
+  if (bounce !== null) return bounce
+  return data({ nonce: context.nonce })
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
