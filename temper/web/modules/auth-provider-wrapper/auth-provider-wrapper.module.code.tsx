@@ -8,14 +8,16 @@ import type { ReactNode } from "react"
 
 export function AuthProviderWrapper({
   reader,
+  accountId,
   children,
 }: {
   reader: string | null
+  accountId: string | null
   children: ReactNode
 }) {
   return (
     <SurfaceProvider level={0} background={false}>
-      <AuthProvider reader={reader}>
+      <AuthProvider reader={reader} accountId={accountId}>
         <TemperPagesResolverShell>{children}</TemperPagesResolverShell>
       </AuthProvider>
     </SurfaceProvider>

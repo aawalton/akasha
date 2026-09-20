@@ -1,5 +1,6 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { AuthProviderWrapper } from "akasha/temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"
 import { usePathTracking } from "akasha/temper/web/modules/path-tracker/path-tracker.module.code.ts"
 import { TEMPER_APP_SLUG } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
@@ -10,6 +11,8 @@ import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
   const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  const accountId = reached?.ok === true ? reached.account : null
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
   if (reader !== null) {
@@ -25,13 +28,13 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ reader, navItems })
+  return data({ reader, accountId, navItems })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   usePathTracking()
   return (
-    <AuthProviderWrapper reader={loaderData.reader}>
+    <AuthProviderWrapper reader={loaderData.reader} accountId={loaderData.accountId}>
       <AppShell ssrNavItems={loaderData.navItems}>
         <Outlet />
       </AppShell>

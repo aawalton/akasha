@@ -2,10 +2,10 @@ import { ATLAS_APP_SLUG } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas
 import { AppShell } from "akasha/alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.code.tsx"
 import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
-import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { useEffect } from "react"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
@@ -13,6 +13,8 @@ import type { Route } from "./+types/_app-layout"
 export async function loader({ request }: Route.LoaderArgs) {
   const reader = await signedInAs(ATLAS_SITE, request)
   const signedIn = reader !== null
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  const accountId = reached?.ok === true ? reached.account : null
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
   if (signedIn) {
@@ -28,7 +30,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ reader, signedIn, navItems })
+  return data({ reader, accountId, signedIn, navItems })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
@@ -45,13 +47,11 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
   }, [])
 
   return (
-    <SupabaseProvider>
-      <AuthProvider reader={loaderData.reader}>
-        <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
-          <Outlet />
-        </AppShell>
-        <Toaster />
-      </AuthProvider>
-    </SupabaseProvider>
+    <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
+      <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
+        <Outlet />
+      </AppShell>
+      <Toaster />
+    </AuthProvider>
   )
 }

@@ -16,8 +16,8 @@ export const authProvider = {
       statement: "No token is held, so the session cookie alone carries the reader to a route.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here says which account a tree below this is drawn for.",
+      decisionKind: "decision-kind/departure",
+      statement: "The account a tree below this is drawn for is passed in beside the reader.",
     },
   ],
 } as const satisfies Module

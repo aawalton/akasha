@@ -1,6 +1,7 @@
 "use client"
 
 import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
+import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { reportPagesStoreStall } from "akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,
@@ -17,10 +18,11 @@ const HYDRATE_OVERRUN_WARN_MS = 30_000
 
 interface AuthProviderProps {
   reader: string | null
+  accountId: string | null
   children: React.ReactNode
 }
 
-export function AuthProvider({ reader, children }: AuthProviderProps) {
+export function AuthProvider({ reader, accountId, children }: AuthProviderProps) {
   useAppVersionCheck()
 
   useEffect(() => {
@@ -59,5 +61,5 @@ export function AuthProvider({ reader, children }: AuthProviderProps) {
     }
   }, [reader])
 
-  return <>{children}</>
+  return <UserIdContext value={accountId}>{children}</UserIdContext>
 }

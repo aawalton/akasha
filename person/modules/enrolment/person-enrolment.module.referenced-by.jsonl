@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/atlas-web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.test.ts"}
@@ -11,6 +12,8 @@
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/route-access/route-access.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/route-access/route-access.module.test.ts"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"product/archive-of-worlds/web/routes/_app-layout.tsx"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"temper/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"person-enrolment.module.test-fixtures.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.test-fixtures.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.test-fixtures.ts","path":"person/modules/route-access/route-access.module.test.ts"}
