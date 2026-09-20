@@ -1,7 +1,0 @@
-{"body":"the audit at e92f33e37c4c1b48eaaf25fca332bff7d7a9431a found 2 checks newly refusing.\n`folder-matches-a-shape` refused 2 times:\n  story/world/stories/read/chapters — this folder matches no folder shape — as a-claimed-folder, no page above it claims this folder; as a-domain-with-its-parts, `story-chapter-read` is a page type, which has a shape of its own; as a-page-typ... (1315 characters more)\n  story/world/stories/read/chapters/story-chapter-read — this folder opens with `story-chapter-read`, what the page above it is named\n`index-is-level-with-the-pages` refused 3 times:\n  seat/log-day/seat-log-day.page-type.referenced-by — the index entry for this file is in the index differing from what its page says\n  seat/log-source/pages/oauth-proxy-console.log-source.referenced-by — the index entry for this file is in the index differing from what its page says\n  seat/log-source/pages/supervisor-console.log-source.referenced-by — the index entry for this file is in the index differing from what its page says\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
-{"from":"audit-running"}
-{"id":"01a0bc44-b709-7000-83b0-dcc2fba2ab1a"}
-{"slug":"message-dcc2fba2ab1a"}
-{"to":"seat/thea"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
