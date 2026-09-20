@@ -1,14 +1,13 @@
 import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
-import { signedOutCookie } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import {
-  signOutAction,
-  signOutLoader,
-} from "akasha/alan/harness/supabase-rr/modules/sign-out-route/sign-out-route.module.code.ts"
+  leaveHandover,
+  leavingShown,
+} from "akasha/alan/harness/handover-rr/modules/handover-leaving/handover-leaving.module.code.ts"
 
-export async function action({ request }: { request: Request }) {
-  return signOutAction(request, [await signedOutCookie(ATLAS_SITE)])
+export async function action() {
+  return leaveHandover(ATLAS_SITE)
 }
 
 export function loader() {
-  return signOutLoader()
+  return leavingShown(ATLAS_SITE)
 }

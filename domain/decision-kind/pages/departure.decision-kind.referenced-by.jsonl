@@ -688,6 +688,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts","id":"01a0bb5b-8f41-7780-9975-3de2710f47c0"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts","id":"01a0bb44-4dec-7f6d-b99e-f83158413eb6"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-guard/handover-guard.module.ts","id":"01a0bca8-7743-7c0d-a613-8746eafadeb9"}
+{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-leaving/handover-leaving.module.ts","id":"01a0bcaf-ba47-7863-8afd-eaa22157f632"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.ts","id":"01a0bb44-9e4d-7660-9ae3-e797378ebcab"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-site/handover-site.module.ts","id":"01a0bb43-f125-7242-ae2b-72157ed7dc6b"}
 {"propertySlug":"decision-kind","path":"alan/harness/health-sample-access/health-sample-access.domain.ts","id":"01a05bc7-9129-7000-a4ef-ca6a1a3463b1"}

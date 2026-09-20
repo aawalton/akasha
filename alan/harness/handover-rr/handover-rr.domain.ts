@@ -14,6 +14,7 @@ export const handoverRr = {
     "module/handover-site",
     "module/handover-app",
     "module/handover-guard",
+    "module/handover-leaving",
   ],
   decisions: [
     {
