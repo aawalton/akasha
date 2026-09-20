@@ -19,6 +19,7 @@ export const amazonPurchases = {
         "delivered",
         "delivery update",
         "dropoff confirmed",
+        "return drop off confirmation",
         "return request confirmed",
         "advance refund issued",
         "cancelled successfully",
