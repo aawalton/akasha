@@ -29,6 +29,6 @@ test("every script the seam reads in is a file that is there", () => {
     .split("\n")
     .filter((one) => one.startsWith(SOURCED))
     .map((one) => one.slice(SOURCED.length))
-  expect(said).toHaveLength(29)
+  expect(said).toHaveLength(30)
   expect(said.filter((one) => !existsSync(join(HERE, one)))).toEqual([])
 })

@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.ts"}
+{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/handover-sign-in/alanwalton-handover-sign-in.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/health-anchored-read/alanwalton-health-anchored-read.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/health-cursorless-backstop/alanwalton-health-cursorless-backstop.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/health-foreground-sync/alanwalton-health-foreground-sync.shell-script.ts"}

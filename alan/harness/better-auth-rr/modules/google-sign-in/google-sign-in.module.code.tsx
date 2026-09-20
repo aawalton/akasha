@@ -1,6 +1,11 @@
 "use client"
 
 import { GOOGLE } from "akasha/alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.code.ts"
+import { APP_EXCHANGE_PATH } from "akasha/alan/harness/handover-rr/modules/handover-app/handover-app.module.code.ts"
+import {
+  getHandoverSignIn,
+  isNativeShell,
+} from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import {
@@ -21,7 +26,13 @@ const SIGN_IN_PATH = "/sign-in"
 
 const ALLOWED_REDIRECT_HOSTS = ["alanwalton.com"] as const
 
+const HOME_PATH = "/home"
+
 const REFUSED = "Google could not sign you in."
+
+const NO_PLUGIN = "This app is too old to sign in. Update it and try again."
+
+const CLOSED_CODE = "closed"
 
 function urlIn(said: unknown): string | null {
   if (said === null || typeof said !== "object") return null
@@ -29,10 +40,49 @@ function urlIn(said: unknown): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
+function closedBySomeone(thrown: unknown): boolean {
+  if (thrown === null || typeof thrown !== "object") return false
+  return (thrown as { readonly code?: unknown }).code === CLOSED_CODE
+}
+
 export function GoogleSignIn() {
   const [searchParams] = useSearchParams()
   const [error, setError] = useState<string | null>(searchParams.get("error"))
   const [going, setGoing] = useState(false)
+
+  const startInApp = async (landingAt: string) => {
+    const plugin = getHandoverSignIn()
+    if (plugin === null) {
+      setError(NO_PLUGIN)
+      setGoing(false)
+      return
+    }
+    let traded: { code: string; verifier: string }
+    try {
+      traded = await plugin.start()
+    } catch (thrown: unknown) {
+      setError(closedBySomeone(thrown) ? null : REFUSED)
+      setGoing(false)
+      return
+    }
+    try {
+      const answered = await fetch(APP_EXCHANGE_PATH, {
+        method: "POST",
+        headers: { "content-type": "application/json", accept: "application/json" },
+        body: JSON.stringify({ code: traded.code, verifier: traded.verifier }),
+      })
+      if (!answered.ok) {
+        setError(REFUSED)
+        setGoing(false)
+        return
+      }
+    } catch {
+      setError(REFUSED)
+      setGoing(false)
+      return
+    }
+    window.location.href = landingAt
+  }
 
   const start = async () => {
     setError(null)
@@ -41,7 +91,11 @@ export function GoogleSignIn() {
       safeRedirectTarget({
         next: searchParams.get("next"),
         allowedHosts: ALLOWED_REDIRECT_HOSTS,
-      }) ?? "/home"
+      }) ?? HOME_PATH
+    if (isNativeShell()) {
+      await startInApp(callbackURL)
+      return
+    }
     try {
       const answered = await fetch(SIGN_IN_AT, {
         method: "POST",

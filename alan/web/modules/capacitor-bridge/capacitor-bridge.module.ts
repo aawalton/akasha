@@ -36,5 +36,9 @@ export const capacitorBridge = {
       decisionKind: "decision-kind/departure",
       statement: "A shell with no presentation never decides the held secret is bad.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A handover answers with a code and the verifier that code is bound to.",
+    },
   ],
 } as const satisfies Module

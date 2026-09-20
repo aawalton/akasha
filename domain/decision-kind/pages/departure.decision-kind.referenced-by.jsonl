@@ -1747,6 +1747,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.ts","id":"01a0910c-50a4-7b5a-8f18-530ddf42c6ea"}
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.ts","id":"01a08d67-2fb9-78c4-b9ea-4808b713a611"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.ts","id":"01a0595b-ef57-7f8a-a2ee-3943a015a892"}
+{"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/handover-sign-in/alanwalton-handover-sign-in.shell-script.ts","id":"01a0bc8f-42cc-7238-85ea-f8f5339d96f8"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-anchored-read/alanwalton-health-anchored-read.shell-script.ts","id":"01a0595b-ef58-76f8-9419-7a315c06c969"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-cursorless-backstop/alanwalton-health-cursorless-backstop.shell-script.ts","id":"01a0595b-ef58-7361-88ab-99ceef2aceec"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-foreground-sync/alanwalton-health-foreground-sync.shell-script.ts","id":"01a0918a-3664-7abd-bf6c-187ed7e96493"}

@@ -71,6 +71,7 @@ const BEFORE = [
   "picture-intent",
   "app-shortcuts",
   "device-secret",
+  "handover-sign-in",
   "monarch-tap",
 ]
 
@@ -265,6 +266,8 @@ function settingIn(places: Places): readonly string[] {
     'KOKORO_TTS_ENABLED="${NATIVE_SHELL_KOKORO_TTS:-1}"',
     'KOKORO_FLUIDAUDIO_URL="https://github.com/FluidInference/FluidAudio.git"',
     'KOKORO_FLUIDAUDIO_REVISION="300165b240c45375add402265f62410b6df33cf1"',
+    "",
+    'HANDOVER_SIGN_IN_ENABLED="${NATIVE_SHELL_HANDOVER_SIGN_IN:-1}"',
     "",
     'URL_SCHEME_ENABLED="${NATIVE_SHELL_URL_SCHEME:-1}"',
     'URL_SCHEME="alanwalton"',

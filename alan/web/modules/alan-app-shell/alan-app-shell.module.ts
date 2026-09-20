@@ -13,13 +13,12 @@ export const alanAppShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A browser signs out by posting, because a cookie the server set is the server's to clear.",
+      statement: "The native WebView is served the same site a browser is, and the same routes.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The native shell signs out in the WebView, because it serves no route to post to.",
+        "A sign-out posts to the route that ends it, in the native WebView as in a browser.",
     },
     {
       decisionKind: "decision-kind/departure",

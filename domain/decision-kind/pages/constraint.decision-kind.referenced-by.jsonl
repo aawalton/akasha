@@ -242,6 +242,7 @@
 {"propertySlug":"decision-kind","path":"code/eso-addon/eso-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"decision-kind","path":"code/eso-interface/properties/loaded-as.text-property.ts","id":"01a061c5-760e-7c2b-8bed-7804c4b4226d"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.ts","id":"01a0595b-ef57-7f8a-a2ee-3943a015a892"}
+{"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/handover-sign-in/alanwalton-handover-sign-in.shell-script.ts","id":"01a0bc8f-42cc-7238-85ea-f8f5339d96f8"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-anchored-read/alanwalton-health-anchored-read.shell-script.ts","id":"01a0595b-ef58-76f8-9419-7a315c06c969"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-foreground-sync/alanwalton-health-foreground-sync.shell-script.ts","id":"01a0918a-3664-7abd-bf6c-187ed7e96493"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/live-activity/alanwalton-live-activity.shell-script.ts","id":"01a0ba68-97db-73c8-8a86-d51eb0da597b"}

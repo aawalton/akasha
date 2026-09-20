@@ -83,5 +83,6 @@ export const alanwalton = {
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
     "shell-script/alanwalton-live-activity",
+    "shell-script/alanwalton-handover-sign-in",
   ],
 } as const satisfies IosApp

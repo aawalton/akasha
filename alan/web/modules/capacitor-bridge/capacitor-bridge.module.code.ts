@@ -70,6 +70,10 @@ export interface DeviceSecretPlugin {
   present?: () => Promise<{ held: boolean; status: number }>
 }
 
+export interface HandoverSignInPlugin {
+  start: () => Promise<{ code: string; verifier: string }>
+}
+
 export interface AppState {
   isActive: boolean
 }
@@ -150,6 +154,7 @@ interface CapacitorGlobal {
     App?: AppPlugin
     KokoroTts?: KokoroTtsPlugin
     DeviceSecret?: DeviceSecretPlugin
+    HandoverSignIn?: HandoverSignInPlugin
     StoplightsActivity?: StoplightsActivityPlugin
   }
 }
@@ -204,6 +209,13 @@ export function getDeviceSecret(): DeviceSecretPlugin | null {
   if (typeof plugin.peek !== "function") return null
   if (typeof plugin.store !== "function") return null
   if (typeof plugin.clear !== "function") return null
+  return plugin
+}
+
+export function getHandoverSignIn(): HandoverSignInPlugin | null {
+  const plugin = capacitorGlobal()?.Plugins?.HandoverSignIn
+  if (plugin == null) return null
+  if (typeof plugin.start !== "function") return null
   return plugin
 }
 

@@ -261,6 +261,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/better-auth-rr.domain.ts","id":"01a0baf7-ffe6-7560-9510-2c81f43ead48"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.ts","id":"01a0bb11-44b4-71af-a75d-f347bd292d0a"}
+{"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.ts","id":"01a0bafb-08be-77ae-a54a-a90577b68072"}
 {"propertySlug":"decision-kind","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.ts","id":"01a0bb11-1bf4-7334-9382-7617d44ca836"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts","id":"01a069ba-b018-7b6b-b9a6-18cd82bd54b3"}
 {"propertySlug":"decision-kind","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
@@ -929,6 +930,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.ts","id":"01a0910c-50a4-7b5a-8f18-530ddf42c6ea"}
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.ts","id":"01a08d67-2fb9-78c4-b9ea-4808b713a611"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.ts","id":"01a0595b-ef57-7f8a-a2ee-3943a015a892"}
+{"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/handover-sign-in/alanwalton-handover-sign-in.shell-script.ts","id":"01a0bc8f-42cc-7238-85ea-f8f5339d96f8"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/health-intent-declaration/alanwalton-health-intent-declaration.shell-script.ts","id":"01a0595b-ef59-77d8-8fc2-aa1d1a50d200"}
 {"propertySlug":"decision-kind","path":"code/ios-app/pages/alanwalton/scripts/picture-sending/alanwalton-picture-sending.shell-script.ts","id":"01a09c6b-960a-7d45-83d0-10de2755297d"}
 {"propertySlug":"decision-kind","path":"code/ios-app/properties/asc-capabilities.text-property.ts","id":"01a05f87-1b05-7b14-8908-d107128af1be"}

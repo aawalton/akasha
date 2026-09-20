@@ -1,4 +1,3 @@
-import { signOut } from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
 import {
   ALANWALTON_APP_ID,
   ALANWALTON_APP_SLUG,
@@ -9,19 +8,17 @@ import {
   NAV_ITEM_TECH,
   PRIMARY_NAV_ITEMS,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
-import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"
 import { DynamicNavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"
-import { AuthFooter as ServedAuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
+import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
 } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interface/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
-import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -32,59 +29,12 @@ import { useActiveQuickAddPageType } from "akasha/page/ui/component/quick-add/mo
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
-import { LogIn, LogOut } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
-import { Link } from "react-router"
 
 interface AppShellProps {
   children: React.ReactNode
   user: { id: string; email?: string } | null
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
-}
-
-function NativeAuthFooter({ user }: { user: { id: string } | null }) {
-  const { effectiveIsCollapsed } = useSidebarState()
-  const [signingOut, setSigningOut] = useState(false)
-
-  const onSignOut = useCallback(async () => {
-    setSigningOut(true)
-    const { error } = await signOut()
-    if (error !== null) {
-      console.error("[app-shell] sign out failed", error)
-      setSigningOut(false)
-    }
-  }, [])
-
-  if (user) {
-    return (
-      <button
-        type="button"
-        disabled={signingOut}
-        onClick={() => {
-          void onSignOut()
-        }}
-        className="flex w-full cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary disabled:cursor-default disabled:opacity-60"
-      >
-        <LogOut className="h-5 w-5 shrink-0" />
-        {!effectiveIsCollapsed && <span>Sign Out</span>}
-      </button>
-    )
-  }
-
-  return (
-    <Link
-      to="/sign-in"
-      className="flex cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
-    >
-      <LogIn className="h-5 w-5 shrink-0" />
-      {!effectiveIsCollapsed && <span>Sign In</span>}
-    </Link>
-  )
-}
-
-function AuthFooter({ user }: { user: { id: string } | null }) {
-  if (isNativeShell()) return <NativeAuthFooter user={user} />
-  return <ServedAuthFooter signedIn={user !== null} />
 }
 
 const STATIC_BOTTOM_SECTIONS = [NAV_ITEM_CONTENT, NAV_ITEM_TECH] as const
@@ -169,7 +119,7 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
       brandLabel: "ALAN",
       bottomNavMaxItems: 5,
       navReady,
-      footerSlot: <AuthFooter user={user} />,
+      footerSlot: <AuthFooter signedIn={user !== null} />,
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
       renderPrimaryItems: (items, renderItem) => (
         <SortableNavs

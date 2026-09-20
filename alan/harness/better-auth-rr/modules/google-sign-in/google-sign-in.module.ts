@@ -23,5 +23,24 @@ export const googleSignIn = {
       decisionKind: "decision-kind/departure",
       statement: "A reason the url carries back from a refused sign-in is shown to the reader.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The native shell asks its own layer for a code and trades that code for a session.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A native shell holding no handover plugin is told to update rather than sent out.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No reason is shown where the reader closed the sign-in themselves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A traded session lands the reader where a browser sign-in would have landed them.",
+    },
   ],
 } as const satisfies Module
