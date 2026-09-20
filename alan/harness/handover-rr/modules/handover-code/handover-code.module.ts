@@ -6,6 +6,7 @@ export const handoverCode = {
   slug: "handover-code",
   definition: "the short-lived signed code alanwalton.com mints and a peripheral reads",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

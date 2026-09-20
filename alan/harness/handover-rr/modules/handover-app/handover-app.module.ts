@@ -7,6 +7,7 @@ export const handoverApp = {
   definition:
     "what the iOS app is called, where a code reaches it, and the shape a challenge takes",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
