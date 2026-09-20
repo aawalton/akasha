@@ -174,7 +174,7 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A face built again works it out again.",
+      statement: "A face asked for again over one reading is the face already built over it.",
     },
     {
       decisionKind: "decision-kind/departure",
