@@ -28,7 +28,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
       workingMemory:
-        "`globbedFor` was 2.34s of a 7.86s landing whenever a change added or took away a file of code, because the gate opened on any specifier moving anywhere and then followed every import the app has. The paths each app reaches are kept beside its stylesheet now, so the gate opens only where a manifest, a stylesheet or a path on that list moved. The lists are 9,582 paths over twelve stylesheets. What is left is the landing that moves one.",
+        "`globbedFor` was 2.34s of a 7.86s landing whenever a change added or took away a file of code, because the gate opened on any specifier moving anywhere and then followed every import the app has. The paths each app reaches are kept beside its stylesheet now, so the gate opens only where a manifest, a stylesheet or a path on that list moved. The lists hold 9,582 paths over twelve stylesheets, and the gate is 89.7ms against the 1.84s that filled them.",
     },
     {
       statement:
