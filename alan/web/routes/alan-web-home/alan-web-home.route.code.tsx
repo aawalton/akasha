@@ -1,3 +1,4 @@
+import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { getRequestServerClient } from "akasha/alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"
 import { readHomeNavItemParam } from "akasha/alan/web/.server/home-dni-param/home-dni-param.module.code.ts"
@@ -14,8 +15,10 @@ export function meta() {
 
 export async function loader({ request }: { request: Request }) {
   const { headers } = getRequestServerClient(request)
-  const { user } = await getUser(request)
-  if (!user) throw redirect("/sign-in", { headers })
+  if ((await signedInAs(request)) === null) {
+    const { user } = await getUser(request)
+    if (!user) throw redirect("/sign-in", { headers })
+  }
   const navItemIdParam = await readHomeNavItemParam()
   return data({ navItemIdParam }, { headers })
 }

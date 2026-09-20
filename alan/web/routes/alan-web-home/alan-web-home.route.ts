@@ -10,7 +10,7 @@ export const alanWebHome = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reader who is not signed in is sent to the sign-in route.",
+      statement: "A reader neither Google nor Supabase has signed in is sent to the sign-in route.",
     },
     {
       decisionKind: "decision-kind/departure",
