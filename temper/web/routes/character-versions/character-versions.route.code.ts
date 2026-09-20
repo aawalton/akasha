@@ -1,7 +1,8 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import type { Route } from "./+types/character-versions.route.code"
 
 interface CharacterVersion {
@@ -24,14 +25,12 @@ function jsonResponse(
 }
 
 export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
-  const { user, headers: authHeaders } = await getUser(request)
-  if (!user) {
-    return jsonResponse({ error: "Not authenticated" }, authHeaders, 401)
-  }
-
-  const { headers } = createServerClient(request)
-  for (const value of authHeaders.getSetCookie()) {
-    headers.append("Set-Cookie", value)
+  const headers = new Headers()
+  const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  const accountId = reached?.ok === true ? reached.account : null
+  if (accountId === null) {
+    return jsonResponse({ error: "Not authenticated" }, headers, 401)
   }
 
   const buildId = toBuildId(params.buildId)
@@ -40,7 +39,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
     const { rows } = await getPages({
       pageTypeSlug: "temper-build-version",
       where: [
-        { key: "accountPage", eq: user.id },
+        { key: "accountPage", eq: accountId },
         { key: "build", eq: buildId },
       ],
       order: [{ by: "versionNumber", dir: "desc" }],

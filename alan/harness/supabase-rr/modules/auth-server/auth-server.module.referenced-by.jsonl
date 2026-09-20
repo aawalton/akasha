@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/routes/api-cli-link-mint/api-cli-link-mint.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/routes/cli-link/cli-link.route.code.tsx"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/routes/companion-versions/companion-versions.route.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/supabase-rr/supabase-rr.domain.ts","id":"01a05c97-8af3-7dbb-b6b0-4fd120a787a9"}
