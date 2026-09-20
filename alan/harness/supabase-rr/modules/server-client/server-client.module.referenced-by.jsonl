@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-api-nav-icon/atlas-api-nav-icon.route.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.code.tsx"}
@@ -10,7 +9,6 @@
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/harness/supabase-rr/modules/session-refresh/session-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/web/.server/device-token-context/device-token-context.module.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"}
-{"propertySlug":"import","fileName":"server-client.module.code.ts","path":"product/archive-of-worlds/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
 {"propertySlug":"import","fileName":"server-client.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-listing/archive-of-worlds-page-listing.route.code.tsx"}

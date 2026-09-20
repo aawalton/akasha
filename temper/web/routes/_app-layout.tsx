@@ -1,5 +1,4 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AuthProviderWrapper } from "akasha/temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"
 import { usePathTracking } from "akasha/temper/web/modules/path-tracker/path-tracker.module.code.ts"
@@ -10,8 +9,7 @@ import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
-  const { user, headers } = await getUser(request)
-  const signedIn = user !== null || (await signedInAs(TEMPER_SITE, request)) !== null
+  const signedIn = (await signedInAs(TEMPER_SITE, request)) !== null
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
   if (signedIn) {
@@ -27,7 +25,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ navItems }, { headers })
+  return data({ navItems })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
