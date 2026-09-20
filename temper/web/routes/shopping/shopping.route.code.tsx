@@ -1,9 +1,11 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { ShoppingPageContent } from "akasha/temper/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"
 import { useShoppingMarks } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
 
@@ -12,8 +14,9 @@ export function meta() {
 }
 
 export async function loader({ request }: { request: Request }) {
-  const { user, headers } = await getUser(request)
-  return data({ userId: user?.id ?? null }, { headers })
+  const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  return data({ userId: reached?.ok === true ? reached.account : null })
 }
 
 export default function ShoppingPage({ loaderData }: { loaderData: { userId: string | null } }) {
