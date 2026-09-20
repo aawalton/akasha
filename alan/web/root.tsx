@@ -1,14 +1,11 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
-import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import {
-  bouncedToSignIn,
-  passingOn,
-} from "akasha/alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.code.ts"
-import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
-import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
+  guardedRoot,
+  type RouteAccessConfig,
+} from "akasha/alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
@@ -26,7 +23,6 @@ import {
 import type React from "react"
 import { useEffect } from "react"
 import {
-  data,
   isRouteErrorResponse,
   Links,
   Meta,
@@ -47,27 +43,27 @@ configureContentPersistence(isNativeShell() ? createNativeFsContentPersistence()
 
 configureLocalPositionReader(isNativeShell() ? readLocalPosition : null)
 
-const AUTH_CONFIG: AuthRouteConfig = {
+const AUTH_CONFIG: RouteAccessConfig = {
   signInPath: "/sign-in",
   authPaths: ["/sign-up"],
-  internalApiPaths: [
+  openPaths: [
     /^\/sign-in$/,
-    "/.well-known/",
-    "/api/health",
-    "/api/pages-ready",
-    "/api/errors",
-    "/api/zero/",
-    "/api/cron/",
-    "/api/mcp",
-    "/api/claude-usage",
-    "/api/cost",
-    "/api/inbox-stoplights",
-    "/api/habit-stoplights",
-    "/api/surplus",
-    "/api/safety-level",
-    "/api/categorization",
-    "/api/readout-relay",
-    "/api/wallpaper",
+    /^\/\.well-known\//,
+    /^\/api\/health/,
+    /^\/api\/pages-ready/,
+    /^\/api\/errors/,
+    /^\/api\/zero\//,
+    /^\/api\/cron\//,
+    /^\/api\/mcp/,
+    /^\/api\/claude-usage/,
+    /^\/api\/cost/,
+    /^\/api\/inbox-stoplights/,
+    /^\/api\/habit-stoplights/,
+    /^\/api\/surplus/,
+    /^\/api\/safety-level/,
+    /^\/api\/categorization/,
+    /^\/api\/readout-relay/,
+    /^\/api\/wallpaper/,
     /^\/api\/media\//,
     /^\/api\/persona\/message$/,
     /^\/api\/push\/register$/,
@@ -90,7 +86,6 @@ const AUTH_CONFIG: AuthRouteConfig = {
     /^\/privacy$/,
   ],
   externalRedirectPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
-  signInOnInvalidSession: true,
 }
 
 export const links: Route.LinksFunction = () => [
@@ -109,11 +104,7 @@ export const meta: Route.MetaFunction = () => [
 ]
 
 export async function loader({ request, context }: Route.LoaderArgs) {
-  const guarded = await guardedRootData(request, AUTH_CONFIG, context.nonce)
-  if (!(guarded instanceof Response)) return guarded
-  if (!bouncedToSignIn(guarded, AUTH_CONFIG.signInPath)) return guarded
-  if ((await signedInAs(request)) === null) return guarded
-  return data({ nonce: context.nonce }, { headers: passingOn(guarded) })
+  return guardedRoot(request, AUTH_CONFIG, context.nonce)
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

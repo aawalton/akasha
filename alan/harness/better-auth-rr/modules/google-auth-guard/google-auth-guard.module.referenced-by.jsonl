@@ -1,9 +1,9 @@
+{"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/readout-guarding/readout-guarding.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/route-access-holding/route-access-holding.module.code.ts"}
-{"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"}

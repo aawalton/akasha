@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.code.ts"}
 {"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"}
+{"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"person/modules/push-routing/push-routing.module.code.ts"}
 {"propertySlug":"import","fileName":"safe-target.module.code.ts","path":"temper/web/modules/temper-auth-page-content/temper-auth-page-content.module.code.tsx"}

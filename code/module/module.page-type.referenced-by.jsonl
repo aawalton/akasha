@@ -831,6 +831,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/alan-answer-pages/alan-answer-pages.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.ts"}

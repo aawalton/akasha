@@ -509,6 +509,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.ts","id":"01a0c129-30bb-7f20-8811-37cb885fa99e"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}
