@@ -1,4 +1,4 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   resolveServableImage,
   serveResolvedImage,
@@ -13,7 +13,7 @@ export async function loader({
   params: { imageId: string }
   request: Request
 }): Promise<Response> {
-  const { user, headers } = await getUser(request)
+  const { user, headers } = await readAlanUser(request)
   if (!user) return new Response("Unauthorized", { status: 401, headers })
 
   const imageId = params.imageId
