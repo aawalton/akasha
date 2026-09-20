@@ -5,13 +5,9 @@ const CAPACITOR = "capacitor://localhost"
 
 const AT = "2026-09-06T12:00:00.000Z"
 
-const signedIn = async () => ({
-  authenticated: true as const,
-  userId: "alan",
-  headers: new Headers(),
-})
+const signedIn = async () => ({ contributor: "contributor-alan", subjectHash: "alan" })
 
-const signedOut = async () => ({ authenticated: false as const, headers: new Headers() })
+const signedOut = async () => null
 
 const counted = async () => ({ taps: 4, at: AT })
 

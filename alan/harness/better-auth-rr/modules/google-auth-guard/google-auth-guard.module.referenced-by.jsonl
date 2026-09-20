@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/readout-guarding/readout-guarding.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/route-access-holding/route-access-holding.module.code.ts"}
+{"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/modules/signed-in-redirect/signed-in-redirect.module.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"}

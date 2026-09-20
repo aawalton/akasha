@@ -1,11 +1,11 @@
 import {
+  type SignedIn,
+  signedInAs,
+} from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import {
   countTap,
   type Tapped,
 } from "akasha/alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.code.ts"
-import {
-  type DeviceTokenContext,
-  resolveDeviceTokenContext,
-} from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
 import {
   capacitorCorsHeaders,
   withCors,
@@ -13,7 +13,7 @@ import {
 
 const CORS_METHODS = "POST, OPTIONS"
 
-export type TokenResolver = (request: Request) => Promise<DeviceTokenContext>
+export type ReadsSignedIn = (request: Request) => Promise<SignedIn | null>
 
 export type TapCounter = (slug: string, at: Date) => Promise<Tapped | null>
 
@@ -31,15 +31,15 @@ export function answerWidgetTapAsked(request: Request): Response {
 
 export async function answerWidgetTap(
   request: Request,
-  resolveContext: TokenResolver = resolveDeviceTokenContext,
+  readSignedIn: ReadsSignedIn = signedInAs,
   count: TapCounter = countTap
 ): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
-  const ctx = await resolveContext(request)
-  if (!ctx.authenticated) {
+  const headers = new Headers()
+  if ((await readSignedIn(request)) === null) {
     return Response.json(
       { ok: false, error: "Not authenticated." },
-      { status: 401, headers: withCors(ctx.headers, cors) }
+      { status: 401, headers: withCors(headers, cors) }
     )
   }
 
@@ -47,7 +47,7 @@ export async function answerWidgetTap(
   if (widget === null) {
     return Response.json(
       { ok: false, error: "No widget." },
-      { status: 400, headers: withCors(ctx.headers, cors) }
+      { status: 400, headers: withCors(headers, cors) }
     )
   }
 
@@ -55,11 +55,11 @@ export async function answerWidgetTap(
   if (tapped === null) {
     return Response.json(
       { ok: false, error: "No such widget." },
-      { status: 404, headers: withCors(ctx.headers, cors) }
+      { status: 404, headers: withCors(headers, cors) }
     )
   }
   return Response.json(
     { ok: true, widget, taps: tapped.taps, at: tapped.at },
-    { headers: withCors(ctx.headers, cors) }
+    { headers: withCors(headers, cors) }
   )
 }
