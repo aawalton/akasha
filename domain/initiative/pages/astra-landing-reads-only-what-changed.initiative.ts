@@ -23,7 +23,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "What a property carries is worked out for the pages a change names rather than across the index.",
       workingMemory:
-        "`readingIn` built a new reading for every caller that named the root rather than a reading, so every `heldOnce` and `heldEach` memo missed and each face over the root was worked out again. One reading is held per root for the length of a command call now, and a write to the index lets it go. One face is built over a reading now rather than one for each caller, so `derivedFor` runs once.",
+        "`derivedFor` is 1.08s of a 4.57s landing and `slugsOver` inside it 1.16s. Holding one reading per root for a call and one face per reading were both tried and both measured at nothing, and both were taken back out: the two faces a landing builds are over two index states, the root's and the shadow's, and the cost is the loop over every file property rather than the reads. What is left is that loop.",
     },
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
