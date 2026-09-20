@@ -24,7 +24,6 @@ export const supabaseRr = {
     "module/server-client",
     "module/session-cookie",
     "module/session-refresh",
-    "module/sign-in-form",
     "module/sign-out-route",
     "module/sign-up-route",
     "module/supabase-provider",

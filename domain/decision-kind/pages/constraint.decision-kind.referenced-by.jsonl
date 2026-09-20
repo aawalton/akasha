@@ -149,7 +149,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/safety/safety.domain.ts","id":"01a05f42-92f5-7005-9a61-d2ed59cb2fac"}
 {"propertySlug":"decision-kind","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.ts","id":"01a09099-ea3c-7d5e-a085-0b0c4402eeea"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-rr/modules/sign-in-form/sign-in-form.module.ts","id":"01a08e25-b176-7b8a-a831-12be30fc3c71"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-server/modules/service-role/service-role.module.ts","id":"01a05c75-871a-75ee-b566-9d7b5f975f72"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts","id":"01a0697e-ded3-7adb-9d6e-f852cfc9ffd7"}
