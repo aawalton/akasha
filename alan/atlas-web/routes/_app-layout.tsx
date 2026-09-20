@@ -11,7 +11,8 @@ import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
-  const signedIn = (await signedInAs(ATLAS_SITE, request)) !== null
+  const reader = await signedInAs(ATLAS_SITE, request)
+  const signedIn = reader !== null
 
   let navItems: ReadonlyArray<Record<string, unknown>> | null = null
   if (signedIn) {
@@ -27,7 +28,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ signedIn, navItems })
+  return data({ reader, signedIn, navItems })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
@@ -45,7 +46,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
 
   return (
     <SupabaseProvider>
-      <AuthProvider>
+      <AuthProvider reader={loaderData.reader}>
         <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
           <Outlet />
         </AppShell>
