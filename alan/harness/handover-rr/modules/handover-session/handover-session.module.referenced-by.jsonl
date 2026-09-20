@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"alan/harness/handover-rr/modules/handover-reader/handover-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"product/archive-of-worlds/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/_app-layout.tsx"}
+{"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/settings/settings.route.code.tsx"}
 {"propertySlug":"parts","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}
