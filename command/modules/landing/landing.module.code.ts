@@ -179,13 +179,9 @@ function beforeOf(
   base: string,
   paths: readonly string[]
 ): Map<string, Uint8Array | null> {
-  try {
-    const held = new Map<string, Uint8Array | null>()
-    for (const one of paths) held.set(one, bodyAt(root, base, one))
-    return held
-  } finally {
-    readingEnded()
-  }
+  const held = new Map<string, Uint8Array | null>()
+  for (const one of paths) held.set(one, bodyAt(root, base, one))
+  return held
 }
 
 function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>): undefined {
@@ -395,6 +391,7 @@ export async function landing(
       ...split.committing.map((one) => one.path),
       ...moving.committing.flatMap((one) => [one.from, one.to]),
     ])
+    readingEnded()
     try {
       const putting = split.committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)
