@@ -26,5 +26,10 @@ export const webPageAnswer = {
       decisionKind: "decision-kind/departure",
       statement: "The three answers reaching a service-role client sit behind a `.server` folder.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "How a site knows its reader is passed in, and a site naming none is read by supabase.",
+    },
   ],
 } as const satisfies Domain

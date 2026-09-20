@@ -2,10 +2,15 @@ import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth
 import {
   answerPages as answerFrom,
   pagesDeps,
+  type ReadUser,
 } from "akasha/page/access/modules/answer/answer.module.code.ts"
 
 const DEPS = pagesDeps(resolveRequestUser)
 
-export function answerPages(request: Request, pageTypeSlug: string): Promise<Response> {
-  return answerFrom(request, pageTypeSlug, DEPS)
+export function answerPages(
+  request: Request,
+  pageTypeSlug: string,
+  readUser?: ReadUser
+): Promise<Response> {
+  return answerFrom(request, pageTypeSlug, readUser === undefined ? DEPS : pagesDeps(readUser))
 }

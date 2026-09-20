@@ -1,4 +1,5 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import type { ReadUser } from "akasha/page/access/modules/answer/answer.module.code.ts"
 import {
   readPageWrite,
   runPageWrite,
@@ -14,9 +15,13 @@ function namedOnce(writer: string): undefined {
   named = writer
 }
 
-export async function answerPageWrite(request: Request, writer: string): Promise<Response> {
+export async function answerPageWrite(
+  request: Request,
+  writer: string,
+  readUser: ReadUser = resolveRequestUser
+): Promise<Response> {
   namedOnce(writer)
-  const { user, headers } = await resolveRequestUser(request)
+  const { user, headers } = await readUser(request)
   if (user === null) {
     return Response.json(
       { error: "this route answers a signed-in writer only" },
