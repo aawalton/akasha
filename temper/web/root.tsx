@@ -5,14 +5,9 @@ import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import {
-  bouncedToSignIn,
-  passingOn,
-} from "akasha/alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.code.ts"
-import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
-import {
-  type AuthRouteConfig,
-  authGuard,
-} from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
+  type HandoverGuardConfig,
+  handoverGuard,
+} from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import {
@@ -46,7 +41,6 @@ import {
   Meta,
   type MetaFunction,
   Outlet,
-  redirect,
   Scripts,
   ScrollRestoration,
   useRouteLoaderData,
@@ -54,12 +48,16 @@ import {
 
 const HOME_PATH = "/home"
 
-const AUTH_CONFIG: AuthRouteConfig = {
-  signInPath: "/sign-in",
-  authPaths: ["/sign-in", "/sign-up"],
-  internalApiPaths: ["/api/", "/companion-build/h/", "/character-build/h/", /^\/$/, /^\/handover$/],
-  rootRedirects: { authenticated: HOME_PATH },
-  signInOnInvalidSession: true,
+const GUARD: HandoverGuardConfig = {
+  signInPaths: ["/sign-in", "/sign-up"],
+  openPaths: [
+    /^\/api\//,
+    /^\/companion-build\/h\//,
+    /^\/character-build\/h\//,
+    /^\/$/,
+    /^\/handover$/,
+  ],
+  atRoot: { reader: HOME_PATH },
 }
 
 export const links: LinksFunction = () => fontPreloading(geistSansWoff2)
@@ -71,17 +69,9 @@ export const meta: MetaFunction = () => [
 
 export async function loader({ request, context }: LoaderFunctionArgs<AppLoadContext>) {
   const nonce = typeof context.nonce === "string" ? context.nonce : undefined
-  const guard = await authGuard(request, AUTH_CONFIG)
-  if (!(guard instanceof Response)) {
-    const atRoot = new URL(request.url).pathname === "/"
-    if (atRoot && (await signedInAs(TEMPER_SITE, request)) !== null) {
-      return redirect(HOME_PATH, { headers: guard.headers })
-    }
-    return data({ nonce }, { headers: guard.headers })
-  }
-  if (!bouncedToSignIn(guard, AUTH_CONFIG.signInPath)) return guard
-  if ((await signedInAs(TEMPER_SITE, request)) === null) return guard
-  return data({ nonce }, { headers: passingOn(guard) })
+  const bounce = await handoverGuard(TEMPER_SITE, request, GUARD)
+  if (bounce !== null) return bounce
+  return data({ nonce })
 }
 
 export function Layout({ children }: { children: ReactNode }) {
