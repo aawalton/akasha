@@ -40,11 +40,7 @@ const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.
 const handler = createRequestHandler(serverBuild, "production")
 
 const CSP_CONFIG: AppCspConfig = {
-  connectSrc: [
-    "https://supabase.alanwalton.com",
-    "wss://supabase.alanwalton.com",
-    "https://protomaps.github.io",
-  ],
+  connectSrc: ["https://protomaps.github.io"],
   imgSrc: ["blob:", "https://protomaps.github.io"],
   workerSrc: ["blob:"],
 }
