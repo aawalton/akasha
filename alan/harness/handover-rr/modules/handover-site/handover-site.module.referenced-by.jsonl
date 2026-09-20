@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-leaving/handover-leaving.module.code.ts"}
+{"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-reader/handover-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"}

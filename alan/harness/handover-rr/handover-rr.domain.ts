@@ -10,6 +10,7 @@ export const handoverRr = {
     "module/handover-arrival",
     "module/handover-bounce",
     "module/handover-code",
+    "module/handover-reader",
     "module/handover-session",
     "module/handover-site",
     "module/handover-app",
