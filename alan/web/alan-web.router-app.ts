@@ -57,8 +57,7 @@ export const alanWeb = {
     "module/media-page",
     "module/media-variants",
     "module/mini-player-bar",
-    "module/native-auth-refresh",
-    "module/native-auth-refresh-sync",
+
     "module/nav-command",
     "module/next-unread",
     "module/offline-cache-fs",
