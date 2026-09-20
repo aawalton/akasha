@@ -19,10 +19,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-sign-out/atlas-sign-out.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-sign-up/atlas-sign-up.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-page-detail/alan-web-capacitor-page-detail.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-page-listing/alan-web-capacitor-page-listing.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-sign-in/alan-web-capacitor-sign-in.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/about/about.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.ts"}

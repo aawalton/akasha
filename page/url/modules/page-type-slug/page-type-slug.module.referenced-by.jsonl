@@ -4,9 +4,6 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/atlas-web/routes/atlas-page-listing/atlas-page-listing.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-page-detail/alan-web-capacitor-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-page-listing/alan-web-capacitor-page-listing.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"}

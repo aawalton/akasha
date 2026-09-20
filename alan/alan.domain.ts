@@ -33,6 +33,5 @@ export const alan = {
     "page-type/value",
     "router-app/alan-atlas-web",
     "router-app/alan-web",
-    "router-app/alan-web-capacitor",
   ],
 } as const satisfies Domain

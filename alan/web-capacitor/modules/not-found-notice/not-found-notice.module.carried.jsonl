@@ -1,6 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every route drawing nothing found draws the same notice."},{"decisionKind":"decision-kind/departure","statement":"The notice says the page was not found rather than why it was not found."},{"decisionKind":"decision-kind/absence","statement":"Nothing here answers with a status, because a route here draws in the browser."}]}
-{"definition":"what a route draws in place of a page that is not there"}
-{"id":"01a08e04-ae95-7615-b97a-27cdf8ec5cda"}
-{"slug":"not-found-notice"}
-{"type":"page-type/module"}

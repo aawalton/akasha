@@ -506,8 +506,6 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
-{"propertySlug":"decision-kind","path":"alan/web-capacitor/alan-web-capacitor.router-app.ts","id":"01a06582-324d-7c85-97b1-23c659bd7d23"}
-{"propertySlug":"decision-kind","path":"alan/web-capacitor/modules/not-found-notice/not-found-notice.module.ts","id":"01a08e04-ae95-7615-b97a-27cdf8ec5cda"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts","id":"01a063c9-03ff-7eb7-8909-d39430301bb3"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.ts","id":"01a0655d-daa6-7fdf-b1e7-5b58892ba09c"}

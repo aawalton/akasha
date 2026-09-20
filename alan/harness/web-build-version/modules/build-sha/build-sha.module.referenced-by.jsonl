@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"alan/atlas-web/routes/atlas-api-live-version/atlas-api-live-version.route.code.ts"}
 {"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.code.ts"}
 {"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"alan/harness/web-build-version/modules/live-version/live-version.module.code.ts"}
-{"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"alan/web-capacitor/root.tsx"}
 {"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"alan/web/routes/alan-web-api-live-version/alan-web-api-live-version.route.code.ts"}
 {"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"page/ui/app-version/modules/app-version-check/app-version-check.module.code.ts"}
 {"propertySlug":"import","fileName":"build-sha.module.code.ts","path":"page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"}

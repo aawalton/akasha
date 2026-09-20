@@ -28,7 +28,6 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/web-capacitor/vite.config.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"}

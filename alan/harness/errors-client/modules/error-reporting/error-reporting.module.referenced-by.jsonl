@@ -1,8 +1,6 @@
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/atlas-web/root.tsx"}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/web-capacitor/root.tsx"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.code.tsx"}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"product/archive-of-worlds/web/root.tsx"}
