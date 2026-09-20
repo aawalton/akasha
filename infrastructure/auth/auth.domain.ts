@@ -75,5 +75,9 @@ export const auth = {
       statement: "Anyone makes an account at alanwalton.com, and that account is a contributor.",
     },
     { decisionKind: "decision-kind/departure", statement: "A contributor signs in with Google." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An app's code is bound to a secret the app keeps and never sends.",
+    },
   ],
 } as const satisfies Domain
