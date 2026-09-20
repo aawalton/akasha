@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   ensureReadAloudRendition,
   resolveChapterKokoroSegments,
@@ -35,7 +35,7 @@ export async function action({
   request: Request
 }): Promise<Response> {
   const cors = corsHeaders(request)
-  const { user, headers } = await resolveRequestUser(request)
+  const { user, headers } = await readAlanUser(request)
   const respond = (body: unknown, status: number): Response => {
     const merged = new Headers(headers)
     for (const [k, v] of Object.entries(cors)) merged.set(k, v)

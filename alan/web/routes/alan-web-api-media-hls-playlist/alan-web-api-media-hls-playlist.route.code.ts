@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   capacitorCorsHeaders,
   corsPreflight,
@@ -81,7 +81,7 @@ export async function loader({
       return respond("Unauthorized", 401)
     }
   } else {
-    const { user, headers: authHeaders } = await resolveRequestUser(request)
+    const { user, headers: authHeaders } = await readAlanUser(request)
     carry(authHeaders)
     if (!user) return respond("Unauthorized", 401)
     if (!(await mediaPageExists(pageId))) return respond("Not Found", 404)

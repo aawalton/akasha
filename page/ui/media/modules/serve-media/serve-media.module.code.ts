@@ -29,7 +29,7 @@ export type ServeMediaParams = {
 }
 
 export type MediaReader = {
-  user: { id: string } | null
+  user: object | null
   headers: Headers
 }
 

@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { resolveMediaPage } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
 import { resolveFromNSentenceMarks } from "akasha/alan/web/modules/read-aloud-marks/read-aloud-marks.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
@@ -11,7 +11,7 @@ export async function loader({
   params: { pageId: string; medium: string }
   request: Request
 }): Promise<Response> {
-  const { user, headers } = await resolveRequestUser(request)
+  const { user, headers } = await readAlanUser(request)
   const respond = (body: BodyInit | null, status: number, extra?: HeadersInit): Response => {
     const merged = new Headers(headers)
     if (extra) for (const [k, v] of new Headers(extra).entries()) merged.set(k, v)

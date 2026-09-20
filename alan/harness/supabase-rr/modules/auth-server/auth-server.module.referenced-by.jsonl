@@ -8,13 +8,6 @@
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/.server/device-token-context/device-token-context.module.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/modules/signed-in-redirect/signed-in-redirect.module.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media-ensure/alan-web-api-media-ensure.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media-hls-playlist/alan-web-api-media-hls-playlist.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media-stream/alan-web-api-media-stream.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media-token/alan-web-api-media-token.route.code.ts"}
-{"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-api-media/alan-web-api-media.route.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"}
 {"propertySlug":"import","fileName":"auth-server.module.code.ts","path":"temper/web/.server/answer-ask/answer-ask.module.code.ts"}

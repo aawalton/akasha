@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   capacitorCorsHeaders,
   withCors,
@@ -17,7 +17,7 @@ import {
 const TOKEN_TTL_MS = 60 * 60 * 1000
 
 function buildMediaTokenResponse(input: {
-  user: { id: string } | null
+  user: object | null
   pageId: string
   medium: string
   variant: string
@@ -48,7 +48,7 @@ export async function loader({ request }: { request: Request }): Promise<Respons
     return new Response(null, { status: 204, headers: withCors(new Headers(), cors) })
   }
 
-  const { user, headers } = await resolveRequestUser(request)
+  const { user, headers } = await readAlanUser(request)
   withCors(headers, cors)
   const url = new URL(request.url)
   const pageId = url.searchParams.get("pageId") ?? ""

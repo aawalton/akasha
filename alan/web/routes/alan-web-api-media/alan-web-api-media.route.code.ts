@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   capacitorCorsHeaders,
   withCors,
@@ -33,7 +33,7 @@ export async function loader({
           medium: params.medium,
           variant: url.searchParams.get("variant"),
         },
-        resolveRequestUser
+        readAlanUser
       )
     : new Response("Not Found", { status: 404 })
 
