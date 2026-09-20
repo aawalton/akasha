@@ -1,9 +1,10 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { getPage, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { readServedWatcherVersion } from "akasha/temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import {
   readReportedBuild,
   summarizeWatcherBuild,
@@ -62,22 +63,20 @@ async function readAccountInventory(userId: string): Promise<WatcherSyncSourceCo
 }
 
 export async function loader({ request }: { request: Request }) {
-  const { headers } = createServerClient(request)
-  const { user, headers: userHeaders } = await getUser(request)
-  for (const [k, v] of userHeaders) {
-    if (k.toLowerCase() === "set-cookie") headers.append("set-cookie", v)
-  }
+  const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  const accountId = reached?.ok === true ? reached.account : null
 
-  if (!user) return data({ sync: null, build: null, run: null }, { headers })
+  if (accountId === null) return data({ sync: null, build: null, run: null })
 
   const [enrolment, characters, inventory] = await Promise.all([
     getPage({
       pageTypeSlug: "temper-watcher-enrolment",
-      where: [{ key: "accountPage", eq: user.id }],
+      where: [{ key: "accountPage", eq: accountId }],
       select: ["tokenCreatedAt", "lastRunOutcome"],
     }),
-    readSource("temper-account-character", user.id),
-    readAccountInventory(user.id),
+    readSource("temper-account-character", accountId),
+    readAccountInventory(accountId),
   ])
 
   const createdAt = enrolment?.tokenCreatedAt
@@ -94,7 +93,7 @@ export async function loader({ request }: { request: Request }) {
 
   const run = summarizeWatcherRun(readReportedOperations(enrolment?.lastRunOutcome))
 
-  return data({ sync, build, run }, { headers })
+  return data({ sync, build, run })
 }
 
 export default function WatcherPage({
