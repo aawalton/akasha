@@ -1,10 +1,10 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getPageByIdSuffix, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { PageDetailContent } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
   decodeBuild,
   encodeBuild,
@@ -33,6 +33,7 @@ import {
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
@@ -91,19 +92,15 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   }
 
   if (pageTypeSlug === NAV_SLUG) {
-    return data(
-      {
-        kind: "nav" as const,
-        pageTypeSlug,
-        pageHrefParam,
-        faviconIdSuffix: parsed.idSuffix,
-      },
-      { headers: new Headers() }
-    )
+    return data({
+      kind: "nav" as const,
+      pageTypeSlug,
+      pageHrefParam,
+      faviconIdSuffix: parsed.idSuffix,
+    })
   }
 
   const brandedSlug = toPageTypeSlug(pageTypeSlug)
-  const { headers } = createServerClient(request)
   const page = await getPageByIdSuffix({
     pageTypeSlug: brandedSlug,
     idSuffix: parsed.idSuffix,
@@ -114,61 +111,51 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   }
 
   if (pageTypeSlug === "character-build") {
-    const characterData = await loadCharacterDetail(page, request)
-    for (const [k, v] of characterData.headers) {
-      if (k.toLowerCase() === "set-cookie") headers.append("set-cookie", v)
-    }
-    return data(
-      {
-        kind: "character" as const,
-        pageTypeSlug,
-        faviconIdSuffix: null,
-        ...characterData.body,
-      },
-      { headers }
-    )
+    return data({
+      kind: "character" as const,
+      pageTypeSlug,
+      faviconIdSuffix: null,
+      ...(await loadCharacterDetail(page, request)),
+    })
   }
   if (pageTypeSlug === "companion-build") {
-    const companionData = await loadCompanionDetail(page, request)
-    for (const [k, v] of companionData.headers) {
-      if (k.toLowerCase() === "set-cookie") headers.append("set-cookie", v)
-    }
-    return data(
-      {
-        kind: "companion" as const,
-        pageTypeSlug,
-        faviconIdSuffix: null,
-        ...companionData.body,
-      },
-      { headers }
-    )
+    return data({
+      kind: "companion" as const,
+      pageTypeSlug,
+      faviconIdSuffix: null,
+      ...(await loadCompanionDetail(page, request)),
+    })
   }
 
-  return data(
-    {
-      kind: "detail" as const,
-      pageTypeSlug,
-      id: page.id,
-      faviconIdSuffix: null,
-    },
-    { headers }
-  )
+  return data({
+    kind: "detail" as const,
+    pageTypeSlug,
+    id: page.id,
+    faviconIdSuffix: null,
+  })
+}
+
+async function readerAccount(request: Request): Promise<string | null> {
+  const reader = await signedInAs(TEMPER_SITE, request)
+  if (reader === null) return null
+  const reached = await accountOfContributor(reader)
+  return reached.ok ? reached.account : null
 }
 
 async function loadCharacterDetail(page: Record<string, unknown>, request: Request) {
   const r = asCharacterPageRow(page)
   const buildId = r.id
-  const { user, headers } = await getUser(request)
+  const accountId = await readerAccount(request)
 
   const buildAccount = r.accountPage ?? ""
-  const isOwner = user !== null && user.id === buildAccount
+  const isOwner = accountId !== null && accountId === buildAccount
 
   let isTargetBuild = false
-  if (user) {
+  if (accountId !== null) {
     const { rows } = await getPages({
       pageTypeSlug: "temper-account-character",
       where: [
-        { key: "accountPage", eq: user.id },
+        { key: "accountPage", eq: accountId },
         { key: "targetBuildId", eq: buildId },
       ],
       select: ["id"],
@@ -203,33 +190,30 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
   const visibility = r.visibility ?? "private"
 
   return {
-    body: {
-      buildId,
-      initialBuild,
-      initialBuildHash,
-      isOwner,
-      initialVisibility: toBuildVisibility(visibility),
-      isTargetBuild,
-      decodeFailed,
-    },
-    headers,
+    buildId,
+    initialBuild,
+    initialBuildHash,
+    isOwner,
+    initialVisibility: toBuildVisibility(visibility),
+    isTargetBuild,
+    decodeFailed,
   }
 }
 
 async function loadCompanionDetail(page: Record<string, unknown>, request: Request) {
   const r = asCompanionPageRow(page)
   const buildId = r.id
-  const { user, headers } = await getUser(request)
+  const accountId = await readerAccount(request)
 
   const buildAccount = r.accountPage ?? ""
-  const isOwner = user !== null && buildAccount === user.id
+  const isOwner = accountId !== null && buildAccount === accountId
 
   let isTargetBuild = false
-  if (user) {
+  if (accountId !== null) {
     const { rows } = await getPages({
       pageTypeSlug: "temper-companion-progress",
       where: [
-        { key: "accountPage", eq: user.id },
+        { key: "accountPage", eq: accountId },
         { key: "targetBuildId", eq: buildId },
       ],
       select: ["id"],
@@ -261,16 +245,13 @@ async function loadCompanionDetail(page: Record<string, unknown>, request: Reque
   const visibility = r.visibility ?? "private"
 
   return {
-    body: {
-      buildId,
-      initialBuild,
-      initialBuildHash,
-      isOwner,
-      initialVisibility: toBuildVisibility(visibility),
-      isTargetBuild,
-      decodeFailed,
-    },
-    headers,
+    buildId,
+    initialBuild,
+    initialBuildHash,
+    isOwner,
+    initialVisibility: toBuildVisibility(visibility),
+    isTargetBuild,
+    decodeFailed,
   }
 }
 

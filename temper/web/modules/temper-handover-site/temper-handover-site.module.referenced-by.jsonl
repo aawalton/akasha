@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/api-page-types/api-page-types.route.code.ts"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/api-page-write/api-page-write.route.code.ts"}
+{"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/settings/settings.route.code.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/shopping/shopping.route.code.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/sign-in/sign-in.route.code.ts"}
