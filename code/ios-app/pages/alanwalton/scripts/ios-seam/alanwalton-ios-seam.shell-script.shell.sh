@@ -113,6 +113,8 @@ KOKORO_TTS_ENABLED="${NATIVE_SHELL_KOKORO_TTS:-1}"
 KOKORO_FLUIDAUDIO_URL="https://github.com/FluidInference/FluidAudio.git"
 KOKORO_FLUIDAUDIO_REVISION="300165b240c45375add402265f62410b6df33cf1"
 
+HANDOVER_SIGN_IN_ENABLED="${NATIVE_SHELL_HANDOVER_SIGN_IN:-1}"
+
 URL_SCHEME_ENABLED="${NATIVE_SHELL_URL_SCHEME:-1}"
 URL_SCHEME="alanwalton"
 URL_SCHEME_NAME="${NATIVE_SHELL_BUNDLE_ID:?is unset. The ios-app page states bundle-id, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
@@ -190,6 +192,8 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh"
 # shellcheck source=../device-secret/alanwalton-device-secret.shell-script.shell.sh
 . "$SEAM_DIR/device-secret/alanwalton-device-secret.shell-script.shell.sh"
+# shellcheck source=../handover-sign-in/alanwalton-handover-sign-in.shell-script.shell.sh
+. "$SEAM_DIR/handover-sign-in/alanwalton-handover-sign-in.shell-script.shell.sh"
 # shellcheck source=../monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh
 . "$SEAM_DIR/monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh"
 
