@@ -49,6 +49,7 @@ export const everythingElse = {
         "notifications@link.com",
         "no-reply@email.tp-link.com",
         "support@ksl.com",
+        "hello@ko-fi.com",
       ],
     },
     {
