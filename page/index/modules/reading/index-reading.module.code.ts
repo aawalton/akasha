@@ -44,31 +44,8 @@ export function indexThere(given: string | Reading): boolean {
   return readingIn(given).holds("")
 }
 
-const HELD: { readings: Map<string, Reading> | null } = { readings: null }
-
-export async function readingsHeld<T>(act: () => Promise<T>): Promise<T> {
-  const was = HELD.readings
-  HELD.readings = was ?? new Map<string, Reading>()
-  try {
-    return await act()
-  } finally {
-    HELD.readings = was
-  }
-}
-
-export function readingsForgotten(): undefined {
-  HELD.readings?.clear()
-}
-
 export function readingIn(given: string | Reading): Reading {
-  if (typeof given !== "string") return given
-  const held = HELD.readings
-  if (held === null) return readingAt(indexIn(given), given)
-  const found = held.get(given)
-  if (found !== undefined) return found
-  const made = readingAt(indexIn(given), given)
-  held.set(given, made)
-  return made
+  return typeof given === "string" ? readingAt(indexIn(given), given) : given
 }
 
 export function heldOnce<T>(asked: (reading: Reading) => T): (given: string | Reading) => T {

@@ -221,12 +221,7 @@ function kindedIn(given: string | Reading): Kinded {
   }
 }
 
-const FACES = new WeakMap<Reading, Facing>()
-
 export function facingIn(root: string, given: string | Reading): Facing {
-  const reading = readingIn(given)
-  const already = FACES.get(reading)
-  if (already !== undefined) return already
   const held = new Map<string, Carried>()
   const kinds = new Map<string, ReadonlySet<string>>()
   const made: Facing = {
@@ -247,7 +242,6 @@ export function facingIn(root: string, given: string | Reading): Facing {
     },
     root,
   }
-  FACES.set(reading, made)
   try {
     derivedFor(made)
   } catch {}
