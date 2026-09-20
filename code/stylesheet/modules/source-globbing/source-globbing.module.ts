@@ -62,7 +62,15 @@ export const sourceGlobbing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The globs are worked out again only where the change carries code or a manifest or a stylesheet.",
+        "The globs are worked out again only where a manifest, a stylesheet or a file an app reaches moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The paths an app reaches are kept beside the stylesheet whose globs they decide.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stylesheet with no such file kept beside it has its globs worked out again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -70,7 +78,7 @@ export const sourceGlobbing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file of code the change adds or takes away moves the globs.",
+      statement: "A file the app reaches that the change adds or takes away moves the globs.",
     },
     {
       decisionKind: "decision-kind/departure",

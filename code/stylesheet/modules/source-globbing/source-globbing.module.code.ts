@@ -1,13 +1,19 @@
-import type { Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { join } from "node:path"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  pageOf,
+  partedIn,
+  uncommittedBesideAt,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const MANIFEST = "package.json"
@@ -34,8 +40,34 @@ const GLOB_LINE = /^@source\s+(?!inline\b)/
 const IMPORT_LINE = /^@(?:charset|import)\b/
 
 export type Globbed = {
-  readonly edits: readonly Replacing[]
+  readonly edits: readonly FileChange[]
   readonly said: readonly string[]
+}
+
+const REACHED = "reached"
+
+const HELD_JSONL = "jsonl"
+
+const HELD_TS = "ts"
+
+function reachedAt(at: string): string | null {
+  const said = partedIn(at)
+  if (said === null) return null
+  const page = join(folderOf(at), `${pageOf(said)}.${HELD_TS}`)
+  return uncommittedBesideAt(page, REACHED, HELD_JSONL)
+}
+
+function rowsFor(root: string, at: string, reached: ReadonlySet<string>): FileChange | null {
+  const rows = reachedAt(at)
+  if (rows === null) return null
+  const body = [...reached]
+    .sort()
+    .map((one) => `${one}\n`)
+    .join("")
+  const was = textThere(join(root, rows))
+  if (was === body) return null
+  if (was === null) return { kind: "add", path: rows, content: body }
+  return { kind: "replace", path: rows, contentFrom: was, contentTo: body }
 }
 
 const NOTHING_GLOBBED: Globbed = { edits: [], said: [] }
@@ -137,20 +169,22 @@ function globbedOver(change: Change): Globbed {
     every.filter((one) => one.endsWith(VITE_ENDING)).map((one) => folderOf(one))
   )
   const index = shadowAt(change.root).index
-  const edits: Replacing[] = []
+  const edits: FileChange[] = []
   const said: string[] = []
   for (const at of every.filter((one) => styledName(one)).sort()) {
     const css = textOf(change.after(at))
-    if (css === null || !isEntry(css)) continue
-    const app = appFor(at, roots)
-    if (app === null) continue
-    const seeds = every.filter((one) => one.startsWith(`${app}/`) && typeScripted(one))
-    const reached = closureOf(imports, seeds, {
-      index,
-      bodyAt,
-      through: (one) => known.has(one),
-    })
-    const block = blockFor(at, app, new Set(reached))
+    const app = css === null || !isEntry(css) ? null : appFor(at, roots)
+    const seeds =
+      app === null ? [] : every.filter((one) => one.startsWith(`${app}/`) && typeScripted(one))
+    const reached = new Set(
+      app === null
+        ? []
+        : closureOf(imports, seeds, { index, bodyAt, through: (one) => known.has(one) })
+    )
+    const rows = rowsFor(change.root, at, reached)
+    if (rows !== null) edits.push(rows)
+    if (app === null || css === null) continue
+    const block = blockFor(at, app, reached)
     const body = bodyWith(css, block)
     if (body === css) continue
     const many = block === "" ? 0 : block.split("\n").length
@@ -168,15 +202,37 @@ function specifiersIn(body: string | null, path: string): string {
     .join("\n")
 }
 
+function styledIn(change: Change): readonly string[] {
+  const held = new Set(gitIn(change.root, ["ls-files", "-z", "--", `*${STYLESHEET}*`]).split("\0"))
+  held.delete("")
+  for (const path of change.changed) {
+    if (change.after(path) === null) held.delete(path)
+    else held.add(path)
+  }
+  return [...held].filter((one) => styledName(one))
+}
+
+function moved(change: Change, path: string): boolean {
+  const before = textOf(change.before(path))
+  const after = textOf(change.after(path))
+  if ((before === null) !== (after === null)) return true
+  return specifiersIn(before, path) !== specifiersIn(after, path)
+}
+
 function couldTurn(change: Change): boolean {
   for (const path of change.changed) {
     if (path === MANIFEST || path.endsWith(`/${MANIFEST}`)) return true
     if (styledName(path)) return true
-    if (!typeScripted(path)) continue
-    const before = textOf(change.before(path))
-    const after = textOf(change.after(path))
-    if ((before === null) !== (after === null)) return true
-    if (specifiersIn(before, path) !== specifiersIn(after, path)) return true
+  }
+  const changed = new Set(change.changed.filter((one) => typeScripted(one)))
+  if (changed.size === 0) return false
+  for (const at of styledIn(change)) {
+    const rows = reachedAt(at)
+    const body = rows === null ? null : textThere(join(change.root, rows))
+    if (body === null) return true
+    for (const line of body.split("\n")) {
+      if (line !== "" && changed.has(line) && moved(change, line)) return true
+    }
   }
   return false
 }
