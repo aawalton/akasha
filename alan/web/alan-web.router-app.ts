@@ -31,6 +31,7 @@ export const alanWeb = {
     "module/alan-auth-provider",
     "module/alan-nav-items",
     "module/alan-reader-neighbors",
+    "module/alan-session-reader",
     "module/api-fetch",
     "module/api-origin",
     "module/app-layout-loading",
