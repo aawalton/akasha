@@ -1,3 +1,4 @@
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   askingFor,
@@ -8,6 +9,8 @@ import {
 const PERSON_PAGE_TYPE = "person"
 
 const ACCOUNT_KEY = "supabaseAuthUserId"
+
+const EMAIL_KEY = "email"
 
 const CONTRIBUTOR_KEY = "contributor"
 
@@ -117,6 +120,40 @@ export async function personSlugForContributor(
     }
   }
   return { ok: true, personSlug: only }
+}
+
+export type Reaching =
+  | { readonly ok: true; readonly account: string | null; readonly email: string | null }
+  | { readonly ok: false; readonly unread: boolean; readonly why: string }
+
+export async function accountOfContributor(
+  contributorSlug: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Reaching> {
+  const contributor = contributorNamed(contributorSlug)
+  if (contributor === null) return { ok: false, unread: false, why: SIGNING_IN_AS_NOBODY }
+  const asked = await askingFor(
+    {
+      pageTypeSlug: PERSON_PAGE_TYPE,
+      where: { [CONTRIBUTOR_KEY]: { is: contributor } },
+      keys: [ACCOUNT_KEY, EMAIL_KEY],
+    },
+    fetcher,
+    naps
+  )
+  if ("refused" in asked) {
+    return {
+      ok: false,
+      unread: true,
+      why: `the person pages went unread, so the contributor ${contributor} reaches no account: ${asked.refused}`,
+    }
+  }
+  const row = asked.rows[0]
+  if (row === undefined) {
+    return { ok: false, unread: false, why: `no person states the contributor ${contributor}` }
+  }
+  return { ok: true, account: textIn(row[ACCOUNT_KEY]), email: textIn(row[EMAIL_KEY]) }
 }
 
 export type Whom =

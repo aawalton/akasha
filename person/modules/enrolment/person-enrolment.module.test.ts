@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
+  accountOfContributor,
   asAccount,
   asContributor,
   contributorNamed,
@@ -155,4 +156,33 @@ test("whoever a caller is decides which key the person pages are asked under", a
   const byAccount = recordingFetcher()
   await personSlugFor(asAccount("9ba554f7"), byAccount.fetcher, noNap)
   expect(byAccount.sent().where).toEqual({ supabaseAuthUserId: { is: "9ba554f7" } })
+})
+
+test("a contributor reaches the account and the address its person states", async () => {
+  const read = await accountOfContributor(
+    A_CONTRIBUTOR,
+    answering([{ supabaseAuthUserId: "9ba554f7", email: "aawalton@gmail.com" }]),
+    noNap
+  )
+  expect(read).toEqual({ ok: true, account: "9ba554f7", email: "aawalton@gmail.com" })
+})
+
+test("a person stating no account is reached all the same, with no account", async () => {
+  const read = await accountOfContributor(A_CONTRIBUTOR, answering([{ email: "" }]), noNap)
+  expect(read).toEqual({ ok: true, account: null, email: null })
+})
+
+test("a contributor no person names reaches no account", async () => {
+  const read = await accountOfContributor(A_CONTRIBUTOR, answering([]), noNap)
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.unread).toBe(false)
+})
+
+test("person pages that went unread leave a contributor reaching no account", async () => {
+  const read = await accountOfContributor(A_CONTRIBUTOR, refusing(500), noNap)
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.unread).toBe(true)
+  expect(read.why).toContain("went unread")
 })

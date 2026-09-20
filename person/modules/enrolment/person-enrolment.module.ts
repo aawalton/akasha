@@ -19,6 +19,14 @@ export const personEnrolment = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A contributor reaches the account and the address the person naming it states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person stating no account is reached all the same, with no account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whoever a caller is, is one contributor or one account.",
     },
     {
