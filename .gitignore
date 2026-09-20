@@ -40,7 +40,6 @@ dist/
 # rather than hypothetical.
 *.tmp.ts
 
-
 # The scratch a web build is written into, and the previous build held aside for
 # the moment between the two renames that swap it. A build that fails leaves the
 # scratch behind, and the next build sweeps it.
