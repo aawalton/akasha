@@ -10,5 +10,6 @@
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/settings/settings.route.code.tsx"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/shopping/shopping.route.code.tsx"}
+{"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/temper-page-listing/temper-page-listing.route.code.tsx"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/routes/watcher/watcher.route.code.tsx"}
 {"propertySlug":"parts","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}

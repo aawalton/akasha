@@ -9,5 +9,6 @@
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/sign-out/sign-out.route.code.ts"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.code.ts"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/temper-handover/temper-handover.route.code.ts"}
+{"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/temper-page-listing/temper-page-listing.route.code.tsx"}
 {"propertySlug":"import","fileName":"temper-handover-site.module.code.ts","path":"temper/web/routes/watcher/watcher.route.code.tsx"}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

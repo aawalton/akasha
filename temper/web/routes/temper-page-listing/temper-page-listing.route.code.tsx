@@ -1,10 +1,11 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { CharactersPageContent } from "akasha/temper/web/modules/characters-page-content/characters-page-content.module.code.tsx"
 import { CompanionsPageContent } from "akasha/temper/web/modules/companions-page-content/companions-page-content.module.code.tsx"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { useImportErrorToast } from "akasha/temper/web/modules/use-import-error-toast/use-import-error-toast.module.code.ts"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
@@ -17,16 +18,16 @@ export async function loader({
   request: Request
 }) {
   const pageTypeSlug = params.pageTypeSlug
-  const { headers } = createServerClient(request)
   const pageType = await getPageTypeBySlug(pageTypeSlug)
   if (!pageType || typeof pageType.slug !== "string") {
     throw new Response("Not Found", { status: 404 })
   }
-  const { user, headers: userHeaders } = await getUser(request)
-  for (const [k, v] of userHeaders) {
-    if (k.toLowerCase() === "set-cookie") headers.append("set-cookie", v)
-  }
-  return data({ slug: pageType.slug, userId: user?.id ?? null }, { headers })
+  const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  return data({
+    slug: pageType.slug,
+    userId: reached?.ok === true ? reached.account : null,
+  })
 }
 
 export default function PagesListingRoute({
