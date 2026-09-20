@@ -1,6 +1,11 @@
 import { index, layout, type RouteConfig, route } from "@react-router/dev/routes"
 
 export default [
+  route(
+    ".well-known/apple-app-site-association",
+    "routes/alan-web-apple-app-site-association/alan-web-apple-app-site-association.route.code.ts"
+  ),
+
   layout("routes/_app-layout.tsx", [
     route("home", "routes/alan-web-home/alan-web-home.route.code.tsx"),
     route("principles", "routes/alan-web-principles/alan-web-principles.route.code.tsx"),

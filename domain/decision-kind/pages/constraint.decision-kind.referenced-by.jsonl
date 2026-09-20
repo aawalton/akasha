@@ -184,6 +184,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts","id":"01a0ba6e-8c03-7601-9695-3532675a5936"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts","id":"01a0bafb-9c26-7fbf-a604-d1157ce78af0"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.ts","id":"01a0ba9c-04fb-7a10-9331-ba1d5382ec7a"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-apple-app-site-association/alan-web-apple-app-site-association.route.ts","id":"01a0bbaa-1f47-7bfa-b982-1825d476f17e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/no-such-route/no-such-route.route.ts","id":"01a072dd-d488-7e97-b669-7076f6de9c20"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/pages-ready/pages-ready.route.ts","id":"01a072b4-378d-70ab-8d75-5361b4ca7293"}
 {"propertySlug":"decision-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
