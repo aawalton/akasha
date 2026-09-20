@@ -45,7 +45,6 @@ export const alanWeb = {
     "module/deep-link-open-sync",
     "module/device-secret-context",
     "module/device-secret-sync",
-    "module/device-token-context",
     "module/edge-swipe-nav",
     "module/forwarded-origin",
     "module/hls-extinf",

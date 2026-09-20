@@ -8,15 +8,11 @@ export const readoutGuarding = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout feed admits a device secret or a signed-in session.",
+      statement: "A readout feed admits a device secret or a signed-in contributor.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A request carrying no device secret header is read as a session.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A signed-in contributor is read off the request before any account is.",
     },
     {
       decisionKind: "decision-kind/departure",

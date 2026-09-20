@@ -1,6 +1,6 @@
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import { alanAccountId } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { revokeDeviceSecret } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
-import { resolveDeviceTokenContext } from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
 import {
   actionOnlyLoader,
   capacitorCorsHeaders,
@@ -14,12 +14,12 @@ export const loader = actionOnlyLoader(CORS_METHODS)
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
-  const ctx = await resolveDeviceTokenContext(request)
+  const headers = new Headers()
   const signedIn = await signedInAs(request)
-  if (!ctx.authenticated && signedIn === null) {
+  if (signedIn === null) {
     return Response.json(
       { ok: false, error: "Not authenticated." },
-      { status: 401, headers: withCors(ctx.headers, cors) }
+      { status: 401, headers: withCors(headers, cors) }
     )
   }
 
@@ -29,21 +29,21 @@ export async function action({ request }: { request: Request }): Promise<Respons
   } catch {
     return Response.json(
       { ok: false, error: "Invalid request body." },
-      { status: 400, headers: withCors(ctx.headers, cors) }
+      { status: 400, headers: withCors(headers, cors) }
     )
   }
   const parsed = revokeDeviceSecretSchema.safeParse(body)
   if (!parsed.success) {
     return Response.json(
       { ok: false, error: "Invalid device secret revoke." },
-      { status: 400, headers: withCors(ctx.headers, cors) }
+      { status: 400, headers: withCors(headers, cors) }
     )
   }
 
   await revokeDeviceSecret({
-    userId: ctx.authenticated ? ctx.userId : "",
+    userId: (await alanAccountId(signedIn.contributor)) ?? "",
     deviceId: parsed.data.deviceId,
     request,
   })
-  return Response.json({ ok: true }, { headers: withCors(ctx.headers, cors) })
+  return Response.json({ ok: true }, { headers: withCors(headers, cors) })
 }

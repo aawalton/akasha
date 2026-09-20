@@ -1,6 +1,6 @@
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import { alanAccountId } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { mintDeviceSecret } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
-import { resolveDeviceTokenContext } from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
 import { holdsRouteAccess } from "akasha/alan/web/.server/route-access-holding/route-access-holding.module.code.ts"
 import {
   actionOnlyLoader,
@@ -16,17 +16,17 @@ export const loader = actionOnlyLoader(CORS_METHODS)
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
-  const ctx = await resolveDeviceTokenContext(request)
+  const headers = new Headers()
   const signedIn = await signedInAs(request)
-  if (!ctx.authenticated && signedIn === null) {
+  if (signedIn === null) {
     process.stderr.write("[device-secret] mint refused: the request carries no session\n")
     return Response.json(
       { ok: false, error: "Not authenticated." },
-      { status: 401, headers: withCors(ctx.headers, cors) }
+      { status: 401, headers: withCors(headers, cors) }
     )
   }
 
-  const userId = ctx.authenticated ? ctx.userId : ""
+  const userId = (await alanAccountId(signedIn.contributor)) ?? ""
 
   if (!(await holdsRouteAccess(userId, ROUTE_TARGETS.DEVICE_SECRET_MINT, request))) {
     process.stderr.write(
@@ -34,7 +34,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     )
     return Response.json(
       { ok: false, error: "Not authenticated." },
-      { status: 401, headers: withCors(ctx.headers, cors) }
+      { status: 401, headers: withCors(headers, cors) }
     )
   }
 
@@ -45,7 +45,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     process.stderr.write("[device-secret] mint refused: the body did not parse as JSON\n")
     return Response.json(
       { ok: false, error: "Invalid request body." },
-      { status: 400, headers: withCors(ctx.headers, cors) }
+      { status: 400, headers: withCors(headers, cors) }
     )
   }
   const parsed = mintDeviceSecretSchema.safeParse(body)
@@ -53,7 +53,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     process.stderr.write("[device-secret] mint refused: the body names no device id\n")
     return Response.json(
       { ok: false, error: "Invalid device secret mint." },
-      { status: 400, headers: withCors(ctx.headers, cors) }
+      { status: 400, headers: withCors(headers, cors) }
     )
   }
   process.stderr.write("[device-secret] mint reached the store\n")
@@ -67,11 +67,11 @@ export async function action({ request }: { request: Request }): Promise<Respons
     process.stderr.write(`[device-secret] mint refused: ${minted.why}\n`)
     return Response.json(
       { ok: false, error: "Device secret not minted." },
-      { status: 500, headers: withCors(ctx.headers, cors) }
+      { status: 500, headers: withCors(headers, cors) }
     )
   }
   return Response.json(
     { ok: true, deviceSecret: minted.deviceSecret },
-    { headers: withCors(ctx.headers, cors) }
+    { headers: withCors(headers, cors) }
   )
 }
