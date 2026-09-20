@@ -4,12 +4,9 @@ import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import {
-  bouncedToSignIn,
-  passingOn,
-} from "akasha/alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.code.ts"
-import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
-import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
-import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
+  type HandoverGuardConfig,
+  handoverGuard,
+} from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
@@ -29,11 +26,10 @@ import {
 import type { Route } from "./+types/root"
 import "akasha/alan/atlas-web/look/alan-atlas-web-look.stylesheet.styles.css"
 
-const AUTH_CONFIG: AuthRouteConfig = {
-  signInPath: "/sign-in",
-  authPaths: ["/sign-in", "/sign-up"],
-  internalApiPaths: ["/api/health", "/api/errors", "/basemap/na-eu.pmtiles", /^\/handover$/],
-  externalRedirectPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
+const GUARD: HandoverGuardConfig = {
+  signInPaths: ["/sign-in", "/sign-up"],
+  openPaths: [/^\/api\/health/, /^\/api\/errors/, /^\/basemap\/na-eu\.pmtiles/, /^\/handover$/],
+  externalReturnPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
 }
 
 export const meta: Route.MetaFunction = () => [
@@ -42,11 +38,9 @@ export const meta: Route.MetaFunction = () => [
 ]
 
 export async function loader({ request, context }: Route.LoaderArgs) {
-  const guarded = await guardedRootData(request, AUTH_CONFIG, context.nonce)
-  if (!(guarded instanceof Response)) return guarded
-  if (!bouncedToSignIn(guarded, AUTH_CONFIG.signInPath)) return guarded
-  if ((await signedInAs(ATLAS_SITE, request)) === null) return guarded
-  return data({ nonce: context.nonce }, { headers: passingOn(guarded) })
+  const bounce = await handoverGuard(ATLAS_SITE, request, GUARD)
+  if (bounce !== null) return bounce
+  return data({ nonce: context.nonce })
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

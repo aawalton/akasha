@@ -568,6 +568,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-guard/handover-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-site/handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.ts"}
