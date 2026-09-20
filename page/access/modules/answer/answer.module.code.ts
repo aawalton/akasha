@@ -33,9 +33,7 @@ const UNREAD_PAGE_TYPE =
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 
-export type ReadUser = (
-  request: Request
-) => Promise<{ user: { id: string } | null; headers: Headers }>
+export type ReadUser = (request: Request) => Promise<{ user: object | null; headers: Headers }>
 
 export type PageTypesDeps = {
   readonly readUser: ReadUser

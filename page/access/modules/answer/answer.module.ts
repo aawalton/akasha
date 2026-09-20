@@ -14,6 +14,14 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reader is read as present or absent, and no field of that reader is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Who a request is read as is passed in, so a site says how it knows a reader.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "How many pages a page type has is the count the pages answer with rather than the rows carried.",
     },
