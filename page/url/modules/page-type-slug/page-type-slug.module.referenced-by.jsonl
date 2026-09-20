@@ -44,7 +44,6 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/url/modules/page-href/page-href.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"}

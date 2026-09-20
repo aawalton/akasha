@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"}
 {"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

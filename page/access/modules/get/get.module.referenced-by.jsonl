@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-referrers/use-referrers.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-subpages/use-subpages.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"product/archive-of-worlds/web/routes/_app-layout.tsx"}
