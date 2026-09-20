@@ -8,6 +8,7 @@ export const day20260920 = {
   date: "2026-09-20",
   version: "3.0",
   wisdomWords: 0,
+  intelligenceTopics: 0,
   inboxTasks: 6,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 16,
