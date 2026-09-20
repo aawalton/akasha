@@ -40,11 +40,6 @@ dist/
 # rather than hypothetical.
 *.tmp.ts
 
-# What vite leaves under a web tree. Three of the four web trees carry a .gitignore
-# of their own naming it; web-capacitor carries none, so its 18 woff2 font files were
-# untracked and unignored at once — invisible to an audit that judges what the index
-# names, and carrying a NUL byte each the moment a `git add -A` brought them in.
-alan/web-capacitor/build/
 
 # The scratch a web build is written into, and the previous build held aside for
 # the moment between the two renames that swap it. A build that fails leaves the
