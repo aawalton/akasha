@@ -6,4 +6,19 @@ export const store = {
   slug: "store",
   definition: "the store the page rows are read and written through",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape attaches for a signed-in reader rather than for a token the store holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A store told its owner needs no token, and a store told none reads one off a jwt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A store with no token arms no refresh.",
+    },
+  ],
 } as const satisfies Module

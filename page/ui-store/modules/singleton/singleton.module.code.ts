@@ -1,5 +1,4 @@
 import type { ContentPagePersistencePort } from "akasha/page/ui-store/collection/modules/content-persistence/content-persistence.module.code.ts"
-import type { FetchImpl } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import type { PagesPersistencePort } from "akasha/page/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   createPagesStore,
@@ -36,8 +35,6 @@ let persistencePort: PagesPersistencePort | null = null
 
 let contentPersistencePort: ContentPagePersistencePort | null = null
 
-let fileBackingFetch: FetchImpl | null = null
-
 let envReadyResolve: (() => undefined) | null = null
 const envReadyPromise: Promise<void> = new Promise((resolve) => {
   envReadyResolve = () => {
@@ -49,14 +46,9 @@ const envReadyPromise: Promise<void> = new Promise((resolve) => {
 export function getPagesStore(): Promise<PagesStore> {
   if (storePromise === null) {
     storePromise = Promise.resolve(
-      createPagesStore(
-        persistencePort,
-        250,
-        () => {
-          contentPersistencePort?.clear()
-        },
-        fileBackingFetch === null ? {} : { fetchImpl: fileBackingFetch }
-      )
+      createPagesStore(persistencePort, 250, () => {
+        contentPersistencePort?.clear()
+      })
     )
   }
   return storePromise
@@ -78,15 +70,6 @@ export async function awaitPagesStoreReady(): Promise<PagesStore> {
   return store
 }
 
-export function configurePagesStoreFetch(fetchImpl: FetchImpl | null): undefined {
-  fileBackingFetch = fetchImpl
-  if (storePromise !== null && fetchImpl !== null) {
-    console.warn(
-      "[pages-ui-store] configurePagesStoreFetch called after store creation — the roster and every file-backed page type are being read over the default fetch"
-    )
-  }
-}
-
 export function configureContentPersistence(port: ContentPagePersistencePort | null): undefined {
   contentPersistencePort = port
 }
@@ -96,15 +79,20 @@ export function getContentPersistence(): ContentPagePersistencePort | null {
 }
 
 export interface ConfigurePagesStoreAuthArgs {
-  readonly supabaseUrl: string
-  readonly supabaseAnonKey: string
+  readonly supabaseUrl?: string
+  readonly supabaseAnonKey?: string
   readonly jwt: string | null
+  readonly owner?: string | null
   readonly refreshAuth?: () => undefined | Promise<void>
 }
 
 export function configurePagesStoreAuth(args: ConfigurePagesStoreAuthArgs): Promise<void> {
   return getPagesStore().then((store) => {
-    store.setAuth({ jwt: args.jwt, refreshAuth: args.refreshAuth })
+    store.setAuth({
+      jwt: args.jwt,
+      ...(args.owner === undefined ? {} : { owner: args.owner }),
+      refreshAuth: args.refreshAuth,
+    })
     if (envReadyResolve !== null) {
       envReadyResolve()
       envReadyResolve = null

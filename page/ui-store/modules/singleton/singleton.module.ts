@@ -6,4 +6,10 @@ export const singleton = {
   slug: "singleton",
   definition: "the one page store a browser tab holds",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A supabase url and anon key are taken here and reach nothing.",
+    },
+  ],
 } as const satisfies Module

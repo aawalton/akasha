@@ -67,6 +67,7 @@ export interface FileBackingOptions {
 
 export interface StoreAuthArgs {
   readonly jwt: string | null
+  readonly owner?: string | null
   readonly refreshAuth?: () => undefined | Promise<void>
 }
 
@@ -111,8 +112,9 @@ export function createPagesStore(
   const deliveredByShape = new Map<string, Set<string>>()
 
   let token: string | null = null
+  let signedIn = false
   let refreshAuth: (() => undefined | Promise<void>) | null = null
-  let ownerSub: string | null = null
+  let owner: string | null = null
   let refreshInFlight = false
   let proactiveTimer: ReturnType<typeof setTimeout> | null = null
   let registryHolder: AcquireRegistry | null = null
@@ -246,7 +248,7 @@ export function createPagesStore(
   }
 
   const attach = (descriptor: ShapeDescriptor): (() => undefined) | null => {
-    if (token === null) return null
+    if (!signedIn) return null
     const { pageTypeSlug, shapeKey } = descriptor
     if (pageTypeSlug === undefined) return attachEmpty(shapeKey)
     askRoster()
@@ -320,19 +322,25 @@ export function createPagesStore(
     isFilteredReady: (shapeKey) => isShapeReadyIn(registry, shapeKey),
     whenFilteredReady: (shapeKey) => whenShapeReadyIn(registry, shapeKey),
     setAuth: (args) => {
-      const incomingSub = args.jwt === null ? null : decodeJwtSub(args.jwt)
-      const decision = decideIdentityChange(ownerSub, incomingSub)
+      const told = args.owner !== undefined
+      const incoming = told
+        ? (args.owner ?? null)
+        : args.jwt === null
+          ? null
+          : decodeJwtSub(args.jwt)
+      const decision = decideIdentityChange(owner, incoming)
       applyIdentityChange(decision, handle.controller, resume, deliveredByShape)
       if (decision.wipe) {
         persistence?.clear()
         onIdentityWipe?.()
       }
-      ownerSub = decision.nextOwnerSub
-      const hadToken = token !== null
+      owner = decision.nextOwner
+      const hadReader = signedIn
       token = args.jwt
+      signedIn = told ? incoming !== null : args.jwt !== null
       if (args.refreshAuth !== undefined) refreshAuth = args.refreshAuth
       armProactiveRefresh()
-      if (!hadToken && args.jwt !== null) attachDetachedShapes(registry)
+      if (!hadReader && signedIn) attachDetachedShapes(registry)
     },
   }
 }

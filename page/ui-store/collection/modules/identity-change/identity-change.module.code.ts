@@ -2,20 +2,20 @@ import type { PagesSyncController } from "akasha/page/ui-store/collection/module
 
 export interface IdentityChangeDecision {
   readonly wipe: boolean
-  readonly nextOwnerSub: string | null
+  readonly nextOwner: string | null
 }
 
 export function decideIdentityChange(
-  ownerSub: string | null,
-  incomingSub: string | null
+  owner: string | null,
+  incoming: string | null
 ): IdentityChangeDecision {
-  if (incomingSub !== null && ownerSub !== null && incomingSub !== ownerSub) {
-    return { wipe: true, nextOwnerSub: incomingSub }
+  if (incoming !== null && owner !== null && incoming !== owner) {
+    return { wipe: true, nextOwner: incoming }
   }
-  if (incomingSub !== null && ownerSub === null) {
-    return { wipe: false, nextOwnerSub: incomingSub }
+  if (incoming !== null && owner === null) {
+    return { wipe: false, nextOwner: incoming }
   }
-  return { wipe: false, nextOwnerSub: ownerSub }
+  return { wipe: false, nextOwner: owner }
 }
 
 type WipeController = Pick<PagesSyncController, "isReady" | "resetAll">
