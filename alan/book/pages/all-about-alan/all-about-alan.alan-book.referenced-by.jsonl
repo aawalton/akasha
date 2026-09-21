@@ -59,7 +59,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/used-ev-criteria-unlisted.finding.ts","id":"01a06555-9f3f-7c1c-9393-33cae2b79328"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/vanguard-triple-concentration.finding.ts","id":"01a06555-9f3f-71c7-bb01-c7a527c7937e"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/wrong-utility-priced-in.finding.ts","id":"01a06555-9f3f-77f0-bfb0-65a5e38658fc"}
-{"propertySlug":"part-of-collections","path":"alan/book/pages/all-about-alan/sections/abby.book-section.ts","id":"01a06594-c686-7006-a263-17503d3c33ab"}
 {"propertySlug":"part-of-collections","path":"alan/book/pages/all-about-alan/sections/aelwyn.book-section.ts","id":"01a06594-c686-7007-8db3-b12191ad3b63"}
 {"propertySlug":"part-of-collections","path":"alan/book/pages/all-about-alan/sections/aine.book-section.ts","id":"01a06594-c686-7008-b2fa-f1c8365475ad"}
 {"propertySlug":"part-of-collections","path":"alan/book/pages/all-about-alan/sections/ali.book-section.ts","id":"01a06594-c686-7009-9a69-2df478fe3a57"}
@@ -293,7 +292,6 @@
 {"propertySlug":"part-of-collections","path":"alan/book/pages/all-about-alan/sections/zadi.book-section.ts","id":"01a06594-c687-700b-9151-cb9f882d7013"}
 {"propertySlug":"part-of-collections","path":"alan/book/pages/all-about-alan/sections/zeli.book-section.ts","id":"01a06594-c687-700c-9125-8d91b51525c1"}
 {"propertySlug":"parts","path":"alan/book/alan-book.page-type.ts","id":"01a06d23-26a9-7d50-bca7-7aa5849e1c17"}
-{"propertySlug":"section-of","path":"alan/book/pages/all-about-alan/sections/abby.book-section.ts","id":"01a06594-c686-7006-a263-17503d3c33ab"}
 {"propertySlug":"section-of","path":"alan/book/pages/all-about-alan/sections/aelwyn.book-section.ts","id":"01a06594-c686-7007-8db3-b12191ad3b63"}
 {"propertySlug":"section-of","path":"alan/book/pages/all-about-alan/sections/aine.book-section.ts","id":"01a06594-c686-7008-b2fa-f1c8365475ad"}
 {"propertySlug":"section-of","path":"alan/book/pages/all-about-alan/sections/ali.book-section.ts","id":"01a06594-c686-7009-9a69-2df478fe3a57"}
