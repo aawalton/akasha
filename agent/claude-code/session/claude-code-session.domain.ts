@@ -9,7 +9,6 @@ export const claudeCodeSession = {
     "domain/claude-code-session-store",
     "module/session-jsonl",
     "module/session-jsonl-schema",
-    "module/session-stream",
     "module/session-watch",
     "module/transcript-materialize",
   ],

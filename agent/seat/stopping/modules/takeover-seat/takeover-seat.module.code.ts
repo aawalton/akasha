@@ -49,10 +49,10 @@ export async function takeoverSeat(agentId: string): Promise<TakenSeat> {
   const tookOver = killTarget.kind === "signal" ? await stopHolder(killTarget.pids, name) : false
 
   try {
-    await materializeLocalTranscript({ agentId, sessionId, cwd: SEAT_START_DIR })
+    materializeLocalTranscript({ agentId, sessionId, cwd: SEAT_START_DIR })
   } catch (err) {
     process.stderr.write(
-      `no stored transcript for agent ${agentId}; the resume may fail: ` +
+      `no transcript on this workstation for agent ${agentId}; the resume may fail: ` +
         `${err instanceof Error ? err.message : String(err)}\n`
     )
   }

@@ -4,20 +4,16 @@ export const sessionWatch = {
   id: "01a06983-278f-7765-a092-a4267cf79118",
   type: "page-type/module",
   slug: "session-watch",
-  definition: "a live transcript found and recorded, and streamed as it is written",
+  definition: "a live transcript found and recorded on the seat",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript is found whether or not an object store is configured.",
+      statement: "A transcript found is recorded on the seat that owns it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript found is recorded on the seat before anything is streamed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A transcript is streamed only where an object store is configured.",
+      statement: "A transcript stays on the workstation that wrote it.",
     },
   ],
 } as const satisfies Module

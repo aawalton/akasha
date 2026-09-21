@@ -61,7 +61,7 @@ export interface ResumeSeatDeps {
   readonly resolveTarget: (agentId: string) => Promise<ResolvedResumeTarget>
   readonly decideGuard: (input: SpawnGuardInput) => SpawnGuardDecision
   readonly liveSessionHolds: (name: string) => Promise<boolean>
-  readonly materializeTranscript: (input: MaterializeInput) => Promise<MaterializeTranscriptResult>
+  readonly materializeTranscript: (input: MaterializeInput) => MaterializeTranscriptResult
   readonly clearRequestedAction: (agentId: string) => Promise<void>
   readonly terminatePriorTree: (agentId: string) => Promise<readonly number[]>
   readonly launch: (opts: LaunchSeatOpts) => Promise<LaunchSeatResult>
@@ -119,7 +119,7 @@ export async function resumeSeat(
   })
 
   if (plan.materializeTranscript && sessionId !== null) {
-    await deps.materializeTranscript({
+    deps.materializeTranscript({
       agentId: input.agentId,
       sessionId,
       cwd: SEAT_START_DIR,

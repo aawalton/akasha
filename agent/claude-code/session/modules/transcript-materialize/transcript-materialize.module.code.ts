@@ -1,20 +1,13 @@
-import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { sanitizeTranscriptForResume } from "akasha/agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts"
-import {
-  getDefaultObjectStore,
-  readSessionObject,
-  sessionObjectKeyFor,
-} from "akasha/agent/claude-code/session/modules/session-stream/session-stream.module.code.ts"
 import { sessionProjectDir } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
-import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-config/seaweedfs-config.module.code.ts"
 
 const SessionIdLine = SHAPE.looseObject({ sessionId: SHAPE.string().optional() })
 
 export interface MaterializeTranscriptResult {
   readonly path: string
-  readonly downloaded: boolean
 }
 
 function transcriptRecordCount(text: string, sessionId: string): number {
@@ -28,14 +21,6 @@ function transcriptRecordCount(text: string, sessionId: string): number {
     } catch {}
   }
   return count
-}
-
-function decideResumeSource(facts: {
-  localRecords: number
-  remoteRecords: number
-}): "keep-local" | "write-remote" | "fail" {
-  if (facts.localRecords === 0 && facts.remoteRecords === 0) return "fail"
-  return facts.remoteRecords > facts.localRecords ? "write-remote" : "keep-local"
 }
 
 function sanitizeResumeTranscriptInPlace(path: string, text: string): undefined {
@@ -52,86 +37,22 @@ function sanitizeResumeTranscriptInPlace(path: string, text: string): undefined 
   )
 }
 
-export async function materializeLocalTranscript(opts: {
+export function materializeLocalTranscript(opts: {
   agentId: string
   sessionId: string
   cwd: string
-}): Promise<MaterializeTranscriptResult> {
-  const projDir = sessionProjectDir(opts.cwd)
-  const localPath = `${projDir}/${opts.sessionId}.jsonl`
+}): MaterializeTranscriptResult {
+  const localPath = `${sessionProjectDir(opts.cwd)}/${opts.sessionId}.jsonl`
+  const localText = existsSync(localPath) ? readFileSync(localPath, "utf8") : null
 
-  const localStands = existsSync(localPath)
-  const localText = localStands ? readFileSync(localPath, "utf8") : null
-  const localRecords = localText === null ? 0 : transcriptRecordCount(localText, opts.sessionId)
-  const localBytes = localStands ? statSync(localPath).size : 0
-
-  const store = getDefaultObjectStore()
-  if (store === null) {
-    if (localRecords > 0) {
-      sanitizeResumeTranscriptInPlace(localPath, localText ?? "")
-      return { path: localPath, downloaded: false }
-    }
-    const missing = seaweedFsMissingEnvVars()
+  if (localText === null || transcriptRecordCount(localText, opts.sessionId) === 0) {
     throw dataError(
-      `SeaweedFS object store unavailable — set ${missing.join(", ")} in ~/.secrets.env. ` +
-        "Source the creds from the in-cluster `seaweedfs-creds` Secret " +
-        "(kubectl -n seaweedfs get secret seaweedfs-creds -o jsonpath='{.data.<key>}' | base64 -d)."
+      `no transcript for agent ${opts.agentId} at ${localPath} — nothing to resume. ` +
+        "A transcript is kept on the workstation that wrote it, so one lost there is gone; " +
+        "launch a fresh seat with `akasha seat start`."
     )
   }
 
-  const key = sessionObjectKeyFor(opts.agentId)
-  const head = await store.head(key).catch(() => null)
-  const remoteAvailable = head != null && head.size > 0
-
-  if (!remoteAvailable) {
-    if (localRecords > 0) {
-      sanitizeResumeTranscriptInPlace(localPath, localText ?? "")
-      return { path: localPath, downloaded: false }
-    }
-    throw dataError(
-      `no transcript object for agent ${opts.agentId} (key ${key}) — nothing to resume. ` +
-        "The agent never streamed a transcript, or its session was never persisted."
-    )
-  }
-
-  if (localRecords > 0 && head.size <= localBytes) {
-    sanitizeResumeTranscriptInPlace(localPath, localText ?? "")
-    return { path: localPath, downloaded: false }
-  }
-
-  let remoteBytes: Uint8Array
-  try {
-    remoteBytes = await readSessionObject(store, key)
-  } catch (e) {
-    const msg = e instanceof Error ? e.message : String(e)
-    throw dataError(`failed to read session object: ${msg}`)
-  }
-  const remoteText = new TextDecoder().decode(remoteBytes)
-  const remoteRecords = transcriptRecordCount(remoteText, opts.sessionId)
-
-  const decision = decideResumeSource({ localRecords, remoteRecords })
-
-  if (decision === "write-remote") {
-    mkdirSync(projDir, { recursive: true })
-    writeFileSync(localPath, remoteBytes)
-    sanitizeResumeTranscriptInPlace(localPath, remoteText)
-    return { path: localPath, downloaded: true }
-  }
-
-  if (decision === "keep-local") {
-    console.warn(
-      `[transcript-materialize] object-store copy for agent ${opts.agentId} (key ${key}) ` +
-        `carries ${remoteRecords} record(s) for session ${opts.sessionId} against the local ` +
-        `copy's ${localRecords} — keeping the more complete local transcript at ${localPath}.`
-    )
-    sanitizeResumeTranscriptInPlace(localPath, localText ?? "")
-    return { path: localPath, downloaded: false }
-  }
-
-  throw dataError(
-    `object-store transcript for agent ${opts.agentId} (key ${key}) carries no records for ` +
-      `session ${opts.sessionId} — it is foreign/cross-contaminated or empty. Refusing to ` +
-      "resume into empty context. The session's prior context is not recoverable from the " +
-      "object store; launch a fresh seat with `akasha seat start`."
-  )
+  sanitizeResumeTranscriptInPlace(localPath, localText)
+  return { path: localPath }
 }
