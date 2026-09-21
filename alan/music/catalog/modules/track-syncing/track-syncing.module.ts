@@ -26,10 +26,6 @@ export const trackSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track states the disc it sits on as well as its position on that disc.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A track states whether the provider marks it explicit.",
     },
     {

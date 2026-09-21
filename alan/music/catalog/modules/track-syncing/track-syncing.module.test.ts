@@ -29,8 +29,6 @@ const ADDS = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const MINUTES = `${unit.slug}/${minutes.slug}` as const
 
-const TODAY = "2026-09-15"
-
 const ARTIST = "sylvia-daley"
 
 const RELEASE = "sylvia-daley-pixie"
@@ -66,7 +64,6 @@ function valuesFor(
     slug: ELF,
     track: one,
     was,
-    today: TODAY,
   })
 }
 
@@ -113,7 +110,6 @@ function syncing(
     filing: filingOf([]),
     album: album(...items),
     tracks,
-    today: TODAY,
     edit: writingInto(wrote),
   })
   return wrote.filter((one) => one.pageTypeSlug === "track")
@@ -123,7 +119,6 @@ test("a track arrives started by nobody and heard for none of its length", () =>
   const values = valuesFor(track("t7", "Elf", 90_000, 3))
   expect(values["title"]).toBe("Elf")
   expect(values["partOfCollections"]).toEqual(["release/sylvia-daley-pixie"])
-  expect(values["position"]).toBe(3)
   expect(values["ownLength"]).toBe(1.5)
   expect(values["unit"]).toBe(MINUTES)
   expect(values["status"]).toBe("not-started")
@@ -131,9 +126,9 @@ test("a track arrives started by nobody and heard for none of its length", () =>
   expect(values["type"]).toBe("track")
 })
 
-test("a track states the disc it sits on and whether it is explicit", () => {
+test("a track states whether the provider marks it explicit", () => {
   const values = valuesFor(track("t7", "Elf", 90_000, 3, 2))
-  expect(values["discNumber"]).toBe(2)
+  expect(values["discNumber"]).toBeUndefined()
   expect(values["explicit"]).toBe(false)
 })
 
@@ -200,15 +195,10 @@ test("a track under an artist who has no page names no song", () => {
   expect(songForTrack(strangers, ARTIST, one.name)).toBeNull()
 })
 
-test("a track names the one provider it was read from, stamped with the day it was read", () => {
-  expect(valuesFor(track("t7", "Elf", 90_000, 3))["externalIdentity"]).toEqual([
-    {
-      source: "spotify",
-      externalId: "t7",
-      externalLink: "https://open.spotify.com/track/t7",
-      lastSyncedAt: TODAY,
-    },
-  ])
+test("a track states the id Spotify gives it only on the carrier naming each release", () => {
+  const values = valuesFor(track("t7", "Elf", 90_000, 3))
+  expect(values["externalIdentity"]).toBeUndefined()
+  expect(values["position"]).toBeUndefined()
 })
 
 test("the progress and the grade a person gave a track outlive the sweep", () => {
@@ -229,7 +219,6 @@ function editsOf(filing: Filing, asked: string[], ...items: readonly AlbumTrack[
     filing,
     album: album(...items),
     tracks: nothingFiled(),
-    today: TODAY,
     edit: (pageTypeSlug, slug) => {
       asked.push(`${pageTypeSlug}/${slug}`)
       return { at: ADDS, given: { at: slug, body: "" } }
@@ -277,7 +266,6 @@ test("a release whose tracks are filed is marked so within the run that filed th
     filing: filingOf([]),
     album: album(track("t0", "One", 60_000, 1)),
     tracks,
-    today: TODAY,
     edit: (_pageTypeSlug, slug) => ({ at: ADDS, given: { at: slug, body: "" } }),
   })
   expect(tracks.byRelease.has(RELEASE)).toBe(true)

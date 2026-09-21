@@ -329,7 +329,6 @@ export async function syncReleases(
           filing,
           album: whole,
           tracks,
-          today,
           edit: editing,
         })
         changes.push(...edits.edits)
@@ -348,7 +347,6 @@ export async function syncReleases(
           filing,
           album: whole,
           tracks,
-          today,
           edit: editing,
         })
         changes.push(...edits.edits)

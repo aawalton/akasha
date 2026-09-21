@@ -1,7 +1,3 @@
-import {
-  identitiesWith,
-  idFrom,
-} from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import {
@@ -29,8 +25,6 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const SOURCE = "spotify"
-
 const TRACK = "track"
 
 const SONG = "song"
@@ -42,8 +36,6 @@ const UNDER_RELEASE = `${RELEASE}/` as const
 const MINUTES = `${unit.slug}/${minutes.slug}` as const
 
 const NOT_STARTED = "not-started"
-
-const IDENTITY = "externalIdentity"
 
 const CARRIED_BY = "carriedBy"
 
@@ -112,7 +104,7 @@ export function tracksFiledIn(root: string): Tracked {
   for (const one of valuesOfType(root, TRACK)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
-    rows.push({ slug, externalId: idFrom(one.value[IDENTITY], SOURCE) })
+    rows.push({ slug, externalId: null })
     for (const carrier of recordsIn(one.value[CARRIED_BY])) {
       rows.push({ slug, externalId: textIn(carrier, EXTERNAL_ID) })
     }
@@ -144,7 +136,6 @@ export function trackValues(args: {
   readonly slug: string
   readonly track: AlbumTrack
   readonly was: Value
-  readonly today: string
 }): Value {
   return {
     ...args.was,
@@ -155,8 +146,6 @@ export function trackValues(args: {
     trackType: trackTypeFor(args.track.name),
     trackKey: trackKeyFor(args.track),
     partOfCollections: collectionsWith(args.was[PART_OF], `${UNDER_RELEASE}${args.releaseSlug}`),
-    position: args.track.track_number,
-    discNumber: args.track.disc_number,
     explicit: args.track.explicit,
     trackArtist: args.track.artists.map((one) => ({
       externalId: one.id,
@@ -165,12 +154,6 @@ export function trackValues(args: {
     ownLength: trackMinutes(args.track),
     unit: MINUTES,
     carriedBy: carriersWith(args.was[CARRIED_BY], carrierFor(args.releaseSlug, args.track)),
-    externalIdentity: identitiesWith(args.was[IDENTITY], {
-      source: SOURCE,
-      externalId: args.track.id,
-      externalLink: args.track.external_urls.spotify,
-      lastSyncedAt: args.today,
-    }),
     type: TRACK,
     slug: args.slug,
   }
@@ -188,7 +171,6 @@ export function trackEdits(args: {
   readonly filing: Filing
   readonly album: AlbumWithTracks
   readonly tracks: Tracked
-  readonly today: string
   readonly edit: Editing
 }): Edited {
   const edits: Asking[] = []
@@ -207,7 +189,6 @@ export function trackEdits(args: {
       slug,
       track,
       was: args.tracks.held.get(slug) ?? {},
-      today: args.today,
     })
     args.tracks.held.set(slug, values)
     edits.push(args.edit(TRACK, slug, values))
