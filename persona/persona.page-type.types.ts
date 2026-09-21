@@ -19,6 +19,7 @@ import type { Portrait } from "akasha/persona/properties/portrait.file-property.
 import type { Purpose } from "akasha/persona/properties/purpose.text-property.types.ts"
 import type { ValueSlug } from "akasha/persona/properties/value-slug.text-property.types.ts"
 import type { VoiceInstruction } from "akasha/persona/properties/voice-instruction.text-property.types.ts"
+import type { VoiceReference } from "akasha/persona/properties/voice-reference.relation-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/persona/properties/voice-reference-sha256.text-property.types.ts"
 import type { WallpaperImages } from "akasha/persona/properties/wallpaper-images.relation-property.types.ts"
 
@@ -34,6 +35,7 @@ export type Persona = Domain & {
   championedDomain?: ChampionedDomain
   voiceInstruction?: VoiceInstruction
   voiceReferenceSha256?: VoiceReferenceSha256
+  voiceReference?: VoiceReference
   pointsBeforeToday?: PointsBeforeToday
   pointsToday?: PointsToday
   pointsTotal?: PointsTotal

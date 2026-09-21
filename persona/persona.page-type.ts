@@ -83,6 +83,7 @@ export const persona = {
     "text-property/last-messaged-at",
     "text-property/purpose",
     "text-property/value-slug",
+    "relation-property/voice-reference",
     "text-property/voice-instruction",
     "text-property/voice-reference-sha256",
     "number-property/points-before-today",
@@ -101,6 +102,7 @@ export const persona = {
     { pageProperty: "relation-property/championed-domain", required: false, many: false },
     { pageProperty: "text-property/voice-instruction", required: false, many: false },
     { pageProperty: "text-property/voice-reference-sha256", required: false, many: false },
+    { pageProperty: "relation-property/voice-reference", required: false, many: false },
     {
       pageProperty: "number-property/points-before-today",
       required: false,

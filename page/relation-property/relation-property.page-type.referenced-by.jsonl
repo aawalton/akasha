@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/desktop-wallpaper.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/mobile-wallpaper.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/origin.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/voice-reference.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/wallpaper-images.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/review-session/properties/session-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/wallpaper-notification/properties/notification-persona.relation-property.ts"}
