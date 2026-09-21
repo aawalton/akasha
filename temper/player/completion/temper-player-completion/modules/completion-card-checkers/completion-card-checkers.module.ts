@@ -15,5 +15,13 @@ export const completionCardCheckers = {
       decisionKind: "decision-kind/departure",
       statement: "A card stating no picker is one leaf at the empty path.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The story zone quest branch is named by a task rather than offered by a picker.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A branch the picker offers is counted again in the whole card.",
+    },
   ],
 } as const satisfies Module

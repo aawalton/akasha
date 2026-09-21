@@ -15,5 +15,9 @@ export const skillPointZoneSources = {
       decisionKind: "decision-kind/constraint",
       statement: "A zone is named by the two-letter key the game knows that zone by.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story zone holds quest skill points and lies outside contested territory.",
+    },
   ],
 } as const satisfies Module

@@ -9,7 +9,10 @@ import { resolveSkillPointItemProgress } from "akasha/temper/player/completion/t
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
-import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import {
+  SKILL_POINT_STORY_ZONE_SOURCES,
+  SKILL_POINT_ZONE_SOURCES,
+} from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import { SKILL_MORPHS_CHECKER } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 
 const DAILY_WRIT_TOTAL = 7
@@ -152,6 +155,11 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
             return (skillPoints.zoneQuests[sourceKey] ?? 0) >= zone.maxQuests
           }
           return SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxQuests > 0).every(
+            (zone) => (skillPoints.zoneQuests[zone.key] ?? 0) >= zone.maxQuests
+          )
+        }
+        case "storyZoneQuests": {
+          return SKILL_POINT_STORY_ZONE_SOURCES.every(
             (zone) => (skillPoints.zoneQuests[zone.key] ?? 0) >= zone.maxQuests
           )
         }

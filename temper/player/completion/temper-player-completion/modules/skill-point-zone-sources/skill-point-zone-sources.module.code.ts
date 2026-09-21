@@ -23,9 +23,9 @@ export const SKILL_POINT_ZONE_SOURCES: readonly SkillPointZoneSource[] = [
   { key: "EP4", label: "Eastmarch", maxQuests: 3, maxSkyshards: 16 },
   { key: "EP5", label: "The Rift", maxQuests: 3, maxSkyshards: 16 },
   { key: "CH", label: "Coldharbour", maxQuests: 3, maxSkyshards: 16 },
-  { key: "CY", label: "Cyrodiil", maxQuests: 0, maxSkyshards: 46 },
+  { key: "CY", label: "Cyrodiil", maxQuests: 0, maxSkyshards: 46, pvp: true },
   { key: "CL", label: "Craglorn", maxQuests: 0, maxSkyshards: 18 },
-  { key: "IC", label: "Imperial City", maxQuests: 1, maxSkyshards: 13 },
+  { key: "IC", label: "Imperial City", maxQuests: 1, maxSkyshards: 13, pvp: true },
   { key: "WR", label: "Wrothgar", maxQuests: 3, maxSkyshards: 17 },
   { key: "HB", label: "Hew's Bane", maxQuests: 6, maxSkyshards: 6 },
   { key: "GC", label: "Gold Coast", maxQuests: 8, maxSkyshards: 6 },
@@ -45,3 +45,6 @@ export const SKILL_POINT_ZONE_SOURCES: readonly SkillPointZoneSource[] = [
   { key: "WW", label: "West Weald", maxQuests: 9, maxSkyshards: 18 },
   { key: "SO", label: "Solstice", maxQuests: 9, maxSkyshards: 18 },
 ]
+
+export const SKILL_POINT_STORY_ZONE_SOURCES: readonly SkillPointZoneSource[] =
+  SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxQuests > 0 && zone.pvp !== true)

@@ -8,7 +8,10 @@ import type {
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
-import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import {
+  SKILL_POINT_STORY_ZONE_SOURCES,
+  SKILL_POINT_ZONE_SOURCES,
+} from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 function buildGeneralProgress(sp: SkillPointProgress): readonly SkillPointSourceProgress[] {
   return SKILL_POINT_GENERAL_SOURCES.map((source) => ({
@@ -68,10 +71,26 @@ function sumProgress(entries: readonly SkillPointSourceProgress[]): {
   return { count, total }
 }
 
+export function storyZoneQuestsProgress(sp: SkillPointProgress | null | undefined): {
+  current: number
+  total: number
+} {
+  let current = 0
+  let total = 0
+  for (const zone of SKILL_POINT_STORY_ZONE_SOURCES) {
+    current += sp ? (sp.zoneQuests[zone.key] ?? 0) : 0
+    total += zone.maxQuests
+  }
+  return { current, total }
+}
+
 export function resolveSkillPointItemProgress(
   sp: SkillPointProgress | null | undefined,
   itemPath: readonly (string | number)[]
 ): { current: number; total: number } | undefined {
+  if (itemPath.length === 1 && String(itemPath[0]) === "storyZoneQuests") {
+    return storyZoneQuestsProgress(sp)
+  }
   if (itemPath.length !== 2) return undefined
   const branch = String(itemPath[0])
   const key = String(itemPath[1])

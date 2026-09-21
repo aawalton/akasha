@@ -22,6 +22,7 @@ export interface SkillPointZoneSource {
   label: string
   maxQuests: number
   maxSkyshards: number
+  pvp?: boolean
 }
 
 export interface SkillPointDungeonSource {
