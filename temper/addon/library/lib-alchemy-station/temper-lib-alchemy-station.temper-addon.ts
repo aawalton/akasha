@@ -37,4 +37,5 @@ export const temperLibAlchemyStation = {
       statement: "The game reaches every tab through one global name.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

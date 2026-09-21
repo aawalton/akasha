@@ -6,6 +6,7 @@ import type { AddonDdsFolder } from "akasha/temper/addon/properties/addon-dds-fo
 import type { AddonGitIgnore } from "akasha/temper/addon/properties/addon-git-ignore.file-property.types.ts"
 import type { AddonIconsFolder } from "akasha/temper/addon/properties/addon-icons-folder.named-folder-property.types.ts"
 import type { AddonImageFolder } from "akasha/temper/addon/properties/addon-image-folder.named-folder-property.types.ts"
+import type { AddonLibrary } from "akasha/temper/addon/properties/addon-library.boolean-property.types.ts"
 import type { AddonManifest } from "akasha/temper/addon/properties/addon-manifest.file-property.types.ts"
 import type { Bindings } from "akasha/temper/addon/properties/bindings.file-property.types.ts"
 import type { BundleEntry } from "akasha/temper/addon/properties/bundle-entry.relation-property.types.ts"
@@ -27,4 +28,5 @@ export type TemperAddon = Service & {
   addonImageFolder?: AddonImageFolder
   addonBinFolder?: AddonBinFolder
   addonDdsFile?: AddonDdsFile
+  library?: AddonLibrary
 }

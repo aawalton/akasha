@@ -69,4 +69,5 @@ export const temperLibAddonMenu = {
       statement: "A control reads its value through a getter the declaring add-on supplies.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

@@ -271,4 +271,5 @@ export const temperLibSets = {
       statement: "Japanese is not among the languages the library counts as supported.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

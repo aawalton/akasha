@@ -75,4 +75,5 @@ export const temperLibSavedVars = {
       statement: "A table is iterated raw only where LibLua5.2 is loaded.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

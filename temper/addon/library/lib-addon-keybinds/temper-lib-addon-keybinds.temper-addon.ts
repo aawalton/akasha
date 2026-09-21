@@ -47,4 +47,5 @@ export const temperLibAddonKeybinds = {
       statement: "Loading twice leaves the first load alone.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

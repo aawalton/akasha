@@ -49,6 +49,7 @@ export const temperAddon = {
     "temper-addon/temper-quests-addon",
     "temper-addon/temper-selector-addon",
     "temper-addon/temper-trading-addon",
+    "boolean-property/addon-library",
   ],
   extends: ["page-type/service"],
   properties: [
@@ -83,6 +84,7 @@ export const temperAddon = {
     },
     { pageProperty: "named-folder-property/addon-bin-folder", required: false, many: false },
     { pageProperty: "named-extension-property/addon-dds-file", required: false, many: false },
+    { pageProperty: "boolean-property/addon-library", required: false, many: false },
   ],
   decisions: [
     {

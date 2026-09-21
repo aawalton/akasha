@@ -5,6 +5,7 @@
 {"definition":"a window other add-ons hang a tab in, built like the game's own journal"}
 {"id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"interfaces":["eso-interface/journal-controls"]}
+{"library":true}
 {"parts":["eso-interface/journal-controls","module/journal-casts","module/journal-core","module/journal-l10n","module/journal-main","module/journal-main-menu","module/journal-public-api","module/journal-shape","module/journal-sort-filter-list","module/journal-state","module/journal-tabs","module/journal-tooltip-colors","module/journal-tooltip-extension","module/journal-tooltips","module/journal-window","type-declaration/journal-control-names","type-declaration/journal-saved-variables","type-declaration/journal-string-ids"]}
 {"slug":"temper-lib-extended-journal"}
 {"type":"page-type/temper-addon"}

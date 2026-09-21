@@ -43,4 +43,5 @@ export const temperLibTreasure = {
       statement: "The pin rows are the rows upstream LibTreasure v24 states.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

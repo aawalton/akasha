@@ -53,4 +53,5 @@ export const temperLibMapPing = {
       statement: "This library needs LibDebugLogger loaded first.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

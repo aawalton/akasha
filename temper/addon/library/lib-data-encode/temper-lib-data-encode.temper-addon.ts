@@ -56,4 +56,5 @@ export const temperLibDataEncode = {
       statement: "The game reaches the library through one global name.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

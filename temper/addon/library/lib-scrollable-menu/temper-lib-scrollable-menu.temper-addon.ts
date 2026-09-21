@@ -126,4 +126,5 @@ export const temperLibScrollableMenu = {
       statement: "The game loads this library before every addon that names the library.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

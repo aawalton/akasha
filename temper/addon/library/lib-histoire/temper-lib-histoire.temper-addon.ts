@@ -99,4 +99,5 @@ export const temperLibHistoire = {
       statement: "This library needs LibAddonMenu-2.0 loaded first.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

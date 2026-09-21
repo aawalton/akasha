@@ -75,4 +75,5 @@ export const temperLibCharacterKnowledge = {
       statement: "This library depends on no other add-on.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

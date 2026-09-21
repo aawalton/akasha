@@ -61,4 +61,5 @@ export const temperLibAsync = {
       statement: "The debug logger is used where the debug logger is loaded and skipped otherwise.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

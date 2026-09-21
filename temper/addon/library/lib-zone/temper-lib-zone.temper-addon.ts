@@ -85,4 +85,5 @@ export const temperLibZone = {
       statement: "The slash-command autocompletion needs LibSlashCommander loaded first.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

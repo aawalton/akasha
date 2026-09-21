@@ -57,4 +57,5 @@ export const temperLibMapData = {
       statement: "This library needs LibGPS loaded first.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

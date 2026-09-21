@@ -44,4 +44,5 @@ export const temperLibNotification = {
       statement: "The game reaches the library through two global names for one library.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

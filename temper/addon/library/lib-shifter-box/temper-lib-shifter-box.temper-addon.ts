@@ -75,4 +75,5 @@ export const temperLibShifterBox = {
       statement: "Nothing here reaches a Date.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

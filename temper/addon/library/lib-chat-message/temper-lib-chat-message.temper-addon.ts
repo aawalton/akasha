@@ -52,4 +52,5 @@ export const temperLibChatMessage = {
       statement: "A caller reaches this library through a game global rather than an import.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

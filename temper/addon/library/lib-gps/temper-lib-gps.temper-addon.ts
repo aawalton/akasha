@@ -58,4 +58,5 @@ export const temperLibGps = {
       statement: "This library needs LibChatMessage loaded first.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

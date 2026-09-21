@@ -36,4 +36,5 @@ export const temperLibTableFunctions = {
       statement: "No helper here depends on another addon.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon

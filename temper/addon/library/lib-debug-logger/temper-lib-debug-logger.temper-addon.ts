@@ -55,4 +55,5 @@ export const temperLibDebugLogger = {
       statement: "This library depends on no other addon.",
     },
   ],
+  library: true,
 } as const satisfies TemperAddon
