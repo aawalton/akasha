@@ -27,8 +27,8 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-skill/line-category/temper-skill-line-category.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-skill/line/temper-skill-line.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-skill/temper-scribing-source/temper-scribing-source.page-type.types.ts"}
-{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-world/temper-location-type/temper-location-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-world/temper-source-category/temper-source-category.page-type.types.ts"}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.types.ts"}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/progress/temper-completion-category/temper-completion-category.page-type.types.ts"}
@@ -66,8 +66,8 @@
 {"propertySlug":"page-property","path":"temper/catalog/temper-skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-skill/temper-scribing-source/temper-scribing-source.page-type.ts","id":"01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
+{"propertySlug":"page-property","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
+{"propertySlug":"page-property","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
 {"propertySlug":"page-property","path":"temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts","id":"01a05fcb-fd2c-79e2-b426-908dcfb8bf4a"}
 {"propertySlug":"page-property","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
 {"propertySlug":"page-property","path":"temper/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}

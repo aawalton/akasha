@@ -1,0 +1,12 @@
+import type { TemperDungeon } from "akasha/temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts"
+
+export const ch2 = {
+  id: "01a05fc5-7423-7d4c-85a2-7b0c8eb806e0",
+  type: "page-type/temper-dungeon",
+  slug: "ch2",
+  title: "Crypt of Hearts II",
+  key: "CH2",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
+  rotationPosition: 2,
+  soloDifficulty: "hard",
+} as const satisfies TemperDungeon

@@ -1,0 +1,12 @@
+import type { TemperDungeon } from "akasha/temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts"
+
+export const ug = {
+  id: "01a05fc5-742d-78e6-adc4-0380f8c3ff20",
+  type: "page-type/temper-dungeon",
+  slug: "ug",
+  title: "Unhallowed Grave",
+  key: "UG",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
+  rotationPosition: 15,
+  soloDifficulty: "hard",
+} as const satisfies TemperDungeon

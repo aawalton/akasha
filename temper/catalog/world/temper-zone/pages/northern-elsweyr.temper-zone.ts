@@ -1,0 +1,10 @@
+import type { TemperZone } from "akasha/temper/catalog/world/temper-zone/temper-zone.page-type.types.ts"
+
+export const northernElsweyr = {
+  id: "019e17d9-4bc0-7389-b95f-b42320ebacc6",
+  type: "page-type/temper-zone",
+  slug: "northern-elsweyr",
+  title: "Northern Elsweyr",
+  dropsScripts: true,
+  isDlc: true,
+} as const satisfies TemperZone

@@ -1,4 +1,4 @@
-import type { CapturedAt } from "akasha/temper/catalog/temper-world/properties/captured-at.instant-property.types.ts"
+import type { CapturedAt } from "akasha/temper/catalog/world/properties/captured-at.instant-property.types.ts"
 import type { BagSizes } from "akasha/temper/character/temper-account/properties/bag-sizes.page-property-entry.types.ts"
 import type { CraftingLevels } from "akasha/temper/character/temper-account/properties/crafting-levels.page-property-entry.types.ts"
 import type { Currencies } from "akasha/temper/character/temper-account/properties/currencies.page-property-entry.types.ts"

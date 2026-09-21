@@ -1,0 +1,9 @@
+import type { TemperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.types.ts"
+
+export const rockgrove = {
+  id: "01a06165-cbbf-7001-8677-eb0a85f1f1d9",
+  type: "page-type/temper-world-zone",
+  slug: "rockgrove",
+  title: "Rockgrove",
+  zoneQuests: "jsonl",
+} as const satisfies TemperWorldZone

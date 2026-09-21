@@ -1,0 +1,12 @@
+import type { TemperDungeon } from "akasha/temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts"
+
+export const fg2 = {
+  id: "01a05fc5-7427-74b0-b24d-82ad5fd8c9ba",
+  type: "page-type/temper-dungeon",
+  slug: "fg2",
+  title: "Fungal Grotto II",
+  key: "FG2",
+  questGiver: "temper-quest-giver/maj-al-ragath",
+  rotationPosition: 2,
+  soloDifficulty: "hard",
+} as const satisfies TemperDungeon

@@ -149,7 +149,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/read-chapter-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/written/chapters/properties/written-chapter-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/temper-world/temper-dungeon/properties/quest-giver.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/character/temper-account-character/properties/character-roles.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/character/temper-account/properties/currency-key.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/character/temper-companion-progress/properties/companion-roles.relation-property.ts"}

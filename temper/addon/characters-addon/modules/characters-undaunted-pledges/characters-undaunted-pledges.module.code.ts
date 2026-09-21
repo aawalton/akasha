@@ -2,10 +2,10 @@ import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modu
 import {
   TEMPER_DUNGEONS,
   TEMPER_QUEST_GIVERS,
-} from "akasha/temper/catalog/temper-world/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts"
-import type { TodaysPledge } from "akasha/temper/catalog/temper-world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"
-import { getTodaysPledges as rotationTodaysPledges } from "akasha/temper/catalog/temper-world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"
-import { getSoloDifficulty } from "akasha/temper/catalog/temper-world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
+} from "akasha/temper/catalog/world/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts"
+import type { TodaysPledge } from "akasha/temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"
+import { getTodaysPledges as rotationTodaysPledges } from "akasha/temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"
+import { getSoloDifficulty } from "akasha/temper/catalog/world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
 
 export type UndauntedPledge = TodaysPledge
 

@@ -111,12 +111,12 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-weight/properties/is-standard.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-poison-effect/properties/is-positive.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-skill/properties/is-morph.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-world/temper-catalog-domain/properties/dormant.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-world/temper-zone/properties/drops-scripts.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-world/temper-zone/properties/is-dlc.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/available.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/is-two-handed.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/per-weapon.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/dormant.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-zone/properties/drops-scripts.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-zone/properties/is-dlc.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/character/temper-account/properties/bop-tradeable.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/character/temper-account/properties/bound.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/character/temper-account/properties/crafted.boolean-property.ts"}

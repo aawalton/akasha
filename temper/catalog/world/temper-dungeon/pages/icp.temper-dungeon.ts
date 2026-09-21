@@ -1,0 +1,12 @@
+import type { TemperDungeon } from "akasha/temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts"
+
+export const icp = {
+  id: "01a05fc5-7428-7ef7-b723-7a4d6ffd63cf",
+  type: "page-type/temper-dungeon",
+  slug: "icp",
+  title: "Imperial City Prison",
+  key: "ICP",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
+  rotationPosition: 0,
+  soloDifficulty: "hard",
+} as const satisfies TemperDungeon
