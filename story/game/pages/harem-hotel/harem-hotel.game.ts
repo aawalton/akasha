@@ -58,7 +58,12 @@ export const haremHotel = {
   ],
   defaultDice: "game-mechanic/two-d-ten",
   cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "CLASS", "TITLE"],
-  panels: ["game-panel/hotel-hud", "game-panel/character-sheet", "game-panel/quest-list"],
+  panels: [
+    "game-panel/hotel-hud",
+    "game-panel/character-sheet",
+    "game-panel/quest-list",
+    "game-panel/story-so-far",
+  ],
   loreEntries: "jsonl",
   designEntries: "jsonl",
 } as const satisfies Game

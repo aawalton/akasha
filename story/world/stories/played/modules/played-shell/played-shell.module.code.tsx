@@ -8,9 +8,14 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { usePanelsDrawn } from "akasha/story/game/panel/modules/panel-loading/panel-loading.module.code.ts"
+import {
+  shownIn,
+  usePanelsDrawn,
+} from "akasha/story/game/panel/modules/panel-loading/panel-loading.module.code.ts"
+import { above } from "akasha/story/game/panel/panel-place/pages/above.panel-place.ts"
+import { aside } from "akasha/story/game/panel/panel-place/pages/aside.panel-place.ts"
+import { panelPlace } from "akasha/story/game/panel/panel-place/panel-place.page-type.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
-import { StorySoFar } from "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
@@ -43,6 +48,10 @@ const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min
 const NOTE_LINE = "font-mono text-tertiary text-xs"
 
 const GAME_UNREAD = "The game beside this story went unread, so only its own prose is drawn."
+
+const ABOVE = namedAs(panelPlace.slug, above.slug, null)
+
+const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
 
 function textIn(value: unknown): string {
   return typeof value === "string" ? value : ""
@@ -107,16 +116,15 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   if (chapters.isLoading || turns.isLoading) return null
   if (tail.drawn.length === 0) return null
 
-  const hasPanels = shown.length > 0
-  const panels = <PlayedPanels shown={shown} envelope={envelope} />
+  const drawnAside = shownIn(shown, ASIDE)
+  const hasPanels = drawnAside.length > 0
+  const panels = <PlayedPanels shown={drawnAside} envelope={envelope} />
 
   return (
     <div className={hasPanels ? WIDE_PAGE : NARROW_PAGE}>
       {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
       {hasPanels ? <AwenStatusDrawer statusPanels={panels} /> : null}
-      {modules.storySoFar === undefined ? null : (
-        <StorySoFar chapters={envelope.storySoFar ?? []} />
-      )}
+      <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} />
       <div className={hasPanels ? RUN_WITH_PANELS : RUN_ALONE}>
         <PlayedChannel
           turns={envelope.chapterProse ?? []}

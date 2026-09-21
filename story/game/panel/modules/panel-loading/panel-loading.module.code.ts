@@ -11,6 +11,8 @@ const SLUG_KEY = "slug"
 
 const DRAWN_KEY = "drawn"
 
+const PLACE_KEY = "place"
+
 const DRAWN_ENDING = "js"
 
 const SHOWN = "Panel"
@@ -21,7 +23,17 @@ export type Drawn = (drawing: PanelDrawing) => ReactElement
 
 export type Shown = {
   readonly slug: string
+  readonly place: string
   readonly drawn: Drawn
+}
+
+type Held = {
+  readonly place: string
+  readonly body: string
+}
+
+export function shownIn(shown: readonly Shown[], place: string): readonly Shown[] {
+  return shown.filter((one) => one.place === place)
 }
 
 function slugsIn(named: readonly string[]): readonly string[] {
@@ -50,18 +62,20 @@ async function drawnFrom(body: string): Promise<Drawn | null> {
   }
 }
 
-async function bodiesFor(): Promise<ReadonlyMap<string, string>> {
+async function bodiesFor(): Promise<ReadonlyMap<string, Held>> {
   const asked = await askComposed({
     "page-type": gamePanel.slug,
-    keys: [SLUG_KEY, DRAWN_KEY],
+    keys: [SLUG_KEY, DRAWN_KEY, PLACE_KEY],
     files: [DRAWN_KEY],
   })
-  const held = new Map<string, string>()
+  const held = new Map<string, Held>()
   if (!asked.ok) return held
   for (const row of asked.answer.rows) {
     const slug = row.values[SLUG_KEY]
+    const place = row.values[PLACE_KEY]
     const body = bodyIn(row.values)
-    if (typeof slug === "string" && body !== null) held.set(slug, body)
+    if (typeof slug !== "string" || typeof place !== "string" || body === null) continue
+    held.set(slug, { place, body })
   }
   return held
 }
@@ -73,10 +87,10 @@ async function panelsFor(named: readonly string[]): Promise<readonly Shown[]> {
   const bodies = await bodiesFor()
   const held: Shown[] = []
   for (const slug of slugs) {
-    const body = bodies.get(slug)
-    if (body === undefined) continue
-    const drawn = await drawnFrom(body)
-    if (drawn !== null) held.push({ slug, drawn })
+    const one = bodies.get(slug)
+    if (one === undefined) continue
+    const drawn = await drawnFrom(one.body)
+    if (drawn !== null) held.push({ slug, place: one.place, drawn })
   }
   return held
 }

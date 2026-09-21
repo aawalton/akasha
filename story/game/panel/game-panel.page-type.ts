@@ -20,6 +20,8 @@ export const gamePanel = {
     "module/panel-showing",
     "module/panel-offering",
     "module/panel-loading",
+    "relation-property/drawn-in",
+    "page-type/panel-place",
   ],
   decisions: [
     {
@@ -42,6 +44,9 @@ export const gamePanel = {
   types: "ts",
   schema: "jsonl",
   loadedExport: ["Panel"],
-  properties: [{ pageProperty: "file-property/drawn", required: false, many: false }],
+  properties: [
+    { pageProperty: "file-property/drawn", required: false, many: false },
+    { pageProperty: "relation-property/drawn-in", required: true, many: false },
+  ],
   typeGenerator: "ts",
 } as const satisfies PageType

@@ -35,5 +35,9 @@ export const playedShell = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here polls, and no tagline is drawn, because this play takes no action.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where a panel is drawn is the place that panel's own page names.",
+    },
   ],
 } as const satisfies Module

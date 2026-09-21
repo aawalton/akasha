@@ -6,4 +6,5 @@ export const characterSheet = {
   slug: "character-sheet",
   definition: "what a character is made of, as the play has left it",
   code: "tsx",
+  place: "panel-place/aside",
 } as const satisfies GamePanel

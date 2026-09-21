@@ -22,5 +22,5 @@ export const dateNightFreePlay = {
   gmContext: "json",
   narrativeContinuity: "json",
   turns: "jsonl",
-  panels: [],
+  panels: ["game-panel/story-so-far"],
 } as const satisfies Game

@@ -3268,6 +3268,7 @@
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-showing/panel-showing.module.ts","id":"01a0c4ab-ec99-7068-9d18-3a05031aa5d3"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-turning/panel-turning.module.ts","id":"01a0c4a9-ae08-7564-ae1b-c05deab3547b"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts","id":"01a0c4a1-be31-7274-b419-1776b8ae4de4"}
+{"propertySlug":"decision-kind","path":"story/game/panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
 {"propertySlug":"decision-kind","path":"story/game/panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
 {"propertySlug":"decision-kind","path":"story/game/properties/card-vocabulary.text-property.ts","id":"01a0c490-93a4-7348-934e-965d459c9515"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-attributes.relation-property.ts","id":"01a0c48b-86e0-7f2b-8243-18250c6f5d6d"}
