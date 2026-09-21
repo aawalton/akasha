@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/addon/characters-addon/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
 import { characterEntry } from "akasha/temper/addon/characters-addon/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/addon/companions-addon/modules/companions-id-map/companions-id-map.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 

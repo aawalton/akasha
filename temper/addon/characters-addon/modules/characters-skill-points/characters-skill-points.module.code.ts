@@ -1,6 +1,6 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
-import type { SkillPointProgress } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { SkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   ENDLESS_ARCHIVE,
   GROUP_DUNGEONS,

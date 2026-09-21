@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   AntiquityLoreProgress,
-} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import type {
   AccountAntiquityLoreProgress,

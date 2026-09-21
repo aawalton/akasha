@@ -3,7 +3,7 @@ import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lin
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,

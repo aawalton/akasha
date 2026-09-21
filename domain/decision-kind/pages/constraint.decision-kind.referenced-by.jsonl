@@ -1200,9 +1200,6 @@
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/sets-data-123/sets-data-123.module.ts","id":"01a061a4-18b0-7f37-89cc-e3646ca45a3c"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
-{"propertySlug":"decision-kind","path":"temper/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
-{"propertySlug":"decision-kind","path":"temper/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
-{"propertySlug":"decision-kind","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.ts","id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
@@ -1391,6 +1388,9 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts","id":"01a06108-2ffa-7ddc-a07c-2ee34cb56f5c"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build-hash.text-property.ts","id":"01a0685d-89aa-782d-959a-2f5cebb21882"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}

@@ -3,7 +3,7 @@ import { joinPath } from "akasha/code/type/narrowing/modules/join-path/join-path
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import {
   type AnyCompletionCardId,

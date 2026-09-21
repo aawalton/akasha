@@ -5,6 +5,11 @@ import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import {
+  buildMorphRankMap,
+  getSkillLineMorphContribution,
+} from "akasha/temper/player/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
 import type { CharacterAchievementProgressResult } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type {
@@ -24,11 +29,6 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
-import {
-  buildMorphRankMap,
-  getSkillLineMorphContribution,
-} from "akasha/temper/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,

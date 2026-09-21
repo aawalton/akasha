@@ -8,11 +8,11 @@ import { findSkillById } from "akasha/temper/character-skill/modules/find-skill-
 import { filterSkillsForBar } from "akasha/temper/character-skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"
 import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
-import { areConflictingMorphs } from "akasha/temper/skill-morph/modules/morph-conflict/morph-conflict.module.code.ts"
+import { areConflictingMorphs } from "akasha/temper/player/skill-morph/modules/morph-conflict/morph-conflict.module.code.ts"
 import {
   type CategoryData,
   organizeSkills,
-} from "akasha/temper/skill-morph/modules/skill-organization/skill-organization.module.code.ts"
+} from "akasha/temper/player/skill-morph/modules/skill-organization/skill-organization.module.code.ts"
 import type { BarType } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
 import { useMemo, useState } from "react"
 

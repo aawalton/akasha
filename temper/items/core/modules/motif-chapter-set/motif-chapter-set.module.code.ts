@@ -1,5 +1,5 @@
-import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 
 const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 

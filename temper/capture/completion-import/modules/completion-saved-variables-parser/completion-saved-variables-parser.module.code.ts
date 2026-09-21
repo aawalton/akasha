@@ -8,13 +8,13 @@ import {
   cleanCharacterCompletionInput,
   cleanCompanionCompletionInput,
 } from "akasha/temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 
 export type AddonCharacterRecord = { name: string; priorityOrder?: number } & CharacterCompletion
 

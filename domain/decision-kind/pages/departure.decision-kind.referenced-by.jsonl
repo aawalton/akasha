@@ -4707,10 +4707,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}
 {"propertySlug":"decision-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
 {"propertySlug":"decision-kind","path":"temper/companion-codec/temper-companion-codec.domain.ts","id":"01a062e7-4dda-7f1d-8fd9-fe2d9062ea42"}
-{"propertySlug":"decision-kind","path":"temper/completion/modules/completion-progress/completion-progress.module.ts","id":"01a0607a-9cbc-7106-abcd-353786bf9f09"}
-{"propertySlug":"decision-kind","path":"temper/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
-{"propertySlug":"decision-kind","path":"temper/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
-{"propertySlug":"decision-kind","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/shopping-settings/shopping-settings.module.ts","id":"01a060cf-b0b1-75a2-8041-f9ae780018d3"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.ts","id":"01a060cf-b0af-7945-b272-f1393abf11ca"}
@@ -5203,6 +5199,11 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-player/properties/platform.select-property.ts","id":"01a06e4f-b737-758d-9fe7-576149259344"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-player/properties/server.select-property.ts","id":"01a06e4f-b738-785a-b942-ef91c66319dc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/modules/completion-progress/completion-progress.module.ts","id":"01a0607a-9cbc-7106-abcd-353786bf9f09"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
+{"propertySlug":"decision-kind","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
 {"propertySlug":"decision-kind","path":"temper/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-comparison-op/temper-comparison-op.page-type.ts","id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
@@ -5236,7 +5237,6 @@
 {"propertySlug":"decision-kind","path":"temper/progress/thing/properties/rrule-rule.text-property.ts","id":"01a05fc6-81fd-7f0e-82af-5f52794a8b51"}
 {"propertySlug":"decision-kind","path":"temper/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"decision-kind","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}
-{"propertySlug":"decision-kind","path":"temper/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-api/skill-point-finder-api.module.ts","id":"01a060ec-5830-7970-9982-411f52b14cd8"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.ts","id":"01a060ec-5832-7174-b7a1-08495eb16e4c"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-colors/skill-point-finder-colors.module.ts","id":"01a060ec-5834-7ce4-b990-b2f1dfab5f22"}

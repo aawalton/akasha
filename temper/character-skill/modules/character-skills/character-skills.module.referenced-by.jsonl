@@ -9,10 +9,10 @@
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/character-stat/modules/extract-passives/extract-passives.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/character-stat/modules/extract-skills/extract-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/skill-morph/modules/morph-conflict/morph-conflict.module.code.ts"}
-{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/skill-morph/modules/morph-pair/morph-pair.module.code.ts"}
-{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/skill-morph/modules/skill-organization/skill-organization.module.code.ts"}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morph-conflict/morph-conflict.module.code.ts"}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morph-pair/morph-pair.module.code.ts"}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/skill-organization/skill-organization.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/web/modules/character-editor/character-editor.module.code.tsx"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"}

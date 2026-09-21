@@ -1,4 +1,4 @@
-import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 
 export function sparseComplete(categoryIndex: number): Record<number, Record<number, number[]>> {
   const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === categoryIndex)

@@ -1,3 +1,5 @@
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import type {
   AccountRecipeUnionProgress,
   AccountScribingUnionProgress,
@@ -36,8 +38,6 @@ import type {
   AccountLoreProgress,
   AccountTributeProgress,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
-import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import type { CharacterProgressData } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"
 import type { CompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
 import type {

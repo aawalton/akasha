@@ -2,8 +2,8 @@ import { describe, expect, test } from "bun:test"
 import type {
   CharacterCompletion,
   LoreCategory,
-} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import {
   extractLoreKnownSet,
   isLoreLibraryItemComplete,

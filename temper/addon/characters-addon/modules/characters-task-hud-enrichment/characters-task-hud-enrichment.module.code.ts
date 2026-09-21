@@ -16,7 +16,7 @@ import {
   pickFirstIncompleteCompanionRapport,
 } from "akasha/temper/addon/characters-addon/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/addon/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,

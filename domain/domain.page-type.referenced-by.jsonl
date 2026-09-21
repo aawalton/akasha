@@ -592,7 +592,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment/temper-characters-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/command/temper-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companion-codec/temper-companion-codec.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/shopping/temper-shopping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/temper-economy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts"}
@@ -625,10 +624,11 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion/temper-player-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/temper-character.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/completion/temper-completion.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/skill-morph/temper-skill-morph.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/temper-player.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph/temper-skill-morph.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/temper.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/characters-character-ui/temper-characters-character-ui.domain.ts"}
