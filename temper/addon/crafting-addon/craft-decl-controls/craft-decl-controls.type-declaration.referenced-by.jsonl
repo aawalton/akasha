@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-character-panel/craft-character-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-cooking/craft-cooking.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-options/craft-options.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-panel-init/craft-panel-init.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-quest-tracking/craft-quest-tracking.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"}

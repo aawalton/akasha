@@ -119,6 +119,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-knowledge/craft-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-options/craft-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-panel-init/craft-panel-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-quest-tracking/craft-quest-tracking.module.code.ts"}
