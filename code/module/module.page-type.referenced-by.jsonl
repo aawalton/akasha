@@ -6215,7 +6215,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-point-finder/modules/skill-point-finder-zones/skill-point-finder-zones.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skyshard/modules/skyshards-console-compass/skyshards-console-compass.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skyshard/modules/skyshards-console-load/skyshards-console-load.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skyshard/modules/skyshards-console-pins/skyshards-console-pins.module.ts"}
@@ -6612,6 +6611,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/weapon-card/weapon-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/capitalize/capitalize.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/counted/counted.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/name-drawing/name-drawing.module.ts"}

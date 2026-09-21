@@ -5241,8 +5241,6 @@
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-strings/skill-point-finder-strings.module.ts","id":"01a060ec-584a-7f5b-b12f-d6e8a9b8eb2b"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
-{"propertySlug":"decision-kind","path":"temper/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts","id":"01a090b6-8f92-709b-b33e-bb4446b7fe87"}
-{"propertySlug":"decision-kind","path":"temper/skills-panel/temper-skills-panel.domain.ts","id":"01a090b6-a3f2-7389-972c-8722513c19f0"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-console-slash/skyshards-console-slash.module.ts","id":"01a061a8-9c62-78e5-91ec-72c7e0cd50ec"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-global/skyshards-global.module.ts","id":"01a061a8-9c65-7eb2-8892-234022bc7664"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-1/skyshards-part-1.module.ts","id":"01a061a8-9c65-72a7-8ddf-4e03ebb533bd"}
@@ -5374,6 +5372,8 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/sign-out/sign-out.route.ts","id":"01a0bba7-965d-7000-b05b-7b3e938f4144"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/sign-up/sign-up.route.ts","id":"01a08307-1eb0-71af-b03b-9e4a212055e7"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/temper-handover/temper-handover.route.ts","id":"01a0bb8f-d316-75c8-b3d6-0f9e6134e682"}
+{"propertySlug":"decision-kind","path":"temper/web/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts","id":"01a090b6-8f92-709b-b33e-bb4446b7fe87"}
+{"propertySlug":"decision-kind","path":"temper/web/skills-panel/temper-skills-panel.domain.ts","id":"01a090b6-a3f2-7389-972c-8722513c19f0"}
 {"propertySlug":"decision-kind","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts","id":"01a08ee4-41a2-7873-81b7-b181807acb88"}
 {"propertySlug":"decision-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}

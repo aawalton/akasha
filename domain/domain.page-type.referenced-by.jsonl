@@ -637,9 +637,9 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph/temper-skill-morph.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skills-panel/temper-skills-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/temper.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/skills-panel/temper-skills-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/writing/text-writing.domain.ts"}

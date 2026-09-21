@@ -57,7 +57,6 @@ export const temper = {
     "domain/temper-skill-morph",
     "domain/temper-skill-morph-access",
     "domain/temper-skill-point-finder",
-    "domain/temper-skills-panel",
     "domain/temper-skyshard",
     "eso-addon/temper-crafting-addon",
     "module/addon-init",
