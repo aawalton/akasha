@@ -4,6 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
   id: "01a0a6c5-0cf9-7bdb-ba17-a0d2e0beabac",
   type: "page-type/track",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-thank-goodness-live-from-the-dolby",
+  grade: "C",
   ownLength: 4.013333333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
