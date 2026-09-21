@@ -1,10 +1,13 @@
 import { statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const RUN = "runMechanic"
+const ANSWERED = "answered"
+const REFUSED = "refused"
 const CODE = "code"
 const TS = "ts"
 
@@ -24,6 +27,13 @@ function freshlyAt(root: string, path: string): string {
   return entry === undefined ? at : `${at}?${entry.mtimeMs}`
 }
 
+function ranIn(given: unknown): Ran {
+  if (!isRecord(given)) return { answered: given }
+  const refused = given[REFUSED]
+  if (typeof refused === "string") return { refused }
+  return ANSWERED in given ? { answered: given[ANSWERED] } : { answered: given }
+}
+
 export async function ranAt(root: string, address: string, asking: unknown): Promise<Ran> {
   const path = codeAt(root, address)
   if (path === null) return { refused: `\`${address}\` names no mechanic here` }
@@ -32,5 +42,5 @@ export async function ranAt(root: string, address: string, asking: unknown): Pro
   if (typeof run !== "function") {
     return { refused: `\`${address}\` reaches no mechanic exporting \`${RUN}\`` }
   }
-  return (run as (given: unknown) => Ran)(asking)
+  return ranIn((run as (given: unknown) => unknown)(asking))
 }

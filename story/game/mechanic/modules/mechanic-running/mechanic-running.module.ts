@@ -28,5 +28,13 @@ export const mechanicRunning = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here names a mechanic.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a mechanic answers is read here into one shape, answered or refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanic answering a bare value is read as having answered that value.",
+    },
   ],
 } as const satisfies Module

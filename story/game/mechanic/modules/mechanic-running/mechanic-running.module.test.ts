@@ -5,11 +5,17 @@ import {
   codeAt,
   ranAt,
 } from "akasha/story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"
+import { affinityBias } from "akasha/story/game/mechanic/pages/affinity-bias/affinity-bias.game-mechanic.ts"
+import { attackResolution } from "akasha/story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"
 import { physAtk } from "akasha/story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts"
 
 const ROOT = process.cwd()
 
 const AT = namedAs(gameMechanic.slug, physAtk.slug, null)
+
+const STRUCK = namedAs(gameMechanic.slug, attackResolution.slug, null)
+
+const BIASED = namedAs(gameMechanic.slug, affinityBias.slug, null)
 
 const NOWHERE = namedAs(gameMechanic.slug, "nothing-is-filed-here", null)
 
@@ -34,5 +40,22 @@ test("the mechanic an address names is run", async () => {
 
 test("an address naming no mechanic is refused", async () => {
   const ran = await ranAt(ROOT, NOWHERE, {})
+  expect(ran).toHaveProperty("refused")
+})
+
+test("a mechanic answering a bare value is read as having answered that value", async () => {
+  const ran = await ranAt(ROOT, STRUCK, {
+    attackPower: 20,
+    defense: 15,
+    baseDamage: 6,
+    intent: 0,
+    bonuses: [],
+    roll: { total: 7, crit: false, fumble: false },
+  })
+  expect(ran).toEqual({ answered: expect.objectContaining({ hit: true, band: "hit" }) })
+})
+
+test("a mechanic answering a refusal is read as having refused", async () => {
+  const ran = await ranAt(ROOT, BIASED, { tier: "no-such-tier", matched: true })
   expect(ran).toHaveProperty("refused")
 })
