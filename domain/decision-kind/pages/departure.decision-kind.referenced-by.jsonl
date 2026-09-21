@@ -5038,7 +5038,6 @@
 {"propertySlug":"decision-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
 {"propertySlug":"decision-kind","path":"temper/modules/reload-ui/reload-ui.module.ts","id":"01a090b2-4c81-73e4-85d7-24204ef52dcd"}
 {"propertySlug":"decision-kind","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
-{"propertySlug":"decision-kind","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
 {"propertySlug":"decision-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
@@ -5428,6 +5427,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts","id":"01a0640f-8510-7199-93a8-3fa778720f68"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts","id":"01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts","id":"01a0640f-8510-7c72-8ea7-ff3cbcdf74b3"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts","id":"01a0640f-8510-7137-a8d9-9ada066e759b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}

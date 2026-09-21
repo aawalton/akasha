@@ -21,7 +21,6 @@ export const temper = {
     "module/perf-trace",
     "module/reload-ui",
     "module/saved-variables-reader",
-    "module/ttc-listing-client",
     "module/unpack-color",
     "page-type/temper-thing",
     "router-app/temper-web",

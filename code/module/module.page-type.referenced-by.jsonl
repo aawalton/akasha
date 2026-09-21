@@ -5543,7 +5543,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/reload-ui/reload-ui.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts"}
@@ -6482,6 +6481,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/text-area-panel-card/text-area-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/timing-badges/timing-badges.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/under-construction-dialog/under-construction-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts"}

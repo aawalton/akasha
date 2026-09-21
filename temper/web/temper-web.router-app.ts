@@ -328,5 +328,6 @@ export const temperWeb = {
     "domain/temper-player-inventory-management-ui",
     "module/use-player",
     "module/build-metadata",
+    "module/ttc-listing-client",
   ],
 } as const satisfies RouterApp
