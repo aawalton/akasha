@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts"}
 {"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transformers/transpile-transformers.module.code.ts"}
 {"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transpile/transpile-transpile.module.code.ts"}

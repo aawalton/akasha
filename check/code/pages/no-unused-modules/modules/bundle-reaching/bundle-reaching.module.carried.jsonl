@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An addon page names one module as the entry point of its bundle."},{"decisionKind":"decision-kind/departure","statement":"Which pages name an entry point is read from the index rather than listed here."},{"decisionKind":"decision-kind/departure","statement":"An entry point is reached through the module page that slug is filed under."},{"decisionKind":"decision-kind/departure","statement":"The reach is the one the Lua compiler takes rather than a second reach."},{"decisionKind":"decision-kind/departure","statement":"One program is built for every entry point rather than one for each."},{"decisionKind":"decision-kind/departure","statement":"The program reads its bodies through the change rather than from the disk."},{"decisionKind":"decision-kind/departure","statement":"A run with no entry point builds no program."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a file."}]}
+{"definition":"the files an addon's bundle entry point reaches"}
+{"id":"01a0c660-9eed-7001-ad2e-8c5c84c9f8b7"}
+{"slug":"bundle-reaching"}
+{"test":"ts"}
+{"type":"page-type/module"}

@@ -152,6 +152,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"}

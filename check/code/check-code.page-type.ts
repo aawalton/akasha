@@ -59,6 +59,7 @@ export const checkCode = {
     "check-code/no-tmp",
     "check-code/no-unparsed-boundary-read",
     "check-code/no-unused-exports",
+    "check-code/no-unused-modules",
     "check-code/page-matches-its-type",
     "check-code/page-named-as-stated",
     "check-code/page-property-has-its-file",

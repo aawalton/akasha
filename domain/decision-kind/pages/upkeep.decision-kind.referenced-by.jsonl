@@ -13,6 +13,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.ts","id":"01a09518-e34b-711d-97f3-8664b5b48363"}
 {"propertySlug":"decision-kind","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.ts","id":"01a04d5f-c731-7000-9066-3abf317a1d58"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.ts","id":"01a09577-1c6e-70ac-9225-958238aed3c2"}
+{"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.ts","id":"01a0c660-9eec-7000-9740-2457fdcae980"}
 {"propertySlug":"decision-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}
 {"propertySlug":"decision-kind","path":"command/argument/modules/routing/argument-routing.module.ts","id":"01a0950b-0fcf-748a-ab25-7046edcbcf59"}
 {"propertySlug":"decision-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

@@ -947,6 +947,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-modules/modules/module-gathering/module-gathering.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-modules/modules/slug-spelling/slug-spelling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts"}

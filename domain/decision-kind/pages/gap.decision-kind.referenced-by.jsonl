@@ -185,6 +185,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","id":"01a0500d-f968-74e7-b9a7-8394faa7a890"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.ts","id":"01a09577-1c6e-70ac-9225-958238aed3c2"}
+{"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.ts","id":"01a0c660-9eec-7000-9740-2457fdcae980"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/cost/check-cost.module.ts","id":"01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38"}
 {"propertySlug":"decision-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}
