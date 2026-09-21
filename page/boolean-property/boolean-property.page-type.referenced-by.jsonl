@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/runs-on-read.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/runs-on-write.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/transitive.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/finding/properties/throwaway-probe.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/properties/expands.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/sentence-shape/properties/allowed.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/inference/properties/warm.boolean-property.ts"}

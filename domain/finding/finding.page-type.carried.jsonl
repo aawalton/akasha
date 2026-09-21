@@ -3,8 +3,8 @@
 {"extends":["page-type/page"]}
 {"id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
 {"mortal":true}
-{"parts":["text-property/claim","text-property/evidence"]}
-{"properties":[{"pageProperty":"relation-property/page-domain","required":true,"many":false},{"pageProperty":"text-property/claim","required":true,"many":false},{"pageProperty":"text-property/evidence","required":true,"many":false}]}
+{"parts":["text-property/claim","text-property/evidence","boolean-property/throwaway-probe"]}
+{"properties":[{"pageProperty":"relation-property/page-domain","required":true,"many":false},{"pageProperty":"text-property/claim","required":true,"many":false},{"pageProperty":"text-property/evidence","required":true,"many":false},{"pageProperty":"boolean-property/throwaway-probe","required":false,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"finding"}
 {"type":"page-type/page-type"}
