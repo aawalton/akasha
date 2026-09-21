@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWickedCommen
   id: "01a0a6c5-48bb-7f75-8e47-2402eef80571",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-no-one-mourns-the-wicked-commentary",
+  grade: "C",
   ownLength: 0.9283833333333333,
   ownProgress: 0.9283833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
