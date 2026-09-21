@@ -16,5 +16,13 @@ export const innworldReader = {
       statement:
         "The routes answering pages name the same reader the server reads, so the two gates agree.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A page store holding no reader asks for no page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The store in the browser is told this reader, so the browser asks for its pages.",
+    },
   ],
 } as const satisfies Module
