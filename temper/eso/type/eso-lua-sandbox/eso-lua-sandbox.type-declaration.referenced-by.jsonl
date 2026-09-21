@@ -1,9 +1,6 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-events/next-boss-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-init/next-boss-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-timers/next-boss-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-dropdowns/housing-dropdowns.module.code.ts"}
@@ -28,6 +25,9 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-init/next-boss-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-timers/next-boss-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"}

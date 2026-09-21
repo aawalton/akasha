@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltips/potion-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-select/scrollable-menu-combobox-base-select.module.code.ts"}

@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/crafting-addon/craft-store-rune-layout/craft-store-rune-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/crafting-addon/craft-store-style-layout/craft-store-style-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/crafting-addon/potion-maker-layout/potion-maker-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/events-addon/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/interface-addon/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/items-addon/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/navigation-addon/minimap-animations/minimap-animations.eso-interface.ts"}
@@ -18,6 +17,7 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/combat/combat-live-report-layout/combat-live-report-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/combat/combat-report-layout/combat-report-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/combat/combat-templates-layout/combat-templates-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/events/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/lam-order-list-box-markup/lam-order-list-box-markup.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-histoire/histoire-guild-history-cache-controls/histoire-guild-history-cache-controls.eso-interface.ts"}
