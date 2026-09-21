@@ -4,6 +4,7 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
+  webBuildInitContainer,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
@@ -21,6 +22,7 @@ import { alanwaltonAtlas } from "akasha/infrastructure/service/cluster/pages/ala
 const NAMESPACE = alanwaltonAtlas.namespace
 const SECRET_NAME = "alanwalton-secrets"
 const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
+const PACKAGE_PATH = "alan/atlas-web"
 
 const APP_NAME = alanwaltonAtlas.resourceName
 
@@ -78,13 +80,14 @@ function deploymentYaml(): string {
               location: ATLAS_WEB_CACHE,
               memory: { request: "256Mi", limit: "2Gi" },
             }),
+            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
           ],
           containers: [
             {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("alan/atlas-web"),
+              workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: alanwaltonAtlas.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
