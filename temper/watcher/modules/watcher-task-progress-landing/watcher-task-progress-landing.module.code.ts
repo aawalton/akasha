@@ -10,7 +10,10 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { applyCompletionOverrides } from "akasha/temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
+import { parseCompletionOverrideRow } from "akasha/temper/player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
 import { buildCrossCharacterCompletionIndex } from "akasha/temper/player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
@@ -32,6 +35,8 @@ import {
 const CHARACTER_TYPE = "temper-account-character"
 
 const ACCOUNT_TYPE = "temper-account"
+
+const OVERRIDE_TYPE = "temper-completion-override"
 
 const TASK_TYPE = "temper-task"
 
@@ -148,15 +153,51 @@ async function heldBeside<T>(
   return held
 }
 
+async function floorsBySlug(
+  ready: ProgressReady,
+  userId: string
+): Promise<ReadonlyMap<string, readonly CompletionOverride[]>> {
+  const by = new Map<string, CompletionOverride[]>()
+  for (const row of await askedRows(ready, OVERRIDE_TYPE, userId)) {
+    const one = parseCompletionOverrideRow(row)
+    if (one === null) continue
+    const already = by.get(one.characterId)
+    if (already === undefined) by.set(one.characterId, [one.override])
+    else already.push(one.override)
+  }
+  return by
+}
+
+export function overridden(
+  held: ReadonlyMap<string, CharacterCompletion | null>,
+  floors: ReadonlyMap<string, readonly CompletionOverride[]>
+): ReadonlyMap<string, CharacterCompletion | null> {
+  const out = new Map<string, CharacterCompletion | null>()
+  for (const [slug, completion] of held) {
+    const over = floors.get(slug)
+    out.set(
+      slug,
+      completion === null || over === undefined
+        ? completion
+        : applyCompletionOverrides(completion, over)
+    )
+  }
+  return out
+}
+
 async function indexFor(ready: ProgressReady, userId: string) {
   const characters = await askedRows(ready, CHARACTER_TYPE, userId)
   const slugs = characters.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const completions = await heldBeside<CharacterCompletion>(ready, CHARACTER_TYPE, slugs)
+  const floors = await floorsBySlug(ready, userId)
   const accounts = await askedRows(ready, ACCOUNT_TYPE, userId)
   const accountSlugs = accounts.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const held = await heldBeside<AccountCompletion>(ready, ACCOUNT_TYPE, accountSlugs)
   const account = accountSlugs[0] === undefined ? null : (held.get(accountSlugs[0]) ?? null)
-  return buildCrossCharacterCompletionIndex(rosterFrom(characters, completions), account)
+  return buildCrossCharacterCompletionIndex(
+    rosterFrom(characters, overridden(completions, floors)),
+    account
+  )
 }
 
 export function putsFor(

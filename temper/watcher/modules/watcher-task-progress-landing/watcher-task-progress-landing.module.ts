@@ -56,5 +56,14 @@ export const watcherTaskProgressLanding = {
       decisionKind: "decision-kind/gap",
       statement: "The account whose completion is read is the account the tasks name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A count a page sets by hand lifts a character's completion before the reading is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character no such page names is read as the game reported that character.",
+    },
   ],
 } as const satisfies Module

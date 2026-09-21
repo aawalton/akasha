@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
+import {
+  type CharacterCompletion,
+  emptySkillPointProgress,
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { bodyOfRows } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 import {
   completionIn,
+  overridden,
   type ProgressDeps,
   type Put,
   putsFor,
@@ -59,6 +64,12 @@ const ACCOUNT_COMPLETION =
 const CHARACTER_ROW = { slug: "durene", title: "Durene", firstName: "Durene", displayOrder: 10 }
 
 const AN_INSTANT = "2026-09-13T00:00:00.000Z"
+
+const FOLIUM_FLOOR = {
+  completionCardId: "skill-points",
+  completionItemPath: ["general", "foliumDiscognitum"],
+  floor: 2,
+} as const
 
 function pagePathFor(named: { readonly pageTypeSlug: string }): string {
   if (named.pageTypeSlug === "temper-account-character") return CHARACTER_PAGE
@@ -146,6 +157,25 @@ test("a roster entry takes its label from the first name and falls back to the t
   expect(roster.map((one) => one.firstName)).toEqual(["Durene", "Belavierr"])
   expect(roster.map((one) => one.sortOrder)).toEqual([10, 18])
   expect(roster[0]?.completion).toBe(null)
+})
+
+test("a floor set by hand lifts a character's count before the reading is taken", () => {
+  const held = new Map<string, CharacterCompletion | null>([
+    ["the-death-of-chains", { skillPoints: emptySkillPointProgress() }],
+  ])
+  const lifted = overridden(held, new Map([["the-death-of-chains", [FOLIUM_FLOOR]]]))
+  expect(lifted.get("the-death-of-chains")?.skillPoints?.foliumDiscognitum).toBe(2)
+})
+
+test("a character no floor names is left as the game reported", () => {
+  const completion: CharacterCompletion = { skillPoints: emptySkillPointProgress() }
+  const held = new Map<string, CharacterCompletion | null>([["the-death-of-magic", completion]])
+  expect(overridden(held, new Map()).get("the-death-of-magic")).toBe(completion)
+})
+
+test("a character with no completion beside it takes no floor", () => {
+  const held = new Map<string, CharacterCompletion | null>([["nobody", null]])
+  expect(overridden(held, new Map([["nobody", [FOLIUM_FLOOR]]])).get("nobody")).toBe(null)
 })
 
 test("a row with no slug is passed over", () => {

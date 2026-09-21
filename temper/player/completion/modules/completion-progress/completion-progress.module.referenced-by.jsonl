@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/modules/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/modules/use-temper-import/use-temper-import.module.code.ts"}
