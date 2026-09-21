@@ -1,4 +1,4 @@
-import "akasha/temper/addon-library-type/temper-quests-global/temper-quests-global.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/temper-quests-global/temper-quests-global.type-declaration.d.ts"
 
 import {
   toggleAutoQuest,

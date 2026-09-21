@@ -1,4 +1,4 @@
-import "akasha/temper/addon-library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 import {
   defaultComponentVisible,

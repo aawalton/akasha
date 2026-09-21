@@ -5,5 +5,5 @@ export const temperAddon = {
   type: "page-type/domain",
   slug: "temper-addon",
   definition: "the add-ons temper runs inside the game, and what builds them",
-  parts: ["domain/temper-addon-library"],
+  parts: ["domain/temper-addon-library", "domain/temper-addon-library-type"],
 } as const satisfies Domain

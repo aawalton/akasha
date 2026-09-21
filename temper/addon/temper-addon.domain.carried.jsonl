@@ -1,5 +1,5 @@
 {"definition":"the add-ons temper runs inside the game, and what builds them"}
 {"id":"01a0c454-aab8-797e-8865-0a27bc2013c4"}
-{"parts":["domain/temper-addon-library"]}
+{"parts":["domain/temper-addon-library","domain/temper-addon-library-type"]}
 {"slug":"temper-addon"}
 {"type":"page-type/domain"}

@@ -1,8 +1,0 @@
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-constants/companion-qol-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/events-addon/modules/next-boss-menu/next-boss-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/hud-addon/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon-library-type/temper-addon-library-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

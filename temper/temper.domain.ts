@@ -7,7 +7,6 @@ export const temper = {
   definition: "a companion suite for The Elder Scrolls Online",
   parts: [
     "domain/temper-addon-build",
-    "domain/temper-addon-library-type",
     "domain/temper-addon-log",
     "domain/temper-addons-resolve",
     "domain/temper-alchemy",

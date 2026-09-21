@@ -7,7 +7,7 @@ import "akasha/temper/eso-type/eso-link-handler/eso-link-handler.type-declaratio
 import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon-library-type/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
 
 import {
   BROADCAST_HANDLER_NAME,
