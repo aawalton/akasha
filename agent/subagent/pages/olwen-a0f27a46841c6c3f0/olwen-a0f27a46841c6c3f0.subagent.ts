@@ -1,0 +1,11 @@
+import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts"
+
+export const olwenA0f27a46841c6c3f0 = {
+  id: "01a0c4f0-fb68-7b0f-82df-e010f1b434d8",
+  type: "page-type/subagent",
+  slug: "olwen-a0f27a46841c6c3f0",
+  principalSeatName: "seat/olwen",
+  assignmentSlug: "initiative/olwen-design-system",
+  dispatchedAs: "Explore",
+  agentId: "01a0c48f-4201-7000-ba83-55759327b4fd--a0f27a46841c6c3f0",
+} as const satisfies Subagent
