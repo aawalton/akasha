@@ -1,7 +1,7 @@
 
 # Sizing
 
-Annual-net-zero PV sizing for 1350 Apple Ave, Provo, against Provo City Power's Schedule 1.1 net-metering program. The grid is the seasonal battery: twelve-month production ≥ twelve-month consumption is the target, December-specific parity is not. See [scope.md](book-section/solar-power/scope) for the architectural pivot away from the pure-island case.
+PV sizing for 1350 Apple Ave, Provo, against Provo City Power's Schedule 1.1 net-billing rules. PV is matched to annual load: production past twelve-month consumption is forfeited at the February credit reset, and December-specific parity is not the target. The grid carries the winter deficit. See [scope.md](book-section/solar-power/scope) for the constraints this sizing answers to.
 
 This file is the index plus the headline planning case. Math is split into six sub-files (each ≤200 lines) under sizing/, one per dimension.
 
@@ -44,7 +44,7 @@ Full sensitivity: [pv.md](book-section/sizing/pv).
 
 ## Headline battery sizing
 
-Grid is the seasonal battery, so battery sizing covers (a) daily PV-to-evening shifting and (b) short-duration outage resilience.
+The grid carries the seasonal deficit, so battery sizing covers only (a) daily PV-to-evening shifting and (b) short-duration outage resilience.
 
 - Daily shift: ~30–40 kWh — covers gaming PCs (~50 kWh/evening) and DHW/cook through the post-sunset window.
 - Outage resilience (load-shedded critical-loads only — HVAC + DHW + fridge + lights, ~120 kWh/day): 30–40 kWh rides a single Provo evening outage clean; 2-day winter ride-through needs 240 kWh, which is disproportionate. Accept that edge case and rely on grid + (optional, separate) gen.
