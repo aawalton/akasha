@@ -6,14 +6,14 @@ import type {
   PropertyTypeOps,
   PropertyValue,
 } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
-import {
-  findOption,
-  type OptionLike,
-} from "akasha/page/core/property-type/modules/select/select.module.code.ts"
+import { findOption } from "akasha/page/core/property-type/modules/select/select.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { multiSelectConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import {
+  multiSelectConfigSchema,
+  type SelectOption,
+} from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 
-function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
+function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options
 }
 

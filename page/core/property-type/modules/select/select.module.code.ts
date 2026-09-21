@@ -6,18 +6,16 @@ import type {
   PropertyValue,
 } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { selectConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import {
+  type SelectOption,
+  selectConfigSchema,
+} from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 
-export interface OptionLike {
-  readonly id: string
-  readonly label: string
-}
-
-export function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
+export function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options
 }
 
-export function findOption(options: readonly OptionLike[], id: string): OptionLike | undefined {
+export function findOption(options: readonly SelectOption[], id: string): SelectOption | undefined {
   return options.find((o) => o.id === id)
 }
 

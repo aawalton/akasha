@@ -11,5 +11,10 @@ export const select = {
       decisionKind: "decision-kind/departure",
       statement: "The options a property declares are read here rather than by each reader.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The shape of an option is inferred from the option schema rather than declared here.",
+    },
   ],
 } as const satisfies Module
