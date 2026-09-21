@@ -431,9 +431,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/auth/auth.module.ts","id":"01a05c6d-3508-781d-8ca6-f6de618f4ea6"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.ts","id":"01a05c6d-350a-7a9e-b989-5c974158f6f9"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.ts","id":"01a09099-ea3c-7d5e-a085-0b0c4402eeea"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-rr/modules/sign-up-route/sign-up-route.module.ts","id":"01a090ae-514d-7335-bf9d-a3f3b7b9c4c4"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-rr/supabase-rr.domain.ts","id":"01a05c97-8af3-7dbb-b6b0-4fd120a787a9"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.ts","id":"01a06583-0030-7003-b7d9-21d45fedb867"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-server/supabase-server.domain.ts","id":"01a05c75-8718-772e-bcdb-e24fb342750c"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","id":"01a069bb-b921-759e-92f7-2095b2099a24"}

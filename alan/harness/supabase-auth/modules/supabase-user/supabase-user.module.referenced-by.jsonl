@@ -1,7 +1,3 @@
 {"propertySlug":"import","fileName":"supabase-user.module.code.ts","path":"alan/harness/supabase-auth/modules/auth/auth.module.code.ts"}
 {"propertySlug":"import","fileName":"supabase-user.module.code.ts","path":"alan/harness/supabase-auth/modules/claims/claims.module.code.ts"}
-{"propertySlug":"import","fileName":"supabase-user.module.code.ts","path":"alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"}
-{"propertySlug":"import","fileName":"supabase-user.module.code.ts","path":"alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"}
-{"propertySlug":"import","fileName":"supabase-user.module.code.ts","path":"alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"supabase-user.module.code.ts","path":"alan/harness/supabase-rr/modules/session-refresh/session-refresh.module.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
