@@ -3066,6 +3066,7 @@
 {"propertySlug":"decision-kind","path":"page/type/page-property/properties/holds-bytes.boolean-property.ts","id":"01a0783e-bc03-787d-b886-e4476954adbe"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/properties/max-count.number-property.ts","id":"01a07807-639f-78de-a246-cc6e8ef667e9"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/properties/max-length.number-property.ts","id":"01a0780a-4fc5-7ef6-8dbb-c783a3f64f6b"}
+{"propertySlug":"decision-kind","path":"page/type/page-property/properties/names-a-property-key.boolean-property.ts","id":"01a0c560-ea1e-73a7-adc7-f3690fc69293"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/properties/nullable.boolean-property.ts","id":"01a08d70-c263-7e18-b970-543a49a8397c"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/properties/property-slug.text-property.ts","id":"01a0539b-2a0f-7187-ba5a-aa8bff23fe15"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/properties/quoted.boolean-property.ts","id":"01a0a582-6d43-7000-85c8-30cfde1eba32"}

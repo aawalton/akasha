@@ -20,6 +20,7 @@ export const pageProperty = {
     "relation-property/unique",
     "relation-property/unique-property",
     "text-property/property-slug",
+    "boolean-property/names-a-property-key",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -30,6 +31,7 @@ export const pageProperty = {
     { pageProperty: "file-property/types", required: false, many: false },
     { pageProperty: "boolean-property/nullable", required: false, many: false },
     { pageProperty: "boolean-property/quoted", required: false, many: false },
+    { pageProperty: "boolean-property/names-a-property-key", required: false, many: false },
   ],
   decisions: [
     {
