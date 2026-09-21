@@ -4,7 +4,7 @@ export const jessicaBaioInferior = {
   id: "01a0c622-116e-7b7c-a270-2a26c70d2216",
   type: "page-type/release",
   slug: "jessica-baio-inferior",
-  ownLength: 3.0486,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,

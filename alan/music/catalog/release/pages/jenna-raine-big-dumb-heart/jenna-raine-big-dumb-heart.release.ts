@@ -4,15 +4,14 @@ export const jennaRaineBigDumbHeart = {
   id: "01a0676a-d718-7057-837f-4dcff316641e",
   type: "page-type/release",
   slug: "jenna-raine-big-dumb-heart",
-  title: "Big Dumb Heart",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 3.605233,
-  ownProgress: 3.605233,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-11-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineBigDumbHeart = {
       externalLink: "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm",
     },
   ],
+  title: "Big Dumb Heart",
 } as const satisfies Release

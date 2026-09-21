@@ -4,15 +4,14 @@ export const jessicaBaioGone = {
   id: "01a0676a-d71f-701a-9a65-2e30a7fa4679",
   type: "page-type/release",
   slug: "jessica-baio-gone",
-  title: "gone",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.193583,
-  ownProgress: 3.193583,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2021-08-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioGone = {
       externalLink: "https://open.spotify.com/album/1MhQTiOfcUVBrLQEncYm2Y",
     },
   ],
+  title: "gone",
 } as const satisfies Release

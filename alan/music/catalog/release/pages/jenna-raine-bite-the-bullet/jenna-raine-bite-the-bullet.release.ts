@@ -4,15 +4,14 @@ export const jennaRaineBiteTheBullet = {
   id: "01a0676a-d719-700f-a17a-b4db3e410806",
   type: "page-type/release",
   slug: "jenna-raine-bite-the-bullet",
-  title: "BITE THE BULLET",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 5.961967,
-  ownProgress: 5.961967,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-07-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineBiteTheBullet = {
       externalLink: "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC",
     },
   ],
+  title: "BITE THE BULLET",
 } as const satisfies Release

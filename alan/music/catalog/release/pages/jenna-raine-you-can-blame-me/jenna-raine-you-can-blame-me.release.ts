@@ -4,15 +4,14 @@ export const jennaRaineYouCanBlameMe = {
   id: "01a0676a-d732-7004-96b8-224f25437889",
   type: "page-type/release",
   slug: "jenna-raine-you-can-blame-me",
-  title: "You Can Blame Me",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 3.027767,
-  ownProgress: 3.027767,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2019-10-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineYouCanBlameMe = {
       externalLink: "https://open.spotify.com/album/7da54fsZaXffuBXyaB5YeR",
     },
   ],
+  title: "You Can Blame Me",
 } as const satisfies Release

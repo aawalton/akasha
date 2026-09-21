@@ -4,15 +4,14 @@ export const jennaRaineSeeYouLater = {
   id: "01a0676a-d728-705d-960a-d30f7d6427c3",
   type: "page-type/release",
   slug: "jenna-raine-see-you-later",
-  title: "see you later",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 9.7569,
-  ownProgress: 9.7569,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-02-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineSeeYouLater = {
       externalLink: "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE",
     },
   ],
+  title: "see you later",
 } as const satisfies Release

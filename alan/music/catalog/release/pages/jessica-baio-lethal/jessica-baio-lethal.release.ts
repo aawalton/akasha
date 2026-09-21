@@ -4,15 +4,14 @@ export const jessicaBaioLethal = {
   id: "01a0676a-d723-7028-a869-7572131004f1",
   type: "page-type/release",
   slug: "jessica-baio-lethal",
-  title: "lethal",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 2.776217,
-  ownProgress: 2.776217,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-11-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioLethal = {
       externalLink: "https://open.spotify.com/album/2pfmBpFUwF3HjmkHAD4orj",
     },
   ],
+  title: "lethal",
 } as const satisfies Release

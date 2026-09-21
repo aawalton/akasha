@@ -4,7 +4,7 @@ export const jessicaBaioSacredIi = {
   id: "01a0c622-0e50-7df4-958e-8260aa89efc7",
   type: "page-type/release",
   slug: "jessica-baio-sacred-ii",
-  ownLength: 45.49693333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,

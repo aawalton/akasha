@@ -4,7 +4,7 @@ export const jennaRaineJeansBoysJesus = {
   id: "01a0c621-1456-7ad3-9402-fc2f5dfee2f7",
   type: "page-type/release",
   slug: "jenna-raine-jeans-boys-jesus",
-  ownLength: 37.430566666666664,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,

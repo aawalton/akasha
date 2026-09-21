@@ -4,7 +4,7 @@ export const jennaRaineItTakesAVillage = {
   id: "01a0c621-18d4-7dd0-b557-9cbca3be0472",
   type: "page-type/release",
   slug: "jenna-raine-it-takes-a-village",
-  ownLength: 2.5389166666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,

@@ -4,15 +4,14 @@ export const jessicaBaioStartOver = {
   id: "01a0676a-d72a-7018-8272-0bc364d152a5",
   type: "page-type/release",
   slug: "jessica-baio-start-over",
-  title: "start over",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.415133,
-  ownProgress: 3.415133,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-12-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioStartOver = {
       externalLink: "https://open.spotify.com/album/0hOwWleymsxLKGnlRRgKFY",
     },
   ],
+  title: "start over",
 } as const satisfies Release

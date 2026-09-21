@@ -4,15 +4,14 @@ export const jessicaBaioWorldRecord = {
   id: "01a0676a-d731-7038-b2fb-a3e32166d11d",
   type: "page-type/release",
   slug: "jessica-baio-world-record",
-  title: "world record",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.0238,
-  ownProgress: 3.0238,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2020-01-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioWorldRecord = {
       externalLink: "https://open.spotify.com/album/4P06tSM3MyV34N3Bkmy3M3",
     },
   ],
+  title: "world record",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const jessicaBaioRadioRemixes = {
   id: "01a0676a-d727-7041-9f21-464025c9be1d",
   type: "page-type/release",
   slug: "jessica-baio-radio-remixes",
-  title: "Radio (Remixes)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 7.484433,
-  ownProgress: 7.484433,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-04-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioRadioRemixes = {
       externalLink: "https://open.spotify.com/album/49SW8TraLibp3D0SCu2duV",
     },
   ],
+  title: "Radio (Remixes)",
 } as const satisfies Release

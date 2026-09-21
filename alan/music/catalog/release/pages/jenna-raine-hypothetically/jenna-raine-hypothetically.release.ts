@@ -4,15 +4,14 @@ export const jennaRaineHypothetically = {
   id: "01a0676a-d720-7085-b2e9-b635b78fefcd",
   type: "page-type/release",
   slug: "jenna-raine-hypothetically",
-  title: "Hypothetically",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 2.69985,
-  ownProgress: 2.69985,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2024-06-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineHypothetically = {
       externalLink: "https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO",
     },
   ],
+  title: "Hypothetically",
 } as const satisfies Release

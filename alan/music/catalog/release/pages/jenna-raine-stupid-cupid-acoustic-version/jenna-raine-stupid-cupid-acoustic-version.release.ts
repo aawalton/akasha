@@ -4,15 +4,14 @@ export const jennaRaineStupidCupidAcousticVersion = {
   id: "01a0676a-d72a-7038-9fe7-26aceab0b727",
   type: "page-type/release",
   slug: "jenna-raine-stupid-cupid-acoustic-version",
-  title: "Stupid Cupid (Acoustic Version)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 5.76985,
-  ownProgress: 5.76985,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-04-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineStupidCupidAcousticVersion = {
       externalLink: "https://open.spotify.com/album/7la8OQJ5dzgJ5oQFSeeTzk",
     },
   ],
+  title: "Stupid Cupid (Acoustic Version)",
 } as const satisfies Release

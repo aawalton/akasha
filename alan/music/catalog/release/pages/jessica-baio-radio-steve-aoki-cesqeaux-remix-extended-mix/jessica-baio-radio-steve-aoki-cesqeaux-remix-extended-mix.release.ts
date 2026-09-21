@@ -4,7 +4,7 @@ export const jessicaBaioRadioSteveAokiCesqeauxRemixExtendedMix = {
   id: "01a0c622-1203-7b78-84dd-6cd45da1f98c",
   type: "page-type/release",
   slug: "jessica-baio-radio-steve-aoki-cesqeaux-remix-extended-mix",
-  ownLength: 4,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,

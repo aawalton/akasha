@@ -4,15 +4,14 @@ export const jessicaBaioBadTattoo = {
   id: "01a0676a-d718-700e-bcdc-618058cf8088",
   type: "page-type/release",
   slug: "jessica-baio-bad-tattoo",
-  title: "bad tattoo",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 12.973583,
-  ownProgress: 12.973583,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-12-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioBadTattoo = {
       externalLink: "https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR",
     },
   ],
+  title: "bad tattoo",
 } as const satisfies Release

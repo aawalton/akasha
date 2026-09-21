@@ -4,15 +4,14 @@ export const jessicaBaioHome = {
   id: "01a0676a-d720-7050-b90e-2fddd0b19775",
   type: "page-type/release",
   slug: "jessica-baio-home",
-  title: "home",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 2.970317,
-  ownProgress: 2.970317,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2021-07-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioHome = {
       externalLink: "https://open.spotify.com/album/15SQweqZr9AEoXOfGhIKmr",
     },
   ],
+  title: "home",
 } as const satisfies Release

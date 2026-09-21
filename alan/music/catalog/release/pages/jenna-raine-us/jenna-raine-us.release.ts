@@ -4,15 +4,14 @@ export const jennaRaineUs = {
   id: "01a0676a-d72f-7059-891c-06623cd448ae",
   type: "page-type/release",
   slug: "jenna-raine-us",
-  title: "us",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 3.27145,
-  ownProgress: 3.27145,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2018-10-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineUs = {
       externalLink: "https://open.spotify.com/album/1DWa4AfwVt5paG5c9oXkGO",
     },
   ],
+  title: "us",
 } as const satisfies Release

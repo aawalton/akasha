@@ -4,14 +4,13 @@ export const jessicaBaioAccident = {
   id: "01a0676a-d715-704d-85eb-57156a1566ca",
   type: "page-type/release",
   slug: "jessica-baio-accident",
-  title: "accident",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 12.4115,
-  ownProgress: 12.4115,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-10-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioAccident = {
       lastSyncedAt: "2025-10-30",
     },
   ],
+  title: "accident",
 } as const satisfies Release

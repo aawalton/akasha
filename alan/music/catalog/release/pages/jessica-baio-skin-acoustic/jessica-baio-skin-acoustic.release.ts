@@ -4,15 +4,14 @@ export const jessicaBaioSkinAcoustic = {
   id: "01a0676a-d729-7017-996d-567a46c090e4",
   type: "page-type/release",
   slug: "jessica-baio-skin-acoustic",
-  title: "skin (acoustic)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.324533,
-  ownProgress: 3.324533,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-04-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioSkinAcoustic = {
       externalLink: "https://open.spotify.com/album/27raWQlJAFnw3FER1dpyMQ",
     },
   ],
+  title: "skin (acoustic)",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const jessicaBaioTrustIssues = {
   id: "01a0676a-d72f-7022-921c-b3bdd2bad1bb",
   type: "page-type/release",
   slug: "jessica-baio-trust-issues",
-  title: "trust issues",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 2.2377,
-  ownProgress: 2.2377,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-09-30",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioTrustIssues = {
       externalLink: "https://open.spotify.com/album/2ANMXCeMCSxdjTHoP8UpnU",
     },
   ],
+  title: "trust issues",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const jessicaBaioUnsaidDeluxe = {
   id: "01a0676a-d72f-7046-8f2d-683f8da8895e",
   type: "page-type/release",
   slug: "jessica-baio-unsaid-deluxe",
-  title: "UNSAID (Deluxe)",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 37.398883,
-  ownProgress: 37.398883,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2025-05-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioUnsaidDeluxe = {
       externalLink: "https://open.spotify.com/album/4SkkTkqPDk2oPTZxSrI6rf",
     },
   ],
+  title: "UNSAID (Deluxe)",
 } as const satisfies Release

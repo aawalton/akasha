@@ -4,7 +4,7 @@ export const jennaRaineGodMadeHim = {
   id: "01a0c621-17ac-7076-80bf-b1cdd2a5d105",
   type: "page-type/release",
   slug: "jenna-raine-god-made-him",
-  ownLength: 10.0336,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,

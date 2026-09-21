@@ -4,15 +4,14 @@ export const jessicaBaioFerrari = {
   id: "01a0676a-d71d-7071-84cf-932be020f516",
   type: "page-type/release",
   slug: "jessica-baio-ferrari",
-  title: "ferrari",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 9.127933,
-  ownProgress: 9.127933,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-09-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioFerrari = {
       externalLink: "https://open.spotify.com/album/56yCYfq1t4VOQ5cwGgka3W",
     },
   ],
+  title: "ferrari",
 } as const satisfies Release

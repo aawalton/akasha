@@ -4,15 +4,14 @@ export const jessicaBaioGhost = {
   id: "01a0676a-d71e-7057-8a83-ca5de02ceceb",
   type: "page-type/release",
   slug: "jessica-baio-ghost",
-  title: "ghost",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 10.290533,
-  ownProgress: 10.290533,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-10-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioGhost = {
       externalLink: "https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r",
     },
   ],
+  title: "ghost",
 } as const satisfies Release

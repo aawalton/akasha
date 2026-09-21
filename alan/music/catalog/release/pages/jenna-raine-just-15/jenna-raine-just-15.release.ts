@@ -4,14 +4,13 @@ export const jennaRaineJust15 = {
   id: "01a0676a-d722-702e-855e-11f7004cd40f",
   type: "page-type/release",
   slug: "jenna-raine-just-15",
-  title: "Just 15",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 3.52805,
-  ownProgress: 3.52805,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-11-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineJust15 = {
       lastSyncedAt: "2025-11-30",
     },
   ],
+  title: "Just 15",
 } as const satisfies Release

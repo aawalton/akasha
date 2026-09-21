@@ -4,14 +4,13 @@ export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
   id: "01a0676a-d716-701c-baec-3a876d0a9eda",
   type: "page-type/release",
   slug: "jessica-baio-all-i-saw-was-you-feat-jessica-baio",
-  title: "ALL I SAW WAS YOU (feat. Jessica Baio)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.091767,
-  ownProgress: 3.091767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-11-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
       lastSyncedAt: "2025-11-30",
     },
   ],
+  title: "ALL I SAW WAS YOU (feat. Jessica Baio)",
 } as const satisfies Release

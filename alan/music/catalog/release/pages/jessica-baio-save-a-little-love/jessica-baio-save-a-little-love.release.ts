@@ -4,7 +4,7 @@ export const jessicaBaioSaveALittleLove = {
   id: "01a0c622-111a-7243-b27c-ec264cce1b05",
   type: "page-type/release",
   slug: "jessica-baio-save-a-little-love",
-  ownLength: 2.8337,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,

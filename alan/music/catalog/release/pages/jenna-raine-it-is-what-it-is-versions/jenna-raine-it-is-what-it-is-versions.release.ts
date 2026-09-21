@@ -4,15 +4,14 @@ export const jennaRaineItIsWhatItIsVersions = {
   id: "01a0676a-d722-7009-8f48-59557fae0231",
   type: "page-type/release",
   slug: "jenna-raine-it-is-what-it-is-versions",
-  title: "It Is What It Is (Versions)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 4.675433,
-  ownProgress: 4.675433,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-07-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineItIsWhatItIsVersions = {
       externalLink: "https://open.spotify.com/album/6GbpN46VmhzBhSktjEa9uD",
     },
   ],
+  title: "It Is What It Is (Versions)",
 } as const satisfies Release

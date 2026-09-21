@@ -4,7 +4,7 @@ export const jessicaBaioRadioHeklerRemixExtendedMix = {
   id: "01a0c622-11b8-76cd-90b3-2ef2df349068",
   type: "page-type/release",
   slug: "jessica-baio-radio-hekler-remix-extended-mix",
-  ownLength: 4.1866666666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,

@@ -4,15 +4,14 @@ export const jessicaBaioSkin = {
   id: "01a0676a-d729-7016-a18c-a84b06e950fd",
   type: "page-type/release",
   slug: "jessica-baio-skin",
-  title: "skin",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.209783,
-  ownProgress: 3.209783,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2021-12-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioSkin = {
       externalLink: "https://open.spotify.com/album/5zHfha4LJWpHoXHrr5IiTh",
     },
   ],
+  title: "skin",
 } as const satisfies Release

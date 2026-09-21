@@ -4,15 +4,14 @@ export const jessicaBaioBadTimes = {
   id: "01a0676a-d718-700f-9fea-50b7de504f52",
   type: "page-type/release",
   slug: "jessica-baio-bad-times",
-  title: "bad times",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jessica-baio"],
   position: 0,
-  ownLength: 3.20675,
-  ownProgress: 3.20675,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-07-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jessicaBaioBadTimes = {
       externalLink: "https://open.spotify.com/album/2foHbdP3fsBLwqH9SBkLy2",
     },
   ],
+  title: "bad times",
 } as const satisfies Release

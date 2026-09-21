@@ -4,7 +4,7 @@ export const jennaRaineWhatWouldISay = {
   id: "01a0c621-1857-7769-887a-619f97dc9958",
   type: "page-type/release",
   slug: "jenna-raine-what-would-i-say",
-  ownLength: 6.31985,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,

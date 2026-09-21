@@ -4,15 +4,14 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
   id: "01a0676a-d720-7000-b641-d31c7800688b",
   type: "page-type/release",
   slug: "jenna-raine-have-yourself-a-merry-little-christmas",
-  title: "Have Yourself A Merry Little Christmas",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 2.1004,
-  ownProgress: 2.1004,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2024-11-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
       externalLink: "https://open.spotify.com/album/4KGyuuECudlsNoqcHfcuWC",
     },
   ],
+  title: "Have Yourself A Merry Little Christmas",
 } as const satisfies Release

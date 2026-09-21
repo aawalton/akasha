@@ -4,15 +4,14 @@ export const jennaRaineStupidCupid = {
   id: "01a0676a-d72a-7037-b394-09c3c7bff6dc",
   type: "page-type/release",
   slug: "jenna-raine-stupid-cupid",
-  title: "Stupid Cupid",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
-  ownLength: 2.899233,
-  ownProgress: 2.899233,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-03-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const jennaRaineStupidCupid = {
       externalLink: "https://open.spotify.com/album/5L3H6uXdvsSUkgSZTeU3fv",
     },
   ],
+  title: "Stupid Cupid",
 } as const satisfies Release
