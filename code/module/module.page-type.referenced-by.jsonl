@@ -2565,6 +2565,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/system-window-schema/system-window-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/turn-package-schema/turn-package-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/word-count/word-count.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/game-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/affinity-element/affinity-element.module.ts"}

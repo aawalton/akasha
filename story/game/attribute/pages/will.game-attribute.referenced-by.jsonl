@@ -1,5 +1,6 @@
 {"propertySlug":"game-attributes","path":"story/game/pages/harem-hotel/harem-hotel.game.ts","id":"01a0673f-a3d6-7001-854b-30d81fd19b31"}
 {"propertySlug":"game-attributes","path":"story/game/pages/the-tower/the-tower.game.ts","id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
+{"propertySlug":"import","fileName":"will.game-attribute.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"will.game-attribute.ts","path":"story/game/mechanic/pages/focus-max/focus-max.game-mechanic.code.ts"}
 {"propertySlug":"import","fileName":"will.game-attribute.ts","path":"story/game/mechanic/pages/ment-atk/ment-atk.game-mechanic.code.ts"}
 {"propertySlug":"import","fileName":"will.game-attribute.ts","path":"story/game/mechanic/pages/ment-def/ment-def.game-mechanic.code.ts"}
