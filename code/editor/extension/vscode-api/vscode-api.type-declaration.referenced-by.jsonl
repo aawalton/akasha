@@ -107,6 +107,12 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/smilingjenny/web/root.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/alert-notification/alert-notification.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/alert-sound/alert-sound.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build-deploy-check/modules/addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build-deploy-check/modules/addon-sandbox-load/addon-sandbox-load.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}

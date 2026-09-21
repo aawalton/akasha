@@ -20,6 +20,7 @@ import {
   deriveContentFrontier,
 } from "akasha/story/ui/modules/content-frontier/content-frontier.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const UNFOLLOWED: GameAlerts = { sound: "off", desktop: false }
 
