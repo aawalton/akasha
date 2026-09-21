@@ -557,6 +557,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture-sale/temper-capture-sale.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture-shape/temper-capture-shape.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture-writer/temper-capture-writer.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/temper-capture.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog-core/temper-catalog-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog-side-file/temper-catalog-side-file.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-catalog.domain.ts"}

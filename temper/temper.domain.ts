@@ -105,6 +105,7 @@ export const temper = {
     "service-workstation/temper-watcher",
     "domain/temper-eso",
     "domain/temper-addon",
+    "domain/temper-capture",
   ],
   decisions: [
     {
