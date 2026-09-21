@@ -373,16 +373,12 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/pages/ki/show/ki-show.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/person.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/sms-consent/sms-consent.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/anchor-image/persona-anchor-image.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/closeness-level/closeness-level.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/cover-image/persona-cover-image.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/craft-day/persona-craft-day.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/image/persona-image.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/origin-kind/origin-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/persona.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/review-session/review-session.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/wallpaper/persona-wallpaper.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts"}

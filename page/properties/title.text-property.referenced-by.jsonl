@@ -86,7 +86,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"person/pages/ki/collection-template/ki-collection-template.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"person/sms-consent/sms-consent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/craft-day/persona-craft-day.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/image/persona-image.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/review-session/review-session.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"}
@@ -201,7 +200,6 @@
 {"propertySlug":"page-property","path":"person/pages/ki/collection-template/ki-collection-template.page-type.ts","id":"01a06825-d0ec-7fb0-9159-d7bc2e559c43"}
 {"propertySlug":"page-property","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"page-property","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}
-{"propertySlug":"page-property","path":"persona/image/persona-image.page-type.ts","id":"01a0655b-4a9b-7009-9c47-3a4467acc46f"}
 {"propertySlug":"page-property","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"page-property","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"page-property","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}

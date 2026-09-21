@@ -92,7 +92,6 @@
 {"propertySlug":"extends-type","path":"person/email/message/email-message.page-type.ts","id":"01a06828-59d3-79b5-a23b-24604d220bf0"}
 {"propertySlug":"extends-type","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"extends-type","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}
-{"propertySlug":"extends-type","path":"persona/image/persona-image.page-type.ts","id":"01a0655b-4a9b-7009-9c47-3a4467acc46f"}
 {"propertySlug":"extends-type","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"extends-type","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"extends-type","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts","id":"019e2701-19cb-71d9-a820-bddf28cec176"}
@@ -233,7 +232,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"person/email/message/email-message.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"person/sms-consent/sms-consent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"persona/craft-day/persona-craft-day.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"persona/image/persona-image.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"persona/review-session/review-session.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.types.ts"}

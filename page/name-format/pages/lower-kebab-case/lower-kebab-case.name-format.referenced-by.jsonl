@@ -45,7 +45,6 @@
 {"propertySlug":"name-format","path":"person/access/properties/person-access-serves.text-property.ts","id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
 {"propertySlug":"name-format","path":"person/access/properties/person-access-target.text-property.ts","id":"01a05430-c0ee-7f62-a8b7-74d97d845e28"}
 {"propertySlug":"name-format","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-decision.text-property.ts","id":"01a06862-a0bc-7f55-8d40-b7436ef558a4"}
-{"propertySlug":"name-format","path":"persona/image/properties/image-root.text-property.ts","id":"01a0655b-4a9b-7001-b814-afe1edf9866f"}
 {"propertySlug":"name-format","path":"persona/properties/value-slug.text-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
 {"propertySlug":"name-format","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"name-format","path":"story/game/properties/genre.text-property.ts","id":"01a0673c-8e0e-7005-9075-7892b4954917"}

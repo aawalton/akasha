@@ -3260,16 +3260,11 @@
 {"propertySlug":"decision-kind","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
 {"propertySlug":"decision-kind","path":"person/properties/supabase-auth-user-id.text-property.ts","id":"01a053fa-eba7-79fc-b15c-76eb7cbfe5b4"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
-{"propertySlug":"decision-kind","path":"persona/anchor-image/persona-anchor-image.page-type.ts","id":"01a0655b-4a9b-700a-b7af-04be2a9c0df4"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-here.number-property.ts","id":"01a0541b-6a82-72e4-a9db-75b5573cc8ee"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-next.number-property.ts","id":"01a0541b-6a83-7beb-9eb1-d13e2108d749"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.number-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
-{"propertySlug":"decision-kind","path":"persona/cover-image/persona-cover-image.page-type.ts","id":"01a0655b-4a9b-700b-a9cc-a60c8e139737"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}
-{"propertySlug":"decision-kind","path":"persona/image/persona-image.page-type.ts","id":"01a0655b-4a9b-7009-9c47-3a4467acc46f"}
-{"propertySlug":"decision-kind","path":"persona/image/properties/image-path.text-property.ts","id":"01a0655b-4a9b-7000-be1d-ee856388970b"}
-{"propertySlug":"decision-kind","path":"persona/image/properties/image-root.text-property.ts","id":"01a0655b-4a9b-7001-b814-afe1edf9866f"}
 {"propertySlug":"decision-kind","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts","id":"01a0786b-2a28-7d50-91e5-a54586893638"}
 {"propertySlug":"decision-kind","path":"persona/modules/reading/persona-reading.module.ts","id":"01a06949-b280-754e-ac40-fe17b061a1af"}
 {"propertySlug":"decision-kind","path":"persona/modules/targets/persona-targets.module.ts","id":"01a0657d-a75e-7009-bc7f-b3d878fd5671"}
@@ -3292,7 +3287,6 @@
 {"propertySlug":"decision-kind","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"decision-kind","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}
 {"propertySlug":"decision-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
-{"propertySlug":"decision-kind","path":"persona/wallpaper/persona-wallpaper.page-type.ts","id":"01a0655b-4a9b-700c-8243-c78f27e30dd7"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/archive-of-worlds-web.router-app.ts","id":"01a06582-2737-7abe-a512-ecb40685ecf4"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.ts","id":"01a0bb92-4d60-7a2d-a44a-b6ab161a858c"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-handover/archive-of-worlds-handover.route.ts","id":"01a0bb92-75ea-7d80-91b1-1a70858aeb5b"}

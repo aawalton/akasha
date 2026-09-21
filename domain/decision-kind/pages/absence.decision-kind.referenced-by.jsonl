@@ -1652,7 +1652,6 @@
 {"propertySlug":"decision-kind","path":"person/modules/route-access/route-access.module.ts","id":"01a05afe-7a0f-7405-b894-524372b09614"}
 {"propertySlug":"decision-kind","path":"person/modules/sms-consent/sms-consent.module.ts","id":"01a05b54-a902-76be-b1e3-8d624a488ea5"}
 {"propertySlug":"decision-kind","path":"person/modules/sms-opt-in/sms-opt-in.module.ts","id":"01a05b54-a903-7d92-ba67-13983ceac2c4"}
-{"propertySlug":"decision-kind","path":"persona/image/persona-image.page-type.ts","id":"01a0655b-4a9b-7009-9c47-3a4467acc46f"}
 {"propertySlug":"decision-kind","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts","id":"01a0786b-2a28-7d50-91e5-a54586893638"}
 {"propertySlug":"decision-kind","path":"persona/modules/targets/persona-targets.module.ts","id":"01a0657d-a75e-7009-bc7f-b3d878fd5671"}
 {"propertySlug":"decision-kind","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}

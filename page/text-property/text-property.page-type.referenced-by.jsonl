@@ -388,8 +388,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/pose.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/stage.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/wardrobe.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/image/properties/image-path.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/image/properties/image-root.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/history.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/last-messaged-at.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/purpose.text-property.ts"}
