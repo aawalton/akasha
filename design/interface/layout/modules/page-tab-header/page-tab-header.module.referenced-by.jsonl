@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"design/interface/system/modules/components-tab/components-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"design/interface/system/modules/patterns-tab/patterns-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"design/interface/system/modules/properties-tab/properties-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"design/interface/system/modules/tokens-tab/tokens-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"page/ui/component/modules/page-system-view-header/page-system-view-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-tab-header.module.code.tsx","path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx"}

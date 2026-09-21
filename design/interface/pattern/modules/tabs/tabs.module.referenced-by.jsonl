@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"design/interface/system/modules/design-system-page-content/design-system-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"design/interface/system/modules/patterns-tab/patterns-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"design/interface/system/modules/properties-tab/properties-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"design/interface/system/modules/tokens-tab/tokens-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}

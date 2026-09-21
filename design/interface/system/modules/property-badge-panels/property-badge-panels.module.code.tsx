@@ -1,0 +1,419 @@
+"use client"
+
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import type {
+  PropertyDefinition,
+  PropertyType,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
+import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
+
+interface BadgeSample {
+  readonly type: PropertyType
+  readonly property: PropertyDefinition
+  readonly value: PropertyValue
+}
+
+function SampleRows({ samples }: { samples: readonly BadgeSample[] }) {
+  return (
+    <div className="space-y-4">
+      {samples.map((sample) => (
+        <div key={sample.property.id} className="flex items-center gap-3">
+          <span className="w-32 shrink-0 text-secondary text-sm">{sample.type}</span>
+          <PropertyBadge property={sample.property} value={sample.value} context="detail" />
+        </div>
+      ))}
+    </div>
+  )
+}
+
+const SELECT_OPTIONS = [
+  { id: "draft", label: "Draft" },
+  { id: "review", label: "In Review" },
+  { id: "landed", label: "Landed" },
+]
+
+const TEXT_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "text",
+    property: {
+      id: "ds-property-text",
+      title: "Name",
+      type: "text",
+      drawnBy: ["text-property", "page-property", "domain", "page"],
+    },
+    value: "Aurora Borealis",
+  },
+  {
+    type: "markdown",
+    property: {
+      id: "ds-property-markdown",
+      title: "Notes",
+      type: "markdown",
+      drawnBy: ["markdown-property", "text-property", "page-property", "domain", "page"],
+    },
+    value: "**Bold** opening, then the rest of the note.",
+  },
+  {
+    type: "url",
+    property: {
+      id: "ds-property-url",
+      title: "Source",
+      type: "url",
+      drawnBy: ["url-property", "page-property", "domain", "page"],
+    },
+    value: "https://akasha.example.com/docs/property-system",
+  },
+  {
+    type: "json",
+    property: {
+      id: "ds-property-json",
+      title: "Shape",
+      type: "json",
+      drawnBy: ["record-property", "page-property", "domain", "page"],
+    },
+    value: { engine: "zod", strict: true, fields: ["id", "title"] },
+  },
+  {
+    type: "rich-document",
+    property: {
+      id: "ds-property-rich-document",
+      title: "Body",
+      type: "rich-document",
+      drawnBy: ["rich-document-property", "text-property", "page-property", "domain", "page"],
+    },
+    value: "The opening paragraph of a long document.",
+  },
+]
+
+const NUMBER_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "number",
+    property: {
+      id: "ds-property-number",
+      title: "Weight",
+      type: "number",
+      drawnBy: ["number-property", "page-property", "domain", "page"],
+      config: { format: "number-with-separators", units: "pts" },
+    },
+    value: 1240,
+  },
+  {
+    type: "aggregate",
+    property: {
+      id: "ds-property-aggregate",
+      title: "Total Weight",
+      type: "aggregate",
+      drawnBy: ["aggregate-property", "number-property", "page-property", "domain", "page"],
+      config: { format: "compact", function: "sum" },
+    },
+    value: 18450,
+  },
+  {
+    type: "formula",
+    property: {
+      id: "ds-property-formula",
+      title: "Share",
+      type: "formula",
+      drawnBy: ["formula-property", "number-property", "page-property", "domain", "page"],
+      config: { returnType: "number", format: "percent", percentBasis: 100, decimals: 1 },
+    },
+    value: 73.4,
+  },
+  {
+    type: "rollup",
+    property: {
+      id: "ds-property-rollup",
+      title: "Child Count",
+      type: "rollup",
+      drawnBy: ["rollup-property", "number-property", "page-property", "domain", "page"],
+      config: { format: "number" },
+    },
+    value: 12,
+  },
+  {
+    type: "progress",
+    property: {
+      id: "ds-property-progress",
+      title: "Done",
+      type: "progress",
+      drawnBy: ["temper-task-progress", "page-property", "domain", "page"],
+    },
+    value: { current: 7, total: 12 },
+  },
+]
+
+const SELECTION_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "select",
+    property: {
+      id: "ds-property-select",
+      title: "Stage",
+      type: "select",
+      drawnBy: ["select-property", "page-property", "domain", "page"],
+      config: { options: SELECT_OPTIONS },
+    },
+    value: "review",
+  },
+  {
+    type: "multi-select",
+    property: {
+      id: "ds-property-multi-select",
+      title: "Stages",
+      type: "multi-select",
+      drawnBy: ["multi-select-property", "page-property", "domain", "page"],
+      config: { options: SELECT_OPTIONS },
+    },
+    value: ["review", "landed"],
+  },
+  {
+    type: "path-select",
+    property: {
+      id: "ds-property-path-select",
+      title: "Folder",
+      type: "path-select",
+      drawnBy: ["path-select-property", "page-property", "domain", "page"],
+      config: { providerId: "design-system", separator: " / " },
+    },
+    value: "engineering/design/tokens",
+  },
+  {
+    type: "boolean",
+    property: {
+      id: "ds-property-boolean",
+      title: "Published",
+      type: "boolean",
+      drawnBy: ["boolean-property", "page-property", "domain", "page"],
+    },
+    value: true,
+  },
+]
+
+const DATE_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "calendar-date",
+    property: {
+      id: "ds-property-calendar-date",
+      title: "Due",
+      type: "calendar-date",
+      drawnBy: ["calendar-date-property", "page-property", "domain", "page"],
+    },
+    value: "2026-03-14",
+  },
+  {
+    type: "calendar-time",
+    property: {
+      id: "ds-property-calendar-time",
+      title: "Starts",
+      type: "calendar-time",
+      drawnBy: ["calendar-time-property", "page-property", "domain", "page"],
+    },
+    value: "14:30",
+  },
+  {
+    type: "instant",
+    property: {
+      id: "ds-property-instant",
+      title: "Last Seen",
+      type: "instant",
+      drawnBy: ["instant-property", "page-property", "domain", "page"],
+      config: { format: "relative" },
+    },
+    value: "2026-03-14T09:20:00.000Z",
+  },
+  {
+    type: "rrule",
+    property: {
+      id: "ds-property-rrule",
+      title: "Repeats",
+      type: "rrule",
+      drawnBy: ["rrule-property", "page-property", "domain", "page"],
+    },
+    value: "FREQ=WEEKLY;BYDAY=MO,WE,FR",
+  },
+]
+
+const RELATION_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "relation",
+    property: {
+      id: "ds-property-relation",
+      title: "Owner",
+      type: "relation",
+      drawnBy: ["relation-property", "page-property", "domain", "page"],
+    },
+    value: { id: "ds-page-crown-of-ember", title: "Crown of Ember" },
+  },
+  {
+    type: "multi-relation",
+    property: {
+      id: "ds-property-multi-relation",
+      title: "Members",
+      type: "multi-relation",
+      drawnBy: ["multi-relation-property", "page-property", "domain", "page"],
+    },
+    value: [
+      { id: "ds-page-crown-of-ember", title: "Crown of Ember" },
+      { id: "ds-page-vault-of-ash", title: "Vault of Ash" },
+    ],
+  },
+]
+
+const ACTION_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "action-button",
+    property: {
+      id: "ds-property-action-button",
+      title: "Run Effects",
+      type: "action-button",
+      drawnBy: ["action-button-property", "page-property", "domain", "page"],
+      config: { verbId: "declared-effects", label: "Run Effects" },
+    },
+    value: null,
+  },
+]
+
+const EMPTY_SAMPLES: readonly BadgeSample[] = [
+  {
+    type: "text",
+    property: {
+      id: "ds-property-empty-text",
+      title: "Name",
+      type: "text",
+      drawnBy: ["text-property", "page-property", "domain", "page"],
+    },
+    value: null,
+  },
+  {
+    type: "number",
+    property: {
+      id: "ds-property-empty-number",
+      title: "Weight",
+      type: "number",
+      drawnBy: ["number-property", "page-property", "domain", "page"],
+    },
+    value: null,
+  },
+  {
+    type: "select",
+    property: {
+      id: "ds-property-empty-select",
+      title: "Stage",
+      type: "select",
+      drawnBy: ["select-property", "page-property", "domain", "page"],
+      config: { options: SELECT_OPTIONS },
+    },
+    value: null,
+  },
+  {
+    type: "calendar-date",
+    property: {
+      id: "ds-property-empty-calendar-date",
+      title: "Due",
+      type: "calendar-date",
+      drawnBy: ["calendar-date-property", "page-property", "domain", "page"],
+    },
+    value: null,
+  },
+  {
+    type: "relation",
+    property: {
+      id: "ds-property-empty-relation",
+      title: "Owner",
+      type: "relation",
+      drawnBy: ["relation-property", "page-property", "domain", "page"],
+    },
+    value: null,
+  },
+  {
+    type: "action-button",
+    property: {
+      id: "ds-property-empty-action-button",
+      title: "Run Effects",
+      type: "action-button",
+      drawnBy: ["action-button-property", "page-property", "domain", "page"],
+      config: { verbId: "declared-effects", label: "Run Effects" },
+    },
+    value: null,
+  },
+]
+
+export function TextPropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-text-property-badges" collapsible title="Text Property Badges">
+      <p className="text-secondary text-sm">
+        Only <code>url</code> and <code>json</code> carry a drawing of their own. The rest fall back
+        to the plain <code>page-property</code> badge.
+      </p>
+      <SampleRows samples={TEXT_SAMPLES} />
+    </PanelCard>
+  )
+}
+
+export function NumberPropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-number-property-badges" collapsible title="Number Property Badges">
+      <p className="text-secondary text-sm">
+        The number drawing reads <code>format</code>, <code>prefix</code> and <code>units</code> off
+        the property config.
+      </p>
+      <SampleRows samples={NUMBER_SAMPLES} />
+    </PanelCard>
+  )
+}
+
+export function SelectionPropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-selection-property-badges" collapsible title="Selection Property Badges">
+      <p className="text-secondary text-sm">
+        <code>multi-select</code> and <code>path-select</code> reach no drawing of their own, so the
+        fallback badge draws whatever text the value holds.
+      </p>
+      <SampleRows samples={SELECTION_SAMPLES} />
+    </PanelCard>
+  )
+}
+
+export function DatePropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-date-property-badges" collapsible title="Date Property Badges">
+      <SampleRows samples={DATE_SAMPLES} />
+    </PanelCard>
+  )
+}
+
+export function RelationPropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-relation-property-badges" collapsible title="Relation Property Badges">
+      <p className="text-secondary text-sm">
+        A relation resolves its name off the page resolver. Away from one it falls back to the title
+        carried on the value.
+      </p>
+      <SampleRows samples={RELATION_SAMPLES} />
+    </PanelCard>
+  )
+}
+
+export function ActionPropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-action-property-badges" collapsible title="Action Property Badges">
+      <p className="text-secondary text-sm">
+        An action button is disabled away from a page, since what it fires wants a page to fire it
+        against.
+      </p>
+      <SampleRows samples={ACTION_SAMPLES} />
+    </PanelCard>
+  )
+}
+
+export function EmptyPropertyBadgesPanel() {
+  return (
+    <PanelCard id="ds-empty-property-badges" collapsible title="Empty Property Badges">
+      <p className="text-secondary text-sm">
+        One of each family drawn over an empty value. Only <code>action-button</code> draws itself
+        when empty; the rest hand off to the empty badge.
+      </p>
+      <SampleRows samples={EMPTY_SAMPLES} />
+    </PanelCard>
+  )
+}

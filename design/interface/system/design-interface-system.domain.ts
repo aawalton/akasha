@@ -35,6 +35,8 @@ export const designInterfaceSystem = {
     "module/patterns-ux-panels",
     "module/patterns-visual-panels",
     "module/personality-tone",
+    "module/properties-tab",
+    "module/property-badge-panels",
     "module/spacing-radius",
     "module/state-layers",
     "module/strategic-prism",
