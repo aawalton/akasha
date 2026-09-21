@@ -22,5 +22,9 @@ export const temperAddonLibrary = {
     "eso-addon/temper-lib-map-data",
     "eso-addon/temper-lib-map-ping",
     "eso-addon/temper-lib-map-pins",
+    "eso-addon/temper-lib-media-provider",
+    "eso-addon/temper-lib-notification",
+    "eso-addon/temper-lib-price",
+    "eso-addon/temper-lib-saved-vars",
   ],
 } as const satisfies Domain

@@ -1676,6 +1676,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-data/modules/map-data-casts/map-data-casts.module.ts","id":"01a061e1-ae9a-712e-bdb0-2073bf6201de"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-ping/modules/map-ping-casts/map-ping-casts.module.ts","id":"01a0605f-6260-78c9-885b-2ba545ad7f6f"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.ts","id":"01a0605f-6260-741e-924b-a396ec57c80f"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-media-provider/media-declarations/media-declarations.type-declaration.ts","id":"01a0620a-a168-770b-99ab-0f8790dd4a01"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-media-provider/modules/media-main/media-main.module.ts","id":"01a06069-f8c4-7b14-aede-050c4b2d0c98"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-notification/modules/notification-casts/notification-casts.module.ts","id":"01a0605a-0516-7516-a0f3-ef7984de267b"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-price/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.ts","id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-roster/addon-roster.module.ts","id":"01a06060-ec3e-72ca-8583-d3120bbc8269"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/deployable-addons/deployable-addons.module.ts","id":"01a06060-ec3e-76a0-91e2-ff4014f8a701"}
@@ -1845,11 +1850,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.ts","id":"01a0615a-a1dc-7109-83cd-300cf2753778"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/temper-items-rules-routing.domain.ts","id":"01a0615a-a1de-7f51-9fb6-fb90ff022184"}
 {"propertySlug":"decision-kind","path":"temper/lccc/modules/lccc-casts/lccc-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
-{"propertySlug":"decision-kind","path":"temper/lib-media-provider/media-declarations/media-declarations.type-declaration.ts","id":"01a0620a-a168-770b-99ab-0f8790dd4a01"}
-{"propertySlug":"decision-kind","path":"temper/lib-media-provider/modules/media-main/media-main.module.ts","id":"01a06069-f8c4-7b14-aede-050c4b2d0c98"}
-{"propertySlug":"decision-kind","path":"temper/lib-notification/modules/notification-casts/notification-casts.module.ts","id":"01a0605a-0516-7516-a0f3-ef7984de267b"}
-{"propertySlug":"decision-kind","path":"temper/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
-{"propertySlug":"decision-kind","path":"temper/lib-price/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.ts","id":"01a06275-c443-79ce-a2b3-306d66ef04d7"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.ts","id":"01a06275-c443-74d3-95bf-8e3d22f7d594"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.ts","id":"01a06275-c444-7b0e-8cc1-e4c4d6decd30"}

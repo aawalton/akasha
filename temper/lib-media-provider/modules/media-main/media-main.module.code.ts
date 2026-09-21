@@ -1,1 +1,0 @@
-import "akasha/temper/lib-media-provider/modules/media-global/media-global.module.code.ts"

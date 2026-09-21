@@ -415,6 +415,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.ts","id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-ping/temper-lib-map-ping.eso-addon.ts","id":"01a0605f-625e-7267-be33-c5a31b618626"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-pins/temper-lib-map-pins.eso-addon.ts","id":"01a06062-57dc-7eeb-bb3d-6badd05f9bf5"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-media-provider/temper-lib-media-provider.eso-addon.ts","id":"01a06069-f8c0-7024-bde1-26d49b2a6bff"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-notification/temper-lib-notification.eso-addon.ts","id":"01a0605a-0514-797f-9f36-a01b055a56fc"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-price/temper-lib-price.eso-addon.ts","id":"01a0615d-c21d-7961-8564-2c0c9e040e08"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-saved-vars/temper-lib-saved-vars.eso-addon.ts","id":"01a06177-abf7-7c8b-83f6-be2b40de177e"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
@@ -904,10 +908,6 @@
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
 {"propertySlug":"decision-kind","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
-{"propertySlug":"decision-kind","path":"temper/lib-media-provider/temper-lib-media-provider.eso-addon.ts","id":"01a06069-f8c0-7024-bde1-26d49b2a6bff"}
-{"propertySlug":"decision-kind","path":"temper/lib-notification/temper-lib-notification.eso-addon.ts","id":"01a0605a-0514-797f-9f36-a01b055a56fc"}
-{"propertySlug":"decision-kind","path":"temper/lib-price/temper-lib-price.eso-addon.ts","id":"01a0615d-c21d-7961-8564-2c0c9e040e08"}
-{"propertySlug":"decision-kind","path":"temper/lib-saved-vars/temper-lib-saved-vars.eso-addon.ts","id":"01a06177-abf7-7c8b-83f6-be2b40de177e"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.ts","id":"01a06275-c443-7905-af8d-6d33bbb2d716"}
