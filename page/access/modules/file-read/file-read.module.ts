@@ -68,5 +68,17 @@ export const fileRead = {
       statement:
         "A question the pages refuse is raised rather than read as a page type holding no page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every read here is held to what the reader riding with that read may reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A narrow that reader is held to rides into the question the pages are asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type withheld from that reader raises rather than answering no rows.",
+    },
   ],
 } as const satisfies Module

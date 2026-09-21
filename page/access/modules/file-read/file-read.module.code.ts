@@ -17,6 +17,10 @@ import {
 } from "akasha/page/access/modules/file-narrow/file-narrow.module.code.ts"
 import { buildRawPageRows } from "akasha/page/access/modules/file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
+import {
+  testsHeldTo,
+  whereHeldTo,
+} from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type {
   PageCursor,
@@ -272,9 +276,10 @@ export async function getFilePages(
   given: GetFilePagesArgs,
   deps: FileReadDeps = LIVE
 ): Promise<FilePagesResult> {
+  const asked = askableNarrows(given.where, given.shape.ownerSlug ?? null).where
   const args: GetFilePagesArgs = {
     ...given,
-    where: askableNarrows(given.where, given.shape.ownerSlug ?? null).where,
+    where: await whereHeldTo(given.pageTypeSlug, asked),
   }
   const order = args.order ?? DEFAULT_FILE_ORDER
   const over = runKey(args, order)
@@ -327,10 +332,11 @@ export async function getFilePagesByIdSuffix(
   deps: FileReadDeps = LIVE
 ): Promise<readonly Page[]> {
   const keys = keysBySuffix(args)
+  const where = await testsHeldTo(args.pageTypeSlug, { id: { "ends-with": args.idSuffix } })
   const asked = await deps.ask({
     pageTypeSlug: args.pageTypeSlug,
     ...(keys === null ? {} : { keys }),
-    where: { id: { "ends-with": args.idSuffix } },
+    where,
   })
   if ("refused" in asked) {
     throw new Error(`getFilePagesByIdSuffix(${args.pageTypeSlug}): ${asked.refused}`)
