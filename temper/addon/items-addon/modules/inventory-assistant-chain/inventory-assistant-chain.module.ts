@@ -4,7 +4,7 @@ export const inventoryAssistantChain = {
   id: "01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4",
   type: "page-type/module",
   slug: "inventory-assistant-chain",
-  definition: "the assistants called one after another once the ragpicker is talked to",
+  definition: "the run of assistants that talking to the ragpicker sets off",
   code: "ts",
   test: "ts",
   decisions: [
@@ -19,6 +19,22 @@ export const inventoryAssistantChain = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The player summons the ragpicker, and the chain summons everyone after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Talking to one of the player's own assistants picks that assistant's own option.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which option is the assistant's own is read from its type rather than its words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Either type the game gives a station counts as a deconstructor's own option.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An option is picked whether the run is under way or not.",
     },
     {
       decisionKind: "decision-kind/departure",

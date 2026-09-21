@@ -4,7 +4,9 @@ import {
   assistantFor,
   CHAIN_WINDOW_MS,
   chainHeldOpen,
+  optionMatching,
   roleOfStep,
+  roleOut,
   stepAfter,
 } from "akasha/temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"
 
@@ -40,6 +42,29 @@ test("a role falls back to the other assistant where the first is unheld", () =>
 test("a role no held assistant fills answers nothing", () => {
   expect(assistantFor("merchant", holding())).toBe(undefined)
   expect(assistantFor("deconstruction", holding(EZABI))).toBe(undefined)
+})
+
+test("the assistant out at the time names the role whose option is picked", () => {
+  expect(roleOut(holding(GILADIL))).toBe("deconstruction")
+  expect(roleOut(holding(NUZHIMEH))).toBe("merchant")
+  expect(roleOut(holding(TYTHIS))).toBe("banker")
+})
+
+test("no assistant out names no role", () => {
+  expect(roleOut(holding())).toBe(undefined)
+})
+
+test("the option picked is the first of a wanted type, counted from one", () => {
+  const types = [11, 22, 33]
+  const typeAt = (index: number): number => types[index - 1] ?? 0
+  expect(optionMatching([33, 22], 3, typeAt)).toBe(2)
+  expect(optionMatching([11], 3, typeAt)).toBe(1)
+})
+
+test("a menu holding no wanted type has no option picked", () => {
+  const typeAt = (index: number): number => index
+  expect(optionMatching([99], 3, typeAt)).toBe(undefined)
+  expect(optionMatching([1], 0, typeAt)).toBe(undefined)
 })
 
 test("the chain runs from deconstructing to selling to banking and then ends", () => {

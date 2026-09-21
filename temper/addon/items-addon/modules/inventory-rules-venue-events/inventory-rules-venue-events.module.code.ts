@@ -1,4 +1,5 @@
 import {
+  chainAtChatter,
   chainAtStation,
   chainAtStationClosed,
   chainAtStoreClosed,
@@ -31,6 +32,14 @@ import {
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 export function registerVenueDispatchEvents(ns: string): undefined {
+  EVENT_MANAGER.RegisterForEvent(
+    `${ns}_ChatterBegin`,
+    EVENT_CHATTER_BEGIN,
+    function (this: void, _eventCode: number, optionCount: number): undefined {
+      chainAtChatter(optionCount)
+    }
+  )
+
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_OpenStore`,
     EVENT_OPEN_STORE,

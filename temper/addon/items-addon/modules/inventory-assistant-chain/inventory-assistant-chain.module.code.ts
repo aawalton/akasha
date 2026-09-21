@@ -1,4 +1,5 @@
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -13,6 +14,8 @@ export const ASSISTANTS_BY_ROLE: Record<ChainRole, readonly number[]> = {
   banker: [267, 6376],
 }
 
+export const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", "banker"]
+
 export const CHAIN_WINDOW_MS = 120000
 
 const SUMMON_DELAY_MS = 500
@@ -23,6 +26,26 @@ export function assistantFor(
 ): number | undefined {
   for (const id of ASSISTANTS_BY_ROLE[role]) {
     if (unlocked(id)) return id
+  }
+  return undefined
+}
+
+export function roleOut(active: (id: number) => boolean): ChainRole | undefined {
+  for (const role of CHAIN_ROLES) {
+    for (const id of ASSISTANTS_BY_ROLE[role]) {
+      if (active(id)) return role
+    }
+  }
+  return undefined
+}
+
+export function optionMatching(
+  wanted: readonly number[],
+  optionCount: number,
+  typeAt: (index: number) => number
+): number | undefined {
+  for (let i = 1; i <= optionCount; i += 1) {
+    if (wanted.indexOf(typeAt(i)) !== -1) return i
   }
   return undefined
 }
@@ -68,6 +91,21 @@ function unlockedNow(this: void, id: number): boolean {
   return IsCollectibleUnlocked(id)
 }
 
+function activeNow(this: void, id: number): boolean {
+  return IsCollectibleActive(id, GAMEPLAY_ACTOR_CATEGORY_PLAYER)
+}
+
+function typeOfOption(this: void, index: number): number {
+  const [, optionType] = GetChatterOption(index)
+  return optionType
+}
+
+function optionTypesFor(role: ChainRole): readonly number[] {
+  if (role === "merchant") return [CHATTER_START_SHOP]
+  if (role === "banker") return [CHATTER_START_BANK]
+  return [CHATTER_START_CRAFT, CHATTER_DECONSTRUCT_ITEM]
+}
+
 function summon(id: number): undefined {
   const [cooldownLeft] = GetCollectibleCooldownAndDuration(id)
   const delay = cooldownLeft > SUMMON_DELAY_MS ? cooldownLeft : SUMMON_DELAY_MS
@@ -100,11 +138,21 @@ function holdsStill(at: ChainStep): boolean {
   return chainHeldOpen(step, stepAtMs, GetGameTimeMilliseconds())
 }
 
+export function chainAtChatter(optionCount: number): undefined {
+  if (!IsInteractingWithMyAssistant()) return undefined
+  const role = roleOut(activeNow)
+  if (role === undefined) return undefined
+  const pick = optionMatching(optionTypesFor(role), optionCount, typeOfOption)
+  if (pick === undefined) return undefined
+  SelectChatterOption(pick)
+  return undefined
+}
+
 export function chainAtStation(): undefined {
   if (!IsInteractingWithMyAssistant()) return undefined
   const ragpicker = assistantFor("deconstruction", unlockedNow)
   if (ragpicker === undefined) return undefined
-  if (!IsCollectibleActive(ragpicker, GAMEPLAY_ACTOR_CATEGORY_PLAYER)) return undefined
+  if (!activeNow(ragpicker)) return undefined
   moveTo("deconstructing")
   return undefined
 }
@@ -132,7 +180,7 @@ export function chainAtStoreClosed(): undefined {
 export function chainAtBankClosed(): undefined {
   if (step !== "banking") return undefined
   const banker = assistantFor("banker", unlockedNow)
-  if (banker !== undefined && IsCollectibleActive(banker, GAMEPLAY_ACTOR_CATEGORY_PLAYER)) {
+  if (banker !== undefined && activeNow(banker)) {
     summon(banker)
   }
   endChain()
