@@ -2,6 +2,9 @@
 {"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/game/modules/world-filing/world-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/harem-hotel/entities/harem-hotel-alan.game-entity.ts"}
+{"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/harem-hotel/entities/harem-hotel-aria.game-entity.ts"}
+{"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/harem-hotel/entities/harem-hotel-doorward.game-entity.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/the-tower/entities/the-tower-alan.game-entity.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/the-tower/entities/the-tower-ashling-01.game-entity.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/the-tower/entities/the-tower-companion-aelwyn.game-entity.ts"}
