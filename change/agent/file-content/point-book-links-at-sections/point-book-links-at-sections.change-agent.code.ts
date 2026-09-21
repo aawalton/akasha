@@ -5,16 +5,16 @@ import { changeMechanicalFileContent } from "akasha/change/mechanical/file-conte
 import {
   type Answer,
   gathered,
-  missing,
   refusing,
   untaken,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { pathsNaming } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
+import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import { addressIn, namedAs, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const MOST = "most"
+const AT_MOST = "at-most"
 
 const SPELLED = ".book-chapter.md"
 
@@ -136,11 +136,14 @@ function reachedBy(
   return held !== undefined && held.length === 1 ? (held[0] ?? null) : null
 }
 
-export async function pointBookLinksAtSections(world: World, most: number): Promise<Answer> {
+export async function pointBookLinksAtSections(
+  world: World,
+  atMost: number | null
+): Promise<Answer> {
   const sections = sectionsIn(world)
   const answers: Answer[] = []
   for (const path of pathsNaming(world, [SPELLED], KINDS)) {
-    if (answers.length >= most) break
+    if (atMost !== null && answers.length >= atMost) break
     const text = world.textOf(path)
     if (text === null) continue
     const now = pointedIn(sections, path, text)
@@ -152,17 +155,13 @@ export async function pointBookLinksAtSections(world: World, most: number): Prom
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [MOST]
+export const takes: readonly string[] = [AT_MOST]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   for (const key of Object.keys(given)) {
-    if (key !== MOST) return refusing(untaken(key, takes))
+    if (key !== AT_MOST) return refusing(untaken(key, takes))
   }
-  const said = given[MOST]
-  if (said === undefined) return refusing(missing(MOST))
-  const most = Number(said)
-  if (!Number.isInteger(most) || most < 1) {
-    return refusing(`\`${said}\` is no count of files to point`)
-  }
-  return await pointBookLinksAtSections(world, most)
+  const atMost = atMostIn(given[AT_MOST])
+  if (typeof atMost === "string") return refusing(atMost)
+  return await pointBookLinksAtSections(world, atMost)
 }

@@ -40,10 +40,6 @@ export const pointBookLinksAtSections = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A count handed in holds how many files one run points.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The files are walked in the order their paths sort.",
     },
     {
