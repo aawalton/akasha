@@ -4030,6 +4030,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-base/lib-sets-const-base.module.ts","id":"01a061d6-3e1f-78d4-ae78-a17b737f3690"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-casts/lib-sets-const-casts.module.ts","id":"01a061d7-7bc6-7f09-8a94-7988ce547bf5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-dropmechanics/lib-sets-const-dropmechanics.module.ts","id":"01a061d6-3e22-7cb9-b1f5-2605e32ae7a6"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.ts","id":"01a0c581-b332-7fc7-b2d9-bc6ccd3d4167"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settype-names/lib-sets-const-settype-names.module.ts","id":"01a0c511-f9c4-7892-ae93-05426ccf3899"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settypes/lib-sets-const-settypes.module.ts","id":"01a061d6-3e21-7c23-b9d0-2f45a894170f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-textures/lib-sets-const-textures.module.ts","id":"01a061d7-7bc5-727f-88ac-49e2a8ab5686"}

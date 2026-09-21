@@ -1,4 +1,5 @@
 import "akasha/temper/addon/pages/lib-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export const LANG_DE = "de"

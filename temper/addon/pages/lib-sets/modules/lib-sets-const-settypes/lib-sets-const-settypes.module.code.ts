@@ -1,7 +1,7 @@
 import {
-  asGlobalTable,
-  asPresent,
-} from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+  SET_TYPE_ITERATION_BEGIN,
+  SET_TYPE_ITERATION_END,
+} from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import { SET_TYPES_TO_NAME } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-settype-names/lib-sets-const-settype-names.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
@@ -13,40 +13,14 @@ import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 
 const lib = LibSets
-const G = asGlobalTable(globalThis)
 
 const checkIfPTSAPIVersionIsLive = lib.checkIfPTSAPIVersionIsLive
 
-const POSSIBLE_SET_TYPES: { [index: number]: string } = {
-  [1]: "LIBSETS_SETTYPE_ARENA",
-  [2]: "LIBSETS_SETTYPE_BATTLEGROUND",
-  [3]: "LIBSETS_SETTYPE_CRAFTED",
-  [4]: "LIBSETS_SETTYPE_CYRODIIL",
-  [5]: "LIBSETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD",
-  [6]: "LIBSETS_SETTYPE_DUNGEON",
-  [7]: "LIBSETS_SETTYPE_IMPERIALCITY",
-  [8]: "LIBSETS_SETTYPE_MONSTER",
-  [9]: "LIBSETS_SETTYPE_OVERLAND",
-  [10]: "LIBSETS_SETTYPE_SPECIAL",
-  [11]: "LIBSETS_SETTYPE_TRIAL",
-  [12]: "LIBSETS_SETTYPE_MYTHIC",
-  [13]: "LIBSETS_SETTYPE_IMPERIALCITY_MONSTER",
-  [14]: "LIBSETS_SETTYPE_CYRODIIL_MONSTER",
-  [15]: "LIBSETS_SETTYPE_CLASS",
-}
 if (checkIfPTSAPIVersionIsLive()) {
 }
-for (const [setTypeId, setTypeName] of ipairs(POSSIBLE_SET_TYPES)) {
-  G[setTypeName] = setTypeId
-}
-const maxSetTypes = lengthOf(POSSIBLE_SET_TYPES)
-const iterationBegin = LIBSETS_SETTYPE_ARENA
-const iterationEnd = asNumber(G[asPresent(POSSIBLE_SET_TYPES[maxSetTypes])])
-G["LIBSETS_SETTYPE_ITERATION_BEGIN"] = iterationBegin
-G["LIBSETS_SETTYPE_ITERATION_END"] = iterationEnd
 
 lib.allowedSetTypes = {}
-for (let i = iterationBegin; i <= iterationEnd; i++) {
+for (let i = SET_TYPE_ITERATION_BEGIN; i <= SET_TYPE_ITERATION_END; i++) {
   lib.allowedSetTypes[i] = true
 }
 
@@ -256,14 +230,3 @@ lib.perfectedSet2NonPerfectedSet = {}
 lib.perfectedSetsInfo = {}
 lib.perfectedSets = {}
 lib.nonPerfectedSets = {}
-
-function lengthOf(this: void, t: { [index: number]: string }): number {
-  let n = 0
-  for (const [k] of ipairs(t)) {
-    n = k
-  }
-  return n
-}
-function asNumber(this: void, value: unknown): number {
-  return tonumber(value) ?? 0
-}
