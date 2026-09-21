@@ -33,7 +33,6 @@ export const music = {
     "command/music-release-parts",
     "command/music-unheard-playlist",
     "command/music-consent",
-    "command/music-track-carriers",
     "command/music-merge-tracks",
     "module/playlist-keeping",
     "command/music-ungraded-playlist",
