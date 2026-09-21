@@ -260,6 +260,17 @@ export function commitThere(root: string, base: string): boolean {
   }
 }
 
+export function namesAt(root: string, base: string, folder: string): Walked | null {
+  const held = readingIn(root)
+  try {
+    if (!basedOn(held, base)) return null
+    return treesAt(held, base, folder)
+  } catch (thrown) {
+    readingEnded()
+    throw thrown
+  }
+}
+
 export function bodyAt(root: string, base: string, path: string): Uint8Array | null {
   const held = readingIn(root)
   try {
