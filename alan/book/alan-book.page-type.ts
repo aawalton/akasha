@@ -26,7 +26,8 @@ export const alanBook = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A book Alan writes is a domain, and its sections are what that domain holds.",
+      statement:
+        "A book Alan writes is a domain, and what that domain holds is what the book is made of.",
     },
     {
       decisionKind: "decision-kind/departure",
