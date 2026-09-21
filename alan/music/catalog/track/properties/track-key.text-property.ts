@@ -27,6 +27,14 @@ export const trackKey = {
       decisionKind: "decision-kind/departure",
       statement: "Two tracks with one track key are one recording carried on two releases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two lengths are one length only where they match to the millisecond.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No near match folds two recordings into one, however close the two lengths run.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
