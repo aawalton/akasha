@@ -10,12 +10,12 @@ export const nimueImageManagement = {
     {
       statement: "Every image akasha holds is a page.",
       workingMemory:
-        "Not met. `image.page-type.ts` declares no properties, while `persist-image.module.code.ts` writes title, engine, service, operation, model, prompt, seed, image-path and inference-run, which land as 3,872 rows in `alan.generation-log.images.jsonl` rather than as pages. About 11,200 files under `~/To Process` are recorded nowhere, or only as one of those rows. 121 image pages exist today: 39 anchors, 38 covers and 44 wallpapers.",
+        "89 image pages sit under `infrastructure/inference/generation/image/pages`: the 121 persona anchors, covers and wallpapers folded into 88 by their bytes, and one picture graded `S+`. Still no page: 3,872 rows in `alan.generation-log.images.jsonl`, 2,873 naming a file under `~/To Process` and 999 naming a run; about 11,100 files under `~/To Process` recorded nowhere; and 80 committed PNGs beside persona pages as `desktop-wallpaper` and `mobile-wallpaper`.",
     },
     {
       statement: "Every image akasha holds sits beside its page as a file property.",
       workingMemory:
-        "Not met. Four mechanisms are live: bytes in the SeaweedFS bucket `agent-sessions` served at `/api/image/:imageId`, holding 37 of 38 persona covers and 112 generation-log rows; bytes beside the page as a png file property, 80 PNGs and 298MB under `persona/pages`; a path against a named root that no code resolves, 39 anchors, 44 wallpapers and 2,873 rows over ~15GB in `~/To Process`; and an absolute path, 999 rows, 970 of them under a `~/Pictures/Generated` that is gone.",
+        "Met for every image page: `file-property/image-bytes` is an uncommitted png beside each, written by plain copy since the guard lets an ignored path through. Still elsewhere: 38 persona covers also in the SeaweedFS bucket `agent-sessions`, which `/api/image/:imageId` serves and 40 persona `cover` fields name; 80 committed PNGs beside persona pages; 2,873 log rows at paths under `~/To Process`, 1,923 under `Personas` and 950 under a `generated` root; 999 rows at absolute paths, 970 gone.",
     },
     {
       statement: "An image states the grade Alan marked it.",
@@ -41,7 +41,7 @@ export const nimueImageManagement = {
       statement:
         "Every image a deployed reader shows comes from the pages service on the workstation.",
       workingMemory:
-        "The path exists. No web manifest sets `PAGES_SERVICE_ORIGIN`, so `originOf` falls through to `page-forwarder.page-forwarder.svc.cluster.local:8787`, a socat deployment carrying a pod's request over the tailnet to the workstation. `filing` in `file-answering.module.code.ts` already reads an uncommitted file property, taking the extension off the property page where the page states none. `/api/wallpaper` fetches this way today. What is missing is that no image is a file property.",
+        "Proven on the workstation: `POST /file` with `pageTypeSlug` `image`, the slug and key `bytes` answers the png, sha256-identical to the original, for the `S+` picture and for Nimue's cover. A pod reaches it through `page-forwarder.page-forwarder.svc.cluster.local:8787`, as `/api/wallpaper` does today. No deployed reader asks it for an image yet: the web app serves persona covers from `/api/image/<id>` out of the object store, and 40 persona pages name that URL in `cover`.",
     },
     {
       statement: "No image's bytes are in the object store.",
