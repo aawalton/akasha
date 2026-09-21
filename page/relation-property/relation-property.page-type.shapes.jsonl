@@ -133,6 +133,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"seat-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"secret","unique":null,"uniquePropertySlug":null,"slug":"secrets","propertySlug":"secrets","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection","unique":null,"uniquePropertySlug":null,"slug":"section-of","propertySlug":"section-of","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"select-option-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"sent-from","propertySlug":"from","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"sent-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"service-cluster","unique":null,"uniquePropertySlug":null,"slug":"service-clusters","propertySlug":"service-clusters","fileName":null,"folderName":null}

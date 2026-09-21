@@ -321,6 +321,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/title.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/select-property/properties/select-option-value.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/select-property/properties/select-values.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/page-property/properties/property-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/body-property-id.text-property.ts"}

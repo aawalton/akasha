@@ -232,6 +232,10 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration has the color a select property states for each of its values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name that is no page type is shaped as nothing rather than refused.",
     },
     {

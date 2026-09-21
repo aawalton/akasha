@@ -15,6 +15,7 @@ export type Declaration = {
   readonly pageId: string
   readonly on: string
   readonly values: unknown
+  readonly optionColors: unknown
 
   readonly targetSlug: string | null
   readonly slugProperty: string | null
@@ -51,7 +52,7 @@ export async function shapeAsked(pageTypeSlug: string): Promise<PageTypeShape | 
   return started
 }
 
-type SelectOption = { readonly id: string; readonly label: string }
+type SelectOption = { readonly id: string; readonly label: string; readonly color?: string }
 
 function labelled(id: string, held: unknown): SelectOption {
   if (isRecord(held)) {
@@ -80,6 +81,24 @@ function optionsFrom(value: unknown): readonly SelectOption[] | null {
   if (!isRecord(held)) return null
   const named = Object.entries(held).map(([id, one]) => labelled(id, one))
   return named.length === 0 ? null : named
+}
+
+function coloredBy(value: unknown): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
+  if (!Array.isArray(value)) return held
+  for (const one of value) {
+    if (!isRecord(one)) continue
+    const { value: named, color } = one
+    if (typeof named === "string" && typeof color === "string") held.set(named, color)
+  }
+  return held
+}
+
+function coloredIn(options: readonly SelectOption[], colored: ReadonlyMap<string, string>): Json[] {
+  return options.map((one) => {
+    const color = colored.get(one.id)
+    return color === undefined ? { ...one } : { ...one, color }
+  })
 }
 
 const DECLARED_BY = "-property"
@@ -120,7 +139,7 @@ export function renderedType(pageTypeSlug: string): string {
 function definitionOf(one: Declaration): PropertyDefinition {
   const config: Record<string, Json> = {}
   const options = optionsFrom(one.values)
-  if (options !== null) config.options = options.map((each) => ({ ...each }))
+  if (options !== null) config.options = coloredIn(options, coloredBy(one.optionColors))
   const stated = Object.keys(config).length !== 0
   return {
     id: camelizeKey(one.key),

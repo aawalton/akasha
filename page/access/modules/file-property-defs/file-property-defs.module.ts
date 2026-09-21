@@ -54,5 +54,9 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/departure",
       statement: "An option stating no label of its own is labelled by titling its value.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An option carries the color the property's page states for that option's value.",
+    },
   ],
 } as const satisfies Module
