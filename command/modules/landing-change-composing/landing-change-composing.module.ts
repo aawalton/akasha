@@ -76,5 +76,10 @@ export const landingChangeComposing = {
       decisionKind: "decision-kind/departure",
       statement: "A path the tree holds no body at is left the body this change composed for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A folder move leaves a page every referenced-by row an importer outside that folder files.",
+    },
   ],
 } as const satisfies Module

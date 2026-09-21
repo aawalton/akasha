@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts"}
+{"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts"}

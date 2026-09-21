@@ -3,6 +3,8 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import { applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import { NO_GATE } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   git,
@@ -13,8 +15,17 @@ import {
   besideBefore,
   besideRebased,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import {
+  indexedRepo,
+  pageOf,
+  textIn,
+  scratch as world,
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
+
+afterAll(world.sweep, 5000)
 
 const BYTES = new TextEncoder()
 
@@ -76,4 +87,66 @@ test("a shapes row another landing filed while this one was judged is kept, and 
   ]
   expect("refusals" in (await landing(root, rows, "mine", overlapping))).toBe(false)
   expect(git(root, ["show", `HEAD:${BESIDE}`])).toBe(`${NOW}\n${MINE}\n${OTHER}\n`)
+})
+
+const FROM = "akasha/four"
+
+const INTO = "akasha/six"
+
+const OUTSIDE_CODE = "akasha/five/outer.module.code.ts"
+
+const NAMED_INSIDE = `${INTO}/holder.module.ts`
+
+const MOVED_BESIDE = `${INTO}/deep/gamma.module.referenced-by.jsonl`
+
+const moduleAt = (slug: string, said: string, rest: Record<string, unknown>): string =>
+  pageOf({
+    id: `01a04a4a-0004-7000-8000-00000000000${said}`,
+    pageTypeSlug: "module",
+    slug,
+    definition: "a page a folder move carries",
+    ...rest,
+  })
+
+const MOVING: Readonly<Record<string, string>> = {
+  [`${FROM}/deep/gamma.module.ts`]: moduleAt("gamma", "1", { code: "ts" }),
+  [`${FROM}/deep/gamma.module.code.ts`]: "export const gamma = 3\n",
+  [`${FROM}/holder.module.ts`]: moduleAt("holder", "2", { note: "gamma" }),
+  "akasha/five/outer.module.ts": moduleAt("outer", "3", { code: "ts" }),
+  [OUTSIDE_CODE]:
+    'import { gamma } from "../four/deep/gamma.module.code.ts"\n\nexport const outer = gamma + 1\n',
+}
+
+const RUNNING = { checks: false, writerOwesReading: false, readersOweReading: false }
+
+async function movedFolder(): Promise<string> {
+  const root = indexedRepo(MOVING)
+  const read = textIn(root)
+  const moves: readonly FileMove[] = git(root, ["ls-files", FROM])
+    .trim()
+    .split("\n")
+    .map((one) => ({ from: one, to: `${INTO}${one.slice(FROM.length)}` }))
+  const rows: readonly FileChange[] = [
+    {
+      kind: "add",
+      path: OUTSIDE_CODE,
+      content: (read(OUTSIDE_CODE) ?? "").replace("../four/", "../six/"),
+    },
+  ]
+  const landed = await applied(root, null, "the folder moves", NO_GATE, null, [], {
+    rows,
+    running: RUNNING,
+    moves,
+  })
+  if ("refusals" in landed) throw new Error(landed.refusals.join("; "))
+  return root
+}
+
+test("a folder move keeps the row an importer outside that folder files", async () => {
+  const root = await movedFolder()
+
+  const body = git(root, ["show", `HEAD:${MOVED_BESIDE}`])
+
+  expect(body).toContain(OUTSIDE_CODE)
+  expect(body).toContain(NAMED_INSIDE)
 })
