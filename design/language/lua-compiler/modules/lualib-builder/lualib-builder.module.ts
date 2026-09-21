@@ -6,6 +6,7 @@ export const lualibBuilder = {
   slug: "lualib-builder",
   definition: "the lualib TypeScript sources built into per-feature Lua code and a bundle",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -34,6 +35,11 @@ export const lualibBuilder = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An import of a file the pages replace resolves to the file taken instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build emits the lualib sources alone, so a file reached for a type is no feature.",
     },
     {
       decisionKind: "decision-kind/departure",

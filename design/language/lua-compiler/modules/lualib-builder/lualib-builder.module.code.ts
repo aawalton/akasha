@@ -17,8 +17,10 @@ import {
   resolveRecursiveLualibFeatures,
 } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import {
+  declarationTakenFor,
   emittedAs,
   lualibPages,
+  lualibSourcesIn,
   sourcesFrom,
 } from "akasha/design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
@@ -305,7 +307,6 @@ function hostTaking(
   options: ts.CompilerOptions
 ): ts.CompilerHost {
   const host = ts.createCompilerHost(options)
-  if (takenInstead.size === 0) return host
   host.resolveModuleNameLiterals = (
     literals,
     containingFile,
@@ -325,6 +326,15 @@ function hostTaking(
       )
       const found = resolved.resolvedModule
       if (found === undefined) return resolved
+      const declared = declarationTakenFor(literal.text, found.resolvedFileName, (at) =>
+        host.fileExists(at)
+      )
+      if (declared !== null) {
+        return {
+          ...resolved,
+          resolvedModule: { ...found, resolvedFileName: declared, extension: ts.Extension.Dts },
+        }
+      }
       const instead = takenInstead.get(found.resolvedFileName)
       if (instead === undefined) return resolved
       return { ...resolved, resolvedModule: { ...found, resolvedFileName: instead } }
@@ -362,6 +372,7 @@ export function buildLuaLib(luaTarget: LuaTarget): BuiltLuaLib {
     program,
     plugins: [plugin],
     writeFile,
+    sourceFiles: lualibSourcesIn((name) => program.getSourceFile(name), sources.rootNames),
   })
 
   const errors = emitResult.diagnostics.filter((d) => d.category === ts.DiagnosticCategory.Error)

@@ -20,6 +20,43 @@ const PREFIX = "__TS__"
 
 const FEATURES: ReadonlySet<string> = new Set<string>(Object.values(LuaLibFeature))
 
+const DECLARATION_SUFFIX = ".d.ts"
+
+const TS_SUFFIX = ".ts"
+
+export type LualibSource = {
+  readonly fileName: string
+  readonly isDeclarationFile: boolean
+}
+
+export function declarationTakenFor(
+  named: string,
+  resolvedFileName: string,
+  holds: (at: string) => boolean
+): string | null {
+  if (!named.endsWith(DECLARATION_SUFFIX)) return null
+  if (resolvedFileName.endsWith(DECLARATION_SUFFIX)) return null
+  if (!resolvedFileName.endsWith(TS_SUFFIX)) return null
+  const declared = `${resolvedFileName.slice(0, -TS_SUFFIX.length)}${DECLARATION_SUFFIX}`
+  return holds(declared) ? declared : null
+}
+
+export function lualibSourcesIn<T extends LualibSource>(
+  found: (name: string) => T | undefined,
+  rootNames: readonly string[]
+): readonly T[] {
+  const kept: T[] = []
+  const taken = new Set<string>()
+  for (const name of rootNames) {
+    const file = found(name)
+    if (file === undefined || file.isDeclarationFile) continue
+    if (taken.has(file.fileName)) continue
+    taken.add(file.fileName)
+    kept.push(file)
+  }
+  return kept
+}
+
 export type LualibPage = {
   readonly pagePath: string
   readonly luaExport: string

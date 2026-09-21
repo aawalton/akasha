@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import {
+  declarationTakenFor,
   emittedAs,
   type LualibPage,
+  type LualibSource,
+  lualibSourcesIn,
   sourcesFrom,
 } from "akasha/design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"
 import {
@@ -189,4 +192,48 @@ test("renaming the identifier a page's code exports does not change the emitted 
   const source = "array-at.lualib-helper.code"
   expect(emittedAs(held.exportNameBySourceName, source, "__TS__ArrayAt")).toBe("__TS__ArrayAt")
   expect(emittedAs(held.exportNameBySourceName, source, "renamedByHand")).toBe("__TS__ArrayAt")
+})
+
+const SANDBOX_PAGE = "/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.ts"
+
+function holdsSandbox(at: string): boolean {
+  return at === SANDBOX
+}
+
+function sourceOf(fileName: string, isDeclarationFile = false): LualibSource {
+  return { fileName, isDeclarationFile }
+}
+
+test("an import naming a declaration file names that file rather than the page beside it", () => {
+  expect(declarationTakenFor(SANDBOX, SANDBOX_PAGE, holdsSandbox)).toBe(SANDBOX)
+})
+
+test("an import already resolved to the declaration file it names is left alone", () => {
+  expect(declarationTakenFor(SANDBOX, SANDBOX, holdsSandbox)).toBeNull()
+})
+
+test("an import naming no declaration file is left alone", () => {
+  expect(declarationTakenFor(ARRAY_AT_CODE, ARRAY_AT_CODE, holdsSandbox)).toBeNull()
+})
+
+test("an import naming a declaration file that is nowhere is left alone", () => {
+  expect(declarationTakenFor(SANDBOX, ARRAY_AT_CODE, holdsSandbox)).toBeNull()
+})
+
+test("the sources a build emits are the root names and nothing those reach", () => {
+  const held = new Map<string, LualibSource>([
+    [ARRAY_AT_CODE, sourceOf(ARRAY_AT_CODE)],
+    [SANDBOX, sourceOf(SANDBOX, true)],
+  ])
+  const kept = lualibSourcesIn((name) => held.get(name), [ARRAY_AT_CODE, SANDBOX])
+  expect(kept.map((one) => one.fileName)).toEqual([ARRAY_AT_CODE])
+})
+
+test("a root name the program answers nothing for is emitted nowhere", () => {
+  expect(lualibSourcesIn(() => undefined, [ARRAY_AT_CODE])).toEqual([])
+})
+
+test("a root name stated twice is emitted once", () => {
+  const one = sourceOf(ARRAY_AT_CODE)
+  expect(lualibSourcesIn(() => one, [ARRAY_AT_CODE, ARRAY_AT_CODE])).toEqual([one])
 })

@@ -113,6 +113,35 @@ export const lualibPages = {
       statement: "No page at all answers with the scanned files themselves.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An import naming a declaration file names that file rather than the page beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import already resolved to the declaration file it names is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import naming no declaration file is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import naming a declaration file that is nowhere is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sources a build emits are the root names and nothing those reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A root name the program answers nothing for is emitted nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A root name stated twice is emitted once.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here imports a page to read that page.",
     },
