@@ -135,6 +135,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/score/monarch-eval-score.module.ts","id":"01a06868-1eff-7772-8b1a-2c5a4d3dd331"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/monarch-eval.domain.ts","id":"01a07740-d031-7503-a291-ce61a5f353a4"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/credential/monarch-credential.module.ts","id":"01a0685f-4ed9-74ca-87d5-38f3cedf684a"}
+{"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/reading/monarch-reading.module.ts","id":"01a057fa-c464-7f2b-9f87-031b5dbedaa9"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.ts","id":"01a06866-06f1-762e-b1c3-4910e1884927"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/modules/notifying/notifying.module.ts","id":"01a06a00-6837-71bf-b475-d3320bf5baab"}

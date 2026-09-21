@@ -870,6 +870,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/month/properties/transaction-day.calendar-date-property.ts","id":"01a0680b-2b00-7001-8c63-5f1a9d4b2102"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/month/properties/transaction-note.text-property.ts","id":"01a0680b-2b00-7007-9e41-3f7b6c5a2108"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts","id":"01a0680b-2b00-7011-9f83-5c2a6e4b2112"}
+{"propertySlug":"decision-kind","path":"alan/harness/monarch/reading-service/monarch-reading-service.service-workstation.ts","id":"01a05b42-a2d3-7d02-b6b1-5faa28a7bdba"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/record/monarch-record.page-type.ts","id":"01a0680a-1a00-7001-b8f4-2c9e5a7b1102"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/record/properties/monarch-id.text-property.ts","id":"01a0680a-1a00-7000-9d21-4f0b6a3d1101"}

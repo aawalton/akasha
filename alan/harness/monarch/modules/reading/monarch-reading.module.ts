@@ -25,6 +25,14 @@ export const monarchReading = {
       statement: "A taking that refuses keeps nothing.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Monarch sometimes does not answer inside the time a reading waits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A taking that ran out of time is told apart from every other refusal.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A run of this file takes a reading.",
     },

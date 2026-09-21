@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   READOUT_SLUG,
+  readingTimedOut,
   takeReading,
 } from "akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"
 import { readingKept } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
@@ -64,4 +65,19 @@ test("a taking that refuses keeps nothing", async () => {
   }
   await expect(takeReading(root, "cookie", TAKEN, refusing)).rejects.toThrow("dead credential")
   expect(readingKept(root, READOUT_PAGE)).toBeNull()
+})
+
+test("a taking that ran out of time is named as one", () => {
+  expect(readingTimedOut(new DOMException("The operation timed out.", "TimeoutError"))).toBe(true)
+})
+
+test("every other refusal is not named as one that ran out of time", () => {
+  expect(readingTimedOut(new Error("dead credential"))).toBe(false)
+  expect(readingTimedOut(new TypeError("fetch failed"))).toBe(false)
+})
+
+test("a refusal that is no object at all is not named as one that ran out of time", () => {
+  expect(readingTimedOut(null)).toBe(false)
+  expect(readingTimedOut("TimeoutError")).toBe(false)
+  expect(readingTimedOut(undefined)).toBe(false)
 })

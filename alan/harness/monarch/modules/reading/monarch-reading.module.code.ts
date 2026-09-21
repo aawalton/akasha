@@ -28,6 +28,11 @@ export async function takeReading(
   return counts.unreviewed
 }
 
+export function readingTimedOut(thrown: unknown): boolean {
+  if (typeof thrown !== "object" || thrown === null) return false
+  return (thrown as { name?: unknown }).name === "TimeoutError"
+}
+
 export function cookieIn(held: Record<string, string | undefined>): string | null {
   const cookie = held[COOKIE_NAME]?.trim()
   return cookie === undefined || cookie === "" ? null : cookie

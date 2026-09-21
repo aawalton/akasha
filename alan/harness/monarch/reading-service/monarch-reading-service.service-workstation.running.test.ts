@@ -42,3 +42,12 @@ test("a cookie that is not set is carried out rather than swallowed, so a failed
   await expect(running.runService()).rejects.toThrow(reading.COOKIE_ABSENT)
   expect(RAN).toEqual([])
 })
+
+test("a Monarch that ran out of time lands the run, since the readout keeps the count it holds", async () => {
+  mock.module("akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts", () => ({
+    ...reading,
+    runMonarchReading: () =>
+      Promise.reject(new DOMException("The operation timed out.", "TimeoutError")),
+  }))
+  await expect(running.runService()).resolves.toBeUndefined()
+})

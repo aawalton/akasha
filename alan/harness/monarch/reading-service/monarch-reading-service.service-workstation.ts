@@ -13,4 +13,18 @@ export const monarchReadingService = {
     startTimeoutSeconds: 60,
     catchUp: false,
   },
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run where Monarch ran out of time lands rather than failing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The readout keeps the count it holds until a run takes a fresh one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other refusal is carried out, so a cookie Alan must renew is still seen.",
+    },
+  ],
 } as const satisfies ServiceWorkstation
