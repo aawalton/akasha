@@ -11,6 +11,10 @@ export interface BadgeLayoutContextValue {
 
 const BadgeLayoutContext = React.createContext<BadgeLayoutContextValue | null>(null)
 
+export function stackedBadgesClass(align: "start" | "end"): string {
+  return align === "start" ? "flex flex-col items-start gap-1" : "flex flex-col items-end gap-1"
+}
+
 export function useBadgeLayoutContext(): BadgeLayoutContextValue {
   return React.useContext(BadgeLayoutContext) ?? {}
 }

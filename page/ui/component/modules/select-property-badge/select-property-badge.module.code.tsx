@@ -1,7 +1,10 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { useBadgeLayoutContext } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
+import {
+  stackedBadgesClass,
+  useBadgeLayoutContext,
+} from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -11,6 +14,7 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { getValueArray } from "akasha/page/core/property-type/modules/multi-relation/multi-relation.module.code.ts"
 import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import {
   findOption,
@@ -27,15 +31,15 @@ const DROPDOWN_ITEM_INACTIVE_CLS = "data-[highlighted]:!bg-surface-4 focus:!bg-s
 
 function SelectDropdown({
   definition,
-  currentValue,
+  chosenIds,
   trigger,
-  onPropertyChange,
+  onPick,
   align,
 }: {
   definition: PropertyDefinition
-  currentValue: PropertyValue
+  chosenIds: readonly string[]
   trigger: React.ReactNode
-  onPropertyChange: NonNullable<PropertyBadgeProps["onPropertyChange"]>
+  onPick: (optionId: string, eventTimeStamp: number) => void
   align: "start" | "end"
 }) {
   const options = getOptions(definition)
@@ -52,7 +56,7 @@ function SelectDropdown({
         onPointerDown={(e) => e.stopPropagation()}
       >
         {options.map((opt) => {
-          const isActive = opt.id === currentValue
+          const isActive = chosenIds.includes(opt.id)
           const optVariant = resolveBadgeVariant(definition, opt.id) ?? "elevation-muted"
           return (
             <DropdownMenuItem
@@ -60,7 +64,7 @@ function SelectDropdown({
               className={isActive ? DROPDOWN_ITEM_ACTIVE_CLS : DROPDOWN_ITEM_INACTIVE_CLS}
               onClick={(e) => {
                 e.stopPropagation()
-                onPropertyChange(definition.id, opt.id, e.timeStamp)
+                onPick(opt.id, e.timeStamp)
               }}
             >
               <Badge variant={optVariant}>{opt.label}</Badge>
@@ -72,6 +76,75 @@ function SelectDropdown({
   )
 }
 
+function EmptyOptionBadge() {
+  return (
+    <Badge variant="elevation-muted">
+      <span className="text-tertiary">Empty</span>
+    </Badge>
+  )
+}
+
+function ChosenOptionBadges({
+  definition,
+  ids,
+}: {
+  definition: PropertyDefinition
+  ids: readonly string[]
+}) {
+  const options = getOptions(definition)
+  const accentVariant = definition.accent ? "accent" : "elevation-muted"
+  if (ids.length === 0) return <EmptyOptionBadge />
+  return (
+    <>
+      {ids.map((id) => (
+        <Badge
+          key={`${definition.id}-${id}`}
+          variant={resolveBadgeVariant(definition, id) ?? accentVariant}
+        >
+          {findOption(options, id)?.label ?? id}
+        </Badge>
+      ))}
+    </>
+  )
+}
+
+function MultiSelectBadge({
+  property,
+  ids,
+  editable,
+  onPropertyChange,
+  align,
+}: {
+  property: PropertyDefinition
+  ids: readonly string[]
+  editable?: boolean
+  onPropertyChange?: PropertyBadgeProps["onPropertyChange"]
+  align: "start" | "end"
+}) {
+  const trigger = (
+    <span className={stackedBadgesClass(align)}>
+      <ChosenOptionBadges definition={property} ids={ids} />
+    </span>
+  )
+  if (!editable || !onPropertyChange) return trigger
+  const change = onPropertyChange
+  return (
+    <SelectDropdown
+      definition={property}
+      chosenIds={ids}
+      trigger={trigger}
+      align={align}
+      onPick={(id, eventTimeStamp) =>
+        change(
+          property.id,
+          ids.includes(id) ? ids.filter((one) => one !== id) : [...ids, id],
+          eventTimeStamp
+        )
+      }
+    />
+  )
+}
+
 export function SelectPropertyBadge({
   property,
   value,
@@ -80,6 +153,19 @@ export function SelectPropertyBadge({
 }: PropertyBadgeProps) {
   const layout = useBadgeLayoutContext()
   const align = layout.popoverAlign ?? "start"
+
+  if (Array.isArray(value)) {
+    return (
+      <MultiSelectBadge
+        property={property}
+        ids={getValueArray(value)}
+        editable={editable}
+        onPropertyChange={onPropertyChange}
+        align={align}
+      />
+    )
+  }
+
   const options = getOptions(property)
   const option = typeof value === "string" ? findOption(options, value) : undefined
   const accentVariant = property.accent ? "accent" : "elevation-muted"
@@ -89,22 +175,21 @@ export function SelectPropertyBadge({
   const trigger = option ? (
     <Badge variant={variantForValue(value)}>{option.label}</Badge>
   ) : (
-    <Badge variant="elevation-muted">
-      <span className="text-tertiary">Empty</span>
-    </Badge>
+    <EmptyOptionBadge />
   )
 
   if (!editable || !onPropertyChange) {
     return trigger
   }
 
+  const change = onPropertyChange
   return (
     <SelectDropdown
       definition={property}
-      currentValue={value}
+      chosenIds={typeof value === "string" ? [value] : []}
       trigger={trigger}
-      onPropertyChange={onPropertyChange}
       align={align}
+      onPick={(id, eventTimeStamp) => change(property.id, id, eventTimeStamp)}
     />
   )
 }

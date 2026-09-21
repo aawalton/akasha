@@ -1,7 +1,10 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { useBadgeLayoutContext } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
+import {
+  stackedBadgesClass,
+  useBadgeLayoutContext,
+} from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import { LinkBadge } from "akasha/design/interface/badge/modules/link-badge/link-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
@@ -18,10 +21,6 @@ import {
 } from "akasha/page/ui/component/modules/relation-display/relation-display.module.code.ts"
 import { RelationPopover } from "akasha/page/ui/component/modules/relation-popover/relation-popover.module.code.tsx"
 import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
-
-function colClassFor(align: "start" | "end"): string {
-  return align === "start" ? "flex flex-col items-start gap-1" : "flex flex-col items-end gap-1"
-}
 
 function toRelationValues(value: PropertyValue): readonly RelationValue[] {
   if (!Array.isArray(value)) return []
@@ -46,7 +45,7 @@ function MultiRelationDetailPopover({
 }) {
   const layout = useBadgeLayoutContext()
   const align = layout.popoverAlign ?? "end"
-  const colClass = colClassFor(align)
+  const colClass = stackedBadgesClass(align)
   const resolver = usePageResolverOptional()
   const relValues = toRelationValues(value)
   const ids = relValues.map(getRelationId)
@@ -159,7 +158,7 @@ export function MultiRelationPropertyBadge(props: PropertyBadgeProps) {
     )
   }
   return (
-    <span className={colClassFor(layout.popoverAlign ?? "end")}>
+    <span className={stackedBadgesClass(layout.popoverAlign ?? "end")}>
       <MultiRelationDetailBadges value={value} definition={property} />
     </span>
   )
