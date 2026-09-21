@@ -76,7 +76,7 @@ function InputBadge({
           }
         }}
         placeholder={placeholder}
-        className="min-w-[3ch] bg-transparent font-medium text-current text-xs outline-none placeholder:text-current/40"
+        className="min-w-[1ch] bg-transparent font-medium text-current text-xs outline-none placeholder:text-current/40"
         style={inputWidth != null ? { width: `${inputWidth}px` } : undefined}
       />
     </Badge>

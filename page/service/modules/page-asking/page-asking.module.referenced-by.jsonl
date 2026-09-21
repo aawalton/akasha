@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-narrow/file-narrow.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-page-type-config/file-page-type-config.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-page-type-config/file-page-type-config.module.test.ts"}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-property-defs/file-property-defs.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-write-many/file-write-many.module.test.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-write-narrow/file-write-narrow.module.code.ts"}

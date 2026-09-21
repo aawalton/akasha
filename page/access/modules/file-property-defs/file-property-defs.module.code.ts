@@ -2,6 +2,7 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { titledAs } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { shapeFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
 
@@ -57,7 +58,7 @@ function labelled(id: string, held: unknown): SelectOption {
     const label = held.label
     if (typeof label === "string" && label !== "") return { id, label }
   }
-  return { id, label: id }
+  return { id, label: titledAs(id) }
 }
 
 function mapped(value: string): unknown {
@@ -72,7 +73,7 @@ function optionsFrom(value: unknown): readonly SelectOption[] | null {
   if (Array.isArray(value)) {
     const listed = value
       .filter((one): one is string => typeof one === "string" && one !== "")
-      .map((one) => ({ id: one, label: one }))
+      .map((one) => ({ id: one, label: titledAs(one) }))
     return listed.length === 0 ? null : listed
   }
   const held = typeof value === "string" ? mapped(value) : value

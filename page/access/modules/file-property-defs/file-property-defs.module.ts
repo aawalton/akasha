@@ -50,5 +50,9 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/absence",
       statement: "No type a screen has no drawing for leaves here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An option stating no label of its own is labelled by titling its value.",
+    },
   ],
 } as const satisfies Module
