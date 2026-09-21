@@ -1,0 +1,8 @@
+{"id":"01a0c64f-4181-7425-8d55-abfa784dc086"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-df8712b8aad689af"}
+{"text":"The window over the sink had gone dark early, and when she looked up from the pot she could see the three of them in it, small and lit."}
+{"title":"moss-tts voice-clone @ 2026-07-18T18:47:37.328Z"}
+{"type":"page-type/audio"}

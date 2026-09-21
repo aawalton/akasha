@@ -1,0 +1,8 @@
+{"id":"01a0c64f-4183-7ccc-81bf-f2af2f84b8e6"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-a7eba11e982e7097"}
+{"text":"Zadi had the book on her knee under the table, one hand resting on it, not reading, just keeping it there."}
+{"title":"moss-tts voice-clone @ 2026-07-18T19:27:15.850Z"}
+{"type":"page-type/audio"}
