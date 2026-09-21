@@ -4,6 +4,7 @@ export const arianaGrandePetalHateThatIMadeYouLoveMe = {
   id: "01a0a6c5-0408-7f2e-ae17-64674b8e956e",
   type: "page-type/track",
   slug: "ariana-grande-petal-hate-that-i-made-you-love-me",
+  grade: "S",
   ownLength: 3.29915,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
