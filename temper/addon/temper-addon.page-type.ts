@@ -52,6 +52,10 @@ export const temperAddon = {
     "boolean-property/addon-library",
     "domain/temper-lccc",
     "temper-addon/temper-lib-addon-keybinds",
+    "temper-addon/temper-lib-addon-menu",
+    "temper-addon/temper-lib-addon-menu-order-list-box",
+    "temper-addon/temper-lib-alchemy-station",
+    "temper-addon/temper-lib-async",
   ],
   extends: ["page-type/service"],
   properties: [

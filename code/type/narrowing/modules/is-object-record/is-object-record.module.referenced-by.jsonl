@@ -19,8 +19,8 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/items-addon/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/items-addon/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/quests-addon/modules/quests-saved-variables/quests-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"}

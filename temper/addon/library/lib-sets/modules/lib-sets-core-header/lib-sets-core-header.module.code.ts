@@ -6,7 +6,7 @@ import { asScrollableMenuHandleOpt } from "akasha/temper/addon/library/lib-sets/
 import "akasha/temper/addon/library-type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-lam-shapes/order-list-box-lam-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-lam-shapes/order-list-box-lam-shapes.type-declaration.d.ts"
 
 const lib = LibSets
 
