@@ -2,5 +2,5 @@
 {"propertySlug":"import","fileName":"use-destination-resolver.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"use-destination-resolver.module.code.ts","path":"temper/items-rules-eval/modules/destination-resolve/destination-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"use-destination-resolver.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"}
-{"propertySlug":"import","fileName":"use-destination-resolver.module.code.ts","path":"temper/items-rules-routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts"}
+{"propertySlug":"import","fileName":"use-destination-resolver.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts"}
 {"propertySlug":"parts","path":"temper/items-rules-core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

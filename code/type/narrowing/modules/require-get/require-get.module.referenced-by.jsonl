@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-simulator/companion-rotation-simulator.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/characters-equipment/modules/set-categories/set-categories.module.code.ts"}
-{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/items-rules-routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"}
+{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/skill-morph/modules/morph-pair/morph-pair.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/skill-morph/modules/skill-organization/skill-organization.module.code.ts"}
