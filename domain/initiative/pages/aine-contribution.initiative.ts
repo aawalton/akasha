@@ -7,10 +7,6 @@ export const aineContribution = {
   domain: "domain/contribution-point",
   persona: "persona/aine",
   intentStack: [
-    {
-      statement:
-        "A contributor is a page holding every contribution point transaction and the running balance.",
-    },
     { statement: "A contributor commits contribution points to a published feature request." },
     {
       statement:
