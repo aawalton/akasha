@@ -12,14 +12,6 @@ export const zaraLarssonOnMyLoveExtendedVersionOnMyLoveExtendedVersion = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2iZgtLFKqhpjhB5xSnHM8U",
-      externalLink: "https://open.spotify.com/track/2iZgtLFKqhpjhB5xSnHM8U",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love - Extended Version",
   trackType: "version",
   explicit: false,

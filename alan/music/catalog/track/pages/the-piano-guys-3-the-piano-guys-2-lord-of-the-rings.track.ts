@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2LordOfTheRings = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7frDwJ4Fe57hNs0gtHAMR4",
-      externalLink: "https://open.spotify.com/track/7frDwJ4Fe57hNs0gtHAMR4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lord of the Rings",
   trackType: "studio",
   explicit: false,

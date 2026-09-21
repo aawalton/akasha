@@ -13,14 +13,6 @@ export const thePianoGuys310WhatMakesYouBeautiful = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4k7mIczkdUKZmkgocdJRG9",
-      externalLink: "https://open.spotify.com/track/4k7mIczkdUKZmkgocdJRG9",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Makes You Beautiful",
   trackType: "studio",
   explicit: false,

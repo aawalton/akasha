@@ -9,14 +9,6 @@ export const thePianoGuys3LiveU2LoopWithOrWithoutYouIntroductionLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "54FXWJRrbRgH4zex8ZKjxd",
-      externalLink: "https://open.spotify.com/track/54FXWJRrbRgH4zex8ZKjxd",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: 'U2 Loop "With or Without You" (Introduction) - Live',
   trackType: "live",
   explicit: false,

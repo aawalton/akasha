@@ -9,14 +9,6 @@ export const alexandriaFireAndIceFireAndIce = {
   partOfCollections: ["release/alexandria-fire-and-ice"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "10sQMYrMaRMAjgQqU0rT9m",
-      externalLink: "https://open.spotify.com/track/10sQMYrMaRMAjgQqU0rT9m",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fire and Ice",
   trackType: "studio",
   explicit: false,

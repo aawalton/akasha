@@ -9,14 +9,6 @@ export const paulCardallLiveAKissOfTheSunlightLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6i7UE3Kn2Q8CDNCrU54zo3",
-      externalLink: "https://open.spotify.com/track/6i7UE3Kn2Q8CDNCrU54zo3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Kiss Of The Sunlight - Live",
   trackType: "live",
   explicit: false,

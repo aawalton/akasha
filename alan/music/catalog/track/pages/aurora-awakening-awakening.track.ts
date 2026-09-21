@@ -9,14 +9,6 @@ export const auroraAwakeningAwakening = {
   partOfCollections: ["release/aurora-awakening"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4U5WvRz4XVuP5vBpZysJCU",
-      externalLink: "https://open.spotify.com/track/4U5WvRz4XVuP5vBpZysJCU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Awakening",
   trackType: "studio",
   explicit: false,

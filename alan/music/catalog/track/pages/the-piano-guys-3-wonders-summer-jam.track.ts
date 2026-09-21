@@ -9,14 +9,6 @@ export const thePianoGuys3WondersSummerJam = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6wufP2zVjNLB1UimwehCEt",
-      externalLink: "https://open.spotify.com/track/6wufP2zVjNLB1UimwehCEt",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Summer Jam",
   trackType: "studio",
   explicit: false,

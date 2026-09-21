@@ -10,14 +10,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MP4nheWCUxoztTK5yqb3g",
-      externalLink: "https://open.spotify.com/track/0MP4nheWCUxoztTK5yqb3g",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Get Happy / Happy Days Are Here Again - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,

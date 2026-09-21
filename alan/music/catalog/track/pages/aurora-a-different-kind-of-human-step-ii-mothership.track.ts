@@ -9,14 +9,6 @@ export const auroraADifferentKindOfHumanStepIiMothership = {
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44BDTmko2ek2ps6QQpFDw3",
-      externalLink: "https://open.spotify.com/track/44BDTmko2ek2ps6QQpFDw3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mothership",
   trackType: "studio",
   explicit: false,

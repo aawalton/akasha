@@ -9,14 +9,6 @@ export const zaraLarsson1CantHoldBack = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XtuvafYJpfFyKi0ijqggr",
-      externalLink: "https://open.spotify.com/track/6XtuvafYJpfFyKi0ijqggr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Can't Hold Back",
   trackType: "studio",
   explicit: false,

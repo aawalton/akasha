@@ -13,14 +13,6 @@ export const thePianoGuys3IAinTWorriedCarmensLibertango = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2FglLUp4HsY9dVJQrRcNZF",
-      externalLink: "https://open.spotify.com/track/2FglLUp4HsY9dVJQrRcNZF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Carmen's Libertango",
   trackType: "studio",
   explicit: false,

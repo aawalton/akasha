@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeBeMyBaby = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0fonaf88IEDQM309zmU80L",
-      externalLink: "https://open.spotify.com/track/0fonaf88IEDQM309zmU80L",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Be My Baby",
   trackType: "studio",
   explicit: false,

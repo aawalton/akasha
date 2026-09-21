@@ -9,14 +9,6 @@ export const sabrinaCarpenterSpotifySinglesIKnewYouWereTroubleSpotifySingles = {
   partOfCollections: ["release/sabrina-carpenter-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "30QYxvXOJZhGBF6DvpNb8w",
-      externalLink: "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Knew You Were Trouble - Spotify Singles",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2ChristmasCardsFromIrelandOHolyNight2022Version = {
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "71iTPKDV1ssJPRTlpiLX4D",
-      externalLink: "https://open.spotify.com/track/71iTPKDV1ssJPRTlpiLX4D",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O Holy Night - 2022 Version",
   trackType: "version",
   explicit: false,

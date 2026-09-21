@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTouchIt = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7rlKlsYacU3PFLGD7ca1HL",
-      externalLink: "https://open.spotify.com/track/7rlKlsYacU3PFLGD7ca1HL",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Touch It",
   trackType: "studio",
   explicit: false,

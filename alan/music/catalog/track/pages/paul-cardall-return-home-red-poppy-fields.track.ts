@@ -9,14 +9,6 @@ export const paulCardallReturnHomeRedPoppyFields = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1DNEP4HvXC8SZCm0oKfeUz",
-      externalLink: "https://open.spotify.com/track/1DNEP4HvXC8SZCm0oKfeUz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Red Poppy Fields",
   trackType: "studio",
   explicit: false,

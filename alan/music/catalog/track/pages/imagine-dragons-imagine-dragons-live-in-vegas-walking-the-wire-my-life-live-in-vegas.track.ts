@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasWalkingTheWireMyLifeLiveInVe
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "79Dw44YYmsTgYgGqvGyhAe",
-      externalLink: "https://open.spotify.com/track/79Dw44YYmsTgYgGqvGyhAe",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Walking the Wire / My Life - Live in Vegas",
   trackType: "live",
   explicit: false,

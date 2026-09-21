@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysRollingInTheDeep = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6hDR1ByLjs6y7YNwQm5K4a",
-      externalLink: "https://open.spotify.com/track/6hDR1ByLjs6y7YNwQm5K4a",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rolling in the Deep",
   trackType: "studio",
   explicit: false,

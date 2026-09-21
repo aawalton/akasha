@@ -12,14 +12,6 @@ export const celticWoman2PostcardsFromIrelandTheDawningOfTheDay = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2JfJUwEE4DwTUZgkYeQS81",
-      externalLink: "https://open.spotify.com/track/2JfJUwEE4DwTUZgkYeQS81",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Dawning Of The Day",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishOceanEyesTheRemixesOceanEyesCautiousClayRemix = {
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bM4b4P6QFDnjdXXI2zufO",
-      externalLink: "https://open.spotify.com/track/3bM4b4P6QFDnjdXXI2zufO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ocean Eyes - Cautious Clay Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassAnotherDay = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lu9nUZStqCZrk8mvJvdpS",
-      externalLink: "https://open.spotify.com/track/5lu9nUZStqCZrk8mvJvdpS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Another Day",
   trackType: "studio",
   explicit: false,

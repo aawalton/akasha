@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionIAmAMountain = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2NYCEJK25YURZTQSA0msEZ",
-      externalLink: "https://open.spotify.com/track/2NYCEJK25YURZTQSA0msEZ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "i Am A Mountain",
   trackType: "studio",
   explicit: false,

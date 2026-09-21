@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ukAkL7aLVrDf7x2XiUkNZ",
-      externalLink: "https://open.spotify.com/track/3ukAkL7aLVrDf7x2XiUkNZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Her Town Too (with J.D. Souther)",
   trackType: "studio",
   explicit: false,

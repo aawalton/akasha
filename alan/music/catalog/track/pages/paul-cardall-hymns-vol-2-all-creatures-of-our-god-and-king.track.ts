@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2AllCreaturesOfOurGodAndKing = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1wQgIlibEbXkR3qVCPP5jd",
-      externalLink: "https://open.spotify.com/track/1wQgIlibEbXkR3qVCPP5jd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All Creatures of Our God and King",
   trackType: "studio",
   explicit: false,

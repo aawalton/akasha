@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsLoveLikeThis = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4QbjjiBOp8GN4LdMbK2oLa",
-      externalLink: "https://open.spotify.com/track/4QbjjiBOp8GN4LdMbK2oLa",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "love like this",
   trackType: "studio",
   explicit: true,

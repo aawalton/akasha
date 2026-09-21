@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpPantomime = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5YZbIe3e6GIZ4wbBTDeE27",
-      externalLink: "https://open.spotify.com/track/5YZbIe3e6GIZ4wbBTDeE27",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Pantomime",
   trackType: "studio",
   explicit: false,

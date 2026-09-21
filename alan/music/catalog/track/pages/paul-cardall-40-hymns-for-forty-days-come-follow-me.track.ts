@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysComeFollowMe = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2sx0Rjaiw07Yb39zjuua6n",
-      externalLink: "https://open.spotify.com/track/2sx0Rjaiw07Yb39zjuua6n",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come, Follow Me",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenRememberOurLove = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1UDQ7mYToIXIME4oAPJPCN",
-      externalLink: "https://open.spotify.com/track/1UDQ7mYToIXIME4oAPJPCN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Remember Our Love",
   trackType: "studio",
   explicit: false,

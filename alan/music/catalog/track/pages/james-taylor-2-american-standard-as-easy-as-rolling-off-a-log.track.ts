@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardAsEasyAsRollingOffALog = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1pGCEor5tqU6Jk783Gs39L",
-      externalLink: "https://open.spotify.com/track/1pGCEor5tqU6Jk783Gs39L",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "As Easy As Rolling Off A Log",
   trackType: "studio",
   explicit: false,

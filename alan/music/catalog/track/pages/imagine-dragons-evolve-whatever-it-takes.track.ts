@@ -9,14 +9,6 @@ export const imagineDragonsEvolveWhateverItTakes = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Qn5zhYkTa37e91HC1D7lb",
-      externalLink: "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Whatever It Takes",
   trackType: "studio",
   explicit: false,

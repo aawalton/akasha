@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineOhBrother = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3JzFww5xW3CDGAN6JbELbI",
-      externalLink: "https://open.spotify.com/track/3JzFww5xW3CDGAN6JbELbI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Oh Brother",
   trackType: "studio",
   explicit: false,

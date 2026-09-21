@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandYouRaiseMeUpLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uBB3J7gCryivdEmlq4q7k",
-      externalLink: "https://open.spotify.com/track/6uBB3J7gCryivdEmlq4q7k",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Raise Me Up - Live 2017",
   trackType: "live",
   explicit: false,

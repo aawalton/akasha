@@ -9,14 +9,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterAnywhereLikeHeaven2019Remaste
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4G9b4sc68Sx0mIdEO59VMM",
-      externalLink: "https://open.spotify.com/track/4G9b4sc68Sx0mIdEO59VMM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Anywhere like Heaven - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

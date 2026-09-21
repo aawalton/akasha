@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWaySpanglishVersion
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3HAQ4fEd3opmo09LJIHOX2",
-      externalLink: "https://open.spotify.com/track/3HAQ4fEd3opmo09LJIHOX2",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Way - Spanglish Version (feat. Mac Miller)",
   trackType: "version",
   explicit: false,

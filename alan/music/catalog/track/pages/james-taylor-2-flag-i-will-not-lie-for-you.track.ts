@@ -9,14 +9,6 @@ export const jamesTaylor2FlagIWillNotLieForYou = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6SWenTaB4PNj8DCY8TY8Nu",
-      externalLink: "https://open.spotify.com/track/6SWenTaB4PNj8DCY8TY8Nu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Will Not Lie for You",
   trackType: "studio",
   explicit: false,

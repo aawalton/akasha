@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveCopperline = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3GuCDFyTO1FDhWgbhCkg0A",
-      externalLink: "https://open.spotify.com/track/3GuCDFyTO1FDhWgbhCkg0A",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Copperline",
   trackType: "studio",
   explicit: false,

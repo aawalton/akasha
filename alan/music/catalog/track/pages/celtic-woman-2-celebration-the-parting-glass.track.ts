@@ -9,14 +9,6 @@ export const celticWoman2CelebrationThePartingGlass = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2LvGE9gWeFfDZMWRLUfays",
-      externalLink: "https://open.spotify.com/track/2LvGE9gWeFfDZMWRLUfays",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Parting Glass",
   trackType: "studio",
   explicit: false,

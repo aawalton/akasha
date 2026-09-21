@@ -9,14 +9,6 @@ export const sabrinaCarpenterSkinnyDippingAcousticSkinnyDippingAcoustic = {
   partOfCollections: ["release/sabrina-carpenter-skinny-dipping-acoustic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1KnwbBxKijjT8EmAryC71R",
-      externalLink: "https://open.spotify.com/track/1KnwbBxKijjT8EmAryC71R",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "skinny dipping - Acoustic",
   trackType: "acoustic",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaInvisibleMenRemix = {
   partOfCollections: ["release/coldplay-princess-of-china"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2f3XEVeU7g6vZgK2BmyIg8",
-      externalLink: "https://open.spotify.com/track/2f3XEVeU7g6vZgK2BmyIg8",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Princess of China - Invisible Men Remix",
   trackType: "remix",
   explicit: false,

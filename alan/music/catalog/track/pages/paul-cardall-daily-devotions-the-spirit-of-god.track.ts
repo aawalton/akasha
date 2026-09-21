@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsTheSpiritOfGod = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0oJ7XrfOn5P6OUu0RfWIKc",
-      externalLink: "https://open.spotify.com/track/0oJ7XrfOn5P6OUu0RfWIKc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Spirit of God",
   trackType: "studio",
   explicit: false,

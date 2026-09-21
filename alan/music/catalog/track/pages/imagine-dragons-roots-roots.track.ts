@@ -9,14 +9,6 @@ export const imagineDragonsRootsRoots = {
   partOfCollections: ["release/imagine-dragons-roots"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4GITtbZtRCQXhWLMXrWXHt",
-      externalLink: "https://open.spotify.com/track/4GITtbZtRCQXhWLMXrWXHt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Roots",
   trackType: "studio",
   explicit: false,

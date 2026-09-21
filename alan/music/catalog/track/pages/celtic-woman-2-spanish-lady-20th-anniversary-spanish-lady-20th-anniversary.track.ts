@@ -9,14 +9,6 @@ export const celticWoman2SpanishLady20thAnniversarySpanishLady20thAnniversary = 
   partOfCollections: ["release/celtic-woman-2-spanish-lady-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1DiTopglaxs7RxHnrDy9VU",
-      externalLink: "https://open.spotify.com/track/1DiTopglaxs7RxHnrDy9VU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Spanish Lady - 20th Anniversary",
   trackType: "studio",
   explicit: false,

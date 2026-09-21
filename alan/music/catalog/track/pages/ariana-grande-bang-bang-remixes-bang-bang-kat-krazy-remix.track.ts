@@ -9,14 +9,6 @@ export const arianaGrandeBangBangRemixesBangBangKatKrazyRemix = {
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wmzSwXcZw3D93kqWeFp9H",
-      externalLink: "https://open.spotify.com/track/3wmzSwXcZw3D93kqWeFp9H",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang - Kat Krazy Remix",
   trackType: "remix",
   explicit: false,

@@ -13,14 +13,6 @@ export const thePianoGuys3LullabyAllGood = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2CVE8Vku4ZCs1Dv0BUHzQW",
-      externalLink: "https://open.spotify.com/track/2CVE8Vku4ZCs1Dv0BUHzQW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "All Good",
   trackType: "studio",
   explicit: false,

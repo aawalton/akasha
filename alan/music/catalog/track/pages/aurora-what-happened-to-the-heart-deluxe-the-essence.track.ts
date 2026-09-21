@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeTheEssence = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1A6KGfxjQLl7JQfCk20y27",
-      externalLink: "https://open.spotify.com/track/1A6KGfxjQLl7JQfCk20y27",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Essence",
   trackType: "studio",
   explicit: false,

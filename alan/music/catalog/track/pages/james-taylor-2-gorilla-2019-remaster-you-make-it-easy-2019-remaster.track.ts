@@ -9,14 +9,6 @@ export const jamesTaylor2Gorilla2019RemasterYouMakeItEasy2019Remaster = {
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45ZVG3woqX1Sl2VmgN5tyA",
-      externalLink: "https://open.spotify.com/track/45ZVG3woqX1Sl2VmgN5tyA",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Make It Easy - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

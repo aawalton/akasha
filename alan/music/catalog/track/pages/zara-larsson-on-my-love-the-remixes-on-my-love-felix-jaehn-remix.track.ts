@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFelixJaehnRemix = {
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3eLkxnSFU8L4fPhScVfNe2",
-      externalLink: "https://open.spotify.com/track/3eLkxnSFU8L4fPhScVfNe2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love - Felix Jaehn Remix",
   trackType: "remix",
   explicit: false,

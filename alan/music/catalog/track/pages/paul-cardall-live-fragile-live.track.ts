@@ -9,14 +9,6 @@ export const paulCardallLiveFragileLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7pMcj48agTjNSkRqOTZJ7q",
-      externalLink: "https://open.spotify.com/track/7pMcj48agTjNSkRqOTZJ7q",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fragile - Live",
   trackType: "live",
   explicit: false,

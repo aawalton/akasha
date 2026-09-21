@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarAveMaria = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5eeNMimzxqWafuRr8fZbZu",
-      externalLink: "https://open.spotify.com/track/5eeNMimzxqWafuRr8fZbZu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64qOMCzbwD6yrgBYBPJMA3",
-      externalLink: "https://open.spotify.com/track/64qOMCzbwD6yrgBYBPJMA3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Morning - Billen Ted Remix",
   trackType: "remix",
   explicit: false,

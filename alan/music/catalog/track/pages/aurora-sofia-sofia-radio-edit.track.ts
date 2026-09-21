@@ -9,14 +9,6 @@ export const auroraSofiaSofiaRadioEdit = {
   partOfCollections: ["release/aurora-sofia"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tIG643TwrkFMSB34jgKtI",
-      externalLink: "https://open.spotify.com/track/6tIG643TwrkFMSB34jgKtI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sofia - Radio Edit",
   trackType: "version",
   explicit: false,

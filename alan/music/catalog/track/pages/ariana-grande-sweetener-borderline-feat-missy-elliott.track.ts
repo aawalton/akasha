@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerBorderlineFeatMissyElliott = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4b7mLZQWsy0rLnrMtPA9fQ",
-      externalLink: "https://open.spotify.com/track/4b7mLZQWsy0rLnrMtPA9fQ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "borderline (feat. Missy Elliott)",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const auroraADifferentKindOfHumanStepIiADifferentKindOfHuman = {
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii", "release/aurora-stories"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3xCYl9Ix2ZUa7rH7nbUOTS",
-      externalLink: "https://open.spotify.com/track/3xCYl9Ix2ZUa7rH7nbUOTS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Different Kind Of Human",
   trackType: "studio",
   explicit: false,

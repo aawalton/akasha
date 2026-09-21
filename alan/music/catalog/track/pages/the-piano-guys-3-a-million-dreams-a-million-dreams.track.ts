@@ -9,14 +9,6 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
   partOfCollections: ["release/the-piano-guys-3-a-million-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Jj5Jho1NVrUXi9j6Nunf1",
-      externalLink: "https://open.spotify.com/track/3Jj5Jho1NVrUXi9j6Nunf1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Million Dreams",
   trackType: "studio",
   explicit: false,

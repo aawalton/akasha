@@ -9,14 +9,6 @@ export const coldplayGhostStoriesAnothersArms = {
   partOfCollections: ["release/coldplay-ghost-stories"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "22uzF19LxQW87kOVkR79Fq",
-      externalLink: "https://open.spotify.com/track/22uzF19LxQW87kOVkR79Fq",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Another's Arms",
   trackType: "studio",
   explicit: false,

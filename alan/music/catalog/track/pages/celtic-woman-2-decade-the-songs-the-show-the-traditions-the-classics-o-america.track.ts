@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOAmerica =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1nhyKRNzO3aRf5pxLpUFOn",
-      externalLink: "https://open.spotify.com/track/1nhyKRNzO3aRf5pxLpUFOn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O, America!",
   trackType: "studio",
   explicit: false,

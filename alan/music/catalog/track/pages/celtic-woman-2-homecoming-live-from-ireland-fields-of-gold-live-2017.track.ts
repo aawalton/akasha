@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandFieldsOfGoldLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0isJbwU1OkjsMLvJvxFExF",
-      externalLink: "https://open.spotify.com/track/0isJbwU1OkjsMLvJvxFExF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fields Of Gold - Live 2017",
   trackType: "live",
   explicit: false,

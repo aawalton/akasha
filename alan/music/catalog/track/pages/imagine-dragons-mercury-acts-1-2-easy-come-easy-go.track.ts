@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12EasyComeEasyGo = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qRt4howTYyg3XzSNySKO8",
-      externalLink: "https://open.spotify.com/track/5qRt4howTYyg3XzSNySKO8",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Easy Come Easy Go",
   trackType: "studio",
   explicit: false,

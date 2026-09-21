@@ -12,14 +12,6 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4O5ygqTjiXLWo9HASGsk8E",
-      externalLink: "https://open.spotify.com/track/4O5ygqTjiXLWo9HASGsk8E",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life - Retro Version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiCherryWineCherryWine = {
   partOfCollections: ["release/vinny-marchi-cherry-wine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ElnQSxqO4p88afe629nbK",
-      externalLink: "https://open.spotify.com/track/6ElnQSxqO4p88afe629nbK",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Cherry Wine",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2TwinkleLullaby = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "50BSgrvg1WgrudUbw2fQG4",
-      externalLink: "https://open.spotify.com/track/50BSgrvg1WgrudUbw2fQG4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Twinkle Lullaby",
   trackType: "studio",
   explicit: false,

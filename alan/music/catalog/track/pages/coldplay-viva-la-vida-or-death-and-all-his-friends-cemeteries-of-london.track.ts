@@ -12,14 +12,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsCemeteriesOfLondon = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "03uqdEuopXPSCg4MvgA2fI",
-      externalLink: "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Cemeteries of London",
   trackType: "studio",
   explicit: false,

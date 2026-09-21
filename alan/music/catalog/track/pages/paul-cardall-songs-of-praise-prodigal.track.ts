@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseProdigal = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0BpCQv9S9ofb0pvQGZ5Rc1",
-      externalLink: "https://open.spotify.com/track/0BpCQv9S9ofb0pvQGZ5Rc1",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Prodigal",
   trackType: "studio",
   explicit: false,

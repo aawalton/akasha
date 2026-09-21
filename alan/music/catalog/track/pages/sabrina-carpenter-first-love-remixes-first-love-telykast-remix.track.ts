@@ -9,14 +9,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveTelykastRemix = {
   partOfCollections: ["release/sabrina-carpenter-first-love-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qJuG66jfxUgzfl6l195FO",
-      externalLink: "https://open.spotify.com/track/5qJuG66jfxUgzfl6l195FO",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "First Love - TELYKast Remix",
   trackType: "remix",
   explicit: false,

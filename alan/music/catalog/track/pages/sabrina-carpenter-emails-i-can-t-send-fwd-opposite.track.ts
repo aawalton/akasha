@@ -9,14 +9,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdOpposite = {
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27Jko74ZSVY1kwt0vMY6Pu",
-      externalLink: "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "opposite",
   trackType: "studio",
   explicit: false,

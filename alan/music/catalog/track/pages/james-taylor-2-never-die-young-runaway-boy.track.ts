@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungRunawayBoy = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2d2rnhj1TolgOQnhOslfdE",
-      externalLink: "https://open.spotify.com/track/2d2rnhj1TolgOQnhOslfdE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Runaway Boy",
   trackType: "studio",
   explicit: false,

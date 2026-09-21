@@ -9,14 +9,6 @@ export const paulCardallChillCollectionStateOfMind = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7HbJxW7MtgE7CcFtyOEsXl",
-      externalLink: "https://open.spotify.com/track/7HbJxW7MtgE7CcFtyOEsXl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "State of Mind",
   trackType: "studio",
   explicit: false,

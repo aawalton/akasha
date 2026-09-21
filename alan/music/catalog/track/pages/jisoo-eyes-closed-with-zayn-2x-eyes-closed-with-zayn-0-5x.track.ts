@@ -9,14 +9,6 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn05x = {
   partOfCollections: ["release/jisoo-eyes-closed-with-zayn-2x"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0eOpWsum2W5l1KLxJ4QVcM",
-      externalLink: "https://open.spotify.com/track/0eOpWsum2W5l1KLxJ4QVcM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "EYES CLOSED (with ZAYN) - 0.5X",
   trackType: "studio",
   explicit: false,

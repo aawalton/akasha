@@ -9,14 +9,6 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65Q3jlvZkSp55H7mlDJlAz",
-      externalLink: "https://open.spotify.com/track/65Q3jlvZkSp55H7mlDJlAz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bridge Over Troubled Water",
   trackType: "studio",
   explicit: false,

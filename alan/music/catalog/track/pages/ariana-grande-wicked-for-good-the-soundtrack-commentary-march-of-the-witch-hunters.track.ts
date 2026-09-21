@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3zjxzTFc3uebB6nqk0CVxF",
-      externalLink: "https://open.spotify.com/track/3zjxzTFc3uebB6nqk0CVxF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "March of the Witch Hunters",
   trackType: "studio",
   explicit: false,

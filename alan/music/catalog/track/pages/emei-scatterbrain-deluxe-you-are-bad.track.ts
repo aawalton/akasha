@@ -9,14 +9,6 @@ export const emeiScatterbrainDeluxeYouAreBad = {
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tSSghRWA2iOW4jGXSttwX",
-      externalLink: "https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "You Are Bad",
   trackType: "studio",
   explicit: true,

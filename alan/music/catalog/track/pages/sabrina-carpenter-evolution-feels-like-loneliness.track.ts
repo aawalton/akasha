@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionFeelsLikeLoneliness = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0QTOY1FBKwC7jA33N8cLSi",
-      externalLink: "https://open.spotify.com/track/0QTOY1FBKwC7jA33N8cLSi",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Feels Like Loneliness",
   trackType: "studio",
   explicit: false,

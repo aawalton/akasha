@@ -9,14 +9,6 @@ export const jamesTaylor2JtHandyMan = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "70aUjWZmd9F3bRSsR4DwAJ",
-      externalLink: "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Handy Man",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayParachutesTrouble = {
   partOfCollections: ["release/coldplay-parachutes", "release/coldplay-trouble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0R8P9KfGJCDULmlEoBagcO",
-      externalLink: "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Trouble",
   trackType: "studio",
   explicit: false,

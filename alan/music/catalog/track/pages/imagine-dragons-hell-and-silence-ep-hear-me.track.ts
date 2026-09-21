@@ -9,14 +9,6 @@ export const imagineDragonsHellAndSilenceEpHearMe = {
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2f79dv47Mo69MCPnV9JNWq",
-      externalLink: "https://open.spotify.com/track/2f79dv47Mo69MCPnV9JNWq",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hear Me",
   trackType: "studio",
   explicit: false,

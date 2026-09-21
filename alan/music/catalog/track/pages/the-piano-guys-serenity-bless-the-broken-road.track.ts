@@ -9,14 +9,6 @@ export const thePianoGuysSerenityBlessTheBrokenRoad = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Ihys8VEEtMJ5L12E82GHq",
-      externalLink: "https://open.spotify.com/track/1Ihys8VEEtMJ5L12E82GHq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bless the Broken Road",
   trackType: "studio",
   explicit: false,

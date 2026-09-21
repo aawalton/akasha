@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverEverybodyDies = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5jhBwnqzNNrENXnYrAdoCe",
-      externalLink: "https://open.spotify.com/track/5jhBwnqzNNrENXnYrAdoCe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Everybody Dies",
   trackType: "studio",
   explicit: false,

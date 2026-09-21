@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sItWasntMe = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ivG0P3MQP0cd9dWcJA0HJ",
-      externalLink: "https://open.spotify.com/track/1ivG0P3MQP0cd9dWcJA0HJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "It Wasn't Me",
   trackType: "studio",
   explicit: false,

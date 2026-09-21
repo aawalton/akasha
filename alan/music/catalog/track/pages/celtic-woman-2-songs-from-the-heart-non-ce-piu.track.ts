@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartNonCePiu = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2hSIWpbqiac0MGrYHycKJM",
-      externalLink: "https://open.spotify.com/track/2hSIWpbqiac0MGrYHycKJM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Non C'è Più",
   trackType: "studio",
   explicit: false,

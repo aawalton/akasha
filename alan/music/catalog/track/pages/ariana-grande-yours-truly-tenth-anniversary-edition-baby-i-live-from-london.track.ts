@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyILiveFromLondon = 
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58aPrOUl9wFOoaBOgrWoBc",
-      externalLink: "https://open.spotify.com/track/58aPrOUl9wFOoaBOgrWoBc",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Baby I - Live from London",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionSeptemberGrass = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oT7HmkPkGsi0SAB10D34x",
-      externalLink: "https://open.spotify.com/track/5oT7HmkPkGsi0SAB10D34x",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "September Grass",
   trackType: "studio",
   explicit: false,

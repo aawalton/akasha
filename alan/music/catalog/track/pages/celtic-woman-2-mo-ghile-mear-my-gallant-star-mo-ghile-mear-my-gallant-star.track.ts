@@ -9,14 +9,6 @@ export const celticWoman2MoGhileMearMyGallantStarMoGhileMearMyGallantStar = {
   partOfCollections: ["release/celtic-woman-2-mo-ghile-mear-my-gallant-star"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45dzi69k16c8F2CeKPhhwR",
-      externalLink: "https://open.spotify.com/track/45dzi69k16c8F2CeKPhhwR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear (My Gallant Star)",
   trackType: "studio",
   explicit: false,

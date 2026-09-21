@@ -12,14 +12,6 @@ export const celticWoman22020thAnniversaryIKnowMyLove20thAnniversary = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6WB6U6eQ5ntl5zEaz9zM8r",
-      externalLink: "https://open.spotify.com/track/6WB6U6eQ5ntl5zEaz9zM8r",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Know My Love - 20th Anniversary",
   trackType: "studio",
   explicit: false,

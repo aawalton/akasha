@@ -9,14 +9,6 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
   partOfCollections: ["release/ariana-grande-just-look-up-from-don-t-look-up"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3QPBocWfIcOCdFFvmqn60F",
-      externalLink: "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Just Look Up (From Don’t Look Up)",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sMyWifesOnAHealthyDiet = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "51jUIXjfDoHvqMVRIRFlSu",
-      externalLink: "https://open.spotify.com/track/51jUIXjfDoHvqMVRIRFlSu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Wife's on a Healthy Diet",
   trackType: "studio",
   explicit: false,

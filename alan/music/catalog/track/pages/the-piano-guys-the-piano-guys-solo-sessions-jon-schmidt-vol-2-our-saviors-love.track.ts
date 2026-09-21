@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2OurSaviorsLove = 
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "37sn9XyJDUdCRs5fEBBwFh",
-      externalLink: "https://open.spotify.com/track/37sn9XyJDUdCRs5fEBBwFh",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Our Savior's Love",
   trackType: "studio",
   explicit: false,

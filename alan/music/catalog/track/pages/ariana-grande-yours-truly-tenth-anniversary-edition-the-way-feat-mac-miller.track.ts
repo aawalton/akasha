@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayFeatMacMiller = 
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Onx2O64wzyA7ZzOsBBqBJ",
-      externalLink: "https://open.spotify.com/track/1Onx2O64wzyA7ZzOsBBqBJ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Way (feat. Mac Miller)",
   trackType: "studio",
   explicit: false,

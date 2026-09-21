@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleForBetterOrWorse = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1pgILP7O7CjVOtzs26TNkP",
-      externalLink: "https://open.spotify.com/track/1pgILP7O7CjVOtzs26TNkP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "For Better or Worse",
   trackType: "studio",
   explicit: false,

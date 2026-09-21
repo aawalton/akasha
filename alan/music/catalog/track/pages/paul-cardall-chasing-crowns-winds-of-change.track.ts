@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsWindsOfChange = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "78QcjBxEiLVY3FqcY82Exp",
-      externalLink: "https://open.spotify.com/track/78QcjBxEiLVY3FqcY82Exp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Winds of Change",
   trackType: "studio",
   explicit: false,

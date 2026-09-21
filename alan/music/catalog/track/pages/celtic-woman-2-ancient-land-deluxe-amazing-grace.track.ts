@@ -9,14 +9,6 @@ export const celticWoman2AncientLandDeluxeAmazingGrace = {
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2qBIEsPjsGmF5gkGMRUcnx",
-      externalLink: "https://open.spotify.com/track/2qBIEsPjsGmF5gkGMRUcnx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,

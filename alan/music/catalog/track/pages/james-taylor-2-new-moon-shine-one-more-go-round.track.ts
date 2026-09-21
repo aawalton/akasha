@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineOneMoreGoRound = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XLh9yBr6Dxif6s6dkyNyi",
-      externalLink: "https://open.spotify.com/track/6XLh9yBr6Dxif6s6dkyNyi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "One More Go Round",
   trackType: "studio",
   explicit: false,

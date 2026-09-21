@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarMoonlightSonata = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1zhEK6t7T5uACpRjmJ6JBu",
-      externalLink: "https://open.spotify.com/track/1zhEK6t7T5uACpRjmJ6JBu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Moonlight Sonata",
   trackType: "studio",
   explicit: false,

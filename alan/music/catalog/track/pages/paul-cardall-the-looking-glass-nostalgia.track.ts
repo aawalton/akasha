@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassNostalgia = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7DDIxsZf1cW8LGHg1RzHC7",
-      externalLink: "https://open.spotify.com/track/7DDIxsZf1cW8LGHg1RzHC7",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Nostalgia",
   trackType: "studio",
   explicit: false,

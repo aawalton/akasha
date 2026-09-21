@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingLeavingLA = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "33vwDqkMmYtr2r1ymYrlng",
-      externalLink: "https://open.spotify.com/track/33vwDqkMmYtr2r1ymYrlng",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Leaving L.A.",
   trackType: "studio",
   explicit: false,

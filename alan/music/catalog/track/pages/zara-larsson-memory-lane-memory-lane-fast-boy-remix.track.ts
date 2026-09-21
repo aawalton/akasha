@@ -9,14 +9,6 @@ export const zaraLarssonMemoryLaneMemoryLaneFastBoyRemix = {
   partOfCollections: ["release/zara-larsson-memory-lane"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2XGIX3mJB4EQp3GhDdT8W9",
-      externalLink: "https://open.spotify.com/track/2XGIX3mJB4EQp3GhDdT8W9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Memory Lane - FAST BOY Remix",
   trackType: "remix",
   explicit: true,

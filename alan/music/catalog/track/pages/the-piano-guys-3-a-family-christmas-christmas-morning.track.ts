@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasChristmasMorning = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5fcRaiktOXuGauXlTfumSY",
-      externalLink: "https://open.spotify.com/track/5fcRaiktOXuGauXlTfumSY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Christmas Morning",
   trackType: "studio",
   explicit: false,

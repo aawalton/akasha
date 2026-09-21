@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneHoldOn = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3dZYv5XEkuaxPxbPsSLMUi",
-      externalLink: "https://open.spotify.com/track/3dZYv5XEkuaxPxbPsSLMUi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hold On",
   trackType: "studio",
   explicit: false,

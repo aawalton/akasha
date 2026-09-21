@@ -9,14 +9,6 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jWasg4ilKcOwcrGPI0CT1",
-      externalLink: "https://open.spotify.com/track/7jWasg4ilKcOwcrGPI0CT1",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "The Goldrush",
   trackType: "studio",
   explicit: false,

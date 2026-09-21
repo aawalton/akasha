@@ -9,14 +9,6 @@ export const chaislynMrNiceTryMrNiceTry = {
   partOfCollections: ["release/chaislyn-mr-nice-try"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1q9C6rbft5EB5I4TtfAcTZ",
-      externalLink: "https://open.spotify.com/track/1q9C6rbft5EB5I4TtfAcTZ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Mr. Nice Try",
   trackType: "studio",
   explicit: false,

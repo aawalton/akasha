@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreIntroLive = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "66xWQEHTW6cl4DOEB3Oe40",
-      externalLink: "https://open.spotify.com/track/66xWQEHTW6cl4DOEB3Oe40",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Intro - Live",
   trackType: "live",
   explicit: false,

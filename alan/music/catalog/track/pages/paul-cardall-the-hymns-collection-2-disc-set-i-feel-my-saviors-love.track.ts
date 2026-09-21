@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetIFeelMySaviorsLove = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0J2iAVDeU1pwuc8gMYsrWp",
-      externalLink: "https://open.spotify.com/track/0J2iAVDeU1pwuc8gMYsrWp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Feel My Savior's Love",
   trackType: "studio",
   explicit: false,

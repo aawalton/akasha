@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessSomethingJustLikeThisHungarianRhapsody = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6bdy5pGNFPIvWpLIJklKaj",
-      externalLink: "https://open.spotify.com/track/6bdy5pGNFPIvWpLIJklKaj",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Something Just Like This / Hungarian Rhapsody",
   trackType: "studio",
   explicit: false,

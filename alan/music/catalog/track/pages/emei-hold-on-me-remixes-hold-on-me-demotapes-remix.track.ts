@@ -9,14 +9,6 @@ export const emeiHoldOnMeRemixesHoldOnMeDemotapesRemix = {
   partOfCollections: ["release/emei-hold-on-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0j0ufA8RydnwtqaSbqe1fS",
-      externalLink: "https://open.spotify.com/track/0j0ufA8RydnwtqaSbqe1fS",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hold On Me - demotapes Remix",
   trackType: "remix",
   explicit: false,

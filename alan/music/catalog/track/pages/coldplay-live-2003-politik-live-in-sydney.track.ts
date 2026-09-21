@@ -9,14 +9,6 @@ export const coldplayLive2003PolitikLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "110a2YFVoGswehZi2kkVpp",
-      externalLink: "https://open.spotify.com/track/110a2YFVoGswehZi2kkVpp",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Politik - Live in Sydney",
   trackType: "live",
   explicit: false,

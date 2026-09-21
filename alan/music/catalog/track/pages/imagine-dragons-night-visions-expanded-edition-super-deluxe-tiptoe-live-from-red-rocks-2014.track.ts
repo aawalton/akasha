@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTiptoeLiveFromR
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2enMkSSbfRpTJgXmPL5kUP",
-      externalLink: "https://open.spotify.com/track/2enMkSSbfRpTJgXmPL5kUP",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tiptoe - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

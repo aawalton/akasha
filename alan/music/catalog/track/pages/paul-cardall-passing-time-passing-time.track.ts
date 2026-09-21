@@ -9,14 +9,6 @@ export const paulCardallPassingTimePassingTime = {
   partOfCollections: ["release/paul-cardall-passing-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2PelR6ZEm4UK5cr4pZWiaz",
-      externalLink: "https://open.spotify.com/track/2PelR6ZEm4UK5cr4pZWiaz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Passing Time",
   trackType: "studio",
   explicit: false,

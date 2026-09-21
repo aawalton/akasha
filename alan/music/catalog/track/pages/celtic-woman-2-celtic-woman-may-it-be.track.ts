@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanMayItBe = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6nagmlFCvUo7rSjt3wDPbD",
-      externalLink: "https://open.spotify.com/track/6nagmlFCvUo7rSjt3wDPbD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "May It Be",
   trackType: "studio",
   explicit: false,

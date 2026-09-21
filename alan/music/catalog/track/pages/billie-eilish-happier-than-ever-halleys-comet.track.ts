@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverHalleysComet = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XsAal7ZcWg1I5T4NcRjkv",
-      externalLink: "https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Halley's Comet",
   trackType: "studio",
   explicit: false,

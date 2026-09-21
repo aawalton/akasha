@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneLiceLiceBaby = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2URyhf3fuyQ7Fi39K6LV6A",
-      externalLink: "https://open.spotify.com/track/2URyhf3fuyQ7Fi39K6LV6A",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lice, Lice Baby",
   trackType: "studio",
   explicit: false,

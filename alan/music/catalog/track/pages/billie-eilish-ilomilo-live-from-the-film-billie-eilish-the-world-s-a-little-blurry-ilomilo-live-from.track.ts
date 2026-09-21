@@ -11,14 +11,6 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EYiIACD4vGzOmiKYzRdkW",
-      externalLink: "https://open.spotify.com/track/4EYiIACD4vGzOmiKYzRdkW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "ilomilo - Live From The Film - Billie Eilish: The World’s A Little Blurry",
   trackType: "live",
   explicit: false,

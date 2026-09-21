@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasImHappyLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5zq2QfbXqkHORdJZI9z8O1",
-      externalLink: "https://open.spotify.com/track/5zq2QfbXqkHORdJZI9z8O1",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I'm Happy - Live in Vegas",
   trackType: "live",
   explicit: false,

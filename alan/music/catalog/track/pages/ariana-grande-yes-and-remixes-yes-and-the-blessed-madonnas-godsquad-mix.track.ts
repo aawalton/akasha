@@ -12,14 +12,6 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GxNDaFx9411X1g7cCf55E",
-      externalLink: "https://open.spotify.com/track/1GxNDaFx9411X1g7cCf55E",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? - The Blessed Madonna’s Godsquad Mix",
   trackType: "remix",
   explicit: true,

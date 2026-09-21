@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresColourSpectrumLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5MVyXzR1HARqSkQjhPrNBO",
-      externalLink: "https://open.spotify.com/track/5MVyXzR1HARqSkQjhPrNBO",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Colour Spectrum - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

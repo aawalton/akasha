@@ -9,14 +9,6 @@ export const imagineDragonsEvolveNextToMe = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "31VOknKjFrEX47bZXzqcoF",
-      externalLink: "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Next To Me",
   trackType: "studio",
   explicit: false,

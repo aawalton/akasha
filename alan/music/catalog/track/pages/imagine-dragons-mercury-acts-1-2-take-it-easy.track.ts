@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12TakeItEasy = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Y2Iom5hrfZyhBRGqcrJdc",
-      externalLink: "https://open.spotify.com/track/6Y2Iom5hrfZyhBRGqcrJdc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Take It Easy",
   trackType: "studio",
   explicit: false,

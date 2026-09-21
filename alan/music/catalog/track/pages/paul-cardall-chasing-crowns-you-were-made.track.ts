@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsYouWereMade = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58yRNKsc60QuW7xZcQqnmg",
-      externalLink: "https://open.spotify.com/track/58yRNKsc60QuW7xZcQqnmg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "You Were Made",
   trackType: "studio",
   explicit: false,

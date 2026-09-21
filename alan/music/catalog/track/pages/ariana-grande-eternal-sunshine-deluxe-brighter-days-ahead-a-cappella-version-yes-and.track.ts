@@ -17,14 +17,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionY
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NXNPdQEguHjSH7PcKn1ZQ",
-      externalLink: "https://open.spotify.com/track/6NXNPdQEguHjSH7PcKn1ZQ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and?",
   trackType: "studio",
   explicit: true,

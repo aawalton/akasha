@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeIWentTooFar = {
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6UNBt97MYyrEsKVLELzp15",
-      externalLink: "https://open.spotify.com/track/6UNBt97MYyrEsKVLELzp15",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Went Too Far",
   trackType: "studio",
   explicit: false,

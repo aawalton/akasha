@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeZeroFromTheOriginalMotionPictureRalphBre
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bzitsPcImYC6DZWvvLCQi",
-      externalLink: "https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: 'Zero - From the Original Motion Picture "Ralph Breaks The Internet"',
   trackType: "studio",
   explicit: false,

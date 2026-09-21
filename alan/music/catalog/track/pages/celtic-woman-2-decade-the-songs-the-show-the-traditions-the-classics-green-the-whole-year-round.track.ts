@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGreenTheWh
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ON29hdKgy4z0195T1ZASw",
-      externalLink: "https://open.spotify.com/track/3ON29hdKgy4z0195T1ZASw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Green the Whole Year 'Round",
   trackType: "studio",
   explicit: false,

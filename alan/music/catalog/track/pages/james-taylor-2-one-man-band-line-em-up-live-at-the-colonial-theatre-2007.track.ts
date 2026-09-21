@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandLineEmUpLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6N7KLX1EBt8zE7M5vUOdEQ",
-      externalLink: "https://open.spotify.com/track/6N7KLX1EBt8zE7M5vUOdEQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Line 'Em Up - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

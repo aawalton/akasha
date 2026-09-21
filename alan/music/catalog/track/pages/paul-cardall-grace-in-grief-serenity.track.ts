@@ -9,14 +9,6 @@ export const paulCardallGraceInGriefSerenity = {
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5AdKBr5FSUxqiXXdD3k0a8",
-      externalLink: "https://open.spotify.com/track/5AdKBr5FSUxqiXXdD3k0a8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Serenity",
   trackType: "studio",
   explicit: false,

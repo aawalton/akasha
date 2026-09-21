@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2CantHelpFallingInLove = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ISSeXIMiNYCZ1cXwwWJ2v",
-      externalLink: "https://open.spotify.com/track/1ISSeXIMiNYCZ1cXwwWJ2v",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Can't Help Falling in Love",
   trackType: "studio",
   explicit: false,

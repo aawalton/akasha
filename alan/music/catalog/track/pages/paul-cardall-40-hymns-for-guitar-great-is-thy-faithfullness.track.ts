@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarGreatIsThyFaithfullness = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5t4BcjcZdJuYQEfBvBehha",
-      externalLink: "https://open.spotify.com/track/5t4BcjcZdJuYQEfBvBehha",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Great Is Thy Faithfullness",
   trackType: "studio",
   explicit: false,

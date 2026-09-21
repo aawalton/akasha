@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysAPoorWayfaringManOfGrief = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HWygrZpFGUaasL40c964W",
-      externalLink: "https://open.spotify.com/track/4HWygrZpFGUaasL40c964W",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Poor Wayfaring Man of Grief",
   trackType: "studio",
   explicit: false,

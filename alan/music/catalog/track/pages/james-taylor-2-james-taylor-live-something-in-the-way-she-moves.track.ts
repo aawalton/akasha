@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveSomethingInTheWaySheMoves = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63ImfYU7j6yDEk11eIQUKv",
-      externalLink: "https://open.spotify.com/track/63ImfYU7j6yDEk11eIQUKv",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Something In The Way She Moves",
   trackType: "studio",
   explicit: false,

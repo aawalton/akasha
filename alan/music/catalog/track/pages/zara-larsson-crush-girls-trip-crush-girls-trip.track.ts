@@ -12,14 +12,6 @@ export const zaraLarssonCrushGirlsTripCrushGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3s0VYrnOnSNURobwyQvVw3",
-      externalLink: "https://open.spotify.com/track/3s0VYrnOnSNURobwyQvVw3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Crush - Girls Trip",
   trackType: "studio",
   explicit: false,

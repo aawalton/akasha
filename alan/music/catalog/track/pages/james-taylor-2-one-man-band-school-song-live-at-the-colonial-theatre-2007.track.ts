@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandSchoolSongLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2s18y5OmCMbCtvF24S6Zvm",
-      externalLink: "https://open.spotify.com/track/2s18y5OmCMbCtvF24S6Zvm",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "School Song - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

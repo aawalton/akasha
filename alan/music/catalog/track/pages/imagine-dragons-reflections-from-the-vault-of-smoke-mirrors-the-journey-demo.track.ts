@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheJourneyDemo =
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0NdHNRYRIsCyUWnEui0ff7",
-      externalLink: "https://open.spotify.com/track/0NdHNRYRIsCyUWnEui0ff7",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The Journey - Demo",
   trackType: "demo",
   explicit: false,

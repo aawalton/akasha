@@ -9,14 +9,6 @@ export const arianaGrandeFocusFocus = {
   partOfCollections: ["release/ariana-grande-focus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1cdzfFjEbUbgTm5nv3FgXR",
-      externalLink: "https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Focus",
   trackType: "studio",
   explicit: false,

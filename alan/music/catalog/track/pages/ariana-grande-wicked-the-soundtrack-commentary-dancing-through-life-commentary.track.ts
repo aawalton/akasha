@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2J3wJpOo3120U3hjHpnDOt",
-      externalLink: "https://open.spotify.com/track/2J3wJpOo3120U3hjHpnDOt",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Dancing Through Life - Commentary",
   trackType: "studio",
   explicit: false,

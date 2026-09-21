@@ -12,14 +12,6 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DwyaU9lBwhOleAgB42Yyk",
-      externalLink: "https://open.spotify.com/track/5DwyaU9lBwhOleAgB42Yyk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "River Flows In You",
   trackType: "studio",
   explicit: false,

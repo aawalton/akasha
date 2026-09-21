@@ -9,14 +9,6 @@ export const sabrinaCarpenterEspressoEpEspressoOnVacationVersion = {
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5WszdMXh1g7EFgJcfJd3cQ",
-      externalLink: "https://open.spotify.com/track/5WszdMXh1g7EFgJcfJd3cQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso - On Vacation Version",
   trackType: "version",
   explicit: false,

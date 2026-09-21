@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartAmazingGrace = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ktkmx2gmshDYiURNgJbOp",
-      externalLink: "https://open.spotify.com/track/3ktkmx2gmshDYiURNgJbOp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,

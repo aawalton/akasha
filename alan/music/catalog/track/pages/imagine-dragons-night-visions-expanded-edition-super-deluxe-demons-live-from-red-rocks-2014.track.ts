@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsLiveFromR
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5d3lIrP5kliCoXPKc1jUTz",
-      externalLink: "https://open.spotify.com/track/5d3lIrP5kliCoXPKc1jUTz",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

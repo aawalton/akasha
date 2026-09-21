@@ -9,14 +9,6 @@ export const coldplayTheScientistIRanAway = {
   partOfCollections: ["release/coldplay-the-scientist"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1DQoNwxygxmQVH972Ha75w",
-      externalLink: "https://open.spotify.com/track/1DQoNwxygxmQVH972Ha75w",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "I Ran Away",
   trackType: "studio",
   explicit: false,

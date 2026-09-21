@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sShoesYourself = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0tlRrL2aG3ktFrKMbBe9oq",
-      externalLink: "https://open.spotify.com/track/0tlRrL2aG3ktFrKMbBe9oq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Shoes Yourself",
   trackType: "studio",
   explicit: false,

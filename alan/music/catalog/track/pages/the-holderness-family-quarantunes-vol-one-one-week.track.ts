@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneOneWeek = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3CYqrx6ZEgdp7LddqVHzbW",
-      externalLink: "https://open.spotify.com/track/3CYqrx6ZEgdp7LddqVHzbW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "One Week",
   trackType: "studio",
   explicit: false,

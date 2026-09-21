@@ -9,14 +9,6 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
   partOfCollections: ["release/the-piano-guys-3-waterfall-feat-richard-elliott"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "04yTIa8owaSc7Yd25h76sX",
-      externalLink: "https://open.spotify.com/track/04yTIa8owaSc7Yd25h76sX",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Waterfall - feat. Richard Elliott",
   trackType: "studio",
   explicit: false,

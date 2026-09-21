@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourUpOnTheRoofLiveAtTheTroubadour2007 =
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1MqlbA03Ck33ObMeGkfkZD",
-      externalLink: "https://open.spotify.com/track/1MqlbA03Ck33ObMeGkfkZD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Up On The Roof - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

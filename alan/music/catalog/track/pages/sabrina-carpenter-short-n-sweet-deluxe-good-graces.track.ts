@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeGoodGraces = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5JiTjhx7lhqYgsIGpo0VFy",
-      externalLink: "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Good Graces",
   trackType: "studio",
   explicit: true,

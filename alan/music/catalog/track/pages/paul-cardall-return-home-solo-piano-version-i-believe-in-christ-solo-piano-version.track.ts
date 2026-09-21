@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionIBelieveInChristSoloPianoVersi
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ZSACM2GJre0FA8xjJwGNH",
-      externalLink: "https://open.spotify.com/track/0ZSACM2GJre0FA8xjJwGNH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Believe In Christ - Solo Piano Version",
   trackType: "version",
   explicit: false,

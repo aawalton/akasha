@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeCoverUp = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4g8uHvPeL2Fdw2luDG7p40",
-      externalLink: "https://open.spotify.com/track/4g8uHvPeL2Fdw2luDG7p40",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cover Up",
   trackType: "studio",
   explicit: false,

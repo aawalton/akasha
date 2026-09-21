@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "25J1EDD1Up25EUTJGFD4mI",
-      externalLink: "https://open.spotify.com/track/25J1EDD1Up25EUTJGFD4mI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Morning Breaks",
   trackType: "studio",
   explicit: false,

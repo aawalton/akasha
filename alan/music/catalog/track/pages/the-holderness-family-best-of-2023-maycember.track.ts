@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023Maycember = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2gU36T7Y9RyEXikgUstvD4",
-      externalLink: "https://open.spotify.com/track/2gU36T7Y9RyEXikgUstvD4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Maycember",
   trackType: "studio",
   explicit: false,

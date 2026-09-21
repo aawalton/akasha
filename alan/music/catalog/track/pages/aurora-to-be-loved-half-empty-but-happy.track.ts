@@ -9,14 +9,6 @@ export const auroraToBeLovedHalfEmptyButHappy = {
   partOfCollections: ["release/aurora-to-be-loved"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "67wNjh1nTci8GuATIhJWut",
-      externalLink: "https://open.spotify.com/track/67wNjh1nTci8GuATIhJWut",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Half Empty But Happy",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const auroraInfectionsOfADifferentKindStepIAllIsSoftInside = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5iea3OCyoWdN8ARjRvfA35",
-      externalLink: "https://open.spotify.com/track/5iea3OCyoWdN8ARjRvfA35",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All Is Soft Inside",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sPollenInTheAir = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "39ixqJwPO4ZBOD73dZY1mZ",
-      externalLink: "https://open.spotify.com/track/39ixqJwPO4ZBOD73dZY1mZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Pollen in the Air",
   trackType: "studio",
   explicit: false,

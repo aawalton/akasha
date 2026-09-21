@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionUntitled2 = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48pTPjEyxxD4aHg9uBTp6G",
-      externalLink: "https://open.spotify.com/track/48pTPjEyxxD4aHg9uBTp6G",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "👋",
   trackType: "studio",
   explicit: false,

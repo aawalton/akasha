@@ -15,14 +15,6 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qlnkOSg4oT0iCVNJQQqSU",
-      externalLink: "https://open.spotify.com/track/5qlnkOSg4oT0iCVNJQQqSU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Will Always Love You",
   trackType: "studio",
   explicit: false,

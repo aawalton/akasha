@@ -9,14 +9,6 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
   partOfCollections: ["release/vinny-marchi-the-high-song-mendeleyev-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Tw1HRQT0UnkCrnmO5wvBI",
-      externalLink: "https://open.spotify.com/track/5Tw1HRQT0UnkCrnmO5wvBI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The High Song - Mendeleyev Remix",
   trackType: "remix",
   explicit: false,

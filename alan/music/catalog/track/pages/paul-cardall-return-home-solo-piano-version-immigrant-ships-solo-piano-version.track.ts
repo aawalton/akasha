@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionImmigrantShipsSoloPianoVersion
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2W8Iz7tNk4paeaNk2qrbXs",
-      externalLink: "https://open.spotify.com/track/2W8Iz7tNk4paeaNk2qrbXs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Immigrant Ships - Solo Piano Version",
   trackType: "version",
   explicit: false,

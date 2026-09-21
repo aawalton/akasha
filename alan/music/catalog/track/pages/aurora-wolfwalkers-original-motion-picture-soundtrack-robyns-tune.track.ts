@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRobynsTune = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4YBQh7ZmFwQg78knLtfECb",
-      externalLink: "https://open.spotify.com/track/4YBQh7ZmFwQg78knLtfECb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Robyn's Tune",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12ImHappy = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0z2bufPrU83RRPRaboj3B7",
-      externalLink: "https://open.spotify.com/track/0z2bufPrU83RRPRaboj3B7",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I'm Happy",
   trackType: "studio",
   explicit: false,

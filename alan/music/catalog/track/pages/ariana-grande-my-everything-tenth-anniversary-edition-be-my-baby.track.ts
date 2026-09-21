@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBeMyBaby = {
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0BFkaHSK8Irpp9KX7XUsvd",
-      externalLink: "https://open.spotify.com/track/0BFkaHSK8Irpp9KX7XUsvd",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Be My Baby",
   trackType: "studio",
   explicit: false,

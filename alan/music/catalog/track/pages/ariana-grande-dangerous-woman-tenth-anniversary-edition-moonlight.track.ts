@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionMoonlight = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6S8lgW6nwrK75tddTLH7mX",
-      externalLink: "https://open.spotify.com/track/6S8lgW6nwrK75tddTLH7mX",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Moonlight",
   trackType: "studio",
   explicit: false,

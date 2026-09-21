@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourWillYouLoveMeTomorrowLiveAtTheTrouba
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Q97xsSBdgO3a35uQ2n9UD",
-      externalLink: "https://open.spotify.com/track/4Q97xsSBdgO3a35uQ2n9UD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Will You Love Me Tomorrow - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

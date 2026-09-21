@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoFirstSnowSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5cUzxCRdZFpVxirheShJxP",
-      externalLink: "https://open.spotify.com/track/5cUzxCRdZFpVxirheShJxP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "First Snow - Solo Piano Version",
   trackType: "version",
   explicit: false,

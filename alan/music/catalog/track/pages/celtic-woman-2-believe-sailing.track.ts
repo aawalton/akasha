@@ -9,14 +9,6 @@ export const celticWoman2BelieveSailing = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0TDJpZ46CA64iDJSxYKJZX",
-      externalLink: "https://open.spotify.com/track/0TDJpZ46CA64iDJSxYKJZX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sailing",
   trackType: "studio",
   explicit: false,

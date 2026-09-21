@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasAuldLangSyne = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0kxQeYiUnr68WfKoFccZsL",
-      externalLink: "https://open.spotify.com/track/0kxQeYiUnr68WfKoFccZsL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Auld Lang Syne",
   trackType: "studio",
   explicit: false,

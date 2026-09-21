@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandWildMountainThyme = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5F6wbEdCUtA35r93xRUhiZ",
-      externalLink: "https://open.spotify.com/track/5F6wbEdCUtA35r93xRUhiZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wild Mountain Thyme",
   trackType: "studio",
   explicit: false,

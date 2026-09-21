@@ -12,14 +12,6 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5kOoS00ZvYZ9Mvpe1dZEor",
-      externalLink: "https://open.spotify.com/track/5kOoS00ZvYZ9Mvpe1dZEor",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Soulless Creatures",
   trackType: "studio",
   explicit: false,

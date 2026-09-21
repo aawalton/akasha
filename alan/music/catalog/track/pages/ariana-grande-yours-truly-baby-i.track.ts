@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyBabyI = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6EIsMa5lbvljYxqCkjZVDi",
-      externalLink: "https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Baby I",
   trackType: "studio",
   explicit: false,

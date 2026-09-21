@@ -9,14 +9,6 @@ export const celticWoman2DestinySiuilARun = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1nGCEXgw8OGnXLNlNBHJj3",
-      externalLink: "https://open.spotify.com/track/1nGCEXgw8OGnXLNlNBHJj3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Siúil a Rún",
   trackType: "studio",
   explicit: false,

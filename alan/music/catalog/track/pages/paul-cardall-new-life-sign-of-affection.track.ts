@@ -9,14 +9,6 @@ export const paulCardallNewLifeSignOfAffection = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6j4D1izL5KfENZ8cPoq396",
-      externalLink: "https://open.spotify.com/track/6j4D1izL5KfENZ8cPoq396",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sign of Affection",
   trackType: "studio",
   explicit: false,

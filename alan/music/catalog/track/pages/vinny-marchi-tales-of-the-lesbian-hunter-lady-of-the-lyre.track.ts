@@ -9,14 +9,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterLadyOfTheLyre = {
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7yKYTBUeWuKaV2INlfzKgu",
-      externalLink: "https://open.spotify.com/track/7yKYTBUeWuKaV2INlfzKgu",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lady of the Lyre",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoMyStrangeAddiction = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Tc57t9l2O8FwQZtQOvPXK",
-      externalLink: "https://open.spotify.com/track/3Tc57t9l2O8FwQZtQOvPXK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "my strange addiction",
   trackType: "studio",
   explicit: false,

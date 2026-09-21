@@ -16,14 +16,6 @@ export const thePianoGuys3EyeOfTheTigerEyeOfTheTiger = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5k4ajHSHBw42NgLV05C1rg",
-      externalLink: "https://open.spotify.com/track/5k4ajHSHBw42NgLV05C1rg",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Eye of the Tiger",
   trackType: "studio",
   explicit: false,

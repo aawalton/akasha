@@ -9,14 +9,6 @@ export const paulCardallScarboroughFairStateOfMind = {
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Gvm4u2PkIjUgjcVohPLGM",
-      externalLink: "https://open.spotify.com/track/5Gvm4u2PkIjUgjcVohPLGM",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "State of Mind",
   trackType: "studio",
   explicit: false,

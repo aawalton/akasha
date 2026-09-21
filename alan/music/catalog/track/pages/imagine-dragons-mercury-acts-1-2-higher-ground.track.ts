@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12HigherGround = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "66N0XT7yr2VuFxrMc8piUy",
-      externalLink: "https://open.spotify.com/track/66N0XT7yr2VuFxrMc8piUy",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Higher Ground",
   trackType: "studio",
   explicit: false,

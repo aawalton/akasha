@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sByeByeBye = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DdkU39g2myZPnRPz86H65",
-      externalLink: "https://open.spotify.com/track/5DdkU39g2myZPnRPz86H65",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bye Bye Bye",
   trackType: "studio",
   explicit: false,

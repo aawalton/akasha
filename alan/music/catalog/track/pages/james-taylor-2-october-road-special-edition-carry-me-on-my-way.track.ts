@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionCarryMeOnMyWay = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0n4TOY0V4lZA6lgqQ8Q6X3",
-      externalLink: "https://open.spotify.com/track/0n4TOY0V4lZA6lgqQ8Q6X3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carry Me On My Way",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadPolitik = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0u35Dpz37TY2M2j20RUdMf",
-      externalLink: "https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Politik",
   trackType: "studio",
   explicit: false,

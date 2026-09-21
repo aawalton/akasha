@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeBedChem = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0NtuiQlHqh0iVYUIMLEHi4",
-      externalLink: "https://open.spotify.com/track/0NtuiQlHqh0iVYUIMLEHi4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bed Chem",
   trackType: "studio",
   explicit: false,

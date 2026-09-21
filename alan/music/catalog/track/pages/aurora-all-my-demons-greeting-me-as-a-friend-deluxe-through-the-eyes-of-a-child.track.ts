@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeThroughTheEyesOfAChild = 
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "68MIw6ec5E2SKRDGDDCh8q",
-      externalLink: "https://open.spotify.com/track/68MIw6ec5E2SKRDGDDCh8q",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Through the Eyes of a Child",
   trackType: "studio",
   explicit: false,

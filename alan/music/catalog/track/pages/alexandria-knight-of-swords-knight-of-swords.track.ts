@@ -9,14 +9,6 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
   partOfCollections: ["release/alexandria-knight-of-swords"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zb9HntzQrJZzljjGSLCM2",
-      externalLink: "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Knight of Swords",
   trackType: "studio",
   explicit: false,

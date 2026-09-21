@@ -9,14 +9,6 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkItLetMeMoveYouFro
   partOfCollections: ["release/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0roOLcll6SSTYZwsQFmXqP",
-      externalLink: "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: 'Let Me Move You - From the Netflix film "Work It"',
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0CtVKn43bnXL7IGnwSihds",
-      externalLink: "https://open.spotify.com/track/0CtVKn43bnXL7IGnwSihds",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "imperfect for you - acoustic",
   trackType: "acoustic",
   explicit: true,

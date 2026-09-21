@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftChihiro = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7BRD7x5pt8Lqa1eGYC4dzj",
-      externalLink: "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "CHIHIRO",
   trackType: "studio",
   explicit: false,

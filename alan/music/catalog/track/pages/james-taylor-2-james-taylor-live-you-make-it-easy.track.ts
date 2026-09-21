@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveYouMakeItEasy = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "09Wl0w02eHc6ssOKS3vk3g",
-      externalLink: "https://open.spotify.com/track/09Wl0w02eHc6ssOKS3vk3g",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Make It Easy",
   trackType: "studio",
   explicit: false,

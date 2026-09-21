@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasSomeChildrenSeeHim = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zS3kmX48QjBtz8El0kNqk",
-      externalLink: "https://open.spotify.com/track/4zS3kmX48QjBtz8El0kNqk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Some Children See Him",
   trackType: "studio",
   explicit: false,

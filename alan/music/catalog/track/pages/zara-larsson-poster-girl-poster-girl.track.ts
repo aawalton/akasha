@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlPosterGirl = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1MGqtRnKlHNO4fuHMm2Dm9",
-      externalLink: "https://open.spotify.com/track/1MGqtRnKlHNO4fuHMm2Dm9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Poster Girl",
   trackType: "studio",
   explicit: false,

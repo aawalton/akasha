@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFollowOn =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Xi4S7ZvEMbzq2jSUAoqbf",
-      externalLink: "https://open.spotify.com/track/1Xi4S7ZvEMbzq2jSUAoqbf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Follow On",
   trackType: "studio",
   explicit: false,

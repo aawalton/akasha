@@ -9,14 +9,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveSaviRemix = {
   partOfCollections: ["release/sabrina-carpenter-first-love-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1TMmQ5JK4EewfiIAISLpzl",
-      externalLink: "https://open.spotify.com/track/1TMmQ5JK4EewfiIAISLpzl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "First Love - SAVI Remix",
   trackType: "remix",
   explicit: false,

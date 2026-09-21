@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeRealLife = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7JAzAyjbJFPznEFdqpa1Si",
-      externalLink: "https://open.spotify.com/track/7JAzAyjbJFPznEFdqpa1Si",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Real Life",
   trackType: "studio",
   explicit: false,

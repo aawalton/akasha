@@ -9,14 +9,6 @@ export const jamesTaylor2FlagRainyDayMan = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6N65FzCD0K0SbCWx73D5o0",
-      externalLink: "https://open.spotify.com/track/6N65FzCD0K0SbCWx73D5o0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Rainy Day Man",
   trackType: "studio",
   explicit: false,

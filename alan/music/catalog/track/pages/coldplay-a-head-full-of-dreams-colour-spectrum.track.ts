@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsColourSpectrum = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3VqiD8Yvk6bKwqS1e64PHB",
-      externalLink: "https://open.spotify.com/track/3VqiD8Yvk6bKwqS1e64PHB",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Colour Spectrum",
   trackType: "studio",
   explicit: false,

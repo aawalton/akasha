@@ -9,14 +9,6 @@ export const sabrinaCarpenterThumbsAcousticThumbsAcoustic = {
   partOfCollections: ["release/sabrina-carpenter-thumbs-acoustic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1soAeZZbjaECAC5IH0CNiL",
-      externalLink: "https://open.spotify.com/track/1soAeZZbjaECAC5IH0CNiL",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Thumbs - Acoustic",
   trackType: "acoustic",
   explicit: false,

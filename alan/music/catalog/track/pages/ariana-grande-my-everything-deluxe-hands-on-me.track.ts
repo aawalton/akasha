@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeHandsOnMe = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rNop31kdDmSj3Ds6xhIeS",
-      externalLink: "https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Hands On Me",
   trackType: "studio",
   explicit: false,

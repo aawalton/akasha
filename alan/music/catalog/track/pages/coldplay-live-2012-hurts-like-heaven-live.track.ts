@@ -9,14 +9,6 @@ export const coldplayLive2012HurtsLikeHeavenLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1mw50a4DGRhkdMX7nOoLE4",
-      externalLink: "https://open.spotify.com/track/1mw50a4DGRhkdMX7nOoLE4",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Hurts Like Heaven - Live",
   trackType: "live",
   explicit: true,

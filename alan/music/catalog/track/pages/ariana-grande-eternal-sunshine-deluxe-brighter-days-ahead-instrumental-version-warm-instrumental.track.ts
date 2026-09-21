@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "0xfxN2Ro7vFwIn8n8R3TeN",
-        externalLink: "https://open.spotify.com/track/0xfxN2Ro7vFwIn8n8R3TeN",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "warm - instrumental",
     trackType: "instrumental",
     explicit: false,

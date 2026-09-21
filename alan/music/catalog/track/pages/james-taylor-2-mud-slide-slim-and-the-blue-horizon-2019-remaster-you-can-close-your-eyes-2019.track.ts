@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterYouCanCloseYou
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2cNELi1hzt3eWwYHYkJKub",
-      externalLink: "https://open.spotify.com/track/2cNELi1hzt3eWwYHYkJKub",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Can Close Your Eyes - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterFeatherSpedUpFeatherSpedUp = {
   partOfCollections: ["release/sabrina-carpenter-feather-sped-up"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2WkrEyLzATbOK8U3xt8Ggq",
-      externalLink: "https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Feather - Sped Up",
   trackType: "version",
   explicit: true,

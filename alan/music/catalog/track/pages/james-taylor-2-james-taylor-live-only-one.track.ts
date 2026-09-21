@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveOnlyOne = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hmp9bxoJUKT9hFJNCikRN",
-      externalLink: "https://open.spotify.com/track/0hmp9bxoJUKT9hFJNCikRN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only One",
   trackType: "studio",
   explicit: false,

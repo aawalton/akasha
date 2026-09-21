@@ -12,14 +12,6 @@ export const coldplayProspektSMarchProspektsMarchPoppyfields = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6KgFgKiVLWk75G86H5bcea",
-      externalLink: "https://open.spotify.com/track/6KgFgKiVLWk75G86H5bcea",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Prospekt's March / Poppyfields",
   trackType: "studio",
   explicit: false,

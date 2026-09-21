@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionThumbs = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6WC5fhc9XMaCrUNKNjm9xE",
-      externalLink: "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Thumbs",
   trackType: "studio",
   explicit: false,

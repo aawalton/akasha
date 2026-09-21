@@ -9,14 +9,6 @@ export const paulCardallAncestorsAlmostHome = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3SixQfC0NUXp1gcnHHw9qu",
-      externalLink: "https://open.spotify.com/track/3SixQfC0NUXp1gcnHHw9qu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Almost Home",
   trackType: "studio",
   explicit: false,

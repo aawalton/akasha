@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryDavesFarewell = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hwEMONZ1amBmatRfVQxkj",
-      externalLink: "https://open.spotify.com/track/0hwEMONZ1amBmatRfVQxkj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dave's Farewell",
   trackType: "studio",
   explicit: false,

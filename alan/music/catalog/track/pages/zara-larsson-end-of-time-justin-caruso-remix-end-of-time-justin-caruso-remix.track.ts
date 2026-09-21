@@ -12,14 +12,6 @@ export const zaraLarssonEndOfTimeJustinCarusoRemixEndOfTimeJustinCarusoRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1H0VkrtSnxCJKbqUhvwxds",
-      externalLink: "https://open.spotify.com/track/1H0VkrtSnxCJKbqUhvwxds",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time - Justin Caruso Remix",
   trackType: "remix",
   explicit: true,

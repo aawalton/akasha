@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryCommentary = {
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "78dJ6gU0WQuxmvsYaUnIQ5",
-      externalLink: "https://open.spotify.com/track/78dJ6gU0WQuxmvsYaUnIQ5",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Commentary",
   trackType: "studio",
   explicit: false,

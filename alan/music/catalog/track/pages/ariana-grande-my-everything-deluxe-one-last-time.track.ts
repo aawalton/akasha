@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeOneLastTime = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7xoUc6faLbCqZO6fQEYprd",
-      externalLink: "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "One Last Time",
   trackType: "studio",
   explicit: false,

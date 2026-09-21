@@ -9,14 +9,6 @@ export const imagineDragonsEvolveStartOver = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Iug43iQrHN8CbGsUd2tEt",
-      externalLink: "https://open.spotify.com/track/2Iug43iQrHN8CbGsUd2tEt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Start Over",
   trackType: "studio",
   explicit: false,

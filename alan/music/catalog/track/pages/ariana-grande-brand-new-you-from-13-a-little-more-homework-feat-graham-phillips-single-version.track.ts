@@ -9,14 +9,6 @@ export const arianaGrandeBrandNewYouFrom13ALittleMoreHomeworkFeatGrahamPhillipsS
   partOfCollections: ["release/ariana-grande-brand-new-you-from-13"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RNKIGhRllNHGjroVDPXat",
-      externalLink: "https://open.spotify.com/track/5RNKIGhRllNHGjroVDPXat",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "A Little More Homework (feat. Graham Phillips) - Single Version",
   trackType: "version",
   explicit: false,

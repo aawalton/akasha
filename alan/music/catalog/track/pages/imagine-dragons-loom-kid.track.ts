@@ -9,14 +9,6 @@ export const imagineDragonsLoomKid = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4PPK3VK5iDF7Vqmey65li2",
-      externalLink: "https://open.spotify.com/track/4PPK3VK5iDF7Vqmey65li2",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Kid",
   trackType: "studio",
   explicit: false,

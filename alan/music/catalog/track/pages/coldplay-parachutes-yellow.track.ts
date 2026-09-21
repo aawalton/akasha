@@ -9,14 +9,6 @@ export const coldplayParachutesYellow = {
   partOfCollections: ["release/coldplay-parachutes", "release/coldplay-yellow"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3AJwUDP919kvQ9QcozQPxg",
-      externalLink: "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Yellow",
   trackType: "studio",
   explicit: false,

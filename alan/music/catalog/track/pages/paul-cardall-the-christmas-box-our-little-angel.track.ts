@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxOurLittleAngel = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3yuWnTfxvtGWKnauBaS9Hg",
-      externalLink: "https://open.spotify.com/track/3yuWnTfxvtGWKnauBaS9Hg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Little Angel",
   trackType: "studio",
   explicit: false,

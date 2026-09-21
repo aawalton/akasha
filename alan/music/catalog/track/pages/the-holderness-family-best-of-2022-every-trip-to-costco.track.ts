@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "02y1w6xPZ3ZZw2ALka1svz",
-      externalLink: "https://open.spotify.com/track/02y1w6xPZ3ZZw2ALka1svz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Every Trip To Costco",
   trackType: "studio",
   explicit: false,

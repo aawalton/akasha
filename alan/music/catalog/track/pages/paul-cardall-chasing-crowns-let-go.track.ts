@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsLetGo = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2VeffqUMeC7VlyTyP34zjd",
-      externalLink: "https://open.spotify.com/track/2VeffqUMeC7VlyTyP34zjd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Let Go",
   trackType: "studio",
   explicit: false,

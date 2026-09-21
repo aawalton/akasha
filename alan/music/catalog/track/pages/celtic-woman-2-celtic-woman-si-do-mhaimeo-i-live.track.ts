@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanSiDoMhaimeoILive = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7BsL26icVm1H53xLAw5tvC",
-      externalLink: "https://open.spotify.com/track/7BsL26icVm1H53xLAw5tvC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Si Do Mhaimeo I - Live",
   trackType: "live",
   explicit: false,

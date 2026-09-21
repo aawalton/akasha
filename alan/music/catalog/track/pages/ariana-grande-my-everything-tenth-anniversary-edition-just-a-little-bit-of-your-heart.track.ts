@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionJustALittleBitOfYour
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Navul75J8qZT3o2ocljkG",
-      externalLink: "https://open.spotify.com/track/1Navul75J8qZT3o2ocljkG",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Just A Little Bit Of Your Heart",
   trackType: "studio",
   explicit: false,

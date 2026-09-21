@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxTheStoneAngel = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0wUgIxjnKW5crPpHGlAnms",
-      externalLink: "https://open.spotify.com/track/0wUgIxjnKW5crPpHGlAnms",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Stone Angel",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLivePeaceOfMyHeartLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2HZsCIOuBwgirqyKlirNJq",
-      externalLink: "https://open.spotify.com/track/2HZsCIOuBwgirqyKlirNJq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Peace of My Heart - Live",
   trackType: "live",
   explicit: false,

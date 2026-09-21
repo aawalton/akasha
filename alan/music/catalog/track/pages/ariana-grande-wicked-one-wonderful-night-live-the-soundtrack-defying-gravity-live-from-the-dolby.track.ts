@@ -10,14 +10,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDefyingGravityL
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aevzuJq0SwENM2dwPT5Wg",
-      externalLink: "https://open.spotify.com/track/1aevzuJq0SwENM2dwPT5Wg",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Defying Gravity - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,

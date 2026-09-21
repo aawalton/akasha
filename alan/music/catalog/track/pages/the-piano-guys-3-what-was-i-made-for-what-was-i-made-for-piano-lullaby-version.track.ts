@@ -15,14 +15,6 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeForPianoLullabyVersion = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6xoZ6ox8X2Ole7j89OH9Gw",
-      externalLink: "https://open.spotify.com/track/6xoZ6ox8X2Ole7j89OH9Gw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Was I Made For? (Piano Lullaby Version)",
   trackType: "version",
   explicit: false,

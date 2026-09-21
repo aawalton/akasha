@@ -9,14 +9,6 @@ export const zaraLarssonWowImanbekRemixWowImanbekRemix = {
   partOfCollections: ["release/zara-larsson-wow-imanbek-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "07dzaQfXNcQPVm149RGlMg",
-      externalLink: "https://open.spotify.com/track/07dzaQfXNcQPVm149RGlMg",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "WOW - Imanbek Remix",
   trackType: "remix",
   explicit: true,

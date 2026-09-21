@@ -9,14 +9,6 @@ export const imagineDragonsHellAndSilenceEpEasy = {
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2mzBhcSeh7TrsPIobLFDmP",
-      externalLink: "https://open.spotify.com/track/2mzBhcSeh7TrsPIobLFDmP",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Easy",
   trackType: "studio",
   explicit: false,

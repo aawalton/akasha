@@ -9,14 +9,6 @@ export const zaraLarssonWowWow = {
   partOfCollections: ["release/zara-larsson-wow"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3O8b0dDy1Z8BNM81U8DE1j",
-      externalLink: "https://open.spotify.com/track/3O8b0dDy1Z8BNM81U8DE1j",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "WOW",
   trackType: "studio",
   explicit: true,

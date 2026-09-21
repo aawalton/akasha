@@ -9,14 +9,6 @@ export const paulCardallAncestorsFathersBlessing = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ox8o0CzqcrrPtyvegnJ5w",
-      externalLink: "https://open.spotify.com/track/0ox8o0CzqcrrPtyvegnJ5w",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Father's Blessing",
   trackType: "studio",
   explicit: false,

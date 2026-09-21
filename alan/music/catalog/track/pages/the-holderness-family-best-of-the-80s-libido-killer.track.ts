@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sLibidoKiller = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2AD27VdzUAxqpWzDerkkKm",
-      externalLink: "https://open.spotify.com/track/2AD27VdzUAxqpWzDerkkKm",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Libido Killer",
   trackType: "studio",
   explicit: false,

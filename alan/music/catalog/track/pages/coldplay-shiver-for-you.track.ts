@@ -9,14 +9,6 @@ export const coldplayShiverForYou = {
   partOfCollections: ["release/coldplay-shiver"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6hQ1OH4kWqkjxpZQt0rNwr",
-      externalLink: "https://open.spotify.com/track/6hQ1OH4kWqkjxpZQt0rNwr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "For You",
   trackType: "studio",
   explicit: false,

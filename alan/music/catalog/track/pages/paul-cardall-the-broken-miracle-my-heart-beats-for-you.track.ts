@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6lBlcWYG8i6yMjaP8E7UAh",
-      externalLink: "https://open.spotify.com/track/6lBlcWYG8i6yMjaP8E7UAh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Heart Beats for You",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
   partOfCollections: ["release/aurora-to-be-alright-the-sanctuary-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4K09m6T7nrlYMTuXWxqCCu",
-      externalLink: "https://open.spotify.com/track/4K09m6T7nrlYMTuXWxqCCu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "To Be Alright - The Sanctuary Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchATemporaryHigh = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "02SgwZdog41hbpKX9aHA0c",
-      externalLink: "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Temporary High",
   trackType: "studio",
   explicit: false,

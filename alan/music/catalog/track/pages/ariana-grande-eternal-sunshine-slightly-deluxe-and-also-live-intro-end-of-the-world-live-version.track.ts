@@ -9,14 +9,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveIntroEndOfTheWo
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1AVcvrXkUdtukUYN4307oC",
-      externalLink: "https://open.spotify.com/track/1AVcvrXkUdtukUYN4307oC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "intro (end of the world) - live version",
   trackType: "live",
   explicit: true,

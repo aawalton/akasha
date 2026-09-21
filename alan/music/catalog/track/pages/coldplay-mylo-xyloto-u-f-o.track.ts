@@ -9,14 +9,6 @@ export const coldplayMyloXylotoUFO = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6BbIybrP84Tp99DLJg1cq3",
-      externalLink: "https://open.spotify.com/track/6BbIybrP84Tp99DLJg1cq3",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "U.F.O.",
   trackType: "studio",
   explicit: false,

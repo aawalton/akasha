@@ -9,14 +9,6 @@ export const paulCardallChristmasOHolyNight = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "50YWeUtsdF8sc5sijyZ6Gi",
-      externalLink: "https://open.spotify.com/track/50YWeUtsdF8sc5sijyZ6Gi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "O Holy Night",
   trackType: "studio",
   explicit: false,

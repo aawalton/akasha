@@ -9,14 +9,6 @@ export const coldplayMidnightRemixesMidnightGiorgioMoroderRemix = {
   partOfCollections: ["release/coldplay-midnight-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "31swZjlmMrWskTjlkkSVX1",
-      externalLink: "https://open.spotify.com/track/31swZjlmMrWskTjlkkSVX1",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Midnight - Giorgio Moroder Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
   partOfCollections: ["release/aurora-paramour-feat-aurora"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1erjalqVwLQT2t1ZWcas9P",
-      externalLink: "https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "PARAMOUR (feat. AURORA)",
   trackType: "studio",
   explicit: false,

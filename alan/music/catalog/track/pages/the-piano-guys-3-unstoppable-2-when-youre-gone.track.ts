@@ -13,14 +13,6 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2NSJIwZfkJOg1eYBX414sw",
-      externalLink: "https://open.spotify.com/track/2NSJIwZfkJOg1eYBX414sw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "When You're Gone",
   trackType: "studio",
   explicit: false,

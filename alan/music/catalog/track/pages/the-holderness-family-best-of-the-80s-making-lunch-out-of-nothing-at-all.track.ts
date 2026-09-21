@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sMakingLunchOutOfNothingAtAll = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3gqNWYzOxhrYw3JlYSfsp6",
-      externalLink: "https://open.spotify.com/track/3gqNWYzOxhrYw3JlYSfsp6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Making Lunch Out of Nothing at All",
   trackType: "studio",
   explicit: false,

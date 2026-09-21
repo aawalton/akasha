@@ -9,14 +9,6 @@ export const coldplayEverydayLifeOrphans = {
   partOfCollections: ["release/coldplay-everyday-life", "release/coldplay-orphans-arabesque"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "03T4ttRCiLXST6MZjeMwmR",
-      externalLink: "https://open.spotify.com/track/03T4ttRCiLXST6MZjeMwmR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Orphans",
   trackType: "studio",
   explicit: false,

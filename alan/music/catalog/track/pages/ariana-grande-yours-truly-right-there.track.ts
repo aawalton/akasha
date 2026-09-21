@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyRightThere = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3yiopxxeHuwcpAg4e57Zjt",
-      externalLink: "https://open.spotify.com/track/3yiopxxeHuwcpAg4e57Zjt",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Right There",
   trackType: "studio",
   explicit: false,

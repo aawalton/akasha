@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkSugarTrade = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1uzu2Ll2NoqPOPzXMxlqJ5",
-      externalLink: "https://open.spotify.com/track/1uzu2Ll2NoqPOPzXMxlqJ5",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sugar Trade",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasOHolyNight = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6W463ll5YkRw9QWoWff0Px",
-      externalLink: "https://open.spotify.com/track/6W463ll5YkRw9QWoWff0Px",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O Holy Night",
   trackType: "studio",
   explicit: false,

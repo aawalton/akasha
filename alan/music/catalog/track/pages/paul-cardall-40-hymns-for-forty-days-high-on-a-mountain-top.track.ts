@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysHighOnAMountainTop = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RSS3otDin3ddyzM9kzqjV",
-      externalLink: "https://open.spotify.com/track/1RSS3otDin3ddyzM9kzqjV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "High On a Mountain Top",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const thePianoGuys310FurEliseJam = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "243OYD9RRSZbBFEcDLrQv4",
-      externalLink: "https://open.spotify.com/track/243OYD9RRSZbBFEcDLrQv4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Für Elise Jam",
   trackType: "studio",
   explicit: false,

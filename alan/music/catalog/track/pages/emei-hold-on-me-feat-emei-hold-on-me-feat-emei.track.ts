@@ -9,14 +9,6 @@ export const emeiHoldOnMeFeatEmeiHoldOnMeFeatEmei = {
   partOfCollections: ["release/emei-hold-on-me-feat-emei"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5asMstLe5UTmy01PCdM43c",
-      externalLink: "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hold On Me (feat. Emei)",
   trackType: "studio",
   explicit: false,

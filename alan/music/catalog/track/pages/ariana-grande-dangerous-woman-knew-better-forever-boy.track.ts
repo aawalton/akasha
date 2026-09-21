@@ -12,14 +12,6 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ywoy5kdf2LsG2019ClGjm",
-      externalLink: "https://open.spotify.com/track/1ywoy5kdf2LsG2019ClGjm",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Knew Better / Forever Boy",
   trackType: "studio",
   explicit: false,

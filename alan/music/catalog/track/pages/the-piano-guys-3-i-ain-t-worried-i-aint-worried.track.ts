@@ -14,14 +14,6 @@ export const thePianoGuys3IAinTWorriedIAintWorried = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3IpSp0YzCKs5nGGZgrtQJV",
-      externalLink: "https://open.spotify.com/track/3IpSp0YzCKs5nGGZgrtQJV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Ain't Worried",
   trackType: "studio",
   explicit: false,

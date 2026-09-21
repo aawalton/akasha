@@ -12,14 +12,6 @@ export const celticWoman2NollaigAChristmasJourneyNollaigNaMban = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0K80LLk2ilqtNl6MAbmzR7",
-      externalLink: "https://open.spotify.com/track/0K80LLk2ilqtNl6MAbmzR7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Nollaig na mBan",
   trackType: "studio",
   explicit: false,

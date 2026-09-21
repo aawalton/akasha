@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationTheLittleDrummerBoy = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Hzd1CvlV8srxrVu4bdsxy",
-      externalLink: "https://open.spotify.com/track/2Hzd1CvlV8srxrVu4bdsxy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Little Drummer Boy",
   trackType: "studio",
   explicit: false,

@@ -10,14 +10,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSpanishLadyLiveFro
     partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "3cYf2KMiQBCSPiGUgwP8dW",
-        externalLink: "https://open.spotify.com/track/3cYf2KMiQBCSPiGUgwP8dW",
-        lastSyncedAt: "2026-09-16",
-      },
-    ],
     title: "Spanish Lady - Live From Slane Castle, Ireland/2006",
     trackType: "live",
     explicit: false,

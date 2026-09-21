@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWhatAreYouDoingHere
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4d2x2u38K6nGbdOSxIMU8L",
-      externalLink: "https://open.spotify.com/track/4d2x2u38K6nGbdOSxIMU8L",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "What Are You Doing Here?",
   trackType: "studio",
   explicit: false,

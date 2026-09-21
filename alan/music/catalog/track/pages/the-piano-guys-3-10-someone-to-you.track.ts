@@ -9,14 +9,6 @@ export const thePianoGuys310SomeoneToYou = {
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4myZBpamPz9I9kAsLjIMOD",
-      externalLink: "https://open.spotify.com/track/4myZBpamPz9I9kAsLjIMOD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Someone To You",
   trackType: "studio",
   explicit: false,

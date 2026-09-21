@@ -12,14 +12,6 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1r9xUipOqoNwggBpENDsvJ",
-      externalLink: "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Enemy (with JID) - from the series Arcane League of Legends",
   trackType: "studio",
   explicit: false,

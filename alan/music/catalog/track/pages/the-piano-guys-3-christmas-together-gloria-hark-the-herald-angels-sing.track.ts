@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherGloriaHarkTheHeraldAngelsSing = {
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1nsQQvRuYSDQHmVDfXPqjx",
-      externalLink: "https://open.spotify.com/track/1nsQQvRuYSDQHmVDfXPqjx",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Gloria / Hark! The Herald Angels Sing",
   trackType: "studio",
   explicit: false,

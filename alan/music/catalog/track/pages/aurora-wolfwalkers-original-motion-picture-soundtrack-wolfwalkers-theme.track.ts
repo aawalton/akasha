@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWolfwalkersTheme = 
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0av4xzgq5bTDpaojiH1pDq",
-      externalLink: "https://open.spotify.com/track/0av4xzgq5bTDpaojiH1pDq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "WolfWalkers Theme",
   trackType: "studio",
   explicit: false,

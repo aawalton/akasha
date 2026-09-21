@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsSheMovedThroughTheFair = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2QQJA1R9qLYbUGmMlh2LdB",
-      externalLink: "https://open.spotify.com/track/2QQJA1R9qLYbUGmMlh2LdB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "She Moved Through The Fair",
   trackType: "studio",
   explicit: false,

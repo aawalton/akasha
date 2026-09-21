@@ -9,14 +9,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLoveTwilight
   partOfCollections: ["release/sabrina-carpenter-bring-your-love-honey-dijon-remixes"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3kB60qmfOPMXgEG5NCVXgS",
-      externalLink: "https://open.spotify.com/track/3kB60qmfOPMXgEG5NCVXgS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bring Your Love - Twilight Mix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayShiverCarefulWhereYouStand = {
   partOfCollections: ["release/coldplay-shiver"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6V3U7whxAMRzOLTli2zt26",
-      externalLink: "https://open.spotify.com/track/6V3U7whxAMRzOLTli2zt26",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Careful Where You Stand",
   trackType: "studio",
   explicit: false,

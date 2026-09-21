@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2InHumilityOurSavior = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2dDJwFFQPCDuq2ewNTuVGp",
-      externalLink: "https://open.spotify.com/track/2dDJwFFQPCDuq2ewNTuVGp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In Humility, Our Savior",
   trackType: "studio",
   explicit: false,

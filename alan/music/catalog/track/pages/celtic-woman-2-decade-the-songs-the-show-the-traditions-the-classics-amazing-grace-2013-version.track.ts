@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAmazingGra
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2UiX54lWfiuAhRe3lElARZ",
-      externalLink: "https://open.spotify.com/track/2UiX54lWfiuAhRe3lElARZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amazing Grace - 2013 Version",
   trackType: "version",
   explicit: false,

@@ -12,14 +12,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaRadioEdit = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XJ2PVp2Vs9G2j5B2Cbbnb",
-      externalLink: "https://open.spotify.com/track/6XJ2PVp2Vs9G2j5B2Cbbnb",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Princess of China - Radio Edit",
   trackType: "version",
   explicit: false,

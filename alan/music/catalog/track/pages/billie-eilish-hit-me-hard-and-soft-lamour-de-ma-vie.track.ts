@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftLamourDeMaVie = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6fPan2saHdFaIHuTSatORv",
-      externalLink: "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "L’AMOUR DE MA VIE",
   trackType: "studio",
   explicit: false,

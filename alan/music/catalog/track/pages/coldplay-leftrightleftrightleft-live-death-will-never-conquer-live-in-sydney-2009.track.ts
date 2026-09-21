@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveDeathWillNeverConquerLiveInSydney
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "34jtZbCoyKjyuG1MmfgXzX",
-      externalLink: "https://open.spotify.com/track/34jtZbCoyKjyuG1MmfgXzX",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Death Will Never Conquer - Live in Sydney, 2009",
   trackType: "live",
   explicit: false,

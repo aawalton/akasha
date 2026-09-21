@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneAllByMyself = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1zU5doSrryv6IDoQn61AiK",
-      externalLink: "https://open.spotify.com/track/1zU5doSrryv6IDoQn61AiK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All by Myself",
   trackType: "studio",
   explicit: false,

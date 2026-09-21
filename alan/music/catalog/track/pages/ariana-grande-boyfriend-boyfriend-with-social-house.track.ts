@@ -9,14 +9,6 @@ export const arianaGrandeBoyfriendBoyfriendWithSocialHouse = {
   partOfCollections: ["release/ariana-grande-boyfriend"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Ryd8975WihbObpp5cPW1t",
-      externalLink: "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "boyfriend (with Social House)",
   trackType: "studio",
   explicit: true,

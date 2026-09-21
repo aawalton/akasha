@@ -9,14 +9,6 @@ export const emeiBetterPeopleToLeaveOnReadBetterPeopleToLeaveOnRead = {
   partOfCollections: ["release/emei-better-people-to-leave-on-read"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7szJfhzlrGh2hkNwEPDWpn",
-      externalLink: "https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Better People To Leave On Read",
   trackType: "studio",
   explicit: false,

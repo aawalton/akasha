@@ -9,14 +9,6 @@ export const jamesTaylor2WalkingMan2019RemasterFadingAway2019Remaster = {
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3BQBC5Cj3uWPZhqTwMIMuG",
-      externalLink: "https://open.spotify.com/track/3BQBC5Cj3uWPZhqTwMIMuG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fading Away - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

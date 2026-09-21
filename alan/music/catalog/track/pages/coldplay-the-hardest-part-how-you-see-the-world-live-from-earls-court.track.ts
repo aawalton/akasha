@@ -9,14 +9,6 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
   partOfCollections: ["release/coldplay-the-hardest-part"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hCYORw7uzYRXdrZ88vN2t",
-      externalLink: "https://open.spotify.com/track/0hCYORw7uzYRXdrZ88vN2t",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "How You See the World - Live from Earls Court",
   trackType: "live",
   explicit: false,

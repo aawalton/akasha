@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoDecemberSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3lOjTGVT3v9W4GtcDJFBRm",
-      externalLink: "https://open.spotify.com/track/3lOjTGVT3v9W4GtcDJFBRm",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "December - Solo Piano Version",
   trackType: "version",
   explicit: false,

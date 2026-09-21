@@ -12,14 +12,6 @@ export const coldplayProspektSMarchGlassOfWater = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WxY1PPhJBSfyWSPMgZWuQ",
-      externalLink: "https://open.spotify.com/track/0WxY1PPhJBSfyWSPMgZWuQ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Glass of Water",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayParachutesHighSpeed = {
   partOfCollections: ["release/coldplay-parachutes", "release/coldplay-the-blue-room"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2DHgvPQD1jApRnT1DBZdrS",
-      externalLink: "https://open.spotify.com/track/2DHgvPQD1jApRnT1DBZdrS",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "High Speed",
   trackType: "studio",
   explicit: false,

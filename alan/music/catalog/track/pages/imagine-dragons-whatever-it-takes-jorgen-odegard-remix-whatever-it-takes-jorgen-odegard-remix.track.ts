@@ -9,14 +9,6 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemixWhateverItTakesJorge
   partOfCollections: ["release/imagine-dragons-whatever-it-takes-jorgen-odegard-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6EOPpeRq5Qd1VBHd6GO2y5",
-      externalLink: "https://open.spotify.com/track/6EOPpeRq5Qd1VBHd6GO2y5",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Whatever It Takes - Jorgen Odegard Remix",
   trackType: "remix",
   explicit: false,

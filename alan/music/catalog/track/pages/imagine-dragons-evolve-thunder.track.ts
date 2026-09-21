@@ -9,14 +9,6 @@ export const imagineDragonsEvolveThunder = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1zB4vmk8tFRmM9UULNzbLB",
-      externalLink: "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thunder",
   trackType: "studio",
   explicit: false,

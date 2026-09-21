@@ -9,14 +9,6 @@ export const thePianoGuysSerenityRollingInTheDeep = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2glhwMIx8o8zeyIq7cveFl",
-      externalLink: "https://open.spotify.com/track/2glhwMIx8o8zeyIq7cveFl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rolling in the Deep",
   trackType: "studio",
   explicit: false,

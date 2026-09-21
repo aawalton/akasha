@@ -9,14 +9,6 @@ export const zaraLarssonAllTheTimeAllTheTime = {
   partOfCollections: ["release/zara-larsson-all-the-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3OTSBoYKO7HzGVj8Bu2OH9",
-      externalLink: "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "All the Time",
   trackType: "studio",
   explicit: false,

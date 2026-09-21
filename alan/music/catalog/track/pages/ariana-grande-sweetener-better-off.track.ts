@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerBetterOff = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3NbTQ8ZbHU6MSEVUFAVCJ9",
-      externalLink: "https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "better off",
   trackType: "studio",
   explicit: true,

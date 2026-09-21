@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsNothingLeftToSayRocks = {
   partOfCollections: ["release/imagine-dragons-night-visions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7cBhzkTWSpHBGAiCZzSika",
-      externalLink: "https://open.spotify.com/track/7cBhzkTWSpHBGAiCZzSika",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Nothing Left To Say / Rocks",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasWinterWind = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6vp9J0CECnsA3PRxasHhEM",
-      externalLink: "https://open.spotify.com/track/6vp9J0CECnsA3PRxasHhEM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Winter Wind",
   trackType: "studio",
   explicit: false,

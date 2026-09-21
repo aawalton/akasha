@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysThereIsAGreenHillFarAway = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6fXrUEIvubp9wKFPvfHvtb",
-      externalLink: "https://open.spotify.com/track/6fXrUEIvubp9wKFPvfHvtb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "There Is a Green Hill Far Away",
   trackType: "studio",
   explicit: false,

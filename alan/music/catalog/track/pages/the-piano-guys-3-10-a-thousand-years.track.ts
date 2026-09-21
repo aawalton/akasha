@@ -13,14 +13,6 @@ export const thePianoGuys310AThousandYears = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1n3X12SV936VFhCzASRJQj",
-      externalLink: "https://open.spotify.com/track/1n3X12SV936VFhCzASRJQj",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Thousand Years",
   trackType: "studio",
   explicit: false,

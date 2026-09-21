@@ -9,14 +9,6 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
   partOfCollections: ["release/zara-larsson-don-t-let-me-be-yours-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cIK52LNUYrLb6TOD4Ouq0",
-      externalLink: "https://open.spotify.com/track/3cIK52LNUYrLb6TOD4Ouq0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Let Me Be Yours - AObeats Remix",
   trackType: "remix",
   explicit: false,

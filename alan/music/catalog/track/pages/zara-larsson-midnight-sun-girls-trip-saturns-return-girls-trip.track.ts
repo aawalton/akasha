@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSunGirlsTripSaturnsReturnGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2EtLS9cURSUHQE2XIXLE2m",
-      externalLink: "https://open.spotify.com/track/2EtLS9cURSUHQE2XIXLE2m",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Saturn's Return - Girls Trip",
   trackType: "studio",
   explicit: false,

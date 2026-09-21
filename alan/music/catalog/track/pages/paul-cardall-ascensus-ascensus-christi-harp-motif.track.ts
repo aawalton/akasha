@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiHarpMotif = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1VqeXzj6mMs5GWB2B3XHOe",
-      externalLink: "https://open.spotify.com/track/1VqeXzj6mMs5GWB2B3XHOe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: Harp Motif",
   trackType: "studio",
   explicit: false,

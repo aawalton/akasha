@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkIWillFollow = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rI0BuLl8r5mYBYHA0XAMW",
-      externalLink: "https://open.spotify.com/track/1rI0BuLl8r5mYBYHA0XAMW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Will Follow",
   trackType: "studio",
   explicit: false,

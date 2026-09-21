@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeLoveMeHarder = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5J4ZkQpzMUFojo1CtAZYpn",
-      externalLink: "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Love Me Harder",
   trackType: "studio",
   explicit: false,

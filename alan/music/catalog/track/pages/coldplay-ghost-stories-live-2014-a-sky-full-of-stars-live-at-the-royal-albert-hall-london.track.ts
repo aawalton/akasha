@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014ASkyFullOfStarsLiveAtTheRoyalAlbertHall
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2WXTF0qgKbczC2O8VymeLO",
-      externalLink: "https://open.spotify.com/track/2WXTF0qgKbczC2O8VymeLO",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Sky Full of Stars - Live at the Royal Albert Hall, London",
   trackType: "live",
   explicit: false,

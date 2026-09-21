@@ -9,14 +9,6 @@ export const celticWoman2AncientLandDeluxeTheEnchantedWay = {
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uLJhPSzjH3MkUhFLZS9SR",
-      externalLink: "https://open.spotify.com/track/6uLJhPSzjH3MkUhFLZS9SR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Enchanted Way",
   trackType: "studio",
   explicit: false,

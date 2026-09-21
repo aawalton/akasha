@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetTheRelease = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NsEOZqSomT2wcJjoJfJ8V",
-      externalLink: "https://open.spotify.com/track/6NsEOZqSomT2wcJjoJfJ8V",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Release",
   trackType: "studio",
   explicit: false,

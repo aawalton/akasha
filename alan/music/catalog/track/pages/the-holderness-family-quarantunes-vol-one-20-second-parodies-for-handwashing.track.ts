@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOne20SecondParodiesForHandwashing 
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2AfnD4tR4Cz78Ijo0AgjHL",
-      externalLink: "https://open.spotify.com/track/2AfnD4tR4Cz78Ijo0AgjHL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "20-Second Parodies for Handwashing",
   trackType: "studio",
   explicit: false,

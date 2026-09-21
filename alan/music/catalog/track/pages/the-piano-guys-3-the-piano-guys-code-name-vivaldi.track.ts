@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysCodeNameVivaldi = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5WKDDrq02f0mH3G1ZYmozK",
-      externalLink: "https://open.spotify.com/track/5WKDDrq02f0mH3G1ZYmozK",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Code Name Vivaldi",
   trackType: "studio",
   explicit: false,

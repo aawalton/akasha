@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsDulaman2016Version = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yVDEPArlfi9jjRUysHrel",
-      externalLink: "https://open.spotify.com/track/0yVDEPArlfi9jjRUysHrel",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Dúlaman - 2016 Version",
   trackType: "version",
   explicit: false,

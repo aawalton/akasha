@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsDeluxeBattleCry = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3KgIZWuC7JJOgkcGeAWbZg",
-      externalLink: "https://open.spotify.com/track/3KgIZWuC7JJOgkcGeAWbZg",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Battle Cry",
   trackType: "studio",
   explicit: false,

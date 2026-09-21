@@ -9,14 +9,6 @@ export const paulCardallFaithfulSacredNatureIi = {
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0IfYPxpBGDvJz4BHSNyr5Y",
-      externalLink: "https://open.spotify.com/track/0IfYPxpBGDvJz4BHSNyr5Y",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sacred Nature II",
   trackType: "studio",
   explicit: false,

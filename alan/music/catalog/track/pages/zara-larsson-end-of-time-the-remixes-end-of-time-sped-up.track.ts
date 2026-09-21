@@ -9,14 +9,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeSpedUp = {
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jzqedw0moUdTZWlXdMxkl",
-      externalLink: "https://open.spotify.com/track/7jzqedw0moUdTZWlXdMxkl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time - Sped Up",
   trackType: "version",
   explicit: true,

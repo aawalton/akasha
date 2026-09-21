@@ -9,14 +9,6 @@ export const auroraToBeLovedRequiem = {
   partOfCollections: ["release/aurora-to-be-loved"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4JT0A22SYMNP1ceiVrCxIc",
-      externalLink: "https://open.spotify.com/track/4JT0A22SYMNP1ceiVrCxIc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Requiem",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveOurLoveLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0i1WmQha95hsNXOMNJULmR",
-      externalLink: "https://open.spotify.com/track/0i1WmQha95hsNXOMNJULmR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Love - Live",
   trackType: "live",
   explicit: false,

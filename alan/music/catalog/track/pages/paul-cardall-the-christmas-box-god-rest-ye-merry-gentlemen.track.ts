@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5MnwEK433rqNFJ8gh1x90V",
-      externalLink: "https://open.spotify.com/track/5MnwEK433rqNFJ8gh1x90V",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Rest Ye Merry Gentlemen",
   trackType: "studio",
   explicit: false,

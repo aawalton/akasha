@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsFlow = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2HryorqIVWiNZQvEDXBIXh",
-      externalLink: "https://open.spotify.com/track/2HryorqIVWiNZQvEDXBIXh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Flow",
   trackType: "studio",
   explicit: false,

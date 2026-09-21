@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverNotMyResponsibility = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4T2zre0jqstNJ5Gt0WG9lz",
-      externalLink: "https://open.spotify.com/track/4T2zre0jqstNJ5Gt0WG9lz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Not My Responsibility",
   trackType: "studio",
   explicit: false,

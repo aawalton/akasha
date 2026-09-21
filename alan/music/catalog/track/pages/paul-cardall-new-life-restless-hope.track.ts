@@ -9,14 +9,6 @@ export const paulCardallNewLifeRestlessHope = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0k9om25NDDRTCrxqzUTdVo",
-      externalLink: "https://open.spotify.com/track/0k9om25NDDRTCrxqzUTdVo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Restless Hope",
   trackType: "studio",
   explicit: false,

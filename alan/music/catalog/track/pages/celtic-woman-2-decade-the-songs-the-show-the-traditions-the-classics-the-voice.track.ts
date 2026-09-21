@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheVoice =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4kil9IsuxWbVwhW3eCxz0p",
-      externalLink: "https://open.spotify.com/track/4kil9IsuxWbVwhW3eCxz0p",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Voice",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsIBetMyLifeDemo =
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "111pXmDAMLeUBENG8oZlZh",
-      externalLink: "https://open.spotify.com/track/111pXmDAMLeUBENG8oZlZh",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life - Demo",
   trackType: "demo",
   explicit: false,

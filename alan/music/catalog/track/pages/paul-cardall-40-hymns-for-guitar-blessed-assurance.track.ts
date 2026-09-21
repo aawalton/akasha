@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarBlessedAssurance = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RkrMX6BFoEDtHSy6Iw38j",
-      externalLink: "https://open.spotify.com/track/1RkrMX6BFoEDtHSy6Iw38j",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Blessed Assurance",
   trackType: "studio",
   explicit: false,

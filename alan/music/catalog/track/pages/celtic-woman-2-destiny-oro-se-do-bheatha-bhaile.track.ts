@@ -9,14 +9,6 @@ export const celticWoman2DestinyOroSeDoBheathaBhaile = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "38Q5JKMcmMZ0VTeklj1R6t",
-      externalLink: "https://open.spotify.com/track/38Q5JKMcmMZ0VTeklj1R6t",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Óró sé do bheatha 'bhaile",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const emeiScatterbrain2Picky = {
   partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qTHWIDjnghhPe294079cZ",
-      externalLink: "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Picky",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const coldplayLive2012FixYouLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6L0uCWhXyBNncoDgfEvK1R",
-      externalLink: "https://open.spotify.com/track/6L0uCWhXyBNncoDgfEvK1R",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Fix You - Live",
   trackType: "live",
   explicit: false,

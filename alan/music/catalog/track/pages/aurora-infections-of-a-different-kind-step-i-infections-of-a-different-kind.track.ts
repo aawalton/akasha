@@ -12,14 +12,6 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4qG51V8PWSpARAjrUCYzM6",
-      externalLink: "https://open.spotify.com/track/4qG51V8PWSpARAjrUCYzM6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Infections Of A Different Kind",
   trackType: "studio",
   explicit: false,

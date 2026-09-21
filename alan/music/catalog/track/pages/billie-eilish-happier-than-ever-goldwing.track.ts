@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverGoldwing = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0FfqyjhB6Kspvit1oOo7ax",
-      externalLink: "https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "GOLDWING",
   trackType: "studio",
   explicit: false,

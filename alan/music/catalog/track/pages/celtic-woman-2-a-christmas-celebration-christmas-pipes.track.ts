@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationChristmasPipes = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1guQjoDBcAwH53BW8cdRYF",
-      externalLink: "https://open.spotify.com/track/1guQjoDBcAwH53BW8cdRYF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Christmas Pipes",
   trackType: "studio",
   explicit: false,

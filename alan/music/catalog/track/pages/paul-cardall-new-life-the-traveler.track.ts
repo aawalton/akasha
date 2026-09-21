@@ -9,14 +9,6 @@ export const paulCardallNewLifeTheTraveler = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1oMBWc9ad1NGtGufOkB5X2",
-      externalLink: "https://open.spotify.com/track/1oMBWc9ad1NGtGufOkB5X2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Traveler",
   trackType: "studio",
   explicit: false,

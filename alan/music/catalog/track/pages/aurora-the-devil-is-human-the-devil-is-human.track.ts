@@ -9,14 +9,6 @@ export const auroraTheDevilIsHumanTheDevilIsHuman = {
   partOfCollections: ["release/aurora-the-devil-is-human"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nLEh1IAezKeXKCGfYULmX",
-      externalLink: "https://open.spotify.com/track/2nLEh1IAezKeXKCGfYULmX",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Devil is Human",
   trackType: "studio",
   explicit: false,

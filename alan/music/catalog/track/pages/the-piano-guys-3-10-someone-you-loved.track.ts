@@ -9,14 +9,6 @@ export const thePianoGuys310SomeoneYouLoved = {
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2sindV5MPoBIkAW02OFtHF",
-      externalLink: "https://open.spotify.com/track/2sindV5MPoBIkAW02OFtHF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Someone You Loved",
   trackType: "studio",
   explicit: false,

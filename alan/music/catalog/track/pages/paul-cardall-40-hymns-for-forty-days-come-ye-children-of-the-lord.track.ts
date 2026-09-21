@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysComeYeChildrenOfTheLord = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ZBUHifxU9DrG3AUqA8uee",
-      externalLink: "https://open.spotify.com/track/5ZBUHifxU9DrG3AUqA8uee",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come, Ye Children of the Lord",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBetterLeftUnsaid = {
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7v289GXTGa7BuLL6l1Y5ZA",
-      externalLink: "https://open.spotify.com/track/7v289GXTGa7BuLL6l1Y5ZA",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Better Left Unsaid",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraADifferentKindOfHumanStepIiAnimal = {
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0YL8f5tV78ZyflRWwEisXt",
-      externalLink: "https://open.spotify.com/track/0YL8f5tV78ZyflRWwEisXt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Animal",
   trackType: "studio",
   explicit: false,

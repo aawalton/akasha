@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDay = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2OXU1jam2Xc4BLDgsABQc4",
-      externalLink: "https://open.spotify.com/track/2OXU1jam2Xc4BLDgsABQc4",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "One Short Day",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsStandstill = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2J8FOZPCFBt7mFllJZqHAw",
-      externalLink: "https://open.spotify.com/track/2J8FOZPCFBt7mFllJZqHAw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Standstill",
   trackType: "studio",
   explicit: false,

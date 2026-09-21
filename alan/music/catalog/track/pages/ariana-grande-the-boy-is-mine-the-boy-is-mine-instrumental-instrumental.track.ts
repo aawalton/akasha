@@ -9,14 +9,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineInstrumentalInstrumental = {
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3oVsE0KufIJPNDvHkTyoFE",
-      externalLink: "https://open.spotify.com/track/3oVsE0KufIJPNDvHkTyoFE",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "the boy is mine – instrumental - instrumental",
   trackType: "instrumental",
   explicit: false,

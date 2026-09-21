@@ -9,14 +9,6 @@ export const coldplayEveryTeardropIsAWaterfall2MovingToMars = {
   partOfCollections: ["release/coldplay-every-teardrop-is-a-waterfall-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0kuv7BqWNDprDao3Tb5flN",
-      externalLink: "https://open.spotify.com/track/0kuv7BqWNDprDao3Tb5flN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Moving to Mars",
   trackType: "studio",
   explicit: false,

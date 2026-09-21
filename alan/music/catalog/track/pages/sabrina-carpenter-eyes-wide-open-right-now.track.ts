@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenRightNow = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3hqJdqziOPbu422kXaOyII",
-      externalLink: "https://open.spotify.com/track/3hqJdqziOPbu422kXaOyII",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Right Now",
   trackType: "studio",
   explicit: false,

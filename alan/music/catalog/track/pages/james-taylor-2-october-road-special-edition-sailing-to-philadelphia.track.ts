@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3SSdgcic8a3hVaPytpQsiJ",
-      externalLink: "https://open.spotify.com/track/3SSdgcic8a3hVaPytpQsiJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sailing To Philadelphia",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereTheManWhoShotLibertyValance = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7q9NdaKCxuYyTLdhlSfRQV",
-      externalLink: "https://open.spotify.com/track/7q9NdaKCxuYyTLdhlSfRQV",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Man Who Shot Liberty Valance",
   trackType: "studio",
   explicit: false,

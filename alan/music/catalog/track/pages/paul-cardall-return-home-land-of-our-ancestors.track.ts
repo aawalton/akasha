@@ -9,14 +9,6 @@ export const paulCardallReturnHomeLandOfOurAncestors = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1hd4bCb8YIGuCNQk66c9mZ",
-      externalLink: "https://open.spotify.com/track/1hd4bCb8YIGuCNQk66c9mZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Land of Our Ancestors",
   trackType: "studio",
   explicit: false,

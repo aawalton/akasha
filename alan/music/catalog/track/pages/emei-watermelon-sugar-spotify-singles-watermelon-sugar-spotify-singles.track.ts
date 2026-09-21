@@ -9,14 +9,6 @@ export const emeiWatermelonSugarSpotifySinglesWatermelonSugarSpotifySingles = {
   partOfCollections: ["release/emei-watermelon-sugar-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0kIsnEg0TzJTsb6wTVHSeG",
-      externalLink: "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Watermelon Sugar - Spotify Singles",
   trackType: "studio",
   explicit: false,

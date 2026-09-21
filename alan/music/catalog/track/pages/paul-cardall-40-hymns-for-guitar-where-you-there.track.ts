@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarWhereYouThere = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Xxxi8di7yYjgiG07lyIsk",
-      externalLink: "https://open.spotify.com/track/3Xxxi8di7yYjgiG07lyIsk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where You There",
   trackType: "studio",
   explicit: false,

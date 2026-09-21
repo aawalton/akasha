@@ -9,14 +9,6 @@ export const vinnyMarchiPoserRemasteredComeOnComeOnRemastered = {
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Kxn9BGaO7bHLlnBWJiuvu",
-      externalLink: "https://open.spotify.com/track/3Kxn9BGaO7bHLlnBWJiuvu",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Come On! Come On! - remastered",
   trackType: "remaster",
   explicit: false,

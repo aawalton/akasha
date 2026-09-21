@@ -9,14 +9,6 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
   partOfCollections: ["release/sabrina-carpenter-on-my-way-da-tweekaz-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Sp0jLZN8MgPnoGDufJS7N",
-      externalLink: "https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "On My Way - Da Tweekaz Remix",
   trackType: "remix",
   explicit: false,

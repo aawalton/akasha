@@ -9,14 +9,6 @@ export const paulCardallNewLifePassingTime = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4GnoTuKVMJqKg44XY9G6gp",
-      externalLink: "https://open.spotify.com/track/4GnoTuKVMJqKg44XY9G6gp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Passing Time",
   trackType: "studio",
   explicit: false,

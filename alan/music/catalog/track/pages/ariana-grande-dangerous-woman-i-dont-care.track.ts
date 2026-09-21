@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanIDontCare = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7xagQoIf776ukUlgH4TyyB",
-      externalLink: "https://open.spotify.com/track/7xagQoIf776ukUlgH4TyyB",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "I Don't Care",
   trackType: "studio",
   explicit: true,

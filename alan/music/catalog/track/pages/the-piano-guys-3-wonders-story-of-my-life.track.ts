@@ -9,14 +9,6 @@ export const thePianoGuys3WondersStoryOfMyLife = {
   partOfCollections: ["release/the-piano-guys-3-wonders", "release/the-piano-guys-serenity"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "71I9xjigtEcEYcbZgtvG1J",
-      externalLink: "https://open.spotify.com/track/71I9xjigtEcEYcbZgtvG1J",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Story of My Life",
   trackType: "studio",
   explicit: false,

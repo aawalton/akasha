@@ -9,14 +9,6 @@ export const paulCardallChristmasItCameUponAMidnightClear = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xFa1EIjMAr3GtKVwICs5z",
-      externalLink: "https://open.spotify.com/track/1xFa1EIjMAr3GtKVwICs5z",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "It Came Upon a Midnight Clear",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeTaste = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0lTDxglypMd8e8Q5hnmDnI",
-      externalLink: "https://open.spotify.com/track/0lTDxglypMd8e8Q5hnmDnI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Taste",
   trackType: "studio",
   explicit: false,

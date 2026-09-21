@@ -12,14 +12,6 @@ export const arianaGrandeBangBangBangBang = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7I1IALTGkjzWa3fAmB3NAh",
-      externalLink: "https://open.spotify.com/track/7I1IALTGkjzWa3fAmB3NAh",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsAOkDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0W48IJ8GkGKh6QNBL6Z7jx",
-      externalLink: "https://open.spotify.com/track/0W48IJ8GkGKh6QNBL6Z7jx",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "A-OK - Demo",
   trackType: "demo",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePetalNowhereNobody = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5JbnupagBhD0AanbkCELdH",
-      externalLink: "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "nowhere, nobody",
   trackType: "studio",
   explicit: false,

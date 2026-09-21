@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsDeluxeTheFall = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Nwanvqzx02WpDxtYHS0lT",
-      externalLink: "https://open.spotify.com/track/4Nwanvqzx02WpDxtYHS0lT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The Fall",
   trackType: "studio",
   explicit: false,

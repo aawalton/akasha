@@ -9,14 +9,6 @@ export const sabrinaCarpenterFirstLoveFirstLove = {
   partOfCollections: ["release/sabrina-carpenter-first-love"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "01iyINEYgPQ7ThMZuHUsqS",
-      externalLink: "https://open.spotify.com/track/01iyINEYgPQ7ThMZuHUsqS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "First Love",
   trackType: "studio",
   explicit: false,

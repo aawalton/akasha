@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessDna = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4YlcFwGTFW7HLJHTTdDn3R",
-      externalLink: "https://open.spotify.com/track/4YlcFwGTFW7HLJHTTdDn3R",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "DNA",
   trackType: "studio",
   explicit: false,

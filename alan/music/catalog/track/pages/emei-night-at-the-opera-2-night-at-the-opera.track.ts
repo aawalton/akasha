@@ -13,14 +13,6 @@ export const emeiNightAtTheOpera2NightAtTheOpera = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ikhbKiw9pKYkWitSR7M7u",
-      externalLink: "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Night at the Opera",
   trackType: "studio",
   explicit: false,

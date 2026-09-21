@@ -12,14 +12,6 @@ export const arianaGrandeDangerousWomanSometimes = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7IqSduDsieo2epoqA97NxC",
-      externalLink: "https://open.spotify.com/track/7IqSduDsieo2epoqA97NxC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Sometimes",
   trackType: "studio",
   explicit: false,

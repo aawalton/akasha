@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1VIkPMOnWl3Xmc1aSpjbWN",
-      externalLink: "https://open.spotify.com/track/1VIkPMOnWl3Xmc1aSpjbWN",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "intro (end of the world) - instrumental",
   trackType: "instrumental",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayASkyFullOfStars2OReprise = {
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1NleqQdTDGWJBk0bVxldab",
-      externalLink: "https://open.spotify.com/track/1NleqQdTDGWJBk0bVxldab",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "O - Reprise",
   trackType: "studio",
   explicit: false,

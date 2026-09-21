@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassLineEmUp = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5PbfvaBgQHwUI2NEilk9RN",
-      externalLink: "https://open.spotify.com/track/5PbfvaBgQHwUI2NEilk9RN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Line 'Em Up",
   trackType: "studio",
   explicit: false,

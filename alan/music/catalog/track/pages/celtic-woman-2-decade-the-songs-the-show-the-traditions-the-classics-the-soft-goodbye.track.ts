@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSoftGoo
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4x6JeeYwP5rmcMzzhetOw7",
-      externalLink: "https://open.spotify.com/track/4x6JeeYwP5rmcMzzhetOw7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Soft Goodbye",
   trackType: "studio",
   explicit: false,

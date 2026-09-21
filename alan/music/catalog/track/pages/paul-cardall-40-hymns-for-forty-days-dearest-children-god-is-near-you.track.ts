@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysDearestChildrenGodIsNearYou = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5BFZraiPWiVWvoKOPgwR8O",
-      externalLink: "https://open.spotify.com/track/5BFZraiPWiVWvoKOPgwR8O",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dearest Children, God Is Near You",
   trackType: "studio",
   explicit: false,

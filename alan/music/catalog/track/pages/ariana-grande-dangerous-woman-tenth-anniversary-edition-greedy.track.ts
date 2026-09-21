@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionGreedy = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tH0eZNUkdI3OiSfzXxgCr",
-      externalLink: "https://open.spotify.com/track/7tH0eZNUkdI3OiSfzXxgCr",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Greedy",
   trackType: "studio",
   explicit: false,

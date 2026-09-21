@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0rKlNsNmGGKGXo6tDgkHEn",
-      externalLink: "https://open.spotify.com/track/0rKlNsNmGGKGXo6tDgkHEn",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It Comes Back To You",
   trackType: "studio",
   explicit: false,

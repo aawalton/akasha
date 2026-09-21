@@ -9,14 +9,6 @@ export const jamesTaylor2FlagBrotherTrucker = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3usf2U2VlBuUtBDPzTS2Ok",
-      externalLink: "https://open.spotify.com/track/3usf2U2VlBuUtBDPzTS2Ok",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Brother Trucker",
   trackType: "studio",
   explicit: false,

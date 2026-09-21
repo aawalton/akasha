@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeInvisibleWounds = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5jWwelz2n1A6hGmqRz537G",
-      externalLink: "https://open.spotify.com/track/5jWwelz2n1A6hGmqRz537G",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Invisible Wounds",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const zaraLarssonHotSexyGirlsTripHotSexyGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "56XRMsd36CU26THxIrVRJG",
-      externalLink: "https://open.spotify.com/track/56XRMsd36CU26THxIrVRJG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hot & Sexy - Girls Trip",
   trackType: "studio",
   explicit: false,

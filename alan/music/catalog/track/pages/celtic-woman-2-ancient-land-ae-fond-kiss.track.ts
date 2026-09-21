@@ -12,14 +12,6 @@ export const celticWoman2AncientLandAeFondKiss = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5HUyQwyqXk5qDO7PyB2lWS",
-      externalLink: "https://open.spotify.com/track/5HUyQwyqXk5qDO7PyB2lWS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ae Fond Kiss",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeMainThing = {
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63WsFFnQ8CL941iZBELYsX",
-      externalLink: "https://open.spotify.com/track/63WsFFnQ8CL941iZBELYsX",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "main thing",
   trackType: "studio",
   explicit: false,

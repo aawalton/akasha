@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerGetWellSoon = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7u6DMPznGbpziuEgCE0JGQ",
-      externalLink: "https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "get well soon",
   trackType: "studio",
   explicit: true,

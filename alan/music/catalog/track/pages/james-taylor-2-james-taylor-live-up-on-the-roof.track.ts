@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveUpOnTheRoof = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2R1M1otgehlvcvPtrgqBuq",
-      externalLink: "https://open.spotify.com/track/2R1M1otgehlvcvPtrgqBuq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Up On The Roof",
   trackType: "studio",
   explicit: false,

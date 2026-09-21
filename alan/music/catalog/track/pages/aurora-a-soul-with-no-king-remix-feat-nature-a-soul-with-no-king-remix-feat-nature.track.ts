@@ -9,14 +9,6 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
   partOfCollections: ["release/aurora-a-soul-with-no-king-remix-feat-nature"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "60CiRIp2jsubVeNcDrHujn",
-      externalLink: "https://open.spotify.com/track/60CiRIp2jsubVeNcDrHujn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Soul With No King - Remix (feat. NATURE)",
   trackType: "remix",
   explicit: false,

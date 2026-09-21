@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMachineGunKell
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0XMEFaM6o1Kzkm4ps2LnQU",
-      externalLink: "https://open.spotify.com/track/0XMEFaM6o1Kzkm4ps2LnQU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Machine Gun Kelly - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

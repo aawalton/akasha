@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022AWholeNewWordle = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2WCUquj2Jm4RPOwrq2euTi",
-      externalLink: "https://open.spotify.com/track/2WCUquj2Jm4RPOwrq2euTi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Whole New Wordle",
   trackType: "studio",
   explicit: false,

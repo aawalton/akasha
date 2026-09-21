@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsMyHeartWillGoOn = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3K9VhfnAyqfEQKC5y6yDVP",
-      externalLink: "https://open.spotify.com/track/3K9VhfnAyqfEQKC5y6yDVP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Heart Will Go On",
   trackType: "studio",
   explicit: false,

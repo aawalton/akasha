@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "7G0oYXBPOEZUSOAHctUM2U",
-        externalLink: "https://open.spotify.com/track/7G0oYXBPOEZUSOAHctUM2U",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "imperfect for you - instrumental",
     trackType: "instrumental",
     explicit: false,

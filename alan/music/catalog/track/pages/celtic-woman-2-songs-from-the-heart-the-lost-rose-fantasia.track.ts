@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartTheLostRoseFantasia = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hrNQCqqsMoco2NCD2l6wQ",
-      externalLink: "https://open.spotify.com/track/0hrNQCqqsMoco2NCD2l6wQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Lost Rose Fantasia",
   trackType: "studio",
   explicit: false,

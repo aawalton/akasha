@@ -9,14 +9,6 @@ export const celticWoman2DestinyBeanPhaidin = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Fge3caJzss3mKMVtbehur",
-      externalLink: "https://open.spotify.com/track/4Fge3caJzss3mKMVtbehur",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bean Pháidín",
   trackType: "studio",
   explicit: false,

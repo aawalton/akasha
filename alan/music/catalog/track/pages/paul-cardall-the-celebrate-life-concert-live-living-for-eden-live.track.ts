@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveLivingForEdenLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3c5zhV2Qw5waIuPzzgYEdg",
-      externalLink: "https://open.spotify.com/track/3c5zhV2Qw5waIuPzzgYEdg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Living for Eden - Live",
   trackType: "live",
   explicit: false,

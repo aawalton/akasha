@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBeyondTheS
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "41m0atnB0zTTwo7lnxEZzx",
-      externalLink: "https://open.spotify.com/track/41m0atnB0zTTwo7lnxEZzx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Beyond the Sea",
   trackType: "studio",
   explicit: false,

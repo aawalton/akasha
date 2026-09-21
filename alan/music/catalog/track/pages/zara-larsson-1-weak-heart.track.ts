@@ -9,14 +9,6 @@ export const zaraLarsson1WeakHeart = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4gmO89eAVOQeudq2EVhqyq",
-      externalLink: "https://open.spotify.com/track/4gmO89eAVOQeudq2EVhqyq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Weak Heart",
   trackType: "studio",
   explicit: false,

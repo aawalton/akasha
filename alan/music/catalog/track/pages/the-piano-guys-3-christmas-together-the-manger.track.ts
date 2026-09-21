@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherTheManger = {
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Azhx9AoHz79HY7YbIt7ds",
-      externalLink: "https://open.spotify.com/track/5Azhx9AoHz79HY7YbIt7ds",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Manger",
   trackType: "studio",
   explicit: false,

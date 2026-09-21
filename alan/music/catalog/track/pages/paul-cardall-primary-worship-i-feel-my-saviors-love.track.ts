@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipIFeelMySaviorsLove = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1EjgJM4lXv2hP4cgkgBRHo",
-      externalLink: "https://open.spotify.com/track/1EjgJM4lXv2hP4cgkgBRHo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Feel my Saviors Love",
   trackType: "studio",
   explicit: false,

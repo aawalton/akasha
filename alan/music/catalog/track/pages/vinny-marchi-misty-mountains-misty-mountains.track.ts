@@ -9,14 +9,6 @@ export const vinnyMarchiMistyMountainsMistyMountains = {
   partOfCollections: ["release/vinny-marchi-misty-mountains"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6VWrUuAb8Bp51fBinsoziz",
-      externalLink: "https://open.spotify.com/track/6VWrUuAb8Bp51fBinsoziz",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Misty Mountains",
   trackType: "studio",
   explicit: false,

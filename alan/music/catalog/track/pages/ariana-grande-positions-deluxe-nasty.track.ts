@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeNasty = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wcl0YJBQ0ygTUUaXLRM1g",
-      externalLink: "https://open.spotify.com/track/7wcl0YJBQ0ygTUUaXLRM1g",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "nasty",
   trackType: "studio",
   explicit: true,

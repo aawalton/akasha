@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandTheKeshInnLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Iohp4BGpNoL2aebCuSLii",
-      externalLink: "https://open.spotify.com/track/6Iohp4BGpNoL2aebCuSLii",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Kesh Inn - Live 2017",
   trackType: "live",
   explicit: false,

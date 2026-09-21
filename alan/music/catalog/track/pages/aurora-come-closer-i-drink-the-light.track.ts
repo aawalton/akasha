@@ -9,14 +9,6 @@ export const auroraComeCloserIDrinkTheLight = {
   partOfCollections: ["release/aurora-come-closer", "release/aurora-i-drink-the-light"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YsBC7h8KSnWjQdddkfrnz",
-      externalLink: "https://open.spotify.com/track/1YsBC7h8KSnWjQdddkfrnz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I DRINK THE LIGHT",
   trackType: "studio",
   explicit: false,

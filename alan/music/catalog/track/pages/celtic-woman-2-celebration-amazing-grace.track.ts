@@ -9,14 +9,6 @@ export const celticWoman2CelebrationAmazingGrace = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wfewEg6wiNeYUcBPT4b0w",
-      externalLink: "https://open.spotify.com/track/7wfewEg6wiNeYUcBPT4b0w",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,

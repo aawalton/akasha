@@ -9,14 +9,6 @@ export const zaraLarssonLikeItIsLikeItIs = {
   partOfCollections: ["release/zara-larsson-like-it-is"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3frUvGrmGcay91lvFbOgsN",
-      externalLink: "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Like It Is",
   trackType: "studio",
   explicit: false,

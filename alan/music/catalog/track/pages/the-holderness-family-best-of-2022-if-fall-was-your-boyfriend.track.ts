@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022IfFallWasYourBoyfriend = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6cksuKFUrPpuA80xEI9xj8",
-      externalLink: "https://open.spotify.com/track/6cksuKFUrPpuA80xEI9xj8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "If Fall Was Your Boyfriend",
   trackType: "studio",
   explicit: false,

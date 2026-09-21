@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingTheMemoryLivesOn = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1lHlwZUnL3qHpL7Z82HDUz",
-      externalLink: "https://open.spotify.com/track/1lHlwZUnL3qHpL7Z82HDUz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Memory Lives On",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2DestinySometimesAPrayerWillDo = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1C3cHftfOvHgpPehwkzIq3",
-      externalLink: "https://open.spotify.com/track/1C3cHftfOvHgpPehwkzIq3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sometimes A Prayer Will Do",
   trackType: "studio",
   explicit: false,

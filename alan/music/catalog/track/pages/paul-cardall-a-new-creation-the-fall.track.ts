@@ -9,14 +9,6 @@ export const paulCardallANewCreationTheFall = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55aQ3WzLa2LEGbv8k3whgD",
-      externalLink: "https://open.spotify.com/track/55aQ3WzLa2LEGbv8k3whgD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Fall",
   trackType: "studio",
   explicit: false,

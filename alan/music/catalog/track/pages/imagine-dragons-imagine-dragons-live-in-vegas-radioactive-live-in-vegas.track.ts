@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasRadioactiveLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7hIi6jTs5P3lqT5v8fYe8H",
-      externalLink: "https://open.spotify.com/track/7hIi6jTs5P3lqT5v8fYe8H",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive - Live in Vegas",
   trackType: "live",
   explicit: false,

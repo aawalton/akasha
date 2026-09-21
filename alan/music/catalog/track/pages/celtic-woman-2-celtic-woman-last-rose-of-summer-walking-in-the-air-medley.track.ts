@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanLastRoseOfSummerWalkingInTheAirMedley = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ZbZHXr6AWjUsHCGUBG5bh",
-      externalLink: "https://open.spotify.com/track/6ZbZHXr6AWjUsHCGUBG5bh",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Last Rose Of Summer/Walking In The Air - Medley",
   trackType: "studio",
   explicit: false,

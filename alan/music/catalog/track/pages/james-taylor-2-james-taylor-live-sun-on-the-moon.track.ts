@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveSunOnTheMoon = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "41KyetLigc1HXsW1SLS5jK",
-      externalLink: "https://open.spotify.com/track/41KyetLigc1HXsW1SLS5jK",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sun On The Moon",
   trackType: "studio",
   explicit: false,

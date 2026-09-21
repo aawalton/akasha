@@ -9,14 +9,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseAcoustic = {
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6g5I925i0ti3ajw2A6IXnQ",
-      externalLink: "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Please Please Please - Acoustic",
   trackType: "acoustic",
   explicit: true,

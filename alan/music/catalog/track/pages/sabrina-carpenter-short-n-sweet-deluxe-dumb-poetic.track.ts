@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeDumbPoetic = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1QBEAcc13ipZG7OvT2z2v1",
-      externalLink: "https://open.spotify.com/track/1QBEAcc13ipZG7OvT2z2v1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Dumb & Poetic",
   trackType: "studio",
   explicit: true,

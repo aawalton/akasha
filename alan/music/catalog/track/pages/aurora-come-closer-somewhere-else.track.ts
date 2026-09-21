@@ -9,14 +9,6 @@ export const auroraComeCloserSomewhereElse = {
   partOfCollections: ["release/aurora-come-closer", "release/aurora-somewhere-else"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ROFunSkVUlXqU0cMi6vYJ",
-      externalLink: "https://open.spotify.com/track/4ROFunSkVUlXqU0cMi6vYJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "SOMEWHERE ELSE",
   trackType: "studio",
   explicit: false,

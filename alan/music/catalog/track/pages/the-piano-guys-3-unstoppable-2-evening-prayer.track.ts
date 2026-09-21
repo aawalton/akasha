@@ -13,14 +13,6 @@ export const thePianoGuys3Unstoppable2EveningPrayer = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7dE0kh1DO3cZ6WxKorxm70",
-      externalLink: "https://open.spotify.com/track/7dE0kh1DO3cZ6WxKorxm70",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Evening Prayer",
   trackType: "studio",
   explicit: false,

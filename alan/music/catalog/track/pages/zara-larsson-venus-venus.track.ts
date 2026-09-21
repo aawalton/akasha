@@ -9,14 +9,6 @@ export const zaraLarssonVenusVenus = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RaVANIegur4WaZTscvVS4",
-      externalLink: "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Venus",
   trackType: "studio",
   explicit: false,

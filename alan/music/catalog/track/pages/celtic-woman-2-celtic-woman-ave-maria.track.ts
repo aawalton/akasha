@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanAveMaria = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4H6sxd2yQFmErBRl8cZIUi",
-      externalLink: "https://open.spotify.com/track/4H6sxd2yQFmErBRl8cZIUi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,

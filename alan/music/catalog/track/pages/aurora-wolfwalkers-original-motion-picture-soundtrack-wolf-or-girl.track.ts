@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWolfOrGirl = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46L6iMEgSTGHM4QaLA5yQB",
-      externalLink: "https://open.spotify.com/track/46L6iMEgSTGHM4QaLA5yQB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Wolf or Girl",
   trackType: "studio",
   explicit: false,

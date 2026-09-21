@@ -12,14 +12,6 @@ export const auroraTheFloodTheFlood = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4wwpOIY2XXfYW2A8bS6djJ",
-      externalLink: "https://open.spotify.com/track/4wwpOIY2XXfYW2A8bS6djJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Flood",
   trackType: "studio",
   explicit: false,

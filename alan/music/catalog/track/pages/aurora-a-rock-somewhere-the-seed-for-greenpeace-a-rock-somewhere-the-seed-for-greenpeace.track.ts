@@ -9,14 +9,6 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
   partOfCollections: ["release/aurora-a-rock-somewhere-the-seed-for-greenpeace"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0XL3TycRDynBXUfVm9feRH",
-      externalLink: "https://open.spotify.com/track/0XL3TycRDynBXUfVm9feRH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Rock Somewhere / The Seed - For Greenpeace",
   trackType: "studio",
   explicit: false,

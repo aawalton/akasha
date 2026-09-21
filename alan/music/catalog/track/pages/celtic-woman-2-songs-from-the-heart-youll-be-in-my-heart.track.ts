@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartYoullBeInMyHeart = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5jgHQfMXmSu4hx8bXxKW0n",
-      externalLink: "https://open.spotify.com/track/5jgHQfMXmSu4hx8bXxKW0n",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You'll Be In My Heart",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeCoincidence = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wJkgAZNkRMQz1FOMS5z6Y",
-      externalLink: "https://open.spotify.com/track/7wJkgAZNkRMQz1FOMS5z6Y",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Coincidence",
   trackType: "studio",
   explicit: false,

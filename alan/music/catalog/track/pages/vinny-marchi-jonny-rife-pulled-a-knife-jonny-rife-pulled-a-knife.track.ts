@@ -12,14 +12,6 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1s0sieFucHsh8RGshCbX9j",
-      externalLink: "https://open.spotify.com/track/1s0sieFucHsh8RGshCbX9j",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Jonny Rife Pulled a Knife",
   trackType: "studio",
   explicit: true,

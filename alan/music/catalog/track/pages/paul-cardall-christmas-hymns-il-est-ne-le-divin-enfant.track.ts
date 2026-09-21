@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsIlEstNeLeDivinEnfant = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3XxByAJL5u74UQt0lL8DLA",
-      externalLink: "https://open.spotify.com/track/3XxByAJL5u74UQt0lL8DLA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Il Est Ne, Le Divin Enfant",
   trackType: "studio",
   explicit: false,

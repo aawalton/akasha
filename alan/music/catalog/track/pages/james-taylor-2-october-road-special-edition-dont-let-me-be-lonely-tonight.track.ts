@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionDontLetMeBeLonelyTonight = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6K7JqasElx9wkiCjrh3YCl",
-      externalLink: "https://open.spotify.com/track/6K7JqasElx9wkiCjrh3YCl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Let Me Be Lonely Tonight",
   trackType: "studio",
   explicit: false,

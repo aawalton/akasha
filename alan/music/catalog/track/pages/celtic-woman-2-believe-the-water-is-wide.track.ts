@@ -9,14 +9,6 @@ export const celticWoman2BelieveTheWaterIsWide = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7GqjjfpDHXw1zwujFeT1HI",
-      externalLink: "https://open.spotify.com/track/7GqjjfpDHXw1zwujFeT1HI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Water Is Wide",
   trackType: "studio",
   explicit: false,

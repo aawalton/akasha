@@ -12,14 +12,6 @@ export const coldplayProspektSMarchLoversInJapanOsakaSunMix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5LclPF5hcVCm6hL7HQ9VaV",
-      externalLink: "https://open.spotify.com/track/5LclPF5hcVCm6hL7HQ9VaV",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Lovers in Japan - Osaka Sun Mix",
   trackType: "remix",
   explicit: false,

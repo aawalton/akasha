@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6s1coWypzu3MrKA6TiSOJR",
-      externalLink: "https://open.spotify.com/track/6s1coWypzu3MrKA6TiSOJR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "She Doesn't Want to Talk to You",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDayCommentary = {
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yF9QdRIImROyKlGT98C6e",
-      externalLink: "https://open.spotify.com/track/1yF9QdRIImROyKlGT98C6e",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "One Short Day - Commentary",
   trackType: "studio",
   explicit: false,

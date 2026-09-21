@@ -9,14 +9,6 @@ export const paulCardallAllISeeIsSnowAllISeeIsSnow = {
   partOfCollections: ["release/paul-cardall-all-i-see-is-snow"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hLYsEm1A4F6bwimy8Zb3n",
-      externalLink: "https://open.spotify.com/track/0hLYsEm1A4F6bwimy8Zb3n",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All I See Is Snow",
   trackType: "studio",
   explicit: false,

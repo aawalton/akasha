@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeBadReviews = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Y66A5zH3iPOWCDIuSDQR5",
-      externalLink: "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bad Reviews",
   trackType: "studio",
   explicit: false,

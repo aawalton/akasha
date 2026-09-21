@@ -11,14 +11,6 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3N5yo9MnrKO2eKe0bkqz8m",
-      externalLink: "https://open.spotify.com/track/3N5yo9MnrKO2eKe0bkqz8m",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title:
     'Sto agnosto na \'rtho - Apo to "Psihra Ki Anapoda - Ta Tragoudia 2"/Tragoudi apo tin Tenia',
   trackType: "studio",

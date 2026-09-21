@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeNatureBoyAcoustic = {
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3tTC7CQxjmsttah3GidTji",
-      externalLink: "https://open.spotify.com/track/3tTC7CQxjmsttah3GidTji",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Nature Boy - Acoustic",
   trackType: "acoustic",
   explicit: false,

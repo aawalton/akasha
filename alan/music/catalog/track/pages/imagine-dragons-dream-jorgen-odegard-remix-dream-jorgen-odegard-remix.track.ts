@@ -9,14 +9,6 @@ export const imagineDragonsDreamJorgenOdegardRemixDreamJorgenOdegardRemix = {
   partOfCollections: ["release/imagine-dragons-dream-jorgen-odegard-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MhOS9SC3PYkRnslxRShIG",
-      externalLink: "https://open.spotify.com/track/0MhOS9SC3PYkRnslxRShIG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Dream - Jorgen Odegard Remix",
   trackType: "remix",
   explicit: false,

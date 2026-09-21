@@ -9,14 +9,6 @@ export const coldplayInMyPlaceOneILove = {
   partOfCollections: ["release/coldplay-in-my-place"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5YahO7aySL2lyj6DW2tS9q",
-      externalLink: "https://open.spotify.com/track/5YahO7aySL2lyj6DW2tS9q",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "One I Love",
   trackType: "studio",
   explicit: false,

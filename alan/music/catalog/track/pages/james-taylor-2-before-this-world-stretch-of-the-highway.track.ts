@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "08KqE9veXI1H9kQgVVEXDx",
-      externalLink: "https://open.spotify.com/track/08KqE9veXI1H9kQgVVEXDx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Stretch Of The Highway",
   trackType: "studio",
   explicit: false,

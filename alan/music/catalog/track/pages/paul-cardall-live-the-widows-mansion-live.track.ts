@@ -9,14 +9,6 @@ export const paulCardallLiveTheWidowsMansionLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6mLCMAGsrFjEJkNf1xBDbj",
-      externalLink: "https://open.spotify.com/track/6mLCMAGsrFjEJkNf1xBDbj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Widow's Mansion - Live",
   trackType: "live",
   explicit: false,

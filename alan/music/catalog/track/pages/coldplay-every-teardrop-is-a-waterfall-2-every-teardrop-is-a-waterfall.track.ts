@@ -12,14 +12,6 @@ export const coldplayEveryTeardropIsAWaterfall2EveryTeardropIsAWaterfall = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lRG8ZTNtyLUO1wzh62TWv",
-      externalLink: "https://open.spotify.com/track/5lRG8ZTNtyLUO1wzh62TWv",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Every Teardrop Is a Waterfall",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2DestinySkyrimThemeDragonborn = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1HHliWPM9QbqLFmstYqbzb",
-      externalLink: "https://open.spotify.com/track/1HHliWPM9QbqLFmstYqbzb",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Skyrim Theme (Dragonborn)",
   trackType: "studio",
   explicit: false,

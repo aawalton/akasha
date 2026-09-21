@@ -9,14 +9,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "16Ny9VV6I5uFFp0A6QfKjS",
-      externalLink: "https://open.spotify.com/track/16Ny9VV6I5uFFp0A6QfKjS",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Thank Goodness / I Couldn’t Be Happier - Commentary",
   trackType: "studio",
   explicit: false,

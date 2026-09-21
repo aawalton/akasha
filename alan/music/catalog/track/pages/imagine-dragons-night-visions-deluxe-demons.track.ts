@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsDeluxeDemons = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Ntj0hZfncXCQ5hij7igIE",
-      externalLink: "https://open.spotify.com/track/1Ntj0hZfncXCQ5hij7igIE",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons",
   trackType: "studio",
   explicit: false,

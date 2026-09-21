@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxWhatChildIsThis = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GXSKVaTRh4uxAqy8ZoiYG",
-      externalLink: "https://open.spotify.com/track/1GXSKVaTRh4uxAqy8ZoiYG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "What Child Is This?",
   trackType: "studio",
   explicit: false,

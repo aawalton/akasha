@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeOrinocoFlow = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7EVQbKJwWOzJSoYcph8mdE",
-      externalLink: "https://open.spotify.com/track/7EVQbKJwWOzJSoYcph8mdE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Orinoco Flow",
   trackType: "studio",
   explicit: false,

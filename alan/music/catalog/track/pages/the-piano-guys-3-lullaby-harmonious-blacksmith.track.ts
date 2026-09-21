@@ -9,14 +9,6 @@ export const thePianoGuys3LullabyHarmoniousBlacksmith = {
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27HoENH2jfmOTppXwzbbJn",
-      externalLink: "https://open.spotify.com/track/27HoENH2jfmOTppXwzbbJn",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Harmonious Blacksmith",
   trackType: "studio",
   explicit: false,

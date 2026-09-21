@@ -9,14 +9,6 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedleyThunderYoungDumb
   partOfCollections: ["release/imagine-dragons-thunder-young-dumb-broke-with-khalid-medley"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7ER7vcy7u2ajg5IV45WBFw",
-      externalLink: "https://open.spotify.com/track/7ER7vcy7u2ajg5IV45WBFw",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thunder / Young Dumb & Broke (with Khalid) - Medley",
   trackType: "studio",
   explicit: false,

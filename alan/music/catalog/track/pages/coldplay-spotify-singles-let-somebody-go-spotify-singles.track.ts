@@ -9,14 +9,6 @@ export const coldplaySpotifySinglesLetSomebodyGoSpotifySingles = {
   partOfCollections: ["release/coldplay-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4KiWjFLX5A3oUY40OL0FAh",
-      externalLink: "https://open.spotify.com/track/4KiWjFLX5A3oUY40OL0FAh",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Let Somebody Go - Spotify Singles",
   trackType: "studio",
   explicit: false,

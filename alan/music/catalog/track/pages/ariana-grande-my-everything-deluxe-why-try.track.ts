@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeWhyTry = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "40fHWRL8bKcl5J4t4OKUiW",
-      externalLink: "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Why Try",
   trackType: "studio",
   explicit: false,

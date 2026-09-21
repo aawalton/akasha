@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoDanceOfTheForgotten = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06C3k3I4a9Sdm49uOfPee9",
-      externalLink: "https://open.spotify.com/track/06C3k3I4a9Sdm49uOfPee9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dance of the Forgotten",
   trackType: "studio",
   explicit: false,

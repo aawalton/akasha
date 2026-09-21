@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodOneMississippi = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7oArXBmMlLCtZdUkXWQZGs",
-      externalLink: "https://open.spotify.com/track/7oArXBmMlLCtZdUkXWQZGs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "One Mississippi",
   trackType: "studio",
   explicit: true,

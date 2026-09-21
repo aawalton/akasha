@@ -9,14 +9,6 @@ export const paulCardallGraceInGriefWhereCanITurnForPeace = {
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6P2sahIpn04JGOK0Pm4FSP",
-      externalLink: "https://open.spotify.com/track/6P2sahIpn04JGOK0Pm4FSP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where Can I Turn for Peace?",
   trackType: "studio",
   explicit: false,

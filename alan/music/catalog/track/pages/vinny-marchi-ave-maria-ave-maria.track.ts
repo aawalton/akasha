@@ -9,14 +9,6 @@ export const vinnyMarchiAveMariaAveMaria = {
   partOfCollections: ["release/vinny-marchi-ave-maria"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5TjhimqQne160MIG1iaCdv",
-      externalLink: "https://open.spotify.com/track/5TjhimqQne160MIG1iaCdv",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenCantBlameAGirlForTrying = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5K7fGxZQB0K5sPKhLe9e07",
-      externalLink: "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Can't Blame a Girl for Trying",
   trackType: "studio",
   explicit: false,

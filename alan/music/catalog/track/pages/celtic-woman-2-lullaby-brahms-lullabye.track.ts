@@ -9,14 +9,6 @@ export const celticWoman2LullabyBrahmsLullabye = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3OoNjzwr7Ifo3drIAPlNYy",
-      externalLink: "https://open.spotify.com/track/3OoNjzwr7Ifo3drIAPlNYy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Brahm's Lullabye",
   trackType: "studio",
   explicit: false,

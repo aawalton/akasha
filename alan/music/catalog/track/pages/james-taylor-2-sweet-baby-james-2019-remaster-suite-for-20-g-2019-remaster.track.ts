@@ -9,14 +9,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSuiteFor20G2019Remaster = {
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6zoY7o6r2cVgfCBw1zn3qp",
-      externalLink: "https://open.spotify.com/track/6zoY7o6r2cVgfCBw1zn3qp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Suite for 20 G - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

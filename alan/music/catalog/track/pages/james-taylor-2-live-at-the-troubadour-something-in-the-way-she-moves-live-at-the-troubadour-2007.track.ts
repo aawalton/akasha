@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Iiy1VZNcFIA8PsPls9ZRY",
-      externalLink: "https://open.spotify.com/track/2Iiy1VZNcFIA8PsPls9ZRY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Something In The Way She Moves - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

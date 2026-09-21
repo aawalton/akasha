@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeMyBodyIsNotMine = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6BSh9jkMJ9I3KUm9KVBEKz",
-      externalLink: "https://open.spotify.com/track/6BSh9jkMJ9I3KUm9KVBEKz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Body Is Not Mine",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodAllOfMe = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Br4baYuVyuNOmQRhuMqFI",
-      externalLink: "https://open.spotify.com/track/6Br4baYuVyuNOmQRhuMqFI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "All of Me",
   trackType: "studio",
   explicit: false,

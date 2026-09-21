@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchTheInnocent = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oxNpNSkFYi5EDWEuj663I",
-      externalLink: "https://open.spotify.com/track/5oxNpNSkFYi5EDWEuj663I",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Innocent",
   trackType: "studio",
   explicit: false,

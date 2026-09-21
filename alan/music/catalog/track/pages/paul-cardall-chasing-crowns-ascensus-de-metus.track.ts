@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsAscensusDeMetus = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "36NapoqzBL6F37PDkvPlEN",
-      externalLink: "https://open.spotify.com/track/36NapoqzBL6F37PDkvPlEN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus de Metus",
   trackType: "studio",
   explicit: false,

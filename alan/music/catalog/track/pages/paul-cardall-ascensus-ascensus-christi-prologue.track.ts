@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiPrologue = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "36CaoRRTPPFqvXOx17EFw4",
-      externalLink: "https://open.spotify.com/track/36CaoRRTPPFqvXOx17EFw4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: Prologue",
   trackType: "studio",
   explicit: false,

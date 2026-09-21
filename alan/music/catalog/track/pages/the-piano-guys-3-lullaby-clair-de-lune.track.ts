@@ -14,14 +14,6 @@ export const thePianoGuys3LullabyClairDeLune = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5rJxlS00sApDRlU20qKV8B",
-      externalLink: "https://open.spotify.com/track/5rJxlS00sApDRlU20qKV8B",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Clair de Lune",
   trackType: "studio",
   explicit: false,

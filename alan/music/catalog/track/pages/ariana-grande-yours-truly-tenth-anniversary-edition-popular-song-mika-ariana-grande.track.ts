@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4AzzUUIBICXrr5OYfs2u2C",
-      externalLink: "https://open.spotify.com/track/4AzzUUIBICXrr5OYfs2u2C",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Popular Song (MIKA & Ariana Grande)",
   trackType: "studio",
   explicit: false,

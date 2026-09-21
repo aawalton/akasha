@@ -9,14 +9,6 @@ export const auroraWorldOfWarcraftAPlaceToCallHomeAPlaceToCallHome = {
   partOfCollections: ["release/aurora-world-of-warcraft-a-place-to-call-home"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0rIcVjhuC7B4IGg7C0AVNd",
-      externalLink: "https://open.spotify.com/track/0rIcVjhuC7B4IGg7C0AVNd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Place To Call Home",
   trackType: "studio",
   explicit: false,

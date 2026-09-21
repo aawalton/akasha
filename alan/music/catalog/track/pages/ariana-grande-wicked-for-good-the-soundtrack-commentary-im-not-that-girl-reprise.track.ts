@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2FpXgE2K3ZVQLGEwknnLHc",
-      externalLink: "https://open.spotify.com/track/2FpXgE2K3ZVQLGEwknnLHc",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "I’m Not That Girl (Reprise)",
   trackType: "studio",
   explicit: false,

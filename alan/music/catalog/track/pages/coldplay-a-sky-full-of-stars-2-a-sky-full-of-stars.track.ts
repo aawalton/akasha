@@ -9,14 +9,6 @@ export const coldplayASkyFullOfStars2ASkyFullOfStars = {
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nzI2futOM8isgXNKAlQ1m",
-      externalLink: "https://open.spotify.com/track/2nzI2futOM8isgXNKAlQ1m",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Sky Full of Stars",
   trackType: "studio",
   explicit: false,

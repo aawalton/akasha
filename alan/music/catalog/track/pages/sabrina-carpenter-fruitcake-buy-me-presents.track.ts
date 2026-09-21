@@ -9,14 +9,6 @@ export const sabrinaCarpenterFruitcakeBuyMePresents = {
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Cz6MZdwncB4qasyRPen4S",
-      externalLink: "https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "buy me presents",
   trackType: "studio",
   explicit: true,

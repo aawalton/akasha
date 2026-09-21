@@ -9,14 +9,6 @@ export const sylviaDaleySecureSecure = {
   partOfCollections: ["release/sylvia-daley-secure"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "66RIcMxYr824yGrWTFdwEo",
-      externalLink: "https://open.spotify.com/track/66RIcMxYr824yGrWTFdwEo",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Secure",
   trackType: "studio",
   explicit: false,

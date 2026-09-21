@@ -9,14 +9,6 @@ export const zaraLarssonBadBoysTodayRemixBadBoysTodayRemix = {
   partOfCollections: ["release/zara-larsson-bad-boys-today-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Go2mkW0NdmZA5QnNB7kfr",
-      externalLink: "https://open.spotify.com/track/1Go2mkW0NdmZA5QnNB7kfr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bad Boys (Today Remix)",
   trackType: "remix",
   explicit: false,

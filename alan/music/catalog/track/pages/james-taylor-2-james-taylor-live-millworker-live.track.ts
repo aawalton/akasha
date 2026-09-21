@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveMillworkerLive = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3MNM77pnlKCuizCYMk7KkK",
-      externalLink: "https://open.spotify.com/track/3MNM77pnlKCuizCYMk7KkK",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Millworker - Live",
   trackType: "live",
   explicit: false,

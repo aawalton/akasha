@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoBuryAFriend = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4SSnFejRGlZikf02HLewEF",
-      externalLink: "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "bury a friend",
   trackType: "studio",
   explicit: false,

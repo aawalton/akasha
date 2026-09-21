@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveNightcoreRemix = {
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7oQEQf1ORmabztEv4kV6N0",
-      externalLink: "https://open.spotify.com/track/7oQEQf1ORmabztEv4kV6N0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love - Nightcore Remix",
   trackType: "remix",
   explicit: false,

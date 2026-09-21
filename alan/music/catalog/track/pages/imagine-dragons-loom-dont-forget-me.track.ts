@@ -9,14 +9,6 @@ export const imagineDragonsLoomDontForgetMe = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5SjNA4XCvnggm47yCdNGYe",
-      externalLink: "https://open.spotify.com/track/5SjNA4XCvnggm47yCdNGYe",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Don’t Forget Me",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const emeiEndOfAnEraEndOfAnEra = {
   partOfCollections: ["release/emei-end-of-an-era"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5esqIDtXmnl0EIoiuLFsjp",
-      externalLink: "https://open.spotify.com/track/5esqIDtXmnl0EIoiuLFsjp",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "End of an Era",
   trackType: "studio",
   explicit: true,

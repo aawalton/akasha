@@ -9,14 +9,6 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
   partOfCollections: ["release/aurora-have-you-seen-me-dance-alone-rosa-pistola-remix"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Ni3ftx7WG99FOcLKROIQ2",
-      externalLink: "https://open.spotify.com/track/6Ni3ftx7WG99FOcLKROIQ2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "HAVE YOU SEEN ME DANCE ALONE? - Rosa Pistola Remix",
   trackType: "remix",
   explicit: false,

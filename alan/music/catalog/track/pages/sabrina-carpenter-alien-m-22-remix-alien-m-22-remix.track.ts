@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
   partOfCollections: ["release/sabrina-carpenter-alien-m-22-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "18YI6FM5DHrSdiO4ylzVfj",
-      externalLink: "https://open.spotify.com/track/18YI6FM5DHrSdiO4ylzVfj",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Alien - M-22 Remix",
   trackType: "remix",
   explicit: false,

@@ -12,14 +12,6 @@ export const paulCardallLivingForEdenPassingTime = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3e8GvZAiQt6sCjlOWDJhOf",
-      externalLink: "https://open.spotify.com/track/3e8GvZAiQt6sCjlOWDJhOf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Passing Time",
   trackType: "studio",
   explicit: false,

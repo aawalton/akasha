@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandTheVoiceLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6okTrp2egylA5tbHboME0I",
-      externalLink: "https://open.spotify.com/track/6okTrp2egylA5tbHboME0I",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Voice - Live 2017",
   trackType: "live",
   explicit: false,

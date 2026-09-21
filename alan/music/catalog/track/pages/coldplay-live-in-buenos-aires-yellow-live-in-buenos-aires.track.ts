@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresYellowLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2s2Ld1Xm7t88gSVvohNbPL",
-      externalLink: "https://open.spotify.com/track/2s2Ld1Xm7t88gSVvohNbPL",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Yellow - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

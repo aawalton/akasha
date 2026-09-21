@@ -9,14 +9,6 @@ export const coldplayTalk2SleepingSun = {
   partOfCollections: ["release/coldplay-talk-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0xkcOfbk2pyukCmMVTTauh",
-      externalLink: "https://open.spotify.com/track/0xkcOfbk2pyukCmMVTTauh",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Sleeping Sun",
   trackType: "studio",
   explicit: false,

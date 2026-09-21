@@ -9,14 +9,6 @@ export const coldplayMyUniverse2MyUniverseInstrumental = {
   partOfCollections: ["release/coldplay-my-universe-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2sp32rIevQhpbo0Z4aQzoe",
-      externalLink: "https://open.spotify.com/track/2sp32rIevQhpbo0Z4aQzoe",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "My Universe - Instrumental",
   trackType: "instrumental",
   explicit: false,

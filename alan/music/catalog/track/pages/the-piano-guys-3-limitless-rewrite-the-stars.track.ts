@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessRewriteTheStars = {
   partOfCollections: ["release/the-piano-guys-3-limitless", "release/the-piano-guys-serenity"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1t4NUQuv33szmm8jeLzsZW",
-      externalLink: "https://open.spotify.com/track/1t4NUQuv33szmm8jeLzsZW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rewrite the Stars",
   trackType: "studio",
   explicit: false,

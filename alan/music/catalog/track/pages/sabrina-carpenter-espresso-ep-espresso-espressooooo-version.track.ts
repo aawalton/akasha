@@ -9,14 +9,6 @@ export const sabrinaCarpenterEspressoEpEspressoEspressoooooVersion = {
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4NdKbGmtQtUS42vmavtChz",
-      externalLink: "https://open.spotify.com/track/4NdKbGmtQtUS42vmavtChz",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso - Espressooooo Version",
   trackType: "version",
   explicit: true,

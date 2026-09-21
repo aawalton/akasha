@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessMiracles = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ADcZAP8iMKpOaX4XQbSQH",
-      externalLink: "https://open.spotify.com/track/3ADcZAP8iMKpOaX4XQbSQH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Miracles",
   trackType: "studio",
   explicit: false,

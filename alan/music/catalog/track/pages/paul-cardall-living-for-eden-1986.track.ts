@@ -9,14 +9,6 @@ export const paulCardallLivingForEden1986 = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5KPNpMPeCf3h5j4qyJ2sul",
-      externalLink: "https://open.spotify.com/track/5KPNpMPeCf3h5j4qyJ2sul",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "1986",
   trackType: "studio",
   explicit: false,

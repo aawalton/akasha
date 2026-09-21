@@ -9,14 +9,6 @@ export const zaraLarssonMemoryLaneMemoryLaneDemoVersion = {
   partOfCollections: ["release/zara-larsson-memory-lane"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2V6mrVRiw7x3nqofZRNHi7",
-      externalLink: "https://open.spotify.com/track/2V6mrVRiw7x3nqofZRNHi7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Memory Lane - Demo Version",
   trackType: "demo",
   explicit: true,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sPumpkinSpiceLatte = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "638rN57DGb8f3NthQJxkdA",
-      externalLink: "https://open.spotify.com/track/638rN57DGb8f3NthQJxkdA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Pumpkin Spice Latte",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisSomethingJustLikeThis = {
   partOfCollections: ["release/coldplay-something-just-like-this"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1dNIEtp7AY3oDAKCGg2XkH",
-      externalLink: "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This",
   trackType: "studio",
   explicit: false,

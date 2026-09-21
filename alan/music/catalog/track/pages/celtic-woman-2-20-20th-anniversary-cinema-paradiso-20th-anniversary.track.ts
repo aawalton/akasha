@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryCinemaParadiso20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "70reGJ7A8gxTbX0mGVV4JB",
-      externalLink: "https://open.spotify.com/track/70reGJ7A8gxTbX0mGVV4JB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Cinema Paradiso - 20th Anniversary",
   trackType: "studio",
   explicit: false,

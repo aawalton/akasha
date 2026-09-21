@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungLetterInTheMail = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1o2dvnqMGxeCQWw6MJRhn9",
-      externalLink: "https://open.spotify.com/track/1o2dvnqMGxeCQWw6MJRhn9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Letter in the Mail",
   trackType: "studio",
   explicit: false,

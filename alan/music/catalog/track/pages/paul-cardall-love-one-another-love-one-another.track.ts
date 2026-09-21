@@ -9,14 +9,6 @@ export const paulCardallLoveOneAnotherLoveOneAnother = {
   partOfCollections: ["release/paul-cardall-love-one-another", "release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6jSeWJeDXcej6tOXk4QB4n",
-      externalLink: "https://open.spotify.com/track/6jSeWJeDXcej6tOXk4QB4n",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Love One Another",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanEveryday = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "53SfB4huCgiRGmwzJdEo1u",
-      externalLink: "https://open.spotify.com/track/53SfB4huCgiRGmwzJdEo1u",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Everyday",
   trackType: "studio",
   explicit: true,

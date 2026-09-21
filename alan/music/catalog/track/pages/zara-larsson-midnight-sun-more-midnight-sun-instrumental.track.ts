@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunInstrumental = {
   partOfCollections: ["release/zara-larsson-midnight-sun-more"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "043NearEhVq8RpAUHtkY5r",
-      externalLink: "https://open.spotify.com/track/043NearEhVq8RpAUHtkY5r",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - Instrumental",
   trackType: "instrumental",
   explicit: false,

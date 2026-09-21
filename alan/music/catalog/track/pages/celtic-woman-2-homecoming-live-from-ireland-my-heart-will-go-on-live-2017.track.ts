@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandMyHeartWillGoOnLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4DjROM0w5MTLZaFFCmdHFq",
-      externalLink: "https://open.spotify.com/track/4DjROM0w5MTLZaFFCmdHFq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Heart Will Go On - Live 2017",
   trackType: "live",
   explicit: false,

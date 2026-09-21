@@ -9,14 +9,6 @@ export const thePianoGuysSerenityAThousandYears = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4LqIdsI9UU5YJOJQCAqztR",
-      externalLink: "https://open.spotify.com/track/4LqIdsI9UU5YJOJQCAqztR",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Thousand Years",
   trackType: "studio",
   explicit: false,

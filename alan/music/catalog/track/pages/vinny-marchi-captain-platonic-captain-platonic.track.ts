@@ -12,14 +12,6 @@ export const vinnyMarchiCaptainPlatonicCaptainPlatonic = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0KyvdjIwT3cqIz2VumSp5J",
-      externalLink: "https://open.spotify.com/track/0KyvdjIwT3cqIz2VumSp5J",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Captain Platonic",
   trackType: "studio",
   explicit: false,

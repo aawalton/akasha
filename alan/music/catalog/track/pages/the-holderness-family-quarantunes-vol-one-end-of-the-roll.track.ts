@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneEndOfTheRoll = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "18aYUP185lK6fBqnsGCXWP",
-      externalLink: "https://open.spotify.com/track/18aYUP185lK6fBqnsGCXWP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "End of the Roll",
   trackType: "studio",
   explicit: false,

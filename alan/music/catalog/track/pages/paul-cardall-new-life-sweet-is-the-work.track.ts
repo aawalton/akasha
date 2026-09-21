@@ -9,14 +9,6 @@ export const paulCardallNewLifeSweetIsTheWork = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5T7c86PLe0GaySMXJAk0b2",
-      externalLink: "https://open.spotify.com/track/5T7c86PLe0GaySMXJAk0b2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Is the Work",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoAwakening = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7dDHHDNyDJEmNfhIdQjpSZ",
-      externalLink: "https://open.spotify.com/track/7dDHHDNyDJEmNfhIdQjpSZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Awakening",
   trackType: "studio",
   explicit: false,

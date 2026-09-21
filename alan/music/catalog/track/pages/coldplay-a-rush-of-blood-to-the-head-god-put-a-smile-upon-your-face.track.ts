@@ -12,14 +12,6 @@ export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4hf0hL4kWyjWztZzVsM39V",
-      externalLink: "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "God Put a Smile upon Your Face",
   trackType: "studio",
   explicit: false,

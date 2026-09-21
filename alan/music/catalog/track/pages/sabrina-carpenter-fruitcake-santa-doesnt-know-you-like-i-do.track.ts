@@ -9,14 +9,6 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mi0HQrZMhRb2MRdFiUP6v",
-      externalLink: "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "santa doesn’t know you like i do",
   trackType: "studio",
   explicit: false,

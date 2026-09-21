@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionAveMaria = {
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6QS6YPHz807ohnNEr05mKh",
-      externalLink: "https://open.spotify.com/track/6QS6YPHz807ohnNEr05mKh",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,

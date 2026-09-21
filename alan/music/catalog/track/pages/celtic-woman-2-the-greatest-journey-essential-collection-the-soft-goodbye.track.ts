@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSoftGoodbye = {
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6qWfYJbhZ9BmRbbPNTtHiv",
-      externalLink: "https://open.spotify.com/track/6qWfYJbhZ9BmRbbPNTtHiv",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Soft Goodbye",
   trackType: "studio",
   explicit: false,

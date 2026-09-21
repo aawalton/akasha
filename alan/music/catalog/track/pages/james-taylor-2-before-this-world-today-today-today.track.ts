@@ -12,14 +12,6 @@ export const jamesTaylor2BeforeThisWorldTodayTodayToday = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64ZiNwBPlvQpfMLwxddu1z",
-      externalLink: "https://open.spotify.com/track/64ZiNwBPlvQpfMLwxddu1z",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Today Today Today",
   trackType: "studio",
   explicit: false,

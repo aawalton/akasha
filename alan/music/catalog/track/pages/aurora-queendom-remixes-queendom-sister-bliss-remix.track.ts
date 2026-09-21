@@ -9,14 +9,6 @@ export const auroraQueendomRemixesQueendomSisterBlissRemix = {
   partOfCollections: ["release/aurora-queendom-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15hCjVhqcEBlMxmjhu0o4x",
-      externalLink: "https://open.spotify.com/track/15hCjVhqcEBlMxmjhu0o4x",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Queendom - Sister Bliss Remix",
   trackType: "remix",
   explicit: false,

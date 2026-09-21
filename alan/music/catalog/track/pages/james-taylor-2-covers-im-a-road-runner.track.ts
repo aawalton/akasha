@@ -9,14 +9,6 @@ export const jamesTaylor2CoversImARoadRunner = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1WhUsyBScyAZBLL9FHVKfG",
-      externalLink: "https://open.spotify.com/track/1WhUsyBScyAZBLL9FHVKfG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "(I'm A) Road Runner",
   trackType: "studio",
   explicit: false,

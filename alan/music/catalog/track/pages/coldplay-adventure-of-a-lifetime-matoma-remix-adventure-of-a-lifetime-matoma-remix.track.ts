@@ -9,14 +9,6 @@ export const coldplayAdventureOfALifetimeMatomaRemixAdventureOfALifetimeMatomaRe
   partOfCollections: ["release/coldplay-adventure-of-a-lifetime-matoma-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2So9pYqQ0JWvFhasJfI871",
-      externalLink: "https://open.spotify.com/track/2So9pYqQ0JWvFhasJfI871",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Adventure of a Lifetime - Matoma Remix",
   trackType: "remix",
   explicit: false,

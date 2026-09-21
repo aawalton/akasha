@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeTestDrive = {
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3eZYOQO4UzKrUDYDghtnFw",
-      externalLink: "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "test drive",
   trackType: "studio",
   explicit: false,

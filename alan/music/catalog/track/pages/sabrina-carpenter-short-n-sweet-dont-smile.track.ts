@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDontSmile = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "09LrGvT9KsACH66RHYMDyR",
-      externalLink: "https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Don’t Smile",
   trackType: "studio",
   explicit: false,

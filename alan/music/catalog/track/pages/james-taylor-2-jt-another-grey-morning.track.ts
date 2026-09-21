@@ -9,14 +9,6 @@ export const jamesTaylor2JtAnotherGreyMorning = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3eC5kxXAJ24pVZQkdi8r6U",
-      externalLink: "https://open.spotify.com/track/3eC5kxXAJ24pVZQkdi8r6U",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Another Grey Morning",
   trackType: "studio",
   explicit: false,

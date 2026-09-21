@@ -12,14 +12,6 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0n0TbMUY2xrZlvd5J6XsqO",
-      externalLink: "https://open.spotify.com/track/0n0TbMUY2xrZlvd5J6XsqO",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cutthroat",
   trackType: "studio",
   explicit: false,

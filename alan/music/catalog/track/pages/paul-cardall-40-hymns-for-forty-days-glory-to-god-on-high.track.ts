@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysGloryToGodOnHigh = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "284ibIhRiPz4qTk25hXker",
-      externalLink: "https://open.spotify.com/track/284ibIhRiPz4qTk25hXker",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Glory to God On High",
   trackType: "studio",
   explicit: false,

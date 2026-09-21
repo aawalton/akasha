@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoBedtimeStoryLullaby = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48J6WaPuGaXbR3nfPgDkWf",
-      externalLink: "https://open.spotify.com/track/48J6WaPuGaXbR3nfPgDkWf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bedtime Story Lullaby",
   trackType: "studio",
   explicit: false,

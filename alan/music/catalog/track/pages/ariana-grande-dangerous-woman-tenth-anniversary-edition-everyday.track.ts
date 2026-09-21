@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionEveryday = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "28OUThncuwdC6uasRvZd9w",
-      externalLink: "https://open.spotify.com/track/28OUThncuwdC6uasRvZd9w",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Everyday",
   trackType: "studio",
   explicit: true,

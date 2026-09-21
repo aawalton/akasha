@@ -9,14 +9,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinAcoustic = {
   partOfCollections: ["release/aurora-some-type-of-skin"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3UQg1zvXxdz1BMXC9tlqst",
-      externalLink: "https://open.spotify.com/track/3UQg1zvXxdz1BMXC9tlqst",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Some Type Of Skin - Acoustic",
   trackType: "acoustic",
   explicit: false,

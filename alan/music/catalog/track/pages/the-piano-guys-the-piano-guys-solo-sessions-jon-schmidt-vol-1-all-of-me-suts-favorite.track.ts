@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1AllOfMeSutsFavori
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2NMO8yzWawxeZGG4xYJF2Z",
-      externalLink: "https://open.spotify.com/track/2NMO8yzWawxeZGG4xYJF2Z",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "All of Me (Sut's Favorite)",
   trackType: "studio",
   explicit: false,

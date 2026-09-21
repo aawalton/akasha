@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCoastOf
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "74z0ObOUixCAh2rsGL50tt",
-      externalLink: "https://open.spotify.com/track/74z0ObOUixCAh2rsGL50tt",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Coast of Galiçia",
   trackType: "studio",
   explicit: false,

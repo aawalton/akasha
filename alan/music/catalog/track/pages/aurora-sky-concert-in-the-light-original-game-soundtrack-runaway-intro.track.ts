@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackRunawayIntro = {
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1D9OZb6tJdFv9bHMxa5Z7A",
-      externalLink: "https://open.spotify.com/track/1D9OZb6tJdFv9bHMxa5Z7A",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Runaway Intro",
   trackType: "studio",
   explicit: false,

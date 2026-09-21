@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4KmOOVu1sdBLKJbfEm4p1X",
-      externalLink: "https://open.spotify.com/track/4KmOOVu1sdBLKJbfEm4p1X",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "True Love - Live at the Enmore Theatre, Sydney",
   trackType: "live",
   explicit: false,

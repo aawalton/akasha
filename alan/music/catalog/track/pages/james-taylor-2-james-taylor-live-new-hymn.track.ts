@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveNewHymn = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4mspGeMQumiTR3u46ySXRf",
-      externalLink: "https://open.spotify.com/track/4mspGeMQumiTR3u46ySXRf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "New Hymn",
   trackType: "studio",
   explicit: false,

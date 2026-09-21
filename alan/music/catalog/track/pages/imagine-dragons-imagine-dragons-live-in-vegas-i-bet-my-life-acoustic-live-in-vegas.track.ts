@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasIBetMyLifeAcousticLiveInVega
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5QXqQloyCOtu9rdGN7iRre",
-      externalLink: "https://open.spotify.com/track/5QXqQloyCOtu9rdGN7iRre",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life (Acoustic) - Live in Vegas",
   trackType: "live",
   explicit: false,

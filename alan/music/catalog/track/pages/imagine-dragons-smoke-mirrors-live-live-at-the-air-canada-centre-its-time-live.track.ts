@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreItsTimeLive =
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0170fcmOXdDbSWUbCPIqga",
-      externalLink: "https://open.spotify.com/track/0170fcmOXdDbSWUbCPIqga",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Live",
   trackType: "live",
   explicit: false,

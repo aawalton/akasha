@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasSantaClausIsComingToTown = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3EEptKuQOHKaMFFQIL5ZBz",
-      externalLink: "https://open.spotify.com/track/3EEptKuQOHKaMFFQIL5ZBz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Santa Claus Is Coming to Town",
   trackType: "studio",
   explicit: false,

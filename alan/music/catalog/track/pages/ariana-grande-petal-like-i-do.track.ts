@@ -9,14 +9,6 @@ export const arianaGrandePetalLikeIDo = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3d1oTMjtfVySbAYQp3v4MU",
-      externalLink: "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "like i do",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasWeThreeKings = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4xwQXoPQP2RJ6j98vgJgVV",
-      externalLink: "https://open.spotify.com/track/4xwQXoPQP2RJ6j98vgJgVV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "We Three Kings",
   trackType: "studio",
   explicit: false,

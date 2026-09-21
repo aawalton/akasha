@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasHarkTheHeraldAngelsSing = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nszPNNnV2LbAipp6A1Zs3",
-      externalLink: "https://open.spotify.com/track/0nszPNNnV2LbAipp6A1Zs3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hark The Herald Angels Sing",
   trackType: "studio",
   explicit: false,

@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSkyTheD
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ZQjRmlCaM6VN3i115AGO2",
-      externalLink: "https://open.spotify.com/track/5ZQjRmlCaM6VN3i115AGO2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Sky & The Dawn & The Sun",
   trackType: "studio",
   explicit: false,

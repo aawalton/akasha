@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLeaveMeLonely = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3z8MkhnA2WVfzoCrt3bM5j",
-      externalLink: "https://open.spotify.com/track/3z8MkhnA2WVfzoCrt3bM5j",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Leave Me Lonely",
   trackType: "studio",
   explicit: false,

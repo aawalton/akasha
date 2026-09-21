@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionSilentNight = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4qlf2100Gwh5BxaAkMbsJI",
-      externalLink: "https://open.spotify.com/track/4qlf2100Gwh5BxaAkMbsJI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Silent Night",
   trackType: "studio",
   explicit: false,

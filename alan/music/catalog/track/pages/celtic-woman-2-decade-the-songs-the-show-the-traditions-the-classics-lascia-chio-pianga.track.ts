@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsLasciaChio
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2gqmDWAA8l1I6x2ImGccOQ",
-      externalLink: "https://open.spotify.com/track/2gqmDWAA8l1I6x2ImGccOQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lascia Ch'io Pianga",
   trackType: "studio",
   explicit: false,

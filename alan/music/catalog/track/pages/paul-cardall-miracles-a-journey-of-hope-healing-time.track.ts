@@ -12,14 +12,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingTime = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5xqEpfGKFmEbObwvHMiiks",
-      externalLink: "https://open.spotify.com/track/5xqEpfGKFmEbObwvHMiiks",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Time",
   trackType: "studio",
   explicit: false,

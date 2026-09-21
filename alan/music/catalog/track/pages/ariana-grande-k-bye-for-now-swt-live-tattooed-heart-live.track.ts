@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveTattooedHeartLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6dB14UPKgEDLTp38BIKk6N",
-      externalLink: "https://open.spotify.com/track/6dB14UPKgEDLTp38BIKk6N",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "tattooed heart - live",
   trackType: "live",
   explicit: false,

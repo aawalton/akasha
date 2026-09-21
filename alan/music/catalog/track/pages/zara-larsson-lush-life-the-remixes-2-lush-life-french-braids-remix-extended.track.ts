@@ -12,14 +12,6 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5QTCNVhm1Vd5GZd2tCHpXM",
-      externalLink: "https://open.spotify.com/track/5QTCNVhm1Vd5GZd2tCHpXM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life - French Braids Remix [Extended]",
   trackType: "remix",
   explicit: false,

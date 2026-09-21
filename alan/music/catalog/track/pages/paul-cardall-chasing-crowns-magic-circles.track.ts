@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsMagicCircles = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1cDmkJbbiCPQERoYlZG141",
-      externalLink: "https://open.spotify.com/track/1cDmkJbbiCPQERoYlZG141",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Magic Circles",
   trackType: "studio",
   explicit: false,

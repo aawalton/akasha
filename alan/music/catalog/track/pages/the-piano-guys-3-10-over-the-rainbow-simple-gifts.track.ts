@@ -12,14 +12,6 @@ export const thePianoGuys310OverTheRainbowSimpleGifts = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1QmL2sj2WXXNY3nW2fqBAL",
-      externalLink: "https://open.spotify.com/track/1QmL2sj2WXXNY3nW2fqBAL",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Over the Rainbow / Simple Gifts",
   trackType: "studio",
   explicit: false,

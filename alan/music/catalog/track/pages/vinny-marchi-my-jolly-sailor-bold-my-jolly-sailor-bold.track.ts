@@ -9,14 +9,6 @@ export const vinnyMarchiMyJollySailorBoldMyJollySailorBold = {
   partOfCollections: ["release/vinny-marchi-my-jolly-sailor-bold"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3GV5meKmvfxrcfJl4EErQc",
-      externalLink: "https://open.spotify.com/track/3GV5meKmvfxrcfJl4EErQc",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "My Jolly Sailor Bold",
   trackType: "studio",
   explicit: false,

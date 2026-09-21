@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendEmailsICantSend = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2qLyo5FeWquE7HBUbcVnEy",
-      externalLink: "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "emails i can’t send",
   trackType: "studio",
   explicit: true,

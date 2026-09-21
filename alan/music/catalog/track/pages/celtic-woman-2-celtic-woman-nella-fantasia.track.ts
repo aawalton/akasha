@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanNellaFantasia = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4IR9up5ZrC9x1T12ePgY8g",
-      externalLink: "https://open.spotify.com/track/4IR9up5ZrC9x1T12ePgY8g",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Nella Fantasia",
   trackType: "studio",
   explicit: false,

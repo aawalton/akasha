@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasGoTellItOnTheMountain = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7e2OOzTpgL4iRbd2C0XmdS",
-      externalLink: "https://open.spotify.com/track/7e2OOzTpgL4iRbd2C0XmdS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Go Tell It On The Mountain",
   trackType: "studio",
   explicit: false,

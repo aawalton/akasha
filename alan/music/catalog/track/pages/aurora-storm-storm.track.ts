@@ -9,14 +9,6 @@ export const auroraStormStorm = {
   partOfCollections: ["release/aurora-storm"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7AsYl5LgI6yHEGNnXZYQO4",
-      externalLink: "https://open.spotify.com/track/7AsYl5LgI6yHEGNnXZYQO4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Storm",
   trackType: "studio",
   explicit: false,

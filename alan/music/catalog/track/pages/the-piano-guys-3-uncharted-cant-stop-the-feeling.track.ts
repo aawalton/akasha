@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedCantStopTheFeeling = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7LfVbcoCLy1u3zKUwO9VxN",
-      externalLink: "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Can't Stop the Feeling",
   trackType: "studio",
   explicit: false,

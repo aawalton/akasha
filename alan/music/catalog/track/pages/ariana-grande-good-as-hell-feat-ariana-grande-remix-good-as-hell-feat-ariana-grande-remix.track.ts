@@ -9,14 +9,6 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHellFeatArianaGran
   partOfCollections: ["release/ariana-grande-good-as-hell-feat-ariana-grande-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "07Oz5StQ7GRoygNLaXs2pd",
-      externalLink: "https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Good as Hell (feat. Ariana Grande) - Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayMyUniverseDavidGuettaRemixMyUniverseDavidGuettaRemix = {
   partOfCollections: ["release/coldplay-my-universe-david-guetta-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5FvxRvrQ8qzKjBJ6ST9aiu",
-      externalLink: "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "My Universe - David Guetta Remix",
   trackType: "remix",
   explicit: false,

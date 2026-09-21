@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Lb9AmT71mBtCnrLC21BGx",
-      externalLink: "https://open.spotify.com/track/3Lb9AmT71mBtCnrLC21BGx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Know It Hurts",
   trackType: "studio",
   explicit: false,

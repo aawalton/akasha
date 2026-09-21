@@ -9,14 +9,6 @@ export const coldplayLive2003GodPutASmileUponYourFaceLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6R2ZKXEdEEYXiODsC9Fr4L",
-      externalLink: "https://open.spotify.com/track/6R2ZKXEdEEYXiODsC9Fr4L",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "God Put a Smile upon Your Face - Live in Sydney",
   trackType: "live",
   explicit: false,

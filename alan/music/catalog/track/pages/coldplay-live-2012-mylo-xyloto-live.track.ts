@@ -9,14 +9,6 @@ export const coldplayLive2012MyloXylotoLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ejLFn10FIMPNSwCmIviyR",
-      externalLink: "https://open.spotify.com/track/0ejLFn10FIMPNSwCmIviyR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Mylo Xyloto - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Hs2b73YOpMYOG4bHiD5BT",
-      externalLink: "https://open.spotify.com/track/4Hs2b73YOpMYOG4bHiD5BT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Want to Know What Day It Is",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendBadForBusiness = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "38bbpkFcxgjupISR0K94UU",
-      externalLink: "https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bad for Business",
   trackType: "studio",
   explicit: false,

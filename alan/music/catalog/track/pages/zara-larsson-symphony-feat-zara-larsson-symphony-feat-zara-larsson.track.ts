@@ -9,14 +9,6 @@ export const zaraLarssonSymphonyFeatZaraLarssonSymphonyFeatZaraLarsson = {
   partOfCollections: ["release/zara-larsson-symphony-feat-zara-larsson"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1x5sYLZiu9r5E43kMlt9f8",
-      externalLink: "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Symphony (feat. Zara Larsson)",
   trackType: "studio",
   explicit: false,

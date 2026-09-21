@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleMothsButterflies = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "525AFUqIN1FdZz5kjv8pGA",
-      externalLink: "https://open.spotify.com/track/525AFUqIN1FdZz5kjv8pGA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Moths & Butterflies",
   trackType: "studio",
   explicit: false,

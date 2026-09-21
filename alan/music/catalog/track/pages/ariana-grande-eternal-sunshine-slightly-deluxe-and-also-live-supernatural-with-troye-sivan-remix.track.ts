@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalWit
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0OanqO2wZZkAE8i6FESIXS",
-      externalLink: "https://open.spotify.com/track/0OanqO2wZZkAE8i6FESIXS",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "supernatural (with Troye Sivan) - remix",
   trackType: "remix",
   explicit: false,

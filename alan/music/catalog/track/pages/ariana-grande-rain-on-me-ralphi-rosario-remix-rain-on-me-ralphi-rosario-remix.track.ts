@@ -9,14 +9,6 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemix = 
   partOfCollections: ["release/ariana-grande-rain-on-me-ralphi-rosario-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zTazJ3jOT7YR1HGdlawR2",
-      externalLink: "https://open.spotify.com/track/0zTazJ3jOT7YR1HGdlawR2",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Rain On Me - Ralphi Rosario Remix",
   trackType: "remix",
   explicit: false,

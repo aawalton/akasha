@@ -12,14 +12,6 @@ export const auroraCureForMeCureForMeVintageCultureRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "01YlBANXR7yUe1lVsyH0yR",
-      externalLink: "https://open.spotify.com/track/01YlBANXR7yUe1lVsyH0yR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Cure For Me - Vintage Culture Remix",
   trackType: "remix",
   explicit: false,

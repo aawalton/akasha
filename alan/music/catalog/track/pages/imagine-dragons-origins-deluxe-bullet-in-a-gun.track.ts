@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeBulletInAGun = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3R4Xk37WTagjzODMNEQLvs",
-      externalLink: "https://open.spotify.com/track/3R4Xk37WTagjzODMNEQLvs",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bullet In A Gun",
   trackType: "studio",
   explicit: false,

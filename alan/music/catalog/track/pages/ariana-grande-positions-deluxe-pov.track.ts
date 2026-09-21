@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxePov = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3RP1eXaK8f4rwqY9fRKVRF",
-      externalLink: "https://open.spotify.com/track/3RP1eXaK8f4rwqY9fRKVRF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "pov",
   trackType: "studio",
   explicit: false,

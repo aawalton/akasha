@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendHouseTour = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "25jgQBxuUkGDdCG1WGKKN9",
-      externalLink: "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "House Tour",
   trackType: "studio",
   explicit: false,

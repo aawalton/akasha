@@ -9,14 +9,6 @@ export const coldplayLiveFromSpotifyLondonAdventureOfALifetimeLiveFromSpotifyLon
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2XiSB3m4WSkxD3xIUrYHfV",
-      externalLink: "https://open.spotify.com/track/2XiSB3m4WSkxD3xIUrYHfV",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Adventure of a Lifetime - Live from Spotify London",
   trackType: "live",
   explicit: false,

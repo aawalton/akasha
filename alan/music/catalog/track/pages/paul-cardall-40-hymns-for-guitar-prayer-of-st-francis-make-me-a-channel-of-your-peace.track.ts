@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarPrayerOfStFrancisMakeMeAChannelOfYourPea
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4qOz8CJXArpPBEx8WNvogW",
-      externalLink: "https://open.spotify.com/track/4qOz8CJXArpPBEx8WNvogW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Prayer of St. Francis - Make Me A Channel of Your Peace",
   trackType: "studio",
   explicit: false,

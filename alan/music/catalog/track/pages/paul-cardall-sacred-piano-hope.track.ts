@@ -9,14 +9,6 @@ export const paulCardallSacredPianoHope = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "07RZrBOLf6pnF7AF6cpdP2",
-      externalLink: "https://open.spotify.com/track/07RZrBOLf6pnF7AF6cpdP2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hope",
   trackType: "studio",
   explicit: false,

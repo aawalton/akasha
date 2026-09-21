@@ -9,14 +9,6 @@ export const arianaGrandeChristmasKissesSnowInCalifornia = {
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Uc4EHr3ktYmLfLDY7LifJ",
-      externalLink: "https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Snow In California",
   trackType: "studio",
   explicit: false,

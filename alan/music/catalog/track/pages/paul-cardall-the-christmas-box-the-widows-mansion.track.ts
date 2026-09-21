@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxTheWidowsMansion = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bGjRctbOVEeOBgYiHlQNi",
-      externalLink: "https://open.spotify.com/track/2bGjRctbOVEeOBgYiHlQNi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Widow's Mansion",
   trackType: "studio",
   explicit: false,

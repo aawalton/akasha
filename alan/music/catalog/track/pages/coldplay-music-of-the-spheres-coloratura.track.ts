@@ -9,14 +9,6 @@ export const coldplayMusicOfTheSpheresColoratura = {
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0jH7gF7KCk2Lom9gimaKms",
-      externalLink: "https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Coloratura",
   trackType: "studio",
   explicit: false,

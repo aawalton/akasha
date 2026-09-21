@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleTheBrokenMiracle = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jILjtJcgedVF7Jeqco90f",
-      externalLink: "https://open.spotify.com/track/7jILjtJcgedVF7Jeqco90f",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Broken Miracle",
   trackType: "studio",
   explicit: false,

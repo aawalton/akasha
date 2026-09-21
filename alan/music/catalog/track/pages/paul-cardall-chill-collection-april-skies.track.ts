@@ -9,14 +9,6 @@ export const paulCardallChillCollectionAprilSkies = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Z7iv9P7XkmJhIVldZnXfE",
-      externalLink: "https://open.spotify.com/track/2Z7iv9P7XkmJhIVldZnXfE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "April Skies",
   trackType: "studio",
   explicit: false,

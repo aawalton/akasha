@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsSweetHourOfPrayer = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6GdMLWsKV4tSeCd3p47CGV",
-      externalLink: "https://open.spotify.com/track/6GdMLWsKV4tSeCd3p47CGV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Hour of Prayer",
   trackType: "studio",
   explicit: false,

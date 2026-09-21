@@ -12,14 +12,6 @@ export const zaraLarssonCanTTameHerAcousticCantTameHerAcoustic = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1fuD35YHKBFQTIy61hbwo4",
-      externalLink: "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Can't Tame Her - Acoustic",
   trackType: "acoustic",
   explicit: false,

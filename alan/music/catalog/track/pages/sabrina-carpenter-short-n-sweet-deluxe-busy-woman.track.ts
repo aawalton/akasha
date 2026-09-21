@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeBusyWoman = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0b0Dz0Gi86SVdBxYeiQcCP",
-      externalLink: "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Busy Woman",
   trackType: "studio",
   explicit: true,

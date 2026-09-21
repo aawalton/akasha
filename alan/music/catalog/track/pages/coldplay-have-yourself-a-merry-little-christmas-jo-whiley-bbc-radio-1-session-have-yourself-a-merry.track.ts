@@ -11,14 +11,6 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1SessionHa
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4cLMJLCJS4tXQoH416h77P",
-      externalLink: "https://open.spotify.com/track/4cLMJLCJS4tXQoH416h77P",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Have Yourself a Merry Little Christmas - Jo Whiley, BBC Radio 1 Session",
   trackType: "live",
   explicit: false,

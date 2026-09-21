@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeart = {
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HBDccZgvC769vqQ2QHjji",
-      externalLink: "https://open.spotify.com/track/4HBDccZgvC769vqQ2QHjji",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Tattooed Heart",
   trackType: "studio",
   explicit: false,

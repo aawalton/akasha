@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionShropshireHillsSoloPianoVersio
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2PTwV9XFza4C5zHU3QokHz",
-      externalLink: "https://open.spotify.com/track/2PTwV9XFza4C5zHU3QokHz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Shropshire Hills - Solo Piano Version",
   trackType: "version",
   explicit: false,

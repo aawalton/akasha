@@ -9,14 +9,6 @@ export const arianaGrandeYesAndYesAndEdit = {
   partOfCollections: ["release/ariana-grande-yes-and"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5wiAFvYjgrzxlyYxDXP155",
-      externalLink: "https://open.spotify.com/track/5wiAFvYjgrzxlyYxDXP155",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? - edit",
   trackType: "version",
   explicit: true,

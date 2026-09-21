@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanSendMeASong = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "10UOzrWGHnyVPb3cHRoZrQ",
-      externalLink: "https://open.spotify.com/track/10UOzrWGHnyVPb3cHRoZrQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Send Me A Song",
   trackType: "studio",
   explicit: false,

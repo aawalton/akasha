@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanHarrysGame = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4TrMDhDetsFAFXZKU004uW",
-      externalLink: "https://open.spotify.com/track/4TrMDhDetsFAFXZKU004uW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Harry's Game",
   trackType: "studio",
   explicit: false,

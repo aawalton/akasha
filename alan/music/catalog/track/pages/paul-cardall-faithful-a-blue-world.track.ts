@@ -9,14 +9,6 @@ export const paulCardallFaithfulABlueWorld = {
   partOfCollections: ["release/paul-cardall-faithful"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1K0NL2Sxe1acIY8239sZRb",
-      externalLink: "https://open.spotify.com/track/1K0NL2Sxe1acIY8239sZRb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Blue World",
   trackType: "studio",
   explicit: false,

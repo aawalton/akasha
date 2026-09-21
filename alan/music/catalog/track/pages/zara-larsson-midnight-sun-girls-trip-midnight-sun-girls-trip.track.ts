@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunGirlsTripMidnightSunGirlsTrip = {
   partOfCollections: ["release/zara-larsson-midnight-sun-girls-trip"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2FHGYrQEmuWGX24QoQtQ13",
-      externalLink: "https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - Girls Trip",
   trackType: "studio",
   explicit: false,

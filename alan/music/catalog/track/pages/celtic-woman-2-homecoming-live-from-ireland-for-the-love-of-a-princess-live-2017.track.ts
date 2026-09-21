@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandForTheLoveOfAPrincessLive2017 
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6JiXJ3BROFzFSTX5EmBYYO",
-      externalLink: "https://open.spotify.com/track/6JiXJ3BROFzFSTX5EmBYYO",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "For The Love Of A Princess - Live 2017",
   trackType: "live",
   explicit: false,

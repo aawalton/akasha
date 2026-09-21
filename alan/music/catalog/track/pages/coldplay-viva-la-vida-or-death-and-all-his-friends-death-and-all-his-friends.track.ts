@@ -12,14 +12,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsDeathAndAllHisFriends = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0guzngk1qWk5sgdYbThEGI",
-      externalLink: "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Death and All His Friends",
   trackType: "studio",
   explicit: false,

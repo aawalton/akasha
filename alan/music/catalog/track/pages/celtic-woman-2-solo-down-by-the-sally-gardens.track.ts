@@ -9,14 +9,6 @@ export const celticWoman2SoloDownByTheSallyGardens = {
   partOfCollections: ["release/celtic-woman-2-solo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RUlTrMBaHeWcLZ8YSC0jn",
-      externalLink: "https://open.spotify.com/track/5RUlTrMBaHeWcLZ8YSC0jn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Down by the Sally Gardens",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerTheLightIsComingFeatNickiMinaj = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0sdbFOyfgAhAhWq8DpzkaW",
-      externalLink: "https://open.spotify.com/track/0sdbFOyfgAhAhWq8DpzkaW",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "the light is coming (feat. Nicki Minaj)",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanOneWorld = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5X6TRZfx9AE3Bd0M1FZkr8",
-      externalLink: "https://open.spotify.com/track/5X6TRZfx9AE3Bd0M1FZkr8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "One World",
   trackType: "studio",
   explicit: false,

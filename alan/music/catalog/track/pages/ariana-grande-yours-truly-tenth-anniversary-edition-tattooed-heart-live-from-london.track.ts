@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeartLiveFromL
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5JVMTPWkg7U14ga4up1rSm",
-      externalLink: "https://open.spotify.com/track/5JVMTPWkg7U14ga4up1rSm",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Tattooed Heart - Live from London",
   trackType: "live",
   explicit: false,

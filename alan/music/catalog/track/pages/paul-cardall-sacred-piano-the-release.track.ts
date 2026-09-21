@@ -9,14 +9,6 @@ export const paulCardallSacredPianoTheRelease = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2AfUXX1A5KGscwlp9J8Fhs",
-      externalLink: "https://open.spotify.com/track/2AfUXX1A5KGscwlp9J8Fhs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Release",
   trackType: "studio",
   explicit: false,

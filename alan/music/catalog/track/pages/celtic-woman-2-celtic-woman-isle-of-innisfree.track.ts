@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanIsleOfInnisfree = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1HKHNnDfN0jGMMl27Tmu9N",
-      externalLink: "https://open.spotify.com/track/1HKHNnDfN0jGMMl27Tmu9N",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Isle Of Innisfree",
   trackType: "studio",
   explicit: false,

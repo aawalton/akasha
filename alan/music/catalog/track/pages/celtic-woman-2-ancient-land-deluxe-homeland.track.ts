@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeHomeland = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2GFMWA2Suq95XmxCBX84LI",
-      externalLink: "https://open.spotify.com/track/2GFMWA2Suq95XmxCBX84LI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Homeland",
   trackType: "studio",
   explicit: false,

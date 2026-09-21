@@ -9,14 +9,6 @@ export const emeiEndOfAnEraLateToTheParty = {
   partOfCollections: ["release/emei-end-of-an-era", "release/emei-late-to-the-party"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6mosJ1QPOVKKSI95ApkWXz",
-      externalLink: "https://open.spotify.com/track/6mosJ1QPOVKKSI95ApkWXz",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Late to the Party",
   trackType: "studio",
   explicit: false,

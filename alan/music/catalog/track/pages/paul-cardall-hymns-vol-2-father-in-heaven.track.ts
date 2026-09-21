@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2FatherInHeaven = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7pEspvJQyPRyAnnUwCMeM0",
-      externalLink: "https://open.spotify.com/track/7pEspvJQyPRyAnnUwCMeM0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Father in Heaven",
   trackType: "studio",
   explicit: false,

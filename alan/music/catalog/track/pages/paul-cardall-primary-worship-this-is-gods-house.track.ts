@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipThisIsGodsHouse = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7swicSuzbwMJWxwEOtIIZ6",
-      externalLink: "https://open.spotify.com/track/7swicSuzbwMJWxwEOtIIZ6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "This is God's House",
   trackType: "studio",
   explicit: false,

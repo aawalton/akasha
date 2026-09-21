@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneOdeToZoom = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0KAQrw260uusQxE5bmIRfE",
-      externalLink: "https://open.spotify.com/track/0KAQrw260uusQxE5bmIRfE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ode to Zoom",
   trackType: "studio",
   explicit: false,

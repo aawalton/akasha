@@ -9,14 +9,6 @@ export const celticWoman2AncientLandDeluxeBeanPhaidin = {
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4RlJP9xY4sXsMCskpdVgR2",
-      externalLink: "https://open.spotify.com/track/4RlJP9xY4sXsMCskpdVgR2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bean Pháidín",
   trackType: "studio",
   explicit: false,

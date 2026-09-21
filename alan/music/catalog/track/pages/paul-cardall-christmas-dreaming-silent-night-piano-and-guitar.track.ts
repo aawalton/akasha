@@ -9,14 +9,6 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44wneGYLtJgJK1wTw4QAMS",
-      externalLink: "https://open.spotify.com/track/44wneGYLtJgJK1wTw4QAMS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Silent Night - Piano and Guitar",
   trackType: "studio",
   explicit: false,

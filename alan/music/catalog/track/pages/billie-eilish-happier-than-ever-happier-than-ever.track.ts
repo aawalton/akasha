@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverHappierThanEver = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4RVwu0g32PAqgUiJoXsdF8",
-      externalLink: "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Happier Than Ever",
   trackType: "studio",
   explicit: true,

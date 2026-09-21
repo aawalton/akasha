@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIBadTime = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YqPDOmooQQIXsRSdbRrwI",
-      externalLink: "https://open.spotify.com/track/1YqPDOmooQQIXsRSdbRrwI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bad Time",
   trackType: "studio",
   explicit: false,

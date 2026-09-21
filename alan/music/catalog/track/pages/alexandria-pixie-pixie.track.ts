@@ -9,14 +9,6 @@ export const alexandriaPixiePixie = {
   partOfCollections: ["release/alexandria-pixie"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1IAS4hF2QOiDWsv0HDVL1H",
-      externalLink: "https://open.spotify.com/track/1IAS4hF2QOiDWsv0HDVL1H",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Pixie",
   trackType: "studio",
   explicit: false,

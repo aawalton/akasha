@@ -9,14 +9,6 @@ export const zaraLarsson1Rooftop = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3dxnBkhHVokELZtzNTgvjc",
-      externalLink: "https://open.spotify.com/track/3dxnBkhHVokELZtzNTgvjc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Rooftop",
   trackType: "studio",
   explicit: true,

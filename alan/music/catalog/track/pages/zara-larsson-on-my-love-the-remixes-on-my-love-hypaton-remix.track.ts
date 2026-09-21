@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveHypatonRemix = {
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2t5aPfRRi1vgQPPZ0r7LU2",
-      externalLink: "https://open.spotify.com/track/2t5aPfRRi1vgQPPZ0r7LU2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love - Hypaton Remix",
   trackType: "remix",
   explicit: false,

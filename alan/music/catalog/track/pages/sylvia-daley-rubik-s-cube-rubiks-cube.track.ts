@@ -9,14 +9,6 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   partOfCollections: ["release/sylvia-daley-rubik-s-cube", "release/sylvia-daley-secure"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1MMxAQ4nxkNdCzai0UdlPq",
-      externalLink: "https://open.spotify.com/track/1MMxAQ4nxkNdCzai0UdlPq",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Rubik's Cube",
   trackType: "studio",
   explicit: false,

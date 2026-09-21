@@ -9,14 +9,6 @@ export const coldplayHigherPowerTiestoRemixHigherPowerTiestoRemix = {
   partOfCollections: ["release/coldplay-higher-power-tiesto-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "04zCkONaIDxTx2gDjV1yCd",
-      externalLink: "https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Higher Power - Tiësto Remix",
   trackType: "remix",
   explicit: false,

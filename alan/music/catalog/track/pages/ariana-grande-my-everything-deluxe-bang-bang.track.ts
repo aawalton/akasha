@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeBangBang = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "466s1BacUmiRdR3ISvNjyx",
-      externalLink: "https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang",
   trackType: "studio",
   explicit: false,

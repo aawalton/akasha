@@ -12,14 +12,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarder = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7HE1FnMtSsRotzIAQPXpr5",
-      externalLink: "https://open.spotify.com/track/7HE1FnMtSsRotzIAQPXpr5",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Love Me Harder",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zxy3SfQBjg5YLkqit6eB8",
-      externalLink: "https://open.spotify.com/track/4zxy3SfQBjg5YLkqit6eB8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Is She At The Game?",
   trackType: "studio",
   explicit: false,

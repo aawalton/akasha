@@ -9,14 +9,6 @@ export const auroraComeCloserSideBySide = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mxcwu4cs5KsMmoP37l68U",
-      externalLink: "https://open.spotify.com/track/5mxcwu4cs5KsMmoP37l68U",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "SIDE BY SIDE",
   trackType: "studio",
   explicit: false,

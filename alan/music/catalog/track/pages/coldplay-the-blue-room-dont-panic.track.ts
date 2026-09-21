@@ -9,14 +9,6 @@ export const coldplayTheBlueRoomDontPanic = {
   partOfCollections: ["release/coldplay-the-blue-room"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MbCcvzLYu3xq6OgEkSbhC",
-      externalLink: "https://open.spotify.com/track/0MbCcvzLYu3xq6OgEkSbhC",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Don't Panic",
   trackType: "studio",
   explicit: false,

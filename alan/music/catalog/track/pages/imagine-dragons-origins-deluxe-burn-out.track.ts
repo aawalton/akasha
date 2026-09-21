@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeBurnOut = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Q7zuH8VNu7aLappSusPu6",
-      externalLink: "https://open.spotify.com/track/5Q7zuH8VNu7aLappSusPu6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Burn Out",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerREM = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xWH8zYtDeS9mW1JJG23VZ",
-      externalLink: "https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "R.E.M",
   trackType: "studio",
   explicit: true,

@@ -12,14 +12,6 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XDcWDGnFLs3P3F0XfIpgN",
-      externalLink: "https://open.spotify.com/track/5XDcWDGnFLs3P3F0XfIpgN",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Santa, Can’t You Hear Me",
   trackType: "studio",
   explicit: false,

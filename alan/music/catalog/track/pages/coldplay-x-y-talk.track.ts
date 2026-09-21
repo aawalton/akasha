@@ -9,14 +9,6 @@ export const coldplayXYTalk = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4wzt5Rrk3W98pHXAqutuJw",
-      externalLink: "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Talk",
   trackType: "studio",
   explicit: false,

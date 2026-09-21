@@ -9,14 +9,6 @@ export const emeiScatterbrainDeluxeHumanBeingDemo = {
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "304dMIr0dsQ9JUliawZVKT",
-      externalLink: "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Human Being - Demo",
   trackType: "demo",
   explicit: false,

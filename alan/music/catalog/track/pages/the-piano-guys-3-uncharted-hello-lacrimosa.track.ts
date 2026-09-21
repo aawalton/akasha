@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedHelloLacrimosa = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5KaNi4AEXhiqfouONO5fM0",
-      externalLink: "https://open.spotify.com/track/5KaNi4AEXhiqfouONO5fM0",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Hello / Lacrimosa",
   trackType: "studio",
   explicit: false,

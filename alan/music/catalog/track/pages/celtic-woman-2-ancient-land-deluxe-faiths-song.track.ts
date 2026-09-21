@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeFaithsSong = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Ds7wfGUQwrQQ959Seu40N",
-      externalLink: "https://open.spotify.com/track/3Ds7wfGUQwrQQ959Seu40N",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Faith’s Song",
   trackType: "studio",
   explicit: false,

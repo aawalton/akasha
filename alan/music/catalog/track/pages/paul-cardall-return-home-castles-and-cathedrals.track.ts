@@ -9,14 +9,6 @@ export const paulCardallReturnHomeCastlesAndCathedrals = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YNU9Vt6Ql5ljrvyJNsGVs",
-      externalLink: "https://open.spotify.com/track/1YNU9Vt6Ql5ljrvyJNsGVs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Castles and Cathedrals",
   trackType: "studio",
   explicit: false,

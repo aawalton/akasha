@@ -9,14 +9,6 @@ export const imagineDragonsThunderWithKFlayOfficialRemixThunderWithKFlayOfficial
   partOfCollections: ["release/imagine-dragons-thunder-with-k-flay-official-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nNtzvg3ZybWW1Tjqi4NFf",
-      externalLink: "https://open.spotify.com/track/2nNtzvg3ZybWW1Tjqi4NFf",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thunder (With K.Flay) - Official Remix",
   trackType: "remix",
   explicit: false,

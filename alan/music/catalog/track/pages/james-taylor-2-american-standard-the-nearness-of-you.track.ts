@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bIzGu5WuGhhH1d5hU5Rmh",
-      externalLink: "https://open.spotify.com/track/2bIzGu5WuGhhH1d5hU5Rmh",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Nearness Of You",
   trackType: "studio",
   explicit: false,

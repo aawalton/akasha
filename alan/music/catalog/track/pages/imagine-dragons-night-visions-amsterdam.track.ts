@@ -13,14 +13,6 @@ export const imagineDragonsNightVisionsAmsterdam = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46bkeaB7DA45q7PdKWLFkR",
-      externalLink: "https://open.spotify.com/track/46bkeaB7DA45q7PdKWLFkR",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Amsterdam",
   trackType: "studio",
   explicit: false,

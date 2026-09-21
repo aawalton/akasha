@@ -9,14 +9,6 @@ export const coldplayEverydayLifeTroubleInTown = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45PqOIkZ9PdCjsCJQYzx9G",
-      externalLink: "https://open.spotify.com/track/45PqOIkZ9PdCjsCJQYzx9G",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Trouble In Town",
   trackType: "studio",
   explicit: true,

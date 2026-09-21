@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleOurChildren = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "09s74kCqiu54xoeSEDoXDH",
-      externalLink: "https://open.spotify.com/track/09s74kCqiu54xoeSEDoXDH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Children",
   trackType: "studio",
   explicit: false,

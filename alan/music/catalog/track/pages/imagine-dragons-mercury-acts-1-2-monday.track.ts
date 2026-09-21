@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Monday = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "747LeNCUC3bF2h43E73rFh",
-      externalLink: "https://open.spotify.com/track/747LeNCUC3bF2h43E73rFh",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Monday",
   trackType: "studio",
   explicit: false,

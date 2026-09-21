@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsEpUptight = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Xu1Tv7fyA8cnikLOGNgG4",
-      externalLink: "https://open.spotify.com/track/3Xu1Tv7fyA8cnikLOGNgG4",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Uptight",
   trackType: "studio",
   explicit: false,

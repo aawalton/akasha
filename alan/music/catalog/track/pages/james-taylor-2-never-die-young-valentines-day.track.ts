@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungValentinesDay = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4xqPLj6Icd85nKRstenuQx",
-      externalLink: "https://open.spotify.com/track/4xqPLj6Icd85nKRstenuQx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Valentine's Day",
   trackType: "studio",
   explicit: false,

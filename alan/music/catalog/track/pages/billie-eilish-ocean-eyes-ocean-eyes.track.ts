@@ -9,14 +9,6 @@ export const billieEilishOceanEyesOceanEyes = {
   partOfCollections: ["release/billie-eilish-ocean-eyes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2uIX8YMNjGMD7441kqyyNU",
-      externalLink: "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "ocean eyes",
   trackType: "studio",
   explicit: false,

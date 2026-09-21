@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreaminLiveFromLond
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63ahDGtV2EGSs6etOGrnkc",
-      externalLink: "https://open.spotify.com/track/63ahDGtV2EGSs6etOGrnkc",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Daydreamin' - Live from London",
   trackType: "live",
   explicit: false,

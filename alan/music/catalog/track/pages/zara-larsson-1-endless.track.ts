@@ -9,14 +9,6 @@ export const zaraLarsson1Endless = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "381rMzk1u46CsMKmrlWoss",
-      externalLink: "https://open.spotify.com/track/381rMzk1u46CsMKmrlWoss",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Endless",
   trackType: "studio",
   explicit: false,

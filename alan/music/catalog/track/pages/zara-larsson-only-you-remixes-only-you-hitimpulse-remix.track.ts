@@ -9,14 +9,6 @@ export const zaraLarssonOnlyYouRemixesOnlyYouHitimpulseRemix = {
   partOfCollections: ["release/zara-larsson-only-you-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2tCcvcUwwq5nzY1uRpnXM8",
-      externalLink: "https://open.spotify.com/track/2tCcvcUwwq5nzY1uRpnXM8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only You - Hitimpulse Remix",
   trackType: "remix",
   explicit: false,

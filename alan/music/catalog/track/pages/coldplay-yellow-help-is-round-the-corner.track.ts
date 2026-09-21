@@ -9,14 +9,6 @@ export const coldplayYellowHelpIsRoundTheCorner = {
   partOfCollections: ["release/coldplay-yellow"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1AmYC6YsrtkxpTfiv3nFBn",
-      externalLink: "https://open.spotify.com/track/1AmYC6YsrtkxpTfiv3nFBn",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Help Is Round the Corner",
   trackType: "studio",
   explicit: false,

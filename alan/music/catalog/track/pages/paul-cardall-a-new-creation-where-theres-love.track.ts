@@ -9,14 +9,6 @@ export const paulCardallANewCreationWhereTheresLove = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bBUannItBxVnfl5KecDhn",
-      externalLink: "https://open.spotify.com/track/2bBUannItBxVnfl5KecDhn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where There's Love",
   trackType: "studio",
   explicit: false,

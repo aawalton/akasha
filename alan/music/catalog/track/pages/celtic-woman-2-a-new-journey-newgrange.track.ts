@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyNewgrange = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5N5sHFKi47SjQASUnxNZVO",
-      externalLink: "https://open.spotify.com/track/5N5sHFKi47SjQASUnxNZVO",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Newgrange",
   trackType: "studio",
   explicit: false,

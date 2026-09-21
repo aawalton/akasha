@@ -9,14 +9,6 @@ export const coldplayXYLow = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1BBtng1KOF0JuC6bSNgGmp",
-      externalLink: "https://open.spotify.com/track/1BBtng1KOF0JuC6bSNgGmp",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Low",
   trackType: "studio",
   explicit: false,

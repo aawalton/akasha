@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAfterTheStorm = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6bQFFKr87AsRz6yMhKC1jx",
-      externalLink: "https://open.spotify.com/track/6bQFFKr87AsRz6yMhKC1jx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "After The Storm",
   trackType: "studio",
   explicit: false,

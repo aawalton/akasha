@@ -9,14 +9,6 @@ export const coldplayEverydayLifeEverydayLife = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0h9fnCSnbUgOEgibnQByFv",
-      externalLink: "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Everyday Life",
   trackType: "studio",
   explicit: false,

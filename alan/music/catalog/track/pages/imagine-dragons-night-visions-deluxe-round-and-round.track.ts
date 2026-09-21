@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsDeluxeRoundAndRound = {
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6pLhhL7EzoVWoyvyTBjqP6",
-      externalLink: "https://open.spotify.com/track/6pLhhL7EzoVWoyvyTBjqP6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Round And Round",
   trackType: "studio",
   explicit: false,

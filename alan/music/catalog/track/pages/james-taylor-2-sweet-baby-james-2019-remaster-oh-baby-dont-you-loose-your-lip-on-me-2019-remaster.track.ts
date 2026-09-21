@@ -9,14 +9,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3oIO9p1JREoHLDwLWOwYhN",
-      externalLink: "https://open.spotify.com/track/3oIO9p1JREoHLDwLWOwYhN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Oh Baby, Don't You Loose Your Lip on Me - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

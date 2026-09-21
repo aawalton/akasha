@@ -9,14 +9,6 @@ export const vinnyMarchiBewareOfTheSirenBewareOfTheSiren = {
   partOfCollections: ["release/vinny-marchi-beware-of-the-siren"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HzuoKEBuADqZAHaYmegqZ",
-      externalLink: "https://open.spotify.com/track/4HzuoKEBuADqZAHaYmegqZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Beware of the Siren",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallPassingTimeLeavingHome = {
   partOfCollections: ["release/paul-cardall-passing-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ICi7X5G3e1DM0F3woWhp1",
-      externalLink: "https://open.spotify.com/track/1ICi7X5G3e1DM0F3woWhp1",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Leaving Home",
   trackType: "studio",
   explicit: false,

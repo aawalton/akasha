@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsYouRaiseMeUp = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1UNpf0gMZKFuHg5s6pDTEs",
-      externalLink: "https://open.spotify.com/track/1UNpf0gMZKFuHg5s6pDTEs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Raise Me Up",
   trackType: "studio",
   explicit: false,

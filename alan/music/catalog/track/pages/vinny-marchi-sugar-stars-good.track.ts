@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsGood = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12XwertpK0Q36AyuHgDA3P",
-      externalLink: "https://open.spotify.com/track/12XwertpK0Q36AyuHgDA3P",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "good",
   trackType: "studio",
   explicit: true,

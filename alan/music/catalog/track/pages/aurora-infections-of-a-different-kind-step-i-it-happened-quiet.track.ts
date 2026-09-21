@@ -12,14 +12,6 @@ export const auroraInfectionsOfADifferentKindStepIItHappenedQuiet = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yXXv7MH5jYTDlOltMbdvt",
-      externalLink: "https://open.spotify.com/track/0yXXv7MH5jYTDlOltMbdvt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "It Happened Quiet",
   trackType: "studio",
   explicit: false,

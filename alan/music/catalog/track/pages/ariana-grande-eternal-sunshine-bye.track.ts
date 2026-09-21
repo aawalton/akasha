@@ -16,14 +16,6 @@ export const arianaGrandeEternalSunshineBye = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Rweq7vNjK4kZBbGrmxQsl",
-      externalLink: "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "bye",
   trackType: "studio",
   explicit: false,

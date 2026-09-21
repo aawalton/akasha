@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionOurLittleAngel = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5r37KfoFIhOEPmIA71IUdC",
-      externalLink: "https://open.spotify.com/track/5r37KfoFIhOEPmIA71IUdC",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Little Angel",
   trackType: "studio",
   explicit: false,

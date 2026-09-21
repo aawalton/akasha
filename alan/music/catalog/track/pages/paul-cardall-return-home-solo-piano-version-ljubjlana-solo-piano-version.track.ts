@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionLjubjlanaSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Eri4gLzpPpRALlY6ALVeQ",
-      externalLink: "https://open.spotify.com/track/2Eri4gLzpPpRALlY6ALVeQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ljubjlana - Solo Piano Version",
   trackType: "version",
   explicit: false,

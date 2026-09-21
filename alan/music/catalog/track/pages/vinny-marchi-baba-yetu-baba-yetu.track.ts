@@ -9,14 +9,6 @@ export const vinnyMarchiBabaYetuBabaYetu = {
   partOfCollections: ["release/vinny-marchi-baba-yetu"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5vk0vzanBvEcQ4GpNdNxZM",
-      externalLink: "https://open.spotify.com/track/5vk0vzanBvEcQ4GpNdNxZM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Baba Yetu",
   trackType: "studio",
   explicit: false,

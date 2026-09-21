@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasGoodKingWenceslas = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7bhwnZvz6oDszzeGAFG6kn",
-      externalLink: "https://open.spotify.com/track/7bhwnZvz6oDszzeGAFG6kn",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Good King Wenceslas",
   trackType: "studio",
   explicit: false,

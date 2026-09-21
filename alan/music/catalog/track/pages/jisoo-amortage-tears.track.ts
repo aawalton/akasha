@@ -9,14 +9,6 @@ export const jisooAmortageTears = {
   partOfCollections: ["release/jisoo-amortage"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "08fvSPSKjoF4vmoEtcGain",
-      externalLink: "https://open.spotify.com/track/08fvSPSKjoF4vmoEtcGain",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "TEARS",
   trackType: "studio",
   explicit: false,

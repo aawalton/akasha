@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionRedPoppyFieldsSoloPianoVersion
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2tPAIjnCze610K2HRNfuY6",
-      externalLink: "https://open.spotify.com/track/2tPAIjnCze610K2HRNfuY6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Red Poppy Fields - Solo Piano Version",
   trackType: "version",
   explicit: false,

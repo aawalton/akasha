@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoOurBeatingHeartsSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "32UMKSrABdL44m3Te70kji",
-      externalLink: "https://open.spotify.com/track/32UMKSrABdL44m3Te70kji",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Beating Hearts - Solo Piano Version",
   trackType: "version",
   explicit: false,

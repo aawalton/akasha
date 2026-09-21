@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsDeluxeEveryNight = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ICyhgONt8SyBo9R8vIelt",
-      externalLink: "https://open.spotify.com/track/2ICyhgONt8SyBo9R8vIelt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Every Night",
   trackType: "studio",
   explicit: false,

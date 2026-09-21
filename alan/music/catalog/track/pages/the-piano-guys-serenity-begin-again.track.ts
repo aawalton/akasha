@@ -9,14 +9,6 @@ export const thePianoGuysSerenityBeginAgain = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ADYtCeB7Fi4OLQ3bFLpHg",
-      externalLink: "https://open.spotify.com/track/4ADYtCeB7Fi4OLQ3bFLpHg",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Begin Again",
   trackType: "studio",
   explicit: false,

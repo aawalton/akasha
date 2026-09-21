@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionShenandoahTheContr
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4RGO5V94jxXC7cUwGZN7wg",
-      externalLink: "https://open.spotify.com/track/4RGO5V94jxXC7cUwGZN7wg",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shenandoah - The Contradiction",
   trackType: "studio",
   explicit: false,

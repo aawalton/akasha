@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterShowerThePeople2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Pwcxq35Hl2kqwUVd5XCRg",
-      externalLink: "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shower the People - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

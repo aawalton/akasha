@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackPleaseMammy = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2UFzjMoVu3OlfMheLAAvhg",
-      externalLink: "https://open.spotify.com/track/2UFzjMoVu3OlfMheLAAvhg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Please Mammy",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryAmazingGrace20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3zxVJbnHfMofEvSNAPLZyc",
-      externalLink: "https://open.spotify.com/track/3zxVJbnHfMofEvSNAPLZyc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amazing Grace - 20th Anniversary",
   trackType: "studio",
   explicit: false,

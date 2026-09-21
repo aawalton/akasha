@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveGlassOfWaterLiveInSydney2009 = {
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6MR1HlTg8ARX1MqntlbDpr",
-      externalLink: "https://open.spotify.com/track/6MR1HlTg8ARX1MqntlbDpr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Glass of Water - Live in Sydney, 2009",
   trackType: "live",
   explicit: false,

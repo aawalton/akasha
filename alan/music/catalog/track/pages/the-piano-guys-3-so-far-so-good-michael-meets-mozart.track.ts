@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodMichaelMeetsMozart = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ro0V80w0BSF53D8fCI983",
-      externalLink: "https://open.spotify.com/track/2ro0V80w0BSF53D8fCI983",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Michael Meets Mozart",
   trackType: "studio",
   explicit: false,

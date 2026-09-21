@@ -9,14 +9,6 @@ export const coldplayXYWhiteShadows = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WWz2AaqxLoO0fa9ou6Fqc",
-      externalLink: "https://open.spotify.com/track/0WWz2AaqxLoO0fa9ou6Fqc",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "White Shadows",
   trackType: "studio",
   explicit: false,

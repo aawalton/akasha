@@ -9,14 +9,6 @@ export const celticWoman2LullabyWalkingInTheAir = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3J3PDJmXoZeZ36Q9j5hVOI",
-      externalLink: "https://open.spotify.com/track/3J3PDJmXoZeZ36Q9j5hVOI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walking In The Air",
   trackType: "studio",
   explicit: false,

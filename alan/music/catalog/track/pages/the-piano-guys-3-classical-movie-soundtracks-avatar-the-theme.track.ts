@@ -9,14 +9,6 @@ export const thePianoGuys3ClassicalMovieSoundtracksAvatarTheTheme = {
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3sgSu7JO747xlrm8x0WRa6",
-      externalLink: "https://open.spotify.com/track/3sgSu7JO747xlrm8x0WRa6",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Avatar (The Theme)",
   trackType: "studio",
   explicit: false,

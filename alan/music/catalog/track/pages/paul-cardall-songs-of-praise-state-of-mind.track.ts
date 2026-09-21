@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseStateOfMind = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XfLClx1ygKz4v940yDpWs",
-      externalLink: "https://open.spotify.com/track/5XfLClx1ygKz4v940yDpWs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "State of Mind",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodAThousandYears = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4UVKdTjE4WobaXwvjapVGn",
-      externalLink: "https://open.spotify.com/track/4UVKdTjE4WobaXwvjapVGn",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Thousand Years",
   trackType: "studio",
   explicit: false,

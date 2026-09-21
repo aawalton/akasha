@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleGodReligion = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Kpc9XSuml0TEwvs3kABns",
-      externalLink: "https://open.spotify.com/track/2Kpc9XSuml0TEwvs3kABns",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God & Religion",
   trackType: "studio",
   explicit: false,

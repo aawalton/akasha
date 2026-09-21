@@ -9,14 +9,6 @@ export const coldplayMusicOfTheSpheresHigherPower = {
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65OR4ywy8Cgs3FDHK82Idl",
-      externalLink: "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Higher Power",
   trackType: "studio",
   explicit: false,

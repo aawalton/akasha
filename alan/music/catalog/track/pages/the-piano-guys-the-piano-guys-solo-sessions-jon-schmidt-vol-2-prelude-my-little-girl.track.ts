@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2PreludeMyLittleGi
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4xCaFcsJGOLm6b3CADiofW",
-      externalLink: "https://open.spotify.com/track/4xCaFcsJGOLm6b3CADiofW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Prelude (My Little Girl)",
   trackType: "studio",
   explicit: false,

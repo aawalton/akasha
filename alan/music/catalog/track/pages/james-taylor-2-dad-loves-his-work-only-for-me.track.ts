@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkOnlyForMe = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1TMZGTMNupwBrtltZErGlX",
-      externalLink: "https://open.spotify.com/track/1TMZGTMNupwBrtltZErGlX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only for Me",
   trackType: "studio",
   explicit: false,

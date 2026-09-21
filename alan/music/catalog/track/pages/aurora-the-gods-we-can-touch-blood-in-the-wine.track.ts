@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "76cIh6IWGLs4GNlg8RC4vC",
-      externalLink: "https://open.spotify.com/track/76cIh6IWGLs4GNlg8RC4vC",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Blood In The Wine",
   trackType: "studio",
   explicit: false,

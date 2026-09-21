@@ -9,14 +9,6 @@ export const thePianoGuys310MoreThanAFeelingLongTime = {
   partOfCollections: ["release/the-piano-guys-3-10"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7HCwlk7B71Bi8f8oce9kc4",
-      externalLink: "https://open.spotify.com/track/7HCwlk7B71Bi8f8oce9kc4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "More Than a Feeling / Long Time",
   trackType: "studio",
   explicit: false,

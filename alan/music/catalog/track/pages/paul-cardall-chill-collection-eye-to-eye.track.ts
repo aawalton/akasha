@@ -9,14 +9,6 @@ export const paulCardallChillCollectionEyeToEye = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "454DD5AAy0B5RemhQybJEJ",
-      externalLink: "https://open.spotify.com/track/454DD5AAy0B5RemhQybJEJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eye to Eye",
   trackType: "studio",
   explicit: false,

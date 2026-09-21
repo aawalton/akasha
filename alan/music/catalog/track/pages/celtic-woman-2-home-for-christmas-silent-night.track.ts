@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasSilentNight = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4o0Lny4Nn4kqhamRex12DR",
-      externalLink: "https://open.spotify.com/track/4o0Lny4Nn4kqhamRex12DR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Silent Night",
   trackType: "studio",
   explicit: false,

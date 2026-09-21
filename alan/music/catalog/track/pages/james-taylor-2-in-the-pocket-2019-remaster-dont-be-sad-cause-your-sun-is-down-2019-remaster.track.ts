@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterDontBeSadCauseYourSunIsDown2019R
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ZdTAagUKXRcgF9xx5dhs4",
-      externalLink: "https://open.spotify.com/track/1ZdTAagUKXRcgF9xx5dhs4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Be Sad 'Cause Your Sun Is Down - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

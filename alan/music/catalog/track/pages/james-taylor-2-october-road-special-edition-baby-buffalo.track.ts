@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionBabyBuffalo = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zwSHxzHHLv6pPCwj1QrxD",
-      externalLink: "https://open.spotify.com/track/4zwSHxzHHLv6pPCwj1QrxD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Baby Buffalo",
   trackType: "studio",
   explicit: false,

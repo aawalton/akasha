@@ -9,14 +9,6 @@ export const imagineDragonsLoomGodsDontPray = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1QO4QjFDpibHdYoOlTGH6x",
-      externalLink: "https://open.spotify.com/track/1QO4QjFDpibHdYoOlTGH6x",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Gods Don’t Pray",
   trackType: "studio",
   explicit: false,

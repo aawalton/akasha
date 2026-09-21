@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendNeverGettingLaid = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PdUyYYw9sGU0yhLrpeHKt",
-      externalLink: "https://open.spotify.com/track/1PdUyYYw9sGU0yhLrpeHKt",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Never Getting Laid",
   trackType: "studio",
   explicit: true,

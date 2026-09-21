@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodTheCelloSong = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7aqaMGwHRSqmBUr0zIAyuP",
-      externalLink: "https://open.spotify.com/track/7aqaMGwHRSqmBUr0zIAyuP",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Cello Song",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sylviaDaleyContortionistContortionist = {
   partOfCollections: ["release/sylvia-daley-contortionist"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3o6bfCuJobW53Bm0BuycAh",
-      externalLink: "https://open.spotify.com/track/3o6bfCuJobW53Bm0BuycAh",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Contortionist",
   trackType: "studio",
   explicit: false,

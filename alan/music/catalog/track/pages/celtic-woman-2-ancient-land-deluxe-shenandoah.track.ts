@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Pl2TWrYtTvenhOog129Dc",
-      externalLink: "https://open.spotify.com/track/5Pl2TWrYtTvenhOog129Dc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shenandoah",
   trackType: "studio",
   explicit: false,

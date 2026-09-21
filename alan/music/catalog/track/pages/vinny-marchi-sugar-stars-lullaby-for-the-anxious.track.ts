@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsLullabyForTheAnxious = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cjOwkLUUasPNEIK02OhpD",
-      externalLink: "https://open.spotify.com/track/3cjOwkLUUasPNEIK02OhpD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lullaby for the Anxious",
   trackType: "studio",
   explicit: false,

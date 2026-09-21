@@ -12,14 +12,6 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3jjBPF4NDMCU51psU8JPpR",
-      externalLink: "https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
   trackType: "remix",
   explicit: true,

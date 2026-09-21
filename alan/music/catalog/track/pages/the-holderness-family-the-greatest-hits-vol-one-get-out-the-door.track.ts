@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneGetOutTheDoor = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ylfCoFvdhfBqccUSkb0ih",
-      externalLink: "https://open.spotify.com/track/5ylfCoFvdhfBqccUSkb0ih",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Get Out the Door",
   trackType: "studio",
   explicit: false,

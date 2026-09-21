@@ -12,14 +12,6 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YKqgzI9qKZDpzUoptGANJ",
-      externalLink: "https://open.spotify.com/track/3YKqgzI9qKZDpzUoptGANJ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Didn't Come All This Way",
   trackType: "studio",
   explicit: false,

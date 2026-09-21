@@ -9,14 +9,6 @@ export const paulCardallChillCollectionDanzaDelAmor = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0uiEkbI69LuCvxNp2Nagop",
-      externalLink: "https://open.spotify.com/track/0uiEkbI69LuCvxNp2Nagop",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Danza Del Amor",
   trackType: "studio",
   explicit: false,

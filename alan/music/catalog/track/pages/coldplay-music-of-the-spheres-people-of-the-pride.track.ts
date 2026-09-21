@@ -9,14 +9,6 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ophZLHA9mwSZhQSmboyDN",
-      externalLink: "https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "People of The Pride",
   trackType: "studio",
   explicit: true,

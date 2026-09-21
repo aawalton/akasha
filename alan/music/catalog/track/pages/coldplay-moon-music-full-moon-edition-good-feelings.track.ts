@@ -12,14 +12,6 @@ export const coldplayMoonMusicFullMoonEditionGoodFeelings = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4nmIcNQjEGez4zeJfm5I1F",
-      externalLink: "https://open.spotify.com/track/4nmIcNQjEGez4zeJfm5I1F",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "GOOD FEELiNGS",
   trackType: "studio",
   explicit: false,

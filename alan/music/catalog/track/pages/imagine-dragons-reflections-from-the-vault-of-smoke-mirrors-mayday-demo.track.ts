@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMaydayDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0wJvJKgaRCjTGL4rGJLzKN",
-      externalLink: "https://open.spotify.com/track/0wJvJKgaRCjTGL4rGJLzKN",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Mayday - Demo",
   trackType: "demo",
   explicit: false,

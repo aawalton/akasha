@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOrinocoFlo
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7CV6aGXHTyPsJV8YuJjp8y",
-      externalLink: "https://open.spotify.com/track/7CV6aGXHTyPsJV8YuJjp8y",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Orinoco Flow",
   trackType: "studio",
   explicit: false,

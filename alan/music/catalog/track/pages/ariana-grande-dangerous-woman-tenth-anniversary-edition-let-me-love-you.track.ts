@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLetMeLoveYou = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1gBeG7MWAJJaCcQdWkRO3T",
-      externalLink: "https://open.spotify.com/track/1gBeG7MWAJJaCcQdWkRO3T",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Let Me Love You",
   trackType: "studio",
   explicit: false,

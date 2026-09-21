@@ -9,14 +9,6 @@ export const paulCardallGraceInGriefCelestialSymphony = {
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7hgDwWRa1M4Zb95eWGxZ5L",
-      externalLink: "https://open.spotify.com/track/7hgDwWRa1M4Zb95eWGxZ5L",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Celestial Symphony",
   trackType: "studio",
   explicit: false,

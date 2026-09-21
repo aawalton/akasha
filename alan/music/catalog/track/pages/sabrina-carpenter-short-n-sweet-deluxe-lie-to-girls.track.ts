@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeLieToGirls = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0I6ZBVBb7DXfjVVCM0NmSQ",
-      externalLink: "https://open.spotify.com/track/0I6ZBVBb7DXfjVVCM0NmSQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lie To Girls",
   trackType: "studio",
   explicit: true,

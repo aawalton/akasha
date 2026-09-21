@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionCadillacSong = {
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2zTMXQaRhL8Kx7Uxr0Mdf9",
-      externalLink: "https://open.spotify.com/track/2zTMXQaRhL8Kx7Uxr0Mdf9",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Cadillac Song",
   trackType: "studio",
   explicit: false,

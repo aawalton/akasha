@@ -9,14 +9,6 @@ export const emeiNightAtTheOperaBloom = {
   partOfCollections: ["release/emei-night-at-the-opera"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3mqC2nzHECZP4GLmdKOw2p",
-      externalLink: "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bloom",
   trackType: "studio",
   explicit: true,

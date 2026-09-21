@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleHeartsOfTheFathers = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "17LubQYIUnoxzKPXMUJnEw",
-      externalLink: "https://open.spotify.com/track/17LubQYIUnoxzKPXMUJnEw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hearts of The Fathers",
   trackType: "studio",
   explicit: false,

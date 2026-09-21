@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lShdVp1NzcR6xu1Pl3Oc6",
-      externalLink: "https://open.spotify.com/track/5lShdVp1NzcR6xu1Pl3Oc6",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Winter Wonderland (feat. Chris Botti)",
   trackType: "studio",
   explicit: false,

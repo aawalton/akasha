@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeNatural = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2FY7b99s15jUprqC0M5NCT",
-      externalLink: "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Natural",
   trackType: "studio",
   explicit: false,

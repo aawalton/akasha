@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2QZB1C9qniDhS6iqxBG8y6",
-      externalLink: "https://open.spotify.com/track/2QZB1C9qniDhS6iqxBG8y6",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "twilight zone - instrumental",
   trackType: "instrumental",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallAncestorsAllIsWell = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2AyCNfJNdFWBikXDqzNqGX",
-      externalLink: "https://open.spotify.com/track/2AyCNfJNdFWBikXDqzNqGX",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All Is Well",
   trackType: "studio",
   explicit: false,

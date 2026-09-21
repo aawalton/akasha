@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeeling = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3g9GiShiKAE3ouITcW7slh",
-      externalLink: "https://open.spotify.com/track/3g9GiShiKAE3ouITcW7slh",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "What Is This Feeling?",
   trackType: "studio",
   explicit: false,

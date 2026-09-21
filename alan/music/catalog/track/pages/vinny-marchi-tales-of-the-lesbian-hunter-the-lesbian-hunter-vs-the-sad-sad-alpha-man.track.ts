@@ -9,14 +9,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheLesbianHunterVsTheSadSadAlphaM
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qU65Gw7v1U498o1rb6NAq",
-      externalLink: "https://open.spotify.com/track/5qU65Gw7v1U498o1rb6NAq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Lesbian Hunter vs The Sad Sad Alpha Man",
   trackType: "studio",
   explicit: false,

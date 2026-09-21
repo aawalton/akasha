@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12ItsOk = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0p5UWw5wVyzPOgCIx5T0tn",
-      externalLink: "https://open.spotify.com/track/0p5UWw5wVyzPOgCIx5T0tn",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Ok",
   trackType: "studio",
   explicit: false,

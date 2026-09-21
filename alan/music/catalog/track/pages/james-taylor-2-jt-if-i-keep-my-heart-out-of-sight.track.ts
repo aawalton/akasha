@@ -9,14 +9,6 @@ export const jamesTaylor2JtIfIKeepMyHeartOutOfSight = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tD1CgmaggmwHSit9vVjf2",
-      externalLink: "https://open.spotify.com/track/7tD1CgmaggmwHSit9vVjf2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "If I Keep My Heart Out of Sight",
   trackType: "studio",
   explicit: false,

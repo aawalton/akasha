@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenReturnToEden = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Usvxr0uLh0taMdOuMTJPs",
-      externalLink: "https://open.spotify.com/track/5Usvxr0uLh0taMdOuMTJPs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Return To Eden",
   trackType: "studio",
   explicit: false,

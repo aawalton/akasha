@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeWestSide = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7cFYqReKEigTxTm0bNE6YA",
-      externalLink: "https://open.spotify.com/track/7cFYqReKEigTxTm0bNE6YA",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "west side",
   trackType: "studio",
   explicit: false,

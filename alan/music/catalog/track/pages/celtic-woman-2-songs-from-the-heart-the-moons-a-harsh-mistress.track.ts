@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartTheMoonsAHarshMistress = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XBl78krtFcbi9Tz8NQp9a",
-      externalLink: "https://open.spotify.com/track/4XBl78krtFcbi9Tz8NQp9a",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Moon's A Harsh Mistress",
   trackType: "studio",
   explicit: false,

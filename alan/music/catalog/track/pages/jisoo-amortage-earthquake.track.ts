@@ -9,14 +9,6 @@ export const jisooAmortageEarthquake = {
   partOfCollections: ["release/jisoo-amortage"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "10zywlg5b0gQOC3q1A7ADx",
-      externalLink: "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "earthquake",
   trackType: "studio",
   explicit: false,

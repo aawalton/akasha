@@ -9,14 +9,6 @@ export const jisooMeAllEyesOnMe = {
   partOfCollections: ["release/jisoo-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2YXswOX5aKv6OHRKUcAMLQ",
-      externalLink: "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "All Eyes On Me",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const theHoldernessFamilyBestOfThe90sItsGonnaBeMay = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4DVvbcl2Grx8nowT4FMQzc",
-      externalLink: "https://open.spotify.com/track/4DVvbcl2Grx8nowT4FMQzc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "It's Gonna Be May",
   trackType: "studio",
   explicit: false,

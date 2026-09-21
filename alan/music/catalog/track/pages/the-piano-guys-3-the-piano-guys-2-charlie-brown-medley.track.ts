@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2CharlieBrownMedley = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1JTKFpBQZDTyBmJMz2CK6t",
-      externalLink: "https://open.spotify.com/track/1JTKFpBQZDTyBmJMz2CK6t",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Charlie Brown Medley",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbieWhatWasIMadeFo
   partOfCollections: ["release/billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6wf7Yu7cxBSPrRlWeSeK0Q",
-      externalLink: "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
   trackType: "studio",
   explicit: false,

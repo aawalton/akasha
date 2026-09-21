@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeStuck = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Z9SQPYU95S6M1vcbLsDt2",
-      externalLink: "https://open.spotify.com/track/5Z9SQPYU95S6M1vcbLsDt2",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Stuck",
   trackType: "studio",
   explicit: false,

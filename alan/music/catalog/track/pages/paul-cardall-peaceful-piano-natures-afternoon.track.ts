@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoNaturesAfternoon = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6cXVYNqcoEvYXtJmxFSsh9",
-      externalLink: "https://open.spotify.com/track/6cXVYNqcoEvYXtJmxFSsh9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Nature's Afternoon",
   trackType: "studio",
   explicit: false,

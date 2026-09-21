@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsWeThreeKings = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4j7ifaHv7N34zbP3Gxo5mn",
-      externalLink: "https://open.spotify.com/track/4j7ifaHv7N34zbP3Gxo5mn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "We Three Kings",
   trackType: "studio",
   explicit: false,

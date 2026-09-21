@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMayItBe = 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7AsWhzj5nIlWTlOMdzBM5B",
-      externalLink: "https://open.spotify.com/track/7AsWhzj5nIlWTlOMdzBM5B",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "May It Be",
   trackType: "studio",
   explicit: false,

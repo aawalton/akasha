@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedCelloopa = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2phRXHs8UKSvVvhoOQhjJt",
-      externalLink: "https://open.spotify.com/track/2phRXHs8UKSvVvhoOQhjJt",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Celloopa",
   trackType: "studio",
   explicit: false,

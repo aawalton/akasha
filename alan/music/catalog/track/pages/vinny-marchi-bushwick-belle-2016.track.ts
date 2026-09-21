@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelle2016 = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "40pu6T8KJPyleaSNT8IU3s",
-      externalLink: "https://open.spotify.com/track/40pu6T8KJPyleaSNT8IU3s",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "2016",
   trackType: "studio",
   explicit: false,

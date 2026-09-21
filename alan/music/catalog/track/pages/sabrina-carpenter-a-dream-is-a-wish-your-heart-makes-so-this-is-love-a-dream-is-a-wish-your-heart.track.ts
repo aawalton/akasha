@@ -11,14 +11,6 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLoveADreamIsAWis
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WlCLuC6emWu8kbpaEb0KT",
-      externalLink: "https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Dream is a Wish Your Heart Makes/So This is Love",
   trackType: "studio",
   explicit: false,

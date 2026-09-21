@@ -9,14 +9,6 @@ export const thePianoGuys310ASkyFullOfStars = {
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0OhlRpRBIK15U6ZbE59IIj",
-      externalLink: "https://open.spotify.com/track/0OhlRpRBIK15U6ZbE59IIj",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Sky Full of Stars",
   trackType: "studio",
   explicit: false,

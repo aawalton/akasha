@@ -9,14 +9,6 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
   partOfCollections: ["release/aurora-i-went-too-far-mk-remix-radio-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zrbWqn3uZ1vv2RwdNimjv",
-      externalLink: "https://open.spotify.com/track/0zrbWqn3uZ1vv2RwdNimjv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Went Too Far - MK Remix (Radio Version)",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiOrchestraAccompaniment = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4kavtjeddKdzxTCV20AwMH",
-      externalLink: "https://open.spotify.com/track/4kavtjeddKdzxTCV20AwMH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: Orchestra Accompaniment",
   trackType: "studio",
   explicit: false,

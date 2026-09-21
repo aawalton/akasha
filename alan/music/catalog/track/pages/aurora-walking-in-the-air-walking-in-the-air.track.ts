@@ -9,14 +9,6 @@ export const auroraWalkingInTheAirWalkingInTheAir = {
   partOfCollections: ["release/aurora-walking-in-the-air"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ZWaiAcAc7BTsrTgwTXmnn",
-      externalLink: "https://open.spotify.com/track/1ZWaiAcAc7BTsrTgwTXmnn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Walking In The Air",
   trackType: "studio",
   explicit: false,

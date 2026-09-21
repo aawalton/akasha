@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023DaddyDeuces = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7eYK9cYJvzPlXSTSdqAaj5",
-      externalLink: "https://open.spotify.com/track/7eYK9cYJvzPlXSTSdqAaj5",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Daddy Deuces",
   trackType: "studio",
   explicit: false,

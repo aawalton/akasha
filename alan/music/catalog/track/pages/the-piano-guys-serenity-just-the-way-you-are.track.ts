@@ -9,14 +9,6 @@ export const thePianoGuysSerenityJustTheWayYouAre = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1f34b8HCyxc7dNNVJC9ivJ",
-      externalLink: "https://open.spotify.com/track/1f34b8HCyxc7dNNVJC9ivJ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Just the Way You Are",
   trackType: "studio",
   explicit: false,

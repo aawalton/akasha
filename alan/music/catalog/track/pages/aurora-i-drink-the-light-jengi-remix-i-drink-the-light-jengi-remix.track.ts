@@ -9,14 +9,6 @@ export const auroraIDrinkTheLightJengiRemixIDrinkTheLightJengiRemix = {
   partOfCollections: ["release/aurora-i-drink-the-light-jengi-remix"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5wuqGk5k0CyEa5aaiJMwSR",
-      externalLink: "https://open.spotify.com/track/5wuqGk5k0CyEa5aaiJMwSR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I DRINK THE LIGHT - Jengi Remix",
   trackType: "remix",
   explicit: false,

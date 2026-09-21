@@ -9,14 +9,6 @@ export const coldplayGhostStoriesMagic = {
   partOfCollections: ["release/coldplay-ghost-stories", "release/coldplay-magic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "23khhseCLQqVMCIT1WMAns",
-      externalLink: "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Magic",
   trackType: "studio",
   explicit: false,

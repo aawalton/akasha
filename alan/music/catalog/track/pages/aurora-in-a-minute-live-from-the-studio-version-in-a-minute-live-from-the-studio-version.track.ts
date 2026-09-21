@@ -9,14 +9,6 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
   partOfCollections: ["release/aurora-in-a-minute-live-from-the-studio-version"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49Svtm8RA6SWUHO5Fiv7uv",
-      externalLink: "https://open.spotify.com/track/49Svtm8RA6SWUHO5Fiv7uv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "IN A MINUTE - LIVE FROM THE STUDIO VERSION",
   trackType: "live",
   explicit: false,

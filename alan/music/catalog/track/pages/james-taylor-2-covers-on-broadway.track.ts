@@ -9,14 +9,6 @@ export const jamesTaylor2CoversOnBroadway = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ts4gAyAd4pLMJDdwp9wCS",
-      externalLink: "https://open.spotify.com/track/1ts4gAyAd4pLMJDdwp9wCS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On Broadway",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayMyloXylotoParadise = {
   partOfCollections: ["release/coldplay-mylo-xyloto", "release/coldplay-paradise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6nek1Nin9q48AVZcWs9e9D",
-      externalLink: "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Paradise",
   trackType: "studio",
   explicit: false,

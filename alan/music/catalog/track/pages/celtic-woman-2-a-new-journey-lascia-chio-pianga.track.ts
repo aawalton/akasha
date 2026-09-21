@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyLasciaChioPianga = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tZdUFMmkQRLzGhBZpwdQD",
-      externalLink: "https://open.spotify.com/track/6tZdUFMmkQRLzGhBZpwdQD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lascia Ch'io Pianga",
   trackType: "studio",
   explicit: false,

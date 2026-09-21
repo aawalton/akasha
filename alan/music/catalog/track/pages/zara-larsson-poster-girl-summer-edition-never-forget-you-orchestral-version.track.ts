@@ -9,14 +9,6 @@ export const zaraLarssonPosterGirlSummerEditionNeverForgetYouOrchestralVersion =
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63ZOvLyyZDv0wUqILovbpv",
-      externalLink: "https://open.spotify.com/track/63ZOvLyyZDv0wUqILovbpv",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Never Forget You - Orchestral Version",
   trackType: "version",
   explicit: false,

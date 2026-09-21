@@ -12,14 +12,6 @@ export const paulCardallLivingForEdenHope = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4g9dYMtOJf384x3z3JCzwp",
-      externalLink: "https://open.spotify.com/track/4g9dYMtOJf384x3z3JCzwp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hope",
   trackType: "studio",
   explicit: false,

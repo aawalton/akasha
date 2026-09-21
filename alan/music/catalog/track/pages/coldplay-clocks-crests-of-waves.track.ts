@@ -9,14 +9,6 @@ export const coldplayClocksCrestsOfWaves = {
   partOfCollections: ["release/coldplay-clocks"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ZMqdwtZvvNrpUUTijZem6",
-      externalLink: "https://open.spotify.com/track/5ZMqdwtZvvNrpUUTijZem6",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Crests of Waves",
   trackType: "studio",
   explicit: false,

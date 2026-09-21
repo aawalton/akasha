@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirlCommentary = 
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45TCAYRwaDK3MS27W3yg5W",
-      externalLink: "https://open.spotify.com/track/45TCAYRwaDK3MS27W3yg5W",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "I’m Not That Girl - Commentary",
   trackType: "studio",
   explicit: false,

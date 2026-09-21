@@ -11,14 +11,6 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengersLevitat
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "60EFFQmSfrNMPUMGnfxBbO",
-      externalLink: "https://open.spotify.com/track/60EFFQmSfrNMPUMGnfxBbO",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Levitate - From The Original Motion Picture “Passengers”",
   trackType: "studio",
   explicit: false,

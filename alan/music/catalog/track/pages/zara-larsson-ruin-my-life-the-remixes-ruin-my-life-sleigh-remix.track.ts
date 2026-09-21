@@ -9,14 +9,6 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSleighRemix = {
   partOfCollections: ["release/zara-larsson-ruin-my-life-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yjt2rYEdvxpPu7U9NFtQL",
-      externalLink: "https://open.spotify.com/track/0yjt2rYEdvxpPu7U9NFtQL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ruin My Life - Sleigh Remix",
   trackType: "remix",
   explicit: false,

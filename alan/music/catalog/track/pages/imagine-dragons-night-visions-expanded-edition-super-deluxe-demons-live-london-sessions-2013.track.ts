@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsLiveLondo
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nwYodyzUBEAfqzzyQXoGx",
-      externalLink: "https://open.spotify.com/track/2nwYodyzUBEAfqzzyQXoGx",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Live London Sessions / 2013",
   trackType: "live",
   explicit: false,

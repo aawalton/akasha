@@ -12,14 +12,6 @@ export const thePianoGuys310RewriteTheStars = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6y3fZqqhznBstwpi2RECob",
-      externalLink: "https://open.spotify.com/track/6y3fZqqhznBstwpi2RECob",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rewrite the Stars",
   trackType: "studio",
   explicit: false,

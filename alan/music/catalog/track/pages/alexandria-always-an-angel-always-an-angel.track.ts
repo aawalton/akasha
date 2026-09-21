@@ -9,14 +9,6 @@ export const alexandriaAlwaysAnAngelAlwaysAnAngel = {
   partOfCollections: ["release/alexandria-always-an-angel"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5CziXblfbYNLB4dELQrgq4",
-      externalLink: "https://open.spotify.com/track/5CziXblfbYNLB4dELQrgq4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Always an Angel",
   trackType: "studio",
   explicit: false,

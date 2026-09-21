@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodMakeThatMoneyGirl = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1DJY8zj0Cbglv1kMjDivke",
-      externalLink: "https://open.spotify.com/track/1DJY8zj0Cbglv1kMjDivke",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Make That Money Girl",
   trackType: "studio",
   explicit: false,

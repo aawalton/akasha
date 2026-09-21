@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryIntroMist = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1T7sxJoV7dR2VIZVpLJUP3",
-      externalLink: "https://open.spotify.com/track/1T7sxJoV7dR2VIZVpLJUP3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Intro Mist",
   trackType: "studio",
   explicit: false,

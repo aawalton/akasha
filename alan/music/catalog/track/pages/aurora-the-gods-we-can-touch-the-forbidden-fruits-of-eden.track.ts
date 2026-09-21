@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchTheForbiddenFruitsOfEden = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Wvy4FbsgOel1rv13tpzCP",
-      externalLink: "https://open.spotify.com/track/2Wvy4FbsgOel1rv13tpzCP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Forbidden Fruits Of Eden",
   trackType: "studio",
   explicit: false,

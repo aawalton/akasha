@@ -9,14 +9,6 @@ export const celticWoman2DestinyWalkBesideMe = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5dXieBLFFUDG5tCTs4eCAb",
-      externalLink: "https://open.spotify.com/track/5dXieBLFFUDG5tCTs4eCAb",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walk Beside Me",
   trackType: "studio",
   explicit: false,

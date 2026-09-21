@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveLoveMeHarderLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Q4JJnjX00q8O10OliHhjS",
-      externalLink: "https://open.spotify.com/track/6Q4JJnjX00q8O10OliHhjS",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "love me harder - live",
   trackType: "live",
   explicit: false,

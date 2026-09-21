@@ -12,14 +12,6 @@ export const celticWoman2CelticWomanTheButterfly = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Doqw5c9ilLdxIVbGIPW9k",
-      externalLink: "https://open.spotify.com/track/1Doqw5c9ilLdxIVbGIPW9k",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Butterfly",
   trackType: "studio",
   explicit: false,

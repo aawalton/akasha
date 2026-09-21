@@ -9,14 +9,6 @@ export const vinnyMarchiPoserPoser = {
   partOfCollections: ["release/vinny-marchi-poser"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YAVYFHT3DPMpYK326yat3",
-      externalLink: "https://open.spotify.com/track/3YAVYFHT3DPMpYK326yat3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "POSER",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayTalk2Talk = {
   partOfCollections: ["release/coldplay-talk-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "07TzXoUAtflCfeipNNXFtk",
-      externalLink: "https://open.spotify.com/track/07TzXoUAtflCfeipNNXFtk",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Talk",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenTooYoung = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "694MyEbGgAtoEVYqdtfvp2",
-      externalLink: "https://open.spotify.com/track/694MyEbGgAtoEVYqdtfvp2",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Too Young",
   trackType: "studio",
   explicit: false,

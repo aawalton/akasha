@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2Waterfall = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1XZR9unh2oXTn5aWG60ipY",
-      externalLink: "https://open.spotify.com/track/1XZR9unh2oXTn5aWG60ipY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Waterfall",
   trackType: "studio",
   explicit: false,

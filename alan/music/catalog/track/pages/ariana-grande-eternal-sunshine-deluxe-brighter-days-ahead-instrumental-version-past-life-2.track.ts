@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1I4kQfVvWdKadvAzgcxaT1",
-      externalLink: "https://open.spotify.com/track/1I4kQfVvWdKadvAzgcxaT1",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "past life - instrumental",
   trackType: "instrumental",
   explicit: false,

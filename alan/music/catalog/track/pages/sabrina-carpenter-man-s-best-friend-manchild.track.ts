@@ -13,14 +13,6 @@ export const sabrinaCarpenterManSBestFriendManchild = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2BwO5K8Q7EPAJSGze3AAh9",
-      externalLink: "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Manchild",
   trackType: "studio",
   explicit: true,

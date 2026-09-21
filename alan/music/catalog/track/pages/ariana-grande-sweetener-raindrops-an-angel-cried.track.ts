@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerRaindropsAnAngelCried = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0v2LUO8oTHnkjQ8MmKuXyk",
-      externalLink: "https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "raindrops (an angel cried)",
   trackType: "studio",
   explicit: false,

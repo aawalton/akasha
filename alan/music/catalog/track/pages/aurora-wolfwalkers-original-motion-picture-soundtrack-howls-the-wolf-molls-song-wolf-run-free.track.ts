@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackHowlsTheWolfMollsSo
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20QeXpfRB5GWK46PlXr1In",
-      externalLink: "https://open.spotify.com/track/20QeXpfRB5GWK46PlXr1In",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Howls the Wolf (Moll's Song - Wolf Run Free)",
   trackType: "studio",
   explicit: false,

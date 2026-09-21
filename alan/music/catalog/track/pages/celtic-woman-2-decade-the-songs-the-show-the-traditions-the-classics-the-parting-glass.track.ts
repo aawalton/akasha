@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheParting
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4GrSOtphVKCSE8NIvFjfbw",
-      externalLink: "https://open.spotify.com/track/4GrSOtphVKCSE8NIvFjfbw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Parting Glass",
   trackType: "studio",
   explicit: false,

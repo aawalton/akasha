@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneSanitizedSongsMedley = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Cpu3ra26hOBJduiAoxNza",
-      externalLink: "https://open.spotify.com/track/0Cpu3ra26hOBJduiAoxNza",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sanitized Songs (Medley)",
   trackType: "studio",
   explicit: false,

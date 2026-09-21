@@ -9,14 +9,6 @@ export const coldplayLive2012MajorMinusLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4WyX6hwqB1forx046ilrg2",
-      externalLink: "https://open.spotify.com/track/4WyX6hwqB1forx046ilrg2",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Major Minus - Live",
   trackType: "live",
   explicit: true,

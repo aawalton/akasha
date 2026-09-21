@@ -9,14 +9,6 @@ export const celticWoman2BelieveAwakening = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1akgc5nWDGeA2gKrm1Rj28",
-      externalLink: "https://open.spotify.com/track/1akgc5nWDGeA2gKrm1Rj28",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Awakening",
   trackType: "studio",
   explicit: false,

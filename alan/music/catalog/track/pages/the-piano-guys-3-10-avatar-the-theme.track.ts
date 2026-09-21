@@ -9,14 +9,6 @@ export const thePianoGuys310AvatarTheTheme = {
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-avatar-the-theme"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0tSW7MXYWuazhRtsSi9tPz",
-      externalLink: "https://open.spotify.com/track/0tSW7MXYWuazhRtsSi9tPz",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Avatar (The Theme)",
   trackType: "studio",
   explicit: false,

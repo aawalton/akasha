@@ -9,14 +9,6 @@ export const zaraLarssonAinTMyFaultR3habRemixAintMyFaultR3habRemix = {
   partOfCollections: ["release/zara-larsson-ain-t-my-fault-r3hab-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YPlsrk0Voe8AOa1jyN891",
-      externalLink: "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ain't My Fault - R3hab Remix",
   trackType: "remix",
   explicit: false,

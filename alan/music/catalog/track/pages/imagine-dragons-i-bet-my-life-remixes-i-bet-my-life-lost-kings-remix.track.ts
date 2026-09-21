@@ -9,14 +9,6 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeLostKingsRemix = {
   partOfCollections: ["release/imagine-dragons-i-bet-my-life-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3byeoYtEiTC3wbrcslxYn3",
-      externalLink: "https://open.spotify.com/track/3byeoYtEiTC3wbrcslxYn3",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life - Lost Kings Remix",
   trackType: "remix",
   explicit: false,

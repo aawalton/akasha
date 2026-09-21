@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActISueMe = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WVhkjB7Y4xFruqoCAajBb",
-      externalLink: "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sue Me",
   trackType: "studio",
   explicit: false,

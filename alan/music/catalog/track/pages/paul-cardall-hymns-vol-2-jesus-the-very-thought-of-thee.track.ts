@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2JesusTheVeryThoughtOfThee = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "10WVhDqvCEZPazyn8gu6gW",
-      externalLink: "https://open.spotify.com/track/10WVhDqvCEZPazyn8gu6gW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus, The Very Thought of Thee",
   trackType: "studio",
   explicit: false,

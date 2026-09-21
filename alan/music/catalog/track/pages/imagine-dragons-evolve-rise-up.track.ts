@@ -9,14 +9,6 @@ export const imagineDragonsEvolveRiseUp = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3zT2616WcD9Df5m21OsCX0",
-      externalLink: "https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Rise Up",
   trackType: "studio",
   explicit: false,

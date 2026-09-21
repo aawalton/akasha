@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadAWhisper = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KolrFGhfDi1JTSgQBT5sI",
-      externalLink: "https://open.spotify.com/track/7KolrFGhfDi1JTSgQBT5sI",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Whisper",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2SoloMarbleHalls = {
   partOfCollections: ["release/celtic-woman-2-solo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6LCBjVwYVocM0x6c6SDByH",
-      externalLink: "https://open.spotify.com/track/6LCBjVwYVocM0x6c6SDByH",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Marble Halls",
   trackType: "studio",
   explicit: false,

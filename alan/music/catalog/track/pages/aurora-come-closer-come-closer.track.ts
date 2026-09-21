@@ -9,14 +9,6 @@ export const auroraComeCloserComeCloser = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Stp1AipGFX83wDSJRsX17",
-      externalLink: "https://open.spotify.com/track/4Stp1AipGFX83wDSJRsX17",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "COME CLOSER",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterCountryRoad2019Remaster = {
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2OBaVeRFXblWxoZHC4sryf",
-      externalLink: "https://open.spotify.com/track/2OBaVeRFXblWxoZHC4sryf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Country Road - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

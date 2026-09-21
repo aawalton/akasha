@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverNda = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "38GBNKZUhfBkk3oNlWzRYd",
-      externalLink: "https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "NDA",
   trackType: "studio",
   explicit: true,

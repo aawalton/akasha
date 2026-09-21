@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterFamilyMan2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6A2Ftmce8vMfKXLY3L05tn",
-      externalLink: "https://open.spotify.com/track/6A2Ftmce8vMfKXLY3L05tn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Family Man - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

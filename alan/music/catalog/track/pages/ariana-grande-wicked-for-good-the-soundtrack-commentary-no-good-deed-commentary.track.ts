@@ -9,14 +9,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentar
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nWt2oMdKKczyGLprffFbh",
-      externalLink: "https://open.spotify.com/track/0nWt2oMdKKczyGLprffFbh",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "No Good Deed - Commentary",
   trackType: "studio",
   explicit: false,

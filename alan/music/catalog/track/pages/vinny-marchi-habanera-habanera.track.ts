@@ -9,14 +9,6 @@ export const vinnyMarchiHabaneraHabanera = {
   partOfCollections: ["release/vinny-marchi-habanera"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0YUjPFQEdInqgaZduX6UwV",
-      externalLink: "https://open.spotify.com/track/0YUjPFQEdInqgaZduX6UwV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Habanera",
   trackType: "studio",
   explicit: false,

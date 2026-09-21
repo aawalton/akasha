@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3sRbtaXWUX0dCVu7g0UNeL",
-      externalLink: "https://open.spotify.com/track/3sRbtaXWUX0dCVu7g0UNeL",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "i wish i hated you - a cappella",
   trackType: "a-cappella",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLive2012EveryTeardropIsAWaterfallLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3nbAuEdSqBVF5m2QwVYlzR",
-      externalLink: "https://open.spotify.com/track/3nbAuEdSqBVF5m2QwVYlzR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Every Teardrop Is a Waterfall - Live",
   trackType: "live",
   explicit: false,

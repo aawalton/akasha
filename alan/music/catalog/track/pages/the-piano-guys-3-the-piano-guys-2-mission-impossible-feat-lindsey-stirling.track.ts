@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2MissionImpossibleFeatLindseyStirling = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49q8tEVP92m9yUxmZ2j2nc",
-      externalLink: "https://open.spotify.com/track/49q8tEVP92m9yUxmZ2j2nc",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Mission Impossible (feat. Lindsey Stirling)",
   trackType: "studio",
   explicit: false,

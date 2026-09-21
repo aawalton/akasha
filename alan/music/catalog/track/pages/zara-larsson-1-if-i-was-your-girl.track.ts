@@ -9,14 +9,6 @@ export const zaraLarsson1IfIWasYourGirl = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6jHeMZkWtBd4Q8GCyZl8mx",
-      externalLink: "https://open.spotify.com/track/6jHeMZkWtBd4Q8GCyZl8mx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "If I Was Your Girl",
   trackType: "studio",
   explicit: false,

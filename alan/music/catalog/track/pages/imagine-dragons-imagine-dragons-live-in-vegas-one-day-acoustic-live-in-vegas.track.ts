@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasOneDayAcousticLiveInVegas = 
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6FUgyNDSqhZVxT6NdqvIZT",
-      externalLink: "https://open.spotify.com/track/6FUgyNDSqhZVxT6NdqvIZT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "One Day (Acoustic) - Live in Vegas",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldWildMountainThyme = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "16WXV9PnrHQQInXfVmbJhI",
-      externalLink: "https://open.spotify.com/track/16WXV9PnrHQQInXfVmbJhI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wild Mountain Thyme",
   trackType: "studio",
   explicit: false,

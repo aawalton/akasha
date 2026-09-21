@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreForeverYoungS
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7gVK8oQQ2eagRxxIq9GrX1",
-      externalLink: "https://open.spotify.com/track/7gVK8oQQ2eagRxxIq9GrX1",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Forever Young / Smoke And Mirrors - Live",
   trackType: "live",
   explicit: false,

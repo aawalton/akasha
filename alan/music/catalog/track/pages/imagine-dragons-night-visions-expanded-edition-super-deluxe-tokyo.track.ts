@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTokyo = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1tGMVjEqqcIQuiz95CKa8j",
-      externalLink: "https://open.spotify.com/track/1tGMVjEqqcIQuiz95CKa8j",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tokyo",
   trackType: "studio",
   explicit: false,

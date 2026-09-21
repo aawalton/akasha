@@ -9,14 +9,6 @@ export const arianaGrandeBreakFreeBreakFreeInstrumental = {
   partOfCollections: ["release/ariana-grande-break-free"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XUkjZrKbmpzSMo5pX1n5m",
-      externalLink: "https://open.spotify.com/track/4XUkjZrKbmpzSMo5pX1n5m",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Break Free - Instrumental",
   trackType: "instrumental",
   explicit: false,

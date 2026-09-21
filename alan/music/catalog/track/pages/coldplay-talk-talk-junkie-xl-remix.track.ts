@@ -9,14 +9,6 @@ export const coldplayTalkTalkJunkieXlRemix = {
   partOfCollections: ["release/coldplay-talk"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5IBwC8rJQd8BdrQyW4KgNN",
-      externalLink: "https://open.spotify.com/track/5IBwC8rJQd8BdrQyW4KgNN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Talk - Junkie XL Remix",
   trackType: "remix",
   explicit: false,

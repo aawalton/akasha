@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandDownByTheSalleyGardens = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "53zDmCSWRBJ63keLbMFUns",
-      externalLink: "https://open.spotify.com/track/53zDmCSWRBJ63keLbMFUns",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Down By The Salley Gardens",
   trackType: "studio",
   explicit: false,

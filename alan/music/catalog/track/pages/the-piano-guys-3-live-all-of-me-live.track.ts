@@ -9,14 +9,6 @@ export const thePianoGuys3LiveAllOfMeLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4aiFs6ayHT53BJYNvZwAzb",
-      externalLink: "https://open.spotify.com/track/4aiFs6ayHT53BJYNvZwAzb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "All of Me (Live)",
   trackType: "live",
   explicit: false,

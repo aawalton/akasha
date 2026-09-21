@@ -12,14 +12,6 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5PjZ1ElBi3Ql3AqpuMC0z2",
-      externalLink: "https://open.spotify.com/track/5PjZ1ElBi3Ql3AqpuMC0z2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ruin My Life - Futosé Remix",
   trackType: "remix",
   explicit: true,

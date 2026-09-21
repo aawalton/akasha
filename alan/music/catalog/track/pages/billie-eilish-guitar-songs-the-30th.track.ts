@@ -9,14 +9,6 @@ export const billieEilishGuitarSongsThe30th = {
   partOfCollections: ["release/billie-eilish-guitar-songs"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5SHpuW2qjkQtFRpE6P9Nks",
-      externalLink: "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The 30th",
   trackType: "studio",
   explicit: false,

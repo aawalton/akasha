@@ -9,14 +9,6 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6x4h0DcOY2l4QMzmFOZr8o",
-      externalLink: "https://open.spotify.com/track/6x4h0DcOY2l4QMzmFOZr8o",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "A Spaceman Came Traveling",
   trackType: "studio",
   explicit: false,

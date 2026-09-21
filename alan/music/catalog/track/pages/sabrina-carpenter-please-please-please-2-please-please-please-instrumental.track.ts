@@ -9,14 +9,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseInstrumental =
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2BxIYKqZrXn2nMvK31cJEl",
-      externalLink: "https://open.spotify.com/track/2BxIYKqZrXn2nMvK31cJEl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Please Please Please - Instrumental",
   trackType: "instrumental",
   explicit: false,

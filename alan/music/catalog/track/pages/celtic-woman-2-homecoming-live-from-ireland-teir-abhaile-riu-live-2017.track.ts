@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandTeirAbhaileRiuLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Vwqk9yIyNsYE5lgng5YHE",
-      externalLink: "https://open.spotify.com/track/5Vwqk9yIyNsYE5lgng5YHE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Téir Abhaile Riú - Live 2017",
   trackType: "live",
   explicit: false,

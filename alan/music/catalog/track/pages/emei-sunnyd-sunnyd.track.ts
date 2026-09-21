@@ -9,14 +9,6 @@ export const emeiSunnydSunnyd = {
   partOfCollections: ["release/emei-sunnyd"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4vnauoJf6OYYU73jPUJbZa",
-      externalLink: "https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "SUNNYD",
   trackType: "studio",
   explicit: false,

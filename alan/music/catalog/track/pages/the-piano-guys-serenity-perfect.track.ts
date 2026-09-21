@@ -9,14 +9,6 @@ export const thePianoGuysSerenityPerfect = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3lKhN0698rFxwUYb0YlNj4",
-      externalLink: "https://open.spotify.com/track/3lKhN0698rFxwUYb0YlNj4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Perfect",
   trackType: "studio",
   explicit: false,

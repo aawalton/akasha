@@ -12,14 +12,6 @@ export const celticWoman2AncientLandCountyDown = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0t0jSK7QTP5VMpXOhvMAas",
-      externalLink: "https://open.spotify.com/track/0t0jSK7QTP5VMpXOhvMAas",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "County Down",
   trackType: "studio",
   explicit: false,

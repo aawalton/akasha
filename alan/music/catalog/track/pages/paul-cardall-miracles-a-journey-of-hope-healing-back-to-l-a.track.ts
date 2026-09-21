@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingBackToLA = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XaIfBQWtZuInpdJRMi4mc",
-      externalLink: "https://open.spotify.com/track/4XaIfBQWtZuInpdJRMi4mc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Back To L.A.",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionHandsOnMe = {
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "09FrbOhB1v2VV5MxJd54qm",
-      externalLink: "https://open.spotify.com/track/09FrbOhB1v2VV5MxJd54qm",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Hands On Me",
   trackType: "studio",
   explicit: false,

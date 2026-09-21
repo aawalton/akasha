@@ -9,14 +9,6 @@ export const sabrinaCarpenterBringYourLoveBringYourLove = {
   partOfCollections: ["release/sabrina-carpenter-bring-your-love"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Wr7vTGp9vF3YCG4EASz1e",
-      externalLink: "https://open.spotify.com/track/0Wr7vTGp9vF3YCG4EASz1e",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bring Your Love",
   trackType: "studio",
   explicit: false,

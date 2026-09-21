@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarHallelujah = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2MxiUcXADDlkxVxijM1l8y",
-      externalLink: "https://open.spotify.com/track/2MxiUcXADDlkxVxijM1l8y",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hallelujah",
   trackType: "studio",
   explicit: false,

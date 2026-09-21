@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherMaryDidYouKnowCorelliChristmasConcert
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Jzn6KVh61KqDjRKpIeDlW",
-      externalLink: "https://open.spotify.com/track/5Jzn6KVh61KqDjRKpIeDlW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Mary Did You Know / Corelli Christmas Concerto",
   trackType: "studio",
   explicit: false,

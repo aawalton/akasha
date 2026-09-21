@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreDemonsBleedin
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "54j7jZuU8cyVoq0dM4J6GV",
-      externalLink: "https://open.spotify.com/track/54j7jZuU8cyVoq0dM4J6GV",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons / Bleeding Out / Warriors - Live",
   trackType: "live",
   explicit: false,

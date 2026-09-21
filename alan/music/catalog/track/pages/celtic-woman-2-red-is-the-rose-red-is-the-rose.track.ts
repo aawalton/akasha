@@ -9,14 +9,6 @@ export const celticWoman2RedIsTheRoseRedIsTheRose = {
   partOfCollections: ["release/celtic-woman-2-red-is-the-rose"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5tNWMr9JroElwx6vp4JVMA",
-      externalLink: "https://open.spotify.com/track/5tNWMr9JroElwx6vp4JVMA",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Red is the Rose",
   trackType: "studio",
   explicit: false,

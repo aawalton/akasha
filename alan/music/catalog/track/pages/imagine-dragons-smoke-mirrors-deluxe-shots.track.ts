@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeShots = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7odsUFDiJVv0HUQuSYsRbT",
-      externalLink: "https://open.spotify.com/track/7odsUFDiJVv0HUQuSYsRbT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyLittleDrummerBoy = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5NJA4Oeq6wHwdsAYbYliiA",
-      externalLink: "https://open.spotify.com/track/5NJA4Oeq6wHwdsAYbYliiA",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Little Drummer Boy",
   trackType: "studio",
   explicit: false,

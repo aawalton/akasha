@@ -9,14 +9,6 @@ export const sabrinaCarpenterEspressoEpEspressoDoubleShotVersion = {
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4fv9mYzwI3Ww8Hsg33OZXD",
-      externalLink: "https://open.spotify.com/track/4fv9mYzwI3Ww8Hsg33OZXD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso - Double Shot Version",
   trackType: "version",
   explicit: true,

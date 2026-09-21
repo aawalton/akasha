@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyAlmostIsNeverEnough = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63bo7NDoWdMFXufhsYOxwG",
-      externalLink: "https://open.spotify.com/track/63bo7NDoWdMFXufhsYOxwG",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Almost Is Never Enough",
   trackType: "studio",
   explicit: false,

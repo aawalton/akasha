@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodHelloLacrimosa = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4MPDpYXCgo66NCbUbdch88",
-      externalLink: "https://open.spotify.com/track/4MPDpYXCgo66NCbUbdch88",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Hello / Lacrimosa",
   trackType: "studio",
   explicit: false,

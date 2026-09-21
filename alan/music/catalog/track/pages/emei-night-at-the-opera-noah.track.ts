@@ -9,14 +9,6 @@ export const emeiNightAtTheOperaNoah = {
   partOfCollections: ["release/emei-night-at-the-opera"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Ez185Inp2jiQWtcvtAQXl",
-      externalLink: "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Noah",
   trackType: "studio",
   explicit: true,

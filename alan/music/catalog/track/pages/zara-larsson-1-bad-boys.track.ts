@@ -9,14 +9,6 @@ export const zaraLarsson1BadBoys = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "70u72FPeBl58rThfsRnZ4K",
-      externalLink: "https://open.spotify.com/track/70u72FPeBl58rThfsRnZ4K",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bad Boys",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardYouveGotToBeCarefullyTaught = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0voioalGy7GVkuzCrdZpsT",
-      externalLink: "https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You’ve Got To Be Carefully Taught",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayEverydayLifeBroken = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1cXXhzPnbrXjNQYbLdUJdy",
-      externalLink: "https://open.spotify.com/track/1cXXhzPnbrXjNQYbLdUJdy",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "BrokEn",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanJasonsSongGaveItAway = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0kngSEayfCOjR8w83R7vAT",
-      externalLink: "https://open.spotify.com/track/0kngSEayfCOjR8w83R7vAT",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Jason's Song (Gave It Away)",
   trackType: "studio",
   explicit: true,

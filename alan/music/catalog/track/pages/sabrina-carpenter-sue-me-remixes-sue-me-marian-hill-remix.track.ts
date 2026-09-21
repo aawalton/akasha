@@ -9,14 +9,6 @@ export const sabrinaCarpenterSueMeRemixesSueMeMarianHillRemix = {
   partOfCollections: ["release/sabrina-carpenter-sue-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2zAqDXHqTTcTDXgxPsA4DH",
-      externalLink: "https://open.spotify.com/track/2zAqDXHqTTcTDXgxPsA4DH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sue Me - Marian Hill Remix",
   trackType: "remix",
   explicit: false,

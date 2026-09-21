@@ -9,14 +9,6 @@ export const coldplayLive2012InMyPlaceLive2012 = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5OOloRWmvXZG3aQaeWjDNN",
-      externalLink: "https://open.spotify.com/track/5OOloRWmvXZG3aQaeWjDNN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "In My Place - Live 2012",
   trackType: "live",
   explicit: false,

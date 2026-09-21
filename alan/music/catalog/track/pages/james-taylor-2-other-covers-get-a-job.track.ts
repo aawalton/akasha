@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversGetAJob = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6McHJCgsMfx0jWeMAeawyH",
-      externalLink: "https://open.spotify.com/track/6McHJCgsMfx0jWeMAeawyH",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Get A Job",
   trackType: "studio",
   explicit: false,

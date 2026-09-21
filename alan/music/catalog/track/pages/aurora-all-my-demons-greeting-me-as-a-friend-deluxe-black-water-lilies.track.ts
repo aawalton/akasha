@@ -12,14 +12,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1K9e0CRpBTQhAyn7OTBTjk",
-      externalLink: "https://open.spotify.com/track/1K9e0CRpBTQhAyn7OTBTjk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Black Water Lilies",
   trackType: "studio",
   explicit: false,

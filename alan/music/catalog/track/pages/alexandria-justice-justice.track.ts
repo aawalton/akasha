@@ -9,14 +9,6 @@ export const alexandriaJusticeJustice = {
   partOfCollections: ["release/alexandria-justice"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0isMBNGbFrpvGhStVQLWJK",
-      externalLink: "https://open.spotify.com/track/0isMBNGbFrpvGhStVQLWJK",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Justice",
   trackType: "studio",
   explicit: false,

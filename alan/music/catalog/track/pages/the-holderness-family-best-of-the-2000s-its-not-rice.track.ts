@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sItsNotRice = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6gXXiv85d5blzpePnNYVLQ",
-      externalLink: "https://open.spotify.com/track/6gXXiv85d5blzpePnNYVLQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "It's Not Rice",
   trackType: "studio",
   explicit: false,

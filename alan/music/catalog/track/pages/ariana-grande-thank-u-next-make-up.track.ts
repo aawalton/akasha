@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextMakeUp = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27356GVuMPFWiJSZCragoM",
-      externalLink: "https://open.spotify.com/track/27356GVuMPFWiJSZCragoM",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "make up",
   trackType: "studio",
   explicit: true,

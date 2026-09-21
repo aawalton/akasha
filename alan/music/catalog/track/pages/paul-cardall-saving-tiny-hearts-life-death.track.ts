@@ -9,14 +9,6 @@ export const paulCardallSavingTinyHeartsLifeDeath = {
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4jvuplniikE13YYb2OnztN",
-      externalLink: "https://open.spotify.com/track/4jvuplniikE13YYb2OnztN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Life & Death",
   trackType: "studio",
   explicit: false,

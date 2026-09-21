@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeCoolOut = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6LXMUR2rpxFBDo6nilS3yX",
-      externalLink: "https://open.spotify.com/track/6LXMUR2rpxFBDo6nilS3yX",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cool Out",
   trackType: "studio",
   explicit: false,

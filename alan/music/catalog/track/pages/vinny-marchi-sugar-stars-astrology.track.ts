@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsAstrology = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5NCBxoj38ZZpLLIu9x2iPi",
-      externalLink: "https://open.spotify.com/track/5NCBxoj38ZZpLLIu9x2iPi",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "astrology",
   trackType: "studio",
   explicit: false,

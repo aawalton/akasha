@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsLoveTheFriendYouBuried = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3RjCKCctSwmabMFIjP1Eqk",
-      externalLink: "https://open.spotify.com/track/3RjCKCctSwmabMFIjP1Eqk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "love, the friend you buried",
   trackType: "studio",
   explicit: false,

@@ -11,14 +11,6 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "53GLRYxfnu3ijM9lqfKxol",
-      externalLink: "https://open.spotify.com/track/53GLRYxfnu3ijM9lqfKxol",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Tuya Es La Gloria (arr. for Choir, Orchestra, Solo Cello, and Piano by Mack Wilberg)",
   trackType: "studio",
   explicit: false,

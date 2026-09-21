@@ -9,14 +9,6 @@ export const coldplayChristmasLightsChristmasLights = {
   partOfCollections: ["release/coldplay-christmas-lights"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4fzyvSu73BhGvi96p2zwjL",
-      externalLink: "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Christmas Lights",
   trackType: "studio",
   explicit: false,

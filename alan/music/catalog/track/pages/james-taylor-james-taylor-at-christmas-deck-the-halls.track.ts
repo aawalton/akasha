@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasDeckTheHalls = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20s0YwMEKaD47u83q3nMJO",
-      externalLink: "https://open.spotify.com/track/20s0YwMEKaD47u83q3nMJO",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Deck The Halls",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseSpedUp = {
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EryTXqW5cvf5yqITZEm7b",
-      externalLink: "https://open.spotify.com/track/4EryTXqW5cvf5yqITZEm7b",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Please Please Please - Sped Up",
   trackType: "version",
   explicit: true,

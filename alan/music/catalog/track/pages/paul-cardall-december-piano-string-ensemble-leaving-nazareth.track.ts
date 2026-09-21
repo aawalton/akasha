@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleLeavingNazareth = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xfzsax2zFvxLK0US4qi7D",
-      externalLink: "https://open.spotify.com/track/1xfzsax2zFvxLK0US4qi7D",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Leaving Nazareth",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishBellyacheMarianHillRemixBellyacheMarianHillRemix = {
   partOfCollections: ["release/billie-eilish-bellyache-marian-hill-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "61X077SWMs5aAGQHhf4pd0",
-      externalLink: "https://open.spotify.com/track/61X077SWMs5aAGQHhf4pd0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bellyache - Marian Hill Remix",
   trackType: "remix",
   explicit: false,

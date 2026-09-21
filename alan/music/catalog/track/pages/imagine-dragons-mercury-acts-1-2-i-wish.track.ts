@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12IWish = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1X9hG9ChkrwhViamDCZTy9",
-      externalLink: "https://open.spotify.com/track/1X9hG9ChkrwhViamDCZTy9",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Wish",
   trackType: "studio",
   explicit: false,

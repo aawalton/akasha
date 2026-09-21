@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerGoodnightNGo = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "14kYOiFVPb7E7NfFbqhdln",
-      externalLink: "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "goodnight n go",
   trackType: "studio",
   explicit: true,

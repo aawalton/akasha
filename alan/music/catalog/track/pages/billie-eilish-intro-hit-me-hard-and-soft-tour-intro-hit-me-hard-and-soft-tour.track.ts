@@ -9,14 +9,6 @@ export const billieEilishIntroHitMeHardAndSoftTourIntroHitMeHardAndSoftTour = {
   partOfCollections: ["release/billie-eilish-intro-hit-me-hard-and-soft-tour"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "43ZbuNZJFbgGsYR5zq5ZKd",
-      externalLink: "https://open.spotify.com/track/43ZbuNZJFbgGsYR5zq5ZKd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "INTRO (HIT ME HARD AND SOFT TOUR)",
   trackType: "studio",
   explicit: false,

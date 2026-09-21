@@ -9,14 +9,6 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
   partOfCollections: ["release/sabrina-carpenter-stand-out-from-how-to-build-a-better-boy"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "00OKDIsSQbx8rd5Al7fKNw",
-      externalLink: "https://open.spotify.com/track/00OKDIsSQbx8rd5Al7fKNw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: 'Stand Out - From "How to Build a Better Boy"',
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarTheOldRuggedCross = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PcUnQqgPpPjtSLkITcamA",
-      externalLink: "https://open.spotify.com/track/1PcUnQqgPpPjtSLkITcamA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Old Rugged Cross",
   trackType: "studio",
   explicit: false,

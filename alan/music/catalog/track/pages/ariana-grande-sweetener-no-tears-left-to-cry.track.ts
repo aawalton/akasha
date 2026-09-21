@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerNoTearsLeftToCry = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2qT1uLXPVPzGgFOx4jtEuo",
-      externalLink: "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "no tears left to cry",
   trackType: "studio",
   explicit: false,

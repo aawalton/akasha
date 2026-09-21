@@ -9,14 +9,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndLiveVersi
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5sRczgK1xkskY6HICpEKHa",
-      externalLink: "https://open.spotify.com/track/5sRczgK1xkskY6HICpEKHa",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? - live version",
   trackType: "live",
   explicit: true,

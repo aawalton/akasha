@@ -9,14 +9,6 @@ export const paulCardallFaithfulEyeToEye = {
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0GsZ1mvBocuIAOBsvzPwlO",
-      externalLink: "https://open.spotify.com/track/0GsZ1mvBocuIAOBsvzPwlO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eye To Eye",
   trackType: "studio",
   explicit: false,

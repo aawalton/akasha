@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartNilSenLa = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48JOqnrybIqJZzBU3kZBox",
-      externalLink: "https://open.spotify.com/track/48JOqnrybIqJZzBU3kZBox",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Níl Sé'n Lá",
   trackType: "studio",
   explicit: false,

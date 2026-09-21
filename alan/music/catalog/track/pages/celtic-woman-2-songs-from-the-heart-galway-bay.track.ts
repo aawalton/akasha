@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartGalwayBay = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "62cFA1CSTNKJFVm618mEiw",
-      externalLink: "https://open.spotify.com/track/62cFA1CSTNKJFVm618mEiw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Galway Bay",
   trackType: "studio",
   explicit: false,

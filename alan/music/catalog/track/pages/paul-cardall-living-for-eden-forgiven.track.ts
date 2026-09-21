@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenForgiven = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "742TUmraj0VL8O8eKM5Umm",
-      externalLink: "https://open.spotify.com/track/742TUmraj0VL8O8eKM5Umm",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Forgiven",
   trackType: "studio",
   explicit: false,

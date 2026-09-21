@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreTheFallLive =
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GSjb0V54MsBl4Nl96FLkt",
-      externalLink: "https://open.spotify.com/track/1GSjb0V54MsBl4Nl96FLkt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The Fall - Live",
   trackType: "live",
   explicit: false,

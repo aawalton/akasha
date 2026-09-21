@@ -9,14 +9,6 @@ export const coldplayEverydayLifeOldFriends = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3E3zYgQul8EaJioNvD2tv9",
-      externalLink: "https://open.spotify.com/track/3E3zYgQul8EaJioNvD2tv9",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Old Friends",
   trackType: "studio",
   explicit: false,

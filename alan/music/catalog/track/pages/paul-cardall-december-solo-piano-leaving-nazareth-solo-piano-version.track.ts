@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoLeavingNazarethSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4FY5NhkPsymD2bk1VZAcef",
-      externalLink: "https://open.spotify.com/track/4FY5NhkPsymD2bk1VZAcef",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Leaving Nazareth - Solo Piano Version",
   trackType: "version",
   explicit: false,

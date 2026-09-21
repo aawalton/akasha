@@ -9,14 +9,6 @@ export const sabrinaCarpenterManSBestFriendGoodbye = {
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4tVVmShMF2PYdLqcejrsy2",
-      externalLink: "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Goodbye",
   trackType: "studio",
   explicit: true,

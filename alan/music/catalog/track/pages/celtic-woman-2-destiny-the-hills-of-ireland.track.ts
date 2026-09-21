@@ -9,14 +9,6 @@ export const celticWoman2DestinyTheHillsOfIreland = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "52Mclc4OjcfWvFl7UL8miX",
-      externalLink: "https://open.spotify.com/track/52Mclc4OjcfWvFl7UL8miX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Hills Of Ireland",
   trackType: "studio",
   explicit: false,

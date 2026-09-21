@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassHangnail = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7onpA2Bnovg4a2mhcbOrMf",
-      externalLink: "https://open.spotify.com/track/7onpA2Bnovg4a2mhcbOrMf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hangnail",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoListenBeforeIGo = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0tMSssfxAL2oV8Vri0mFHE",
-      externalLink: "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "listen before i go",
   trackType: "studio",
   explicit: false,

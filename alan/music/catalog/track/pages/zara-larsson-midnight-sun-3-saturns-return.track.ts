@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3SaturnsReturn = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4tHPWiQagyCevaz3j5n4iC",
-      externalLink: "https://open.spotify.com/track/4tHPWiQagyCevaz3j5n4iC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Saturn's Return",
   trackType: "studio",
   explicit: false,

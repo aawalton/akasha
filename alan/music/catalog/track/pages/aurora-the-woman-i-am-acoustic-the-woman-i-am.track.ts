@@ -9,14 +9,6 @@ export const auroraTheWomanIAmAcousticTheWomanIAm = {
   partOfCollections: ["release/aurora-the-woman-i-am-acoustic", "release/aurora-the-woman-i-am"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2eaqmbJaG60MI32ca9aeIA",
-      externalLink: "https://open.spotify.com/track/2eaqmbJaG60MI32ca9aeIA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Woman I Am",
   trackType: "studio",
   explicit: false,

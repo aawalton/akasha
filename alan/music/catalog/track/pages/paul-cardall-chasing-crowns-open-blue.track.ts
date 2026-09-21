@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsOpenBlue = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "154IyuxAARq3v2L6hAjNQ7",
-      externalLink: "https://open.spotify.com/track/154IyuxAARq3v2L6hAjNQ7",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Open Blue",
   trackType: "studio",
   explicit: false,

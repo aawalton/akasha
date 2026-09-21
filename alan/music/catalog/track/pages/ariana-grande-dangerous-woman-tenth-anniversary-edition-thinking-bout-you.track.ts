@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionThinkingBoutYou = 
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7LxgJNQ2I4fXteg5WPx4Xj",
-      externalLink: "https://open.spotify.com/track/7LxgJNQ2I4fXteg5WPx4Xj",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Thinking Bout You",
   trackType: "studio",
   explicit: true,

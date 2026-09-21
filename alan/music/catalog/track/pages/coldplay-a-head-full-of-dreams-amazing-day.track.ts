@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsAmazingDay = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wtV2ifnHzirkAElgTGh63",
-      externalLink: "https://open.spotify.com/track/3wtV2ifnHzirkAElgTGh63",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Amazing Day",
   trackType: "studio",
   explicit: false,

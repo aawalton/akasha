@@ -9,14 +9,6 @@ export const arianaGrandeProblemProblemACappella = {
   partOfCollections: ["release/ariana-grande-problem"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rKmu5d1xtcGDKktcq2E7c",
-      externalLink: "https://open.spotify.com/track/4rKmu5d1xtcGDKktcq2E7c",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Problem - A Cappella",
   trackType: "a-cappella",
   explicit: false,

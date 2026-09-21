@@ -9,14 +9,6 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   partOfCollections: ["release/ariana-grande-it-was-a-masked-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0vGVNj5Fmn4TU4foavNZG1",
-      externalLink: "https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "It Was A… (Masked Christmas) (feat. Ariana Grande & Megan Thee Stallion)",
   trackType: "studio",
   explicit: false,

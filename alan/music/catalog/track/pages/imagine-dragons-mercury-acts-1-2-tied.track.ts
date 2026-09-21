@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Tied = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "35CZvVV7UzYgydaVpNW4Kp",
-      externalLink: "https://open.spotify.com/track/35CZvVV7UzYgydaVpNW4Kp",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tied",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiLadyOfTheLyreLadyOfTheLyre = {
   partOfCollections: ["release/vinny-marchi-lady-of-the-lyre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "146ypBBbb54MhXB4L0mO5A",
-      externalLink: "https://open.spotify.com/track/146ypBBbb54MhXB4L0mO5A",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lady of the Lyre",
   trackType: "studio",
   explicit: false,

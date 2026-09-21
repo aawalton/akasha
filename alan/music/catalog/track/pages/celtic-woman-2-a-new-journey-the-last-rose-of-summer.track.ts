@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyTheLastRoseOfSummer = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7Gy3PeLK5vXJAnTti847mF",
-      externalLink: "https://open.spotify.com/track/7Gy3PeLK5vXJAnTti847mF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Last Rose Of Summer",
   trackType: "studio",
   explicit: false,

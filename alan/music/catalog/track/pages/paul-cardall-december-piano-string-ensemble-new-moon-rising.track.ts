@@ -12,14 +12,6 @@ export const paulCardallDecemberPianoStringEnsembleNewMoonRising = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1q07To1TuNfMYxVfFPW7TV",
-      externalLink: "https://open.spotify.com/track/1q07To1TuNfMYxVfFPW7TV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "New Moon Rising",
   trackType: "studio",
   explicit: false,

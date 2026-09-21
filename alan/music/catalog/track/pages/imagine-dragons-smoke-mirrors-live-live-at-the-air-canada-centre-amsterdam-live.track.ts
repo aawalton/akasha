@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreAmsterdamLive
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4bdZ1Z9j0vY01KKSBSJjPz",
-      externalLink: "https://open.spotify.com/track/4bdZ1Z9j0vY01KKSBSJjPz",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Amsterdam - Live",
   trackType: "live",
   explicit: false,

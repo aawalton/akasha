@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yQ8woSt5tJ7pGJyQGuc2q",
-      externalLink: "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sundown (feat. Wizkid)",
   trackType: "studio",
   explicit: false,

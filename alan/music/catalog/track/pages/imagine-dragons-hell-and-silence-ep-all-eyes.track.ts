@@ -9,14 +9,6 @@ export const imagineDragonsHellAndSilenceEpAllEyes = {
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4haoEl9aPJiA0QzkpBmUAT",
-      externalLink: "https://open.spotify.com/track/4haoEl9aPJiA0QzkpBmUAT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "All Eyes",
   trackType: "studio",
   explicit: false,

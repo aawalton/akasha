@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendWhenDidYouGetHot = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0je57Uq5eTk1wrPzn9sWbl",
-      externalLink: "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "When Did You Get Hot?",
   trackType: "studio",
   explicit: false,

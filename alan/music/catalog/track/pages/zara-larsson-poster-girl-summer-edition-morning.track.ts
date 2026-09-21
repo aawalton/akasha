@@ -9,14 +9,6 @@ export const zaraLarssonPosterGirlSummerEditionMorning = {
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YlDIGeJwj63vf95TW06WQ",
-      externalLink: "https://open.spotify.com/track/3YlDIGeJwj63vf95TW06WQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Morning",
   trackType: "studio",
   explicit: false,

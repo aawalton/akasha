@@ -9,14 +9,6 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaignILoveYouAllThe
   partOfCollections: ["release/imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2POOvCjR09X41UNUWm12dT",
-      externalLink: "https://open.spotify.com/track/2POOvCjR09X41UNUWm12dT",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Love You All the Time (Play It Forward Campaign)",
   trackType: "studio",
   explicit: false,

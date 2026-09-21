@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoSilverleafWinds = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6w1c1Wg6Phl6wpE9eHRzAB",
-      externalLink: "https://open.spotify.com/track/6w1c1Wg6Phl6wpE9eHRzAB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Silverleaf Winds",
   trackType: "studio",
   explicit: false,

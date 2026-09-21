@@ -11,14 +11,6 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemixTakeOnTh
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7MK9eaTSGwGdKA4N7IPdDN",
-      externalLink: "https://open.spotify.com/track/7MK9eaTSGwGdKA4N7IPdDN",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: 'Take On the World - From "Girl Meets World"/Summer Remix/Music from the TV Series',
   trackType: "remix",
   explicit: false,

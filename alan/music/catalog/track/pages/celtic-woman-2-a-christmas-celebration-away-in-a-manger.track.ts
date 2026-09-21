@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationAwayInAManger = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oEGrfx9n2HT1HHIrfWrQr",
-      externalLink: "https://open.spotify.com/track/5oEGrfx9n2HT1HHIrfWrQr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Away In A Manger",
   trackType: "studio",
   explicit: false,

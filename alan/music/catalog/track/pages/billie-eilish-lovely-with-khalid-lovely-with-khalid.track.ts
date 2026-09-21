@@ -9,14 +9,6 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
   partOfCollections: ["release/billie-eilish-lovely-with-khalid"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0u2P5u6lvoDfwTYjAADbn4",
-      externalLink: "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "lovely (with Khalid)",
   trackType: "studio",
   explicit: false,

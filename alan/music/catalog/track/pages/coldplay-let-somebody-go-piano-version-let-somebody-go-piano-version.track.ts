@@ -9,14 +9,6 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGoPianoVersion = {
   partOfCollections: ["release/coldplay-let-somebody-go-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2zVeRtqrrRXpCizKlywvvr",
-      externalLink: "https://open.spotify.com/track/2zVeRtqrrRXpCizKlywvvr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Let Somebody Go - Piano Version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallNewLifeDelayed = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lfE6xJbmgrcqcEF6ehzqy",
-      externalLink: "https://open.spotify.com/track/5lfE6xJbmgrcqcEF6ehzqy",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Delayed",
   trackType: "studio",
   explicit: false,

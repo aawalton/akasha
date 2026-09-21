@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeYouDontKnowMe = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3hgl7EQwTutSm6PESsB7gZ",
-      externalLink: "https://open.spotify.com/track/3hgl7EQwTutSm6PESsB7gZ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "You Don't Know Me",
   trackType: "studio",
   explicit: false,

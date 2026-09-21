@@ -9,14 +9,6 @@ export const zaraLarssonWordsFeatZaraLarssonWordsFeatZaraLarsson = {
   partOfCollections: ["release/zara-larsson-words-feat-zara-larsson"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1bgKMxPQU7JIZEhNsM1vFs",
-      externalLink: "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Words (feat. Zara Larsson)",
   trackType: "studio",
   explicit: false,

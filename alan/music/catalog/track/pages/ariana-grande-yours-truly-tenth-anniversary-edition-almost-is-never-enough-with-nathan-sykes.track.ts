@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionAlmostIsNeverEnoughWit
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YGd0ZaBGQjOdApv3fpnow",
-      externalLink: "https://open.spotify.com/track/1YGd0ZaBGQjOdApv3fpnow",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Almost Is Never Enough (with Nathan Sykes)",
   trackType: "studio",
   explicit: false,

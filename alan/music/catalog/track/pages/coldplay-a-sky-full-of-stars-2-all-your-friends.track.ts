@@ -9,14 +9,6 @@ export const coldplayASkyFullOfStars2AllYourFriends = {
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RcZ84RmZ0TVTZQR3fWHoG",
-      externalLink: "https://open.spotify.com/track/5RcZ84RmZ0TVTZQR3fWHoG",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "All Your Friends",
   trackType: "studio",
   explicit: false,

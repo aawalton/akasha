@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleAllISeeIsSnow = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5KJqcYc9vpURfiU0EuWBMi",
-      externalLink: "https://open.spotify.com/track/5KJqcYc9vpURfiU0EuWBMi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All I See Is Snow",
   trackType: "studio",
   explicit: false,

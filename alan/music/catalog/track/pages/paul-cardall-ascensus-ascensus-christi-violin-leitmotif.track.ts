@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiViolinLeitmotif = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7BKIEfGf8sZcgZ5q3LLmNu",
-      externalLink: "https://open.spotify.com/track/7BKIEfGf8sZcgZ5q3LLmNu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: Violin Leitmotif",
   trackType: "studio",
   explicit: false,

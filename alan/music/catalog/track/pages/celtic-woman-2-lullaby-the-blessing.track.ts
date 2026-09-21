@@ -9,14 +9,6 @@ export const celticWoman2LullabyTheBlessing = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6G6NlVtzCW4asCmlYm0SUs",
-      externalLink: "https://open.spotify.com/track/6G6NlVtzCW4asCmlYm0SUs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Blessing",
   trackType: "studio",
   explicit: false,

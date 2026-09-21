@@ -9,14 +9,6 @@ export const auroraToBeLovedToBeLoved2 = {
   partOfCollections: ["release/aurora-to-be-loved"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WWDeAA9aAWjtyYNguc1Pz",
-      externalLink: "https://open.spotify.com/track/0WWDeAA9aAWjtyYNguc1Pz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "To Be Loved",
   trackType: "studio",
   explicit: false,

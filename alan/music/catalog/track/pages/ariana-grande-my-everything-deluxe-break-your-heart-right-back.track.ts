@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeBreakYourHeartRightBack = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0HGcQDbRen8luCnwH53sNl",
-      externalLink: "https://open.spotify.com/track/0HGcQDbRen8luCnwH53sNl",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Break Your Heart Right Back",
   trackType: "studio",
   explicit: false,

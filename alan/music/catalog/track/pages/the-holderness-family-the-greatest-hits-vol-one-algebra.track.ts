@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneAlgebra = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Ybwk9bYJbHrLrtycWC19W",
-      externalLink: "https://open.spotify.com/track/4Ybwk9bYJbHrLrtycWC19W",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Algebra",
   trackType: "studio",
   explicit: false,

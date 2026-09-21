@@ -9,14 +9,6 @@ export const coldplayParachutesSparks = {
   partOfCollections: ["release/coldplay-parachutes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7D0RhFcb3CrfPuTJ0obrod",
-      externalLink: "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Sparks",
   trackType: "studio",
   explicit: false,

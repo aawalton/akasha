@@ -9,14 +9,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSweetBabyJames2019Remaster = 
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "17PXXzOygMyXXUNLngVN5u",
-      externalLink: "https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sweet Baby James - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023BeachVsLake = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5uDBlfN8WCxV2mL01PSuoc",
-      externalLink: "https://open.spotify.com/track/5uDBlfN8WCxV2mL01PSuoc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Beach vs Lake",
   trackType: "studio",
   explicit: false,

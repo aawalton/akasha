@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoBadGuy = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Fxmhks0bxGSBdJ92vM42m",
-      externalLink: "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "bad guy",
   trackType: "studio",
   explicit: false,

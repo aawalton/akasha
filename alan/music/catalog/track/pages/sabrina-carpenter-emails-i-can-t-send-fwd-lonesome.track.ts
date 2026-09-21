@@ -9,14 +9,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdLonesome = {
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0HYhOGKAHiOsv8GW4JdMJ8",
-      externalLink: "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lonesome",
   trackType: "studio",
   explicit: true,

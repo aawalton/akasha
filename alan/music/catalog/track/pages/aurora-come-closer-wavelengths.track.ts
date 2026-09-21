@@ -9,14 +9,6 @@ export const auroraComeCloserWavelengths = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RKxMGzcvhdXtBQjOAC4Fu",
-      externalLink: "https://open.spotify.com/track/5RKxMGzcvhdXtBQjOAC4Fu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "WAVELENGTHS",
   trackType: "studio",
   explicit: false,

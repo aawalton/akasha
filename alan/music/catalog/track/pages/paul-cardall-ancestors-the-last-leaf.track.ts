@@ -9,14 +9,6 @@ export const paulCardallAncestorsTheLastLeaf = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6rjT1zD3DfW4EPOQmjzJOf",
-      externalLink: "https://open.spotify.com/track/6rjT1zD3DfW4EPOQmjzJOf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Last Leaf",
   trackType: "studio",
   explicit: false,

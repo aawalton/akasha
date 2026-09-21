@@ -9,14 +9,6 @@ export const paulCardallChillCollectionEarlyMonday = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0n0WKCk37T1mRILuaYIpWe",
-      externalLink: "https://open.spotify.com/track/0n0WKCk37T1mRILuaYIpWe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Early Monday",
   trackType: "studio",
   explicit: false,

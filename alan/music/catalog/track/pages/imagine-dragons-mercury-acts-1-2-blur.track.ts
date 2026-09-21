@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Blur = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5i6V88QD3nt9at4915JISY",
-      externalLink: "https://open.spotify.com/track/5i6V88QD3nt9at4915JISY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Blur",
   trackType: "studio",
   explicit: false,

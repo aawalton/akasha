@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoANewBeginning = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rgjrRYSPna5mr7aautSTJ",
-      externalLink: "https://open.spotify.com/track/4rgjrRYSPna5mr7aautSTJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A New Beginning",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterSueMeACappellaSueMeACappella = {
   partOfCollections: ["release/sabrina-carpenter-sue-me-a-cappella"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GlBABlFOcIIlSEYcnOP3b",
-      externalLink: "https://open.spotify.com/track/1GlBABlFOcIIlSEYcnOP3b",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sue Me - A Cappella",
   trackType: "a-cappella",
   explicit: false,

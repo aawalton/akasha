@@ -9,14 +9,6 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5pjDo73OlMhv7qMY1JbYAG",
-      externalLink: "https://open.spotify.com/track/5pjDo73OlMhv7qMY1JbYAG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesu, Joy of Man's Desiring, BWV 147 - Classical Guitar",
   trackType: "studio",
   explicit: false,

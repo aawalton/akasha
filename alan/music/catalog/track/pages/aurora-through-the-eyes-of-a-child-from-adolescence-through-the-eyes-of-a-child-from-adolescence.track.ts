@@ -9,14 +9,6 @@ export const auroraThroughTheEyesOfAChildFromAdolescenceThroughTheEyesOfAChildFr
   partOfCollections: ["release/aurora-through-the-eyes-of-a-child-from-adolescence"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1k97wN3j5X9fUleZOSTAoY",
-      externalLink: "https://open.spotify.com/track/1k97wN3j5X9fUleZOSTAoY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Through the Eyes of a Child - From Adolescence",
   trackType: "studio",
   explicit: false,

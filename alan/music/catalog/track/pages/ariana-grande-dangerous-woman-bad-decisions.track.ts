@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanBadDecisions = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "76RIfPBraSmXWC9LryUztF",
-      externalLink: "https://open.spotify.com/track/76RIfPBraSmXWC9LryUztF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bad Decisions",
   trackType: "studio",
   explicit: true,

@@ -12,14 +12,6 @@ export const celticWoman22020thAnniversaryYouRaiseMeUp20thAnniversary = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3O2fwEm7hHjxzU7VP9oGhw",
-      externalLink: "https://open.spotify.com/track/3O2fwEm7hHjxzU7VP9oGhw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Raise Me Up - 20th Anniversary",
   trackType: "studio",
   explicit: false,

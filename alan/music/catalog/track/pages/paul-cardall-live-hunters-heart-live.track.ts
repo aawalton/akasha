@@ -9,14 +9,6 @@ export const paulCardallLiveHuntersHeartLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2oB7BUHgIs8njuXMQNW9O2",
-      externalLink: "https://open.spotify.com/track/2oB7BUHgIs8njuXMQNW9O2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hunter's Heart - Live",
   trackType: "live",
   explicit: false,

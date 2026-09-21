@@ -9,14 +9,6 @@ export const coldplayTalkTalkThinWhiteDukeMix = {
   partOfCollections: ["release/coldplay-talk"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6fMpfMEnQ9qjtPAZWEit5Q",
-      externalLink: "https://open.spotify.com/track/6fMpfMEnQ9qjtPAZWEit5Q",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Talk - Thin White Duke Mix",
   trackType: "remix",
   explicit: false,

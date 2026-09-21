@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3kJJtv9juaxcspjbC1bNXT",
-      externalLink: "https://open.spotify.com/track/3kJJtv9juaxcspjbC1bNXT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Surrey With The Fringe On Top",
   trackType: "studio",
   explicit: false,

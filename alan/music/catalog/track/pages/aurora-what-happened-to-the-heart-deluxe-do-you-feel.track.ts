@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDoYouFeel = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0mgcVLtDeAzqqznnRbpUXw",
-      externalLink: "https://open.spotify.com/track/0mgcVLtDeAzqqznnRbpUXw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Do You Feel?",
   trackType: "studio",
   explicit: false,

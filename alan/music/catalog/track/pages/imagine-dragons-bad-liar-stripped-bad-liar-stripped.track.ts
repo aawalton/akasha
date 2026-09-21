@@ -9,14 +9,6 @@ export const imagineDragonsBadLiarStrippedBadLiarStripped = {
   partOfCollections: ["release/imagine-dragons-bad-liar-stripped"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6hFi0gXP8KItwMqfBgf44b",
-      externalLink: "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bad Liar – Stripped",
   trackType: "acoustic",
   explicit: false,

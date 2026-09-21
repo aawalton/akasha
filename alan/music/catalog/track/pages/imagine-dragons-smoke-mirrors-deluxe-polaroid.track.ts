@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxePolaroid = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Ng999MKVY9ikd8FtGaNnz",
-      externalLink: "https://open.spotify.com/track/6Ng999MKVY9ikd8FtGaNnz",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Polaroid",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassYellowAndRose = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7pX7MnSkQ2zJ0OhZbJy21C",
-      externalLink: "https://open.spotify.com/track/7pX7MnSkQ2zJ0OhZbJy21C",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Yellow and Rose",
   trackType: "studio",
   explicit: false,

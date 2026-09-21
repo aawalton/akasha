@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionDoYouHearWhatIHear = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2c1094QkzeidXSiqpH4kWD",
-      externalLink: "https://open.spotify.com/track/2c1094QkzeidXSiqpH4kWD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Do You Hear What I Hear?",
   trackType: "studio",
   explicit: false,

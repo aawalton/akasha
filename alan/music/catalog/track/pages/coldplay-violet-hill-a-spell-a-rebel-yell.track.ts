@@ -9,14 +9,6 @@ export const coldplayVioletHillASpellARebelYell = {
   partOfCollections: ["release/coldplay-violet-hill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59Mg99pBZJFtvgSKIQTMMw",
-      externalLink: "https://open.spotify.com/track/59Mg99pBZJFtvgSKIQTMMw",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Spell a Rebel Yell",
   trackType: "studio",
   explicit: false,

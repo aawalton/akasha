@@ -9,14 +9,6 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6CtAa6dZ3XxT8FALHW4kEk",
-      externalLink: "https://open.spotify.com/track/6CtAa6dZ3XxT8FALHW4kEk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Unsung Hero",
   trackType: "studio",
   explicit: false,

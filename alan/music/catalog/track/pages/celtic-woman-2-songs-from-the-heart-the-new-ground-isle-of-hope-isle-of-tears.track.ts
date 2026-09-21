@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartTheNewGroundIsleOfHopeIsleOfTears = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58j9LzawdJh2d7iSagG10v",
-      externalLink: "https://open.spotify.com/track/58j9LzawdJh2d7iSagG10v",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The New Ground / Isle Of Hope, Isle Of Tears",
   trackType: "studio",
   explicit: false,

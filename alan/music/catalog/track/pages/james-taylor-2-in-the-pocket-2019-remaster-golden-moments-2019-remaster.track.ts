@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterGoldenMoments2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06MDrTQI0z0CszwVp9EVQ8",
-      externalLink: "https://open.spotify.com/track/06MDrTQI0z0CszwVp9EVQ8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Golden Moments - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

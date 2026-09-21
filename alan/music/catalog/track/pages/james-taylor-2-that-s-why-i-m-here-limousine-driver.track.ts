@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereLimousineDriver = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0y1wf0JkZFfCUMPX5td0wW",
-      externalLink: "https://open.spotify.com/track/0y1wf0JkZFfCUMPX5td0wW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Limousine Driver",
   trackType: "studio",
   explicit: false,

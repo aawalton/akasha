@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldYouAndIAgain = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2AtohPw33TZyaHSFpVgwd3",
-      externalLink: "https://open.spotify.com/track/2AtohPw33TZyaHSFpVgwd3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You And I Again",
   trackType: "studio",
   explicit: false,

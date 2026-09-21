@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysLeadKindlyLight = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2uM7nnQfZTuho4Ts05Si9s",
-      externalLink: "https://open.spotify.com/track/2uM7nnQfZTuho4Ts05Si9s",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lead, Kindly Light",
   trackType: "studio",
   explicit: false,

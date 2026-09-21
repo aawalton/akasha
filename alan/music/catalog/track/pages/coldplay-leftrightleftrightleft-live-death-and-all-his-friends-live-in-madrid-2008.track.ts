@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveDeathAndAllHisFriendsLiveInMadrid
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "23l7E14oZQJ9tkIy5tdeRi",
-      externalLink: "https://open.spotify.com/track/23l7E14oZQJ9tkIy5tdeRi",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Death and All His Friends - Live in Madrid, 2008",
   trackType: "live",
   explicit: false,

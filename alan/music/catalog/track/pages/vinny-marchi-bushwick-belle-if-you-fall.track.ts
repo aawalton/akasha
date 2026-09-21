@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleIfYouFall = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65OVAf4yPG3umtRv1p5mXD",
-      externalLink: "https://open.spotify.com/track/65OVAf4yPG3umtRv1p5mXD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "If You Fall",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineIveGotToStopThinkinBoutThat = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2i5hAQ1umHhu9ZEhie2XkJ",
-      externalLink: "https://open.spotify.com/track/2i5hAQ1umHhu9ZEhie2XkJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "(I've Got To) Stop Thinkin' 'Bout That",
   trackType: "studio",
   explicit: false,

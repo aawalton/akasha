@@ -9,14 +9,6 @@ export const paulCardallAncestorsExodus = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2DNcBLxH2Ew6rnU52QolkY",
-      externalLink: "https://open.spotify.com/track/2DNcBLxH2Ew6rnU52QolkY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exodus",
   trackType: "studio",
   explicit: false,

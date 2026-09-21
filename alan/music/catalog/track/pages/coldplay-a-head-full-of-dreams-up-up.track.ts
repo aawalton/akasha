@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsUpUp = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "31L9yLXSj6LpCFupyMV6CR",
-      externalLink: "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Up&Up",
   trackType: "studio",
   explicit: false,

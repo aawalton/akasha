@@ -9,14 +9,6 @@ export const jamesTaylor2CoversItsGrowing = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "68Qf4tPdL93soTR5wpcDGN",
-      externalLink: "https://open.spotify.com/track/68Qf4tPdL93soTR5wpcDGN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "It's Growing",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysHowFirmAFoundation = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1b5Zpo6zoLKmvP4eEyAbT8",
-      externalLink: "https://open.spotify.com/track/1b5Zpo6zoLKmvP4eEyAbT8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "How Firm a Foundation",
   trackType: "studio",
   explicit: false,

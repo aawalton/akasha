@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftTheDiner = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1LLUoftvmTjVNBHZoQyveF",
-      externalLink: "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "THE DINER",
   trackType: "studio",
   explicit: false,

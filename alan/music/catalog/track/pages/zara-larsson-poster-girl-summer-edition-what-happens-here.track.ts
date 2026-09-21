@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlSummerEditionWhatHappensHere = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7cvQP9Zzwqhlfb4ZsVH6z4",
-      externalLink: "https://open.spotify.com/track/7cvQP9Zzwqhlfb4ZsVH6z4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "What Happens Here",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderAireAtlanticaRemix = 
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75WGjm9867pcRxGwiLRwK8",
-      externalLink: "https://open.spotify.com/track/75WGjm9867pcRxGwiLRwK8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Six Feet Under - Aire Atlantica Remix",
   trackType: "remix",
   explicit: false,

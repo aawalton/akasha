@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Younger = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3BprrMTQ3IlFvHW8oFTTQ1",
-      externalLink: "https://open.spotify.com/track/3BprrMTQ3IlFvHW8oFTTQ1",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Younger",
   trackType: "studio",
   explicit: false,

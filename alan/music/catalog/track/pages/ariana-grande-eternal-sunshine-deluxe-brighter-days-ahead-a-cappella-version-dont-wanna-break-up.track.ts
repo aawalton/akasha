@@ -16,14 +16,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3d4NRTVASm8UCwczC3EtsL",
-      externalLink: "https://open.spotify.com/track/3d4NRTVASm8UCwczC3EtsL",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "don't wanna break up again",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
   partOfCollections: ["release/sabrina-carpenter-skin-quarterhead-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3DNziCcqRd2v8uQWwec1GW",
-      externalLink: "https://open.spotify.com/track/3DNziCcqRd2v8uQWwec1GW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Skin - Quarterhead Remix",
   trackType: "remix",
   explicit: false,

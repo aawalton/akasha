@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2GodOurFatherHearUsPray = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4MATjrrVSQWXNNv365KDtr",
-      externalLink: "https://open.spotify.com/track/4MATjrrVSQWXNNv365KDtr",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God, Our Father, Hear us Pray",
   trackType: "studio",
   explicit: false,

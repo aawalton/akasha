@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardPenniesFromHeaven = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2n7ObUjqWJ1k8GVhpHSbxM",
-      externalLink: "https://open.spotify.com/track/2n7ObUjqWJ1k8GVhpHSbxM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Pennies From Heaven",
   trackType: "studio",
   explicit: false,

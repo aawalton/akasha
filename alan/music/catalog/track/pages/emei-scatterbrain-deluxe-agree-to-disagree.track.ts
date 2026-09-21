@@ -9,14 +9,6 @@ export const emeiScatterbrainDeluxeAgreeToDisagree = {
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4oD9gB11wTctdCMMzmuZWH",
-      externalLink: "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Agree to Disagree",
   trackType: "studio",
   explicit: false,

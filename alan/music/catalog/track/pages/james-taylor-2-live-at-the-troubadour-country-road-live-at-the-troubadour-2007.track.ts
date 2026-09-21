@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourCountryRoadLiveAtTheTroubadour2007 =
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6WF8qmRCnjEMDugZPjJlPE",
-      externalLink: "https://open.spotify.com/track/6WF8qmRCnjEMDugZPjJlPE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Country Road - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

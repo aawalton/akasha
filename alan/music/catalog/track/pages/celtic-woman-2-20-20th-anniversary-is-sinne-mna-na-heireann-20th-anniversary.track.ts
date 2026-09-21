@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryIsSinneMnaNaHeireann20thAnniversary = 
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6d6UumboU6bxvjJQ025U0O",
-      externalLink: "https://open.spotify.com/track/6d6UumboU6bxvjJQ025U0O",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Is Sinne Mná na hÉireann - 20th Anniversary",
   trackType: "studio",
   explicit: false,

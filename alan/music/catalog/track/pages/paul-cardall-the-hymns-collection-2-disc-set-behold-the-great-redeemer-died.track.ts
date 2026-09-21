@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetBeholdTheGreatRedeemerDied = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RflRRZGYLKsbD1Qud38hU",
-      externalLink: "https://open.spotify.com/track/5RflRRZGYLKsbD1Qud38hU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Behold, the Great Redeemer Died",
   trackType: "studio",
   explicit: false,

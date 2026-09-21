@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlRuinMyLife = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4nyY8oVjbX2d4qzlpiVM5n",
-      externalLink: "https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ruin My Life",
   trackType: "studio",
   explicit: true,

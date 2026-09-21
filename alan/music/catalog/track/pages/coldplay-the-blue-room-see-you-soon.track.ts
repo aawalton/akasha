@@ -9,14 +9,6 @@ export const coldplayTheBlueRoomSeeYouSoon = {
   partOfCollections: ["release/coldplay-the-blue-room"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1uKzAldJYlwje9HstlwTie",
-      externalLink: "https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "See You Soon",
   trackType: "studio",
   explicit: false,

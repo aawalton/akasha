@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasAuldLangSyne = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1gimDDa3tFPOvji1CrtRg3",
-      externalLink: "https://open.spotify.com/track/1gimDDa3tFPOvji1CrtRg3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Auld Lang Syne",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const emei9LivesAllTheseKids = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2lWgmCLkKt9KYjf60ZeZs9",
-      externalLink: "https://open.spotify.com/track/2lWgmCLkKt9KYjf60ZeZs9",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "ALL THESE KIDS",
   trackType: "studio",
   explicit: false,

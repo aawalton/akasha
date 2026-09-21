@@ -9,14 +9,6 @@ export const paulCardallFaithfulScarboroughFair = {
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2SBbX0Yvk7JhkBqEdIzLru",
-      externalLink: "https://open.spotify.com/track/2SBbX0Yvk7JhkBqEdIzLru",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Scarborough Fair",
   trackType: "studio",
   explicit: false,

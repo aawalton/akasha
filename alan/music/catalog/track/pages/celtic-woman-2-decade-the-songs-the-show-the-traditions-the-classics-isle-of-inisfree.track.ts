@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsIsleOfInis
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6IRjuoNyvJItHvOgV0IVPK",
-      externalLink: "https://open.spotify.com/track/6IRjuoNyvJItHvOgV0IVPK",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Isle of Inisfree",
   trackType: "studio",
   explicit: false,

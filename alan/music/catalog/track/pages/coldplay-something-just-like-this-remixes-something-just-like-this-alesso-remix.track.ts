@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisAlessoRemi
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "50RJdoxw8iajGNtHQe6QeS",
-      externalLink: "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This - Alesso Remix",
   trackType: "remix",
   explicit: false,

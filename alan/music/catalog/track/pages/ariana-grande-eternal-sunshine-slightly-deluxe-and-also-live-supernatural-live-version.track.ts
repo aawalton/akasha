@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalLiv
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0FnkhFA4h80IYaYGgKFI2M",
-      externalLink: "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "supernatural - live version",
   trackType: "live",
   explicit: false,

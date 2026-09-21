@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetOMyFather = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0IgBEqb4QJAVHWfUTgEoSI",
-      externalLink: "https://open.spotify.com/track/0IgBEqb4QJAVHWfUTgEoSI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "O My Father",
   trackType: "studio",
   explicit: false,

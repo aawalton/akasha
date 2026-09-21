@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouBel
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "78CeW6MxnnSYezbNE1rQp7",
-      externalLink: "https://open.spotify.com/track/78CeW6MxnnSYezbNE1rQp7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "When You Believe",
   trackType: "studio",
   explicit: false,

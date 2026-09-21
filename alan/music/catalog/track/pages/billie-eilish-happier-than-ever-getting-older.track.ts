@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverGettingOlder = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HOryCnbme0zBnF8LWij3f",
-      externalLink: "https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Getting Older",
   trackType: "studio",
   explicit: false,

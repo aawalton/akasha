@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasAngelsWeHaveHeardOnHigh = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0q0tzfeahbBejmyGlNJxHM",
-      externalLink: "https://open.spotify.com/track/0q0tzfeahbBejmyGlNJxHM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Angels We Have Heard On High",
   trackType: "studio",
   explicit: false,

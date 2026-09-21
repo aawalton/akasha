@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMebhsTune = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "09nv9tFB3yehVR7X67idN8",
-      externalLink: "https://open.spotify.com/track/09nv9tFB3yehVR7X67idN8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mébh's Tune",
   trackType: "studio",
   explicit: false,

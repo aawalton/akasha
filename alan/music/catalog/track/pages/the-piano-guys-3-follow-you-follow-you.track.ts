@@ -13,14 +13,6 @@ export const thePianoGuys3FollowYouFollowYou = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3TuSr70bXooym0mzwYBdtx",
-      externalLink: "https://open.spotify.com/track/3TuSr70bXooym0mzwYBdtx",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Follow You",
   trackType: "studio",
   explicit: false,

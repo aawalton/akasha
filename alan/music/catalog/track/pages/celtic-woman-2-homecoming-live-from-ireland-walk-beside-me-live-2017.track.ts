@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandWalkBesideMeLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4L1NsjiyhaJA0M1AUko8P2",
-      externalLink: "https://open.spotify.com/track/4L1NsjiyhaJA0M1AUko8P2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walk Beside Me - Live 2017",
   trackType: "live",
   explicit: false,

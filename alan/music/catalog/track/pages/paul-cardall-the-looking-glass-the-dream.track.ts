@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassTheDream = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6EDk8EPJ60RIg7YuWWQy7o",
-      externalLink: "https://open.spotify.com/track/6EDk8EPJ60RIg7YuWWQy7o",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Dream",
   trackType: "studio",
   explicit: false,

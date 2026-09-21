@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardTeachMeTonight = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2hVZIMjwyAWegOM0795wYx",
-      externalLink: "https://open.spotify.com/track/2hVZIMjwyAWegOM0795wYx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Teach Me Tonight",
   trackType: "studio",
   explicit: false,

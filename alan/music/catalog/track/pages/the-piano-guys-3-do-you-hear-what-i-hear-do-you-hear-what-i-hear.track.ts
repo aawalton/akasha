@@ -9,14 +9,6 @@ export const thePianoGuys3DoYouHearWhatIHearDoYouHearWhatIHear = {
   partOfCollections: ["release/the-piano-guys-3-do-you-hear-what-i-hear"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Wnkid6KiAXEVIOr8ufniq",
-      externalLink: "https://open.spotify.com/track/0Wnkid6KiAXEVIOr8ufniq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Do You Hear What I Hear?",
   trackType: "studio",
   explicit: false,

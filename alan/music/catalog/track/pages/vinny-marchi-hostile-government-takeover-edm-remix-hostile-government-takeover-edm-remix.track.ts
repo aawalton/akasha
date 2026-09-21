@@ -9,14 +9,6 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   partOfCollections: ["release/vinny-marchi-hostile-government-takeover-edm-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Ztfx8ORaPdsvSZeHRglgr",
-      externalLink: "https://open.spotify.com/track/1Ztfx8ORaPdsvSZeHRglgr",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Hostile Government Takeover - EDM Remix",
   trackType: "remix",
   explicit: false,

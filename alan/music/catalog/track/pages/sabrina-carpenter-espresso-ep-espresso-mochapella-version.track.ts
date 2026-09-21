@@ -9,14 +9,6 @@ export const sabrinaCarpenterEspressoEpEspressoMochapellaVersion = {
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4I7dAz8IaDk76QK3n3eJir",
-      externalLink: "https://open.spotify.com/track/4I7dAz8IaDk76QK3n3eJir",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso - Mochapella Version",
   trackType: "version",
   explicit: true,

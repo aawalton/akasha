@@ -9,14 +9,6 @@ export const arianaGrandePetalKissMe = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0lok0VDJn0zRvHLBCITSSw",
-      externalLink: "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "kiss me",
   trackType: "studio",
   explicit: false,

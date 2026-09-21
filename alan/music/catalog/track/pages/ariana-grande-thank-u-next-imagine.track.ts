@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextImagine = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "39LmTF9RgyakzSYX8txrow",
-      externalLink: "https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "imagine",
   trackType: "studio",
   explicit: true,

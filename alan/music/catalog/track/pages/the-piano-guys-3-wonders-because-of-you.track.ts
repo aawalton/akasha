@@ -9,14 +9,6 @@ export const thePianoGuys3WondersBecauseOfYou = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KDCIv5nMgL5f5u6xbUVZq",
-      externalLink: "https://open.spotify.com/track/7KDCIv5nMgL5f5u6xbUVZq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Because of You",
   trackType: "studio",
   explicit: false,

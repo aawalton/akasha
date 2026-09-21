@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7r6am67jCRvroqkkE2TS8y",
-      externalLink: "https://open.spotify.com/track/7r6am67jCRvroqkkE2TS8y",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Carol of the Bells / God Rest Ye Merry Gentlemen",
   trackType: "studio",
   explicit: false,

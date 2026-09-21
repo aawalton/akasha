@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeBreakFree = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12KUFSHFgT0XCoiSlvdQi4",
-      externalLink: "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Break Free",
   trackType: "studio",
   explicit: false,

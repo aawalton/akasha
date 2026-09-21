@@ -13,14 +13,6 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "77jJZBmiozygu5IYfPun2B",
-      externalLink: "https://open.spotify.com/track/77jJZBmiozygu5IYfPun2B",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Higher Power",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallANewCreationANewCreation = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2S9HnFLlPJzLuqIFlqIRCa",
-      externalLink: "https://open.spotify.com/track/2S9HnFLlPJzLuqIFlqIRCa",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A New Creation",
   trackType: "studio",
   explicit: false,

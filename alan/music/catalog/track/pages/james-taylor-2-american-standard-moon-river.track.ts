@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardMoonRiver = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46RxitOCzS5JhvDwongOS0",
-      externalLink: "https://open.spotify.com/track/46RxitOCzS5JhvDwongOS0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Moon River",
   trackType: "studio",
   explicit: false,

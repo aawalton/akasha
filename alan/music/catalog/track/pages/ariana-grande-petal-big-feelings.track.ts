@@ -9,14 +9,6 @@ export const arianaGrandePetalBigFeelings = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6MFSqc8pzXlwfzXqWZEKd4",
-      externalLink: "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "big feelings",
   trackType: "studio",
   explicit: true,

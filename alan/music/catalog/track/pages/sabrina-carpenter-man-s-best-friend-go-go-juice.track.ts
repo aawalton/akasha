@@ -9,14 +9,6 @@ export const sabrinaCarpenterManSBestFriendGoGoJuice = {
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qyw5wSUkEvH8DtaCdx7Lg",
-      externalLink: "https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Go Go Juice",
   trackType: "studio",
   explicit: true,

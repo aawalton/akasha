@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseBreathe = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5YlyNFI7RJXmVlwHohRWan",
-      externalLink: "https://open.spotify.com/track/5YlyNFI7RJXmVlwHohRWan",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Breathe",
   trackType: "studio",
   explicit: false,

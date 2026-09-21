@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysWhereYouThere = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20yGfhdzsj6ZlSs5Adx0aj",
-      externalLink: "https://open.spotify.com/track/20yGfhdzsj6ZlSs5Adx0aj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where You There?",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bdSZEgKApb7vGxDxyrpdO",
-      externalLink: "https://open.spotify.com/track/3bdSZEgKApb7vGxDxyrpdO",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "warm",
   trackType: "studio",
   explicit: false,

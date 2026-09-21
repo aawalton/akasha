@@ -9,14 +9,6 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "78WaYdbN5qHNbUcTXYoiAJ",
-      externalLink: "https://open.spotify.com/track/78WaYdbN5qHNbUcTXYoiAJ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso - Decaf Version",
   trackType: "version",
   explicit: true,

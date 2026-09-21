@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2FatherInHeavenWeDoBelieve = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "37FLyQE8Mu06FJLb5YC6zb",
-      externalLink: "https://open.spotify.com/track/37FLyQE8Mu06FJLb5YC6zb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Father in Heaven, We Do Believe",
   trackType: "studio",
   explicit: false,

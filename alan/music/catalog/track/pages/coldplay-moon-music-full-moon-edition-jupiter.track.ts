@@ -12,14 +12,6 @@ export const coldplayMoonMusicFullMoonEditionJupiter = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Bc8H4AiPnI8yECFhs6Y3O",
-      externalLink: "https://open.spotify.com/track/3Bc8H4AiPnI8yECFhs6Y3O",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "JUPiTER",
   trackType: "studio",
   explicit: false,

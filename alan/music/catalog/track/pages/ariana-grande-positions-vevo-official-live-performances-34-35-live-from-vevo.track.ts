@@ -9,14 +9,6 @@ export const arianaGrandePositionsVevoOfficialLivePerformances3435LiveFromVevo =
   partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4smwbIg03GTB70RjUmKkir",
-      externalLink: "https://open.spotify.com/track/4smwbIg03GTB70RjUmKkir",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "34+35 - live from Vevo",
   trackType: "live",
   explicit: true,

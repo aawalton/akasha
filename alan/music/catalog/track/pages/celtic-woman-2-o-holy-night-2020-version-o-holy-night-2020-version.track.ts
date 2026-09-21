@@ -9,14 +9,6 @@ export const celticWoman2OHolyNight2020VersionOHolyNight2020Version = {
   partOfCollections: ["release/celtic-woman-2-o-holy-night-2020-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1AQwRFLmCRpRmBOpGV3J10",
-      externalLink: "https://open.spotify.com/track/1AQwRFLmCRpRmBOpGV3J10",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O Holy Night - 2020 Version",
   trackType: "version",
   explicit: false,

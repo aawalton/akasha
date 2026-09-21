@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12TheyDontKnowYouLikeIDo = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KGwRAF99Ryell3B2T4DKy",
-      externalLink: "https://open.spotify.com/track/7KGwRAF99Ryell3B2T4DKy",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "They Don't Know You Like I Do",
   trackType: "studio",
   explicit: false,

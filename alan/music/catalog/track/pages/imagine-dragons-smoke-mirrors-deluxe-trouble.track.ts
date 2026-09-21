@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeTrouble = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6JsePoT1VWserj2YIUu0hE",
-      externalLink: "https://open.spotify.com/track/6JsePoT1VWserj2YIUu0hE",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Trouble",
   trackType: "studio",
   explicit: false,

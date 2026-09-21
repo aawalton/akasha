@@ -9,14 +9,6 @@ export const thePianoGuys3LiveWhatMakesYouBeautifulLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2fib3NtQzWsTvXheOgWA3b",
-      externalLink: "https://open.spotify.com/track/2fib3NtQzWsTvXheOgWA3b",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Makes You Beautiful (Live)",
   trackType: "live",
   explicit: false,

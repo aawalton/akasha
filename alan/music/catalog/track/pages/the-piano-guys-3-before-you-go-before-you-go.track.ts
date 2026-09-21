@@ -9,14 +9,6 @@ export const thePianoGuys3BeforeYouGoBeforeYouGo = {
   partOfCollections: ["release/the-piano-guys-3-before-you-go", "release/the-piano-guys-3-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5JLUo91wuHD9coSvZn0Nl9",
-      externalLink: "https://open.spotify.com/track/5JLUo91wuHD9coSvZn0Nl9",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Before You Go",
   trackType: "studio",
   explicit: false,

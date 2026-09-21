@@ -9,14 +9,6 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
   partOfCollections: ["release/the-piano-guys-3-wayfaring-stranger"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0CPQpB7u7ieoxNwy2l2go1",
-      externalLink: "https://open.spotify.com/track/0CPQpB7u7ieoxNwy2l2go1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Wayfaring Stranger",
   trackType: "studio",
   explicit: false,

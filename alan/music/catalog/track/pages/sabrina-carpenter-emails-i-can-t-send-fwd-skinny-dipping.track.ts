@@ -14,14 +14,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "436RVcyrHyXdqYNWGYMxx5",
-      externalLink: "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "skinny dipping",
   trackType: "studio",
   explicit: false,

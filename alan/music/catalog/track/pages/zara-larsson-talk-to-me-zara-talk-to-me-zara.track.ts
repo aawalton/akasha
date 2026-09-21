@@ -9,14 +9,6 @@ export const zaraLarssonTalkToMeZaraTalkToMeZara = {
   partOfCollections: ["release/zara-larsson-talk-to-me-zara"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58bQU5JRk0sBMUMdRy7sjk",
-      externalLink: "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Talk To Me, Zara",
   trackType: "studio",
   explicit: false,

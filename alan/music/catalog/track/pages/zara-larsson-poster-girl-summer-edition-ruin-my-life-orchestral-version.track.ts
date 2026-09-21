@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlSummerEditionRuinMyLifeOrchestralVersion = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1AMY9k1jLWD7Z0HxjP56fD",
-      externalLink: "https://open.spotify.com/track/1AMY9k1jLWD7Z0HxjP56fD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ruin My Life - Orchestral Version",
   trackType: "version",
   explicit: true,

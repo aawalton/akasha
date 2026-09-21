@@ -9,14 +9,6 @@ export const paulCardallSacredPianoWhereYouThere = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Aa8vLcIfoAJikT1QVrAbY",
-      externalLink: "https://open.spotify.com/track/6Aa8vLcIfoAJikT1QVrAbY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where You There?",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasMonBeauSapin = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0SEtLXirpHg7m50arIBfPi",
-      externalLink: "https://open.spotify.com/track/0SEtLXirpHg7m50arIBfPi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mon Beau Sapin",
   trackType: "studio",
   explicit: false,

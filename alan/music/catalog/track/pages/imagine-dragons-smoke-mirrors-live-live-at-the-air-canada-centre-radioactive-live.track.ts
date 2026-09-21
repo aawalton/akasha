@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreRadioactiveLi
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0mO71IEhEaXyQP5YpRdswm",
-      externalLink: "https://open.spotify.com/track/0mO71IEhEaXyQP5YpRdswm",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive - Live",
   trackType: "live",
   explicit: false,

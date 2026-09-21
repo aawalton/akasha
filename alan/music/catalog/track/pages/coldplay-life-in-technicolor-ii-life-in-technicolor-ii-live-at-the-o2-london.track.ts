@@ -9,14 +9,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIiLiveAtTheO2London = {
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5kUpX8qTX6yXBJHK8UwBEF",
-      externalLink: "https://open.spotify.com/track/5kUpX8qTX6yXBJHK8UwBEF",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Life in Technicolor ii - Live at the O2, London",
   trackType: "live",
   explicit: false,

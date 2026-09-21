@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNewgrange 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27wPXrr3lC7X5iEkTqOmaB",
-      externalLink: "https://open.spotify.com/track/27wPXrr3lC7X5iEkTqOmaB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Newgrange",
   trackType: "studio",
   explicit: false,

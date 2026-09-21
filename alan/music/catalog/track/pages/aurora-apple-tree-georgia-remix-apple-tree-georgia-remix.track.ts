@@ -9,14 +9,6 @@ export const auroraAppleTreeGeorgiaRemixAppleTreeGeorgiaRemix = {
   partOfCollections: ["release/aurora-apple-tree-georgia-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "71V3Yv1FWouWHXgXXEIIhn",
-      externalLink: "https://open.spotify.com/track/71V3Yv1FWouWHXgXXEIIhn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Apple Tree - Georgia Remix",
   trackType: "remix",
   explicit: false,

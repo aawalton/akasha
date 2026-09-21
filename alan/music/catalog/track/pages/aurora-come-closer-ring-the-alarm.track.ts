@@ -9,14 +9,6 @@ export const auroraComeCloserRingTheAlarm = {
   partOfCollections: ["release/aurora-come-closer", "release/aurora-ring-the-alarm"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3i3Qa9DLMVeexn7ighFoVS",
-      externalLink: "https://open.spotify.com/track/3i3Qa9DLMVeexn7ighFoVS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "RING THE ALARM",
   trackType: "studio",
   explicit: false,

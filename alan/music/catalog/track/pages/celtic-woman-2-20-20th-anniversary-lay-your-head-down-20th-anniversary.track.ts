@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryLayYourHeadDown20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oqv28wSo7DiUTtTgeDrt9",
-      externalLink: "https://open.spotify.com/track/5oqv28wSo7DiUTtTgeDrt9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lay Your Head Down - 20th Anniversary",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12PeaceOfMind = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bwvtkLyVe7YWrKRlViloR",
-      externalLink: "https://open.spotify.com/track/3bwvtkLyVe7YWrKRlViloR",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Peace Of Mind",
   trackType: "studio",
   explicit: false,

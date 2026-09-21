@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeMyHair = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Ds3yH73nMHgkmJxcxqPrr",
-      externalLink: "https://open.spotify.com/track/5Ds3yH73nMHgkmJxcxqPrr",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "my hair",
   trackType: "studio",
   explicit: false,

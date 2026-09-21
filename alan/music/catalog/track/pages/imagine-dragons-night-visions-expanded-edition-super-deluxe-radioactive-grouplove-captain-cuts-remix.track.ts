@@ -10,14 +10,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveGrou
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "0Htv7EQoiOtmpAoYciJZ3n",
-        externalLink: "https://open.spotify.com/track/0Htv7EQoiOtmpAoYciJZ3n",
-        lastSyncedAt: "2026-09-21",
-      },
-    ],
     title: "Radioactive - Grouplove & Captain Cuts Remix",
     trackType: "remix",
     explicit: false,

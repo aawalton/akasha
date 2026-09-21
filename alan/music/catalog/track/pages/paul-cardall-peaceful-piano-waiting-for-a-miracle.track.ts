@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoWaitingForAMiracle = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0O40EaaeL2hNMyX6U7L58N",
-      externalLink: "https://open.spotify.com/track/0O40EaaeL2hNMyX6U7L58N",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Waiting for a Miracle",
   trackType: "studio",
   explicit: false,

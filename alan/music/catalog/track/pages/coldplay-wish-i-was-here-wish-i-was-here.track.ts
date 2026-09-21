@@ -9,14 +9,6 @@ export const coldplayWishIWasHereWishIWasHere = {
   partOfCollections: ["release/coldplay-wish-i-was-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "13doQ9lWZT2avl2iZJFV1b",
-      externalLink: "https://open.spotify.com/track/13doQ9lWZT2avl2iZJFV1b",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Wish I Was Here",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionFeelslikeimfallinginlive = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0jBZ05RoZHQfkxInRz7Byr",
-      externalLink: "https://open.spotify.com/track/0jBZ05RoZHQfkxInRz7Byr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "feelslikeimfallinginlive",
   trackType: "studio",
   explicit: false,

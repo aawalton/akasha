@@ -9,14 +9,6 @@ export const thePianoGuys3LiveBeethovens5SecretsLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5loE7SbPdaUAIZ3rGhwKac",
-      externalLink: "https://open.spotify.com/track/5loE7SbPdaUAIZ3rGhwKac",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Beethoven's 5 Secrets (Live)",
   trackType: "live",
   explicit: false,

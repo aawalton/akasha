@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetMoreHolinessGiveMe = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "54OFEYcux4hOokTeCZfCXk",
-      externalLink: "https://open.spotify.com/track/54OFEYcux4hOokTeCZfCXk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "More Holiness Give Me",
   trackType: "studio",
   explicit: false,

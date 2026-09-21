@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveThatLonesomeRoad = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "72Pnc2r7k6TA0SLzapYV2u",
-      externalLink: "https://open.spotify.com/track/72Pnc2r7k6TA0SLzapYV2u",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "That Lonesome Road",
   trackType: "studio",
   explicit: false,

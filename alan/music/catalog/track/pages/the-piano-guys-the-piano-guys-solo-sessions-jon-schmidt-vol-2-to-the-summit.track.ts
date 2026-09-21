@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ToTheSummit = {
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0tRKhRuFAfUNgBLrktesNA",
-      externalLink: "https://open.spotify.com/track/0tRKhRuFAfUNgBLrktesNA",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "To The Summit",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationDingDongMerrilyOnHigh = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06SJ2wV2M3xRw4Eag4HvOm",
-      externalLink: "https://open.spotify.com/track/06SJ2wV2M3xRw4Eag4HvOm",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ding Dong Merrily On High",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsFirstBreath = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "03he3cZdJIwDxSYZh4VewB",
-      externalLink: "https://open.spotify.com/track/03he3cZdJIwDxSYZh4VewB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "First Breath",
   trackType: "studio",
   explicit: false,

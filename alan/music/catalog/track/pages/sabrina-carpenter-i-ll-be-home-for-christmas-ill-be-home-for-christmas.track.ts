@@ -9,14 +9,6 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
   partOfCollections: ["release/sabrina-carpenter-i-ll-be-home-for-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4xrSZaNoi4OisFTGYlhPYu",
-      externalLink: "https://open.spotify.com/track/4xrSZaNoi4OisFTGYlhPYu",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I'll Be Home For Christmas",
   trackType: "studio",
   explicit: false,

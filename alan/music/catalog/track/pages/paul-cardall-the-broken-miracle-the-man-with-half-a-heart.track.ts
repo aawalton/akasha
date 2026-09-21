@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7Jx5SMT5AWkKm6n8ZIdheO",
-      externalLink: "https://open.spotify.com/track/7Jx5SMT5AWkKm6n8ZIdheO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Man with Half a Heart",
   trackType: "studio",
   explicit: false,

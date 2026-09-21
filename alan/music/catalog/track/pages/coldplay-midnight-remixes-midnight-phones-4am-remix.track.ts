@@ -9,14 +9,6 @@ export const coldplayMidnightRemixesMidnightPhones4amRemix = {
   partOfCollections: ["release/coldplay-midnight-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3eU4DYI9j2zdzwrqJ9U3fk",
-      externalLink: "https://open.spotify.com/track/3eU4DYI9j2zdzwrqJ9U3fk",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Midnight - Phones 4AM Remix",
   trackType: "remix",
   explicit: false,

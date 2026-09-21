@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineShedALittleLight = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6HEuDvRMsTTL0ttclm5MiB",
-      externalLink: "https://open.spotify.com/track/6HEuDvRMsTTL0ttclm5MiB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shed a Little Light",
   trackType: "studio",
   explicit: false,

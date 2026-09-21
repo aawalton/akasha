@@ -9,14 +9,6 @@ export const paulCardallHymnsJesusOfNazarethSaviorAndKing = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tSWvZeMaPuXzHYD2qkqOp",
-      externalLink: "https://open.spotify.com/track/7tSWvZeMaPuXzHYD2qkqOp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus Of Nazareth, Savior And King",
   trackType: "studio",
   explicit: false,

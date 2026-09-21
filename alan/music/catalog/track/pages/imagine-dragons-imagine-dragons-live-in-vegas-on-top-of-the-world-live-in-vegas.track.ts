@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasOnTopOfTheWorldLiveInVegas =
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Usx0QtbyiNtzTksvofjD8",
-      externalLink: "https://open.spotify.com/track/3Usx0QtbyiNtzTksvofjD8",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "On Top of the World - Live in Vegas",
   trackType: "live",
   explicit: false,

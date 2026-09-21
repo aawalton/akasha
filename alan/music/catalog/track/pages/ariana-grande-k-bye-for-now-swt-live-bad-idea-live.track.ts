@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveBadIdeaLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12s87E3EVHMYZQyr9mXsUi",
-      externalLink: "https://open.spotify.com/track/12s87E3EVHMYZQyr9mXsUi",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "bad idea - live",
   trackType: "live",
   explicit: false,

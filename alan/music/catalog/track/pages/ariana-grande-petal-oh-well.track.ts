@@ -9,14 +9,6 @@ export const arianaGrandePetalOhWell = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DZOKNtaoVEssXu9ltcMjx",
-      externalLink: "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "oh well",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sISawTheSign = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5x02A8uOkDe3XwXYTbkpp3",
-      externalLink: "https://open.spotify.com/track/5x02A8uOkDe3XwXYTbkpp3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Saw the Sign",
   trackType: "studio",
   explicit: false,

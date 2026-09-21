@@ -9,14 +9,6 @@ export const thePianoGuys3LiveSummerJamLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5eqn01HUwtVcyNS9MxULzW",
-      externalLink: "https://open.spotify.com/track/5eqn01HUwtVcyNS9MxULzW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Summer Jam (Live)",
   trackType: "live",
   explicit: false,

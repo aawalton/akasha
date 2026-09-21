@@ -9,14 +9,6 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeFutoseRemixRadioEdi
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5yNlPsX6Cv2gQJLcLl6jRF",
-      externalLink: "https://open.spotify.com/track/5yNlPsX6Cv2gQJLcLl6jRF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Worry Bout Me - Futosé Remix (Radio Edit)",
   trackType: "remix",
   explicit: false,

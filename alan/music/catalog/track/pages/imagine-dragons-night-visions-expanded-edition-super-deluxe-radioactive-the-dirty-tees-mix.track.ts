@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveTheD
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1vOnrbY7NwnmBRsXCyvH9Y",
-      externalLink: "https://open.spotify.com/track/1vOnrbY7NwnmBRsXCyvH9Y",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive - The Dirty Tees Mix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsLoveOneAnother = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0OdKeYxyuesBpMnG99FdMg",
-      externalLink: "https://open.spotify.com/track/0OdKeYxyuesBpMnG99FdMg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Love One Another",
   trackType: "studio",
   explicit: false,

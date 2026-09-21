@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasWhatChildIsThis = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5v5ozP4IPoqI1lp18CEQHX",
-      externalLink: "https://open.spotify.com/track/5v5ozP4IPoqI1lp18CEQHX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "What Child Is This",
   trackType: "studio",
   explicit: false,

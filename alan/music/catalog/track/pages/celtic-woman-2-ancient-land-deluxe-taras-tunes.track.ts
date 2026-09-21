@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeTarasTunes = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0B1BsqDgLi43kBFcZievzi",
-      externalLink: "https://open.spotify.com/track/0B1BsqDgLi43kBFcZievzi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Tara’s Tunes",
   trackType: "studio",
   explicit: false,

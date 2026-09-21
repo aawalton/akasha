@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysNearerMyGodToThee = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15CfgHZuNDYfFpEPUnQd53",
-      externalLink: "https://open.spotify.com/track/15CfgHZuNDYfFpEPUnQd53",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Nearer My God to Thee",
   trackType: "studio",
   explicit: false,

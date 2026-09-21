@@ -9,14 +9,6 @@ export const coldplayLive2003YellowLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6cR5WracqJzYoH80lSKW0L",
-      externalLink: "https://open.spotify.com/track/6cR5WracqJzYoH80lSKW0L",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Yellow - Live in Sydney",
   trackType: "live",
   explicit: false,

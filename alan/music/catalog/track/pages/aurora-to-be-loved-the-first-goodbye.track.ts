@@ -9,14 +9,6 @@ export const auroraToBeLovedTheFirstGoodbye = {
   partOfCollections: ["release/aurora-to-be-loved"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27iuXGU1GaQfX3Qb2tshNN",
-      externalLink: "https://open.spotify.com/track/27iuXGU1GaQfX3Qb2tshNN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The First Goodbye",
   trackType: "studio",
   explicit: false,

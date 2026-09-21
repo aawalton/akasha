@@ -12,14 +12,6 @@ export const imagineDragonsItSTimeRemixesItsTimeKatKrazyRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1oaDzi2XMyQwcJm2aUyc7s",
-      externalLink: "https://open.spotify.com/track/1oaDzi2XMyQwcJm2aUyc7s",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Kat Krazy Remix",
   trackType: "remix",
   explicit: false,

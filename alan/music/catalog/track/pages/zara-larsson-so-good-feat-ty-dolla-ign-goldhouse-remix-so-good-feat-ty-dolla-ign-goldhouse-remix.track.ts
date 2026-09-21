@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemixSoGoodFeatTyDollaIgnGo
   partOfCollections: ["release/zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6a5lVwA7y5s0IJ1jNrROGC",
-      externalLink: "https://open.spotify.com/track/6a5lVwA7y5s0IJ1jNrROGC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "So Good (feat. Ty Dolla $ign) - GOLDHOUSE Remix",
   trackType: "remix",
   explicit: false,

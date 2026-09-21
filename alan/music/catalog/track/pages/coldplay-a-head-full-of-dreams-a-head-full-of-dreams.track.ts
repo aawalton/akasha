@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsAHeadFullOfDreams = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6f49kbOuQSOsStBpyGvQfA",
-      externalLink: "https://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Head Full of Dreams",
   trackType: "studio",
   explicit: false,

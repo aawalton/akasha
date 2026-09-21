@@ -9,14 +9,6 @@ export const zaraLarssonVenusEndOfTime = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "42od6nOeV32g5uNwz17xq5",
-      externalLink: "https://open.spotify.com/track/42od6nOeV32g5uNwz17xq5",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time",
   trackType: "studio",
   explicit: true,

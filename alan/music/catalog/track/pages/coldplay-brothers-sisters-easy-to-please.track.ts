@@ -9,14 +9,6 @@ export const coldplayBrothersSistersEasyToPlease = {
   partOfCollections: ["release/coldplay-brothers-sisters"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6KHZ9SElsSmjQI7B9D0e4P",
-      externalLink: "https://open.spotify.com/track/6KHZ9SElsSmjQI7B9D0e4P",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Easy To Please",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeGardenOfEden = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0PJMT4f3kAFxWCJyn1BZKw",
-      externalLink: "https://open.spotify.com/track/0PJMT4f3kAFxWCJyn1BZKw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Garden Of Eden",
   trackType: "studio",
   explicit: false,

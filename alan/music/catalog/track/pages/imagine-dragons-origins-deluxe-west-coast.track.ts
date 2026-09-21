@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeWestCoast = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nkoWsTZa8LKPNGdjI5uxj",
-      externalLink: "https://open.spotify.com/track/2nkoWsTZa8LKPNGdjI5uxj",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "West Coast",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourBlossomLiveAtTheTroubadour2007 = {
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0TtyTyOnVLJnpAWwg9o1PY",
-      externalLink: "https://open.spotify.com/track/0TtyTyOnVLJnpAWwg9o1PY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Blossom - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

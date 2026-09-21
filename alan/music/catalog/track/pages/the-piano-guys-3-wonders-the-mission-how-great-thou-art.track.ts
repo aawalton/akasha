@@ -9,14 +9,6 @@ export const thePianoGuys3WondersTheMissionHowGreatThouArt = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1paWB93HOc8W9RAZRooFg4",
-      externalLink: "https://open.spotify.com/track/1paWB93HOc8W9RAZRooFg4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Mission / How Great Thou Art",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayTheBlueRoomBiggerStronger = {
   partOfCollections: ["release/coldplay-the-blue-room"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DJtltTQQvcFhP65SFqKxq",
-      externalLink: "https://open.spotify.com/track/5DJtltTQQvcFhP65SFqKxq",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Bigger Stronger",
   trackType: "studio",
   explicit: false,

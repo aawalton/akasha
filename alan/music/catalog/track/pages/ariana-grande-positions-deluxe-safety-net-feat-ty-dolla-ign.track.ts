@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "53Z8fbdVNus9Kiu7tWIBEC",
-      externalLink: "https://open.spotify.com/track/53Z8fbdVNus9Kiu7tWIBEC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "safety net (feat. Ty Dolla $ign)",
   trackType: "studio",
   explicit: false,

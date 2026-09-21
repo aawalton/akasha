@@ -9,14 +9,6 @@ export const auroraTheConflictOfTheMindYourBlood = {
   partOfCollections: ["release/aurora-the-conflict-of-the-mind", "release/aurora-your-blood"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1kiLhVtNkuBgsbOBtaXzaL",
-      externalLink: "https://open.spotify.com/track/1kiLhVtNkuBgsbOBtaXzaL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Your Blood",
   trackType: "studio",
   explicit: false,

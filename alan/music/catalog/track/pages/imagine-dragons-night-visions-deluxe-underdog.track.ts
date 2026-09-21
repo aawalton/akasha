@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsDeluxeUnderdog = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5QkekEa4chV2jzA6007bD6",
-      externalLink: "https://open.spotify.com/track/5QkekEa4chV2jzA6007bD6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Underdog",
   trackType: "studio",
   explicit: false,

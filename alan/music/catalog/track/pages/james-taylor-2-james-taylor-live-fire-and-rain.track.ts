@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveFireAndRain = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1viOJBA51fN3goL3mJuSg8",
-      externalLink: "https://open.spotify.com/track/1viOJBA51fN3goL3mJuSg8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fire and Rain",
   trackType: "studio",
   explicit: false,

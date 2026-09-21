@@ -9,14 +9,6 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
   partOfCollections: ["release/coldplay-champion-of-the-world-live-at-npr-s-tiny-desk"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46mtcgDcwjjcherBLHMWH3",
-      externalLink: "https://open.spotify.com/track/46mtcgDcwjjcherBLHMWH3",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Champion Of The World - Live at NPR's Tiny Desk",
   trackType: "live",
   explicit: false,

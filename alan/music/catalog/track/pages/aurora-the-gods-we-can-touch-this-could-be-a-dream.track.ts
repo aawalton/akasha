@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchThisCouldBeADream = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "00mbTg6YY97wy8DLQzOkNZ",
-      externalLink: "https://open.spotify.com/track/00mbTg6YY97wy8DLQzOkNZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "This Could Be A Dream",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiAtmosphereAtmosphere = {
   partOfCollections: ["release/vinny-marchi-atmosphere"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6FAz7xrWdeXGentftxyqd5",
-      externalLink: "https://open.spotify.com/track/6FAz7xrWdeXGentftxyqd5",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Atmosphere",
   trackType: "studio",
   explicit: false,

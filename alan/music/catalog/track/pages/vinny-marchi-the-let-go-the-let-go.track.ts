@@ -9,14 +9,6 @@ export const vinnyMarchiTheLetGoTheLetGo = {
   partOfCollections: ["release/vinny-marchi-the-let-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "22DPaemXvTGdABSZNGu1Au",
-      externalLink: "https://open.spotify.com/track/22DPaemXvTGdABSZNGu1Au",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Let Go",
   trackType: "studio",
   explicit: false,

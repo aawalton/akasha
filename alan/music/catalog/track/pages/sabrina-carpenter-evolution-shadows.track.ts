@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionShadows = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65RTUeyKsXuiIocxEzYhMY",
-      externalLink: "https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Shadows",
   trackType: "studio",
   explicit: false,

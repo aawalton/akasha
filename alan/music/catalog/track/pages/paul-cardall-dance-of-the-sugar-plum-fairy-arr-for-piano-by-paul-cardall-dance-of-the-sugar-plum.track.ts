@@ -11,14 +11,6 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardallDanceOfT
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5SIclNushJpkyxyYXOWOY6",
-      externalLink: "https://open.spotify.com/track/5SIclNushJpkyxyYXOWOY6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",
   trackType: "studio",
   explicit: false,

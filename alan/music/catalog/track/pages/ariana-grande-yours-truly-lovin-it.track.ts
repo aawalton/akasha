@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyLovinIt = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7EpKfPAURnG9OCVer0S30N",
-      externalLink: "https://open.spotify.com/track/7EpKfPAURnG9OCVer0S30N",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Lovin' It",
   trackType: "studio",
   explicit: false,

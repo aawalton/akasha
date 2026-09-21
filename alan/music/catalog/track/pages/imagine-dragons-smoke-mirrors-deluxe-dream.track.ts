@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeDream = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5pryXvaRTif60GCf1e4rmc",
-      externalLink: "https://open.spotify.com/track/5pryXvaRTif60GCf1e4rmc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Dream",
   trackType: "studio",
   explicit: false,

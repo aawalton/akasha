@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionTooClose = {
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2llI8hROBLYRXhH89nfqJW",
-      externalLink: "https://open.spotify.com/track/2llI8hROBLYRXhH89nfqJW",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Too Close",
   trackType: "studio",
   explicit: false,

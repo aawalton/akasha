@@ -10,14 +10,6 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
     partOfCollections: ["release/imagine-dragons-whatever-it-takes-miss-congeniality-remix"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "5jS8NWRE77LVJm9mCbpamU",
-        externalLink: "https://open.spotify.com/track/5jS8NWRE77LVJm9mCbpamU",
-        lastSyncedAt: "2026-09-21",
-      },
-    ],
     title: "Whatever It Takes - Miss Congeniality Remix",
     trackType: "remix",
     explicit: false,

@@ -9,14 +9,6 @@ export const auroraAnimalSoulAnimalSoul = {
   partOfCollections: ["release/aurora-animal-soul"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6KLkPSUno2eKn6L23liMbf",
-      externalLink: "https://open.spotify.com/track/6KLkPSUno2eKn6L23liMbf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Animal Soul",
   trackType: "studio",
   explicit: false,

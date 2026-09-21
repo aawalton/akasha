@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherLittleDrummerBoyDoYouHearWhatIHear = 
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2RdEm8jQC4HCGLBzc7827w",
-      externalLink: "https://open.spotify.com/track/2RdEm8jQC4HCGLBzc7827w",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Little Drummer Boy / Do You Hear What I Hear",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionMoGhileMearLiveFro
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2poDVzmVg006o2TIDr36Je",
-      externalLink: "https://open.spotify.com/track/2poDVzmVg006o2TIDr36Je",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear - Live From Slane Castle, Ireland/2006",
   trackType: "live",
   explicit: false,

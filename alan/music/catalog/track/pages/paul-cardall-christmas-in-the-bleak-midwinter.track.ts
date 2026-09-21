@@ -9,14 +9,6 @@ export const paulCardallChristmasInTheBleakMidwinter = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WzsXVs2coPBkiLw3RqAGN",
-      externalLink: "https://open.spotify.com/track/3WzsXVs2coPBkiLw3RqAGN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In the Bleak Midwinter",
   trackType: "studio",
   explicit: false,

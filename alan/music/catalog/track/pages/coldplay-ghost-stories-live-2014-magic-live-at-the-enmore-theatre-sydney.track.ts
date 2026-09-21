@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014MagicLiveAtTheEnmoreTheatreSydney = {
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bVwuZb0nYvAMn3roElQnY",
-      externalLink: "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Magic - Live at the Enmore Theatre, Sydney",
   trackType: "live",
   explicit: false,

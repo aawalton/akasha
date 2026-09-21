@@ -9,14 +9,6 @@ export const paulCardallNewLifeComeThouFountOfEveryBlessing = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3FnDtsMD16NhP9m8dmkp6u",
-      externalLink: "https://open.spotify.com/track/3FnDtsMD16NhP9m8dmkp6u",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come Thou Fount of Every Blessing",
   trackType: "studio",
   explicit: false,

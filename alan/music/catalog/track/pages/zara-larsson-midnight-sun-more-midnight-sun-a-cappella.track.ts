@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunACappella = {
   partOfCollections: ["release/zara-larsson-midnight-sun-more"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "30GjtBsqQTrVtpn95Zfkxe",
-      externalLink: "https://open.spotify.com/track/30GjtBsqQTrVtpn95Zfkxe",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - A Cappella",
   trackType: "a-cappella",
   explicit: false,

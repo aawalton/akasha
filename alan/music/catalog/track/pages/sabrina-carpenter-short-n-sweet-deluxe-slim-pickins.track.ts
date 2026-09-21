@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeSlimPickins = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "13djc4bqGG8n26PmsAuByA",
-      externalLink: "https://open.spotify.com/track/13djc4bqGG8n26PmsAuByA",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Slim Pickins",
   trackType: "studio",
   explicit: false,

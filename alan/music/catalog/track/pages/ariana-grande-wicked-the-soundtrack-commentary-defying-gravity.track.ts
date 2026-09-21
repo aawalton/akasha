@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravity = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7Kk8nYSCAzkQlomcTaNUc9",
-      externalLink: "https://open.spotify.com/track/7Kk8nYSCAzkQlomcTaNUc9",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Defying Gravity",
   trackType: "studio",
   explicit: false,

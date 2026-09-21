@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionPieJesu = {
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "07g1Xm2m7z6veTCniGDdNP",
-      externalLink: "https://open.spotify.com/track/07g1Xm2m7z6veTCniGDdNP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Pie Jesu",
   trackType: "studio",
   explicit: false,

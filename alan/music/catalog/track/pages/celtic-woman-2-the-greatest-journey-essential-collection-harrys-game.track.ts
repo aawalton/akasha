@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionHarrysGame = {
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75r1KrAftgrlVdO44nvquj",
-      externalLink: "https://open.spotify.com/track/75r1KrAftgrlVdO44nvquj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Harry's Game",
   trackType: "studio",
   explicit: false,

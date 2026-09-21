@@ -12,14 +12,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOneLastTime = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0e6qFb4yA7MkyHA9Cpb6c1",
-      externalLink: "https://open.spotify.com/track/0e6qFb4yA7MkyHA9Cpb6c1",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "One Last Time",
   trackType: "studio",
   explicit: false,

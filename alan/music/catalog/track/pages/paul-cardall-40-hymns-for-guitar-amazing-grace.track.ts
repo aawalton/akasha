@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarAmazingGrace = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mZacuPQMg3lwMq2OSDsCf",
-      externalLink: "https://open.spotify.com/track/5mZacuPQMg3lwMq2OSDsCf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,

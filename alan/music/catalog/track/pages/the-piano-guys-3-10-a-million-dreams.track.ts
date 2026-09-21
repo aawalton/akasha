@@ -12,14 +12,6 @@ export const thePianoGuys310AMillionDreams = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46qfd3eMFxvrUVS9yu9g9H",
-      externalLink: "https://open.spotify.com/track/46qfd3eMFxvrUVS9yu9g9H",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Million Dreams",
   trackType: "studio",
   explicit: false,

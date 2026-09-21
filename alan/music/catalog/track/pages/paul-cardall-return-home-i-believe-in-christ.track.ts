@@ -9,14 +9,6 @@ export const paulCardallReturnHomeIBelieveInChrist = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yqSZF8f62VudWGWSqBi7g",
-      externalLink: "https://open.spotify.com/track/1yqSZF8f62VudWGWSqBi7g",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Believe In Christ",
   trackType: "studio",
   explicit: false,

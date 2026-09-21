@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeMnaNaHeireannWomenOfIreland = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3FrOEslRrmHa93zgMlhxd2",
-      externalLink: "https://open.spotify.com/track/3FrOEslRrmHa93zgMlhxd2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mná Na hÉireann (Women Of Ireland)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMonicaDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6r3jteHvR25BRmiHHJO12i",
-      externalLink: "https://open.spotify.com/track/6r3jteHvR25BRmiHHJO12i",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Monica - Demo",
   trackType: "demo",
   explicit: false,

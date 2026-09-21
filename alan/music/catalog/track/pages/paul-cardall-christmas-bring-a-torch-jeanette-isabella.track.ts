@@ -9,14 +9,6 @@ export const paulCardallChristmasBringATorchJeanetteIsabella = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2C8wlvRv2i46AiVVanRZw9",
-      externalLink: "https://open.spotify.com/track/2C8wlvRv2i46AiVVanRZw9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bring a Torch, Jeanette, Isabella",
   trackType: "studio",
   explicit: false,

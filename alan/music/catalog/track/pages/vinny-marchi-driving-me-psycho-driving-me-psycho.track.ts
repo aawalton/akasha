@@ -9,14 +9,6 @@ export const vinnyMarchiDrivingMePsychoDrivingMePsycho = {
   partOfCollections: ["release/vinny-marchi-driving-me-psycho"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2jwxG2fGcgTRirSDOXTEqO",
-      externalLink: "https://open.spotify.com/track/2jwxG2fGcgTRirSDOXTEqO",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "DRIVING ME PSYCHO",
   trackType: "studio",
   explicit: false,

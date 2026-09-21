@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023StupidMentalHealthWalk = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "37jT0vOT9Tv0bp9Aw5MeMd",
-      externalLink: "https://open.spotify.com/track/37jT0vOT9Tv0bp9Aw5MeMd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Stupid Mental Health Walk",
   trackType: "studio",
   explicit: false,

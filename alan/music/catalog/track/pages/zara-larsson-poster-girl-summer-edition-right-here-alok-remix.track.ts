@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlSummerEditionRightHereAlokRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "60EwQMdrQsIPNI4QYJN8N8",
-      externalLink: "https://open.spotify.com/track/60EwQMdrQsIPNI4QYJN8N8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Right Here - Alok Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
   partOfCollections: ["release/coldplay-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6M0tj2hONdMEveSWg3JdQG",
-      externalLink: "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Day ‘n’ Nite - Spotify Singles",
   trackType: "studio",
   explicit: false,

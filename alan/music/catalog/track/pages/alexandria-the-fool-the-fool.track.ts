@@ -9,14 +9,6 @@ export const alexandriaTheFoolTheFool = {
   partOfCollections: ["release/alexandria-the-fool"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5OkXA7ru3aZrY92m800aSc",
-      externalLink: "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Fool",
   trackType: "studio",
   explicit: false,

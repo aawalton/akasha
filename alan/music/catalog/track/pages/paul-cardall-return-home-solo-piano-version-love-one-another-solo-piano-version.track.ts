@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionLoveOneAnotherSoloPianoVersion
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6a23gUikVqQVIEKHIxO8Aw",
-      externalLink: "https://open.spotify.com/track/6a23gUikVqQVIEKHIxO8Aw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Love One Another - Solo Piano Version",
   trackType: "version",
   explicit: false,

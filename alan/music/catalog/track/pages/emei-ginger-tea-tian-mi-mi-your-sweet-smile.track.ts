@@ -9,14 +9,6 @@ export const emeiGingerTeaTianMiMiYourSweetSmile = {
   partOfCollections: ["release/emei-ginger-tea"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1wYBTmZ8tBfm7kX3RYkYLZ",
-      externalLink: "https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tian Mi Mi (Your Sweet Smile)",
   trackType: "studio",
   explicit: false,

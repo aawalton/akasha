@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsBleedingOut = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NaBDHz9C7Uz9Z9CwLXQin",
-      externalLink: "https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bleeding Out",
   trackType: "studio",
   explicit: false,

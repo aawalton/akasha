@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveFixYouLiveInSydney2009 = {
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Ir2uqonLKO7JZwZM45558",
-      externalLink: "https://open.spotify.com/track/0Ir2uqonLKO7JZwZM45558",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Fix You - Live in Sydney, 2009",
   trackType: "live",
   explicit: false,

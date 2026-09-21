@@ -9,14 +9,6 @@ export const paulCardallSavingTinyHeartsGraciesTheme = {
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6JcdNN2XJezTa49WJUn2yW",
-      externalLink: "https://open.spotify.com/track/6JcdNN2XJezTa49WJUn2yW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gracie's Theme",
   trackType: "studio",
   explicit: false,

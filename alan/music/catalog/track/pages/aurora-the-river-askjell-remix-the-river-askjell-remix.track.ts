@@ -9,14 +9,6 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
   partOfCollections: ["release/aurora-the-river-askjell-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7mjoN4sysCtuTuQ3e1WTlM",
-      externalLink: "https://open.spotify.com/track/7mjoN4sysCtuTuQ3e1WTlM",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The River - Askjell Remix",
   trackType: "remix",
   explicit: false,

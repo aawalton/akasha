@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeLongJourneyHome = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Q3OPCz5bgrglX6I77LMff",
-      externalLink: "https://open.spotify.com/track/3Q3OPCz5bgrglX6I77LMff",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Long Journey Home",
   trackType: "studio",
   explicit: false,

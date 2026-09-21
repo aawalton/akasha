@@ -9,14 +9,6 @@ export const coldplayMyloXylotoAHopefulTransmission = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6n1x3DYFDpRau83XsI32NU",
-      externalLink: "https://open.spotify.com/track/6n1x3DYFDpRau83XsI32NU",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Hopeful Transmission",
   trackType: "studio",
   explicit: false,

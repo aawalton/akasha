@@ -9,14 +9,6 @@ export const thePianoGuys3ChillDeStressedOut = {
   partOfCollections: ["release/the-piano-guys-3-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2F4bPSfiRgGWTX8vKO8Fk3",
-      externalLink: "https://open.spotify.com/track/2F4bPSfiRgGWTX8vKO8Fk3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "(De)Stressed Out",
   trackType: "studio",
   explicit: false,

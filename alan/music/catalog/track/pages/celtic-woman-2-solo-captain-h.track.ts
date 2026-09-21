@@ -9,14 +9,6 @@ export const celticWoman2SoloCaptainH = {
   partOfCollections: ["release/celtic-woman-2-solo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Gwxm3rH2fdIZqrfM7JhtA",
-      externalLink: "https://open.spotify.com/track/5Gwxm3rH2fdIZqrfM7JhtA",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Captain H",
   trackType: "studio",
   explicit: false,

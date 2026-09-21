@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresAdventureOfALifetimeLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ERJLifTcWBFNZRl6QAqEC",
-      externalLink: "https://open.spotify.com/track/3ERJLifTcWBFNZRl6QAqEC",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Adventure of a Lifetime - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

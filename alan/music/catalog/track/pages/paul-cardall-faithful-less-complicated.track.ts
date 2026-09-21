@@ -9,14 +9,6 @@ export const paulCardallFaithfulLessComplicated = {
   partOfCollections: ["release/paul-cardall-faithful"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7v1rN1m377TBFBkEsl9c4g",
-      externalLink: "https://open.spotify.com/track/7v1rN1m377TBFBkEsl9c4g",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Less Complicated",
   trackType: "studio",
   explicit: false,

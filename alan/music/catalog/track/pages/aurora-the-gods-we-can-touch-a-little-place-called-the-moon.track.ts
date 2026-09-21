@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchALittlePlaceCalledTheMoon = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "01QGljADNqpHbbcC47MAFH",
-      externalLink: "https://open.spotify.com/track/01QGljADNqpHbbcC47MAFH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Little Place Called The Moon",
   trackType: "studio",
   explicit: false,

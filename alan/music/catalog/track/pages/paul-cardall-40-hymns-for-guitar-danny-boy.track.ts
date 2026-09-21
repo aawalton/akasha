@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarDannyBoy = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XaKGw5AFtVQ5nPRqCHcUl",
-      externalLink: "https://open.spotify.com/track/4XaKGw5AFtVQ5nPRqCHcUl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Danny Boy",
   trackType: "studio",
   explicit: false,

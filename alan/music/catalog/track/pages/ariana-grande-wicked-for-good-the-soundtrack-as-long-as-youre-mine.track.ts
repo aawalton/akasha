@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackAsLongAsYoureMine = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59vtqGF0p7RgNjnzC9Zk2p",
-      externalLink: "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "As Long As You’re Mine",
   trackType: "studio",
   explicit: false,

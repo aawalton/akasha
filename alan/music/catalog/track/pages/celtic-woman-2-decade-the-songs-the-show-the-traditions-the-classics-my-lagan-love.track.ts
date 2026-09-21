@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMyLaganLov
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7EA2OnLvsAW0eVQetMhwU0",
-      externalLink: "https://open.spotify.com/track/7EA2OnLvsAW0eVQetMhwU0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Lagan Love",
   trackType: "studio",
   explicit: false,

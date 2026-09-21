@@ -9,14 +9,6 @@ export const zaraLarssonLushLifeTheRemixesLushLifeFeatTinieTempah = {
   partOfCollections: ["release/zara-larsson-lush-life-the-remixes"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ARnwmw366uvSoB5n9dfVj",
-      externalLink: "https://open.spotify.com/track/0ARnwmw366uvSoB5n9dfVj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life (feat. Tinie Tempah)",
   trackType: "studio",
   explicit: false,

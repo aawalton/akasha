@@ -9,14 +9,6 @@ export const thePianoGuys3ChillSomeoneLikeYou = {
   partOfCollections: ["release/the-piano-guys-3-chill", "release/the-piano-guys-3-pop-on-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69q8YjuybeflQbQB5bwSeS",
-      externalLink: "https://open.spotify.com/track/69q8YjuybeflQbQB5bwSeS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Someone Like You",
   trackType: "studio",
   explicit: false,

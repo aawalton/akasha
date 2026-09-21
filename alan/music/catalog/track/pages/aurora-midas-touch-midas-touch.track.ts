@@ -9,14 +9,6 @@ export const auroraMidasTouchMidasTouch = {
   partOfCollections: ["release/aurora-midas-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3X1LFB1AFXohRiWa1Cryuv",
-      externalLink: "https://open.spotify.com/track/3X1LFB1AFXohRiWa1Cryuv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Midas Touch",
   trackType: "studio",
   explicit: false,

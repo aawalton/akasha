@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftBittersuite = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7DpUoxGSdlDHfqCYj0otzU",
-      externalLink: "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "BITTERSUITE",
   trackType: "studio",
   explicit: false,

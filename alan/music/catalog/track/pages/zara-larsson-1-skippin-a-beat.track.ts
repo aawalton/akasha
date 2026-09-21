@@ -9,14 +9,6 @@ export const zaraLarsson1SkippinABeat = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5OYANUpKMMHodc3QM1crJB",
-      externalLink: "https://open.spotify.com/track/5OYANUpKMMHodc3QM1crJB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Skippin A Beat",
   trackType: "studio",
   explicit: false,

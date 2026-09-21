@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryCaledonia20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1a0G7g0Q9Btp0ERL0vwNo5",
-      externalLink: "https://open.spotify.com/track/1a0G7g0Q9Btp0ERL0vwNo5",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Caledonia - 20th Anniversary",
   trackType: "studio",
   explicit: false,

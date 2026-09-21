@@ -10,14 +10,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "3T09JC1tNKcHZPhisKKUm8",
-        externalLink: "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8",
-        lastSyncedAt: "2026-09-21",
-      },
-    ],
     title: "Radioactive - Live London Sessions / 2013",
     trackType: "live",
     explicit: false,

@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "3qKQJaRUJR8D5wRU0m19sZ",
-        externalLink: "https://open.spotify.com/track/3qKQJaRUJR8D5wRU0m19sZ",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "bye - instrumental",
     trackType: "instrumental",
     explicit: false,

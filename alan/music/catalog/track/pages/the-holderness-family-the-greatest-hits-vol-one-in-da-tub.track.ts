@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneInDaTub = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2eFpMxUtCNBJyk4IjDvxkD",
-      externalLink: "https://open.spotify.com/track/2eFpMxUtCNBJyk4IjDvxkD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In Da Tub",
   trackType: "studio",
   explicit: false,

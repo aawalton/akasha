@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneAllAboutThatBaste = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4gltuvkyeafN47iuzHiJOS",
-      externalLink: "https://open.spotify.com/track/4gltuvkyeafN47iuzHiJOS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All About That Baste",
   trackType: "studio",
   explicit: false,

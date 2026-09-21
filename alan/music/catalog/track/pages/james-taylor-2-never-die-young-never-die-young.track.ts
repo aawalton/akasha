@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungNeverDieYoung = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ALbTno07vq90jEOFcHCbd",
-      externalLink: "https://open.spotify.com/track/0ALbTno07vq90jEOFcHCbd",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Never Die Young",
   trackType: "studio",
   explicit: false,

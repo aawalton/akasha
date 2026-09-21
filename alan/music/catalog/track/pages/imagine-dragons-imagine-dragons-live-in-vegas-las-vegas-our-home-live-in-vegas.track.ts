@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasLasVegasOurHomeLiveInVegas =
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3U0cjsyIcKhZbBPsOPKZj7",
-      externalLink: "https://open.spotify.com/track/3U0cjsyIcKhZbBPsOPKZj7",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Las Vegas, Our Home - Live in Vegas",
   trackType: "live",
   explicit: false,

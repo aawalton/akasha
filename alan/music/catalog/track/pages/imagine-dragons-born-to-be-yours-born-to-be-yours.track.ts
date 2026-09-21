@@ -9,14 +9,6 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
   partOfCollections: ["release/imagine-dragons-born-to-be-yours"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WVAQaxrT0wsGEG4BCVSn2",
-      externalLink: "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Born To Be Yours",
   trackType: "studio",
   explicit: false,

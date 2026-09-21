@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIParis = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "359HNzfOXhCMHB1pNKhyfH",
-      externalLink: "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Paris",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2Gorilla2019RemasterSarahMaria2019Remaster = {
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "14OZNbZZ2qCYoe9dZGCnmV",
-      externalLink: "https://open.spotify.com/track/14OZNbZZ2qCYoe9dZGCnmV",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sarah Maria - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

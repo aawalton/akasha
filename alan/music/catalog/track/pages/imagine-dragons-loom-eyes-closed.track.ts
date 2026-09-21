@@ -9,14 +9,6 @@ export const imagineDragonsLoomEyesClosed = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7xDd7gl6AGgpiOz5trz4dM",
-      externalLink: "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Eyes Closed",
   trackType: "studio",
   explicit: false,

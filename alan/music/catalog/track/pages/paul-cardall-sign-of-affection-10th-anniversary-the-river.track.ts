@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryTheRiver = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5SLkB32r1Gn2qS3Z3erdss",
-      externalLink: "https://open.spotify.com/track/5SLkB32r1Gn2qS3Z3erdss",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The River",
   trackType: "studio",
   explicit: false,

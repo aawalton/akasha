@@ -9,14 +9,6 @@ export const paulCardallChristmasOComeOComeEmmanuel = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MAMeuBzELX6ydhBMg1eEO",
-      externalLink: "https://open.spotify.com/track/0MAMeuBzELX6ydhBMg1eEO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "O Come, O Come, Emmanuel",
   trackType: "studio",
   explicit: false,

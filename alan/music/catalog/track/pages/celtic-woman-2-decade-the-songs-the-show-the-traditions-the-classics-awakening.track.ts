@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAwakening 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3J8sej95TwAwTjxXLdtsYs",
-      externalLink: "https://open.spotify.com/track/3J8sej95TwAwTjxXLdtsYs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Awakening",
   trackType: "studio",
   explicit: false,

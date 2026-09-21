@@ -9,14 +9,6 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
   partOfCollections: ["release/coldplay-trouble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Hpx4F7A30l7FiQddY6aYw",
-      externalLink: "https://open.spotify.com/track/3Hpx4F7A30l7FiQddY6aYw",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Shiver (Jo Whiley Lunchtime Social)",
   trackType: "studio",
   explicit: false,

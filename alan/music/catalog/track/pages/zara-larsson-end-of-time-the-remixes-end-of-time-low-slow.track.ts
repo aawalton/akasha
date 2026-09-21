@@ -9,14 +9,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeLowSlow = {
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6MSiNKK8APKdJhuVlSAv4u",
-      externalLink: "https://open.spotify.com/track/6MSiNKK8APKdJhuVlSAv4u",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time - Low & Slow",
   trackType: "studio",
   explicit: true,

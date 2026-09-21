@@ -9,14 +9,6 @@ export const paulCardallANewCreationSonOfGod = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oo5GpimvkCxTYDrwIPTH9",
-      externalLink: "https://open.spotify.com/track/5oo5GpimvkCxTYDrwIPTH9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Son of God",
   trackType: "studio",
   explicit: false,

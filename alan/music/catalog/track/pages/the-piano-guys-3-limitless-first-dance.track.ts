@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessFirstDance = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0g7tfERffxAbZy6q1BmykR",
-      externalLink: "https://open.spotify.com/track/0g7tfERffxAbZy6q1BmykR",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "First Dance",
   trackType: "studio",
   explicit: false,

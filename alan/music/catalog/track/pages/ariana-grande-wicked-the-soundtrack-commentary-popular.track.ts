@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopular = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4S4ZAEjGoXPgVZQQ7kaErC",
-      externalLink: "https://open.spotify.com/track/4S4ZAEjGoXPgVZQQ7kaErC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Popular",
   trackType: "studio",
   explicit: false,

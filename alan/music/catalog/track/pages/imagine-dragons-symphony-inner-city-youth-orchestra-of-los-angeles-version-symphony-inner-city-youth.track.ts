@@ -12,14 +12,6 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersionSym
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "6qJqN1SbjwxAEoDkjfnAwr",
-        externalLink: "https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr",
-        lastSyncedAt: "2026-09-21",
-      },
-    ],
     title: "Symphony - Inner City Youth Orchestra of Los Angeles Version",
     trackType: "version",
     explicit: false,

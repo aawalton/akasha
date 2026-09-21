@@ -9,14 +9,6 @@ export const celticWoman2LullabyBabyMine = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5xzgVOaAbIP7Q1891QkK3u",
-      externalLink: "https://open.spotify.com/track/5xzgVOaAbIP7Q1891QkK3u",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Baby Mine",
   trackType: "studio",
   explicit: false,

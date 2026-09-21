@@ -12,14 +12,6 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemixItsTimeCherryCherryBo
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27xlqtYSvSkYOP4snwOhHY",
-      externalLink: "https://open.spotify.com/track/27xlqtYSvSkYOP4snwOhHY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Cherry Cherry Boom Boom Remix",
   trackType: "remix",
   explicit: false,

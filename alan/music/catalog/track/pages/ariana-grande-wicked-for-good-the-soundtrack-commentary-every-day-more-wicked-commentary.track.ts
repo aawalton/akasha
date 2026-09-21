@@ -9,14 +9,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2CXTNa5x4ZxtDfh26k0rMu",
-      externalLink: "https://open.spotify.com/track/2CXTNa5x4ZxtDfh26k0rMu",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Every Day More Wicked - Commentary",
   trackType: "studio",
   explicit: false,

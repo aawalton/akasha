@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverOxytocin = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4t2OeILB07eMGTXSUbMPEu",
-      externalLink: "https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Oxytocin",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasNextToMeAcousticLiveInVegas 
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2MIZjqSTq0hZSUuDV4gMqp",
-      externalLink: "https://open.spotify.com/track/2MIZjqSTq0hZSUuDV4gMqp",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Next to Me (Acoustic) - Live in Vegas",
   trackType: "live",
   explicit: false,

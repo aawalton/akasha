@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyDulaman = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6s4tmVUNIhCFzwdikt4l5m",
-      externalLink: "https://open.spotify.com/track/6s4tmVUNIhCFzwdikt4l5m",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Dúlaman",
   trackType: "studio",
   explicit: false,

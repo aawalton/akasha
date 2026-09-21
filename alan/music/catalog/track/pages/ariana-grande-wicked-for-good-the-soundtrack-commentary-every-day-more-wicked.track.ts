@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWicked 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1U0lbyGwbtYco1DOJgXayx",
-      externalLink: "https://open.spotify.com/track/1U0lbyGwbtYco1DOJgXayx",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Every Day More Wicked",
   trackType: "studio",
   explicit: false,

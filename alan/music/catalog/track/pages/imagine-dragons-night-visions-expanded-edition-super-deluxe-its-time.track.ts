@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTime = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3VWFolbrJzoVHgGUFuaW8I",
-      externalLink: "https://open.spotify.com/track/3VWFolbrJzoVHgGUFuaW8I",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time",
   trackType: "studio",
   explicit: false,

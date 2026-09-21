@@ -9,14 +9,6 @@ export const paulCardallReturnHomeReturnHome = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48JD5xGtUJiKQJJAx8CzSp",
-      externalLink: "https://open.spotify.com/track/48JD5xGtUJiKQJJAx8CzSp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Return Home",
   trackType: "studio",
   explicit: false,

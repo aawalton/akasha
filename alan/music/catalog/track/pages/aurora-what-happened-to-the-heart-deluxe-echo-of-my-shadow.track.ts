@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeEchoOfMyShadow = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XFi6TdNIZgHTyM2eCxXJv",
-      externalLink: "https://open.spotify.com/track/5XFi6TdNIZgHTyM2eCxXJv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Echo Of My Shadow",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHomeComm
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jCUml0R1F8TRi7dXyYoLc",
-      externalLink: "https://open.spotify.com/track/7jCUml0R1F8TRi7dXyYoLc",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "No Place Like Home - Commentary",
   trackType: "studio",
   explicit: false,

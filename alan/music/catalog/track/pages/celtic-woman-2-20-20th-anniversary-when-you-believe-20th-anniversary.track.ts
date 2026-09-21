@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryWhenYouBelieve20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4xrPQZPbUVxoNjkmKWNqX8",
-      externalLink: "https://open.spotify.com/track/4xrPQZPbUVxoNjkmKWNqX8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "When You Believe - 20th Anniversary",
   trackType: "studio",
   explicit: false,

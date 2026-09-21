@@ -12,14 +12,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBridgeOver
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "4G0tTJs3B86KmyxBeq3Sz1",
-        externalLink: "https://open.spotify.com/track/4G0tTJs3B86KmyxBeq3Sz1",
-        lastSyncedAt: "2026-09-16",
-      },
-    ],
     title: "Bridge over Troubled Water - 2013 Version",
     trackType: "version",
     explicit: false,

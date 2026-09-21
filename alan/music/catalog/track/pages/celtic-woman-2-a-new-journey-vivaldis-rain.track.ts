@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyVivaldisRain = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5IYKgT6BN80PTlA07bMbOy",
-      externalLink: "https://open.spotify.com/track/5IYKgT6BN80PTlA07bMbOy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Vivaldi's Rain",
   trackType: "studio",
   explicit: false,

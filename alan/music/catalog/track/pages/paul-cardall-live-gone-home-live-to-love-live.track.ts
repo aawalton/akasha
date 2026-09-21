@@ -9,14 +9,6 @@ export const paulCardallLiveGoneHomeLiveToLoveLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6hqxxYa2FCv9iWLp3hMtrp",
-      externalLink: "https://open.spotify.com/track/6hqxxYa2FCv9iWLp3hMtrp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gone Home/Live To Love - Live",
   trackType: "live",
   explicit: false,

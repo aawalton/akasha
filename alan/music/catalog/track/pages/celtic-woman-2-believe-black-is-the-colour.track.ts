@@ -9,14 +9,6 @@ export const celticWoman2BelieveBlackIsTheColour = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "14DxJejYv2S2TjFNCjaZB9",
-      externalLink: "https://open.spotify.com/track/14DxJejYv2S2TjFNCjaZB9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Black Is The Colour",
   trackType: "studio",
   explicit: false,

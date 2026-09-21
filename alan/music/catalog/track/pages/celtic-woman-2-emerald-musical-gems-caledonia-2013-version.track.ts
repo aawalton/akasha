@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsCaledonia2013Version = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Drjz3YyB5KJckPgL94U1u",
-      externalLink: "https://open.spotify.com/track/1Drjz3YyB5KJckPgL94U1u",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Caledonia - 2013 Version",
   trackType: "version",
   explicit: false,

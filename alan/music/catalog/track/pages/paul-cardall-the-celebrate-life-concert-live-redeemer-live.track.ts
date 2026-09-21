@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveRedeemerLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "76r0PmRwQixyd7n13HWmNn",
-      externalLink: "https://open.spotify.com/track/76r0PmRwQixyd7n13HWmNn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Redeemer - Live",
   trackType: "live",
   explicit: false,

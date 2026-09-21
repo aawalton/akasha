@@ -12,14 +12,6 @@ export const thePianoGuys3LullabyLullabyeGoodnightMyAngel = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7fOq6Qb9sDwtFi3RAAoETZ",
-      externalLink: "https://open.spotify.com/track/7fOq6Qb9sDwtFi3RAAoETZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lullabye (Goodnight, My Angel)",
   trackType: "studio",
   explicit: false,

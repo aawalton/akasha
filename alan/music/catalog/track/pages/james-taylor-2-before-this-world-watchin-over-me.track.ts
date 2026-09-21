@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldWatchinOverMe = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0STxFgJBkPlJXEI2dlr0rw",
-      externalLink: "https://open.spotify.com/track/0STxFgJBkPlJXEI2dlr0rw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Watchin’ Over Me",
   trackType: "studio",
   explicit: false,

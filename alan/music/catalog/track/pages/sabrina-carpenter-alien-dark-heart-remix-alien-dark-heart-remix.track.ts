@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlienDarkHeartRemixAlienDarkHeartRemix = {
   partOfCollections: ["release/sabrina-carpenter-alien-dark-heart-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4m3x28otCU0jIgDwng7hAo",
-      externalLink: "https://open.spotify.com/track/4m3x28otCU0jIgDwng7hAo",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Alien - Dark Heart Remix",
   trackType: "remix",
   explicit: false,

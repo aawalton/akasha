@@ -12,14 +12,6 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ZDcSX1KLQU5MAHWItlc8Z",
-      externalLink: "https://open.spotify.com/track/1ZDcSX1KLQU5MAHWItlc8Z",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Need Love (feat. Trevor Daniel)",
   trackType: "studio",
   explicit: false,

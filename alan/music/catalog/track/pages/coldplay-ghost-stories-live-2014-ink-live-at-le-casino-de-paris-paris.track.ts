@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "29G1awyCr8RHz9EsTwqC6P",
-      externalLink: "https://open.spotify.com/track/29G1awyCr8RHz9EsTwqC6P",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Ink - Live at Le Casino De Paris, Paris",
   trackType: "live",
   explicit: false,

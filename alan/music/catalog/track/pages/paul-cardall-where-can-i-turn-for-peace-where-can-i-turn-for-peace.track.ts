@@ -9,14 +9,6 @@ export const paulCardallWhereCanITurnForPeaceWhereCanITurnForPeace = {
   partOfCollections: ["release/paul-cardall-where-can-i-turn-for-peace"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1JZ1VmbGJqoYw44oGtEysM",
-      externalLink: "https://open.spotify.com/track/1JZ1VmbGJqoYw44oGtEysM",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where Can I Turn for Peace?",
   trackType: "studio",
   explicit: false,

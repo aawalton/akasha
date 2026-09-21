@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartGoodnightMyAngel = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1NHvLJtzkf4QRTsyQh5YGJ",
-      externalLink: "https://open.spotify.com/track/1NHvLJtzkf4QRTsyQh5YGJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Goodnight My Angel",
   trackType: "studio",
   explicit: false,

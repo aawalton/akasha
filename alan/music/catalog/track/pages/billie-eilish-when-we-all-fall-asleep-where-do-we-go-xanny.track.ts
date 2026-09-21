@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoXanny = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4QIo4oxwzzafcBWkKjDpXY",
-      externalLink: "https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "xanny",
   trackType: "studio",
   explicit: false,

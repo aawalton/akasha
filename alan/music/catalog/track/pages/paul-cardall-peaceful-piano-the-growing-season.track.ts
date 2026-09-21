@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoTheGrowingSeason = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55ukNZ9zHGdljRa7aIhipl",
-      externalLink: "https://open.spotify.com/track/55ukNZ9zHGdljRa7aIhipl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Growing Season",
   trackType: "studio",
   explicit: false,

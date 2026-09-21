@@ -12,14 +12,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1x7yqEoQel8Gu6F7thDbCQ",
-      externalLink: "https://open.spotify.com/track/1x7yqEoQel8Gu6F7thDbCQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Under the Water",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterFruitcakeWhiteXmas = {
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7g5DlwyMdGDvcExDg5H2BA",
-      externalLink: "https://open.spotify.com/track/7g5DlwyMdGDvcExDg5H2BA",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "white xmas",
   trackType: "studio",
   explicit: false,

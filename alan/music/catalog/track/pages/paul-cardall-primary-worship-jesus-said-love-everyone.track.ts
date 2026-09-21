@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipJesusSaidLoveEveryone = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1I6lt3sSqBu6MwFoGR44XK",
-      externalLink: "https://open.spotify.com/track/1I6lt3sSqBu6MwFoGR44XK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus said Love everyone",
   trackType: "studio",
   explicit: false,

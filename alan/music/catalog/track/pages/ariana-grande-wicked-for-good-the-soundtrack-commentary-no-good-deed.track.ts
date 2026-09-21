@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeed = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3a6kXZaxdOxQcFdVsNMdCQ",
-      externalLink: "https://open.spotify.com/track/3a6kXZaxdOxQcFdVsNMdCQ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "No Good Deed",
   trackType: "studio",
   explicit: false,

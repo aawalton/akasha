@@ -9,14 +9,6 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6mcA40CLKVcxfoeofw6suv",
-      externalLink: "https://open.spotify.com/track/6mcA40CLKVcxfoeofw6suv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "How Great The Wisdom And The Love",
   trackType: "studio",
   explicit: false,

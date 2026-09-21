@@ -14,14 +14,6 @@ export const thePianoGuys3LullabyYoullBeInMyHeart = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2tPPk70bDRfegwHFJXc0f0",
-      externalLink: "https://open.spotify.com/track/2tPPk70bDRfegwHFJXc0f0",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "You'll Be In My Heart",
   trackType: "studio",
   explicit: false,

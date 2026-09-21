@@ -9,14 +9,6 @@ export const imagineDragonsLoomTakeMeToTheBeach = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Wop6FEmIstWTMeQb0TXcw",
-      externalLink: "https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Take Me to the Beach",
   trackType: "studio",
   explicit: false,

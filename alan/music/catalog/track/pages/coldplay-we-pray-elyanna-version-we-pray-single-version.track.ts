@@ -13,14 +13,6 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "62vegKSQtJU9DnfF5txpDN",
-      externalLink: "https://open.spotify.com/track/62vegKSQtJU9DnfF5txpDN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "WE PRAY - Single Version",
   trackType: "version",
   explicit: false,

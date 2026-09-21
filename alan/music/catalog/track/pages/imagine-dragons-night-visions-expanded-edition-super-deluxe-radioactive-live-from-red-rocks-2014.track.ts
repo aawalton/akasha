@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2oWTWONg6QFSwKAPqmBszv",
-      externalLink: "https://open.spotify.com/track/2oWTWONg6QFSwKAPqmBszv",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

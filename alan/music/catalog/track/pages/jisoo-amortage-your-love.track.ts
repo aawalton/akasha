@@ -9,14 +9,6 @@ export const jisooAmortageYourLove = {
   partOfCollections: ["release/jisoo-amortage"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TPpCbn9z0IY5Te048iy5R",
-      externalLink: "https://open.spotify.com/track/6TPpCbn9z0IY5Te048iy5R",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Your Love",
   trackType: "studio",
   explicit: false,

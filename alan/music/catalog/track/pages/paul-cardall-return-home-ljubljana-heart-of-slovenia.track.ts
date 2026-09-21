@@ -9,14 +9,6 @@ export const paulCardallReturnHomeLjubljanaHeartOfSlovenia = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2BlkpB6QXr9BQAwphy7i7A",
-      externalLink: "https://open.spotify.com/track/2BlkpB6QXr9BQAwphy7i7A",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ljubljana: Heart of Slovenia",
   trackType: "studio",
   explicit: false,

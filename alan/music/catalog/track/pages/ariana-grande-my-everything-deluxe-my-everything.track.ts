@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeMyEverything = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4eumFsTnduH3zRfaASoAPs",
-      externalLink: "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "My Everything",
   trackType: "studio",
   explicit: false,

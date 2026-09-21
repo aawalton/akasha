@@ -9,14 +9,6 @@ export const auroraStormEnglishVersionStormEnglishVersion = {
   partOfCollections: ["release/aurora-storm-english-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4YiLuz7hZ6ysG5iJxNlDmX",
-      externalLink: "https://open.spotify.com/track/4YiLuz7hZ6ysG5iJxNlDmX",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Storm - English Version",
   trackType: "version",
   explicit: false,

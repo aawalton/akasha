@@ -9,14 +9,6 @@ export const jamesTaylor2Gorilla2019RemasterLoveSongs2019Remaster = {
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0UT1w3yR9wyArqlAFn3Epj",
-      externalLink: "https://open.spotify.com/track/0UT1w3yR9wyArqlAFn3Epj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Love Songs - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

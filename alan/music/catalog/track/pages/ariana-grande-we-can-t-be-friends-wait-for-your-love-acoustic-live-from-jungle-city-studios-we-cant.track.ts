@@ -11,14 +11,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCit
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "23itJEBZlued974YuPPLlq",
-      externalLink: "https://open.spotify.com/track/23itJEBZlued974YuPPLlq",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
   trackType: "live",
   explicit: false,

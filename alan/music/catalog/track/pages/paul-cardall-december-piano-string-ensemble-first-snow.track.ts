@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleFirstSnow = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1FJIbfzjXECWES6eEhkHST",
-      externalLink: "https://open.spotify.com/track/1FJIbfzjXECWES6eEhkHST",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "First Snow",
   trackType: "studio",
   explicit: false,

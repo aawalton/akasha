@@ -9,14 +9,6 @@ export const thePianoGuys3LiveWithOrWithoutYouLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yMOZ4IFKnhjnNO7ZkbFkr",
-      externalLink: "https://open.spotify.com/track/0yMOZ4IFKnhjnNO7ZkbFkr",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "With or Without You (Live)",
   trackType: "live",
   explicit: false,

@@ -12,14 +12,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheTaleOfTheLesbianHunter = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5bQtyq5n8s8J3dOzbosaUU",
-      externalLink: "https://open.spotify.com/track/5bQtyq5n8s8J3dOzbosaUU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Tale of the Lesbian Hunter",
   trackType: "studio",
   explicit: false,

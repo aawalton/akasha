@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0vxvOnxZQMOyieSKFHHWVK",
-      externalLink: "https://open.spotify.com/track/0vxvOnxZQMOyieSKFHHWVK",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Girl in the Bubble",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendAllMyDemonsGreetingMeAsAFriend 
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0txIZZW0XvEB4pEKOTvAeE",
-      externalLink: "https://open.spotify.com/track/0txIZZW0XvEB4pEKOTvAeE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All My Demons Greeting Me As A Friend",
   trackType: "studio",
   explicit: false,

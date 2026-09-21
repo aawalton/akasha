@@ -14,14 +14,6 @@ export const thePianoGuys3Unstoppable2Enchanted = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1DxQeLfb2xKynvproGlLwy",
-      externalLink: "https://open.spotify.com/track/1DxQeLfb2xKynvproGlLwy",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Enchanted",
   trackType: "studio",
   explicit: false,

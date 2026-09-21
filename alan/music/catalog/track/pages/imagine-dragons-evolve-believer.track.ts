@@ -9,14 +9,6 @@ export const imagineDragonsEvolveBeliever = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0pqnGHJpmpxLKifKRmU6WP",
-      externalLink: "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Believer",
   trackType: "studio",
   explicit: false,

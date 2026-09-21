@@ -9,14 +9,6 @@ export const jamesTaylor2JtTerraNova = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6vZBA5RNdiNWC92Zuo59y9",
-      externalLink: "https://open.spotify.com/track/6vZBA5RNdiNWC92Zuo59y9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Terra Nova",
   trackType: "studio",
   explicit: false,

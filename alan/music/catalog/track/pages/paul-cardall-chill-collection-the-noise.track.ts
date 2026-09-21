@@ -9,14 +9,6 @@ export const paulCardallChillCollectionTheNoise = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Nl1snmIZWnq08DofhpaKr",
-      externalLink: "https://open.spotify.com/track/3Nl1snmIZWnq08DofhpaKr",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Noise",
   trackType: "studio",
   explicit: false,

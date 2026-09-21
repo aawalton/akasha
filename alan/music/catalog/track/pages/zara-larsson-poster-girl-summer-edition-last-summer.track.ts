@@ -9,14 +9,6 @@ export const zaraLarssonPosterGirlSummerEditionLastSummer = {
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2pXnpPBgWgZnJqhYZej9Dt",
-      externalLink: "https://open.spotify.com/track/2pXnpPBgWgZnJqhYZej9Dt",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Last Summer",
   trackType: "studio",
   explicit: true,

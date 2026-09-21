@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023AlanisMorissetteNarratesYourDay = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2fhqHaD4jJoYzeXAY6vJD9",
-      externalLink: "https://open.spotify.com/track/2fhqHaD4jJoYzeXAY6vJD9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Alanis Morissette Narrates Your Day",
   trackType: "studio",
   explicit: false,

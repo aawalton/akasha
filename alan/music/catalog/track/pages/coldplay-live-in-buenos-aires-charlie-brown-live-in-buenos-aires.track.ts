@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresCharlieBrownLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ksF058sVZ21EgQdRLbUyI",
-      externalLink: "https://open.spotify.com/track/3ksF058sVZ21EgQdRLbUyI",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Charlie Brown - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

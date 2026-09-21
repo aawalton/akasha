@@ -9,14 +9,6 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomHowDeepIsYourLoveLiveSpotifyLi
   partOfCollections: ["release/zara-larsson-zara-larsson-spotify-live-room"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2yI5b5B4pwmahsOMGTgua1",
-      externalLink: "https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "How Deep Is Your Love (Live) - Spotify Live Room",
   trackType: "live",
   explicit: false,

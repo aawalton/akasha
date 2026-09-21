@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadGreenEyes = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ou9rSNUQnE7XYmJkUUIOc",
-      externalLink: "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Green Eyes",
   trackType: "studio",
   explicit: false,

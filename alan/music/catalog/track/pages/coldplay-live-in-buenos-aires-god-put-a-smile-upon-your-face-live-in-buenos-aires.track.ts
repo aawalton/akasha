@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresGodPutASmileUponYourFaceLiveInBuenosAires 
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2q8WO601qIwLwV4DgXDCiO",
-      externalLink: "https://open.spotify.com/track/2q8WO601qIwLwV4DgXDCiO",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "God Put a Smile upon Your Face - Live in Buenos Aires",
   trackType: "live",
   explicit: true,

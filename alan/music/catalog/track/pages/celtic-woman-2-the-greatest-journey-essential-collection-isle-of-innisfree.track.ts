@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionIsleOfInnisfree = 
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qTVp5q2MQlaiuMZ0tKJQ6",
-      externalLink: "https://open.spotify.com/track/1qTVp5q2MQlaiuMZ0tKJQ6",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Isle Of Innisfree",
   trackType: "studio",
   explicit: false,

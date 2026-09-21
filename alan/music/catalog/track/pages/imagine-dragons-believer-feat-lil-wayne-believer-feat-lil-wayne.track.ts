@@ -9,14 +9,6 @@ export const imagineDragonsBelieverFeatLilWayneBelieverFeatLilWayne = {
   partOfCollections: ["release/imagine-dragons-believer-feat-lil-wayne"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2sU9EjevkrU9OkPZudvFNN",
-      externalLink: "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Believer (feat. Lil Wayne)",
   trackType: "studio",
   explicit: false,

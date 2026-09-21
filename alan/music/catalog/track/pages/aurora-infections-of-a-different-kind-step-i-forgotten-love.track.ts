@@ -12,14 +12,6 @@ export const auroraInfectionsOfADifferentKindStepIForgottenLove = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5xIHiW4TVNaROuRkYsgBti",
-      externalLink: "https://open.spotify.com/track/5xIHiW4TVNaROuRkYsgBti",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Forgotten Love",
   trackType: "studio",
   explicit: false,

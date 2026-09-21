@@ -13,14 +13,6 @@ export const emeiScatterbrain2Scatterbrain = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0LVdV9NG0y0ROxbYLpjbKc",
-      externalLink: "https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Scatterbrain",
   trackType: "studio",
   explicit: false,

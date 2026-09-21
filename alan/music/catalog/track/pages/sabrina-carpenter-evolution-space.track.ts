@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionSpace = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4uiZziAgyMvmKr4tujpcXm",
-      externalLink: "https://open.spotify.com/track/4uiZziAgyMvmKr4tujpcXm",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Space",
   trackType: "studio",
   explicit: false,

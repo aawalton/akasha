@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseEden = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4gP6Z909MxyzJH7SxxxWfV",
-      externalLink: "https://open.spotify.com/track/4gP6Z909MxyzJH7SxxxWfV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eden",
   trackType: "studio",
   explicit: false,

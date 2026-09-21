@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionRunAndHide = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "24fhYqs2KtWbHfY4Ngdf5U",
-      externalLink: "https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Run and Hide",
   trackType: "studio",
   explicit: false,

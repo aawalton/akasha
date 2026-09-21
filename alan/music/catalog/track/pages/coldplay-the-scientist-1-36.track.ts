@@ -9,14 +9,6 @@ export const coldplayTheScientist136 = {
   partOfCollections: ["release/coldplay-the-scientist"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7fSFdF4ymvjiOIr1EzB2pu",
-      externalLink: "https://open.spotify.com/track/7fSFdF4ymvjiOIr1EzB2pu",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "1.36",
   trackType: "studio",
   explicit: false,

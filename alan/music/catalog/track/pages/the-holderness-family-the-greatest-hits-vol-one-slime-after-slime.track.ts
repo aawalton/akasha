@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSlimeAfterSlime = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1HYpqD3KHwflY5509YDwzA",
-      externalLink: "https://open.spotify.com/track/1HYpqD3KHwflY5509YDwzA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Slime After Slime",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const emeiScatterbrain2DearEmily = {
   partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Gu0k0HrtR7rYdfkA48D0J",
-      externalLink: "https://open.spotify.com/track/2Gu0k0HrtR7rYdfkA48D0J",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Dear Emily",
   trackType: "studio",
   explicit: false,

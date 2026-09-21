@@ -9,14 +9,6 @@ export const paulCardallLiveHymnMedleyLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7elrfeozVMW4ykryUqqKUc",
-      externalLink: "https://open.spotify.com/track/7elrfeozVMW4ykryUqqKUc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hymn Medley - Live",
   trackType: "live",
   explicit: false,

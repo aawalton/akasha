@@ -9,14 +9,6 @@ export const zaraLarssonVenusAmmunition = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "16gu3zjAEer6t6c8qxaltf",
-      externalLink: "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ammunition",
   trackType: "studio",
   explicit: true,

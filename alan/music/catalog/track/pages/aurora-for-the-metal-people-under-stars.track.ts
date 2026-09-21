@@ -9,14 +9,6 @@ export const auroraForTheMetalPeopleUnderStars = {
   partOfCollections: ["release/aurora-for-the-metal-people", "release/aurora-under-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TcFwDCZvm9Lrcws3aTQ9N",
-      externalLink: "https://open.spotify.com/track/6TcFwDCZvm9Lrcws3aTQ9N",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Under Stars",
   trackType: "studio",
   explicit: false,

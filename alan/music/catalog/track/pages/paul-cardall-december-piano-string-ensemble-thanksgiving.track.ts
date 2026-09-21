@@ -12,14 +12,6 @@ export const paulCardallDecemberPianoStringEnsembleThanksgiving = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4j4mk3j6IgNaEWodidrfle",
-      externalLink: "https://open.spotify.com/track/4j4mk3j6IgNaEWodidrfle",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Thanksgiving",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallANewCreationABrokenHeart = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6E9tYJkh2ajjhOrXjlKuvd",
-      externalLink: "https://open.spotify.com/track/6E9tYJkh2ajjhOrXjlKuvd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Broken Heart",
   trackType: "studio",
   explicit: false,

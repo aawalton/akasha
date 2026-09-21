@@ -9,14 +9,6 @@ export const arianaGrandeProblemProblemInstrumental = {
   partOfCollections: ["release/ariana-grande-problem"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2D7Rl4LQ9oeI3Ah4aKctGK",
-      externalLink: "https://open.spotify.com/track/2D7Rl4LQ9oeI3Ah4aKctGK",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Problem - Instrumental",
   trackType: "instrumental",
   explicit: false,

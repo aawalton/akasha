@@ -9,14 +9,6 @@ export const coldplayParachutesWeNeverChange = {
   partOfCollections: ["release/coldplay-parachutes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5TB6QgrF0RPIxSCGfRDLoe",
-      externalLink: "https://open.spotify.com/track/5TB6QgrF0RPIxSCGfRDLoe",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "We Never Change",
   trackType: "studio",
   explicit: false,

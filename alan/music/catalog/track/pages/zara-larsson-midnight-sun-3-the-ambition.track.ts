@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3TheAmbition = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0kfVayo9KsW0VWT5Z9Twcw",
-      externalLink: "https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Ambition",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2WalkingMan2019RemasterRockNRollIsMusicNow2019Remaster =
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EOSTLK8cma1vI1Lx0Tgb4",
-      externalLink: "https://open.spotify.com/track/4EOSTLK8cma1vI1Lx0Tgb4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Rock 'n' Roll Is Music Now - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

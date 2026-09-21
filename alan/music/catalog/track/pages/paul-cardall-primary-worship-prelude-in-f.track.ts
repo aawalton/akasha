@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipPreludeInF = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zVQBFjT9nTUQtUGxbhod9",
-      externalLink: "https://open.spotify.com/track/0zVQBFjT9nTUQtUGxbhod9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Prelude in F",
   trackType: "studio",
   explicit: false,

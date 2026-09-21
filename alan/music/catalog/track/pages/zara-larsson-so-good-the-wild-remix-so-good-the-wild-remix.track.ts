@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
   partOfCollections: ["release/zara-larsson-so-good-the-wild-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1XPsn0zoLrEUuDMfPh4ADU",
-      externalLink: "https://open.spotify.com/track/1XPsn0zoLrEUuDMfPh4ADU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "So Good - The Wild Remix",
   trackType: "remix",
   explicit: false,

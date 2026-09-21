@@ -9,14 +9,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGoodCommentary =
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5HAccVLIH5cYjQJmIGcUfy",
-      externalLink: "https://open.spotify.com/track/5HAccVLIH5cYjQJmIGcUfy",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "For Good - Commentary",
   trackType: "studio",
   explicit: false,

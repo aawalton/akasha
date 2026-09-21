@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasMarysBoyChild = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2PMQP0MV1bqNFJjzSmLtiD",
-      externalLink: "https://open.spotify.com/track/2PMQP0MV1bqNFJjzSmLtiD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mary's Boy Child",
   trackType: "studio",
   explicit: false,

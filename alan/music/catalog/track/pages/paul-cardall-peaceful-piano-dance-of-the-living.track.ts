@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoDanceOfTheLiving = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4CufJg21ZFLZwGYmik66nE",
-      externalLink: "https://open.spotify.com/track/4CufJg21ZFLZwGYmik66nE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dance of the Living",
   trackType: "studio",
   explicit: false,

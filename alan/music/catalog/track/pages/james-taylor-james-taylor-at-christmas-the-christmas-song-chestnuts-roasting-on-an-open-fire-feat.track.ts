@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasTheChristmasSongChestnutsRoastingO
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ZnxM2nUbDP9ytiZEKn8E9",
-      externalLink: "https://open.spotify.com/track/2ZnxM2nUbDP9ytiZEKn8E9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Christmas Song (Chestnuts Roasting On An Open Fire) (feat. Toots Thielemans)",
   trackType: "studio",
   explicit: false,

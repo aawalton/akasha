@@ -9,14 +9,6 @@ export const coldplayXYTilKingdomCome = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1wQXj5bgxyZQ2XmE2X9s6n",
-      externalLink: "https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Til Kingdom Come",
   trackType: "studio",
   explicit: false,

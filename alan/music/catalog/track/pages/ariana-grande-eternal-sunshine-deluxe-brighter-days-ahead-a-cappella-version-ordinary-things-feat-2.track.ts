@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionO
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "5Fw8PVO1wNtjB1f3MFOPUY",
-        externalLink: "https://open.spotify.com/track/5Fw8PVO1wNtjB1f3MFOPUY",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "ordinary things (feat. Nonna) - a cappella",
     trackType: "a-cappella",
     explicit: false,

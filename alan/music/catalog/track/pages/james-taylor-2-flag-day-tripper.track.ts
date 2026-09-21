@@ -9,14 +9,6 @@ export const jamesTaylor2FlagDayTripper = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45goHlfgQSRpaJyMccZ8AT",
-      externalLink: "https://open.spotify.com/track/45goHlfgQSRpaJyMccZ8AT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Day Tripper",
   trackType: "studio",
   explicit: false,

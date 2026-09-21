@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungTBone = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GaH6RseIkZEnYVFYIIyGn",
-      externalLink: "https://open.spotify.com/track/1GaH6RseIkZEnYVFYIIyGn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "T-Bone",
   trackType: "studio",
   explicit: false,

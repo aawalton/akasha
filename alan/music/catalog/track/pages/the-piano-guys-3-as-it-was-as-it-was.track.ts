@@ -13,14 +13,6 @@ export const thePianoGuys3AsItWasAsItWas = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "71pz5tgYsXTUSvWDcswYSb",
-      externalLink: "https://open.spotify.com/track/71pz5tgYsXTUSvWDcswYSb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "As It Was",
   trackType: "studio",
   explicit: false,

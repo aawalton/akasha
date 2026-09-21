@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "4agOc7W9XKQB358QRH0mFq",
-        externalLink: "https://open.spotify.com/track/4agOc7W9XKQB358QRH0mFq",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "don't wanna break up again - instrumental",
     trackType: "instrumental",
     explicit: false,

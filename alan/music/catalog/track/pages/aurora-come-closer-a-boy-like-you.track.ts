@@ -9,14 +9,6 @@ export const auroraComeCloserABoyLikeYou = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ZUkekftKnIHyG62CnvCxs",
-      externalLink: "https://open.spotify.com/track/3ZUkekftKnIHyG62CnvCxs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A BOY LIKE YOU",
   trackType: "studio",
   explicit: false,

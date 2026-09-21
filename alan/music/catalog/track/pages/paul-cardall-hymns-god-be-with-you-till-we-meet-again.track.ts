@@ -9,14 +9,6 @@ export const paulCardallHymnsGodBeWithYouTillWeMeetAgain = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4qAki0ljBVUyozI8yz9lqe",
-      externalLink: "https://open.spotify.com/track/4qAki0ljBVUyozI8yz9lqe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Be With You Till We Meet Again",
   trackType: "studio",
   explicit: false,

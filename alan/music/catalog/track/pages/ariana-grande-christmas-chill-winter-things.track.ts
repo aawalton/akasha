@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillWinterThings = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2LdWTutlhGH6Zqpp7IAiZc",
-      externalLink: "https://open.spotify.com/track/2LdWTutlhGH6Zqpp7IAiZc",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Winter Things",
   trackType: "studio",
   explicit: false,

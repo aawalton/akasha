@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysTheLordIsMyShepherd = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Mct92mPPlKz2dEmbhWzSl",
-      externalLink: "https://open.spotify.com/track/6Mct92mPPlKz2dEmbhWzSl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Lord Is My Shepherd",
   trackType: "studio",
   explicit: false,

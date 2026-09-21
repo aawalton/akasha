@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022AnxietyAnthem = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3i308VK08UhG2Kxbs8kt9s",
-      externalLink: "https://open.spotify.com/track/3i308VK08UhG2Kxbs8kt9s",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Anxiety Anthem",
   trackType: "studio",
   explicit: false,

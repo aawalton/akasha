@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiLookingAtMe = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59tskctgqUmjCWAwhzYAFm",
-      externalLink: "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Looking at Me",
   trackType: "studio",
   explicit: false,

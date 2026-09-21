@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneySilverBells = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4wY2fkmYeRvD1aTc4YWii4",
-      externalLink: "https://open.spotify.com/track/4wY2fkmYeRvD1aTc4YWii4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Silver Bells",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2FlagChansonFrancaise = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1tzcT5sLgvckDDbHnHdouQ",
-      externalLink: "https://open.spotify.com/track/1tzcT5sLgvckDDbHnHdouQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Chanson Francaise",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2APoorWayfaringMan
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0e6Ax8RLh9irqhyxfuTmYt",
-      externalLink: "https://open.spotify.com/track/0e6Ax8RLh9irqhyxfuTmYt",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Poor Wayfaring Man Of Grief",
   trackType: "studio",
   explicit: false,

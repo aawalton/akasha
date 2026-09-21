@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseWorthOfSouls = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3t1XKqfufpfKjVglmCeYpn",
-      externalLink: "https://open.spotify.com/track/3t1XKqfufpfKjVglmCeYpn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Worth of Souls",
   trackType: "studio",
   explicit: false,

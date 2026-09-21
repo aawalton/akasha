@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeMotiveWithDojaCat = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5VipERQ1ofCowecoFg2MVU",
-      externalLink: "https://open.spotify.com/track/5VipERQ1ofCowecoFg2MVU",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "motive (with Doja Cat)",
   trackType: "studio",
   explicit: true,

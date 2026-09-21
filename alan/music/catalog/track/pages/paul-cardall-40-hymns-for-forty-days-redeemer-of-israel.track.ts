@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysRedeemerOfIsrael = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5jw3dVvxB0UA6mgB0Tb5q4",
-      externalLink: "https://open.spotify.com/track/5jw3dVvxB0UA6mgB0Tb5q4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Redeemer of Israel",
   trackType: "studio",
   explicit: false,

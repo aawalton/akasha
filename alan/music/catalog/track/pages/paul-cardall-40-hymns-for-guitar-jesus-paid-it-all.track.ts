@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarJesusPaidItAll = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aBsv1kFKPLhZR8IfLRGoC",
-      externalLink: "https://open.spotify.com/track/1aBsv1kFKPLhZR8IfLRGoC",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus Paid It All",
   trackType: "studio",
   explicit: false,

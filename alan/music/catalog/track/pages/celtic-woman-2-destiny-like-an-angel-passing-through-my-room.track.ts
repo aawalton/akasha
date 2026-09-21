@@ -9,14 +9,6 @@ export const celticWoman2DestinyLikeAnAngelPassingThroughMyRoom = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3GHWScApxbXmNopwKIlMfS",
-      externalLink: "https://open.spotify.com/track/3GHWScApxbXmNopwKIlMfS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Like An Angel Passing Through My Room",
   trackType: "studio",
   explicit: false,

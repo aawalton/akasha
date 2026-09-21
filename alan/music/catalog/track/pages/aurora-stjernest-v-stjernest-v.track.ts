@@ -9,14 +9,6 @@ export const auroraStjernestVStjernestV = {
   partOfCollections: ["release/aurora-stjernest-v"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2g7kOfDm0QfGHICnvJfP0e",
-      externalLink: "https://open.spotify.com/track/2g7kOfDm0QfGHICnvJfP0e",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Stjernestøv",
   trackType: "studio",
   explicit: false,

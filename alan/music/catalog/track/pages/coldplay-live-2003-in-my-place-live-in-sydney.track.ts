@@ -9,14 +9,6 @@ export const coldplayLive2003InMyPlaceLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3osu6FKSmLJJmqnRw5R90G",
-      externalLink: "https://open.spotify.com/track/3osu6FKSmLJJmqnRw5R90G",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "In My Place - Live in Sydney",
   trackType: "live",
   explicit: false,

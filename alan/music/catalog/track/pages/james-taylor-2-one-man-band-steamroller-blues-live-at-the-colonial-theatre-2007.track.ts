@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandSteamrollerBluesLiveAtTheColonialTheatre2007 
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0SGatwiYB2UnNXS0Duzr1e",
-      externalLink: "https://open.spotify.com/track/0SGatwiYB2UnNXS0Duzr1e",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Steamroller Blues - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

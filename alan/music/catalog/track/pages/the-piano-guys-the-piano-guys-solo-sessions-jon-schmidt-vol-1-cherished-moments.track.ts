@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1CherishedMoments 
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6f3H89tngl3TdiM39PeX7B",
-      externalLink: "https://open.spotify.com/track/6f3H89tngl3TdiM39PeX7B",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Cherished Moments",
   trackType: "studio",
   explicit: false,

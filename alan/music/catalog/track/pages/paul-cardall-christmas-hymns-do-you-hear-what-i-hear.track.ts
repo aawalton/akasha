@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsDoYouHearWhatIHear = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6a2813oVuxkVqXZJEbX8AR",
-      externalLink: "https://open.spotify.com/track/6a2813oVuxkVqXZJEbX8AR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Do you hear what I Hear?",
   trackType: "studio",
   explicit: false,

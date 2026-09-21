@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMudSlideSlim20
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65JIOfuq2c9GBH4kBY7BYF",
-      externalLink: "https://open.spotify.com/track/65JIOfuq2c9GBH4kBY7BYF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mud Slide Slim - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

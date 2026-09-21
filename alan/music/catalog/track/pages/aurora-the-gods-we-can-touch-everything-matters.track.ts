@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchEverythingMatters = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4X00YoOQUD49hwdXmWBXHM",
-      externalLink: "https://open.spotify.com/track/4X00YoOQUD49hwdXmWBXHM",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Everything Matters",
   trackType: "studio",
   explicit: false,

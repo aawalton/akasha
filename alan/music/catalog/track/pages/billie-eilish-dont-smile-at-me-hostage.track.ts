@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMeHostage = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1WsEgieHsWWndAzLkmV105",
-      externalLink: "https://open.spotify.com/track/1WsEgieHsWWndAzLkmV105",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "hostage",
   trackType: "studio",
   explicit: false,

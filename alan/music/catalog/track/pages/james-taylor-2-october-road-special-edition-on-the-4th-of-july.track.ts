@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionOnThe4thOfJuly = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6I8oqGgmpXTzVcB7xk2SdC",
-      externalLink: "https://open.spotify.com/track/6I8oqGgmpXTzVcB7xk2SdC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On the 4th of July",
   trackType: "studio",
   explicit: false,

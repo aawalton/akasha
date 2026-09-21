@@ -9,14 +9,6 @@ export const imagineDragonsHellAndSilenceEpIDontMind = {
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6EnnNt3cuZPuXG44bQwqfY",
-      externalLink: "https://open.spotify.com/track/6EnnNt3cuZPuXG44bQwqfY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Don't Mind",
   trackType: "studio",
   explicit: false,

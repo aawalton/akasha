@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014OceansLiveAtEWerkCologne = {
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2OKnY0cqro0qsOijOondrr",
-      externalLink: "https://open.spotify.com/track/2OKnY0cqro0qsOijOondrr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Oceans - Live at E-Werk, Cologne",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackWarrior = {
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3KaDDuVUjYWmISoNg9FFVH",
-      externalLink: "https://open.spotify.com/track/3KaDDuVUjYWmISoNg9FFVH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Warrior",
   trackType: "studio",
   explicit: false,

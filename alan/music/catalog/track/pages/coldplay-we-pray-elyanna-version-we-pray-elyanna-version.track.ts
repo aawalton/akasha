@@ -9,14 +9,6 @@ export const coldplayWePrayElyannaVersionWePrayElyannaVersion = {
   partOfCollections: ["release/coldplay-we-pray-elyanna-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rYYAWSdgENNINui9wK3O1",
-      externalLink: "https://open.spotify.com/track/4rYYAWSdgENNINui9wK3O1",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "WE PRAY - (Elyanna Version)",
   trackType: "version",
   explicit: false,

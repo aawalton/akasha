@@ -9,14 +9,6 @@ export const paulCardallANewCreationIntoTheWilderness = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0kzXntjXY53n2repbVJzyp",
-      externalLink: "https://open.spotify.com/track/0kzXntjXY53n2repbVJzyp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Into the Wilderness",
   trackType: "studio",
   explicit: false,

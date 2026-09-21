@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysGodOurFatherHearUsPray = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4b208xlMaap6C7JDHdWrAI",
-      externalLink: "https://open.spotify.com/track/4b208xlMaap6C7JDHdWrAI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Our Father, Hear Us Pray",
   trackType: "studio",
   explicit: false,

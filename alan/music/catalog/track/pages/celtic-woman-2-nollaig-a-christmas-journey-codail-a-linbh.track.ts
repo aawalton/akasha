@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyCodailALinbh = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0xEnEultWHNEkzN0nFEwJ0",
-      externalLink: "https://open.spotify.com/track/0xEnEultWHNEkzN0nFEwJ0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Codail a Linbh",
   trackType: "studio",
   explicit: false,

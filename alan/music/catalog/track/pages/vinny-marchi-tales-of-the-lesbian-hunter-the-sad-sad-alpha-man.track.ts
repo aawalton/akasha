@@ -12,14 +12,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheSadSadAlphaMan = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RYTElFWkjRgwhJWBWHVXk",
-      externalLink: "https://open.spotify.com/track/5RYTElFWkjRgwhJWBWHVXk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Sad Sad Alpha Man",
   trackType: "studio",
   explicit: true,

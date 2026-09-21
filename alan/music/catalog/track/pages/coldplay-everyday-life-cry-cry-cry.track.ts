@@ -9,14 +9,6 @@ export const coldplayEverydayLifeCryCryCry = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Kwhm5VU4huxmQtBqd1AXo",
-      externalLink: "https://open.spotify.com/track/4Kwhm5VU4huxmQtBqd1AXo",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Cry Cry Cry",
   trackType: "studio",
   explicit: false,

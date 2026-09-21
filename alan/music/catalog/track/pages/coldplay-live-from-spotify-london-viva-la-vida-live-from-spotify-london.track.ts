@@ -9,14 +9,6 @@ export const coldplayLiveFromSpotifyLondonVivaLaVidaLiveFromSpotifyLondon = {
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6qt0IWS8y6yGR6gNTEmQzj",
-      externalLink: "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Viva La Vida - Live from Spotify London",
   trackType: "live",
   explicit: false,

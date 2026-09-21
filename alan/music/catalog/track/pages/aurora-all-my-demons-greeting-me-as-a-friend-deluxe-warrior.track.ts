@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWarrior = {
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qV9USKpSdUoqFs9DvLaY1",
-      externalLink: "https://open.spotify.com/track/5qV9USKpSdUoqFs9DvLaY1",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Warrior",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   partOfCollections: ["release/aurora-running-with-the-wolves-wolfwalkers-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7kKUKS8UJPiKiG3MserZOf",
-      externalLink: "https://open.spotify.com/track/7kKUKS8UJPiKiG3MserZOf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Running with the Wolves - Wolfwalkers Edition",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3rYUPEbT1B3GBWhNEemwBA",
-      externalLink: "https://open.spotify.com/track/3rYUPEbT1B3GBWhNEemwBA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "We Thank Thee, O God, for a Prophet",
   trackType: "studio",
   explicit: false,

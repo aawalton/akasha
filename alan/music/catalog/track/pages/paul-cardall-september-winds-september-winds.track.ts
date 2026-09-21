@@ -9,14 +9,6 @@ export const paulCardallSeptemberWindsSeptemberWinds = {
   partOfCollections: ["release/paul-cardall-september-winds"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1azQ2kty7l8fY41ON2PseU",
-      externalLink: "https://open.spotify.com/track/1azQ2kty7l8fY41ON2PseU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "September Winds",
   trackType: "studio",
   explicit: false,

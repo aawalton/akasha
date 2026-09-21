@@ -12,14 +12,6 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7zfV4jqXVfM7vzd0uojGZN",
-      externalLink: "https://open.spotify.com/track/7zfV4jqXVfM7vzd0uojGZN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Runaway - Guitar Acoustic",
   trackType: "acoustic",
   explicit: false,

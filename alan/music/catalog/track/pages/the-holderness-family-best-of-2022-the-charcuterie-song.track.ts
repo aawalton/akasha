@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022TheCharcuterieSong = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7qGDs1gmV4vvzYIjkCRqR5",
-      externalLink: "https://open.spotify.com/track/7qGDs1gmV4vvzYIjkCRqR5",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Charcuterie Song",
   trackType: "studio",
   explicit: false,

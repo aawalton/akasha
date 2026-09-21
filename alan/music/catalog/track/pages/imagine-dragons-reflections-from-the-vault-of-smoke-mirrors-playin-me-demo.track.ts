@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsPlayinMeDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6YpYCl9eIYVKHd9wtCH8Xp",
-      externalLink: "https://open.spotify.com/track/6YpYCl9eIYVKHd9wtCH8Xp",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Playin' Me - Demo",
   trackType: "demo",
   explicit: false,

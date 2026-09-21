@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerBreathin = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4OafepJy2teCjYJbvFE60J",
-      externalLink: "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "breathin",
   trackType: "studio",
   explicit: true,

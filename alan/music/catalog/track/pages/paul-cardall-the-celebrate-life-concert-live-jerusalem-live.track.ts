@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveJerusalemLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7emFfTaoWmPcJpRVxLpzk6",
-      externalLink: "https://open.spotify.com/track/7emFfTaoWmPcJpRVxLpzk6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jerusalem - Live",
   trackType: "live",
   explicit: false,

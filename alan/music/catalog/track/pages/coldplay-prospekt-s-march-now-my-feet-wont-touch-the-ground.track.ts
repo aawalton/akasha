@@ -12,14 +12,6 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nSfoEVGexB65mxj8aRDYK",
-      externalLink: "https://open.spotify.com/track/0nSfoEVGexB65mxj8aRDYK",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Now My Feet Won't Touch the Ground",
   trackType: "studio",
   explicit: false,

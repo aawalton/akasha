@@ -9,14 +9,6 @@ export const jamesTaylor2FlagSleepComeFreeMe = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0mSw24Am5LDB04h7DdThjU",
-      externalLink: "https://open.spotify.com/track/0mSw24Am5LDB04h7DdThjU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sleep Come Free Me",
   trackType: "studio",
   explicit: false,

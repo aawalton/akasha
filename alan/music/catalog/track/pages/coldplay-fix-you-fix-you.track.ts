@@ -9,14 +9,6 @@ export const coldplayFixYouFixYou = {
   partOfCollections: ["release/coldplay-fix-you", "release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1SWPQul8Zr5jezPUYPcLwR",
-      externalLink: "https://open.spotify.com/track/1SWPQul8Zr5jezPUYPcLwR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Fix You",
   trackType: "studio",
   explicit: false,

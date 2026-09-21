@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44FJNOq0COMcht2LWn21FW",
-      externalLink: "https://open.spotify.com/track/44FJNOq0COMcht2LWn21FW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Let It Snow",
   trackType: "studio",
   explicit: false,

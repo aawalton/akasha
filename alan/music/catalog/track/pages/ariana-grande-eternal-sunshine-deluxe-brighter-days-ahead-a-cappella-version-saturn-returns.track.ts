@@ -16,14 +16,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionS
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0X5CV5S0wv4BipEwvfjvLx",
-      externalLink: "https://open.spotify.com/track/0X5CV5S0wv4BipEwvfjvLx",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Saturn Returns Interlude",
   trackType: "studio",
   explicit: false,

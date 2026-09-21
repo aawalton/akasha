@@ -9,14 +9,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIi = {
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1sbkNZZh1Mcw4dSA5AB8jQ",
-      externalLink: "https://open.spotify.com/track/1sbkNZZh1Mcw4dSA5AB8jQ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Life in Technicolor ii",
   trackType: "studio",
   explicit: false,

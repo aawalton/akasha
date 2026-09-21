@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxAwayInAManger = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2p7JLTdq3GWB146bKJKHRd",
-      externalLink: "https://open.spotify.com/track/2p7JLTdq3GWB146bKJKHRd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Away In A Manger",
   trackType: "studio",
   explicit: false,

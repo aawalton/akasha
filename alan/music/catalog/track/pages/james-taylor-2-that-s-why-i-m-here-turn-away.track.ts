@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereTurnAway = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rRLh11nk5tkJ7QYLffIff",
-      externalLink: "https://open.spotify.com/track/1rRLh11nk5tkJ7QYLffIff",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Turn Away",
   trackType: "studio",
   explicit: false,

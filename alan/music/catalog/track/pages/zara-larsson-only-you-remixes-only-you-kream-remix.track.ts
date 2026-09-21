@@ -9,14 +9,6 @@ export const zaraLarssonOnlyYouRemixesOnlyYouKreamRemix = {
   partOfCollections: ["release/zara-larsson-only-you-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mMchLiMiVmZETS4sp0Yfk",
-      externalLink: "https://open.spotify.com/track/5mMchLiMiVmZETS4sp0Yfk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only You - KREAM Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallSacredPianoVoices = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0JuXdkOzxGNm9glbP1G60P",
-      externalLink: "https://open.spotify.com/track/0JuXdkOzxGNm9glbP1G60P",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Voices",
   trackType: "studio",
   explicit: false,

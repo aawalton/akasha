@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenAprilSkies = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7xKPDPFctjCX7ATFNkuwa8",
-      externalLink: "https://open.spotify.com/track/7xKPDPFctjCX7ATFNkuwa8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "April Skies",
   trackType: "studio",
   explicit: false,

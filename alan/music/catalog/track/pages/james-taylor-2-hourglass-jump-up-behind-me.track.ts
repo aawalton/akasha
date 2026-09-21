@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassJumpUpBehindMe = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2di380jNR8DLZ72ZdN06e6",
-      externalLink: "https://open.spotify.com/track/2di380jNR8DLZ72ZdN06e6",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Jump Up Behind Me",
   trackType: "studio",
   explicit: false,

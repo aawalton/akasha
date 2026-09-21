@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationWhiteChristmas = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0pUOZgks3nHeq34uHZUJXj",
-      externalLink: "https://open.spotify.com/track/0pUOZgks3nHeq34uHZUJXj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "White Christmas",
   trackType: "studio",
   explicit: false,

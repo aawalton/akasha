@@ -9,14 +9,6 @@ export const coldplayMidnightRemixesMidnightHenrikSchwarzRemix = {
   partOfCollections: ["release/coldplay-midnight-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5r2MY01a6rIInRAqXYyh6y",
-      externalLink: "https://open.spotify.com/track/5r2MY01a6rIInRAqXYyh6y",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Midnight - Henrik Schwarz Remix",
   trackType: "remix",
   explicit: false,

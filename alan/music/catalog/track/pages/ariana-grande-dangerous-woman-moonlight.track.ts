@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanMoonlight = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qcJdr8TYuGjFhjRoYNC3e",
-      externalLink: "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Moonlight",
   trackType: "studio",
   explicit: false,

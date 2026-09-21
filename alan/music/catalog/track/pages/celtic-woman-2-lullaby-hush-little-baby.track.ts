@@ -9,14 +9,6 @@ export const celticWoman2LullabyHushLittleBaby = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "25AkNO6z4a2pQ3Uy4rKvA7",
-      externalLink: "https://open.spotify.com/track/25AkNO6z4a2pQ3Uy4rKvA7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hush Little Baby",
   trackType: "studio",
   explicit: false,

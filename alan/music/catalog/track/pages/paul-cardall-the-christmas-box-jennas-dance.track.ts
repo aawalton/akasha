@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxJennasDance = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0BUxohfM2qWelR8tKW7XeB",
-      externalLink: "https://open.spotify.com/track/0BUxohfM2qWelR8tKW7XeB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jenna's Dance",
   trackType: "studio",
   explicit: false,

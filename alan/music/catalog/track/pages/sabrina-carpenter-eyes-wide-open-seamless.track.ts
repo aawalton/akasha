@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenSeamless = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75s1b4uRCk6UPOPBLNdDIA",
-      externalLink: "https://open.spotify.com/track/75s1b4uRCk6UPOPBLNdDIA",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Seamless",
   trackType: "studio",
   explicit: false,

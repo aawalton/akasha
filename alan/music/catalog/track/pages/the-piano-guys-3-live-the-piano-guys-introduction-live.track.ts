@@ -9,14 +9,6 @@ export const thePianoGuys3LiveThePianoGuysIntroductionLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ujnK4iiQcyXOL8GnM2Gno",
-      externalLink: "https://open.spotify.com/track/1ujnK4iiQcyXOL8GnM2Gno",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Piano Guys (Introduction) - Live",
   trackType: "live",
   explicit: false,

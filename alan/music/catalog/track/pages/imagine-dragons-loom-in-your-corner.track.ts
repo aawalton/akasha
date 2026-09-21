@@ -9,14 +9,6 @@ export const imagineDragonsLoomInYourCorner = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5hKE4hbAVMP38XWjRlXZPO",
-      externalLink: "https://open.spotify.com/track/5hKE4hbAVMP38XWjRlXZPO",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "In Your Corner",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsMoGhileMearMyGallantStar = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mc5e6EN95pywzdd9cpIWn",
-      externalLink: "https://open.spotify.com/track/5mc5e6EN95pywzdd9cpIWn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear (My Gallant Star)",
   trackType: "studio",
   explicit: false,

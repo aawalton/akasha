@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsStrangeWaysDemo 
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5UxcYdHHFutzDBUw3kqIvX",
-      externalLink: "https://open.spotify.com/track/5UxcYdHHFutzDBUw3kqIvX",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Strange Ways - Demo",
   trackType: "demo",
   explicit: false,

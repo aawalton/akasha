@@ -9,14 +9,6 @@ export const thePianoGuys310YouSay = {
   partOfCollections: ["release/the-piano-guys-3-10"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MosvoiclHAgGZKlpSqYBd",
-      externalLink: "https://open.spotify.com/track/0MosvoiclHAgGZKlpSqYBd",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "You Say",
   trackType: "studio",
   explicit: false,

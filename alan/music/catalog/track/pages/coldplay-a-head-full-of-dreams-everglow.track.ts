@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsEverglow = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qfZRNjt2TkHEL12r3sDEU",
-      externalLink: "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Everglow",
   trackType: "studio",
   explicit: false,

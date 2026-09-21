@@ -12,14 +12,6 @@ export const thePianoGuys3SomeoneYouLovedSomeoneYouLoved = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0PiNYPMkmHxtDS0EZKK35X",
-      externalLink: "https://open.spotify.com/track/0PiNYPMkmHxtDS0EZKK35X",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Someone You Loved",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraComeCloserInAMinute = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3v37hY20GcvOr9NnldJIIO",
-      externalLink: "https://open.spotify.com/track/3v37hY20GcvOr9NnldJIIO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "IN A MINUTE",
   trackType: "studio",
   explicit: false,

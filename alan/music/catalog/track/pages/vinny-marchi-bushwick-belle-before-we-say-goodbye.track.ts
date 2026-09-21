@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleBeforeWeSayGoodbye = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yfOUAMTpkTDdBVBxhacy7",
-      externalLink: "https://open.spotify.com/track/1yfOUAMTpkTDdBVBxhacy7",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Before We Say Goodbye",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cttLo7IxWWiMHwsj9teQG",
-      externalLink: "https://open.spotify.com/track/3cttLo7IxWWiMHwsj9teQG",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Indiana Jones and the Arabian Nights",
   trackType: "studio",
   explicit: false,

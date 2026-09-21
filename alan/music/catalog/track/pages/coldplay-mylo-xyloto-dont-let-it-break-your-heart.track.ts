@@ -9,14 +9,6 @@ export const coldplayMyloXylotoDontLetItBreakYourHeart = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69ho6gqRw1Rjy56tXlvnqk",
-      externalLink: "https://open.spotify.com/track/69ho6gqRw1Rjy56tXlvnqk",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Don't Let It Break Your Heart",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartOAmerica = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6wo4VWyfeVlmtX0PBCZf7t",
-      externalLink: "https://open.spotify.com/track/6wo4VWyfeVlmtX0PBCZf7t",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O, America!",
   trackType: "studio",
   explicit: false,

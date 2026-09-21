@@ -9,14 +9,6 @@ export const paulCardallTheShoresOfNormandyTheShoresOfNormandy = {
   partOfCollections: ["release/paul-cardall-the-shores-of-normandy"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2z3XBCX19Hyugl3Cj4yaVs",
-      externalLink: "https://open.spotify.com/track/2z3XBCX19Hyugl3Cj4yaVs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Shores of Normandy",
   trackType: "studio",
   explicit: false,

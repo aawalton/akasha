@@ -9,14 +9,6 @@ export const coldplayMyloXylotoPrincessOfChina = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HXOBjwv2RnLpGG4xWOO6N",
-      externalLink: "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Princess of China",
   trackType: "studio",
   explicit: false,

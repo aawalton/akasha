@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsCelestial = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zGg0MQN4I9jUc73eKlfrW",
-      externalLink: "https://open.spotify.com/track/0zGg0MQN4I9jUc73eKlfrW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Celestial",
   trackType: "studio",
   explicit: false,

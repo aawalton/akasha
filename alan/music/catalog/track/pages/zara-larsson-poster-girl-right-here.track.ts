@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlRightHere = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Wlft6NsN2G4EyXY7tR8hj",
-      externalLink: "https://open.spotify.com/track/5Wlft6NsN2G4EyXY7tR8hj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Right Here",
   trackType: "studio",
   explicit: false,

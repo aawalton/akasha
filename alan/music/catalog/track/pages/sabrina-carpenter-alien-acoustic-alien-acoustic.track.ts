@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlienAcousticAlienAcoustic = {
   partOfCollections: ["release/sabrina-carpenter-alien-acoustic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6VDRCKWp49mhQhrvAeI5QT",
-      externalLink: "https://open.spotify.com/track/6VDRCKWp49mhQhrvAeI5QT",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Alien - Acoustic",
   trackType: "acoustic",
   explicit: false,

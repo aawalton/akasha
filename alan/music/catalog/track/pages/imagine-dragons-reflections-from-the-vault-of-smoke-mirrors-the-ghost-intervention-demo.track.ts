@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheGhostInterven
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6pe63pLHeyXRoSBoOiQJep",
-      externalLink: "https://open.spotify.com/track/6pe63pLHeyXRoSBoOiQJep",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The Ghost Intervention - Demo",
   trackType: "demo",
   explicit: false,

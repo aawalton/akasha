@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxAChangeOfHeart = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1izkfUm8NdwJ4nx4w61Z6d",
-      externalLink: "https://open.spotify.com/track/1izkfUm8NdwJ4nx4w61Z6d",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Change Of Heart",
   trackType: "studio",
   explicit: false,

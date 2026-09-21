@@ -9,14 +9,6 @@ export const billieEilishEverythingIWantedEverythingIWanted = {
   partOfCollections: ["release/billie-eilish-everything-i-wanted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ZCTVFBt2Brf31RLEnCkWJ",
-      externalLink: "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "everything i wanted",
   trackType: "studio",
   explicit: false,

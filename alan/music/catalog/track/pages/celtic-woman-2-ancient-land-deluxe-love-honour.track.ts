@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeLoveHonour = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3x8bArT6Kt2J86FaZzgz27",
-      externalLink: "https://open.spotify.com/track/3x8bArT6Kt2J86FaZzgz27",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Love & Honour",
   trackType: "studio",
   explicit: false,

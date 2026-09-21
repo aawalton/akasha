@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlINeedLove = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "57CcOoiBg93ozKpIWEnceR",
-      externalLink: "https://open.spotify.com/track/57CcOoiBg93ozKpIWEnceR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Need Love",
   trackType: "studio",
   explicit: false,

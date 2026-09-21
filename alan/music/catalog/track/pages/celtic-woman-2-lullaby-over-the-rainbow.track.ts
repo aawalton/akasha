@@ -9,14 +9,6 @@ export const celticWoman2LullabyOverTheRainbow = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "10BNUjunt6fxgWMidjpASq",
-      externalLink: "https://open.spotify.com/track/10BNUjunt6fxgWMidjpASq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Over The Rainbow",
   trackType: "studio",
   explicit: false,

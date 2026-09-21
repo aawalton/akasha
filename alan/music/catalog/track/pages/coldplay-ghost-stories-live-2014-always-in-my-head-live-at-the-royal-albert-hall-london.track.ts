@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014AlwaysInMyHeadLiveAtTheRoyalAlbertHallL
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zM6Zj4Iao1tJFHWc2PsrL",
-      externalLink: "https://open.spotify.com/track/0zM6Zj4Iao1tJFHWc2PsrL",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Always in My Head - Live at the Royal Albert Hall, London",
   trackType: "live",
   explicit: false,

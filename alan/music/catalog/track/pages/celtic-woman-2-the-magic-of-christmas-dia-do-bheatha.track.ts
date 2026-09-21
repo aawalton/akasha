@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasDiaDoBheatha = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6AQbfW4z2BsLf9Nw1hhSOr",
-      externalLink: "https://open.spotify.com/track/6AQbfW4z2BsLf9Nw1hhSOr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Dia Do Bheatha",
   trackType: "studio",
   explicit: false,

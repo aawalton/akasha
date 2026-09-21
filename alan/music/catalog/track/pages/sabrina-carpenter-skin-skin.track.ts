@@ -9,14 +9,6 @@ export const sabrinaCarpenterSkinSkin = {
   partOfCollections: ["release/sabrina-carpenter-skin"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "03B2SfXuvDh1m9F4tqrX07",
-      externalLink: "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Skin",
   trackType: "studio",
   explicit: false,

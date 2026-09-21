@@ -9,14 +9,6 @@ export const paulCardallSavingTinyHeartsSaintsTravelers = {
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7J1ZqyD9jZmQlS6XVT32uw",
-      externalLink: "https://open.spotify.com/track/7J1ZqyD9jZmQlS6XVT32uw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Saints & Travelers",
   trackType: "studio",
   explicit: false,

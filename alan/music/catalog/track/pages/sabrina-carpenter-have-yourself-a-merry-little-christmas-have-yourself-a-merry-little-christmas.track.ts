@@ -9,14 +9,6 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
   partOfCollections: ["release/sabrina-carpenter-have-yourself-a-merry-little-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3raNSxsive7mKRQvSAoAmE",
-      externalLink: "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
   explicit: false,

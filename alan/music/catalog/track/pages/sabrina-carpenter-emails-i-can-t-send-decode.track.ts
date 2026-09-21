@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendDecode = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "17wMOhLqVB3DRCmTaLjwVM",
-      externalLink: "https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "decode",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6rb68bdowIv6oB1CRvuUBE",
-      externalLink: "https://open.spotify.com/track/6rb68bdowIv6oB1CRvuUBE",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "I’m Not That Girl",
   trackType: "studio",
   explicit: false,

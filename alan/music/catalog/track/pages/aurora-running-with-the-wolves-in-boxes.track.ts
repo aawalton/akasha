@@ -9,14 +9,6 @@ export const auroraRunningWithTheWolvesInBoxes = {
   partOfCollections: ["release/aurora-running-with-the-wolves"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3MwSRWz6R18tOMXsNveaBV",
-      externalLink: "https://open.spotify.com/track/3MwSRWz6R18tOMXsNveaBV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In Boxes",
   trackType: "studio",
   explicit: false,

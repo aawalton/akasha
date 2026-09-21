@@ -9,14 +9,6 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlausInvisibleFromTheNetflixF
   partOfCollections: ["release/zara-larsson-invisible-from-the-netflix-film-klaus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "62z2Su8BBGvR50aOvdjPzW",
-      externalLink: "https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Invisible - from the Netflix Film Klaus",
   trackType: "studio",
   explicit: false,

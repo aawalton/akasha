@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionDangerousWoman = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5EZWzEWmjVl6Eqn3tOSA2g",
-      externalLink: "https://open.spotify.com/track/5EZWzEWmjVl6Eqn3tOSA2g",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Dangerous Woman",
   trackType: "studio",
   explicit: false,

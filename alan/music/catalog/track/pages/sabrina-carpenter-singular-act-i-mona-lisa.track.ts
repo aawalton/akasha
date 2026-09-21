@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIMonaLisa = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7Gq4tfeuWPjr6WQiB7aBXz",
-      externalLink: "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Mona Lisa",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayEverydayLifeEko = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2HUtNS9qtfgWbnaagK6AAe",
-      externalLink: "https://open.spotify.com/track/2HUtNS9qtfgWbnaagK6AAe",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Èkó",
   trackType: "studio",
   explicit: false,

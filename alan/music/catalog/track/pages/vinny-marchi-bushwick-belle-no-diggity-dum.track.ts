@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5G3w4MRoOmzMHV8dj2HUMS",
-      externalLink: "https://open.spotify.com/track/5G3w4MRoOmzMHV8dj2HUMS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "No Diggity Dum",
   trackType: "studio",
   explicit: false,

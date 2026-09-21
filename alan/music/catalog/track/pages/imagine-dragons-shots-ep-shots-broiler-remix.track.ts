@@ -9,14 +9,6 @@ export const imagineDragonsShotsEpShotsBroilerRemix = {
   partOfCollections: ["release/imagine-dragons-shots-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XLm8FNvaTlmTAZmSrrV82",
-      externalLink: "https://open.spotify.com/track/4XLm8FNvaTlmTAZmSrrV82",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots - Broiler Remix",
   trackType: "remix",
   explicit: false,

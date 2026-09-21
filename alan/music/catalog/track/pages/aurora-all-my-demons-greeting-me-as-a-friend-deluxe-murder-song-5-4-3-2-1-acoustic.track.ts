@@ -13,14 +13,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321Acoustic =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2TtVg8AfRcdqkGObjiQ3Fx",
-      externalLink: "https://open.spotify.com/track/2TtVg8AfRcdqkGObjiQ3Fx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Murder Song (5, 4, 3, 2, 1) - Acoustic",
   trackType: "acoustic",
   explicit: false,

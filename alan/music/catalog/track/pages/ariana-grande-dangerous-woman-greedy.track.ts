@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanGreedy = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tcLyhPrmBEPaQ1Yz4MdGy",
-      externalLink: "https://open.spotify.com/track/6tcLyhPrmBEPaQ1Yz4MdGy",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Greedy",
   trackType: "studio",
   explicit: false,

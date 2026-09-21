@@ -9,14 +9,6 @@ export const sabrinaCarpenterManSBestFriendWeAlmostBrokeUpAgainLastNight = {
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6wkYQMrFfb0huLB5Qn19Iv",
-      externalLink: "https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "We Almost Broke Up Again Last Night",
   trackType: "studio",
   explicit: true,

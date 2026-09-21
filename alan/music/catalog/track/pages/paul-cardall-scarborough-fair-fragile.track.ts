@@ -9,14 +9,6 @@ export const paulCardallScarboroughFairFragile = {
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3x2nYN0AYbGx5PltryC96B",
-      externalLink: "https://open.spotify.com/track/3x2nYN0AYbGx5PltryC96B",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fragile",
   trackType: "studio",
   explicit: false,

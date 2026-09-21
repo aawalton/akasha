@@ -9,14 +9,6 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
   partOfCollections: ["release/zara-larsson-ain-t-my-fault-feat-lil-yachty-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Un6pB4KZKekFh3SVIa9qB",
-      externalLink: "https://open.spotify.com/track/4Un6pB4KZKekFh3SVIa9qB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ain't My Fault (feat. Lil Yachty) - Remix",
   trackType: "remix",
   explicit: true,

@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasHaveYourselfAMerryLittleChristmas 
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4pE9dLQByqtyETYukFrpzT",
-      externalLink: "https://open.spotify.com/track/4pE9dLQByqtyETYukFrpzT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
   explicit: false,

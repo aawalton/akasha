@@ -13,14 +13,6 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3nXcufQxUfluhkX4rvMlGi",
-      externalLink: "https://open.spotify.com/track/3nXcufQxUfluhkX4rvMlGi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Queendom",
   trackType: "studio",
   explicit: false,

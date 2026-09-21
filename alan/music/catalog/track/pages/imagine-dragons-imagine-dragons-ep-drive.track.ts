@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsEpDrive = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3FmZu1Qbdh2S0uWl1u2Czo",
-      externalLink: "https://open.spotify.com/track/3FmZu1Qbdh2S0uWl1u2Czo",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Drive",
   trackType: "studio",
   explicit: false,

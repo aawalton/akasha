@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "6uBzSTBAOtJZkngVgncbCx",
-        externalLink: "https://open.spotify.com/track/6uBzSTBAOtJZkngVgncbCx",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "true story - a cappella",
     trackType: "a-cappella",
     explicit: false,

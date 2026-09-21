@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourMachineGunKellyLiveAtTheTroubadour20
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0DH6I1kNkhlwUY9aWmASWp",
-      externalLink: "https://open.spotify.com/track/0DH6I1kNkhlwUY9aWmASWp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Machine Gun Kelly - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

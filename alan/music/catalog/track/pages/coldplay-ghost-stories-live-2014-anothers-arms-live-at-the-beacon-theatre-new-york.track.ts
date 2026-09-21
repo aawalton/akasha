@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014AnothersArmsLiveAtTheBeaconTheatreNewYo
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "79fUOcp3p5YCkBD6ILl6Tz",
-      externalLink: "https://open.spotify.com/track/79fUOcp3p5YCkBD6ILl6Tz",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Another's Arms - Live at the Beacon Theatre, New York",
   trackType: "live",
   explicit: false,

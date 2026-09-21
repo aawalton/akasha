@@ -10,14 +10,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ZjwFYORhwx5sL3lZAHaMs",
-      externalLink: "https://open.spotify.com/track/4ZjwFYORhwx5sL3lZAHaMs",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Thank Goodness - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,

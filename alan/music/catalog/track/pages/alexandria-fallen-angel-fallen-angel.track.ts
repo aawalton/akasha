@@ -9,14 +9,6 @@ export const alexandriaFallenAngelFallenAngel = {
   partOfCollections: ["release/alexandria-fallen-angel"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3seBiwK70S9YrmolLWJiVp",
-      externalLink: "https://open.spotify.com/track/3seBiwK70S9YrmolLWJiVp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fallen Angel",
   trackType: "studio",
   explicit: false,

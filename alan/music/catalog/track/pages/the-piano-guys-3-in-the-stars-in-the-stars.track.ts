@@ -13,14 +13,6 @@ export const thePianoGuys3InTheStarsInTheStars = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zkLrc401RiE6YuekwE7Ju",
-      externalLink: "https://open.spotify.com/track/4zkLrc401RiE6YuekwE7Ju",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "In The Stars",
   trackType: "studio",
   explicit: false,

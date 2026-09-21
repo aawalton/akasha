@@ -13,14 +13,6 @@ export const auroraToBeAlrightYourBlood = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yumrjXIijfMWA9zowYxwi",
-      externalLink: "https://open.spotify.com/track/0yumrjXIijfMWA9zowYxwi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Your Blood",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendBetUWanna = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RAeuvRyRzCweAK3jUT0ZW",
-      externalLink: "https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "bet u wanna",
   trackType: "studio",
   explicit: false,

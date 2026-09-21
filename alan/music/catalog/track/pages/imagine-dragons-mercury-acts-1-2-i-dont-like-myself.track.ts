@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12IDontLikeMyself = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3soSAbnGLuJeARGmegvMFJ",
-      externalLink: "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Don't Like Myself",
   trackType: "studio",
   explicit: false,

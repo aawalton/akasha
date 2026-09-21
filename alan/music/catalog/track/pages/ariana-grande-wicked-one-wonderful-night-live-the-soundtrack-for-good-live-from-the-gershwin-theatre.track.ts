@@ -11,14 +11,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "2zS3syUBiTkYqJRm9Tn52h",
-        externalLink: "https://open.spotify.com/track/2zS3syUBiTkYqJRm9Tn52h",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "For Good - Live from the Gershwin Theatre",
     trackType: "live",
     explicit: false,

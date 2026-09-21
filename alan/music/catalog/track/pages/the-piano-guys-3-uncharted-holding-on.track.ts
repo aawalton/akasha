@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedHoldingOn = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4NtdfercTqkeThHmZwMrtZ",
-      externalLink: "https://open.spotify.com/track/4NtdfercTqkeThHmZwMrtZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Holding On",
   trackType: "studio",
   explicit: false,

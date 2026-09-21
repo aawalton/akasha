@@ -12,14 +12,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1D6Be4MHxIxz4i10GDjdnk",
-      externalLink: "https://open.spotify.com/track/1D6Be4MHxIxz4i10GDjdnk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Winter Bird",
   trackType: "studio",
   explicit: false,

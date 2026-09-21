@@ -12,14 +12,6 @@ export const thePianoGuys3GhostRainyDayWaltz = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59ihFAedQDTHRbpzSZRr7f",
-      externalLink: "https://open.spotify.com/track/59ihFAedQDTHRbpzSZRr7f",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rainy Day Waltz",
   trackType: "studio",
   explicit: false,

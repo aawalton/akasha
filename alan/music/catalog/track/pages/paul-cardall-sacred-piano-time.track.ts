@@ -9,14 +9,6 @@ export const paulCardallSacredPianoTime = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4QcBhrWGLb13aawq9JqduL",
-      externalLink: "https://open.spotify.com/track/4QcBhrWGLb13aawq9JqduL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Time",
   trackType: "studio",
   explicit: false,

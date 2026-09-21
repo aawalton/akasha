@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleRecordareNuestroBaile = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "28zGfJ9GZpOjCTpvbO0gry",
-      externalLink: "https://open.spotify.com/track/28zGfJ9GZpOjCTpvbO0gry",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Recordaré Nuestro Baile",
   trackType: "studio",
   explicit: false,

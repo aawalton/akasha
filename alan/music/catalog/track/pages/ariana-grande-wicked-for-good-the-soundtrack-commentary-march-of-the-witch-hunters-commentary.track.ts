@@ -9,14 +9,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3UY51zZYHJxTxGRcp7olK6",
-      externalLink: "https://open.spotify.com/track/3UY51zZYHJxTxGRcp7olK6",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "March of the Witch Hunters - Commentary",
   trackType: "studio",
   explicit: false,

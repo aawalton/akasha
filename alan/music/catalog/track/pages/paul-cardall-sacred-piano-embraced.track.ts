@@ -9,14 +9,6 @@ export const paulCardallSacredPianoEmbraced = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7zIfL3Gs8IwKCWuAre4XP6",
-      externalLink: "https://open.spotify.com/track/7zIfL3Gs8IwKCWuAre4XP6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Embraced",
   trackType: "studio",
   explicit: false,

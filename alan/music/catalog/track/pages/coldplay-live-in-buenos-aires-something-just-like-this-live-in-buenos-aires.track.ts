@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresSomethingJustLikeThisLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hreO9tj5yiYftUuVThaea",
-      externalLink: "https://open.spotify.com/track/0hreO9tj5yiYftUuVThaea",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just like This - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

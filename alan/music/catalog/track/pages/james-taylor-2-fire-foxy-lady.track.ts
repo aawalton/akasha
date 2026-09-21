@@ -9,14 +9,6 @@ export const jamesTaylor2FireFoxyLady = {
   partOfCollections: ["release/james-taylor-2-fire"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DM5WjP3EslUWgJaOpGGmT",
-      externalLink: "https://open.spotify.com/track/5DM5WjP3EslUWgJaOpGGmT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Foxy Lady",
   trackType: "studio",
   explicit: false,

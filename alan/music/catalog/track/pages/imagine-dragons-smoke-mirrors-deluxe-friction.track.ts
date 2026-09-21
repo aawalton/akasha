@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsDeluxeFriction = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64ETHwzBLaBTGuKY55K1Kc",
-      externalLink: "https://open.spotify.com/track/64ETHwzBLaBTGuKY55K1Kc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Friction",
   trackType: "studio",
   explicit: false,

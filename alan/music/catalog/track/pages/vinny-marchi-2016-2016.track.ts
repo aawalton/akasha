@@ -9,14 +9,6 @@ export const vinnyMarchi20162016 = {
   partOfCollections: ["release/vinny-marchi-2016"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2kEVkLC16SVPwHjAgxeBUT",
-      externalLink: "https://open.spotify.com/track/2kEVkLC16SVPwHjAgxeBUT",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "2016",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreIBetMyLifeLiv
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aq9YWG5zSAfiUv1vMRHPt",
-      externalLink: "https://open.spotify.com/track/1aq9YWG5zSAfiUv1vMRHPt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life - Live",
   trackType: "live",
   explicit: false,

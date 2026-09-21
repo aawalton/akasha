@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoSweetSurrender = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1d26cF9yQ6BDROI8yfarIt",
-      externalLink: "https://open.spotify.com/track/1d26cF9yQ6BDROI8yfarIt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Surrender",
   trackType: "studio",
   explicit: false,

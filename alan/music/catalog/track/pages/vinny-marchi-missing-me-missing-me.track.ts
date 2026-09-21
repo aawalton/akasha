@@ -9,14 +9,6 @@ export const vinnyMarchiMissingMeMissingMe = {
   partOfCollections: ["release/vinny-marchi-missing-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4SVHyFLX8rWfmW8nnUzymu",
-      externalLink: "https://open.spotify.com/track/4SVHyFLX8rWfmW8nnUzymu",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "missing me.",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenterCloudsWithSabrinaCarpente
   partOfCollections: ["release/sabrina-carpenter-clouds-with-sabrina-carpenter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06Kyj7sv2HzZPu4Vt4wfcO",
-      externalLink: "https://open.spotify.com/track/06Kyj7sv2HzZPu4Vt4wfcO",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Clouds (with Sabrina Carpenter)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePetalStay = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0QltPqkR4dnhbINyBOU5SY",
-      externalLink: "https://open.spotify.com/track/0QltPqkR4dnhbINyBOU5SY",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "stay",
   trackType: "studio",
   explicit: false,

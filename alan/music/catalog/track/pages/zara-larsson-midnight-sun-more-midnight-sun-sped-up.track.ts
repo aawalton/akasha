@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunSpedUp = {
   partOfCollections: ["release/zara-larsson-midnight-sun-more"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3T0DBKF5CGVmCBwqluvJee",
-      externalLink: "https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - Sped Up",
   trackType: "version",
   explicit: false,

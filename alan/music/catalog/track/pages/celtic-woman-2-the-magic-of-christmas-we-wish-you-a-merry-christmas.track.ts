@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasWeWishYouAMerryChristmas = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7LFNe3bM39xsC7wkYCTCKX",
-      externalLink: "https://open.spotify.com/track/7LFNe3bM39xsC7wkYCTCKX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "We Wish You A Merry Christmas",
   trackType: "studio",
   explicit: false,

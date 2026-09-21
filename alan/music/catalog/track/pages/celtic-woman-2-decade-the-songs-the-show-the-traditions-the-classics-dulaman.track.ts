@@ -12,14 +12,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDulaman = 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3jqI6oQPH12DBt7XL7Ytub",
-      externalLink: "https://open.spotify.com/track/3jqI6oQPH12DBt7XL7Ytub",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Dúlaman",
   trackType: "studio",
   explicit: false,

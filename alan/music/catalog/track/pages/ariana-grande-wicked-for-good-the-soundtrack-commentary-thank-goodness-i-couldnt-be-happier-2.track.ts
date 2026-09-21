@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49Cba2Z41IgTT5py8iT86J",
-      externalLink: "https://open.spotify.com/track/49Cba2Z41IgTT5py8iT86J",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Thank Goodness / I Couldn’t Be Happier",
   trackType: "studio",
   explicit: false,

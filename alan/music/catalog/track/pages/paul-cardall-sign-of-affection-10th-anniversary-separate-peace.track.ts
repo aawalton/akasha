@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversarySeparatePeace = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4g7Z2BmyFqtakjm8KF2EtH",
-      externalLink: "https://open.spotify.com/track/4g7Z2BmyFqtakjm8KF2EtH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Separate Peace",
   trackType: "studio",
   explicit: false,

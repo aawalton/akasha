@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleFamily = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1S6aYw1vn3LV0jpoBpjnXv",
-      externalLink: "https://open.spotify.com/track/1S6aYw1vn3LV0jpoBpjnXv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Family",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeThankUNext7Rings = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ocbgoVGwYJhOv1GgI9NsF",
-      externalLink: "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "7 rings",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasAdesteFideles = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Uy1mimDi2YYZMNyENsh02",
-      externalLink: "https://open.spotify.com/track/2Uy1mimDi2YYZMNyENsh02",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Adeste Fideles",
   trackType: "studio",
   explicit: false,

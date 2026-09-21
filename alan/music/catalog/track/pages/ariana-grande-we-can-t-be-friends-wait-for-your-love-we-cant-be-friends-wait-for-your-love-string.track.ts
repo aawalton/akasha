@@ -9,14 +9,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
   partOfCollections: ["release/ariana-grande-we-can-t-be-friends-wait-for-your-love"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2TJYfqZ24XmBt3lKsfQj4N",
-      externalLink: "https://open.spotify.com/track/2TJYfqZ24XmBt3lKsfQj4N",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "we can't be friends (wait for your love) – string version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerBlazedFeatPharrellWilliams = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4mLkiFppf8Xvem6BSY34qw",
-      externalLink: "https://open.spotify.com/track/4mLkiFppf8Xvem6BSY34qw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "blazed (feat. Pharrell Williams)",
   trackType: "studio",
   explicit: true,

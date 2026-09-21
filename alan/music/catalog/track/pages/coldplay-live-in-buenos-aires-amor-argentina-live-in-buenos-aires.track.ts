@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresAmorArgentinaLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rAZrYT0Ad4F1RiDaxYknE",
-      externalLink: "https://open.spotify.com/track/1rAZrYT0Ad4F1RiDaxYknE",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Amor Argentina - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

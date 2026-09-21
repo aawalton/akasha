@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanThinkingBoutYou = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "28tmK8wkE9y1UHdBKLd0nA",
-      externalLink: "https://open.spotify.com/track/28tmK8wkE9y1UHdBKLd0nA",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Thinking Bout You",
   trackType: "studio",
   explicit: true,

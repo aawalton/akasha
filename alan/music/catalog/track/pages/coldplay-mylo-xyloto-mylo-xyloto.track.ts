@@ -9,14 +9,6 @@ export const coldplayMyloXylotoMyloXyloto = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3vCzHYgSjMuGjFMfJSCx4c",
-      externalLink: "https://open.spotify.com/track/3vCzHYgSjMuGjFMfJSCx4c",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Mylo Xyloto",
   trackType: "studio",
   explicit: false,

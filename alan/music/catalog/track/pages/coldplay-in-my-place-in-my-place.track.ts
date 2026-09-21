@@ -9,14 +9,6 @@ export const coldplayInMyPlaceInMyPlace = {
   partOfCollections: ["release/coldplay-in-my-place"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2aXZp30TocFnABRPF1Isrl",
-      externalLink: "https://open.spotify.com/track/2aXZp30TocFnABRPF1Isrl",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "In My Place",
   trackType: "studio",
   explicit: false,

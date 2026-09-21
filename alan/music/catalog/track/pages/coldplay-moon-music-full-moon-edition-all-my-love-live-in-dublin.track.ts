@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionAllMyLoveLiveInDublin = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3aaXb0yHa5voqqAXALjUJm",
-      externalLink: "https://open.spotify.com/track/3aaXb0yHa5voqqAXALjUJm",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "All My Love - Live in Dublin",
   trackType: "live",
   explicit: false,

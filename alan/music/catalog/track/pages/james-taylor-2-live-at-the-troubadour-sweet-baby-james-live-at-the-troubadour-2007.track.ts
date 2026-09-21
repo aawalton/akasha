@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourSweetBabyJamesLiveAtTheTroubadour200
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yd6NcWGn4L82syGLh2g0o",
-      externalLink: "https://open.spotify.com/track/1yd6NcWGn4L82syGLh2g0o",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sweet Baby James - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

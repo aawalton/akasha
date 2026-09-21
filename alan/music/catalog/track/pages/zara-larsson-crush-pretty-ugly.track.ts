@@ -15,14 +15,6 @@ export const zaraLarssonCrushPrettyUgly = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6xL5Gi6sbvHjB11FvxyRub",
-      externalLink: "https://open.spotify.com/track/6xL5Gi6sbvHjB11FvxyRub",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Pretty Ugly",
   trackType: "studio",
   explicit: true,

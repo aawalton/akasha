@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionBeAlright = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0RCSbGc93M6SpC8TBG0pPR",
-      externalLink: "https://open.spotify.com/track/0RCSbGc93M6SpC8TBG0pPR",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Be Alright",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiPoserRemasteredTakeMeBackToYouRemastered = {
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "68LNdp6KKujvDnUtnrKT2h",
-      externalLink: "https://open.spotify.com/track/68LNdp6KKujvDnUtnrKT2h",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Take Me Back To You - remastered",
   trackType: "remaster",
   explicit: false,

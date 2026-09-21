@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023WeWereMostlyClowns = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3DXHiMEJk4qW7LSvCoRb19",
-      externalLink: "https://open.spotify.com/track/3DXHiMEJk4qW7LSvCoRb19",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "We Were Mostly...CLOWNS!",
   trackType: "studio",
   explicit: false,

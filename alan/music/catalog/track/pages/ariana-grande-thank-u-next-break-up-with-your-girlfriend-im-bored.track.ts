@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextBreakUpWithYourGirlfriendImBored = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4kV4N9D1iKVxx1KLvtTpjS",
-      externalLink: "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "break up with your girlfriend, i'm bored",
   trackType: "studio",
   explicit: true,

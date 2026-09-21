@@ -9,14 +9,6 @@ export const billieEilishBellyacheBellyache = {
   partOfCollections: ["release/billie-eilish-bellyache", "release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "51NFxnQvaosfDDutk0tams",
-      externalLink: "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "bellyache",
   trackType: "studio",
   explicit: false,

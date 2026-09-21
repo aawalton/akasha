@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeIBetMyLife = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1CQXNBt6zv15L8zDITcxRB",
-      externalLink: "https://open.spotify.com/track/1CQXNBt6zv15L8zDITcxRB",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life",
   trackType: "studio",
   explicit: false,

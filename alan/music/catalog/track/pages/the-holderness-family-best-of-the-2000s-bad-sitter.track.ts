@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sBadSitter = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "42AAlTcntyAJU3J6HCjLVV",
-      externalLink: "https://open.spotify.com/track/42AAlTcntyAJU3J6HCjLVV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bad Sitter",
   trackType: "studio",
   explicit: false,

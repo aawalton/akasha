@@ -9,14 +9,6 @@ export const celticWoman2WaterUnderTheBridgeWaterUnderTheBridge1Mic1Take = {
   partOfCollections: ["release/celtic-woman-2-water-under-the-bridge"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ql5YPraLJJgibIbqxTxIG",
-      externalLink: "https://open.spotify.com/track/4ql5YPraLJJgibIbqxTxIG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Water Under the Bridge - 1 Mic 1 Take",
   trackType: "studio",
   explicit: false,

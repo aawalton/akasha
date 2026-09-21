@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsGodSpeedTheRight = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4CIBwKZ5lDoa2F9MLCVCgK",
-      externalLink: "https://open.spotify.com/track/4CIBwKZ5lDoa2F9MLCVCgK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Speed the Right",
   trackType: "studio",
   explicit: false,

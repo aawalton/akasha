@@ -9,14 +9,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLovePeaktime
   partOfCollections: ["release/sabrina-carpenter-bring-your-love-honey-dijon-remixes"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "16wKcqSJxndhZErTqmINne",
-      externalLink: "https://open.spotify.com/track/16wKcqSJxndhZErTqmINne",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bring Your Love - Peaktime Dub Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsIBetMyLifeLiveFromSpotif
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2N7zevcCCMxGt9TDG29dcF",
-      externalLink: "https://open.spotify.com/track/2N7zevcCCMxGt9TDG29dcF",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life - Live From Spotify London",
   trackType: "live",
   explicit: false,

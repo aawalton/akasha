@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndI = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7f5TtZfS8rDAsDHS9E6fou",
-      externalLink: "https://open.spotify.com/track/7f5TtZfS8rDAsDHS9E6fou",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Wizard And I",
   trackType: "studio",
   explicit: false,

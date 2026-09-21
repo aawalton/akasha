@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoAfterTheRainFall = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4INuKoAd77rfgdGSMuOBRT",
-      externalLink: "https://open.spotify.com/track/4INuKoAd77rfgdGSMuOBRT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "After the Rain Fall",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHell = {
   partOfCollections: ["release/ariana-grande-good-as-hell-feat-ariana-grande-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0UiuknFvxHL5jGnD8LpoaO",
-      externalLink: "https://open.spotify.com/track/0UiuknFvxHL5jGnD8LpoaO",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Good as Hell",
   trackType: "studio",
   explicit: false,

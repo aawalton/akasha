@@ -9,14 +9,6 @@ export const celticWoman2DestinyRideOn = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0pxw4QQye67Vq7cYmHZPCZ",
-      externalLink: "https://open.spotify.com/track/0pxw4QQye67Vq7cYmHZPCZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ride On",
   trackType: "studio",
   explicit: false,

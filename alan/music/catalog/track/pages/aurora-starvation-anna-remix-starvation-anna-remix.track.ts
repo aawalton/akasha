@@ -9,14 +9,6 @@ export const auroraStarvationAnnaRemixStarvationAnnaRemix = {
   partOfCollections: ["release/aurora-starvation-anna-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jUSeUGV45yIv4DriLMlNV",
-      externalLink: "https://open.spotify.com/track/7jUSeUGV45yIv4DriLMlNV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Starvation (ANNA Remix)",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasJingleBells = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1CaStRZxso3iWWLzUFfjUL",
-      externalLink: "https://open.spotify.com/track/1CaStRZxso3iWWLzUFfjUL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Jingle Bells",
   trackType: "studio",
   explicit: false,

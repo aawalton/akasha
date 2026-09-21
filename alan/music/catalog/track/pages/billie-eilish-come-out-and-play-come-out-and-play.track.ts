@@ -9,14 +9,6 @@ export const billieEilishComeOutAndPlayComeOutAndPlay = {
   partOfCollections: ["release/billie-eilish-come-out-and-play"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wC5eZcFS1Q1BsQ35DU6H4",
-      externalLink: "https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "come out and play",
   trackType: "studio",
   explicit: false,

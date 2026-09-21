@@ -9,14 +9,6 @@ export const coldplayGhostStoriesAlwaysInMyHead = {
   partOfCollections: ["release/coldplay-ghost-stories"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0FMjqbY3aWo1QDbo3GwXib",
-      externalLink: "https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Always in My Head",
   trackType: "studio",
   explicit: false,

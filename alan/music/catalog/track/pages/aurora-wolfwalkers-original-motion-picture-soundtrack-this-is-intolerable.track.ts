@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackThisIsIntolerable =
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1j5nX7cT3rglENz5Jpvw0x",
-      externalLink: "https://open.spotify.com/track/1j5nX7cT3rglENz5Jpvw0x",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "This Is Intolerable",
   trackType: "studio",
   explicit: false,

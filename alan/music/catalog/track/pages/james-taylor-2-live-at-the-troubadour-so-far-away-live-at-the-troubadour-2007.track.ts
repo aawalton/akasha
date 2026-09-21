@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourSoFarAwayLiveAtTheTroubadour2007 = {
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "631GjjCfWKM0lq3lCY50sH",
-      externalLink: "https://open.spotify.com/track/631GjjCfWKM0lq3lCY50sH",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "So Far Away - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

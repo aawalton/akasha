@@ -9,14 +9,6 @@ export const vinnyMarchiDannyBoyDannyBoy = {
   partOfCollections: ["release/vinny-marchi-danny-boy"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2xWqyjYrRSTnuL2gd6Mp56",
-      externalLink: "https://open.spotify.com/track/2xWqyjYrRSTnuL2gd6Mp56",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Danny Boy",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiInMyBed = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1FjD1jpm51dH5LzLvrDVPY",
-      externalLink: "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "In My Bed",
   trackType: "studio",
   explicit: false,

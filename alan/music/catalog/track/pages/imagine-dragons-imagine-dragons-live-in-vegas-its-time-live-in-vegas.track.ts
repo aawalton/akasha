@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasItsTimeLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5nSAoHM9qM1RAKiyqx7AAu",
-      externalLink: "https://open.spotify.com/track/5nSAoHM9qM1RAKiyqx7AAu",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Live in Vegas",
   trackType: "live",
   explicit: false,

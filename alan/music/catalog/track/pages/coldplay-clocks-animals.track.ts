@@ -9,14 +9,6 @@ export const coldplayClocksAnimals = {
   partOfCollections: ["release/coldplay-clocks"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59tjfzA98dum1TXhJ4XWoe",
-      externalLink: "https://open.spotify.com/track/59tjfzA98dum1TXhJ4XWoe",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Animals",
   trackType: "studio",
   explicit: false,

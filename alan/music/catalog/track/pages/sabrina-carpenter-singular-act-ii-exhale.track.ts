@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiExhale = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6CagMrZXJUdGGIw6Eaepos",
-      externalLink: "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Exhale",
   trackType: "studio",
   explicit: false,

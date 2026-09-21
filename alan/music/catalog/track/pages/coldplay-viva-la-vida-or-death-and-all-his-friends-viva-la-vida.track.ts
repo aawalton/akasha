@@ -13,14 +13,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsVivaLaVida = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1mea3bSkSGXuIRvnydlB5b",
-      externalLink: "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Viva La Vida",
   trackType: "studio",
   explicit: false,

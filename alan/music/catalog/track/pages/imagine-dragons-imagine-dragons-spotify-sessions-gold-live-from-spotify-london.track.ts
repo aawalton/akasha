@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsGoldLiveFromSpotifyLondo
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "33FLvaIp4eA2MopG2XJJB8",
-      externalLink: "https://open.spotify.com/track/33FLvaIp4eA2MopG2XJJB8",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Gold - Live From Spotify London",
   trackType: "live",
   explicit: false,

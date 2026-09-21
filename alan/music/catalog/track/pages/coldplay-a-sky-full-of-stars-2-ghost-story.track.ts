@@ -9,14 +9,6 @@ export const coldplayASkyFullOfStars2GhostStory = {
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0VAQB7OYAoeRZH7sLmhVT6",
-      externalLink: "https://open.spotify.com/track/0VAQB7OYAoeRZH7sLmhVT6",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Ghost Story",
   trackType: "studio",
   explicit: false,

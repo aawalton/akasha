@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionReturnHomeSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "33HBmSHQcrIwFB9u1jURue",
-      externalLink: "https://open.spotify.com/track/33HBmSHQcrIwFB9u1jURue",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Return Home - Solo Piano Version",
   trackType: "version",
   explicit: false,

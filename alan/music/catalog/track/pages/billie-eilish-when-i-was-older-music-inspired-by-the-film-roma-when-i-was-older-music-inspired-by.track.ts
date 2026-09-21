@@ -9,14 +9,6 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRomaWhenIWasOlderMus
   partOfCollections: ["release/billie-eilish-when-i-was-older-music-inspired-by-the-film-roma"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tGEAA1f8MydT7eVbbO9Zy",
-      externalLink: "https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
   trackType: "studio",
   explicit: false,

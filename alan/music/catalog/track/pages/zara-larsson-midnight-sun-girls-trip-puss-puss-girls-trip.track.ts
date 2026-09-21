@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSunGirlsTripPussPussGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nYpEIZbqk9Pj3UCXbwtpM",
-      externalLink: "https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Puss Puss - Girls Trip",
   trackType: "studio",
   explicit: false,

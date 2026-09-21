@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2aApBbc95H7jB6EmDBGLzW",
-      externalLink: "https://open.spotify.com/track/2aApBbc95H7jB6EmDBGLzW",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "imperfect for you - a cappella",
   trackType: "a-cappella",
   explicit: true,

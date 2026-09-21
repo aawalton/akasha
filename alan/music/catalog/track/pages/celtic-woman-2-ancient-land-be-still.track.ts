@@ -12,14 +12,6 @@ export const celticWoman2AncientLandBeStill = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6bTXuFObHePIXTAwp22NoQ",
-      externalLink: "https://open.spotify.com/track/6bTXuFObHePIXTAwp22NoQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Be Still",
   trackType: "studio",
   explicit: false,

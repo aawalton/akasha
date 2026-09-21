@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenSearchingForHome = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2hX16COFGC928DzCF4X3fx",
-      externalLink: "https://open.spotify.com/track/2hX16COFGC928DzCF4X3fx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Searching For Home",
   trackType: "studio",
   explicit: false,

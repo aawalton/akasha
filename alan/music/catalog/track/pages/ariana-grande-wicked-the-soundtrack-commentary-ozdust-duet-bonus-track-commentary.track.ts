@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58eg6kFZP3JLPoKOGCD6Ln",
-      externalLink: "https://open.spotify.com/track/58eg6kFZP3JLPoKOGCD6Ln",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Ozdust Duet (Bonus Track) - Commentary",
   trackType: "studio",
   explicit: false,

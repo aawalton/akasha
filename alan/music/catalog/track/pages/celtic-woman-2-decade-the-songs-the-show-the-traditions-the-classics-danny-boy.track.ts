@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDannyBoy =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3q7S29Eu7AnJF9B1K8PhjP",
-      externalLink: "https://open.spotify.com/track/3q7S29Eu7AnJF9B1K8PhjP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Danny Boy",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionMeanOldMan = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WqZ6MR1Xmz3MCaWA4HZ8x",
-      externalLink: "https://open.spotify.com/track/0WqZ6MR1Xmz3MCaWA4HZ8x",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mean Old Man",
   trackType: "studio",
   explicit: false,

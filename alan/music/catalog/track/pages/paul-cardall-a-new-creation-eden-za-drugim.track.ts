@@ -9,14 +9,6 @@ export const paulCardallANewCreationEdenZaDrugim = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5BBpKmVsywON8P1G7s564S",
-      externalLink: "https://open.spotify.com/track/5BBpKmVsywON8P1G7s564S",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eden Za Drugim",
   trackType: "studio",
   explicit: false,

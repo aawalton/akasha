@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreGoldLive = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "34kagqTL1olEdHWPs9XU2H",
-      externalLink: "https://open.spotify.com/track/34kagqTL1olEdHWPs9XU2H",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Gold - Live",
   trackType: "live",
   explicit: false,

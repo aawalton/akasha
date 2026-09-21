@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheNewGrou
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1kkpB8n82z5URqcFHGIViU",
-      externalLink: "https://open.spotify.com/track/1kkpB8n82z5URqcFHGIViU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The New Ground/Isle of Hope",
   trackType: "studio",
   explicit: false,

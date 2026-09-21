@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0IqfR9NSTljo3wFjqHRpGy",
-      externalLink: "https://open.spotify.com/track/0IqfR9NSTljo3wFjqHRpGy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "In The Midnight Hour",
   trackType: "studio",
   explicit: false,

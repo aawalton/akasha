@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchHeathens = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1wtFmvGQtqWahPLVTlrr0K",
-      externalLink: "https://open.spotify.com/track/1wtFmvGQtqWahPLVTlrr0K",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Heathens",
   trackType: "studio",
   explicit: false,

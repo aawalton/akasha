@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodFuneral = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75gU1E0ou9Kf8GBVwGs1Xk",
-      externalLink: "https://open.spotify.com/track/75gU1E0ou9Kf8GBVwGs1Xk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Funeral",
   trackType: "studio",
   explicit: false,

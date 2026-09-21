@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionLandOfOurAncestorsSoloPianoVer
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Be3L2Nfou1WQw5laFyIAO",
-      externalLink: "https://open.spotify.com/track/3Be3L2Nfou1WQw5laFyIAO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Land of Our Ancestors - Solo Piano Version",
   trackType: "version",
   explicit: false,

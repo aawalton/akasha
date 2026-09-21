@@ -9,14 +9,6 @@ export const auroraCureForMeAcousticCureForMeAcoustic = {
   partOfCollections: ["release/aurora-cure-for-me-acoustic", "release/aurora-cure-for-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Kg0X8buY9Exe3EM3db8Lx",
-      externalLink: "https://open.spotify.com/track/3Kg0X8buY9Exe3EM3db8Lx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Cure for Me - Acoustic",
   trackType: "acoustic",
   explicit: false,

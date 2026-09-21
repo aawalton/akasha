@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeMachine = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4uGY9CqDtGtaTTLg1cgsWD",
-      externalLink: "https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Machine",
   trackType: "studio",
   explicit: false,

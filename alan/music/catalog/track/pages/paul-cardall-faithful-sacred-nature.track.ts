@@ -9,14 +9,6 @@ export const paulCardallFaithfulSacredNature = {
   partOfCollections: ["release/paul-cardall-faithful"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zq4jJ83wSHJTE7bQEqEtm",
-      externalLink: "https://open.spotify.com/track/0zq4jJ83wSHJTE7bQEqEtm",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sacred Nature",
   trackType: "studio",
   explicit: false,

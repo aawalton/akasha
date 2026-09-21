@@ -9,14 +9,6 @@ export const coldplayHypnotisedHypnotised = {
   partOfCollections: ["release/coldplay-hypnotised"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5LXj9Ch3O9ATm1NoHT8GXn",
-      externalLink: "https://open.spotify.com/track/5LXj9Ch3O9ATm1NoHT8GXn",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Hypnotised",
   trackType: "studio",
   explicit: false,

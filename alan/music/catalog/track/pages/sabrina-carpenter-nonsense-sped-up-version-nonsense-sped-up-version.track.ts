@@ -9,14 +9,6 @@ export const sabrinaCarpenterNonsenseSpedUpVersionNonsenseSpedUpVersion = {
   partOfCollections: ["release/sabrina-carpenter-nonsense-sped-up-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5KeI897tZgjezHKvxlaOaR",
-      externalLink: "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Nonsense - Sped Up Version",
   trackType: "version",
   explicit: false,

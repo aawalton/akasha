@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2IKnowThatMyRedeemerLives = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1LyOupxz46ZCRRtsilMzMH",
-      externalLink: "https://open.spotify.com/track/1LyOupxz46ZCRRtsilMzMH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Know that My Redeemer Lives",
   trackType: "studio",
   explicit: false,

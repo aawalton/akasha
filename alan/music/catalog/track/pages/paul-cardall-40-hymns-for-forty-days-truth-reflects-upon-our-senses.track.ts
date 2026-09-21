@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysTruthReflectsUponOurSenses = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KQBKhsZfLR6bBg7rMlEBD",
-      externalLink: "https://open.spotify.com/track/7KQBKhsZfLR6bBg7rMlEBD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Truth Reflects Upon Our Senses",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdReadYourMind = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Irr5XfPM6cyoKijHSCrqM",
-      externalLink: "https://open.spotify.com/track/2Irr5XfPM6cyoKijHSCrqM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Read your Mind",
   trackType: "studio",
   explicit: false,

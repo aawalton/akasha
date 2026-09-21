@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveYourSmilingFace = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0qWeTfa2rF6Q0KICiGjr3j",
-      externalLink: "https://open.spotify.com/track/0qWeTfa2rF6Q0KICiGjr3j",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Your Smiling Face",
   trackType: "studio",
   explicit: false,

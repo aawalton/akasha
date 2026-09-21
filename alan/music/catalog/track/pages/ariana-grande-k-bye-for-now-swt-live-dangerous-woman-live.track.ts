@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveDangerousWomanLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5H7d8isXFW779pCK7lo4KT",
-      externalLink: "https://open.spotify.com/track/5H7d8isXFW779pCK7lo4KT",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "dangerous woman - live",
   trackType: "live",
   explicit: false,

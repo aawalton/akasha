@@ -11,14 +11,6 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0cDwUAF7yQrOLRcFfJpSc2",
-      externalLink: "https://open.spotify.com/track/0cDwUAF7yQrOLRcFfJpSc2",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: 'Zero - From the Original Motion Picture "Ralph Breaks The Internet"',
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBadCommentary = {
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "09eGSrwzYs7GOgHlrjilvW",
-      externalLink: "https://open.spotify.com/track/09eGSrwzYs7GOgHlrjilvW",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Something Bad - Commentary",
   trackType: "studio",
   explicit: false,

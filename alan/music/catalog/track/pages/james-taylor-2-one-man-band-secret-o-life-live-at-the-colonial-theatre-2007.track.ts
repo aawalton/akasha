@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandSecretOLifeLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49xjxUcpztWSNrYG35qHed",
-      externalLink: "https://open.spotify.com/track/49xjxUcpztWSNrYG35qHed",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Secret O' Life - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

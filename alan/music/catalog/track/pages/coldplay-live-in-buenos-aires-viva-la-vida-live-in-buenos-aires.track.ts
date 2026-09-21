@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresVivaLaVidaLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Y9lVjRD82aJOQ2v13UIoF",
-      externalLink: "https://open.spotify.com/track/4Y9lVjRD82aJOQ2v13UIoF",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Viva La Vida - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTheWay = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06EL94D0TA27Ik0Ke5usbj",
-      externalLink: "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Way",
   trackType: "studio",
   explicit: false,

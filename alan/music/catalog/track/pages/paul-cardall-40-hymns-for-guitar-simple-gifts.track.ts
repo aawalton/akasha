@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarSimpleGifts = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Hk4esSuPCekiZEKVnlAD0",
-      externalLink: "https://open.spotify.com/track/3Hk4esSuPCekiZEKVnlAD0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Simple Gifts",
   trackType: "studio",
   explicit: false,

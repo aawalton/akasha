@@ -12,14 +12,6 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6CR8JUW0AOPTGhCrz0P6dC",
-      externalLink: "https://open.spotify.com/track/6CR8JUW0AOPTGhCrz0P6dC",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Kung Fu Piano: Cello Ascends",
   trackType: "studio",
   explicit: false,

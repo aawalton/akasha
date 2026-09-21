@@ -9,14 +9,6 @@ export const paulCardallSacredPianoUnseenWorld = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6FNBOe4NKxqcJPFQ4YhGor",
-      externalLink: "https://open.spotify.com/track/6FNBOe4NKxqcJPFQ4YhGor",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Unseen World",
   trackType: "studio",
   explicit: false,

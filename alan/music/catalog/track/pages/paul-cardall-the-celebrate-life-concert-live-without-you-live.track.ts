@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveWithoutYouLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "68LlWKYaJ69ZdugM5zMJOx",
-      externalLink: "https://open.spotify.com/track/68LlWKYaJ69ZdugM5zMJOx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Without You - Live",
   trackType: "live",
   explicit: false,

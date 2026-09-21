@@ -12,14 +12,6 @@ export const celticWoman2AmidTheFallingSnowAmidTheFallingSnow = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2j4eYhgAip1mN3b5gk5MY6",
-      externalLink: "https://open.spotify.com/track/2j4eYhgAip1mN3b5gk5MY6",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amid The Falling Snow",
   trackType: "studio",
   explicit: false,

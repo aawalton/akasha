@@ -12,14 +12,6 @@ export const zaraLarssonGirlsGirlGirlsTripGirlsGirlGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3nFTbFUDsIluGyra5jIyKJ",
-      externalLink: "https://open.spotify.com/track/3nFTbFUDsIluGyra5jIyKJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Girl's Girl - Girls Trip",
   trackType: "studio",
   explicit: true,

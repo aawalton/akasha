@@ -9,14 +9,6 @@ export const coldplayLive2003MosesLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1n7a6D28s08972ImtPtaxX",
-      externalLink: "https://open.spotify.com/track/1n7a6D28s08972ImtPtaxX",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Moses - Live in Sydney",
   trackType: "live",
   explicit: false,

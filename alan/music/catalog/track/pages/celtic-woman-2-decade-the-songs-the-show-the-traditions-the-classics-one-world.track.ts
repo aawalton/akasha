@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOneWorld =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RcV03h1cRe3ANB79OLWfI",
-      externalLink: "https://open.spotify.com/track/1RcV03h1cRe3ANB79OLWfI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "One World",
   trackType: "studio",
   explicit: false,

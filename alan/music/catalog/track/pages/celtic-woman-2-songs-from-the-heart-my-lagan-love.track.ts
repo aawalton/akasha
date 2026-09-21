@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartMyLaganLove = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2jUzgcSBRIWdUxlomlgfWi",
-      externalLink: "https://open.spotify.com/track/2jUzgcSBRIWdUxlomlgfWi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Lagan Love",
   trackType: "studio",
   explicit: false,

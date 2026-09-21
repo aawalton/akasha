@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisR3habRemix
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0jTFKCb21Yd4UMV5Xk9EUz",
-      externalLink: "https://open.spotify.com/track/0jTFKCb21Yd4UMV5Xk9EUz",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This - R3hab Remix",
   trackType: "remix",
   explicit: false,

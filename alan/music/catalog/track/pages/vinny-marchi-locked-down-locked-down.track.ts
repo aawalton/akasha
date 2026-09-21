@@ -9,14 +9,6 @@ export const vinnyMarchiLockedDownLockedDown = {
   partOfCollections: ["release/vinny-marchi-locked-down"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Zcfkqfod1trj4MQ8Rvsac",
-      externalLink: "https://open.spotify.com/track/6Zcfkqfod1trj4MQ8Rvsac",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "LOCKED DOWN",
   trackType: "studio",
   explicit: false,

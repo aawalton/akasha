@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMyLittleWolf = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5tLgsIdVy6xWDRkdKKTTQu",
-      externalLink: "https://open.spotify.com/track/5tLgsIdVy6xWDRkdKKTTQu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Little Wolf",
   trackType: "studio",
   explicit: false,

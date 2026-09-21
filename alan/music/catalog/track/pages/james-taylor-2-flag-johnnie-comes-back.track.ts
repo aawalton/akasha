@@ -9,14 +9,6 @@ export const jamesTaylor2FlagJohnnieComesBack = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0gRgLB1nTW0Yb9mgWQuvDn",
-      externalLink: "https://open.spotify.com/track/0gRgLB1nTW0Yb9mgWQuvDn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Johnnie Comes Back",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsBirdsBirdsFeatElisa = {
   partOfCollections: ["release/imagine-dragons-birds"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2uZVfvOK7MTjBTRICYmpso",
-      externalLink: "https://open.spotify.com/track/2uZVfvOK7MTjBTRICYmpso",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Birds (feat. Elisa)",
   trackType: "studio",
   explicit: false,

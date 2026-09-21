@@ -9,14 +9,6 @@ export const paulCardallChristmasSonOfGod = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4KQ8C57YW73VaMLXDK8Z0n",
-      externalLink: "https://open.spotify.com/track/4KQ8C57YW73VaMLXDK8Z0n",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Son of God",
   trackType: "studio",
   explicit: false,

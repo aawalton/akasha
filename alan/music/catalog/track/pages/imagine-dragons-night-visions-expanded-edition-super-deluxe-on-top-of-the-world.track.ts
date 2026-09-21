@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "70smu7ojvXHycIMfw8BSBc",
-      externalLink: "https://open.spotify.com/track/70smu7ojvXHycIMfw8BSBc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "On Top Of The World",
   trackType: "studio",
   explicit: false,

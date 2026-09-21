@@ -9,14 +9,6 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonChanel = {
   partOfCollections: ["release/zara-larsson-she-did-it-again-feat-zara-larsson"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NAGWS1utZVyCy1pOnZSFN",
-      externalLink: "https://open.spotify.com/track/6NAGWS1utZVyCy1pOnZSFN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "CHANEL",
   trackType: "studio",
   explicit: true,

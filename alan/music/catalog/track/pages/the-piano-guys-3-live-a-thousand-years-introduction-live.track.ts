@@ -9,14 +9,6 @@ export const thePianoGuys3LiveAThousandYearsIntroductionLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6cYtqbaiUApJU7DhzCmxfb",
-      externalLink: "https://open.spotify.com/track/6cYtqbaiUApJU7DhzCmxfb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Thousand Years (Introduction) - Live",
   trackType: "live",
   explicit: false,

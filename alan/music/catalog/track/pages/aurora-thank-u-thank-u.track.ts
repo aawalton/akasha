@@ -9,14 +9,6 @@ export const auroraThankUThankU = {
   partOfCollections: ["release/aurora-thank-u"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1w5J5CBuvT36kt2OtHa8ts",
-      externalLink: "https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Thank U",
   trackType: "studio",
   explicit: false,

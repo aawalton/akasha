@@ -9,14 +9,6 @@ export const celticWoman2LullabyGoodnightMyAngel = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5bNTYrQBhfZ3v2TuS2hyfB",
-      externalLink: "https://open.spotify.com/track/5bNTYrQBhfZ3v2TuS2hyfB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Goodnight My Angel",
   trackType: "studio",
   explicit: false,

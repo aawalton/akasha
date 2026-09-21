@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoWishYouWereGay = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Fj47GNK2kUF0uaEDgXLaD",
-      externalLink: "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "wish you were gay",
   trackType: "studio",
   explicit: false,

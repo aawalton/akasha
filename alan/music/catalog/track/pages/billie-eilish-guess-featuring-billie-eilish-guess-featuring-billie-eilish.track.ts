@@ -9,14 +9,6 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
   partOfCollections: ["release/billie-eilish-guess-featuring-billie-eilish"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WOhcATHxK2SLNeP5W3v1v",
-      externalLink: "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Guess featuring billie eilish",
   trackType: "studio",
   explicit: false,

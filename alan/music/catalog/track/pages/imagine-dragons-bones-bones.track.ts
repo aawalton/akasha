@@ -9,14 +9,6 @@ export const imagineDragonsBonesBones = {
   partOfCollections: ["release/imagine-dragons-bones", "release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0HqZX76SFLDz2aW8aiqi7G",
-      externalLink: "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bones",
   trackType: "studio",
   explicit: false,

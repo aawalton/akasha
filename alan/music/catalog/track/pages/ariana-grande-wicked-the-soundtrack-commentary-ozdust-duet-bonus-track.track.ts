@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrack = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3EvXAIsBTsyHu7mVcpgQNm",
-      externalLink: "https://open.spotify.com/track/3EvXAIsBTsyHu7mVcpgQNm",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Ozdust Duet - Bonus Track",
   trackType: "studio",
   explicit: false,

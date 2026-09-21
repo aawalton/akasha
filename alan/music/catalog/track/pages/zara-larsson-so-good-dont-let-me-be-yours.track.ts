@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodDontLetMeBeYours = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65ACnVMmePTp8Xdk11jP2y",
-      externalLink: "https://open.spotify.com/track/65ACnVMmePTp8Xdk11jP2y",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Let Me Be Yours",
   trackType: "studio",
   explicit: false,

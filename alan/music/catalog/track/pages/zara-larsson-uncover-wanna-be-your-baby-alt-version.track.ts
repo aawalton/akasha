@@ -9,14 +9,6 @@ export const zaraLarssonUncoverWannaBeYourBabyAltVersion = {
   partOfCollections: ["release/zara-larsson-uncover"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oH5lv8dRUijckd6FO9HHh",
-      externalLink: "https://open.spotify.com/track/5oH5lv8dRUijckd6FO9HHh",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wanna Be Your Baby - Alt Version",
   trackType: "version",
   explicit: false,

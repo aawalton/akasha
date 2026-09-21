@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandMeanOldManLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "47chNYHzUVQwFFN7k6lLa2",
-      externalLink: "https://open.spotify.com/track/47chNYHzUVQwFFN7k6lLa2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mean Old Man - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

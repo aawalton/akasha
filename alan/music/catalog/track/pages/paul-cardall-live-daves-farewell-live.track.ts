@@ -9,14 +9,6 @@ export const paulCardallLiveDavesFarewellLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ECRrUUmcf5yyxTPblqXEk",
-      externalLink: "https://open.spotify.com/track/2ECRrUUmcf5yyxTPblqXEk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dave's Farewell - Live",
   trackType: "live",
   explicit: false,

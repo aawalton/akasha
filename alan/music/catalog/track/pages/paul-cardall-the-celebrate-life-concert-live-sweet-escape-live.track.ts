@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveSweetEscapeLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tNciXYhJ8cCJ39TNQIwwU",
-      externalLink: "https://open.spotify.com/track/7tNciXYhJ8cCJ39TNQIwwU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Escape - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
   partOfCollections: ["release/girl-in-red-you-need-me-now-feat-sabrina-carpenter"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3zPGZBbZEGqu7eY7R0NkqI",
-      externalLink: "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "You Need Me Now? (feat. Sabrina Carpenter)",
   trackType: "studio",
   explicit: true,

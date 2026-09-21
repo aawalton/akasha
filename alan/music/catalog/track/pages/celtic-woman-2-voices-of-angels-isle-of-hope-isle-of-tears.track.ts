@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsIsleOfHopeIsleOfTears = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0LjMiA7wEt9wvFqlN1foJe",
-      externalLink: "https://open.spotify.com/track/0LjMiA7wEt9wvFqlN1foJe",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Isle Of Hope, Isle Of Tears",
   trackType: "studio",
   explicit: false,

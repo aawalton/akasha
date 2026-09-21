@@ -9,14 +9,6 @@ export const emeiEndOfAnEraTrustIssues = {
   partOfCollections: ["release/emei-end-of-an-era", "release/emei-trust-issues"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1w9C1Oza8HfR93yN43CSLG",
-      externalLink: "https://open.spotify.com/track/1w9C1Oza8HfR93yN43CSLG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Trust Issues",
   trackType: "studio",
   explicit: false,

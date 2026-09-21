@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveClocksLiveInMadrid2008 = {
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2jo5mWVDLwBES6O7Xz58PD",
-      externalLink: "https://open.spotify.com/track/2jo5mWVDLwBES6O7Xz58PD",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Clocks - Live in Madrid, 2008",
   trackType: "live",
   explicit: false,

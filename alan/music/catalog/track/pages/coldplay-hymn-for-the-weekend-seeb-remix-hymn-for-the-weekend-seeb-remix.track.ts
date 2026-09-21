@@ -9,14 +9,6 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
   partOfCollections: ["release/coldplay-hymn-for-the-weekend-seeb-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6s3GEN8wK0OMzzzZbXj0fu",
-      externalLink: "https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Hymn for the Weekend - Seeb Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarsson1Secret = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3SZRfIDIPKmwQ4Q5eELRgu",
-      externalLink: "https://open.spotify.com/track/3SZRfIDIPKmwQ4Q5eELRgu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Secret",
   trackType: "studio",
   explicit: false,

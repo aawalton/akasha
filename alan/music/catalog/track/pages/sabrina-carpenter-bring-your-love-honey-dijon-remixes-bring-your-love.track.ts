@@ -9,14 +9,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLove = {
   partOfCollections: ["release/sabrina-carpenter-bring-your-love-honey-dijon-remixes"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "22iqm6UrX42j3EPZAYYWP3",
-      externalLink: "https://open.spotify.com/track/22iqm6UrX42j3EPZAYYWP3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bring Your Love",
   trackType: "studio",
   explicit: false,

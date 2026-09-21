@@ -9,14 +9,6 @@ export const paulCardallHymnsDayOfRest = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49Sb1o9kyyJLrfaXCzq2jX",
-      externalLink: "https://open.spotify.com/track/49Sb1o9kyyJLrfaXCzq2jX",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Day Of Rest",
   trackType: "studio",
   explicit: false,

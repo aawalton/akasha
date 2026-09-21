@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsHolyMother = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6dDKGfHm1bePhGD5F2tbh3",
-      externalLink: "https://open.spotify.com/track/6dDKGfHm1bePhGD5F2tbh3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Holy Mother",
   trackType: "studio",
   explicit: false,

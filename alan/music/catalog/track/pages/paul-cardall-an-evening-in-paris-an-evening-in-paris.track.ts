@@ -12,14 +12,6 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7l5nLeotZ90aJRlje3zKqp",
-      externalLink: "https://open.spotify.com/track/7l5nLeotZ90aJRlje3zKqp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "An Evening In Paris",
   trackType: "studio",
   explicit: false,

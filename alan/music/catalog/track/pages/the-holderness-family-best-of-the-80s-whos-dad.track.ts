@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sWhosDad = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7nL9bbnt55XuJp2A5VA1QH",
-      externalLink: "https://open.spotify.com/track/7nL9bbnt55XuJp2A5VA1QH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Who's Dad?",
   trackType: "studio",
   explicit: false,

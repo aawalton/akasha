@@ -13,14 +13,6 @@ export const emeiIrresponsibleIrresponsible = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "60SugyNV4FdewZfktXfXte",
-      externalLink: "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Irresponsible",
   trackType: "studio",
   explicit: false,

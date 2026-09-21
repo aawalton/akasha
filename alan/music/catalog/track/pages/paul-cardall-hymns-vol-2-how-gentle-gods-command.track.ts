@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2HowGentleGodsCommand = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3RnjXBwWa0q8D0zLRzEEEq",
-      externalLink: "https://open.spotify.com/track/3RnjXBwWa0q8D0zLRzEEEq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "How Gentle God's Command",
   trackType: "studio",
   explicit: false,

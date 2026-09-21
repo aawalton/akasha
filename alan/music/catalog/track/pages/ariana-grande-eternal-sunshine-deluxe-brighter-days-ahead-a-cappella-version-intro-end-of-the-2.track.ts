@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tsfS4TNh9E20v7pkimwGp",
-      externalLink: "https://open.spotify.com/track/7tsfS4TNh9E20v7pkimwGp",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "intro (end of the world) - extended",
   trackType: "version",
   explicit: true,

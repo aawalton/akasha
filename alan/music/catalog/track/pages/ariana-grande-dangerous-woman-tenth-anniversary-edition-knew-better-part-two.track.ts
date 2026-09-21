@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionKnewBetterPartTwo 
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "789c3DD8obKdAWe1In9Fp5",
-      externalLink: "https://open.spotify.com/track/789c3DD8obKdAWe1In9Fp5",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Knew Better Part Two",
   trackType: "studio",
   explicit: true,

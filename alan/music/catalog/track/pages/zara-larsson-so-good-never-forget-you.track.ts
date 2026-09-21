@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodNeverForgetYou = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6hmhG1b4LEyNuashVvuIAo",
-      externalLink: "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Never Forget You",
   trackType: "studio",
   explicit: false,

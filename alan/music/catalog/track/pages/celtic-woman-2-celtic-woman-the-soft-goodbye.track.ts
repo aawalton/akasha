@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanTheSoftGoodbye = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "30TNRTx436onqMfH6YHiG3",
-      externalLink: "https://open.spotify.com/track/30TNRTx436onqMfH6YHiG3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Soft Goodbye",
   trackType: "studio",
   explicit: false,

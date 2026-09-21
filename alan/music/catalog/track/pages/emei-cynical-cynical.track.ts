@@ -9,14 +9,6 @@ export const emeiCynicalCynical = {
   partOfCollections: ["release/emei-cynical"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DT396Bk4kxXH0Y8ADyyE3",
-      externalLink: "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cynical",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
   partOfCollections: ["release/ariana-grande-side-to-side-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27WOAkJrAYagnYj7Y2tsFw",
-      externalLink: "https://open.spotify.com/track/27WOAkJrAYagnYj7Y2tsFw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Side To Side - Slushii Remix",
   trackType: "remix",
   explicit: false,

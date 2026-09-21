@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlmostLoveAlmostLove = {
   partOfCollections: ["release/sabrina-carpenter-almost-love"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0T4n0oydz4ZHveahETnREG",
-      externalLink: "https://open.spotify.com/track/0T4n0oydz4ZHveahETnREG",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Almost Love",
   trackType: "studio",
   explicit: false,

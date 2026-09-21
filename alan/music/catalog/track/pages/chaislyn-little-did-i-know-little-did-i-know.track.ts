@@ -9,14 +9,6 @@ export const chaislynLittleDidIKnowLittleDidIKnow = {
   partOfCollections: ["release/chaislyn-little-did-i-know"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2VjUQtqRCUcVH6mlfSWkuC",
-      externalLink: "https://open.spotify.com/track/2VjUQtqRCUcVH6mlfSWkuC",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Little Did I Know",
   trackType: "studio",
   explicit: false,

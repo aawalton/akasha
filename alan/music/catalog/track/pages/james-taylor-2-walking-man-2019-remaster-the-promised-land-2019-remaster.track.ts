@@ -9,14 +9,6 @@ export const jamesTaylor2WalkingMan2019RemasterThePromisedLand2019Remaster = {
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7r5oc8knyWUi58G38pAAM4",
-      externalLink: "https://open.spotify.com/track/7r5oc8knyWUi58G38pAAM4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Promised Land - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

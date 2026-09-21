@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarMoreHolinessGiveMe = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69KLHsDdVcTdKcsT7fRGqA",
-      externalLink: "https://open.spotify.com/track/69KLHsDdVcTdKcsT7fRGqA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "More Holiness Give Me",
   trackType: "studio",
   explicit: false,

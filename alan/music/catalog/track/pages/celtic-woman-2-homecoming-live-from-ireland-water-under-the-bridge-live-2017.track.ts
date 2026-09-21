@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandWaterUnderTheBridgeLive2017 = 
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2dfYBpBffYOixFTXDe2J5W",
-      externalLink: "https://open.spotify.com/track/2dfYBpBffYOixFTXDe2J5W",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Water Under The Bridge - Live 2017",
   trackType: "live",
   explicit: false,

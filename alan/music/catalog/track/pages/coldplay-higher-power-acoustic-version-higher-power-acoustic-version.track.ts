@@ -9,14 +9,6 @@ export const coldplayHigherPowerAcousticVersionHigherPowerAcousticVersion = {
   partOfCollections: ["release/coldplay-higher-power-acoustic-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6pEoxM3fluEh1Cbh6ODkWH",
-      externalLink: "https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Higher Power - Acoustic Version",
   trackType: "acoustic",
   explicit: false,

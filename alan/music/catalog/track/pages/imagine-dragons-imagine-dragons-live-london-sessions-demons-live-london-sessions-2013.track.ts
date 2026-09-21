@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsDemonsLiveLondonSessi
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-london-sessions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Jle5IfWWuetgt8fvW2Q69",
-      externalLink: "https://open.spotify.com/track/1Jle5IfWWuetgt8fvW2Q69",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Live London Sessions / 2013",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
   partOfCollections: ["release/billie-eilish-bad-guy-with-justin-bieber"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3yNZ5r3LKfdmjoS3gkhUCT",
-      externalLink: "https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "bad guy (with Justin Bieber)",
   trackType: "studio",
   explicit: false,

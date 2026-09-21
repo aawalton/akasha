@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereFeatBigSean 
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5aKqhRdBmC5Qp2c3oek9ft",
-      externalLink: "https://open.spotify.com/track/5aKqhRdBmC5Qp2c3oek9ft",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Right There (feat. Big Sean)",
   trackType: "studio",
   explicit: false,

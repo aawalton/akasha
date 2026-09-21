@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverMaleFantasy = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ak9GGe6afmi2HbxEjvhIC",
-      externalLink: "https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Male Fantasy",
   trackType: "studio",
   explicit: false,

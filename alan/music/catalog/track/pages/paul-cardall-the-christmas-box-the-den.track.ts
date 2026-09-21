@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxTheDen = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3XD6ZjndAIEUCUcqQkVdHg",
-      externalLink: "https://open.spotify.com/track/3XD6ZjndAIEUCUcqQkVdHg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Den",
   trackType: "studio",
   explicit: false,

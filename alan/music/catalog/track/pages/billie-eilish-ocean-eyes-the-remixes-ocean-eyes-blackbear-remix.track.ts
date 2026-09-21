@@ -9,14 +9,6 @@ export const billieEilishOceanEyesTheRemixesOceanEyesBlackbearRemix = {
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4JuZQeSRYJfLCqBgBIxxrR",
-      externalLink: "https://open.spotify.com/track/4JuZQeSRYJfLCqBgBIxxrR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ocean Eyes - Blackbear Remix",
   trackType: "remix",
   explicit: false,

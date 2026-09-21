@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenTwinkleLittleStar = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zU8NyP59Rrpzlsztw8YXp",
-      externalLink: "https://open.spotify.com/track/0zU8NyP59Rrpzlsztw8YXp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Twinkle Little Star",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   partOfCollections: ["release/coldplay-fix-you-2", "release/coldplay-fix-you"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "29RjYJw9AahhQJaZgdPy2E",
-      externalLink: "https://open.spotify.com/track/29RjYJw9AahhQJaZgdPy2E",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "The World Turned Upside Down",
   trackType: "studio",
   explicit: false,

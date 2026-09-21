@@ -9,14 +9,6 @@ export const zaraLarssonVenusYouLoveWhoYouLove = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bWHOxTJpHL6fyATpYFQXl",
-      externalLink: "https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Love Who You Love",
   trackType: "studio",
   explicit: false,

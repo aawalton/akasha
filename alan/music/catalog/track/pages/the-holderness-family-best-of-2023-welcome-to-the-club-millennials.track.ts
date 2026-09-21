@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023WelcomeToTheClubMillennials = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1A40m9XJuZQVw0f2OYRbfI",
-      externalLink: "https://open.spotify.com/track/1A40m9XJuZQVw0f2OYRbfI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Welcome to the Club, Millennials",
   trackType: "studio",
   explicit: false,

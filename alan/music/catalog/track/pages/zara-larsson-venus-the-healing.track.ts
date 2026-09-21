@@ -9,14 +9,6 @@ export const zaraLarssonVenusTheHealing = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7pDWvRIbO3fDbLMpFjuEtP",
-      externalLink: "https://open.spotify.com/track/7pDWvRIbO3fDbLMpFjuEtP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Healing",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresParadiseLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "314gi4w3RdZxlocdWw0Khr",
-      externalLink: "https://open.spotify.com/track/314gi4w3RdZxlocdWw0Khr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Paradise - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

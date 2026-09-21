@@ -9,14 +9,6 @@ export const celticWoman2LullabyStayAwake = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46jILmWuEAxwgppyQAS1tD",
-      externalLink: "https://open.spotify.com/track/46jILmWuEAxwgppyQAS1tD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Stay Awake",
   trackType: "studio",
   explicit: false,

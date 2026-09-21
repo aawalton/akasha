@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendAlreadyOver = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5QhJorJmjqYfETfqgBtGg3",
-      externalLink: "https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Already Over",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChillCollectionOurLove = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WXm5VYbzc3kaoo2jlSRfP",
-      externalLink: "https://open.spotify.com/track/0WXm5VYbzc3kaoo2jlSRfP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Love",
   trackType: "studio",
   explicit: false,

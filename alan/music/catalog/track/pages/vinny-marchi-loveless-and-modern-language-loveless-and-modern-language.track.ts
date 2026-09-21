@@ -9,14 +9,6 @@ export const vinnyMarchiLovelessAndModernLanguageLovelessAndModernLanguage = {
   partOfCollections: ["release/vinny-marchi-loveless-and-modern-language"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Uvh2rj7jS5Om4vaJNhtfs",
-      externalLink: "https://open.spotify.com/track/1Uvh2rj7jS5Om4vaJNhtfs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Loveless and Modern Language",
   trackType: "studio",
   explicit: false,

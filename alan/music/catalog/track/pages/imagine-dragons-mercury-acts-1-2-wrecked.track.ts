@@ -12,14 +12,6 @@ export const imagineDragonsMercuryActs12Wrecked = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TEftSkmWdTm1EpThnwqh6",
-      externalLink: "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Wrecked",
   trackType: "studio",
   explicit: false,

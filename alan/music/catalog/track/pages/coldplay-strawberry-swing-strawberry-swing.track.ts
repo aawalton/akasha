@@ -13,14 +13,6 @@ export const coldplayStrawberrySwingStrawberrySwing = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06inBM2SUiyg3nGDC2KvUG",
-      externalLink: "https://open.spotify.com/track/06inBM2SUiyg3nGDC2KvUG",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Strawberry Swing",
   trackType: "studio",
   explicit: false,

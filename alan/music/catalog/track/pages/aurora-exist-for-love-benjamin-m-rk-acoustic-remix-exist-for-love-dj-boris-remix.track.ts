@@ -12,14 +12,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveDjBorisRemix 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4DsMaxYQNesiF9Ol38SxxH",
-      externalLink: "https://open.spotify.com/track/4DsMaxYQNesiF9Ol38SxxH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exist for Love - DJ Boris Remix",
   trackType: "remix",
   explicit: false,

@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCall = 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45ueDihg42SDdpYM8IQUHq",
-      externalLink: "https://open.spotify.com/track/45ueDihg42SDdpYM8IQUHq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Call",
   trackType: "studio",
   explicit: false,

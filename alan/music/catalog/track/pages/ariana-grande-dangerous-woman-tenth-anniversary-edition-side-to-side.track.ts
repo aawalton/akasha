@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionSideToSide = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7maih5X07qAqHxiPtN2mo3",
-      externalLink: "https://open.spotify.com/track/7maih5X07qAqHxiPtN2mo3",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Side To Side",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const auroraComeCloserMyBaby = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3gWbOMDM3wfkBBdsiTMdiB",
-      externalLink: "https://open.spotify.com/track/3gWbOMDM3wfkBBdsiTMdiB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "MY BABY",
   trackType: "studio",
   explicit: false,

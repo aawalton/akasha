@@ -9,14 +9,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdThingsIWishYouSaid = {
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2t2fnYja6b2pUizMungIo0",
-      externalLink: "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "things i wish you said",
   trackType: "studio",
   explicit: true,

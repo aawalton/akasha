@@ -9,14 +9,6 @@ export const coldplayMusicOfTheSpheresUntitled3 = {
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3oTYv0yShT4sjuPncoUXfK",
-      externalLink: "https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "❤️",
   trackType: "studio",
   explicit: false,

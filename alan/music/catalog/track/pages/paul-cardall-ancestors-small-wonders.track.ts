@@ -9,14 +9,6 @@ export const paulCardallAncestorsSmallWonders = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7d6deS3xWOiAbLjJO1H2Rn",
-      externalLink: "https://open.spotify.com/track/7d6deS3xWOiAbLjJO1H2Rn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Small Wonders",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisJaiWolfRem
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2oF42D2udxtL7Kr6WFFlGb",
-      externalLink: "https://open.spotify.com/track/2oF42D2udxtL7Kr6WFFlGb",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This - Jai Wolf Remix",
   trackType: "remix",
   explicit: false,

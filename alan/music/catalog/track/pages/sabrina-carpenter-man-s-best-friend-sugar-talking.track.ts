@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendSugarTalking = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5B3GZOZYXNzWpUXQC42hxZ",
-      externalLink: "https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sugar Talking",
   trackType: "studio",
   explicit: true,

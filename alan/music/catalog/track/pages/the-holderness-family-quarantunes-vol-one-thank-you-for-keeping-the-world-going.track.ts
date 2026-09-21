@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneThankYouForKeepingTheWorldGoing
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "60V2BSYhcR0PEUneflJ0aX",
-      externalLink: "https://open.spotify.com/track/60V2BSYhcR0PEUneflJ0aX",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Thank You for Keeping the World Going",
   trackType: "studio",
   explicit: false,

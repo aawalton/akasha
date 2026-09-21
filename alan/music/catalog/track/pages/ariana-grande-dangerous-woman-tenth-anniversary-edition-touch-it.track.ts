@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionTouchIt = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uhqt6wYnJ7uaevzHGy8kY",
-      externalLink: "https://open.spotify.com/track/6uhqt6wYnJ7uaevzHGy8kY",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Touch It",
   trackType: "studio",
   explicit: false,

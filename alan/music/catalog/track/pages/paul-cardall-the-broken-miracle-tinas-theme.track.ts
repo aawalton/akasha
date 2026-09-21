@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6mWeUh9FaEEXy6rWaLYQh2",
-      externalLink: "https://open.spotify.com/track/6mWeUh9FaEEXy6rWaLYQh2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Tina’s Theme",
   trackType: "studio",
   explicit: false,

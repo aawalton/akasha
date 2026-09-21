@@ -9,14 +9,6 @@ export const sabrinaCarpenterWhyAcousticWhyAcoustic = {
   partOfCollections: ["release/sabrina-carpenter-why-acoustic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XdU66WYiYmqe1mBPepVAQ",
-      externalLink: "https://open.spotify.com/track/5XdU66WYiYmqe1mBPepVAQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Why - Acoustic",
   trackType: "acoustic",
   explicit: false,

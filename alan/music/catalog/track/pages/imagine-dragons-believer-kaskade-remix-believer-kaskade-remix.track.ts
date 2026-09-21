@@ -9,14 +9,6 @@ export const imagineDragonsBelieverKaskadeRemixBelieverKaskadeRemix = {
   partOfCollections: ["release/imagine-dragons-believer-kaskade-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6aiHF2IbJr6lG4Vu9em8KF",
-      externalLink: "https://open.spotify.com/track/6aiHF2IbJr6lG4Vu9em8KF",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Believer - Kaskade Remix",
   trackType: "remix",
   explicit: false,

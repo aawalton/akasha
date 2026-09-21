@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunBundleMidnightSunLive = {
   partOfCollections: ["release/zara-larsson-midnight-sun-bundle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1IgRVcDdvpiqlwJpmBp7Ku",
-      externalLink: "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - Live",
   trackType: "live",
   explicit: false,

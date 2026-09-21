@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassUpErMei = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1N7oGtGMR3GzIN1WpcS62z",
-      externalLink: "https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Up Er Mei",
   trackType: "studio",
   explicit: false,

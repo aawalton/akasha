@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxJoyToTheWorld = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ECnCJjRWAfXZrRulSo4vk",
-      externalLink: "https://open.spotify.com/track/6ECnCJjRWAfXZrRulSo4vk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Joy To The World",
   trackType: "studio",
   explicit: false,

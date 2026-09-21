@@ -9,14 +9,6 @@ export const celticWoman2BelieveSongsFromTheHeartWalkingTheNightTheWorldFallsAwa
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1UlMme7g4GkhNWXem0oV5y",
-      externalLink: "https://open.spotify.com/track/1UlMme7g4GkhNWXem0oV5y",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Songs From The Heart: Walking The Night/The World Falls Away",
   trackType: "studio",
   explicit: false,

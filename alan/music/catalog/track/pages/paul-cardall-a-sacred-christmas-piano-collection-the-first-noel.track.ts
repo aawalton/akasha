@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionTheFirstNoel = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4kGRP2a9RzSpbX5E2SkSo8",
-      externalLink: "https://open.spotify.com/track/4kGRP2a9RzSpbX5E2SkSo8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The First Noel",
   trackType: "studio",
   explicit: false,

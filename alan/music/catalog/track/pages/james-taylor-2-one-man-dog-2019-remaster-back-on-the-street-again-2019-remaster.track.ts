@@ -9,14 +9,6 @@ export const jamesTaylor2OneManDog2019RemasterBackOnTheStreetAgain2019Remaster =
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7ryq3Jl6DeIicF0ohRpIjm",
-      externalLink: "https://open.spotify.com/track/7ryq3Jl6DeIicF0ohRpIjm",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Back on the Street Again - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

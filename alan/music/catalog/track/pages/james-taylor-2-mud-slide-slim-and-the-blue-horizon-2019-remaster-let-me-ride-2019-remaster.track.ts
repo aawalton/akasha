@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLetMeRide2019R
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "095LP9En9jWNJ9ETwUKnOP",
-      externalLink: "https://open.spotify.com/track/095LP9En9jWNJ9ETwUKnOP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Let Me Ride - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

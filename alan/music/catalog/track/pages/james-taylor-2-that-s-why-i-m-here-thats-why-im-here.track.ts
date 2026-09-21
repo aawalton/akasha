@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereThatsWhyImHere = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1MyJzIJS8xpHgO9wYKcj86",
-      externalLink: "https://open.spotify.com/track/1MyJzIJS8xpHgO9wYKcj86",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "That's Why I'm Here",
   trackType: "studio",
   explicit: false,

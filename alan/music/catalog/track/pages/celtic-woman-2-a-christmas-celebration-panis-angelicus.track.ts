@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationPanisAngelicus = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3MFwDxDcIe9iR6iftUqvel",
-      externalLink: "https://open.spotify.com/track/3MFwDxDcIe9iR6iftUqvel",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Panis Angelicus",
   trackType: "studio",
   explicit: false,

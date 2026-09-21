@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenueLiveFro
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ucNmUIwlCSNjla3a1qpfL",
-      externalLink: "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Honeymoon Avenue - Live from London",
   trackType: "live",
   explicit: false,

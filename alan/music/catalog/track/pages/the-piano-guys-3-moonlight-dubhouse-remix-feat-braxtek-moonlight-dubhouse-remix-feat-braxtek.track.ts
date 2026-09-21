@@ -9,14 +9,6 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtekMoonlightDubhouseRemi
   partOfCollections: ["release/the-piano-guys-3-moonlight-dubhouse-remix-feat-braxtek"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xb0cELIwMPkzhxBmeBTjs",
-      externalLink: "https://open.spotify.com/track/1xb0cELIwMPkzhxBmeBTjs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Moonlight (Dubhouse Remix) (feat. Braxtek)",
   trackType: "remix",
   explicit: false,

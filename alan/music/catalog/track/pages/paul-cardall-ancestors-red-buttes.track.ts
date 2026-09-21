@@ -9,14 +9,6 @@ export const paulCardallAncestorsRedButtes = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XN97BWKDHKmcee14vToq7",
-      externalLink: "https://open.spotify.com/track/4XN97BWKDHKmcee14vToq7",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Red Buttes",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsIllGoWhereYouWantMeToGod = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7vP5JAQMkFPle7Wz0geZZm",
-      externalLink: "https://open.spotify.com/track/7vP5JAQMkFPle7Wz0geZZm",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I'll Go Where You Want Me to God",
   trackType: "studio",
   explicit: false,

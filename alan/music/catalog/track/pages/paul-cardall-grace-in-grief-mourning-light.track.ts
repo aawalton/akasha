@@ -9,14 +9,6 @@ export const paulCardallGraceInGriefMourningLight = {
   partOfCollections: ["release/paul-cardall-grace-in-grief", "release/paul-cardall-mourning-light"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "072NDoeUR97KLlyuMY0z0S",
-      externalLink: "https://open.spotify.com/track/072NDoeUR97KLlyuMY0z0S",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mourning Light",
   trackType: "studio",
   explicit: false,

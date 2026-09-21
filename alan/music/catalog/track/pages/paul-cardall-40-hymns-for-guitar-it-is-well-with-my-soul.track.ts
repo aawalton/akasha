@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarItIsWellWithMySoul = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5WK3XBdYZRiWxW6gW8jjoi",
-      externalLink: "https://open.spotify.com/track/5WK3XBdYZRiWxW6gW8jjoi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "It Is Well with My Soul",
   trackType: "studio",
   explicit: false,

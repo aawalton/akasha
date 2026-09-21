@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenEveningFalls = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4QPEDogXbGpy9wcFs4cJca",
-      externalLink: "https://open.spotify.com/track/4QPEDogXbGpy9wcFs4cJca",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Evening Falls",
   trackType: "studio",
   explicit: false,

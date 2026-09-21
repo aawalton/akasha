@@ -9,14 +9,6 @@ export const auroraIntoTheUnknownIntoTheUnknown = {
   partOfCollections: ["release/aurora-into-the-unknown"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0O2szuaez7BKxS8SH7RkV4",
-      externalLink: "https://open.spotify.com/track/0O2szuaez7BKxS8SH7RkV4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Into the Unknown",
   trackType: "studio",
   explicit: false,

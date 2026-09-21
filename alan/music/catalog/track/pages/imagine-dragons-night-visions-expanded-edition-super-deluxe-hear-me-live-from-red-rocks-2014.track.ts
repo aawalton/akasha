@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeLiveFromR
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7btS5JmtgPOE1YmhmEc9bE",
-      externalLink: "https://open.spotify.com/track/7btS5JmtgPOE1YmhmEc9bE",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hear Me - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

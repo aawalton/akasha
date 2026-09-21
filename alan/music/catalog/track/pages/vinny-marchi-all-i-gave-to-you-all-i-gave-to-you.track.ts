@@ -9,14 +9,6 @@ export const vinnyMarchiAllIGaveToYouAllIGaveToYou = {
   partOfCollections: ["release/vinny-marchi-all-i-gave-to-you"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3nBq6cQwrsAiSGaR4b5drk",
-      externalLink: "https://open.spotify.com/track/3nBq6cQwrsAiSGaR4b5drk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "all i gave to you",
   trackType: "studio",
   explicit: true,

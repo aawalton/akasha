@@ -9,14 +9,6 @@ export const thePianoGuysSerenityTheCelloSong = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0y1z7SkwuZgeg6Xh9qy0uZ",
-      externalLink: "https://open.spotify.com/track/0y1z7SkwuZgeg6Xh9qy0uZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Cello Song",
   trackType: "studio",
   explicit: false,

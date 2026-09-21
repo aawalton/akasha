@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsIGetCarriedAwayD
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4I3iKBoPcd9mm9ye1BT97L",
-      externalLink: "https://open.spotify.com/track/4I3iKBoPcd9mm9ye1BT97L",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Get Carried Away - Demo",
   trackType: "demo",
   explicit: false,

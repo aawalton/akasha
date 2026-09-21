@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleAdventPrayer = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4933XUp4E6m2YMFUw5POnE",
-      externalLink: "https://open.spotify.com/track/4933XUp4E6m2YMFUw5POnE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Advent Prayer",
   trackType: "studio",
   explicit: false,

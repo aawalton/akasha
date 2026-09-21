@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlienAlien = {
   partOfCollections: ["release/sabrina-carpenter-alien"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0RUTnY2B3s05fZuCHsNaUP",
-      externalLink: "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Alien",
   trackType: "studio",
   explicit: false,

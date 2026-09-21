@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2CantHelpFallingIn
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2wkCZfGvdLLjPg1XG1KFJ1",
-      externalLink: "https://open.spotify.com/track/2wkCZfGvdLLjPg1XG1KFJ1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Can't Help Falling In Love",
   trackType: "studio",
   explicit: false,

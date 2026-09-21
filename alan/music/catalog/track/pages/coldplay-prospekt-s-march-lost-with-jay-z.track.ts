@@ -12,14 +12,6 @@ export const coldplayProspektSMarchLostWithJayZ = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GAsLXwdWOU0fOHY9rJVc8",
-      externalLink: "https://open.spotify.com/track/1GAsLXwdWOU0fOHY9rJVc8",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Lost+ (with Jay-Z)",
   trackType: "studio",
   explicit: true,

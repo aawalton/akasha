@@ -9,14 +9,6 @@ export const auroraWhatHappenedToTheHeartDeluxeTheWeightOfMissing = {
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1LilgVPWoXNIjBsE59UQ8L",
-      externalLink: "https://open.spotify.com/track/1LilgVPWoXNIjBsE59UQ8L",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Weight Of Missing",
   trackType: "studio",
   explicit: false,

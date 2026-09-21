@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022ThisIsACoat = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2cYnyCnlMwtNGPGHk1GaKH",
-      externalLink: "https://open.spotify.com/track/2cYnyCnlMwtNGPGHk1GaKH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "This Is A Coat",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2CelebrationAveMaria2011Version = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ZhngHh9rNpDrawcEFLGLB",
-      externalLink: "https://open.spotify.com/track/4ZhngHh9rNpDrawcEFLGLB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ave Maria - 2011 Version",
   trackType: "version",
   explicit: false,

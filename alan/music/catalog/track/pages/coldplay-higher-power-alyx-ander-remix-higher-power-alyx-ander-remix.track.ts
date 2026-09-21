@@ -9,14 +9,6 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
   partOfCollections: ["release/coldplay-higher-power-alyx-ander-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2NAmYjYKmqYQzLxFtszJ9Z",
-      externalLink: "https://open.spotify.com/track/2NAmYjYKmqYQzLxFtszJ9Z",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Higher Power - Alyx Ander Remix",
   trackType: "remix",
   explicit: false,

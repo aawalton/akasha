@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarLeadKindlyLight = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2kfr5YNeF6mXLkJjhgj83N",
-      externalLink: "https://open.spotify.com/track/2kfr5YNeF6mXLkJjhgj83N",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lead, Kindly Light",
   trackType: "studio",
   explicit: false,

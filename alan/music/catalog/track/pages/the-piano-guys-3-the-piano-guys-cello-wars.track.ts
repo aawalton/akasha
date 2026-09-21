@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysCelloWars = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5D6L6znBkFeIixyoOpWmH6",
-      externalLink: "https://open.spotify.com/track/5D6L6znBkFeIixyoOpWmH6",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Cello Wars",
   trackType: "studio",
   explicit: false,

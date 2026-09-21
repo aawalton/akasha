@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFeatDavidGuettaNiklasDeeRemix 
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "02RcqmX7SdaSfFGx60yzjq",
-      externalLink: "https://open.spotify.com/track/02RcqmX7SdaSfFGx60yzjq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love (feat. David Guetta) - Niklas Dee Remix",
   trackType: "remix",
   explicit: false,

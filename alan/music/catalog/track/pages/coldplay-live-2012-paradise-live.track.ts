@@ -9,14 +9,6 @@ export const coldplayLive2012ParadiseLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1lWLwMV3peo5fJp5hHRCHS",
-      externalLink: "https://open.spotify.com/track/1lWLwMV3peo5fJp5hHRCHS",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Paradise - Live",
   trackType: "live",
   explicit: false,

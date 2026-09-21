@@ -9,14 +9,6 @@ export const billieEilishBoredBored = {
   partOfCollections: ["release/billie-eilish-bored"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "04sN26COy28wTXYj3dMoiZ",
-      externalLink: "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bored",
   trackType: "studio",
   explicit: false,

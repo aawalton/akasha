@@ -9,14 +9,6 @@ export const paulCardallSacredPianoAmazingGrace = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2LIA0gUVq1m1B6JWoHwxnx",
-      externalLink: "https://open.spotify.com/track/2LIA0gUVq1m1B6JWoHwxnx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,

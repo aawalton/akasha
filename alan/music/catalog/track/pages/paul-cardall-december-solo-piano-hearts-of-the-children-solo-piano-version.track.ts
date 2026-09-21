@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoHeartsOfTheChildrenSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2FZvToiIFH5L83s6dqkWDI",
-      externalLink: "https://open.spotify.com/track/2FZvToiIFH5L83s6dqkWDI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hearts of The Children - Solo Piano Version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallANewCreationBeholdTheLamb = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2eoKgh60xFf7P5lIrjKgmd",
-      externalLink: "https://open.spotify.com/track/2eoKgh60xFf7P5lIrjKgmd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Behold, The Lamb",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePetalHateThatIMadeYouLoveMe = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3iy2QuCtCzpWnR6tia39AB",
-      externalLink: "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "hate that i made you love me",
   trackType: "studio",
   explicit: false,

@@ -11,14 +11,6 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "78igyKiVngWy0bT2elK8aN",
-      externalLink: "https://open.spotify.com/track/78igyKiVngWy0bT2elK8aN",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "That’s Not How This Works (feat. Dan + Shay)",
   trackType: "studio",
   explicit: false,

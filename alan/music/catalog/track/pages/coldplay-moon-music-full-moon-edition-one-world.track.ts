@@ -12,14 +12,6 @@ export const coldplayMoonMusicFullMoonEditionOneWorld = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "66KIWk0JIZDOAfsYDCosVP",
-      externalLink: "https://open.spotify.com/track/66KIWk0JIZDOAfsYDCosVP",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "ONE WORLD",
   trackType: "studio",
   explicit: false,

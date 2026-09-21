@@ -9,14 +9,6 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uJwPeBGb3swi85TSr9iIz",
-      externalLink: "https://open.spotify.com/track/6uJwPeBGb3swi85TSr9iIz",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Miracles (Someone Special)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayKaleidoscopeEpAllICanThinkAboutIsYou = {
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6V6goat94tTJOWXXKZstNX",
-      externalLink: "https://open.spotify.com/track/6V6goat94tTJOWXXKZstNX",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "All I Can Think About Is You",
   trackType: "studio",
   explicit: false,

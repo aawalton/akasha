@@ -9,14 +9,6 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
   partOfCollections: ["release/coldplay-don-t-panic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YdUe6oSvMydx3ph6ZPbPY",
-      externalLink: "https://open.spotify.com/track/3YdUe6oSvMydx3ph6ZPbPY",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "You Only Live Twice - Live from Norway",
   trackType: "live",
   explicit: false,

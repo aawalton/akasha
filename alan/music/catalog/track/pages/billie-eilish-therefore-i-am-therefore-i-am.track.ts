@@ -9,14 +9,6 @@ export const billieEilishThereforeIAmThereforeIAm = {
   partOfCollections: ["release/billie-eilish-therefore-i-am"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "54bFM56PmE4YLRnqpW6Tha",
-      externalLink: "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Therefore I Am",
   trackType: "studio",
   explicit: false,

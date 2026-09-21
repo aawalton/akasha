@@ -9,14 +9,6 @@ export const vinnyMarchiHoodieYouStoleHoodieYouStole = {
   partOfCollections: ["release/vinny-marchi-hoodie-you-stole"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "30hutwjA6GTQYmXKMVtzWI",
-      externalLink: "https://open.spotify.com/track/30hutwjA6GTQYmXKMVtzWI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Hoodie You Stole",
   trackType: "studio",
   explicit: false,

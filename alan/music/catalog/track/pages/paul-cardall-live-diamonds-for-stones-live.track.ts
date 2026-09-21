@@ -9,14 +9,6 @@ export const paulCardallLiveDiamondsForStonesLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15jegJyQcjozdMXvqBsseV",
-      externalLink: "https://open.spotify.com/track/15jegJyQcjozdMXvqBsseV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Diamonds For Stones - Live",
   trackType: "live",
   explicit: false,

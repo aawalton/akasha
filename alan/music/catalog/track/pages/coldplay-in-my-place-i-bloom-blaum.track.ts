@@ -9,14 +9,6 @@ export const coldplayInMyPlaceIBloomBlaum = {
   partOfCollections: ["release/coldplay-in-my-place"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6MCvGN1ZTLa3PZkGnLWccm",
-      externalLink: "https://open.spotify.com/track/6MCvGN1ZTLa3PZkGnLWccm",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "I Bloom Blaum",
   trackType: "studio",
   explicit: false,

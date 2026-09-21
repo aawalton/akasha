@@ -9,14 +9,6 @@ export const imagineDragonsStarsWillAlignStarsWillAlign = {
   partOfCollections: ["release/imagine-dragons-stars-will-align"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5REMa10O4aA2mLtYyflWxs",
-      externalLink: "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Stars Will Align",
   trackType: "studio",
   explicit: false,

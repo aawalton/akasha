@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysINeedTheeEveryHour = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2dydT7x55vYcYauQgEnrPo",
-      externalLink: "https://open.spotify.com/track/2dydT7x55vYcYauQgEnrPo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Need Thee Every Hour",
   trackType: "studio",
   explicit: false,

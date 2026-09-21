@@ -9,14 +9,6 @@ export const thePianoGuys310LoseYouToLoveMe = {
   partOfCollections: ["release/the-piano-guys-3-10"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3o1FeZiMPHD8E0LwLKLh3d",
-      externalLink: "https://open.spotify.com/track/3o1FeZiMPHD8E0LwLKLh3d",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lose You To Love Me",
   trackType: "studio",
   explicit: false,

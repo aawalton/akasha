@@ -9,14 +9,6 @@ export const paulCardallPassingTimeTheWomanInTheSnow = {
   partOfCollections: ["release/paul-cardall-passing-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "05pIB1M8VNrVW8rUZroN6B",
-      externalLink: "https://open.spotify.com/track/05pIB1M8VNrVW8rUZroN6B",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Woman in the Snow",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64zMg4hZVgyIRuZimF7olj",
-      externalLink: "https://open.spotify.com/track/64zMg4hZVgyIRuZimF7olj",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Angels from the Realms of Glory (feat. David Archuleta & Peter Hollens)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2AsaSFancyRoxySNewShoesAsasFancyRoxysNewShoes = {
   partOfCollections: ["release/celtic-woman-2-asa-s-fancy-roxy-s-new-shoes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4tNBSmMW7t9AfmtfLF3hel",
-      externalLink: "https://open.spotify.com/track/4tNBSmMW7t9AfmtfLF3hel",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Asa’s Fancy/Roxy’s New Shoes",
   trackType: "studio",
   explicit: false,

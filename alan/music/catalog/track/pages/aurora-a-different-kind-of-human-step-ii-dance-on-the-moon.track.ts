@@ -12,14 +12,6 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4isOzW5MBwEI7RenDclFBx",
-      externalLink: "https://open.spotify.com/track/4isOzW5MBwEI7RenDclFBx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dance On The Moon",
   trackType: "studio",
   explicit: false,

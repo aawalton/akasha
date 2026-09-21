@@ -9,14 +9,6 @@ export const coldplayGhostStoriesO = {
   partOfCollections: ["release/coldplay-ghost-stories"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "77yuzxCS3csrgTPSW0pvyk",
-      externalLink: "https://open.spotify.com/track/77yuzxCS3csrgTPSW0pvyk",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "O",
   trackType: "studio",
   explicit: false,

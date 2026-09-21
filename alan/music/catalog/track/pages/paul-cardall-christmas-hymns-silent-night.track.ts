@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsSilentNight = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ce32lzE9vBNyXkdmsX17x",
-      externalLink: "https://open.spotify.com/track/6ce32lzE9vBNyXkdmsX17x",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Silent Night",
   trackType: "studio",
   explicit: false,

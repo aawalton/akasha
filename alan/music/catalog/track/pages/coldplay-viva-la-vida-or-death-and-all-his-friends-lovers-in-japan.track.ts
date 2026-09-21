@@ -12,14 +12,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLoversInJapan = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qPGi9p8VqcizfdgWxtmLt",
-      externalLink: "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Lovers in Japan",
   trackType: "studio",
   explicit: false,

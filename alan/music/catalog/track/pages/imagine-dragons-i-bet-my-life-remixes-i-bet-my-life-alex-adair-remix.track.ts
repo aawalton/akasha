@@ -9,14 +9,6 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeAlexAdairRemix = {
   partOfCollections: ["release/imagine-dragons-i-bet-my-life-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bnEhDlFFXeCyyYhbRszW7",
-      externalLink: "https://open.spotify.com/track/3bnEhDlFFXeCyyYhbRszW7",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life - Alex Adair Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
   partOfCollections: ["release/aurora-cure-for-me-feat-silvana-estrada-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6PzoioDNJ88Vpgd9ZmyOVG",
-      externalLink: "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Cure For Me (feat. Silvana Estrada) - Live",
   trackType: "live",
   explicit: false,

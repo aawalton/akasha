@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionIntro = {
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1djLdPkMQCbF1iENkeqXJG",
-      externalLink: "https://open.spotify.com/track/1djLdPkMQCbF1iENkeqXJG",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Intro",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveGoodnightNGoLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ao5xnzWNAt0dZFF6v4Sct",
-      externalLink: "https://open.spotify.com/track/0ao5xnzWNAt0dZFF6v4Sct",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "goodnight n go - live",
   trackType: "live",
   explicit: false,

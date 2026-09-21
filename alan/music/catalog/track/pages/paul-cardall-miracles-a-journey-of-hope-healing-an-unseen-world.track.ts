@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAnUnseenWorld = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7vgTwc6QF4UvWMv5yGyOWk",
-      externalLink: "https://open.spotify.com/track/7vgTwc6QF4UvWMv5yGyOWk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "An Unseen World",
   trackType: "studio",
   explicit: false,

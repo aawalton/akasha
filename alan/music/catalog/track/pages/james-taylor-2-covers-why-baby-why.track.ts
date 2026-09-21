@@ -9,14 +9,6 @@ export const jamesTaylor2CoversWhyBabyWhy = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4D4nerNiBRsxjVyNdzWJcX",
-      externalLink: "https://open.spotify.com/track/4D4nerNiBRsxjVyNdzWJcX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Why Baby Why",
   trackType: "studio",
   explicit: false,

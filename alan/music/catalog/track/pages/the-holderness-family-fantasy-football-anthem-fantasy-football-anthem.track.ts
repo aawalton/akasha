@@ -9,14 +9,6 @@ export const theHoldernessFamilyFantasyFootballAnthemFantasyFootballAnthem = {
   partOfCollections: ["release/the-holderness-family-fantasy-football-anthem"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Vdym0RxtEBXzSgLeGB6fV",
-      externalLink: "https://open.spotify.com/track/3Vdym0RxtEBXzSgLeGB6fV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fantasy Football Anthem",
   trackType: "studio",
   explicit: false,

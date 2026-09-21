@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMoGhileMea
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nDYhkqz66SaPSZbAUwxbP",
-      externalLink: "https://open.spotify.com/track/2nDYhkqz66SaPSZbAUwxbP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear",
   trackType: "studio",
   explicit: false,

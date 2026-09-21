@@ -9,14 +9,6 @@ export const celticWoman2ChristmasCardsFromIrelandSilentNight2022Version = {
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wL7uezzWgMfz9MfJ0nUNz",
-      externalLink: "https://open.spotify.com/track/7wL7uezzWgMfz9MfJ0nUNz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Silent Night - 2022 Version",
   trackType: "version",
   explicit: false,

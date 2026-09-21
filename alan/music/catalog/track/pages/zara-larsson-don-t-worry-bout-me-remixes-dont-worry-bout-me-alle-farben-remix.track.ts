@@ -9,14 +9,6 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeAlleFarbenRemix = {
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0SDgPPSjRPdGD3hyrCTG2S",
-      externalLink: "https://open.spotify.com/track/0SDgPPSjRPdGD3hyrCTG2S",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Worry Bout Me - Alle Farben Remix",
   trackType: "remix",
   explicit: false,

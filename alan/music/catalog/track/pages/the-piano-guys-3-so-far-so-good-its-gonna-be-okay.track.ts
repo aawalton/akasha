@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0haid7kVyi8UKd5b5ElSOU",
-      externalLink: "https://open.spotify.com/track/0haid7kVyi8UKd5b5ElSOU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "(It's Gonna Be) Okay",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
   partOfCollections: ["release/coldplay-up-up-freedo-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2KIgC0WnwwcDPgv8ClxXfi",
-      externalLink: "https://open.spotify.com/track/2KIgC0WnwwcDPgv8ClxXfi",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Up&Up - Freedo Remix",
   trackType: "remix",
   explicit: false,

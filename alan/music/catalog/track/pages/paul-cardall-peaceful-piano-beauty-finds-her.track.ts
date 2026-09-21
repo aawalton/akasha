@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoBeautyFindsHer = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bx1wjFHMmNr7oR3LX7YzV",
-      externalLink: "https://open.spotify.com/track/3bx1wjFHMmNr7oR3LX7YzV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Beauty Finds Her",
   trackType: "studio",
   explicit: false,

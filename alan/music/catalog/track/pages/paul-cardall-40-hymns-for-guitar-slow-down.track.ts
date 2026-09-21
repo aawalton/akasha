@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarSlowDown = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0xymtjLptn73r0GkPdJWzc",
-      externalLink: "https://open.spotify.com/track/0xymtjLptn73r0GkPdJWzc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Slow Down",
   trackType: "studio",
   explicit: false,

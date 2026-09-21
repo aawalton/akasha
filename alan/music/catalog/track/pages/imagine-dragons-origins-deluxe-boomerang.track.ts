@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeBoomerang = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2B1fuWoWaYnCXbjYp1gXg5",
-      externalLink: "https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Boomerang",
   trackType: "studio",
   explicit: false,

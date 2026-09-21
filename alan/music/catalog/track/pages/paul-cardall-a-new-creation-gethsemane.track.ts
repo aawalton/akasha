@@ -9,14 +9,6 @@ export const paulCardallANewCreationGethsemane = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "067fdHLUlMJYn9gav9gExG",
-      externalLink: "https://open.spotify.com/track/067fdHLUlMJYn9gav9gExG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gethsemane",
   trackType: "studio",
   explicit: false,

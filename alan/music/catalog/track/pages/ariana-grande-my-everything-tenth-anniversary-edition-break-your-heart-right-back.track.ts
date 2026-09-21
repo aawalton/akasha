@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBreakYourHeartRightB
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "50TJobiTvboJbFoSykLsYF",
-      externalLink: "https://open.spotify.com/track/50TJobiTvboJbFoSykLsYF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Break Your Heart Right Back",
   trackType: "studio",
   explicit: false,

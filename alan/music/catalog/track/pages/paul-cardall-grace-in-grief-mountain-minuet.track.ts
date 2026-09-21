@@ -9,14 +9,6 @@ export const paulCardallGraceInGriefMountainMinuet = {
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3rZ6aWM8fHbt92NeWyckS7",
-      externalLink: "https://open.spotify.com/track/3rZ6aWM8fHbt92NeWyckS7",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mountain Minuet",
   trackType: "studio",
   explicit: false,

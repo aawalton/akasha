@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetNearerMyGodToThee = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2oOypsoyBLUZbgnf6OdN9B",
-      externalLink: "https://open.spotify.com/track/2oOypsoyBLUZbgnf6OdN9B",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Nearer My God to Thee",
   trackType: "studio",
   explicit: false,

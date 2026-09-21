@@ -17,14 +17,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionS
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "04jvNAcBr8bRhex4Ek0305",
-      externalLink: "https://open.spotify.com/track/04jvNAcBr8bRhex4Ek0305",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "supernatural",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsMountainMinuetUnbound = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ClxRjdZVeVR40D2HR1a7L",
-      externalLink: "https://open.spotify.com/track/4ClxRjdZVeVR40D2HR1a7L",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mountain Minuet Unbound",
   trackType: "studio",
   explicit: false,

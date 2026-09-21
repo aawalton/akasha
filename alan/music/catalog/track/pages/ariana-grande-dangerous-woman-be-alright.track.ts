@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanBeAlright = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1MkFj1ThZZxjYMNkczx9mk",
-      externalLink: "https://open.spotify.com/track/1MkFj1ThZZxjYMNkczx9mk",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Be Alright",
   trackType: "studio",
   explicit: false,

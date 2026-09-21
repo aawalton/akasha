@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheLightBeyond = {
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2sKihqEADHU38Eu3LQFqAR",
-      externalLink: "https://open.spotify.com/track/2sKihqEADHU38Eu3LQFqAR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Light Beyond",
   trackType: "studio",
   explicit: false,

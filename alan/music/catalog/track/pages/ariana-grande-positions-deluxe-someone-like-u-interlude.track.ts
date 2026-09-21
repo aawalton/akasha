@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeSomeoneLikeUInterlude = {
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Os1431WclqyKxWqMzRESE",
-      externalLink: "https://open.spotify.com/track/3Os1431WclqyKxWqMzRESE",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "someone like u - interlude",
   trackType: "studio",
   explicit: false,

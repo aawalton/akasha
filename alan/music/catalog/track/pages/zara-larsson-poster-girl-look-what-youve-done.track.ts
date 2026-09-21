@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlLookWhatYouveDone = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5dczvSmOUEE8xFDpJqPeg0",
-      externalLink: "https://open.spotify.com/track/5dczvSmOUEE8xFDpJqPeg0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Look What You've Done",
   trackType: "studio",
   explicit: false,

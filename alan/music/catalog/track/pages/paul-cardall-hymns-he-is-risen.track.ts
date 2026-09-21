@@ -9,14 +9,6 @@ export const paulCardallHymnsHeIsRisen = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wo5Om3qK3li3qn8JFRS7O",
-      externalLink: "https://open.spotify.com/track/3wo5Om3qK3li3qn8JFRS7O",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "He Is Risen",
   trackType: "studio",
   explicit: false,

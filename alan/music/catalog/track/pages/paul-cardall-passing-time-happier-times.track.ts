@@ -9,14 +9,6 @@ export const paulCardallPassingTimeHappierTimes = {
   partOfCollections: ["release/paul-cardall-passing-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5kGWSULTUdLHiIGraVpybl",
-      externalLink: "https://open.spotify.com/track/5kGWSULTUdLHiIGraVpybl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Happier Times",
   trackType: "studio",
   explicit: false,

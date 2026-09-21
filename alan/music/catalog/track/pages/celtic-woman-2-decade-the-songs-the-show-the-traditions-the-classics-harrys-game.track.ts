@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsHarrysGame
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3L2rHEfG9ph0GuCm30KfBO",
-      externalLink: "https://open.spotify.com/track/3L2rHEfG9ph0GuCm30KfBO",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Harry's Game",
   trackType: "studio",
   explicit: false,

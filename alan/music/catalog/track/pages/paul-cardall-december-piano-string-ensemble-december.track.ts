@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleDecember = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1s5dO3yb0yT4EKuO151zZR",
-      externalLink: "https://open.spotify.com/track/1s5dO3yb0yT4EKuO151zZR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "December",
   trackType: "studio",
   explicit: false,

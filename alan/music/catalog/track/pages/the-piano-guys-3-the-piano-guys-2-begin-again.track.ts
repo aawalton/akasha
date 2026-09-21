@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2BeginAgain = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yZ9AtjultQdU5KL7mL1ai",
-      externalLink: "https://open.spotify.com/track/0yZ9AtjultQdU5KL7mL1ai",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Begin Again",
   trackType: "studio",
   explicit: false,

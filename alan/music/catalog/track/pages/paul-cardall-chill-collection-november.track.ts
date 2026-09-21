@@ -9,14 +9,6 @@ export const paulCardallChillCollectionNovember = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5CTTpjnaTOWsB7mSeoa6xO",
-      externalLink: "https://open.spotify.com/track/5CTTpjnaTOWsB7mSeoa6xO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "November",
   trackType: "studio",
   explicit: false,

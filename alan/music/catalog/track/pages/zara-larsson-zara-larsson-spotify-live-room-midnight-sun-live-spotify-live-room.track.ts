@@ -9,14 +9,6 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomMidnightSunLiveSpotifyLiveRoom
   partOfCollections: ["release/zara-larsson-zara-larsson-spotify-live-room"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ZN4ZI5f7ZIXO0lMe5fcyQ",
-      externalLink: "https://open.spotify.com/track/6ZN4ZI5f7ZIXO0lMe5fcyQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun (Live) - Spotify Live Room",
   trackType: "live",
   explicit: false,

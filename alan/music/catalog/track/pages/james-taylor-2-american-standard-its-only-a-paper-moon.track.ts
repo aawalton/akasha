@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5hDZjGuwlmGEgbPf0yjj4z",
-      externalLink: "https://open.spotify.com/track/5hDZjGuwlmGEgbPf0yjj4z",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "It's Only A Paper Moon",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Q0yfgpERfkp59Pf2tdI4q",
-      externalLink: "https://open.spotify.com/track/4Q0yfgpERfkp59Pf2tdI4q",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Every Teardrop Is a Waterfall - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

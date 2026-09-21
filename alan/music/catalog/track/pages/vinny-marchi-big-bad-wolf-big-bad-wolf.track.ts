@@ -9,14 +9,6 @@ export const vinnyMarchiBigBadWolfBigBadWolf = {
   partOfCollections: ["release/vinny-marchi-big-bad-wolf"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3IsEapFmPMrn3lSOyayXhr",
-      externalLink: "https://open.spotify.com/track/3IsEapFmPMrn3lSOyayXhr",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Big Bad Wolf",
   trackType: "studio",
   explicit: true,

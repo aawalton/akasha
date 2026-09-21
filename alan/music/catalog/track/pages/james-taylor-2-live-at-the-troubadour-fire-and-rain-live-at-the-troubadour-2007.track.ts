@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YrrJ55wVGkpgEds42meUC",
-      externalLink: "https://open.spotify.com/track/1YrrJ55wVGkpgEds42meUC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fire And Rain - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2DestinyHowCanIKeepFromSinging = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2WQ4s7VUTkqHfZF9t1mbEr",
-      externalLink: "https://open.spotify.com/track/2WQ4s7VUTkqHfZF9t1mbEr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "How Can I Keep From Singing",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeWorstBehavior = {
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6KIKaWKE9wV6mLjho3w61y",
-      externalLink: "https://open.spotify.com/track/6KIKaWKE9wV6mLjho3w61y",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "worst behavior",
   trackType: "studio",
   explicit: true,

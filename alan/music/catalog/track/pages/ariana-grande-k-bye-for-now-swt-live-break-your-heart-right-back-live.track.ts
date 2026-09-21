@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveBreakYourHeartRightBackLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qfOSlQohddqAOGl3f8snd",
-      externalLink: "https://open.spotify.com/track/1qfOSlQohddqAOGl3f8snd",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "break your heart right back - live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeShutUp = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12sliObzVzbLbAlDb8eChf",
-      externalLink: "https://open.spotify.com/track/12sliObzVzbLbAlDb8eChf",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "shut up",
   trackType: "studio",
   explicit: true,

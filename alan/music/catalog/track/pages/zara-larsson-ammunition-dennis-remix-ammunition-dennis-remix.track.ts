@@ -9,14 +9,6 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
   partOfCollections: ["release/zara-larsson-ammunition-dennis-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1tA2Y5VFexNrBU9RfBTRf9",
-      externalLink: "https://open.spotify.com/track/1tA2Y5VFexNrBU9RfBTRf9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ammunition - DENNIS Remix",
   trackType: "remix",
   explicit: true,

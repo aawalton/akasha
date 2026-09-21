@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandDannyBoyLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7CMkMzSxz8dNIbT99XfXKF",
-      externalLink: "https://open.spotify.com/track/7CMkMzSxz8dNIbT99XfXKF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Danny Boy - Live 2017",
   trackType: "live",
   explicit: false,

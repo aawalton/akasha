@@ -17,14 +17,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunaway = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "285h6lwIoEfKPpf1zJYzqL",
-      externalLink: "https://open.spotify.com/track/285h6lwIoEfKPpf1zJYzqL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Runaway",
   trackType: "studio",
   explicit: false,

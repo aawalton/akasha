@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsDeluxeWarriors = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1lgN0A2Vki2FTON5PYq42m",
-      externalLink: "https://open.spotify.com/track/1lgN0A2Vki2FTON5PYq42m",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Warriors",
   trackType: "studio",
   explicit: false,

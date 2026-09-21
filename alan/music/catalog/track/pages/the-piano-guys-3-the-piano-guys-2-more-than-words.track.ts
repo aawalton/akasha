@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2MoreThanWords = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5NHT6xEIVlW1lG6oJmoEHF",
-      externalLink: "https://open.spotify.com/track/5NHT6xEIVlW1lG6oJmoEHF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "More Than Words",
   trackType: "studio",
   explicit: false,

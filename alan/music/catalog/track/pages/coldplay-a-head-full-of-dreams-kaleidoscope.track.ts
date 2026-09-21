@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsKaleidoscope = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7IX7VAXujvcZ3e1PG7sGP7",
-      externalLink: "https://open.spotify.com/track/7IX7VAXujvcZ3e1PG7sGP7",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Kaleidoscope",
   trackType: "studio",
   explicit: false,

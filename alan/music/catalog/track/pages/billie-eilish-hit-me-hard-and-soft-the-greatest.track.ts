@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftTheGreatest = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TGd66r0nlPaYm3KIoI7ET",
-      externalLink: "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "THE GREATEST",
   trackType: "studio",
   explicit: false,

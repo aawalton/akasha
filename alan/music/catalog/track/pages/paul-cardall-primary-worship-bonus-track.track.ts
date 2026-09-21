@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipBonusTrack = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20XKVKt6VVS8BVcxwFYzNk",
-      externalLink: "https://open.spotify.com/track/20XKVKt6VVS8BVcxwFYzNk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bonus Track",
   trackType: "studio",
   explicit: false,

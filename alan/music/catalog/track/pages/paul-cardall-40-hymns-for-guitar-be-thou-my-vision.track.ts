@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarBeThouMyVision = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Y9Cs5xWrJG7RVFaBtpjlV",
-      externalLink: "https://open.spotify.com/track/0Y9Cs5xWrJG7RVFaBtpjlV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Be Thou My Vision",
   trackType: "studio",
   explicit: false,

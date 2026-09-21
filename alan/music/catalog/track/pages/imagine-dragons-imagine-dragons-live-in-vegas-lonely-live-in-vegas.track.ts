@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasLonelyLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6PjB9moDPUWO42KyvDfg4y",
-      externalLink: "https://open.spotify.com/track/6PjB9moDPUWO42KyvDfg4y",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Lonely - Live in Vegas",
   trackType: "live",
   explicit: false,

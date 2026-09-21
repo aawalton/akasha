@@ -9,14 +9,6 @@ export const thePianoGuys3LiveFathersEyesIntroductionLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1hfBjYkNN1SkyfNzaznxj7",
-      externalLink: "https://open.spotify.com/track/1hfBjYkNN1SkyfNzaznxj7",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Fathers' Eyes (Introduction) - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysNowLetUsRejoice = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4iNJhO94xlnU5X9nXSKN8k",
-      externalLink: "https://open.spotify.com/track/4iNJhO94xlnU5X9nXSKN8k",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Now Let Us Rejoice",
   trackType: "studio",
   explicit: false,

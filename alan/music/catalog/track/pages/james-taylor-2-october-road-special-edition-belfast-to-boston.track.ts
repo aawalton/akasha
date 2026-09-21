@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionBelfastToBoston = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Xvy3CAs2B4cuV6UvKq8Ke",
-      externalLink: "https://open.spotify.com/track/1Xvy3CAs2B4cuV6UvKq8Ke",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Belfast To Boston",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishGuitarSongsTv = {
   partOfCollections: ["release/billie-eilish-guitar-songs"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3GYlZ7tbxLOxe6ewMNVTkw",
-      externalLink: "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "TV",
   trackType: "studio",
   explicit: false,

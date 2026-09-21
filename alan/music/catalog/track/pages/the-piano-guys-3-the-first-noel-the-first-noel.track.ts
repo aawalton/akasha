@@ -12,14 +12,6 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7EbQF0Tt5n7xgn62gJjGbi",
-      externalLink: "https://open.spotify.com/track/7EbQF0Tt5n7xgn62gJjGbi",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The First Noel",
   trackType: "studio",
   explicit: false,

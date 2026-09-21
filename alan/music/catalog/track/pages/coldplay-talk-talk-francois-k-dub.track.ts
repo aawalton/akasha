@@ -9,14 +9,6 @@ export const coldplayTalkTalkFrancoisKDub = {
   partOfCollections: ["release/coldplay-talk"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "34vsOHBZ1iMFANaeXaRF1Q",
-      externalLink: "https://open.spotify.com/track/34vsOHBZ1iMFANaeXaRF1Q",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Talk - Francois K Dub",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
   partOfCollections: ["release/jisoo-earthquake-sam-feldt-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2f7PtCTGJCdGhLSv3prGWw",
-      externalLink: "https://open.spotify.com/track/2f7PtCTGJCdGhLSv3prGWw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "earthquake - Sam Feldt remix",
   trackType: "remix",
   explicit: false,

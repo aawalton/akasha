@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextFakeSmile = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wFLWP0FcIqHK1wb1CPthQ",
-      externalLink: "https://open.spotify.com/track/3wFLWP0FcIqHK1wb1CPthQ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "fake smile",
   trackType: "studio",
   explicit: true,

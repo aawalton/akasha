@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandSlapLeatherLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4qgL4rkQnSZqjSXqNM8yp7",
-      externalLink: "https://open.spotify.com/track/4qgL4rkQnSZqjSXqNM8yp7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Slap Leather - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

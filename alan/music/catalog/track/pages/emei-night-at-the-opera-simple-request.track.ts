@@ -9,14 +9,6 @@ export const emeiNightAtTheOperaSimpleRequest = {
   partOfCollections: ["release/emei-night-at-the-opera"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2qMXHqR78AghFekIyXExCC",
-      externalLink: "https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Simple Request",
   trackType: "studio",
   explicit: false,

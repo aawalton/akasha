@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenAlongTheWasatch = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5iM0a00B40fjS51dtTmXHt",
-      externalLink: "https://open.spotify.com/track/5iM0a00B40fjS51dtTmXHt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Along The Wasatch",
   trackType: "studio",
   explicit: false,

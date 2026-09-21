@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sMyMilkDuds = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "05YUsvsElWNtUi22qCefPW",
-      externalLink: "https://open.spotify.com/track/05YUsvsElWNtUi22qCefPW",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Milk Duds",
   trackType: "studio",
   explicit: false,

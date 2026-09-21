@@ -9,14 +9,6 @@ export const sabrinaCarpenterEspressoWorkingLateRemixesEspressoMarkRonsonXFnzWor
   partOfCollections: ["release/sabrina-carpenter-espresso-working-late-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2rHUyJioDOKDshDDxzbISl",
-      externalLink: "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso - Mark Ronson x FNZ Working Late Remix",
   trackType: "remix",
   explicit: true,

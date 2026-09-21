@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterNothingLikeAHundredMiles2019Rema
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06mmW26klpoE9xkIww6c9k",
-      externalLink: "https://open.spotify.com/track/06mmW26klpoE9xkIww6c9k",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Nothing like a Hundred Miles - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

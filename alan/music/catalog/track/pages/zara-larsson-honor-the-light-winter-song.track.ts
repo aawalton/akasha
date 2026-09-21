@@ -9,14 +9,6 @@ export const zaraLarssonHonorTheLightWinterSong = {
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7b8X4P8McVS0RKAKhqtY1Y",
-      externalLink: "https://open.spotify.com/track/7b8X4P8McVS0RKAKhqtY1Y",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Winter Song",
   trackType: "studio",
   explicit: false,

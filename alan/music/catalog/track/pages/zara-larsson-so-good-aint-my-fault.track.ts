@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodAintMyFault = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ADG9OgdVTL7fgREP75BrZ",
-      externalLink: "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ain't My Fault",
   trackType: "studio",
   explicit: false,

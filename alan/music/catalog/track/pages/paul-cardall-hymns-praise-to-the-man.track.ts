@@ -9,14 +9,6 @@ export const paulCardallHymnsPraiseToTheMan = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5vQUtnNhqzycW7dnbcRAWR",
-      externalLink: "https://open.spotify.com/track/5vQUtnNhqzycW7dnbcRAWR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Praise To The Man",
   trackType: "studio",
   explicit: false,

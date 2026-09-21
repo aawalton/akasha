@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessInMyBloodSwanLake = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1kbZaYVjv21tlxdql5M3bb",
-      externalLink: "https://open.spotify.com/track/1kbZaYVjv21tlxdql5M3bb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "In My Blood / Swan Lake",
   trackType: "studio",
   explicit: false,

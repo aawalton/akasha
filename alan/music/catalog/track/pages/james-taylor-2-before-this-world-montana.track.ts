@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldMontana = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59ozpIwaP8CoDMpQwKdRLs",
-      externalLink: "https://open.spotify.com/track/59ozpIwaP8CoDMpQwKdRLs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Montana",
   trackType: "studio",
   explicit: false,

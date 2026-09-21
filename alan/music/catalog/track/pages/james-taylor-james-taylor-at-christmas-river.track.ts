@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasRiver = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2pRgR5prqaVWhQSBKXG8rb",
-      externalLink: "https://open.spotify.com/track/2pRgR5prqaVWhQSBKXG8rb",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "River",
   trackType: "studio",
   explicit: false,

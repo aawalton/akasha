@@ -9,14 +9,6 @@ export const theHoldernessFamilyIMAdultingImAdulting = {
   partOfCollections: ["release/the-holderness-family-i-m-adulting"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RhYHzs3wb8U0fTGZqobND",
-      externalLink: "https://open.spotify.com/track/5RhYHzs3wb8U0fTGZqobND",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I'm Adulting",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveShedALittleLight = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2HBZXNL42YtnkERUEJRRto",
-      externalLink: "https://open.spotify.com/track/2HBZXNL42YtnkERUEJRRto",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shed a Little Light",
   trackType: "studio",
   explicit: false,

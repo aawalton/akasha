@@ -9,14 +9,6 @@ export const arianaGrandeBangBangRemixesBangBangImanosGramercyRemix = {
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1z3Q0Vv26kdsSc8KshjNWX",
-      externalLink: "https://open.spotify.com/track/1z3Q0Vv26kdsSc8KshjNWX",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang - Imanos & Gramercy Remix",
   trackType: "remix",
   explicit: false,

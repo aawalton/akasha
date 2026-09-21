@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasSleighRide = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ChnF0KzShZflpbVmMWD8P",
-      externalLink: "https://open.spotify.com/track/4ChnF0KzShZflpbVmMWD8P",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sleigh Ride",
   trackType: "studio",
   explicit: false,

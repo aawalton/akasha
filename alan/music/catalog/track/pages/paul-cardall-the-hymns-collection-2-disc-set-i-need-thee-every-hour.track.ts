@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetINeedTheeEveryHour = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5nApOAbU8R0LgZkOk6wSeH",
-      externalLink: "https://open.spotify.com/track/5nApOAbU8R0LgZkOk6wSeH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Need Thee Every Hour",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenSweetHourOfPrayer = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TAj9AlhfJHud6rYIcvaJY",
-      externalLink: "https://open.spotify.com/track/6TAj9AlhfJHud6rYIcvaJY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Hour Of Prayer",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatFirstAidKitLiveVersi
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69khRvQgywgLfdnhhObdPD",
-      externalLink: "https://open.spotify.com/track/69khRvQgywgLfdnhhObdPD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Need Love (feat. First Aid Kit) - Live Version",
   trackType: "live",
   explicit: false,

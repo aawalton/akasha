@@ -9,14 +9,6 @@ export const zaraLarssonHonorTheLightLightACandle = {
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7pNPlw6Jojwm0WnotDNSJx",
-      externalLink: "https://open.spotify.com/track/7pNPlw6Jojwm0WnotDNSJx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Light A Candle",
   trackType: "studio",
   explicit: false,

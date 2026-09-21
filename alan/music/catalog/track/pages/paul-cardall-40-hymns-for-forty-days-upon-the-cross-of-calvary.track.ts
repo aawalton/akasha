@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysUponTheCrossOfCalvary = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1XM61LJ3uVtdmDpJztSt28",
-      externalLink: "https://open.spotify.com/track/1XM61LJ3uVtdmDpJztSt28",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Upon the Cross of Calvary",
   trackType: "studio",
   explicit: false,

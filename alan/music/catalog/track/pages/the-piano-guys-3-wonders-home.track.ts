@@ -9,14 +9,6 @@ export const thePianoGuys3WondersHome = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1mdUTN1RtD2oOUIusIhium",
-      externalLink: "https://open.spotify.com/track/1mdUTN1RtD2oOUIusIhium",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Home",
   trackType: "studio",
   explicit: false,

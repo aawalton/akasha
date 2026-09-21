@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasWinterWonderland = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yHDW8K832YbWriJD7wr7H",
-      externalLink: "https://open.spotify.com/track/1yHDW8K832YbWriJD7wr7H",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Winter Wonderland",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayKaleidoscopeEpHypnotisedEpMix = {
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7HBnZdg7fIQwqMhQhci0VV",
-      externalLink: "https://open.spotify.com/track/7HBnZdg7fIQwqMhQhci0VV",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Hypnotised - EP Mix",
   trackType: "remix",
   explicit: false,

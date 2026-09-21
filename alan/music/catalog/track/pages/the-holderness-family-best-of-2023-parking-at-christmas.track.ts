@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023ParkingAtChristmas = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rN5iua4lD3GsvvuYWTLJv",
-      externalLink: "https://open.spotify.com/track/4rN5iua4lD3GsvvuYWTLJv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Parking At Christmas",
   trackType: "studio",
   explicit: false,

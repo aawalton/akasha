@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungFirstOfMay = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "08lmf4weog2lDvgOfPMuEu",
-      externalLink: "https://open.spotify.com/track/08lmf4weog2lDvgOfPMuEu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "First of May",
   trackType: "studio",
   explicit: false,

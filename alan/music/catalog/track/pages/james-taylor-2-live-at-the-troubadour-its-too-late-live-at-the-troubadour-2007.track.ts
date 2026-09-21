@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourItsTooLateLiveAtTheTroubadour2007 = 
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2GUEXn64HZhMo6sdzjLPdg",
-      externalLink: "https://open.spotify.com/track/2GUEXn64HZhMo6sdzjLPdg",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "It’s Too Late - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

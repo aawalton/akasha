@@ -16,14 +16,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionE
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1opfry8NTdZ9bbgmPAI02b",
-      externalLink: "https://open.spotify.com/track/1opfry8NTdZ9bbgmPAI02b",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "eternal sunshine",
   trackType: "studio",
   explicit: false,

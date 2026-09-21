@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresASkyFullOfStarsLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1EMFnyhETKfI52uhI4baGY",
-      externalLink: "https://open.spotify.com/track/1EMFnyhETKfI52uhI4baGY",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Sky Full of Stars - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

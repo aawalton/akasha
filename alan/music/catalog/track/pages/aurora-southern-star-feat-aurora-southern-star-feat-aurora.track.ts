@@ -9,14 +9,6 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
   partOfCollections: ["release/aurora-southern-star-feat-aurora"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rDNGiBF4tZbCDeeTH42II",
-      externalLink: "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Southern Star (feat. AURORA)",
   trackType: "studio",
   explicit: false,

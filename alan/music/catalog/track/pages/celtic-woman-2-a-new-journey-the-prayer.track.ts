@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyThePrayer = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3sJ2sVxfWZJFM7OBSQCNFy",
-      externalLink: "https://open.spotify.com/track/3sJ2sVxfWZJFM7OBSQCNFy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Prayer",
   trackType: "studio",
   explicit: false,

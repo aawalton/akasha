@@ -9,14 +9,6 @@ export const thePianoGuys3LiveTheCelloSongIntroductionLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "23jE7bp7YZCyhVx2OnNrIb",
-      externalLink: "https://open.spotify.com/track/23jE7bp7YZCyhVx2OnNrIb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Cello Song (Introduction) - Live",
   trackType: "live",
   explicit: false,

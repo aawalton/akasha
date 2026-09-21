@@ -9,14 +9,6 @@ export const emeiDistractedDistracted = {
   partOfCollections: ["release/emei-distracted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cajPGP49WC0dxOsRmS1WY",
-      externalLink: "https://open.spotify.com/track/3cajPGP49WC0dxOsRmS1WY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Distracted",
   trackType: "studio",
   explicit: false,

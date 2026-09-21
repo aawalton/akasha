@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveMexicoLive = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "497tjyC7zWeUrU5kk193oK",
-      externalLink: "https://open.spotify.com/track/497tjyC7zWeUrU5kk193oK",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mexico - Live",
   trackType: "live",
   explicit: false,

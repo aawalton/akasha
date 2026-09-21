@@ -15,14 +15,6 @@ export const thePianoGuys3GhostGhost = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "45BBPRiAGzrzm7hiy6WS8d",
-      externalLink: "https://open.spotify.com/track/45BBPRiAGzrzm7hiy6WS8d",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Ghost",
   trackType: "studio",
   explicit: false,

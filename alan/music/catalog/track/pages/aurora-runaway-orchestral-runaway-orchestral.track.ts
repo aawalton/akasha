@@ -9,14 +9,6 @@ export const auroraRunawayOrchestralRunawayOrchestral = {
   partOfCollections: ["release/aurora-runaway-orchestral"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "191312TzYS7Vvi0yxABhIh",
-      externalLink: "https://open.spotify.com/track/191312TzYS7Vvi0yxABhIh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Runaway - Orchestral",
   trackType: "studio",
   explicit: false,

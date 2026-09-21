@@ -9,14 +9,6 @@ export const paulCardallGraceInGriefBlueHeaven = {
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DIAZjIZPEPZgbONYUby8d",
-      externalLink: "https://open.spotify.com/track/5DIAZjIZPEPZgbONYUby8d",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Blue Heaven",
   trackType: "studio",
   explicit: false,

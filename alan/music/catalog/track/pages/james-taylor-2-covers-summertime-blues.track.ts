@@ -9,14 +9,6 @@ export const jamesTaylor2CoversSummertimeBlues = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6m1Ff8NSiHXTa4YjOAesqE",
-      externalLink: "https://open.spotify.com/track/6m1Ff8NSiHXTa4YjOAesqE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Summertime Blues",
   trackType: "studio",
   explicit: false,

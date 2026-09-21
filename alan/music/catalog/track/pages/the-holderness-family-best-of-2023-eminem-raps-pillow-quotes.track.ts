@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023EminemRapsPillowQuotes = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15amuacJHwZaUcUcESsVxJ",
-      externalLink: "https://open.spotify.com/track/15amuacJHwZaUcUcESsVxJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eminem Raps Pillow Quotes",
   trackType: "studio",
   explicit: false,

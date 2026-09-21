@@ -9,14 +9,6 @@ export const jamesTaylor2CoversHoundDog = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2kqpwVLLYRuiYm8J8M4RrZ",
-      externalLink: "https://open.spotify.com/track/2kqpwVLLYRuiYm8J8M4RrZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hound Dog",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Sharks = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2", "release/imagine-dragons-sharks"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7sA2SKTo1QbTSSYn5YvJC4",
-      externalLink: "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Sharks",
   trackType: "studio",
   explicit: false,

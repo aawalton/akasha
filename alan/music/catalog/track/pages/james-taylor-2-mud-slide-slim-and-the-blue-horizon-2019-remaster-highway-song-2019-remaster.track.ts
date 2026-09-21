@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHighwaySong201
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0t1pyyO6nXRkCyzekG5SkO",
-      externalLink: "https://open.spotify.com/track/0t1pyyO6nXRkCyzekG5SkO",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Highway Song - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourYouveGotAFriendLiveAtTheTroubadour20
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jNvvrEFtIQYnaukWx5ZSu",
-      externalLink: "https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You’ve Got A Friend - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

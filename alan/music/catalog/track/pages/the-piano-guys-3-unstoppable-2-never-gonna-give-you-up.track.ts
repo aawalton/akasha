@@ -16,14 +16,6 @@ export const thePianoGuys3Unstoppable2NeverGonnaGiveYouUp = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5K5kCJ3OZU82Co4eaLE3js",
-      externalLink: "https://open.spotify.com/track/5K5kCJ3OZU82Co4eaLE3js",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Never Gonna Give You Up",
   trackType: "studio",
   explicit: false,

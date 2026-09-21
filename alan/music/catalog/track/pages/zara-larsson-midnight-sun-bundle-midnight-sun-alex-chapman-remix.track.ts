@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
   partOfCollections: ["release/zara-larsson-midnight-sun-bundle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1LFBygPkUZyFE0U7hJDWOb",
-      externalLink: "https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - Alex Chapman Remix",
   trackType: "remix",
   explicit: false,

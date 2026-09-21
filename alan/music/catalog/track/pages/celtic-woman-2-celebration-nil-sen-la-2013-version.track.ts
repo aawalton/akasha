@@ -9,14 +9,6 @@ export const celticWoman2CelebrationNilSenLa2013Version = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0dTkLDUctTTMikRBssTBZN",
-      externalLink: "https://open.spotify.com/track/0dTkLDUctTTMikRBssTBZN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Níl Sé'n Lá - 2013 Version",
   trackType: "version",
   explicit: false,

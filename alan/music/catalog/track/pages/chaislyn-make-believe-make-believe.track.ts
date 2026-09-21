@@ -9,14 +9,6 @@ export const chaislynMakeBelieveMakeBelieve = {
   partOfCollections: ["release/chaislyn-make-believe", "release/chaislyn-unreliable-narrator"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2HAbEAz1TTAzdUcpDxuDDj",
-      externalLink: "https://open.spotify.com/track/2HAbEAz1TTAzdUcpDxuDDj",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Make Believe",
   trackType: "studio",
   explicit: false,

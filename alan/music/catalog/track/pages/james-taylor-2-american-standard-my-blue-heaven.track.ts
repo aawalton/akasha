@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardMyBlueHeaven = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0DTzNcTTUZRFhJqMcBh34s",
-      externalLink: "https://open.spotify.com/track/0DTzNcTTUZRFhJqMcBh34s",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Blue Heaven",
   trackType: "studio",
   explicit: false,

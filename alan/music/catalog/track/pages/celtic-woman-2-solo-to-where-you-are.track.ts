@@ -9,14 +9,6 @@ export const celticWoman2SoloToWhereYouAre = {
   partOfCollections: ["release/celtic-woman-2-solo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RbXE7mq9xKfDD9RttPFro",
-      externalLink: "https://open.spotify.com/track/5RbXE7mq9xKfDD9RttPFro",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "To Where You Are",
   trackType: "studio",
   explicit: false,

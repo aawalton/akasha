@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendBecauseILikedABoy = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "32FhTAAjKZaBein150o3Px",
-      externalLink: "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "because i liked a boy",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyI = {
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6qT31f20CXWq0zkz4BME32",
-      externalLink: "https://open.spotify.com/track/6qT31f20CXWq0zkz4BME32",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Baby I",
   trackType: "studio",
   explicit: false,

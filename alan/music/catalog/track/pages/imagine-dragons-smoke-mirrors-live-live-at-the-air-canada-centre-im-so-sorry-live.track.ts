@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreImSoSorryLive
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6G5qJLquJDyfZgaw3NyfvN",
-      externalLink: "https://open.spotify.com/track/6G5qJLquJDyfZgaw3NyfvN",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I'm So Sorry - Live",
   trackType: "live",
   explicit: false,

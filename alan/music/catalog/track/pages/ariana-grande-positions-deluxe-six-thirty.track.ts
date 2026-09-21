@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeSixThirty = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rJWTThj9EWR6UqD1eVyge",
-      externalLink: "https://open.spotify.com/track/4rJWTThj9EWR6UqD1eVyge",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "six thirty",
   trackType: "studio",
   explicit: true,

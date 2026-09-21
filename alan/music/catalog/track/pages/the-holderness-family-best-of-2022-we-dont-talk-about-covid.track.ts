@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022WeDontTalkAboutCovid = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6yUhwwpbfWAYRxBJLEuzNt",
-      externalLink: "https://open.spotify.com/track/6yUhwwpbfWAYRxBJLEuzNt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "We Don't Talk About COVID",
   trackType: "studio",
   explicit: false,

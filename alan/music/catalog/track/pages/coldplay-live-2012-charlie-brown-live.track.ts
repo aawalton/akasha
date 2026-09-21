@@ -9,14 +9,6 @@ export const coldplayLive2012CharlieBrownLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1u0LrLPnIfVeHOzFfye3Lf",
-      externalLink: "https://open.spotify.com/track/1u0LrLPnIfVeHOzFfye3Lf",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Charlie Brown - Live",
   trackType: "live",
   explicit: false,

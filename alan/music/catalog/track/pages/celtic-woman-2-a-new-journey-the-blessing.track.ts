@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyTheBlessing = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6LeAedD4ZcwueB0WizpJh8",
-      externalLink: "https://open.spotify.com/track/6LeAedD4ZcwueB0WizpJh8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Blessing",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChillCollectionEden = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ca2Qm05YfC5C8dtH70qNI",
-      externalLink: "https://open.spotify.com/track/5ca2Qm05YfC5C8dtH70qNI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eden",
   trackType: "studio",
   explicit: false,

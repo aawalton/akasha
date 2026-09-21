@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyPopularSong = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3iugMJEdfE58OpI7WGM38w",
-      externalLink: "https://open.spotify.com/track/3iugMJEdfE58OpI7WGM38w",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Popular Song",
   trackType: "studio",
   explicit: false,

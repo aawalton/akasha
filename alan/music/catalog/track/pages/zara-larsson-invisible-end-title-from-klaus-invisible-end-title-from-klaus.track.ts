@@ -9,14 +9,6 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
   partOfCollections: ["release/zara-larsson-invisible-end-title-from-klaus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "33dJ9qPTAHONK1on4DrW6l",
-      externalLink: "https://open.spotify.com/track/33dJ9qPTAHONK1on4DrW6l",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Invisible - End Title from Klaus",
   trackType: "studio",
   explicit: false,

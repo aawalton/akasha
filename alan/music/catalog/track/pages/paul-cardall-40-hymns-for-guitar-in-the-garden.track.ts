@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarInTheGarden = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5DGKWGBw9KaOErws15lbKs",
-      externalLink: "https://open.spotify.com/track/5DGKWGBw9KaOErws15lbKs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In The Garden",
   trackType: "studio",
   explicit: false,

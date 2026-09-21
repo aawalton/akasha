@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYoullBeInM
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1a3BkG3GWGFJfalsW7WTLM",
-      externalLink: "https://open.spotify.com/track/1a3BkG3GWGFJfalsW7WTLM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You'll Be in My Heart",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemixCantTameHerDjSmallz
   partOfCollections: ["release/zara-larsson-can-t-tame-her-dj-smallz-732-jersey-club-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55MRmcpfl4J09kfuvXWfW1",
-      externalLink: "https://open.spotify.com/track/55MRmcpfl4J09kfuvXWfW1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Can't Tame Her - DJ Smallz 732 Jersey Club Remix",
   trackType: "remix",
   explicit: false,

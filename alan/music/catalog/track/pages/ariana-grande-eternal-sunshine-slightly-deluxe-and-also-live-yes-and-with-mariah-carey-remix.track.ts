@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndWithMaria
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "11U6LlwAzp6mrS2JNWYXt1",
-      externalLink: "https://open.spotify.com/track/11U6LlwAzp6mrS2JNWYXt1",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? (with Mariah Carey) - Remix",
   trackType: "remix",
   explicit: true,

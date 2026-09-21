@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveOnMyLove = {
   partOfCollections: ["release/zara-larsson-on-my-love", "release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0dxp7DyPJEo6JhtnjUtBnN",
-      externalLink: "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love",
   trackType: "studio",
   explicit: false,

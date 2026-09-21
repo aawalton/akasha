@@ -9,14 +9,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosWhateverItTakesLiveAcoustic = {
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MWrQbrxEOcmTgL3ESfPTg",
-      externalLink: "https://open.spotify.com/track/0MWrQbrxEOcmTgL3ESfPTg",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Whatever It Takes - Live/Acoustic",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
   partOfCollections: ["release/sabrina-carpenter-on-my-way"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4n7jnSxVLd8QioibtTDBDq",
-      externalLink: "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "On My Way",
   trackType: "studio",
   explicit: true,

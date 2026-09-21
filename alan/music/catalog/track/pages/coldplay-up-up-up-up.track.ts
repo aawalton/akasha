@@ -9,14 +9,6 @@ export const coldplayUpUpUpUp = {
   partOfCollections: ["release/coldplay-up-up"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4a8pP5X2lxwU5aprY44jLn",
-      externalLink: "https://open.spotify.com/track/4a8pP5X2lxwU5aprY44jLn",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Up&Up",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallFaithfulSweetEscape = {
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4w9h6vXTaREnUcmEL9yaZA",
-      externalLink: "https://open.spotify.com/track/4w9h6vXTaREnUcmEL9yaZA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Escape",
   trackType: "studio",
   explicit: false,

@@ -14,14 +14,6 @@ export const thePianoGuys3MusicBoxDancerMusicBoxDancer = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3KGNYSKdi3BWkevlAwN2nw",
-      externalLink: "https://open.spotify.com/track/3KGNYSKdi3BWkevlAwN2nw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Music Box Dancer",
   trackType: "studio",
   explicit: false,

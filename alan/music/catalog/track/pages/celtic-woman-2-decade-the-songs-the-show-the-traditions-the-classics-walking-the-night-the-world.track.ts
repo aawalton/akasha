@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWalkingThe
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3UBX0ysWycKWiinU7GfoZX",
-      externalLink: "https://open.spotify.com/track/3UBX0ysWycKWiinU7GfoZX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walking the Night/The World Falls Away",
   trackType: "studio",
   explicit: false,

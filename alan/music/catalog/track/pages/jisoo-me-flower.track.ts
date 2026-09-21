@@ -9,14 +9,6 @@ export const jisooMeFlower = {
   partOfCollections: ["release/jisoo-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69CrOS7vEHIrhC2ILyEi0s",
-      externalLink: "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "FLOWER",
   trackType: "studio",
   explicit: false,

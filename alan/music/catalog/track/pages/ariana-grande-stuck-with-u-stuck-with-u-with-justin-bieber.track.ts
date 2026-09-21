@@ -9,14 +9,6 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
   partOfCollections: ["release/ariana-grande-stuck-with-u"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HBZA5flZLE435QTztThqH",
-      externalLink: "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Stuck with U (with Justin Bieber)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "712fnY7BSpkrA33f2wSWsU",
-      externalLink: "https://open.spotify.com/track/712fnY7BSpkrA33f2wSWsU",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cha-Ching (Till We Grow Older) - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

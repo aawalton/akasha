@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionElizasThemeSoloPianoVersion = 
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "73v2Bip0bMiF2c176LRF4U",
-      externalLink: "https://open.spotify.com/track/73v2Bip0bMiF2c176LRF4U",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eliza's Theme - Solo Piano Version",
   trackType: "version",
   explicit: false,

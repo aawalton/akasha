@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sThisIsHowYouChewIt = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4m6KrWIsZ1gLQGdH8zBZW8",
-      externalLink: "https://open.spotify.com/track/4m6KrWIsZ1gLQGdH8zBZW8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "This Is How You Chew It",
   trackType: "studio",
   explicit: false,

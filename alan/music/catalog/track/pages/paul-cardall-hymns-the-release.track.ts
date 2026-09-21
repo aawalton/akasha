@@ -9,14 +9,6 @@ export const paulCardallHymnsTheRelease = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49IeMe9gQ6LBxTwiq88Q3s",
-      externalLink: "https://open.spotify.com/track/49IeMe9gQ6LBxTwiq88Q3s",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Release",
   trackType: "studio",
   explicit: false,

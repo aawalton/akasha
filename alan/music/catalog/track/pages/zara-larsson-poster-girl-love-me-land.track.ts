@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlLoveMeLand = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1dKmaDRG1KvqwANvlhIyqx",
-      externalLink: "https://open.spotify.com/track/1dKmaDRG1KvqwANvlhIyqx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Love Me Land",
   trackType: "studio",
   explicit: false,

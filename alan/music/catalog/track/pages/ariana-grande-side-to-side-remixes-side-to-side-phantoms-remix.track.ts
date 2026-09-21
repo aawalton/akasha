@@ -9,14 +9,6 @@ export const arianaGrandeSideToSideRemixesSideToSidePhantomsRemix = {
   partOfCollections: ["release/ariana-grande-side-to-side-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1OQavCoScXzV0tdMlofwmK",
-      externalLink: "https://open.spotify.com/track/1OQavCoScXzV0tdMlofwmK",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Side To Side - Phantoms Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sFallOrNothingAtAll = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0iCt5PWFYXtRLJJEkMphPH",
-      externalLink: "https://open.spotify.com/track/0iCt5PWFYXtRLJJEkMphPH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fall or Nothing At All",
   trackType: "studio",
   explicit: false,

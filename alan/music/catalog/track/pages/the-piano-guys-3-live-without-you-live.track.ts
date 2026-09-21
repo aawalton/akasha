@@ -9,14 +9,6 @@ export const thePianoGuys3LiveWithoutYouLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "60BIoMVVWN8RA3UYXIK6SE",
-      externalLink: "https://open.spotify.com/track/60BIoMVVWN8RA3UYXIK6SE",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Without You (Live)",
   trackType: "live",
   explicit: false,

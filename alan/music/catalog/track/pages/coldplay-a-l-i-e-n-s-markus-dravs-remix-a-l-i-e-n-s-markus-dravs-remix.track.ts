@@ -9,14 +9,6 @@ export const coldplayALIENSMarkusDravsRemixALIENSMarkusDravsRemix = {
   partOfCollections: ["release/coldplay-a-l-i-e-n-s-markus-dravs-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XQGVOIgKyXhcv9TrQQAH0",
-      externalLink: "https://open.spotify.com/track/5XQGVOIgKyXhcv9TrQQAH0",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A L I E N S - Markus Dravs Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishMyFutureMyFuture = {
   partOfCollections: ["release/billie-eilish-my-future"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ygvZOXrIeVL4xZmAWJT2C",
-      externalLink: "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "my future",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
   partOfCollections: ["release/ariana-grande-7-rings-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6AyI8UGx8Y4peb7pLOy2pf",
-      externalLink: "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "7 rings (feat. 2 Chainz) - Remix",
   trackType: "remix",
   explicit: true,

@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassBethel = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5bEjG91Nn6KoxX8FGDUbHn",
-      externalLink: "https://open.spotify.com/track/5bEjG91Nn6KoxX8FGDUbHn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bethel",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyBeyondTheSea = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7mjpTAOF23vrpTU5B1pqsT",
-      externalLink: "https://open.spotify.com/track/7mjpTAOF23vrpTU5B1pqsT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Beyond The Sea",
   trackType: "studio",
   explicit: false,

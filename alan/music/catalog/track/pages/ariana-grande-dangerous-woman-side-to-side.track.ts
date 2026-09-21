@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanSideToSide = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HeCFqiB1rBqGqvE10rF1a",
-      externalLink: "https://open.spotify.com/track/4HeCFqiB1rBqGqvE10rF1a",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Side To Side",
   trackType: "studio",
   explicit: true,

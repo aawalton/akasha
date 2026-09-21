@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftWildflower = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3QaPy1KgI7nu9FJEQUgn6h",
-      externalLink: "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "WILDFLOWER",
   trackType: "studio",
   explicit: false,

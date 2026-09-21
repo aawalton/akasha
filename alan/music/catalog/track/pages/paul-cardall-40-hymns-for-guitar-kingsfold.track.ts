@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarKingsfold = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7n9BXhRztMhnWgtwIfLtug",
-      externalLink: "https://open.spotify.com/track/7n9BXhRztMhnWgtwIfLtug",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Kingsfold",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3PussPuss = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3TWc9D5uVyosC49bamnJBa",
-      externalLink: "https://open.spotify.com/track/3TWc9D5uVyosC49bamnJBa",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Puss Puss",
   trackType: "studio",
   explicit: false,

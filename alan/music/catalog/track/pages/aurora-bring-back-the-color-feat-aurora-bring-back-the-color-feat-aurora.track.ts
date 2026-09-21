@@ -9,14 +9,6 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
   partOfCollections: ["release/aurora-bring-back-the-color-feat-aurora"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "575i9kr1iypkCZyfJuoAlZ",
-      externalLink: "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "BRING BACK THE COLOR (feat. AURORA)",
   trackType: "studio",
   explicit: false,

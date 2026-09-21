@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneDownWithAdd = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0fN9TWewZky5ktlcfYooUi",
-      externalLink: "https://open.spotify.com/track/0fN9TWewZky5ktlcfYooUi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Down With ADD",
   trackType: "studio",
   explicit: false,

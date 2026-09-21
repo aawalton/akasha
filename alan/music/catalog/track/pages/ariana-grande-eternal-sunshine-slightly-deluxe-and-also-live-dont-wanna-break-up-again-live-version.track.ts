@@ -10,14 +10,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveDontWannaBreakU
     partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "6y5A3vRHBYWRsZHN6eWrng",
-        externalLink: "https://open.spotify.com/track/6y5A3vRHBYWRsZHN6eWrng",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "don’t wanna break up again - live version",
     trackType: "live",
     explicit: true,

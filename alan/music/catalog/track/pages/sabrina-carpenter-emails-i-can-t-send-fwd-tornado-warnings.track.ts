@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "53pcTIVGVE58vWWM7hfYPl",
-      externalLink: "https://open.spotify.com/track/53pcTIVGVE58vWWM7hfYPl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Tornado Warnings",
   trackType: "studio",
   explicit: true,

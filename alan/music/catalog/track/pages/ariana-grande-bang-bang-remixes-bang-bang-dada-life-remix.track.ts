@@ -9,14 +9,6 @@ export const arianaGrandeBangBangRemixesBangBangDadaLifeRemix = {
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "29kGXAiD6JiuzXpme5cXLU",
-      externalLink: "https://open.spotify.com/track/29kGXAiD6JiuzXpme5cXLU",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang - Dada Life Remix",
   trackType: "remix",
   explicit: false,

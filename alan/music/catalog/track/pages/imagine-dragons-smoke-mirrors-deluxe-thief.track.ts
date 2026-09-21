@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsDeluxeThief = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Q4OrJV7rGtUpPsLGbchgr",
-      externalLink: "https://open.spotify.com/track/2Q4OrJV7rGtUpPsLGbchgr",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thief",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsWhereYouThere = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mwuB2tzSZ7E4OtaxZnh0j",
-      externalLink: "https://open.spotify.com/track/5mwuB2tzSZ7E4OtaxZnh0j",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where You There?",
   trackType: "studio",
   explicit: false,

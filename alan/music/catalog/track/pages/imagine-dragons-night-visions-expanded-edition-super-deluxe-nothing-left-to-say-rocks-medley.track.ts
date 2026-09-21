@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeNothingLeftToSa
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3yFptysXs0OS6N6brZLAaC",
-      externalLink: "https://open.spotify.com/track/3yFptysXs0OS6N6brZLAaC",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Nothing Left To Say / Rocks - Medley",
   trackType: "studio",
   explicit: false,

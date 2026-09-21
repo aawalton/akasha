@@ -9,14 +9,6 @@ export const coldplayParachutesEverythingsNotLostIncludesHiddenTrackLifeIsForLiv
   partOfCollections: ["release/coldplay-parachutes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RNtm45kw0hPMBz7gKiIYu",
-      externalLink: "https://open.spotify.com/track/1RNtm45kw0hPMBz7gKiIYu",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
   trackType: "studio",
   explicit: false,

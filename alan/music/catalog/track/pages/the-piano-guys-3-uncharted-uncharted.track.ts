@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedUncharted = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5vJev1rsuQ71Uonb1gxmnw",
-      externalLink: "https://open.spotify.com/track/5vJev1rsuQ71Uonb1gxmnw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Uncharted",
   trackType: "studio",
   explicit: false,

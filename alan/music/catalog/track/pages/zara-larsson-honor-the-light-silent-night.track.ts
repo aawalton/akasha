@@ -9,14 +9,6 @@ export const zaraLarssonHonorTheLightSilentNight = {
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4TwKTu6EOJFvAlDAzQRWrd",
-      externalLink: "https://open.spotify.com/track/4TwKTu6EOJFvAlDAzQRWrd",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Silent Night",
   trackType: "studio",
   explicit: false,

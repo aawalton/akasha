@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchArtemis = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0AugTLXmK63udaMMrDmgdy",
-      externalLink: "https://open.spotify.com/track/0AugTLXmK63udaMMrDmgdy",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Artemis",
   trackType: "studio",
   explicit: false,

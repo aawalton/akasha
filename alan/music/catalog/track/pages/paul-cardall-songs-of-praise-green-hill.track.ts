@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseGreenHill = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2kGcrMzgmbLLB0z3l2KDqp",
-      externalLink: "https://open.spotify.com/track/2kGcrMzgmbLLB0z3l2KDqp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Green Hill",
   trackType: "studio",
   explicit: false,

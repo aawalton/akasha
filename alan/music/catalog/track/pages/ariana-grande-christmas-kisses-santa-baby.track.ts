@@ -9,14 +9,6 @@ export const arianaGrandeChristmasKissesSantaBaby = {
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6YJdPrH3i2POzu7hdHIRrb",
-      externalLink: "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Santa Baby",
   trackType: "studio",
   explicit: false,

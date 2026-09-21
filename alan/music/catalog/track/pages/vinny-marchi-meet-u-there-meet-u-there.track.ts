@@ -9,14 +9,6 @@ export const vinnyMarchiMeetUThereMeetUThere = {
   partOfCollections: ["release/vinny-marchi-meet-u-there"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0EalDy2yJzKpjUfIxlcXgS",
-      externalLink: "https://open.spotify.com/track/0EalDy2yJzKpjUfIxlcXgS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "meet U there",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayMyloXylotoEveryTeardropIsAWaterfall = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2U8g9wVcUu9wsg6i7sFSv8",
-      externalLink: "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Every Teardrop Is a Waterfall",
   trackType: "studio",
   explicit: false,

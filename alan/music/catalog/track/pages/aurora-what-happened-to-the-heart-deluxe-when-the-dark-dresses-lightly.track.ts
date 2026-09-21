@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeWhenTheDarkDressesLightly = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5oiQhhz11SXKO8jMlGGAEw",
-      externalLink: "https://open.spotify.com/track/5oiQhhz11SXKO8jMlGGAEw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "When The Dark Dresses Lightly",
   trackType: "studio",
   explicit: false,

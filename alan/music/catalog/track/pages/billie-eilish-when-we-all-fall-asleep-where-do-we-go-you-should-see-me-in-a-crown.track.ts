@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoYouShouldSeeMeInACrown = 
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3XF5xLJHOQQRbWya6hBp7d",
-      externalLink: "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "you should see me in a crown",
   trackType: "studio",
   explicit: false,

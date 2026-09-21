@@ -10,14 +10,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "42xoTXs449Ib4iGXgDih2E",
-      externalLink: "https://open.spotify.com/track/42xoTXs449Ib4iGXgDih2E",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Popular - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,

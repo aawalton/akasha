@@ -9,14 +9,6 @@ export const imagineDragonsLoomFireInTheseHills = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Morv8EWzWFsfbqG8vdUfy",
-      externalLink: "https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Fire in These Hills",
   trackType: "studio",
   explicit: false,

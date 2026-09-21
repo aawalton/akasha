@@ -9,14 +9,6 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEditLamourDeMaVieOverNowExt
   partOfCollections: ["release/billie-eilish-l-amour-de-ma-vie-over-now-extended-edit"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Y6U158gVXfvqNWOLdis0R",
-      externalLink: "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
   trackType: "version",
   explicit: false,

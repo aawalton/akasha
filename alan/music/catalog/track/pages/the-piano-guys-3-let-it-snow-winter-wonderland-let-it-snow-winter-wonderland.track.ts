@@ -9,14 +9,6 @@ export const thePianoGuys3LetItSnowWinterWonderlandLetItSnowWinterWonderland = {
   partOfCollections: ["release/the-piano-guys-3-let-it-snow-winter-wonderland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2J5EfDhLVPKdIgGLTGl32v",
-      externalLink: "https://open.spotify.com/track/2J5EfDhLVPKdIgGLTGl32v",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Let It Snow / Winter Wonderland",
   trackType: "studio",
   explicit: false,

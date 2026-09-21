@@ -9,14 +9,6 @@ export const celticWoman2CelebrationDannyBoy2013Version = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "32nusAofV3372piP7Thg8w",
-      externalLink: "https://open.spotify.com/track/32nusAofV3372piP7Thg8w",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Danny Boy - 2013 Version",
   trackType: "version",
   explicit: false,

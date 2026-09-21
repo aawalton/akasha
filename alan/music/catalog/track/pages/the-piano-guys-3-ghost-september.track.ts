@@ -14,14 +14,6 @@ export const thePianoGuys3GhostSeptember = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YhMQUrVVeuTNHfl3nI5QF",
-      externalLink: "https://open.spotify.com/track/3YhMQUrVVeuTNHfl3nI5QF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "September",
   trackType: "studio",
   explicit: false,

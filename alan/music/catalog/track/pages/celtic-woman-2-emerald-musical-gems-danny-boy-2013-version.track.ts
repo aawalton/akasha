@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsDannyBoy2013Version = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "79E0Ru8wBp6vmZmUnEH1DR",
-      externalLink: "https://open.spotify.com/track/79E0Ru8wBp6vmZmUnEH1DR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Danny Boy - 2013 Version",
   trackType: "version",
   explicit: false,

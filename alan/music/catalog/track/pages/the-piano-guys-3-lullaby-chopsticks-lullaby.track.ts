@@ -9,14 +9,6 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1eAhoZnCqxk1sQpptsJWAT",
-      externalLink: "https://open.spotify.com/track/1eAhoZnCqxk1sQpptsJWAT",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Chopsticks Lullaby",
   trackType: "studio",
   explicit: false,

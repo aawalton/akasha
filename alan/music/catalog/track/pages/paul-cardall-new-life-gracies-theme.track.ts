@@ -9,14 +9,6 @@ export const paulCardallNewLifeGraciesTheme = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Pii4GK1kaVUeoxmBB0rUr",
-      externalLink: "https://open.spotify.com/track/6Pii4GK1kaVUeoxmBB0rUr",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gracie's Theme",
   trackType: "studio",
   explicit: false,

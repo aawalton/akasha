@@ -9,14 +9,6 @@ export const imagineDragonsShotsTheFunkHuntersRemixShotsTheFunkHuntersRemix = {
   partOfCollections: ["release/imagine-dragons-shots-the-funk-hunters-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XrUtF4qrDlZBB4Wg9efTP",
-      externalLink: "https://open.spotify.com/track/4XrUtF4qrDlZBB4Wg9efTP",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots - The Funk Hunters Remix",
   trackType: "remix",
   explicit: false,

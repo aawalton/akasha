@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryAPoorWayfaringManOfGrief =
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2gimaTiYFbBUb4Gk0VNnva",
-      externalLink: "https://open.spotify.com/track/2gimaTiYFbBUb4Gk0VNnva",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Poor Wayfaring Man of Grief",
   trackType: "studio",
   explicit: false,

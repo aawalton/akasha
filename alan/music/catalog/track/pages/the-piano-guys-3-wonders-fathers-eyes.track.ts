@@ -9,14 +9,6 @@ export const thePianoGuys3WondersFathersEyes = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12sBT9hQ7GE9X72Nbem1ty",
-      externalLink: "https://open.spotify.com/track/12sBT9hQ7GE9X72Nbem1ty",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Fathers' Eyes",
   trackType: "studio",
   explicit: false,

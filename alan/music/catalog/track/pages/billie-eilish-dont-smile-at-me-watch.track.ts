@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMeWatch = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7eB1V5LvAdxCc7brfGhRRo",
-      externalLink: "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "watch",
   trackType: "studio",
   explicit: false,

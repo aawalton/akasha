@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoGoodbye = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3LgWsmilsrWXiPYQFRD0T7",
-      externalLink: "https://open.spotify.com/track/3LgWsmilsrWXiPYQFRD0T7",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "goodbye",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysGodBeWithYouTillWeMeetAgain = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "30ofseP0dHT7QQsnDVnWA2",
-      externalLink: "https://open.spotify.com/track/30ofseP0dHT7QQsnDVnWA2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Be With You 'Till We Meet Again",
   trackType: "studio",
   explicit: false,

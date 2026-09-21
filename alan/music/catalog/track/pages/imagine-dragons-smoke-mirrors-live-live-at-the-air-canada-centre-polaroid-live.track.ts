@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentrePolaroidLive 
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ix3yloi4ImDqwkN17NUei",
-      externalLink: "https://open.spotify.com/track/2ix3yloi4ImDqwkN17NUei",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Polaroid - Live",
   trackType: "live",
   explicit: false,

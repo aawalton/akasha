@@ -12,14 +12,6 @@ export const coldplayMoonMusicAllMyLove = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6iYxkBHyMpsgVxUgfy5fSx",
-      externalLink: "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "ALL MY LOVE",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsRadioactiveRadioactive = {
   partOfCollections: ["release/imagine-dragons-radioactive"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69yfbpvmkIaB10msnKT7Q5",
-      externalLink: "https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive",
   trackType: "studio",
   explicit: true,

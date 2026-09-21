@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarAveVerumCorpus = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ItK9HfNGVzMYjXNJPXK0n",
-      externalLink: "https://open.spotify.com/track/3ItK9HfNGVzMYjXNJPXK0n",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ave Verum Corpus",
   trackType: "studio",
   explicit: false,

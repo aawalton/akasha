@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarBlessedJesuFountOfMercy = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4RlECzDcXWfGA2Pi7ccZ15",
-      externalLink: "https://open.spotify.com/track/4RlECzDcXWfGA2Pi7ccZ15",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Blessed Jesu, Fount of Mercy",
   trackType: "studio",
   explicit: false,

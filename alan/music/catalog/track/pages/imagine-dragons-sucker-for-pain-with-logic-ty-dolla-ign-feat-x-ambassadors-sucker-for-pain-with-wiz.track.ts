@@ -11,14 +11,6 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadorsSucke
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4dASQiO1Eoo3RJvt74FtXB",
-      externalLink: "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title:
     "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
   trackType: "studio",

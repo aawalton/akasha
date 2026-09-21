@@ -13,14 +13,6 @@ export const auroraADifferentKindOfHumanStepIiTheRiver = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ZsHvQod9SZINFwmrAeQtg",
-      externalLink: "https://open.spotify.com/track/3ZsHvQod9SZINFwmrAeQtg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The River",
   trackType: "studio",
   explicit: false,

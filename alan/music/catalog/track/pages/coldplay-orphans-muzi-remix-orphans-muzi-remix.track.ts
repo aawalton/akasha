@@ -9,14 +9,6 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
   partOfCollections: ["release/coldplay-orphans-muzi-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5x5SYDpamwxXJG675ArNMr",
-      externalLink: "https://open.spotify.com/track/5x5SYDpamwxXJG675ArNMr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Orphans - Muzi Remix",
   trackType: "remix",
   explicit: false,

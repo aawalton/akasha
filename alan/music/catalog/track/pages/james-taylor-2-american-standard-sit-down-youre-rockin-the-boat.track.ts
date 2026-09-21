@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardSitDownYoureRockinTheBoat = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0xRu9IgSv2VuGQ27se3fNZ",
-      externalLink: "https://open.spotify.com/track/0xRu9IgSv2VuGQ27se3fNZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sit Down, You’re Rockin’ The Boat",
   trackType: "studio",
   explicit: false,

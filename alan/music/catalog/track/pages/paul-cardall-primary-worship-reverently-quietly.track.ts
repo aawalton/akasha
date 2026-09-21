@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
   partOfCollections: ["release/paul-cardall-primary-worship", "release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "626e9Py1Awti5VQYrGW7WO",
-      externalLink: "https://open.spotify.com/track/626e9Py1Awti5VQYrGW7WO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Reverently Quietly",
   trackType: "studio",
   explicit: false,

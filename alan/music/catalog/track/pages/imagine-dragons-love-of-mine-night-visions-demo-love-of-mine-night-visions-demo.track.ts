@@ -12,14 +12,6 @@ export const imagineDragonsLoveOfMineNightVisionsDemoLoveOfMineNightVisionsDemo 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4C20SN2nzLbsZbS6A4idoA",
-      externalLink: "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Love Of Mine - Night Visions Demo",
   trackType: "demo",
   explicit: false,

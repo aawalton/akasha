@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55taYRw24dlfSN7MU7ErH2",
-      externalLink: "https://open.spotify.com/track/55taYRw24dlfSN7MU7ErH2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Book of Mormon Stories",
   trackType: "studio",
   explicit: false,

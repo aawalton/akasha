@@ -12,14 +12,6 @@ export const paulCardallGracieSThemeLiveGraciesThemeLive = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jBwOpAeFIiJTfNCX2evJf",
-      externalLink: "https://open.spotify.com/track/7jBwOpAeFIiJTfNCX2evJf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gracie's Theme - Live",
   trackType: "live",
   explicit: false,

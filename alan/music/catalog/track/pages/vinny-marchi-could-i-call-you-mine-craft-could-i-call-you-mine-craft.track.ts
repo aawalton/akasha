@@ -9,14 +9,6 @@ export const vinnyMarchiCouldICallYouMineCraftCouldICallYouMineCraft = {
   partOfCollections: ["release/vinny-marchi-could-i-call-you-mine-craft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15PicWRj00doMuDMZ9QHRU",
-      externalLink: "https://open.spotify.com/track/15PicWRj00doMuDMZ9QHRU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Could I Call You Mine (Craft)",
   trackType: "studio",
   explicit: false,

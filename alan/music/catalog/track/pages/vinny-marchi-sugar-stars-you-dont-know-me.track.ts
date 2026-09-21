@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsYouDontKnowMe = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "687gCgyJRoArwBfmxK7Qcd",
-      externalLink: "https://open.spotify.com/track/687gCgyJRoArwBfmxK7Qcd",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "you don't know me!!",
   trackType: "studio",
   explicit: false,

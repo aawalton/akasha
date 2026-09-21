@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedItsGonnaBeOkay = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6DNVulVDW2tia3ZIpZjcIR",
-      externalLink: "https://open.spotify.com/track/6DNVulVDW2tia3ZIpZjcIR",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "(It's Gonna Be) Okay",
   trackType: "studio",
   explicit: false,

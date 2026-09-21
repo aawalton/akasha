@@ -9,14 +9,6 @@ export const auroraQueendomHarpVersionQueendomHarpVersion = {
   partOfCollections: ["release/aurora-queendom-harp-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4BLPi4X7AeORpjP3yjJq95",
-      externalLink: "https://open.spotify.com/track/4BLPi4X7AeORpjP3yjJq95",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Queendom - Harp Version",
   trackType: "version",
   explicit: false,

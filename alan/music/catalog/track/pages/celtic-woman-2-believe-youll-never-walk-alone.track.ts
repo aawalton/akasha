@@ -9,14 +9,6 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3pgOa0mQoxHo8pcVk3UABi",
-      externalLink: "https://open.spotify.com/track/3pgOa0mQoxHo8pcVk3UABi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You'll Never Walk Alone",
   trackType: "studio",
   explicit: false,

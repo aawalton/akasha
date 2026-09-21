@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarWhenISurveyTheWondrousCross = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4NENozMAHnXJ4Y1wuWS9eP",
-      externalLink: "https://open.spotify.com/track/4NENozMAHnXJ4Y1wuWS9eP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "When I Survey the Wondrous Cross",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionHaveYourselfAMerryLittleChrist
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0wS1neX5YLHnLL0UCSymoQ",
-      externalLink: "https://open.spotify.com/track/0wS1neX5YLHnLL0UCSymoQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayHurtsLikeHeavenHurtsLikeHeaven = {
   partOfCollections: ["release/coldplay-hurts-like-heaven", "release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4iOy0ROl5vKp7hJJ5nblNR",
-      externalLink: "https://open.spotify.com/track/4iOy0ROl5vKp7hJJ5nblNR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Hurts Like Heaven",
   trackType: "studio",
   explicit: false,

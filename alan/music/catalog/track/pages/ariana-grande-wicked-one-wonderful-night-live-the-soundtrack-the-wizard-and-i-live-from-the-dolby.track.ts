@@ -10,14 +10,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "77FVwIjrWlgLEVacsARg3Q",
-      externalLink: "https://open.spotify.com/track/77FVwIjrWlgLEVacsARg3Q",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Wizard And I - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,

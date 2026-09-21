@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeRemixesItsTimeJailbreaksRemix = {
   partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6InHoevC1UiGD9gNyJvX8i",
-      externalLink: "https://open.spotify.com/track/6InHoevC1UiGD9gNyJvX8i",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - JailBreaks Remix",
   trackType: "remix",
   explicit: false,

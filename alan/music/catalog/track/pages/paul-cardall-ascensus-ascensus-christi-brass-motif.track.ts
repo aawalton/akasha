@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiBrassMotif = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wwflvfmLLIoIpS7L9JT9j",
-      externalLink: "https://open.spotify.com/track/7wwflvfmLLIoIpS7L9JT9j",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: Brass Motif",
   trackType: "studio",
   explicit: false,

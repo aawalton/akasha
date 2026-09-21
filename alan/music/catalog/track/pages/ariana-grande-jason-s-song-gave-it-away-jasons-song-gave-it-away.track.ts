@@ -9,14 +9,6 @@ export const arianaGrandeJasonSSongGaveItAwayJasonsSongGaveItAway = {
   partOfCollections: ["release/ariana-grande-jason-s-song-gave-it-away"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3We8H9cfhS7x4hdwBn9vXW",
-      externalLink: "https://open.spotify.com/track/3We8H9cfhS7x4hdwBn9vXW",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Jason's Song (Gave It Away)",
   trackType: "studio",
   explicit: true,

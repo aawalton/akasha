@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasDeckTheHalls = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5RyR98iCSoimGLTMiH3a9t",
-      externalLink: "https://open.spotify.com/track/5RyR98iCSoimGLTMiH3a9t",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Deck The Halls",
   trackType: "studio",
   explicit: false,

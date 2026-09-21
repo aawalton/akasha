@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2BiRBX5shWBv0EK3OkoveU",
-      externalLink: "https://open.spotify.com/track/2BiRBX5shWBv0EK3OkoveU",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Hampstead - instrumental",
   trackType: "instrumental",
   explicit: false,

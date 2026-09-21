@@ -9,14 +9,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionWeAlmostBrokeUpAgain
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69PnLdSIrV0lfKOW2wN551",
-      externalLink: "https://open.spotify.com/track/69PnLdSIrV0lfKOW2wN551",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "We Almost Broke Up Again Last Night",
   trackType: "studio",
   explicit: true,

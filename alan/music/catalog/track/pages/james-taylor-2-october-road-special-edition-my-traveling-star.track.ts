@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionMyTravelingStar = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4WFC5oosVJnVD0hgfx4cM9",
-      externalLink: "https://open.spotify.com/track/4WFC5oosVJnVD0hgfx4cM9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Traveling Star",
   trackType: "studio",
   explicit: false,

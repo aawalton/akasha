@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyWexfordCarol = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27HXHanElzInmh8bOo3eFL",
-      externalLink: "https://open.spotify.com/track/27HXHanElzInmh8bOo3eFL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wexford Carol",
   trackType: "studio",
   explicit: false,

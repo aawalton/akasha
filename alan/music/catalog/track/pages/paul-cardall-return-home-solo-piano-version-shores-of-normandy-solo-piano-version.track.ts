@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7fUvIk2JPkkq6hW91PsPZN",
-      externalLink: "https://open.spotify.com/track/7fUvIk2JPkkq6hW91PsPZN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Shores of Normandy - Solo Piano Version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsCowboyDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1oknqle7RHTz7tQ9CBxPkw",
-      externalLink: "https://open.spotify.com/track/1oknqle7RHTz7tQ9CBxPkw",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cowboy - Demo",
   trackType: "demo",
   explicit: false,

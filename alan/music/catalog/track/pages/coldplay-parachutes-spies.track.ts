@@ -9,14 +9,6 @@ export const coldplayParachutesSpies = {
   partOfCollections: ["release/coldplay-parachutes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2mLgOcRkEgq89j8WstUpui",
-      externalLink: "https://open.spotify.com/track/2mLgOcRkEgq89j8WstUpui",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Spies",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouICanDreamOfYou =
   partOfCollections: ["release/james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7EPUSTgzcXVOTkBIsXjTcz",
-      externalLink: "https://open.spotify.com/track/7EPUSTgzcXVOTkBIsXjTcz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Can Dream of You",
   trackType: "studio",
   explicit: false,

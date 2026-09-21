@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sWhereHaveAllTheChargersGone = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4MaRLnVaGtPbgAajmKtIMO",
-      externalLink: "https://open.spotify.com/track/4MaRLnVaGtPbgAajmKtIMO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Where Have All the Chargers Gone?",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeNightcoreRemix = {
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "742FLNTVra78jxqtu367bW",
-      externalLink: "https://open.spotify.com/track/742FLNTVra78jxqtu367bW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time - Nightcore Remix",
   trackType: "remix",
   explicit: true,

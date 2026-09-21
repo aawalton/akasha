@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsChaChingTillWeGrowOlder = {
   partOfCollections: ["release/imagine-dragons-night-visions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1OppUXF0ZsVATRbEyHOTyA",
-      externalLink: "https://open.spotify.com/track/1OppUXF0ZsVATRbEyHOTyA",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cha-Ching (Till We Grow Older)",
   trackType: "studio",
   explicit: false,

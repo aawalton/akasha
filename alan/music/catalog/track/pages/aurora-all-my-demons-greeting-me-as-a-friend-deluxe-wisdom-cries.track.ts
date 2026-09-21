@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWisdomCries = {
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "73Xm9RNptK7WlNejO494d8",
-      externalLink: "https://open.spotify.com/track/73Xm9RNptK7WlNejO494d8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Wisdom Cries",
   trackType: "studio",
   explicit: false,

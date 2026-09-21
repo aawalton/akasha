@@ -9,14 +9,6 @@ export const sabrinaCarpenterFruitcakeIsItNewYearsYet = {
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48xGcNwekbGcux5rIjKPQM",
-      externalLink: "https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "is it new years yet?",
   trackType: "studio",
   explicit: false,

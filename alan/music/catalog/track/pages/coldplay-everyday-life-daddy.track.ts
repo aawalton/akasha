@@ -9,14 +9,6 @@ export const coldplayEverydayLifeDaddy = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3pcPPhPAiurm2Ior11SHrz",
-      externalLink: "https://open.spotify.com/track/3pcPPhPAiurm2Ior11SHrz",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Daddy",
   trackType: "studio",
   explicit: false,

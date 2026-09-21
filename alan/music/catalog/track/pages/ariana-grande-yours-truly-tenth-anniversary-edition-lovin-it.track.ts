@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionLovinIt = {
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EjLfjUNonstEf9ZED4gce",
-      externalLink: "https://open.spotify.com/track/4EjLfjUNonstEf9ZED4gce",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Lovin' It",
   trackType: "studio",
   explicit: false,

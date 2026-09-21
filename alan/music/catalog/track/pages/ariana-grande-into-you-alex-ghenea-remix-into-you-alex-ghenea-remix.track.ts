@@ -9,14 +9,6 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
   partOfCollections: ["release/ariana-grande-into-you-alex-ghenea-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5SFVZUBkSjXookoHpCYBop",
-      externalLink: "https://open.spotify.com/track/5SFVZUBkSjXookoHpCYBop",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Into You - Alex Ghenea Remix",
   trackType: "remix",
   explicit: false,

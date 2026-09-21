@@ -12,14 +12,6 @@ export const celticWoman2GodRestYeMerryGentlemenGodRestYeMerryGentlemen = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Stw8C62q16ITZRctjljRl",
-      externalLink: "https://open.spotify.com/track/6Stw8C62q16ITZRctjljRl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "God Rest Ye Merry Gentlemen",
   trackType: "studio",
   explicit: false,

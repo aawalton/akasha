@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandTheFrozenManLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0GXJb7j9SUIBh3GBigxj0U",
-      externalLink: "https://open.spotify.com/track/0GXJb7j9SUIBh3GBigxj0U",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Frozen Man - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

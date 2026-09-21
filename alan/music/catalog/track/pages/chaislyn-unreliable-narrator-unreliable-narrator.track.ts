@@ -9,14 +9,6 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4L3QYmuuoqKcxmQUQl48mo",
-      externalLink: "https://open.spotify.com/track/4L3QYmuuoqKcxmQUQl48mo",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Unreliable Narrator",
   trackType: "studio",
   explicit: false,

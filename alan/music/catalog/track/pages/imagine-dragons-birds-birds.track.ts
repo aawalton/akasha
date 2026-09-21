@@ -9,14 +9,6 @@ export const imagineDragonsBirdsBirds = {
   partOfCollections: ["release/imagine-dragons-birds", "release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2DWn3Qnk2MLaKSR2O6BcI6",
-      externalLink: "https://open.spotify.com/track/2DWn3Qnk2MLaKSR2O6BcI6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Birds",
   trackType: "studio",
   explicit: false,

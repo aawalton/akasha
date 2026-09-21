@@ -13,14 +13,6 @@ export const auroraToBeAlrightSomeTypeOfSkin = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6LK189UNYqDcUdCDDYIUNA",
-      externalLink: "https://open.spotify.com/track/6LK189UNYqDcUdCDDYIUNA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Some Type Of Skin",
   trackType: "studio",
   explicit: false,

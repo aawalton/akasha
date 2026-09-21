@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftSkinny = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1CsMKhwEmNnmvHUuO5nryA",
-      externalLink: "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "SKINNY",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLifeInTechnicolor = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rkbMXhEjIytsUGbhoR5pn",
-      externalLink: "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Life in Technicolor",
   trackType: "studio",
   explicit: false,

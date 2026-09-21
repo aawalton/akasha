@@ -9,14 +9,6 @@ export const coldplayMyloXylotoUsAgainstTheWorld = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5zyfzNnBzN7f7PVkJFnW2g",
-      externalLink: "https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Us Against the World",
   trackType: "studio",
   explicit: false,

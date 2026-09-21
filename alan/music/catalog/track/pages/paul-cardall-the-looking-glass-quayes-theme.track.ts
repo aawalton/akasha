@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassQuayesTheme = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "29Hnf236RAcKaL9pUaryDB",
-      externalLink: "https://open.spotify.com/track/29Hnf236RAcKaL9pUaryDB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Quaye's Theme",
   trackType: "studio",
   explicit: false,

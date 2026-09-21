@@ -9,14 +9,6 @@ export const zaraLarssonSpotifySinglesSexualRecordedAtSpotifyStudiosNyc = {
   partOfCollections: ["release/zara-larsson-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7zqLBFKCBkk5IfbgKgH4VZ",
-      externalLink: "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sexual - Recorded at Spotify Studios NYC",
   trackType: "studio",
   explicit: false,

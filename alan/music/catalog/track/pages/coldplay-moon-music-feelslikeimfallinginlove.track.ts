@@ -12,14 +12,6 @@ export const coldplayMoonMusicFeelslikeimfallinginlove = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49S3znqBAQyPyMpEuKeyJ6",
-      externalLink: "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "feelslikeimfallinginlove",
   trackType: "studio",
   explicit: false,

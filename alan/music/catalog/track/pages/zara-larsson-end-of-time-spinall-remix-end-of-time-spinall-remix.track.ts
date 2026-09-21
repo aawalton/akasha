@@ -12,14 +12,6 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WXBYjKws5OWbuZ15F2vQQ",
-      externalLink: "https://open.spotify.com/track/0WXBYjKws5OWbuZ15F2vQQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time - SPINALL Remix",
   trackType: "remix",
   explicit: true,

@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungBabyBoomBaby = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4yl5qTyPSN3277wwzAA9Aq",
-      externalLink: "https://open.spotify.com/track/4yl5qTyPSN3277wwzAA9Aq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Baby Boom Baby",
   trackType: "studio",
   explicit: false,

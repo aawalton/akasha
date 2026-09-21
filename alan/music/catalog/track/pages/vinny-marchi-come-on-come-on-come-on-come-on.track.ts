@@ -9,14 +9,6 @@ export const vinnyMarchiComeOnComeOnComeOnComeOn = {
   partOfCollections: ["release/vinny-marchi-come-on-come-on"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "29rPm1HkHaoKlGGIaD0lXi",
-      externalLink: "https://open.spotify.com/track/29rPm1HkHaoKlGGIaD0lXi",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Come On! Come On!",
   trackType: "studio",
   explicit: false,

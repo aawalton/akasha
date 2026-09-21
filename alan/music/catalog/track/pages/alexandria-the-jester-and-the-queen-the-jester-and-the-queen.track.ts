@@ -9,14 +9,6 @@ export const alexandriaTheJesterAndTheQueenTheJesterAndTheQueen = {
   partOfCollections: ["release/alexandria-the-jester-and-the-queen"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3G3CnxD8B5esKcEML6faW8",
-      externalLink: "https://open.spotify.com/track/3G3CnxD8B5esKcEML6faW8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Jester and The Queen",
   trackType: "studio",
   explicit: false,

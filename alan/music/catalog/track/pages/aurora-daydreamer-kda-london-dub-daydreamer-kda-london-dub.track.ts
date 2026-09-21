@@ -9,14 +9,6 @@ export const auroraDaydreamerKdaLondonDubDaydreamerKdaLondonDub = {
   partOfCollections: ["release/aurora-daydreamer-kda-london-dub"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4LlxfL9RWo5HPvRSOKKfKD",
-      externalLink: "https://open.spotify.com/track/4LlxfL9RWo5HPvRSOKKfKD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Daydreamer - KDA London Dub",
   trackType: "studio",
   explicit: false,

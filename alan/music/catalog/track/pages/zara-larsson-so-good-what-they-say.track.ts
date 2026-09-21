@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodWhatTheySay = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1TOiDnIY8HgPyDLSR08QXq",
-      externalLink: "https://open.spotify.com/track/1TOiDnIY8HgPyDLSR08QXq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "What They Say",
   trackType: "studio",
   explicit: false,

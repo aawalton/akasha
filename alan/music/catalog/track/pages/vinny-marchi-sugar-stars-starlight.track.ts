@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsStarlight = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7zSsJjwbgJ6sSdBWNFUJkS",
-      externalLink: "https://open.spotify.com/track/7zSsJjwbgJ6sSdBWNFUJkS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Starlight",
   trackType: "studio",
   explicit: false,

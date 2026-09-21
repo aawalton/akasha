@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoWhenSheSmiles = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4m81aURCinsOqQ7ggkp43g",
-      externalLink: "https://open.spotify.com/track/4m81aURCinsOqQ7ggkp43g",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "When She Smiles",
   trackType: "studio",
   explicit: false,

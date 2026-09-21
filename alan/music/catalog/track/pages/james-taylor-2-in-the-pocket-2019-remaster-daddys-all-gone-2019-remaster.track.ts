@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterDaddysAllGone2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tMCYSSp63rSTpXYeRQBg8",
-      externalLink: "https://open.spotify.com/track/6tMCYSSp63rSTpXYeRQBg8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Daddy's All Gone - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

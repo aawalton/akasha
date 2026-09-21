@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryRememberMe = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7bsjlbJvQj2oltOVsvkq9B",
-      externalLink: "https://open.spotify.com/track/7bsjlbJvQj2oltOVsvkq9B",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Remember Me",
   trackType: "studio",
   explicit: false,

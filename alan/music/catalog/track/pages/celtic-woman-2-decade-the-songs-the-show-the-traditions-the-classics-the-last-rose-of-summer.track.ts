@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheLastRos
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6UXrLdeXmMGvPTK4cNkgak",
-      externalLink: "https://open.spotify.com/track/6UXrLdeXmMGvPTK4cNkgak",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Last Rose of Summer",
   trackType: "studio",
   explicit: false,

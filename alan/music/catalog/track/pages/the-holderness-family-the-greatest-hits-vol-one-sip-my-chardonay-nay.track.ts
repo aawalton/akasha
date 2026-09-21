@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSipMyChardonayNay = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2qAguyMOcz0osgyCfTRdYK",
-      externalLink: "https://open.spotify.com/track/2qAguyMOcz0osgyCfTRdYK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sip My Chardonay-Nay",
   trackType: "studio",
   explicit: false,

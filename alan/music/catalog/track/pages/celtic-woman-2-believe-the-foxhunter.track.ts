@@ -9,14 +9,6 @@ export const celticWoman2BelieveTheFoxhunter = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "684Lh6Sq5KG7tOMTfWoLA1",
-      externalLink: "https://open.spotify.com/track/684Lh6Sq5KG7tOMTfWoLA1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Foxhunter",
   trackType: "studio",
   explicit: false,

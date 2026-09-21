@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleANewYear = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2GftUnahn7GEETJskPfVj1",
-      externalLink: "https://open.spotify.com/track/2GftUnahn7GEETJskPfVj1",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A New Year",
   trackType: "studio",
   explicit: false,

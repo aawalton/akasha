@@ -9,14 +9,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkin = {
   partOfCollections: ["release/aurora-some-type-of-skin"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4dOsAea74AXaO3cOMhJ41f",
-      externalLink: "https://open.spotify.com/track/4dOsAea74AXaO3cOMhJ41f",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Some Type Of Skin",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandCarolinaInMyMindLiveAtTheColonialTheatre2007 
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Zi2jUaZUAG6h9mvyUxFS1",
-      externalLink: "https://open.spotify.com/track/1Zi2jUaZUAG6h9mvyUxFS1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carolina In My Mind - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

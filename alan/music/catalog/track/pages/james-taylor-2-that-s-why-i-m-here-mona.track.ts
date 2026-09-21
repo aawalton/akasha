@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereMona = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2SQuqDBmNjSB22dFqjkSOP",
-      externalLink: "https://open.spotify.com/track/2SQuqDBmNjSB22dFqjkSOP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mona",
   trackType: "studio",
   explicit: false,

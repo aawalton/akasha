@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sHowMuchLonger = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Xwv6mnZ154QDf59qydBQq",
-      externalLink: "https://open.spotify.com/track/4Xwv6mnZ154QDf59qydBQq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "How Much Longer",
   trackType: "studio",
   explicit: false,

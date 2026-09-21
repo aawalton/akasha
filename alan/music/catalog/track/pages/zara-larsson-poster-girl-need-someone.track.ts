@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlNeedSomeone = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2rXH6dk75hFUjg81BMJYFD",
-      externalLink: "https://open.spotify.com/track/2rXH6dk75hFUjg81BMJYFD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Need Someone",
   trackType: "studio",
   explicit: false,

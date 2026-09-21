@@ -9,14 +9,6 @@ export const arianaGrandeOneLastTimeOneLastTimeInstrumental = {
   partOfCollections: ["release/ariana-grande-one-last-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4VlyINESDLEOklzN6JCQtE",
-      externalLink: "https://open.spotify.com/track/4VlyINESDLEOklzN6JCQtE",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "One Last Time - Instrumental",
   trackType: "instrumental",
   explicit: false,

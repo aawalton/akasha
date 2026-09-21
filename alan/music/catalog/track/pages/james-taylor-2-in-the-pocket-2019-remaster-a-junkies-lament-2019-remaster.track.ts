@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterAJunkiesLament2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NEnkY2bw0TqowThQLsiAZ",
-      externalLink: "https://open.spotify.com/track/6NEnkY2bw0TqowThQLsiAZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "A Junkie's Lament - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

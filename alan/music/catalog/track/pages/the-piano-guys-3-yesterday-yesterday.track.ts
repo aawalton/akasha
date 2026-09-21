@@ -9,14 +9,6 @@ export const thePianoGuys3YesterdayYesterday = {
   partOfCollections: ["release/the-piano-guys-3-yesterday"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4JLEnOgHaQD2yXkoI6iu65",
-      externalLink: "https://open.spotify.com/track/4JLEnOgHaQD2yXkoI6iu65",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Yesterday",
   trackType: "studio",
   explicit: false,

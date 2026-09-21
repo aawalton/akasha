@@ -12,14 +12,6 @@ export const thePianoGuys3WhenYouReGoneTheStoryteller = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "74carSriOwIN8PTWoE9bJ1",
-      externalLink: "https://open.spotify.com/track/74carSriOwIN8PTWoE9bJ1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Storyteller",
   trackType: "studio",
   explicit: false,

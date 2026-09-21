@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAveMaria20
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55xAkealJ5OuJ1osXkOeKX",
-      externalLink: "https://open.spotify.com/track/55xAkealJ5OuJ1osXkOeKX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ave Maria - 2011 Version",
   trackType: "version",
   explicit: false,

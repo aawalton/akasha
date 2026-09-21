@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassAKissOfTheSunlight = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ugj4jTTfq9hdSy61mzSEv",
-      externalLink: "https://open.spotify.com/track/4ugj4jTTfq9hdSy61mzSEv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Kiss Of The Sunlight",
   trackType: "studio",
   explicit: false,

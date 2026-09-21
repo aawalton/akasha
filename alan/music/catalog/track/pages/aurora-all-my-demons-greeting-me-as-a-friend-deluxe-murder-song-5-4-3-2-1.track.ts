@@ -13,14 +13,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3d9K9w8WYhmu0tZarVu0D0",
-      externalLink: "https://open.spotify.com/track/3d9K9w8WYhmu0tZarVu0D0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Murder Song (5, 4, 3, 2, 1)",
   trackType: "studio",
   explicit: false,

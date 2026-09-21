@@ -9,14 +9,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTakeTheReins = {
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ib3QJM5JM2nMWkQpVEkDZ",
-      externalLink: "https://open.spotify.com/track/1ib3QJM5JM2nMWkQpVEkDZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Take The Reins",
   trackType: "studio",
   explicit: false,

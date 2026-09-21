@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandWhereSheepMaySafelyGraze = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1FMHgf3kWpGJ5JjWuTJWBP",
-      externalLink: "https://open.spotify.com/track/1FMHgf3kWpGJ5JjWuTJWBP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Where Sheep May Safely Graze",
   trackType: "studio",
   explicit: false,

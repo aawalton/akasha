@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsRadioactiveLiveLondon
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-london-sessions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7ukrAoAILpGPHaZ9uYmNL0",
-      externalLink: "https://open.spotify.com/track/7ukrAoAILpGPHaZ9uYmNL0",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive - Live London Sessions / 2013",
   trackType: "live",
   explicit: false,

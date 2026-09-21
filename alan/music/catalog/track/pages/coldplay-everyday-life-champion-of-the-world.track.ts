@@ -9,14 +9,6 @@ export const coldplayEverydayLifeChampionOfTheWorld = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6mf7BNgXs8JipPr2QILnyN",
-      externalLink: "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Champion Of The World",
   trackType: "studio",
   explicit: false,

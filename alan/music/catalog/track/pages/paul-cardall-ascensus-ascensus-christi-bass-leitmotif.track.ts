@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiBassLeitmotif = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44dKW6c4XNYt5DxZOcRs30",
-      externalLink: "https://open.spotify.com/track/44dKW6c4XNYt5DxZOcRs30",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: Bass Leitmotif",
   trackType: "studio",
   explicit: false,

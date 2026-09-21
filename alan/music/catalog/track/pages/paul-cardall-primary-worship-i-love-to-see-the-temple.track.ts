@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipILoveToSeeTheTemple = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nH8J4CrISwwvbZL1pTTdY",
-      externalLink: "https://open.spotify.com/track/2nH8J4CrISwwvbZL1pTTdY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Love to See the Temple",
   trackType: "studio",
   explicit: false,

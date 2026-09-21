@@ -9,14 +9,6 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
   partOfCollections: ["release/zara-larsson-i-would-like-r3hab-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6gXTlkZQjtNo5j3Kp86H4G",
-      externalLink: "https://open.spotify.com/track/6gXTlkZQjtNo5j3Kp86H4G",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Would Like - R3hab Remix",
   trackType: "remix",
   explicit: false,

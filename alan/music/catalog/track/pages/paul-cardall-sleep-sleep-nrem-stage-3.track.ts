@@ -9,14 +9,6 @@ export const paulCardallSleepSleepNremStage3 = {
   partOfCollections: ["release/paul-cardall-sleep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2YaTch92r8xyQNUEoBhxk8",
-      externalLink: "https://open.spotify.com/track/2YaTch92r8xyQNUEoBhxk8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sleep NREM Stage 3",
   trackType: "studio",
   explicit: false,

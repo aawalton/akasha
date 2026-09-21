@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextInMyHead = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4T652DlATVHe0jdLKaN3Bw",
-      externalLink: "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "in my head",
   trackType: "studio",
   explicit: true,

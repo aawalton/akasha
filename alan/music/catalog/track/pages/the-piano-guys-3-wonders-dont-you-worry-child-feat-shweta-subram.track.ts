@@ -9,14 +9,6 @@ export const thePianoGuys3WondersDontYouWorryChildFeatShwetaSubram = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7yWWGHEE0BHHcQYl4JPRtJ",
-      externalLink: "https://open.spotify.com/track/7yWWGHEE0BHHcQYl4JPRtJ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Don't You Worry Child (feat. Shweta Subram)",
   trackType: "studio",
   explicit: false,

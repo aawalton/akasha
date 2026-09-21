@@ -13,14 +13,6 @@ export const zaraLarssonCrushCrush = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "79bteG47Ms3rUa9TTxhTzF",
-      externalLink: "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Crush",
   trackType: "studio",
   explicit: false,

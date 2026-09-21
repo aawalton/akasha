@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyRiver = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2kxvGpoIGigmYlbfClY49N",
-      externalLink: "https://open.spotify.com/track/2kxvGpoIGigmYlbfClY49N",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "River",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsCarolOfTheBells = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3pvJZWw19gTR7143IAYG7P",
-      externalLink: "https://open.spotify.com/track/3pvJZWw19gTR7143IAYG7P",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Carol of the Bells",
   trackType: "studio",
   explicit: false,

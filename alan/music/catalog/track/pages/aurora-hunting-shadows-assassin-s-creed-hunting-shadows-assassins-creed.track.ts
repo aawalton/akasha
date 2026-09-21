@@ -9,14 +9,6 @@ export const auroraHuntingShadowsAssassinSCreedHuntingShadowsAssassinsCreed = {
   partOfCollections: ["release/aurora-hunting-shadows-assassin-s-creed"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aYGPbw7A1JKDuXyuSMQ4Z",
-      externalLink: "https://open.spotify.com/track/1aYGPbw7A1JKDuXyuSMQ4Z",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hunting Shadows (Assassin's Creed)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeWorkingMan = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3uEBqk1He7OF8ATW7mxWT9",
-      externalLink: "https://open.spotify.com/track/3uEBqk1He7OF8ATW7mxWT9",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Working Man",
   trackType: "studio",
   explicit: false,

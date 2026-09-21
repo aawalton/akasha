@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFieldsOfGo
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Fpsx72oxur3RVwrVEYLiY",
-      externalLink: "https://open.spotify.com/track/1Fpsx72oxur3RVwrVEYLiY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fields of Gold",
   trackType: "studio",
   explicit: false,

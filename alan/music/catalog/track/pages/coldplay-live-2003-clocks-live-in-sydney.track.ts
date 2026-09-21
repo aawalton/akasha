@@ -9,14 +9,6 @@ export const coldplayLive2003ClocksLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cYgC50pVnjPKuh6b0xmZk",
-      externalLink: "https://open.spotify.com/track/3cYgC50pVnjPKuh6b0xmZk",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Clocks - Live in Sydney",
   trackType: "live",
   explicit: false,

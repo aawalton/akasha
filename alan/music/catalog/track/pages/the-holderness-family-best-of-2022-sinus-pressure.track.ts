@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022SinusPressure = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2cOq2mChaXpgGezttfiRkd",
-      externalLink: "https://open.spotify.com/track/2cOq2mChaXpgGezttfiRkd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sinus Pressure",
   trackType: "studio",
   explicit: false,

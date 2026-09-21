@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionGoodKingWenceslas = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6kKEPdC4HgpDLbkequtfzQ",
-      externalLink: "https://open.spotify.com/track/6kKEPdC4HgpDLbkequtfzQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Good King Wenceslas",
   trackType: "studio",
   explicit: false,

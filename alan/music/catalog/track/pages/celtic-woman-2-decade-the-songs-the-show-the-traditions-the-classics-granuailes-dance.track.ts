@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGranuailes
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5g4ojnCYRDPAyVEfZGPQqd",
-      externalLink: "https://open.spotify.com/track/5g4ojnCYRDPAyVEfZGPQqd",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Granuaile's Dance",
   trackType: "studio",
   explicit: false,

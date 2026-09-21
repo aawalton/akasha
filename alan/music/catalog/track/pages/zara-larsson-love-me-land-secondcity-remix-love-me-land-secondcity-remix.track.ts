@@ -9,14 +9,6 @@ export const zaraLarssonLoveMeLandSecondcityRemixLoveMeLandSecondcityRemix = {
   partOfCollections: ["release/zara-larsson-love-me-land-secondcity-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XA5uUJ8ECfg44THvRpIds",
-      externalLink: "https://open.spotify.com/track/4XA5uUJ8ECfg44THvRpIds",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Love Me Land - Secondcity Remix",
   trackType: "remix",
   explicit: false,

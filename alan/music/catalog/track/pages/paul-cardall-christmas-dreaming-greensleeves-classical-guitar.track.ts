@@ -9,14 +9,6 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48S0eiHKHZ9UghvRTnCCKB",
-      externalLink: "https://open.spotify.com/track/48S0eiHKHZ9UghvRTnCCKB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Greensleeves - Classical Guitar",
   trackType: "studio",
   explicit: false,

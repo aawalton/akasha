@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Sirens = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3IkEM7cjZ8FZtmVFq1q03c",
-      externalLink: "https://open.spotify.com/track/3IkEM7cjZ8FZtmVFq1q03c",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Sirens",
   trackType: "studio",
   explicit: false,

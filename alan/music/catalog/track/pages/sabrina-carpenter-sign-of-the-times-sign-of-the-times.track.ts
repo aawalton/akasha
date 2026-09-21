@@ -9,14 +9,6 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
   partOfCollections: ["release/sabrina-carpenter-sign-of-the-times"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3h0RJYaohnvXg5SmWD1dZF",
-      externalLink: "https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sign of the Times",
   trackType: "studio",
   explicit: false,

@@ -14,14 +14,6 @@ export const thePianoGuys310Perfect = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6qCPoeANdkJhsHlqyl37X7",
-      externalLink: "https://open.spotify.com/track/6qCPoeANdkJhsHlqyl37X7",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Perfect",
   trackType: "studio",
   explicit: false,

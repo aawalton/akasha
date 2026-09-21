@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsTheNewGround = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cNnzEh2kxYLQtF56E6ofU",
-      externalLink: "https://open.spotify.com/track/3cNnzEh2kxYLQtF56E6ofU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The New Ground",
   trackType: "studio",
   explicit: false,

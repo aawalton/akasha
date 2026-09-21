@@ -9,14 +9,6 @@ export const jamesTaylor2CoversSadie = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zo20NxWO8ZbcYpwSFykRo",
-      externalLink: "https://open.spotify.com/track/0zo20NxWO8ZbcYpwSFykRo",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sadie",
   trackType: "studio",
   explicit: false,

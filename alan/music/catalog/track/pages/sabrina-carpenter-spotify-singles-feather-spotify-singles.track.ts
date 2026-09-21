@@ -9,14 +9,6 @@ export const sabrinaCarpenterSpotifySinglesFeatherSpotifySingles = {
   partOfCollections: ["release/sabrina-carpenter-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2l6lCBL8egSBfL4ih4KtKk",
-      externalLink: "https://open.spotify.com/track/2l6lCBL8egSBfL4ih4KtKk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Feather - Spotify Singles",
   trackType: "studio",
   explicit: true,

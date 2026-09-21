@@ -9,14 +9,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveWeCantBeFriends
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ozhji2Nka62WG9XnjcKvN",
-      externalLink: "https://open.spotify.com/track/5ozhji2Nka62WG9XnjcKvN",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "we can’t be friends (wait for your love) - live version",
   trackType: "live",
   explicit: false,

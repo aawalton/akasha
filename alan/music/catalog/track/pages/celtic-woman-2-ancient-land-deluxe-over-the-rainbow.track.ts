@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeOverTheRainbow = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "52uWFLwaEzpWBhLT5BWIKv",
-      externalLink: "https://open.spotify.com/track/52uWFLwaEzpWBhLT5BWIKv",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Over The Rainbow",
   trackType: "studio",
   explicit: false,

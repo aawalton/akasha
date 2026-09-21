@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadClocks = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head", "release/coldplay-clocks"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0BCPKOYdS2jbQ8iyB56Zns",
-      externalLink: "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Clocks",
   trackType: "studio",
   explicit: false,

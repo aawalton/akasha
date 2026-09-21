@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeFollowMe = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12qoDstHWzwTjogD1NvCIh",
-      externalLink: "https://open.spotify.com/track/12qoDstHWzwTjogD1NvCIh",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Follow Me",
   trackType: "studio",
   explicit: false,

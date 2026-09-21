@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleSleepingFlowers = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0I4B7VNDyv1kazcvnQFl5c",
-      externalLink: "https://open.spotify.com/track/0I4B7VNDyv1kazcvnQFl5c",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sleeping Flowers",
   trackType: "studio",
   explicit: false,

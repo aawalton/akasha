@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSkyAndTheDawnAn
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6i6ZXAJwrZU3Xq2xRO8bll",
-      externalLink: "https://open.spotify.com/track/6i6ZXAJwrZU3Xq2xRO8bll",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Sky And The Dawn And The Sun",
   trackType: "studio",
   explicit: false,

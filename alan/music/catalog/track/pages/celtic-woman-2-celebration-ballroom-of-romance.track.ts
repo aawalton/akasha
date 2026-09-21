@@ -9,14 +9,6 @@ export const celticWoman2CelebrationBallroomOfRomance = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3nQtFJNSGwEKPDtExs6YEg",
-      externalLink: "https://open.spotify.com/track/3nQtFJNSGwEKPDtExs6YEg",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ballroom Of Romance",
   trackType: "studio",
   explicit: false,

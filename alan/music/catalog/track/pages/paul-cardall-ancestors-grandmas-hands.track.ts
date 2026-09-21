@@ -9,14 +9,6 @@ export const paulCardallAncestorsGrandmasHands = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3yNQEDNdK54AoPuRq5ov3M",
-      externalLink: "https://open.spotify.com/track/3yNQEDNdK54AoPuRq5ov3M",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Grandma's Hands",
   trackType: "studio",
   explicit: false,

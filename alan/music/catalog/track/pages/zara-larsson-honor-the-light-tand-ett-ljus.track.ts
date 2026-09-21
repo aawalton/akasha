@@ -9,14 +9,6 @@ export const zaraLarssonHonorTheLightTandEttLjus = {
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1kdYhWxuJXPFKJgxrk1Q7v",
-      externalLink: "https://open.spotify.com/track/1kdYhWxuJXPFKJgxrk1Q7v",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Tänd Ett Ljus",
   trackType: "studio",
   explicit: false,

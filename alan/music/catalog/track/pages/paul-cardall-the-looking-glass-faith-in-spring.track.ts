@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassFaithInSpring = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "28DUyTFjufXwQE961pinzv",
-      externalLink: "https://open.spotify.com/track/28DUyTFjufXwQE961pinzv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Faith In Spring",
   trackType: "studio",
   explicit: false,

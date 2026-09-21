@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanSiulilARun = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "31cqpHjzkace8Yyd190A62",
-      externalLink: "https://open.spotify.com/track/31cqpHjzkace8Yyd190A62",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Siulil A Run",
   trackType: "studio",
   explicit: false,

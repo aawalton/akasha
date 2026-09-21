@@ -9,14 +9,6 @@ export const thePianoGuys3ChillAbrahamLincolnTribute = {
   partOfCollections: ["release/the-piano-guys-3-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ahakOtTjLhMkHU3nRqkmV",
-      externalLink: "https://open.spotify.com/track/2ahakOtTjLhMkHU3nRqkmV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Abraham Lincoln Tribute",
   trackType: "studio",
   explicit: false,

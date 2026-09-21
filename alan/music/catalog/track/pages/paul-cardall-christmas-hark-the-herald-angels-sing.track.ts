@@ -9,14 +9,6 @@ export const paulCardallChristmasHarkTheHeraldAngelsSing = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3GmEeSXzkh2DcbYvFUDfcY",
-      externalLink: "https://open.spotify.com/track/3GmEeSXzkh2DcbYvFUDfcY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hark! the Herald Angels Sing",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyTheSkyAndTheDawnAndTheSun = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2YgW2VVOwQItMkKW07fMt8",
-      externalLink: "https://open.spotify.com/track/2YgW2VVOwQItMkKW07fMt8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Sky And The Dawn And The Sun",
   trackType: "studio",
   explicit: false,

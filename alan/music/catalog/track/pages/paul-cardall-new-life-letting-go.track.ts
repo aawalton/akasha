@@ -9,14 +9,6 @@ export const paulCardallNewLifeLettingGo = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44JW4kGBjjk2FHBCfG1omq",
-      externalLink: "https://open.spotify.com/track/44JW4kGBjjk2FHBCfG1omq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Letting Go",
   trackType: "studio",
   explicit: false,

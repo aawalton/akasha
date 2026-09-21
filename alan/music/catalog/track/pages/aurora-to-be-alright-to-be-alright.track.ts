@@ -13,14 +13,6 @@ export const auroraToBeAlrightToBeAlright = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5E0mDkJAiKziakTFbCjaaT",
-      externalLink: "https://open.spotify.com/track/5E0mDkJAiKziakTFbCjaaT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "To Be Alright",
   trackType: "studio",
   explicit: false,

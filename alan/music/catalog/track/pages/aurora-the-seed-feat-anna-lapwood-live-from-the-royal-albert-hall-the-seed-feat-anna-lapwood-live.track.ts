@@ -9,14 +9,6 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHallTheSeedFeatAn
   partOfCollections: ["release/aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ZIrqTBi8YQm8enTk5NNiJ",
-      externalLink: "https://open.spotify.com/track/2ZIrqTBi8YQm8enTk5NNiJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Seed (feat. Anna Lapwood) - Live from the Royal Albert Hall",
   trackType: "live",
   explicit: false,

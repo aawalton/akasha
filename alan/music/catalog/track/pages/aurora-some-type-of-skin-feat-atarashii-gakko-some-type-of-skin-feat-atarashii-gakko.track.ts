@@ -12,14 +12,6 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KUSXRkYdYI4nQDLrwQNrZ",
-      externalLink: "https://open.spotify.com/track/7KUSXRkYdYI4nQDLrwQNrZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChillCollectionFaithful = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TqOBiHHErkTxQG9ViFnOQ",
-      externalLink: "https://open.spotify.com/track/6TqOBiHHErkTxQG9ViFnOQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Faithful",
   trackType: "studio",
   explicit: false,

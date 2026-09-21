@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionStillStillStill = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0y29ZbNpUfIyiZt6cGNGOh",
-      externalLink: "https://open.spotify.com/track/0y29ZbNpUfIyiZt6cGNGOh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Still, Still, Still",
   trackType: "studio",
   explicit: false,

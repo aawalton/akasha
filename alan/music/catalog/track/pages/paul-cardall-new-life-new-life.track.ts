@@ -9,14 +9,6 @@ export const paulCardallNewLifeNewLife = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65jYrSodnJTrBVTD67e5Y3",
-      externalLink: "https://open.spotify.com/track/65jYrSodnJTrBVTD67e5Y3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "New Life",
   trackType: "studio",
   explicit: false,

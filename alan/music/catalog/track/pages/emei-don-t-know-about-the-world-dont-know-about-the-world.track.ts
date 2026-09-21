@@ -13,14 +13,6 @@ export const emeiDonTKnowAboutTheWorldDontKnowAboutTheWorld = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "76M8uxD1WvL0H4h2Jv8Fm5",
-      externalLink: "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Don't Know About The World",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsVoxMatris = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6nOU97dwMTIdACrvQxF0DI",
-      externalLink: "https://open.spotify.com/track/6nOU97dwMTIdACrvQxF0DI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Vox Matris",
   trackType: "studio",
   explicit: false,

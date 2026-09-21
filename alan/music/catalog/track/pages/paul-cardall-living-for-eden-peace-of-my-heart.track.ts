@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenPeaceOfMyHeart = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1lF2ZATmKEQyad1QQMnlcD",
-      externalLink: "https://open.spotify.com/track/1lF2ZATmKEQyad1QQMnlcD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Peace Of My Heart",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayTheBlueRoomSuchARush = {
   partOfCollections: ["release/coldplay-the-blue-room"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3c1NaLIIBoFof2nrDeUlc1",
-      externalLink: "https://open.spotify.com/track/3c1NaLIIBoFof2nrDeUlc1",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Such a Rush",
   trackType: "studio",
   explicit: false,

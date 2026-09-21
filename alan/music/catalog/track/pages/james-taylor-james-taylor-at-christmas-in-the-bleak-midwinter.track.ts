@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasInTheBleakMidwinter = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cGF0agMmTUIXcvJf22YWb",
-      externalLink: "https://open.spotify.com/track/3cGF0agMmTUIXcvJf22YWb",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "In The Bleak Midwinter",
   trackType: "studio",
   explicit: false,

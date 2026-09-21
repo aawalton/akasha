@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeMoorloughShore = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0FCsaydqqqwZ34KZVHxPpv",
-      externalLink: "https://open.spotify.com/track/0FCsaydqqqwZ34KZVHxPpv",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Moorlough Shore",
   trackType: "studio",
   explicit: false,

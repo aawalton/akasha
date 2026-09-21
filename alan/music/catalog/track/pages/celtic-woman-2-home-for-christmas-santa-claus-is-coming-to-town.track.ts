@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasSantaClausIsComingToTown = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1bk61Zg7tK0UVDVdypdFPj",
-      externalLink: "https://open.spotify.com/track/1bk61Zg7tK0UVDVdypdFPj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Santa Claus Is Coming To Town",
   trackType: "studio",
   explicit: false,

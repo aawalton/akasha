@@ -9,14 +9,6 @@ export const celticWoman2DestinyTirNaNog = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6obm5ubZCFaxTw44EonarI",
-      externalLink: "https://open.spotify.com/track/6obm5ubZCFaxTw44EonarI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Tír na nÓg",
   trackType: "studio",
   explicit: false,

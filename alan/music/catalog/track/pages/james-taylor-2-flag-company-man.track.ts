@@ -9,14 +9,6 @@ export const jamesTaylor2FlagCompanyMan = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7EaGgLksAtCzApLfPxJjtS",
-      externalLink: "https://open.spotify.com/track/7EaGgLksAtCzApLfPxJjtS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Company Man",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterSongOfYourLifeFinale = {
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4c995nlzuqdUoGDZhc6wzU",
-      externalLink: "https://open.spotify.com/track/4c995nlzuqdUoGDZhc6wzU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Song of Your Life (Finale)",
   trackType: "studio",
   explicit: false,

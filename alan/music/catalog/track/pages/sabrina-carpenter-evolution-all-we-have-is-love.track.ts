@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionAllWeHaveIsLove = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4WFWvM4zjMgjQxmP21ezfO",
-      externalLink: "https://open.spotify.com/track/4WFWvM4zjMgjQxmP21ezfO",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "All We Have Is Love",
   trackType: "studio",
   explicit: false,

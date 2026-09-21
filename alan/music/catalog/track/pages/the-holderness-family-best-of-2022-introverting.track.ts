@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022Introverting = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ou5fNLX5kKRJbVs7kaH0i",
-      externalLink: "https://open.spotify.com/track/3ou5fNLX5kKRJbVs7kaH0i",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Introverting",
   trackType: "studio",
   explicit: false,

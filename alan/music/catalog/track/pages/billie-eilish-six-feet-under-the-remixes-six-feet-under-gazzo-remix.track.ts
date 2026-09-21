@@ -9,14 +9,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderGazzoRemix = {
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3UHa28GclZhNqqlaNFzKKY",
-      externalLink: "https://open.spotify.com/track/3UHa28GclZhNqqlaNFzKKY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Six Feet Under - Gazzo Remix",
   trackType: "remix",
   explicit: false,

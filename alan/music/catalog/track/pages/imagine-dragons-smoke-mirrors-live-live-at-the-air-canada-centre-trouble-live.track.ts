@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreTroubleLive =
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0997u8THqdtNZD1QOHnwTv",
-      externalLink: "https://open.spotify.com/track/0997u8THqdtNZD1QOHnwTv",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Trouble - Live",
   trackType: "live",
   explicit: false,

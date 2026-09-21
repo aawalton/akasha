@@ -12,14 +12,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4jwPNgd0ux1wE4TgETVIT3",
-      externalLink: "https://open.spotify.com/track/4jwPNgd0ux1wE4TgETVIT3",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Problem",
   trackType: "studio",
   explicit: false,

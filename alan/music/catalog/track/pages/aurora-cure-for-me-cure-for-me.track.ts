@@ -9,14 +9,6 @@ export const auroraCureForMeCureForMe = {
   partOfCollections: ["release/aurora-cure-for-me", "release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5suiloWwRiQdhFeb9YSGQT",
-      externalLink: "https://open.spotify.com/track/5suiloWwRiQdhFeb9YSGQT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Cure For Me",
   trackType: "studio",
   explicit: false,

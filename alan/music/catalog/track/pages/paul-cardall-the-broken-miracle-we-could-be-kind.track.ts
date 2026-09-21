@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleWeCouldBeKind = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6m5zkdFC91eeX8lcXZt1vn",
-      externalLink: "https://open.spotify.com/track/6m5zkdFC91eeX8lcXZt1vn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "We Could Be Kind",
   trackType: "studio",
   explicit: false,

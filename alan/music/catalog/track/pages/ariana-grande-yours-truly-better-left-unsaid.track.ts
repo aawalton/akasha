@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyBetterLeftUnsaid = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Pnny78GESkBSLnxFmhRYZ",
-      externalLink: "https://open.spotify.com/track/5Pnny78GESkBSLnxFmhRYZ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Better Left Unsaid",
   trackType: "studio",
   explicit: false,

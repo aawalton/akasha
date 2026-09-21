@@ -9,14 +9,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterBearDontCareInterlude = {
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "491lRV7SaUL1sW04GzjMRe",
-      externalLink: "https://open.spotify.com/track/491lRV7SaUL1sW04GzjMRe",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bear Don't Care (Interlude)",
   trackType: "studio",
   explicit: false,

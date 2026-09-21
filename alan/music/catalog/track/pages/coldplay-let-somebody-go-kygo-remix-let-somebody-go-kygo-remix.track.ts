@@ -12,14 +12,6 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGoKygoRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "31JwHrEcDWkilfTkFZlKNr",
-      externalLink: "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Let Somebody Go - Kygo Remix",
   trackType: "remix",
   explicit: false,

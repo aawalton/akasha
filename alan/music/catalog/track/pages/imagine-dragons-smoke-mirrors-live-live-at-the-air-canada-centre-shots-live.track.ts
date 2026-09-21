@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreShotsLive = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4gBUrbxn9OG01nHmD4ExG0",
-      externalLink: "https://open.spotify.com/track/4gBUrbxn9OG01nHmD4ExG0",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots - Live",
   trackType: "live",
   explicit: false,

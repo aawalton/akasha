@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreThiefLive = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4X0A7YUETkhn9On4OzVJqc",
-      externalLink: "https://open.spotify.com/track/4X0A7YUETkhn9On4OzVJqc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thief - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenBestThingIGot = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "66g4mn8jSks0Hu1zEcc81G",
-      externalLink: "https://open.spotify.com/track/66g4mn8jSks0Hu1zEcc81G",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Best Thing I Got",
   trackType: "studio",
   explicit: false,

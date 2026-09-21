@@ -9,14 +9,6 @@ export const jamesTaylor2FlagUpOnTheRoof = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2mFTBNC08f6Jfre31ynXlw",
-      externalLink: "https://open.spotify.com/track/2mFTBNC08f6Jfre31ynXlw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Up On The Roof",
   trackType: "studio",
   explicit: false,

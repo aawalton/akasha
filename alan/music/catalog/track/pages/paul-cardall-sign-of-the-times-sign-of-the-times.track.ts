@@ -9,14 +9,6 @@ export const paulCardallSignOfTheTimesSignOfTheTimes = {
   partOfCollections: ["release/paul-cardall-sign-of-the-times"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6zoDUTcV8tJ0UOCYGuQSPT",
-      externalLink: "https://open.spotify.com/track/6zoDUTcV8tJ0UOCYGuQSPT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sign of the Times",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraMechuleDogruKarlarUlkesi2MechuleDogruKarlarUlkesi2 = {
   partOfCollections: ["release/aurora-mechule-dogru-karlar-ulkesi-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6jzD6GYJTxHZOsknJGDzlf",
-      externalLink: "https://open.spotify.com/track/6jzD6GYJTxHZOsknJGDzlf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Meçhule Doğru - Karlar Ülkesi 2",
   trackType: "studio",
   explicit: false,

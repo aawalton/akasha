@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Lonely = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1VMBapbhHidf6ALFszT7w1",
-      externalLink: "https://open.spotify.com/track/1VMBapbhHidf6ALFszT7w1",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Lonely",
   trackType: "studio",
   explicit: false,

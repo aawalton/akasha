@@ -9,14 +9,6 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
   partOfCollections: ["release/ariana-grande-met-him-last-night"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "71NBvIYtWygMmp7XgQXbvz",
-      externalLink: "https://open.spotify.com/track/71NBvIYtWygMmp7XgQXbvz",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Met Him Last Night",
   trackType: "studio",
   explicit: true,

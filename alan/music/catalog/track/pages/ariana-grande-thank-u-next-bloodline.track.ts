@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextBloodline = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2hloaUoRonYssMuqLCBLTX",
-      externalLink: "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "bloodline",
   trackType: "studio",
   explicit: true,

@@ -12,14 +12,6 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3JbXpyrMyRAI6SoV8a87Bs",
-      externalLink: "https://open.spotify.com/track/3JbXpyrMyRAI6SoV8a87Bs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Forgotten Love - Claptone Extended Remix",
   trackType: "remix",
   explicit: false,

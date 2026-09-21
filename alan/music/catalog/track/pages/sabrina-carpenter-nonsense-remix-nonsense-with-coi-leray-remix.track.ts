@@ -9,14 +9,6 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
   partOfCollections: ["release/sabrina-carpenter-nonsense-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0DD4vkP9qDiej99eUCG4jC",
-      externalLink: "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Nonsense (with Coi Leray) - Remix",
   trackType: "remix",
   explicit: true,

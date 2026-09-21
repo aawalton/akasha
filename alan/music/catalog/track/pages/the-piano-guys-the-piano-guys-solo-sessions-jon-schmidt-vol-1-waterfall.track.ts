@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Waterfall = {
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NEiZJnTplS7AiLrw4XZkH",
-      externalLink: "https://open.spotify.com/track/6NEiZJnTplS7AiLrw4XZkH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Waterfall",
   trackType: "studio",
   explicit: false,

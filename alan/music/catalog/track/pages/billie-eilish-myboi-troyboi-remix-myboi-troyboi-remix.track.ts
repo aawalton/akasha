@@ -9,14 +9,6 @@ export const billieEilishMyboiTroyboiRemixMyboiTroyboiRemix = {
   partOfCollections: ["release/billie-eilish-myboi-troyboi-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1T3E8z6VMXSsACrBSQHTkN",
-      externalLink: "https://open.spotify.com/track/1T3E8z6VMXSsACrBSQHTkN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "MyBoi - TroyBoi Remix",
   trackType: "remix",
   explicit: false,

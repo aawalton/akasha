@@ -12,14 +12,6 @@ export const thePianoGuys3LullabyRowRowRowYourBoat = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0p9KHrE7ztrxx5YUa9u821",
-      externalLink: "https://open.spotify.com/track/0p9KHrE7ztrxx5YUa9u821",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Row Row Row Your Boat",
   trackType: "studio",
   explicit: false,

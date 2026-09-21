@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyDaydreamin = {
   partOfCollections: ["release/ariana-grande-yours-truly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7c86ULTZD9eNdAbJDQLRaC",
-      externalLink: "https://open.spotify.com/track/7c86ULTZD9eNdAbJDQLRaC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Daydreamin'",
   trackType: "studio",
   explicit: false,

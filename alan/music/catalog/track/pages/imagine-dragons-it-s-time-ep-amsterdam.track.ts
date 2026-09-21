@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpAmsterdam = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1bWB2ghKfcXTUGV7wy3ukQ",
-      externalLink: "https://open.spotify.com/track/1bWB2ghKfcXTUGV7wy3ukQ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Amsterdam",
   trackType: "studio",
   explicit: false,

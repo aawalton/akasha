@@ -12,14 +12,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "42M35GsUidMAgXfH1mPUa3",
-      externalLink: "https://open.spotify.com/track/42M35GsUidMAgXfH1mPUa3",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Live London Sessions / 2013",
   trackType: "live",
   explicit: false,

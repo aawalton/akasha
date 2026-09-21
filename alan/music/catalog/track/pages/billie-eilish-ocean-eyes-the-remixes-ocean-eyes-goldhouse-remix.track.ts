@@ -9,14 +9,6 @@ export const billieEilishOceanEyesTheRemixesOceanEyesGoldhouseRemix = {
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1JbuC7uZm0P1PyX7N7gDEM",
-      externalLink: "https://open.spotify.com/track/1JbuC7uZm0P1PyX7N7gDEM",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ocean Eyes - GOLDHOUSE Remix",
   trackType: "remix",
   explicit: false,

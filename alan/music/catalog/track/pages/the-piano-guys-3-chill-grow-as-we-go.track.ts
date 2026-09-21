@@ -9,14 +9,6 @@ export const thePianoGuys3ChillGrowAsWeGo = {
   partOfCollections: ["release/the-piano-guys-3-chill", "release/the-piano-guys-autumn-on-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "631NzqPL2I4XHsK76E9390",
-      externalLink: "https://open.spotify.com/track/631NzqPL2I4XHsK76E9390",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Grow As We Go",
   trackType: "studio",
   explicit: false,

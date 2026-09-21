@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNonCePiu =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3krhDuoSwDBli8vcqX6RLy",
-      externalLink: "https://open.spotify.com/track/3krhDuoSwDBli8vcqX6RLy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Non C'è Più",
   trackType: "studio",
   explicit: false,

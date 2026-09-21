@@ -9,14 +9,6 @@ export const sabrinaCarpenterSmokeAndFireSmokeAndFire = {
   partOfCollections: ["release/sabrina-carpenter-smoke-and-fire"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "67zT3NI4tTOj8GreXetF6s",
-      externalLink: "https://open.spotify.com/track/67zT3NI4tTOj8GreXetF6s",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Smoke and Fire",
   trackType: "studio",
   explicit: false,

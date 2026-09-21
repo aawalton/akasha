@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarComeThouFoundOfEveryBlessing = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1bzTvyPvR3pBpLgBR9hd9O",
-      externalLink: "https://open.spotify.com/track/1bzTvyPvR3pBpLgBR9hd9O",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come Thou Found of Every Blessing",
   trackType: "studio",
   explicit: false,

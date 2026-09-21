@@ -9,14 +9,6 @@ export const sabrinaCarpenterSueMeRemixesSueMe6amRemix = {
   partOfCollections: ["release/sabrina-carpenter-sue-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4vjhSnvgxQPPg1G3ekSTBZ",
-      externalLink: "https://open.spotify.com/track/4vjhSnvgxQPPg1G3ekSTBZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sue Me - 6am Remix",
   trackType: "remix",
   explicit: false,

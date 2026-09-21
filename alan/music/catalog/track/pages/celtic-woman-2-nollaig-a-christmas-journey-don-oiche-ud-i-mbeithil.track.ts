@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyDonOicheUdIMbeithil = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0rtHgHce5T8ykRlbq8UUKn",
-      externalLink: "https://open.spotify.com/track/0rtHgHce5T8ykRlbq8UUKn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don Oíche Úd i mBeithil",
   trackType: "studio",
   explicit: false,

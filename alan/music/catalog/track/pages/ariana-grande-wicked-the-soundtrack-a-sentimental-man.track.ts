@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackASentimentalMan = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7nj1vXAUfwiojuj0tNrEbp",
-      externalLink: "https://open.spotify.com/track/7nj1vXAUfwiojuj0tNrEbp",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "A Sentimental Man",
   trackType: "studio",
   explicit: false,

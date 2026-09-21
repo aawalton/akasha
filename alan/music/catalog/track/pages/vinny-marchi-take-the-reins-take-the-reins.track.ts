@@ -9,14 +9,6 @@ export const vinnyMarchiTakeTheReinsTakeTheReins = {
   partOfCollections: ["release/vinny-marchi-take-the-reins"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3T5qpu2NWLeKFobTBKpapI",
-      externalLink: "https://open.spotify.com/track/3T5qpu2NWLeKFobTBKpapI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Take The Reins",
   trackType: "studio",
   explicit: false,

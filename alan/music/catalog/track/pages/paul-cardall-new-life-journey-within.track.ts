@@ -9,14 +9,6 @@ export const paulCardallNewLifeJourneyWithin = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4AUxtPG7iQogzKibwivfe8",
-      externalLink: "https://open.spotify.com/track/4AUxtPG7iQogzKibwivfe8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Journey Within",
   trackType: "studio",
   explicit: false,

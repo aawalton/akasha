@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourIFeelTheEarthMoveLiveAtTheTroubadour
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ofc2V7Fxcso5CjReIPggZ",
-      externalLink: "https://open.spotify.com/track/2ofc2V7Fxcso5CjReIPggZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Feel The Earth Move - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

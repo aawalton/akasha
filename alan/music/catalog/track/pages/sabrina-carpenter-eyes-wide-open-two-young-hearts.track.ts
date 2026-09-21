@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenTwoYoungHearts = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "47hRbUwwBU3E2wyIA8OE4x",
-      externalLink: "https://open.spotify.com/track/47hRbUwwBU3E2wyIA8OE4x",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Two Young Hearts",
   trackType: "studio",
   explicit: false,

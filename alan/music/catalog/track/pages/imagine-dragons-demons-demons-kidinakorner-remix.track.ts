@@ -9,14 +9,6 @@ export const imagineDragonsDemonsDemonsKidinakornerRemix = {
   partOfCollections: ["release/imagine-dragons-demons"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2YS3X3BH1P0L4jsge27CUC",
-      externalLink: "https://open.spotify.com/track/2YS3X3BH1P0L4jsge27CUC",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - KIDinaKORNER Remix",
   trackType: "remix",
   explicit: false,

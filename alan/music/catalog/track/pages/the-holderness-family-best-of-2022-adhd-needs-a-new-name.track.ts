@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022AdhdNeedsANewName = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4oUOS2Uo12wVJhMrmE1ova",
-      externalLink: "https://open.spotify.com/track/4oUOS2Uo12wVJhMrmE1ova",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "ADHD Needs A New Name",
   trackType: "studio",
   explicit: false,

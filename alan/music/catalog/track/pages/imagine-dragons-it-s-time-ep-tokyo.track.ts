@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpTokyo = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4epZ5ws5c3rIwI2pqgHD6P",
-      externalLink: "https://open.spotify.com/track/4epZ5ws5c3rIwI2pqgHD6P",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tokyo",
   trackType: "studio",
   explicit: false,

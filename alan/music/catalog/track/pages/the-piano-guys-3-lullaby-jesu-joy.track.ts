@@ -15,14 +15,6 @@ export const thePianoGuys3LullabyJesuJoy = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6JxUc4ZorM1xJZr2QtoQiC",
-      externalLink: "https://open.spotify.com/track/6JxUc4ZorM1xJZr2QtoQiC",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Jesu Joy",
   trackType: "studio",
   explicit: false,

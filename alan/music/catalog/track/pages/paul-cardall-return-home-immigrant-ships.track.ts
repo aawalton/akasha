@@ -9,14 +9,6 @@ export const paulCardallReturnHomeImmigrantShips = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5I9sO4QS6sO4mDjxmoxT8b",
-      externalLink: "https://open.spotify.com/track/5I9sO4QS6sO4mDjxmoxT8b",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Immigrant Ships",
   trackType: "studio",
   explicit: false,

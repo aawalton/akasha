@@ -13,14 +13,6 @@ export const thePianoGuys3ChillYouAreTheReason = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "39kcQDf6iV6RG7sq2shJBk",
-      externalLink: "https://open.spotify.com/track/39kcQDf6iV6RG7sq2shJBk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "You Are The Reason",
   trackType: "studio",
   explicit: false,

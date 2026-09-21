@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneYoureWelcome = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0msybl0I1Zk1SRsFUGfSEL",
-      externalLink: "https://open.spotify.com/track/0msybl0I1Zk1SRsFUGfSEL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "You're Welcome",
   trackType: "studio",
   explicit: false,

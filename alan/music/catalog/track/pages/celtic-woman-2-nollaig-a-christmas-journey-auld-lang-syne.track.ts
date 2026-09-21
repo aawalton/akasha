@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyAuldLangSyne = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1t79LXQPNraqRkd3pl540N",
-      externalLink: "https://open.spotify.com/track/1t79LXQPNraqRkd3pl540N",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Auld Lang Syne",
   trackType: "studio",
   explicit: false,

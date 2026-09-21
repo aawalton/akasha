@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLoveHasBrought
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3pBT9fBuv5xBPMS1itj6p9",
-      externalLink: "https://open.spotify.com/track/3pBT9fBuv5xBPMS1itj6p9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Love Has Brought Me Around - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

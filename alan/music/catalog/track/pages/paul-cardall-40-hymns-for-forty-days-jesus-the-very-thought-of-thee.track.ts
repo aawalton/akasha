@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysJesusTheVeryThoughtOfThee = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59OiSDjI5L44XCbjaZ9kVe",
-      externalLink: "https://open.spotify.com/track/59OiSDjI5L44XCbjaZ9kVe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus, the Very Thought of Thee",
   trackType: "studio",
   explicit: false,

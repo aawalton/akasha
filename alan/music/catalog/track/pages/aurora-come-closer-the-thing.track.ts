@@ -9,14 +9,6 @@ export const auroraComeCloserTheThing = {
   partOfCollections: ["release/aurora-come-closer", "release/aurora-the-thing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "73TBGeURpzzUGTghL8UyvP",
-      externalLink: "https://open.spotify.com/track/73TBGeURpzzUGTghL8UyvP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "THE THING",
   trackType: "studio",
   explicit: false,

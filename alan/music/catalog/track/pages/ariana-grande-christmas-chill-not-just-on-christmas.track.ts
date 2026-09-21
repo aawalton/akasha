@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillNotJustOnChristmas = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "29SZX6DJdXnFEV2a34qAm4",
-      externalLink: "https://open.spotify.com/track/29SZX6DJdXnFEV2a34qAm4",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Not Just On Christmas",
   trackType: "studio",
   explicit: false,

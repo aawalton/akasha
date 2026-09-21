@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveIWillFollow = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XG30JWRg0y9QXGEXHXAEk",
-      externalLink: "https://open.spotify.com/track/5XG30JWRg0y9QXGEXHXAEk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Will Follow",
   trackType: "studio",
   explicit: false,

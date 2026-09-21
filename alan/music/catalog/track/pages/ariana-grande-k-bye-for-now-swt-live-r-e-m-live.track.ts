@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveREMLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2I2HYr4FLb6LPfdgcKxK2J",
-      externalLink: "https://open.spotify.com/track/2I2HYr4FLb6LPfdgcKxK2J",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "r.e.m - live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarsson1WannaBeYourBaby = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5D8VLjaTQLbf8H7aNdA4Bz",
-      externalLink: "https://open.spotify.com/track/5D8VLjaTQLbf8H7aNdA4Bz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wanna Be Your Baby",
   trackType: "studio",
   explicit: false,

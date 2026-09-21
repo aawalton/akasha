@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveSlapLeatherLive = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "67tQdAHqvaXIx7wvlsFkoq",
-      externalLink: "https://open.spotify.com/track/67tQdAHqvaXIx7wvlsFkoq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Slap Leather - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLostLost = {
   partOfCollections: ["release/coldplay-lost"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55Qm6iVvo1OMeoXc8elnmj",
-      externalLink: "https://open.spotify.com/track/55Qm6iVvo1OMeoXc8elnmj",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Lost!",
   trackType: "studio",
   explicit: false,

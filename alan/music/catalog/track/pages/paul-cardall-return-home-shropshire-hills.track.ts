@@ -9,14 +9,6 @@ export const paulCardallReturnHomeShropshireHills = {
   partOfCollections: ["release/paul-cardall-return-home", "release/paul-cardall-shropshire-hills"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ChwEFivNa0DbN6DkC2LCR",
-      externalLink: "https://open.spotify.com/track/1ChwEFivNa0DbN6DkC2LCR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Shropshire Hills",
   trackType: "studio",
   explicit: false,

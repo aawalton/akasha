@@ -9,14 +9,6 @@ export const paulCardallLiveImprov3NotesSacredNatureLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2lGApXgZscSryj2mFzi3Ny",
-      externalLink: "https://open.spotify.com/track/2lGApXgZscSryj2mFzi3Ny",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Improv 3 Notes (Sacred Nature) - Live",
   trackType: "live",
   explicit: false,

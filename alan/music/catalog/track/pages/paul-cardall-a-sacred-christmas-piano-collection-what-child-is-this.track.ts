@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionWhatChildIsThis = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5zDq4fSQouxGtNQ44urpvS",
-      externalLink: "https://open.spotify.com/track/5zDq4fSQouxGtNQ44urpvS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "What Child Is This?",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhale = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1EUMm6cYTtCJLTTxiEk6HI",
-      externalLink: "https://open.spotify.com/track/1EUMm6cYTtCJLTTxiEk6HI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exhale Inhale",
   trackType: "studio",
   explicit: false,

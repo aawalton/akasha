@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasWexfordCarol = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6OgmSuK2mhGdKWYSoszPTI",
-      externalLink: "https://open.spotify.com/track/6OgmSuK2mhGdKWYSoszPTI",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wexford Carol",
   trackType: "studio",
   explicit: false,

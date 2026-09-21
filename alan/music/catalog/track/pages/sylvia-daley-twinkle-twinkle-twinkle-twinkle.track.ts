@@ -9,14 +9,6 @@ export const sylviaDaleyTwinkleTwinkleTwinkleTwinkle = {
   partOfCollections: ["release/sylvia-daley-twinkle-twinkle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1NWlqbpa8Ia1kcDEOLUrx8",
-      externalLink: "https://open.spotify.com/track/1NWlqbpa8Ia1kcDEOLUrx8",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Twinkle Twinkle",
   trackType: "studio",
   explicit: false,

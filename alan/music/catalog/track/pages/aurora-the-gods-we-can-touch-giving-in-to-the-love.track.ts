@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchGivingInToTheLove = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YKRI4Uqw9HNEqMoQvhQom",
-      externalLink: "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Giving In To The Love",
   trackType: "studio",
   explicit: false,

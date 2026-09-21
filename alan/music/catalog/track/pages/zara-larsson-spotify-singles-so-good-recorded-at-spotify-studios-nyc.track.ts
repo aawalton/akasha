@@ -9,14 +9,6 @@ export const zaraLarssonSpotifySinglesSoGoodRecordedAtSpotifyStudiosNyc = {
   partOfCollections: ["release/zara-larsson-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0qPpxUVTaEGbGsMCugG4JQ",
-      externalLink: "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "So Good - Recorded at Spotify Studios NYC",
   trackType: "studio",
   explicit: false,

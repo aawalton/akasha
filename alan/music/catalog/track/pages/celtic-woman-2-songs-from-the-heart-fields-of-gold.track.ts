@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartFieldsOfGold = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1nE3flyqkY3H3sicuO44OP",
-      externalLink: "https://open.spotify.com/track/1nE3flyqkY3H3sicuO44OP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fields Of Gold",
   trackType: "studio",
   explicit: false,

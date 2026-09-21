@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandTheGalwayShawl = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1WR1kbAelndMYJIPiOEkXq",
-      externalLink: "https://open.spotify.com/track/1WR1kbAelndMYJIPiOEkXq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Galway Shawl",
   trackType: "studio",
   explicit: false,

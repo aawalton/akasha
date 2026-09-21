@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasAwayInAManger = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4AdyjF5Db6nVtSkHSQVe7m",
-      externalLink: "https://open.spotify.com/track/4AdyjF5Db6nVtSkHSQVe7m",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Away in a Manger",
   trackType: "studio",
   explicit: false,

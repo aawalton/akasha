@@ -9,14 +9,6 @@ export const emeiCrazyStupidLoveCrazyStupidLove = {
   partOfCollections: ["release/emei-crazy-stupid-love"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ChgblPPPwyuGhga3msdns",
-      externalLink: "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Crazy Stupid Love",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarssonOnlyYouRemixesOnlyYou = {
   partOfCollections: ["release/zara-larsson-only-you-remixes", "release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1XkKixc9NTzC2HXHPlijRk",
-      externalLink: "https://open.spotify.com/track/1XkKixc9NTzC2HXHPlijRk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only You",
   trackType: "studio",
   explicit: false,

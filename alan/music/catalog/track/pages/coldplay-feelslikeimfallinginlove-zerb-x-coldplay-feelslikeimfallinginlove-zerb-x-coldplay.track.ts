@@ -9,14 +9,6 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplayFeelslikeimfallinginlo
   partOfCollections: ["release/coldplay-feelslikeimfallinginlove-zerb-x-coldplay"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4cVUwET6QBkiWUdGVNSYPt",
-      externalLink: "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "feelslikeimfallinginlove - Zerb x Coldplay",
   trackType: "studio",
   explicit: false,

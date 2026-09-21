@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionManInTheMoon = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5NPe4fAhaMwcho571EJXDi",
-      externalLink: "https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Man in The Moon",
   trackType: "studio",
   explicit: false,

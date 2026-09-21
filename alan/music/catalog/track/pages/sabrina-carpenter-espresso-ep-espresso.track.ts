@@ -15,14 +15,6 @@ export const sabrinaCarpenterEspressoEpEspresso = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ev5nHxXH1R6CSgxHSEqHN",
-      externalLink: "https://open.spotify.com/track/6ev5nHxXH1R6CSgxHSEqHN",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso",
   trackType: "studio",
   explicit: true,

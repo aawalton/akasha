@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkLondonTown = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1SPNhTQgsFuw6UavXrPcJS",
-      externalLink: "https://open.spotify.com/track/1SPNhTQgsFuw6UavXrPcJS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "London Town",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeGoingHome = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0wg0Ly8aadaS8FonmAu27A",
-      externalLink: "https://open.spotify.com/track/0wg0Ly8aadaS8FonmAu27A",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Going Home",
   trackType: "studio",
   explicit: false,

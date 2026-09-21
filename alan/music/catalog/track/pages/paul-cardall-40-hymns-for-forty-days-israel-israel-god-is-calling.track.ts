@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Dk0vALECQKicMkhjoTqdT",
-      externalLink: "https://open.spotify.com/track/1Dk0vALECQKicMkhjoTqdT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Israel, Israel, God Is Calling",
   trackType: "studio",
   explicit: false,

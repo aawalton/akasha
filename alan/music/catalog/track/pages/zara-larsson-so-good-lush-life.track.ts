@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodLushLife = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rIKgCH4H52lrvDcz50hS8",
-      externalLink: "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life",
   trackType: "studio",
   explicit: false,

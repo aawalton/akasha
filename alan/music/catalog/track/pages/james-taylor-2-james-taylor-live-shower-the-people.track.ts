@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveShowerThePeople = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EQRoY0llP5bsvobC7jzM4",
-      externalLink: "https://open.spotify.com/track/4EQRoY0llP5bsvobC7jzM4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shower the People",
   trackType: "studio",
   explicit: false,

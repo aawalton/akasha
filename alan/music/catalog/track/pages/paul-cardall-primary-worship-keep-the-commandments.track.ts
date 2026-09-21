@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipKeepTheCommandments = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "16kLUf2FoJCMn9ubJEKoRM",
-      externalLink: "https://open.spotify.com/track/16kLUf2FoJCMn9ubJEKoRM",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Keep the Commandments",
   trackType: "studio",
   explicit: false,

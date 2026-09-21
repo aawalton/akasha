@@ -9,14 +9,6 @@ export const jamesTaylor2JtBartendersBlues = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Pm0IxpzPNGF9O6fvYyP2q",
-      externalLink: "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bartender's Blues",
   trackType: "studio",
   explicit: false,

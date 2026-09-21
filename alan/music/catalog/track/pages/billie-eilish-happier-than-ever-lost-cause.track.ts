@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverLostCause = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4191RXFPa7Ge9XkA4cWlna",
-      externalLink: "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lost Cause",
   trackType: "studio",
   explicit: true,

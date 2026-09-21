@@ -9,14 +9,6 @@ export const vinnyMarchiConceptsOfAManConceptsOfAMan = {
   partOfCollections: ["release/vinny-marchi-concepts-of-a-man"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tBldAkFhuoTSvKUCI8mJ6",
-      externalLink: "https://open.spotify.com/track/6tBldAkFhuoTSvKUCI8mJ6",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Concepts of a Man",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsWhatChildIsThis = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5iecWfAO5gbQ5bZoCHZ3xH",
-      externalLink: "https://open.spotify.com/track/5iecWfAO5gbQ5bZoCHZ3xH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "What Child is This?",
   trackType: "studio",
   explicit: false,

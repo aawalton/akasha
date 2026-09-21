@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravityCommentary =
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64wc7msgpMJQaS2nLlxeFi",
-      externalLink: "https://open.spotify.com/track/64wc7msgpMJQaS2nLlxeFi",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Defying Gravity - Commentary",
   trackType: "studio",
   explicit: false,

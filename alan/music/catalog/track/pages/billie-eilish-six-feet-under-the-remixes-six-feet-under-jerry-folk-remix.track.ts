@@ -9,14 +9,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderJerryFolkRemix = {
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58nxGpcCfNDiqmFXklOslz",
-      externalLink: "https://open.spotify.com/track/58nxGpcCfNDiqmFXklOslz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Six Feet Under - Jerry Folk Remix",
   trackType: "remix",
   explicit: false,

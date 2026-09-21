@@ -9,14 +9,6 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
   partOfCollections: ["release/coldplay-princess-of-china-andre-sobota-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0aGxRgaGbcT95BZZCWqYOQ",
-      externalLink: "https://open.spotify.com/track/0aGxRgaGbcT95BZZCWqYOQ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Princess of China - Andre Sobota Remix",
   trackType: "remix",
   explicit: false,

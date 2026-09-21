@@ -9,14 +9,6 @@ export const celticWoman2AncientLandDeluxeFieldsOfGold = {
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1NqfIXMsh9l9ncGUy7CQg4",
-      externalLink: "https://open.spotify.com/track/1NqfIXMsh9l9ncGUy7CQg4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fields Of Gold",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlmostLoveR3habRemixAlmostLoveR3habRemix = {
   partOfCollections: ["release/sabrina-carpenter-almost-love-r3hab-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7GF0URC6CuIxq2fRcCCbrO",
-      externalLink: "https://open.spotify.com/track/7GF0URC6CuIxq2fRcCCbrO",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Almost Love - R3HAB Remix",
   trackType: "remix",
   explicit: false,

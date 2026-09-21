@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsDestroyedDemo = 
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3EfnJ2rwpoiwR9b23gBPwg",
-      externalLink: "https://open.spotify.com/track/3EfnJ2rwpoiwR9b23gBPwg",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Destroyed - Demo",
   trackType: "demo",
   explicit: false,

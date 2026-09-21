@@ -12,14 +12,6 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3oVfohX6LdBkD568rzE8Y7",
-      externalLink: "https://open.spotify.com/track/3oVfohX6LdBkD568rzE8Y7",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? - Jonas Blue Remix",
   trackType: "remix",
   explicit: true,

@@ -12,14 +12,6 @@ export const imagineDragonsItSTimePassionPitRemixItsTimePassionPitRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6vRPkStwQmUrs13jpDG6Sd",
-      externalLink: "https://open.spotify.com/track/6vRPkStwQmUrs13jpDG6Sd",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Passion Pit Remix",
   trackType: "remix",
   explicit: false,

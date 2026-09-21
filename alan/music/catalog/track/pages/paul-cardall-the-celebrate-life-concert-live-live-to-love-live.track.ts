@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveLiveToLoveLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "703YvgITGNgXgZ8StmtwYh",
-      externalLink: "https://open.spotify.com/track/703YvgITGNgXgZ8StmtwYh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Live to Love - Live",
   trackType: "live",
   explicit: false,

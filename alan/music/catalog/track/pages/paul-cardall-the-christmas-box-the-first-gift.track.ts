@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxTheFirstGift = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Obpswn9eT5D6ueJH84kBu",
-      externalLink: "https://open.spotify.com/track/2Obpswn9eT5D6ueJH84kBu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The First Gift",
   trackType: "studio",
   explicit: false,

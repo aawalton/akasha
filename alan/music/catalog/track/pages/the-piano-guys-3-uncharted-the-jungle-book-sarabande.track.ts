@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedTheJungleBookSarabande = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ekMALFUBI4AaxazzS3hiC",
-      externalLink: "https://open.spotify.com/track/6ekMALFUBI4AaxazzS3hiC",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Jungle Book / Sarabande",
   trackType: "studio",
   explicit: false,

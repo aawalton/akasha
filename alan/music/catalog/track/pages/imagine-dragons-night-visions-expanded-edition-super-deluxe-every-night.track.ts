@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeEveryNight = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5iJxvcnMtR2JiL8rC5N5gt",
-      externalLink: "https://open.spotify.com/track/5iJxvcnMtR2JiL8rC5N5gt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Every Night",
   trackType: "studio",
   explicit: false,

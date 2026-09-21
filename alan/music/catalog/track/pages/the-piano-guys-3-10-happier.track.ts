@@ -13,14 +13,6 @@ export const thePianoGuys310Happier = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46ZIrFWY7doQykCs1JD0ip",
-      externalLink: "https://open.spotify.com/track/46ZIrFWY7doQykCs1JD0ip",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Happier",
   trackType: "studio",
   explicit: false,

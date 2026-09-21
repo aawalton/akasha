@@ -17,14 +17,6 @@ export const thePianoGuys3ChillUnchainedMelody = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uBlwyMAfcnjD4x9nD4sGc",
-      externalLink: "https://open.spotify.com/track/6uBlwyMAfcnjD4x9nD4sGc",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Unchained Melody",
   trackType: "studio",
   explicit: false,

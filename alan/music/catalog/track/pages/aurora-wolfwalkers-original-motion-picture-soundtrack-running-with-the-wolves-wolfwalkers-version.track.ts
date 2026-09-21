@@ -10,14 +10,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRunningWithTheWolve
     partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "5KF4xocBjejdsiztbvSW83",
-        externalLink: "https://open.spotify.com/track/5KF4xocBjejdsiztbvSW83",
-        lastSyncedAt: "2026-09-18",
-      },
-    ],
     title: "Running with the Wolves - WolfWalkers Version",
     trackType: "version",
     explicit: false,

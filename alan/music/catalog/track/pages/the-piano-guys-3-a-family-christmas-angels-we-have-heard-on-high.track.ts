@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2S96r2pepRxVn0bw74dcZn",
-      externalLink: "https://open.spotify.com/track/2S96r2pepRxVn0bw74dcZn",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Angels We Have Heard on High",
   trackType: "studio",
   explicit: false,

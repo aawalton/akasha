@@ -9,14 +9,6 @@ export const jamesTaylor2FlagIsThatTheWayYouLook = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ZO2cyWuY147d7gjtzIZIU",
-      externalLink: "https://open.spotify.com/track/0ZO2cyWuY147d7gjtzIZIU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Is That the Way You Look?",
   trackType: "studio",
   explicit: false,

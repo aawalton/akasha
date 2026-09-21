@@ -9,14 +9,6 @@ export const jamesTaylor2Gorilla2019RemasterHowSweetItIsToBeLovedByYou2019Remast
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75Nlnd9AJ4CYrLXgWGsuTF",
-      externalLink: "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

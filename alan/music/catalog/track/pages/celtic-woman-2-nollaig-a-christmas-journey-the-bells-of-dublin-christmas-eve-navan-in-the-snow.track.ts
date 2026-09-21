@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyTheBellsOfDublinChristmasEveNav
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64oqpQUk5FPIsP4OFF4cGa",
-      externalLink: "https://open.spotify.com/track/64oqpQUk5FPIsP4OFF4cGa",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Bells of Dublin/Christmas Eve/Navan in the Snow - Medley",
   trackType: "studio",
   explicit: false,

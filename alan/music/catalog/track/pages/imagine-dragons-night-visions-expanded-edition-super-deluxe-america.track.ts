@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeAmerica = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1jyjA1eCRiUvUXtDfhg6dr",
-      externalLink: "https://open.spotify.com/track/1jyjA1eCRiUvUXtDfhg6dr",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "America",
   trackType: "studio",
   explicit: false,

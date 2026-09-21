@@ -13,14 +13,6 @@ export const coldplayVioletHillVioletHill = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5GkNsL57ICbvte2aqyRkYD",
-      externalLink: "https://open.spotify.com/track/5GkNsL57ICbvte2aqyRkYD",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Violet Hill",
   trackType: "studio",
   explicit: false,

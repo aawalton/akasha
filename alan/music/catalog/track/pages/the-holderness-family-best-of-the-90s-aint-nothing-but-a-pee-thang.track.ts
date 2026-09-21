@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sAintNothingButAPeeThang = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44fAiwleMQSkoFu5IWUTx8",
-      externalLink: "https://open.spotify.com/track/44fAiwleMQSkoFu5IWUTx8",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ain't Nothing but a Pee Thang",
   trackType: "studio",
   explicit: false,

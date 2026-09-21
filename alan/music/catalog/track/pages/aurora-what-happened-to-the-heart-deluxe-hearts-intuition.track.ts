@@ -9,14 +9,6 @@ export const auroraWhatHappenedToTheHeartDeluxeHeartsIntuition = {
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ZOlDYPXqKnDAeGgrDWdNN",
-      externalLink: "https://open.spotify.com/track/0ZOlDYPXqKnDAeGgrDWdNN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hearts Intuition",
   trackType: "studio",
   explicit: false,

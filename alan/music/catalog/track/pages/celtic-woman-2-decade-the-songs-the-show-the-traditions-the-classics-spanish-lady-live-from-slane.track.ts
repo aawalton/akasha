@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSpanishLad
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1D37OZkLm9CTAudTRVKATc",
-      externalLink: "https://open.spotify.com/track/1D37OZkLm9CTAudTRVKATc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Spanish Lady - Live from Slane Castle",
   trackType: "live",
   explicit: false,

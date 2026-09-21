@@ -9,14 +9,6 @@ export const celticWoman2AncientLandDeluxeSiuilARuin = {
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7t22e6CSjosFTa5zFuJDAx",
-      externalLink: "https://open.spotify.com/track/7t22e6CSjosFTa5zFuJDAx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Siúil A Rúin",
   trackType: "studio",
   explicit: false,

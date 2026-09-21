@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sResolutions = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0qR2WF5ux995rg6Mn4p9Kt",
-      externalLink: "https://open.spotify.com/track/0qR2WF5ux995rg6Mn4p9Kt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Resolutions",
   trackType: "studio",
   explicit: false,

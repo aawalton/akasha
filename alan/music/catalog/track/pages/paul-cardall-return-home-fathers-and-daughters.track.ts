@@ -9,14 +9,6 @@ export const paulCardallReturnHomeFathersAndDaughters = {
   partOfCollections: ["release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0r4QxqLge2Ytkobw95s0t6",
-      externalLink: "https://open.spotify.com/track/0r4QxqLge2Ytkobw95s0t6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fathers and Daughters",
   trackType: "studio",
   explicit: false,

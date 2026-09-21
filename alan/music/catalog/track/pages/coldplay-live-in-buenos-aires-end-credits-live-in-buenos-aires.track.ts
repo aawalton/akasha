@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresEndCreditsLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6c64ANGY0NfO2YMpbcJUOR",
-      externalLink: "https://open.spotify.com/track/6c64ANGY0NfO2YMpbcJUOR",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "End Credits - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

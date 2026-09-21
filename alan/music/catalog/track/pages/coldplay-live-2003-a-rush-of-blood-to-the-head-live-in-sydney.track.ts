@@ -9,14 +9,6 @@ export const coldplayLive2003ARushOfBloodToTheHeadLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5KFf0D8pLy4mzIlaJeV57P",
-      externalLink: "https://open.spotify.com/track/5KFf0D8pLy4mzIlaJeV57P",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Rush of Blood to the Head - Live in Sydney",
   trackType: "live",
   explicit: false,

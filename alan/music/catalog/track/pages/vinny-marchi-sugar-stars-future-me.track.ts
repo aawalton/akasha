@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsFutureMe = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63Q6vuZWEOvu1oIVOB6BJH",
-      externalLink: "https://open.spotify.com/track/63Q6vuZWEOvu1oIVOB6BJH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "future me",
   trackType: "studio",
   explicit: false,

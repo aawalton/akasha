@@ -12,14 +12,6 @@ export const arianaGrandeBreakFreeBreakFree = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2lOgTEwxmRPBtjp60opyRN",
-      externalLink: "https://open.spotify.com/track/2lOgTEwxmRPBtjp60opyRN",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Break Free",
   trackType: "studio",
   explicit: false,

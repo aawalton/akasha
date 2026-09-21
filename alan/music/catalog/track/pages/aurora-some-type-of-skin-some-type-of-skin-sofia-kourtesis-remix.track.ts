@@ -9,14 +9,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
   partOfCollections: ["release/aurora-some-type-of-skin"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3JESF4y5o29QYebTheGju0",
-      externalLink: "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Some Type of Skin - Sofia Kourtesis Remix",
   trackType: "remix",
   explicit: false,

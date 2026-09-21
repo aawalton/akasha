@@ -9,14 +9,6 @@ export const jamesTaylor2FireFire = {
   partOfCollections: ["release/james-taylor-2-fire"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cavUWhdiwvVTylTP7j3Y9",
-      externalLink: "https://open.spotify.com/track/3cavUWhdiwvVTylTP7j3Y9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fire",
   trackType: "studio",
   explicit: false,

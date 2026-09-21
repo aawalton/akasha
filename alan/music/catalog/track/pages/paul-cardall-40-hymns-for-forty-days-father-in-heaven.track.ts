@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysFatherInHeaven = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2K88BQQ7fTS9rVYvlJngGt",
-      externalLink: "https://open.spotify.com/track/2K88BQQ7fTS9rVYvlJngGt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Father in Heaven",
   trackType: "studio",
   explicit: false,

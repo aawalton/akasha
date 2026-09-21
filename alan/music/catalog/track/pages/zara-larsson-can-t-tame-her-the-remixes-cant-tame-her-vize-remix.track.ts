@@ -12,14 +12,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6hK4hq1UY914pSvHz60Xe1",
-      externalLink: "https://open.spotify.com/track/6hK4hq1UY914pSvHz60Xe1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Can't Tame Her - VIZE Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarJesusSaidLoveEveryone = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "035cOCJ5HcDzTo5PcnltQS",
-      externalLink: "https://open.spotify.com/track/035cOCJ5HcDzTo5PcnltQS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus Said Love Everyone",
   trackType: "studio",
   explicit: false,

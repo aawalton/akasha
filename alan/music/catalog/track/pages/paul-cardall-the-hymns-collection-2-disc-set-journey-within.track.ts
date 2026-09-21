@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetJourneyWithin = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0yEuKEB3TxbnitRtjOnaRb",
-      externalLink: "https://open.spotify.com/track/0yEuKEB3TxbnitRtjOnaRb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Journey Within",
   trackType: "studio",
   explicit: false,

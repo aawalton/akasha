@@ -9,14 +9,6 @@ export const arianaGrandeSantaTellMeSantaTellMe = {
   partOfCollections: ["release/ariana-grande-santa-tell-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0lizgQ7Qw35od7CYaoMBZb",
-      externalLink: "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Santa Tell Me",
   trackType: "studio",
   explicit: false,

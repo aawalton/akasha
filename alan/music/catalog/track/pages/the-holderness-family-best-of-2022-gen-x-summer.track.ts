@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022GenXSummer = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PpvD7fqxr4iiT0qAsyDqR",
-      externalLink: "https://open.spotify.com/track/1PpvD7fqxr4iiT0qAsyDqR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gen X Summer",
   trackType: "studio",
   explicit: false,

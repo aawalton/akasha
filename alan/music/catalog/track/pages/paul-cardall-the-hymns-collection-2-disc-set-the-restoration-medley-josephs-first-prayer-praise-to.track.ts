@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7rDewz1wd7BWAjJc5eH5vw",
-      externalLink: "https://open.spotify.com/track/7rDewz1wd7BWAjJc5eH5vw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Restoration Medley: Joseph's First Prayer, Praise to the Man",
   trackType: "studio",
   explicit: false,

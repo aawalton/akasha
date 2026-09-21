@@ -12,14 +12,6 @@ export const paulCardallLivingForEdenOurLove = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1BqSWGmMMuJpNyCSO8Gz1d",
-      externalLink: "https://open.spotify.com/track/1BqSWGmMMuJpNyCSO8Gz1d",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Love",
   trackType: "studio",
   explicit: false,

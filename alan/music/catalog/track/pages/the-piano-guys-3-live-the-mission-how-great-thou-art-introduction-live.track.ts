@@ -9,14 +9,6 @@ export const thePianoGuys3LiveTheMissionHowGreatThouArtIntroductionLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0YmcZZikYnbYIHVQtZTuLU",
-      externalLink: "https://open.spotify.com/track/0YmcZZikYnbYIHVQtZTuLU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Mission / How Great Thou Art (Introduction) - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadWarningSign = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4bPkBHKLKd9WHizsvM2zV3",
-      externalLink: "https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Warning Sign",
   trackType: "studio",
   explicit: false,

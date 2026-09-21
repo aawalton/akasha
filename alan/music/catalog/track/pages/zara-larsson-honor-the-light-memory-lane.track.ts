@@ -9,14 +9,6 @@ export const zaraLarssonHonorTheLightMemoryLane = {
   partOfCollections: ["release/zara-larsson-honor-the-light", "release/zara-larsson-memory-lane"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0oQWZIDgY33kE8kEp6fEne",
-      externalLink: "https://open.spotify.com/track/0oQWZIDgY33kE8kEp6fEne",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Memory Lane",
   trackType: "studio",
   explicit: true,

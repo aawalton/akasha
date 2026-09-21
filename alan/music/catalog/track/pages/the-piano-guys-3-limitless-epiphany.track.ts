@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessEpiphany = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "06XspRiZpjqVdXVdJNVxzB",
-      externalLink: "https://open.spotify.com/track/06XspRiZpjqVdXVdJNVxzB",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Epiphany",
   trackType: "studio",
   explicit: false,

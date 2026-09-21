@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyMoGhileMear = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XjTvNDYStGdEHzVvBgYIV",
-      externalLink: "https://open.spotify.com/track/6XjTvNDYStGdEHzVvBgYIV",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear",
   trackType: "studio",
   explicit: false,

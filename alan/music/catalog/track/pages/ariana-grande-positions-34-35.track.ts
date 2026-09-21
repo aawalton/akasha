@@ -9,14 +9,6 @@ export const arianaGrandePositions3435 = {
   partOfCollections: ["release/ariana-grande-positions", "release/ariana-grande-positions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Im9k8u9iIzKMrmV7BWtlF",
-      externalLink: "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "34+35",
   trackType: "studio",
   explicit: true,

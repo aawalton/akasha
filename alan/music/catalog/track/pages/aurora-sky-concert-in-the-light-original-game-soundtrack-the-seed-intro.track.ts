@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedIntro = {
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4BzorKtaLjBmw3ryqhZQmJ",
-      externalLink: "https://open.spotify.com/track/4BzorKtaLjBmw3ryqhZQmJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Seed Intro",
   trackType: "studio",
   explicit: false,

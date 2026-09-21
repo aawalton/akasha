@@ -9,14 +9,6 @@ export const zaraLarssonVenusMoreThanThisWas = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6CwrlA656MPLMRFgZZsvuD",
-      externalLink: "https://open.spotify.com/track/6CwrlA656MPLMRFgZZsvuD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "More Than This Was",
   trackType: "studio",
   explicit: false,

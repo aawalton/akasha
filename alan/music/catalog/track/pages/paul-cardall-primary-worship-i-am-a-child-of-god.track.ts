@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipIAmAChildOfGod = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2MT6ZAlvEUEPkHsATk6gXg",
-      externalLink: "https://open.spotify.com/track/2MT6ZAlvEUEPkHsATk6gXg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I am a Child of God",
   trackType: "studio",
   explicit: false,

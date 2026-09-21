@@ -9,14 +9,6 @@ export const coldplayMyloXylotoUpWithTheBirds = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lIFsEWj9IjNEALbHnPosE",
-      externalLink: "https://open.spotify.com/track/5lIFsEWj9IjNEALbHnPosE",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Up with the Birds",
   trackType: "studio",
   explicit: false,

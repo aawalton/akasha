@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoAdventPrayerSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5NReKcIq1XshA8rc3RGyYa",
-      externalLink: "https://open.spotify.com/track/5NReKcIq1XshA8rc3RGyYa",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Advent Prayer - Solo Piano Version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePetalNeverGetOverMe = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55srcWA7TioKV0LZVNXltY",
-      externalLink: "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "never get over me",
   trackType: "studio",
   explicit: true,

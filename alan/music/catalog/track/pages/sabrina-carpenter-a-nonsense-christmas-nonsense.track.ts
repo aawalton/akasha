@@ -14,14 +14,6 @@ export const sabrinaCarpenterANonsenseChristmasNonsense = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5HwvqgVOe2MV9sFbCSyf7j",
-      externalLink: "https://open.spotify.com/track/5HwvqgVOe2MV9sFbCSyf7j",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Nonsense",
   trackType: "studio",
   explicit: false,

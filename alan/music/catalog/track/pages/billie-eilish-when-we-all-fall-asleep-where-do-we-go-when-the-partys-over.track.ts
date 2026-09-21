@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoWhenThePartysOver = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "43zdsphuZLzwA9k4DJhU0I",
-      externalLink: "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "when the party's over",
   trackType: "studio",
   explicit: false,

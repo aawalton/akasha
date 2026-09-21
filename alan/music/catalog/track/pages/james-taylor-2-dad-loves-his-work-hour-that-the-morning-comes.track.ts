@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkHourThatTheMorningComes = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4nmydJnXUbP8SlLz1EgskQ",
-      externalLink: "https://open.spotify.com/track/4nmydJnXUbP8SlLz1EgskQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hour That the Morning Comes",
   trackType: "studio",
   explicit: false,

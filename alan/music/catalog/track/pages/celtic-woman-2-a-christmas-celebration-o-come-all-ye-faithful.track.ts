@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationOComeAllYeFaithful = {
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2SiRXBJcwDS0yAXiK9k9le",
-      externalLink: "https://open.spotify.com/track/2SiRXBJcwDS0yAXiK9k9le",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O Come All Ye Faithful",
   trackType: "studio",
   explicit: false,

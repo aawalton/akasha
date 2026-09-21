@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionAngelsong = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6xXocHy6Oux7H3MSDJd0mn",
-      externalLink: "https://open.spotify.com/track/6xXocHy6Oux7H3MSDJd0mn",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Angelsong",
   trackType: "studio",
   explicit: false,

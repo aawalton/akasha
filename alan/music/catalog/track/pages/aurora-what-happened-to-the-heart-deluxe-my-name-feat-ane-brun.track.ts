@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeMyNameFeatAneBrun = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Q42h5c9vdjpNjGBnM657Q",
-      externalLink: "https://open.spotify.com/track/6Q42h5c9vdjpNjGBnM657Q",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Name (feat. Ane Brun)",
   trackType: "studio",
   explicit: false,

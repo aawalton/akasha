@@ -9,14 +9,6 @@ export const coldplayLive2012PrincessOfChinaLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0t1nm5TmszvLLVAOLiOrH8",
-      externalLink: "https://open.spotify.com/track/0t1nm5TmszvLLVAOLiOrH8",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Princess of China - Live",
   trackType: "live",
   explicit: false,

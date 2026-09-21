@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodTg4m = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4uoumbAMEMaKdtiv763jKz",
-      externalLink: "https://open.spotify.com/track/4uoumbAMEMaKdtiv763jKz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "TG4M",
   trackType: "studio",
   explicit: false,

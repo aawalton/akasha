@@ -9,14 +9,6 @@ export const arianaGrandeYesAndYesAndExtendedMix = {
   partOfCollections: ["release/ariana-grande-yes-and"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "12SdfiD7MIRteeIXWdvxpl",
-      externalLink: "https://open.spotify.com/track/12SdfiD7MIRteeIXWdvxpl",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? - extended mix",
   trackType: "remix",
   explicit: true,

@@ -9,14 +9,6 @@ export const thePianoGuys3TheSnowQueenMoldauTheSnowQueenMoldau = {
   partOfCollections: ["release/the-piano-guys-3-the-snow-queen-moldau"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0vsdIPjKb8veutD9Vn17Dx",
-      externalLink: "https://open.spotify.com/track/0vsdIPjKb8veutD9Vn17Dx",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Snow Queen (Moldau)",
   trackType: "studio",
   explicit: false,

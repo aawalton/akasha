@@ -9,14 +9,6 @@ export const coldplayFeelslikeimfallinginloveFeelslikeimfallinginloveSingleVersi
   partOfCollections: ["release/coldplay-feelslikeimfallinginlove"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YsU8rW2u8z4F0pwOBQ4Ea",
-      externalLink: "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "feelslikeimfallinginlove - Single Version",
   trackType: "version",
   explicit: false,

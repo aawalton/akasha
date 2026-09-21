@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeEspresso = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2LU2CYKUZUc1iAErxJb1dK",
-      externalLink: "https://open.spotify.com/track/2LU2CYKUZUc1iAErxJb1dK",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Espresso",
   trackType: "studio",
   explicit: true,

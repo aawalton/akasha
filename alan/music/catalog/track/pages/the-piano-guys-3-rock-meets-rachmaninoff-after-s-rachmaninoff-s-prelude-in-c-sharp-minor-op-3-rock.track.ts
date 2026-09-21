@@ -11,14 +11,6 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2njpmDNj4ZAxvy9hL4oN1A",
-      externalLink: "https://open.spotify.com/track/2njpmDNj4ZAxvy9hL4oN1A",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rock Meets Rachmaninoff",
   trackType: "studio",
   explicit: false,

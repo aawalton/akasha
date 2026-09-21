@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShiz = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2ewsJv4Klm34vqbXgQkxkF",
-      externalLink: "https://open.spotify.com/track/2ewsJv4Klm34vqbXgQkxkF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Dear Old Shiz",
   trackType: "studio",
   explicit: false,

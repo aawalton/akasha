@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysThereIsSunshineInMySoul = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5dfFDyvrkAIZHS78ztPcHS",
-      externalLink: "https://open.spotify.com/track/5dfFDyvrkAIZHS78ztPcHS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "There Is Sunshine in My Soul",
   trackType: "studio",
   explicit: false,

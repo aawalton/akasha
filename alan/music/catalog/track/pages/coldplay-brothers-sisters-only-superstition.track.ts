@@ -9,14 +9,6 @@ export const coldplayBrothersSistersOnlySuperstition = {
   partOfCollections: ["release/coldplay-brothers-sisters"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4eJNA83TrqZ3S6LSyK8rSf",
-      externalLink: "https://open.spotify.com/track/4eJNA83TrqZ3S6LSyK8rSf",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Only Superstition",
   trackType: "studio",
   explicit: false,

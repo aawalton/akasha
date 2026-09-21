@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionStepOnUp = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4oR18wubZXPJ0KAGswv1mx",
-      externalLink: "https://open.spotify.com/track/4oR18wubZXPJ0KAGswv1mx",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Step On Up",
   trackType: "studio",
   explicit: false,

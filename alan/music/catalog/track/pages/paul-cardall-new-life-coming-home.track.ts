@@ -9,14 +9,6 @@ export const paulCardallNewLifeComingHome = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0zw19xCUkDVCJTZKKUfyQi",
-      externalLink: "https://open.spotify.com/track/0zw19xCUkDVCJTZKKUfyQi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Coming Home",
   trackType: "studio",
   explicit: false,

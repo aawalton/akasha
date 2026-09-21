@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014OLiveAtRoyceHallLosAngeles = {
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ZAcQoFIdhYdKx8FaR4c3t",
-      externalLink: "https://open.spotify.com/track/1ZAcQoFIdhYdKx8FaR4c3t",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "O - Live at Royce Hall, Los Angeles",
   trackType: "live",
   explicit: false,

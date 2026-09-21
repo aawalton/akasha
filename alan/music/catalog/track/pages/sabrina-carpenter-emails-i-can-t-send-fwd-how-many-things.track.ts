@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdHowManyThings = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NvlhDdVgFotNgPK30LM2T",
-      externalLink: "https://open.spotify.com/track/6NvlhDdVgFotNgPK30LM2T",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "how many things",
   trackType: "studio",
   explicit: true,

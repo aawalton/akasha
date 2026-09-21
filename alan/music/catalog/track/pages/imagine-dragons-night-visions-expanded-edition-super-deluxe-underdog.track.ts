@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdog = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2HVRUK7BKcJRND962eDMwK",
-      externalLink: "https://open.spotify.com/track/2HVRUK7BKcJRND962eDMwK",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Underdog",
   trackType: "studio",
   explicit: false,

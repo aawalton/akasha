@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2JsjWo7EoqAkrwyzQCjB40",
-      externalLink: "https://open.spotify.com/track/2JsjWo7EoqAkrwyzQCjB40",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "On Top Of The World - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

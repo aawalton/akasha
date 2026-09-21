@@ -9,14 +9,6 @@ export const jamesTaylor2JtTrafficJam = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3vr78UtsASit0Iwhps8HnE",
-      externalLink: "https://open.spotify.com/track/3vr78UtsASit0Iwhps8HnE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Traffic Jam",
   trackType: "studio",
   explicit: false,

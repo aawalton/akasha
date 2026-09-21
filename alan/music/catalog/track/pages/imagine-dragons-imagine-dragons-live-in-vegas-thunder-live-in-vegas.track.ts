@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasThunderLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6w9VLa9bw3XmAmZc3UPW3e",
-      externalLink: "https://open.spotify.com/track/6w9VLa9bw3XmAmZc3UPW3e",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thunder - Live in Vegas",
   trackType: "live",
   explicit: false,

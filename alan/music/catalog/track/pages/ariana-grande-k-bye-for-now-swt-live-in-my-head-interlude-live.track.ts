@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveInMyHeadInterludeLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58T204WTLWAs34lOvheS28",
-      externalLink: "https://open.spotify.com/track/58T204WTLWAs34lOvheS28",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "in my head interlude - live",
   trackType: "live",
   explicit: true,

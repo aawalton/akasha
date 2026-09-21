@@ -9,14 +9,6 @@ export const coldplayLive2003ShiverLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4CCr8SvmOrHpPKeA5e0ogE",
-      externalLink: "https://open.spotify.com/track/4CCr8SvmOrHpPKeA5e0ogE",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Shiver - Live in Sydney",
   trackType: "live",
   explicit: false,

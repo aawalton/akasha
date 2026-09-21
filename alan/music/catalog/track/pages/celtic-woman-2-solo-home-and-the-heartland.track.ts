@@ -9,14 +9,6 @@ export const celticWoman2SoloHomeAndTheHeartland = {
   partOfCollections: ["release/celtic-woman-2-solo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7BEHPIeAh2iuQqkOh3H2If",
-      externalLink: "https://open.spotify.com/track/7BEHPIeAh2iuQqkOh3H2If",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Home and the Heartland",
   trackType: "studio",
   explicit: false,

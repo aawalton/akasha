@@ -9,14 +9,6 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeBastilleRemix = {
   partOfCollections: ["release/imagine-dragons-i-bet-my-life-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "07StfwrWJqEC1GA31tY8h0",
-      externalLink: "https://open.spotify.com/track/07StfwrWJqEC1GA31tY8h0",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Bet My Life - Bastille Remix",
   trackType: "remix",
   explicit: false,

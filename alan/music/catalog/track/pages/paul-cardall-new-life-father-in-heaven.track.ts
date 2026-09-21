@@ -9,14 +9,6 @@ export const paulCardallNewLifeFatherInHeaven = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3HCpWKRsBhQ6xHzcAMNzBc",
-      externalLink: "https://open.spotify.com/track/3HCpWKRsBhQ6xHzcAMNzBc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Father in Heaven",
   trackType: "studio",
   explicit: false,

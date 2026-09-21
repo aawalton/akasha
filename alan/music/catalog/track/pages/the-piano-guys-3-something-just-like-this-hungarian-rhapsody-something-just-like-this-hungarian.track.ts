@@ -9,14 +9,6 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsodySomethingJustLik
   partOfCollections: ["release/the-piano-guys-3-something-just-like-this-hungarian-rhapsody"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tPETW7bPcWw0IpTkeo150",
-      externalLink: "https://open.spotify.com/track/7tPETW7bPcWw0IpTkeo150",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Something Just Like This / Hungarian Rhapsody",
   trackType: "studio",
   explicit: false,

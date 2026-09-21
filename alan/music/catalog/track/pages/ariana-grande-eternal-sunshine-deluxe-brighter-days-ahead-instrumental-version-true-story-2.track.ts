@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0VfbyDu0kfKEp6FUkteLEJ",
-      externalLink: "https://open.spotify.com/track/0VfbyDu0kfKEp6FUkteLEJ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "true story - instrumental",
   trackType: "instrumental",
   explicit: false,

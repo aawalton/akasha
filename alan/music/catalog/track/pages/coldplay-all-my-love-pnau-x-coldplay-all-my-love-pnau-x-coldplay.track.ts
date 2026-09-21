@@ -9,14 +9,6 @@ export const coldplayAllMyLovePnauXColdplayAllMyLovePnauXColdplay = {
   partOfCollections: ["release/coldplay-all-my-love-pnau-x-coldplay"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0TwKov50GELgwuAW4I3oeN",
-      externalLink: "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "ALL MY LOVE - PNAU x Coldplay",
   trackType: "studio",
   explicit: false,

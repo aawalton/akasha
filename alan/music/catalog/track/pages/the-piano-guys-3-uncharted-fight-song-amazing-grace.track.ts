@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedFightSongAmazingGrace = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0enLtCNBPxgqHQJ68Uk1H8",
-      externalLink: "https://open.spotify.com/track/0enLtCNBPxgqHQJ68Uk1H8",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Fight Song / Amazing Grace",
   trackType: "studio",
   explicit: false,

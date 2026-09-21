@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxAngelsWeHaveHeardOnHigh = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4eUxxbgCyTXzzrQrhYnxt2",
-      externalLink: "https://open.spotify.com/track/4eUxxbgCyTXzzrQrhYnxt2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Angels We Have Heard On High",
   trackType: "studio",
   explicit: false,

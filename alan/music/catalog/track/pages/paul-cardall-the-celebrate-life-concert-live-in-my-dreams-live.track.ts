@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveInMyDreamsLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3LQtkryY5TRd6Gfd6jPzxJ",
-      externalLink: "https://open.spotify.com/track/3LQtkryY5TRd6Gfd6jPzxJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In My Dreams - Live",
   trackType: "live",
   explicit: false,

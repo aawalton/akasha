@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsTheGreatAlexander = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5FaANEG8jIuo7aoGumJWFP",
-      externalLink: "https://open.spotify.com/track/5FaANEG8jIuo7aoGumJWFP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Great Alexander",
   trackType: "studio",
   explicit: false,

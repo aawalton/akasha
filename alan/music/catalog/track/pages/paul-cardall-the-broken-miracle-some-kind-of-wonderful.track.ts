@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleSomeKindOfWonderful = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4YlxofC4t2BKQ0KeLsb879",
-      externalLink: "https://open.spotify.com/track/4YlxofC4t2BKQ0KeLsb879",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Some Kind of Wonderful",
   trackType: "studio",
   explicit: false,

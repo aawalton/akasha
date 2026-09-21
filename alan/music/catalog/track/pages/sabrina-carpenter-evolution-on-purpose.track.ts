@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionOnPurpose = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Xmjr9Cft2ZdiGVZPxhqCs",
-      externalLink: "https://open.spotify.com/track/1Xmjr9Cft2ZdiGVZPxhqCs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "On Purpose",
   trackType: "studio",
   explicit: false,

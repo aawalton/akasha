@@ -9,14 +9,6 @@ export const sabrinaCarpenterHoneymoonFadesHoneymoonFades = {
   partOfCollections: ["release/sabrina-carpenter-honeymoon-fades"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2o2R6ghiVJfAqEXnlmOihz",
-      externalLink: "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Honeymoon Fades",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveCountryRoad = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7iMT9dte1Ml23gxj6k88wx",
-      externalLink: "https://open.spotify.com/track/7iMT9dte1Ml23gxj6k88wx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Country Road",
   trackType: "studio",
   explicit: false,

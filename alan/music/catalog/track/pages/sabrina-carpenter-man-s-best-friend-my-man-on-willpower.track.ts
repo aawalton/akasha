@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendMyManOnWillpower = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3EMfeKtNK4q4k3sVjwg5Yy",
-      externalLink: "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "My Man on Willpower",
   trackType: "studio",
   explicit: true,

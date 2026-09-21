@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsDeluxeMyFault = {
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5WZn6AJc3D8xM58UqPlco9",
-      externalLink: "https://open.spotify.com/track/5WZn6AJc3D8xM58UqPlco9",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "My Fault",
   trackType: "studio",
   explicit: false,

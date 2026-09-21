@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineTheWaterIsWide = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NaQl05UuL6ZHw6ptdyhdE",
-      externalLink: "https://open.spotify.com/track/6NaQl05UuL6ZHw6ptdyhdE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Water Is Wide",
   trackType: "studio",
   explicit: false,

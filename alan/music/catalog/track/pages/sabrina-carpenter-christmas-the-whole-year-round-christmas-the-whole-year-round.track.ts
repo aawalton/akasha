@@ -9,14 +9,6 @@ export const sabrinaCarpenterChristmasTheWholeYearRoundChristmasTheWholeYearRoun
   partOfCollections: ["release/sabrina-carpenter-christmas-the-whole-year-round"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "065CI94mu3IZwqPU4BX4Cb",
-      externalLink: "https://open.spotify.com/track/065CI94mu3IZwqPU4BX4Cb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Christmas the Whole Year Round",
   trackType: "studio",
   explicit: false,

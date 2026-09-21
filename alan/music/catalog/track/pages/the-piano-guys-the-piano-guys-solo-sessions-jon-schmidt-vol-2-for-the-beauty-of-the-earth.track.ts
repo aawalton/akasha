@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ForTheBeautyOfThe
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5LqSVbPOO3teRo9evw1NuG",
-      externalLink: "https://open.spotify.com/track/5LqSVbPOO3teRo9evw1NuG",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "For The Beauty of The Earth",
   trackType: "studio",
   explicit: false,

@@ -15,14 +15,6 @@ export const thePianoGuys3GoldenHourGoldenHour = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0VdOSX69YUIIYMQWnGSlC2",
-      externalLink: "https://open.spotify.com/track/0VdOSX69YUIIYMQWnGSlC2",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Golden Hour",
   trackType: "studio",
   explicit: false,

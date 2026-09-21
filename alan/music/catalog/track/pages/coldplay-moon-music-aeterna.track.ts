@@ -12,14 +12,6 @@ export const coldplayMoonMusicAeterna = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EGl6H86WFalKVWSXbheb2",
-      externalLink: "https://open.spotify.com/track/4EGl6H86WFalKVWSXbheb2",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "AETERNA",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58rFzMvW9kxNwMtGTgBQoP",
-      externalLink: "https://open.spotify.com/track/58rFzMvW9kxNwMtGTgBQoP",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Radioactive",
   trackType: "studio",
   explicit: false,

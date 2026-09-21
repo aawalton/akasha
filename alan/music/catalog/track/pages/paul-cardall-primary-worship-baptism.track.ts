@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipBaptism = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3OrEC0ZOxqN2WhG7Pr5DPz",
-      externalLink: "https://open.spotify.com/track/3OrEC0ZOxqN2WhG7Pr5DPz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Baptism",
   trackType: "studio",
   explicit: false,

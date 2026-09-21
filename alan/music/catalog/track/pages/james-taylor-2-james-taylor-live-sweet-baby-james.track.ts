@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveSweetBabyJames = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6sMFBGi63uil2HDqUEpCq3",
-      externalLink: "https://open.spotify.com/track/6sMFBGi63uil2HDqUEpCq3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sweet Baby James",
   trackType: "studio",
   explicit: false,

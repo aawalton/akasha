@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleOurBeatingHearts = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4siXWKENmt0nQxe6AJuoup",
-      externalLink: "https://open.spotify.com/track/4siXWKENmt0nQxe6AJuoup",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Our Beating Hearts",
   trackType: "studio",
   explicit: false,

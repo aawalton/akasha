@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jcMXBdTIXP1tf9cNXA4Mt",
-      externalLink: "https://open.spotify.com/track/7jcMXBdTIXP1tf9cNXA4Mt",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Strawberry Swing - Live in Madrid, 2008",
   trackType: "live",
   explicit: false,

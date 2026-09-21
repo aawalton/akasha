@@ -9,14 +9,6 @@ export const coldplayEverydayLifeSunrise = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Tb7Zfo4PcSiS4TqQ4NnTh",
-      externalLink: "https://open.spotify.com/track/6Tb7Zfo4PcSiS4TqQ4NnTh",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Sunrise",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeelingCommentar
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PI2oZgPiJoyPsTKED1YVD",
-      externalLink: "https://open.spotify.com/track/1PI2oZgPiJoyPsTKED1YVD",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "What Is This Feeling? - Commentary",
   trackType: "studio",
   explicit: false,

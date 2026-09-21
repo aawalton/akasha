@@ -12,14 +12,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5HGvnxyYMsK0MWuvXCNjfG",
-      externalLink: "https://open.spotify.com/track/5HGvnxyYMsK0MWuvXCNjfG",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "You’ll Never Know",
   trackType: "studio",
   explicit: false,

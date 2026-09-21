@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlSummerEditionWow = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4wKNWr3MsF3JonUxVab1Qz",
-      externalLink: "https://open.spotify.com/track/4wKNWr3MsF3JonUxVab1Qz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "WOW",
   trackType: "studio",
   explicit: true,

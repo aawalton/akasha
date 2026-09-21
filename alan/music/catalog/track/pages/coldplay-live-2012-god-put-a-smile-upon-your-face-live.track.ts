@@ -9,14 +9,6 @@ export const coldplayLive2012GodPutASmileUponYourFaceLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7nyK4SxiizwxDRr4V2JJaF",
-      externalLink: "https://open.spotify.com/track/7nyK4SxiizwxDRr4V2JJaF",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "God Put a Smile upon Your Face - Live",
   trackType: "live",
   explicit: true,

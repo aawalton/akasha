@@ -15,14 +15,6 @@ export const auroraADifferentKindOfHumanStepIiTheSeed = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3EUXLUKx2zNUzb2otMc8HH",
-      externalLink: "https://open.spotify.com/track/3EUXLUKx2zNUzb2otMc8HH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Seed",
   trackType: "studio",
   explicit: false,

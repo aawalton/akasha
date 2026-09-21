@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresInMyPlaceLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0o7htzPrB8bP0jnyjiqUdj",
-      externalLink: "https://open.spotify.com/track/0o7htzPrB8bP0jnyjiqUdj",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "In My Place - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

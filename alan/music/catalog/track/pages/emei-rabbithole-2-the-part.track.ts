@@ -9,14 +9,6 @@ export const emeiRabbithole2ThePart = {
   partOfCollections: ["release/emei-rabbithole-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2RCZZqbvNR5pEORY3p8PY2",
-      externalLink: "https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "THE PART",
   trackType: "studio",
   explicit: false,

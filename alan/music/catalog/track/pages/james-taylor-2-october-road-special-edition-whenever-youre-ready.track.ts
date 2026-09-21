@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionWheneverYoureReady = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "731Ow0ya5jEEEHe2hwH729",
-      externalLink: "https://open.spotify.com/track/731Ow0ya5jEEEHe2hwH729",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Whenever You're Ready",
   trackType: "studio",
   explicit: false,

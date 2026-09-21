@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversOhWhatABeautifulMorning = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Yh3EzhORIQsrVtsE6dCIo",
-      externalLink: "https://open.spotify.com/track/1Yh3EzhORIQsrVtsE6dCIo",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Oh, What a Beautiful Morning",
   trackType: "studio",
   explicit: false,

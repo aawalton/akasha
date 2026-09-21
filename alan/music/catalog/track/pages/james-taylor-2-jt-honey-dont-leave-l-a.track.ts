@@ -9,14 +9,6 @@ export const jamesTaylor2JtHoneyDontLeaveLA = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4JYMyddoksmabha0ZCltwA",
-      externalLink: "https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Honey Don't Leave L.A.",
   trackType: "studio",
   explicit: false,

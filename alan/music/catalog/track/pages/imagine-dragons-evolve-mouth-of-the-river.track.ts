@@ -9,14 +9,6 @@ export const imagineDragonsEvolveMouthOfTheRiver = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1dekgAFF9uTCqLsklDaCWb",
-      externalLink: "https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Mouth Of The River",
   trackType: "studio",
   explicit: false,

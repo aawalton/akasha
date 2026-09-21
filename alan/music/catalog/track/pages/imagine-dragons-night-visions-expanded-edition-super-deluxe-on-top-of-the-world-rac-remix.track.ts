@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1SWEOa2JKgaHekBgYCP3Jt",
-      externalLink: "https://open.spotify.com/track/1SWEOa2JKgaHekBgYCP3Jt",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "On Top Of The World - RAC Remix",
   trackType: "remix",
   explicit: false,

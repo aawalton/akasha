@@ -9,14 +9,6 @@ export const paulCardallHymnsGodTheEternalFather = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4I1uJTHsyMZ2dbdZD4A4nJ",
-      externalLink: "https://open.spotify.com/track/4I1uJTHsyMZ2dbdZD4A4nJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God, The Eternal Father",
   trackType: "studio",
   explicit: false,

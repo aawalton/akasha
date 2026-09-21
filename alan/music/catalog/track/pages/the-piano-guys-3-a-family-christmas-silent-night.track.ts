@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "48O4tCMl9OJqyLLhd7u7hF",
-      externalLink: "https://open.spotify.com/track/48O4tCMl9OJqyLLhd7u7hF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Silent Night",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2OneManDog2019RemasterFanfare2019Remaster = {
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3jbvCaqrUe2eJclQJqO0jP",
-      externalLink: "https://open.spotify.com/track/3jbvCaqrUe2eJclQJqO0jP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Fanfare - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

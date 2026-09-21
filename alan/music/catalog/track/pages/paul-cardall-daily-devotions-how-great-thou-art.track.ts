@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsHowGreatThouArt = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7FPzzAixjzW9zNWDujBJ2u",
-      externalLink: "https://open.spotify.com/track/7FPzzAixjzW9zNWDujBJ2u",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "How Great Thou Art",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMyCarDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "34YRnN8SfhTRQVAur1yDYG",
-      externalLink: "https://open.spotify.com/track/34YRnN8SfhTRQVAur1yDYG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "My Car - Demo",
   trackType: "demo",
   explicit: false,

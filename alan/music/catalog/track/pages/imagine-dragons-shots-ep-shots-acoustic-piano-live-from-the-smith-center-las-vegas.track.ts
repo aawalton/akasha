@@ -9,14 +9,6 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
   partOfCollections: ["release/imagine-dragons-shots-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2rO73AKiqSQef9hvYkOKB1",
-      externalLink: "https://open.spotify.com/track/2rO73AKiqSQef9hvYkOKB1",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots - Acoustic (Piano) / Live From The Smith Center / Las Vegas",
   trackType: "live",
   explicit: false,

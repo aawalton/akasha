@@ -9,14 +9,6 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2ABrandNewDayBts
   partOfCollections: ["release/zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3amNzwQ9muL0ZwDCbe9gWy",
-      externalLink: "https://open.spotify.com/track/3amNzwQ9muL0ZwDCbe9gWy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "A Brand New Day - BTS World Original Soundtrack (Pt. 2)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3DonTYouWorryChildInstrumentalDontYouWorryChildInstrume
   partOfCollections: ["release/the-piano-guys-3-don-t-you-worry-child-instrumental"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4eTP2iZTCyNEsBYVppRLWt",
-      externalLink: "https://open.spotify.com/track/4eTP2iZTCyNEsBYVppRLWt",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Don't You Worry Child (Instrumental)",
   trackType: "instrumental",
   explicit: false,

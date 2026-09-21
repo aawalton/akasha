@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sAlgebra = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1FTOAZGCDYcIZDlnNzzG14",
-      externalLink: "https://open.spotify.com/track/1FTOAZGCDYcIZDlnNzzG14",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Algebra",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldAngelsOfFenway = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44qKSCnfLOYTP0op4uQ530",
-      externalLink: "https://open.spotify.com/track/44qKSCnfLOYTP0op4uQ530",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Angels Of Fenway",
   trackType: "studio",
   explicit: false,

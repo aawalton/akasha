@@ -9,14 +9,6 @@ export const jamesTaylor2JtThereWeAre = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0riYVboaeTLyxByQccC80s",
-      externalLink: "https://open.spotify.com/track/0riYVboaeTLyxByQccC80s",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "There We Are",
   trackType: "studio",
   explicit: false,

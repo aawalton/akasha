@@ -12,14 +12,6 @@ export const thePianoGuys310LetItGo = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7AOfVAuxZ89ProPfA4Ozo3",
-      externalLink: "https://open.spotify.com/track/7AOfVAuxZ89ProPfA4Ozo3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Let It Go",
   trackType: "studio",
   explicit: false,

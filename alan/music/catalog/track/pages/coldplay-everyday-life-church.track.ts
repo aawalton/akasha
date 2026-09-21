@@ -9,14 +9,6 @@ export const coldplayEverydayLifeChurch = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1e8D1BCD2afT56Km7UahpB",
-      externalLink: "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Church",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "144U5cAZUYgDELPZWQ5ql1",
-      externalLink: "https://open.spotify.com/track/144U5cAZUYgDELPZWQ5ql1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Bastard in the Kitchen",
   trackType: "studio",
   explicit: true,

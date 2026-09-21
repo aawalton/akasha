@@ -9,14 +9,6 @@ export const chaislynMandelaEffectMandelaEffect = {
   partOfCollections: ["release/chaislyn-mandela-effect", "release/chaislyn-unreliable-narrator"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ca4caIx2fpTXfuJsHAurQ",
-      externalLink: "https://open.spotify.com/track/6ca4caIx2fpTXfuJsHAurQ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Mandela Effect",
   trackType: "studio",
   explicit: false,

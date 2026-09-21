@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1tByBikovzQU6SVRQvBkN8",
-      externalLink: "https://open.spotify.com/track/1tByBikovzQU6SVRQvBkN8",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cha-Ching (Till We Grow Older)",
   trackType: "studio",
   explicit: false,

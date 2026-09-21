@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessPerfect = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WDjj4qNiMlArMHZFt9WyQ",
-      externalLink: "https://open.spotify.com/track/3WDjj4qNiMlArMHZFt9WyQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Perfect",
   trackType: "studio",
   explicit: false,

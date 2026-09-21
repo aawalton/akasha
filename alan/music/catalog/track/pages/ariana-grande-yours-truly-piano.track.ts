@@ -12,14 +12,6 @@ export const arianaGrandeYoursTrulyPiano = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xCqIXCApBgcjwRLostpKl",
-      externalLink: "https://open.spotify.com/track/1xCqIXCApBgcjwRLostpKl",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Piano",
   trackType: "studio",
   explicit: false,

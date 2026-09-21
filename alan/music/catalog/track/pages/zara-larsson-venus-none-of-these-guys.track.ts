@@ -9,14 +9,6 @@ export const zaraLarssonVenusNoneOfTheseGuys = {
   partOfCollections: ["release/zara-larsson-venus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4YxCwmfbo4FcAeaK0vFJFV",
-      externalLink: "https://open.spotify.com/track/4YxCwmfbo4FcAeaK0vFJFV",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "None Of These Guys",
   trackType: "studio",
   explicit: false,

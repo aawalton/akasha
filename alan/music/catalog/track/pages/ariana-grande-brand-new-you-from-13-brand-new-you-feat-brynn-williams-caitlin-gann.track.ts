@@ -9,14 +9,6 @@ export const arianaGrandeBrandNewYouFrom13BrandNewYouFeatBrynnWilliamsCaitlinGan
   partOfCollections: ["release/ariana-grande-brand-new-you-from-13"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1magKwGDsyU3RGjpo0BfPe",
-      externalLink: "https://open.spotify.com/track/1magKwGDsyU3RGjpo0BfPe",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Brand New You (feat. Brynn Williams & Caitlin Gann)",
   trackType: "studio",
   explicit: false,

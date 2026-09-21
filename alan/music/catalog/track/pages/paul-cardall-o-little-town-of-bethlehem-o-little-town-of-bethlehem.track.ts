@@ -9,14 +9,6 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
   partOfCollections: ["release/paul-cardall-o-little-town-of-bethlehem"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ryvX7jOw6YLTAMp0QDUTe",
-      externalLink: "https://open.spotify.com/track/0ryvX7jOw6YLTAMp0QDUTe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "O Little Town of Bethlehem",
   trackType: "studio",
   explicit: false,

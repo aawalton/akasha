@@ -9,14 +9,6 @@ export const vinnyMarchiWingsOfWaxWingsOfWax = {
   partOfCollections: ["release/vinny-marchi-wings-of-wax"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PDdKCwJ7dM8YTQOApRPUk",
-      externalLink: "https://open.spotify.com/track/1PDdKCwJ7dM8YTQOApRPUk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Wings of Wax",
   trackType: "studio",
   explicit: false,

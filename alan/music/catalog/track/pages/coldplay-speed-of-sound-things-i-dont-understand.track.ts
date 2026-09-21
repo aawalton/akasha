@@ -9,14 +9,6 @@ export const coldplaySpeedOfSoundThingsIDontUnderstand = {
   partOfCollections: ["release/coldplay-speed-of-sound"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5AeARoYmk0okMRWAlPHLzj",
-      externalLink: "https://open.spotify.com/track/5AeARoYmk0okMRWAlPHLzj",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Things I Don't Understand",
   trackType: "studio",
   explicit: false,

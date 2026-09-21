@@ -9,14 +9,6 @@ export const zaraLarsson1NeverGonnaDie = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2iAsEQ50dfeAm5BRuSYdjR",
-      externalLink: "https://open.spotify.com/track/2iAsEQ50dfeAm5BRuSYdjR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Never Gonna Die",
   trackType: "studio",
   explicit: false,

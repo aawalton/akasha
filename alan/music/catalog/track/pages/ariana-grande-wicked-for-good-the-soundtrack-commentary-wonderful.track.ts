@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryWonderful = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7I7eRICQ1z4vH5p8Un5468",
-      externalLink: "https://open.spotify.com/track/7I7eRICQ1z4vH5p8Un5468",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Wonderful",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
   partOfCollections: ["release/vinny-marchi-come-little-children"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5YQuo1ly8Hdv4gHZYygFI1",
-      externalLink: "https://open.spotify.com/track/5YQuo1ly8Hdv4gHZYygFI1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Come Little Children",
   trackType: "studio",
   explicit: false,

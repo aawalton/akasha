@@ -9,14 +9,6 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "760lIPYoI1ljcDtqpevslk",
-      externalLink: "https://open.spotify.com/track/760lIPYoI1ljcDtqpevslk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus, Once of Humble Birth",
   trackType: "studio",
   explicit: false,

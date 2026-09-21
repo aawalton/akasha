@@ -9,14 +9,6 @@ export const paulCardallAncestorsHeartsOfMothers = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4047I6yARvsP9jhEjLcf2W",
-      externalLink: "https://open.spotify.com/track/4047I6yARvsP9jhEjLcf2W",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hearts of Mothers",
   trackType: "studio",
   explicit: false,

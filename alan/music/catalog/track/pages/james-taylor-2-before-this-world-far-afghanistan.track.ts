@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldFarAfghanistan = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Bq2ZlIYehQx9FRReuL6pP",
-      externalLink: "https://open.spotify.com/track/1Bq2ZlIYehQx9FRReuL6pP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Far Afghanistan",
   trackType: "studio",
   explicit: false,

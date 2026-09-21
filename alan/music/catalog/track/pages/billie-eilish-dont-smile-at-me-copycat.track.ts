@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMeCopycat = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5w7wuzMzsDer96KqxafeRK",
-      externalLink: "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "COPYCAT",
   trackType: "studio",
   explicit: false,

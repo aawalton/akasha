@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsTheVoice2013Version = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6izjnjngrKTb4J1mS7QU1v",
-      externalLink: "https://open.spotify.com/track/6izjnjngrKTb4J1mS7QU1v",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Voice - 2013 Version",
   trackType: "version",
   explicit: false,

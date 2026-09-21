@@ -9,14 +9,6 @@ export const paulCardallASacredChristmasPianoCollectionJesuJoyOfMansDesiring = {
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4GQvQzBu4FkQV90SxNDAVv",
-      externalLink: "https://open.spotify.com/track/4GQvQzBu4FkQV90SxNDAVv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesu, Joy of Man's Desiring",
   trackType: "studio",
   explicit: false,

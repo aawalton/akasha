@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourSmackwaterJackLiveAtTheTroubadour200
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5dl17YVPSzLUo0PZID2sH0",
-      externalLink: "https://open.spotify.com/track/5dl17YVPSzLUo0PZID2sH0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Smackwater Jack - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

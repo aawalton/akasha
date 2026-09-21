@@ -9,14 +9,6 @@ export const thePianoGuys3WondersBatmanEvolution = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ibZXyBDdozPtgmqM0mPvm",
-      externalLink: "https://open.spotify.com/track/6ibZXyBDdozPtgmqM0mPvm",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Batman Evolution",
   trackType: "studio",
   explicit: false,

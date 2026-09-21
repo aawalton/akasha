@@ -13,14 +13,6 @@ export const thePianoGuys3ClassicalMovieSoundtracksTime = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3dK4Mohu0ZS66L1wZRaQhS",
-      externalLink: "https://open.spotify.com/track/3dK4Mohu0ZS66L1wZRaQhS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Time",
   trackType: "studio",
   explicit: false,

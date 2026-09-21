@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneDoYouWantTo = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5pveiSpWfJflILC0oZ6ygE",
-      externalLink: "https://open.spotify.com/track/5pveiSpWfJflILC0oZ6ygE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Do You Want To...",
   trackType: "studio",
   explicit: false,

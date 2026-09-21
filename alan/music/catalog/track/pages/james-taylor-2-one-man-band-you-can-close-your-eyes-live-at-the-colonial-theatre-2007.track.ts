@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandYouCanCloseYourEyesLiveAtTheColonialTheatre20
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3JNr523fPaLjJpi4QkmWjr",
-      externalLink: "https://open.spotify.com/track/3JNr523fPaLjJpi4QkmWjr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Can Close Your Eyes - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

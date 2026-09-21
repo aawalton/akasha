@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysForTheBeautyOfTheEarth = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Hi7rALbqAeCYflbVjettL",
-      externalLink: "https://open.spotify.com/track/5Hi7rALbqAeCYflbVjettL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "For the Beauty of the Earth",
   trackType: "studio",
   explicit: false,

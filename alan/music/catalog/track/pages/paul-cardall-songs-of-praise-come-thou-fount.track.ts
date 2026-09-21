@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseComeThouFount = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1LJg1ICfSlgpUcMXCe4KSz",
-      externalLink: "https://open.spotify.com/track/1LJg1ICfSlgpUcMXCe4KSz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come Thou Fount",
   trackType: "studio",
   explicit: false,

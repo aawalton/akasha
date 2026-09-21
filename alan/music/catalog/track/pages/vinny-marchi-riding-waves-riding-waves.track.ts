@@ -9,14 +9,6 @@ export const vinnyMarchiRidingWavesRidingWaves = {
   partOfCollections: ["release/vinny-marchi-riding-waves"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2BWukQpMZk2o1TOLEqq8VB",
-      externalLink: "https://open.spotify.com/track/2BWukQpMZk2o1TOLEqq8VB",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Riding Waves",
   trackType: "studio",
   explicit: false,

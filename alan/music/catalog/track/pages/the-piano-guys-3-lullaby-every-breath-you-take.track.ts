@@ -13,14 +13,6 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0LQd5wZco2ZMBnxhNl9Qbq",
-      externalLink: "https://open.spotify.com/track/0LQd5wZco2ZMBnxhNl9Qbq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Every Breath You Take",
   trackType: "studio",
   explicit: false,

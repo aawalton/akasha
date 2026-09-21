@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiPushing20 = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xMHC2XPuDyBWU1ULY7eMA",
-      externalLink: "https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Pushing 20",
   trackType: "studio",
   explicit: false,

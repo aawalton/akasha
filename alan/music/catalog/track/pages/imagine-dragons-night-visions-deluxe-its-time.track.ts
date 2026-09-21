@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsDeluxeItsTime = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7pUYFGnZwLa7I3UmDypJGy",
-      externalLink: "https://open.spotify.com/track/7pUYFGnZwLa7I3UmDypJGy",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time",
   trackType: "studio",
   explicit: false,

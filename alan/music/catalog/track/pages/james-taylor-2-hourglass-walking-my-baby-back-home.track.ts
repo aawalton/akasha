@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassWalkingMyBabyBackHome = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2fNirB5RbToIiDQLRN0Krq",
-      externalLink: "https://open.spotify.com/track/2fNirB5RbToIiDQLRN0Krq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walking My Baby Back Home",
   trackType: "studio",
   explicit: false,

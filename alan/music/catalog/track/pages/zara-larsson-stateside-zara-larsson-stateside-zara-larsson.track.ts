@@ -9,14 +9,6 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
   partOfCollections: ["release/zara-larsson-stateside-zara-larsson"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7tM3yPeSBxnIIQlkz22vId",
-      externalLink: "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Stateside + Zara Larsson",
   trackType: "studio",
   explicit: false,

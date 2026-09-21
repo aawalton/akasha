@@ -9,14 +9,6 @@ export const thePianoGuys3AsItWasCrescendo = {
   partOfCollections: ["release/the-piano-guys-3-as-it-was"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3T6g8ClHPujXB8EUABssls",
-      externalLink: "https://open.spotify.com/track/3T6g8ClHPujXB8EUABssls",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Crescendo",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12MyLife = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0E0kxko3i9b5JxxMoGH3At",
-      externalLink: "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "My Life",
   trackType: "studio",
   explicit: false,

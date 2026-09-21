@@ -9,14 +9,6 @@ export const coldplayLostLostLiveAtTheUnitedCenterChicagoIl = {
   partOfCollections: ["release/coldplay-lost"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69joApFuCALBP6TPrK9bgL",
-      externalLink: "https://open.spotify.com/track/69joApFuCALBP6TPrK9bgL",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Lost@ - Live at the United Center, Chicago, IL",
   trackType: "live",
   explicit: false,

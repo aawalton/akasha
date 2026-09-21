@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetAPoorWayfaringManOfGrief = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ewXZagOW77P0dJ0YQJaDt",
-      externalLink: "https://open.spotify.com/track/3ewXZagOW77P0dJ0YQJaDt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Poor Wayfaring Man of Grief",
   trackType: "studio",
   explicit: false,

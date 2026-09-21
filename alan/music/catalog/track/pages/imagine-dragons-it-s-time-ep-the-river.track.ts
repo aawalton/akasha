@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpTheRiver = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "41zwUx62ysDe6nwWBh0OgF",
-      externalLink: "https://open.spotify.com/track/41zwUx62ysDe6nwWBh0OgF",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The River",
   trackType: "studio",
   explicit: false,

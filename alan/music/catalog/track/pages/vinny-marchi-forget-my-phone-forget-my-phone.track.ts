@@ -9,14 +9,6 @@ export const vinnyMarchiForgetMyPhoneForgetMyPhone = {
   partOfCollections: ["release/vinny-marchi-forget-my-phone"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6eE5jQ9nSoq0l4JcUujPWC",
-      externalLink: "https://open.spotify.com/track/6eE5jQ9nSoq0l4JcUujPWC",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Forget My Phone",
   trackType: "studio",
   explicit: false,

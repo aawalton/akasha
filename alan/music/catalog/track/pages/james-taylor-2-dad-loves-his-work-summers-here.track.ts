@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkSummersHere = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1kgoMTV6BJlCYzTR9lOxCy",
-      externalLink: "https://open.spotify.com/track/1kgoMTV6BJlCYzTR9lOxCy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Summer's Here",
   trackType: "studio",
   explicit: false,

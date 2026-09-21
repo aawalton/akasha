@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIHoldTight = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "72DnQlaqdNhz9QJZXfYe6L",
-      externalLink: "https://open.spotify.com/track/72DnQlaqdNhz9QJZXfYe6L",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Hold Tight",
   trackType: "studio",
   explicit: false,

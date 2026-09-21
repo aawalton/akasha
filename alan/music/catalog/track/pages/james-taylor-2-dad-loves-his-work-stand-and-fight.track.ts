@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkStandAndFight = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0hoLBsCWJzyFVLuDsCBHNp",
-      externalLink: "https://open.spotify.com/track/0hoLBsCWJzyFVLuDsCBHNp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Stand and Fight",
   trackType: "studio",
   explicit: false,

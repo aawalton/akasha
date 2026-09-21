@@ -9,14 +9,6 @@ export const thePianoGuys3IWantYouBackIWantYouBack = {
   partOfCollections: ["release/the-piano-guys-3-i-want-you-back"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Ysbm2Ee2V0TH7tQtAaYMN",
-      externalLink: "https://open.spotify.com/track/5Ysbm2Ee2V0TH7tQtAaYMN",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Want You Back",
   trackType: "studio",
   explicit: false,

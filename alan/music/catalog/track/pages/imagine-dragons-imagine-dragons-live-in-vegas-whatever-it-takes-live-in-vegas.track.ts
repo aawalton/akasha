@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasWhateverItTakesLiveInVegas =
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5nASdE2ijIfq0cIG4VZCgW",
-      externalLink: "https://open.spotify.com/track/5nASdE2ijIfq0cIG4VZCgW",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Whatever It Takes - Live in Vegas",
   trackType: "live",
   explicit: false,

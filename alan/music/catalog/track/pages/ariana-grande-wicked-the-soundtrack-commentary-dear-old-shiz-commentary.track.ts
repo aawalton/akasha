@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShizCommentary = {
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6AVyPemIr495w204rKASwR",
-      externalLink: "https://open.spotify.com/track/6AVyPemIr495w204rKASwR",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Dear Old Shiz - Commentary",
   trackType: "studio",
   explicit: false,

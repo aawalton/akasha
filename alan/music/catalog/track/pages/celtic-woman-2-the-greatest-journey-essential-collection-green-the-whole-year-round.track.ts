@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionGreenTheWholeYearR
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rFo4MQb4tUTcPs5RW9dSy",
-      externalLink: "https://open.spotify.com/track/4rFo4MQb4tUTcPs5RW9dSy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Green The Whole Year 'Round",
   trackType: "studio",
   explicit: false,

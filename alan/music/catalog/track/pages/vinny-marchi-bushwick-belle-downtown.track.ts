@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleDowntown = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle", "release/vinny-marchi-downtown"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4LQKy6ifOt6doOH157akvv",
-      externalLink: "https://open.spotify.com/track/4LQKy6ifOt6doOH157akvv",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Downtown",
   trackType: "studio",
   explicit: false,

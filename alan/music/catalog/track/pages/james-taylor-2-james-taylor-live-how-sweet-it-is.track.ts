@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveHowSweetItIs = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4BiqtG2bW4JrNRd2T2mr0j",
-      externalLink: "https://open.spotify.com/track/4BiqtG2bW4JrNRd2T2mr0j",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "How Sweet It Is",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
   partOfCollections: ["release/ariana-grande-i-don-t-know-why-i-just-do"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0MF0kprFLhr2KtqNjgN7bw",
-      externalLink: "https://open.spotify.com/track/0MF0kprFLhr2KtqNjgN7bw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "I Don't Know Why (I Just Do)",
   trackType: "studio",
   explicit: false,

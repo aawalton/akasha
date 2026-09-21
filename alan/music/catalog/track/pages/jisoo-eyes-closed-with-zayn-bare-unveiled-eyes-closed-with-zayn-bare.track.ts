@@ -9,14 +9,6 @@ export const jisooEyesClosedWithZaynBareUnveiledEyesClosedWithZaynBare = {
   partOfCollections: ["release/jisoo-eyes-closed-with-zayn-bare-unveiled"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4tPfvkQAA3q6PF6bkBhvB0",
-      externalLink: "https://open.spotify.com/track/4tPfvkQAA3q6PF6bkBhvB0",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "EYES CLOSED (with ZAYN) - BARE",
   trackType: "studio",
   explicit: false,

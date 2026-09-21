@@ -9,14 +9,6 @@ export const coldplayXYAMessage = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2w3eXFL86RgxGtDr8bzwgK",
-      externalLink: "https://open.spotify.com/track/2w3eXFL86RgxGtDr8bzwgK",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Message",
   trackType: "studio",
   explicit: false,

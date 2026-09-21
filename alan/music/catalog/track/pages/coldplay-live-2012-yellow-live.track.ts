@@ -9,14 +9,6 @@ export const coldplayLive2012YellowLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58MrV6J9oS46ViY1N6gTJX",
-      externalLink: "https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Yellow - Live",
   trackType: "live",
   explicit: false,

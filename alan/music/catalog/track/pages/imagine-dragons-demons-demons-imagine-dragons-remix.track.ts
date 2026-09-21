@@ -9,14 +9,6 @@ export const imagineDragonsDemonsDemonsImagineDragonsRemix = {
   partOfCollections: ["release/imagine-dragons-demons"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2YaY6wwlPAi4FK9MnNX8Im",
-      externalLink: "https://open.spotify.com/track/2YaY6wwlPAi4FK9MnNX8Im",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Imagine Dragons Remix",
   trackType: "remix",
   explicit: false,

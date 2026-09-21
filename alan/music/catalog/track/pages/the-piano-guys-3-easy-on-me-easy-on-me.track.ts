@@ -13,14 +13,6 @@ export const thePianoGuys3EasyOnMeEasyOnMe = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ndm9V7DmeI3kOOMwaCMzk",
-      externalLink: "https://open.spotify.com/track/1ndm9V7DmeI3kOOMwaCMzk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Easy On Me",
   trackType: "studio",
   explicit: false,

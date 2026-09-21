@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveSteamrollerBlues = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1I2RS5C10KUMY5Cbx1Etzs",
-      externalLink: "https://open.spotify.com/track/1I2RS5C10KUMY5Cbx1Etzs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Steamroller Blues",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBleedingOut = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2cv40voPdkNkJm690RfKXE",
-      externalLink: "https://open.spotify.com/track/2cv40voPdkNkJm690RfKXE",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bleeding Out",
   trackType: "studio",
   explicit: false,

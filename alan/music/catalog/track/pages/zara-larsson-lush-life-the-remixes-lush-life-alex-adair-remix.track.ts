@@ -9,14 +9,6 @@ export const zaraLarssonLushLifeTheRemixesLushLifeAlexAdairRemix = {
   partOfCollections: ["release/zara-larsson-lush-life-the-remixes"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7JN46TALgEcGMhA83mWupQ",
-      externalLink: "https://open.spotify.com/track/7JN46TALgEcGMhA83mWupQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life - Alex Adair Remix",
   trackType: "remix",
   explicit: false,

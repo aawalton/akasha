@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenue = {
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5UkqH9t76GxI48YHA0thsy",
-      externalLink: "https://open.spotify.com/track/5UkqH9t76GxI48YHA0thsy",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Honeymoon Avenue",
   trackType: "studio",
   explicit: false,

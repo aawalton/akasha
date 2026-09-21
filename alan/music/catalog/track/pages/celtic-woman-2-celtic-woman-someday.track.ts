@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanSomeday = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0QWsU7rdcjFrsVw2O2uC0J",
-      externalLink: "https://open.spotify.com/track/0QWsU7rdcjFrsVw2O2uC0J",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Someday",
   trackType: "studio",
   explicit: false,

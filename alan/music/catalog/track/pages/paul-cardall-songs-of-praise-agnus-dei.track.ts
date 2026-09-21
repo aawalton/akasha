@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseAgnusDei = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5sIGXXf3iROTkuVwVTd2Jd",
-      externalLink: "https://open.spotify.com/track/5sIGXXf3iROTkuVwVTd2Jd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Agnus Dei",
   trackType: "studio",
   explicit: false,

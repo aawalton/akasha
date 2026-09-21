@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingSequoiasPath = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7MyakuivAkXDZ4xs76pUjk",
-      externalLink: "https://open.spotify.com/track/7MyakuivAkXDZ4xs76pUjk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sequoia's Path",
   trackType: "studio",
   explicit: false,

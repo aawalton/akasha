@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleHushLittleBabyTheMockingBirdS
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0596fiCmvgBVgnGrMbgzGS",
-      externalLink: "https://open.spotify.com/track/0596fiCmvgBVgnGrMbgzGS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hush Little Baby (The Mocking Bird Song)",
   trackType: "studio",
   explicit: false,

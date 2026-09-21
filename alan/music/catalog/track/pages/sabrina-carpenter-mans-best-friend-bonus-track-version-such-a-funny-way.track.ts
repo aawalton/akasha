@@ -9,14 +9,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionSuchAFunnyWay = {
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5INY1sXYVmFCN5I6cbwdmk",
-      externalLink: "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Such A Funny Way",
   trackType: "studio",
   explicit: false,

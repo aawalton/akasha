@@ -12,14 +12,6 @@ export const paulCardallBeCalmBrainHealthyMusicSweetEscape = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7bwd9S6n7kHPHKj2Tal7Fo",
-      externalLink: "https://open.spotify.com/track/7bwd9S6n7kHPHKj2Tal7Fo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Escape",
   trackType: "studio",
   explicit: false,

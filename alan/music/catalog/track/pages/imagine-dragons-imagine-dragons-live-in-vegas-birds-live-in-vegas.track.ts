@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasBirdsLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1zx9qIkjNrv0jyLanqEI09",
-      externalLink: "https://open.spotify.com/track/1zx9qIkjNrv0jyLanqEI09",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Birds - Live in Vegas",
   trackType: "live",
   explicit: false,

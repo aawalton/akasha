@@ -9,14 +9,6 @@ export const coldplayGhostStoriesInk = {
   partOfCollections: ["release/coldplay-ghost-stories"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6c6W25YoDGjTq3qSPOga5t",
-      externalLink: "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Ink",
   trackType: "studio",
   explicit: false,

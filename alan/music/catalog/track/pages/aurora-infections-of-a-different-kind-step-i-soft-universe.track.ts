@@ -12,14 +12,6 @@ export const auroraInfectionsOfADifferentKindStepISoftUniverse = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1jf1gcPc1nckS0PAJkbPqo",
-      externalLink: "https://open.spotify.com/track/1jf1gcPc1nckS0PAJkbPqo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Soft Universe",
   trackType: "studio",
   explicit: false,

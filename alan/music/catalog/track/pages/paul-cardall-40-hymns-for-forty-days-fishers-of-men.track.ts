@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysFishersOfMen = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1wwIkJ6Hnr2nqT2RA1ycxD",
-      externalLink: "https://open.spotify.com/track/1wwIkJ6Hnr2nqT2RA1ycxD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fishers of Men",
   trackType: "studio",
   explicit: false,

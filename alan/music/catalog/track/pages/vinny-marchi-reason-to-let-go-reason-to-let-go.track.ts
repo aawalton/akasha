@@ -9,14 +9,6 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
   partOfCollections: ["release/vinny-marchi-reason-to-let-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1w9ZAflleuPDEVhdY2cOHV",
-      externalLink: "https://open.spotify.com/track/1w9ZAflleuPDEVhdY2cOHV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "reason to let go",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishBitchesBrokenHeartsBitchesBrokenHearts = {
   partOfCollections: ["release/billie-eilish-bitches-broken-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5t3Vk8bRKylx4fjj7qlbib",
-      externalLink: "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "bitches broken hearts",
   trackType: "studio",
   explicit: true,

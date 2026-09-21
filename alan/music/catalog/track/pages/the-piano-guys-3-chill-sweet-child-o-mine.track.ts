@@ -13,14 +13,6 @@ export const thePianoGuys3ChillSweetChildOMine = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nmLUsH7krNeaz7KC8Qxih",
-      externalLink: "https://open.spotify.com/track/0nmLUsH7krNeaz7KC8Qxih",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sweet Child o' Mine",
   trackType: "studio",
   explicit: false,

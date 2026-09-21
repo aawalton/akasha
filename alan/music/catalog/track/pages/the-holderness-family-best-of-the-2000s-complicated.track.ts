@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sComplicated = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nj4j27YYXqlkZ14qgfRXs",
-      externalLink: "https://open.spotify.com/track/2nj4j27YYXqlkZ14qgfRXs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Complicated",
   trackType: "studio",
   explicit: false,

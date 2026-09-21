@@ -9,14 +9,6 @@ export const jamesTaylor2WalkingMan2019RemasterWalkingMan2019Remaster = {
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5CHX5fuINGV2Y7T4sDKdUJ",
-      externalLink: "https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walking Man - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

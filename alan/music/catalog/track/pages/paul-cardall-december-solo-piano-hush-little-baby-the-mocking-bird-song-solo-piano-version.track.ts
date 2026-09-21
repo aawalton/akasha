@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoHushLittleBabyTheMockingBirdSongSoloPia
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0pHTqwhsLfWy9IDb4Fvxnt",
-      externalLink: "https://open.spotify.com/track/0pHTqwhsLfWy9IDb4Fvxnt",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hush Little Baby (The Mocking Bird Song) - Solo Piano Version",
   trackType: "version",
   explicit: false,

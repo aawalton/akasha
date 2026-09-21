@@ -10,14 +10,6 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
     partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "0byLdLL737OkLJ6WRhi85Z",
-        externalLink: "https://open.spotify.com/track/0byLdLL737OkLJ6WRhi85Z",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "off the table (with The Weeknd) - live from Vevo",
     trackType: "live",
     explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallHymnsVol2LoveAtHome = {
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "01cbdWHZ0pfafVBhRgJikz",
-      externalLink: "https://open.spotify.com/track/01cbdWHZ0pfafVBhRgJikz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Love at Home",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeIDontMind = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0YvtHBWXqr8dfxqfT5GgWC",
-      externalLink: "https://open.spotify.com/track/0YvtHBWXqr8dfxqfT5GgWC",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Don't Mind",
   trackType: "studio",
   explicit: false,

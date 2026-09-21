@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterMoneyMachine2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1iEzr3BJv8KK2pdz3pgnuX",
-      externalLink: "https://open.spotify.com/track/1iEzr3BJv8KK2pdz3pgnuX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Money Machine - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

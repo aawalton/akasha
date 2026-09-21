@@ -9,14 +9,6 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
   partOfCollections: ["release/ariana-grande-a-hand-for-mrs-claus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "51WKo14W3ePwu4bvn8bBLF",
-      externalLink: "https://open.spotify.com/track/51WKo14W3ePwu4bvn8bBLF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "A Hand For Mrs. Claus",
   trackType: "studio",
   explicit: false,

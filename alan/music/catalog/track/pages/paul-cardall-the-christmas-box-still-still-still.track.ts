@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxStillStillStill = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Wb98m8lm2krd0sKP3NnE5",
-      externalLink: "https://open.spotify.com/track/2Wb98m8lm2krd0sKP3NnE5",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Still, Still, Still",
   trackType: "studio",
   explicit: false,

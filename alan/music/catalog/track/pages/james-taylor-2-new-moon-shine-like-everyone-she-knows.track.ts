@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineLikeEveryoneSheKnows = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7nomKdjCucPNhBx3RbCim0",
-      externalLink: "https://open.spotify.com/track/7nomKdjCucPNhBx3RbCim0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Like Everyone She Knows",
   trackType: "studio",
   explicit: false,

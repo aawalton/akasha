@@ -13,14 +13,6 @@ export const thePianoGuys310ThinkingOutLoud = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "55Kunp4OMnygqTnW7jgua4",
-      externalLink: "https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Thinking Out Loud",
   trackType: "studio",
   explicit: false,

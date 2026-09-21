@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackThroughTheEyesOfACh
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1SwfVvuuSt9RLBLkv9ZQaN",
-      externalLink: "https://open.spotify.com/track/1SwfVvuuSt9RLBLkv9ZQaN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Through the Eyes of a Child",
   trackType: "studio",
   explicit: false,

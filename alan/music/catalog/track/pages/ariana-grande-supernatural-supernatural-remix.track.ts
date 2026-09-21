@@ -9,14 +9,6 @@ export const arianaGrandeSupernaturalSupernaturalRemix = {
   partOfCollections: ["release/ariana-grande-supernatural"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6GVSrGzoVDTHqb5n8hAIHU",
-      externalLink: "https://open.spotify.com/track/6GVSrGzoVDTHqb5n8hAIHU",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "supernatural - remix",
   trackType: "remix",
   explicit: false,

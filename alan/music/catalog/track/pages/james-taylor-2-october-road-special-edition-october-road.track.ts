@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionOctoberRoad = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nILp5SpecXFvJQotZe48y",
-      externalLink: "https://open.spotify.com/track/0nILp5SpecXFvJQotZe48y",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "October Road",
   trackType: "studio",
   explicit: false,

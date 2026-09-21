@@ -9,14 +9,6 @@ export const paulCardallSacredPianoGraciesTheme = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0UFK7SQY17RqV3WiexKiOz",
-      externalLink: "https://open.spotify.com/track/0UFK7SQY17RqV3WiexKiOz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gracie's Theme",
   trackType: "studio",
   explicit: false,

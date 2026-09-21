@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsAdventureOfALifetime = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69uxyAqqPIsUyTO8txoP2M",
-      externalLink: "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Adventure of a Lifetime",
   trackType: "studio",
   explicit: false,

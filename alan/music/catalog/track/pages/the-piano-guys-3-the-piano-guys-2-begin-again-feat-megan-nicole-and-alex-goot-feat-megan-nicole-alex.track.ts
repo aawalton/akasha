@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2BeginAgainFeatMeganNicoleAndAlexGootFeatM
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ojOsS0Xx9CGjufFGJuaJG",
-      externalLink: "https://open.spotify.com/track/1ojOsS0Xx9CGjufFGJuaJG",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Begin Again (feat. Megan Nicole and Alex Goot) (feat. Megan Nicole & Alex Goot)",
   trackType: "studio",
   explicit: false,

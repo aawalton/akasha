@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIPrfct = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75wU86jr8iIiBVfD3kU3cU",
-      externalLink: "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "prfct",
   trackType: "studio",
   explicit: false,

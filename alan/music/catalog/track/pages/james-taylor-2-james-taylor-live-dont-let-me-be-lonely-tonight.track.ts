@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveDontLetMeBeLonelyTonight = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6LvPaXUdrEidPYrz16WUjQ",
-      externalLink: "https://open.spotify.com/track/6LvPaXUdrEidPYrz16WUjQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Let Me Be Lonely Tonight",
   trackType: "studio",
   explicit: false,

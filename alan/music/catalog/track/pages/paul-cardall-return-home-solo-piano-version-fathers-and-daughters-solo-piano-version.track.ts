@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionFathersAndDaughtersSoloPianoVe
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2toqVyhOm5zuY3wPvsUp5r",
-      externalLink: "https://open.spotify.com/track/2toqVyhOm5zuY3wPvsUp5r",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fathers and Daughters - Solo Piano Version",
   trackType: "version",
   explicit: false,

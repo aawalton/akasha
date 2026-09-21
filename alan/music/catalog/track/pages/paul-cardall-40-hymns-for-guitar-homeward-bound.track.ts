@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarHomewardBound = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5vvqLOzysbbeAWgVoTHZwl",
-      externalLink: "https://open.spotify.com/track/5vvqLOzysbbeAWgVoTHZwl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Homeward Bound",
   trackType: "studio",
   explicit: false,

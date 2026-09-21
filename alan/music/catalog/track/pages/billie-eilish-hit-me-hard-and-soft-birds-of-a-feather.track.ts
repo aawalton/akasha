@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftBirdsOfAFeather = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6dOtVTDdiauQNBQEDOtlAB",
-      externalLink: "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "BIRDS OF A FEATHER",
   trackType: "studio",
   explicit: false,

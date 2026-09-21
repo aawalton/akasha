@@ -13,14 +13,6 @@ export const auroraADifferentKindOfHumanStepIiAppleTree = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "11GFNnNtxUr6jkgY08D9WT",
-      externalLink: "https://open.spotify.com/track/11GFNnNtxUr6jkgY08D9WT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Apple Tree",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeChristmasKissesLoveIsEverything = {
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "25tkPPlBrYCXkSIAASibtL",
-      externalLink: "https://open.spotify.com/track/25tkPPlBrYCXkSIAASibtL",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Love Is Everything",
   trackType: "studio",
   explicit: false,

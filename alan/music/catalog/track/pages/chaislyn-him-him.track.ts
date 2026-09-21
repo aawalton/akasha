@@ -9,14 +9,6 @@ export const chaislynHimHim = {
   partOfCollections: ["release/chaislyn-him"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5YY8JhkNdV8BjMWMVOVQsm",
-      externalLink: "https://open.spotify.com/track/5YY8JhkNdV8BjMWMVOVQsm",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Him",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuysSerenityThinkingOutLoud = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Ae4dcsK9fsfSBmZaHrvTF",
-      externalLink: "https://open.spotify.com/track/1Ae4dcsK9fsfSBmZaHrvTF",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Thinking Out Loud",
   trackType: "studio",
   explicit: false,

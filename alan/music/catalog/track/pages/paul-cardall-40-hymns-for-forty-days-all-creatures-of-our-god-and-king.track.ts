@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysAllCreaturesOfOurGodAndKing = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "13PCG5F9FG9dSfe9P7Xo8x",
-      externalLink: "https://open.spotify.com/track/13PCG5F9FG9dSfe9P7Xo8x",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All Creatures of Our God and King",
   trackType: "studio",
   explicit: false,

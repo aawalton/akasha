@@ -9,14 +9,6 @@ export const coldplayGhostStoriesTrueLove = {
   partOfCollections: ["release/coldplay-ghost-stories", "release/coldplay-true-love"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0fQuzbQNLcD1ofo7B2NcFI",
-      externalLink: "https://open.spotify.com/track/0fQuzbQNLcD1ofo7B2NcFI",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "True Love",
   trackType: "studio",
   explicit: false,

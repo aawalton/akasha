@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsEpINeedAMinute = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KGy3eAm0sEYtkQD55kMWl",
-      externalLink: "https://open.spotify.com/track/7KGy3eAm0sEYtkQD55kMWl",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Need a Minute",
   trackType: "studio",
   explicit: false,

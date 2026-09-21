@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionCarolineISeeYou = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0etnhw0hN9uq2hkxfj58xl",
-      externalLink: "https://open.spotify.com/track/0etnhw0hN9uq2hkxfj58xl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Caroline I See You",
   trackType: "studio",
   explicit: false,

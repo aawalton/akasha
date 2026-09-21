@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverBillieBossaNova = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2KnuaZYoGzDoHiBTNYOTXG",
-      externalLink: "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Billie Bossa Nova",
   trackType: "studio",
   explicit: false,

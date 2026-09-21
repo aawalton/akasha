@@ -9,14 +9,6 @@ export const thePianoGuys3WalkingTheWireLargoWalkingTheWireLargo = {
   partOfCollections: ["release/the-piano-guys-3-walking-the-wire-largo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0pj0O8Yk4ZPHd0CHlWLojw",
-      externalLink: "https://open.spotify.com/track/0pj0O8Yk4ZPHd0CHlWLojw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Walking the Wire / Largo",
   trackType: "studio",
   explicit: false,

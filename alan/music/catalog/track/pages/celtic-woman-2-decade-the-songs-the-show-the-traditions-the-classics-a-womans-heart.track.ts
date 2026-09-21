@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAWomansHea
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2XnYpumTkwxh5bd3yLNRjH",
-      externalLink: "https://open.spotify.com/track/2XnYpumTkwxh5bd3yLNRjH",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "A Woman's Heart",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallSacredPianoLiveToLove = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3LL4bs5JQ508unAk97UYpi",
-      externalLink: "https://open.spotify.com/track/3LL4bs5JQ508unAk97UYpi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Live to Love",
   trackType: "studio",
   explicit: false,

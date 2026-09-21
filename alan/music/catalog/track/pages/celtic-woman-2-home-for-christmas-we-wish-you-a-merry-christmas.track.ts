@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasWeWishYouAMerryChristmas = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0jHGttjSVwSFSiA42VncUb",
-      externalLink: "https://open.spotify.com/track/0jHGttjSVwSFSiA42VncUb",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "We Wish You A Merry Christmas",
   trackType: "studio",
   explicit: false,

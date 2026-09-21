@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Giants = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5HmxrDC6RrpkCDtMYQqkqx",
-      externalLink: "https://open.spotify.com/track/5HmxrDC6RrpkCDtMYQqkqx",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Giants",
   trackType: "studio",
   explicit: false,

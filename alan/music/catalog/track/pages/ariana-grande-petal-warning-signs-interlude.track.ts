@@ -9,14 +9,6 @@ export const arianaGrandePetalWarningSignsInterlude = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0cJRr7kw5FkV5e8ejEB2j6",
-      externalLink: "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "warning signs (interlude)",
   trackType: "studio",
   explicit: false,

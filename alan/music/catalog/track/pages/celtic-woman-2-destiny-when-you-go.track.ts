@@ -9,14 +9,6 @@ export const celticWoman2DestinyWhenYouGo = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4dvyIYRaZ0RFmn9ApWTCwU",
-      externalLink: "https://open.spotify.com/track/4dvyIYRaZ0RFmn9ApWTCwU",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "When You Go",
   trackType: "studio",
   explicit: false,

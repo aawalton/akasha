@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackFollowMe = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GPz8DVfg6oTTCjewoSW4y",
-      externalLink: "https://open.spotify.com/track/1GPz8DVfg6oTTCjewoSW4y",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Follow Me",
   trackType: "studio",
   explicit: false,

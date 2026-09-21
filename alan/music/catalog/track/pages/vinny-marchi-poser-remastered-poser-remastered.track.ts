@@ -9,14 +9,6 @@ export const vinnyMarchiPoserRemasteredPoserRemastered = {
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4mjfyZy0jg32Aaa3Qjr7qb",
-      externalLink: "https://open.spotify.com/track/4mjfyZy0jg32Aaa3Qjr7qb",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "POSER - remastered",
   trackType: "remaster",
   explicit: false,

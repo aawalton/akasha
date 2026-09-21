@@ -9,14 +9,6 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
   partOfCollections: ["release/sabrina-carpenter-almost-love-stargate-warehouse-mix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5SQPsKDOYDtAt64IZYPcXu",
-      externalLink: "https://open.spotify.com/track/5SQPsKDOYDtAt64IZYPcXu",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Almost Love - Stargate Warehouse Mix",
   trackType: "remix",
   explicit: false,

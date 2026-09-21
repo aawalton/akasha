@@ -9,14 +9,6 @@ export const thePianoGuys3LivePeponiParadiseLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4KTvBpuyzikbShNQ2wl3NQ",
-      externalLink: "https://open.spotify.com/track/4KTvBpuyzikbShNQ2wl3NQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Peponi (Paradise) [Live]",
   trackType: "live",
   explicit: false,

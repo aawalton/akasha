@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "4IeEdWzYf58yoV56qRXddJ",
-        externalLink: "https://open.spotify.com/track/4IeEdWzYf58yoV56qRXddJ",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "we can't be friends (wait for your love) - instrumental",
     trackType: "instrumental",
     explicit: false,

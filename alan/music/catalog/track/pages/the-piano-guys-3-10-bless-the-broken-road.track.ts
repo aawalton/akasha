@@ -12,14 +12,6 @@ export const thePianoGuys310BlessTheBrokenRoad = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7wnYESYaoBgROglhywVA13",
-      externalLink: "https://open.spotify.com/track/7wnYESYaoBgROglhywVA13",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bless the Broken Road",
   trackType: "studio",
   explicit: false,

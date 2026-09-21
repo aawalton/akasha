@@ -9,14 +9,6 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
   partOfCollections: ["release/billie-eilish-lo-vas-a-olvidar-with-rosalia"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0psS4i5YooJrXfDnGvWRLi",
-      externalLink: "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lo Vas A Olvidar (with ROSALÍA)",
   trackType: "studio",
   explicit: false,

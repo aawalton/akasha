@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsMoGhileMear = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2eaQufLpyjCrVIVny7tjaD",
-      externalLink: "https://open.spotify.com/track/2eaQufLpyjCrVIVny7tjaD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear",
   trackType: "studio",
   explicit: false,

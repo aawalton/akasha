@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsFarewell = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "79HD98hiqx1Wtao2dyfdTr",
-      externalLink: "https://open.spotify.com/track/79HD98hiqx1Wtao2dyfdTr",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Farewell",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeEarthlyDelights = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1kk0xrPI07ZZMMNHINlKJj",
-      externalLink: "https://open.spotify.com/track/1kk0xrPI07ZZMMNHINlKJj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Earthly Delights",
   trackType: "studio",
   explicit: false,

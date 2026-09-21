@@ -9,14 +9,6 @@ export const coldplayASkyFullOfStarsHardwellRemixASkyFullOfStarsHardwellRemix = 
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-hardwell-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WZVGXO8FYpK8v1IDxlOyE",
-      externalLink: "https://open.spotify.com/track/0WZVGXO8FYpK8v1IDxlOyE",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Sky Full of Stars - Hardwell Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLive2003AmsterdamLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3TQs5AmPNEnnTNSXzCQV7G",
-      externalLink: "https://open.spotify.com/track/3TQs5AmPNEnnTNSXzCQV7G",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Amsterdam - Live in Sydney",
   trackType: "live",
   explicit: false,

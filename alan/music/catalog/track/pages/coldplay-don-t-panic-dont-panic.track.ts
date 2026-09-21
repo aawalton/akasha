@@ -9,14 +9,6 @@ export const coldplayDonTPanicDontPanic = {
   partOfCollections: ["release/coldplay-don-t-panic", "release/coldplay-parachutes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "62XuJOHM33VyWgKwNoj6w9",
-      externalLink: "https://open.spotify.com/track/62XuJOHM33VyWgKwNoj6w9",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Don't Panic",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const emeiScatterbrain2Cynical = {
   partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0HoXKvtfGFB2CCQvOfNjcd",
-      externalLink: "https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cynical",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBubbleNightVisi
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4n1NdHdorunkuC2nQJX6ld",
-      externalLink: "https://open.spotify.com/track/4n1NdHdorunkuC2nQJX6ld",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bubble - Night Visions Demo",
   trackType: "demo",
   explicit: false,

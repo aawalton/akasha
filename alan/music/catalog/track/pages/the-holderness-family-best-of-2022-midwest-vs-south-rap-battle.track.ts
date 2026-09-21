@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022MidwestVsSouthRapBattle = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7BBqaaVmoJA6Lt4IsZtLgf",
-      externalLink: "https://open.spotify.com/track/7BBqaaVmoJA6Lt4IsZtLgf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Midwest vs South Rap Battle",
   trackType: "studio",
   explicit: false,

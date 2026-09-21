@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Uf5kobSFxwPZYlqAc4y7F",
-      externalLink: "https://open.spotify.com/track/5Uf5kobSFxwPZYlqAc4y7F",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Here Comes the Sun",
   trackType: "studio",
   explicit: false,

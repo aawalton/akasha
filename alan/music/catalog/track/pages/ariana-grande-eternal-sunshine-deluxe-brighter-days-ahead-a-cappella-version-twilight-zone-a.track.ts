@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "32fRtQExWvhTIWYYTfi83s",
-      externalLink: "https://open.spotify.com/track/32fRtQExWvhTIWYYTfi83s",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "twilight zone - a cappella",
   trackType: "a-cappella",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardMyHeartStoodStill = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5NbEQEE3DUOVVyeD1VyHIL",
-      externalLink: "https://open.spotify.com/track/5NbEQEE3DUOVVyeD1VyHIL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Heart Stood Still",
   trackType: "studio",
   explicit: false,

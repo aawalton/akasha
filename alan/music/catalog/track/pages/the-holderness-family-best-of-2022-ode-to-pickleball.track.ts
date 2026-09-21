@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022OdeToPickleball = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7mOMNeL1n7X2v8aykLUqJv",
-      externalLink: "https://open.spotify.com/track/7mOMNeL1n7X2v8aykLUqJv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ode to Pickleball",
   trackType: "studio",
   explicit: false,

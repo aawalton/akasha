@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerGodIsAWoman = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5OCJzvD7sykQEKHH7qAC3C",
-      externalLink: "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "God is a woman",
   trackType: "studio",
   explicit: true,

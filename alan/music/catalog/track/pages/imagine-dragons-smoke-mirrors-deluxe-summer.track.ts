@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeSummer = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5dvDAORqUH5xoO8bfv0hlG",
-      externalLink: "https://open.spotify.com/track/5dvDAORqUH5xoO8bfv0hlG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Summer",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3LimitlessNorthCape = {
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7LdwWWep99mc0L5c1gY8e7",
-      externalLink: "https://open.spotify.com/track/7LdwWWep99mc0L5c1gY8e7",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "North Cape",
   trackType: "studio",
   explicit: false,

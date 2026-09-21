@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "47xnyhYDKv1iXrgFIFoUWL",
-      externalLink: "https://open.spotify.com/track/47xnyhYDKv1iXrgFIFoUWL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Baby, It's Cold Outside (feat. Natalie Cole)",
   trackType: "studio",
   explicit: false,

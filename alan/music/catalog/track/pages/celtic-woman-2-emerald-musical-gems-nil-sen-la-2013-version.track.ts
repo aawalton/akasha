@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsNilSenLa2013Version = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4U00P4xjZaM9RInUGOUyA7",
-      externalLink: "https://open.spotify.com/track/4U00P4xjZaM9RInUGOUyA7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Níl Sé'n Lá - 2013 Version",
   trackType: "version",
   explicit: false,

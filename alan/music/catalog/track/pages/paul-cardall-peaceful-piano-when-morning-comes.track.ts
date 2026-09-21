@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoWhenMorningComes = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nku2WnTle72iE8OrNyDwT",
-      externalLink: "https://open.spotify.com/track/0nku2WnTle72iE8OrNyDwT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "When Morning Comes",
   trackType: "studio",
   explicit: false,

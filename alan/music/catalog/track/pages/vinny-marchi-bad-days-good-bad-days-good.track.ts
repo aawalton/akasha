@@ -9,14 +9,6 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
   partOfCollections: ["release/vinny-marchi-bad-days-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Rjy1m7fY46sKHPY7wvuGM",
-      externalLink: "https://open.spotify.com/track/0Rjy1m7fY46sKHPY7wvuGM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Bad Days Good",
   trackType: "studio",
   explicit: false,

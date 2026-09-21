@@ -9,14 +9,6 @@ export const thePianoGuys3PerfectPerfect = {
   partOfCollections: ["release/the-piano-guys-3-perfect"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2R0FW1n6cOkQDJhAkQENsf",
-      externalLink: "https://open.spotify.com/track/2R0FW1n6cOkQDJhAkQENsf",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Perfect",
   trackType: "studio",
   explicit: false,

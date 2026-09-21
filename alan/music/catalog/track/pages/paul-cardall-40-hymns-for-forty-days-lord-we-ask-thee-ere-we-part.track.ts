@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysLordWeAskTheeEreWePart = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "26MWqFYCl7hjzaYIzxZTSa",
-      externalLink: "https://open.spotify.com/track/26MWqFYCl7hjzaYIzxZTSa",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lord, We Ask Thee Ere We Part",
   trackType: "studio",
   explicit: false,

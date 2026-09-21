@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsStrangers = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5p2qIFYuKWcn3MROp7dCaK",
-      externalLink: "https://open.spotify.com/track/5p2qIFYuKWcn3MROp7dCaK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Strangers",
   trackType: "studio",
   explicit: false,

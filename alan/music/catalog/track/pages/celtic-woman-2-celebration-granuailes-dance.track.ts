@@ -9,14 +9,6 @@ export const celticWoman2CelebrationGranuailesDance = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1rJnpg9uBvRxoCuzlPTTST",
-      externalLink: "https://open.spotify.com/track/1rJnpg9uBvRxoCuzlPTTST",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Granuaile's Dance",
   trackType: "studio",
   explicit: false,

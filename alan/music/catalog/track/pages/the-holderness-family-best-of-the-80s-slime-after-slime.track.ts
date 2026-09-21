@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sSlimeAfterSlime = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XA29KZGUCpinE7kGrsjaE",
-      externalLink: "https://open.spotify.com/track/6XA29KZGUCpinE7kGrsjaE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Slime After Slime",
   trackType: "studio",
   explicit: false,

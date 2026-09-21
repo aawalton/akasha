@@ -9,14 +9,6 @@ export const chaislynSidetrackedSidetracked = {
   partOfCollections: ["release/chaislyn-sidetracked"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "649ukvV0AAe4KetOfP9vY9",
-      externalLink: "https://open.spotify.com/track/649ukvV0AAe4KetOfP9vY9",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Sidetracked",
   trackType: "studio",
   explicit: false,

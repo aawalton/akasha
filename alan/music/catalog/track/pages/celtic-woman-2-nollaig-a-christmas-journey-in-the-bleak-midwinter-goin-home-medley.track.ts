@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyInTheBleakMidwinterGoinHomeMedl
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "01Ui24mgdrUrLxgkrGN8ZJ",
-      externalLink: "https://open.spotify.com/track/01Ui24mgdrUrLxgkrGN8ZJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "In The Bleak Midwinter/Goin’ Home - Medley",
   trackType: "studio",
   explicit: false,

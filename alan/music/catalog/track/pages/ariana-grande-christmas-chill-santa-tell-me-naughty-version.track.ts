@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillSantaTellMeNaughtyVersion = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6V2JPFiAeqfZjM3A8VNr5q",
-      externalLink: "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Santa Tell Me - Naughty Version",
   trackType: "version",
   explicit: false,

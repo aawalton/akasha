@@ -9,14 +9,6 @@ export const paulCardallLiveVoicesLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3rwmNEybeOPzshmdvD4u71",
-      externalLink: "https://open.spotify.com/track/3rwmNEybeOPzshmdvD4u71",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Voices - Live",
   trackType: "live",
   explicit: false,

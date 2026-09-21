@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendTears = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "42VUCXerQ5qTr4Qp6PhKo4",
-      externalLink: "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Tears",
   trackType: "studio",
   explicit: false,

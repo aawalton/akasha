@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsDulaman = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4v2O5KhtNNbNofGg3LXAmr",
-      externalLink: "https://open.spotify.com/track/4v2O5KhtNNbNofGg3LXAmr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Dúlaman",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillIntro = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2RD9V9Yzn6CF1HizEqAXlR",
-      externalLink: "https://open.spotify.com/track/2RD9V9Yzn6CF1HizEqAXlR",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Intro",
   trackType: "studio",
   explicit: false,

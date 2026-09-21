@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionIDontCare = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1neFBSwRU3dzKYTcGJcLuI",
-      externalLink: "https://open.spotify.com/track/1neFBSwRU3dzKYTcGJcLuI",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "I Don't Care",
   trackType: "studio",
   explicit: true,

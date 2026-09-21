@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarNearerMyGodToThee = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3xy8N42alt1Wwrf1SygMog",
-      externalLink: "https://open.spotify.com/track/3xy8N42alt1Wwrf1SygMog",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Nearer My God to Thee",
   trackType: "studio",
   explicit: false,

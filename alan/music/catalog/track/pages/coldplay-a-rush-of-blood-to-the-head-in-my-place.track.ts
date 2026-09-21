@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadInMyPlace = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2nvC4i2aMo4CzRjRflysah",
-      externalLink: "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "In My Place",
   trackType: "studio",
   explicit: false,

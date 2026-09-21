@@ -9,14 +9,6 @@ export const coldplayXYSwallowedInTheSea = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2u2WL5N3KnQnykOZi3fxL6",
-      externalLink: "https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Swallowed in the Sea",
   trackType: "studio",
   explicit: false,

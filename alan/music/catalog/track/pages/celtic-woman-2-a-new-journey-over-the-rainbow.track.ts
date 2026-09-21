@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyOverTheRainbow = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6fcwyNqo0AUDpCwmzdZQvl",
-      externalLink: "https://open.spotify.com/track/6fcwyNqo0AUDpCwmzdZQvl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Over The Rainbow",
   trackType: "studio",
   explicit: false,

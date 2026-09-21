@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionCastlesAndCathedralsSoloPianoV
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "79zcJhC8R2CYd3GC0ZcAxk",
-      externalLink: "https://open.spotify.com/track/79zcJhC8R2CYd3GC0ZcAxk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Castles and Cathedrals - Solo Piano Version",
   trackType: "version",
   explicit: false,

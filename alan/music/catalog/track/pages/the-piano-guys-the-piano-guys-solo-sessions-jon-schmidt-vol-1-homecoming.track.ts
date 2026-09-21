@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Homecoming = {
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0y6v115En3hn0bVw5wiMLV",
-      externalLink: "https://open.spotify.com/track/0y6v115En3hn0bVw5wiMLV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Homecoming",
   trackType: "studio",
   explicit: false,

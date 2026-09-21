@@ -9,14 +9,6 @@ export const billieEilishSixFeetUnderSixFeetUnder = {
   partOfCollections: ["release/billie-eilish-six-feet-under"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2VlLbhGLVJgdOW7kKdWWFc",
-      externalLink: "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Six Feet Under",
   trackType: "studio",
   explicit: false,

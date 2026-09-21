@@ -9,14 +9,6 @@ export const celticWoman2DestinyWesteringHome = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4EH5q3H8IML9zFITI2igOC",
-      externalLink: "https://open.spotify.com/track/4EH5q3H8IML9zFITI2igOC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Westering Home",
   trackType: "studio",
   explicit: false,

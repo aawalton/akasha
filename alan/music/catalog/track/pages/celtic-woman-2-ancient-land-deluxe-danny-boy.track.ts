@@ -9,14 +9,6 @@ export const celticWoman2AncientLandDeluxeDannyBoy = {
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "565yQRDDmkCcsyfhEnsjS9",
-      externalLink: "https://open.spotify.com/track/565yQRDDmkCcsyfhEnsjS9",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Danny Boy",
   trackType: "studio",
   explicit: false,

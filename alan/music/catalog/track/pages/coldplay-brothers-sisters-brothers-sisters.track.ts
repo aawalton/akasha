@@ -9,14 +9,6 @@ export const coldplayBrothersSistersBrothersSisters = {
   partOfCollections: ["release/coldplay-brothers-sisters"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6BMIgTmZAihjW5MKEo7gvV",
-      externalLink: "https://open.spotify.com/track/6BMIgTmZAihjW5MKEo7gvV",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Brothers & Sisters",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const emeiEndOfAnEraThatGirl = {
   partOfCollections: ["release/emei-end-of-an-era", "release/emei-that-girl"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PYPduG8hZWr0gk32K1Hdo",
-      externalLink: "https://open.spotify.com/track/1PYPduG8hZWr0gk32K1Hdo",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "That Girl",
   trackType: "studio",
   explicit: true,

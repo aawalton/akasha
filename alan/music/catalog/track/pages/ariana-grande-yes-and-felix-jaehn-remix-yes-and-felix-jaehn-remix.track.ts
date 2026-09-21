@@ -12,14 +12,6 @@ export const arianaGrandeYesAndFelixJaehnRemixYesAndFelixJaehnRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7dr1lLSbw7UaEch1ycBxRc",
-      externalLink: "https://open.spotify.com/track/7dr1lLSbw7UaEch1ycBxRc",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "yes, and? - Felix Jaehn Remix",
   trackType: "remix",
   explicit: true,

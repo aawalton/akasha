@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeHopelessOpus = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ygTySvimUjWJk9WLgMDCn",
-      externalLink: "https://open.spotify.com/track/5ygTySvimUjWJk9WLgMDCn",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hopeless Opus",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsLoomEyesClosedFeatJBalvin = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2jP56WTCglcD8lBh9wwTUA",
-      externalLink: "https://open.spotify.com/track/2jP56WTCglcD8lBh9wwTUA",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Eyes Closed (feat. J Balvin)",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallNewLifeGratitude = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6WIh9oduvrvkxRYVBxYJAn",
-      externalLink: "https://open.spotify.com/track/6WIh9oduvrvkxRYVBxYJAn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gratitude",
   trackType: "studio",
   explicit: false,

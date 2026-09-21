@@ -9,14 +9,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMechanical = {
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2mH5qZ2HfhptaODZICMssL",
-      externalLink: "https://open.spotify.com/track/2mH5qZ2HfhptaODZICMssL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mechanical",
   trackType: "studio",
   explicit: false,

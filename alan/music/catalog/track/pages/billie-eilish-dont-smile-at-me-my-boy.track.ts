@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMeMyBoy = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RGasjWLZ4qMN7wbtkLa3u",
-      externalLink: "https://open.spotify.com/track/1RGasjWLZ4qMN7wbtkLa3u",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "my boy",
   trackType: "studio",
   explicit: false,

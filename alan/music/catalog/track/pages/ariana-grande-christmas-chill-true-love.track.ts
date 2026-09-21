@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillTrueLove = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "02E2iNkWn6VTWWfbwrN7tY",
-      externalLink: "https://open.spotify.com/track/02E2iNkWn6VTWWfbwrN7tY",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "True Love",
   trackType: "studio",
   explicit: false,

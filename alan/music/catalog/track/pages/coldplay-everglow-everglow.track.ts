@@ -9,14 +9,6 @@ export const coldplayEverglowEverglow = {
   partOfCollections: ["release/coldplay-everglow"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6r2BFEIErNwG0owW4rOQB8",
-      externalLink: "https://open.spotify.com/track/6r2BFEIErNwG0owW4rOQB8",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Everglow",
   trackType: "studio",
   explicit: false,

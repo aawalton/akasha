@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysGodIsLove = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Bv1PmRZdTcA8Rp0PJUK3q",
-      externalLink: "https://open.spotify.com/track/1Bv1PmRZdTcA8Rp0PJUK3q",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Is Love",
   trackType: "studio",
   explicit: false,

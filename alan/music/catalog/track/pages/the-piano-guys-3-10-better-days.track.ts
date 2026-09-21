@@ -9,14 +9,6 @@ export const thePianoGuys310BetterDays = {
   partOfCollections: ["release/the-piano-guys-3-10"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4DfvhohdE4RnYHYkhy8mUU",
-      externalLink: "https://open.spotify.com/track/4DfvhohdE4RnYHYkhy8mUU",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Better Days",
   trackType: "studio",
   explicit: false,

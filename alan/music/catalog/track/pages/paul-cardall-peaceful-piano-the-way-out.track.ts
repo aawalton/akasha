@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoTheWayOut = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ij3xYNImjBta3QzYtdfBa",
-      externalLink: "https://open.spotify.com/track/4ij3xYNImjBta3QzYtdfBa",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Way Out",
   trackType: "studio",
   explicit: false,

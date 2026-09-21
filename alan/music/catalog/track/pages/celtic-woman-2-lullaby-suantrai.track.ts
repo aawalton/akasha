@@ -9,14 +9,6 @@ export const celticWoman2LullabySuantrai = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ZsLzQDFMekdRZlnM0dC0P",
-      externalLink: "https://open.spotify.com/track/3ZsLzQDFMekdRZlnM0dC0P",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Suantraí",
   trackType: "studio",
   explicit: false,

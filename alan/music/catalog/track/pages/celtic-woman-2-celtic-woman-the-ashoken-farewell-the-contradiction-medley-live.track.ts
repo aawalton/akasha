@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanTheAshokenFarewellTheContradictionMedleyLive
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5aztSYUb1PkH6MfgnZSDhi",
-      externalLink: "https://open.spotify.com/track/5aztSYUb1PkH6MfgnZSDhi",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Ashoken Farewell/The Contradiction - Medley / Live",
   trackType: "live",
   explicit: false,

@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsDeluxeHearMe = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4R4sJ1jv8nxwjSl6F06yKG",
-      externalLink: "https://open.spotify.com/track/4R4sJ1jv8nxwjSl6F06yKG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hear Me",
   trackType: "studio",
   explicit: false,

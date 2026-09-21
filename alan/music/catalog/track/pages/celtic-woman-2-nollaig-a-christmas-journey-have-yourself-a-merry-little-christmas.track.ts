@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneyHaveYourselfAMerryLittleChristm
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ynMuQjOC3UMXLr9N70tuP",
-      externalLink: "https://open.spotify.com/track/1ynMuQjOC3UMXLr9N70tuP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
   explicit: false,

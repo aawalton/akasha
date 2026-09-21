@@ -12,14 +12,6 @@ export const coldplayProspektSMarchLifeInTechnicolorIi = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0fHQWC2qlb7gDP8Hb9JieN",
-      externalLink: "https://open.spotify.com/track/0fHQWC2qlb7gDP8Hb9JieN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Life in Technicolor ii",
   trackType: "studio",
   explicit: false,

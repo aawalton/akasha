@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanLetMeLoveYou = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6VpLNElCyXW15cBixlnIu8",
-      externalLink: "https://open.spotify.com/track/6VpLNElCyXW15cBixlnIu8",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Let Me Love You",
   trackType: "studio",
   explicit: false,

@@ -10,14 +10,6 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrackAtlasFromTheHu
     partOfCollections: ["release/coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "2DI0fZ4QZmLtapszYaoG6F",
-        externalLink: "https://open.spotify.com/track/2DI0fZ4QZmLtapszYaoG6F",
-        lastSyncedAt: "2026-09-19",
-      },
-    ],
     title: "Atlas - From “The Hunger Games: Catching Fire” Soundtrack",
     trackType: "studio",
     explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasIllBeHomeForChristmas = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3BdKZ2XyvS6OaBPJzN1NB5",
-      externalLink: "https://open.spotify.com/track/3BdKZ2XyvS6OaBPJzN1NB5",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I'll Be Home For Christmas",
   trackType: "studio",
   explicit: false,

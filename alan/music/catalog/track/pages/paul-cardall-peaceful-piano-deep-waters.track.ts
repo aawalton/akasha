@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoDeepWaters = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Wjgkn2ccF4Fm0Pe1Q5gb3",
-      externalLink: "https://open.spotify.com/track/4Wjgkn2ccF4Fm0Pe1Q5gb3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Deep Waters",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallLiveTheReleaseLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6dPi85bJs6tWOHijHjjIfB",
-      externalLink: "https://open.spotify.com/track/6dPi85bJs6tWOHijHjjIfB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Release - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "015PThyoU4QD0siLoLpRmr",
-      externalLink: "https://open.spotify.com/track/015PThyoU4QD0siLoLpRmr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Down In the Hole",
   trackType: "studio",
   explicit: false,

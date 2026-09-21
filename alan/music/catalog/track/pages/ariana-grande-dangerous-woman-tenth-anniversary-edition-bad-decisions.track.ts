@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionBadDecisions = {
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Szw7p9ifAVy7d07JRYsW5",
-      externalLink: "https://open.spotify.com/track/5Szw7p9ifAVy7d07JRYsW5",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bad Decisions",
   trackType: "studio",
   explicit: true,

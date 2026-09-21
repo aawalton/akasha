@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeTheBlade = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Ogn2lsQoQpGJWUhWDDpDa",
-      externalLink: "https://open.spotify.com/track/3Ogn2lsQoQpGJWUhWDDpDa",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Blade",
   trackType: "studio",
   explicit: false,

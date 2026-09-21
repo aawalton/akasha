@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartASoulWithNoKing = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7f6tNSh2jYBoYA9G4wj1On",
-      externalLink: "https://open.spotify.com/track/7f6tNSh2jYBoYA9G4wj1On",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Soul With No King",
   trackType: "studio",
   explicit: false,

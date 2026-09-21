@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsImSoSorry = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4o74y4XY1ypNZkZtZkK8Wi",
-      externalLink: "https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I’m So Sorry",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarsson1CarryYouHome = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1N8f3LpdR5TePmSYVSLU85",
-      externalLink: "https://open.spotify.com/track/1N8f3LpdR5TePmSYVSLU85",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carry You Home",
   trackType: "studio",
   explicit: false,

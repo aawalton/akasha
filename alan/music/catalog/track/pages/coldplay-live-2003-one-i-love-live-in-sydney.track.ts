@@ -9,14 +9,6 @@ export const coldplayLive2003OneILoveLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0bQQv5RqwLmOKNaMcfJ1If",
-      externalLink: "https://open.spotify.com/track/0bQQv5RqwLmOKNaMcfJ1If",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "One I Love - Live in Sydney",
   trackType: "live",
   explicit: false,

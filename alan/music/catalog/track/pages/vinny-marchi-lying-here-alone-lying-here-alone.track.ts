@@ -9,14 +9,6 @@ export const vinnyMarchiLyingHereAloneLyingHereAlone = {
   partOfCollections: ["release/vinny-marchi-lying-here-alone"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3EX5oNwHXuXY3VTJqSbXBs",
-      externalLink: "https://open.spotify.com/track/3EX5oNwHXuXY3VTJqSbXBs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "LYING HERE ALONE",
   trackType: "studio",
   explicit: false,

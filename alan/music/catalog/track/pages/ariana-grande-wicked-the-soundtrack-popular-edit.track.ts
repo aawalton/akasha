@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5othwA5v4eG9PAF2GdGazz",
-      externalLink: "https://open.spotify.com/track/5othwA5v4eG9PAF2GdGazz",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Popular - Edit",
   trackType: "version",
   explicit: false,

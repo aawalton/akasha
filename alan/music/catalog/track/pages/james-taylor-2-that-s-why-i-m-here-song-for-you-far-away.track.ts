@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereSongForYouFarAway = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1seIRIDefTYT2tIa1i7ZgB",
-      externalLink: "https://open.spotify.com/track/1seIRIDefTYT2tIa1i7ZgB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Song for You Far Away",
   trackType: "studio",
   explicit: false,

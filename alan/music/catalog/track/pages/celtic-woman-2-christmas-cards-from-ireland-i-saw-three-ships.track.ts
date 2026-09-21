@@ -9,14 +9,6 @@ export const celticWoman2ChristmasCardsFromIrelandISawThreeShips = {
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "346w1VQCWAjpx9i0zAEHMj",
-      externalLink: "https://open.spotify.com/track/346w1VQCWAjpx9i0zAEHMj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Saw Three Ships",
   trackType: "studio",
   explicit: false,

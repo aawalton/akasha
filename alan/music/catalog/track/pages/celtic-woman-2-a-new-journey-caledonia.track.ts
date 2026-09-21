@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyCaledonia = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4arr5VKJbKO8PO5OY27NrM",
-      externalLink: "https://open.spotify.com/track/4arr5VKJbKO8PO5OY27NrM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Caledonia",
   trackType: "studio",
   explicit: false,

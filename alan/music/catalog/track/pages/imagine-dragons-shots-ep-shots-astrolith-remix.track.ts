@@ -9,14 +9,6 @@ export const imagineDragonsShotsEpShotsAstrolithRemix = {
   partOfCollections: ["release/imagine-dragons-shots-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4dolXHE8u2znwFfzCYgphZ",
-      externalLink: "https://open.spotify.com/track/4dolXHE8u2znwFfzCYgphZ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots - Astrolith Remix",
   trackType: "remix",
   explicit: false,

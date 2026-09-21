@@ -9,14 +9,6 @@ export const paulCardallAscensusAscensusChristiAPianoRhapsodyRemix = {
   partOfCollections: ["release/paul-cardall-ascensus"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XAqoVahIwga3hFxxS5hsn",
-      externalLink: "https://open.spotify.com/track/4XAqoVahIwga3hFxxS5hsn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: A Piano Rhapsody - Remix",
   trackType: "remix",
   explicit: false,

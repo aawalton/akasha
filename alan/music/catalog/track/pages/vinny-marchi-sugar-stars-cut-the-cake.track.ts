@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsCutTheCake = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3XiV1hZl7W4o510SdSHMAy",
-      externalLink: "https://open.spotify.com/track/3XiV1hZl7W4o510SdSHMAy",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "cut the cake",
   trackType: "studio",
   explicit: true,

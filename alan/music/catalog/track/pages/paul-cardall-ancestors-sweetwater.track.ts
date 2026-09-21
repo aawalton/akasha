@@ -9,14 +9,6 @@ export const paulCardallAncestorsSweetwater = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ec8JR39xoNP5a1WGcxZMe",
-      externalLink: "https://open.spotify.com/track/0ec8JR39xoNP5a1WGcxZMe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweetwater",
   trackType: "studio",
   explicit: false,

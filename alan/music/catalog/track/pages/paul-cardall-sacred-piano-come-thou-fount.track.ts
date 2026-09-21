@@ -9,14 +9,6 @@ export const paulCardallSacredPianoComeThouFount = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "10reGqkbhWnp4mk7fS8zI0",
-      externalLink: "https://open.spotify.com/track/10reGqkbhWnp4mk7fS8zI0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come Thou Fount",
   trackType: "studio",
   explicit: false,

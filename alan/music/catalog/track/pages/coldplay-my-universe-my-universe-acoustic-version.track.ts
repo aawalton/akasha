@@ -9,14 +9,6 @@ export const coldplayMyUniverseMyUniverseAcousticVersion = {
   partOfCollections: ["release/coldplay-my-universe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6nhc3daOpKaZBRj2ZFWfc7",
-      externalLink: "https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "My Universe - Acoustic Version",
   trackType: "acoustic",
   explicit: false,

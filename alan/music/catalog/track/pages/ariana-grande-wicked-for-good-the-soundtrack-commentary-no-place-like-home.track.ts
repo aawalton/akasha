@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHome = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "00RjZnli84mBRzRHoUFTfm",
-      externalLink: "https://open.spotify.com/track/00RjZnli84mBRzRHoUFTfm",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "No Place Like Home",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsDemonsDemonsAcousticLiveInLondon = {
   partOfCollections: ["release/imagine-dragons-demons"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "744NOOjzsy9kSxh2HimEBk",
-      externalLink: "https://open.spotify.com/track/744NOOjzsy9kSxh2HimEBk",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Acoustic Live In London",
   trackType: "live",
   explicit: false,

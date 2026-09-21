@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarGodIsNear = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "35bfa5hCk0EPOX6NWFSZzP",
-      externalLink: "https://open.spotify.com/track/35bfa5hCk0EPOX6NWFSZzP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "God Is Near",
   trackType: "studio",
   explicit: false,

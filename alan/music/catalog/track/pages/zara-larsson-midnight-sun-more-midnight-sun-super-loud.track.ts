@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunSuperLoud = {
   partOfCollections: ["release/zara-larsson-midnight-sun-more"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69psOP7O7y7QOV0dVisyNk",
-      externalLink: "https://open.spotify.com/track/69psOP7O7y7QOV0dVisyNk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun - Super Loud",
   trackType: "studio",
   explicit: false,

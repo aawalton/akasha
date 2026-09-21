@@ -9,14 +9,6 @@ export const arianaGrandePutYourHeartsUpPutYourHeartsUp = {
   partOfCollections: ["release/ariana-grande-put-your-hearts-up"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Rp8zCRpkHyEDqaUczfMZA",
-      externalLink: "https://open.spotify.com/track/1Rp8zCRpkHyEDqaUczfMZA",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Put Your Hearts Up",
   trackType: "studio",
   explicit: false,

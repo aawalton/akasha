@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0cvwnLZWF80kX9hZwNylOr",
-      externalLink: "https://open.spotify.com/track/0cvwnLZWF80kX9hZwNylOr",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "O Holy Night / Ave Maria (feat. Lexi Walker)",
   trackType: "studio",
   explicit: false,

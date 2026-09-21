@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkThatLonesomeRoad = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "04RAcppX0YjUqDYWy4nAix",
-      externalLink: "https://open.spotify.com/track/04RAcppX0YjUqDYWy4nAix",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "That Lonesome Road",
   trackType: "studio",
   explicit: false,

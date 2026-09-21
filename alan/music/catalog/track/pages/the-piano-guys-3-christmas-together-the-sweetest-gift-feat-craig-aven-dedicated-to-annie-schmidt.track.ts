@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherTheSweetestGiftFeatCraigAvenDedicated
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Dp6T20e98MUI18h351Mty",
-      externalLink: "https://open.spotify.com/track/2Dp6T20e98MUI18h351Mty",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Sweetest Gift (feat. Craig Aven) - Dedicated to Annie Schmidt",
   trackType: "studio",
   explicit: false,

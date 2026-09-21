@@ -9,14 +9,6 @@ export const celticWoman2ChristmasCardsFromIrelandTheToysWaltz = {
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3TEURTW0z0L6eUofPYTr6P",
-      externalLink: "https://open.spotify.com/track/3TEURTW0z0L6eUofPYTr6P",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Toys’ Waltz",
   trackType: "studio",
   explicit: false,

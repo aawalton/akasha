@@ -9,14 +9,6 @@ export const paulCardallAncestorsTheGathering = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4DQoiSDwYMZZF2uKNAAF9E",
-      externalLink: "https://open.spotify.com/track/4DQoiSDwYMZZF2uKNAAF9E",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Gathering",
   trackType: "studio",
   explicit: false,

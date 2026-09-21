@@ -9,14 +9,6 @@ export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
   partOfCollections: ["release/zara-larsson-bad-boys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2mJaEVfZ2RFxsIWF00lcER",
-      externalLink: "https://open.spotify.com/track/2mJaEVfZ2RFxsIWF00lcER",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bad Boys - Do It Yourself Version",
   trackType: "version",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraADifferentKindOfHumanStepIiHunger = {
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "68B8724ICtxBv3wUFxdro3",
-      externalLink: "https://open.spotify.com/track/68B8724ICtxBv3wUFxdro3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hunger",
   trackType: "studio",
   explicit: false,

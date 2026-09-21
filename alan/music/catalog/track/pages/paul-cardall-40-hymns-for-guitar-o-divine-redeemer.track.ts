@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarODivineRedeemer = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0tTeCs9ClMmeFQYy5hFRAu",
-      externalLink: "https://open.spotify.com/track/0tTeCs9ClMmeFQYy5hFRAu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "O Divine Redeemer",
   trackType: "studio",
   explicit: false,

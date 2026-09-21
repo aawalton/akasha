@@ -9,14 +9,6 @@ export const emeiTalkTalkTalkTalkTalkTalk = {
   partOfCollections: ["release/emei-talk-talk-talk"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HvSwd9s3C6UdLQyUm2Elk",
-      externalLink: "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Talk Talk Talk",
   trackType: "studio",
   explicit: true,

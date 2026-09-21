@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpDolphins = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64Gy3bhlqlVGY6H4q0E8no",
-      externalLink: "https://open.spotify.com/track/64Gy3bhlqlVGY6H4q0E8no",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Dolphins",
   trackType: "studio",
   explicit: false,

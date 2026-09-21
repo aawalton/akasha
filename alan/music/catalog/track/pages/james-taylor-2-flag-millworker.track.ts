@@ -9,14 +9,6 @@ export const jamesTaylor2FlagMillworker = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58Pz2cGXmjnmaN0FZEt0qB",
-      externalLink: "https://open.spotify.com/track/58Pz2cGXmjnmaN0FZEt0qB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Millworker",
   trackType: "studio",
   explicit: false,

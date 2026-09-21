@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsDeluxeTheUnknown = {
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4DRQBzgiM3SQqO5bXXPGpb",
-      externalLink: "https://open.spotify.com/track/4DRQBzgiM3SQqO5bXXPGpb",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The Unknown",
   trackType: "studio",
   explicit: false,

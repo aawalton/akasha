@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversarySionannShannon20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2vjjzyJ8sRwAg2tIOCcYU3",
-      externalLink: "https://open.spotify.com/track/2vjjzyJ8sRwAg2tIOCcYU3",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sionann (Shannon) - 20th Anniversary",
   trackType: "studio",
   explicit: false,

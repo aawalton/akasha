@@ -9,14 +9,6 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
   partOfCollections: ["release/coldplay-clocks-royksopp-trembling-heart-mix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0oRqEiG7nvVXTjx8g5gme9",
-      externalLink: "https://open.spotify.com/track/0oRqEiG7nvVXTjx8g5gme9",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Clocks - Royksopp Trembling Heart Mix",
   trackType: "remix",
   explicit: false,

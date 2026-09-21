@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextGhostin = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2vdBo4ALPYbHRUPKgtE5iC",
-      externalLink: "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "ghostin",
   trackType: "studio",
   explicit: false,

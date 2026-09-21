@@ -9,14 +9,6 @@ export const sabrinaCarpenterFruitcakeCindyLouWho = {
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15WQ0CnYIbWNCWvwp7IlYr",
-      externalLink: "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "cindy lou who",
   trackType: "studio",
   explicit: false,

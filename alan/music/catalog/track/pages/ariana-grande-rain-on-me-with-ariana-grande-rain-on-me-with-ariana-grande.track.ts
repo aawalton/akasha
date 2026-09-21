@@ -9,14 +9,6 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
   partOfCollections: ["release/ariana-grande-rain-on-me-with-ariana-grande"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "24ySl2hOPGCDcxBxFIqWBu",
-      externalLink: "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Rain On Me (with Ariana Grande)",
   trackType: "studio",
   explicit: false,

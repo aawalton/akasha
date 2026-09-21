@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022TheOverthinkingSong = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0S0A6AmoZRL2x5Y1ztPlIq",
-      externalLink: "https://open.spotify.com/track/0S0A6AmoZRL2x5Y1ztPlIq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Overthinking Song",
   trackType: "studio",
   explicit: false,

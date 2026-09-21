@@ -9,14 +9,6 @@ export const emeiBacktrackBacktrack = {
   partOfCollections: ["release/emei-backtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XFtHhrlPKL4qEVDVMOcd6",
-      externalLink: "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Backtrack",
   trackType: "studio",
   explicit: false,

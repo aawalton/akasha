@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseGrateful = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2lTJwqxbJDkxdR2HEoeKjj",
-      externalLink: "https://open.spotify.com/track/2lTJwqxbJDkxdR2HEoeKjj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Grateful",
   trackType: "studio",
   explicit: false,

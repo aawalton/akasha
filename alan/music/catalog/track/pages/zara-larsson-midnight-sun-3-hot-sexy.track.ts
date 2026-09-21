@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3HotSexy = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XcyAXAYKQD7FqCG2F2xOu",
-      externalLink: "https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hot & Sexy",
   trackType: "studio",
   explicit: true,

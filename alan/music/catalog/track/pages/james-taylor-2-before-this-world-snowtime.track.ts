@@ -9,14 +9,6 @@ export const jamesTaylor2BeforeThisWorldSnowtime = {
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0ciNBuuJYP1EvG8LDpShWk",
-      externalLink: "https://open.spotify.com/track/0ciNBuuJYP1EvG8LDpShWk",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "SnowTime",
   trackType: "studio",
   explicit: false,

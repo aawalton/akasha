@@ -9,14 +9,6 @@ export const vinnyMarchiISeeFireISeeFire = {
   partOfCollections: ["release/vinny-marchi-i-see-fire"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2eqMCwauppMk6KPj66Mv8l",
-      externalLink: "https://open.spotify.com/track/2eqMCwauppMk6KPj66Mv8l",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I See Fire",
   trackType: "studio",
   explicit: false,

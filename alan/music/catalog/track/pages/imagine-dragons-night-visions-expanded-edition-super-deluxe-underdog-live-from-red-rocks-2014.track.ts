@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdogLiveFro
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7cD55yByyIRQuoXuagsblY",
-      externalLink: "https://open.spotify.com/track/7cD55yByyIRQuoXuagsblY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Underdog - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,

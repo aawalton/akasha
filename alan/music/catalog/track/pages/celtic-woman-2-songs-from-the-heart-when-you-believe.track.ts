@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartWhenYouBelieve = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7mb1xCQfrrJVuUoQnLmqit",
-      externalLink: "https://open.spotify.com/track/7mb1xCQfrrJVuUoQnLmqit",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "When You Believe",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const sylviaDaleyNoiseCancellingHeadphonesNoiseCancellingHeadphones = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2uj8au1fO2WEh6EkQs7J2n",
-      externalLink: "https://open.spotify.com/track/2uj8au1fO2WEh6EkQs7J2n",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Noise Cancelling Headphones",
   trackType: "studio",
   explicit: false,

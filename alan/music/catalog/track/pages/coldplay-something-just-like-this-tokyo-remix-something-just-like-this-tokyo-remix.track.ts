@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
   partOfCollections: ["release/coldplay-something-just-like-this-tokyo-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ffwnb6hqsKZp8cG6q90OW",
-      externalLink: "https://open.spotify.com/track/5ffwnb6hqsKZp8cG6q90OW",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This - Tokyo Remix",
   trackType: "remix",
   explicit: false,

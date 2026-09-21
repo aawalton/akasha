@@ -9,14 +9,6 @@ export const thePianoGuysSerenityYouSay = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0mkbbA9OZ9LW5WOUn7ZMaX",
-      externalLink: "https://open.spotify.com/track/0mkbbA9OZ9LW5WOUn7ZMaX",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "You Say",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
   partOfCollections: ["release/billie-eilish-no-time-to-die"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "73SpzrcaHk0RQPFP73vqVR",
-      externalLink: "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "No Time To Die",
   trackType: "studio",
   explicit: false,

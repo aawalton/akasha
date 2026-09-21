@@ -9,14 +9,6 @@ export const coldplayHigherPowerZhuRemixHigherPowerZhuRemix = {
   partOfCollections: ["release/coldplay-higher-power-zhu-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1YLGtZjDKyY0Qkv4QlX31b",
-      externalLink: "https://open.spotify.com/track/1YLGtZjDKyY0Qkv4QlX31b",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Higher Power - ZHU Remix",
   trackType: "remix",
   explicit: false,

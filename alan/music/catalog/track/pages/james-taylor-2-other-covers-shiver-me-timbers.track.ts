@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversShiverMeTimbers = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0i9yAHlCCzP8p3mFWxLDNG",
-      externalLink: "https://open.spotify.com/track/0i9yAHlCCzP8p3mFWxLDNG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shiver Me Timbers",
   trackType: "studio",
   explicit: false,

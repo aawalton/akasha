@@ -9,14 +9,6 @@ export const celticWoman2BelieveNocturne = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6xm02XAR7z3Yuh6yYSLiX6",
-      externalLink: "https://open.spotify.com/track/6xm02XAR7z3Yuh6yYSLiX6",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Nocturne",
   trackType: "studio",
   explicit: false,

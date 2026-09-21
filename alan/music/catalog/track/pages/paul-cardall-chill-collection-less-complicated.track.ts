@@ -9,14 +9,6 @@ export const paulCardallChillCollectionLessComplicated = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1g5FjnHwDGG2j2YuW9QcM4",
-      externalLink: "https://open.spotify.com/track/1g5FjnHwDGG2j2YuW9QcM4",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Less Complicated",
   trackType: "studio",
   explicit: false,

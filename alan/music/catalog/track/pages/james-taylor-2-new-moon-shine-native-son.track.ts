@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineNativeSon = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0mRhgBuZU3jjSMRlIIyV6W",
-      externalLink: "https://open.spotify.com/track/0mRhgBuZU3jjSMRlIIyV6W",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Native Son",
   trackType: "studio",
   explicit: false,

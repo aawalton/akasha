@@ -9,14 +9,6 @@ export const imagineDragonsFollowYouSummer21VersionFollowYouSummer21Version = {
   partOfCollections: ["release/imagine-dragons-follow-you-summer-21-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ek5GzoAX8EsM75zHB2grh",
-      externalLink: "https://open.spotify.com/track/1ek5GzoAX8EsM75zHB2grh",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Follow You - Summer ’21 Version",
   trackType: "version",
   explicit: false,

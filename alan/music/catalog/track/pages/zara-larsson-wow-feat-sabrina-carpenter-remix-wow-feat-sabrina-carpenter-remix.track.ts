@@ -9,14 +9,6 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemixWowFeatSabrinaCarpenterRemix
   partOfCollections: ["release/zara-larsson-wow-feat-sabrina-carpenter-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5WokFKscrfGEGGLPTu3jgO",
-      externalLink: "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "WOW (feat. Sabrina Carpenter) - Remix",
   trackType: "remix",
   explicit: false,

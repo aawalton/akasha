@@ -9,14 +9,6 @@ export const paulCardallFaithfulDanzaDelAmor = {
   partOfCollections: ["release/paul-cardall-faithful"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ReUJHaFQJrzi4RyWj57vV",
-      externalLink: "https://open.spotify.com/track/3ReUJHaFQJrzi4RyWj57vV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Danza Del Amor",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const emeiHoldOnMeRemixesHoldOnMeLavernRemix = {
   partOfCollections: ["release/emei-hold-on-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zv2umOrC6X06s2P9bs7iO",
-      externalLink: "https://open.spotify.com/track/4zv2umOrC6X06s2P9bs7iO",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hold On Me - Lavern Remix",
   trackType: "remix",
   explicit: false,

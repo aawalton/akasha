@@ -9,14 +9,6 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
   partOfCollections: ["release/aurora-butterflies-feat-aurora"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1dWUBCoztAMZcqec1CAE6z",
-      externalLink: "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Butterflies (feat. AURORA)",
   trackType: "studio",
   explicit: false,

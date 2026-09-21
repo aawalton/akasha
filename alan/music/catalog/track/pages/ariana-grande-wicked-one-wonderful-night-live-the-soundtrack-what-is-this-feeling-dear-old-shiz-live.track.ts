@@ -11,14 +11,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "1FyZp6tp9oA3KFl9RJvYHR",
-        externalLink: "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
     trackType: "live",
     explicit: false,

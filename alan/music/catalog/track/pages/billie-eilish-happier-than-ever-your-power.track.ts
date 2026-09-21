@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverYourPower = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "042Sl6Mn83JHyLEqdK7uI0",
-      externalLink: "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Your Power",
   trackType: "studio",
   explicit: false,

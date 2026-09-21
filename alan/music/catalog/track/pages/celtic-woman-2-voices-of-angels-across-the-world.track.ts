@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsAcrossTheWorld = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3MB57zlaE9q7rUvyew2Dcc",
-      externalLink: "https://open.spotify.com/track/3MB57zlaE9q7rUvyew2Dcc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Across The World",
   trackType: "studio",
   explicit: false,

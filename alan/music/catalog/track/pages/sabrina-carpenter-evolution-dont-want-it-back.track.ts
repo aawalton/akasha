@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionDontWantItBack = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2yqhHi9QfZ5INE13sS5Bva",
-      externalLink: "https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Don't Want It Back",
   trackType: "studio",
   explicit: false,

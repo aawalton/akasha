@@ -9,14 +9,6 @@ export const coldplayGhostStoriesLive2014MidnightLiveAtTheRoyalAlbertHallLondon 
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lsz74yVLAvt3anpHZHCTS",
-      externalLink: "https://open.spotify.com/track/5lsz74yVLAvt3anpHZHCTS",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Midnight - Live at the Royal Albert Hall, London",
   trackType: "live",
   explicit: false,

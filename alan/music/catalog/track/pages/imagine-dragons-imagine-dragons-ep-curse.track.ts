@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsEpCurse = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0qWWWKe24PhXqVNcJZlbeO",
-      externalLink: "https://open.spotify.com/track/0qWWWKe24PhXqVNcJZlbeO",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Curse",
   trackType: "studio",
   explicit: false,

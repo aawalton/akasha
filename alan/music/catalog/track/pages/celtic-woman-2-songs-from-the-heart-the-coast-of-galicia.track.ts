@@ -9,14 +9,6 @@ export const celticWoman2SongsFromTheHeartTheCoastOfGalicia = {
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "34weuuOJ49Y1EgSGO5AYBo",
-      externalLink: "https://open.spotify.com/track/34weuuOJ49Y1EgSGO5AYBo",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Coast Of Galiçia",
   trackType: "studio",
   explicit: false,

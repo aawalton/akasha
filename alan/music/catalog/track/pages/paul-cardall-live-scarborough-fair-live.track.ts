@@ -9,14 +9,6 @@ export const paulCardallLiveScarboroughFairLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "33fMR35WpgByInrsvZdyL5",
-      externalLink: "https://open.spotify.com/track/33fMR35WpgByInrsvZdyL5",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Scarborough Fair - Live",
   trackType: "live",
   explicit: false,

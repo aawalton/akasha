@@ -9,14 +9,6 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
   partOfCollections: ["release/aurora-a-temporary-high-kito-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "58542V08lKKhMHfkdU2Ugo",
-      externalLink: "https://open.spotify.com/track/58542V08lKKhMHfkdU2Ugo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Temporary High - Kito Remix",
   trackType: "remix",
   explicit: false,

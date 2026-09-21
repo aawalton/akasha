@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverThereforeIAm = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20R4HfKloPKgXDqU7UKk3x",
-      externalLink: "https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Therefore I Am",
   trackType: "studio",
   explicit: false,

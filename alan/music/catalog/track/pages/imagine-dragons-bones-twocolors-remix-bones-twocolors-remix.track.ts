@@ -9,14 +9,6 @@ export const imagineDragonsBonesTwocolorsRemixBonesTwocolorsRemix = {
   partOfCollections: ["release/imagine-dragons-bones-twocolors-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2czjUxrgctplH7SDrJLGGb",
-      externalLink: "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bones - twocolors Remix",
   trackType: "remix",
   explicit: false,

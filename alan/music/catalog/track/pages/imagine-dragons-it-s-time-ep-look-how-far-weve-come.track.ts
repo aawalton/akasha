@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpLookHowFarWeveCome = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0uB4bNmZDCSY6ieUdJyDPq",
-      externalLink: "https://open.spotify.com/track/0uB4bNmZDCSY6ieUdJyDPq",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Look How Far We've Come",
   trackType: "studio",
   explicit: false,

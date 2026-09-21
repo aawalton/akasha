@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeLucky = {
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2XAQGXHYxF9pqeALHU2Rb7",
-      externalLink: "https://open.spotify.com/track/2XAQGXHYxF9pqeALHU2Rb7",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lucky",
   trackType: "studio",
   explicit: false,

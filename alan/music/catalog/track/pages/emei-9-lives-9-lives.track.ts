@@ -9,14 +9,6 @@ export const emei9Lives9Lives = {
   partOfCollections: ["release/emei-9-lives", "release/emei-rabbithole-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "64APtv04ls8z8Cjv6iGUsY",
-      externalLink: "https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "9 LIVES",
   trackType: "studio",
   explicit: false,

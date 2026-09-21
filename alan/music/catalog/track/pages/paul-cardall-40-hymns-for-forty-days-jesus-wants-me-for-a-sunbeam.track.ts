@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysJesusWantsMeForASunbeam = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7CVn0F1URnFGUPmonQP0Ri",
-      externalLink: "https://open.spotify.com/track/7CVn0F1URnFGUPmonQP0Ri",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesus Wants Me for a Sunbeam",
   trackType: "studio",
   explicit: false,

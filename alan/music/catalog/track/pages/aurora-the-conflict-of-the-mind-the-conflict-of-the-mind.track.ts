@@ -9,14 +9,6 @@ export const auroraTheConflictOfTheMindTheConflictOfTheMind = {
   partOfCollections: ["release/aurora-the-conflict-of-the-mind"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4BFYRUjuuesHjLTJdvo1XR",
-      externalLink: "https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Conflict of the Mind",
   trackType: "studio",
   explicit: false,

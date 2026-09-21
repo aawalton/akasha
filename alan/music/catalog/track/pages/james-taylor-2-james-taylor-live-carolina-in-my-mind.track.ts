@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveCarolinaInMyMind = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Fv3LSqbgv5lrdClrc6XKc",
-      externalLink: "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carolina In My Mind",
   trackType: "studio",
   explicit: false,

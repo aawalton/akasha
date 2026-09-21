@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysSweetHourOfPrayer = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5zlD1ahAJnKSO1Fp419PWl",
-      externalLink: "https://open.spotify.com/track/5zlD1ahAJnKSO1Fp419PWl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet Hour of Prayer",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleFindingMyWay = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7L7yuHRdDG5B5QHus6wSwb",
-      externalLink: "https://open.spotify.com/track/7L7yuHRdDG5B5QHus6wSwb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Finding My Way",
   trackType: "studio",
   explicit: false,

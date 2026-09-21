@@ -9,14 +9,6 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
   partOfCollections: ["release/coldplay-charlie-brown-dave-aude-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1CrVfs67axZhcTa4ZxCk6M",
-      externalLink: "https://open.spotify.com/track/1CrVfs67axZhcTa4ZxCk6M",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Charlie Brown - Dave Audé Remix",
   trackType: "remix",
   explicit: false,

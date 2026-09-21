@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5J9jzskSfbSF7sTCWyoF93",
-      externalLink: "https://open.spotify.com/track/5J9jzskSfbSF7sTCWyoF93",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Right There - Live from London (feat. Big Sean)",
   trackType: "live",
   explicit: false,

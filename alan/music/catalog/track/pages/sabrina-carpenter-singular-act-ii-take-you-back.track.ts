@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiTakeYouBack = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1NF9ux53nctr5Rjb3c8i7D",
-      externalLink: "https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Take You Back",
   trackType: "studio",
   explicit: false,

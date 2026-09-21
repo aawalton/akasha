@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheFoxhunt
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2stlN6Y9ySktuPrfLjDmWe",
-      externalLink: "https://open.spotify.com/track/2stlN6Y9ySktuPrfLjDmWe",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Foxhunter",
   trackType: "studio",
   explicit: false,

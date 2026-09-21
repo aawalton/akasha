@@ -9,14 +9,6 @@ export const imagineDragonsEvolveIDontKnowWhy = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "28heol5hhOGj6KYbJrRteJ",
-      externalLink: "https://open.spotify.com/track/28heol5hhOGj6KYbJrRteJ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I Don’t Know Why",
   trackType: "studio",
   explicit: false,

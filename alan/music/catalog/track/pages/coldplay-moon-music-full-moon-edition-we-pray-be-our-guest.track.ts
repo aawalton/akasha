@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionWePrayBeOurGuest = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0dlJ9E3QZZ78a9cUns9VCO",
-      externalLink: "https://open.spotify.com/track/0dlJ9E3QZZ78a9cUns9VCO",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "We Pray - Be Our Guest",
   trackType: "studio",
   explicit: false,

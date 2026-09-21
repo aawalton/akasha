@@ -9,14 +9,6 @@ export const paulCardallDecemberSoloPianoHeartsOfTheFathersSoloPianoVersion = {
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "32CTkN8NgeSyGeCV1oBqM6",
-      externalLink: "https://open.spotify.com/track/32CTkN8NgeSyGeCV1oBqM6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hearts of The Fathers - Solo Piano Version",
   trackType: "version",
   explicit: false,

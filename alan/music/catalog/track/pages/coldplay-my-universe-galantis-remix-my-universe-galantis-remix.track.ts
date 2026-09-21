@@ -9,14 +9,6 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
   partOfCollections: ["release/coldplay-my-universe-galantis-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1DlczmjByrS4qxRVfGjpqN",
-      externalLink: "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "My Universe - Galantis Remix",
   trackType: "remix",
   explicit: false,

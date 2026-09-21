@@ -10,14 +10,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "1Y5bExVU5hWC3gMuqB52Rd",
-        externalLink: "https://open.spotify.com/track/1Y5bExVU5hWC3gMuqB52Rd",
-        lastSyncedAt: "2026-09-21",
-      },
-    ],
     title: "Round And Round - Live From Red Rocks / 2014",
     trackType: "live",
     explicit: false,

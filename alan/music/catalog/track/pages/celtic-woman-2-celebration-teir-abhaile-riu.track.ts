@@ -9,14 +9,6 @@ export const celticWoman2CelebrationTeirAbhaileRiu = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4d8VxP4A2pzIKravl7ymLR",
-      externalLink: "https://open.spotify.com/track/4d8VxP4A2pzIKravl7ymLR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Teir Abhaile Riu",
   trackType: "studio",
   explicit: false,

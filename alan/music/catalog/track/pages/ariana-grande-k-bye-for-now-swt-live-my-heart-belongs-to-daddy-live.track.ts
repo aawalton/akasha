@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3HUJw4KvL5baIwuh0wWPoh",
-      externalLink: "https://open.spotify.com/track/3HUJw4KvL5baIwuh0wWPoh",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "my heart belongs to daddy - live",
   trackType: "live",
   explicit: false,

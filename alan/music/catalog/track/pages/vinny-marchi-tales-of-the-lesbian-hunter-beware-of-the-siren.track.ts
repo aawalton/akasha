@@ -9,14 +9,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterBewareOfTheSiren = {
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7BA7IU3c0oItfFL5DHOiSD",
-      externalLink: "https://open.spotify.com/track/7BA7IU3c0oItfFL5DHOiSD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Beware of the Siren",
   trackType: "studio",
   explicit: false,

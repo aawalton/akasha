@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Guz7gu1nOe2poG8e20NZZ",
-      externalLink: "https://open.spotify.com/track/2Guz7gu1nOe2poG8e20NZZ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "dandelion - instrumental",
   trackType: "instrumental",
   explicit: false,

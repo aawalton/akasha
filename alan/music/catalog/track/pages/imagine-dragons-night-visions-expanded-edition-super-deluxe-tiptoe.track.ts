@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTiptoe = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0y9lStf9zPsCiLHV9WDrUv",
-      externalLink: "https://open.spotify.com/track/0y9lStf9zPsCiLHV9WDrUv",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tiptoe",
   trackType: "studio",
   explicit: false,

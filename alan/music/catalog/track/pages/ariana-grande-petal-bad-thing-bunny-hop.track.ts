@@ -9,14 +9,6 @@ export const arianaGrandePetalBadThingBunnyHop = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zmXWmILSBkn7gTvIyCiNi",
-      externalLink: "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "bad thing (bunny hop)",
   trackType: "studio",
   explicit: true,

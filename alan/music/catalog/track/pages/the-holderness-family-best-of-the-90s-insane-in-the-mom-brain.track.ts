@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sInsaneInTheMomBrain = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7mxl7yQPkzQdYyvLaqyn87",
-      externalLink: "https://open.spotify.com/track/7mxl7yQPkzQdYyvLaqyn87",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Insane in the Mom Brain",
   trackType: "studio",
   explicit: false,

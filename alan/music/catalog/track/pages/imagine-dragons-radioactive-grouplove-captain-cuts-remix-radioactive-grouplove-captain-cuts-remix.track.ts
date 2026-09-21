@@ -10,14 +10,6 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemixRadioactiveGroupl
     partOfCollections: ["release/imagine-dragons-radioactive-grouplove-captain-cuts-remix"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "4RE6keayatk5kVgKOGDcmy",
-        externalLink: "https://open.spotify.com/track/4RE6keayatk5kVgKOGDcmy",
-        lastSyncedAt: "2026-09-21",
-      },
-    ],
     title: "Radioactive - Grouplove & Captain Cuts Remix",
     trackType: "remix",
     explicit: false,

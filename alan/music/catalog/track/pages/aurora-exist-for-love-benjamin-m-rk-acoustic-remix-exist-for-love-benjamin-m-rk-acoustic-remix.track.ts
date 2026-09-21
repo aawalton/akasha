@@ -9,14 +9,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveBenjaminMRkAc
   partOfCollections: ["release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2LytHfU8RsPRGwRlODbXX9",
-      externalLink: "https://open.spotify.com/track/2LytHfU8RsPRGwRlODbXX9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exist for Love - Benjamin Mørk Acoustic Remix",
   trackType: "remix",
   explicit: false,

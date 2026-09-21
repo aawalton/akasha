@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsBirds = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3HWDWyIqWuLsTHECx9DvXF",
-      externalLink: "https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Birds",
   trackType: "studio",
   explicit: false,

@@ -15,14 +15,6 @@ export const thePianoGuys3LoveMeLikeIAmLastTime = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "77hcaLD2LDCPO5vozjU8cG",
-      externalLink: "https://open.spotify.com/track/77hcaLD2LDCPO5vozjU8cG",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Last Time",
   trackType: "studio",
   explicit: false,

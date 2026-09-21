@@ -9,14 +9,6 @@ export const coldplayYellowNoMoreKeepingMyFeetOnTheGround = {
   partOfCollections: ["release/coldplay-yellow"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7dmCmBBaWAQlCBAkcqMu99",
-      externalLink: "https://open.spotify.com/track/7dmCmBBaWAQlCBAkcqMu99",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "No More Keeping My Feet on the Ground",
   trackType: "studio",
   explicit: false,

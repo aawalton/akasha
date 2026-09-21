@@ -9,14 +9,6 @@ export const coldplayFixYou2PourMeLiveAtTheHollywoodBowl = {
   partOfCollections: ["release/coldplay-fix-you-2", "release/coldplay-fix-you"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0PYRZQ90udhd9Bnv5d8rUb",
-      externalLink: "https://open.spotify.com/track/0PYRZQ90udhd9Bnv5d8rUb",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Pour Me - Live at the Hollywood Bowl",
   trackType: "live",
   explicit: false,

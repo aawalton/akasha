@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsBlankSpaceStandByMeLiveF
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Dbgo1HE3DErIBNDIO4Hyd",
-      externalLink: "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Blank Space/Stand By Me - Live From Spotify London",
   trackType: "live",
   explicit: false,

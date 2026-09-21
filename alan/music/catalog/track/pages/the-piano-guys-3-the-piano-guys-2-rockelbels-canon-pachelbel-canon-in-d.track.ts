@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2RockelbelsCanonPachelbelCanonInD = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Zffu1oqSybEnJgI9oyYmX",
-      externalLink: "https://open.spotify.com/track/4Zffu1oqSybEnJgI9oyYmX",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rockelbel's Canon (Pachelbel Canon in D)",
   trackType: "studio",
   explicit: false,

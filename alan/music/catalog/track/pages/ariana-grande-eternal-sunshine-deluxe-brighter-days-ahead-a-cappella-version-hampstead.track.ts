@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionH
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "159mI5CS5WE1FkQ5sfHjV0",
-      externalLink: "https://open.spotify.com/track/159mI5CS5WE1FkQ5sfHjV0",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Hampstead",
   trackType: "studio",
   explicit: true,

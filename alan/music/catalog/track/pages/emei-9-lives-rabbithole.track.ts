@@ -14,14 +14,6 @@ export const emei9LivesRabbithole = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4vRtKITmMuwPYckPVaoXwG",
-      externalLink: "https://open.spotify.com/track/4vRtKITmMuwPYckPVaoXwG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "RABBITHOLE",
   trackType: "studio",
   explicit: false,

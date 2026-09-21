@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsBridgeOverTroubledWater = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ix4ibWOrhbrG0kNQfJUyf",
-      externalLink: "https://open.spotify.com/track/5ix4ibWOrhbrG0kNQfJUyf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Bridge Over Troubled Water",
   trackType: "studio",
   explicit: false,

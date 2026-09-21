@@ -9,14 +9,6 @@ export const jisooClickClick = {
   partOfCollections: ["release/jisoo-click"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1zyNO73bPNPC6KBi3raNmZ",
-      externalLink: "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "CLICK",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const chaislynRhymeOrReasonRhymeOrReason = {
   partOfCollections: ["release/chaislyn-rhyme-or-reason"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NTYphxIdN60YEL8XPomHo",
-      externalLink: "https://open.spotify.com/track/6NTYphxIdN60YEL8XPomHo",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "rhyme or reason",
   trackType: "studio",
   explicit: false,

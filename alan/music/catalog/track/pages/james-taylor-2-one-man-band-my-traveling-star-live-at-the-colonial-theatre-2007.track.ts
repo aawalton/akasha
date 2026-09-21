@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandMyTravelingStarLiveAtTheColonialTheatre2007 =
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "51v2EI90hWgZ8QtgWHxb0R",
-      externalLink: "https://open.spotify.com/track/51v2EI90hWgZ8QtgWHxb0R",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "My Traveling Star - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

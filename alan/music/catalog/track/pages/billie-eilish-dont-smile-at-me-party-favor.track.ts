@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMePartyFavor = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WxmlTZ85sCYFnuIXmUAEe",
-      externalLink: "https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "party favor",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const zaraLarssonUncoverNeverGonnaDieAltVersion = {
   partOfCollections: ["release/zara-larsson-uncover"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2pnatOl6QfN4IndOnXTWnJ",
-      externalLink: "https://open.spotify.com/track/2pnatOl6QfN4IndOnXTWnJ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Never Gonna Die - Alt Version",
   trackType: "version",
   explicit: false,

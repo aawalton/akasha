@@ -9,14 +9,6 @@ export const celticWoman2SoloCarolinaRua = {
   partOfCollections: ["release/celtic-woman-2-solo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5P7JsyPiiD6c3zP4YqvoDn",
-      externalLink: "https://open.spotify.com/track/5P7JsyPiiD6c3zP4YqvoDn",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carolina Rua",
   trackType: "studio",
   explicit: false,

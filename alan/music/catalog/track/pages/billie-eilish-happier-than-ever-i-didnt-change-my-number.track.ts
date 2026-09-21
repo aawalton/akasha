@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverIDidntChangeMyNumber = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7bcy34fBT2ap1L4bfPsl9q",
-      externalLink: "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Didn't Change My Number",
   trackType: "studio",
   explicit: true,

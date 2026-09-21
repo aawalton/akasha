@@ -9,14 +9,6 @@ export const billieEilishOceanEyesTheRemixesOceanEyesAstronomyyRemix = {
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NOq79ynBpBi6BSJMdgReN",
-      externalLink: "https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ocean Eyes - Astronomyy Remix",
   trackType: "remix",
   explicit: false,

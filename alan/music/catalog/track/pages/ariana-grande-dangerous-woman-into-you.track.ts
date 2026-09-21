@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanIntoYou = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49gRYU6hBWgSH2JVixGkJq",
-      externalLink: "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Into You",
   trackType: "studio",
   explicit: false,

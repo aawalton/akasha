@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12DullKnives = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3vThV17aiX6dGokusu6j8N",
-      externalLink: "https://open.spotify.com/track/3vThV17aiX6dGokusu6j8N",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Dull Knives",
   trackType: "studio",
   explicit: false,

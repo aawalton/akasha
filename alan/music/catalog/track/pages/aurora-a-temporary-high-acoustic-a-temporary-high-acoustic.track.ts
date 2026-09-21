@@ -9,14 +9,6 @@ export const auroraATemporaryHighAcousticATemporaryHighAcoustic = {
   partOfCollections: ["release/aurora-a-temporary-high-acoustic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0sxdMxtyQ3qImoSh1FqiL9",
-      externalLink: "https://open.spotify.com/track/0sxdMxtyQ3qImoSh1FqiL9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Temporary High - Acoustic",
   trackType: "acoustic",
   explicit: false,

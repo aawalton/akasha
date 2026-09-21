@@ -9,14 +9,6 @@ export const imagineDragonsGoldJorgenOdegardRemixGoldJorgenOdegardRemix = {
   partOfCollections: ["release/imagine-dragons-gold-jorgen-odegard-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1yN8sa0MAn11upEsSJupAB",
-      externalLink: "https://open.spotify.com/track/1yN8sa0MAn11upEsSJupAB",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Gold - Jorgen Odegard Remix",
   trackType: "remix",
   explicit: false,

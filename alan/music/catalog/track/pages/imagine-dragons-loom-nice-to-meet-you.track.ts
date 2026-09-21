@@ -9,14 +9,6 @@ export const imagineDragonsLoomNiceToMeetYou = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6KmrCHbuNOsdoeDOpwetr7",
-      externalLink: "https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Nice to Meet You",
   trackType: "studio",
   explicit: false,

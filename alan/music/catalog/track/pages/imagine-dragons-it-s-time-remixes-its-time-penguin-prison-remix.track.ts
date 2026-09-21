@@ -12,14 +12,6 @@ export const imagineDragonsItSTimeRemixesItsTimePenguinPrisonRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "40Kb4C2wJ4R19xz0kQpU9S",
-      externalLink: "https://open.spotify.com/track/40Kb4C2wJ4R19xz0kQpU9S",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - Penguin Prison Remix",
   trackType: "remix",
   explicit: false,

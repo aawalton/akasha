@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetJuno = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "21B4gaTWnTkuSh77iWEXdS",
-      externalLink: "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Juno",
   trackType: "studio",
   explicit: true,

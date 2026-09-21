@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsMayItBe = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5gGvxZp05Lj0aXFVRtin3E",
-      externalLink: "https://open.spotify.com/track/5gGvxZp05Lj0aXFVRtin3E",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "May It Be",
   trackType: "studio",
   explicit: false,

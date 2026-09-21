@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsBeBornInMe = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wg10xhrSRKJ9R6e9UY5Pj",
-      externalLink: "https://open.spotify.com/track/3wg10xhrSRKJ9R6e9UY5Pj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Be Born In Me",
   trackType: "studio",
   explicit: false,

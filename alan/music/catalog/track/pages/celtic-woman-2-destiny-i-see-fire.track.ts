@@ -9,14 +9,6 @@ export const celticWoman2DestinyISeeFire = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bPfi2jGyVPXeNwrBcFXIs",
-      externalLink: "https://open.spotify.com/track/2bPfi2jGyVPXeNwrBcFXIs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I See Fire",
   trackType: "studio",
   explicit: false,

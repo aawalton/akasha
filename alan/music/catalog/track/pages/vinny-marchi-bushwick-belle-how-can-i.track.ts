@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleHowCanI = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1S0hRMjVT6DX9xJEvBF66x",
-      externalLink: "https://open.spotify.com/track/1S0hRMjVT6DX9xJEvBF66x",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "How Can I",
   trackType: "studio",
   explicit: false,

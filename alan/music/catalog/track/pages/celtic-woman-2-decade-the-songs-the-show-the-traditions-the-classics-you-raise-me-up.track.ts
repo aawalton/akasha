@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYouRaiseMe
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Fe2yD91GS9uY5OXNcfmm4",
-      externalLink: "https://open.spotify.com/track/2Fe2yD91GS9uY5OXNcfmm4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Raise Me Up",
   trackType: "studio",
   explicit: false,

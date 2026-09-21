@@ -9,14 +9,6 @@ export const paulCardallFaithfulEmbraced = {
   partOfCollections: ["release/paul-cardall-faithful"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5v79fMb22xFB4DnycoaLOE",
-      externalLink: "https://open.spotify.com/track/5v79fMb22xFB4DnycoaLOE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Embraced",
   trackType: "studio",
   explicit: false,

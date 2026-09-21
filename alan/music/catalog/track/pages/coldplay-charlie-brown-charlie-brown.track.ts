@@ -9,14 +9,6 @@ export const coldplayCharlieBrownCharlieBrown = {
   partOfCollections: ["release/coldplay-charlie-brown", "release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2xmG19ADoSwiEkBOJZ6poQ",
-      externalLink: "https://open.spotify.com/track/2xmG19ADoSwiEkBOJZ6poQ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Charlie Brown",
   trackType: "studio",
   explicit: false,

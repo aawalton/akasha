@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassRedeemingLove = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1lPQTXNCMSEufL5Bk6hJ2z",
-      externalLink: "https://open.spotify.com/track/1lPQTXNCMSEufL5Bk6hJ2z",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Redeeming Love",
   trackType: "studio",
   explicit: false,

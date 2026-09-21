@@ -9,14 +9,6 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
   partOfCollections: ["release/ariana-grande-hotel-rock-bottom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4qkPVF5w9mnpVKEb3izXjI",
-      externalLink: "https://open.spotify.com/track/4qkPVF5w9mnpVKEb3izXjI",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Hotel Rock Bottom (feat. Ariana Grande)",
   trackType: "studio",
   explicit: false,

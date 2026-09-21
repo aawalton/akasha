@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1AOJ3y1KKpt19Mzd1MyiJT",
-      externalLink: "https://open.spotify.com/track/1AOJ3y1KKpt19Mzd1MyiJT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Knock On Wood",
   trackType: "studio",
   explicit: false,

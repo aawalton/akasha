@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sIveGotHairInWeirdPlaces = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3dZbLovMBxH232fKcapHQg",
-      externalLink: "https://open.spotify.com/track/3dZbLovMBxH232fKcapHQg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I've Got Hair in Weird Places",
   trackType: "studio",
   explicit: false,

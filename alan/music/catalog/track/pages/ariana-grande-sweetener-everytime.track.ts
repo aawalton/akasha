@@ -9,14 +9,6 @@ export const arianaGrandeSweetenerEverytime = {
   partOfCollections: ["release/ariana-grande-sweetener"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WdR2AyLW1Drd3OUdwezM0",
-      externalLink: "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "everytime",
   trackType: "studio",
   explicit: true,

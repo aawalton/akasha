@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGood = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nnbYwIJJ5FULSt6qvap2F",
-      externalLink: "https://open.spotify.com/track/0nnbYwIJJ5FULSt6qvap2F",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "For Good",
   trackType: "studio",
   explicit: false,

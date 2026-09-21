@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresUpUpLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3glegOEXSkk8HanJe7ZB08",
-      externalLink: "https://open.spotify.com/track/3glegOEXSkk8HanJe7ZB08",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Up&Up - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

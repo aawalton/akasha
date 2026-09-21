@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsLiveInVegasImSoSorryLiveInVegas = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2tOetqEr23IS6t8qizBVt2",
-      externalLink: "https://open.spotify.com/track/2tOetqEr23IS6t8qizBVt2",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "I'm So Sorry - Live in Vegas",
   trackType: "live",
   explicit: false,

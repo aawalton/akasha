@@ -12,14 +12,6 @@ export const celticWoman2ANewJourneyTheVoice = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2E3y6X63fbZCYJGELwRAWQ",
-      externalLink: "https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Voice",
   trackType: "studio",
   explicit: false,

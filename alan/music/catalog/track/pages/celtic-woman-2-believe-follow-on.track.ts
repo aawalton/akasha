@@ -9,14 +9,6 @@ export const celticWoman2BelieveFollowOn = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4LSRTd4t15VC10F6gxgq0X",
-      externalLink: "https://open.spotify.com/track/4LSRTd4t15VC10F6gxgq0X",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Follow On",
   trackType: "studio",
   explicit: false,

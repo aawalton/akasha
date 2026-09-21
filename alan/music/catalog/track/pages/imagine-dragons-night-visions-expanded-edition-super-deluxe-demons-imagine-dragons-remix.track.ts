@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsImagineDr
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3oZ404aSb0PoRFTKCYrAHf",
-      externalLink: "https://open.spotify.com/track/3oZ404aSb0PoRFTKCYrAHf",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Imagine Dragons Remix",
   trackType: "remix",
   explicit: false,

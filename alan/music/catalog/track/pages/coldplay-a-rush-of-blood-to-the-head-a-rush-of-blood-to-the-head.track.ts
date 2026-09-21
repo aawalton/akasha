@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadARushOfBloodToTheHead = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4JJ5zGKnb1IpERyBrfmb1y",
-      externalLink: "https://open.spotify.com/track/4JJ5zGKnb1IpERyBrfmb1y",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Rush of Blood to the Head",
   trackType: "studio",
   explicit: false,

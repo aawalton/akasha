@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenYourLovesLike = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1fVnTuUKlhkFqZ6HXV56s6",
-      externalLink: "https://open.spotify.com/track/1fVnTuUKlhkFqZ6HXV56s6",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Your Love's Like",
   trackType: "studio",
   explicit: false,

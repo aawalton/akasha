@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMeIdontwannabeyouanymore = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "41zXlQxzTi6cGAjpOXyLYH",
-      externalLink: "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "idontwannabeyouanymore",
   trackType: "studio",
   explicit: false,

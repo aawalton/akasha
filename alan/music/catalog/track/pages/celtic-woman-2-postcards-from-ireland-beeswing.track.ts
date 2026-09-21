@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandBeeswing = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4dpqKFAOoOH5adhnfrdzIe",
-      externalLink: "https://open.spotify.com/track/4dpqKFAOoOH5adhnfrdzIe",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Beeswing",
   trackType: "studio",
   explicit: false,

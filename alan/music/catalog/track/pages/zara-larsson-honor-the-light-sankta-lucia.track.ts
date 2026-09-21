@@ -9,14 +9,6 @@ export const zaraLarssonHonorTheLightSanktaLucia = {
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4IsV7HoiBe2lPQ8FLnUVVK",
-      externalLink: "https://open.spotify.com/track/4IsV7HoiBe2lPQ8FLnUVVK",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sankta Lucia",
   trackType: "studio",
   explicit: false,

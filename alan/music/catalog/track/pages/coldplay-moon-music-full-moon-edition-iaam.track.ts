@@ -12,14 +12,6 @@ export const coldplayMoonMusicFullMoonEditionIaam = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2uaihUX7HbKyXBpFxOUT2a",
-      externalLink: "https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "iAAM",
   trackType: "studio",
   explicit: false,

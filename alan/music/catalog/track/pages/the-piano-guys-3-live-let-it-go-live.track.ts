@@ -9,14 +9,6 @@ export const thePianoGuys3LiveLetItGoLive = {
   partOfCollections: ["release/the-piano-guys-3-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ovrNcHReZB4EVbbtlShrY",
-      externalLink: "https://open.spotify.com/track/5ovrNcHReZB4EVbbtlShrY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Let It Go (Live)",
   trackType: "live",
   explicit: false,

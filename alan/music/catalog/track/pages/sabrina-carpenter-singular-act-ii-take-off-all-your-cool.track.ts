@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiTakeOffAllYourCool = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27B9H3cOefm9lWDfh9A0gj",
-      externalLink: "https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Take Off All Your Cool",
   trackType: "studio",
   explicit: false,

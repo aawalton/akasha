@@ -9,14 +9,6 @@ export const vinnyMarchiLeaveThisPartyLeaveThisParty = {
   partOfCollections: ["release/vinny-marchi-leave-this-party"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2knVmukUYh6iltBr9cvvBV",
-      externalLink: "https://open.spotify.com/track/2knVmukUYh6iltBr9cvvBV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Leave This Party",
   trackType: "studio",
   explicit: false,

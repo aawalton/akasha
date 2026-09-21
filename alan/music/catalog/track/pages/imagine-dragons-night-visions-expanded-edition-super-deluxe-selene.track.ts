@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeSelene = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59ntsA6JIL16EiuDJunxIz",
-      externalLink: "https://open.spotify.com/track/59ntsA6JIL16EiuDJunxIz",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Selene",
   trackType: "studio",
   explicit: false,

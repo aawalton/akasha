@@ -9,14 +9,6 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   partOfCollections: ["release/vinny-marchi-holding-on-to-you"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wolug0v3hQzxr6IZgNRZd",
-      externalLink: "https://open.spotify.com/track/3wolug0v3hQzxr6IZgNRZd",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "holding on to you",
   trackType: "studio",
   explicit: true,

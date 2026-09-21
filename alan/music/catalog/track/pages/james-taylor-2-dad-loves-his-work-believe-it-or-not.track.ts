@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkBelieveItOrNot = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6FYohC3fFYUqcsVZ2w7YeP",
-      externalLink: "https://open.spotify.com/track/6FYohC3fFYUqcsVZ2w7YeP",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Believe It or Not",
   trackType: "studio",
   explicit: false,

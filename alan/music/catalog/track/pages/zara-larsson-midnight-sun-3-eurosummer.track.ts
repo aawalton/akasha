@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3Eurosummer = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2EhJHJV7itLmFGH1CQoK3i",
-      externalLink: "https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Eurosummer",
   trackType: "studio",
   explicit: true,

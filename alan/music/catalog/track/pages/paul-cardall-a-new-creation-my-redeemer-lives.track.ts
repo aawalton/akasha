@@ -9,14 +9,6 @@ export const paulCardallANewCreationMyRedeemerLives = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ddEtYy8ESBFinObnYOfnZ",
-      externalLink: "https://open.spotify.com/track/6ddEtYy8ESBFinObnYOfnZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Redeemer Lives",
   trackType: "studio",
   explicit: false,

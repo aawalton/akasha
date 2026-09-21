@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandBlackIsTheColour2021Version = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3uZSzpNdr2fXZYCG7BwGbs",
-      externalLink: "https://open.spotify.com/track/3uZSzpNdr2fXZYCG7BwGbs",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Black Is the Colour - 2021 Version",
   trackType: "version",
   explicit: false,

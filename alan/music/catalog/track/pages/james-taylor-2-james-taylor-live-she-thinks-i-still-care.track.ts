@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveSheThinksIStillCare = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20UrRG4y5WtNQakxyq3UjM",
-      externalLink: "https://open.spotify.com/track/20UrRG4y5WtNQakxyq3UjM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "She Thinks I Still Care",
   trackType: "studio",
   explicit: false,

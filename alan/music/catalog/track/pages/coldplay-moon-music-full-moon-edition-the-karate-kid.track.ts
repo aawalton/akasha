@@ -9,14 +9,6 @@ export const coldplayMoonMusicFullMoonEditionTheKarateKid = {
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0cZEkGxb0V9MbpzHzpKp9F",
-      externalLink: "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "The Karate Kid",
   trackType: "studio",
   explicit: false,

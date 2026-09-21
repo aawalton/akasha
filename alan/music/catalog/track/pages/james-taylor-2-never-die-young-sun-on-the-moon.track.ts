@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungSunOnTheMoon = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5f92CdAUMKkxn1Bo7CBs53",
-      externalLink: "https://open.spotify.com/track/5f92CdAUMKkxn1Bo7CBs53",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sun On the Moon",
   trackType: "studio",
   explicit: false,

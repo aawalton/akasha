@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsAmazingGrace = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5U5rysvkfySNqq6JzQ9apC",
-      externalLink: "https://open.spotify.com/track/5U5rysvkfySNqq6JzQ9apC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsPiousJoy = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7Fv1OTEguxBFL8pMUZ4ro9",
-      externalLink: "https://open.spotify.com/track/7Fv1OTEguxBFL8pMUZ4ro9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Pious Joy",
   trackType: "studio",
   explicit: false,

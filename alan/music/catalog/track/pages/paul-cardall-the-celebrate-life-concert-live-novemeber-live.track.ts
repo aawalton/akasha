@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveNovemeberLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0WlHJxY00FcyCmDEvFZzIm",
-      externalLink: "https://open.spotify.com/track/0WlHJxY00FcyCmDEvFZzIm",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Novemeber - Live",
   trackType: "live",
   explicit: false,

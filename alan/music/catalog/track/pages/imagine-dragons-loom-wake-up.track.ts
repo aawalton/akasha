@@ -9,14 +9,6 @@ export const imagineDragonsLoomWakeUp = {
   partOfCollections: ["release/imagine-dragons-loom"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6BOgN046AFobs2sZV7YlRy",
-      externalLink: "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Wake Up",
   trackType: "studio",
   explicit: false,

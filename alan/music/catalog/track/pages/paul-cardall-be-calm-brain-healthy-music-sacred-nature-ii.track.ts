@@ -12,14 +12,6 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4gFTxD5BhRwVCBThLMaBgf",
-      externalLink: "https://open.spotify.com/track/4gFTxD5BhRwVCBThLMaBgf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sacred Nature II",
   trackType: "studio",
   explicit: false,

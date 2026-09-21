@@ -9,14 +9,6 @@ export const emeiRabbithole2Sugarcoat = {
   partOfCollections: ["release/emei-rabbithole-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7ds2cvPKeRrbIVHTctkBc4",
-      externalLink: "https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "SUGARCOAT",
   trackType: "studio",
   explicit: false,

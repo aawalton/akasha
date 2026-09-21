@@ -9,14 +9,6 @@ export const coldplayLive2003EverythingsNotLostLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7IWbp0yWEF8nNjMLbKF0pU",
-      externalLink: "https://open.spotify.com/track/7IWbp0yWEF8nNjMLbKF0pU",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Everything's Not Lost - Live in Sydney",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryASentimentalManCommentary 
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2tyNlqg8F3ijaTjuuREamp",
-      externalLink: "https://open.spotify.com/track/2tyNlqg8F3ijaTjuuREamp",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "A Sentimental Man - Commentary",
   trackType: "studio",
   explicit: false,

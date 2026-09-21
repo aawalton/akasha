@@ -9,14 +9,6 @@ export const paulCardallLiveBethelLive = {
   partOfCollections: ["release/paul-cardall-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2d8F4yWixkIhXfmWKbwKP6",
-      externalLink: "https://open.spotify.com/track/2d8F4yWixkIhXfmWKbwKP6",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Bethel - Live",
   trackType: "live",
   explicit: false,

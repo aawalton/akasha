@@ -9,14 +9,6 @@ export const coldplayLive2003SeeYouSoonLiveInSydney = {
   partOfCollections: ["release/coldplay-live-2003"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4o0q6U6VX4a0VTZ06GOxg2",
-      externalLink: "https://open.spotify.com/track/4o0q6U6VX4a0VTZ06GOxg2",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "See You Soon - Live in Sydney",
   trackType: "live",
   explicit: false,

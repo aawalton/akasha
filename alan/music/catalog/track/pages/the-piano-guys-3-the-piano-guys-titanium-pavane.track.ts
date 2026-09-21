@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysTitaniumPavane = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4lAZaMGhx9Di03Vz9tfNzy",
-      externalLink: "https://open.spotify.com/track/4lAZaMGhx9Di03Vz9tfNzy",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Titanium / Pavane",
   trackType: "studio",
   explicit: false,

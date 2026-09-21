@@ -12,14 +12,6 @@ export const imagineDragonsNightVisionsDeluxeTiptoe = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5PCdkbHYacEdWbZRRPopmM",
-      externalLink: "https://open.spotify.com/track/5PCdkbHYacEdWbZRRPopmM",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Tiptoe",
   trackType: "studio",
   explicit: false,

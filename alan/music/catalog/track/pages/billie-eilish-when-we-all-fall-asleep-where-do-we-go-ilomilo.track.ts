@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoIlomilo = {
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7qEKqBCD2vE5vIBsrUitpD",
-      externalLink: "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "ilomilo",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallHymnsJosephSmithsFirstPrayer = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Cji0LZjLdNeFdz8HXxR3d",
-      externalLink: "https://open.spotify.com/track/3Cji0LZjLdNeFdz8HXxR3d",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Joseph Smith's First Prayer",
   trackType: "studio",
   explicit: false,

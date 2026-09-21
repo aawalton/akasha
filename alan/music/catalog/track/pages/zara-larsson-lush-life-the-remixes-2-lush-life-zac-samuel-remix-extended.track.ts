@@ -9,14 +9,6 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelRemixExtended = {
   partOfCollections: ["release/zara-larsson-lush-life-the-remixes-2"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2rTGxajsuCW6O50MT1Rzai",
-      externalLink: "https://open.spotify.com/track/2rTGxajsuCW6O50MT1Rzai",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life (Zac Samuel Remix) [Extended]",
   trackType: "remix",
   explicit: false,

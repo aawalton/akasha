@@ -9,14 +9,6 @@ export const paulCardallAncestorsPioneerOrphans = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1WMvkzZUz4LO1ucxkeG5vK",
-      externalLink: "https://open.spotify.com/track/1WMvkzZUz4LO1ucxkeG5vK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Pioneer Orphans",
   trackType: "studio",
   explicit: false,

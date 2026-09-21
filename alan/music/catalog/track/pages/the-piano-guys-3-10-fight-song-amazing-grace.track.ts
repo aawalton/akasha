@@ -12,14 +12,6 @@ export const thePianoGuys310FightSongAmazingGrace = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2lEzFalDoEoI3D9h7E5C9g",
-      externalLink: "https://open.spotify.com/track/2lEzFalDoEoI3D9h7E5C9g",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Fight Song / Amazing Grace",
   trackType: "studio",
   explicit: false,

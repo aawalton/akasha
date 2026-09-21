@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneWashYourHands = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4u20SexcdNNXN5c3KJ5M8N",
-      externalLink: "https://open.spotify.com/track/4u20SexcdNNXN5c3KJ5M8N",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Wash Your Hands",
   trackType: "studio",
   explicit: false,

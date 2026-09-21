@@ -9,14 +9,6 @@ export const auroraQueendomRemixesQueendomShuraRemix = {
   partOfCollections: ["release/aurora-queendom-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7vlg4UScIgNzzYON63Hzo3",
-      externalLink: "https://open.spotify.com/track/7vlg4UScIgNzzYON63Hzo3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Queendom - Shura Remix",
   trackType: "remix",
   explicit: false,

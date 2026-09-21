@@ -9,14 +9,6 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
   partOfCollections: ["release/ariana-grande-die-for-you-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7oDd86yk8itslrA9HRP2ki",
-      externalLink: "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Die For You - Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackDefyingGravityEdit = {
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7DYH202qpZ1MwLBMd7uvb1",
-      externalLink: "https://open.spotify.com/track/7DYH202qpZ1MwLBMd7uvb1",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Defying Gravity - Edit",
   trackType: "version",
   explicit: false,

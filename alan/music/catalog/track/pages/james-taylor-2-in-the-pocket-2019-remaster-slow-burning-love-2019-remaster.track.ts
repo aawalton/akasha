@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterSlowBurningLove2019Remaster = {
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0EPITcEiMyISJXzjGlsX2n",
-      externalLink: "https://open.spotify.com/track/0EPITcEiMyISJXzjGlsX2n",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Slow Burning Love - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

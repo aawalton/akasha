@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantineQueenQuarantineQueen = {
   partOfCollections: ["release/the-holderness-family-quarantine-queen"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2SbKgJhTdgFNRbil5s6uWd",
-      externalLink: "https://open.spotify.com/track/2SbKgJhTdgFNRbil5s6uWd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Quarantine Queen",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallBeCalmBrainHealthyMusicBeCalm = {
   partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1iIqrP7SYGcMfYAmW8HFwQ",
-      externalLink: "https://open.spotify.com/track/1iIqrP7SYGcMfYAmW8HFwQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Be Calm",
   trackType: "studio",
   explicit: false,

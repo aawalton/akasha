@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxePleasePleasePlease = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2OyX4SHk1oVRBP2dBOqRqC",
-      externalLink: "https://open.spotify.com/track/2OyX4SHk1oVRBP2dBOqRqC",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Please Please Please",
   trackType: "studio",
   explicit: true,

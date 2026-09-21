@@ -9,14 +9,6 @@ export const thePianoGuysPianoFocusWaterfall = {
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2fs8VzuqyV7SNScgCYce06",
-      externalLink: "https://open.spotify.com/track/2fs8VzuqyV7SNScgCYce06",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Waterfall",
   trackType: "studio",
   explicit: false,

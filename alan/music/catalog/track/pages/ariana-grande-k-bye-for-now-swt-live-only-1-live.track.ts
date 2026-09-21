@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLiveOnly1Live = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5qmcKqCKRb4EFwRTsndXNe",
-      externalLink: "https://open.spotify.com/track/5qmcKqCKRb4EFwRTsndXNe",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "only 1 - live",
   trackType: "live",
   explicit: false,

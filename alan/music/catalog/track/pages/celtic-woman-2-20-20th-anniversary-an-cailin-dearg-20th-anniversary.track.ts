@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryAnCailinDearg20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7d2yPlAFMeF7FhYfZaCPp6",
-      externalLink: "https://open.spotify.com/track/7d2yPlAFMeF7FhYfZaCPp6",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "An Cailín Dearg - 20th Anniversary",
   trackType: "studio",
   explicit: false,

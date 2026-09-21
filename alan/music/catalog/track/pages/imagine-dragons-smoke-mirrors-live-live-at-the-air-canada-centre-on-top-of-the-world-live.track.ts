@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreOnTopOfTheWor
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "26VQ9wqGAVUU7EuZp2wVRU",
-      externalLink: "https://open.spotify.com/track/26VQ9wqGAVUU7EuZp2wVRU",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "On Top Of The World - Live",
   trackType: "live",
   explicit: false,

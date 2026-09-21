@@ -9,14 +9,6 @@ export const jamesTaylorJamesTaylorAtChristmasWhoComesThisNight = {
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3jwg2SQAmvywVvK0ASpgyL",
-      externalLink: "https://open.spotify.com/track/3jwg2SQAmvywVvK0ASpgyL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Who Comes This Night",
   trackType: "studio",
   explicit: false,

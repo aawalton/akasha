@@ -9,14 +9,6 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollensWhatAreWordsF
   partOfCollections: ["release/the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "21pL95f63XT8Mezt8qPOtq",
-      externalLink: "https://open.spotify.com/track/21pL95f63XT8Mezt8qPOtq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Are Words (feat. Peter Hollens & Evynne Hollens)",
   trackType: "studio",
   explicit: false,

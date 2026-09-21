@@ -9,14 +9,6 @@ export const auroraRunawayPianoAcousticRunawayPianoAcoustic = {
   partOfCollections: ["release/aurora-runaway-piano-acoustic"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Yma57qhl9Y7TjIXqIkuQF",
-      externalLink: "https://open.spotify.com/track/2Yma57qhl9Y7TjIXqIkuQF",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Runaway - Piano Acoustic",
   trackType: "acoustic",
   explicit: false,

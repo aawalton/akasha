@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterCaptainJimsDrunkenDream2019Remas
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "52yNglQvFD0UL8kOIM5FsS",
-      externalLink: "https://open.spotify.com/track/52yNglQvFD0UL8kOIM5FsS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Captain Jim's Drunken Dream - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

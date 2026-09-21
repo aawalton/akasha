@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasAuldLangSyne = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3wBkeNGC9sAzLsbOGPdHVD",
-      externalLink: "https://open.spotify.com/track/3wBkeNGC9sAzLsbOGPdHVD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Auld Lang Syne",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdFeather = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Zo1PcszsT9WQ0ANntJbID",
-      externalLink: "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Feather",
   trackType: "studio",
   explicit: true,

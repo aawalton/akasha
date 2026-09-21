@@ -9,14 +9,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerNightcoreRemix = {
   partOfCollections: ["release/zara-larsson-can-t-tame-her-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7fbKEvgnfVHK72AGsadjJv",
-      externalLink: "https://open.spotify.com/track/7fbKEvgnfVHK72AGsadjJv",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Can't Tame Her - Nightcore Remix",
   trackType: "remix",
   explicit: false,

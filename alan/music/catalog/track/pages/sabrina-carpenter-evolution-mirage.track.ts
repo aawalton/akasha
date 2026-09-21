@@ -9,14 +9,6 @@ export const sabrinaCarpenterEvolutionMirage = {
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PnDrmc20HzbzfqVA53iYD",
-      externalLink: "https://open.spotify.com/track/1PnDrmc20HzbzfqVA53iYD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Mirage",
   trackType: "studio",
   explicit: false,

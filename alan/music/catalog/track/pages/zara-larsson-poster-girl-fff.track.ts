@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlFff = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3zi1freHC2SBhhlzvH368W",
-      externalLink: "https://open.spotify.com/track/3zi1freHC2SBhhlzvH368W",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "FFF",
   trackType: "studio",
   explicit: false,

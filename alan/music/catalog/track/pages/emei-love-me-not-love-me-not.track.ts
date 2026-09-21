@@ -9,14 +9,6 @@ export const emeiLoveMeNotLoveMeNot = {
   partOfCollections: ["release/emei-love-me-not"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6UumSbVp1ae6IfcOWDo1oL",
-      externalLink: "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Love Me Not",
   trackType: "studio",
   explicit: false,

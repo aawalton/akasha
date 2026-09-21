@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandTheLakesOfPontchartrain = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0giHDV0WqC9QPhnh2HrxZH",
-      externalLink: "https://open.spotify.com/track/0giHDV0WqC9QPhnh2HrxZH",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Lakes Of Pontchartrain",
   trackType: "studio",
   explicit: false,

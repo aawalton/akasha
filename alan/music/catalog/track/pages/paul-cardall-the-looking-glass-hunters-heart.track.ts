@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassHuntersHeart = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3laGlD2PfzC2CbZESRAONs",
-      externalLink: "https://open.spotify.com/track/3laGlD2PfzC2CbZESRAONs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hunter's Heart",
   trackType: "studio",
   explicit: false,

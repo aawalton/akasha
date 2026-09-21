@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodFightSongAmazingGrace = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6s2XoWGkMatXbwOW6SGZuf",
-      externalLink: "https://open.spotify.com/track/6s2XoWGkMatXbwOW6SGZuf",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Fight Song / Amazing Grace",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "4NoiTxdM92vkFntIAnDvoi",
-        externalLink: "https://open.spotify.com/track/4NoiTxdM92vkFntIAnDvoi",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "dandelion - a cappella",
     trackType: "a-cappella",
     explicit: false,

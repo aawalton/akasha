@@ -9,14 +9,6 @@ export const emeiGingerTeaGingerTea = {
   partOfCollections: ["release/emei-ginger-tea"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4jBCtBR2iSffMZPh3Bdk2L",
-      externalLink: "https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Ginger Tea",
   trackType: "studio",
   explicit: false,

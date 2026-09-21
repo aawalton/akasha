@@ -9,14 +9,6 @@ export const coldplayTalk2Gravity = {
   partOfCollections: ["release/coldplay-talk-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44LVgFZvUcBYo98vy71tvd",
-      externalLink: "https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Gravity",
   trackType: "studio",
   explicit: false,

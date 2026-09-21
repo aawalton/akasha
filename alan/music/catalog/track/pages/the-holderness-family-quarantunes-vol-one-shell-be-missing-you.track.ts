@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneShellBeMissingYou = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "44wKstbNKVptFK0KDcLIB2",
-      externalLink: "https://open.spotify.com/track/44wKstbNKVptFK0KDcLIB2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "She'll Be Missing You",
   trackType: "studio",
   explicit: false,

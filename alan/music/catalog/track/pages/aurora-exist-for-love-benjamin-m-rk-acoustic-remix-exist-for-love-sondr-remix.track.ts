@@ -12,14 +12,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1f5Ry4cYAI3Op7WPXbNVZs",
-      externalLink: "https://open.spotify.com/track/1f5Ry4cYAI3Op7WPXbNVZs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exist for Love - Sondr Remix",
   trackType: "remix",
   explicit: false,

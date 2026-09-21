@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0dqw7sD9DQhXutlWif9WNO",
-      externalLink: "https://open.spotify.com/track/0dqw7sD9DQhXutlWif9WNO",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "O Little One Sweet, BWV 493 (feat. The King's Singers)",
   trackType: "studio",
   explicit: false,

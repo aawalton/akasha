@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsHymnForTheWeekend = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3RiPr603aXAoi4GHyXx0uy",
-      externalLink: "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Hymn for the Weekend",
   trackType: "studio",
   explicit: false,

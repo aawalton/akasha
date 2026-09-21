@@ -9,14 +9,6 @@ export const zaraLarssonUncoverShesNotMePt12 = {
   partOfCollections: ["release/zara-larsson-uncover"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2QRIcuedP1GlMiCgqToDgF",
-      externalLink: "https://open.spotify.com/track/2QRIcuedP1GlMiCgqToDgF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "She's Not Me, Pt. 1 & 2",
   trackType: "studio",
   explicit: false,

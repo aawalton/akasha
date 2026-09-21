@@ -16,14 +16,6 @@ export const thePianoGuys3LoveMeLikeIAmLoveMeLikeIAm = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0tgo1cmqBUgQs878IKdjXr",
-      externalLink: "https://open.spotify.com/track/0tgo1cmqBUgQs878IKdjXr",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Love Me Like I Am",
   trackType: "studio",
   explicit: false,

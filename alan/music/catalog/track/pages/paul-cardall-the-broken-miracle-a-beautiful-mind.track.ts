@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleABeautifulMind = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cZX04frpYwTKh0YSZxdcF",
-      externalLink: "https://open.spotify.com/track/3cZX04frpYwTKh0YSZxdcF",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Beautiful Mind",
   trackType: "studio",
   explicit: false,

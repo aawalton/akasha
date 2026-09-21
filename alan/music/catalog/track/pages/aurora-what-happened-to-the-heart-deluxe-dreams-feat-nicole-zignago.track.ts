@@ -9,14 +9,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3kE7DXuzZrIIQsscx6oDVi",
-      externalLink: "https://open.spotify.com/track/3kE7DXuzZrIIQsscx6oDVi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Dreams (feat. Nicole Zignago)",
   trackType: "studio",
   explicit: false,

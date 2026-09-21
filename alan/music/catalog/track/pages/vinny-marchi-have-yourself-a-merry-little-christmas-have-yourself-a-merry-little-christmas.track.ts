@@ -9,14 +9,6 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittl
   partOfCollections: ["release/vinny-marchi-have-yourself-a-merry-little-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4J0yz27YNvbYnVsVk4xA5d",
-      externalLink: "https://open.spotify.com/track/4J0yz27YNvbYnVsVk4xA5d",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Have Yourself A Merry Little Christmas",
   trackType: "studio",
   explicit: false,

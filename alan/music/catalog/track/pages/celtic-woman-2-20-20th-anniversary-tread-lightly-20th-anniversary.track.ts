@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryTreadLightly20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "53kBNNNH19mScxQB5IRger",
-      externalLink: "https://open.spotify.com/track/53kBNNNH19mScxQB5IRger",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Tread Lightly - 20th Anniversary",
   trackType: "studio",
   explicit: false,

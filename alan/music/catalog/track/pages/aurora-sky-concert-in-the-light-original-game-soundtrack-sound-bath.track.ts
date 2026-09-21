@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackSoundBath = {
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1VCpjDdrQm8OrrP234YdTP",
-      externalLink: "https://open.spotify.com/track/1VCpjDdrQm8OrrP234YdTP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sound Bath",
   trackType: "studio",
   explicit: false,

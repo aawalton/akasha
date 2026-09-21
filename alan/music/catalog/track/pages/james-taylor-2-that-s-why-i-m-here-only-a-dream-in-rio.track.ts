@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereOnlyADreamInRio = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2eVNfxXYOd6qam9LJvHEh1",
-      externalLink: "https://open.spotify.com/track/2eVNfxXYOd6qam9LJvHEh1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only a Dream in Rio",
   trackType: "studio",
   explicit: false,

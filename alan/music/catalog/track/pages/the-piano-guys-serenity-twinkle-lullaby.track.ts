@@ -9,14 +9,6 @@ export const thePianoGuysSerenityTwinkleLullaby = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0irl0h2oBUI8MvGy3pWyvz",
-      externalLink: "https://open.spotify.com/track/0irl0h2oBUI8MvGy3pWyvz",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Twinkle Lullaby",
   trackType: "studio",
   explicit: false,

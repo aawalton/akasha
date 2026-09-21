@@ -12,14 +12,6 @@ export const celticWoman2AncientLandDeluxeBallroomOfRomance = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "54NdJzrlrl1uPIoR7CGsuf",
-      externalLink: "https://open.spotify.com/track/54NdJzrlrl1uPIoR7CGsuf",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ballroom Of Romance",
   trackType: "studio",
   explicit: false,

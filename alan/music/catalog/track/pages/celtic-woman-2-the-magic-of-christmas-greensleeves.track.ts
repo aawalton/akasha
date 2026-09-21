@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasGreensleeves = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5E0QjQR6LUqVdz47O7a0Mt",
-      externalLink: "https://open.spotify.com/track/5E0QjQR6LUqVdz47O7a0Mt",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Greensleeves",
   trackType: "studio",
   explicit: false,

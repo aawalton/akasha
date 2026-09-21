@@ -9,14 +9,6 @@ export const arianaGrandeBangBangBangBangInstrumental = {
   partOfCollections: ["release/ariana-grande-bang-bang"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2S6WKsqvbcX8doRfCioFar",
-      externalLink: "https://open.spotify.com/track/2S6WKsqvbcX8doRfCioFar",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang - Instrumental",
   trackType: "instrumental",
   explicit: false,

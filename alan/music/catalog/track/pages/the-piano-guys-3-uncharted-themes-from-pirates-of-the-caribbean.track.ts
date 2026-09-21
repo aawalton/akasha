@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedThemesFromPiratesOfTheCaribbean = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "73Iw6SsjJJASNSjkcAYgZY",
-      externalLink: "https://open.spotify.com/track/73Iw6SsjJJASNSjkcAYgZY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Themes from Pirates of the Caribbean",
   trackType: "studio",
   explicit: false,

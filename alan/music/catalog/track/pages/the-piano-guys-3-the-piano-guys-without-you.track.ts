@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysWithoutYou = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "11bCHjLwV7XLUc94MKK57O",
-      externalLink: "https://open.spotify.com/track/11bCHjLwV7XLUc94MKK57O",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Without You",
   trackType: "studio",
   explicit: false,

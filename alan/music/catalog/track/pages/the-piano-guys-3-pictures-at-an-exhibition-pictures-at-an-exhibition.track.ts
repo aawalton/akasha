@@ -9,14 +9,6 @@ export const thePianoGuys3PicturesAtAnExhibitionPicturesAtAnExhibition = {
   partOfCollections: ["release/the-piano-guys-3-pictures-at-an-exhibition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "38v6v6pstbCepnNydKEiee",
-      externalLink: "https://open.spotify.com/track/38v6v6pstbCepnNydKEiee",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Pictures at an Exhibition",
   trackType: "studio",
   explicit: false,

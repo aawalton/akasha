@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeSpectorRe
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2OZxZyMoKgVQZYeEtnOTPF",
-      externalLink: "https://open.spotify.com/track/2OZxZyMoKgVQZYeEtnOTPF",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hear Me - Spector Remix",
   trackType: "remix",
   explicit: false,

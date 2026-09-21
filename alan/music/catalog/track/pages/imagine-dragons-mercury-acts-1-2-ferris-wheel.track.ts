@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12FerrisWheel = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qaWM3wK6aZZALpAPVdZ6D",
-      externalLink: "https://open.spotify.com/track/1qaWM3wK6aZZALpAPVdZ6D",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Ferris Wheel",
   trackType: "studio",
   explicit: false,

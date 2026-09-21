@@ -9,14 +9,6 @@ export const coldplayASkyFullOfStarsRobinSchulzRemixASkyFullOfStarsRobinSchulzRe
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-robin-schulz-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "67X1qaDvAeH6vsG5iFiOyp",
-      externalLink: "https://open.spotify.com/track/67X1qaDvAeH6vsG5iFiOyp",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A Sky Full of Stars - Robin Schulz Remix",
   trackType: "remix",
   explicit: false,

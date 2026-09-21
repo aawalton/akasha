@@ -12,14 +12,6 @@ export const auroraWhatHappenedToTheHeartDeluxeStarvation = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4UQFQCAmeSqePxUBeaShTQ",
-      externalLink: "https://open.spotify.com/track/4UQFQCAmeSqePxUBeaShTQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Starvation",
   trackType: "studio",
   explicit: false,

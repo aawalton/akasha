@@ -9,14 +9,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineWithBrandyMonicaRemixACappella 
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4fhgyMV93wxidvHTGFTuIN",
-      externalLink: "https://open.spotify.com/track/4fhgyMV93wxidvHTGFTuIN",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "the boy is mine (with Brandy, Monica) – Remix a cappella",
   trackType: "remix",
   explicit: true,

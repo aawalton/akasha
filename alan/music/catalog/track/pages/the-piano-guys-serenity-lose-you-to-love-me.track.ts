@@ -9,14 +9,6 @@ export const thePianoGuysSerenityLoseYouToLoveMe = {
   partOfCollections: ["release/the-piano-guys-serenity"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0i4RHjmmo6OcGuBYhzhwF4",
-      externalLink: "https://open.spotify.com/track/0i4RHjmmo6OcGuBYhzhwF4",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lose You To Love Me",
   trackType: "studio",
   explicit: false,

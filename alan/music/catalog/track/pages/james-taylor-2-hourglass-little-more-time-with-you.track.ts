@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassLittleMoreTimeWithYou = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2J89bAuhj02USwAr7jyVFV",
-      externalLink: "https://open.spotify.com/track/2J89bAuhj02USwAr7jyVFV",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Little More Time with You",
   trackType: "studio",
   explicit: false,

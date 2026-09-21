@@ -9,14 +9,6 @@ export const arianaGrandeOneLastTimeOneLastTimeACappella = {
   partOfCollections: ["release/ariana-grande-one-last-time"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1FbQhFSuQErbCGRwY61jxA",
-      externalLink: "https://open.spotify.com/track/1FbQhFSuQErbCGRwY61jxA",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "One Last Time - A Cappella",
   trackType: "a-cappella",
   explicit: false,

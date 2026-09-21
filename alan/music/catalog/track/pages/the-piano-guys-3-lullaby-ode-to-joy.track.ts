@@ -15,14 +15,6 @@ export const thePianoGuys3LullabyOdeToJoy = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3xgOuXgX8txPONEVoD5Hqd",
-      externalLink: "https://open.spotify.com/track/3xgOuXgX8txPONEVoD5Hqd",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Ode To Joy",
   trackType: "studio",
   explicit: false,

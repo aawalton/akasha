@@ -9,14 +9,6 @@ export const paulCardallElizaSThemeElizasTheme = {
   partOfCollections: ["release/paul-cardall-eliza-s-theme", "release/paul-cardall-return-home"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1GGltWuBsYTOHiTrRHjc8b",
-      externalLink: "https://open.spotify.com/track/1GGltWuBsYTOHiTrRHjc8b",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eliza's Theme",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysOverTheRainbowSimpleGifts = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3TgaPzOX2706KUeTyA7DFx",
-      externalLink: "https://open.spotify.com/track/3TgaPzOX2706KUeTyA7DFx",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Over the Rainbow / Simple Gifts",
   trackType: "studio",
   explicit: false,

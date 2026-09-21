@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysBeStillMySoul = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7dB33GYX93rSu4b1z71wDk",
-      externalLink: "https://open.spotify.com/track/7dB33GYX93rSu4b1z71wDk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Be Still, My Soul",
   trackType: "studio",
   explicit: false,

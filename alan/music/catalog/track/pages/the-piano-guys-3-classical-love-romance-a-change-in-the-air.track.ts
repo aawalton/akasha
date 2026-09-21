@@ -13,14 +13,6 @@ export const thePianoGuys3ClassicalLoveRomanceAChangeInTheAir = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1A7mE5iQ0CpqWBaXhjdhzM",
-      externalLink: "https://open.spotify.com/track/1A7mE5iQ0CpqWBaXhjdhzM",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "A Change In The Air",
   trackType: "studio",
   explicit: false,

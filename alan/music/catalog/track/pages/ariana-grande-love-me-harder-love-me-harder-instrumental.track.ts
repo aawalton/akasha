@@ -9,14 +9,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarderInstrumental = {
   partOfCollections: ["release/ariana-grande-love-me-harder"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Lrma6e2xfpi8uGBknkQIt",
-      externalLink: "https://open.spotify.com/track/5Lrma6e2xfpi8uGBknkQIt",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Love Me Harder - Instrumental",
   trackType: "instrumental",
   explicit: false,

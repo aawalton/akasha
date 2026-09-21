@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBad = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7KwGGUydPNh0h5V5Zy6OBB",
-      externalLink: "https://open.spotify.com/track/7KwGGUydPNh0h5V5Zy6OBB",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Something Bad",
   trackType: "studio",
   explicit: false,

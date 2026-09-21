@@ -9,14 +9,6 @@ export const coldplayTheHardestPartTheHardestPart = {
   partOfCollections: ["release/coldplay-the-hardest-part", "release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6VfvwCxKaNnuVU4Mugu5k1",
-      externalLink: "https://open.spotify.com/track/6VfvwCxKaNnuVU4Mugu5k1",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "The Hardest Part",
   trackType: "studio",
   explicit: false,

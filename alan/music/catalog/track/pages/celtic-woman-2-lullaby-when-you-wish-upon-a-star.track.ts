@@ -9,14 +9,6 @@ export const celticWoman2LullabyWhenYouWishUponAStar = {
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Evxt7ypAfSlfCbE5qFcXl",
-      externalLink: "https://open.spotify.com/track/2Evxt7ypAfSlfCbE5qFcXl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "When You Wish Upon A Star",
   trackType: "studio",
   explicit: false,

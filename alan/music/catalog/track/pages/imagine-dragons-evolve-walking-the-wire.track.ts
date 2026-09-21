@@ -9,14 +9,6 @@ export const imagineDragonsEvolveWalkingTheWire = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1y3bE5i57eUm3hfLAc7h08",
-      externalLink: "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Walking The Wire",
   trackType: "studio",
   explicit: false,

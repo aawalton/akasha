@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleEpilogue = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2MN8n7m7cWwZqnRW2RxbWc",
-      externalLink: "https://open.spotify.com/track/2MN8n7m7cWwZqnRW2RxbWc",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Epilogue",
   trackType: "studio",
   explicit: false,

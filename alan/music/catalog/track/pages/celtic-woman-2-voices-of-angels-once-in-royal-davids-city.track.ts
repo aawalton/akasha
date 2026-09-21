@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsOnceInRoyalDavidsCity = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1PMpwx5soGesi1tZ2RM9po",
-      externalLink: "https://open.spotify.com/track/1PMpwx5soGesi1tZ2RM9po",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Once In Royal David's City",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2OneManBandCountryRoadLiveAtTheColonialTheatre2007 = {
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1JBLddQDxTFXCzJ0eMQlDz",
-      externalLink: "https://open.spotify.com/track/1JBLddQDxTFXCzJ0eMQlDz",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Country Road - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,

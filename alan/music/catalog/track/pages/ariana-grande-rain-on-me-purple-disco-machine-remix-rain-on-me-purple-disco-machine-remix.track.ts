@@ -9,14 +9,6 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
   partOfCollections: ["release/ariana-grande-rain-on-me-purple-disco-machine-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0b0WJSdPsu531iLWZ0FDqR",
-      externalLink: "https://open.spotify.com/track/0b0WJSdPsu531iLWZ0FDqR",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Rain On Me - Purple Disco Machine Remix",
   trackType: "remix",
   explicit: false,

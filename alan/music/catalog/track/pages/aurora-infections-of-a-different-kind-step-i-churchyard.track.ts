@@ -12,14 +12,6 @@ export const auroraInfectionsOfADifferentKindStepIChurchyard = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5kgamuXyaPMv0y5bZ4BxgG",
-      externalLink: "https://open.spotify.com/track/5kgamuXyaPMv0y5bZ4BxgG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Churchyard",
   trackType: "studio",
   explicit: false,

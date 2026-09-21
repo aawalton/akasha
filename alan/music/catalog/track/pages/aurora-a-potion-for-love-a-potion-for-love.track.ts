@@ -9,14 +9,6 @@ export const auroraAPotionForLoveAPotionForLove = {
   partOfCollections: ["release/aurora-a-potion-for-love"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5mDvRgYQY8dJp8Oy1veESd",
-      externalLink: "https://open.spotify.com/track/5mDvRgYQY8dJp8Oy1veESd",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Potion For Love",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenWellBeTheStars = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7lqkNvVxJdYDCSAwSJNzHs",
-      externalLink: "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "We'll Be The Stars",
   trackType: "studio",
   explicit: false,

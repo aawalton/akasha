@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeRemixesItsTimeStungunJailbreaksRemix = {
   partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6zIdBuEa61EckkoJqSeYfc",
-      externalLink: "https://open.spotify.com/track/6zIdBuEa61EckkoJqSeYfc",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time - StunGun & JailBreaks Remix",
   trackType: "remix",
   explicit: false,

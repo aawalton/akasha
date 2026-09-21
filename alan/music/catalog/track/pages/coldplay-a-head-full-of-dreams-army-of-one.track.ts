@@ -9,14 +9,6 @@ export const coldplayAHeadFullOfDreamsArmyOfOne = {
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4giCxIFPZNQIP4bIZM4sqH",
-      externalLink: "https://open.spotify.com/track/4giCxIFPZNQIP4bIZM4sqH",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Army of One",
   trackType: "studio",
   explicit: false,

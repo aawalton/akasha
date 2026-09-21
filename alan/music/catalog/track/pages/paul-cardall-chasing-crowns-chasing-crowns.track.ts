@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsChasingCrowns = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ErFPbzT5G1pBjaJr5FV7c",
-      externalLink: "https://open.spotify.com/track/1ErFPbzT5G1pBjaJr5FV7c",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Chasing Crowns",
   trackType: "studio",
   explicit: false,

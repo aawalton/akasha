@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheMoonsAH
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3v44UK865COAqxZSQV1nD7",
-      externalLink: "https://open.spotify.com/track/3v44UK865COAqxZSQV1nD7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Moon's a Harsh Mistress",
   trackType: "studio",
   explicit: false,

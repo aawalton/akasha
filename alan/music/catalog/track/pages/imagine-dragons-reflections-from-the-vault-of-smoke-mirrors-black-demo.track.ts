@@ -9,14 +9,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsBlackDemo = {
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3JRv0tzI3NpbuC4bWKBvxm",
-      externalLink: "https://open.spotify.com/track/3JRv0tzI3NpbuC4bWKBvxm",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Black - Demo",
   trackType: "demo",
   explicit: false,

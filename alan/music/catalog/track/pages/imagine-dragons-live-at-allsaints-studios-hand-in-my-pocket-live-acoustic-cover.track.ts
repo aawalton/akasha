@@ -9,14 +9,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosHandInMyPocketLiveAcousticCover
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0uHu5YqMcuILdSqBz8MaKo",
-      externalLink: "https://open.spotify.com/track/0uHu5YqMcuILdSqBz8MaKo",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hand In My Pocket - Live/Acoustic Cover",
   trackType: "live",
   explicit: false,

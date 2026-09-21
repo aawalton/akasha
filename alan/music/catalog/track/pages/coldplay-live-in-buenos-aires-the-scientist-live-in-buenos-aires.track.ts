@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresTheScientistLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aZhbOdRqshLS6uPjiO8Y4",
-      externalLink: "https://open.spotify.com/track/1aZhbOdRqshLS6uPjiO8Y4",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "The Scientist - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

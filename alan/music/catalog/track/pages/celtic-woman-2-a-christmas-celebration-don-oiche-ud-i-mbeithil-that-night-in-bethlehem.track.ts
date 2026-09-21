@@ -9,14 +9,6 @@ export const celticWoman2AChristmasCelebrationDonOicheUdIMbeithilThatNightInBeth
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2XPFAlKkeBHbhhEumMOVZY",
-      externalLink: "https://open.spotify.com/track/2XPFAlKkeBHbhhEumMOVZY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don Oíche Úd I mBeithil (That Night In Bethlehem)",
   trackType: "studio",
   explicit: false,

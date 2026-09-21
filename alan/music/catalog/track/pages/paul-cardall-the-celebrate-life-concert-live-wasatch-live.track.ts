@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveWasatchLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3cD94kaespYNz4NnTJdTnO",
-      externalLink: "https://open.spotify.com/track/3cD94kaespYNz4NnTJdTnO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Wasatch - Live",
   trackType: "live",
   explicit: false,

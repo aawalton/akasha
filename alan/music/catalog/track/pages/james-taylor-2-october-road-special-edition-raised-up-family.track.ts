@@ -9,14 +9,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionRaisedUpFamily = {
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2d86vRYBgTl4oJ28WrpiKw",
-      externalLink: "https://open.spotify.com/track/2d86vRYBgTl4oJ28WrpiKw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Raised Up Family",
   trackType: "studio",
   explicit: false,

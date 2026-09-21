@@ -9,14 +9,6 @@ export const theHoldernessFamilyWelcomeToTheClubMillennialsWelcomeToTheClubMille
   partOfCollections: ["release/the-holderness-family-welcome-to-the-club-millennials"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "21Uk39S6KJVeuuxLbBcgnz",
-      externalLink: "https://open.spotify.com/track/21Uk39S6KJVeuuxLbBcgnz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Welcome to the Club, Millennials",
   trackType: "studio",
   explicit: false,

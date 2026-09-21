@@ -9,14 +9,6 @@ export const celticWoman2SpancilHillSpancilHill = {
   partOfCollections: ["release/celtic-woman-2-spancil-hill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2GLg6Dlgw13oYmAPi4c45m",
-      externalLink: "https://open.spotify.com/track/2GLg6Dlgw13oYmAPi4c45m",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Spancil Hill",
   trackType: "studio",
   explicit: false,

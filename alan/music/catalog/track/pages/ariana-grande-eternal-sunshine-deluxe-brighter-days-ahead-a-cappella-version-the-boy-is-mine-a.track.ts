@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0poF0mfvsUmW3ib7jaHDPP",
-      externalLink: "https://open.spotify.com/track/0poF0mfvsUmW3ib7jaHDPP",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "the boy is mine - a cappella",
   trackType: "a-cappella",
   explicit: true,

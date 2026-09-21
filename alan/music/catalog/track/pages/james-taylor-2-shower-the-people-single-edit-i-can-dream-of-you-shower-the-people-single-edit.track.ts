@@ -9,14 +9,6 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouShowerThePeopleS
   partOfCollections: ["release/james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7hkl0221AcCuI6fFw7zKBx",
-      externalLink: "https://open.spotify.com/track/7hkl0221AcCuI6fFw7zKBx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Shower the People - Single Edit",
   trackType: "version",
   explicit: false,

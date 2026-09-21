@@ -9,14 +9,6 @@ export const zaraLarssonOnlyYouRemixesOnlyYouOrchestralVersion = {
   partOfCollections: ["release/zara-larsson-only-you-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "13Kr1BVuRDGVp1yDTKm7KY",
-      externalLink: "https://open.spotify.com/track/13Kr1BVuRDGVp1yDTKm7KY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Only You - Orchestral Version",
   trackType: "version",
   explicit: false,

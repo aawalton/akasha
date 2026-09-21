@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleIHeardMrRamone = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69ovIJT5vlgHuG33UWWfiB",
-      externalLink: "https://open.spotify.com/track/69ovIJT5vlgHuG33UWWfiB",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Heard Mr. Ramone",
   trackType: "studio",
   explicit: false,

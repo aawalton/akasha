@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchYouKeepMeCrawling = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "04glgY1l3EWiEOGAORgC9Z",
-      externalLink: "https://open.spotify.com/track/04glgY1l3EWiEOGAORgC9Z",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "You Keep Me Crawling",
   trackType: "studio",
   explicit: false,

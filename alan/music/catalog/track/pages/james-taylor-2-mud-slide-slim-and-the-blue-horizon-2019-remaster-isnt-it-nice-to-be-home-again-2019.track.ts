@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterIsntItNiceToBe
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3RkQm4ihyCPByfNC4RVtd1",
-      externalLink: "https://open.spotify.com/track/3RkQm4ihyCPByfNC4RVtd1",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Isn't It Nice to Be Home Again - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "291MSJpaIvBjWbXYTv5p9z",
-      externalLink: "https://open.spotify.com/track/291MSJpaIvBjWbXYTv5p9z",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "we can't be friends (wait for your love) - a cappella",
   trackType: "a-cappella",
   explicit: false,

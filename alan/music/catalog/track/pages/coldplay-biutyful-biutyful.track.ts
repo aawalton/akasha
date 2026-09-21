@@ -9,14 +9,6 @@ export const coldplayBiutyfulBiutyful = {
   partOfCollections: ["release/coldplay-biutyful", "release/coldplay-music-of-the-spheres"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4TcCbhzD4caTdkkvkS45oa",
-      externalLink: "https://open.spotify.com/track/4TcCbhzD4caTdkkvkS45oa",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Biutyful",
   trackType: "studio",
   explicit: false,

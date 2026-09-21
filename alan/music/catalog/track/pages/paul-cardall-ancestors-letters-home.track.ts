@@ -9,14 +9,6 @@ export const paulCardallAncestorsLettersHome = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2VDpEIMlCyPwLC6iqKy3Cb",
-      externalLink: "https://open.spotify.com/track/2VDpEIMlCyPwLC6iqKy3Cb",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Letters Home",
   trackType: "studio",
   explicit: false,

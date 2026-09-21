@@ -9,14 +9,6 @@ export const thePianoGuys3PopOnPianoLoseYouToLoveMe = {
   partOfCollections: ["release/the-piano-guys-3-pop-on-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Lw00ZkPlcvclWykdkbG1V",
-      externalLink: "https://open.spotify.com/track/3Lw00ZkPlcvclWykdkbG1V",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Lose You To Love Me",
   trackType: "studio",
   explicit: false,

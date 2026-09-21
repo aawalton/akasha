@@ -9,14 +9,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineACappellaACappella = {
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5OqwIfePRGoT0n1wiIxy9B",
-      externalLink: "https://open.spotify.com/track/5OqwIfePRGoT0n1wiIxy9B",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "the boy is mine – a cappella - a cappella",
   trackType: "a-cappella",
   explicit: true,

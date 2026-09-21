@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextNasa = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4uTvPEr01pjTbZgl7jcKBD",
-      externalLink: "https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "NASA",
   trackType: "studio",
   explicit: false,

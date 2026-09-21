@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsKidinakor
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0u3E4VJOH8TpQ9GohtNfoF",
-      externalLink: "https://open.spotify.com/track/0u3E4VJOH8TpQ9GohtNfoF",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - KIDinaKORNER Remix",
   trackType: "remix",
   explicit: false,

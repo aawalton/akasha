@@ -9,14 +9,6 @@ export const auroraQueendomRemixesQueendomBTraitsRemix = {
   partOfCollections: ["release/aurora-queendom-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4Pw93DVaTj7FMYihYyuzRJ",
-      externalLink: "https://open.spotify.com/track/4Pw93DVaTj7FMYihYyuzRJ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Queendom - B.Traits Remix",
   trackType: "remix",
   explicit: false,

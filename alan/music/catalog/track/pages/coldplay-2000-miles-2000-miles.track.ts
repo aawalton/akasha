@@ -9,14 +9,6 @@ export const coldplay2000Miles2000Miles = {
   partOfCollections: ["release/coldplay-2000-miles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5v1SC5d3F8VHwqkXx53f7d",
-      externalLink: "https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "2000 Miles",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraTheGodsWeCanTouchADangerousThing = {
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0PDlmmYkuQCUAFhMXvtlsU",
-      externalLink: "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Dangerous Thing",
   trackType: "studio",
   explicit: false,

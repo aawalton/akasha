@@ -12,14 +12,6 @@ export const theHoldernessFamilyBestOfThe90sBabyGotClass = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1OEr2MIxehsPIiQnjdDpcE",
-      externalLink: "https://open.spotify.com/track/1OEr2MIxehsPIiQnjdDpcE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Baby Got Class",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresClocksLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4cHZ7W5R81upaIGZfqWxbB",
-      externalLink: "https://open.spotify.com/track/4cHZ7W5R81upaIGZfqWxbB",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Clocks - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12ContinualFeatCoryHenry = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2EhE42VQTKvn6ok6wtA9U8",
-      externalLink: "https://open.spotify.com/track/2EhE42VQTKvn6ok6wtA9U8",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Continual (feat. Cory Henry)",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLife = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1q3M3HeMqnKHyfTP5TBmjL",
-      externalLink: "https://open.spotify.com/track/1q3M3HeMqnKHyfTP5TBmjL",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Dancing Through Life",
   trackType: "studio",
   explicit: false,

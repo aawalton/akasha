@@ -9,14 +9,6 @@ export const thePianoGuys3WondersAntsMarchingOdeToJoy = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1q4fLbiyzSFXMNxZrpThOn",
-      externalLink: "https://open.spotify.com/track/1q4fLbiyzSFXMNxZrpThOn",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Ants Marching / Ode to Joy",
   trackType: "studio",
   explicit: false,

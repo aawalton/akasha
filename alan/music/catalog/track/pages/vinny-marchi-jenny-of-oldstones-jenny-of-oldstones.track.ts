@@ -9,14 +9,6 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
   partOfCollections: ["release/vinny-marchi-jenny-of-oldstones"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7eWuRDPxGwMvBjAUBjSDiY",
-      externalLink: "https://open.spotify.com/track/7eWuRDPxGwMvBjAUBjSDiY",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Jenny Of Oldstones",
   trackType: "studio",
   explicit: false,

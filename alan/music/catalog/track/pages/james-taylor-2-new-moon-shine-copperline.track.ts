@@ -9,14 +9,6 @@ export const jamesTaylor2NewMoonShineCopperline = {
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0i1XtQ6hOET96dz5oG45zl",
-      externalLink: "https://open.spotify.com/track/0i1XtQ6hOET96dz5oG45zl",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Copperline",
   trackType: "studio",
   explicit: false,

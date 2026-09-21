@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetDeluxeCouldntMakeItAnyHarder = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5YwBaDW36fztKNnoiHQar3",
-      externalLink: "https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Couldn’t Make It Any Harder",
   trackType: "studio",
   explicit: true,

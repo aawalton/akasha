@@ -9,14 +9,6 @@ export const arianaGrandeChristmasKissesLastChristmas = {
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5xDrO9DEDJGUQGfyoHvgDJ",
-      externalLink: "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Last Christmas",
   trackType: "studio",
   explicit: false,

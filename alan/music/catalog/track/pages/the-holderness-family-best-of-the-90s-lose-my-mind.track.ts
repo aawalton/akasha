@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4YRzOCeziKIVFtSm3bJASP",
-      externalLink: "https://open.spotify.com/track/4YRzOCeziKIVFtSm3bJASP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Lose My Mind",
   trackType: "studio",
   explicit: false,

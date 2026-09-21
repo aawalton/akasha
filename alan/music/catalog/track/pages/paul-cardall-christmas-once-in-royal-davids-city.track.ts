@@ -9,14 +9,6 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3s6CksBSoshnJ6lMhyq5At",
-      externalLink: "https://open.spotify.com/track/3s6CksBSoshnJ6lMhyq5At",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Once in Royal David's City",
   trackType: "studio",
   explicit: false,

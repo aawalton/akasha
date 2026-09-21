@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsJesuJoyOfMansDesiring = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2a77PIYNjsjjdAWKfxqDQ5",
-      externalLink: "https://open.spotify.com/track/2a77PIYNjsjjdAWKfxqDQ5",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Jesu, Joy of Man's Desiring",
   trackType: "studio",
   explicit: false,

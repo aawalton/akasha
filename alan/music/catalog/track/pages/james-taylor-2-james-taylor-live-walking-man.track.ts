@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveWalkingMan = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0nL5J9kKl9aniVySzW0MmD",
-      externalLink: "https://open.spotify.com/track/0nL5J9kKl9aniVySzW0MmD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Walking Man",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandeBangBangBangBangACappella = {
   partOfCollections: ["release/ariana-grande-bang-bang"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6yVBEzJYg7olnFeH0vNsTw",
-      externalLink: "https://open.spotify.com/track/6yVBEzJYg7olnFeH0vNsTw",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Bang Bang - A Cappella",
   trackType: "a-cappella",
   explicit: false,

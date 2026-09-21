@@ -9,14 +9,6 @@ export const coldplayXYSquareOne = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2zQIITgo6sc5ppOfPcH205",
-      externalLink: "https://open.spotify.com/track/2zQIITgo6sc5ppOfPcH205",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Square One",
   trackType: "studio",
   explicit: false,

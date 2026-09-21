@@ -9,14 +9,6 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   partOfCollections: ["release/coldplay-god-put-a-smile-upon-your-face", "release/coldplay-murder"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6FNYoIM6xtaH1mBlLwDMvM",
-      externalLink: "https://open.spotify.com/track/6FNYoIM6xtaH1mBlLwDMvM",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Murder",
   trackType: "studio",
   explicit: false,

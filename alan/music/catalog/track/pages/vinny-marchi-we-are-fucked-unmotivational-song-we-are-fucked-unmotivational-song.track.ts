@@ -9,14 +9,6 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSongWeAreFuckedUnmotivationalSo
   partOfCollections: ["release/vinny-marchi-we-are-fucked-unmotivational-song"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Gr7e1oGkSI1yKU50mRArD",
-      externalLink: "https://open.spotify.com/track/6Gr7e1oGkSI1yKU50mRArD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "We Are Fucked (unmotivational song)",
   trackType: "studio",
   explicit: true,

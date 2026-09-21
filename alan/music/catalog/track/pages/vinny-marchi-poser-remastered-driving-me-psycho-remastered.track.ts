@@ -9,14 +9,6 @@ export const vinnyMarchiPoserRemasteredDrivingMePsychoRemastered = {
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Acyqsg9YUkC95BDY96zSe",
-      externalLink: "https://open.spotify.com/track/5Acyqsg9YUkC95BDY96zSe",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "DRIVING ME PSYCHO - remastered",
   trackType: "remaster",
   explicit: false,

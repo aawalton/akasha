@@ -9,14 +9,6 @@ export const arianaGrandeThankUNextNeedy = {
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1TEL6MlSSVLSdhOSddidlJ",
-      externalLink: "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "needy",
   trackType: "studio",
   explicit: true,

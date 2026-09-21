@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherWhatChildIsThis = {
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "40LRZ7NA5Pv7PVgsV7sQW1",
-      externalLink: "https://open.spotify.com/track/40LRZ7NA5Pv7PVgsV7sQW1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Child is This",
   trackType: "studio",
   explicit: false,

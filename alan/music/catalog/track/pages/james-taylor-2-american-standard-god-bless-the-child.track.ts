@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardGodBlessTheChild = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "16eQQlzeHu2jVnopa59P2B",
-      externalLink: "https://open.spotify.com/track/16eQQlzeHu2jVnopa59P2B",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "God Bless The Child",
   trackType: "studio",
   explicit: false,

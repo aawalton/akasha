@@ -12,14 +12,6 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1izA7wgOZRuDup2WcE7lo4",
-      externalLink: "https://open.spotify.com/track/1izA7wgOZRuDup2WcE7lo4",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Major Minus",
   trackType: "studio",
   explicit: false,

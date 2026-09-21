@@ -9,14 +9,6 @@ export const coldplayLiveFromSpotifyLondonYellowLiveFromSpotifyLondon = {
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "33koOQs551ijjVmLbmrcDc",
-      externalLink: "https://open.spotify.com/track/33koOQs551ijjVmLbmrcDc",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Yellow - Live from Spotify London",
   trackType: "live",
   explicit: false,

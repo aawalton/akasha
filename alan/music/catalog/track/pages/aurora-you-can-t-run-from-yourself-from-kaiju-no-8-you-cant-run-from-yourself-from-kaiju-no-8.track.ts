@@ -9,14 +9,6 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8YouCantRunFromYourselfFromK
   partOfCollections: ["release/aurora-you-can-t-run-from-yourself-from-kaiju-no-8"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "67u7sw6ZJR8yOyX3dwoeBV",
-      externalLink: "https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: 'You Can’t Run From Yourself - From "Kaiju No. 8"',
   trackType: "studio",
   explicit: false,

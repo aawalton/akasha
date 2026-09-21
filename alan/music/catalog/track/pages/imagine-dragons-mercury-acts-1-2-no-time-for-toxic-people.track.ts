@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12NoTimeForToxicPeople = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2wXfd4Vz6pzJrrPvGhpYz0",
-      externalLink: "https://open.spotify.com/track/2wXfd4Vz6pzJrrPvGhpYz0",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "No Time For Toxic People",
   trackType: "studio",
   explicit: false,

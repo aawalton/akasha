@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsCaledonia2
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ampjuLgFmtj0I3GWWkDVu",
-      externalLink: "https://open.spotify.com/track/6ampjuLgFmtj0I3GWWkDVu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Caledonia - 2013 Version",
   trackType: "version",
   explicit: false,

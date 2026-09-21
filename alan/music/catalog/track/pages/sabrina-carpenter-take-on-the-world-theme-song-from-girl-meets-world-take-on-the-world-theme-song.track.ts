@@ -11,14 +11,6 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lz0NiPw32Gq4kMIUJvuw2",
-      externalLink: "https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: 'Take On the World - Theme Song From "Girl Meets World"',
   trackType: "studio",
   explicit: false,

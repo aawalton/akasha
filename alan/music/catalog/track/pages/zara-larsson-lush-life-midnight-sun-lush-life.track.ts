@@ -12,14 +12,6 @@ export const zaraLarssonLushLifeMidnightSunLushLife = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0NSSsLFk5txWb0I8bNNOKR",
-      externalLink: "https://open.spotify.com/track/0NSSsLFk5txWb0I8bNNOKR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lush Life",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1qKdid2S9fZdSrzLaCcjcF",
-      externalLink: "https://open.spotify.com/track/1qKdid2S9fZdSrzLaCcjcF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "off the table (with The Weeknd)",
   trackType: "studio",
   explicit: false,

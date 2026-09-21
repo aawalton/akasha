@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSomewhere = {
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0w0cWR2FuDI8gPQ0F8wAjZ",
-      externalLink: "https://open.spotify.com/track/0w0cWR2FuDI8gPQ0F8wAjZ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Somewhere",
   trackType: "studio",
   explicit: false,

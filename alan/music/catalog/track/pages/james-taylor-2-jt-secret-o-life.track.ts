@@ -9,14 +9,6 @@ export const jamesTaylor2JtSecretOLife = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3IGAJam8XPmbBjCAvpCW8N",
-      externalLink: "https://open.spotify.com/track/3IGAJam8XPmbBjCAvpCW8N",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Secret O' Life",
   trackType: "studio",
   explicit: false,

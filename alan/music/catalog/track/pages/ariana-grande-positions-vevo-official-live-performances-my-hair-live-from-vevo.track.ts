@@ -9,14 +9,6 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesMyHairLiveFromVevo
   partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7GDBfNaLnvPKz0TSQnuHpZ",
-      externalLink: "https://open.spotify.com/track/7GDBfNaLnvPKz0TSQnuHpZ",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "my hair - live from Vevo",
   trackType: "live",
   explicit: false,

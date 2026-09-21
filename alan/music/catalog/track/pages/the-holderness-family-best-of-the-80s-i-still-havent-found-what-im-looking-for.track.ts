@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sIStillHaventFoundWhatImLookingFor = 
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4vdLzkw6wsUVQtHJnvCdbN",
-      externalLink: "https://open.spotify.com/track/4vdLzkw6wsUVQtHJnvCdbN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I Still Haven't Found What I'm Looking For",
   trackType: "studio",
   explicit: false,

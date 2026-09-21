@@ -9,14 +9,6 @@ export const thePianoGuys3WondersKungFuPianoCelloAscends = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7aOZjw0y61VZwTHQhzBe6v",
-      externalLink: "https://open.spotify.com/track/7aOZjw0y61VZwTHQhzBe6v",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Kung Fu Piano: Cello Ascends",
   trackType: "studio",
   explicit: false,

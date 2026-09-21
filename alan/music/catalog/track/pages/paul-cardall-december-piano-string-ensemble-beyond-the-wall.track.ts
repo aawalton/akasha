@@ -9,14 +9,6 @@ export const paulCardallDecemberPianoStringEnsembleBeyondTheWall = {
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0FqDi7tY8acbrRtU4Jb6TD",
-      externalLink: "https://open.spotify.com/track/0FqDi7tY8acbrRtU4Jb6TD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Beyond The Wall",
   trackType: "studio",
   explicit: false,

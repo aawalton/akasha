@@ -9,14 +9,6 @@ export const coldplayParachutesShiver = {
   partOfCollections: ["release/coldplay-parachutes", "release/coldplay-shiver"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0qksx8mV28lztYIZ1om8ml",
-      externalLink: "https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Shiver",
   trackType: "studio",
   explicit: false,

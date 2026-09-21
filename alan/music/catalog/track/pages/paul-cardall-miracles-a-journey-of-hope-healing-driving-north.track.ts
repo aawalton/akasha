@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingDrivingNorth = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "034X9Onf7PiqJi4uQCYsnT",
-      externalLink: "https://open.spotify.com/track/034X9Onf7PiqJi4uQCYsnT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Driving North",
   trackType: "studio",
   explicit: false,

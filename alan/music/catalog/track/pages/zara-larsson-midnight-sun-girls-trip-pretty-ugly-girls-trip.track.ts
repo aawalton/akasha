@@ -9,14 +9,6 @@ export const zaraLarssonMidnightSunGirlsTripPrettyUglyGirlsTrip = {
   partOfCollections: ["release/zara-larsson-midnight-sun-girls-trip"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3t6k4z2biWM5y3RaKYHo4W",
-      externalLink: "https://open.spotify.com/track/3t6k4z2biWM5y3RaKYHo4W",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Pretty Ugly - Girls Trip",
   trackType: "studio",
   explicit: true,

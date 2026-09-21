@@ -9,14 +9,6 @@ export const jamesTaylor2ThatSWhyIMHereGoingAroundOneMoreTime = {
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4gIdlxBwb0oXlsBCqjQYVR",
-      externalLink: "https://open.spotify.com/track/4gIdlxBwb0oXlsBCqjQYVR",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Going Around One More Time",
   trackType: "studio",
   explicit: false,

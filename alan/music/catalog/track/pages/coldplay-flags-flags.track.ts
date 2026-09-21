@@ -9,14 +9,6 @@ export const coldplayFlagsFlags = {
   partOfCollections: ["release/coldplay-flags"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2RZ8SjEJYJHZ8YCUzls77w",
-      externalLink: "https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Flags",
   trackType: "studio",
   explicit: false,

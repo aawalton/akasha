@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandTheCalmOfTheDayTheBanshee = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0C3j3ga7ve7n1Wr6I3tQ9x",
-      externalLink: "https://open.spotify.com/track/0C3j3ga7ve7n1Wr6I3tQ9x",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Calm Of The Day / The Banshee",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1Kz5feZb5jE6skMT6R9vkd",
-      externalLink: "https://open.spotify.com/track/1Kz5feZb5jE6skMT6R9vkd",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ol' Man River",
   trackType: "studio",
   explicit: false,

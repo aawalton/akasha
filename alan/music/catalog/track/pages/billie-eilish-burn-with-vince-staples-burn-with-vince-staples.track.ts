@@ -12,14 +12,6 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7uX3gufAoBVqKVoD3dBLLD",
-      externalLink: "https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "&burn (with Vince Staples)",
   trackType: "studio",
   explicit: false,

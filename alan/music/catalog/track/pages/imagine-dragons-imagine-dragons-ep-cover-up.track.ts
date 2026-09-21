@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsEpCoverUp = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3C4FznGx0AkYW2xl15rKoQ",
-      externalLink: "https://open.spotify.com/track/3C4FznGx0AkYW2xl15rKoQ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Cover Up",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2BelieveAWomansHeart = {
   partOfCollections: ["release/celtic-woman-2-believe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3u1JYf8wcq793uJyk51DtD",
-      externalLink: "https://open.spotify.com/track/3u1JYf8wcq793uJyk51DtD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "A Woman's Heart",
   trackType: "studio",
   explicit: false,

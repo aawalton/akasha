@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsPolitikRe
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4FkGL9u1m7ZLTuscWTbTbo",
-      externalLink: "https://open.spotify.com/track/4FkGL9u1m7ZLTuscWTbTbo",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - Politik Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetComeFollowMe = {
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4mtd0os4gNHl80dea2VWFQ",
-      externalLink: "https://open.spotify.com/track/4mtd0os4gNHl80dea2VWFQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come, Follow Me",
   trackType: "studio",
   explicit: false,

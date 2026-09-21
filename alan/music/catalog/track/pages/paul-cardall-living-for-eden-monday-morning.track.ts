@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenMondayMorning = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "50gOseqJMbnVLmmHHFd1SF",
-      externalLink: "https://open.spotify.com/track/50gOseqJMbnVLmmHHFd1SF",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Monday Morning",
   trackType: "studio",
   explicit: false,

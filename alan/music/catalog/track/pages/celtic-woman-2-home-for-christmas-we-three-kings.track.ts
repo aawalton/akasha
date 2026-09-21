@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasWeThreeKings = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "46Nsjnb8gupZ0rL54zXbaW",
-      externalLink: "https://open.spotify.com/track/46Nsjnb8gupZ0rL54zXbaW",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "We Three Kings",
   trackType: "studio",
   explicit: false,

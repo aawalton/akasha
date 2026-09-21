@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023DaddyCantSee = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5iHpIoY6IjTnoqVTUpz27m",
-      externalLink: "https://open.spotify.com/track/5iHpIoY6IjTnoqVTUpz27m",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Daddy Can't See",
   trackType: "studio",
   explicit: false,

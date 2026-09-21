@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe90sAutumn = {
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1G5sDRJS4nBCqebKocFMCZ",
-      externalLink: "https://open.spotify.com/track/1G5sDRJS4nBCqebKocFMCZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Autumn",
   trackType: "studio",
   explicit: false,

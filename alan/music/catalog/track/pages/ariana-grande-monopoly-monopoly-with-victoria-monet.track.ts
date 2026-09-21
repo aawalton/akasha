@@ -9,14 +9,6 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
   partOfCollections: ["release/ariana-grande-monopoly"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tsOcBnaKgzK22yEiqRh8P",
-      externalLink: "https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "MONOPOLY (with Victoria Monét)",
   trackType: "studio",
   explicit: true,

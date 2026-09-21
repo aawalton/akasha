@@ -9,14 +9,6 @@ export const jamesTaylor2JtIWasOnlyTellingALie = {
   partOfCollections: ["release/james-taylor-2-jt"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1o8KPosoFJDZseZwCVKSqj",
-      externalLink: "https://open.spotify.com/track/1o8KPosoFJDZseZwCVKSqj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Was Only Telling a Lie",
   trackType: "studio",
   explicit: false,

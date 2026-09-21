@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsScarboroug
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4zQG5FEPqMmpcfYpnV70gg",
-      externalLink: "https://open.spotify.com/track/4zQG5FEPqMmpcfYpnV70gg",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Scarborough Fair",
   trackType: "studio",
   explicit: false,

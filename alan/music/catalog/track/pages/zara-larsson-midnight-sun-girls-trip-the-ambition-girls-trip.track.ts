@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5k72K49XRktfr1tJ3chunx",
-      externalLink: "https://open.spotify.com/track/5k72K49XRktfr1tJ3chunx",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Ambition - Girls Trip",
   trackType: "studio",
   explicit: true,

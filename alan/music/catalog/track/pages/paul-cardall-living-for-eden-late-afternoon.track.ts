@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenLateAfternoon = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3eizE9vP8DOrT3XYlup7Xk",
-      externalLink: "https://open.spotify.com/track/3eizE9vP8DOrT3XYlup7Xk",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Late Afternoon",
   trackType: "studio",
   explicit: false,

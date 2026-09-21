@@ -9,14 +9,6 @@ export const vinnyMarchiSugarStarsWakeUpToYou = {
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5niBirkmu67BDhhezZwX6Q",
-      externalLink: "https://open.spotify.com/track/5niBirkmu67BDhhezZwX6Q",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "wake up to you",
   trackType: "studio",
   explicit: false,

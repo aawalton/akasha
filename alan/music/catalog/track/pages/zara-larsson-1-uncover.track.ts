@@ -9,14 +9,6 @@ export const zaraLarsson1Uncover = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aAR4ew6wViXZJofgVo94M",
-      externalLink: "https://open.spotify.com/track/1aAR4ew6wViXZJofgVo94M",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Uncover",
   trackType: "studio",
   explicit: false,

@@ -19,14 +19,6 @@ export const zaraLarssonCrushMidnightSun = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7f2QxIIuSDKuOoDonweNsu",
-      externalLink: "https://open.spotify.com/track/7f2QxIIuSDKuOoDonweNsu",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Midnight Sun",
   trackType: "studio",
   explicit: false,

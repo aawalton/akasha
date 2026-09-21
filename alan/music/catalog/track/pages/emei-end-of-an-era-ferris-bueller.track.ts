@@ -9,14 +9,6 @@ export const emeiEndOfAnEraFerrisBueller = {
   partOfCollections: ["release/emei-end-of-an-era"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "14YzvOvrATzkS7f5sJOw2k",
-      externalLink: "https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Ferris Bueller",
   trackType: "studio",
   explicit: false,

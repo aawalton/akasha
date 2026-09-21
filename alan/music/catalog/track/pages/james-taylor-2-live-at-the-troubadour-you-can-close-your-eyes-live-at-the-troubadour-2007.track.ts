@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourYouCanCloseYourEyesLiveAtTheTroubado
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2f6MijItQFZK9Y4lMBuqLa",
-      externalLink: "https://open.spotify.com/track/2f6MijItQFZK9Y4lMBuqLa",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Can Close Your Eyes - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

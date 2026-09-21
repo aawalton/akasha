@@ -9,14 +9,6 @@ export const arianaGrandeKByeForNowSwtLive7RingsLive = {
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6va6SjWz457IOZidBppAhz",
-      externalLink: "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "7 rings - live",
   trackType: "live",
   explicit: true,

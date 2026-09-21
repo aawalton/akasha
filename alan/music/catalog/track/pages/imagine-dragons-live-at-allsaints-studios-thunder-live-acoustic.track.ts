@@ -9,14 +9,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosThunderLiveAcoustic = {
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2mZrKpdrNUA4oZJWzTunqZ",
-      externalLink: "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Thunder - Live/Acoustic",
   trackType: "live",
   explicit: false,

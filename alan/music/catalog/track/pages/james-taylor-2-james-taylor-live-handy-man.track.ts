@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveHandyMan = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2kuTmskJFZW1L3FMMJFSFp",
-      externalLink: "https://open.spotify.com/track/2kuTmskJFZW1L3FMMJFSFp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Handy Man",
   trackType: "studio",
   explicit: false,

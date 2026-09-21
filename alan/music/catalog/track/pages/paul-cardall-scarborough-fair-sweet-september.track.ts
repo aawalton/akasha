@@ -9,14 +9,6 @@ export const paulCardallScarboroughFairSweetSeptember = {
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bvkc7Jha4yYKzU6o9NUqp",
-      externalLink: "https://open.spotify.com/track/2bvkc7Jha4yYKzU6o9NUqp",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sweet September",
   trackType: "studio",
   explicit: false,

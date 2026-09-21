@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillDecember = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6nx2z3uGS0LhvRor8LpoIb",
-      externalLink: "https://open.spotify.com/track/6nx2z3uGS0LhvRor8LpoIb",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "December",
   trackType: "studio",
   explicit: false,

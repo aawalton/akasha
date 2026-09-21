@@ -9,14 +9,6 @@ export const coldplayLive2012ClocksLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7LIQNY8P7ZGxilKVX88MF1",
-      externalLink: "https://open.spotify.com/track/7LIQNY8P7ZGxilKVX88MF1",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Clocks - Live",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2InThePocket2019RemasterWomansGottaHaveIt2019Remaster = 
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4ZzstN4DuvBuzn9lv7Qj9E",
-      externalLink: "https://open.spotify.com/track/4ZzstN4DuvBuzn9lv7Qj9E",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Woman's Gotta Have It - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

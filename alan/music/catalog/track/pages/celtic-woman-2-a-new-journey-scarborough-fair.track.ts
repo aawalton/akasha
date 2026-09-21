@@ -9,14 +9,6 @@ export const celticWoman2ANewJourneyScarboroughFair = {
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1U1NkDoPpCSEX1T6ZMWX04",
-      externalLink: "https://open.spotify.com/track/1U1NkDoPpCSEX1T6ZMWX04",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Scarborough Fair",
   trackType: "studio",
   explicit: false,

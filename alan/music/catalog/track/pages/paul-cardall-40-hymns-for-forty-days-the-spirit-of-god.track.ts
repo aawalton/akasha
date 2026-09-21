@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysTheSpiritOfGod = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7zghwlJyGNUpnCpPauo9VQ",
-      externalLink: "https://open.spotify.com/track/7zghwlJyGNUpnCpPauo9VQ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Spirit of God",
   trackType: "studio",
   explicit: false,

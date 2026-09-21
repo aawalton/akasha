@@ -9,14 +9,6 @@ export const jamesTaylor2AmericanStandardAlmostLikeBeingInLove = {
   partOfCollections: ["release/james-taylor-2-american-standard"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1R2eNme8jJ5QKHXQQApdKC",
-      externalLink: "https://open.spotify.com/track/1R2eNme8jJ5QKHXQQApdKC",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Almost Like Being In Love",
   trackType: "studio",
   explicit: false,

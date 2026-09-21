@@ -9,14 +9,6 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
   partOfCollections: ["release/coldplay-adventure-of-a-lifetime-yotto-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ivkGuXGHASgnWz4bsj8Gs",
-      externalLink: "https://open.spotify.com/track/3ivkGuXGHASgnWz4bsj8Gs",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Adventure of a Lifetime - Yotto Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayOverturaOverturaMusicOfTheSpheresAlbumTrailer = {
   partOfCollections: ["release/coldplay-overtura"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4b4vxX76SDUbp7chM24TU9",
-      externalLink: "https://open.spotify.com/track/4b4vxX76SDUbp7chM24TU9",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Overtura - Music Of The Spheres album trailer",
   trackType: "studio",
   explicit: false,

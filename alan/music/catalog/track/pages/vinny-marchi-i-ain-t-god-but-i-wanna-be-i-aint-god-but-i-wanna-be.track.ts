@@ -9,14 +9,6 @@ export const vinnyMarchiIAinTGodButIWannaBeIAintGodButIWannaBe = {
   partOfCollections: ["release/vinny-marchi-i-ain-t-god-but-i-wanna-be"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6NJ6U8vhvrakwAaofH9YVQ",
-      externalLink: "https://open.spotify.com/track/6NJ6U8vhvrakwAaofH9YVQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Ain't God But I Wanna Be",
   trackType: "studio",
   explicit: false,

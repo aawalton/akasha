@@ -9,14 +9,6 @@ export const imagineDragonsHellAndSilenceEpSelene = {
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4eGXwNXHtH8GLohrZtqB3p",
-      externalLink: "https://open.spotify.com/track/4eGXwNXHtH8GLohrZtqB3p",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Selene",
   trackType: "studio",
   explicit: false,

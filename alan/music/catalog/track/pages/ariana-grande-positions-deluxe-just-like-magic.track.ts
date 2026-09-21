@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeJustLikeMagic = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1N9hFgcgWYbGINUKjhvcK6",
-      externalLink: "https://open.spotify.com/track/1N9hFgcgWYbGINUKjhvcK6",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "just like magic",
   trackType: "studio",
   explicit: true,

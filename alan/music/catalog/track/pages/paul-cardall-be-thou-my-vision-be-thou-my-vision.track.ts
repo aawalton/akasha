@@ -12,14 +12,6 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7uTkqzfkBDocIB8J89gNxa",
-      externalLink: "https://open.spotify.com/track/7uTkqzfkBDocIB8J89gNxa",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Be Thou My Vision",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHalfTheWorldAway = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7ahrDi6JRWbbBZscxvz26J",
-      externalLink: "https://open.spotify.com/track/7ahrDi6JRWbbBZscxvz26J",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Half the World Away",
   trackType: "studio",
   explicit: false,

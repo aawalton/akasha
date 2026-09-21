@@ -9,14 +9,6 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSteveJamesRemix = {
   partOfCollections: ["release/zara-larsson-ruin-my-life-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5iAXWxXrzbEYDSDOx67PG7",
-      externalLink: "https://open.spotify.com/track/5iAXWxXrzbEYDSDOx67PG7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ruin My Life - Steve James Remix",
   trackType: "remix",
   explicit: true,

@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHeyMisterThats
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ef8E6XIpIScVQ4OqjY40Q",
-      externalLink: "https://open.spotify.com/track/5ef8E6XIpIScVQ4OqjY40Q",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hey Mister, That's Me up on the Jukebox - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

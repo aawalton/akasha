@@ -9,14 +9,6 @@ export const celticWoman2NollaigAChristmasJourneySilentNight = {
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1gY5W6nz1l48livBTGRe34",
-      externalLink: "https://open.spotify.com/track/1gY5W6nz1l48livBTGRe34",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Silent Night",
   trackType: "studio",
   explicit: false,

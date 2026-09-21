@@ -12,14 +12,6 @@ export const paulCardallAGriefObservedAGriefObserved = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59TA85SubQlrlPYOvtq53u",
-      externalLink: "https://open.spotify.com/track/59TA85SubQlrlPYOvtq53u",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Grief Observed",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMe = {
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3iUAj0NxZoyN0WD5D7BVVD",
-      externalLink: "https://open.spotify.com/track/3iUAj0NxZoyN0WD5D7BVVD",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hear Me",
   trackType: "studio",
   explicit: false,

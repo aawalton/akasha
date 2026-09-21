@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLive42LiveInMadrid2008 = {
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49UkdEi78uZGqQz4rWpkim",
-      externalLink: "https://open.spotify.com/track/49UkdEi78uZGqQz4rWpkim",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "42 - Live in Madrid, 2008",
   trackType: "live",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodWhatMakesYouBeautiful = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4vzGWOgAnkFCEwvNRPjZY0",
-      externalLink: "https://open.spotify.com/track/4vzGWOgAnkFCEwvNRPjZY0",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Makes You Beautiful",
   trackType: "studio",
   explicit: false,

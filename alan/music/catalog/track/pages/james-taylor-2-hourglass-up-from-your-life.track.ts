@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassUpFromYourLife = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3McJMHQcLIxOhl4GFVOkKX",
-      externalLink: "https://open.spotify.com/track/3McJMHQcLIxOhl4GFVOkKX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Up From Your Life",
   trackType: "studio",
   explicit: false,

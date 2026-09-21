@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassGaia = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4HvUn2UZobWGX6BLijuaru",
-      externalLink: "https://open.spotify.com/track/4HvUn2UZobWGX6BLijuaru",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Gaia",
   trackType: "studio",
   explicit: false,

@@ -13,14 +13,6 @@ export const auroraADifferentKindOfHumanStepIiDaydreamer = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6zHEWX6PuCQIRy4rdh777J",
-      externalLink: "https://open.spotify.com/track/6zHEWX6PuCQIRy4rdh777J",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Daydreamer",
   trackType: "studio",
   explicit: false,

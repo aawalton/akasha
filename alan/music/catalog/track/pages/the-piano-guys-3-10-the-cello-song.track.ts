@@ -9,14 +9,6 @@ export const thePianoGuys310TheCelloSong = {
   partOfCollections: ["release/the-piano-guys-3-10"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0sgeEBtOJEl6IsAfxTNuiK",
-      externalLink: "https://open.spotify.com/track/0sgeEBtOJEl6IsAfxTNuiK",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Cello Song",
   trackType: "studio",
   explicit: false,

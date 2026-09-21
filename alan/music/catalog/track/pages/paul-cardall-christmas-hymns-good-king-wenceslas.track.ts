@@ -9,14 +9,6 @@ export const paulCardallChristmasHymnsGoodKingWenceslas = {
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6I41mwhctSO8WovoygCOEr",
-      externalLink: "https://open.spotify.com/track/6I41mwhctSO8WovoygCOEr",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Good King Wenceslas",
   trackType: "studio",
   explicit: false,

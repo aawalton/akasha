@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendNobodysSon = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4SRShYMtFIGgnOU7iBicMH",
-      externalLink: "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Nobody’s Son",
   trackType: "studio",
   explicit: true,

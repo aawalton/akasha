@@ -9,14 +9,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndICommentary = 
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6jjHITTvyWcUboN8o7Pvcz",
-      externalLink: "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Wizard And I - Commentary",
   trackType: "studio",
   explicit: false,

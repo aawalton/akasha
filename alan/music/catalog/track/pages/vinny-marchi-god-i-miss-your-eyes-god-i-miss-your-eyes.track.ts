@@ -9,14 +9,6 @@ export const vinnyMarchiGodIMissYourEyesGodIMissYourEyes = {
   partOfCollections: ["release/vinny-marchi-god-i-miss-your-eyes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0cctSPZcjtBZTYpmx4z2DR",
-      externalLink: "https://open.spotify.com/track/0cctSPZcjtBZTYpmx4z2DR",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "god i miss your eyes",
   trackType: "studio",
   explicit: false,

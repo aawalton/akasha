@@ -9,14 +9,6 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
   partOfCollections: ["release/zara-larsson-don-t-let-me-be-yours-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0vbrGWBa1l1laD8Qd0XnqY",
-      externalLink: "https://open.spotify.com/track/0vbrGWBa1l1laD8Qd0XnqY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Let Me Be Yours - Black Chiney Remix",
   trackType: "remix",
   explicit: false,

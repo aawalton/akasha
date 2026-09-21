@@ -9,14 +9,6 @@ export const coldplayLeftrightleftrightleftLiveVivaLaVidaLiveInParis2008 = {
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "03fyMJOv5psp93rUj07g3S",
-      externalLink: "https://open.spotify.com/track/03fyMJOv5psp93rUj07g3S",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Viva La Vida - Live in Paris, 2008",
   trackType: "live",
   explicit: false,

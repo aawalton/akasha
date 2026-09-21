@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanDangerousWoman = {
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1OhstguCoBQ4SXT8ugSmOl",
-      externalLink: "https://open.spotify.com/track/1OhstguCoBQ4SXT8ugSmOl",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Dangerous Woman",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConstellation = {
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "35HcxxpcvShWS020vHKjAj",
-      externalLink: "https://open.spotify.com/track/35HcxxpcvShWS020vHKjAj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Constellation",
   trackType: "studio",
   explicit: false,

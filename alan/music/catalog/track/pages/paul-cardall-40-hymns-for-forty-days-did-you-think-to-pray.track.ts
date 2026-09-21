@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysDidYouThinkToPray = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6XcEJy7WbNcX6OhqxBepWz",
-      externalLink: "https://open.spotify.com/track/6XcEJy7WbNcX6OhqxBepWz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Did You Think to Pray?",
   trackType: "studio",
   explicit: false,

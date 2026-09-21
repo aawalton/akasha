@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1MorningLight = {
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6mDyhLTDhgZ0SL5o5BNMXc",
-      externalLink: "https://open.spotify.com/track/6mDyhLTDhgZ0SL5o5BNMXc",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Morning Light",
   trackType: "studio",
   explicit: false,

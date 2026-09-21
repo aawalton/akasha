@@ -14,14 +14,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolves = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2gbOc5OxpVb38W0MMwBw56",
-      externalLink: "https://open.spotify.com/track/2gbOc5OxpVb38W0MMwBw56",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Running with the Wolves",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Solace = {
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jxSZjuVfjbE7hzO1iyKpQ",
-      externalLink: "https://open.spotify.com/track/7jxSZjuVfjbE7hzO1iyKpQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Solace",
   trackType: "studio",
   explicit: false,

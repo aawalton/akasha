@@ -12,14 +12,6 @@ export const celticWoman2ANewJourneyCarrickfergus = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3OukKkKoKiQhpbuAgnNj9a",
-      externalLink: "https://open.spotify.com/track/3OukKkKoKiQhpbuAgnNj9a",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carrickfergus",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLive2012UpInFlamesLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7cmWfBUtzV8DQTw47nA5OD",
-      externalLink: "https://open.spotify.com/track/7cmWfBUtzV8DQTw47nA5OD",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Up in Flames - Live",
   trackType: "live",
   explicit: false,

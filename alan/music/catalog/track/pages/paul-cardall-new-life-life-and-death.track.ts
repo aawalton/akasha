@@ -9,14 +9,6 @@ export const paulCardallNewLifeLifeAndDeath = {
   partOfCollections: ["release/paul-cardall-new-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ld6TrelktnNxPwIE44Ke2",
-      externalLink: "https://open.spotify.com/track/6ld6TrelktnNxPwIE44Ke2",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Life and Death",
   trackType: "studio",
   explicit: false,

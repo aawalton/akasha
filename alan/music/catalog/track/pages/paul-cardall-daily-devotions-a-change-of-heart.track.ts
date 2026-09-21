@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsAChangeOfHeart = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "59BW5SssTprev1iWJPSk6I",
-      externalLink: "https://open.spotify.com/track/59BW5SssTprev1iWJPSk6I",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Change of Heart",
   trackType: "studio",
   explicit: false,

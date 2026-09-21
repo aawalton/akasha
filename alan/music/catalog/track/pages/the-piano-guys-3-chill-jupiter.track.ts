@@ -9,14 +9,6 @@ export const thePianoGuys3ChillJupiter = {
   partOfCollections: ["release/the-piano-guys-3-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2IpKKmIudVllzv6NKOtNwq",
-      externalLink: "https://open.spotify.com/track/2IpKKmIudVllzv6NKOtNwq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Jupiter",
   trackType: "studio",
   explicit: false,

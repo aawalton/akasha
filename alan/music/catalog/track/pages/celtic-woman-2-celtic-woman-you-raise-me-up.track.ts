@@ -9,14 +9,6 @@ export const celticWoman2CelticWomanYouRaiseMeUp = {
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "03wrmep5c3Dr9JlOXPvFUX",
-      externalLink: "https://open.spotify.com/track/03wrmep5c3Dr9JlOXPvFUX",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "You Raise Me Up",
   trackType: "studio",
   explicit: false,

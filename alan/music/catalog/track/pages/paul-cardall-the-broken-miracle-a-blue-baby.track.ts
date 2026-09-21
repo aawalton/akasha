@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleABlueBaby = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ZSdMCEdZ2oonnlrFqfoRO",
-      externalLink: "https://open.spotify.com/track/3ZSdMCEdZ2oonnlrFqfoRO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "A Blue Baby",
   trackType: "studio",
   explicit: false,

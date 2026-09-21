@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionWhyTry = {
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6O5sKvYjB1R20oCTyaJsc5",
-      externalLink: "https://open.spotify.com/track/6O5sKvYjB1R20oCTyaJsc5",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Why Try",
   trackType: "studio",
   explicit: false,

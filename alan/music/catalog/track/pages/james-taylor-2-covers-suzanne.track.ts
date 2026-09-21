@@ -9,14 +9,6 @@ export const jamesTaylor2CoversSuzanne = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "27GMmOPgdi6NEq3dAGZ6et",
-      externalLink: "https://open.spotify.com/track/27GMmOPgdi6NEq3dAGZ6et",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Suzanne",
   trackType: "studio",
   explicit: false,

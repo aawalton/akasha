@@ -10,14 +10,6 @@ export const coldplayLeftrightleftrightleftLiveTheHardestPartPostcardsFromFarAwa
     partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "3Pgiemb2bwxrVBYoUIhtsw",
-        externalLink: "https://open.spotify.com/track/3Pgiemb2bwxrVBYoUIhtsw",
-        lastSyncedAt: "2026-09-19",
-      },
-    ],
     title: "The Hardest Part / Postcards from Far Away - Live in Sydney, 2009",
     trackType: "live",
     explicit: false,

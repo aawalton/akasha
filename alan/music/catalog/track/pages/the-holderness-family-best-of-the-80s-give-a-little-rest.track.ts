@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sGiveALittleRest = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5j4nM7HZu3RimAkmoJFUCn",
-      externalLink: "https://open.spotify.com/track/5j4nM7HZu3RimAkmoJFUCn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Give a Little Rest",
   trackType: "studio",
   explicit: false,

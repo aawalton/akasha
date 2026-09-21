@@ -9,14 +9,6 @@ export const arianaGrandeBreakFreeBreakFreeACappella = {
   partOfCollections: ["release/ariana-grande-break-free"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1VGnGcB9mBywGac3H9yoQj",
-      externalLink: "https://open.spotify.com/track/1VGnGcB9mBywGac3H9yoQj",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Break Free - A Cappella",
   trackType: "a-cappella",
   explicit: false,

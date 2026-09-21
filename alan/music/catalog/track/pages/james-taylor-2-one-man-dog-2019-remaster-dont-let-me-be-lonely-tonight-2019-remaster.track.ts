@@ -9,14 +9,6 @@ export const jamesTaylor2OneManDog2019RemasterDontLetMeBeLonelyTonight2019Remast
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0SHFf1goWCyv8UKZdpHIcS",
-      externalLink: "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Let Me Be Lonely Tonight - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

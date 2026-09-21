@@ -9,14 +9,6 @@ export const paulCardallTheBrokenMiracleChange = {
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4rz27o0e5okXItB0XFrfGY",
-      externalLink: "https://open.spotify.com/track/4rz27o0e5okXItB0XFrfGY",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Change",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayEverydayLifeWotwPotp = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7jib2tJjQ82kTIZZATMvAK",
-      externalLink: "https://open.spotify.com/track/7jib2tJjQ82kTIZZATMvAK",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "WOTW / POTP",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const paulCardallAncestorsMountainMeadows = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7CCB6ro1J0M2slGILexluE",
-      externalLink: "https://open.spotify.com/track/7CCB6ro1J0M2slGILexluE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Mountain Meadows",
   trackType: "studio",
   explicit: false,

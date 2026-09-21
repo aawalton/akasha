@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryWintersWisp = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3X87hUpyeDHx2jnnQvpMwZ",
-      externalLink: "https://open.spotify.com/track/3X87hUpyeDHx2jnnQvpMwZ",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Winter's Wisp",
   trackType: "studio",
   explicit: false,

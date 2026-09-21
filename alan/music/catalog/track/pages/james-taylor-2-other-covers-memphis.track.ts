@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversMemphis = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4bRejQ7pYFZ4v1qAggqiA2",
-      externalLink: "https://open.spotify.com/track/4bRejQ7pYFZ4v1qAggqiA2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Memphis",
   trackType: "studio",
   explicit: false,

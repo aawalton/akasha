@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSiuilARun 
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Ct5kro7Pzxhf5JSXtdE32",
-      externalLink: "https://open.spotify.com/track/2Ct5kro7Pzxhf5JSXtdE32",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Siúil a Rún",
   trackType: "studio",
   explicit: false,

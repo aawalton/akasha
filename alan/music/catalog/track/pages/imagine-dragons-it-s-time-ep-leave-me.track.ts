@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpLeaveMe = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3qasfRKlw6cGDbDhPfZJ8h",
-      externalLink: "https://open.spotify.com/track/3qasfRKlw6cGDbDhPfZJ8h",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Leave Me",
   trackType: "studio",
   explicit: false,

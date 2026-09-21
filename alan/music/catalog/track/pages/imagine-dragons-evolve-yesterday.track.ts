@@ -9,14 +9,6 @@ export const imagineDragonsEvolveYesterday = {
   partOfCollections: ["release/imagine-dragons-evolve"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2SJf7W18D1AEpr8L9ATu0c",
-      externalLink: "https://open.spotify.com/track/2SJf7W18D1AEpr8L9ATu0c",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Yesterday",
   trackType: "studio",
   explicit: false,

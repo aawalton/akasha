@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023PileOnTheStairs = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5H783MhgupDfz1PqtSijBi",
-      externalLink: "https://open.spotify.com/track/5H783MhgupDfz1PqtSijBi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Pile On The Stairs",
   trackType: "studio",
   explicit: false,

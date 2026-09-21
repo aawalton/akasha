@@ -9,14 +9,6 @@ export const thePianoGuys3WondersPicturesAtAnExhibition = {
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6dqDzxkK6QVjRIogGJo9U9",
-      externalLink: "https://open.spotify.com/track/6dqDzxkK6QVjRIogGJo9U9",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Pictures at an Exhibition",
   trackType: "studio",
   explicit: false,

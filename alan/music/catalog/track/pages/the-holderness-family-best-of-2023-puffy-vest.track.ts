@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023PuffyVest = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0OJ73oWnabu4xv6ipm2VCF",
-      externalLink: "https://open.spotify.com/track/0OJ73oWnabu4xv6ipm2VCF",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Puffy Vest",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsAveMaria2016Version = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4c7fwYlFNOZSY75qWWNsaG",
-      externalLink: "https://open.spotify.com/track/4c7fwYlFNOZSY75qWWNsaG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ave Maria - 2016 Version",
   trackType: "version",
   explicit: false,

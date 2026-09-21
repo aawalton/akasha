@@ -9,14 +9,6 @@ export const coldplayColoraturaColoratura = {
   partOfCollections: ["release/coldplay-coloratura"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6P2Y4KnF2x8uwZV2cZWA8t",
-      externalLink: "https://open.spotify.com/track/6P2Y4KnF2x8uwZV2cZWA8t",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Coloratura",
   trackType: "studio",
   explicit: false,

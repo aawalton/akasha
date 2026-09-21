@@ -9,14 +9,6 @@ export const zaraLarssonDonTWorryBoutMeDontWorryBoutMe = {
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "507tQXutCPYNFkpOq8tmKF",
-      externalLink: "https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Don't Worry Bout Me",
   trackType: "studio",
   explicit: false,

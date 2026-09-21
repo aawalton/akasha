@@ -9,14 +9,6 @@ export const thePianoGuys3AFamilyChristmasStillStillStill = {
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "73jJWaNrhk8zS0fY8gPesD",
-      externalLink: "https://open.spotify.com/track/73jJWaNrhk8zS0fY8gPesD",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Still, Still, Still",
   trackType: "studio",
   explicit: false,

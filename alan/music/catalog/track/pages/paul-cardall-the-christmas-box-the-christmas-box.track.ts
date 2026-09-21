@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxTheChristmasBox = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4jZZ8mDC9dgj1z8vBQNovC",
-      externalLink: "https://open.spotify.com/track/4jZZ8mDC9dgj1z8vBQNovC",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Christmas Box",
   trackType: "studio",
   explicit: false,

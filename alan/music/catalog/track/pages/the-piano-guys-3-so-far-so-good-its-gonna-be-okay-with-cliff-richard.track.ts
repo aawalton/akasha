@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkayWithCliffRichard = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7L2cpA03KxuGpk8mVfXbpi",
-      externalLink: "https://open.spotify.com/track/7L2cpA03KxuGpk8mVfXbpi",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "(It's Gonna Be) Okay (with Cliff Richard)",
   trackType: "studio",
   explicit: false,

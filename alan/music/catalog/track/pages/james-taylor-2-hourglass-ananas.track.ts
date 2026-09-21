@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassAnanas = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6QIH6LDpJwtu6Wt3kkrco2",
-      externalLink: "https://open.spotify.com/track/6QIH6LDpJwtu6Wt3kkrco2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ananas",
   trackType: "studio",
   explicit: false,

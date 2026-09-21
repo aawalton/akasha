@@ -11,14 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionB
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1mecPNzAoBtbHrD9V95LtG",
-      externalLink: "https://open.spotify.com/track/1mecPNzAoBtbHrD9V95LtG",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "bye - a cappella",
   trackType: "a-cappella",
   explicit: false,

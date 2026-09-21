@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandMoGhileMearMyGallantStarLive20
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3FimRF5OddXLuyc9nIDEA8",
-      externalLink: "https://open.spotify.com/track/3FimRF5OddXLuyc9nIDEA8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mo Ghile Mear (My Gallant Star) - Live 2017",
   trackType: "live",
   explicit: false,

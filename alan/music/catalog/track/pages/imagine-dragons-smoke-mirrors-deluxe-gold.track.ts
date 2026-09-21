@@ -12,14 +12,6 @@ export const imagineDragonsSmokeMirrorsDeluxeGold = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3pgDkYNYH7hMCl5Njib24j",
-      externalLink: "https://open.spotify.com/track/3pgDkYNYH7hMCl5Njib24j",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Gold",
   trackType: "studio",
   explicit: false,

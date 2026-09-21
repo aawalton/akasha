@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreFrictionLive 
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0E56yEx4Xcey4QdXtkHKAG",
-      externalLink: "https://open.spotify.com/track/0E56yEx4Xcey4QdXtkHKAG",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Friction - Live",
   trackType: "live",
   explicit: false,

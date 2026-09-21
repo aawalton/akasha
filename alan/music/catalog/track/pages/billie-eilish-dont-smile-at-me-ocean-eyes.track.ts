@@ -9,14 +9,6 @@ export const billieEilishDontSmileAtMeOceanEyes = {
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7hDVYcQq6MxkdJGweuCtl9",
-      externalLink: "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "ocean eyes",
   trackType: "studio",
   explicit: false,

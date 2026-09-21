@@ -9,14 +9,6 @@ export const paulCardallANewCreationOneByOne = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6OHDaQfpRUWTjY5jOe7Yth",
-      externalLink: "https://open.spotify.com/track/6OHDaQfpRUWTjY5jOe7Yth",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "One by One",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandHomecomingLamentLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0u18slAayRFU0pI759JkAr",
-      externalLink: "https://open.spotify.com/track/0u18slAayRFU0pI759JkAr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Homecoming Lament - Live 2017",
   trackType: "live",
   explicit: false,

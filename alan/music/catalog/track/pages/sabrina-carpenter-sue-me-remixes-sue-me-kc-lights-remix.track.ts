@@ -9,14 +9,6 @@ export const sabrinaCarpenterSueMeRemixesSueMeKcLightsRemix = {
   partOfCollections: ["release/sabrina-carpenter-sue-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Mtz5ZTbFSkhN4yCirMOIS",
-      externalLink: "https://open.spotify.com/track/0Mtz5ZTbFSkhN4yCirMOIS",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sue Me - KC Lights Remix",
   trackType: "remix",
   explicit: false,

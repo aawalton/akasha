@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenSundayDrive = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63Lm9VcUOCrU379mMNIdLo",
-      externalLink: "https://open.spotify.com/track/63Lm9VcUOCrU379mMNIdLo",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sunday Drive",
   trackType: "studio",
   explicit: false,

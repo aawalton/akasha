@@ -9,14 +9,6 @@ export const paulCardallScarboroughFairFallingSlowly = {
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5s0xPDadrrHGWawd2FdPjU",
-      externalLink: "https://open.spotify.com/track/5s0xPDadrrHGWawd2FdPjU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Falling Slowly",
   trackType: "studio",
   explicit: false,

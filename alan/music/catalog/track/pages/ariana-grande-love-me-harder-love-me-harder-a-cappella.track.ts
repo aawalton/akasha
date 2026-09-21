@@ -9,14 +9,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarderACappella = {
   partOfCollections: ["release/ariana-grande-love-me-harder"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "071IQ2wufBbCpB95z7VU7i",
-      externalLink: "https://open.spotify.com/track/071IQ2wufBbCpB95z7VU7i",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Love Me Harder - A Cappella",
   trackType: "a-cappella",
   explicit: false,

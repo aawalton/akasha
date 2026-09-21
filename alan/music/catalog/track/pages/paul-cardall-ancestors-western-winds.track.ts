@@ -9,14 +9,6 @@ export const paulCardallAncestorsWesternWinds = {
   partOfCollections: ["release/paul-cardall-ancestors"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2KOx9r201JBRvPTaWOwEQI",
-      externalLink: "https://open.spotify.com/track/2KOx9r201JBRvPTaWOwEQI",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Western Winds",
   trackType: "studio",
   explicit: false,

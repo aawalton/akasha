@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysIllGoWhereYouWantMeToGo = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "40zPncjGCeCHhRRg4JdIf3",
-      externalLink: "https://open.spotify.com/track/40zPncjGCeCHhRRg4JdIf3",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I'll Go Where You Want Me to Go",
   trackType: "studio",
   explicit: false,

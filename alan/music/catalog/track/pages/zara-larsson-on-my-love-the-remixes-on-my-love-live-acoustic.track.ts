@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveLiveAcoustic = {
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3SgfNBqzHqp8iHyXMzUTyy",
-      externalLink: "https://open.spotify.com/track/3SgfNBqzHqp8iHyXMzUTyy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love - Live Acoustic",
   trackType: "live",
   explicit: false,

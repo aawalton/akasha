@@ -13,14 +13,6 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5AuMayc5oryIfCi0TAaSAp",
-      externalLink: "https://open.spotify.com/track/5AuMayc5oryIfCi0TAaSAp",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "What Was I Made For?",
   trackType: "studio",
   explicit: false,

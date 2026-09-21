@@ -9,14 +9,6 @@ export const paulCardallSacredPianoRedeemer = {
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3eBBuWFS8OgVjey6tGeArL",
-      externalLink: "https://open.spotify.com/track/3eBBuWFS8OgVjey6tGeArL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Redeemer",
   trackType: "studio",
   explicit: false,

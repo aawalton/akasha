@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNilSenLa =
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "13dEX45vSmJb75Y7mByKX4",
-      externalLink: "https://open.spotify.com/track/13dEX45vSmJb75Y7mByKX4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Níl Sé'n Lá",
   trackType: "studio",
   explicit: false,

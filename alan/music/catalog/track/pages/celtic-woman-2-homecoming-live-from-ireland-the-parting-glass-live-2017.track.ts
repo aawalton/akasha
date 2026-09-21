@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandThePartingGlassLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0Qfrr2n3HZbIRSaAkGOReM",
-      externalLink: "https://open.spotify.com/track/0Qfrr2n3HZbIRSaAkGOReM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Parting Glass - Live 2017",
   trackType: "live",
   explicit: false,

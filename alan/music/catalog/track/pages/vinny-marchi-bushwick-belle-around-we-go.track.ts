@@ -9,14 +9,6 @@ export const vinnyMarchiBushwickBelleAroundWeGo = {
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2WPlD94fcn593aogYP0vLm",
-      externalLink: "https://open.spotify.com/track/2WPlD94fcn593aogYP0vLm",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Around We Go",
   trackType: "studio",
   explicit: false,

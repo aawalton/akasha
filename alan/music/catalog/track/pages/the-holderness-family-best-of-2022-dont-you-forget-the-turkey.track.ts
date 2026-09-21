@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2022DontYouForgetTheTurkey = {
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2k5qFoLqkuQDFYJjXWJEmS",
-      externalLink: "https://open.spotify.com/track/2k5qFoLqkuQDFYJjXWJEmS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Don't You Forget The Turkey",
   trackType: "studio",
   explicit: false,

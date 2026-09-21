@@ -9,14 +9,6 @@ export const paulCardallHymnsComeComeYeSaints = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7q8oa4YYFYCxVa6gKNj2tU",
-      externalLink: "https://open.spotify.com/track/7q8oa4YYFYCxVa6gKNj2tU",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Come, Come Ye Saints",
   trackType: "studio",
   explicit: false,

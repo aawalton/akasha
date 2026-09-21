@@ -9,14 +9,6 @@ export const sabrinaCarpenterSueMeRemixesSueMeDaveAudeRemix = {
   partOfCollections: ["release/sabrina-carpenter-sue-me-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3WjGTNxFlIDjo9mjmToKf3",
-      externalLink: "https://open.spotify.com/track/3WjGTNxFlIDjo9mjmToKf3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sue Me - Dave Audé Remix",
   trackType: "remix",
   explicit: false,

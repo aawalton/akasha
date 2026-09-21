@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarTheLordIsMyShepherd = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5i3yQwUGwn7y38I3C7njwv",
-      externalLink: "https://open.spotify.com/track/5i3yQwUGwn7y38I3C7njwv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Lord is My Shepherd",
   trackType: "studio",
   explicit: false,

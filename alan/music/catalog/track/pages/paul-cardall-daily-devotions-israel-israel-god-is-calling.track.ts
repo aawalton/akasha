@@ -9,14 +9,6 @@ export const paulCardallDailyDevotionsIsraelIsraelGodIsCalling = {
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7qJGUnJMkl6wPzx1xPPlCD",
-      externalLink: "https://open.spotify.com/track/7qJGUnJMkl6wPzx1xPPlCD",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Israel, Israel God Is Calling",
   trackType: "studio",
   explicit: false,

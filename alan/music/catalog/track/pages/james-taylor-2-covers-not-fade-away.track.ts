@@ -9,14 +9,6 @@ export const jamesTaylor2CoversNotFadeAway = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7t5fb6craNhAoPuz4dbIkE",
-      externalLink: "https://open.spotify.com/track/7t5fb6craNhAoPuz4dbIkE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Not Fade Away",
   trackType: "studio",
   explicit: false,

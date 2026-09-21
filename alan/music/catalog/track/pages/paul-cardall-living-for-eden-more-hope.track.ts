@@ -9,14 +9,6 @@ export const paulCardallLivingForEdenMoreHope = {
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3XO8BHtCOObbWlmT1WERxl",
-      externalLink: "https://open.spotify.com/track/3XO8BHtCOObbWlmT1WERxl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "More Hope",
   trackType: "studio",
   explicit: false,

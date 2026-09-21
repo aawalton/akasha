@@ -9,14 +9,6 @@ export const sylviaDaleyMyOwnRulesMyOwnRules = {
   partOfCollections: ["release/sylvia-daley-my-own-rules"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4FcR7G0OXj6sBOGHnDCWkF",
-      externalLink: "https://open.spotify.com/track/4FcR7G0OXj6sBOGHnDCWkF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "My Own Rules",
   trackType: "studio",
   explicit: false,

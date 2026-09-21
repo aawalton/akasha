@@ -13,14 +13,6 @@ export const thePianoGuys3EyesClosedEyesClosed = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4XZ21h3GvuSwjZthlXQ5T7",
-      externalLink: "https://open.spotify.com/track/4XZ21h3GvuSwjZthlXQ5T7",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Eyes Closed",
   trackType: "studio",
   explicit: false,

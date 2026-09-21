@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeJustALittleBitOfYourHeart = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5lvnGiTAH9BVlJLHc0DXZz",
-      externalLink: "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Just A Little Bit Of Your Heart",
   trackType: "studio",
   explicit: false,

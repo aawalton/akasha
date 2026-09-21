@@ -9,14 +9,6 @@ export const jamesTaylor2Gorilla2019RemasterIWasAFoolToCare2019Remaster = {
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5bvMNadqECwmWB0rb7wnQ4",
-      externalLink: "https://open.spotify.com/track/5bvMNadqECwmWB0rb7wnQ4",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Was a Fool to Care - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresDeMusicaLigeraLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1aQKPnGNa5vK7aA6lTm4JS",
-      externalLink: "https://open.spotify.com/track/1aQKPnGNa5vK7aA6lTm4JS",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "De Música Ligera - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

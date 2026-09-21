@@ -9,14 +9,6 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySinglesLayAllYourLoveOnMeSpotif
   partOfCollections: ["release/zara-larsson-lay-all-your-love-on-me-spotify-singles"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2vaxUyVWNoA2L272YHEy70",
-      externalLink: "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Lay All Your Love On Me - Spotify Singles",
   trackType: "studio",
   explicit: false,

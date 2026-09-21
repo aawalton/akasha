@@ -12,14 +12,6 @@ export const sabrinaCarpenterManSBestFriendDontWorryIllMakeYouWorry = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "21IVPfi81m6ywNgOvqTj1i",
-      externalLink: "https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Don’t Worry I’ll Make You Worry",
   trackType: "studio",
   explicit: true,

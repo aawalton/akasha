@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideIntr
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0BKTgwLF9cY2xFBwYXJ3sS",
-      externalLink: "https://open.spotify.com/track/0BKTgwLF9cY2xFBwYXJ3sS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All Is Soft Inside Intro",
   trackType: "studio",
   explicit: false,

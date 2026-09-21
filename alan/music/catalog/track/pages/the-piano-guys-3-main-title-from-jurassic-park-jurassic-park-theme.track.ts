@@ -9,14 +9,6 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
   partOfCollections: ["release/the-piano-guys-3-main-title-from-jurassic-park"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5F6nH9kNbB48FusY2hFH01",
-      externalLink: "https://open.spotify.com/track/5F6nH9kNbB48FusY2hFH01",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Jurassic Park Theme",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayXYTwistedLogic = {
   partOfCollections: ["release/coldplay-x-y"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6kevl5fnM7GRJ2K2rBBnxq",
-      externalLink: "https://open.spotify.com/track/6kevl5fnM7GRJ2K2rBBnxq",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Twisted Logic",
   trackType: "studio",
   explicit: false,

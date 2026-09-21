@@ -9,14 +9,6 @@ export const theHoldernessFamilyQuarantunesVolOneYouDidntBelieveHer = {
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "36SWHaN7gFP9BJlyWA7wGz",
-      externalLink: "https://open.spotify.com/track/36SWHaN7gFP9BJlyWA7wGz",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "You Didn't Believe Her",
   trackType: "studio",
   explicit: false,

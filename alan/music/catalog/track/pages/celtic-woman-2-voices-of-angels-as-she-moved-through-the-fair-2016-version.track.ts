@@ -9,14 +9,6 @@ export const celticWoman2VoicesOfAngelsAsSheMovedThroughTheFair2016Version = {
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5eKY9pUabjeoaNcSULVXT7",
-      externalLink: "https://open.spotify.com/track/5eKY9pUabjeoaNcSULVXT7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "As She Moved Through The Fair - 2016 Version",
   trackType: "version",
   explicit: false,

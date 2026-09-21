@@ -9,14 +9,6 @@ export const emeiNightAtTheOperaWhatsThePoint = {
   partOfCollections: ["release/emei-night-at-the-opera", "release/emei-whats-the-point"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ebdWVa02jyMYOo18PvW0V",
-      externalLink: "https://open.spotify.com/track/5ebdWVa02jyMYOo18PvW0V",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "What's the Point!",
   trackType: "studio",
   explicit: true,

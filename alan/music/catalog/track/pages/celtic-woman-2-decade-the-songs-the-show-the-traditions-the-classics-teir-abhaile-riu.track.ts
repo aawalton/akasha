@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTeirAbhail
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0AmA8MQue1LBuYZSAdBMsj",
-      externalLink: "https://open.spotify.com/track/0AmA8MQue1LBuYZSAdBMsj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Téir Abhaile Riu",
   trackType: "studio",
   explicit: false,

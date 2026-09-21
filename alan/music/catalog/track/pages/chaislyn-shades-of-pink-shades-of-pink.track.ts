@@ -9,14 +9,6 @@ export const chaislynShadesOfPinkShadesOfPink = {
   partOfCollections: ["release/chaislyn-shades-of-pink"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1fETHQlDrWcGYBJ7dz69Gq",
-      externalLink: "https://open.spotify.com/track/1fETHQlDrWcGYBJ7dz69Gq",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Shades of Pink",
   trackType: "studio",
   explicit: false,

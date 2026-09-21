@@ -9,14 +9,6 @@ export const arianaGrandeMyEverythingDeluxeBestMistake = {
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "70yhaHLp9STtzI2Kzba6Tr",
-      externalLink: "https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Best Mistake",
   trackType: "studio",
   explicit: false,

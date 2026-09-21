@@ -9,14 +9,6 @@ export const jamesTaylor2FlagBSUR = {
   partOfCollections: ["release/james-taylor-2-flag"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3u4V4Qj0564NIr48nYcpdj",
-      externalLink: "https://open.spotify.com/track/3u4V4Qj0564NIr48nYcpdj",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "B.S.U.R.",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     status: "completed",
     unit: "unit/minutes",
-    externalIdentity: [
-      {
-        source: "spotify",
-        externalId: "1RHbi2GOT3HgCxbJUI9aXR",
-        externalLink: "https://open.spotify.com/track/1RHbi2GOT3HgCxbJUI9aXR",
-        lastSyncedAt: "2026-09-15",
-      },
-    ],
     title: "i wish i hated you - instrumental",
     trackType: "instrumental",
     explicit: false,

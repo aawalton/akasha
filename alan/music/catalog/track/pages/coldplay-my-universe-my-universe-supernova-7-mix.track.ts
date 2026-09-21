@@ -9,14 +9,6 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
   partOfCollections: ["release/coldplay-my-universe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6Lgbf4b6c9fwz24eFEWONX",
-      externalLink: "https://open.spotify.com/track/6Lgbf4b6c9fwz24eFEWONX",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "My Universe - Supernova 7 Mix",
   trackType: "remix",
   explicit: false,

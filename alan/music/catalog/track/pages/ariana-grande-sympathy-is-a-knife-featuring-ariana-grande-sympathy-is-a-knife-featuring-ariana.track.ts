@@ -9,14 +9,6 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   partOfCollections: ["release/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6xrTHtSg2SDBLilLxhbhof",
-      externalLink: "https://open.spotify.com/track/6xrTHtSg2SDBLilLxhbhof",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Sympathy is a knife featuring ariana grande",
   trackType: "studio",
   explicit: true,

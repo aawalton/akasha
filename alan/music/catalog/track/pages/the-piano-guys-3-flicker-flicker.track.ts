@@ -9,14 +9,6 @@ export const thePianoGuys3FlickerFlicker = {
   partOfCollections: ["release/the-piano-guys-3-flicker", "release/the-piano-guys-3-limitless"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4IOl3FjbQ5gOysdEXhJlV2",
-      externalLink: "https://open.spotify.com/track/4IOl3FjbQ5gOysdEXhJlV2",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Flicker",
   trackType: "studio",
   explicit: false,

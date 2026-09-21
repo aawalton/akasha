@@ -9,14 +9,6 @@ export const thePianoGuys3UnchartedTourDeFrance = {
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "28FzX6iJyT6c29jdP1uRZL",
-      externalLink: "https://open.spotify.com/track/28FzX6iJyT6c29jdP1uRZL",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Tour de France",
   trackType: "studio",
   explicit: false,

@@ -12,14 +12,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2p2NnUoSZr5v6IJgihY3Nb",
-      externalLink: "https://open.spotify.com/track/2p2NnUoSZr5v6IJgihY3Nb",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Wicked Witch of the East",
   trackType: "studio",
   explicit: false,

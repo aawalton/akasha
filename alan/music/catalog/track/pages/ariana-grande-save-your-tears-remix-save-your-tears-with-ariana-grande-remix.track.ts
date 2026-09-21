@@ -9,14 +9,6 @@ export const arianaGrandeSaveYourTearsRemixSaveYourTearsWithArianaGrandeRemix = 
   partOfCollections: ["release/ariana-grande-save-your-tears-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "37BZB0z9T8Xu7U3e65qxFy",
-      externalLink: "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Save Your Tears (with Ariana Grande) (Remix)",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreHopelessOpusL
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7w6awjzpU2uIaEP2GnNQq6",
-      externalLink: "https://open.spotify.com/track/7w6awjzpU2uIaEP2GnNQq6",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hopeless Opus - Live",
   trackType: "live",
   explicit: false,

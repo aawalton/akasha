@@ -12,14 +12,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1nUsYU8wvzfKOoODE91KTa",
-      externalLink: "https://open.spotify.com/track/1nUsYU8wvzfKOoODE91KTa",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "supernatural - instrumental",
   trackType: "instrumental",
   explicit: false,

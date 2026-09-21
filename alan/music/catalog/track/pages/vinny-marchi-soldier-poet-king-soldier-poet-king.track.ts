@@ -9,14 +9,6 @@ export const vinnyMarchiSoldierPoetKingSoldierPoetKing = {
   partOfCollections: ["release/vinny-marchi-soldier-poet-king"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "37LtlWBxtMrNLoAFJYIc23",
-      externalLink: "https://open.spotify.com/track/37LtlWBxtMrNLoAFJYIc23",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Soldier, Poet, King",
   trackType: "studio",
   explicit: false,

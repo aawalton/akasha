@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuys2MeAndMyCelloHappyTogether = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6amWzecM9lo2uYpVOQCkEZ",
-      externalLink: "https://open.spotify.com/track/6amWzecM9lo2uYpVOQCkEZ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Me and My Cello (Happy Together)",
   trackType: "studio",
   explicit: false,

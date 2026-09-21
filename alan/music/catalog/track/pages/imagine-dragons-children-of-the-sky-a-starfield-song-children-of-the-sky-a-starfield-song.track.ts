@@ -9,14 +9,6 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSongChildrenOfTheSkyAStarfi
   partOfCollections: ["release/imagine-dragons-children-of-the-sky-a-starfield-song"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1W7ughJhjRaANaAUcxTfnC",
-      externalLink: "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Children of the Sky (a Starfield song)",
   trackType: "studio",
   explicit: false,

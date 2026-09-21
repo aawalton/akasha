@@ -9,14 +9,6 @@ export const celticWoman2HomeForChristmasJoyToTheWorld = {
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7t5y9rgty4rdVPxaLhHgal",
-      externalLink: "https://open.spotify.com/track/7t5y9rgty4rdVPxaLhHgal",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Joy To The World",
   trackType: "studio",
   explicit: false,

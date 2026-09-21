@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneChristmasJammies = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ME26Zye2lrCm6GS6Ji3l9",
-      externalLink: "https://open.spotify.com/track/3ME26Zye2lrCm6GS6Ji3l9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Christmas Jammies",
   trackType: "studio",
   explicit: false,

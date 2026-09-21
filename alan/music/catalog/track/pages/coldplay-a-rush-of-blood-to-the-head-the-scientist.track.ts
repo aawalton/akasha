@@ -9,14 +9,6 @@ export const coldplayARushOfBloodToTheHeadTheScientist = {
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "75JFxkI2RXiU7L9VXzMkle",
-      externalLink: "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "The Scientist",
   trackType: "studio",
   explicit: false,

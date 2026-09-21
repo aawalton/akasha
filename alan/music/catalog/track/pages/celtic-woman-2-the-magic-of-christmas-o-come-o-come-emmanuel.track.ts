@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasOComeOComeEmmanuel = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3pm9tOzFF2lUKsvV52mnr0",
-      externalLink: "https://open.spotify.com/track/3pm9tOzFF2lUKsvV52mnr0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "O Come, O Come Emmanuel",
   trackType: "studio",
   explicit: false,

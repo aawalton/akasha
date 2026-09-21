@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarGabrielsOboe = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4OA0vYJWu3WMa8Z12ex6ri",
-      externalLink: "https://open.spotify.com/track/4OA0vYJWu3WMa8Z12ex6ri",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Gabriel's Oboe",
   trackType: "studio",
   explicit: false,

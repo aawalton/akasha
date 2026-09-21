@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3BlueMoon = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "20R5YwjmKubeva79prlvJq",
-      externalLink: "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Blue Moon",
   trackType: "studio",
   explicit: false,

@@ -14,14 +14,6 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5LcMQmnppDuTGIUzPIIDLm",
-      externalLink: "https://open.spotify.com/track/5LcMQmnppDuTGIUzPIIDLm",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Shape Of My Heart",
   trackType: "studio",
   explicit: false,

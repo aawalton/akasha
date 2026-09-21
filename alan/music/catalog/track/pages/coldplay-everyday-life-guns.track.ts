@@ -9,14 +9,6 @@ export const coldplayEverydayLifeGuns = {
   partOfCollections: ["release/coldplay-everyday-life"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6VzRvCbolqcUswaSPm48rI",
-      externalLink: "https://open.spotify.com/track/6VzRvCbolqcUswaSPm48rI",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Guns",
   trackType: "studio",
   explicit: true,

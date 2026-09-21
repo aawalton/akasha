@@ -9,14 +9,6 @@ export const celticWoman2EmeraldMusicalGemsThePartingGlass = {
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2UsF8l6DQFj2i0dFjNnoBL",
-      externalLink: "https://open.spotify.com/track/2UsF8l6DQFj2i0dFjNnoBL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Parting Glass",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2DadLovesHisWorkHardTimes = {
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6jMNpRglqktDICL8HGfOBG",
-      externalLink: "https://open.spotify.com/track/6jMNpRglqktDICL8HGfOBG",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Hard Times",
   trackType: "studio",
   explicit: false,

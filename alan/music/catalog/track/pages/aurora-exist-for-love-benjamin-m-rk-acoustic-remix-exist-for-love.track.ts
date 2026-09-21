@@ -14,14 +14,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLove = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5yvNl953ZqDHZcfDtu38Pw",
-      externalLink: "https://open.spotify.com/track/5yvNl953ZqDHZcfDtu38Pw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exist for Love",
   trackType: "studio",
   explicit: false,

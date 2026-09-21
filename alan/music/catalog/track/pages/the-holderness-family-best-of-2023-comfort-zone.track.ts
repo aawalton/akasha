@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023ComfortZone = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3bjHRhjP7fIz83k2Jrg7IO",
-      externalLink: "https://open.spotify.com/track/3bjHRhjP7fIz83k2Jrg7IO",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Comfort Zone",
   trackType: "studio",
   explicit: false,

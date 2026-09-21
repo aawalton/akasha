@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassBoatman = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4K5KFqVDdDInzT6NWklNMH",
-      externalLink: "https://open.spotify.com/track/4K5KFqVDdDInzT6NWklNMH",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Boatman",
   trackType: "studio",
   explicit: false,

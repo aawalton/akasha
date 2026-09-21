@@ -9,14 +9,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayLiveFromLondonFe
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4VUp83ibStl36qC7UOxGkF",
-      externalLink: "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "The Way - Live from London (feat. Mac Miller)",
   trackType: "live",
   explicit: false,

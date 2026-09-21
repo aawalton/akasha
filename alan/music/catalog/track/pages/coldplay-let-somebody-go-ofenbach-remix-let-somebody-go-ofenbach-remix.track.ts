@@ -9,14 +9,6 @@ export const coldplayLetSomebodyGoOfenbachRemixLetSomebodyGoOfenbachRemix = {
   partOfCollections: ["release/coldplay-let-somebody-go-ofenbach-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1pDrM3rKlxA9fx3mShxzqx",
-      externalLink: "https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Let Somebody Go - Ofenbach Remix",
   trackType: "remix",
   explicit: false,

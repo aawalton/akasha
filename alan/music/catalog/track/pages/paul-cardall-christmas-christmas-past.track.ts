@@ -9,14 +9,6 @@ export const paulCardallChristmasChristmasPast = {
   partOfCollections: ["release/paul-cardall-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5GUFRGn6QwJu2p2chIcXGG",
-      externalLink: "https://open.spotify.com/track/5GUFRGn6QwJu2p2chIcXGG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Christmas Past",
   trackType: "studio",
   explicit: false,

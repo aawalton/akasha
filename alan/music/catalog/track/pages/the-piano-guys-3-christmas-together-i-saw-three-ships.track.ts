@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherISawThreeShips = {
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "78nKXeLoOWkuCDVEGTLLFs",
-      externalLink: "https://open.spotify.com/track/78nKXeLoOWkuCDVEGTLLFs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Saw Three Ships",
   trackType: "studio",
   explicit: false,

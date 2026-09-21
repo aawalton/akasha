@@ -9,14 +9,6 @@ export const thePianoGuys3ThePianoGuysBeethovens5Secrets = {
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7xPQY7skgsujvvVyoE5lBi",
-      externalLink: "https://open.spotify.com/track/7xPQY7skgsujvvVyoE5lBi",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Beethoven's 5 Secrets",
   trackType: "studio",
   explicit: false,

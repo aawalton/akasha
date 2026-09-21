@@ -9,14 +9,6 @@ export const thePianoGuys3SoFarSoGoodFathersEyes = {
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3YSwdpFAYzm5C0OQlenezw",
-      externalLink: "https://open.spotify.com/track/3YSwdpFAYzm5C0OQlenezw",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Fathers' Eyes",
   trackType: "studio",
   explicit: false,

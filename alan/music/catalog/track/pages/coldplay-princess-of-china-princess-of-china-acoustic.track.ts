@@ -9,14 +9,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
   partOfCollections: ["release/coldplay-princess-of-china"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2tKqZsc0epdLrsNUT6y0Ls",
-      externalLink: "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Princess of China - Acoustic",
   trackType: "acoustic",
   explicit: false,

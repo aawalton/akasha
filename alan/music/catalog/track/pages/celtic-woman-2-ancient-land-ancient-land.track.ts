@@ -12,14 +12,6 @@ export const celticWoman2AncientLandAncientLand = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4IgfP7j1bjIzKBbtOnwthY",
-      externalLink: "https://open.spotify.com/track/4IgfP7j1bjIzKBbtOnwthY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Ancient Land",
   trackType: "studio",
   explicit: false,

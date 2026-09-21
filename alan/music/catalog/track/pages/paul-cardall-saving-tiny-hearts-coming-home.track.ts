@@ -9,14 +9,6 @@ export const paulCardallSavingTinyHeartsComingHome = {
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "63xHa6HYrRwNb2zNdSJwAf",
-      externalLink: "https://open.spotify.com/track/63xHa6HYrRwNb2zNdSJwAf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Coming Home",
   trackType: "studio",
   explicit: false,

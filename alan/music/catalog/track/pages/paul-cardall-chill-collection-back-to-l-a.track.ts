@@ -9,14 +9,6 @@ export const paulCardallChillCollectionBackToLA = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6TzJRZIMdLXP6ZevAJLnKT",
-      externalLink: "https://open.spotify.com/track/6TzJRZIMdLXP6ZevAJLnKT",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Back to L.A.",
   trackType: "studio",
   explicit: false,

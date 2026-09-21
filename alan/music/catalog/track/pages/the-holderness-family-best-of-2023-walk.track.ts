@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOf2023Walk = {
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4bI5uizVxLf55CYoes80Uu",
-      externalLink: "https://open.spotify.com/track/4bI5uizVxLf55CYoes80Uu",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Walk!",
   trackType: "studio",
   explicit: false,

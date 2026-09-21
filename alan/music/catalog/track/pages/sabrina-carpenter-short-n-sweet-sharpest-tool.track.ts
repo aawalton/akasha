@@ -9,14 +9,6 @@ export const sabrinaCarpenterShortNSweetSharpestTool = {
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3iPIDAFybaoyqX7hvAfWkl",
-      externalLink: "https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Sharpest Tool",
   trackType: "studio",
   explicit: true,

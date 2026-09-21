@@ -9,14 +9,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionJasonsSongGaveItAw
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1uQ9UdixMfHCVegHhRTExO",
-      externalLink: "https://open.spotify.com/track/1uQ9UdixMfHCVegHhRTExO",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Jason's Song (Gave It Away)",
   trackType: "studio",
   explicit: true,

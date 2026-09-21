@@ -9,14 +9,6 @@ export const celticWoman2DestinyTheWholeOfTheMoon = {
   partOfCollections: ["release/celtic-woman-2-destiny"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1RQVzWVC9Z8zGpSZx9Yxcy",
-      externalLink: "https://open.spotify.com/track/1RQVzWVC9Z8zGpSZx9Yxcy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Whole Of The Moon",
   trackType: "studio",
   explicit: false,

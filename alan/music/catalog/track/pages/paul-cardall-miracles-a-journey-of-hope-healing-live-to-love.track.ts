@@ -9,14 +9,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingLiveToLove = {
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6UqhXAItbW6THwljjrtQBB",
-      externalLink: "https://open.spotify.com/track/6UqhXAItbW6THwljjrtQBB",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Live To Love",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sWeNeedChildCare = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ajuCyzHI97T4U3oDI6Yez",
-      externalLink: "https://open.spotify.com/track/3ajuCyzHI97T4U3oDI6Yez",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "We Need Child Care",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const vinnyMarchiLifelineLifeline = {
   partOfCollections: ["release/vinny-marchi-lifeline"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5fXqQoYXs7VDmJCywveVet",
-      externalLink: "https://open.spotify.com/track/5fXqQoYXs7VDmJCywveVet",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "LIFELINE",
   trackType: "studio",
   explicit: false,

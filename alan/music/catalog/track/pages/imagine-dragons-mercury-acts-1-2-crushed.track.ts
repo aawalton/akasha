@@ -9,14 +9,6 @@ export const imagineDragonsMercuryActs12Crushed = {
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6rBsmp96jxTRpFqQEfxAdY",
-      externalLink: "https://open.spotify.com/track/6rBsmp96jxTRpFqQEfxAdY",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Crushed",
   trackType: "studio",
   explicit: false,

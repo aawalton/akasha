@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouWis
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "36Xmw9OP6JQ0tLjyzBdQHo",
-      externalLink: "https://open.spotify.com/track/36Xmw9OP6JQ0tLjyzBdQHo",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "When You Wish Upon a Star",
   trackType: "studio",
   explicit: false,

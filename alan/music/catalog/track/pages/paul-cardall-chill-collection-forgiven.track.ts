@@ -9,14 +9,6 @@ export const paulCardallChillCollectionForgiven = {
   partOfCollections: ["release/paul-cardall-chill-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3hYOPyQoHcAEfwAU20hfdL",
-      externalLink: "https://open.spotify.com/track/3hYOPyQoHcAEfwAU20hfdL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Forgiven",
   trackType: "studio",
   explicit: false,

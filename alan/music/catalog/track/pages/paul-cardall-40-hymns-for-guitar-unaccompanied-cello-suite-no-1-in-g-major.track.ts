@@ -9,14 +9,6 @@ export const paulCardall40HymnsForGuitarUnaccompaniedCelloSuiteNo1InGMajor = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3ncmfAjfSAKECuuF0w30rG",
-      externalLink: "https://open.spotify.com/track/3ncmfAjfSAKECuuF0w30rG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Unaccompanied Cello Suite No. 1 in G Major",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const celticWoman2PostcardsFromIrelandMayItBe = {
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2CqS32Y4DsLGaoBEP7BPIa",
-      externalLink: "https://open.spotify.com/track/2CqS32Y4DsLGaoBEP7BPIa",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "May It Be",
   trackType: "studio",
   explicit: false,

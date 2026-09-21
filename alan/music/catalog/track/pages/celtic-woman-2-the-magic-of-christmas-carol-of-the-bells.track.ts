@@ -9,14 +9,6 @@ export const celticWoman2TheMagicOfChristmasCarolOfTheBells = {
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0g1QIgjXadbcKdJnkFU5qB",
-      externalLink: "https://open.spotify.com/track/0g1QIgjXadbcKdJnkFU5qB",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carol Of The Bells",
   trackType: "studio",
   explicit: false,

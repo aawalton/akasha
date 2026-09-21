@@ -9,14 +9,6 @@ export const paulCardallSignOfAffection10thAnniversaryWithoutYou = {
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1xOp3l7ZJmLkLt9eTqG3WH",
-      externalLink: "https://open.spotify.com/track/1xOp3l7ZJmLkLt9eTqG3WH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Without You",
   trackType: "studio",
   explicit: false,

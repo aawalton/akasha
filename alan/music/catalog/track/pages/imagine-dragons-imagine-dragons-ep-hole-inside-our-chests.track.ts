@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsEpHoleInsideOurChests = {
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5rXDC0gjwXBliElDcLABF7",
-      externalLink: "https://open.spotify.com/track/5rXDC0gjwXBliElDcLABF7",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Hole Inside Our Chests",
   trackType: "studio",
   explicit: false,

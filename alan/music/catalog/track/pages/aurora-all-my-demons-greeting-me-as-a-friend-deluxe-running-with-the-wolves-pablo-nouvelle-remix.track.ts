@@ -9,14 +9,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolvesPablo
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7CjF1ORcxvgOqzmlAvqVIl",
-      externalLink: "https://open.spotify.com/track/7CjF1ORcxvgOqzmlAvqVIl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Running with the Wolves - Pablo Nouvelle Remix",
   trackType: "remix",
   explicit: false,

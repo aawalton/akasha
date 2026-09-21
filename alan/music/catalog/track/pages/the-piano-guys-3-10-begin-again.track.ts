@@ -13,14 +13,6 @@ export const thePianoGuys310BeginAgain = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5voYhW2rWkcbFDHceCHVWq",
-      externalLink: "https://open.spotify.com/track/5voYhW2rWkcbFDHceCHVWq",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Begin Again",
   trackType: "studio",
   explicit: false,

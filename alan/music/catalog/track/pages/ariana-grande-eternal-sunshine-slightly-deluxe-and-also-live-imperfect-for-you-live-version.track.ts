@@ -9,14 +9,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4nQLt9m4p0fLUMOogvV6ZN",
-      externalLink: "https://open.spotify.com/track/4nQLt9m4p0fLUMOogvV6ZN",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "imperfect for you - live version",
   trackType: "live",
   explicit: true,

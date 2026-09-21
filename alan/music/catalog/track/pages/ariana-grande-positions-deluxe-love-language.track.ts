@@ -9,14 +9,6 @@ export const arianaGrandePositionsDeluxeLoveLanguage = {
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4iIrJ94pkIEnGZWv1MhIRC",
-      externalLink: "https://open.spotify.com/track/4iIrJ94pkIEnGZWv1MhIRC",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "love language",
   trackType: "studio",
   explicit: true,

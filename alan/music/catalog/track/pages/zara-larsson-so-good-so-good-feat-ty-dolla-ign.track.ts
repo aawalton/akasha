@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodSoGoodFeatTyDollaIgn = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "54LGxQGf5LPXNGjtzDZ5IE",
-      externalLink: "https://open.spotify.com/track/54LGxQGf5LPXNGjtzDZ5IE",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "So Good (feat. Ty Dolla $ign)",
   trackType: "studio",
   explicit: false,

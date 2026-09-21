@@ -9,14 +9,6 @@ export const jamesTaylor2LiveAtTheTroubadourCarolinaInMyMindLiveAtTheTroubadour2
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "69y5Ccc4CVtL96cHzvgQEy",
-      externalLink: "https://open.spotify.com/track/69y5Ccc4CVtL96cHzvgQEy",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Carolina In My Mind - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,

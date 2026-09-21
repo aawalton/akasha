@@ -12,14 +12,6 @@ export const zaraLarssonPosterGirlSummerEditionTalkAboutLoveFeatYoungThug = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7Mg1TT0jILExeHda735so8",
-      externalLink: "https://open.spotify.com/track/7Mg1TT0jILExeHda735so8",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Talk About Love (feat. Young Thug)",
   trackType: "studio",
   explicit: true,

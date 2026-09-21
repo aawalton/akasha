@@ -9,14 +9,6 @@ export const coldplayVivaLaVidaDeathWillNeverConquer = {
   partOfCollections: ["release/coldplay-viva-la-vida"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5XXjAYhslP3i0eDc8LSxDU",
-      externalLink: "https://open.spotify.com/track/5XXjAYhslP3i0eDc8LSxDU",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Death Will Never Conquer",
   trackType: "studio",
   explicit: false,

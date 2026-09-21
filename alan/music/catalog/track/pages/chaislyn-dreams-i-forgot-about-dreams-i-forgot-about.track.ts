@@ -9,14 +9,6 @@ export const chaislynDreamsIForgotAboutDreamsIForgotAbout = {
   partOfCollections: ["release/chaislyn-dreams-i-forgot-about"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3vIPyVKMrCPfGKWNFTOdNO",
-      externalLink: "https://open.spotify.com/track/3vIPyVKMrCPfGKWNFTOdNO",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Dreams I Forgot About",
   trackType: "studio",
   explicit: false,

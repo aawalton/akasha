@@ -9,14 +9,6 @@ export const coldplayPrincessOfChinaParadiseTiestoRemix = {
   partOfCollections: ["release/coldplay-princess-of-china"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0pjMTISKHTJkogN1BPZxaC",
-      externalLink: "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Paradise - Tiësto Remix",
   trackType: "remix",
   explicit: false,

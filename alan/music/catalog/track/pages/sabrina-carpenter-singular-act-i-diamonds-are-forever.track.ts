@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIDiamondsAreForever = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2KTdmzSdPipwFYdUdilmi3",
-      externalLink: "https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Diamonds Are Forever",
   trackType: "studio",
   explicit: false,

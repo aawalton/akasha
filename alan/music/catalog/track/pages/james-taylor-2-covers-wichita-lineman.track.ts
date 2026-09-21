@@ -9,14 +9,6 @@ export const jamesTaylor2CoversWichitaLineman = {
   partOfCollections: ["release/james-taylor-2-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "368v5JTGPeCAUtqoyZyBRY",
-      externalLink: "https://open.spotify.com/track/368v5JTGPeCAUtqoyZyBRY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wichita Lineman",
   trackType: "studio",
   explicit: false,

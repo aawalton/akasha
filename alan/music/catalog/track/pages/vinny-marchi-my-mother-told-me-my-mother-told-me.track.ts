@@ -9,14 +9,6 @@ export const vinnyMarchiMyMotherToldMeMyMotherToldMe = {
   partOfCollections: ["release/vinny-marchi-my-mother-told-me"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3Y4nQSWnC0U9Sin2ZQ5Fbx",
-      externalLink: "https://open.spotify.com/track/3Y4nQSWnC0U9Sin2ZQ5Fbx",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "My Mother Told Me",
   trackType: "studio",
   explicit: false,

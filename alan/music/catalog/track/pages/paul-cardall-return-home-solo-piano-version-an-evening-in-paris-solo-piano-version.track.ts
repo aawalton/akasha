@@ -9,14 +9,6 @@ export const paulCardallReturnHomeSoloPianoVersionAnEveningInParisSoloPianoVersi
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "51JI0PwpbncKDQG6ZOTwwl",
-      externalLink: "https://open.spotify.com/track/51JI0PwpbncKDQG6ZOTwwl",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "An Evening In Paris - Solo Piano Version",
   trackType: "version",
   explicit: false,

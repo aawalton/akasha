@@ -9,14 +9,6 @@ export const emeiStereoStereo = {
   partOfCollections: ["release/emei-stereo"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "65crqZhjAbaM6bmNCgDf9M",
-      externalLink: "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Stereo",
   trackType: "studio",
   explicit: false,

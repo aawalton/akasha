@@ -9,14 +9,6 @@ export const paulCardallANewCreationWondersInHeaven = {
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6dMieZZFdIMtiNLpnw3f04",
-      externalLink: "https://open.spotify.com/track/6dMieZZFdIMtiNLpnw3f04",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Wonders in Heaven",
   trackType: "studio",
   explicit: false,

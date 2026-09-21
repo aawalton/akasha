@@ -9,14 +9,6 @@ export const auroraComeCloserHaveYouSeenMeDanceAlone = {
   partOfCollections: ["release/aurora-come-closer"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2SIZNY1MeFaxnbyOwCBVjP",
-      externalLink: "https://open.spotify.com/track/2SIZNY1MeFaxnbyOwCBVjP",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "HAVE YOU SEEN ME DANCE ALONE?",
   trackType: "studio",
   explicit: false,

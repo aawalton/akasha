@@ -9,14 +9,6 @@ export const paulCardallHymnsAbideWithMeTisEventide = {
   partOfCollections: ["release/paul-cardall-hymns"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2LF0Fk0dUltHW93AljOXBi",
-      externalLink: "https://open.spotify.com/track/2LF0Fk0dUltHW93AljOXBi",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Abide With Me; 'Tis Eventide",
   trackType: "studio",
   explicit: false,

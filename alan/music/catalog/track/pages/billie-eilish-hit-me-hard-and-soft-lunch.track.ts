@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftLunch = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "629DixmZGHc7ILtEntuiWE",
-      externalLink: "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "LUNCH",
   trackType: "studio",
   explicit: false,

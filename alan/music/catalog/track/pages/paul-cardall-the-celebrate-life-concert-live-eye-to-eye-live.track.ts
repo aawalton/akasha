@@ -9,14 +9,6 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5fsc0oB7bEEDgHwfmY8cCh",
-      externalLink: "https://open.spotify.com/track/5fsc0oB7bEEDgHwfmY8cCh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Eye to Eye - Live",
   trackType: "live",
   explicit: false,

@@ -13,14 +13,6 @@ export const auroraToBeAlrightTheConflictOfTheMind = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1EUige1Y1Brv1NFMn7D8wR",
-      externalLink: "https://open.spotify.com/track/1EUige1Y1Brv1NFMn7D8wR",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Conflict Of The Mind",
   trackType: "studio",
   explicit: false,

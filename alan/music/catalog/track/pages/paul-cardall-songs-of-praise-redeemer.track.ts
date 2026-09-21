@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseRedeemer = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6M5dOp0diloYCyZSYy99kf",
-      externalLink: "https://open.spotify.com/track/6M5dOp0diloYCyZSYy99kf",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Redeemer",
   trackType: "studio",
   explicit: false,

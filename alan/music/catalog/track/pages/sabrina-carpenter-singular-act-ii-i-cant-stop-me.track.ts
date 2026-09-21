@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiICantStopMe = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1AVVv4FgNLxQlV64j7dfP1",
-      externalLink: "https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "I Can't Stop Me",
   trackType: "studio",
   explicit: false,

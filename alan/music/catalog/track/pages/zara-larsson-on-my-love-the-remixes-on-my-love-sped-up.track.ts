@@ -9,14 +9,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveSpedUp = {
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7GhKL5nhxjtxJSZjtd886G",
-      externalLink: "https://open.spotify.com/track/7GhKL5nhxjtxJSZjtd886G",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "On My Love - Sped Up",
   trackType: "version",
   explicit: false,

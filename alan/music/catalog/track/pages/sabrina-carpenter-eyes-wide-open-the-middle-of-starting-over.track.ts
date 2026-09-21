@@ -9,14 +9,6 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5wX5skuafFdeF31vpM6Krl",
-      externalLink: "https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "The Middle of Starting Over",
   trackType: "studio",
   explicit: false,

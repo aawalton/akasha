@@ -9,14 +9,6 @@ export const celticWoman2CelebrationTheVoice = {
   partOfCollections: ["release/celtic-woman-2-celebration"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4GqP0wqFPUMxdfxYlNdegr",
-      externalLink: "https://open.spotify.com/track/4GqP0wqFPUMxdfxYlNdegr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Voice",
   trackType: "studio",
   explicit: false,

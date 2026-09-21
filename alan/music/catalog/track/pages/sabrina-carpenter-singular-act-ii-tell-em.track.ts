@@ -9,14 +9,6 @@ export const sabrinaCarpenterSingularActIiTellEm = {
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1CXLy7cfmAuxoIYcVM3wtK",
-      externalLink: "https://open.spotify.com/track/1CXLy7cfmAuxoIYcVM3wtK",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Tell Em",
   trackType: "studio",
   explicit: false,

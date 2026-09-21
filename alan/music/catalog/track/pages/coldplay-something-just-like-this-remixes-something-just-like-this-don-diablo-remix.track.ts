@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDonDiabloR
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "15MTd64KUMG7CF6mOyovsQ",
-      externalLink: "https://open.spotify.com/track/15MTd64KUMG7CF6mOyovsQ",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This - Don Diablo Remix",
   trackType: "remix",
   explicit: false,

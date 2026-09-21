@@ -9,14 +9,6 @@ export const arianaGrandePetalFreak = {
   partOfCollections: ["release/ariana-grande-petal"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6QhsCYcFdfyMbPWCiViI8K",
-      externalLink: "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "freak",
   trackType: "studio",
   explicit: true,

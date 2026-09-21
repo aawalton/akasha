@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassWithoutYou = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3q9msLV4WwZoghu0Bm3YUg",
-      externalLink: "https://open.spotify.com/track/3q9msLV4WwZoghu0Bm3YUg",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Without You",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplayMyloXylotoMMIX = {
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Y7ztPw93VbAle55brM0jo",
-      externalLink: "https://open.spotify.com/track/5Y7ztPw93VbAle55brM0jo",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "M.M.I.X.",
   trackType: "studio",
   explicit: false,

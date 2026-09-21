@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipMyHeavenlyFatherLovesMe = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3QoatG0uXnkS9TeazMyHlH",
-      externalLink: "https://open.spotify.com/track/3QoatG0uXnkS9TeazMyHlH",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "My Heavenly Father Loves Me",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungSweetPotatoPie = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "49E3znGU6pKjxpjch2oCCM",
-      externalLink: "https://open.spotify.com/track/49E3znGU6pKjxpjch2oCCM",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Sweet Potato Pie",
   trackType: "studio",
   explicit: false,

@@ -9,14 +9,6 @@ export const coldplaySpeedOfSound2SpeedOfSoundLive = {
   partOfCollections: ["release/coldplay-speed-of-sound-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4IGUhtEPrvDVQfpHp9QFPj",
-      externalLink: "https://open.spotify.com/track/4IGUhtEPrvDVQfpHp9QFPj",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Speed of Sound - Live",
   trackType: "live",
   explicit: false,

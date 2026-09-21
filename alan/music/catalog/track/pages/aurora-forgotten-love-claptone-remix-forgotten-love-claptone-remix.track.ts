@@ -9,14 +9,6 @@ export const auroraForgottenLoveClaptoneRemixForgottenLoveClaptoneRemix = {
   partOfCollections: ["release/aurora-forgotten-love-claptone-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0fcwGtDaojAoQzCFwky5dL",
-      externalLink: "https://open.spotify.com/track/0fcwGtDaojAoQzCFwky5dL",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Forgotten Love - Claptone Remix",
   trackType: "remix",
   explicit: false,

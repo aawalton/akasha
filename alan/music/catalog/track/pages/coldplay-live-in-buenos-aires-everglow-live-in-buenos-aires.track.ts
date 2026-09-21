@@ -9,14 +9,6 @@ export const coldplayLiveInBuenosAiresEverglowLiveInBuenosAires = {
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4U5Cr41d1K6s48GAndvCdM",
-      externalLink: "https://open.spotify.com/track/4U5Cr41d1K6s48GAndvCdM",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Everglow - Live in Buenos Aires",
   trackType: "live",
   explicit: false,

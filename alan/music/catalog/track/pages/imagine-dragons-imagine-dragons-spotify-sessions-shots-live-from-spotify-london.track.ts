@@ -9,14 +9,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsShotsLiveFromSpotifyLond
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2OmymQ2ONrm6iQJLX9qnmp",
-      externalLink: "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Shots - Live From Spotify London",
   trackType: "live",
   explicit: false,

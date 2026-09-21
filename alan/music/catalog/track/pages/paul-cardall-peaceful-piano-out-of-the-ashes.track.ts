@@ -9,14 +9,6 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "401671bNrYWakt7WxNohsG",
-      externalLink: "https://open.spotify.com/track/401671bNrYWakt7WxNohsG",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Out of the Ashes",
   trackType: "studio",
   explicit: false,

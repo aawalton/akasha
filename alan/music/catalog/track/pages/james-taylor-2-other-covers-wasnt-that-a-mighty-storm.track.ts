@@ -9,14 +9,6 @@ export const jamesTaylor2OtherCoversWasntThatAMightyStorm = {
   partOfCollections: ["release/james-taylor-2-other-covers"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5Fo974j6cWnEtMlV95YKaV",
-      externalLink: "https://open.spotify.com/track/5Fo974j6cWnEtMlV95YKaV",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Wasn't That a Mighty Storm",
   trackType: "studio",
   explicit: false,

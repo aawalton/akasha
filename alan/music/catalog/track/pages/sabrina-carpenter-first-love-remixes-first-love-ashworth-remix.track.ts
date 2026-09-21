@@ -9,14 +9,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveAshworthRemix = {
   partOfCollections: ["release/sabrina-carpenter-first-love-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "21HUuj1qSnAFn5iSOIlq6v",
-      externalLink: "https://open.spotify.com/track/21HUuj1qSnAFn5iSOIlq6v",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "First Love - Ashworth Remix",
   trackType: "remix",
   explicit: false,

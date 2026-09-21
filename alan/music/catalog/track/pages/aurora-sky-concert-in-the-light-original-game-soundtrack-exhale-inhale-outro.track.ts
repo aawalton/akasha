@@ -9,14 +9,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhaleOutro =
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "43YGGRU2NC4z1Pq1T33PlA",
-      externalLink: "https://open.spotify.com/track/43YGGRU2NC4z1Pq1T33PlA",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Exhale Inhale Outro",
   trackType: "studio",
   explicit: false,

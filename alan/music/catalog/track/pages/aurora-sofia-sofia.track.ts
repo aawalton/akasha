@@ -9,14 +9,6 @@ export const auroraSofiaSofia = {
   partOfCollections: ["release/aurora-sofia"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6ZKgNecNAfYBhkti1IxwSw",
-      externalLink: "https://open.spotify.com/track/6ZKgNecNAfYBhkti1IxwSw",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Sofia",
   trackType: "studio",
   explicit: false,

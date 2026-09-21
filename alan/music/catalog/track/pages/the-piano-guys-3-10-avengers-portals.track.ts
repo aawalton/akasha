@@ -13,14 +13,6 @@ export const thePianoGuys310AvengersPortals = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1ilWVkgfVdfpdSccLSQ0QQ",
-      externalLink: "https://open.spotify.com/track/1ilWVkgfVdfpdSccLSQ0QQ",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Avengers/Portals",
   trackType: "studio",
   explicit: false,

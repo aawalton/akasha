@@ -9,14 +9,6 @@ export const zaraLarsson1StillInMyBlood = {
   partOfCollections: ["release/zara-larsson-1"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "74fg5ykWIhis0NLxDOwqgQ",
-      externalLink: "https://open.spotify.com/track/74fg5ykWIhis0NLxDOwqgQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Still In My Blood",
   trackType: "studio",
   explicit: false,

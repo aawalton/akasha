@@ -9,14 +9,6 @@ export const jamesTaylor2OneManDog2019RemasterOneManParade2019Remaster = {
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2gPsCmehSyxvn6RfYDAI0N",
-      externalLink: "https://open.spotify.com/track/2gPsCmehSyxvn6RfYDAI0N",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "One Man Parade - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

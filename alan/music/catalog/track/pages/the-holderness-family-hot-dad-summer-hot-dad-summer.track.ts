@@ -9,14 +9,6 @@ export const theHoldernessFamilyHotDadSummerHotDadSummer = {
   partOfCollections: ["release/the-holderness-family-hot-dad-summer"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0NCJnJ3Io64jF10uXasrw9",
-      externalLink: "https://open.spotify.com/track/0NCJnJ3Io64jF10uXasrw9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Hot Dad Summer",
   trackType: "studio",
   explicit: false,

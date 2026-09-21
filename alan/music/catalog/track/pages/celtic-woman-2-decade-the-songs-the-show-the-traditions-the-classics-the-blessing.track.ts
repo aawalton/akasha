@@ -11,14 +11,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheBlessin
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4KZQeUZS84p9oo7gBJuG6l",
-      externalLink: "https://open.spotify.com/track/4KZQeUZS84p9oo7gBJuG6l",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Blessing",
   trackType: "studio",
   explicit: false,

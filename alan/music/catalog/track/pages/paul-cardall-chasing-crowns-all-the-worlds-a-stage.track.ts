@@ -9,14 +9,6 @@ export const paulCardallChasingCrownsAllTheWorldsAStage = {
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4dZUIaLH3L2LHsbcWekTEE",
-      externalLink: "https://open.spotify.com/track/4dZUIaLH3L2LHsbcWekTEE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "All The World's A Stage",
   trackType: "studio",
   explicit: false,

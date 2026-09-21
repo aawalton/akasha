@@ -9,14 +9,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6IRdLKIyS4p7XNiP8r6rsx",
-      externalLink: "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "all the good girls go to hell",
   trackType: "studio",
   explicit: false,

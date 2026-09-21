@@ -9,14 +9,6 @@ export const thePianoGuys3WeddingSeasonLandslide = {
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0P9KEqFuLQZVdGPNf5NRm6",
-      externalLink: "https://open.spotify.com/track/0P9KEqFuLQZVdGPNf5NRm6",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Landslide",
   trackType: "studio",
   explicit: false,

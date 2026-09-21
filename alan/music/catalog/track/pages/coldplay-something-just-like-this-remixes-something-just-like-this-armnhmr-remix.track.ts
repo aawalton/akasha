@@ -9,14 +9,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisArmnhmrRem
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2f3dQn9jfUwkgnPreXgByt",
-      externalLink: "https://open.spotify.com/track/2f3dQn9jfUwkgnPreXgByt",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Something Just Like This - ARMNHMR Remix",
   trackType: "remix",
   explicit: false,

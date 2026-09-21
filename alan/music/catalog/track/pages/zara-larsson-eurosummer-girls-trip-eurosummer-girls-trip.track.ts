@@ -12,14 +12,6 @@ export const zaraLarssonEurosummerGirlsTripEurosummerGirlsTrip = {
   ],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5tmEfi2Es0G7B3pVRESEnw",
-      externalLink: "https://open.spotify.com/track/5tmEfi2Es0G7B3pVRESEnw",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Eurosummer - Girls Trip",
   trackType: "studio",
   explicit: true,

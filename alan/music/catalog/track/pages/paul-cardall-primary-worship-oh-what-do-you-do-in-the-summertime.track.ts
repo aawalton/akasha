@@ -9,14 +9,6 @@ export const paulCardallPrimaryWorshipOhWhatDoYouDoInTheSummertime = {
   partOfCollections: ["release/paul-cardall-primary-worship"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6oWPlg1iMPyQH4eZhNk89J",
-      externalLink: "https://open.spotify.com/track/6oWPlg1iMPyQH4eZhNk89J",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Oh what do you do in the Summertime",
   trackType: "studio",
   explicit: false,

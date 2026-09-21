@@ -9,14 +9,6 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
   partOfCollections: ["release/billie-eilish-copycat-sofi-tukker-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2njUxZ4151DWIrfIK3loFj",
-      externalLink: "https://open.spotify.com/track/2njUxZ4151DWIrfIK3loFj",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "COPYCAT - Sofi Tukker Remix",
   trackType: "remix",
   explicit: false,

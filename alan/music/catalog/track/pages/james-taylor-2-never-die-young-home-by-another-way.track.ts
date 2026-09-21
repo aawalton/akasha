@@ -9,14 +9,6 @@ export const jamesTaylor2NeverDieYoungHomeByAnotherWay = {
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1FcDdDUOtMyoljOkxNuYOr",
-      externalLink: "https://open.spotify.com/track/1FcDdDUOtMyoljOkxNuYOr",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Home by Another Way",
   trackType: "studio",
   explicit: false,

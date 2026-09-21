@@ -9,14 +9,6 @@ export const paulCardallFaithfulTheNoise = {
   partOfCollections: ["release/paul-cardall-faithful"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "30eZMtwcCRfXfOoDuRqEts",
-      externalLink: "https://open.spotify.com/track/30eZMtwcCRfXfOoDuRqEts",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "The Noise",
   trackType: "studio",
   explicit: false,

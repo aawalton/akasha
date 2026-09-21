@@ -12,14 +12,6 @@ export const thePianoGuys3LullabyNessunDorma = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4snFyjWPGLNewIjxFPVwfT",
-      externalLink: "https://open.spotify.com/track/4snFyjWPGLNewIjxFPVwfT",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Nessun Dorma",
   trackType: "studio",
   explicit: false,

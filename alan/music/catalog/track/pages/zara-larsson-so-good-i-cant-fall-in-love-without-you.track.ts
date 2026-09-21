@@ -9,14 +9,6 @@ export const zaraLarssonSoGoodICantFallInLoveWithoutYou = {
   partOfCollections: ["release/zara-larsson-so-good"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4VPXFi4vFTtS9wHe6oMQaT",
-      externalLink: "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Can't Fall in Love Without You",
   trackType: "studio",
   explicit: true,

@@ -9,14 +9,6 @@ export const arianaGrandeChristmasChillWitItThisChristmas = {
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5E1VtxCfgrXsbbp9g6sFq5",
-      externalLink: "https://open.spotify.com/track/5E1VtxCfgrXsbbp9g6sFq5",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Wit It This Christmas",
   trackType: "studio",
   explicit: false,

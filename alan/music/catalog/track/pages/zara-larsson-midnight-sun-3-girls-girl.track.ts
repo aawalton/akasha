@@ -12,14 +12,6 @@ export const zaraLarssonMidnightSun3GirlsGirl = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "77jU18FIxXs5p4ebQoRrRD",
-      externalLink: "https://open.spotify.com/track/77jU18FIxXs5p4ebQoRrRD",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Girl's Girl",
   trackType: "studio",
   explicit: false,

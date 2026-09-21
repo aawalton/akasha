@@ -9,14 +9,6 @@ export const coldplayLive2012UsAgainstTheWorldLive = {
   partOfCollections: ["release/coldplay-live-2012"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6i8gAfT84lsvS8R7ggDZKe",
-      externalLink: "https://open.spotify.com/track/6i8gAfT84lsvS8R7ggDZKe",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Us Against the World - Live",
   trackType: "live",
   explicit: false,

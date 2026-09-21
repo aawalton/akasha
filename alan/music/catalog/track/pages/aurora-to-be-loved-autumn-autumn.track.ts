@@ -9,14 +9,6 @@ export const auroraToBeLovedAutumnAutumn = {
   partOfCollections: ["release/aurora-to-be-loved"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5toCpRrSrRH4eMcy9xAcIn",
-      externalLink: "https://open.spotify.com/track/5toCpRrSrRH4eMcy9xAcIn",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Autumn, Autumn",
   trackType: "studio",
   explicit: false,

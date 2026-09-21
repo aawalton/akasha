@@ -9,14 +9,6 @@ export const celticWoman22020thAnniversaryGranuailesDance20thAnniversary = {
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "7bfT9l1iigSwpiZJZhoBf7",
-      externalLink: "https://open.spotify.com/track/7bfT9l1iigSwpiZJZhoBf7",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Granuaile's Dance - 20th Anniversary",
   trackType: "studio",
   explicit: false,

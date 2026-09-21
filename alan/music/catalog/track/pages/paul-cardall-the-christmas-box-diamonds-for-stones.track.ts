@@ -9,14 +9,6 @@ export const paulCardallTheChristmasBoxDiamondsForStones = {
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0IAbbtoB2J9NcenjJc1hTS",
-      externalLink: "https://open.spotify.com/track/0IAbbtoB2J9NcenjJc1hTS",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Diamonds For Stones",
   trackType: "studio",
   explicit: false,

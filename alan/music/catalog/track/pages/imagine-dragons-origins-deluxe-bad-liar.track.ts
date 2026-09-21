@@ -9,14 +9,6 @@ export const imagineDragonsOriginsDeluxeBadLiar = {
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2RSHsoi04658QL5xgQVov3",
-      externalLink: "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Bad Liar",
   trackType: "studio",
   explicit: false,

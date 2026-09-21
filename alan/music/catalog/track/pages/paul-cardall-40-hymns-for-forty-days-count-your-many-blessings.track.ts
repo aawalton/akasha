@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysCountYourManyBlessings = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6bnthVtkdamKn9D2DY5HXE",
-      externalLink: "https://open.spotify.com/track/6bnthVtkdamKn9D2DY5HXE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Count Your Many Blessings",
   trackType: "studio",
   explicit: false,

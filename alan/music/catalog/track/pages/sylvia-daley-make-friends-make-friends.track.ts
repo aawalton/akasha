@@ -9,14 +9,6 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
   partOfCollections: ["release/sylvia-daley-make-friends"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3qbJ0mWGjdVPAZJO565Zfo",
-      externalLink: "https://open.spotify.com/track/3qbJ0mWGjdVPAZJO565Zfo",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Make Friends",
   trackType: "studio",
   explicit: false,

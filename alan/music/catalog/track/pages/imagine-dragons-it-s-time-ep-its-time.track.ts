@@ -9,14 +9,6 @@ export const imagineDragonsItSTimeEpItsTime = {
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uiXxowS3v7j7qZ4wrgJzl",
-      externalLink: "https://open.spotify.com/track/6uiXxowS3v7j7qZ4wrgJzl",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "It's Time",
   trackType: "studio",
   explicit: false,

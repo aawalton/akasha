@@ -9,14 +9,6 @@ export const jamesTaylor2HourglassEnoughToBeOnYourWay = {
   partOfCollections: ["release/james-taylor-2-hourglass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "153KKNnw2TZh4L1FiqggRp",
-      externalLink: "https://open.spotify.com/track/153KKNnw2TZh4L1FiqggRp",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Enough To Be On Your Way",
   trackType: "studio",
   explicit: false,

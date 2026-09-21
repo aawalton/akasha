@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherSilentNightHolyNightFeatPlacidoDoming
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6L4RnRbVdspEJ8HMibsiNH",
-      externalLink: "https://open.spotify.com/track/6L4RnRbVdspEJ8HMibsiNH",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Silent Night, Holy Night (feat. Plácido Domingo)",
   trackType: "studio",
   explicit: false,

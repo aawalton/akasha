@@ -12,14 +12,6 @@ export const zaraLarssonEndOfTimeKungsRemixEndOfTimeKungsRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6uHbz1fT6rOo1yZFvIAO0M",
-      externalLink: "https://open.spotify.com/track/6uHbz1fT6rOo1yZFvIAO0M",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "End Of Time - Kungs Remix",
   trackType: "remix",
   explicit: true,

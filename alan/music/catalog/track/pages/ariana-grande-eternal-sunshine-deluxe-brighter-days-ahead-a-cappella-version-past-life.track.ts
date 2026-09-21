@@ -13,14 +13,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionP
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2Im5a2GdRF1QIUUNqnloX4",
-      externalLink: "https://open.spotify.com/track/2Im5a2GdRF1QIUUNqnloX4",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "past life",
   trackType: "studio",
   explicit: true,

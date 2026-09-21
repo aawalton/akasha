@@ -9,14 +9,6 @@ export const coldplayKaleidoscopeEpALIENS = {
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2bS2ADg123NZWfTUsjra8a",
-      externalLink: "https://open.spotify.com/track/2bS2ADg123NZWfTUsjra8a",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "A L I E N S",
   trackType: "studio",
   explicit: false,

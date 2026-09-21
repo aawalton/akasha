@@ -12,14 +12,6 @@ export const celticWoman2MiseEireMiseEire = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "68usAuEXES4tMUhZsO5RcL",
-      externalLink: "https://open.spotify.com/track/68usAuEXES4tMUhZsO5RcL",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Mise Éire",
   trackType: "studio",
   explicit: false,

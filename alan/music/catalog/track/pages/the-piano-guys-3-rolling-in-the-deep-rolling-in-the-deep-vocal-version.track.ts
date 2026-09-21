@@ -9,14 +9,6 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
   partOfCollections: ["release/the-piano-guys-3-rolling-in-the-deep"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2N3Bp4QU3JeqqQiL2geJqV",
-      externalLink: "https://open.spotify.com/track/2N3Bp4QU3JeqqQiL2geJqV",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Rolling in the Deep (vocal version)",
   trackType: "version",
   explicit: false,

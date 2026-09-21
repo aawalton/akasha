@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe2000sSchoolIsStarting = {
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3IxNnqjPHILvRUdAfM3e7J",
-      externalLink: "https://open.spotify.com/track/3IxNnqjPHILvRUdAfM3e7J",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "School Is Starting",
   trackType: "studio",
   explicit: false,

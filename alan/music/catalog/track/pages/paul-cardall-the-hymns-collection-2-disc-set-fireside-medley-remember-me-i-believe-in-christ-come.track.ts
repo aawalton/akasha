@@ -9,14 +9,6 @@ export const paulCardallTheHymnsCollection2DiscSetFiresideMedleyRememberMeIBelie
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6RGQGGy8hyJkeFAfksL6ny",
-      externalLink: "https://open.spotify.com/track/6RGQGGy8hyJkeFAfksL6ny",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Fireside Medley: Remember Me, I Believe in Christ, Come Thou Fou",
   trackType: "studio",
   explicit: false,

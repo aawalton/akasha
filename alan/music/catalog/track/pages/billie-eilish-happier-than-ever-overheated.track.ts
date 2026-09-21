@@ -9,14 +9,6 @@ export const billieEilishHappierThanEverOverheated = {
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5uSG6fUPRaehaV820zcpsK",
-      externalLink: "https://open.spotify.com/track/5uSG6fUPRaehaV820zcpsK",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "OverHeated",
   trackType: "studio",
   explicit: true,

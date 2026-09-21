@@ -9,14 +9,6 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonSheDidItAgainFeatZaraLarsson
   partOfCollections: ["release/zara-larsson-she-did-it-again-feat-zara-larsson"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3jucj0h0tajme6rUEadmWN",
-      externalLink: "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "SHE DID IT AGAIN (feat. Zara Larsson)",
   trackType: "studio",
   explicit: false,

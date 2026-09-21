@@ -12,14 +12,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLost = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1STAWoWHYJh2UVUx41pYMD",
-      externalLink: "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD",
-      lastSyncedAt: "2026-09-19",
-    },
-  ],
   title: "Lost!",
   trackType: "studio",
   explicit: false,

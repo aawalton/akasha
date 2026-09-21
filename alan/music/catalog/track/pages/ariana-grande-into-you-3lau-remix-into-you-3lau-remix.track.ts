@@ -9,14 +9,6 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
   partOfCollections: ["release/ariana-grande-into-you-3lau-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1cfVkL84XmRON3Gl9jDXKI",
-      externalLink: "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI",
-      lastSyncedAt: "2026-09-15",
-    },
-  ],
   title: "Into You - 3LAU Remix",
   trackType: "remix",
   explicit: false,

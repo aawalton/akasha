@@ -9,14 +9,6 @@ export const thePianoGuys3ChristmasTogetherOdeToJoyToTheWorld = {
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "67KjzQfkZvrwibD4dGLyOs",
-      externalLink: "https://open.spotify.com/track/67KjzQfkZvrwibD4dGLyOs",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Ode to Joy to the World",
   trackType: "studio",
   explicit: false,

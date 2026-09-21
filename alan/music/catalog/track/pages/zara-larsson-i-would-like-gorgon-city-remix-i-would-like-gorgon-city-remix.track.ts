@@ -9,14 +9,6 @@ export const zaraLarssonIWouldLikeGorgonCityRemixIWouldLikeGorgonCityRemix = {
   partOfCollections: ["release/zara-larsson-i-would-like-gorgon-city-remix"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6shSHDBeA8Hj5qnyIq7jdQ",
-      externalLink: "https://open.spotify.com/track/6shSHDBeA8Hj5qnyIq7jdQ",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "I Would Like - Gorgon City Remix",
   trackType: "remix",
   explicit: false,

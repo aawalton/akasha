@@ -9,14 +9,6 @@ export const paulCardallTheLookingGlassThroughHerEyes = {
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "0caZUZPv4whG4XjnLbcI0Z",
-      externalLink: "https://open.spotify.com/track/0caZUZPv4whG4XjnLbcI0Z",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Through Her Eyes",
   trackType: "studio",
   explicit: false,

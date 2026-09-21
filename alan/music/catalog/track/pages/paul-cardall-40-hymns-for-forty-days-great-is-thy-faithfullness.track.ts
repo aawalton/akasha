@@ -9,14 +9,6 @@ export const paulCardall40HymnsForFortyDaysGreatIsThyFaithfullness = {
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5aA6leAW3i2cYz0NCmzm5A",
-      externalLink: "https://open.spotify.com/track/5aA6leAW3i2cYz0NCmzm5A",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Great Is Thy Faithfullness",
   trackType: "studio",
   explicit: false,

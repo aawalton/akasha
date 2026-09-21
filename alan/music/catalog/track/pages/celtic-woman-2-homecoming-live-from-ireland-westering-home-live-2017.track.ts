@@ -9,14 +9,6 @@ export const celticWoman2HomecomingLiveFromIrelandWesteringHomeLive2017 = {
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5xDSMmBxh6SVyryjqI50VY",
-      externalLink: "https://open.spotify.com/track/5xDSMmBxh6SVyryjqI50VY",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Westering Home - Live 2017",
   trackType: "live",
   explicit: false,

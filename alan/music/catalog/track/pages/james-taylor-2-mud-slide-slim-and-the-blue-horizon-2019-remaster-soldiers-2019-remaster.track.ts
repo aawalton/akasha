@@ -9,14 +9,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterSoldiers2019Re
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "3f3Nk2e5tLq3zCR55hNcfN",
-      externalLink: "https://open.spotify.com/track/3f3Nk2e5tLq3zCR55hNcfN",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Soldiers - 2019 Remaster",
   trackType: "remaster",
   explicit: false,

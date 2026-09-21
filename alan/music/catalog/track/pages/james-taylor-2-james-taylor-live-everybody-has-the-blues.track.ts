@@ -9,14 +9,6 @@ export const jamesTaylor2JamesTaylorLiveEverybodyHasTheBlues = {
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1clezMVAmwn9KcXDEkTeq0",
-      externalLink: "https://open.spotify.com/track/1clezMVAmwn9KcXDEkTeq0",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "Everybody Has The Blues",
   trackType: "studio",
   explicit: false,

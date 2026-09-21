@@ -9,14 +9,6 @@ export const jisooAmortageHugsKisses = {
   partOfCollections: ["release/jisoo-amortage"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5nQVbMv0XEGLGB39wpneQI",
-      externalLink: "https://open.spotify.com/track/5nQVbMv0XEGLGB39wpneQI",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Hugs & Kisses",
   trackType: "studio",
   explicit: false,

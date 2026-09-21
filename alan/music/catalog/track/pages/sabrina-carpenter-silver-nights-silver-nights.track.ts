@@ -9,14 +9,6 @@ export const sabrinaCarpenterSilverNightsSilverNights = {
   partOfCollections: ["release/sabrina-carpenter-silver-nights"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "4hBJ3HHSLgaKcMOxWxrKm0",
-      externalLink: "https://open.spotify.com/track/4hBJ3HHSLgaKcMOxWxrKm0",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Silver Nights",
   trackType: "studio",
   explicit: false,

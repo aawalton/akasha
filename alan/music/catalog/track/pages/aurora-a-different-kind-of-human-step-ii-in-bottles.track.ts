@@ -13,14 +13,6 @@ export const auroraADifferentKindOfHumanStepIiInBottles = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "77jfTk3x403OSSMBq2tSgN",
-      externalLink: "https://open.spotify.com/track/77jfTk3x403OSSMBq2tSgN",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "In Bottles",
   trackType: "studio",
   explicit: false,

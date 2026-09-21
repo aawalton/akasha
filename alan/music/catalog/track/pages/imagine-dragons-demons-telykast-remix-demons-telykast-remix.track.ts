@@ -12,14 +12,6 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "72jFYj77ULwaxXA5qelI2w",
-      externalLink: "https://open.spotify.com/track/72jFYj77ULwaxXA5qelI2w",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "Demons - TELYKast Remix",
   trackType: "remix",
   explicit: false,

@@ -9,14 +9,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneImForty = {
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5aNBSUyCapA5cEJ5BS8yxh",
-      externalLink: "https://open.spotify.com/track/5aNBSUyCapA5cEJ5BS8yxh",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "I'm Forty",
   trackType: "studio",
   explicit: false,

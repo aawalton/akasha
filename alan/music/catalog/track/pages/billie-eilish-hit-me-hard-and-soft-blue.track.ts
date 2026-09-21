@@ -9,14 +9,6 @@ export const billieEilishHitMeHardAndSoftBlue = {
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "2prqm9sPLj10B4Wg0wE5x9",
-      externalLink: "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "BLUE",
   trackType: "studio",
   explicit: false,

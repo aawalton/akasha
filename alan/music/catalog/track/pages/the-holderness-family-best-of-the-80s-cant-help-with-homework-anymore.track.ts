@@ -9,14 +9,6 @@ export const theHoldernessFamilyBestOfThe80sCantHelpWithHomeworkAnymore = {
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5IiiaxhKeJnrO14HunkCtE",
-      externalLink: "https://open.spotify.com/track/5IiiaxhKeJnrO14HunkCtE",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Can't Help With Homework Anymore",
   trackType: "studio",
   explicit: false,

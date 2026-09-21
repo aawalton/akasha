@@ -9,14 +9,6 @@ export const paulCardallAscensusChristiAPianoRhapsodyAscensusChristiAPianoRhapso
   partOfCollections: ["release/paul-cardall-ascensus-christi-a-piano-rhapsody"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6qFE5hiVBno3VJCFAZRiCv",
-      externalLink: "https://open.spotify.com/track/6qFE5hiVBno3VJCFAZRiCv",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Ascensus Christi: A Piano Rhapsody",
   trackType: "studio",
   explicit: false,

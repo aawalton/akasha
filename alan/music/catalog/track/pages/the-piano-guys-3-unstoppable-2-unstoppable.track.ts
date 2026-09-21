@@ -9,14 +9,6 @@ export const thePianoGuys3Unstoppable2Unstoppable = {
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "090f42AlEUVacfstqTmYCh",
-      externalLink: "https://open.spotify.com/track/090f42AlEUVacfstqTmYCh",
-      lastSyncedAt: "2026-09-17",
-    },
-  ],
   title: "Unstoppable",
   trackType: "studio",
   explicit: false,

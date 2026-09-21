@@ -9,14 +9,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheButterfly = {
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "5ExQPkbNZFPqHxb0rNphJ2",
-      externalLink: "https://open.spotify.com/track/5ExQPkbNZFPqHxb0rNphJ2",
-      lastSyncedAt: "2026-09-16",
-    },
-  ],
   title: "The Butterfly",
   trackType: "studio",
   explicit: false,

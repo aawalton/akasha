@@ -9,14 +9,6 @@ export const auroraSomewhereElseSaluteRemixSomewhereElseSaluteRemix = {
   partOfCollections: ["release/aurora-somewhere-else-salute-remix"],
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "1HZWZgXF5BZAVzKumYTuJs",
-      externalLink: "https://open.spotify.com/track/1HZWZgXF5BZAVzKumYTuJs",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "SOMEWHERE ELSE - salute Remix",
   trackType: "remix",
   explicit: false,

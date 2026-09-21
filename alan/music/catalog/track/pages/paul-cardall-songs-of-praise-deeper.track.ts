@@ -9,14 +9,6 @@ export const paulCardallSongsOfPraiseDeeper = {
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6tC5rqZb9iuIAxVS30HHAq",
-      externalLink: "https://open.spotify.com/track/6tC5rqZb9iuIAxVS30HHAq",
-      lastSyncedAt: "2026-09-18",
-    },
-  ],
   title: "Deeper",
   trackType: "studio",
   explicit: false,

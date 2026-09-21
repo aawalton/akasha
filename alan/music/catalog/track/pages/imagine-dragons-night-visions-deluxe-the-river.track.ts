@@ -9,14 +9,6 @@ export const imagineDragonsNightVisionsDeluxeTheRiver = {
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   status: "completed",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "spotify",
-      externalId: "6fFnFIlj8LEHy7991Znnud",
-      externalLink: "https://open.spotify.com/track/6fFnFIlj8LEHy7991Znnud",
-      lastSyncedAt: "2026-09-21",
-    },
-  ],
   title: "The River",
   trackType: "studio",
   explicit: false,
