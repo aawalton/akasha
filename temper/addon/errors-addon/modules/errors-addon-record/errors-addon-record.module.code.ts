@@ -8,11 +8,11 @@ import {
 } from "akasha/temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"
 import { MAX_ENTRIES } from "akasha/temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
 import { classifyError } from "akasha/temper/addon/errors-addon/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"
+import type { CaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
 import type {
   ErrorEntry,
   ErrorsPayload,
 } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
-import type { CaptureWriter } from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
 
 type SavedVariablesAccessor = CaptureWriter<ErrorsPayload>["getSavedVariables"]
 

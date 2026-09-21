@@ -5,8 +5,8 @@ import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.t
 
 import { requireDefined } from "akasha/code/type/narrowing/modules/require-defined/require-defined.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
-import type { CollectiblesCatalogData } from "akasha/temper/capture-shape/modules/collectibles-catalog/collectibles-catalog.module.code.ts"
-import { runBatched } from "akasha/temper/capture-writer/modules/run-batched/run-batched.module.code.ts"
+import type { CollectiblesCatalogData } from "akasha/temper/capture/shape/modules/collectibles-catalog/collectibles-catalog.module.code.ts"
+import { runBatched } from "akasha/temper/capture/writer/modules/run-batched/run-batched.module.code.ts"
 import {
   BATCH_DELAY,
   BATCH_SIZE,

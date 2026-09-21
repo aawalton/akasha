@@ -5,4 +5,5 @@ export const temperCapture = {
   type: "page-type/domain",
   slug: "temper-capture",
   definition: "what an add-on writes out of the game, and what reads it back",
+  parts: ["domain/temper-capture-shape", "domain/temper-capture-writer"],
 } as const satisfies Domain

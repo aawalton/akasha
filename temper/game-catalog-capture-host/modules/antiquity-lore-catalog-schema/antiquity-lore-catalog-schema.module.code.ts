@@ -1,4 +1,4 @@
-import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture-shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
+import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture/shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 

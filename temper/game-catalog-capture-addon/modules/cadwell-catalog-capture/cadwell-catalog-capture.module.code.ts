@@ -7,7 +7,7 @@ import type {
   CadwellCatalogLevel,
   CadwellCatalogPOI,
   CadwellCatalogZone,
-} from "akasha/temper/capture-shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
+} from "akasha/temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 

@@ -1,4 +1,4 @@
-import type { TraitResearchCatalogCraftType } from "akasha/temper/capture-shape/modules/trait-research-catalog/trait-research-catalog.module.code.ts"
+import type { TraitResearchCatalogCraftType } from "akasha/temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 

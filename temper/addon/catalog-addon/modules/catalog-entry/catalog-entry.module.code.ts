@@ -3,7 +3,7 @@ import "akasha/temper/addon/catalog-addon/modules/catalog-public-api/catalog-pub
 import {
   type CaptureWriter,
   defineCaptureWriter,
-} from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
+} from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
 import { CATALOG_CAPTURE_DESCRIPTOR } from "akasha/temper/catalog-core/modules/catalog-descriptor/catalog-descriptor.module.code.ts"
 import type { CatalogPayload } from "akasha/temper/catalog-core/modules/catalog-payload/catalog-payload.module.code.ts"
 import { setCatalogSavedVariablesAccessor } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"

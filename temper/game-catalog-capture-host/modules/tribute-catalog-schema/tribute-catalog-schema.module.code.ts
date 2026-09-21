@@ -1,7 +1,7 @@
 import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
-} from "akasha/temper/capture-shape/modules/tribute-catalog/tribute-catalog.module.code.ts"
+} from "akasha/temper/capture/shape/modules/tribute-catalog/tribute-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 

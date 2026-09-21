@@ -16,6 +16,6 @@
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/bit-codec/modules/bit-reader/bit-reader.module.code.ts"}
-{"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/capture-writer/modules/run-batched/run-batched.module.code.ts"}
+{"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.code.ts"}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

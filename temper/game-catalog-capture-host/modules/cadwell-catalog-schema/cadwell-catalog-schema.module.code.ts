@@ -1,4 +1,4 @@
-import type { CadwellCatalogLevel } from "akasha/temper/capture-shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
+import type { CadwellCatalogLevel } from "akasha/temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 

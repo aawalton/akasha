@@ -1,4 +1,4 @@
-import type { AchievementCatalogData } from "akasha/temper/capture-shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
+import type { AchievementCatalogData } from "akasha/temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 
