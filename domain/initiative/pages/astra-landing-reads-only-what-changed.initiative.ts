@@ -47,6 +47,6 @@ export const astraLandingReadsOnlyWhatChanged = {
     "The checks are most of what an apply spends, so a check reading the whole tree to judge one file is the thing to find.",
     "A landing is measured from the rows beside the apply page rather than from a clock an agent reads.",
     "Nothing the typecheck a change runs reads or names scales with the repository rather than with the files that change names.",
-    "A check asking which sections a property marks asks which page types carry it rather than which pages do.",
+    "A check wanting what a handful of pages say asks the index for those pages rather than for every page.",
   ],
 } as const satisfies Initiative
