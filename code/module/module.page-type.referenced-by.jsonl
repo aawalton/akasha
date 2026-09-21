@@ -1906,7 +1906,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/database/postgres-cnpg/modules/cnpg-cluster/cnpg-cluster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/database/postgres-cnpg/modules/cnpg-object-store/cnpg-object-store.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/database/postgres-cnpg/modules/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/database/supabase-realtime/modules/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/key/object-store-key.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/s3-multipart/s3-multipart.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/s3-signing/s3-signing.module.ts"}

@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/gfs-promoter/gfs-promoter.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/git-transport-janitor/git-transport-janitor.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/git-transport/git-transport.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/gotrue/gotrue.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/grafana/grafana.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/headscale/headscale.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/kube-state-metrics/kube-state-metrics.service-cluster.ts"}
@@ -26,7 +25,6 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-annual-dump/postgres-annual-dump.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-cnpg/postgres-cnpg.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-exporter/postgres-exporter.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgrest/postgrest.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/prometheus/prometheus.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/promtail/promtail.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/registry-gc/registry-gc.service-cluster.ts"}
@@ -43,8 +41,6 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-s3-gateway/seaweedfs-s3-gateway.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-volume/seaweedfs-volume.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/smilingjenny-web/smilingjenny-web.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/supabase-realtime/supabase-realtime.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/supabase-studio/supabase-studio.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/talos-subnet-router/talos-subnet-router.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/temper-web/temper-web.service-cluster.ts"}

@@ -5,14 +5,7 @@ export const database = {
   type: "page-type/domain",
   slug: "database",
   definition: "the queryable store",
-  parts: [
-    "manifest/pgbouncer",
-    "manifest/postgres-cnpg",
-    "manifest/postgrest",
-    "manifest/supabase-realtime",
-    "manifest/supabase-studio",
-    "module/retry-transient-ddl",
-  ],
+  parts: ["manifest/pgbouncer", "manifest/postgres-cnpg", "module/retry-transient-ddl"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

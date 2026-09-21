@@ -99,7 +99,6 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/workstation/modules/service-health/service-health.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/storage/database/supabase-realtime/modules/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"page/modules/secret/page-secret.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"}

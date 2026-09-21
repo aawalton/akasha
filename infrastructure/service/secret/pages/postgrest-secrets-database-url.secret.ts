@@ -1,8 +1,0 @@
-import type { Secret } from "akasha/infrastructure/service/secret/secret.page-type.types.ts"
-
-export const postgrestSecretsDatabaseUrl = {
-  id: "01a07697-4dbb-79a9-b57b-0ed4d0a488cd",
-  type: "page-type/secret",
-  slug: "postgrest-secrets-database-url",
-  placements: [{ resourceName: "postgrest-secrets", resourceKey: "DATABASE_URL" }],
-} as const satisfies Secret

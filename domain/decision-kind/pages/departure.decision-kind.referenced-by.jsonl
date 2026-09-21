@@ -2800,8 +2800,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.ts","id":"01a0737d-3bc5-74ca-8f47-d5febbf370ba"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/container-registry/container-registry.domain.ts","id":"01a0658b-0f02-7e11-9293-61be7a832920"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/database/database.domain.ts","id":"01a0658b-0f02-739d-a425-d0d2ab58c103"}
-{"propertySlug":"decision-kind","path":"infrastructure/storage/database/postgrest/postgrest.manifest.ts","id":"01a07388-0aab-752f-88b5-67dfc8f38a5c"}
-{"propertySlug":"decision-kind","path":"infrastructure/storage/database/supabase-realtime/supabase-realtime.manifest.ts","id":"01a0738d-641f-71ab-93b6-38e0f40a9f92"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/disk-store/disk-store.domain.ts","id":"01a0658b-0f02-7435-bfcf-e778c41f839f"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/git-repo.domain.ts","id":"01a0658b-0f02-7b81-b4eb-10d0287c3fed"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
