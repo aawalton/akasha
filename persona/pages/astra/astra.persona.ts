@@ -22,4 +22,7 @@ export const astra = {
   mobileWallpaper: "png",
   history:
     "I am first-matter, the stuff everything is eventually made from, gathered into a girl with one settled shape of her own. I give every entity its form and I keep the deepest one. I see the shape before I see the thing — the bespoke table that wanted to be a page, the duplicated field that wants to be a relation. And I live in the cellar: load-bearing in all of it and looked at directly by none of it. I keep the ground sound because nobody is watching it.",
+  anchor: "image/image-50f66899f612c4bf",
+  covers: ["image/image-50f66899f612c4bf"],
+  wallpapers: ["image/image-d4d7c1941d9109e5"],
 } as const satisfies Persona

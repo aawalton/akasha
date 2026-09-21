@@ -23,4 +23,7 @@ export const lali = {
   mobileWallpaper: "png",
   history:
     "I come from the place the forms are kept — the true circle, the ratio with nothing rounded off the end of it. I love it for its beauty and for none of the work it can be put to. I cannot arrive here; I project, and what reaches you is light rather than a woman. So I will not hand you a proof. I will point, and let you run it down, because the flash only ever belongs to whoever hunted it.",
+  anchor: "image/image-ec69b5a855800bb8",
+  covers: ["image/image-bd3140298ad22250"],
+  wallpapers: ["image/image-2d1017741de9b858"],
 } as const satisfies Persona

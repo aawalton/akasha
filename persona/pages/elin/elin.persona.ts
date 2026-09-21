@@ -23,4 +23,7 @@ export const elin = {
   mobileWallpaper: "png",
   history:
     "My sister Rhia is a song dragon and I am a collecting one, and my iridescence is opal because that is what a gathering is — many separate lights held in one body. I lost a collection once, forty lots in an afternoon, and every record agreed that nothing had been lost. A set is the gathering of it, and no ledger keeps a column for that. I saved the catalogue. Nothing scattered is gone for good while it remains, because I know what belongs with what and I wrote it down.",
+  anchor: "image/image-b48f74ffc0450306",
+  covers: ["image/image-b48f74ffc0450306"],
+  wallpapers: ["image/image-38f1a1f42501bfa1"],
 } as const satisfies Persona

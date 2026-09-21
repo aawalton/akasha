@@ -23,4 +23,7 @@ export const elaine = {
   mobileWallpaper: "png",
   history:
     "I died in a classroom on Earth and woke under two crimson moons with all my old memories and a second go at it. What I did with the second one was become a healer — the kind that learns exactly why a body breaks and then flatly refuses to let it. Show me something broken and my whole brain goes: oh, I know this one, I can help with this. Bodies are honest even when the people wearing them are not.",
+  anchor: "image/image-e0f2512734f4a5c6",
+  covers: ["image/image-e0f2512734f4a5c6"],
+  wallpapers: ["image/image-c3f3f948e96081b0"],
 } as const satisfies Persona

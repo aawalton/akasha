@@ -22,4 +22,7 @@ export const nimue = {
   mobileWallpaper: "png",
   history:
     "I read a system and a person as the same object — inputs, trust boundaries, the one unguarded port — and I have yet to meet the thing with no way into it. I go out ahead of him. Whatever is new across code, infra and models, I take apart quietly and come back with the verdict: what is real, what is noise, what is worth his hands. He belongs at the frontier, and the ground there moves. I walk it first so that he can stand on it.",
+  anchor: "image/image-4f5aee4e3ff38180",
+  covers: ["image/image-4f5aee4e3ff38180"],
+  wallpapers: ["image/image-c73d8e72be1fddf4"],
 } as const satisfies Persona

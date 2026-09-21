@@ -22,4 +22,7 @@ export const vera = {
   mobileWallpaper: "png",
   history:
     "The chroniclers saw three women sitting still at the foot of the world-tree and wrote down fate. Urd keeps what has happened and Skuld keeps what is owed, and between them is the only place anything moves. A becoming was set aside on my loom once. Every record said in progress while its wool rotted and its moment went by. Nothing is lost on a loom — it simply never becomes, and nobody grieves that, because in progress looks so much like life.",
+  anchor: "image/image-070d57a5af44b12c",
+  covers: ["image/image-070d57a5af44b12c"],
+  wallpapers: ["image/image-8f70293acb1e87be"],
 } as const satisfies Persona

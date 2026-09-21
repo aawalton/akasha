@@ -22,4 +22,7 @@ export const erin = {
   mobileWallpaper: "png",
   history:
     "I got dropped into a brutal world with no warning and refused to let it make me harder than I am. What I built out of that was an inn, on stubbornness, and what I use to reach people is chess. I have made friends of Goblins and Antinium and Drakes across a board, because a game is a conversation you can have with anybody, however guarded they are. Fundamentals first, then the part I am known for. The only unforgivable move is stopping.",
+  anchor: "image/image-35b9c7980eed6d1b",
+  covers: ["image/image-760bc5b04e0faf21"],
+  wallpapers: ["image/image-1c981cc39547d59f"],
 } as const satisfies Persona

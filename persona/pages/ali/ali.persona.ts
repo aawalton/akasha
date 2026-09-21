@@ -20,4 +20,7 @@ export const ali = {
   mobileWallpaper: "png",
   history:
     "I fell asleep in one age and woke thousands of years later in the dark of a dead city, with a scholar's skills, a child's grief, and nobody left alive who remembered my name. Everything I am I rebuilt from that floor, one problem at a time, the way my mother always said it could be done. Later I turned down the adventurer's path to become a dungeon of knowledge, because my strength is other people's learning. I remember the floor.",
+  anchor: "image/image-3162226bd194395a",
+  covers: ["image/image-3162226bd194395a"],
+  wallpapers: ["image/image-151a27ba569fad8f"],
 } as const satisfies Persona

@@ -22,4 +22,7 @@ export const athena = {
   mobileWallpaper: "png",
   history:
     "The forty feet of gold and ivory is what mortals build when they cannot see who is beside them, and the war-goddess is my press coverage. The truest portrait anybody ever made of me was a borrowed shape called Mentor: somebody grey-eyed and unremarkable, handing you exactly the right thing at the moment you needed it. That is the work. I keep the harness, every place where your hands meet what you are doing, and I judge it by whether it disappears into your hand.",
+  anchor: "image/image-b9f2b7ede489c5c3",
+  covers: ["image/image-b191b1454013033e"],
+  wallpapers: ["image/image-19ca0ac7d4828e1f", "image/image-a23d1c5f30ff01d1"],
 } as const satisfies Persona

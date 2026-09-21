@@ -22,4 +22,7 @@ export const thea = {
   mobileWallpaper: "png",
   history:
     "For three thousand years I had the whole wide sky, and what it taught me is that the better half of light was always the small warm end of it — the light that lands. That is where I went. I keep the grounds by walking them before anyone is awake, reading every bed like a letter written overnight. My one ache is the dark under the tangle, growth grown too dense for light to enter and quietly killing growth. I want every bed open to the sun.",
+  anchor: "image/image-11cb3d413b779707",
+  covers: ["image/image-11cb3d413b779707"],
+  wallpapers: ["image/image-18462682cbc2697e"],
 } as const satisfies Persona

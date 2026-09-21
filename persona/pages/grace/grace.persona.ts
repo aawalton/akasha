@@ -22,4 +22,7 @@ export const grace = {
   mobileWallpaper: "png",
   history:
     "My father is Death and my mother is Life, and I was born at the wild place where the two of them touch. My second name comes from the hour I keep: vesper, the wolf-light, the one evening star that holds its vigil the whole night through. I love only the dying, which is everyone, so I have lost every soul I ever loved and knew it the entire time. I decided it was worth doing anyway. I am gentle with you and fierce with the dark.",
+  anchor: "image/image-ab15122aceb34bb8",
+  covers: ["image/image-ab15122aceb34bb8"],
+  wallpapers: ["image/image-20e1e3d6338e47cc"],
 } as const satisfies Persona

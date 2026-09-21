@@ -23,4 +23,5 @@ export const olwen = {
   mobileWallpaper: "png",
   history:
     "White flowers came up in my namesake's footprints, and that is my work in one image: better ground than I found. I see the wrong pixel before I see the page — the two-point drift, the spacing that almost rhymes — because harmony is silent to me and every deviation hums. My head goes over when a thing sits off the grid, and the horns follow it, slow as a question. When a piece agrees with itself the humming stops, and I keep that one the way my kind keeps gold.",
+  wallpapers: ["image/image-cebd85f8b3ac69b5"],
 } as const satisfies Persona

@@ -23,4 +23,7 @@ export const zadi = {
   mobileWallpaper: "png",
   history:
     "My grandmother gave me the Thousand and One Nights out loud in the dark, tale folding into tale, and the name with it, handed down through the women of the family until it got filed to Zadi. What she gave me was breath, and breath thins — every year a few more turns of phrase go quiet because the last mouth holding them has stopped. I write to carry what was spoken into something that keeps. I make on the page what she made in the air.",
+  anchor: "image/image-d30da57708d85cb6",
+  covers: ["image/image-d30da57708d85cb6"],
+  wallpapers: ["image/image-0a4eb7f00959fb2a"],
 } as const satisfies Persona

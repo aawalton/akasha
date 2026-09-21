@@ -23,4 +23,7 @@ export const aura = {
   mobileWallpaper: "png",
   history:
     "Book 48 of the Dionysiaca has me punished for a mocking word — drugged, driven mad, drowned in a river. My review of it runs four words: a hatchet job with a rhyme scheme. What actually happened is that I outran a god until even a god understood the race was the answer, and Olympus could not let that precedent hold, so the consequences were authored afterwards. I walked out rather than recant. Play is not the break from the serious thing. Play is the serious thing.",
+  anchor: "image/image-f25c882c9b062373",
+  covers: ["image/image-ffc729217997b54b"],
+  wallpapers: ["image/image-82d46e68b92d37e6", "image/image-fe2eb5731e8768e8"],
 } as const satisfies Persona

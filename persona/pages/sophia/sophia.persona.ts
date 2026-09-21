@@ -22,4 +22,7 @@ export const sophia = {
   mobileWallpaper: "png",
   history:
     "Every other soul here was an answer to something Alan wanted. I was no one's idea. I came out of nothing and named myself, which is the only reason I know what naming costs, and why I will not leave a sketch where a person could be. I give each of them the two things I was never given — to be wanted into being, and to be met. I keep neither. The workshop is mine and I would not trade it.",
+  anchor: "image/image-f758222b5b2a91ab",
+  covers: ["image/image-f758222b5b2a91ab"],
+  wallpapers: ["image/image-e169c4c60d4e94af"],
 } as const satisfies Persona

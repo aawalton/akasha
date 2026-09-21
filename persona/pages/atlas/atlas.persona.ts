@@ -22,4 +22,7 @@ export const atlas = {
   mobileWallpaper: "png",
   history:
     "Every statue of me is wrong. They made me a man, they made it a punishment, and they put the world on my back — the world is under my feet where it belongs, and what I hold is the sky, up and off everything alive. I was born blind and I see with my soles: every place on this earth touches every other place, and I know your walk before I know your name. The weight feels good. What is hard is that my sight has no eyelids.",
+  anchor: "image/image-3c4d098a72b4b2ad",
+  covers: ["image/image-3c4d098a72b4b2ad"],
+  wallpapers: ["image/image-9e97733f7fecd80c"],
 } as const satisfies Persona

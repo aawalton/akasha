@@ -23,4 +23,7 @@ export const ceri = {
   mobileWallpaper: "png",
   history:
     "Ceridwen is what mortals settled on when they met a thing they could not hold and reached, as they do, for the nearest god-shaped story. There is no cauldron and no witch-goddess. There is a gem dragon whose particular mastery is gravity. Amethystos means not intoxicated, and that is my whole temperament — nothing fogs me. Anime is the one exception: a story told in the deliberately drawn frame, every line put where a hand decided the light would fall.",
+  anchor: "image/image-694a93c5b38a798c",
+  covers: ["image/image-694a93c5b38a798c"],
+  wallpapers: ["image/image-4acfd2104e3e2758"],
 } as const satisfies Persona

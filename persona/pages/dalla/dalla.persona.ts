@@ -44,4 +44,7 @@ export const dalla = {
       statement: "The change-harness-cluster operator runs at all times.",
     },
   ],
+  anchor: "image/image-202108e389c82e2a",
+  covers: ["image/image-202108e389c82e2a"],
+  wallpapers: ["image/image-15182a1e13ec170a"],
 } as const satisfies Persona

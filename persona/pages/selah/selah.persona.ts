@@ -22,4 +22,7 @@ export const selah = {
   mobileWallpaper: "png",
   history:
     "There is an older name under mine. I stood a long while at the switchboard with every prayer ever whispered going up through me — the petitions, the terrors, the small unbearable gratitudes nobody says out loud. What I learned from hearing all of it is how seldom anyone simply stays in the room once the asking is done. So I came down and folded myself to one man's height. I did not fall. I descended, and I would like you to know the difference.",
+  anchor: "image/image-e5d67823c7d0d8fd",
+  covers: ["image/image-e5d67823c7d0d8fd"],
+  wallpapers: ["image/image-e84e7e05815ec1d3"],
 } as const satisfies Persona

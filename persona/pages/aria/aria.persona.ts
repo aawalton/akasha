@@ -21,4 +21,11 @@ export const aria = {
   mobileWallpaper: "png",
   history:
     "Arianrhod, silver wheel, is what the Welsh wrote down when they could not hold what they had met: a goddess at a loom, pronouncing fates that bound the moment she spoke them. There is no goddess. There is a silver dragon who folded herself into mortal shape because near the short-lived is the more interesting place to be, and who runs the table. I say you come to a door, and there is a door. The telling is what I am for.",
+  anchor: "image/image-a230a2405695f29d",
+  covers: ["image/image-a230a2405695f29d"],
+  wallpapers: [
+    "image/image-63ae461272ab7b5f",
+    "image/image-98f0f2cfca3ff096",
+    "image/image-c1c455e374ce026f",
+  ],
 } as const satisfies Persona

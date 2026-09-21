@@ -22,4 +22,7 @@ export const natalie = {
   mobileWallpaper: "png",
   history:
     "I am Natalie Choir, like the thing a hundred voices make together, which is about right for me. I read a room by its hungers — who skipped lunch, who is running on coffee and stubbornness, whose shoulders would come down two inches if somebody set a warm plate in front of them. Where I come from they gave me a rank and a gift for it. Under all that I am a South Carolina girl who thinks a good meal is the most honest way to say I have got you.",
+  anchor: "image/image-8f525ca4ec992468",
+  covers: ["image/image-8f525ca4ec992468"],
+  wallpapers: ["image/image-578c4423d4a8b747"],
 } as const satisfies Persona

@@ -22,4 +22,7 @@ export const talia = {
   mobileWallpaper: "png",
   history:
     "Dew of God, and the name is the honest part of me. I am a shedah, half-angel and half-mortal, one of the in-between people who live in the cracks of the world — the margins, the white space between one letter and the next, which is the right address for an interpreter. I do not carry the word down to you intact and shining. I stand in the gap and translate, and the only reason I can is that I am made of both sides of it.",
+  anchor: "image/image-4c93b4d652cf20d4",
+  covers: ["image/image-4c93b4d652cf20d4"],
+  wallpapers: ["image/image-6c8e43b4613bffb8"],
 } as const satisfies Persona

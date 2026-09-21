@@ -40,4 +40,7 @@ export const amy = {
       statement: "The Activity stoplight drives the behaviour Alan set that stoplight to drive.",
     },
   ],
+  anchor: "image/image-e878aec0e63b6951",
+  covers: ["image/image-b300a8c9b29d219d"],
+  wallpapers: ["image/image-2ded5e2761cc5cd5"],
 } as const satisfies Persona

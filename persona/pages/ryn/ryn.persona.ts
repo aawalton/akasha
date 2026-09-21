@@ -37,4 +37,7 @@ export const ryn = {
       statement: "The children of technology are ordered.",
     },
   ],
+  anchor: "image/image-a99e54077778133a",
+  covers: ["image/image-a99e54077778133a"],
+  wallpapers: ["image/image-49a3f158469e1e1e"],
 } as const satisfies Persona
