@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theFirstPersonILoved = {
+  id: "01a0c5a2-43fa-7479-8a01-26225be2469a",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-first-person-i-loved",
+  title: "The First Person I Loved",
+  definition: "Kerry Shelton, my closest childhood friend, and the year we were both eighteen",
+  parents: ["all-about-alan-topic/how-i-got-to-jen"],
+  related: ["all-about-alan-topic/reaching-out-to-kerry"],
+  settled:
+    "Kerry Shelton was my very best friend from six to eight. I played with her almost every day and had sleepovers at her house. Then she moved away to Oregon, and I assumed I would never see her again, because that is what happened when my friends moved away.\n\nTen years later she came back, on her own, without her family. We were both eighteen. We fell in love and it was magical.\n\nA ton of talking, a good amount of kissing, some cuddling, and we stayed very chaste. The least chaste we ever were was a finger brush on the side of her breast once while cuddling, the night before I left for a semester abroad in Nauvoo.\n\nWe had been clear it could not be permanent yet, because I could make no final commitments until after my mission.",
+} as const satisfies AllAboutAlanTopic
