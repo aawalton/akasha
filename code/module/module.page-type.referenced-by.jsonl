@@ -2526,6 +2526,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/rank-ladder/rank-ladder.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-offering/panel-offering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-showing/panel-showing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-turning/panel-turning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts"}

@@ -18,6 +18,7 @@ export const gamePanel = {
     "module/panel-turning",
     "file-property/drawn",
     "module/panel-showing",
+    "module/panel-offering",
   ],
   decisions: [
     {
