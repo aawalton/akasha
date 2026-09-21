@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.code.ts"}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"}
+{"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts"}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}

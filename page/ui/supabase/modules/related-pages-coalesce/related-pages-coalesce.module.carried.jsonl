@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Pages asked for by id and pages asked for by slug are two reads."},{"decisionKind":"decision-kind/departure","statement":"The store holding pages through a failed read is asked by id alone."}]}
-{"definition":"related pages fetched once for every reader asking at the same moment"}
-{"id":"01a05cb4-fefb-710f-afea-bda26574d4e0"}
-{"slug":"related-pages-coalesce"}
-{"type":"page-type/module"}

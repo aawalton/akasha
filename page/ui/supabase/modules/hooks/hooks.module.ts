@@ -21,5 +21,15 @@ export const hooks = {
       statement:
         "A related page is asked of the page type its definition names by slug before by id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A related page is read from the store's collection rather than asked of the service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The page types the relations reach are acquired into the store before they are read.",
+    },
   ],
 } as const satisfies Module

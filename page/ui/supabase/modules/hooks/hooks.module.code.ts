@@ -10,6 +10,7 @@ import {
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   useAcquireSlug,
+  useAcquireSlugs,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import {
@@ -22,10 +23,6 @@ import {
   toPageWithProperties,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
-  getRelatedPagesByIdCoalesced,
-  groupsKeyOf,
-} from "akasha/page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.code.ts"
-import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
@@ -33,8 +30,9 @@ import {
   createIdSuffixPipeline,
   type IdSuffixResult,
 } from "akasha/page/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
+import { createRelatedPipeline } from "akasha/page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useEffect, useMemo, useRef, useState } from "react"
+import { useEffect, useMemo } from "react"
 
 const NAV = "nav"
 
@@ -139,25 +137,18 @@ export function useRelatedPages({
     () => collectRelatedIds(pages, specs, RELATED_IDS_PER_PROPERTY_CAP),
     [pages, specs]
   )
-
-  const groupsKey = useMemo(() => groupsKeyOf(groups), [groups])
-
-  const [rows, setRows] = useState<readonly PageWithProperties[]>([])
-  const reqRef = useRef(0)
-  useEffect(() => {
-    const reqId = ++reqRef.current
-    if (groups.length === 0) {
-      setRows([])
-      return
-    }
-    void (async () => {
-      const result = await getRelatedPagesByIdCoalesced(groups)
-      if (reqId !== reqRef.current) return
-      setRows(result.map((row) => toPageWithProperties(row)))
-    })()
-  }, [groupsKey])
-
-  return rows
+  const groupsKey = useMemo(() => JSON.stringify(groups), [groups])
+  const targetSlugs = useMemo(() => groups.map((one) => one.pageTypeSlug), [groups])
+  useAcquireSlugs(targetSlugs)
+  const { snapshot } = usePipelineLive(
+    (collection) => createRelatedPipeline(collection, groups),
+    groupsKey,
+    groups.length > 0
+  )
+  return useMemo(
+    () => (snapshot ?? []).map((row) => toPageWithProperties(flattenRow(row))),
+    [snapshot]
+  )
 }
 
 export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | undefined }): {

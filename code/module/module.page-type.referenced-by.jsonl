@@ -2220,6 +2220,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/view-match/view-match.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.ts"}
@@ -2461,7 +2462,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/page-with-properties/page-with-properties.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/record-view-staleness/record-view-staleness.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.ts"}

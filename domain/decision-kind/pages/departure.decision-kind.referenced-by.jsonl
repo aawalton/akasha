@@ -3160,6 +3160,7 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.ts","id":"01a05b69-454c-7ec3-ba3c-2370dee03d6a"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.ts","id":"01a05b69-454d-7b7a-b33e-c2de2e06ae06"}
+{"propertySlug":"decision-kind","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.ts","id":"01a0c5fc-c478-7997-a120-966993c5a392"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/view-match/view-match.module.ts","id":"01a05b69-4551-75ff-b040-d348271da6aa"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/app-editing/app-editing.module.ts","id":"01a0c58c-04d2-7bea-9650-c9d6c4f1e22a"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/auth-provider/auth-provider.module.ts","id":"01a06582-2737-7f5c-8019-8dd5e784db92"}
@@ -3185,7 +3186,6 @@
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.ts","id":"01a05c7d-d06c-7ecc-bcb5-d58257b7a42f"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/hooks/hooks.module.ts","id":"01a06205-4f3b-7004-be48-0732dc16b0d9"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/page-with-properties/page-with-properties.module.ts","id":"01a05cac-2a4f-74fa-a0c3-9ea5542cdf79"}
-{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.ts","id":"01a05cb4-fefb-710f-afea-bda26574d4e0"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.ts","id":"01a07973-368c-72b7-ae79-826c332e348c"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.ts","id":"01a05cce-25ec-7756-a742-f0d31cf07f6e"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.ts","id":"01a05cb4-fefa-7607-bad3-97aa6193d933"}

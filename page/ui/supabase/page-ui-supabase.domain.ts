@@ -16,7 +16,6 @@ export const pageUiSupabase = {
     "module/page-resolver-provider",
     "module/page-with-properties",
     "module/record-view-staleness",
-    "module/related-pages-coalesce",
     "module/relation-picker",
     "module/use-complete-page-optimistic",
     "module/use-nav-mutations",
