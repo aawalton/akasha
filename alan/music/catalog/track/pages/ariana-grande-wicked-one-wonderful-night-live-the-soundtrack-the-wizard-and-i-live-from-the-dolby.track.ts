@@ -8,6 +8,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   position: 2,
+  rank: "B-",
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
