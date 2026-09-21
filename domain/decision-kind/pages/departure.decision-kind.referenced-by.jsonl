@@ -3311,6 +3311,7 @@
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/clear-the-world.domain.ts","id":"01a06579-e4f7-7351-8560-e330582149a8"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
+{"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-achievement/properties/ctw-scope.select-property.ts","id":"01a0c63f-006b-7e9a-bad2-480170e60eb7"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
 {"propertySlug":"decision-kind","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.ts","id":"01a0c506-47e8-7bbe-b848-c927bac306a3"}
 {"propertySlug":"decision-kind","path":"product/kofi/contribution-point/modules/spending/contribution-point-spending.module.ts","id":"01a0c4f6-195d-742a-9f09-e9e8c92f3c42"}

@@ -109,6 +109,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/group-granularity.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/layout.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/narrow-comparison.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/ctw-scope.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/controlled-entity-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/mechanics-weight.select-property.ts"}
