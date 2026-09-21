@@ -8,11 +8,6 @@ export const aineRequests = {
   persona: "persona/aine",
   intentStack: [
     {
-      statement: "Every feature request is a page naming the product that request is for.",
-      workingMemory:
-        "A product is a domain rather than a page type, and there is no `page-type/product`, so a feature request names its product through `relation-property/page-domain`, the way `page-type/finding` names its domain. The products are the parts of `product/product.domain.ts`, and `domain/feature-request` sits under `domain/kofi`, which is one of them.",
-    },
-    {
       statement:
         "Every product serves the feature requests for that product at `requests` under its own domain.",
       workingMemory:
