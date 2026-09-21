@@ -113,6 +113,7 @@ export const page = {
     "page-type/rank-property",
     "page-type/record-property",
     "page-type/relation-property",
+    "page-type/rrule-property",
     "page-type/select-property",
     "page-type/text-property",
     "page-type/true-property",

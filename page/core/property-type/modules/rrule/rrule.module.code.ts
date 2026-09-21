@@ -5,7 +5,7 @@ import type {
   PropertyValue,
 } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 
-function isRruleValue(
+export function isRruleValue(
   value: PropertyValue
 ): value is { readonly rule: string; readonly anchorFromCompletion: boolean } {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false
