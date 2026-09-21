@@ -1,11 +1,19 @@
 import {
+  idFrom,
+  linkFrom,
+} from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import {
   type Picked,
   pickingOver,
 } from "akasha/alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts"
 import {
+  type Reconciled,
+  reconciling,
+} from "akasha/alan/music/choosing/modules/unheard-reconciling/unheard-reconciling.module.code.ts"
+import {
   addTracks,
-  createPlaylist,
-  type Playlist,
+  heldTracks,
+  removeTracks,
 } from "akasha/alan/music/spotify/modules/playlists/spotify-playlists.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
@@ -18,9 +26,11 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicUnheardPlaylist as page } from "akasha/command/pages/music/unheard-playlist/music-unheard-playlist.command.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  valuedAt,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { textIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { todayYYYYMMDD } from "akasha/text/writing/modules/today/today.module.code.ts"
 
 const ARTIST = "artist"
 
@@ -28,27 +38,43 @@ const RELEASE = "release"
 
 const TRACK = "track"
 
+const PLAYLIST = "playlist"
+
+const UNHEARD = "unheard"
+
+const SPOTIFY = "spotify"
+
+const IDENTITY = "externalIdentity"
+
 const FOLLOWING = "following"
 
 const NAMED = [json, plan] as const
 
-const NOTHING = "every track a followed artist made is heard, so no playlist was made"
+const NO_PLAYLIST = `the \`${PLAYLIST}/${UNHEARD}\` page names no spotify playlist to keep up to date`
 
 export type Reach = {
-  readonly createPlaylist: typeof createPlaylist
+  readonly heldTracks: typeof heldTracks
   readonly addTracks: typeof addTracks
+  readonly removeTracks: typeof removeTracks
 }
 
-export const REACHING: Reach = { createPlaylist, addTracks }
+export const REACHING: Reach = { heldTracks, addTracks, removeTracks }
 
-export type Made = {
+type Named = {
+  readonly id: string
+  readonly link: string | null
+}
+
+export type Kept = {
   readonly picked: readonly Picked[]
   readonly artists: number
-  readonly playlist: Playlist | null
+  readonly link: string | null
+  readonly said: Reconciled
   readonly added: number
+  readonly removed: number
 }
 
-export function followedIn(root: string): ReadonlySet<string> {
+function followedIn(root: string): ReadonlySet<string> {
   const held = new Set<string>()
   for (const one of valuesOfType(root, ARTIST)) {
     if (textIn(one.value, "status") !== FOLLOWING) continue
@@ -58,65 +84,80 @@ export function followedIn(root: string): ReadonlySet<string> {
   return held
 }
 
-export function pickedIn(root: string): readonly Picked[] {
+function pickedIn(root: string): readonly Picked[] {
   const tracks = valuesOfType(root, TRACK).map((one) => one.value)
   const releases = valuesOfType(root, RELEASE).map((one) => one.value)
   return pickingOver(tracks, releases, followedIn(root))
+}
+
+function playlistIn(root: string): Named | null {
+  const held = valuedAt(root, PLAYLIST, UNHEARD).value[IDENTITY]
+  const id = idFrom(held, SPOTIFY)
+  return id === null ? null : { id, link: linkFrom(held, SPOTIFY) }
 }
 
 export function artistsIn(picked: readonly Picked[]): number {
   return new Set(picked.map((one) => one.artistSlug)).size
 }
 
-export function namedFor(today: string): string {
-  return `Unheard ${today}`
-}
-
-export function describedFor(picked: readonly Picked[]): string {
-  return `${picked.length} track(s) from ${artistsIn(picked)} artist(s) Alan follows and has not heard.`
-}
-
-export function rowsOf(made: Made): readonly string[] {
-  const rows = [`tracks\t${made.picked.length}`, `artists\t${made.artists}`, `added\t${made.added}`]
-  if (made.playlist !== null) rows.push(`link\t${made.playlist.external_urls.spotify}`)
+export function rowsOf(kept: Kept): readonly string[] {
+  const rows = [
+    `tracks\t${kept.picked.length}`,
+    `artists\t${kept.artists}`,
+    `adding\t${kept.said.adding.length}`,
+    `removing\t${kept.said.removing.length}`,
+    `kept\t${kept.said.keeping.length}`,
+    `added\t${kept.added}`,
+    `removed\t${kept.removed}`,
+  ]
+  if (kept.link !== null) rows.push(`link\t${kept.link}`)
   return rows
 }
 
-export function jsonOf(made: Made): string {
+export function jsonOf(kept: Kept): string {
   return JSON.stringify({
-    tracks: made.picked.length,
-    artists: made.artists,
-    added: made.added,
-    link: made.playlist === null ? null : made.playlist.external_urls.spotify,
-    titles: made.picked.map((one) => `${one.artistSlug} — ${one.title}`),
+    tracks: kept.picked.length,
+    artists: kept.artists,
+    adding: kept.said.adding.length,
+    removing: kept.said.removing.length,
+    kept: kept.said.keeping.length,
+    added: kept.added,
+    removed: kept.removed,
+    link: kept.link,
+    titles: kept.picked.map((one) => `${one.artistSlug} — ${one.title}`),
   })
 }
 
-export async function makingOver(
-  picked: readonly Picked[],
-  today: string,
-  reach: Reach
-): Promise<Made> {
-  const playlist = await reach.createPlaylist({
-    name: namedFor(today),
-    description: describedFor(picked),
-  })
-  const added = await reach.addTracks(
-    playlist.id,
-    picked.map((one) => one.trackId)
-  )
-  return { picked, artists: artistsIn(picked), playlist, added }
+export async function keepingOver(kept: Kept, playlistId: string, reach: Reach): Promise<Kept> {
+  const removed = await reach.removeTracks(playlistId, kept.said.removing)
+  const added = await reach.addTracks(playlistId, kept.said.adding)
+  return { ...kept, added, removed }
+}
+
+export function reconciledOver(picked: readonly Picked[], holding: readonly string[]): Kept {
+  return {
+    picked,
+    artists: artistsIn(picked),
+    link: null,
+    said: reconciling(
+      picked.map((one) => one.trackId),
+      holding
+    ),
+    added: 0,
+    removed: 0,
+  }
 }
 
 async function answered(argv: readonly string[], given: Given, reach: Reach): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return refused(read.refused.join(" "), DATA)
-  const picked = pickedIn(given.root)
-  if (picked.length === 0) return told([NOTHING])
-  const held: Made = { picked, artists: artistsIn(picked), playlist: null, added: 0 }
-  if (read.taken.plan) return told(read.taken.json ? [jsonOf(held)] : rowsOf(held))
-  const made = await makingOver(picked, todayYYYYMMDD(), reach)
-  return told(read.taken.json ? [jsonOf(made)] : rowsOf(made))
+  const named = playlistIn(given.root)
+  if (named === null) return refused(NO_PLAYLIST, DATA)
+  const holding = await reach.heldTracks(named.id)
+  const kept: Kept = { ...reconciledOver(pickedIn(given.root), holding), link: named.link }
+  if (read.taken.plan) return told(read.taken.json ? [jsonOf(kept)] : rowsOf(kept))
+  const done = await keepingOver(kept, named.id, reach)
+  return told(read.taken.json ? [jsonOf(done)] : rowsOf(done))
 }
 
 export async function musicUnheardPlaylist(

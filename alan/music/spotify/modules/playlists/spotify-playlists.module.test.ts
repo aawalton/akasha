@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   batchedInto,
-  bodyFor,
   idsHeldIn,
   itemsPath,
   removalBodyFor,
@@ -12,18 +11,6 @@ const PLAYLIST = "2L6oEjIg7HpfRzv2FrfZcG"
 
 test("a track reaches a playlist as a uri rather than as an id", () => {
   expect(uriOf("0isMBNGbFrpvGhStVQLWJK")).toBe("spotify:track:0isMBNGbFrpvGhStVQLWJK")
-})
-
-test("a playlist made here is private", () => {
-  expect(bodyFor({ name: "Unheard" })).toEqual({ name: "Unheard", public: false })
-})
-
-test("a description is named only where one was given", () => {
-  expect(bodyFor({ name: "Unheard", description: "what Alan has not heard" })).toEqual({
-    name: "Unheard",
-    public: false,
-    description: "what Alan has not heard",
-  })
 })
 
 test("one call carries a hundred tracks at most", () => {

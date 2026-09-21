@@ -23,22 +23,7 @@ const heldSchema = z
 
 export type HeldItem = z.infer<typeof heldItemSchema>
 
-const playlistSchema = z
-  .object({
-    id: z.string(),
-    name: z.string(),
-    external_urls: z.object({ spotify: z.string() }).passthrough(),
-  })
-  .passthrough()
-
 const snapshotSchema = z.object({ snapshot_id: z.string() }).passthrough()
-
-export type Playlist = z.infer<typeof playlistSchema>
-
-export type Making = {
-  readonly name: string
-  readonly description?: string
-}
 
 export function uriOf(trackId: string): string {
   return `spotify:track:${trackId}`
@@ -59,7 +44,7 @@ export function itemsPath(playlistId: string, offset: number): string {
   })
 }
 
-export function idOfUri(uri: unknown): string | null {
+function idOfUri(uri: unknown): string | null {
   if (typeof uri !== "string" || !uri.startsWith(TRACK_URI_UNDER)) return null
   const id = uri.slice(TRACK_URI_UNDER.length)
   return id.length === 0 ? null : id
@@ -76,25 +61,6 @@ export function idsHeldIn(items: readonly HeldItem[]): readonly string[] {
 
 export function removalBodyFor(trackIds: readonly string[]): Readonly<Record<string, unknown>> {
   return { items: trackIds.map((one) => ({ uri: uriOf(one) })) }
-}
-
-export function bodyFor(making: Making): Readonly<Record<string, unknown>> {
-  return {
-    name: making.name,
-    public: false,
-    ...(making.description === undefined ? {} : { description: making.description }),
-  }
-}
-
-export function createPlaylist(making: Making, over?: Fetching): Promise<Playlist> {
-  return spotifyRequest(
-    "/me/playlists",
-    playlistSchema,
-    { method: "POST", body: bodyFor(making) },
-    0,
-    0,
-    over
-  )
 }
 
 export async function addTracks(

@@ -5,7 +5,7 @@ export const musicUnheardPlaylist = {
   type: "page-type/command",
   slug: "music-unheard-playlist",
   definition:
-    "the command making a playlist of what Alan's followed artists made and he has not heard",
+    "the command keeping a playlist of what Alan's followed artists made and he has not heard",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,
@@ -20,15 +20,31 @@ export const musicUnheardPlaylist = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The playlist is named for the day it was made.",
+      statement: "The playlist kept up to date is the one the `playlist/unheard` page names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run picking no track makes no playlist.",
+      statement: "What the playlist gains and loses is what the unheard-reconciling module says.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A planning run reaches Spotify for nothing.",
+      statement: "Tracks leave the playlist before tracks reach it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run wanting no track empties the playlist.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A planning run reads Spotify and writes nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer counts what was added, what was removed and what was kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A planning run counts what it would add and remove, and counts nothing done.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +56,7 @@ export const musicUnheardPlaylist = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No playlist made before is read, emptied or added to.",
+      statement: "No playlist is made here.",
     },
   ],
   name: "unheard-playlist",

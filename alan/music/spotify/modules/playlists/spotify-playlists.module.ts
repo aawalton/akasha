@@ -4,13 +4,13 @@ export const spotifyPlaylists = {
   id: "01a0c4ed-a8b0-7e8c-9703-45d944d791a6",
   type: "page-type/module",
   slug: "spotify-playlists",
-  definition: "a playlist of Alan's made, read and kept over the Web API",
+  definition: "a playlist of Alan's read and kept over the Web API",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A playlist is made under the account the token is held for.",
+      statement: "A playlist is reached under the account the token is held for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,8 +22,8 @@ export const spotifyPlaylists = {
       statement: "Spotify refuses a deprecated playlist path at the edge, saying only `Forbidden`.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A playlist made here is private.",
+      decisionKind: "decision-kind/absence",
+      statement: "No playlist is made here.",
     },
     {
       decisionKind: "decision-kind/departure",
