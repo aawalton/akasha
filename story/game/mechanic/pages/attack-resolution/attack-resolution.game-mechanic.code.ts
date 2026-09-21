@@ -49,7 +49,8 @@ function bandedBy(margin: number, roll: Rolled): Banded {
 
 export function runMechanic(reading: Reading): Resolved {
   const added = reading.bonuses.reduce((sum, one) => sum + one.by, 0)
-  const effectiveScore = reading.attackPower + reading.roll.total + added
+  const intent = Math.min(Math.max(reading.intent, 0), INTENT_MOST)
+  const effectiveScore = reading.attackPower + reading.roll.total + added + intent
   const margin = effectiveScore - reading.defense
   const banded = bandedBy(margin, reading.roll)
   const counted = banded.band === "crit" ? Math.max(margin, CRIT_MARGIN_FLOOR) : margin
