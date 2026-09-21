@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "A run that made a sound records the sha256 of those bytes.",
-      workingMemory:
-        "`inference-run-store.module.code.ts:73` already patches the run row with `outputAudioSha256`, so the number a slug would open with is measured there today. `inference-run.page-type.ts:37` still decides that audio a run made is kept as an object named from the row it was made under, where line 33 was mended for images already.",
-    },
-    {
       statement: "Every sound outside the repository is a page or is gone.",
       workingMemory:
         "SeaweedFS holds 1,407 objects under `agent-sessions/audio`, 4.216 GB, written between 30 June and 25 July 2026. `persona-voices` holds 80 more at 0.030 GB, the last on 19 August, and `story-audio` holds 3. Neither of those two prefixes has any key-making code in the tree, so nothing here put them there and nothing here reads them.",
