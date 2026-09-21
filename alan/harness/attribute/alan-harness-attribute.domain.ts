@@ -67,11 +67,6 @@ export const alanHarnessAttribute = {
       statement: "The tile shows the points Alan's workstation last took.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "An attribute nothing can be read for is shown as no signal rather than as a zero.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement:
         "`akasha measure attribute` answers an attribute's level beside that attribute's total.",

@@ -34,9 +34,5 @@ export const surplus = {
       decisionKind: "decision-kind/departure",
       statement: "The tile shows the surplus Alan's workstation last took.",
     },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A surplus nothing can be read for is shown as no signal rather than as a zero.",
-    },
   ],
 } as const satisfies Domain

@@ -43,10 +43,6 @@ export const inbox = {
       statement: "The tile shows the counts Alan's workstation last took.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A count nothing can be read for is shown as no signal rather than as a zero.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "The game tasks among Alan's inboxes belong to temper rather than here.",
     },

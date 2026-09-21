@@ -26,9 +26,5 @@ export const cost = {
       decisionKind: "decision-kind/departure",
       statement: "The color a cost takes is read with the surplus rather than from the cost alone.",
     },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A cost nothing can be read for is shown as no signal rather than as a zero.",
-    },
   ],
 } as const satisfies Domain

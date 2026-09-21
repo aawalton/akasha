@@ -233,6 +233,10 @@ export const readout = {
       decisionKind: "decision-kind/gap",
       statement: "Every readout that takes a reading names a group that draws the reading.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A readout nothing can be read for shows no signal rather than a zero.",
+    },
   ],
   directives: [
     {
