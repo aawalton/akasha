@@ -96,6 +96,19 @@ export const alan = {
       decisionKind: "decision-kind/departure",
       statement: "Polish is load-bearing for Alan rather than the work left over at the end.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan enjoys a game only where the progress he makes in it is the real progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game has one real save, and Alan is never handed a sandbox or a test save to play in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan would rather find a shortcut himself than be told one.",
+    },
   ],
   bodyweight: 177.9,
   contributor:
