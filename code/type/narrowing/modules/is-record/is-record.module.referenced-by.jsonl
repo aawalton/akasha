@@ -39,8 +39,8 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items-filters-core/modules/search-range-value-parse/search-range-value-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.test.ts"}

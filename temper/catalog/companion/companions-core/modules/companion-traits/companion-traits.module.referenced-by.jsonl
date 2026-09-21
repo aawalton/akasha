@@ -7,10 +7,10 @@
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items-filters-core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-trait-labels/companion-trait-labels.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx"}

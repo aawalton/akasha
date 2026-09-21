@@ -5,8 +5,8 @@
 {"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/characters-equipment/modules/jewelry-source/jewelry-source.module.code.ts"}
 {"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/items-filters-core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"jewelry-traits.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx"}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

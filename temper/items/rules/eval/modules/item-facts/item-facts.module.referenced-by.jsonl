@@ -9,9 +9,9 @@
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-filters-core/modules/search-eval-adapter/search-eval-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/filters/core/modules/search-eval-adapter/search-eval-adapter.module.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/filters/core/modules/search-filter-set/search-filter-set.module.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/category-match/category-match.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-classification/check-classification.module.code.ts"}

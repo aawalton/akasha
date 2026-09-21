@@ -14,6 +14,12 @@ import {
   setActiveSavedSearchIndex,
 } from "akasha/temper/addon/trading-addon/modules/trading-saved-search-store/trading-saved-search-store.module.code.ts"
 import {
+  deserializeSavedSearch,
+  serializeSavedSearch,
+} from "akasha/temper/items/filters/core/modules/saved-search/saved-search.module.code.ts"
+import { buildFilterIndex } from "akasha/temper/items/filters/core/modules/search-filter-registry/search-filter-registry.module.code.ts"
+import type { ActiveFilterValues } from "akasha/temper/items/filters/core/modules/search-filter-set/search-filter-set.module.code.ts"
+import {
   type BarButton,
   CONTROL_GAP,
   CONTROL_HEIGHT,
@@ -23,12 +29,6 @@ import {
   PADDING_Y,
   setButtonActive,
 } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
-import {
-  deserializeSavedSearch,
-  serializeSavedSearch,
-} from "akasha/temper/items-filters-core/modules/saved-search/saved-search.module.code.ts"
-import { buildFilterIndex } from "akasha/temper/items-filters-core/modules/search-filter-registry/search-filter-registry.module.code.ts"
-import type { ActiveFilterValues } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 
 const SLOT_WIDTH = 110
 const DELETE_WIDTH = 20

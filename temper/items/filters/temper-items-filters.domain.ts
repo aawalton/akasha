@@ -5,4 +5,5 @@ export const temperItemsFilters = {
   type: "page-type/domain",
   slug: "temper-items-filters",
   definition: "how a player narrows a list of items",
+  parts: ["domain/temper-items-filters-core"],
 } as const satisfies Domain

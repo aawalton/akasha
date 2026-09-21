@@ -33,6 +33,13 @@ import {
   createSavedSearchBar,
   SAVED_SEARCH_BAR_HEIGHT,
 } from "akasha/temper/addon/trading-addon/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"
+import { TEMPER_FILTERS } from "akasha/temper/items/filters/core/modules/search-filter-registry/search-filter-registry.module.code.ts"
+import type {
+  AnyTemperFilter,
+  FilterGroup,
+  FilterId,
+  FilterValue,
+} from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 import type { BarContext } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,
@@ -48,13 +55,6 @@ import {
   PADDING_Y,
 } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import type { FilterController } from "akasha/temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
-import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/modules/search-filter-registry/search-filter-registry.module.code.ts"
-import type {
-  AnyTemperFilter,
-  FilterGroup,
-  FilterId,
-  FilterValue,
-} from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
 
 const WINDOW_NAME = "TemperListingsBrowse"
 const SEARCH_WIDTH = 130
