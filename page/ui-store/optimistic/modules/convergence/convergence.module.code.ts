@@ -6,6 +6,7 @@ import {
   asPageRow,
   type PageRow,
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const DEFAULT_TICK_MS = 250
 

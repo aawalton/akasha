@@ -17,6 +17,7 @@ import {
 import { useFollowAnchor } from "akasha/page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"
 import { ArrowDown } from "lucide-react"
 import { type ReactNode, type RefObject, useCallback } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface DisplayFrameProps {
   readonly config?: FrameConfig

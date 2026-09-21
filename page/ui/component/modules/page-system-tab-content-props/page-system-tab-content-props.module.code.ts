@@ -11,6 +11,7 @@ import type { ReorderCardsHandler } from "akasha/page/ui/component/modules/use-r
 import type { PageTypeOption } from "akasha/page/ui/component/modules/view-settings-options/view-settings-options.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface ServerGroupedSection {
   key: string

@@ -9,6 +9,7 @@ import type {
   VisibilityChange,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface PageTypeOption {
   id: string

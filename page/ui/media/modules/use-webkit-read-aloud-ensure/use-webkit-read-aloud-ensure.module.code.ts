@@ -1,5 +1,6 @@
 import { useEffect } from "react"
 import { z } from "zod"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type EnsureRenditionStatus = "ready" | "generating" | "unavailable"
 

@@ -16,6 +16,7 @@ import {
   resolveSentinelInstantDayRange,
 } from "akasha/page/core/property-type/modules/date-sentinels/date-sentinels.module.code.ts"
 import type { FilterOperator } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type LooseSentinel = SentinelDateValue & SentinelInstantValue
 

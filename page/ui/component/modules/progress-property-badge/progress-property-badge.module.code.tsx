@@ -21,6 +21,7 @@ import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-va
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useState } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface NarrowedEntry {
   key: string

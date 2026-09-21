@@ -11,6 +11,7 @@ import type {
 } from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useTextareaInput } from "akasha/page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const BASE_TEXTAREA =
   "field-sizing-content min-h-0 w-full resize-none border-0 bg-transparent p-0 shadow-none outline-none focus-visible:outline-none"

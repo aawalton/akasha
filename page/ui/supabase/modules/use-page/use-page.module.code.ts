@@ -13,6 +13,7 @@ import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fe
 import { getContentPersistence } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export function usePage({
   pageTypeSlug,

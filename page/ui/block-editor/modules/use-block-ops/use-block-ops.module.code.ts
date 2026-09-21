@@ -17,6 +17,7 @@ import {
   getBlockAtPath,
 } from "akasha/page/core/property-type/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import { type RefObject, useCallback } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface BlockOpsDeps {
   readonly docRef: RefObject<RichDocument>

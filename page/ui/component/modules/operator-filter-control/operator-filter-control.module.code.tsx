@@ -39,6 +39,7 @@ import {
 } from "akasha/page/ui/component/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface OperatorFilterControlProps {
   dimension: PageFilterDimension

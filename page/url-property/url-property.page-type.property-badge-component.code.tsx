@@ -7,6 +7,7 @@ import { hostIn } from "akasha/design/interface/badge/modules/url-badge/url-badg
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { ExternalLink } from "lucide-react"
 import { useEffect, useState } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function CommitOnlyUrlBadge({
   value,

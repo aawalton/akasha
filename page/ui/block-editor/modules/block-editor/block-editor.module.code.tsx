@@ -24,6 +24,8 @@ import { useBlockSelection } from "akasha/page/ui/block-editor/modules/use-block
 import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useKeyboardInset } from "akasha/page/ui/block-editor/modules/use-keyboard-inset/use-keyboard-inset.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 interface BlockEditorProps {
   pageTypeSlug: string

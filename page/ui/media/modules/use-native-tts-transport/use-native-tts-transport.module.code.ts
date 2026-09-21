@@ -2,6 +2,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import type { NativeTtsAdapter } from "akasha/page/ui/media/modules/native-tts-adapter/native-tts-adapter.module.code.ts"
 import type { PlayingSessionState } from "akasha/page/ui/media/modules/playing-session/playing-session.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type NativeTtsTransportState = {
   readonly isPaused: boolean

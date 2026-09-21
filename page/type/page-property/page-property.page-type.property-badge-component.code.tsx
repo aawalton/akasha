@@ -8,6 +8,7 @@ import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.
 import { textConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { useEffect, useState } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function HeldWhileTyped({
   value,

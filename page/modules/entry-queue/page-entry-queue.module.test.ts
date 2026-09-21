@@ -8,6 +8,7 @@ import {
   queueAt,
 } from "akasha/page/modules/entry-queue/page-entry-queue.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

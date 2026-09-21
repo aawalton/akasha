@@ -5,6 +5,7 @@ import { readPersistedSession } from "akasha/page/ui/media/modules/playing-sessi
 import { useEffect, useLayoutEffect, useRef } from "react"
 import { useLocation, useSearchParams } from "react-router"
 import { z } from "zod"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export type MediaVariant = { id: string; label: string }
 

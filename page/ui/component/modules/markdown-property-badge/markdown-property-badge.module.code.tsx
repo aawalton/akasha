@@ -7,6 +7,7 @@ import { Textarea } from "akasha/design/interface/primitive/modules/textarea/tex
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const FILL_EDITOR_CLASS =
   "field-sizing-fixed h-full min-h-0 resize-none rounded-none bg-transparent px-0 py-0 shadow-none focus-visible:[outline:none]"

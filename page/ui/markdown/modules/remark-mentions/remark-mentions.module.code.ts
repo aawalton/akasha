@@ -2,6 +2,7 @@ import "mdast-util-to-hast"
 import type { PhrasingContent, Root, Text } from "mdast"
 import type { Plugin } from "unified"
 import { z } from "zod"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export type MentionType = "page" | "user" | "date"
 

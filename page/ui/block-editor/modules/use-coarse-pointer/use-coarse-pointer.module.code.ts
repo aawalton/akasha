@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function useCoarsePointer(): boolean {
   const [coarse, setCoarse] = useState(false)

@@ -4,6 +4,7 @@ import {
 } from "akasha/page/core/modules/media-formats/media-formats.module.code.ts"
 import type { ActiveSessionInit } from "akasha/page/ui/media/modules/playing-session/playing-session.module.code.ts"
 import { z } from "zod"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const STORAGE_KEY = "playing-session:v1"
 

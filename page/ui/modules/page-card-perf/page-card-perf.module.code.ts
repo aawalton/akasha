@@ -1,3 +1,6 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
+
 export type InteractionToken = {
   readonly interactionId: string
   readonly startTimeStamp: number
