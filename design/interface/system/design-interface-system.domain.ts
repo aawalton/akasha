@@ -66,5 +66,9 @@ export const designInterfaceSystem = {
       decisionKind: "decision-kind/departure",
       statement: "The space inside a component is written on the component.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every panel the gallery draws is a child of the column layout on its own.",
+    },
   ],
 } as const satisfies Domain
