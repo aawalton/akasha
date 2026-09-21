@@ -2523,6 +2523,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/linear-stat/linear-stat.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/rank-ladder/rank-ladder.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-controls/alert-controls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-notification/alert-notification.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-sound/alert-sound.module.ts"}
