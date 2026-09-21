@@ -8,15 +8,15 @@ export const nimueGradeNaming = {
   persona: "persona/nimue",
   intentStack: [
     {
+      statement: "The page type for a rung on the ladder is `grade-property`.",
+      workingMemory:
+        "`page/rank-property/rank-property.page-type.ts` defines itself as `a page property with a rung on a ladder of grades`, and its decisions say a rung above another rung is a better grade. The type already uses in its own words the name it does not carry. 12 files name `rank-property` or `RankProperty`.",
+    },
+    {
       statement:
         "One page states the grade ladder, what each rung is called, and each rung's color.",
       workingMemory:
         "The ladder is written out in full in five places: the three rank properties `rank`, `grade` and `singability`, `MUSIC_RATINGS` in `rating-ladder.module.code.ts`, and `LITRPG_RATINGS` in `reading-shapes.module.code.ts`. No rung carries a color anywhere, and a select property states its values as plain text and nothing else. `rank-property.page-type.ts` decides that a rank property states the whole ladder as its values, so restating it is required today, and that decision is what changes.",
-    },
-    {
-      statement: "The page type for a rung on the ladder is `grade-property`.",
-      workingMemory:
-        "`page/rank-property/rank-property.page-type.ts` defines itself as `a page property with a rung on a ladder of grades`, and its decisions say a rung above another rung is a better grade. The type already uses in its own words the name it does not carry. 12 files name `rank-property` or `RankProperty`.",
     },
     {
       statement: "No code states the ladder a grade property already states.",
