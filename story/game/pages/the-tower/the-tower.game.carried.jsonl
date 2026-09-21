@@ -4,6 +4,7 @@
 {"controlledEntityKind":"single"}
 {"coordinatorAgent":"awen-gm--the-tower"}
 {"defaultDice":"game-mechanic/two-d-ten"}
+{"designEntries":"jsonl"}
 {"displayConfig":"json"}
 {"entities":"jsonl"}
 {"externalId":"the-tower"}
