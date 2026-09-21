@@ -148,6 +148,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/global.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/goal.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/grade-target.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/grade.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/guidance.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/health-export-path.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/height.argument.ts"}
@@ -247,7 +248,6 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/query-file.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/query.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/quest-trace-path.argument.ts"}
-{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/rating.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/reaction-file.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/reaction.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/readings-dir.argument.ts"}

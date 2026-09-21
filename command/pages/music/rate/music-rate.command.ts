@@ -69,7 +69,7 @@ export const musicRate = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/slug", required: true },
-    { argument: "argument/rating" },
+    { argument: "argument/grade" },
     { argument: "argument/reaction-file" },
     { argument: "argument/personal-connections-file" },
     { argument: "argument/insights-file" },

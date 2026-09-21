@@ -8,13 +8,13 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { grade } from "akasha/command/argument/pages/grade.argument.ts"
 import { gradeTarget } from "akasha/command/argument/pages/grade-target.argument.ts"
 import { insights } from "akasha/command/argument/pages/insights.argument.ts"
 import { insightsFile } from "akasha/command/argument/pages/insights-file.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { personalConnections } from "akasha/command/argument/pages/personal-connections.argument.ts"
 import { personalConnectionsFile } from "akasha/command/argument/pages/personal-connections-file.argument.ts"
-import { rating } from "akasha/command/argument/pages/rating.argument.ts"
 import { reaction } from "akasha/command/argument/pages/reaction.argument.ts"
 import { reactionFile } from "akasha/command/argument/pages/reaction-file.argument.ts"
 import { slug as slugArgument } from "akasha/command/argument/pages/slug.argument.ts"
@@ -52,7 +52,7 @@ const TXT = "txt"
 
 const TARGET = gradeTarget.said
 
-const RATING = rating.said
+const GRADE = grade.said
 
 const WHOLE = true
 
@@ -63,7 +63,7 @@ const SONG_PROSE = [personalConnections.slug, insights.slug]
 const TAKES = [
   json,
   slugArgument,
-  rating,
+  grade,
   reactionFile,
   personalConnectionsFile,
   insightsFile,
@@ -88,7 +88,7 @@ export const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as cons
 export type Taken = {
   readonly target: string
   readonly slug: string
-  readonly rating: string | null
+  readonly grade: string | null
   readonly prose: ReadonlyMap<string, string>
   readonly json: boolean
 }
@@ -97,7 +97,7 @@ export type Reading = Taken | { readonly refused: readonly string[] }
 
 function wrongIn(
   target: string,
-  grade: string | null,
+  marked: string | null,
   prose: ReadonlyMap<string, string>
 ): string | null {
   const strayed = (target === ARTIST ? SONG_PROSE : ARTIST_PROSE).filter((one) => prose.has(one))
@@ -106,9 +106,9 @@ function wrongIn(
     const other = target === ARTIST ? SONG : ARTIST
     return `${named} applies to \`${TARGET} ${other}\` rather than to \`${TARGET} ${target}\``
   }
-  if (grade !== null || prose.size > 0) return null
+  if (marked !== null || prose.size > 0) return null
   const own = (target === ARTIST ? ARTIST_PROSE : SONG_PROSE).map((one) => `\`--${one}\``)
-  return `nothing is recorded by this call — name \`${RATING}\` or ${own.join(" or ")}`
+  return `nothing is recorded by this call — name \`${GRADE}\` or ${own.join(" or ")}`
 }
 
 export function taken(argv: readonly string[], given: Given): Reading {
@@ -123,11 +123,11 @@ export function taken(argv: readonly string[], given: Given): Reading {
       ],
     }
   }
-  const grade = held.rating ?? null
-  if (grade !== null && !MUSIC_RATINGS.some((one) => one === grade)) {
+  const marked = held.grade ?? null
+  if (marked !== null && !MUSIC_RATINGS.some((one) => one === marked)) {
     return {
       refused: [
-        `\`${RATING}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${grade}\``,
+        `\`${GRADE}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${marked}\``,
       ],
     }
   }
@@ -148,21 +148,21 @@ export function taken(argv: readonly string[], given: Given): Reading {
     const key = keys[at]
     if (key !== undefined && one.text !== undefined) prose.set(key, one.text)
   }
-  const wrong = wrongIn(target, grade, prose)
+  const wrong = wrongIn(target, marked, prose)
   if (wrong !== null) return { refused: [wrong] }
-  return { target, slug: held.slug, rating: grade, prose, json: held.json }
+  return { target, slug: held.slug, grade: marked, prose, json: held.json }
 }
 
 export function valuesFor(was: Value, held: Taken): Value {
   const values: Value = { ...was }
-  if (held.rating !== null) values["rank"] = held.rating
+  if (held.grade !== null) values["rank"] = held.grade
   for (const one of held.prose.keys()) values[exportedAs(one)] = TXT
   return values
 }
 
 export function saidOf(held: Taken): string {
   return held.json
-    ? JSON.stringify({ target: held.target, slug: held.slug, rating: held.rating })
+    ? JSON.stringify({ target: held.target, slug: held.slug, grade: held.grade })
     : `Recorded ${held.target} ${held.slug}`
 }
 

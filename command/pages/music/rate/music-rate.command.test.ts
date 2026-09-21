@@ -69,9 +69,9 @@ function pathsIn(asked: readonly Asking[]): readonly string[] {
   return asked.map((one) => ("at" in one.given ? one.given.at : ""))
 }
 
-function ratingAurora(reach: Reach) {
+function gradingAurora(reach: Reach) {
   return musicRate(
-    ["--target", ARTIST, "--slug", RATED, "--rating", "A", "--reaction", REACTION],
+    ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
     GIVEN,
     reach.landing
   )
@@ -103,15 +103,15 @@ test("a flag this takes nothing of is refused", () => {
 })
 
 test("a target that is neither an artist nor a song is refused", () => {
-  expect(refusalOf(["--target", "album", "--slug", "a", "--rating", "A"])).toContain("`album`")
+  expect(refusalOf(["--target", "album", "--slug", "a", "--grade", "A"])).toContain("`album`")
 })
 
 test("a call naming no slug is refused", () => {
-  expect(refusalOf(["--target", SONG, "--rating", "A"])).toContain("`--slug`")
+  expect(refusalOf(["--target", SONG, "--grade", "A"])).toContain("`--slug`")
 })
 
-test("a rating off the ladder is refused", () => {
-  expect(refusalOf(["--target", SONG, "--slug", "a", "--rating", "A++"])).toContain("`A++`")
+test("a grade off the ladder is refused", () => {
+  expect(refusalOf(["--target", SONG, "--slug", "a", "--grade", "A++"])).toContain("`A++`")
 })
 
 test("insights named for an artist are refused", () => {
@@ -148,13 +148,13 @@ test("a flag named twice is refused", () => {
   expect(refusalOf(["--target", SONG, "--target", ARTIST])).toContain("is said twice")
 })
 
-test("a rating and prose are taken together", () => {
+test("a grade and prose are taken together", () => {
   const held = takingOf([
     "--target",
     SONG,
     "--slug",
     "mitski-nobody",
-    "--rating",
+    "--grade",
     "S+",
     "--insights",
     "it turns at the bridge",
@@ -162,7 +162,7 @@ test("a rating and prose are taken together", () => {
   ])
   expect(held.target).toBe(SONG)
   expect(held.slug).toBe("mitski-nobody")
-  expect(held.rating).toBe("S+")
+  expect(held.grade).toBe("S+")
   expect(held.prose.get("insights")).toBe("it turns at the bridge")
   expect(held.json).toBe(true)
 })
@@ -173,7 +173,7 @@ test("prose is read off the file its flag names", () => {
   writeFileSync(at, "she sings it plainly\n")
   const held = takingOf(["--target", ARTIST, "--slug", "mitski", "--reaction-file", at])
   expect(held.prose.get("reaction")).toBe("she sings it plainly\n")
-  expect(held.rating).toBe(null)
+  expect(held.grade).toBe(null)
   scratch.sweep()
 })
 
@@ -182,13 +182,13 @@ test("a file that is not there is refused", () => {
   expect(said).toContain("would not open")
 })
 
-test("the values carry the rating and mark the prose beside the page", () => {
+test("the values carry the grade and mark the prose beside the page", () => {
   const held = takingOf([
     "--target",
     SONG,
     "--slug",
     "mitski-nobody",
-    "--rating",
+    "--grade",
     "A",
     "--personal-connections",
     "the drive home",
@@ -200,15 +200,15 @@ test("the values carry the rating and mark the prose beside the page", () => {
 })
 
 test("what is recorded is said as a line or as JSON", () => {
-  const held = takingOf(["--target", SONG, "--slug", "a", "--rating", "B"])
+  const held = takingOf(["--target", SONG, "--slug", "a", "--grade", "B"])
   expect(saidOf(held)).toBe(`Recorded ${SONG} a`)
-  const asJson = takingOf(["--target", SONG, "--slug", "a", "--rating", "B", "--json"])
-  expect(JSON.parse(saidOf(asJson))).toEqual({ target: SONG, slug: "a", rating: "B" })
+  const asJson = takingOf(["--target", SONG, "--slug", "a", "--grade", "B", "--json"])
+  expect(JSON.parse(saidOf(asJson))).toEqual({ target: SONG, slug: "a", grade: "B" })
 })
 
 test("the page and its prose are named to the landing at the change writing any path", async () => {
   const reach = reaching()
-  const said = await ratingAurora(reach)
+  const said = await gradingAurora(reach)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   const one = reach.reached[0]
@@ -221,44 +221,44 @@ test("the page and its prose are named to the landing at the change writing any 
 
 test("the prose named to the landing is text rather than bytes", async () => {
   const reach = reaching()
-  await ratingAurora(reach)
+  await gradingAurora(reach)
   const prose = reach.reached[0]?.asked[1]
   if (prose === undefined) throw new Error("no prose reached the landing")
   expect("body" in prose.given ? prose.given.body : null).toBe(REACTION)
 })
 
 test("what landed is reported under the line saying what was recorded", async () => {
-  const said = await ratingAurora(reaching())
+  const said = await gradingAurora(reaching())
   expect(said.report[0]).toBe(`Recorded ${ARTIST} ${RATED}`)
   expect(said.report).toContain(`wrote ${RATED_AT}`)
 })
 
 test("a landing that refused is answered with the refusal and nothing recorded", async () => {
   const refused = { refusals: ["another landing held the lock"], code: EXIT.OPERATIONAL }
-  const said = await ratingAurora(reaching(refused))
+  const said = await gradingAurora(reaching(refused))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["another landing held the lock"])
   expect(said.report).toEqual([])
 })
 
 test("a landing answering something wrong is answered as a refusal", async () => {
-  const said = await ratingAurora(reaching({ ...LANDED, wrong: ["the install would not take"] }))
+  const said = await gradingAurora(reaching({ ...LANDED, wrong: ["the install would not take"] }))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the install would not take"])
 })
 
 const GAVE_OUT = new Error("the grade landed and the push gave out")
 
-function ratingThrowing(wrote: readonly string[]) {
+function gradingThrowing(wrote: readonly string[]) {
   return musicRate(
-    ["--target", ARTIST, "--slug", RATED, "--rating", "A", "--reaction", REACTION],
+    ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
     GIVEN,
     throwingAfter(wrote, GAVE_OUT)
   )
 }
 
 test("a run that landed the grade and then threw names that commit", async () => {
-  const said = await ratingThrowing(["abc123"])
+  const said = await gradingThrowing(["abc123"])
 
   expect(said.report).toEqual(["abc123"])
   expect(said.refusals.at(-1)).toBe(partWay(["abc123"])[0])
@@ -266,7 +266,7 @@ test("a run that landed the grade and then threw names that commit", async () =>
 })
 
 test("a run that threw with nothing recorded says why it threw and no more", async () => {
-  const said = await ratingThrowing([])
+  const said = await gradingThrowing([])
 
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("the push gave out")
@@ -275,7 +275,7 @@ test("a run that threw with nothing recorded says why it threw and no more", asy
 
 test("a run that wrote the page and the prose names both in the order written", async () => {
   const wrote = [`wrote ${RATED_AT}`, `wrote ${REACTION_AT}`]
-  const said = await ratingThrowing(wrote)
+  const said = await gradingThrowing(wrote)
 
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toBe(partWay(wrote)[0])
@@ -283,7 +283,7 @@ test("a run that wrote the page and the prose names both in the order written", 
 
 test("the page written again hands in the body it was composed against", async () => {
   const reach = reaching()
-  await ratingAurora(reach)
+  await gradingAurora(reach)
   const page = reach.reached[0]?.asked[0]
   if (page === undefined) throw new Error("no page reached the landing")
 
@@ -292,7 +292,7 @@ test("the page written again hands in the body it was composed against", async (
 
 test("the prose beside the page hands in no body it was composed against", async () => {
   const reach = reaching()
-  await ratingAurora(reach)
+  await gradingAurora(reach)
   const prose = reach.reached[0]?.asked[1]
   if (prose === undefined) throw new Error("no prose reached the landing")
 
