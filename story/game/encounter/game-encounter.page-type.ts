@@ -12,6 +12,13 @@ export const gameEncounter = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "text-property/listed-note", required: false, many: false },
+    { pageProperty: "relation-property/encounter-location", required: true, many: false },
+    {
+      pageProperty: "relation-property/encounter-entities",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -33,4 +40,5 @@ export const gameEncounter = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["relation-property/encounter-location", "relation-property/encounter-entities"],
 } as const satisfies PageType

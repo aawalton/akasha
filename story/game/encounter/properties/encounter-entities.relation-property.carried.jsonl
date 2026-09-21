@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entity met in two encounters is one page named twice."}]}
+{"definition":"who or what an encounter puts in front of the player"}
+{"id":"01a0c647-77ab-7f56-928d-9a09312c406d"}
+{"propertySlug":"entities"}
+{"slug":"encounter-entities"}
+{"targetPageType":"page-type/game-entity"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

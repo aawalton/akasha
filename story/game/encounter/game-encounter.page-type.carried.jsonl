@@ -2,8 +2,9 @@
 {"definition":"what a place sets in the way of the one playing through it"}
 {"extends":["page-type/page"]}
 {"id":"01a0c646-f4a2-7d92-926e-fd2c7fef9eb1"}
+{"parts":["relation-property/encounter-location","relation-property/encounter-entities"]}
 {"pluralSlug":"encounters"}
-{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/holding-game","required":true,"many":false},{"pageProperty":"text-property/listed-note","required":false,"many":false}]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/holding-game","required":true,"many":false},{"pageProperty":"text-property/listed-note","required":false,"many":false},{"pageProperty":"relation-property/encounter-location","required":true,"many":false},{"pageProperty":"relation-property/encounter-entities","required":false,"many":true,"maxCount":null}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"game-encounter"}
