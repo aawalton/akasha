@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatICutBeforeICutTheJob = {
+  id: "01a0c5a1-cc7e-7dfc-848a-f25422d69c69",
+  type: "page-type/all-about-alan-topic",
+  slug: "what-i-cut-before-i-cut-the-job",
+  title: "What I Cut Before I Cut The Job",
+  definition: "the years of clearing everything around work so that work could keep running",
+  parents: ["all-about-alan-topic/why-i-stopped-working"],
+  related: ["all-about-alan-topic/the-year-i-cut-everyone-out"],
+  settled:
+    "For years before the end I took away everything outside work to keep work going.\n\nSome income beat no income, and while that held it was the right way round.\n\nWhat it bought was time rather than a way out. The cost of the job went on rising underneath it.",
+} as const satisfies AllAboutAlanTopic
