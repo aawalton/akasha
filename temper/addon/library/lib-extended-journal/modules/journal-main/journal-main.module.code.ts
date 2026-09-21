@@ -1,4 +1,4 @@
-import "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
+import "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 
 import "akasha/temper/addon/library/lib-extended-journal/modules/journal-l10n/journal-l10n.module.code.ts"
 

@@ -1,4 +1,4 @@
-import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
+import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import { asNumber } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
 import type { StyleMotifItems } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"

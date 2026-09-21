@@ -1,7 +1,7 @@
 import {
   asGlobalTable,
   asNumber,
-} from "akasha/temper/addon/library/lccc/modules/lccc-casts/lccc-casts.module.code.ts"
+} from "akasha/temper/addon/lccc/modules/lccc-casts/lccc-casts.module.code.ts"
 import {
   chunk,
   decode,
@@ -11,7 +11,7 @@ import {
   readAndDecode,
   readBitFromEncodedData,
   unchunk,
-} from "akasha/temper/addon/library/lccc/modules/lccc-codec/lccc-codec.module.code.ts"
+} from "akasha/temper/addon/lccc/modules/lccc-codec/lccc-codec.module.code.ts"
 import {
   hslToRgb,
   int24ToHsl,
@@ -23,7 +23,7 @@ import {
   int32ToRgba,
   rgbaToInt32,
   rgbToInt24,
-} from "akasha/temper/addon/library/lccc/modules/lccc-color/lccc-color.module.code.ts"
+} from "akasha/temper/addon/lccc/modules/lccc-color/lccc-color.module.code.ts"
 import {
   clamp,
   compareCharIds,
@@ -44,7 +44,7 @@ import {
   registerString,
   runAfterInitialLoadscreen,
   tokenizeSlashCommandParameters,
-} from "akasha/temper/addon/library/lccc/modules/lccc-util/lccc-util.module.code.ts"
+} from "akasha/temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"
 import {
   concatTables,
   countTable,
@@ -52,7 +52,7 @@ import {
   mergeTables,
   processNumericTable,
   setupOnDemandDataTable,
-} from "akasha/temper/addon/library/lccc/modules/lccc-util-tables/lccc-util-tables.module.code.ts"
+} from "akasha/temper/addon/lccc/modules/lccc-util-tables/lccc-util-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const NAME = "LibCodesCommonCode"

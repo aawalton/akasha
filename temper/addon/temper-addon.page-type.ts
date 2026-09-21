@@ -50,6 +50,7 @@ export const temperAddon = {
     "temper-addon/temper-selector-addon",
     "temper-addon/temper-trading-addon",
     "boolean-property/addon-library",
+    "domain/temper-lccc",
   ],
   extends: ["page-type/service"],
   properties: [

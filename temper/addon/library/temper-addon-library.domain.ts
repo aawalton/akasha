@@ -31,7 +31,6 @@ export const temperAddonLibrary = {
     "temper-addon/temper-lib-table-functions",
     "temper-addon/temper-lib-treasure",
     "temper-addon/temper-lib-zone",
-    "domain/temper-lccc",
     "temper-addon/temper-lib-shifter-box",
     "temper-addon/temper-lib-histoire",
     "temper-addon/temper-lib-scrollable-menu",
