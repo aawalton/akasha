@@ -19,9 +19,5 @@ export const fileDomain = {
       decisionKind: "decision-kind/departure",
       statement: "The page a file belongs to is composed out of that file's own name.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "One reading of the index answers every question a run of this warrant asks.",
-    },
   ],
 } as const satisfies ContextWarrant
