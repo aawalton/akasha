@@ -13,38 +13,45 @@ const COMPANION_RAPPORT_SOURCES: readonly CompanionRapportSource[] = [
   {
     defId: 9,
     name: "Azandar",
-    sources: ["Enchanting Writ Daily", "Necrom Delve Daily"],
+    sources: ["Enchanting Writ Daily", "Necrom Delve Daily (Ordinator Tilena)"],
   },
-  { defId: 1, name: "Bastian", sources: ["Mages Guild Daily"] },
+  { defId: 1, name: "Bastian", sources: ["Mages Guild Daily (Alvur Baren)"] },
   {
     defId: 5,
     name: "Ember",
-    sources: ["Mages Guild Daily", "Thieves Guild Heist Daily", "High Isle Delve Daily"],
+    sources: [
+      "Thieves Guild Heist Daily",
+      "Mages Guild Daily (Alvur Baren)",
+      "High Isle Delve Daily (Wayllod)",
+    ],
   },
   {
     defId: 6,
     name: "Isobel",
-    sources: ["High Isle Delve Daily", "High Isle World Boss Daily"],
+    sources: ["Undaunted Daily (Bolgrul)", "High Isle World Boss Daily (Parisse Plouff)"],
   },
   {
     defId: 2,
     name: "Mirri",
-    sources: ["Fighters Guild Daily", "Ashlander Daily (Numani-Rasi)"],
+    sources: ["Fighters Guild Daily (Cardea Gallus)", "Ashlander Relic Daily (Numani-Rasi)"],
   },
   {
     defId: 8,
     name: "Sharp-as-Night",
-    sources: ["Ashlander Hunt Daily", "Necrom World Boss Daily"],
+    sources: [
+      "Ashlander Daily (Sorim-Nakar or Numani-Rasi)",
+      "Necrom World Boss Daily (Ordinator Nelyn)",
+    ],
   },
   {
     defId: 12,
     name: "Tanlorin",
-    sources: ["Fighters Guild Daily", "Alchemy Writ Daily"],
+    sources: ["Fighters Guild Daily (Cardea Gallus)", "Alchemy Writ Daily"],
   },
   {
     defId: 13,
     name: "Zerith-var",
-    sources: ["Northern Elsweyr Defense Force Daily", "Tales of Tribute Daily"],
+    sources: ["Defense Force Daily (Zahari, Grahtwood Northern Gate)", "Tales of Tribute Daily"],
   },
 ]
 

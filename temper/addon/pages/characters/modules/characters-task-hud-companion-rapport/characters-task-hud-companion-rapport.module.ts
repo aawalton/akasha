@@ -6,4 +6,15 @@ export const charactersTaskHudCompanionRapport = {
   slug: "characters-task-hud-companion-rapport",
   definition: "the first companion whose rapport is not full, with the dailies that raise it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A daily is named only where that daily is worth a hundred and twenty-five rapport.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A daily is named with whoever offers it.",
+    },
+  ],
 } as const satisfies Module
