@@ -28,5 +28,9 @@ export const mechanicRun = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs a mechanic or reads a file.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row rolled from dice says what handful was rolled and what each die showed.",
+    },
   ],
 } as const satisfies Module

@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import type { Dice } from "akasha/story/game/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
 
 const DIGEST = "sha256"
 
@@ -17,9 +18,20 @@ export type MechanicRun = {
   readonly reading: unknown
   readonly answered: unknown
   readonly bonuses: readonly Bonus[]
+  readonly dice: Dice | null
   readonly seed: string | null
   readonly follows: string | null
   readonly said: string | null
+}
+
+function diceIn(held: unknown): Dice | null {
+  if (!isRecord(held)) return null
+  const said = held["said"]
+  const sides = held["sides"]
+  const faces = held["faces"]
+  if (typeof said !== "string" || typeof sides !== "number" || !Array.isArray(faces)) return null
+  if (faces.some((one) => typeof one !== "number")) return null
+  return { said, sides, faces: faces as readonly number[] }
 }
 
 function bonusesIn(held: unknown): readonly Bonus[] {
@@ -54,6 +66,7 @@ export function runIn(line: string): MechanicRun | null {
     reading: held["reading"] ?? null,
     answered: held["answered"] ?? null,
     bonuses: bonusesIn(held["bonuses"]),
+    dice: diceIn(held["dice"]),
     seed: textIn(held["seed"]),
     follows: textIn(held["follows"]),
     said: textIn(held["said"]),

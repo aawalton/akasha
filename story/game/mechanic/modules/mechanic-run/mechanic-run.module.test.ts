@@ -11,6 +11,7 @@ const RAN = {
   reading: { attribute: 11, difficulty: 24 },
   answered: { hit: true, margin: 3 },
   bonuses: [{ from: "a skill", by: 2 }],
+  dice: { said: "2d10", sides: 10, faces: [5, 7] },
   seed: "473365282",
   follows: null,
   said: "modest success",
@@ -35,6 +36,12 @@ test("a line naming no mechanic reads as no row", () => {
 test("a bonus that is no bonus is left out rather than half read", () => {
   const held = runIn('{"turn":1,"mechanic":"a","bonuses":[{"from":"b"},{"from":"c","by":3}]}')
   expect(held?.bonuses).toEqual([{ from: "c", by: 3 }])
+})
+
+test("dice that are no dice read as none rather than as half a roll", () => {
+  const held = runIn('{"turn":1,"mechanic":"a","dice":{"said":"2d10","faces":[5,7]}}')
+  expect(held?.dice).toBe(null)
+  expect(runIn('{"turn":1,"mechanic":"a"}')?.dice).toBe(null)
 })
 
 test("a row follows the row before it by that row's hash", () => {
