@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
   id: "01a0a6c5-4ba8-71a0-ac37-d0fec41cd5e1",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-ozdust-duet-bonus-track-commentary",
+  grade: "C",
   ownLength: 1.472,
   ownProgress: 1.472,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
