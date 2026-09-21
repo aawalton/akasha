@@ -33,6 +33,11 @@ export const nimueImageManagement = {
         "Not met. Of 11,287 image files under `~/To Process` and `persona/pages`, 4,468 are a copy of something: 2,080 pictures are held more than once, 2,388 copies are redundant, and those redundant copies hold 3.09GB. The heaviest are 1,511 in `zimage-outputs`, 875 in `Personas`, 747 in `To Sort` and 624 in `Sorted`, and 78 of the 80 committed persona PNGs are byte-identical to a file under `~/To Process`. Measured by sha256 over every file whose size another file shares.",
     },
     {
+      statement: "Every image Alan has already graded keeps that grade.",
+      workingMemory:
+        "`~/To Process/Sorted` holds the grade as a folder and nowhere else: S+ 1, S 19, S- 29, A+ 97, A 160, A- 299, B+ 402, B 222, B- 166, 1,395 files in all. A migration reading only bytes loses every mark. 624 of those files are byte-identical to a file elsewhere in the tree, so a dedup keeping an arbitrary copy loses the mark too, and the graded copy is the one to keep. `To Sort` holds 1,520 files carrying no mark.",
+    },
+    {
       statement: "Every image outside the repository is a page, or is gone.",
       workingMemory:
         "Reaches about 11,200 files and 15GB under `~/To Process`, of which 2,873 are already generation-log rows; 37 persona covers in the SeaweedFS bucket `agent-sessions`, which `/api/image/:imageId` and the `cover` field on 54 committed pages serve; and 999 run-made images at absolute paths, 970 of them lost with the old workstation. Nothing resolves an `image-root`, so the `~/To Process` tree is unreachable from code today.",
@@ -47,11 +52,6 @@ export const nimueImageManagement = {
       statement: "No image's bytes are in the object store.",
       workingMemory:
         "Not met, and not worked before the migration above. `/api/image/:imageId` serves 37 persona covers, 112 generation-log rows and 14 food entries out of the SeaweedFS bucket `agent-sessions` under `images/<pageId>.png`, with a legacy `persona-images/` prefix costing a third HEAD on every miss. 54 committed pages hold a literal `/api/image/<uuid>` in `cover`, and `PageCover` writes an arbitrary pasted URL into that same field.",
-    },
-    {
-      statement: "Every image Alan has already graded keeps that grade.",
-      workingMemory:
-        "`~/To Process/Sorted` holds the grade as a folder and nowhere else: S+ 1, S 19, S- 29, A+ 97, A 160, A- 299, B+ 402, B 222, B- 166, 1,395 files in all. A migration reading only bytes loses every mark. 624 of those files are byte-identical to a file elsewhere in the tree, so a dedup keeping an arbitrary copy loses the mark too, and the graded copy is the one to keep. `To Sort` holds 1,520 files carrying no mark.",
     },
   ],
   constraints: [
