@@ -432,10 +432,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-gen-set-data-preloaded/lib-sets-gen-set-data-preloaded.module.ts","id":"01a061dd-1562-75b4-97b2-c821be9c1a17"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-gen-set-info/lib-sets-gen-set-info.module.ts","id":"01a061fc-cee5-75d4-9e8c-3b140c7e89cc"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-treasure/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
-{"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
-{"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
+{"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
+{"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}
@@ -460,6 +460,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts","id":"01a05fba-ce3b-7214-b302-f798be22e99e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/skill-type.text-property.ts","id":"01a05fba-ce3b-7869-b428-d3dd2f8703d7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-data-port/libsets-data-port.module.ts","id":"01a06341-d9e8-7001-b3d8-ac888e8c7c0b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
 {"propertySlug":"decision-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
 {"propertySlug":"decision-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
@@ -802,8 +804,6 @@
 {"propertySlug":"decision-kind","path":"temper/thing/properties/category-id.text-property.ts","id":"01a05fba-ce38-7da7-8f2a-a30aa8bbacae"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/companion-id.text-property.ts","id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/parent.text-property.ts","id":"01a05fba-ce39-70e6-a46f-4b11e5d2a508"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/libsets-data-port/libsets-data-port.module.ts","id":"01a06341-d9e8-7001-b3d8-ac888e8c7c0b"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.ts","id":"01a063c7-b064-74a3-9ffc-0be1edaadd02"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.ts","id":"01a06381-35cf-7009-899f-7e56d47c8435"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}

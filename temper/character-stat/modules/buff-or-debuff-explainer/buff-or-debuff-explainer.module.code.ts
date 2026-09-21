@@ -1,5 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import type { PotionSource } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
+import type { PotionSource } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { getBuffOrDebuffId } from "akasha/temper/character-stat/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import {
   getMetricDisplayName,

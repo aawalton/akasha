@@ -1,4 +1,4 @@
-import { potions } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
+import { potions } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import type { PipelineStage } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import { lookupSourceUnlessSentinel } from "akasha/temper/character-stat/modules/source-lookup/source-lookup.module.code.ts"

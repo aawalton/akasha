@@ -801,8 +801,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/quests-addon/temper-quests-addon.eso-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
 {"propertySlug":"decision-kind","path":"temper/addon/trading-addon/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
-{"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
-{"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts","id":"01a0616b-5a16-7e5f-b792-c43a0671a8d9"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
@@ -825,8 +823,15 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/modules/poi-catalog-schema/poi-catalog-schema.module.ts","id":"01a06084-d419-7e65-9fe0-2100e873d96e"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
+{"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.ts","id":"01a06282-dfc3-722f-9afd-a38cf3034d7a"}
 {"propertySlug":"decision-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
 {"propertySlug":"decision-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
@@ -1394,11 +1399,6 @@
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-7/skyshards-part-7.module.ts","id":"01a061a8-9c69-75a2-b7b3-9f86f9d709aa"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-8/skyshards-part-8.module.ts","id":"01a061a8-9c69-769d-b065-e5762fce5d41"}
 {"propertySlug":"decision-kind","path":"temper/skyshard/modules/skyshards-part-9/skyshards-part-9.module.ts","id":"01a061a8-9c6a-7345-8144-0e0b6adb0bc0"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
-{"propertySlug":"decision-kind","path":"temper/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.ts","id":"01a06282-dfc3-722f-9afd-a38cf3034d7a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.ts","id":"01a06381-35cf-7a07-8865-e71df4fc233b"}

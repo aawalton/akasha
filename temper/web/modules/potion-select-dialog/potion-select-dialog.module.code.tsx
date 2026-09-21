@@ -5,7 +5,7 @@ import {
   type PotionId,
   type PotionSource,
   potions,
-} from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
+} from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {

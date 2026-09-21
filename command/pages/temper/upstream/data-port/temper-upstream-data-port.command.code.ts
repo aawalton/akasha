@@ -14,15 +14,15 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperUpstreamDataPort as page } from "akasha/command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { port as portHousing } from "akasha/temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"
-import { port as portMapData } from "akasha/temper/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"
-import { port as portTreasure } from "akasha/temper/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"
-import type { UpstreamLibrary } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
+import { port as portHousing } from "akasha/temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"
+import { port as portMapData } from "akasha/temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"
+import { port as portTreasure } from "akasha/temper/catalog/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"
+import type { UpstreamLibrary } from "akasha/temper/catalog/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
 import {
   libraryNamed,
   UPSTREAM_LIBRARIES,
-} from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
-import { port as portZone } from "akasha/temper/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.code.ts"
+} from "akasha/temper/catalog/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
+import { port as portZone } from "akasha/temper/catalog/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.code.ts"
 
 const CODE_ROOT_ENV = "CODE_ROOT"
 

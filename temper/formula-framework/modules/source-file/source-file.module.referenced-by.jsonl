@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/alchemy/modules/poison-source/poison-source.module.code.ts"}
-{"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/alchemy/modules/potion-source/potion-source.module.code.ts"}
+{"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/catalog/alchemy/modules/poison-source/poison-source.module.code.ts"}
+{"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"}
 {"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/character-source/modules/attributes-source/attributes-source.module.code.ts"}
 {"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/character-source/modules/base-source/base-source.module.code.ts"}
 {"propertySlug":"import","fileName":"source-file.module.code.ts","path":"temper/character-source/modules/drink-source/drink-source.module.code.ts"}

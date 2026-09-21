@@ -1,4 +1,4 @@
-import type { PotionId } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
+import type { PotionId } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import type { SkillId } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"

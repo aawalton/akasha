@@ -15,6 +15,8 @@ export const temperCatalog = {
     "page-type/temper-skill",
     "domain/temper-catalog-core",
     "domain/temper-catalog-side-file",
+    "domain/temper-upstream-data",
+    "domain/temper-alchemy",
   ],
   decisions: [
     {
