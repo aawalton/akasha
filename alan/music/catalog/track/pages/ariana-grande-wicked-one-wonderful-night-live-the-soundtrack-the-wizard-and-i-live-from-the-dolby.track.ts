@@ -4,7 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   id: "01a0a6c5-0c4d-71fa-b330-0eb9857b0430",
   type: "page-type/track",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-the-wizard-and-i-live-from-the-dolby",
-  grade: "B-",
+  grade: "C",
   ownLength: 5.883583333333333,
   ownProgress: 5.883583333333333,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
