@@ -15,6 +15,7 @@ export const gamePanel = {
     "game-panel/quest-list",
     "game-panel/story-so-far",
     "game-panel/aravel-hud",
+    "module/panel-turning",
   ],
   decisions: [
     {
