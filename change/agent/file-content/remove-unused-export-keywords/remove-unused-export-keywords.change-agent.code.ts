@@ -13,6 +13,7 @@ import {
   pathsNaming,
   TYPED_KINDS,
 } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
+import { leftAloneIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import {
   groupsSparing,
   loadersSparing,
@@ -78,16 +79,6 @@ export type Asked = Readonly<Record<string, string>>
 
 export const takes: readonly string[] = [MOST, BUT]
 
-function leftAlone(said: string | undefined): ReadonlySet<string> {
-  if (said === undefined) return new Set()
-  return new Set(
-    said
-      .split("\n")
-      .map((one) => one.trim())
-      .filter((one) => one.length > 0)
-  )
-}
-
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   for (const key of Object.keys(given)) {
     if (key !== MOST && key !== BUT) return refusing(untaken(key, takes))
@@ -98,5 +89,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (!Number.isInteger(most) || most < 1) {
     return refusing(`\`${said}\` is no count of files to drop the keyword in`)
   }
-  return await removeUnusedExportKeywords(world, most, leftAlone(given[BUT]))
+  return await removeUnusedExportKeywords(world, most, leftAloneIn(given[BUT]))
 }

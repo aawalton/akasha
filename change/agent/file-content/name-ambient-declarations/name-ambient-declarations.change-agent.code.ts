@@ -10,6 +10,7 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { openedIn } from "akasha/change/modules/import-lines/import-lines.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { leftAloneIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import {
   bindingOf,
   declaredIn,
@@ -24,6 +25,8 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 const AT = "at"
 
 const MOST = "most"
+
+const BUT = "but"
 
 const DECLARING = "type-declaration"
 
@@ -116,13 +119,18 @@ function namedIn(
   return splicing(path, text, [splicedTo(text, now)])
 }
 
-export function nameAmbientDeclarations(world: World, at: string, most: number): Answer {
+export function nameAmbientDeclarations(
+  world: World,
+  at: string,
+  most: number,
+  but: ReadonlySet<string> = new Set()
+): Answer {
   const declaring = declaringIn(world)
   const edits: FileChange[] = []
   let named = 0
   for (const path of [...world.under(at)].sort()) {
     if (named >= most) break
-    if (!typed(path) || path.endsWith(DECLARED)) continue
+    if (!typed(path) || path.endsWith(DECLARED) || but.has(path)) continue
     const found = namedIn(world, declaring, path)
     if (found.length === 0) continue
     edits.push(...found)
@@ -133,11 +141,11 @@ export function nameAmbientDeclarations(world: World, at: string, most: number):
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [AT, MOST]
+export const takes: readonly string[] = [AT, MOST, BUT]
 
 export function runChange(world: World, given: Asked): Answer {
   for (const key of Object.keys(given)) {
-    if (key !== AT && key !== MOST) return refusing(untaken(key, takes))
+    if (key !== AT && key !== MOST && key !== BUT) return refusing(untaken(key, takes))
   }
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
@@ -147,5 +155,5 @@ export function runChange(world: World, given: Asked): Answer {
   if (!Number.isInteger(most) || most < 1) {
     return refusing(`\`${said}\` is no count of files to name declarations in`)
   }
-  return nameAmbientDeclarations(world, at, most)
+  return nameAmbientDeclarations(world, at, most, leftAloneIn(given[BUT]))
 }

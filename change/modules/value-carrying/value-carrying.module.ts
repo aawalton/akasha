@@ -73,6 +73,14 @@ export const valueCarrying = {
       decisionKind: "decision-kind/departure",
       statement: "A count that is no whole number above nothing is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The paths a run leaves alone are handed in one to a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line with nothing but blank space on it names no path.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

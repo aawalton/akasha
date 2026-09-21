@@ -54,6 +54,10 @@ export const nameAmbientDeclarations = {
       statement: "A run names declarations in at most the count of files handed in.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A path handed in to leave alone is left as it is.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A declaration file itself is left alone.",
     },

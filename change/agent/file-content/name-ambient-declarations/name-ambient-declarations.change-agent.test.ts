@@ -76,6 +76,12 @@ test("a run names declarations in at most the count of files handed in", () => {
   expect(nameAmbientDeclarations(world, AT, 2).edits).toHaveLength(2)
 })
 
+test("a path handed in to leave alone is left as it is", () => {
+  const world = worldHolding({ [FAR]: DECLARES, [ONE]: SPELLS, [TWO]: SPELLS }, [FAR_PAGE])
+
+  expect(nameAmbientDeclarations(world, AT, 10, new Set([ONE])).edits).toHaveLength(1)
+})
+
 test("a declaration file itself is left alone", () => {
   const world = worldHolding({ [FAR]: DECLARES }, [FAR_PAGE])
 

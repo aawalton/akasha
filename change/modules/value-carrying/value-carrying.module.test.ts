@@ -6,6 +6,7 @@ import {
   carriedIn,
   holdingIn,
   keyAskedIn,
+  leftAloneIn,
   spelledAs,
 } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
@@ -201,6 +202,17 @@ test("a count handed in is read as a whole number", () => {
 
 test("a count that is no whole number above nothing is refused", () => {
   expect(atMostIn("none")).toContain("is no count of pages")
+})
+
+test("the paths a run leaves alone are read one to a line", () => {
+  expect([...leftAloneIn("  one/two.ts \n\n three/four.ts\n")]).toEqual([
+    "one/two.ts",
+    "three/four.ts",
+  ])
+})
+
+test("a run handed no paths to leave alone leaves none alone", () => {
+  expect([...leftAloneIn(undefined)]).toEqual([])
 })
 
 test("the arguments handed in become what the carrying is asked for", () => {

@@ -11,6 +11,8 @@ const AT_MOST = "at-most"
 
 const KEY = "key"
 
+const LINE = "\n"
+
 export type ValueCarryingAsked = {
   readonly pageType: string
   readonly from: string
@@ -74,6 +76,16 @@ export function carriedIn(world: World, given: ValueCarryingAsked): readonly Car
     }
   }
   return found
+}
+
+export function leftAloneIn(said: string | undefined): ReadonlySet<string> {
+  if (said === undefined) return new Set()
+  return new Set(
+    said
+      .split(LINE)
+      .map((one) => one.trim())
+      .filter((one) => one.length > 0)
+  )
 }
 
 export function atMostIn(said: string | undefined): number | null | string {
