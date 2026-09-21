@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHypUAAIBhhRMy5V1QulrUKVO1ClTtQpU7UKVO1ClTtQSk3UEpN1BKTdJhFJyxTRScsAAAHN0RazE8AAAAAAAAAAAAAgDUEgBAGEATQAIAAQAACECADJwA7AGYABmABCA0IABDJIFAjExAwgQAwCAMAHIBgQdEAADg4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATQHypUAAIBhhRMy5V1QulrUKVO1ClTtQpU7UKVO1ClTtQSk3UEpN1BKTdJhFJyxTRScsAAAHN0RazE8AAAAAAAAAAAAAgDUEgBAGEATQAIAAQAACECADJwA7AGYABmABCA0YABDJIFQjExAwgQAwCBMwHIBgQdEAADg4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 6,
@@ -3645,7 +3645,7 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentXP": 123,
+      "currentXP": 249,
       "currentRank": 14,
       "nextRankXP": 300
     },
@@ -3656,7 +3656,7 @@
     },
     "118": {
       "currentXP": 45,
-      "currentRank": 7,
+      "currentRank": 8,
       "nextRankXP": 50
     },
     "130": {
@@ -5122,7 +5122,7 @@
     "groupDungeonTotal": 21,
     "tutorial": 0,
     "skyshardPoints": 173,
-    "unassigned": 58,
+    "unassigned": 53,
     "zoneQuestTotal": 64,
     "publicDungeons": {
       "EP4": 1,
