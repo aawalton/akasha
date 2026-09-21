@@ -17,6 +17,11 @@ import type {
   TaskInstance,
   WaitFunc,
 } from "akasha/temper/addon/library/lib-async/modules/async-types/async-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 lib.GetDebug = function (this: typeof lib): boolean {
   return S.debug

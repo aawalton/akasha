@@ -11,6 +11,8 @@ import type {
   Lib,
   LoggerInstance,
 } from "akasha/temper/addon/library/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.d.ts"
 
 export function initApi(): undefined {
   const loggerClass = INTERNAL.class.Logger

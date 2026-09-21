@@ -14,6 +14,14 @@ import {
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/items-addon/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import { dispatchBuyRules } from "akasha/temper/addon/items-addon/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 export function onOpenStore(): undefined {
   const soldLinks: string[] = []
   const bagSize = GetBagSize(BAG_BACKPACK)

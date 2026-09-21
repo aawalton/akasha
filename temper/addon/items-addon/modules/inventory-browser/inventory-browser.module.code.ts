@@ -20,6 +20,8 @@ import {
   type BrowserWindowHandle,
   createBrowserWindow,
 } from "akasha/temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 interface BrowserState {
   window: BrowserWindowHandle

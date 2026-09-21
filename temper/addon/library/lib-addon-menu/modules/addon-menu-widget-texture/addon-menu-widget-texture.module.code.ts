@@ -13,6 +13,8 @@ import {
   createBaseControl,
   setUpTooltip,
 } from "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const MIN_HEIGHT = 26
 

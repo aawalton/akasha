@@ -4,6 +4,7 @@ import {
   type AccountData,
   KEYBINDER_STATE,
 } from "akasha/temper/addon/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 const ACCOUNT_DEFAULTS: AccountData = { Keybindings: {} }
 

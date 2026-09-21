@@ -7,6 +7,8 @@ import { getSavedVariables } from "akasha/temper/addon/items-addon/modules/inven
 import type { ExplainTrace } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import type { SkillGateEval } from "akasha/temper/addon/items-addon/modules/inventory-skill-gate-eval-types/inventory-skill-gate-eval-types.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const PREFIX = "[TemperExplain]"
 const TEMPER_USAGE = "Usage: /temper inventory explain [item link]"

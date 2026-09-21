@@ -78,6 +78,18 @@ import { registerAutoListResultEvents } from "akasha/temper/addon/items-addon/mo
 import { registerVenueDispatchEvents } from "akasha/temper/addon/items-addon/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/addon/items-addon/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
 import { migrateLocksToTemperLocks } from "akasha/temper/addon/items-addon/modules/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const NET_WORTH_DEBOUNCE_MS = 500
 let netWorthRecomputePending = false

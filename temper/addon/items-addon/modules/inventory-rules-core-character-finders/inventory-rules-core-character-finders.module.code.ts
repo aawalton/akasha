@@ -11,6 +11,13 @@ import type {
   ItemKey,
   UseDestinationContext,
 } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-10/eso-enums-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function buildUnlockItemKey(itemLink: string, itemType: number): ItemKey | undefined {
   if (itemType === ITEMTYPE_RECIPE) {

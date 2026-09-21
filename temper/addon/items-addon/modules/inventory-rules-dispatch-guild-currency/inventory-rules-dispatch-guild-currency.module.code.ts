@@ -5,6 +5,12 @@ import {
   CURRENCY_DISPLAY_NAMES,
   CURRENCY_KEY_TO_CURT,
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function transferToGuildBank(this: void, curt: number, amount: number): undefined {
   if (IsProtectedFunction("TransferCurrency")) {

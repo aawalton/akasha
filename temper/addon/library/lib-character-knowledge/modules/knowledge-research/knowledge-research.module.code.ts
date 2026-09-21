@@ -2,6 +2,16 @@ import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.
 import { asNumber } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import type { ResearchReverseEntry } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export type TradeskillLookup = Record<number, unknown>
 

@@ -1,3 +1,6 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export type FuncOfTask = (this: void, task: TaskInstance) => unknown
 
 export type LoopBodyFunc = (this: void, ...args: unknown[]) => unknown

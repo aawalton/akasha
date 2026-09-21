@@ -8,6 +8,8 @@ import {
   INTERNAL,
   PUBLIC,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 type KnowFn = (this: void, itemLink: string) => boolean
 function asKnowFn(value: unknown): KnowFn {

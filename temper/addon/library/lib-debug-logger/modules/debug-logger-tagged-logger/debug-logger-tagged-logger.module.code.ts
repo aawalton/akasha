@@ -10,6 +10,8 @@ import type {
   LoggerClass,
   LoggerInstance,
 } from "akasha/temper/addon/library/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 
 const SUB_LOGGER_TAG_TEMPLATE = "%s/%s"
 

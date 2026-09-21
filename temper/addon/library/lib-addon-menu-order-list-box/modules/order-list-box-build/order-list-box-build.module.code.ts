@@ -46,6 +46,9 @@ import {
   updateButtonsEnabledState,
 } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-row-setup/order-list-box-row-setup.module.code.ts"
 import { wm } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-state/order-list-box-state.module.code.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-shape/order-list-box-shape.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 export function createOrderListBox(
   this: void,

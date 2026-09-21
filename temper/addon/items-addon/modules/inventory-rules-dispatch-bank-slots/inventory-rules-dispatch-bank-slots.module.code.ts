@@ -2,6 +2,14 @@ import { LOC_HOUSE_BANK_PREFIX } from "akasha/temper/addon/items-addon/modules/i
 import { getDatabase } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { LocationData } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { slotKey } from "akasha/temper/addon/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 export interface BankSlotContext {
   reserved: LuaMap<number, true>
   vacated: LuaMap<number, true>

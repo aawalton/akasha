@@ -16,6 +16,11 @@ import {
   KEYBIND_DATA_TYPE,
 } from "akasha/temper/addon/keybinder-addon/modules/keybinder-constants/keybinder-constants.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/addon/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"
+import "akasha/temper/addon/keybinder-addon/keybinder-declarations/keybinder-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const SYNC_IDENTIFIER = "TEMPER_VOTANS_SYNCKEYBINDINGS"
 

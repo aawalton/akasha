@@ -20,6 +20,17 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-data/fco-mail-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail/fco-mail.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-map/fco-map.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-overall/fco-overall.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-panel-action-bars/fco-panel-action-bars.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-panel-features/fco-panel-features.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-quest/fco-quest.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-slash-command/fco-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-tooltips/fco-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}

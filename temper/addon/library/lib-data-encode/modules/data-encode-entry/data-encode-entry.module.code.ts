@@ -1,6 +1,8 @@
 import { LIB_NAME } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-charset/data-encode-charset.module.code.ts"
 import { performSelfTest } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-self-test/data-encode-self-test.module.code.ts"
 import { DATA_ENCODE } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-surface/data-encode-surface.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 globalThis.LibDataEncode = DATA_ENCODE
 

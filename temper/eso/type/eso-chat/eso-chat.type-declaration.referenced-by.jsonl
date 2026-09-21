@@ -10,4 +10,14 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-chat/fco-chat.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-print/quiet-print.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-async/modules/async-api/async-api.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-chat-message/modules/chat-proxy/chat-proxy.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-settings/debug-logger-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

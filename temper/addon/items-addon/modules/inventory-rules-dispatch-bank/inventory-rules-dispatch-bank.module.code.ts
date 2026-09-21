@@ -25,6 +25,14 @@ import {
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
 import { executeBankWithdrawals } from "akasha/temper/addon/items-addon/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
 import { refreshBackpackActions } from "akasha/temper/addon/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const MAX_VAULT_WITHDRAW_OPS = 50
 

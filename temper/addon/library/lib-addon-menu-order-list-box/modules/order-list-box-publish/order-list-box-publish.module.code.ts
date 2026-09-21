@@ -11,6 +11,7 @@ import {
   LAM,
   STATE,
 } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-state/order-list-box-state.module.code.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 const EVENT_ADD_ON_LOADED_NAMESPACE = "LibAddonMenuOrderListBox_EVENT_ADD_ON_LOADED"
 

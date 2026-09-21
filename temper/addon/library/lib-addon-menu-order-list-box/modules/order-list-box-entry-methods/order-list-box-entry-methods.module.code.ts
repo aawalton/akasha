@@ -1,3 +1,8 @@
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-control-shapes/order-list-box-control-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-shape/order-list-box-shape.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+
 export function removeValue(this: OrderListBox, index?: number, uniqueKey?: number): boolean {
   if (index === undefined && uniqueKey === undefined) {
     return false

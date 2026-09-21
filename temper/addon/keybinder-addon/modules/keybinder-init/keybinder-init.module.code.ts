@@ -14,6 +14,16 @@ import {
   resetBindingSyncState,
 } from "akasha/temper/addon/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"
 import { getUiString } from "akasha/temper/addon/keybinder-addon/modules/keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
+import "akasha/temper/addon/keybinder-addon/keybinder-declarations/keybinder-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function isKeybindingsEmpty(this: void, held: Record<string, VkBind[] | undefined>): boolean {
   return Object.keys(held).length === 0

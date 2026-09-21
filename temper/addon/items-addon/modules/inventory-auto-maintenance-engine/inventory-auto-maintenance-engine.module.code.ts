@@ -6,6 +6,15 @@ import {
   orderSoulGems,
 } from "akasha/temper/addon/items-addon/modules/inventory-auto-maintenance-select/inventory-auto-maintenance-select.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/addon/items-addon/modules/inventory-config/inventory-config.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const WEAPON_SLOTS: readonly number[] = [
   EQUIP_SLOT_MAIN_HAND,

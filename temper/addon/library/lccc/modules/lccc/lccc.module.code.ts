@@ -53,6 +53,7 @@ import {
   processNumericTable,
   setupOnDemandDataTable,
 } from "akasha/temper/addon/library/lccc/modules/lccc-util-tables/lccc-util-tables.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const NAME = "LibCodesCommonCode"
 const VERSION = 36

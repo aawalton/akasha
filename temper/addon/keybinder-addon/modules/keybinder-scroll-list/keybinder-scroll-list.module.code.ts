@@ -6,6 +6,13 @@ import { asControl } from "akasha/temper/addon/keybinder-addon/modules/keybinder
 import { KEYBIND_DATA_TYPE } from "akasha/temper/addon/keybinder-addon/modules/keybinder-constants/keybinder-constants.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/addon/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"
 import { getUiString } from "akasha/temper/addon/keybinder-addon/modules/keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function changeKeybindGlobal(this: void, control: Control, checkState: number): undefined {
   const parent = control.GetParent()

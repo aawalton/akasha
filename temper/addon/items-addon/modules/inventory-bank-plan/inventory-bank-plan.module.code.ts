@@ -2,6 +2,8 @@ import { resolveCharacterNameById } from "akasha/temper/addon/items-addon/module
 import type { MatchedRuleResult } from "akasha/temper/addon/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { isSavedVariablesReady } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { addToTally } from "akasha/temper/addon/items-addon/modules/inventory-tally/inventory-tally.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 export interface BankTransitionSummary {
   totalUnits: number
   characters: Array<{ label: string; count: number }>

@@ -1,5 +1,6 @@
 import { asStringChunks } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.code.ts"
 import { MAX_SAVE_DATA_LENGTH } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function writeToSavedVariable(this: void, value: unknown): unknown {
   let output: unknown = value

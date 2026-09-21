@@ -1,5 +1,8 @@
 import { extractItemData } from "akasha/temper/addon/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function scanStandardBag(bagId: number): Record<number, ItemData> {
   const items: Record<number, ItemData> = {}

@@ -6,6 +6,11 @@ import {
   isRftwContainer,
 } from "akasha/temper/addon/items-addon/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 
 let cachedCurrentCharKnowsAll: boolean | undefined
 let cachedAllCharsKnowAll: boolean | undefined

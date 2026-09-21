@@ -3,6 +3,10 @@ import { getSavedVariables } from "akasha/temper/addon/items-addon/modules/inven
 import { createFilterBar } from "akasha/temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"
 import { createFilterController } from "akasha/temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { buildFilterIndex } from "akasha/temper/items/filters/core/modules/search-filter-registry/search-filter-registry.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
 export function initializeFilterBar(): undefined {
   const index = buildFilterIndex()
 

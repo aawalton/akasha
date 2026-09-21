@@ -12,6 +12,11 @@ import {
   getLocationDisplayName,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const FIXED_LOCATION_VIEWS: readonly (readonly [FixedLocationViewId, string])[] = [
   ["all", "All"],

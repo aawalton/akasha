@@ -1,4 +1,8 @@
 import { isTemperLocked } from "akasha/temper/addon/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const LOCK_TEXTURE = "EsoUI/Art/Miscellaneous/locked_up.dds"
 

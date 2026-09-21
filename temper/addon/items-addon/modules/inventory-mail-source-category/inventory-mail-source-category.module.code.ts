@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 export type MailHeader = {
   senderDisplayName: string
   subject: string

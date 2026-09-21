@@ -21,6 +21,11 @@ import {
   registerForRefreshIfNeeded,
   setUpTooltip,
 } from "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function onLinkClicked(
   this: void,

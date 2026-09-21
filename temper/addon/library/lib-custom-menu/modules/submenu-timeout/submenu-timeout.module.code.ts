@@ -1,4 +1,5 @@
 import { SUBMENU_SHOW_TIMEOUT } from "akasha/temper/addon/library/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 
 const HANDLE_PREFIX = "LibCustomMenuSubMenuTimeout"
 

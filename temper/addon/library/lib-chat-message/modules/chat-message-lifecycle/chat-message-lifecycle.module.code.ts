@@ -13,6 +13,18 @@ import { registerSlashCommand } from "akasha/temper/addon/library/lib-chat-messa
 import type { HistoryEntry } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-types/chat-message-types.module.code.ts"
 import { createChatProxy } from "akasha/temper/addon/library/lib-chat-message/modules/chat-proxy/chat-proxy.module.code.ts"
 import { readFromSavedVariable } from "akasha/temper/addon/library/lib-chat-message/modules/chat-saved-data/chat-saved-data.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-link-handler/eso-link-handler.type-declaration.d.ts"
 
 export function registerLifecycle(this: void): undefined {
   EVENT_MANAGER.RegisterForEvent(

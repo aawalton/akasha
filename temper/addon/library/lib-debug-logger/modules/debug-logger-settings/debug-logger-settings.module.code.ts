@@ -3,6 +3,12 @@ import {
   LIB,
 } from "akasha/temper/addon/library/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"
 import type { Settings } from "akasha/temper/addon/library/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const TAG_TEMPLATE = "[%s] %s"
 

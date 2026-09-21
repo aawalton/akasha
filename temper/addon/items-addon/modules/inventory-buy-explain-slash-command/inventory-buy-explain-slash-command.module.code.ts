@@ -3,6 +3,9 @@ import { buildBuyExplainTrace } from "akasha/temper/addon/items-addon/modules/in
 import { captureOrNull } from "akasha/temper/addon/items-addon/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { BuyExplainRule } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const PREFIX = "[TemperBuyExplain]"
 

@@ -7,6 +7,8 @@ import {
 } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"
 import type { ChatProxy } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-types/chat-message-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function registerSlashCommand(this: void, chat: ChatProxy): undefined {
   SLASH_COMMANDS["/chatmessage"] = (params: string): undefined => {

@@ -9,6 +9,14 @@ import {
   type LamRegistrar,
   registerPanel,
 } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 function asLamRegistrar(value: unknown): LamRegistrar<object, unknown, unknown[]> {
   return value as LamRegistrar<object, unknown, unknown[]>

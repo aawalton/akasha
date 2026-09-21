@@ -7,6 +7,12 @@ import {
 import type { LcmSubmenuParent } from "akasha/temper/addon/library/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import { menu } from "akasha/temper/addon/library/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
 import { setTimeout } from "akasha/temper/addon/library/lib-custom-menu/modules/submenu-timeout/submenu-timeout.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const wm = WINDOW_MANAGER
 

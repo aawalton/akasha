@@ -7,6 +7,7 @@ import type {
   TaskInstance,
   WaitFunc,
 } from "akasha/temper/addon/library/lib-async/modules/async-types/async-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 taskProto.Delay = function (
   this: TaskInstance,

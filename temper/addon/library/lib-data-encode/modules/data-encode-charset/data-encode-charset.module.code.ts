@@ -1,4 +1,5 @@
 import type { ControlCharSpec } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-types/data-encode-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export const LIB_NAME = "LibDataEncode"
 export const SHORT_NAME = "LDE"

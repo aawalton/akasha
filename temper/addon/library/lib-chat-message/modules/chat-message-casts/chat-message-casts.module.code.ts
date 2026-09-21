@@ -2,6 +2,7 @@ import type {
   HistoryEntry,
   Settings,
 } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-types/chat-message-types.module.code.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 export type GlobalTable = Record<string, unknown>
 

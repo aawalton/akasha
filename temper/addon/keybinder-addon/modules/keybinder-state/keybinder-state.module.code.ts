@@ -1,3 +1,6 @@
+import "akasha/temper/addon/keybinder-addon/keybinder-declarations/keybinder-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+
 export interface AccountData {
   Keybindings: Record<string, VkBind[] | undefined>
 }

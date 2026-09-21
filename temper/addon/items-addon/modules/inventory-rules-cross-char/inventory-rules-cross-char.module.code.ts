@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+
 const CHARACTER_DESTINATION_PREFIX = "character:"
 
 export function isVendorCrossCharDestination(destination: string | undefined): boolean {

@@ -1,5 +1,12 @@
 import { installActionBarTimerHooks } from "akasha/temper/addon/interface-addon/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"
 import { STATE } from "akasha/temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/interface-addon/fco-controls/fco-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const skillsWindow = SKILLS_WINDOW
 

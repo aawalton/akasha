@@ -6,6 +6,8 @@ import { mapStuff } from "akasha/temper/addon/interface-addon/modules/fco-map/fc
 import { overallSetDoNotInterruptInWorldOnMenuOpen } from "akasha/temper/addon/interface-addon/modules/fco-overall/fco-overall.module.code.ts"
 import { STATE } from "akasha/temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"
 import type { AddonSettings } from "akasha/temper/addon/interface-addon/modules/fco-types/fco-types.module.code.ts"
+import "akasha/temper/addon/library-type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 export function buildKeybindControls(
   this: void,

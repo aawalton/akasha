@@ -13,6 +13,10 @@ import {
   STANDARD_KEYBINDS,
 } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-strings/addon-keybinds-strings.module.code.ts"
 import type { LakTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
+import "akasha/temper/addon/library/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
 
 export function onLoad(
   this: void,

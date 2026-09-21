@@ -3,6 +3,8 @@ import {
   UNKNOWN_LINK_TYPE,
 } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.d.ts"
 
 function unknownTypeReformatter(
   this: void,

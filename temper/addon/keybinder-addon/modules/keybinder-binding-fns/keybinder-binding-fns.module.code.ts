@@ -1,3 +1,7 @@
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
+
 type UnbindFn = (this: void, layerIndex: number, categoryIndex: number, actionIndex: number) => void
 type BindFn = (
   this: void,

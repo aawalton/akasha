@@ -23,6 +23,8 @@ import {
   clearWritCraftQueue,
   onWritCraftCompleted,
 } from "akasha/temper/addon/items-addon/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 export function registerVenueDispatchEvents(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_OpenStore`,

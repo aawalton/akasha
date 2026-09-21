@@ -21,6 +21,13 @@ import {
   resetMenuItem,
 } from "akasha/temper/addon/library/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"
 import { subMenuItemFactory } from "akasha/temper/addon/library/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 function addMenuItem(
   this: void,

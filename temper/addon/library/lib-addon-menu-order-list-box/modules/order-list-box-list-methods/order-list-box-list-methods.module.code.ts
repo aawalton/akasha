@@ -13,6 +13,19 @@ import { setMouseCursor } from "akasha/temper/addon/library/lib-addon-menu-order
 import { checkOrderListBoxEntriesForCorrectFormat } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-errors/order-list-box-errors.module.code.ts"
 import { updateRemoveEntryEnabledState } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-row-setup/order-list-box-row-setup.module.code.ts"
 import { getStringFromValue } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-state/order-list-box-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-control-shapes/order-list-box-control-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-shape/order-list-box-shape.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-scroll-list-extra/eso-scroll-list-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 export function populate(this: OrderListBox, orderListBoxData: OrderListBoxData): ListEntry[] {
   const masterList = orderListBoxData.listEntries ?? []

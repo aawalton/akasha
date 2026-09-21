@@ -6,6 +6,10 @@ import type {
   MasterWritProbeQuest,
   MasterWritProbeStep,
 } from "akasha/temper/addon/items-addon/modules/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function probeCondition(
   this: void,

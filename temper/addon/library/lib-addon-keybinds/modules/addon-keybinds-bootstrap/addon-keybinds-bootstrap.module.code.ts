@@ -6,6 +6,10 @@ import {
   LAK_VERSION,
 } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-names/addon-keybinds-names.module.code.ts"
 import type { LakTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
 
 export function installLibAddonKeybinds(this: void): undefined {
   const glob = globalThis as GlobalTable

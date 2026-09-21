@@ -1,5 +1,8 @@
 import { SHORT_NAME } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-charset/data-encode-charset.module.code.ts"
 import type { TestResult } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-types/data-encode-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 function resolveLogLevels(): {
   verbose: unknown

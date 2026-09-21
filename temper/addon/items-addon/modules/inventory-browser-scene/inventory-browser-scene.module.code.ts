@@ -1,4 +1,6 @@
 import type { BrowserWindowHandle } from "akasha/temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const DOCKED_SCENES: readonly string[] = [
   "inventory",

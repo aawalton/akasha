@@ -5,6 +5,12 @@ import {
   JEWELRY_INDEX_RANGES,
   selectStyle,
 } from "akasha/temper/addon/items-addon/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 export interface SpecMatch {
   bag: number
   slot: number

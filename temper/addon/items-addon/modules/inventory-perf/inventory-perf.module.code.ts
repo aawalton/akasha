@@ -1,5 +1,9 @@
 import { getInventoryConfig } from "akasha/temper/addon/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function getPerfTracingLevel(): "none" | "minimal" {
   const level = getInventoryConfig().logging?.perfTracing

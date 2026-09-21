@@ -4,6 +4,13 @@ import {
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
 import type { CharacterRecord } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const DIAGNOSTICS = INTERNAL.diagnostics
 

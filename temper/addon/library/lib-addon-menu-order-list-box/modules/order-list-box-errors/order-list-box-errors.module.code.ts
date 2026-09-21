@@ -2,6 +2,9 @@ import {
   ERROR_TEXTS,
   WIDGET_PREFIX,
 } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-constants/order-list-box-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-shape/order-list-box-shape.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function errorOutput(
   this: void,

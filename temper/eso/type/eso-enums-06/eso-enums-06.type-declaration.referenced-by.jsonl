@@ -6,5 +6,16 @@
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-guild-history/fco-guild-history.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-currency/inventory-currency.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-events/inventory-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-guild-repack/inventory-rules-dispatch-guild-repack.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/currency-catalog-capture/currency-catalog-capture.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

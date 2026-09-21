@@ -14,6 +14,7 @@ import type {
   LuaTable,
   TestResult,
 } from "akasha/temper/addon/library/lib-data-encode/modules/data-encode-types/data-encode-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function compareTables(this: void, t1: unknown, t2: unknown): boolean {
   if (type(t1) !== type(t2)) {

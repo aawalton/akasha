@@ -5,6 +5,9 @@ import {
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { reportAction } from "akasha/temper/addon/items-addon/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { clearTemperLock } from "akasha/temper/addon/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 export function dispatchUnlockActions(): undefined {
   const items: { bagId: number; slotIndex: number; itemLink: string }[] = []
   forEachPendingAction(function (this: void, bagId, slotIndex, action): undefined {

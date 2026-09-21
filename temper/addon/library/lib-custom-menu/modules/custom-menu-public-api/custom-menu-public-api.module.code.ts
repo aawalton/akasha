@@ -21,6 +21,9 @@ import {
   getValueOrCallback,
   noop,
 } from "akasha/temper/addon/library/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 function addCustomMenuItem(
   this: void,

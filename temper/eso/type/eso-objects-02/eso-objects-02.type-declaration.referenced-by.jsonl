@@ -6,6 +6,9 @@
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}

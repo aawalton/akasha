@@ -1,4 +1,9 @@
 import { getSavedVariables } from "akasha/temper/addon/interface-addon/modules/quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 
 const UNOWNED_HOUSE_ICON = "/esoui/art/icons/poi/poi_group_house_unowned.dds"
 const OWNED_HOUSE_ICON = "/esoui/art/icons/poi/poi_group_house_owned.dds"

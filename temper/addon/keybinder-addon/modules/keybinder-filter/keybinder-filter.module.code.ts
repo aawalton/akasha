@@ -1,5 +1,10 @@
 import { KEYBIND_MANAGER } from "akasha/temper/addon/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/addon/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
 
 const FILTER_IDENTIFIER = "TEMPER_KEYBINDER_FILTER_CHANGED"
 

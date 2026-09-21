@@ -6,6 +6,18 @@ import {
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/items-addon/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import { postGuildStoreItem } from "akasha/temper/modules/guild-store-poster/guild-store-poster.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 export interface ListingCandidate {
   bagId: number
   slotIndex: number

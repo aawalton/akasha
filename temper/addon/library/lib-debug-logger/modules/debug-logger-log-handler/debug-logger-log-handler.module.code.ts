@@ -11,6 +11,10 @@ import type {
   LogEntry,
   LoggerConfig,
 } from "akasha/temper/addon/library/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 declare const debug: { traceback: (this: void, message?: string, level?: number) => string }
 

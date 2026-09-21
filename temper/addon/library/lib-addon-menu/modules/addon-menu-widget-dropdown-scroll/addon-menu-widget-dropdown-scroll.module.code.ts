@@ -2,6 +2,11 @@ import type {
   DropdownData,
   LamControl,
 } from "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 const DEFAULT_VISIBLE_ROWS = 10
 const PADDING_Y = ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y

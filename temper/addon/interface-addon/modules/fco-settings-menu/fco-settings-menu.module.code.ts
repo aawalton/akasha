@@ -42,6 +42,14 @@ import {
 import { buildTooltipsControls } from "akasha/temper/addon/interface-addon/modules/fco-panel-tooltips/fco-panel-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/interface-addon/fco-controls/fco-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const FAVORITES_EXCLUDED_LIST_STATUS_ICON = "/esoui/art/buttons/cancel_down.dds"
 const favoritesExcludedListStatusIconText = zo_iconTextFormatNoSpace(

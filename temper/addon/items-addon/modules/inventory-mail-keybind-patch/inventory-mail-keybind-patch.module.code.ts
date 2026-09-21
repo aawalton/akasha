@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-mail/eso-mail.type-declaration.d.ts"
+
 const TARGET_KEYBIND = "UI_SHORTCUT_HELP"
 
 let patched = false

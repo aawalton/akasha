@@ -15,6 +15,11 @@ import {
   getDefaultValue,
   util,
 } from "akasha/temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-state/order-list-box-state.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-control-shapes/order-list-box-control-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu-order-list-box/order-list-box-shape/order-list-box-shape.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 
 export function getShowPositionInfoFromListBoxData(
   this: void,

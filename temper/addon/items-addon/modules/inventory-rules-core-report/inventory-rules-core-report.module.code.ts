@@ -1,6 +1,9 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/addon/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const VALID_REPORT_LEVELS = ["none", "minimal", "verbose"]
 

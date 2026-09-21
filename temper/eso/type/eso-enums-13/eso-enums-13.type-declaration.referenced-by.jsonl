@@ -10,6 +10,10 @@
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-required-skill/writ-required-skill.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smithing/writ-smithing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-scribing/knowledge-scribing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.code.ts"}

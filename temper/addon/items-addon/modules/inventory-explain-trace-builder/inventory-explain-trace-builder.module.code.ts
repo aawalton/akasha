@@ -38,6 +38,11 @@ import type {
   WalkTrace,
 } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
 import { walkRules } from "akasha/temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-10/eso-enums-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const SCHEMA_VERSION = 1
 const MAX_REJECTIONS = 50

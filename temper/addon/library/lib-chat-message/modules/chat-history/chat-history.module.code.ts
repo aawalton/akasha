@@ -5,6 +5,9 @@ import {
 import { LIB } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"
 import type { HistoryEntry } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-types/chat-message-types.module.code.ts"
 import { writeToSavedVariable } from "akasha/temper/addon/library/lib-chat-message/modules/chat-saved-data/chat-saved-data.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export function getFormattedTime(this: void, timeStamp: number): string {
   const settings = LIB.settings ?? LIB.defaultSettings

@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+
 export interface MasterWritSpec {
   craftType: number
   itemId: number

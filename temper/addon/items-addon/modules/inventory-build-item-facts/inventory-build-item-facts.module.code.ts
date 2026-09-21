@@ -22,6 +22,13 @@ import { parsePotionData } from "akasha/temper/capture/characters-capture-addon/
 import { locationConditionFromKeyAndBag } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import { resolvePotionRestoreMetricIds } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 export function buildItemFactsForSlot(bagId: number, slotIndex: number): ItemFacts | undefined {
   const start = GetGameTimeMilliseconds()
   const facts = buildItemFactsForSlotInner(bagId, slotIndex)

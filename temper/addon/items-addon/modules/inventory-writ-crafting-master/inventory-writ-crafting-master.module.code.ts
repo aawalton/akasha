@@ -15,6 +15,9 @@ import {
   enqueueWritCraft,
   type WritCraftRequest,
 } from "akasha/temper/addon/items-addon/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const MASTER_SMITHING_CRAFT_TYPES = new LuaSet<number>()
 MASTER_SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)

@@ -2,4 +2,9 @@
 {"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-3.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

@@ -14,6 +14,12 @@ import {
   Warn,
 } from "akasha/temper/addon/library/lib-async/modules/async-state/async-state.module.code.ts"
 import type { TaskInstance } from "akasha/temper/addon/library/lib-async/modules/async-types/async-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function removeCall(job: TaskInstance, callstackIndex: number): undefined {
   job.callstack.splice(callstackIndex - 1, 1)

@@ -2,6 +2,10 @@ import type {
   CategoryDef,
   SubfilterDef,
 } from "akasha/temper/addon/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-10/eso-enums-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 
 const NO_TYPES: number[] = []
 

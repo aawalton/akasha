@@ -7,6 +7,7 @@ import {
   INTERNAL,
   PUBLIC,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type Versioned = { version?: unknown } | undefined
 function asVersioned(value: unknown): Versioned {

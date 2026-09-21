@@ -21,6 +21,8 @@ import type {
   PreventerVars,
   SettingsVars,
 } from "akasha/temper/addon/interface-addon/modules/fco-types/fco-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 
 export interface FcocsState {
   addonVars: AddonVars

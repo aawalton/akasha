@@ -5,6 +5,13 @@ import {
   type MailHeader,
   type MailSourceCategory,
 } from "akasha/temper/addon/items-addon/modules/inventory-mail-source-category/inventory-mail-source-category.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 export type MailHandlerState = "idle" | "waiting-response"
 
 const MAX_TAKE_PASSES = 25

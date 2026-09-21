@@ -12,6 +12,13 @@ import type { AddonItemAction } from "akasha/temper/addon/items-addon/modules/in
 import { computeStockTierDeposit } from "akasha/temper/addon/items-addon/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import { formatActionLabel } from "akasha/temper/items/rules/core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 export interface TooltipDecision {
   action: ItemAction
   destination: string | undefined

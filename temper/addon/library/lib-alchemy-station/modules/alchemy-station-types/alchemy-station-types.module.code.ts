@@ -1,3 +1,5 @@
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+
 export type AlchemyDescriptor = number | string
 
 export interface LasTabData {

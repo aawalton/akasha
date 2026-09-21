@@ -11,6 +11,13 @@ import {
   runTooltip,
 } from "akasha/temper/addon/library/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"
 import { clearTimeout } from "akasha/temper/addon/library/lib-custom-menu/modules/submenu-timeout/submenu-timeout.module.code.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-3/eso-api-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 const everyGlobal: unknown = globalThis
 const glob = everyGlobal as GlobalFnTable

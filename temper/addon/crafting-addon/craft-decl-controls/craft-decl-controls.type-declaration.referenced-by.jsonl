@@ -45,4 +45,17 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-functions/fco-functions.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-guild-history/fco-guild-history.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-utils/fco-utils.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-button/addon-menu-widget-button.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-iconpicker-menu/addon-menu-widget-iconpicker-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-iconpicker/addon-menu-widget-iconpicker.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/crafting-addon/temper-crafting-addon.eso-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}

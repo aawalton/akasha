@@ -4,6 +4,8 @@ import type {
   InventoryItemData,
   ResolvedActionSource,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 interface ResolvedActionValues {
   action: string

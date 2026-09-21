@@ -5,6 +5,11 @@ import {
   ENTERING_GROUP_AREA,
   LEAVING_GROUP_AREA,
 } from "akasha/temper/addon/interface-addon/modules/quiet-strings/quiet-strings.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
 
 export function hookAvAMessages(this: void): undefined {
   const savedVars = getSavedVariables()

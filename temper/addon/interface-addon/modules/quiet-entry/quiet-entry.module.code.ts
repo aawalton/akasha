@@ -52,6 +52,7 @@ import {
 import "akasha/temper/addon/interface-addon/modules/quiet-camera-keybind/quiet-camera-keybind.module.code.ts"
 import { initializeSavedVariables } from "akasha/temper/addon/interface-addon/modules/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 import { buildSettingsMenu } from "akasha/temper/addon/interface-addon/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
 
 export function initNoThankYou(this: void): undefined {
   initializeSavedVariables()

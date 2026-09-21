@@ -5,6 +5,12 @@ import {
 } from "akasha/temper/addon/interface-addon/modules/fco-settings-defaults/fco-settings-defaults.module.code.ts"
 import { STATE } from "akasha/temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"
 import type { AddonSettings } from "akasha/temper/addon/interface-addon/modules/fco-types/fco-types.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 interface SvTable {
   [key: string]: SvTable | undefined

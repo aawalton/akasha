@@ -14,6 +14,13 @@ import { slotKey } from "akasha/temper/addon/items-addon/modules/inventory-slot-
 import { setTemperLock } from "akasha/temper/addon/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import type { CompiledRuleConfig } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 export function getCompiledConfig(): CompiledRuleConfig | undefined {
   const compiled = getInventoryConfig().sellCompiled
   if (!compiled || compiled.version !== 3) return undefined

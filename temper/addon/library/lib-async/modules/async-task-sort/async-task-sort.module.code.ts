@@ -4,6 +4,8 @@ import type {
   CompareFunc,
   TaskInstance,
 } from "akasha/temper/addon/library/lib-async/modules/async-types/async-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function simpleCompare(this: void, a: unknown, b: unknown): boolean {
   return (a as number) < (b as number)

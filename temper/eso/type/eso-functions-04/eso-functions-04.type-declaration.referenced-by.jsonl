@@ -26,6 +26,17 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-timers/next-boss-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-group/fco-group.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-announcements/quiet-announcements.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/cadwell-catalog-capture/cadwell-catalog-capture.module.code.ts"}

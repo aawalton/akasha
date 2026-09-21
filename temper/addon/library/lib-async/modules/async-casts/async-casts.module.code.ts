@@ -6,6 +6,7 @@ import type {
   PairsIter,
   TaskInstance,
 } from "akasha/temper/addon/library/lib-async/modules/async-types/async-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export function asAsyncLib(value: unknown): AsyncLib {
   return value as AsyncLib

@@ -1,3 +1,7 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-string-ids/addon-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+
 export interface LamStrings {
   PANEL_NAME: string
   AUTHOR: string

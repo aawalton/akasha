@@ -14,6 +14,10 @@ import {
   hookAcceptOfferedQuest,
 } from "akasha/temper/addon/interface-addon/modules/quiet-world/quiet-world.module.code.ts"
 import { dropdown } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
 
 export function buildWorldSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()

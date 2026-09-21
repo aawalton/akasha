@@ -1,3 +1,5 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+
 export type Server = string
 export type CharId = string
 export type Account = string

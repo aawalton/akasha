@@ -5,6 +5,8 @@ import {
 } from "akasha/temper/addon/interface-addon/modules/fco-chat/fco-chat.module.code.ts"
 import { STATE } from "akasha/temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"
 import type { AddonSettings } from "akasha/temper/addon/interface-addon/modules/fco-types/fco-types.module.code.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function buildChatControls(
   this: void,

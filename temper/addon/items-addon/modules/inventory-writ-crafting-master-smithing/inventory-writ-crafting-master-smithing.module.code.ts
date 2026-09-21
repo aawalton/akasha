@@ -15,6 +15,13 @@ import type {
   MasterCraftOutcome,
   MasterCraftTrace,
 } from "akasha/temper/addon/items-addon/modules/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const SET_PATTERN_OFFSET: Record<number, number> = { [1]: 14, [2]: 15, [6]: 6, [7]: 2 }
 

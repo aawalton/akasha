@@ -1,4 +1,8 @@
 import { getInventoryConfig } from "akasha/temper/addon/items-addon/modules/inventory-config/inventory-config.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const CONFIRM_DIALOG_NAME = "TEMPERINVENTORY_CONFIRM_DESTRUCTIVE"
 

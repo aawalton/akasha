@@ -1,4 +1,9 @@
 import { KEYBIND_MANAGER } from "akasha/temper/addon/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/keybinder-addon/keybinder-declarations/keybinder-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.d.ts"
 
 export interface ActionRef {
   layerIndex: number

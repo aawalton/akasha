@@ -1,3 +1,8 @@
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-logger/addon-menu-logger.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 const MESSAGE_PREFIX = "[LAM2] "
 let messages: string[] = []
 

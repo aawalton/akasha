@@ -12,6 +12,15 @@ import {
   TAG_PREFIX_OFF,
 } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "akasha/temper/addon/library/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 type PostHook = (
   this: void,

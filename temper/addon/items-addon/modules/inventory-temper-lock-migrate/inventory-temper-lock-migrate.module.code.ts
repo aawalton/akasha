@@ -8,6 +8,9 @@ import {
   isTemperLocked,
   setTemperLock,
 } from "akasha/temper/addon/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 export function migrateLocksToTemperLocks(): undefined {
   const bags = [...PERSONAL_BAGS, ...BANK_BAGS]
   let seeded = 0

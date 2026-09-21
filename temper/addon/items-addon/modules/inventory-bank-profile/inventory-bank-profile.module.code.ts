@@ -13,6 +13,9 @@ import type {
 } from "akasha/temper/addon/items-addon/modules/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/addon/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const SCHEMA_VERSION = 1
 const TOP_N = 40

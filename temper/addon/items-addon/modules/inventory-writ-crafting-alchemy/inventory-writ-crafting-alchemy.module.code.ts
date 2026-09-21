@@ -16,6 +16,14 @@ import {
   newConsumableTrace,
   recordMasterConsumableTrace,
 } from "akasha/temper/addon/items-addon/modules/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const SOLVENT_ITEM_IDS = [883, 1187, 4570, 23265, 23266, 23267, 23268, 64500, 64501, 75364, 75365]
 

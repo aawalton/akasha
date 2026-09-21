@@ -54,6 +54,8 @@ import { registerRuleTooltipHook } from "akasha/temper/addon/items-addon/modules
 import { probeMasterWrits } from "akasha/temper/addon/items-addon/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 import { startPerfTrace } from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()

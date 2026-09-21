@@ -1,6 +1,11 @@
 import { LOC_COMPANION_PREFIX } from "akasha/temper/addon/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function equipTypeToEquipSlot(equipType: number): number | undefined {
   if (equipType === EQUIP_TYPE_HEAD) return EQUIP_SLOT_HEAD

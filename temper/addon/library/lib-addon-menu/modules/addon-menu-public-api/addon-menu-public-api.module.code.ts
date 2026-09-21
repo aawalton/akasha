@@ -20,6 +20,8 @@ import "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-widget-ico
 import "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-widget-slider/addon-menu-widget-slider.module.code.ts"
 import "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.code.ts"
 import "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 
 if (LAMSettingsPanelCreated !== undefined && LAMCompatibilityWarning !== true) {
   printLater(

@@ -7,4 +7,7 @@
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-windows/potion-windows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

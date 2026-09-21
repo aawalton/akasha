@@ -4,6 +4,7 @@ import {
   type NoThankYouSettings,
 } from "akasha/temper/addon/interface-addon/modules/quiet-defaults/quiet-defaults.module.code.ts"
 import { SAVED_VARIABLES_NAME } from "akasha/temper/addon/interface-addon/modules/quiet-identity/quiet-identity.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 let savedVarsInstance: NoThankYouSettings | undefined
 

@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export interface Settings {
   version: number
   timePrefixEnabled: boolean

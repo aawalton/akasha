@@ -8,6 +8,8 @@ import {
   EM,
   lib,
 } from "akasha/temper/addon/library/lib-async/modules/async-state/async-state.module.code.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface SchedulerManagerState {
   schedulerId: string | undefined

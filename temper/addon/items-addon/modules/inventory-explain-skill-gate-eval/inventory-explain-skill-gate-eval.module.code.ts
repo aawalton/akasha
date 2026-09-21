@@ -20,6 +20,9 @@ import {
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import { characterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 interface GatedRuleView {
   action?: string
