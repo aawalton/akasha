@@ -72,6 +72,16 @@ export const bodyLoading = {
         "Every module cached under the repository is dropped where a load comes for another change.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "A module cached under `node_modules` is not dropped, since no change carries one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A module loaded from a body the change left is dropped wherever that module sits.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The path being loaded is dropped from the cache before and after that load.",
     },

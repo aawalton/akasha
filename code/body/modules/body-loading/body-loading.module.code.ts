@@ -14,6 +14,8 @@ const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const CODE = /\.tsx?$/
 
+const MODULES = "/node_modules/"
+
 const NO_PLUGIN =
   "a body the change leaves is loaded with `Bun.plugin`, which only bun carries, and this runtime " +
   "holds no `Bun` global"
@@ -61,8 +63,9 @@ function forgotten(full: string): undefined {
 
 function forgottenUnder(root: string): undefined {
   const under = `${root}/`
+  const away = `${root}${MODULES}`
   for (const full of Object.keys(loadFrom.cache)) {
-    if (full.startsWith(under)) forgotten(full)
+    if (full.startsWith(under) && !full.startsWith(away)) forgotten(full)
   }
 }
 
@@ -102,7 +105,10 @@ const KEPT: { change: Change | null; bodies: ReadonlyMap<string, string> } = {
 }
 
 function closing(root: string): undefined {
-  for (const path of KEPT.bodies.keys()) bodyHeld.delete(path)
+  for (const path of KEPT.bodies.keys()) {
+    bodyHeld.delete(path)
+    forgotten(path)
+  }
   KEPT.change = null
   KEPT.bodies = NOTHING
   forgottenUnder(root)
