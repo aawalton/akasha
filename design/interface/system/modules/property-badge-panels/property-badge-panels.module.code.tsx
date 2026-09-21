@@ -161,7 +161,7 @@ const SELECTION_SAMPLES: readonly BadgeSample[] = [
       id: "ds-property-multi-select",
       title: "Stages",
       type: "multi-select",
-      drawnBy: ["multi-select-property", "page-property", "domain", "page"],
+      drawnBy: ["multi-select-property", "select-property", "page-property", "domain", "page"],
       config: { options: SELECT_OPTIONS },
     },
     value: ["review", "landed"],
@@ -250,7 +250,7 @@ const RELATION_SAMPLES: readonly BadgeSample[] = [
       id: "ds-property-multi-relation",
       title: "Members",
       type: "multi-relation",
-      drawnBy: ["multi-relation-property", "page-property", "domain", "page"],
+      drawnBy: ["multi-relation-property", "relation-property", "page-property", "domain", "page"],
     },
     value: [
       { id: "ds-page-crown-of-ember", title: "Crown of Ember" },
@@ -342,8 +342,8 @@ export function TextPropertyBadgesPanel() {
   return (
     <PanelCard id="ds-text-property-badges" collapsible title="Text Property Badges">
       <p className="text-secondary text-sm">
-        Only <code>url</code> and <code>json</code> carry a drawing of their own. The rest fall back
-        to the plain <code>page-property</code> badge.
+        <code>markdown</code>, <code>url</code> and <code>json</code> carry a drawing of their own.
+        The rest fall back to the plain <code>page-property</code> badge.
       </p>
       <SampleRows samples={TEXT_SAMPLES} />
     </PanelCard>
@@ -367,7 +367,8 @@ export function SelectionPropertyBadgesPanel() {
     <PanelCard id="ds-selection-property-badges" collapsible title="Selection Property Badges">
       <p className="text-secondary text-sm">
         <code>path-select</code> reaches no drawing of its own, so the fallback badge draws the text
-        its value holds. <code>multi-select</code> holds a list, which that fallback draws as empty.
+        its value holds. <code>multi-select</code> takes the select drawing off the page type it
+        extends, and draws a chip for each option chosen.
       </p>
       <SampleRows samples={SELECTION_SAMPLES} />
     </PanelCard>
