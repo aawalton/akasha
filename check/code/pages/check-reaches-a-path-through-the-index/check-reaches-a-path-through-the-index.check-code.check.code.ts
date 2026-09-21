@@ -18,6 +18,7 @@ import {
   pagingOf,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
+  type Carried,
   type Facing,
   generatedIn,
   toolResolvesPathsIn,
@@ -26,15 +27,22 @@ import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const FACING = new WeakMap<Shadow, Facing>()
 
-function facingFor(shadow: Shadow): Facing {
+export function facingFor(shadow: Shadow): Facing {
   const found = FACING.get(shadow)
   if (found !== undefined) return found
   const index = shadow.index
+  const carried = new Map<string, Carried>()
   const made: Facing = {
     kindsUnder: (of) => index.kindsUnder(of),
     everyOfType: (kind) => index.everyOfType(kind),
     valueAt: (path) => index.pageByPath(path),
-    carryingOf: (named) => index.carryingOf(named),
+    carryingOf: (named) => {
+      const held = carried.get(named)
+      if (held !== undefined) return held
+      const one = index.carryingOf(named)
+      carried.set(named, one)
+      return one
+    },
     root: shadow.root,
     holds: (path) => shadow.holds(path),
   }

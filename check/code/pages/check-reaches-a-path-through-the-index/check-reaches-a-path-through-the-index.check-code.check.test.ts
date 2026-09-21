@@ -1,5 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { checkReachesAPathThroughTheIndex } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.check.code.ts"
+import {
+  checkReachesAPathThroughTheIndex,
+  facingFor,
+} from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.check.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { shadowed } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import {
@@ -8,6 +11,7 @@ import {
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -38,6 +42,8 @@ const INDEX_TEST_AT = "akasha/one.index.test.ts"
 const INDEX_ID = "01a09163-1a4e-7001-aebe-6612c8d7f8e7"
 
 const ID = "01a04f2b-3d24-70b3-8c3e-3076a9299151"
+
+const CARRIED_BY = `${PAGE_TYPE}/${THING}`
 
 const LISTS = 'export const held = readdirSync("akasha/held")\n'
 
@@ -105,4 +111,23 @@ test("an index's own code is no input to this check and an index's test is", () 
   const shadow = shadowed(given)
   expect(checkReachesAPathThroughTheIndex.isInput(INDEX_CODE_AT, shadow)).toBe(false)
   expect(checkReachesAPathThroughTheIndex.isInput(INDEX_TEST_AT, shadow)).toBe(true)
+})
+
+test("what a page property carries is asked of the index once for the whole run", () => {
+  const given = change(rooted(), {})
+  const shadow = shadowed(given)
+  const asked: string[] = []
+  const counted: Shadow = {
+    ...shadow,
+    index: {
+      ...shadow.index,
+      carryingOf: (named) => {
+        asked.push(named)
+        return shadow.index.carryingOf(named)
+      },
+    },
+  }
+  const facing = facingFor(counted)
+  expect(facing.carryingOf(CARRIED_BY)).toBe(facing.carryingOf(CARRIED_BY))
+  expect(asked).toEqual([CARRIED_BY])
 })

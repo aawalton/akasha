@@ -295,6 +295,10 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which pages carry a page property is asked of the index once for the whole run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A body whose language is not parsed is read as the runs of path characters that body holds.",
     },
