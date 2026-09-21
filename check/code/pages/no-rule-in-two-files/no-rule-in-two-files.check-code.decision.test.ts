@@ -3,6 +3,7 @@ import {
   everySpeltIn,
   reasonsIn,
   refusalsOver,
+  wordOf,
 } from "akasha/check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"
 import {
   bothArriving,
@@ -188,6 +189,14 @@ test("a rule spelled inline is not seen, because only a function is read", () =>
   const inline = `const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())\n`
   const every = byRule([{ path: "two.module.code.ts", text: EXPORTED_AS }])
   expect(reasonsIn("one.ts", inline, every)).toEqual([])
+})
+
+test("the word looked for is the longest run no language keyword spells", () => {
+  expect(wordOf("$0 => $0 . filter ( $1 => $1 . readonly )")).toBe("filter")
+})
+
+test("a rule spelling nothing but keywords is looked for by its longest run all the same", () => {
+  expect(wordOf("$0 => typeof $0 === undefined")).toBe("undefined")
 })
 
 test("a change with no code file is refused nothing without the index being read", () => {

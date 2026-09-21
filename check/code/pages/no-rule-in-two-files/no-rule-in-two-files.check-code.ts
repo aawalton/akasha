@@ -161,7 +161,15 @@ export const noRuleInTwoFiles = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The word looked for is the longest run of a rule between spaces.",
+      statement: "The word looked for is the longest run of a rule no language keyword spells.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule spelling nothing else is looked for by its longest run all the same.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which runs a keyword spells is read from the compiler rather than from a list.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -187,7 +195,7 @@ export const noRuleInTwoFiles = {
     {
       decisionKind: "decision-kind/absence",
       statement:
-        "How common a word is in the tree is weighed by nothing, so a common word narrows little.",
+        "How common a word is in the tree is counted by nothing, so a common name narrows little.",
     },
   ],
   check: { maxCpuSeconds: 30 },

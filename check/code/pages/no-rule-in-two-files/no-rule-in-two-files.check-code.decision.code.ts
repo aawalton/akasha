@@ -13,6 +13,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { type Spelt, speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import ts from "typescript"
 
 export type Said = {
   readonly path: string
@@ -48,13 +49,27 @@ function speltOver(change: Change, over: readonly string[], held: Spelling): Say
   return (rule) => every.get(rule) ?? []
 }
 
-function wordOf(rule: string): string | null {
+function tokened(): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (let kind = ts.SyntaxKind.FirstToken; kind <= ts.SyntaxKind.LastToken; kind += 1) {
+    const said = ts.tokenToString(kind)
+    if (said !== undefined) found.add(said)
+  }
+  return found
+}
+
+const SPELLED: ReadonlySet<string> = tokened()
+
+export function wordOf(rule: string): string | null {
   let best: string | null = null
+  let named: string | null = null
   for (const word of rule.split(" ")) {
     if (word === "" || ORDERED.test(word) || BROKEN.test(word)) continue
     if (best === null || word.length > best.length) best = word
+    if (SPELLED.has(word)) continue
+    if (named === null || word.length > named.length) named = word
   }
-  return best
+  return named ?? best
 }
 
 function wordsIn(change: Change, held: Spelling): readonly string[] {
