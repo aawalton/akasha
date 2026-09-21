@@ -7,7 +7,6 @@ export const imagineDragonsIWasMeIWasMe = {
   ownLength: 3.2668833333333334,
   ownProgress: 3.2668833333333334,
   partOfCollections: ["release/imagine-dragons-i-was-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

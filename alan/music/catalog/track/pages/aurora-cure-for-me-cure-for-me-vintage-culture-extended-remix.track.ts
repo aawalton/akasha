@@ -10,7 +10,6 @@ export const auroraCureForMeCureForMeVintageCultureExtendedRemix = {
     "release/aurora-cure-for-me",
     "release/aurora-cure-for-me-vintage-culture-extended-remix",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

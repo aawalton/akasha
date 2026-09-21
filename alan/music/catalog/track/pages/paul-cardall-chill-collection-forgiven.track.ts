@@ -7,7 +7,6 @@ export const paulCardallChillCollectionForgiven = {
   ownLength: 4.352,
   ownProgress: 4.352,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

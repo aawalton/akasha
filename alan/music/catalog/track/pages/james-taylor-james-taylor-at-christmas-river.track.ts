@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasRiver = {
   ownLength: 3.5597666666666665,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-for-the-metal-people",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

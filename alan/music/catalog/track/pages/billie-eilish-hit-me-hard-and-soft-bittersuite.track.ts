@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftBittersuite = {
   ownLength: 4.974,
   ownProgress: 4.974,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

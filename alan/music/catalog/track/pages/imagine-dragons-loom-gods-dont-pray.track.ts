@@ -7,7 +7,6 @@ export const imagineDragonsLoomGodsDontPray = {
   ownLength: 2.83155,
   ownProgress: 2.83155,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayTheHardestPartTheHardestPart = {
   ownLength: 4.381333333333333,
   ownProgress: 4.381333333333333,
   partOfCollections: ["release/coldplay-the-hardest-part", "release/coldplay-x-y"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

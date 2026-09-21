@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipMyHeavenlyFatherLovesMe = {
   ownLength: 5.0357666666666665,
   ownProgress: 5.0357666666666665,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

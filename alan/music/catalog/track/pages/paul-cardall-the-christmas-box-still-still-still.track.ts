@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxStillStillStill = {
   ownLength: 2.3033333333333332,
   ownProgress: 2.3033333333333332,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

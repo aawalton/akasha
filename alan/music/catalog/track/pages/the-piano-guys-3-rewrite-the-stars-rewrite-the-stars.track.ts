@@ -7,7 +7,6 @@ export const thePianoGuys3RewriteTheStarsRewriteTheStars = {
   ownLength: 3.52555,
   ownProgress: 3.52555,
   partOfCollections: ["release/the-piano-guys-3-rewrite-the-stars"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

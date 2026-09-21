@@ -11,7 +11,6 @@ export const sylviaDaleyNoiseCancellingHeadphonesNoiseCancellingHeadphones = {
     "release/sylvia-daley-rubik-s-cube",
     "release/sylvia-daley-secure",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

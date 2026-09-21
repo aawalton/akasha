@@ -7,7 +7,6 @@ export const paulCardallSignOfAffection10thAnniversaryTheRiver = {
   ownLength: 4.331766666666667,
   ownProgress: 4.331766666666667,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

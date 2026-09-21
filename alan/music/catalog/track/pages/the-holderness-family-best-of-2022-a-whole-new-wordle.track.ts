@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022AWholeNewWordle = {
   ownLength: 2.5968,
   ownProgress: 2.5968,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

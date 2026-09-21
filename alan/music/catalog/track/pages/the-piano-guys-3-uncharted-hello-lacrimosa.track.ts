@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedHelloLacrimosa = {
   ownLength: 3.8625,
   ownProgress: 3.8625,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

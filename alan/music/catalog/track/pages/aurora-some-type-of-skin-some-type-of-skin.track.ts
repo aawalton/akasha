@@ -7,7 +7,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkin = {
   ownLength: 3.20955,
   ownProgress: 3.20955,
   partOfCollections: ["release/aurora-some-type-of-skin"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

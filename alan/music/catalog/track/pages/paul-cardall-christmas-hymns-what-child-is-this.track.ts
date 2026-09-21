@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsWhatChildIsThis = {
   ownLength: 4.77555,
   ownProgress: 4.77555,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

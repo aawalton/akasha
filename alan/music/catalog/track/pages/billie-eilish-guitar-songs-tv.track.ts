@@ -7,7 +7,6 @@ export const billieEilishGuitarSongsTv = {
   ownLength: 4.689666666666667,
   ownProgress: 4.689666666666667,
   partOfCollections: ["release/billie-eilish-guitar-songs"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

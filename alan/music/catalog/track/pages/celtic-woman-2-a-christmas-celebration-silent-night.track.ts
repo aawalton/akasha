@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationSilentNight = {
   ownLength: 3.424,
   ownProgress: 3.424,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

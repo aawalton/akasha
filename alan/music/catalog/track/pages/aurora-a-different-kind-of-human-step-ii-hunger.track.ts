@@ -7,7 +7,6 @@ export const auroraADifferentKindOfHumanStepIiHunger = {
   ownLength: 2.78155,
   ownProgress: 2.78155,
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

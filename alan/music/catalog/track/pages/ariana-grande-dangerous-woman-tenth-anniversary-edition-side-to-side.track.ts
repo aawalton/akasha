@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionSideToSide = {
   ownLength: 3.769633333333333,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

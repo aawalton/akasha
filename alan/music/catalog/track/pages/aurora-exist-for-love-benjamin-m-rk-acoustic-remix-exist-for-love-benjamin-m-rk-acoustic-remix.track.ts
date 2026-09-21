@@ -7,7 +7,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveBenjaminMRkAc
   ownLength: 4.526883333333333,
   ownProgress: 4.526883333333333,
   partOfCollections: ["release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

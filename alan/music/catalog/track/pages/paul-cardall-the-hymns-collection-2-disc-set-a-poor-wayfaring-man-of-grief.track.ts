@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetAPoorWayfaringManOfGrief = {
   ownLength: 3.0214833333333333,
   ownProgress: 3.0214833333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

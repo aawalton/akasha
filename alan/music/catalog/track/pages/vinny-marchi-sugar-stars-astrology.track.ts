@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsAstrology = {
   ownLength: 3.36105,
   ownProgress: 3.36105,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

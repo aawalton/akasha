@@ -7,7 +7,6 @@ export const billieEilishThereforeIAmThereforeIAm = {
   ownLength: 2.90535,
   ownProgress: 2.90535,
   partOfCollections: ["release/billie-eilish-therefore-i-am"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

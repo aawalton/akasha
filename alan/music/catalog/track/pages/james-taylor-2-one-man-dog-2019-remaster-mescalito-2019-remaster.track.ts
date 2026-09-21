@@ -7,7 +7,6 @@ export const jamesTaylor2OneManDog2019RemasterMescalito2019Remaster = {
   ownLength: 0.48181666666666667,
   ownProgress: 0.48181666666666667,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

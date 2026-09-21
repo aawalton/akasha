@@ -7,7 +7,6 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
   ownLength: 3.686,
   ownProgress: 3.686,
   partOfCollections: ["release/coldplay-orphans-muzi-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2ChristmasCardsFromIrelandSilentNight2022Version = {
   ownLength: 3.534883333333333,
   ownProgress: 3.534883333333333,
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

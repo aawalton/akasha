@@ -7,7 +7,6 @@ export const auroraMechuleDogruKarlarUlkesi2MechuleDogruKarlarUlkesi2 = {
   ownLength: 3.2477666666666667,
   ownProgress: 3.2477666666666667,
   partOfCollections: ["release/aurora-mechule-dogru-karlar-ulkesi-2"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

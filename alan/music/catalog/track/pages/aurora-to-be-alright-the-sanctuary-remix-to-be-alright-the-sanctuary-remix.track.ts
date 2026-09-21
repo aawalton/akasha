@@ -7,7 +7,6 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
   ownLength: 3.77415,
   ownProgress: 3.77415,
   partOfCollections: ["release/aurora-to-be-alright-the-sanctuary-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

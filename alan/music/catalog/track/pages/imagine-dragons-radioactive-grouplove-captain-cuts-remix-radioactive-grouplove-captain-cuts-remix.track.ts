@@ -8,7 +8,6 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemixRadioactiveGroupl
     ownLength: 4.026883333333333,
     ownProgress: 4.026883333333333,
     partOfCollections: ["release/imagine-dragons-radioactive-grouplove-captain-cuts-remix"],
-    position: 1,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

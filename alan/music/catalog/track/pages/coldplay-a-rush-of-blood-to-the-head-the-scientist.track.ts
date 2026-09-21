@@ -7,7 +7,6 @@ export const coldplayARushOfBloodToTheHeadTheScientist = {
   ownLength: 5.16,
   ownProgress: 5.16,
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallDecemberPianoStringEnsembleFirstSnow = {
   ownLength: 3.378216666666667,
   ownProgress: 3.378216666666667,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

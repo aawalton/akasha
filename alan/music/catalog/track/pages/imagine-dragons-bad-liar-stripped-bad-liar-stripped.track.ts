@@ -7,7 +7,6 @@ export const imagineDragonsBadLiarStrippedBadLiarStripped = {
   ownLength: 4.22045,
   ownProgress: 4.22045,
   partOfCollections: ["release/imagine-dragons-bad-liar-stripped"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

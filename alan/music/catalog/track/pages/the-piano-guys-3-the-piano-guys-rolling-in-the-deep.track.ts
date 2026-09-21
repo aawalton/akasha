@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysRollingInTheDeep = {
   ownLength: 3.8688666666666665,
   ownProgress: 3.8688666666666665,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

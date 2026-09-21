@@ -14,7 +14,6 @@ export const thePianoGuys3LoveMeLikeIAmLoveMeLikeIAm = {
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

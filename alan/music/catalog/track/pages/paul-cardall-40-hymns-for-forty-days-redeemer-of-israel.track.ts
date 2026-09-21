@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysRedeemerOfIsrael = {
   ownLength: 2.28355,
   ownProgress: 2.28355,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 39,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

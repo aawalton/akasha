@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveDeathAndAllHisFriendsLiveInMadrid
   ownLength: 4.4071,
   ownProgress: 4.4071,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

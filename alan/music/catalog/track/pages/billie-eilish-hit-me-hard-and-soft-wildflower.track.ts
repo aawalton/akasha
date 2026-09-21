@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftWildflower = {
   ownLength: 4.357766666666667,
   ownProgress: 4.357766666666667,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

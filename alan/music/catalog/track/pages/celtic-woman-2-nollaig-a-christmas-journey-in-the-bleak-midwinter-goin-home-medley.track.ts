@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyInTheBleakMidwinterGoinHomeMedl
   ownLength: 4.542916666666667,
   ownProgress: 4.542916666666667,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

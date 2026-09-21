@@ -10,7 +10,6 @@ export const paulCardallGracieSThemeLiveGraciesThemeLive = {
     "release/paul-cardall-gracie-s-theme-live",
     "release/paul-cardall-the-celebrate-life-concert-live",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

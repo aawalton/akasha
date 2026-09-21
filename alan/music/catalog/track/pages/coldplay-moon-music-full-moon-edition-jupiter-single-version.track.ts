@@ -7,7 +7,6 @@ export const coldplayMoonMusicFullMoonEditionJupiterSingleVersion = {
   ownLength: 2.8875,
   ownProgress: 2.8875,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

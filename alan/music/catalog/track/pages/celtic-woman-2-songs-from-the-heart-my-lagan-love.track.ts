@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartMyLaganLove = {
   ownLength: 2.882,
   ownProgress: 2.882,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

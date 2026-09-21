@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterWomansGottaHaveIt2019Remaster = 
   ownLength: 4.336883333333334,
   ownProgress: 4.336883333333334,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarAveVerumCorpus = {
   ownLength: 2.5486166666666668,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 27,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

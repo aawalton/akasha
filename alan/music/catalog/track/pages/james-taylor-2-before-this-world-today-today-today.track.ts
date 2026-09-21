@@ -10,7 +10,6 @@ export const jamesTaylor2BeforeThisWorldTodayTodayToday = {
     "release/james-taylor-2-before-this-world",
     "release/james-taylor-2-today-today-today",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

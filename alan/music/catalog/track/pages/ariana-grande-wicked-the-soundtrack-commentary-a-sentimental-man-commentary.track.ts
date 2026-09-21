@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryASentimentalManCommentary 
   ownLength: 0.6823833333333333,
   ownProgress: 0.6823833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

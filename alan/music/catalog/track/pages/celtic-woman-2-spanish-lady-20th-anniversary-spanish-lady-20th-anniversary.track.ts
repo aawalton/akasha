@@ -7,7 +7,6 @@ export const celticWoman2SpanishLady20thAnniversarySpanishLady20thAnniversary = 
   ownLength: 2.0182166666666665,
   ownProgress: 2.0182166666666665,
   partOfCollections: ["release/celtic-woman-2-spanish-lady-20th-anniversary"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

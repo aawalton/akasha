@@ -7,7 +7,6 @@ export const billieEilishDontSmileAtMeHostage = {
   ownLength: 3.82375,
   ownProgress: 3.82375,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -9,7 +9,6 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
   partOfCollections: [
     "release/aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-2-tragoudi-apo-tin-tenia",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

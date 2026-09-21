@@ -7,7 +7,6 @@ export const coldplayARushOfBloodToTheHeadClocks = {
   ownLength: 5.131316666666667,
   ownProgress: 5.131316666666667,
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head", "release/coldplay-clocks"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
   ownLength: 4.274,
   ownProgress: 4.274,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

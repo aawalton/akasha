@@ -7,7 +7,6 @@ export const celticWoman2EmeraldMusicalGemsBridgeOverTroubledWater = {
   ownLength: 2.9862166666666665,
   ownProgress: 2.9862166666666665,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetDontSmile = {
   ownLength: 3.43825,
   ownProgress: 3.43825,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

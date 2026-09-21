@@ -10,7 +10,6 @@ export const imagineDragonsNightVisionsBleedingOut = {
     "release/imagine-dragons-night-visions",
     "release/imagine-dragons-night-visions-deluxe",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

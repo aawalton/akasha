@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12NoTimeForToxicPeople = {
   ownLength: 3.4645,
   ownProgress: 3.4645,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

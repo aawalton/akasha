@@ -7,7 +7,6 @@ export const celticWoman2SoloCaledonia = {
   ownLength: 4.967133333333333,
   ownProgress: 4.967133333333333,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackPleaseMammy = {
   ownLength: 1.7844333333333333,
   ownProgress: 1.7844333333333333,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

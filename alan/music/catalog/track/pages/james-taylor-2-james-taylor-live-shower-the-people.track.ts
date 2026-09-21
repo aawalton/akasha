@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveShowerThePeople = {
   ownLength: 4.684433333333334,
   ownProgress: 4.684433333333334,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

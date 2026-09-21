@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIiICantStopMe = {
   ownLength: 3.7016833333333334,
   ownProgress: 3.7016833333333334,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

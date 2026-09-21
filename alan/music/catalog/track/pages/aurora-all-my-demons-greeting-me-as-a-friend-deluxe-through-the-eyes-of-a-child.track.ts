@@ -7,7 +7,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeThroughTheEyesOfAChild = 
   ownLength: 4.57355,
   ownProgress: 4.57355,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

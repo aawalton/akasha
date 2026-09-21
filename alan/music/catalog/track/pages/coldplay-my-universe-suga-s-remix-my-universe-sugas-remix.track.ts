@@ -7,7 +7,6 @@ export const coldplayMyUniverseSugaSRemixMyUniverseSugasRemix = {
   ownLength: 3.1372333333333335,
   ownProgress: 3.1372333333333335,
   partOfCollections: ["release/coldplay-my-universe-suga-s-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

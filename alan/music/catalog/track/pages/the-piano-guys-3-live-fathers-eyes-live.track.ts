@@ -7,7 +7,6 @@ export const thePianoGuys3LiveFathersEyesLive = {
   ownLength: 4.170216666666667,
   ownProgress: 4.170216666666667,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

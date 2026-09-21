@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyWexfordCarol = {
   ownLength: 4.157516666666667,
   ownProgress: 4.157516666666667,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

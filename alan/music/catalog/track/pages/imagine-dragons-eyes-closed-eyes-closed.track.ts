@@ -7,7 +7,6 @@ export const imagineDragonsEyesClosedEyesClosed = {
   ownLength: 3.3335,
   ownProgress: 3.3335,
   partOfCollections: ["release/imagine-dragons-eyes-closed"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

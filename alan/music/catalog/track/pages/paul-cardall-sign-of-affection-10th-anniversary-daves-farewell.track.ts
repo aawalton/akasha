@@ -7,7 +7,6 @@ export const paulCardallSignOfAffection10thAnniversaryDavesFarewell = {
   ownLength: 4.302666666666667,
   ownProgress: 4.302666666666667,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

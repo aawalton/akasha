@@ -7,7 +7,6 @@ export const coldplayLive2012VivaLaVidaLive = {
   ownLength: 4.972216666666666,
   ownProgress: 4.972216666666666,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

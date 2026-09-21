@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022MidwestVsSouthRapBattle = {
   ownLength: 3.2003833333333334,
   ownProgress: 3.2003833333333334,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

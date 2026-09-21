@@ -10,7 +10,6 @@ export const zaraLarssonPosterGirlSummerEditionRightHereAlokRemix = {
     "release/zara-larsson-poster-girl-summer-edition",
     "release/zara-larsson-right-here-alok-remix",
   ],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

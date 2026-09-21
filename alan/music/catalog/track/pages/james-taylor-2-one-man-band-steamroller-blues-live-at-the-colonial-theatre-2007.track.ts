@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandSteamrollerBluesLiveAtTheColonialTheatre2007 
   ownLength: 5.992666666666667,
   ownProgress: 5.992666666666667,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

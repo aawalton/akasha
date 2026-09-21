@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedThemesFromPiratesOfTheCaribbean = {
   ownLength: 6.333333333333333,
   ownProgress: 6.333333333333333,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

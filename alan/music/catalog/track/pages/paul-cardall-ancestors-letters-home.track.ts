@@ -7,7 +7,6 @@ export const paulCardallAncestorsLettersHome = {
   ownLength: 0.976,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const celticWoman22020thAnniversaryIKnowMyLove20thAnniversary = {
     "release/celtic-woman-2-20-20th-anniversary",
     "release/celtic-woman-2-i-know-my-love-20th-anniversary",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

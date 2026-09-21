@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveSheThinksIStillCare = {
   ownLength: 3.4177666666666666,
   ownProgress: 3.4177666666666666,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

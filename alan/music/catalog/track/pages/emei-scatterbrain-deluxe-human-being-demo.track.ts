@@ -7,7 +7,6 @@ export const emeiScatterbrainDeluxeHumanBeingDemo = {
   ownLength: 1.9983333333333333,
   ownProgress: 1.9983333333333333,
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetPraiseToTheMan = {
   ownLength: 2.213,
   ownProgress: 2.213,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

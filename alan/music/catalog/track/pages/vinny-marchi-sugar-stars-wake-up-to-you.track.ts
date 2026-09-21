@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsWakeUpToYou = {
   ownLength: 1.9777666666666667,
   ownProgress: 1.9777666666666667,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

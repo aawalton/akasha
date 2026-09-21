@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipKeepTheCommandments = {
   ownLength: 3.030883333333333,
   ownProgress: 3.030883333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

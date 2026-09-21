@@ -7,7 +7,6 @@ export const auroraSomewhereElseSaluteRemixSomewhereElseSaluteRemix = {
   ownLength: 6.044983333333334,
   ownProgress: 0,
   partOfCollections: ["release/aurora-somewhere-else-salute-remix"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

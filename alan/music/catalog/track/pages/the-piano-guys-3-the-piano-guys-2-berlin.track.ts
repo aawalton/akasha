@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2Berlin = {
   ownLength: 4.008333333333334,
   ownProgress: 4.008333333333334,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

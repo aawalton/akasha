@@ -7,7 +7,6 @@ export const jamesTaylor2FlagMillworker = {
   ownLength: 3.862216666666667,
   ownProgress: 3.862216666666667,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

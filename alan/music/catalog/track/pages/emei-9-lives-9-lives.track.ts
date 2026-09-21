@@ -7,7 +7,6 @@ export const emei9Lives9Lives = {
   ownLength: 3.0375833333333335,
   ownProgress: 3.0375833333333335,
   partOfCollections: ["release/emei-9-lives", "release/emei-rabbithole-2"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

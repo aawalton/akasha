@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014MagicLiveAtTheEnmoreTheatreSydney = {
   ownLength: 4.8691,
   ownProgress: 4.8691,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

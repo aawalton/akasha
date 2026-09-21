@@ -7,7 +7,6 @@ export const vinnyMarchiBabaYetuBabaYetu = {
   ownLength: 3.6075833333333334,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-baba-yetu"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

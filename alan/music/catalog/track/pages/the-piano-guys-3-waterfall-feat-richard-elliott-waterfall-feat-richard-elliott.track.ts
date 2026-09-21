@@ -7,7 +7,6 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
   ownLength: 3.1216,
   ownProgress: 3.1216,
   partOfCollections: ["release/the-piano-guys-3-waterfall-feat-richard-elliott"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

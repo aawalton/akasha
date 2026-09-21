@@ -7,7 +7,6 @@ export const celticWoman2SpancilHillSpancilHill = {
   ownLength: 3.308333333333333,
   ownProgress: 3.308333333333333,
   partOfCollections: ["release/celtic-woman-2-spancil-hill"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

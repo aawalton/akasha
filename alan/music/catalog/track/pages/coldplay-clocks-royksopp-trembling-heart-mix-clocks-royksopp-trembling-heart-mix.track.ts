@@ -7,7 +7,6 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
   ownLength: 5.742216666666667,
   ownProgress: 5.742216666666667,
   partOfCollections: ["release/coldplay-clocks-royksopp-trembling-heart-mix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

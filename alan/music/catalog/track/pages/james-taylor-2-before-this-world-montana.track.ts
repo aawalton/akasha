@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldMontana = {
   ownLength: 3.425333333333333,
   ownProgress: 3.425333333333333,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

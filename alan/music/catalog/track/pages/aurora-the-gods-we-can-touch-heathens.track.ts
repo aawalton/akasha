@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchHeathens = {
   ownLength: 3.75155,
   ownProgress: 3.75155,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const paulCardallDecemberPianoStringEnsembleThanksgiving = {
     "release/paul-cardall-december-piano-string-ensemble",
     "release/paul-cardall-thanksgiving",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

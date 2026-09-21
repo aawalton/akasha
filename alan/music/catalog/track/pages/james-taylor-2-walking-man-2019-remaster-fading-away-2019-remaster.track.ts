@@ -7,7 +7,6 @@ export const jamesTaylor2WalkingMan2019RemasterFadingAway2019Remaster = {
   ownLength: 3.562,
   ownProgress: 3.562,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

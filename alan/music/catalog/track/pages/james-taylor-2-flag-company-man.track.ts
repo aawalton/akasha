@@ -7,7 +7,6 @@ export const jamesTaylor2FlagCompanyMan = {
   ownLength: 3.74955,
   ownProgress: 3.74955,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

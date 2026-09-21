@@ -7,7 +7,6 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   ownLength: 3.16255,
   ownProgress: 3.16255,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

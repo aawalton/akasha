@@ -10,7 +10,6 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
     "release/zara-larsson-lush-life-the-remixes-2",
     "release/zara-larsson-lush-life-the-remixes",
   ],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallAncestorsTheLastLeaf = {
   ownLength: 2.248666666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 15,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGoKygoRemix = {
     "release/coldplay-let-somebody-go-kygo-remix",
     "release/coldplay-let-somebody-go-piano-version",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallSignOfAffection10thAnniversaryAPoorWayfaringManOfGrief =
   ownLength: 2.806,
   ownProgress: 2.806,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

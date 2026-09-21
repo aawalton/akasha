@@ -7,7 +7,6 @@ export const sabrinaCarpenterSkinSkin = {
   ownLength: 2.9583333333333335,
   ownProgress: 2.9583333333333335,
   partOfCollections: ["release/sabrina-carpenter-skin"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

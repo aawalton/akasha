@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandFireAndRainLiveAtTheColonialTheatre2007 = {
   ownLength: 4.8691,
   ownProgress: 4.8691,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

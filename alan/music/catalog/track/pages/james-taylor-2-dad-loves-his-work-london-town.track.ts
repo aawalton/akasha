@@ -7,7 +7,6 @@ export const jamesTaylor2DadLovesHisWorkLondonTown = {
   ownLength: 3.8988833333333335,
   ownProgress: 3.8988833333333335,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

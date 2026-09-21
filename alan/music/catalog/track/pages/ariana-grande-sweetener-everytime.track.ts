@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerEverytime = {
   ownLength: 2.8684333333333334,
   ownProgress: 2.8684333333333334,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

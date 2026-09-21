@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyCodailALinbh = {
   ownLength: 3.3954166666666667,
   ownProgress: 3.3954166666666667,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

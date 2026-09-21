@@ -10,7 +10,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBridgeOver
     partOfCollections: [
       "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
     ],
-    position: 11,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

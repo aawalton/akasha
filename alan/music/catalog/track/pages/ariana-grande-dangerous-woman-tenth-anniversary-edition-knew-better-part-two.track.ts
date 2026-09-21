@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionKnewBetterPartTwo 
   ownLength: 2.7462,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
-  position: 18,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3DonTYouWorryChildInstrumentalDontYouWorryChildInstrume
   ownLength: 4.05,
   ownProgress: 4.05,
   partOfCollections: ["release/the-piano-guys-3-don-t-you-worry-child-instrumental"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

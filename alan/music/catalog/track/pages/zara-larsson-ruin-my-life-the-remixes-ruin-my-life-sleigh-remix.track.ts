@@ -7,7 +7,6 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSleighRemix = {
   ownLength: 3.1839166666666667,
   ownProgress: 3.1839166666666667,
   partOfCollections: ["release/zara-larsson-ruin-my-life-the-remixes"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

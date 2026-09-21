@@ -10,7 +10,6 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
     "release/paul-cardall-be-calm-brain-healthy-music",
     "release/paul-cardall-chill-collection",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

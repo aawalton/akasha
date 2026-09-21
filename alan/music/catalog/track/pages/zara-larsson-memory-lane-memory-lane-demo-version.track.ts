@@ -7,7 +7,6 @@ export const zaraLarssonMemoryLaneMemoryLaneDemoVersion = {
   ownLength: 3.0864,
   ownProgress: 3.0864,
   partOfCollections: ["release/zara-larsson-memory-lane"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

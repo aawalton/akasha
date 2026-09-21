@@ -7,7 +7,6 @@ export const sabrinaCarpenterFeatherSpedUpFeatherSpedUp = {
   ownLength: 2.55145,
   ownProgress: 2.55145,
   partOfCollections: ["release/sabrina-carpenter-feather-sped-up"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

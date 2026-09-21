@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeLove = {
   ownLength: 2.772666666666667,
   ownProgress: 2.772666666666667,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

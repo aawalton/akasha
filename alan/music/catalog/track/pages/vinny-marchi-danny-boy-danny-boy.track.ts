@@ -7,7 +7,6 @@ export const vinnyMarchiDannyBoyDannyBoy = {
   ownLength: 2.997516666666667,
   ownProgress: 2.997516666666667,
   partOfCollections: ["release/vinny-marchi-danny-boy"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

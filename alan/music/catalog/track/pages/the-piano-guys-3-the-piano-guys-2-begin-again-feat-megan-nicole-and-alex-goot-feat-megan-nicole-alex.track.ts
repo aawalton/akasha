@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2BeginAgainFeatMeganNicoleAndAlexGootFeatM
   ownLength: 4.154166666666667,
   ownProgress: 4.154166666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

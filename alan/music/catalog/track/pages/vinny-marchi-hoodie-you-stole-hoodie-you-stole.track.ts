@@ -7,7 +7,6 @@ export const vinnyMarchiHoodieYouStoleHoodieYouStole = {
   ownLength: 2.8334333333333332,
   ownProgress: 2.8334333333333332,
   partOfCollections: ["release/vinny-marchi-hoodie-you-stole"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

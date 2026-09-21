@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanGreedy = {
   ownLength: 3.5813333333333333,
   ownProgress: 3.5813333333333333,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

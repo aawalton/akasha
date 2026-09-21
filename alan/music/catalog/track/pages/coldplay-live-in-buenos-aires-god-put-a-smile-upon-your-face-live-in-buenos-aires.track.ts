@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresGodPutASmileUponYourFaceLiveInBuenosAires 
   ownLength: 4.56755,
   ownProgress: 4.56755,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -12,7 +12,6 @@ export const sabrinaCarpenterANonsenseChristmasNonsense = {
     "release/sabrina-carpenter-emails-i-can-t-send",
     "release/sabrina-carpenter-nonsense-sped-up-version",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

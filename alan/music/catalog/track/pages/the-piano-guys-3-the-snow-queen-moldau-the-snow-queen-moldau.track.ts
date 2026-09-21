@@ -7,7 +7,6 @@ export const thePianoGuys3TheSnowQueenMoldauTheSnowQueenMoldau = {
   ownLength: 4.925,
   ownProgress: 4.925,
   partOfCollections: ["release/the-piano-guys-3-the-snow-queen-moldau"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

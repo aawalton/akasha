@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsEpCurse = {
   ownLength: 3.76555,
   ownProgress: 3.76555,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

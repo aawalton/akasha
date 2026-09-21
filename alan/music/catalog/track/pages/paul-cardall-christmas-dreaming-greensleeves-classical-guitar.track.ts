@@ -7,7 +7,6 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
   ownLength: 3.1160833333333335,
   ownProgress: 3.1160833333333335,
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

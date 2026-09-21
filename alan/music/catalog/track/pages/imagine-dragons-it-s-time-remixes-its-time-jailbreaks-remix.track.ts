@@ -7,7 +7,6 @@ export const imagineDragonsItSTimeRemixesItsTimeJailbreaksRemix = {
   ownLength: 4.432,
   ownProgress: 4.432,
   partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

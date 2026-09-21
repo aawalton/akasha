@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoBeautyFindsHer = {
   ownLength: 3.3868833333333335,
   ownProgress: 3.3868833333333335,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

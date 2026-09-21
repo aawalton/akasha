@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoSweetSurrender = {
   ownLength: 3.0182166666666665,
   ownProgress: 3.0182166666666665,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersionSym
     partOfCollections: [
       "release/imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version",
     ],
-    position: 1,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

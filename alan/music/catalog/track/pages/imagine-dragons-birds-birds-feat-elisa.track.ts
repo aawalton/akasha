@@ -7,7 +7,6 @@ export const imagineDragonsBirdsBirdsFeatElisa = {
   ownLength: 3.657233333333333,
   ownProgress: 3.657233333333333,
   partOfCollections: ["release/imagine-dragons-birds"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

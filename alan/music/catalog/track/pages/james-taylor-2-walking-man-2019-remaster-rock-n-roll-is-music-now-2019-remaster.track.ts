@@ -7,7 +7,6 @@ export const jamesTaylor2WalkingMan2019RemasterRockNRollIsMusicNow2019Remaster =
   ownLength: 3.461333333333333,
   ownProgress: 3.461333333333333,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

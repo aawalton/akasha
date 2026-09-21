@@ -7,7 +7,6 @@ export const coldplayMyloXylotoParadise = {
   ownLength: 4.645316666666667,
   ownProgress: 4.645316666666667,
   partOfCollections: ["release/coldplay-mylo-xyloto", "release/coldplay-paradise"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

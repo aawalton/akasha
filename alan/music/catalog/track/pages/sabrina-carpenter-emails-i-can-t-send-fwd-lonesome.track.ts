@@ -7,7 +7,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdLonesome = {
   ownLength: 3.126516666666667,
   ownProgress: 3.126516666666667,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

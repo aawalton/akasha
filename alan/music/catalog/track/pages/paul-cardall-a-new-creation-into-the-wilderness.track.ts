@@ -7,7 +7,6 @@ export const paulCardallANewCreationIntoTheWilderness = {
   ownLength: 2.9977666666666667,
   ownProgress: 2.9977666666666667,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

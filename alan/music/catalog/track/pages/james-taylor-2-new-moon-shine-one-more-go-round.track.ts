@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineOneMoreGoRound = {
   ownLength: 4.680433333333333,
   ownProgress: 4.680433333333333,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

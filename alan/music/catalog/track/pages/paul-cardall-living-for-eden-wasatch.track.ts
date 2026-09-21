@@ -7,7 +7,6 @@ export const paulCardallLivingForEdenWasatch = {
   ownLength: 3.608,
   ownProgress: 3.608,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

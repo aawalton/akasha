@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardMyHeartStoodStill = {
   ownLength: 3.4508833333333335,
   ownProgress: 3.4508833333333335,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

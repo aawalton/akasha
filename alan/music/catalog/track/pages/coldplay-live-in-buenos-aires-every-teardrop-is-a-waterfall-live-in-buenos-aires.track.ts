@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
   ownLength: 4.071766666666667,
   ownProgress: 4.071766666666667,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

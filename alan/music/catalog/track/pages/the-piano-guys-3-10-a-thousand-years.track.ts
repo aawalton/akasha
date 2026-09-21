@@ -11,7 +11,6 @@ export const thePianoGuys310AThousandYears = {
     "release/the-piano-guys-3-classical-love-romance",
     "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

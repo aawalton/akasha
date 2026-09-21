@@ -7,7 +7,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionYouDontKnowMe = {
   ownLength: 3.8950833333333335,
   ownProgress: 3.8950833333333335,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

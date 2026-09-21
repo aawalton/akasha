@@ -10,7 +10,6 @@ export const celticWoman2AmidTheFallingSnowAmidTheFallingSnow = {
     "release/celtic-woman-2-amid-the-falling-snow",
     "release/celtic-woman-2-the-magic-of-christmas",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasDiaDoBheatha = {
   ownLength: 3.6611,
   ownProgress: 3.6611,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerTheLightIsComingFeatNickiMinaj = {
   ownLength: 3.806216666666667,
   ownProgress: 3.806216666666667,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

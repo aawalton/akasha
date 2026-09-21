@@ -7,7 +7,6 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   ownLength: 5.581316666666667,
   ownProgress: 5.581316666666667,
   partOfCollections: ["release/coldplay-god-put-a-smile-upon-your-face", "release/coldplay-murder"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

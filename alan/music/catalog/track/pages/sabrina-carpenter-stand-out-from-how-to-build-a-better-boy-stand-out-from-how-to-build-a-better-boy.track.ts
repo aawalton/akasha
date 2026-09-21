@@ -7,7 +7,6 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
   ownLength: 3.4804333333333335,
   ownProgress: 3.4804333333333335,
   partOfCollections: ["release/sabrina-carpenter-stand-out-from-how-to-build-a-better-boy"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

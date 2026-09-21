@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyNewgrange = {
   ownLength: 3.1251,
   ownProgress: 3.1251,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

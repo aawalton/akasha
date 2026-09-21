@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyLittleDrummerBoy = {
   ownLength: 3.1007833333333332,
   ownProgress: 3.1007833333333332,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

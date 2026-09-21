@@ -7,7 +7,6 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2ABrandNewDayBts
   ownLength: 3.4169833333333335,
   ownProgress: 3.4169833333333335,
   partOfCollections: ["release/zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

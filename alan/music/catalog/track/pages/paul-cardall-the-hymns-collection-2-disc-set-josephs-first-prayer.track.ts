@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetJosephsFirstPrayer = {
   ownLength: 3.35325,
   ownProgress: 3.35325,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

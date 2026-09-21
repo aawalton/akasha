@@ -7,7 +7,6 @@ export const celticWoman2DestinyWesteringHome = {
   ownLength: 4.0072833333333335,
   ownProgress: 4.0072833333333335,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

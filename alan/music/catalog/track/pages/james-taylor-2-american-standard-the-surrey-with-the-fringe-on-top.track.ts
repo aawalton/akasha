@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
   ownLength: 3.334,
   ownProgress: 3.334,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsHellAndSilenceEpSelene = {
   ownLength: 4.092433333333333,
   ownProgress: 4.092433333333333,
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

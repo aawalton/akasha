@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarHallelujah = {
   ownLength: 4.32355,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 14,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

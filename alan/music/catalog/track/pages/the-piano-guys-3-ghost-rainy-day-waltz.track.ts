@@ -10,7 +10,6 @@ export const thePianoGuys3GhostRainyDayWaltz = {
     "release/the-piano-guys-3-ghost",
     "release/the-piano-guys-classical-for-studying",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

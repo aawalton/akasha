@@ -7,7 +7,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseSpedUp = {
   ownLength: 2.54005,
   ownProgress: 2.54005,
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

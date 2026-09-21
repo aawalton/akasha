@@ -7,7 +7,6 @@ export const coldplayGhostStoriesOceans = {
   ownLength: 5.3613333333333335,
   ownProgress: 5.3613333333333335,
   partOfCollections: ["release/coldplay-ghost-stories"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

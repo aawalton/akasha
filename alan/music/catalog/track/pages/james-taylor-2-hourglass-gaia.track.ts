@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassGaia = {
   ownLength: 5.4811,
   ownProgress: 5.4811,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

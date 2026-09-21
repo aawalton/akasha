@@ -7,7 +7,6 @@ export const arianaGrandeMyEverythingDeluxeBangBang = {
   ownLength: 3.322,
   ownProgress: 3.322,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

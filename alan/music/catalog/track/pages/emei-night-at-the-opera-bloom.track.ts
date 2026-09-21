@@ -7,7 +7,6 @@ export const emeiNightAtTheOperaBloom = {
   ownLength: 3.475983333333333,
   ownProgress: 0,
   partOfCollections: ["release/emei-night-at-the-opera"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

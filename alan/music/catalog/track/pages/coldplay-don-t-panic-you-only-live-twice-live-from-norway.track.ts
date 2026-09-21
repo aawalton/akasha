@@ -7,7 +7,6 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
   ownLength: 4.1111,
   ownProgress: 4.1111,
   partOfCollections: ["release/coldplay-don-t-panic"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

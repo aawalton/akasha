@@ -10,7 +10,6 @@ export const thePianoGuys3SomeoneYouLovedSomeoneYouLoved = {
     "release/the-piano-guys-3-someone-you-loved",
     "release/the-piano-guys-serenity",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

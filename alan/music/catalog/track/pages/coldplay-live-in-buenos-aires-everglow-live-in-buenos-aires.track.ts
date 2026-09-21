@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresEverglowLiveInBuenosAires = {
   ownLength: 4.922883333333333,
   ownProgress: 4.922883333333333,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayAllMyLovePnauXColdplayAllMyLovePnauXColdplay = {
   ownLength: 3.2426666666666666,
   ownProgress: 3.2426666666666666,
   partOfCollections: ["release/coldplay-all-my-love-pnau-x-coldplay"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

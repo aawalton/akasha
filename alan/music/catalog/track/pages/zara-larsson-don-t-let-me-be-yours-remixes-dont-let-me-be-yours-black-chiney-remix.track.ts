@@ -7,7 +7,6 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
   ownLength: 3.4296166666666665,
   ownProgress: 3.4296166666666665,
   partOfCollections: ["release/zara-larsson-don-t-let-me-be-yours-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

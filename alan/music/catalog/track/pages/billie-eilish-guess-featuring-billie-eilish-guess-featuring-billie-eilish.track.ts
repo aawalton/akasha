@@ -7,7 +7,6 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
   ownLength: 2.3888333333333334,
   ownProgress: 2.3888333333333334,
   partOfCollections: ["release/billie-eilish-guess-featuring-billie-eilish"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

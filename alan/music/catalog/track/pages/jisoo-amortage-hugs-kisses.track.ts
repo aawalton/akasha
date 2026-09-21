@@ -7,7 +7,6 @@ export const jisooAmortageHugsKisses = {
   ownLength: 3.1637666666666666,
   ownProgress: 3.1637666666666666,
   partOfCollections: ["release/jisoo-amortage"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
   ownLength: 3.4105166666666666,
   ownProgress: 3.4105166666666666,
   partOfCollections: ["release/ariana-grande-met-him-last-night"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

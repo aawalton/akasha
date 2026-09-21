@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchArtemis = {
   ownLength: 2.641766666666667,
   ownProgress: 2.641766666666667,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

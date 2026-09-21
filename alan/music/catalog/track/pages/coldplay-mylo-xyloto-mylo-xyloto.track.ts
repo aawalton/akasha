@@ -7,7 +7,6 @@ export const coldplayMyloXylotoMyloXyloto = {
   ownLength: 0.7017666666666666,
   ownProgress: 0.7017666666666666,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

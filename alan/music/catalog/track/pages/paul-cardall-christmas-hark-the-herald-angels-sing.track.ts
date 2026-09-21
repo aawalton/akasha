@@ -7,7 +7,6 @@ export const paulCardallChristmasHarkTheHeraldAngelsSing = {
   ownLength: 3.7,
   ownProgress: 3.7,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubbleC
   ownLength: 1.1413833333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
-  position: 20,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

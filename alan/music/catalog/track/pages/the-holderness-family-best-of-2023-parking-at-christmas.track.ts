@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023ParkingAtChristmas = {
   ownLength: 0.8711833333333333,
   ownProgress: 0.8711833333333333,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

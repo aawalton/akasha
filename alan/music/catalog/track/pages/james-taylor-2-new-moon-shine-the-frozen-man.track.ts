@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineTheFrozenMan = {
   ownLength: 3.904,
   ownProgress: 3.904,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

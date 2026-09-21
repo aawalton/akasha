@@ -7,7 +7,6 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
   ownLength: 3.88095,
   ownProgress: 3.88095,
   partOfCollections: ["release/ariana-grande-die-for-you-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

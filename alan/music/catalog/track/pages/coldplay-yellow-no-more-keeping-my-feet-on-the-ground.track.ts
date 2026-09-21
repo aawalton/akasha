@@ -7,7 +7,6 @@ export const coldplayYellowNoMoreKeepingMyFeetOnTheGround = {
   ownLength: 4.51955,
   ownProgress: 4.51955,
   partOfCollections: ["release/coldplay-yellow"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

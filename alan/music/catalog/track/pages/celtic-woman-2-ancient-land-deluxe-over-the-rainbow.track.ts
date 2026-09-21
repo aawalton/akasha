@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeOverTheRainbow = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-over-the-rainbow",
   ],
-  position: 23,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

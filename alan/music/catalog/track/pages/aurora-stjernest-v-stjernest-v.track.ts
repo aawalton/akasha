@@ -7,7 +7,6 @@ export const auroraStjernestVStjernestV = {
   ownLength: 3.30075,
   ownProgress: 3.30075,
   partOfCollections: ["release/aurora-stjernest-v"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayXYWhatIf = {
   ownLength: 4.975316666666667,
   ownProgress: 4.975316666666667,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

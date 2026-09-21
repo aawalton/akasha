@@ -7,7 +7,6 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
   ownLength: 3.636,
   ownProgress: 3.636,
   partOfCollections: ["release/ariana-grande-into-you-alex-ghenea-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

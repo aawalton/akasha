@@ -7,7 +7,6 @@ export const emeiRabbithole2ThePart = {
   ownLength: 2.7420833333333334,
   ownProgress: 2.7420833333333334,
   partOfCollections: ["release/emei-rabbithole-2"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

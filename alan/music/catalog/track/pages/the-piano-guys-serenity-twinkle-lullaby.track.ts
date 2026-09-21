@@ -7,7 +7,6 @@ export const thePianoGuysSerenityTwinkleLullaby = {
   ownLength: 1.8546666666666667,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayGhostStoriesAlwaysInMyHead = {
   ownLength: 3.6104333333333334,
   ownProgress: 3.6104333333333334,
   partOfCollections: ["release/coldplay-ghost-stories"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

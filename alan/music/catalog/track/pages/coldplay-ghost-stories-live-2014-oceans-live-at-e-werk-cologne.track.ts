@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014OceansLiveAtEWerkCologne = {
   ownLength: 4.4797666666666665,
   ownProgress: 4.4797666666666665,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

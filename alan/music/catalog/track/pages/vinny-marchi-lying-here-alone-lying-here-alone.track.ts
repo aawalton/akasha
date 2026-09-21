@@ -7,7 +7,6 @@ export const vinnyMarchiLyingHereAloneLyingHereAlone = {
   ownLength: 2.67385,
   ownProgress: 2.67385,
   partOfCollections: ["release/vinny-marchi-lying-here-alone"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

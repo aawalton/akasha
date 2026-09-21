@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoWhenSheSmiles = {
   ownLength: 4.0271,
   ownProgress: 4.0271,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

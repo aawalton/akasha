@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationOComeAllYeFaithful = {
   ownLength: 3.8468833333333334,
   ownProgress: 3.8468833333333334,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

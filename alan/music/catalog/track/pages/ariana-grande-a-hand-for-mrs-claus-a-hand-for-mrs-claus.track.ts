@@ -7,7 +7,6 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
   ownLength: 2.484,
   ownProgress: 2.484,
   partOfCollections: ["release/ariana-grande-a-hand-for-mrs-claus"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

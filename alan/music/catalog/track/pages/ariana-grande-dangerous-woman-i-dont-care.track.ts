@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanIDontCare = {
   ownLength: 2.9671,
   ownProgress: 2.9671,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

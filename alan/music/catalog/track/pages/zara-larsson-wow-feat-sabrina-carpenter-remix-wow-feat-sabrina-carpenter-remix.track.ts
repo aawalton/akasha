@@ -7,7 +7,6 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemixWowFeatSabrinaCarpenterRemix
   ownLength: 2.9942,
   ownProgress: 2.9942,
   partOfCollections: ["release/zara-larsson-wow-feat-sabrina-carpenter-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

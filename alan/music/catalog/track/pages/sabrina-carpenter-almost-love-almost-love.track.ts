@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlmostLoveAlmostLove = {
   ownLength: 3.5395166666666666,
   ownProgress: 3.5395166666666666,
   partOfCollections: ["release/sabrina-carpenter-almost-love"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

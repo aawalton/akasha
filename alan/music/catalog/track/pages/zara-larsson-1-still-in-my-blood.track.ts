@@ -7,7 +7,6 @@ export const zaraLarsson1StillInMyBlood = {
   ownLength: 3.1896333333333335,
   ownProgress: 3.1896333333333335,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

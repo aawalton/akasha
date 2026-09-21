@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandYouRaiseMeUpLive2017 = {
   ownLength: 4.123766666666667,
   ownProgress: 4.123766666666667,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

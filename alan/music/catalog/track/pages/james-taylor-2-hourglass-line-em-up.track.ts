@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassLineEmUp = {
   ownLength: 4.708433333333334,
   ownProgress: 4.708433333333334,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const sabrinaCarpenterManSBestFriendTears = {
     "release/sabrina-carpenter-man-s-best-friend",
     "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

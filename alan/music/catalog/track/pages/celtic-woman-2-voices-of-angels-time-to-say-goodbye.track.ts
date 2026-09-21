@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsTimeToSayGoodbye = {
   ownLength: 4.0251,
   ownProgress: 4.0251,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

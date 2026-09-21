@@ -7,7 +7,6 @@ export const alexandriaFireAndIceFireAndIce = {
   ownLength: 2.3349,
   ownProgress: 2.3349,
   partOfCollections: ["release/alexandria-fire-and-ice"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

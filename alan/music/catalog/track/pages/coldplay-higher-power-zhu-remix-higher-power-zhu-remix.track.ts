@@ -7,7 +7,6 @@ export const coldplayHigherPowerZhuRemixHigherPowerZhuRemix = {
   ownLength: 4.7682166666666665,
   ownProgress: 4.7682166666666665,
   partOfCollections: ["release/coldplay-higher-power-zhu-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

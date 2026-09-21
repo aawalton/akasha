@@ -7,7 +7,6 @@ export const arianaGrandeSaveYourTearsRemixSaveYourTearsWithArianaGrandeRemix = 
   ownLength: 3.18355,
   ownProgress: 3.18355,
   partOfCollections: ["release/ariana-grande-save-your-tears-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

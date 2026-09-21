@@ -7,7 +7,6 @@ export const billieEilishComeOutAndPlayComeOutAndPlay = {
   ownLength: 3.50625,
   ownProgress: 3.50625,
   partOfCollections: ["release/billie-eilish-come-out-and-play"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

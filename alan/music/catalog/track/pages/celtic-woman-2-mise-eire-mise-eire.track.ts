@@ -10,7 +10,6 @@ export const celticWoman2MiseEireMiseEire = {
     "release/celtic-woman-2-mise-eire",
     "release/celtic-woman-2-postcards-from-ireland",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

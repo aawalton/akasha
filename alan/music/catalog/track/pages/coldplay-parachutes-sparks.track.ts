@@ -7,7 +7,6 @@ export const coldplayParachutesSparks = {
   ownLength: 3.784883333333333,
   ownProgress: 3.784883333333333,
   partOfCollections: ["release/coldplay-parachutes"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

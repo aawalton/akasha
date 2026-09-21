@@ -7,7 +7,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineWithBrandyMonicaRemixACappella 
   ownLength: 3.5346,
   ownProgress: 3.5346,
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

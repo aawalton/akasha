@@ -7,7 +7,6 @@ export const coldplayMyloXylotoAHopefulTransmission = {
   ownLength: 0.55,
   ownProgress: 0.55,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

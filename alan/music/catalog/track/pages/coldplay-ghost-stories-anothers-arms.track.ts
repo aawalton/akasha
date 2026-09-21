@@ -7,7 +7,6 @@ export const coldplayGhostStoriesAnothersArms = {
   ownLength: 3.9068833333333335,
   ownProgress: 3.9068833333333335,
   partOfCollections: ["release/coldplay-ghost-stories"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

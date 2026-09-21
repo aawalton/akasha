@@ -11,7 +11,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndWithMaria
     "release/ariana-grande-eternal-sunshine-slightly-deluxe",
     "release/ariana-grande-yes-and-2",
   ],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

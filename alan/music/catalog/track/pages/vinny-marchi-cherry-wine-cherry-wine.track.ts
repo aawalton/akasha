@@ -7,7 +7,6 @@ export const vinnyMarchiCherryWineCherryWine = {
   ownLength: 3.4964,
   ownProgress: 3.4964,
   partOfCollections: ["release/vinny-marchi-cherry-wine"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeBangBangRemixesBangBangKatKrazyRemix = {
   ownLength: 3.95755,
   ownProgress: 3.95755,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

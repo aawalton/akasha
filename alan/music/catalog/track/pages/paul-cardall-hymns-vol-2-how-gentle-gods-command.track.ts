@@ -7,7 +7,6 @@ export const paulCardallHymnsVol2HowGentleGodsCommand = {
   ownLength: 2.3346666666666667,
   ownProgress: 2.3346666666666667,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

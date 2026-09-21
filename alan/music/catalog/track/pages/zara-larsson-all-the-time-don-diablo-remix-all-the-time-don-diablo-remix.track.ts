@@ -7,7 +7,6 @@ export const zaraLarssonAllTheTimeDonDiabloRemixAllTheTimeDonDiabloRemix = {
   ownLength: 2.9436,
   ownProgress: 2.9436,
   partOfCollections: ["release/zara-larsson-all-the-time-don-diablo-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

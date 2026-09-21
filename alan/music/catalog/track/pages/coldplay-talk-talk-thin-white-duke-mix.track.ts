@@ -7,7 +7,6 @@ export const coldplayTalkTalkThinWhiteDukeMix = {
   ownLength: 9.014433333333333,
   ownProgress: 9.014433333333333,
   partOfCollections: ["release/coldplay-talk"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

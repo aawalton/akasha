@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2LordOfTheRings = {
   ownLength: 5.65625,
   ownProgress: 5.65625,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveDeathWillNeverConquerLiveInSydney
   ownLength: 1.6551,
   ownProgress: 1.6551,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallNewLifeSignOfAffection = {
   ownLength: 5.116433333333333,
   ownProgress: 5.116433333333333,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

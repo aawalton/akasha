@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionAveMaria = {
   ownLength: 2.8699833333333333,
   ownProgress: 2.8699833333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

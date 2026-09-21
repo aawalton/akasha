@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023StupidMentalHealthWalk = {
   ownLength: 1.73,
   ownProgress: 1.73,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

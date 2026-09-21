@@ -7,7 +7,6 @@ export const paulCardallDecemberSoloPianoHeartsOfTheFathersSoloPianoVersion = {
   ownLength: 3.2524333333333333,
   ownProgress: 3.2524333333333333,
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

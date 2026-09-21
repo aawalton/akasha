@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023EminemRapsPillowQuotes = {
   ownLength: 2.7948,
   ownProgress: 2.7948,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

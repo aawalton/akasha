@@ -12,7 +12,6 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
   ],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

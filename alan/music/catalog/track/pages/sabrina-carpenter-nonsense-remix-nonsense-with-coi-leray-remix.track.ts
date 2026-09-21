@@ -7,7 +7,6 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
   ownLength: 2.9274666666666667,
   ownProgress: 2.9274666666666667,
   partOfCollections: ["release/sabrina-carpenter-nonsense-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

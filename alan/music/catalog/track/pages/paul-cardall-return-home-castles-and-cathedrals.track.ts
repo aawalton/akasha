@@ -7,7 +7,6 @@ export const paulCardallReturnHomeCastlesAndCathedrals = {
   ownLength: 4.9696,
   ownProgress: 4.9696,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

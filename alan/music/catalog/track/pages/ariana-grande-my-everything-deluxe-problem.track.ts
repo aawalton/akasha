@@ -7,7 +7,6 @@ export const arianaGrandeMyEverythingDeluxeProblem = {
   ownLength: 3.232,
   ownProgress: 3.232,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

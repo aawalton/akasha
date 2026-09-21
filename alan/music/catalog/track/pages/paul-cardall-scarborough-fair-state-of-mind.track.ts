@@ -7,7 +7,6 @@ export const paulCardallScarboroughFairStateOfMind = {
   ownLength: 4.232266666666667,
   ownProgress: 4.232266666666667,
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

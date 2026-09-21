@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
   ownLength: 1.472,
   ownProgress: 1.472,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

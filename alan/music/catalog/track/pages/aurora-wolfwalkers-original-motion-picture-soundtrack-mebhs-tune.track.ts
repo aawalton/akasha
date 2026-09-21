@@ -7,7 +7,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMebhsTune = {
   ownLength: 3.07955,
   ownProgress: 3.07955,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

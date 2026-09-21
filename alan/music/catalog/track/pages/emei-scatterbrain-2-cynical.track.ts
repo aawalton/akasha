@@ -7,7 +7,6 @@ export const emeiScatterbrain2Cynical = {
   ownLength: 2.2424166666666667,
   ownProgress: 2.2424166666666667,
   partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

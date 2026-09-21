@@ -7,7 +7,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHighwaySong201
   ownLength: 3.8888833333333332,
   ownProgress: 3.8888833333333332,
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

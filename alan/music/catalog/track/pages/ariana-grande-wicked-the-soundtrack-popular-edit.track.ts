@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
   ownLength: 2.8985833333333333,
   ownProgress: 2.8985833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

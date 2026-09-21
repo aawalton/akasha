@@ -10,7 +10,6 @@ export const theHoldernessFamilyBestOfThe90sBabyGotClass = {
     "release/the-holderness-family-best-of-the-90s",
     "release/the-holderness-family-the-greatest-hits-vol-one",
   ],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

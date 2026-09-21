@@ -7,7 +7,6 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   ownLength: 2.5339833333333335,
   ownProgress: 2.5339833333333335,
   partOfCollections: ["release/sylvia-daley-rubik-s-cube", "release/sylvia-daley-secure"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

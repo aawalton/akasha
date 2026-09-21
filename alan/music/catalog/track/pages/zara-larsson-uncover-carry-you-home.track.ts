@@ -7,7 +7,6 @@ export const zaraLarssonUncoverCarryYouHome = {
   ownLength: 4.244883333333333,
   ownProgress: 4.244883333333333,
   partOfCollections: ["release/zara-larsson-uncover"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

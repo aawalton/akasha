@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerBlazedFeatPharrellWilliams = {
   ownLength: 3.272666666666667,
   ownProgress: 3.272666666666667,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

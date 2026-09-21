@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversMemphis = {
   ownLength: 3.1788833333333333,
   ownProgress: 3.1788833333333333,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

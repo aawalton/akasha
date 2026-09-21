@@ -7,7 +7,6 @@ export const coldplayKaleidoscopeEpAllICanThinkAboutIsYou = {
   ownLength: 4.576433333333333,
   ownProgress: 4.576433333333333,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

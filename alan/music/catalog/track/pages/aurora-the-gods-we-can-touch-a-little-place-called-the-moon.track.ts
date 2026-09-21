@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchALittlePlaceCalledTheMoon = {
   ownLength: 4.178216666666667,
   ownProgress: 4.178216666666667,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

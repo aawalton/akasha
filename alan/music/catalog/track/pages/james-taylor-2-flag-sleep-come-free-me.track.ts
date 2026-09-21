@@ -7,7 +7,6 @@ export const jamesTaylor2FlagSleepComeFreeMe = {
   ownLength: 4.702216666666667,
   ownProgress: 4.702216666666667,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

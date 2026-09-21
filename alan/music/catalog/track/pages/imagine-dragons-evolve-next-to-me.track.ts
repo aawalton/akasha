@@ -7,7 +7,6 @@ export const imagineDragonsEvolveNextToMe = {
   ownLength: 3.8381333333333334,
   ownProgress: 3.8381333333333334,
   partOfCollections: ["release/imagine-dragons-evolve"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

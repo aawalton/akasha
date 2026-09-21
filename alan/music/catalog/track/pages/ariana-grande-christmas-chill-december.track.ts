@@ -7,7 +7,6 @@ export const arianaGrandeChristmasChillDecember = {
   ownLength: 1.9376833333333334,
   ownProgress: 1.9376833333333334,
   partOfCollections: ["release/ariana-grande-christmas-chill"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
   ownLength: 5.0793333333333335,
   ownProgress: 5.0793333333333335,
   partOfCollections: ["release/aurora-southern-star-feat-aurora"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetGodBeWithYouTillWeMeetAgain = 
   ownLength: 3.3284333333333334,
   ownProgress: 3.3284333333333334,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

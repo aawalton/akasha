@@ -7,7 +7,6 @@ export const celticWoman2BelieveAveMaria = {
   ownLength: 4.3151,
   ownProgress: 4.3151,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

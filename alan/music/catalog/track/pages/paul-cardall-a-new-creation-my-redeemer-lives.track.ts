@@ -7,7 +7,6 @@ export const paulCardallANewCreationMyRedeemerLives = {
   ownLength: 5.188666666666666,
   ownProgress: 5.188666666666666,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

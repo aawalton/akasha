@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveFixYouLiveInSydney2009 = {
   ownLength: 5.644,
   ownProgress: 5.644,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

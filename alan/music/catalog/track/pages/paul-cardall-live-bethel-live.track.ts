@@ -7,7 +7,6 @@ export const paulCardallLiveBethelLive = {
   ownLength: 2.80555,
   ownProgress: 2.80555,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

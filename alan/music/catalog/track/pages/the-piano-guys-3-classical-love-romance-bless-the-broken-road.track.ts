@@ -10,7 +10,6 @@ export const thePianoGuys3ClassicalLoveRomanceBlessTheBrokenRoad = {
     "release/the-piano-guys-3-classical-love-romance",
     "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

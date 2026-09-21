@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
   ownLength: 3.8724333333333334,
   ownProgress: 3.8724333333333334,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

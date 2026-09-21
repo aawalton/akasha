@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandSweetBabyJamesLiveAtTheColonialTheatre2007 = 
   ownLength: 3.685766666666667,
   ownProgress: 3.685766666666667,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

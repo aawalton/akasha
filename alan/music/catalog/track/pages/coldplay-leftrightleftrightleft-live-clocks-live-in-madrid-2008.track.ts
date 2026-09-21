@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveClocksLiveInMadrid2008 = {
   ownLength: 4.672433333333333,
   ownProgress: 4.672433333333333,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

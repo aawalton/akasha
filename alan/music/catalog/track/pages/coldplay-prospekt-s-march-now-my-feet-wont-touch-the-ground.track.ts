@@ -10,7 +10,6 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
     "release/coldplay-prospekt-s-march",
     "release/coldplay-viva-la-vida-prospekt-s-march-edition",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayBrothersSistersEasyToPlease = {
   ownLength: 3.0326666666666666,
   ownProgress: 3.0326666666666666,
   partOfCollections: ["release/coldplay-brothers-sisters"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

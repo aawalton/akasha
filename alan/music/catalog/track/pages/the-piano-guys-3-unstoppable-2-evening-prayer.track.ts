@@ -11,7 +11,6 @@ export const thePianoGuys3Unstoppable2EveningPrayer = {
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-peaceful-summer-nights",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

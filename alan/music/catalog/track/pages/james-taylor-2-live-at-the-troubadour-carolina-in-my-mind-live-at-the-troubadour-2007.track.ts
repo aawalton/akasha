@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourCarolinaInMyMindLiveAtTheTroubadour2
   ownLength: 4.274883333333333,
   ownProgress: 4.274883333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

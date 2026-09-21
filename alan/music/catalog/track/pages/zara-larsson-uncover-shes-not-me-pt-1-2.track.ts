@@ -7,7 +7,6 @@ export const zaraLarssonUncoverShesNotMePt12 = {
   ownLength: 5.5397,
   ownProgress: 5.5397,
   partOfCollections: ["release/zara-larsson-uncover"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

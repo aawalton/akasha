@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenueLiveFro
   ownLength: 4.9257333333333335,
   ownProgress: 4.9257333333333335,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

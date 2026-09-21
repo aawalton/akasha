@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionRunAndHide = {
   ownLength: 3.494,
   ownProgress: 3.494,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

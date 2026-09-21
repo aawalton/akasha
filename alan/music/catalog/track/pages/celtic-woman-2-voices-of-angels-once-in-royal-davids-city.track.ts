@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsOnceInRoyalDavidsCity = {
   ownLength: 4.142,
   ownProgress: 4.142,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

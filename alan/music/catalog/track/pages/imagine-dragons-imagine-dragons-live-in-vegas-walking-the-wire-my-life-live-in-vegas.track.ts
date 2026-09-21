@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsLiveInVegasWalkingTheWireMyLifeLiveInVe
   ownLength: 6.534983333333333,
   ownProgress: 6.534983333333333,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
-  position: 23,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

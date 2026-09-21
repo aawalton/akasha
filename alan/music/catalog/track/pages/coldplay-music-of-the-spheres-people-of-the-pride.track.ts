@@ -7,7 +7,6 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
   ownLength: 3.6211,
   ownProgress: 3.6211,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

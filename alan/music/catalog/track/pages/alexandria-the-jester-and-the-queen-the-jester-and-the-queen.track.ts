@@ -7,7 +7,6 @@ export const alexandriaTheJesterAndTheQueenTheJesterAndTheQueen = {
   ownLength: 2.81445,
   ownProgress: 2.81445,
   partOfCollections: ["release/alexandria-the-jester-and-the-queen"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

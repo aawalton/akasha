@@ -10,7 +10,6 @@ export const thePianoGuys310RewriteTheStars = {
     "release/the-piano-guys-3-10",
     "release/the-piano-guys-3-classical-movie-soundtracks",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

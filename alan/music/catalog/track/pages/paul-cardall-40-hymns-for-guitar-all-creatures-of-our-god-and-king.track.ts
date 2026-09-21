@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarAllCreaturesOfOurGodAndKing = {
   ownLength: 2.002483333333333,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 35,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

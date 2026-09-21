@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022TheseJeans = {
   ownLength: 2.9983833333333334,
   ownProgress: 2.9983833333333334,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

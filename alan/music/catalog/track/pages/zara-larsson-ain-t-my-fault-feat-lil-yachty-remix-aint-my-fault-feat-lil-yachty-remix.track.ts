@@ -7,7 +7,6 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
   ownLength: 3.9726666666666666,
   ownProgress: 3.9726666666666666,
   partOfCollections: ["release/zara-larsson-ain-t-my-fault-feat-lil-yachty-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

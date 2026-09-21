@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasStillStillStill = {
   ownLength: 4.998433333333334,
   ownProgress: 4.998433333333334,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

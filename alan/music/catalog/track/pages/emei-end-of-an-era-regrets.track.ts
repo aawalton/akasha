@@ -7,7 +7,6 @@ export const emeiEndOfAnEraRegrets = {
   ownLength: 2.03755,
   ownProgress: 2.03755,
   partOfCollections: ["release/emei-end-of-an-era", "release/emei-regrets"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

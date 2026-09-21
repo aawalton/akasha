@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandWildMountainThyme = {
   ownLength: 3.9424333333333332,
   ownProgress: 3.9424333333333332,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

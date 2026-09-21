@@ -7,7 +7,6 @@ export const coldplayMidnightRemixesMidnightGiorgioMoroderRemix = {
   ownLength: 8.629083333333334,
   ownProgress: 8.629083333333334,
   partOfCollections: ["release/coldplay-midnight-remixes"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

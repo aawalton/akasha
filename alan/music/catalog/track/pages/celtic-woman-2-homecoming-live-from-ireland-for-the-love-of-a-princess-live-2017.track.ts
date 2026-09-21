@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandForTheLoveOfAPrincessLive2017 
   ownLength: 3.874,
   ownProgress: 3.874,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

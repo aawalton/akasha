@@ -7,7 +7,6 @@ export const paulCardallReturnHomeShropshireHills = {
   ownLength: 3.2373833333333333,
   ownProgress: 3.2373833333333333,
   partOfCollections: ["release/paul-cardall-return-home", "release/paul-cardall-shropshire-hills"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

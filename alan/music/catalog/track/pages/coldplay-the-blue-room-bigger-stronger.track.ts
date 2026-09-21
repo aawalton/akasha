@@ -7,7 +7,6 @@ export const coldplayTheBlueRoomBiggerStronger = {
   ownLength: 4.818883333333333,
   ownProgress: 4.818883333333333,
   partOfCollections: ["release/coldplay-the-blue-room"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionShenandoahTheContr
   ownLength: 4.039483333333333,
   ownProgress: 4.039483333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

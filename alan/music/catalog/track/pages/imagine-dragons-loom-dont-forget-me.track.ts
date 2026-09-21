@@ -7,7 +7,6 @@ export const imagineDragonsLoomDontForgetMe = {
   ownLength: 2.974666666666667,
   ownProgress: 2.974666666666667,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

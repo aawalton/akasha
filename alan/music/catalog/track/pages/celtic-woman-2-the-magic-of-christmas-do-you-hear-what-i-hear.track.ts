@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasDoYouHearWhatIHear = {
   ownLength: 3.8948833333333335,
   ownProgress: 3.8948833333333335,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

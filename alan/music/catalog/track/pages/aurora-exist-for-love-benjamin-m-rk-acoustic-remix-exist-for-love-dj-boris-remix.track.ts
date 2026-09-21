@@ -10,7 +10,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveDjBorisRemix 
     "release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix",
     "release/aurora-exist-for-love-remixes",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

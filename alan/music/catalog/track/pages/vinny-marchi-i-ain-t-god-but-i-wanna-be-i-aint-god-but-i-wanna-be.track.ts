@@ -7,7 +7,6 @@ export const vinnyMarchiIAinTGodButIWannaBeIAintGodButIWannaBe = {
   ownLength: 3.466666666666667,
   ownProgress: 3.466666666666667,
   partOfCollections: ["release/vinny-marchi-i-ain-t-god-but-i-wanna-be"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

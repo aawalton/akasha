@@ -10,7 +10,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
     "release/ariana-grande-yours-truly-tenth-anniversary-edition",
     "release/ariana-grande-yours-truly",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

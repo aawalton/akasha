@@ -7,7 +7,6 @@ export const zaraLarsson1SkippinABeat = {
   ownLength: 2.7310166666666666,
   ownProgress: 2.7310166666666666,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

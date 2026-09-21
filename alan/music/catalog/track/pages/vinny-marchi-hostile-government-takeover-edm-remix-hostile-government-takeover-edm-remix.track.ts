@@ -7,7 +7,6 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   ownLength: 2.6569333333333334,
   ownProgress: 2.6569333333333334,
   partOfCollections: ["release/vinny-marchi-hostile-government-takeover-edm-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

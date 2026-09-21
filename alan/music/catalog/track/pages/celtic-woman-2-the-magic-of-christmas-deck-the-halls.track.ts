@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasDeckTheHalls = {
   ownLength: 2.4468833333333335,
   ownProgress: 2.4468833333333335,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

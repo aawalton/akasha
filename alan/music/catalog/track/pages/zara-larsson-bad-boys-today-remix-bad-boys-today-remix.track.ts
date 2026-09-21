@@ -7,7 +7,6 @@ export const zaraLarssonBadBoysTodayRemixBadBoysTodayRemix = {
   ownLength: 2.592,
   ownProgress: 2.592,
   partOfCollections: ["release/zara-larsson-bad-boys-today-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -9,7 +9,6 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengersLevitat
   partOfCollections: [
     "release/imagine-dragons-levitate-from-the-original-motion-picture-passengers",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

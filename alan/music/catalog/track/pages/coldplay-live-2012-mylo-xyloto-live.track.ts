@@ -7,7 +7,6 @@ export const coldplayLive2012MyloXylotoLive = {
   ownLength: 0.9603,
   ownProgress: 0.9603,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

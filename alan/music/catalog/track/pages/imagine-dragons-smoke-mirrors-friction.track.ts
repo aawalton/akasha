@@ -7,7 +7,6 @@ export const imagineDragonsSmokeMirrorsFriction = {
   ownLength: 3.3633333333333333,
   ownProgress: 3.3633333333333333,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

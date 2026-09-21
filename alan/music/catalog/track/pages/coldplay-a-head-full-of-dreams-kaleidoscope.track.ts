@@ -7,7 +7,6 @@ export const coldplayAHeadFullOfDreamsKaleidoscope = {
   ownLength: 1.8642166666666666,
   ownProgress: 1.8642166666666666,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

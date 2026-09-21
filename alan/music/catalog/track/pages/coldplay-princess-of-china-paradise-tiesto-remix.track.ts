@@ -7,7 +7,6 @@ export const coldplayPrincessOfChinaParadiseTiestoRemix = {
   ownLength: 4.772433333333334,
   ownProgress: 4.772433333333334,
   partOfCollections: ["release/coldplay-princess-of-china"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoAwakening = {
   ownLength: 2.9704333333333333,
   ownProgress: 2.9704333333333333,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

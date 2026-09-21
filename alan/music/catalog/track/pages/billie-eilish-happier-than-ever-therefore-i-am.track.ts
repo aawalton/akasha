@@ -7,7 +7,6 @@ export const billieEilishHappierThanEverThereforeIAm = {
   ownLength: 2.892316666666667,
   ownProgress: 2.892316666666667,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

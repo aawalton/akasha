@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipIAmAChildOfGod = {
   ownLength: 5.830883333333333,
   ownProgress: 5.830883333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

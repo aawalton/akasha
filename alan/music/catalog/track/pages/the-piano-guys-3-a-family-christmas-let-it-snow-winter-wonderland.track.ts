@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
   ownLength: 3.4806333333333335,
   ownProgress: 3.4806333333333335,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

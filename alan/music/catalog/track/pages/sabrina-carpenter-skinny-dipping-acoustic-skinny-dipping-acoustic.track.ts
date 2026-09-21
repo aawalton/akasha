@@ -7,7 +7,6 @@ export const sabrinaCarpenterSkinnyDippingAcousticSkinnyDippingAcoustic = {
   ownLength: 3.2147833333333335,
   ownProgress: 3.2147833333333335,
   partOfCollections: ["release/sabrina-carpenter-skinny-dipping-acoustic"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

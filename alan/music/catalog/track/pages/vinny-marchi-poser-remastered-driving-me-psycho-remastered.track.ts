@@ -7,7 +7,6 @@ export const vinnyMarchiPoserRemasteredDrivingMePsychoRemastered = {
   ownLength: 3.4726833333333333,
   ownProgress: 3.4726833333333333,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

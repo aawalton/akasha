@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsLiveInVegasSharksLiveInVegas = {
   ownLength: 3.8854166666666665,
   ownProgress: 3.8854166666666665,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

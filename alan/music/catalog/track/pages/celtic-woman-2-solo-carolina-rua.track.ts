@@ -7,7 +7,6 @@ export const celticWoman2SoloCarolinaRua = {
   ownLength: 2.834766666666667,
   ownProgress: 2.834766666666667,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

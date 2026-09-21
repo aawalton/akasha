@@ -7,7 +7,6 @@ export const celticWoman2CelebrationTeirAbhaileRiu = {
   ownLength: 4.1146666666666665,
   ownProgress: 4.1146666666666665,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

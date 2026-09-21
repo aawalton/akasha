@@ -7,7 +7,6 @@ export const jamesTaylor2ThatSWhyIMHereLimousineDriver = {
   ownLength: 3.82555,
   ownProgress: 3.82555,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

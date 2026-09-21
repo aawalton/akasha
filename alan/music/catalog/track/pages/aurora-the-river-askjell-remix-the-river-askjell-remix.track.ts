@@ -7,7 +7,6 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
   ownLength: 3.4667,
   ownProgress: 3.4667,
   partOfCollections: ["release/aurora-the-river-askjell-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneySilverBells = {
   ownLength: 3.79665,
   ownProgress: 3.79665,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

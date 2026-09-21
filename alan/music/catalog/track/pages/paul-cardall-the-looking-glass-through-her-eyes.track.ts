@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassThroughHerEyes = {
   ownLength: 3.3388833333333334,
   ownProgress: 3.3388833333333334,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

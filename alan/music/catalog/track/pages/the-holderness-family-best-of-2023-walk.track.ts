@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023Walk = {
   ownLength: 2.1316,
   ownProgress: 2.1316,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

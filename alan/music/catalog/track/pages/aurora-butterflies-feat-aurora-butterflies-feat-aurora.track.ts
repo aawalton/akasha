@@ -7,7 +7,6 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
   ownLength: 2.177766666666667,
   ownProgress: 2.177766666666667,
   partOfCollections: ["release/aurora-butterflies-feat-aurora"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

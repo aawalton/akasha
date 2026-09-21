@@ -7,7 +7,6 @@ export const thePianoGuys3WondersDontYouWorryChildFeatShwetaSubram = {
   ownLength: 4.056883333333333,
   ownProgress: 4.056883333333333,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessDna = {
   ownLength: 3.0923,
   ownProgress: 3.0923,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDulaman = 
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
     "release/celtic-woman-2-the-greatest-journey-essential-collection",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

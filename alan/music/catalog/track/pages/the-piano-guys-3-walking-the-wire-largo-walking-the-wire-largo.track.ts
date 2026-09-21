@@ -7,7 +7,6 @@ export const thePianoGuys3WalkingTheWireLargoWalkingTheWireLargo = {
   ownLength: 4.3011,
   ownProgress: 4.3011,
   partOfCollections: ["release/the-piano-guys-3-walking-the-wire-largo"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

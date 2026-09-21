@@ -13,7 +13,6 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
     "release/the-piano-guys-autumn-on-piano",
     "release/the-piano-guys-relaxing-piano",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

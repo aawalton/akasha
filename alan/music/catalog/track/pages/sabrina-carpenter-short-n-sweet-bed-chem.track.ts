@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetBedChem = {
   ownLength: 2.8644833333333333,
   ownProgress: 2.8644833333333333,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

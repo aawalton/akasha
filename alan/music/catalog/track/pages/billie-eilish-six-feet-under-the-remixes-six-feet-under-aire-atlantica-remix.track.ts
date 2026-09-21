@@ -7,7 +7,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderAireAtlanticaRemix = 
   ownLength: 3.6953,
   ownProgress: 3.6953,
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

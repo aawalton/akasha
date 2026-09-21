@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
   ownLength: 3.7773,
   ownProgress: 3.7773,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const emeiEndOfAnEraFerrisBueller = {
   ownLength: 1.954,
   ownProgress: 1.954,
   partOfCollections: ["release/emei-end-of-an-era"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

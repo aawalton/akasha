@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12HigherGround = {
   ownLength: 2.6973666666666665,
   ownProgress: 2.6973666666666665,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

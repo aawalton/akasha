@@ -7,7 +7,6 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
   ownLength: 4.356,
   ownProgress: 4.356,
   partOfCollections: ["release/coldplay-trouble"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

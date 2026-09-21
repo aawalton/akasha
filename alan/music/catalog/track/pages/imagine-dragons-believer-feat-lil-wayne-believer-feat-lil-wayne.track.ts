@@ -7,7 +7,6 @@ export const imagineDragonsBelieverFeatLilWayneBelieverFeatLilWayne = {
   ownLength: 3.66175,
   ownProgress: 3.66175,
   partOfCollections: ["release/imagine-dragons-believer-feat-lil-wayne"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

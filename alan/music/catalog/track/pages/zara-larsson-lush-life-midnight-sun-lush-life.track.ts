@@ -10,7 +10,6 @@ export const zaraLarssonLushLifeMidnightSunLushLife = {
     "release/zara-larsson-lush-life-midnight-sun",
     "release/zara-larsson-lush-life-the-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

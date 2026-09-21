@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxDiamondsForStones = {
   ownLength: 2.7444333333333333,
   ownProgress: 2.7444333333333333,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

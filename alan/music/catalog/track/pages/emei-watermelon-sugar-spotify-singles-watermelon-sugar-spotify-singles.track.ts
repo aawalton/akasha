@@ -7,7 +7,6 @@ export const emeiWatermelonSugarSpotifySinglesWatermelonSugarSpotifySingles = {
   ownLength: 2.1609333333333334,
   ownProgress: 2.1609333333333334,
   partOfCollections: ["release/emei-watermelon-sugar-spotify-singles"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

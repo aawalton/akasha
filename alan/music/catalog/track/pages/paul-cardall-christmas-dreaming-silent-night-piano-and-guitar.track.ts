@@ -7,7 +7,6 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
   ownLength: 4.4264,
   ownProgress: 4.4264,
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

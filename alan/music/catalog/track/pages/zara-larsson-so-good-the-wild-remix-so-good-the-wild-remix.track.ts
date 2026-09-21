@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
   ownLength: 3.75755,
   ownProgress: 3.75755,
   partOfCollections: ["release/zara-larsson-so-good-the-wild-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

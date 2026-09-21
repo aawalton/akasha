@@ -7,7 +7,6 @@ export const auroraAnimalSoulAnimalSoul = {
   ownLength: 3.0366666666666666,
   ownProgress: 3.0366666666666666,
   partOfCollections: ["release/aurora-animal-soul"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipBonusTrack = {
   ownLength: 4.423333333333333,
   ownProgress: 4.423333333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

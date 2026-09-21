@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
   ownLength: 4.3337666666666665,
   ownProgress: 4.3337666666666665,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

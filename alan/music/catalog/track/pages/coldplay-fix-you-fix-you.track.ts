@@ -7,7 +7,6 @@ export const coldplayFixYouFixYou = {
   ownLength: 4.92555,
   ownProgress: 4.92555,
   partOfCollections: ["release/coldplay-fix-you", "release/coldplay-x-y"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

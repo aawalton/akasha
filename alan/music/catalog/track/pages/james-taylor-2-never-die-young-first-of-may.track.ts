@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungFirstOfMay = {
   ownLength: 4.02,
   ownProgress: 4.02,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeYesAndYesAndEdit = {
   ownLength: 3.1792333333333334,
   ownProgress: 3.1792333333333334,
   partOfCollections: ["release/ariana-grande-yes-and"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

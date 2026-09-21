@@ -7,7 +7,6 @@ export const paulCardallTheCelebrateLifeConcertLiveSweetEscapeLive = {
   ownLength: 3.1852,
   ownProgress: 3.1852,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatFirstAidKitLiveVersi
   ownLength: 3.3498666666666668,
   ownProgress: 3.3498666666666668,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

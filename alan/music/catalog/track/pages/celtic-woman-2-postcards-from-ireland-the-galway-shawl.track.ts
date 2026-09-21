@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandTheGalwayShawl = {
   ownLength: 4.0691,
   ownProgress: 4.0691,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

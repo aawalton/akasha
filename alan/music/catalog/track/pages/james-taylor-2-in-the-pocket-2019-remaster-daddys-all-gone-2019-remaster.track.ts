@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterDaddysAllGone2019Remaster = {
   ownLength: 3.654,
   ownProgress: 3.654,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

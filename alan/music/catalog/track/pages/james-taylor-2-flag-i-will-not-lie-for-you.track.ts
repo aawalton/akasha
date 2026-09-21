@@ -7,7 +7,6 @@ export const jamesTaylor2FlagIWillNotLieForYou = {
   ownLength: 3.2466666666666666,
   ownProgress: 3.2466666666666666,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

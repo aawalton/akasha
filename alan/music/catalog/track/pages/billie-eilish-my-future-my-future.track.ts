@@ -7,7 +7,6 @@ export const billieEilishMyFutureMyFuture = {
   ownLength: 3.46925,
   ownProgress: 3.46925,
   partOfCollections: ["release/billie-eilish-my-future"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

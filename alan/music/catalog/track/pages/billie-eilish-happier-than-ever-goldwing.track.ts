@@ -7,7 +7,6 @@ export const billieEilishHappierThanEverGoldwing = {
   ownLength: 2.5256,
   ownProgress: 2.5256,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

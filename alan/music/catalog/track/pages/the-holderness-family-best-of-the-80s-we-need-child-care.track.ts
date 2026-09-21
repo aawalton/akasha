@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sWeNeedChildCare = {
   ownLength: 1.317,
   ownProgress: 1.317,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

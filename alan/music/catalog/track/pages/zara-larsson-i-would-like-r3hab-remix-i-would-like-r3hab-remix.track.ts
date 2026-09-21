@@ -7,7 +7,6 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
   ownLength: 2.4499833333333334,
   ownProgress: 2.4499833333333334,
   partOfCollections: ["release/zara-larsson-i-would-like-r3hab-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardGodBlessTheChild = {
   ownLength: 3.3626666666666667,
   ownProgress: 3.3626666666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

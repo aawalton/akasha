@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerRaindropsAnAngelCried = {
   ownLength: 0.6273333333333333,
   ownProgress: 0.6273333333333333,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeAlleFarbenRemix = {
   ownLength: 2.8652166666666665,
   ownProgress: 2.8652166666666665,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

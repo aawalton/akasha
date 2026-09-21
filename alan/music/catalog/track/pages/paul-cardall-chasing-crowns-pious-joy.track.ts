@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsPiousJoy = {
   ownLength: 3.841666666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 7,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

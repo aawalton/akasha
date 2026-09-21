@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsLoveLikeThis = {
   ownLength: 2.7723666666666666,
   ownProgress: 2.7723666666666666,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

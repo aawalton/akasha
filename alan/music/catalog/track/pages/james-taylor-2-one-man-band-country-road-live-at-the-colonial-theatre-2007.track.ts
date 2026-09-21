@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandCountryRoadLiveAtTheColonialTheatre2007 = {
   ownLength: 4.145766666666667,
   ownProgress: 4.145766666666667,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

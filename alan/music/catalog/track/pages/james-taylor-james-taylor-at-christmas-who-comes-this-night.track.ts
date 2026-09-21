@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasWhoComesThisNight = {
   ownLength: 4.166883333333334,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 10,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

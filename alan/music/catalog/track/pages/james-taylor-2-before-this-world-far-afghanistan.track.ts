@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldFarAfghanistan = {
   ownLength: 4.074433333333333,
   ownProgress: 4.074433333333333,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

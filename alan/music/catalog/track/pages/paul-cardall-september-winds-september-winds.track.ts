@@ -7,7 +7,6 @@ export const paulCardallSeptemberWindsSeptemberWinds = {
   ownLength: 3.8041666666666667,
   ownProgress: 3.8041666666666667,
   partOfCollections: ["release/paul-cardall-september-winds"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

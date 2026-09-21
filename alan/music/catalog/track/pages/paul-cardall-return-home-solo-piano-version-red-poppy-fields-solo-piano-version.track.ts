@@ -7,7 +7,6 @@ export const paulCardallReturnHomeSoloPianoVersionRedPoppyFieldsSoloPianoVersion
   ownLength: 3.2998166666666666,
   ownProgress: 3.2998166666666666,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

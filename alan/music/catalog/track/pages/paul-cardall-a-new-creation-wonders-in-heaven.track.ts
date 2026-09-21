@@ -7,7 +7,6 @@ export const paulCardallANewCreationWondersInHeaven = {
   ownLength: 4.2111,
   ownProgress: 4.2111,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonSheDidItAgainFeatZaraLarsson
   ownLength: 3.5540166666666666,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-she-did-it-again-feat-zara-larsson"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

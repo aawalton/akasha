@@ -7,7 +7,6 @@ export const coldplayLive2012ClocksLive = {
   ownLength: 4.749333333333333,
   ownProgress: 4.749333333333333,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

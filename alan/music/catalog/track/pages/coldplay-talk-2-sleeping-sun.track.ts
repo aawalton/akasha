@@ -7,7 +7,6 @@ export const coldplayTalk2SleepingSun = {
   ownLength: 3.1893333333333334,
   ownProgress: 3.1893333333333334,
   partOfCollections: ["release/coldplay-talk-2"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

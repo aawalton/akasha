@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlmostLoveR3habRemixAlmostLoveR3habRemix = {
   ownLength: 2.9166666666666665,
   ownProgress: 2.9166666666666665,
   partOfCollections: ["release/sabrina-carpenter-almost-love-r3hab-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

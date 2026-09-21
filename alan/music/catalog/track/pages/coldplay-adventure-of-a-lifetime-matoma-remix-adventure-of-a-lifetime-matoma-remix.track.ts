@@ -7,7 +7,6 @@ export const coldplayAdventureOfALifetimeMatomaRemixAdventureOfALifetimeMatomaRe
   ownLength: 4.178566666666667,
   ownProgress: 4.178566666666667,
   partOfCollections: ["release/coldplay-adventure-of-a-lifetime-matoma-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

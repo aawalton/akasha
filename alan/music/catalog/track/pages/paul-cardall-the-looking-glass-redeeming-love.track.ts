@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassRedeemingLove = {
   ownLength: 4.336666666666667,
   ownProgress: 4.336666666666667,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

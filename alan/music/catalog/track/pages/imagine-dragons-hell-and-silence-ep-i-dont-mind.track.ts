@@ -7,7 +7,6 @@ export const imagineDragonsHellAndSilenceEpIDontMind = {
   ownLength: 3.3024333333333336,
   ownProgress: 3.3024333333333336,
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

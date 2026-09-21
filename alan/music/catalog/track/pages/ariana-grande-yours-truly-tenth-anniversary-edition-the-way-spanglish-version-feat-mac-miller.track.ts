@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWaySpanglishVersion
   ownLength: 3.7806333333333333,
   ownProgress: 3.7806333333333333,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

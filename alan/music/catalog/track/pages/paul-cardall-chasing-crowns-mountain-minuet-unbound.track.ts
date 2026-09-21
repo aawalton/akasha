@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsMountainMinuetUnbound = {
   ownLength: 3.6041666666666665,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 20,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

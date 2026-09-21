@@ -7,7 +7,6 @@ export const auroraToBeLovedRequiem = {
   ownLength: 6.468183333333333,
   ownProgress: 6.468183333333333,
   partOfCollections: ["release/aurora-to-be-loved"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraIntoTheUnknownIntoTheUnknown = {
   ownLength: 3.332666666666667,
   ownProgress: 3.332666666666667,
   partOfCollections: ["release/aurora-into-the-unknown"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

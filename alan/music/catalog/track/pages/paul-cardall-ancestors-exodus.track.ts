@@ -7,7 +7,6 @@ export const paulCardallAncestorsExodus = {
   ownLength: 3.6538,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

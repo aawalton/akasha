@@ -7,7 +7,6 @@ export const alexandriaTheFoolTheFool = {
   ownLength: 2.91935,
   ownProgress: 2.91935,
   partOfCollections: ["release/alexandria-the-fool"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

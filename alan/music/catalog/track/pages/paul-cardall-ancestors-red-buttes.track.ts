@@ -7,7 +7,6 @@ export const paulCardallAncestorsRedButtes = {
   ownLength: 3.50435,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 10,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

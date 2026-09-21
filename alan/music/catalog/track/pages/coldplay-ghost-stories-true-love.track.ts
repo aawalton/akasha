@@ -7,7 +7,6 @@ export const coldplayGhostStoriesTrueLove = {
   ownLength: 4.1,
   ownProgress: 4.1,
   partOfCollections: ["release/coldplay-ghost-stories", "release/coldplay-true-love"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

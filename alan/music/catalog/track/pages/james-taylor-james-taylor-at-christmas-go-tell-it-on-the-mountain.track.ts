@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasGoTellItOnTheMountain = {
   ownLength: 3.6902166666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

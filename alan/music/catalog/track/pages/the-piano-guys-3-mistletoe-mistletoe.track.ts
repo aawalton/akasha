@@ -7,7 +7,6 @@ export const thePianoGuys3MistletoeMistletoe = {
   ownLength: 4.78135,
   ownProgress: 4.78135,
   partOfCollections: ["release/the-piano-guys-3-mistletoe"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

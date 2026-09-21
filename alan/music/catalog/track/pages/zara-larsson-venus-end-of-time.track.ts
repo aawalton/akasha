@@ -7,7 +7,6 @@ export const zaraLarssonVenusEndOfTime = {
   ownLength: 3.4967166666666665,
   ownProgress: 3.4967166666666665,
   partOfCollections: ["release/zara-larsson-venus"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

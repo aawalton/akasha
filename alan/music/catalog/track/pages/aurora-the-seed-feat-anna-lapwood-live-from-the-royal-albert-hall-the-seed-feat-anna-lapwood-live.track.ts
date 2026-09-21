@@ -7,7 +7,6 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHallTheSeedFeatAn
   ownLength: 5.249333333333333,
   ownProgress: 5.249333333333333,
   partOfCollections: ["release/aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

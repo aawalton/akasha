@@ -10,7 +10,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
     "release/ariana-grande-twilight-zone",
   ],
-  position: 34,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

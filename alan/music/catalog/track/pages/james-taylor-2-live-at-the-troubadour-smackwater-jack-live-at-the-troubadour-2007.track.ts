@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourSmackwaterJackLiveAtTheTroubadour200
   ownLength: 5.420883333333333,
   ownProgress: 5.420883333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

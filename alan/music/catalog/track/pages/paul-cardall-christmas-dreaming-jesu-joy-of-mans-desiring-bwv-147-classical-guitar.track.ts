@@ -7,7 +7,6 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
   ownLength: 4.099283333333333,
   ownProgress: 4.099283333333333,
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallAncestorsSmallWonders = {
   ownLength: 3.1630166666666666,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 9,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

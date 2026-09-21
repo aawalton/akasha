@@ -7,7 +7,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIiLiveAtTheO2London = {
   ownLength: 3.61355,
   ownProgress: 3.61355,
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

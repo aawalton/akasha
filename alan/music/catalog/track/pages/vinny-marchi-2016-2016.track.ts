@@ -7,7 +7,6 @@ export const vinnyMarchi20162016 = {
   ownLength: 2.7021166666666665,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-2016"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

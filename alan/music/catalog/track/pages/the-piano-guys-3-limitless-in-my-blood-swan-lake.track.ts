@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessInMyBloodSwanLake = {
   ownLength: 3.9497833333333334,
   ownProgress: 3.9497833333333334,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

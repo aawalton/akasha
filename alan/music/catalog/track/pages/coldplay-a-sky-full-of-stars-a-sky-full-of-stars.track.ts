@@ -7,7 +7,6 @@ export const coldplayASkyFullOfStarsASkyFullOfStars = {
   ownLength: 4.464433333333333,
   ownProgress: 4.464433333333333,
   partOfCollections: ["release/coldplay-a-sky-full-of-stars", "release/coldplay-ghost-stories"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

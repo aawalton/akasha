@@ -7,7 +7,6 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
   ownLength: 3.8780833333333335,
   ownProgress: 3.8780833333333335,
   partOfCollections: ["release/the-piano-guys-3-wayfaring-stranger"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

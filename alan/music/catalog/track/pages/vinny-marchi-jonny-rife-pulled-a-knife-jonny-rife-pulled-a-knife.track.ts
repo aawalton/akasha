@@ -10,7 +10,6 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
     "release/vinny-marchi-jonny-rife-pulled-a-knife",
     "release/vinny-marchi-tales-of-the-lesbian-hunter",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

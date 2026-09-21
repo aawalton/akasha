@@ -7,7 +7,6 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
   ownLength: 3.85475,
   ownProgress: 3.85475,
   partOfCollections: ["release/aurora-cure-for-me-feat-silvana-estrada-live"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

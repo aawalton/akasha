@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodTg4m = {
   ownLength: 2.8816,
   ownProgress: 2.8816,
   partOfCollections: ["release/zara-larsson-so-good"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

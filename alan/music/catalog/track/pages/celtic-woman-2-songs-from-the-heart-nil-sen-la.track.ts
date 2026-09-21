@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartNilSenLa = {
   ownLength: 3.629766666666667,
   ownProgress: 3.629766666666667,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

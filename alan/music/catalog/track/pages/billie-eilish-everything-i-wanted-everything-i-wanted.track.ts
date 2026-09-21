@@ -7,7 +7,6 @@ export const billieEilishEverythingIWantedEverythingIWanted = {
   ownLength: 4.090416666666667,
   ownProgress: 4.090416666666667,
   partOfCollections: ["release/billie-eilish-everything-i-wanted"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

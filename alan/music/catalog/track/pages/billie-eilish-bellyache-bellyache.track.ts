@@ -7,7 +7,6 @@ export const billieEilishBellyacheBellyache = {
   ownLength: 2.9862,
   ownProgress: 2.9862,
   partOfCollections: ["release/billie-eilish-bellyache", "release/billie-eilish-dont-smile-at-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

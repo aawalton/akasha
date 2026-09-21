@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourYouCanCloseYourEyesLiveAtTheTroubado
   ownLength: 2.82755,
   ownProgress: 2.82755,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

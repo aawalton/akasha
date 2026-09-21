@@ -7,7 +7,6 @@ export const billieEilishHappierThanEverHalleysComet = {
   ownLength: 3.9126833333333333,
   ownProgress: 3.9126833333333333,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsForTheLoveOfAPrincess = {
   ownLength: 3.8204333333333333,
   ownProgress: 3.8204333333333333,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

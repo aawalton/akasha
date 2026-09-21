@@ -7,7 +7,6 @@ export const jamesTaylor2WalkingMan2019RemasterThePromisedLand2019Remaster = {
   ownLength: 4.064883333333333,
   ownProgress: 4.064883333333333,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

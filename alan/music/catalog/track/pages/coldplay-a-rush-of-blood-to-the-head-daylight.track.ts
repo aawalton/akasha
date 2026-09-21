@@ -7,7 +7,6 @@ export const coldplayARushOfBloodToTheHeadDaylight = {
   ownLength: 5.463333333333333,
   ownProgress: 5.463333333333333,
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

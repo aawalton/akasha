@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOneWashYourHands = {
   ownLength: 2.4459166666666667,
   ownProgress: 2.4459166666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

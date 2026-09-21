@@ -10,7 +10,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
     "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
     "release/ariana-grande-wicked-for-good-the-soundtrack",
   ],
-  position: 21,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

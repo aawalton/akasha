@@ -11,7 +11,6 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
     "release/the-piano-guys-3-what-was-i-made-for",
     "release/the-piano-guys-relaxing-piano",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

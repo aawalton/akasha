@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
   ownLength: 3.236666666666667,
   ownProgress: 3.236666666666667,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

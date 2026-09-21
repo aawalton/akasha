@@ -7,7 +7,6 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
   ownLength: 10.038516666666666,
   ownProgress: 0,
   partOfCollections: ["release/aurora-in-a-minute-live-from-the-studio-version"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

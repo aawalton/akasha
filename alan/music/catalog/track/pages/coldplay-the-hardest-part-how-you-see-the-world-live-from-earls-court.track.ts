@@ -7,7 +7,6 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
   ownLength: 4.2771,
   ownProgress: 4.2771,
   partOfCollections: ["release/coldplay-the-hardest-part"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsRootsRoots = {
   ownLength: 2.9084333333333334,
   ownProgress: 2.9084333333333334,
   partOfCollections: ["release/imagine-dragons-roots"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraQueendomHarpVersionQueendomHarpVersion = {
   ownLength: 3.8764333333333334,
   ownProgress: 3.8764333333333334,
   partOfCollections: ["release/aurora-queendom-harp-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

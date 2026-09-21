@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsAChangeOfHeart = {
   ownLength: 4.6351,
   ownProgress: 4.6351,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

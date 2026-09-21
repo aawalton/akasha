@@ -7,7 +7,6 @@ export const auroraWhatHappenedToTheHeartDeluxeHeartsIntuition = {
   ownLength: 3.356883333333333,
   ownProgress: 3.356883333333333,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

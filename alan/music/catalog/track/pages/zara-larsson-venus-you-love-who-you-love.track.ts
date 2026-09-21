@@ -7,7 +7,6 @@ export const zaraLarssonVenusYouLoveWhoYouLove = {
   ownLength: 3.0957166666666667,
   ownProgress: 3.0957166666666667,
   partOfCollections: ["release/zara-larsson-venus"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

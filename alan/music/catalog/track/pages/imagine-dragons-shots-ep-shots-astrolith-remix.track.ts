@@ -7,7 +7,6 @@ export const imagineDragonsShotsEpShotsAstrolithRemix = {
   ownLength: 3.4968833333333333,
   ownProgress: 3.4968833333333333,
   partOfCollections: ["release/imagine-dragons-shots-ep"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

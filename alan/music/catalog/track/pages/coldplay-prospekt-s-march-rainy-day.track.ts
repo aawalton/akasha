@@ -10,7 +10,6 @@ export const coldplayProspektSMarchRainyDay = {
     "release/coldplay-prospekt-s-march",
     "release/coldplay-viva-la-vida-prospekt-s-march-edition",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

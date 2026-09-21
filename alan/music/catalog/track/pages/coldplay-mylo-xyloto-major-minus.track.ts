@@ -7,7 +7,6 @@ export const coldplayMyloXylotoMajorMinus = {
   ownLength: 3.5054,
   ownProgress: 3.5054,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

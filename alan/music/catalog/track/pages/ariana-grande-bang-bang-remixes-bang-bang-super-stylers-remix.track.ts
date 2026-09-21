@@ -7,7 +7,6 @@ export const arianaGrandeBangBangRemixesBangBangSuperStylersRemix = {
   ownLength: 3.5646666666666667,
   ownProgress: 3.5646666666666667,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

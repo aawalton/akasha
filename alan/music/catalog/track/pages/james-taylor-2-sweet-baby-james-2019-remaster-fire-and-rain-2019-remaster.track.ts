@@ -7,7 +7,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterFireAndRain2019Remaster = {
   ownLength: 3.39355,
   ownProgress: 3.39355,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

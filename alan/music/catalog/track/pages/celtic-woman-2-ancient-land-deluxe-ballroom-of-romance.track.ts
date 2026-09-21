@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeBallroomOfRomance = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-ballroom-of-romance",
   ],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

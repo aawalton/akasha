@@ -7,7 +7,6 @@ export const paulCardallChristmasSonOfGod = {
   ownLength: 4.57275,
   ownProgress: 4.57275,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

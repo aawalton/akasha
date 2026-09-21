@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeObvious = {
   ownLength: 2.4493,
   ownProgress: 2.4493,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

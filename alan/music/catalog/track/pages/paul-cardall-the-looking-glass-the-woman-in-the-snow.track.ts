@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassTheWomanInTheSnow = {
   ownLength: 3.717766666666667,
   ownProgress: 3.717766666666667,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallLiveGoneHomeLiveToLoveLive = {
   ownLength: 4.114216666666667,
   ownProgress: 4.114216666666667,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

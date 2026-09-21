@@ -7,7 +7,6 @@ export const sabrinaCarpenterHoneymoonFadesHoneymoonFades = {
   ownLength: 3.252683333333333,
   ownProgress: 3.252683333333333,
   partOfCollections: ["release/sabrina-carpenter-honeymoon-fades"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

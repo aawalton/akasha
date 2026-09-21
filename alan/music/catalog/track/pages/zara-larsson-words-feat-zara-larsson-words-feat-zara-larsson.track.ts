@@ -7,7 +7,6 @@ export const zaraLarssonWordsFeatZaraLarssonWordsFeatZaraLarsson = {
   ownLength: 2.37795,
   ownProgress: 2.37795,
   partOfCollections: ["release/zara-larsson-words-feat-zara-larsson"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

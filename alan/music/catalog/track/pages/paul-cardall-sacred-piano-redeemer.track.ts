@@ -7,7 +7,6 @@ export const paulCardallSacredPianoRedeemer = {
   ownLength: 5.856216666666667,
   ownProgress: 5.856216666666667,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

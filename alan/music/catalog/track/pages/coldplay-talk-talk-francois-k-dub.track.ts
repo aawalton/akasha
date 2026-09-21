@@ -7,7 +7,6 @@ export const coldplayTalkTalkFrancoisKDub = {
   ownLength: 9.060216666666667,
   ownProgress: 9.060216666666667,
   partOfCollections: ["release/coldplay-talk"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

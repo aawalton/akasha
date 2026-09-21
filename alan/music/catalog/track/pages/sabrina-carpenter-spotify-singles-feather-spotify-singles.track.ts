@@ -7,7 +7,6 @@ export const sabrinaCarpenterSpotifySinglesFeatherSpotifySingles = {
   ownLength: 3.090866666666667,
   ownProgress: 3.090866666666667,
   partOfCollections: ["release/sabrina-carpenter-spotify-singles"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

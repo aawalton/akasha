@@ -7,7 +7,6 @@ export const paulCardallLiveFragileLive = {
   ownLength: 2.8391,
   ownProgress: 2.8391,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

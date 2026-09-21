@@ -7,7 +7,6 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
   ownLength: 2.8619333333333334,
   ownProgress: 2.8619333333333334,
   partOfCollections: ["release/zara-larsson-invisible-end-title-from-klaus"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

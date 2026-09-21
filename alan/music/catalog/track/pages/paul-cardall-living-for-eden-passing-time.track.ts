@@ -10,7 +10,6 @@ export const paulCardallLivingForEdenPassingTime = {
     "release/paul-cardall-living-for-eden",
     "release/paul-cardall-saving-tiny-hearts",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

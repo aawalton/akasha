@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetDumbPoetic = {
   ownLength: 2.2246333333333332,
   ownProgress: 2.2246333333333332,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

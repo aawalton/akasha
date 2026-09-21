@@ -7,7 +7,6 @@ export const coldplayLive2012FixYouLive = {
   ownLength: 5.010883333333333,
   ownProgress: 5.010883333333333,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

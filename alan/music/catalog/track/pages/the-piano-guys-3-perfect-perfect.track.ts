@@ -7,7 +7,6 @@ export const thePianoGuys3PerfectPerfect = {
   ownLength: 5.179966666666667,
   ownProgress: 5.179966666666667,
   partOfCollections: ["release/the-piano-guys-3-perfect"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterWhyWhy = {
   ownLength: 2.8516,
   ownProgress: 2.8516,
   partOfCollections: ["release/sabrina-carpenter-why"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3FlickerFlicker = {
   ownLength: 3.27555,
   ownProgress: 3.27555,
   partOfCollections: ["release/the-piano-guys-3-flicker", "release/the-piano-guys-3-limitless"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

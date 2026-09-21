@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeAmazingGrace = {
   ownLength: 5.546666666666667,
   ownProgress: 5.546666666666667,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 25,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

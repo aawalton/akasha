@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandArdUiChuainSadhbhNiBhruinneall
   ownLength: 4.359766666666666,
   ownProgress: 4.359766666666666,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

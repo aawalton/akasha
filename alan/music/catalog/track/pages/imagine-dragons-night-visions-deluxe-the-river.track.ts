@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsDeluxeTheRiver = {
   ownLength: 3.4004333333333334,
   ownProgress: 3.4004333333333334,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

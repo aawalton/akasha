@@ -7,7 +7,6 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
   ownLength: 3.4033,
   ownProgress: 3.4033,
   partOfCollections: ["release/sabrina-carpenter-on-my-way-da-tweekaz-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

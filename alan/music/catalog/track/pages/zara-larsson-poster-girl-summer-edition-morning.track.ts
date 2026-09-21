@@ -7,7 +7,6 @@ export const zaraLarssonPosterGirlSummerEditionMorning = {
   ownLength: 2.9165666666666668,
   ownProgress: 2.9165666666666668,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

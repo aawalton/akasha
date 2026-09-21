@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023AlanisMorissetteNarratesYourDay = {
   ownLength: 4.475183333333334,
   ownProgress: 4.475183333333334,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

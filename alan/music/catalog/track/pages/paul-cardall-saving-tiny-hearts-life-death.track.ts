@@ -7,7 +7,6 @@ export const paulCardallSavingTinyHeartsLifeDeath = {
   ownLength: 5.5553333333333335,
   ownProgress: 5.5553333333333335,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

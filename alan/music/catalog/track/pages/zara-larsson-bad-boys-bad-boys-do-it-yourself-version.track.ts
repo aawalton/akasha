@@ -7,7 +7,6 @@ export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
   ownLength: 2.1557666666666666,
   ownProgress: 2.1557666666666666,
   partOfCollections: ["release/zara-larsson-bad-boys"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonHonorTheLightMemoryLane = {
   ownLength: 3.2022166666666667,
   ownProgress: 3.2022166666666667,
   partOfCollections: ["release/zara-larsson-honor-the-light", "release/zara-larsson-memory-lane"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

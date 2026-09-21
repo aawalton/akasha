@@ -7,7 +7,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveAshworthRemix = {
   ownLength: 3.1708666666666665,
   ownProgress: 3.1708666666666665,
   partOfCollections: ["release/sabrina-carpenter-first-love-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

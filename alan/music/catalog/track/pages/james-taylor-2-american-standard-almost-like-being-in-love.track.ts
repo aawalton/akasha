@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardAlmostLikeBeingInLove = {
   ownLength: 3.70955,
   ownProgress: 3.70955,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

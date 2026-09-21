@@ -7,7 +7,6 @@ export const auroraStormEnglishVersionStormEnglishVersion = {
   ownLength: 3.8170166666666665,
   ownProgress: 3.8170166666666665,
   partOfCollections: ["release/aurora-storm-english-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

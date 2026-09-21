@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterDontBeSadCauseYourSunIsDown2019R
   ownLength: 3.4911,
   ownProgress: 3.4911,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

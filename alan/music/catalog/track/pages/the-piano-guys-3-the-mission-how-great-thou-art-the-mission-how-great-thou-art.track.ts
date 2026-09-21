@@ -7,7 +7,6 @@ export const thePianoGuys3TheMissionHowGreatThouArtTheMissionHowGreatThouArt = {
   ownLength: 3.3592833333333334,
   ownProgress: 3.3592833333333334,
   partOfCollections: ["release/the-piano-guys-3-the-mission-how-great-thou-art"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

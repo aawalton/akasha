@@ -7,7 +7,6 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
   ownLength: 3.247316666666667,
   ownProgress: 3.247316666666667,
   partOfCollections: ["release/billie-eilish-bad-guy-with-justin-bieber"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

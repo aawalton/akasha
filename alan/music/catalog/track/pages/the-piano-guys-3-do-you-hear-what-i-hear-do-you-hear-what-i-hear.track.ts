@@ -7,7 +7,6 @@ export const thePianoGuys3DoYouHearWhatIHearDoYouHearWhatIHear = {
   ownLength: 3.33695,
   ownProgress: 3.33695,
   partOfCollections: ["release/the-piano-guys-3-do-you-hear-what-i-hear"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

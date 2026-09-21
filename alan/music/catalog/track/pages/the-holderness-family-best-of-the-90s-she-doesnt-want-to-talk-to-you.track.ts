@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
   ownLength: 1.8995333333333333,
   ownProgress: 1.8995333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryAStorMoChroi20thAnniversary = {
   ownLength: 5.094216666666667,
   ownProgress: 5.094216666666667,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

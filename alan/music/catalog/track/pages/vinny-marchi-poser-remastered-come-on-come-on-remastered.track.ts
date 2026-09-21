@@ -7,7 +7,6 @@ export const vinnyMarchiPoserRemasteredComeOnComeOnRemastered = {
   ownLength: 2.482083333333333,
   ownProgress: 2.482083333333333,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

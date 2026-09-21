@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12ContinualFeatCoryHenry = {
   ownLength: 3.8251166666666667,
   ownProgress: 3.8251166666666667,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

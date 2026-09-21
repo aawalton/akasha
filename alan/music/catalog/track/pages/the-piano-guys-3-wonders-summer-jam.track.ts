@@ -7,7 +7,6 @@ export const thePianoGuys3WondersSummerJam = {
   ownLength: 3.8971,
   ownProgress: 3.8971,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseEden = {
   ownLength: 3.4311,
   ownProgress: 3.4311,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

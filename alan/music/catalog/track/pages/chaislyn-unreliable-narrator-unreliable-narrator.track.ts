@@ -7,7 +7,6 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
   ownLength: 2.7575333333333334,
   ownProgress: 0,
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

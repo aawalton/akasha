@@ -7,7 +7,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRobynsTune = {
   ownLength: 1.732,
   ownProgress: 1.732,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

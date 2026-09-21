@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefMarysLament = {
   ownLength: 5.118233333333333,
   ownProgress: 5.118233333333333,
   partOfCollections: ["release/paul-cardall-grace-in-grief", "release/paul-cardall-mary-s-lament"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

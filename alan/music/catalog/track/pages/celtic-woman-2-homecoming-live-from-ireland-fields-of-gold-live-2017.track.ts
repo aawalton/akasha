@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandFieldsOfGoldLive2017 = {
   ownLength: 3.7228166666666667,
   ownProgress: 3.7228166666666667,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sGiveALittleRest = {
   ownLength: 1.9883333333333333,
   ownProgress: 1.9883333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3WondersAntsMarchingOdeToJoy = {
   ownLength: 2.82755,
   ownProgress: 2.82755,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const imagineDragonsNightVisionsDeluxeItsTime = {
     "release/imagine-dragons-night-visions-deluxe",
     "release/imagine-dragons-night-visions",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

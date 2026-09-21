@@ -7,7 +7,6 @@ export const paulCardallNewLifeDelayed = {
   ownLength: 2.9953333333333334,
   ownProgress: 2.9953333333333334,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

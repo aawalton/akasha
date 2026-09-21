@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungHomeByAnotherWay = {
   ownLength: 3.8466666666666667,
   ownProgress: 3.8466666666666667,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

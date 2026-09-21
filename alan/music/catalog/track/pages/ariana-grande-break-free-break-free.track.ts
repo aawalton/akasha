@@ -10,7 +10,6 @@ export const arianaGrandeBreakFreeBreakFree = {
     "release/ariana-grande-break-free",
     "release/ariana-grande-my-everything-tenth-anniversary-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

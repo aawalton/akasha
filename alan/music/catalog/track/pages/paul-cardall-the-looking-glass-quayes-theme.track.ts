@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassQuayesTheme = {
   ownLength: 3.7771,
   ownProgress: 3.7771,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sSlimeAfterSlime = {
   ownLength: 2.0414666666666665,
   ownProgress: 2.0414666666666665,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

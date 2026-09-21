@@ -7,7 +7,6 @@ export const paulCardallANewCreationEdenZaDrugim = {
   ownLength: 3.34755,
   ownProgress: 3.34755,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

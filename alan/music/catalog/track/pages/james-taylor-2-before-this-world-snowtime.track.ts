@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldSnowtime = {
   ownLength: 5.8091,
   ownProgress: 5.8091,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

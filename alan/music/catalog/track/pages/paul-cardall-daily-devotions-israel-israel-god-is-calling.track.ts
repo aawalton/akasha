@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsIsraelIsraelGodIsCalling = {
   ownLength: 3.1486666666666667,
   ownProgress: 3.1486666666666667,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

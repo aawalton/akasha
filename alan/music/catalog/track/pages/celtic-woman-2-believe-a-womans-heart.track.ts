@@ -7,7 +7,6 @@ export const celticWoman2BelieveAWomansHeart = {
   ownLength: 4.4091,
   ownProgress: 4.4091,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

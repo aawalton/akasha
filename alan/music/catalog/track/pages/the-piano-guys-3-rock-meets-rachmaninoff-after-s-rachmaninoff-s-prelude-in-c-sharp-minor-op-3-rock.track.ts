@@ -9,7 +9,6 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   partOfCollections: [
     "release/the-piano-guys-3-rock-meets-rachmaninoff-after-s-rachmaninoff-s-prelude-in-c-sharp-minor-op-3",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

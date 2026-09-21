@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryDulaman20thAnniversary = {
   ownLength: 4.100216666666666,
   ownProgress: 4.100216666666666,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

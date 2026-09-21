@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandBonnyPortmore = {
   ownLength: 4.006883333333334,
   ownProgress: 4.006883333333334,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

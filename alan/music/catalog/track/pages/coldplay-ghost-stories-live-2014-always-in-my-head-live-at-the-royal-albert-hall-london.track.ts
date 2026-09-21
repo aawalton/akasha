@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014AlwaysInMyHeadLiveAtTheRoyalAlbertHallL
   ownLength: 3.9544333333333332,
   ownProgress: 3.9544333333333332,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

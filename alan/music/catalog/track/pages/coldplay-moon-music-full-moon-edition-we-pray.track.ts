@@ -10,7 +10,6 @@ export const coldplayMoonMusicFullMoonEditionWePray = {
     "release/coldplay-moon-music-full-moon-edition",
     "release/coldplay-moon-music",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

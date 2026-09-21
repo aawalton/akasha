@@ -7,7 +7,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSunnySkies2019Remaster = {
   ownLength: 2.352,
   ownProgress: 2.352,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

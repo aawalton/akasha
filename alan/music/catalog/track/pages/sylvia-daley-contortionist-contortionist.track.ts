@@ -7,7 +7,6 @@ export const sylviaDaleyContortionistContortionist = {
   ownLength: 2.04615,
   ownProgress: 0,
   partOfCollections: ["release/sylvia-daley-contortionist"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

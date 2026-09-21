@@ -10,7 +10,6 @@ export const thePianoGuys310AMillionDreams = {
     "release/the-piano-guys-3-10",
     "release/the-piano-guys-3-classical-movie-soundtracks",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

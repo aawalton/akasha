@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetDeluxeCoincidence = {
   ownLength: 2.736666666666667,
   ownProgress: 2.736666666666667,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

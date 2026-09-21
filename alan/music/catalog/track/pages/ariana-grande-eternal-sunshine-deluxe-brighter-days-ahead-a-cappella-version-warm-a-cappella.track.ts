@@ -9,7 +9,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
   ],
-  position: 35,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

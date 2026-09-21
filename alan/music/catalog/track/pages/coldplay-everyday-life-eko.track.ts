@@ -7,7 +7,6 @@ export const coldplayEverydayLifeEko = {
   ownLength: 2.6311,
   ownProgress: 2.6311,
   partOfCollections: ["release/coldplay-everyday-life"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

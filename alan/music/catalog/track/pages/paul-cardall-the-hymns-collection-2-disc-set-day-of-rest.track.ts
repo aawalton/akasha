@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetDayOfRest = {
   ownLength: 2.6583833333333335,
   ownProgress: 2.6583833333333335,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

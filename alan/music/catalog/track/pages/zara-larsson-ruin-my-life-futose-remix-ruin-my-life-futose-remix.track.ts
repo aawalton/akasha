@@ -10,7 +10,6 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
     "release/zara-larsson-ruin-my-life-futose-remix",
     "release/zara-larsson-ruin-my-life-the-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

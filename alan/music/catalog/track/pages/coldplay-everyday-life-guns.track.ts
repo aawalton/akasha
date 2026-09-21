@@ -7,7 +7,6 @@ export const coldplayEverydayLifeGuns = {
   ownLength: 1.918,
   ownProgress: 1.918,
   partOfCollections: ["release/coldplay-everyday-life"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

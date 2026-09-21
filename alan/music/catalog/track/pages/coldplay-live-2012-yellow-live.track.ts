@@ -7,7 +7,6 @@ export const coldplayLive2012YellowLive = {
   ownLength: 6.866216666666666,
   ownProgress: 6.866216666666666,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

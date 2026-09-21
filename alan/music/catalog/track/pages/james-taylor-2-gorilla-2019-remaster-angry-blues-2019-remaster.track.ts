@@ -7,7 +7,6 @@ export const jamesTaylor2Gorilla2019RemasterAngryBlues2019Remaster = {
   ownLength: 3.4368833333333333,
   ownProgress: 3.4368833333333333,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

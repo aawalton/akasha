@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsWalkBesideMe2016Version = {
   ownLength: 4.666666666666667,
   ownProgress: 4.666666666666667,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

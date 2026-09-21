@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysBringHimHome = {
   ownLength: 4.287133333333333,
   ownProgress: 4.287133333333333,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

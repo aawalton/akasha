@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryTreadLightly20thAnniversary = {
   ownLength: 3.5942166666666666,
   ownProgress: 3.5942166666666666,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiMeetUThereMeetUThere = {
   ownLength: 2.8,
   ownProgress: 2.8,
   partOfCollections: ["release/vinny-marchi-meet-u-there"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

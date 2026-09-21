@@ -7,7 +7,6 @@ export const coldplayFlagsFlags = {
   ownLength: 3.608216666666667,
   ownProgress: 3.608216666666667,
   partOfCollections: ["release/coldplay-flags"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

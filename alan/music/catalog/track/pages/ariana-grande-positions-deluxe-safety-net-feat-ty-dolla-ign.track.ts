@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
   ownLength: 3.474283333333333,
   ownProgress: 3.474283333333333,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

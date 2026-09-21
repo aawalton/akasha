@@ -7,7 +7,6 @@ export const paulCardallAncestorsHeartsOfMothers = {
   ownLength: 3.3223,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

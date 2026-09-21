@@ -7,7 +7,6 @@ export const jamesTaylor2ThatSWhyIMHereThatsWhyImHereReprise = {
   ownLength: 0.4322166666666667,
   ownProgress: 0.4322166666666667,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

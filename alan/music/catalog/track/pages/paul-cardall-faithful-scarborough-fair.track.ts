@@ -7,7 +7,6 @@ export const paulCardallFaithfulScarboroughFair = {
   ownLength: 3.713766666666667,
   ownProgress: 3.713766666666667,
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -11,7 +11,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
     "release/ariana-grande-wicked-the-soundtrack",
     "release/musical-theater-wicked-the-soundtrack",
   ],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

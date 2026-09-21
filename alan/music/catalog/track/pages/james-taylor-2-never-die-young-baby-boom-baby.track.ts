@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungBabyBoomBaby = {
   ownLength: 4.9971,
   ownProgress: 4.9971,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheSadSadAlphaMan = {
     "release/vinny-marchi-tales-of-the-lesbian-hunter",
     "release/vinny-marchi-the-sad-sad-alpha-man",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

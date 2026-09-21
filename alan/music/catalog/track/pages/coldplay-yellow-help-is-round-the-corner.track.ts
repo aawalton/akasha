@@ -7,7 +7,6 @@ export const coldplayYellowHelpIsRoundTheCorner = {
   ownLength: 2.6026666666666665,
   ownProgress: 2.6026666666666665,
   partOfCollections: ["release/coldplay-yellow"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

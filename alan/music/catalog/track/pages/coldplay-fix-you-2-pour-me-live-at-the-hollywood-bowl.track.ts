@@ -7,7 +7,6 @@ export const coldplayFixYou2PourMeLiveAtTheHollywoodBowl = {
   ownLength: 5.022883333333334,
   ownProgress: 5.022883333333334,
   partOfCollections: ["release/coldplay-fix-you-2", "release/coldplay-fix-you"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

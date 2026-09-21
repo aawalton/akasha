@@ -7,7 +7,6 @@ export const celticWoman2EmeraldMusicalGemsDulaman = {
   ownLength: 4.3337666666666665,
   ownProgress: 4.3337666666666665,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

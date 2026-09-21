@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveDontLetMeBeLonelyTonight = {
   ownLength: 3.194,
   ownProgress: 3.194,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

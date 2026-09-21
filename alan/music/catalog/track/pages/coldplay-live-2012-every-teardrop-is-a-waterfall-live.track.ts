@@ -7,7 +7,6 @@ export const coldplayLive2012EveryTeardropIsAWaterfallLive = {
   ownLength: 5.4051,
   ownProgress: 5.4051,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

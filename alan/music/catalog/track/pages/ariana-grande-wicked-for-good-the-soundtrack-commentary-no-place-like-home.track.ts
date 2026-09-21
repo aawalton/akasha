@@ -10,7 +10,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHome = {
     "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
     "release/ariana-grande-wicked-for-good-the-soundtrack",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallFaithfulSacredNature = {
   ownLength: 3.346216666666667,
   ownProgress: 3.346216666666667,
   partOfCollections: ["release/paul-cardall-faithful"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

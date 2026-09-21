@@ -7,7 +7,6 @@ export const jisooMeFlower = {
   ownLength: 2.8855666666666666,
   ownProgress: 2.8855666666666666,
   partOfCollections: ["release/jisoo-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

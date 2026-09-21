@@ -7,7 +7,6 @@ export const jisooMeAllEyesOnMe = {
   ownLength: 2.7253666666666665,
   ownProgress: 2.7253666666666665,
   partOfCollections: ["release/jisoo-me"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionDontWantItBack = {
   ownLength: 3.030883333333333,
   ownProgress: 3.030883333333333,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

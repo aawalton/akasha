@@ -9,7 +9,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     ownLength: 4.37415,
     ownProgress: 4.37415,
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
-    position: 3,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

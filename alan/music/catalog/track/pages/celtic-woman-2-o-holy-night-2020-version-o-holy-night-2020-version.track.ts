@@ -7,7 +7,6 @@ export const celticWoman2OHolyNight2020VersionOHolyNight2020Version = {
   ownLength: 3.650183333333333,
   ownProgress: 3.650183333333333,
   partOfCollections: ["release/celtic-woman-2-o-holy-night-2020-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

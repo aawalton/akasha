@@ -7,7 +7,6 @@ export const celticWoman2CelebrationNilSenLa2013Version = {
   ownLength: 3.6273333333333335,
   ownProgress: 3.6273333333333335,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

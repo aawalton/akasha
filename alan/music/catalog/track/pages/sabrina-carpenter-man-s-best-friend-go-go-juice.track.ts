@@ -7,7 +7,6 @@ export const sabrinaCarpenterManSBestFriendGoGoJuice = {
   ownLength: 3.2219166666666665,
   ownProgress: 3.2219166666666665,
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

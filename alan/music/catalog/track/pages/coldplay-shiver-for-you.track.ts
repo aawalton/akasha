@@ -7,7 +7,6 @@ export const coldplayShiverForYou = {
   ownLength: 5.731766666666666,
   ownProgress: 5.731766666666666,
   partOfCollections: ["release/coldplay-shiver"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandePetalKissMe = {
   ownLength: 3.6597333333333335,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

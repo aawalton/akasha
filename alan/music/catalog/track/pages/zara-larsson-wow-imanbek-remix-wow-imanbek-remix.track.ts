@@ -7,7 +7,6 @@ export const zaraLarssonWowImanbekRemixWowImanbekRemix = {
   ownLength: 3.1238,
   ownProgress: 3.1238,
   partOfCollections: ["release/zara-larsson-wow-imanbek-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

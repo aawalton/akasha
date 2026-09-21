@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsDoYouHearWhatIHear = {
   ownLength: 4.181766666666666,
   ownProgress: 4.181766666666666,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

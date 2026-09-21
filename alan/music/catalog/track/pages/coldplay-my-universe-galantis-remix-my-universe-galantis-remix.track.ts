@@ -7,7 +7,6 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
   ownLength: 3.748466666666667,
   ownProgress: 3.748466666666667,
   partOfCollections: ["release/coldplay-my-universe-galantis-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

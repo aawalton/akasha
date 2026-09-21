@@ -7,7 +7,6 @@ export const coldplayEverydayLifeCryCryCry = {
   ownLength: 2.788,
   ownProgress: 2.788,
   partOfCollections: ["release/coldplay-everyday-life"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

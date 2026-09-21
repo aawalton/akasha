@@ -7,7 +7,6 @@ export const sylviaDaleyTwinkleTwinkleTwinkleTwinkle = {
   ownLength: 2.4285666666666668,
   ownProgress: 0,
   partOfCollections: ["release/sylvia-daley-twinkle-twinkle"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

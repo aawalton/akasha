@@ -7,7 +7,6 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
   ownLength: 3.798,
   ownProgress: 3.798,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

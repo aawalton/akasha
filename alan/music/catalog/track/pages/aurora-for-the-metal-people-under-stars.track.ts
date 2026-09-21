@@ -7,7 +7,6 @@ export const auroraForTheMetalPeopleUnderStars = {
   ownLength: 3.3171,
   ownProgress: 3.3171,
   partOfCollections: ["release/aurora-for-the-metal-people", "release/aurora-under-stars"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

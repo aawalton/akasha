@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIiTellEm = {
   ownLength: 4.674016666666667,
   ownProgress: 4.674016666666667,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

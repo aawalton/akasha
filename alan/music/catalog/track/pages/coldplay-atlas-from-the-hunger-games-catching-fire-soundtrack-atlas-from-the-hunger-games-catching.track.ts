@@ -8,7 +8,6 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrackAtlasFromTheHu
     ownLength: 3.9348833333333335,
     ownProgress: 3.9348833333333335,
     partOfCollections: ["release/coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack"],
-    position: 1,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

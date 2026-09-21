@@ -7,7 +7,6 @@ export const jamesTaylor2FlagJohnnieComesBack = {
   ownLength: 3.9,
   ownProgress: 3.9,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

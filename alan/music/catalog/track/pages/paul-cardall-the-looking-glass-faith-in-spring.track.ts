@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassFaithInSpring = {
   ownLength: 2.3848833333333332,
   ownProgress: 2.3848833333333332,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

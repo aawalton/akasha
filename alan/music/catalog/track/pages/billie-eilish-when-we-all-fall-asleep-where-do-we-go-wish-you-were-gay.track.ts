@@ -7,7 +7,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoWishYouWereGay = {
   ownLength: 3.6923833333333334,
   ownProgress: 3.6923833333333334,
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

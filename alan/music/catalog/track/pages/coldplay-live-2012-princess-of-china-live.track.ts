@@ -7,7 +7,6 @@ export const coldplayLive2012PrincessOfChinaLive = {
   ownLength: 3.816,
   ownProgress: 3.816,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

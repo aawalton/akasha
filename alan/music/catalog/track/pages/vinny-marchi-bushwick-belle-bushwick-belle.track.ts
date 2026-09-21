@@ -7,7 +7,6 @@ export const vinnyMarchiBushwickBelleBushwickBelle = {
   ownLength: 3.40475,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

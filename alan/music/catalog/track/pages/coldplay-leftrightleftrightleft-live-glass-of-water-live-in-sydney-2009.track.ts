@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveGlassOfWaterLiveInSydney2009 = {
   ownLength: 4.737333333333333,
   ownProgress: 4.737333333333333,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

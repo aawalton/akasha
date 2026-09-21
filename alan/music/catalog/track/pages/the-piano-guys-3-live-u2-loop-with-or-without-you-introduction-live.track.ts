@@ -7,7 +7,6 @@ export const thePianoGuys3LiveU2LoopWithOrWithoutYouIntroductionLive = {
   ownLength: 0.6697666666666666,
   ownProgress: 0.6697666666666666,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

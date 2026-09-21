@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetJesusOfNazarethSaviorAndKing =
   ownLength: 2.3923666666666668,
   ownProgress: 2.3923666666666668,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

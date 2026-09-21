@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandDownByTheSalleyGardens = {
   ownLength: 4.1751,
   ownProgress: 4.1751,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

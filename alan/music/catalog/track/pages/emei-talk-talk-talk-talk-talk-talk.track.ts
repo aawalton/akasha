@@ -7,7 +7,6 @@ export const emeiTalkTalkTalkTalkTalkTalk = {
   ownLength: 3.2657666666666665,
   ownProgress: 0,
   partOfCollections: ["release/emei-talk-talk-talk"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyVivaldisRain = {
   ownLength: 2.187333333333333,
   ownProgress: 2.187333333333333,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

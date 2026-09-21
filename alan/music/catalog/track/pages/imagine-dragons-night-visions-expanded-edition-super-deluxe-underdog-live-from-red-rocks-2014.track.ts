@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdogLiveFro
   ownLength: 4.293333333333333,
   ownProgress: 4.293333333333333,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2JtAnotherGreyMorning = {
   ownLength: 2.73785,
   ownProgress: 2.73785,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

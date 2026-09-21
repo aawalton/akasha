@@ -7,7 +7,6 @@ export const vinnyMarchiTakeMeBackToYouTakeMeBackToYou = {
   ownLength: 2.8855666666666666,
   ownProgress: 2.8855666666666666,
   partOfCollections: ["release/vinny-marchi-take-me-back-to-you"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

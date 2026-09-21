@@ -10,7 +10,6 @@ export const coldplayProspektSMarchLifeInTechnicolorIi = {
     "release/coldplay-prospekt-s-march",
     "release/coldplay-viva-la-vida-prospekt-s-march-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

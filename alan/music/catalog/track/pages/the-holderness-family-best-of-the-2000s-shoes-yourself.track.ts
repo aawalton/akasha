@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe2000sShoesYourself = {
   ownLength: 1.6188,
   ownProgress: 1.6188,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

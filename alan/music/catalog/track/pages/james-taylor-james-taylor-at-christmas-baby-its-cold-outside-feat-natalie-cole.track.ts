@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
   ownLength: 4.294666666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplaySomethingJustLikeThisSomethingJustLikeThis = {
   ownLength: 4.1271,
   ownProgress: 4.1271,
   partOfCollections: ["release/coldplay-something-just-like-this"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

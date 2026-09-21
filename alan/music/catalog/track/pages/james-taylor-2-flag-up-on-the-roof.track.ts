@@ -7,7 +7,6 @@ export const jamesTaylor2FlagUpOnTheRoof = {
   ownLength: 4.334433333333333,
   ownProgress: 4.334433333333333,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

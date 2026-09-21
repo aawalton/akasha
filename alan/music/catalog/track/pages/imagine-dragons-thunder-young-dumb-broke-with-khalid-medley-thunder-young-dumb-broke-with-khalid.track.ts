@@ -7,7 +7,6 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedleyThunderYoungDumb
   ownLength: 4.18805,
   ownProgress: 4.18805,
   partOfCollections: ["release/imagine-dragons-thunder-young-dumb-broke-with-khalid-medley"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

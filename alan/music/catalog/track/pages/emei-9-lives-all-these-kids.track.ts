@@ -11,7 +11,6 @@ export const emei9LivesAllTheseKids = {
     "release/emei-all-these-kids",
     "release/emei-rabbithole-2",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

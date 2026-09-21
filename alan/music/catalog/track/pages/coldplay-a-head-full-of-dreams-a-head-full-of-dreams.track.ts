@@ -7,7 +7,6 @@ export const coldplayAHeadFullOfDreamsAHeadFullOfDreams = {
   ownLength: 3.72955,
   ownProgress: 3.72955,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

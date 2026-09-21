@@ -7,7 +7,6 @@ export const emeiCrazyStupidLoveCrazyStupidLove = {
   ownLength: 2.60555,
   ownProgress: 2.60555,
   partOfCollections: ["release/emei-crazy-stupid-love"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

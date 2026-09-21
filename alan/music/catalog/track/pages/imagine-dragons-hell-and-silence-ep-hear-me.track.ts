@@ -7,7 +7,6 @@ export const imagineDragonsHellAndSilenceEpHearMe = {
   ownLength: 3.9102166666666665,
   ownProgress: 3.9102166666666665,
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

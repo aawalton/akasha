@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysSweetHourOfPrayer = {
   ownLength: 4.27355,
   ownProgress: 4.27355,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

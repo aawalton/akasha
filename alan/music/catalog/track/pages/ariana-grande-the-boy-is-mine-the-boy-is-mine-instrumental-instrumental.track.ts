@@ -7,7 +7,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineInstrumentalInstrumental = {
   ownLength: 2.8939833333333334,
   ownProgress: 2.8939833333333334,
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

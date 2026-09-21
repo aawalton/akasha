@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanMoonlight = {
   ownLength: 3.3726666666666665,
   ownProgress: 3.3726666666666665,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

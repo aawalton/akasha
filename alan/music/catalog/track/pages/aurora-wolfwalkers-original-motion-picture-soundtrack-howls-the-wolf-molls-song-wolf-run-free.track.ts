@@ -7,7 +7,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackHowlsTheWolfMollsSo
   ownLength: 1.95,
   ownProgress: 1.95,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

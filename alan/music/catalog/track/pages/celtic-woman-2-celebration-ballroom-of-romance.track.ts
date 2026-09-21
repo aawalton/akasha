@@ -7,7 +7,6 @@ export const celticWoman2CelebrationBallroomOfRomance = {
   ownLength: 3.30155,
   ownProgress: 3.30155,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

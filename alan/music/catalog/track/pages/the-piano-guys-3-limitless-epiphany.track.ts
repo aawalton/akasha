@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessEpiphany = {
   ownLength: 4.699983333333333,
   ownProgress: 4.699983333333333,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

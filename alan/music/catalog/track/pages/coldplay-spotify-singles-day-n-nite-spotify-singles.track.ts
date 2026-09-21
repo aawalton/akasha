@@ -7,7 +7,6 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
   ownLength: 4.3143666666666665,
   ownProgress: 4.3143666666666665,
   partOfCollections: ["release/coldplay-spotify-singles"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

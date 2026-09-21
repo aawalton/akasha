@@ -7,7 +7,6 @@ export const jamesTaylor2JtIWasOnlyTellingALie = {
   ownLength: 3.417116666666667,
   ownProgress: 3.417116666666667,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

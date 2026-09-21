@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarBlessedJesuFountOfMercy = {
   ownLength: 2.5258666666666665,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 40,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

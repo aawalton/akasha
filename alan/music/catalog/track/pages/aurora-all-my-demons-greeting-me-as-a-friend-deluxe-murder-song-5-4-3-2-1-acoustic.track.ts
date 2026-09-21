@@ -11,7 +11,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321Acoustic =
     "release/aurora-murder-song-5-4-3-2-1",
     "release/aurora-stories",
   ],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

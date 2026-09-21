@@ -7,7 +7,6 @@ export const celticWoman2DestinySiuilARun = {
   ownLength: 2.9976333333333334,
   ownProgress: 2.9976333333333334,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

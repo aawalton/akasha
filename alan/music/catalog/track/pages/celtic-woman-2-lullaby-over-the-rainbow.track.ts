@@ -7,7 +7,6 @@ export const celticWoman2LullabyOverTheRainbow = {
   ownLength: 2.6631,
   ownProgress: 2.6631,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

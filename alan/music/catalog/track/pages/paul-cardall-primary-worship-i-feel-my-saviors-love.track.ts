@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipIFeelMySaviorsLove = {
   ownLength: 3.45155,
   ownProgress: 3.45155,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsLoomEyesClosedFeatJBalvin = {
   ownLength: 3.33355,
   ownProgress: 3.33355,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

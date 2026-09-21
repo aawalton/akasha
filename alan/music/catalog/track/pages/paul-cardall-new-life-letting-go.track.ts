@@ -7,7 +7,6 @@ export const paulCardallNewLifeLettingGo = {
   ownLength: 6.8868833333333335,
   ownProgress: 6.8868833333333335,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

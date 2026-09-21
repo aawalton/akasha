@@ -7,7 +7,6 @@ export const jamesTaylor2JtHandyMan = {
   ownLength: 3.3074166666666667,
   ownProgress: 3.3074166666666667,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

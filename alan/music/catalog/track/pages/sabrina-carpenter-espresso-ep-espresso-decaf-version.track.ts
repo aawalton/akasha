@@ -7,7 +7,6 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
   ownLength: 3.2452666666666667,
   ownProgress: 3.2452666666666667,
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

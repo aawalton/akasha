@@ -10,7 +10,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

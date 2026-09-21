@@ -7,7 +7,6 @@ export const coldplayXYAMessage = {
   ownLength: 4.75575,
   ownProgress: 4.75575,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

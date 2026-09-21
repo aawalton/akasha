@@ -10,7 +10,6 @@ export const sabrinaCarpenterManSBestFriendHouseTour = {
     "release/sabrina-carpenter-man-s-best-friend",
     "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

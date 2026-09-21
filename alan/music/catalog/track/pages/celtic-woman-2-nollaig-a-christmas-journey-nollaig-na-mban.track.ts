@@ -10,7 +10,6 @@ export const celticWoman2NollaigAChristmasJourneyNollaigNaMban = {
     "release/celtic-woman-2-nollaig-a-christmas-journey",
     "release/celtic-woman-2-nollaig-na-mban",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

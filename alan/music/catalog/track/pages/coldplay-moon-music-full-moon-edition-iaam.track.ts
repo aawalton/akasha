@@ -10,7 +10,6 @@ export const coldplayMoonMusicFullMoonEditionIaam = {
     "release/coldplay-moon-music-full-moon-edition",
     "release/coldplay-moon-music",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandSlapLeatherLiveAtTheColonialTheatre2007 = {
   ownLength: 3.1228833333333332,
   ownProgress: 3.1228833333333332,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

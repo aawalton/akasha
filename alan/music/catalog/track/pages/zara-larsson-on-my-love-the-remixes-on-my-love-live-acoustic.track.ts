@@ -7,7 +7,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveLiveAcoustic = {
   ownLength: 3.740466666666667,
   ownProgress: 3.740466666666667,
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

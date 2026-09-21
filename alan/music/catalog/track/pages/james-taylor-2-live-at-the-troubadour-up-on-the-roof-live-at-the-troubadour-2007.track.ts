@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourUpOnTheRoofLiveAtTheTroubadour2007 =
   ownLength: 4.152433333333334,
   ownProgress: 4.152433333333334,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

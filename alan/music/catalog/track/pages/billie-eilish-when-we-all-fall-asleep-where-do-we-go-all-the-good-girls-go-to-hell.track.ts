@@ -7,7 +7,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
   ownLength: 2.8139833333333333,
   ownProgress: 2.8139833333333333,
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

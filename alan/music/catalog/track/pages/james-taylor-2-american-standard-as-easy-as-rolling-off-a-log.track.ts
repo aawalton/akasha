@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardAsEasyAsRollingOffALog = {
   ownLength: 2.8404333333333334,
   ownProgress: 2.8404333333333334,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

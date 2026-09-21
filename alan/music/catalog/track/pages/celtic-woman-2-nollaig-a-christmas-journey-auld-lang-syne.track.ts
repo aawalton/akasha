@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyAuldLangSyne = {
   ownLength: 4.839833333333333,
   ownProgress: 4.839833333333333,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

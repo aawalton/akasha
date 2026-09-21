@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanSiDoMhaimeoILive = {
   ownLength: 2.2208833333333335,
   ownProgress: 2.2208833333333335,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

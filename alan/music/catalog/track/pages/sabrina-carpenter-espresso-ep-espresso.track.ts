@@ -13,7 +13,6 @@ export const sabrinaCarpenterEspressoEpEspresso = {
     "release/sabrina-carpenter-please-please-please",
     "release/sabrina-carpenter-short-n-sweet",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

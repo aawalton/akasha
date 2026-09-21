@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartTheCoastOfGalicia = {
   ownLength: 3.6351,
   ownProgress: 3.6351,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

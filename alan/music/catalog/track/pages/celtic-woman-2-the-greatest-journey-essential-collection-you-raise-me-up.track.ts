@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionYouRaiseMeUp = {
   ownLength: 4.650883333333334,
   ownProgress: 4.650883333333334,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

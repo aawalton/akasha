@@ -7,7 +7,6 @@ export const coldplayMoonMusicFullMoonEditionIAmAMountain = {
   ownLength: 3.1135,
   ownProgress: 3.1135,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

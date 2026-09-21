@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryAmazingGrace20thAnniversary = {
   ownLength: 4.70555,
   ownProgress: 4.70555,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

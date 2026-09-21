@@ -7,7 +7,6 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
   ownLength: 4.6151,
   ownProgress: 4.6151,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayCharlieBrownCharlieBrown = {
   ownLength: 4.75265,
   ownProgress: 4.75265,
   partOfCollections: ["release/coldplay-charlie-brown", "release/coldplay-mylo-xyloto"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

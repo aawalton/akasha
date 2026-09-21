@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveUpOnTheRoof = {
   ownLength: 4.1528833333333335,
   ownProgress: 4.1528833333333335,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

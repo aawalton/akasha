@@ -7,7 +7,6 @@ export const sabrinaCarpenterFruitcakeCindyLouWho = {
   ownLength: 2.022666666666667,
   ownProgress: 2.022666666666667,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

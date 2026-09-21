@@ -7,7 +7,6 @@ export const coldplayDonTPanicDontPanic = {
   ownLength: 2.2811,
   ownProgress: 2.2811,
   partOfCollections: ["release/coldplay-don-t-panic", "release/coldplay-parachutes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

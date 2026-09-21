@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeSomeoneLikeUInterlude = {
   ownLength: 1.2790333333333332,
   ownProgress: 1.2790333333333332,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

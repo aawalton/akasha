@@ -7,7 +7,6 @@ export const auroraRunawayLvl2RunawayLvl2 = {
   ownLength: 3.564433333333333,
   ownProgress: 3.564433333333333,
   partOfCollections: ["release/aurora-runaway-lvl-2"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

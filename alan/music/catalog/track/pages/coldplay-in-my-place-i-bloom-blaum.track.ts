@@ -7,7 +7,6 @@ export const coldplayInMyPlaceIBloomBlaum = {
   ownLength: 2.1848833333333335,
   ownProgress: 2.1848833333333335,
   partOfCollections: ["release/coldplay-in-my-place"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

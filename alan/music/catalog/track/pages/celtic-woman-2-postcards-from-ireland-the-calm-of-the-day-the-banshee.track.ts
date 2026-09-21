@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandTheCalmOfTheDayTheBanshee = {
   ownLength: 2.9537666666666667,
   ownProgress: 2.9537666666666667,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

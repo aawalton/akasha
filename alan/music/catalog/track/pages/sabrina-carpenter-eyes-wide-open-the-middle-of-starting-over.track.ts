@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
   ownLength: 3.546,
   ownProgress: 3.546,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

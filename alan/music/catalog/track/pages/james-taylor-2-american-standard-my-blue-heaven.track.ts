@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardMyBlueHeaven = {
   ownLength: 2.719333333333333,
   ownProgress: 2.719333333333333,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

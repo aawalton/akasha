@@ -11,7 +11,6 @@ export const thePianoGuys3ChillYouAreTheReason = {
     "release/the-piano-guys-3-classical-love-romance",
     "release/the-piano-guys-3-wedding-season",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

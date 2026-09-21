@@ -7,7 +7,6 @@ export const paulCardallTheShoresOfNormandyTheShoresOfNormandy = {
   ownLength: 4.3414,
   ownProgress: 4.3414,
   partOfCollections: ["release/paul-cardall-the-shores-of-normandy"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

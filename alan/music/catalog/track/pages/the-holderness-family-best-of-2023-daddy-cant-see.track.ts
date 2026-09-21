@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023DaddyCantSee = {
   ownLength: 2.1148,
   ownProgress: 2.1148,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

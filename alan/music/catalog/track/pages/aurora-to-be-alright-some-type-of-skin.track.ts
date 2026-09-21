@@ -11,7 +11,6 @@ export const auroraToBeAlrightSomeTypeOfSkin = {
     "release/aurora-what-happened-to-the-heart-deluxe",
     "release/aurora-what-happened-to-the-heart",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

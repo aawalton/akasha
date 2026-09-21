@@ -7,7 +7,6 @@ export const imagineDragonsDemonsDemonsAcousticLiveInLondon = {
   ownLength: 3.129766666666667,
   ownProgress: 3.129766666666667,
   partOfCollections: ["release/imagine-dragons-demons"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

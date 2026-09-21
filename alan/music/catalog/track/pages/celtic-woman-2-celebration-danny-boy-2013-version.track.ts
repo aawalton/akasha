@@ -7,7 +7,6 @@ export const celticWoman2CelebrationDannyBoy2013Version = {
   ownLength: 3.2948833333333334,
   ownProgress: 3.2948833333333334,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeImagineDragonsRemix = {
   ownLength: 4.976,
   ownProgress: 4.976,
   partOfCollections: ["release/imagine-dragons-i-bet-my-life-remixes"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefBlueHeaven = {
   ownLength: 3.82145,
   ownProgress: 3.82145,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

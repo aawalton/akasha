@@ -7,7 +7,6 @@ export const paulCardallLiveDiamondsForStonesLive = {
   ownLength: 2.86155,
   ownProgress: 2.86155,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

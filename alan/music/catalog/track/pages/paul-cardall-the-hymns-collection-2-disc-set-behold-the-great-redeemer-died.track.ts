@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetBeholdTheGreatRedeemerDied = {
   ownLength: 4.05725,
   ownProgress: 4.05725,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

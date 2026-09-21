@@ -7,7 +7,6 @@ export const paulCardallFaithfulLessComplicated = {
   ownLength: 4.333333333333333,
   ownProgress: 4.333333333333333,
   partOfCollections: ["release/paul-cardall-faithful"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

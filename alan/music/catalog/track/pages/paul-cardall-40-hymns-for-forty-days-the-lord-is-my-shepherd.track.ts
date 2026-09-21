@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysTheLordIsMyShepherd = {
   ownLength: 3.264883333333333,
   ownProgress: 3.264883333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

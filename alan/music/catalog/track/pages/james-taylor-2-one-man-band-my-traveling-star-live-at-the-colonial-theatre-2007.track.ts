@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandMyTravelingStarLiveAtTheColonialTheatre2007 =
   ownLength: 4.190433333333333,
   ownProgress: 4.190433333333333,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

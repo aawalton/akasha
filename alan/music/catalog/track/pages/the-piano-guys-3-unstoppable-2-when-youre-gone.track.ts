@@ -11,7 +11,6 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
     "release/the-piano-guys-3-when-you-re-gone",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

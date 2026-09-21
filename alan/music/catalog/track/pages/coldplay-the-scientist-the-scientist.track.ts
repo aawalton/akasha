@@ -7,7 +7,6 @@ export const coldplayTheScientistTheScientist = {
   ownLength: 5.190433333333333,
   ownProgress: 5.190433333333333,
   partOfCollections: ["release/coldplay-the-scientist"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
     "release/aurora-runaway-guitar-acoustic",
     "release/aurora-runaway-piano-acoustic",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

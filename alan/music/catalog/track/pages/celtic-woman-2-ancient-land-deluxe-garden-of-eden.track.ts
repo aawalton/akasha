@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeGardenOfEden = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-ancient-land",
   ],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

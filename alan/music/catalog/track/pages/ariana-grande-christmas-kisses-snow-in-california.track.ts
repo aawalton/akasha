@@ -7,7 +7,6 @@ export const arianaGrandeChristmasKissesSnowInCalifornia = {
   ownLength: 3.43955,
   ownProgress: 3.43955,
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

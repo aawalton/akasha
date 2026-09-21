@@ -7,7 +7,6 @@ export const thePianoGuys3ChillAbrahamLincolnTribute = {
   ownLength: 4.578033333333333,
   ownProgress: 4.578033333333333,
   partOfCollections: ["release/the-piano-guys-3-chill"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

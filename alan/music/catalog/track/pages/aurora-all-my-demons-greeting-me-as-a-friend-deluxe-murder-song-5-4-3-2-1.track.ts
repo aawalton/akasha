@@ -11,7 +11,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
     "release/aurora-for-the-metal-people",
     "release/aurora-murder-song-5-4-3-2-1",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

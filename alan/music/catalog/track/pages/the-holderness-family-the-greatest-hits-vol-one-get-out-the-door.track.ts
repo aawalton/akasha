@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneGetOutTheDoor = {
   ownLength: 2.1194,
   ownProgress: 2.1194,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

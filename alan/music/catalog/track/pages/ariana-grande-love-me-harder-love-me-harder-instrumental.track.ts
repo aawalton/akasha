@@ -7,7 +7,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarderInstrumental = {
   ownLength: 3.9339,
   ownProgress: 3.9339,
   partOfCollections: ["release/ariana-grande-love-me-harder"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

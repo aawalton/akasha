@@ -7,7 +7,6 @@ export const imagineDragonsItSTimeEpLookHowFarWeveCome = {
   ownLength: 4.132883333333333,
   ownProgress: 4.132883333333333,
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

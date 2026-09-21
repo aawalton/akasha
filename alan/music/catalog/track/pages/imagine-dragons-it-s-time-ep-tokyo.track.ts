@@ -7,7 +7,6 @@ export const imagineDragonsItSTimeEpTokyo = {
   ownLength: 3.276883333333333,
   ownProgress: 3.276883333333333,
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

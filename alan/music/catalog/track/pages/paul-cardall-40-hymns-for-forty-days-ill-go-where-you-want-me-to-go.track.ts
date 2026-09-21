@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysIllGoWhereYouWantMeToGo = {
   ownLength: 2.634,
   ownProgress: 2.634,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 40,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

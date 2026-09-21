@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sCantHelpWithHomeworkAnymore = {
   ownLength: 3.581583333333333,
   ownProgress: 3.581583333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

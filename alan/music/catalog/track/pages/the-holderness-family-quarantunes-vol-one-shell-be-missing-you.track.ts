@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOneShellBeMissingYou = {
   ownLength: 3.1743,
   ownProgress: 3.1743,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

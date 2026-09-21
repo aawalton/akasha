@@ -7,7 +7,6 @@ export const jamesTaylor2CoversSadie = {
   ownLength: 4.580216666666667,
   ownProgress: 4.580216666666667,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

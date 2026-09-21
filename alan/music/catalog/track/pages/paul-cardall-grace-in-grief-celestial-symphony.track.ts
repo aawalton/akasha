@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefCelestialSymphony = {
   ownLength: 5.214583333333334,
   ownProgress: 5.214583333333334,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

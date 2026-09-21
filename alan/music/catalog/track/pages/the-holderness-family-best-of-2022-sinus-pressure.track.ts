@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022SinusPressure = {
   ownLength: 3.074,
   ownProgress: 3.074,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

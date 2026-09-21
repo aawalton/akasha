@@ -7,7 +7,6 @@ export const celticWoman2DestinyHowCanIKeepFromSinging = {
   ownLength: 4.295583333333333,
   ownProgress: 4.295583333333333,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

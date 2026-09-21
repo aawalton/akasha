@@ -7,7 +7,6 @@ export const coldplayInMyPlaceInMyPlace = {
   ownLength: 3.81555,
   ownProgress: 3.81555,
   partOfCollections: ["release/coldplay-in-my-place"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasChristmasMorning = {
   ownLength: 3.9892,
   ownProgress: 3.9892,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

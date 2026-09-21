@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherMaryDidYouKnowCorelliChristmasConcert
   ownLength: 4.020833333333333,
   ownProgress: 4.020833333333333,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

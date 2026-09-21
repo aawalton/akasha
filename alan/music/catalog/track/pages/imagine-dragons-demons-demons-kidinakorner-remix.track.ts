@@ -7,7 +7,6 @@ export const imagineDragonsDemonsDemonsKidinakornerRemix = {
   ownLength: 3.328,
   ownProgress: 3.328,
   partOfCollections: ["release/imagine-dragons-demons"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

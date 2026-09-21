@@ -7,7 +7,6 @@ export const vinnyMarchiLifelineLifeline = {
   ownLength: 3.4047666666666667,
   ownProgress: 3.4047666666666667,
   partOfCollections: ["release/vinny-marchi-lifeline"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

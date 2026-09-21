@@ -7,7 +7,6 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
   ownLength: 3.1166666666666667,
   ownProgress: 3.1166666666666667,
   partOfCollections: ["release/sabrina-carpenter-skin-quarterhead-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

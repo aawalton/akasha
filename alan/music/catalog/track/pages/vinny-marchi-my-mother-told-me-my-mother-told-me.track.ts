@@ -7,7 +7,6 @@ export const vinnyMarchiMyMotherToldMeMyMotherToldMe = {
   ownLength: 2.369866666666667,
   ownProgress: 2.369866666666667,
   partOfCollections: ["release/vinny-marchi-my-mother-told-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sISawTheSign = {
   ownLength: 2.7737666666666665,
   ownProgress: 2.7737666666666665,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

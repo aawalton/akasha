@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysAPoorWayfaringManOfGrief = {
   ownLength: 2.1008833333333334,
   ownProgress: 2.1008833333333334,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

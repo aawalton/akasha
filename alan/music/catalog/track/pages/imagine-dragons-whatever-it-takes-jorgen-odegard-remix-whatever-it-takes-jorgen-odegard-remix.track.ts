@@ -7,7 +7,6 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemixWhateverItTakesJorge
   ownLength: 3.881466666666667,
   ownProgress: 3.881466666666667,
   partOfCollections: ["release/imagine-dragons-whatever-it-takes-jorgen-odegard-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

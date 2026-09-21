@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanHarrysGame = {
   ownLength: 2.50555,
   ownProgress: 2.50555,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

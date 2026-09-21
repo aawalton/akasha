@@ -7,7 +7,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionWeAlmostBrokeUpAgain
   ownLength: 3.38965,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

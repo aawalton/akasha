@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
   ownLength: 3.429666666666667,
   ownProgress: 3.429666666666667,
   partOfCollections: ["release/zara-larsson-so-good"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayMyloXylotoPrincessOfChina = {
   ownLength: 3.9869166666666667,
   ownProgress: 3.9869166666666667,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

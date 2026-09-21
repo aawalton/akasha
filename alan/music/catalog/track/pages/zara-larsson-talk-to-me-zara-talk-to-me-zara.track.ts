@@ -7,7 +7,6 @@ export const zaraLarssonTalkToMeZaraTalkToMeZara = {
   ownLength: 3.2225,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-talk-to-me-zara"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

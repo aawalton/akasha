@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsFutureMe = {
   ownLength: 3.34375,
   ownProgress: 3.34375,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

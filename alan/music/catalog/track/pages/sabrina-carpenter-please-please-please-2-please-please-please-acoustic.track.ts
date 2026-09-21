@@ -7,7 +7,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseAcoustic = {
   ownLength: 3.02475,
   ownProgress: 3.02475,
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

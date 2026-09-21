@@ -7,7 +7,6 @@ export const paulCardallReturnHomeLjubljanaHeartOfSlovenia = {
   ownLength: 3.92395,
   ownProgress: 3.92395,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenTooYoung = {
   ownLength: 4.2391,
   ownProgress: 4.2391,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

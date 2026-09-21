@@ -7,7 +7,6 @@ export const arianaGrandeKByeForNowSwtLiveFakeSmileLive = {
   ownLength: 3.426433333333333,
   ownProgress: 3.426433333333333,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

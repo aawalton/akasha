@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherWhatChildIsThis = {
   ownLength: 2.9854166666666666,
   ownProgress: 2.9854166666666666,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const paulCardallDecemberPianoStringEnsembleNewMoonRising = {
     "release/paul-cardall-december-piano-string-ensemble",
     "release/paul-cardall-new-moon-rising",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

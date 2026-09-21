@@ -7,7 +7,6 @@ export const sylviaDaleySecureSecure = {
   ownLength: 3.10795,
   ownProgress: 3.10795,
   partOfCollections: ["release/sylvia-daley-secure"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

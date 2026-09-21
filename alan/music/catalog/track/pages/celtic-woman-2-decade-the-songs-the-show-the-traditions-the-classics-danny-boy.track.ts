@@ -9,7 +9,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDannyBoy =
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

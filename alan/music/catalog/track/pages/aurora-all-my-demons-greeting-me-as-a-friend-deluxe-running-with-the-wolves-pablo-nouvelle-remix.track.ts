@@ -7,7 +7,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolvesPablo
   ownLength: 3.8377666666666665,
   ownProgress: 3.8377666666666665,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

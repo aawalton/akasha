@@ -7,7 +7,6 @@ export const vinnyMarchiForgetMyPhoneForgetMyPhone = {
   ownLength: 2.595066666666667,
   ownProgress: 2.595066666666667,
   partOfCollections: ["release/vinny-marchi-forget-my-phone"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

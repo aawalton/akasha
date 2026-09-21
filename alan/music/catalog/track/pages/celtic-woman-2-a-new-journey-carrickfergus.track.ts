@@ -10,7 +10,6 @@ export const celticWoman2ANewJourneyCarrickfergus = {
     "release/celtic-woman-2-a-new-journey",
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

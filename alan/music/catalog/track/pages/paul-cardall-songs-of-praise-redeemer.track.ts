@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseRedeemer = {
   ownLength: 5.849333333333333,
   ownProgress: 5.849333333333333,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

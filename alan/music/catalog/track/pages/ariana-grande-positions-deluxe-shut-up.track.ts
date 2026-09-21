@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeShutUp = {
   ownLength: 2.6285,
   ownProgress: 2.6285,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

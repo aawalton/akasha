@@ -7,7 +7,6 @@ export const sabrinaCarpenterSueMeACappellaSueMeACappella = {
   ownLength: 3.3756333333333335,
   ownProgress: 3.3756333333333335,
   partOfCollections: ["release/sabrina-carpenter-sue-me-a-cappella"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

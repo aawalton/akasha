@@ -7,7 +7,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
   ownLength: 4.402,
   ownProgress: 4.402,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

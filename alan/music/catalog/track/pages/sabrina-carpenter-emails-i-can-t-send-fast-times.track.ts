@@ -11,7 +11,6 @@ export const sabrinaCarpenterEmailsICanTSendFastTimes = {
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
     "release/sabrina-carpenter-fast-times",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

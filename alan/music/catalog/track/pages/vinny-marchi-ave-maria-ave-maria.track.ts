@@ -7,7 +7,6 @@ export const vinnyMarchiAveMariaAveMaria = {
   ownLength: 3.9335,
   ownProgress: 3.9335,
   partOfCollections: ["release/vinny-marchi-ave-maria"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

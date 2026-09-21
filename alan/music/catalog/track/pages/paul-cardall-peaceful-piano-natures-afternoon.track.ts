@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoNaturesAfternoon = {
   ownLength: 3.0691,
   ownProgress: 3.0691,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

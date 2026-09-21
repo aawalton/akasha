@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsDemonsLiveLondonSessi
   ownLength: 3.1251,
   ownProgress: 3.1251,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-london-sessions"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
     "release/zara-larsson-i-need-love-feat-trevor-daniel",
     "release/zara-larsson-poster-girl-summer-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

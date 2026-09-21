@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerGoodnightNGo = {
   ownLength: 3.1584333333333334,
   ownProgress: 3.1584333333333334,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenSeamless = {
   ownLength: 3.1073333333333335,
   ownProgress: 3.1073333333333335,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

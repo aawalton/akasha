@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
   ownLength: 5.745333333333333,
   ownProgress: 5.745333333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

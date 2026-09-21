@@ -7,7 +7,6 @@ export const arianaGrandeBoyfriendBoyfriendWithSocialHouse = {
   ownLength: 3.101766666666667,
   ownProgress: 3.101766666666667,
   partOfCollections: ["release/ariana-grande-boyfriend"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

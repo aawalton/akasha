@@ -7,7 +7,6 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
   ownLength: 2.809083333333333,
   ownProgress: 2.809083333333333,
   partOfCollections: ["release/aurora-bring-back-the-color-feat-aurora"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallSacredPianoGraciesTheme = {
   ownLength: 4.32265,
   ownProgress: 4.32265,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

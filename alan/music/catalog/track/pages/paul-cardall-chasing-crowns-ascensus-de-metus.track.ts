@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsAscensusDeMetus = {
   ownLength: 4.091666666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

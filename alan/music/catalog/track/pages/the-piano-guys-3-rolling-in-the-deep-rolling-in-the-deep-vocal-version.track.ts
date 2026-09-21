@@ -7,7 +7,6 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
   ownLength: 4.016216666666667,
   ownProgress: 4.016216666666667,
   partOfCollections: ["release/the-piano-guys-3-rolling-in-the-deep"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

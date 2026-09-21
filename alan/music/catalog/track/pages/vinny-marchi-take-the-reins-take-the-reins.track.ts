@@ -7,7 +7,6 @@ export const vinnyMarchiTakeTheReinsTakeTheReins = {
   ownLength: 2.669233333333333,
   ownProgress: 2.669233333333333,
   partOfCollections: ["release/vinny-marchi-take-the-reins"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

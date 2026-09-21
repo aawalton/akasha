@@ -7,7 +7,6 @@ export const paulCardallANewCreationOneByOne = {
   ownLength: 6.267333333333333,
   ownProgress: 6.267333333333333,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarAmazingGrace = {
   ownLength: 3.475,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 11,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftSkinny = {
   ownLength: 3.6622166666666667,
   ownProgress: 3.6622166666666667,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

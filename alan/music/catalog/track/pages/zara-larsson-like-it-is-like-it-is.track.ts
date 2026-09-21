@@ -7,7 +7,6 @@ export const zaraLarssonLikeItIsLikeItIs = {
   ownLength: 3.0511166666666667,
   ownProgress: 3.0511166666666667,
   partOfCollections: ["release/zara-larsson-like-it-is"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

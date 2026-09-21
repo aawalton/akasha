@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartTheNewGroundIsleOfHopeIsleOfTears = {
   ownLength: 6.6882166666666665,
   ownProgress: 6.6882166666666665,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichardItsGonnaBeOkayWithCliffR
   ownLength: 3.5039833333333332,
   ownProgress: 3.5039833333333332,
   partOfCollections: ["release/the-piano-guys-3-it-s-gonna-be-okay-with-cliff-richard"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosWhateverItTakesLiveAcoustic = {
   ownLength: 3.716666666666667,
   ownProgress: 3.716666666666667,
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemixItsTimeCherryCherryBo
     "release/imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix",
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

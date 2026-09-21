@@ -7,7 +7,6 @@ export const zaraLarssonHonorTheLightWinterSong = {
   ownLength: 3.084433333333333,
   ownProgress: 3.084433333333333,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelRemixExtended = {
   ownLength: 5.2985,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-lush-life-the-remixes-2"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

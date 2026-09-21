@@ -7,7 +7,6 @@ export const coldplayTheScientistIRanAway = {
   ownLength: 4.447766666666666,
   ownProgress: 4.447766666666666,
   partOfCollections: ["release/coldplay-the-scientist"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

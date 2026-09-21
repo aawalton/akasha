@@ -7,7 +7,6 @@ export const paulCardallReturnHomeShoresOfNormandy = {
   ownLength: 4.3414,
   ownProgress: 4.3414,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

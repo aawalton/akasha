@@ -7,7 +7,6 @@ export const zaraLarssonVenusNothing = {
   ownLength: 2.790766666666667,
   ownProgress: 2.790766666666667,
   partOfCollections: ["release/zara-larsson-venus"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

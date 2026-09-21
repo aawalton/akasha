@@ -7,7 +7,6 @@ export const coldplayLive2012UpInFlamesLive = {
   ownLength: 3.2973333333333334,
   ownProgress: 3.2973333333333334,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

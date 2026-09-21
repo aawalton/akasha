@@ -10,7 +10,6 @@ export const zaraLarssonMidnightSun3BlueMoon = {
     "release/zara-larsson-midnight-sun-3",
     "release/zara-larsson-midnight-sun-girls-trip",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

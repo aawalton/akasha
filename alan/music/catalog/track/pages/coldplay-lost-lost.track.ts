@@ -7,7 +7,6 @@ export const coldplayLostLost = {
   ownLength: 3.91755,
   ownProgress: 3.91755,
   partOfCollections: ["release/coldplay-lost"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

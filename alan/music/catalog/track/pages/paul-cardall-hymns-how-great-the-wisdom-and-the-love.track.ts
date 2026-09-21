@@ -7,7 +7,6 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
   ownLength: 2.408,
   ownProgress: 2.408,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

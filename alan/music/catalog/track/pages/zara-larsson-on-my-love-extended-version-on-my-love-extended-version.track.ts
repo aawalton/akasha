@@ -10,7 +10,6 @@ export const zaraLarssonOnMyLoveExtendedVersionOnMyLoveExtendedVersion = {
     "release/zara-larsson-on-my-love-extended-version",
     "release/zara-larsson-on-my-love-the-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

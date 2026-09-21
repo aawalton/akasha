@@ -7,7 +7,6 @@ export const paulCardallSignOfAffection10thAnniversaryWintersWisp = {
   ownLength: 5.656666666666666,
   ownProgress: 5.656666666666666,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

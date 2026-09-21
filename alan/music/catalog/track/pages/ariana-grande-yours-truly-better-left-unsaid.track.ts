@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyBetterLeftUnsaid = {
   ownLength: 3.5204333333333335,
   ownProgress: 3.5204333333333335,
   partOfCollections: ["release/ariana-grande-yours-truly"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

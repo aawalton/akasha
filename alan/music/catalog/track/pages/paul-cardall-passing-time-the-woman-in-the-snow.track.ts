@@ -7,7 +7,6 @@ export const paulCardallPassingTimeTheWomanInTheSnow = {
   ownLength: 3.71895,
   ownProgress: 3.71895,
   partOfCollections: ["release/paul-cardall-passing-time"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

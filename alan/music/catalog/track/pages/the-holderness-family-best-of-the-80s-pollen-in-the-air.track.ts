@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sPollenInTheAir = {
   ownLength: 1.9835333333333334,
   ownProgress: 1.9835333333333334,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiBigBadWolfBigBadWolf = {
   ownLength: 2.352533333333333,
   ownProgress: 2.352533333333333,
   partOfCollections: ["release/vinny-marchi-big-bad-wolf"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

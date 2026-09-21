@@ -11,7 +11,6 @@ export const coldplayVioletHillVioletHill = {
     "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
     "release/coldplay-viva-la-vida-prospekt-s-march-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSipMyChardonayNay = {
   ownLength: 2.25915,
   ownProgress: 2.25915,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

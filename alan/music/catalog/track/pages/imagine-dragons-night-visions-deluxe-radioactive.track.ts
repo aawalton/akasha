@@ -11,7 +11,6 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
     "release/imagine-dragons-night-visions",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

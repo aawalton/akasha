@@ -7,7 +7,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsBlackDemo = {
   ownLength: 3.3926833333333333,
   ownProgress: 3.3926833333333333,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

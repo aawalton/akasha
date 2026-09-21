@@ -7,7 +7,6 @@ export const thePianoGuys3LiveAllOfMeLive = {
   ownLength: 2.4953333333333334,
   ownProgress: 2.4953333333333334,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

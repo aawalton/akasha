@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionHarrysGame = {
   ownLength: 2.5097666666666667,
   ownProgress: 2.5097666666666667,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

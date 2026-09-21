@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarWhenISurveyTheWondrousCross = {
   ownLength: 2.966666666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 10,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

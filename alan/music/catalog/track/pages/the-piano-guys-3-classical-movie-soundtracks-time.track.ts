@@ -11,7 +11,6 @@ export const thePianoGuys3ClassicalMovieSoundtracksTime = {
     "release/the-piano-guys-3-time",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

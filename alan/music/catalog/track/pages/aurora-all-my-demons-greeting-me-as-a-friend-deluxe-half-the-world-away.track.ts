@@ -10,7 +10,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHalfTheWorldAway = {
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-half-the-world-away",
   ],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

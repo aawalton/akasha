@@ -7,7 +7,6 @@ export const celticWoman2DestinySometimesAPrayerWillDo = {
   ownLength: 4.67425,
   ownProgress: 4.67425,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

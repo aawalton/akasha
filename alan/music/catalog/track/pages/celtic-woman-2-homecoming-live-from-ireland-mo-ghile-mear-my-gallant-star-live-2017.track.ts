@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandMoGhileMearMyGallantStarLive20
   ownLength: 4.1631,
   ownProgress: 4.1631,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

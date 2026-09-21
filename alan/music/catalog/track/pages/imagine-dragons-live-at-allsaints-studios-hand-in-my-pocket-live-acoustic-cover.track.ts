@@ -7,7 +7,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosHandInMyPocketLiveAcousticCover
   ownLength: 3.091666666666667,
   ownProgress: 3.091666666666667,
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

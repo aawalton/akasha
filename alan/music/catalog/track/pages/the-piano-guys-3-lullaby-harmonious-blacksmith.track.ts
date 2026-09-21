@@ -7,7 +7,6 @@ export const thePianoGuys3LullabyHarmoniousBlacksmith = {
   ownLength: 2.53845,
   ownProgress: 2.53845,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

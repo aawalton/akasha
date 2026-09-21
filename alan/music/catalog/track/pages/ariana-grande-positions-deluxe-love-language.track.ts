@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeLoveLanguage = {
   ownLength: 2.9976666666666665,
   ownProgress: 2.9976666666666665,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

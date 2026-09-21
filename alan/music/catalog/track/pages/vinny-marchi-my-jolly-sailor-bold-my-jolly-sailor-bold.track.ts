@@ -7,7 +7,6 @@ export const vinnyMarchiMyJollySailorBoldMyJollySailorBold = {
   ownLength: 3.6043333333333334,
   ownProgress: 3.6043333333333334,
   partOfCollections: ["release/vinny-marchi-my-jolly-sailor-bold"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

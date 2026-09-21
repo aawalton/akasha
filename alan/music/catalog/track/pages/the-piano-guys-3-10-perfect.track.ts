@@ -12,7 +12,6 @@ export const thePianoGuys310Perfect = {
     "release/the-piano-guys-3-pop-on-piano",
     "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

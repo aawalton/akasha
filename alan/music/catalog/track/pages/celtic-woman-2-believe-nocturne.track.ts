@@ -7,7 +7,6 @@ export const celticWoman2BelieveNocturne = {
   ownLength: 3.5613333333333332,
   ownProgress: 3.5613333333333332,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenWhiteFlag = {
   ownLength: 3.306433333333333,
   ownProgress: 3.306433333333333,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

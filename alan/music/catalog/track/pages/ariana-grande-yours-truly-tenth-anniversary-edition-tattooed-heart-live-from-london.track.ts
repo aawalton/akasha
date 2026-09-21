@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeartLiveFromL
   ownLength: 3.2333,
   ownProgress: 3.2333,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

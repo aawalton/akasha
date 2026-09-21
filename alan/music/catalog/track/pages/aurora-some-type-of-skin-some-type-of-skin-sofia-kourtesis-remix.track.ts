@@ -7,7 +7,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
   ownLength: 3.41155,
   ownProgress: 3.41155,
   partOfCollections: ["release/aurora-some-type-of-skin"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

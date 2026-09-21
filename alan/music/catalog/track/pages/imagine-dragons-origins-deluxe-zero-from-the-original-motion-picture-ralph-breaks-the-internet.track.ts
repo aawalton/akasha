@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeZeroFromTheOriginalMotionPictureRalphBre
   ownLength: 3.51555,
   ownProgress: 3.51555,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

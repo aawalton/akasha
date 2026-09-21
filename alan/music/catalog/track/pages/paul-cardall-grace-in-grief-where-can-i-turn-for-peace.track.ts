@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefWhereCanITurnForPeace = {
   ownLength: 3.95,
   ownProgress: 3.95,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

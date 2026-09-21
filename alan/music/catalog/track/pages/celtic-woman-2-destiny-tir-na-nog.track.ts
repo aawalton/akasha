@@ -7,7 +7,6 @@ export const celticWoman2DestinyTirNaNog = {
   ownLength: 3.1454,
   ownProgress: 3.1454,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   ownLength: 4.054666666666667,
   ownProgress: 4.054666666666667,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
     "release/aurora-a-different-kind-of-human-step-ii",
     "release/aurora-music-for-the-free-spirits",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

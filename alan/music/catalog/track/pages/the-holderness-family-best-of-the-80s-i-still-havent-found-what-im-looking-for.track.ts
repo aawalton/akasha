@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sIStillHaventFoundWhatImLookingFor = 
   ownLength: 2.8194666666666666,
   ownProgress: 2.8194666666666666,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

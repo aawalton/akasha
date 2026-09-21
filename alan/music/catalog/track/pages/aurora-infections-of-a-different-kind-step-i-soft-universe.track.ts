@@ -10,7 +10,6 @@ export const auroraInfectionsOfADifferentKindStepISoftUniverse = {
     "release/aurora-infections-of-a-different-kind-step-i",
     "release/aurora-music-for-the-fellow-witches-out-there",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

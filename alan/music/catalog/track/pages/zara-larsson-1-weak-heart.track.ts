@@ -7,7 +7,6 @@ export const zaraLarsson1WeakHeart = {
   ownLength: 2.9989666666666666,
   ownProgress: 2.9989666666666666,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

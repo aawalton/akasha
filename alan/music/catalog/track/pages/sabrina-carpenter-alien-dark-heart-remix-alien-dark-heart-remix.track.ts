@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlienDarkHeartRemixAlienDarkHeartRemix = {
   ownLength: 3.49055,
   ownProgress: 3.49055,
   partOfCollections: ["release/sabrina-carpenter-alien-dark-heart-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

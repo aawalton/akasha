@@ -10,7 +10,6 @@ export const coldplayMoonMusicAeterna = {
     "release/coldplay-moon-music",
     "release/coldplay-moon-music-full-moon-edition",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

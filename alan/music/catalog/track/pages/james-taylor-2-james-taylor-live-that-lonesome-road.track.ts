@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveThatLonesomeRoad = {
   ownLength: 2.7704333333333335,
   ownProgress: 2.7704333333333335,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

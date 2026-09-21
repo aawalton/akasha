@@ -7,7 +7,6 @@ export const imagineDragonsThunderWithKFlayOfficialRemixThunderWithKFlayOfficial
   ownLength: 3.262,
   ownProgress: 3.262,
   partOfCollections: ["release/imagine-dragons-thunder-with-k-flay-official-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

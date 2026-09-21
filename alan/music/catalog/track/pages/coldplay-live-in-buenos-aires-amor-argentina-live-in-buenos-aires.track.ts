@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresAmorArgentinaLiveInBuenosAires = {
   ownLength: 5.27,
   ownProgress: 5.27,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

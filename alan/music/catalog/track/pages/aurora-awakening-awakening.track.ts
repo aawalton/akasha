@@ -7,7 +7,6 @@ export const auroraAwakeningAwakening = {
   ownLength: 3.6830166666666666,
   ownProgress: 3.6830166666666666,
   partOfCollections: ["release/aurora-awakening"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

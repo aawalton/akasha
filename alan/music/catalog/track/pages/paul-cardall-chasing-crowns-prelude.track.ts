@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsPrelude = {
   ownLength: 1.25155,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

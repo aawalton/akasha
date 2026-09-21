@@ -7,7 +7,6 @@ export const arianaGrandeBrandNewYouFrom13BrandNewYouFeatBrynnWilliamsCaitlinGan
   ownLength: 3.1348833333333332,
   ownProgress: 3.1348833333333332,
   partOfCollections: ["release/ariana-grande-brand-new-you-from-13"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

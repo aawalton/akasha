@@ -7,7 +7,6 @@ export const thePianoGuysSerenityBringHimHome = {
   ownLength: 4.2551,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 9,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

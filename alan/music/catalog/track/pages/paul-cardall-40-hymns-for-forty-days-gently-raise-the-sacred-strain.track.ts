@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysGentlyRaiseTheSacredStrain = {
   ownLength: 2.4904333333333333,
   ownProgress: 2.4904333333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

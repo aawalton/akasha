@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsGood = {
   ownLength: 2.4893,
   ownProgress: 2.4893,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

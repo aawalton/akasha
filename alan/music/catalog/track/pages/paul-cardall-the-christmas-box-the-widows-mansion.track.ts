@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxTheWidowsMansion = {
   ownLength: 3.4584333333333332,
   ownProgress: 3.4584333333333332,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

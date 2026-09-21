@@ -7,7 +7,6 @@ export const vinnyMarchiSoldierPoetKingSoldierPoetKing = {
   ownLength: 2.8037666666666667,
   ownProgress: 2.8037666666666667,
   partOfCollections: ["release/vinny-marchi-soldier-poet-king"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

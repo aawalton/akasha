@@ -7,7 +7,6 @@ export const zaraLarssonVenusSoundtrack = {
   ownLength: 3.3849833333333335,
   ownProgress: 3.3849833333333335,
   partOfCollections: ["release/zara-larsson-venus"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
   ownLength: 4.549766666666667,
   ownProgress: 4.549766666666667,
   partOfCollections: ["release/coldplay-something-just-like-this-tokyo-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

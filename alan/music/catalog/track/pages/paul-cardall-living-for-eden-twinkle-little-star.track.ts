@@ -7,7 +7,6 @@ export const paulCardallLivingForEdenTwinkleLittleStar = {
   ownLength: 2.340133333333333,
   ownProgress: 2.340133333333333,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
-  position: 23,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

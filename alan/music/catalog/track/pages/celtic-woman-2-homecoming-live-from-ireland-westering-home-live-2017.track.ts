@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandWesteringHomeLive2017 = {
   ownLength: 4.177616666666666,
   ownProgress: 4.177616666666666,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

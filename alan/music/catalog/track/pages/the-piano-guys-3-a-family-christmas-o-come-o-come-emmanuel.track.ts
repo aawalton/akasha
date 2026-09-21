@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
   ownLength: 5.085133333333333,
   ownProgress: 5.085133333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

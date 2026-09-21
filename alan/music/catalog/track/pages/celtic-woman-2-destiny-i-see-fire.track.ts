@@ -7,7 +7,6 @@ export const celticWoman2DestinyISeeFire = {
   ownLength: 5.127683333333334,
   ownProgress: 5.127683333333334,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

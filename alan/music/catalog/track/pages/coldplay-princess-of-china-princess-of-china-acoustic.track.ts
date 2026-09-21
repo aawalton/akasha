@@ -7,7 +7,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
   ownLength: 3.4448833333333333,
   ownProgress: 3.4448833333333333,
   partOfCollections: ["release/coldplay-princess-of-china"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

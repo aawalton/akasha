@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherGloriaHarkTheHeraldAngelsSing = {
   ownLength: 3.8979166666666667,
   ownProgress: 3.8979166666666667,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

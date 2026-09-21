@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeThePartingGlass = {
   ownLength: 4.524216666666667,
   ownProgress: 4.524216666666667,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 27,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

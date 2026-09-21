@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeTheEnchantedWay = {
   ownLength: 2.856,
   ownProgress: 2.856,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

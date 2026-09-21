@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassNostalgia = {
   ownLength: 3.136233333333333,
   ownProgress: 3.136233333333333,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

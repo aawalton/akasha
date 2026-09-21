@@ -11,7 +11,6 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestLittleBoyInTheGrass = 
     "release/aurora-running-with-the-wolves",
     "release/aurora-stories",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

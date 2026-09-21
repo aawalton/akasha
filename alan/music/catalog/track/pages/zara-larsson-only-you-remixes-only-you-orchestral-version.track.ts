@@ -7,7 +7,6 @@ export const zaraLarssonOnlyYouRemixesOnlyYouOrchestralVersion = {
   ownLength: 3.789816666666667,
   ownProgress: 3.789816666666667,
   partOfCollections: ["release/zara-larsson-only-you-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

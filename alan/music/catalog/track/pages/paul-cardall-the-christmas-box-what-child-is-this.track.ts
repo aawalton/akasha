@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxWhatChildIsThis = {
   ownLength: 3.12155,
   ownProgress: 3.12155,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

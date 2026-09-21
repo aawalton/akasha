@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysGreatIsThyFaithfullness = {
   ownLength: 3.1962166666666665,
   ownProgress: 3.1962166666666665,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiCouldICallYouMineCraftCouldICallYouMineCraft = {
   ownLength: 3.1529666666666665,
   ownProgress: 3.1529666666666665,
   partOfCollections: ["release/vinny-marchi-could-i-call-you-mine-craft"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

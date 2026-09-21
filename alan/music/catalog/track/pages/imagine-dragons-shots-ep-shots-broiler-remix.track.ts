@@ -7,7 +7,6 @@ export const imagineDragonsShotsEpShotsBroilerRemix = {
   ownLength: 3.1877666666666666,
   ownProgress: 3.1877666666666666,
   partOfCollections: ["release/imagine-dragons-shots-ep"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

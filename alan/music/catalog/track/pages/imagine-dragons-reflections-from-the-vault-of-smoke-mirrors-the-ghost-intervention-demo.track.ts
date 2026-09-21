@@ -7,7 +7,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheGhostInterven
   ownLength: 3.23135,
   ownProgress: 3.23135,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

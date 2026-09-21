@@ -7,7 +7,6 @@ export const paulCardallChillCollectionAprilSkies = {
   ownLength: 3.581383333333333,
   ownProgress: 3.581383333333333,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

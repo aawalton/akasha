@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerGodIsAWoman = {
   ownLength: 3.2924333333333333,
   ownProgress: 3.2924333333333333,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

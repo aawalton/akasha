@@ -15,7 +15,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunaway = {
     "release/aurora-runaway-piano-acoustic",
     "release/aurora-running-with-the-wolves",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

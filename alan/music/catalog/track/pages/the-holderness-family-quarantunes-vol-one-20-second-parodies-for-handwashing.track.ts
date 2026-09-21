@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOne20SecondParodiesForHandwashing 
   ownLength: 3.3232,
   ownProgress: 3.3232,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

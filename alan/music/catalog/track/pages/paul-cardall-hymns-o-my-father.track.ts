@@ -7,7 +7,6 @@ export const paulCardallHymnsOMyFather = {
   ownLength: 2.156,
   ownProgress: 2.156,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

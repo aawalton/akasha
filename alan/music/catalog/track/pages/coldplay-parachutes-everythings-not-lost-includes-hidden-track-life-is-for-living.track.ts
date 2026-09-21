@@ -7,7 +7,6 @@ export const coldplayParachutesEverythingsNotLostIncludesHiddenTrackLifeIsForLiv
   ownLength: 7.274,
   ownProgress: 7.274,
   partOfCollections: ["release/coldplay-parachutes"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

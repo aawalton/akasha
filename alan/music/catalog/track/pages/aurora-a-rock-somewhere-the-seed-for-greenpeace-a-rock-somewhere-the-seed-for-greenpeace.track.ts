@@ -7,7 +7,6 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
   ownLength: 5.970766666666667,
   ownProgress: 5.970766666666667,
   partOfCollections: ["release/aurora-a-rock-somewhere-the-seed-for-greenpeace"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

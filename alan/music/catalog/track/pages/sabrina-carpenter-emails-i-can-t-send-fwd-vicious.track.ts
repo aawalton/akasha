@@ -11,7 +11,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdVicious = {
     "release/sabrina-carpenter-emails-i-can-t-send",
     "release/sabrina-carpenter-vicious",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

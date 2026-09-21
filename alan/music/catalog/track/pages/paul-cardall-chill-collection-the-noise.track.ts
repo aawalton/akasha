@@ -7,7 +7,6 @@ export const paulCardallChillCollectionTheNoise = {
   ownLength: 5.3716333333333335,
   ownProgress: 5.3716333333333335,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

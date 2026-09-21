@@ -7,7 +7,6 @@ export const coldplayOverturaOverturaMusicOfTheSpheresAlbumTrailer = {
   ownLength: 1.8802,
   ownProgress: 1.8802,
   partOfCollections: ["release/coldplay-overtura"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandePetalNowhereNobody = {
   ownLength: 2.8666833333333335,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 12,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

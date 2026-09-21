@@ -7,7 +7,6 @@ export const celticWoman2SoloYoullBeInMyHeart = {
   ownLength: 3.99175,
   ownProgress: 3.99175,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

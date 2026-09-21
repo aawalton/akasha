@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchTheForbiddenFruitsOfEden = {
   ownLength: 0.6742166666666667,
   ownProgress: 0.6742166666666667,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

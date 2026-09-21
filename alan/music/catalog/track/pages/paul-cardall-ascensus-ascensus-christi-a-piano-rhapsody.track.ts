@@ -7,7 +7,6 @@ export const paulCardallAscensusAscensusChristiAPianoRhapsody = {
   ownLength: 5.2,
   ownProgress: 5.2,
   partOfCollections: ["release/paul-cardall-ascensus"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

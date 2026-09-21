@@ -7,7 +7,6 @@ export const coldplayVivaLaVidaDeathWillNeverConquer = {
   ownLength: 1.29755,
   ownProgress: 1.29755,
   partOfCollections: ["release/coldplay-viva-la-vida"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

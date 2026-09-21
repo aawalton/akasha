@@ -7,7 +7,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseSlowedDown = {
   ownLength: 3.51145,
   ownProgress: 3.51145,
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

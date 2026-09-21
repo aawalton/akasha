@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassHangnail = {
   ownLength: 2.35555,
   ownProgress: 2.35555,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

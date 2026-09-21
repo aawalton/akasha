@@ -7,7 +7,6 @@ export const imagineDragonsBonesTwocolorsRemixBonesTwocolorsRemix = {
   ownLength: 4.2682,
   ownProgress: 4.2682,
   partOfCollections: ["release/imagine-dragons-bones-twocolors-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

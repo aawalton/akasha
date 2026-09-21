@@ -7,7 +7,6 @@ export const jamesTaylor2CoversItsGrowing = {
   ownLength: 4.13155,
   ownProgress: 4.13155,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

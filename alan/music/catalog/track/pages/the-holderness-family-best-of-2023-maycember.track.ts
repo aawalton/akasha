@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023Maycember = {
   ownLength: 3.0668,
   ownProgress: 3.0668,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

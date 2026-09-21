@@ -7,7 +7,6 @@ export const coldplayMidnightRemixesMidnightHenrikSchwarzRemix = {
   ownLength: 8.693783333333334,
   ownProgress: 8.693783333333334,
   partOfCollections: ["release/coldplay-midnight-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

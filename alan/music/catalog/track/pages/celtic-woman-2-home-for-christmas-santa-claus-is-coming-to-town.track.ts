@@ -7,7 +7,6 @@ export const celticWoman2HomeForChristmasSantaClausIsComingToTown = {
   ownLength: 4.227333333333333,
   ownProgress: 4.227333333333333,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

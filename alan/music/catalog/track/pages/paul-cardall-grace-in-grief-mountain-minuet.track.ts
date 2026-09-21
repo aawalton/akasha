@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefMountainMinuet = {
   ownLength: 4.0867,
   ownProgress: 4.0867,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

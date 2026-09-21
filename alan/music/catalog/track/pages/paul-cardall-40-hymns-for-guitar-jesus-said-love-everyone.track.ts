@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarJesusSaidLoveEveryone = {
   ownLength: 2.4120833333333334,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 31,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

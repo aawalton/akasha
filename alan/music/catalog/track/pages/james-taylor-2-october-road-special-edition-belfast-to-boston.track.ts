@@ -7,7 +7,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionBelfastToBoston = {
   ownLength: 4.260666666666666,
   ownProgress: 4.260666666666666,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

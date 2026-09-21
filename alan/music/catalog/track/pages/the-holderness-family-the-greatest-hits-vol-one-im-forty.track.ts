@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneImForty = {
   ownLength: 2.40065,
   ownProgress: 2.40065,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

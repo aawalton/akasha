@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanSideToSide = {
   ownLength: 3.76955,
   ownProgress: 3.76955,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

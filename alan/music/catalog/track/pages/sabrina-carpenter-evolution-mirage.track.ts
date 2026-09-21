@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionMirage = {
   ownLength: 3.4246666666666665,
   ownProgress: 3.4246666666666665,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

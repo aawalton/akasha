@@ -10,7 +10,6 @@ export const sabrinaCarpenterEmailsICanTSendAlreadyOver = {
     "release/sabrina-carpenter-emails-i-can-t-send",
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

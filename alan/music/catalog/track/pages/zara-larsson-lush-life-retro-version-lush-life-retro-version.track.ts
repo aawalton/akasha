@@ -10,7 +10,6 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
     "release/zara-larsson-lush-life-retro-version",
     "release/zara-larsson-lush-life-the-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

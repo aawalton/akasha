@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsEpINeedAMinute = {
   ownLength: 3.4551,
   ownProgress: 3.4551,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

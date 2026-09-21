@@ -7,7 +7,6 @@ export const billieEilishDontSmileAtMePartyFavor = {
   ownLength: 3.4128333333333334,
   ownProgress: 3.4128333333333334,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

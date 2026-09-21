@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe2000sHotOutHere = {
   ownLength: 2.0796,
   ownProgress: 2.0796,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2CoversOnBroadway = {
   ownLength: 4.189333333333333,
   ownProgress: 4.189333333333333,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

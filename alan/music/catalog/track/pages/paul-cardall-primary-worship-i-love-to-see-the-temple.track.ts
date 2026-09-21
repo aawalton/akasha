@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipILoveToSeeTheTemple = {
   ownLength: 4.441766666666667,
   ownProgress: 4.441766666666667,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

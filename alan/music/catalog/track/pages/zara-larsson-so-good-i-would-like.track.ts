@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodIWouldLike = {
   ownLength: 3.7429333333333332,
   ownProgress: 3.7429333333333332,
   partOfCollections: ["release/zara-larsson-so-good"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

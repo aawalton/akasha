@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeSiuilARuin = {
   ownLength: 3.2493333333333334,
   ownProgress: 3.2493333333333334,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

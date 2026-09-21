@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActISueMe = {
   ownLength: 2.9871,
   ownProgress: 2.9871,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

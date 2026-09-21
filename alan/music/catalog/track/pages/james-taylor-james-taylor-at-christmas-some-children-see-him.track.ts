@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasSomeChildrenSeeHim = {
   ownLength: 4.624666666666666,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 8,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

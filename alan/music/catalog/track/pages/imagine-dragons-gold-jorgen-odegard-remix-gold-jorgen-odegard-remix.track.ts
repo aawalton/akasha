@@ -7,7 +7,6 @@ export const imagineDragonsGoldJorgenOdegardRemixGoldJorgenOdegardRemix = {
   ownLength: 4.1146666666666665,
   ownProgress: 4.1146666666666665,
   partOfCollections: ["release/imagine-dragons-gold-jorgen-odegard-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

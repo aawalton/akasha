@@ -10,7 +10,6 @@ export const vinnyMarchiCaptainPlatonicCaptainPlatonic = {
     "release/vinny-marchi-captain-platonic",
     "release/vinny-marchi-tales-of-the-lesbian-hunter",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe2000sMyMilkDuds = {
   ownLength: 1.122,
   ownProgress: 1.122,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayMusicOfTheSpheresColoratura = {
   ownLength: 10.284283333333333,
   ownProgress: 10.284283333333333,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

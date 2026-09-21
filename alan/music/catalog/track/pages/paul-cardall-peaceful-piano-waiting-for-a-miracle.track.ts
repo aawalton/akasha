@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoWaitingForAMiracle = {
   ownLength: 3.5973333333333333,
   ownProgress: 3.5973333333333333,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

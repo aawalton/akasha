@@ -7,7 +7,6 @@ export const billieEilishBoredBored = {
   ownLength: 3.01555,
   ownProgress: 3.01555,
   partOfCollections: ["release/billie-eilish-bored"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

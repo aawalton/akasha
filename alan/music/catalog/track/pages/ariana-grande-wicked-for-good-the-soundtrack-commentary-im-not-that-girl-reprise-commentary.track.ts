@@ -7,7 +7,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   ownLength: 1.1241333333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
-  position: 12,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

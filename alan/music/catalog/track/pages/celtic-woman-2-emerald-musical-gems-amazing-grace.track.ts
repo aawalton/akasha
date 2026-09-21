@@ -7,7 +7,6 @@ export const celticWoman2EmeraldMusicalGemsAmazingGrace = {
   ownLength: 5.840216666666667,
   ownProgress: 5.840216666666667,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

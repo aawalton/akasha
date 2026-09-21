@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoTheWayOut = {
   ownLength: 4.272216666666667,
   ownProgress: 4.272216666666667,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldAngelsOfFenway = {
   ownLength: 3.30155,
   ownProgress: 3.30155,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

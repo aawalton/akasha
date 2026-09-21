@@ -10,7 +10,6 @@ export const auroraInfectionsOfADifferentKindStepIChurchyard = {
     "release/aurora-infections-of-a-different-kind-step-i",
     "release/aurora-music-for-the-fellow-witches-out-there",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

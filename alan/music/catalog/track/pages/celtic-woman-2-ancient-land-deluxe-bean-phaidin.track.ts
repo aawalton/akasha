@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeBeanPhaidin = {
   ownLength: 3.282216666666667,
   ownProgress: 3.282216666666667,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 22,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
   ownLength: 2.65,
   ownProgress: 2.65,
   partOfCollections: ["release/vinny-marchi-bad-days-good"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

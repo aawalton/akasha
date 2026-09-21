@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   ownLength: 1.9286666666666668,
   ownProgress: 1.9286666666666668,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 25,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

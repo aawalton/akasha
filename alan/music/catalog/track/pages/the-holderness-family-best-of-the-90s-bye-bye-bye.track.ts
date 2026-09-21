@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sByeByeBye = {
   ownLength: 2.4106666666666667,
   ownProgress: 2.4106666666666667,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

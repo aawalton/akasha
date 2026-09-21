@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarDannyBoy = {
   ownLength: 2.753416666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 29,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

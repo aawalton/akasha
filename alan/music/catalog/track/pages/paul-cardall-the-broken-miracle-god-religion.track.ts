@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleGodReligion = {
   ownLength: 2.6528833333333335,
   ownProgress: 2.6528833333333335,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

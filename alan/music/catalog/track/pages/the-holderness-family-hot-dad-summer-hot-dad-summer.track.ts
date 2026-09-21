@@ -7,7 +7,6 @@ export const theHoldernessFamilyHotDadSummerHotDadSummer = {
   ownLength: 2.9035,
   ownProgress: 2.9035,
   partOfCollections: ["release/the-holderness-family-hot-dad-summer"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
     "release/vinny-marchi-tales-of-the-lesbian-hunter",
     "release/vinny-marchi-the-bastard-in-the-kitchen",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

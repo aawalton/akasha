@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
   ownLength: 3.4993333333333334,
   ownProgress: 3.4993333333333334,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

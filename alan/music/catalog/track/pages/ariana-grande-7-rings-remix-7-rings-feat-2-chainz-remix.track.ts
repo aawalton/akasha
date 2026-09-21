@@ -7,7 +7,6 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
   ownLength: 2.977333333333333,
   ownProgress: 2.977333333333333,
   partOfCollections: ["release/ariana-grande-7-rings-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

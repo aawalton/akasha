@@ -7,7 +7,6 @@ export const emeiBacktrackBacktrack = {
   ownLength: 2.6473333333333335,
   ownProgress: 2.6473333333333335,
   partOfCollections: ["release/emei-backtrack"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

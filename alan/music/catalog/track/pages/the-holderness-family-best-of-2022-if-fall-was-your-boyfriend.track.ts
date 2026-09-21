@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022IfFallWasYourBoyfriend = {
   ownLength: 3.3508,
   ownProgress: 3.3508,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

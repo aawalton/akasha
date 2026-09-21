@@ -7,7 +7,6 @@ export const imagineDragonsLoomKid = {
   ownLength: 2.6631,
   ownProgress: 2.6631,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

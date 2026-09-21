@@ -7,7 +7,6 @@ export const coldplayEverydayLifeWotwPotp = {
   ownLength: 1.2822166666666666,
   ownProgress: 1.2822166666666666,
   partOfCollections: ["release/coldplay-everyday-life"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

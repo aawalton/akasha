@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeOrinocoFlow = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-orinoco-flow",
   ],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

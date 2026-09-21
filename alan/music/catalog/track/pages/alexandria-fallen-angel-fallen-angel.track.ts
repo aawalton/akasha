@@ -7,7 +7,6 @@ export const alexandriaFallenAngelFallenAngel = {
   ownLength: 2.7624,
   ownProgress: 2.7624,
   partOfCollections: ["release/alexandria-fallen-angel"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

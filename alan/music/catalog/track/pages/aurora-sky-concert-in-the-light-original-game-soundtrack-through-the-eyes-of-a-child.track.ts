@@ -7,7 +7,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackThroughTheEyesOfACh
   ownLength: 4.566666666666666,
   ownProgress: 4.566666666666666,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanTheAshokenFarewellTheContradictionMedleyLive
   ownLength: 4.169766666666667,
   ownProgress: 4.169766666666667,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

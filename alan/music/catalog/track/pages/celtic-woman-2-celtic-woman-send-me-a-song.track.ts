@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanSendMeASong = {
   ownLength: 4.34135,
   ownProgress: 4.34135,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

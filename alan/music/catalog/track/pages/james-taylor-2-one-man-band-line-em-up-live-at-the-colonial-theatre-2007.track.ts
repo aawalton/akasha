@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandLineEmUpLiveAtTheColonialTheatre2007 = {
   ownLength: 4.654883333333333,
   ownProgress: 4.654883333333333,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

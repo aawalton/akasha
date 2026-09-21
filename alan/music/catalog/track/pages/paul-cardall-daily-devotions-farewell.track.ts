@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsFarewell = {
   ownLength: 3.96755,
   ownProgress: 3.96755,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

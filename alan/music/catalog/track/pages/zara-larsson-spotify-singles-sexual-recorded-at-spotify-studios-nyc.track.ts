@@ -7,7 +7,6 @@ export const zaraLarssonSpotifySinglesSexualRecordedAtSpotifyStudiosNyc = {
   ownLength: 3.150933333333333,
   ownProgress: 3.150933333333333,
   partOfCollections: ["release/zara-larsson-spotify-singles"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraWhatHappenedToTheHeartDeluxeTheWeightOfMissing = {
   ownLength: 6.580433333333334,
   ownProgress: 6.580433333333334,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
-  position: 19,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

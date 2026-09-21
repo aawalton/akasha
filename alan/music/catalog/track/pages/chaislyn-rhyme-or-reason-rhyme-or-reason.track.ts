@@ -7,7 +7,6 @@ export const chaislynRhymeOrReasonRhymeOrReason = {
   ownLength: 4.190216666666666,
   ownProgress: 4.190216666666666,
   partOfCollections: ["release/chaislyn-rhyme-or-reason"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

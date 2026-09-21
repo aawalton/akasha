@@ -7,7 +7,6 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
   ownLength: 3.8731,
   ownProgress: 3.8731,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

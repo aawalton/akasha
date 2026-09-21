@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsChaChingTillWeGrowOlder = {
   ownLength: 4.1466666666666665,
   ownProgress: 4.1466666666666665,
   partOfCollections: ["release/imagine-dragons-night-visions"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

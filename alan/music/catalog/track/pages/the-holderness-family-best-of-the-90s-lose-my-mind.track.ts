@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
   ownLength: 2.0349333333333335,
   ownProgress: 2.0349333333333335,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

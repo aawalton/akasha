@@ -7,7 +7,6 @@ export const arianaGrandePositionsVevoOfficialLivePerformances3435LiveFromVevo =
   ownLength: 2.99915,
   ownProgress: 2.99915,
   partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

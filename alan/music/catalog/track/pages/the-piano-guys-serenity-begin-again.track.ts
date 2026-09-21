@@ -7,7 +7,6 @@ export const thePianoGuysSerenityBeginAgain = {
   ownLength: 4.1331,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 8,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

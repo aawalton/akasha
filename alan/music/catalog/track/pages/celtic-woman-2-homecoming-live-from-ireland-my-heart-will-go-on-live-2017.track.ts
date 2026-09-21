@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandMyHeartWillGoOnLive2017 = {
   ownLength: 4.43355,
   ownProgress: 4.43355,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

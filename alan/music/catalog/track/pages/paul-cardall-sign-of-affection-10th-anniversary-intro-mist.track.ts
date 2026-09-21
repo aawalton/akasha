@@ -7,7 +7,6 @@ export const paulCardallSignOfAffection10thAnniversaryIntroMist = {
   ownLength: 4.036666666666667,
   ownProgress: 4.036666666666667,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

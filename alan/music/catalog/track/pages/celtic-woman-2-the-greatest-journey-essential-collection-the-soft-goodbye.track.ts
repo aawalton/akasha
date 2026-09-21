@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSoftGoodbye = {
   ownLength: 3.9697666666666667,
   ownProgress: 3.9697666666666667,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

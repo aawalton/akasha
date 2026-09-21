@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleForBetterOrWorse = {
   ownLength: 2.6626666666666665,
   ownProgress: 2.6626666666666665,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

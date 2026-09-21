@@ -7,7 +7,6 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8YouCantRunFromYourselfFromK
   ownLength: 2.2786666666666666,
   ownProgress: 2.2786666666666666,
   partOfCollections: ["release/aurora-you-can-t-run-from-yourself-from-kaiju-no-8"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

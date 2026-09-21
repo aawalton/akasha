@@ -10,7 +10,6 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
     "release/billie-eilish-burn-with-vince-staples",
     "release/billie-eilish-dont-smile-at-me",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

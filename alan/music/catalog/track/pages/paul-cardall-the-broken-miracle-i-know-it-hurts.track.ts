@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
   ownLength: 3.6986666666666665,
   ownProgress: 3.6986666666666665,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

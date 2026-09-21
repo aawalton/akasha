@@ -7,7 +7,6 @@ export const paulCardallAscensusAscensusChristiBrassMotif = {
   ownLength: 2.3468666666666667,
   ownProgress: 2.3468666666666667,
   partOfCollections: ["release/paul-cardall-ascensus"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

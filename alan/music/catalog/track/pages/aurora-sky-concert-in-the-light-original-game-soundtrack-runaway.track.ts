@@ -7,7 +7,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackRunaway = {
   ownLength: 4.166666666666667,
   ownProgress: 4.166666666666667,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

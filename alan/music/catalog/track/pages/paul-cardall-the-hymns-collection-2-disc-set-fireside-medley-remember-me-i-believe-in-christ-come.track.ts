@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetFiresideMedleyRememberMeIBelie
   ownLength: 4.754716666666667,
   ownProgress: 4.754716666666667,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

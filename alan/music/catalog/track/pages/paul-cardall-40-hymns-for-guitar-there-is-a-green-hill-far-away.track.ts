@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarThereIsAGreenHillFarAway = {
   ownLength: 3.9,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 17,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

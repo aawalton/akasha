@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarGabrielsOboe = {
   ownLength: 2.55,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 33,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

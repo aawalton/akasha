@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysWithoutYou = {
   ownLength: 3.64355,
   ownProgress: 3.64355,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

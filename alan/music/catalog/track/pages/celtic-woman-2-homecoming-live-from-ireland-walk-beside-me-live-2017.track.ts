@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandWalkBesideMeLive2017 = {
   ownLength: 4.437333333333333,
   ownProgress: 4.437333333333333,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

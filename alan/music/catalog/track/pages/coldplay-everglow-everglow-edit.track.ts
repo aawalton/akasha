@@ -7,7 +7,6 @@ export const coldplayEverglowEverglowEdit = {
   ownLength: 3.7917666666666667,
   ownProgress: 3.7917666666666667,
   partOfCollections: ["release/coldplay-everglow"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

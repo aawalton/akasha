@@ -7,7 +7,6 @@ export const arianaGrandePetalWarningSignsInterlude = {
   ownLength: 1.2890333333333333,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 8,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

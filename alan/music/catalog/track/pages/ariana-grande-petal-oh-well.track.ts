@@ -7,7 +7,6 @@ export const arianaGrandePetalOhWell = {
   ownLength: 3.269433333333333,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

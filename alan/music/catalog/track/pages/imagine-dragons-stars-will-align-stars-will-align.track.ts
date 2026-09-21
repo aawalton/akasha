@@ -7,7 +7,6 @@ export const imagineDragonsStarsWillAlignStarsWillAlign = {
   ownLength: 3.9061,
   ownProgress: 3.9061,
   partOfCollections: ["release/imagine-dragons-stars-will-align"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

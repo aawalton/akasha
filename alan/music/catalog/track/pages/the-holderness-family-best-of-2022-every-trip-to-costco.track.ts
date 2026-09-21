@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
   ownLength: 2.714,
   ownProgress: 2.714,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

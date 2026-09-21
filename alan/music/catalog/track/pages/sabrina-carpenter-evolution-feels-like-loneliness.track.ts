@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionFeelsLikeLoneliness = {
   ownLength: 3.3428833333333334,
   ownProgress: 3.3428833333333334,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

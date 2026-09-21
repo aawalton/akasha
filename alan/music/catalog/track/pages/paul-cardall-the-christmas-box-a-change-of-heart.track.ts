@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxAChangeOfHeart = {
   ownLength: 3.87,
   ownProgress: 3.87,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

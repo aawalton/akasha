@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
   ownLength: 3.3366833333333332,
   ownProgress: 3.3366833333333332,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
   ownLength: 4.068433333333333,
   ownProgress: 4.068433333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

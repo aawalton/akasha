@@ -7,7 +7,6 @@ export const paulCardallLiveDavesFarewellLive = {
   ownLength: 3.59555,
   ownProgress: 3.59555,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

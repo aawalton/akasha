@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasJingleBells = {
   ownLength: 3.88155,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasDeckTheHalls = {
   ownLength: 2.847766666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 15,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

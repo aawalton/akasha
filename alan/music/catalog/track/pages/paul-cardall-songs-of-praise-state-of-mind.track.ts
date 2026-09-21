@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseStateOfMind = {
   ownLength: 4.230216666666666,
   ownProgress: 4.230216666666666,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

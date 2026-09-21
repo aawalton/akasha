@@ -10,7 +10,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
     "release/sabrina-carpenter-emails-i-can-t-send",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftLunch = {
   ownLength: 2.9931,
   ownProgress: 2.9931,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

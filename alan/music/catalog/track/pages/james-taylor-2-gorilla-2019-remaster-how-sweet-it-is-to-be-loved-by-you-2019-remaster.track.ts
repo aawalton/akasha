@@ -7,7 +7,6 @@ export const jamesTaylor2Gorilla2019RemasterHowSweetItIsToBeLovedByYou2019Remast
   ownLength: 3.6064333333333334,
   ownProgress: 3.6064333333333334,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

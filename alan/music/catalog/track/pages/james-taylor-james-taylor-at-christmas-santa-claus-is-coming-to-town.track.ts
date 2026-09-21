@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasSantaClausIsComingToTown = {
   ownLength: 2.958666666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

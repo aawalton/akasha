@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
   ownLength: 3.5691,
   ownProgress: 3.5691,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

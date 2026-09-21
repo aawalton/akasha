@@ -7,7 +7,6 @@ export const emeiBetterPeopleToLeaveOnReadBetterPeopleToLeaveOnRead = {
   ownLength: 2.1890666666666667,
   ownProgress: 2.1890666666666667,
   partOfCollections: ["release/emei-better-people-to-leave-on-read"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

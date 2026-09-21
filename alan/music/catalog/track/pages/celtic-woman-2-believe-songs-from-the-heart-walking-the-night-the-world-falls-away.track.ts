@@ -7,7 +7,6 @@ export const celticWoman2BelieveSongsFromTheHeartWalkingTheNightTheWorldFallsAwa
   ownLength: 6.702883333333333,
   ownProgress: 6.702883333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

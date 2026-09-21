@@ -7,7 +7,6 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
   ownLength: 3.26175,
   ownProgress: 3.26175,
   partOfCollections: ["release/ariana-grande-hotel-rock-bottom"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

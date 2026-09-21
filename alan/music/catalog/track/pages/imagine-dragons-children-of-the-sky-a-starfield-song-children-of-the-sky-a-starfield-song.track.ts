@@ -7,7 +7,6 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSongChildrenOfTheSkyAStarfi
   ownLength: 3.460183333333333,
   ownProgress: 3.460183333333333,
   partOfCollections: ["release/imagine-dragons-children-of-the-sky-a-starfield-song"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
   ownLength: 4.096866666666667,
   ownProgress: 4.096866666666667,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

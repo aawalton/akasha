@@ -7,7 +7,6 @@ export const thePianoGuysSerenityJustTheWayYouAre = {
   ownLength: 4.370666666666667,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 10,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

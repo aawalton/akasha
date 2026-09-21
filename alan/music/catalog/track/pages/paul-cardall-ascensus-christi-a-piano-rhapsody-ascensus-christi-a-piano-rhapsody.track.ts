@@ -7,7 +7,6 @@ export const paulCardallAscensusChristiAPianoRhapsodyAscensusChristiAPianoRhapso
   ownLength: 5.210733333333334,
   ownProgress: 5.210733333333334,
   partOfCollections: ["release/paul-cardall-ascensus-christi-a-piano-rhapsody"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

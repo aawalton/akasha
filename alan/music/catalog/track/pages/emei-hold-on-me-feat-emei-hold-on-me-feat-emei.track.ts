@@ -7,7 +7,6 @@ export const emeiHoldOnMeFeatEmeiHoldOnMeFeatEmei = {
   ownLength: 2.4928166666666667,
   ownProgress: 2.4928166666666667,
   partOfCollections: ["release/emei-hold-on-me-feat-emei"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

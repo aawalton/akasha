@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanDannyBoy = {
   ownLength: 3.407766666666667,
   ownProgress: 3.407766666666667,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

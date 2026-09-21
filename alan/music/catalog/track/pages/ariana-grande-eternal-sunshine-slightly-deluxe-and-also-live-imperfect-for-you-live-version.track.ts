@@ -7,7 +7,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   ownLength: 3.10335,
   ownProgress: 3.10335,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

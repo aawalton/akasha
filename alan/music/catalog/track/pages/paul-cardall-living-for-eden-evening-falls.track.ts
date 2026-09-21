@@ -7,7 +7,6 @@ export const paulCardallLivingForEdenEveningFalls = {
   ownLength: 2.944,
   ownProgress: 2.944,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -13,7 +13,6 @@ export const thePianoGuys3GoldenHourGoldenHour = {
     "release/the-piano-guys-3-wedding-season",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

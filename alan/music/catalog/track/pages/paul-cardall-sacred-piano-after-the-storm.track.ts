@@ -7,7 +7,6 @@ export const paulCardallSacredPianoAfterTheStorm = {
   ownLength: 2.918,
   ownProgress: 2.918,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

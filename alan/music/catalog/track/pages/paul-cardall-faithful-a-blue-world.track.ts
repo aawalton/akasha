@@ -7,7 +7,6 @@ export const paulCardallFaithfulABlueWorld = {
   ownLength: 4.945333333333333,
   ownProgress: 4.945333333333333,
   partOfCollections: ["release/paul-cardall-faithful"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

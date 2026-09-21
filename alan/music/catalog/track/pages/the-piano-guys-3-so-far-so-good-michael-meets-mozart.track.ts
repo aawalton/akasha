@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodMichaelMeetsMozart = {
   ownLength: 5.311333333333334,
   ownProgress: 5.311333333333334,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

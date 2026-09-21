@@ -7,7 +7,6 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
   ownLength: 3.5441166666666666,
   ownProgress: 3.5441166666666666,
   partOfCollections: ["release/coldplay-hymn-for-the-weekend-seeb-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

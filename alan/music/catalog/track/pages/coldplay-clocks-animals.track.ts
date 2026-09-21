@@ -7,7 +7,6 @@ export const coldplayClocksAnimals = {
   ownLength: 5.554433333333333,
   ownProgress: 5.554433333333333,
   partOfCollections: ["release/coldplay-clocks"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

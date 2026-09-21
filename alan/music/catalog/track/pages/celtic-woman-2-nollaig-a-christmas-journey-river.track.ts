@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyRiver = {
   ownLength: 5.03885,
   ownProgress: 5.03885,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

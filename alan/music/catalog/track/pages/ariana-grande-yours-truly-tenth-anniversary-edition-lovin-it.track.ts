@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionLovinIt = {
   ownLength: 3.0115666666666665,
   ownProgress: 3.0115666666666665,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

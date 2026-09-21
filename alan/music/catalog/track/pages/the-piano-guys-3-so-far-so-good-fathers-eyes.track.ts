@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodFathersEyes = {
   ownLength: 3.914066666666667,
   ownProgress: 3.914066666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

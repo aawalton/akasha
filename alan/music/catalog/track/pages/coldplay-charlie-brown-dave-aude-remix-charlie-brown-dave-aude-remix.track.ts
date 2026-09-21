@@ -7,7 +7,6 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
   ownLength: 6.7307,
   ownProgress: 6.7307,
   partOfCollections: ["release/coldplay-charlie-brown-dave-aude-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

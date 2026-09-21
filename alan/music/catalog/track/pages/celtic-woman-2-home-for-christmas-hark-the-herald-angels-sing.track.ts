@@ -7,7 +7,6 @@ export const celticWoman2HomeForChristmasHarkTheHeraldAngelsSing = {
   ownLength: 5.030883333333334,
   ownProgress: 5.030883333333334,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

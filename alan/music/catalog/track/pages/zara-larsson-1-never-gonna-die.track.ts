@@ -7,7 +7,6 @@ export const zaraLarsson1NeverGonnaDie = {
   ownLength: 3.7713666666666668,
   ownProgress: 3.7713666666666668,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

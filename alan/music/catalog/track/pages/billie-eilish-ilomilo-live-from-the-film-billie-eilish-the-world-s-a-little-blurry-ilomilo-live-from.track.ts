@@ -9,7 +9,6 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   partOfCollections: [
     "release/billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-world-s-a-little-blurry",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

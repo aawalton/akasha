@@ -7,7 +7,6 @@ export const paulCardallChillCollectionEarlyMonday = {
   ownLength: 3.7424666666666666,
   ownProgress: 3.7424666666666666,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

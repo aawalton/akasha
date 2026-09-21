@@ -7,7 +7,6 @@ export const alexandriaPixiePixie = {
   ownLength: 3.4814666666666665,
   ownProgress: 3.4814666666666665,
   partOfCollections: ["release/alexandria-pixie"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

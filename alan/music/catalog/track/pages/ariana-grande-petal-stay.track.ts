@@ -7,7 +7,6 @@ export const arianaGrandePetalStay = {
   ownLength: 2.4736666666666665,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

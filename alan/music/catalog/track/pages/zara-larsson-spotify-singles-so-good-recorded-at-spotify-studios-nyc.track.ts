@@ -7,7 +7,6 @@ export const zaraLarssonSpotifySinglesSoGoodRecordedAtSpotifyStudiosNyc = {
   ownLength: 2.6907833333333335,
   ownProgress: 2.6907833333333335,
   partOfCollections: ["release/zara-larsson-spotify-singles"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

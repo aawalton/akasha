@@ -10,7 +10,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalLiv
     "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
     "release/ariana-grande-supernatural",
   ],
-  position: 21,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdog = {
   ownLength: 3.490666666666667,
   ownProgress: 3.490666666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

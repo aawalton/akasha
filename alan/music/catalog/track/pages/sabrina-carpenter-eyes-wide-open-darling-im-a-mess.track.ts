@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenDarlingImAMess = {
   ownLength: 2.9842166666666667,
   ownProgress: 2.9842166666666667,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

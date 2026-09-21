@@ -7,7 +7,6 @@ export const sabrinaCarpenterManSBestFriendWeAlmostBrokeUpAgainLastNight = {
   ownLength: 3.3896333333333333,
   ownProgress: 3.3896333333333333,
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

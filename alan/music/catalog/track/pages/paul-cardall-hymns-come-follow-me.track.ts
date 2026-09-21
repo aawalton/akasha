@@ -7,7 +7,6 @@ export const paulCardallHymnsComeFollowMe = {
   ownLength: 2.63355,
   ownProgress: 2.63355,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

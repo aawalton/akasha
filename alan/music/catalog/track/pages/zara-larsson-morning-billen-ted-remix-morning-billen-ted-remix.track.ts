@@ -10,7 +10,6 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
     "release/zara-larsson-morning-billen-ted-remix",
     "release/zara-larsson-poster-girl-summer-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

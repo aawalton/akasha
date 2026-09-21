@@ -7,7 +7,6 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   ownLength: 2.7757666666666667,
   ownProgress: 2.7757666666666667,
   partOfCollections: ["release/aurora-running-with-the-wolves-wolfwalkers-edition"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

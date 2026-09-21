@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanYouRaiseMeUp = {
   ownLength: 4.518883333333333,
   ownProgress: 4.518883333333333,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2FlagRainyDayMan = {
   ownLength: 2.9882166666666667,
   ownProgress: 2.9882166666666667,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraComeCloserSideBySide = {
   ownLength: 2.95555,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
-  position: 10,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

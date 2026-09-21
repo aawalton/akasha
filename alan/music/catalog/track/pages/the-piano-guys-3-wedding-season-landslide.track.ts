@@ -7,7 +7,6 @@ export const thePianoGuys3WeddingSeasonLandslide = {
   ownLength: 2.2662333333333335,
   ownProgress: 2.2662333333333335,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

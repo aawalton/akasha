@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysNearerMyGodToThee = {
   ownLength: 3.0205,
   ownProgress: 3.0205,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

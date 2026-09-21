@@ -7,7 +7,6 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
   ownLength: 3.7426666666666666,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

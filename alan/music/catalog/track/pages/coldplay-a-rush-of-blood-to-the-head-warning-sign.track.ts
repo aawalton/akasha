@@ -7,7 +7,6 @@ export const coldplayARushOfBloodToTheHeadWarningSign = {
   ownLength: 5.518883333333333,
   ownProgress: 5.518883333333333,
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

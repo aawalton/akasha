@@ -7,7 +7,6 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollensWhatAreWordsF
   ownLength: 3.6333333333333333,
   ownProgress: 3.6333333333333333,
   partOfCollections: ["release/the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

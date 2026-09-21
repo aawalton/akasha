@@ -7,7 +7,6 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   ownLength: 2.8812333333333333,
   ownProgress: 2.8812333333333333,
   partOfCollections: ["release/vinny-marchi-holding-on-to-you"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiLovelessAndModernLanguageLovelessAndModernLanguage = {
   ownLength: 3.658933333333333,
   ownProgress: 3.658933333333333,
   partOfCollections: ["release/vinny-marchi-loveless-and-modern-language"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

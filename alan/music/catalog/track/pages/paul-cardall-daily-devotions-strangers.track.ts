@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsStrangers = {
   ownLength: 3.5137666666666667,
   ownProgress: 3.5137666666666667,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

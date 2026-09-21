@@ -7,7 +7,6 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomMidnightSunLiveSpotifyLiveRoom
   ownLength: 3.2756666666666665,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-zara-larsson-spotify-live-room"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

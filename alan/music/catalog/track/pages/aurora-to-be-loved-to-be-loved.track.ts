@@ -7,7 +7,6 @@ export const auroraToBeLovedToBeLoved = {
   ownLength: 3.8099,
   ownProgress: 3.8099,
   partOfCollections: ["release/aurora-to-be-loved"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

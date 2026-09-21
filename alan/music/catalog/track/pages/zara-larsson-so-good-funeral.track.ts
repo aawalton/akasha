@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodFuneral = {
   ownLength: 3.594,
   ownProgress: 3.594,
   partOfCollections: ["release/zara-larsson-so-good"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

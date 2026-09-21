@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyOverTheRainbow = {
   ownLength: 2.6184333333333334,
   ownProgress: 2.6184333333333334,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

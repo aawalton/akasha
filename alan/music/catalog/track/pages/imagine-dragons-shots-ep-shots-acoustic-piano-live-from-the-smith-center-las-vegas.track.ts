@@ -7,7 +7,6 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
   ownLength: 4.361766666666667,
   ownProgress: 4.361766666666667,
   partOfCollections: ["release/imagine-dragons-shots-ep"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

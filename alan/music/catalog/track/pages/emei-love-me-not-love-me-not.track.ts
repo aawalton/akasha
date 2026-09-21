@@ -7,7 +7,6 @@ export const emeiLoveMeNotLoveMeNot = {
   ownLength: 2.33925,
   ownProgress: 2.33925,
   partOfCollections: ["release/emei-love-me-not"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

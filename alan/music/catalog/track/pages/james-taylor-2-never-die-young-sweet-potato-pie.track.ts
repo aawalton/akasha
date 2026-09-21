@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungSweetPotatoPie = {
   ownLength: 3.5137666666666667,
   ownProgress: 3.5137666666666667,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandMeanOldManLiveAtTheColonialTheatre2007 = {
   ownLength: 3.71,
   ownProgress: 3.71,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

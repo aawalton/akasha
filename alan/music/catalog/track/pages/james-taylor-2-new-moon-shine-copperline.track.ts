@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineCopperline = {
   ownLength: 4.354416666666666,
   ownProgress: 4.354416666666666,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

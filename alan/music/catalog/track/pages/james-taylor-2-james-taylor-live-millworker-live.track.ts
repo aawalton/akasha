@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveMillworkerLive = {
   ownLength: 4.4271,
   ownProgress: 4.4271,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2DestinyTheWholeOfTheMoon = {
   ownLength: 4.088966666666667,
   ownProgress: 4.088966666666667,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

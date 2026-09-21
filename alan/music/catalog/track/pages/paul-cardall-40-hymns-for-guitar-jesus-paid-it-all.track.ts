@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarJesusPaidItAll = {
   ownLength: 2.8333333333333335,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 23,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

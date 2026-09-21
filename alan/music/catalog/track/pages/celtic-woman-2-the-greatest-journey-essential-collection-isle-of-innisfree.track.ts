@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionIsleOfInnisfree = 
   ownLength: 3.4408833333333333,
   ownProgress: 3.4408833333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

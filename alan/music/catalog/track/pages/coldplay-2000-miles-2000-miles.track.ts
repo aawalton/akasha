@@ -7,7 +7,6 @@ export const coldplay2000Miles2000Miles = {
   ownLength: 3.26195,
   ownProgress: 3.26195,
   partOfCollections: ["release/coldplay-2000-miles"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

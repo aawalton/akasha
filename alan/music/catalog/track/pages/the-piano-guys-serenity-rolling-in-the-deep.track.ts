@@ -7,7 +7,6 @@ export const thePianoGuysSerenityRollingInTheDeep = {
   ownLength: 3.8524333333333334,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

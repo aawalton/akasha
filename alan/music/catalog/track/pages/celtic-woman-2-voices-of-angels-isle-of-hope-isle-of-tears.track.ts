@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsIsleOfHopeIsleOfTears = {
   ownLength: 5.0231,
   ownProgress: 5.0231,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

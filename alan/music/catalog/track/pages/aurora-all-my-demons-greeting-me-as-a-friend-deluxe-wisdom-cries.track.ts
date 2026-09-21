@@ -7,7 +7,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWisdomCries = {
   ownLength: 4.118433333333333,
   ownProgress: 4.118433333333333,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

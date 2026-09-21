@@ -7,7 +7,6 @@ export const paulCardallChristmasItCameUponAMidnightClear = {
   ownLength: 3.24405,
   ownProgress: 3.24405,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

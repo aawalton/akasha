@@ -7,7 +7,6 @@ export const coldplayVioletHillASpellARebelYell = {
   ownLength: 2.8042166666666666,
   ownProgress: 2.8042166666666666,
   partOfCollections: ["release/coldplay-violet-hill"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

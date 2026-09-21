@@ -7,7 +7,6 @@ export const vinnyMarchiRidingWavesRidingWaves = {
   ownLength: 2.811183333333333,
   ownProgress: 2.811183333333333,
   partOfCollections: ["release/vinny-marchi-riding-waves"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

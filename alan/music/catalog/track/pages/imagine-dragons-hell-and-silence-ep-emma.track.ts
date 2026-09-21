@@ -7,7 +7,6 @@ export const imagineDragonsHellAndSilenceEpEmma = {
   ownLength: 3.5491,
   ownProgress: 3.5491,
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

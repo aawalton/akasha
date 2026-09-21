@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsMoGhileMearMyGallantStar = {
   ownLength: 3.6148833333333332,
   ownProgress: 3.6148833333333332,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
     "release/paul-cardall-an-evening-in-paris",
     "release/paul-cardall-return-home",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

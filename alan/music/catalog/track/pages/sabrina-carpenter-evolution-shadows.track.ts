@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionShadows = {
   ownLength: 2.8737666666666666,
   ownProgress: 2.8737666666666666,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

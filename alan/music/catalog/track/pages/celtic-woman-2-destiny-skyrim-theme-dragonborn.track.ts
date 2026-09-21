@@ -7,7 +7,6 @@ export const celticWoman2DestinySkyrimThemeDragonborn = {
   ownLength: 3.19565,
   ownProgress: 3.19565,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

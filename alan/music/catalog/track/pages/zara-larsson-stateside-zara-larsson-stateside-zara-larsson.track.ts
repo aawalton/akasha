@@ -7,7 +7,6 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
   ownLength: 3.07935,
   ownProgress: 3.07935,
   partOfCollections: ["release/zara-larsson-stateside-zara-larsson"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

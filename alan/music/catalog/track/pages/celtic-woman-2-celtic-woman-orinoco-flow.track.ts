@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanOrinocoFlow = {
   ownLength: 3.5394833333333335,
   ownProgress: 3.5394833333333335,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

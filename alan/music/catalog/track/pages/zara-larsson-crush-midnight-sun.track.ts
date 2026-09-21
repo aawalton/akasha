@@ -17,7 +17,6 @@ export const zaraLarssonCrushMidnightSun = {
     "release/zara-larsson-midnight-sun",
     "release/zara-larsson-midnight-sun-more",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

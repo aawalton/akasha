@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
   ownLength: 4.156,
   ownProgress: 4.156,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

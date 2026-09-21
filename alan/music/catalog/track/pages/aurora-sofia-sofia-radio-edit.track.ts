@@ -7,7 +7,6 @@ export const auroraSofiaSofiaRadioEdit = {
   ownLength: 3.94465,
   ownProgress: 3.94465,
   partOfCollections: ["release/aurora-sofia"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

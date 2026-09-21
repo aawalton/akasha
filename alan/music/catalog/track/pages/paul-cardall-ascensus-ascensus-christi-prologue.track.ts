@@ -7,7 +7,6 @@ export const paulCardallAscensusAscensusChristiPrologue = {
   ownLength: 0.7947833333333333,
   ownProgress: 0.7947833333333333,
   partOfCollections: ["release/paul-cardall-ascensus"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

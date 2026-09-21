@@ -10,7 +10,6 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
     "release/imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends",
     "release/imagine-dragons-mercury-acts-1-2",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

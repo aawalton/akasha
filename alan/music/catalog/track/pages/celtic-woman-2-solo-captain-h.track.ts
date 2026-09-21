@@ -7,7 +7,6 @@ export const celticWoman2SoloCaptainH = {
   ownLength: 3.0422,
   ownProgress: 3.0422,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

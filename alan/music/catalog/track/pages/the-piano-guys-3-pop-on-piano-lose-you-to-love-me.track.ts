@@ -7,7 +7,6 @@ export const thePianoGuys3PopOnPianoLoseYouToLoveMe = {
   ownLength: 4.963633333333333,
   ownProgress: 4.963633333333333,
   partOfCollections: ["release/the-piano-guys-3-pop-on-piano"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

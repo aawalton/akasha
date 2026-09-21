@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerGetWellSoon = {
   ownLength: 5.3671,
   ownProgress: 5.3671,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

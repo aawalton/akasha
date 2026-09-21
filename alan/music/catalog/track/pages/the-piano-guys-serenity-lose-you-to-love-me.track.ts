@@ -7,7 +7,6 @@ export const thePianoGuysSerenityLoseYouToLoveMe = {
   ownLength: 4.96355,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 13,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationHaveYourselfAMerryLittleChristmas 
   ownLength: 2.45755,
   ownProgress: 2.45755,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

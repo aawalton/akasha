@@ -7,7 +7,6 @@ export const auroraTheDevilIsHumanTheDevilIsHuman = {
   ownLength: 3.0102166666666665,
   ownProgress: 3.0102166666666665,
   partOfCollections: ["release/aurora-the-devil-is-human"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

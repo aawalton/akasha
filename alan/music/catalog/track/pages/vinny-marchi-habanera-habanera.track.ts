@@ -7,7 +7,6 @@ export const vinnyMarchiHabaneraHabanera = {
   ownLength: 2.1803833333333333,
   ownProgress: 2.1803833333333333,
   partOfCollections: ["release/vinny-marchi-habanera"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

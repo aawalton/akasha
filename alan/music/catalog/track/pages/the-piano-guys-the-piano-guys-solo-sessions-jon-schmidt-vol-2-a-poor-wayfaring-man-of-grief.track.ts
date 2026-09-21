@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2APoorWayfaringMan
   ownLength: 7.938583333333334,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

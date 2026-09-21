@@ -7,7 +7,6 @@ export const arianaGrandeSantaTellMeSantaTellMe = {
   ownLength: 3.40155,
   ownProgress: 3.40155,
   partOfCollections: ["release/ariana-grande-santa-tell-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

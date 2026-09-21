@@ -7,7 +7,6 @@ export const paulCardallLivingForEdenSweetHourOfPrayer = {
   ownLength: 3.1856166666666668,
   ownProgress: 3.1856166666666668,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
-  position: 22,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

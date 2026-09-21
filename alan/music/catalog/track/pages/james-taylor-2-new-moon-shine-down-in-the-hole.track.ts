@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   ownLength: 5.252666666666666,
   ownProgress: 5.252666666666666,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

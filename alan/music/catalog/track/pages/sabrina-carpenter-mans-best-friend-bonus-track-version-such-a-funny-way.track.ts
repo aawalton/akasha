@@ -7,7 +7,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionSuchAFunnyWay = {
   ownLength: 3.8729666666666667,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
-  position: 13,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

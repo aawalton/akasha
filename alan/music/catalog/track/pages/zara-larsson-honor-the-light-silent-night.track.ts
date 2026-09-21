@@ -7,7 +7,6 @@ export const zaraLarssonHonorTheLightSilentNight = {
   ownLength: 1.7011,
   ownProgress: 1.7011,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

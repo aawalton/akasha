@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetINeedTheeEveryHour = {
   ownLength: 3.3771833333333334,
   ownProgress: 3.3771833333333334,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

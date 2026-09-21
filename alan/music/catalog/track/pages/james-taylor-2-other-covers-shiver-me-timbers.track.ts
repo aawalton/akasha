@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversShiverMeTimbers = {
   ownLength: 4.324883333333333,
   ownProgress: 4.324883333333333,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

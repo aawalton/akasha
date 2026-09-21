@@ -7,7 +7,6 @@ export const auroraIDrinkTheLightJengiRemixIDrinkTheLightJengiRemix = {
   ownLength: 5.2293666666666665,
   ownProgress: 0,
   partOfCollections: ["release/aurora-i-drink-the-light-jengi-remix"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

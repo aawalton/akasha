@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandTheVoiceLive2017 = {
   ownLength: 3.5151,
   ownProgress: 3.5151,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

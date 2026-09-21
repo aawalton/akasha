@@ -7,7 +7,6 @@ export const chaislynMandelaEffectMandelaEffect = {
   ownLength: 2.8236,
   ownProgress: 2.8236,
   partOfCollections: ["release/chaislyn-mandela-effect", "release/chaislyn-unreliable-narrator"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

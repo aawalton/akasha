@@ -7,7 +7,6 @@ export const coldplayColoraturaColoratura = {
   ownLength: 10.316,
   ownProgress: 10.316,
   partOfCollections: ["release/coldplay-coloratura"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

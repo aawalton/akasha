@@ -7,7 +7,6 @@ export const jamesTaylor2OneManDog2019RemasterBackOnTheStreetAgain2019Remaster =
   ownLength: 3.0250833333333333,
   ownProgress: 3.0250833333333333,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
   ownLength: 5.5371,
   ownProgress: 5.5371,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

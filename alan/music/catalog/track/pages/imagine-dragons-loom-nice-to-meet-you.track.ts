@@ -7,7 +7,6 @@ export const imagineDragonsLoomNiceToMeetYou = {
   ownLength: 3.17955,
   ownProgress: 3.17955,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

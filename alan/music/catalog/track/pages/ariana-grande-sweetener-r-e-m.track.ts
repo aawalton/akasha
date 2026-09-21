@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerREM = {
   ownLength: 4.094433333333333,
   ownProgress: 4.094433333333333,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2DestinyTheHillsOfIreland = {
   ownLength: 3.2007,
   ownProgress: 3.2007,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
   ownLength: 3.1982166666666667,
   ownProgress: 3.1982166666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsEvolveIDontKnowWhy = {
   ownLength: 3.1686666666666667,
   ownProgress: 3.1686666666666667,
   partOfCollections: ["release/imagine-dragons-evolve"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

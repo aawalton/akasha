@@ -10,7 +10,6 @@ export const imagineDragonsItSTimePassionPitRemixItsTimePassionPitRemix = {
     "release/imagine-dragons-it-s-time-passion-pit-remix",
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

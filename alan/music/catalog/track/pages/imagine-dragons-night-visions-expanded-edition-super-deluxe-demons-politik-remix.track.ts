@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsPolitikRe
   ownLength: 4.392,
   ownProgress: 4.392,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

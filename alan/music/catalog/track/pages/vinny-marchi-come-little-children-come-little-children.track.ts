@@ -7,7 +7,6 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
   ownLength: 2.57475,
   ownProgress: 2.57475,
   partOfCollections: ["release/vinny-marchi-come-little-children"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

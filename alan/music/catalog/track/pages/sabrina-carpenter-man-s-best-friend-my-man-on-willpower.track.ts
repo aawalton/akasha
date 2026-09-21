@@ -10,7 +10,6 @@ export const sabrinaCarpenterManSBestFriendMyManOnWillpower = {
     "release/sabrina-carpenter-man-s-best-friend",
     "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

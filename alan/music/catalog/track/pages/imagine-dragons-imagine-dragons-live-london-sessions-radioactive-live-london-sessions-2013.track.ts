@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsRadioactiveLiveLondon
   ownLength: 4.502666666666666,
   ownProgress: 4.502666666666666,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-london-sessions"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

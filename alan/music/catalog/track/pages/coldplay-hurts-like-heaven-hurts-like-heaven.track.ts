@@ -7,7 +7,6 @@ export const coldplayHurtsLikeHeavenHurtsLikeHeaven = {
   ownLength: 4.03755,
   ownProgress: 4.03755,
   partOfCollections: ["release/coldplay-hurts-like-heaven", "release/coldplay-mylo-xyloto"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

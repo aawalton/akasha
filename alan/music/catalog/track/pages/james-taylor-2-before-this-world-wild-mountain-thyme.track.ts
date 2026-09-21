@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldWildMountainThyme = {
   ownLength: 2.9486666666666665,
   ownProgress: 2.9486666666666665,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

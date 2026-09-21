@@ -7,7 +7,6 @@ export const thePianoGuys310MoreThanAFeelingLongTime = {
   ownLength: 5.117583333333333,
   ownProgress: 5.117583333333333,
   partOfCollections: ["release/the-piano-guys-3-10"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

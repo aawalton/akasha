@@ -7,7 +7,6 @@ export const coldplayMidnightRemixesMidnightPhones4amRemix = {
   ownLength: 10.936183333333334,
   ownProgress: 10.936183333333334,
   partOfCollections: ["release/coldplay-midnight-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

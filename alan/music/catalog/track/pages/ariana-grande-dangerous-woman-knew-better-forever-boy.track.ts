@@ -10,7 +10,6 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
     "release/ariana-grande-dangerous-woman",
     "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
   ],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

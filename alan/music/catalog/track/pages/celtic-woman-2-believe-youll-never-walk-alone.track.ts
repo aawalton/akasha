@@ -7,7 +7,6 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
   ownLength: 3.9704333333333333,
   ownProgress: 3.9704333333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

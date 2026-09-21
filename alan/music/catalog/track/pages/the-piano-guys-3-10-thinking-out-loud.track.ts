@@ -11,7 +11,6 @@ export const thePianoGuys310ThinkingOutLoud = {
     "release/the-piano-guys-3-classical-love-romance",
     "release/the-piano-guys-3-pop-on-piano",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

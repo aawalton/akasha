@@ -7,7 +7,6 @@ export const celticWoman2LullabyTheBlessing = {
   ownLength: 3.862,
   ownProgress: 3.862,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreShotsLive = {
   ownLength: 4.815333333333333,
   ownProgress: 4.815333333333333,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayHypnotisedHypnotised = {
   ownLength: 5.919533333333334,
   ownProgress: 5.919533333333334,
   partOfCollections: ["release/coldplay-hypnotised"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

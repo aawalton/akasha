@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeNewgrange = {
   ownLength: 3.75955,
   ownProgress: 3.75955,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 19,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

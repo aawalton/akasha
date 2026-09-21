@@ -7,7 +7,6 @@ export const coldplaySpeedOfSoundSpeedOfSound = {
   ownLength: 4.807333333333333,
   ownProgress: 4.807333333333333,
   partOfCollections: ["release/coldplay-speed-of-sound"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

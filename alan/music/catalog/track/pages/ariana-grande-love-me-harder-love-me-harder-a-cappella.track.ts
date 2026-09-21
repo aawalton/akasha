@@ -7,7 +7,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarderACappella = {
   ownLength: 3.8943833333333333,
   ownProgress: 3.8943833333333333,
   partOfCollections: ["release/ariana-grande-love-me-harder"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

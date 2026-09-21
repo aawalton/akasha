@@ -7,7 +7,6 @@ export const coldplayChristmasLightsChristmasLights = {
   ownLength: 4.0415833333333335,
   ownProgress: 4.0415833333333335,
   partOfCollections: ["release/coldplay-christmas-lights"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

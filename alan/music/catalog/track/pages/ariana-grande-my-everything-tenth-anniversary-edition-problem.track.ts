@@ -10,7 +10,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
     "release/ariana-grande-my-everything-tenth-anniversary-edition",
     "release/ariana-grande-problem",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

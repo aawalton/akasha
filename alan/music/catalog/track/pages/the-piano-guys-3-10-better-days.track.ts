@@ -7,7 +7,6 @@ export const thePianoGuys310BetterDays = {
   ownLength: 3.1733333333333333,
   ownProgress: 3.1733333333333333,
   partOfCollections: ["release/the-piano-guys-3-10"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022DontYouForgetTheTurkey = {
   ownLength: 3.1296,
   ownProgress: 3.1296,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

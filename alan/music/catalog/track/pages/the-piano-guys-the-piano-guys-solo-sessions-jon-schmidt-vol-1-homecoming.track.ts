@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Homecoming = {
   ownLength: 2.7267166666666665,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

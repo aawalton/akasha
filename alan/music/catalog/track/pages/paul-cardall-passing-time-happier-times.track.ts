@@ -7,7 +7,6 @@ export const paulCardallPassingTimeHappierTimes = {
   ownLength: 1.46895,
   ownProgress: 1.46895,
   partOfCollections: ["release/paul-cardall-passing-time"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

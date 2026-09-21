@@ -7,7 +7,6 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
   ownLength: 3.1153333333333335,
   ownProgress: 3.1153333333333335,
   partOfCollections: ["release/aurora-a-temporary-high-kito-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

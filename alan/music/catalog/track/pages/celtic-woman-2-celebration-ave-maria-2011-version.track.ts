@@ -7,7 +7,6 @@ export const celticWoman2CelebrationAveMaria2011Version = {
   ownLength: 4.375766666666666,
   ownProgress: 4.375766666666666,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

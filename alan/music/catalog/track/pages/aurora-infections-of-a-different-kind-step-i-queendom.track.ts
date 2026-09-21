@@ -11,7 +11,6 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
     "release/aurora-music-for-the-free-spirits",
     "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

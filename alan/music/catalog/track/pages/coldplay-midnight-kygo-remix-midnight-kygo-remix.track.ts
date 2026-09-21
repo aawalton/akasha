@@ -7,7 +7,6 @@ export const coldplayMidnightKygoRemixMidnightKygoRemix = {
   ownLength: 5.27245,
   ownProgress: 5.27245,
   partOfCollections: ["release/coldplay-midnight-kygo-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeStuck = {
   ownLength: 3.1808833333333335,
   ownProgress: 3.1808833333333335,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

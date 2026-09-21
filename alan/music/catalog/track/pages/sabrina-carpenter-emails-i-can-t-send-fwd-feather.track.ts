@@ -10,7 +10,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdFeather = {
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
     "release/sabrina-carpenter-feather-sped-up",
   ],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

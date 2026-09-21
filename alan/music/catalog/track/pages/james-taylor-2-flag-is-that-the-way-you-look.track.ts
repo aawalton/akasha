@@ -7,7 +7,6 @@ export const jamesTaylor2FlagIsThatTheWayYouLook = {
   ownLength: 1.9611,
   ownProgress: 1.9611,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

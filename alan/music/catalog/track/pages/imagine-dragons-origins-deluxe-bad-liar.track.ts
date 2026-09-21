@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeBadLiar = {
   ownLength: 4.346216666666667,
   ownProgress: 4.346216666666667,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

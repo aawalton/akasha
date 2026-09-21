@@ -7,7 +7,6 @@ export const imagineDragonsEvolveWalkingTheWire = {
   ownLength: 3.8817666666666666,
   ownProgress: 3.8817666666666666,
   partOfCollections: ["release/imagine-dragons-evolve"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraWorldOfWarcraftAPlaceToCallHomeAPlaceToCallHome = {
   ownLength: 2.1996333333333333,
   ownProgress: 0,
   partOfCollections: ["release/aurora-world-of-warcraft-a-place-to-call-home"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

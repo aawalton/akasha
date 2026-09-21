@@ -7,7 +7,6 @@ export const thePianoGuys3WondersStoryOfMyLife = {
   ownLength: 4.51355,
   ownProgress: 4.51355,
   partOfCollections: ["release/the-piano-guys-3-wonders", "release/the-piano-guys-serenity"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

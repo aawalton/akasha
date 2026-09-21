@@ -7,7 +7,6 @@ export const emeiEndOfAnEraThatGirl = {
   ownLength: 2.3404333333333334,
   ownProgress: 2.3404333333333334,
   partOfCollections: ["release/emei-end-of-an-era", "release/emei-that-girl"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

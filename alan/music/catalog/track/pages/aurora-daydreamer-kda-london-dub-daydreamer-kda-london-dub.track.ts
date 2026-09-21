@@ -7,7 +7,6 @@ export const auroraDaydreamerKdaLondonDubDaydreamerKdaLondonDub = {
   ownLength: 5.4462166666666665,
   ownProgress: 5.4462166666666665,
   partOfCollections: ["release/aurora-daydreamer-kda-london-dub"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

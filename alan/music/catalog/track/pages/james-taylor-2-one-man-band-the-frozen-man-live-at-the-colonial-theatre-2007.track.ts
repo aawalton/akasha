@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandTheFrozenManLiveAtTheColonialTheatre2007 = {
   ownLength: 5.11955,
   ownProgress: 5.11955,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

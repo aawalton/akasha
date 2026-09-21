@@ -7,7 +7,6 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomHowDeepIsYourLoveLiveSpotifyLi
   ownLength: 2.2027666666666668,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-zara-larsson-spotify-live-room"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

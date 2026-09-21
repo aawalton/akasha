@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysFishersOfMen = {
   ownLength: 2.9366666666666665,
   ownProgress: 2.9366666666666665,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 29,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

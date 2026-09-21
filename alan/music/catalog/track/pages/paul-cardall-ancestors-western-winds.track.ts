@@ -7,7 +7,6 @@ export const paulCardallAncestorsWesternWinds = {
   ownLength: 3.7319,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

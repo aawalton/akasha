@@ -7,7 +7,6 @@ export const paulCardallASacredChristmasPianoCollectionDoYouHearWhatIHear = {
   ownLength: 4.1478,
   ownProgress: 4.1478,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

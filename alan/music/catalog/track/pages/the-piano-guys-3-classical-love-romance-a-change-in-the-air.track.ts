@@ -11,7 +11,6 @@ export const thePianoGuys3ClassicalLoveRomanceAChangeInTheAir = {
     "release/the-piano-guys-3-in-the-stars",
     "release/the-piano-guys-classical-for-studying",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

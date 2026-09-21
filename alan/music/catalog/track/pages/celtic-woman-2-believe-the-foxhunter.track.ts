@@ -7,7 +7,6 @@ export const celticWoman2BelieveTheFoxhunter = {
   ownLength: 3.4766666666666666,
   ownProgress: 3.4766666666666666,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

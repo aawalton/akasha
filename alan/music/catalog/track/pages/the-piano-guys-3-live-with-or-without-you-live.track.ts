@@ -7,7 +7,6 @@ export const thePianoGuys3LiveWithOrWithoutYouLive = {
   ownLength: 4.890666666666666,
   ownProgress: 4.890666666666666,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

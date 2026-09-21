@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsGoodKingWenceslas = {
   ownLength: 4.608,
   ownProgress: 4.608,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

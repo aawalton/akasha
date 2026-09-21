@@ -7,7 +7,6 @@ export const jamesTaylor2CoversSeminoleWind = {
   ownLength: 4.834433333333333,
   ownProgress: 4.834433333333333,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
   ownLength: 3.7903,
   ownProgress: 3.7903,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

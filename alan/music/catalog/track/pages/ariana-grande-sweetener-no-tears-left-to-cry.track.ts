@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerNoTearsLeftToCry = {
   ownLength: 3.432,
   ownProgress: 3.432,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

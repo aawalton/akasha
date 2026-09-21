@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartGalwayBay = {
   ownLength: 4.282216666666667,
   ownProgress: 4.282216666666667,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

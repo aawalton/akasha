@@ -11,7 +11,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveTheBoyIsMineWit
     "release/ariana-grande-the-boy-is-mine-remix",
     "release/ariana-grande-the-boy-is-mine",
   ],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

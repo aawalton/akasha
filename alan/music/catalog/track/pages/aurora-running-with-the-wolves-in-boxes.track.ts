@@ -7,7 +7,6 @@ export const auroraRunningWithTheWolvesInBoxes = {
   ownLength: 3.394433333333333,
   ownProgress: 3.394433333333333,
   partOfCollections: ["release/aurora-running-with-the-wolves"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallChristmasInTheBleakMidwinter = {
   ownLength: 4.668866666666666,
   ownProgress: 4.668866666666666,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

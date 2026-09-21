@@ -7,7 +7,6 @@ export const coldplayLive2012CharlieBrownLive = {
   ownLength: 5.012433333333333,
   ownProgress: 5.012433333333333,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

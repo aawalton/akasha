@@ -12,7 +12,6 @@ export const emei9LivesRabbithole = {
     "release/emei-rabbithole-2",
     "release/emei-rabbithole",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
   ownLength: 3.9311333333333334,
   ownProgress: 3.9311333333333334,
   partOfCollections: ["release/the-piano-guys-3-main-title-from-jurassic-park"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

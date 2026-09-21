@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTiptoeLiveFromR
   ownLength: 5.580883333333333,
   ownProgress: 5.580883333333333,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

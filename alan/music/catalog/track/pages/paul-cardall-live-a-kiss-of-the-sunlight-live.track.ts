@@ -7,7 +7,6 @@ export const paulCardallLiveAKissOfTheSunlightLive = {
   ownLength: 3.7357666666666667,
   ownProgress: 3.7357666666666667,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sMyWifesOnAHealthyDiet = {
   ownLength: 2.4964333333333335,
   ownProgress: 2.4964333333333335,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

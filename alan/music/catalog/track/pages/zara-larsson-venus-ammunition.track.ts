@@ -7,7 +7,6 @@ export const zaraLarssonVenusAmmunition = {
   ownLength: 3.70815,
   ownProgress: 3.70815,
   partOfCollections: ["release/zara-larsson-venus"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

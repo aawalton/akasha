@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyLasciaChioPianga = {
   ownLength: 3.5242166666666668,
   ownProgress: 3.5242166666666668,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

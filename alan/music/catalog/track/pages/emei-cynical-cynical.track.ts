@@ -7,7 +7,6 @@ export const emeiCynicalCynical = {
   ownLength: 2.2430333333333334,
   ownProgress: 2.2430333333333334,
   partOfCollections: ["release/emei-cynical"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

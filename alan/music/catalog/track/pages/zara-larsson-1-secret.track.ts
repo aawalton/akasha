@@ -7,7 +7,6 @@ export const zaraLarsson1Secret = {
   ownLength: 2.730916666666667,
   ownProgress: 2.730916666666667,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

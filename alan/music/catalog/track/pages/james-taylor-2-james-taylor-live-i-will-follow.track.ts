@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveIWillFollow = {
   ownLength: 3.95555,
   ownProgress: 3.95555,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

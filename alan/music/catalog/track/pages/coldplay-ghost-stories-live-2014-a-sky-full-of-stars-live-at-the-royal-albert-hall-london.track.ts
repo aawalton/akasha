@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014ASkyFullOfStarsLiveAtTheRoyalAlbertHall
   ownLength: 4.637766666666667,
   ownProgress: 4.637766666666667,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

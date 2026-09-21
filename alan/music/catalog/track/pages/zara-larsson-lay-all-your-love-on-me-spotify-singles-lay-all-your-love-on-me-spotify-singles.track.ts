@@ -7,7 +7,6 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySinglesLayAllYourLoveOnMeSpotif
   ownLength: 2.685416666666667,
   ownProgress: 2.685416666666667,
   partOfCollections: ["release/zara-larsson-lay-all-your-love-on-me-spotify-singles"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

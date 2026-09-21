@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveMexicoLive = {
   ownLength: 3.2622166666666668,
   ownProgress: 3.2622166666666668,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

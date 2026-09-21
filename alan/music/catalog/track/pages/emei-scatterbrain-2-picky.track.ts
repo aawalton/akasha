@@ -7,7 +7,6 @@ export const emeiScatterbrain2Picky = {
   ownLength: 2.34895,
   ownProgress: 2.34895,
   partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

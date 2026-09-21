@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftBirdsOfAFeather = {
   ownLength: 3.5062166666666665,
   ownProgress: 3.5062166666666665,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

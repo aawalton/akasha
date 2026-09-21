@@ -7,7 +7,6 @@ export const celticWoman2HomeForChristmasAuldLangSyne = {
   ownLength: 3.45355,
   ownProgress: 3.45355,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
   ownLength: 6.7282166666666665,
   ownProgress: 6.7282166666666665,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

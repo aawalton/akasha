@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionStepOnUp = {
   ownLength: 3.014283333333333,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
-  position: 16,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

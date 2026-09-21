@@ -7,7 +7,6 @@ export const jamesTaylor2WalkingMan2019RemasterAintNoSong2019Remaster = {
   ownLength: 3.5142166666666665,
   ownProgress: 3.5142166666666665,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

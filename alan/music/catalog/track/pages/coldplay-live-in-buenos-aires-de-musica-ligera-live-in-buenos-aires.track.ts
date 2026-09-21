@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresDeMusicaLigeraLiveInBuenosAires = {
   ownLength: 6.1551,
   ownProgress: 6.1551,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

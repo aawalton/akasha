@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandSecretOLifeLiveAtTheColonialTheatre2007 = {
   ownLength: 3.7042166666666665,
   ownProgress: 3.7042166666666665,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

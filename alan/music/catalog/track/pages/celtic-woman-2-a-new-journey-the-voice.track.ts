@@ -10,7 +10,6 @@ export const celticWoman2ANewJourneyTheVoice = {
     "release/celtic-woman-2-a-new-journey",
     "release/celtic-woman-2-the-greatest-journey-essential-collection",
   ],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBubbleNightVisi
   ownLength: 3.3783,
   ownProgress: 3.3783,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

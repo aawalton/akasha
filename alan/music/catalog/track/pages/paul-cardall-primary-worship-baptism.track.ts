@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipBaptism = {
   ownLength: 3.67355,
   ownProgress: 3.67355,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

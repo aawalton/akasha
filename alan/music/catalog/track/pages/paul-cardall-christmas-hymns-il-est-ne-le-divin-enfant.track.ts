@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsIlEstNeLeDivinEnfant = {
   ownLength: 4.228883333333333,
   ownProgress: 4.228883333333333,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

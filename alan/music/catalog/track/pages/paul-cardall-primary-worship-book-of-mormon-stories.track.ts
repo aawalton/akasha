@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   ownLength: 6.788883333333334,
   ownProgress: 6.788883333333334,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

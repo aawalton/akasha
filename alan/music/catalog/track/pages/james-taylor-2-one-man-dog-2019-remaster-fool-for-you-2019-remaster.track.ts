@@ -7,7 +7,6 @@ export const jamesTaylor2OneManDog2019RemasterFoolForYou2019Remaster = {
   ownLength: 1.7069333333333334,
   ownProgress: 1.7069333333333334,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

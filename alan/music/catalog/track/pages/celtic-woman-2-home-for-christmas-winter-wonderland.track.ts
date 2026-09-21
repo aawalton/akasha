@@ -7,7 +7,6 @@ export const celticWoman2HomeForChristmasWinterWonderland = {
   ownLength: 2.8506666666666667,
   ownProgress: 2.8506666666666667,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

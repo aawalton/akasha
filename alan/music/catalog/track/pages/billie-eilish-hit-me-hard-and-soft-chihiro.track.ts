@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftChihiro = {
   ownLength: 5.057333333333333,
   ownProgress: 5.057333333333333,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

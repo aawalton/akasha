@@ -7,7 +7,6 @@ export const coldplayParachutesWeNeverChange = {
   ownLength: 4.156666666666666,
   ownProgress: 4.156666666666666,
   partOfCollections: ["release/coldplay-parachutes"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

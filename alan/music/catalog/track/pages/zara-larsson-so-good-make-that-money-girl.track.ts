@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodMakeThatMoneyGirl = {
   ownLength: 3.314783333333333,
   ownProgress: 3.314783333333333,
   partOfCollections: ["release/zara-larsson-so-good"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

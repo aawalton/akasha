@@ -7,7 +7,6 @@ export const auroraSofiaSofia = {
   ownLength: 7.288616666666667,
   ownProgress: 7.288616666666667,
   partOfCollections: ["release/aurora-sofia"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

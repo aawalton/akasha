@@ -7,7 +7,6 @@ export const coldplayTheBlueRoomSuchARush = {
   ownLength: 4.9622166666666665,
   ownProgress: 4.9622166666666665,
   partOfCollections: ["release/coldplay-the-blue-room"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

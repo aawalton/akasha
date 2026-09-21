@@ -7,7 +7,6 @@ export const coldplayHigherPowerTiestoRemixHigherPowerTiestoRemix = {
   ownLength: 3.8260833333333335,
   ownProgress: 3.8260833333333335,
   partOfCollections: ["release/coldplay-higher-power-tiesto-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

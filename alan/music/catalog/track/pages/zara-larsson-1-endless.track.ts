@@ -7,7 +7,6 @@ export const zaraLarsson1Endless = {
   ownLength: 2.7791,
   ownProgress: 2.7791,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

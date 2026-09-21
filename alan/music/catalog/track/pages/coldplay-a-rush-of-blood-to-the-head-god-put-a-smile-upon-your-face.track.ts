@@ -10,7 +10,6 @@ export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
     "release/coldplay-a-rush-of-blood-to-the-head",
     "release/coldplay-god-put-a-smile-upon-your-face",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

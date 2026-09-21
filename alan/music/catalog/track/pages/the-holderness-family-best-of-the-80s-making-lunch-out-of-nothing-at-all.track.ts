@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sMakingLunchOutOfNothingAtAll = {
   ownLength: 2.7041,
   ownProgress: 2.7041,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

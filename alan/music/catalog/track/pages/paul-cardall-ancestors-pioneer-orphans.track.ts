@@ -7,7 +7,6 @@ export const paulCardallAncestorsPioneerOrphans = {
   ownLength: 3.929333333333333,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 8,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

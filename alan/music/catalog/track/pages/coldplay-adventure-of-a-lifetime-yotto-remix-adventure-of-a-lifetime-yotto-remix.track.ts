@@ -7,7 +7,6 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
   ownLength: 3.8311166666666665,
   ownProgress: 3.8311166666666665,
   partOfCollections: ["release/coldplay-adventure-of-a-lifetime-yotto-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

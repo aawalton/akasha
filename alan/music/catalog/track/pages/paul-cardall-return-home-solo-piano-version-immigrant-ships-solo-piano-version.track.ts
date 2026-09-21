@@ -7,7 +7,6 @@ export const paulCardallReturnHomeSoloPianoVersionImmigrantShipsSoloPianoVersion
   ownLength: 3.225,
   ownProgress: 3.225,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

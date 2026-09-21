@@ -7,7 +7,6 @@ export const paulCardallSacredPianoLiveToLove = {
   ownLength: 3.537333333333333,
   ownProgress: 3.537333333333333,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

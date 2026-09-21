@@ -7,7 +7,6 @@ export const jamesTaylor2FireFoxyLady = {
   ownLength: 4.983333333333333,
   ownProgress: 4.983333333333333,
   partOfCollections: ["release/james-taylor-2-fire"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

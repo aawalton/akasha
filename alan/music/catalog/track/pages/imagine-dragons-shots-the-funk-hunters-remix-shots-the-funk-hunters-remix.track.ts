@@ -7,7 +7,6 @@ export const imagineDragonsShotsTheFunkHuntersRemixShotsTheFunkHuntersRemix = {
   ownLength: 4.76555,
   ownProgress: 4.76555,
   partOfCollections: ["release/imagine-dragons-shots-the-funk-hunters-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

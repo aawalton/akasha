@@ -7,7 +7,6 @@ export const paulCardallSleepSleepNremStage1 = {
   ownLength: 21.536566666666666,
   ownProgress: 21.536566666666666,
   partOfCollections: ["release/paul-cardall-sleep"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

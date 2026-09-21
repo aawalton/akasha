@@ -7,7 +7,6 @@ export const vinnyMarchiAllIGaveToYouAllIGaveToYou = {
   ownLength: 3.4268666666666667,
   ownProgress: 3.4268666666666667,
   partOfCollections: ["release/vinny-marchi-all-i-gave-to-you"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

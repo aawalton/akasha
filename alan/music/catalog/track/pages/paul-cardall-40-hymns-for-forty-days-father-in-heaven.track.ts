@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysFatherInHeaven = {
   ownLength: 2.4604333333333335,
   ownProgress: 2.4604333333333335,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 28,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2MoreThanWords = {
   ownLength: 3.9375,
   ownProgress: 3.9375,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

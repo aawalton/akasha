@@ -7,7 +7,6 @@ export const jamesTaylor2JtIfIKeepMyHeartOutOfSight = {
   ownLength: 2.9867833333333333,
   ownProgress: 2.9867833333333333,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

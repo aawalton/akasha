@@ -10,7 +10,6 @@ export const imagineDragonsSmokeMirrorsDeluxeDream = {
     "release/imagine-dragons-smoke-mirrors-deluxe",
     "release/imagine-dragons-smoke-mirrors",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenCantBlameAGirlForTrying = {
   ownLength: 2.8217666666666665,
   ownProgress: 2.8217666666666665,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

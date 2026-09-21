@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12Blur = {
   ownLength: 2.9277166666666665,
   ownProgress: 2.9277166666666665,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

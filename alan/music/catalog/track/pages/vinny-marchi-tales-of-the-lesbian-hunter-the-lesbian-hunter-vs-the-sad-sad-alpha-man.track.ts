@@ -7,7 +7,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheLesbianHunterVsTheSadSadAlphaM
   ownLength: 2.5015,
   ownProgress: 2.5015,
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

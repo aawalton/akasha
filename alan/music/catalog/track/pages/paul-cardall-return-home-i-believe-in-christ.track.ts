@@ -7,7 +7,6 @@ export const paulCardallReturnHomeIBelieveInChrist = {
   ownLength: 3.8147333333333333,
   ownProgress: 3.8147333333333333,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

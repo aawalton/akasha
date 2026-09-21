@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014AnothersArmsLiveAtTheBeaconTheatreNewYo
   ownLength: 3.9313333333333333,
   ownProgress: 3.9313333333333333,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

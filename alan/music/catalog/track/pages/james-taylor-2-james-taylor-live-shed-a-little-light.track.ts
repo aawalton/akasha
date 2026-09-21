@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveShedALittleLight = {
   ownLength: 4.268883333333333,
   ownProgress: 4.268883333333333,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

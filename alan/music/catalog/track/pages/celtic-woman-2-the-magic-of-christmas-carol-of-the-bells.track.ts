@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasCarolOfTheBells = {
   ownLength: 3.4006666666666665,
   ownProgress: 3.4006666666666665,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

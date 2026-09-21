@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysHowFirmAFoundation = {
   ownLength: 2.56955,
   ownProgress: 2.56955,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

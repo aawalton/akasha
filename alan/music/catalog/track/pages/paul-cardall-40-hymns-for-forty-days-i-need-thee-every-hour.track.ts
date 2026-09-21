@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysINeedTheeEveryHour = {
   ownLength: 2.3111,
   ownProgress: 2.3111,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 36,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

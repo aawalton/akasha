@@ -7,7 +7,6 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtekMoonlightDubhouseRemi
   ownLength: 4.7717,
   ownProgress: 4.7717,
   partOfCollections: ["release/the-piano-guys-3-moonlight-dubhouse-remix-feat-braxtek"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

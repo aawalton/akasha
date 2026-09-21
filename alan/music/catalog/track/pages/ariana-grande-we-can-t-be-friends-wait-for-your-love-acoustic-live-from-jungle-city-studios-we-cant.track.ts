@@ -9,7 +9,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCit
   partOfCollections: [
     "release/ariana-grande-we-can-t-be-friends-wait-for-your-love-acoustic-live-from-jungle-city-studios",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

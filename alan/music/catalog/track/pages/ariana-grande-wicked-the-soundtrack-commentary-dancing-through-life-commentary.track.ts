@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   ownLength: 1.4135833333333334,
   ownProgress: 1.4135833333333334,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

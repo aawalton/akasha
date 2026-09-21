@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasWexfordCarol = {
   ownLength: 3.0164333333333335,
   ownProgress: 3.0164333333333335,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

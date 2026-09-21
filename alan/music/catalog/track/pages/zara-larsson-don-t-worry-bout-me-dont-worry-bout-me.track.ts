@@ -7,7 +7,6 @@ export const zaraLarssonDonTWorryBoutMeDontWorryBoutMe = {
   ownLength: 3.480183333333333,
   ownProgress: 3.480183333333333,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

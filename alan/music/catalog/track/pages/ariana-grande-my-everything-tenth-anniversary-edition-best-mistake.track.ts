@@ -7,7 +7,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBestMistake = {
   ownLength: 3.895566666666667,
   ownProgress: 3.895566666666667,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

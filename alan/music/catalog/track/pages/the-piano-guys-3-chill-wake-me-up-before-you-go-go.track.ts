@@ -7,7 +7,6 @@ export const thePianoGuys3ChillWakeMeUpBeforeYouGoGo = {
   ownLength: 3.9680833333333334,
   ownProgress: 3.9680833333333334,
   partOfCollections: ["release/the-piano-guys-3-chill"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

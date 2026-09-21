@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterEverybodyHasTheBlues2019Remaster
   ownLength: 2.0513333333333335,
   ownProgress: 2.0513333333333335,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

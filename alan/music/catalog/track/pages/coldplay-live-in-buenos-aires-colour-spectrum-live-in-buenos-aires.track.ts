@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresColourSpectrumLiveInBuenosAires = {
   ownLength: 1.9626666666666666,
   ownProgress: 1.9626666666666666,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallAllISeeIsSnowAllISeeIsSnow = {
   ownLength: 4.571433333333333,
   ownProgress: 4.571433333333333,
   partOfCollections: ["release/paul-cardall-all-i-see-is-snow"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

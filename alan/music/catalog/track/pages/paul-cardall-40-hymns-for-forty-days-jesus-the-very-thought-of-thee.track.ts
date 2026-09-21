@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysJesusTheVeryThoughtOfThee = {
   ownLength: 2.2142166666666667,
   ownProgress: 2.2142166666666667,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 30,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

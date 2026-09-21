@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeCoverUp = {
   ownLength: 4.344,
   ownProgress: 4.344,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sMomShorts = {
   ownLength: 2.031,
   ownProgress: 2.031,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

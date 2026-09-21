@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasInTheBleakMidwinter = {
   ownLength: 4.176666666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 11,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

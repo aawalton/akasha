@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchThisCouldBeADream = {
   ownLength: 4.14555,
   ownProgress: 4.14555,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

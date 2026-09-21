@@ -7,7 +7,6 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkItLetMeMoveYouFro
   ownLength: 2.4511666666666665,
   ownProgress: 2.4511666666666665,
   partOfCollections: ["release/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

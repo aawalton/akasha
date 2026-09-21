@@ -7,7 +7,6 @@ export const paulCardallSacredPianoEmbraced = {
   ownLength: 3.1882166666666665,
   ownProgress: 3.1882166666666665,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBetterLeftUnsaid = {
   ownLength: 3.5473,
   ownProgress: 3.5473,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

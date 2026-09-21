@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
   ownLength: 3.8688833333333332,
   ownProgress: 3.8688833333333332,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -8,7 +8,6 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
     ownLength: 4.168866666666666,
     ownProgress: 4.168866666666666,
     partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
-    position: 6,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

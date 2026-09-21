@@ -10,7 +10,6 @@ export const zaraLarssonCanTTameHerAcousticCantTameHerAcoustic = {
     "release/zara-larsson-can-t-tame-her-acoustic",
     "release/zara-larsson-can-t-tame-her-the-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

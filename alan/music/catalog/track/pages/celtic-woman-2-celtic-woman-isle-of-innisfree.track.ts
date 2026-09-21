@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanIsleOfInnisfree = {
   ownLength: 3.4411,
   ownProgress: 3.4411,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

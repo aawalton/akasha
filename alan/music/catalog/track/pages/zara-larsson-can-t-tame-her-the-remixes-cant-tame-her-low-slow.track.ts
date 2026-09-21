@@ -7,7 +7,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerLowSlow = {
   ownLength: 3.7486166666666665,
   ownProgress: 3.7486166666666665,
   partOfCollections: ["release/zara-larsson-can-t-tame-her-the-remixes"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

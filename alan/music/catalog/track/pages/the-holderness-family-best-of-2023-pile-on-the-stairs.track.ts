@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023PileOnTheStairs = {
   ownLength: 2.8808,
   ownProgress: 2.8808,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

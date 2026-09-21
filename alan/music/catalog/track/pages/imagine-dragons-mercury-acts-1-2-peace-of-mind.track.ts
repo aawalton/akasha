@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12PeaceOfMind = {
   ownLength: 2.8988,
   ownProgress: 2.8988,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

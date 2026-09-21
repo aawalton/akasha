@@ -7,7 +7,6 @@ export const celticWoman2SoloDownByTheSallyGardens = {
   ownLength: 3.5342666666666664,
   ownProgress: 3.5342666666666664,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

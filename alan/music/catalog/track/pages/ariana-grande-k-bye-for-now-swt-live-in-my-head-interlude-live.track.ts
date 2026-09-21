@@ -7,7 +7,6 @@ export const arianaGrandeKByeForNowSwtLiveInMyHeadInterludeLive = {
   ownLength: 2.5,
   ownProgress: 2.5,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

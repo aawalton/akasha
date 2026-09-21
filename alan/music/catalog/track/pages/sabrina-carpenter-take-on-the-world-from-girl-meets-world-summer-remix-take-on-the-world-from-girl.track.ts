@@ -9,7 +9,6 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemixTakeOnTh
   partOfCollections: [
     "release/sabrina-carpenter-take-on-the-world-from-girl-meets-world-summer-remix",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

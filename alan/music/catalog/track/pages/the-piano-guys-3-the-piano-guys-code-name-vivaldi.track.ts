@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysCodeNameVivaldi = {
   ownLength: 4.114616666666667,
   ownProgress: 4.114616666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

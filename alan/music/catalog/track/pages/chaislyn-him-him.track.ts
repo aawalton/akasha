@@ -7,7 +7,6 @@ export const chaislynHimHim = {
   ownLength: 3.33515,
   ownProgress: 3.33515,
   partOfCollections: ["release/chaislyn-him"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

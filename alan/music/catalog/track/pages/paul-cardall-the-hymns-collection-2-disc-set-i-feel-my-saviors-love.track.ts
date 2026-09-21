@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetIFeelMySaviorsLove = {
   ownLength: 3.5992333333333333,
   ownProgress: 3.5992333333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 23,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

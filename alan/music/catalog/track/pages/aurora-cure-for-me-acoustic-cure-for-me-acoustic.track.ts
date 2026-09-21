@@ -7,7 +7,6 @@ export const auroraCureForMeAcousticCureForMeAcoustic = {
   ownLength: 3.556216666666667,
   ownProgress: 3.556216666666667,
   partOfCollections: ["release/aurora-cure-for-me-acoustic", "release/aurora-cure-for-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

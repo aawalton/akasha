@@ -7,7 +7,6 @@ export const paulCardallBeCalmBrainHealthyMusicBeCalm = {
   ownLength: 5.3762,
   ownProgress: 5.3762,
   partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

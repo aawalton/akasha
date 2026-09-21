@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSkyAndTheDawnAn
   ownLength: 5.3191,
   ownProgress: 5.3191,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

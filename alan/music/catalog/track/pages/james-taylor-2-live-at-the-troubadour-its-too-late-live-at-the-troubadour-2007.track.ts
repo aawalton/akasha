@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourItsTooLateLiveAtTheTroubadour2007 = 
   ownLength: 4.984,
   ownProgress: 4.984,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

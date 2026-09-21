@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
   ownLength: 4.359333333333334,
   ownProgress: 4.359333333333334,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 35,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

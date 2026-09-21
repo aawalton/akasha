@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungRunawayBoy = {
   ownLength: 4.26555,
   ownProgress: 4.26555,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallFaithfulEyeToEye = {
   ownLength: 4.4844333333333335,
   ownProgress: 4.4844333333333335,
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsHowGreatThouArt = {
   ownLength: 3.422433333333333,
   ownProgress: 3.422433333333333,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

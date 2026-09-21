@@ -10,7 +10,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhale = {
     "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
     "release/aurora-the-gods-we-can-touch",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

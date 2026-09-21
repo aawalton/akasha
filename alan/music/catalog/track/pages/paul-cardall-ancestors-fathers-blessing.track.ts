@@ -7,7 +7,6 @@ export const paulCardallAncestorsFathersBlessing = {
   ownLength: 2.5145833333333334,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2OneManDog2019RemasterInstrumentalIi2019Remaster = {
   ownLength: 1.6916666666666667,
   ownProgress: 1.6916666666666667,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

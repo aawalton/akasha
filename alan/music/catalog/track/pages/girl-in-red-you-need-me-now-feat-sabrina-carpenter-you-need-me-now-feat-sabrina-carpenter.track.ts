@@ -7,7 +7,6 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
   ownLength: 3.1062833333333333,
   ownProgress: 0,
   partOfCollections: ["release/girl-in-red-you-need-me-now-feat-sabrina-carpenter"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

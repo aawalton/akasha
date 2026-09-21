@@ -12,7 +12,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolves = {
     "release/aurora-running-with-the-wolves-2",
     "release/aurora-running-with-the-wolves",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

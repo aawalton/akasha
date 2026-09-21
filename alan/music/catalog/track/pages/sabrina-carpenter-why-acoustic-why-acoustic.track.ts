@@ -7,7 +7,6 @@ export const sabrinaCarpenterWhyAcousticWhyAcoustic = {
   ownLength: 3.075,
   ownProgress: 3.075,
   partOfCollections: ["release/sabrina-carpenter-why-acoustic"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiLockedDownLockedDown = {
   ownLength: 2.38645,
   ownProgress: 2.38645,
   partOfCollections: ["release/vinny-marchi-locked-down"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

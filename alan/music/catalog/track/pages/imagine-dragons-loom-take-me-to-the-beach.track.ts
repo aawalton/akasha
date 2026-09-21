@@ -7,7 +7,6 @@ export const imagineDragonsLoomTakeMeToTheBeach = {
   ownLength: 2.784666666666667,
   ownProgress: 2.784666666666667,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

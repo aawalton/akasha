@@ -11,7 +11,6 @@ export const auroraADifferentKindOfHumanStepIiDaydreamer = {
     "release/aurora-daydreamer-kda-london-dub",
     "release/aurora-music-for-the-free-spirits",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2FlagBSUR = {
   ownLength: 3.354,
   ownProgress: 3.354,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

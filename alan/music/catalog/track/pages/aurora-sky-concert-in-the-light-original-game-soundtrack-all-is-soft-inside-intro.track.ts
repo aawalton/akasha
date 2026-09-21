@@ -7,7 +7,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideIntr
   ownLength: 0.48333333333333334,
   ownProgress: 0.48333333333333334,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

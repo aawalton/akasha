@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysTitaniumPavane = {
   ownLength: 4.8406,
   ownProgress: 4.8406,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

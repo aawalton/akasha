@@ -7,7 +7,6 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
   ownLength: 2.6431,
   ownProgress: 2.6431,
   partOfCollections: ["release/ariana-grande-monopoly"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallANewCreationGethsemane = {
   ownLength: 3.5733333333333333,
   ownProgress: 3.5733333333333333,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

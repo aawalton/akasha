@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartAmazingGrace = {
   ownLength: 4.972,
   ownProgress: 4.972,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

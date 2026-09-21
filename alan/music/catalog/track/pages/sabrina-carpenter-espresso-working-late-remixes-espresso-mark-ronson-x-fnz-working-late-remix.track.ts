@@ -7,7 +7,6 @@ export const sabrinaCarpenterEspressoWorkingLateRemixesEspressoMarkRonsonXFnzWor
   ownLength: 3.0692666666666666,
   ownProgress: 3.0692666666666666,
   partOfCollections: ["release/sabrina-carpenter-espresso-working-late-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

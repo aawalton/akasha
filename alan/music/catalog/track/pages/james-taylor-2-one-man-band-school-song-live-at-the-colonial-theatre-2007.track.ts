@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandSchoolSongLiveAtTheColonialTheatre2007 = {
   ownLength: 1.4593333333333334,
   ownProgress: 1.4593333333333334,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

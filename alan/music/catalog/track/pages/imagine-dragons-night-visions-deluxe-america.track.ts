@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsDeluxeAmerica = {
   ownLength: 4.544666666666667,
   ownProgress: 4.544666666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayMyUniverseMyUniverseAcousticVersion = {
   ownLength: 3.7211333333333334,
   ownProgress: 3.7211333333333334,
   partOfCollections: ["release/coldplay-my-universe"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

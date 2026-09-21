@@ -7,7 +7,6 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
   ownLength: 3.3364166666666666,
   ownProgress: 3.3364166666666666,
   partOfCollections: ["release/billie-eilish-lovely-with-khalid"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

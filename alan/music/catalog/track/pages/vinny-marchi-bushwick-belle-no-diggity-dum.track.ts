@@ -7,7 +7,6 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
   ownLength: 3.1315,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

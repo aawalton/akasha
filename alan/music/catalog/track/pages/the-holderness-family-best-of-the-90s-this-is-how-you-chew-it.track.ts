@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sThisIsHowYouChewIt = {
   ownLength: 1.6300333333333332,
   ownProgress: 1.6300333333333332,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

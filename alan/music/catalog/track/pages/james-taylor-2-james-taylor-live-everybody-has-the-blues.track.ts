@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveEverybodyHasTheBlues = {
   ownLength: 2.56555,
   ownProgress: 2.56555,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

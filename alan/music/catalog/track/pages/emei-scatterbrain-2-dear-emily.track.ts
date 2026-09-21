@@ -7,7 +7,6 @@ export const emeiScatterbrain2DearEmily = {
   ownLength: 2.7156166666666666,
   ownProgress: 2.7156166666666666,
   partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

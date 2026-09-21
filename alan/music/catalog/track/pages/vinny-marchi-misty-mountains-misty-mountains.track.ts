@@ -7,7 +7,6 @@ export const vinnyMarchiMistyMountainsMistyMountains = {
   ownLength: 3.153,
   ownProgress: 3.153,
   partOfCollections: ["release/vinny-marchi-misty-mountains"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

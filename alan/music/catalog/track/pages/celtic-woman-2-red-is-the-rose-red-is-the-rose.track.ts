@@ -7,7 +7,6 @@ export const celticWoman2RedIsTheRoseRedIsTheRose = {
   ownLength: 3.5791666666666666,
   ownProgress: 3.5791666666666666,
   partOfCollections: ["release/celtic-woman-2-red-is-the-rose"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2CoversImARoadRunner = {
   ownLength: 3.2931,
   ownProgress: 3.2931,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

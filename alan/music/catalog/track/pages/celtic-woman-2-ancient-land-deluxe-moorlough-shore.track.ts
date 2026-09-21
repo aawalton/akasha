@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeMoorloughShore = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-ancient-land",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

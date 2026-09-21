@@ -7,7 +7,6 @@ export const coldplayWePrayElyannaVersionWePrayElyannaVersion = {
   ownLength: 3.8901,
   ownProgress: 3.8901,
   partOfCollections: ["release/coldplay-we-pray-elyanna-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

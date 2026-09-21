@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandHomecomingLamentLive2017 = {
   ownLength: 2.034,
   ownProgress: 2.034,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

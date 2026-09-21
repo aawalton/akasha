@@ -7,7 +7,6 @@ export const arianaGrandeProblemProblemACappella = {
   ownLength: 3.191133333333333,
   ownProgress: 3.191133333333333,
   partOfCollections: ["release/ariana-grande-problem"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

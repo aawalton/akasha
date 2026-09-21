@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemixSoGoodFeatTyDollaIgnGo
   ownLength: 3.4299166666666667,
   ownProgress: 3.4299166666666667,
   partOfCollections: ["release/zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

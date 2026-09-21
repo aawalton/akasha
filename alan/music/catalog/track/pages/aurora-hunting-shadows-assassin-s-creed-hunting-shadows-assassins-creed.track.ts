@@ -7,7 +7,6 @@ export const auroraHuntingShadowsAssassinSCreedHuntingShadowsAssassinsCreed = {
   ownLength: 2.9431,
   ownProgress: 2.9431,
   partOfCollections: ["release/aurora-hunting-shadows-assassin-s-creed"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

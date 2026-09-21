@@ -7,7 +7,6 @@ export const imagineDragonsLoomWakeUp = {
   ownLength: 2.7784333333333335,
   ownProgress: 2.7784333333333335,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

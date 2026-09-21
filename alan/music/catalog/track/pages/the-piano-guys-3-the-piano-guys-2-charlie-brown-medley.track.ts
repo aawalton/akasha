@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2CharlieBrownMedley = {
   ownLength: 3.066666666666667,
   ownProgress: 3.066666666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

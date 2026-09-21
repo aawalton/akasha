@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardTeachMeTonight = {
   ownLength: 2.98,
   ownProgress: 2.98,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

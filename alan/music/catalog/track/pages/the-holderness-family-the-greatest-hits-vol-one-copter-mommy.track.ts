@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneCopterMommy = {
   ownLength: 2.5338666666666665,
   ownProgress: 2.5338666666666665,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

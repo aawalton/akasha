@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022WeDontTalkAboutCovid = {
   ownLength: 2.6676,
   ownProgress: 2.6676,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

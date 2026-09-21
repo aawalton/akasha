@@ -7,7 +7,6 @@ export const paulCardallFaithfulTheNoise = {
   ownLength: 5.370666666666667,
   ownProgress: 5.370666666666667,
   partOfCollections: ["release/paul-cardall-faithful"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

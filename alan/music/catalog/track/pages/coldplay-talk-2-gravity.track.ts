@@ -7,7 +7,6 @@ export const coldplayTalk2Gravity = {
   ownLength: 6.3491,
   ownProgress: 6.3491,
   partOfCollections: ["release/coldplay-talk-2"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

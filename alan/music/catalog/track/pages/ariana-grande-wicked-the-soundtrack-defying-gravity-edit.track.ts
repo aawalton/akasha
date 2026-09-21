@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackDefyingGravityEdit = {
   ownLength: 3.5566166666666668,
   ownProgress: 3.5566166666666668,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

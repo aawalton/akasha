@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeTestDrive = {
   ownLength: 2.036233333333333,
   ownProgress: 2.036233333333333,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

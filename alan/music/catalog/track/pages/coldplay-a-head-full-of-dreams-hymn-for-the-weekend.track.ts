@@ -7,7 +7,6 @@ export const coldplayAHeadFullOfDreamsHymnForTheWeekend = {
   ownLength: 4.304433333333333,
   ownProgress: 4.304433333333333,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

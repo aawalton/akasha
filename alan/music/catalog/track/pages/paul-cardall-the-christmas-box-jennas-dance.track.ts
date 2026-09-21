@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxJennasDance = {
   ownLength: 2.87,
   ownProgress: 2.87,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

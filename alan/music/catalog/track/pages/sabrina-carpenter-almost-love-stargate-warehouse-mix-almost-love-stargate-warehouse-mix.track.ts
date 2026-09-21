@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
   ownLength: 3.3390166666666667,
   ownProgress: 3.3390166666666667,
   partOfCollections: ["release/sabrina-carpenter-almost-love-stargate-warehouse-mix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

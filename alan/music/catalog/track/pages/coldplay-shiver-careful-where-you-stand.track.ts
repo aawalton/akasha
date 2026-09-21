@@ -7,7 +7,6 @@ export const coldplayShiverCarefulWhereYouStand = {
   ownLength: 4.7504333333333335,
   ownProgress: 4.7504333333333335,
   partOfCollections: ["release/coldplay-shiver"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

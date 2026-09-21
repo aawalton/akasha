@@ -10,7 +10,6 @@ export const arianaGrandeLoveMeHarderLoveMeHarder = {
     "release/ariana-grande-love-me-harder",
     "release/ariana-grande-my-everything-tenth-anniversary-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

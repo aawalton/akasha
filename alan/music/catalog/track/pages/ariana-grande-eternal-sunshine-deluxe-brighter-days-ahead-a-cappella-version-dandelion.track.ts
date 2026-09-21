@@ -11,7 +11,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
   ],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

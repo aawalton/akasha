@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sIveGotHairInWeirdPlaces = {
   ownLength: 2.5321333333333333,
   ownProgress: 2.5321333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

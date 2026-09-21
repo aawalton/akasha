@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetDeluxePleasePleasePleaseFeatDollyParton 
   ownLength: 3.0689333333333333,
   ownProgress: 3.0689333333333333,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

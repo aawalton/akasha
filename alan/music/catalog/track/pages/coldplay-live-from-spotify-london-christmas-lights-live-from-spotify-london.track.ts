@@ -7,7 +7,6 @@ export const coldplayLiveFromSpotifyLondonChristmasLightsLiveFromSpotifyLondon =
   ownLength: 4.47535,
   ownProgress: 4.47535,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

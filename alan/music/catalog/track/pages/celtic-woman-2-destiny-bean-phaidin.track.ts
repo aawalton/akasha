@@ -7,7 +7,6 @@ export const celticWoman2DestinyBeanPhaidin = {
   ownLength: 3.506483333333333,
   ownProgress: 3.506483333333333,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

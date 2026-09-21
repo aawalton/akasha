@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassJumpUpBehindMe = {
   ownLength: 3.4717666666666664,
   ownProgress: 3.4717666666666664,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

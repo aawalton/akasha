@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyCaledonia = {
   ownLength: 4.990433333333334,
   ownProgress: 4.990433333333334,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022AnxietyAnthem = {
   ownLength: 2.4516,
   ownProgress: 2.4516,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

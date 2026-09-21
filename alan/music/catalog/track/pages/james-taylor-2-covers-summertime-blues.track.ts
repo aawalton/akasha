@@ -7,7 +7,6 @@ export const jamesTaylor2CoversSummertimeBlues = {
   ownLength: 2.6642166666666665,
   ownProgress: 2.6642166666666665,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

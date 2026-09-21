@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessRewriteTheStars = {
   ownLength: 3.52555,
   ownProgress: 3.52555,
   partOfCollections: ["release/the-piano-guys-3-limitless", "release/the-piano-guys-serenity"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

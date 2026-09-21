@@ -7,7 +7,6 @@ export const emeiGingerTeaTianMiMiYourSweetSmile = {
   ownLength: 1.0644333333333333,
   ownProgress: 1.0644333333333333,
   partOfCollections: ["release/emei-ginger-tea"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

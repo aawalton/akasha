@@ -7,7 +7,6 @@ export const coldplayLiveFromSpotifyLondonEverglowLiveFromSpotifyLondon = {
   ownLength: 4.264216666666667,
   ownProgress: 4.264216666666667,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

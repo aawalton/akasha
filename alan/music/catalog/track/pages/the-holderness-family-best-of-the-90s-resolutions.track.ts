@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sResolutions = {
   ownLength: 3.034116666666667,
   ownProgress: 3.034116666666667,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

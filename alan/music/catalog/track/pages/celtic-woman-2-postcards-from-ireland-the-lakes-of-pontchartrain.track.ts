@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandTheLakesOfPontchartrain = {
   ownLength: 3.9351,
   ownProgress: 3.9351,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

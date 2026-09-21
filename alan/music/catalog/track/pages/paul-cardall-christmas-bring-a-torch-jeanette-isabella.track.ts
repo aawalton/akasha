@@ -7,7 +7,6 @@ export const paulCardallChristmasBringATorchJeanetteIsabella = {
   ownLength: 3.8110166666666667,
   ownProgress: 3.8110166666666667,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

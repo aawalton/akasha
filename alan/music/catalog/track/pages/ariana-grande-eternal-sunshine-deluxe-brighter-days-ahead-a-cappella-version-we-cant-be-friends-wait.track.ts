@@ -16,7 +16,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
       "release/ariana-grande-eternal-sunshine",
       "release/ariana-grande-we-can-t-be-friends-wait-for-your-love",
     ],
-    position: 10,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

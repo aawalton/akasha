@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchATemporaryHigh = {
   ownLength: 3.3844333333333334,
   ownProgress: 3.3844333333333334,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

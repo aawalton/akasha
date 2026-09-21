@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionMoGhileMearLiveFro
   ownLength: 5.082433333333333,
   ownProgress: 5.082433333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

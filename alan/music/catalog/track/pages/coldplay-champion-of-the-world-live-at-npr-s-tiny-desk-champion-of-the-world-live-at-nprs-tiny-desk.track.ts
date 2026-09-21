@@ -7,7 +7,6 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
   ownLength: 3.60555,
   ownProgress: 3.60555,
   partOfCollections: ["release/coldplay-champion-of-the-world-live-at-npr-s-tiny-desk"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

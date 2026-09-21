@@ -7,7 +7,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMechanical = {
   ownLength: 1.6391,
   ownProgress: 1.6391,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

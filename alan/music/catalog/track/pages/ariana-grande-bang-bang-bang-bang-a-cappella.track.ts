@@ -7,7 +7,6 @@ export const arianaGrandeBangBangBangBangACappella = {
   ownLength: 3.282766666666667,
   ownProgress: 3.282766666666667,
   partOfCollections: ["release/ariana-grande-bang-bang"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
   ownLength: 7.725266666666666,
   ownProgress: 7.725266666666666,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 31,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const arianaGrandeBangBangBangBang = {
     "release/ariana-grande-bang-bang",
     "release/ariana-grande-my-everything-tenth-anniversary-edition",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

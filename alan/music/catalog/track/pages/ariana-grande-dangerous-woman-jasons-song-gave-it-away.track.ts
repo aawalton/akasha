@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanJasonsSongGaveItAway = {
   ownLength: 4.410666666666667,
   ownProgress: 4.410666666666667,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

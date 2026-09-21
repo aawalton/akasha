@@ -9,7 +9,6 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadorsSucke
   partOfCollections: [
     "release/imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

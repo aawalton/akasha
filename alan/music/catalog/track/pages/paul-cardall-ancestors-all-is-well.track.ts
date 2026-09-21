@@ -7,7 +7,6 @@ export const paulCardallAncestorsAllIsWell = {
   ownLength: 2.822,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 13,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayXYWhiteShadows = {
   ownLength: 5.470316666666666,
   ownProgress: 5.470316666666666,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
   ownLength: 0.79215,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const alexandriaLustLust = {
   ownLength: 1.9215666666666666,
   ownProgress: 1.9215666666666666,
   partOfCollections: ["release/alexandria-lust"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterSmokeAndFireSmokeAndFire = {
   ownLength: 3.750166666666667,
   ownProgress: 3.750166666666667,
   partOfCollections: ["release/sabrina-carpenter-smoke-and-fire"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const emeiHoldOnMeRemixesHoldOnMeDemotapesRemix = {
   ownLength: 2.4375,
   ownProgress: 2.4375,
   partOfCollections: ["release/emei-hold-on-me-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

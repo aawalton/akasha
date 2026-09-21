@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardSitDownYoureRockinTheBoat = {
   ownLength: 4.18355,
   ownProgress: 4.18355,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

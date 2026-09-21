@@ -7,7 +7,6 @@ export const celticWoman2BelieveBlackIsTheColour = {
   ownLength: 3.7391,
   ownProgress: 3.7391,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

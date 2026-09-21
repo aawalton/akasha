@@ -7,7 +7,6 @@ export const thePianoGuys3WondersHome = {
   ownLength: 4.626,
   ownProgress: 4.626,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

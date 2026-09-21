@@ -7,7 +7,6 @@ export const coldplayMusicOfTheSpheresHumankind = {
   ownLength: 4.445083333333334,
   ownProgress: 4.445083333333334,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

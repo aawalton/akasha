@@ -7,7 +7,6 @@ export const arianaGrandeChristmasKissesLastChristmas = {
   ownLength: 3.394216666666667,
   ownProgress: 3.394216666666667,
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

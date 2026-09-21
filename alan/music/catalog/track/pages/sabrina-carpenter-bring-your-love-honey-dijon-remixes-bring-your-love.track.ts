@@ -7,7 +7,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLove = {
   ownLength: 3.7026833333333333,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-bring-your-love-honey-dijon-remixes"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

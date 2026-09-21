@@ -7,7 +7,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeNightcoreRemix = {
   ownLength: 3.2632166666666667,
   ownProgress: 3.2632166666666667,
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

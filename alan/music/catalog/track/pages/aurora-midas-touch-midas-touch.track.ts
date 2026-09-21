@@ -7,7 +7,6 @@ export const auroraMidasTouchMidasTouch = {
   ownLength: 2.6944333333333335,
   ownProgress: 2.6944333333333335,
   partOfCollections: ["release/aurora-midas-touch"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

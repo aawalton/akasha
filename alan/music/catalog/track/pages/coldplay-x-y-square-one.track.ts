@@ -7,7 +7,6 @@ export const coldplayXYSquareOne = {
   ownLength: 4.7939,
   ownProgress: 4.7939,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

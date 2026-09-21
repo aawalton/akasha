@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryGranuailesDance20thAnniversary = {
   ownLength: 1.6973333333333334,
   ownProgress: 1.6973333333333334,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsLullabyForTheAnxious = {
   ownLength: 3.1973833333333332,
   ownProgress: 3.1973833333333332,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

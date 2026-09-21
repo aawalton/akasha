@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassBoatman = {
   ownLength: 3.9433333333333334,
   ownProgress: 3.9433333333333334,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

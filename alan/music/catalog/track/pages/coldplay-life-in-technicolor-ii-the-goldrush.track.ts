@@ -7,7 +7,6 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   ownLength: 2.48755,
   ownProgress: 2.48755,
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

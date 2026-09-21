@@ -10,7 +10,6 @@ export const auroraWhatHappenedToTheHeartDeluxeEchoOfMyShadow = {
     "release/aurora-what-happened-to-the-heart-deluxe",
     "release/aurora-what-happened-to-the-heart",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

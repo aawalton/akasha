@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasMonBeauSapin = {
   ownLength: 3.1302166666666666,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 14,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

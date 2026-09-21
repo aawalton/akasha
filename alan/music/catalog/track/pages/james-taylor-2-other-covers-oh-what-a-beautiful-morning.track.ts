@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversOhWhatABeautifulMorning = {
   ownLength: 3.1797666666666666,
   ownProgress: 3.1797666666666666,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

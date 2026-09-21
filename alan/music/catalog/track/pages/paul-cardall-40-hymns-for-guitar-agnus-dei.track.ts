@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarAgnusDei = {
   ownLength: 2.321066666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 37,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationDingDongMerrilyOnHigh = {
   ownLength: 2.7831,
   ownProgress: 2.7831,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

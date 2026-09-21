@@ -7,7 +7,6 @@ export const celticWoman2AncientLandDeluxeFieldsOfGold = {
   ownLength: 3.6024333333333334,
   ownProgress: 3.6024333333333334,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
-  position: 21,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

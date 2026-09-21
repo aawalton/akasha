@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12Symphony = {
   ownLength: 2.93055,
   ownProgress: 2.93055,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

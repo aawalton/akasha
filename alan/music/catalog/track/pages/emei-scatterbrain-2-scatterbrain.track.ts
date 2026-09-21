@@ -11,7 +11,6 @@ export const emeiScatterbrain2Scatterbrain = {
     "release/emei-scatterbrain-deluxe",
     "release/emei-scatterbrain",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

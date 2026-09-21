@@ -7,7 +7,6 @@ export const thePianoGuys3BeforeYouGoBeforeYouGo = {
   ownLength: 3.8839166666666665,
   ownProgress: 3.8839166666666665,
   partOfCollections: ["release/the-piano-guys-3-before-you-go", "release/the-piano-guys-3-chill"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

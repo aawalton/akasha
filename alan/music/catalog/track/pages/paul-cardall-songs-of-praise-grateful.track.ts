@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseGrateful = {
   ownLength: 3.744666666666667,
   ownProgress: 3.744666666666667,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

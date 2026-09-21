@@ -7,7 +7,6 @@ export const paulCardallANewCreationSonOfGod = {
   ownLength: 4.0531,
   ownProgress: 4.0531,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

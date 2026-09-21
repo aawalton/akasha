@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysUponTheCrossOfCalvary = {
   ownLength: 1.0577666666666667,
   ownProgress: 1.0577666666666667,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 34,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

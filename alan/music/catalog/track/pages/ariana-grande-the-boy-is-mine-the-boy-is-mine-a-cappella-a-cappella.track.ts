@@ -7,7 +7,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineACappellaACappella = {
   ownLength: 2.7330833333333335,
   ownProgress: 2.7330833333333335,
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

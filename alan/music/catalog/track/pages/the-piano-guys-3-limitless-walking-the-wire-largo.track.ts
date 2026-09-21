@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessWalkingTheWireLargo = {
   ownLength: 4.3011,
   ownProgress: 4.3011,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

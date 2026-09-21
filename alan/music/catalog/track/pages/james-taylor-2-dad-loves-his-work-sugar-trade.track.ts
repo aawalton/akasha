@@ -7,7 +7,6 @@ export const jamesTaylor2DadLovesHisWorkSugarTrade = {
   ownLength: 2.8077666666666667,
   ownProgress: 2.8077666666666667,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

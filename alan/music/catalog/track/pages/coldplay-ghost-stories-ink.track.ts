@@ -7,7 +7,6 @@ export const coldplayGhostStoriesInk = {
   ownLength: 3.806216666666667,
   ownProgress: 3.806216666666667,
   partOfCollections: ["release/coldplay-ghost-stories"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
   ownLength: 3.374,
   ownProgress: 3.374,
   partOfCollections: ["release/ariana-grande-side-to-side-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

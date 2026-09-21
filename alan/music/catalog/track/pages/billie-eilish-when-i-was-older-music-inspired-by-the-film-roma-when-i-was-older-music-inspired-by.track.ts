@@ -7,7 +7,6 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRomaWhenIWasOlderMus
   ownLength: 4.50865,
   ownProgress: 4.50865,
   partOfCollections: ["release/billie-eilish-when-i-was-older-music-inspired-by-the-film-roma"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

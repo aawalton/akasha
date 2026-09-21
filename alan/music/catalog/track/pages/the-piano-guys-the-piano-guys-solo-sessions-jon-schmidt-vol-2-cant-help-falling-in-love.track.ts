@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2CantHelpFallingIn
   ownLength: 4.766033333333334,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

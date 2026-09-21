@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIiPushing20 = {
   ownLength: 2.77055,
   ownProgress: 2.77055,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

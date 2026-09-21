@@ -7,7 +7,6 @@ export const vinnyMarchiBushwickBelleAroundWeGo = {
   ownLength: 2.8903833333333333,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
-  position: 7,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

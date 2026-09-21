@@ -7,7 +7,6 @@ export const paulCardallSacredPianoAmazingGrace = {
   ownLength: 4.278216666666666,
   ownProgress: 4.278216666666666,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

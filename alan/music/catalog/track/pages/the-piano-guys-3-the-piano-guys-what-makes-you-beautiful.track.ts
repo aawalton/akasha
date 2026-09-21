@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysWhatMakesYouBeautiful = {
   ownLength: 2.96145,
   ownProgress: 2.96145,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

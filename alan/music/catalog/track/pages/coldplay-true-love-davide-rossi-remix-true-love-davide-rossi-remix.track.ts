@@ -7,7 +7,6 @@ export const coldplayTrueLoveDavideRossiRemixTrueLoveDavideRossiRemix = {
   ownLength: 4.695833333333334,
   ownProgress: 4.695833333333334,
   partOfCollections: ["release/coldplay-true-love-davide-rossi-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

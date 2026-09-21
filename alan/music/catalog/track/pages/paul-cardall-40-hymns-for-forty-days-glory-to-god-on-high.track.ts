@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysGloryToGodOnHigh = {
   ownLength: 2.548,
   ownProgress: 2.548,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

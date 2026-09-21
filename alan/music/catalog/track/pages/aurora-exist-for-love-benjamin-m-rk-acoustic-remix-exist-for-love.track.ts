@@ -12,7 +12,6 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLove = {
     "release/aurora-stories",
     "release/aurora-the-gods-we-can-touch",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

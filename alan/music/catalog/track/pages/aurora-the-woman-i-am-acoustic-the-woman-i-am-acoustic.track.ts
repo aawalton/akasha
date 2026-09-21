@@ -7,7 +7,6 @@ export const auroraTheWomanIAmAcousticTheWomanIAmAcoustic = {
   ownLength: 3.513333333333333,
   ownProgress: 3.513333333333333,
   partOfCollections: ["release/aurora-the-woman-i-am-acoustic"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

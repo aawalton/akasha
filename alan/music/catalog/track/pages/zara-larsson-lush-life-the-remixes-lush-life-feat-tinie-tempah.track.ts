@@ -7,7 +7,6 @@ export const zaraLarssonLushLifeTheRemixesLushLifeFeatTinieTempah = {
   ownLength: 3.3505333333333334,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-lush-life-the-remixes"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

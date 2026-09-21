@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsGoldLiveFromSpotifyLondo
   ownLength: 3.97065,
   ownProgress: 3.97065,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

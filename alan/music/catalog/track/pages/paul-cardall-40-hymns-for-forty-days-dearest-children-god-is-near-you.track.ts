@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysDearestChildrenGodIsNearYou = {
   ownLength: 2.0083333333333333,
   ownProgress: 2.0083333333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

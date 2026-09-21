@@ -9,7 +9,6 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   partOfCollections: [
     "release/sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftLamourDeMaVie = {
   ownLength: 5.566433333333333,
   ownProgress: 5.566433333333333,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

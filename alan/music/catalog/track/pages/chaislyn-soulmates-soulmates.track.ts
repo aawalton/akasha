@@ -7,7 +7,6 @@ export const chaislynSoulmatesSoulmates = {
   ownLength: 4.518933333333333,
   ownProgress: 4.518933333333333,
   partOfCollections: ["release/chaislyn-soulmates"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

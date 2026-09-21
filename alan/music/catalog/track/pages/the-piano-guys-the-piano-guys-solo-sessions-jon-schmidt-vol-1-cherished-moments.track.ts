@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1CherishedMoments 
   ownLength: 4.640633333333334,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

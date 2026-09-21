@@ -9,7 +9,6 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
   partOfCollections: [
     "release/the-piano-guys-3-tuya-es-la-gloria-arr-for-choir-orchestra-solo-cello-and-piano-by-mack-wilberg",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

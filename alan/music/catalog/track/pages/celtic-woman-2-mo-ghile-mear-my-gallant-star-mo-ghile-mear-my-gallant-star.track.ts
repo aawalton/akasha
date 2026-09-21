@@ -7,7 +7,6 @@ export const celticWoman2MoGhileMearMyGallantStarMoGhileMearMyGallantStar = {
   ownLength: 3.650166666666667,
   ownProgress: 3.650166666666667,
   partOfCollections: ["release/celtic-woman-2-mo-ghile-mear-my-gallant-star"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

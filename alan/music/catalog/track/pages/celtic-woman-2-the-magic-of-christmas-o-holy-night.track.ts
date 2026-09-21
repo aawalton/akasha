@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasOHolyNight = {
   ownLength: 4.34155,
   ownProgress: 4.34155,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -11,7 +11,6 @@ export const imagineDragonsNightVisionsAmsterdam = {
     "release/imagine-dragons-night-visions-deluxe",
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

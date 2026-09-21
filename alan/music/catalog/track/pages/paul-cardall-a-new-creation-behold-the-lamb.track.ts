@@ -7,7 +7,6 @@ export const paulCardallANewCreationBeholdTheLamb = {
   ownLength: 1.5388833333333334,
   ownProgress: 1.5388833333333334,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

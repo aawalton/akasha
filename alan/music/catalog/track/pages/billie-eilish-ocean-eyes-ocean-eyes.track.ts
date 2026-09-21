@@ -7,7 +7,6 @@ export const billieEilishOceanEyesOceanEyes = {
   ownLength: 3.3426666666666667,
   ownProgress: 3.3426666666666667,
   partOfCollections: ["release/billie-eilish-ocean-eyes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

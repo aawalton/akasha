@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartTheMoonsAHarshMistress = {
   ownLength: 3.2802166666666666,
   ownProgress: 3.2802166666666666,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

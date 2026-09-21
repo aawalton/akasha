@@ -7,7 +7,6 @@ export const jamesTaylor2CoversWichitaLineman = {
   ownLength: 3.6871,
   ownProgress: 3.6871,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

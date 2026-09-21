@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysOverTheRainbowSimpleGifts = {
   ownLength: 3.7365,
   ownProgress: 3.7365,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

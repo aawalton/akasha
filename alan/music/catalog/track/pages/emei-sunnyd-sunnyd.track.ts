@@ -7,7 +7,6 @@ export const emeiSunnydSunnyd = {
   ownLength: 2.1112333333333333,
   ownProgress: 2.1112333333333333,
   partOfCollections: ["release/emei-sunnyd"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

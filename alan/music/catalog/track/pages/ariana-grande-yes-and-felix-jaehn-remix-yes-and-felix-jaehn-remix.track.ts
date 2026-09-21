@@ -10,7 +10,6 @@ export const arianaGrandeYesAndFelixJaehnRemixYesAndFelixJaehnRemix = {
     "release/ariana-grande-yes-and-felix-jaehn-remix",
     "release/ariana-grande-yes-and-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

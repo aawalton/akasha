@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsDeluxeSelene = {
   ownLength: 4.0011,
   ownProgress: 4.0011,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

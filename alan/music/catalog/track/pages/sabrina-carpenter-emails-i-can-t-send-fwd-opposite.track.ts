@@ -7,7 +7,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdOpposite = {
   ownLength: 2.8028333333333335,
   ownProgress: 2.8028333333333335,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

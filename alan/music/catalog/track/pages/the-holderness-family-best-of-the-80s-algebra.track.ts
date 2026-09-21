@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sAlgebra = {
   ownLength: 2.4237,
   ownProgress: 2.4237,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallLiveImprov3NotesSacredNatureLive = {
   ownLength: 2.48555,
   ownProgress: 2.48555,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

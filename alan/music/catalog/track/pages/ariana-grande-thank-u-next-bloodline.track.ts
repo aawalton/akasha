@@ -7,7 +7,6 @@ export const arianaGrandeThankUNextBloodline = {
   ownLength: 3.6148833333333332,
   ownProgress: 3.6148833333333332,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

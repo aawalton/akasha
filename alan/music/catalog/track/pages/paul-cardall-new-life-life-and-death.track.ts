@@ -7,7 +7,6 @@ export const paulCardallNewLifeLifeAndDeath = {
   ownLength: 5.572,
   ownProgress: 5.572,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

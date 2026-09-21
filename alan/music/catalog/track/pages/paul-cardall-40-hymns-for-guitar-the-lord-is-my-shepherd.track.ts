@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarTheLordIsMyShepherd = {
   ownLength: 3.14025,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 20,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

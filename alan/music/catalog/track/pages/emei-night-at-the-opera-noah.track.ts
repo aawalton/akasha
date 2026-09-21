@@ -7,7 +7,6 @@ export const emeiNightAtTheOperaNoah = {
   ownLength: 2.6654833333333334,
   ownProgress: 0,
   partOfCollections: ["release/emei-night-at-the-opera"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

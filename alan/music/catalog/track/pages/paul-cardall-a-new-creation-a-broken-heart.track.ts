@@ -7,7 +7,6 @@ export const paulCardallANewCreationABrokenHeart = {
   ownLength: 5.002883333333333,
   ownProgress: 5.002883333333333,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasAngelsWeHaveHeardOnHigh = {
   ownLength: 4.582433333333333,
   ownProgress: 4.582433333333333,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jisooAmortageEarthquake = {
   ownLength: 3.1801,
   ownProgress: 3.1801,
   partOfCollections: ["release/jisoo-amortage"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyDonOicheUdIMbeithil = {
   ownLength: 2.43695,
   ownProgress: 2.43695,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

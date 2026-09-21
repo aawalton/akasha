@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandTeirAbhaileRiuLive2017 = {
   ownLength: 4.219766666666667,
   ownProgress: 4.219766666666667,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

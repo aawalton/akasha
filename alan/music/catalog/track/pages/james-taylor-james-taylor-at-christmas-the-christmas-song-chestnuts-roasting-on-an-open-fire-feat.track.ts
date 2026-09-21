@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasTheChristmasSongChestnutsRoastingO
   ownLength: 3.8673333333333333,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 9,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

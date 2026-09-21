@@ -7,7 +7,6 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifePianoVersion = {
   ownLength: 3.168,
   ownProgress: 3.168,
   partOfCollections: ["release/zara-larsson-ruin-my-life-the-remixes"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

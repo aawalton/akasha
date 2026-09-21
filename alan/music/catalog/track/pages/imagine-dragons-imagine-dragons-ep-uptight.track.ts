@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsEpUptight = {
   ownLength: 3.7188833333333333,
   ownProgress: 3.7188833333333333,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

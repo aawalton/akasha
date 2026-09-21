@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOneYouDidntBelieveHer = {
   ownLength: 2.6248666666666667,
   ownProgress: 2.6248666666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

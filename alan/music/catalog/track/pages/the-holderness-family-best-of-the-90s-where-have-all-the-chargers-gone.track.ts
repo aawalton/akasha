@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sWhereHaveAllTheChargersGone = {
   ownLength: 2.0079333333333333,
   ownProgress: 2.0079333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

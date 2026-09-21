@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandDannyBoyLive2017 = {
   ownLength: 3.6551,
   ownProgress: 3.6551,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

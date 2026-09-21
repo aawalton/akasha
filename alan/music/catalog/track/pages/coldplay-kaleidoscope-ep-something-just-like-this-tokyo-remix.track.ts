@@ -7,7 +7,6 @@ export const coldplayKaleidoscopeEpSomethingJustLikeThisTokyoRemix = {
   ownLength: 4.562433333333333,
   ownProgress: 4.562433333333333,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

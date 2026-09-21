@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2OurSaviorsLove = 
   ownLength: 3.718933333333333,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

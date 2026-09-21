@@ -7,7 +7,6 @@ export const celticWoman2HomeForChristmasWeWishYouAMerryChristmas = {
   ownLength: 3.624216666666667,
   ownProgress: 3.624216666666667,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

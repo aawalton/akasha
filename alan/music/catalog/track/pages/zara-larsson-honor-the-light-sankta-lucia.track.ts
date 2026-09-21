@@ -7,7 +7,6 @@ export const zaraLarssonHonorTheLightSanktaLucia = {
   ownLength: 1.37555,
   ownProgress: 1.37555,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

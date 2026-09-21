@@ -7,7 +7,6 @@ export const arianaGrandeThankUNextGhostin = {
   ownLength: 4.5244333333333335,
   ownProgress: 4.5244333333333335,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

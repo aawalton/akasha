@@ -11,7 +11,6 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn = {
     "release/jisoo-eyes-closed-with-zayn-bare-unveiled",
     "release/jisoo-eyes-closed-with-zayn",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

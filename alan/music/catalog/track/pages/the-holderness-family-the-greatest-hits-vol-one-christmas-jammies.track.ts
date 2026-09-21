@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneChristmasJammies = {
   ownLength: 3.367183333333333,
   ownProgress: 3.367183333333333,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

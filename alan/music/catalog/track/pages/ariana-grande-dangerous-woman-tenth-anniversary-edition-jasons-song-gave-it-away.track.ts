@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionJasonsSongGaveItAw
   ownLength: 4.410433333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
-  position: 17,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

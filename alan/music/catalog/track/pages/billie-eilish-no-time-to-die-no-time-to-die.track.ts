@@ -7,7 +7,6 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
   ownLength: 4.03775,
   ownProgress: 4.03775,
   partOfCollections: ["release/billie-eilish-no-time-to-die"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

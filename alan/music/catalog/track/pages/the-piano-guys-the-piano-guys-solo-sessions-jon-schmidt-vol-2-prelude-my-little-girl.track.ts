@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2PreludeMyLittleGi
   ownLength: 4.452133333333333,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

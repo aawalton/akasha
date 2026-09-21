@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseAgnusDei = {
   ownLength: 5.927333333333333,
   ownProgress: 5.927333333333333,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

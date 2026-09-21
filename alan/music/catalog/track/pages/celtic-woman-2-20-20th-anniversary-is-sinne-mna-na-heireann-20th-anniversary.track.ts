@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryIsSinneMnaNaHeireann20thAnniversary = 
   ownLength: 3.354,
   ownProgress: 3.354,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

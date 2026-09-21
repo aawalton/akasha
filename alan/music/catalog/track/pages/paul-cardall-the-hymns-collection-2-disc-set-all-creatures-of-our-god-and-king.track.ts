@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetAllCreaturesOfOurGodAndKing = 
   ownLength: 3.136,
   ownProgress: 3.136,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

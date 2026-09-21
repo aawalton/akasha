@@ -10,7 +10,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
     "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
     "release/ariana-grande-wicked-for-good-the-soundtrack",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

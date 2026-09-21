@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarODivineRedeemer = {
   ownLength: 2.1845333333333334,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 38,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

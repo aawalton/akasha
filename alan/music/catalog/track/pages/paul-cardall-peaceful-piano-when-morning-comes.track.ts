@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoWhenMorningComes = {
   ownLength: 3.0831,
   ownProgress: 3.0831,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

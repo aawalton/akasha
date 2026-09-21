@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveAcoustic = {
   ownLength: 3.7994,
   ownProgress: 3.7994,
   partOfCollections: ["release/sabrina-carpenter-almost-love"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

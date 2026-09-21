@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveHandyMan = {
   ownLength: 3.52555,
   ownProgress: 3.52555,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

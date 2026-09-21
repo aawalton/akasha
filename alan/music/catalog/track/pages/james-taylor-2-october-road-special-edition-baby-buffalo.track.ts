@@ -7,7 +7,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionBabyBuffalo = {
   ownLength: 4.804883333333334,
   ownProgress: 4.804883333333334,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

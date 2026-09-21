@@ -7,7 +7,6 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
   ownLength: 3.222,
   ownProgress: 3.222,
   partOfCollections: ["release/imagine-dragons-born-to-be-yours"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

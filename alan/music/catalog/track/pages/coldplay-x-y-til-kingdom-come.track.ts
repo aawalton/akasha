@@ -7,7 +7,6 @@ export const coldplayXYTilKingdomCome = {
   ownLength: 4.1778,
   ownProgress: 4.1778,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

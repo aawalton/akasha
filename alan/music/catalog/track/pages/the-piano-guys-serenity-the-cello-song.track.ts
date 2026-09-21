@@ -7,7 +7,6 @@ export const thePianoGuysSerenityTheCelloSong = {
   ownLength: 3.2671,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
     "release/aurora-infections-of-a-different-kind-step-i",
     "release/aurora-stories",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

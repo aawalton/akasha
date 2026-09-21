@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsLoveTheFriendYouBuried = {
   ownLength: 3.3124666666666664,
   ownProgress: 3.3124666666666664,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

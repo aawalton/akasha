@@ -7,7 +7,6 @@ export const auroraTheConflictOfTheMindYourBlood = {
   ownLength: 4.137766666666667,
   ownProgress: 4.137766666666667,
   partOfCollections: ["release/aurora-the-conflict-of-the-mind", "release/aurora-your-blood"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

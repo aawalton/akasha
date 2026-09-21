@@ -7,7 +7,6 @@ export const auroraRunawayOrchestralRunawayOrchestral = {
   ownLength: 4.135283333333334,
   ownProgress: 4.135283333333334,
   partOfCollections: ["release/aurora-runaway-orchestral"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

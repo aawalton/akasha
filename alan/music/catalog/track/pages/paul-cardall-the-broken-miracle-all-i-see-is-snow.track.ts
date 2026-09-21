@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleAllISeeIsSnow = {
   ownLength: 4.556,
   ownProgress: 4.556,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresHymnForTheWeekendLiveInBuenosAires = {
   ownLength: 5.0491,
   ownProgress: 5.0491,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

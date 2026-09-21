@@ -7,7 +7,6 @@ export const billieEilishIntroHitMeHardAndSoftTourIntroHitMeHardAndSoftTour = {
   ownLength: 1.9479666666666666,
   ownProgress: 0,
   partOfCollections: ["release/billie-eilish-intro-hit-me-hard-and-soft-tour"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const alexandriaAlwaysAnAngelAlwaysAnAngel = {
   ownLength: 1.9375,
   ownProgress: 1.9375,
   partOfCollections: ["release/alexandria-always-an-angel"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

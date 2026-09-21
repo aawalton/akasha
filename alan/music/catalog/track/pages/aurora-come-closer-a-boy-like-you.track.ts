@@ -7,7 +7,6 @@ export const auroraComeCloserABoyLikeYou = {
   ownLength: 5.013766666666666,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

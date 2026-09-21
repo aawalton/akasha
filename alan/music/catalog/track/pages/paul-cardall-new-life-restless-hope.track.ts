@@ -7,7 +7,6 @@ export const paulCardallNewLifeRestlessHope = {
   ownLength: 2.2866666666666666,
   ownProgress: 2.2866666666666666,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

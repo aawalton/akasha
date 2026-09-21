@@ -10,7 +10,6 @@ export const thePianoGuys3LullabyLullabyeGoodnightMyAngel = {
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-peaceful-summer-nights",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

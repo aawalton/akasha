@@ -10,7 +10,6 @@ export const zaraLarssonEurosummerGirlsTripEurosummerGirlsTrip = {
     "release/zara-larsson-eurosummer-girls-trip",
     "release/zara-larsson-midnight-sun-girls-trip",
   ],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

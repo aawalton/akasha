@@ -7,7 +7,6 @@ export const coldplayParachutesHighSpeed = {
   ownLength: 4.2744333333333335,
   ownProgress: 4.2744333333333335,
   partOfCollections: ["release/coldplay-parachutes", "release/coldplay-the-blue-room"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

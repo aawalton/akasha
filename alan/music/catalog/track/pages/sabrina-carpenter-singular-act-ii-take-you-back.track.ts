@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIiTakeYouBack = {
   ownLength: 2.817633333333333,
   ownProgress: 2.817633333333333,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

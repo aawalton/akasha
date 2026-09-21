@@ -7,7 +7,6 @@ export const celticWoman2LullabyHushLittleBaby = {
   ownLength: 0.8362166666666667,
   ownProgress: 0.8362166666666667,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

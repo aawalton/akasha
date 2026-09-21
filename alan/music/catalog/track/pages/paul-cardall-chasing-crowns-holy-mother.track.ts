@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsHolyMother = {
   ownLength: 3.044,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 11,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

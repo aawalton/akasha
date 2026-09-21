@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasSleighRide = {
   ownLength: 3.58,
   ownProgress: 3.58,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

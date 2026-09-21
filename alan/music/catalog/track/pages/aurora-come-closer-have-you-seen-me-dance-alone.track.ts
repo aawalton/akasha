@@ -7,7 +7,6 @@ export const auroraComeCloserHaveYouSeenMeDanceAlone = {
   ownLength: 4.355333333333333,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

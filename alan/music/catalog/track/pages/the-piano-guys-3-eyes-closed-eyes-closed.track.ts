@@ -11,7 +11,6 @@ export const thePianoGuys3EyesClosedEyesClosed = {
     "release/the-piano-guys-3-unstoppable-2",
     "release/the-piano-guys-autumn-on-piano",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallASacredChristmasPianoCollectionAChangeOfHeart = {
   ownLength: 3.8709,
   ownProgress: 3.8709,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

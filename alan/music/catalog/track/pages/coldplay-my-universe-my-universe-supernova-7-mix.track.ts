@@ -7,7 +7,6 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
   ownLength: 4.655283333333333,
   ownProgress: 4.655283333333333,
   partOfCollections: ["release/coldplay-my-universe"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

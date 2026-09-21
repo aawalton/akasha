@@ -7,7 +7,6 @@ export const celticWoman2LullabyBrahmsLullabye = {
   ownLength: 2.312,
   ownProgress: 2.312,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

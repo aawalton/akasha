@@ -7,7 +7,6 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonChanel = {
   ownLength: 3.134316666666667,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-she-did-it-again-feat-zara-larsson"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

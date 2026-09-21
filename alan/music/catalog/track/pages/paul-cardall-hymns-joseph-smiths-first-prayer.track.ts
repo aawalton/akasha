@@ -7,7 +7,6 @@ export const paulCardallHymnsJosephSmithsFirstPrayer = {
   ownLength: 3.3191,
   ownProgress: 3.3191,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

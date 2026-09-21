@@ -7,7 +7,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveSlowedDown = {
   ownLength: 4.179583333333333,
   ownProgress: 4.179583333333333,
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

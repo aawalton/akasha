@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldBeforeThisWorldJollySpringtime = {
   ownLength: 5.576216666666666,
   ownProgress: 5.576216666666666,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

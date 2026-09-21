@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
   ownLength: 3.5637666666666665,
   ownProgress: 3.5637666666666665,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

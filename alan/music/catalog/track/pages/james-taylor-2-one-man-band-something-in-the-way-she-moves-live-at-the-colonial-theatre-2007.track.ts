@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandSomethingInTheWaySheMovesLiveAtTheColonialThe
   ownLength: 3.7962166666666666,
   ownProgress: 3.7962166666666666,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

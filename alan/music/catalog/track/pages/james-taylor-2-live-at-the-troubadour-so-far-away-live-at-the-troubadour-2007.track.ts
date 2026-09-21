@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourSoFarAwayLiveAtTheTroubadour2007 = {
   ownLength: 4.7,
   ownProgress: 4.7,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

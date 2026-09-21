@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyGranuailesDance = {
   ownLength: 3.6693333333333333,
   ownProgress: 3.6693333333333333,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

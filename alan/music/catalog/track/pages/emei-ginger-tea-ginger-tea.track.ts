@@ -7,7 +7,6 @@ export const emeiGingerTeaGingerTea = {
   ownLength: 2.620433333333333,
   ownProgress: 2.620433333333333,
   partOfCollections: ["release/emei-ginger-tea"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLost = {
     "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
     "release/coldplay-viva-la-vida-prospekt-s-march-edition",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

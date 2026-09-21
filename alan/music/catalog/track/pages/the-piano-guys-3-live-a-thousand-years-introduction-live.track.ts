@@ -7,7 +7,6 @@ export const thePianoGuys3LiveAThousandYearsIntroductionLive = {
   ownLength: 0.7711,
   ownProgress: 0.7711,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

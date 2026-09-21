@@ -7,7 +7,6 @@ export const paulCardallLiveTheWidowsMansionLive = {
   ownLength: 3.6317666666666666,
   ownProgress: 3.6317666666666666,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

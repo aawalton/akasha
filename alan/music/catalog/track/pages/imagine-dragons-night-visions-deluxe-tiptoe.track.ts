@@ -10,7 +10,6 @@ export const imagineDragonsNightVisionsDeluxeTiptoe = {
     "release/imagine-dragons-night-visions-deluxe",
     "release/imagine-dragons-night-visions",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

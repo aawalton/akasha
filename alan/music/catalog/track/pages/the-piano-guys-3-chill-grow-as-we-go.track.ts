@@ -7,7 +7,6 @@ export const thePianoGuys3ChillGrowAsWeGo = {
   ownLength: 4.3148,
   ownProgress: 4.3148,
   partOfCollections: ["release/the-piano-guys-3-chill", "release/the-piano-guys-autumn-on-piano"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

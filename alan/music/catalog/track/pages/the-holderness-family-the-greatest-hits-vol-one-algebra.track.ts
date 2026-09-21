@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneAlgebra = {
   ownLength: 2.9675,
   ownProgress: 2.9675,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

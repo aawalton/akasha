@@ -7,7 +7,6 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHell = {
   ownLength: 2.66225,
   ownProgress: 2.66225,
   partOfCollections: ["release/ariana-grande-good-as-hell-feat-ariana-grande-remix"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

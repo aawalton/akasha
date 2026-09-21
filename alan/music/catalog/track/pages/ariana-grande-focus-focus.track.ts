@@ -7,7 +7,6 @@ export const arianaGrandeFocusFocus = {
   ownLength: 3.522666666666667,
   ownProgress: 3.522666666666667,
   partOfCollections: ["release/ariana-grande-focus"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

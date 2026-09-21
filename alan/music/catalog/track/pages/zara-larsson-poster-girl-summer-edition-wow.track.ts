@@ -10,7 +10,6 @@ export const zaraLarssonPosterGirlSummerEditionWow = {
     "release/zara-larsson-poster-girl-summer-edition",
     "release/zara-larsson-poster-girl",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

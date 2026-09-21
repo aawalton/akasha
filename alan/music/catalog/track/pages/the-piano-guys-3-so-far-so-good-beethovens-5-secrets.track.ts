@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodBeethovens5Secrets = {
   ownLength: 5.1611,
   ownProgress: 5.1611,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

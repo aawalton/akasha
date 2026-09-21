@@ -7,7 +7,6 @@ export const paulCardallHymnsVol2MoreHolinessGiveMe = {
   ownLength: 3.1431,
   ownProgress: 3.1431,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

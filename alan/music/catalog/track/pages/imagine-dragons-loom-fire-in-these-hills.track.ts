@@ -7,7 +7,6 @@ export const imagineDragonsLoomFireInTheseHills = {
   ownLength: 3.6546666666666665,
   ownProgress: 3.6546666666666665,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

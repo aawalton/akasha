@@ -7,7 +7,6 @@ export const thePianoGuysSerenityAThousandYears = {
   ownLength: 4.59955,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 12,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessAMillionDreams = {
   ownLength: 4.76395,
   ownProgress: 4.76395,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

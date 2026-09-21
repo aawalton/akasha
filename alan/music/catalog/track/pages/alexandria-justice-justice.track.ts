@@ -7,7 +7,6 @@ export const alexandriaJusticeJustice = {
   ownLength: 3.2228833333333333,
   ownProgress: 3.2228833333333333,
   partOfCollections: ["release/alexandria-justice"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

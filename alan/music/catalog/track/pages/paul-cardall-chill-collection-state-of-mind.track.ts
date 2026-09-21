@@ -7,7 +7,6 @@ export const paulCardallChillCollectionStateOfMind = {
   ownLength: 4.196133333333333,
   ownProgress: 4.196133333333333,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

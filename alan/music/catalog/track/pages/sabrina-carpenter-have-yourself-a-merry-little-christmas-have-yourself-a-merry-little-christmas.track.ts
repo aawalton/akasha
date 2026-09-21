@@ -7,7 +7,6 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
   ownLength: 3.77855,
   ownProgress: 3.77855,
   partOfCollections: ["release/sabrina-carpenter-have-yourself-a-merry-little-christmas"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

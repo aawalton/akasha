@@ -10,7 +10,6 @@ export const zaraLarssonPosterGirlSummerEditionRuinMyLifeOrchestralVersion = {
     "release/zara-larsson-poster-girl-summer-edition",
     "release/zara-larsson-ruin-my-life-the-remixes",
   ],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

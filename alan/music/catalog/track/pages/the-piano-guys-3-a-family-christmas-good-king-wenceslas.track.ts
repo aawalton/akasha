@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasGoodKingWenceslas = {
   ownLength: 3.8743833333333333,
   ownProgress: 3.8743833333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

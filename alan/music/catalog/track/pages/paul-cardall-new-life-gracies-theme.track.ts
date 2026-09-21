@@ -7,7 +7,6 @@ export const paulCardallNewLifeGraciesTheme = {
   ownLength: 5.694883333333333,
   ownProgress: 5.694883333333333,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

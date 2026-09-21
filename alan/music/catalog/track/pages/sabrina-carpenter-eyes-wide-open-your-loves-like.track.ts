@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenYourLovesLike = {
   ownLength: 3.4846666666666666,
   ownProgress: 3.4846666666666666,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

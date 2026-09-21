@@ -7,7 +7,6 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
   ownLength: 2.833066666666667,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-jenny-of-oldstones"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

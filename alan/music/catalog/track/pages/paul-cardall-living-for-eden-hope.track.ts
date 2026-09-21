@@ -10,7 +10,6 @@ export const paulCardallLivingForEdenHope = {
     "release/paul-cardall-living-for-eden",
     "release/paul-cardall-saving-tiny-hearts",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const billieEilishDontSmileAtMeOceanEyes = {
   ownLength: 3.33965,
   ownProgress: 3.33965,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

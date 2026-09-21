@@ -7,7 +7,6 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
   ownLength: 4.183483333333333,
   ownProgress: 4.183483333333333,
   partOfCollections: ["release/zara-larsson-don-t-let-me-be-yours-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

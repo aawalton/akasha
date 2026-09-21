@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungTBone = {
   ownLength: 3.7944333333333335,
   ownProgress: 3.7944333333333335,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

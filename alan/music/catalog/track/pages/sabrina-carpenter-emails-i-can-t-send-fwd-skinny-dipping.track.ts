@@ -12,7 +12,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
     "release/sabrina-carpenter-skinny-dipping-acoustic",
     "release/sabrina-carpenter-skinny-dipping",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

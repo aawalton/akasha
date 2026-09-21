@@ -7,7 +7,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingSequoiasPath = {
   ownLength: 3.758,
   ownProgress: 3.758,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

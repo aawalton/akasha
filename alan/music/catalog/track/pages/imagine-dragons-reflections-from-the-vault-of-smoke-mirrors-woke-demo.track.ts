@@ -7,7 +7,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsWokeDemo = {
   ownLength: 3.6799166666666667,
   ownProgress: 3.6799166666666667,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

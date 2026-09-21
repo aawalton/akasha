@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassAnanas = {
   ownLength: 5.706666666666667,
   ownProgress: 5.706666666666667,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

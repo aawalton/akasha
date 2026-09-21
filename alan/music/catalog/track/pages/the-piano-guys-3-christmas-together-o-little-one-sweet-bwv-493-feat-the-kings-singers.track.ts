@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   ownLength: 3.7177,
   ownProgress: 3.7177,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

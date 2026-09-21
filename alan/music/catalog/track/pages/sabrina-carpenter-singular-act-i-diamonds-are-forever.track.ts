@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIDiamondsAreForever = {
   ownLength: 3.82555,
   ownProgress: 3.82555,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

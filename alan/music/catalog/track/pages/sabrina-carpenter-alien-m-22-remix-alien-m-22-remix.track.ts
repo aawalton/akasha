@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
   ownLength: 3.419983333333333,
   ownProgress: 3.419983333333333,
   partOfCollections: ["release/sabrina-carpenter-alien-m-22-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

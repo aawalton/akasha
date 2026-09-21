@@ -10,7 +10,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaRadioEdit = {
     "release/coldplay-princess-of-china",
     "release/coldplay-princess-of-china-radio-edit",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

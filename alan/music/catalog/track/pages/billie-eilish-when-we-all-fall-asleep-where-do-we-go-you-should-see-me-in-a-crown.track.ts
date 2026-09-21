@@ -7,7 +7,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoYouShouldSeeMeInACrown = 
   ownLength: 3.0158666666666667,
   ownProgress: 3.0158666666666667,
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

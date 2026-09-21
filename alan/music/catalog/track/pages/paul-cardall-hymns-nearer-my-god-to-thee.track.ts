@@ -7,7 +7,6 @@ export const paulCardallHymnsNearerMyGodToThee = {
   ownLength: 3.2844333333333333,
   ownProgress: 3.2844333333333333,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

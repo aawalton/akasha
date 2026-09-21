@@ -7,7 +7,6 @@ export const arianaGrandeBrandNewYouFrom13ALittleMoreHomeworkFeatGrahamPhillipsS
   ownLength: 5.04555,
   ownProgress: 5.04555,
   partOfCollections: ["release/ariana-grande-brand-new-you-from-13"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

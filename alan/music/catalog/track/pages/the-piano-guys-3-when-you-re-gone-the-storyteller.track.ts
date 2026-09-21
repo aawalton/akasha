@@ -10,7 +10,6 @@ export const thePianoGuys3WhenYouReGoneTheStoryteller = {
     "release/the-piano-guys-3-when-you-re-gone",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraADifferentKindOfHumanStepIiMothership = {
   ownLength: 2.2803666666666667,
   ownProgress: 2.2803666666666667,
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

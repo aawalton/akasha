@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023ComfortZone = {
   ownLength: 1.892,
   ownProgress: 1.892,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

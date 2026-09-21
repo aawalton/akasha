@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysLordWeAskTheeEreWePart = {
   ownLength: 2.6751,
   ownProgress: 2.6751,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 19,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

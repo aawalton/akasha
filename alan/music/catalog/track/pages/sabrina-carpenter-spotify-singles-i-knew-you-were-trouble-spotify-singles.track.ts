@@ -7,7 +7,6 @@ export const sabrinaCarpenterSpotifySinglesIKnewYouWereTroubleSpotifySingles = {
   ownLength: 3.8936166666666665,
   ownProgress: 3.8936166666666665,
   partOfCollections: ["release/sabrina-carpenter-spotify-singles"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

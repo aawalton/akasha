@@ -10,7 +10,6 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-3-wedding-season",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraThankUThankU = {
   ownLength: 4.046216666666667,
   ownProgress: 4.046216666666667,
   partOfCollections: ["release/aurora-thank-u"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

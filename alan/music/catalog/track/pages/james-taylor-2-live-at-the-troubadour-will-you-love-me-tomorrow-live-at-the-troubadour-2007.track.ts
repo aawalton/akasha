@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourWillYouLoveMeTomorrowLiveAtTheTrouba
   ownLength: 4.210883333333333,
   ownProgress: 4.210883333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

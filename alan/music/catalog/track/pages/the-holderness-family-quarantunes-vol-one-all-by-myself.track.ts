@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOneAllByMyself = {
   ownLength: 2.4751,
   ownProgress: 2.4751,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

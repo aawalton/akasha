@@ -13,7 +13,6 @@ export const thePianoGuys3LullabyJesuJoy = {
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

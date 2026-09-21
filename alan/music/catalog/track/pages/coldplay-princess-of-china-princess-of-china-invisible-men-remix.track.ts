@@ -7,7 +7,6 @@ export const coldplayPrincessOfChinaPrincessOfChinaInvisibleMenRemix = {
   ownLength: 3.7771,
   ownProgress: 3.7771,
   partOfCollections: ["release/coldplay-princess-of-china"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

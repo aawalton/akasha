@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchADangerousThing = {
   ownLength: 3.5928833333333334,
   ownProgress: 3.5928833333333334,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

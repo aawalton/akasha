@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryTeirAbhaileRiu20thAnniversary = {
   ownLength: 2.9084333333333334,
   ownProgress: 2.9084333333333334,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2CoversWhyBabyWhy = {
   ownLength: 2.678,
   ownProgress: 2.678,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

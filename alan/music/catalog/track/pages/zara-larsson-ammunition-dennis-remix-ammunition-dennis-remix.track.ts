@@ -7,7 +7,6 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
   ownLength: 2.3160833333333333,
   ownProgress: 2.3160833333333333,
   partOfCollections: ["release/zara-larsson-ammunition-dennis-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

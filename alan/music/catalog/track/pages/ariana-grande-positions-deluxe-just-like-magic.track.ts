@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeJustLikeMagic = {
   ownLength: 2.4983333333333335,
   ownProgress: 2.4983333333333335,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

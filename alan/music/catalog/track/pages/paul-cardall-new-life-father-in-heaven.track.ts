@@ -7,7 +7,6 @@ export const paulCardallNewLifeFatherInHeaven = {
   ownLength: 1.668,
   ownProgress: 1.668,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
   ownLength: 3.0366666666666666,
   ownProgress: 3.0366666666666666,
   partOfCollections: ["release/ariana-grande-rain-on-me-with-ariana-grande"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

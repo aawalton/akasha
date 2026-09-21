@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12DullKnives = {
   ownLength: 3.5580166666666666,
   ownProgress: 3.5580166666666666,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

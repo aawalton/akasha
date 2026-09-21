@@ -8,7 +8,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRunningWithTheWolve
     ownLength: 2.7977666666666665,
     ownProgress: 2.7977666666666665,
     partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
-    position: 3,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

@@ -10,7 +10,6 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
     "release/ariana-grande-santa-can-t-you-hear-me-live",
     "release/ariana-grande-santa-can-t-you-hear-me",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

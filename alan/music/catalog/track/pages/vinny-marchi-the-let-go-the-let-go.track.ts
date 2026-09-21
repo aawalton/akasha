@@ -7,7 +7,6 @@ export const vinnyMarchiTheLetGoTheLetGo = {
   ownLength: 3.3539666666666665,
   ownProgress: 3.3539666666666665,
   partOfCollections: ["release/vinny-marchi-the-let-go"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

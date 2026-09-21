@@ -7,7 +7,6 @@ export const paulCardallReturnHomeSoloPianoVersionAnEveningInParisSoloPianoVersi
   ownLength: 5.083816666666666,
   ownProgress: 5.083816666666666,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

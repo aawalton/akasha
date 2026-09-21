@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerBreathin = {
   ownLength: 3.3026666666666666,
   ownProgress: 3.3026666666666666,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraComeCloserWavelengths = {
   ownLength: 5.455766666666666,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
-  position: 9,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

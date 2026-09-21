@@ -7,7 +7,6 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   ownLength: 3.01515,
   ownProgress: 3.01515,
   partOfCollections: ["release/ariana-grande-it-was-a-masked-christmas"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

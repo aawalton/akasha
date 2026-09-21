@@ -7,7 +7,6 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouShowerThePeopleS
   ownLength: 4.023333333333333,
   ownProgress: 4.023333333333333,
   partOfCollections: ["release/james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionGreenTheWholeYearR
   ownLength: 4.778883333333333,
   ownProgress: 4.778883333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

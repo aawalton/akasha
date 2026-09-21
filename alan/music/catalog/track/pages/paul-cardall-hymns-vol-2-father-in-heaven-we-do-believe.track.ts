@@ -7,7 +7,6 @@ export const paulCardallHymnsVol2FatherInHeavenWeDoBelieve = {
   ownLength: 3.27955,
   ownProgress: 3.27955,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

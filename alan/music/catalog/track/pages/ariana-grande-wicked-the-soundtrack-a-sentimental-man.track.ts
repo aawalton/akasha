@@ -11,7 +11,6 @@ export const arianaGrandeWickedTheSoundtrackASentimentalMan = {
     "release/ariana-grande-wicked-the-soundtrack-commentary",
     "release/musical-theater-wicked-the-soundtrack",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

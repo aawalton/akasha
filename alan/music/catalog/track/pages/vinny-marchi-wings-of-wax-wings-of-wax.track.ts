@@ -7,7 +7,6 @@ export const vinnyMarchiWingsOfWaxWingsOfWax = {
   ownLength: 3.8152333333333335,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-wings-of-wax"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

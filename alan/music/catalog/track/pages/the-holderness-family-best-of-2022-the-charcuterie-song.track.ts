@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022TheCharcuterieSong = {
   ownLength: 2.0608,
   ownProgress: 2.0608,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

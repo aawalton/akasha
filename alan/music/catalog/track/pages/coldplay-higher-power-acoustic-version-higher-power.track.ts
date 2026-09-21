@@ -11,7 +11,6 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
     "release/coldplay-higher-power-alyx-ander-remix",
     "release/coldplay-higher-power",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

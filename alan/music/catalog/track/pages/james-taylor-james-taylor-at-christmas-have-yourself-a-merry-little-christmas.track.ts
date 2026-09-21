@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasHaveYourselfAMerryLittleChristmas 
   ownLength: 3.4102166666666665,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 7,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

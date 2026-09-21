@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassUpErMei = {
   ownLength: 3.782216666666667,
   ownProgress: 3.782216666666667,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

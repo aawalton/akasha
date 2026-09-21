@@ -7,7 +7,6 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
   ownLength: 2.8072166666666667,
   ownProgress: 2.8072166666666667,
   partOfCollections: ["release/aurora-paramour-feat-aurora"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

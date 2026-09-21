@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionAllWeHaveIsLove = {
   ownLength: 3.0382166666666666,
   ownProgress: 3.0382166666666666,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

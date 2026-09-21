@@ -10,7 +10,6 @@ export const imagineDragonsNightVisionsDeluxeHearMe = {
     "release/imagine-dragons-night-visions-deluxe",
     "release/imagine-dragons-night-visions",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

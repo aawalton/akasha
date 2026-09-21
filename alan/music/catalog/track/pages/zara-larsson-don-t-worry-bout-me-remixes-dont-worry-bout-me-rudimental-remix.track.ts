@@ -7,7 +7,6 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeRudimentalRemix = {
   ownLength: 3.21895,
   ownProgress: 3.21895,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

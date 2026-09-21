@@ -7,7 +7,6 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
   ownLength: 3.5049,
   ownProgress: 3.5049,
   partOfCollections: ["release/coldplay-up-up-freedo-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

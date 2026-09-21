@@ -10,7 +10,6 @@ export const paulCardallBeCalmBrainHealthyMusicSweetEscape = {
     "release/paul-cardall-be-calm-brain-healthy-music",
     "release/paul-cardall-sacred-piano",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

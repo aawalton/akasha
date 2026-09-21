@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsMyHeartWillGoOn = {
   ownLength: 4.350666666666666,
   ownProgress: 4.350666666666666,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

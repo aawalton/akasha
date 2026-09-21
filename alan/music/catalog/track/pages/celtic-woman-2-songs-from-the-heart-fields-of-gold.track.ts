@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartFieldsOfGold = {
   ownLength: 3.8273333333333333,
   ownProgress: 3.8273333333333333,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallDecemberPianoStringEnsembleHushLittleBabyTheMockingBirdS
   ownLength: 2.4408833333333333,
   ownProgress: 2.4408833333333333,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

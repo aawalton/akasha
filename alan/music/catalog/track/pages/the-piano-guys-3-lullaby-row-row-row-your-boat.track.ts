@@ -10,7 +10,6 @@ export const thePianoGuys3LullabyRowRowRowYourBoat = {
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-peaceful-summer-nights",
   ],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

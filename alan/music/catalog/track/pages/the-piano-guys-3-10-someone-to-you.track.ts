@@ -7,7 +7,6 @@ export const thePianoGuys310SomeoneToYou = {
   ownLength: 3.4433333333333334,
   ownProgress: 3.4433333333333334,
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

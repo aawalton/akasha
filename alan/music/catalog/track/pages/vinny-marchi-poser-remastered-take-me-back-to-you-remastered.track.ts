@@ -7,7 +7,6 @@ export const vinnyMarchiPoserRemasteredTakeMeBackToYouRemastered = {
   ownLength: 2.8855666666666666,
   ownProgress: 2.8855666666666666,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

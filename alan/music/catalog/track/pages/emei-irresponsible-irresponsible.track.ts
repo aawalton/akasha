@@ -11,7 +11,6 @@ export const emeiIrresponsibleIrresponsible = {
     "release/emei-scatterbrain-2",
     "release/emei-scatterbrain-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

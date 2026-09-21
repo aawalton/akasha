@@ -10,7 +10,6 @@ export const sabrinaCarpenterEmailsICanTSendBetUWanna = {
     "release/sabrina-carpenter-emails-i-can-t-send",
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
   ownLength: 3.22905,
   ownProgress: 3.22905,
   partOfCollections: ["release/zara-larsson-midnight-sun-bundle"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

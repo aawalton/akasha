@@ -8,7 +8,6 @@ export const coldplayLeftrightleftrightleftLiveTheHardestPartPostcardsFromFarAwa
     ownLength: 4.25355,
     ownProgress: 4.25355,
     partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-    position: 5,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

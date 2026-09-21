@@ -9,7 +9,6 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLoveADreamIsAWis
   partOfCollections: [
     "release/sabrina-carpenter-a-dream-is-a-wish-your-heart-makes-so-this-is-love",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

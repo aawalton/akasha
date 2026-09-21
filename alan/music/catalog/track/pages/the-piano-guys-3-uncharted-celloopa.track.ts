@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedCelloopa = {
   ownLength: 2.7781166666666666,
   ownProgress: 2.7781166666666666,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

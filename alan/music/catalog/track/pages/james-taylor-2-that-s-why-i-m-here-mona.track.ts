@@ -7,7 +7,6 @@ export const jamesTaylor2ThatSWhyIMHereMona = {
   ownLength: 2.81555,
   ownProgress: 2.81555,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

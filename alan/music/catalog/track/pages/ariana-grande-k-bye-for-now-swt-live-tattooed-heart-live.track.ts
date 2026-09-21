@@ -7,7 +7,6 @@ export const arianaGrandeKByeForNowSwtLiveTattooedHeartLive = {
   ownLength: 3.388933333333333,
   ownProgress: 3.388933333333333,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

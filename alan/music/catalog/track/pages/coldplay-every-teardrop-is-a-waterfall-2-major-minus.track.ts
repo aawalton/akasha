@@ -10,7 +10,6 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
     "release/coldplay-every-teardrop-is-a-waterfall-2",
     "release/coldplay-every-teardrop-is-a-waterfall",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

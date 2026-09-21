@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysJesusSaidLoveEveryone = {
   ownLength: 2.6437666666666666,
   ownProgress: 2.6437666666666666,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

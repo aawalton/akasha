@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresMagicLiveInBuenosAires = {
   ownLength: 4.764,
   ownProgress: 4.764,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

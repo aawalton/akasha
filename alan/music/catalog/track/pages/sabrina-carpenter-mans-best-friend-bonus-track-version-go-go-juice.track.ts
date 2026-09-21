@@ -7,7 +7,6 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionGoGoJuice = {
   ownLength: 3.2219333333333333,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
-  position: 9,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

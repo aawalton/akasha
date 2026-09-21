@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarTheLordsPrayer = {
   ownLength: 3.0736,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 24,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

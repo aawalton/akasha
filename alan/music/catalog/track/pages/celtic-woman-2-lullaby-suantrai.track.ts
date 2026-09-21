@@ -7,7 +7,6 @@ export const celticWoman2LullabySuantrai = {
   ownLength: 3.3213333333333335,
   ownProgress: 3.3213333333333335,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

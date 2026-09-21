@@ -7,7 +7,6 @@ export const theHoldernessFamilyWelcomeToTheClubMillennialsWelcomeToTheClubMille
   ownLength: 2.648416666666667,
   ownProgress: 2.648416666666667,
   partOfCollections: ["release/the-holderness-family-welcome-to-the-club-millennials"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

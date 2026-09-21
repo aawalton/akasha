@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsEpHoleInsideOurChests = {
   ownLength: 2.641766666666667,
   ownProgress: 2.641766666666667,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

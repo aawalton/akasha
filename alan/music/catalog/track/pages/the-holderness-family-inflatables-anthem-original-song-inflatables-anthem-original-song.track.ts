@@ -7,7 +7,6 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSongInflatablesAnthemOr
   ownLength: 2.6088,
   ownProgress: 2.6088,
   partOfCollections: ["release/the-holderness-family-inflatables-anthem-original-song"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

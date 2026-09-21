@@ -7,7 +7,6 @@ export const auroraAppleTreeGeorgiaRemixAppleTreeGeorgiaRemix = {
   ownLength: 4.390183333333334,
   ownProgress: 4.390183333333334,
   partOfCollections: ["release/aurora-apple-tree-georgia-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

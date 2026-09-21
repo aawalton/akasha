@@ -7,7 +7,6 @@ export const paulCardallAncestorsSweetwater = {
   ownLength: 3.345066666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 11,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

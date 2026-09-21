@@ -7,7 +7,6 @@ export const jamesTaylor2WalkingMan2019RemasterHelloOldFriend2019Remaster = {
   ownLength: 2.8071,
   ownProgress: 2.8071,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

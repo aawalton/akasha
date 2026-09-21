@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationOHolyNight = {
   ownLength: 4.418666666666667,
   ownProgress: 4.418666666666667,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

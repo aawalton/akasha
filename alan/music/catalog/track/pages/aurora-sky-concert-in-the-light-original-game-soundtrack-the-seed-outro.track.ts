@@ -7,7 +7,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedOutro = {
   ownLength: 1.5833333333333333,
   ownProgress: 1.5833333333333333,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

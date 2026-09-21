@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetDeluxeJuno = {
   ownLength: 3.7197666666666667,
   ownProgress: 3.7197666666666667,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

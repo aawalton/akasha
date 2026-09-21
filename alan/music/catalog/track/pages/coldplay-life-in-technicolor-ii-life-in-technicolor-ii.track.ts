@@ -7,7 +7,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIi = {
   ownLength: 4.12155,
   ownProgress: 4.12155,
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

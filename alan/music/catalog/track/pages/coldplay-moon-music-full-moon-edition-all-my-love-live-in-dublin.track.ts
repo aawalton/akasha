@@ -7,7 +7,6 @@ export const coldplayMoonMusicFullMoonEditionAllMyLoveLiveInDublin = {
   ownLength: 4.10535,
   ownProgress: 4.10535,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsEpCoverUp = {
   ownLength: 4.304633333333333,
   ownProgress: 4.304633333333333,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

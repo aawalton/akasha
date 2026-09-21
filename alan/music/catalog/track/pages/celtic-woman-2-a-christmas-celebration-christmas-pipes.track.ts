@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationChristmasPipes = {
   ownLength: 3.8586666666666667,
   ownProgress: 3.8586666666666667,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

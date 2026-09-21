@@ -7,7 +7,6 @@ export const billieEilishMyboiTroyboiRemixMyboiTroyboiRemix = {
   ownLength: 3.521733333333333,
   ownProgress: 3.521733333333333,
   partOfCollections: ["release/billie-eilish-myboi-troyboi-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

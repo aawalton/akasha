@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysAThousandYears = {
   ownLength: 4.612433333333334,
   ownProgress: 4.612433333333334,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

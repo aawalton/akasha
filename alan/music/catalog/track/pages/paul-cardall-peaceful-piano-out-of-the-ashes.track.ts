@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
   ownLength: 3.68955,
   ownProgress: 3.68955,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

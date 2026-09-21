@@ -10,7 +10,6 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
     "release/aurora-a-different-kind-of-human-step-ii",
     "release/aurora-music-for-the-fellow-witches-out-there",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

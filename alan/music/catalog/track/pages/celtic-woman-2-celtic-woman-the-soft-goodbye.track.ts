@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanTheSoftGoodbye = {
   ownLength: 3.985333333333333,
   ownProgress: 3.985333333333333,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

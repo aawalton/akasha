@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleMothsButterflies = {
   ownLength: 5.056,
   ownProgress: 5.056,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

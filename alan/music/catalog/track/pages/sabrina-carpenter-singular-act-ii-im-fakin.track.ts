@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIiImFakin = {
   ownLength: 2.9218166666666665,
   ownProgress: 2.9218166666666665,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

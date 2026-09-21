@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreamin = {
   ownLength: 3.52145,
   ownProgress: 3.52145,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

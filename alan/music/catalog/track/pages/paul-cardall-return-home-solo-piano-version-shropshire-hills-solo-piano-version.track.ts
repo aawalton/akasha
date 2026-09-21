@@ -7,7 +7,6 @@ export const paulCardallReturnHomeSoloPianoVersionShropshireHillsSoloPianoVersio
   ownLength: 3.175,
   ownProgress: 3.175,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

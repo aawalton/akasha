@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeMnaNaHeireannWomenOfIreland = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-ancient-land",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

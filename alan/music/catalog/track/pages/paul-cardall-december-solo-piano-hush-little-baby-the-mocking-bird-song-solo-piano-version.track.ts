@@ -7,7 +7,6 @@ export const paulCardallDecemberSoloPianoHushLittleBabyTheMockingBirdSongSoloPia
   ownLength: 2.43355,
   ownProgress: 2.43355,
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

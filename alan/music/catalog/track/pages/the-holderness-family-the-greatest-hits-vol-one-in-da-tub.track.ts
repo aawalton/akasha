@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneInDaTub = {
   ownLength: 2.2008,
   ownProgress: 2.2008,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

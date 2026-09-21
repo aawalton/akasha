@@ -7,7 +7,6 @@ export const arianaGrandeKByeForNowSwtLiveGetWellSoonLive = {
   ownLength: 3.45,
   ownProgress: 3.45,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
-  position: 23,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

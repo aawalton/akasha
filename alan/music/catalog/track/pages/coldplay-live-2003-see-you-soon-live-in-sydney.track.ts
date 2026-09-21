@@ -7,7 +7,6 @@ export const coldplayLive2003SeeYouSoonLiveInSydney = {
   ownLength: 3.4851,
   ownProgress: 3.4851,
   partOfCollections: ["release/coldplay-live-2003"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

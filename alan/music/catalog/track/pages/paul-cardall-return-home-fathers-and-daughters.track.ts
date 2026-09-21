@@ -7,7 +7,6 @@ export const paulCardallReturnHomeFathersAndDaughters = {
   ownLength: 4.26595,
   ownProgress: 4.26595,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

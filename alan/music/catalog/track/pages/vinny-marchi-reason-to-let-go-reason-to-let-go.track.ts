@@ -7,7 +7,6 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
   ownLength: 3.5245,
   ownProgress: 3.5245,
   partOfCollections: ["release/vinny-marchi-reason-to-let-go"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereFeatBigSean 
   ownLength: 4.118016666666667,
   ownProgress: 4.118016666666667,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraCureForMeCureForMe = {
   ownLength: 3.3606666666666665,
   ownProgress: 3.3606666666666665,
   partOfCollections: ["release/aurora-cure-for-me", "release/aurora-the-gods-we-can-touch"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

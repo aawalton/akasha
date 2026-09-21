@@ -7,7 +7,6 @@ export const jamesTaylor2CoversNotFadeAway = {
   ownLength: 2.7624333333333335,
   ownProgress: 2.7624333333333335,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

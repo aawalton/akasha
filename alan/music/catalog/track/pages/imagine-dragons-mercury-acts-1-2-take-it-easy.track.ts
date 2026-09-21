@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12TakeItEasy = {
   ownLength: 2.6378333333333335,
   ownProgress: 2.6378333333333335,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

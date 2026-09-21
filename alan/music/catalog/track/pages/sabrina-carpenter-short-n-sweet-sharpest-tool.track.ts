@@ -7,7 +7,6 @@ export const sabrinaCarpenterShortNSweetSharpestTool = {
   ownLength: 3.6380666666666666,
   ownProgress: 3.6380666666666666,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

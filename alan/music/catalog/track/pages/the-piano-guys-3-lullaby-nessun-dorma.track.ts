@@ -10,7 +10,6 @@ export const thePianoGuys3LullabyNessunDorma = {
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-classical-for-studying",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

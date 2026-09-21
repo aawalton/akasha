@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarPrayerOfStFrancisMakeMeAChannelOfYourPea
   ownLength: 2.7916666666666665,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 28,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

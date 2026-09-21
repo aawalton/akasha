@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchYouKeepMeCrawling = {
   ownLength: 2.98555,
   ownProgress: 2.98555,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiISeeFireISeeFire = {
   ownLength: 3.8908833333333335,
   ownProgress: 3.8908833333333335,
   partOfCollections: ["release/vinny-marchi-i-see-fire"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

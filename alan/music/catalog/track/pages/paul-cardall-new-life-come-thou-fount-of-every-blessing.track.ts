@@ -7,7 +7,6 @@ export const paulCardallNewLifeComeThouFountOfEveryBlessing = {
   ownLength: 3.2362166666666665,
   ownProgress: 3.2362166666666665,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

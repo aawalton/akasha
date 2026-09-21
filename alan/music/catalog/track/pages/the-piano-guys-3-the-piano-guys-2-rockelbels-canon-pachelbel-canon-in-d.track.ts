@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2RockelbelsCanonPachelbelCanonInD = {
   ownLength: 3.810416666666667,
   ownProgress: 3.810416666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

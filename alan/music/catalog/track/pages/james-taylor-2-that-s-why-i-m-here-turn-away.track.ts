@@ -7,7 +7,6 @@ export const jamesTaylor2ThatSWhyIMHereTurnAway = {
   ownLength: 3.37,
   ownProgress: 3.37,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

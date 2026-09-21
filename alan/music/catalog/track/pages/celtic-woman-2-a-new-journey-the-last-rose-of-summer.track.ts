@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyTheLastRoseOfSummer = {
   ownLength: 3.6033333333333335,
   ownProgress: 3.6033333333333335,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

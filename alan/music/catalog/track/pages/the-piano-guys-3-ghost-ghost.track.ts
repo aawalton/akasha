@@ -13,7 +13,6 @@ export const thePianoGuys3GhostGhost = {
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

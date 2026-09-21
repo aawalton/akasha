@@ -10,7 +10,6 @@ export const thePianoGuys310BlessTheBrokenRoad = {
     "release/the-piano-guys-3-10",
     "release/the-piano-guys-3-bless-the-broken-road",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

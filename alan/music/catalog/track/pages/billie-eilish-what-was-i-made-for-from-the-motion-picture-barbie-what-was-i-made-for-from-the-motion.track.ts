@@ -7,7 +7,6 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbieWhatWasIMadeFo
   ownLength: 3.70615,
   ownProgress: 3.70615,
   partOfCollections: ["release/billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

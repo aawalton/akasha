@@ -7,7 +7,6 @@ export const paulCardallChillCollectionEyeToEye = {
   ownLength: 4.48565,
   ownProgress: 4.48565,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

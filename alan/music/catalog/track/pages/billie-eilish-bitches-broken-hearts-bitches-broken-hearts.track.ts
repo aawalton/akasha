@@ -7,7 +7,6 @@ export const billieEilishBitchesBrokenHeartsBitchesBrokenHearts = {
   ownLength: 2.9411833333333335,
   ownProgress: 2.9411833333333335,
   partOfCollections: ["release/billie-eilish-bitches-broken-hearts"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

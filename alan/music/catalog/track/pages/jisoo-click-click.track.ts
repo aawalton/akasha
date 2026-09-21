@@ -7,7 +7,6 @@ export const jisooClickClick = {
   ownLength: 2.6515833333333334,
   ownProgress: 2.6515833333333334,
   partOfCollections: ["release/jisoo-click"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

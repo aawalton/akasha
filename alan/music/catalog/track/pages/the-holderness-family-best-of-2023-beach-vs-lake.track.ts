@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023BeachVsLake = {
   ownLength: 2.9008,
   ownProgress: 2.9008,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

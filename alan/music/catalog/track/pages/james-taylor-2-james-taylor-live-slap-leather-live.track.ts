@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveSlapLeatherLive = {
   ownLength: 2.148216666666667,
   ownProgress: 2.148216666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

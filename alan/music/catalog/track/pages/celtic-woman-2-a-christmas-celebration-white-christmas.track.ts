@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationWhiteChristmas = {
   ownLength: 3.3617666666666666,
   ownProgress: 3.3617666666666666,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

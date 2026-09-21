@@ -9,7 +9,6 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   partOfCollections: [
     "release/imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

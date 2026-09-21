@@ -7,7 +7,6 @@ export const paulCardallWhereCanITurnForPeaceWhereCanITurnForPeace = {
   ownLength: 3.9166666666666665,
   ownProgress: 3.9166666666666665,
   partOfCollections: ["release/paul-cardall-where-can-i-turn-for-peace"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

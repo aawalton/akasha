@@ -10,7 +10,6 @@ export const imagineDragonsMercuryActs12Wrecked = {
     "release/imagine-dragons-mercury-acts-1-2",
     "release/imagine-dragons-wrecked",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

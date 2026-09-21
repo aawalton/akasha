@@ -7,7 +7,6 @@ export const auroraThroughTheEyesOfAChildFromAdolescenceThroughTheEyesOfAChildFr
   ownLength: 4.57355,
   ownProgress: 4.57355,
   partOfCollections: ["release/aurora-through-the-eyes-of-a-child-from-adolescence"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

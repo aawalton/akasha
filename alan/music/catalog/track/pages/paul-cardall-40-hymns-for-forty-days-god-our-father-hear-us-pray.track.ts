@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysGodOurFatherHearUsPray = {
   ownLength: 2.68355,
   ownProgress: 2.68355,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 31,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

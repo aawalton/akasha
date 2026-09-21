@@ -10,7 +10,6 @@ export const arianaGrandeYoursTrulyPiano = {
     "release/ariana-grande-yours-truly",
     "release/ariana-grande-yours-truly-tenth-anniversary-edition",
   ],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

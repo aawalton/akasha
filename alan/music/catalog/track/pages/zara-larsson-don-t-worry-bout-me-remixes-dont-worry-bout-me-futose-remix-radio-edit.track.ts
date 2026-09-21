@@ -7,7 +7,6 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeFutoseRemixRadioEdi
   ownLength: 3.7233666666666667,
   ownProgress: 3.7233666666666667,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

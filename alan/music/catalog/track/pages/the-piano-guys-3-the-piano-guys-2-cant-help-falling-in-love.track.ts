@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2CantHelpFallingInLove = {
   ownLength: 4.252083333333333,
   ownProgress: 4.252083333333333,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

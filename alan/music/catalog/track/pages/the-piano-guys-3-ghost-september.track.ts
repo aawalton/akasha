@@ -12,7 +12,6 @@ export const thePianoGuys3GhostSeptember = {
     "release/the-piano-guys-3-wedding-season",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

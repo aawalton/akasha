@@ -7,7 +7,6 @@ export const chaislynShadesOfPinkShadesOfPink = {
   ownLength: 3.5648666666666666,
   ownProgress: 3.5648666666666666,
   partOfCollections: ["release/chaislyn-shades-of-pink"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

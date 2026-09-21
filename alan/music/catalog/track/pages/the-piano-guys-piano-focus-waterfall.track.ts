@@ -7,7 +7,6 @@ export const thePianoGuysPianoFocusWaterfall = {
   ownLength: 3.1216,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
-  position: 16,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

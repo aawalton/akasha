@@ -7,7 +7,6 @@ export const coldplayMusicOfTheSpheresUntitled3 = {
   ownLength: 3.1494333333333335,
   ownProgress: 3.1494333333333335,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

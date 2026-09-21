@@ -7,7 +7,6 @@ export const zaraLarssonHonorTheLightTandEttLjus = {
   ownLength: 3.1744333333333334,
   ownProgress: 3.1744333333333334,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresAlwaysInMyHeadLiveInBuenosAires = {
   ownLength: 3.6866666666666665,
   ownProgress: 3.6866666666666665,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

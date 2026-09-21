@@ -7,7 +7,6 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
   ownLength: 3.9511666666666665,
   ownProgress: 3.9511666666666665,
   partOfCollections: ["release/aurora-i-went-too-far-mk-remix-radio-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

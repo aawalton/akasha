@@ -7,7 +7,6 @@ export const arianaGrandeThankUNextMakeUp = {
   ownLength: 2.344883333333333,
   ownProgress: 2.344883333333333,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

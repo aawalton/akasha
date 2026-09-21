@@ -8,7 +8,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
     ownLength: 3.63355,
     ownProgress: 3.63355,
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-    position: 4,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

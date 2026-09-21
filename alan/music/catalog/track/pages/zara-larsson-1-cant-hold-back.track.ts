@@ -7,7 +7,6 @@ export const zaraLarsson1CantHoldBack = {
   ownLength: 3.6803166666666667,
   ownProgress: 3.6803166666666667,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

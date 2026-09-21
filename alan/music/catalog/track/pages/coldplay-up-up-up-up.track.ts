@@ -7,7 +7,6 @@ export const coldplayUpUpUpUp = {
   ownLength: 3.9682166666666667,
   ownProgress: 3.9682166666666667,
   partOfCollections: ["release/coldplay-up-up"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

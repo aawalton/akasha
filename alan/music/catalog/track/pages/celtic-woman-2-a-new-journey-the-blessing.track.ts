@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyTheBlessing = {
   ownLength: 3.824,
   ownProgress: 3.824,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

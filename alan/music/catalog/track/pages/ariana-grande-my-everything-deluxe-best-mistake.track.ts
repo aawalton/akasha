@@ -7,7 +7,6 @@ export const arianaGrandeMyEverythingDeluxeBestMistake = {
   ownLength: 3.89555,
   ownProgress: 3.89555,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

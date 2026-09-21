@@ -7,7 +7,6 @@ export const celticWoman2CelebrationMoGhileMearMyGallantStar = {
   ownLength: 3.648216666666667,
   ownProgress: 3.648216666666667,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

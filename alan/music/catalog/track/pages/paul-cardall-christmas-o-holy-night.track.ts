@@ -7,7 +7,6 @@ export const paulCardallChristmasOHolyNight = {
   ownLength: 7.13135,
   ownProgress: 7.13135,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

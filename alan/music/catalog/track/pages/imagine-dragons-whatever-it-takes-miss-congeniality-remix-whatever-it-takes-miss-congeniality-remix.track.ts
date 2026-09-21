@@ -8,7 +8,6 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
     ownLength: 5.776433333333333,
     ownProgress: 5.776433333333333,
     partOfCollections: ["release/imagine-dragons-whatever-it-takes-miss-congeniality-remix"],
-    position: 1,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

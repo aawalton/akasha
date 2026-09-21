@@ -7,7 +7,6 @@ export const paulCardallNewLifeTheTraveler = {
   ownLength: 1.6971,
   ownProgress: 1.6971,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

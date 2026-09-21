@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeMotiveWithDojaCat = {
   ownLength: 2.7998166666666666,
   ownProgress: 2.7998166666666666,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

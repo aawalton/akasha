@@ -10,7 +10,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryWonderful = {
     "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
     "release/ariana-grande-wicked-for-good-the-soundtrack",
   ],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

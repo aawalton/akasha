@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysComeYeChildrenOfTheLord = {
   ownLength: 2.832883333333333,
   ownProgress: 2.832883333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

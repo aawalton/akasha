@@ -7,7 +7,6 @@ export const paulCardallFaithfulFaithful = {
   ownLength: 4.856883333333333,
   ownProgress: 4.856883333333333,
   partOfCollections: ["release/paul-cardall-faithful"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

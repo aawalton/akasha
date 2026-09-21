@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeMyHair = {
   ownLength: 2.6406,
   ownProgress: 2.6406,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

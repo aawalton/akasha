@@ -10,7 +10,6 @@ export const imagineDragonsNightVisionsDeluxeUnderdog = {
     "release/imagine-dragons-night-visions-deluxe",
     "release/imagine-dragons-night-visions",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

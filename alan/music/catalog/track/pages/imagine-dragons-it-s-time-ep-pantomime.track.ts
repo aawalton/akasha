@@ -7,7 +7,6 @@ export const imagineDragonsItSTimeEpPantomime = {
   ownLength: 5.041333333333333,
   ownProgress: 5.041333333333333,
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

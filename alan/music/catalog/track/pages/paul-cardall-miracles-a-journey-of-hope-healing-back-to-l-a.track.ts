@@ -7,7 +7,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingBackToLA = {
   ownLength: 2.068433333333333,
   ownProgress: 2.068433333333333,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

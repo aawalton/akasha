@@ -7,7 +7,6 @@ export const thePianoGuys3WondersPicturesAtAnExhibition = {
   ownLength: 4.038,
   ownProgress: 4.038,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

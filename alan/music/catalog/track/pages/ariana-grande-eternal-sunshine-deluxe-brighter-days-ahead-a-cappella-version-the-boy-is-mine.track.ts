@@ -16,7 +16,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
     "release/ariana-grande-the-boy-is-mine-remix",
     "release/ariana-grande-the-boy-is-mine",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

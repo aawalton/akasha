@@ -7,7 +7,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinAcoustic = {
   ownLength: 3.3333333333333335,
   ownProgress: 3.3333333333333335,
   partOfCollections: ["release/aurora-some-type-of-skin"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallANewCreationWhereTheresLove = {
   ownLength: 3.7371,
   ownProgress: 3.7371,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

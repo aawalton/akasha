@@ -7,7 +7,6 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderBluJRemix = {
   ownLength: 3.5937333333333332,
   ownProgress: 3.5937333333333332,
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

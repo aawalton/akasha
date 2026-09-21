@@ -7,7 +7,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterSongOfYourLifeFinale = {
   ownLength: 4.73705,
   ownProgress: 4.73705,
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
   ownLength: 2.352883333333333,
   ownProgress: 2.352883333333333,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

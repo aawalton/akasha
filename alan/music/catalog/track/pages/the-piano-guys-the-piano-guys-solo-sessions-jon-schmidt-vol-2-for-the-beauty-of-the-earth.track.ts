@@ -7,7 +7,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ForTheBeautyOfThe
   ownLength: 4.8887833333333335,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

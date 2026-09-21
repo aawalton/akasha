@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeFaithsSong = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-ancient-land",
   ],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

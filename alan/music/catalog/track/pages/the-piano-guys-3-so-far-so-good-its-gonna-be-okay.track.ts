@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
   ownLength: 3.5133833333333335,
   ownProgress: 3.5133833333333335,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

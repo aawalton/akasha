@@ -7,7 +7,6 @@ export const auroraATemporaryHighAcousticATemporaryHighAcoustic = {
   ownLength: 2.8324333333333334,
   ownProgress: 2.8324333333333334,
   partOfCollections: ["release/aurora-a-temporary-high-acoustic"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

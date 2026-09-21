@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
   ownLength: 5.295833333333333,
   ownProgress: 5.295833333333333,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

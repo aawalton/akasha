@@ -7,7 +7,6 @@ export const coldplayKaleidoscopeEpALIENS = {
   ownLength: 4.7071,
   ownProgress: 4.7071,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

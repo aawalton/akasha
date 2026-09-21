@@ -7,7 +7,6 @@ export const jamesTaylor2OneManDog2019RemasterFanfare2019Remaster = {
   ownLength: 2.59655,
   ownProgress: 2.59655,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

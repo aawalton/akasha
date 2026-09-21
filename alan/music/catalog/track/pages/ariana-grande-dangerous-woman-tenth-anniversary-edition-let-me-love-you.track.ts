@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLetMeLoveYou = {
   ownLength: 3.7311833333333335,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

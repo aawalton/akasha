@@ -7,7 +7,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryCommentary = {
   ownLength: 1.2611333333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

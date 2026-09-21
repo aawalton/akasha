@@ -7,7 +7,6 @@ export const auroraComeCloserMyBaby = {
   ownLength: 4.094216666666667,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

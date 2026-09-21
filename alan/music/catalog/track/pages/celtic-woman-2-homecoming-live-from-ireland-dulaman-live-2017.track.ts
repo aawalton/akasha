@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandDulamanLive2017 = {
   ownLength: 4.228,
   ownProgress: 4.228,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

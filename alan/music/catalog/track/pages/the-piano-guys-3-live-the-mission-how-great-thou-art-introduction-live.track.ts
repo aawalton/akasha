@@ -7,7 +7,6 @@ export const thePianoGuys3LiveTheMissionHowGreatThouArtIntroductionLive = {
   ownLength: 1.1191,
   ownProgress: 1.1191,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

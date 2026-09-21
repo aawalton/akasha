@@ -7,7 +7,6 @@ export const jamesTaylor2OneManDog2019RemasterDontLetMeBeLonelyTonight2019Remast
   ownLength: 2.58905,
   ownProgress: 2.58905,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

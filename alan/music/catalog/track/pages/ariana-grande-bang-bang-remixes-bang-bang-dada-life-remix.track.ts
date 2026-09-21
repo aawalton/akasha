@@ -7,7 +7,6 @@ export const arianaGrandeBangBangRemixesBangBangDadaLifeRemix = {
   ownLength: 3.5731,
   ownProgress: 3.5731,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

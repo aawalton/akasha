@@ -7,7 +7,6 @@ export const billieEilishBellyacheMarianHillRemixBellyacheMarianHillRemix = {
   ownLength: 3.68,
   ownProgress: 3.68,
   partOfCollections: ["release/billie-eilish-bellyache-marian-hill-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonPosterGirlSummerEditionNeverForgetYouOrchestralVersion =
   ownLength: 3.82675,
   ownProgress: 3.82675,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

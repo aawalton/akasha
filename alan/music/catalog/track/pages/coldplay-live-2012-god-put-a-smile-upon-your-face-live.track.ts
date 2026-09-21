@@ -7,7 +7,6 @@ export const coldplayLive2012GodPutASmileUponYourFaceLive = {
   ownLength: 5.366216666666666,
   ownProgress: 5.366216666666666,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

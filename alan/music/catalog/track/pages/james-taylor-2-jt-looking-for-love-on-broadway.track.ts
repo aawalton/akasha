@@ -7,7 +7,6 @@ export const jamesTaylor2JtLookingForLoveOnBroadway = {
   ownLength: 2.3632833333333334,
   ownProgress: 2.3632833333333334,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyFantasyFootballAnthemFantasyFootballAnthem = {
   ownLength: 3.36935,
   ownProgress: 3.36935,
   partOfCollections: ["release/the-holderness-family-fantasy-football-anthem"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

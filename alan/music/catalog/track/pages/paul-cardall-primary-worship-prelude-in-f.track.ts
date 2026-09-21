@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipPreludeInF = {
   ownLength: 2.5582166666666666,
   ownProgress: 2.5582166666666666,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
     "release/imagine-dragons-demons-telykast-remix",
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

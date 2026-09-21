@@ -10,7 +10,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingMiracles = {
     "release/paul-cardall-miracles-a-journey-of-hope-healing",
     "release/paul-cardall-saving-tiny-hearts",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

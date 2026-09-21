@@ -7,7 +7,6 @@ export const coldplayAHeadFullOfDreamsArmyOfOne = {
   ownLength: 6.280433333333334,
   ownProgress: 6.280433333333334,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

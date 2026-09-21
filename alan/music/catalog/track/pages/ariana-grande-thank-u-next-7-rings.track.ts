@@ -7,7 +7,6 @@ export const arianaGrandeThankUNext7Rings = {
   ownLength: 2.9771,
   ownProgress: 2.9771,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

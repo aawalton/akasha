@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022AdhdNeedsANewName = {
   ownLength: 2.4976,
   ownProgress: 2.4976,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

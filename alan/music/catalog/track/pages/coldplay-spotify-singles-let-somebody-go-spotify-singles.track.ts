@@ -7,7 +7,6 @@ export const coldplaySpotifySinglesLetSomebodyGoSpotifySingles = {
   ownLength: 4.052566666666666,
   ownProgress: 4.052566666666666,
   partOfCollections: ["release/coldplay-spotify-singles"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

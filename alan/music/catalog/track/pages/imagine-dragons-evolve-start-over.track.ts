@@ -7,7 +7,6 @@ export const imagineDragonsEvolveStartOver = {
   ownLength: 3.1013333333333333,
   ownProgress: 3.1013333333333333,
   partOfCollections: ["release/imagine-dragons-evolve"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

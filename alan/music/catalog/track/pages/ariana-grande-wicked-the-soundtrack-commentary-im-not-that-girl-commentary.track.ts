@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirlCommentary = 
   ownLength: 1.2171833333333333,
   ownProgress: 1.2171833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsStillStillStill = {
   ownLength: 3.3828833333333335,
   ownProgress: 3.3828833333333335,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

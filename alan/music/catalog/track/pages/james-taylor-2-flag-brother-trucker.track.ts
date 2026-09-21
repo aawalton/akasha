@@ -7,7 +7,6 @@ export const jamesTaylor2FlagBrotherTrucker = {
   ownLength: 4.014433333333334,
   ownProgress: 4.014433333333334,
   partOfCollections: ["release/james-taylor-2-flag"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

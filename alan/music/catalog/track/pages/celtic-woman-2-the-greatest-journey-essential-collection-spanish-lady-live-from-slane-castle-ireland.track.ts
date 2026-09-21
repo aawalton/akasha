@@ -8,7 +8,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSpanishLadyLiveFro
     ownLength: 2.382433333333333,
     ownProgress: 2.382433333333333,
     partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-    position: 18,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

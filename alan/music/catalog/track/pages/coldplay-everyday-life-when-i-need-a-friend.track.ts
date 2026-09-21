@@ -7,7 +7,6 @@ export const coldplayEverydayLifeWhenINeedAFriend = {
   ownLength: 2.5833333333333335,
   ownProgress: 2.5833333333333335,
   partOfCollections: ["release/coldplay-everyday-life"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

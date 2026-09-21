@@ -7,7 +7,6 @@ export const paulCardallChristmasOComeOComeEmmanuel = {
   ownLength: 4.2462,
   ownProgress: 4.2462,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

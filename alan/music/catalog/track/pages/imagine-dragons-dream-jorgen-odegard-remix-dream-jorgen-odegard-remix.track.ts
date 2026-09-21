@@ -7,7 +7,6 @@ export const imagineDragonsDreamJorgenOdegardRemixDreamJorgenOdegardRemix = {
   ownLength: 4.608216666666666,
   ownProgress: 4.608216666666666,
   partOfCollections: ["release/imagine-dragons-dream-jorgen-odegard-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

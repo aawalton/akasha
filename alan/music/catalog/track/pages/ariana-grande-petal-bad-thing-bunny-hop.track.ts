@@ -7,7 +7,6 @@ export const arianaGrandePetalBadThingBunnyHop = {
   ownLength: 3.4670666666666667,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 11,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

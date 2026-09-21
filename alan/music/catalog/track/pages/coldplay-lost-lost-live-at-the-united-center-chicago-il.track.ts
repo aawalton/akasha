@@ -7,7 +7,6 @@ export const coldplayLostLostLiveAtTheUnitedCenterChicagoIl = {
   ownLength: 3.92955,
   ownProgress: 3.92955,
   partOfCollections: ["release/coldplay-lost"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandWhereSheepMaySafelyGraze = {
   ownLength: 3.9824333333333333,
   ownProgress: 3.9824333333333333,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayLeftrightleftrightleftLiveVivaLaVidaLiveInParis2008 = {
   ownLength: 5.402216666666667,
   ownProgress: 5.402216666666667,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

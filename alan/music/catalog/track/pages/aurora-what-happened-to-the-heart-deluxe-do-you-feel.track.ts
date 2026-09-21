@@ -10,7 +10,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDoYouFeel = {
     "release/aurora-what-happened-to-the-heart-deluxe",
     "release/aurora-what-happened-to-the-heart",
   ],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
   ownLength: 2.8451,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
-  position: 13,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

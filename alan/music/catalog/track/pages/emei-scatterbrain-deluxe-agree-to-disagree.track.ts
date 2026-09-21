@@ -7,7 +7,6 @@ export const emeiScatterbrainDeluxeAgreeToDisagree = {
   ownLength: 2.371783333333333,
   ownProgress: 2.371783333333333,
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

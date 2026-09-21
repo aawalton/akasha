@@ -7,7 +7,6 @@ export const zaraLarssonUncoverRooftop = {
   ownLength: 3.9922666666666666,
   ownProgress: 3.9922666666666666,
   partOfCollections: ["release/zara-larsson-uncover"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

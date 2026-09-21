@@ -7,7 +7,6 @@ export const arianaGrandeThankUNextBreakUpWithYourGirlfriendImBored = {
   ownLength: 3.174,
   ownProgress: 3.174,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

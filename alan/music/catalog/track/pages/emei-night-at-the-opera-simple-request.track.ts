@@ -7,7 +7,6 @@ export const emeiNightAtTheOperaSimpleRequest = {
   ownLength: 3.81975,
   ownProgress: 0,
   partOfCollections: ["release/emei-night-at-the-opera"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

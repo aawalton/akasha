@@ -11,7 +11,6 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
     "release/coldplay-we-pray-tini-version",
     "release/coldplay-we-pray",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

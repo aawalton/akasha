@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022TheOverthinkingSong = {
   ownLength: 2.5608,
   ownProgress: 2.5608,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefSerenity = {
   ownLength: 3.4583333333333335,
   ownProgress: 3.4583333333333335,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

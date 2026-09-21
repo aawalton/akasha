@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsJesuJoyOfMansDesiring = {
   ownLength: 4.6431,
   ownProgress: 4.6431,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

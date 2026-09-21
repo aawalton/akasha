@@ -7,7 +7,6 @@ export const jamesTaylor2WalkingMan2019RemasterLetItAllFallDown2019Remaster = {
   ownLength: 3.5766666666666667,
   ownProgress: 3.5766666666666667,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

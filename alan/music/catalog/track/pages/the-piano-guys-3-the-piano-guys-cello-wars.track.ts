@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysCelloWars = {
   ownLength: 3.53255,
   ownProgress: 3.53255,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

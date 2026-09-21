@@ -7,7 +7,6 @@ export const paulCardallElizaSThemeElizasTheme = {
   ownLength: 3.646933333333333,
   ownProgress: 3.646933333333333,
   partOfCollections: ["release/paul-cardall-eliza-s-theme", "release/paul-cardall-return-home"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

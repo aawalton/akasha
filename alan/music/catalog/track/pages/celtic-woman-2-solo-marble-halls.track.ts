@@ -7,7 +7,6 @@ export const celticWoman2SoloMarbleHalls = {
   ownLength: 3.825483333333333,
   ownProgress: 3.825483333333333,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayMoonMusicFullMoonEditionUntitled2 = {
   ownLength: 2.5538166666666666,
   ownProgress: 2.5538166666666666,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

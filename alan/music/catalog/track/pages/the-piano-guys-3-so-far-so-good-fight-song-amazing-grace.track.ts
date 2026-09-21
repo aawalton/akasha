@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodFightSongAmazingGrace = {
   ownLength: 4.079816666666667,
   ownProgress: 4.079816666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

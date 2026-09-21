@@ -7,7 +7,6 @@ export const imagineDragonsSmokeMirrorsDeluxeMonster = {
   ownLength: 4.158216666666666,
   ownProgress: 4.158216666666666,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

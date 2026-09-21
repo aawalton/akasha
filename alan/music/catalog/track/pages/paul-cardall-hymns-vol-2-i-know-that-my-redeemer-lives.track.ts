@@ -7,7 +7,6 @@ export const paulCardallHymnsVol2IKnowThatMyRedeemerLives = {
   ownLength: 3.6848833333333335,
   ownProgress: 3.6848833333333335,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

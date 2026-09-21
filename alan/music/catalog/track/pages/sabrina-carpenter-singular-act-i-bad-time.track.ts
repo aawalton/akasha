@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIBadTime = {
   ownLength: 3.07555,
   ownProgress: 3.07555,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

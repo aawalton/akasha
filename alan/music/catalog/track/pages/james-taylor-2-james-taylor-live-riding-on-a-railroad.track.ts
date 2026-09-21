@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveRidingOnARailroad = {
   ownLength: 2.697766666666667,
   ownProgress: 2.697766666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

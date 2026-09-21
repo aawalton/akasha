@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyHaveYourselfAMerryLittleChristm
   ownLength: 3.0241666666666664,
   ownProgress: 3.0241666666666664,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

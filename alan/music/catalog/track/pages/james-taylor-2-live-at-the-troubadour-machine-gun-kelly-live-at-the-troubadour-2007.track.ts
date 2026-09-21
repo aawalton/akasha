@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourMachineGunKellyLiveAtTheTroubadour20
   ownLength: 2.9882166666666667,
   ownProgress: 2.9882166666666667,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

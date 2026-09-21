@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022ThisIsACoat = {
   ownLength: 3.3308,
   ownProgress: 3.3308,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

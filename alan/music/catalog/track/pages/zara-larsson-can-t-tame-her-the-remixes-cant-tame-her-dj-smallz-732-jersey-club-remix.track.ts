@@ -7,7 +7,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerDjSmallz732JerseyClubRem
   ownLength: 2.5131833333333335,
   ownProgress: 2.5131833333333335,
   partOfCollections: ["release/zara-larsson-can-t-tame-her-the-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraAPotionForLoveAPotionForLove = {
   ownLength: 3.6071,
   ownProgress: 3.6071,
   partOfCollections: ["release/aurora-a-potion-for-love"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

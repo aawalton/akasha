@@ -7,7 +7,6 @@ export const zaraLarsson1WannaBeYourBaby = {
   ownLength: 3.080783333333333,
   ownProgress: 3.080783333333333,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

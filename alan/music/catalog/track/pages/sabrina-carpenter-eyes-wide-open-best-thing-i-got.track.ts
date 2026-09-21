@@ -7,7 +7,6 @@ export const sabrinaCarpenterEyesWideOpenBestThingIGot = {
   ownLength: 3.3213333333333335,
   ownProgress: 3.3213333333333335,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

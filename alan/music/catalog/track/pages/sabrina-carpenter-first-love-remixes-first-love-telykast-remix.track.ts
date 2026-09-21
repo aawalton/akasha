@@ -7,7 +7,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveTelykastRemix = {
   ownLength: 3.5368333333333335,
   ownProgress: 3.5368333333333335,
   partOfCollections: ["release/sabrina-carpenter-first-love-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonAllTheTimeAllTheTime = {
   ownLength: 3.8018666666666667,
   ownProgress: 3.8018666666666667,
   partOfCollections: ["release/zara-larsson-all-the-time"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

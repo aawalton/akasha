@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandShowerThePeopleLiveAtTheColonialTheatre2007 =
   ownLength: 4.93955,
   ownProgress: 4.93955,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

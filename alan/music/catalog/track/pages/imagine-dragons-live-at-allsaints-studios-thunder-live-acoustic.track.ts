@@ -7,7 +7,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosThunderLiveAcoustic = {
   ownLength: 3.566666666666667,
   ownProgress: 3.566666666666667,
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

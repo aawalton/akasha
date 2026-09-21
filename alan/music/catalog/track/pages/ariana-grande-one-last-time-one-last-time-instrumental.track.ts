@@ -7,7 +7,6 @@ export const arianaGrandeOneLastTimeOneLastTimeInstrumental = {
   ownLength: 3.314766666666667,
   ownProgress: 3.314766666666667,
   partOfCollections: ["release/ariana-grande-one-last-time"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

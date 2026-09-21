@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryCinemaParadiso20thAnniversary = {
   ownLength: 3.3668833333333335,
   ownProgress: 3.3668833333333335,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

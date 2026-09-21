@@ -7,7 +7,6 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
   ownLength: 2.3138833333333335,
   ownProgress: 2.3138833333333335,
   partOfCollections: ["release/vinny-marchi-the-high-song-mendeleyev-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

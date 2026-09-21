@@ -7,7 +7,6 @@ export const coldplayMoonMusicFullMoonEditionTheKarateKid = {
   ownLength: 2.9244333333333334,
   ownProgress: 2.9244333333333334,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

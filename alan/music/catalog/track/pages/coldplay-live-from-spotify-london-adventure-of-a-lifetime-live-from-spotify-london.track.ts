@@ -7,7 +7,6 @@ export const coldplayLiveFromSpotifyLondonAdventureOfALifetimeLiveFromSpotifyLon
   ownLength: 4.310216666666666,
   ownProgress: 4.310216666666666,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

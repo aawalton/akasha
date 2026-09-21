@@ -10,7 +10,6 @@ export const thePianoGuys310FurEliseJam = {
     "release/the-piano-guys-3-10",
     "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

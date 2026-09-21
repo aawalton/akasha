@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandMayItBe = {
   ownLength: 3.196,
   ownProgress: 3.196,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

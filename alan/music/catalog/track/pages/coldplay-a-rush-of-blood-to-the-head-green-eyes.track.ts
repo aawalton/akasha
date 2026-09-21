@@ -7,7 +7,6 @@ export const coldplayARushOfBloodToTheHeadGreenEyes = {
   ownLength: 3.7173333333333334,
   ownProgress: 3.7173333333333334,
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

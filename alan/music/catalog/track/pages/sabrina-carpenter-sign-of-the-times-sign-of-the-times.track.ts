@@ -7,7 +7,6 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
   ownLength: 4.22115,
   ownProgress: 4.22115,
   partOfCollections: ["release/sabrina-carpenter-sign-of-the-times"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

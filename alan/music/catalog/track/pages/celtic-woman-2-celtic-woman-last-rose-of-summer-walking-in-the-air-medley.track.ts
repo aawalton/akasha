@@ -7,7 +7,6 @@ export const celticWoman2CelticWomanLastRoseOfSummerWalkingInTheAirMedley = {
   ownLength: 4.3337666666666665,
   ownProgress: 4.3337666666666665,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

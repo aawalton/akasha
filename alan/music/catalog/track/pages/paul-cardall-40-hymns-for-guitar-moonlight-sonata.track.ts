@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarMoonlightSonata = {
   ownLength: 4.716666666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 19,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsLoomEyesClosed = {
   ownLength: 3.3337666666666665,
   ownProgress: 3.3337666666666665,
   partOfCollections: ["release/imagine-dragons-loom"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

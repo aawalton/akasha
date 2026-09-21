@@ -7,7 +7,6 @@ export const thePianoGuys3ChillDeStressedOut = {
   ownLength: 3.0403166666666666,
   ownProgress: 3.0403166666666666,
   partOfCollections: ["release/the-piano-guys-3-chill"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

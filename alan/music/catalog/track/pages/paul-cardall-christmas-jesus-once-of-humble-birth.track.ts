@@ -7,7 +7,6 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   ownLength: 3.405866666666667,
   ownProgress: 3.405866666666667,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

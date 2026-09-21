@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyScarboroughFair = {
   ownLength: 3.2162166666666665,
   ownProgress: 3.2162166666666665,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

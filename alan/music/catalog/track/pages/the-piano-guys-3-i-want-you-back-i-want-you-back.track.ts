@@ -7,7 +7,6 @@ export const thePianoGuys3IWantYouBackIWantYouBack = {
   ownLength: 3.0170333333333335,
   ownProgress: 3.0170333333333335,
   partOfCollections: ["release/the-piano-guys-3-i-want-you-back"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

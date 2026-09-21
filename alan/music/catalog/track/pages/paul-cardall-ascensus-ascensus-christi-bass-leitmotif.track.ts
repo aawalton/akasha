@@ -7,7 +7,6 @@ export const paulCardallAscensusAscensusChristiBassLeitmotif = {
   ownLength: 0.5854,
   ownProgress: 0.5854,
   partOfCollections: ["release/paul-cardall-ascensus"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

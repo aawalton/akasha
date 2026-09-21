@@ -7,7 +7,6 @@ export const paulCardallASacredChristmasPianoCollectionSilentNight = {
   ownLength: 5.46785,
   ownProgress: 5.46785,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

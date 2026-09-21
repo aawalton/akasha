@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationPanisAngelicus = {
   ownLength: 3.9404333333333335,
   ownProgress: 3.9404333333333335,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

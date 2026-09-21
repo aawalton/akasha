@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   ownLength: 4.1448833333333335,
   ownProgress: 4.1448833333333335,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

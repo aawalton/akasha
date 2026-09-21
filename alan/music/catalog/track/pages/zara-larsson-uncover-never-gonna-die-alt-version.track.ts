@@ -7,7 +7,6 @@ export const zaraLarssonUncoverNeverGonnaDieAltVersion = {
   ownLength: 3.6742833333333333,
   ownProgress: 3.6742833333333333,
   partOfCollections: ["release/zara-larsson-uncover"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

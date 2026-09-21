@@ -7,7 +7,6 @@ export const theHoldernessFamilyQuarantunesVolOneSongsForSocialDistancingMedley 
   ownLength: 4.519616666666667,
   ownProgress: 4.519616666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

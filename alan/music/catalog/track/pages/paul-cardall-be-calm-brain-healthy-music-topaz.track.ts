@@ -10,7 +10,6 @@ export const paulCardallBeCalmBrainHealthyMusicTopaz = {
     "release/paul-cardall-be-calm-brain-healthy-music",
     "release/paul-cardall-passing-time",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

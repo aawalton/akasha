@@ -7,7 +7,6 @@ export const arianaGrandeProblemProblemInstrumental = {
   ownLength: 3.2228166666666667,
   ownProgress: 3.2228166666666667,
   partOfCollections: ["release/ariana-grande-problem"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

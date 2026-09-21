@@ -7,7 +7,6 @@ export const zaraLarssonLushLifeTheRemixesLushLifeAlexAdairRemix = {
   ownLength: 3.57485,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-lush-life-the-remixes"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

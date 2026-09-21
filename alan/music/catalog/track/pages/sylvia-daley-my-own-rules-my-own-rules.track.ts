@@ -7,7 +7,6 @@ export const sylviaDaleyMyOwnRulesMyOwnRules = {
   ownLength: 2.5697833333333335,
   ownProgress: 0,
   partOfCollections: ["release/sylvia-daley-my-own-rules"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

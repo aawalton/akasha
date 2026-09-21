@@ -7,7 +7,6 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn2x = {
   ownLength: 2.7720333333333333,
   ownProgress: 2.7720333333333333,
   partOfCollections: ["release/jisoo-eyes-closed-with-zayn-2x"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

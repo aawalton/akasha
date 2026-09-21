@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
   ownLength: 3.66155,
   ownProgress: 3.66155,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

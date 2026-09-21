@@ -7,7 +7,6 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   ownLength: 2.568766666666667,
   ownProgress: 2.568766666666667,
   partOfCollections: ["release/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

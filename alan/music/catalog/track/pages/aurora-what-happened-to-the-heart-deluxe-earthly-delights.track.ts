@@ -10,7 +10,6 @@ export const auroraWhatHappenedToTheHeartDeluxeEarthlyDelights = {
     "release/aurora-what-happened-to-the-heart-deluxe",
     "release/aurora-what-happened-to-the-heart",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

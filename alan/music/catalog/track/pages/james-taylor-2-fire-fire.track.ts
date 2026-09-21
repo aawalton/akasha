@@ -7,7 +7,6 @@ export const jamesTaylor2FireFire = {
   ownLength: 5.083333333333333,
   ownProgress: 5.083333333333333,
   partOfCollections: ["release/james-taylor-2-fire"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

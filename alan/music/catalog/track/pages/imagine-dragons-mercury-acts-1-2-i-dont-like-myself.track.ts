@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12IDontLikeMyself = {
   ownLength: 3.0915833333333333,
   ownProgress: 3.0915833333333333,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

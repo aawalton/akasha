@@ -7,7 +7,6 @@ export const sabrinaCarpenterFruitcakeBuyMePresents = {
   ownLength: 2.9560833333333334,
   ownProgress: 2.9560833333333334,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIiLookingAtMe = {
   ownLength: 3.018666666666667,
   ownProgress: 3.018666666666667,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

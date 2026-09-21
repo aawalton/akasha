@@ -7,7 +7,6 @@ export const coldplayASkyFullOfStarsHardwellRemixASkyFullOfStarsHardwellRemix = 
   ownLength: 5.218733333333334,
   ownProgress: 5.218733333333334,
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-hardwell-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

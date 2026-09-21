@@ -7,7 +7,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneDownWithAdd = {
   ownLength: 2.0340666666666665,
   ownProgress: 2.0340666666666665,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

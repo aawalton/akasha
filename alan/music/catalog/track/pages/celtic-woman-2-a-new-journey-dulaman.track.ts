@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyDulaman = {
   ownLength: 3.0917666666666666,
   ownProgress: 3.0917666666666666,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

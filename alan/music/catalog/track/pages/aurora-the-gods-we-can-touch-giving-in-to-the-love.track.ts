@@ -7,7 +7,6 @@ export const auroraTheGodsWeCanTouchGivingInToTheLove = {
   ownLength: 3.0222166666666666,
   ownProgress: 3.0222166666666666,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

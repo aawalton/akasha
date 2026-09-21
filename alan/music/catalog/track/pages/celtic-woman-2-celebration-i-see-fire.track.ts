@@ -7,7 +7,6 @@ export const celticWoman2CelebrationISeeFire = {
   ownLength: 5.15155,
   ownProgress: 5.15155,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

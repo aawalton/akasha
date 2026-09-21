@@ -7,7 +7,6 @@ export const celticWoman2EmeraldMusicalGemsThePartingGlass = {
   ownLength: 4.287983333333333,
   ownProgress: 4.287983333333333,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

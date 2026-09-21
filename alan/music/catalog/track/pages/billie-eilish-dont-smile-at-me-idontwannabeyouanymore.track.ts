@@ -7,7 +7,6 @@ export const billieEilishDontSmileAtMeIdontwannabeyouanymore = {
   ownLength: 3.3928166666666666,
   ownProgress: 3.3928166666666666,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

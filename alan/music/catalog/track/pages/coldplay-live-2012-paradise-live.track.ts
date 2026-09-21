@@ -7,7 +7,6 @@ export const coldplayLive2012ParadiseLive = {
   ownLength: 5.534666666666666,
   ownProgress: 5.534666666666666,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

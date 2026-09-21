@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetGodOurFatherHearUsPray = {
   ownLength: 3.023233333333333,
   ownProgress: 3.023233333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 22,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

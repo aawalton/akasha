@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsFirstBreath = {
   ownLength: 3.9583333333333335,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 10,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

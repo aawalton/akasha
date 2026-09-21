@@ -7,7 +7,6 @@ export const emeiEndOfAnEraTrustIssues = {
   ownLength: 2.348,
   ownProgress: 2.348,
   partOfCollections: ["release/emei-end-of-an-era", "release/emei-trust-issues"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveSteamrollerBlues = {
   ownLength: 5.400433333333333,
   ownProgress: 5.400433333333333,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

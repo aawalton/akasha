@@ -7,7 +7,6 @@ export const emeiDistractedDistracted = {
   ownLength: 2.68,
   ownProgress: 2.68,
   partOfCollections: ["release/emei-distracted"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

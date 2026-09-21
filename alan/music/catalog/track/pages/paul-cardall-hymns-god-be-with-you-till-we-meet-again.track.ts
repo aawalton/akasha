@@ -7,7 +7,6 @@ export const paulCardallHymnsGodBeWithYouTillWeMeetAgain = {
   ownLength: 3.2946666666666666,
   ownProgress: 3.2946666666666666,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

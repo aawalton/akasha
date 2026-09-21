@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedTheJungleBookSarabande = {
   ownLength: 3.7020833333333334,
   ownProgress: 3.7020833333333334,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

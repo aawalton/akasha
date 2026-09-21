@@ -10,7 +10,6 @@ export const thePianoGuys310OverTheRainbowSimpleGifts = {
     "release/the-piano-guys-3-10",
     "release/the-piano-guys-3-classical-movie-soundtracks",
   ],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

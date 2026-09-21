@@ -7,7 +7,6 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeSpedUp = {
   ownLength: 3.0595166666666667,
   ownProgress: 3.0595166666666667,
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

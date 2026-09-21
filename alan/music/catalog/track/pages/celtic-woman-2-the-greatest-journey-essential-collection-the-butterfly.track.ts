@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheButterfly = {
   ownLength: 3.0126666666666666,
   ownProgress: 3.0126666666666666,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

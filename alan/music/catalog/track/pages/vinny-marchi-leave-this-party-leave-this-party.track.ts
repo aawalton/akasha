@@ -7,7 +7,6 @@ export const vinnyMarchiLeaveThisPartyLeaveThisParty = {
   ownLength: 3.99125,
   ownProgress: 3.99125,
   partOfCollections: ["release/vinny-marchi-leave-this-party"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

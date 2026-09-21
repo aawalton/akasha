@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedUncharted = {
   ownLength: 3.535416666666667,
   ownProgress: 3.535416666666667,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarINeedTheeEveryHour = {
   ownLength: 3.716666666666667,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 5,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

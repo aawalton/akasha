@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionThumbs = {
   ownLength: 3.6077666666666666,
   ownProgress: 3.6077666666666666,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

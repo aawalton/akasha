@@ -7,7 +7,6 @@ export const coldplayKaleidoscopeEpHypnotisedEpMix = {
   ownLength: 6.52355,
   ownProgress: 6.52355,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

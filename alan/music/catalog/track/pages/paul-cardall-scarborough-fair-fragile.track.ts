@@ -7,7 +7,6 @@ export const paulCardallScarboroughFairFragile = {
   ownLength: 2.84125,
   ownProgress: 2.84125,
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

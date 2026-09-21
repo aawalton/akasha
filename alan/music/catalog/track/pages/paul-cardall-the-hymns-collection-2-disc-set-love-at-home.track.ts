@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetLoveAtHome = {
   ownLength: 3.8147333333333333,
   ownProgress: 3.8147333333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

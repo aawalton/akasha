@@ -7,7 +7,6 @@ export const paulCardallSignOfTheTimesSignOfTheTimes = {
   ownLength: 4.18385,
   ownProgress: 4.18385,
   partOfCollections: ["release/paul-cardall-sign-of-the-times"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

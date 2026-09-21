@@ -7,7 +7,6 @@ export const thePianoGuysSerenityBlessTheBrokenRoad = {
   ownLength: 3.924,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 7,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

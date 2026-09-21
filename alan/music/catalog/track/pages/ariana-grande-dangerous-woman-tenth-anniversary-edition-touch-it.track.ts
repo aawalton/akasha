@@ -7,7 +7,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionTouchIt = {
   ownLength: 4.333433333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
-  position: 13,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

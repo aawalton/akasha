@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineSlapLeather = {
   ownLength: 1.9644333333333333,
   ownProgress: 1.9644333333333333,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

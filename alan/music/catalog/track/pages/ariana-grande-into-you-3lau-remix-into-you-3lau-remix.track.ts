@@ -7,7 +7,6 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
   ownLength: 3.2857666666666665,
   ownProgress: 3.2857666666666665,
   partOfCollections: ["release/ariana-grande-into-you-3lau-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

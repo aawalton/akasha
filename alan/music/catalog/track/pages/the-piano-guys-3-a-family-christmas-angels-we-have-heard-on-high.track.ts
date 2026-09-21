@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
   ownLength: 3.5456833333333333,
   ownProgress: 3.5456833333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

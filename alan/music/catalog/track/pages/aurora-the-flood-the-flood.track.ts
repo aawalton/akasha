@@ -10,7 +10,6 @@ export const auroraTheFloodTheFlood = {
     "release/aurora-the-flood",
     "release/aurora-what-happened-to-the-heart-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

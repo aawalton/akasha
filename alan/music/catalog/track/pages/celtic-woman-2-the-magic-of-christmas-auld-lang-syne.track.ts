@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasAuldLangSyne = {
   ownLength: 4.652,
   ownProgress: 4.652,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

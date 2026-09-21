@@ -7,7 +7,6 @@ export const paulCardallChillCollectionWasatch = {
   ownLength: 3.60925,
   ownProgress: 3.60925,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

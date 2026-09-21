@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarGreatIsThyFaithfullness = {
   ownLength: 2.9145833333333333,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 25,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

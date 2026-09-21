@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoDeepWaters = {
   ownLength: 3.4191,
   ownProgress: 3.4191,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

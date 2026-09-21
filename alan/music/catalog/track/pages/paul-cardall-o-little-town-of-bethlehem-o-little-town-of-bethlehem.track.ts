@@ -7,7 +7,6 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
   ownLength: 4.108516666666667,
   ownProgress: 4.108516666666667,
   partOfCollections: ["release/paul-cardall-o-little-town-of-bethlehem"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

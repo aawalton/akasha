@@ -7,7 +7,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoIlomilo = {
   ownLength: 2.6061666666666667,
   ownProgress: 2.6061666666666667,
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

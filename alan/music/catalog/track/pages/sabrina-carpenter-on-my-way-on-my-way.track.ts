@@ -7,7 +7,6 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
   ownLength: 3.22995,
   ownProgress: 3.22995,
   partOfCollections: ["release/sabrina-carpenter-on-my-way"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

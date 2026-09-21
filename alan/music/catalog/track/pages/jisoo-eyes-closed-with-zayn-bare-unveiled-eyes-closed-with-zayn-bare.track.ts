@@ -7,7 +7,6 @@ export const jisooEyesClosedWithZaynBareUnveiledEyesClosedWithZaynBare = {
   ownLength: 3.0133,
   ownProgress: 3.0133,
   partOfCollections: ["release/jisoo-eyes-closed-with-zayn-bare-unveiled"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

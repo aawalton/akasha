@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessNorthCape = {
   ownLength: 2.9937,
   ownProgress: 2.9937,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeThankUNextFakeSmile = {
   ownLength: 3.481333333333333,
   ownProgress: 3.481333333333333,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

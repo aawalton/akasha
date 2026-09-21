@@ -11,7 +11,6 @@ export const thePianoGuys310WhatMakesYouBeautiful = {
     "release/the-piano-guys-3-classical-love-romance",
     "release/the-piano-guys-3-pop-on-piano",
   ],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

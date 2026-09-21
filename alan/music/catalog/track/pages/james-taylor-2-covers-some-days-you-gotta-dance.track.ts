@@ -7,7 +7,6 @@ export const jamesTaylor2CoversSomeDaysYouGottaDance = {
   ownLength: 2.6568833333333335,
   ownProgress: 2.6568833333333335,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

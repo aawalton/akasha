@@ -7,7 +7,6 @@ export const zaraLarssonSymphonyFeatZaraLarssonSymphonyFeatZaraLarsson = {
   ownLength: 3.540983333333333,
   ownProgress: 3.540983333333333,
   partOfCollections: ["release/zara-larsson-symphony-feat-zara-larsson"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTattooedHeart = {
   ownLength: 3.2451,
   ownProgress: 3.2451,
   partOfCollections: ["release/ariana-grande-yours-truly"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

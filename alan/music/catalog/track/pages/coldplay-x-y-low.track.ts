@@ -7,7 +7,6 @@ export const coldplayXYLow = {
   ownLength: 5.535066666666666,
   ownProgress: 5.535066666666666,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

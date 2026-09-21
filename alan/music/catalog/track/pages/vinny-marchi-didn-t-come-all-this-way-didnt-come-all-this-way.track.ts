@@ -10,7 +10,6 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
     "release/vinny-marchi-didn-t-come-all-this-way",
     "release/vinny-marchi-tales-of-the-lesbian-hunter",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

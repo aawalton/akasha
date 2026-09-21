@@ -7,7 +7,6 @@ export const coldplayEverydayLifeDaddy = {
   ownLength: 4.972,
   ownProgress: 4.972,
   partOfCollections: ["release/coldplay-everyday-life"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

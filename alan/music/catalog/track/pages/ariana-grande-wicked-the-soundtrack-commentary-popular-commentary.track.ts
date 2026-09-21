@@ -7,7 +7,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopularCommentary = {
   ownLength: 1.1947833333333333,
   ownProgress: 1.1947833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

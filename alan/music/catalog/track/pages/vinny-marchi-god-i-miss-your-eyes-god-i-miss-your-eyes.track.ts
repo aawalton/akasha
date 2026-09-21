@@ -7,7 +7,6 @@ export const vinnyMarchiGodIMissYourEyesGodIMissYourEyes = {
   ownLength: 3.79145,
   ownProgress: 3.79145,
   partOfCollections: ["release/vinny-marchi-god-i-miss-your-eyes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

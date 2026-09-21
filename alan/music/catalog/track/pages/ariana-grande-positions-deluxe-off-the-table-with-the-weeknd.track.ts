@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
   ownLength: 3.99915,
   ownProgress: 3.99915,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

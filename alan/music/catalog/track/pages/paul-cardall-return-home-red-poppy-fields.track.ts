@@ -7,7 +7,6 @@ export const paulCardallReturnHomeRedPoppyFields = {
   ownLength: 4.00485,
   ownProgress: 4.00485,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonIWouldLikeGorgonCityRemixIWouldLikeGorgonCityRemix = {
   ownLength: 4.39425,
   ownProgress: 4.39425,
   partOfCollections: ["release/zara-larsson-i-would-like-gorgon-city-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

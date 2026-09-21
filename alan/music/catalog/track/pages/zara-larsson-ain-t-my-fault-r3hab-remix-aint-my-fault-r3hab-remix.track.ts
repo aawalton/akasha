@@ -7,7 +7,6 @@ export const zaraLarssonAinTMyFaultR3habRemixAintMyFaultR3habRemix = {
   ownLength: 2.6462,
   ownProgress: 2.6462,
   partOfCollections: ["release/zara-larsson-ain-t-my-fault-r3hab-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   ownLength: 2.50955,
   ownProgress: 2.50955,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

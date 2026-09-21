@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeLiveFromR
   ownLength: 4.892,
   ownProgress: 4.892,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

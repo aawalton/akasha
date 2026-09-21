@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarKingsfold = {
   ownLength: 3.4166666666666665,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

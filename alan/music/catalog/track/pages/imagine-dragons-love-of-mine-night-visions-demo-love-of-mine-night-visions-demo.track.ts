@@ -10,7 +10,6 @@ export const imagineDragonsLoveOfMineNightVisionsDemoLoveOfMineNightVisionsDemo 
     "release/imagine-dragons-love-of-mine-night-visions-demo",
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

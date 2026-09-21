@@ -7,7 +7,6 @@ export const arianaGrandeThankUNextNasa = {
   ownLength: 3.033333333333333,
   ownProgress: 3.033333333333333,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

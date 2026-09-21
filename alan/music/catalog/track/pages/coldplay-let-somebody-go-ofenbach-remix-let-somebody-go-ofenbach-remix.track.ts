@@ -7,7 +7,6 @@ export const coldplayLetSomebodyGoOfenbachRemixLetSomebodyGoOfenbachRemix = {
   ownLength: 3.24145,
   ownProgress: 3.24145,
   partOfCollections: ["release/coldplay-let-somebody-go-ofenbach-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

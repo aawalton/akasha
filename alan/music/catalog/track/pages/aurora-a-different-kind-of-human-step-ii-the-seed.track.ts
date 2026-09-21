@@ -13,7 +13,6 @@ export const auroraADifferentKindOfHumanStepIiTheSeed = {
     "release/aurora-music-for-the-fellow-witches-out-there",
     "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
   ],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

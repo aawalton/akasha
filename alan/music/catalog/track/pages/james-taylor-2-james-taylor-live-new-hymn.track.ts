@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveNewHymn = {
   ownLength: 3.0137666666666667,
   ownProgress: 3.0137666666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

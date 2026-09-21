@@ -7,7 +7,6 @@ export const paulCardallLiveHymnMedleyLive = {
   ownLength: 6.893766666666667,
   ownProgress: 6.893766666666667,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

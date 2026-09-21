@@ -7,7 +7,6 @@ export const sabrinaCarpenterEspressoEpEspressoDoubleShotVersion = {
   ownLength: 2.484383333333333,
   ownProgress: 2.484383333333333,
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

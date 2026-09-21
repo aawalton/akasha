@@ -7,7 +7,6 @@ export const thePianoGuys3WondersBatmanEvolution = {
   ownLength: 4.1591,
   ownProgress: 4.1591,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

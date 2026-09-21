@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseDeeper = {
   ownLength: 3.584216666666667,
   ownProgress: 3.584216666666667,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

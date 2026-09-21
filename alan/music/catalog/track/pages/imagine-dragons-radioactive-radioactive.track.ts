@@ -7,7 +7,6 @@ export const imagineDragonsRadioactiveRadioactive = {
   ownLength: 4.600666666666666,
   ownProgress: 4.600666666666666,
   partOfCollections: ["release/imagine-dragons-radioactive"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

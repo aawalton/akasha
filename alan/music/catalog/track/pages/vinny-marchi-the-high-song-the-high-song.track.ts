@@ -7,7 +7,6 @@ export const vinnyMarchiTheHighSongTheHighSong = {
   ownLength: 2.4917666666666665,
   ownProgress: 2.4917666666666665,
   partOfCollections: ["release/vinny-marchi-the-high-song"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

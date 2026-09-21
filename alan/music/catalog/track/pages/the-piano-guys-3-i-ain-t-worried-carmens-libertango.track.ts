@@ -11,7 +11,6 @@ export const thePianoGuys3IAinTWorriedCarmensLibertango = {
     "release/the-piano-guys-3-unstoppable-2",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

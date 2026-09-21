@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsCutTheCake = {
   ownLength: 3.6867833333333335,
   ownProgress: 3.6867833333333335,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

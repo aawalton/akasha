@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseProdigal = {
   ownLength: 5.022433333333334,
   ownProgress: 5.022433333333334,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

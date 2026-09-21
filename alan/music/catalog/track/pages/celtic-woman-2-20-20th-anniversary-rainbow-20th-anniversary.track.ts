@@ -7,7 +7,6 @@ export const celticWoman22020thAnniversaryRainbow20thAnniversary = {
   ownLength: 3.645766666666667,
   ownProgress: 3.645766666666667,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

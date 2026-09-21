@@ -7,7 +7,6 @@ export const arianaGrandeKByeForNowSwtLiveGodIsAWomanLive = {
   ownLength: 3.5511333333333335,
   ownProgress: 3.5511333333333335,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

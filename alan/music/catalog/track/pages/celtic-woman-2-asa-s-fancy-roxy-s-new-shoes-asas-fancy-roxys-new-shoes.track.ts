@@ -7,7 +7,6 @@ export const celticWoman2AsaSFancyRoxySNewShoesAsasFancyRoxysNewShoes = {
   ownLength: 3.6125,
   ownProgress: 3.6125,
   partOfCollections: ["release/celtic-woman-2-asa-s-fancy-roxy-s-new-shoes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

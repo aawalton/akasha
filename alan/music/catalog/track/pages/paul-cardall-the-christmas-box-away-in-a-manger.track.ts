@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxAwayInAManger = {
   ownLength: 2.929333333333333,
   ownProgress: 2.929333333333333,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

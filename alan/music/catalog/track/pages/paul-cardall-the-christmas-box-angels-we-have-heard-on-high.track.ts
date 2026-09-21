@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxAngelsWeHaveHeardOnHigh = {
   ownLength: 2.736666666666667,
   ownProgress: 2.736666666666667,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

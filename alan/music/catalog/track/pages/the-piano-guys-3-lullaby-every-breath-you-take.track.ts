@@ -11,7 +11,6 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
     "release/the-piano-guys-3-wedding-season",
     "release/the-piano-guys-autumn-on-piano",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

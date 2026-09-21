@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipJesusSaidLoveEveryone = {
   ownLength: 4.134883333333334,
   ownProgress: 4.134883333333334,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

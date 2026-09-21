@@ -7,7 +7,6 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
   ownLength: 4.122166666666667,
   ownProgress: 4.122166666666667,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysJesusWantsMeForASunbeam = {
   ownLength: 2.1884333333333332,
   ownProgress: 2.1884333333333332,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

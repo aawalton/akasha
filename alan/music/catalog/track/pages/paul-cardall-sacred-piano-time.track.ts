@@ -7,7 +7,6 @@ export const paulCardallSacredPianoTime = {
   ownLength: 3.1671,
   ownProgress: 3.1671,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

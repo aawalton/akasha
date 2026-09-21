@@ -7,7 +7,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSweetBabyJames2019Remaster = 
   ownLength: 2.89555,
   ownProgress: 2.89555,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

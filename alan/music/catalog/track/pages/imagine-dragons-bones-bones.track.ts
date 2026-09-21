@@ -7,7 +7,6 @@ export const imagineDragonsBonesBones = {
   ownLength: 2.7544,
   ownProgress: 2.7544,
   partOfCollections: ["release/imagine-dragons-bones", "release/imagine-dragons-mercury-acts-1-2"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

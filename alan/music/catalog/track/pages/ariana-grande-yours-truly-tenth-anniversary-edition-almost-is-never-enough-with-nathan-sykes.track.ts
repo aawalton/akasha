@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionAlmostIsNeverEnoughWit
   ownLength: 5.462916666666667,
   ownProgress: 5.462916666666667,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

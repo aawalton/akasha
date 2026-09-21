@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetComeComeYeSaints = {
   ownLength: 4.20745,
   ownProgress: 4.20745,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

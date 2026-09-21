@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveYouveGotAFriendLive = {
   ownLength: 5.146216666666667,
   ownProgress: 5.146216666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

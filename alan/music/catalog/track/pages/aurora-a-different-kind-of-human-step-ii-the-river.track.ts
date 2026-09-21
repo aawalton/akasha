@@ -11,7 +11,6 @@ export const auroraADifferentKindOfHumanStepIiTheRiver = {
     "release/aurora-apple-tree-georgia-remix",
     "release/aurora-the-river-askjell-remix",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

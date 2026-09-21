@@ -7,7 +7,6 @@ export const vinnyMarchiIHeardMrRamoneIHeardMrRamone = {
   ownLength: 3.50075,
   ownProgress: 3.50075,
   partOfCollections: ["release/vinny-marchi-i-heard-mr-ramone"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

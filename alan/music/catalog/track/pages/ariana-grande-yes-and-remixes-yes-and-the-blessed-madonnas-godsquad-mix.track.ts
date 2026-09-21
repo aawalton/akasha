@@ -10,7 +10,6 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
     "release/ariana-grande-yes-and-remixes",
     "release/ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

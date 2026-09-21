@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetHowGreatTheWisdomAndTheLove = 
   ownLength: 2.442,
   ownProgress: 2.442,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

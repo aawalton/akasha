@@ -7,7 +7,6 @@ export const imagineDragonsEvolveDancingInTheDark = {
   ownLength: 3.8988833333333335,
   ownProgress: 3.8988833333333335,
   partOfCollections: ["release/imagine-dragons-evolve"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

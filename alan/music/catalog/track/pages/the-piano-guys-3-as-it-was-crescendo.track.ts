@@ -7,7 +7,6 @@ export const thePianoGuys3AsItWasCrescendo = {
   ownLength: 3.2361,
   ownProgress: 3.2361,
   partOfCollections: ["release/the-piano-guys-3-as-it-was"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

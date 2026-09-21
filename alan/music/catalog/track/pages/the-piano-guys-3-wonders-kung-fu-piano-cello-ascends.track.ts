@@ -7,7 +7,6 @@ export const thePianoGuys3WondersKungFuPianoCelloAscends = {
   ownLength: 4.041333333333333,
   ownProgress: 4.041333333333333,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

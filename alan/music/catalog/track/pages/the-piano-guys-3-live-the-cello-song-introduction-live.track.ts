@@ -7,7 +7,6 @@ export const thePianoGuys3LiveTheCelloSongIntroductionLive = {
   ownLength: 1.48155,
   ownProgress: 1.48155,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

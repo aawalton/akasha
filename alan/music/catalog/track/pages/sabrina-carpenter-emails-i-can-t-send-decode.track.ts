@@ -10,7 +10,6 @@ export const sabrinaCarpenterEmailsICanTSendDecode = {
     "release/sabrina-carpenter-emails-i-can-t-send",
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
   ],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2LullabyWhenYouWishUponAStar = {
   ownLength: 3.2851,
   ownProgress: 3.2851,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

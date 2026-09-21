@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveSunOnTheMoon = {
   ownLength: 3.746,
   ownProgress: 3.746,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

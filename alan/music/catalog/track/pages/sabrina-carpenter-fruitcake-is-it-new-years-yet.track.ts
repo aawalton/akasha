@@ -7,7 +7,6 @@ export const sabrinaCarpenterFruitcakeIsItNewYearsYet = {
   ownLength: 2.643,
   ownProgress: 2.643,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

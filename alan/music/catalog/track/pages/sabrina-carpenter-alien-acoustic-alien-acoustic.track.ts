@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlienAcousticAlienAcoustic = {
   ownLength: 3.4104833333333335,
   ownProgress: 3.4104833333333335,
   partOfCollections: ["release/sabrina-carpenter-alien-acoustic"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

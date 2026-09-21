@@ -7,7 +7,6 @@ export const celticWoman2SoloToWhereYouAre = {
   ownLength: 3.897466666666667,
   ownProgress: 3.897466666666667,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

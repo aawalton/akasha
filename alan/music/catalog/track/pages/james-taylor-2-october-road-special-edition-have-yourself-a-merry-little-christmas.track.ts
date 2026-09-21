@@ -7,7 +7,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionHaveYourselfAMerryLittleChrist
   ownLength: 3.8388833333333334,
   ownProgress: 3.8388833333333334,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

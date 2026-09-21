@@ -7,7 +7,6 @@ export const thePianoGuys3PicturesAtAnExhibitionPicturesAtAnExhibition = {
   ownLength: 4.004166666666666,
   ownProgress: 4.004166666666666,
   partOfCollections: ["release/the-piano-guys-3-pictures-at-an-exhibition"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

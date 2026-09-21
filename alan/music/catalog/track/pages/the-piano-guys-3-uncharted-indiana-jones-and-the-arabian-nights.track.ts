@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
   ownLength: 3.4385333333333334,
   ownProgress: 3.4385333333333334,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

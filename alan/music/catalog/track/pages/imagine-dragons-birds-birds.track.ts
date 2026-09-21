@@ -7,7 +7,6 @@ export const imagineDragonsBirdsBirds = {
   ownLength: 3.6573333333333333,
   ownProgress: 3.6573333333333333,
   partOfCollections: ["release/imagine-dragons-birds", "release/imagine-dragons-origins-deluxe"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

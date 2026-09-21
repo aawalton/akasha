@@ -7,7 +7,6 @@ export const celticWoman2SoloBridgeOverTroubleWaters = {
   ownLength: 4.050716666666666,
   ownProgress: 4.050716666666666,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const auroraComeCloserRingTheAlarm = {
   ownLength: 5.52355,
   ownProgress: 5.52355,
   partOfCollections: ["release/aurora-come-closer", "release/aurora-ring-the-alarm"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

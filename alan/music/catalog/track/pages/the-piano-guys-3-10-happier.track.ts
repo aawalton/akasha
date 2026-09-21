@@ -11,7 +11,6 @@ export const thePianoGuys310Happier = {
     "release/the-piano-guys-3-happier",
     "release/the-piano-guys-3-pop-on-piano",
   ],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

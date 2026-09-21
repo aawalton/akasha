@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxSilentNight = {
   ownLength: 5.466666666666667,
   ownProgress: 5.466666666666667,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeCoolOut = {
   ownLength: 3.6311,
   ownProgress: 3.6311,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

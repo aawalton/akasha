@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuys2TwinkleLullaby = {
   ownLength: 1.8541666666666667,
   ownProgress: 1.8541666666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

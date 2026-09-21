@@ -7,7 +7,6 @@ export const vinnyMarchiSugarStarsStarlight = {
   ownLength: 3.59615,
   ownProgress: 3.59615,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

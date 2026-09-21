@@ -7,7 +7,6 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
   ownLength: 5.248883333333334,
   ownProgress: 5.248883333333334,
   partOfCollections: ["release/aurora-a-soul-with-no-king-remix-feat-nature"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

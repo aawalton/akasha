@@ -7,7 +7,6 @@ export const thePianoGuys3UnchartedFightSongAmazingGrace = {
   ownLength: 4.0802,
   ownProgress: 4.0802,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftBlue = {
   ownLength: 5.718666666666667,
   ownProgress: 5.718666666666667,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterCaptainJimsDrunkenDream2019Remas
   ownLength: 4.0591,
   ownProgress: 4.0591,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

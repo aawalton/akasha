@@ -7,7 +7,6 @@ export const celticWoman2ANewJourneyTheSkyAndTheDawnAndTheSun = {
   ownLength: 5.328433333333333,
   ownProgress: 5.328433333333333,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

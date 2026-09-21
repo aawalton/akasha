@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sWhosDad = {
   ownLength: 2.0610333333333335,
   ownProgress: 2.0610333333333335,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

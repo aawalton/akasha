@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysArwensVigil = {
   ownLength: 3.927983333333333,
   ownProgress: 3.927983333333333,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

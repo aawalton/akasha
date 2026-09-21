@@ -7,7 +7,6 @@ export const imagineDragonsMercuryActs12FerrisWheel = {
   ownLength: 3.3979166666666667,
   ownProgress: 3.3979166666666667,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiComeOnComeOnComeOnComeOn = {
   ownLength: 2.482083333333333,
   ownProgress: 2.482083333333333,
   partOfCollections: ["release/vinny-marchi-come-on-come-on"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

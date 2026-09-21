@@ -7,7 +7,6 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   ownLength: 4.5437666666666665,
   ownProgress: 4.5437666666666665,
   partOfCollections: ["release/coldplay-fix-you-2", "release/coldplay-fix-you"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGoPianoVersion = {
   ownLength: 4.151416666666667,
   ownProgress: 4.151416666666667,
   partOfCollections: ["release/coldplay-let-somebody-go-piano-version"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

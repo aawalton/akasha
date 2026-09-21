@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodAllOfMe = {
   ownLength: 3.058666666666667,
   ownProgress: 3.058666666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

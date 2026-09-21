@@ -7,7 +7,6 @@ export const celticWoman2LullabyStayAwake = {
   ownLength: 3.3802166666666666,
   ownProgress: 3.3802166666666666,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

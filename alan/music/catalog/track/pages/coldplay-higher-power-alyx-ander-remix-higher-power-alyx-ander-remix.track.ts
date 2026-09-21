@@ -7,7 +7,6 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
   ownLength: 2.5604833333333334,
   ownProgress: 2.5604833333333334,
   partOfCollections: ["release/coldplay-higher-power-alyx-ander-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

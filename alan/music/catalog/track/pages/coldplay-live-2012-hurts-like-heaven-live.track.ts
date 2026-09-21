@@ -7,7 +7,6 @@ export const coldplayLive2012HurtsLikeHeavenLive = {
   ownLength: 4.272216666666667,
   ownProgress: 4.272216666666667,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

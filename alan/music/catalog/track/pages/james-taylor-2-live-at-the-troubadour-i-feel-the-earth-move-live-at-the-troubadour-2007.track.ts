@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourIFeelTheEarthMoveLiveAtTheTroubadour
   ownLength: 4.086216666666667,
   ownProgress: 4.086216666666667,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

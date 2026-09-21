@@ -7,7 +7,6 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
   ownLength: 2.7020833333333334,
   ownProgress: 0,
   partOfCollections: ["release/sylvia-daley-make-friends"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionMeanOldMan = {
   ownLength: 3.6826666666666665,
   ownProgress: 3.6826666666666665,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

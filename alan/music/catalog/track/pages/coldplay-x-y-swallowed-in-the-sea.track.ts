@@ -7,7 +7,6 @@ export const coldplayXYSwallowedInTheSea = {
   ownLength: 3.98335,
   ownProgress: 3.98335,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsDeluxeRoundAndRound = {
   ownLength: 3.282216666666667,
   ownProgress: 3.282216666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallGraceInGriefMourningLight = {
   ownLength: 3.85,
   ownProgress: 3.85,
   partOfCollections: ["release/paul-cardall-grace-in-grief", "release/paul-cardall-mourning-light"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

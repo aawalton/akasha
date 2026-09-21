@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasGreensleeves = {
   ownLength: 3.6151,
   ownProgress: 3.6151,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallScarboroughFairSweetSeptember = {
   ownLength: 3.0182166666666665,
   ownProgress: 3.0182166666666665,
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

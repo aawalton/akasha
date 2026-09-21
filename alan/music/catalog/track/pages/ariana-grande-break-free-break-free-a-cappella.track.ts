@@ -7,7 +7,6 @@ export const arianaGrandeBreakFreeBreakFreeACappella = {
   ownLength: 3.3838,
   ownProgress: 3.3838,
   partOfCollections: ["release/ariana-grande-break-free"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

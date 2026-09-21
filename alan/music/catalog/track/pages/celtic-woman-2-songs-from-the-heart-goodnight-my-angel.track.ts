@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartGoodnightMyAngel = {
   ownLength: 3.2477666666666667,
   ownProgress: 3.2477666666666667,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

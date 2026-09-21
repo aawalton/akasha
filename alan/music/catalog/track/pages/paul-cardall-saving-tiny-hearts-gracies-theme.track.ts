@@ -7,7 +7,6 @@ export const paulCardallSavingTinyHeartsGraciesTheme = {
   ownLength: 4.637766666666667,
   ownProgress: 4.637766666666667,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdHowManyThings = {
     "release/sabrina-carpenter-emails-i-can-t-send-fwd",
     "release/sabrina-carpenter-emails-i-can-t-send",
   ],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

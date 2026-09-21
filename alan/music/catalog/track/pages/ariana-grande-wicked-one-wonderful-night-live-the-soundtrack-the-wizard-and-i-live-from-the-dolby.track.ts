@@ -8,7 +8,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   ownLength: 5.883583333333333,
   ownProgress: 5.883583333333333,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
     "release/the-piano-guys-3-the-first-noel",
     "release/the-piano-guys-classical-for-studying",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

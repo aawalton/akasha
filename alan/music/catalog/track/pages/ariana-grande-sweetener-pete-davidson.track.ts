@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerPeteDavidson = {
   ownLength: 1.2302166666666667,
   ownProgress: 1.2302166666666667,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

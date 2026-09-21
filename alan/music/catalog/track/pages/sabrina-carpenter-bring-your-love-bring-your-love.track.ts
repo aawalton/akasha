@@ -7,7 +7,6 @@ export const sabrinaCarpenterBringYourLoveBringYourLove = {
   ownLength: 3.6066666666666665,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-bring-your-love"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

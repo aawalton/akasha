@@ -7,7 +7,6 @@ export const sabrinaCarpenterSingularActIHoldTight = {
   ownLength: 2.9193333333333333,
   ownProgress: 2.9193333333333333,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

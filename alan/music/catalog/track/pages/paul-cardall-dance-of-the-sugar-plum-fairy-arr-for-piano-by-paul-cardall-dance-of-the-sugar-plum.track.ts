@@ -9,7 +9,6 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardallDanceOfT
   partOfCollections: [
     "release/paul-cardall-dance-of-the-sugar-plum-fairy-arr-for-piano-by-paul-cardall",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

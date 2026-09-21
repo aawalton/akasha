@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineNativeSon = {
   ownLength: 3.8011,
   ownProgress: 3.8011,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

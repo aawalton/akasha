@@ -7,7 +7,6 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
   ownLength: 4.064183333333333,
   ownProgress: 0,
   partOfCollections: ["release/aurora-have-you-seen-me-dance-alone-rosa-pistola-remix"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

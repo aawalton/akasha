@@ -7,7 +7,6 @@ export const jamesTaylor2JamesTaylorLiveFireAndRain = {
   ownLength: 4.554433333333333,
   ownProgress: 4.554433333333333,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

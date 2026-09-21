@@ -7,7 +7,6 @@ export const celticWoman2DestinyOroSeDoBheathaBhaile = {
   ownLength: 3.2096666666666667,
   ownProgress: 3.2096666666666667,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

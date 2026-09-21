@@ -11,7 +11,6 @@ export const zaraLarssonCanTTameHerAcousticCantTameHer = {
     "release/zara-larsson-can-t-tame-her",
     "release/zara-larsson-venus",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

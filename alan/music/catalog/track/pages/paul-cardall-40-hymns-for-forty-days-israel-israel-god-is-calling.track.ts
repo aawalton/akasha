@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
   ownLength: 4.202883333333333,
   ownProgress: 4.202883333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe80sLibidoKiller = {
   ownLength: 3.0145,
   ownProgress: 3.0145,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

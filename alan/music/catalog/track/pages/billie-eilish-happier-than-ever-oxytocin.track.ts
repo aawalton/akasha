@@ -7,7 +7,6 @@ export const billieEilishHappierThanEverOxytocin = {
   ownLength: 3.5038666666666667,
   ownProgress: 3.5038666666666667,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

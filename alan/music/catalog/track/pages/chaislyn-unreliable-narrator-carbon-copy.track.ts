@@ -7,7 +7,6 @@ export const chaislynUnreliableNarratorCarbonCopy = {
   ownLength: 2.8636333333333335,
   ownProgress: 0,
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

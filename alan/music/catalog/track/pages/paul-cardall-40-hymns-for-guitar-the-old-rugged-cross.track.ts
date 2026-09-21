@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarTheOldRuggedCross = {
   ownLength: 2.870833333333333,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 22,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

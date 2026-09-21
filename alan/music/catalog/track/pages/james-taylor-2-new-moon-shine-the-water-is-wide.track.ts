@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineTheWaterIsWide = {
   ownLength: 3.013333333333333,
   ownProgress: 3.013333333333333,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

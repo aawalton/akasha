@@ -10,7 +10,6 @@ export const celticWoman2GodRestYeMerryGentlemenGodRestYeMerryGentlemen = {
     "release/celtic-woman-2-god-rest-ye-merry-gentlemen",
     "release/celtic-woman-2-nollaig-a-christmas-journey",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

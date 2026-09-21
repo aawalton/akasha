@@ -7,7 +7,6 @@ export const coldplayMyUniverse2MyUniverseInstrumental = {
   ownLength: 3.8,
   ownProgress: 3.8,
   partOfCollections: ["release/coldplay-my-universe-2"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

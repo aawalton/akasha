@@ -7,7 +7,6 @@ export const emeiStereoStereo = {
   ownLength: 2.457516666666667,
   ownProgress: 2.457516666666667,
   partOfCollections: ["release/emei-stereo"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

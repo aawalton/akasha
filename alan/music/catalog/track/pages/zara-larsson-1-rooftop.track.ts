@@ -7,7 +7,6 @@ export const zaraLarsson1Rooftop = {
   ownLength: 3.9896333333333334,
   ownProgress: 3.9896333333333334,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

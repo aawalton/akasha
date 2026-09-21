@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeBulletInAGun = {
   ownLength: 3.4142166666666665,
   ownProgress: 3.4142166666666665,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

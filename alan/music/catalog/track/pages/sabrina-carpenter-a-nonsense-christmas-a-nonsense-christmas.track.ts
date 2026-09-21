@@ -10,7 +10,6 @@ export const sabrinaCarpenterANonsenseChristmasANonsenseChristmas = {
     "release/sabrina-carpenter-a-nonsense-christmas",
     "release/sabrina-carpenter-fruitcake",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

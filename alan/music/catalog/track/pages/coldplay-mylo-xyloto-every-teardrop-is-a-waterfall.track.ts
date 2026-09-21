@@ -7,7 +7,6 @@ export const coldplayMyloXylotoEveryTeardropIsAWaterfall = {
   ownLength: 4.0132666666666665,
   ownProgress: 4.0132666666666665,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const coldplayAHeadFullOfDreamsFunFeatToveLo = {
   ownLength: 4.4588833333333335,
   ownProgress: 4.4588833333333335,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

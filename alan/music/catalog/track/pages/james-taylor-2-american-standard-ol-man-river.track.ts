@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
   ownLength: 2.8922166666666667,
   ownProgress: 2.8922166666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

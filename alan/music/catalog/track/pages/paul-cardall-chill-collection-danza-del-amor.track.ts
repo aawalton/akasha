@@ -7,7 +7,6 @@ export const paulCardallChillCollectionDanzaDelAmor = {
   ownLength: 3.9562333333333335,
   ownProgress: 3.9562333333333335,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

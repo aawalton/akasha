@@ -7,7 +7,6 @@ export const auroraQueendomRemixesQueendomBTraitsRemix = {
   ownLength: 8.396433333333333,
   ownProgress: 8.396433333333333,
   partOfCollections: ["release/aurora-queendom-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarUnaccompaniedCelloSuiteNo1InGMajor = {
   ownLength: 2.8216833333333335,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 32,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

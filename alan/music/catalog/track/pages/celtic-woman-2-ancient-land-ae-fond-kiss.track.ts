@@ -10,7 +10,6 @@ export const celticWoman2AncientLandAeFondKiss = {
     "release/celtic-woman-2-ancient-land",
     "release/celtic-woman-2-ancient-land-deluxe",
   ],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

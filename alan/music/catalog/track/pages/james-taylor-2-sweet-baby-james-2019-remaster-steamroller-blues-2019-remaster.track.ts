@@ -7,7 +7,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSteamrollerBlues2019Remaster 
   ownLength: 2.9593333333333334,
   ownProgress: 2.9593333333333334,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

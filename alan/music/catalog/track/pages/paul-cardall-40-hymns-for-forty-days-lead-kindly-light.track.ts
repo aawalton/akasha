@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysLeadKindlyLight = {
   ownLength: 3.6951,
   ownProgress: 3.6951,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 27,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

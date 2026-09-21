@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldWatchinOverMe = {
   ownLength: 4.128,
   ownProgress: 4.128,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

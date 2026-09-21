@@ -7,7 +7,6 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   ownLength: 3.3653,
   ownProgress: 3.3653,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

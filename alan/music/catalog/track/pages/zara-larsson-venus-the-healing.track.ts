@@ -7,7 +7,6 @@ export const zaraLarssonVenusTheHealing = {
   ownLength: 3.1827833333333335,
   ownProgress: 3.1827833333333335,
   partOfCollections: ["release/zara-larsson-venus"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

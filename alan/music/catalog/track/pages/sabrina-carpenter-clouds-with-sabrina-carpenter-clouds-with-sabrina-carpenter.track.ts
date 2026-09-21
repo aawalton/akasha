@@ -7,7 +7,6 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenterCloudsWithSabrinaCarpente
   ownLength: 3.081716666666667,
   ownProgress: 3.081716666666667,
   partOfCollections: ["release/sabrina-carpenter-clouds-with-sabrina-carpenter"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

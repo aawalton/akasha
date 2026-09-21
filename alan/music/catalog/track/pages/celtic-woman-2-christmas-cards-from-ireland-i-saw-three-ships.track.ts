@@ -7,7 +7,6 @@ export const celticWoman2ChristmasCardsFromIrelandISawThreeShips = {
   ownLength: 2.9728833333333333,
   ownProgress: 2.9728833333333333,
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

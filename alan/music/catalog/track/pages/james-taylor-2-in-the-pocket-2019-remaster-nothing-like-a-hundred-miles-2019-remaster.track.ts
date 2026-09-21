@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterNothingLikeAHundredMiles2019Rema
   ownLength: 3.7186666666666666,
   ownProgress: 3.7186666666666666,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

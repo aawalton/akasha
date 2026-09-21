@@ -7,7 +7,6 @@ export const auroraStormStorm = {
   ownLength: 3.7948,
   ownProgress: 3.7948,
   partOfCollections: ["release/aurora-storm"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

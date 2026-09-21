@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandWaterUnderTheBridgeLive2017 = 
   ownLength: 3.824666666666667,
   ownProgress: 3.824666666666667,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

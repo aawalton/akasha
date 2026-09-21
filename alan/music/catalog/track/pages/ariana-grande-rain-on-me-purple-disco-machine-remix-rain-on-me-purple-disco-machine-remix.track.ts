@@ -7,7 +7,6 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
   ownLength: 6.5697833333333335,
   ownProgress: 6.5697833333333335,
   partOfCollections: ["release/ariana-grande-rain-on-me-purple-disco-machine-remix"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

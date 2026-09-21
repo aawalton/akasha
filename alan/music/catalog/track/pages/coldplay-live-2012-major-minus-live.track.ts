@@ -7,7 +7,6 @@ export const coldplayLive2012MajorMinusLive = {
   ownLength: 3.6662166666666667,
   ownProgress: 3.6662166666666667,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

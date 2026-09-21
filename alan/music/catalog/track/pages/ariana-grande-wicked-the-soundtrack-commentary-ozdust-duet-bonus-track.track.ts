@@ -11,7 +11,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrack = {
     "release/ariana-grande-wicked-the-soundtrack",
     "release/musical-theater-wicked-the-soundtrack",
   ],
-  position: 25,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

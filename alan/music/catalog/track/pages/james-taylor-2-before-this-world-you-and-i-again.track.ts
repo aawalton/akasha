@@ -7,7 +7,6 @@ export const jamesTaylor2BeforeThisWorldYouAndIAgain = {
   ownLength: 3.8817666666666666,
   ownProgress: 3.8817666666666666,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

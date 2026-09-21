@@ -7,7 +7,6 @@ export const thePianoGuysSerenityPerfect = {
   ownLength: 5.141766666666666,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 14,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

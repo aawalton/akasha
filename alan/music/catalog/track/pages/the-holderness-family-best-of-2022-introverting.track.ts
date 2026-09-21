@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022Introverting = {
   ownLength: 2.3636,
   ownProgress: 2.3636,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

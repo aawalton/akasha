@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipThisIsGodsHouse = {
   ownLength: 3.017333333333333,
   ownProgress: 3.017333333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

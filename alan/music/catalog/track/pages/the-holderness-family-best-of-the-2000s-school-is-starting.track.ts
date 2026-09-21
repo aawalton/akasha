@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe2000sSchoolIsStarting = {
   ownLength: 1.776,
   ownProgress: 1.776,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

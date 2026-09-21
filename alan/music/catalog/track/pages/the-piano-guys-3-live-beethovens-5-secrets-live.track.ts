@@ -7,7 +7,6 @@ export const thePianoGuys3LiveBeethovens5SecretsLive = {
   ownLength: 5.386216666666667,
   ownProgress: 5.386216666666667,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarssonSoGoodSoGoodFeatTyDollaIgn = {
   ownLength: 2.7794166666666666,
   ownProgress: 2.7794166666666666,
   partOfCollections: ["release/zara-larsson-so-good"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

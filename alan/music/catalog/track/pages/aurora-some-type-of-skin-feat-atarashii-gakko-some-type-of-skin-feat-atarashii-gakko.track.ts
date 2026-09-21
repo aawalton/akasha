@@ -10,7 +10,6 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
     "release/aurora-some-type-of-skin-feat-atarashii-gakko",
     "release/aurora-what-happened-to-the-heart-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

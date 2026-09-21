@@ -7,7 +7,6 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
   ownLength: 3.3910666666666667,
   ownProgress: 3.3910666666666667,
   partOfCollections: ["release/billie-eilish-lo-vas-a-olvidar-with-rosalia"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

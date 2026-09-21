@@ -8,7 +8,6 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchesterSomewhereOverT
     ownLength: 4.533766666666667,
     ownProgress: 4.533766666666667,
     partOfCollections: ["release/ariana-grande-somewhere-over-the-rainbow-live-from-manchester"],
-    position: 1,
     status: "completed",
     unit: "unit/minutes",
     externalIdentity: [

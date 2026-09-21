@@ -7,7 +7,6 @@ export const coldplayGhostStoriesLive2014OLiveAtRoyceHallLosAngeles = {
   ownLength: 5.6011,
   ownProgress: 5.6011,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

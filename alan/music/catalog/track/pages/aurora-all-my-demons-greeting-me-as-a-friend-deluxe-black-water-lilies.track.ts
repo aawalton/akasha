@@ -10,7 +10,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-music-for-the-free-spirits",
   ],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

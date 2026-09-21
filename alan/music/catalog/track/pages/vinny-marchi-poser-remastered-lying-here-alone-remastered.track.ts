@@ -7,7 +7,6 @@ export const vinnyMarchiPoserRemasteredLyingHereAloneRemastered = {
   ownLength: 2.67385,
   ownProgress: 2.67385,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

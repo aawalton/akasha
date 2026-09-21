@@ -7,7 +7,6 @@ export const celticWoman2CelebrationYouRaiseMeUp = {
   ownLength: 4.7291,
   ownProgress: 4.7291,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

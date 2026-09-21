@@ -7,7 +7,6 @@ export const celticWoman2BelieveThePartingGlass = {
   ownLength: 4.201333333333333,
   ownProgress: 4.201333333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys310TheCelloSong = {
   ownLength: 3.2411666666666665,
   ownProgress: 3.2411666666666665,
   partOfCollections: ["release/the-piano-guys-3-10"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

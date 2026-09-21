@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandChiliDogLiveAtTheColonialTheatre2007 = {
   ownLength: 1.9551,
   ownProgress: 1.9551,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

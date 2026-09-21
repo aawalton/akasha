@@ -7,7 +7,6 @@ export const sabrinaCarpenterChristmasTheWholeYearRoundChristmasTheWholeYearRoun
   ownLength: 2.9904333333333333,
   ownProgress: 2.9904333333333333,
   partOfCollections: ["release/sabrina-carpenter-christmas-the-whole-year-round"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

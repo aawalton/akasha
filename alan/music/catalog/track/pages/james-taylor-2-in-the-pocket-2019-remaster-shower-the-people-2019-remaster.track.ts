@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterShowerThePeople2019Remaster = {
   ownLength: 4.5551,
   ownProgress: 4.5551,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

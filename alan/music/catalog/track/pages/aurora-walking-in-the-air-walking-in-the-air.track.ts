@@ -7,7 +7,6 @@ export const auroraWalkingInTheAirWalkingInTheAir = {
   ownLength: 3.4842166666666667,
   ownProgress: 3.4842166666666667,
   partOfCollections: ["release/aurora-walking-in-the-air"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

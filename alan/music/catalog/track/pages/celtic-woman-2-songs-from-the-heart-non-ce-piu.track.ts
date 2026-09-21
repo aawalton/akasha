@@ -7,7 +7,6 @@ export const celticWoman2SongsFromTheHeartNonCePiu = {
   ownLength: 4.8331,
   ownProgress: 4.8331,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

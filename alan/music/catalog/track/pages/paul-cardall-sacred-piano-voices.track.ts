@@ -7,7 +7,6 @@ export const paulCardallSacredPianoVoices = {
   ownLength: 4.943333333333333,
   ownProgress: 4.943333333333333,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

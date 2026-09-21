@@ -7,7 +7,6 @@ export const arianaGrandePutYourHeartsUpPutYourHeartsUp = {
   ownLength: 3.5033333333333334,
   ownProgress: 3.5033333333333334,
   partOfCollections: ["release/ariana-grande-put-your-hearts-up"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

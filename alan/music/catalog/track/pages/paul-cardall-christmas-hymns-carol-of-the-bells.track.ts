@@ -7,7 +7,6 @@ export const paulCardallChristmasHymnsCarolOfTheBells = {
   ownLength: 5.444216666666667,
   ownProgress: 5.444216666666667,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

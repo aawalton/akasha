@@ -7,7 +7,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
   ownLength: 1.82155,
   ownProgress: 1.82155,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

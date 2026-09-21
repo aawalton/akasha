@@ -7,7 +7,6 @@ export const paulCardallNewLifeSweetIsTheWork = {
   ownLength: 1.5308833333333334,
   ownProgress: 1.5308833333333334,
   partOfCollections: ["release/paul-cardall-new-life"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

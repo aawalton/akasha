@@ -7,7 +7,6 @@ export const paulCardallChillCollectionEden = {
   ownLength: 3.4368333333333334,
   ownProgress: 3.4368333333333334,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

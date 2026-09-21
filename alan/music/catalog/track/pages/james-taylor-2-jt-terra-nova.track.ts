@@ -7,7 +7,6 @@ export const jamesTaylor2JtTerraNova = {
   ownLength: 4.540016666666666,
   ownProgress: 4.540016666666666,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

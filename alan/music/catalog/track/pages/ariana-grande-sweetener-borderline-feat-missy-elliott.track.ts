@@ -7,7 +7,6 @@ export const arianaGrandeSweetenerBorderlineFeatMissyElliott = {
   ownLength: 2.9588833333333335,
   ownProgress: 2.9588833333333335,
   partOfCollections: ["release/ariana-grande-sweetener"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

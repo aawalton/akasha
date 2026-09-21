@@ -7,7 +7,6 @@ export const thePianoGuys310ASkyFullOfStars = {
   ownLength: 4.0909,
   ownProgress: 4.0909,
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

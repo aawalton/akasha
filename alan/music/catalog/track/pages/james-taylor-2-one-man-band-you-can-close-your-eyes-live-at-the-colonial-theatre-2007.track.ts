@@ -7,7 +7,6 @@ export const jamesTaylor2OneManBandYouCanCloseYourEyesLiveAtTheColonialTheatre20
   ownLength: 3.14355,
   ownProgress: 3.14355,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
-  position: 19,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

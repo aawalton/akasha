@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyILiveFromLondon = 
   ownLength: 3.2884,
   ownProgress: 3.2884,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

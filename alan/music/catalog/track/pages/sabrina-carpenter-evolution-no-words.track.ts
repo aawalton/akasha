@@ -7,7 +7,6 @@ export const sabrinaCarpenterEvolutionNoWords = {
   ownLength: 3.5431,
   ownProgress: 3.5431,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiBushwickBelleHowCanI = {
   ownLength: 3.62075,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

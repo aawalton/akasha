@@ -7,7 +7,6 @@ export const jamesTaylor2JtBartendersBlues = {
   ownLength: 4.207466666666667,
   ownProgress: 4.207466666666667,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

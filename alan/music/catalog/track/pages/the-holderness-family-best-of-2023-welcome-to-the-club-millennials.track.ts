@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023WelcomeToTheClubMillennials = {
   ownLength: 2.641183333333333,
   ownProgress: 2.641183333333333,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallHymnsAbideWithMeTisEventide = {
   ownLength: 2.3011,
   ownProgress: 2.3011,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

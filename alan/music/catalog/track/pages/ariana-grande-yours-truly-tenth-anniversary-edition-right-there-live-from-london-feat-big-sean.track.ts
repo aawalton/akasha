@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
   ownLength: 3.2821166666666666,
   ownProgress: 3.2821166666666666,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

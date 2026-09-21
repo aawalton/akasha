@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarLeadKindlyLight = {
   ownLength: 3.618133333333333,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 18,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

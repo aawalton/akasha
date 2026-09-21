@@ -7,7 +7,6 @@ export const arianaGrandePetalLikeIDo = {
   ownLength: 2.788883333333333,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 9,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

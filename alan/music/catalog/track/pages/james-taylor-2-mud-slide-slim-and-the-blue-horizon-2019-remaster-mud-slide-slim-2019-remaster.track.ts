@@ -7,7 +7,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMudSlideSlim20
   ownLength: 5.320216666666667,
   ownProgress: 5.320216666666667,
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

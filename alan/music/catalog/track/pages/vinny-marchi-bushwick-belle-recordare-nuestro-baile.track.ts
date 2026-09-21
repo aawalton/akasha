@@ -7,7 +7,6 @@ export const vinnyMarchiBushwickBelleRecordareNuestroBaile = {
   ownLength: 3.66865,
   ownProgress: 0,
   partOfCollections: ["release/vinny-marchi-bushwick-belle"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

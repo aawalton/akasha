@@ -7,7 +7,6 @@ export const jamesTaylor2ThatSWhyIMHereSongForYouFarAway = {
   ownLength: 2.9377666666666666,
   ownProgress: 2.9377666666666666,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

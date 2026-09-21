@@ -7,7 +7,6 @@ export const celticWoman2BelieveSailing = {
   ownLength: 4.122433333333333,
   ownProgress: 4.122433333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

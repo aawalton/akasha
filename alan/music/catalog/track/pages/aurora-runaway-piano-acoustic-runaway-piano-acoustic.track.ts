@@ -7,7 +7,6 @@ export const auroraRunawayPianoAcousticRunawayPianoAcoustic = {
   ownLength: 4.8131,
   ownProgress: 4.8131,
   partOfCollections: ["release/aurora-runaway-piano-acoustic"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

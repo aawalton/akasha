@@ -7,7 +7,6 @@ export const celticWoman2CelebrationTheVoice = {
   ownLength: 3.1542166666666667,
   ownProgress: 3.1542166666666667,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

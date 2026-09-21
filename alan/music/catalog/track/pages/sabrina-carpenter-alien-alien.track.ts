@@ -7,7 +7,6 @@ export const sabrinaCarpenterAlienAlien = {
   ownLength: 2.914,
   ownProgress: 2.914,
   partOfCollections: ["release/sabrina-carpenter-alien"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

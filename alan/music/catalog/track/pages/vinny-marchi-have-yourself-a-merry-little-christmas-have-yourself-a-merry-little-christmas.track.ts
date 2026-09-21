@@ -7,7 +7,6 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittl
   ownLength: 2.70115,
   ownProgress: 2.70115,
   partOfCollections: ["release/vinny-marchi-have-yourself-a-merry-little-christmas"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

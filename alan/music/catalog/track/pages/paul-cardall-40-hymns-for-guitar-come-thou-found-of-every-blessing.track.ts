@@ -7,7 +7,6 @@ export const paulCardall40HymnsForGuitarComeThouFoundOfEveryBlessing = {
   ownLength: 3.4166666666666665,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-40-hymns-for-guitar"],
-  position: 3,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

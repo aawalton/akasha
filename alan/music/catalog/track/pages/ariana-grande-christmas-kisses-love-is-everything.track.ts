@@ -7,7 +7,6 @@ export const arianaGrandeChristmasKissesLoveIsEverything = {
   ownLength: 3.5464333333333333,
   ownProgress: 3.5464333333333333,
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

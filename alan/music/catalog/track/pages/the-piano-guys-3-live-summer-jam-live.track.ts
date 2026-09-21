@@ -7,7 +7,6 @@ export const thePianoGuys3LiveSummerJamLive = {
   ownLength: 3.66955,
   ownProgress: 3.66955,
   partOfCollections: ["release/the-piano-guys-3-live"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

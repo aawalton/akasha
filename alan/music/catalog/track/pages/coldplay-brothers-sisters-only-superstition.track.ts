@@ -7,7 +7,6 @@ export const coldplayBrothersSistersOnlySuperstition = {
   ownLength: 3.8111,
   ownProgress: 3.8111,
   partOfCollections: ["release/coldplay-brothers-sisters"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

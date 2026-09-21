@@ -7,7 +7,6 @@ export const paulCardallReturnHomeSoloPianoVersionCastlesAndCathedralsSoloPianoV
   ownLength: 4.833333333333333,
   ownProgress: 4.833333333333333,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

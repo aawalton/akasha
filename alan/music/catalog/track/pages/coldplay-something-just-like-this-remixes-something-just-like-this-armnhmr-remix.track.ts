@@ -7,7 +7,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisArmnhmrRem
   ownLength: 3.7386666666666666,
   ownProgress: 3.7386666666666666,
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

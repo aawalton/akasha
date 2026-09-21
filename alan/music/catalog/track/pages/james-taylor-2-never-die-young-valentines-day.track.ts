@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungValentinesDay = {
   ownLength: 2.588433333333333,
   ownProgress: 2.588433333333333,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

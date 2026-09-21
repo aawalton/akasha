@@ -7,7 +7,6 @@ export const arianaGrandePositionsDeluxeNasty = {
   ownLength: 3.3455333333333335,
   ownProgress: 3.3455333333333335,
   partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

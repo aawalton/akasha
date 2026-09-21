@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoTheGrowingSeason = {
   ownLength: 4.654,
   ownProgress: 4.654,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

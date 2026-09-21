@@ -7,7 +7,6 @@ export const thePianoGuys310AvatarTheTheme = {
   ownLength: 3.0541666666666667,
   ownProgress: 3.0541666666666667,
   partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-avatar-the-theme"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

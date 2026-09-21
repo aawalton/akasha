@@ -7,7 +7,6 @@ export const paulCardallFaithfulSweetEscape = {
   ownLength: 3.121766666666667,
   ownProgress: 3.121766666666667,
   partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

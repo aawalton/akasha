@@ -7,7 +7,6 @@ export const paulCardallSongsOfPraiseComeThouFount = {
   ownLength: 2.346216666666667,
   ownProgress: 2.346216666666667,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

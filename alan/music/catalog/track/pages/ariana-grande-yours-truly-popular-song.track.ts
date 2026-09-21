@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyPopularSong = {
   ownLength: 3.336883333333333,
   ownProgress: 3.336883333333333,
   partOfCollections: ["release/ariana-grande-yours-truly"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiLadyOfTheLyreLadyOfTheLyre = {
   ownLength: 2.6,
   ownProgress: 2.6,
   partOfCollections: ["release/vinny-marchi-lady-of-the-lyre"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterBearDontCareInterlude = {
   ownLength: 1.1804,
   ownProgress: 1.1804,
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

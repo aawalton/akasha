@@ -7,7 +7,6 @@ export const paulCardallASacredChristmasPianoCollectionWhatChildIsThis = {
   ownLength: 3.1225,
   ownProgress: 3.1225,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

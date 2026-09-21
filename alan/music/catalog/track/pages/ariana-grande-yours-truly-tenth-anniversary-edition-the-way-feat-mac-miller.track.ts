@@ -7,7 +7,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayFeatMacMiller = 
   ownLength: 3.7838833333333333,
   ownProgress: 3.7838833333333333,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

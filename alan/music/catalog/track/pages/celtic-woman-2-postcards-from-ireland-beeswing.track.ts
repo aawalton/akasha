@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandBeeswing = {
   ownLength: 4.808666666666666,
   ownProgress: 4.808666666666666,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

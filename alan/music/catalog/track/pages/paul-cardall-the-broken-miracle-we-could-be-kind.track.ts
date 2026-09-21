@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleWeCouldBeKind = {
   ownLength: 3.2091,
   ownProgress: 3.2091,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 18,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

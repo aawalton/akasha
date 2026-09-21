@@ -7,7 +7,6 @@ export const billieEilishOceanEyesTheRemixesOceanEyesGoldhouseRemix = {
   ownLength: 3.56,
   ownProgress: 3.56,
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

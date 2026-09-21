@@ -9,7 +9,6 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1SessionHa
   partOfCollections: [
     "release/coldplay-have-yourself-a-merry-little-christmas-jo-whiley-bbc-radio-1-session",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

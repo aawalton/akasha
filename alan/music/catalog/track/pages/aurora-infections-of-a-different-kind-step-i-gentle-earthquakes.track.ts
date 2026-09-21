@@ -10,7 +10,6 @@ export const auroraInfectionsOfADifferentKindStepIGentleEarthquakes = {
     "release/aurora-infections-of-a-different-kind-step-i",
     "release/aurora-music-for-the-free-spirits",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

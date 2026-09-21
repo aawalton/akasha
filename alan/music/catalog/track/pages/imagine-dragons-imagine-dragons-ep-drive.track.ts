@@ -7,7 +7,6 @@ export const imagineDragonsImagineDragonsEpDrive = {
   ownLength: 4.534,
   ownProgress: 4.534,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

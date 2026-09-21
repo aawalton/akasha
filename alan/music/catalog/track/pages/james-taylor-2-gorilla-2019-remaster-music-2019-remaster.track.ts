@@ -7,7 +7,6 @@ export const jamesTaylor2Gorilla2019RemasterMusic2019Remaster = {
   ownLength: 3.7864333333333335,
   ownProgress: 3.7864333333333335,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

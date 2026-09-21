@@ -7,7 +7,6 @@ export const coldplayLive2003ARushOfBloodToTheHeadLiveInSydney = {
   ownLength: 6.846216666666667,
   ownProgress: 6.846216666666667,
   partOfCollections: ["release/coldplay-live-2003"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

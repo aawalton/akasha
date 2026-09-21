@@ -7,7 +7,6 @@ export const arianaGrandePetalHateThatIMadeYouLoveMe = {
   ownLength: 3.29915,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

@@ -10,7 +10,6 @@ export const celticWoman2CelticWomanTheButterfly = {
     "release/celtic-woman-2-celtic-woman",
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipOhWhatDoYouDoInTheSummertime = {
   ownLength: 2.8697833333333334,
   ownProgress: 2.8697833333333334,
   partOfCollections: ["release/paul-cardall-primary-worship"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

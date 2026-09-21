@@ -7,7 +7,6 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   ownLength: 3.144616666666667,
   ownProgress: 3.144616666666667,
   partOfCollections: ["release/paul-cardall-christmas"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

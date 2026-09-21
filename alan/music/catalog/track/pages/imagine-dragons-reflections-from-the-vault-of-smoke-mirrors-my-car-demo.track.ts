@@ -7,7 +7,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMyCarDemo = {
   ownLength: 2.5255666666666667,
   ownProgress: 2.5255666666666667,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

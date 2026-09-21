@@ -10,7 +10,6 @@ export const zaraLarssonPosterGirlSummerEditionTalkAboutLoveFeatYoungThug = {
     "release/zara-larsson-poster-girl-summer-edition",
     "release/zara-larsson-poster-girl",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

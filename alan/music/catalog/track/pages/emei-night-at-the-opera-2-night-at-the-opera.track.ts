@@ -11,7 +11,6 @@ export const emeiNightAtTheOpera2NightAtTheOpera = {
     "release/emei-night-at-the-opera",
     "release/emei-whats-the-point",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

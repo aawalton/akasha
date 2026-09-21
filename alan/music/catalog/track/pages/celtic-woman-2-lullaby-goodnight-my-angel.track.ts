@@ -7,7 +7,6 @@ export const celticWoman2LullabyGoodnightMyAngel = {
   ownLength: 3.2462166666666668,
   ownProgress: 3.2462166666666668,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

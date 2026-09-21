@@ -11,7 +11,6 @@ export const auroraADifferentKindOfHumanStepIiAppleTree = {
     "release/aurora-apple-tree-georgia-remix",
     "release/aurora-for-the-metal-people",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

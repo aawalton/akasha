@@ -7,7 +7,6 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsodySomethingJustLik
   ownLength: 3.89735,
   ownProgress: 3.89735,
   partOfCollections: ["release/the-piano-guys-3-something-just-like-this-hungarian-rhapsody"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

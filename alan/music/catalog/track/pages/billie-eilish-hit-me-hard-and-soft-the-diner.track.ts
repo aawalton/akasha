@@ -7,7 +7,6 @@ export const billieEilishHitMeHardAndSoftTheDiner = {
   ownLength: 3.105766666666667,
   ownProgress: 3.105766666666667,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

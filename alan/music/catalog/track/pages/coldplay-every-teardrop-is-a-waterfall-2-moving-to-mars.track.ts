@@ -7,7 +7,6 @@ export const coldplayEveryTeardropIsAWaterfall2MovingToMars = {
   ownLength: 4.31455,
   ownProgress: 4.31455,
   partOfCollections: ["release/coldplay-every-teardrop-is-a-waterfall-2"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

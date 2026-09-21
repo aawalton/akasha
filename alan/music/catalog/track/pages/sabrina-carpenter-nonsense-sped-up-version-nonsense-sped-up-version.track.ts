@@ -7,7 +7,6 @@ export const sabrinaCarpenterNonsenseSpedUpVersionNonsenseSpedUpVersion = {
   ownLength: 2.2919,
   ownProgress: 2.2919,
   partOfCollections: ["release/sabrina-carpenter-nonsense-sped-up-version"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

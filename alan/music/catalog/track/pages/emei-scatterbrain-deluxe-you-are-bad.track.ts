@@ -7,7 +7,6 @@ export const emeiScatterbrainDeluxeYouAreBad = {
   ownLength: 2.3119,
   ownProgress: 2.3119,
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

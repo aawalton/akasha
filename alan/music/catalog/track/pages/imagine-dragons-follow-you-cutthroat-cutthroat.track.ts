@@ -10,7 +10,6 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
     "release/imagine-dragons-follow-you-cutthroat",
     "release/imagine-dragons-mercury-acts-1-2",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

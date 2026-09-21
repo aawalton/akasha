@@ -7,7 +7,6 @@ export const paulCardallTheLookingGlassAKissOfTheSunlight = {
   ownLength: 3.8111,
   ownProgress: 3.8111,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

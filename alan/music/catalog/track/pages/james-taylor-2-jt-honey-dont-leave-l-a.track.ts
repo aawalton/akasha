@@ -7,7 +7,6 @@ export const jamesTaylor2JtHoneyDontLeaveLA = {
   ownLength: 3.1063833333333335,
   ownProgress: 3.1063833333333335,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

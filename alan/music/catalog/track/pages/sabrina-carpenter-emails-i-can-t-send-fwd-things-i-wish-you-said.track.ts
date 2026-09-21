@@ -7,7 +7,6 @@ export const sabrinaCarpenterEmailsICanTSendFwdThingsIWishYouSaid = {
   ownLength: 2.712466666666667,
   ownProgress: 2.712466666666667,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
-  position: 17,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterSilverNightsSilverNights = {
   ownLength: 2.442,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-silver-nights"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

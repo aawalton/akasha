@@ -7,7 +7,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreFrictionLive 
   ownLength: 4.419333333333333,
   ownProgress: 4.419333333333333,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

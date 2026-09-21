@@ -7,7 +7,6 @@ export const thePianoGuys3SoFarSoGoodHelloLacrimosa = {
   ownLength: 3.860316666666667,
   ownProgress: 3.860316666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

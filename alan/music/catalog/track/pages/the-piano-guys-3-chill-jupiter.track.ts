@@ -7,7 +7,6 @@ export const thePianoGuys3ChillJupiter = {
   ownLength: 3.223883333333333,
   ownProgress: 3.223883333333333,
   partOfCollections: ["release/the-piano-guys-3-chill"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallAncestorsAlmostHome = {
   ownLength: 2.2300333333333335,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-ancestors"],
-  position: 12,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

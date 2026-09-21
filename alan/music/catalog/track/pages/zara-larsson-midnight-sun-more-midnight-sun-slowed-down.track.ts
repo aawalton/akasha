@@ -7,7 +7,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunSlowedDown = {
   ownLength: 3.6171,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-midnight-sun-more"],
-  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

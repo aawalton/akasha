@@ -7,7 +7,6 @@ export const coldplayALIENSMarkusDravsRemixALIENSMarkusDravsRemix = {
   ownLength: 7.0869333333333335,
   ownProgress: 7.0869333333333335,
   partOfCollections: ["release/coldplay-a-l-i-e-n-s-markus-dravs-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

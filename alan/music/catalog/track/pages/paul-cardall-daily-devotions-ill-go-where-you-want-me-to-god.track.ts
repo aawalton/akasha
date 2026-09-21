@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsIllGoWhereYouWantMeToGod = {
   ownLength: 2.6828833333333333,
   ownProgress: 2.6828833333333333,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

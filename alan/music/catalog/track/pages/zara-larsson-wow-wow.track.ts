@@ -7,7 +7,6 @@ export const zaraLarssonWowWow = {
   ownLength: 2.9945833333333334,
   ownProgress: 2.9945833333333334,
   partOfCollections: ["release/zara-larsson-wow"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

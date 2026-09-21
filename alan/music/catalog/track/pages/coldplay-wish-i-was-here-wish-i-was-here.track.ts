@@ -7,7 +7,6 @@ export const coldplayWishIWasHereWishIWasHere = {
   ownLength: 3.18155,
   ownProgress: 3.18155,
   partOfCollections: ["release/coldplay-wish-i-was-here"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

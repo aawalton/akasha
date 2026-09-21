@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023PuffyVest = {
   ownLength: 1.9183833333333333,
   ownProgress: 1.9183833333333333,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallLivingForEdenAprilSkies = {
   ownLength: 3.580216666666667,
   ownProgress: 3.580216666666667,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
-  position: 20,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

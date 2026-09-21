@@ -7,7 +7,6 @@ export const jamesTaylor2InThePocket2019RemasterGoldenMoments2019Remaster = {
   ownLength: 3.608,
   ownProgress: 3.608,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

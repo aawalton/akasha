@@ -7,7 +7,6 @@ export const arianaGrandeSideToSideRemixesSideToSidePhantomsRemix = {
   ownLength: 4.276,
   ownProgress: 4.276,
   partOfCollections: ["release/ariana-grande-side-to-side-remixes"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

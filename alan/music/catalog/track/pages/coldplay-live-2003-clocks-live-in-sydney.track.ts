@@ -7,7 +7,6 @@ export const coldplayLive2003ClocksLiveInSydney = {
   ownLength: 5.5404333333333335,
   ownProgress: 5.5404333333333335,
   partOfCollections: ["release/coldplay-live-2003"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

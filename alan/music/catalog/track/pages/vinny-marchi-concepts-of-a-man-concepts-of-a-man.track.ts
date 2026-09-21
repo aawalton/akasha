@@ -7,7 +7,6 @@ export const vinnyMarchiConceptsOfAManConceptsOfAMan = {
   ownLength: 1.2083666666666666,
   ownProgress: 1.2083666666666666,
   partOfCollections: ["release/vinny-marchi-concepts-of-a-man"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
   ownLength: 3.7073666666666667,
   ownProgress: 3.7073666666666667,
   partOfCollections: ["release/ariana-grande-we-can-t-be-friends-wait-for-your-love"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

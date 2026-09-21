@@ -7,7 +7,6 @@ export const celticWoman2BelieveFollowOn = {
   ownLength: 4.828883333333334,
   ownProgress: 4.828883333333334,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

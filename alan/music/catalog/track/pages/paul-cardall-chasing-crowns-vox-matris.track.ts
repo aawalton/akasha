@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsVoxMatris = {
   ownLength: 3.4,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 13,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

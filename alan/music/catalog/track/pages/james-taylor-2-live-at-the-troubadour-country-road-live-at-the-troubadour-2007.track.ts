@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourCountryRoadLiveAtTheTroubadour2007 =
   ownLength: 3.8171,
   ownProgress: 3.8171,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

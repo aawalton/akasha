@@ -7,7 +7,6 @@ export const celticWoman2HomecomingLiveFromIrelandTheKeshInnLive2017 = {
   ownLength: 3.0613333333333332,
   ownProgress: 3.0613333333333332,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

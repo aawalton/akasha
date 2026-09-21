@@ -13,7 +13,6 @@ export const thePianoGuys3ChillMyGirl = {
     "release/the-piano-guys-piano-focus",
     "release/the-piano-guys-relaxing-piano",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

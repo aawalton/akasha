@@ -7,7 +7,6 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
   ownLength: 3.3114,
   ownProgress: 3.3114,
   partOfCollections: ["release/billie-eilish-copycat-sofi-tukker-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

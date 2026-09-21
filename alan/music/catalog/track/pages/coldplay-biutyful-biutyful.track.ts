@@ -7,7 +7,6 @@ export const coldplayBiutyfulBiutyful = {
   ownLength: 3.206566666666667,
   ownProgress: 3.206566666666667,
   partOfCollections: ["release/coldplay-biutyful", "release/coldplay-music-of-the-spheres"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

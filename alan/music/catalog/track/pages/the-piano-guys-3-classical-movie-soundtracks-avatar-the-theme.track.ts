@@ -7,7 +7,6 @@ export const thePianoGuys3ClassicalMovieSoundtracksAvatarTheTheme = {
   ownLength: 3.4179666666666666,
   ownProgress: 3.4179666666666666,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

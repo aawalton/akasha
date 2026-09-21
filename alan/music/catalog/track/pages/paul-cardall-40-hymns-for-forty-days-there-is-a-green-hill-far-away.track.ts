@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysThereIsAGreenHillFarAway = {
   ownLength: 1.5962166666666666,
   ownProgress: 1.5962166666666666,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 38,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

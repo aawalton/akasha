@@ -7,7 +7,6 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
   ownLength: 2.4848333333333334,
   ownProgress: 2.4848333333333334,
   partOfCollections: ["release/jisoo-earthquake-sam-feldt-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

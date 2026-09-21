@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherLittleDrummerBoyDoYouHearWhatIHear = 
   ownLength: 3.9010333333333334,
   ownProgress: 3.9010333333333334,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

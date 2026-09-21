@@ -7,7 +7,6 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlausInvisibleFromTheNetflixF
   ownLength: 2.899583333333333,
   ownProgress: 2.899583333333333,
   partOfCollections: ["release/zara-larsson-invisible-from-the-netflix-film-klaus"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLoveTwilight
   ownLength: 7.2294,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-bring-your-love-honey-dijon-remixes"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

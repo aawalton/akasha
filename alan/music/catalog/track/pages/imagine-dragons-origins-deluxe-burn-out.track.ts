@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeBurnOut = {
   ownLength: 4.564666666666667,
   ownProgress: 4.564666666666667,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

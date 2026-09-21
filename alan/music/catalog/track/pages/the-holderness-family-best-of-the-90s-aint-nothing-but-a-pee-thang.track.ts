@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOfThe90sAintNothingButAPeeThang = {
   ownLength: 2.1786,
   ownProgress: 2.1786,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

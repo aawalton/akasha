@@ -10,7 +10,6 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
     "release/aurora-forgotten-love-claptone-extended-remix",
     "release/aurora-forgotten-love-claptone-remix",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

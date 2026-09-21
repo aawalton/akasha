@@ -7,7 +7,6 @@ export const billieEilishDontSmileAtMeCopycat = {
   ownLength: 3.2451833333333333,
   ownProgress: 3.2451833333333333,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

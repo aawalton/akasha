@@ -7,7 +7,6 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaignILoveYouAllThe
   ownLength: 3.1207166666666666,
   ownProgress: 3.1207166666666666,
   partOfCollections: ["release/imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

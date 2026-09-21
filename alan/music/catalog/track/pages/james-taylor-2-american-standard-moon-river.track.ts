@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardMoonRiver = {
   ownLength: 3.2202166666666665,
   ownProgress: 3.2202166666666665,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

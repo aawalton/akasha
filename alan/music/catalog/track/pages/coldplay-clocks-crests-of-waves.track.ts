@@ -7,7 +7,6 @@ export const coldplayClocksCrestsOfWaves = {
   ownLength: 3.6637666666666666,
   ownProgress: 3.6637666666666666,
   partOfCollections: ["release/coldplay-clocks"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

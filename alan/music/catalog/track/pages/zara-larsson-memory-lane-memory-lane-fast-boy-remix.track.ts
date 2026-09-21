@@ -7,7 +7,6 @@ export const zaraLarssonMemoryLaneMemoryLaneFastBoyRemix = {
   ownLength: 2.2450666666666668,
   ownProgress: 2.2450666666666668,
   partOfCollections: ["release/zara-larsson-memory-lane"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

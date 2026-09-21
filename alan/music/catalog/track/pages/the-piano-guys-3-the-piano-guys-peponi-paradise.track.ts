@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysPeponiParadise = {
   ownLength: 4.179366666666667,
   ownProgress: 4.179366666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

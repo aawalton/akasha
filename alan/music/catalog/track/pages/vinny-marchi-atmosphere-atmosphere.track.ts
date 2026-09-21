@@ -7,7 +7,6 @@ export const vinnyMarchiAtmosphereAtmosphere = {
   ownLength: 3.4151833333333332,
   ownProgress: 3.4151833333333332,
   partOfCollections: ["release/vinny-marchi-atmosphere"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

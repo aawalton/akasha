@@ -7,7 +7,6 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
   ownLength: 3.7471,
   ownProgress: 3.7471,
   partOfCollections: ["release/ariana-grande-i-don-t-know-why-i-just-do"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2Gorilla2019RemasterLighthouse2019Remaster = {
   ownLength: 3.267333333333333,
   ownProgress: 3.267333333333333,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

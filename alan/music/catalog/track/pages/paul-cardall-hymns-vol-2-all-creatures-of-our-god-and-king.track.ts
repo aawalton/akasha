@@ -7,7 +7,6 @@ export const paulCardallHymnsVol2AllCreaturesOfOurGodAndKing = {
   ownLength: 3.102,
   ownProgress: 3.102,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

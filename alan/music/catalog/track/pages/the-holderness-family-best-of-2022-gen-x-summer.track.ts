@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2022GenXSummer = {
   ownLength: 2.9448,
   ownProgress: 2.9448,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

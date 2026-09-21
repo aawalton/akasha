@@ -10,7 +10,6 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
     "release/imagine-dragons-imagine-dragons-live-london-sessions",
     "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

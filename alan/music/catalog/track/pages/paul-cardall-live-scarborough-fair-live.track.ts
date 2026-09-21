@@ -7,7 +7,6 @@ export const paulCardallLiveScarboroughFairLive = {
   ownLength: 2.8211,
   ownProgress: 2.8211,
   partOfCollections: ["release/paul-cardall-live"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

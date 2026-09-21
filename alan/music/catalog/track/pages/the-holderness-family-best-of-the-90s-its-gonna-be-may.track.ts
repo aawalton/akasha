@@ -10,7 +10,6 @@ export const theHoldernessFamilyBestOfThe90sItsGonnaBeMay = {
     "release/the-holderness-family-best-of-the-90s",
     "release/the-holderness-family-the-greatest-hits-vol-one",
   ],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

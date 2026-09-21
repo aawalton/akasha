@@ -7,7 +7,6 @@ export const paulCardallReturnHomeImmigrantShips = {
   ownLength: 3.4407,
   ownProgress: 3.4407,
   partOfCollections: ["release/paul-cardall-return-home"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

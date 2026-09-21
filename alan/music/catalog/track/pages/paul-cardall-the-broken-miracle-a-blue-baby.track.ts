@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleABlueBaby = {
   ownLength: 2.8553333333333333,
   ownProgress: 2.8553333333333333,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

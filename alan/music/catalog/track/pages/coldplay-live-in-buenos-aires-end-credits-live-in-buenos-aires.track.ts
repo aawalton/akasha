@@ -7,7 +7,6 @@ export const coldplayLiveInBuenosAiresEndCreditsLiveInBuenosAires = {
   ownLength: 2.054,
   ownProgress: 2.054,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
-  position: 24,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

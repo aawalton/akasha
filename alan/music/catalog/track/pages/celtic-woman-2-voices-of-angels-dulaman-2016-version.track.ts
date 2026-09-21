@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsDulaman2016Version = {
   ownLength: 4.300433333333333,
   ownProgress: 4.300433333333333,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

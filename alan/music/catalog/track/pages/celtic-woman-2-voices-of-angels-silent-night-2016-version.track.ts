@@ -7,7 +7,6 @@ export const celticWoman2VoicesOfAngelsSilentNight2016Version = {
   ownLength: 4.179333333333333,
   ownProgress: 4.179333333333333,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

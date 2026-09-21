@@ -7,7 +7,6 @@ export const imagineDragonsEvolveMouthOfTheRiver = {
   ownLength: 3.6926666666666668,
   ownProgress: 3.6926666666666668,
   partOfCollections: ["release/imagine-dragons-evolve"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

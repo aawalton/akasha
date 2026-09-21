@@ -7,7 +7,6 @@ export const vinnyMarchiDrivingMePsychoDrivingMePsycho = {
   ownLength: 3.4726833333333333,
   ownProgress: 3.4726833333333333,
   partOfCollections: ["release/vinny-marchi-driving-me-psycho"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

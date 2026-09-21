@@ -8,7 +8,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
   ownLength: 3.3215,
   ownProgress: 3.3215,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

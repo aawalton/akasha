@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardYouveGotToBeCarefullyTaught = {
   ownLength: 2.4391,
   ownProgress: 2.4391,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

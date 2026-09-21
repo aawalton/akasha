@@ -12,7 +12,6 @@ export const thePianoGuys3MusicBoxDancerMusicBoxDancer = {
     "release/the-piano-guys-autumn-on-piano",
     "release/the-piano-guys-peaceful-summer-nights",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2NollaigAChristmasJourneyTheBellsOfDublinChristmasEveNav
   ownLength: 3.63245,
   ownProgress: 3.63245,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2AmericanStandardPenniesFromHeaven = {
   ownLength: 2.8706666666666667,
   ownProgress: 2.8706666666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

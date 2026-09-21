@@ -7,7 +7,6 @@ export const thePianoGuys3ThePianoGuysMoonlight = {
   ownLength: 3.475,
   ownProgress: 3.475,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

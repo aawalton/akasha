@@ -7,7 +7,6 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
   ownLength: 3.5855333333333332,
   ownProgress: 0,
   partOfCollections: ["release/sabrina-carpenter-i-ll-be-home-for-christmas"],
-  position: 1,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

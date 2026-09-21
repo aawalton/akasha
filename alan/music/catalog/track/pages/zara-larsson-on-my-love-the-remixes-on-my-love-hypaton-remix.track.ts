@@ -7,7 +7,6 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveHypatonRemix = {
   ownLength: 3.1875,
   ownProgress: 3.1875,
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

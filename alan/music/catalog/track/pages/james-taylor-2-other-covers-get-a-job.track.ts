@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversGetAJob = {
   ownLength: 4.134216666666667,
   ownProgress: 4.134216666666667,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

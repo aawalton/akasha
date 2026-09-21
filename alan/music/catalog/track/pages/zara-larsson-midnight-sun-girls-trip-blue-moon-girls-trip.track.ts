@@ -7,7 +7,6 @@ export const zaraLarssonMidnightSunGirlsTripBlueMoonGirlsTrip = {
   ownLength: 3.21205,
   ownProgress: 0,
   partOfCollections: ["release/zara-larsson-midnight-sun-girls-trip"],
-  position: 2,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

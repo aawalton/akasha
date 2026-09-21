@@ -7,7 +7,6 @@ export const jamesTaylor2NeverDieYoungLetterInTheMail = {
   ownLength: 4.68555,
   ownProgress: 4.68555,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

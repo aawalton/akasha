@@ -7,7 +7,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionDannyBoy = {
   ownLength: 3.4193333333333333,
   ownProgress: 3.4193333333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

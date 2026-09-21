@@ -7,7 +7,6 @@ export const zaraLarssonUncoverWannaBeYourBabyAltVersion = {
   ownLength: 3.0685166666666666,
   ownProgress: 3.0685166666666666,
   partOfCollections: ["release/zara-larsson-uncover"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemix = 
   ownLength: 7.52,
   ownProgress: 7.52,
   partOfCollections: ["release/ariana-grande-rain-on-me-ralphi-rosario-remix"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

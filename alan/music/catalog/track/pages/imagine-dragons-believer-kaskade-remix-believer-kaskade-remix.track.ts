@@ -7,7 +7,6 @@ export const imagineDragonsBelieverKaskadeRemixBelieverKaskadeRemix = {
   ownLength: 3.18155,
   ownProgress: 3.18155,
   partOfCollections: ["release/imagine-dragons-believer-kaskade-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

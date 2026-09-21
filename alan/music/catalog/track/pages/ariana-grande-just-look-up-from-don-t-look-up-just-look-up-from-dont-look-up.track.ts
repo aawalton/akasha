@@ -7,7 +7,6 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
   ownLength: 3.3611166666666668,
   ownProgress: 3.3611166666666668,
   partOfCollections: ["release/ariana-grande-just-look-up-from-don-t-look-up"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

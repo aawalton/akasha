@@ -11,7 +11,6 @@ export const thePianoGuys3ChillSweetChildOMine = {
     "release/the-piano-guys-3-sweet-child-o-mine",
     "release/the-piano-guys-3-wedding-season",
   ],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

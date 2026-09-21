@@ -7,7 +7,6 @@ export const celticWoman2CelebrationThePartingGlass = {
   ownLength: 4.5411,
   ownProgress: 4.5411,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

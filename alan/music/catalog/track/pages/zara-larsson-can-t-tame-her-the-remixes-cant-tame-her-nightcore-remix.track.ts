@@ -7,7 +7,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerNightcoreRemix = {
   ownLength: 3.106533333333333,
   ownProgress: 3.106533333333333,
   partOfCollections: ["release/zara-larsson-can-t-tame-her-the-remixes"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

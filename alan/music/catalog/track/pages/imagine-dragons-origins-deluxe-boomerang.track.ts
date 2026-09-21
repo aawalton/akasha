@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeBoomerang = {
   ownLength: 3.13,
   ownProgress: 3.13,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

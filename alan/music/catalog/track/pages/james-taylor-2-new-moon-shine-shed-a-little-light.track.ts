@@ -7,7 +7,6 @@ export const jamesTaylor2NewMoonShineShedALittleLight = {
   ownLength: 3.8688833333333332,
   ownProgress: 3.8688833333333332,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

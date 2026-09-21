@@ -7,7 +7,6 @@ export const paulCardallChasingCrownsColors = {
   ownLength: 4.4,
   ownProgress: 0,
   partOfCollections: ["release/paul-cardall-chasing-crowns"],
-  position: 19,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

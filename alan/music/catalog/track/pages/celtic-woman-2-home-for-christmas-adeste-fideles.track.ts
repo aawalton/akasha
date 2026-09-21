@@ -7,7 +7,6 @@ export const celticWoman2HomeForChristmasAdesteFideles = {
   ownLength: 4.335333333333334,
   ownProgress: 4.335333333333334,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

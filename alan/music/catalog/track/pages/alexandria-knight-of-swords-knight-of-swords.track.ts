@@ -7,7 +7,6 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
   ownLength: 2.652616666666667,
   ownProgress: 2.652616666666667,
   partOfCollections: ["release/alexandria-knight-of-swords"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

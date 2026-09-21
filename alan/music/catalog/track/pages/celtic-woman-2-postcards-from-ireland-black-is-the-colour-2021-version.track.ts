@@ -7,7 +7,6 @@ export const celticWoman2PostcardsFromIrelandBlackIsTheColour2021Version = {
   ownLength: 3.562883333333333,
   ownProgress: 3.562883333333333,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

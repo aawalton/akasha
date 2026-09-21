@@ -7,7 +7,6 @@ export const coldplayLive2003GodPutASmileUponYourFaceLiveInSydney = {
   ownLength: 4.946,
   ownProgress: 4.946,
   partOfCollections: ["release/coldplay-live-2003"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

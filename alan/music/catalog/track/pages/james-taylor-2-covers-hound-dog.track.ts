@@ -7,7 +7,6 @@ export const jamesTaylor2CoversHoundDog = {
   ownLength: 3.050883333333333,
   ownProgress: 3.050883333333333,
   partOfCollections: ["release/james-taylor-2-covers"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

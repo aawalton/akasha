@@ -7,7 +7,6 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegendsEnemyFromTheSe
   ownLength: 2.889683333333333,
   ownProgress: 2.889683333333333,
   partOfCollections: ["release/imagine-dragons-enemy-from-the-series-arcane-league-of-legends"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

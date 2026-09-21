@@ -7,7 +7,6 @@ export const paulCardallTheHymnsCollection2DiscSetJesusTheVeryThoughtOfThee = {
   ownLength: 2.6231166666666668,
   ownProgress: 2.6231166666666668,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
-  position: 26,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const zaraLarsson1IfIWasYourGirl = {
   ownLength: 2.6628,
   ownProgress: 2.6628,
   partOfCollections: ["release/zara-larsson-1"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

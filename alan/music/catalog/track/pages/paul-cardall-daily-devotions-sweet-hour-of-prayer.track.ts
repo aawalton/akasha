@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsSweetHourOfPrayer = {
   ownLength: 3.552,
   ownProgress: 3.552,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

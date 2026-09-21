@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoBedtimeStoryLullaby = {
   ownLength: 2.518,
   ownProgress: 2.518,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 15,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

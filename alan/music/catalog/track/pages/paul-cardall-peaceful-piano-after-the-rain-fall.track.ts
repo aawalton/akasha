@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoAfterTheRainFall = {
   ownLength: 4.6831,
   ownProgress: 4.6831,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

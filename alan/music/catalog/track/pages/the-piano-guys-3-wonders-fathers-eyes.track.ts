@@ -7,7 +7,6 @@ export const thePianoGuys3WondersFathersEyes = {
   ownLength: 3.9531,
   ownProgress: 3.9531,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

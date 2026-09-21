@@ -7,7 +7,6 @@ export const thePianoGuys3LimitlessFirstDance = {
   ownLength: 4.60605,
   ownProgress: 4.60605,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

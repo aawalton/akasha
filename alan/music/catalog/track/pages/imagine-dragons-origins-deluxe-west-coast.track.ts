@@ -7,7 +7,6 @@ export const imagineDragonsOriginsDeluxeWestCoast = {
   ownLength: 3.61955,
   ownProgress: 3.61955,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

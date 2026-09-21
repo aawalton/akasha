@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsTheSpiritOfGod = {
   ownLength: 3.078,
   ownProgress: 3.078,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
   ownLength: 3.8080333333333334,
   ownProgress: 3.8080333333333334,
   partOfCollections: ["release/ariana-grande-stuck-with-u"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

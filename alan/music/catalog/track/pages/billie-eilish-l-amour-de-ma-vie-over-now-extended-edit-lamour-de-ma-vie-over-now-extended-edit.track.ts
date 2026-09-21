@@ -7,7 +7,6 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEditLamourDeMaVieOverNowExt
   ownLength: 4.532816666666666,
   ownProgress: 4.532816666666666,
   partOfCollections: ["release/billie-eilish-l-amour-de-ma-vie-over-now-extended-edit"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

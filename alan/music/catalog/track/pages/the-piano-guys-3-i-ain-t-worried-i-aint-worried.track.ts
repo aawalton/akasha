@@ -12,7 +12,6 @@ export const thePianoGuys3IAinTWorriedIAintWorried = {
     "release/the-piano-guys-3-unstoppable-2",
     "release/the-piano-guys-piano-focus",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

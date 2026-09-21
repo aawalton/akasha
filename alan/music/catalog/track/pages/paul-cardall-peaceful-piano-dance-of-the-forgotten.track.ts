@@ -7,7 +7,6 @@ export const paulCardallPeacefulPianoDanceOfTheForgotten = {
   ownLength: 3.0797666666666665,
   ownProgress: 3.0797666666666665,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const thePianoGuys3ChristmasTogetherSilentNightHolyNightFeatPlacidoDoming
   ownLength: 3.4854166666666666,
   ownProgress: 3.4854166666666666,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

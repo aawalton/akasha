@@ -7,7 +7,6 @@ export const paulCardallFaithfulDanzaDelAmor = {
   ownLength: 3.9553333333333334,
   ownProgress: 3.9553333333333334,
   partOfCollections: ["release/paul-cardall-faithful"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

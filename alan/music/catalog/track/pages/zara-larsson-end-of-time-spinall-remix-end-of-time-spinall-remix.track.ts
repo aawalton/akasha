@@ -10,7 +10,6 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
     "release/zara-larsson-end-of-time-spinall-remix",
     "release/zara-larsson-end-of-time-the-remixes",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

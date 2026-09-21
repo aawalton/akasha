@@ -10,7 +10,6 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
     "release/paul-cardall-be-thou-my-vision",
     "release/paul-cardall-grace-in-grief",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

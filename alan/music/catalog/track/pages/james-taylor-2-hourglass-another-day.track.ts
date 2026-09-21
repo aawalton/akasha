@@ -7,7 +7,6 @@ export const jamesTaylor2HourglassAnotherDay = {
   ownLength: 2.3562166666666666,
   ownProgress: 2.3562166666666666,
   partOfCollections: ["release/james-taylor-2-hourglass"],
-  position: 7,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

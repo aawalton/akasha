@@ -14,7 +14,6 @@ export const arianaGrandeEternalSunshineBye = {
     "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
     "release/ariana-grande-eternal-sunshine-slightly-deluxe",
   ],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

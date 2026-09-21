@@ -7,7 +7,6 @@ export const imagineDragonsNightVisionsDeluxeMyFault = {
   ownLength: 2.9222166666666665,
   ownProgress: 2.9222166666666665,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

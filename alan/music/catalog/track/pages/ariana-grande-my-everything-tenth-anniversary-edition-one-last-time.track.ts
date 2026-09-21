@@ -10,7 +10,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOneLastTime = {
     "release/ariana-grande-my-everything-tenth-anniversary-edition",
     "release/ariana-grande-one-last-time",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

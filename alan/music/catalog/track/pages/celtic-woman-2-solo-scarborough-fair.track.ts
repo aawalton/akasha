@@ -7,7 +7,6 @@ export const celticWoman2SoloScarboroughFair = {
   ownLength: 3.2169166666666666,
   ownProgress: 3.2169166666666666,
   partOfCollections: ["release/celtic-woman-2-solo"],
-  position: 8,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

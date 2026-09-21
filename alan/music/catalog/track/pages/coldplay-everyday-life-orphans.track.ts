@@ -7,7 +7,6 @@ export const coldplayEverydayLifeOrphans = {
   ownLength: 3.2922166666666666,
   ownProgress: 3.2922166666666666,
   partOfCollections: ["release/coldplay-everyday-life", "release/coldplay-orphans-arabesque"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
   ownLength: 3.15355,
   ownProgress: 3.15355,
   partOfCollections: ["release/paul-cardall-primary-worship", "release/paul-cardall-sacred-piano"],
-  position: 11,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

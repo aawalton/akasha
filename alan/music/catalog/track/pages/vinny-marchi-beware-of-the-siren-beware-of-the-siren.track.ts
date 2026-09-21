@@ -7,7 +7,6 @@ export const vinnyMarchiBewareOfTheSirenBewareOfTheSiren = {
   ownLength: 2.9468666666666667,
   ownProgress: 2.9468666666666667,
   partOfCollections: ["release/vinny-marchi-beware-of-the-siren"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

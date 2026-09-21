@@ -7,7 +7,6 @@ export const paulCardallLivingForEdenSundayDrive = {
   ownLength: 3.203333333333333,
   ownProgress: 3.203333333333333,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

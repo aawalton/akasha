@@ -10,7 +10,6 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
     "release/celtic-woman-2-ancient-land-deluxe",
     "release/celtic-woman-2-ancient-land",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

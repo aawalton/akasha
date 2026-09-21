@@ -7,7 +7,6 @@ export const coldplayASkyFullOfStarsRobinSchulzRemixASkyFullOfStarsRobinSchulzRe
   ownLength: 6.050333333333334,
   ownProgress: 6.050333333333334,
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-robin-schulz-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

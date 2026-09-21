@@ -7,7 +7,6 @@ export const celticWoman2TheMagicOfChristmasOComeOComeEmmanuel = {
   ownLength: 4.150883333333334,
   ownProgress: 4.150883333333334,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

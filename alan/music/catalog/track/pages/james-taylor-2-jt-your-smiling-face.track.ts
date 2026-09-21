@@ -7,7 +7,6 @@ export const jamesTaylor2JtYourSmilingFace = {
   ownLength: 2.7856833333333335,
   ownProgress: 2.7856833333333335,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

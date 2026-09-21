@@ -7,7 +7,6 @@ export const paulCardallTheChristmasBoxTheStoneAngel = {
   ownLength: 3.266,
   ownProgress: 3.266,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

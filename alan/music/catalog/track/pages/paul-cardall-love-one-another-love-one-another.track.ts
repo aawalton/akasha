@@ -7,7 +7,6 @@ export const paulCardallLoveOneAnotherLoveOneAnother = {
   ownLength: 4.01385,
   ownProgress: 4.01385,
   partOfCollections: ["release/paul-cardall-love-one-another", "release/paul-cardall-return-home"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

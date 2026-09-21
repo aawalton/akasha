@@ -7,7 +7,6 @@ export const billieEilishDontSmileAtMeWatch = {
   ownLength: 2.9587166666666667,
   ownProgress: 2.9587166666666667,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

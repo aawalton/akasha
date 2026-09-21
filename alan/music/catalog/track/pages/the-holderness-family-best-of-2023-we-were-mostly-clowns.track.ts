@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023WeWereMostlyClowns = {
   ownLength: 2.1591666666666667,
   ownProgress: 2.1591666666666667,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

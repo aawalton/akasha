@@ -7,7 +7,6 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMeLive = {
   ownLength: 3.7596333333333334,
   ownProgress: 3.7596333333333334,
   partOfCollections: ["release/ariana-grande-santa-can-t-you-hear-me-live"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

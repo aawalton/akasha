@@ -7,7 +7,6 @@ export const thePianoGuysSerenityThinkingOutLoud = {
   ownLength: 3.8773333333333335,
   ownProgress: 0,
   partOfCollections: ["release/the-piano-guys-serenity"],
-  position: 6,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

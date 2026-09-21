@@ -7,7 +7,6 @@ export const zaraLarssonBadBoysBadBoys = {
   ownLength: 2.15355,
   ownProgress: 2.15355,
   partOfCollections: ["release/zara-larsson-bad-boys"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

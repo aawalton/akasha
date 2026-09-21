@@ -11,7 +11,6 @@ export const thePianoGuys310AvengersPortals = {
     "release/the-piano-guys-3-avengers-portals",
     "release/the-piano-guys-3-classical-movie-soundtracks",
   ],
-  position: 9,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

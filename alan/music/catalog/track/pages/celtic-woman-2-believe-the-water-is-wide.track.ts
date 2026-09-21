@@ -7,7 +7,6 @@ export const celticWoman2BelieveTheWaterIsWide = {
   ownLength: 3.51155,
   ownProgress: 3.51155,
   partOfCollections: ["release/celtic-woman-2-believe"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

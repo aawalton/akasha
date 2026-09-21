@@ -7,7 +7,6 @@ export const coldplayLive2012UsAgainstTheWorldLive = {
   ownLength: 3.87,
   ownProgress: 3.87,
   partOfCollections: ["release/coldplay-live-2012"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

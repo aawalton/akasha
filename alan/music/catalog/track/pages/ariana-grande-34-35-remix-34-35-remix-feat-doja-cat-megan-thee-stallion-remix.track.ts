@@ -10,7 +10,6 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
     "release/ariana-grande-34-35-remix",
     "release/ariana-grande-positions-deluxe",
   ],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
   ownLength: 4.574,
   ownProgress: 4.574,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

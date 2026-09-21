@@ -7,7 +7,6 @@ export const vinnyMarchiTheDragonbornComesTheDragonbornComes = {
   ownLength: 3.4724333333333335,
   ownProgress: 3.4724333333333335,
   partOfCollections: ["release/vinny-marchi-the-dragonborn-comes"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

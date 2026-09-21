@@ -7,7 +7,6 @@ export const paulCardallChillCollectionFaithful = {
   ownLength: 4.8579,
   ownProgress: 4.8579,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

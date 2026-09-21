@@ -7,7 +7,6 @@ export const paulCardallHymnsJesusOfNazarethSaviorAndKing = {
   ownLength: 2.358433333333333,
   ownProgress: 2.358433333333333,
   partOfCollections: ["release/paul-cardall-hymns"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

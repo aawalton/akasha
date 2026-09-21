@@ -7,7 +7,6 @@ export const celticWoman2DestinyLikeAnAngelPassingThroughMyRoom = {
   ownLength: 5.267516666666666,
   ownProgress: 5.267516666666666,
   partOfCollections: ["release/celtic-woman-2-destiny"],
-  position: 14,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

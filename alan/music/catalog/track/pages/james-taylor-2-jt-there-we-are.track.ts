@@ -7,7 +7,6 @@ export const jamesTaylor2JtThereWeAre = {
   ownLength: 3.0147166666666667,
   ownProgress: 3.0147166666666667,
   partOfCollections: ["release/james-taylor-2-jt"],
-  position: 2,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

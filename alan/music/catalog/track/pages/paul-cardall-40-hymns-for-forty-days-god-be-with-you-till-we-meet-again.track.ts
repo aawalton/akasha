@@ -7,7 +7,6 @@ export const paulCardall40HymnsForFortyDaysGodBeWithYouTillWeMeetAgain = {
   ownLength: 3.3493333333333335,
   ownProgress: 3.3493333333333335,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
-  position: 33,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const emeiRabbithole2Sugarcoat = {
   ownLength: 2.5045,
   ownProgress: 2.5045,
   partOfCollections: ["release/emei-rabbithole-2"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

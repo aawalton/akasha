@@ -7,7 +7,6 @@ export const auroraComeCloserIDrinkTheLight = {
   ownLength: 7.948216666666666,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer", "release/aurora-i-drink-the-light"],
-  position: 8,
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [

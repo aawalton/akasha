@@ -7,7 +7,6 @@ export const jamesTaylor2OtherCoversWasntThatAMightyStorm = {
   ownLength: 4.262666666666667,
   ownProgress: 4.262666666666667,
   partOfCollections: ["release/james-taylor-2-other-covers"],
-  position: 5,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

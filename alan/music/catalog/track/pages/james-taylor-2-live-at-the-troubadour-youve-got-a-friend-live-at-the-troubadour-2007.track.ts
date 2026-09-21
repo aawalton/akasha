@@ -7,7 +7,6 @@ export const jamesTaylor2LiveAtTheTroubadourYouveGotAFriendLiveAtTheTroubadour20
   ownLength: 5.86,
   ownProgress: 5.86,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
-  position: 13,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

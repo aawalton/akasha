@@ -7,7 +7,6 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
   ownLength: 4.323083333333333,
   ownProgress: 4.323083333333333,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   ownLength: 2.358,
   ownProgress: 2.358,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

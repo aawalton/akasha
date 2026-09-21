@@ -7,7 +7,6 @@ export const coldplayTalkTalkJunkieXlRemix = {
   ownLength: 11.714433333333334,
   ownProgress: 11.714433333333334,
   partOfCollections: ["release/coldplay-talk"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

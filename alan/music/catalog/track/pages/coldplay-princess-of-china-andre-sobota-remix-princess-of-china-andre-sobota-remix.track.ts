@@ -7,7 +7,6 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
   ownLength: 5.0664,
   ownProgress: 5.0664,
   partOfCollections: ["release/coldplay-princess-of-china-andre-sobota-remix"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

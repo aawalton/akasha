@@ -7,7 +7,6 @@ export const paulCardallChillCollectionBackToLA = {
   ownLength: 2.0693333333333332,
   ownProgress: 2.0693333333333332,
   partOfCollections: ["release/paul-cardall-chill-collection"],
-  position: 16,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -7,7 +7,6 @@ export const celticWoman2CelebrationAmazingGrace = {
   ownLength: 5.0151,
   ownProgress: 5.0151,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 6,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

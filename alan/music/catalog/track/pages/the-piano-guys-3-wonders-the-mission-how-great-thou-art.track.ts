@@ -7,7 +7,6 @@ export const thePianoGuys3WondersTheMissionHowGreatThouArt = {
   ownLength: 3.10955,
   ownProgress: 3.10955,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
-  position: 10,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

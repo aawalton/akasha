@@ -7,7 +7,6 @@ export const sabrinaCarpenterSueMeRemixesSueMe6amRemix = {
   ownLength: 2.8916666666666666,
   ownProgress: 2.8916666666666666,
   partOfCollections: ["release/sabrina-carpenter-sue-me-remixes"],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

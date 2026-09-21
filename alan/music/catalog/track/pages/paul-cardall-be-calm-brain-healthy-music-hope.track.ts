@@ -10,7 +10,6 @@ export const paulCardallBeCalmBrainHealthyMusicHope = {
     "release/paul-cardall-be-calm-brain-healthy-music",
     "release/paul-cardall-chill-collection",
   ],
-  position: 3,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

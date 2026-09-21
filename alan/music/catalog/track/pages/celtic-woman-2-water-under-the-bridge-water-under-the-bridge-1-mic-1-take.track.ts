@@ -7,7 +7,6 @@ export const celticWoman2WaterUnderTheBridgeWaterUnderTheBridge1Mic1Take = {
   ownLength: 3.7333333333333334,
   ownProgress: 3.7333333333333334,
   partOfCollections: ["release/celtic-woman-2-water-under-the-bridge"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

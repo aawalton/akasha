@@ -7,7 +7,6 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
   ownLength: 1.7886833333333334,
   ownProgress: 1.7886833333333334,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
-  position: 28,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

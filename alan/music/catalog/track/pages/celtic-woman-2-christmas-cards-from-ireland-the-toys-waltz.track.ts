@@ -7,7 +7,6 @@ export const celticWoman2ChristmasCardsFromIrelandTheToysWaltz = {
   ownLength: 3.0404333333333335,
   ownProgress: 3.0404333333333335,
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
-  position: 1,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

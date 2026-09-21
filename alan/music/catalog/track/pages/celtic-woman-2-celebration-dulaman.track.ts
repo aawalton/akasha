@@ -7,7 +7,6 @@ export const celticWoman2CelebrationDulaman = {
   ownLength: 3.1251,
   ownProgress: 3.1251,
   partOfCollections: ["release/celtic-woman-2-celebration"],
-  position: 4,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

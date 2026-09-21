@@ -7,7 +7,6 @@ export const coldplayXYTwistedLogic = {
   ownLength: 4.531,
   ownProgress: 4.531,
   partOfCollections: ["release/coldplay-x-y"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

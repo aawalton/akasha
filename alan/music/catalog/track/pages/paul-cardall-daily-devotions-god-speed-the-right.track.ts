@@ -7,7 +7,6 @@ export const paulCardallDailyDevotionsGodSpeedTheRight = {
   ownLength: 1.9084333333333334,
   ownProgress: 1.9084333333333334,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
-  position: 12,
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
