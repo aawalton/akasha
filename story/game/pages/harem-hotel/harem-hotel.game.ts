@@ -23,7 +23,6 @@ export const haremHotel = {
   displayConfig: "json",
   gmContext: "json",
   narrativeContinuity: "json",
-  rulebook: "json",
   resolutionMechanism: "json",
   turns: "jsonl",
   entities: "jsonl",
