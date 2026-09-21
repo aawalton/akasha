@@ -55,6 +55,7 @@ export const alanHarness = {
     "service-workstation/persona-points-rebuilding",
     "domain/better-auth-rr",
     "domain/handover-rr",
+    "module/reading-in-flight",
   ],
   decisions: [
     {
