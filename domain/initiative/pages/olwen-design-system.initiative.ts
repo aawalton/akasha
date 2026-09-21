@@ -6,4 +6,10 @@ export const olwenDesignSystem = {
   slug: "olwen-design-system",
   domain: "domain/design-interface-system",
   persona: "persona/olwen",
+  intentStack: [
+    {
+      statement:
+        "Every panel in the design system gallery is laid out on its own rather than inside a group.",
+    },
+  ],
 } as const satisfies Initiative
