@@ -67,9 +67,15 @@ test("a track Spotify states no link for states no link on its carrier", () => {
   })
 })
 
+test("a track that is part of a release among other collections names that release", () => {
+  const was = { ...TRACK, partOfCollections: ["song/always-an-angel", CARRIER] }
+  expect(carrierOf(was)?.release).toBe(CARRIER)
+})
+
 test("a track already carrying a release is read as carrying one", () => {
   expect(carriesAlready({ carriedBy: [{ release: CARRIER, externalId: "abc" }] })).toBe(true)
   expect(carriesAlready({ carriedBy: [] })).toBe(false)
+  expect(carriesAlready({ carriedBy: CARRIER })).toBe(false)
   expect(carriesAlready(TRACK)).toBe(false)
 })
 
