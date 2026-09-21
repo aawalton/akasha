@@ -10,5 +10,5 @@ export const readingAFeelingOffMyBehaviour = {
   parents: ["all-about-alan-topic/how-i-read-myself"],
   related: ["all-about-alan-topic/reading-myself-before-the-words"],
   settled:
-    "Most people feel it and then notice the smile. I notice the smile and work out what I must feel.\n\nOnly involuntary defaults count. A smile I produce carries nothing, and the default cannot lie.\n\nThe emotions are real and running. What is missing is my access, and a word is what turns one into something I notice.\n\nThe tell gives presence and roughly which one. Magnitude comes only from the map, and which drive fired it is on nothing.",
+    "Most people feel it and then notice the smile. I notice the smile and work out what I must feel.\n\nOnly involuntary defaults count. A smile I produce carries nothing, and the default cannot lie.\n\nThe emotions are real and running. What is missing is my access, and a word is what turns one into something I notice.\n\nThe tell gives presence and roughly which one. Magnitude comes only from the map, and which drive fired it is on nothing.\n\nTears are themselves a safety reading. I have to feel safe before I can cry at all, so whatever comes out that way came out in a moment safe enough to let it show.",
 } as const satisfies AllAboutAlanTopic
