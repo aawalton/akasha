@@ -9,6 +9,8 @@ import {
   SUPERVISOR_SCRIPT,
 } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { pollAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
+import { autoCompactPoll } from "akasha/agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
+import { LIVE_IDLE_RULE } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getAgentActionHandler,
@@ -60,6 +62,13 @@ export function startPerAgentMonitors(args: {
       },
       browserReapPoll({
         getClaudePid: () => SELF_HEAL_STATE.getClaudePidForSelfHeal(),
+        log,
+      }),
+      autoCompactPoll({
+        getAgentId: args.getAgentId,
+        getClaudePid: () => SELF_HEAL_STATE.getClaudePidForSelfHeal(),
+        getProxyPort: () => getOAuthProxyHandle()?.port ?? null,
+        idleRule: LIVE_IDLE_RULE,
         log,
       }),
     ],
