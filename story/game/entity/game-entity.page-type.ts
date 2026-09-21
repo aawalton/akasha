@@ -22,6 +22,12 @@ export const gameEntity = {
     { pageProperty: "record-property/entity-traits", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/entity-titles", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/entity-skills", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "record-property/entity-affinities",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -58,5 +64,9 @@ export const gameEntity = {
     "record-property/entity-titles",
     "number-property/skill-progress",
     "record-property/entity-skills",
+    "text-property/affinity-type",
+    "text-property/affinity-tier",
+    "number-property/affinity-counter",
+    "record-property/entity-affinities",
   ],
 } as const satisfies PageType

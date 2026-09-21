@@ -1,0 +1,8 @@
+{"definition":"how far an affinity has come within the tier it sits in"}
+{"id":"01a0c638-c954-778c-ad9f-3304de506db9"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"counter"}
+{"slug":"affinity-counter"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
