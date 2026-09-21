@@ -1,0 +1,1 @@
+- Takes the benefit of sex to accrue to the species over deep time. Selection keeps no account at the species level: an asexual mutant out-breeds her sexual neighbours every generation and owns the population long before any epidemic arrives, so a payoff that lands on the species cannot fund a premium charged on an individual. Surfaced; the correction is still being put to him.

@@ -11,5 +11,6 @@ export const learnEverythingTopic07ReproductionAndSex = {
   partOf: [
     "learn-everything-topic/learn-everything-topic-03-the-structures-and-functions-of-organisms",
   ],
+  misconceptions: "md",
   topicEvidence: "md",
 } as const satisfies LearnEverythingTopic
