@@ -779,6 +779,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/personalization/spotify-personalization.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/pkce-store/spotify-pkce-store.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/player/spotify-player.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/playlists/spotify-playlists.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/releases/spotify-releases.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/scopes/spotify-scopes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/spotify/modules/search/spotify-search.module.ts"}

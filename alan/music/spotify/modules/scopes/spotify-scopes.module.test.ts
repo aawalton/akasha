@@ -29,6 +29,10 @@ test("the scopes the player is commanded under are asked for", () => {
   expect(SPOTIFY_SCOPES).toContain("user-top-read")
 })
 
+test("the scope a playlist is written under is asked for", () => {
+  expect(SPOTIFY_SCOPES).toContain("playlist-modify-private")
+})
+
 test("a scope no call in this domain needs is not asked for", () => {
   expect(SPOTIFY_SCOPES).toEqual([
     "user-top-read",
@@ -36,5 +40,6 @@ test("a scope no call in this domain needs is not asked for", () => {
     "user-read-playback-state",
     "user-read-currently-playing",
     "user-modify-playback-state",
+    "playlist-modify-private",
   ])
 })

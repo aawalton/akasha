@@ -22,6 +22,7 @@ export const spotify = {
     "module/spotify-token-store",
     "module/spotify-tracks",
     "page-type/spotify-account",
+    "module/spotify-playlists",
   ],
   decisions: [
     {

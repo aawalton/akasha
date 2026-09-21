@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/personalization/spotify-personalization.module.test.ts"}
 {"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/player/spotify-player.module.code.ts"}
 {"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/player/spotify-player.module.test.ts"}
+{"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/playlists/spotify-playlists.module.code.ts"}
 {"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/releases/spotify-releases.module.code.ts"}
 {"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/releases/spotify-releases.module.test.ts"}
 {"propertySlug":"import","fileName":"spotify-fetching.module.code.ts","path":"alan/music/spotify/modules/search/spotify-search.module.code.ts"}

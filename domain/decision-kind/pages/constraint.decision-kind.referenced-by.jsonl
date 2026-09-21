@@ -160,6 +160,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.ts","id":"01a0c48f-9abd-747d-802b-08b86404c189"}
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/fetching/spotify-fetching.module.ts","id":"01a06261-dc1d-700f-a5c9-3bfc9c2b5371"}
+{"propertySlug":"decision-kind","path":"alan/music/spotify/modules/playlists/spotify-playlists.module.ts","id":"01a0c4ed-a8b0-7e8c-9703-45d944d791a6"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/releases/spotify-releases.module.ts","id":"01a09c6f-017f-70b7-a662-48904bec6460"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/tracks/spotify-tracks.module.ts","id":"01a06261-dc1d-700a-bfca-ad92b08a3e74"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
