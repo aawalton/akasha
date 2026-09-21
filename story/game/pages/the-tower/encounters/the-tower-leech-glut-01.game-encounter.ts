@@ -13,4 +13,16 @@ export const theTowerLeechGlut01 = {
   trigger: "entering the deep water, submerging, or warmth/blood entering the flood",
   experience: 90,
   drop: "a sac of swarm-ichor (alchemy/affinity seed) — sticky, mildly caustic, throwable",
+  gates: [
+    {
+      name: "struck in the flood",
+      multiplier: 0.3,
+      note: "The mass pools and re-forms in water, so a blow struck while it is in the flood cuts water.",
+    },
+    {
+      name: "stranded on dry stone",
+      multiplier: 1,
+      note: "Out of the water the mass loses cohesion, halves its own attack and takes a blow whole. Lure and strand is the kill.",
+    },
+  ],
 } as const satisfies GameEncounter
