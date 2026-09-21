@@ -107,6 +107,9 @@ export type Changes = {
   "change-agent/nest-modules": Parameters<
     typeof import("akasha/change/agent/folder/nest-modules/nest-modules.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/point-book-links-at-sections": Parameters<
+    typeof import("akasha/change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/qualify-relation-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
