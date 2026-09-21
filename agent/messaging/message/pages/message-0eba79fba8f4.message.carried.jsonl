@@ -1,7 +1,0 @@
-{"body":"the audit at 72897722d269eddb2238ade8e7f831d85af308e9 found 1 check newly refusing and 1 check nothing measured.\n`tests-pass` refused 1 time:\n  agent/hook/agent-hook/name-session/name-session.agent-hook.test.ts — Measured between 2026-09-21T17:15:45.032Z and 2026-09-21T17:16:51.785Z. 4 test files failed: agent/hook/agent-hook/name-session/name-session.agent-hook.test.ts alan/harnes... (3547 characters more)\n`folder-matches-a-shape` went unmeasured:\n  check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.ts — the check `folder-matches-a-shape` died on SIGKILL apart, so it judged nothing —\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
-{"from":"audit-running"}
-{"id":"01a0c4fa-cbba-7000-94cc-0eba79fba8f4"}
-{"slug":"message-0eba79fba8f4"}
-{"to":"seat/thea"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
