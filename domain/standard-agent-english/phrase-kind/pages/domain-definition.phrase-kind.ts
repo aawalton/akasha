@@ -5,5 +5,4 @@ export const domainDefinition = {
   type: "page-type/phrase-kind",
   slug: "domain-definition",
   definition: "the sort of phrase a domain definition is written as",
-  decisions: [],
 } as const satisfies PhraseKind
