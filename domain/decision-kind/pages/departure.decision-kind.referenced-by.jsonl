@@ -4003,6 +4003,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-set-scan-run/lib-sets-debug-debug-set-scan-run.module.ts","id":"01a0623c-2df7-774b-b28f-3e28f57b8014"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.ts","id":"01a0623c-2df7-7642-8643-ff60b0ac0a6c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.ts","id":"01a0623c-2df7-753c-824c-7675ce095ff4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-dungeon-finder/lib-sets-debug-dungeon-finder.module.ts","id":"01a0c513-4d66-7497-ad50-78e549ccb189"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-drop-name-dropmechanic-names-index/lib-sets-drop-name-dropmechanic-names-index.module.ts","id":"01a061d6-3e2d-7671-9e8a-4f33f962730b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-drop-name-install-names/lib-sets-drop-name-install-names.module.ts","id":"01a061d6-3e2c-7086-af34-b1aa34b67fc9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-drop-name-names-de/lib-sets-drop-name-names-de.module.ts","id":"01a061d6-3e26-74aa-b888-20006a0d5efa"}

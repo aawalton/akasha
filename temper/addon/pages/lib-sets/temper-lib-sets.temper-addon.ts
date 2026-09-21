@@ -248,6 +248,7 @@ export const temperLibSets = {
     "type-declaration/lib-sets-set-type-ids",
     "type-declaration/lib-sets-table-keys",
     "module/lib-sets-const-settype-names",
+    "module/lib-sets-debug-dungeon-finder",
   ],
   interfaces: [
     "eso-interface/lib-sets-copy-text-dialog",
