@@ -13,4 +13,21 @@ export const theTowerDrownedSentry01 = {
   trigger: "stepping onto the submerged platform, or attacking from the walkway",
   experience: 110,
   drop: "a still-warm rivet of fire-purged iron (heat-affinity seed) and the Sentry's intact pauldron (armor def 2, wearable — Alan's first armor)",
+  gates: [
+    {
+      name: "struck at the front",
+      multiplier: 0.4,
+      note: "The fused plate turns most of a frontal blow.",
+    },
+    {
+      name: "struck behind",
+      multiplier: 1.5,
+      note: "Its back, or an unarmored joint behind the knee or neck, takes a blow clean.",
+    },
+    {
+      name: "set alight",
+      multiplier: 2,
+      note: "It is dry rot under the rust. Burning, its seized joints crack and it loses the turn flailing. Cold water does nothing.",
+    },
+  ],
 } as const satisfies GameEncounter
