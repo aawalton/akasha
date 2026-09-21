@@ -21,6 +21,8 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/icons.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquities.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/properties/cadwell-stops.page-property-entry.ts"}
@@ -32,8 +34,6 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/tier-achievements.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-gear/temper-set/properties/bonuses.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-gear/temper-set/properties/icons.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/thing/properties/quality-values.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts"}
