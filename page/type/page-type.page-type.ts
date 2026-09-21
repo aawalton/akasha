@@ -110,6 +110,13 @@ export const pageType = {
     { pageProperty: "file-property/shapes", required: false, many: false },
     { pageProperty: "text-property/plural-slug", required: false, many: false },
     { pageProperty: "text-property/loaded-export", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "record-property/select-option-colors",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   typeGenerator: "ts",
   decisions: [
@@ -136,6 +143,11 @@ export const pageType = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A page type says here whether the paths its pages spell are a container's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type says here the values its pages choose from, where every page chooses from one set.",
     },
     {
       decisionKind: "decision-kind/absence",
