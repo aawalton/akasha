@@ -36,6 +36,11 @@ export const astraLandingReadsOnlyWhatChanged = {
       workingMemory:
         "Spawning `git cat-file --batch` is not the cost in `commit-reading.module.code.ts`: each spawn is about a millisecond. The landing ends the reading in `judged` and again before it writes, and the tree cache used to go with it. A tree under a commit never changes, so trees are held under the commit a reader resolved rather than by the reader, which is 1.8% of a landing in the profile.",
     },
+    {
+      statement: "A change is typechecked in a program built from the files that change reaches.",
+      workingMemory:
+        "The check builds a whole TypeScript program for each change and throws it away. The roots are the changed files' importer closure plus every `.d.ts` git tracks: 284 of them, about 250 of them ESO and Temper declarations for code the Lua compiler owns. `skipLibCheck` is false and `types` names all 32 packages under `node_modules/@types`. Diagnostics are asked for the roots alone, so the narrowing is done on the asking side and the cost is all in building the program.",
+    },
   ],
   constraints: [
     "A file already carrying what would be written again is left alone: `keepDelta`, `reconcile` and `wholeInto` each compare before writing, and the profile bears that out.",
