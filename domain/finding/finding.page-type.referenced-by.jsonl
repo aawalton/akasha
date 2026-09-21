@@ -145,7 +145,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-hook-runs-after-a-tool-call-so-a-bash-calls-cost-is-seen-by-nothing.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-memory-limit-the-workstation-holds-is-a-page-property.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-method-signature-costs-an-overload-set-wherever-one-interface-spans-two-files.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-passport-path-chosen.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-predicate-separates-a-parse-error-from-a-refusal.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-typechecker-judges-a-stylesheet-import.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-asserts-a-scratch-world-is-coherent.finding.ts"}
