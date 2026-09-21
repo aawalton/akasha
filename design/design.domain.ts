@@ -10,6 +10,7 @@ export const design = {
     "domain/design-interface",
     "domain/design-language",
     "domain/technology",
+    "domain/design-play",
   ],
   decisions: [
     {

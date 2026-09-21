@@ -373,6 +373,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/design-language.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lua-compiler.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/play/design-play.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/definition/technology-definition.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/technology.domain.ts"}

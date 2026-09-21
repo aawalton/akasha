@@ -2,6 +2,6 @@
 {"definition":"how something is done well"}
 {"directives":[]}
 {"id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
-{"parts":["domain/design-game","domain/design-interface","domain/design-language","domain/technology"]}
+{"parts":["domain/design-game","domain/design-interface","domain/design-language","domain/technology","domain/design-play"]}
 {"slug":"design"}
 {"type":"page-type/domain"}
