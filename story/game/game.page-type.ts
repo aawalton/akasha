@@ -40,6 +40,7 @@ export const game = {
     "text-property/card-vocabulary",
     "relation-property/game-default-dice",
     "page-type/game-panel",
+    "relation-property/game-panels",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -84,6 +85,7 @@ export const game = {
     },
     { pageProperty: "text-property/card-vocabulary", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/game-default-dice", required: false, many: false },
+    { pageProperty: "relation-property/game-panels", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

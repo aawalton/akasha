@@ -14,6 +14,7 @@ import type { GameCharacters } from "akasha/story/game/properties/game-character
 import type { GameDefaultDice } from "akasha/story/game/properties/game-default-dice.relation-property.types.ts"
 import type { GameEngine } from "akasha/story/game/properties/game-engine.text-property.types.ts"
 import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.relation-property.types.ts"
+import type { GamePanels } from "akasha/story/game/properties/game-panels.relation-property.types.ts"
 import type { Genre } from "akasha/story/game/properties/genre.text-property.types.ts"
 import type { GmContext } from "akasha/story/game/properties/gm-context.file-property.types.ts"
 import type { LoreEntries } from "akasha/story/game/properties/lore-entries.file-property.types.ts"
@@ -65,4 +66,5 @@ export type Game = Collection & {
   attributes?: GameAttributes
   cardVocabulary?: CardVocabulary
   defaultDice?: GameDefaultDice
+  panels?: GamePanels
 }
