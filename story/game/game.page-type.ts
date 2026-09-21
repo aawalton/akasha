@@ -191,6 +191,10 @@ export const game = {
       decisionKind: "decision-kind/departure",
       statement: "A game master asks a mechanic for a number rather than working that number out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game's rules are the mechanics that game names and are written nowhere else.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

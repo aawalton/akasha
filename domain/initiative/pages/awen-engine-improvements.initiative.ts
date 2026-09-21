@@ -6,5 +6,5 @@ export const awenEngineImprovements = {
   slug: "awen-engine-improvements",
   domain: "domain/story-engine",
   persona: "persona/awen",
-  intentStack: [{ statement: "No game states its rules in more than one place." }],
+  intentStack: [{ statement: "Every row a turn writes is written by a command." }],
 } as const satisfies Initiative

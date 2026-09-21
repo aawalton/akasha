@@ -25,6 +25,11 @@ export const mechanicRuns = {
       decisionKind: "decision-kind/absence",
       statement: "No row holds a copy of the rules, the commit holding those.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A row written before a command ran holds the game master's shape, not the mechanic's.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty
