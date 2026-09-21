@@ -14,7 +14,7 @@ export const blockSubagentAudit = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An audit is refused for the memory a run has rather than for the changes a run writes.",
+        "The cost this hook once refused a narrowed run for is gone, and the refusal is Alan's to lift.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,17 +39,17 @@ export const blockSubagentAudit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run narrowed to named paths is refused.",
+      statement:
+        "`--file-path` is no argument of `akasha audit`, and a call naming it is refused here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run naming no check asks the service, so that run is refused here by nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A run naming no check and no path asks the service, so that run is refused here by nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A narrowed run asks the service like a bare run, so the cost this refusal names is gone.",
+        "A narrowed run asks the service as a bare run does, and judges no check where it is called.",
     },
     {
       decisionKind: "decision-kind/departure",

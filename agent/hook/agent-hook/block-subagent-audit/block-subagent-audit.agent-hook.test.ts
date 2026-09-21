@@ -55,19 +55,39 @@ test("a seat's narrowed run is let through", () => {
   expect(asSeat(NARROWED)).toBe(ASIDE)
 })
 
-test("the refusal says what a run costs rather than what a run writes", () => {
+test("the refusal names `--file-path` as no argument rather than as a way to narrow files", () => {
   const err = answerFor(payload(NARROWED, OWN)).err
-  expect(err).toContain("20.4 GB")
-  expect(err).toContain("what a run COSTS while it holds the machine")
-  expect(err).toContain("--check")
+  expect(err).toContain("`--file-path` IS NO ARGUMENT OF `akasha audit`")
+  expect(err).not.toContain("`--file-path` narrows the files as well")
+  expect(err).not.toContain("--file-path <one folder>")
 })
 
-test("the refusal says what narrowing costs rather than denying that narrowing helps", () => {
+test("the refusal says the cost it once named is gone rather than saying that cost is here", () => {
   const err = answerFor(payload(NARROWED, OWN)).err
-  expect(err).toContain("--file-path")
-  expect(err).toContain("1.5 GB")
-  expect(err).toContain("0.6 GB")
+  expect(err).toContain("THE COST THIS REFUSAL ONCE NAMED IS GONE")
+  expect(err).toContain("asks `audit-running.service` for a round over HTTP")
+  expect(err).not.toContain("judge in this process")
+  expect(err).not.toContain("20.4 GB")
+})
+
+test("the refusal says what a run costs now, each figure measured rather than supposed", () => {
+  const err = answerFor(payload(NARROWED, OWN)).err
+  expect(err).toContain("Each figure here is measured")
+  expect(err).toContain("a Kubernetes job on a cluster node rather than this workstation")
+  expect(err).toContain("148 MB to 189 MB resident")
+})
+
+test("the refusal gives Alan's say as its reason rather than a cost it no longer has", () => {
+  const err = answerFor(payload(NARROWED, OWN)).err
+  expect(err).toContain("what a hook refuses is Alan's to settle")
   expect(err).toContain("reads who calls rather than what the call asks for")
+  expect(err).not.toContain("really are several audits")
+})
+
+test("the scope no longer says either flag judges in the process that called it", () => {
+  const there = SCOPE.join("\n")
+  expect(there).toContain("Neither does now.")
+  expect(there).not.toContain("Each of these two flags judges in the process that calls it")
 })
 
 test("the refusal names the bare run as what answers instead", () => {
