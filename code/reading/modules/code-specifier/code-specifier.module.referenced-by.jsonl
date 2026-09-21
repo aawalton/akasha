@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"change/modules/package-naming/package-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts"}
@@ -13,6 +12,7 @@
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-relative-specifier/no-relative-specifier.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}

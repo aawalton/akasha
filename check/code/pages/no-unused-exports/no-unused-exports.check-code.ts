@@ -5,7 +5,7 @@ export const noUnusedExports = {
   type: "page-type/check-code",
   slug: "no-unused-exports",
   definition: "the check refusing a file exporting a value no other file names",
-  parts: ["module/recent-landing"],
+  parts: ["module/recent-landing", "module/specifier-placing"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,

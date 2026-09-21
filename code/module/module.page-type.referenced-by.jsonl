@@ -914,7 +914,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/value-spelling/value-spelling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/runner/change-runner.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/runner/modules/change-loading/change-loading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.ts"}
@@ -927,6 +926,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts"}

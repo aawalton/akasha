@@ -696,7 +696,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.ts","id":"01a09bac-a3ec-74c7-8af0-d1eee1c41021"}
 {"propertySlug":"decision-kind","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.ts","id":"01a09c40-0ec4-7764-a533-6c87a8f60dd9"}
 {"propertySlug":"decision-kind","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.ts","id":"01a0824b-5ca1-7150-a799-fd2189f44fe4"}
-{"propertySlug":"decision-kind","path":"check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.ts","id":"01a09163-1a4e-7000-9e11-f25866bf23e0"}
 {"propertySlug":"decision-kind","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.ts","id":"01a0826b-f1ac-77a7-8379-299804f515d2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.ts","id":"01a08d69-0b2e-7025-abd3-c4abe10799be"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.ts","id":"01a09518-e34b-711d-97f3-8664b5b48363"}
@@ -776,6 +775,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.ts","id":"01a0827a-4d80-79bc-bbe8-8a9a67dd2103"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-tmp/no-tmp.check-code.ts","id":"01a04ecb-5cd1-7000-8159-83b7e93d72b9"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.ts","id":"01a0a6a5-eb52-75e5-80e6-26f59f6bee6b"}
+{"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.ts","id":"01a09163-1a4e-7000-9e11-f25866bf23e0"}
 {"propertySlug":"decision-kind","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts","id":"01a077f1-476a-7f87-bc33-22c26c2fc750"}
 {"propertySlug":"decision-kind","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.ts","id":"01a04e92-bfba-7ca8-b12b-37b6a6a4c408"}
 {"propertySlug":"decision-kind","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.ts","id":"01a04bcb-c705-720a-a6fb-4dbd5fee1594"}

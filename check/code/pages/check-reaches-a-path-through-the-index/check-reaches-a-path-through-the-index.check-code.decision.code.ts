@@ -1,7 +1,7 @@
 import {
   type Specified,
   specifyingIn,
-} from "akasha/check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
+} from "akasha/check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"
 import { runsIn } from "akasha/code/path/modules/path-runs/path-runs.module.code.ts"
 import {
   lineOf,

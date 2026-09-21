@@ -5,7 +5,7 @@ export const checkReachesAPathThroughTheIndex = {
   type: "page-type/check-code",
   slug: "check-reaches-a-path-through-the-index",
   definition: "the check refusing a page file that spells or lists a path the index answers for",
-  parts: ["module/specifier-placing"],
+  parts: [],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,

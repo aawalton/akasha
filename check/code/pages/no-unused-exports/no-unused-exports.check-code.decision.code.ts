@@ -1,6 +1,6 @@
 import { basename, dirname } from "node:path"
 import { exportsIn } from "akasha/check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"
-import { loadingIn } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
+import { loadingIn } from "akasha/check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"
 import {
   loadedExportsSparing,
   pageTypesFor,
