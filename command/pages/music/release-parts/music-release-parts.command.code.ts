@@ -14,7 +14,7 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { releaseOf } from "akasha/command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"
+import { releasesOf } from "akasha/command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"
 import { musicReleaseParts as page } from "akasha/command/pages/music/release-parts/music-release-parts.command.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -65,16 +65,20 @@ export function valuesCleared(was: Value): Value {
   return { ...was, [OWN_LENGTH]: 0, [OWN_PROGRESS]: 0 }
 }
 
-export function tracksByReleaseIn(root: string): ReadonlyMap<string, readonly Value[]> {
+export function tracksByRelease(tracks: readonly Value[]): ReadonlyMap<string, readonly Value[]> {
   const held = new Map<string, Value[]>()
-  for (const one of valuesOfType(root, TRACK)) {
-    const named = releaseOf(one.value)
-    if (named === null) continue
-    const carried = held.get(named) ?? []
-    carried.push(one.value)
-    held.set(named, carried)
+  for (const one of tracks) {
+    for (const named of releasesOf(one)) {
+      const carried = held.get(named) ?? []
+      carried.push(one)
+      held.set(named, carried)
+    }
   }
   return held
+}
+
+export function tracksByReleaseIn(root: string): ReadonlyMap<string, readonly Value[]> {
+  return tracksByRelease(valuesOfType(root, TRACK).map((one) => one.value))
 }
 
 export function clearingIn(root: string): Clearing {

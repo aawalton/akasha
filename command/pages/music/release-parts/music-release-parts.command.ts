@@ -27,6 +27,14 @@ export const musicReleaseParts = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A release carries every track naming that release.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track naming two releases is carried by both of them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A release carrying no track is not covered.",
     },
     {

@@ -18,6 +18,7 @@ import { musicHeardTracks as page } from "akasha/command/pages/music/heard-track
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   recordsIn,
+  slugsUnder,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -61,13 +62,12 @@ export type Counted = {
 
 export type Marking = { readonly counts: Counted; readonly changes: readonly Asking[] }
 
+export function releasesOf(value: Value): readonly string[] {
+  return slugsUnder(value[PART_OF], UNDER)
+}
+
 export function releaseOf(value: Value): string | null {
-  const held = value[PART_OF]
-  if (!Array.isArray(held)) return null
-  for (const one of held) {
-    if (typeof one === "string" && one.startsWith(UNDER)) return one.slice(UNDER.length)
-  }
-  return null
+  return releasesOf(value)[0] ?? null
 }
 
 export function carriedIdsIn(value: Value): readonly string[] {
@@ -84,8 +84,7 @@ export function heardBy(
   finished: ReadonlySet<string>,
   heardIds: ReadonlySet<string>
 ): Heard {
-  const release = releaseOf(value)
-  if (release !== null && finished.has(release)) return RELEASE
+  if (releasesOf(value).some((one) => finished.has(one))) return RELEASE
   return carriedIdsIn(value).some((one) => heardIds.has(one)) ? "listening" : null
 }
 

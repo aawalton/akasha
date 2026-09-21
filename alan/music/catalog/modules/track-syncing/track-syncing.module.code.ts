@@ -23,6 +23,7 @@ import type { Asking } from "akasha/change/runner/pages/mechanical-change-runnin
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   recordsIn,
+  slugsUnder,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -90,18 +91,6 @@ function carriersWith(held: unknown, fresh: Value): readonly Value[] {
   })
 }
 
-function releasesIn(value: Value): readonly string[] {
-  const held = value[PART_OF]
-  if (!Array.isArray(held)) return []
-  const named: string[] = []
-  for (const one of held) {
-    if (typeof one === "string" && one.startsWith(UNDER_RELEASE)) {
-      named.push(one.slice(UNDER_RELEASE.length))
-    }
-  }
-  return named
-}
-
 function collectionsWith(held: unknown, named: string): readonly string[] {
   const kept = Array.isArray(held)
     ? held.filter((one): one is string => typeof one === "string" && one !== "")
@@ -131,7 +120,7 @@ export function tracksFiledIn(root: string): Tracked {
       rows.push({ slug, externalId: textIn(carrier, EXTERNAL_ID) })
     }
     held.set(slug, one.value)
-    for (const releaseSlug of releasesIn(one.value)) byRelease.add(releaseSlug)
+    for (const said of slugsUnder(one.value[PART_OF], UNDER_RELEASE)) byRelease.add(said)
     const key = textIn(one.value, TRACK_KEY)
     if (key === null) continue
     byKey.set(key, slugSortingFirst(byKey.get(key) ?? null, slug))

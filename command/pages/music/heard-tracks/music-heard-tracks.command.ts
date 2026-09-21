@@ -15,7 +15,7 @@ export const musicHeardTracks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track on a release Alan finished is a track Alan heard.",
+      statement: "A track on any release Alan finished is a track Alan heard.",
     },
     {
       decisionKind: "decision-kind/departure",

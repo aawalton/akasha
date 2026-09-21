@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
+import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import {
   covers,
   lengthOver,
   messageOf,
   rowsOf,
   statesNothing,
+  tracksByRelease,
   valuesCleared,
 } from "akasha/command/pages/music/release-parts/music-release-parts.command.code.ts"
 
@@ -63,4 +66,25 @@ test("the rows say every count the run made", () => {
 
 test("the message counts the releases the run clears rather than the releases it read", () => {
   expect(messageOf(COUNTS)).toBe("take the own length off 5 release(s) their tracks carry")
+})
+
+test("a release carries every track naming that release", () => {
+  const here = { slug: "elf", partOfCollections: ["release/sylvia-daley-pixie"] }
+  const there = { slug: "fool", partOfCollections: ["release/sylvia-daley-pixie"] }
+  expect(tracksByRelease([here, there]).get("sylvia-daley-pixie")).toEqual([here, there])
+})
+
+test("a track naming two releases is carried by both of them", () => {
+  const one = {
+    slug: "elf",
+    partOfCollections: ["release/sylvia-daley-pixie", "release/sylvia-daley-elf"],
+  }
+  const byRelease = tracksByRelease([one])
+  expect(byRelease.get("sylvia-daley-pixie")).toEqual([one])
+  expect(byRelease.get("sylvia-daley-elf")).toEqual([one])
+})
+
+test("a track naming no release is carried by nothing", () => {
+  const under = `${artist.slug}/${sylviaDaley.slug}`
+  expect([...tracksByRelease([{ slug: "elf", partOfCollections: [under] }])]).toEqual([])
 })

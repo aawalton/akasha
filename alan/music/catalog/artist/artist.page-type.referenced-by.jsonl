@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/link-songs/music-link-songs.command.test.ts"}
+{"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/release-parts/music-release-parts.command.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/adele/adele.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/alex-warren/alex-warren.artist.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.types.ts","path":"alan/music/catalog/artist/pages/alexandria/alexandria.artist.ts"}

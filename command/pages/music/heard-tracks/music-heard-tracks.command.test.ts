@@ -6,6 +6,7 @@ import {
   keysHeardOver,
   messageOf,
   releaseOf,
+  releasesOf,
   rowsOf,
   valuesHeard,
 } from "akasha/command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"
@@ -50,8 +51,21 @@ test("a track carried by no release names none", () => {
   expect(releaseOf({ partOfCollections: [ARTIST_AT] })).toBeNull()
 })
 
+test("a track names every release carrying it", () => {
+  expect(
+    releasesOf({
+      partOfCollections: ["release/sylvia-daley-elf", ARTIST_AT, ...ON_PIXIE.partOfCollections],
+    })
+  ).toEqual(["sylvia-daley-elf", "sylvia-daley-pixie"])
+})
+
 test("a track on a release Alan finished is a track Alan heard", () => {
   expect(heardBy(ON_PIXIE, FINISHED, HEARD)).toBe("release")
+})
+
+test("a track on any release Alan finished is a track Alan heard", () => {
+  const value = { partOfCollections: [...ON_ELF.partOfCollections, ...ON_PIXIE.partOfCollections] }
+  expect(heardBy(value, FINISHED, new Set())).toBe("release")
 })
 
 test("a track the heard music page names is a track Alan heard", () => {

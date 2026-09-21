@@ -46,6 +46,15 @@ export function slugsIn(said: unknown): readonly string[] {
   return named
 }
 
+export function slugsUnder(said: unknown, under: string): readonly string[] {
+  if (!Array.isArray(said)) return []
+  const named: string[] = []
+  for (const one of said) {
+    if (typeof one === "string" && one.startsWith(under)) named.push(one.slice(under.length))
+  }
+  return named
+}
+
 export function recordsIn(held: unknown): readonly Value[] {
   const listed = Array.isArray(held) ? held : [held]
   return listed.filter(
