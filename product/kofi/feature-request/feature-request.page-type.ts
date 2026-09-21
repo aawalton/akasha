@@ -19,9 +19,20 @@ export const featureRequest = {
   ],
   types: "ts",
   schema: "jsonl",
-  parts: ["text-property/feature-request-ask", "relation-property/feature-request-product"],
+  parts: [
+    "text-property/feature-request-ask",
+    "relation-property/feature-request-product",
+    "relation-property/feature-request-backer",
+    "record-property/feature-request-backing",
+  ],
   properties: [
     { pageProperty: "text-property/feature-request-ask", required: true, many: false },
     { pageProperty: "relation-property/feature-request-product", required: true, many: false },
+    {
+      pageProperty: "record-property/feature-request-backing",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
 } as const satisfies PageType
