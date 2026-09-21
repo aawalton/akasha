@@ -13,7 +13,7 @@ export const hudAddonPublicApi = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The shape of the global is stated in `temper-addon-library-types`.",
+      statement: "The shape of the global is stated in `temper-addon-type`.",
     },
     {
       decisionKind: "decision-kind/departure",
