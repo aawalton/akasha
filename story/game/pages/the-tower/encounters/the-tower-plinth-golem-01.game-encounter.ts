@@ -13,4 +13,16 @@ export const theTowerPlinthGolem01 = {
   trigger: "approaching the archway / the dais, or striking the seated Golem",
   experience: 220,
   drop: "the cracked keystone (a dense rune-cut block — equipment/crafting seed, the heaviest 'core' yet) and the Warden's stone gauntlet (armor def 3, OR a heavy improvised fist-weapon atk 7 for a MIGHT build — Alan likely sells/crafts it)",
+  gates: [
+    {
+      name: "struck anywhere but the keystone",
+      multiplier: 0.25,
+      note: "The body is solid stone, so pounding the torso or the limbs is nearly futile.",
+    },
+    {
+      name: "placed on the keystone",
+      multiplier: 3,
+      note: "The plinth at its sternum is the one load-bearing block. Reading it is intellect and placing it is finesse, never a contest of might.",
+    },
+  ],
 } as const satisfies GameEncounter
