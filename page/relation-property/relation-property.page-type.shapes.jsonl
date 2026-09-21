@@ -3,6 +3,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"held-addon","unique":null,"uniquePropertySlug":null,"slug":"adjacents","propertySlug":"adjacents","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"alert-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"alias-of","propertySlug":"alias-of","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"anchor-image","propertySlug":"anchor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"answered-by","propertySlug":"answered-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"app","propertySlug":"app","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"argument","propertySlug":"argument","fileName":null,"folderName":null}
@@ -32,6 +33,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-component","unique":null,"uniquePropertySlug":null,"slug":"component","propertySlug":"component","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-component","unique":null,"uniquePropertySlug":null,"slug":"components","propertySlug":"components","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-condition-field","unique":null,"uniquePropertySlug":null,"slug":"condition-field","propertySlug":"condition-field","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"cover-images","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"craft-day-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-inventory-currency","unique":null,"uniquePropertySlug":null,"slug":"currency-key","propertySlug":"currency-key","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"day","unique":null,"uniquePropertySlug":null,"slug":"day","propertySlug":"day","fileName":null,"folderName":null}
@@ -163,5 +165,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"unique-property","propertySlug":"unique-property","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"value-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"view-page-type","propertySlug":"page-type","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"wallpaper-images","propertySlug":"wallpapers","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world","unique":null,"uniquePropertySlug":null,"slug":"world","propertySlug":"world","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-written","unique":null,"uniquePropertySlug":null,"slug":"written-chapter-story","propertySlug":"story","fileName":null,"folderName":null}
