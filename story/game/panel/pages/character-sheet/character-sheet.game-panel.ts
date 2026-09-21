@@ -33,5 +33,23 @@ export const characterSheet = {
       decisionKind: "decision-kind/departure",
       statement: "What a gain felt like belongs to the prose rather than to this panel.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot with nothing in it is not shown, so gear not yet owned is not foretold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The titles are not shown at all until the first title lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A part of the sheet already opened says it holds none yet rather than going away.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "An affinity's tier is fused into its name, so no reader can tell a promotion apart.",
+    },
   ],
 } as const satisfies GamePanel
