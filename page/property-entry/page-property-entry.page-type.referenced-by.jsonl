@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/processed-messages.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-transactions.page-property-entry.ts"}

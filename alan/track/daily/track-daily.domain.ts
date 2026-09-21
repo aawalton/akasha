@@ -40,7 +40,8 @@ export const trackDaily = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An ESO day decides which day a health reading or a listen is filed under.",
+      statement:
+        "An ESO day decides which day a health reading, a listen or a location trace is filed under.",
     },
   ],
 } as const satisfies Domain

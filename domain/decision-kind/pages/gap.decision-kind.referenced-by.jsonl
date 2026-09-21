@@ -148,6 +148,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/arousal.domain.ts","id":"01a06c95-1991-726a-8273-86c28202a2f2"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/date.text-property.ts","id":"01a05fd8-c30e-7ae3-b3f5-528afcf00bbe"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts","id":"01a0c566-954d-7c03-a37c-2c767ffdffd7"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/meals.text-property.ts","id":"01a05fd8-c30f-7952-9ba0-4a131ba3347a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/capacity-rate.number-property.ts","id":"01a05fd8-c30f-7486-b22b-7e17134582db"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/daily-tracking.text-property.ts","id":"01a05fd8-c30f-7127-badb-476efde0211e"}
@@ -160,7 +161,6 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.ts","id":"01a082fc-e5c5-79e4-9bcb-7eacb82bf302"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-opening/day-opening.module.ts","id":"01a069c3-a82a-798b-b746-3c9dfa4f21fc"}
 {"propertySlug":"decision-kind","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
-{"propertySlug":"decision-kind","path":"alan/track/location-trace/location-trace.page-type.ts","id":"01a06836-795a-76ec-95fa-2b57e5a7dc38"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.ts","id":"01a0655d-daa6-7fba-9667-d8a69380ce58"}

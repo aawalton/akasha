@@ -78,6 +78,7 @@ export const day = {
     "text-property/safety-level",
     "text-property/to-do-slug",
     "text-property/version",
+    "page-property-entry/location-traces",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -166,6 +167,12 @@ export const day = {
     },
     { pageProperty: "page-property-entry/listens", required: false, many: false },
     { pageProperty: "number-property/lowest-email-inbox-count", required: false, many: false },
+    {
+      pageProperty: "page-property-entry/location-traces",
+      required: false,
+      many: false,
+      default: "jsonl",
+    },
   ],
   decisions: [
     {

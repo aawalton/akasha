@@ -209,6 +209,9 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/date.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/source-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/listens/properties/play-key.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/device-id.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/trace-activity-type.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/trace-source.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/meals.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/recurrence.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/safety-level.text-property.ts"}
@@ -220,9 +223,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/properties/start-time.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/version.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/location-trace/properties/device-id.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/location-trace/properties/trace-activity-type.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/location-trace/properties/trace-source.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/to-do/properties/due-time.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-recurrence.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-notes.text-property.ts"}

@@ -36,9 +36,9 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/ended-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/started-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/last-viewed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/trace-captured-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/properties/asserted-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/food-entry/properties/happened-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/location-trace/properties/trace-captured-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-completed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-last-completed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-performed-at.instant-property.ts"}

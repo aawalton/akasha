@@ -482,6 +482,7 @@
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.ts","id":"01a0c537-ba8c-76cf-8c53-2c9af0c65345"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-request-propose/requests-api-request-propose.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts","id":"01a0c566-954d-7c03-a37c-2c767ffdffd7"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/messages-sent.number-property.ts","id":"01a082db-9816-7ab2-b6ed-8a897a78de90"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/persona-messages.record-property.ts","id":"01a082e2-4994-7f71-aa2d-ad0fc9b437f9"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/akasha-day/akasha-day.module.ts","id":"01a069d3-579d-7fa0-9114-43050587d24b"}
@@ -495,7 +496,6 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/topic-words/topic-words.module.ts","id":"01a06972-bd40-7000-9a84-aea39ed039e2"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/track-shape/track-shape.module.ts","id":"01a069d7-ba37-75fb-8dbd-6f5be522dda9"}
 {"propertySlug":"decision-kind","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
-{"propertySlug":"decision-kind","path":"alan/track/location-trace/location-trace.page-type.ts","id":"01a06836-795a-76ec-95fa-2b57e5a7dc38"}
 {"propertySlug":"decision-kind","path":"alan/track/modules/landing/track-landing.module.ts","id":"01a072c2-e567-7000-a1b9-3a51eea84ed2"}
 {"propertySlug":"decision-kind","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-capture/tracking-capture.page-type.ts","id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}
