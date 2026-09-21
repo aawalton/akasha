@@ -10,14 +10,12 @@ export const authProxy = {
     "manifest/auth-proxy-manifests",
     "module/auth-proxy-config",
     "module/auth-proxy-server",
-    "module/cookie-match-core",
     "module/cors",
     "module/cors-core",
     "module/proxy",
     "module/proxy-core",
+    "module/proxy-reading",
     "module/route-map-core",
-    "module/session-identity",
-    "module/ttl-cache",
     "module/ws-bridge",
   ],
   decisions: [
@@ -30,8 +28,12 @@ export const authProxy = {
       statement: "A host the route map names no target for is refused rather than guessed at.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A session is handed out and ended by the auth server rather than by the proxy.",
+      decisionKind: "decision-kind/departure",
+      statement: "A code is minted by alanwalton.com and kept here as a cookie of the host's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The people a host behind the proxy admits are named in that host's environment.",
     },
   ],
 } as const satisfies Domain

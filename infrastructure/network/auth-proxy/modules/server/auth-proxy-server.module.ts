@@ -26,6 +26,15 @@ export const authProxyServer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each gated host lands a handover code of its own at one path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller signed in as somebody not admitted is refused rather than sent to sign in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Loading this module starts the server.",
     },
   ],

@@ -25,6 +25,8 @@ export type Peripheral = {
 const PERIPHERALS = {
   "archive-of-worlds": { origin: "https://archiveofworlds.app", landingPath: "/handover" },
   atlas: { origin: "https://atlas.alanwalton.com", landingPath: "/handover" },
+  git: { origin: "https://git.alanwalton.com", landingPath: "/handover" },
+  grafana: { origin: "https://grafana.alanwalton.com", landingPath: "/handover" },
   smilingjenny: { origin: "https://smilingjenny.me", landingPath: "/handover" },
   temper: { origin: "https://tempereso.com", landingPath: "/handover" },
 } as const satisfies Readonly<Record<string, Peripheral>>

@@ -1,18 +1,18 @@
-import type { Identity } from "akasha/infrastructure/network/auth-proxy/modules/session-identity/session-identity.module.code.ts"
+import type { Caller } from "akasha/infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
 
 export async function proxyRequest(
   req: Request,
   target: string,
-  identity: Identity,
+  caller: Caller,
   proxy?: string
 ): Promise<Response> {
   const url = new URL(req.url)
   const targetUrl = new URL(url.pathname + url.search, target)
 
   const headers = new Headers(req.headers)
-  headers.set("X-Forwarded-User", identity.sub)
-  headers.set("X-Forwarded-Email", identity.email)
-  headers.set("X-Forwarded-Name", identity.name)
+  headers.set("X-Forwarded-User", caller.sub)
+  headers.set("X-Forwarded-Email", caller.email)
+  headers.set("X-Forwarded-Name", caller.name)
 
   return await fetch(targetUrl.toString(), {
     method: req.method,

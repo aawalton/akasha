@@ -7,6 +7,7 @@ import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k
 import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { authProxy } from "akasha/infrastructure/service/cluster/pages/auth-proxy/auth-proxy.service-cluster.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 const NAMESPACE = authProxy.namespace
 const APP_NAME = authProxy.resourceName
@@ -39,6 +40,18 @@ const ROUTE_MAP_VALUE = JSON.stringify({
   "git.alanwalton.com": "http://git-transport.git.svc.cluster.local:3000",
   "supabase.alanwalton.com": "http://supabase-studio.supabase-studio.svc.cluster.local:3000",
 })
+
+const CONTRIBUTOR_PREFIX = "contributor/"
+
+const ADMITTED_VALUE = JSON.stringify({
+  [alan.contributor.slice(CONTRIBUTOR_PREFIX.length)]: {
+    sub: alan.slug,
+    email: alan.email,
+    name: alan.slug,
+  },
+})
+
+const SECRETS_NAME = `${APP_NAME}-secrets`
 
 type PathRoute = {
   host: string
@@ -176,16 +189,7 @@ function deploymentYaml(): string {
                 { name: "PORT", value: String(PORT) },
                 { name: "ROUTE_MAP", value: ROUTE_MAP_VALUE },
                 { name: "PATH_ROUTES", value: PATH_ROUTES_VALUE },
-                { name: "SIGN_IN_URL", value: "https://alanwalton.com/sign-in" },
-                {
-                  name: "SUPABASE_JWKS_URL",
-                  value: "http://gotrue.gotrue.svc.cluster.local:9999/.well-known/jwks.json",
-                },
-                {
-                  name: "SUPABASE_JWT_ISSUER",
-                  value: "https://supabase.alanwalton.com/auth/v1",
-                },
-                { name: "SUPABASE_JWT_AUDIENCE", value: "authenticated" },
+                { name: "ADMITTED", value: ADMITTED_VALUE },
                 { name: "CORS_ALLOWED_ORIGINS", value: CORS_ALLOWED_ORIGINS_VALUE },
                 {
                   name: "CORS_ALLOWED_ORIGIN_PATTERNS",
@@ -193,6 +197,7 @@ function deploymentYaml(): string {
                 },
                 { name: "CORS_PATH_PREFIXES", value: "/auth/v1" },
               ],
+              envFrom: [{ secretRef: { name: SECRETS_NAME } }],
               volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
               resources: {
                 requests: { cpu: "50m", memory: "2Gi" },

@@ -2654,15 +2654,13 @@
 {"propertySlug":"decision-kind","path":"infrastructure/modules/calls/infrastructure-calls.module.ts","id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.ts","id":"01a06863-8e7c-7047-9da8-7b7f8e0ac120"}
-{"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/cookie-match-core/cookie-match-core.module.ts","id":"01a06863-8e7c-7c09-8de5-7989e7888711"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/cors-core/cors-core.module.ts","id":"01a06863-8e7c-7a4c-808c-4834fedcab58"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/cors/cors.module.ts","id":"01a06863-8e7c-7ff0-95ea-2e1024563925"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/proxy-core/proxy-core.module.ts","id":"01a06863-8e7c-73d0-a5a6-6291492430fc"}
+{"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.ts","id":"01a0c431-b8d3-7e65-a891-4058c98aea65"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/proxy/proxy.module.ts","id":"01a06863-8e7c-79d7-b834-766a91baff9f"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/route-map-core/route-map-core.module.ts","id":"01a06863-8e7c-7cd0-bc1e-33ed95b0fe0a"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/server/auth-proxy-server.module.ts","id":"01a06863-8e7c-7ef6-a465-4e287ec25a18"}
-{"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/session-identity/session-identity.module.ts","id":"01a06863-8e7c-7703-ae2b-76173d35d19f"}
-{"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/ttl-cache/ttl-cache.module.ts","id":"01a06863-8e7c-73b7-9277-f3ce34ede55e"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/ws-bridge/ws-bridge.module.ts","id":"01a06863-8e7c-78f7-8506-2298935c6523"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/certificate/authority/properties/authority-certificate.file-property.ts","id":"01a0685e-1c21-7a40-9f3e-2b7c4d51e803"}
