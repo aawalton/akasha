@@ -132,7 +132,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/building/index-building.module.code.ts"}
