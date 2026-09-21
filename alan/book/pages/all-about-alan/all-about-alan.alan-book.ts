@@ -13,7 +13,7 @@ export const allAboutAlan = {
   ],
   title: "All About Alan",
   description:
-    "This is the orientation an `/abby` interviewer loads before the first question. Its job is narrow and specific: surface the **unusual, easy-to-miss things** about Alan — the places where a normal-person prior would mislead you — so you don't open cold and don't spend the session re-deriving the architecture.",
+    "What I have worked out about myself, one topic to a page. A topic sits under the topic it belongs to, all the way up to the one topic that is me, and it holds what is settled about its own single thing. What is not settled sits beside it as a question. Read the topic before you ask me about it: a question the book already answers spends the one thing an interview is short of.",
   unit: "unit/words",
   decisions: [
     {
