@@ -4,7 +4,7 @@ export const track = {
   id: "01a0a57b-23fe-7c3a-92e1-06b28a781b17",
   type: "page-type/page-type",
   slug: "track",
-  definition: "one recording as a release carries it",
+  definition: "one recording and every release carrying it",
   extends: ["page-type/collection-external"],
   parts: [
     "boolean-property/explicit",
@@ -34,15 +34,11 @@ export const track = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track is part of the release carrying that track.",
+      statement: "A track is part of every release carrying that track.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Spotify is the record of a track.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "One recording carried on two releases is two tracks.",
     },
     {
       decisionKind: "decision-kind/departure",
