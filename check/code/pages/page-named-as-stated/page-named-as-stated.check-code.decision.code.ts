@@ -89,12 +89,65 @@ function namedForAPage(path: string, heldInAFile: ReadonlySet<string>): boolean 
   return said !== null && besideAPage(said, heldInAFile)
 }
 
+const OUTER = /^(?! |$).*$/gm
+
+const OPENED_AS = /^export const ([A-Za-z_$][A-Za-z0-9_$]*) = \{$/
+
+const SHUT_AS = /^\} as const satisfies [A-Za-z_$][A-Za-z0-9_$.]*$/
+
+const IMPORTED = /^import /
+
+const SLUG_SAID = /^ {2}slug: "([^"\n\\]*)",$/m
+
+const PAGE_TYPE_SAID = /^ {2}type: "([^"\n\\]*)",$/m
+
+const WAS_PAGE_TYPE_SAID = /^ {2}pageTypeSlug: "([^"\n\\]*)",$/m
+
+const SLUG_KEY = `${SLUG}:`
+
+const PAGE_TYPE_KEY = `${PAGE_TYPE}:`
+
+const WAS_PAGE_TYPE_KEY = `${WAS_PAGE_TYPE_SLUG}:`
+
+function countOf(text: string, one: string): number {
+  let held = 0
+  let at = text.indexOf(one)
+  while (at !== -1) {
+    held += 1
+    at = text.indexOf(one, at + one.length)
+  }
+  return held
+}
+
+function pageTypeSaidIn(text: string): string | null {
+  const typed = countOf(text, PAGE_TYPE_KEY)
+  if (typed === 1) return PAGE_TYPE_SAID.exec(text)?.[1] ?? null
+  if (typed !== 0 || countOf(text, WAS_PAGE_TYPE_KEY) !== 1) return null
+  return WAS_PAGE_TYPE_SAID.exec(text)?.[1] ?? null
+}
+
+export function namedPlainly(stem: string, suffix: string, text: string): boolean {
+  const outer = [...text.matchAll(OUTER)]
+  const shut = outer[outer.length - 1]
+  const opened = outer[outer.length - 2]
+  if (shut === undefined || opened === undefined) return false
+  if (shut.index + shut[0].length !== text.length - 1 || !SHUT_AS.test(shut[0])) return false
+  if (OPENED_AS.exec(opened[0])?.[1] !== exportedAs(stem)) return false
+  for (const one of outer.slice(0, -2)) {
+    if (!IMPORTED.test(one[0])) return false
+  }
+  if (countOf(text, SLUG_KEY) !== 1 || SLUG_SAID.exec(text)?.[1] !== stem) return false
+  const said = pageTypeSaidIn(text)
+  return said !== null && slugOf(said) === suffix
+}
+
 export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
   const said = partedIn(given.path)
   if (said === null || !besideAPage(said, heldInAFile)) return []
   const stem = said.slug
   const suffix = said.pageType
   const body = bodyOf(given)
+  if (namedPlainly(stem, suffix, body)) return []
   const stated = pagesIn(given.path, body)
   const first = stated[0]
   if (first === undefined) return []

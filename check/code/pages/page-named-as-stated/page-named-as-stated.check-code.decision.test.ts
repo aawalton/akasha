@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  namedPlainly,
   pageIn,
   pagesIn,
   reasonsIn,
@@ -270,4 +271,30 @@ test("a page is read the same where imports, a type and a function sit above it"
     { slug: "ledger", pageTypeSlug: "module", named: "ledger" },
   ])
   expect(reasons("akasha/ledger.module.ts", body)).toEqual([])
+})
+
+test("a page written as pages are written is judged clean off its own text", () => {
+  const body = page("ledger", "module")
+  expect(namedPlainly("ledger", "module", body)).toBe(true)
+  expect(reasons("akasha/ledger.module.ts", body)).toEqual([])
+})
+
+test("a body written any other way is parsed rather than taken as clean", () => {
+  const nested = [
+    "export const ledger = {",
+    '  id: "one",',
+    '  pageTypeSlug: "module",',
+    '  slug: "ledger",',
+    "  held: {",
+    '  slug: "other",',
+    "  },",
+    "} as const satisfies Page",
+    "",
+  ].join("\n")
+  expect(namedPlainly("ledger", "module", nested)).toBe(false)
+  expect(reasons("akasha/ledger.module.ts", nested)).toEqual([])
+  expect(namedPlainly("ledger", "module", page("ledges", "module"))).toBe(false)
+  const twice = `${page("ledger", "module")}${page("ledges", "domain")}`
+  expect(namedPlainly("ledger", "module", twice)).toBe(false)
+  expect(reasons("akasha/ledger.module.ts", twice)).toHaveLength(1)
 })

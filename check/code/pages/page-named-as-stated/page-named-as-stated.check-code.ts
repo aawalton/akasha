@@ -81,6 +81,11 @@ export const pageNamedAsStated = {
       decisionKind: "decision-kind/departure",
       statement: "A file's name is parted once, and the judging reads what that parting gave.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body written the one way pages are written is judged off its text, and any other is parsed.",
+    },
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
