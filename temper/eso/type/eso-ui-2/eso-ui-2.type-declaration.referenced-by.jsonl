@@ -162,11 +162,11 @@
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-shared/minimap-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-register/dungeon-champion-pin-register.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}

@@ -802,7 +802,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/quests/modules/quests-auto-quest/quests-auto-quest.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/quests/modules/quests-classify/quests-classify.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-saved-variables/selector-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"}

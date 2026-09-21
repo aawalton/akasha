@@ -155,7 +155,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/navigation/navigation-declarations/navigation-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/trading/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lorebook/lorebooks-controls/lorebooks-controls.type-declaration.ts"}

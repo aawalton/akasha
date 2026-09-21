@@ -808,9 +808,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-classify/quests-classify.module.ts","id":"01a0635f-391c-79c4-8464-429301bdaa3c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-saved-variables/quests-saved-variables.module.ts","id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/temper-addon-quests.temper-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
-{"propertySlug":"decision-kind","path":"temper/addon/trading-addon/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts","id":"01a0616b-5a16-7e5f-b792-c43a0671a8d9"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.ts","id":"01a0616b-83c5-7863-8ef6-9a4458d16ae4"}

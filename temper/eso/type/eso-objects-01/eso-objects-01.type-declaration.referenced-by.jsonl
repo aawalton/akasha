@@ -43,9 +43,9 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library/lorebooks-library.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-reports/lorebooks-reports.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
