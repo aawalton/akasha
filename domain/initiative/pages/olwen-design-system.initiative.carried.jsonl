@@ -1,6 +1,6 @@
 {"domain":"domain/design-interface-system"}
 {"id":"01a0c491-da86-751c-812c-611378a9eacb"}
-{"intentStack":[{"statement":"The design system gallery shows the badge of every display variant the property system has."}]}
+{"intentStack":[]}
 {"persona":"persona/olwen"}
 {"slug":"olwen-design-system"}
 {"type":"page-type/initiative"}
