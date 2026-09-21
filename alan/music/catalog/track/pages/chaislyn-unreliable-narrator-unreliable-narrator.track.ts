@@ -4,6 +4,7 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
   id: "01a0b9ec-955b-7ba8-a086-04d3ac112f99",
   type: "page-type/track",
   slug: "chaislyn-unreliable-narrator-unreliable-narrator",
+  grade: "A",
   ownLength: 2.7575333333333334,
   ownProgress: 0,
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
