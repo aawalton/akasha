@@ -1,0 +1,7 @@
+{"body":"the audit at e88769ea39796a9d5df1046b5b38ef5db53b967c found 1 check newly refusing.\n`tests-pass` refused 1 time:\n  alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.test.ts — Measured between 2026-09-21T19:16:30.259Z and 2026-09-21T19:17:57.206Z. 4 test files failed: alan/harness/email-watch/modules/email-rule-reading/email-r... (2439 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0c568-34b7-7000-92e1-7cdadd78a51c"}
+{"slug":"message-7cdadd78a51c"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
