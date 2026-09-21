@@ -6,10 +6,10 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDefyingGravityL
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-defying-gravity-live-from-the-dolby",
   grade: "C",
   ownLength: 3.733633333333333,
-  ownProgress: 0,
+  ownProgress: 3.733633333333333,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

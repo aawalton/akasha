@@ -6,10 +6,10 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-thank-goodness-live-from-the-dolby",
   grade: "C",
   ownLength: 4.013333333333334,
-  ownProgress: 0,
+  ownProgress: 4.013333333333334,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

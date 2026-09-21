@@ -6,10 +6,10 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDancingThroughL
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-dancing-through-life-live-from-the",
   grade: "C",
   ownLength: 5.9676,
-  ownProgress: 0,
+  ownProgress: 5.9676,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
