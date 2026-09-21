@@ -201,6 +201,7 @@
 {"propertySlug":"decision-kind","path":"agent/properties/edits.file-property.ts","id":"01a07771-c8a1-7ef9-b931-04ce8f6bbc85"}
 {"propertySlug":"decision-kind","path":"agent/properties/reads.file-property.ts","id":"01a09c31-c3c6-74f8-9064-94c903e1ba85"}
 {"propertySlug":"decision-kind","path":"agent/properties/refusals.file-property.ts","id":"01a08164-c068-734a-9643-dbd686a4e3cc"}
+{"propertySlug":"decision-kind","path":"agent/role/pages/game-master.role.ts","id":"01a053c5-8d2a-7358-a19d-f3a1c5da0f75"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/handler.role.ts","id":"01a053c5-8d2a-7e24-96b7-b979c198e039"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/interviewer.role.ts","id":"01a053c5-8d2b-7d78-bf41-4e1a994fe61f"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/operator.role.ts","id":"01a053c5-8d2c-70e4-8a45-06368ddfc0ae"}
