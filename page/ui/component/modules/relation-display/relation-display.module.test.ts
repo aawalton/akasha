@@ -31,12 +31,18 @@ describe("resolveRelationName", () => {
     expect(resolveRelationName(RESOLVER, { id: PAGE_ID, title: "Carried" })).toBe("Carried")
   })
 
-  it("answers the address where the page that address reaches has no title", () => {
-    expect(resolveRelationName(NAMELESS, ADDRESS)).toBe(ADDRESS)
+  it("names the page from its address where the page that address reaches has no title", () => {
+    expect(resolveRelationName(NAMELESS, ADDRESS)).toBe("Blue Rose")
   })
 
-  it("answers the value itself where nothing reaches a page", () => {
-    expect(resolveRelationName(RESOLVER, UNREACHED)).toBe(UNREACHED)
+  it("names the page from its address where nothing reaches a page", () => {
+    expect(resolveRelationName(RESOLVER, UNREACHED)).toBe("No Such Flower")
+  })
+
+  it("answers the value itself where that value holds no slash", () => {
+    expect(resolveRelationName(RESOLVER, "019dda20-a963-727d-8922-000000000000")).toBe(
+      "019dda20-a963-727d-8922-000000000000"
+    )
   })
 })
 

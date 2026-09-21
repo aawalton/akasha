@@ -1,4 +1,5 @@
 import { colorRuleVariantToBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import type {
   BadgeVariant,
   ColorRuleVariant,
@@ -18,15 +19,21 @@ export function resolveRelationPageId(
   return resolver?.resolve(named)?.id ?? named
 }
 
+const QUALIFIED_BY = "/"
+
+function namedFrom(said: string): string {
+  return said.includes(QUALIFIED_BY) ? titledAs(said) : said
+}
+
 export function resolveRelationName(
   resolver: { resolve: (id: string) => { id: string; title: string } | null } | null,
   value: RelationValue
 ): string {
-  if (typeof value === "object") return value.title !== "" ? value.title : value.id
-  if (!resolver) return value
+  if (typeof value === "object") return value.title !== "" ? value.title : namedFrom(value.id)
+  if (!resolver) return namedFrom(value)
   const entry = resolver.resolve(value)
-  if (entry === null) return value
-  return entry.title !== "" ? entry.title : value
+  if (entry === null) return namedFrom(value)
+  return entry.title !== "" ? entry.title : namedFrom(value)
 }
 
 export function resolveRelationVariant(

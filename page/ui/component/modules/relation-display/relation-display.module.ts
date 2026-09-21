@@ -18,12 +18,16 @@ export const relationDisplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A relation value reaching no page is drawn as the text that value is.",
+      statement: "A relation value reaching no page is drawn as the name its address ends in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value holding no slash is no address, and is drawn as the text that value is.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A page holding no title is drawn as the text reaching it rather than as Untitled.",
+        "A page holding no title is drawn as the name reaching it rather than as Untitled.",
     },
   ],
 } as const satisfies Module
