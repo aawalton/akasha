@@ -6,7 +6,20 @@ export const carTrim = {
   slug: "car-trim",
   definition: "one specification a model year is sold in",
   extends: ["page-type/car"],
-  parts: ["relation-property/car-year", "number-property/msrp"],
+  parts: [
+    "relation-property/car-year",
+    "number-property/msrp",
+    "boolean-property/android-auto-wireless",
+    "boolean-property/carplay-wireless",
+    "boolean-property/federal-tax-credit-eligible",
+    "boolean-property/kill-switch-present",
+    "boolean-property/runs-offline",
+    "select-property/battery-chemistry",
+    "select-property/charging-port",
+    "select-property/drive-layout",
+    "select-property/iihs-rating",
+    "select-property/powertrain-type",
+  ],
   properties: [{ pageProperty: "relation-property/car-year", required: true, many: false }],
   decisions: [
     {

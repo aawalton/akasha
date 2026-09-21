@@ -9,6 +9,11 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"agent/seat/properties/on-call.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"agent/seat/properties/send-in-flight.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"agent/subagent/properties/subagent-stopped.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/android-auto-wireless.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/carplay-wireless.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/federal-tax-credit-eligible.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/kill-switch-present.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/runs-offline.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/car-research/car/properties/short-list.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/chess/game/properties/rated.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/chess/progress/properties/active-drill.boolean-property.ts"}

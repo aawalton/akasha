@@ -4,6 +4,11 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/messaging/message/properties/message-warrant.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/model/test/properties/case-answer.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-status.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/battery-chemistry.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/charging-port.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/drive-layout.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/iihs-rating.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/powertrain-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/chess/game/properties/chess-outcome.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/chess/game/properties/chess-result.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/chess/game/properties/chess-speed.select-property.ts"}

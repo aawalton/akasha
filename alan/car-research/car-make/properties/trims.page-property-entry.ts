@@ -14,6 +14,16 @@ export const trims = {
     { pageProperty: "text-property/sources", required: true, many: false },
     { pageProperty: "text-property/exclusion-reason", required: false, many: false },
     { pageProperty: "number-property/msrp", required: false, many: false },
+    { pageProperty: "select-property/powertrain-type", required: true, many: false },
+    { pageProperty: "select-property/drive-layout", required: true, many: false },
+    { pageProperty: "select-property/charging-port", required: false, many: false },
+    { pageProperty: "select-property/battery-chemistry", required: false, many: false },
+    { pageProperty: "select-property/iihs-rating", required: false, many: false },
+    { pageProperty: "boolean-property/kill-switch-present", required: true, many: false },
+    { pageProperty: "boolean-property/runs-offline", required: true, many: false },
+    { pageProperty: "boolean-property/carplay-wireless", required: false, many: false },
+    { pageProperty: "boolean-property/android-auto-wireless", required: false, many: false },
+    { pageProperty: "boolean-property/federal-tax-credit-eligible", required: false, many: false },
   ],
   decisions: [
     {
