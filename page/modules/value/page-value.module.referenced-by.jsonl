@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/code/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.check-code.decision.code.ts"}

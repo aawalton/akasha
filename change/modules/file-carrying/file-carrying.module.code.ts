@@ -1,7 +1,21 @@
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { dirname, join } from "node:path"
+import {
+  type FileChange,
+  splicedTo,
+  splicing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
+import {
+  pageOf,
+  partedIn,
+  uncommittedNamed,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { bodyFor, nameFor } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+
+const TYPED = ".ts"
 
 export function refusalOver(world: World, moved: ReadonlyMap<string, string>): string | null {
   if (moved.size === 0) return "no path was handed in, so nothing is moved"
@@ -42,6 +56,29 @@ export function repointedOver(
   return said
 }
 
+function pageAt(path: string): string | null {
+  const said = partedIn(path)
+  return said === null ? null : join(dirname(path), `${pageOf(said)}${TYPED}`)
+}
+
+function respelledOver(world: World, moved: ReadonlyMap<string, string>): readonly FileChange[] {
+  const said: FileChange[] = []
+  for (const [from, to] of moved) {
+    if (!uncommittedNamed(to)) continue
+    const was = pageAt(from)
+    const page = pageAt(to)
+    if (was === null || page === null || nameFor(was) === nameFor(page)) continue
+    const text = world.textOf(to) ?? world.textOf(from)
+    if (text === null) continue
+    const held = loadedFrom(text).value
+    if (held === null) continue
+    const body = bodyFor(page, held)
+    if (body === text) continue
+    said.push(...splicing(to, text, [splicedTo(text, body)]))
+  }
+  return said
+}
+
 export function carriedBy(
   world: World,
   moved: ReadonlyMap<string, string>
@@ -49,5 +86,5 @@ export function carriedBy(
   const importers = importersOf(world, moved)
   const bodies = repointedOver(world, moved, [...moved.keys(), ...importers])
   if (typeof bodies === "string") return bodies
-  return [...movesOf(moved), ...bodies]
+  return [...movesOf(moved), ...bodies, ...respelledOver(world, moved)]
 }

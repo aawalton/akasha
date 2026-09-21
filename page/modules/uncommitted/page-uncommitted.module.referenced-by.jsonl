@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}

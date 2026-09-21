@@ -46,6 +46,11 @@ export const fileCarrying = {
       statement: "A whole carry answers the moves, then the repointing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A sidecar of uncommitted values lands exporting the name its own writer would compose there.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a change.",
     },
