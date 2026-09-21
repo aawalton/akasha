@@ -26,7 +26,7 @@ export const nimueImageManagement = {
       statement:
         "Every image a deployed reader shows comes from the pages service on the workstation.",
       workingMemory:
-        "Proven on the workstation: `POST /file` with `pageTypeSlug` `image`, the slug and key `bytes` answers the png, sha256-identical to the original, for the `S+` picture and for Nimue's cover. A pod reaches it through `page-forwarder.page-forwarder.svc.cluster.local:8787`, as `/api/wallpaper` does today. No deployed reader asks it for an image yet: the web app serves persona covers from `/api/image/<id>` out of the object store, and 40 persona pages name that URL in `cover`.",
+        "`/api/image/:imageId` on the web app asks the pages service for the image page of that id and then for its `bytes`, and answers them with the slug as the ETag; the object store is not read. Deployed at `f8292dfbcc8`, and proven from inside the web pod, where `/ask` then `/file` over the page-forwarder answered Nimue's cover, 1,137,978 png bytes. `/api/wallpaper` reads a persona's `mobile-wallpaper` file the same way. No other deployed reader shows an image.",
     },
     {
       statement: "No image's bytes are in the object store.",
