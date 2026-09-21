@@ -5,7 +5,7 @@ export const temperCollections = {
   type: "page-type/held-addon",
   slug: "temper-collections",
   addonName: "TemperCollections",
-  esoAddon: "temper-addon/temper-addon-collections",
+  temperAddon: "temper-addon/temper-addon-collections",
   addonKind: "ported",
   heldBy: 15143,
   adjacents: [

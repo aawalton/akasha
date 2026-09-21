@@ -10,14 +10,14 @@ export const heldAddon = {
     "boolean-property/ti-clean",
     "number-property/held-by",
     "relation-property/adjacents",
-    "relation-property/eso-addon",
+    "relation-property/temper-addon",
     "select-property/addon-kind",
     "text-property/addon-name",
     "text-property/ti-clean-blocked-reason",
   ],
   properties: [
     { pageProperty: "text-property/addon-name", required: true, many: false },
-    { pageProperty: "relation-property/eso-addon", required: true, many: false },
+    { pageProperty: "relation-property/temper-addon", required: true, many: false },
     { pageProperty: "select-property/addon-kind", required: true, many: false },
     { pageProperty: "number-property/held-by", required: true, many: false },
     {

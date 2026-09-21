@@ -1728,7 +1728,7 @@
 {"propertySlug":"decision-kind","path":"code/held-addon/properties/addon-kind.select-property.ts","id":"01a0819d-3406-7d80-bea3-6be9825ecdca"}
 {"propertySlug":"decision-kind","path":"code/held-addon/properties/addon-name.text-property.ts","id":"01a0819c-d367-7e7f-bd2f-562afd223044"}
 {"propertySlug":"decision-kind","path":"code/held-addon/properties/adjacents.relation-property.ts","id":"01a0819d-cca3-7df9-8049-79ddfe74c1e3"}
-{"propertySlug":"decision-kind","path":"code/held-addon/properties/eso-addon.relation-property.ts","id":"01a0819d-6872-7b9e-8c67-c011834d8ab8"}
+{"propertySlug":"decision-kind","path":"code/held-addon/properties/temper-addon.relation-property.ts","id":"01a0819d-6872-7b9e-8c67-c011834d8ab8"}
 {"propertySlug":"decision-kind","path":"code/held-addon/properties/ti-clean-blocked-reason.text-property.ts","id":"01a0819e-62fa-71d4-9b29-5683cd0211ea"}
 {"propertySlug":"decision-kind","path":"code/held-addon/properties/ti-clean.boolean-property.ts","id":"01a0819e-2a48-7266-ba95-cc9be07ddbd5"}
 {"propertySlug":"decision-kind","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}

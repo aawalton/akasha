@@ -1,10 +1,10 @@
 import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
-export const esoAddon = {
+export const temperAddon = {
   id: "01a0819d-6872-7b9e-8c67-c011834d8ab8",
   type: "page-type/relation-property",
-  slug: "eso-addon",
-  propertySlug: "eso-addon",
+  slug: "temper-addon",
+  propertySlug: "temper-addon",
   definition: "the addon page the port holds",
   targetPageType: "page-type/temper-addon",
   decisions: [

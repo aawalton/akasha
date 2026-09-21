@@ -5,7 +5,7 @@ export const libMapPing = {
   type: "page-type/held-addon",
   slug: "lib-map-ping",
   addonName: "LibMapPing",
-  esoAddon: "temper-addon/temper-lib-map-ping",
+  temperAddon: "temper-addon/temper-lib-map-ping",
   addonKind: "library",
   heldBy: 13227,
   adjacents: ["held-addon/lib-gps"],

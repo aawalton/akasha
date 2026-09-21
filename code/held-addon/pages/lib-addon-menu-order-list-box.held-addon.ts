@@ -5,7 +5,7 @@ export const libAddonMenuOrderListBox = {
   type: "page-type/held-addon",
   slug: "lib-addon-menu-order-list-box",
   addonName: "LibAddonMenuOrderListBox",
-  esoAddon: "temper-addon/temper-lib-addon-menu-order-list-box",
+  temperAddon: "temper-addon/temper-lib-addon-menu-order-list-box",
   addonKind: "library",
   heldBy: 14477,
   adjacents: ["held-addon/temper-interface"],

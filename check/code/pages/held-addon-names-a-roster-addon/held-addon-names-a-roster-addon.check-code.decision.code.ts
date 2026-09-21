@@ -18,7 +18,7 @@ const HOLDS = "addonManifest"
 
 const CALLED = "addonName"
 
-const REACHES = "esoAddon"
+const REACHES = "temperAddon"
 
 const NOTHING_MANIFESTED =
   "the index files held addon pages and not one addon manifest reads, so nothing here says " +

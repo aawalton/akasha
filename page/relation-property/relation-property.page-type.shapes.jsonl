@@ -45,7 +45,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"graph-edge","unique":null,"uniquePropertySlug":null,"slug":"edges","propertySlug":"edges","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"email-rule-code-forward-to","propertySlug":"forward-to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"equipment","propertySlug":"equipment","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-addon","unique":null,"uniquePropertySlug":null,"slug":"eso-addon","propertySlug":"eso-addon","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"eso-interface","unique":null,"uniquePropertySlug":null,"slug":"eso-interfaces","propertySlug":"interfaces","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"strength-exercise","unique":null,"uniquePropertySlug":null,"slug":"exercise","propertySlug":"exercise","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"experiment-persona","propertySlug":"persona","fileName":null,"folderName":null}
@@ -145,6 +144,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"subagent-kind","unique":null,"uniquePropertySlug":null,"slug":"subagent-kind","propertySlug":"subagent-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"sync-script","propertySlug":"sync-script","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"target-page-type","propertySlug":"target-page-type","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-addon","unique":null,"uniquePropertySlug":null,"slug":"temper-addon","propertySlug":"temper-addon","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"to-do-value","propertySlug":"to-do-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"mastery-level","unique":null,"uniquePropertySlug":null,"slug":"topic-mastery-level","propertySlug":"mastery-level","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"topic-parents","propertySlug":"parents","fileName":null,"folderName":null}

@@ -41,7 +41,7 @@ function treed(names: string): string {
         id: HELD_ID,
         pageTypeSlug: "held-addon",
         addonName: names,
-        esoAddon: "temper-addon/lib-late",
+        temperAddon: "temper-addon/lib-late",
       },
     },
   ])

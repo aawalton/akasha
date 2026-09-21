@@ -5,7 +5,7 @@ export const libHistoire = {
   type: "page-type/held-addon",
   slug: "lib-histoire",
   addonName: "LibHistoire",
-  esoAddon: "temper-addon/temper-lib-histoire",
+  temperAddon: "temper-addon/temper-lib-histoire",
   addonKind: "library",
   heldBy: 13242,
   tiClean: true,

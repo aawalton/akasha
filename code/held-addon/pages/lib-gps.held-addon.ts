@@ -5,7 +5,7 @@ export const libGps = {
   type: "page-type/held-addon",
   slug: "lib-gps",
   addonName: "LibGPS",
-  esoAddon: "temper-addon/temper-lib-gps",
+  temperAddon: "temper-addon/temper-lib-gps",
   addonKind: "library",
   heldBy: 13216,
   adjacents: ["held-addon/temper-navigation", "held-addon/temper-collections"],

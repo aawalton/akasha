@@ -5,7 +5,7 @@ export const libMediaProvider = {
   type: "page-type/held-addon",
   slug: "lib-media-provider",
   addonName: "LibMediaProvider",
-  esoAddon: "temper-addon/temper-lib-media-provider",
+  temperAddon: "temper-addon/temper-lib-media-provider",
   addonKind: "library",
   heldBy: 13249,
   tiClean: true,

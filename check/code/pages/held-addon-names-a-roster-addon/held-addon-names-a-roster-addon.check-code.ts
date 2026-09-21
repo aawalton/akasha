@@ -60,7 +60,7 @@ export const heldAddonNamesARosterAddon = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A page whose `eso-addon` reaches no addon page is passed over.",
+      statement: "A page whose `temper-addon` reaches no addon page is passed over.",
     },
     {
       decisionKind: "decision-kind/absence",

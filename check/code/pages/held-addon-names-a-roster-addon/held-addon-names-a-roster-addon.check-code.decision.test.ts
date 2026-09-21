@@ -19,7 +19,7 @@ const HELD_PAGE = "code/held-addon/pages/hum-async.held-addon.ts"
 
 const ADDON_VALUE: Value = { slug: "temper-hum-async", addonManifest: "json" }
 
-const HELD_VALUE: Value = { addonName: "HumAsync", esoAddon: "temper-addon/temper-hum-async" }
+const HELD_VALUE: Value = { addonName: "HumAsync", temperAddon: "temper-addon/temper-hum-async" }
 
 function asking(
   paths: Readonly<Record<string, readonly string[]>>,
@@ -92,7 +92,7 @@ test("a page whose addon page sits where that addon is manifested is let through
 test("a page naming an addon no manifest calls is refused as stale", () => {
   const values = {
     [ADDON_PAGE]: ADDON_VALUE,
-    [HELD_PAGE]: { addonName: "HumGone", esoAddon: "temper-addon/temper-hum-async" },
+    [HELD_PAGE]: { addonName: "HumGone", temperAddon: "temper-addon/temper-hum-async" },
   }
   const said = refusalsOver(asking(PAGES, values, TEXTS, WHERE))
   expect(said).toHaveLength(1)

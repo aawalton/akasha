@@ -5,7 +5,7 @@ export const libZone = {
   type: "page-type/held-addon",
   slug: "lib-zone",
   addonName: "LibZone",
-  esoAddon: "temper-addon/temper-lib-zone",
+  temperAddon: "temper-addon/temper-lib-zone",
   addonKind: "library",
   heldBy: 14340,
   adjacents: ["held-addon/lib-sets"],
