@@ -361,7 +361,7 @@ export async function landing(
     }
   }
   const split = heldBack(root, edits)
-  const wasBeside = besideBefore(carried)
+  const wasBeside = besideBefore(root, named ?? judgedAt, carried)
   const paths = edits.map((one) => one.path)
   const machine = machineOver(root, paths, asRead, facing)
   const staging: Staging = { run: null }

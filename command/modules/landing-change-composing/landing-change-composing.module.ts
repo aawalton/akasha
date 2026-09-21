@@ -74,7 +74,13 @@ export const landingChangeComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path the tree holds no body at is left the body this change composed for it.",
+      statement:
+        "A path no move carries that the tree holds no body at is left the body this change composed for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A beside file a move carries is folded into the rows the tree holds where that move carries from.",
     },
     {
       decisionKind: "decision-kind/departure",

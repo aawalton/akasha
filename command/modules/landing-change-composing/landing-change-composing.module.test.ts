@@ -40,7 +40,7 @@ test("a beside file the tree no longer holds leaves the body this landing compos
   const root = scratch.rootFor("akasha-composing-")
   const was = `${naming("one")}\n${naming("two")}\n`
   const then = `${naming("new")}\n${naming("one")}\n${naming("two")}\n`
-  const held = besideBefore([
+  const held = besideBefore(root, "HEAD", [
     { kind: "replace", path: REFERENCED, contentFrom: was, contentTo: then },
   ])
   const said = besideRebased(root, [{ path: REFERENCED, body: BYTES.encode(then) }], held)
@@ -109,6 +109,7 @@ const moduleAt = (slug: string, said: string, rest: Record<string, unknown>): st
   })
 
 const MOVING: Readonly<Record<string, string>> = {
+  ".gitignore": "*.uncommitted.*\n",
   [`${FROM}/deep/gamma.module.ts`]: moduleAt("gamma", "1", { code: "ts" }),
   [`${FROM}/deep/gamma.module.code.ts`]: "export const gamma = 3\n",
   [`${FROM}/holder.module.ts`]: moduleAt("holder", "2", { note: "gamma" }),
@@ -149,4 +150,57 @@ test("a folder move keeps the row an importer outside that folder files", async 
 
   expect(body).toContain(OUTSIDE_CODE)
   expect(body).toContain(NAMED_INSIDE)
+})
+
+const SECOND_PAGE = OUTSIDE_CODE.replace("outer.module.code.ts", "second.module.ts")
+
+const NAMED_BEFORE = `${FROM}/holder.module.ts`
+
+async function movedWhileFiled(): Promise<string> {
+  const root = indexedRepo(MOVING)
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "the beside files are on the tree"])
+  const read = textIn(root)
+  const moves: readonly FileMove[] = git(root, ["ls-files", FROM])
+    .trim()
+    .split("\n")
+    .map((one) => ({ from: one, to: `${INTO}${one.slice(FROM.length)}` }))
+  const filing: Judging = {
+    named: ["filing"],
+    checksFor: () => ["filing"],
+    over: async () => {
+      const said = await applied(root, null, "another landing files a row", NO_GATE, null, [], {
+        rows: [
+          { kind: "add", path: SECOND_PAGE, content: moduleAt("second", "4", { note: "gamma" }) },
+        ],
+        running: RUNNING,
+      })
+      if ("refusals" in said) throw new Error(said.refusals.join("; "))
+      return []
+    },
+  }
+  const rows: readonly FileChange[] = [
+    {
+      kind: "add",
+      path: OUTSIDE_CODE,
+      content: (read(OUTSIDE_CODE) ?? "").replace("../four/", "../six/"),
+    },
+  ]
+  const landed = await applied(root, null, "the folder moves", filing, null, [], {
+    rows,
+    running: { ...RUNNING, checks: true },
+    moves,
+  })
+  if ("refusals" in landed) throw new Error(landed.refusals.join("; "))
+  return root
+}
+
+test("a folder move keeps a row another landing filed while the move was judged", async () => {
+  const root = await movedWhileFiled()
+
+  const body = git(root, ["show", `HEAD:${MOVED_BESIDE}`])
+
+  expect(body).toContain(SECOND_PAGE)
+  expect(body).toContain(NAMED_INSIDE)
+  expect(body).not.toContain(NAMED_BEFORE)
 })

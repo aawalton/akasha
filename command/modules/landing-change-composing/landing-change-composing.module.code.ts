@@ -134,13 +134,38 @@ function rowingFor(path: string): Rowing | null {
   return shapesFiled(path) ? SHAPES : null
 }
 
-export function besideBefore(changes: readonly FileChange[]): ReadonlyMap<string, string | null> {
-  const held = new Map<string, string | null>()
+export type Beside = {
+  readonly was: string | null
+  readonly from: string | null
+}
+
+function carriedIn(changes: readonly FileChange[]): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
+  for (const one of changes) {
+    if (one.kind !== "move" || rowingFor(one.pathTo) === null) continue
+    held.set(one.pathTo, one.pathFrom)
+  }
+  return held
+}
+
+export function besideBefore(
+  root: string,
+  base: string,
+  changes: readonly FileChange[]
+): ReadonlyMap<string, Beside> {
+  const carried = carriedIn(changes)
+  const held = new Map<string, Beside>()
   for (const one of changes) {
     if (one.kind === "move" || held.has(one.path)) continue
     if (rowingFor(one.path) === null) continue
-    if (one.kind === "add") held.set(one.path, null)
-    if (one.kind === "replace") held.set(one.path, one.contentFrom)
+    const from = carried.get(one.path)
+    if (from !== undefined) {
+      const was = bodyAt(root, base, from)
+      held.set(one.path, { was: was === null ? null : TEXT.decode(was), from })
+      continue
+    }
+    if (one.kind === "add") held.set(one.path, { was: null, from: null })
+    if (one.kind === "replace") held.set(one.path, { was: one.contentFrom, from: null })
   }
   return held
 }
@@ -175,16 +200,17 @@ function rowsMerged(was: string | null, mine: string, now: string, rowing: Rowin
 export function besideRebased(
   root: string,
   edits: readonly Bodied[],
-  before: ReadonlyMap<string, string | null>
+  before: ReadonlyMap<string, Beside>
 ): readonly Bodied[] {
   if (before.size === 0) return edits
   return edits.map((one) => {
     const rowing = rowingFor(one.path)
-    if (one.body === null || rowing === null || !before.has(one.path)) return one
-    const now = diskAt(root, one.path)
+    const held = before.get(one.path)
+    if (one.body === null || rowing === null || held === undefined) return one
+    const now = diskAt(root, held.from ?? one.path)
     if (now === null) return one
     const mine = TEXT.decode(one.body)
-    const said = rowsMerged(before.get(one.path) ?? null, mine, TEXT.decode(now), rowing)
+    const said = rowsMerged(held.was, mine, TEXT.decode(now), rowing)
     if (said === null || said === "" || said === mine) return one
     return { path: one.path, body: BYTES.encode(said) }
   })
