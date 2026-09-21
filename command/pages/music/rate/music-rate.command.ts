@@ -4,7 +4,8 @@ export const musicRate = {
   id: "01a062fb-d2fb-72a1-8169-279a6baf3d97",
   type: "page-type/command",
   slug: "music-rate",
-  definition: "the command recording Alan's grade and what he said onto a song or an artist",
+  definition:
+    "the command recording Alan's grade and what he said onto a track, a song or an artist",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,7 +23,8 @@ export const musicRate = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reaction is an artist's and insights and personal connections are a song's.",
+      statement:
+        "A reaction is an artist's, insights and personal connections are a song's, and a track's is none.",
     },
     {
       decisionKind: "decision-kind/departure",

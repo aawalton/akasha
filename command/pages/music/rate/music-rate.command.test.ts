@@ -21,6 +21,7 @@ import {
   musicRate,
   SONG,
   saidOf,
+  TRACK,
   taken,
   valuesFor,
   WRITE,
@@ -40,6 +41,10 @@ const RATED_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.ts`
 const REACTION_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.reaction.txt`
 
 const REACTION = "she sings it plainly"
+
+const TRACK_SLUG = "alexandria-always-an-angel-always-an-angel"
+
+const TRACK_AT = `alan/music/catalog/track/pages/${TRACK_SLUG}.track.ts`
 
 const LANDED: Applied = {
   base: "2222222222222222222222222222222222222222",
@@ -102,8 +107,43 @@ test("a flag this takes nothing of is refused", () => {
   expect(refusalOf(["--id", "abc"])).toContain("`--id` is no argument")
 })
 
-test("a target that is neither an artist nor a song is refused", () => {
-  expect(refusalOf(["--target", "album", "--slug", "a", "--grade", "A"])).toContain("`album`")
+test("a target that is no artist, no song and no track is refused", () => {
+  const said = refusalOf(["--target", "album", "--slug", "a", "--grade", "A"])
+  expect(said).toContain("`album`")
+  expect(said).toContain(`\`${TRACK}\``)
+})
+
+test("prose named for a track is refused, because a track carries none", () => {
+  const said = refusalOf(["--target", TRACK, "--slug", "a", "--insights", "x"])
+  expect(said).toContain("`--insights`")
+  expect(said).toContain(`--target ${SONG}`)
+})
+
+test("a track call recording nothing names the grade and no prose", () => {
+  expect(refusalOf(["--target", TRACK, "--slug", "a"])).toBe(
+    "nothing is recorded by this call — name `--grade`"
+  )
+})
+
+test("the values carry a track's grade under the name a song carries it under", () => {
+  const held = takingOf(["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "S"])
+  expect(held.target).toBe(TRACK)
+  expect(valuesFor({ slug: TRACK_SLUG }, held)["rank"]).toBe("S")
+})
+
+test("a track named by its slug is written the way a song named by its slug is", async () => {
+  const reach = reaching({ ...LANDED, landed: [TRACK_AT] })
+  const said = await musicRate(
+    ["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "S"],
+    GIVEN,
+    reach.landing
+  )
+  expect(said.refusals).toEqual([])
+  const one = reach.reached[0]
+  if (one === undefined) throw new Error("the landing was never reached")
+  expect(pathsIn(one.asked)).toEqual([TRACK_AT])
+  const written = one.asked[0]?.given
+  expect(written !== undefined && "body" in written ? written.body : "").toContain('rank: "S"')
 })
 
 test("a call naming no slug is refused", () => {

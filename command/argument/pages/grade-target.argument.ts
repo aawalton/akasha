@@ -7,5 +7,5 @@ export const gradeTarget = {
   said: "--target",
   takes: "which sort of page the grade is recorded onto",
   value: "text",
-  placeholder: "artist|song",
+  placeholder: "artist|song|track",
 } as const satisfies Argument

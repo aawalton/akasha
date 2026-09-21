@@ -48,6 +48,8 @@ export const ARTIST = "artist"
 
 export const SONG = "song"
 
+export const TRACK = "track"
+
 const TXT = "txt"
 
 const TARGET = gradeTarget.said
@@ -59,6 +61,16 @@ const WHOLE = true
 const ARTIST_PROSE = [reaction.slug]
 
 const SONG_PROSE = [personalConnections.slug, insights.slug]
+
+const TRACK_PROSE: readonly string[] = []
+
+const PROSE_OF: ReadonlyMap<string, readonly string[]> = new Map([
+  [ARTIST, ARTIST_PROSE],
+  [SONG, SONG_PROSE],
+  [TRACK, TRACK_PROSE],
+])
+
+const TARGETS = [...PROSE_OF.keys()]
 
 const TAKES = [
   json,
@@ -95,20 +107,30 @@ export type Taken = {
 
 export type Reading = Taken | { readonly refused: readonly string[] }
 
+function strayedIn(target: string, prose: ReadonlyMap<string, string>): readonly string[] {
+  const said: string[] = []
+  for (const [other, own] of PROSE_OF) {
+    if (other === target) continue
+    for (const one of own) {
+      if (prose.has(one)) said.push(`\`--${one}\` applies to \`${TARGET} ${other}\``)
+    }
+  }
+  return said
+}
+
 function wrongIn(
   target: string,
   marked: string | null,
   prose: ReadonlyMap<string, string>
 ): string | null {
-  const strayed = (target === ARTIST ? SONG_PROSE : ARTIST_PROSE).filter((one) => prose.has(one))
+  const strayed = strayedIn(target, prose)
   if (strayed.length > 0) {
-    const named = strayed.map((one) => `\`--${one}\``).join(" and ")
-    const other = target === ARTIST ? SONG : ARTIST
-    return `${named} applies to \`${TARGET} ${other}\` rather than to \`${TARGET} ${target}\``
+    return `${strayed.join(" and ")} rather than to \`${TARGET} ${target}\``
   }
   if (marked !== null || prose.size > 0) return null
-  const own = (target === ARTIST ? ARTIST_PROSE : SONG_PROSE).map((one) => `\`--${one}\``)
-  return `nothing is recorded by this call — name \`${GRADE}\` or ${own.join(" or ")}`
+  const own = (PROSE_OF.get(target) ?? []).map((one) => `\`--${one}\``)
+  const naming = own.length === 0 ? "" : ` or ${own.join(" or ")}`
+  return `nothing is recorded by this call — name \`${GRADE}\`${naming}`
 }
 
 export function taken(argv: readonly string[], given: Given): Reading {
@@ -116,10 +138,10 @@ export function taken(argv: readonly string[], given: Given): Reading {
   if ("refused" in read) return { refused: read.refused }
   const held = read.taken
   const target = held.gradeTarget
-  if (target !== ARTIST && target !== SONG) {
+  if (!PROSE_OF.has(target)) {
     return {
       refused: [
-        `\`${TARGET}\` takes \`${ARTIST}\` or \`${SONG}\`, and this call names \`${target}\``,
+        `\`${TARGET}\` takes \`${TARGETS.join("`, `")}\`, and this call names \`${target}\``,
       ],
     }
   }
