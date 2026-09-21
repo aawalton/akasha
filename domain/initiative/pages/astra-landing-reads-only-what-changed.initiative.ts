@@ -23,7 +23,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "What a property carries is worked out for the pages a change names rather than across the index.",
       workingMemory:
-        "Whether a path is generated is answered for the section asked rather than by building the whole table: 28 sections say `generated`, 5 name a writing group, 3 name a file exactly and 7 name a folder. One face is held for a root, over one index reading, where `generatedAt` built a face and a reading for every path it was asked. `kindedIn` still parses every property page where the shapes file for each property type would answer in one read.",
+        "Whether a path is generated is answered for the section asked rather than by building the whole table: 28 sections say `generated`, 5 name a writing group, 3 name a file exactly and 7 name a folder. A folder property is reached by the name a path carries rather than by every folder it claims, and one face is held per root. `kindedIn` still parses every property page where the shapes file for each property type would answer in one read.",
     },
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
