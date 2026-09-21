@@ -13,12 +13,6 @@ export const aineRequests = {
       workingMemory:
         "A product serves a path of its own only by a router app: a route page stating its `urlPath` beside a `.route.code.tsx`, named in that app's `.app-routes.ts` parts and in its `routes.ts` table, reached over the hostname that app's `tunnel-routes.ts` states. `product/audhdalan/web/routes/audhdalan-safety-levels` is the shape. archive-of-worlds, audhdalan and smilingjenny each have a router app; product-game, kofi and wandering-inn-wiki have none, so `requests` has nowhere to land there.",
     },
-    {
-      statement:
-        "A feature request names each contributor backing it and the points committed, most first.",
-      workingMemory:
-        "`page-type/contributor` is live under `product/kofi/contributor`, keyed by a sha-256 `email-hash` and holding a `balance` beside a `transactions` entry file of `at`, `points` and `stripeChargeId`. The route `alan-web-api-stripe-webhook` already appends a transaction and recomputes the balance. Nothing yet takes points out of a balance, so committing points to a request has no transaction of its own.",
-    },
   ],
   constraints: [
     "Past launch, a feature of the request system is itself a feature request contributors back, like a feature of any other product.",
