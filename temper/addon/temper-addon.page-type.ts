@@ -23,7 +23,7 @@ export const temperAddon = {
     "domain/temper-addon-build",
     "domain/temper-addon-log",
     "domain/temper-addons-resolve",
-    "domain/temper-build-deploy-check",
+    "domain/temper-addon-deploy-check",
     "domain/temper-addon-community",
     "domain/temper-narrow",
     "domain/temper-hud-component",

@@ -1,1 +1,1 @@
-{"path":"temper/addon/build-deploy-check/modules/bundle-file-scan/bundle-file-scan.module.code.ts","name":"scanningBundleFile"}
+{"path":"temper/addon/deploy-check/modules/bundle-file-scan/bundle-file-scan.module.code.ts","name":"scanningBundleFile"}

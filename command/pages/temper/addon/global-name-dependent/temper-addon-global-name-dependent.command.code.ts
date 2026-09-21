@@ -21,7 +21,7 @@ import {
   enumerateGlobalDependents,
   type GlobalDependentReport,
 } from "akasha/temper/addon/build/modules/global-name-dependents/global-name-dependents.module.code.ts"
-import { collectGlobalWritesFromSource } from "akasha/temper/addon/build-deploy-check/modules/addon-global-ownership/addon-global-ownership.module.code.ts"
+import { collectGlobalWritesFromSource } from "akasha/temper/addon/deploy-check/modules/addon-global-ownership/addon-global-ownership.module.code.ts"
 
 const NAMED = [codeRootArgument, globalArgument, json]
 

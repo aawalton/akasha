@@ -1,1 +1,1 @@
-{"path":"temper/addon/build-deploy-check/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts","name":"readDeps"}
+{"path":"temper/addon/deploy-check/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts","name":"readDeps"}

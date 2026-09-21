@@ -1,1 +1,1 @@
-{"path":"temper/addon/build-deploy-check/modules/addon-dist-bundles/addon-dist-bundles.module.code.ts","name":"collectAddonDistBundles"}
+{"path":"temper/addon/deploy-check/modules/addon-dist-bundles/addon-dist-bundles.module.code.ts","name":"collectAddonDistBundles"}
