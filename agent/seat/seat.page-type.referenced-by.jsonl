@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/elin/elin.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/eppie/eppie.seat.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/thea/thea.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-resumed-subagent-runs-before-its-page-lands-and-the-refusal-reads-as-permanent.finding.ts","id":"01a0914c-261e-768e-978f-ed20b3c7333b"}
