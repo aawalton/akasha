@@ -15,8 +15,9 @@ export const foliumDiscognitumSkillPoints = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "all_characters",
   priority: "p3",
-  lastCompletedAt: "2026-09-19T18:05:56.845Z",
+  lastCompletedAt: "2026-09-21T15:56:56.160Z",
   progress: "jsonl",
   progressTotal: 40,
   progressCurrent: 40,
+  completedAt: "2026-09-21T15:56:56.160Z",
 } as const satisfies TemperTask
