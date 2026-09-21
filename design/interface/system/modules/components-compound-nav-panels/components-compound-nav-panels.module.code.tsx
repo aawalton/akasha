@@ -35,18 +35,7 @@ import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"
 
-export function ComponentsCompoundNavPanels() {
-  return (
-    <>
-      <SidebarNavGroupPanel />
-      <MenubarPanel />
-      <SonnerPanel />
-      <FormPanel />
-    </>
-  )
-}
-
-function SidebarNavGroupPanel() {
+export function SidebarNavGroupPanel() {
   return (
     <PanelCard id="ds-sidebar-nav-group" collapsible title="SidebarNavGroup">
       <p className="text-secondary text-sm">
@@ -105,7 +94,7 @@ function SidebarNavGroupPanel() {
   )
 }
 
-function MenubarPanel() {
+export function MenubarPanel() {
   const [showStatusBar, setShowStatusBar] = useState(true)
   const [showActivityBar, setShowActivityBar] = useState(false)
   const [showPanel, setShowPanel] = useState(false)
@@ -189,7 +178,7 @@ function MenubarPanel() {
   )
 }
 
-function SonnerPanel() {
+export function SonnerPanel() {
   return (
     <PanelCard id="ds-sonner" collapsible title="Sonner / Toaster">
       <Toaster />
@@ -258,7 +247,7 @@ interface DemoFormValues {
   bio: string
 }
 
-function FormPanel() {
+export function FormPanel() {
   const form = useForm<DemoFormValues>({
     defaultValues: { username: "", email: "", bio: "" },
   })

@@ -3,7 +3,12 @@
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
-import { ComponentsCompoundNavPanels } from "akasha/design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
+import {
+  FormPanel,
+  MenubarPanel,
+  SidebarNavGroupPanel,
+  SonnerPanel,
+} from "akasha/design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
 import {
   CalendarPanel,
   CarouselPanel,
@@ -167,7 +172,10 @@ export function ComponentsTabContent() {
           <CarouselPanel />
           <CommandPanel />
           <ResizablePanelsPanel />
-          <ComponentsCompoundNavPanels />
+          <SidebarNavGroupPanel />
+          <MenubarPanel />
+          <SonnerPanel />
+          <FormPanel />
         </ResponsiveColumns>
       </div>
     </TabsContent>
