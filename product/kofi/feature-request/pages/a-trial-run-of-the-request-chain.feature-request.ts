@@ -15,5 +15,5 @@ export const aTrialRunOfTheRequestChain = {
       points: 250,
     },
   ],
-  standing: "proposed",
+  standing: "published",
 } as const satisfies FeatureRequest
