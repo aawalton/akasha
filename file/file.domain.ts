@@ -12,6 +12,10 @@ export const file = {
     "module/git-place",
     "module/lock-holder",
   ],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "file" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "files" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
