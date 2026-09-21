@@ -58,6 +58,15 @@ export const spotifyPlaylists = {
       statement: "Tracks reach the playlist in the order they were handed over.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A playlist written whole holds the tracks handed over and nothing it held before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The first hundred of those tracks are written and the rest are added after.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here chooses which tracks a playlist holds.",
     },

@@ -13,6 +13,7 @@ import {
 import {
   addTracks,
   heldTracks,
+  putTracks,
   removeTracks,
 } from "akasha/alan/music/spotify/modules/playlists/spotify-playlists.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
@@ -56,9 +57,10 @@ export type Reach = {
   readonly heldTracks: typeof heldTracks
   readonly addTracks: typeof addTracks
   readonly removeTracks: typeof removeTracks
+  readonly putTracks: typeof putTracks
 }
 
-export const REACHING: Reach = { heldTracks, addTracks, removeTracks }
+export const REACHING: Reach = { heldTracks, addTracks, removeTracks, putTracks }
 
 type Named = {
   readonly id: string
@@ -70,8 +72,10 @@ export type Kept = {
   readonly artists: number
   readonly link: string | null
   readonly said: Reconciled
+  readonly holding: readonly string[]
   readonly added: number
   readonly removed: number
+  readonly ordered: number
 }
 
 function followedIn(root: string): ReadonlySet<string> {
@@ -109,6 +113,7 @@ export function rowsOf(kept: Kept): readonly string[] {
     `kept\t${kept.said.keeping.length}`,
     `added\t${kept.added}`,
     `removed\t${kept.removed}`,
+    `ordered\t${kept.ordered}`,
   ]
   if (kept.link !== null) rows.push(`link\t${kept.link}`)
   return rows
@@ -123,15 +128,36 @@ export function jsonOf(kept: Kept): string {
     kept: kept.said.keeping.length,
     added: kept.added,
     removed: kept.removed,
+    ordered: kept.ordered,
     link: kept.link,
     titles: kept.picked.map((one) => `${one.artistSlug} — ${one.title}`),
   })
 }
 
+export function heldAfter(holding: readonly string[], said: Reconciled): readonly string[] {
+  const gone = new Set(said.removing)
+  return [...holding.filter((one) => !gone.has(one)), ...said.adding]
+}
+
+export function sameOrder(mine: readonly string[], theirs: readonly string[]): boolean {
+  if (mine.length !== theirs.length) return false
+  return mine.every((one, at) => one === theirs[at])
+}
+
+export function wantedIn(kept: Kept): readonly string[] {
+  return kept.picked.map((one) => one.trackId)
+}
+
+export function outOfOrder(kept: Kept): boolean {
+  return !sameOrder(wantedIn(kept), heldAfter(kept.holding, kept.said))
+}
+
 export async function keepingOver(kept: Kept, playlistId: string, reach: Reach): Promise<Kept> {
   const removed = await reach.removeTracks(playlistId, kept.said.removing)
   const added = await reach.addTracks(playlistId, kept.said.adding)
-  return { ...kept, added, removed }
+  const wanted = wantedIn(kept)
+  const ordered = outOfOrder(kept) ? await reach.putTracks(playlistId, wanted) : 0
+  return { ...kept, added, removed, ordered }
 }
 
 export function reconciledOver(picked: readonly Picked[], holding: readonly string[]): Kept {
@@ -139,12 +165,14 @@ export function reconciledOver(picked: readonly Picked[], holding: readonly stri
     picked,
     artists: artistsIn(picked),
     link: null,
+    holding,
     said: reconciling(
       picked.map((one) => one.trackId),
       holding
     ),
     added: 0,
     removed: 0,
+    ordered: 0,
   }
 }
 

@@ -40,6 +40,14 @@ export const musicUnheardPlaylist = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run leaves the playlist in the order the unheard-picking module gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A playlist already in that order is written no second time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The answer counts what was added, what was removed and what was kept.",
     },
     {

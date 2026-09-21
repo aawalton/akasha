@@ -83,6 +83,23 @@ export async function addTracks(
   return added
 }
 
+export async function putTracks(
+  playlistId: string,
+  trackIds: readonly string[],
+  over?: Fetching
+): Promise<number> {
+  const at = `/playlists/${encodeURIComponent(playlistId)}/items`
+  const batches = batchedInto(trackIds.map(uriOf))
+  const first = batches[0] ?? []
+  await spotifyRequest(at, snapshotSchema, { method: "PUT", body: { uris: first } }, 0, 0, over)
+  let put = first.length
+  for (const batch of batches.slice(1)) {
+    await spotifyRequest(at, snapshotSchema, { method: "POST", body: { uris: batch } }, 0, 0, over)
+    put += batch.length
+  }
+  return put
+}
+
 export async function removeTracks(
   playlistId: string,
   trackIds: readonly string[],

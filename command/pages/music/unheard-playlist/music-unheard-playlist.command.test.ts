@@ -31,6 +31,10 @@ function reachKept(wrote: string[]): Reach {
       wrote.push(`remove ${playlistId} ${trackIds.join(",")}`)
       return trackIds.length
     },
+    putTracks: async (playlistId, trackIds) => {
+      wrote.push(`put ${playlistId} ${trackIds.join(",")}`)
+      return trackIds.length
+    },
   }
 }
 
@@ -55,13 +59,27 @@ test("what the playlist gains and loses is worked out over the tracks picked", (
 test("tracks leave the playlist before tracks reach it", async () => {
   const wrote: string[] = []
   const done = await keepingOver(keptOf(["two", "gone"]), "pl1", reachKept(wrote))
-  expect(wrote).toEqual(["remove pl1 gone", "add pl1 one,three"])
+  expect(wrote.slice(0, 2)).toEqual(["remove pl1 gone", "add pl1 one,three"])
   expect(done.added).toBe(2)
   expect(done.removed).toBe(1)
 })
 
+test("a run leaves the playlist in the order the picking gives", async () => {
+  const wrote: string[] = []
+  const done = await keepingOver(keptOf(["two", "gone"]), "pl1", reachKept(wrote))
+  expect(wrote.at(-1)).toBe("put pl1 one,two,three")
+  expect(done.ordered).toBe(3)
+})
+
+test("a playlist already in that order is written no second time", async () => {
+  const wrote: string[] = []
+  const done = await keepingOver(keptOf(["one", "two", "three"]), "pl1", reachKept(wrote))
+  expect(wrote.some((one) => one.startsWith("put"))).toBe(false)
+  expect(done.ordered).toBe(0)
+})
+
 test("the rows count what was added, what was removed and what was kept", () => {
-  const done: Kept = { ...keptOf(["two", "gone"]), added: 2, removed: 1 }
+  const done: Kept = { ...keptOf(["two", "gone"]), added: 2, removed: 1, ordered: 3 }
   expect(rowsOf(done)).toEqual([
     "tracks\t3",
     "artists\t2",
@@ -70,6 +88,7 @@ test("the rows count what was added, what was removed and what was kept", () => 
     "kept\t1",
     "added\t2",
     "removed\t1",
+    "ordered\t3",
     `link\t${LINK}`,
   ])
 })
