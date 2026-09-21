@@ -1313,6 +1313,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/badge/badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/button-badge/button-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/checkbox-badge/checkbox-badge.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/date-badge/date-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/empty-badge/empty-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/input-badge/input-badge.module.ts"}

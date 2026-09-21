@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}

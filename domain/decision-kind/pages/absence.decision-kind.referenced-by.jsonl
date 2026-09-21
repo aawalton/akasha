@@ -1343,6 +1343,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/track/session/split/track-session-split.command.ts","id":"01a07979-7fe5-72fa-8982-e069a28c90c2"}
 {"propertySlug":"decision-kind","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"decision-kind","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
+{"propertySlug":"decision-kind","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.ts","id":"01a0c501-134c-7c7e-ab5f-bcd62d76c5ee"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
 {"propertySlug":"decision-kind","path":"design/interface/primitive/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}

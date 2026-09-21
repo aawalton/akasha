@@ -11,6 +11,7 @@ export const designInterfaceBadge = {
     "module/badge-toggle-group",
     "module/button-badge",
     "module/checkbox-badge",
+    "module/color-badge-variant",
     "module/date-badge",
     "module/empty-badge",
     "module/input-badge",

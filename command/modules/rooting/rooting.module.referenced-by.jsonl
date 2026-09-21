@@ -142,6 +142,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/session/open/track-session-open.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/session/split/track-session-split.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}

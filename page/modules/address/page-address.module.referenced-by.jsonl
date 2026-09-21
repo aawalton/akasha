@@ -42,6 +42,8 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"code/module/modules/name-series/name-series.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"}
