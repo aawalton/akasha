@@ -43,6 +43,7 @@ export const person = {
     "text-property/supabase-auth-user-id",
     "relation-property/person-contributor",
     "page-type/access-deed",
+    "person/anonymous",
   ],
   properties: [
     { pageProperty: "relation-property/answered-by", required: true, many: false },
@@ -56,6 +57,10 @@ export const person = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A person whose body nothing here counts against states no weight.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The reader nobody signed in as is a person page though that reader is no human.",
     },
   ],
   types: "ts",
