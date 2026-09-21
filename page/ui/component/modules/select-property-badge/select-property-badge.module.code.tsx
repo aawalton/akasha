@@ -18,6 +18,7 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { getValueArray } from "akasha/page/core/property-type/modules/multi-relation/multi-relation.module.code.ts"
 import {
   findOption,
@@ -115,7 +116,7 @@ function ChosenOptionBadges({
           key={`${definition.id}-${id}`}
           variant={optionBadgeVariant(definition, options, id, accentVariant)}
         >
-          {findOption(options, id)?.label ?? id}
+          {findOption(options, id)?.label ?? titledAs(id)}
         </Badge>
       ))}
     </>

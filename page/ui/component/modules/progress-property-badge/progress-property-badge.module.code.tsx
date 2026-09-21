@@ -16,6 +16,7 @@ import type {
   PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
@@ -148,7 +149,7 @@ function ProgressEntriesBody({
         return (
           <div key={entry.key} data-progress-entry={entry.key}>
             <StatRow
-              label={entry.label ?? entry.key}
+              label={entry.label ?? titledAs(entry.key)}
               value={ProgressValue(entry.current, entry.total)}
               useAccentColor={entry.key === narrowed.activeEntryKey}
               muted={entry.current >= entry.total}

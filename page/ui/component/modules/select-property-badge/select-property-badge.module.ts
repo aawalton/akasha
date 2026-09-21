@@ -19,5 +19,9 @@ export const selectPropertyBadge = {
       decisionKind: "decision-kind/departure",
       statement: "The dropdown draws each option in the variant that option's chosen chip takes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chosen option the property names nowhere is drawn by titling its own value.",
+    },
   ],
 } as const satisfies Module

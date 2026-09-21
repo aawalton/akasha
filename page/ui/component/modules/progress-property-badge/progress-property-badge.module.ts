@@ -6,4 +6,10 @@ export const progressPropertyBadge = {
   slug: "progress-property-badge",
   definition: "The badge for a progress property, showing how far along its entries are.",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry stating no label of its own is drawn by titling its own key.",
+    },
+  ],
 } as const satisfies Module
