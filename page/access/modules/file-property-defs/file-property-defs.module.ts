@@ -58,5 +58,9 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/departure",
       statement: "An option carries the color the property's page states for that option's value.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation's definition names the page type it reaches by that page type's slug.",
+    },
   ],
 } as const satisfies Module

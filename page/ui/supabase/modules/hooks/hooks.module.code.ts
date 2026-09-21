@@ -3,7 +3,10 @@
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { readTargetPageTypeId } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
+import {
+  readTargetPageTypeId,
+  readTargetPageTypeSlug,
+} from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   useAcquireSlug,
@@ -34,6 +37,16 @@ import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-t
 import { useEffect, useMemo, useRef, useState } from "react"
 
 const NAV = "nav"
+
+function targetSlugOf(
+  config: unknown,
+  pageTypeSlugById: ReadonlyMap<string, string>
+): string | undefined {
+  const named = readTargetPageTypeSlug(config)
+  if (named !== undefined) return named
+  const targetPageTypeId = readTargetPageTypeId(config)
+  return targetPageTypeId === undefined ? undefined : pageTypeSlugById.get(targetPageTypeId)
+}
 
 export function usePageByIdSuffix({
   pageTypeSlug,
@@ -115,9 +128,7 @@ export function useRelatedPages({
     const out: RelationSpec[] = []
     for (const d of definitions) {
       if (d.type !== "relation" && d.type !== "multi-relation") continue
-      const targetPageTypeId = readTargetPageTypeId(d.config)
-      if (targetPageTypeId === undefined) continue
-      const targetPageTypeSlug = pageTypeSlugById.get(targetPageTypeId)
+      const targetPageTypeSlug = targetSlugOf(d.config, pageTypeSlugById)
       if (targetPageTypeSlug === undefined) continue
       out.push({ propertyId: d.id, targetPageTypeSlug })
     }

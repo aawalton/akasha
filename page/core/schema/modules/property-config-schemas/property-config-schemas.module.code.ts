@@ -80,15 +80,19 @@ export type InstantFormat = z.infer<typeof instantConfigSchema>["format"]
 
 export type InstantConfig = z.infer<typeof instantConfigSchema>
 
-export const relationConfigSchema = z.object({
+const RELATION_TARGET_FIELDS = {
   targetPageTypeId: z.string().optional(),
+  targetPageTypeSlug: z.string().optional(),
   backRelationPropertyId: z.string().optional(),
+}
+
+export const relationConfigSchema = z.object({
+  ...RELATION_TARGET_FIELDS,
   ...BADGE_ICON_FIELD,
 })
 
 export const multiRelationConfigSchema = z.object({
-  targetPageTypeId: z.string().optional(),
-  backRelationPropertyId: z.string().optional(),
+  ...RELATION_TARGET_FIELDS,
   ...BADGE_ICON_FIELD,
 })
 

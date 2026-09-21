@@ -140,6 +140,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
   const config: Record<string, Json> = {}
   const options = optionsFrom(one.values)
   if (options !== null) config.options = coloredIn(options, coloredBy(one.optionColors))
+  if (one.targetSlug !== null) config.targetPageTypeSlug = one.targetSlug
   const stated = Object.keys(config).length !== 0
   return {
     id: camelizeKey(one.key),

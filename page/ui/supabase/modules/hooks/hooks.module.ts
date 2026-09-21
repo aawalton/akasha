@@ -16,5 +16,10 @@ export const hooks = {
       decisionKind: "decision-kind/departure",
       statement: "A nav item whose slug went unread narrows the views to none.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A related page is asked of the page type its definition names by slug before by id.",
+    },
   ],
 } as const satisfies Module

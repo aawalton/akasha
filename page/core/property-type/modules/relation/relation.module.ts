@@ -11,5 +11,9 @@ export const relation = {
       decisionKind: "decision-kind/departure",
       statement: "The page type a relation points at is read here rather than by each reader.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation names the page type it points at by that page type's id or its slug.",
+    },
   ],
 } as const satisfies Module

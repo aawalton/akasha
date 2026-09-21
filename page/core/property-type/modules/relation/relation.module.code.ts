@@ -12,6 +12,12 @@ export function readTargetPageTypeId(config: unknown): string | undefined {
   return typeof target === "string" ? target : undefined
 }
 
+export function readTargetPageTypeSlug(config: unknown): string | undefined {
+  if (!isRecord(config)) return undefined
+  const target = config.targetPageTypeSlug
+  return typeof target === "string" && target !== "" ? target : undefined
+}
+
 export const RELATION_OPS: PropertyTypeOps = {
   validate(value: PropertyValue) {
     if (value == null || value === "") return null
