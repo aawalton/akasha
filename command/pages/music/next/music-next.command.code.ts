@@ -5,7 +5,6 @@ import type {
   Exploration,
 } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import { selectNextExploration } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
-import type { MusicRating } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
@@ -20,6 +19,7 @@ import { gradeProperty } from "akasha/page/grade-property/grade-property.page-ty
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 const ARTIST = "artist"
@@ -53,7 +53,7 @@ function list(held: Held, key: string): readonly string[] {
   return typeof said === "string" && said !== "" ? [said] : []
 }
 
-function gradeOf(held: Held): MusicRating | undefined {
+function gradeOf(held: Held): Grade | undefined {
   const said = text(held, GRADE)
   return gradeProperty.values.find((step) => step === said)
 }

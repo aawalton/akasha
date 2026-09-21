@@ -1,6 +1,5 @@
 import { status as statusPage } from "akasha/alan/collection/properties/status.select-property.ts"
 import type { Status } from "akasha/alan/collection/properties/status.select-property.types.ts"
-import type { MusicRating } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { collectionStatus } from "akasha/command/argument/pages/collection-status.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
@@ -15,6 +14,7 @@ import { musicArtistList as page } from "akasha/command/pages/music/artist-list/
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 import {
   carriedFor,
   computedInto,
@@ -38,7 +38,7 @@ export type ArtistRow = {
   readonly slug: string
   readonly title: string
   readonly status: Status | null
-  readonly grade: MusicRating | null
+  readonly grade: Grade | null
   readonly releases: number
   readonly length: number
   readonly progress: number
@@ -46,7 +46,7 @@ export type ArtistRow = {
 }
 
 export type Rung = {
-  readonly grade: MusicRating | typeof NONE
+  readonly grade: Grade | typeof NONE
   readonly artists: number
 }
 
@@ -75,7 +75,7 @@ function firstIn(held: Held, key: string): string | undefined {
   return typeof said === "string" && said !== "" ? said : undefined
 }
 
-function gradeOf(held: Held): MusicRating | null {
+function gradeOf(held: Held): Grade | null {
   const graded = firstIn(held, "grade")
   return gradeProperty.values.find((rung) => rung === graded) ?? null
 }
