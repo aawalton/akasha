@@ -16,8 +16,12 @@ type Made = {
   readonly position?: number
 }
 
-function releaseMade(slug: string, artistSlug: string): Value {
-  return { slug, partOfCollections: [`${artist.slug}/${artistSlug}`] }
+function releaseMade(slug: string, artistSlug: string, publishedAt?: string): Value {
+  return {
+    slug,
+    partOfCollections: [`${artist.slug}/${artistSlug}`],
+    ...(publishedAt === undefined ? {} : { publishedAt }),
+  }
 }
 
 function trackMade(made: Made): Value {
@@ -35,10 +39,11 @@ function trackMade(made: Made): Value {
 }
 
 const RELEASES = [
-  releaseMade("one-first", "one-singer"),
-  releaseMade("one-second", "one-singer"),
-  releaseMade("two-first", "two-singer"),
-  releaseMade("three-first", "three-singer"),
+  releaseMade("one-first", "one-singer", "2020-03-01"),
+  releaseMade("one-second", "one-singer", "2018-07-04"),
+  releaseMade("one-undated", "one-singer"),
+  releaseMade("two-first", "two-singer", "2021-11-11"),
+  releaseMade("three-first", "three-singer", "2019-01-01"),
 ]
 
 function slugsOf(tracks: readonly Value[]): readonly string[] {
@@ -72,8 +77,8 @@ test("a track no release or no spotify id names is never picked", () => {
 
 test("one track of a track key is picked, and it is the first in order", () => {
   const tracks = [
-    trackMade({ slug: "later", releaseSlug: "one-second", key: "same" }),
-    trackMade({ slug: "earlier", releaseSlug: "one-first", key: "same" }),
+    trackMade({ slug: "later", releaseSlug: "one-first", key: "same" }),
+    trackMade({ slug: "earlier", releaseSlug: "one-second", key: "same" }),
   ]
   expect(slugsOf(tracks)).toEqual(["earlier"])
 })
@@ -86,22 +91,38 @@ test("a track stating no track key is never folded into a key", () => {
   expect(slugsOf(tracks)).toEqual(["a", "b"])
 })
 
-test("tracks of one artist are ordered by release, then disc, then position", () => {
+test("tracks of one artist are ordered by the day their release came out", () => {
   const tracks = [
-    trackMade({ slug: "d", releaseSlug: "one-second", position: 1 }),
+    trackMade({ slug: "newer", releaseSlug: "one-first" }),
+    trackMade({ slug: "older", releaseSlug: "one-second" }),
+  ]
+  expect(slugsOf(tracks)).toEqual(["older", "newer"])
+})
+
+test("tracks that came out on one day keep the order their release carries them in", () => {
+  const tracks = [
     trackMade({ slug: "c", releaseSlug: "one-first", disc: 2, position: 1 }),
     trackMade({ slug: "b", releaseSlug: "one-first", disc: 1, position: 2 }),
     trackMade({ slug: "a", releaseSlug: "one-first", disc: 1, position: 1 }),
   ]
-  expect(slugsOf(tracks)).toEqual(["a", "b", "c", "d"])
+  expect(slugsOf(tracks)).toEqual(["a", "b", "c"])
 })
 
-test("artists take turns in the order of their slugs", () => {
+test("a track whose release states no day comes after every track whose release states one", () => {
   const tracks = [
+    trackMade({ slug: "undated", releaseSlug: "one-undated" }),
+    trackMade({ slug: "newer", releaseSlug: "one-first" }),
+    trackMade({ slug: "older", releaseSlug: "one-second" }),
+  ]
+  expect(slugsOf(tracks)).toEqual(["older", "newer", "undated"])
+})
+
+test("an artist's tracks run together, and artists run in the order of their slugs", () => {
+  const tracks = [
+    trackMade({ slug: "two-a", releaseSlug: "two-first", position: 1 }),
     trackMade({ slug: "one-a", releaseSlug: "one-first", position: 1 }),
     trackMade({ slug: "one-b", releaseSlug: "one-first", position: 2 }),
     trackMade({ slug: "one-c", releaseSlug: "one-first", position: 3 }),
-    trackMade({ slug: "two-a", releaseSlug: "two-first", position: 1 }),
   ]
-  expect(slugsOf(tracks)).toEqual(["one-a", "two-a", "one-b", "one-c"])
+  expect(slugsOf(tracks)).toEqual(["one-a", "one-b", "one-c", "two-a"])
 })

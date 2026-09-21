@@ -34,15 +34,28 @@ export const unheardPicking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Tracks of one artist are ordered by release, then disc, then position.",
+      statement: "An artist's tracks run together rather than being dealt among other artists.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Artists take turns, so no artist runs twice before every artist has run once.",
+      statement: "Artists run in the order of their slugs.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Artists take their turns in the order of their slugs.",
+      statement: "Tracks of one artist are ordered by the day their release came out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A track whose release states no day comes after every track whose release states one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Tracks that came out on one day keep the order their release carries them in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tie no other rule settles goes by slug.",
     },
     {
       decisionKind: "decision-kind/absence",

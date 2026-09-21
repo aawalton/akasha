@@ -21,6 +21,8 @@ const ARTIST_UNDER = "artist/"
 
 const RELEASE_UNDER = "release/"
 
+const PUBLISHED_AT = "publishedAt"
+
 export type Picked = {
   readonly trackId: string
   readonly slug: string
@@ -32,8 +34,14 @@ export type Picked = {
 export type Held = {
   readonly picked: Picked
   readonly key: string | null
+  readonly publishedAt: string | null
   readonly disc: number
   readonly position: number
+}
+
+export type Came = {
+  readonly artistSlug: string
+  readonly publishedAt: string | null
 }
 
 export function namedUnder(held: unknown, under: string): string | null {
@@ -48,20 +56,20 @@ export function heard(value: Value): boolean {
   return textIn(value, STATUS) === COMPLETED
 }
 
-export function artistsByRelease(releases: readonly Value[]): ReadonlyMap<string, string> {
-  const held = new Map<string, string>()
+export function releasesIn(releases: readonly Value[]): ReadonlyMap<string, Came> {
+  const held = new Map<string, Came>()
   for (const one of releases) {
     const slug = textIn(one, "slug")
-    const artist = namedUnder(one[PART_OF], ARTIST_UNDER)
-    if (slug === null || artist === null) continue
-    held.set(slug, artist)
+    const artistSlug = namedUnder(one[PART_OF], ARTIST_UNDER)
+    if (slug === null || artistSlug === null) continue
+    held.set(slug, { artistSlug, publishedAt: textIn(one, PUBLISHED_AT) })
   }
   return held
 }
 
 export function heldOver(
   tracks: readonly Value[],
-  byRelease: ReadonlyMap<string, string>,
+  byRelease: ReadonlyMap<string, Came>,
   followed: ReadonlySet<string>
 ): readonly Held[] {
   const rows: Held[] = []
@@ -69,14 +77,21 @@ export function heldOver(
     if (heard(one)) continue
     const releaseSlug = namedUnder(one[PART_OF], RELEASE_UNDER)
     if (releaseSlug === null) continue
-    const artistSlug = byRelease.get(releaseSlug)
-    if (artistSlug === undefined || !followed.has(artistSlug)) continue
+    const came = byRelease.get(releaseSlug)
+    if (came === undefined || !followed.has(came.artistSlug)) continue
     const trackId = idFrom(one[IDENTITY], SPOTIFY)
     const slug = textIn(one, "slug")
     if (trackId === null || slug === null) continue
     rows.push({
-      picked: { trackId, slug, title: textIn(one, "title") ?? slug, artistSlug, releaseSlug },
+      picked: {
+        trackId,
+        slug,
+        title: textIn(one, "title") ?? slug,
+        artistSlug: came.artistSlug,
+        releaseSlug,
+      },
       key: textIn(one, TRACK_KEY),
+      publishedAt: came.publishedAt,
       disc: numberAt(one, "discNumber") ?? 0,
       position: numberAt(one, "position") ?? 0,
     })
@@ -84,8 +99,17 @@ export function heldOver(
   return rows
 }
 
+export function byPublished(mine: string | null, theirs: string | null): number {
+  if (mine === theirs) return 0
+  if (mine === null) return 1
+  if (theirs === null) return -1
+  return mine < theirs ? -1 : 1
+}
+
 export function ordered(rows: readonly Held[]): readonly Held[] {
   return [...rows].sort((a, b) => {
+    const came = byPublished(a.publishedAt, b.publishedAt)
+    if (came !== 0) return came
     const mine = a.picked
     const theirs = b.picked
     if (mine.releaseSlug !== theirs.releaseSlug) {
@@ -112,21 +136,11 @@ export function byArtistIn(rows: readonly Held[]): ReadonlyMap<string, readonly 
   return held
 }
 
-export function takingTurns(byArtist: ReadonlyMap<string, readonly Picked[]>): readonly Picked[] {
-  const artists = [...byArtist.keys()].sort()
+export function artistAfterArtist(
+  byArtist: ReadonlyMap<string, readonly Picked[]>
+): readonly Picked[] {
   const rows: Picked[] = []
-  let turn = 0
-  let more = true
-  while (more) {
-    more = false
-    for (const one of artists) {
-      const picked = (byArtist.get(one) ?? [])[turn]
-      if (picked === undefined) continue
-      rows.push(picked)
-      more = true
-    }
-    turn += 1
-  }
+  for (const one of [...byArtist.keys()].sort()) rows.push(...(byArtist.get(one) ?? []))
   return rows
 }
 
@@ -135,5 +149,5 @@ export function pickingOver(
   releases: readonly Value[],
   followed: ReadonlySet<string>
 ): readonly Picked[] {
-  return takingTurns(byArtistIn(heldOver(tracks, artistsByRelease(releases), followed)))
+  return artistAfterArtist(byArtistIn(heldOver(tracks, releasesIn(releases), followed)))
 }
