@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"check.domain.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts","id":"01a0961f-a1e6-7843-ba3c-d594d46c1668"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-refuses-on-a-test-overlay-that-carried-none-of-the-changes-bodies.finding.ts","id":"01a09c03-d18f-777e-ab1d-a01f4a83c66d"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-lint-audit-falls-short-when-a-landing-moves-a-path-while-the-linter-walks.finding.ts","id":"01a095f1-b21b-7d0d-9178-763b3175d66b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-module-losing-its-last-importer-is-refused-by-no-check.finding.ts","id":"01a0bcc0-eda8-7786-bd1a-54d37637b488"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-ratchet-collects-where-the-fix-is-smaller-than-the-edit-that-trips-it.finding.ts","id":"01a095fd-7f52-7927-8d9f-047862cd5960"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-refusal-for-an-unnamed-value-does-not-tell-dead-code-from-a-loose-wire.finding.ts","id":"01a0a1d4-afa9-7dca-99cc-519e1690192c"}
