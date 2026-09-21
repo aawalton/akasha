@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theTwoCurvesThatFallTogether = {
+  id: "01a0c591-8daa-7c48-b037-320df99ee06d",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-two-curves-that-fall-together",
+  title: "The Two Curves That Fall Together",
+  definition: "her best-behaviour script coming down while my own reach thins",
+  parents: ["all-about-alan-topic/why-my-social-reach-thins-with-depth"],
+  related: ["all-about-alan-topic/when-someone-gets-me-wrong"],
+  settled:
+    "The difficulty between me and a typical person is mutual rather than one-sided, and on my side it is also uneven: strong early, weak deep.\n\nI rate my own first-contact skill at least as important as how well the other person can read me and adapt. The usual telling weights their side. I weight mine equally.\n\nTwo things fall at once as a relationship deepens, and they compound. Their best-behaviour script comes down as they get comfortable, and that script was a second safety contribution beyond my own skill. My own reach thins with closeness, whatever their script is doing.\n\nThe safe middle is safe because both are still near full strength: their script still up, my reach not yet thinned.",
+} as const satisfies AllAboutAlanTopic
