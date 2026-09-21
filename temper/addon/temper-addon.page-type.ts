@@ -186,6 +186,19 @@ export const temperAddon = {
       decisionKind: "decision-kind/departure",
       statement: "How much a player's saved variables weigh decides how many addons Temper ships.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A global declaration is how a bundle reaches code another bundle ships.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Code in one bundle reaches the rest of that bundle by import rather than through a global.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A library folded into one bundle loses the global that library set.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
