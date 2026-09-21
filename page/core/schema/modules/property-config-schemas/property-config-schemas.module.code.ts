@@ -7,6 +7,7 @@ import * as z from "zod"
 export const selectOptionSchema = z.object({
   id: z.string(),
   label: z.string(),
+  color: z.string().optional(),
 })
 
 export type SelectOption = z.infer<typeof selectOptionSchema>
