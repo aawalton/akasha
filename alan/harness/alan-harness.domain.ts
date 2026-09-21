@@ -51,7 +51,6 @@ export const alanHarness = {
     "module/overdue-rolling",
     "module/persona-points-rebuilding",
     "module/security-headers",
-    "module/user-client",
     "page-type/notification-feed",
     "page-type/readout",
     "service-workstation/overdue-rolling",

@@ -355,7 +355,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
 {"propertySlug":"decision-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"decision-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}
-{"propertySlug":"decision-kind","path":"alan/harness/modules/user-client/user-client.module.ts","id":"01a05c91-61cd-7ca0-84dc-81d150423884"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/agent/monarch-eval-agent.module.ts","id":"01a06867-fdff-757f-b949-c56622460db1"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/population/monarch-eval-population.module.ts","id":"01a06867-e5ed-70fd-8fee-bffe0cd3c068"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/run/monarch-eval-run.module.ts","id":"01a06868-1535-7f9d-812e-7f071e571d5b"}
