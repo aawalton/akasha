@@ -8,5 +8,6 @@ export const rulesInsteadOfABrake = {
   definition: "the standing rules I use to keep myself from overreaching",
   parents: ["all-about-alan-topic/how-i-decide"],
   related: ["all-about-alan-topic/not-wanting-to-is-the-gauge"],
-  settled: "I keep them written down because nothing in the moment tells me to stop.",
+  settled:
+    "I keep them written down because nothing in the moment tells me to stop.\n\nWhere my neurotype supplies no faculty inside, I build an explicit rule outside instead. Calling a bad stretch weather and scoring an irreversible decision on a rubric are the same move.\n\nSubstituting an outside governor for a missing inside one is genuinely hard, and I do not always manage it.",
 } as const satisfies AllAboutAlanTopic
