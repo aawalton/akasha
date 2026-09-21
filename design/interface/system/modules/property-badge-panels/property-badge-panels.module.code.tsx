@@ -229,7 +229,27 @@ const DATE_SAMPLES: readonly BadgeSample[] = [
       type: "rrule",
       drawnBy: ["rrule-property", "page-property", "domain", "page"],
     },
-    value: "FREQ=WEEKLY;BYDAY=MO,WE,FR",
+    value: { rule: "FREQ=WEEKLY;BYDAY=MO,WE,FR", anchorFromCompletion: false },
+  },
+  {
+    type: "rrule",
+    property: {
+      id: "ds-property-rrule-daily",
+      title: "Daily Review",
+      type: "rrule",
+      drawnBy: ["rrule-property", "page-property", "domain", "page"],
+    },
+    value: { rule: "FREQ=DAILY", anchorFromCompletion: false },
+  },
+  {
+    type: "rrule",
+    property: {
+      id: "ds-property-rrule-anchored",
+      title: "Deep Clean",
+      type: "rrule",
+      drawnBy: ["rrule-property", "page-property", "domain", "page"],
+    },
+    value: { rule: "FREQ=WEEKLY;INTERVAL=2", anchorFromCompletion: true },
   },
 ]
 
