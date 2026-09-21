@@ -1,0 +1,17 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theGradesThatRanBackwards = {
+  id: "01a0c5a5-3b49-7f2b-a38e-e1aed903b2c5",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-grades-that-ran-backwards",
+  title: "The Grades That Ran Backwards",
+  definition: "A grades in the hard courses and B grades in the easy ones, and what set that slope",
+  parents: ["all-about-alan-topic/how-my-attention-works"],
+  related: [
+    "all-about-alan-topic/what-pulls-me-into-doing-something",
+    "all-about-alan-topic/how-i-came-out-of-computer-science",
+    "all-about-alan-topic/the-four-shapes-my-executive-trouble-takes",
+  ],
+  settled:
+    "At college at sixteen I got A grades in the hard courses and B grades in the easy ones. For almost everyone the slope runs the other way.\n\nThe easy ones taxed me. With no interest in the material the only way to hold attention was to manufacture it by hand, and hand-fed attention is expensive and leaky.\n\nThe hard ones were free. The difficulty supplied the interest and the interest supplied the attention.\n\nFrom outside it reads as good at hard things and careless about easy ones. It is the opposite of carelessness. It is executive dysfunction showing up in a transcript years before I had a name for it.",
+} as const satisfies AllAboutAlanTopic
