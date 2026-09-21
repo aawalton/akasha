@@ -68,6 +68,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-rule-goal","unique":null,"uniquePropertySlug":null,"slug":"goal","propertySlug":"goal","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"groups","propertySlug":"groups","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"identity-statement-value","propertySlug":"identity-statement-value","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"image-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative","propertySlug":"initiative","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"initiative-persona","propertySlug":"persona","fileName":null,"folderName":null}
