@@ -8,9 +8,6 @@ export const rynStandardAgentEnglish = {
   persona: "persona/ryn",
   intentStack: [
     {
-      statement: "The load a construction puts on a reading agent is measured.",
-    },
-    {
       statement: "Standard Agent English defines what terms are allowed.",
     },
     {
