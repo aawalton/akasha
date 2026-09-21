@@ -47,7 +47,7 @@ test("a run narrowed to one check is refused", () => {
   expect(asSubagent("akasha audit --check typecheck --check duplicate-rule")).toBe(REFUSED)
 })
 
-test("a run narrowed to one path is refused", () => {
+test("a call naming `--file-path`, which the command does not take, is refused", () => {
   expect(asSubagent("akasha audit --file-path checks")).toBe(REFUSED)
 })
 
