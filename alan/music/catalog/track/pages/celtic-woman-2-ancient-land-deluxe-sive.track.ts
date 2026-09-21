@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeSive = {
   slug: "celtic-woman-2-ancient-land-deluxe-sive",
   ownLength: 3.1728833333333335,
   ownProgress: 3.1728833333333335,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeSive = {
   trackKey: "sive|6NWtt9pNOL2Gx7kBykdE5x|190373",
   song: "song/celtic-woman-sive",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 8,
+      externalId: "5voZZIKoVrjNTAyl9Grr7A",
+      externalLink: "https://open.spotify.com/track/5voZZIKoVrjNTAyl9Grr7A",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

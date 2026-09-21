@@ -6,7 +6,10 @@ export const arianaGrandeYoursTrulyPiano = {
   slug: "ariana-grande-yours-truly-piano",
   ownLength: 3.9071,
   ownProgress: 3.9071,
-  partOfCollections: ["release/ariana-grande-yours-truly"],
+  partOfCollections: [
+    "release/ariana-grande-yours-truly",
+    "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const arianaGrandeYoursTrulyPiano = {
       position: 6,
       externalId: "1xCqIXCApBgcjwRLostpKl",
       externalLink: "https://open.spotify.com/track/1xCqIXCApBgcjwRLostpKl",
+    },
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 6,
+      externalId: "1WPjEBaYjOh65gQF7EwwOp",
+      externalLink: "https://open.spotify.com/track/1WPjEBaYjOh65gQF7EwwOp",
     },
   ],
 } as const satisfies Track

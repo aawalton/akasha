@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/ariana-grande-break-free","discNumber":1,"position":1,"externalId":"2lOgTEwxmRPBtjp60opyRN","externalLink":"https://open.spotify.com/track/2lOgTEwxmRPBtjp60opyRN"}]}
+{"carriedBy":[{"release":"release/ariana-grande-break-free","discNumber":1,"position":1,"externalId":"2lOgTEwxmRPBtjp60opyRN","externalLink":"https://open.spotify.com/track/2lOgTEwxmRPBtjp60opyRN"},{"release":"release/ariana-grande-my-everything-tenth-anniversary-edition","discNumber":1,"position":5,"externalId":"7qQKhhQkLGxDKeF0EY2uH6","externalLink":"https://open.spotify.com/track/7qQKhhQkLGxDKeF0EY2uH6"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"2lOgTEwxmRPBtjp60opyRN","externalLink":"https://open.spotify.com/track/2lOgTEwxmRPBtjp60opyRN","lastSyncedAt":"2026-09-15"}]}
 {"id":"01a0a6c5-3d44-726e-b1a8-6e8b195cc6e7"}
 {"ownLength":3.5807166666666665}
 {"ownProgress":3.5807166666666665}
-{"partOfCollections":["release/ariana-grande-break-free"]}
+{"partOfCollections":["release/ariana-grande-break-free","release/ariana-grande-my-everything-tenth-anniversary-edition"]}
 {"position":1}
 {"slug":"ariana-grande-break-free-break-free"}
 {"song":"song/ariana-grande-break-free"}

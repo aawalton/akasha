@@ -6,7 +6,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-the-wicked-witch-of-the-east",
   ownLength: 3.3888333333333334,
   ownProgress: 3.3888333333333334,
-  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-for-good-the-soundtrack",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -31,6 +34,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
     "thewickedwitchoftheeast|0yF5IqIHlPDti2mfZtHe3K,46UMQ0cW8ToR8egkBRwAxZ,6uGIoRQUqP4ncxyg6HksA1|203330",
   song: "song/ariana-grande-the-wicked-witch-of-the-east",
   carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 4,
+      externalId: "1hSbcsqNmTaLVOUQ340Flt",
+      externalLink: "https://open.spotify.com/track/1hSbcsqNmTaLVOUQ340Flt",
+    },
     {
       release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
       discNumber: 1,

@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/paul-cardall-christmas","discNumber":1,"position":12,"externalId":"3Cw9vV3b8G6ftnoD23SpwN","externalLink":"https://open.spotify.com/track/3Cw9vV3b8G6ftnoD23SpwN"}]}
+{"carriedBy":[{"release":"release/paul-cardall-christmas","discNumber":1,"position":12,"externalId":"3Cw9vV3b8G6ftnoD23SpwN","externalLink":"https://open.spotify.com/track/3Cw9vV3b8G6ftnoD23SpwN"},{"release":"release/paul-cardall-christmas-hymns","discNumber":1,"position":5,"externalId":"0t33iTv2bHVcYUeLmZ08uQ","externalLink":"https://open.spotify.com/track/0t33iTv2bHVcYUeLmZ08uQ"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"3Cw9vV3b8G6ftnoD23SpwN","externalLink":"https://open.spotify.com/track/3Cw9vV3b8G6ftnoD23SpwN","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b4c8-3526-7e87-8f57-1afd011aedc7"}
 {"ownLength":4.394933333333333}
 {"ownProgress":4.394933333333333}
-{"partOfCollections":["release/paul-cardall-christmas"]}
+{"partOfCollections":["release/paul-cardall-christmas","release/paul-cardall-christmas-hymns"]}
 {"position":12}
 {"slug":"paul-cardall-christmas-away-in-a-manger"}
 {"song":"song/celtic-woman-away-in-a-manger"}

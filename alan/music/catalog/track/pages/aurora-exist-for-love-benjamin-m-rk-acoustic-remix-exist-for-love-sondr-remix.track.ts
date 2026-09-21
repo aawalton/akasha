@@ -6,7 +6,10 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
   slug: "aurora-exist-for-love-benjamin-m-rk-acoustic-remix-exist-for-love-sondr-remix",
   ownLength: 4.3051,
   ownProgress: 4.3051,
-  partOfCollections: ["release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix"],
+  partOfCollections: [
+    "release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix",
+    "release/aurora-exist-for-love-remixes",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
       position: 2,
       externalId: "1f5Ry4cYAI3Op7WPXbNVZs",
       externalLink: "https://open.spotify.com/track/1f5Ry4cYAI3Op7WPXbNVZs",
+    },
+    {
+      release: "release/aurora-exist-for-love-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "0267nQCNUMkFleDxJtaS6d",
+      externalLink: "https://open.spotify.com/track/0267nQCNUMkFleDxJtaS6d",
     },
   ],
 } as const satisfies Track

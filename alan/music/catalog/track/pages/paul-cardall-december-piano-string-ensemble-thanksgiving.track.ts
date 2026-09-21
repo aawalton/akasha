@@ -6,7 +6,10 @@ export const paulCardallDecemberPianoStringEnsembleThanksgiving = {
   slug: "paul-cardall-december-piano-string-ensemble-thanksgiving",
   ownLength: 2.35955,
   ownProgress: 2.35955,
-  partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
+  partOfCollections: [
+    "release/paul-cardall-december-piano-string-ensemble",
+    "release/paul-cardall-thanksgiving",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallDecemberPianoStringEnsembleThanksgiving = {
       position: 6,
       externalId: "4j4mk3j6IgNaEWodidrfle",
       externalLink: "https://open.spotify.com/track/4j4mk3j6IgNaEWodidrfle",
+    },
+    {
+      release: "release/paul-cardall-thanksgiving",
+      discNumber: 1,
+      position: 1,
+      externalId: "5XYHovggqmPIZsDzp9FT9F",
+      externalLink: "https://open.spotify.com/track/5XYHovggqmPIZsDzp9FT9F",
     },
   ],
 } as const satisfies Track

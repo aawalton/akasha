@@ -6,7 +6,11 @@ export const sabrinaCarpenterEmailsICanTSendFwdVicious = {
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-vicious",
   ownLength: 2.4981666666666666,
   ownProgress: 2.4981666666666666,
-  partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
+  partOfCollections: [
+    "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+    "release/sabrina-carpenter-emails-i-can-t-send",
+    "release/sabrina-carpenter-vicious",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const sabrinaCarpenterEmailsICanTSendFwdVicious = {
   song: "song/sabrina-carpenter-vicious",
   carriedBy: [
     {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 2,
+      externalId: "6Alp15t6urC4opjJiyOqZu",
+      externalLink: "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu",
+    },
+    {
       release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
       discNumber: 1,
       position: 2,
       externalId: "3o99q6o0C2HdEiXJbLL5Wb",
       externalLink: "https://open.spotify.com/track/3o99q6o0C2HdEiXJbLL5Wb",
+    },
+    {
+      release: "release/sabrina-carpenter-vicious",
+      discNumber: 1,
+      position: 1,
+      externalId: "77Gyctcku69jSlSSYhZEkh",
+      externalLink: "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh",
     },
   ],
 } as const satisfies Track

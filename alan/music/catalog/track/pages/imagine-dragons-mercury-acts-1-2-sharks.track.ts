@@ -6,7 +6,7 @@ export const imagineDragonsMercuryActs12Sharks = {
   slug: "imagine-dragons-mercury-acts-1-2-sharks",
   ownLength: 3.1813833333333332,
   ownProgress: 3.1813833333333332,
-  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2", "release/imagine-dragons-sharks"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const imagineDragonsMercuryActs12Sharks = {
       position: 3,
       externalId: "7sA2SKTo1QbTSSYn5YvJC4",
       externalLink: "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4",
+    },
+    {
+      release: "release/imagine-dragons-sharks",
+      discNumber: 1,
+      position: 1,
+      externalId: "0TyUOnU4H4GLqOcrH0auc8",
+      externalLink: "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
   slug: "ariana-grande-34-35-remix-34-35-remix-feat-doja-cat-megan-thee-stallion-remix",
   ownLength: 3.0406166666666667,
   ownProgress: 3.0406166666666667,
-  partOfCollections: ["release/ariana-grande-34-35-remix"],
+  partOfCollections: [
+    "release/ariana-grande-34-35-remix",
+    "release/ariana-grande-positions-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -37,6 +40,13 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
       position: 1,
       externalId: "3jjBPF4NDMCU51psU8JPpR",
       externalLink: "https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR",
+    },
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 17,
+      externalId: "2sQH02O2HBCPJCztBrCWNa",
+      externalLink: "https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const coldplayParachutesHighSpeed = {
   slug: "coldplay-parachutes-high-speed",
   ownLength: 4.2744333333333335,
   ownProgress: 4.2744333333333335,
-  partOfCollections: ["release/coldplay-parachutes"],
+  partOfCollections: ["release/coldplay-parachutes", "release/coldplay-the-blue-room"],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayParachutesHighSpeed = {
       position: 8,
       externalId: "2DHgvPQD1jApRnT1DBZdrS",
       externalLink: "https://open.spotify.com/track/2DHgvPQD1jApRnT1DBZdrS",
+    },
+    {
+      release: "release/coldplay-the-blue-room",
+      discNumber: 1,
+      position: 4,
+      externalId: "2nhjxNFCXbnYBpCbrmT1Ol",
+      externalLink: "https://open.spotify.com/track/2nhjxNFCXbnYBpCbrmT1Ol",
     },
   ],
 } as const satisfies Track

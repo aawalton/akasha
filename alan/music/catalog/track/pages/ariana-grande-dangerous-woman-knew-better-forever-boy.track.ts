@@ -6,7 +6,10 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
   slug: "ariana-grande-dangerous-woman-knew-better-forever-boy",
   ownLength: 4.986883333333333,
   ownProgress: 4.986883333333333,
-  partOfCollections: ["release/ariana-grande-dangerous-woman"],
+  partOfCollections: [
+    "release/ariana-grande-dangerous-woman",
+    "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+  ],
   position: 14,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
       position: 14,
       externalId: "1ywoy5kdf2LsG2019ClGjm",
       externalLink: "https://open.spotify.com/track/1ywoy5kdf2LsG2019ClGjm",
+    },
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 14,
+      externalId: "5cjqjeRvbu936DNHQCUdbf",
+      externalLink: "https://open.spotify.com/track/5cjqjeRvbu936DNHQCUdbf",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const coldplayMoonMusicFullMoonEditionJupiter = {
   slug: "coldplay-moon-music-full-moon-edition-jupiter",
   ownLength: 4.008466666666667,
   ownProgress: 4.008466666666667,
-  partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
+  partOfCollections: [
+    "release/coldplay-moon-music-full-moon-edition",
+    "release/coldplay-moon-music",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const coldplayMoonMusicFullMoonEditionJupiter = {
   trackKey: "jupiter|4gzpq5DPGxSnKTe4SA8HAU|240508",
   song: "song/coldplay-jupiter",
   carriedBy: [
+    {
+      release: "release/coldplay-moon-music",
+      discNumber: 1,
+      position: 4,
+      externalId: "3EbRbM7qyJq9qjRqDIwBTO",
+      externalLink: "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO",
+    },
     {
       release: "release/coldplay-moon-music-full-moon-edition",
       discNumber: 1,

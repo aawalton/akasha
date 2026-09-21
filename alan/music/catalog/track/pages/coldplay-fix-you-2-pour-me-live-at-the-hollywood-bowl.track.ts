@@ -6,7 +6,7 @@ export const coldplayFixYou2PourMeLiveAtTheHollywoodBowl = {
   slug: "coldplay-fix-you-2-pour-me-live-at-the-hollywood-bowl",
   ownLength: 5.022883333333334,
   ownProgress: 5.022883333333334,
-  partOfCollections: ["release/coldplay-fix-you-2"],
+  partOfCollections: ["release/coldplay-fix-you-2", "release/coldplay-fix-you"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const coldplayFixYou2PourMeLiveAtTheHollywoodBowl = {
   trackKey: "pourmeliveatthehollywoodbowl|4gzpq5DPGxSnKTe4SA8HAU|301373",
   song: "song/coldplay-pour-me",
   carriedBy: [
+    {
+      release: "release/coldplay-fix-you",
+      discNumber: 1,
+      position: 2,
+      externalId: "1Ipyg911kDvQPCNIah49Jp",
+      externalLink: "https://open.spotify.com/track/1Ipyg911kDvQPCNIah49Jp",
+    },
     {
       release: "release/coldplay-fix-you-2",
       discNumber: 1,

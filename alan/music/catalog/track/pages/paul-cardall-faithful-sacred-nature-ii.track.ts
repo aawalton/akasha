@@ -6,7 +6,7 @@ export const paulCardallFaithfulSacredNatureIi = {
   slug: "paul-cardall-faithful-sacred-nature-ii",
   ownLength: 3.933333333333333,
   ownProgress: 3.933333333333333,
-  partOfCollections: ["release/paul-cardall-faithful"],
+  partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallFaithfulSacredNatureIi = {
       position: 10,
       externalId: "0IfYPxpBGDvJz4BHSNyr5Y",
       externalLink: "https://open.spotify.com/track/0IfYPxpBGDvJz4BHSNyr5Y",
+    },
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 12,
+      externalId: "0TWchb60HAhwj0Gs5V60No",
+      externalLink: "https://open.spotify.com/track/0TWchb60HAhwj0Gs5V60No",
     },
   ],
 } as const satisfies Track

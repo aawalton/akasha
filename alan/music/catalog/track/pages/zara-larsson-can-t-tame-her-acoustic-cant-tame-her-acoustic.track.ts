@@ -6,7 +6,10 @@ export const zaraLarssonCanTTameHerAcousticCantTameHerAcoustic = {
   slug: "zara-larsson-can-t-tame-her-acoustic-cant-tame-her-acoustic",
   ownLength: 3.5,
   ownProgress: 3.5,
-  partOfCollections: ["release/zara-larsson-can-t-tame-her-acoustic"],
+  partOfCollections: [
+    "release/zara-larsson-can-t-tame-her-acoustic",
+    "release/zara-larsson-can-t-tame-her-the-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const zaraLarssonCanTTameHerAcousticCantTameHerAcoustic = {
       position: 1,
       externalId: "1fuD35YHKBFQTIy61hbwo4",
       externalLink: "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4",
+    },
+    {
+      release: "release/zara-larsson-can-t-tame-her-the-remixes",
+      discNumber: 1,
+      position: 4,
+      externalId: "2Q84Tw4B9TUibN0vxQPFkT",
+      externalLink: "https://open.spotify.com/track/2Q84Tw4B9TUibN0vxQPFkT",
     },
   ],
 } as const satisfies Track

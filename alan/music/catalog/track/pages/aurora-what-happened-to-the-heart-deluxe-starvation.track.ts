@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartDeluxeStarvation = {
   slug: "aurora-what-happened-to-the-heart-deluxe-starvation",
   ownLength: 3.4602166666666667,
   ownProgress: 3.4602166666666667,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const auroraWhatHappenedToTheHeartDeluxeStarvation = {
   trackKey: "starvation|1WgXqy2Dd70QQOU7Ay074N|207613",
   song: "song/aurora-starvation",
   carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 13,
+      externalId: "6rtwjJHMx7pNd6xAnT8nK8",
+      externalLink: "https://open.spotify.com/track/6rtwjJHMx7pNd6xAnT8nK8",
+    },
     {
       release: "release/aurora-what-happened-to-the-heart-deluxe",
       discNumber: 1,

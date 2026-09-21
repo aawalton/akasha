@@ -6,7 +6,11 @@ export const thePianoGuys3ChillYouAreTheReason = {
   slug: "the-piano-guys-3-chill-you-are-the-reason",
   ownLength: 3.9205,
   ownProgress: 3.9205,
-  partOfCollections: ["release/the-piano-guys-3-chill"],
+  partOfCollections: [
+    "release/the-piano-guys-3-chill",
+    "release/the-piano-guys-3-classical-love-romance",
+    "release/the-piano-guys-3-wedding-season",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +39,20 @@ export const thePianoGuys3ChillYouAreTheReason = {
       position: 10,
       externalId: "39kcQDf6iV6RG7sq2shJBk",
       externalLink: "https://open.spotify.com/track/39kcQDf6iV6RG7sq2shJBk",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-love-romance",
+      discNumber: 1,
+      position: 8,
+      externalId: "3VWrExAhooCiHKcvGeKnZy",
+      externalLink: "https://open.spotify.com/track/3VWrExAhooCiHKcvGeKnZy",
+    },
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 15,
+      externalId: "1oUzdnQof2tsyTAzFtc6qa",
+      externalLink: "https://open.spotify.com/track/1oUzdnQof2tsyTAzFtc6qa",
     },
   ],
 } as const satisfies Track

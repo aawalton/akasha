@@ -6,7 +6,10 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
   slug: "zara-larsson-ruin-my-life-futose-remix-ruin-my-life-futose-remix",
   ownLength: 4.748166666666667,
   ownProgress: 4.748166666666667,
-  partOfCollections: ["release/zara-larsson-ruin-my-life-futose-remix"],
+  partOfCollections: [
+    "release/zara-larsson-ruin-my-life-futose-remix",
+    "release/zara-larsson-ruin-my-life-the-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
       position: 1,
       externalId: "5PjZ1ElBi3Ql3AqpuMC0z2",
       externalLink: "https://open.spotify.com/track/5PjZ1ElBi3Ql3AqpuMC0z2",
+    },
+    {
+      release: "release/zara-larsson-ruin-my-life-the-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "64eknQZcDCUqCagbPeOZF9",
+      externalLink: "https://open.spotify.com/track/64eknQZcDCUqCagbPeOZF9",
     },
   ],
 } as const satisfies Track

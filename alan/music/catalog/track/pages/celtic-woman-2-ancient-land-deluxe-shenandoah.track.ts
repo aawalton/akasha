@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
   slug: "celtic-woman-2-ancient-land-deluxe-shenandoah",
   ownLength: 4.1171,
   ownProgress: 4.1171,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
   trackKey: "shenandoah|6NWtt9pNOL2Gx7kBykdE5x|247026",
   song: "song/celtic-woman-shenandoah",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 9,
+      externalId: "1DVeGmNt0WVYgBvyxTTkyR",
+      externalLink: "https://open.spotify.com/track/1DVeGmNt0WVYgBvyxTTkyR",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

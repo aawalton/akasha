@@ -6,7 +6,10 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
   slug: "aurora-infections-of-a-different-kind-step-i-infections-of-a-different-kind",
   ownLength: 5.448483333333333,
   ownProgress: 5.448483333333333,
-  partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
+  partOfCollections: [
+    "release/aurora-infections-of-a-different-kind-step-i",
+    "release/aurora-stories",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
       position: 8,
       externalId: "4qG51V8PWSpARAjrUCYzM6",
       externalLink: "https://open.spotify.com/track/4qG51V8PWSpARAjrUCYzM6",
+    },
+    {
+      release: "release/aurora-stories",
+      discNumber: 1,
+      position: 5,
+      externalId: "6zimctWrmakPpZ8eBgDp0V",
+      externalLink: "https://open.spotify.com/track/6zimctWrmakPpZ8eBgDp0V",
     },
   ],
 } as const satisfies Track

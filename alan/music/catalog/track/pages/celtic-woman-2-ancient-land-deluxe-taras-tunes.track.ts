@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeTarasTunes = {
   slug: "celtic-woman-2-ancient-land-deluxe-taras-tunes",
   ownLength: 4.248883333333334,
   ownProgress: 4.248883333333334,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeTarasTunes = {
   trackKey: "tarastunes|6NWtt9pNOL2Gx7kBykdE5x|254933",
   song: "song/celtic-woman-taras-tunes",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 11,
+      externalId: "3aGiYndzAVhVa51kIe1bTd",
+      externalLink: "https://open.spotify.com/track/3aGiYndzAVhVa51kIe1bTd",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

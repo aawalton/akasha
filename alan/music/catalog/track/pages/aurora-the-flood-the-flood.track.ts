@@ -6,7 +6,10 @@ export const auroraTheFloodTheFlood = {
   slug: "aurora-the-flood-the-flood",
   ownLength: 4.495333333333333,
   ownProgress: 4.495333333333333,
-  partOfCollections: ["release/aurora-the-flood"],
+  partOfCollections: [
+    "release/aurora-the-flood",
+    "release/aurora-what-happened-to-the-heart-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraTheFloodTheFlood = {
       position: 1,
       externalId: "4wwpOIY2XXfYW2A8bS6djJ",
       externalLink: "https://open.spotify.com/track/4wwpOIY2XXfYW2A8bS6djJ",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 17,
+      externalId: "2WxFBMZAyinR4y9s1MbRRn",
+      externalLink: "https://open.spotify.com/track/2WxFBMZAyinR4y9s1MbRRn",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
   slug: "aurora-forgotten-love-claptone-extended-remix-forgotten-love-claptone-extended-remix",
   ownLength: 6.739716666666666,
   ownProgress: 6.739716666666666,
-  partOfCollections: ["release/aurora-forgotten-love-claptone-extended-remix"],
+  partOfCollections: [
+    "release/aurora-forgotten-love-claptone-extended-remix",
+    "release/aurora-forgotten-love-claptone-remix",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -36,6 +39,13 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
       position: 1,
       externalId: "3JbXpyrMyRAI6SoV8a87Bs",
       externalLink: "https://open.spotify.com/track/3JbXpyrMyRAI6SoV8a87Bs",
+    },
+    {
+      release: "release/aurora-forgotten-love-claptone-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "2F23qDUTD1MQemrHfyVexW",
+      externalLink: "https://open.spotify.com/track/2F23qDUTD1MQemrHfyVexW",
     },
   ],
 } as const satisfies Track

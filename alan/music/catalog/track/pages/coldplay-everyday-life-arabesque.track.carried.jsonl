@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/coldplay-everyday-life","discNumber":1,"position":7,"externalId":"0ZlVUhjO8c0bOx1D2Btznf","externalLink":"https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf"}]}
+{"carriedBy":[{"release":"release/coldplay-everyday-life","discNumber":1,"position":7,"externalId":"0ZlVUhjO8c0bOx1D2Btznf","externalLink":"https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf"},{"release":"release/coldplay-orphans-arabesque","discNumber":1,"position":2,"externalId":"2Z1HknKRrvUv5cheidF8Ag","externalLink":"https://open.spotify.com/track/2Z1HknKRrvUv5cheidF8Ag"}]}
 {"discNumber":1}
 {"explicit":true}
 {"externalIdentity":[{"source":"spotify","externalId":"0ZlVUhjO8c0bOx1D2Btznf","externalLink":"https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ee-cfc9-747d-bbfb-83eadb7fdb36"}
 {"ownLength":5.671333333333333}
 {"ownProgress":5.671333333333333}
-{"partOfCollections":["release/coldplay-everyday-life"]}
+{"partOfCollections":["release/coldplay-everyday-life","release/coldplay-orphans-arabesque"]}
 {"position":7}
 {"slug":"coldplay-everyday-life-arabesque"}
 {"song":"song/coldplay-arabesque"}

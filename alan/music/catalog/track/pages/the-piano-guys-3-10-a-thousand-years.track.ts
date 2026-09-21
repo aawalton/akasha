@@ -6,7 +6,11 @@ export const thePianoGuys310AThousandYears = {
   slug: "the-piano-guys-3-10-a-thousand-years",
   ownLength: 4.50735,
   ownProgress: 4.50735,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-love-romance",
+    "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys310AThousandYears = {
       position: 11,
       externalId: "1n3X12SV936VFhCzASRJQj",
       externalLink: "https://open.spotify.com/track/1n3X12SV936VFhCzASRJQj",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-love-romance",
+      discNumber: 1,
+      position: 1,
+      externalId: "4mo9EDiWqmsAF3uJDAHccy",
+      externalLink: "https://open.spotify.com/track/4mo9EDiWqmsAF3uJDAHccy",
+    },
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+      discNumber: 1,
+      position: 7,
+      externalId: "08fRXYBpsLdN3r7RvFLpof",
+      externalLink: "https://open.spotify.com/track/08fRXYBpsLdN3r7RvFLpof",
     },
   ],
 } as const satisfies Track

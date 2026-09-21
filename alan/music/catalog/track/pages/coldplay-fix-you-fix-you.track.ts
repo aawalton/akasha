@@ -6,7 +6,7 @@ export const coldplayFixYouFixYou = {
   slug: "coldplay-fix-you-fix-you",
   ownLength: 4.92555,
   ownProgress: 4.92555,
-  partOfCollections: ["release/coldplay-fix-you"],
+  partOfCollections: ["release/coldplay-fix-you", "release/coldplay-x-y"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayFixYouFixYou = {
       position: 1,
       externalId: "1SWPQul8Zr5jezPUYPcLwR",
       externalLink: "https://open.spotify.com/track/1SWPQul8Zr5jezPUYPcLwR",
+    },
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 4,
+      externalId: "7LVHVU3tWfcxj5aiPFEW4Q",
+      externalLink: "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q",
     },
   ],
 } as const satisfies Track

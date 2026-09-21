@@ -6,7 +6,10 @@ export const zaraLarssonGirlsGirlGirlsTripGirlsGirlGirlsTrip = {
   slug: "zara-larsson-girls-girl-girls-trip-girls-girl-girls-trip",
   ownLength: 3.265216666666667,
   ownProgress: 0,
-  partOfCollections: ["release/zara-larsson-girls-girl-girls-trip"],
+  partOfCollections: [
+    "release/zara-larsson-girls-girl-girls-trip",
+    "release/zara-larsson-midnight-sun-girls-trip",
+  ],
   position: 1,
   status: "not-started",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const zaraLarssonGirlsGirlGirlsTripGirlsGirlGirlsTrip = {
       position: 1,
       externalId: "3nFTbFUDsIluGyra5jIyKJ",
       externalLink: "https://open.spotify.com/track/3nFTbFUDsIluGyra5jIyKJ",
+    },
+    {
+      release: "release/zara-larsson-midnight-sun-girls-trip",
+      discNumber: 1,
+      position: 4,
+      externalId: "1eA6Uh2q01uLdV8aXupWtY",
+      externalLink: "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY",
     },
   ],
 } as const satisfies Track

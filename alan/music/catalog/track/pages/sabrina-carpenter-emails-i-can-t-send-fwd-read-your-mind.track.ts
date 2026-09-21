@@ -6,7 +6,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdReadYourMind = {
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-read-your-mind",
   ownLength: 3.46415,
   ownProgress: 3.46415,
-  partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
+  partOfCollections: [
+    "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+    "release/sabrina-carpenter-emails-i-can-t-send",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdReadYourMind = {
   trackKey: "readyourmind|74KM79TiuVKeVCqs8QtB0B|207849",
   song: "song/sabrina-carpenter-read-your-mind",
   carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 3,
+      externalId: "4Wos0h9ECU2Z3oJMTQxpbc",
+      externalLink: "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc",
+    },
     {
       release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
       discNumber: 1,

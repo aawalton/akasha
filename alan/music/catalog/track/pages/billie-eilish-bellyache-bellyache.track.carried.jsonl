@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/billie-eilish-bellyache","discNumber":1,"position":1,"externalId":"51NFxnQvaosfDDutk0tams","externalLink":"https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"}]}
+{"carriedBy":[{"release":"release/billie-eilish-bellyache","discNumber":1,"position":1,"externalId":"51NFxnQvaosfDDutk0tams","externalLink":"https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"},{"release":"release/billie-eilish-dont-smile-at-me","discNumber":1,"position":6,"externalId":"1ni8ZTAY1GHXEFOGHl7fdg","externalLink":"https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"51NFxnQvaosfDDutk0tams","externalLink":"https://open.spotify.com/track/51NFxnQvaosfDDutk0tams","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b638-ed22-77a9-88a5-4d91bcf1f7da"}
 {"ownLength":2.9862}
 {"ownProgress":2.9862}
-{"partOfCollections":["release/billie-eilish-bellyache"]}
+{"partOfCollections":["release/billie-eilish-bellyache","release/billie-eilish-dont-smile-at-me"]}
 {"position":1}
 {"slug":"billie-eilish-bellyache-bellyache"}
 {"song":"song/billie-eilish-bellyache"}

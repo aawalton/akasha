@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/ariana-grande-positions-deluxe","discNumber":1,"position":12,"externalId":"3DFnLXa69NVlOjbhTbXXNn","externalLink":"https://open.spotify.com/track/3DFnLXa69NVlOjbhTbXXNn"}]}
+{"carriedBy":[{"release":"release/ariana-grande-positions","discNumber":1,"position":12,"externalId":"35mvY5S1H3J2QZyna3TFe0","externalLink":"https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"},{"release":"release/ariana-grande-positions-deluxe","discNumber":1,"position":12,"externalId":"3DFnLXa69NVlOjbhTbXXNn","externalLink":"https://open.spotify.com/track/3DFnLXa69NVlOjbhTbXXNn"}]}
 {"discNumber":1}
 {"explicit":true}
 {"externalIdentity":[{"source":"spotify","externalId":"3DFnLXa69NVlOjbhTbXXNn","externalLink":"https://open.spotify.com/track/3DFnLXa69NVlOjbhTbXXNn","lastSyncedAt":"2026-09-15"}]}
 {"id":"01a0a6c5-2024-7aef-943f-2bb86d1e5f22"}
 {"ownLength":2.8720666666666665}
 {"ownProgress":2.8720666666666665}
-{"partOfCollections":["release/ariana-grande-positions-deluxe"]}
+{"partOfCollections":["release/ariana-grande-positions-deluxe","release/ariana-grande-positions"]}
 {"position":12}
 {"slug":"ariana-grande-positions-deluxe-positions"}
 {"song":"song/ariana-grande-positions"}

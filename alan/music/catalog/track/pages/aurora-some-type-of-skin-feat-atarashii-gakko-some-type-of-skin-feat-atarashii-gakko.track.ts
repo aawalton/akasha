@@ -6,7 +6,10 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
   slug: "aurora-some-type-of-skin-feat-atarashii-gakko-some-type-of-skin-feat-atarashii-gakko",
   ownLength: 3.6026666666666665,
   ownProgress: 3.6026666666666665,
-  partOfCollections: ["release/aurora-some-type-of-skin-feat-atarashii-gakko"],
+  partOfCollections: [
+    "release/aurora-some-type-of-skin-feat-atarashii-gakko",
+    "release/aurora-what-happened-to-the-heart-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
       position: 1,
       externalId: "7KUSXRkYdYI4nQDLrwQNrZ",
       externalLink: "https://open.spotify.com/track/7KUSXRkYdYI4nQDLrwQNrZ",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 21,
+      externalId: "6NRN8ZtyP4vs0n8nL46zrq",
+      externalLink: "https://open.spotify.com/track/6NRN8ZtyP4vs0n8nL46zrq",
     },
   ],
 } as const satisfies Track

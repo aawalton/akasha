@@ -6,7 +6,10 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
   slug: "celtic-woman-2-celtic-woman-she-moved-thru-the-fair",
   ownLength: 3.5153333333333334,
   ownProgress: 3.5153333333333334,
-  partOfCollections: ["release/celtic-woman-2-celtic-woman"],
+  partOfCollections: [
+    "release/celtic-woman-2-celtic-woman",
+    "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
       position: 11,
       externalId: "5LaSMvbGDfAlZEabjLixR6",
       externalLink: "https://open.spotify.com/track/5LaSMvbGDfAlZEabjLixR6",
+    },
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 13,
+      externalId: "1iB8fvVxL0wSgOhinsd5FS",
+      externalLink: "https://open.spotify.com/track/1iB8fvVxL0wSgOhinsd5FS",
     },
   ],
 } as const satisfies Track

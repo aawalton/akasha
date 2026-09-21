@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/the-piano-guys-3-before-you-go","discNumber":1,"position":1,"externalId":"5JLUo91wuHD9coSvZn0Nl9","externalLink":"https://open.spotify.com/track/5JLUo91wuHD9coSvZn0Nl9"}]}
+{"carriedBy":[{"release":"release/the-piano-guys-3-before-you-go","discNumber":1,"position":1,"externalId":"5JLUo91wuHD9coSvZn0Nl9","externalLink":"https://open.spotify.com/track/5JLUo91wuHD9coSvZn0Nl9"},{"release":"release/the-piano-guys-3-chill","discNumber":1,"position":9,"externalId":"6DcQaaai7MGhgMXEaCg0oF","externalLink":"https://open.spotify.com/track/6DcQaaai7MGhgMXEaCg0oF"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"5JLUo91wuHD9coSvZn0Nl9","externalLink":"https://open.spotify.com/track/5JLUo91wuHD9coSvZn0Nl9","lastSyncedAt":"2026-09-17"}]}
 {"id":"01a0afa2-07fe-727b-a171-8f61def26f1b"}
 {"ownLength":3.8839166666666665}
 {"ownProgress":3.8839166666666665}
-{"partOfCollections":["release/the-piano-guys-3-before-you-go"]}
+{"partOfCollections":["release/the-piano-guys-3-before-you-go","release/the-piano-guys-3-chill"]}
 {"position":1}
 {"slug":"the-piano-guys-3-before-you-go-before-you-go"}
 {"song":"song/the-piano-guys-before-you-go"}

@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartASoulWithNoKing = {
   slug: "aurora-what-happened-to-the-heart-a-soul-with-no-king",
   ownLength: 4.40755,
   ownProgress: 4.40755,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart",
+    "release/aurora-what-happened-to-the-heart-deluxe",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraWhatHappenedToTheHeartASoulWithNoKing = {
       position: 9,
       externalId: "7f6tNSh2jYBoYA9G4wj1On",
       externalLink: "https://open.spotify.com/track/7f6tNSh2jYBoYA9G4wj1On",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 9,
+      externalId: "1UNZwi9zgSngoU7Yt0SXG1",
+      externalLink: "https://open.spotify.com/track/1UNZwi9zgSngoU7Yt0SXG1",
     },
   ],
 } as const satisfies Track

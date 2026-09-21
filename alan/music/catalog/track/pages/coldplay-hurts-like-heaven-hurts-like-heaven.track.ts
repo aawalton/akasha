@@ -6,7 +6,7 @@ export const coldplayHurtsLikeHeavenHurtsLikeHeaven = {
   slug: "coldplay-hurts-like-heaven-hurts-like-heaven",
   ownLength: 4.03755,
   ownProgress: 4.03755,
-  partOfCollections: ["release/coldplay-hurts-like-heaven"],
+  partOfCollections: ["release/coldplay-hurts-like-heaven", "release/coldplay-mylo-xyloto"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayHurtsLikeHeavenHurtsLikeHeaven = {
       position: 1,
       externalId: "4iOy0ROl5vKp7hJJ5nblNR",
       externalLink: "https://open.spotify.com/track/4iOy0ROl5vKp7hJJ5nblNR",
+    },
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 2,
+      externalId: "6WF4hzdGXvXd1joERSXJjm",
+      externalLink: "https://open.spotify.com/track/6WF4hzdGXvXd1joERSXJjm",
     },
   ],
 } as const satisfies Track

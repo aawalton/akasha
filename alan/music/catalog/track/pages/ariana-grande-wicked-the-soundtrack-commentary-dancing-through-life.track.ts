@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLife = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-dancing-through-life",
   ownLength: 9.7894,
   ownProgress: 9.7894,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -34,11 +38,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLife = {
   song: "song/ariana-grande-dancing-through-life",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 6,
+      externalId: "2ivc7aWOeWTxCeWKdf8Tds",
+      externalLink: "https://open.spotify.com/track/2ivc7aWOeWTxCeWKdf8Tds",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 13,
       externalId: "1q3M3HeMqnKHyfTP5TBmjL",
       externalLink: "https://open.spotify.com/track/1q3M3HeMqnKHyfTP5TBmjL",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 6,
+      externalId: "6qo8v2y2MHUSPLs7VBc6cG",
+      externalLink: "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG",
     },
   ],
 } as const satisfies Track

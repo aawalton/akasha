@@ -6,7 +6,10 @@ export const jamesTaylor2BeforeThisWorldTodayTodayToday = {
   slug: "james-taylor-2-before-this-world-today-today-today",
   ownLength: 3.1528833333333335,
   ownProgress: 3.1528833333333335,
-  partOfCollections: ["release/james-taylor-2-before-this-world"],
+  partOfCollections: [
+    "release/james-taylor-2-before-this-world",
+    "release/james-taylor-2-today-today-today",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const jamesTaylor2BeforeThisWorldTodayTodayToday = {
       position: 1,
       externalId: "64ZiNwBPlvQpfMLwxddu1z",
       externalLink: "https://open.spotify.com/track/64ZiNwBPlvQpfMLwxddu1z",
+    },
+    {
+      release: "release/james-taylor-2-today-today-today",
+      discNumber: 1,
+      position: 1,
+      externalId: "353SNIIxSolCN1Uhae1EJJ",
+      externalLink: "https://open.spotify.com/track/353SNIIxSolCN1Uhae1EJJ",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxePov = {
   slug: "ariana-grande-positions-deluxe-pov",
   ownLength: 3.3647,
   ownProgress: 3.3647,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 14,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const arianaGrandePositionsDeluxePov = {
   trackKey: "pov|66CXWjxzNUsdJxJ2JdwvnR|201882",
   song: "song/ariana-grande-pov",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 14,
+      externalId: "3UoULw70kMsiVXxW0L3A33",
+      externalLink: "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

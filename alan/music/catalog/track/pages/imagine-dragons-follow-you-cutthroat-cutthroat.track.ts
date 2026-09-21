@@ -6,7 +6,10 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
   slug: "imagine-dragons-follow-you-cutthroat-cutthroat",
   ownLength: 2.8290166666666665,
   ownProgress: 2.8290166666666665,
-  partOfCollections: ["release/imagine-dragons-follow-you-cutthroat"],
+  partOfCollections: [
+    "release/imagine-dragons-follow-you-cutthroat",
+    "release/imagine-dragons-mercury-acts-1-2",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
       position: 2,
       externalId: "0n0TbMUY2xrZlvd5J6XsqO",
       externalLink: "https://open.spotify.com/track/0n0TbMUY2xrZlvd5J6XsqO",
+    },
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 1,
+      position: 12,
+      externalId: "5KXp9E22MHunsS4W4PNBUf",
+      externalLink: "https://open.spotify.com/track/5KXp9E22MHunsS4W4PNBUf",
     },
   ],
 } as const satisfies Track

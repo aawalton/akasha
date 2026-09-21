@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/ariana-grande-yes-and-felix-jaehn-remix","discNumber":1,"position":1,"externalId":"7dr1lLSbw7UaEch1ycBxRc","externalLink":"https://open.spotify.com/track/7dr1lLSbw7UaEch1ycBxRc"}]}
+{"carriedBy":[{"release":"release/ariana-grande-yes-and-felix-jaehn-remix","discNumber":1,"position":1,"externalId":"7dr1lLSbw7UaEch1ycBxRc","externalLink":"https://open.spotify.com/track/7dr1lLSbw7UaEch1ycBxRc"},{"release":"release/ariana-grande-yes-and-remixes","discNumber":1,"position":1,"externalId":"6R5licKQW6P3UD64RWtKxb","externalLink":"https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb"}]}
 {"discNumber":1}
 {"explicit":true}
 {"externalIdentity":[{"source":"spotify","externalId":"7dr1lLSbw7UaEch1ycBxRc","externalLink":"https://open.spotify.com/track/7dr1lLSbw7UaEch1ycBxRc","lastSyncedAt":"2026-09-15"}]}
 {"id":"01a0a6c5-3567-7326-b52e-28945097d3cf"}
 {"ownLength":3.9231666666666665}
 {"ownProgress":3.9231666666666665}
-{"partOfCollections":["release/ariana-grande-yes-and-felix-jaehn-remix"]}
+{"partOfCollections":["release/ariana-grande-yes-and-felix-jaehn-remix","release/ariana-grande-yes-and-remixes"]}
 {"position":1}
 {"slug":"ariana-grande-yes-and-felix-jaehn-remix-yes-and-felix-jaehn-remix"}
 {"song":"song/ariana-grande-yes-and"}

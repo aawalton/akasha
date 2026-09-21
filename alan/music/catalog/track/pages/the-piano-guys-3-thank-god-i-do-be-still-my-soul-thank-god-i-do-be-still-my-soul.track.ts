@@ -6,7 +6,11 @@ export const thePianoGuys3ThankGodIDoBeStillMySoulThankGodIDoBeStillMySoul = {
   slug: "the-piano-guys-3-thank-god-i-do-be-still-my-soul-thank-god-i-do-be-still-my-soul",
   ownLength: 4.119666666666666,
   ownProgress: 4.119666666666666,
-  partOfCollections: ["release/the-piano-guys-3-thank-god-i-do-be-still-my-soul"],
+  partOfCollections: [
+    "release/the-piano-guys-3-thank-god-i-do-be-still-my-soul",
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-3-wedding-season",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3ThankGodIDoBeStillMySoulThankGodIDoBeStillMySoul = {
       position: 1,
       externalId: "7DgAkYhljwetKLbsfBBPfH",
       externalLink: "https://open.spotify.com/track/7DgAkYhljwetKLbsfBBPfH",
+    },
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 8,
+      externalId: "0YAiks9HIG1nmxI8FNO2Uv",
+      externalLink: "https://open.spotify.com/track/0YAiks9HIG1nmxI8FNO2Uv",
+    },
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 9,
+      externalId: "0FtyyOUezoRTJnIUtGaRzT",
+      externalLink: "https://open.spotify.com/track/0FtyyOUezoRTJnIUtGaRzT",
     },
   ],
 } as const satisfies Track

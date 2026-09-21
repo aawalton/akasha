@@ -6,7 +6,10 @@ export const paulCardallDecemberPianoStringEnsembleNewMoonRising = {
   slug: "paul-cardall-december-piano-string-ensemble-new-moon-rising",
   ownLength: 3.62155,
   ownProgress: 3.62155,
-  partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
+  partOfCollections: [
+    "release/paul-cardall-december-piano-string-ensemble",
+    "release/paul-cardall-new-moon-rising",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallDecemberPianoStringEnsembleNewMoonRising = {
       position: 3,
       externalId: "1q07To1TuNfMYxVfFPW7TV",
       externalLink: "https://open.spotify.com/track/1q07To1TuNfMYxVfFPW7TV",
+    },
+    {
+      release: "release/paul-cardall-new-moon-rising",
+      discNumber: 1,
+      position: 1,
+      externalId: "0U7wLLlzyuPPExoPtzCPvw",
+      externalLink: "https://open.spotify.com/track/0U7wLLlzyuPPExoPtzCPvw",
     },
   ],
 } as const satisfies Track

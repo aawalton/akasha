@@ -6,7 +6,7 @@ export const paulCardallReturnHomeShropshireHills = {
   slug: "paul-cardall-return-home-shropshire-hills",
   ownLength: 3.2373833333333333,
   ownProgress: 3.2373833333333333,
-  partOfCollections: ["release/paul-cardall-return-home"],
+  partOfCollections: ["release/paul-cardall-return-home", "release/paul-cardall-shropshire-hills"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallReturnHomeShropshireHills = {
       position: 2,
       externalId: "1ChwEFivNa0DbN6DkC2LCR",
       externalLink: "https://open.spotify.com/track/1ChwEFivNa0DbN6DkC2LCR",
+    },
+    {
+      release: "release/paul-cardall-shropshire-hills",
+      discNumber: 1,
+      position: 1,
+      externalId: "2ksVMUu5C2jeLVSTiFXxnY",
+      externalLink: "https://open.spotify.com/track/2ksVMUu5C2jeLVSTiFXxnY",
     },
   ],
 } as const satisfies Track

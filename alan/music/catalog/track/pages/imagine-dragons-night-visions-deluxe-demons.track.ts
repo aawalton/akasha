@@ -6,7 +6,10 @@ export const imagineDragonsNightVisionsDeluxeDemons = {
   slug: "imagine-dragons-night-visions-deluxe-demons",
   ownLength: 2.92,
   ownProgress: 2.92,
-  partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-night-visions-deluxe",
+    "release/imagine-dragons-night-visions",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const imagineDragonsNightVisionsDeluxeDemons = {
   trackKey: "demons|53XhwfbYqKCa1cC15pYq2q|175200",
   song: "song/imagine-dragons-demons",
   carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 4,
+      externalId: "3LlAyCYU26dvFZBDUIMb7a",
+      externalLink: "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a",
+    },
     {
       release: "release/imagine-dragons-night-visions-deluxe",
       discNumber: 1,

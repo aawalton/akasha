@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxeJustLikeMagic = {
   slug: "ariana-grande-positions-deluxe-just-like-magic",
   ownLength: 2.4983333333333335,
   ownProgress: 2.4983333333333335,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const arianaGrandePositionsDeluxeJustLikeMagic = {
   trackKey: "justlikemagic|66CXWjxzNUsdJxJ2JdwvnR|149900",
   song: "song/ariana-grande-just-like-magic",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 4,
+      externalId: "7Dx9Z6Aon1qPS2N0rHSWTe",
+      externalLink: "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

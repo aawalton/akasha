@@ -6,7 +6,10 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
   slug: "billie-eilish-burn-with-vince-staples-burn-with-vince-staples",
   ownLength: 2.9835833333333333,
   ownProgress: 2.9835833333333333,
-  partOfCollections: ["release/billie-eilish-burn-with-vince-staples"],
+  partOfCollections: [
+    "release/billie-eilish-burn-with-vince-staples",
+    "release/billie-eilish-dont-smile-at-me",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
       position: 1,
       externalId: "7uX3gufAoBVqKVoD3dBLLD",
       externalLink: "https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD",
+    },
+    {
+      release: "release/billie-eilish-dont-smile-at-me",
+      discNumber: 1,
+      position: 9,
+      externalId: "6X7qcg95CAeJpTjtg1wooM",
+      externalLink: "https://open.spotify.com/track/6X7qcg95CAeJpTjtg1wooM",
     },
   ],
 } as const satisfies Track

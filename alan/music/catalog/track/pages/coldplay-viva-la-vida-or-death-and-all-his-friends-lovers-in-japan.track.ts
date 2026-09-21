@@ -6,7 +6,10 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLoversInJapan = {
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends-lovers-in-japan",
   ownLength: 6.850216666666666,
   ownProgress: 6.850216666666666,
-  partOfCollections: ["release/coldplay-viva-la-vida-or-death-and-all-his-friends"],
+  partOfCollections: [
+    "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLoversInJapan = {
       position: 5,
       externalId: "5qPGi9p8VqcizfdgWxtmLt",
       externalLink: "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "0Hwwbk98kXcwyvtgkdqlMD",
+      externalLink: "https://open.spotify.com/track/0Hwwbk98kXcwyvtgkdqlMD",
     },
   ],
 } as const satisfies Track

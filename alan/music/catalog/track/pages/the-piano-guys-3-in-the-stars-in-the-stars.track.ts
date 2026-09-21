@@ -6,7 +6,11 @@ export const thePianoGuys3InTheStarsInTheStars = {
   slug: "the-piano-guys-3-in-the-stars-in-the-stars",
   ownLength: 3.6346,
   ownProgress: 3.6346,
-  partOfCollections: ["release/the-piano-guys-3-in-the-stars"],
+  partOfCollections: [
+    "release/the-piano-guys-3-in-the-stars",
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3InTheStarsInTheStars = {
       position: 1,
       externalId: "4zkLrc401RiE6YuekwE7Ju",
       externalLink: "https://open.spotify.com/track/4zkLrc401RiE6YuekwE7Ju",
+    },
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 7,
+      externalId: "7wZ8Fr8qK8a2VVH5ZaAisA",
+      externalLink: "https://open.spotify.com/track/7wZ8Fr8qK8a2VVH5ZaAisA",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 5,
+      externalId: "3mz1dfIoOV8ICAAyIhuhPY",
+      externalLink: "https://open.spotify.com/track/3mz1dfIoOV8ICAAyIhuhPY",
     },
   ],
 } as const satisfies Track

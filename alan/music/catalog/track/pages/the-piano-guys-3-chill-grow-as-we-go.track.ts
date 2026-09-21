@@ -6,7 +6,7 @@ export const thePianoGuys3ChillGrowAsWeGo = {
   slug: "the-piano-guys-3-chill-grow-as-we-go",
   ownLength: 4.3148,
   ownProgress: 4.3148,
-  partOfCollections: ["release/the-piano-guys-3-chill"],
+  partOfCollections: ["release/the-piano-guys-3-chill", "release/the-piano-guys-autumn-on-piano"],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -37,6 +37,13 @@ export const thePianoGuys3ChillGrowAsWeGo = {
       position: 12,
       externalId: "631NzqPL2I4XHsK76E9390",
       externalLink: "https://open.spotify.com/track/631NzqPL2I4XHsK76E9390",
+    },
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 2,
+      externalId: "78oxoexZ4dj7KfbTbEhw1M",
+      externalLink: "https://open.spotify.com/track/78oxoexZ4dj7KfbTbEhw1M",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const zaraLarssonPosterGirlSummerEditionWhatHappensHere = {
   slug: "zara-larsson-poster-girl-summer-edition-what-happens-here",
   ownLength: 3.3279666666666667,
   ownProgress: 3.3279666666666667,
-  partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
+  partOfCollections: [
+    "release/zara-larsson-poster-girl-summer-edition",
+    "release/zara-larsson-poster-girl",
+  ],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const zaraLarssonPosterGirlSummerEditionWhatHappensHere = {
   trackKey: "whathappenshere|1Xylc3o4UrD53lo9CvFvVg|199678",
   song: "song/zara-larsson-what-happens-here",
   carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl",
+      discNumber: 1,
+      position: 12,
+      externalId: "17tuHcxhRbZADp4kU7Lrfs",
+      externalLink: "https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs",
+    },
     {
       release: "release/zara-larsson-poster-girl-summer-edition",
       discNumber: 1,

@@ -6,7 +6,10 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
   slug: "zara-larsson-lush-life-retro-version-lush-life-retro-version",
   ownLength: 3.2308833333333333,
   ownProgress: 3.2308833333333333,
-  partOfCollections: ["release/zara-larsson-lush-life-retro-version"],
+  partOfCollections: [
+    "release/zara-larsson-lush-life-retro-version",
+    "release/zara-larsson-lush-life-the-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
       position: 1,
       externalId: "4O5ygqTjiXLWo9HASGsk8E",
       externalLink: "https://open.spotify.com/track/4O5ygqTjiXLWo9HASGsk8E",
+    },
+    {
+      release: "release/zara-larsson-lush-life-the-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "0qEGJGT2N0br36oHPkjZZh",
+      externalLink: "https://open.spotify.com/track/0qEGJGT2N0br36oHPkjZZh",
     },
   ],
 } as const satisfies Track

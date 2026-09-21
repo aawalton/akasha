@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartDeluxeDoYouFeel = {
   slug: "aurora-what-happened-to-the-heart-deluxe-do-you-feel",
   ownLength: 3.0251,
   ownProgress: 3.0251,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const auroraWhatHappenedToTheHeartDeluxeDoYouFeel = {
   trackKey: "doyoufeel|1WgXqy2Dd70QQOU7Ay074N|181506",
   song: "song/aurora-do-you-feel",
   carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 12,
+      externalId: "6vAT53Wp20Q11vpUypcT7h",
+      externalLink: "https://open.spotify.com/track/6vAT53Wp20Q11vpUypcT7h",
+    },
     {
       release: "release/aurora-what-happened-to-the-heart-deluxe",
       discNumber: 1,

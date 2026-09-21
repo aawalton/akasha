@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeFaithsSong = {
   slug: "celtic-woman-2-ancient-land-deluxe-faiths-song",
   ownLength: 4.05555,
   ownProgress: 4.05555,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeFaithsSong = {
   trackKey: "faithssong|6NWtt9pNOL2Gx7kBykdE5x|243333",
   song: "song/celtic-woman-faiths-song",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 13,
+      externalId: "0bGTNgq8V3xrbAXN4YDdOf",
+      externalLink: "https://open.spotify.com/track/0bGTNgq8V3xrbAXN4YDdOf",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

@@ -6,7 +6,10 @@ export const thePianoGuys310OverTheRainbowSimpleGifts = {
   slug: "the-piano-guys-3-10-over-the-rainbow-simple-gifts",
   ownLength: 3.6941166666666665,
   ownProgress: 3.6941166666666665,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+  ],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310OverTheRainbowSimpleGifts = {
       position: 12,
       externalId: "1QmL2sj2WXXNY3nW2fqBAL",
       externalLink: "https://open.spotify.com/track/1QmL2sj2WXXNY3nW2fqBAL",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 5,
+      externalId: "6Kv8gSzq8S3FMWlbgmqS1w",
+      externalLink: "https://open.spotify.com/track/6Kv8gSzq8S3FMWlbgmqS1w",
     },
   ],
 } as const satisfies Track

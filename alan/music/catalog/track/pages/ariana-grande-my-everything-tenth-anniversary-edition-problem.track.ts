@@ -6,7 +6,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-problem",
   ownLength: 3.233216666666667,
   ownProgress: 3.233216666666667,
-  partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
+  partOfCollections: [
+    "release/ariana-grande-my-everything-tenth-anniversary-edition",
+    "release/ariana-grande-problem",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
       position: 2,
       externalId: "4jwPNgd0ux1wE4TgETVIT3",
       externalLink: "https://open.spotify.com/track/4jwPNgd0ux1wE4TgETVIT3",
+    },
+    {
+      release: "release/ariana-grande-problem",
+      discNumber: 1,
+      position: 1,
+      externalId: "1f9MXvV39Mrx2TAEx5M2TB",
+      externalLink: "https://open.spotify.com/track/1f9MXvV39Mrx2TAEx5M2TB",
     },
   ],
 } as const satisfies Track

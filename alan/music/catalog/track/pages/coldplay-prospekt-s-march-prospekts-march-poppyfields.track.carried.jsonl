@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/coldplay-prospekt-s-march","discNumber":1,"position":5,"externalId":"6KgFgKiVLWk75G86H5bcea","externalLink":"https://open.spotify.com/track/6KgFgKiVLWk75G86H5bcea"}]}
+{"carriedBy":[{"release":"release/coldplay-prospekt-s-march","discNumber":1,"position":5,"externalId":"6KgFgKiVLWk75G86H5bcea","externalLink":"https://open.spotify.com/track/6KgFgKiVLWk75G86H5bcea"},{"release":"release/coldplay-viva-la-vida-prospekt-s-march-edition","discNumber":2,"position":5,"externalId":"4yr1059N96a8msTHVftmFN","externalLink":"https://open.spotify.com/track/4yr1059N96a8msTHVftmFN"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"6KgFgKiVLWk75G86H5bcea","externalLink":"https://open.spotify.com/track/6KgFgKiVLWk75G86H5bcea","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ee-fc85-7881-9fb9-e46a2856fd55"}
 {"ownLength":3.65385}
 {"ownProgress":3.65385}
-{"partOfCollections":["release/coldplay-prospekt-s-march"]}
+{"partOfCollections":["release/coldplay-prospekt-s-march","release/coldplay-viva-la-vida-prospekt-s-march-edition"]}
 {"position":5}
 {"slug":"coldplay-prospekt-s-march-prospekts-march-poppyfields"}
 {"song":"song/coldplay-prospekts-march-poppyfields"}

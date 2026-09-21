@@ -6,7 +6,10 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
   slug: "vinny-marchi-jonny-rife-pulled-a-knife-jonny-rife-pulled-a-knife",
   ownLength: 3.0166666666666666,
   ownProgress: 3.0166666666666666,
-  partOfCollections: ["release/vinny-marchi-jonny-rife-pulled-a-knife"],
+  partOfCollections: [
+    "release/vinny-marchi-jonny-rife-pulled-a-knife",
+    "release/vinny-marchi-tales-of-the-lesbian-hunter",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
       position: 1,
       externalId: "1s0sieFucHsh8RGshCbX9j",
       externalLink: "https://open.spotify.com/track/1s0sieFucHsh8RGshCbX9j",
+    },
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 13,
+      externalId: "2RM5EdNddpjmgUHQ5rpDBs",
+      externalLink: "https://open.spotify.com/track/2RM5EdNddpjmgUHQ5rpDBs",
     },
   ],
 } as const satisfies Track

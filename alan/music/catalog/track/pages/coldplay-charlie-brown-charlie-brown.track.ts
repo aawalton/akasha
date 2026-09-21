@@ -6,7 +6,7 @@ export const coldplayCharlieBrownCharlieBrown = {
   slug: "coldplay-charlie-brown-charlie-brown",
   ownLength: 4.75265,
   ownProgress: 4.75265,
-  partOfCollections: ["release/coldplay-charlie-brown"],
+  partOfCollections: ["release/coldplay-charlie-brown", "release/coldplay-mylo-xyloto"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayCharlieBrownCharlieBrown = {
       position: 1,
       externalId: "2xmG19ADoSwiEkBOJZ6poQ",
       externalLink: "https://open.spotify.com/track/2xmG19ADoSwiEkBOJZ6poQ",
+    },
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 4,
+      externalId: "1yqMgZNrevsWMLWfO2PRp5",
+      externalLink: "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
     },
   ],
 } as const satisfies Track

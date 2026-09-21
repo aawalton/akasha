@@ -6,7 +6,10 @@ export const imagineDragonsMercuryActs12Wrecked = {
   slug: "imagine-dragons-mercury-acts-1-2-wrecked",
   ownLength: 4.0667333333333335,
   ownProgress: 4.0667333333333335,
-  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  partOfCollections: [
+    "release/imagine-dragons-mercury-acts-1-2",
+    "release/imagine-dragons-wrecked",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const imagineDragonsMercuryActs12Wrecked = {
       position: 4,
       externalId: "6TEftSkmWdTm1EpThnwqh6",
       externalLink: "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6",
+    },
+    {
+      release: "release/imagine-dragons-wrecked",
+      discNumber: 1,
+      position: 1,
+      externalId: "2d1MywHy6FwKdzxFuSJnwl",
+      externalLink: "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl",
     },
   ],
 } as const satisfies Track

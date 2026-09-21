@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackASentimentalMan = {
   slug: "ariana-grande-wicked-the-soundtrack-a-sentimental-man",
   ownLength: 2.21035,
   ownProgress: 2.21035,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const arianaGrandeWickedTheSoundtrackASentimentalMan = {
       position: 10,
       externalId: "7nj1vXAUfwiojuj0tNrEbp",
       externalLink: "https://open.spotify.com/track/7nj1vXAUfwiojuj0tNrEbp",
+    },
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 21,
+      externalId: "4w2RjYBQrzWwK2W8rov3fk",
+      externalLink: "https://open.spotify.com/track/4w2RjYBQrzWwK2W8rov3fk",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 10,
+      externalId: "2Nox49biysRuKoIaDWMemm",
+      externalLink: "https://open.spotify.com/track/2Nox49biysRuKoIaDWMemm",
     },
   ],
 } as const satisfies Track

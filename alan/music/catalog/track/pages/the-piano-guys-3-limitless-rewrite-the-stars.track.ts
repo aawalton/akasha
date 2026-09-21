@@ -6,7 +6,7 @@ export const thePianoGuys3LimitlessRewriteTheStars = {
   slug: "the-piano-guys-3-limitless-rewrite-the-stars",
   ownLength: 3.52555,
   ownProgress: 3.52555,
-  partOfCollections: ["release/the-piano-guys-3-limitless"],
+  partOfCollections: ["release/the-piano-guys-3-limitless", "release/the-piano-guys-serenity"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys3LimitlessRewriteTheStars = {
       position: 2,
       externalId: "1t4NUQuv33szmm8jeLzsZW",
       externalLink: "https://open.spotify.com/track/1t4NUQuv33szmm8jeLzsZW",
+    },
+    {
+      release: "release/the-piano-guys-serenity",
+      discNumber: 1,
+      position: 4,
+      externalId: "3wliVjxGl2X28AQ6h1udXW",
+      externalLink: "https://open.spotify.com/track/3wliVjxGl2X28AQ6h1udXW",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
   slug: "ariana-grande-positions-deluxe-safety-net-feat-ty-dolla-ign",
   ownLength: 3.474283333333333,
   ownProgress: 3.474283333333333,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +29,13 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
   trackKey: "safetynetfeattydollaign|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|208457",
   song: "song/ariana-grande-safety-net",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 7,
+      externalId: "14gkWVFMwdxBMyqBw1wmIg",
+      externalLink: "https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

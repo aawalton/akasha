@@ -6,7 +6,7 @@ export const emeiNightAtTheOperaWhatsThePoint = {
   slug: "emei-night-at-the-opera-whats-the-point",
   ownLength: 2.729233333333333,
   ownProgress: 0,
-  partOfCollections: ["release/emei-night-at-the-opera"],
+  partOfCollections: ["release/emei-night-at-the-opera", "release/emei-whats-the-point"],
   position: 2,
   status: "not-started",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emeiNightAtTheOperaWhatsThePoint = {
       position: 2,
       externalId: "5ebdWVa02jyMYOo18PvW0V",
       externalLink: "https://open.spotify.com/track/5ebdWVa02jyMYOo18PvW0V",
+    },
+    {
+      release: "release/emei-whats-the-point",
+      discNumber: 1,
+      position: 1,
+      externalId: "5yYGr8R31sQLOMVIgNCnrN",
+      externalLink: "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN",
     },
   ],
 } as const satisfies Track

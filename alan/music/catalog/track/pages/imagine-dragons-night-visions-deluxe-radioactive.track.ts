@@ -6,7 +6,11 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
   slug: "imagine-dragons-night-visions-deluxe-radioactive",
   ownLength: 3.11355,
   ownProgress: 3.11355,
-  partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-night-visions-deluxe",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+    "release/imagine-dragons-night-visions",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
   song: "song/imagine-dragons-radioactive",
   carriedBy: [
     {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 1,
+      externalId: "4G8gkOterJn0Ywt6uhqbhp",
+      externalLink: "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp",
+    },
+    {
       release: "release/imagine-dragons-night-visions-deluxe",
       discNumber: 1,
       position: 1,
       externalId: "58rFzMvW9kxNwMtGTgBQoP",
       externalLink: "https://open.spotify.com/track/58rFzMvW9kxNwMtGTgBQoP",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 1,
+      position: 1,
+      externalId: "5Yj7eY0cs6wkGsn5mxy9j1",
+      externalLink: "https://open.spotify.com/track/5Yj7eY0cs6wkGsn5mxy9j1",
     },
   ],
 } as const satisfies Track

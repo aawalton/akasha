@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeOrinocoFlow = {
   slug: "celtic-woman-2-ancient-land-deluxe-orinoco-flow",
   ownLength: 3.87155,
   ownProgress: 3.87155,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-orinoco-flow",
+  ],
   position: 20,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2AncientLandDeluxeOrinocoFlow = {
       position: 20,
       externalId: "7EVQbKJwWOzJSoYcph8mdE",
       externalLink: "https://open.spotify.com/track/7EVQbKJwWOzJSoYcph8mdE",
+    },
+    {
+      release: "release/celtic-woman-2-orinoco-flow",
+      discNumber: 1,
+      position: 1,
+      externalId: "6iPDETSDz9B6hd819WWFgn",
+      externalLink: "https://open.spotify.com/track/6iPDETSDz9B6hd819WWFgn",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const coldplayGhostStoriesMagic = {
   slug: "coldplay-ghost-stories-magic",
   ownLength: 4.750233333333333,
   ownProgress: 4.750233333333333,
-  partOfCollections: ["release/coldplay-ghost-stories"],
+  partOfCollections: ["release/coldplay-ghost-stories", "release/coldplay-magic"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayGhostStoriesMagic = {
       position: 2,
       externalId: "23khhseCLQqVMCIT1WMAns",
       externalLink: "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns",
+    },
+    {
+      release: "release/coldplay-magic",
+      discNumber: 1,
+      position: 1,
+      externalId: "27jdUE1EYDSXZqhjuNxLem",
+      externalLink: "https://open.spotify.com/track/27jdUE1EYDSXZqhjuNxLem",
     },
   ],
 } as const satisfies Track

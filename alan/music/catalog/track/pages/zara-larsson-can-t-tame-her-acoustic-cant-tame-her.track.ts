@@ -6,7 +6,11 @@ export const zaraLarssonCanTTameHerAcousticCantTameHer = {
   slug: "zara-larsson-can-t-tame-her-acoustic-cant-tame-her",
   ownLength: 3.2823166666666665,
   ownProgress: 3.2823166666666665,
-  partOfCollections: ["release/zara-larsson-can-t-tame-her-acoustic"],
+  partOfCollections: [
+    "release/zara-larsson-can-t-tame-her-acoustic",
+    "release/zara-larsson-can-t-tame-her",
+    "release/zara-larsson-venus",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const zaraLarssonCanTTameHerAcousticCantTameHer = {
   song: "song/zara-larsson-can-t-tame-her",
   carriedBy: [
     {
+      release: "release/zara-larsson-can-t-tame-her",
+      discNumber: 1,
+      position: 1,
+      externalId: "4vOoQh9MhS9pyrbvc8LyMz",
+      externalLink: "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz",
+    },
+    {
       release: "release/zara-larsson-can-t-tame-her-acoustic",
       discNumber: 1,
       position: 2,
       externalId: "3HsDThXqQVYNea7LNqrlgw",
       externalLink: "https://open.spotify.com/track/3HsDThXqQVYNea7LNqrlgw",
+    },
+    {
+      release: "release/zara-larsson-venus",
+      discNumber: 1,
+      position: 1,
+      externalId: "1G1kKHczSz6Xqv5dCmtkL4",
+      externalLink: "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4",
     },
   ],
 } as const satisfies Track

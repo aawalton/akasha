@@ -6,7 +6,10 @@ export const arianaGrandeYesAndFelixJaehnRemixYesAndFelixJaehnRemix = {
   slug: "ariana-grande-yes-and-felix-jaehn-remix-yes-and-felix-jaehn-remix",
   ownLength: 3.9231666666666665,
   ownProgress: 3.9231666666666665,
-  partOfCollections: ["release/ariana-grande-yes-and-felix-jaehn-remix"],
+  partOfCollections: [
+    "release/ariana-grande-yes-and-felix-jaehn-remix",
+    "release/ariana-grande-yes-and-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const arianaGrandeYesAndFelixJaehnRemixYesAndFelixJaehnRemix = {
       position: 1,
       externalId: "7dr1lLSbw7UaEch1ycBxRc",
       externalLink: "https://open.spotify.com/track/7dr1lLSbw7UaEch1ycBxRc",
+    },
+    {
+      release: "release/ariana-grande-yes-and-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "6R5licKQW6P3UD64RWtKxb",
+      externalLink: "https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb",
     },
   ],
 } as const satisfies Track

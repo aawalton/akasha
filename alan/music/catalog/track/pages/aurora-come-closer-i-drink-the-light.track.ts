@@ -6,7 +6,7 @@ export const auroraComeCloserIDrinkTheLight = {
   slug: "aurora-come-closer-i-drink-the-light",
   ownLength: 7.948216666666666,
   ownProgress: 0,
-  partOfCollections: ["release/aurora-come-closer"],
+  partOfCollections: ["release/aurora-come-closer", "release/aurora-i-drink-the-light"],
   position: 8,
   status: "not-started",
   unit: "unit/minutes",
@@ -37,6 +37,13 @@ export const auroraComeCloserIDrinkTheLight = {
       position: 8,
       externalId: "1YsBC7h8KSnWjQdddkfrnz",
       externalLink: "https://open.spotify.com/track/1YsBC7h8KSnWjQdddkfrnz",
+    },
+    {
+      release: "release/aurora-i-drink-the-light",
+      discNumber: 1,
+      position: 1,
+      externalId: "4ytjR8q5geAVO7EQM9Gjzd",
+      externalLink: "https://open.spotify.com/track/4ytjR8q5geAVO7EQM9Gjzd",
     },
   ],
 } as const satisfies Track

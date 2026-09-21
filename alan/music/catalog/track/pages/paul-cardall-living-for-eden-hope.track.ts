@@ -6,7 +6,10 @@ export const paulCardallLivingForEdenHope = {
   slug: "paul-cardall-living-for-eden-hope",
   ownLength: 3.260666666666667,
   ownProgress: 3.260666666666667,
-  partOfCollections: ["release/paul-cardall-living-for-eden"],
+  partOfCollections: [
+    "release/paul-cardall-living-for-eden",
+    "release/paul-cardall-saving-tiny-hearts",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallLivingForEdenHope = {
       position: 10,
       externalId: "4g9dYMtOJf384x3z3JCzwp",
       externalLink: "https://open.spotify.com/track/4g9dYMtOJf384x3z3JCzwp",
+    },
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 14,
+      externalId: "1jZaCZr2wqPZVUHTmgJFNn",
+      externalLink: "https://open.spotify.com/track/1jZaCZr2wqPZVUHTmgJFNn",
     },
   ],
 } as const satisfies Track

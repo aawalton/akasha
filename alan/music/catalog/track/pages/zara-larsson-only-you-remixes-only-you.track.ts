@@ -6,7 +6,7 @@ export const zaraLarssonOnlyYouRemixesOnlyYou = {
   slug: "zara-larsson-only-you-remixes-only-you",
   ownLength: 3.7060333333333335,
   ownProgress: 3.7060333333333335,
-  partOfCollections: ["release/zara-larsson-only-you-remixes"],
+  partOfCollections: ["release/zara-larsson-only-you-remixes", "release/zara-larsson-so-good"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const zaraLarssonOnlyYouRemixesOnlyYou = {
       position: 1,
       externalId: "1XkKixc9NTzC2HXHPlijRk",
       externalLink: "https://open.spotify.com/track/1XkKixc9NTzC2HXHPlijRk",
+    },
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 6,
+      externalId: "5SleX0NFeODNY7Xenal3gr",
+      externalLink: "https://open.spotify.com/track/5SleX0NFeODNY7Xenal3gr",
     },
   ],
 } as const satisfies Track

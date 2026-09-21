@@ -6,7 +6,10 @@ export const imagineDragonsNightVisionsDeluxeUnderdog = {
   slug: "imagine-dragons-night-visions-deluxe-underdog",
   ownLength: 3.4451,
   ownProgress: 3.4451,
-  partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-night-visions-deluxe",
+    "release/imagine-dragons-night-visions",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const imagineDragonsNightVisionsDeluxeUnderdog = {
   trackKey: "underdog|53XhwfbYqKCa1cC15pYq2q|206706",
   song: "song/imagine-dragons-underdog",
   carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 10,
+      externalId: "0jjphpegPbJIk0C6BSvTE5",
+      externalLink: "https://open.spotify.com/track/0jjphpegPbJIk0C6BSvTE5",
+    },
     {
       release: "release/imagine-dragons-night-visions-deluxe",
       discNumber: 1,

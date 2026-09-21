@@ -6,7 +6,7 @@ export const emeiEndOfAnEraThatGirl = {
   slug: "emei-end-of-an-era-that-girl",
   ownLength: 2.3404333333333334,
   ownProgress: 2.3404333333333334,
-  partOfCollections: ["release/emei-end-of-an-era"],
+  partOfCollections: ["release/emei-end-of-an-era", "release/emei-that-girl"],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emeiEndOfAnEraThatGirl = {
       position: 5,
       externalId: "1PYPduG8hZWr0gk32K1Hdo",
       externalLink: "https://open.spotify.com/track/1PYPduG8hZWr0gk32K1Hdo",
+    },
+    {
+      release: "release/emei-that-girl",
+      discNumber: 1,
+      position: 1,
+      externalId: "5UebR77vjap8LVd6eqITiY",
+      externalLink: "https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY",
     },
   ],
 } as const satisfies Track

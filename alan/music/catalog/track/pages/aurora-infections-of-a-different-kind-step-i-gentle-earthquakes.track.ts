@@ -6,7 +6,10 @@ export const auroraInfectionsOfADifferentKindStepIGentleEarthquakes = {
   slug: "aurora-infections-of-a-different-kind-step-i-gentle-earthquakes",
   ownLength: 3.7888,
   ownProgress: 3.7888,
-  partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
+  partOfCollections: [
+    "release/aurora-infections-of-a-different-kind-step-i",
+    "release/aurora-music-for-the-free-spirits",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraInfectionsOfADifferentKindStepIGentleEarthquakes = {
       position: 3,
       externalId: "6ca3Dk8HD3Chxo2WOPDsca",
       externalLink: "https://open.spotify.com/track/6ca3Dk8HD3Chxo2WOPDsca",
+    },
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 3,
+      externalId: "38c50wSqNxBTAA525vUOJH",
+      externalLink: "https://open.spotify.com/track/38c50wSqNxBTAA525vUOJH",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const paulCardallAGriefObservedAGriefObserved = {
   slug: "paul-cardall-a-grief-observed-a-grief-observed",
   ownLength: 3.9488166666666666,
   ownProgress: 3.9488166666666666,
-  partOfCollections: ["release/paul-cardall-a-grief-observed"],
+  partOfCollections: [
+    "release/paul-cardall-a-grief-observed",
+    "release/paul-cardall-grace-in-grief",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallAGriefObservedAGriefObserved = {
       position: 1,
       externalId: "59TA85SubQlrlPYOvtq53u",
       externalLink: "https://open.spotify.com/track/59TA85SubQlrlPYOvtq53u",
+    },
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 8,
+      externalId: "2ndHSCDVY7VZi1KADiV3sU",
+      externalLink: "https://open.spotify.com/track/2ndHSCDVY7VZi1KADiV3sU",
     },
   ],
 } as const satisfies Track

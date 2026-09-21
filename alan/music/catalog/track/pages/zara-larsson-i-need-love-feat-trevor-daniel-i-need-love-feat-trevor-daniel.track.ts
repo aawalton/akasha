@@ -6,7 +6,10 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
   slug: "zara-larsson-i-need-love-feat-trevor-daniel-i-need-love-feat-trevor-daniel",
   ownLength: 3.1068,
   ownProgress: 3.1068,
-  partOfCollections: ["release/zara-larsson-i-need-love-feat-trevor-daniel"],
+  partOfCollections: [
+    "release/zara-larsson-i-need-love-feat-trevor-daniel",
+    "release/zara-larsson-poster-girl-summer-edition",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
       position: 1,
       externalId: "1ZDcSX1KLQU5MAHWItlc8Z",
       externalLink: "https://open.spotify.com/track/1ZDcSX1KLQU5MAHWItlc8Z",
+    },
+    {
+      release: "release/zara-larsson-poster-girl-summer-edition",
+      discNumber: 1,
+      position: 20,
+      externalId: "6t0nlLzuahyBab1sYqfOGG",
+      externalLink: "https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG",
     },
   ],
 } as const satisfies Track

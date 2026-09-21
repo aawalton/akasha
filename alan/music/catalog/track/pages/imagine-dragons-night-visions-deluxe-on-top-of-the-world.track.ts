@@ -6,7 +6,10 @@ export const imagineDragonsNightVisionsDeluxeOnTopOfTheWorld = {
   slug: "imagine-dragons-night-visions-deluxe-on-top-of-the-world",
   ownLength: 3.164,
   ownProgress: 3.164,
-  partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-night-visions-deluxe",
+    "release/imagine-dragons-night-visions",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const imagineDragonsNightVisionsDeluxeOnTopOfTheWorld = {
   trackKey: "ontopoftheworld|53XhwfbYqKCa1cC15pYq2q|189840",
   song: "song/imagine-dragons-on-top-of-the-world",
   carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 5,
+      externalId: "6Qj1WXW41Mn3Fh9V2sHphM",
+      externalLink: "https://open.spotify.com/track/6Qj1WXW41Mn3Fh9V2sHphM",
+    },
     {
       release: "release/imagine-dragons-night-visions-deluxe",
       discNumber: 1,

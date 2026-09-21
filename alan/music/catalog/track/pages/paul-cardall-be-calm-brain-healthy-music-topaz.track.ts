@@ -6,7 +6,10 @@ export const paulCardallBeCalmBrainHealthyMusicTopaz = {
   slug: "paul-cardall-be-calm-brain-healthy-music-topaz",
   ownLength: 2.7041,
   ownProgress: 2.7041,
-  partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
+  partOfCollections: [
+    "release/paul-cardall-be-calm-brain-healthy-music",
+    "release/paul-cardall-passing-time",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallBeCalmBrainHealthyMusicTopaz = {
       position: 5,
       externalId: "0pyIvK3RZfhSnOlMyngLCc",
       externalLink: "https://open.spotify.com/track/0pyIvK3RZfhSnOlMyngLCc",
+    },
+    {
+      release: "release/paul-cardall-passing-time",
+      discNumber: 1,
+      position: 2,
+      externalId: "2lqMU0UTaAt3Q0P4tucF1n",
+      externalLink: "https://open.spotify.com/track/2lqMU0UTaAt3Q0P4tucF1n",
     },
   ],
 } as const satisfies Track

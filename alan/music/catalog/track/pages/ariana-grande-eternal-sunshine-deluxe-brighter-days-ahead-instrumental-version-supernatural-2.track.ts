@@ -8,6 +8,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   ownProgress: 2.7230166666666666,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+    "release/ariana-grande-supernatural",
   ],
   position: 25,
   status: "completed",
@@ -35,6 +36,13 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
       position: 25,
       externalId: "1nUsYU8wvzfKOoODE91KTa",
       externalLink: "https://open.spotify.com/track/1nUsYU8wvzfKOoODE91KTa",
+    },
+    {
+      release: "release/ariana-grande-supernatural",
+      discNumber: 1,
+      position: 5,
+      externalId: "0jCGZHjQgg1DGIomcvToD0",
+      externalLink: "https://open.spotify.com/track/0jCGZHjQgg1DGIomcvToD0",
     },
   ],
 } as const satisfies Track

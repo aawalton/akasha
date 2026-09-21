@@ -6,7 +6,11 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
   slug: "the-piano-guys-3-wedding-season-what-was-i-made-for",
   ownLength: 4.180616666666666,
   ownProgress: 4.180616666666666,
-  partOfCollections: ["release/the-piano-guys-3-wedding-season"],
+  partOfCollections: [
+    "release/the-piano-guys-3-wedding-season",
+    "release/the-piano-guys-3-what-was-i-made-for",
+    "release/the-piano-guys-relaxing-piano",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
       position: 11,
       externalId: "5AuMayc5oryIfCi0TAaSAp",
       externalLink: "https://open.spotify.com/track/5AuMayc5oryIfCi0TAaSAp",
+    },
+    {
+      release: "release/the-piano-guys-3-what-was-i-made-for",
+      discNumber: 1,
+      position: 1,
+      externalId: "5bSTsb0QAGyEfga4E65DY8",
+      externalLink: "https://open.spotify.com/track/5bSTsb0QAGyEfga4E65DY8",
+    },
+    {
+      release: "release/the-piano-guys-relaxing-piano",
+      discNumber: 1,
+      position: 2,
+      externalId: "412o7iyKyd6PtaAWvJz6eL",
+      externalLink: "https://open.spotify.com/track/412o7iyKyd6PtaAWvJz6eL",
     },
   ],
 } as const satisfies Track

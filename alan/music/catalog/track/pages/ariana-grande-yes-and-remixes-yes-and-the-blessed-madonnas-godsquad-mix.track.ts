@@ -6,7 +6,10 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
   slug: "ariana-grande-yes-and-remixes-yes-and-the-blessed-madonnas-godsquad-mix",
   ownLength: 5.033033333333333,
   ownProgress: 5.033033333333333,
-  partOfCollections: ["release/ariana-grande-yes-and-remixes"],
+  partOfCollections: [
+    "release/ariana-grande-yes-and-remixes",
+    "release/ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -36,6 +39,13 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
       position: 3,
       externalId: "1GxNDaFx9411X1g7cCf55E",
       externalLink: "https://open.spotify.com/track/1GxNDaFx9411X1g7cCf55E",
+    },
+    {
+      release: "release/ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5jvgyMX8IQwzpGeWi6P4Xo",
+      externalLink: "https://open.spotify.com/track/5jvgyMX8IQwzpGeWi6P4Xo",
     },
   ],
 } as const satisfies Track

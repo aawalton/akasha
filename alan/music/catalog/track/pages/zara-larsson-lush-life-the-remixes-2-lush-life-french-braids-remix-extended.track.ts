@@ -6,7 +6,10 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
   slug: "zara-larsson-lush-life-the-remixes-2-lush-life-french-braids-remix-extended",
   ownLength: 3.4075,
   ownProgress: 0,
-  partOfCollections: ["release/zara-larsson-lush-life-the-remixes-2"],
+  partOfCollections: [
+    "release/zara-larsson-lush-life-the-remixes-2",
+    "release/zara-larsson-lush-life-the-remixes",
+  ],
   position: 3,
   status: "not-started",
   unit: "unit/minutes",
@@ -30,6 +33,13 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
     "lushlifefrenchbraidsremixextended|1Xylc3o4UrD53lo9CvFvVg,5y8mGL7UFApHn1BotAfcj1|204450",
   song: "song/zara-larsson-lush-life",
   carriedBy: [
+    {
+      release: "release/zara-larsson-lush-life-the-remixes",
+      discNumber: 1,
+      position: 4,
+      externalId: "1iYpuKTB4FQYfknu8SLx9Z",
+      externalLink: "https://open.spotify.com/track/1iYpuKTB4FQYfknu8SLx9Z",
+    },
     {
       release: "release/zara-larsson-lush-life-the-remixes-2",
       discNumber: 1,

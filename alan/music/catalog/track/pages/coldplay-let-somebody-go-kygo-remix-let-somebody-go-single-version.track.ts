@@ -6,7 +6,11 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGoSingleVersion = {
   slug: "coldplay-let-somebody-go-kygo-remix-let-somebody-go-single-version",
   ownLength: 3.54915,
   ownProgress: 3.54915,
-  partOfCollections: ["release/coldplay-let-somebody-go-kygo-remix"],
+  partOfCollections: [
+    "release/coldplay-let-somebody-go-kygo-remix",
+    "release/coldplay-let-somebody-go",
+    "release/coldplay-let-somebody-go-piano-version",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGoSingleVersion = {
   song: "song/coldplay-let-somebody-go",
   carriedBy: [
     {
+      release: "release/coldplay-let-somebody-go",
+      discNumber: 1,
+      position: 1,
+      externalId: "1d8Pn4akKfdadbavUjAGoS",
+      externalLink: "https://open.spotify.com/track/1d8Pn4akKfdadbavUjAGoS",
+    },
+    {
       release: "release/coldplay-let-somebody-go-kygo-remix",
       discNumber: 1,
       position: 2,
       externalId: "30sT4ZOHeVcPESnIsiofQb",
       externalLink: "https://open.spotify.com/track/30sT4ZOHeVcPESnIsiofQb",
+    },
+    {
+      release: "release/coldplay-let-somebody-go-piano-version",
+      discNumber: 1,
+      position: 3,
+      externalId: "59GSz2S248YmyMYavpcxFI",
+      externalLink: "https://open.spotify.com/track/59GSz2S248YmyMYavpcxFI",
     },
   ],
 } as const satisfies Track

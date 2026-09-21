@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartDeluxeEchoOfMyShadow = {
   slug: "aurora-what-happened-to-the-heart-deluxe-echo-of-my-shadow",
   ownLength: 4.080216666666667,
   ownProgress: 4.080216666666667,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const auroraWhatHappenedToTheHeartDeluxeEchoOfMyShadow = {
   trackKey: "echoofmyshadow|1WgXqy2Dd70QQOU7Ay074N|244813",
   song: "song/aurora-echo-of-my-shadow",
   carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 1,
+      externalId: "71C3wpAeAjNfK8hwacQW5U",
+      externalLink: "https://open.spotify.com/track/71C3wpAeAjNfK8hwacQW5U",
+    },
     {
       release: "release/aurora-what-happened-to-the-heart-deluxe",
       discNumber: 1,

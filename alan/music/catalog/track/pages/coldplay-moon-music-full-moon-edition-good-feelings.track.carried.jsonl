@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/coldplay-moon-music-full-moon-edition","discNumber":1,"position":5,"externalId":"4nmIcNQjEGez4zeJfm5I1F","externalLink":"https://open.spotify.com/track/4nmIcNQjEGez4zeJfm5I1F"}]}
+{"carriedBy":[{"release":"release/coldplay-moon-music","discNumber":1,"position":5,"externalId":"65wzicJctsW9GwnTnLWxQO","externalLink":"https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO"},{"release":"release/coldplay-moon-music-full-moon-edition","discNumber":1,"position":5,"externalId":"4nmIcNQjEGez4zeJfm5I1F","externalLink":"https://open.spotify.com/track/4nmIcNQjEGez4zeJfm5I1F"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"4nmIcNQjEGez4zeJfm5I1F","externalLink":"https://open.spotify.com/track/4nmIcNQjEGez4zeJfm5I1F","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ee-cac5-73bc-b525-6098b83ea147"}
 {"ownLength":3.623}
 {"ownProgress":3.623}
-{"partOfCollections":["release/coldplay-moon-music-full-moon-edition"]}
+{"partOfCollections":["release/coldplay-moon-music-full-moon-edition","release/coldplay-moon-music"]}
 {"position":5}
 {"slug":"coldplay-moon-music-full-moon-edition-good-feelings"}
 {"song":"song/coldplay-good-feelings"}

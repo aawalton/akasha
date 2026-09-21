@@ -6,7 +6,7 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   slug: "coldplay-fix-you-2-the-world-turned-upside-down",
   ownLength: 4.5437666666666665,
   ownProgress: 4.5437666666666665,
-  partOfCollections: ["release/coldplay-fix-you-2"],
+  partOfCollections: ["release/coldplay-fix-you-2", "release/coldplay-fix-you"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   trackKey: "theworldturnedupsidedown|4gzpq5DPGxSnKTe4SA8HAU|272626",
   song: "song/coldplay-the-world-turned-upside-down",
   carriedBy: [
+    {
+      release: "release/coldplay-fix-you",
+      discNumber: 1,
+      position: 3,
+      externalId: "1AvVRqeSLzsZJozkyaB9cu",
+      externalLink: "https://open.spotify.com/track/1AvVRqeSLzsZJozkyaB9cu",
+    },
     {
       release: "release/coldplay-fix-you-2",
       discNumber: 1,

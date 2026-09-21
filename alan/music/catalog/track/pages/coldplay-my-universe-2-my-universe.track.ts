@@ -6,7 +6,7 @@ export const coldplayMyUniverse2MyUniverse = {
   slug: "coldplay-my-universe-2-my-universe",
   ownLength: 3.8,
   ownProgress: 3.8,
-  partOfCollections: ["release/coldplay-my-universe-2"],
+  partOfCollections: ["release/coldplay-my-universe-2", "release/coldplay-my-universe"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +29,13 @@ export const coldplayMyUniverse2MyUniverse = {
   trackKey: "myuniverse|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|228000",
   song: "song/coldplay-my-universe",
   carriedBy: [
+    {
+      release: "release/coldplay-my-universe",
+      discNumber: 1,
+      position: 3,
+      externalId: "7btzRuXC6Ed3rIyomBRkO2",
+      externalLink: "https://open.spotify.com/track/7btzRuXC6Ed3rIyomBRkO2",
+    },
     {
       release: "release/coldplay-my-universe-2",
       discNumber: 1,

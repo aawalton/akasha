@@ -6,7 +6,10 @@ export const coldplayProspektSMarchLoversInJapanOsakaSunMix = {
   slug: "coldplay-prospekt-s-march-lovers-in-japan-osaka-sun-mix",
   ownLength: 3.970666666666667,
   ownProgress: 3.970666666666667,
-  partOfCollections: ["release/coldplay-prospekt-s-march"],
+  partOfCollections: [
+    "release/coldplay-prospekt-s-march",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayProspektSMarchLoversInJapanOsakaSunMix = {
       position: 7,
       externalId: "5LclPF5hcVCm6hL7HQ9VaV",
       externalLink: "https://open.spotify.com/track/5LclPF5hcVCm6hL7HQ9VaV",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 7,
+      externalId: "1wV03IHNBW0ZkT5lBCScXb",
+      externalLink: "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb",
     },
   ],
 } as const satisfies Track

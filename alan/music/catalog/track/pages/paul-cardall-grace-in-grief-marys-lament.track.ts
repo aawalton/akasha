@@ -6,7 +6,7 @@ export const paulCardallGraceInGriefMarysLament = {
   slug: "paul-cardall-grace-in-grief-marys-lament",
   ownLength: 5.118233333333333,
   ownProgress: 5.118233333333333,
-  partOfCollections: ["release/paul-cardall-grace-in-grief"],
+  partOfCollections: ["release/paul-cardall-grace-in-grief", "release/paul-cardall-mary-s-lament"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallGraceInGriefMarysLament = {
       position: 1,
       externalId: "2etUNQOl7WhVmbh9ZPiUxo",
       externalLink: "https://open.spotify.com/track/2etUNQOl7WhVmbh9ZPiUxo",
+    },
+    {
+      release: "release/paul-cardall-mary-s-lament",
+      discNumber: 1,
+      position: 1,
+      externalId: "1c0qW5ZeDyKno7IgL5F5zI",
+      externalLink: "https://open.spotify.com/track/1c0qW5ZeDyKno7IgL5F5zI",
     },
   ],
 } as const satisfies Track

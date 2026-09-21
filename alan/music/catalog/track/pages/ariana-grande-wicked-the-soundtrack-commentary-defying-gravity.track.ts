@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravity = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-defying-gravity",
   ownLength: 7.662766666666666,
   ownProgress: 7.662766666666666,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 23,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravity = {
   song: "song/ariana-grande-defying-gravity",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 11,
+      externalId: "1Ysh68aFrY6T8dFoIeExja",
+      externalLink: "https://open.spotify.com/track/1Ysh68aFrY6T8dFoIeExja",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 23,
       externalId: "7Kk8nYSCAzkQlomcTaNUc9",
       externalLink: "https://open.spotify.com/track/7Kk8nYSCAzkQlomcTaNUc9",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 11,
+      externalId: "5QMrH5nszZZR3nefIj6Mar",
+      externalLink: "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar",
     },
   ],
 } as const satisfies Track

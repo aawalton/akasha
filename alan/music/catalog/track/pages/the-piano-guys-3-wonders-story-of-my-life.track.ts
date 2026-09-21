@@ -6,7 +6,7 @@ export const thePianoGuys3WondersStoryOfMyLife = {
   slug: "the-piano-guys-3-wonders-story-of-my-life",
   ownLength: 4.51355,
   ownProgress: 4.51355,
-  partOfCollections: ["release/the-piano-guys-3-wonders"],
+  partOfCollections: ["release/the-piano-guys-3-wonders", "release/the-piano-guys-serenity"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys3WondersStoryOfMyLife = {
       position: 1,
       externalId: "71I9xjigtEcEYcbZgtvG1J",
       externalLink: "https://open.spotify.com/track/71I9xjigtEcEYcbZgtvG1J",
+    },
+    {
+      release: "release/the-piano-guys-serenity",
+      discNumber: 1,
+      position: 11,
+      externalId: "2pVaG6gN3n2g1PSaECpM9a",
+      externalLink: "https://open.spotify.com/track/2pVaG6gN3n2g1PSaECpM9a",
     },
   ],
 } as const satisfies Track

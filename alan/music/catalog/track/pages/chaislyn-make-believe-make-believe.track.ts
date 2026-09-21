@@ -6,7 +6,7 @@ export const chaislynMakeBelieveMakeBelieve = {
   slug: "chaislyn-make-believe-make-believe",
   ownLength: 3.1366666666666667,
   ownProgress: 3.1366666666666667,
-  partOfCollections: ["release/chaislyn-make-believe"],
+  partOfCollections: ["release/chaislyn-make-believe", "release/chaislyn-unreliable-narrator"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const chaislynMakeBelieveMakeBelieve = {
       position: 1,
       externalId: "2HAbEAz1TTAzdUcpDxuDDj",
       externalLink: "https://open.spotify.com/track/2HAbEAz1TTAzdUcpDxuDDj",
+    },
+    {
+      release: "release/chaislyn-unreliable-narrator",
+      discNumber: 1,
+      position: 1,
+      externalId: "6lmTap581KiGYXVyPZFvkS",
+      externalLink: "https://open.spotify.com/track/6lmTap581KiGYXVyPZFvkS",
     },
   ],
 } as const satisfies Track

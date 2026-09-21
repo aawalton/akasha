@@ -6,7 +6,10 @@ export const thePianoGuys3ClassicalLoveRomanceBlessTheBrokenRoad = {
   slug: "the-piano-guys-3-classical-love-romance-bless-the-broken-road",
   ownLength: 3.924166666666667,
   ownProgress: 3.924166666666667,
-  partOfCollections: ["release/the-piano-guys-3-classical-love-romance"],
+  partOfCollections: [
+    "release/the-piano-guys-3-classical-love-romance",
+    "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys3ClassicalLoveRomanceBlessTheBrokenRoad = {
       position: 3,
       externalId: "3BCPhnokfSUWEX6vIy5AkF",
       externalLink: "https://open.spotify.com/track/3BCPhnokfSUWEX6vIy5AkF",
+    },
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 9,
+      externalId: "1r24wfIZ2yBivyVRnLMV9W",
+      externalLink: "https://open.spotify.com/track/1r24wfIZ2yBivyVRnLMV9W",
     },
   ],
 } as const satisfies Track

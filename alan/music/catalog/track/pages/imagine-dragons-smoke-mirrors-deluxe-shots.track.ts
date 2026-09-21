@@ -6,7 +6,10 @@ export const imagineDragonsSmokeMirrorsDeluxeShots = {
   slug: "imagine-dragons-smoke-mirrors-deluxe-shots",
   ownLength: 3.8722166666666666,
   ownProgress: 3.8722166666666666,
-  partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-smoke-mirrors-deluxe",
+    "release/imagine-dragons-smoke-mirrors",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const imagineDragonsSmokeMirrorsDeluxeShots = {
   trackKey: "shots|53XhwfbYqKCa1cC15pYq2q|232333",
   song: "song/imagine-dragons-shots",
   carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors",
+      discNumber: 1,
+      position: 1,
+      externalId: "64MmobYNviePoiaINMrbMn",
+      externalLink: "https://open.spotify.com/track/64MmobYNviePoiaINMrbMn",
+    },
     {
       release: "release/imagine-dragons-smoke-mirrors-deluxe",
       discNumber: 1,

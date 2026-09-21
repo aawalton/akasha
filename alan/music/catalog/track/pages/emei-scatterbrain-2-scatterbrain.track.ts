@@ -6,7 +6,11 @@ export const emeiScatterbrain2Scatterbrain = {
   slug: "emei-scatterbrain-2-scatterbrain",
   ownLength: 2.1656333333333335,
   ownProgress: 2.1656333333333335,
-  partOfCollections: ["release/emei-scatterbrain-2"],
+  partOfCollections: [
+    "release/emei-scatterbrain-2",
+    "release/emei-scatterbrain-deluxe",
+    "release/emei-scatterbrain",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const emeiScatterbrain2Scatterbrain = {
   song: "song/emei-scatterbrain",
   carriedBy: [
     {
+      release: "release/emei-scatterbrain",
+      discNumber: 1,
+      position: 1,
+      externalId: "5DKcc3WxMwE7JB1IxCrdrs",
+      externalLink: "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs",
+    },
+    {
       release: "release/emei-scatterbrain-2",
       discNumber: 1,
       position: 2,
       externalId: "0LVdV9NG0y0ROxbYLpjbKc",
       externalLink: "https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc",
+    },
+    {
+      release: "release/emei-scatterbrain-deluxe",
+      discNumber: 1,
+      position: 2,
+      externalId: "6O2bj4fwNzE3emEcjYzQu6",
+      externalLink: "https://open.spotify.com/track/6O2bj4fwNzE3emEcjYzQu6",
     },
   ],
 } as const satisfies Track

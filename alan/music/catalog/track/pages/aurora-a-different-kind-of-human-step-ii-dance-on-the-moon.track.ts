@@ -6,7 +6,10 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
   slug: "aurora-a-different-kind-of-human-step-ii-dance-on-the-moon",
   ownLength: 3.6049,
   ownProgress: 3.6049,
-  partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
+  partOfCollections: [
+    "release/aurora-a-different-kind-of-human-step-ii",
+    "release/aurora-music-for-the-free-spirits",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
       position: 3,
       externalId: "4isOzW5MBwEI7RenDclFBx",
       externalLink: "https://open.spotify.com/track/4isOzW5MBwEI7RenDclFBx",
+    },
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 2,
+      externalId: "2Z1UyqikbyfLhkwt7q8l8l",
+      externalLink: "https://open.spotify.com/track/2Z1UyqikbyfLhkwt7q8l8l",
     },
   ],
 } as const satisfies Track

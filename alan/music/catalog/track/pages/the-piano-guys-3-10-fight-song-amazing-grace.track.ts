@@ -6,7 +6,10 @@ export const thePianoGuys310FightSongAmazingGrace = {
   slug: "the-piano-guys-3-10-fight-song-amazing-grace",
   ownLength: 4.0823833333333335,
   ownProgress: 4.0823833333333335,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+  ],
   position: 15,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310FightSongAmazingGrace = {
       position: 15,
       externalId: "2lEzFalDoEoI3D9h7E5C9g",
       externalLink: "https://open.spotify.com/track/2lEzFalDoEoI3D9h7E5C9g",
+    },
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 8,
+      externalId: "4akhw7G1pADAGzt92FaLpX",
+      externalLink: "https://open.spotify.com/track/4akhw7G1pADAGzt92FaLpX",
     },
   ],
 } as const satisfies Track

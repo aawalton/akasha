@@ -6,7 +6,10 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
   slug: "paul-cardall-be-thou-my-vision-be-thou-my-vision",
   ownLength: 4.141666666666667,
   ownProgress: 4.141666666666667,
-  partOfCollections: ["release/paul-cardall-be-thou-my-vision"],
+  partOfCollections: [
+    "release/paul-cardall-be-thou-my-vision",
+    "release/paul-cardall-grace-in-grief",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
       position: 1,
       externalId: "7uTkqzfkBDocIB8J89gNxa",
       externalLink: "https://open.spotify.com/track/7uTkqzfkBDocIB8J89gNxa",
+    },
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 7,
+      externalId: "7waugxgzyhXxlwY7tOVKL4",
+      externalLink: "https://open.spotify.com/track/7waugxgzyhXxlwY7tOVKL4",
     },
   ],
 } as const satisfies Track

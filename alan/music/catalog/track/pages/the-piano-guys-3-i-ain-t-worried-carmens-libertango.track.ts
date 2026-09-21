@@ -6,7 +6,11 @@ export const thePianoGuys3IAinTWorriedCarmensLibertango = {
   slug: "the-piano-guys-3-i-ain-t-worried-carmens-libertango",
   ownLength: 2.7695833333333333,
   ownProgress: 2.7695833333333333,
-  partOfCollections: ["release/the-piano-guys-3-i-ain-t-worried"],
+  partOfCollections: [
+    "release/the-piano-guys-3-i-ain-t-worried",
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3IAinTWorriedCarmensLibertango = {
       position: 2,
       externalId: "2FglLUp4HsY9dVJQrRcNZF",
       externalLink: "https://open.spotify.com/track/2FglLUp4HsY9dVJQrRcNZF",
+    },
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 16,
+      externalId: "6SzaEWfG0fTxDWVY3WL6t5",
+      externalLink: "https://open.spotify.com/track/6SzaEWfG0fTxDWVY3WL6t5",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 15,
+      externalId: "1RU6q7tbSBR3eppziMdkG8",
+      externalLink: "https://open.spotify.com/track/1RU6q7tbSBR3eppziMdkG8",
     },
   ],
 } as const satisfies Track

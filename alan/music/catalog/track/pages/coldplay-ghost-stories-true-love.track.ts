@@ -6,7 +6,7 @@ export const coldplayGhostStoriesTrueLove = {
   slug: "coldplay-ghost-stories-true-love",
   ownLength: 4.1,
   ownProgress: 4.1,
-  partOfCollections: ["release/coldplay-ghost-stories"],
+  partOfCollections: ["release/coldplay-ghost-stories", "release/coldplay-true-love"],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayGhostStoriesTrueLove = {
       position: 4,
       externalId: "0fQuzbQNLcD1ofo7B2NcFI",
       externalLink: "https://open.spotify.com/track/0fQuzbQNLcD1ofo7B2NcFI",
+    },
+    {
+      release: "release/coldplay-true-love",
+      discNumber: 1,
+      position: 1,
+      externalId: "3HOe5HB3E9tmz9ocHwsPgP",
+      externalLink: "https://open.spotify.com/track/3HOe5HB3E9tmz9ocHwsPgP",
     },
   ],
 } as const satisfies Track

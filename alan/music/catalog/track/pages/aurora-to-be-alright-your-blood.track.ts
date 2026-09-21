@@ -6,7 +6,11 @@ export const auroraToBeAlrightYourBlood = {
   slug: "aurora-to-be-alright-your-blood",
   ownLength: 4.124883333333333,
   ownProgress: 4.124883333333333,
-  partOfCollections: ["release/aurora-to-be-alright"],
+  partOfCollections: [
+    "release/aurora-to-be-alright",
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const auroraToBeAlrightYourBlood = {
       position: 4,
       externalId: "0yumrjXIijfMWA9zowYxwi",
       externalLink: "https://open.spotify.com/track/0yumrjXIijfMWA9zowYxwi",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 3,
+      externalId: "6PbC1xivXYIWLXHDIC2Qd2",
+      externalLink: "https://open.spotify.com/track/6PbC1xivXYIWLXHDIC2Qd2",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 3,
+      externalId: "5Nj9Yrztp3YZOzIrvEWFZQ",
+      externalLink: "https://open.spotify.com/track/5Nj9Yrztp3YZOzIrvEWFZQ",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,11 @@ export const thePianoGuys310WhatMakesYouBeautiful = {
   slug: "the-piano-guys-3-10-what-makes-you-beautiful",
   ownLength: 2.873066666666667,
   ownProgress: 2.873066666666667,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-love-romance",
+    "release/the-piano-guys-3-pop-on-piano",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys310WhatMakesYouBeautiful = {
       position: 13,
       externalId: "4k7mIczkdUKZmkgocdJRG9",
       externalLink: "https://open.spotify.com/track/4k7mIczkdUKZmkgocdJRG9",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-love-romance",
+      discNumber: 1,
+      position: 6,
+      externalId: "68ORJuSODfxkdaocCdvOum",
+      externalLink: "https://open.spotify.com/track/68ORJuSODfxkdaocCdvOum",
+    },
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 11,
+      externalId: "2RoADDwjnAQjzdnkTl6F7C",
+      externalLink: "https://open.spotify.com/track/2RoADDwjnAQjzdnkTl6F7C",
     },
   ],
 } as const satisfies Track

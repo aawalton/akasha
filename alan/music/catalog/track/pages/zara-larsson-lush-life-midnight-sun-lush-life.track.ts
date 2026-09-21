@@ -6,7 +6,10 @@ export const zaraLarssonLushLifeMidnightSunLushLife = {
   slug: "zara-larsson-lush-life-midnight-sun-lush-life",
   ownLength: 3.3378,
   ownProgress: 3.3378,
-  partOfCollections: ["release/zara-larsson-lush-life-midnight-sun"],
+  partOfCollections: [
+    "release/zara-larsson-lush-life-midnight-sun",
+    "release/zara-larsson-lush-life-the-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const zaraLarssonLushLifeMidnightSunLushLife = {
       position: 1,
       externalId: "0NSSsLFk5txWb0I8bNNOKR",
       externalLink: "https://open.spotify.com/track/0NSSsLFk5txWb0I8bNNOKR",
+    },
+    {
+      release: "release/zara-larsson-lush-life-the-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "7hGjlrBjEibu1rqbXYfgY9",
+      externalLink: "https://open.spotify.com/track/7hGjlrBjEibu1rqbXYfgY9",
     },
   ],
 } as const satisfies Track

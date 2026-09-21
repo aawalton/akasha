@@ -6,7 +6,10 @@ export const sabrinaCarpenterANonsenseChristmasANonsenseChristmas = {
   slug: "sabrina-carpenter-a-nonsense-christmas-a-nonsense-christmas",
   ownLength: 2.55165,
   ownProgress: 2.55165,
-  partOfCollections: ["release/sabrina-carpenter-a-nonsense-christmas"],
+  partOfCollections: [
+    "release/sabrina-carpenter-a-nonsense-christmas",
+    "release/sabrina-carpenter-fruitcake",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const sabrinaCarpenterANonsenseChristmasANonsenseChristmas = {
       position: 1,
       externalId: "7yogx3TwxGwSxO2QITsT2q",
       externalLink: "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q",
+    },
+    {
+      release: "release/sabrina-carpenter-fruitcake",
+      discNumber: 1,
+      position: 1,
+      externalId: "73ye7F9Ub51dQ3CrnCHFhr",
+      externalLink: "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr",
     },
   ],
 } as const satisfies Track

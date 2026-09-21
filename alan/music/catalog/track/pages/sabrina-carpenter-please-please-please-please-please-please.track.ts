@@ -6,7 +6,10 @@ export const sabrinaCarpenterPleasePleasePleasePleasePleasePlease = {
   slug: "sabrina-carpenter-please-please-please-please-please-please",
   ownLength: 3.1060833333333333,
   ownProgress: 3.1060833333333333,
-  partOfCollections: ["release/sabrina-carpenter-please-please-please"],
+  partOfCollections: [
+    "release/sabrina-carpenter-please-please-please",
+    "release/sabrina-carpenter-short-n-sweet",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const sabrinaCarpenterPleasePleasePleasePleasePleasePlease = {
       position: 1,
       externalId: "5N3hjp1WNayUPZrA8kJmJP",
       externalLink: "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP",
+    },
+    {
+      release: "release/sabrina-carpenter-short-n-sweet",
+      discNumber: 1,
+      position: 2,
+      externalId: "2tHwzyyOLoWSFqYNjeVMzj",
+      externalLink: "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj",
     },
   ],
 } as const satisfies Track

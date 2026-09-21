@@ -6,7 +6,11 @@ export const coldplayVioletHillVioletHill = {
   slug: "coldplay-violet-hill-violet-hill",
   ownLength: 3.7108833333333333,
   ownProgress: 3.7108833333333333,
-  partOfCollections: ["release/coldplay-violet-hill"],
+  partOfCollections: [
+    "release/coldplay-violet-hill",
+    "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const coldplayVioletHillVioletHill = {
       position: 1,
       externalId: "5GkNsL57ICbvte2aqyRkYD",
       externalLink: "https://open.spotify.com/track/5GkNsL57ICbvte2aqyRkYD",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+      discNumber: 1,
+      position: 8,
+      externalId: "1ZqHjApl3pfzwjweTfMi0g",
+      externalLink: "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "62UfaFAh45l2jimrgvQRvB",
+      externalLink: "https://open.spotify.com/track/62UfaFAh45l2jimrgvQRvB",
     },
   ],
 } as const satisfies Track

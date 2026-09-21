@@ -6,7 +6,7 @@ export const thePianoGuys310ASkyFullOfStars = {
   slug: "the-piano-guys-3-10-a-sky-full-of-stars",
   ownLength: 4.0909,
   ownProgress: 4.0909,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys310ASkyFullOfStars = {
       position: 1,
       externalId: "0OhlRpRBIK15U6ZbE59IIj",
       externalLink: "https://open.spotify.com/track/0OhlRpRBIK15U6ZbE59IIj",
+    },
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 8,
+      externalId: "2PFaSutzMUXaJNNt5SCn0H",
+      externalLink: "https://open.spotify.com/track/2PFaSutzMUXaJNNt5SCn0H",
     },
   ],
 } as const satisfies Track

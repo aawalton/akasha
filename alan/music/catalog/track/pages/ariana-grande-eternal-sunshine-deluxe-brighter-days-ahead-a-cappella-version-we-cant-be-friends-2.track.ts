@@ -8,6 +8,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
   ownProgress: 3.537,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+    "release/ariana-grande-we-can-t-be-friends-wait-for-your-love",
   ],
   position: 29,
   status: "completed",
@@ -35,6 +36,13 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
       position: 29,
       externalId: "291MSJpaIvBjWbXYTv5p9z",
       externalLink: "https://open.spotify.com/track/291MSJpaIvBjWbXYTv5p9z",
+    },
+    {
+      release: "release/ariana-grande-we-can-t-be-friends-wait-for-your-love",
+      discNumber: 1,
+      position: 2,
+      externalId: "0ok5poABoeVlhVJkS6bvn3",
+      externalLink: "https://open.spotify.com/track/0ok5poABoeVlhVJkS6bvn3",
     },
   ],
 } as const satisfies Track

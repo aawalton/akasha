@@ -6,7 +6,10 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
   slug: "zara-larsson-midnight-sun-girls-trip-the-ambition-girls-trip",
   ownLength: 3.2587166666666665,
   ownProgress: 0,
-  partOfCollections: ["release/zara-larsson-midnight-sun-girls-trip"],
+  partOfCollections: [
+    "release/zara-larsson-midnight-sun-girls-trip",
+    "release/zara-larsson-the-ambition-girls-trip",
+  ],
   position: 8,
   status: "not-started",
   unit: "unit/minutes",
@@ -37,6 +40,13 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
       position: 8,
       externalId: "5k72K49XRktfr1tJ3chunx",
       externalLink: "https://open.spotify.com/track/5k72K49XRktfr1tJ3chunx",
+    },
+    {
+      release: "release/zara-larsson-the-ambition-girls-trip",
+      discNumber: 1,
+      position: 1,
+      externalId: "3CrR1Xs9Blmmf7YrVAJA9z",
+      externalLink: "https://open.spotify.com/track/3CrR1Xs9Blmmf7YrVAJA9z",
     },
   ],
 } as const satisfies Track

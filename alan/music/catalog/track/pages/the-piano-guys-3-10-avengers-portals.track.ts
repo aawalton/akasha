@@ -6,7 +6,11 @@ export const thePianoGuys310AvengersPortals = {
   slug: "the-piano-guys-3-10-avengers-portals",
   ownLength: 2.95,
   ownProgress: 2.95,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-avengers-portals",
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys310AvengersPortals = {
       position: 9,
       externalId: "1ilWVkgfVdfpdSccLSQ0QQ",
       externalLink: "https://open.spotify.com/track/1ilWVkgfVdfpdSccLSQ0QQ",
+    },
+    {
+      release: "release/the-piano-guys-3-avengers-portals",
+      discNumber: 1,
+      position: 1,
+      externalId: "2mJ5eyF4dXoo4t5QghoIQr",
+      externalLink: "https://open.spotify.com/track/2mJ5eyF4dXoo4t5QghoIQr",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 1,
+      externalId: "0etevsX5XoKxi34X7dYHJN",
+      externalLink: "https://open.spotify.com/track/0etevsX5XoKxi34X7dYHJN",
     },
   ],
 } as const satisfies Track

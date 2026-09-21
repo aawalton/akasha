@@ -6,7 +6,7 @@ export const emeiScatterbrain2Picky = {
   slug: "emei-scatterbrain-2-picky",
   ownLength: 2.34895,
   ownProgress: 2.34895,
-  partOfCollections: ["release/emei-scatterbrain-2"],
+  partOfCollections: ["release/emei-scatterbrain-2", "release/emei-scatterbrain-deluxe"],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emeiScatterbrain2Picky = {
       position: 5,
       externalId: "1qTHWIDjnghhPe294079cZ",
       externalLink: "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ",
+    },
+    {
+      release: "release/emei-scatterbrain-deluxe",
+      discNumber: 1,
+      position: 5,
+      externalId: "6zyUs70APSlE1TtlPpEJvy",
+      externalLink: "https://open.spotify.com/track/6zyUs70APSlE1TtlPpEJvy",
     },
   ],
 } as const satisfies Track

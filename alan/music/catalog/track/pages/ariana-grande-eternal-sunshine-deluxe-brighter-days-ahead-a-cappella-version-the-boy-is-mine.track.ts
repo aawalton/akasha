@@ -8,6 +8,13 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   ownProgress: 2.8939833333333334,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+    "release/ariana-grande-eternal-sunshine",
+    "release/ariana-grande-the-boy-is-mine-remix",
+    "release/ariana-grande-the-boy-is-mine",
   ],
   position: 8,
   status: "completed",
@@ -29,12 +36,62 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   song: "song/ariana-grande-the-boy-is-mine",
   carriedBy: [
     {
+      release: "release/ariana-grande-eternal-sunshine",
+      discNumber: 1,
+      position: 8,
+      externalId: "0Lmbke3KNVFXtoH2mMSHCw",
+      externalLink: "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw",
+    },
+    {
+      release: "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+      discNumber: 1,
+      position: 8,
+      externalId: "59mCYbP5mcOn7vIgHshRPv",
+      externalLink: "https://open.spotify.com/track/59mCYbP5mcOn7vIgHshRPv",
+    },
+    {
       release:
         "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
       discNumber: 1,
       position: 8,
       externalId: "6VF6nvDUvbOM1Oxn7Ep9E8",
       externalLink: "https://open.spotify.com/track/6VF6nvDUvbOM1Oxn7Ep9E8",
+    },
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 8,
+      externalId: "55jP8VMOi8DA8JFbM5OZFh",
+      externalLink: "https://open.spotify.com/track/55jP8VMOi8DA8JFbM5OZFh",
+    },
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "19nGr45kS0vRbuWeEnarRW",
+      externalLink: "https://open.spotify.com/track/19nGr45kS0vRbuWeEnarRW",
+    },
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 8,
+      externalId: "46ss5XTo2UVPp1rfFTBQRl",
+      externalLink: "https://open.spotify.com/track/46ss5XTo2UVPp1rfFTBQRl",
+    },
+    {
+      release: "release/ariana-grande-the-boy-is-mine",
+      discNumber: 1,
+      position: 1,
+      externalId: "38JweSPC9JTirnqgFOchCM",
+      externalLink: "https://open.spotify.com/track/38JweSPC9JTirnqgFOchCM",
+    },
+    {
+      release: "release/ariana-grande-the-boy-is-mine-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "4wZWAStC9iUk5VvtiYgwzV",
+      externalLink: "https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV",
     },
   ],
 } as const satisfies Track

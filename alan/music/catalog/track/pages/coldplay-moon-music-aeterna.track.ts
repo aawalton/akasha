@@ -6,7 +6,10 @@ export const coldplayMoonMusicAeterna = {
   slug: "coldplay-moon-music-aeterna",
   ownLength: 4.217133333333333,
   ownProgress: 4.217133333333333,
-  partOfCollections: ["release/coldplay-moon-music"],
+  partOfCollections: [
+    "release/coldplay-moon-music",
+    "release/coldplay-moon-music-full-moon-edition",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayMoonMusicAeterna = {
       position: 8,
       externalId: "4EGl6H86WFalKVWSXbheb2",
       externalLink: "https://open.spotify.com/track/4EGl6H86WFalKVWSXbheb2",
+    },
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "3Q3dNGUbRNp0Cn9ayZQJl0",
+      externalLink: "https://open.spotify.com/track/3Q3dNGUbRNp0Cn9ayZQJl0",
     },
   ],
 } as const satisfies Track

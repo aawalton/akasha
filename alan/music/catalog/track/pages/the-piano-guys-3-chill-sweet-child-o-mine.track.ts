@@ -6,7 +6,11 @@ export const thePianoGuys3ChillSweetChildOMine = {
   slug: "the-piano-guys-3-chill-sweet-child-o-mine",
   ownLength: 4.329166666666667,
   ownProgress: 4.329166666666667,
-  partOfCollections: ["release/the-piano-guys-3-chill"],
+  partOfCollections: [
+    "release/the-piano-guys-3-chill",
+    "release/the-piano-guys-3-sweet-child-o-mine",
+    "release/the-piano-guys-3-wedding-season",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3ChillSweetChildOMine = {
       position: 5,
       externalId: "0nmLUsH7krNeaz7KC8Qxih",
       externalLink: "https://open.spotify.com/track/0nmLUsH7krNeaz7KC8Qxih",
+    },
+    {
+      release: "release/the-piano-guys-3-sweet-child-o-mine",
+      discNumber: 1,
+      position: 1,
+      externalId: "3flxSlglVHYQavVlqqL6JO",
+      externalLink: "https://open.spotify.com/track/3flxSlglVHYQavVlqqL6JO",
+    },
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 19,
+      externalId: "4UgC41unZZbIlLTCGtChqX",
+      externalLink: "https://open.spotify.com/track/4UgC41unZZbIlLTCGtChqX",
     },
   ],
 } as const satisfies Track

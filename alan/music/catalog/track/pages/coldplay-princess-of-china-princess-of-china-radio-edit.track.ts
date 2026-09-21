@@ -6,7 +6,10 @@ export const coldplayPrincessOfChinaPrincessOfChinaRadioEdit = {
   slug: "coldplay-princess-of-china-princess-of-china-radio-edit",
   ownLength: 3.62625,
   ownProgress: 3.62625,
-  partOfCollections: ["release/coldplay-princess-of-china"],
+  partOfCollections: [
+    "release/coldplay-princess-of-china",
+    "release/coldplay-princess-of-china-radio-edit",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const coldplayPrincessOfChinaPrincessOfChinaRadioEdit = {
       position: 1,
       externalId: "6XJ2PVp2Vs9G2j5B2Cbbnb",
       externalLink: "https://open.spotify.com/track/6XJ2PVp2Vs9G2j5B2Cbbnb",
+    },
+    {
+      release: "release/coldplay-princess-of-china-radio-edit",
+      discNumber: 1,
+      position: 1,
+      externalId: "19TPvVmCUHn71omJ16N9hK",
+      externalLink: "https://open.spotify.com/track/19TPvVmCUHn71omJ16N9hK",
     },
   ],
 } as const satisfies Track

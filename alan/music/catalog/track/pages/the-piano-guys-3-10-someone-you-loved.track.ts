@@ -6,7 +6,7 @@ export const thePianoGuys310SomeoneYouLoved = {
   slug: "the-piano-guys-3-10-someone-you-loved",
   ownLength: 3.3857,
   ownProgress: 3.3857,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys310SomeoneYouLoved = {
       position: 7,
       externalId: "2sindV5MPoBIkAW02OFtHF",
       externalLink: "https://open.spotify.com/track/2sindV5MPoBIkAW02OFtHF",
+    },
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 5,
+      externalId: "4ujEHSTeMg1UjA1N4NETbJ",
+      externalLink: "https://open.spotify.com/track/4ujEHSTeMg1UjA1N4NETbJ",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const paulCardallElizaSThemeElizasTheme = {
   slug: "paul-cardall-eliza-s-theme-elizas-theme",
   ownLength: 3.646933333333333,
   ownProgress: 3.646933333333333,
-  partOfCollections: ["release/paul-cardall-eliza-s-theme"],
+  partOfCollections: ["release/paul-cardall-eliza-s-theme", "release/paul-cardall-return-home"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallElizaSThemeElizasTheme = {
       position: 1,
       externalId: "1GGltWuBsYTOHiTrRHjc8b",
       externalLink: "https://open.spotify.com/track/1GGltWuBsYTOHiTrRHjc8b",
+    },
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 7,
+      externalId: "5dphfMsZtzOBHkDnAIOSZK",
+      externalLink: "https://open.spotify.com/track/5dphfMsZtzOBHkDnAIOSZK",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const thePianoGuys3WhenYouReGoneTheStoryteller = {
   slug: "the-piano-guys-3-when-you-re-gone-the-storyteller",
   ownLength: 4.678566666666667,
   ownProgress: 4.678566666666667,
-  partOfCollections: ["release/the-piano-guys-3-when-you-re-gone"],
+  partOfCollections: [
+    "release/the-piano-guys-3-when-you-re-gone",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys3WhenYouReGoneTheStoryteller = {
       position: 2,
       externalId: "74carSriOwIN8PTWoE9bJ1",
       externalLink: "https://open.spotify.com/track/74carSriOwIN8PTWoE9bJ1",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 3,
+      externalId: "2JzswEgUwjTwkZ1ZqmDuti",
+      externalLink: "https://open.spotify.com/track/2JzswEgUwjTwkZ1ZqmDuti",
     },
   ],
 } as const satisfies Track

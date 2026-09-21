@@ -6,7 +6,10 @@ export const sabrinaCarpenterManSBestFriendHouseTour = {
   slug: "sabrina-carpenter-man-s-best-friend-house-tour",
   ownLength: 2.8202333333333334,
   ownProgress: 2.8202333333333334,
-  partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
+  partOfCollections: [
+    "release/sabrina-carpenter-man-s-best-friend",
+    "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const sabrinaCarpenterManSBestFriendHouseTour = {
       position: 11,
       externalId: "25jgQBxuUkGDdCG1WGKKN9",
       externalLink: "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9",
+    },
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 11,
+      externalId: "01oKQDSb3WHN5NeMNCo4uM",
+      externalLink: "https://open.spotify.com/track/01oKQDSb3WHN5NeMNCo4uM",
     },
   ],
 } as const satisfies Track

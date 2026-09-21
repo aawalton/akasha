@@ -6,7 +6,7 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   slug: "sylvia-daley-rubik-s-cube-rubiks-cube",
   ownLength: 2.5339833333333335,
   ownProgress: 2.5339833333333335,
-  partOfCollections: ["release/sylvia-daley-rubik-s-cube"],
+  partOfCollections: ["release/sylvia-daley-rubik-s-cube", "release/sylvia-daley-secure"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
       position: 1,
       externalId: "1MMxAQ4nxkNdCzai0UdlPq",
       externalLink: "https://open.spotify.com/track/1MMxAQ4nxkNdCzai0UdlPq",
+    },
+    {
+      release: "release/sylvia-daley-secure",
+      discNumber: 1,
+      position: 2,
+      externalId: "1EWrZHshF5WBgyLgO52VXo",
+      externalLink: "https://open.spotify.com/track/1EWrZHshF5WBgyLgO52VXo",
     },
   ],
 } as const satisfies Track

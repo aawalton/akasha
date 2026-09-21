@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/ariana-grande-positions-deluxe","discNumber":1,"position":11,"externalId":"4iIrJ94pkIEnGZWv1MhIRC","externalLink":"https://open.spotify.com/track/4iIrJ94pkIEnGZWv1MhIRC"}]}
+{"carriedBy":[{"release":"release/ariana-grande-positions","discNumber":1,"position":11,"externalId":"6NYtLvyThMT0oALFdJFdzq","externalLink":"https://open.spotify.com/track/6NYtLvyThMT0oALFdJFdzq"},{"release":"release/ariana-grande-positions-deluxe","discNumber":1,"position":11,"externalId":"4iIrJ94pkIEnGZWv1MhIRC","externalLink":"https://open.spotify.com/track/4iIrJ94pkIEnGZWv1MhIRC"}]}
 {"discNumber":1}
 {"explicit":true}
 {"externalIdentity":[{"source":"spotify","externalId":"4iIrJ94pkIEnGZWv1MhIRC","externalLink":"https://open.spotify.com/track/4iIrJ94pkIEnGZWv1MhIRC","lastSyncedAt":"2026-09-15"}]}
 {"id":"01a0a6c5-2005-7315-9be8-536804a1ca48"}
 {"ownLength":2.9976666666666665}
 {"ownProgress":2.9976666666666665}
-{"partOfCollections":["release/ariana-grande-positions-deluxe"]}
+{"partOfCollections":["release/ariana-grande-positions-deluxe","release/ariana-grande-positions"]}
 {"position":11}
 {"slug":"ariana-grande-positions-deluxe-love-language"}
 {"song":"song/ariana-grande-love-language"}

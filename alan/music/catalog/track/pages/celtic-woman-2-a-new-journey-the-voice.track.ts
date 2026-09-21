@@ -6,7 +6,10 @@ export const celticWoman2ANewJourneyTheVoice = {
   slug: "celtic-woman-2-a-new-journey-the-voice",
   ownLength: 3.08955,
   ownProgress: 3.08955,
-  partOfCollections: ["release/celtic-woman-2-a-new-journey"],
+  partOfCollections: [
+    "release/celtic-woman-2-a-new-journey",
+    "release/celtic-woman-2-the-greatest-journey-essential-collection",
+  ],
   position: 14,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2ANewJourneyTheVoice = {
       position: 14,
       externalId: "2E3y6X63fbZCYJGELwRAWQ",
       externalLink: "https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ",
+    },
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 6,
+      externalId: "7h6Ecll0SxsNZgojrhCP2D",
+      externalLink: "https://open.spotify.com/track/7h6Ecll0SxsNZgojrhCP2D",
     },
   ],
 } as const satisfies Track

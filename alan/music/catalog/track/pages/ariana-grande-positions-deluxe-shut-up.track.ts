@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxeShutUp = {
   slug: "ariana-grande-positions-deluxe-shut-up",
   ownLength: 2.6285,
   ownProgress: 2.6285,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const arianaGrandePositionsDeluxeShutUp = {
   trackKey: "shutup|66CXWjxzNUsdJxJ2JdwvnR|157710",
   song: "song/ariana-grande-shut-up",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 1,
+      externalId: "3ko9jEHNt4O5fjKN65ULJp",
+      externalLink: "https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

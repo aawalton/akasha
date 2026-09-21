@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-winter-bird",
   ownLength: 4.0691,
   ownProgress: 4.0691,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+    "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
       position: 5,
       externalId: "1D6Be4MHxIxz4i10GDjdnk",
       externalLink: "https://open.spotify.com/track/1D6Be4MHxIxz4i10GDjdnk",
+    },
+    {
+      release: "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
+      discNumber: 1,
+      position: 4,
+      externalId: "65YJcdYBAMw3RsvZK3TEvl",
+      externalLink: "https://open.spotify.com/track/65YJcdYBAMw3RsvZK3TEvl",
     },
   ],
 } as const satisfies Track

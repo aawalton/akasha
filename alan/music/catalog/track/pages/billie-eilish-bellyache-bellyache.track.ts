@@ -6,7 +6,7 @@ export const billieEilishBellyacheBellyache = {
   slug: "billie-eilish-bellyache-bellyache",
   ownLength: 2.9862,
   ownProgress: 2.9862,
-  partOfCollections: ["release/billie-eilish-bellyache"],
+  partOfCollections: ["release/billie-eilish-bellyache", "release/billie-eilish-dont-smile-at-me"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const billieEilishBellyacheBellyache = {
       position: 1,
       externalId: "51NFxnQvaosfDDutk0tams",
       externalLink: "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams",
+    },
+    {
+      release: "release/billie-eilish-dont-smile-at-me",
+      discNumber: 1,
+      position: 6,
+      externalId: "1ni8ZTAY1GHXEFOGHl7fdg",
+      externalLink: "https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg",
     },
   ],
 } as const satisfies Track

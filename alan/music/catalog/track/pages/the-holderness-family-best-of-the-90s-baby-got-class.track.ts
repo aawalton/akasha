@@ -6,7 +6,10 @@ export const theHoldernessFamilyBestOfThe90sBabyGotClass = {
   slug: "the-holderness-family-best-of-the-90s-baby-got-class",
   ownLength: 2.2008,
   ownProgress: 2.2008,
-  partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
+  partOfCollections: [
+    "release/the-holderness-family-best-of-the-90s",
+    "release/the-holderness-family-the-greatest-hits-vol-one",
+  ],
   position: 15,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const theHoldernessFamilyBestOfThe90sBabyGotClass = {
       position: 15,
       externalId: "1OEr2MIxehsPIiQnjdDpcE",
       externalLink: "https://open.spotify.com/track/1OEr2MIxehsPIiQnjdDpcE",
+    },
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 6,
+      externalId: "7x5Is4tQFjbWP9qpw32P3x",
+      externalLink: "https://open.spotify.com/track/7x5Is4tQFjbWP9qpw32P3x",
     },
   ],
 } as const satisfies Track

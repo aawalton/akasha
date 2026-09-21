@@ -6,7 +6,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-march-of-the-witch-hunters",
   ownLength: 2.603483333333333,
   ownProgress: 2.603483333333333,
-  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-for-good-the-soundtrack",
+  ],
   position: 19,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +32,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   trackKey: "marchofthewitchhunters|0yF5IqIHlPDti2mfZtHe3K,3eLZo1bSslvsu0zNhtmMM4|156209",
   song: "song/ariana-grande-march-of-the-witch-hunters",
   carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 9,
+      externalId: "6kyPPsnaFuPX65bd36fdb8",
+      externalLink: "https://open.spotify.com/track/6kyPPsnaFuPX65bd36fdb8",
+    },
     {
       release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
       discNumber: 1,

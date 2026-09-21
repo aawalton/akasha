@@ -6,7 +6,10 @@ export const thePianoGuys3LullabyNessunDorma = {
   slug: "the-piano-guys-3-lullaby-nessun-dorma",
   ownLength: 2.4590833333333335,
   ownProgress: 2.4590833333333335,
-  partOfCollections: ["release/the-piano-guys-3-lullaby"],
+  partOfCollections: [
+    "release/the-piano-guys-3-lullaby",
+    "release/the-piano-guys-classical-for-studying",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys3LullabyNessunDorma = {
       position: 8,
       externalId: "4snFyjWPGLNewIjxFPVwfT",
       externalLink: "https://open.spotify.com/track/4snFyjWPGLNewIjxFPVwfT",
+    },
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 2,
+      externalId: "6KVkNZ0lbDYYqJFTUokrdI",
+      externalLink: "https://open.spotify.com/track/6KVkNZ0lbDYYqJFTUokrdI",
     },
   ],
 } as const satisfies Track

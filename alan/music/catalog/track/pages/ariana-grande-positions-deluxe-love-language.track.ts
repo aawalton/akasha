@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxeLoveLanguage = {
   slug: "ariana-grande-positions-deluxe-love-language",
   ownLength: 2.9976666666666665,
   ownProgress: 2.9976666666666665,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const arianaGrandePositionsDeluxeLoveLanguage = {
   trackKey: "lovelanguage|66CXWjxzNUsdJxJ2JdwvnR|179860",
   song: "song/ariana-grande-love-language",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 11,
+      externalId: "6NYtLvyThMT0oALFdJFdzq",
+      externalLink: "https://open.spotify.com/track/6NYtLvyThMT0oALFdJFdzq",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

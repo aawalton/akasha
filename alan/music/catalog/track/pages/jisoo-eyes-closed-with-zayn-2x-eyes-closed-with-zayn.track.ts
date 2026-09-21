@@ -6,7 +6,11 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn = {
   slug: "jisoo-eyes-closed-with-zayn-2x-eyes-closed-with-zayn",
   ownLength: 3.0229166666666667,
   ownProgress: 3.0229166666666667,
-  partOfCollections: ["release/jisoo-eyes-closed-with-zayn-2x"],
+  partOfCollections: [
+    "release/jisoo-eyes-closed-with-zayn-2x",
+    "release/jisoo-eyes-closed-with-zayn-bare-unveiled",
+    "release/jisoo-eyes-closed-with-zayn",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn = {
   song: "song/jisoo-eyes-closed",
   carriedBy: [
     {
+      release: "release/jisoo-eyes-closed-with-zayn",
+      discNumber: 1,
+      position: 1,
+      externalId: "4WFfPxJv1KRekG6mxn837K",
+      externalLink: "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K",
+    },
+    {
       release: "release/jisoo-eyes-closed-with-zayn-2x",
       discNumber: 1,
       position: 3,
       externalId: "68tdKI4geeTwFw6a7vw6ww",
       externalLink: "https://open.spotify.com/track/68tdKI4geeTwFw6a7vw6ww",
+    },
+    {
+      release: "release/jisoo-eyes-closed-with-zayn-bare-unveiled",
+      discNumber: 1,
+      position: 3,
+      externalId: "0CC8DrwncRXH6MqAL5A90O",
+      externalLink: "https://open.spotify.com/track/0CC8DrwncRXH6MqAL5A90O",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-tornado-warnings",
   ownLength: 3.4029833333333332,
   ownProgress: 3.4029833333333332,
-  partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
+  partOfCollections: [
+    "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+    "release/sabrina-carpenter-emails-i-can-t-send",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
   trackKey: "tornadowarnings|74KM79TiuVKeVCqs8QtB0B|204179",
   song: "song/sabrina-carpenter-tornado-warnings",
   carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 4,
+      externalId: "5kcuHw8WtxauIWI5crMcLM",
+      externalLink: "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM",
+    },
     {
       release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
       discNumber: 1,

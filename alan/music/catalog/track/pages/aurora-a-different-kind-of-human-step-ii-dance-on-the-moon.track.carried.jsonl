@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/aurora-a-different-kind-of-human-step-ii","discNumber":1,"position":3,"externalId":"4isOzW5MBwEI7RenDclFBx","externalLink":"https://open.spotify.com/track/4isOzW5MBwEI7RenDclFBx"}]}
+{"carriedBy":[{"release":"release/aurora-a-different-kind-of-human-step-ii","discNumber":1,"position":3,"externalId":"4isOzW5MBwEI7RenDclFBx","externalLink":"https://open.spotify.com/track/4isOzW5MBwEI7RenDclFBx"},{"release":"release/aurora-music-for-the-free-spirits","discNumber":1,"position":2,"externalId":"2Z1UyqikbyfLhkwt7q8l8l","externalLink":"https://open.spotify.com/track/2Z1UyqikbyfLhkwt7q8l8l"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"4isOzW5MBwEI7RenDclFBx","externalLink":"https://open.spotify.com/track/4isOzW5MBwEI7RenDclFBx","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b637-f8eb-7868-9a11-856e6f4f5c92"}
 {"ownLength":3.6049}
 {"ownProgress":3.6049}
-{"partOfCollections":["release/aurora-a-different-kind-of-human-step-ii"]}
+{"partOfCollections":["release/aurora-a-different-kind-of-human-step-ii","release/aurora-music-for-the-free-spirits"]}
 {"position":3}
 {"slug":"aurora-a-different-kind-of-human-step-ii-dance-on-the-moon"}
 {"song":"song/aurora-dance-on-the-moon"}

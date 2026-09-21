@@ -6,7 +6,7 @@ export const arianaGrandePositions3435 = {
   slug: "ariana-grande-positions-34-35",
   ownLength: 2.895166666666667,
   ownProgress: 2.895166666666667,
-  partOfCollections: ["release/ariana-grande-positions"],
+  partOfCollections: ["release/ariana-grande-positions", "release/ariana-grande-positions-deluxe"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const arianaGrandePositions3435 = {
       position: 2,
       externalId: "6Im9k8u9iIzKMrmV7BWtlF",
       externalLink: "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF",
+    },
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 2,
+      externalId: "1hG4V53eR16jg7jVTNLOiX",
+      externalLink: "https://open.spotify.com/track/1hG4V53eR16jg7jVTNLOiX",
     },
   ],
 } as const satisfies Track

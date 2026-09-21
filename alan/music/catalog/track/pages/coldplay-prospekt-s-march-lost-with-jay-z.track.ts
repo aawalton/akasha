@@ -6,7 +6,10 @@ export const coldplayProspektSMarchLostWithJayZ = {
   slug: "coldplay-prospekt-s-march-lost-with-jay-z",
   ownLength: 4.2818,
   ownProgress: 4.2818,
-  partOfCollections: ["release/coldplay-prospekt-s-march"],
+  partOfCollections: [
+    "release/coldplay-prospekt-s-march",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayProspektSMarchLostWithJayZ = {
       position: 6,
       externalId: "1GAsLXwdWOU0fOHY9rJVc8",
       externalLink: "https://open.spotify.com/track/1GAsLXwdWOU0fOHY9rJVc8",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 6,
+      externalId: "1y0ZoHeeEd0XTT8X7SnSq3",
+      externalLink: "https://open.spotify.com/track/1y0ZoHeeEd0XTT8X7SnSq3",
     },
   ],
 } as const satisfies Track

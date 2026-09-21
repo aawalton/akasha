@@ -6,7 +6,10 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
   slug: "paul-cardall-an-evening-in-paris-an-evening-in-paris",
   ownLength: 5.135633333333334,
   ownProgress: 5.135633333333334,
-  partOfCollections: ["release/paul-cardall-an-evening-in-paris"],
+  partOfCollections: [
+    "release/paul-cardall-an-evening-in-paris",
+    "release/paul-cardall-return-home",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
       position: 1,
       externalId: "7l5nLeotZ90aJRlje3zKqp",
       externalLink: "https://open.spotify.com/track/7l5nLeotZ90aJRlje3zKqp",
+    },
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 4,
+      externalId: "6Usay1Fv5Ni9D2c3kBR0Ml",
+      externalLink: "https://open.spotify.com/track/6Usay1Fv5Ni9D2c3kBR0Ml",
     },
   ],
 } as const satisfies Track

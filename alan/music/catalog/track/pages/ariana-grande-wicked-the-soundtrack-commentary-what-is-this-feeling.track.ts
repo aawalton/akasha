@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeeling = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-what-is-this-feeling",
   ownLength: 3.8157833333333335,
   ownProgress: 3.8157833333333335,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeeling = {
   song: "song/ariana-grande-what-is-this-feeling",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 4,
+      externalId: "6nC9vcKeasXw3JhNuGKL6v",
+      externalLink: "https://open.spotify.com/track/6nC9vcKeasXw3JhNuGKL6v",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 9,
       externalId: "3g9GiShiKAE3ouITcW7slh",
       externalLink: "https://open.spotify.com/track/3g9GiShiKAE3ouITcW7slh",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 4,
+      externalId: "7eGuPhpdS8sBjPJNuAShUX",
+      externalLink: "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX",
     },
   ],
 } as const satisfies Track

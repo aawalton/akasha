@@ -6,7 +6,7 @@ export const zaraLarssonHonorTheLightMemoryLane = {
   slug: "zara-larsson-honor-the-light-memory-lane",
   ownLength: 3.2022166666666667,
   ownProgress: 3.2022166666666667,
-  partOfCollections: ["release/zara-larsson-honor-the-light"],
+  partOfCollections: ["release/zara-larsson-honor-the-light", "release/zara-larsson-memory-lane"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const zaraLarssonHonorTheLightMemoryLane = {
       position: 1,
       externalId: "0oQWZIDgY33kE8kEp6fEne",
       externalLink: "https://open.spotify.com/track/0oQWZIDgY33kE8kEp6fEne",
+    },
+    {
+      release: "release/zara-larsson-memory-lane",
+      discNumber: 1,
+      position: 1,
+      externalId: "624PTd4WB9XanWV1egM2lS",
+      externalLink: "https://open.spotify.com/track/624PTd4WB9XanWV1egM2lS",
     },
   ],
 } as const satisfies Track

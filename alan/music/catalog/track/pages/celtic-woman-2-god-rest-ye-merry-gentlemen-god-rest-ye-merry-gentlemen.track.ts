@@ -6,7 +6,10 @@ export const celticWoman2GodRestYeMerryGentlemenGodRestYeMerryGentlemen = {
   slug: "celtic-woman-2-god-rest-ye-merry-gentlemen-god-rest-ye-merry-gentlemen",
   ownLength: 2.4905333333333335,
   ownProgress: 2.4905333333333335,
-  partOfCollections: ["release/celtic-woman-2-god-rest-ye-merry-gentlemen"],
+  partOfCollections: [
+    "release/celtic-woman-2-god-rest-ye-merry-gentlemen",
+    "release/celtic-woman-2-nollaig-a-christmas-journey",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2GodRestYeMerryGentlemenGodRestYeMerryGentlemen = {
       position: 1,
       externalId: "6Stw8C62q16ITZRctjljRl",
       externalLink: "https://open.spotify.com/track/6Stw8C62q16ITZRctjljRl",
+    },
+    {
+      release: "release/celtic-woman-2-nollaig-a-christmas-journey",
+      discNumber: 1,
+      position: 1,
+      externalId: "5KdU3bzc0zz9AvoHM8Xdwg",
+      externalLink: "https://open.spotify.com/track/5KdU3bzc0zz9AvoHM8Xdwg",
     },
   ],
 } as const satisfies Track

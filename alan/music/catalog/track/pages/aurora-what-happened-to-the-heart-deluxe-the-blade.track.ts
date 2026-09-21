@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartDeluxeTheBlade = {
   slug: "aurora-what-happened-to-the-heart-deluxe-the-blade",
   ownLength: 4.55355,
   ownProgress: 4.55355,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 14,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const auroraWhatHappenedToTheHeartDeluxeTheBlade = {
   trackKey: "theblade|1WgXqy2Dd70QQOU7Ay074N|273213",
   song: "song/aurora-the-blade",
   carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 14,
+      externalId: "5fe1NA1aVk79oV6R5mSxHI",
+      externalLink: "https://open.spotify.com/track/5fe1NA1aVk79oV6R5mSxHI",
+    },
     {
       release: "release/aurora-what-happened-to-the-heart-deluxe",
       discNumber: 1,

@@ -6,7 +6,10 @@ export const imagineDragonsNightVisionsDeluxeHearMe = {
   slug: "imagine-dragons-night-visions-deluxe-hear-me",
   ownLength: 3.8706666666666667,
   ownProgress: 3.8706666666666667,
-  partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-night-visions-deluxe",
+    "release/imagine-dragons-night-visions",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const imagineDragonsNightVisionsDeluxeHearMe = {
   trackKey: "hearme|53XhwfbYqKCa1cC15pYq2q|232240",
   song: "song/imagine-dragons-hear-me",
   carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 7,
+      externalId: "3Agiwcd2KjBOG2MkckhC3i",
+      externalLink: "https://open.spotify.com/track/3Agiwcd2KjBOG2MkckhC3i",
+    },
     {
       release: "release/imagine-dragons-night-visions-deluxe",
       discNumber: 1,

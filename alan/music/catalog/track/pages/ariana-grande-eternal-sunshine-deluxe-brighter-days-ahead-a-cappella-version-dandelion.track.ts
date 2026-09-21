@@ -8,6 +8,8 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
   ownProgress: 3.4135833333333334,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
   ],
   position: 17,
   status: "completed",
@@ -29,12 +31,27 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
   song: "song/ariana-grande-dandelion",
   carriedBy: [
     {
+      release: "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+      discNumber: 1,
+      position: 17,
+      externalId: "6wZOZ0votPhc8qdg4UFPtH",
+      externalLink: "https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH",
+    },
+    {
       release:
         "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
       discNumber: 1,
       position: 17,
       externalId: "3fxDcaiomBMomHdMeCSsZ2",
       externalLink: "https://open.spotify.com/track/3fxDcaiomBMomHdMeCSsZ2",
+    },
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 17,
+      externalId: "5Be4ZEXxEpupMrnQHYdokm",
+      externalLink: "https://open.spotify.com/track/5Be4ZEXxEpupMrnQHYdokm",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const imagineDragonsItSTimeRemixesItsTimeKatKrazyRemix = {
   slug: "imagine-dragons-it-s-time-remixes-its-time-kat-krazy-remix",
   ownLength: 3.4668833333333335,
   ownProgress: 3.4668833333333335,
-  partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
+  partOfCollections: [
+    "release/imagine-dragons-it-s-time-remixes",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const imagineDragonsItSTimeRemixesItsTimeKatKrazyRemix = {
       position: 2,
       externalId: "1oaDzi2XMyQwcJm2aUyc7s",
       externalLink: "https://open.spotify.com/track/1oaDzi2XMyQwcJm2aUyc7s",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 12,
+      externalId: "39C0J5Gcd5jWiVA67hCKxV",
+      externalLink: "https://open.spotify.com/track/39C0J5Gcd5jWiVA67hCKxV",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const vinnyMarchiBushwickBelleDowntown = {
   slug: "vinny-marchi-bushwick-belle-downtown",
   ownLength: 3.4022833333333335,
   ownProgress: 0,
-  partOfCollections: ["release/vinny-marchi-bushwick-belle"],
+  partOfCollections: ["release/vinny-marchi-bushwick-belle", "release/vinny-marchi-downtown"],
   position: 2,
   status: "not-started",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const vinnyMarchiBushwickBelleDowntown = {
       position: 2,
       externalId: "4LQKy6ifOt6doOH157akvv",
       externalLink: "https://open.spotify.com/track/4LQKy6ifOt6doOH157akvv",
+    },
+    {
+      release: "release/vinny-marchi-downtown",
+      discNumber: 1,
+      position: 1,
+      externalId: "1awHjw2GZ9nkdDvHsbhB4g",
+      externalLink: "https://open.spotify.com/track/1awHjw2GZ9nkdDvHsbhB4g",
     },
   ],
 } as const satisfies Track

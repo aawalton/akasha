@@ -6,7 +6,10 @@ export const vinnyMarchiCaptainPlatonicCaptainPlatonic = {
   slug: "vinny-marchi-captain-platonic-captain-platonic",
   ownLength: 2.0246,
   ownProgress: 2.0246,
-  partOfCollections: ["release/vinny-marchi-captain-platonic"],
+  partOfCollections: [
+    "release/vinny-marchi-captain-platonic",
+    "release/vinny-marchi-tales-of-the-lesbian-hunter",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const vinnyMarchiCaptainPlatonicCaptainPlatonic = {
       position: 1,
       externalId: "0KyvdjIwT3cqIz2VumSp5J",
       externalLink: "https://open.spotify.com/track/0KyvdjIwT3cqIz2VumSp5J",
+    },
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 3,
+      externalId: "1dasDI7zosTvvGBibN4itg",
+      externalLink: "https://open.spotify.com/track/1dasDI7zosTvvGBibN4itg",
     },
   ],
 } as const satisfies Track

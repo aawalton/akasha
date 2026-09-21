@@ -6,7 +6,11 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
   slug: "coldplay-we-pray-elyanna-version-we-pray-single-version",
   ownLength: 3.8901,
   ownProgress: 3.8901,
-  partOfCollections: ["release/coldplay-we-pray-elyanna-version"],
+  partOfCollections: [
+    "release/coldplay-we-pray-elyanna-version",
+    "release/coldplay-we-pray-tini-version",
+    "release/coldplay-we-pray",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -34,11 +38,25 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
   song: "song/coldplay-we-pray",
   carriedBy: [
     {
+      release: "release/coldplay-we-pray",
+      discNumber: 1,
+      position: 1,
+      externalId: "2sKHevALE8DKDkwEo04Pbh",
+      externalLink: "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh",
+    },
+    {
       release: "release/coldplay-we-pray-elyanna-version",
       discNumber: 1,
       position: 3,
       externalId: "62vegKSQtJU9DnfF5txpDN",
       externalLink: "https://open.spotify.com/track/62vegKSQtJU9DnfF5txpDN",
+    },
+    {
+      release: "release/coldplay-we-pray-tini-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "4ePie7AbHKyKdQtCte6SYC",
+      externalLink: "https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC",
     },
   ],
 } as const satisfies Track

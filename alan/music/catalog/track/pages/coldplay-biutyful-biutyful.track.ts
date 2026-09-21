@@ -6,7 +6,7 @@ export const coldplayBiutyfulBiutyful = {
   slug: "coldplay-biutyful-biutyful",
   ownLength: 3.206566666666667,
   ownProgress: 3.206566666666667,
-  partOfCollections: ["release/coldplay-biutyful"],
+  partOfCollections: ["release/coldplay-biutyful", "release/coldplay-music-of-the-spheres"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayBiutyfulBiutyful = {
       position: 1,
       externalId: "4TcCbhzD4caTdkkvkS45oa",
       externalLink: "https://open.spotify.com/track/4TcCbhzD4caTdkkvkS45oa",
+    },
+    {
+      release: "release/coldplay-music-of-the-spheres",
+      discNumber: 1,
+      position: 8,
+      externalId: "2L2mM3rEO3arNIMQnb3dou",
+      externalLink: "https://open.spotify.com/track/2L2mM3rEO3arNIMQnb3dou",
     },
   ],
 } as const satisfies Track

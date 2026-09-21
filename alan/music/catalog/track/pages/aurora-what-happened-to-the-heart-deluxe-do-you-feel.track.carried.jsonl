@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/aurora-what-happened-to-the-heart-deluxe","discNumber":1,"position":12,"externalId":"0mgcVLtDeAzqqznnRbpUXw","externalLink":"https://open.spotify.com/track/0mgcVLtDeAzqqznnRbpUXw"}]}
+{"carriedBy":[{"release":"release/aurora-what-happened-to-the-heart","discNumber":1,"position":12,"externalId":"6vAT53Wp20Q11vpUypcT7h","externalLink":"https://open.spotify.com/track/6vAT53Wp20Q11vpUypcT7h"},{"release":"release/aurora-what-happened-to-the-heart-deluxe","discNumber":1,"position":12,"externalId":"0mgcVLtDeAzqqznnRbpUXw","externalLink":"https://open.spotify.com/track/0mgcVLtDeAzqqznnRbpUXw"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"0mgcVLtDeAzqqznnRbpUXw","externalLink":"https://open.spotify.com/track/0mgcVLtDeAzqqznnRbpUXw","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b637-ecfd-738e-bd53-8c6d6f6a5e04"}
 {"ownLength":3.0251}
 {"ownProgress":3.0251}
-{"partOfCollections":["release/aurora-what-happened-to-the-heart-deluxe"]}
+{"partOfCollections":["release/aurora-what-happened-to-the-heart-deluxe","release/aurora-what-happened-to-the-heart"]}
 {"position":12}
 {"slug":"aurora-what-happened-to-the-heart-deluxe-do-you-feel"}
 {"song":"song/aurora-do-you-feel"}

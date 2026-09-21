@@ -6,7 +6,7 @@ export const auroraCureForMeCureForMe = {
   slug: "aurora-cure-for-me-cure-for-me",
   ownLength: 3.3606666666666665,
   ownProgress: 3.3606666666666665,
-  partOfCollections: ["release/aurora-cure-for-me"],
+  partOfCollections: ["release/aurora-cure-for-me", "release/aurora-the-gods-we-can-touch"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const auroraCureForMeCureForMe = {
       position: 1,
       externalId: "5suiloWwRiQdhFeb9YSGQT",
       externalLink: "https://open.spotify.com/track/5suiloWwRiQdhFeb9YSGQT",
+    },
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 4,
+      externalId: "33WTgxRdPBQQpVCMXpNxhO",
+      externalLink: "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO",
     },
   ],
 } as const satisfies Track

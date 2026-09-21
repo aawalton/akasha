@@ -6,7 +6,7 @@ export const thePianoGuys310AvatarTheTheme = {
   slug: "the-piano-guys-3-10-avatar-the-theme",
   ownLength: 3.0541666666666667,
   ownProgress: 3.0541666666666667,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-avatar-the-theme"],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys310AvatarTheTheme = {
       position: 10,
       externalId: "0tSW7MXYWuazhRtsSi9tPz",
       externalLink: "https://open.spotify.com/track/0tSW7MXYWuazhRtsSi9tPz",
+    },
+    {
+      release: "release/the-piano-guys-3-avatar-the-theme",
+      discNumber: 1,
+      position: 1,
+      externalId: "5lDXNxaigYgrUDxmONHdq6",
+      externalLink: "https://open.spotify.com/track/5lDXNxaigYgrUDxmONHdq6",
     },
   ],
 } as const satisfies Track

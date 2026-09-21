@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/zara-larsson-on-my-love-extended-version","discNumber":1,"position":1,"externalId":"2iZgtLFKqhpjhB5xSnHM8U","externalLink":"https://open.spotify.com/track/2iZgtLFKqhpjhB5xSnHM8U"}]}
+{"carriedBy":[{"release":"release/zara-larsson-on-my-love-extended-version","discNumber":1,"position":1,"externalId":"2iZgtLFKqhpjhB5xSnHM8U","externalLink":"https://open.spotify.com/track/2iZgtLFKqhpjhB5xSnHM8U"},{"release":"release/zara-larsson-on-my-love-the-remixes","discNumber":1,"position":4,"externalId":"4qQw9mgj14HXVptDCFQUUH","externalLink":"https://open.spotify.com/track/4qQw9mgj14HXVptDCFQUUH"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"2iZgtLFKqhpjhB5xSnHM8U","externalLink":"https://open.spotify.com/track/2iZgtLFKqhpjhB5xSnHM8U","lastSyncedAt":"2026-09-16"}]}
 {"id":"01a0aa7c-3986-7c9a-b58e-f795c998ce33"}
 {"ownLength":4.780483333333334}
 {"ownProgress":4.780483333333334}
-{"partOfCollections":["release/zara-larsson-on-my-love-extended-version"]}
+{"partOfCollections":["release/zara-larsson-on-my-love-extended-version","release/zara-larsson-on-my-love-the-remixes"]}
 {"position":1}
 {"slug":"zara-larsson-on-my-love-extended-version-on-my-love-extended-version"}
 {"song":"song/zara-larsson-on-my-love"}

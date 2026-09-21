@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/ariana-grande-love-me-harder","discNumber":1,"position":1,"externalId":"7HE1FnMtSsRotzIAQPXpr5","externalLink":"https://open.spotify.com/track/7HE1FnMtSsRotzIAQPXpr5"}]}
+{"carriedBy":[{"release":"release/ariana-grande-love-me-harder","discNumber":1,"position":1,"externalId":"7HE1FnMtSsRotzIAQPXpr5","externalLink":"https://open.spotify.com/track/7HE1FnMtSsRotzIAQPXpr5"},{"release":"release/ariana-grande-my-everything-tenth-anniversary-edition","discNumber":1,"position":9,"externalId":"2Pm40TLDw6G78thGOdsJW7","externalLink":"https://open.spotify.com/track/2Pm40TLDw6G78thGOdsJW7"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"7HE1FnMtSsRotzIAQPXpr5","externalLink":"https://open.spotify.com/track/7HE1FnMtSsRotzIAQPXpr5","lastSyncedAt":"2026-09-15"}]}
 {"id":"01a0a6c5-3c20-7ecd-a303-f145b486f8ec"}
 {"ownLength":3.9340166666666665}
 {"ownProgress":3.9340166666666665}
-{"partOfCollections":["release/ariana-grande-love-me-harder"]}
+{"partOfCollections":["release/ariana-grande-love-me-harder","release/ariana-grande-my-everything-tenth-anniversary-edition"]}
 {"position":1}
 {"slug":"ariana-grande-love-me-harder-love-me-harder"}
 {"song":"song/ariana-grande-love-me-harder"}

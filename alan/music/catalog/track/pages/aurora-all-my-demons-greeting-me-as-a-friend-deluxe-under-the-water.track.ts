@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-under-the-water",
   ownLength: 4.41,
   ownProgress: 4.41,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+    "release/aurora-for-the-metal-people",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
       position: 11,
       externalId: "1x7yqEoQel8Gu6F7thDbCQ",
       externalLink: "https://open.spotify.com/track/1x7yqEoQel8Gu6F7thDbCQ",
+    },
+    {
+      release: "release/aurora-for-the-metal-people",
+      discNumber: 1,
+      position: 1,
+      externalId: "2NNWSsNGoJI57E1l0DwiXY",
+      externalLink: "https://open.spotify.com/track/2NNWSsNGoJI57E1l0DwiXY",
     },
   ],
 } as const satisfies Track

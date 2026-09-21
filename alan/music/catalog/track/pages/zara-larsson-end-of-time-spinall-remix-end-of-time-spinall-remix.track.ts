@@ -6,7 +6,10 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
   slug: "zara-larsson-end-of-time-spinall-remix-end-of-time-spinall-remix",
   ownLength: 3.68775,
   ownProgress: 3.68775,
-  partOfCollections: ["release/zara-larsson-end-of-time-spinall-remix"],
+  partOfCollections: [
+    "release/zara-larsson-end-of-time-spinall-remix",
+    "release/zara-larsson-end-of-time-the-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
       position: 1,
       externalId: "0WXBYjKws5OWbuZ15F2vQQ",
       externalLink: "https://open.spotify.com/track/0WXBYjKws5OWbuZ15F2vQQ",
+    },
+    {
+      release: "release/zara-larsson-end-of-time-the-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "3qtkD12p554LBcyQo91UA3",
+      externalLink: "https://open.spotify.com/track/3qtkD12p554LBcyQo91UA3",
     },
   ],
 } as const satisfies Track

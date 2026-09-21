@@ -6,7 +6,10 @@ export const thePianoGuys310LetItGo = {
   slug: "the-piano-guys-3-10-let-it-go",
   ownLength: 4.0107,
   ownProgress: 4.0107,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310LetItGo = {
       position: 4,
       externalId: "7AOfVAuxZ89ProPfA4Ozo3",
       externalLink: "https://open.spotify.com/track/7AOfVAuxZ89ProPfA4Ozo3",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 2,
+      externalId: "0XajTLrpinn5abx0IsQyru",
+      externalLink: "https://open.spotify.com/track/0XajTLrpinn5abx0IsQyru",
     },
   ],
 } as const satisfies Track

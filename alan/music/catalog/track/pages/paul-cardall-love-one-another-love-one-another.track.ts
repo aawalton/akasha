@@ -6,7 +6,7 @@ export const paulCardallLoveOneAnotherLoveOneAnother = {
   slug: "paul-cardall-love-one-another-love-one-another",
   ownLength: 4.01385,
   ownProgress: 4.01385,
-  partOfCollections: ["release/paul-cardall-love-one-another"],
+  partOfCollections: ["release/paul-cardall-love-one-another", "release/paul-cardall-return-home"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallLoveOneAnotherLoveOneAnother = {
       position: 1,
       externalId: "6jSeWJeDXcej6tOXk4QB4n",
       externalLink: "https://open.spotify.com/track/6jSeWJeDXcej6tOXk4QB4n",
+    },
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 3,
+      externalId: "3n8ZTiG1QT4zNQ4qhfSOos",
+      externalLink: "https://open.spotify.com/track/3n8ZTiG1QT4zNQ4qhfSOos",
     },
   ],
 } as const satisfies Track

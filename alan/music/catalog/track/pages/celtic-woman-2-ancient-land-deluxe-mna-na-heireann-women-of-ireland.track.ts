@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeMnaNaHeireannWomenOfIreland = {
   slug: "celtic-woman-2-ancient-land-deluxe-mna-na-heireann-women-of-ireland",
   ownLength: 4.001766666666667,
   ownProgress: 4.001766666666667,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeMnaNaHeireannWomenOfIreland = {
   trackKey: "mnanaheireannwomenofireland|6NWtt9pNOL2Gx7kBykdE5x|240106",
   song: "song/celtic-woman-mna-na-heireann-women-of-ireland",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 7,
+      externalId: "6iXSuZPjHzX0BAZsELH1N2",
+      externalLink: "https://open.spotify.com/track/6iXSuZPjHzX0BAZsELH1N2",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

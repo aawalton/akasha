@@ -8,6 +8,7 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
   ownProgress: 2.889683333333333,
   partOfCollections: [
     "release/imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends",
+    "release/imagine-dragons-mercury-acts-1-2",
   ],
   position: 1,
   status: "completed",
@@ -40,6 +41,13 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
       position: 1,
       externalId: "1r9xUipOqoNwggBpENDsvJ",
       externalLink: "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ",
+    },
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "3CIyK1V4JEJkg02E4EJnDl",
+      externalLink: "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
     },
   ],
 } as const satisfies Track

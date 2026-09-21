@@ -6,7 +6,10 @@ export const auroraInfectionsOfADifferentKindStepIForgottenLove = {
   slug: "aurora-infections-of-a-different-kind-step-i-forgotten-love",
   ownLength: 3.44115,
   ownProgress: 3.44115,
-  partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
+  partOfCollections: [
+    "release/aurora-infections-of-a-different-kind-step-i",
+    "release/aurora-music-for-the-free-spirits",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraInfectionsOfADifferentKindStepIForgottenLove = {
       position: 2,
       externalId: "5xIHiW4TVNaROuRkYsgBti",
       externalLink: "https://open.spotify.com/track/5xIHiW4TVNaROuRkYsgBti",
+    },
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 4,
+      externalId: "2SMINEktkFpOB4goizKsi6",
+      externalLink: "https://open.spotify.com/track/2SMINEktkFpOB4goizKsi6",
     },
   ],
 } as const satisfies Track

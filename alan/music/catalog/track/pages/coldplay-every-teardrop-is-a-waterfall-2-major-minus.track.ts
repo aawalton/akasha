@@ -6,7 +6,10 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
   slug: "coldplay-every-teardrop-is-a-waterfall-2-major-minus",
   ownLength: 3.5047333333333333,
   ownProgress: 3.5047333333333333,
-  partOfCollections: ["release/coldplay-every-teardrop-is-a-waterfall-2"],
+  partOfCollections: [
+    "release/coldplay-every-teardrop-is-a-waterfall-2",
+    "release/coldplay-every-teardrop-is-a-waterfall",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
   trackKey: "majorminus|4gzpq5DPGxSnKTe4SA8HAU|210284",
   song: "song/coldplay-major-minus",
   carriedBy: [
+    {
+      release: "release/coldplay-every-teardrop-is-a-waterfall",
+      discNumber: 1,
+      position: 2,
+      externalId: "6hREuBpEXpgXosiUuFQfqd",
+      externalLink: "https://open.spotify.com/track/6hREuBpEXpgXosiUuFQfqd",
+    },
     {
       release: "release/coldplay-every-teardrop-is-a-waterfall-2",
       discNumber: 1,

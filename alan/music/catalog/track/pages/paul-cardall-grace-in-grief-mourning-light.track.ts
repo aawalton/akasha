@@ -6,7 +6,7 @@ export const paulCardallGraceInGriefMourningLight = {
   slug: "paul-cardall-grace-in-grief-mourning-light",
   ownLength: 3.85,
   ownProgress: 3.85,
-  partOfCollections: ["release/paul-cardall-grace-in-grief"],
+  partOfCollections: ["release/paul-cardall-grace-in-grief", "release/paul-cardall-mourning-light"],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallGraceInGriefMourningLight = {
       position: 6,
       externalId: "072NDoeUR97KLlyuMY0z0S",
       externalLink: "https://open.spotify.com/track/072NDoeUR97KLlyuMY0z0S",
+    },
+    {
+      release: "release/paul-cardall-mourning-light",
+      discNumber: 1,
+      position: 1,
+      externalId: "1gCWCSVLsvJAK79Srw7FX7",
+      externalLink: "https://open.spotify.com/track/1gCWCSVLsvJAK79Srw7FX7",
     },
   ],
 } as const satisfies Track

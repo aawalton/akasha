@@ -6,7 +6,10 @@ export const auroraCureForMeCureForMeVintageCultureExtendedRemix = {
   slug: "aurora-cure-for-me-cure-for-me-vintage-culture-extended-remix",
   ownLength: 5.482666666666667,
   ownProgress: 5.482666666666667,
-  partOfCollections: ["release/aurora-cure-for-me"],
+  partOfCollections: [
+    "release/aurora-cure-for-me",
+    "release/aurora-cure-for-me-vintage-culture-extended-remix",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -36,6 +39,13 @@ export const auroraCureForMeCureForMeVintageCultureExtendedRemix = {
       position: 4,
       externalId: "2uouDDgLfWNeHCHTYvGV3d",
       externalLink: "https://open.spotify.com/track/2uouDDgLfWNeHCHTYvGV3d",
+    },
+    {
+      release: "release/aurora-cure-for-me-vintage-culture-extended-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0DPj9QmYYPjq1B9qPmSVDc",
+      externalLink: "https://open.spotify.com/track/0DPj9QmYYPjq1B9qPmSVDc",
     },
   ],
 } as const satisfies Track

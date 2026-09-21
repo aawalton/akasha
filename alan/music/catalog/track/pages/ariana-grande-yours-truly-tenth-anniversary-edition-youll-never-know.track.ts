@@ -6,7 +6,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-youll-never-know",
   ownLength: 3.5713333333333335,
   ownProgress: 3.5713333333333335,
-  partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
+  partOfCollections: [
+    "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+    "release/ariana-grande-yours-truly",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
   trackKey: "youllneverknow|66CXWjxzNUsdJxJ2JdwvnR|214280",
   song: "song/ariana-grande-you-ll-never-know",
   carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 9,
+      externalId: "4PqIj0WOfPAq4QAvisjgpd",
+      externalLink: "https://open.spotify.com/track/4PqIj0WOfPAq4QAvisjgpd",
+    },
     {
       release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
       discNumber: 1,

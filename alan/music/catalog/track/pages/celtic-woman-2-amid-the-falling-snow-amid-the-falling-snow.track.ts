@@ -6,7 +6,10 @@ export const celticWoman2AmidTheFallingSnowAmidTheFallingSnow = {
   slug: "celtic-woman-2-amid-the-falling-snow-amid-the-falling-snow",
   ownLength: 3.7171,
   ownProgress: 3.7171,
-  partOfCollections: ["release/celtic-woman-2-amid-the-falling-snow"],
+  partOfCollections: [
+    "release/celtic-woman-2-amid-the-falling-snow",
+    "release/celtic-woman-2-the-magic-of-christmas",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2AmidTheFallingSnowAmidTheFallingSnow = {
       position: 1,
       externalId: "2j4eYhgAip1mN3b5gk5MY6",
       externalLink: "https://open.spotify.com/track/2j4eYhgAip1mN3b5gk5MY6",
+    },
+    {
+      release: "release/celtic-woman-2-the-magic-of-christmas",
+      discNumber: 1,
+      position: 6,
+      externalId: "6w1x52guXkQ9gqD9c2T1FU",
+      externalLink: "https://open.spotify.com/track/6w1x52guXkQ9gqD9c2T1FU",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,7 @@ export const coldplayTheHardestPartTheHardestPart = {
   slug: "coldplay-the-hardest-part-the-hardest-part",
   ownLength: 4.381333333333333,
   ownProgress: 4.381333333333333,
-  partOfCollections: ["release/coldplay-the-hardest-part"],
+  partOfCollections: ["release/coldplay-the-hardest-part", "release/coldplay-x-y"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayTheHardestPartTheHardestPart = {
       position: 1,
       externalId: "6VfvwCxKaNnuVU4Mugu5k1",
       externalLink: "https://open.spotify.com/track/6VfvwCxKaNnuVU4Mugu5k1",
+    },
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 10,
+      externalId: "4Tw9JYF9HOuPRyccNWMgwf",
+      externalLink: "https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf",
     },
   ],
 } as const satisfies Track

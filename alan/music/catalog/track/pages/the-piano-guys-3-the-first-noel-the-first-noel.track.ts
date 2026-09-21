@@ -6,7 +6,10 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
   slug: "the-piano-guys-3-the-first-noel-the-first-noel",
   ownLength: 2.816666666666667,
   ownProgress: 2.816666666666667,
-  partOfCollections: ["release/the-piano-guys-3-the-first-noel"],
+  partOfCollections: [
+    "release/the-piano-guys-3-the-first-noel",
+    "release/the-piano-guys-classical-for-studying",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
       position: 1,
       externalId: "7EbQF0Tt5n7xgn62gJjGbi",
       externalLink: "https://open.spotify.com/track/7EbQF0Tt5n7xgn62gJjGbi",
+    },
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 7,
+      externalId: "7amrodXJN48qEqs5Lld0Dp",
+      externalLink: "https://open.spotify.com/track/7amrodXJN48qEqs5Lld0Dp",
     },
   ],
 } as const satisfies Track

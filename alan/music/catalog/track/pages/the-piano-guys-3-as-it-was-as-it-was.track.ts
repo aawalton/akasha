@@ -6,7 +6,11 @@ export const thePianoGuys3AsItWasAsItWas = {
   slug: "the-piano-guys-3-as-it-was-as-it-was",
   ownLength: 2.6954,
   ownProgress: 2.6954,
-  partOfCollections: ["release/the-piano-guys-3-as-it-was"],
+  partOfCollections: [
+    "release/the-piano-guys-3-as-it-was",
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3AsItWasAsItWas = {
       position: 1,
       externalId: "71pz5tgYsXTUSvWDcswYSb",
       externalLink: "https://open.spotify.com/track/71pz5tgYsXTUSvWDcswYSb",
+    },
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "0dZR2mNYHcX0qJNl2bVgYH",
+      externalLink: "https://open.spotify.com/track/0dZR2mNYHcX0qJNl2bVgYH",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 4,
+      externalId: "2qqJwGoeDqqXJ9qQnxpzHZ",
+      externalLink: "https://open.spotify.com/track/2qqJwGoeDqqXJ9qQnxpzHZ",
     },
   ],
 } as const satisfies Track

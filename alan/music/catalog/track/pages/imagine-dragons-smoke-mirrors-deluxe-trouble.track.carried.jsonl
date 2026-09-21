@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/imagine-dragons-smoke-mirrors-deluxe","discNumber":1,"position":10,"externalId":"6JsePoT1VWserj2YIUu0hE","externalLink":"https://open.spotify.com/track/6JsePoT1VWserj2YIUu0hE"}]}
+{"carriedBy":[{"release":"release/imagine-dragons-smoke-mirrors","discNumber":1,"position":10,"externalId":"7oeeeHdNY8S6zVsU0fuWLr","externalLink":"https://open.spotify.com/track/7oeeeHdNY8S6zVsU0fuWLr"},{"release":"release/imagine-dragons-smoke-mirrors-deluxe","discNumber":1,"position":10,"externalId":"6JsePoT1VWserj2YIUu0hE","externalLink":"https://open.spotify.com/track/6JsePoT1VWserj2YIUu0hE"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"6JsePoT1VWserj2YIUu0hE","externalLink":"https://open.spotify.com/track/6JsePoT1VWserj2YIUu0hE","lastSyncedAt":"2026-09-21"}]}
 {"id":"01a0c43f-d05d-707e-8bfd-e60d609d32c4"}
 {"ownLength":3.19}
 {"ownProgress":3.19}
-{"partOfCollections":["release/imagine-dragons-smoke-mirrors-deluxe"]}
+{"partOfCollections":["release/imagine-dragons-smoke-mirrors-deluxe","release/imagine-dragons-smoke-mirrors"]}
 {"position":10}
 {"slug":"imagine-dragons-smoke-mirrors-deluxe-trouble"}
 {"song":"song/imagine-dragons-trouble"}

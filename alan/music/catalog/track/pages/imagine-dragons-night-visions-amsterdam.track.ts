@@ -6,7 +6,11 @@ export const imagineDragonsNightVisionsAmsterdam = {
   slug: "imagine-dragons-night-visions-amsterdam",
   ownLength: 4.023766666666667,
   ownProgress: 4.023766666666667,
-  partOfCollections: ["release/imagine-dragons-night-visions"],
+  partOfCollections: [
+    "release/imagine-dragons-night-visions",
+    "release/imagine-dragons-night-visions-deluxe",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const imagineDragonsNightVisionsAmsterdam = {
       position: 6,
       externalId: "46bkeaB7DA45q7PdKWLFkR",
       externalLink: "https://open.spotify.com/track/46bkeaB7DA45q7PdKWLFkR",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-deluxe",
+      discNumber: 1,
+      position: 6,
+      externalId: "3wBIDJLDvo0h0u1mKU9Bm6",
+      externalLink: "https://open.spotify.com/track/3wBIDJLDvo0h0u1mKU9Bm6",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 1,
+      position: 6,
+      externalId: "0scgTi9DSWrrKwyXDIn49n",
+      externalLink: "https://open.spotify.com/track/0scgTi9DSWrrKwyXDIn49n",
     },
   ],
 } as const satisfies Track

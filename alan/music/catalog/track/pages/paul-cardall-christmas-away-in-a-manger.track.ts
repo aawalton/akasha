@@ -6,7 +6,7 @@ export const paulCardallChristmasAwayInAManger = {
   slug: "paul-cardall-christmas-away-in-a-manger",
   ownLength: 4.394933333333333,
   ownProgress: 4.394933333333333,
-  partOfCollections: ["release/paul-cardall-christmas"],
+  partOfCollections: ["release/paul-cardall-christmas", "release/paul-cardall-christmas-hymns"],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallChristmasAwayInAManger = {
       position: 12,
       externalId: "3Cw9vV3b8G6ftnoD23SpwN",
       externalLink: "https://open.spotify.com/track/3Cw9vV3b8G6ftnoD23SpwN",
+    },
+    {
+      release: "release/paul-cardall-christmas-hymns",
+      discNumber: 1,
+      position: 5,
+      externalId: "0t33iTv2bHVcYUeLmZ08uQ",
+      externalLink: "https://open.spotify.com/track/0t33iTv2bHVcYUeLmZ08uQ",
     },
   ],
 } as const satisfies Track

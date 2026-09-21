@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartDeluxeInvisibleWounds = {
   slug: "aurora-what-happened-to-the-heart-deluxe-invisible-wounds",
   ownLength: 4.988433333333333,
   ownProgress: 4.988433333333333,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 16,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const auroraWhatHappenedToTheHeartDeluxeInvisibleWounds = {
   trackKey: "invisiblewounds|1WgXqy2Dd70QQOU7Ay074N|299306",
   song: "song/aurora-invisible-wounds",
   carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 16,
+      externalId: "6dk6rhO9mEwR0Je8pNvYI7",
+      externalLink: "https://open.spotify.com/track/6dk6rhO9mEwR0Je8pNvYI7",
+    },
     {
       release: "release/aurora-what-happened-to-the-heart-deluxe",
       discNumber: 1,

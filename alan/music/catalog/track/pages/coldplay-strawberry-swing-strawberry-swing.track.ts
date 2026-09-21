@@ -6,7 +6,11 @@ export const coldplayStrawberrySwingStrawberrySwing = {
   slug: "coldplay-strawberry-swing-strawberry-swing",
   ownLength: 4.1611,
   ownProgress: 4.1611,
-  partOfCollections: ["release/coldplay-strawberry-swing"],
+  partOfCollections: [
+    "release/coldplay-strawberry-swing",
+    "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const coldplayStrawberrySwingStrawberrySwing = {
       position: 1,
       externalId: "06inBM2SUiyg3nGDC2KvUG",
       externalLink: "https://open.spotify.com/track/06inBM2SUiyg3nGDC2KvUG",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+      discNumber: 1,
+      position: 9,
+      externalId: "2dphvmoLEXdk8hOYxmHlI3",
+      externalLink: "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "4DLHhwZCJptTUCQPk6IAq8",
+      externalLink: "https://open.spotify.com/track/4DLHhwZCJptTUCQPk6IAq8",
     },
   ],
 } as const satisfies Track

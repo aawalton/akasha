@@ -6,7 +6,10 @@ export const celticWoman2ANewJourneyCarrickfergus = {
   slug: "celtic-woman-2-a-new-journey-carrickfergus",
   ownLength: 3.7204333333333333,
   ownProgress: 3.7204333333333333,
-  partOfCollections: ["release/celtic-woman-2-a-new-journey"],
+  partOfCollections: [
+    "release/celtic-woman-2-a-new-journey",
+    "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+  ],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2ANewJourneyCarrickfergus = {
       position: 12,
       externalId: "3OukKkKoKiQhpbuAgnNj9a",
       externalLink: "https://open.spotify.com/track/3OukKkKoKiQhpbuAgnNj9a",
+    },
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 10,
+      externalId: "4TEK0trgxTkYUD83cjULtF",
+      externalLink: "https://open.spotify.com/track/4TEK0trgxTkYUD83cjULtF",
     },
   ],
 } as const satisfies Track

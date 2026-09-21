@@ -6,7 +6,10 @@ export const thePianoGuys310BlessTheBrokenRoad = {
   slug: "the-piano-guys-3-10-bless-the-broken-road",
   ownLength: 3.924166666666667,
   ownProgress: 3.924166666666667,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-bless-the-broken-road",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const thePianoGuys310BlessTheBrokenRoad = {
       position: 11,
       externalId: "7wnYESYaoBgROglhywVA13",
       externalLink: "https://open.spotify.com/track/7wnYESYaoBgROglhywVA13",
+    },
+    {
+      release: "release/the-piano-guys-3-bless-the-broken-road",
+      discNumber: 1,
+      position: 1,
+      externalId: "2kR0npzjabSWl3eGy0cSk0",
+      externalLink: "https://open.spotify.com/track/2kR0npzjabSWl3eGy0cSk0",
     },
   ],
 } as const satisfies Track

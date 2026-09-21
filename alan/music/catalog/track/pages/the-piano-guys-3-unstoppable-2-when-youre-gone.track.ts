@@ -6,7 +6,11 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
   slug: "the-piano-guys-3-unstoppable-2-when-youre-gone",
   ownLength: 3,
   ownProgress: 3,
-  partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
+  partOfCollections: [
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-3-when-you-re-gone",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
       position: 4,
       externalId: "2NSJIwZfkJOg1eYBX414sw",
       externalLink: "https://open.spotify.com/track/2NSJIwZfkJOg1eYBX414sw",
+    },
+    {
+      release: "release/the-piano-guys-3-when-you-re-gone",
+      discNumber: 1,
+      position: 1,
+      externalId: "5L7QKqXiuJieIUe7NddG5G",
+      externalLink: "https://open.spotify.com/track/5L7QKqXiuJieIUe7NddG5G",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 6,
+      externalId: "56XGOjaT2JGsf8JOEz76XU",
+      externalLink: "https://open.spotify.com/track/56XGOjaT2JGsf8JOEz76XU",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHalfTheWorldAway = {
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-half-the-world-away",
   ownLength: 3.302216666666667,
   ownProgress: 3.302216666666667,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+    "release/aurora-half-the-world-away",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHalfTheWorldAway = {
       position: 13,
       externalId: "7ahrDi6JRWbbBZscxvz26J",
       externalLink: "https://open.spotify.com/track/7ahrDi6JRWbbBZscxvz26J",
+    },
+    {
+      release: "release/aurora-half-the-world-away",
+      discNumber: 1,
+      position: 1,
+      externalId: "1YiGzpKfesDgYODFyxmjcE",
+      externalLink: "https://open.spotify.com/track/1YiGzpKfesDgYODFyxmjcE",
     },
   ],
 } as const satisfies Track

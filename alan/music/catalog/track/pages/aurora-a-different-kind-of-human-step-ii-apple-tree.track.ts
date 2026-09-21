@@ -6,7 +6,11 @@ export const auroraADifferentKindOfHumanStepIiAppleTree = {
   slug: "aurora-a-different-kind-of-human-step-ii-apple-tree",
   ownLength: 3.1350333333333333,
   ownProgress: 3.1350333333333333,
-  partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
+  partOfCollections: [
+    "release/aurora-a-different-kind-of-human-step-ii",
+    "release/aurora-apple-tree-georgia-remix",
+    "release/aurora-for-the-metal-people",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const auroraADifferentKindOfHumanStepIiAppleTree = {
       position: 9,
       externalId: "11GFNnNtxUr6jkgY08D9WT",
       externalLink: "https://open.spotify.com/track/11GFNnNtxUr6jkgY08D9WT",
+    },
+    {
+      release: "release/aurora-apple-tree-georgia-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "5iXYJKwJd3QIRbDgoWTxpy",
+      externalLink: "https://open.spotify.com/track/5iXYJKwJd3QIRbDgoWTxpy",
+    },
+    {
+      release: "release/aurora-for-the-metal-people",
+      discNumber: 1,
+      position: 6,
+      externalId: "6zwPdwW9HepDJBBCblybMC",
+      externalLink: "https://open.spotify.com/track/6zwPdwW9HepDJBBCblybMC",
     },
   ],
 } as const satisfies Track

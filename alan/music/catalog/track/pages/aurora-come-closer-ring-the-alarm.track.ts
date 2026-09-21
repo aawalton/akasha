@@ -6,7 +6,7 @@ export const auroraComeCloserRingTheAlarm = {
   slug: "aurora-come-closer-ring-the-alarm",
   ownLength: 5.52355,
   ownProgress: 5.52355,
-  partOfCollections: ["release/aurora-come-closer"],
+  partOfCollections: ["release/aurora-come-closer", "release/aurora-ring-the-alarm"],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -37,6 +37,13 @@ export const auroraComeCloserRingTheAlarm = {
       position: 4,
       externalId: "3i3Qa9DLMVeexn7ighFoVS",
       externalLink: "https://open.spotify.com/track/3i3Qa9DLMVeexn7ighFoVS",
+    },
+    {
+      release: "release/aurora-ring-the-alarm",
+      discNumber: 1,
+      position: 1,
+      externalId: "4ewxZwUwLeMZEMWF1CRLeG",
+      externalLink: "https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-im-not-that-girl",
   ownLength: 3.9507166666666667,
   ownProgress: 3.9507166666666667,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 17,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
   song: "song/ariana-grande-i-m-not-that-girl",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 8,
+      externalId: "3po5ujYfFlbil6fHwUdh9n",
+      externalLink: "https://open.spotify.com/track/3po5ujYfFlbil6fHwUdh9n",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 17,
       externalId: "6rb68bdowIv6oB1CRvuUBE",
       externalLink: "https://open.spotify.com/track/6rb68bdowIv6oB1CRvuUBE",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 8,
+      externalId: "2tWioTW2rs0CXf1dTXlRrX",
+      externalLink: "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX",
     },
   ],
 } as const satisfies Track

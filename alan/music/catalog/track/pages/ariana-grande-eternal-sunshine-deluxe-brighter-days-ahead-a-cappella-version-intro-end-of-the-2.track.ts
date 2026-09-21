@@ -8,6 +8,8 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   ownProgress: 2.6875333333333336,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
   ],
   position: 14,
   status: "completed",
@@ -29,12 +31,27 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   song: "song/ariana-grande-intro-end-of-the-world",
   carriedBy: [
     {
+      release: "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+      discNumber: 1,
+      position: 14,
+      externalId: "5BBkvXH2jYROUzKIB7WX7S",
+      externalLink: "https://open.spotify.com/track/5BBkvXH2jYROUzKIB7WX7S",
+    },
+    {
       release:
         "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
       discNumber: 1,
       position: 14,
       externalId: "7tsfS4TNh9E20v7pkimwGp",
       externalLink: "https://open.spotify.com/track/7tsfS4TNh9E20v7pkimwGp",
+    },
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 14,
+      externalId: "33cRPtUHTjMG90FZV76S8T",
+      externalLink: "https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T",
     },
   ],
 } as const satisfies Track

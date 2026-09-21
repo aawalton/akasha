@@ -6,7 +6,10 @@ export const celticWoman2PostcardsFromIrelandTheDawningOfTheDay = {
   slug: "celtic-woman-2-postcards-from-ireland-the-dawning-of-the-day",
   ownLength: 3.904,
   ownProgress: 3.904,
-  partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
+  partOfCollections: [
+    "release/celtic-woman-2-postcards-from-ireland",
+    "release/celtic-woman-2-the-dawning-of-the-day",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2PostcardsFromIrelandTheDawningOfTheDay = {
       position: 1,
       externalId: "2JfJUwEE4DwTUZgkYeQS81",
       externalLink: "https://open.spotify.com/track/2JfJUwEE4DwTUZgkYeQS81",
+    },
+    {
+      release: "release/celtic-woman-2-the-dawning-of-the-day",
+      discNumber: 1,
+      position: 1,
+      externalId: "5KtBf7166ymhpPE1oE2GDx",
+      externalLink: "https://open.spotify.com/track/5KtBf7166ymhpPE1oE2GDx",
     },
   ],
 } as const satisfies Track

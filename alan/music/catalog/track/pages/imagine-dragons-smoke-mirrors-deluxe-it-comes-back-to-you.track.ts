@@ -6,7 +6,10 @@ export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
   slug: "imagine-dragons-smoke-mirrors-deluxe-it-comes-back-to-you",
   ownLength: 3.6233333333333335,
   ownProgress: 3.6233333333333335,
-  partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
+  partOfCollections: [
+    "release/imagine-dragons-smoke-mirrors-deluxe",
+    "release/imagine-dragons-smoke-mirrors",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
   trackKey: "itcomesbacktoyou|53XhwfbYqKCa1cC15pYq2q|217400",
   song: "song/imagine-dragons-it-comes-back-to-you",
   carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors",
+      discNumber: 1,
+      position: 8,
+      externalId: "04Jdmzb6gfuSZxGfAFc2NH",
+      externalLink: "https://open.spotify.com/track/04Jdmzb6gfuSZxGfAFc2NH",
+    },
     {
       release: "release/imagine-dragons-smoke-mirrors-deluxe",
       discNumber: 1,

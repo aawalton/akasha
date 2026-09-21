@@ -6,7 +6,10 @@ export const zaraLarssonPosterGirlINeedLove = {
   slug: "zara-larsson-poster-girl-i-need-love",
   ownLength: 3.0357166666666666,
   ownProgress: 3.0357166666666666,
-  partOfCollections: ["release/zara-larsson-poster-girl"],
+  partOfCollections: [
+    "release/zara-larsson-poster-girl",
+    "release/zara-larsson-poster-girl-summer-edition",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const zaraLarssonPosterGirlINeedLove = {
       position: 7,
       externalId: "57CcOoiBg93ozKpIWEnceR",
       externalLink: "https://open.spotify.com/track/57CcOoiBg93ozKpIWEnceR",
+    },
+    {
+      release: "release/zara-larsson-poster-girl-summer-edition",
+      discNumber: 1,
+      position: 7,
+      externalId: "2sHO6TNbkIYXRHfcPJaaAh",
+      externalLink: "https://open.spotify.com/track/2sHO6TNbkIYXRHfcPJaaAh",
     },
   ],
 } as const satisfies Track

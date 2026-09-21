@@ -6,7 +6,10 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheTaleOfTheLesbianHunter = {
   slug: "vinny-marchi-tales-of-the-lesbian-hunter-the-tale-of-the-lesbian-hunter",
   ownLength: 2.3171,
   ownProgress: 2.3171,
-  partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
+  partOfCollections: [
+    "release/vinny-marchi-tales-of-the-lesbian-hunter",
+    "release/vinny-marchi-the-tale-of-the-lesbian-hunter",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheTaleOfTheLesbianHunter = {
       position: 2,
       externalId: "5bQtyq5n8s8J3dOzbosaUU",
       externalLink: "https://open.spotify.com/track/5bQtyq5n8s8J3dOzbosaUU",
+    },
+    {
+      release: "release/vinny-marchi-the-tale-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 1,
+      externalId: "2llyflxs4Yun0tveLALkmd",
+      externalLink: "https://open.spotify.com/track/2llyflxs4Yun0tveLALkmd",
     },
   ],
 } as const satisfies Track

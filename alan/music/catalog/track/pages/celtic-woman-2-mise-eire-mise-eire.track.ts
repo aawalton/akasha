@@ -6,7 +6,10 @@ export const celticWoman2MiseEireMiseEire = {
   slug: "celtic-woman-2-mise-eire-mise-eire",
   ownLength: 3.8793333333333333,
   ownProgress: 3.8793333333333333,
-  partOfCollections: ["release/celtic-woman-2-mise-eire"],
+  partOfCollections: [
+    "release/celtic-woman-2-mise-eire",
+    "release/celtic-woman-2-postcards-from-ireland",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2MiseEireMiseEire = {
       position: 1,
       externalId: "68usAuEXES4tMUhZsO5RcL",
       externalLink: "https://open.spotify.com/track/68usAuEXES4tMUhZsO5RcL",
+    },
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 3,
+      externalId: "4iuP6poKzraK9cSlBb6UPc",
+      externalLink: "https://open.spotify.com/track/4iuP6poKzraK9cSlBb6UPc",
     },
   ],
 } as const satisfies Track

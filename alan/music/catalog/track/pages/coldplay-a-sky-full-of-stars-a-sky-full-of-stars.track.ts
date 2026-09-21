@@ -6,7 +6,7 @@ export const coldplayASkyFullOfStarsASkyFullOfStars = {
   slug: "coldplay-a-sky-full-of-stars-a-sky-full-of-stars",
   ownLength: 4.464433333333333,
   ownProgress: 4.464433333333333,
-  partOfCollections: ["release/coldplay-a-sky-full-of-stars"],
+  partOfCollections: ["release/coldplay-a-sky-full-of-stars", "release/coldplay-ghost-stories"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayASkyFullOfStarsASkyFullOfStars = {
       position: 1,
       externalId: "6HFbq7cewJ7rPiffV0ciil",
       externalLink: "https://open.spotify.com/track/6HFbq7cewJ7rPiffV0ciil",
+    },
+    {
+      release: "release/coldplay-ghost-stories",
+      discNumber: 1,
+      position: 8,
+      externalId: "0FDzzruyVECATHXKHFs9eJ",
+      externalLink: "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ",
     },
   ],
 } as const satisfies Track

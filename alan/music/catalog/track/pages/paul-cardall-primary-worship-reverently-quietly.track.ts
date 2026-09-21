@@ -6,7 +6,7 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
   slug: "paul-cardall-primary-worship-reverently-quietly",
   ownLength: 3.15355,
   ownProgress: 3.15355,
-  partOfCollections: ["release/paul-cardall-primary-worship"],
+  partOfCollections: ["release/paul-cardall-primary-worship", "release/paul-cardall-sacred-piano"],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
       position: 11,
       externalId: "626e9Py1Awti5VQYrGW7WO",
       externalLink: "https://open.spotify.com/track/626e9Py1Awti5VQYrGW7WO",
+    },
+    {
+      release: "release/paul-cardall-sacred-piano",
+      discNumber: 1,
+      position: 15,
+      externalId: "2lphskZNhDQLdfid5Le2Gm",
+      externalLink: "https://open.spotify.com/track/2lphskZNhDQLdfid5Le2Gm",
     },
   ],
 } as const satisfies Track

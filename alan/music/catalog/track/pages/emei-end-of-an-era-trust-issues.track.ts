@@ -6,7 +6,7 @@ export const emeiEndOfAnEraTrustIssues = {
   slug: "emei-end-of-an-era-trust-issues",
   ownLength: 2.348,
   ownProgress: 2.348,
-  partOfCollections: ["release/emei-end-of-an-era"],
+  partOfCollections: ["release/emei-end-of-an-era", "release/emei-trust-issues"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emeiEndOfAnEraTrustIssues = {
       position: 3,
       externalId: "1w9C1Oza8HfR93yN43CSLG",
       externalLink: "https://open.spotify.com/track/1w9C1Oza8HfR93yN43CSLG",
+    },
+    {
+      release: "release/emei-trust-issues",
+      discNumber: 1,
+      position: 1,
+      externalId: "0SSu4wiFjCPcRE5Sx3ni0A",
+      externalLink: "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A",
     },
   ],
 } as const satisfies Track

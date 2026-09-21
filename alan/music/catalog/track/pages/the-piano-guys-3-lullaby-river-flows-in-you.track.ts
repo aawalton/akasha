@@ -6,7 +6,10 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
   slug: "the-piano-guys-3-lullaby-river-flows-in-you",
   ownLength: 3.1565,
   ownProgress: 3.1565,
-  partOfCollections: ["release/the-piano-guys-3-lullaby"],
+  partOfCollections: [
+    "release/the-piano-guys-3-lullaby",
+    "release/the-piano-guys-3-wedding-season",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
       position: 7,
       externalId: "5DwyaU9lBwhOleAgB42Yyk",
       externalLink: "https://open.spotify.com/track/5DwyaU9lBwhOleAgB42Yyk",
+    },
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 14,
+      externalId: "3n9bwVYmldkNFKF9JBLG2l",
+      externalLink: "https://open.spotify.com/track/3n9bwVYmldkNFKF9JBLG2l",
     },
   ],
 } as const satisfies Track

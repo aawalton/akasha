@@ -6,7 +6,10 @@ export const coldplayEveryTeardropIsAWaterfall2EveryTeardropIsAWaterfall = {
   slug: "coldplay-every-teardrop-is-a-waterfall-2-every-teardrop-is-a-waterfall",
   ownLength: 4.05,
   ownProgress: 4.05,
-  partOfCollections: ["release/coldplay-every-teardrop-is-a-waterfall-2"],
+  partOfCollections: [
+    "release/coldplay-every-teardrop-is-a-waterfall-2",
+    "release/coldplay-every-teardrop-is-a-waterfall",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const coldplayEveryTeardropIsAWaterfall2EveryTeardropIsAWaterfall = {
   trackKey: "everyteardropisawaterfall|4gzpq5DPGxSnKTe4SA8HAU|243000",
   song: "song/coldplay-every-teardrop-is-a-waterfall",
   carriedBy: [
+    {
+      release: "release/coldplay-every-teardrop-is-a-waterfall",
+      discNumber: 1,
+      position: 1,
+      externalId: "6P5g398JKsPAYSt4NKqsrX",
+      externalLink: "https://open.spotify.com/track/6P5g398JKsPAYSt4NKqsrX",
+    },
     {
       release: "release/coldplay-every-teardrop-is-a-waterfall-2",
       discNumber: 1,

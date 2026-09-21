@@ -6,7 +6,7 @@ export const thePianoGuys3FlickerFlicker = {
   slug: "the-piano-guys-3-flicker-flicker",
   ownLength: 3.27555,
   ownProgress: 3.27555,
-  partOfCollections: ["release/the-piano-guys-3-flicker"],
+  partOfCollections: ["release/the-piano-guys-3-flicker", "release/the-piano-guys-3-limitless"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys3FlickerFlicker = {
       position: 1,
       externalId: "4IOl3FjbQ5gOysdEXhJlV2",
       externalLink: "https://open.spotify.com/track/4IOl3FjbQ5gOysdEXhJlV2",
+    },
+    {
+      release: "release/the-piano-guys-3-limitless",
+      discNumber: 1,
+      position: 10,
+      externalId: "76vpjsz9JbD4qsSyVScMDq",
+      externalLink: "https://open.spotify.com/track/76vpjsz9JbD4qsSyVScMDq",
     },
   ],
 } as const satisfies Track

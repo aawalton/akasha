@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeMoorloughShore = {
   slug: "celtic-woman-2-ancient-land-deluxe-moorlough-shore",
   ownLength: 4.09,
   ownProgress: 4.09,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeMoorloughShore = {
   trackKey: "moorloughshore|6NWtt9pNOL2Gx7kBykdE5x|245400",
   song: "song/celtic-woman-moorlough-shore",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 3,
+      externalId: "1YifpYP7WBYtCxcc2UJZiC",
+      externalLink: "https://open.spotify.com/track/1YifpYP7WBYtCxcc2UJZiC",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

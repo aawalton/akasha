@@ -6,7 +6,11 @@ export const emeiIrresponsibleIrresponsible = {
   slug: "emei-irresponsible-irresponsible",
   ownLength: 2.0791833333333334,
   ownProgress: 2.0791833333333334,
-  partOfCollections: ["release/emei-irresponsible"],
+  partOfCollections: [
+    "release/emei-irresponsible",
+    "release/emei-scatterbrain-2",
+    "release/emei-scatterbrain-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const emeiIrresponsibleIrresponsible = {
       position: 1,
       externalId: "60SugyNV4FdewZfktXfXte",
       externalLink: "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte",
+    },
+    {
+      release: "release/emei-scatterbrain-2",
+      discNumber: 1,
+      position: 3,
+      externalId: "0zlJpc8mUU9x92uU8t5f6p",
+      externalLink: "https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p",
+    },
+    {
+      release: "release/emei-scatterbrain-deluxe",
+      discNumber: 1,
+      position: 3,
+      externalId: "7mw8HJgOpIzYcxfiDCXpZP",
+      externalLink: "https://open.spotify.com/track/7mw8HJgOpIzYcxfiDCXpZP",
     },
   ],
 } as const satisfies Track

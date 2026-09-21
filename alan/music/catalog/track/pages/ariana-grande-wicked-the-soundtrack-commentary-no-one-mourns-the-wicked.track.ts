@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWicked = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-no-one-mourns-the-wicked",
   ownLength: 7.466516666666666,
   ownProgress: 7.466516666666666,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -36,11 +40,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWicked = {
   song: "song/ariana-grande-no-one-mourns-the-wicked",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 1,
+      externalId: "48q2LWNAGoBHlWHVqMwBcS",
+      externalLink: "https://open.spotify.com/track/48q2LWNAGoBHlWHVqMwBcS",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 3,
       externalId: "0ISeMfH9si0Jp3vs7L7Zqz",
       externalLink: "https://open.spotify.com/track/0ISeMfH9si0Jp3vs7L7Zqz",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 1,
+      externalId: "0br9vcQnqeqp9PKCGsrxAF",
+      externalLink: "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF",
     },
   ],
 } as const satisfies Track

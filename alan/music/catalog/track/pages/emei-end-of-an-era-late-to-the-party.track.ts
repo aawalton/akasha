@@ -6,7 +6,7 @@ export const emeiEndOfAnEraLateToTheParty = {
   slug: "emei-end-of-an-era-late-to-the-party",
   ownLength: 2.952933333333333,
   ownProgress: 2.952933333333333,
-  partOfCollections: ["release/emei-end-of-an-era"],
+  partOfCollections: ["release/emei-end-of-an-era", "release/emei-late-to-the-party"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emeiEndOfAnEraLateToTheParty = {
       position: 1,
       externalId: "6mosJ1QPOVKKSI95ApkWXz",
       externalLink: "https://open.spotify.com/track/6mosJ1QPOVKKSI95ApkWXz",
+    },
+    {
+      release: "release/emei-late-to-the-party",
+      discNumber: 1,
+      position: 1,
+      externalId: "7hdMPlOGOngKH3mj4pVLcG",
+      externalLink: "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const coldplayProspektSMarchGlassOfWater = {
   slug: "coldplay-prospekt-s-march-glass-of-water",
   ownLength: 4.7484166666666665,
   ownProgress: 4.7484166666666665,
-  partOfCollections: ["release/coldplay-prospekt-s-march"],
+  partOfCollections: [
+    "release/coldplay-prospekt-s-march",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayProspektSMarchGlassOfWater = {
       position: 3,
       externalId: "0WxY1PPhJBSfyWSPMgZWuQ",
       externalLink: "https://open.spotify.com/track/0WxY1PPhJBSfyWSPMgZWuQ",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 3,
+      externalId: "0Y27miOkWnVymvOIA19BgU",
+      externalLink: "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU",
     },
   ],
 } as const satisfies Track

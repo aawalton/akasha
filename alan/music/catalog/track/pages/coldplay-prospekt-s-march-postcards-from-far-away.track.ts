@@ -6,7 +6,10 @@ export const coldplayProspektSMarchPostcardsFromFarAway = {
   slug: "coldplay-prospekt-s-march-postcards-from-far-away",
   ownLength: 0.8021333333333334,
   ownProgress: 0.8021333333333334,
-  partOfCollections: ["release/coldplay-prospekt-s-march"],
+  partOfCollections: [
+    "release/coldplay-prospekt-s-march",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayProspektSMarchPostcardsFromFarAway = {
       position: 2,
       externalId: "3KdUdP8JusiGrwcxu8pZre",
       externalLink: "https://open.spotify.com/track/3KdUdP8JusiGrwcxu8pZre",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 2,
+      externalId: "4sbbpL1WwwGRr6xWk2y0Hk",
+      externalLink: "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk",
     },
   ],
 } as const satisfies Track

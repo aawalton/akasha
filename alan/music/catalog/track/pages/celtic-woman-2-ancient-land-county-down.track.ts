@@ -6,7 +6,10 @@ export const celticWoman2AncientLandCountyDown = {
   slug: "celtic-woman-2-ancient-land-county-down",
   ownLength: 3.7268833333333333,
   ownProgress: 3.7268833333333333,
-  partOfCollections: ["release/celtic-woman-2-ancient-land"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land",
+    "release/celtic-woman-2-ancient-land-deluxe",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2AncientLandCountyDown = {
       position: 5,
       externalId: "0t0jSK7QTP5VMpXOhvMAas",
       externalLink: "https://open.spotify.com/track/0t0jSK7QTP5VMpXOhvMAas",
+    },
+    {
+      release: "release/celtic-woman-2-ancient-land-deluxe",
+      discNumber: 1,
+      position: 5,
+      externalId: "1aAJD7jF3l0F7ATDbYq3rt",
+      externalLink: "https://open.spotify.com/track/1aAJD7jF3l0F7ATDbYq3rt",
     },
   ],
 } as const satisfies Track

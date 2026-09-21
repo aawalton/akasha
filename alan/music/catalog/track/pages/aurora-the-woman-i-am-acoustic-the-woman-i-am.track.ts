@@ -6,7 +6,7 @@ export const auroraTheWomanIAmAcousticTheWomanIAm = {
   slug: "aurora-the-woman-i-am-acoustic-the-woman-i-am",
   ownLength: 3.220666666666667,
   ownProgress: 3.220666666666667,
-  partOfCollections: ["release/aurora-the-woman-i-am-acoustic"],
+  partOfCollections: ["release/aurora-the-woman-i-am-acoustic", "release/aurora-the-woman-i-am"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const auroraTheWomanIAmAcousticTheWomanIAm = {
   trackKey: "thewomaniam|1WgXqy2Dd70QQOU7Ay074N|193240",
   song: "song/aurora-the-woman-i-am",
   carriedBy: [
+    {
+      release: "release/aurora-the-woman-i-am",
+      discNumber: 1,
+      position: 1,
+      externalId: "5bBrF5YvBYbEbnZxrmycab",
+      externalLink: "https://open.spotify.com/track/5bBrF5YvBYbEbnZxrmycab",
+    },
     {
       release: "release/aurora-the-woman-i-am-acoustic",
       discNumber: 1,

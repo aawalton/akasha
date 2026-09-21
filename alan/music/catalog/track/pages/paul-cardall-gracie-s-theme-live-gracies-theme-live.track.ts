@@ -6,7 +6,10 @@ export const paulCardallGracieSThemeLiveGraciesThemeLive = {
   slug: "paul-cardall-gracie-s-theme-live-gracies-theme-live",
   ownLength: 5.018233333333334,
   ownProgress: 5.018233333333334,
-  partOfCollections: ["release/paul-cardall-gracie-s-theme-live"],
+  partOfCollections: [
+    "release/paul-cardall-gracie-s-theme-live",
+    "release/paul-cardall-the-celebrate-life-concert-live",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallGracieSThemeLiveGraciesThemeLive = {
       position: 1,
       externalId: "7jBwOpAeFIiJTfNCX2evJf",
       externalLink: "https://open.spotify.com/track/7jBwOpAeFIiJTfNCX2evJf",
+    },
+    {
+      release: "release/paul-cardall-the-celebrate-life-concert-live",
+      discNumber: 1,
+      position: 14,
+      externalId: "279qN4iAxK9FFOVFteOa5V",
+      externalLink: "https://open.spotify.com/track/279qN4iAxK9FFOVFteOa5V",
     },
   ],
 } as const satisfies Track

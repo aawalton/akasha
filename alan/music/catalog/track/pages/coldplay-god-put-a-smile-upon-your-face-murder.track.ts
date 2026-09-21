@@ -6,7 +6,7 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   slug: "coldplay-god-put-a-smile-upon-your-face-murder",
   ownLength: 5.581316666666667,
   ownProgress: 5.581316666666667,
-  partOfCollections: ["release/coldplay-god-put-a-smile-upon-your-face"],
+  partOfCollections: ["release/coldplay-god-put-a-smile-upon-your-face", "release/coldplay-murder"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
       position: 2,
       externalId: "6FNYoIM6xtaH1mBlLwDMvM",
       externalLink: "https://open.spotify.com/track/6FNYoIM6xtaH1mBlLwDMvM",
+    },
+    {
+      release: "release/coldplay-murder",
+      discNumber: 1,
+      position: 1,
+      externalId: "41qujRJ7RG759UklwNHStb",
+      externalLink: "https://open.spotify.com/track/41qujRJ7RG759UklwNHStb",
     },
   ],
 } as const satisfies Track

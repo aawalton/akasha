@@ -6,7 +6,7 @@ export const chaislynMandelaEffectMandelaEffect = {
   slug: "chaislyn-mandela-effect-mandela-effect",
   ownLength: 2.8236,
   ownProgress: 2.8236,
-  partOfCollections: ["release/chaislyn-mandela-effect"],
+  partOfCollections: ["release/chaislyn-mandela-effect", "release/chaislyn-unreliable-narrator"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const chaislynMandelaEffectMandelaEffect = {
       position: 1,
       externalId: "6ca4caIx2fpTXfuJsHAurQ",
       externalLink: "https://open.spotify.com/track/6ca4caIx2fpTXfuJsHAurQ",
+    },
+    {
+      release: "release/chaislyn-unreliable-narrator",
+      discNumber: 1,
+      position: 3,
+      externalId: "2uy5dgGrxlwxofUuV9VeAd",
+      externalLink: "https://open.spotify.com/track/2uy5dgGrxlwxofUuV9VeAd",
     },
   ],
 } as const satisfies Track

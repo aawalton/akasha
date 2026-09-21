@@ -6,7 +6,12 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGo = {
   slug: "coldplay-let-somebody-go-kygo-remix-let-somebody-go",
   ownLength: 4.026583333333333,
   ownProgress: 4.026583333333333,
-  partOfCollections: ["release/coldplay-let-somebody-go-kygo-remix"],
+  partOfCollections: [
+    "release/coldplay-let-somebody-go-kygo-remix",
+    "release/coldplay-let-somebody-go",
+    "release/coldplay-let-somebody-go-piano-version",
+    "release/coldplay-music-of-the-spheres",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +35,32 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGo = {
   song: "song/coldplay-let-somebody-go",
   carriedBy: [
     {
+      release: "release/coldplay-let-somebody-go",
+      discNumber: 1,
+      position: 2,
+      externalId: "4ImOgexLVNBnBfK1Gzq7Jw",
+      externalLink: "https://open.spotify.com/track/4ImOgexLVNBnBfK1Gzq7Jw",
+    },
+    {
       release: "release/coldplay-let-somebody-go-kygo-remix",
       discNumber: 1,
       position: 3,
       externalId: "3zZl8eEazg9rs9VpgFT5lP",
       externalLink: "https://open.spotify.com/track/3zZl8eEazg9rs9VpgFT5lP",
+    },
+    {
+      release: "release/coldplay-let-somebody-go-piano-version",
+      discNumber: 1,
+      position: 4,
+      externalId: "2tFbT0atd7zQxTqa2l1Pf1",
+      externalLink: "https://open.spotify.com/track/2tFbT0atd7zQxTqa2l1Pf1",
+    },
+    {
+      release: "release/coldplay-music-of-the-spheres",
+      discNumber: 1,
+      position: 5,
+      externalId: "4cGqn0E8JCSY9gQllQj4Mf",
+      externalLink: "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf",
     },
   ],
 } as const satisfies Track

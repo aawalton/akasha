@@ -6,7 +6,11 @@ export const thePianoGuys3ClassicalMovieSoundtracksTime = {
   slug: "the-piano-guys-3-classical-movie-soundtracks-time",
   ownLength: 4.2,
   ownProgress: 4.2,
-  partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
+  partOfCollections: [
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+    "release/the-piano-guys-3-time",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3ClassicalMovieSoundtracksTime = {
       position: 4,
       externalId: "3dK4Mohu0ZS66L1wZRaQhS",
       externalLink: "https://open.spotify.com/track/3dK4Mohu0ZS66L1wZRaQhS",
+    },
+    {
+      release: "release/the-piano-guys-3-time",
+      discNumber: 1,
+      position: 1,
+      externalId: "1EVJvqORoxiNMgjScE7fhl",
+      externalLink: "https://open.spotify.com/track/1EVJvqORoxiNMgjScE7fhl",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 2,
+      externalId: "14YiPc411VtUGFgfKm7mra",
+      externalLink: "https://open.spotify.com/track/14YiPc411VtUGFgfKm7mra",
     },
   ],
 } as const satisfies Track

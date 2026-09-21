@@ -6,7 +6,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-the-girl-in-the-bubble",
   ownLength: 3.675,
   ownProgress: 3.675,
-  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-for-good-the-soundtrack",
+  ],
   position: 21,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
   trackKey: "thegirlinthebubble|66CXWjxzNUsdJxJ2JdwvnR|220500",
   song: "song/ariana-grande-the-girl-in-the-bubble",
   carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 10,
+      externalId: "6Wxn79EwKPQvYerlctheGx",
+      externalLink: "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx",
+    },
     {
       release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
       discNumber: 1,

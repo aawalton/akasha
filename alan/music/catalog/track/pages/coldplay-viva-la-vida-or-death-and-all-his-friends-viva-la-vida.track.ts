@@ -6,7 +6,11 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsVivaLaVida = {
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends-viva-la-vida",
   ownLength: 4.03955,
   ownProgress: 4.03955,
-  partOfCollections: ["release/coldplay-viva-la-vida-or-death-and-all-his-friends"],
+  partOfCollections: [
+    "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+    "release/coldplay-viva-la-vida",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsVivaLaVida = {
   song: "song/coldplay-viva-la-vida",
   carriedBy: [
     {
+      release: "release/coldplay-viva-la-vida",
+      discNumber: 1,
+      position: 1,
+      externalId: "6WrUT7FOAlDscRWU7ndmyd",
+      externalLink: "https://open.spotify.com/track/6WrUT7FOAlDscRWU7ndmyd",
+    },
+    {
       release: "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
       discNumber: 1,
       position: 7,
       externalId: "1mea3bSkSGXuIRvnydlB5b",
       externalLink: "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 1,
+      position: 7,
+      externalId: "3zzwBtusqxBiGRsGpsnN3F",
+      externalLink: "https://open.spotify.com/track/3zzwBtusqxBiGRsGpsnN3F",
     },
   ],
 } as const satisfies Track

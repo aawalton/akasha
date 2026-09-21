@@ -6,7 +6,10 @@ export const coldplayProspektSMarchProspektsMarchPoppyfields = {
   slug: "coldplay-prospekt-s-march-prospekts-march-poppyfields",
   ownLength: 3.65385,
   ownProgress: 3.65385,
-  partOfCollections: ["release/coldplay-prospekt-s-march"],
+  partOfCollections: [
+    "release/coldplay-prospekt-s-march",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayProspektSMarchProspektsMarchPoppyfields = {
       position: 5,
       externalId: "6KgFgKiVLWk75G86H5bcea",
       externalLink: "https://open.spotify.com/track/6KgFgKiVLWk75G86H5bcea",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 5,
+      externalId: "4yr1059N96a8msTHVftmFN",
+      externalLink: "https://open.spotify.com/track/4yr1059N96a8msTHVftmFN",
     },
   ],
 } as const satisfies Track

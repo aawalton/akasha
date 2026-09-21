@@ -6,7 +6,10 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhale = {
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack-exhale-inhale",
   ownLength: 3.5437666666666665,
   ownProgress: 3.5437666666666665,
-  partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
+  partOfCollections: [
+    "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+    "release/aurora-the-gods-we-can-touch",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhale = {
       position: 2,
       externalId: "1EUMm6cYTtCJLTTxiEk6HI",
       externalLink: "https://open.spotify.com/track/1EUMm6cYTtCJLTTxiEk6HI",
+    },
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 9,
+      externalId: "6ixpEOFoVxYTUmCD7KaFlh",
+      externalLink: "https://open.spotify.com/track/6ixpEOFoVxYTUmCD7KaFlh",
     },
   ],
 } as const satisfies Track

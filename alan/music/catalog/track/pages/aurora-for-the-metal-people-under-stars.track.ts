@@ -6,7 +6,7 @@ export const auroraForTheMetalPeopleUnderStars = {
   slug: "aurora-for-the-metal-people-under-stars",
   ownLength: 3.3171,
   ownProgress: 3.3171,
-  partOfCollections: ["release/aurora-for-the-metal-people"],
+  partOfCollections: ["release/aurora-for-the-metal-people", "release/aurora-under-stars"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const auroraForTheMetalPeopleUnderStars = {
       position: 3,
       externalId: "6TcFwDCZvm9Lrcws3aTQ9N",
       externalLink: "https://open.spotify.com/track/6TcFwDCZvm9Lrcws3aTQ9N",
+    },
+    {
+      release: "release/aurora-under-stars",
+      discNumber: 1,
+      position: 1,
+      externalId: "2LFgK4Uk09LgP6Ta0ne8YF",
+      externalLink: "https://open.spotify.com/track/2LFgK4Uk09LgP6Ta0ne8YF",
     },
   ],
 } as const satisfies Track

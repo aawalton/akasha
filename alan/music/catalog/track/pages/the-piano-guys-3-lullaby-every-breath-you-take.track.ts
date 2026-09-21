@@ -6,7 +6,11 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
   slug: "the-piano-guys-3-lullaby-every-breath-you-take",
   ownLength: 4.536833333333333,
   ownProgress: 4.536833333333333,
-  partOfCollections: ["release/the-piano-guys-3-lullaby"],
+  partOfCollections: [
+    "release/the-piano-guys-3-lullaby",
+    "release/the-piano-guys-3-wedding-season",
+    "release/the-piano-guys-autumn-on-piano",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
       position: 5,
       externalId: "0LQd5wZco2ZMBnxhNl9Qbq",
       externalLink: "https://open.spotify.com/track/0LQd5wZco2ZMBnxhNl9Qbq",
+    },
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 16,
+      externalId: "6dfeSWND2e74EMSJI2Ract",
+      externalLink: "https://open.spotify.com/track/6dfeSWND2e74EMSJI2Ract",
+    },
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 1,
+      externalId: "5OvCeYiBG0maA4xyyIZ2YD",
+      externalLink: "https://open.spotify.com/track/5OvCeYiBG0maA4xyyIZ2YD",
     },
   ],
 } as const satisfies Track

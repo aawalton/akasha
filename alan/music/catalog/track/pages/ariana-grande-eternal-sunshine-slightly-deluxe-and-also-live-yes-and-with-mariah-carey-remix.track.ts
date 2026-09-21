@@ -6,7 +6,11 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndWithMaria
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-yes-and-with-mariah-carey-remix",
   ownLength: 3.5832333333333333,
   ownProgress: 3.5832333333333333,
-  partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
+  partOfCollections: [
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+    "release/ariana-grande-yes-and-2",
+  ],
   position: 14,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndWithMaria
   song: "song/ariana-grande-yes-and",
   carriedBy: [
     {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 17,
+      externalId: "1UjPANunXLp0G9hbQNyPh9",
+      externalLink: "https://open.spotify.com/track/1UjPANunXLp0G9hbQNyPh9",
+    },
+    {
       release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
       discNumber: 1,
       position: 14,
       externalId: "11U6LlwAzp6mrS2JNWYXt1",
       externalLink: "https://open.spotify.com/track/11U6LlwAzp6mrS2JNWYXt1",
+    },
+    {
+      release: "release/ariana-grande-yes-and-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "5LBv48NNyHsknRYwFWC361",
+      externalLink: "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361",
     },
   ],
 } as const satisfies Track

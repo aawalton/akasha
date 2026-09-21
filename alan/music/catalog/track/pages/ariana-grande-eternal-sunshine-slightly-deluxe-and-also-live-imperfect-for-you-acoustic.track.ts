@@ -6,7 +6,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-imperfect-for-you-acoustic",
   ownLength: 3.052216666666667,
   ownProgress: 3.052216666666667,
-  partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
+  partOfCollections: [
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+  ],
   position: 17,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   trackKey: "imperfectforyouacoustic|66CXWjxzNUsdJxJ2JdwvnR|183133",
   song: "song/ariana-grande-imperfect-for-you",
   carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 15,
+      externalId: "0blfewz7XXrjsZd5WnHwgE",
+      externalLink: "https://open.spotify.com/track/0blfewz7XXrjsZd5WnHwgE",
+    },
     {
       release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
       discNumber: 1,

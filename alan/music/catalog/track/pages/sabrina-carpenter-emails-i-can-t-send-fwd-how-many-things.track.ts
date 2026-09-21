@@ -6,7 +6,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdHowManyThings = {
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-how-many-things",
   ownLength: 4.064666666666667,
   ownProgress: 4.064666666666667,
-  partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
+  partOfCollections: [
+    "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+    "release/sabrina-carpenter-emails-i-can-t-send",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdHowManyThings = {
   trackKey: "howmanythings|74KM79TiuVKeVCqs8QtB0B|243880",
   song: "song/sabrina-carpenter-how-many-things",
   carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 7,
+      externalId: "4yC3v03vIGfmV6Rag568mV",
+      externalLink: "https://open.spotify.com/track/4yC3v03vIGfmV6Rag568mV",
+    },
     {
       release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
       discNumber: 1,

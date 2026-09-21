@@ -6,7 +6,10 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
   slug: "paul-cardall-be-calm-brain-healthy-music-sacred-nature-ii",
   ownLength: 3.934466666666667,
   ownProgress: 3.934466666666667,
-  partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
+  partOfCollections: [
+    "release/paul-cardall-be-calm-brain-healthy-music",
+    "release/paul-cardall-chill-collection",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
       position: 2,
       externalId: "4gFTxD5BhRwVCBThLMaBgf",
       externalLink: "https://open.spotify.com/track/4gFTxD5BhRwVCBThLMaBgf",
+    },
+    {
+      release: "release/paul-cardall-chill-collection",
+      discNumber: 1,
+      position: 1,
+      externalId: "7HmcBxAlw9ZfD92RWX79yc",
+      externalLink: "https://open.spotify.com/track/7HmcBxAlw9ZfD92RWX79yc",
     },
   ],
 } as const satisfies Track

@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/aurora-cure-for-me-acoustic","discNumber":1,"position":1,"externalId":"3Kg0X8buY9Exe3EM3db8Lx","externalLink":"https://open.spotify.com/track/3Kg0X8buY9Exe3EM3db8Lx"}]}
+{"carriedBy":[{"release":"release/aurora-cure-for-me","discNumber":1,"position":2,"externalId":"2tkCvlBzMD6XXQbacxNB1v","externalLink":"https://open.spotify.com/track/2tkCvlBzMD6XXQbacxNB1v"},{"release":"release/aurora-cure-for-me-acoustic","discNumber":1,"position":1,"externalId":"3Kg0X8buY9Exe3EM3db8Lx","externalLink":"https://open.spotify.com/track/3Kg0X8buY9Exe3EM3db8Lx"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"3Kg0X8buY9Exe3EM3db8Lx","externalLink":"https://open.spotify.com/track/3Kg0X8buY9Exe3EM3db8Lx","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b638-04d9-71ec-84a1-441220b47507"}
 {"ownLength":3.556216666666667}
 {"ownProgress":3.556216666666667}
-{"partOfCollections":["release/aurora-cure-for-me-acoustic"]}
+{"partOfCollections":["release/aurora-cure-for-me-acoustic","release/aurora-cure-for-me"]}
 {"position":1}
 {"slug":"aurora-cure-for-me-acoustic-cure-for-me-acoustic"}
 {"song":"song/aurora-cure-for-me"}

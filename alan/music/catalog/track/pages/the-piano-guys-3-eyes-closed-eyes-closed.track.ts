@@ -6,7 +6,11 @@ export const thePianoGuys3EyesClosedEyesClosed = {
   slug: "the-piano-guys-3-eyes-closed-eyes-closed",
   ownLength: 4.0759,
   ownProgress: 4.0759,
-  partOfCollections: ["release/the-piano-guys-3-eyes-closed"],
+  partOfCollections: [
+    "release/the-piano-guys-3-eyes-closed",
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-autumn-on-piano",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3EyesClosedEyesClosed = {
       position: 1,
       externalId: "4XZ21h3GvuSwjZthlXQ5T7",
       externalLink: "https://open.spotify.com/track/4XZ21h3GvuSwjZthlXQ5T7",
+    },
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 14,
+      externalId: "7pnd8pyDrzVGKY9kEHNVD1",
+      externalLink: "https://open.spotify.com/track/7pnd8pyDrzVGKY9kEHNVD1",
+    },
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 8,
+      externalId: "2VVmlrQyuxfVfVVhhZHvkU",
+      externalLink: "https://open.spotify.com/track/2VVmlrQyuxfVfVVhhZHvkU",
     },
   ],
 } as const satisfies Track

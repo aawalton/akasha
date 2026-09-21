@@ -6,7 +6,10 @@ export const zaraLarssonPosterGirlSummerEditionRuinMyLifeOrchestralVersion = {
   slug: "zara-larsson-poster-girl-summer-edition-ruin-my-life-orchestral-version",
   ownLength: 4.72125,
   ownProgress: 4.72125,
-  partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
+  partOfCollections: [
+    "release/zara-larsson-poster-girl-summer-edition",
+    "release/zara-larsson-ruin-my-life-the-remixes",
+  ],
   position: 16,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const zaraLarssonPosterGirlSummerEditionRuinMyLifeOrchestralVersion = {
       position: 16,
       externalId: "1AMY9k1jLWD7Z0HxjP56fD",
       externalLink: "https://open.spotify.com/track/1AMY9k1jLWD7Z0HxjP56fD",
+    },
+    {
+      release: "release/zara-larsson-ruin-my-life-the-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "6vvVOiNm48TGdmEtYqYqcz",
+      externalLink: "https://open.spotify.com/track/6vvVOiNm48TGdmEtYqYqcz",
     },
   ],
 } as const satisfies Track

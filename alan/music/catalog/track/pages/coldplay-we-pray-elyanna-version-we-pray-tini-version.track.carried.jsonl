@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/coldplay-we-pray-elyanna-version","discNumber":1,"position":2,"externalId":"0VP63pJ3ATtUeUUZrYD9SO","externalLink":"https://open.spotify.com/track/0VP63pJ3ATtUeUUZrYD9SO"}]}
+{"carriedBy":[{"release":"release/coldplay-we-pray-elyanna-version","discNumber":1,"position":2,"externalId":"0VP63pJ3ATtUeUUZrYD9SO","externalLink":"https://open.spotify.com/track/0VP63pJ3ATtUeUUZrYD9SO"},{"release":"release/coldplay-we-pray-tini-version","discNumber":1,"position":1,"externalId":"6OICQoNsUIcYsirqoDo08Y","externalLink":"https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"0VP63pJ3ATtUeUUZrYD9SO","externalLink":"https://open.spotify.com/track/0VP63pJ3ATtUeUUZrYD9SO","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ee-eb28-70ef-8753-f5e7a94d33b5"}
 {"ownLength":3.8901}
 {"ownProgress":3.8901}
-{"partOfCollections":["release/coldplay-we-pray-elyanna-version"]}
+{"partOfCollections":["release/coldplay-we-pray-elyanna-version","release/coldplay-we-pray-tini-version"]}
 {"position":2}
 {"slug":"coldplay-we-pray-elyanna-version-we-pray-tini-version"}
 {"song":"song/coldplay-we-pray"}

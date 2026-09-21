@@ -6,7 +6,10 @@ export const celticWoman2AncientLandAeFondKiss = {
   slug: "celtic-woman-2-ancient-land-ae-fond-kiss",
   ownLength: 3.9917666666666665,
   ownProgress: 3.9917666666666665,
-  partOfCollections: ["release/celtic-woman-2-ancient-land"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land",
+    "release/celtic-woman-2-ancient-land-deluxe",
+  ],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2AncientLandAeFondKiss = {
       position: 12,
       externalId: "5HUyQwyqXk5qDO7PyB2lWS",
       externalLink: "https://open.spotify.com/track/5HUyQwyqXk5qDO7PyB2lWS",
+    },
+    {
+      release: "release/celtic-woman-2-ancient-land-deluxe",
+      discNumber: 1,
+      position: 12,
+      externalId: "77bdzUwzuXiLUk39LyHWgt",
+      externalLink: "https://open.spotify.com/track/77bdzUwzuXiLUk39LyHWgt",
     },
   ],
 } as const satisfies Track

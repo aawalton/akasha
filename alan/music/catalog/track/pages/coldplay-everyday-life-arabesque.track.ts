@@ -6,7 +6,7 @@ export const coldplayEverydayLifeArabesque = {
   slug: "coldplay-everyday-life-arabesque",
   ownLength: 5.671333333333333,
   ownProgress: 5.671333333333333,
-  partOfCollections: ["release/coldplay-everyday-life"],
+  partOfCollections: ["release/coldplay-everyday-life", "release/coldplay-orphans-arabesque"],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayEverydayLifeArabesque = {
       position: 7,
       externalId: "0ZlVUhjO8c0bOx1D2Btznf",
       externalLink: "https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf",
+    },
+    {
+      release: "release/coldplay-orphans-arabesque",
+      discNumber: 1,
+      position: 2,
+      externalId: "2Z1HknKRrvUv5cheidF8Ag",
+      externalLink: "https://open.spotify.com/track/2Z1HknKRrvUv5cheidF8Ag",
     },
   ],
 } as const satisfies Track

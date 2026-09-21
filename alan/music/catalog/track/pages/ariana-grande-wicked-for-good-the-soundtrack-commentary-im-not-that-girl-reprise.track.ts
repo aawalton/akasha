@@ -6,7 +6,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-im-not-that-girl-reprise",
   ownLength: 2.1757666666666666,
   ownProgress: 2.1757666666666666,
-  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-for-good-the-soundtrack",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   trackKey: "imnotthatgirlreprise|66CXWjxzNUsdJxJ2JdwvnR|130546",
   song: "song/ariana-grande-i-m-not-that-girl",
   carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 6,
+      externalId: "22MepoED2nQFwUxH2ZnUx2",
+      externalLink: "https://open.spotify.com/track/22MepoED2nQFwUxH2ZnUx2",
+    },
     {
       release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
       discNumber: 1,

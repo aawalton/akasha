@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/paul-cardall-love-one-another","discNumber":1,"position":1,"externalId":"6jSeWJeDXcej6tOXk4QB4n","externalLink":"https://open.spotify.com/track/6jSeWJeDXcej6tOXk4QB4n"}]}
+{"carriedBy":[{"release":"release/paul-cardall-love-one-another","discNumber":1,"position":1,"externalId":"6jSeWJeDXcej6tOXk4QB4n","externalLink":"https://open.spotify.com/track/6jSeWJeDXcej6tOXk4QB4n"},{"release":"release/paul-cardall-return-home","discNumber":1,"position":3,"externalId":"3n8ZTiG1QT4zNQ4qhfSOos","externalLink":"https://open.spotify.com/track/3n8ZTiG1QT4zNQ4qhfSOos"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"6jSeWJeDXcej6tOXk4QB4n","externalLink":"https://open.spotify.com/track/6jSeWJeDXcej6tOXk4QB4n","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b4c8-6963-7a13-9f61-8a8a8bdc6e49"}
 {"ownLength":4.01385}
 {"ownProgress":4.01385}
-{"partOfCollections":["release/paul-cardall-love-one-another"]}
+{"partOfCollections":["release/paul-cardall-love-one-another","release/paul-cardall-return-home"]}
 {"position":1}
 {"slug":"paul-cardall-love-one-another-love-one-another"}
 {"song":"song/paul-cardall-love-one-another"}

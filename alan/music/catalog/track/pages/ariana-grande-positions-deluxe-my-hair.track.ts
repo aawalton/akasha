@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxeMyHair = {
   slug: "ariana-grande-positions-deluxe-my-hair",
   ownLength: 2.6406,
   ownProgress: 2.6406,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +26,13 @@ export const arianaGrandePositionsDeluxeMyHair = {
   trackKey: "myhair|66CXWjxzNUsdJxJ2JdwvnR|158436",
   song: "song/ariana-grande-my-hair",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 8,
+      externalId: "6u7gmPOz7pzzaeR9xSBpsR",
+      externalLink: "https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

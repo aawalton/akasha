@@ -6,7 +6,10 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
   slug: "imagine-dragons-demons-telykast-remix-demons-telykast-remix",
   ownLength: 2.9354666666666667,
   ownProgress: 2.9354666666666667,
-  partOfCollections: ["release/imagine-dragons-demons-telykast-remix"],
+  partOfCollections: [
+    "release/imagine-dragons-demons-telykast-remix",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
       position: 1,
       externalId: "72jFYj77ULwaxXA5qelI2w",
       externalLink: "https://open.spotify.com/track/72jFYj77ULwaxXA5qelI2w",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 3,
+      externalId: "3WyXiL13ibqml4O6YnfQxB",
+      externalLink: "https://open.spotify.com/track/3WyXiL13ibqml4O6YnfQxB",
     },
   ],
 } as const satisfies Track

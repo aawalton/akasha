@@ -6,7 +6,10 @@ export const zaraLarssonPosterGirlSummerEditionWow = {
   slug: "zara-larsson-poster-girl-summer-edition-wow",
   ownLength: 2.98485,
   ownProgress: 2.98485,
-  partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
+  partOfCollections: [
+    "release/zara-larsson-poster-girl-summer-edition",
+    "release/zara-larsson-poster-girl",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const zaraLarssonPosterGirlSummerEditionWow = {
   trackKey: "wow|1Xylc3o4UrD53lo9CvFvVg|179091",
   song: "song/zara-larsson-wow",
   carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl",
+      discNumber: 1,
+      position: 5,
+      externalId: "7Hl6ugkpaxbkseHzSnqlxB",
+      externalLink: "https://open.spotify.com/track/7Hl6ugkpaxbkseHzSnqlxB",
+    },
     {
       release: "release/zara-larsson-poster-girl-summer-edition",
       discNumber: 1,

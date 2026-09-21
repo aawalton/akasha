@@ -6,7 +6,10 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
   slug: "vinny-marchi-didn-t-come-all-this-way-didnt-come-all-this-way",
   ownLength: 2.5641,
   ownProgress: 2.5641,
-  partOfCollections: ["release/vinny-marchi-didn-t-come-all-this-way"],
+  partOfCollections: [
+    "release/vinny-marchi-didn-t-come-all-this-way",
+    "release/vinny-marchi-tales-of-the-lesbian-hunter",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
       position: 1,
       externalId: "3YKqgzI9qKZDpzUoptGANJ",
       externalLink: "https://open.spotify.com/track/3YKqgzI9qKZDpzUoptGANJ",
+    },
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 10,
+      externalId: "4CoIGoKauG5COr0s5LKccj",
+      externalLink: "https://open.spotify.com/track/4CoIGoKauG5COr0s5LKccj",
     },
   ],
 } as const satisfies Track

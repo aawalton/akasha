@@ -6,7 +6,10 @@ export const celticWoman2NollaigAChristmasJourneyNollaigNaMban = {
   slug: "celtic-woman-2-nollaig-a-christmas-journey-nollaig-na-mban",
   ownLength: 4.7793833333333335,
   ownProgress: 4.7793833333333335,
-  partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
+  partOfCollections: [
+    "release/celtic-woman-2-nollaig-a-christmas-journey",
+    "release/celtic-woman-2-nollaig-na-mban",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const celticWoman2NollaigAChristmasJourneyNollaigNaMban = {
       position: 2,
       externalId: "0K80LLk2ilqtNl6MAbmzR7",
       externalLink: "https://open.spotify.com/track/0K80LLk2ilqtNl6MAbmzR7",
+    },
+    {
+      release: "release/celtic-woman-2-nollaig-na-mban",
+      discNumber: 1,
+      position: 1,
+      externalId: "2qWuetc3xVFmKJ7s2CSVjK",
+      externalLink: "https://open.spotify.com/track/2qWuetc3xVFmKJ7s2CSVjK",
     },
   ],
 } as const satisfies Track

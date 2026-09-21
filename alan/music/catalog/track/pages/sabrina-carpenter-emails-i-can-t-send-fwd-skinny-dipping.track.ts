@@ -6,7 +6,12 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-skinny-dipping",
   ownLength: 2.9625,
   ownProgress: 2.9625,
-  partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
+  partOfCollections: [
+    "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+    "release/sabrina-carpenter-emails-i-can-t-send",
+    "release/sabrina-carpenter-skinny-dipping-acoustic",
+    "release/sabrina-carpenter-skinny-dipping",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +32,32 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
   song: "song/sabrina-carpenter-skinny-dipping",
   carriedBy: [
     {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 11,
+      externalId: "1ZvbLYAXwvMfaPtN65QF2D",
+      externalLink: "https://open.spotify.com/track/1ZvbLYAXwvMfaPtN65QF2D",
+    },
+    {
       release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
       discNumber: 1,
       position: 11,
       externalId: "436RVcyrHyXdqYNWGYMxx5",
       externalLink: "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5",
+    },
+    {
+      release: "release/sabrina-carpenter-skinny-dipping",
+      discNumber: 1,
+      position: 1,
+      externalId: "7u6HtmuMeuiVdwwFul5xHi",
+      externalLink: "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi",
+    },
+    {
+      release: "release/sabrina-carpenter-skinny-dipping-acoustic",
+      discNumber: 1,
+      position: 2,
+      externalId: "45OXcucp7vRS6QrFXq2II3",
+      externalLink: "https://open.spotify.com/track/45OXcucp7vRS6QrFXq2II3",
     },
   ],
 } as const satisfies Track

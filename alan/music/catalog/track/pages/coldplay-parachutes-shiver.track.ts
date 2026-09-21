@@ -6,7 +6,7 @@ export const coldplayParachutesShiver = {
   slug: "coldplay-parachutes-shiver",
   ownLength: 5.07,
   ownProgress: 5.07,
-  partOfCollections: ["release/coldplay-parachutes"],
+  partOfCollections: ["release/coldplay-parachutes", "release/coldplay-shiver"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayParachutesShiver = {
       position: 2,
       externalId: "0qksx8mV28lztYIZ1om8ml",
       externalLink: "https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml",
+    },
+    {
+      release: "release/coldplay-shiver",
+      discNumber: 1,
+      position: 1,
+      externalId: "6LFG5WLD8KWSb308OU35q9",
+      externalLink: "https://open.spotify.com/track/6LFG5WLD8KWSb308OU35q9",
     },
   ],
 } as const satisfies Track

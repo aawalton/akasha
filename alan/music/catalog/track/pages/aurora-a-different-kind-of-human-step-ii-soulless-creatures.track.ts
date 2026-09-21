@@ -6,7 +6,10 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
   slug: "aurora-a-different-kind-of-human-step-ii-soulless-creatures",
   ownLength: 5.034083333333333,
   ownProgress: 5.034083333333333,
-  partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
+  partOfCollections: [
+    "release/aurora-a-different-kind-of-human-step-ii",
+    "release/aurora-music-for-the-fellow-witches-out-there",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
       position: 6,
       externalId: "5kOoS00ZvYZ9Mvpe1dZEor",
       externalLink: "https://open.spotify.com/track/5kOoS00ZvYZ9Mvpe1dZEor",
+    },
+    {
+      release: "release/aurora-music-for-the-fellow-witches-out-there",
+      discNumber: 1,
+      position: 1,
+      externalId: "1aamix0moshQFrxhRuQ5hv",
+      externalLink: "https://open.spotify.com/track/1aamix0moshQFrxhRuQ5hv",
     },
   ],
 } as const satisfies Track

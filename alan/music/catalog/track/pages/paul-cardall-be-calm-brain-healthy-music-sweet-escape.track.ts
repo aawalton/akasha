@@ -6,7 +6,10 @@ export const paulCardallBeCalmBrainHealthyMusicSweetEscape = {
   slug: "paul-cardall-be-calm-brain-healthy-music-sweet-escape",
   ownLength: 3.14355,
   ownProgress: 3.14355,
-  partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
+  partOfCollections: [
+    "release/paul-cardall-be-calm-brain-healthy-music",
+    "release/paul-cardall-sacred-piano",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallBeCalmBrainHealthyMusicSweetEscape = {
       position: 4,
       externalId: "7bwd9S6n7kHPHKj2Tal7Fo",
       externalLink: "https://open.spotify.com/track/7bwd9S6n7kHPHKj2Tal7Fo",
+    },
+    {
+      release: "release/paul-cardall-sacred-piano",
+      discNumber: 1,
+      position: 5,
+      externalId: "4gyhq95o5WmoWjUeFkqkAV",
+      externalLink: "https://open.spotify.com/track/4gyhq95o5WmoWjUeFkqkAV",
     },
   ],
 } as const satisfies Track

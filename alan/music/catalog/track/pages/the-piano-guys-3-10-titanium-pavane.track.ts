@@ -6,7 +6,7 @@ export const thePianoGuys310TitaniumPavane = {
   slug: "the-piano-guys-3-10-titanium-pavane",
   ownLength: 4.804683333333333,
   ownProgress: 4.804683333333333,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: ["release/the-piano-guys-3-10", "release/the-piano-guys-3-pop-on-piano"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys310TitaniumPavane = {
       position: 3,
       externalId: "2pRQWVXpdZ6BpQ106o7yma",
       externalLink: "https://open.spotify.com/track/2pRQWVXpdZ6BpQ106o7yma",
+    },
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 9,
+      externalId: "6OtJhd8UAocI8RY4fpBztO",
+      externalLink: "https://open.spotify.com/track/6OtJhd8UAocI8RY4fpBztO",
     },
   ],
 } as const satisfies Track

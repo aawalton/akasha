@@ -8,6 +8,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDulaman = 
   ownProgress: 3.0851,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+    "release/celtic-woman-2-the-greatest-journey-essential-collection",
   ],
   position: 3,
   status: "completed",
@@ -34,6 +35,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDulaman = 
       position: 3,
       externalId: "3jqI6oQPH12DBt7XL7Ytub",
       externalLink: "https://open.spotify.com/track/3jqI6oQPH12DBt7XL7Ytub",
+    },
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 11,
+      externalId: "3i6oCxWyrIxTeBMTmICiYG",
+      externalLink: "https://open.spotify.com/track/3i6oCxWyrIxTeBMTmICiYG",
     },
   ],
 } as const satisfies Track

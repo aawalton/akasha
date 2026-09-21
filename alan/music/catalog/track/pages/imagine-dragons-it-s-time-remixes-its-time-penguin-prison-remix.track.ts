@@ -6,7 +6,10 @@ export const imagineDragonsItSTimeRemixesItsTimePenguinPrisonRemix = {
   slug: "imagine-dragons-it-s-time-remixes-its-time-penguin-prison-remix",
   ownLength: 4.390666666666666,
   ownProgress: 4.390666666666666,
-  partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
+  partOfCollections: [
+    "release/imagine-dragons-it-s-time-remixes",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const imagineDragonsItSTimeRemixesItsTimePenguinPrisonRemix = {
       position: 1,
       externalId: "40Kb4C2wJ4R19xz0kQpU9S",
       externalLink: "https://open.spotify.com/track/40Kb4C2wJ4R19xz0kQpU9S",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 11,
+      externalId: "1XIRdNn3L1s9lfgbhK3RYp",
+      externalLink: "https://open.spotify.com/track/1XIRdNn3L1s9lfgbhK3RYp",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
   slug: "the-piano-guys-3-10-kung-fu-piano-cello-ascends",
   ownLength: 4.04705,
   ownProgress: 4.04705,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
       position: 6,
       externalId: "6CR8JUW0AOPTGhCrz0P6dC",
       externalLink: "https://open.spotify.com/track/6CR8JUW0AOPTGhCrz0P6dC",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 3,
+      externalId: "3AJkijY8fS8mFae3TvZQM3",
+      externalLink: "https://open.spotify.com/track/3AJkijY8fS8mFae3TvZQM3",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalWit
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-supernatural-with-troye-sivan-remix",
   ownLength: 2.7230166666666666,
   ownProgress: 2.7230166666666666,
-  partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
+  partOfCollections: [
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+  ],
   position: 15,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +32,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalWit
   trackKey: "supernaturalwithtroyesivanremix|3WGpXCj9YhhfX11TToZcXP,66CXWjxzNUsdJxJ2JdwvnR|163381",
   song: "song/ariana-grande-supernatural",
   carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 14,
+      externalId: "3iJOkxYP59kFJ5OLgHo4Tp",
+      externalLink: "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp",
+    },
     {
       release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
       discNumber: 1,

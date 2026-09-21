@@ -6,7 +6,7 @@ export const imagineDragonsBirdsBirds = {
   slug: "imagine-dragons-birds-birds",
   ownLength: 3.6573333333333333,
   ownProgress: 3.6573333333333333,
-  partOfCollections: ["release/imagine-dragons-birds"],
+  partOfCollections: ["release/imagine-dragons-birds", "release/imagine-dragons-origins-deluxe"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const imagineDragonsBirdsBirds = {
       position: 2,
       externalId: "2DWn3Qnk2MLaKSR2O6BcI6",
       externalLink: "https://open.spotify.com/track/2DWn3Qnk2MLaKSR2O6BcI6",
+    },
+    {
+      release: "release/imagine-dragons-origins-deluxe",
+      discNumber: 1,
+      position: 13,
+      externalId: "6Tvzf3VEi16JMhAgOwdt2y",
+      externalLink: "https://open.spotify.com/track/6Tvzf3VEi16JMhAgOwdt2y",
     },
   ],
 } as const satisfies Track

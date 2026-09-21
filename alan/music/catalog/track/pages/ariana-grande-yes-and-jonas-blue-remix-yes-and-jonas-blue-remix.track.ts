@@ -6,7 +6,10 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
   slug: "ariana-grande-yes-and-jonas-blue-remix-yes-and-jonas-blue-remix",
   ownLength: 3.5483833333333332,
   ownProgress: 3.5483833333333332,
-  partOfCollections: ["release/ariana-grande-yes-and-jonas-blue-remix"],
+  partOfCollections: [
+    "release/ariana-grande-yes-and-jonas-blue-remix",
+    "release/ariana-grande-yes-and-remixes",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
       position: 1,
       externalId: "3oVfohX6LdBkD568rzE8Y7",
       externalLink: "https://open.spotify.com/track/3oVfohX6LdBkD568rzE8Y7",
+    },
+    {
+      release: "release/ariana-grande-yes-and-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "62iX6bbxe9T81LrNwqre3p",
+      externalLink: "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p",
     },
   ],
 } as const satisfies Track

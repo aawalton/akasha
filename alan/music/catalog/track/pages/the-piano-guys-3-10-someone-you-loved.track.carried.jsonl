@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/the-piano-guys-3-10","discNumber":1,"position":7,"externalId":"2sindV5MPoBIkAW02OFtHF","externalLink":"https://open.spotify.com/track/2sindV5MPoBIkAW02OFtHF"}]}
+{"carriedBy":[{"release":"release/the-piano-guys-3-10","discNumber":1,"position":7,"externalId":"2sindV5MPoBIkAW02OFtHF","externalLink":"https://open.spotify.com/track/2sindV5MPoBIkAW02OFtHF"},{"release":"release/the-piano-guys-3-pop-on-piano","discNumber":1,"position":5,"externalId":"4ujEHSTeMg1UjA1N4NETbJ","externalLink":"https://open.spotify.com/track/4ujEHSTeMg1UjA1N4NETbJ"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"2sindV5MPoBIkAW02OFtHF","externalLink":"https://open.spotify.com/track/2sindV5MPoBIkAW02OFtHF","lastSyncedAt":"2026-09-17"}]}
 {"id":"01a0afa2-0b17-7570-909c-c1753442342f"}
 {"ownLength":3.3857}
 {"ownProgress":3.3857}
-{"partOfCollections":["release/the-piano-guys-3-10"]}
+{"partOfCollections":["release/the-piano-guys-3-10","release/the-piano-guys-3-pop-on-piano"]}
 {"position":7}
 {"slug":"the-piano-guys-3-10-someone-you-loved"}
 {"song":"song/the-piano-guys-someone-you-loved"}

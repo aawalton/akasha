@@ -6,7 +6,10 @@ export const celticWoman2CelticWomanTheButterfly = {
   slug: "celtic-woman-2-celtic-woman-the-butterfly",
   ownLength: 3.0037666666666665,
   ownProgress: 3.0037666666666665,
-  partOfCollections: ["release/celtic-woman-2-celtic-woman"],
+  partOfCollections: [
+    "release/celtic-woman-2-celtic-woman",
+    "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2CelticWomanTheButterfly = {
       position: 13,
       externalId: "1Doqw5c9ilLdxIVbGIPW9k",
       externalLink: "https://open.spotify.com/track/1Doqw5c9ilLdxIVbGIPW9k",
+    },
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 4,
+      externalId: "51KJG8koxoIVNcuQeYINQp",
+      externalLink: "https://open.spotify.com/track/51KJG8koxoIVNcuQeYINQp",
     },
   ],
 } as const satisfies Track

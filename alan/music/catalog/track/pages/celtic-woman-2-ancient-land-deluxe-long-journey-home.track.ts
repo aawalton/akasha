@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeLongJourneyHome = {
   slug: "celtic-woman-2-ancient-land-deluxe-long-journey-home",
   ownLength: 3.2226666666666666,
   ownProgress: 3.2226666666666666,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeLongJourneyHome = {
   trackKey: "longjourneyhome|6NWtt9pNOL2Gx7kBykdE5x|193360",
   song: "song/celtic-woman-long-journey-home",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 10,
+      externalId: "4IP75UMiMSuGJgY2uj9H6s",
+      externalLink: "https://open.spotify.com/track/4IP75UMiMSuGJgY2uj9H6s",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

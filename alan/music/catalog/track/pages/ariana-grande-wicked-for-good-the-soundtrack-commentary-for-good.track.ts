@@ -6,7 +6,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGood = {
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-for-good",
   ownLength: 6.284966666666667,
   ownProgress: 6.284966666666667,
-  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-for-good-the-soundtrack",
+  ],
   position: 23,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +32,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGood = {
   trackKey: "forgood|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|377098",
   song: "song/ariana-grande-for-good",
   carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 11,
+      externalId: "5shGj5OOnpmg4tQlFjyzZY",
+      externalLink: "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY",
+    },
     {
       release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
       discNumber: 1,

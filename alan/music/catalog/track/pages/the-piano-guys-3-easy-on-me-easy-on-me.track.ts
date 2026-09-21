@@ -6,7 +6,11 @@ export const thePianoGuys3EasyOnMeEasyOnMe = {
   slug: "the-piano-guys-3-easy-on-me-easy-on-me",
   ownLength: 2.9859,
   ownProgress: 2.9859,
-  partOfCollections: ["release/the-piano-guys-3-easy-on-me"],
+  partOfCollections: [
+    "release/the-piano-guys-3-easy-on-me",
+    "release/the-piano-guys-3-unstoppable-2",
+    "release/the-piano-guys-piano-focus",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const thePianoGuys3EasyOnMeEasyOnMe = {
       position: 1,
       externalId: "1ndm9V7DmeI3kOOMwaCMzk",
       externalLink: "https://open.spotify.com/track/1ndm9V7DmeI3kOOMwaCMzk",
+    },
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 6,
+      externalId: "3gXgHus2I2Z2LzUgISqCap",
+      externalLink: "https://open.spotify.com/track/3gXgHus2I2Z2LzUgISqCap",
+    },
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 8,
+      externalId: "1Acs6mGwPJhv8aiIbZvs6t",
+      externalLink: "https://open.spotify.com/track/1Acs6mGwPJhv8aiIbZvs6t",
     },
   ],
 } as const satisfies Track

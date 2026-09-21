@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/imagine-dragons-night-visions-deluxe","discNumber":1,"position":5,"externalId":"6KuHjfXHkfnIjdmcIvt9r0","externalLink":"https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"}]}
+{"carriedBy":[{"release":"release/imagine-dragons-night-visions","discNumber":1,"position":5,"externalId":"6Qj1WXW41Mn3Fh9V2sHphM","externalLink":"https://open.spotify.com/track/6Qj1WXW41Mn3Fh9V2sHphM"},{"release":"release/imagine-dragons-night-visions-deluxe","discNumber":1,"position":5,"externalId":"6KuHjfXHkfnIjdmcIvt9r0","externalLink":"https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"6KuHjfXHkfnIjdmcIvt9r0","externalLink":"https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0","lastSyncedAt":"2026-09-21"}]}
 {"id":"01a0c43f-d706-71c4-89e8-05cbdfff74fb"}
 {"ownLength":3.164}
 {"ownProgress":3.164}
-{"partOfCollections":["release/imagine-dragons-night-visions-deluxe"]}
+{"partOfCollections":["release/imagine-dragons-night-visions-deluxe","release/imagine-dragons-night-visions"]}
 {"position":5}
 {"slug":"imagine-dragons-night-visions-deluxe-on-top-of-the-world"}
 {"song":"song/imagine-dragons-on-top-of-the-world"}

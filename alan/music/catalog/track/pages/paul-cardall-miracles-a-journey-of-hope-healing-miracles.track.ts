@@ -6,7 +6,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingMiracles = {
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-miracles",
   ownLength: 4.7871,
   ownProgress: 4.7871,
-  partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
+  partOfCollections: [
+    "release/paul-cardall-miracles-a-journey-of-hope-healing",
+    "release/paul-cardall-saving-tiny-hearts",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const paulCardallMiraclesAJourneyOfHopeHealingMiracles = {
       position: 1,
       externalId: "3pvaOAc9478HNlW4GJMNrp",
       externalLink: "https://open.spotify.com/track/3pvaOAc9478HNlW4GJMNrp",
+    },
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 4,
+      externalId: "4EAZb7BXKd1Hl8Radtavmb",
+      externalLink: "https://open.spotify.com/track/4EAZb7BXKd1Hl8Radtavmb",
     },
   ],
 } as const satisfies Track

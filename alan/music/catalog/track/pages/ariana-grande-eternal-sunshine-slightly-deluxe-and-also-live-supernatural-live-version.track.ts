@@ -6,7 +6,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalLiv
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-supernatural-live-version",
   ownLength: 2.7262333333333335,
   ownProgress: 2.7262333333333335,
-  partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
+  partOfCollections: [
+    "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+    "release/ariana-grande-supernatural",
+  ],
   position: 21,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSupernaturalLiv
       position: 21,
       externalId: "0FnkhFA4h80IYaYGgKFI2M",
       externalLink: "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M",
+    },
+    {
+      release: "release/ariana-grande-supernatural",
+      discNumber: 1,
+      position: 3,
+      externalId: "7LJAKnc0kpHkU0smvsEe6c",
+      externalLink: "https://open.spotify.com/track/7LJAKnc0kpHkU0smvsEe6c",
     },
   ],
 } as const satisfies Track

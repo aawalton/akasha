@@ -6,7 +6,10 @@ export const thePianoGuys310FurEliseJam = {
   slug: "the-piano-guys-3-10-fur-elise-jam",
   ownLength: 2.1148833333333332,
   ownProgress: 2.1148833333333332,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310FurEliseJam = {
       position: 3,
       externalId: "243OYD9RRSZbBFEcDLrQv4",
       externalLink: "https://open.spotify.com/track/243OYD9RRSZbBFEcDLrQv4",
+    },
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 7,
+      externalId: "121xDi99fhyvOQy8MLOuKm",
+      externalLink: "https://open.spotify.com/track/121xDi99fhyvOQy8MLOuKm",
     },
   ],
 } as const satisfies Track

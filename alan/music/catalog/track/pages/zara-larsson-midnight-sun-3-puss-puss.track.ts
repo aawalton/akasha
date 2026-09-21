@@ -6,7 +6,10 @@ export const zaraLarssonMidnightSun3PussPuss = {
   slug: "zara-larsson-midnight-sun-3-puss-puss",
   ownLength: 3.8019666666666665,
   ownProgress: 3.8019666666666665,
-  partOfCollections: ["release/zara-larsson-midnight-sun-3"],
+  partOfCollections: [
+    "release/zara-larsson-midnight-sun-3",
+    "release/zara-larsson-midnight-sun-girls-trip",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const zaraLarssonMidnightSun3PussPuss = {
       position: 10,
       externalId: "3TWc9D5uVyosC49bamnJBa",
       externalLink: "https://open.spotify.com/track/3TWc9D5uVyosC49bamnJBa",
+    },
+    {
+      release: "release/zara-larsson-midnight-sun-girls-trip",
+      discNumber: 2,
+      position: 10,
+      externalId: "1RDJPcDoF8yFiAEoehJmH4",
+      externalLink: "https://open.spotify.com/track/1RDJPcDoF8yFiAEoehJmH4",
     },
   ],
 } as const satisfies Track

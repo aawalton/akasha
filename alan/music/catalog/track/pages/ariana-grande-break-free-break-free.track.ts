@@ -6,7 +6,10 @@ export const arianaGrandeBreakFreeBreakFree = {
   slug: "ariana-grande-break-free-break-free",
   ownLength: 3.5807166666666665,
   ownProgress: 3.5807166666666665,
-  partOfCollections: ["release/ariana-grande-break-free"],
+  partOfCollections: [
+    "release/ariana-grande-break-free",
+    "release/ariana-grande-my-everything-tenth-anniversary-edition",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const arianaGrandeBreakFreeBreakFree = {
       position: 1,
       externalId: "2lOgTEwxmRPBtjp60opyRN",
       externalLink: "https://open.spotify.com/track/2lOgTEwxmRPBtjp60opyRN",
+    },
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "7qQKhhQkLGxDKeF0EY2uH6",
+      externalLink: "https://open.spotify.com/track/7qQKhhQkLGxDKeF0EY2uH6",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const thePianoGuys310AMillionDreams = {
   slug: "the-piano-guys-3-10-a-million-dreams",
   ownLength: 4.751883333333334,
   ownProgress: 4.751883333333334,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310AMillionDreams = {
       position: 8,
       externalId: "46qfd3eMFxvrUVS9yu9g9H",
       externalLink: "https://open.spotify.com/track/46qfd3eMFxvrUVS9yu9g9H",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 9,
+      externalId: "43ASUvZueyQ3vC4Gy1GqGL",
+      externalLink: "https://open.spotify.com/track/43ASUvZueyQ3vC4Gy1GqGL",
     },
   ],
 } as const satisfies Track

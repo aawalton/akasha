@@ -6,7 +6,7 @@ export const emei9Lives9Lives = {
   slug: "emei-9-lives-9-lives",
   ownLength: 3.0375833333333335,
   ownProgress: 3.0375833333333335,
-  partOfCollections: ["release/emei-9-lives"],
+  partOfCollections: ["release/emei-9-lives", "release/emei-rabbithole-2"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emei9Lives9Lives = {
       position: 1,
       externalId: "64APtv04ls8z8Cjv6iGUsY",
       externalLink: "https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY",
+    },
+    {
+      release: "release/emei-rabbithole-2",
+      discNumber: 1,
+      position: 3,
+      externalId: "67Zmvqz78sjJwhHyT94DOZ",
+      externalLink: "https://open.spotify.com/track/67Zmvqz78sjJwhHyT94DOZ",
     },
   ],
 } as const satisfies Track

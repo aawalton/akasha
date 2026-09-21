@@ -6,7 +6,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOneLastTime = {
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-one-last-time",
   ownLength: 3.2879666666666667,
   ownProgress: 3.2879666666666667,
-  partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
+  partOfCollections: [
+    "release/ariana-grande-my-everything-tenth-anniversary-edition",
+    "release/ariana-grande-one-last-time",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOneLastTime = {
       position: 3,
       externalId: "0e6qFb4yA7MkyHA9Cpb6c1",
       externalLink: "https://open.spotify.com/track/0e6qFb4yA7MkyHA9Cpb6c1",
+    },
+    {
+      release: "release/ariana-grande-one-last-time",
+      discNumber: 1,
+      position: 1,
+      externalId: "1043bXNgWDCWM2rhvieIh9",
+      externalLink: "https://open.spotify.com/track/1043bXNgWDCWM2rhvieIh9",
     },
   ],
 } as const satisfies Track

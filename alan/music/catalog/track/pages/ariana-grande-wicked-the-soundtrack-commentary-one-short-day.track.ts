@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDay = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-one-short-day",
   ownLength: 6.544466666666667,
   ownProgress: 6.544466666666667,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 19,
   status: "completed",
   unit: "unit/minutes",
@@ -34,11 +38,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDay = {
   song: "song/ariana-grande-one-short-day",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 9,
+      externalId: "5FzyDdVHJ0Gzu4rUwShfzx",
+      externalLink: "https://open.spotify.com/track/5FzyDdVHJ0Gzu4rUwShfzx",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 19,
       externalId: "2OXU1jam2Xc4BLDgsABQc4",
       externalLink: "https://open.spotify.com/track/2OXU1jam2Xc4BLDgsABQc4",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 9,
+      externalId: "4jNerIJa2IOeL5gVDvMNLW",
+      externalLink: "https://open.spotify.com/track/4jNerIJa2IOeL5gVDvMNLW",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const arianaGrandeDangerousWomanSometimes = {
   slug: "ariana-grande-dangerous-woman-sometimes",
   ownLength: 3.7777666666666665,
   ownProgress: 3.7777666666666665,
-  partOfCollections: ["release/ariana-grande-dangerous-woman"],
+  partOfCollections: [
+    "release/ariana-grande-dangerous-woman",
+    "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const arianaGrandeDangerousWomanSometimes = {
       position: 10,
       externalId: "7IqSduDsieo2epoqA97NxC",
       externalLink: "https://open.spotify.com/track/7IqSduDsieo2epoqA97NxC",
+    },
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 10,
+      externalId: "3a1mMCctccHQQH52l15nmJ",
+      externalLink: "https://open.spotify.com/track/3a1mMCctccHQQH52l15nmJ",
     },
   ],
 } as const satisfies Track

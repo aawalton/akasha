@@ -6,7 +6,10 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
   slug: "aurora-runaway-guitar-acoustic-runaway-guitar-acoustic",
   ownLength: 4.329983333333334,
   ownProgress: 4.329983333333334,
-  partOfCollections: ["release/aurora-runaway-guitar-acoustic"],
+  partOfCollections: [
+    "release/aurora-runaway-guitar-acoustic",
+    "release/aurora-runaway-piano-acoustic",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
       position: 1,
       externalId: "7zfV4jqXVfM7vzd0uojGZN",
       externalLink: "https://open.spotify.com/track/7zfV4jqXVfM7vzd0uojGZN",
+    },
+    {
+      release: "release/aurora-runaway-piano-acoustic",
+      discNumber: 1,
+      position: 2,
+      externalId: "2VkSgNcU9IH45EY3O7Z0lj",
+      externalLink: "https://open.spotify.com/track/2VkSgNcU9IH45EY3O7Z0lj",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackAsLongAsYoureMine = {
   slug: "ariana-grande-wicked-for-good-the-soundtrack-as-long-as-youre-mine",
   ownLength: 4.10955,
   ownProgress: 4.10955,
-  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-for-good-the-soundtrack",
+    "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackAsLongAsYoureMine = {
       position: 7,
       externalId: "59vtqGF0p7RgNjnzC9Zk2p",
       externalLink: "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p",
+    },
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 15,
+      externalId: "6teApADZl7JnENHdkAQ4Gm",
+      externalLink: "https://open.spotify.com/track/6teApADZl7JnENHdkAQ4Gm",
     },
   ],
 } as const satisfies Track

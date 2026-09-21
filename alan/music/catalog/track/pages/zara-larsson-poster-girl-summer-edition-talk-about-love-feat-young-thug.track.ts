@@ -6,7 +6,10 @@ export const zaraLarssonPosterGirlSummerEditionTalkAboutLoveFeatYoungThug = {
   slug: "zara-larsson-poster-girl-summer-edition-talk-about-love-feat-young-thug",
   ownLength: 3.3295666666666666,
   ownProgress: 3.3295666666666666,
-  partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
+  partOfCollections: [
+    "release/zara-larsson-poster-girl-summer-edition",
+    "release/zara-larsson-poster-girl",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +32,13 @@ export const zaraLarssonPosterGirlSummerEditionTalkAboutLoveFeatYoungThug = {
   trackKey: "talkaboutlovefeatyoungthug|1Xylc3o4UrD53lo9CvFvVg,50co4Is1HCEo8bhOyUWKpn|199774",
   song: "song/zara-larsson-talk-about-love",
   carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl",
+      discNumber: 1,
+      position: 2,
+      externalId: "5UkMXb3IfK9fTCCrMr0v9A",
+      externalLink: "https://open.spotify.com/track/5UkMXb3IfK9fTCCrMr0v9A",
+    },
     {
       release: "release/zara-larsson-poster-girl-summer-edition",
       discNumber: 1,

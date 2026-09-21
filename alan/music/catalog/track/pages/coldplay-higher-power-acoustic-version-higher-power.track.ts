@@ -6,7 +6,11 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
   slug: "coldplay-higher-power-acoustic-version-higher-power",
   ownLength: 3.5215666666666667,
   ownProgress: 3.5215666666666667,
-  partOfCollections: ["release/coldplay-higher-power-acoustic-version"],
+  partOfCollections: [
+    "release/coldplay-higher-power-acoustic-version",
+    "release/coldplay-higher-power-alyx-ander-remix",
+    "release/coldplay-higher-power",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
   song: "song/coldplay-higher-power",
   carriedBy: [
     {
+      release: "release/coldplay-higher-power",
+      discNumber: 1,
+      position: 1,
+      externalId: "0939D7aT18uBDS2MTjWzct",
+      externalLink: "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct",
+    },
+    {
       release: "release/coldplay-higher-power-acoustic-version",
       discNumber: 1,
       position: 2,
       externalId: "77jJZBmiozygu5IYfPun2B",
       externalLink: "https://open.spotify.com/track/77jJZBmiozygu5IYfPun2B",
+    },
+    {
+      release: "release/coldplay-higher-power-alyx-ander-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "4tJJOIQVtzIG9i21VHu35z",
+      externalLink: "https://open.spotify.com/track/4tJJOIQVtzIG9i21VHu35z",
     },
   ],
 } as const satisfies Track

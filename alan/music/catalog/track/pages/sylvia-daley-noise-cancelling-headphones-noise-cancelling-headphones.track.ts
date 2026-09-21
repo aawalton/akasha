@@ -6,7 +6,11 @@ export const sylviaDaleyNoiseCancellingHeadphonesNoiseCancellingHeadphones = {
   slug: "sylvia-daley-noise-cancelling-headphones-noise-cancelling-headphones",
   ownLength: 2.9577,
   ownProgress: 2.9577,
-  partOfCollections: ["release/sylvia-daley-noise-cancelling-headphones"],
+  partOfCollections: [
+    "release/sylvia-daley-noise-cancelling-headphones",
+    "release/sylvia-daley-rubik-s-cube",
+    "release/sylvia-daley-secure",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const sylviaDaleyNoiseCancellingHeadphonesNoiseCancellingHeadphones = {
       position: 1,
       externalId: "2uj8au1fO2WEh6EkQs7J2n",
       externalLink: "https://open.spotify.com/track/2uj8au1fO2WEh6EkQs7J2n",
+    },
+    {
+      release: "release/sylvia-daley-rubik-s-cube",
+      discNumber: 1,
+      position: 2,
+      externalId: "7HNTjdPI8rPPnJMllHZmoR",
+      externalLink: "https://open.spotify.com/track/7HNTjdPI8rPPnJMllHZmoR",
+    },
+    {
+      release: "release/sylvia-daley-secure",
+      discNumber: 1,
+      position: 3,
+      externalId: "1GsTVZFWRXVrOXUrFdmh5w",
+      externalLink: "https://open.spotify.com/track/1GsTVZFWRXVrOXUrFdmh5w",
     },
   ],
 } as const satisfies Track

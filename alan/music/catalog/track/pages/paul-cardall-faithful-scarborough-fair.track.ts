@@ -6,7 +6,7 @@ export const paulCardallFaithfulScarboroughFair = {
   slug: "paul-cardall-faithful-scarborough-fair",
   ownLength: 3.713766666666667,
   ownProgress: 3.713766666666667,
-  partOfCollections: ["release/paul-cardall-faithful"],
+  partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallFaithfulScarboroughFair = {
       position: 4,
       externalId: "2SBbX0Yvk7JhkBqEdIzLru",
       externalLink: "https://open.spotify.com/track/2SBbX0Yvk7JhkBqEdIzLru",
+    },
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 10,
+      externalId: "47SHSVRz8fEVfssJ3Z6wlS",
+      externalLink: "https://open.spotify.com/track/47SHSVRz8fEVfssJ3Z6wlS",
     },
   ],
 } as const satisfies Track

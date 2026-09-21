@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndI = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-the-wizard-and-i",
   ownLength: 5.6143,
   ownProgress: 5.6143,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndI = {
   song: "song/ariana-grande-the-wizard-and-i",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 3,
+      externalId: "1foaMdjhl4LNVQFYxMZANx",
+      externalLink: "https://open.spotify.com/track/1foaMdjhl4LNVQFYxMZANx",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 7,
       externalId: "7f5TtZfS8rDAsDHS9E6fou",
       externalLink: "https://open.spotify.com/track/7f5TtZfS8rDAsDHS9E6fou",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 3,
+      externalId: "4mxj6SQ7BxfQ90CBTbxcwH",
+      externalLink: "https://open.spotify.com/track/4mxj6SQ7BxfQ90CBTbxcwH",
     },
   ],
 } as const satisfies Track

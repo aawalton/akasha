@@ -6,7 +6,11 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
   slug: "aurora-infections-of-a-different-kind-step-i-queendom",
   ownLength: 3.444,
   ownProgress: 3.444,
-  partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
+  partOfCollections: [
+    "release/aurora-infections-of-a-different-kind-step-i",
+    "release/aurora-music-for-the-free-spirits",
+    "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
       position: 1,
       externalId: "3nXcufQxUfluhkX4rvMlGi",
       externalLink: "https://open.spotify.com/track/3nXcufQxUfluhkX4rvMlGi",
+    },
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 5,
+      externalId: "5GPyOwkaw56kiRI1gZNBtf",
+      externalLink: "https://open.spotify.com/track/5GPyOwkaw56kiRI1gZNBtf",
+    },
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 16,
+      externalId: "4KL2R4rnk43g8a2t0ZObhb",
+      externalLink: "https://open.spotify.com/track/4KL2R4rnk43g8a2t0ZObhb",
     },
   ],
 } as const satisfies Track

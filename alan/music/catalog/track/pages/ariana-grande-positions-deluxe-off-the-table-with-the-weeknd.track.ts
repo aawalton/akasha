@@ -6,7 +6,7 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
   slug: "ariana-grande-positions-deluxe-off-the-table-with-the-weeknd",
   ownLength: 3.99915,
   ownProgress: 3.99915,
-  partOfCollections: ["release/ariana-grande-positions-deluxe"],
+  partOfCollections: ["release/ariana-grande-positions-deluxe", "release/ariana-grande-positions"],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +29,13 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
   trackKey: "offthetablewiththeweeknd|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|239949",
   song: "song/ariana-grande-off-the-table",
   carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 5,
+      externalId: "7E1jVNoWuemqUryI4FxsVD",
+      externalLink: "https://open.spotify.com/track/7E1jVNoWuemqUryI4FxsVD",
+    },
     {
       release: "release/ariana-grande-positions-deluxe",
       discNumber: 1,

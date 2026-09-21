@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/aurora-cure-for-me","discNumber":1,"position":4,"externalId":"2uouDDgLfWNeHCHTYvGV3d","externalLink":"https://open.spotify.com/track/2uouDDgLfWNeHCHTYvGV3d"}]}
+{"carriedBy":[{"release":"release/aurora-cure-for-me","discNumber":1,"position":4,"externalId":"2uouDDgLfWNeHCHTYvGV3d","externalLink":"https://open.spotify.com/track/2uouDDgLfWNeHCHTYvGV3d"},{"release":"release/aurora-cure-for-me-vintage-culture-extended-remix","discNumber":1,"position":1,"externalId":"0DPj9QmYYPjq1B9qPmSVDc","externalLink":"https://open.spotify.com/track/0DPj9QmYYPjq1B9qPmSVDc"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"2uouDDgLfWNeHCHTYvGV3d","externalLink":"https://open.spotify.com/track/2uouDDgLfWNeHCHTYvGV3d","lastSyncedAt":"2026-09-18"}]}
 {"id":"01a0b638-029c-7b7e-9f18-c337a0e9b967"}
 {"ownLength":5.482666666666667}
 {"ownProgress":5.482666666666667}
-{"partOfCollections":["release/aurora-cure-for-me"]}
+{"partOfCollections":["release/aurora-cure-for-me","release/aurora-cure-for-me-vintage-culture-extended-remix"]}
 {"position":4}
 {"slug":"aurora-cure-for-me-cure-for-me-vintage-culture-extended-remix"}
 {"song":"song/aurora-cure-for-me"}

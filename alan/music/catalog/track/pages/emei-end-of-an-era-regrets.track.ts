@@ -6,7 +6,7 @@ export const emeiEndOfAnEraRegrets = {
   slug: "emei-end-of-an-era-regrets",
   ownLength: 2.03755,
   ownProgress: 2.03755,
-  partOfCollections: ["release/emei-end-of-an-era"],
+  partOfCollections: ["release/emei-end-of-an-era", "release/emei-regrets"],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const emeiEndOfAnEraRegrets = {
       position: 4,
       externalId: "3r22tJVOrEwFfuFZDxmFud",
       externalLink: "https://open.spotify.com/track/3r22tJVOrEwFfuFZDxmFud",
+    },
+    {
+      release: "release/emei-regrets",
+      discNumber: 1,
+      position: 1,
+      externalId: "64l8UD4BRovWTSyrLqManD",
+      externalLink: "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD",
     },
   ],
 } as const satisfies Track

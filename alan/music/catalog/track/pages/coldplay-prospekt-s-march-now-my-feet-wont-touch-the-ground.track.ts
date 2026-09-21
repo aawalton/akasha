@@ -6,7 +6,10 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
   slug: "coldplay-prospekt-s-march-now-my-feet-wont-touch-the-ground",
   ownLength: 2.4586833333333336,
   ownProgress: 2.4586833333333336,
-  partOfCollections: ["release/coldplay-prospekt-s-march"],
+  partOfCollections: [
+    "release/coldplay-prospekt-s-march",
+    "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
       position: 8,
       externalId: "0nSfoEVGexB65mxj8aRDYK",
       externalLink: "https://open.spotify.com/track/0nSfoEVGexB65mxj8aRDYK",
+    },
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 8,
+      externalId: "4PA4J8GvCN8RuE39wJ1QT1",
+      externalLink: "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1",
     },
   ],
 } as const satisfies Track

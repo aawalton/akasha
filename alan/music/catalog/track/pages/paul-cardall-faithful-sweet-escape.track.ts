@@ -6,7 +6,7 @@ export const paulCardallFaithfulSweetEscape = {
   slug: "paul-cardall-faithful-sweet-escape",
   ownLength: 3.121766666666667,
   ownProgress: 3.121766666666667,
-  partOfCollections: ["release/paul-cardall-faithful"],
+  partOfCollections: ["release/paul-cardall-faithful", "release/paul-cardall-saving-tiny-hearts"],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const paulCardallFaithfulSweetEscape = {
       position: 2,
       externalId: "4w9h6vXTaREnUcmEL9yaZA",
       externalLink: "https://open.spotify.com/track/4w9h6vXTaREnUcmEL9yaZA",
+    },
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 13,
+      externalId: "60jdNWc0ggiZkHq14OErIf",
+      externalLink: "https://open.spotify.com/track/60jdNWc0ggiZkHq14OErIf",
     },
   ],
 } as const satisfies Track

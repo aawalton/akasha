@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/zara-larsson-can-t-tame-her-acoustic","discNumber":1,"position":2,"externalId":"3HsDThXqQVYNea7LNqrlgw","externalLink":"https://open.spotify.com/track/3HsDThXqQVYNea7LNqrlgw"}]}
+{"carriedBy":[{"release":"release/zara-larsson-can-t-tame-her","discNumber":1,"position":1,"externalId":"4vOoQh9MhS9pyrbvc8LyMz","externalLink":"https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"},{"release":"release/zara-larsson-can-t-tame-her-acoustic","discNumber":1,"position":2,"externalId":"3HsDThXqQVYNea7LNqrlgw","externalLink":"https://open.spotify.com/track/3HsDThXqQVYNea7LNqrlgw"},{"release":"release/zara-larsson-venus","discNumber":1,"position":1,"externalId":"1G1kKHczSz6Xqv5dCmtkL4","externalLink":"https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"3HsDThXqQVYNea7LNqrlgw","externalLink":"https://open.spotify.com/track/3HsDThXqQVYNea7LNqrlgw","lastSyncedAt":"2026-09-16"}]}
 {"id":"01a0aa7c-3bf1-737e-8d4b-97d962c076cb"}
 {"ownLength":3.2823166666666665}
 {"ownProgress":3.2823166666666665}
-{"partOfCollections":["release/zara-larsson-can-t-tame-her-acoustic"]}
+{"partOfCollections":["release/zara-larsson-can-t-tame-her-acoustic","release/zara-larsson-can-t-tame-her","release/zara-larsson-venus"]}
 {"position":2}
 {"slug":"zara-larsson-can-t-tame-her-acoustic-cant-tame-her"}
 {"song":"song/zara-larsson-can-t-tame-her"}

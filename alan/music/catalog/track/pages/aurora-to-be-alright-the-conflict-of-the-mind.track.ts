@@ -6,7 +6,11 @@ export const auroraToBeAlrightTheConflictOfTheMind = {
   slug: "aurora-to-be-alright-the-conflict-of-the-mind",
   ownLength: 4.24355,
   ownProgress: 4.24355,
-  partOfCollections: ["release/aurora-to-be-alright"],
+  partOfCollections: [
+    "release/aurora-to-be-alright",
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +36,20 @@ export const auroraToBeAlrightTheConflictOfTheMind = {
       position: 3,
       externalId: "1EUige1Y1Brv1NFMn7D8wR",
       externalLink: "https://open.spotify.com/track/1EUige1Y1Brv1NFMn7D8wR",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 4,
+      externalId: "0mwf9Wp3U2wENjzG5dk7cG",
+      externalLink: "https://open.spotify.com/track/0mwf9Wp3U2wENjzG5dk7cG",
+    },
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "6zXLza3EXxPlhcrHWRQRF3",
+      externalLink: "https://open.spotify.com/track/6zXLza3EXxPlhcrHWRQRF3",
     },
   ],
 } as const satisfies Track

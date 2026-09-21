@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/zara-larsson-midnight-sun-3","discNumber":1,"position":10,"externalId":"3TWc9D5uVyosC49bamnJBa","externalLink":"https://open.spotify.com/track/3TWc9D5uVyosC49bamnJBa"}]}
+{"carriedBy":[{"release":"release/zara-larsson-midnight-sun-3","discNumber":1,"position":10,"externalId":"3TWc9D5uVyosC49bamnJBa","externalLink":"https://open.spotify.com/track/3TWc9D5uVyosC49bamnJBa"},{"release":"release/zara-larsson-midnight-sun-girls-trip","discNumber":2,"position":10,"externalId":"1RDJPcDoF8yFiAEoehJmH4","externalLink":"https://open.spotify.com/track/1RDJPcDoF8yFiAEoehJmH4"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"3TWc9D5uVyosC49bamnJBa","externalLink":"https://open.spotify.com/track/3TWc9D5uVyosC49bamnJBa","lastSyncedAt":"2026-09-16"}]}
 {"id":"01a0aa7c-2a39-7881-9b5e-b9bcbfefeabc"}
 {"ownLength":3.8019666666666665}
 {"ownProgress":3.8019666666666665}
-{"partOfCollections":["release/zara-larsson-midnight-sun-3"]}
+{"partOfCollections":["release/zara-larsson-midnight-sun-3","release/zara-larsson-midnight-sun-girls-trip"]}
 {"position":10}
 {"slug":"zara-larsson-midnight-sun-3-puss-puss"}
 {"song":"song/zara-larsson-puss-puss"}

@@ -6,7 +6,10 @@ export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
   slug: "coldplay-a-rush-of-blood-to-the-head-god-put-a-smile-upon-your-face",
   ownLength: 4.9551,
   ownProgress: 4.9551,
-  partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
+  partOfCollections: [
+    "release/coldplay-a-rush-of-blood-to-the-head",
+    "release/coldplay-god-put-a-smile-upon-your-face",
+  ],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
       position: 3,
       externalId: "4hf0hL4kWyjWztZzVsM39V",
       externalLink: "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V",
+    },
+    {
+      release: "release/coldplay-god-put-a-smile-upon-your-face",
+      discNumber: 1,
+      position: 1,
+      externalId: "68g7rYVFesprisLiHLeIvo",
+      externalLink: "https://open.spotify.com/track/68g7rYVFesprisLiHLeIvo",
     },
   ],
 } as const satisfies Track

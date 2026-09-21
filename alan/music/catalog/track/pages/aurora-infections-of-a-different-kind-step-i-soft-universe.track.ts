@@ -6,7 +6,10 @@ export const auroraInfectionsOfADifferentKindStepISoftUniverse = {
   slug: "aurora-infections-of-a-different-kind-step-i-soft-universe",
   ownLength: 3.9922166666666667,
   ownProgress: 3.9922166666666667,
-  partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
+  partOfCollections: [
+    "release/aurora-infections-of-a-different-kind-step-i",
+    "release/aurora-music-for-the-fellow-witches-out-there",
+  ],
   position: 7,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraInfectionsOfADifferentKindStepISoftUniverse = {
       position: 7,
       externalId: "1jf1gcPc1nckS0PAJkbPqo",
       externalLink: "https://open.spotify.com/track/1jf1gcPc1nckS0PAJkbPqo",
+    },
+    {
+      release: "release/aurora-music-for-the-fellow-witches-out-there",
+      discNumber: 1,
+      position: 3,
+      externalId: "0pDtBBDUDnBwd6TKPu0lzS",
+      externalLink: "https://open.spotify.com/track/0pDtBBDUDnBwd6TKPu0lzS",
     },
   ],
 } as const satisfies Track

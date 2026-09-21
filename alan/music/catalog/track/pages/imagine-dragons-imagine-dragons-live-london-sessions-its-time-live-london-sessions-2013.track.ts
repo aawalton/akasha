@@ -6,7 +6,10 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
   slug: "imagine-dragons-imagine-dragons-live-london-sessions-its-time-live-london-sessions-2013",
   ownLength: 4.164666666666666,
   ownProgress: 4.164666666666666,
-  partOfCollections: ["release/imagine-dragons-imagine-dragons-live-london-sessions"],
+  partOfCollections: [
+    "release/imagine-dragons-imagine-dragons-live-london-sessions",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
       position: 2,
       externalId: "42M35GsUidMAgXfH1mPUa3",
       externalLink: "https://open.spotify.com/track/42M35GsUidMAgXfH1mPUa3",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 3,
+      position: 12,
+      externalId: "52HVk5Cw67IQ3OJaOCMsit",
+      externalLink: "https://open.spotify.com/track/52HVk5Cw67IQ3OJaOCMsit",
     },
   ],
 } as const satisfies Track

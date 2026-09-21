@@ -6,7 +6,10 @@ export const thePianoGuys310RewriteTheStars = {
   slug: "the-piano-guys-3-10-rewrite-the-stars",
   ownLength: 3.504,
   ownProgress: 3.504,
-  partOfCollections: ["release/the-piano-guys-3-10"],
+  partOfCollections: [
+    "release/the-piano-guys-3-10",
+    "release/the-piano-guys-3-classical-movie-soundtracks",
+  ],
   position: 9,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys310RewriteTheStars = {
       position: 9,
       externalId: "6y3fZqqhznBstwpi2RECob",
       externalLink: "https://open.spotify.com/track/6y3fZqqhznBstwpi2RECob",
+    },
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 11,
+      externalId: "3CLNIC8J4ThMSpbpuHoaHV",
+      externalLink: "https://open.spotify.com/track/3CLNIC8J4ThMSpbpuHoaHV",
     },
   ],
 } as const satisfies Track

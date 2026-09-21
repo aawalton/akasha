@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeFollowMe = {
   slug: "celtic-woman-2-ancient-land-deluxe-follow-me",
   ownLength: 3.6437666666666666,
   ownProgress: 3.6437666666666666,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 4,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeFollowMe = {
   trackKey: "followme|6NWtt9pNOL2Gx7kBykdE5x|218626",
   song: "song/celtic-woman-follow-me",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 4,
+      externalId: "4sNXHUpqUmKuOdPMKRlDkI",
+      externalLink: "https://open.spotify.com/track/4sNXHUpqUmKuOdPMKRlDkI",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

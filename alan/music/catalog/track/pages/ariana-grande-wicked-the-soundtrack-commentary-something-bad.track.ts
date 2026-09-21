@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBad = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-something-bad",
   ownLength: 1.805,
   ownProgress: 1.805,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 11,
   status: "completed",
   unit: "unit/minutes",
@@ -30,11 +34,25 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBad = {
   song: "song/ariana-grande-something-bad",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 5,
+      externalId: "6hHr31QnEybBSpH8G4yJji",
+      externalLink: "https://open.spotify.com/track/6hHr31QnEybBSpH8G4yJji",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 11,
       externalId: "7KwGGUydPNh0h5V5Zy6OBB",
       externalLink: "https://open.spotify.com/track/7KwGGUydPNh0h5V5Zy6OBB",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 5,
+      externalId: "5E2ASK5znLzoizBy4njhM4",
+      externalLink: "https://open.spotify.com/track/5E2ASK5znLzoizBy4njhM4",
     },
   ],
 } as const satisfies Track

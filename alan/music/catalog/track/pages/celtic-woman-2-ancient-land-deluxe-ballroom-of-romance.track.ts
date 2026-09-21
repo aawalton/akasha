@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeBallroomOfRomance = {
   slug: "celtic-woman-2-ancient-land-deluxe-ballroom-of-romance",
   ownLength: 3.2682166666666665,
   ownProgress: 3.2682166666666665,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ballroom-of-romance",
+  ],
   position: 18,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman2AncientLandDeluxeBallroomOfRomance = {
       position: 18,
       externalId: "54NdJzrlrl1uPIoR7CGsuf",
       externalLink: "https://open.spotify.com/track/54NdJzrlrl1uPIoR7CGsuf",
+    },
+    {
+      release: "release/celtic-woman-2-ballroom-of-romance",
+      discNumber: 1,
+      position: 1,
+      externalId: "3BrK8g4YmVdZJDJ2JYJUB0",
+      externalLink: "https://open.spotify.com/track/3BrK8g4YmVdZJDJ2JYJUB0",
     },
   ],
 } as const satisfies Track

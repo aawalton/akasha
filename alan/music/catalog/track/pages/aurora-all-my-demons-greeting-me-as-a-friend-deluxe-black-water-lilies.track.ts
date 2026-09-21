@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-black-water-lilies",
   ownLength: 4.714,
   ownProgress: 4.714,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+    "release/aurora-music-for-the-free-spirits",
+  ],
   position: 12,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
       position: 12,
       externalId: "1K9e0CRpBTQhAyn7OTBTjk",
       externalLink: "https://open.spotify.com/track/1K9e0CRpBTQhAyn7OTBTjk",
+    },
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 1,
+      externalId: "2S9LrtRLhwGENhHWUIwKVN",
+      externalLink: "https://open.spotify.com/track/2S9LrtRLhwGENhHWUIwKVN",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const celticWoman22020thAnniversaryYouRaiseMeUp20thAnniversary = {
   slug: "celtic-woman-2-20-20th-anniversary-you-raise-me-up-20th-anniversary",
   ownLength: 4.266666666666667,
   ownProgress: 4.266666666666667,
-  partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
+  partOfCollections: [
+    "release/celtic-woman-2-20-20th-anniversary",
+    "release/celtic-woman-2-you-raise-me-up-20th-anniversary",
+  ],
   position: 17,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const celticWoman22020thAnniversaryYouRaiseMeUp20thAnniversary = {
       position: 17,
       externalId: "3O2fwEm7hHjxzU7VP9oGhw",
       externalLink: "https://open.spotify.com/track/3O2fwEm7hHjxzU7VP9oGhw",
+    },
+    {
+      release: "release/celtic-woman-2-you-raise-me-up-20th-anniversary",
+      discNumber: 1,
+      position: 1,
+      externalId: "6pWsCoyfUgcfC3OiHe1DF9",
+      externalLink: "https://open.spotify.com/track/6pWsCoyfUgcfC3OiHe1DF9",
     },
   ],
 } as const satisfies Track

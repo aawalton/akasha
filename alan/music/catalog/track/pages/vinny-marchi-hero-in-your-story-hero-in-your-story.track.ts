@@ -6,7 +6,10 @@ export const vinnyMarchiHeroInYourStoryHeroInYourStory = {
   slug: "vinny-marchi-hero-in-your-story-hero-in-your-story",
   ownLength: 2.8611,
   ownProgress: 2.8611,
-  partOfCollections: ["release/vinny-marchi-hero-in-your-story"],
+  partOfCollections: [
+    "release/vinny-marchi-hero-in-your-story",
+    "release/vinny-marchi-tales-of-the-lesbian-hunter",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const vinnyMarchiHeroInYourStoryHeroInYourStory = {
       position: 1,
       externalId: "3Wnovz4rElq4aYr8cxbqYO",
       externalLink: "https://open.spotify.com/track/3Wnovz4rElq4aYr8cxbqYO",
+    },
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 11,
+      externalId: "3G3CSxthmtB0kaipBm30g4",
+      externalLink: "https://open.spotify.com/track/3G3CSxthmtB0kaipBm30g4",
     },
   ],
 } as const satisfies Track

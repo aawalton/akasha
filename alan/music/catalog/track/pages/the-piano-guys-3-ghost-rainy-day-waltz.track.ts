@@ -6,7 +6,10 @@ export const thePianoGuys3GhostRainyDayWaltz = {
   slug: "the-piano-guys-3-ghost-rainy-day-waltz",
   ownLength: 3.7321166666666667,
   ownProgress: 3.7321166666666667,
-  partOfCollections: ["release/the-piano-guys-3-ghost"],
+  partOfCollections: [
+    "release/the-piano-guys-3-ghost",
+    "release/the-piano-guys-classical-for-studying",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys3GhostRainyDayWaltz = {
       position: 2,
       externalId: "59ihFAedQDTHRbpzSZRr7f",
       externalLink: "https://open.spotify.com/track/59ihFAedQDTHRbpzSZRr7f",
+    },
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 10,
+      externalId: "687mPrGeQeTVZmN9BGXfDi",
+      externalLink: "https://open.spotify.com/track/687mPrGeQeTVZmN9BGXfDi",
     },
   ],
 } as const satisfies Track

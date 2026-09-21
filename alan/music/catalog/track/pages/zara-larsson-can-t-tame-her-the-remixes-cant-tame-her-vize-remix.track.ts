@@ -6,7 +6,10 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
   slug: "zara-larsson-can-t-tame-her-the-remixes-cant-tame-her-vize-remix",
   ownLength: 2.8888833333333332,
   ownProgress: 2.8888833333333332,
-  partOfCollections: ["release/zara-larsson-can-t-tame-her-the-remixes"],
+  partOfCollections: [
+    "release/zara-larsson-can-t-tame-her-the-remixes",
+    "release/zara-larsson-can-t-tame-her-vize-remix",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
       position: 1,
       externalId: "6hK4hq1UY914pSvHz60Xe1",
       externalLink: "https://open.spotify.com/track/6hK4hq1UY914pSvHz60Xe1",
+    },
+    {
+      release: "release/zara-larsson-can-t-tame-her-vize-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "17xblSTgNWq0T59UBtlW3W",
+      externalLink: "https://open.spotify.com/track/17xblSTgNWq0T59UBtlW3W",
     },
   ],
 } as const satisfies Track

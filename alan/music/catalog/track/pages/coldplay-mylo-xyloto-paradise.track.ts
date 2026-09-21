@@ -6,7 +6,7 @@ export const coldplayMyloXylotoParadise = {
   slug: "coldplay-mylo-xyloto-paradise",
   ownLength: 4.645316666666667,
   ownProgress: 4.645316666666667,
-  partOfCollections: ["release/coldplay-mylo-xyloto"],
+  partOfCollections: ["release/coldplay-mylo-xyloto", "release/coldplay-paradise"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayMyloXylotoParadise = {
       position: 3,
       externalId: "6nek1Nin9q48AVZcWs9e9D",
       externalLink: "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D",
+    },
+    {
+      release: "release/coldplay-paradise",
+      discNumber: 1,
+      position: 1,
+      externalId: "5egJWXdr8HapODmxnRdn54",
+      externalLink: "https://open.spotify.com/track/5egJWXdr8HapODmxnRdn54",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const coldplayMoonMusicFeelslikeimfallinginlove = {
   slug: "coldplay-moon-music-feelslikeimfallinginlove",
   ownLength: 3.9371666666666667,
   ownProgress: 3.9371666666666667,
-  partOfCollections: ["release/coldplay-moon-music"],
+  partOfCollections: [
+    "release/coldplay-moon-music",
+    "release/coldplay-moon-music-full-moon-edition",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const coldplayMoonMusicFeelslikeimfallinginlove = {
       position: 2,
       externalId: "49S3znqBAQyPyMpEuKeyJ6",
       externalLink: "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6",
+    },
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 1,
+      position: 2,
+      externalId: "5VSqvL5NLxBr7uMNfjwLt8",
+      externalLink: "https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8",
     },
   ],
 } as const satisfies Track

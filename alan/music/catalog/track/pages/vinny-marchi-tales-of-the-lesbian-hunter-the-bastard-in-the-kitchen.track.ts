@@ -6,7 +6,10 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
   slug: "vinny-marchi-tales-of-the-lesbian-hunter-the-bastard-in-the-kitchen",
   ownLength: 1.8903833333333333,
   ownProgress: 1.8903833333333333,
-  partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
+  partOfCollections: [
+    "release/vinny-marchi-tales-of-the-lesbian-hunter",
+    "release/vinny-marchi-the-bastard-in-the-kitchen",
+  ],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
       position: 5,
       externalId: "144U5cAZUYgDELPZWQ5ql1",
       externalLink: "https://open.spotify.com/track/144U5cAZUYgDELPZWQ5ql1",
+    },
+    {
+      release: "release/vinny-marchi-the-bastard-in-the-kitchen",
+      discNumber: 1,
+      position: 1,
+      externalId: "1MCJ6nr7QZOQ6ICsc34Ewq",
+      externalLink: "https://open.spotify.com/track/1MCJ6nr7QZOQ6ICsc34Ewq",
     },
   ],
 } as const satisfies Track

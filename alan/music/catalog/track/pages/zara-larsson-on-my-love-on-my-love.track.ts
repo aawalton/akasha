@@ -6,7 +6,7 @@ export const zaraLarssonOnMyLoveOnMyLove = {
   slug: "zara-larsson-on-my-love-on-my-love",
   ownLength: 3.7151833333333335,
   ownProgress: 3.7151833333333335,
-  partOfCollections: ["release/zara-larsson-on-my-love"],
+  partOfCollections: ["release/zara-larsson-on-my-love", "release/zara-larsson-venus"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +35,13 @@ export const zaraLarssonOnMyLoveOnMyLove = {
       position: 1,
       externalId: "0dxp7DyPJEo6JhtnjUtBnN",
       externalLink: "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN",
+    },
+    {
+      release: "release/zara-larsson-venus",
+      discNumber: 1,
+      position: 3,
+      externalId: "1ewzs8xG9P7wSZhpp8VCuy",
+      externalLink: "https://open.spotify.com/track/1ewzs8xG9P7wSZhpp8VCuy",
     },
   ],
 } as const satisfies Track

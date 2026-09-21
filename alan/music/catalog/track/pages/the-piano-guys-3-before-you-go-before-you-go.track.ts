@@ -6,7 +6,7 @@ export const thePianoGuys3BeforeYouGoBeforeYouGo = {
   slug: "the-piano-guys-3-before-you-go-before-you-go",
   ownLength: 3.8839166666666665,
   ownProgress: 3.8839166666666665,
-  partOfCollections: ["release/the-piano-guys-3-before-you-go"],
+  partOfCollections: ["release/the-piano-guys-3-before-you-go", "release/the-piano-guys-3-chill"],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys3BeforeYouGoBeforeYouGo = {
       position: 1,
       externalId: "5JLUo91wuHD9coSvZn0Nl9",
       externalLink: "https://open.spotify.com/track/5JLUo91wuHD9coSvZn0Nl9",
+    },
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 9,
+      externalId: "6DcQaaai7MGhgMXEaCg0oF",
+      externalLink: "https://open.spotify.com/track/6DcQaaai7MGhgMXEaCg0oF",
     },
   ],
 } as const satisfies Track

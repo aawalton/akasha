@@ -6,7 +6,10 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
   slug: "ariana-grande-santa-can-t-you-hear-me-live-santa-cant-you-hear-me",
   ownLength: 4.044066666666667,
   ownProgress: 4.044066666666667,
-  partOfCollections: ["release/ariana-grande-santa-can-t-you-hear-me-live"],
+  partOfCollections: [
+    "release/ariana-grande-santa-can-t-you-hear-me-live",
+    "release/ariana-grande-santa-can-t-you-hear-me",
+  ],
   position: 2,
   status: "completed",
   unit: "unit/minutes",
@@ -29,6 +32,13 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
   trackKey: "santacantyouhearme|3BmGtnKgCSGYIUhmivXKWX,66CXWjxzNUsdJxJ2JdwvnR|242644",
   song: "song/kelly-clarkson-santa-cant-you-hear-me",
   carriedBy: [
+    {
+      release: "release/ariana-grande-santa-can-t-you-hear-me",
+      discNumber: 1,
+      position: 1,
+      externalId: "7B9SFykXtlvM2YCjKwyULL",
+      externalLink: "https://open.spotify.com/track/7B9SFykXtlvM2YCjKwyULL",
+    },
     {
       release: "release/ariana-grande-santa-can-t-you-hear-me-live",
       discNumber: 1,

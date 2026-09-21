@@ -6,7 +6,10 @@ export const auroraWhatHappenedToTheHeartDeluxeWhenTheDarkDressesLightly = {
   slug: "aurora-what-happened-to-the-heart-deluxe-when-the-dark-dresses-lightly",
   ownLength: 3.58,
   ownProgress: 3.58,
-  partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
+  partOfCollections: [
+    "release/aurora-what-happened-to-the-heart-deluxe",
+    "release/aurora-what-happened-to-the-heart",
+  ],
   position: 8,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const auroraWhatHappenedToTheHeartDeluxeWhenTheDarkDressesLightly = {
   trackKey: "whenthedarkdresseslightly|1WgXqy2Dd70QQOU7Ay074N|214800",
   song: "song/aurora-when-the-dark-dresses-lightly",
   carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 8,
+      externalId: "2YFjDyaJerhB4q4NO2sJlq",
+      externalLink: "https://open.spotify.com/track/2YFjDyaJerhB4q4NO2sJlq",
+    },
     {
       release: "release/aurora-what-happened-to-the-heart-deluxe",
       discNumber: 1,

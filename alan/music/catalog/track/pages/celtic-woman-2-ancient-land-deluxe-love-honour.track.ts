@@ -6,7 +6,10 @@ export const celticWoman2AncientLandDeluxeLoveHonour = {
   slug: "celtic-woman-2-ancient-land-deluxe-love-honour",
   ownLength: 4.074666666666666,
   ownProgress: 4.074666666666666,
-  partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
+  partOfCollections: [
+    "release/celtic-woman-2-ancient-land-deluxe",
+    "release/celtic-woman-2-ancient-land",
+  ],
   position: 6,
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +29,13 @@ export const celticWoman2AncientLandDeluxeLoveHonour = {
   trackKey: "lovehonour|6NWtt9pNOL2Gx7kBykdE5x|244480",
   song: "song/celtic-woman-love-honour",
   carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 6,
+      externalId: "3o8SJ8l6EbDyPFIbaXzE4D",
+      externalLink: "https://open.spotify.com/track/3o8SJ8l6EbDyPFIbaXzE4D",
+    },
     {
       release: "release/celtic-woman-2-ancient-land-deluxe",
       discNumber: 1,

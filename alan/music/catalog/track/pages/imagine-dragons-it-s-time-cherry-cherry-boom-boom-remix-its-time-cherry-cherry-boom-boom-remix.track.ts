@@ -6,7 +6,10 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemixItsTimeCherryCherryBo
   slug: "imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix-its-time-cherry-cherry-boom-boom-remix",
   ownLength: 5.2611,
   ownProgress: 5.2611,
-  partOfCollections: ["release/imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix"],
+  partOfCollections: [
+    "release/imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemixItsTimeCherryCherryBo
       position: 1,
       externalId: "27xlqtYSvSkYOP4snwOhHY",
       externalLink: "https://open.spotify.com/track/27xlqtYSvSkYOP4snwOhHY",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 8,
+      externalId: "3fxqbZnzOOluRdp9v8eaJf",
+      externalLink: "https://open.spotify.com/track/3fxqbZnzOOluRdp9v8eaJf",
     },
   ],
 } as const satisfies Track

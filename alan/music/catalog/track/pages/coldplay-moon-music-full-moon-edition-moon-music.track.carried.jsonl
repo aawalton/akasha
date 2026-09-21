@@ -1,11 +1,11 @@
-{"carriedBy":[{"release":"release/coldplay-moon-music-full-moon-edition","discNumber":1,"position":1,"externalId":"4mEWgqYOEiygF1mzEn901R","externalLink":"https://open.spotify.com/track/4mEWgqYOEiygF1mzEn901R"}]}
+{"carriedBy":[{"release":"release/coldplay-moon-music","discNumber":1,"position":1,"externalId":"41FNZsY7w7KaTQ2bjxdR6w","externalLink":"https://open.spotify.com/track/41FNZsY7w7KaTQ2bjxdR6w"},{"release":"release/coldplay-moon-music-full-moon-edition","discNumber":1,"position":1,"externalId":"4mEWgqYOEiygF1mzEn901R","externalLink":"https://open.spotify.com/track/4mEWgqYOEiygF1mzEn901R"}]}
 {"discNumber":1}
 {"explicit":false}
 {"externalIdentity":[{"source":"spotify","externalId":"4mEWgqYOEiygF1mzEn901R","externalLink":"https://open.spotify.com/track/4mEWgqYOEiygF1mzEn901R","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ee-ca34-7b3b-89c2-6f415a7480a5"}
 {"ownLength":4.607933333333333}
 {"ownProgress":4.607933333333333}
-{"partOfCollections":["release/coldplay-moon-music-full-moon-edition"]}
+{"partOfCollections":["release/coldplay-moon-music-full-moon-edition","release/coldplay-moon-music"]}
 {"position":1}
 {"slug":"coldplay-moon-music-full-moon-edition-moon-music"}
 {"song":"song/coldplay-moon-music"}

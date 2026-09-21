@@ -6,7 +6,10 @@ export const sabrinaCarpenterManSBestFriendDontWorryIllMakeYouWorry = {
   slug: "sabrina-carpenter-man-s-best-friend-dont-worry-ill-make-you-worry",
   ownLength: 3.7053333333333334,
   ownProgress: 3.7053333333333334,
-  partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
+  partOfCollections: [
+    "release/sabrina-carpenter-man-s-best-friend",
+    "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+  ],
   position: 10,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const sabrinaCarpenterManSBestFriendDontWorryIllMakeYouWorry = {
       position: 10,
       externalId: "21IVPfi81m6ywNgOvqTj1i",
       externalLink: "https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i",
+    },
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 10,
+      externalId: "0pIHXFbB6V8DIzRRDR64IJ",
+      externalLink: "https://open.spotify.com/track/0pIHXFbB6V8DIzRRDR64IJ",
     },
   ],
 } as const satisfies Track

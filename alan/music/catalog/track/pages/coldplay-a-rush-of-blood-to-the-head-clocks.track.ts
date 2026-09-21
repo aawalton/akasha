@@ -6,7 +6,7 @@ export const coldplayARushOfBloodToTheHeadClocks = {
   slug: "coldplay-a-rush-of-blood-to-the-head-clocks",
   ownLength: 5.131316666666667,
   ownProgress: 5.131316666666667,
-  partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
+  partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head", "release/coldplay-clocks"],
   position: 5,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const coldplayARushOfBloodToTheHeadClocks = {
       position: 5,
       externalId: "0BCPKOYdS2jbQ8iyB56Zns",
       externalLink: "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns",
+    },
+    {
+      release: "release/coldplay-clocks",
+      discNumber: 1,
+      position: 1,
+      externalId: "2Ygs64z9ywJGakuKU8tr6o",
+      externalLink: "https://open.spotify.com/track/2Ygs64z9ywJGakuKU8tr6o",
     },
   ],
 } as const satisfies Track

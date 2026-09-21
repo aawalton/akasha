@@ -6,7 +6,10 @@ export const arianaGrandeLoveMeHarderLoveMeHarder = {
   slug: "ariana-grande-love-me-harder-love-me-harder",
   ownLength: 3.9340166666666665,
   ownProgress: 3.9340166666666665,
-  partOfCollections: ["release/ariana-grande-love-me-harder"],
+  partOfCollections: [
+    "release/ariana-grande-love-me-harder",
+    "release/ariana-grande-my-everything-tenth-anniversary-edition",
+  ],
   position: 1,
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +38,13 @@ export const arianaGrandeLoveMeHarderLoveMeHarder = {
       position: 1,
       externalId: "7HE1FnMtSsRotzIAQPXpr5",
       externalLink: "https://open.spotify.com/track/7HE1FnMtSsRotzIAQPXpr5",
+    },
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "2Pm40TLDw6G78thGOdsJW7",
+      externalLink: "https://open.spotify.com/track/2Pm40TLDw6G78thGOdsJW7",
     },
   ],
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdFeather = {
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-feather",
   ownLength: 3.0925333333333334,
   ownProgress: 3.0925333333333334,
-  partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
+  partOfCollections: [
+    "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+    "release/sabrina-carpenter-feather-sped-up",
+  ],
   position: 15,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdFeather = {
       position: 15,
       externalId: "2Zo1PcszsT9WQ0ANntJbID",
       externalLink: "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID",
+    },
+    {
+      release: "release/sabrina-carpenter-feather-sped-up",
+      discNumber: 1,
+      position: 1,
+      externalId: "1V7sKms8MbsSYYtecDE2CW",
+      externalLink: "https://open.spotify.com/track/1V7sKms8MbsSYYtecDE2CW",
     },
   ],
 } as const satisfies Track

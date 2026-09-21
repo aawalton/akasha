@@ -6,7 +6,7 @@ export const thePianoGuys3ChillSomeoneLikeYou = {
   slug: "the-piano-guys-3-chill-someone-like-you",
   ownLength: 3.9826166666666665,
   ownProgress: 3.9826166666666665,
-  partOfCollections: ["release/the-piano-guys-3-chill"],
+  partOfCollections: ["release/the-piano-guys-3-chill", "release/the-piano-guys-3-pop-on-piano"],
   position: 3,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +32,13 @@ export const thePianoGuys3ChillSomeoneLikeYou = {
       position: 3,
       externalId: "69q8YjuybeflQbQB5bwSeS",
       externalLink: "https://open.spotify.com/track/69q8YjuybeflQbQB5bwSeS",
+    },
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 12,
+      externalId: "0Ns9vkYSbP3OGL4kG9NpUf",
+      externalLink: "https://open.spotify.com/track/0Ns9vkYSbP3OGL4kG9NpUf",
     },
   ],
 } as const satisfies Track

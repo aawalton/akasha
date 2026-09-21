@@ -6,7 +6,10 @@ export const thePianoGuys3LullabyRowRowRowYourBoat = {
   slug: "the-piano-guys-3-lullaby-row-row-row-your-boat",
   ownLength: 1.6733333333333333,
   ownProgress: 1.6733333333333333,
-  partOfCollections: ["release/the-piano-guys-3-lullaby"],
+  partOfCollections: [
+    "release/the-piano-guys-3-lullaby",
+    "release/the-piano-guys-peaceful-summer-nights",
+  ],
   position: 13,
   status: "completed",
   unit: "unit/minutes",
@@ -32,6 +35,13 @@ export const thePianoGuys3LullabyRowRowRowYourBoat = {
       position: 13,
       externalId: "0p9KHrE7ztrxx5YUa9u821",
       externalLink: "https://open.spotify.com/track/0p9KHrE7ztrxx5YUa9u821",
+    },
+    {
+      release: "release/the-piano-guys-peaceful-summer-nights",
+      discNumber: 1,
+      position: 1,
+      externalId: "5hH6pFhbMUlkCOxIlZmcyP",
+      externalLink: "https://open.spotify.com/track/5hH6pFhbMUlkCOxIlZmcyP",
     },
   ],
 } as const satisfies Track

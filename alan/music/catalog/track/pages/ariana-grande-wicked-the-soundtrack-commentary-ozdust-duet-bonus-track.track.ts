@@ -6,7 +6,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrack = {
   slug: "ariana-grande-wicked-the-soundtrack-commentary-ozdust-duet-bonus-track",
   ownLength: 2.1977166666666665,
   ownProgress: 2.1977166666666665,
-  partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
+  partOfCollections: [
+    "release/ariana-grande-wicked-the-soundtrack-commentary",
+    "release/ariana-grande-wicked-the-soundtrack",
+    "release/musical-theater-wicked-the-soundtrack",
+  ],
   position: 25,
   status: "completed",
   unit: "unit/minutes",
@@ -27,11 +31,25 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrack = {
   song: "song/ariana-grande-ozdust-duet-bonus-track",
   carriedBy: [
     {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 12,
+      externalId: "7zbBz680mtZdIh4o7Enn2H",
+      externalLink: "https://open.spotify.com/track/7zbBz680mtZdIh4o7Enn2H",
+    },
+    {
       release: "release/ariana-grande-wicked-the-soundtrack-commentary",
       discNumber: 1,
       position: 25,
       externalId: "3EvXAIsBTsyHu7mVcpgQNm",
       externalLink: "https://open.spotify.com/track/3EvXAIsBTsyHu7mVcpgQNm",
+    },
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 12,
+      externalId: "5oUggqlg7zOto1unBbj393",
+      externalLink: "https://open.spotify.com/track/5oUggqlg7zOto1unBbj393",
     },
   ],
 } as const satisfies Track
