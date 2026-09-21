@@ -34,5 +34,6 @@ export const temperAddonLibrary = {
     "domain/temper-lccc",
     "eso-addon/temper-lib-shifter-box",
     "eso-addon/temper-lib-histoire",
+    "eso-addon/temper-lib-scrollable-menu",
   ],
 } as const satisfies Domain

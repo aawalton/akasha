@@ -82,7 +82,6 @@ export const temper = {
     "domain/temper-upstream-data",
     "domain/temper-value",
     "eso-addon/temper-crafting-addon",
-    "eso-addon/temper-lib-scrollable-menu",
     "module/addon-init",
     "module/assert-schema-matches-payload",
     "module/auto-quest-trace",
