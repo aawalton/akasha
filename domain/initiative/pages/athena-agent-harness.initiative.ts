@@ -6,4 +6,5 @@ export const athenaAgentHarness = {
   slug: "athena-agent-harness",
   domain: "page-type/agent",
   persona: "persona/athena",
+  intentStack: [{ statement: "An agent session log is kept on the workstation and nowhere else." }],
 } as const satisfies Initiative
