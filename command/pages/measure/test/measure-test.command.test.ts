@@ -25,7 +25,7 @@ const CHOSEN = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 
 const NO_WINDOW = "5y"
 
-const BESIDE = "temper/held-addon/held-addon.eso-addon.entries.uncommitted.jsonl"
+const BESIDE = "temper/held-addon/held-addon.temper-addon.entries.uncommitted.jsonl"
 
 const DEEPER = "temper/held-addon/inner/inner-thing.module.entries.part2.uncommitted.jsonl"
 

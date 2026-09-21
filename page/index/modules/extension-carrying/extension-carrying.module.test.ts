@@ -11,7 +11,7 @@ import type {
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const OWNER = "temper/one-addon/one-addon.eso-addon.ts"
+const OWNER = "temper/one-addon/one-addon.temper-addon.ts"
 
 const NAMED = "named-extension-property/one-texture"
 
@@ -29,7 +29,7 @@ const never = (): boolean => false
 function carryingAt(at: string): (named: string) => Carried {
   return (named) =>
     named === NAMED
-      ? { carrying: [{ pageTypeSlug: "eso-addon", path: at, id: "one", within: null }] }
+      ? { carrying: [{ pageTypeSlug: "temper-addon", path: at, id: "one", within: null }] }
       : { refused: "no page property carries that slug" }
 }
 
@@ -56,7 +56,7 @@ test("a file in a folder beneath that page is named by nothing", () => {
 })
 
 test("a page carrying the property from another folder names no file beside it", () => {
-  const away = "temper/two-addon/two-addon.eso-addon.ts"
+  const away = "temper/two-addon/two-addon.temper-addon.ts"
   expect(heldNamed("temper/one-addon/Chest.dds", [NAMING], holdingBytes, carryingAt(away))).toBe(
     false
   )
@@ -86,7 +86,7 @@ test("a name opening with a dot closes with no extension", () => {
 })
 
 test("a name with two dots closes with the name after the last one", () => {
-  expect(endingOf("temper/one-addon/one.eso-addon.ts")).toBe("ts")
+  expect(endingOf("temper/one-addon/one.temper-addon.ts")).toBe("ts")
 })
 
 test("every kind under a named extension property is read", () => {

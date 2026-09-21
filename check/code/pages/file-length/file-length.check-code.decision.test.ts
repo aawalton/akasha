@@ -25,7 +25,7 @@ const ENTRY = "akasha/day.wake-day.completed-tasks.jsonl"
 
 const MARKUP = "akasha/panel.eso-interface.markup.xml"
 
-const BINDINGS = "akasha/one.eso-addon.bindings.xml"
+const BINDINGS = "akasha/one.temper-addon.bindings.xml"
 
 afterAll(scratch.sweep)
 
