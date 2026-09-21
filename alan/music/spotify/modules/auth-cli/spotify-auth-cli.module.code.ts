@@ -59,25 +59,61 @@ export function readCodeFlag(args: readonly string[]): string {
   return value
 }
 
-function generate(): undefined {
-  const { clientId, redirectUri } = getCredentials()
-  const { verifier, challenge } = makePkcePair()
-  const state = crypto.randomBytes(16).toString("hex")
-  writePkce({ verifier })
-  console.log("Step 1 — open this URL in a browser and approve Spotify access:\n")
-  console.log(authorizeUrlFor(clientId, redirectUri, state, challenge))
-  console.log(
-    `\nThe callback (${redirectUri}) shows the authorization code.\n` +
-      "Then run step 2 with that code:\n" +
-      `  bun run ${HERE} exchange --code <CODE>`
-  )
+export type Caught = { readonly code: string } | { readonly refused: string }
+
+export function loopbackPortIn(redirectUri: string): number | null {
+  let url: URL
+  try {
+    url = new URL(redirectUri)
+  } catch {
+    return null
+  }
+  if (url.protocol !== "http:") return null
+  if (url.hostname !== "127.0.0.1" && url.hostname !== "localhost") return null
+  const port = Number(url.port)
+  return Number.isInteger(port) && port > 0 ? port : null
 }
 
-async function exchange(args: readonly string[], over?: Fetching): Promise<void> {
-  const code = readCodeFlag(args)
+export function caughtIn(asked: URL, state: string, path: string): Caught | null {
+  if (asked.pathname !== path) return null
+  const said = asked.searchParams.get("error")
+  if (said !== null) return { refused: `spotify refused the consent, saying ${said}` }
+  if (asked.searchParams.get("state") !== state) {
+    return { refused: "the callback came back under a state this run never sent" }
+  }
+  const code = asked.searchParams.get("code")
+  if (code == null || code === "") return { refused: "the callback carried no code" }
+  return { code }
+}
+
+export function pageFor(caught: Caught): string {
+  const told =
+    "refused" in caught ? caught.refused : "Spotify consent is saved. This tab can be closed."
+  return `<!doctype html><meta charset="utf-8"><title>Spotify</title><body style="font:16px system-ui;padding:3rem">${told}</body>`
+}
+
+function caughtAt(port: number, path: string, state: string): Promise<Caught> {
+  return new Promise<Caught>((settle) => {
+    const server = Bun.serve({
+      port,
+      hostname: "127.0.0.1",
+      fetch(request) {
+        const caught = caughtIn(new URL(request.url), state, path)
+        if (caught === null) return new Response("no such path", { status: 404 })
+        setTimeout(() => {
+          server.stop(true)
+          settle(caught)
+        }, 50)
+        return new Response(pageFor(caught), { headers: { "Content-Type": "text/html" } })
+      },
+    })
+  })
+}
+
+async function traded(code: string, over?: Fetching): Promise<void> {
   const handoff = readPkce()
   if (handoff == null) {
-    throw new Error(`no saved PKCE handoff — run step 1 first:\n  bun run ${HERE}`)
+    throw new Error(`no saved PKCE handoff — run the first step first:\n  bun run ${HERE}`)
   }
   const { redirectUri } = getCredentials()
   const response = await postToken(
@@ -92,15 +128,44 @@ async function exchange(args: readonly string[], over?: Fetching): Promise<void>
   const data = await parseTokenResponse(response)
   persistTokenResponse(data, undefined, SPOTIFY_SCOPES)
   removePkce()
-  console.log("Step 2 — the Spotify tokens are saved.")
+}
+
+function toldOver(redirectUri: string, url: string): readonly string[] {
+  return [
+    "Step 1 — open this URL in a browser and approve Spotify access:\n",
+    url,
+    `\nThe callback (${redirectUri}) shows the authorization code.\n` +
+      "Then run step 2 with that code:\n" +
+      `  bun run ${HERE} exchange --code <CODE>`,
+  ]
+}
+
+async function consented(over?: Fetching): Promise<void> {
+  const { clientId, redirectUri } = getCredentials()
+  const { verifier, challenge } = makePkcePair()
+  const state = crypto.randomBytes(16).toString("hex")
+  writePkce({ verifier })
+  const url = authorizeUrlFor(clientId, redirectUri, state, challenge)
+  const port = loopbackPortIn(redirectUri)
+  if (port === null) {
+    for (const line of toldOver(redirectUri, url)) console.log(line)
+    return
+  }
+  console.log("Open this URL and approve Spotify access — this run finishes on its own:\n")
+  console.log(url)
+  const caught = await caughtAt(port, new URL(redirectUri).pathname, state)
+  if ("refused" in caught) throw new Error(caught.refused)
+  await traded(caught.code, over)
+  console.log("The Spotify tokens are saved.")
 }
 
 export async function runAuthCli(args: readonly string[], over?: Fetching): Promise<void> {
   if (args[0] === "exchange") {
-    await exchange(args.slice(1), over)
+    await traded(readCodeFlag(args.slice(1)), over)
+    console.log("Step 2 — the Spotify tokens are saved.")
     return
   }
-  generate()
+  await consented(over)
 }
 
 if (import.meta.main) {

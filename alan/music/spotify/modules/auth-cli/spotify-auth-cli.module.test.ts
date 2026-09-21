@@ -4,8 +4,12 @@ import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
   authorizeUrlFor,
+  type Caught,
+  caughtIn,
   challengeFor,
+  loopbackPortIn,
   makePkcePair,
+  pageFor,
   readCodeFlag,
   runAuthCli,
 } from "akasha/alan/music/spotify/modules/auth-cli/spotify-auth-cli.module.code.ts"
@@ -76,13 +80,61 @@ test("a code given is read", () => {
   expect(readCodeFlag(["--code", "a-code"])).toBe("a-code")
 })
 
-test("the second step run with no first step throws", async () => {
+test("a loopback address is http at 127.0.0.1 or localhost, naming a port", () => {
+  expect(loopbackPortIn("http://127.0.0.1:8899/callback")).toBe(8899)
+  expect(loopbackPortIn("http://localhost:8899/callback")).toBe(8899)
+  expect(loopbackPortIn("https://alanwalton.com/api/spotify/callback")).toBe(null)
+  expect(loopbackPortIn("http://127.0.0.1/callback")).toBe(null)
+  expect(loopbackPortIn("https://127.0.0.1:8899/callback")).toBe(null)
+  expect(loopbackPortIn("not a url at all")).toBe(null)
+})
+
+test("the callback the run opened for carries the code", () => {
+  const asked = new URL("http://127.0.0.1:8899/callback?code=a-code&state=a-state")
+  expect(caughtIn(asked, "a-state", "/callback")).toEqual({ code: "a-code" })
+})
+
+test("a callback coming back under another state is refused rather than traded", () => {
+  const asked = new URL("http://127.0.0.1:8899/callback?code=a-code&state=another")
+  expect(caughtIn(asked, "a-state", "/callback")).toEqual({
+    refused: "the callback came back under a state this run never sent",
+  })
+})
+
+test("a refusal Spotify sends back is said rather than traded", () => {
+  const asked = new URL("http://127.0.0.1:8899/callback?error=access_denied&state=a-state")
+  expect(caughtIn(asked, "a-state", "/callback")).toEqual({
+    refused: "spotify refused the consent, saying access_denied",
+  })
+})
+
+test("a callback carrying no code is refused", () => {
+  const asked = new URL("http://127.0.0.1:8899/callback?state=a-state")
+  expect(caughtIn(asked, "a-state", "/callback")).toEqual({
+    refused: "the callback carried no code",
+  })
+})
+
+test("the server answers the one path the callback names", () => {
+  const asked = new URL("http://127.0.0.1:8899/elsewhere?code=a-code&state=a-state")
+  expect(caughtIn(asked, "a-state", "/callback")).toBe(null)
+})
+
+test("the page shown says what became of the consent", () => {
+  const caught: Caught = { code: "a-code" }
+  expect(pageFor(caught)).toContain("Spotify consent is saved")
+  expect(pageFor({ refused: "the callback carried no code" })).toContain(
+    "the callback carried no code"
+  )
+})
+
+test("a trade run with no verifier saved throws", async () => {
   await expect(runAuthCli(["exchange", "--code", "a-code"])).rejects.toThrow(
     "no saved PKCE handoff"
   )
 })
 
-test("the second step saves the token and takes the handoff away", async () => {
+test("the trade saves the token and takes the handoff away", async () => {
   writePkce({ verifier: "a-verifier" })
   let sent: unknown
   const answering: Fetching = async (_url, init) => {

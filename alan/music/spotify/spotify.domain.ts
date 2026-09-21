@@ -39,7 +39,8 @@ export const spotify = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Consent is given once at a terminal rather than by a running callback server.",
+      statement:
+        "Consent is given once at a terminal, and a loopback callback is caught by that same run.",
     },
     {
       decisionKind: "decision-kind/absence",
