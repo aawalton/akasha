@@ -65,5 +65,14 @@ export const unheardPicking = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the network.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A track's Spotify id, disc and position are read off the release it is picked under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track is picked once, whatever releases carry that track.",
+    },
   ],
 } as const satisfies Module

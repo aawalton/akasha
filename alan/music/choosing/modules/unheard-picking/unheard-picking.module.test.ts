@@ -24,6 +24,15 @@ function releaseMade(slug: string, artistSlug: string, publishedAt?: string): Va
   }
 }
 
+function carrierMade(made: Made, releaseSlug: string, trackId: string): Value {
+  return {
+    release: `${release.slug}/${releaseSlug}`,
+    discNumber: made.disc ?? 1,
+    position: made.position ?? 1,
+    externalId: trackId,
+  }
+}
+
 function trackMade(made: Made): Value {
   const id = made.trackId === undefined ? `spotify-${made.slug}` : made.trackId
   return {
@@ -31,10 +40,8 @@ function trackMade(made: Made): Value {
     title: made.slug,
     status: made.status ?? "not-started",
     partOfCollections: [`${release.slug}/${made.releaseSlug}`],
-    discNumber: made.disc ?? 1,
-    position: made.position ?? 1,
     ...(made.key === undefined ? {} : made.key === null ? {} : { trackKey: made.key }),
-    ...(id === null ? {} : { externalIdentity: [{ source: "spotify", externalId: id }] }),
+    ...(id === null ? {} : { carriedBy: [carrierMade(made, made.releaseSlug, id)] }),
   }
 }
 
@@ -106,6 +113,40 @@ test("tracks that came out on one day keep the order their release carries them 
     trackMade({ slug: "a", releaseSlug: "one-first", disc: 1, position: 1 }),
   ]
   expect(slugsOf(tracks)).toEqual(["a", "b", "c"])
+})
+
+test("a track two releases carry is picked under the release that came out first", () => {
+  const both = {
+    slug: "both",
+    title: "both",
+    status: "not-started",
+    trackKey: "same",
+    carriedBy: [
+      { release: `${release.slug}/one-first`, discNumber: 1, position: 9, externalId: "later" },
+      { release: `${release.slug}/one-second`, discNumber: 1, position: 2, externalId: "earlier" },
+    ],
+  }
+  const picked = pickingOver(
+    [both, trackMade({ slug: "other", releaseSlug: "one-second" })],
+    RELEASES,
+    FOLLOWED
+  )
+  expect(picked.map((one) => one.slug)).toEqual(["other", "both"])
+  expect(picked.map((one) => one.trackId)).toEqual(["spotify-other", "earlier"])
+  expect(picked.map((one) => one.releaseSlug)).toEqual(["one-second", "one-second"])
+})
+
+test("a track two releases carry and no key names is picked once", () => {
+  const twice = {
+    slug: "twice",
+    title: "twice",
+    status: "not-started",
+    carriedBy: [
+      { release: `${release.slug}/one-first`, discNumber: 1, position: 1, externalId: "later" },
+      { release: `${release.slug}/one-second`, discNumber: 1, position: 1, externalId: "earlier" },
+    ],
+  }
+  expect(slugsOf([twice])).toEqual(["twice"])
 })
 
 test("a track whose release states no day comes after every track whose release states one", () => {

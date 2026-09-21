@@ -1,13 +1,20 @@
-import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   numberAt,
+  recordsIn,
+  slugOf,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const SPOTIFY = "spotify"
+const CARRIED_BY = "carriedBy"
 
-const IDENTITY = "externalIdentity"
+const RELEASE = "release"
+
+const EXTERNAL_ID = "externalId"
+
+const DISC_NUMBER = "discNumber"
+
+const POSITION = "position"
 
 const PART_OF = "partOfCollections"
 
@@ -18,8 +25,6 @@ const STATUS = "status"
 const COMPLETED = "completed"
 
 const ARTIST_UNDER = "artist/"
-
-const RELEASE_UNDER = "release/"
 
 const PUBLISHED_AT = "publishedAt"
 
@@ -42,6 +47,13 @@ export type Held = {
 export type Came = {
   readonly artistSlug: string
   readonly publishedAt: string | null
+}
+
+export type Carriage = {
+  readonly releaseSlug: string
+  readonly trackId: string
+  readonly disc: number
+  readonly position: number
 }
 
 export function namedUnder(held: unknown, under: string): string | null {
@@ -67,6 +79,22 @@ export function releasesIn(releases: readonly Value[]): ReadonlyMap<string, Came
   return held
 }
 
+export function carriageIn(value: Value): readonly Carriage[] {
+  const rows: Carriage[] = []
+  for (const one of recordsIn(value[CARRIED_BY])) {
+    const named = textIn(one, RELEASE)
+    const trackId = textIn(one, EXTERNAL_ID)
+    if (named === null || trackId === null) continue
+    rows.push({
+      releaseSlug: slugOf(named),
+      trackId,
+      disc: numberAt(one, DISC_NUMBER) ?? 0,
+      position: numberAt(one, POSITION) ?? 0,
+    })
+  }
+  return rows
+}
+
 export function heldOver(
   tracks: readonly Value[],
   byRelease: ReadonlyMap<string, Came>,
@@ -75,26 +103,25 @@ export function heldOver(
   const rows: Held[] = []
   for (const one of tracks) {
     if (heard(one)) continue
-    const releaseSlug = namedUnder(one[PART_OF], RELEASE_UNDER)
-    if (releaseSlug === null) continue
-    const came = byRelease.get(releaseSlug)
-    if (came === undefined || !followed.has(came.artistSlug)) continue
-    const trackId = idFrom(one[IDENTITY], SPOTIFY)
     const slug = textIn(one, "slug")
-    if (trackId === null || slug === null) continue
-    rows.push({
-      picked: {
-        trackId,
-        slug,
-        title: textIn(one, "title") ?? slug,
-        artistSlug: came.artistSlug,
-        releaseSlug,
-      },
-      key: textIn(one, TRACK_KEY),
-      publishedAt: came.publishedAt,
-      disc: numberAt(one, "discNumber") ?? 0,
-      position: numberAt(one, "position") ?? 0,
-    })
+    if (slug === null) continue
+    for (const carried of carriageIn(one)) {
+      const came = byRelease.get(carried.releaseSlug)
+      if (came === undefined || !followed.has(came.artistSlug)) continue
+      rows.push({
+        picked: {
+          trackId: carried.trackId,
+          slug,
+          title: textIn(one, "title") ?? slug,
+          artistSlug: came.artistSlug,
+          releaseSlug: carried.releaseSlug,
+        },
+        key: textIn(one, TRACK_KEY),
+        publishedAt: came.publishedAt,
+        disc: carried.disc,
+        position: carried.position,
+      })
+    }
   }
   return rows
 }
@@ -125,10 +152,9 @@ export function byArtistIn(rows: readonly Held[]): ReadonlyMap<string, readonly 
   const taken = new Set<string>()
   const held = new Map<string, Picked[]>()
   for (const one of ordered(rows)) {
-    if (one.key !== null) {
-      if (taken.has(one.key)) continue
-      taken.add(one.key)
-    }
+    const key = one.key ?? one.picked.slug
+    if (taken.has(key)) continue
+    taken.add(key)
     const carried = held.get(one.picked.artistSlug) ?? []
     carried.push(one.picked)
     held.set(one.picked.artistSlug, carried)
