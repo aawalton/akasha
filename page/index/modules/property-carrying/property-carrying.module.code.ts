@@ -353,7 +353,7 @@ function sectionKey(pageTypeSlug: string, propertySlug: string): string {
 export function slugsWhere(
   given: Kinded,
   wanted: (value: Value) => boolean,
-  carriedBy: (named: string) => Carried,
+  typesBy: (named: string) => ReadonlySet<string>,
   under: string = FILE_PROPERTY
 ): ReadonlySet<string> {
   const made = new Set<string>()
@@ -366,7 +366,7 @@ export function slugsWhere(
       const said = partedIn(listed.path)
       if (typeof slug !== "string" || said === null || said.sections.length > 0) continue
       const named = `${said.pageType}/${said.slug}`
-      for (const one of typesIn(carriedBy(named))) made.add(sectionKey(one, slug))
+      for (const one of typesBy(named)) made.add(sectionKey(one, slug))
     }
   }
   return made

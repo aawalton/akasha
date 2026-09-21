@@ -59,7 +59,7 @@ export function heldOff(value: Value): boolean {
 function sectionsOff(shadow: Shadow): ReadonlySet<string> {
   const found = HELD_OFF.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(shadow.index, heldOff, (named) => shadow.index.carryingOf(named))
+  const made = slugsWhere(shadow.index, heldOff, (named) => shadow.index.typesCarrying(named))
   HELD_OFF.set(shadow, made)
   return made
 }

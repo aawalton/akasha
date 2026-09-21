@@ -4,6 +4,7 @@ import {
   namingFor,
   sectionHeld,
   slugsWhere,
+  typesByOf,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -20,7 +21,7 @@ const QUOTING = new WeakMap<Facing, ReadonlySet<string>>()
 function quotingFor(given: Facing): ReadonlySet<string> {
   const found = QUOTING.get(given)
   if (found !== undefined) return found
-  const made = slugsWhere(given, quotes, given.carryingOf, ENTRY)
+  const made = slugsWhere(given, quotes, typesByOf(given), ENTRY)
   QUOTING.set(given, made)
   return made
 }

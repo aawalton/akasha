@@ -5,6 +5,7 @@ import {
   namingFor,
   sectionHeld,
   slugsWhere,
+  typesByOf,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -19,7 +20,7 @@ export function appendsOnly(value: Value): boolean {
 export function appendingFor(given: Facing): ReadonlySet<string> {
   const found = APPENDING.get(given)
   if (found !== undefined) return found
-  const made = slugsWhere(given, appendsOnly, given.carryingOf)
+  const made = slugsWhere(given, appendsOnly, typesByOf(given))
   APPENDING.set(given, made)
   return made
 }

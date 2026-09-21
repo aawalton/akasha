@@ -70,7 +70,7 @@ export function holdingBytes(value: Value): boolean {
 function bytesHeld(shadow: Shadow): ReadonlySet<string> {
   const found = BYTES.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(shadow.index, holdingBytes, (named) => shadow.index.carryingOf(named))
+  const made = slugsWhere(shadow.index, holdingBytes, (named) => shadow.index.typesCarrying(named))
   BYTES.set(shadow, made)
   return made
 }
