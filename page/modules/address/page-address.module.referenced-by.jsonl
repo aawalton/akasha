@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"person/modules/device-token-registration/device-token-registration.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"person/modules/route-access/route-access.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/smilingjenny/web/routes/jenny-requests/jenny-requests.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/panel/modules/panel-loading/panel-loading.module.code.ts"}

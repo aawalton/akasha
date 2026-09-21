@@ -2,6 +2,7 @@ import { index, type RouteConfig, route } from "@react-router/dev/routes"
 
 export default [
   index("routes/jenny-home/jenny-home.route.code.tsx"),
+  route("requests", "routes/jenny-requests/jenny-requests.route.code.tsx"),
   route("handover", "routes/jenny-handover/jenny-handover.route.code.ts"),
   route("sign-in", "routes/jenny-sign-in/jenny-sign-in.route.code.ts"),
   route("sign-out", "routes/jenny-sign-out/jenny-sign-out.route.code.ts"),

@@ -15,6 +15,7 @@ export const smilingjennyWebRoutes = {
     "route/jenny-handover",
     "route/jenny-home",
     "route/jenny-readout-relay",
+    "route/jenny-requests",
     "route/jenny-safety-level",
     "route/jenny-sign-in",
     "route/jenny-sign-out",
