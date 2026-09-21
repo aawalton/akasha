@@ -33,7 +33,6 @@ export const temperAddonType = {
     "type-declaration/lib-map-pins",
     "type-declaration/lib-multi-account-sets",
     "type-declaration/lib-notification",
-    "type-declaration/lib-price",
     "type-declaration/lib-qr-code",
     "type-declaration/lib-radial-menu",
     "type-declaration/lib-saved-vars",

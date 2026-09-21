@@ -79,7 +79,7 @@ export const STATIC_STRINGS: Record<string, string> = {
   ["know_err_skill_not_maxed"]: "Insufficient skill '%s': %d/%d",
   ["know_err_trait"]: "Trait %s %s not known",
   ["know_err_trait_ct_too_low"]: "%d of %d traits required for set %s",
-  ["lam_att_price_desc"]: "Check with Arkadius Trade Tools for material prices through LibPrice.",
+  ["lam_att_price_desc"]: "Check with Arkadius Trade Tools for material prices.",
   ["lam_att_price_title"]: "Use ATT prices",
   ["lam_banked_vouchers_desc"]:
     "Scan bank and include those writs in the list of writs available to automatically craft.\n|cFF3333BE CAREFUL if you craft on multiple characters! WritWorthy will not warn you if you craft the same banked writ on multiple characters.|r",
@@ -104,12 +104,12 @@ export const STATIC_STRINGS: Record<string, string> = {
   ["lam_mat_tooltip_missing_only"]: "Missing Only",
   ["lam_mat_tooltip_off"]: "Off",
   ["lam_mat_tooltip_title"]: "Show materials in tooltip",
-  ["lam_mm_price_desc"]: "Check with Master Merchant for material prices through LibPrice.",
+  ["lam_mm_price_desc"]: "Check with Master Merchant for material prices.",
   ["lam_mm_price_title"]: "Use MM prices",
   ["lam_station_colors_desc"]:
     "Use different colors for blacksmithing, clothing, and woodworking items in the WritWorthy window.",
   ["lam_station_colors_title"]: "Station colors in window",
-  ["lam_ttc_price_desc"]: "Check with Tamriel Trade Centre for material prices through LibPrice.",
+  ["lam_ttc_price_desc"]: "Check with Tamriel Trade Centre for material prices.",
   ["lam_ttc_price_title"]: "Use TTC prices",
   ["mat_ui_filter_all_mats"]: "Show all materials for all queued master writs",
   ["mat_ui_filter_missing_mats"]: "Show missing materials for all queued master writs",

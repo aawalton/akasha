@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/price-sources-furc/price-sources-furc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-prov-data/writ-prov-data.module.code.ts"}
@@ -87,7 +88,6 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-price/modules/price-sources-furc/price-sources-furc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-classdata/lib-sets-const-all-classdata.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}

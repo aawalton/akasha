@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-reagents/potion-reagents.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/price-sources-furc/price-sources-furc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-i18n/writ-i18n.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-prov-data/writ-prov-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-slash-command/writ-slash-command.module.code.ts"}
@@ -91,7 +92,6 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-price/modules/price-sources-furc/price-sources-furc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-nav/lib-sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-perfected-veteran-set/lib-sets-core-api-perfected-veteran-set.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-set-itemids-filtered/lib-sets-core-set-itemids-filtered.module.code.ts"}

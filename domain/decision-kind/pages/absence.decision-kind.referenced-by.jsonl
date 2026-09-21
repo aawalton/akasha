@@ -1752,6 +1752,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/temper-addon-errors.temper-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
@@ -1812,7 +1813,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-types/map-ping-types.module.ts","id":"01a0605f-6260-741e-924b-a396ec57c80f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-casts/notification-casts.module.ts","id":"01a0605a-0516-7516-a0f3-ef7984de267b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-price/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.ts","id":"01a06275-c443-79ce-a2b3-306d66ef04d7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.ts","id":"01a06275-c443-74d3-95bf-8e3d22f7d594"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.ts","id":"01a0c508-3bf4-754f-bc51-3777ce7a959c"}

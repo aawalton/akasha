@@ -59,7 +59,6 @@ export const temperAddon = {
     "temper-addon/temper-lib-map-ping",
     "temper-addon/temper-lib-map-pins",
     "temper-addon/temper-lib-notification",
-    "temper-addon/temper-lib-price",
     "temper-addon/temper-lib-saved-vars",
     "temper-addon/temper-lib-scrollable-menu",
     "temper-addon/temper-lib-sets",

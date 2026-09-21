@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-render-page/potion-render-page.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-state/potion-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-windows/potion-windows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/price-sources-att/price-sources-att.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-util/writ-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-state/next-boss-state.module.code.ts"}
@@ -78,7 +79,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-price/modules/price-sources-att/price-sources-att.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-interaction/scrollable-menu-dropdown-class-interaction.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts"}

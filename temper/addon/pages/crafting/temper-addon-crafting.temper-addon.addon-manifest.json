@@ -19,7 +19,6 @@
     "LibAsync>=20100",
     "LibCustomMenu>=692",
     "LibMainMenu-2.0>=432",
-    "LibPrice>=70530",
     "LibSets>=9020",
     "TemperHud"
   ],

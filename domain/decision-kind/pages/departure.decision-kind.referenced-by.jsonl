@@ -3656,6 +3656,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/alchemy-station/alchemy-station.module.ts","id":"01a06054-98bc-78f0-afbb-f7343cb932bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/potion-controls-ingredients/potion-controls-ingredients.module.ts","id":"01a08e6b-e041-7bef-ba7a-afd8c380848d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/price-cache/price-cache.module.ts","id":"01a0615d-c218-7c2e-8456-f4c21cdb9bd4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/writ-i18n/writ-i18n.module.ts","id":"01a061c7-e896-7e6c-9bf8-02b9e70effd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/temper-addon-crafting.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
@@ -3958,8 +3959,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-types/notification-types.module.ts","id":"01a0605a-0517-72bd-a7a6-c5f4d281833c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/temper-lib-notification.temper-addon.ts","id":"01a0605a-0514-797f-9f36-a01b055a56fc"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-price/modules/price-cache/price-cache.module.ts","id":"01a0615d-c218-7c2e-8456-f4c21cdb9bd4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-price/temper-lib-price.temper-addon.ts","id":"01a0615d-c21d-7961-8564-2c0c9e040e08"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-saved-vars/temper-lib-saved-vars.temper-addon.ts","id":"01a06177-abf7-7c8b-83f6-be2b40de177e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}

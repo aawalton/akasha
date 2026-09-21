@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libPrice = {
-  id: "01a06090-f5b5-79a4-ae5a-ecbc33adb3e8",
-  type: "page-type/type-declaration",
-  slug: "lib-price",
-  definition: "what the lib-price library leaves in another add-on's reach",
-  d: "ts",
-} as const satisfies TypeDeclaration
