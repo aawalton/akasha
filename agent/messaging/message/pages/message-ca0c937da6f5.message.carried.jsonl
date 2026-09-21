@@ -1,0 +1,7 @@
+{"body":"the audit at 604822272a578244001b65d1ef033705bdef4da4 found 2 checks newly refusing.\n`index-is-level-with-the-pages` refused 80 times:\n  inference/generation/image/pages/image-024d1b14c69f1fb0.image.referenced-by — the index entry for this file is named by a page and missing from the index\n  inference/generation/image/pages/image-51770384ec293e7e.image.referenced-by — the index entry for this file is named by a page and missing from the index\n  inference/generation/image/pages/image-53539502b9dffc84.image.referenced-by — the index entry for this file is named by a page and missing from the index\n  inference/generation/image/pages/image-070d57a5af44b12c.image.referenced-by — the index entry for this file is in the index differing from what its page says\n  inference/generation/image/pages/image-0a4eb7f00959fb2a.image.referenced-by — the index entry for this file is in the index differing from what its page says\n`tests-pass` refused 1 time:\n  domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.test.ts — Measured between 2026-09-21T22:49:38.306Z and 2026-09-21T22:51:11.273Z. 3 test files failed: domain/context/warrant/change-taboo-terms/change-taboo-terms... (3723 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n"}
+{"from":"audit-running"}
+{"id":"01a0c62b-d691-7000-9ed7-ca0c937da6f5"}
+{"slug":"message-ca0c937da6f5"}
+{"to":"seat/thea"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
