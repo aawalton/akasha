@@ -91,7 +91,15 @@ function linkedFiled(root: string): undefined {
   ])
 }
 
+const LINKED_BODY = `export const it = ${JSON.stringify({
+  id: PACKAGE_ID,
+  pageTypeSlug: PACKAGE,
+  slug: EXTENSION,
+  linkedAt: LINKED_TO,
+})} as const\n`
+
 function packageFiled(root: string): string {
+  writing(root, LINKED_PAGE, LINKED_BODY)
   nothingFiled(root)
   listedFiled(root, PACKAGE, EXTENSION, [{ path: LINKED_PAGE, id: PACKAGE_ID }])
   shapeAdded(root, FILE_PROPERTY, MANIFEST_PROPERTY, [
@@ -113,17 +121,12 @@ export function stating(
   said: Readonly<Record<string, string | null>>,
   named: string | null = PACKAGE_JSON
 ): Indexing {
-  const carrying = Object.keys(said).map((path) => ({
-    pageTypeSlug: PACKAGE,
-    path,
-    id: path,
-    within: null,
-  }))
+  const listed = Object.keys(said)
   const valued = new Map<string, Value>(
     Object.entries(said).map(([path, held]) => [path, held === null ? {} : { linkedAt: held }])
   )
   return {
-    carryingOf: () => ({ carrying }),
+    listed: () => listed,
     valueAt: (path) => valued.get(path) ?? null,
     fileKeysAt: () => new Map([[MANIFEST_PROPERTY, named]]),
   }

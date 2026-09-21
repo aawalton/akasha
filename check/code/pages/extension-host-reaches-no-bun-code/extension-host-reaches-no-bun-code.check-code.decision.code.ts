@@ -6,10 +6,9 @@ import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specif
 import type { Edge } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
-import type { Carried } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
@@ -18,26 +17,23 @@ const LINKED = "linked-at"
 
 const MANIFEST_PROPERTY = "workspace-manifest"
 
-const ROOT = "."
+const ROOT_FOLDER = ""
 
 const UNKNOWN = "so what the host loads is unknown"
 
 export type Indexing = {
-  readonly carryingOf: (named: string) => Carried
+  readonly listed: (folder: string) => readonly string[]
   readonly valueAt: (path: string) => Value | null
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
 }
 
 function linkedIn(index: Indexing): string {
-  const carried = index.carryingOf(LINKED)
-  if ("refused" in carried) throw new Error(`${carried.refused}, ${UNKNOWN}`)
   const key = exportedAs(LINKED)
   const found: string[] = []
-  for (const one of carried.carrying) {
-    if (dirname(one.path) !== ROOT) continue
-    const value = index.valueAt(one.path)
+  for (const path of index.listed(ROOT_FOLDER)) {
+    const value = index.valueAt(path)
     if (value === null || typeof value[key] !== "string") continue
-    if (!found.includes(one.path)) found.push(one.path)
+    if (!found.includes(path)) found.push(path)
   }
   const page = found[0]
   if (page === undefined || found.length > 1) {
@@ -48,6 +44,14 @@ function linkedIn(index: Indexing): string {
   }
   return page
 }
+
+export const indexingOf = heldPerShadow(
+  (shadow: Shadow): Indexing => ({
+    listed: (folder) => shadow.listed(folder),
+    valueAt: (path) => shadow.pageOf(path),
+    fileKeysAt: () => shadow.index.fileKeysAt(),
+  })
+)
 
 const MANIFEST_AT = new WeakMap<Indexing, string>()
 
