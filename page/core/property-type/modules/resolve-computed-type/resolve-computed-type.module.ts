@@ -6,4 +6,28 @@ export const resolveComputedType = {
   slug: "resolve-computed-type",
   definition: "what a computed property type resolves to",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A resolved property is drawn by the chain of the type it resolved to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rollup takes the chain of the property it reaches, members and all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chain for a resolved type is taken from a property already carrying one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A resolved type no property to hand carries a chain for keeps its declared chain.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No page type slug is written here from a property type.",
+    },
+  ],
 } as const satisfies Module

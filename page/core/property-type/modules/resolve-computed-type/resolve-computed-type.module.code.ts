@@ -22,10 +22,14 @@ export function resolveComputedProperty(
   propertiesByPageType: PageTypePropertiesMap
 ): PropertyDefinition {
   if (definition.type === "aggregate") {
-    return synthesizeDefinition(definition, "number", resolveAggregateNumberConfig(definition))
+    return synthesizeDefinition(definition, propertiesByPageType, {
+      type: "number",
+      config: resolveAggregateNumberConfig(definition),
+      drawn: {},
+    })
   }
   if (definition.type === "formula") {
-    return resolveFormula(definition)
+    return resolveFormula(definition, propertiesByPageType)
   }
   if (definition.type === "rollup") {
     return resolveRollupDefinition(definition, pageTypeId, propertiesByPageType)
@@ -33,14 +37,17 @@ export function resolveComputedProperty(
   return definition
 }
 
-function resolveFormula(definition: PropertyDefinition): PropertyDefinition {
+function resolveFormula(
+  definition: PropertyDefinition,
+  propertiesByPageType: PageTypePropertiesMap
+): PropertyDefinition {
   const parsed = formulaConfigSchema.safeParse(definition.config)
   if (!parsed.success) return definition
-  return synthesizeDefinition(
-    definition,
-    parsed.data.returnType,
-    resolvedFormulaConfig(parsed.data)
-  )
+  return synthesizeDefinition(definition, propertiesByPageType, {
+    type: parsed.data.returnType,
+    config: resolvedFormulaConfig(parsed.data),
+    drawn: {},
+  })
 }
 
 function resolvedFormulaConfig(parsed: z.infer<typeof formulaConfigSchema>): ConfigValue {
@@ -100,12 +107,18 @@ function resolveRollupDefinition(
   const resolved = walkRollupChain(config, pageTypeId, propertiesByPageType, new Set(), 0)
   if (resolved === null) return definition
 
-  return synthesizeDefinition(definition, resolved.type, resolved.config)
+  return synthesizeDefinition(definition, propertiesByPageType, resolved)
+}
+
+interface Drawn {
+  readonly drawnBy?: readonly string[]
+  readonly memberDrawnBy?: readonly (readonly string[])[]
 }
 
 interface ResolvedType {
   readonly type: PropertyType
   readonly config: ConfigValue
+  readonly drawn: Drawn
 }
 
 function walkRollupChain(
@@ -144,26 +157,61 @@ function walkRollupChain(
   }
 
   if (targetProp.type === "aggregate") {
-    return { type: "number", config: resolveAggregateNumberConfig(targetProp) }
+    return { type: "number", config: resolveAggregateNumberConfig(targetProp), drawn: {} }
   }
 
   if (targetProp.type === "formula") {
     const parsed = formulaConfigSchema.safeParse(targetProp.config)
     if (!parsed.success) return null
-    return { type: parsed.data.returnType, config: resolvedFormulaConfig(parsed.data) }
+    return { type: parsed.data.returnType, config: resolvedFormulaConfig(parsed.data), drawn: {} }
   }
 
-  return { type: targetProp.type, config: targetProp.config ?? {} }
+  return { type: targetProp.type, config: targetProp.config ?? {}, drawn: drawnOf(targetProp) }
 }
 
 type ConfigValue = NonNullable<PropertyDefinition["config"]>
 
+function drawnOf(one: PropertyDefinition): Drawn {
+  const drawn: { drawnBy?: readonly string[]; memberDrawnBy?: readonly (readonly string[])[] } = {}
+  if (one.drawnBy !== undefined) drawn.drawnBy = one.drawnBy
+  if (one.memberDrawnBy !== undefined) drawn.memberDrawnBy = one.memberDrawnBy
+  return drawn
+}
+
+function drawnAsType(
+  type: PropertyType,
+  propertiesByPageType: PageTypePropertiesMap
+): Drawn | null {
+  for (const properties of propertiesByPageType.values()) {
+    for (const one of properties) {
+      if (one.type !== type) continue
+      if (one.drawnBy === undefined || one.drawnBy.length === 0) continue
+      return drawnOf(one)
+    }
+  }
+  return null
+}
+
+function drawnForResolved(
+  source: PropertyDefinition,
+  resolved: ResolvedType,
+  propertiesByPageType: PageTypePropertiesMap
+): Drawn {
+  if (resolved.drawn.drawnBy !== undefined) return resolved.drawn
+  return drawnAsType(resolved.type, propertiesByPageType) ?? drawnOf(source)
+}
+
 function synthesizeDefinition(
   source: PropertyDefinition,
-  type: PropertyType,
-  config: ConfigValue
+  propertiesByPageType: PageTypePropertiesMap,
+  resolved: ResolvedType
 ): PropertyDefinition {
-  const required = { id: source.id, title: source.title, type, config }
+  const required = {
+    id: source.id,
+    title: source.title,
+    type: resolved.type,
+    config: resolved.config,
+  }
   const optional: {
     accent?: boolean
     display?: "badge" | "inline"
@@ -182,5 +230,9 @@ function synthesizeDefinition(
   if (source.indexName !== undefined) optional.indexName = source.indexName
   if (source.isRequired !== undefined) optional.isRequired = source.isRequired
   if (source.unique !== undefined) optional.unique = source.unique
-  return { ...required, ...optional } satisfies PropertyDefinition
+  return {
+    ...required,
+    ...drawnForResolved(source, resolved, propertiesByPageType),
+    ...optional,
+  } satisfies PropertyDefinition
 }

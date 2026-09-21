@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/registry/registry.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolution-target-types/resolution-target-types.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.test.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/rollup/rollup.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts"}
