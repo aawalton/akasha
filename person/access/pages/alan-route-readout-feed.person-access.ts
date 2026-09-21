@@ -7,4 +7,5 @@ export const alanRouteReadoutFeed = {
   person: "person/alan",
   accessKind: "access-kind/route",
   target: "readout-feed",
+  deed: ["access-deed/read"],
 } as const satisfies PersonAccess

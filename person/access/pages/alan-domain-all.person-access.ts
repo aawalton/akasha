@@ -7,4 +7,5 @@ export const alanDomainAll = {
   person: "person/alan",
   accessKind: "access-kind/domain",
   target: "all",
+  deed: ["access-deed/read", "access-deed/write"],
 } as const satisfies PersonAccess

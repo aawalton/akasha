@@ -1,4 +1,5 @@
 {"accessKind":"access-kind/domain"}
+{"deed":["access-deed/read","access-deed/write"]}
 {"id":"01a05433-f101-76c2-b99b-20050a09fc81"}
 {"person":"person/alan"}
 {"slug":"alan-domain-all"}

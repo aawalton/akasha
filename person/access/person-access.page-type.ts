@@ -11,6 +11,7 @@ export const personAccess = {
     "relation-property/person-access-person",
     "text-property/person-access-serves",
     "text-property/person-access-target",
+    "relation-property/person-access-deed",
   ],
   properties: [
     {
@@ -21,6 +22,12 @@ export const personAccess = {
     { pageProperty: "relation-property/person-access-kind", required: true, many: false },
     { pageProperty: "text-property/person-access-target", required: true, many: false },
     { pageProperty: "text-property/person-access-serves", required: false, many: false },
+    {
+      pageProperty: "relation-property/person-access-deed",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
   ],
   types: "ts",
   schema: "jsonl",

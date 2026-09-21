@@ -7,4 +7,5 @@ export const alanRouteDeviceSecretMint = {
   person: "person/alan",
   accessKind: "access-kind/route",
   target: "device-secret-mint",
+  deed: ["access-deed/read"],
 } as const satisfies PersonAccess

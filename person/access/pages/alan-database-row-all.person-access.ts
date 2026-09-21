@@ -7,4 +7,5 @@ export const alanDatabaseRowAll = {
   person: "person/alan",
   accessKind: "access-kind/database-row",
   target: "all",
+  deed: ["access-deed/read", "access-deed/write"],
 } as const satisfies PersonAccess

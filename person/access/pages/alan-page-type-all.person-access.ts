@@ -7,4 +7,5 @@ export const alanPageTypeAll = {
   person: "person/alan",
   accessKind: "access-kind/page-type",
   target: "all",
+  deed: ["access-deed/read", "access-deed/write"],
 } as const satisfies PersonAccess

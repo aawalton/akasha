@@ -7,4 +7,5 @@ export const alanRouteAll = {
   person: "person/alan",
   accessKind: "access-kind/route",
   target: "all",
+  deed: ["access-deed/read"],
 } as const satisfies PersonAccess

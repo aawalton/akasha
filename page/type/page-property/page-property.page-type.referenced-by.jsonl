@@ -125,6 +125,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/narrows.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/view-sorts.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/visible-properties.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/access/properties/person-access-deed.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/craft-day/properties/personas-crafted.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/card-vocabulary.text-property.types.ts"}

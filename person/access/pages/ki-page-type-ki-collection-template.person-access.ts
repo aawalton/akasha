@@ -7,5 +7,6 @@ export const kiPageTypeKiCollectionTemplate = {
   person: "person/ki",
   accessKind: "access-kind/page-type",
   target: "ki-collection-template",
+  deed: ["access-deed/read", "access-deed/write"],
   serves: "collection",
 } as const satisfies PersonAccess
