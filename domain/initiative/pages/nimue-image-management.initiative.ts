@@ -8,12 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement:
-        "Every image a deployed reader shows comes from the pages service on the workstation.",
-      workingMemory:
-        "`/api/image/:imageId` on the web app asks the pages service for the image page of that id and then for its `bytes`, and answers them with the slug as the ETag; the object store is not read. Deployed at `f8292dfbcc8`, and proven from inside the web pod, where `/ask` then `/file` over the page-forwarder answered Nimue's cover, 1,137,978 png bytes. `/api/wallpaper` reads a persona's `mobile-wallpaper` file the same way. No other deployed reader shows an image.",
-    },
-    {
       statement: "No image's bytes are in the object store.",
       workingMemory:
         "Not met, and not worked before the migration above. `/api/image/:imageId` serves 37 persona covers, 112 generation-log rows and 14 food entries out of the SeaweedFS bucket `agent-sessions` under `images/<pageId>.png`, with a legacy `persona-images/` prefix costing a third HEAD on every miss. 54 committed pages hold a literal `/api/image/<uuid>` in `cover`, and `PageCover` writes an arbitrary pasted URL into that same field.",
