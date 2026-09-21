@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperAddonsResolve = {
+export const temperAddonResolve = {
   id: "01a06060-ec3c-725c-b37c-206e3c7f7e97",
   type: "page-type/domain",
-  slug: "temper-addons-resolve",
+  slug: "temper-addon-resolve",
   definition: "which addons the repository has and what each addon needs to be built",
   parts: [
     "module/addon-json",

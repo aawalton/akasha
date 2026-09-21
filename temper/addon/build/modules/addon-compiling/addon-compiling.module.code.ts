@@ -2,11 +2,11 @@ import { existsSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { listAllAddons } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "akasha/temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addon/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import {
   ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,

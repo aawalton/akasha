@@ -7,10 +7,10 @@ import {
   numberAt,
   textAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import type { AddonManifest } from "akasha/temper/addon/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addon/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import { safeFolderName } from "akasha/temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
+import type { AddonManifest } from "akasha/temper/addon/resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { safeFolderName } from "akasha/temper/addon/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import {
   ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,

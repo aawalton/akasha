@@ -2,5 +2,5 @@
 {"definition":"which addons the repository has and what each addon needs to be built"}
 {"id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"parts":["module/addon-json","module/addon-manifest-file","module/addon-roster","module/deployable-addons","module/distributable-set","module/folder-ownership","module/sibling-addons"]}
-{"slug":"temper-addons-resolve"}
+{"slug":"temper-addon-resolve"}
 {"type":"page-type/domain"}

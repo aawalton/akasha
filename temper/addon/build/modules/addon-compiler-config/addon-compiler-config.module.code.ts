@@ -5,7 +5,7 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 export const TSCONFIG_NAME = "tsconfig.json"
 

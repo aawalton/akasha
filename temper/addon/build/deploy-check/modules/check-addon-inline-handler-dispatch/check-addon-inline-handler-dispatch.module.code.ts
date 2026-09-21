@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { listAllAddons } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   type DispatchFinding,
   detectNonDispatchHandlers,

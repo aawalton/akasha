@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

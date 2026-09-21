@@ -3,7 +3,7 @@ import {
   type AddonDependencies,
   dependencyName,
   resolveDistributableSet,
-} from "akasha/temper/addon/addons-resolve/modules/distributable-set/distributable-set.module.code.ts"
+} from "akasha/temper/addon/resolve/modules/distributable-set/distributable-set.module.code.ts"
 
 function setOf(entries: Readonly<Record<string, AddonDependencies>>) {
   return new Map(Object.entries(entries))

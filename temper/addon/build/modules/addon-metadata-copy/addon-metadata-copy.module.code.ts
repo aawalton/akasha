@@ -1,14 +1,14 @@
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { addonManifestSchema } from "akasha/temper/addon/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addon/addons-resolve/modules/folder-ownership/folder-ownership.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addon/resolve/modules/folder-ownership/folder-ownership.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
   siblingManifestsIn,
   siblingSourceDir,
-} from "akasha/temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addon/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import {
   DIST_UNDER,

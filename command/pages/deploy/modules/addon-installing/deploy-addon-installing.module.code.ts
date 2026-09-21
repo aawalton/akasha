@@ -7,9 +7,9 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
-import { listAllAddons } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import { compiledAddon } from "akasha/temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"
 import { placedAddon } from "akasha/temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
 
 export async function putUpAddon(
   codeAt: string,

@@ -2,8 +2,8 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, relative, sep } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addon/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 const DEFAULT_REPO_ROOT = rootOf(import.meta.dir)
 

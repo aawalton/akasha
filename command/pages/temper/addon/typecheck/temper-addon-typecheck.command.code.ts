@@ -16,11 +16,11 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperAddonTypecheck as page } from "akasha/command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { compilerConfigPathFor } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import {
   type AddonInfo,
   listAllAddons,
-} from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { compilerConfigPathFor } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
+} from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

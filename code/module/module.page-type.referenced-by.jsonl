@@ -2622,13 +2622,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/addon-json/addon-json.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/deployable-addons/deployable-addons.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/distributable-set/distributable-set.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/folder-ownership/folder-ownership.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.ts"}
@@ -4717,6 +4710,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-types/trading-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/addon-json/addon-json.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/addon-roster/addon-roster.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/deployable-addons/deployable-addons.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/distributable-set/distributable-set.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/folder-ownership/folder-ownership.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/sibling-addons/sibling-addons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/settings-panel/modules/build-lookup/build-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/settings-panel/modules/header/header.module.ts"}

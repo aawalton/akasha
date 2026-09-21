@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
-import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   type AddonInfo,
   listAllAddons,
-} from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   type AddonDepInput,
   type DependencyCycleViolation,
