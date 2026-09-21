@@ -13,4 +13,16 @@ export const theTowerCounterweightColossus01 = {
   trigger: "approaching the exit-stair / the headworks gantry, or striking the seated Colossus",
   experience: 240,
   drop: "the released winding-drum core (a dense tension-wound iron drum — the heaviest mechanism-core yet; equipment/crafting seed, a 'stored-force' affinity seed) and the Warden's chain-length (a usable heavy flail/tether, atk 5, OR crafting material — Alan likely crafts rather than wields it)",
+  gates: [
+    {
+      name: "struck anywhere but the pawl",
+      multiplier: 0.25,
+      note: "The body is fused stone and iron, so pounding the torso or the limbs is nearly futile.",
+    },
+    {
+      name: "placed on the release pawl",
+      multiplier: 3,
+      note: "One iron pawl at its waist holds the wound counterweight drum. Reading it is intellect and placing it is finesse, never a contest of might, and a solid hit unwinds the whole system through it.",
+    },
+  ],
 } as const satisfies GameEncounter
