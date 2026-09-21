@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "269 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 7. Next is `the-transactions-entry-shape-dropped-hide-from-reports` under `domain/monarch`. The 56 under `alan-book/all-about-alan` are still unread. Verify each against the tree before putting it to Alan; three now were already dead.\n",
+        "268 are left, and the count rises as other seats file more. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 12. Next is `the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox`. The 56 under `alan-book/all-about-alan` are still unread. Verify each against the tree before putting it to Alan; several were already dead.\n",
     },
   ],
   constraints: [
