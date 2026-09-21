@@ -542,7 +542,6 @@
 {"propertySlug":"decision-kind","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts","id":"01a0c496-2b97-76ff-8b10-c786cbff7340"}
-{"propertySlug":"decision-kind","path":"change/agent/file/carry-roll-rows/carry-roll-rows.change-agent.ts","id":"01a0c4ba-3957-7eb6-bf35-9bbc1c9d7114"}
 {"propertySlug":"decision-kind","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.ts","id":"01a07883-67ee-73cd-8370-4730fab7c87c"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.ts","id":"01a09c47-b808-729b-93da-e1e57e0056a9"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.ts","id":"01a08df3-43fc-70b7-b21c-a996acd3d268"}
@@ -1270,7 +1269,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/long-answering/long-answering.module.ts","id":"01a0956d-dad6-7000-bca1-cb148c7ff3f1"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
-{"propertySlug":"decision-kind","path":"command/pages/refresh/attribute/refresh-attribute.command.ts","id":"01a08209-d5d9-7d6a-8ba8-e42a8b51316b"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/message/refresh-message.command.ts","id":"01a082fe-341d-7593-8cfd-8216a7e94c2c"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/persona/refresh-persona.command.ts","id":"01a082e7-c8d0-7100-993a-5d7b2a70490d"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/messaged/seat-messaged.command.ts","id":"01a0780e-7f14-71fd-ac09-b12de342c207"}
@@ -1640,10 +1638,13 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}
+{"propertySlug":"decision-kind","path":"story/game/panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
+{"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-loading/panel-loading.module.ts","id":"01a0c4ae-6e13-7017-99e9-d00c28c4c3f3"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-offering/panel-offering.module.ts","id":"01a0c4ad-6d02-7bc5-a1c0-3cc32a3c9f2b"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-turning/panel-turning.module.ts","id":"01a0c4a9-ae08-7564-ae1b-c05deab3547b"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts","id":"01a0c4a1-be31-7274-b419-1776b8ae4de4"}
+{"propertySlug":"decision-kind","path":"story/game/panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
 {"propertySlug":"decision-kind","path":"story/game/panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
 {"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}

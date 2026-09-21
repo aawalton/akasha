@@ -83,6 +83,7 @@
 {"propertySlug":"extends-type","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
 {"propertySlug":"extends-type","path":"persona/origin-kind/origin-kind.page-type.ts","id":"01a05361-6286-7dcd-a5b1-16a97d9c1932"}
 {"propertySlug":"extends-type","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
+{"propertySlug":"extends-type","path":"story/game/panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
 {"propertySlug":"extends-type","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts","id":"01a081b0-6ef0-79f7-8191-4b78fb717423"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.test.ts"}
@@ -528,6 +529,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/core/story-engine-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/story-engine.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/game/panel/panel-place/panel-place.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/narrative-production/narrative-production.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/story.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/ui/ui.domain.ts"}
@@ -597,12 +599,12 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/temper-eso.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/type/temper-eso-type.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-core/temper-items-rules-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/core/temper-items-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/filters/addon/temper-items-filters-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/filters/core/temper-items-filters-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/filters/temper-items-filters.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/inventory-automation/temper-inventory-automation.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/matcher/temper-items-rules-matcher.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/routing/core/temper-items-rules-routing-core.domain.ts"}
