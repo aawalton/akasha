@@ -177,6 +177,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/json-in-one-object.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/json-one-line.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/json.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/just-played.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/kb-debug.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/keep-last-newline.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/keep.argument.ts"}
