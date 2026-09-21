@@ -30,6 +30,7 @@ export const rynStandardAgentEnglish = {
     "Standard Agent English is built beside the taboo terms and the sentence shapes, and those pages are deleted only once Alan says Standard Agent English is mature.",
     "The grammar starts with no construction.",
     "A construction enters the grammar only where Alan has admitted that construction against examples.",
-    "A word enters the lexicon only where Alan has admitted that word, in batches of ten while backfilling.",
+    "A word enters the lexicon only where Alan has admitted that word.",
+    "One word, construction, part of speech or phrase kind is put to Alan at a time, with up to five definitions that addition brings closer to admittance.",
   ],
 } as const satisfies Initiative
