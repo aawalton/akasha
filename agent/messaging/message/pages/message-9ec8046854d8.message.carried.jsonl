@@ -1,0 +1,7 @@
+{"body":"`monarch-poll` is broken. monarch-poll.service failed at 2026-09-21T23:06:04.000Z, and systemd says `exit-code`. This was seen at 2026-09-21T23:06:05.704Z. What that service is and what it runs are on its page. Its log is `journalctl --user -u monarch-poll.service`.\n"}
+{"from":"service-watching"}
+{"id":"01a0c638-2f3d-7000-8b90-9ec8046854d8"}
+{"slug":"message-9ec8046854d8"}
+{"to":"seat/amy"}
+{"type":"page-type/message"}
+{"warrant":"announce"}
