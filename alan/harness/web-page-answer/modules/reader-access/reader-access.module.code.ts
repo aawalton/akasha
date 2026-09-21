@@ -34,14 +34,20 @@ function heldIn<Answer>(
   return answer
 }
 
-function contributorOf(user: object): string | null {
-  const said = asObjectRecord(user)?.["contributor"]
+const PERSON = "person"
+
+const CONTRIBUTOR = "contributor"
+
+function saidBy(user: object, key: string): string | null {
+  const said = asObjectRecord(user)?.[key]
   return typeof said === "string" && said !== "" ? said : null
 }
 
 export async function personOf(user: object | null): Promise<string | null> {
   if (user === null) return ANONYMOUS_PERSON
-  const contributor = contributorOf(user)
+  const named = saidBy(user, PERSON)
+  if (named !== null) return named
+  const contributor = saidBy(user, CONTRIBUTOR)
   if (contributor === null) return ANONYMOUS_PERSON
   return heldIn(peopleHeld, contributor, async () => {
     const enrolled = await personSlugFor(asContributor(contributor))

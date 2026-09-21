@@ -36,5 +36,10 @@ export const routerAppServing = {
       decisionKind: "decision-kind/departure",
       statement: "Only an answer that is HTML is given the policy and the caching this sets.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A site every visitor reads as one person names that person rather than reading a session.",
+    },
   ],
 } as const satisfies Module

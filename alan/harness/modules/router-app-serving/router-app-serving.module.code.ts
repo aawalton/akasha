@@ -21,6 +21,10 @@ export type RoutesReached = (
 
 export const noReader: WhoIsReading = async () => ({ user: null })
 
+export function readerNamed(personSlug: string): WhoIsReading {
+  return async () => ({ user: { person: personSlug } })
+}
+
 export type RouterAppServing = {
   readonly clientDir: string
   readonly csp: AppCspConfig

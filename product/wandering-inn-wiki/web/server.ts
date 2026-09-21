@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import {
-  noReader,
   type RouterAppServing,
+  readerNamed,
   servedBy,
 } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
 import type { ServerBuild } from "react-router"
@@ -27,7 +27,7 @@ const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.
 const SERVING: RouterAppServing = {
   clientDir: CLIENT_DIR,
   csp: {},
-  whoIsReading: noReader,
+  whoIsReading: readerNamed("innworld-visitor"),
   routes: createRequestHandler(serverBuild, "production"),
 }
 

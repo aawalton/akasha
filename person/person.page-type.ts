@@ -45,6 +45,7 @@ export const person = {
     "page-type/access-deed",
     "person/anonymous",
     "module/page-type-access",
+    "person/innworld-visitor",
   ],
   properties: [
     { pageProperty: "relation-property/answered-by", required: true, many: false },

@@ -14,6 +14,10 @@ test("a reader carrying no contributor is read the same way", async () => {
   expect(await personOf({ contributor: "" })).toBe(ANONYMOUS_PERSON)
 })
 
+test("a reader naming its person outright is read as that person", async () => {
+  expect(await personOf({ person: "one" })).toBe("one")
+})
+
 test("a narrowed access lets its holder read and never write", () => {
   expect(narrowedWrite({ permitted: true, narrows: null })).toBeNull()
   const why = narrowedWrite({

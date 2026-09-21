@@ -33,5 +33,9 @@ export const readerAccess = {
       decisionKind: "decision-kind/departure",
       statement: "An access carrying a narrow lets its holder read and never write.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader naming its person outright is read as that person.",
+    },
   ],
 } as const satisfies Module
