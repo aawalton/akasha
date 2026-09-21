@@ -4,6 +4,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriend = {
   id: "01a0b770-3331-71c7-b240-239f909eafee",
   type: "page-type/song",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend",
+  rank: "S",
   externalIdentity: [
     {
       source: "musicbrainz",
