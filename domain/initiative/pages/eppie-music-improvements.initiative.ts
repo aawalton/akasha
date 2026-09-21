@@ -6,12 +6,5 @@ export const eppieMusicImprovements = {
   slug: "eppie-music-improvements",
   domain: "domain/music",
   persona: "persona/eppie",
-  intentStack: [
-    {
-      statement:
-        "A Spotify playlist holds the music Alan has not heard by the artists Alan follows.",
-      workingMemory:
-        "Blocked by Spotify rather than by anything here. `akasha music unheard-playlist --plan` reads 258 tracks over 14 artists, and `akasha music consent` saves a token carrying `playlist-modify-private`. Spotify's edge refuses this app every playlist write with a bare 403, both creating a playlist and adding to one Alan made himself, while playlist reads answer 200 and player writes authorise. The scope, the user allowlist and the declared Web API are all ruled out by measurement.\n",
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
