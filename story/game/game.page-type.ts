@@ -165,6 +165,10 @@ export const game = {
       decisionKind: "decision-kind/departure",
       statement: "The facts the play discloses beat the facts the design intended.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every mechanic a game is played by is a page carrying the code that runs it.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
