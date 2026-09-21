@@ -34,6 +34,7 @@ export const gameMechanic = {
     "game-mechanic/affinity-bias",
     "game-mechanic/affinity-advance",
     "module/action-intent",
+    "module/affinity-element",
   ],
   decisions: [
     {
