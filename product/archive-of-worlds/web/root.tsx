@@ -26,6 +26,7 @@ import {
 import type { Route } from "./+types/root"
 import "akasha/product/archive-of-worlds/web/look/archive-of-worlds-web-look.stylesheet.styles.css"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 const GUARD: HandoverGuardConfig = {
   signInPaths: ["/sign-in", "/sign-up"],

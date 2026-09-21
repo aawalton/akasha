@@ -2,4 +2,9 @@
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/atlas-web/root.tsx"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/chess/modules/eval-bar/chess-eval-bar.module.code.tsx"}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/web/root.tsx"}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/archive-of-worlds/web/root.tsx"}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/audhdalan/web/root.tsx"}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/smilingjenny/web/root.tsx"}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/web/root.tsx"}
 {"propertySlug":"parts","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}
