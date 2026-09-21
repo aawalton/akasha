@@ -9,7 +9,7 @@ export const phraseKind = {
     "phrase-kind/noun-phrase",
     "phrase-kind/noun-group",
     "phrase-kind/preposition-phrase",
-    "phrase-kind/domain-definition-start",
+    "phrase-kind/domain-definition",
   ],
   extends: ["page-type/domain"],
   decisions: [

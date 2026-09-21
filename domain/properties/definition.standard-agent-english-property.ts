@@ -41,5 +41,5 @@ export const definition = {
     },
   ],
   types: "ts",
-  startSymbol: "phrase-kind/domain-definition-start",
+  startSymbol: "phrase-kind/domain-definition",
 } as const satisfies StandardAgentEnglishProperty
