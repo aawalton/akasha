@@ -4,7 +4,13 @@ import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-h
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { ComponentsCompoundNavPanels } from "akasha/design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
-import { ComponentsCompoundPanels } from "akasha/design/interface/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
+import {
+  CalendarPanel,
+  CarouselPanel,
+  CommandPanel,
+  FieldPanel,
+  ResizablePanelsPanel,
+} from "akasha/design/interface/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
 import {
   BadgesPanel,
   ButtonsPanel,
@@ -156,7 +162,11 @@ export function ComponentsTabContent() {
           <LoadMoreButtonPanel />
           <VirtualCardGridPanel />
           <PaginatedCardGridPanel />
-          <ComponentsCompoundPanels />
+          <FieldPanel />
+          <CalendarPanel />
+          <CarouselPanel />
+          <CommandPanel />
+          <ResizablePanelsPanel />
           <ComponentsCompoundNavPanels />
         </ResponsiveColumns>
       </div>
