@@ -58,6 +58,7 @@
 {"propertySlug":"extends-type","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
 {"propertySlug":"extends-type","path":"domain/list/list.page-type.ts","id":"01a06838-7a9d-7597-b7a6-0f752f753e26"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"extends-type","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.ts","id":"01a08241-f81d-7e21-8584-c7cc1ab6cf98"}
 {"propertySlug":"extends-type","path":"graph/attribute/graph-attribute.page-type.ts","id":"01a04fe8-cec0-78cc-85d5-3ca1e47761ce"}
 {"propertySlug":"extends-type","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}
@@ -385,6 +386,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/purpose/domain-purpose.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/non-term/standard-agent-english-non-term.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/standard-agent-english.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"file/disk/file-disk.domain.ts"}
