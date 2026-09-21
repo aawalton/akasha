@@ -36,6 +36,7 @@ export const gameMechanic = {
     "module/action-intent",
     "module/affinity-element",
     "game-mechanic/essence-absorption",
+    "module/skill-rung",
   ],
   decisions: [
     {

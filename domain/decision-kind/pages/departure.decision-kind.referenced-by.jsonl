@@ -3281,6 +3281,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.ts","id":"01a0c4b7-c153-7b45-9b11-437810dd0ca8"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/rank-ladder/rank-ladder.module.ts","id":"01a0c48d-e4cd-7dba-b746-284315f9695b"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic/modules/skill-rung/skill-rung.module.ts","id":"01a0c508-73ed-79f5-80cd-8de86a40fac3"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/affinity-advance/affinity-advance.game-mechanic.ts","id":"01a0c4ff-1ec4-7a67-a152-8087ed5bb361"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/affinity-bias/affinity-bias.game-mechanic.ts","id":"01a0c4fc-db9f-78e8-bbf1-08b88eea6583"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
