@@ -5328,6 +5328,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/craft-xml-handlers/craft-xml-handlers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/crafting-constants/crafting-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/crafting-entry/crafting-entry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/crafting-events-handlers/crafting-events-handlers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/crafting-events-inventory/crafting-events-inventory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/crafting-addon/modules/crafting-events/crafting-events.module.ts"}

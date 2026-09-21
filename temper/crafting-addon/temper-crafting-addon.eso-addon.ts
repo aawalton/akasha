@@ -196,6 +196,7 @@ export const temperCraftingAddon = {
     "type-declaration/potion-decl-controls",
     "type-declaration/writ-mark-decl-writ-worthy",
     "type-declaration/writ-writworthy-global",
+    "module/crafting-events-handlers-station",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",

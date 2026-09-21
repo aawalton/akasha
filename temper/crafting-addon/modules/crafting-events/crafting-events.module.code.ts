@@ -49,9 +49,6 @@ import {
   newMovementInUIMode,
   onActionLayerPushed,
   onChampionPerksSceneStateChange,
-  onCraftCompleted,
-  onCraftingStationInteract,
-  onEndCraftingStationInteract,
   onGameCameraUIModeChanged,
   onPlayerActivated,
   onPlayerDeactivated,
@@ -62,10 +59,15 @@ import {
   onSmithingTraitResearchStarted,
   onStableInteractEnd,
   onStyleLearned,
+} from "akasha/temper/crafting-addon/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"
+import {
+  onCraftCompleted,
+  onCraftingStationInteract,
+  onEndCraftingStationInteract,
   runeCreationTabShow,
   runeExtractionTabShow,
   runeRecipeTabShow,
-} from "akasha/temper/crafting-addon/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.code.ts"
 import {
   onInventorySingleSlotUpdate,
   onInventorySlotAdded,
