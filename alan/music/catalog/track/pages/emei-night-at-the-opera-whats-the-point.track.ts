@@ -4,6 +4,7 @@ export const emeiNightAtTheOperaWhatsThePoint = {
   id: "01a0c43e-7045-7828-88e3-11d23994ca9f",
   type: "page-type/track",
   slug: "emei-night-at-the-opera-whats-the-point",
+  grade: "B-",
   ownLength: 2.729233333333333,
   ownProgress: 0,
   partOfCollections: ["release/emei-night-at-the-opera", "release/emei-whats-the-point"],
