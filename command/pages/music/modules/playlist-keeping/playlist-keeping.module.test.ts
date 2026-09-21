@@ -4,10 +4,11 @@ import {
   jsonOf,
   type Kept,
   keepingOver,
+  noPlaylistAt,
   type Reach,
   reconciledOver,
   rowsOf,
-} from "akasha/command/pages/music/unheard-playlist/music-unheard-playlist.command.code.ts"
+} from "akasha/command/pages/music/modules/playlist-keeping/playlist-keeping.module.code.ts"
 
 const LINK = "https://open.spotify.com/playlist/pl1"
 
@@ -54,6 +55,13 @@ test("what the playlist gains and loses is worked out over the tracks picked", (
     removing: ["gone"],
     keeping: ["two"],
   })
+})
+
+test("a run wanting no track empties the playlist", async () => {
+  const wrote: string[] = []
+  const done = await keepingOver(reconciledOver([], ["one", "two"]), "pl1", reachKept(wrote))
+  expect(wrote).toEqual(["remove pl1 one,two", "add pl1 "])
+  expect(done.removed).toBe(2)
 })
 
 test("tracks leave the playlist before tracks reach it", async () => {
@@ -110,4 +118,10 @@ test("the machine-facing answer names every track picked", () => {
     "two-singer — Ampersand",
     "one-singer — Runaway",
   ])
+})
+
+test("a playlist page naming no spotify playlist is said of by its own slug", () => {
+  expect(noPlaylistAt("ungraded")).toBe(
+    "the `playlist/ungraded` page names no spotify playlist to keep up to date"
+  )
 })

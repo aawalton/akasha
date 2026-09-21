@@ -1,4 +1,4 @@
-import { pickingUnheard } from "akasha/alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts"
+import { pickingUngraded } from "akasha/alan/music/choosing/modules/ungraded-picking/ungraded-picking.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { plan } from "akasha/command/argument/pages/plan.argument.ts"
@@ -17,21 +17,21 @@ import {
   type Reach,
   rowsOf,
 } from "akasha/command/pages/music/modules/playlist-keeping/playlist-keeping.module.code.ts"
-import { musicUnheardPlaylist as page } from "akasha/command/pages/music/unheard-playlist/music-unheard-playlist.command.ts"
+import { musicUngradedPlaylist as page } from "akasha/command/pages/music/ungraded-playlist/music-ungraded-playlist.command.ts"
 
-const UNHEARD = "unheard"
+const UNGRADED = "ungraded"
 
 const NAMED = [json, plan] as const
 
 async function answered(argv: readonly string[], given: Given, reach: Reach): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return refused(read.refused.join(" "), DATA)
-  const kept = await keptOver(given.root, UNHEARD, pickingUnheard, read.taken.plan, reach)
-  if (kept === null) return refused(noPlaylistAt(UNHEARD), DATA)
+  const kept = await keptOver(given.root, UNGRADED, pickingUngraded, read.taken.plan, reach)
+  if (kept === null) return refused(noPlaylistAt(UNGRADED), DATA)
   return told(read.taken.json ? [jsonOf(kept)] : rowsOf(kept))
 }
 
-export async function musicUnheardPlaylist(
+export async function musicUngradedPlaylist(
   argv: readonly string[],
   given: Given,
   reach: Reach = REACHING

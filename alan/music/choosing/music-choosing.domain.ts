@@ -14,6 +14,7 @@ export const musicChoosing = {
     "module/playlist-reconciling",
     "page-type/playlist",
     "module/track-picking",
+    "module/ungraded-picking",
   ],
   decisions: [
     {
