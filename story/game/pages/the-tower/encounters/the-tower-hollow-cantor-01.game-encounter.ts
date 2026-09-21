@@ -13,4 +13,16 @@ export const theTowerHollowCantor01 = {
   trigger: "advancing into the nave past the first pair of plates",
   experience: 160,
   drop: "a tuning-shard of folded sound (sound/affinity seed) and +1 toward a 'Resonance Reading' skill — the System notes he learned to read a space by its echoes",
+  gates: [
+    {
+      name: "struck in the body",
+      multiplier: 0.4,
+      note: "The wraith is half air, so a physical blow to it barely matters. Strike the bronze, not the wraith.",
+    },
+    {
+      name: "singing from the acoustic shadow",
+      multiplier: 0.5,
+      note: "Its power is borrowed from the bronze plates. In the dead alcove, or with the plates down, its song on the mind is halved or fails.",
+    },
+  ],
 } as const satisfies GameEncounter
