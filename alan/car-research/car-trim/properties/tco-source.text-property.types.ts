@@ -1,0 +1,1 @@
+export type TcoSource = string
