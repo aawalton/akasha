@@ -7,7 +7,7 @@ export const laundryRotate2 = {
   title: "Laundry - Rotate",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-28",
+  toDoDueDate: "2026-09-21",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 45,
