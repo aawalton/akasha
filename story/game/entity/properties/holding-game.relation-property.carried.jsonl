@@ -2,7 +2,7 @@
 {"definition":"the game whose world holds this"}
 {"id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"game"}
-{"slug":"entity-game"}
+{"slug":"holding-game"}
 {"targetPageType":"page-type/game"}
 {"type":"page-type/relation-property"}
 {"types":"ts"}

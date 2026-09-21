@@ -10,7 +10,7 @@ export const gameEntity = {
   runsTabooCheck: false,
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/entity-game", required: true, many: false },
+    { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "text-property/entity-kind", required: true, many: false },
     { pageProperty: "text-property/entity-class", required: false, many: false },
     { pageProperty: "number-property/entity-level", required: false, many: false },
@@ -64,7 +64,7 @@ export const gameEntity = {
   types: "ts",
   schema: "jsonl",
   parts: [
-    "relation-property/entity-game",
+    "relation-property/holding-game",
     "text-property/entity-kind",
     "text-property/entity-class",
     "number-property/entity-level",

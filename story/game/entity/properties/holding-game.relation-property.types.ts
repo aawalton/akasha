@@ -1,3 +1,3 @@
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 
-export type EntityGame = Slug
+export type HoldingGame = Slug
