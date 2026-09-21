@@ -75,6 +75,12 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-alchemy-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-alchemy-station/alchemy-station-entry-declarations/alchemy-station-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-async/async-saved-vars-declarations/async-saved-vars-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-data-encode/data-encode-entry-declarations/data-encode-entry-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/antiquities-addon-declarations/antiquities-addon-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
@@ -217,12 +223,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/item-browser/item-browser-global-declarations/item-browser-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/items-addon/inventory-config-global/inventory-config-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/keybinder-addon/keybinder-declarations/keybinder-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-data-encode/data-encode-entry-declarations/data-encode-entry-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-extended-journal/journal-control-names/journal-control-names.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-extended-journal/journal-saved-variables/journal-saved-variables.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-extended-journal/journal-string-ids/journal-string-ids.type-declaration.ts"}

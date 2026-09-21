@@ -1665,6 +1665,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-header/addon-menu-widget-header.module.ts","id":"01a06100-0000-7000-8000-000000000022"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-alchemy-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.ts","id":"01a06060-0d14-7717-b700-44162c6cbf37"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-data-encode/modules/data-encode-casts/data-encode-casts.module.ts","id":"01a06061-96a1-7301-8024-72c93d42cc87"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.ts","id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-roster/addon-roster.module.ts","id":"01a06060-ec3e-72ca-8583-d3120bbc8269"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/deployable-addons/deployable-addons.module.ts","id":"01a06060-ec3e-76a0-91e2-ff4014f8a701"}
@@ -1834,10 +1838,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.ts","id":"01a0615a-a1dc-7109-83cd-300cf2753778"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/temper-items-rules-routing.domain.ts","id":"01a0615a-a1de-7f51-9fb6-fb90ff022184"}
 {"propertySlug":"decision-kind","path":"temper/lccc/modules/lccc-casts/lccc-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
-{"propertySlug":"decision-kind","path":"temper/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
-{"propertySlug":"decision-kind","path":"temper/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.ts","id":"01a06060-0d14-7717-b700-44162c6cbf37"}
-{"propertySlug":"decision-kind","path":"temper/lib-data-encode/modules/data-encode-casts/data-encode-casts.module.ts","id":"01a06061-96a1-7301-8024-72c93d42cc87"}
-{"propertySlug":"decision-kind","path":"temper/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
 {"propertySlug":"decision-kind","path":"temper/lib-extended-journal/modules/journal-casts/journal-casts.module.ts","id":"01a0617d-544d-7f97-9ea4-d789662cd65d"}
 {"propertySlug":"decision-kind","path":"temper/lib-gps/modules/gps-casts/gps-casts.module.ts","id":"01a0614d-4760-77ae-8327-bdf716931de5"}
 {"propertySlug":"decision-kind","path":"temper/lib-main-menu/modules/main-menu-entry/main-menu-entry.module.ts","id":"01a0605b-c802-71af-a8cf-d954d41e3520"}

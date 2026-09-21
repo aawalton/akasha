@@ -11,5 +11,10 @@ export const temperAddonLibrary = {
     "eso-addon/temper-lib-addon-menu-order-list-box",
     "eso-addon/temper-lib-alchemy-station",
     "eso-addon/temper-lib-async",
+    "eso-addon/temper-lib-character-knowledge",
+    "eso-addon/temper-lib-chat-message",
+    "eso-addon/temper-lib-custom-menu",
+    "eso-addon/temper-lib-data-encode",
+    "eso-addon/temper-lib-debug-logger",
   ],
 } as const satisfies Domain
