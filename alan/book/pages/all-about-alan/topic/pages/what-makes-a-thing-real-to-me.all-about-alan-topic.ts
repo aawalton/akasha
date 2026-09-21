@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatMakesAThingRealToMe = {
+  id: "01a0c591-8f1a-7d26-a2ce-983b876fcbe4",
+  type: "page-type/all-about-alan-topic",
+  slug: "what-makes-a-thing-real-to-me",
+  title: "What Makes A Thing Real To Me",
+  definition: "what gives a claim about something absent enough weight to land in me",
+  parents: ["all-about-alan-topic/how-i-know-things"],
+  related: [
+    "all-about-alan-topic/what-i-cannot-play-forward",
+    "all-about-alan-topic/how-far-back-i-expect-to-come",
+  ],
+  settled:
+    "Other people make a thing that is not in front of them real by feeling it in advance. I make it real by proving it.\n\nMaths has weight. If I can prove a thing with maths, it stays real for me.\n\nThat is why this trough always passes carries weight. It is bounded and provable: either the misery lifts or I die, and a life is finite, so the state cannot be permanent.\n\nRecovery is the other way round. My life has on average trended upward is induction, not proof, so it never reaches the weight a proof carries.\n\nSo the one belief that would carry me forward is exactly the one that resists proof.\n\nAnd a proof that it gets better still might not deliver relief, because relief is a thing felt in advance and I have no way to feel one.",
+} as const satisfies AllAboutAlanTopic
