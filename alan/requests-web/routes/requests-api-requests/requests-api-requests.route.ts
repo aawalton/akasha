@@ -1,16 +1,20 @@
 import type { Route } from "akasha/code/route/route.page-type.types.ts"
 
-export const requestsApiRequestPropose = {
+export const requestsApiRequests = {
   id: "01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a",
   type: "page-type/route",
-  slug: "requests-api-request-propose",
-  definition: "the post a contributor opens a feature request with",
+  slug: "requests-api-requests",
+  definition: "the post a contributor opens a feature request with, or boosts one with",
   code: "ts",
-  urlPath: "api/request-propose",
+  urlPath: "api/requests",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A request opened here is for the product this site serves and no other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One route takes every act over a feature request, and the post says which.",
     },
     {
       decisionKind: "decision-kind/departure",

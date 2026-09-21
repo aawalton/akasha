@@ -1106,7 +1106,7 @@
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-handover-site/requests-handover-site.module.ts","id":"01a0c537-ba9b-797c-9ce3-0dd6a8f02f52"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-nav-items/requests-nav-items.module.ts","id":"01a0c537-baba-7ce4-8b4f-d7076df6a4cd"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-page-write/requests-api-page-write.route.ts","id":"01a0c537-bb7d-769b-ad76-62d6b52dd185"}
-{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-request-propose/requests-api-request-propose.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-handover/requests-handover.route.ts","id":"01a0c537-bb25-71f7-bcbe-06ea872cea83"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-page-detail/requests-page-detail.route.ts","id":"01a0c537-bad8-7ed3-8fbf-0f2b74a75fce"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-page-listing/requests-page-listing.route.ts","id":"01a0c537-bae8-7469-9b49-1e210203179a"}

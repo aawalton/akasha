@@ -22,7 +22,7 @@ import type { Route } from "./+types/_app-layout"
 
 const FEATURE_REQUEST = "feature-request"
 
-const PROPOSE_PATH = "/api/request-propose"
+const REQUESTS_PATH = "/api/requests"
 
 function boostingIn(held: Record<string, unknown>): Boosting {
   const slug = held.slug
@@ -79,7 +79,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
       <ProposeDialog
         open={proposing}
         onOpenChange={setProposing}
-        postTo={PROPOSE_PATH}
+        postTo={REQUESTS_PATH}
         balance={loaderData.balance}
       />
       <BoostDialog
@@ -87,7 +87,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
         onOpenChange={(open) => {
           if (!open) setBoosting(null)
         }}
-        postTo={PROPOSE_PATH}
+        postTo={REQUESTS_PATH}
         balance={loaderData.balance}
       />
       <Toaster />

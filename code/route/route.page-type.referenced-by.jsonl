@@ -26,7 +26,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-page-types/requests-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-page-write/requests-api-page-write.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-pages/requests-api-pages.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-request-propose/requests-api-request-propose.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-handover/requests-handover.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-home/requests-home.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-page-detail/requests-page-detail.route.ts"}
