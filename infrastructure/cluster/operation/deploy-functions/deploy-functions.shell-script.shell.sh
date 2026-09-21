@@ -127,5 +127,40 @@ verify_rollout() {
   fi
 }
 
+wait_for_postgres() {
+  local ns="${1:?Usage: wait_for_postgres <ns> <svc> [timeout]}"
+  local svc="${2:?Usage: wait_for_postgres <ns> <svc> [timeout]}"
+  local timeout="${3:-120}"
+  local interval=5
+  local elapsed=0
+
+  log "Waiting for Postgres at $svc.$ns (timeout: ${timeout}s)"
+
+  local pod=""
+  while [ "$elapsed" -lt "$timeout" ]; do
+    pod="$(kubectl get pods -n "$ns" -l app=postgres -o jsonpath='{.items[0].metadata.name}' 2>/dev/null || true)"
+    if [ -n "$pod" ]; then
+      break
+    fi
+    sleep "$interval"
+    elapsed=$(( elapsed + interval ))
+  done
+
+  if [ -z "$pod" ]; then
+    die "No postgres pod found in $ns after ${timeout}s"
+  fi
+
+  while [ "$elapsed" -lt "$timeout" ]; do
+    if kubectl exec -n "$ns" "$pod" -- pg_isready -U postgres -q 2>/dev/null; then
+      ok "Postgres at $svc.$ns is ready"
+      return 0
+    fi
+    sleep "$interval"
+    elapsed=$(( elapsed + interval ))
+  done
+
+  die "Postgres at $svc.$ns not ready after ${timeout}s"
+}
+
 # shellcheck source=../deploy-dns-functions/deploy-dns-functions.shell-script.shell.sh
 . "$_DEPLOY_LIB_DIR/../deploy-dns-functions/deploy-dns-functions.shell-script.shell.sh"
