@@ -49,5 +49,10 @@ export const secretPlacing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a secret page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value is applied already encoded, so the cluster drops the keys no page places.",
+    },
   ],
 } as const satisfies Module

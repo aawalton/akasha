@@ -202,7 +202,8 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
     if (keys.size === 0) continue
     const values: Record<string, string> = {}
     for (const key of [...keys].sort()) {
-      values[key] = secretValueOf(akasha, at.get(keyFor(name, key)) as SecretPage)
+      const held = secretValueOf(akasha, at.get(keyFor(name, key)) as SecretPage)
+      values[key] = Buffer.from(held, "utf8").toString("base64")
     }
     ran.push(
       runKubectlOn(
@@ -212,7 +213,7 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
           kind: "Secret",
           metadata: { name, namespace: workload.namespace },
           type: "Opaque",
-          stringData: values,
+          data: values,
         })
       )
     )
