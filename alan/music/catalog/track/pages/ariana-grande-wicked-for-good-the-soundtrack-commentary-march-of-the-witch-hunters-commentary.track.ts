@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   id: "01a0a6c5-0b32-7a2a-b767-23afb0a2339a",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-march-of-the-witch-hunters-commentary",
+  grade: "C",
   ownLength: 1.0073333333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
