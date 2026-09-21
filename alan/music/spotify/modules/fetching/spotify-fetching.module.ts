@@ -28,5 +28,31 @@ export const spotifyFetching = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here is kept between one call and the next.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call that throws is made three times in all, waiting a second and then four seconds between.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The error the third throw raises is thrown on unchanged, so the run still fails.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wait between one try and the next is passed in by the caller.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller passing no wait waits on a timer.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No answer that arrives is tried again here, whatever status that answer carries.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A 429 and a 401 are tried again by `module/spotify-client`, so no try here multiplies one there.",
+    },
   ],
 } as const satisfies Module
