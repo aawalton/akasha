@@ -224,7 +224,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/version.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/to-do/properties/due-time.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-recurrence.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-notes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/flexibility/log/properties/mobility-reading-value-text.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-external-id.text-property.ts"}

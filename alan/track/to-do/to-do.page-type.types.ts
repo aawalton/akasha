@@ -6,7 +6,7 @@ import type { ToDoCategory } from "akasha/alan/track/to-do/properties/to-do-cate
 import type { ToDoCompletedAt } from "akasha/alan/track/to-do/properties/to-do-completed-at.instant-property.types.ts"
 import type { ToDoDueDate } from "akasha/alan/track/to-do/properties/to-do-due-date.calendar-date-property.types.ts"
 import type { ToDoLastCompletedAt } from "akasha/alan/track/to-do/properties/to-do-last-completed-at.instant-property.types.ts"
-import type { ToDoRecurrence } from "akasha/alan/track/to-do/properties/to-do-recurrence.text-property.types.ts"
+import type { ToDoRecurrence } from "akasha/alan/track/to-do/properties/to-do-recurrence.rrule-property.types.ts"
 import type { ToDoSortOrder } from "akasha/alan/track/to-do/properties/to-do-sort-order.number-property.types.ts"
 import type { ToDoValue } from "akasha/alan/track/to-do/properties/to-do-value.relation-property.types.ts"
 import type { WhatItTakes } from "akasha/alan/track/to-do/properties/what-it-takes.file-property.types.ts"

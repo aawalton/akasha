@@ -17,7 +17,7 @@ export const toDo = {
     "select-property/difficulty",
     "select-property/to-do-category",
     "text-property/due-time",
-    "text-property/to-do-recurrence",
+    "rrule-property/to-do-recurrence",
     "url-property/link",
   ],
   properties: [
@@ -33,7 +33,7 @@ export const toDo = {
     { pageProperty: "text-property/due-time", required: false, many: false },
     { pageProperty: "url-property/link", required: false, many: false },
     { pageProperty: "select-property/priority", required: true, many: false },
-    { pageProperty: "text-property/to-do-recurrence", required: false, many: false },
+    { pageProperty: "rrule-property/to-do-recurrence", required: false, many: false },
     { pageProperty: "number-property/to-do-sort-order", required: false, many: false },
     { pageProperty: "relation-property/to-do-value", required: false, many: false },
     { pageProperty: "instant-property/to-do-last-completed-at", required: false, many: false },
