@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDayCommentary = {
   id: "01a0a6c5-4ad3-7928-a8d4-85499e4b10df",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-one-short-day-commentary",
+  grade: "C",
   ownLength: 2.458,
   ownProgress: 2.458,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
