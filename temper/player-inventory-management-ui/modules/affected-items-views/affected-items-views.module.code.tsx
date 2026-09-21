@@ -15,7 +15,6 @@ import { ScrollArea } from "akasha/design/interface/primitive/modules/scroll-are
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import {
   hasAnyValue,
   type InventoryNode,
@@ -30,6 +29,7 @@ import {
   type ValueExplanationData,
   ValueExplanationDialog,
 } from "akasha/temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import { LayoutList, List, MapPin } from "lucide-react"
 import { useMemo, useState } from "react"
 

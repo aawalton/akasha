@@ -1,12 +1,12 @@
 "use client"
 
 import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
-import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   ItemTooltipData,
   SetBonusEntry,
 } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
+import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 
 const EQUIP_TYPE_NAMES: Record<number, string> = {
   1: "Head",

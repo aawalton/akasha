@@ -17,10 +17,6 @@ import {
 import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
@@ -32,6 +28,10 @@ import {
   armorSlots,
 } from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { ArmorUpdateParams } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"

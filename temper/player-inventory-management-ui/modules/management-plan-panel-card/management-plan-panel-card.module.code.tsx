@@ -9,7 +9,6 @@ import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-to
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   ActionGroup,
   CharacterSession,
@@ -26,6 +25,7 @@ import {
   type ValueExplanationData,
   ValueExplanationDialog,
 } from "akasha/temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import { useCallback, useState } from "react"
 
 interface ManagementPlanPanelCardProps extends InventoryReadState {

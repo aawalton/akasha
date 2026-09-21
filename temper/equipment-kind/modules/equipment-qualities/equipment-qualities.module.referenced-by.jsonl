@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/character-stat/modules/extract-sets/extract-sets.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"}
@@ -26,6 +25,7 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items-core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"}

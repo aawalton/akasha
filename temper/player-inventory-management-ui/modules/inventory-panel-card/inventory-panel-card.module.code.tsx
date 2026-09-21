@@ -6,7 +6,6 @@ import { buildNodePath } from "akasha/design/interface/pattern/modules/path/path
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
 import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
-import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import {
   hasAnyValue,
   type InventoryNode,
@@ -17,6 +16,7 @@ import {
   type ValueExplanationData,
   ValueExplanationDialog,
 } from "akasha/temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import { useState } from "react"
 
 export type InventorySortMode = "name" | "value" | "count" | "quality"

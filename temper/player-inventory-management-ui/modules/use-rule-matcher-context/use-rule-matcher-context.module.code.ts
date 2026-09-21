@@ -1,5 +1,4 @@
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import { useCharacterList } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   CharacterBuildInput,
@@ -13,6 +12,7 @@ import {
   useCompletionCharacters,
   useCompletionCompanions,
 } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
+import { useCharacterList } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { useMemo } from "react"
 

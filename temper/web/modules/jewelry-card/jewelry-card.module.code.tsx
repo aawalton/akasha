@@ -20,13 +20,6 @@ import {
   jewelryEnchants,
 } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { getValidSetsForSlot } from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
-import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityClassName,
-  getQualityLabel,
-  getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import {
   type JewelryTraitId,
   jewelryTraits,
@@ -40,6 +33,13 @@ import {
   jewelrySlots,
 } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityClassName,
+  getQualityLabel,
+  getQualityVariant,
+} from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import {
   getSetById,
   SetSelectDialog,

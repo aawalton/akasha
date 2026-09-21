@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
+{"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/modules/account-tab/account-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx"}

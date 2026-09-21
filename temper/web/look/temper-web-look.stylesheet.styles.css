@@ -7,7 +7,6 @@
 @source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interface/**/*.{ts,tsx}";
 @source "../../../page/ui/**/*.{ts,tsx}";
-@source "../../characters-equipment-ui/**/*.{ts,tsx}";
 @source "../../player-completion-skills-morphs-ui/**/*.{ts,tsx}";
 @source "../../player-completion-ui/**/*.{ts,tsx}";
 @source "../../player-economics-ui/**/*.{ts,tsx}";

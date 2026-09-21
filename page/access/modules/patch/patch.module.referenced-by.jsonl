@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"}
-{"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts"}
@@ -18,6 +17,7 @@
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
+{"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/modules/characters-data-content/characters-data-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/modules/companions-data-content/companions-data-content.module.code.tsx"}

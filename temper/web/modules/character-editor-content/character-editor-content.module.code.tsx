@@ -14,14 +14,14 @@ import { Tabs } from "akasha/design/interface/pattern/modules/tabs/tabs.module.c
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { encodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
-import {
-  useCharacterLifecycle,
-  useCharacterList,
-} from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
+import {
+  useCharacterLifecycle,
+  useCharacterList,
+} from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { CharacterEditorHeader } from "akasha/temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"
 import { CharacterEditorTabsList } from "akasha/temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
 import { ClassChangeConfirmationDialog } from "akasha/temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"

@@ -4544,10 +4544,6 @@
 {"propertySlug":"decision-kind","path":"temper/character/temper-player/properties/platform.select-property.ts","id":"01a06e4f-b737-758d-9fe7-576149259344"}
 {"propertySlug":"decision-kind","path":"temper/character/temper-player/properties/server.select-property.ts","id":"01a06e4f-b738-785a-b942-ef91c66319dc"}
 {"propertySlug":"decision-kind","path":"temper/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
-{"propertySlug":"decision-kind","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.ts","id":"01a06360-7480-7001-8431-aa4304c430ae"}
-{"propertySlug":"decision-kind","path":"temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.ts","id":"01a06333-1bba-7ed5-888a-b5a3ca70eacf"}
-{"propertySlug":"decision-kind","path":"temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts","id":"01a06333-1bcc-79b7-bb9c-18d82e7b134a"}
-{"propertySlug":"decision-kind","path":"temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts","id":"01a06333-1bcc-7c92-9074-8986a87d036f"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}
@@ -5326,6 +5322,10 @@
 {"propertySlug":"decision-kind","path":"temper/web/.server/companion-import/companion-import.module.ts","id":"01a0640f-8510-72bd-a455-0d889d0077fd"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.ts","id":"01a0640f-850f-75fc-8894-4e1d0d24e30c"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/watcher-dir/watcher-dir.module.ts","id":"01a0640f-850f-7f75-abe1-b02d6a21efda"}
+{"propertySlug":"decision-kind","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.ts","id":"01a06360-7480-7001-8431-aa4304c430ae"}
+{"propertySlug":"decision-kind","path":"temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.ts","id":"01a06333-1bba-7ed5-888a-b5a3ca70eacf"}
+{"propertySlug":"decision-kind","path":"temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts","id":"01a06333-1bcc-79b7-bb9c-18d82e7b134a"}
+{"propertySlug":"decision-kind","path":"temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts","id":"01a06333-1bcc-7c92-9074-8986a87d036f"}
 {"propertySlug":"decision-kind","path":"temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.ts","id":"01a06360-7480-7004-99b9-59ca52965b19"}
 {"propertySlug":"decision-kind","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-global/item-browser-global.module.ts","id":"01a06178-371c-7a53-91d3-e4251c76d175"}

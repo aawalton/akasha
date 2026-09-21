@@ -4,7 +4,7 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { useNewCharacter } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import { useNewCharacter } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { Plus } from "lucide-react"
 
 export function NewCharacterPanelCard() {

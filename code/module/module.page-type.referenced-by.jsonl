@@ -4839,10 +4839,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-stat/modules/passive-eligibility/passive-eligibility.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-stat/modules/pipeline-types/pipeline-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-stat/modules/source-lookup/source-lookup.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment/modules/armor-enchants/armor-enchants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment/modules/armor-source/armor-source.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.ts"}
@@ -6302,6 +6298,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/companion-import/companion-import.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/watcher-dir/watcher-dir.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.ts"}

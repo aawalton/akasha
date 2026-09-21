@@ -12,7 +12,6 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { getCompanionWeaponIcon } from "akasha/temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { companionEquipmentQualities } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
@@ -28,6 +27,7 @@ import {
 } from "akasha/temper/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { weaponSlots } from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   getQualityClassName,
   getQualityVariant,
