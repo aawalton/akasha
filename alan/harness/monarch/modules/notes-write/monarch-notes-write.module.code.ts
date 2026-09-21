@@ -13,6 +13,7 @@ import {
   optional,
   str,
 } from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const UPDATE_NOTES = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {

@@ -17,6 +17,7 @@ import {
   type TierColor,
   tierAt,
 } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const WORKER_NAME = "surplus-fall-notifier"
 

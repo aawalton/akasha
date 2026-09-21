@@ -1,3 +1,8 @@
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/harness/monarch/modules/client/monarch-client.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build-deploy-check/modules/addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build-deploy-check/modules/addon-sandbox-load/addon-sandbox-load.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"}
