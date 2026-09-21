@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "279 are left. The first run has read down through the `service-workstation/page-service` block in panel order and is partway through `page-type/page`, taking up `the-one-module-built-so-another-process-could-find-a-landing-is-imported-by-nothing` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the index was restructured, another lane landed the mend.\n",
+        "The first run is done. 344 were read in panel order, 67 dropped, 277 left: 221 kept for the second run and 56 under `alan-book/all-about-alan` passed over unread, being Alan's own notes. Most died because what they said stopped being true: the folder went with the workspace folding, the index was rebuilt, or another lane landed the mend. The second run is taken with Alan over the 221, one at a time. `run-one.log` in the scratchpad holds a line per finding.\n",
     },
   ],
   constraints: [
