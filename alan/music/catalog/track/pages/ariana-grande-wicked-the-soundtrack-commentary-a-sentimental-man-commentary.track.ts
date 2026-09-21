@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryASentimentalManCommentary 
   id: "01a0a6c5-4b18-79af-9ca3-474bc7c2b612",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-a-sentimental-man-commentary",
+  grade: "C",
   ownLength: 0.6823833333333333,
   ownProgress: 0.6823833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
