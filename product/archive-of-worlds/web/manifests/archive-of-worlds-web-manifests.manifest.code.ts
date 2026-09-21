@@ -80,8 +80,6 @@ function webDeploymentYaml(): string {
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: `${archiveOfWorldsWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "archive-of-worlds-web" },
-                { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-                { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" },
               ],
               volumeMounts: orchestratorCacheVolumeMounts(),
               resources: {
@@ -124,22 +122,10 @@ function webDeploymentYaml(): string {
 }
 
 export const BUILD_ENV = [
-  { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-  { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   {
     name: "NEXT_PUBLIC_ELECTRIC_URL",
     value: "https://supabase.alanwalton.com/electric/v1/shape",
   },
-  {
-    name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
-  },
-  {
-    name: "VITE_SUPABASE_ANON_KEY",
-    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
-  },
-  { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" },
-  { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" },
 ] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
