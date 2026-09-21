@@ -9,8 +9,8 @@ export type ChainStep = "away" | "deconstructing" | "selling" | "banking"
 
 export const ASSISTANTS_BY_ROLE: Record<ChainRole, readonly number[]> = {
   deconstruction: [10184],
-  merchant: [6378, 301],
-  banker: [6376, 267],
+  merchant: [301, 6378],
+  banker: [267, 6376],
 }
 
 export const CHAIN_WINDOW_MS = 120000

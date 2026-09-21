@@ -30,7 +30,7 @@ export const inventoryAssistantChain = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each role names the assistants filling it, best first, and the first held wins.",
+      statement: "Each role names the assistants filling it, the one Alan is used to first.",
     },
     {
       decisionKind: "decision-kind/departure",

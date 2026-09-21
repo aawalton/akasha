@@ -27,14 +27,14 @@ test("the ragpicker is the only assistant that deconstructs", () => {
   expect(ASSISTANTS_BY_ROLE.deconstruction).toEqual([GILADIL])
 })
 
-test("a role takes the best assistant the player holds", () => {
-  expect(assistantFor("merchant", holding(FEZEZ, NUZHIMEH))).toBe(FEZEZ)
-  expect(assistantFor("banker", holding(EZABI, TYTHIS))).toBe(EZABI)
+test("a role takes the assistant Alan is used to where he holds that one", () => {
+  expect(assistantFor("merchant", holding(FEZEZ, NUZHIMEH))).toBe(NUZHIMEH)
+  expect(assistantFor("banker", holding(EZABI, TYTHIS))).toBe(TYTHIS)
 })
 
-test("a role falls back to the older assistant where the newer is unheld", () => {
-  expect(assistantFor("merchant", holding(NUZHIMEH))).toBe(NUZHIMEH)
-  expect(assistantFor("banker", holding(TYTHIS))).toBe(TYTHIS)
+test("a role falls back to the other assistant where the first is unheld", () => {
+  expect(assistantFor("merchant", holding(FEZEZ))).toBe(FEZEZ)
+  expect(assistantFor("banker", holding(EZABI))).toBe(EZABI)
 })
 
 test("a role no held assistant fills answers nothing", () => {
