@@ -1,0 +1,14 @@
+import type { TemperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.types.ts"
+
+export const dragonknightArdentFlame = {
+  id: "019e61dc-f1a2-7df5-8514-9cc4ca92c505",
+  type: "page-type/temper-skill-line",
+  slug: "dragonknight-ardent-flame",
+  title: "Ardent Flame",
+  key: "dragonknight-ardent-flame",
+  displayOrder: 7,
+  esoSkillLineId: 35,
+  maxRank: 50,
+  subcategoryId: "character-class",
+  class: "dragonknight",
+} as const satisfies TemperSkillLine

@@ -107,10 +107,10 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/is-movable.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/is-reduction.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/weapon-type/properties/is-off-hand-only.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/skill/properties/is-morph.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-type/properties/is-large-enchant-slot.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-weight/properties/is-standard.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-poison-effect/properties/is-positive.boolean-property.ts"}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/temper-skill/properties/is-morph.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/available.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/is-two-handed.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/thing/properties/per-weapon.boolean-property.ts"}

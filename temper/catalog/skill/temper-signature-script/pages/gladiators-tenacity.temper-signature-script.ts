@@ -1,0 +1,13 @@
+import type { TemperSignatureScript } from "akasha/temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.types.ts"
+
+export const gladiatorsTenacity = {
+  id: "019e46b5-7e29-75a4-ad22-f407c118491c",
+  type: "page-type/temper-signature-script",
+  slug: "gladiators-tenacity",
+  title: "Gladiator's Tenacity",
+  key: "gladiators-tenacity",
+  icon: "/esoui/art/icons/scribing_secondary_damagereduction.dds",
+  itemId: 204586,
+  uespId: 38,
+  slotType: "signature-slot",
+} as const satisfies TemperSignatureScript

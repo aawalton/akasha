@@ -1,0 +1,13 @@
+import type { TemperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.types.ts"
+
+export const mangle = {
+  id: "01a05fce-294b-73b2-b3d4-71a5eca2bfb3",
+  type: "page-type/temper-affix-script",
+  slug: "mangle",
+  title: "Mangle",
+  key: "mangle",
+  icon: "/esoui/art/icons/scribing_tertiary_mangle.dds",
+  itemId: 204611,
+  uespId: 63,
+  slotType: "affix-slot",
+} as const satisfies TemperAffixScript

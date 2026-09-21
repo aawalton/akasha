@@ -29,11 +29,11 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-research-line/properties/traits.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/properties/cards.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/tier-achievements.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-gear/temper-set/properties/bonuses.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-gear/temper-set/properties/icons.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-skill/temper-grimoire/properties/affix-scripts.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/temper-skill/temper-scribing-source/properties/tier-achievements.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/thing/properties/quality-values.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts"}
