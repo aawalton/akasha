@@ -99,7 +99,11 @@ const FAR = "shared/far.module.code.ts"
 
 const NEAR = "shared/near.module.code.ts"
 
-const ADDON_TRACKED = [ADDON_PAGE, ADDON_CODE, ADDON_TYPES, FAR, NEAR]
+const ADDON_INDEX = "addons/one/one.temper-addon.referenced-by.jsonl"
+
+const ADDON_CARRIED = "addons/one/one.temper-addon.carried.jsonl"
+
+const ADDON_TRACKED = [ADDON_PAGE, ADDON_CODE, ADDON_TYPES, ADDON_INDEX, ADDON_CARRIED, FAR, NEAR]
 
 const ADDON_BODIES: Readonly<Record<string, string>> = {
   [ADDON_PAGE]: `import type { One } from "akasha/${ADDON_TYPES}"\nexport const one: One = 1\n`,
@@ -116,7 +120,8 @@ function addonBodyAt(path: string): string | null {
 const ADDON_SEEDS = besideThe(ADDON_TRACKED, ADDON_PAGE)
 
 function addonClosure(kind: "temper-addon" | "web-app"): ReadonlySet<string> {
-  return readingOver(ADDON_TRACKED, addonBodyAt, INDEX).over(ADDON_SEEDS, onwardOf(kind))
+  const onward = onwardOf(kind, codeRoot())
+  return readingOver(ADDON_TRACKED, addonBodyAt, INDEX).over(ADDON_SEEDS, onward)
 }
 
 test("the types written for a page are named by the tail of the file holding them", () => {
@@ -144,4 +149,16 @@ test("every other kind is built from the types written for its page as it was", 
   const found = addonClosure("web-app")
   expect(found.has(ADDON_TYPES)).toBe(true)
   expect(found.has(FAR)).toBe(true)
+})
+
+test("a file generated beside an addon's page seeds that addon no longer", () => {
+  const found = addonClosure("temper-addon")
+  expect(found.has(ADDON_INDEX)).toBe(false)
+  expect(found.has(ADDON_CARRIED)).toBe(false)
+})
+
+test("every other kind is seeded with the files generated beside its page as it was", () => {
+  const found = addonClosure("web-app")
+  expect(found.has(ADDON_INDEX)).toBe(true)
+  expect(found.has(ADDON_CARRIED)).toBe(true)
 })

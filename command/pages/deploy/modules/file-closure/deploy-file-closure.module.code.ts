@@ -15,6 +15,7 @@ import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/w
 import { runnerCodeIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
+import { generatedAt } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   everyOfType,
   valuesOfType,
@@ -65,9 +66,10 @@ export function readingOver(tracked: readonly string[], bodyAt: Body, index: Ans
   return {
     tracked,
     over: (seeds, onward = everyOnward) => {
-      const seeded = new Set(seeds)
-      const through = (one: string): boolean => seeded.has(one) || (every.has(one) && onward(one))
-      return new Set(closureOf(imports, seeds, { index, bodyAt: bodies, through }))
+      const held = seeds.filter(onward)
+      const seeded = new Set(held)
+      const through = (one: string): boolean => onward(one) && (seeded.has(one) || every.has(one))
+      return new Set(closureOf(imports, held, { index, bodyAt: bodies, through }))
     },
   }
 }
@@ -146,12 +148,12 @@ export function typesWrittenForAPage(path: string): boolean {
   return path.endsWith(TYPES_HELD)
 }
 
-function pastTypes(one: string): boolean {
-  return !typesWrittenForAPage(one)
+function pastWhatIsGenerated(root: string): Onward {
+  return (one) => !typesWrittenForAPage(one) && !generatedAt(root, one)
 }
 
-export function onwardOf(kind: Named["kind"]): Onward | undefined {
-  return kind === TEMPER_ADDON ? pastTypes : undefined
+export function onwardOf(kind: Named["kind"], root: string): Onward | undefined {
+  return kind === TEMPER_ADDON ? pastWhatIsGenerated(root) : undefined
 }
 
 export function closureIn(
@@ -160,7 +162,7 @@ export function closureIn(
   slug: string,
   read: Named
 ): ReadonlySet<string> {
-  return reading.over(seedsFor(root, slug, read, reading.tracked), onwardOf(read.kind))
+  return reading.over(seedsFor(root, slug, read, reading.tracked), onwardOf(read.kind, root))
 }
 
 export function closuresOf(

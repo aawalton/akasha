@@ -84,5 +84,10 @@ export const deployFileClosure = {
       statement:
         "The types written for a page are reached by no addon, and neither is whatever only they reach.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An addon is built from no file generated beside a page, though every other kind still is.",
+    },
   ],
 } as const satisfies Module
