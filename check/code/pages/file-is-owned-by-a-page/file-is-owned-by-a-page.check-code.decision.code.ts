@@ -7,7 +7,7 @@ import type {
 import {
   claimantOf,
   type Paging,
-  pagingOf,
+  pagingBy,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -24,7 +24,7 @@ type Claiming = {
 
 const claimingIn = heldPerShadow(
   (shadow: Shadow): Claiming => ({
-    paging: pagingOf(shadow.index.everyOfType),
+    paging: pagingBy((folder) => shadow.listed(folder)),
     pageTypes: shadow.index.pageTypesIn(),
     fileProperties: shadow.index.filePropertiesAt(),
     folders: shadow.index.folderPropertiesAt(),
