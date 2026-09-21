@@ -9,6 +9,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrack = {
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
   publishedAt: "2025-11-07",
+  grade: "C",
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
