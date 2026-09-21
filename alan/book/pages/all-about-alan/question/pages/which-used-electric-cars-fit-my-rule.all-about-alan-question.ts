@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whichUsedElectricCarsFitMyRule = {
+  id: "01a0c59c-339c-7fb6-8270-ae9969c80ba3",
+  type: "page-type/all-about-alan-question",
+  slug: "which-used-electric-cars-fit-my-rule",
+  topic: "all-about-alan-topic/why-i-want-a-simpler-machine",
+  ask: "Which model years and makes actually meet my durability and maintainability rule, as a list I could buy from?",
+} as const satisfies AllAboutAlanQuestion
