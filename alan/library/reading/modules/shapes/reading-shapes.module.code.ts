@@ -1,22 +1,8 @@
-export const LITRPG_RATINGS = [
-  "F",
-  "D-",
-  "D",
-  "D+",
-  "C-",
-  "C",
-  "C+",
-  "B-",
-  "B",
-  "B+",
-  "A-",
-  "A",
-  "A+",
-  "S-",
-  "S",
-  "S+",
-] as const
-export type LitrpgRating = (typeof LITRPG_RATINGS)[number]
+import { grade } from "akasha/page/properties/grade.grade-property.ts"
+import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
+
+export const LITRPG_RATINGS = grade.values
+export type LitrpgRating = Grade
 
 export interface LitrpgStory {
   readonly id: string
