@@ -12,5 +12,5 @@ export const whatHappensWhenISleep = {
     "all-about-alan-topic/the-pictures-at-the-edge-of-sleep",
   ],
   settled:
-    "Asleep I get novel-length stories, half a dozen characters, full settings, and an emotional score under them.\n\nThat is the proof the break is at recall and nowhere earlier. The parts that build it are all there.\n\nMore of my cortisol at bedtime means more nightmares. That is the whole of what I claim.\n\nI have gone through phases of writing them down on waking, as story ideas.",
+    "Asleep I get novel-length stories, half a dozen characters, full settings, and an emotional score under them.\n\nThat is the proof the break is at recall and nowhere earlier. The parts that build it are all there.\n\nThe same brain that cannot pre-play anything awake builds whole worlds all night.\n\nMore of my cortisol at bedtime means more nightmares. That is the whole of what I claim. I have nothing beyond stress on what any of them mean.\n\nLately most of them have been nightmares, and I put that down to being in a turbulent stretch.\n\nI have gone through phases of writing them down on waking, as story ideas, before they go back behind the break.",
 } as const satisfies AllAboutAlanTopic
