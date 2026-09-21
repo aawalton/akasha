@@ -5,7 +5,7 @@ export const phraseKind = {
   type: "page-type/page-type",
   slug: "phrase-kind",
   definition: "which sort one phrase is",
-  parts: ["phrase-kind/noun-phrase"],
+  parts: ["phrase-kind/noun-phrase", "phrase-kind/noun-group"],
   extends: ["page-type/domain"],
   decisions: [
     {

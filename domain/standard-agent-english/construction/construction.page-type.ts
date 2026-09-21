@@ -11,6 +11,7 @@ export const construction = {
     "relation-property/phrase-kind",
     "text-property/admits",
     "text-property/refuses",
+    "construction/noun-group-alone",
   ],
   extends: ["page-type/domain"],
   properties: [
