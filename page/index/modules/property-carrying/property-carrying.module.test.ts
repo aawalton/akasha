@@ -84,8 +84,13 @@ function declares(root: string, named: string, by: string, at: string): undefine
   relationFiled(root, named, "page-property", by, [{ path: at }])
 }
 
-function extending(root: string, above: string, below: string, at: string): undefined {
-  relationFiled(root, above, "extends-type", below, [{ path: at }])
+function typeFiled(root: string, slug: string, id: string, above: readonly string[]): undefined {
+  const path = pageAt(slug, "page-type")
+  listedFiled(root, "page-type", slug, [{ path, id }])
+  valueAlsoFiled(root, "page-type", [
+    { path, value: { id, pageTypeSlug: "page-type", slug, extends: above } },
+  ])
+  idFiled(root, id, [{ path, id }])
 }
 
 function rooted(): string {
@@ -112,8 +117,7 @@ test("a page type declaring nothing of it carries none of its pages", () => {
 test("a property is carried by the pages of every type beneath the one declaring it", () => {
   const root = rooted()
   declares(root, HELD, THING, pageAt("thing", "page-type"))
-  filed(root, "deeper", "page-type", DEEPER)
-  extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
+  typeFiled(root, "deeper", DEEPER, ["thing"])
   listedAndValued(root, "deeper", "two", "akasha/two.deeper.ts", TWO)
   const said = carryingOf(root, "held")
   expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
@@ -123,10 +127,8 @@ test("a property is carried by the pages of every type beneath the one declaring
 })
 
 function extendingBoth(root: string): undefined {
-  filed(root, "other", "page-type", OTHER)
-  filed(root, "deeper", "page-type", DEEPER)
-  extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
-  extending(root, OTHER, DEEPER, pageAt("deeper", "page-type"))
+  typeFiled(root, "other", OTHER, [])
+  typeFiled(root, "deeper", DEEPER, ["thing", "other"])
   listedAndValued(root, "deeper", "two", "akasha/two.deeper.ts", TWO)
 }
 

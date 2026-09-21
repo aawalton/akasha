@@ -35,11 +35,7 @@ export const propertyCarrying = {
       statement:
         "A page type declaring a property carries the property to every type beneath that page type.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Descent is read from the reverse of `extends-type` rather than from a page type's body.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
