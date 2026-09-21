@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio2b9e169d34985599 = {
+  id: "01a0c650-a224-750c-ade8-79aeed1e1886",
+  type: "page-type/audio",
+  slug: "audio-2b9e169d34985599",
+  title: "moss-tts voice-clone @ 2026-07-25T09:43:14.998Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "“I counted twenty-four. Time-stop. We’re up against [Chronomancers], perhaps. Or the Skill has a time slow embedded.” Even the Fraerlings gaped at him, aghast, but Foliana just poked him gently again, signalling she got it. What the hell can do that? The list was narrowing, but his first thought was…Nereshal? The Blighted Kingdom wasn’t that pissy though. Unless there was more to that ship attack? Bogleraums? Cats, he wished he hadn’t thought of that. The Titan swung around and gazed at Atmodeca, who was waiting for his opinion. “I think I was hit with a Skill. A door appeared for me to enter. Some kind of negotiation or contract-type Skill. Perhaps the Blighted King.” “Don’t enter it!” Eirnos snapped at him as if she could give him orders. Niers just spoke to Foliana. “It felt rather safe.” Her third poke with the tip of a knife indicated she thought his instincts sucked. But now, Niers was waiting. Once, twice…do we get a third try? He pulled something out of his pocket and began flipping it in the air. A coin. Just a tiny coin—Fraerling money from Rozcal’s city. Niers had no use for coins, but the glittering piece of worked gemstone flashed in the air. He flipped it a few times as he spoke, asking for [Mages] who could analyze Skills. “I know it’s a Level 40+ spell, but I heard there were magics that could detect this kind of thing, Eirnos. Do you have any specialists? I—ah.” Niers stopped talking and glanced up.",
+} as const satisfies Audio

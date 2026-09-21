@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio22135f6a32110add = {
+  id: "01a0c650-a224-7183-a226-5fa3dbd9c8ad",
+  type: "page-type/audio",
+  slug: "audio-22135f6a32110add",
+  title: "moss-tts voice-clone @ 2026-07-25T09:51:04.224Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "If he died, so many bad things happened…but this door was the call to adventure, to danger. He had to open it. The Titan of Baleros reached for the handle and casually swung it open. He stared into the empty blackness of the void and saw the strange brick path leading towards the distant gazebo. He breathed out, once, and then took a step forwards. He had observed that he could ignore the door—that his levels and Skills meant he could even refuse it. Even now, he felt like he could step back if he wanted to. Though the effort was increasing with each passing moment. I outlevel whoever this is. It still could be the Blighted King. Niers glanced over one shoulder, intending to send a message to whomever was here. Then he blinked. Stared up at something and smiled. “Sorry. But I have to know.” He walked through the door as it slowly swung shut behind him. Then, the Titan of Baleros realized that this strange place wasn’t empty. There was, in fact, a distant figure standing at that gazebo sinking through the void of reality. She had brown hair. The Titan stumbled slightly on the path. He stared ahead, and his mind told him that it was like every other time: a mistake, a disguise, an illusion, a disappointment. His feet took him onwards.",
+} as const satisfies Audio

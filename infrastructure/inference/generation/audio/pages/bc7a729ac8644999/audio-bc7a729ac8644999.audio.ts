@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audioBc7a729ac8644999 = {
+  id: "01a0c650-a224-7f6c-8ec6-220f548daa62",
+  type: "page-type/audio",
+  slug: "audio-bc7a729ac8644999",
+  title: "moss-tts voice-clone @ 2026-07-25T08:54:47.968Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "—— By the time ships were able to investigate the wreck of the ship assailed by the Bloodtear Pirates, there was no evidence aside from a huge amount of fish devouring the dead bodies. …No armor or weapons to be found, which wasn’t thought of as suspicious by the [Harbormaster] until several inquiries had him sending [Fishers] and [Divers] to confirm that was the case. But his hands were preoccupied with the Blighted Kingdom’s ships, who were unloading passengers. The [Lieutenant], Eireth, practically strode off her ship, so intent on heading out of the city. He supposed that was Rhir for you and thought little of the incident except to wonder why the Bloodtear Pirates would slaughter an entire crew including the Singer of Terandria. They did that—but such a beloved person? Then again, perhaps she’d survived? No one could confirm seeing her die. There the matter rested. Aside from a quiet request from Tulm the Mithril to the Seer of Steel to have any ships available investigate the matter—but he was unable to move from the New Lands where Dullahans were disembarking and felt frustrated. Another, more direct message came from Elvallian to the Blighted Kingdom. It was addressed to King Othius IV from the Titan of Baleros. Of course, it was vetted by countless [Strategists] and other members of the court, but the message was a one-line sentence that eventually did reach the Blighted King. What are you doing in my territory?",
+} as const satisfies Audio
