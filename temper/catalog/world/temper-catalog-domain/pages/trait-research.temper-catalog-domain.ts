@@ -8,7 +8,7 @@ export const traitResearch = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-21T22:22:08.829Z",
+  capturedAt: "2026-09-21T22:23:21.272Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
