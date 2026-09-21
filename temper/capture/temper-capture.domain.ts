@@ -11,5 +11,6 @@ export const temperCapture = {
     "domain/temper-capture-error",
     "domain/temper-capture-sale",
     "domain/temper-capture-datamining",
+    "domain/temper-game-catalog-capture-addon",
   ],
 } as const satisfies Domain

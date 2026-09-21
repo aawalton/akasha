@@ -38,7 +38,6 @@ export const temper = {
     "domain/temper-errors-triage",
     "domain/temper-eso-type",
     "domain/temper-formula-framework",
-    "domain/temper-game-catalog-capture-addon",
     "domain/temper-game-catalog-capture-host",
     "domain/temper-group-dungeon",
     "domain/temper-holdings",
