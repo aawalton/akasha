@@ -5,7 +5,7 @@ export const surplusFallTier = {
   type: "page-type/module",
   slug: "surplus-fall-tier",
   definition:
-    "the five colours a surplus reading is placed in, and whether today has gone below its open",
+    "the order a tier's colors run in, and whether today has gone below the color it opened at",
   code: "ts",
   decisions: [
     {
@@ -18,15 +18,11 @@ export const surplusFallTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading beneath the lowest rung is black rather than no colour.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A fall is a colour now beneath the colour the day opened at.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The colours are named here without importing anything.",
+      statement: "The colors are the readout tier's own rather than a second set of colors.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -5,6 +5,10 @@ import {
   writeNotification,
 } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
 import {
+  type TierColor,
+  tierAt,
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+import {
   type Readout,
   readReading,
   readSleepHours,
@@ -14,8 +18,6 @@ import {
   decideFall,
   isTierColor,
   TIER_ORDER,
-  type TierColor,
-  tierAt,
 } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
@@ -71,7 +73,8 @@ async function tierOrNull(
   reading: Promise<number | null>
 ): Promise<TierColor | null> {
   const held = await reading
-  return held === null ? null : tierAt(held, readout.rungs)
+  if (held === null) return null
+  return tierAt(held, readout.rungs)?.tier ?? null
 }
 
 async function runSurplusFallTick(day: string, writer: string, signal: AbortSignal): Promise<void> {

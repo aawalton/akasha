@@ -3,13 +3,11 @@ import { stilled } from "akasha/alan/harness/readout/modules/group-serving/reado
 import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
   climbs,
+  type Rung,
   rungsIn,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { sleepIn } from "akasha/alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
-import {
-  isTierColor,
-  type Rung,
-} from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
+import { isTierColor } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
 import { surplusIn } from "akasha/alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
 import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -60,7 +58,7 @@ async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
   for (const rung of rungsIn(row)) {
     if (!isTierColor(rung.color)) {
       throw new Error(
-        `rungsOf: the readout scale \`${scaleSlug}\` states a \`${rung.color}\` rung, and a fall is said in the five colors a tier carries`
+        `rungsOf: the readout scale \`${scaleSlug}\` states a \`${rung.color}\` rung, and a fall is said in the colors a tier carries`
       )
     }
     rungs.push({ at: rung.at, color: rung.color })

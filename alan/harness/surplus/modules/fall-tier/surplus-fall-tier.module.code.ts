@@ -1,24 +1,16 @@
-export type TierColor = "black" | "red" | "yellow" | "green" | "blue"
+import type { TierColor } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 
-export const TIER_ORDER: readonly TierColor[] = ["black", "red", "yellow", "green", "blue"]
-
-export interface Rung {
-  readonly at: number
-  readonly color: TierColor
-}
+export const TIER_ORDER: readonly TierColor[] = [
+  "black",
+  "red",
+  "orange",
+  "yellow",
+  "green",
+  "blue",
+]
 
 export function isTierColor(said: string): said is TierColor {
   return (TIER_ORDER as readonly string[]).includes(said)
-}
-
-export function tierAt(reading: number, rungs: readonly Rung[]): TierColor {
-  let reached: TierColor = "black"
-  for (const rung of rungs) {
-    if (rung.color === "black") continue
-    if (reading < rung.at) break
-    reached = rung.color
-  }
-  return reached
 }
 
 export type FallDecision =
