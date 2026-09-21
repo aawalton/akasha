@@ -1,7 +1,0 @@
-{"body":"`music-capture` is broken. music-capture.service failed at 2026-09-21T21:36:41.000Z, and systemd says `exit-code`. This was seen at 2026-09-21T21:37:02.016Z. What that service is and what it runs are on its page. Its log is `journalctl --user -u music-capture.service`.\n"}
-{"from":"service-watching"}
-{"id":"01a0c5e6-cc29-7000-98c0-565ec5294fd3"}
-{"slug":"message-565ec5294fd3"}
-{"to":"seat/eppie"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
