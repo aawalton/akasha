@@ -184,3 +184,8 @@ test("the rows say every count the run made", () => {
 test("the message counts the recordings left and the pages taken away", () => {
   expect(messageOf(COUNTS)).toBe("leave one track page for 475 recording(s) and take 701 away")
 })
+
+test("a page left that was heard already stays heard", () => {
+  expect(valuesMerged(ELF_DELUXE, [ELF_DELUXE, ELF])["status"]).toBe("completed")
+  expect(valuesMerged(ELF_DELUXE, [ELF_DELUXE, ELF])["ownProgress"]).toBe(1.5)
+})
