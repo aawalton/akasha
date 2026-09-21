@@ -32,7 +32,7 @@ export const alanBook = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A book Alan writes is a collection, and its sections name it as the one they are in.",
+        "A book made of sections is a collection, and those sections name it as the one they are in.",
     },
   ],
   types: "ts",
