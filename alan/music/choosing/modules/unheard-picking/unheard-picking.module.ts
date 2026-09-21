@@ -14,48 +14,7 @@ export const unheardPicking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track whose artist Alan does not follow is never picked.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A track Spotify does not name is never picked.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "One track of a track key is picked and the rest of that key are not.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A track stating no track key is never folded into a key.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The track picked for a key is the first that key reaches in order.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An artist's tracks run together rather than being dealt among other artists.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Artists run in the order of their slugs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Tracks of one artist are ordered by the day their release came out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A track whose release states no day comes after every track whose release states one.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Tracks that came out on one day keep the order their release carries them in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tie no other rule settles goes by slug.",
+      statement: "Every other rule of this picking is the track-picking module's.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -64,15 +23,6 @@ export const unheardPicking = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the network.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A track's Spotify id, disc and position are read off the release it is picked under.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A track is picked once, whatever releases carry that track.",
     },
   ],
 } as const satisfies Module

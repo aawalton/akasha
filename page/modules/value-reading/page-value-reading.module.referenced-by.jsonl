@@ -55,6 +55,8 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/choosing/modules/track-picking/track-picking.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/choosing/modules/track-picking/track-picking.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/choosing/modules/unheard-picking/unheard-picking.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts"}

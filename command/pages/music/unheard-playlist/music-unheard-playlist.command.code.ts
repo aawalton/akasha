@@ -6,10 +6,8 @@ import {
   type Reconciled,
   reconciling,
 } from "akasha/alan/music/choosing/modules/playlist-reconciling/playlist-reconciling.module.code.ts"
-import {
-  type Picked,
-  pickingOver,
-} from "akasha/alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts"
+import type { Picked } from "akasha/alan/music/choosing/modules/track-picking/track-picking.module.code.ts"
+import { pickingUnheard } from "akasha/alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts"
 import {
   addTracks,
   heldTracks,
@@ -91,7 +89,7 @@ function followedIn(root: string): ReadonlySet<string> {
 function pickedIn(root: string): readonly Picked[] {
   const tracks = valuesOfType(root, TRACK).map((one) => one.value)
   const releases = valuesOfType(root, RELEASE).map((one) => one.value)
-  return pickingOver(tracks, releases, followedIn(root))
+  return pickingUnheard(tracks, releases, followedIn(root))
 }
 
 function playlistIn(root: string): Named | null {

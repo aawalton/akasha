@@ -13,6 +13,7 @@ export const musicChoosing = {
     "module/unheard-picking",
     "module/playlist-reconciling",
     "page-type/playlist",
+    "module/track-picking",
   ],
   decisions: [
     {
