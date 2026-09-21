@@ -39,6 +39,8 @@ const JSONL = "jsonl"
 
 const TYPES = "types"
 
+const PLURAL_SLUG = "pluralSlug"
+
 const HOLDS = "ts"
 
 function bodyRefused(
@@ -133,16 +135,21 @@ export function folderFor(pageTypeSlug: string, slug: string): string {
   return slug
 }
 
-function namedForTheType(named: string, typed: string): boolean {
+function namedForTheType(named: string, typed: string, plural: string | null): boolean {
   if (named === "") return false
-  return named === typed || typed.endsWith(`-${named}`)
+  if (named === typed || typed.endsWith(`-${named}`)) return true
+  return plural !== null && named === plural
 }
 
-export function pagesUnder(typeAt: string): string {
+export function pagesUnder(typeAt: string, plural: string | null = null): string {
   const above = typeAt.split("/").slice(0, -1)
   const named = above.at(-1) ?? ""
   const typed = partedIn(typeAt)?.slug ?? ""
-  return `${above.join("/")}/${namedForTheType(named, typed) ? PAGES : typed}`
+  return `${above.join("/")}/${namedForTheType(named, typed, plural) ? PAGES : typed}`
+}
+
+function pluralAt(root: string, typeAt: string): string | null {
+  return textAt(valueAt(typeAt, root) ?? {}, PLURAL_SLUG)
 }
 
 export function pagesAtFor(root: string, pageTypeSlug: string): string {
@@ -151,17 +158,18 @@ export function pagesAtFor(root: string, pageTypeSlug: string): string {
   if (typeAt === undefined) {
     throw new Error(`\`${pageTypeSlug}\` names no page type the index holds`)
   }
-  return pagesUnder(typeAt)
+  return pagesUnder(typeAt, pluralAt(root, typeAt))
 }
 
 export function pathFor(
   typeAt: string,
   pageTypeSlug: string,
   slug: string,
-  besideIt: boolean
+  besideIt: boolean,
+  plural: string | null = null
 ): string {
   const own = besideIt ? `/${folderFor(pageTypeSlug, slug)}` : ""
-  return `${pagesUnder(typeAt)}${own}/${slug}.${pageTypeSlug}.ts`
+  return `${pagesUnder(typeAt, plural)}${own}/${slug}.${pageTypeSlug}.ts`
 }
 
 function shownAs(held: string): string {
@@ -253,11 +261,13 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const held = listed.length === 1 ? listed[0]?.path : undefined
   const typing = valueAt(typeAt, root) ?? {}
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
+  const plural = textAt(typing, PLURAL_SLUG)
   const beside =
     held === undefined &&
     named.path === undefined &&
-    (besideItsPage(root, carried) || foldersHere(root, pagesUnder(typeAt), named.pageTypeSlug))
-  const at = held ?? named.path ?? pathFor(typeAt, named.pageTypeSlug, named.slug, beside)
+    (besideItsPage(root, carried) ||
+      foldersHere(root, pagesUnder(typeAt, plural), named.pageTypeSlug))
+  const at = held ?? named.path ?? pathFor(typeAt, named.pageTypeSlug, named.slug, beside, plural)
   const was = held === undefined ? null : valueAt(held, root)
   const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}

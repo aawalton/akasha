@@ -55,12 +55,15 @@ test("a folder already named by the page type takes a new page under pages", () 
   expect(said).toBe("akasha/person-system/device-token/pages/one.device-token.ts")
 })
 
-test("a folder named by the page type's slug shorn of its opening takes its pages under pages", () => {
-  const said = pathFor(pageTypeAt("story-chapter-read"), "story-chapter-read", "one", true)
-  expect(said).toBe("akasha/story/chapter-read/pages/one/one.story-chapter-read.ts")
-})
-
 const UNNAMED_TYPE_AT = "akasha/shard/held/shard.page-type.ts"
+
+test("a folder named the plural its page type gathers pages under takes them under pages", () => {
+  expect(pagesUnder(UNNAMED_TYPE_AT, "held")).toBe("akasha/shard/held/pages")
+  expect(pathFor(UNNAMED_TYPE_AT, "shard", "one", true, "held")).toBe(
+    "akasha/shard/held/pages/one/one.shard.ts"
+  )
+  expect(pagesUnder(UNNAMED_TYPE_AT, "shards")).toBe("akasha/shard/held/shard")
+})
 
 test("a folder not named by the page type takes a new page under that type's slug", () => {
   expect(pathFor(UNNAMED_TYPE_AT, "shard", "one", false)).toBe(

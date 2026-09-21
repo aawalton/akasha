@@ -73,6 +73,18 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder named the plural a page type gathers its pages under is named by it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That plural is read off the page type rather than from the folder's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller handing over no plural has the folder judged by the slug alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder not named by the page type takes its pages under that type's slug.",
     },
     {
