@@ -5,6 +5,10 @@ import {
 } from "akasha/temper/addon/pages/lib-main-menu/modules/main-menu-casts/main-menu-casts.module.code.ts"
 import { getMainMenu } from "akasha/temper/addon/pages/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.code.ts"
 import type { Lib } from "akasha/temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-deconstruction/eso-deconstruction.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function installSceneNavigation(this: void, lib: Lib): undefined {
   lib.ShowCategory = function (this: Lib, category: number): undefined {
