@@ -1,6 +1,7 @@
 import * as Options from "akasha/temper/addon/crafting-addon/modules/craft-options/craft-options.module.code.ts"
 import * as ResearchGrid from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
 import * as RuneCrafting from "akasha/temper/addon/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
+import { styleInitialize } from "akasha/temper/addon/crafting-addon/modules/craft-style-rows/craft-style-rows.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 
 import { runeShowMode } from "akasha/temper/addon/crafting-addon/modules/rune-mode/rune-mode.module.code.ts"
@@ -71,7 +72,7 @@ export function panelInitialize(): undefined {
       }
     }
   }
-  Options.styleInitialize()
+  styleInitialize()
 
   const split = (level: number): string => {
     const basename = zo_strformat("<<t:1>>", GetItemLinkName(RuneCrafting.runeGetLink(26580, 0, 0)))

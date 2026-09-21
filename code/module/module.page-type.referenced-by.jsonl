@@ -2731,6 +2731,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-sets-data/craft-sets-data.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-storage-counts/craft-storage-counts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-storage-prune/craft-storage-prune.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-style-rows/craft-style-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-styles-data-tables/craft-styles-data-tables.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/craft-styles-data/craft-styles-data.module.ts"}
