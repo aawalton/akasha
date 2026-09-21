@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whereTheGovernmentTouchesMe = {
+  id: "01a0c596-6f3f-7326-82b2-668b5d77e0d2",
+  type: "page-type/all-about-alan-topic",
+  slug: "where-the-government-touches-me",
+  title: "Where The Government Touches Me",
+  definition: "the federal, state, county and city services I depend on, and how each grades",
+  parents: ["all-about-alan-topic/which-organisations-i-trust"],
+  related: ["all-about-alan-topic/how-i-grade-an-organisation"],
+  settled:
+    "The tax office grades D and the passport office D. Passports get denied along political lines, the appeal is opaque, the fees climb, and the backlog gets used as leverage.\n\nThe post office grades C. It is the government working as a utility and it has held to its mission for a long time. Most of what I send could go another way at a higher price, and some of it could not. The pressure to privatise is what I watch.\n\nUtah licences and vehicle registration grade D, with nothing else in the state to use. Utah income tax grades D, a flat four point eight five percent, which is mild as states go.\n\nUtah County property tax grades D. Provo City grades C overall and is run well for its size. Its library and parks are probably better than that, and I have not graded them one at a time.\n\nRegistering for the draft is the worst of these. Registering the homeschooling is the only good one.",
+} as const satisfies AllAboutAlanTopic
