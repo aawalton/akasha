@@ -53,19 +53,15 @@ export const gradeProperty = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A grade property states the whole ladder as its values.",
+      statement: "This page states the ladder, and no grade property states it again.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The ladder is the values a grade property states rather than a second list here.",
+      statement: "The rungs sharing a letter share a color.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rung is read off a grade property's own file.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing refuses a grade property whose values are not the ladder.",
+      statement: "A rung is read off this file.",
     },
   ],
   types: "ts",

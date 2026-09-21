@@ -6,11 +6,11 @@ import {
   type MusicRating,
   ratingRung,
 } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { grade } from "akasha/page/properties/grade.grade-property.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 
 describe("MUSIC_RATINGS", () => {
-  test("is the ladder the grade property states, rather than a second list", () => {
-    expect(MUSIC_RATINGS).toBe(grade.values)
+  test("is the ladder the grade property type states, rather than a second list", () => {
+    expect(MUSIC_RATINGS).toBe(gradeProperty.values)
   })
 })
 

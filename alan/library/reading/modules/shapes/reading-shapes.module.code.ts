@@ -1,7 +1,7 @@
-import { grade } from "akasha/page/properties/grade.grade-property.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 
-export const LITRPG_RATINGS = grade.values
+export const LITRPG_RATINGS = gradeProperty.values
 export type LitrpgRating = Grade
 
 export interface LitrpgStory {

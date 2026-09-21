@@ -13,7 +13,7 @@ export const selectProperty = {
   ],
   extends: ["page-type/page-property"],
   properties: [
-    { pageProperty: "text-property/select-values", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
     {
       pageProperty: "record-property/select-option-colors",
       required: false,
@@ -25,6 +25,14 @@ export const selectProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A select property states its values as page data.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A select property stating none takes the values and colors its page type states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type whose every property chooses from one set states that set once.",
     },
     {
       decisionKind: "decision-kind/departure",

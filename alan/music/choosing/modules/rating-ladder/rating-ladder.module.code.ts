@@ -1,9 +1,9 @@
-import { grade } from "akasha/page/properties/grade.grade-property.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 
 export type MusicRating = Grade
 
-export const MUSIC_RATINGS = grade.values
+export const MUSIC_RATINGS = gradeProperty.values
 
 const LIKED_FROM: MusicRating = "B-"
 

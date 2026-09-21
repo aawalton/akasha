@@ -1,3 +1,3 @@
-import type { singability } from "akasha/alan/music/catalog/song/properties/singability.grade-property.ts"
+import type { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 
-export type Singability = (typeof singability.values)[number]
+export type Singability = (typeof gradeProperty.values)[number]

@@ -1,3 +1,3 @@
-import type { grade } from "akasha/page/properties/grade.grade-property.ts"
+import type { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 
-export type Grade = (typeof grade.values)[number]
+export type Grade = (typeof gradeProperty.values)[number]
