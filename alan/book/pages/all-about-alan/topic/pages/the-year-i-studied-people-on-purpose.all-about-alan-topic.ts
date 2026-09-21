@@ -1,0 +1,14 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theYearIStudiedPeopleOnPurpose = {
+  id: "01a0c5ff-957e-788c-ae43-e75d26a44532",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-year-i-studied-people-on-purpose",
+  title: "The Year I Studied People On Purpose",
+  definition:
+    "the deliberate investigation of social rules I ran at fourteen, and what it replaced",
+  parents: ["all-about-alan-topic/building-a-people-skill-by-hand"],
+  related: ["all-about-alan-topic/the-five-ways-something-becomes-automatic"],
+  settled:
+    "At fourteen I ran a deliberate conceptual investigation of the rules of social interaction, and it ran a year.\n\nIt was a substitution rather than an extra. The route most people take social rules in by, picking them up while watching and never trying, is reduced in me. So I went at them explicitly and fitted what I found into what I already held.\n\nThat is the slower way in. A year of deliberate study against a childhood of incidental exposure.\n\nIt finishes higher. Rules arrived at explicitly are rules I can say out loud and can be shown wrong about, where rules absorbed without trying are neither.",
+} as const satisfies AllAboutAlanTopic
