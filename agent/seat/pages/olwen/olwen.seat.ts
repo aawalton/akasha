@@ -5,7 +5,7 @@ export const olwen = {
   type: "page-type/seat",
   slug: "olwen",
   persona: "persona/olwen",
-  assignmentSlug: "domain/design-interface-system",
+  assignmentSlug: "initiative/olwen-design-system",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
