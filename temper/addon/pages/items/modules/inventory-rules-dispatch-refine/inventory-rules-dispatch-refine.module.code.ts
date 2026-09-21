@@ -32,6 +32,12 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 
 const MAX_REFINE_OPS = 50
 
+let refining = false
+
+export function isRefining(): boolean {
+  return refining
+}
+
 const REFINE_CRAFT_TYPES = new LuaSet<number>()
 REFINE_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)
 REFINE_CRAFT_TYPES.add(CRAFTING_TYPE_CLOTHIER)
@@ -112,6 +118,7 @@ function startRefining(
   }
 
   function finish(this: void): undefined {
+    refining = false
     EVENT_MANAGER.UnregisterForEvent(ns, EVENT_CRAFT_COMPLETED)
     station.refinementPanel.ClearSelections()
     if (refinedLinks.length > 0) reportAction("Refined", refinedLinks)
@@ -139,6 +146,7 @@ function startRefining(
     }
   }
 
+  refining = true
   process()
 }
 

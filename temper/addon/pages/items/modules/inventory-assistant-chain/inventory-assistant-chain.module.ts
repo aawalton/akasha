@@ -57,6 +57,18 @@ export const inventoryAssistantChain = {
       statement: "A step left alone longer than the window ends the chain rather than carrying on.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A venue is closed once nothing the addon started there is still running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A venue is held a moment after falling quiet before it is closed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A venue still working past the limit is left for the player to close.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A leg with nothing to do is walked all the same.",
     },

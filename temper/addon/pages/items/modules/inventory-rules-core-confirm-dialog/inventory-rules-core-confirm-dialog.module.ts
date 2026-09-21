@@ -6,4 +6,10 @@ export const inventoryRulesCoreConfirmDialog = {
   slug: "inventory-rules-core-confirm-dialog",
   definition: "the dialog asking the player to confirm an action the settings mark as needing it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether the dialog is on the screen is answered here.",
+    },
+  ],
 } as const satisfies Module

@@ -3633,6 +3633,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.ts","id":"01a06258-b52b-7a61-a1ab-0439cd103604"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.ts","id":"01a06258-b52d-7b46-8cda-3be08ef726d7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.ts","id":"01a06258-b52f-7911-b65b-636ea6e3179f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.ts","id":"01a06258-b52f-71e3-a07e-8a55157ddd17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.ts","id":"01a06258-b530-7646-901c-b102e187b412"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.ts","id":"01a06258-b530-714c-9441-2a4a09f6f3b7"}
@@ -3641,8 +3642,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.ts","id":"01a06258-b530-79eb-a110-55d5942865b1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.ts","id":"01a06258-b530-7df4-9831-55755f31aee1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.ts","id":"01a06258-b531-7715-8d2a-26fd26ca0747"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.ts","id":"01a06258-b532-781e-9570-7a7a6d5dd5df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.ts","id":"01a06258-b533-78d1-9e55-12407ea45377"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.ts","id":"01a06258-b536-712e-9550-52d00f78c679"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/keybinder-declarations/keybinder-declarations.type-declaration.ts","id":"01a06381-67c1-7169-bc94-c11e7fb0d171"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/keybinder-binding-fns/keybinder-binding-fns.module.ts","id":"01a06381-67c1-70be-89d4-23608f21260c"}

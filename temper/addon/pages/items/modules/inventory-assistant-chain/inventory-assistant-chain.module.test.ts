@@ -8,6 +8,9 @@ import {
   roleOfStep,
   roleOut,
   stepAfter,
+  VENUE_EXIT_LIMIT_MS,
+  VENUE_EXIT_SETTLE_MS,
+  venueExitVerdict,
 } from "akasha/temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"
 
 const GILADIL = 10184
@@ -89,4 +92,23 @@ test("a step is held open up to the window and no longer", () => {
 
 test("a chain that is away is held open by nothing", () => {
   expect(chainHeldOpen("away", 1000, 1000)).toBe(false)
+})
+
+test("a venue with nothing left running is closed once it has settled", () => {
+  expect(venueExitVerdict(false, VENUE_EXIT_SETTLE_MS)).toBe("close")
+  expect(venueExitVerdict(false, VENUE_EXIT_LIMIT_MS)).toBe("close")
+})
+
+test("a venue quiet for less than the settle is waited on", () => {
+  expect(venueExitVerdict(false, 0)).toBe("wait")
+  expect(venueExitVerdict(false, VENUE_EXIT_SETTLE_MS - 1)).toBe("wait")
+})
+
+test("a venue with work still running is waited on up to the limit", () => {
+  expect(venueExitVerdict(true, VENUE_EXIT_SETTLE_MS)).toBe("wait")
+  expect(venueExitVerdict(true, VENUE_EXIT_LIMIT_MS - 1)).toBe("wait")
+})
+
+test("a venue still working past the limit is left to the player", () => {
+  expect(venueExitVerdict(true, VENUE_EXIT_LIMIT_MS)).toBe("give-up")
 })

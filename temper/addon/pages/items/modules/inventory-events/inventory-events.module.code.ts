@@ -79,6 +79,7 @@ import { registerAutoListResultEvents } from "akasha/temper/addon/pages/items/mo
 import { registerVenueDispatchEvents } from "akasha/temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
 import { migrateLocksToTemperLocks } from "akasha/temper/addon/pages/items/modules/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
+import { closeBankWhenIdle } from "akasha/temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -193,6 +194,7 @@ export function registerInventoryEvents(): undefined {
       refreshBankActionPanel(summary)
       recordBankPhaseMs("refreshPanel", GetGameTimeMilliseconds() - panelStart)
       finishBankOpenHandler()
+      closeBankWhenIdle()
     }
   )
 

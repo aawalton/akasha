@@ -31,6 +31,14 @@ export const inventoryRulesDispatchBank = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether stacking is still under way is answered here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Stacking counts as under way until what it settled has been recorded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stacking record reaching a later visit than the one it is of is dropped.",
     },
     {

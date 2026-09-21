@@ -70,6 +70,10 @@ export function onWritCraftCompleted(
   }
 }
 
+export function isWritCrafting(): boolean {
+  return processing || queue.length > 0
+}
+
 export function clearWritCraftQueue(): undefined {
   queue = []
   processing = false

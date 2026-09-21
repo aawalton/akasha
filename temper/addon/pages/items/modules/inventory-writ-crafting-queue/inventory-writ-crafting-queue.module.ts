@@ -6,4 +6,10 @@ export const inventoryWritCraftingQueue = {
   slug: "inventory-writ-crafting-queue",
   definition: "the queue of craft requests, worked one at a time as each craft completes",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A queue with anything left in it counts as crafting still under way.",
+    },
+  ],
 } as const satisfies Module

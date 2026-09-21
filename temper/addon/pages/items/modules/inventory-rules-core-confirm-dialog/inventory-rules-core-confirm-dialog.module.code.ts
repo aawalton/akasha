@@ -70,6 +70,10 @@ function isControl(value: unknown): value is Control {
   return typeof candidate.SetHandler === "function"
 }
 
+export function isConfirmDialogShowing(): boolean {
+  return ZO_Dialogs_IsShowing(CONFIRM_DIALOG_NAME)
+}
+
 export function releaseConfirmDialog(): undefined {
   if (ZO_Dialogs_IsShowing(CONFIRM_DIALOG_NAME)) {
     ZO_Dialogs_ReleaseDialog(CONFIRM_DIALOG_NAME)

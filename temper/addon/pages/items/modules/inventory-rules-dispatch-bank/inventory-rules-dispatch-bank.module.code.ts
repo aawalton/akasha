@@ -42,6 +42,12 @@ export function isDispatchingBank(): boolean {
   return dispatchingBank
 }
 
+let stackingBags = false
+
+export function isStackingBags(): boolean {
+  return stackingBags
+}
+
 const STACK_ARRIVAL_MS = 1500
 
 const STACK_SETTLE_MS = 2000
@@ -71,6 +77,7 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
   }
   const bags = bagsVisitStacks(bankingBag)
   const generation = currentVisitGeneration()
+  stackingBags = true
   zo_callLater(function (this: void): undefined {
     const counts: BankTraceStackingCount[] = []
     for (const bag of bags) {
@@ -88,6 +95,7 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
         })
       }
       recordStacking({ ran: true, bags, counts: settled }, generation)
+      stackingBags = false
     }, STACK_SETTLE_MS)
   }, STACK_ARRIVAL_MS)
 }

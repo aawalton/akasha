@@ -26,6 +26,10 @@ import {
 import { onTradingHouseClosed } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
 import {
+  closeStationWhenIdle,
+  closeStoreWhenIdle,
+} from "akasha/temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts"
+import {
   clearWritCraftQueue,
   onWritCraftCompleted,
 } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
@@ -48,6 +52,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       openJunkGate()
       onOpenStore()
       finishVenueOpenHandler()
+      closeStoreWhenIdle()
     }
   )
 
@@ -74,6 +79,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       releaseBankTrace()
       chainAtStation()
       onOpenCraftingStation()
+      closeStationWhenIdle()
     }
   )
 

@@ -170,6 +170,7 @@ export const temperAddonItems = {
     "module/inventory-writ-toggles",
     "type-declaration/inventory-config-global",
     "module/inventory-assistant-chain",
+    "module/inventory-venue-exit",
   ],
   decisions: [
     {

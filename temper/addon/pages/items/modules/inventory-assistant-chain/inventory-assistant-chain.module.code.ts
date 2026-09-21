@@ -18,6 +18,12 @@ export const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", 
 
 export const CHAIN_WINDOW_MS = 120000
 
+export const VENUE_EXIT_CHECK_MS = 500
+
+export const VENUE_EXIT_SETTLE_MS = 3000
+
+export const VENUE_EXIT_LIMIT_MS = 60000
+
 const SUMMON_DELAY_MS = 500
 
 export function assistantFor(
@@ -65,6 +71,14 @@ export function roleOfStep(step: ChainStep): ChainRole | undefined {
 export function chainHeldOpen(step: ChainStep, sinceMs: number, nowMs: number): boolean {
   if (step === "away") return false
   return nowMs - sinceMs <= CHAIN_WINDOW_MS
+}
+
+export type VenueExitVerdict = "close" | "give-up" | "wait"
+
+export function venueExitVerdict(busy: boolean, waitedMs: number): VenueExitVerdict {
+  if (!busy && waitedMs >= VENUE_EXIT_SETTLE_MS) return "close"
+  if (waitedMs >= VENUE_EXIT_LIMIT_MS) return "give-up"
+  return "wait"
 }
 
 let step: ChainStep = "away"
