@@ -12,7 +12,6 @@ export const seaweedfs = {
     "manifest/seaweedfs-filer",
     "manifest/seaweedfs-maintenance",
     "manifest/seaweedfs-master",
-    "manifest/seaweedfs-prune-sessions",
     "manifest/seaweedfs-s3-gateway",
     "manifest/seaweedfs-volume",
     "module/seaweedfs-backup-manifests",
@@ -22,7 +21,6 @@ export const seaweedfs = {
     "module/seaweedfs-longtail-assets",
     "module/seaweedfs-maintenance-manifests",
     "module/seaweedfs-namespace",
-    "module/seaweedfs-prune-manifests",
     "module/seaweedfs-rclone-env",
   ],
 } as const satisfies Domain

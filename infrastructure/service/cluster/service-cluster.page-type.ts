@@ -51,7 +51,6 @@ export const serviceCluster = {
     "service-cluster/seaweedfs-filer",
     "service-cluster/seaweedfs-maintenance",
     "service-cluster/seaweedfs-master",
-    "service-cluster/seaweedfs-prune-sessions",
     "service-cluster/seaweedfs-s3-gateway",
     "service-cluster/seaweedfs-volume",
     "service-cluster/smilingjenny-web",

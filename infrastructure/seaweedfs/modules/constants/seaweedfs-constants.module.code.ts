@@ -15,8 +15,6 @@ export const HOST = "node-04"
 
 export const ASSETS_BUCKET = "agent-sessions"
 
-export const EXPIRING_PREFIXES = ["sessions"] as const
-
 export const NON_EXPIRING_PREFIXES = [
   "audio",
   "images",

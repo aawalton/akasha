@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.ts"}
