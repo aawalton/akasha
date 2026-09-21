@@ -143,15 +143,16 @@ export function namedIn(row: Record<string, unknown>): string {
 }
 
 export function placesFiled(where: Where, row: Record<string, unknown>): Placed {
+  const held = sheetIn(row)
   const named = namedIn(row)
   const at = slugFor(where.slug, named)
   const within = namedAs(gameLocation.slug, at, null)
-  const depth = countIn(row[DEPTH])
-  const every: Composed[] = [placeFiled(where, named, undefined, depth, row)]
-  for (const room of listIn(row["rooms"])) {
+  const depth = countIn(held[DEPTH])
+  const every: Composed[] = [placeFiled(where, named, undefined, depth, held)]
+  for (const room of listIn(held["rooms"])) {
     every.push(placeFiled(where, saidIn(room["id"]) ?? UNNAMED, within, depth, room))
   }
-  for (const met of listIn(row["encounters"])) {
+  for (const met of listIn(held["encounters"])) {
     every.push(metFiled(where, at, met))
     const enemy = isRecord(met["enemy"]) ? met["enemy"] : {}
     every.push(entityFiled(where, saidIn(met["id"]) ?? UNNAMED, enemy))

@@ -34,6 +34,8 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/game/import/game-import.command.code.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/game/import/game-import.command.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/game/settle/game-settle.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/game/settle/game-settle.command.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}

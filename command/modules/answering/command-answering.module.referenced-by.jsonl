@@ -107,6 +107,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/game/import/game-import.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/game/settle/game-settle.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts"}

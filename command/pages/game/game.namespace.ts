@@ -5,6 +5,6 @@ export const game = {
   type: "page-type/namespace",
   slug: "game",
   definition: "the games being played, and the numbers their turns settle",
-  parts: ["command/game-settle"],
+  parts: ["command/game-settle", "command/game-import"],
   name: "game",
 } as const satisfies Namespace
