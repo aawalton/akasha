@@ -33,7 +33,14 @@ import {
   SelectPanel,
   TextareaPanel,
 } from "akasha/design/interface/system/modules/components-input-panels/components-input-panels.module.code.tsx"
-import { ComponentsItemDisplayPanels } from "akasha/design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"
+import {
+  ChipListPanel,
+  ChipPanel,
+  HorizontalScrollFadePanel,
+  ItemCardPanel,
+  ItemRowPanel,
+  ScrollAreaPanel,
+} from "akasha/design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"
 import { ComponentsListGridPanels } from "akasha/design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
 import {
   AlertDialogPanel,
@@ -136,7 +143,12 @@ export function ComponentsTabContent() {
           <AddSortButtonPanel />
           <AddFilterButtonPanel />
           <FilterGroupPanel />
-          <ComponentsItemDisplayPanels />
+          <ChipPanel />
+          <ChipListPanel />
+          <ItemCardPanel />
+          <ItemRowPanel />
+          <HorizontalScrollFadePanel />
+          <ScrollAreaPanel />
           <ComponentsListGridPanels />
           <ComponentsCompoundPanels />
           <ComponentsCompoundNavPanels />
