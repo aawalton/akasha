@@ -7,6 +7,6 @@
 {"replicas":1}
 {"resourceKind":"Deployment"}
 {"resourceName":"grafana"}
-{"secrets":["secret/grafana-secrets-grafana-admin-password","secret/grafana-ro-password-password"]}
+{"secrets":["secret/grafana-secrets-grafana-admin-password"]}
 {"slug":"grafana"}
 {"type":"page-type/service-cluster"}

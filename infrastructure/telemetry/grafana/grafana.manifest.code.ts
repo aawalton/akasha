@@ -9,7 +9,7 @@ import { grafana } from "akasha/infrastructure/service/cluster/pages/grafana/gra
 
 const NAMESPACE = grafana.namespace
 const SECRETS_NAME = "grafana-secrets"
-const SECRETS_KEYS = ["GRAFANA_ADMIN_PASSWORD", "GRAFANA_DB_RO_PASSWORD"]
+const SECRETS_KEYS = ["GRAFANA_ADMIN_PASSWORD"]
 const APP_NAME = grafana.resourceName
 const INSTANCE_NAME = grafana.resourceName
 const COMPONENT = "visualization"
@@ -36,7 +36,7 @@ const SELECTOR_LABELS = {
   "app.kubernetes.io/instance": INSTANCE_NAME,
 } as const
 
-const DASHBOARD_SLUGS = ["resources", "pods", "database"] as const
+const DASHBOARD_SLUGS = ["resources", "pods"] as const
 
 const DATASOURCES_YAML = [
   "apiVersion: 1",
@@ -53,19 +53,6 @@ const DATASOURCES_YAML = [
   "    uid: loki",
   "    access: proxy",
   "    url: http://loki.loki.svc.cluster.local:3100",
-  "    editable: false",
-  "  - name: Postgres RO",
-  "    type: postgres",
-  "    uid: postgres",
-  "    access: proxy",
-  "    url: postgres-cnpg-ro.postgres.svc.cluster.local:5432",
-  "    user: grafana_ro",
-  "    jsonData:",
-  "      database: postgres",
-  "      sslmode: disable",
-  "      postgresVersion: 1800",
-  "    secureJsonData:",
-  "      password: ${GRAFANA_DB_RO_PASSWORD}",
   "    editable: false",
   "",
 ].join("\n")
@@ -192,15 +179,6 @@ function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
                 { name: "GF_AUTH_DISABLE_LOGIN_FORM", value: "true" },
                 { name: "GF_SERVER_ROOT_URL", value: "https://grafana.alanwalton.com" },
                 { name: "GF_PATHS_PROVISIONING", value: "/etc/grafana/provisioning" },
-                {
-                  name: "GRAFANA_DB_RO_PASSWORD",
-                  valueFrom: {
-                    secretKeyRef: {
-                      name: SECRETS_NAME,
-                      key: "GRAFANA_DB_RO_PASSWORD",
-                    },
-                  },
-                },
               ],
               ports: [{ name: "http", containerPort: grafana.containerPort }],
               resources: {

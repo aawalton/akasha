@@ -8,7 +8,7 @@ export const grafana = {
     "the chart server, its namespace, the sources and dashboards it is given, and its way in",
   code: "ts",
   generatedDirectory: true,
-  parts: ["dashboard/database", "dashboard/pods", "dashboard/resources"],
+  parts: ["dashboard/pods", "dashboard/resources"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -16,7 +16,7 @@ export const grafana = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The keys hashed from it are GRAFANA_ADMIN_PASSWORD and GRAFANA_DB_RO_PASSWORD.",
+      statement: "The one key hashed from it is GRAFANA_ADMIN_PASSWORD.",
     },
     {
       decisionKind: "decision-kind/departure",

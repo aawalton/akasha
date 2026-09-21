@@ -12,5 +12,5 @@ export const grafana = {
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/grafana"],
-  secrets: ["secret/grafana-secrets-grafana-admin-password", "secret/grafana-ro-password-password"],
+  secrets: ["secret/grafana-secrets-grafana-admin-password"],
 } as const satisfies ServiceCluster
