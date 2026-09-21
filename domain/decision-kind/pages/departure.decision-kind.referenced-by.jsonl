@@ -3368,6 +3368,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.ts","id":"01a0c4b7-c153-7b45-9b11-437810dd0ca8"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.ts","id":"01a0c5fc-ff8d-7b07-aea9-4e0a5e9edb7c"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/rank-ladder/rank-ladder.module.ts","id":"01a0c48d-e4cd-7dba-b746-284315f9695b"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/skill-rung/skill-rung.module.ts","id":"01a0c508-73ed-79f5-80cd-8de86a40fac3"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/affinity-advance/affinity-advance.game-mechanic.ts","id":"01a0c4ff-1ec4-7a67-a152-8087ed5bb361"}

@@ -1681,6 +1681,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.ts","id":"01a0c4b7-c153-7b45-9b11-437810dd0ca8"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.ts","id":"01a0c5fc-ff8d-7b07-aea9-4e0a5e9edb7c"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/affinity-bias/affinity-bias.game-mechanic.ts","id":"01a0c4fc-db9f-78e8-bbf1-08b88eea6583"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/essence-absorption/essence-absorption.game-mechanic.ts","id":"01a0c506-b2d7-7a71-adff-ca0e9c867ef6"}
