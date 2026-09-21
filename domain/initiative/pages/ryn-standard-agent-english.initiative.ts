@@ -8,9 +8,6 @@ export const rynStandardAgentEnglish = {
   persona: "persona/ryn",
   intentStack: [
     {
-      statement: "Nothing writes hold where have says the same thing.",
-    },
-    {
       statement: "Nothing writes carry where have says the same thing.",
     },
   ],
