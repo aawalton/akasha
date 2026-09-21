@@ -546,8 +546,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/narrow/temper-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/settings-panel/temper-settings-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/temper-addon.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/bit-codec/temper-bit-codec.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-codec/temper-build-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-hash/temper-build-hash.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-support/temper-build-support.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts"}
@@ -619,6 +617,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/temper-items.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion/temper-player-completion.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/bit-codec/temper-bit-codec.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/temper-character-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts"}

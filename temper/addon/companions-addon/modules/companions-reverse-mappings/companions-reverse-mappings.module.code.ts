@@ -6,7 +6,7 @@ import {
   JEWELRY_TRAIT_TO_INDEX,
   QUALITY_TO_INDEX,
   WEAPON_TRAIT_TO_INDEX,
-} from "akasha/temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
+} from "akasha/temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 
 const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]
 

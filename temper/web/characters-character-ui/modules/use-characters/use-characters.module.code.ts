@@ -12,7 +12,6 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { encodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
   type BuildRow,
   mapBuildRow,
@@ -23,6 +22,7 @@ import {
   type CharacterBuildMetadata,
   extractCharacterMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import { encodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {

@@ -3,10 +3,6 @@ import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import {
-  getArmorWeightIndex,
-  getQualityIndex,
-} from "akasha/temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 import type {
   CharacterArmorSlotData,
   CharacterJewelrySlotData,
@@ -23,6 +19,10 @@ import {
   getPlayerWeaponTypeIndex,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"
 import { getSetIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-set-map/character-capture-set-map.module.code.ts"
+import {
+  getArmorWeightIndex,
+  getQualityIndex,
+} from "akasha/temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 
 export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData {
   const itemLink = GetItemLink(BAG_WORN, slot, LINK_STYLE_DEFAULT)

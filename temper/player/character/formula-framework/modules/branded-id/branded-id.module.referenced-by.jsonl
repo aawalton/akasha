@@ -1,6 +1,3 @@
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/build-codec/modules/build-codec/build-codec.module.code.ts"}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/build-codec/modules/build-codec/build-codec.module.test.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/build-support/modules/build-url/build-url.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"}
@@ -10,6 +7,9 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/companion-codec/modules/companion-codec/companion-codec.module.test.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"}

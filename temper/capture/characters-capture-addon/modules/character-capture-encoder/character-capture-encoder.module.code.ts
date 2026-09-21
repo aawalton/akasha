@@ -1,10 +1,3 @@
-import { bytesToBase64url } from "akasha/temper/bit-codec/modules/base64url/base64url.module.code.ts"
-import {
-  type BitWriterState,
-  bitWriterToBytes,
-  makeBitWriter,
-  writeBits,
-} from "akasha/temper/bit-codec/modules/bit-writer/bit-writer.module.code.ts"
 import {
   CHARACTER_AFFIX_SCRIPT_BITS,
   CHARACTER_ALLIANCE_BITS,
@@ -48,6 +41,13 @@ import type {
   CharacterBuildData,
   CharacterWeaponSlotData,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-codec-types/character-capture-codec-types.module.code.ts"
+import { bytesToBase64url } from "akasha/temper/player/character/build/bit-codec/modules/base64url/base64url.module.code.ts"
+import {
+  type BitWriterState,
+  bitWriterToBytes,
+  makeBitWriter,
+  writeBits,
+} from "akasha/temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.code.ts"
 
 export function encodeCharacterBuild(build: CharacterBuildData): string {
   const writer = makeBitWriter()

@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-weapon-base-values/companion-weapon-base-values.module.code.ts"}
@@ -8,6 +6,8 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"}

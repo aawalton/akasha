@@ -1,10 +1,6 @@
 "use client"
 
 import {
-  decodeBuild,
-  encodeBuild,
-} from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import {
   type BuildVisibility,
   type SettableBuildVisibility,
   toBuildVisibility,
@@ -14,6 +10,10 @@ import {
   applyCharacterMetadata,
   type CharacterBuildMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import {
+  decodeBuild,
+  encodeBuild,
+} from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"

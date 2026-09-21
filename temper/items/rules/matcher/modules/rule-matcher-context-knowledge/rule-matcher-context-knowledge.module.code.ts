@@ -1,6 +1,5 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { recordField } from "akasha/code/type/narrowing/modules/record-field/record-field.module.code.ts"
-import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { resolveCharacterToggles } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { potions } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
@@ -10,6 +9,7 @@ import type {
   CharacterBuildInput,
   CompletionCharacterInput,
 } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"

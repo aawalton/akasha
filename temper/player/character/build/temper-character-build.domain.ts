@@ -5,5 +5,5 @@ export const temperCharacterBuild = {
   type: "page-type/domain",
   slug: "temper-character-build",
   definition: "the shape a character build is held in, and a new one made",
-  parts: ["module/build-factory", "module/build-types", "module/race-source"],
+  parts: ["module/build-factory", "module/build-types", "module/race-source", "domain/temper-bit-codec", "domain/temper-build-codec"],
 } as const satisfies Domain

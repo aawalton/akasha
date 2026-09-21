@@ -3,10 +3,10 @@ import { createPage } from "akasha/page/access/modules/create/create.module.code
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type {
   BuildHash,
   BuildId,

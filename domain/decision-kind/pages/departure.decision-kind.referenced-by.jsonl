@@ -4253,13 +4253,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/trading-addon/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.ts","id":"01a06160-2a5d-7701-bfcb-d89a2bf8ddf3"}
 {"propertySlug":"decision-kind","path":"temper/addon/trading-addon/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.ts","id":"01a06160-2a5d-76e5-bad4-aeac785cc866"}
 {"propertySlug":"decision-kind","path":"temper/addon/trading-addon/temper-trading-addon.eso-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}
-{"propertySlug":"decision-kind","path":"temper/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
-{"propertySlug":"decision-kind","path":"temper/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
-{"propertySlug":"decision-kind","path":"temper/bit-codec/modules/bit-writer/bit-writer.module.ts","id":"01a060af-2560-7182-8953-f9402a4521e1"}
-{"propertySlug":"decision-kind","path":"temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.ts","id":"01a060af-2560-781d-b1ae-002d5f3fc42b"}
-{"propertySlug":"decision-kind","path":"temper/bit-codec/temper-bit-codec.domain.ts","id":"01a060af-255f-7995-9b3e-b6dcbaae7cd7"}
-{"propertySlug":"decision-kind","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.ts","id":"01a062e7-4dbf-7cf4-a91c-960bc8977ebf"}
-{"propertySlug":"decision-kind","path":"temper/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}
 {"propertySlug":"decision-kind","path":"temper/build-hash/temper-build-hash.domain.ts","id":"01a062c4-7811-7457-9a0e-87d4906e32a4"}
 {"propertySlug":"decision-kind","path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts","id":"01a08ed5-cc31-7873-bde1-0132ef1d98b5"}
 {"propertySlug":"decision-kind","path":"temper/build-support/modules/automation-settings/automation-settings.module.ts","id":"01a0609f-53f9-741e-ad0d-f6c482c8057e"}
@@ -5054,6 +5047,13 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts","id":"01a06108-2ffa-7ddc-a07c-2ee34cb56f5c"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts","id":"01a08ee1-1c98-7da2-b6af-8e53c812c8c5"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.ts","id":"01a060af-2560-7182-8953-f9402a4521e1"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.ts","id":"01a060af-2560-781d-b1ae-002d5f3fc42b"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/temper-bit-codec.domain.ts","id":"01a060af-255f-7995-9b3e-b6dcbaae7cd7"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.ts","id":"01a062e7-4dbf-7cf4-a91c-960bc8977ebf"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/modules/race-source/race-source.module.ts","id":"01a061a7-9bb3-769a-973c-5b550c916d32"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-character-name.text-property.ts","id":"01a0a545-7c20-7000-8e8e-c96525a19c3e"}

@@ -16,11 +16,11 @@ import {
   TRAIT_BITS,
   WEAPON_TYPE_BITS,
 } from "akasha/temper/addon/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.code.ts"
-import { base64urlToBytes } from "akasha/temper/bit-codec/modules/base64url/base64url.module.code.ts"
+import { base64urlToBytes } from "akasha/temper/player/character/build/bit-codec/modules/base64url/base64url.module.code.ts"
 import {
   makeBitReader,
   readBits,
-} from "akasha/temper/bit-codec/modules/bit-reader/bit-reader.module.code.ts"
+} from "akasha/temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.code.ts"
 
 export function decodeCompanionBuild(hash: string): CompanionBuildData | undefined {
   const bytes = base64urlToBytes(hash)

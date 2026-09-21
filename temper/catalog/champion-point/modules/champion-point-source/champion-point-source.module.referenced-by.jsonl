@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/catalog/champion-point/modules/craft-passives/craft-passives.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/catalog/champion-point/modules/craft-slottables/craft-slottables.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/catalog/champion-point/modules/fitness-passives/fitness-passives.module.code.ts"}
@@ -7,6 +5,8 @@
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/catalog/champion-point/modules/warfare-passives/warfare-passives.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/catalog/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts"}
+{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/stat/modules/extract-champion-points/extract-champion-points.module.code.ts"}

@@ -6,8 +6,6 @@ export const temper = {
   slug: "temper",
   definition: "a companion suite for The Elder Scrolls Online",
   parts: [
-    "domain/temper-bit-codec",
-    "domain/temper-build-codec",
     "domain/temper-build-hash",
     "domain/temper-build-support",
     "domain/temper-catalog",

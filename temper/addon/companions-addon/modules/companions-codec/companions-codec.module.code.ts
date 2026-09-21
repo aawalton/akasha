@@ -18,12 +18,12 @@ import {
 } from "akasha/temper/addon/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.code.ts"
 import { getCompanionIndex } from "akasha/temper/addon/companions-addon/modules/companions-id-map/companions-id-map.module.code.ts"
 import { getSkillIndex } from "akasha/temper/addon/companions-addon/modules/companions-skill-map/companions-skill-map.module.code.ts"
-import { bytesToBase64url } from "akasha/temper/bit-codec/modules/base64url/base64url.module.code.ts"
+import { bytesToBase64url } from "akasha/temper/player/character/build/bit-codec/modules/base64url/base64url.module.code.ts"
 import {
   bitWriterToBytes,
   makeBitWriter,
   writeBits,
-} from "akasha/temper/bit-codec/modules/bit-writer/bit-writer.module.code.ts"
+} from "akasha/temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.code.ts"
 import {
   getArmorTraitIndex,
   getArmorWeightIndex,
@@ -31,7 +31,7 @@ import {
   getQualityIndex,
   getWeaponTraitIndex,
   getWeaponTypeIndex,
-} from "akasha/temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
+} from "akasha/temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 
 export const ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,
