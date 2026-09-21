@@ -1,0 +1,9 @@
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/finesse.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/intellect.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/luck.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/might.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/perception.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/presence.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/vitality.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/will.game-attribute.ts"}
+{"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

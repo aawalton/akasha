@@ -1,0 +1,1 @@
+export type Least = number

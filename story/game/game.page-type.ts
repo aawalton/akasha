@@ -35,6 +35,7 @@ export const game = {
     "text-property/tone",
     "page-type/game-mechanic",
     "relation-property/game-mechanics",
+    "page-type/game-attribute",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
