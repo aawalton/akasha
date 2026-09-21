@@ -1,0 +1,19 @@
+import type { FeatureRequest } from "akasha/product/kofi/feature-request/feature-request.page-type.types.ts"
+
+export const aTrialRunOfTheRequestChain = {
+  id: "01a0c518-85a3-7ce2-8655-b5213a7a62cb",
+  type: "page-type/feature-request",
+  slug: "a-trial-run-of-the-request-chain",
+  ask: "A trial run of the request chain, put here to prove it and taken away again.",
+  product: "domain/alan",
+  proposer:
+    "contributor/contributor-0a5fe189340e30cc75ac5455352026c9455b4d0f46710572363c2cc910fcf011",
+  backing: [
+    {
+      contributor:
+        "contributor/contributor-0a5fe189340e30cc75ac5455352026c9455b4d0f46710572363c2cc910fcf011",
+      points: 250,
+    },
+  ],
+  standing: "proposed",
+} as const satisfies FeatureRequest
