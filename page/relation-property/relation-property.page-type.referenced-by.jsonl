@@ -152,6 +152,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/entity/properties/entity-game.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/entity/properties/scaled-by.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/entity/properties/scored-attribute.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/panel/properties/drawn-in.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/game-attributes.relation-property.ts"}

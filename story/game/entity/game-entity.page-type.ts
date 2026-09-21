@@ -28,6 +28,12 @@ export const gameEntity = {
       many: true,
       maxCount: null,
     },
+    {
+      pageProperty: "record-property/entity-equipment",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -68,5 +74,11 @@ export const gameEntity = {
     "text-property/affinity-tier",
     "number-property/affinity-counter",
     "record-property/entity-affinities",
+    "text-property/sheet-note",
+    "text-property/equipment-slot",
+    "number-property/equipment-attack",
+    "number-property/equipment-defense",
+    "relation-property/scaled-by",
+    "record-property/entity-equipment",
   ],
 } as const satisfies PageType

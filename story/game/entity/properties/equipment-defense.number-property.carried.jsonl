@@ -1,0 +1,8 @@
+{"definition":"what a thing adds to how hard its bearer is to hit"}
+{"id":"01a0c63a-3b68-781a-ab35-e1db835bb92e"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"defense"}
+{"slug":"equipment-defense"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
