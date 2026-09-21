@@ -23,7 +23,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "What a property carries is worked out for the pages a change names rather than across the index.",
       workingMemory:
-        "`slugsOver` is 1.13s, 21.7% of a landing, and the cost is not the page bodies it loads: the line calling `typesBy` carries all 1.13s, `typesCarrying` in `property-declaring.module.code.ts` is 383ms of that and `valueIn` 255ms. Every shapes file carries `generated`, `toolResolvesPaths` and `writtenBy` now, so `kindedIn` can read one file per page type rather than parsing every property page — but that buys the 255ms, not the 383ms.",
+        "Whether a path is generated is answered for the section asked rather than by building the whole table. 35 file properties say `generated`, 5 name a writing group, 3 name a file exactly, and no named folder says it. A face works that out per name, so a landing follows the declarations once per section rather than fifty times for each of eight faces. `kindedIn` still parses every property page through `valuesOfType` where the shapes file for each property type would answer in one read.",
     },
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
