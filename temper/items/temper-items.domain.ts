@@ -10,5 +10,6 @@ export const temperItems = {
     "domain/temper-items-filters",
     "domain/temper-items-core",
     "domain/temper-inventory-automation",
+    "module/explain-walk",
   ],
 } as const satisfies Domain

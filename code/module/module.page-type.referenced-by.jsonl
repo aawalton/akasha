@@ -5380,6 +5380,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/modules/explain-walk/explain-walk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/all-stocked-filter/all-stocked-filter.module.ts"}
@@ -5537,7 +5538,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/explain-walk/explain-walk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}

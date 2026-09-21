@@ -14,7 +14,6 @@ export const temper = {
     "module/character-class",
     "module/chat-entry-text",
     "module/descriptor",
-    "module/explain-walk",
     "module/gamepad-tooltip-style",
     "module/guild-store-poster",
     "module/movable-window",

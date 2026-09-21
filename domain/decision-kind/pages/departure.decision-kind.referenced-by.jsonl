@@ -4867,6 +4867,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.ts","id":"01a06038-b7a4-7626-9f8d-00da1e05f38a"}
 {"propertySlug":"decision-kind","path":"temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.ts","id":"01a06038-b7a3-702e-9416-158e24c98857"}
 {"propertySlug":"decision-kind","path":"temper/items/inventory-automation/temper-inventory-automation.domain.ts","id":"01a06038-b7a2-7d0b-bbd4-68460f00c22e"}
+{"propertySlug":"decision-kind","path":"temper/items/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.ts","id":"01a06100-3bdf-73c8-af37-4cb6f942667f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.ts","id":"01a06276-e3e7-7896-a7ba-97936d3ea281"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/all-stocked-filter/all-stocked-filter.module.ts","id":"01a06100-3be0-7ea8-a8de-32cfd5204303"}
@@ -5033,7 +5034,6 @@
 {"propertySlug":"decision-kind","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"decision-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"decision-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
-{"propertySlug":"decision-kind","path":"temper/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
 {"propertySlug":"decision-kind","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts","id":"01a060a9-5d59-7ff2-971b-202f4a680195"}
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"decision-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
