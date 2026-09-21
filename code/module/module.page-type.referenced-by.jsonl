@@ -6231,6 +6231,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-refresh-state/item-browser-refresh-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-saved-vars/item-browser-saved-vars.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-search/item-browser-search.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-start/item-browser-start.module.ts"}

@@ -30,6 +30,7 @@ export const temperItemBrowser = {
     "module/item-browser-ui-strings",
     "module/item-browser-zone-classification",
     "type-declaration/item-browser-global-declarations",
+    "module/item-browser-search",
   ],
   decisions: [
     {
