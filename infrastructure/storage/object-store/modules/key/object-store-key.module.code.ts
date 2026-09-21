@@ -5,10 +5,6 @@ export function encodeObjectStoreKey(key: string): string {
     .join("/")
 }
 
-export function audioObjectKey(pageId: string): string {
-  return `audio/${pageId}.wav`
-}
-
 export function mediaRenderObjectKey(
   pageId: string,
   medium: string,

@@ -15,14 +15,7 @@ export const HOST = "node-04"
 
 export const ASSETS_BUCKET = "agent-sessions"
 
-export const NON_EXPIRING_PREFIXES = [
-  "audio",
-  "images",
-  "media-renders",
-  "persona-images",
-  "persona-voices",
-  "story-audio",
-] as const
+export const NON_EXPIRING_PREFIXES = ["media-renders"] as const
 
 const COMPONENT_OBJECT_STORE = "object-store"
 export const COMPONENT_MASTER = "master"

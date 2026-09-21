@@ -11,8 +11,6 @@ export const MAINTENANCE_NAMESPACE = "seaweedfs-maintenance"
 export const COMPONENT_MAINTENANCE = "maintenance"
 
 const BUCKET_QUOTAS_MB = {
-  "postgres-cnpg-backups": 350 * 1024,
-  "atlas-basemap": 50 * 1024,
   "agent-sessions": 30 * 1024,
   "loki-chunks": 20 * 1024,
 } as const
