@@ -214,6 +214,11 @@ export const folderMatchesAShape = {
       statement:
         "A folder named a plural the page's own type gathers its pages under is right as well.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The files in a folder a page there names by extension are worked out once for that folder.",
+    },
   ],
   check: { maxCpuSeconds: 15 },
   audit: { maxCpuSeconds: 120 },

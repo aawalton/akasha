@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   groupedOver,
   holdsNothing,
+  wantedOver,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -65,6 +66,38 @@ test("an uncommitted file is still among the files of the folder it sits in", ()
   const grouped = groupedOver(changeOf([UNCOMMITTED]))
 
   expect(grouped.at("one/two")).toEqual([UNCOMMITTED])
+})
+
+const BESIDE = "one/two/zed.module.ts"
+
+const ABOVE = "one/above.module.ts"
+
+test("a folder is answered with the files sitting in it the caller wants, in the order they sit", () => {
+  const grouped = groupedOver(changeOf([AUTHORED, BESIDE, UNCOMMITTED]))
+  const wanted = wantedOver(grouped, (one) => one !== UNCOMMITTED)
+
+  expect(wanted("one/two")).toEqual([AUTHORED, BESIDE])
+})
+
+test("a folder asked a second time is answered without asking of its files again", () => {
+  const grouped = groupedOver(changeOf([AUTHORED, BESIDE, UNCOMMITTED]))
+  const asked: string[] = []
+  const wanted = wantedOver(grouped, (one) => {
+    asked.push(one)
+    return one !== UNCOMMITTED
+  })
+
+  expect(wanted("one/two")).toEqual([AUTHORED, BESIDE])
+  expect(wanted("one/two")).toEqual([AUTHORED, BESIDE])
+  expect(asked).toEqual([AUTHORED, UNCOMMITTED, BESIDE])
+})
+
+test("each folder is answered with its own files rather than another folder's", () => {
+  const grouped = groupedOver(changeOf([AUTHORED, ABOVE]))
+  const wanted = wantedOver(grouped, () => true)
+
+  expect(wanted("one")).toEqual([ABOVE])
+  expect(wanted("one/two")).toEqual([AUTHORED])
 })
 
 const WHO: readonly string[] = [

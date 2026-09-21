@@ -7,6 +7,7 @@ import {
   type Grouped,
   holdsNothing,
   segmentingOver,
+  wantedOver,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import {
   type Holding,
@@ -307,14 +308,12 @@ function namingParts(
   parts: (page: Held) => readonly string[]
 ): (page: Held) => readonly string[] {
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+  const namedIn = wantedOver(grouped, (one) =>
+    heldNamed(one, extensionsFor(shadow.index), anything, carrying)
+  )
   return (page) => {
     const found = parts(page)
-    const more = grouped
-      .at(folderOf(page.path))
-      .filter(
-        (one) =>
-          !found.includes(one) && heldNamed(one, extensionsFor(shadow.index), anything, carrying)
-      )
+    const more = namedIn(folderOf(page.path)).filter((one) => !found.includes(one))
     return more.length === 0 ? found : [...found, ...more]
   }
 }

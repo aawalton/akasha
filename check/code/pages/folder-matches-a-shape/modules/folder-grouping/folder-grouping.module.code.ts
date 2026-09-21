@@ -75,6 +75,20 @@ export function holdsNothing(grouped: Grouped, folder: string): boolean {
   return grouped.at(folder).length === 0 && grouped.foldersIn(folder).length === 0
 }
 
+export function wantedOver(
+  grouped: Grouped,
+  wanted: (path: string) => boolean
+): (folder: string) => readonly string[] {
+  const held = new Map<string, readonly string[]>()
+  return (folder) => {
+    const found = held.get(folder)
+    if (found !== undefined) return found
+    const made = grouped.at(folder).filter(wanted)
+    held.set(folder, made)
+    return made
+  }
+}
+
 export function segmentingOver(
   declaring: ReadonlyMap<string, string | null>,
   grouped: Grouped
