@@ -61,5 +61,35 @@ export const attackResolution = {
       decisionKind: "decision-kind/departure",
       statement: "An intent the striker's own sheet cannot support counts low whatever it says.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gate is what engaging the defender's weakness is worth, set by the defender.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A strike that engages the weakness not at all gates between a quarter and two fifths.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A strike engaging nothing either way gates at one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A strike on a read weakness gates between one and a half and two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A strike placed on the one point the defender rests on gates at three.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The gate and what the striker intends are counted at different points and compound.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No affinity carries a gate of its own, so no affinity stands in for a read.",
+    },
   ],
 } as const satisfies GameMechanic
