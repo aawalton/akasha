@@ -4048,6 +4048,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.ts","id":"01a0623e-53a0-731f-9970-2086175cd397"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.ts","id":"01a0623e-53a0-7264-80a2-22545178e71e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.ts","id":"01a0623c-2df8-793e-9947-dbed82a8c7c5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-dropdown-menu/lib-sets-search-ui-shared-dropdown-menu.module.ts","id":"01a0c516-5552-75e9-acfd-2b36dfabfb0e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-tooltip-favorites/lib-sets-search-ui-shared-tooltip-favorites.module.ts","id":"01a0623c-2df8-7a8a-a8eb-08922192505b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-set-text-default-layout/lib-sets-set-text-default-layout.module.ts","id":"01a06231-8f1f-72c7-bfe2-63ccfb8e40b5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-set-text-set-info-parts/lib-sets-set-text-set-info-parts.module.ts","id":"01a06231-8f1f-7c5c-ab56-4aa95a3697c8"}

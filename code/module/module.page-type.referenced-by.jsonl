@@ -4175,6 +4175,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-searchui-index/lib-sets-search-ui-searchui-index.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-contextmenu/lib-sets-search-ui-shared-contextmenu.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-dropdown-menu/lib-sets-search-ui-shared-dropdown-menu.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-prefilter/lib-sets-search-ui-shared-prefilter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.ts"}

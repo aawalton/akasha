@@ -615,6 +615,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.ts","id":"01a0623e-53a0-7c7c-944a-09cd92bf699b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-searchui-index/lib-sets-search-ui-searchui-index.module.ts","id":"01a0623e-53a2-77a4-8fe3-d86ebd012700"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-contextmenu/lib-sets-search-ui-shared-contextmenu.module.ts","id":"01a0623e-53a0-784d-a83c-91ac526137c8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-dropdown-menu/lib-sets-search-ui-shared-dropdown-menu.module.ts","id":"01a0c516-5552-75e9-acfd-2b36dfabfb0e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.ts","id":"01a0623c-2df8-7e9e-914b-b335605e5366"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.ts","id":"01a0623e-539f-7075-a2eb-753df899c48d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-search/lib-sets-search-ui-shared-search.module.ts","id":"01a0623c-2df8-77cc-aa20-7ad23b772da9"}

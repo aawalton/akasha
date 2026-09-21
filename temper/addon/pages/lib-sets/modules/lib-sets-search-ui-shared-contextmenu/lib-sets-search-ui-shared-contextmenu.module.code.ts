@@ -4,25 +4,22 @@ import {
   asStrRecordOpt,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
-  asAnyObjectOpt,
   asCategoryRecordOpt,
   asSearchHistoryStringMapOpt,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 
 const lib = LibSets
 
-const tos = tostring
 const zoite = ZO_IsTableEmpty
 
 const clientLang = lib.clientLang
 const fallbackLang = lib.fallbackLang
 const getLocalizedText = lib.GetLocalizedText
 const libSets_showSettingsMenu = lib.ShowSettingsMenu
-const libSets_getsetIdsOfCurrentZone = lib.GetSetIdsOfCurrentZone
-const libSets_getCurrentZoneName = lib.GetCurrentZoneName
 const checkLSM = lib.CheckLSM
 
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import { showDropdownContextMenu } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-dropdown-menu/lib-sets-search-ui-shared-dropdown-menu.module.code.ts"
 import { clearSearchHistory } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"
 import {
   autoStr,
@@ -31,8 +28,6 @@ import {
   defaultActionLeftClickStr,
   favoriteIconWithNameTexts,
   favoritesStr,
-  getComboBoxFromDropdownControl,
-  invertSelectionStr,
   leftStr,
   linkToChatStr,
   popupTooltipStr,
@@ -270,91 +265,7 @@ sharedClass.ShowSettingsMenu = function (
   ShowCustomScrollableMenu(anchorControl)
 }
 
-sharedClass.ShowDropdownContextMenu = function (
-  this: LibSetsSearchUISharedObject,
-  dropdownControl: SearchUIControl,
-  _shift?: boolean,
-  _alt?: boolean,
-  _ctrl?: boolean,
-  _command?: boolean
-) {
-  if (!checkLSM()) {
-    return
-  }
-
-  const comboBox = getComboBoxFromDropdownControl(dropdownControl)
-
-  if (
-    this.multiSelectFilterDropdowns !== undefined &&
-    ZO_IsElementInNumericallyIndexedTable(this.multiSelectFilterDropdowns, dropdownControl)
-  ) {
-    ClearCustomScrollableMenu()
-    const numEntries = comboBox.GetNumItems()
-    const numSelectedEntries = comboBox.GetNumSelectedEntries()
-    const notAllSelected = numSelectedEntries < numEntries
-
-    if (notAllSelected) {
-      AddCustomScrollableMenuEntry(GetString(SI_ITEMFILTERTYPE0), () => {
-        this.SelectAllAtMultiSelectDropdown(dropdownControl)
-        this.OnFilterChanged(dropdownControl)
-      })
-    }
-
-    if (numSelectedEntries > 0) {
-      if (notAllSelected) {
-        AddCustomScrollableMenuEntry(invertSelectionStr, () => {
-          this.SelectInvertMultiSelectDropdown(dropdownControl)
-          this.OnFilterChanged(dropdownControl)
-        })
-      }
-
-      AddCustomScrollableMenuEntry(GetString(SI_ATTRIBUTEPOINTALLOCATIONMODE_CLEARKEYBIND1), () => {
-        this.ResetMultiSelectDropdown(dropdownControl)
-        this.OnFilterChanged(dropdownControl)
-      })
-    }
-
-    if (dropdownControl === this.favoritesFiltersControl) {
-      AddCustomScrollableMenuDivider()
-      for (const [, favoriteCategoryData] of ipairs(possibleSetSearchFavoriteCategories)) {
-        const favoriteCategory = favoriteCategoryData.category
-        const entriesToSelect = [favoriteCategory]
-        AddCustomScrollableMenuEntry(
-          `${asPresent(favoriteIconWithNameTexts[favoriteCategory])} '${zo_strformat("<<C:1>>", favoriteCategory)}'`,
-          () => {
-            this.SelectMultiSelectDropdownEntries(dropdownControl, entriesToSelect, true)
-          }
-        )
-      }
-    } else if (dropdownControl === this.dropZoneFiltersControl) {
-      AddCustomScrollableMenuDivider()
-      const [setIdsOfCurrentZone, currentZoneId, currentParentZoneId] =
-        libSets_getsetIdsOfCurrentZone()
-      if (!zoite(asAnyObjectOpt(setIdsOfCurrentZone) ?? {})) {
-        const [currentZoneName, currentParentZoneName] = libSets_getCurrentZoneName()
-        const currentZoneSetStr = `${getLocalizedText("showCurrentZoneSets")} '${currentZoneName}' (${tos(currentZoneId)})`
-
-        const entriesToSelect = [currentZoneId]
-        AddCustomScrollableMenuEntry(currentZoneSetStr, () => {
-          this.SelectMultiSelectDropdownEntries(dropdownControl, entriesToSelect, true)
-        })
-        if (currentParentZoneId !== undefined && currentParentZoneId !== currentZoneId) {
-          const currentParentZoneSetStr = `${getLocalizedText("showCurrentZoneSets")} '${currentParentZoneName}' (${tos(currentParentZoneId)})`
-          const entriesForParentZoneToSelect = [currentParentZoneId]
-          AddCustomScrollableMenuEntry(currentParentZoneSetStr, () => {
-            this.SelectMultiSelectDropdownEntries(
-              dropdownControl,
-              entriesForParentZoneToSelect,
-              true
-            )
-          })
-        }
-      }
-    }
-
-    ShowCustomScrollableMenu(dropdownControl)
-  }
-}
+sharedClass.ShowDropdownContextMenu = showDropdownContextMenu
 
 sharedClass.OnSearchEditBoxContextMenu = function (
   this: LibSetsSearchUISharedObject,
