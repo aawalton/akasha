@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whenAValueLiftsAFace = {
+  id: "01a0c5a9-58e7-7585-8988-aeca7c686912",
+  type: "page-type/all-about-alan-topic",
+  slug: "when-a-value-lifts-a-face",
+  title: "When A Value Lifts A Face",
+  definition: "a value I hold adding to attraction on top of the visual channels",
+  parents: ["all-about-alan-topic/what-draws-me-to-someone"],
+  related: ["all-about-alan-topic/what-i-value-in-order"],
+  settled:
+    "An image embodying freedom lifted an already-peak image past its ceiling, with no visual change at all.\n\nFreedom is a value I already knew was load-bearing for me, and it had never been tied to my aesthetic response before.\n\nSo the resonance of a value I hold can add to attraction on top of the visual channels, and it can move a response I do not choose.",
+} as const satisfies AllAboutAlanTopic
