@@ -62,7 +62,6 @@ export interface MonarchTransaction {
   readonly amount: number
   readonly pending: boolean
   readonly isRecurring: boolean
-  readonly hideFromReports: boolean
   readonly needsReview: boolean
   readonly isSplitTransaction: boolean
   readonly notes: string | null
@@ -117,7 +116,7 @@ const TRANSACTIONS_QUERY = `query GetTransactionsList($offset: Int, $limit: Int,
   allTransactions(filters: $filters) {
     totalCount
     results(offset: $offset, limit: $limit, orderBy: $orderBy) {
-      id amount pending date hideFromReports plaidName notes isRecurring
+      id amount pending date plaidName notes isRecurring
       reviewStatus needsReview isSplitTransaction createdAt updatedAt
       category { id name }
       merchant { name id transactionsCount }
@@ -206,7 +205,6 @@ function readTransaction(value: unknown, path: string): MonarchTransaction {
     amount: num(o.amount, `${path}.amount`),
     pending: bool(o.pending, `${path}.pending`),
     isRecurring: bool(o.isRecurring, `${path}.isRecurring`),
-    hideFromReports: bool(o.hideFromReports, `${path}.hideFromReports`),
     needsReview: bool(o.needsReview, `${path}.needsReview`),
     isSplitTransaction: bool(o.isSplitTransaction, `${path}.isSplitTransaction`),
     notes: optional(o.notes, `${path}.notes`, str),

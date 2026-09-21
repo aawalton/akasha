@@ -68,6 +68,10 @@ export const transactions = {
       decisionKind: "decision-kind/departure",
       statement: "An entry's id is carried across a resync rather than minted again.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A transaction states nothing of Monarch's hide-from-reports flag.",
+    },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry
