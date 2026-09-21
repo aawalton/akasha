@@ -4,6 +4,7 @@ export const auroraComeCloserWavelengths = {
   id: "01a0b637-e849-7450-9d21-f3be08aafffe",
   type: "page-type/track",
   slug: "aurora-come-closer-wavelengths",
+  grade: "C",
   ownLength: 5.455766666666666,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],

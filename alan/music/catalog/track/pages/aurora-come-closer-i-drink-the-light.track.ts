@@ -4,6 +4,7 @@ export const auroraComeCloserIDrinkTheLight = {
   id: "01a0b637-e81c-7384-ba41-37672ed06e73",
   type: "page-type/track",
   slug: "aurora-come-closer-i-drink-the-light",
+  grade: "C",
   ownLength: 7.948216666666666,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer", "release/aurora-i-drink-the-light"],

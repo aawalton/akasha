@@ -4,6 +4,7 @@ export const auroraComeCloserSideBySide = {
   id: "01a0b637-e876-7d7d-bcae-715bce44f1d8",
   type: "page-type/track",
   slug: "aurora-come-closer-side-by-side",
+  grade: "C",
   ownLength: 2.95555,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],

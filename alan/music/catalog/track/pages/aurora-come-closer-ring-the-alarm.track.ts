@@ -4,6 +4,7 @@ export const auroraComeCloserRingTheAlarm = {
   id: "01a0b637-e777-775e-9c92-f0e500c5dde8",
   type: "page-type/track",
   slug: "aurora-come-closer-ring-the-alarm",
+  grade: "C",
   ownLength: 5.52355,
   ownProgress: 5.52355,
   partOfCollections: ["release/aurora-come-closer", "release/aurora-ring-the-alarm"],

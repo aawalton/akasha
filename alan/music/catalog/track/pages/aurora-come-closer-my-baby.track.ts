@@ -4,6 +4,7 @@ export const auroraComeCloserMyBaby = {
   id: "01a0b637-e79e-7ab1-a50a-957686bb2b10",
   type: "page-type/track",
   slug: "aurora-come-closer-my-baby",
+  grade: "C",
   ownLength: 4.094216666666667,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
