@@ -12,5 +12,6 @@ export const gettingBackToMakingWithMyHands = {
     "all-about-alan-topic/playing-again",
     "all-about-alan-topic/what-a-persona-makes-cheaper",
   ],
-  settled: "The gate has correctly kept me out, so there is no attempt to learn from.",
+  settled:
+    "The gate has correctly kept me out, so there is no attempt to learn from.\n\nWhat is buried is the whole arc: conceive it, design it, execute it, hold the finished thing. As a child that was drawing, colouring, Legos built into creations of my own rather than from the instructions, and quilts I designed and sewed through to the end.\n\nIt is a living want rather than a memory. I have the desire to make and it still costs too much, and the still carries an expectation that it comes back. Some edges of it are starting to surface already.\n\nWhich way in is cheapest I cannot say. Drawing against Legos against quilting is unknowable from outside the gate, so the first work anyone does with me here is generating the first readings from inside the territory.\n\nI am hoping one of them can move the threshold down, so I get there sooner than my safety climbing alone would bring me.",
 } as const satisfies AllAboutAlanTopic
