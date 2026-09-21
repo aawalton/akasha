@@ -52,4 +52,6 @@ export const theTower = {
     "game-attribute/vitality",
     "game-attribute/will",
   ],
+  defaultDice: "game-mechanic/two-d-ten",
+  cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "CLASS", "TITLE"],
 } as const satisfies Game

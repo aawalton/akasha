@@ -1,7 +1,9 @@
 {"attributes":["game-attribute/finesse","game-attribute/intellect","game-attribute/luck","game-attribute/might","game-attribute/perception","game-attribute/presence","game-attribute/vitality","game-attribute/will"]}
+{"cardVocabulary":["LEVEL UP","SKILL","AFFINITY","CLASS","TITLE"]}
 {"characters":"jsonl"}
 {"controlledEntityKind":"single"}
 {"coordinatorAgent":"awen-gm--the-tower"}
+{"defaultDice":"game-mechanic/two-d-ten"}
 {"displayConfig":"json"}
 {"entities":"jsonl"}
 {"externalId":"the-tower"}
