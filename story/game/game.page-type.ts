@@ -39,6 +39,7 @@ export const game = {
     "relation-property/game-attributes",
     "text-property/card-vocabulary",
     "relation-property/game-default-dice",
+    "page-type/game-panel",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
