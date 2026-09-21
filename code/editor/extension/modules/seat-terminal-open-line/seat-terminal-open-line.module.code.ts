@@ -20,12 +20,10 @@ const TMUX_TIMEOUT_MS = 300
 
 const ESCAPE = String.fromCharCode(27)
 
-const PASTE_OPEN = `${ESCAPE}[200~`
-
-const PASTE_SHUT = `${ESCAPE}[201~`
+const RETURN = "\r"
 
 export function opening(prefix: string): string {
-  return `${PASTE_OPEN}\n${prefix}${PASTE_SHUT}`
+  return `${ESCAPE}${RETURN}${prefix}`
 }
 
 export function lineIn(row: string): string {

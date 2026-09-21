@@ -9,12 +9,12 @@ import {
 
 const ESCAPE = String.fromCharCode(27)
 
-test("the opening is one bracketed paste of a newline and the prefix", () => {
-  expect(opening("  - ")).toBe(`${ESCAPE}[200~\n  - ${ESCAPE}[201~`)
+test("the opening is escape and return, then the prefix", () => {
+  expect(opening("  - ")).toBe(`${ESCAPE}\r  - `)
 })
 
-test("an empty prefix opens a bracketed paste of a newline alone", () => {
-  expect(opening("")).toBe(`${ESCAPE}[200~\n${ESCAPE}[201~`)
+test("an empty prefix opens escape and return alone", () => {
+  expect(opening("")).toBe(`${ESCAPE}\r`)
 })
 
 test("the line is the row past the two columns of the prompt's marker", () => {

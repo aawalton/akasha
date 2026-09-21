@@ -42,14 +42,6 @@ export const seatTerminalOpenLine = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The newline and the prefix are sent as one bracketed paste.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A bracketed paste arrives as one write, so no gap is left between the two.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The editor is handed in rather than imported.",
     },
     {
@@ -67,6 +59,20 @@ export const seatTerminalOpenLine = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sweeps the terminals for their seats.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The prompt drops a newline carried in a bracketed paste and joins what sits either side of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The newline is escape then return, which is the key the prompt opens a line on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The newline and the prefix are sent as one write, so no gap is left between the two.",
     },
   ],
 } as const satisfies Module
