@@ -1,0 +1,14 @@
+import type { GameEncounter } from "akasha/story/game/encounter/game-encounter.page-type.types.ts"
+
+export const theTowerTheHostTrueform02 = {
+  id: "01a0c661-24f0-745b-a99c-9e37046193fa",
+  type: "page-type/game-encounter",
+  slug: "the-tower-the-host-trueform-02",
+  title: "The Host — Phase 2, True Form",
+  game: "game/the-tower",
+  location: "game-location/the-tower-floor-05",
+  entities: ["game-entity/the-tower-the-host-trueform-02"],
+  trigger:
+    "a confirmed true-Host strike cracks the haven (PHASE 2 — the predator under the faces; flows straight from the-host-01)",
+  drop: "the haven's ANCHOR (a 'lantern of true seeing' / revelation-core — a cold clear lens that, lit with his Ember, shows woven illusion for what it is; a strong forward counter-tool for future deception floors + a true-sight affinity seed) and the Host's mantle (the woven-light cloak — glamour-craft material / a PRESENCE-keyed deception-affinity seed)",
+} as const satisfies GameEncounter

@@ -1,0 +1,14 @@
+{"attributes":[{"attribute":"game-attribute/finesse","score":6},{"attribute":"game-attribute/intellect","score":7},{"attribute":"game-attribute/luck","score":5},{"attribute":"game-attribute/might","score":16},{"attribute":"game-attribute/perception","score":8},{"attribute":"game-attribute/presence","score":6},{"attribute":"game-attribute/vitality","score":15},{"attribute":"game-attribute/will","score":11}]}
+{"baseDamage":22}
+{"class":"Mechanism Warden"}
+{"dice":"game-mechanic/two-d-ten"}
+{"equipment":[{"name":"armor","slot":"armor","defense":4},{"name":"weapon","slot":"weapon","attack":6}]}
+{"game":"game/the-tower"}
+{"id":"01a0c661-233f-7c8c-9db4-b28d7604828e"}
+{"kind":"enemy"}
+{"level":4}
+{"note":"computed by engine: VIT8(120)+MIGHT2(32) = 152 HP. physDef (15+6)/2+4 = 14.5. physAtk 16*1.5+6+6 = 36. The HP is a wall unless you hit the pawl."}
+{"slug":"the-tower-counterweight-colossus-01"}
+{"title":"Counterweight Colossus (the Warden)"}
+{"type":"page-type/game-entity"}
+{"typicalIntent":3}
