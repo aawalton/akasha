@@ -10,7 +10,6 @@ export const builtImage = {
     "built-image/buildkit",
     "built-image/bun-git",
     "built-image/ci",
-    "built-image/gfs-promoter",
     "built-image/kubectl",
     "file-property/image-extensions",
     "module-property-group/extending",
