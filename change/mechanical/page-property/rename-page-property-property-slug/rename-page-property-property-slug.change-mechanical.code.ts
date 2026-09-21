@@ -30,7 +30,7 @@ import {
   signatureRespelled,
 } from "akasha/change/modules/property-signature-renaming/property-signature-renaming.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { survivingSaid } from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
+import { survivingSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import {
   exportedAs,
   typedAs,

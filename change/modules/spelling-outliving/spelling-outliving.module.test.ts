@@ -10,7 +10,7 @@ import {
   survivalSaid,
   survivedIn,
   survivingSaid,
-} from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
+} from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import {
   indexedRepo,
   scratch,

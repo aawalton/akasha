@@ -23,7 +23,7 @@ import {
   typeMoved,
 } from "akasha/change/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import { type World, worldOver } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { survivingSaid } from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
+import { survivingSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"

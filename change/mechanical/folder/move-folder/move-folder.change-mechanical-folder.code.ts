@@ -8,7 +8,7 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { carrying, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { survivingSaid } from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
+import { survivingSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import {
   EVERY_KIND,
   pathsNaming,

@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const spellingSurviving = {
+export const spellingOutliving = {
   id: "01a0c584-8f66-73f6-846d-53c923e47e2a",
   type: "page-type/module",
-  slug: "spelling-surviving",
+  slug: "spelling-outliving",
   definition:
     "the files an old name is still written in once a change has repointed what it reaches",
   code: "ts",

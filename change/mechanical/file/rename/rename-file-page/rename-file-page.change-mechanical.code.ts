@@ -4,7 +4,7 @@ import {
   type Asked as Renaming,
 } from "akasha/change/modules/page-renaming/page-renaming.module.code.ts"
 import { carrying, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { survivingSaid } from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
+import { survivingSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 export type Asked = Renaming

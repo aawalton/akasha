@@ -43,7 +43,7 @@ export const change = {
     "module/property-signature-renaming",
     "module/prose-splicing",
     "module/slug-renaming",
-    "module/spelling-surviving",
+    "module/spelling-outliving",
     "module/target-kinding",
     "module/target-narrowing",
     "module/tree-searching",

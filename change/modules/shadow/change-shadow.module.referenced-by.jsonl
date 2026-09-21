@@ -259,8 +259,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/shadow/change-shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts"}
-{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/spelling-surviving/spelling-surviving.module.code.ts"}
-{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/spelling-surviving/spelling-surviving.module.test.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/spelling-outliving/spelling-outliving.module.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/spelling-outliving/spelling-outliving.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/target-kinding/target-kinding.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/target-kinding/target-kinding.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/target-narrowing/target-narrowing.module.code.ts"}
