@@ -8,11 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every image akasha holds is a page.",
-      workingMemory:
-        "8,899 image pages sit under `infrastructure/inference/generation/image/pages`, one per distinct picture among the 11,287 files under `~/To Process` and beside persona pages. Still no page: 112 z-image runs and 17 food photos the object store alone holds. 3,872 rows in `alan.generation-log.images.jsonl` are records rather than pages: 2,197 name a file that is now a page, and 1,563 name a file that is gone.",
-    },
-    {
       statement: "Every image akasha holds sits beside its page as a file property.",
       workingMemory:
         "Met for every image page: `file-property/image-bytes` is an uncommitted png beside each, written by plain copy since the guard lets an ignored path through, and a jpg is converted on the way in. Still elsewhere: 167 objects in the SeaweedFS bucket `agent-sessions` under `images/`, 38 of them persona covers that are pages already, which `/api/image/:imageId` serves; and 80 committed PNGs beside persona pages as `desktop-wallpaper` and `mobile-wallpaper`, byte-identical to image pages.",
