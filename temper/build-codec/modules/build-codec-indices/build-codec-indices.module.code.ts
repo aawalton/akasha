@@ -15,12 +15,6 @@ import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-
 import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import { alliances } from "akasha/temper/character-source/modules/alliances/alliances.module.code.ts"
-import { curses } from "akasha/temper/character-source/modules/curses/curses.module.code.ts"
-import { esoPlus } from "akasha/temper/character-source/modules/eso-plus-source/eso-plus-source.module.code.ts"
-import { foodOrDrink } from "akasha/temper/character-source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
-import { mundus } from "akasha/temper/character-source/modules/mundus-source/mundus-source.module.code.ts"
-import { vampireStages } from "akasha/temper/character-source/modules/vampire-stages/vampire-stages.module.code.ts"
 import { armorEnchants } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
@@ -32,6 +26,12 @@ import { skills } from "akasha/temper/player/character/skill/modules/character-s
 import { getSkillLineCategory } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { scribedSkills } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { alliances } from "akasha/temper/player/character/source/modules/alliances/alliances.module.code.ts"
+import { curses } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
+import { esoPlus } from "akasha/temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.code.ts"
+import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { mundus } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
+import { vampireStages } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

@@ -8,7 +8,7 @@ import {
 import {
   type TargetArmorId,
   targetArmor,
-} from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
+} from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "akasha/temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"
 

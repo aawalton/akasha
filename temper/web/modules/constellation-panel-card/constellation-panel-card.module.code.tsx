@@ -7,7 +7,7 @@ import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modul
 import {
   getCPSkillDescription,
   getCPSkillDisplayName,
-} from "akasha/temper/character-stat/modules/extract-champion-points/extract-champion-points.module.code.ts"
+} from "akasha/temper/player/character/stat/modules/extract-champion-points/extract-champion-points.module.code.ts"
 import { StarSelectionDialog } from "akasha/temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx"
 import { Hammer, Plus, Shield, Swords } from "lucide-react"
 import { useState } from "react"

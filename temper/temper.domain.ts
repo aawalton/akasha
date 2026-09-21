@@ -12,8 +12,6 @@ export const temper = {
     "domain/temper-build-support",
     "domain/temper-catalog",
     "domain/temper-character-skill-line",
-    "domain/temper-character-source",
-    "domain/temper-character-stat",
     "domain/temper-characters-equipment",
     "domain/temper-command",
     "domain/temper-companion-codec",

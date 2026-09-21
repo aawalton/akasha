@@ -2,7 +2,7 @@
 
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import type { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import type { RoleId } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
+import type { RoleId } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import type { DecodedBuild } from "akasha/temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx"
 import {
   CharacterEntityPanelCard,

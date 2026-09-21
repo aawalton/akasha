@@ -1,12 +1,12 @@
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
+import { formatStatValue } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
 import {
   isMetricNode,
   isSubcategoryNode,
   type MetricTreeNode,
-} from "akasha/temper/character-stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
-import type { MetricValue } from "akasha/temper/character-stat/modules/metric-value/metric-value.module.code.ts"
-import { getMetricDisplayName } from "akasha/temper/character-stat/modules/metrics/metrics.module.code.ts"
-import { formatStatValue } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
+} from "akasha/temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
+import type { MetricValue } from "akasha/temper/player/character/stat/modules/metric-value/metric-value.module.code.ts"
+import { getMetricDisplayName } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import type { StatsRecord } from "akasha/temper/web/modules/stats-types/stats-types.module.code.ts"
 import type { ReactElement } from "react"
 

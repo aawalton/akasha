@@ -67,11 +67,6 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/format-effects/format-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/metric-display-formula/metric-display-formula.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/metric-formulas/metric-formulas.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/passive-eligibility/passive-eligibility.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"}
@@ -93,6 +88,11 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/stat/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/stat/modules/format-effects/format-effects.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/characters-plan-empty/characters-plan-empty.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/companion-reducer/companion-reducer.module.code.ts"}

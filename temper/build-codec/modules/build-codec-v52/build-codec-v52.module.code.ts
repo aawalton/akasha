@@ -72,11 +72,11 @@ import {
   writeBits,
 } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import type { RoleId } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
-import type { TargetArmorId } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import type { RoleId } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
+import type { TargetArmorId } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export const CHARACTER_BUILD_TYPE = 0x01
 

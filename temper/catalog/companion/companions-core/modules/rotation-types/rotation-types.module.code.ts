@@ -3,7 +3,7 @@ import type {
   DamageType,
   EffectCondition,
 } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { targetArmor as targetArmorData } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmor as targetArmorData } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export interface HealthSamples {
   self: number

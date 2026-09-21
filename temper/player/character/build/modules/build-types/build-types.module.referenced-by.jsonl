@@ -4,13 +4,13 @@
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/build-codec/modules/build-codec/build-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/build-codec/modules/build-codec/build-codec.module.test.ts"}
-{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/character-stat/modules/build-state-adapter/build-state-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/character-stat/modules/metric-calculator/metric-calculator.module.code.ts"}
-{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/character-stat/modules/passive-eligibility/passive-eligibility.module.code.ts"}
-{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts"}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts"}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts"}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx"}

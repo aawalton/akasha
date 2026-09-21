@@ -586,8 +586,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/temper-world.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-skill-line/temper-character-skill-line.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-source/temper-character-source.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-stat/temper-character-stat.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment/temper-characters-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/command/temper-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companion-codec/temper-companion-codec.domain.ts"}
@@ -625,6 +623,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion/temper-player-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/temper-character-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/skill/temper-character-skill.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/source/temper-character-source.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/stat/temper-character-stat.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/temper-character.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/completion/temper-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/holdings/temper-holdings.domain.ts"}

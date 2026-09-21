@@ -19,16 +19,16 @@ import {
 } from "akasha/temper/build-support/modules/build-row/build-row.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import type { SettableBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import {
-  type RoleId,
-  characterRoles as roles,
-} from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type CharacterBuildMetadata,
   extractCharacterMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
+import {
+  type RoleId,
+  characterRoles as roles,
+} from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 

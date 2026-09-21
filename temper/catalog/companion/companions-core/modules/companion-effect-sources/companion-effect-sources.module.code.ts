@@ -17,8 +17,8 @@ import {
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
+import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export interface CompanionEffectSource {
   id: string

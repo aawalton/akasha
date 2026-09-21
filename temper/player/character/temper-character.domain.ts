@@ -22,6 +22,8 @@ export const temperCharacter = {
     "page-type/temper-weapon-bar",
     "domain/temper-character-build",
     "domain/temper-character-skill",
+    "domain/temper-character-source",
+    "domain/temper-character-stat",
   ],
   decisions: [
     {

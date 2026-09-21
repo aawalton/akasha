@@ -17,7 +17,7 @@ import type {
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"

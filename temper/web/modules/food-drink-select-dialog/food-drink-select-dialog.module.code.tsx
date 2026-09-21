@@ -1,12 +1,12 @@
 "use client"
 
 import { getSubcategory } from "akasha/code/type/narrowing/modules/get-subcategory/get-subcategory.module.code.ts"
+import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,
   foodOrDrink,
-} from "akasha/temper/character-source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
-import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
+} from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   FilterableSelectDialog,

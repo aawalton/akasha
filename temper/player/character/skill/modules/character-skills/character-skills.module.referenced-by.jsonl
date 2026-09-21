@@ -1,7 +1,5 @@
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/character-stat/modules/extract-passives/extract-passives.module.code.ts"}
-{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/character-stat/modules/extract-skills/extract-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/build/modules/race-source/race-source.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"}
@@ -9,6 +7,8 @@
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/skill/modules/query-shapes/query-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.code.ts"}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morph-conflict/morph-conflict.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morph-pair/morph-pair.module.code.ts"}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"}

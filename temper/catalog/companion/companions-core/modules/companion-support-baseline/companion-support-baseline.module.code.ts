@@ -14,7 +14,7 @@ import {
   type ReferenceBaseline,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export function computeReferenceBaseline(build: CompanionState): ReferenceBaseline {
   const result = calculateCompanionStatsWithBaseline(build, EMPTY_BASELINE)
