@@ -287,7 +287,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/weight/track-weight.command.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-command-stopped-at-its-ceiling-is-killed-before-its-cleanup-runs.finding.ts","id":"01a09602-34f6-7ed3-a7a7-e5745ba730c7"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-file-whose-line-is-longer-than-one-answer-can-never-be-changed.finding.ts","id":"01a0c4e9-2d27-7869-875f-da980362ba09"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-leaves-the-files-it-carries-outside-the-landings-fold.finding.ts","id":"01a0c535-9fb0-7286-8e93-6b7869e73990"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/commands-disagree-on-which-word-comes-first.finding.ts","id":"01a073c1-e073-7304-9fd2-d312e380e985"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it.finding.ts","id":"01a08210-09bb-72b1-ad4f-d5ac17ee8bb5"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-empty-heredoc-probe-is-answered-by-change-draft-and-acted-on-by-change-apply.finding.ts","id":"01a09669-ab00-7e9a-a75a-e7b84af7e9f4"}
