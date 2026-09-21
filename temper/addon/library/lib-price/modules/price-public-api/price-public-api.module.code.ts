@@ -8,6 +8,7 @@ import type {
   NormalizedPrice,
   RawPrice,
 } from "akasha/temper/addon/library/lib-price/modules/price-types/price-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const globals = asGlobalTable(_G)
 

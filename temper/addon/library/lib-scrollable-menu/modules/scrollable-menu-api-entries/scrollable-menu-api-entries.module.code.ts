@@ -4,6 +4,10 @@ import { asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd } from "akasha/
 
 import "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-api-shapes/scrollable-menu-api-shapes.type-declaration.d.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

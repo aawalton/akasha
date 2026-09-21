@@ -1,5 +1,12 @@
 import { convertEventIdToLegacyId64 } from "akasha/temper/addon/library/lib-histoire/modules/histoire-legacy-event-id/histoire-legacy-event-id.module.code.ts"
 import { internal } from "akasha/temper/addon/library/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-guild-history-legacy/eso-guild-history-legacy.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-guild-history/eso-guild-history.type-declaration.d.ts"
 
 const logger = internal.logger
 

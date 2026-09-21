@@ -1,3 +1,5 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+
 export type SetNamesTable = { [setId: number]: { [lang: string]: string } }
 export function asSetNamesTable(value: unknown): SetNamesTable {
   return value as SetNamesTable

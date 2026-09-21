@@ -2,6 +2,18 @@ import type {
   GuildHistoryStatusTooltipInstance,
   StatusTooltipCacheRef,
 } from "akasha/temper/addon/library/lib-histoire/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export const BUTTON_NORMAL_TEXTURE = "LibHistoire/image/histy_up.dds"
 export const BUTTON_PRESSED_TEXTURE = "LibHistoire/image/histy_down.dds"

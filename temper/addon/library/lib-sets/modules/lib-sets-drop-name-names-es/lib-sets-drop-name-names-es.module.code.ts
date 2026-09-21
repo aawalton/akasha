@@ -1,3 +1,5 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
+
 export const ES = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]: "Recompensa por el mérito",
   [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA]:

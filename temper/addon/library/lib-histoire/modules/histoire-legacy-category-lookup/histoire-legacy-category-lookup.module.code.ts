@@ -1,4 +1,7 @@
 import { internal } from "akasha/temper/addon/library/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-guild-history-legacy/eso-guild-history-legacy.type-declaration.d.ts"
 
 function getCategoriesForLegacyCategory(this: void, category: number): number[] {
   if (category === GUILD_HISTORY_BANK) {

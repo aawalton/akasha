@@ -8,6 +8,7 @@ import {
   LIB,
 } from "akasha/temper/addon/library/lib-map-data/modules/map-data-lib-state/map-data-lib-state.module.code.ts"
 import { PSEUDO_MAP_INDICES } from "akasha/temper/addon/library/lib-map-data/modules/map-data-pseudo-indices/map-data-pseudo-indices.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const globals = asGlobalObjectTable(_G)
 globals[LIB_IDENTIFIER] = LIB

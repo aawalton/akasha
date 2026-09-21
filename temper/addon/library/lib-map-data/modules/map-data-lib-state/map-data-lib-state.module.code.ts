@@ -17,6 +17,7 @@ import type {
   Internal,
   Lib,
 } from "akasha/temper/addon/library/lib-map-data/modules/map-data-types/map-data-types.module.code.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 export const INTERNAL: Internal = asInternal({
   show_log: false,

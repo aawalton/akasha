@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+
 export const LIBNAME = "LibSavedVars"
 
 export const LIBSAVEDVARS_VERSION = 60007

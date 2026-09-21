@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-scribing/knowledge-scribing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-set-itemids-filtered/lib-sets-core-set-itemids-filtered.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/scribing-catalog-capture/scribing-catalog-capture.module.code.ts"}

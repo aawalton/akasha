@@ -8,6 +8,11 @@ import {
   LIBMAPPINS_PVE_MAPGROUP,
 } from "akasha/temper/addon/library/lib-map-pins/modules/map-pins-constants/map-pins-constants.module.code.ts"
 import type { Lib } from "akasha/temper/addon/library/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 
 export function getPinTypeId(pinType: number | string): number | undefined {
   if (type(pinType) === "string") {

@@ -3,6 +3,7 @@ import { MapPingHandler } from "akasha/temper/addon/library/lib-map-ping/modules
 import { INTERNAL } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.code.ts"
 import "akasha/temper/addon/library/lib-map-ping/modules/map-ping-handler-state/map-ping-handler-state.module.code.ts"
 import type { MapPingHandlerInstance } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function requireHandler(this: void): MapPingHandlerInstance {
   if (INTERNAL.handler === undefined) {

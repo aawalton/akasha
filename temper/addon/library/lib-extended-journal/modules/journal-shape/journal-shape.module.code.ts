@@ -1,3 +1,11 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+
 export interface ControlsTable {
   frame: Control
   menu: Control

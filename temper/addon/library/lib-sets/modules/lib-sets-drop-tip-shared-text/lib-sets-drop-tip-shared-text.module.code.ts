@@ -1,3 +1,7 @@
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
+
 export const lib = LibSets
 
 export const checkIfPTSAPIVersionIsLive = lib.checkIfPTSAPIVersionIsLive

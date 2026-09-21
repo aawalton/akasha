@@ -9,6 +9,13 @@ import {
   LSM_ROW_HIGHLIGHT_DEFAULT,
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-string-ids/scrollable-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 constants.data = {
   subtables: {

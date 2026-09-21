@@ -7,6 +7,10 @@ import {
   Internal,
   Public,
 } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-state/journal-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-extended-journal/journal-saved-variables/journal-saved-variables.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 
 const DEFAULTS: Record<number, Record<number, number>> = {
   [1]: {

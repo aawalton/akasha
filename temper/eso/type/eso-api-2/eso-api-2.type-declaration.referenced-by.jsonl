@@ -75,5 +75,15 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-quick-navigation/histoire-quick-navigation.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-saved-vars/modules/saved-vars-manager/saved-vars-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-code-bootstrap/scrollable-menu-code-bootstrap.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lang/scrollable-menu-lang.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-copy-dialog/lib-sets-copy-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

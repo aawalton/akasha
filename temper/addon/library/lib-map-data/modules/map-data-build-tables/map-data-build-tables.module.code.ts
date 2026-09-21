@@ -2,6 +2,9 @@ import {
   INTERNAL,
   LIB,
 } from "akasha/temper/addon/library/lib-map-data/modules/map-data-lib-state/map-data-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 function buildMapNames(this: void): undefined {
   let maxMapId: number | undefined

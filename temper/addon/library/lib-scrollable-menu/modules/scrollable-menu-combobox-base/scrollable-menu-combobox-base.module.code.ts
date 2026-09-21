@@ -15,6 +15,17 @@ import {
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 const libDebug = lib.Debug
 

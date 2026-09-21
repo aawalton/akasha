@@ -5,6 +5,8 @@ import type {
   MapStackInstance,
   TamrielOMeterInstance,
 } from "akasha/temper/addon/library/lib-gps/modules/gps-types/gps-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 
 const MapStack = ZO_Object.Subclass<MapStackClass>()
 

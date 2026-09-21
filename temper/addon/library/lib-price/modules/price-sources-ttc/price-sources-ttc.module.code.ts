@@ -8,6 +8,8 @@ import type {
   NormalizedPrice,
   RawPrice,
 } from "akasha/temper/addon/library/lib-price/modules/price-types/price-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 
 lib.CanTTCPrice = function (this: void): boolean | undefined {
   return TamrielTradeCentrePrice !== undefined ? true : undefined

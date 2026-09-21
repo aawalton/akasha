@@ -57,6 +57,13 @@ import {
   getValueOrCallback,
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-util-shapes/scrollable-menu-util-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 const libUtil = lib.Util
 

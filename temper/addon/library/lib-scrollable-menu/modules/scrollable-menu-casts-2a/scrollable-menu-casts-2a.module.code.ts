@@ -1,3 +1,12 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-buttongroup-shapes/scrollable-menu-buttongroup-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-shapes/scrollable-menu-combobox-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-dropdown-object-shapes/scrollable-menu-dropdown-object-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-submenu-shapes/scrollable-menu-submenu-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+
 export type LsmCastHiddenForReasonsThisUnknownButtonIdUnknownBool = {
   HiddenForReasons: (this: unknown, buttonId: unknown) => boolean
 }

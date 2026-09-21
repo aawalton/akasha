@@ -6,6 +6,7 @@ import {
 } from "akasha/temper/addon/library/lib-notification/modules/notification-names/notification-names.module.code.ts"
 import { NOTIFICATION_LIB } from "akasha/temper/addon/library/lib-notification/modules/notification-provider-link/notification-provider-link.module.code.ts"
 import { installOverrides } from "akasha/temper/addon/library/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const GLOBALS = globalThis as GlobalTable
 if (GLOBALS[LIB_NAME] !== undefined) {

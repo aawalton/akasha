@@ -1,3 +1,9 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-copy-dialog-shapes/lib-sets-copy-dialog-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+
 export function asSearchUIControl(value: unknown): SearchUIControl {
   return value as SearchUIControl
 }

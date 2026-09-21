@@ -3,6 +3,12 @@ import type {
   MeasurementClass,
   MeasurementInstance,
 } from "akasha/temper/addon/library/lib-gps/modules/gps-types/gps-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const Measurement = ZO_Object.Subclass<MeasurementClass>()
 

@@ -3,6 +3,8 @@ import {
   undauntedStr,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.code.ts"
 import { LANG_DE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-loc-language-codes/lib-sets-loc-language-codes.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
 
 export const DE = {
   de: "Deutsch",

@@ -6,6 +6,9 @@ import {
   getSharedBringWindowToTop,
   setKeyboardSearchUI,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const globalTable = asGlobalTable(globalThis)
 

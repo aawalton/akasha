@@ -1,5 +1,6 @@
 import { lib } from "akasha/temper/addon/library/lib-price/modules/price-state/price-state.module.code.ts"
 import type { RawPrice } from "akasha/temper/addon/library/lib-price/modules/price-types/price-types.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 lib.ResetCacheIfNecessary = function (this: void): undefined {
   const nowTs = GetTimeStamp()

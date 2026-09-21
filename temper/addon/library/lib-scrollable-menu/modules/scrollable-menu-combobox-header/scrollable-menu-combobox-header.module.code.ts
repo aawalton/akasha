@@ -19,6 +19,13 @@ import {
 import { comboBoxClass } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-class/scrollable-menu-combobox-class.module.code.ts"
 import { getValueOrCallback } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-shapes/scrollable-menu-combobox-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

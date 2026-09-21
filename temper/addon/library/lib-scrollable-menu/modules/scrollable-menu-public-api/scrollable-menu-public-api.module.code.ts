@@ -10,6 +10,7 @@ import {
   LSM_UPDATE_MODE_SUBMENU,
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 globalThis.LibScrollableMenu = lib
 

@@ -1,3 +1,9 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-globals/lib-sets-search-ui-globals.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-2/lib-sets-search-ui-shapes-2.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+
 const sharedClass = ZO_InitializingObject.Subclass<LibSetsSearchUISharedClass>()
 
 export function getSharedSearchUIClass(this: void): LibSetsSearchUISharedClass {

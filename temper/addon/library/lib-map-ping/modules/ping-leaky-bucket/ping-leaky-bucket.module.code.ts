@@ -12,6 +12,9 @@ import type {
   LeakyBucketInstance,
 } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
 import { RollingAverage } from "akasha/temper/addon/library/lib-map-ping/modules/ping-rolling-average/ping-rolling-average.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const LeakyBucket = ZO_Object.Subclass<LeakyBucketClass>()
 

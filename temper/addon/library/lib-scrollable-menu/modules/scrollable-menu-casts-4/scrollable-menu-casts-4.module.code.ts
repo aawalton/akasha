@@ -1,3 +1,12 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-shapes/scrollable-menu-combobox-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-submenu-shapes/scrollable-menu-submenu-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export type LsmCastThisVoidRecordStringUnknownUndefined = (
   this: void
 ) => Record<string, unknown> | undefined

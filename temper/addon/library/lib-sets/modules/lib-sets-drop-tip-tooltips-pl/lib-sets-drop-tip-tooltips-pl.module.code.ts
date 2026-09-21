@@ -1,4 +1,7 @@
 import { cyrodiilAndBattlegroundText } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-drop-tip-shared-text/lib-sets-drop-tip-shared-text.module.code.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
 
 export const PL = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]:

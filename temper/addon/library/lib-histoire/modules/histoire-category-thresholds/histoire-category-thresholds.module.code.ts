@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+
 export const MISSING_EVENT_COUNT_THRESHOLD = 4000
 export const NO_PROCESSOR_THRESHOLD = 3 * 24 * 3600
 export const INITIAL_REQUEST_RESEND_THRESHOLD = 7 * 24 * 3600

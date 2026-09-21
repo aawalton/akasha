@@ -17,6 +17,20 @@ const lib = LibSets
 
 import { getSearchUIListClass } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
 import { searchUI } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings-2/eso-lib-sets-strings-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 const listClass = getSearchUIListClass()
 

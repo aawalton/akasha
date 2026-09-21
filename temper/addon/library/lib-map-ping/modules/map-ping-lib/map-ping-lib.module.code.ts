@@ -8,6 +8,9 @@ import type {
   Lib,
 } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
 import { createLogger } from "akasha/temper/addon/log/modules/library-logger/library-logger.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 let NEXT_NAMESPACE_ID = 1
 

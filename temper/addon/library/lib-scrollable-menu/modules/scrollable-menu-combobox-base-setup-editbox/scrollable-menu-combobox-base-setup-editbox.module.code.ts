@@ -10,6 +10,15 @@ import {
 
 import { getValueOrCallback } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 const editBoxCtrlsContextmenuRegistered = new LuaTable<LsmRowControl, boolean>()
 function reAnchorEditBoxControlsInRow(this: void, control: LsmRowControl): undefined {

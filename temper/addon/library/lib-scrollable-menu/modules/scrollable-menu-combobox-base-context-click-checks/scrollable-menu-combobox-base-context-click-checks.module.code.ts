@@ -10,6 +10,9 @@ import {
   getContextMenu,
   lib,
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/temper/addon/library-type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const constants = lib.constants
 const entryTypeConstants = asLsmCastRecordStringUnknown(constants.entryTypes)

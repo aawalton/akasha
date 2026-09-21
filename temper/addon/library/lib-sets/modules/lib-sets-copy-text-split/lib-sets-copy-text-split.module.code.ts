@@ -1,4 +1,5 @@
 import { asPresent } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const strlen = string.len
 const strsub = string.sub

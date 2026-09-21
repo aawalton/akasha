@@ -1,4 +1,8 @@
 import { internal } from "akasha/temper/addon/library/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-guild-history/eso-guild-history.type-declaration.d.ts"
 
 const logger = internal.logger
 

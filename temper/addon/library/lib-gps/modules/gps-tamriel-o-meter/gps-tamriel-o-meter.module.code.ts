@@ -12,6 +12,14 @@ import type {
   TamrielOMeterInstance,
   WorldSizeInstance,
 } from "akasha/temper/addon/library/lib-gps/modules/gps-types/gps-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const TAMRIEL_MAP_INDEX = INTERNAL.TAMRIEL_MAP_INDEX
 const BLACKREACH_ROOT_MAP_INDEX = INTERNAL.BLACKREACH_ROOT_MAP_INDEX

@@ -1,4 +1,5 @@
 import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const DEFAULTS: ReadonlyArray<[string, string]> = [
   ["SI_LEJ_NAME", "Extended Journal"],

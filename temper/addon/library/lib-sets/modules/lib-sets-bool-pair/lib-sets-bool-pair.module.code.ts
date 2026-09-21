@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export type BoolPair<V> = LuaMap<boolean, V>
 
 export function boolPair<V>(whenFalse: V, whenTrue: V): BoolPair<V> {

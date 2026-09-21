@@ -1,2 +1,6 @@
 {"propertySlug":"import","fileName":"eso-lib-sets-strings-2.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-dialogs/order-list-box-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-strings-2.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-copy-dialog/lib-sets-copy-dialog.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-strings-2.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-kbf-favorites-filter/lib-sets-kbf-favorites-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-strings-2.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-strings-2.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

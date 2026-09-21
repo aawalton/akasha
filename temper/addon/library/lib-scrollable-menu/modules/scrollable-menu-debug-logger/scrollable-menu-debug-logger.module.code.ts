@@ -6,6 +6,10 @@ import { asLsmCastThisVoidArgsUnknownUndefined } from "akasha/temper/addon/libra
 import { asString } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 import { DEBUG_LOG_MESSAGE_PATTERNS } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-debug-log-message-patterns/scrollable-menu-debug-log-message-patterns.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-debug-shapes/scrollable-menu-debug-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const MAJOR = lib.name
 

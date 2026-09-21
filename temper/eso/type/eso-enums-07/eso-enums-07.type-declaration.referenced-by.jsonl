@@ -87,6 +87,17 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-category-requests/histoire-category-requests.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-dropdown-header-refresh/scrollable-menu-dropdown-header-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-const-textures/lib-sets-const-textures.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-set-type-checks/lib-sets-core-api-set-type-checks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-textures/lib-sets-core-textures.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/armor-type-constants/armor-type-constants.module.code.ts"}

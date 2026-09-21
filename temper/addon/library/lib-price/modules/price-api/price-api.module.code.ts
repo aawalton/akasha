@@ -11,6 +11,7 @@ import type {
   RawPrice,
   SpreadMetric,
 } from "akasha/temper/addon/library/lib-price/modules/price-types/price-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 lib.ItemLinkToPriceGold = function (
   this: void,

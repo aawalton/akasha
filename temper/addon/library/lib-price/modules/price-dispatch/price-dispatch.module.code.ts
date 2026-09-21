@@ -6,6 +6,8 @@ import type {
   NormalizedPrice,
   RawPrice,
 } from "akasha/temper/addon/library/lib-price/modules/price-types/price-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 
 lib.SourceList = function (this: void): string[] {
   let sourceList = lib.SOURCE_LIST

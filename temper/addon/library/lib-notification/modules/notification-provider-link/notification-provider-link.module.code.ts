@@ -7,6 +7,8 @@ import type {
   LibNotificationProviderInstance,
   ProviderLinkTable,
 } from "akasha/temper/addon/library/lib-notification/modules/notification-types/notification-types.module.code.ts"
+import "akasha/temper/addon/library/lib-notification/notification-declarations/notification-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
 
 function createProvider(this: void): ProviderLinkTable {
   let keyboardProvider: LibNotificationProviderInstance | undefined

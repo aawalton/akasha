@@ -4,6 +4,11 @@ import {
   setTypeArenaName,
   undauntedStr,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts"
 
 export const PL = {
   de: "Niemiecki",

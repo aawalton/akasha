@@ -1,3 +1,9 @@
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-buttongroup-shapes/scrollable-menu-buttongroup-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-shapes/scrollable-menu-combobox-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export type LsmCastNarrateThisUnknownAUnknownUndefined = {
   Narrate: (this: unknown, ...a: unknown[]) => undefined
 }

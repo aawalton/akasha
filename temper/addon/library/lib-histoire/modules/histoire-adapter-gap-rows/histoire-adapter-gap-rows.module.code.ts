@@ -1,5 +1,13 @@
 import { GuildHistoryAdapter } from "akasha/temper/addon/library/lib-histoire/modules/histoire-adapter/histoire-adapter.module.code.ts"
 import { internal } from "akasha/temper/addon/library/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-scroll-list-extra/eso-scroll-list-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 const logger = internal.logger
 

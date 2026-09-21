@@ -11,6 +11,7 @@ import type {
   LsvTable,
   SavedVarsManagerInstance,
 } from "akasha/temper/addon/library/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function touchLazyLoad(this: void, _value: unknown): undefined {}
 

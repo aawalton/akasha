@@ -21,6 +21,15 @@ import {
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-03/eso-enums-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const moc = asLsmCastThisVoidLsmRowControlUndefined(asLsmCastRecordStringUnknown(_G).moc)
 

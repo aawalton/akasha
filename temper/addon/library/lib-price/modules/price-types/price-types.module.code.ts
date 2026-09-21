@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export type OptionalNumber = number | undefined
 
 export type GlobalTable = Record<string, unknown>

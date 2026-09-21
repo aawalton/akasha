@@ -24,6 +24,11 @@
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-const-textures/lib-sets-const-textures.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-textures/lib-sets-core-textures.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts"}

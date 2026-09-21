@@ -8,6 +8,19 @@ import {
   Internal,
   Public,
 } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-state/journal-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 interface LejList extends ZoSortFilterList {
   frame: Control

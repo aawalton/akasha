@@ -5,6 +5,7 @@ import {
 } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.code.ts"
 import type { MapPingHandlerInstance } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const logger = INTERNAL.logger
 const mapPingState = INTERNAL.MapPingState

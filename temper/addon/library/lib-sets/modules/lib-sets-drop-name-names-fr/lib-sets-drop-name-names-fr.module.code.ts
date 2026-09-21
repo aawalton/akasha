@@ -1,3 +1,9 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+
 export const FR = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]: "Récompenses des dignes",
   [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA]:

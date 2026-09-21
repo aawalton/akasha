@@ -4,6 +4,8 @@ import {
   asVoidThunk,
   type VoidThunk,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
 
 const KEYBOARD_GLOBAL_KEY = "LIBSETS_SEARCH_UI_KEYBOARD"
 const GAMEPAD_GLOBAL_KEY = "LIBSETS_SEARCH_UI_GAMEPAD"

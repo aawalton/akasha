@@ -5,6 +5,7 @@ import {
 import { requireHandler } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-initialization/map-ping-initialization.module.code.ts"
 import { LIB } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.code.ts"
 import type { CompatLib } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function initCompatibility(this: void): undefined {
   const compat: CompatLib = asCompatLib({})

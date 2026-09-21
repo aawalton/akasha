@@ -1,4 +1,5 @@
 import type { GuildHistoryCacheCategoryInstance } from "akasha/temper/addon/library/lib-histoire/modules/histoire-category-class-shape/histoire-category-class-shape.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export interface CacheSaveData {
   newestManagedEventTime?: number

@@ -1,5 +1,7 @@
 import { GuildHistoryLegacyEventListener } from "akasha/temper/addon/library/lib-histoire/modules/histoire-legacy-event-listener/histoire-legacy-event-listener.module.code.ts"
 import { internal } from "akasha/temper/addon/library/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 const logger = internal.logger
 

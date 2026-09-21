@@ -2,6 +2,14 @@ import {
   Internal,
   Public,
 } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-state/journal-state.module.code.ts"
+import "akasha/temper/addon/library/lib-extended-journal/journal-string-ids/journal-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-deconstruction/eso-deconstruction.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 
 const Controls = Internal.controls
 

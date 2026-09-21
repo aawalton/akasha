@@ -1,3 +1,5 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
+
 export const ZH = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]: "给有价值的人的奖励",
   [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA]: "西罗帝尔城镇: 布鲁玛 (军需官/日常任务)",

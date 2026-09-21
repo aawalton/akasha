@@ -1,3 +1,9 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+
 export type SetMapResultFn = (this: void, ...args: unknown[]) => number
 
 export type GlobalFnTable = Record<string, SetMapResultFn | undefined>

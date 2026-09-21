@@ -3,6 +3,9 @@ import {
   asTyped,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { getSharedSearchUIClass } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
 
 const sharedClass = asTyped<ZoInitializingObjectClass>(getSharedSearchUIClass())
 

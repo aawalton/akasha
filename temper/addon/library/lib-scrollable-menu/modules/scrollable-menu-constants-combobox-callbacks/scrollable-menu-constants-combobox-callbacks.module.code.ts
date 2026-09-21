@@ -13,6 +13,9 @@ import {
   COMBO_BOX_MAPPING,
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.code.ts"
 import { getValueOrCallback } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-combobox-shapes/scrollable-menu-combobox-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 type LsmCastLocalComboBoxOptionTarget = ComboBoxOptionTarget
 function asLsmCastLocalComboBoxOptionTarget(value: unknown): LsmCastLocalComboBoxOptionTarget {

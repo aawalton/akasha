@@ -1,3 +1,11 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+
 function splitOnSlash(input: string): string[] {
   const t: string[] = []
   for (const [str] of string.gmatch(input, "([^%/]+)")) {

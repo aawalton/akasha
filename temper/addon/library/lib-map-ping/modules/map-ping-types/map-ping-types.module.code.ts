@@ -1,3 +1,7 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+
 export type CoordFn = (this: void, pingTag?: string) => LuaMultiReturn<[number, number]>
 
 export type EsoVoidFn = (this: void, ...args: unknown[]) => unknown

@@ -11,6 +11,11 @@ import {
   asTyped,
   asUnknownArray,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const lib = LibSets
 

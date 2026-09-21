@@ -2,6 +2,10 @@ import {
   asGlobalTable,
   asPresent,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
 
 const lib = LibSets
 const G = asGlobalTable(globalThis)

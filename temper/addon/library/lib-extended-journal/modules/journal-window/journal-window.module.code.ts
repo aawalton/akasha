@@ -12,6 +12,19 @@ import type {
   TabData,
 } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"
 import { Internal } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-state/journal-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-extended-journal/journal-control-names/journal-control-names.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-deconstruction/eso-deconstruction.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const Controls = Internal.controls
 

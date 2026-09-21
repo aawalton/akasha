@@ -18,6 +18,15 @@ import {
   asTypeToSetIdsTable,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import { safeReturnAPItable } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 
 const lib = LibSets
 

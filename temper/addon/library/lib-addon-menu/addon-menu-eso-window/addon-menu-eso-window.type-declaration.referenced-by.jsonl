@@ -19,4 +19,6 @@
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-iconpicker-menu/addon-menu-widget-iconpicker-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-iconpicker/addon-menu-widget-iconpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-slider/addon-menu-widget-slider.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/library/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/library/lib-addon-menu/temper-lib-addon-menu.eso-addon.ts","id":"01a06292-8851-701c-9273-a19fa38175bb"}

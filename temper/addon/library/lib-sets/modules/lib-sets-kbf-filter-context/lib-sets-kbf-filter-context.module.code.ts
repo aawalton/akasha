@@ -1,3 +1,6 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+
 export interface FilterBuildContext {
   self: LibSetsSearchUIKeyboardObject
   filters: SearchUIControl

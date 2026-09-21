@@ -23,6 +23,9 @@ import type {
   LsvDataClass,
   LsvTable,
 } from "akasha/temper/addon/library/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function newAccountWide(
   this: void,

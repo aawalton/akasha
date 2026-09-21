@@ -15,6 +15,11 @@ import {
   checkSetTypeAndUpdateLibTablesAndCounters,
   type LoadSetsState,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 const lib = LibSets
 

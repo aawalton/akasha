@@ -1,3 +1,7 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+
 export type TypeToSetIdsTable = {
   [typeIndex: number]: { [setId: number]: boolean | undefined } | undefined
 }

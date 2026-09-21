@@ -1,4 +1,11 @@
-export {}
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
 
 const lib = LibSets
 

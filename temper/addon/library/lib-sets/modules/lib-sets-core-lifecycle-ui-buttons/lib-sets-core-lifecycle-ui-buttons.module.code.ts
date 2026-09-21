@@ -8,6 +8,18 @@ import {
   asMoreOptionsButton,
   asSearchUiControl,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const lib = LibSets
 

@@ -13,6 +13,9 @@ import {
   LSM_ENTRY_TYPE_SLIDER,
   LSM_ENTRY_TYPE_SUBMENU,
 } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-string-ids/scrollable-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const SUBMENU_CLASS_EXPOSED_VARIABLES: Record<string, boolean> = {
   m_customEntryTemplateInfos: false,

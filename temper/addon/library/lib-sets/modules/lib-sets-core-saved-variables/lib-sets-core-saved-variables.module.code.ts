@@ -7,6 +7,16 @@ import {
   asCategoryRecord,
   asFavoritesRecordOpt,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 const lib = LibSets
 

@@ -5,6 +5,7 @@ import {
   Public,
 } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-state/journal-state.module.code.ts"
 import { ExtendedJournalTooltipExtension } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const globals = asGlobalTable(_G)
 

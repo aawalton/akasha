@@ -3,6 +3,10 @@ import {
   asStringOpt,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asComboBoxSortKeyFunc } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 const tos = tostring
 

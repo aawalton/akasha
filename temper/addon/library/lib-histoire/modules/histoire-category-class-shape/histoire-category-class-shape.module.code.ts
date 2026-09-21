@@ -11,6 +11,8 @@ import type {
   RequestManagerRef,
   ServerRequestRef,
 } from "akasha/temper/addon/library/lib-histoire/modules/histoire-category-types/histoire-category-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-async/lib-async.type-declaration.d.ts"
 
 export interface GuildHistoryCacheCategoryInstance {
   adapter: HistoryAdapterRef

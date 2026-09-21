@@ -5,6 +5,13 @@ import {
 } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-casts/journal-casts.module.code.ts"
 import type { TooltipExtensionInstance } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"
 import { Public } from "akasha/temper/addon/library/lib-extended-journal/modules/journal-state/journal-state.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export interface TooltipExtensionClass {
   New: (this: TooltipExtensionClass, name: string) => TooltipExtensionInstance

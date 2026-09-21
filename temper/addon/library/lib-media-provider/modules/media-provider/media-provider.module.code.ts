@@ -3,6 +3,9 @@ import type {
   LibMediaProviderApi,
   ProviderState,
 } from "akasha/temper/addon/library/lib-media-provider/modules/media-types/media-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 let state: ProviderState
 

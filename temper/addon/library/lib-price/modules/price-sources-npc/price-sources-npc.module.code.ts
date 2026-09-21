@@ -5,6 +5,9 @@ import type {
   NormalizedPrice,
   RawPrice,
 } from "akasha/temper/addon/library/lib-price/modules/price-types/price-types.module.code.ts"
+import "akasha/temper/addon/library-type/master-merchant/master-merchant.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
 lib.NPCPrice = function (this: void, itemLink: string): RawPrice | undefined {
   const [, value] = GetItemLinkInfo(itemLink)

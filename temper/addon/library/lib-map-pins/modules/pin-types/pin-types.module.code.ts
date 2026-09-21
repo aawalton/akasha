@@ -20,6 +20,12 @@ import type {
   Lib,
   LmpPinManager,
 } from "akasha/temper/addon/library/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 export function addPinType(
   lib: Lib,

@@ -1,3 +1,5 @@
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+
 export type LibSlashCommanderLibHandle = LibSlashCommanderLib
 export function asLibSlashCommanderLibHandle(value: unknown): LibSlashCommanderLibHandle {
   return value as LibSlashCommanderLibHandle

@@ -9,6 +9,7 @@ function asLsmCastLocalTypeofGetControlName2(value: unknown): LsmCastLocalTypeof
 }
 
 import { lib } from "akasha/temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const libUtil = lib.Util
 

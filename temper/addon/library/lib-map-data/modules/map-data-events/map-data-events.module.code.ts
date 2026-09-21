@@ -7,6 +7,16 @@ import {
   INTERNAL,
   LIB,
 } from "akasha/temper/addon/library/lib-map-data/modules/map-data-lib-state/map-data-lib-state.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-reticle-interaction/eso-reticle-interaction.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 
 export function initEvents(this: void): undefined {
   const approvedInteractionTypes: Record<string, boolean> = {}

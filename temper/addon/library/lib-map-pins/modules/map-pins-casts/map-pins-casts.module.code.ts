@@ -3,6 +3,7 @@ import type {
   LmpHookPin,
   LmpMapPinClass,
 } from "akasha/temper/addon/library/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"
+import "akasha/temper/addon/library/lib-map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 export type GlobalTable = Record<string, unknown>
 

@@ -13,6 +13,17 @@ import {
 import { getMainMenu } from "akasha/temper/addon/library/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.code.ts"
 import type { Lib } from "akasha/temper/addon/library/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"
 import { MAJOR } from "akasha/temper/addon/library/lib-main-menu/modules/main-menu-version/main-menu-version.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function initMenu(self: Lib): undefined {
   const menu = getMainMenu()

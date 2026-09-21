@@ -9,6 +9,7 @@ import {
   LIBSAVEDVARS_SCOPE_MIN,
 } from "akasha/temper/addon/library/lib-saved-vars/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
 import { LSV } from "akasha/temper/addon/library/lib-saved-vars/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function publishLibSavedVars(this: void): undefined {
   const globals = asGlobalTable(_G)

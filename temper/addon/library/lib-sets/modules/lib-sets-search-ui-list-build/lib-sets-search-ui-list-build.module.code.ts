@@ -50,6 +50,21 @@ const preloadedSetNames = asLangStringRecord(
 
 import { getSearchUIListClass } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
 import { searchUI } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 const listClass = getSearchUIListClass()
 

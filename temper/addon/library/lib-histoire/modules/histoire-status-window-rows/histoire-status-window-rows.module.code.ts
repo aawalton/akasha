@@ -15,6 +15,26 @@ import {
   requireChild,
   UNLINKED_ICON,
 } from "akasha/temper/addon/library/lib-histoire/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-03/eso-enums-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-guild-history/eso-guild-history.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function asCategoryRowCacheRef(value: unknown): CategoryRowCacheRef {
   return value as CategoryRowCacheRef

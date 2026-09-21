@@ -3,6 +3,13 @@ import {
   asPresent,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asLibSetsDlcEntryArray } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-const-casts/lib-sets-const-casts.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts"
 
 const lib = LibSets
 const G = asGlobalTable(globalThis)

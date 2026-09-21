@@ -16,6 +16,7 @@ import type {
   SavedVarsInfo,
   SavedVarsManagerInstance,
 } from "akasha/temper/addon/library/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function migrateFrom(
   this: void,

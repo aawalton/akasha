@@ -31,6 +31,9 @@ import type {
   DataInstance,
   LsvTable,
 } from "akasha/temper/addon/library/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-saved-vars/lib-saved-vars.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export function setAccountSavedVarsActive(
   this: void,

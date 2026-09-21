@@ -4,6 +4,10 @@ import type {
   NotificationData,
   NotificationManager,
 } from "akasha/temper/addon/library/lib-notification/modules/notification-types/notification-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-notification/notification-declarations/notification-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 const NOTIFICATION_PROVIDER = ZO_NotificationProvider.Subclass<LibNotificationProviderClass>()
 

@@ -4,6 +4,7 @@ import type {
   LibHistoireInternal,
   Logger,
 } from "akasha/temper/addon/library/lib-histoire/modules/histoire-types/histoire-types.module.code.ts"
+import "akasha/temper/addon/library-type/lib-async/lib-async.type-declaration.d.ts"
 
 export function asLibHistoireInternal(value: unknown): LibHistoireInternal {
   return value as LibHistoireInternal

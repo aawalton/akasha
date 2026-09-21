@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export type ClassRegistry = Record<string, unknown>
 
 export interface CallbackObject {

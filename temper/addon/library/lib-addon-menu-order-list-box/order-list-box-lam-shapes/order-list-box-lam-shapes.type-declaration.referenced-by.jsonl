@@ -2,4 +2,8 @@
 {"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-state/order-list-box-state.module.code.ts"}
 {"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-widget/order-list-box-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
+{"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-core/journal-core.module.code.ts"}
+{"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-tabs/journal-tabs.module.code.ts"}
+{"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-header/lib-sets-core-header.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.eso-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}

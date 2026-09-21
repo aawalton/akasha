@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-tooltips/journal-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/skill-catalog-capture/skill-catalog-capture.module.code.ts"}

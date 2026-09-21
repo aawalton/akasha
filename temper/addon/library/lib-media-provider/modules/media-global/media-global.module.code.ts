@@ -1,6 +1,7 @@
 import type { GlobalTable } from "akasha/temper/addon/library/lib-media-provider/modules/media-casts/media-casts.module.code.ts"
 
 import { createProvider } from "akasha/temper/addon/library/lib-media-provider/modules/media-provider/media-provider.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const LIB_GLOBAL_NAME = "LibMediaProvider"
 
