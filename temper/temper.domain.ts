@@ -57,7 +57,6 @@ export const temper = {
     "module/use-player",
     "page-type/temper-thing",
     "router-app/temper-web",
-    "rust-crate/watcher-tray",
     "service-workstation/temper-watcher",
     "domain/temper-eso",
     "domain/temper-addon",

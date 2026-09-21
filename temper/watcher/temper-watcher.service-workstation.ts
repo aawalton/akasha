@@ -113,5 +113,6 @@ export const temperWatcher = {
     "module/watcher-upload-retry",
     "module/watcher-version",
     "module/watcher-worker",
+    "rust-crate/watcher-tray",
   ],
 } as const satisfies ServiceWorkstation

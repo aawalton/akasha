@@ -5249,13 +5249,6 @@
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/installer/watcher-tray-installer.rust-module.ts","id":"01a06034-87f4-7908-a23a-069bdb5b09be"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/logger/watcher-tray-logger.rust-module.ts","id":"01a06034-87f3-7e8f-8172-3c3603e9bb0c"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/main/watcher-tray-main.rust-module.ts","id":"01a06034-87f2-7fac-8b9d-cf99a6a41d3b"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/supervisor/watcher-tray-supervisor.rust-module.ts","id":"01a06034-87f3-7170-a8fa-a5f3354324b8"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/tray/watcher-tray-tray.rust-module.ts","id":"01a06034-87f2-76b4-8069-614fc1aa1871"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/updater/watcher-tray-updater.rust-module.ts","id":"01a06034-87f3-7066-9d50-14fe57f95672"}
-{"propertySlug":"decision-kind","path":"temper/watcher-tray/watcher-tray.rust-crate.ts","id":"01a06034-87f1-70ce-9bb8-126ea33109ad"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","id":"01a06381-35cf-7609-a436-3c4f4a0d6e3a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts","id":"01a06381-35cf-7578-8e5c-ded020afdf75"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts","id":"01a06377-d8cc-7874-ab3c-63e6604b4df8"}
@@ -5316,6 +5309,13 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-version/watcher-version.module.ts","id":"01a06370-eddf-7a1c-97ea-eec451828f6a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.ts","id":"01a0674e-d7f8-75c9-a6ee-f3a19f736aca"}
 {"propertySlug":"decision-kind","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/installer/watcher-tray-installer.rust-module.ts","id":"01a06034-87f4-7908-a23a-069bdb5b09be"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/logger/watcher-tray-logger.rust-module.ts","id":"01a06034-87f3-7e8f-8172-3c3603e9bb0c"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/main/watcher-tray-main.rust-module.ts","id":"01a06034-87f2-7fac-8b9d-cf99a6a41d3b"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/supervisor/watcher-tray-supervisor.rust-module.ts","id":"01a06034-87f3-7170-a8fa-a5f3354324b8"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/tray/watcher-tray-tray.rust-module.ts","id":"01a06034-87f2-76b4-8069-614fc1aa1871"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/updater/watcher-tray-updater.rust-module.ts","id":"01a06034-87f3-7066-9d50-14fe57f95672"}
+{"propertySlug":"decision-kind","path":"temper/watcher/watcher-tray/watcher-tray.rust-crate.ts","id":"01a06034-87f1-70ce-9bb8-126ea33109ad"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/addons-bundle-dir/addons-bundle-dir.module.ts","id":"01a0640f-850f-76fa-aa1c-8817cc184e55"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/answer-ask/answer-ask.module.ts","id":"01a0640f-8510-7705-b1ef-543766ffde5e"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/character-import/character-import.module.ts","id":"01a0640f-8510-7c04-b799-f12ba75125ab"}
