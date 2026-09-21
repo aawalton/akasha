@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 
 import {
   type Landed,
@@ -350,4 +351,35 @@ test("a commit that throws leaves no trace of the path the repository ignores", 
   const said = await splitThrew()
   expect(said.why).toContain("Unable to add")
   expect(said.left).toEqual([])
+})
+
+const BESIDE = "akasha/a.domain.referenced-by.jsonl"
+
+const rowFor = (slug: string): string =>
+  `{"propertySlug":"parts","path":"akasha/${slug}.domain.ts"}`
+
+test("a row another landing added beside a page while this one was judged is kept rather than written back", async () => {
+  const root = repoWith({ [BESIDE]: `${rowFor("zero")}\n` })
+  const overlapping: Judging = {
+    named: ["overlapping"],
+    checksFor: () => ["overlapping"],
+    over: async () => {
+      writeFileSync(join(root, BESIDE), `${rowFor("other")}\n${rowFor("zero")}\n`)
+      git(root, ["add", "-A"])
+      git(root, ["commit", "--quiet", "-m", "the other landing"])
+      return []
+    },
+  }
+  const rows: readonly FileChange[] = [
+    {
+      kind: "replace",
+      path: BESIDE,
+      contentFrom: `${rowFor("zero")}\n`,
+      contentTo: `${rowFor("mine")}\n${rowFor("zero")}\n`,
+    },
+  ]
+  expect("refusals" in (await landing(root, rows, "mine", overlapping))).toBe(false)
+  expect(git(root, ["show", `HEAD:${BESIDE}`])).toBe(
+    `${rowFor("mine")}\n${rowFor("other")}\n${rowFor("zero")}\n`
+  )
 })

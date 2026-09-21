@@ -42,6 +42,9 @@ import {
 import {
   type Bodied,
   baseOf,
+  beforeOf,
+  besideBefore,
+  besideRebased,
   changeOf,
   type Settled,
   splitIn,
@@ -71,10 +74,7 @@ import {
   writesOutside,
 } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
-import {
-  bodyAt,
-  readingEnded,
-} from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
+import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   committed,
   type Staging,
@@ -171,16 +171,6 @@ function bodiesOf(
     if (body !== null) held.set(one.to, body)
   }
   for (const one of onto) if (one.body !== null) held.set(one.path, one.body)
-  return held
-}
-
-function beforeOf(
-  root: string,
-  base: string,
-  paths: readonly string[]
-): Map<string, Uint8Array | null> {
-  const held = new Map<string, Uint8Array | null>()
-  for (const one of paths) held.set(one, bodyAt(root, base, one))
   return held
 }
 
@@ -371,6 +361,7 @@ export async function landing(
     }
   }
   const split = heldBack(root, edits)
+  const wasBeside = besideBefore(carried)
   const paths = edits.map((one) => one.path)
   const machine = machineOver(root, paths, asRead, facing)
   const staging: Staging = { run: null }
@@ -393,12 +384,13 @@ export async function landing(
     ])
     readingEnded()
     try {
-      const putting = split.committing.filter((one) => !lands.has(one.path))
+      const committing = besideRebased(root, split.committing, wasBeside)
+      const putting = committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)
       const noted = indexed(root, edits, moving.committing, before, keeping, settled, base)
       const back = movedOnto(root, moves)
       try {
-        const onto = split.committing.filter((one) => lands.has(one.path))
+        const onto = committing.filter((one) => lands.has(one.path))
         const then = wroteOnto(root, onto)
         const bodies = bodiesOf(putting, moving.committing, onto, before)
         const wrote = [...bodies.keys()]

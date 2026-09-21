@@ -14,6 +14,7 @@ import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 
 export type Bodied = {
   readonly path: string
@@ -77,6 +78,64 @@ export function splitIn(root: string, changes: readonly FileChange[]): Split {
     edits.set(body.path, body)
   }
   return { edits: [...edits.values()], moves }
+}
+
+export function beforeOf(
+  root: string,
+  base: string,
+  paths: readonly string[]
+): Map<string, Uint8Array | null> {
+  const held = new Map<string, Uint8Array | null>()
+  for (const one of paths) held.set(one, bodyAt(root, base, one))
+  return held
+}
+
+const TEXT = new TextDecoder()
+
+function rowsIn(body: string | null): readonly string[] {
+  return (body ?? "").split("\n").filter((one) => one !== "")
+}
+
+export function besideBefore(changes: readonly FileChange[]): ReadonlyMap<string, string | null> {
+  const held = new Map<string, string | null>()
+  for (const one of changes) {
+    if (one.kind === "move" || !referencesFiled(one.path)) continue
+    if (one.kind === "add") held.set(one.path, null)
+    if (one.kind === "replace") held.set(one.path, one.contentFrom)
+  }
+  return held
+}
+
+function rowsMerged(was: string | null, mine: string, now: string | null): string {
+  const had = new Set(rowsIn(was))
+  const kept = new Set(rowsIn(mine))
+  const rows = new Set(rowsIn(now).filter((one) => kept.has(one) || !had.has(one)))
+  for (const one of kept) {
+    if (!had.has(one)) rows.add(one)
+  }
+  return [...rows]
+    .sort()
+    .map((one) => `${one}\n`)
+    .join("")
+}
+
+export function besideRebased(
+  root: string,
+  edits: readonly Bodied[],
+  before: ReadonlyMap<string, string | null>
+): readonly Bodied[] {
+  if (before.size === 0) return edits
+  return edits.map((one) => {
+    if (one.body === null || !before.has(one.path)) return one
+    const mine = TEXT.decode(one.body)
+    const now = diskAt(root, one.path)
+    const said = rowsMerged(
+      before.get(one.path) ?? null,
+      mine,
+      now === null ? null : TEXT.decode(now)
+    )
+    return said === "" || said === mine ? one : { path: one.path, body: BYTES.encode(said) }
+  })
 }
 
 export function baseOf(root: string): string {

@@ -57,5 +57,10 @@ export const landingChangeComposing = {
       statement:
         "What a settle worked out is carried beside the commit that settle was worked out against.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing folds its rows for a page's referenced-by file into the rows that file holds on the tree.",
+    },
   ],
 } as const satisfies Module
