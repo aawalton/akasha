@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theBreakfastIPlannedFor = {
+  id: "01a0c5fd-d9b2-76eb-9009-d16125b9cff2",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-breakfast-i-planned-for",
+  title: "The Breakfast I Planned For",
+  definition: "the family breakfast on 2026-06-13, and the plan I set before it",
+  parents: ["all-about-alan-topic/where-things-are-with-my-brother"],
+  related: ["all-about-alan-topic/how-much-company-i-can-take"],
+  settled:
+    "The next time I was due to see Nick was the morning of 2026-06-13, a family breakfast at my house with him in town.\n\nWe host most extended family gatherings, since we have the space for it. The last time before this was Thanksgiving 2025.\n\nWe're hosting, which means I can retreat to my office if I need to. I'm still sick, which gives me an easy excuse to not stick around long without hurting feelings. My base plan is to just minimize how much time I spend around people, come when its time to eat, and otherwise stay isolated.\n\nIf I was healthier and my safety level was higher, or the cost multiplier lower, I might consider more active or intentional interaction for additional exposure therapy. Given where I am, I think minimal is the right call.",
+} as const satisfies AllAboutAlanTopic
