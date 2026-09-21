@@ -3338,6 +3338,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon-log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"decision-kind","path":"temper/addon-log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"decision-kind","path":"temper/addon-log/temper-addon-log.domain.ts","id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lccc/temper-lccc.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-entry/addon-keybinds-entry.module.ts","id":"01a0605a-051c-7251-adf5-3039dae90ad3"}
@@ -3670,6 +3671,13 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-table-functions/modules/table-functions-entry/table-functions-entry.module.ts","id":"01a06052-2ca6-7783-9f7b-c66a284047c9"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-table-functions/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-table-functions/temper-lib-table-functions.eso-addon.ts","id":"01a06052-2ca3-74ef-b59e-f8d49f0ca734"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-treasure/modules/treasure-public-api/treasure-public-api.module.ts","id":"01a061d5-d0c1-796e-bcca-9b91d5f6acee"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-treasure/temper-lib-treasure.eso-addon.ts","id":"01a061d5-d0c3-7a12-a5dc-1ab43add5958"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-zone/modules/zone-casts/zone-casts.module.ts","id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-zone/modules/zone-names-data/zone-names-data.module.ts","id":"01a061e7-9328-7c3a-ad08-a89ab3827af3"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-zone/modules/zone-public-api/zone-public-api.module.ts","id":"01a061e7-9336-72de-8b6e-4e0717e35ed6"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-zone/modules/zone-types/zone-types.module.ts","id":"01a061e7-92f1-7d24-873f-7531d9341088"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-zone/temper-lib-zone.eso-addon.ts","id":"01a061e7-9339-786d-9b8b-dd5d2b7a609c"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-json/addon-json.module.ts","id":"01a06060-ec3d-70b4-aba1-0e67a09d8d91"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.ts","id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-roster/addon-roster.module.ts","id":"01a06060-ec3e-72ca-8583-d3120bbc8269"}
@@ -4627,7 +4635,6 @@
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-state/keybinder-state.module.ts","id":"01a06381-67c1-7d0e-a12d-5abeb99a1a60"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-ui-strings/keybinder-ui-strings.module.ts","id":"01a06381-67c1-7cd2-a410-e5dbfae940cd"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
-{"propertySlug":"decision-kind","path":"temper/lccc/temper-lccc.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}
@@ -4707,13 +4714,6 @@
 {"propertySlug":"decision-kind","path":"temper/lib-shifter-box/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.ts","id":"01a08e6e-ae39-7b0d-a20f-739be0c4cda5"}
 {"propertySlug":"decision-kind","path":"temper/lib-shifter-box/shifter-box-template/shifter-box-template.eso-interface.ts","id":"01a06187-364c-7851-b7ad-0cc5cdf2a05e"}
 {"propertySlug":"decision-kind","path":"temper/lib-shifter-box/temper-lib-shifter-box.eso-addon.ts","id":"01a06187-3642-7d90-9056-320280df2e42"}
-{"propertySlug":"decision-kind","path":"temper/lib-treasure/modules/treasure-public-api/treasure-public-api.module.ts","id":"01a061d5-d0c1-796e-bcca-9b91d5f6acee"}
-{"propertySlug":"decision-kind","path":"temper/lib-treasure/temper-lib-treasure.eso-addon.ts","id":"01a061d5-d0c3-7a12-a5dc-1ab43add5958"}
-{"propertySlug":"decision-kind","path":"temper/lib-zone/modules/zone-casts/zone-casts.module.ts","id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
-{"propertySlug":"decision-kind","path":"temper/lib-zone/modules/zone-names-data/zone-names-data.module.ts","id":"01a061e7-9328-7c3a-ad08-a89ab3827af3"}
-{"propertySlug":"decision-kind","path":"temper/lib-zone/modules/zone-public-api/zone-public-api.module.ts","id":"01a061e7-9336-72de-8b6e-4e0717e35ed6"}
-{"propertySlug":"decision-kind","path":"temper/lib-zone/modules/zone-types/zone-types.module.ts","id":"01a061e7-92f1-7d24-873f-7531d9341088"}
-{"propertySlug":"decision-kind","path":"temper/lib-zone/temper-lib-zone.eso-addon.ts","id":"01a061e7-9339-786d-9b8b-dd5d2b7a609c"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-00/lorebooks-book-data-00.module.ts","id":"01a0617f-925f-7cbc-a32a-62339a5fd8a1"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-01/lorebooks-book-data-01.module.ts","id":"01a0617f-9260-7a7a-8d9f-22a4c3755a4b"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-02/lorebooks-book-data-02.module.ts","id":"01a0617f-9261-7011-9fb1-d2540a25dcf9"}

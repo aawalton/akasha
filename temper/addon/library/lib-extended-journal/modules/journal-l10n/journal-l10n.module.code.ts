@@ -1,4 +1,4 @@
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 
 const DEFAULTS: ReadonlyArray<[string, string]> = [
   ["SI_LEJ_NAME", "Extended Journal"],

@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asRecord,
   asString,
@@ -16,7 +17,6 @@ import type {
   CharacterMap,
   CharacterRecord,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 const SHARE_TAG = "K"
 const SHARE_VERSION = 4

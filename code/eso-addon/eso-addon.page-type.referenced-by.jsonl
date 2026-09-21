@@ -21,6 +21,8 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-slash-commander/temper-lib-slash-commander.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-table-functions/temper-lib-table-functions.eso-addon.ts"}
+{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-treasure/temper-lib-treasure.eso-addon.ts"}
+{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-zone/temper-lib-zone.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/antiquities-addon/temper-antiquities-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts"}
@@ -40,8 +42,6 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-scrollable-menu/temper-lib-scrollable-menu.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-shifter-box/temper-lib-shifter-box.eso-addon.ts"}
-{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-treasure/temper-lib-treasure.eso-addon.ts"}
-{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-zone/temper-lib-zone.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/navigation-addon/temper-navigation-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/quests-addon/temper-quests-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/selector-addon/temper-selector-addon.eso-addon.ts"}

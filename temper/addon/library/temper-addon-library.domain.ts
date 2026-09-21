@@ -29,5 +29,8 @@ export const temperAddonLibrary = {
     "eso-addon/temper-lib-sets",
     "eso-addon/temper-lib-slash-commander",
     "eso-addon/temper-lib-table-functions",
+    "eso-addon/temper-lib-treasure",
+    "eso-addon/temper-lib-zone",
+    "domain/temper-lccc",
   ],
 } as const satisfies Domain

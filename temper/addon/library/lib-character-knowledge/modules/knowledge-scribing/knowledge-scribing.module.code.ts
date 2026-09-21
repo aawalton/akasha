@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asLua1Based,
   asNumber,
@@ -5,7 +6,6 @@ import {
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import type { ScribingType } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 function asScribingType(value: ScribingType | undefined): ScribingType {
   return value as ScribingType

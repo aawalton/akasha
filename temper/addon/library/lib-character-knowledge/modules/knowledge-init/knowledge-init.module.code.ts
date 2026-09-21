@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asGlobalTable,
   asNumber,
@@ -15,7 +16,6 @@ import type {
   MasterList,
   SavedVars,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
 
 const DIAGNOSTICS = INTERNAL.diagnostics

@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import { asNumber } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import {
   asCraftNode,
@@ -16,7 +17,6 @@ import type {
   CharId,
   Server,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 const TIME_INDEX_SIZE = 2
 const TIME_FIELD_SIZE = 4

@@ -541,6 +541,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-library-type/temper-addon-library-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-log/temper-addon-log.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/library/lccc/temper-lccc.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/library/temper-addon-library.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/temper-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addons-resolve/temper-addons-resolve.domain.ts"}
@@ -612,7 +613,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-matcher/temper-items-rules-matcher.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing-core/temper-items-rules-routing-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing/temper-items-rules-routing.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lccc/temper-lccc.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lost-treasure/temper-lost-treasure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/narrow/temper-narrow.domain.ts"}

@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asNumber,
   asNumberArray,
@@ -7,7 +8,6 @@ import {
   INTERNAL,
   PUBLIC,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 type KnowFn = (this: void, itemLink: string) => boolean
 function asKnowFn(value: unknown): KnowFn {

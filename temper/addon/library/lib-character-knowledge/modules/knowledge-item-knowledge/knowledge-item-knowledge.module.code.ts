@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asNumber,
   asNumberArray,
@@ -13,7 +14,6 @@ import type {
   CharId,
   Server,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 type BooleanOrNil = boolean | undefined
 function asBooleanOrNil(value: unknown): BooleanOrNil {

@@ -1,3 +1,4 @@
+import { LCCC } from "akasha/temper/addon/library/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asNumber,
   asNumberArray,
@@ -10,7 +11,6 @@ import type {
   ItemDescriptor,
   ItemInput,
 } from "akasha/temper/addon/library/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 function asItemDescriptor(value: ItemInput): ItemDescriptor {
   return value as ItemDescriptor
