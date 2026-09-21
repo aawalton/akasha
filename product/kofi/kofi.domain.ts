@@ -8,7 +8,7 @@ export const kofi = {
     "the account Alan's products call for backing on, and what Ko-fi does with that backing",
   parts: [
     "domain/contribution-point",
-    "domain/feature-request",
+    "page-type/feature-request",
     "page-type/contributor",
     "domain/stripe",
   ],
