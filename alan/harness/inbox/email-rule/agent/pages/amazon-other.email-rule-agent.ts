@@ -22,6 +22,7 @@ export const amazonOther = {
         "return drop off confirmation",
         "return request confirmed",
         "advance refund issued",
+        "partial refund confirmed",
         "cancelled successfully",
         "saved additional money on your amazon pre-order",
       ],
