@@ -1159,6 +1159,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","id":"01a06580-66fd-7412-a20a-d678614e0121"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.ts","id":"01a077cb-d5b9-767f-8668-3cf04e5756fc"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/strength-log.page-type.ts","id":"01a06580-66fc-7e15-9138-eda9b0267961"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.ts","id":"01a0c430-b805-7a8b-9fe8-22a00d76e851"}
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proof/proof.page-type.ts","id":"01a0657f-5da8-7d50-9da8-5ad4177c9541"}
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"decision-kind","path":"alan/value/properties/value-color.relation-property.ts","id":"01a06d7a-e9f7-7f1b-b0c4-15f3742e8352"}
