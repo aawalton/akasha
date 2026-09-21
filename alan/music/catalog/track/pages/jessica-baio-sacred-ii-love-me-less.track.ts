@@ -1,0 +1,61 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jessicaBaioSacredIiLoveMeLess = {
+  id: "01a0c622-1abd-7187-8db2-534bc480c728",
+  type: "page-type/track",
+  slug: "jessica-baio-sacred-ii-love-me-less",
+  ownLength: 2.9211833333333335,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/jessica-baio-sacred-ii",
+    "release/jessica-baio-sacred",
+    "release/jessica-baio-accident",
+    "release/jessica-baio-ferrari",
+    "release/jessica-baio-love-me-less",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "love me less",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackKey: "lovemeless|0VMFTqmv0hYlWruyBERT95|175271",
+  song: "song/jessica-baio-love-me-less",
+  carriedBy: [
+    {
+      release: "release/jessica-baio-accident",
+      discNumber: 1,
+      position: 2,
+      externalId: "7bDju3wa7OyaMR7YOeUjLf",
+      externalLink: "https://open.spotify.com/track/7bDju3wa7OyaMR7YOeUjLf",
+    },
+    {
+      release: "release/jessica-baio-ferrari",
+      discNumber: 1,
+      position: 2,
+      externalId: "3owT0MqZ3S87HrV75CAvLD",
+      externalLink: "https://open.spotify.com/track/3owT0MqZ3S87HrV75CAvLD",
+    },
+    {
+      release: "release/jessica-baio-love-me-less",
+      discNumber: 1,
+      position: 1,
+      externalId: "656AwjrzjhMmeoQioJ0xDK",
+      externalLink: "https://open.spotify.com/track/656AwjrzjhMmeoQioJ0xDK",
+    },
+    {
+      release: "release/jessica-baio-sacred",
+      discNumber: 1,
+      position: 2,
+      externalId: "3zVLZymJ4pVe3bOQ2CJ5aY",
+      externalLink: "https://open.spotify.com/track/3zVLZymJ4pVe3bOQ2CJ5aY",
+    },
+    {
+      release: "release/jessica-baio-sacred-ii",
+      discNumber: 2,
+      position: 2,
+      externalId: "07owtLKJ7yCCgKb9u49hep",
+      externalLink: "https://open.spotify.com/track/07owtLKJ7yCCgKb9u49hep",
+    },
+  ],
+} as const satisfies Track

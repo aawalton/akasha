@@ -1,0 +1,34 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jessicaBaioSacredIiOtherSide = {
+  id: "01a0c622-18f3-7a8d-8318-77f8d07588b7",
+  type: "page-type/track",
+  slug: "jessica-baio-sacred-ii-other-side",
+  ownLength: 3.0126666666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/jessica-baio-sacred-ii", "release/jessica-baio-other-side"],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "other side",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackKey: "otherside|0VMFTqmv0hYlWruyBERT95|180760",
+  song: "song/jessica-baio-other-side",
+  carriedBy: [
+    {
+      release: "release/jessica-baio-other-side",
+      discNumber: 1,
+      position: 1,
+      externalId: "1X77svze8Ec0WfRsmddT51",
+      externalLink: "https://open.spotify.com/track/1X77svze8Ec0WfRsmddT51",
+    },
+    {
+      release: "release/jessica-baio-sacred-ii",
+      discNumber: 1,
+      position: 1,
+      externalId: "6E5Q4S7tWxec0TWRScK57o",
+      externalLink: "https://open.spotify.com/track/6E5Q4S7tWxec0TWRScK57o",
+    },
+  ],
+} as const satisfies Track

@@ -1,0 +1,61 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jessicaBaioUnsaidDeluxeIDontEvenThinkAboutYou = {
+  id: "01a0c622-1d8c-70af-a4fb-91abaa6d26e0",
+  type: "page-type/track",
+  slug: "jessica-baio-unsaid-deluxe-i-dont-even-think-about-you",
+  ownLength: 2.4928,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/jessica-baio-unsaid-deluxe",
+    "release/jessica-baio-unsaid",
+    "release/jessica-baio-love-s-not-pain",
+    "release/jessica-baio-what-are-you-afraid-of",
+    "release/jessica-baio-break-up-with-me",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "i don't even think about you",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackKey: "idonteventhinkaboutyou|0VMFTqmv0hYlWruyBERT95|149568",
+  song: "song/jessica-baio-i-don-t-even-think-about-you",
+  carriedBy: [
+    {
+      release: "release/jessica-baio-break-up-with-me",
+      discNumber: 1,
+      position: 2,
+      externalId: "6rJFPknfaFFGoLHplLXQuZ",
+      externalLink: "https://open.spotify.com/track/6rJFPknfaFFGoLHplLXQuZ",
+    },
+    {
+      release: "release/jessica-baio-love-s-not-pain",
+      discNumber: 1,
+      position: 4,
+      externalId: "5CSWJBxSdlUjlPUbzzv7Me",
+      externalLink: "https://open.spotify.com/track/5CSWJBxSdlUjlPUbzzv7Me",
+    },
+    {
+      release: "release/jessica-baio-unsaid",
+      discNumber: 1,
+      position: 4,
+      externalId: "0J4LjImOiW3c0y25NIeOPf",
+      externalLink: "https://open.spotify.com/track/0J4LjImOiW3c0y25NIeOPf",
+    },
+    {
+      release: "release/jessica-baio-unsaid-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "2Jt2Z1Hv0XkUruMqCtJMTe",
+      externalLink: "https://open.spotify.com/track/2Jt2Z1Hv0XkUruMqCtJMTe",
+    },
+    {
+      release: "release/jessica-baio-what-are-you-afraid-of",
+      discNumber: 1,
+      position: 3,
+      externalId: "0ASUFjILGFSwKG8DzXCO45",
+      externalLink: "https://open.spotify.com/track/0ASUFjILGFSwKG8DzXCO45",
+    },
+  ],
+} as const satisfies Track

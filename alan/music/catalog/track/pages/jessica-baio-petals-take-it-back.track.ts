@@ -1,0 +1,61 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const jessicaBaioPetalsTakeItBack = {
+  id: "01a0c622-2237-7fbe-8d30-c02f9ff462c7",
+  type: "page-type/track",
+  slug: "jessica-baio-petals-take-it-back",
+  ownLength: 2.84745,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/jessica-baio-petals",
+    "release/jessica-baio-bad-tattoo",
+    "release/jessica-baio-ghost",
+    "release/jessica-baio-glad-you-re-settling",
+    "release/jessica-baio-take-it-back",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "take it back",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackKey: "takeitback|0VMFTqmv0hYlWruyBERT95|170847",
+  song: "song/jessica-baio-take-it-back",
+  carriedBy: [
+    {
+      release: "release/jessica-baio-bad-tattoo",
+      discNumber: 1,
+      position: 4,
+      externalId: "6DkFN84H7R2Pgje4wfIPBA",
+      externalLink: "https://open.spotify.com/track/6DkFN84H7R2Pgje4wfIPBA",
+    },
+    {
+      release: "release/jessica-baio-ghost",
+      discNumber: 1,
+      position: 3,
+      externalId: "4evO8G0ofv7CpOpCMJEBAV",
+      externalLink: "https://open.spotify.com/track/4evO8G0ofv7CpOpCMJEBAV",
+    },
+    {
+      release: "release/jessica-baio-glad-you-re-settling",
+      discNumber: 1,
+      position: 2,
+      externalId: "18XYGU07Snfbr3z7R74sMa",
+      externalLink: "https://open.spotify.com/track/18XYGU07Snfbr3z7R74sMa",
+    },
+    {
+      release: "release/jessica-baio-petals",
+      discNumber: 1,
+      position: 3,
+      externalId: "5NlOAT4UpfwWXYaQO0Y7wZ",
+      externalLink: "https://open.spotify.com/track/5NlOAT4UpfwWXYaQO0Y7wZ",
+    },
+    {
+      release: "release/jessica-baio-take-it-back",
+      discNumber: 1,
+      position: 1,
+      externalId: "6iXUHaQClJ57R3twgXmnjv",
+      externalLink: "https://open.spotify.com/track/6iXUHaQClJ57R3twgXmnjv",
+    },
+  ],
+} as const satisfies Track
