@@ -81,4 +81,17 @@ export const holding = {
       statement: "Two landings over one worktree never overlap.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Nothing New In The Hold",
+      act: "Ask Alan before putting any further work inside the hold.",
+      warrant: "Every landing waits on the hold, so work put there is paid by every agent landing.",
+      aids: [
+        "Carrying work out of the hold is not putting work in.",
+        "A mend that only works inside the hold is a mend to put to Alan.",
+        "Reading inside the hold is work inside the hold.",
+      ],
+    },
+  ],
 } as const satisfies Module
