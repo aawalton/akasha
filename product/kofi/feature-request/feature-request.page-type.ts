@@ -16,6 +16,11 @@ export const featureRequest = {
       decisionKind: "decision-kind/departure",
       statement: "Alan approves each feature request page himself.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Past launch, a feature of the request system is itself a feature request contributors back.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
