@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audioAa614738814c9454 = {
+  id: "01a0c64c-1443-7458-b169-2b0c743ba017",
+  type: "page-type/audio",
+  slug: "audio-aa614738814c9454",
+  title: "moss-tts voice-clone @ 2026-07-03T01:34:13.028Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "And I shall repeat the same words to every one whom I meet, young and old, citizen and alien, but especially to the citizens, inasmuch as they are my brethren. For know that this is the command of God; and I believe that no greater good has ever happened in the state than my service to the God. For I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but first and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person. But if any one says that this is not my teaching, he is speaking an untruth. Wherefore, O men of Athens, I say to you, do as Anytus bids or not as Anytus bids, and either acquit me or not; but whichever you do, understand that I shall never alter my ways, not even if I have to die many times.",
+} as const satisfies Audio

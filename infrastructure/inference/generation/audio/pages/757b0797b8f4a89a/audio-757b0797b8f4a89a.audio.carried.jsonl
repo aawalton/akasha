@@ -1,0 +1,9 @@
+{"id":"01a0c64c-1445-7546-8f4a-2296a0e30ee6"}
+{"instruct":"A young adult woman with a smooth, slightly husky low voice — velvet storyteller timbre, slow measured pace, intimate as if speaking just to one listener late at night. A hint of knowing amusement under the calm. Precise consonants, long easy vowels. Never breathy, never bright."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-757b0797b8f4a89a"}
+{"text":"Read it to me once — just once. Then close your eyes, and I'll show you what your story sounds like when the canyon gives it back."}
+{"title":"qwen3-tts voice-design @ 2026-07-04T13:59:32.090Z"}
+{"type":"page-type/audio"}

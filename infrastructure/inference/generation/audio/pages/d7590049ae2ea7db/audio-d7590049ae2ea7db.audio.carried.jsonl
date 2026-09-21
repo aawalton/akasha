@@ -1,0 +1,9 @@
+{"id":"01a0c64c-1445-73f8-9b97-6b1e0ef210d5"}
+{"instruct":"A young woman with a soft, deep-for-her-age voice and slow, deliberate delivery — an almost hypnotic bedtime-story cadence, warm and steady, with tenderness in the low notes and a faint wistfulness underneath. Very intimate, close to the microphone, quiet strength, no brightness, no breathiness."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-d7590049ae2ea7db"}
+{"text":"Read it to me once — just once. Then close your eyes, and I'll show you what your story sounds like when the canyon gives it back."}
+{"title":"qwen3-tts voice-design @ 2026-07-04T13:59:48.999Z"}
+{"type":"page-type/audio"}

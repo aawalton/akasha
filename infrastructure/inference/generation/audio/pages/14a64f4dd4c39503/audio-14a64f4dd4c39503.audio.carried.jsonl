@@ -1,0 +1,9 @@
+{"id":"01a0c64c-1444-7f3d-8607-90b016bfe448"}
+{"instruct":"A woman's voice in a medium-LOW register, warm and grounded with an audible smile; bright morning energy living in her rhythm and lift — awake, glad, easy — while the pitch stays low and sun-warmed, never squeaky."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-14a64f4dd4c39503"}
+{"text":"Good morning — I've already walked the grounds. The roses took the night well, the panels are drinking, and there's one bed gone dense I'd like to open to the light today. Come see; the stone's already warm."}
+{"title":"qwen3-tts voice-design @ 2026-07-03T15:26:24.017Z"}
+{"type":"page-type/audio"}
