@@ -5,7 +5,7 @@ export const loadOrder = {
   type: "page-type/module",
   slug: "load-order",
   definition:
-    "the name a declaration's value reads from outside its body, and what runs above that declaration",
+    "the names a statement reads from outside its body as it loads, and what runs above a declaration",
   code: "ts",
   test: "ts",
   decisions: [
@@ -15,7 +15,23 @@ export const loadOrder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only what a variable statement's value reads as its body loads is read here.",
+      statement: "Every name a statement reads as its body loads is answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name is answered once however often the statement reads it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration that runs nothing as the body loads reads nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name the statement itself binds is not read from outside the body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A statement above is answered for a variable statement alone.",
     },
     {
       decisionKind: "decision-kind/departure",
