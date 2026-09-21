@@ -1631,6 +1631,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/attack-mode/attack-mode.module.ts","id":"01a0c484-0cd6-77db-9d41-592402c8073c"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.ts","id":"01a0c4b7-c153-7b45-9b11-437810dd0ca8"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}

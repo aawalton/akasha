@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/synthetic-config/synthetic-config.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}

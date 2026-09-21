@@ -29,6 +29,7 @@ export const gameMechanic = {
     "game-mechanic/affinity-ladder",
     "game-mechanic/skill-ladder",
     "game-mechanic/attribute-check",
+    "module/mechanic-run",
   ],
   decisions: [
     {
