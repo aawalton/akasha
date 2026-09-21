@@ -293,6 +293,7 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-interaction/scrollable-menu-dropdown-class-interaction.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-refresh/scrollable-menu-dropdown-class-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class/scrollable-menu-dropdown-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-entry-type-defaults/scrollable-menu-entry-type-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-entry/scrollable-menu-util-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-hidden-context/scrollable-menu-util-hidden-context.module.code.ts"}
