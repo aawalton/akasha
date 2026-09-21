@@ -14,9 +14,11 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
-const ADDON_PAGE = "akasha/lib-async.eso-addon.ts"
+const ADDON_PAGE = "akasha/lib-async.temper-addon.ts"
 
-const MANIFEST_AT = "akasha/lib-async.eso-addon.addon-manifest.json"
+const ADDON_PAGE_WAS = "akasha/lib-async.eso-addon.ts"
+
+const MANIFEST_AT = "akasha/lib-async.temper-addon.addon-manifest.json"
 
 const HELD_PAGE = "akasha/held.held-addon.ts"
 
@@ -66,9 +68,10 @@ test("an index naming no held addon page judges clean whatever the change carrie
   expect(heldAddonNamesARosterAddon(change, shadowed(change))).toEqual([])
 })
 
-test("a held addon page, an addon page and the manifest beside it are input", () => {
+test("a held addon page, an addon page under either name and the manifest beside it are input", () => {
   expect(touches(HELD_PAGE)).toBe(true)
   expect(touches(ADDON_PAGE)).toBe(true)
+  expect(touches(ADDON_PAGE_WAS)).toBe(true)
   expect(touches(MANIFEST_AT)).toBe(true)
 })
 

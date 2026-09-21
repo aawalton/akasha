@@ -1,6 +1,7 @@
 import { dirname } from "node:path"
 import {
   ADDON,
+  ADDON_WAS,
   type Asking,
   HELD,
   refusalsOver,
@@ -29,7 +30,8 @@ export function askingIn(change: Change, shadow: Shadow): Asking {
 
 export function touches(path: string): boolean {
   const said = partedIn(path)
-  return said !== null && (said.pageType === HELD || said.pageType === ADDON)
+  if (said === null) return false
+  return said.pageType === HELD || said.pageType === ADDON || said.pageType === ADDON_WAS
 }
 
 const TOUCHED = textsBy("held addon pages, addon pages and the manifests beside them", touches)

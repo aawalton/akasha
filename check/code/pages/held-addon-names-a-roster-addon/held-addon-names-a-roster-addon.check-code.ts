@@ -16,7 +16,8 @@ export const heldAddonNamesARosterAddon = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The roster is the addon manifest beside each `eso-addon` page the index files.",
+      statement:
+        "The roster is the addon manifest beside each `temper-addon` page the index files.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,6 +57,10 @@ export const heldAddonNamesARosterAddon = {
       decisionKind: "decision-kind/departure",
       statement:
         "An index naming `held-addon` pages and no manifest refuses rather than judging every page stale.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The addon page type is read under the name it had as well as the name it has.",
     },
     {
       decisionKind: "decision-kind/absence",

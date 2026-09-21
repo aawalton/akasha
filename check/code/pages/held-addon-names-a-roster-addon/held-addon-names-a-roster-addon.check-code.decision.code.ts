@@ -10,7 +10,9 @@ import {
 
 export const HELD = "held-addon"
 
-export const ADDON = "eso-addon"
+export const ADDON = "temper-addon"
+
+export const ADDON_WAS = "eso-addon"
 
 const MANIFEST = "addon-manifest"
 
@@ -39,9 +41,14 @@ export type Naming = {
   readonly folder: string | null
 }
 
-export function rosterIn(asking: Asking): Roster {
-  const gathered = new Map<string, string[]>()
-  for (const path of asking.pathsOfType(ADDON)) {
+type Manifested = {
+  readonly named: string
+  readonly folder: string
+}
+
+function manifestedUnder(asking: Asking, pageTypeSlug: string): readonly Manifested[] {
+  const found: Manifested[] = []
+  for (const path of asking.pathsOfType(pageTypeSlug)) {
     const value = asking.valueAt(path)
     if (value === null) continue
     const held = textAt(value, HOLDS)
@@ -50,9 +57,19 @@ export function rosterIn(asking: Asking): Roster {
     if (at === null) continue
     const named = calledIn(asking.textAt(at))
     if (named === null) continue
-    const folders = gathered.get(named)
-    if (folders === undefined) gathered.set(named, [dirname(path)])
-    else folders.push(dirname(path))
+    found.push({ named, folder: dirname(path) })
+  }
+  return found
+}
+
+export function rosterIn(asking: Asking): Roster {
+  const gathered = new Map<string, string[]>()
+  for (const pageTypeSlug of [ADDON, ADDON_WAS]) {
+    for (const { named, folder } of manifestedUnder(asking, pageTypeSlug)) {
+      const folders = gathered.get(named)
+      if (folders === undefined) gathered.set(named, [folder])
+      else folders.push(folder)
+    }
   }
   const roster = new Map<string, readonly string[]>()
   for (const [named, folders] of gathered) roster.set(named, [...folders].sort())
@@ -67,7 +84,8 @@ export function heldIn(asking: Asking): readonly Naming[] {
     const named = textAt(value, CALLED)
     const slug = slugAt(value, REACHES)
     if (named === null || slug === null) continue
-    found.push({ path, named, folder: asking.folderOf(ADDON, slug) })
+    const folder = asking.folderOf(ADDON, slug) ?? asking.folderOf(ADDON_WAS, slug)
+    found.push({ path, named, folder })
   }
   return found
 }
