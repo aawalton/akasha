@@ -81,7 +81,7 @@ export const musicRate = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reaches a music provider.",
+      statement: "Nothing here reaches a music provider but the read of what is playing.",
     },
     {
       decisionKind: "decision-kind/departure",
