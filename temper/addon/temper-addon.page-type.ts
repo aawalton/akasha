@@ -169,6 +169,24 @@ export const temperAddon = {
       statement:
         "Being one of Temper's own libraries is a property of an addon rather than a page type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Temper is the one addon every other Temper addon depends on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A library Temper rewrote is imported into a bundle rather than loaded as an addon of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A library name a foreign addon depends on is kept as an addon with a manifest and no code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How much a player's saved variables weigh decides how many addons Temper ships.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
