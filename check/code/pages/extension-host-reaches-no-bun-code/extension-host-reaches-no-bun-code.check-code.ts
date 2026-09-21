@@ -11,12 +11,21 @@ export const extensionHostReachesNoBunCode = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where the extension's manifest sits is asked of the index rather than spelled.",
+      statement:
+        "What the extension's manifest is named is asked of the index rather than spelled.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
         "The folder the editor is linked to is read from the page at the checkout root stating `linked-at`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That page is looked for among the files at the checkout root and nowhere else.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No page deeper in the tree is read to find it.",
     },
     {
       decisionKind: "decision-kind/departure",
