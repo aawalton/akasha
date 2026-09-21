@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const buildingACapabilityIsNotRunningOnIt = {
+  id: "01a0c597-4060-7c43-9714-1f6724debfa2",
+  type: "page-type/all-about-alan-topic",
+  slug: "building-a-capability-is-not-running-on-it",
+  title: "Building A Capability Is Not Running On It",
+  definition: "the gap between owning a capability and actually living off it",
+  parents: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
+  related: ["all-about-alan-topic/the-garden-we-do-not-eat-from"],
+  settled:
+    "The garden is the clean case. Real capital and real landscaping went into it, and almost nothing off it reaches the table.\n\nBuilding a capability and living off it are two different things. Harvesting and preserving is a capability of its own, and it has to be cultivated apart from the beds.\n\nNot needing a thing has phases I had not named: built, operating, load-bearing. Owning the infrastructure gets me only the first of them.",
+} as const satisfies AllAboutAlanTopic
