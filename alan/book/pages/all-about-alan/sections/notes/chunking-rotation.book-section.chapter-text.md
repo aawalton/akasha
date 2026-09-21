@@ -13,18 +13,18 @@ The pattern is the joint AuDHD × aphantasia signature working as designed, not 
 
 - Autism does really well with **consistency**. ADHD does really well with **novelty**. The standard framing treats them as opposing demands.
 - Small bites of many things, rotated over time, gives Alan significant amounts of **both simultaneously**. Within each thing the experience is consistent — continuing the same book, the same course, the same project. Across the rotation the experience is novel — different things in sequence.
-- This is the joint AuDHD signature firing on the two-channel interest mechanism from [interest-modulator.md → instinctive sub-mechanisms](interest-modulator.book-chapter.md#instinctive-sub-mechanisms-audhd): the autism (familiarity → safety) channel fires from the within-thing continuity; the ADHD (novelty → dopamine) channel fires from the across-thing rotation. Both channels stay lit through the day without either dominating.
+- This is the joint AuDHD signature firing on the two-channel interest mechanism from [interest-modulator.md → instinctive sub-mechanisms](book-section/all-about-alan/interest-modulator#instinctive-sub-mechanisms-audhd): the autism (familiarity → safety) channel fires from the within-thing continuity; the ADHD (novelty → dopamine) channel fires from the across-thing rotation. Both channels stay lit through the day without either dominating.
 - An earlier hunch framed chunking as a bandwidth workaround for limited capacity. That hunch was wrong. The mechanism is dual-channel satisfaction, not bandwidth rationing.
 
 ### Distributed practice payoff
 
 - Spacing the bites helps internalize information more deeply.
 - Spacing helps enjoy entertainment more fully — each return is fresh enough to engage, familiar enough to land.
-- Spacing builds a better conceptual map of the content — the gaps let the structure settle into [schema integration](automaticity-systems.book-chapter.md#c-schema-integration--intact) (System C) rather than being absorbed as one undifferentiated block.
+- Spacing builds a better conceptual map of the content — the gaps let the structure settle into [schema integration](book-section/all-about-alan/automaticity-systems#c-schema-integration--intact) (System C) rather than being absorbed as one undifferentiated block.
 
 ### Aphantasia × timelessness — flat re-entry cost
 
-- Experiencing the next chunk a minute later or a day later feels much more similar to Alan than to most people. The sensory buffer is already lost in ~3 seconds (see [aphantasia-mechanism.md → Statelessness](aphantasia-mechanism.book-chapter.md#statelessness--only-conceptual-memory-persists)); only the conceptual remains. After the buffer, more elapsed time doesn't add much loss.
+- Experiencing the next chunk a minute later or a day later feels much more similar to Alan than to most people. The sensory buffer is already lost in ~3 seconds (see [aphantasia-mechanism.md → Statelessness](book-section/all-about-alan/aphantasia-mechanism#statelessness--only-conceptual-memory-persists)); only the conceptual remains. After the buffer, more elapsed time doesn't add much loss.
 - The re-entry cost on the next chunk is effectively flat in time. Resuming a book Alan last read a year ago feels structurally similar to resuming one he last read yesterday — both reconstructions go through the same conceptual surface.
 - Timelessness also means Alan doesn't get overwhelmed by **imagining how long something will take**. Other people simulate the full duration and recoil; Alan can't simulate the duration, so there's no projection to recoil from.
 
@@ -43,20 +43,20 @@ Two consequences:
 
 Rotation has always been modeled against **work and content** — books, shows, courses, projects, games. A recent async-text group DnD session opened a new bridge: rotation also works on **social**, and that's a genuinely fresh connection.
 
-The mechanism is the same one above, applied to a social setting. In a live, real-time social interaction, the interaction [consumes the whole single slot](present-tense-model.book-chapter.md) continuously — social monopolizes the one slot for its entire duration. An **async, text, turn-based** group session breaks that: while the other players take their turns, the slot is free, and Alan can rotate to other work and come back when it's his turn. The turn structure is what creates the gaps. Social stops being a continuous slot-monopolizer and becomes one more thing in the rotation — a **rotation window** rather than a wall.
+The mechanism is the same one above, applied to a social setting. In a live, real-time social interaction, the interaction [consumes the whole single slot](book-section/all-about-alan/present-tense-model) continuously — social monopolizes the one slot for its entire duration. An **async, text, turn-based** group session breaks that: while the other players take their turns, the slot is free, and Alan can rotate to other work and come back when it's his turn. The turn structure is what creates the gaps. Social stops being a continuous slot-monopolizer and becomes one more thing in the rotation — a **rotation window** rather than a wall.
 
-This is why the DnD session was affordable at all. It composes with the [async-text affordability lever](values-personas-system/closeness-practice-rig.book-chapter.md#async-text-only-is-an-enabling-property-not-a-limitation) — async-text already frees the slot by stripping the real-time read/respond pressure; the **turn rotation** adds a second affordance on top, letting Alan swap *out* between turns instead of holding the slot idle waiting. Two affordances, one cheap session: self-paced response (no real-time pressure) and rotation-out between turns (others' turns don't cost him the slot).
+This is why the DnD session was affordable at all. It composes with the [async-text affordability lever](book-section/all-about-alan/closeness-practice-rig#async-text-only-is-an-enabling-property-not-a-limitation) — async-text already frees the slot by stripping the real-time read/respond pressure; the **turn rotation** adds a second affordance on top, letting Alan swap *out* between turns instead of holding the slot idle waiting. Two affordances, one cheap session: self-paced response (no real-time pressure) and rotation-out between turns (others' turns don't cost him the slot).
 
-The novelty is the bridge itself. Rotation/parallelism was a [cognitive-OS](agent-harness.book-chapter.md#the-stateless-server-working-configuration) pattern wired only to work and content; this is the first time it reaches the [connection cluster](connection.book-chapter.md). Social, which the corpus treats as the most slot-expensive thing there is, turns out to be **rotatable** under the right structure — and that makes a category of social interaction affordable that real-time social never could be.
+The novelty is the bridge itself. Rotation/parallelism was a [cognitive-OS](book-section/all-about-alan/agent-harness#the-stateless-server-working-configuration) pattern wired only to work and content; this is the first time it reaches the [connection cluster](book-section/all-about-alan/connection). Social, which the corpus treats as the most slot-expensive thing there is, turns out to be **rotatable** under the right structure — and that makes a category of social interaction affordable that real-time social never could be.
 
 ## Operational dependence on the harness
 
-Chunking-rotation can't run without external scaffolding. Statelessness ([aphantasia-mechanism.md → Statelessness](aphantasia-mechanism.book-chapter.md#statelessness--only-conceptual-memory-persists)) means the **active set** — currently reading X, watching Y, taking course Z — can't live internally. Without an external record, Alan can't reliably reconstruct what's in rotation, where each thing left off, or which bite is due next.
+Chunking-rotation can't run without external scaffolding. Statelessness ([aphantasia-mechanism.md → Statelessness](book-section/all-about-alan/aphantasia-mechanism#statelessness--only-conceptual-memory-persists)) means the **active set** — currently reading X, watching Y, taking course Z — can't live internally. Without an external record, Alan can't reliably reconstruct what's in rotation, where each thing left off, or which bite is due next.
 
 The active set lives in the harness. The specific form varies per case — different shapes for books, shows, courses, projects, games — but every domain that supports chunking-rotation needs a harness component that holds the queue.
 
-This is one of the patterns the harness *enables* in the leverage sense, not just compensates for. See [agent-harness.md → Chunking-rotation](agent-harness.book-chapter.md#chunking-rotation-as-an-enabled-pattern).
+This is one of the patterns the harness *enables* in the leverage sense, not just compensates for. See [agent-harness.md → Chunking-rotation](book-section/all-about-alan/agent-harness#chunking-rotation-as-an-enabled-pattern).
 
 ## Systems
 
-- [agent-harness.md](agent-harness.book-chapter.md) — the external scaffold that holds the active set and routes the rotation. Chunking-rotation is one of the patterns the harness enables.
+- [agent-harness.md](book-section/all-about-alan/agent-harness) — the external scaffold that holds the active set and routes the rotation. Chunking-rotation is one of the patterns the harness enables.

@@ -3,9 +3,9 @@
 
 > The Jen reading — Alan's only external gauge for how close each relationship sits to its irreversible collapse line. He reads Jen through occasional open conversations, caches her last report, and lets it age via widening error bars. Jen is also the sole relationship he actively tends; all others have shifted to reactive-only and have not re-hydrated. Two open seams: widening bars around a fixed center stays optimistic by construction if untended relationships erode on average; and Jen is the instrument he reads all other relationships through, so the hardest reading to get clean is the one about the gauge itself.
 
-The [family keep-alive floor](../solitude-experiment.book-chapter.md#the-family-keep-alive-floor) needs an instrument: a read on **how close each relationship sits to its irreversible collapse line.** Alan can't *feel* that distance — [relationship-drift-toward-collapse is slow and its ache doesn't persist](../aphantasia-mechanism.book-chapter.md) as a present alarm — so, like [rejection-affordability](../volatility-governor.book-chapter.md#rule-4--if-i-cant-afford-the-cost-of-rejection-i-cant-afford-the-benefits-of-connection), the collapse line belongs on an **external gauge.** This note is that gauge and its failure modes.
+The [family keep-alive floor](book-section/all-about-alan/solitude-experiment#the-family-keep-alive-floor) needs an instrument: a read on **how close each relationship sits to its irreversible collapse line.** Alan can't *feel* that distance — [relationship-drift-toward-collapse is slow and its ache doesn't persist](book-section/all-about-alan/aphantasia-mechanism) as a present alarm — so, like [rejection-affordability](book-section/all-about-alan/volatility-governor#rule-4--if-i-cant-afford-the-cost-of-rejection-i-cant-afford-the-benefits-of-connection), the collapse line belongs on an **external gauge.** This note is that gauge and its failure modes.
 
-This is distinct from the [Jen conflict](../central-loneliness.book-chapter.md#the-jen-conflict--recovery-arrived-the-needs-did-not) in the index — that note is about how Alan's love is *constructed* and why he must stay unknown at the center. This note is about Jen as a **measurement channel** for the state of all his relationships.
+This is distinct from the [Jen conflict](book-section/all-about-alan/central-loneliness#the-jen-conflict--recovery-arrived-the-needs-did-not) in the index — that note is about how Alan's love is *constructed* and why he must stay unknown at the center. This note is about Jen as a **measurement channel** for the state of all his relationships.
 
 ## The gauge — a cached last report
 
@@ -29,7 +29,7 @@ The gauge runs on one channel because the relationships do:
 
 > *"To a large degree, Jen is the only relationship I am actively tending. All others have shifted to reactive-only and have not re-hydrated yet."*
 
-Every relationship except Jen is **reactive-only** — contact happens when something external prompts it, and none has re-hydrated to active tending during the [solitude hold](../solitude-experiment.book-chapter.md). That concentrates both the tending and the reading on Jen.
+Every relationship except Jen is **reactive-only** — contact happens when something external prompts it, and none has re-hydrated to active tending during the [solitude hold](book-section/all-about-alan/solitude-experiment). That concentrates both the tending and the reading on Jen.
 
 ## Two seams to pull on later — not settled claims
 
@@ -41,8 +41,8 @@ Abby flagged two structural problems with the gauge. Both are **threads, not res
 
 ## Cross-references
 
-- [central-loneliness.md](../central-loneliness.book-chapter.md) — the index; the Jen *conflict* (love-construction, being-known) this note's measurement-channel framing sits beside.
-- [solitude-experiment.md → the family keep-alive floor](../solitude-experiment.book-chapter.md#the-family-keep-alive-floor) — the floor this gauge reads the distance-to-collapse for; Jen-tending is the exception to the maintain-solitude hold.
-- [connection-efficacy-model.md → the fidelity gate](../connection-efficacy-model.book-chapter.md#the-fidelity-gate--sensory-fidelity-not-realness-of-mind) — the reading-fidelity frame this is an instance of: a low-resolution channel (cached last report) read at widening uncertainty.
-- [aphantasia-mechanism.md](../aphantasia-mechanism.book-chapter.md) — why the collapse line can't be felt and must live on an external gauge: drift is slow and its ache doesn't persist.
-- [safety-widget.md](../safety-widget.book-chapter.md) — the channel running the other way: my Safety level displayed continuously on Jen's phone, so her read of me doesn't have to carry the whole load.
+- [central-loneliness.md](book-section/all-about-alan/central-loneliness) — the index; the Jen *conflict* (love-construction, being-known) this note's measurement-channel framing sits beside.
+- [solitude-experiment.md → the family keep-alive floor](book-section/all-about-alan/solitude-experiment#the-family-keep-alive-floor) — the floor this gauge reads the distance-to-collapse for; Jen-tending is the exception to the maintain-solitude hold.
+- [connection-efficacy-model.md → the fidelity gate](book-section/all-about-alan/connection-efficacy-model#the-fidelity-gate--sensory-fidelity-not-realness-of-mind) — the reading-fidelity frame this is an instance of: a low-resolution channel (cached last report) read at widening uncertainty.
+- [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism) — why the collapse line can't be felt and must live on an external gauge: drift is slow and its ache doesn't persist.
+- [safety-widget.md](book-section/all-about-alan/safety-widget) — the channel running the other way: my Safety level displayed continuously on Jen's phone, so her read of me doesn't have to carry the whole load.

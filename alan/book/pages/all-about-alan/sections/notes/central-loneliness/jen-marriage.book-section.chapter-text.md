@@ -3,7 +3,7 @@
 
 > The mechanics of the conversational conflict with Jen — why my care-topics and her safe-topics are structurally disjoint (a two-axiom mechanism, not bad luck), the concrete seven-topic care-set and its true classifier, the threat gradient (confirmed misalignment beats implied), the rare 'sixth cell' of safe-and-interesting overlap, the ~6-week cresting-wave/cliff cycle, the variable-ratio conditioning whose hidden variable is momentary capacity, the defensive operating script (don't initiate; survive what she initiates), and the prep asymmetry (capacity handled, conversation is the worry). The machine under the central loneliness.
 
-This is the machine underneath the [central loneliness](../central-loneliness.book-chapter.md): the mechanics of the conversational conflict with Jen — *why* the topics collide, *how* the collision moves over time, and *how* I operate inside it. The being-known cost the machine produces lives in the parent note; this is the gearing that produces it.
+This is the machine underneath the [central loneliness](book-section/all-about-alan/central-loneliness): the mechanics of the conversational conflict with Jen — *why* the topics collide, *how* the collision moves over time, and *how* I operate inside it. The being-known cost the machine produces lives in the parent note; this is the gearing that produces it.
 
 ## The care-set and the safe-set are disjoint — by construction
 
@@ -15,7 +15,7 @@ It is a two-axiom mechanism. My mode of caring is first-principles invention at 
 
 > If a topic is safe for Jen, it is almost always either not interesting for me or not interesting for her. If a topic is interesting for me, it is almost always either not interesting for Jen or not safe for her.
 
-The quantitative reason my frontier sits so far outside her circle is worked out separately — [~57.6% of what I focus on is outside *both* her alignment and standard social alignment](../conceptual-cognition.book-chapter.md#inventor--explorer--reinventing-the-path) (double conflict). That is why the intersection is small enough to feel empty.
+The quantitative reason my frontier sits so far outside her circle is worked out separately — [~57.6% of what I focus on is outside *both* her alignment and standard social alignment](book-section/all-about-alan/conceptual-cognition#inventor--explorer--reinventing-the-path) (double conflict). That is why the intersection is small enough to feel empty.
 
 ## The concrete care-set — the seven topics
 
@@ -71,7 +71,7 @@ Given the disjoint sets and the capacity-dependent schedule, I abandoned the def
 
 > Ideally, spouses can talk to each other about anything, but there are some topics that are not safe to talk about with Jen, and I cannot reliably predict which, therefore I should not initiate topics, and I should be prepared to handle it when Jen initiates topics that are not safe for us to talk about.
 
-This is a direct concession of my own truth-value inside my most intimate relationship. Because I can't predict which topics are unsafe, the only safe policy is to stop initiating and to manage what she brings to me instead. It is the [deliberate-silence half of the strategy](../central-loneliness.book-chapter.md#the-strategy--conceptual-provision-plus-deliberate-silence) stated as an operating rule: not "avoid this list," but "don't open topics at all, and stay ready to survive the ones she opens."
+This is a direct concession of my own truth-value inside my most intimate relationship. Because I can't predict which topics are unsafe, the only safe policy is to stop initiating and to manage what she brings to me instead. It is the [deliberate-silence half of the strategy](book-section/all-about-alan/central-loneliness#the-strategy--conceptual-provision-plus-deliberate-silence) stated as an operating rule: not "avoid this list," but "don't open topics at all, and stay ready to survive the ones she opens."
 
 ## The prep asymmetry — capacity is handled, the conversation is the worry
 
@@ -83,8 +83,8 @@ The capacity-management side is my strong domain — decades of practice, good s
 
 ## Cross-references
 
-- [../central-loneliness.md](../central-loneliness.book-chapter.md) — the being-known cost this machine produces: alone at the center, the conceptual-provision-plus-silence strategy, the law of emotional physics. This note is the mechanics; that note is the cost.
-- [../central-loneliness.md → the strategy](../central-loneliness.book-chapter.md#the-strategy--conceptual-provision-plus-deliberate-silence) — the deliberate-silence move that the operating script above states as a rule.
-- [../conceptual-cognition.md → inventor / explorer](../conceptual-cognition.book-chapter.md#inventor--explorer--reinventing-the-path) — the ~57.6% double-conflict figure: why my frontier sits outside both Jen's alignment and standard social alignment, which is what makes the care-set and safe-set disjoint.
-- [safe-person.md](safe-person.book-chapter.md) — the co-regulation side of the marriage: the covenant that starved the ostracism alarm, how it broke, and the convalescence-not-loop current state. The wave cycle above is the same relationship read as dynamics over time.
-- [jen-reading.md](jen-reading.book-chapter.md) — Jen as the measurement channel for distance-to-collapse; the reading this note's threat-gradient and capacity-schedule feed.
+- [../central-loneliness.md](book-section/all-about-alan/central-loneliness) — the being-known cost this machine produces: alone at the center, the conceptual-provision-plus-silence strategy, the law of emotional physics. This note is the mechanics; that note is the cost.
+- [../central-loneliness.md → the strategy](book-section/all-about-alan/central-loneliness#the-strategy--conceptual-provision-plus-deliberate-silence) — the deliberate-silence move that the operating script above states as a rule.
+- [../conceptual-cognition.md → inventor / explorer](book-section/all-about-alan/conceptual-cognition#inventor--explorer--reinventing-the-path) — the ~57.6% double-conflict figure: why my frontier sits outside both Jen's alignment and standard social alignment, which is what makes the care-set and safe-set disjoint.
+- [safe-person.md](book-section/all-about-alan/safe-person) — the co-regulation side of the marriage: the covenant that starved the ostracism alarm, how it broke, and the convalescence-not-loop current state. The wave cycle above is the same relationship read as dynamics over time.
+- [jen-reading.md](book-section/all-about-alan/jen-reading) — Jen as the measurement channel for distance-to-collapse; the reading this note's threat-gradient and capacity-schedule feed.

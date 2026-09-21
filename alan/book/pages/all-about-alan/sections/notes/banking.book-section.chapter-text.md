@@ -3,17 +3,17 @@
 
 > Banking audit — inventory of every financial institution I currently depend on, with a trust grade and notes. First domain audit; applies the framework as it currently stands (see grading-scale.md and ranking-criterion.md). Surfaces several reusable framework patterns — mortgage-servicer structural lock-in, cascading dependencies, stability-as-trust.
 
-Every financial institution I currently depend on. Grades per [grading-scale.md](grading-scale.book-chapter.md). Component decomposition and definitions of the trust dimensions are in that file; this audit applies the grades and records the reservations behind each one.
+Every financial institution I currently depend on. Grades per [grading-scale.md](book-section/all-about-alan/grading-scale). Component decomposition and definitions of the trust dimensions are in that file; this audit applies the grades and records the reservations behind each one.
 
 ## Inventory
 
 ### Vanguard
 
-- **Service.** Retirement plus Roth IRA. Holds ~$1.7M in liquid stock; an older snapshot put this 100% in VTIAX (Vanguard Total International Stock Index), but that custodian/single-fund absolute is [no longer currently affirmed](personal-context.book-chapter.md#income) — treat the Vanguard/VTIAX allocation as unconfirmed pending re-statement.
+- **Service.** Retirement plus Roth IRA. Holds ~$1.7M in liquid stock; an older snapshot put this 100% in VTIAX (Vanguard Total International Stock Index), but that custodian/single-fund absolute is [no longer currently affirmed](book-section/all-about-alan/personal-context#income) — treat the Vanguard/VTIAX allocation as unconfirmed pending re-statement.
 - **Grade.** **B.**
-- **Reservations.** Recent service-quality complaints — an early enshittification signal worth re-evaluating against [trust-criterion.md](trust-criterion.book-chapter.md). Mutual ownership structure is strong but worth watching for governance drift.
+- **Reservations.** Recent service-quality complaints — an early enshittification signal worth re-evaluating against [trust-criterion.md](book-section/all-about-alan/trust-criterion). Mutual ownership structure is strong but worth watching for governance drift.
 - **Criticality.** Load-bearing for retirement income.
-- **Notes.** The portfolio-concentration question — 100% international equity, 100% one fund (VTIAX), 100% one institution (Vanguard) — is a separate concern from the Vanguard-trust assessment. The concentration belongs in the plan as a portfolio-design intervention; the institutional-trust grade is just about Vanguard the organization. Full concentration discussion in [personal-context.md](personal-context.book-chapter.md).
+- **Notes.** The portfolio-concentration question — 100% international equity, 100% one fund (VTIAX), 100% one institution (Vanguard) — is a separate concern from the Vanguard-trust assessment. The concentration belongs in the plan as a portfolio-design intervention; the institutional-trust grade is just about Vanguard the organization. Full concentration discussion in [personal-context.md](book-section/all-about-alan/personal-context).
 
 ### Citi
 
@@ -21,7 +21,7 @@ Every financial institution I currently depend on. Grades per [grading-scale.md]
 - **Grade.** **D.**
 - **Reservations.** Large publicly-traded bank, 2008 bailout history, sustained consumer-fines history. Structurally exposed to shareholder pressure by virtue of being publicly traded.
 - **Criticality.** Primary checking — load-bearing for day-to-day operations.
-- **Notes.** Currently running a research pass on the six largest US banks (JPMorgan Chase, Bank of America, Citi, Wells Fargo, Goldman Sachs, Morgan Stanley) to find one rated higher than D. Methodology lives in [grading-scale.md](grading-scale.book-chapter.md) and is in flux — the three-dimension scoring (financial resiliency, ethics, political ideology) is a first draft and the score-to-grade mapping is not yet rigorous.
+- **Notes.** Currently running a research pass on the six largest US banks (JPMorgan Chase, Bank of America, Citi, Wells Fargo, Goldman Sachs, Morgan Stanley) to find one rated higher than D. Methodology lives in [grading-scale.md](book-section/all-about-alan/grading-scale) and is in flux — the three-dimension scoring (financial resiliency, ethics, political ideology) is a first draft and the score-to-grade mapping is not yet rigorous.
 
 ### UCCU (University Federal Credit Union, Provo)
 
@@ -29,7 +29,7 @@ Every financial institution I currently depend on. Grades per [grading-scale.md]
   - Legacy savings accounts for SSDI-relatives who can't hold assets directly. Load-bearing for those relatives' benefits eligibility.
   - Small extended-family trust (~$5k) collecting royalties from my father's books, jointly held with my four siblings.
 - **Grade.** **D.**
-- **Reservations.** Small-bank stability concerns post-SVB experience. Member-ownership alignment is strong on its own merits but doesn't offset the stability reservation — per [trust-criterion.md → stability is part of trust](trust-criterion.book-chapter.md#stability-is-part-of-trust-not-a-separate-axis), stability concerns land directly on the trust dimension and can drag the grade by themselves.
+- **Reservations.** Small-bank stability concerns post-SVB experience. Member-ownership alignment is strong on its own merits but doesn't offset the stability reservation — per [trust-criterion.md → stability is part of trust](book-section/all-about-alan/trust-criterion#stability-is-part-of-trust-not-a-separate-axis), stability concerns land directly on the trust dimension and can drag the grade by themselves.
 - **Criticality.** Indirectly load-bearing — benefits eligibility for SSDI-relatives depends on the account structure here.
 
 ### Chase
@@ -67,7 +67,7 @@ Every financial institution I currently depend on. Grades per [grading-scale.md]
 - **Grade.** **D.**
 - **Reservations.** Intuit's sustained lobbying record blocking IRS free-file, plus the dark-pattern complaints history.
 - **Criticality.** Low — under $100 and roughly 30 minutes per year.
-- **Notes.** Not urgent to exit despite the grade. Concrete instance of the "D-tier dependency I am consciously accepting the cost of staying with" pattern from [grading-scale.md → D](grading-scale.book-chapter.md#d--clear-misalignment-but-tolerable). Cost of staying is small; switching cost is comparable or larger; the grade documents the concern without forcing immediate action.
+- **Notes.** Not urgent to exit despite the grade. Concrete instance of the "D-tier dependency I am consciously accepting the cost of staying with" pattern from [grading-scale.md → D](book-section/all-about-alan/grading-scale#d--clear-misalignment-but-tolerable). Cost of staying is small; switching cost is comparable or larger; the grade documents the concern without forcing immediate action.
 
 ## Open audit gaps
 
@@ -79,5 +79,5 @@ Every financial institution I currently depend on. Grades per [grading-scale.md]
 Patterns this audit produced that the framework should record (or already records) for use across other domains:
 
 - **Mortgage servicer = structural lock-in.** The BSI relationship illustrates that I don't choose my servicer. The originator can sell the paper to whoever they want, and the new servicer becomes my counterparty without my consent. Generalizable to any financial product where the relationship can be transferred to a third party without the customer's involvement. Worth elevating to a framework note in a future cycle.
-- **Cascading dependencies.** Two visible in this audit alone: Facebook Marketplace → Venmo, and Costco → Citi. The downstream dependency cannot be evaluated in isolation; its real weight depends on the upstream dependency that creates the need for it. The ranking criterion as written treats each dependency separately ([ranking-criterion.md → not cascading-aware](ranking-criterion.book-chapter.md#what-this-criterion-does-not-do) flags this as a known gap). The cascading mechanism is flagged for a later framework refinement.
-- **Stability as a component of trust.** UCCU's drop to D, driven by stability concerns alone despite strong ethics and ownership alignment, is the concrete demonstration of the rule in [trust-criterion.md → stability is part of trust](trust-criterion.book-chapter.md#stability-is-part-of-trust-not-a-separate-axis). The audit confirms the framing — when I look at UCCU I really do trust them less because I worry they might not survive, and that distrust composes naturally with the trust dimension rather than living in a separate axis.
+- **Cascading dependencies.** Two visible in this audit alone: Facebook Marketplace → Venmo, and Costco → Citi. The downstream dependency cannot be evaluated in isolation; its real weight depends on the upstream dependency that creates the need for it. The ranking criterion as written treats each dependency separately ([ranking-criterion.md → not cascading-aware](book-section/all-about-alan/ranking-criterion#what-this-criterion-does-not-do) flags this as a known gap). The cascading mechanism is flagged for a later framework refinement.
+- **Stability as a component of trust.** UCCU's drop to D, driven by stability concerns alone despite strong ethics and ownership alignment, is the concrete demonstration of the rule in [trust-criterion.md → stability is part of trust](book-section/all-about-alan/trust-criterion#stability-is-part-of-trust-not-a-separate-axis). The audit confirms the framing — when I look at UCCU I really do trust them less because I worry they might not survive, and that distrust composes naturally with the trust dimension rather than living in a separate axis.

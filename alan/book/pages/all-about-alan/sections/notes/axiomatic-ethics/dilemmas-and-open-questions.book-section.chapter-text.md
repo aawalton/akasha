@@ -3,7 +3,7 @@
 
 > How the Axiomatic Ethics framework resolves the classic utilitarian objections, the settled design dials (sum aggregation, no time-discount, no value floor, linear harm-weighting), the machinery the doc tried and abandoned (stake function, headcount, ConsentScore floor, benevolence credit, intent), and what the doc itself leaves open vs. what is genuinely open for Alan. Captured as the framework's own self-assessment plus the his-vs-the-System and adapter-reconciliation threads Alan and Abby are about to explore.
 
-The framework's own scorecard — what it claims to resolve, the dials it sets, the machinery it discarded along the way — and the threads that are still open. (Provenance and provisional status: [axiomatic-ethics.md](../axiomatic-ethics.book-chapter.md).)
+The framework's own scorecard — what it claims to resolve, the dials it sets, the machinery it discarded along the way — and the threads that are still open. (Provenance and provisional status: [axiomatic-ethics.md](book-section/all-about-alan/axiomatic-ethics).)
 
 ## The classic objections, by the framework's own tracker
 
@@ -11,22 +11,22 @@ The doc closes with a status table claiming **every** classic utilitarian object
 
 | # | Objection | Resolved by |
 |---|---|---|
-| 1 | Epistemic / can't predict consequences | [Axiom 1 — the oracle](perfect-knowledge.book-chapter.md#axiom-1--the-oracle-of-value) |
-| 2 | Attribution / judges states not agents | [Axiom 2 — Shapley](perfect-knowledge.book-chapter.md#axiom-2--multiversal-shapley-attribution) |
-| 3 | Interpersonal comparison of utility | [Axiom 3 — three quantities](value-quantities.book-chapter.md#axiom-3--the-three-quantities) |
-| 4 | Separateness of persons / involuntary sacrifice | [Axioms 4–6](consent-weighting.book-chapter.md) |
-| 5 | Single suffering child / Omelas | [Axiom 6 — innermost weighting](consent-weighting.book-chapter.md#axiom-6--innermost-consent-weighting) |
+| 1 | Epistemic / can't predict consequences | [Axiom 1 — the oracle](book-section/all-about-alan/perfect-knowledge#axiom-1--the-oracle-of-value) |
+| 2 | Attribution / judges states not agents | [Axiom 2 — Shapley](book-section/all-about-alan/perfect-knowledge#axiom-2--multiversal-shapley-attribution) |
+| 3 | Interpersonal comparison of utility | [Axiom 3 — three quantities](book-section/all-about-alan/value-quantities#axiom-3--the-three-quantities) |
+| 4 | Separateness of persons / involuntary sacrifice | [Axioms 4–6](book-section/all-about-alan/consent-weighting) |
+| 5 | Single suffering child / Omelas | [Axiom 6 — innermost weighting](book-section/all-about-alan/consent-weighting#axiom-6--innermost-consent-weighting) |
 | 6 | Repugnant conclusion / population ethics | bounded-total view (design notes below) |
 | 7 | Value gerrymandering (engineered preferences) | judge the act, not the state (Axioms 7/9) |
-| 8 | Demandingness | [Axiom 9 — obligation = cost-to-act vs. shared harm prevented](identity-as-tapestry.book-chapter.md#axiom-9--commission-omission-and-obligation) |
-| 9 | Direct/indirect/omission & negligence | [Axiom 9](identity-as-tapestry.book-chapter.md#axiom-9--commission-omission-and-obligation) |
+| 8 | Demandingness | [Axiom 9 — obligation = cost-to-act vs. shared harm prevented](book-section/all-about-alan/identity-as-tapestry#axiom-9--commission-omission-and-obligation) |
+| 9 | Direct/indirect/omission & negligence | [Axiom 9](book-section/all-about-alan/identity-as-tapestry#axiom-9--commission-omission-and-obligation) |
 | 10 | Acts vs. intent | intent has no independent weight (below) |
-| 11 | Tyranny of majority / minority protection | [Axiom 10 — harm-weighted agency](consent-weighting.book-chapter.md#axiom-10--harm-weighted-agency-the-general-consent-divisor) |
-| 12 | Utility monster | [Axioms 3 & 13 — affective-entropy weight](value-quantities.book-chapter.md#axiom-13--sentience-and-the-affective-measure) |
-| 13 | Structural injustice / scale-confusion | [Axiom 11 — scale-freedom](perfect-knowledge.book-chapter.md#axiom-11--scale-freedom-and-composition) |
-| 14 | Partiality / special obligations | [Axiom 12](identity-as-tapestry.book-chapter.md#axiom-12--partiality-without-unequal-value) |
+| 11 | Tyranny of majority / minority protection | [Axiom 10 — harm-weighted agency](book-section/all-about-alan/consent-weighting#axiom-10--harm-weighted-agency-the-general-consent-divisor) |
+| 12 | Utility monster | [Axioms 3 & 13 — affective-entropy weight](book-section/all-about-alan/value-quantities#axiom-13--sentience-and-the-affective-measure) |
+| 13 | Structural injustice / scale-confusion | [Axiom 11 — scale-freedom](book-section/all-about-alan/perfect-knowledge#axiom-11--scale-freedom-and-composition) |
+| 14 | Partiality / special obligations | [Axiom 12](book-section/all-about-alan/identity-as-tapestry#axiom-12--partiality-without-unequal-value) |
 
-The doc's own "Open Questions" section reads: *"None outstanding — all classic objections resolved."* This is the framework's **self-assessment**, not an external verdict — and is itself one of the things Alan flagged as under-resolved (a framework that declares itself complete is exactly the kind of claim his [all-beliefs-are-provisional-drafts](../absolute-truth-and-ethics.book-chapter.md#all-beliefs-are-provisional-drafts--including-that-one) stance holds open).
+The doc's own "Open Questions" section reads: *"None outstanding — all classic objections resolved."* This is the framework's **self-assessment**, not an external verdict — and is itself one of the things Alan flagged as under-resolved (a framework that declares itself complete is exactly the kind of claim his [all-beliefs-are-provisional-drafts](book-section/all-about-alan/absolute-truth-and-ethics#all-beliefs-are-provisional-drafts--including-that-one) stance holds open).
 
 ## Settled dials
 
@@ -53,6 +53,6 @@ The doc records several constructs **tried and discarded** — useful because th
 
 ## Cross-references
 
-- [axiomatic-ethics.md](../axiomatic-ethics.book-chapter.md) — folder index and provenance.
-- [perfect-knowledge.md](perfect-knowledge.book-chapter.md), [value-quantities.md](value-quantities.book-chapter.md), [consent-weighting.md](consent-weighting.book-chapter.md), [identity-as-tapestry.md](identity-as-tapestry.book-chapter.md) — the axioms the resolutions above invoke.
-- [absolute-truth-and-ethics.md](../absolute-truth-and-ethics.book-chapter.md) — the provisional-draft stance under which "all objections resolved" is held open, and the compact-generator hypothesis this framework attempts.
+- [axiomatic-ethics.md](book-section/all-about-alan/axiomatic-ethics) — folder index and provenance.
+- [perfect-knowledge.md](book-section/all-about-alan/perfect-knowledge), [value-quantities.md](book-section/all-about-alan/value-quantities), [consent-weighting.md](book-section/all-about-alan/consent-weighting), [identity-as-tapestry.md](book-section/all-about-alan/identity-as-tapestry) — the axioms the resolutions above invoke.
+- [absolute-truth-and-ethics.md](book-section/all-about-alan/absolute-truth-and-ethics) — the provisional-draft stance under which "all objections resolved" is held open, and the compact-generator hypothesis this framework attempts.

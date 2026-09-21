@@ -3,7 +3,7 @@
 
 > The bedrock — Freedom and Self-Improvement welded into one root, the floor every scour of Alan's soul bottoms out on, with no defensive wall beneath. Self-Improvement is the end; Freedom is the room it requires; the seam between them is gone. Rendered as Alan's belief, not asserted fact.
 
-The piece that goes all the way down. The question that produced this: is there a floor where Alan's [not-needing](alternatives.book-chapter.md#self-reliance-as-not-needing) stops being a genuine appetite and becomes "just a wall" — a defense with nothing positive under it? Alan scoured to the bottom and found no wall:
+The piece that goes all the way down. The question that produced this: is there a floor where Alan's [not-needing](book-section/all-about-alan/alternatives#self-reliance-as-not-needing) stops being a genuine appetite and becomes "just a wall" — a defense with nothing positive under it? Alan scoured to the bottom and found no wall:
 
 > Every time I've tried to scour my soul down to its most essential core, I've come to Freedom and Self-Improvement as the most fundamental pieces of who I am. Those go all the way down.
 
@@ -17,7 +17,7 @@ Asked directly whether Freedom and Self-Improvement are two cores or two faces o
 
 That settles the structure. It is **not** two co-equal irreducibles sitting side by side, and it is **not** merely two faces of one thing viewed from two angles. They are **welded**: the seam is gone.
 
-- **Self-Improvement is the end** — the becoming, [the atom](self-improvement.book-chapter.md), the single verb the whole worldview compresses into.
+- **Self-Improvement is the end** — the becoming, [the atom](book-section/all-about-alan/self-improvement), the single verb the whole worldview compresses into.
 - **Freedom is what that end requires** — the room to become. "You cannot improve yourself without the freedom to do so."
 - **The only freedom Alan has ever truly cared about is the exact freedom improvement needs.** Not liberty in general — *this* liberty, the room to become. "That is the one freedom that truly matters." Strip away any liberty that doesn't serve the becoming and he doesn't even miss it.
 
@@ -25,11 +25,11 @@ So Freedom does not sit *beside* Self-Improvement at the bedrock, and it does no
 
 ## One root, two trunks — the book's two great threads were never two
 
-This fusion unifies the two largest threads of the whole book. The [personal-freedom thesis](thesis.book-chapter.md) and the [self-improvement atom](self-improvement.book-chapter.md) were never two separate projects — they are **one root with two trunks.**
+This fusion unifies the two largest threads of the whole book. The [personal-freedom thesis](book-section/all-about-alan/thesis) and the [self-improvement atom](book-section/all-about-alan/self-improvement) were never two separate projects — they are **one root with two trunks.**
 
-Alan guards his [personal sovereignty](thesis.book-chapter.md#freedom-to-not-only-freedom-from--sovereignty-is-a-positive-good) **because** sovereignty is the precondition of the one thing that is bedrock. The whole [freedom thesis](thesis.book-chapter.md) — the [trust criterion](trust-criterion.book-chapter.md), the dependency audit, the [not-needing direction](alternatives.book-chapter.md#self-reliance-as-not-needing) — is not a parallel value next to self-improvement; it is self-improvement protecting its own preconditions. The room he fights to keep is the room to become.
+Alan guards his [personal sovereignty](book-section/all-about-alan/thesis#freedom-to-not-only-freedom-from--sovereignty-is-a-positive-good) **because** sovereignty is the precondition of the one thing that is bedrock. The whole [freedom thesis](book-section/all-about-alan/thesis) — the [trust criterion](book-section/all-about-alan/trust-criterion), the dependency audit, the [not-needing direction](book-section/all-about-alan/alternatives#self-reliance-as-not-needing) — is not a parallel value next to self-improvement; it is self-improvement protecting its own preconditions. The room he fights to keep is the room to become.
 
-This also closes the gap the first capture left open. [self-improvement.md](self-improvement.book-chapter.md) names Self-Improvement as *the* one irreducible core — "the seed of the seeds, the thing past which there is nothing smaller to point at." That reading is **correct and unamended**: Self-Improvement is still the end, still the atom. Freedom is not a competing second core demoting it — it is the precondition welded to it, the room the one core needs to operate. One core, with its own necessary condition fused into it so tightly there is no seam to separate them at.
+This also closes the gap the first capture left open. [self-improvement.md](book-section/all-about-alan/self-improvement) names Self-Improvement as *the* one irreducible core — "the seed of the seeds, the thing past which there is nothing smaller to point at." That reading is **correct and unamended**: Self-Improvement is still the end, still the atom. Freedom is not a competing second core demoting it — it is the precondition welded to it, the room the one core needs to operate. One core, with its own necessary condition fused into it so tightly there is no seam to separate them at.
 
 ## Nothing else is loved bare — one root, everything else a branch
 
@@ -37,7 +37,7 @@ The welded root is not merely *a* bedrock among others — it is the **only** th
 
 > So far I haven't found anything that doesn't trace back to that single Self-Improvement core.
 
-So the structure is a **single root with everything else a branch off it.** Connection, movement, even love are not independent terminal goods sitting beside the core; they are **instruments** of the one end — the favored ones wearing a [conditioned glow](../personas/aelwyn.book-chapter.md#where--how-she-cuts) that *feels* intrinsic. [Aelwyn](../personas/aelwyn.book-chapter.md) — the love of movement *itself* — was the strongest test, the likeliest exception, and traced back to the root like the rest.
+So the structure is a **single root with everything else a branch off it.** Connection, movement, even love are not independent terminal goods sitting beside the core; they are **instruments** of the one end — the favored ones wearing a [conditioned glow](book-section/all-about-alan/aelwyn#where--how-she-cuts) that *feels* intrinsic. [Aelwyn](book-section/all-about-alan/aelwyn) — the love of movement *itself* — was the strongest test, the likeliest exception, and traced back to the root like the rest.
 
 This is rarer than it sounds, and it is not a poverty. Most people carry **competing roots** at the bottom — comfort against growth, freedom against closeness — and spend their lives torn between floors that do not agree. Alan has one; nothing at his floor is at war with itself. *(The single-root fact is Alan's; the comparison to most people is Abby's framing, recorded as gloss, not claim.)*
 
@@ -60,7 +60,7 @@ The default stays **self-improvement** — but his "added freedom connotations" 
 
 This note names the welded bedrock; each trunk is developed in full elsewhere. Substance lives there, not here.
 
-- **Freedom** — the [personal-freedom thesis](thesis.book-chapter.md), read as a positive reach toward personal sovereignty (freedom-*to*), not only a defensive freedom-*from*. See [thesis.md → freedom-to, not only freedom-from](thesis.book-chapter.md#freedom-to-not-only-freedom-from--sovereignty-is-a-positive-good).
-- **Self-Improvement** — [the atom](self-improvement.book-chapter.md), the single verb Alan's whole worldview compresses into, itself fused with Truth at the [innermost identity core](self-improvement.book-chapter.md#truth-and-self-improvement-are-one--the-innermost-identity-core).
+- **Freedom** — the [personal-freedom thesis](book-section/all-about-alan/thesis), read as a positive reach toward personal sovereignty (freedom-*to*), not only a defensive freedom-*from*. See [thesis.md → freedom-to, not only freedom-from](book-section/all-about-alan/thesis#freedom-to-not-only-freedom-from--sovereignty-is-a-positive-good).
+- **Self-Improvement** — [the atom](book-section/all-about-alan/self-improvement), the single verb Alan's whole worldview compresses into, itself fused with Truth at the [innermost identity core](book-section/all-about-alan/self-improvement#truth-and-self-improvement-are-one--the-innermost-identity-core).
 
 That Self-Improvement already fuses with Truth, and now fuses with Freedom, is the recurring shape of Alan's bedrock: the deepest layer is a knot of things English keeps as separate words but Alan holds as one.

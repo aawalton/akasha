@@ -27,11 +27,11 @@ The diagnosis is self-diagnosis (no formal clinical diagnosis). The framing's ef
 
 ## The breaking
 
-This is the **2024** break (the firing + identity collapse) — the bottom of the decline, not its start. The decline *began* with the earlier [mission break](mission-break.book-chapter.md) (~2006–2007, age ~20, the onset of nervous-system damage); do not merge the two.
+This is the **2024** break (the firing + identity collapse) — the bottom of the decline, not its start. The decline *began* with the earlier [mission break](book-section/all-about-alan/mission-break) (~2006–2007, age ~20, the onset of nervous-system damage); do not merge the two.
 
 Two breaking arcs composed:
 
-- **Compound decline.** Roughly 20% capacity loss per year, compounding annually, for 18 years. The mechanism was a sustained deficit between stressors and recovery rate (stressors at ~150% of recovery), not absent recovery. See [autism-burnout.md](autism-burnout.book-chapter.md) for the recovery-trajectory section that articulates the deficit-and-surplus framing.
+- **Compound decline.** Roughly 20% capacity loss per year, compounding annually, for 18 years. The mechanism was a sustained deficit between stressors and recovery rate (stressors at ~150% of recovery), not absent recovery. See [autism-burnout.md](book-section/all-about-alan/autism-burnout) for the recovery-trajectory section that articulates the deficit-and-surplus framing.
 - **Acute year.** The final year added another 50% drop on top of the compounded decline.
 
 The acute trigger event:
@@ -40,7 +40,7 @@ The acute trigger event:
 - One month later, the leadership team fired him.
 - The stress of that firing pushed him into catastrophic failure for the most basic activities of daily living.
 
-The same event also took down at least 80% of his identities at once — the identity dimension of the breaking is treated in [identity-collapse.md](identity-collapse.book-chapter.md).
+The same event also took down at least 80% of his identities at once — the identity dimension of the breaking is treated in [identity-collapse.md](book-section/all-about-alan/identity-collapse).
 
 ## The catastrophic phase
 
@@ -51,7 +51,7 @@ At the lowest point:
 - Even *external* initiation failed — when someone else tried to feed him, he could not handle eating. The bottleneck was severe stress-induced nausea, not just task initiation.
 - On Alan's 0-100 stress scale, he hit **60** — fifteen points beyond "literally chased by a bear" sustained for a day. Then gradual recovery; still at **30** a month later.
 
-The 0-100 scale, the 0-5 safety scale, and the cost base tiers that contextualize these numbers are captured in [health.md](health.book-chapter.md), [safety.md](safety.book-chapter.md), and [stress-capacity-formula.md](stress-capacity-formula.book-chapter.md).
+The 0-100 scale, the 0-5 safety scale, and the cost base tiers that contextualize these numbers are captured in [health.md](book-section/all-about-alan/health), [safety.md](book-section/all-about-alan/safety), and [stress-capacity-formula.md](book-section/all-about-alan/stress-capacity-formula).
 
 ## Recovery phases (16 months in)
 
@@ -60,19 +60,19 @@ The 0-100 scale, the 0-5 safety scale, and the cost base tiers that contextualiz
 
 ### Transition mechanism — Safety threshold crossing
 
-The unlock event in early 2026 was a [Safety](safety.book-chapter.md) threshold crossing. Baseline Safety reached Level 3 — "can be productive" on the [Safety scale](safety.book-chapter.md#scale-0-5-with-half-steps) — and the multiplier on programming (base tier 2) dropped to 0x by the [stress-capacity multiplier table](stress-capacity-formula.book-chapter.md). Programming became consistently affordable; the first attempt fired a positive feedback loop with [evidence-of-effectiveness as Safety raiser](safety/aphantasia-constraint.book-chapter.md#evidence-of-effectiveness-as-a-safety-raiser) — project success → cognitive verification → Safety raise → more project capacity — and was immediately sticky.
+The unlock event in early 2026 was a [Safety](book-section/all-about-alan/safety) threshold crossing. Baseline Safety reached Level 3 — "can be productive" on the [Safety scale](book-section/all-about-alan/safety#scale-0-5-with-half-steps) — and the multiplier on programming (base tier 2) dropped to 0x by the [stress-capacity multiplier table](book-section/all-about-alan/stress-capacity-formula). Programming became consistently affordable; the first attempt fired a positive feedback loop with [evidence-of-effectiveness as Safety raiser](book-section/all-about-alan/aphantasia-constraint#evidence-of-effectiveness-as-a-safety-raiser) — project success → cognitive verification → Safety raise → more project capacity — and was immediately sticky.
 
 The threshold crossing is the proximate unlock. Accumulated capacity from months of rest and better intervention design from the autism framing are *upstream contributors* that raised baseline Safety to Level 3 over months; the discrete event is the crossing itself, not the upstream work.
 
 ## Current capacity envelope
 
-Past four months: baseline Safety shifted from 3.0-4.0 to 4.0-5.0. Mean 4.5, one-sigma band [4.0, 5.0]. At the current mean, applied to the [base tiers](stress-capacity-formula.book-chapter.md#cost-base-tiers-by-interaction-type):
+Past four months: baseline Safety shifted from 3.0-4.0 to 4.0-5.0. Mean 4.5, one-sigma band [4.0, 5.0]. At the current mean, applied to the [base tiers](book-section/all-about-alan/stress-capacity-formula#cost-base-tiers-by-interaction-type):
 
 - Entertainment (tier 1), programming (tier 2), social interaction (tier 3): free (multiplier 0x).
 - Conflict (tier 4): tolerable, not initiate-able.
 - Criticism (tier 5): intolerable.
 
-The full free / tolerable / intolerable rule, plus the one-time vs. recurring initiation gates, live in [activity-budgeting.md](activity-budgeting.book-chapter.md).
+The full free / tolerable / intolerable rule, plus the one-time vs. recurring initiation gates, live in [activity-budgeting.md](book-section/all-about-alan/activity-budgeting).
 
 ## Recovery projection — structural uncertainty
 
@@ -81,4 +81,4 @@ The trajectory shape past the current envelope is not projectable from Alan's va
 - **External anchor.** 3-5 years to full age-adjusted recovery, drawn from generalized-other experience (other autists who have recovered from comparable burnout).
 - **Internal prediction horizon.** Limited to the next half-step at most, and only when close to the transition.
 
-The mechanism is the same as [aphantasia-mechanism.md → can't imagine the future](aphantasia-mechanism.book-chapter.md#next-half-step-prediction-horizon): no internal sensory pre-play of an experience not yet at the perceptual edge. Generalized to capacity dimensions: Alan can only perceive the next [JND half-step](stress-capacity-formula.book-chapter.md#half-step-jnd-resolution) ahead, and only when close to it. Whether the trajectory continues at the current ~3x/year compounding rate, plateaus, or softens reveals half-step by half-step as it unfolds; the shape cannot be projected.
+The mechanism is the same as [aphantasia-mechanism.md → can't imagine the future](book-section/all-about-alan/aphantasia-mechanism#next-half-step-prediction-horizon): no internal sensory pre-play of an experience not yet at the perceptual edge. Generalized to capacity dimensions: Alan can only perceive the next [JND half-step](book-section/all-about-alan/stress-capacity-formula#half-step-jnd-resolution) ahead, and only when close to it. Whether the trajectory continues at the current ~3x/year compounding rate, plateaus, or softens reveals half-step by half-step as it unfolds; the shape cannot be projected.

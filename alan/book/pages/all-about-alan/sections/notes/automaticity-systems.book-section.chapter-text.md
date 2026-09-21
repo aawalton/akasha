@@ -14,14 +14,14 @@ There is no single "System 1". Automaticity comes through several distinct neura
 - **Substrate:** LTD-like depression at sensory synapses (early sensory cortex, thalamic relays).
 - **Typical:** stimulus intensity drops with repeated exposure — the AC, the shirt tag, and the fluorescent light fade out of awareness.
 - **Alan:** sensory content does not become quieter with exposure.
-- **Cost:** permanent sensory load. Canonical treatment in [non-habituation.md](non-habituation.book-chapter.md).
+- **Cost:** permanent sensory load. Canonical treatment in [non-habituation.md](book-section/all-about-alan/non-habituation).
 
 ### B. Implicit social statistical learning — REDUCED
 
 - **Substrate:** right posterior superior temporal sulcus (pSTS), the social statistical learner; dovetails with the broader two-systems mentalizing account (Apperly & Butterfill 2009).
 - **Typical:** passive observation of others encodes social rules — when to make eye contact, conversational rhythm, status signals — without conscious effort. Same shape as language acquisition.
 - **Alan:** at age 14, ran a deliberate yearlong conceptual investigation of social interaction rules and integrated them through System C instead.
-- **Cost:** System B's job has to be done by System C, which is slower and more expensive. Canonical treatment in [social-experience.md](social-experience.book-chapter.md).
+- **Cost:** System B's job has to be done by System C, which is slower and more expensive. Canonical treatment in [social-experience.md](book-section/all-about-alan/social-experience).
 
 ### B'. Externally-cued S-R habit learning — INTACT
 
@@ -35,7 +35,7 @@ There is no single "System 1". Automaticity comes through several distinct neura
 
 - **Substrate:** medial prefrontal cortex (mPFC) + anterior temporal lobe (ATL). Slow consolidation over days and weeks.
 - **Typical:** a novel concept gets integrated into existing schemas. Once integrated, retrieval no longer requires effortful search — the concept surfaces when relevant.
-- **Alan:** intact. This is what was originally called "internalization-until-automatic" in [perceived-certainty.md](perceived-certainty.book-chapter.md). It is a genuine route to automaticity, just via different machinery than habituation.
+- **Alan:** intact. This is what was originally called "internalization-until-automatic" in [perceived-certainty.md](book-section/all-about-alan/perceived-certainty). It is a genuine route to automaticity, just via different machinery than habituation.
 - **Concrete:** Alan's age-14 social-rules study integrated through this system. Concepts that get internalized work this way.
 
 ### D. Internally-generated action-sequence chunking — REDUCED
@@ -57,17 +57,17 @@ Driving illustrates the split. System B' handles the responsive parts (cue → r
 
 ## Integration with the three-mode operating architecture
 
-The five-system framework names *which* automaticity routes are available. The [three-mode operating architecture](operating-mode-architecture.book-chapter.md) names *how* the routes execute at runtime. The two compose, they don't replace each other.
+The five-system framework names *which* automaticity routes are available. The [three-mode operating architecture](book-section/all-about-alan/operating-mode-architecture) names *how* the routes execute at runtime. The two compose, they don't replace each other.
 
-- **Weight layer ≈ System D substrate.** The physical / weight layer where trained motor and action patterns run is the substrate System D would normally chunk into. In NTs, System D writes chunks here through implicit sequence statistical-learning. In Alan, System D's writer is reduced; the same substrate is still writable, but via deliberate-pathway training that clears the [5000-iteration crossover](slow-build-strategy.book-chapter.md#the-5000-iteration-anchor) on each sub-pattern.
-- **External conceptual scaffolding (the agent harness) ≈ System D externalization for cognitive operations.** What System D can't chunk internally gets externalized into [the harness](agent-harness.book-chapter.md). The harness is the runtime delivery channel for the externalized step list; the externalized list is the System-D-substitute content.
+- **Weight layer ≈ System D substrate.** The physical / weight layer where trained motor and action patterns run is the substrate System D would normally chunk into. In NTs, System D writes chunks here through implicit sequence statistical-learning. In Alan, System D's writer is reduced; the same substrate is still writable, but via deliberate-pathway training that clears the [5000-iteration crossover](book-section/all-about-alan/slow-build-strategy#the-5000-iteration-anchor) on each sub-pattern.
+- **External conceptual scaffolding (the agent harness) ≈ System D externalization for cognitive operations.** What System D can't chunk internally gets externalized into [the harness](book-section/all-about-alan/agent-harness). The harness is the runtime delivery channel for the externalized step list; the externalized list is the System-D-substitute content.
 - **Internal conceptual processing ≈ upstream training mechanism for both.** Offline rehearsal trains the weight-layer substrate and refines the conceptual scaffolding. The same "think about it a lot" activity feeds both routes — deliberate practice that lands on the weight layer, and conceptual elaboration that updates the externalized harness rules.
 
 Frame the operating-mode architecture as integration, not replacement. The five-system framework is the substrate map (which channels exist); the three-mode architecture is the runtime map (how the channels execute and train).
 
 ## Compensation strategies
 
-- **B' substitutes for D in symbolic-token sequences.** Alan creates conditional triggers — each word triggers the next word — using System B'. He has memorized entire books this way, faster than most. Does not transfer cleanly to motor sequences, where the cues are not as discrete or as reliably distinct. The same architecture extends well beyond text memorization — see [trigger-based-memory.md](trigger-based-memory.book-chapter.md) for the unification across three domains (text memorization, talks/presentations, the agent harness).
+- **B' substitutes for D in symbolic-token sequences.** Alan creates conditional triggers — each word triggers the next word — using System B'. He has memorized entire books this way, faster than most. Does not transfer cleanly to motor sequences, where the cues are not as discrete or as reliably distinct. The same architecture extends well beyond text memorization — see [trigger-based-memory.md](book-section/all-about-alan/trigger-based-memory) for the unification across three domains (text memorization, talks/presentations, the agent harness).
 - **C substitutes for B in social rules.** Deliberate conceptual investigation plus schema integration replaces implicit social statistical learning. Slower (the age-14 study took a year). Higher ceiling (the integrated rules are explicit and falsifiable).
 - **No D substitute exists for action-sequence chunking.** Mental lists for internally-generated sequences remain explicit indefinitely. Coping likely involves externalization rather than automation.
 
@@ -83,7 +83,7 @@ The signature has a measurable shape. A two-pathway exponential-approach model (
 
 - **Acquisition is ~5–15x slower.** Central anchor: roughly 10x. Where peers reach a working level after a few hundred trials of casual exposure, the deliberate pathway needs a few thousand to reach the same level.
 - **The long-run ceiling is ~10x lower in error rate.** Peers plateau around 10–15% residual error. The deliberate pathway drives that down by roughly an order of magnitude over the long tail — often to ~1% or below. At 10x past the crossover, the gap is wider still: the implicit-floor learner stuck near 15% error; the deliberate learner near 0.5%. ~30x error-rate gap.
-- **Crossover lands around 5,000 trials of practice** — about 10x the typical-practitioner stopping point. Where peers stop earlier (say ~2,000 trials), the crossover never visibly arrives. From the outside, peers look permanently better. The strategic response — pick games whose horizon stretches past the crossover, cede games whose horizon doesn't — is captured in [slow-build-strategy.md](slow-build-strategy.book-chapter.md).
+- **Crossover lands around 5,000 trials of practice** — about 10x the typical-practitioner stopping point. Where peers stop earlier (say ~2,000 trials), the crossover never visibly arrives. From the outside, peers look permanently better. The strategic response — pick games whose horizon stretches past the crossover, cede games whose horizon doesn't — is captured in [slow-build-strategy.md](book-section/all-about-alan/slow-build-strategy).
 
 ### Frame the gap as an error rate, not as a raw skill delta
 
@@ -114,5 +114,5 @@ The model is in [`automaticity-systems.sl-simulation.py`](../../../../all-about-
 
 ## Cross-references
 
-- [operating-mode-architecture.md](operating-mode-architecture.book-chapter.md) — the runtime architecture the five systems compose into; weight layer / external conceptual scaffolding / internal conceptual processing as the three operating modes.
-- [ballroom-derived-body-control.md](ballroom-derived-body-control.book-chapter.md) — positive case where a motor sub-system landed on the weight layer through deliberate-pathway training; System D substrate written by an alternate route.
+- [operating-mode-architecture.md](book-section/all-about-alan/operating-mode-architecture) — the runtime architecture the five systems compose into; weight layer / external conceptual scaffolding / internal conceptual processing as the three operating modes.
+- [ballroom-derived-body-control.md](book-section/all-about-alan/ballroom-derived-body-control) — positive case where a motor sub-system landed on the weight layer through deliberate-pathway training; System D substrate written by an alternate route.

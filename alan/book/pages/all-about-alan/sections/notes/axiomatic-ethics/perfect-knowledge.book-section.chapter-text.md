@@ -3,7 +3,7 @@
 
 > The perfect-knowledge scaffolding of the Axiomatic Ethics framework — the two oracles (perfect state-value measurement and multiversal Shapley attribution), the discrete canonical tick that supplies an unambiguous atomic harm, and scale-freedom (an action is an action at any extent). Axioms 1, 2, 7, 11. Captured as the framework's epistemic premises, articulated through the "System" but reasoned by Alan.
 
-The framework's central move is to **grant the idealized agent perfect knowledge** and ask what ethics follows. This removes the two objections that do most of the work against utilitarianism — that we can't predict consequences, and that we judge states rather than agents — and lets the remaining structure be examined cleanly. (Provenance and the provisional status: [axiomatic-ethics.md](../axiomatic-ethics.book-chapter.md).)
+The framework's central move is to **grant the idealized agent perfect knowledge** and ask what ethics follows. This removes the two objections that do most of the work against utilitarianism — that we can't predict consequences, and that we judge states rather than agents — and lets the remaining structure be examined cleanly. (Provenance and the provisional status: [axiomatic-ethics.md](book-section/all-about-alan/axiomatic-ethics).)
 
 ## Axiom 1 — the oracle of value
 
@@ -28,10 +28,10 @@ The universe is taken to be **fundamentally discrete** (Planck-grained time, dis
 
 Four consequences:
 
-- **No carving ambiguity.** The tick is the finest possible grain; a harm cannot be sub-divided below it, so every actor judged against a harm sees the *same* sub-game. Consent-scoring (see [consent-weighting.md](consent-weighting.book-chapter.md)) is therefore actor-independent.
+- **No carving ambiguity.** The tick is the finest possible grain; a harm cannot be sub-divided below it, so every actor judged against a harm sees the *same* sub-game. Consent-scoring (see [consent-weighting.md](book-section/all-about-alan/consent-weighting)) is therefore actor-independent.
 - **Scale-free by Linearity.** A harm spanning many ticks is the linear sum of per-tick sub-games; aggregating or decomposing over any interval gives identical results.
 - **A present reduction in expected future value is a present harm.** The harm is dated to the tick on which the *probability resolves*, not the tick of physical impact — so authorship tracks whoever moved the odds, possibly long before the physical event. Distant harm is *lighter*, only because the future still holds other options (including the individual dying of other causes first); the lightness is pure probability-weighting, not time-discounting.
-- **Observation is multiverse-global; causation is not.** The oracle observes across branches for accurate measurement, but no causal mechanism crosses branches beyond standard QM. An agent in one branch cannot harm an individual in another; cross-branch Shapley attribution is structurally zero wherever there is no causal pathway. (This is what keeps consent from being launderable across branches — see [identity-as-tapestry.md](identity-as-tapestry.book-chapter.md).)
+- **Observation is multiverse-global; causation is not.** The oracle observes across branches for accurate measurement, but no causal mechanism crosses branches beyond standard QM. An agent in one branch cannot harm an individual in another; cross-branch Shapley attribution is structurally zero wherever there is no causal pathway. (This is what keeps consent from being launderable across branches — see [identity-as-tapestry.md](book-section/all-about-alan/identity-as-tapestry).)
 
 ## Axiom 11 — scale-freedom and composition
 
@@ -48,7 +48,7 @@ So verdicts at different scales **need not agree**, and the disagreement is not 
 
 ## Cross-references
 
-- [axiomatic-ethics.md](../axiomatic-ethics.book-chapter.md) — folder index, provenance, and the System-vs-Alan distinction these premises sit inside.
-- [value-quantities.md](value-quantities.book-chapter.md) — what the oracle measures (state value) and the three quantities built on it.
-- [consent-weighting.md](consent-weighting.book-chapter.md) — Agency is the Shapley attribution of Axiom 2 normalized; the tick of Axiom 7 supplies the actor-independent sub-game it is computed over.
-- [absolute-truth-and-ethics.md → ethics as lossy approximations](../absolute-truth-and-ethics.book-chapter.md#ethics-as-lossy-approximations-of-a-compact-generator) — Alan's hypothesis that ethics is a compact generator; the oracle is the device that lets this framework *be* the generator rather than an approximation.
+- [axiomatic-ethics.md](book-section/all-about-alan/axiomatic-ethics) — folder index, provenance, and the System-vs-Alan distinction these premises sit inside.
+- [value-quantities.md](book-section/all-about-alan/value-quantities) — what the oracle measures (state value) and the three quantities built on it.
+- [consent-weighting.md](book-section/all-about-alan/consent-weighting) — Agency is the Shapley attribution of Axiom 2 normalized; the tick of Axiom 7 supplies the actor-independent sub-game it is computed over.
+- [absolute-truth-and-ethics.md → ethics as lossy approximations](book-section/all-about-alan/absolute-truth-and-ethics#ethics-as-lossy-approximations-of-a-compact-generator) — Alan's hypothesis that ethics is a compact generator; the oracle is the device that lets this framework *be* the generator rather than an approximation.

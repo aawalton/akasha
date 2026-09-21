@@ -23,7 +23,7 @@ This is why the whole thing is built as a ledger, not a gut call.
 
 The frame I brought has two features. First, no self/other weighting — the standard is "just utility," neither my own utility nor anyone else's carries extra weight, because with aphantasia there is no emotional attachment doing the weighting. Second, a large negative factor on *involuntary* costs; voluntary costs count at their direct weight.
 
-Each candidate reason below reduces, in the end, to that involuntary-cost axiom. The mechanism of the axiom — the consent-weighting formula — has its canonical home in [the innermost-consent axiom](../axiomatic-ethics/consent-weighting.book-chapter.md#axiom-6--innermost-consent-weighting).
+Each candidate reason below reduces, in the end, to that involuntary-cost axiom. The mechanism of the axiom — the consent-weighting formula — has its canonical home in [the innermost-consent axiom](book-section/all-about-alan/consent-weighting#axiom-6--innermost-consent-weighting).
 
 One caution, recorded as a thread below: the "no self/other weighting" statement is in tension with how the ethics canon currently frames partiality. I've flagged it as an open reconciliation, not resolved it here.
 
@@ -39,7 +39,7 @@ So "I'd be worse off if I left" is not true in the way that would settle it. If 
 
 Five reasons could ground a stay.
 
-**Commitment** → converts to a *constraint on exit*, not a reason to stay. "For worse" covers a hard but viable pairing, not a structural non-viability. There was a mutual material mistake at 22 and 18-19 — neither of us understood how our brains worked, and the incompatibility is structural (high confidence). So commitment binds *how* I would leave, not *whether*. See [commitment as renegotiable-not-droppable](../commitment-not-attachment.book-chapter.md#the-shims-exact-shape--renegotiate-never-silently-drop).
+**Commitment** → converts to a *constraint on exit*, not a reason to stay. "For worse" covers a hard but viable pairing, not a structural non-viability. There was a mutual material mistake at 22 and 18-19 — neither of us understood how our brains worked, and the incompatibility is structural (high confidence). So commitment binds *how* I would leave, not *whether*. See [commitment as renegotiable-not-droppable](book-section/all-about-alan/commitment-not-attachment#the-shims-exact-shape--renegotiate-never-silently-drop).
 
 **Debt / desert** → books are balanced. I gave past 150% until it broke; Jen ran the household as an effective single mom; the ~90%/$2M signed over on exit settles it. This is a reason Jen might expect me to stay, not my own ethical standard. It reduces to the involuntary-cost axiom.
 
@@ -59,7 +59,7 @@ The load-bearing point: the loop is not a failure of analysis. It's confirmed lo
 
 Two domains were deferred, and they carry all the remaining weight.
 
-Faith: whether the religious mandate holds — routed through reason, not feeling, and unresolved (around 50%); deferred to work through with Talia. See [faith routed through reason](../faith-as-object-of-reason.book-chapter.md#he-routes-faith-through-reason-not-feeling).
+Faith: whether the religious mandate holds — routed through reason, not feeling, and unresolved (around 50%); deferred to work through with Talia. See [faith routed through reason](book-section/all-about-alan/faith-as-object-of-reason#he-routes-faith-through-reason-not-feeling).
 
 The future (call it #7): the "it will get better" hope. That one gets worked next.
 
@@ -89,7 +89,7 @@ The deliverable, the sayable version:
 
 The metric is the *floor*, not the crest — a big crest can feel like hope without moving the floor, so measuring the floor screens out the variable-ratio illusion.
 
-It is self-protecting: the floor is both the test and the abort. If it falls toward the hard line, that is the survival override firing, not "keep waiting" (the hard line: [the hard line](../suicidal-ideation.book-chapter.md#the-guardrails-changed-the-pattern-didnt); the floor as binding constraint: [base safety as the binding constraint](../safety.book-chapter.md#safety-as-the-current-binding-constraint)).
+It is self-protecting: the floor is both the test and the abort. If it falls toward the hard line, that is the survival override firing, not "keep waiting" (the hard line: [the hard line](book-section/all-about-alan/suicidal-ideation#the-guardrails-changed-the-pattern-didnt); the floor as binding constraint: [base safety as the binding constraint](book-section/all-about-alan/safety#safety-as-the-current-binding-constraint)).
 
 "Run at full effort" means both levers pulled at once — passive background improvement and active experimentation — and not quitting until neither produces results. Running the year avoidant would give a false yes off suppression alone (the same self-suppression the integrity strand flagged).
 
@@ -103,16 +103,16 @@ Put to me that a year spent paying into Jen's column could leave the floor flat 
 
 > Its a lever as well. The work we're doing on the me-focused date nights in particular are successfully clearing "land mines" that have been in our relationship for years, lowering the cost over time.
 
-So the [Alan-focused date night](date-nights.book-chapter.md#the-alan-focused-night-clears-land-mines) is inside what this rule measures rather than beside it. That matters for what "run at full effort" contains: effort spent on the marriage is not effort diverted from the floor, because on my own account it lowers the running cost of the marriage and the floor is what that shows up on.
+So the [Alan-focused date night](book-section/all-about-alan/date-nights#the-alan-focused-night-clears-land-mines) is inside what this rule measures rather than beside it. That matters for what "run at full effort" contains: effort spent on the marriage is not effort diverted from the floor, because on my own account it lowers the running cost of the marriage and the floor is what that shows up on.
 
-The year is running now, and the [measured trajectory across the tracked weeks](../safety-years.book-chapter.md#the-tracked-weeks-and-the-31-july-step) is not yet long enough to read.
+The year is running now, and the [measured trajectory across the tracked weeks](book-section/all-about-alan/safety-years#the-tracked-weeks-and-the-31-july-step) is not yet long enough to read.
 
 ## Cross-references
 
-- [europe-trip.md](europe-trip.book-chapter.md) — the trip this ledger was built for, recorded after it ended: the verdict, and the two experiments I came back with.
-- [central-loneliness/jen-marriage.md](jen-marriage.book-chapter.md#the-marriage-conflict-mechanics) — the conflict mechanics this decision is about (disjoint care/safe sets, the wave cycle, the variable-ratio conditioning). This note is the decision; that one is the machine.
-- [../axiomatic-ethics/consent-weighting.md](../axiomatic-ethics/consent-weighting.book-chapter.md#axiom-6--innermost-consent-weighting) — the involuntary-cost axiom the reasons reduce to.
-- [../commitment-not-attachment.md](../commitment-not-attachment.book-chapter.md#the-shims-exact-shape--renegotiate-never-silently-drop) — commitment as renegotiable, not droppable.
-- [../faith-as-object-of-reason.md](../faith-as-object-of-reason.book-chapter.md#he-routes-faith-through-reason-not-feeling) — faith worked by derivation.
-- [../safety.md](../safety.book-chapter.md#safety-as-the-current-binding-constraint) and [../safety-estimator.md](../safety-estimator.book-chapter.md#three-separate-estimators) — the base-safety floor as the binding metric and how it's estimated.
-- [../suicidal-ideation.md](../suicidal-ideation.book-chapter.md#the-guardrails-changed-the-pattern-didnt) — the hard line the floor is protected against.
+- [europe-trip.md](book-section/all-about-alan/europe-trip) — the trip this ledger was built for, recorded after it ended: the verdict, and the two experiments I came back with.
+- [central-loneliness/jen-marriage.md](book-section/all-about-alan/jen-marriage#the-marriage-conflict-mechanics) — the conflict mechanics this decision is about (disjoint care/safe sets, the wave cycle, the variable-ratio conditioning). This note is the decision; that one is the machine.
+- [../axiomatic-ethics/consent-weighting.md](book-section/all-about-alan/consent-weighting#axiom-6--innermost-consent-weighting) — the involuntary-cost axiom the reasons reduce to.
+- [../commitment-not-attachment.md](book-section/all-about-alan/commitment-not-attachment#the-shims-exact-shape--renegotiate-never-silently-drop) — commitment as renegotiable, not droppable.
+- [../faith-as-object-of-reason.md](book-section/all-about-alan/faith-as-object-of-reason#he-routes-faith-through-reason-not-feeling) — faith worked by derivation.
+- [../safety.md](book-section/all-about-alan/safety#safety-as-the-current-binding-constraint) and [../safety-estimator.md](book-section/all-about-alan/safety-estimator#three-separate-estimators) — the base-safety floor as the binding metric and how it's estimated.
+- [../suicidal-ideation.md](book-section/all-about-alan/suicidal-ideation#the-guardrails-changed-the-pattern-didnt) — the hard line the floor is protected against.

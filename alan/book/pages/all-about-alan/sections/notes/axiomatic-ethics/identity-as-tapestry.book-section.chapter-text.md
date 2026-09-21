@@ -3,23 +3,23 @@
 
 > The identity, duty, and partiality structure of the Axiomatic Ethics framework — identity as the multiversal closure of identity-instants (the tapestry/banyan), kept separate from the universe-local thread that is the value subject; commission vs. omission as category-blind Shapley attribution differing only at the consent multiplier (negative duties strict, positive duties bounded); and partiality located in whose harm counts, never in whose value counts more. Axioms 8, 9, 12. Axiom 8 is the formal twin of Alan's discrete-self / multiversal-identity notes.
 
-Three axioms about *persons* — who counts as the same individual across time and branches, how acts and omissions are charged, and how legitimate partiality enters without breaking equal worth. (Provenance and provisional status: [axiomatic-ethics.md](../axiomatic-ethics.book-chapter.md).)
+Three axioms about *persons* — who counts as the same individual across time and branches, how acts and omissions are charged, and how legitimate partiality enters without breaking equal worth. (Provenance and provisional status: [axiomatic-ethics.md](book-section/all-about-alan/axiomatic-ethics).)
 
 ## Axiom 8 — identity as closure (the tapestry)
 
 An **individual's identity** is the **closure of identity-instants** that are continuous, forward or backward in time, across the multiverse — a branching, merging structure, a **banyan tree or tapestry** rather than a single thread.
 
-Identity (tapestry-global) and valuation (universe-local, forward-anchored — [Axiom 4](value-quantities.book-chapter.md#axiom-4--value-and-the-cost-of-death)) are **deliberately separate notions.** The tapestry settles *who is the same person as whom* across time and branches; it is **not** the subject summed for value or harm. Value and harm are always evaluated on the local thread-with-forward-fan.
+Identity (tapestry-global) and valuation (universe-local, forward-anchored — [Axiom 4](book-section/all-about-alan/value-quantities#axiom-4--value-and-the-cost-of-death)) are **deliberately separate notions.** The tapestry settles *who is the same person as whom* across time and branches; it is **not** the subject summed for value or harm. Value and harm are always evaluated on the local thread-with-forward-fan.
 
-*Effect:* personal identity is settled by topology of continuity, not by thread — but because valuation is universe-local, a harm to one branch is never diluted by untouched sibling branches, and (with [Axiom 7's no-cross-branch causation](perfect-knowledge.book-chapter.md#axiom-7--the-discrete-canonical-tick)) no branch can launder consent for, or inflict harm on, another.
+*Effect:* personal identity is settled by topology of continuity, not by thread — but because valuation is universe-local, a harm to one branch is never diluted by untouched sibling branches, and (with [Axiom 7's no-cross-branch causation](book-section/all-about-alan/perfect-knowledge#axiom-7--the-discrete-canonical-tick)) no branch can launder consent for, or inflict harm on, another.
 
-This axiom is the **formal twin of Alan's own identity model**, captured from the felt side before this framework was processed. [discrete-self.md → continuity is the closure of the window](../discrete-self.book-chapter.md#continuity-of-identity-is-the-closure-of-the-window) defines his identity as the transitive closure of the overlap relation on his rolling ~3-second self-windows; [multiversal-identity.md](../multiversal-identity.book-chapter.md) extends that closure across the branches of the multiverse. Axiom 8 is the same closure-over-a-branching-structure, stated as ethics. The convergence is striking and is itself a thread worth pulling ([see dilemmas note](dilemmas-and-open-questions.book-chapter.md)): the same Deutsch many-worlds frame [drives both](../multiversal-identity.book-chapter.md). And the [half-billion future selves count](../discrete-self.book-chapter.md#the-half-billion-future-selves--the-real-guardrail-against-acting) is exactly "sum the forward fans across the tapestry" — Axiom 8 supplies the *who*, [Axiom 4](value-quantities.book-chapter.md#axiom-4--value-and-the-cost-of-death) the *how much*.
+This axiom is the **formal twin of Alan's own identity model**, captured from the felt side before this framework was processed. [discrete-self.md → continuity is the closure of the window](book-section/all-about-alan/discrete-self#continuity-of-identity-is-the-closure-of-the-window) defines his identity as the transitive closure of the overlap relation on his rolling ~3-second self-windows; [multiversal-identity.md](book-section/all-about-alan/multiversal-identity) extends that closure across the branches of the multiverse. Axiom 8 is the same closure-over-a-branching-structure, stated as ethics. The convergence is striking and is itself a thread worth pulling ([see dilemmas note](book-section/all-about-alan/dilemmas-and-open-questions)): the same Deutsch many-worlds frame [drives both](book-section/all-about-alan/multiversal-identity). And the [half-billion future selves count](book-section/all-about-alan/discrete-self#the-half-billion-future-selves--the-real-guardrail-against-acting) is exactly "sum the forward fans across the tapestry" — Axiom 8 supplies the *who*, [Axiom 4](book-section/all-about-alan/value-quantities#axiom-4--value-and-the-cost-of-death) the *how much*.
 
 ## Axiom 9 — commission, omission, and obligation
 
 Shapley attribution is **category-blind**: it scores an agent's actual marginal causal contribution, not whether it was a direct act, an indirect act, or an omission. The folk ordering *direct > indirect > omission* is a heuristic for *typical* causal weight; the System uses the real weight. A fully causally-decisive omission (a lone agent who could have prevented a harm and did not) is attributed exactly as a direct act of the same magnitude.
 
-The commission/omission distinction enters at **one place only — the consent multiplier** ([Axiom 6](consent-weighting.book-chapter.md#axiom-6--innermost-consent-weighting)):
+The commission/omission distinction enters at **one place only — the consent multiplier** ([Axiom 6](book-section/all-about-alan/consent-weighting#axiom-6--innermost-consent-weighting)):
 
 - **Commission** of a harm `M` is charged `C = M·(1/a)^b` — the agent's Shapley share, then consent-weighted.
 - **Omission** of a preventable harm `M` is charged `M` — the agent's Shapley share, **no** multiplier.
@@ -35,7 +35,7 @@ Both shares **dilute** by Shapley when many agents contribute (a mob, a crowd of
 
 ## Axiom 12 — partiality without unequal value
 
-The framework introduces **no value multiplier** for kin, friends, or community — partiality never raises anyone's [Sentience Weight](value-quantities.book-chapter.md#axiom-3--the-three-quantities). Whatever an individual's value multiplier is, it is a fact about *that individual*, never adjusted by relationships.
+The framework introduces **no value multiplier** for kin, friends, or community — partiality never raises anyone's [Sentience Weight](book-section/all-about-alan/value-quantities#axiom-3--the-three-quantities). Whatever an individual's value multiplier is, it is a fact about *that individual*, never adjusted by relationships.
 
 Partiality is nonetheless real, located entirely in *whose harm is counted*, never in *whose value counts more.* When the System imposes the loss of an intimate on someone — forcing a parent not to save their child — it inflicts a genuine **non-consensual harm on the bystander-intimate**, in that person's own universe-local value stream (Axiom 8 is untouched; there is no shared identity). That harm carries the `(1/a)^b` consent-weighting, raising the bar for when the System may override a rescue. The intimate's value is not raised; the *bystander's own harm* is added to the ledger.
 
@@ -50,8 +50,8 @@ The channels are separable, and their separation is observable: common morality'
 
 ## Cross-references
 
-- [axiomatic-ethics.md](../axiomatic-ethics.book-chapter.md) — folder index and provenance.
-- [discrete-self.md](../discrete-self.book-chapter.md) and [multiversal-identity.md](../multiversal-identity.book-chapter.md) — the felt-side identity model Axiom 8 formally mirrors: identity as closure over a branching structure, and the half-billion-future-selves count that Axiom 8 + Axiom 4 generate.
-- [value-quantities.md](value-quantities.book-chapter.md) — Sentience Weight (which partiality never raises); the universe-local value subject distinct from the tapestry.
-- [consent-weighting.md](consent-weighting.book-chapter.md) — the `(1/a)^b` multiplier whose presence-or-absence is the *only* place commission/omission differ, and the channel through which partiality enters as bystander harm.
-- [perfect-knowledge.md → Axiom 7](perfect-knowledge.book-chapter.md#axiom-7--the-discrete-canonical-tick) — no cross-branch causation, which keeps the tapestry from laundering consent across branches.
+- [axiomatic-ethics.md](book-section/all-about-alan/axiomatic-ethics) — folder index and provenance.
+- [discrete-self.md](book-section/all-about-alan/discrete-self) and [multiversal-identity.md](book-section/all-about-alan/multiversal-identity) — the felt-side identity model Axiom 8 formally mirrors: identity as closure over a branching structure, and the half-billion-future-selves count that Axiom 8 + Axiom 4 generate.
+- [value-quantities.md](book-section/all-about-alan/value-quantities) — Sentience Weight (which partiality never raises); the universe-local value subject distinct from the tapestry.
+- [consent-weighting.md](book-section/all-about-alan/consent-weighting) — the `(1/a)^b` multiplier whose presence-or-absence is the *only* place commission/omission differ, and the channel through which partiality enters as bystander harm.
+- [perfect-knowledge.md → Axiom 7](book-section/all-about-alan/perfect-knowledge#axiom-7--the-discrete-canonical-tick) — no cross-branch causation, which keeps the tapestry from laundering consent across branches.
