@@ -2172,6 +2172,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/back/music-back.command.ts","id":"01a0a01f-0b1f-7e5a-a12f-24d76abe10ed"}
 {"propertySlug":"decision-kind","path":"command/pages/music/capture/modules/play-row/play-row.module.ts","id":"01a063b0-cb34-7000-af1c-727892f4698a"}
 {"propertySlug":"decision-kind","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
+{"propertySlug":"decision-kind","path":"command/pages/music/consent/music-consent.command.ts","id":"01a0c4f7-9456-771c-9794-93ac8bf2418b"}
 {"propertySlug":"decision-kind","path":"command/pages/music/fold-songs/music-fold-songs.command.ts","id":"01a0b7c9-4e11-7a26-9f03-8b41d0e5c772"}
 {"propertySlug":"decision-kind","path":"command/pages/music/heard-tracks/music-heard-tracks.command.ts","id":"01a0c494-733f-7973-87ea-0df0523b4f6d"}
 {"propertySlug":"decision-kind","path":"command/pages/music/import-artist/music-import-artist.command.ts","id":"01a062fb-d2fd-72f5-b24e-22a9635b5910"}

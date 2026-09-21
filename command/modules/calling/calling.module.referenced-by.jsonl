@@ -317,6 +317,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/back/music-back.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/consent/music-consent.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
