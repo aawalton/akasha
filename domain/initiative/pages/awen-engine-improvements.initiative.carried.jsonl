@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"A game is made of pages rather than rows holding whole documents.","workingMemory":"Shape settled with Alan: `game-entity` (replaces entities.jsonl, characters.jsonl and sheets/alan.json), `game-location` (replaces tower-floors), `game-encounter` (readable trait, gates). No session page type: a session number on the turn page. The log becomes a system-window record on the turn page. states.jsonl, turns.jsonl and tower-sessions.jsonl go. Migrate by a command reading the blobs at runtime, since no agent can read those lines. Start with game-entity."}]}
+{"intentStack":[{"statement":"A game is made of pages rather than rows holding whole documents.","workingMemory":"`game-entity`, `game-location` and `game-encounter` are built, under `story/game/{entity,location,encounter}`. What they share (holding-game, listed-name, listed-note) sits at `story/game/properties`. Next: a command reading entities, characters and tower-floors at runtime and writing entity, location and encounter pages under each game's folder. Then states, turns and tower-sessions go, the log becomes a system-window record on the turn page, and a session number lands there.\n"}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}
