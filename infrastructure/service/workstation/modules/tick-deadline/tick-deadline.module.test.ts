@@ -3,6 +3,7 @@ import {
   TickDeadlineExceededError,
   withTickDeadline,
 } from "akasha/infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 test("a tick inside its ceiling answers", async () => {
   await expect(withTickDeadline("here", async () => 7, 1000)).resolves.toBe(7)

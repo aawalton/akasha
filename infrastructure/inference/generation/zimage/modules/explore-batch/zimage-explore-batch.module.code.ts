@@ -6,6 +6,7 @@ import {
   MODELS,
   toModelId,
 } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type Rendered = { readonly filename: string; readonly subfolder: string }
 
