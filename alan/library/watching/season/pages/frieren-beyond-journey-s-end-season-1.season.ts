@@ -11,7 +11,7 @@ export const frierenBeyondJourneySEndSeason1 = {
   ownProgress: 700.8,
   unit: "unit/minutes",
   status: "completed",
-  rank: "S",
+  grade: "S",
   publishedAt: "2023-09-29",
   externalIdentity: [
     {

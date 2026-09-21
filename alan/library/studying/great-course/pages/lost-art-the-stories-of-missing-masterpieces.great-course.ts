@@ -6,7 +6,7 @@ export const lostArtTheStoriesOfMissingMasterpieces = {
   slug: "lost-art-the-stories-of-missing-masterpieces",
   title: "Lost Art: The Stories of Missing Masterpieces",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 361.8,
   ownProgress: 361.8,

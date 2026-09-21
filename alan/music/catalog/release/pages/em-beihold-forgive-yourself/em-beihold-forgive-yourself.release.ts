@@ -11,7 +11,7 @@ export const emBeiholdForgiveYourself = {
   ownProgress: 3.229033,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2020-05-15",
   externalIdentity: [
     {

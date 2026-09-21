@@ -6,7 +6,7 @@ export const howToGrowAnythingYourBestGardenAndLandscapeIn6Lessons = {
   slug: "how-to-grow-anything-your-best-garden-and-landscape-in-6-lessons",
   title: "How to Grow Anything: Your Best Garden and Landscape in 6 Lessons",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 198.6,
   ownProgress: 198.6,

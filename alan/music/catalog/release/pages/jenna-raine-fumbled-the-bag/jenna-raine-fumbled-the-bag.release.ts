@@ -11,7 +11,7 @@ export const jennaRaineFumbledTheBag = {
   ownProgress: 3.1606,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-09-02",
   externalIdentity: [
     {

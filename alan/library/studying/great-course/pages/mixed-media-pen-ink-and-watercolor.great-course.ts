@@ -6,7 +6,7 @@ export const mixedMediaPenInkAndWatercolor = {
   slug: "mixed-media-pen-ink-and-watercolor",
   title: "Mixed Media: Pen, Ink & Watercolor",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 187.8,
   ownProgress: 187.8,

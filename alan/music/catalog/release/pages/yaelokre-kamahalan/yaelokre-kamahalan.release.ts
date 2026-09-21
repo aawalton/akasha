@@ -11,7 +11,7 @@ export const yaelokreKamahalan = {
   ownProgress: 2.470633,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-10-23",
   externalIdentity: [
     {

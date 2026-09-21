@@ -11,7 +11,7 @@ export const greenDayBbcSessionsLive = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-12-10",
   externalIdentity: [
     {

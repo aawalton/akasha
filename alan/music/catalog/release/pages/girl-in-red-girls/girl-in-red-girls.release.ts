@@ -11,7 +11,7 @@ export const girlInRedGirls = {
   ownProgress: 3.306667,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2018-06-08",
   externalIdentity: [
     {

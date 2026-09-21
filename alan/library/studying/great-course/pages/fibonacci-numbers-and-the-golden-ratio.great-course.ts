@@ -6,7 +6,7 @@ export const fibonacciNumbersAndTheGoldenRatio = {
   slug: "fibonacci-numbers-and-the-golden-ratio",
   title: "Fibonacci Numbers and the Golden Ratio",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 331.8,
   ownProgress: 331.8,

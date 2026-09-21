@@ -6,7 +6,7 @@ export const butForASmallMoment = {
   slug: "but-for-a-small-moment",
   title: "But For A Small Moment",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 1,

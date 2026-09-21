@@ -6,7 +6,7 @@ export const notMyWillButThine = {
   slug: "not-my-will-but-thine",
   title: "Not My Will, But Thine",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 3,

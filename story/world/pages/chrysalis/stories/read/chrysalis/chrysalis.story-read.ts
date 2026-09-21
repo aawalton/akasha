@@ -14,7 +14,7 @@ export const chrysalis = {
     },
   ],
   author: "RinoZ",
-  rank: "A",
+  grade: "A",
   following: true,
   externalTags: [
     "LitRPG",

@@ -6,7 +6,7 @@ export const advancedFlakyFrenchPastries = {
   slug: "advanced-flaky-french-pastries",
   title: "Advanced Flaky French Pastries",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 135.2,
   ownProgress: 135.2,

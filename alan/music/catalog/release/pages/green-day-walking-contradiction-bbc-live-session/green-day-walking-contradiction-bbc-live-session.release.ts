@@ -11,7 +11,7 @@ export const greenDayWalkingContradictionBbcLiveSession = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-11-19",
   externalIdentity: [
     {

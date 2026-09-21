@@ -4,7 +4,7 @@ export const billieEilishBirdsOfAFeather = {
   id: "019ea4a9-b01b-7ced-8184-b9c4eeaf675c",
   type: "page-type/song",
   slug: "billie-eilish-birds-of-a-feather",
-  rank: "S-",
+  grade: "S-",
   tags: ["wanted"],
   externalIdentity: [
     {

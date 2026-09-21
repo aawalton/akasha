@@ -6,7 +6,7 @@ export const pilotLectureNavigatingHealthCareAnIntroductionToAnesthesia = {
   slug: "pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
   title: "Pilot Lecture: Navigating Health Care—An Introduction to Anesthesia",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,

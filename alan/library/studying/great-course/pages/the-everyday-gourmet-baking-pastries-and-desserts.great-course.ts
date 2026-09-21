@@ -6,7 +6,7 @@ export const theEverydayGourmetBakingPastriesAndDesserts = {
   slug: "the-everyday-gourmet-baking-pastries-and-desserts",
   title: "The Everyday Gourmet: Baking Pastries and Desserts",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 232.2,
   ownProgress: 232.2,

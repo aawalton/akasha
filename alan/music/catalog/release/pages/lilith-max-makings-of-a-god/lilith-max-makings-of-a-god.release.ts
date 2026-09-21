@@ -11,7 +11,7 @@ export const lilithMaxMakingsOfAGod = {
   ownProgress: 15.205133,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-09-26",
   externalIdentity: [
     {

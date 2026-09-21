@@ -6,7 +6,7 @@ export const improveYourCrochetEssentialTechniques = {
   slug: "improve-your-crochet-essential-techniques",
   title: "Improve Your Crochet: Essential Techniques",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 124.8,
   ownProgress: 124.8,

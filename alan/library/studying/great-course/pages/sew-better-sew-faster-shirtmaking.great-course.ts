@@ -6,7 +6,7 @@ export const sewBetterSewFasterShirtmaking = {
   slug: "sew-better-sew-faster-shirtmaking",
   title: "Sew Better, Sew Faster: Shirtmaking",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 156.6,
   ownProgress: 156.6,

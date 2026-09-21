@@ -11,7 +11,7 @@ export const lynLapidIGuessThatWasGoodbye = {
   ownProgress: 3.170717,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-02-04",
   externalIdentity: [
     {

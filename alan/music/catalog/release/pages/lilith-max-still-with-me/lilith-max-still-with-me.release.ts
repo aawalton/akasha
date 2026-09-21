@@ -11,7 +11,7 @@ export const lilithMaxStillWithMe = {
   ownProgress: 3.070583,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-03-15",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const theDecisiveBattlesOfWorldHistory = {
   slug: "the-decisive-battles-of-world-history",
   title: "The Decisive Battles of World History",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1113.6,
   ownProgress: 1113.6,

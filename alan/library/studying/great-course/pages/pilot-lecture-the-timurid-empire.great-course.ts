@@ -6,7 +6,7 @@ export const pilotLectureTheTimuridEmpire = {
   slug: "pilot-lecture-the-timurid-empire",
   title: "Pilot Lecture: The Timurid Empire",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 34.8,
   ownProgress: 34.8,

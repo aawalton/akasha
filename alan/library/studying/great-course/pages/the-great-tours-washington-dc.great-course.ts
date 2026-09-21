@@ -6,7 +6,7 @@ export const theGreatToursWashingtonDc = {
   slug: "the-great-tours-washington-dc",
   title: "The Great Tours: Washington DC",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 994.2,
   ownProgress: 994.2,

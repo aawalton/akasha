@@ -6,7 +6,7 @@ export const shrubleyTheMonsterAdventurer = {
   slug: "shrubley-the-monster-adventurer",
   title: "Shrubley, The Monster Adventurer",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   position: 1,
   ownLength: 147000,

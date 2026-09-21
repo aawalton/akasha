@@ -6,7 +6,7 @@ export const thingsAsTheyReallyAre = {
   slug: "things-as-they-really-are",
   title: "Things As They Really Are",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 3,

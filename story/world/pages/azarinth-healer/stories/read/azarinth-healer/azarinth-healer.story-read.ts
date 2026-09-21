@@ -14,7 +14,7 @@ export const azarinthHealer = {
     },
   ],
   author: "Rhaegar",
-  rank: "B",
+  grade: "B",
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
   unit: "unit/words",
   prose: "txt",

@@ -6,7 +6,7 @@ export const realisticWatercolorsStepByStep = {
   slug: "realistic-watercolors-step-by-step",
   title: "Realistic Watercolors Step by Step",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 162,
   ownProgress: 162,

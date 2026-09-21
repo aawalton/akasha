@@ -6,7 +6,7 @@ export const theMedievalLegacy = {
   slug: "the-medieval-legacy",
   title: "The Medieval Legacy",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1099.2,
   ownProgress: 1099.2,

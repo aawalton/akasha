@@ -11,7 +11,7 @@ export const lilithMaxStardust = {
   ownProgress: 3.414833,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-07-30",
   externalIdentity: [
     {

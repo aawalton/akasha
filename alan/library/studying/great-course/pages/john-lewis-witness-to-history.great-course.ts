@@ -6,7 +6,7 @@ export const johnLewisWitnessToHistory = {
   slug: "john-lewis-witness-to-history",
   title: "John Lewis: Witness to History",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 28.8,
   ownProgress: 28.8,

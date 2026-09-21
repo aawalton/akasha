@@ -6,7 +6,7 @@ export const greatCourse10EssentialTechniquesForBetterDrawing = {
   slug: "great-course-10-essential-techniques-for-better-drawing",
   title: "10 Essential Techniques for Better Drawing",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 153,
   ownProgress: 153,

@@ -6,7 +6,7 @@ export const learnedOptimism = {
   slug: "learned-optimism",
   title: "Learned Optimism",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Martin Elias Pete Seligman",
   unit: "unit/words",
   ownLength: 21000,

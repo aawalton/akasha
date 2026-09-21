@@ -6,7 +6,7 @@ export const understandingImperialChinaDynastiesLifeAndCulture = {
   slug: "understanding-imperial-china-dynasties-life-and-culture",
   title: "Understanding Imperial China: Dynasties, Life, and Culture",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 753,
   ownProgress: 753,

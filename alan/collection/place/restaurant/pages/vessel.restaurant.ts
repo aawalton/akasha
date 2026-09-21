@@ -11,5 +11,5 @@ export const vessel = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-started",
-  rank: "B",
+  grade: "B",
 } as const satisfies Restaurant

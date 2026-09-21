@@ -11,7 +11,7 @@ export const musicalTheaterFrozenOriginalMotionPictureSoundtrackDeluxeEdition = 
   ownProgress: 129.0428,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2013-01-01",
   externalIdentity: [
     {

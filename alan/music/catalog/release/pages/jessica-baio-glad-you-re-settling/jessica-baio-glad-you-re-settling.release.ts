@@ -11,7 +11,7 @@ export const jessicaBaioGladYouReSettling = {
   ownProgress: 8.135317,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-09-22",
   externalIdentity: [
     {

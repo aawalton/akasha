@@ -11,7 +11,7 @@ export const lilithMaxDoYouBelieve = {
   ownProgress: 2.8685,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2023-07-14",
   externalIdentity: [
     {

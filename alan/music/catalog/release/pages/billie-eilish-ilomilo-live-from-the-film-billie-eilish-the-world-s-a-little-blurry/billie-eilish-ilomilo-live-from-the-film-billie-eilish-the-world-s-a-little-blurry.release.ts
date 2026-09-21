@@ -9,7 +9,7 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2021-02-22",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

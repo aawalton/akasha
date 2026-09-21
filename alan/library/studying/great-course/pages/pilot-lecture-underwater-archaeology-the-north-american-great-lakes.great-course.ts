@@ -6,7 +6,7 @@ export const pilotLectureUnderwaterArchaeologyTheNorthAmericanGreatLakes = {
   slug: "pilot-lecture-underwater-archaeology-the-north-american-great-lakes",
   title: "Pilot Lecture: Underwater Archaeology - The North American Great Lakes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 25.2,
   ownProgress: 25.2,

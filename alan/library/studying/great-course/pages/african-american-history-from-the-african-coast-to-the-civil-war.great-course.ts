@@ -6,7 +6,7 @@ export const africanAmericanHistoryFromTheAfricanCoastToTheCivilWar = {
   slug: "african-american-history-from-the-african-coast-to-the-civil-war",
   title: "African American History: From the African Coast to the Civil War",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 750,
   ownProgress: 750,

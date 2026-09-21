@@ -6,7 +6,7 @@ export const theGreatCoursesProfessorsRememberStephenHawking = {
   slug: "the-great-courses-professors-remember-stephen-hawking",
   title: "The Great Courses Professors Remember Stephen Hawking",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 12,
   ownProgress: 12,

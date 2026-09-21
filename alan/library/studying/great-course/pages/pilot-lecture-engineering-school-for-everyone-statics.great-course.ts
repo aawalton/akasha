@@ -6,7 +6,7 @@ export const pilotLectureEngineeringSchoolForEveryoneStatics = {
   slug: "pilot-lecture-engineering-school-for-everyone-statics",
   title: "Pilot Lecture: Engineering School for Everyone: Statics",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

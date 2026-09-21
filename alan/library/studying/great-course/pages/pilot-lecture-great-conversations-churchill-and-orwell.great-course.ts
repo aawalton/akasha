@@ -6,7 +6,7 @@ export const pilotLectureGreatConversationsChurchillAndOrwell = {
   slug: "pilot-lecture-great-conversations-churchill-and-orwell",
   title: "Pilot Lecture: Great Conversations: Churchill and Orwell",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 28.8,
   ownProgress: 28.8,

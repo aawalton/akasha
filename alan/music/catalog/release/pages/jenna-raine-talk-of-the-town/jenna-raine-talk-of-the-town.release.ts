@@ -11,7 +11,7 @@ export const jennaRaineTalkOfTheTown = {
   ownProgress: 3.0891,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-09-26",
   externalIdentity: [
     {

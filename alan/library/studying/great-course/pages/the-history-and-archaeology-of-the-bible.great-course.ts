@@ -6,7 +6,7 @@ export const theHistoryAndArchaeologyOfTheBible = {
   slug: "the-history-and-archaeology-of-the-bible",
   title: "The History and Archaeology of the Bible",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 670.8,
   ownProgress: 670.8,

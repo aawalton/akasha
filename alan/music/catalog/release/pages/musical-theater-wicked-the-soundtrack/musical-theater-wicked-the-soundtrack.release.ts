@@ -9,7 +9,7 @@ export const musicalTheaterWickedTheSoundtrack = {
   partOfCollections: ["release-collection/musical-theater"],
   position: 0,
   publishedAt: "2024-11-22",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

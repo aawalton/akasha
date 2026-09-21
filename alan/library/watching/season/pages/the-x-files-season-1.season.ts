@@ -11,7 +11,7 @@ export const theXFilesSeason1 = {
   ownProgress: 1098,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1993-09-11",
   externalIdentity: [
     {

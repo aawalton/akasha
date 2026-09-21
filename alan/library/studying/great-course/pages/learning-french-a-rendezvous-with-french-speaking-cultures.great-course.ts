@@ -6,7 +6,7 @@ export const learningFrenchARendezvousWithFrenchSpeakingCultures = {
   slug: "learning-french-a-rendezvous-with-french-speaking-cultures",
   title: "Learning French: A Rendezvous with French-Speaking Cultures",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1324.8,
   ownProgress: 1324.8,

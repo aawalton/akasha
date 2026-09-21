@@ -14,6 +14,6 @@ export const xFiles = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   tags: ["Speculative Anthology", "Crime Investigation"],
 } as const satisfies ShowCollection

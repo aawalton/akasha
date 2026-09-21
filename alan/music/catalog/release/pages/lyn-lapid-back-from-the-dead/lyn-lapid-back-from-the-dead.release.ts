@@ -11,7 +11,7 @@ export const lynLapidBackFromTheDead = {
   ownProgress: 2.634333,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-05-17",
   externalIdentity: [
     {

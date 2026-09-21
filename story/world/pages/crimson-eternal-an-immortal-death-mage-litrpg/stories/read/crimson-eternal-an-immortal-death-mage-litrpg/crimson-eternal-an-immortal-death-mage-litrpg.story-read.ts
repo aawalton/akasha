@@ -15,7 +15,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
     },
   ],
   author: "WolfShine",
-  rank: "C",
+  grade: "C",
   following: true,
   publicationStatus: "ongoing",
   externalTags: [

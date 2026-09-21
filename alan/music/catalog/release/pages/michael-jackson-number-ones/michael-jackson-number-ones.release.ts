@@ -11,7 +11,7 @@ export const michaelJacksonNumberOnes = {
   ownProgress: 78.86705,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1979-01-01",
   externalIdentity: [
     {

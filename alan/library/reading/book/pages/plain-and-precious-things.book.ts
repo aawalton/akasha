@@ -6,7 +6,7 @@ export const plainAndPreciousThings = {
   slug: "plain-and-precious-things",
   title: "Plain and Precious Things",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 3,

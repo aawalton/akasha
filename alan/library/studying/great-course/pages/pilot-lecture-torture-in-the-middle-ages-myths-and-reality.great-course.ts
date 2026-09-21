@@ -6,7 +6,7 @@ export const pilotLectureTortureInTheMiddleAgesMythsAndReality = {
   slug: "pilot-lecture-torture-in-the-middle-ages-myths-and-reality",
   title: "Pilot Lecture: Torture in the Middle Ages: Myths and Reality",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 33,
   ownProgress: 33,

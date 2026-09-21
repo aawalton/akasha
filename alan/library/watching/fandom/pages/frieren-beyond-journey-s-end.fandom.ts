@@ -11,5 +11,5 @@ export const frierenBeyondJourneySEnd = {
   ownProgress: 0,
   unit: "unit/words",
   status: "following",
-  rank: "A",
+  grade: "A",
 } as const satisfies Fandom

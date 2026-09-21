@@ -14,7 +14,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
         "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Progression",

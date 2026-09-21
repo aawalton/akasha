@@ -6,7 +6,7 @@ export const theGreatToursAGuidedTourOfAncientEgypt = {
   slug: "the-great-tours-a-guided-tour-of-ancient-egypt",
   title: "The Great Tours: A Guided Tour of Ancient Egypt",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 695.4,
   ownProgress: 695.4,

@@ -11,7 +11,7 @@ export const mitskiBuryMeAtMakeoutCreek = {
   ownProgress: 30.311067,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2014-11-11",
   externalIdentity: [
     {

@@ -13,7 +13,7 @@ export const defianceOfTheFall = {
       externalLink: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Post Apocalyptic",

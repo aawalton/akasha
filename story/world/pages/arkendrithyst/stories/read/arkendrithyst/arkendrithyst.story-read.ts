@@ -14,7 +14,7 @@ export const arkendrithyst = {
     },
   ],
   author: "Arcs",
-  rank: "C",
+  grade: "C",
   publicationStatus: "completed",
   externalTags: [
     "LitRPG",

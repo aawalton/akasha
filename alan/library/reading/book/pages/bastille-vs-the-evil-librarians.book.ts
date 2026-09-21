@@ -6,7 +6,7 @@ export const bastilleVsTheEvilLibrarians = {
   slug: "bastille-vs-the-evil-librarians",
   title: "Bastille vs the Evil Librarians",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 6,

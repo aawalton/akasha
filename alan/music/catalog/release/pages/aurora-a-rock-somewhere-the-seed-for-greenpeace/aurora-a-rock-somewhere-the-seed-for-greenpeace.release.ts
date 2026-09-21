@@ -9,7 +9,7 @@ export const auroraARockSomewhereTheSeedForGreenpeace = {
   partOfCollections: ["artist/aurora"],
   position: 0,
   publishedAt: "2025-06-25",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

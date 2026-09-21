@@ -6,7 +6,7 @@ export const pilotLectureTheHagiaSophiaAndTheBlueMosque = {
   slug: "pilot-lecture-the-hagia-sophia-and-the-blue-mosque",
   title: "Pilot Lecture: The Hagia Sophia and the Blue Mosque",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 28.8,
   ownProgress: 28.8,

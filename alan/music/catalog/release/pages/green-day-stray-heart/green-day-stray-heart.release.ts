@@ -11,7 +11,7 @@ export const greenDayStrayHeart = {
   ownProgress: 3.739333,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-10-15",
   externalIdentity: [
     {

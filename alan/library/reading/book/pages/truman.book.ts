@@ -6,7 +6,7 @@ export const truman = {
   slug: "truman",
   title: "Truman",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "David McCullough",
   unit: "unit/words",
   position: 3,

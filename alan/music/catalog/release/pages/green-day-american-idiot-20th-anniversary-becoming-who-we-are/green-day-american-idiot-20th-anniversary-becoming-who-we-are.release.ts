@@ -11,7 +11,7 @@ export const greenDayAmericanIdiot20thAnniversaryBecomingWhoWeAre = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2024-09-06",
   externalIdentity: [
     {

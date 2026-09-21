@@ -6,7 +6,7 @@ export const wheelOfTimeTheGreatHunt = {
   slug: "wheel-of-time-the-great-hunt",
   title: "Wheel of Time: The Great Hunt",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 2,

@@ -6,7 +6,7 @@ export const pilotLectureHowTheGlobalEconomyWorks = {
   slug: "pilot-lecture-how-the-global-economy-works",
   title: "Pilot Lecture: How the Global Economy Works",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

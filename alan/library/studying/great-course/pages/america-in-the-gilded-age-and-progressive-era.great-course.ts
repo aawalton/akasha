@@ -6,7 +6,7 @@ export const americaInTheGildedAgeAndProgressiveEra = {
   slug: "america-in-the-gilded-age-and-progressive-era",
   title: "America in the Gilded Age and Progressive Era",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 729,
   ownProgress: 729,

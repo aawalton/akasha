@@ -8,7 +8,7 @@ export const enya = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "A",
+  grade: "A",
   status: "following",
   tags: ["Celtic"],
   unit: "unit/minutes",

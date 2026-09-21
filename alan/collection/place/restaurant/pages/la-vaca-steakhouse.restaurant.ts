@@ -11,5 +11,5 @@ export const laVacaSteakhouse = {
   ownProgress: 22500,
   unit: "unit/words",
   status: "not-started",
-  rank: "A",
+  grade: "A",
 } as const satisfies Restaurant

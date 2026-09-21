@@ -9,7 +9,7 @@ export const billieEilishHitMeHardAndSoft = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2024-05-17",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

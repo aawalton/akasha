@@ -11,7 +11,7 @@ export const kpopDemonHuntersCast = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "S",
+  grade: "S",
   externalIdentity: [
     {
       source: "spotify",

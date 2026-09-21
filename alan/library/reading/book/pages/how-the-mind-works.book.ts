@@ -6,7 +6,7 @@ export const howTheMindWorks = {
   slug: "how-the-mind-works",
   title: "How the Mind Works",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Steven Pinker, Mel Foster, 3",
   unit: "unit/words",
   ownLength: 391200,

@@ -6,7 +6,7 @@ export const blackInventors = {
   slug: "black-inventors",
   title: "Black Inventors",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 30.6,
   ownProgress: 30.6,

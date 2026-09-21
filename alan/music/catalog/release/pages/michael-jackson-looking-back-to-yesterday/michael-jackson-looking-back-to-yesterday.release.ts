@@ -11,7 +11,7 @@ export const michaelJacksonLookingBackToYesterday = {
   ownProgress: 36.833933,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1986-02-11",
   externalIdentity: [
     {

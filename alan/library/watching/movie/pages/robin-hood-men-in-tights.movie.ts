@@ -11,7 +11,7 @@ export const robinHoodMenInTights = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1993-07-28",
   externalIdentity: [
     {

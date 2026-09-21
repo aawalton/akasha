@@ -11,7 +11,7 @@ export const greenDayWakeMeUpWhenSeptemberEndsLiveAtFoxboroMa9305 = {
   ownProgress: 5.68,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2005-09-27",
   externalIdentity: [
     {

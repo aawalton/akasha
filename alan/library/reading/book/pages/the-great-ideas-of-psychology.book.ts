@@ -6,7 +6,7 @@ export const theGreatIdeasOfPsychology = {
   slug: "the-great-ideas-of-psychology",
   title: "The Great Ideas of Psychology",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   ownLength: 351750,
   ownProgress: 351750,

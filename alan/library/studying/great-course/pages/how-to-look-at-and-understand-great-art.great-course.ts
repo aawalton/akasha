@@ -6,7 +6,7 @@ export const howToLookAtAndUnderstandGreatArt = {
   slug: "how-to-look-at-and-understand-great-art",
   title: "How to Look at and Understand Great Art",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1106.4,
   ownProgress: 1106.4,

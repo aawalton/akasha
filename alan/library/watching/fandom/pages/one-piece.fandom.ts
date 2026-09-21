@@ -11,7 +11,7 @@ export const onePiece = {
   ownProgress: 0,
   unit: "unit/words",
   status: "paused",
-  rank: "B",
+  grade: "B",
   publishedAt: "1999-10-20",
   externalIdentity: [
     {

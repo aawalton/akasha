@@ -11,7 +11,7 @@ export const greenDayWarning = {
   ownProgress: 41.153267,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2000-10-03",
   externalIdentity: [
     {

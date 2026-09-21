@@ -6,7 +6,7 @@ export const wheelOfTimeCrossroadsOfTwilight = {
   slug: "wheel-of-time-crossroads-of-twilight",
   title: "Wheel of Time: Crossroads of Twilight",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 10,

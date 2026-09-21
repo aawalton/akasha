@@ -6,7 +6,7 @@ export const patternmakingBasicsTheBodiceSloper = {
   slug: "patternmaking-basics-the-bodice-sloper",
   title: "Patternmaking Basics: The Bodice Sloper",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 306,
   ownProgress: 306,

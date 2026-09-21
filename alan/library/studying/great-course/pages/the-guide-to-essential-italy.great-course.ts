@@ -6,7 +6,7 @@ export const theGuideToEssentialItaly = {
   slug: "the-guide-to-essential-italy",
   title: "The Guide to Essential Italy",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1080,
   ownProgress: 1080,

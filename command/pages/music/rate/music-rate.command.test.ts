@@ -128,7 +128,7 @@ test("a call naming no tag leaves the tags carried as they are", () => {
 test("the values carry a track's grade under the name a song carries it under", () => {
   const held = takingOf(["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "S"])
   expect(held.target).toBe(TRACK)
-  expect(valuesFor({ slug: TRACK_SLUG }, held)["rank"]).toBe("S")
+  expect(valuesFor({ slug: TRACK_SLUG }, held)["grade"]).toBe("S")
 })
 
 test("a track named by its slug is written the way a song named by its slug is", async () => {
@@ -143,7 +143,7 @@ test("a track named by its slug is written the way a song named by its slug is",
   if (one === undefined) throw new Error("the landing was never reached")
   expect(pathsIn(one.asked)).toEqual([TRACK_AT])
   const written = one.asked[0]?.given
-  expect(written !== undefined && "body" in written ? written.body : "").toContain('rank: "S"')
+  expect(written !== undefined && "body" in written ? written.body : "").toContain('grade: "S"')
 })
 
 test("a call naming no slug is refused", () => {
@@ -228,7 +228,7 @@ test("one call grades what is playing without naming any page", async () => {
   expect(pathsIn(one.asked)).toEqual([TRACK_AT])
   const written = one.asked[0]?.given
   const body = written !== undefined && "body" in written ? written.body : ""
-  expect(body).toContain('rank: "S+"')
+  expect(body).toContain('grade: "S+"')
   expect(body).toContain('tags: ["attraction"]')
 })
 
@@ -324,7 +324,7 @@ test("the values carry the grade and mark the prose beside the page", () => {
   ])
   const values = valuesFor({ slug: "mitski-nobody", title: "Nobody" }, held)
   expect(values["title"]).toBe("Nobody")
-  expect(values["rank"]).toBe("A")
+  expect(values["grade"]).toBe("A")
   expect(values["personalConnections"]).toBe("txt")
 })
 

@@ -6,7 +6,7 @@ export const professionalYarnDyeingAtHome = {
   slug: "professional-yarn-dyeing-at-home",
   title: "Professional Yarn Dyeing at Home",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 105.6,
   ownProgress: 105.6,

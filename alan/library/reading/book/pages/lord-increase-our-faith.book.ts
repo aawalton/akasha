@@ -6,7 +6,7 @@ export const lordIncreaseOurFaith = {
   slug: "lord-increase-our-faith",
   title: "Lord, Increase Our Faith",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 2,

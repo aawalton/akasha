@@ -11,7 +11,7 @@ export const theLordOfTheRingsTheTwoTowers = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2002-12-18",
   externalIdentity: [
     {

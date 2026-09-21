@@ -6,7 +6,7 @@ export const theArtOfVideoStorytelling = {
   slug: "the-art-of-video-storytelling",
   title: "The Art of Video Storytelling",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 304.2,
   ownProgress: 304.2,

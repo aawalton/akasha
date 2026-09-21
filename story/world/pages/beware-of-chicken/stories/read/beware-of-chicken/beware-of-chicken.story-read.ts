@@ -14,7 +14,7 @@ export const bewareOfChicken = {
     },
   ],
   author: "Casualfarmer",
-  rank: "A",
+  grade: "A",
   following: true,
   externalTags: [
     "Portal Fantasy / Isekai",

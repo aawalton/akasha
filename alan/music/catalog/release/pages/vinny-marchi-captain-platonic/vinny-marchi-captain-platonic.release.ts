@@ -9,7 +9,7 @@ export const vinnyMarchiCaptainPlatonic = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-04-26",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -6,7 +6,7 @@ export const gettingStartedWithColoredPencilAndWatercolor = {
   slug: "getting-started-with-colored-pencil-and-watercolor",
   title: "Getting Started With Colored Pencil & Watercolor",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 132.6,
   ownProgress: 132.6,

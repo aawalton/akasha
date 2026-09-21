@@ -6,7 +6,7 @@ export const pilotLectureBusinessEtiquetteForTheVirtualWorld = {
   slug: "pilot-lecture-business-etiquette-for-the-virtual-world",
   title: "Pilot Lecture: Business Etiquette for the Virtual World",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 30,

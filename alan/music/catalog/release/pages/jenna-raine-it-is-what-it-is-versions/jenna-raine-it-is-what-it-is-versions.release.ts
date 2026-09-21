@@ -11,7 +11,7 @@ export const jennaRaineItIsWhatItIsVersions = {
   ownProgress: 4.675433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-07-21",
   externalIdentity: [
     {

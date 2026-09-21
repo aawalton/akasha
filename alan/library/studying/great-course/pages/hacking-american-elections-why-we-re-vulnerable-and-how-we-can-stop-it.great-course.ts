@@ -6,7 +6,7 @@ export const hackingAmericanElectionsWhyWeReVulnerableAndHowWeCanStopIt = {
   slug: "hacking-american-elections-why-we-re-vulnerable-and-how-we-can-stop-it",
   title: "Hacking American Elections: Why We’re Vulnerable, and How We Can Stop It",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 34.2,
   ownProgress: 34.2,

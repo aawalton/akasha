@@ -6,7 +6,7 @@ export const mythsLiesAndHalfTruthsOfLanguageUsage = {
   slug: "myths-lies-and-half-truths-of-language-usage",
   title: "Myths, Lies, and Half-Truths of Language Usage",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 732,
   ownProgress: 732,

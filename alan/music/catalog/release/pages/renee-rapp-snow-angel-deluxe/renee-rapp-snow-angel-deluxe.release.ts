@@ -11,7 +11,7 @@ export const reneeRappSnowAngelDeluxe = {
   ownProgress: 48.696117,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-11-17",
   externalIdentity: [
     {

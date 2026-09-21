@@ -6,7 +6,7 @@ export const deliciousDishesForEverySeasonWinter = {
   slug: "delicious-dishes-for-every-season-winter",
   title: "Delicious Dishes for Every Season: Winter",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 57,
   ownProgress: 57,

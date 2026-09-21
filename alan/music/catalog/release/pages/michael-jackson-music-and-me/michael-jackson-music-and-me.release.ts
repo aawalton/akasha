@@ -11,7 +11,7 @@ export const michaelJacksonMusicAndMe = {
   ownProgress: 32.238617,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1973-08-13",
   externalIdentity: [
     {

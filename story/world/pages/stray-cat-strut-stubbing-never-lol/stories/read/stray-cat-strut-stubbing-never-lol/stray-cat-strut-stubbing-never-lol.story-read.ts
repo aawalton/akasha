@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol = {
   type: "page-type/story-read",
   slug: "stray-cat-strut-stubbing-never-lol",
   ownProgress: 10375,
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Stray Cat Strut",
   world: "world/stray-cat-strut-stubbing-never-lol",

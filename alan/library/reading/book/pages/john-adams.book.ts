@@ -6,7 +6,7 @@ export const johnAdams = {
   slug: "john-adams",
   title: "John Adams",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "David McCullough",
   unit: "unit/words",
   position: 2,

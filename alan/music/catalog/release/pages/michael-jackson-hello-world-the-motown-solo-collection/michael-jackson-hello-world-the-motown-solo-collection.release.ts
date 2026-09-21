@@ -11,7 +11,7 @@ export const michaelJacksonHelloWorldTheMotownSoloCollection = {
   ownProgress: 233.57895,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-09-01",
   externalIdentity: [
     {

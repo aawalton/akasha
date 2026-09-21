@@ -6,7 +6,7 @@ export const pilotLectureCatherineTheGreat = {
   slug: "pilot-lecture-catherine-the-great",
   title: "Pilot Lecture: Catherine the Great",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 23.4,
   ownProgress: 23.4,

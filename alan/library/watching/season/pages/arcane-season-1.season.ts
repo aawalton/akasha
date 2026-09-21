@@ -11,7 +11,7 @@ export const arcaneSeason1 = {
   ownProgress: 379.2,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2021-11-06",
   externalIdentity: [
     {

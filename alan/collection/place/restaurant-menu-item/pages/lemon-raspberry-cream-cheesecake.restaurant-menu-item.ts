@@ -11,5 +11,5 @@ export const lemonRaspberryCreamCheesecake = {
   ownProgress: 3750,
   unit: "unit/words",
   status: "completed",
-  rank: "B",
+  grade: "B",
 } as const satisfies RestaurantMenuItem

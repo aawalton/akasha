@@ -11,5 +11,5 @@ export const harryPotterMovies = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "B",
+  grade: "B",
 } as const satisfies ShowCollection

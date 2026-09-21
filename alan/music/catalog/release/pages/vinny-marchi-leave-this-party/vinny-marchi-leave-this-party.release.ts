@@ -9,7 +9,7 @@ export const vinnyMarchiLeaveThisParty = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-02-09",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

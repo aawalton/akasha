@@ -6,7 +6,7 @@ export const cakeLogisticsFromStartToFinish = {
   slug: "cake-logistics-from-start-to-finish",
   title: "Cake Logistics From Start to Finish",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 97.8,
   ownProgress: 97.8,

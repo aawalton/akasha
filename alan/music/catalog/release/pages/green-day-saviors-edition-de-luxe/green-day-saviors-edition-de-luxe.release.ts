@@ -11,7 +11,7 @@ export const greenDaySaviorsEditionDeLuxe = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-08-29",
   externalIdentity: [
     {

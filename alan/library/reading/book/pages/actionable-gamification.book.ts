@@ -6,7 +6,7 @@ export const actionableGamification = {
   slug: "actionable-gamification",
   title: "Actionable Gamification",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Yu-kai Chou",
   unit: "unit/words",
   position: 1,

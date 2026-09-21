@@ -6,7 +6,7 @@ export const homemadeHolidayBreads = {
   slug: "homemade-holiday-breads",
   title: "Homemade Holiday Breads",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 119.4,
   ownProgress: 119.4,

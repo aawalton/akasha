@@ -11,7 +11,7 @@ export const greenDayHereComesTheShock = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-02-21",
   externalIdentity: [
     {

@@ -11,5 +11,5 @@ export const theCollectedWordsOfNealAMaxwellVolume6 = {
   ownProgress: 0,
   unit: "unit/words",
   status: "completed",
-  rank: "C",
+  grade: "C",
 } as const satisfies BookCollection

@@ -11,5 +11,5 @@ export const theLordOfTheRingsShows = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "A",
+  grade: "A",
 } as const satisfies ShowCollection

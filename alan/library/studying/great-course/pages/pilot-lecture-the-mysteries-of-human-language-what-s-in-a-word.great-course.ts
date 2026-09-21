@@ -6,7 +6,7 @@ export const pilotLectureTheMysteriesOfHumanLanguageWhatSInAWord = {
   slug: "pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
   title: "Pilot Lecture: The Mysteries of Human Language—What’s in a Word?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 28.8,
   ownProgress: 28.8,

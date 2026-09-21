@@ -6,7 +6,7 @@ export const handAppliedFinishing = {
   slug: "hand-applied-finishing",
   title: "Hand-Applied Finishing",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 141.6,
   ownProgress: 141.6,

@@ -9,7 +9,7 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2023-07-13",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

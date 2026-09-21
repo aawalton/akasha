@@ -6,7 +6,7 @@ export const understandingTheWorldSGreatestStructures = {
   slug: "understanding-the-world-s-greatest-structures",
   title: "Understanding the World's Greatest Structures",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 765.6,
   ownProgress: 765.6,

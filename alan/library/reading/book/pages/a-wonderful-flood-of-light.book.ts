@@ -6,7 +6,7 @@ export const aWonderfulFloodOfLight = {
   slug: "a-wonderful-flood-of-light",
   title: "A Wonderful Flood of Light",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 4,

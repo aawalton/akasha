@@ -11,7 +11,7 @@ export const greenDay21GunsEp = {
   ownProgress: 15.087983,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2010-01-26",
   externalIdentity: [
     {

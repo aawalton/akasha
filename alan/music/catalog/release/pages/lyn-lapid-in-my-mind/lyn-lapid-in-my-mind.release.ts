@@ -11,7 +11,7 @@ export const lynLapidInMyMind = {
   ownProgress: 14.943733,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-10-01",
   externalIdentity: [
     {

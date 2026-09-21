@@ -6,7 +6,7 @@ export const giftableProjectsZipperedBagsAndPurseOrganizer = {
   slug: "giftable-projects-zippered-bags-and-purse-organizer",
   title: "Giftable Projects: Zippered Bags & Purse Organizer",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 145.8,
   ownProgress: 145.8,

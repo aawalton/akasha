@@ -6,7 +6,7 @@ export const amigurumiWoodlandAnimals = {
   slug: "amigurumi-woodland-animals",
   title: "Amigurumi: Woodland Animals",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 287.4,
   ownProgress: 287.4,

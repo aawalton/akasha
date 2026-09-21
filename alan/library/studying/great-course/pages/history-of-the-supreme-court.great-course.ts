@@ -6,7 +6,7 @@ export const historyOfTheSupremeCourt = {
   slug: "history-of-the-supreme-court",
   title: "History of the Supreme Court",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1089,
   ownProgress: 1089,

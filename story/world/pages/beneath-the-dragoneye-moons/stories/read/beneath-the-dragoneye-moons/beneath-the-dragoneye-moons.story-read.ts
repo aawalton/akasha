@@ -14,7 +14,7 @@ export const beneathTheDragoneyeMoons = {
     },
   ],
   author: "Selkie",
-  rank: "A",
+  grade: "A",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

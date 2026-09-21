@@ -6,7 +6,7 @@ export const nationalGeographicMastersOfPhotography = {
   slug: "national-geographic-masters-of-photography",
   title: "National Geographic Masters of Photography",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 766.8,
   ownProgress: 766.8,

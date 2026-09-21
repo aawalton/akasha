@@ -9,7 +9,7 @@ export const vinnyMarchiISeeFire = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-03-08",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

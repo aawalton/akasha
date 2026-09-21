@@ -6,7 +6,7 @@ export const interconnectedThePastPresentAndFutureOfTheInternet = {
   slug: "interconnected-the-past-present-and-future-of-the-internet",
   title: "Interconnected: The Past, Present, and Future of the Internet",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 108,
   ownProgress: 108,

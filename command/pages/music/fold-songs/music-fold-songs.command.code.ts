@@ -47,7 +47,7 @@ const IDENTITY = "externalIdentity"
 
 const WORK_PATH = "/work/"
 
-const OWN = ["singability", "insights", "personalConnections", "reaction", "rank", "tags"] as const
+const OWN = ["singability", "insights", "personalConnections", "reaction", "grade", "tags"] as const
 
 const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
@@ -80,10 +80,7 @@ export type Folding = {
   readonly held: readonly string[]
 }
 
-export function taken(
-  argv: readonly string[],
-  calledAs: string
-): Taken | { readonly refused: string } {
+function taken(argv: readonly string[], calledAs: string): Taken | { readonly refused: string } {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused.join(" ") }
   return { json: read.taken.json }
@@ -106,7 +103,7 @@ export function keptOf(held: readonly Held[]): Held | null {
   )
 }
 
-export function workIdIn(value: Value): string | null {
+function workIdIn(value: Value): string | null {
   for (const one of recordsIn(value[IDENTITY])) {
     const link = textIn(one, "externalLink")
     const said = textIn(one, "externalId")
@@ -134,7 +131,7 @@ function rootKey(up: ReadonlyMap<string, string>, key: string): string {
   }
 }
 
-export function groupedIn(root: string): ReadonlyMap<string, readonly Held[]> {
+function groupedIn(root: string): ReadonlyMap<string, readonly Held[]> {
   const up = new Map<string, string>()
   const rows: { readonly key: string; readonly held: Held }[] = []
   for (const one of valuesOfType(root, SONG)) {
@@ -179,7 +176,7 @@ export function partedOver(keep: Held, each: readonly Held[]): Value | null {
   return { ...keep.value, [PART_OF]: [...under].map((one) => `${UNDER_ARTIST}${one}`) }
 }
 
-export function foldingIn(root: string): Folding {
+function foldingIn(root: string): Folding {
   const groups = groupedIn(root)
   const source = sourceFor(root)
   const gone = new Map<string, { readonly keep: string; readonly path: string }>()
@@ -228,7 +225,7 @@ export function foldingIn(root: string): Folding {
   }
 }
 
-export function rowsOf(counts: Counted): readonly string[] {
+function rowsOf(counts: Counted): readonly string[] {
   return [
     `songs\t${counts.songs}`,
     `groups\t${counts.groups}`,
@@ -239,7 +236,7 @@ export function rowsOf(counts: Counted): readonly string[] {
   ]
 }
 
-export function messageOf(counts: Counted): string {
+function messageOf(counts: Counted): string {
   return (
     `fold ${counts.folded} song(s) into the ${counts.groups} composition(s) they are versions of, ` +
     `and put ${counts.joined} of those under every artist performing them`

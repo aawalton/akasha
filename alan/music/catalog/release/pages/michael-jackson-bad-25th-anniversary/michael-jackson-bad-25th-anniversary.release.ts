@@ -11,7 +11,7 @@ export const michaelJacksonBad25thAnniversary = {
   ownProgress: 107.368133,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-09-18",
   externalIdentity: [
     {

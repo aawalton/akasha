@@ -11,7 +11,7 @@ export const yaelokreOrigins = {
   ownProgress: 10.5081,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-10-23",
   externalIdentity: [
     {

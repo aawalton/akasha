@@ -6,7 +6,7 @@ export const pilotLectureTheArtOfLeadershipAbrahamLincoln = {
   slug: "pilot-lecture-the-art-of-leadership-abraham-lincoln",
   title: "Pilot Lecture: The Art of Leadership—Abraham Lincoln",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

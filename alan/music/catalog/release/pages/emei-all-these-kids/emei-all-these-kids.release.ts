@@ -9,7 +9,7 @@ export const emeiAllTheseKids = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2024-09-20",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

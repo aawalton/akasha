@@ -11,7 +11,7 @@ export const phoebeBridgersKyotoTheMariasRemix = {
   ownProgress: 3.638217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-08-19",
   externalIdentity: [
     {

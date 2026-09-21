@@ -6,7 +6,7 @@ export const aHistorianGoesToTheMoviesGladiatorFactVsFiction = {
   slug: "a-historian-goes-to-the-movies-gladiator-fact-vs-fiction",
   title: "A Historian Goes to the Movies: Gladiator Fact vs. Fiction",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 42.6,
   ownProgress: 42.6,

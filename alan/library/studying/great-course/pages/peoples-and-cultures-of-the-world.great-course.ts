@@ -6,7 +6,7 @@ export const peoplesAndCulturesOfTheWorld = {
   slug: "peoples-and-cultures-of-the-world",
   title: "Peoples and Cultures of the World",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 723.6,
   ownProgress: 723.6,

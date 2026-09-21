@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld6Plato = {
   slug: "the-great-books-of-the-western-world-6-plato",
   title: "The Great Books of the Western World 6: Plato",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Plato",
   unit: "unit/words",
   position: 6,

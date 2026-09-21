@@ -6,7 +6,7 @@ export const bobKristSOffTheBeatenPath = {
   slug: "bob-krist-s-off-the-beaten-path",
   title: "Bob Krist’s Off the Beaten Path",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 232.2,
   ownProgress: 232.2,

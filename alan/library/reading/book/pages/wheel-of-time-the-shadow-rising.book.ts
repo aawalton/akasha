@@ -6,7 +6,7 @@ export const wheelOfTimeTheShadowRising = {
   slug: "wheel-of-time-the-shadow-rising",
   title: "Wheel of Time: The Shadow Rising",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 4,

@@ -14,7 +14,7 @@ export const bunnyGirlEvolution = {
     },
   ],
   author: "Bedivere the Mad",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

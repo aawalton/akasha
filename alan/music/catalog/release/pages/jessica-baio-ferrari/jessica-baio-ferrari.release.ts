@@ -11,7 +11,7 @@ export const jessicaBaioFerrari = {
   ownProgress: 9.127933,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-09-26",
   externalIdentity: [
     {

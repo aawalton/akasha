@@ -6,7 +6,7 @@ export const dutchMastersTheAgeOfRembrandt = {
   slug: "dutch-masters-the-age-of-rembrandt",
   title: "Dutch Masters: The Age of Rembrandt",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1083,
   ownProgress: 1083,

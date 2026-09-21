@@ -6,7 +6,7 @@ export const thisDayInHistoryJanuary = {
   slug: "this-day-in-history-january",
   title: "This Day in History: January",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 76.8,
   ownProgress: 76.8,

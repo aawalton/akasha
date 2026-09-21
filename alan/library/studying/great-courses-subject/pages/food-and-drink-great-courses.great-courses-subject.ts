@@ -6,7 +6,7 @@ export const foodAndDrinkGreatCourses = {
   slug: "food-and-drink-great-courses",
   title: "Food & Drink Great Courses",
   status: "in-progress",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   partOfCollections: ["great-courses-collection/great-courses-by-subject"],
   externalIdentity: [

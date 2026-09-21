@@ -6,7 +6,7 @@ export const pilotLectureHistoryOfRace = {
   slug: "pilot-lecture-history-of-race",
   title: "Pilot Lecture: History of Race",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 37.8,
   ownProgress: 37.8,

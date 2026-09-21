@@ -6,7 +6,7 @@ export const storiesOfAmericaSNationalParks = {
   slug: "stories-of-america-s-national-parks",
   title: "Stories of America’s National Parks",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 355.2,
   ownProgress: 355.2,

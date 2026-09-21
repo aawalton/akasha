@@ -11,7 +11,7 @@ export const phoebeBridgersKyotoBarteesStrangeRemix = {
   ownProgress: 2.778433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-08-19",
   externalIdentity: [
     {

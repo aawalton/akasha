@@ -6,7 +6,7 @@ export const howToRaiseLifelongLearners = {
   slug: "how-to-raise-lifelong-learners",
   title: "How to Raise Lifelong Learners",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 165,
   ownProgress: 165,

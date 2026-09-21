@@ -9,7 +9,7 @@ export const billieEilishBellyacheMarianHillRemix = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2017-05-05",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

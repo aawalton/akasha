@@ -6,7 +6,7 @@ export const coloredPencilBasics = {
   slug: "colored-pencil-basics",
   title: "Colored Pencil Basics",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 643.2,
   ownProgress: 643.2,

@@ -6,7 +6,7 @@ export const theEverydayGuideToSpiritsAndCocktailsTastesAndTraditions = {
   slug: "the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
   title: "The Everyday Guide to Spirits and Cocktails: Tastes and Traditions",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 252,
   ownProgress: 252,

@@ -6,7 +6,7 @@ export const thatYeMayBelieve = {
   slug: "that-ye-may-believe",
   title: "That Ye May Believe",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "David Keppel",
   unit: "unit/words",
   position: 1,

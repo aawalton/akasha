@@ -6,7 +6,7 @@ export const sketchingPeoplePlacesAndLandscapes = {
   slug: "sketching-people-places-and-landscapes",
   title: "Sketching People, Places, and Landscapes",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 763.2,
   ownProgress: 763.2,

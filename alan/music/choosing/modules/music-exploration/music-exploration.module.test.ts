@@ -50,7 +50,7 @@ describe("selectNextSong", () => {
     const held = catalog(
       [artist("queen")],
       [
-        song("queen-one", "queen", { title: "Any Way You Like It", rank: "A" }),
+        song("queen-one", "queen", { title: "Any Way You Like It", grade: "A" }),
         song("queen-two", "queen", { title: "Bicycle Race" }),
       ]
     )
@@ -82,7 +82,7 @@ describe("selectNextSong", () => {
   test("offers nothing where every song is graded", () => {
     const held = catalog(
       [artist("queen")],
-      [song("queen-one", "queen", { title: "One", rank: "C" })]
+      [song("queen-one", "queen", { title: "One", grade: "C" })]
     )
     expect(selectNextSong(held, "queen")).toBeNull()
   })
@@ -104,7 +104,7 @@ describe("selectNextSong", () => {
     expect(first?.slug).toBe("queen-one")
     const graded = catalog(held.artists, [
       song("queen-one", "queen", { title: "Under Pressure" }),
-      song("queen-one-2", "queen", { title: "under, pressure!", rank: "A" }),
+      song("queen-one-2", "queen", { title: "under, pressure!", grade: "A" }),
       song("queen-two", "queen", { title: "Zed" }),
     ])
     expect(selectNextSong(graded, "queen")?.slug).toBe("queen-two")
@@ -114,7 +114,7 @@ describe("selectNextSong", () => {
     const held = catalog(
       [artist("queen")],
       [
-        song("queen-one", "queen", { title: "Under Pressure", rank: "S" }),
+        song("queen-one", "queen", { title: "Under Pressure", grade: "S" }),
         song("queen-one-2", "queen", { title: "Under Pressure" }),
       ]
     )
@@ -134,7 +134,7 @@ describe("selectNextSong", () => {
 describe("selectNextArtist", () => {
   test("offers nothing where every artist is graded", () => {
     const held = catalog(
-      [artist("queen", { rank: "A" })],
+      [artist("queen", { grade: "A" })],
       [song("queen-one", "queen", { title: "One" })]
     )
     expect(selectNextArtist(held)).toBeNull()
@@ -144,7 +144,7 @@ describe("selectNextArtist", () => {
     const held = catalog(
       [artist("queen"), artist("bowie")],
       [
-        song("queen-one", "queen", { title: "One", rank: "F" }),
+        song("queen-one", "queen", { title: "One", grade: "F" }),
         song("queen-two", "queen", { title: "Two" }),
         song("bowie-one", "bowie", { title: "Heroes" }),
       ]
@@ -168,7 +168,7 @@ describe("selectNextArtist", () => {
   test("prefers the new artist whose genres are most like a loved artist's", () => {
     const held = catalog(
       [
-        artist("loved", { title: "Loved", rank: "A", genre: ["indie", "folk"] }),
+        artist("loved", { title: "Loved", grade: "A", genre: ["indie", "folk"] }),
         artist("zed", { title: "Zed", genre: ["indie", "folk"] }),
         artist("abe", { title: "Abe", genre: ["metal"] }),
       ],
@@ -184,8 +184,8 @@ describe("selectNextArtist", () => {
   test("settles a likeness tie by how many loved genres the artist names", () => {
     const held = catalog(
       [
-        artist("lovedone", { title: "Loved One", rank: "A", genre: ["indie"] }),
-        artist("lovedtwo", { title: "Loved Two", rank: "A", genre: ["folk"] }),
+        artist("lovedone", { title: "Loved One", grade: "A", genre: ["indie"] }),
+        artist("lovedtwo", { title: "Loved Two", grade: "A", genre: ["folk"] }),
         artist("zed", { title: "Zed", genre: ["indie", "folk"] }),
         artist("abe", { title: "Abe", genre: ["indie", "metal"] }),
       ],
@@ -203,7 +203,7 @@ describe("selectNextArtist", () => {
 describe("selectNextExploration", () => {
   test("prefers a song by a liked artist over a new artist", () => {
     const held = catalog(
-      [artist("loved", { title: "Loved", rank: "B+" }), artist("fresh", { title: "Fresh" })],
+      [artist("loved", { title: "Loved", grade: "B+" }), artist("fresh", { title: "Fresh" })],
       [song("loved-one", "loved", { title: "One" }), song("fresh-one", "fresh", { title: "One" })]
     )
     const answer = selectNextExploration(held)
@@ -217,7 +217,7 @@ describe("selectNextExploration", () => {
     const held = catalog(
       [artist("loved", { title: "Loved" }), artist("fresh", { title: "Fresh" })],
       [
-        song("loved-one", "loved", { title: "One", rank: "A" }),
+        song("loved-one", "loved", { title: "One", grade: "A" }),
         song("loved-two", "loved", { title: "Two" }),
         song("fresh-one", "fresh", { title: "One" }),
       ]
@@ -231,8 +231,8 @@ describe("selectNextExploration", () => {
   test("offers from the artist loved most", () => {
     const held = catalog(
       [
-        artist("lesser", { title: "Lesser", rank: "B-" }),
-        artist("greater", { title: "Greater", rank: "A" }),
+        artist("lesser", { title: "Lesser", grade: "B-" }),
+        artist("greater", { title: "Greater", grade: "A" }),
       ],
       [
         song("lesser-one", "lesser", { title: "One" }),
@@ -247,12 +247,12 @@ describe("selectNextExploration", () => {
   test("weighs an artist's own grade over their count of liked songs", () => {
     const held = catalog(
       [
-        artist("many", { title: "Many", rank: "B-" }),
-        artist("higher", { title: "Higher", rank: "B" }),
+        artist("many", { title: "Many", grade: "B-" }),
+        artist("higher", { title: "Higher", grade: "B" }),
       ],
       [
-        song("many-one", "many", { title: "One", rank: "S" }),
-        song("many-two", "many", { title: "Two", rank: "S" }),
+        song("many-one", "many", { title: "One", grade: "S" }),
+        song("many-two", "many", { title: "Two", grade: "S" }),
         song("many-three", "many", { title: "Three" }),
         song("higher-one", "higher", { title: "One" }),
       ]
@@ -264,9 +264,9 @@ describe("selectNextExploration", () => {
 
   test("answers with a new artist where no liked artist has a song left", () => {
     const held = catalog(
-      [artist("loved", { title: "Loved", rank: "A" }), artist("fresh", { title: "Fresh" })],
+      [artist("loved", { title: "Loved", grade: "A" }), artist("fresh", { title: "Fresh" })],
       [
-        song("loved-one", "loved", { title: "One", rank: "A" }),
+        song("loved-one", "loved", { title: "One", grade: "A" }),
         song("fresh-one", "fresh", { title: "One" }),
       ]
     )
@@ -279,8 +279,8 @@ describe("selectNextExploration", () => {
 
   test("answers exhausted where nothing is left to offer", () => {
     const held = catalog(
-      [artist("loved", { title: "Loved", rank: "A" })],
-      [song("loved-one", "loved", { title: "One", rank: "A" })]
+      [artist("loved", { title: "Loved", grade: "A" })],
+      [song("loved-one", "loved", { title: "One", grade: "A" })]
     )
     expect(selectNextExploration(held).kind).toBe("exhausted")
   })

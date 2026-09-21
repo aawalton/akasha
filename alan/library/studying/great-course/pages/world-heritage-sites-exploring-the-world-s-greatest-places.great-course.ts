@@ -6,7 +6,7 @@ export const worldHeritageSitesExploringTheWorldSGreatestPlaces = {
   slug: "world-heritage-sites-exploring-the-world-s-greatest-places",
   title: "World Heritage Sites: Exploring the World’s Greatest Places",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 714.6,
   ownProgress: 714.6,

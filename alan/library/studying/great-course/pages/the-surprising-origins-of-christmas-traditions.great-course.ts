@@ -6,7 +6,7 @@ export const theSurprisingOriginsOfChristmasTraditions = {
   slug: "the-surprising-origins-of-christmas-traditions",
   title: "The Surprising Origins of Christmas Traditions",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 52.2,
   ownProgress: 52.2,

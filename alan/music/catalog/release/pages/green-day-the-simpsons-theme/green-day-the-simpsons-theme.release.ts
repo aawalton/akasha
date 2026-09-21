@@ -11,7 +11,7 @@ export const greenDayTheSimpsonsTheme = {
   ownProgress: 1.390433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2007-07-23",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const mitskiGlideCover = {
   ownProgress: 3.686533,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-07-08",
   externalIdentity: [
     {

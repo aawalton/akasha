@@ -11,7 +11,7 @@ export const gracieAbramsMeanIt = {
   ownProgress: 2.8523,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-10-24",
   externalIdentity: [
     {

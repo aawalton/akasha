@@ -6,7 +6,7 @@ export const settingsForEveryShape = {
   slug: "settings-for-every-shape",
   title: "Settings for Every Shape",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 133.8,
   ownProgress: 133.8,

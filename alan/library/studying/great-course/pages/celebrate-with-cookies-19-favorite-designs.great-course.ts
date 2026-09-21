@@ -6,7 +6,7 @@ export const celebrateWithCookies19FavoriteDesigns = {
   slug: "celebrate-with-cookies-19-favorite-designs",
   title: "Celebrate With Cookies: 19 Favorite Designs",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 157.2,
   ownProgress: 157.2,

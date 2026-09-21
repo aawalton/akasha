@@ -6,7 +6,7 @@ export const pilotLectureThePopolVuhHeroesAndDeathLords = {
   slug: "pilot-lecture-the-popol-vuh-heroes-and-death-lords",
   title: "Pilot Lecture: The Popol Vuh - Heroes and Death Lords",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 25.8,
   ownProgress: 25.8,

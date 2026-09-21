@@ -6,7 +6,7 @@ export const anIntroductionToNumberTheory = {
   slug: "an-introduction-to-number-theory",
   title: "An Introduction to Number Theory",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 736.8,
   ownProgress: 736.8,

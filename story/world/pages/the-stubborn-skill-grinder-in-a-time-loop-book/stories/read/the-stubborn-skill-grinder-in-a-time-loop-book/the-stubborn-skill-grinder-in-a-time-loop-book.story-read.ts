@@ -15,7 +15,7 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
     },
   ],
   author: "X-RHODEN-X",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld3Homer = {
   slug: "the-great-books-of-the-western-world-3-homer",
   title: "The Great Books of the Western World 3: Homer",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Όμηρος",
   unit: "unit/words",
   position: 3,

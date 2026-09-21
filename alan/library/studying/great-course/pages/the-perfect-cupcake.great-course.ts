@@ -6,7 +6,7 @@ export const thePerfectCupcake = {
   slug: "the-perfect-cupcake",
   title: "The Perfect Cupcake",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 151.2,
   ownProgress: 151.2,

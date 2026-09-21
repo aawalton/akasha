@@ -6,7 +6,7 @@ export const languageAndSocietyWhatYourSpeechSaysAboutYou = {
   slug: "language-and-society-what-your-speech-says-about-you",
   title: "Language and Society: What Your Speech Says About You",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 715.2,
   ownProgress: 715.2,

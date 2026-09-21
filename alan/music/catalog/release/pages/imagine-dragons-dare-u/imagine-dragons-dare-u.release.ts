@@ -11,7 +11,7 @@ export const imagineDragonsDareU = {
   ownProgress: 2.365367,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-01-16",
   externalIdentity: [
     {

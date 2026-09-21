@@ -6,7 +6,7 @@ export const menWomenAndWorthiness = {
   slug: "men-women-and-worthiness",
   title: "Men, Women, and Worthiness",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brené Brown",
   unit: "unit/words",
   ownLength: 33450,

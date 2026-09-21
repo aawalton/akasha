@@ -6,7 +6,7 @@ export const startupLibraryLearnToDraw = {
   slug: "startup-library-learn-to-draw",
   title: "Startup Library: Learn to Draw",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 355.8,
   ownProgress: 355.8,

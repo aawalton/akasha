@@ -12,7 +12,7 @@ export const emBeihold = {
   unit: "unit/minutes",
   status: "following",
   genre: ["pop", "singer-songwriter", "teen pop"],
-  rank: "S-",
+  grade: "S-",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -11,7 +11,7 @@ export const mitskiLush = {
   ownProgress: 26.024167,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-01-31",
   externalIdentity: [
     {

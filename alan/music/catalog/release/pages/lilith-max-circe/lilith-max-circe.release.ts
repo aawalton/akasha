@@ -11,7 +11,7 @@ export const lilithMaxCirce = {
   ownProgress: 3.126367,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-08-08",
   externalIdentity: [
     {

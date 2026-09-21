@@ -11,7 +11,7 @@ export const lilithMaxInMemory = {
   ownProgress: 3.24215,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2020-12-11",
   externalIdentity: [
     {

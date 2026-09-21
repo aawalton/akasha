@@ -6,7 +6,7 @@ export const cookingBasicsWhatEveryoneShouldKnow = {
   slug: "cooking-basics-what-everyone-should-know",
   title: "Cooking Basics: What Everyone Should Know",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 789.6,
   ownProgress: 789.6,

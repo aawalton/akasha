@@ -6,7 +6,7 @@ export const wheelOfTimeTheEyeOfTheWorld = {
   slug: "wheel-of-time-the-eye-of-the-world",
   title: "Wheel of Time: The Eye of the World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 1,

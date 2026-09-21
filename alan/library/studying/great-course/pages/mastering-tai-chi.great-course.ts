@@ -6,7 +6,7 @@ export const masteringTaiChi = {
   slug: "mastering-tai-chi",
   title: "Mastering Tai Chi",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 751.8,
   ownProgress: 751.8,

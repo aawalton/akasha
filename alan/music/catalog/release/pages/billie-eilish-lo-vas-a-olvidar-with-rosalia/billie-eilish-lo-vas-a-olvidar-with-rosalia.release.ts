@@ -9,7 +9,7 @@ export const billieEilishLoVasAOlvidarWithRosalia = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2021-01-21",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

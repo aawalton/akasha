@@ -6,7 +6,7 @@ export const theCelticWorld = {
   slug: "the-celtic-world",
   title: "The Celtic World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 775.8,
   ownProgress: 775.8,

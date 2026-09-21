@@ -6,7 +6,7 @@ export const africaSCulinaryDiasporaInTheAmericas = {
   slug: "africa-s-culinary-diaspora-in-the-americas",
   title: "Africa’s Culinary Diaspora in the Americas",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 289.8,
   ownProgress: 289.8,

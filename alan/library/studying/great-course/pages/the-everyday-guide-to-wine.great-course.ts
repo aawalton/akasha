@@ -6,7 +6,7 @@ export const theEverydayGuideToWine = {
   slug: "the-everyday-guide-to-wine",
   title: "The Everyday Guide to Wine",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 752.4,
   ownProgress: 752.4,

@@ -6,7 +6,7 @@ export const crochetBasicsAndBeyond = {
   slug: "crochet-basics-and-beyond",
   title: "Crochet: Basics and Beyond",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 209.4,
   ownProgress: 209.4,

@@ -6,7 +6,7 @@ export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
   slug: "a-history-of-england-from-the-tudors-to-the-stuarts",
   title: "A History of England from the Tudors to the Stuarts",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1458,
   ownProgress: 1458,

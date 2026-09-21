@@ -6,7 +6,7 @@ export const theUltimateTShirtQuilt = {
   slug: "the-ultimate-t-shirt-quilt",
   title: "The Ultimate T-Shirt Quilt",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 147.6,
   ownProgress: 147.6,

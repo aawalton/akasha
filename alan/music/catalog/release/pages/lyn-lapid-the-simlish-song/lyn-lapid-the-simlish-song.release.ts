@@ -11,7 +11,7 @@ export const lynLapidTheSimlishSong = {
   ownProgress: 3.317467,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

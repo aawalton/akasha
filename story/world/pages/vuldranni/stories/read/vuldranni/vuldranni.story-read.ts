@@ -6,7 +6,7 @@ export const vuldranni = {
   slug: "vuldranni",
   title: "Vuldranni",
   world: "world/vuldranni",
-  rank: "B",
+  grade: "B",
   tags: ["Comedy"],
   unit: "unit/words",
 } as const satisfies StoryRead

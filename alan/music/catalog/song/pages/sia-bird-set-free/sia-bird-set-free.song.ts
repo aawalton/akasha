@@ -4,7 +4,7 @@ export const siaBirdSetFree = {
   id: "019ea4c3-812f-7eec-a581-bb0594330a90",
   type: "page-type/song",
   slug: "sia-bird-set-free",
-  rank: "S",
+  grade: "S",
   tags: ["masking"],
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const lynLapidDeathWish = {
   ownProgress: 2.841983,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-03-28",
   externalIdentity: [
     {

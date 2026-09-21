@@ -6,7 +6,7 @@ export const adobeLightroomClassicCcTheCompleteGuide = {
   slug: "adobe-lightroom-classic-cc-the-complete-guide",
   title: "Adobe Lightroom Classic CC: The Complete Guide",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1429.2,
   ownProgress: 1429.2,

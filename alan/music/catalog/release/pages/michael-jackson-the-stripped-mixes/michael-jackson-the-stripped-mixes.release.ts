@@ -11,7 +11,7 @@ export const michaelJacksonTheStrippedMixes = {
   ownProgress: 38.571317,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-07-28",
   externalIdentity: [
     {

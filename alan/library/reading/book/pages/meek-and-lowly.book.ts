@@ -6,7 +6,7 @@ export const meekAndLowly = {
   slug: "meek-and-lowly",
   title: "Meek and Lowly",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 2,

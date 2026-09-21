@@ -6,7 +6,7 @@ export const fundamentalsOfPhotography = {
   slug: "fundamentals-of-photography",
   title: "Fundamentals of Photography",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 756,
   ownProgress: 756,

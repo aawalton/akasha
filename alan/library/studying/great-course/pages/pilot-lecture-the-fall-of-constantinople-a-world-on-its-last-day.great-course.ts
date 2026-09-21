@@ -6,7 +6,7 @@ export const pilotLectureTheFallOfConstantinopleAWorldOnItsLastDay = {
   slug: "pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
   title: "Pilot Lecture: The Fall of Constantinople—A World on Its Last Day",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 27.6,
   ownProgress: 27.6,

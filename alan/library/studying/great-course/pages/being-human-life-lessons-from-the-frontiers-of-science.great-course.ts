@@ -6,7 +6,7 @@ export const beingHumanLifeLessonsFromTheFrontiersOfScience = {
   slug: "being-human-life-lessons-from-the-frontiers-of-science",
   title: "Being Human: Life Lessons from the Frontiers of Science",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 356.4,
   ownProgress: 356.4,

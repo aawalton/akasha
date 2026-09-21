@@ -5,7 +5,7 @@ export const godOfTrash = {
   type: "page-type/story-read",
   slug: "god-of-trash",
   ownProgress: 23215,
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "God of Trash",
   world: "world/god-of-trash",

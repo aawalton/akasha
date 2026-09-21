@@ -6,7 +6,7 @@ export const natureInWatercolorPaintingTrees = {
   slug: "nature-in-watercolor-painting-trees",
   title: "Nature in Watercolor: Painting Trees",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 151.2,
   ownProgress: 151.2,

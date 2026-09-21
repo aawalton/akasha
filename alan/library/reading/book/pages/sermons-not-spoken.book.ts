@@ -6,7 +6,7 @@ export const sermonsNotSpoken = {
   slug: "sermons-not-spoken",
   title: "Sermons Not Spoken",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 5,

@@ -13,7 +13,7 @@ export const treeTrilogy = {
       externalLink: "https://www.amazon.com/dp/B07PGLH5GW",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

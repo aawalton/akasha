@@ -4,7 +4,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   id: "01a0657d-ada5-7118-90a5-c56286b50e57",
   type: "page-type/story-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "The Magpie and The Archmage",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",

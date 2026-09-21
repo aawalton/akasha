@@ -26,11 +26,11 @@ const GIVEN: Given = {
 
 const CATALOG: Catalog = {
   artists: [
-    { slug: "loved-one", title: "Loved One", genre: ["pop"], rank: "A" },
+    { slug: "loved-one", title: "Loved One", genre: ["pop"], grade: "A" },
     { slug: "unknown-one", title: "Unknown One", genre: ["pop"] },
   ],
   songs: [
-    { slug: "loved-one-heard", title: "Heard", artist: "loved-one", performed: true, rank: "A" },
+    { slug: "loved-one-heard", title: "Heard", artist: "loved-one", performed: true, grade: "A" },
     { slug: "loved-one-unheard", title: "Unheard", artist: "loved-one", performed: true },
     { slug: "unknown-one-first", title: "First", artist: "unknown-one", performed: true },
   ],
@@ -84,26 +84,26 @@ test("a song reaches its artist whether or not it names that artist's page type"
 test("the grades on the pages reach the catalogue", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)
-  expect(catalog.artists.some((one) => one.rank !== undefined)).toBe(true)
-  expect(catalog.songs.some((one) => one.rank !== undefined)).toBe(true)
+  expect(catalog.artists.some((one) => one.grade !== undefined)).toBe(true)
+  expect(catalog.songs.some((one) => one.grade !== undefined)).toBe(true)
 })
 
 test("every grade read off a page is a rung of the ladder", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)
   const graded = [...catalog.artists, ...catalog.songs].flatMap((one) =>
-    one.rank === undefined ? [] : [one.rank]
+    one.grade === undefined ? [] : [one.grade]
   )
   expect(graded.length).toBeGreaterThan(0)
   expect(graded.every((one) => MUSIC_RATINGS.includes(one))).toBe(true)
 })
 
-test("a page type that declares no grade is named rather than read as ungraded", () => {
+test("a page type nothing is filed under is named rather than read as ungraded", () => {
   if (!indexThere(ROOT)) return
   expect(undeclaredIn(ROOT, "artist")).toBeNull()
   expect(undeclaredIn(ROOT, "song")).toBeNull()
   expect(gradeAmiss(ROOT)).toBeNull()
-  expect(undeclaredIn(ROOT, "seat")).toContain("declares no `rank`")
+  expect(undeclaredIn(ROOT, "seat")).toBeNull()
   expect(undeclaredIn(ROOT, "no-such-page-type")).toContain("names no page type")
 })
 

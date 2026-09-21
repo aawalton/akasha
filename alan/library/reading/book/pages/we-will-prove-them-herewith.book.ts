@@ -6,7 +6,7 @@ export const weWillProveThemHerewith = {
   slug: "we-will-prove-them-herewith",
   title: "We Will Prove Them Herewith",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell, Deseret Book Company",
   unit: "unit/words",
   position: 1,

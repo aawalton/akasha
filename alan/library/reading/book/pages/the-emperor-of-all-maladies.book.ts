@@ -6,7 +6,7 @@ export const theEmperorOfAllMaladies = {
   slug: "the-emperor-of-all-maladies",
   title: "The Emperor of All Maladies",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Siddhartha Mukherjee, Nessa Carey",
   unit: "unit/words",
   ownLength: 311250,

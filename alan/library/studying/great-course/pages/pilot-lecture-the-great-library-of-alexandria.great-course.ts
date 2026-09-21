@@ -6,7 +6,7 @@ export const pilotLectureTheGreatLibraryOfAlexandria = {
   slug: "pilot-lecture-the-great-library-of-alexandria",
   title: "Pilot Lecture: The Great Library of Alexandria",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 34.3,
   ownProgress: 34.3,

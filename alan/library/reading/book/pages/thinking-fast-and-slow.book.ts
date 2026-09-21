@@ -6,7 +6,7 @@ export const thinkingFastAndSlow = {
   slug: "thinking-fast-and-slow",
   title: "Thinking, Fast and Slow",
   status: "completed",
-  rank: "S",
+  grade: "S",
   author: "Daniel Kahneman, Daniel Kahneman",
   unit: "unit/words",
   ownLength: 300450,

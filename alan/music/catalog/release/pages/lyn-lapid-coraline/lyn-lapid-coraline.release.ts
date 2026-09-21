@@ -11,7 +11,7 @@ export const lynLapidCoraline = {
   ownProgress: 2.816883,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-01-31",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const whereOurFoodReallyComesFrom = {
   slug: "where-our-food-really-comes-from",
   title: "Where Our Food Really Comes From",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 193.8,
   ownProgress: 193.8,

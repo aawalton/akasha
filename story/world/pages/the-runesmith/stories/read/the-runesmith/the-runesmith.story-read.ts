@@ -4,7 +4,7 @@ export const theRunesmith = {
   id: "01a0657d-ada5-79d1-82c0-b37cf484c769",
   type: "page-type/story-read",
   slug: "the-runesmith",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "The Runesmith",
   world: "world/the-runesmith",

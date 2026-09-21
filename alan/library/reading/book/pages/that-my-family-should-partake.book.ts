@@ -6,7 +6,7 @@ export const thatMyFamilyShouldPartake = {
   slug: "that-my-family-should-partake",
   title: "That My Family Should Partake",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 3,

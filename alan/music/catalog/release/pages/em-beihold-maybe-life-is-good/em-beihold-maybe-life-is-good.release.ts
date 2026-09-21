@@ -11,7 +11,7 @@ export const emBeiholdMaybeLifeIsGood = {
   ownProgress: 3.180883,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2024-02-09",
   externalIdentity: [
     {

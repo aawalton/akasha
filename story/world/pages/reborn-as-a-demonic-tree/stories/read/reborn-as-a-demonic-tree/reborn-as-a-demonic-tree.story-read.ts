@@ -14,7 +14,7 @@ export const rebornAsADemonicTree = {
     },
   ],
   author: "XKARNATION",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

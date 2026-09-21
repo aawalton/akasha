@@ -4,7 +4,7 @@ export const taylorSwiftInvisibleString = {
   id: "019ea416-2c96-701c-ae56-f9e5ea559010",
   type: "page-type/song",
   slug: "taylor-swift-invisible-string",
-  rank: "A+",
+  grade: "A+",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -6,7 +6,7 @@ export const essentialSeedBeadTechniques = {
   slug: "essential-seed-bead-techniques",
   title: "Essential Seed Bead Techniques",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 154.8,
   ownProgress: 154.8,

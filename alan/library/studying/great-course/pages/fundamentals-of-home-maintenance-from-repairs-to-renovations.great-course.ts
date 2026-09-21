@@ -6,7 +6,7 @@ export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   slug: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
   title: "Fundamentals of Home Maintenance: From Repairs to Renovations",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 653.4,
   ownProgress: 653.4,

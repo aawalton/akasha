@@ -11,7 +11,7 @@ export const mitskiLaurelHell = {
   ownProgress: 32.518417,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2022-02-04",
   externalIdentity: [
     {

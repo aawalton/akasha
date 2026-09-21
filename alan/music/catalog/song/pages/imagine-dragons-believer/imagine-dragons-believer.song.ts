@@ -4,7 +4,7 @@ export const imagineDragonsBeliever = {
   id: "019ea497-adcd-71b1-9d6d-fcfa4c3e6450",
   type: "page-type/song",
   slug: "imagine-dragons-believer",
-  rank: "A+",
+  grade: "A+",
   tags: ["pain"],
   externalIdentity: [
     {

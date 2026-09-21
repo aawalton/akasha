@@ -14,7 +14,7 @@ export const speedrunningTheMultiverseComplete = {
     },
   ],
   author: "adastra339",
-  rank: "B",
+  grade: "B",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

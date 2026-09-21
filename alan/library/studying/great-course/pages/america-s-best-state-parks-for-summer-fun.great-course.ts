@@ -6,7 +6,7 @@ export const americaSBestStateParksForSummerFun = {
   slug: "america-s-best-state-parks-for-summer-fun",
   title: "America’s Best State Parks for Summer Fun",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 10.2,
   ownProgress: 10.2,

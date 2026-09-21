@@ -13,7 +13,7 @@ export const theGoodGuys = {
       externalLink: "https://www.amazon.com/dp/B07JX4TF1Y",
     },
   ],
-  rank: "B",
+  grade: "B",
   tags: ["Comedy"],
   unit: "unit/words",
 } as const satisfies StoryRead

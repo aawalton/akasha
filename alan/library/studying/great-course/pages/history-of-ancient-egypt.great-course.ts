@@ -6,7 +6,7 @@ export const historyOfAncientEgypt = {
   slug: "history-of-ancient-egypt",
   title: "History of Ancient Egypt",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1450.8,
   ownProgress: 1450.8,

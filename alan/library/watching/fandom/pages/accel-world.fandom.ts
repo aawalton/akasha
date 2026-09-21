@@ -11,5 +11,5 @@ export const accelWorld = {
   ownProgress: 0,
   unit: "unit/words",
   status: "completed",
-  rank: "B",
+  grade: "B",
 } as const satisfies Fandom

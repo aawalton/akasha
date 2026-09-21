@@ -11,7 +11,7 @@ export const michaelJacksonBloodOnTheDanceFloorHistoryInTheMix = {
   ownProgress: 75.8126,
   unit: "unit/minutes",
   status: "completed",
-  rank: "D",
+  grade: "D",
   publishedAt: "1997-05-11",
   externalIdentity: [
     {

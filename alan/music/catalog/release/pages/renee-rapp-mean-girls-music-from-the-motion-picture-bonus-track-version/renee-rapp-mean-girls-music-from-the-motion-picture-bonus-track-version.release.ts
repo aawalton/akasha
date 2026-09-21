@@ -11,7 +11,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersion = {
   ownProgress: 43.139117,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-02-20",
   externalIdentity: [
     {

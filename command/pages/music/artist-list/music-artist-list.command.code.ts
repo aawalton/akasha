@@ -76,7 +76,7 @@ function firstIn(held: Held, key: string): string | undefined {
 }
 
 function rankOf(held: Held): MusicRating | null {
-  const graded = firstIn(held, "rank")
+  const graded = firstIn(held, "grade")
   return MUSIC_RATINGS.find((rung) => rung === graded) ?? null
 }
 

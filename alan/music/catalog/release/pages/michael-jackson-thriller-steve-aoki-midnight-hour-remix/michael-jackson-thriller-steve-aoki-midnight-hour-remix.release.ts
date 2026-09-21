@@ -11,7 +11,7 @@ export const michaelJacksonThrillerSteveAokiMidnightHourRemix = {
   ownProgress: 5.016217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2017-09-29",
   externalIdentity: [
     {

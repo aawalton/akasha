@@ -9,7 +9,7 @@ export const billieEilishThereforeIAm = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2020-11-12",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -11,7 +11,7 @@ export const greenDayDookie = {
   ownProgress: 38.368117,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1994-02-01",
   externalIdentity: [
     {

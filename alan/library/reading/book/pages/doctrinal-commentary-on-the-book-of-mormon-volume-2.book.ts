@@ -6,7 +6,7 @@ export const doctrinalCommentaryOnTheBookOfMormonVolume2 = {
   slug: "doctrinal-commentary-on-the-book-of-mormon-volume-2",
   title: "Doctrinal Commentary on the Book of Mormon Volume 2",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Bible",
   unit: "unit/words",
   position: 2,

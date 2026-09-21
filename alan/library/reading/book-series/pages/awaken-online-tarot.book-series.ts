@@ -6,7 +6,7 @@ export const awakenOnlineTarot = {
   slug: "awaken-online-tarot",
   title: "Awaken Online: Tarot",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   maturityRating: "R",
   externalIdentity: [

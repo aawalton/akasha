@@ -15,7 +15,7 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
     },
   ],
   author: "Dads Bedtime Stories",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

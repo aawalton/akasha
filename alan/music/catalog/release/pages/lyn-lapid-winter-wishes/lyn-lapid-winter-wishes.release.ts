@@ -11,7 +11,7 @@ export const lynLapidWinterWishes = {
   ownProgress: 12.6711,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-11-15",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const languageFamiliesOfTheWorld = {
   slug: "language-families-of-the-world",
   title: "Language Families of the World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 957,
   ownProgress: 957,

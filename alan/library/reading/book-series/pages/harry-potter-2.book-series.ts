@@ -6,7 +6,7 @@ export const harryPotter2 = {
   slug: "harry-potter-2",
   title: "Harry Potter",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   position: 1,
   maturityRating: "PG-13",

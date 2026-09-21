@@ -11,7 +11,7 @@ export const lilithMaxSeraph = {
   ownProgress: 6.505333,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-02-21",
   externalIdentity: [
     {

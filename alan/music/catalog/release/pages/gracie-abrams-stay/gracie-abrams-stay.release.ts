@@ -11,7 +11,7 @@ export const gracieAbramsStay = {
   ownProgress: 2.952533,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-11-21",
   externalIdentity: [
     {

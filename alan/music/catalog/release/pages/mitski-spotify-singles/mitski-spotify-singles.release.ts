@@ -11,7 +11,7 @@ export const mitskiSpotifySingles = {
   ownProgress: 5.6022,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2024-03-13",
   externalIdentity: [
     {

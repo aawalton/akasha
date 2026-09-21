@@ -11,7 +11,7 @@ export const jessicaBaioAtLeast = {
   ownProgress: 2.7917,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-05-06",
   externalIdentity: [
     {

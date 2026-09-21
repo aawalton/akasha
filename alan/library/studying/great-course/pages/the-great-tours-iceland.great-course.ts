@@ -6,7 +6,7 @@ export const theGreatToursIceland = {
   slug: "the-great-tours-iceland",
   title: "The Great Tours: Iceland",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 564.6,
   ownProgress: 564.6,

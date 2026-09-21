@@ -11,7 +11,7 @@ export const rwby2 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "A",
+  grade: "A",
   publishedAt: "2013-07-18",
   externalIdentity: [
     {

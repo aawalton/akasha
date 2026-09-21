@@ -6,7 +6,7 @@ export const aBriefHistoryOfTheWorld = {
   slug: "a-brief-history-of-the-world",
   title: "A Brief History of the World",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1140.6,
   ownProgress: 1140.6,

@@ -6,7 +6,7 @@ export const biblicalWisdomLiterature = {
   slug: "biblical-wisdom-literature",
   title: "Biblical Wisdom Literature",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1113,
   ownProgress: 1113,

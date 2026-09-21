@@ -15,7 +15,7 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
     },
   ],
   author: "JLMullins",
-  rank: "A",
+  grade: "A",
   following: true,
   externalTags: [
     "GameLit",

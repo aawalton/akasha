@@ -6,7 +6,7 @@ export const greatCourse12EssentialScientificConcepts = {
   slug: "great-course-12-essential-scientific-concepts",
   title: "12 Essential Scientific Concepts",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 724.2,
   ownProgress: 724.2,

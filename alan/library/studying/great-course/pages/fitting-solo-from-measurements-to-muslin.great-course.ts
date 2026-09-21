@@ -6,7 +6,7 @@ export const fittingSoloFromMeasurementsToMuslin = {
   slug: "fitting-solo-from-measurements-to-muslin",
   title: "Fitting Solo: From Measurements to Muslin",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 141.6,
   ownProgress: 141.6,

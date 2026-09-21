@@ -6,7 +6,7 @@ export const woodturningBasicsTheBowl = {
   slug: "woodturning-basics-the-bowl",
   title: "Woodturning Basics: The Bowl",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 157.2,
   ownProgress: 157.2,

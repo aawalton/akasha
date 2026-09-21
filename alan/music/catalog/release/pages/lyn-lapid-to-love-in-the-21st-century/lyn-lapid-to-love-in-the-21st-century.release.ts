@@ -11,7 +11,7 @@ export const lynLapidToLoveInThe21stCentury = {
   ownProgress: 26.3775,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-06-23",
   externalIdentity: [
     {

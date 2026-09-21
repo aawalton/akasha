@@ -6,7 +6,7 @@ export const pilotLectureMythsOfLearningAndMemory = {
   slug: "pilot-lecture-myths-of-learning-and-memory",
   title: "Pilot Lecture: Myths of Learning and Memory",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,

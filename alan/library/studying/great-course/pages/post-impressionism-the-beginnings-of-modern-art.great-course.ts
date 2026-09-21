@@ -6,7 +6,7 @@ export const postImpressionismTheBeginningsOfModernArt = {
   slug: "post-impressionism-the-beginnings-of-modern-art",
   title: "Post-Impressionism: The Beginnings of Modern Art",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 642.6,
   ownProgress: 642.6,

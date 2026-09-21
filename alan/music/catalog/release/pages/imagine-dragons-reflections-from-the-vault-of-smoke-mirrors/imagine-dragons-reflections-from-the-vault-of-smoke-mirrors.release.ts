@@ -9,7 +9,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrors = {
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   publishedAt: "2025-02-21",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

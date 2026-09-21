@@ -6,7 +6,7 @@ export const thePromiseOfDiscipleship = {
   slug: "the-promise-of-discipleship",
   title: "The Promise of Discipleship",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 1,

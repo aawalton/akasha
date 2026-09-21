@@ -9,7 +9,7 @@ export const emeiDonTKnowAboutTheWorld = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2023-09-15",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

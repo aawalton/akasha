@@ -6,7 +6,7 @@ export const jewelryDesignForBeadArtists = {
   slug: "jewelry-design-for-bead-artists",
   title: "Jewelry Design for Bead Artists",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 124.8,
   ownProgress: 124.8,

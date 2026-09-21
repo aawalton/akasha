@@ -11,7 +11,7 @@ export const greenDayInternationalSuperhits = {
   ownProgress: 60.670767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2001-11-13",
   externalIdentity: [
     {

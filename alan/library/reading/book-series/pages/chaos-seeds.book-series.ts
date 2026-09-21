@@ -6,7 +6,7 @@ export const chaosSeeds = {
   slug: "chaos-seeds",
   title: "Chaos Seeds",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   externalIdentity: [
     {

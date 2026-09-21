@@ -11,7 +11,7 @@ export const clairoSofia = {
   ownProgress: 3.139767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-07-26",
   externalIdentity: [
     {

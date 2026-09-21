@@ -6,7 +6,7 @@ export const museumMasterpiecesTheNationalGalleryLondon = {
   slug: "museum-masterpieces-the-national-gallery-london",
   title: "Museum Masterpieces: The National Gallery, London",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 738.6,
   ownProgress: 738.6,

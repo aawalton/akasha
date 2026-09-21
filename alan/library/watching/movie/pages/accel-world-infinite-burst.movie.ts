@@ -11,7 +11,7 @@ export const accelWorldInfiniteBurst = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2016-07-23",
   externalIdentity: [
     {

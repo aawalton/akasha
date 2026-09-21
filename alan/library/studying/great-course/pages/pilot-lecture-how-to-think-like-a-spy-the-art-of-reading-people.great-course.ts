@@ -6,7 +6,7 @@ export const pilotLectureHowToThinkLikeASpyTheArtOfReadingPeople = {
   slug: "pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
   title: "Pilot Lecture: How to Think like a Spy: The Art of Reading People",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 34.8,
   ownProgress: 34.8,

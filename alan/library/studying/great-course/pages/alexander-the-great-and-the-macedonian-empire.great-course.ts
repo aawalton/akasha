@@ -6,7 +6,7 @@ export const alexanderTheGreatAndTheMacedonianEmpire = {
   slug: "alexander-the-great-and-the-macedonian-empire",
   title: "Alexander the Great and the Macedonian Empire",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1102.2,
   ownProgress: 1102.2,

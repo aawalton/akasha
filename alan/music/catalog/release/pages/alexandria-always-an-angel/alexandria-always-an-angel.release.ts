@@ -9,7 +9,7 @@ export const alexandriaAlwaysAnAngel = {
   partOfCollections: ["artist/alexandria"],
   position: 0,
   publishedAt: "2025-04-18",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

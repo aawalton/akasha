@@ -6,7 +6,7 @@ export const essentialReality = {
   slug: "essential-reality",
   title: "Essential Reality",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Jason Fried, David Heinemeier Hansson",
   unit: "unit/words",
   ownLength: 14250,

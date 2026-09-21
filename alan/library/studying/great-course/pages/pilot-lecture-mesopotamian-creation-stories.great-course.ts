@@ -6,7 +6,7 @@ export const pilotLectureMesopotamianCreationStories = {
   slug: "pilot-lecture-mesopotamian-creation-stories",
   title: "Pilot Lecture: Mesopotamian Creation Stories",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

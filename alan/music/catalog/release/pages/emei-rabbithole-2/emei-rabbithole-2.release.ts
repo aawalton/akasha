@@ -9,7 +9,7 @@ export const emeiRabbithole2 = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2024-11-15",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

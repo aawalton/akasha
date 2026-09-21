@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted = {
   type: "page-type/story-read",
   slug: "mythrans-master-of-all-continued-completed",
   ownProgress: 481048,
-  rank: "D",
+  grade: "D",
   unit: "unit/words",
   title: "Mythran's Master Of All",
   world: "world/mythrans-master-of-all-continued-completed",

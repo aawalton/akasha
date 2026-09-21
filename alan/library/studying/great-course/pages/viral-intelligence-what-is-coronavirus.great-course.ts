@@ -6,7 +6,7 @@ export const viralIntelligenceWhatIsCoronavirus = {
   slug: "viral-intelligence-what-is-coronavirus",
   title: "Viral Intelligence: What Is Coronavirus?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 18,
   ownProgress: 18,

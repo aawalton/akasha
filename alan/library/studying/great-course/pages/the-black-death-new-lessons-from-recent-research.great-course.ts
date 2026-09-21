@@ -6,7 +6,7 @@ export const theBlackDeathNewLessonsFromRecentResearch = {
   slug: "the-black-death-new-lessons-from-recent-research",
   title: "The Black Death: New Lessons from Recent Research",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 165.6,
   ownProgress: 165.6,

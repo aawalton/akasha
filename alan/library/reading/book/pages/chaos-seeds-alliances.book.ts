@@ -6,7 +6,7 @@ export const chaosSeedsAlliances = {
   slug: "chaos-seeds-alliances",
   title: "Chaos Seeds: Alliances",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   position: 3,
   ownLength: 160250,

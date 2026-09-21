@@ -9,7 +9,7 @@ export const emeiDistracted = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2021-08-20",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

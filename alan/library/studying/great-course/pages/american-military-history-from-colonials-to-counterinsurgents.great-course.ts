@@ -6,7 +6,7 @@ export const americanMilitaryHistoryFromColonialsToCounterinsurgents = {
   slug: "american-military-history-from-colonials-to-counterinsurgents",
   title: "American Military History: From Colonials to Counterinsurgents",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 696,
   ownProgress: 696,

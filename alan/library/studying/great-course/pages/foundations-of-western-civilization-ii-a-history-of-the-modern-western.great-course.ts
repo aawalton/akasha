@@ -6,7 +6,7 @@ export const foundationsOfWesternCivilizationIiAHistoryOfTheModernWestern = {
   slug: "foundations-of-western-civilization-ii-a-history-of-the-modern-western",
   title: "Foundations of Western Civilization II: A History of the Modern Western World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1469.4,
   ownProgress: 1469.4,

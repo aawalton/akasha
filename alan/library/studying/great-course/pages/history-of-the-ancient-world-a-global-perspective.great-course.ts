@@ -6,7 +6,7 @@ export const historyOfTheAncientWorldAGlobalPerspective = {
   slug: "history-of-the-ancient-world-a-global-perspective",
   title: "History of the Ancient World: A Global Perspective",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1462.2,
   ownProgress: 1462.2,

@@ -11,7 +11,7 @@ export const lynLapidEastSide = {
   ownProgress: 2.759633,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-11-17",
   externalIdentity: [
     {

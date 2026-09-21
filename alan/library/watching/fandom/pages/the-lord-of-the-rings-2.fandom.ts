@@ -11,5 +11,5 @@ export const theLordOfTheRings2 = {
   ownProgress: 0,
   unit: "unit/words",
   status: "paused",
-  rank: "A",
+  grade: "A",
 } as const satisfies Fandom

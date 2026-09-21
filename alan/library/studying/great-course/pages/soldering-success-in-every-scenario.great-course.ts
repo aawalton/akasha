@@ -6,7 +6,7 @@ export const solderingSuccessInEveryScenario = {
   slug: "soldering-success-in-every-scenario",
   title: "Soldering Success in Every Scenario",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 111.6,
   ownProgress: 111.6,

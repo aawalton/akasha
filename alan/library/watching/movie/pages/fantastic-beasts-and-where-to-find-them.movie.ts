@@ -11,7 +11,7 @@ export const fantasticBeastsAndWhereToFindThem = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2016-11-18",
   externalIdentity: [
     {

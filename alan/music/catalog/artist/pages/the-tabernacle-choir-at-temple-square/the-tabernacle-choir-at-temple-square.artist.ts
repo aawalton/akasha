@@ -11,7 +11,7 @@ export const theTabernacleChoirAtTempleSquare = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "in-progress",
-  rank: "B",
+  grade: "B",
   externalIdentity: [
     {
       source: "spotify",

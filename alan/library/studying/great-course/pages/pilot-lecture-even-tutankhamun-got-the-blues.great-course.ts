@@ -6,7 +6,7 @@ export const pilotLectureEvenTutankhamunGotTheBlues = {
   slug: "pilot-lecture-even-tutankhamun-got-the-blues",
   title: "Pilot Lecture: Even Tutankhamun Got the Blues",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 30.6,
   ownProgress: 30.6,

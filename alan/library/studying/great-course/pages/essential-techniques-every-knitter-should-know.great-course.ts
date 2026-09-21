@@ -6,7 +6,7 @@ export const essentialTechniquesEveryKnitterShouldKnow = {
   slug: "essential-techniques-every-knitter-should-know",
   title: "Essential Techniques Every Knitter Should Know",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 202.2,
   ownProgress: 202.2,

@@ -6,7 +6,7 @@ export const betterBasicsForExceptionalCookies = {
   slug: "better-basics-for-exceptional-cookies",
   title: "Better Basics for Exceptional Cookies",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 166.8,
   ownProgress: 166.8,

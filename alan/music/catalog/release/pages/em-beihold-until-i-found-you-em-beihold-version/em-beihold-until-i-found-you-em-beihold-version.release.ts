@@ -11,7 +11,7 @@ export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   ownProgress: 2.940667,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-04-22",
   externalIdentity: [
     {

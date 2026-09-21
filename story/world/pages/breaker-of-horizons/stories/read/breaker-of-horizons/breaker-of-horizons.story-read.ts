@@ -13,7 +13,7 @@ export const breakerOfHorizons = {
       externalLink: "https://www.royalroad.com/fiction/32123/breaker-of-horizons",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "Urban Fantasy",
     "Psychological",

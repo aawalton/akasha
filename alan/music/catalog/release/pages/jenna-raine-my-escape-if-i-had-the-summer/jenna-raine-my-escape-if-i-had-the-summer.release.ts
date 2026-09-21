@@ -11,7 +11,7 @@ export const jennaRaineMyEscapeIfIHadTheSummer = {
   ownProgress: 6.200483,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-07-10",
   externalIdentity: [
     {

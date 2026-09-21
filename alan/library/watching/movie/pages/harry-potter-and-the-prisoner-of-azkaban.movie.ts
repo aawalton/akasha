@@ -11,7 +11,7 @@ export const harryPotterAndThePrisonerOfAzkaban = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2004-06-04",
   externalIdentity: [
     {

@@ -14,7 +14,7 @@ export const theNewWorld = {
     },
   ],
   author: "Monsoon117",
-  rank: "C",
+  grade: "C",
   following: true,
   externalTags: [
     "LitRPG",

@@ -11,7 +11,7 @@ export const phoebeBridgersKillerTheSound = {
   ownProgress: 7.919767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2018-04-28",
   externalIdentity: [
     {

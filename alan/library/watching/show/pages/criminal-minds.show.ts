@@ -11,7 +11,7 @@ export const criminalMinds = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "in-progress",
-  rank: "C",
+  grade: "C",
   publishedAt: "2005-09-22",
   externalIdentity: [
     {

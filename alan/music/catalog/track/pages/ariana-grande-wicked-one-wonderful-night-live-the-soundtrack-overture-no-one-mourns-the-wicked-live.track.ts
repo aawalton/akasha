@@ -9,7 +9,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackOvertureNoOneMo
     ownProgress: 0,
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
     position: 1,
-    rank: "B-",
+    grade: "B-",
     status: "not-started",
     unit: "unit/minutes",
     externalIdentity: [

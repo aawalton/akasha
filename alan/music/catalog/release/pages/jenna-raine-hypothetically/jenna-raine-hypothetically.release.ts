@@ -11,7 +11,7 @@ export const jennaRaineHypothetically = {
   ownProgress: 2.69985,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-06-07",
   externalIdentity: [
     {

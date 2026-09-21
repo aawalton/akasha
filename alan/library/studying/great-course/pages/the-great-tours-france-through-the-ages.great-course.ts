@@ -6,7 +6,7 @@ export const theGreatToursFranceThroughTheAges = {
   slug: "the-great-tours-france-through-the-ages",
   title: "The Great Tours: France through the Ages",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 724.2,
   ownProgress: 724.2,

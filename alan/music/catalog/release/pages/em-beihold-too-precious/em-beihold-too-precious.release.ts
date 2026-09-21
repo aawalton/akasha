@@ -11,7 +11,7 @@ export const emBeiholdTooPrecious = {
   ownProgress: 2.830833,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-05-20",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const lynLapidButtons = {
   ownProgress: 2.122367,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-10-25",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const hyperthief = {
   slug: "hyperthief",
   title: "Hyperthief",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson, Janci Patterson",
   unit: "unit/words",
   position: 4,

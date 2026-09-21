@@ -13,7 +13,7 @@ export const alteredRealms = {
       externalLink: "https://www.amazon.com/dp/B0881H29XP",
     },
   ],
-  rank: "D",
+  grade: "D",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

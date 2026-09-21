@@ -11,7 +11,7 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
   ownProgress: 2.673333,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-05-09",
   externalIdentity: [
     {

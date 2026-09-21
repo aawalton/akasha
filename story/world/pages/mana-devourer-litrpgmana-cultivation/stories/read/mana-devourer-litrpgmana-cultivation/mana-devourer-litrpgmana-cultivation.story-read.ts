@@ -13,7 +13,7 @@ export const manaDevourerLitrpgmanaCultivation = {
       externalLink: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

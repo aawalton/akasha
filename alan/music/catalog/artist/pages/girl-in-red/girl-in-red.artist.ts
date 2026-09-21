@@ -8,7 +8,7 @@ export const girlInRed = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "C",
+  grade: "C",
   status: "archived",
   tags: ["Indie Pop Storyteller"],
   unit: "unit/minutes",

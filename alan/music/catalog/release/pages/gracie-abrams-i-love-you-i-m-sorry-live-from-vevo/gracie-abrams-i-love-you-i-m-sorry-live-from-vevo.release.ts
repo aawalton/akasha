@@ -11,7 +11,7 @@ export const gracieAbramsILoveYouIMSorryLiveFromVevo = {
   ownProgress: 6.02185,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-10-11",
   externalIdentity: [
     {

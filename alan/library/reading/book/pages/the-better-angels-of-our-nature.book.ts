@@ -6,7 +6,7 @@ export const theBetterAngelsOfOurNature = {
   slug: "the-better-angels-of-our-nature",
   title: "The Better Angels of Our Nature",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Steven Pinker",
   unit: "unit/words",
   ownLength: 549750,

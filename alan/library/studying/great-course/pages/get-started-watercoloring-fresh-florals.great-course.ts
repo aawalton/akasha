@@ -6,7 +6,7 @@ export const getStartedWatercoloringFreshFlorals = {
   slug: "get-started-watercoloring-fresh-florals",
   title: "Get Started Watercoloring: Fresh Florals",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 123.6,
   ownProgress: 123.6,

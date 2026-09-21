@@ -6,7 +6,7 @@ export const autobiographyOfBenjaminFranklin = {
   slug: "autobiography-of-benjamin-franklin",
   title: "Autobiography of Benjamin Franklin",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Benjamin Franklin, D. Brown",
   unit: "unit/words",
   position: 1,

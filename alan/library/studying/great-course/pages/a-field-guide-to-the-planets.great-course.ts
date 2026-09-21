@@ -6,7 +6,7 @@ export const aFieldGuideToThePlanets = {
   slug: "a-field-guide-to-the-planets",
   title: "A Field Guide to the Planets",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 760.2,
   ownProgress: 760.2,

@@ -6,7 +6,7 @@ export const allTheseThingsShallGiveTheeExperience = {
   slug: "all-these-things-shall-give-thee-experience",
   title: "All These Things Shall Give Thee Experience",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 4,

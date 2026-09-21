@@ -6,7 +6,7 @@ export const theGreatToursEnglandScotlandAndWales = {
   slug: "the-great-tours-england-scotland-and-wales",
   title: "The Great Tours: England, Scotland, and Wales",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1076.4,
   ownProgress: 1076.4,

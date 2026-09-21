@@ -13,7 +13,7 @@ export const alexaThyme = {
       externalLink: "https://www.amazon.com/dp/B0CP5J7K9Y",
     },
   ],
-  rank: "B",
+  grade: "B",
   following: true,
   tags: ["System World"],
   unit: "unit/words",

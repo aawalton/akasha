@@ -13,7 +13,7 @@ export const theWhisperingCrystals = {
       externalLink: "https://www.amazon.com/dp/B08MTFM6S5",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["System Apocalypse"],
   unit: "unit/words",
 } as const satisfies StoryRead

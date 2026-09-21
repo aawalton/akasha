@@ -11,7 +11,7 @@ export const jessicaBaio = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "A",
+  grade: "A",
   externalIdentity: [
     {
       source: "musicbrainz",

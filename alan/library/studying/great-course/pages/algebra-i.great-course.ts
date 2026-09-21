@@ -6,7 +6,7 @@ export const algebraI = {
   slug: "algebra-i",
   title: "Algebra I",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1110.6,
   ownProgress: 1110.6,

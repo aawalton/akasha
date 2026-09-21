@@ -9,7 +9,7 @@ export const billieEilishHappierThanEver = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2021-07-30",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

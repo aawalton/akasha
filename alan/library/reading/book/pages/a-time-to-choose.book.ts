@@ -6,7 +6,7 @@ export const aTimeToChoose = {
   slug: "a-time-to-choose",
   title: "A Time to Choose",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Richard Parker",
   unit: "unit/words",
   position: 4,

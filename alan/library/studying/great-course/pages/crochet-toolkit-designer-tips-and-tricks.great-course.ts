@@ -6,7 +6,7 @@ export const crochetToolkitDesignerTipsAndTricks = {
   slug: "crochet-toolkit-designer-tips-and-tricks",
   title: "Crochet Toolkit: Designer Tips & Tricks",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 124.2,
   ownProgress: 124.2,

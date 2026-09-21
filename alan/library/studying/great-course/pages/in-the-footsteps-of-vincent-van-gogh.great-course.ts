@@ -6,7 +6,7 @@ export const inTheFootstepsOfVincentVanGogh = {
   slug: "in-the-footsteps-of-vincent-van-gogh",
   title: "In the Footsteps of Vincent van Gogh",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 339.6,
   ownProgress: 339.6,

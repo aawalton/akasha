@@ -11,7 +11,7 @@ export const girlInRedSummerDepression = {
   ownProgress: 2.528217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2018-03-03",
   externalIdentity: [
     {

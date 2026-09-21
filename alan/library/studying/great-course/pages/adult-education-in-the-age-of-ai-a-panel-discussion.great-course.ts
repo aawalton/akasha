@@ -6,7 +6,7 @@ export const adultEducationInTheAgeOfAiAPanelDiscussion = {
   slug: "adult-education-in-the-age-of-ai-a-panel-discussion",
   title: "Adult Education in the Age of AI: A Panel Discussion",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 138.6,
   ownProgress: 138.6,

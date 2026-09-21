@@ -6,7 +6,7 @@ export const kingArthurHistoryAndLegend = {
   slug: "king-arthur-history-and-legend",
   title: "King Arthur: History and Legend",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 723.6,
   ownProgress: 723.6,

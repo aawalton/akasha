@@ -6,7 +6,7 @@ export const theRemarkableScienceOfAncientAstronomy = {
   slug: "the-remarkable-science-of-ancient-astronomy",
   title: "The Remarkable Science of Ancient Astronomy",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 715.8,
   ownProgress: 715.8,

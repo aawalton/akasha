@@ -6,7 +6,7 @@ export const historyOfTheEnglishLanguage2ndEdition = {
   slug: "history-of-the-english-language-2nd-edition",
   title: "History of the English Language, 2nd Edition",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1101,
   ownProgress: 1101,

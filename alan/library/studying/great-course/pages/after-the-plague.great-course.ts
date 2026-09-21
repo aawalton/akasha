@@ -6,7 +6,7 @@ export const afterThePlague = {
   slug: "after-the-plague",
   title: "After the Plague",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 627.6,
   ownProgress: 627.6,

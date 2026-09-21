@@ -13,7 +13,7 @@ export const chaosSeeds = {
       externalLink: "https://www.amazon.com/dp/B074C4RFZN",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["Civilization Building", "Isekai"],
   unit: "unit/words",
 } as const satisfies StoryRead

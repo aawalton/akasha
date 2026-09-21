@@ -11,5 +11,5 @@ export const piratesOfTheCaribbean2 = {
   ownProgress: 0,
   unit: "unit/words",
   status: "paused",
-  rank: "C",
+  grade: "C",
 } as const satisfies Fandom

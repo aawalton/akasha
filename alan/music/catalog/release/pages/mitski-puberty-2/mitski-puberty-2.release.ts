@@ -11,7 +11,7 @@ export const mitskiPuberty2 = {
   ownProgress: 31.432533,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2016-06-17",
   externalIdentity: [
     {

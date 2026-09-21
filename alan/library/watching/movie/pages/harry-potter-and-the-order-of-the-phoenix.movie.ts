@@ -11,7 +11,7 @@ export const harryPotterAndTheOrderOfThePhoenix = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2007-07-11",
   externalIdentity: [
     {

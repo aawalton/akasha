@@ -6,7 +6,7 @@ export const aVisualGuideToTheUniverseWithTheSmithsonian = {
   slug: "a-visual-guide-to-the-universe-with-the-smithsonian",
   title: "A Visual Guide to the Universe with the Smithsonian",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 546.6,
   ownProgress: 546.6,

@@ -4,7 +4,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg = {
   id: "01a0657d-ada1-7956-b2eb-24330de39a4e",
   type: "page-type/story-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Chloe the Zombie",
   world: "world/chloe-the-zombie-a-monster-evolution-litrpg",

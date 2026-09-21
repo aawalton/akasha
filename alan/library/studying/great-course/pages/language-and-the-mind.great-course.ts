@@ -6,7 +6,7 @@ export const languageAndTheMind = {
   slug: "language-and-the-mind",
   title: "Language and the Mind",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 720.6,
   ownProgress: 720.6,

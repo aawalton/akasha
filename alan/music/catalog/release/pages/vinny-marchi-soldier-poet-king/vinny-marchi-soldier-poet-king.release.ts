@@ -9,7 +9,7 @@ export const vinnyMarchiSoldierPoetKing = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2022-10-28",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

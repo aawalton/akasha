@@ -6,7 +6,7 @@ export const aNewHistoryOfTheAmericanSouth = {
   slug: "a-new-history-of-the-american-south",
   title: "A New History of the American South",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 652.8,
   ownProgress: 652.8,

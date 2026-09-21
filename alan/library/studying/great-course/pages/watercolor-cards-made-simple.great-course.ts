@@ -6,7 +6,7 @@ export const watercolorCardsMadeSimple = {
   slug: "watercolor-cards-made-simple",
   title: "Watercolor Cards Made Simple",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 166.2,
   ownProgress: 166.2,

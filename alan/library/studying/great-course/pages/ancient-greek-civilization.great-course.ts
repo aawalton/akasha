@@ -6,7 +6,7 @@ export const ancientGreekCivilization = {
   slug: "ancient-greek-civilization",
   title: "Ancient Greek Civilization",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 723,
   ownProgress: 723,

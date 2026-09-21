@@ -11,7 +11,7 @@ export const greenDayUnoDosTre = {
   ownProgress: 127.9922,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-12-11",
   externalIdentity: [
     {

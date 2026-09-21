@@ -9,7 +9,7 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-10-25",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

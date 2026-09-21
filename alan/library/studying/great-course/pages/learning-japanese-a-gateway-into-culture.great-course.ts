@@ -6,7 +6,7 @@ export const learningJapaneseAGatewayIntoCulture = {
   slug: "learning-japanese-a-gateway-into-culture",
   title: "Learning Japanese: A Gateway into Culture",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1006.2,
   ownProgress: 1006.2,

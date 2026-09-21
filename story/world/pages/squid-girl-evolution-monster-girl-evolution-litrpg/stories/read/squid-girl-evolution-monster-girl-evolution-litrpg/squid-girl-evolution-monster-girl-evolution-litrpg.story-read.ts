@@ -14,7 +14,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
         "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

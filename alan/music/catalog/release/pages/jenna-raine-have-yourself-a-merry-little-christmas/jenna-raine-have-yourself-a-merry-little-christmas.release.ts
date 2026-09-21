@@ -11,7 +11,7 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
   ownProgress: 2.1004,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-11-15",
   externalIdentity: [
     {

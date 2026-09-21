@@ -6,7 +6,7 @@ export const scientificSecretsForAPowerfulMemory = {
   slug: "scientific-secrets-for-a-powerful-memory",
   title: "Scientific Secrets for a Powerful Memory",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 185.4,
   ownProgress: 185.4,

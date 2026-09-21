@@ -11,7 +11,7 @@ export const theLordOfTheRingsTheReturnOfTheKing = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2003-12-17",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const travelAndCultureGreatCourses = {
   slug: "travel-and-culture-great-courses",
   title: "Travel & Culture Great Courses",
   status: "following",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   partOfCollections: ["great-courses-collection/great-courses-by-subject"],
   externalIdentity: [

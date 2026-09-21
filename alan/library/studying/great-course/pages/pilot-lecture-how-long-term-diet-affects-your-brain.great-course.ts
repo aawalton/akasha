@@ -6,7 +6,7 @@ export const pilotLectureHowLongTermDietAffectsYourBrain = {
   slug: "pilot-lecture-how-long-term-diet-affects-your-brain",
   title: "Pilot Lecture: How Long-Term Diet Affects Your Brain",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 25.2,
   ownProgress: 25.2,

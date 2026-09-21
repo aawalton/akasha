@@ -9,7 +9,7 @@ export const vinnyMarchiTakeTheReins = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-08-16",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

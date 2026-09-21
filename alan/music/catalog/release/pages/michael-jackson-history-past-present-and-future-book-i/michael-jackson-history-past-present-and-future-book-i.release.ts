@@ -11,7 +11,7 @@ export const michaelJacksonHistoryPastPresentAndFutureBookI = {
   ownProgress: 148.685167,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1995-06-16",
   externalIdentity: [
     {

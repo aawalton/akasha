@@ -6,7 +6,7 @@ export const theCompleteGuideToBakingBread = {
   slug: "the-complete-guide-to-baking-bread",
   title: "The Complete Guide to Baking Bread",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 603,
   ownProgress: 603,

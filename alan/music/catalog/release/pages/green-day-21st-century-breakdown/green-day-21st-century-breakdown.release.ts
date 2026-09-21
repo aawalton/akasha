@@ -11,7 +11,7 @@ export const greenDay21stCenturyBreakdown = {
   ownProgress: 69.239417,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-05-15",
   externalIdentity: [
     {

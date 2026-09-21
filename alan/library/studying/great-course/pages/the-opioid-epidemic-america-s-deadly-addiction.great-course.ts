@@ -6,7 +6,7 @@ export const theOpioidEpidemicAmericaSDeadlyAddiction = {
   slug: "the-opioid-epidemic-america-s-deadly-addiction",
   title: "The Opioid Epidemic: America's Deadly Addiction",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 34.8,
   ownProgress: 34.8,

@@ -11,7 +11,7 @@ export const ejaeInAnotherWorld = {
   ownProgress: 2.925517,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

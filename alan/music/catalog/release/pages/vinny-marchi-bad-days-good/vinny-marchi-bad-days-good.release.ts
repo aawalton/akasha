@@ -9,7 +9,7 @@ export const vinnyMarchiBadDaysGood = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-11-03",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

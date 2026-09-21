@@ -4,7 +4,7 @@ export const systemGirlSystemMcWorldHoppingComedy = {
   id: "01a0657d-ada5-7638-97a1-adc2b888f303",
   type: "page-type/story-read",
   slug: "system-girl-system-mc-world-hopping-comedy",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "System Girl",
   world: "world/system-girl-system-mc-world-hopping-comedy",

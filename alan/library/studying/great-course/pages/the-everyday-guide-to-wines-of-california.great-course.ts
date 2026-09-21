@@ -6,7 +6,7 @@ export const theEverydayGuideToWinesOfCalifornia = {
   slug: "the-everyday-guide-to-wines-of-california",
   title: "The Everyday Guide to Wines of California",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 195.6,
   ownProgress: 195.6,

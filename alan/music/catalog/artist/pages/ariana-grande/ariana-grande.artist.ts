@@ -8,7 +8,7 @@ export const arianaGrande = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "A",
+  grade: "A",
   status: "following",
   tags: ["Modern Pop"],
   unit: "unit/minutes",

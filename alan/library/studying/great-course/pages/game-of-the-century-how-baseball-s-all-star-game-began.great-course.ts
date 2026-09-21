@@ -6,7 +6,7 @@ export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
   slug: "game-of-the-century-how-baseball-s-all-star-game-began",
   title: "Game of the Century: How Baseball's All-Star Game Began",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 12.6,
   ownProgress: 12.6,

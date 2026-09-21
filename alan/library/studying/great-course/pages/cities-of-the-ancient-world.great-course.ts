@@ -6,7 +6,7 @@ export const citiesOfTheAncientWorld = {
   slug: "cities-of-the-ancient-world",
   title: "Cities of the Ancient World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 709.8,
   ownProgress: 709.8,

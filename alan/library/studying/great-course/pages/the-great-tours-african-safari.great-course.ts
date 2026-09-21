@@ -6,7 +6,7 @@ export const theGreatToursAfricanSafari = {
   slug: "the-great-tours-african-safari",
   title: "The Great Tours: African Safari",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 740.4,
   ownProgress: 740.4,

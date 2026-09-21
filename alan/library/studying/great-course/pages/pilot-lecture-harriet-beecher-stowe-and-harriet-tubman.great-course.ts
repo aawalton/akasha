@@ -6,7 +6,7 @@ export const pilotLectureHarrietBeecherStoweAndHarrietTubman = {
   slug: "pilot-lecture-harriet-beecher-stowe-and-harriet-tubman",
   title: "Pilot Lecture: Harriet Beecher Stowe and Harriet Tubman",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 36.6,
   ownProgress: 36.6,

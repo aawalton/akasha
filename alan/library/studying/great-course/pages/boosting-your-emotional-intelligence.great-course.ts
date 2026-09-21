@@ -6,7 +6,7 @@ export const boostingYourEmotionalIntelligence = {
   slug: "boosting-your-emotional-intelligence",
   title: "Boosting Your Emotional Intelligence",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 773.4,
   ownProgress: 773.4,

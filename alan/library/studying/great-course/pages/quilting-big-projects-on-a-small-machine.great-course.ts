@@ -6,7 +6,7 @@ export const quiltingBigProjectsOnASmallMachine = {
   slug: "quilting-big-projects-on-a-small-machine",
   title: "Quilting Big Projects on a Small Machine",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 262.2,
   ownProgress: 262.2,

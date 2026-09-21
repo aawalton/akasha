@@ -14,7 +14,7 @@ export const gamerGirlEvolution = {
     },
   ],
   author: "Silva Sensei",
-  rank: "C",
+  grade: "C",
   following: true,
   publicationStatus: "hiatus",
   externalTags: [

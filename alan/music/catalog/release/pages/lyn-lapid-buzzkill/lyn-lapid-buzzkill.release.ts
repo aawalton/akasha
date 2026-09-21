@@ -11,7 +11,7 @@ export const lynLapidBuzzkill = {
   ownProgress: 33.687217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-04-25",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const greenDayThatSRockNRoll = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2020-10-30",
   externalIdentity: [
     {

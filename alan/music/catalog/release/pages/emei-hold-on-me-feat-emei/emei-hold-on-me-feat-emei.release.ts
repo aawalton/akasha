@@ -9,7 +9,7 @@ export const emeiHoldOnMeFeatEmei = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2023-11-10",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -6,7 +6,7 @@ export const theCompleteGuideToSmartphonePhotography = {
   slug: "the-complete-guide-to-smartphone-photography",
   title: "The Complete Guide to Smartphone Photography",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 444.6,
   ownProgress: 444.6,

@@ -11,7 +11,7 @@ export const emBeiholdPhone = {
   ownProgress: 2.5846,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-07-07",
   externalIdentity: [
     {

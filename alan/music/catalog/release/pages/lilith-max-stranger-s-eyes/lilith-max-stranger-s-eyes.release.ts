@@ -11,7 +11,7 @@ export const lilithMaxStrangerSEyes = {
   ownProgress: 3.238283,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2021-03-26",
   externalIdentity: [
     {

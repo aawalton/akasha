@@ -9,7 +9,7 @@ export const alexandriaLust = {
   partOfCollections: ["artist/alexandria"],
   position: 0,
   publishedAt: "2025-10-14",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

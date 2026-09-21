@@ -6,7 +6,7 @@ export const neurotribes = {
   slug: "neurotribes",
   title: "NeuroTribes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Steve Silberman",
   unit: "unit/words",
   ownLength: 281550,

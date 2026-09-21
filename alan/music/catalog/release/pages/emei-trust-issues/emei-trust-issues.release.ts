@@ -9,7 +9,7 @@ export const emeiTrustIssues = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2022-08-17",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

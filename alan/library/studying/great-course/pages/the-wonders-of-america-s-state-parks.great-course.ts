@@ -6,7 +6,7 @@ export const theWondersOfAmericaSStateParks = {
   slug: "the-wonders-of-america-s-state-parks",
   title: "The Wonders of America's State Parks",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 634.8,
   ownProgress: 634.8,

@@ -11,7 +11,7 @@ export const mitskiMitskiOnAudiotreeLive = {
   ownProgress: 13.782717,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2015-07-31",
   externalIdentity: [
     {

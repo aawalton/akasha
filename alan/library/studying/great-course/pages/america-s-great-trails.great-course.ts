@@ -6,7 +6,7 @@ export const americaSGreatTrails = {
   slug: "america-s-great-trails",
   title: "America’s Great Trails",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 161.4,
   ownProgress: 161.4,

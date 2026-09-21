@@ -6,7 +6,7 @@ export const pilotLectureDidDavidWriteThePsalms = {
   slug: "pilot-lecture-did-david-write-the-psalms",
   title: "Pilot Lecture: Did David Write the Psalms?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

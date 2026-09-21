@@ -11,7 +11,7 @@ export const piratesOfTheCaribbeanTheCurseOfTheBlackPearl = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2003-07-09",
   externalIdentity: [
     {

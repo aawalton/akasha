@@ -11,7 +11,7 @@ export const greenDayXmasTimeOfTheYear = {
   ownProgress: 2.298183,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2015-01-01",
   externalIdentity: [
     {

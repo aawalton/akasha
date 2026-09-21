@@ -6,7 +6,7 @@ export const wheelOfTimeTheDragonReborn = {
   slug: "wheel-of-time-the-dragon-reborn",
   title: "Wheel of Time: The Dragon Reborn",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 3,

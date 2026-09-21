@@ -11,7 +11,7 @@ export const izzyEscobarTheseEyes = {
   ownProgress: 2.754017,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-03-07",
   externalIdentity: [
     {

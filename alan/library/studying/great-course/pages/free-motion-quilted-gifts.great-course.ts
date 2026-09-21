@@ -6,7 +6,7 @@ export const freeMotionQuiltedGifts = {
   slug: "free-motion-quilted-gifts",
   title: "Free-Motion Quilted Gifts",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 78.6,
   ownProgress: 78.6,

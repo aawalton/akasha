@@ -6,7 +6,7 @@ export const nosferatuExaminedTheDraculaConnection = {
   slug: "nosferatu-examined-the-dracula-connection",
   title: "Nosferatu Examined: The Dracula Connection",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 10.8,
   ownProgress: 10.8,

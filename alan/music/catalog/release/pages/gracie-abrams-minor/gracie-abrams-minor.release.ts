@@ -11,7 +11,7 @@ export const gracieAbramsMinor = {
   ownProgress: 20.215567,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2020-07-14",
   externalIdentity: [
     {

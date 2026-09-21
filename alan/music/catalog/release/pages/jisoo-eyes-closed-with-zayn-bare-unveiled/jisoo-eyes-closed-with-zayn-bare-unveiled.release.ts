@@ -9,7 +9,7 @@ export const jisooEyesClosedWithZaynBareUnveiled = {
   partOfCollections: ["artist/jisoo"],
   position: 0,
   publishedAt: "2025-11-14",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

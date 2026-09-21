@@ -6,7 +6,7 @@ export const theScrivenersBones = {
   slug: "the-scriveners-bones",
   title: "The Scrivener's Bones",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 2,

@@ -6,7 +6,7 @@ export const ancientCivilizationsOfNorthAmerica = {
   slug: "ancient-civilizations-of-north-america",
   title: "Ancient Civilizations of North America",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 742.8,
   ownProgress: 742.8,

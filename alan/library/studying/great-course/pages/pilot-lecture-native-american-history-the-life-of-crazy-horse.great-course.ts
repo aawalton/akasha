@@ -6,7 +6,7 @@ export const pilotLectureNativeAmericanHistoryTheLifeOfCrazyHorse = {
   slug: "pilot-lecture-native-american-history-the-life-of-crazy-horse",
   title: "Pilot Lecture: Native American History - The Life of Crazy Horse",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,

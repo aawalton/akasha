@@ -6,7 +6,7 @@ export const aHistoryOfHitlerSEmpire2ndEdition = {
   slug: "a-history-of-hitler-s-empire-2nd-edition",
   title: "A History of Hitler's Empire, 2nd Edition",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 381,
   ownProgress: 381,

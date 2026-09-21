@@ -6,7 +6,7 @@ export const americanSignLanguageForEveryone = {
   slug: "american-sign-language-for-everyone",
   title: "American Sign Language for Everyone",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 692.4,
   ownProgress: 692.4,

@@ -6,7 +6,7 @@ export const chaosSeedsSwarm = {
   slug: "chaos-seeds-swarm",
   title: "Chaos Seeds: Swarm",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   position: 5,
   ownLength: 200250,

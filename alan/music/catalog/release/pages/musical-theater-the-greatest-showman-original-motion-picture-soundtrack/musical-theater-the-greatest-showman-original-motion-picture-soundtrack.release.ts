@@ -11,7 +11,7 @@ export const musicalTheaterTheGreatestShowmanOriginalMotionPictureSoundtrack = {
   ownProgress: 39.941717,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2017-12-08",
   externalIdentity: [
     {

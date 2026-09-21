@@ -11,7 +11,7 @@ export const lilithMaxLeaveTheArmor = {
   ownProgress: 4.282933,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2020-08-28",
   externalIdentity: [
     {

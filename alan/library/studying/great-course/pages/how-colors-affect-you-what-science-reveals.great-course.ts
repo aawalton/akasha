@@ -6,7 +6,7 @@ export const howColorsAffectYouWhatScienceReveals = {
   slug: "how-colors-affect-you-what-science-reveals",
   title: "How Colors Affect You: What Science Reveals",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 201,
   ownProgress: 201,

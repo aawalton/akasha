@@ -6,7 +6,7 @@ export const searchingForTheHistoricalJesus = {
   slug: "searching-for-the-historical-jesus",
   title: "Searching for the Historical Jesus",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 324.6,
   ownProgress: 324.6,

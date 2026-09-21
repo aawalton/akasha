@@ -6,7 +6,7 @@ export const advancedInvestments = {
   slug: "advanced-investments",
   title: "Advanced Investments",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 766.2,
   ownProgress: 766.2,

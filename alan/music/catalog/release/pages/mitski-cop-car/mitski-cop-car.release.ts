@@ -11,7 +11,7 @@ export const mitskiCopCar = {
   ownProgress: 3.144533,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2020-03-07",
   externalIdentity: [
     {

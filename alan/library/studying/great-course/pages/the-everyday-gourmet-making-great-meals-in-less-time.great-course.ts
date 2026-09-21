@@ -6,7 +6,7 @@ export const theEverydayGourmetMakingGreatMealsInLessTime = {
   slug: "the-everyday-gourmet-making-great-meals-in-less-time",
   title: "The Everyday Gourmet: Making Great Meals in Less Time",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 198,
   ownProgress: 198,

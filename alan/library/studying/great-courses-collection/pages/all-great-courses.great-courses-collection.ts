@@ -6,7 +6,7 @@ export const allGreatCourses = {
   slug: "all-great-courses",
   title: "All Great Courses",
   status: "in-progress",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   partOfCollections: ["great-courses-collection/the-great-courses"],
 } as const satisfies GreatCoursesCollection

@@ -6,7 +6,7 @@ export const artJournalingWithWatercolorInkAndMore = {
   slug: "art-journaling-with-watercolor-ink-and-more",
   title: "Art Journaling With Watercolor, Ink & More",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 148.2,
   ownProgress: 148.2,

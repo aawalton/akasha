@@ -6,7 +6,7 @@ export const wheelOfTimeNewSpring = {
   slug: "wheel-of-time-new-spring",
   title: "Wheel of Time: New Spring",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   ownLength: 104250,

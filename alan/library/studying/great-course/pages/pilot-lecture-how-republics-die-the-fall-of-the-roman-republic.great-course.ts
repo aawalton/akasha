@@ -6,7 +6,7 @@ export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
   slug: "pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
   title: "Pilot Lecture: How Republics Die—The Fall of the Roman Republic",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,

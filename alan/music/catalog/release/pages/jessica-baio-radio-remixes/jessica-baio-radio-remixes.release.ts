@@ -11,7 +11,7 @@ export const jessicaBaioRadioRemixes = {
   ownProgress: 7.484433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-04-18",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const greenDayRevolutionRadio = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2016-10-07",
   externalIdentity: [
     {

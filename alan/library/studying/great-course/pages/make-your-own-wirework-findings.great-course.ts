@@ -6,7 +6,7 @@ export const makeYourOwnWireworkFindings = {
   slug: "make-your-own-wirework-findings",
   title: "Make Your Own Wirework Findings",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 230.4,
   ownProgress: 230.4,

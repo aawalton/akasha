@@ -6,7 +6,7 @@ export const secondAgeOfRethraTheRevived = {
   slug: "second-age-of-rethra-the-revived",
   title: "Second Age of Rethra: The Revived",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/words",
   position: 3,
   ownLength: 106500,

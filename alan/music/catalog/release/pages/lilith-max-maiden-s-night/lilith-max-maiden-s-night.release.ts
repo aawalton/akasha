@@ -11,7 +11,7 @@ export const lilithMaxMaidenSNight = {
   ownProgress: 6.569033,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-04-04",
   externalIdentity: [
     {

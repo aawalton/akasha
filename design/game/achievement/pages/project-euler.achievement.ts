@@ -11,6 +11,6 @@ export const projectEuler = {
   ownProgress: 0,
   unit: "unit/words",
   status: "in-progress",
-  rank: "A",
+  grade: "A",
   externalIdentity: [{ source: "project-euler", externalLink: "https://projecteuler.net/" }],
 } as const satisfies Achievement

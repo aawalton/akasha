@@ -13,7 +13,7 @@ export const deathHealer = {
       externalLink: "https://www.royalroad.com/fiction/115399/death-healer",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Reincarnation",

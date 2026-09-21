@@ -13,7 +13,7 @@ export const hellDifficultyTutorial = {
       externalLink: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

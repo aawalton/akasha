@@ -6,7 +6,7 @@ export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
   slug: "academy-of-hope-taking-on-america-s-adult-education-problem",
   title: "Academy of Hope: Taking On America’s Adult Education Problem",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 39,
   ownProgress: 39,

@@ -6,7 +6,7 @@ export const theRiseOfRome = {
   slug: "the-rise-of-rome",
   title: "The Rise of Rome",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 733.8,
   ownProgress: 733.8,

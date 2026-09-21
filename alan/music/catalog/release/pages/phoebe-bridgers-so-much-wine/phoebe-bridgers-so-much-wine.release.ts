@@ -11,7 +11,7 @@ export const phoebeBridgersSoMuchWine = {
   ownProgress: 21.82525,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2022-11-17",
   externalIdentity: [
     {

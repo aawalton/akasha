@@ -14,7 +14,7 @@ export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited = {
   ownProgress: 288,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-01-07",
   externalIdentity: [
     {

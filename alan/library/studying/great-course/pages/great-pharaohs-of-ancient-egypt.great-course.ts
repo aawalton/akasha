@@ -6,7 +6,7 @@ export const greatPharaohsOfAncientEgypt = {
   slug: "great-pharaohs-of-ancient-egypt",
   title: "Great Pharaohs of Ancient Egypt",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 367.2,
   ownProgress: 367.2,

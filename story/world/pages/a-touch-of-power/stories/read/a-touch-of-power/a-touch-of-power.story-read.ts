@@ -13,7 +13,7 @@ export const aTouchOfPower = {
       externalLink: "https://www.amazon.com/dp/B0FFT68QFH",
     },
   ],
-  rank: "A",
+  grade: "A",
   following: true,
   tags: ["System World"],
   unit: "unit/words",

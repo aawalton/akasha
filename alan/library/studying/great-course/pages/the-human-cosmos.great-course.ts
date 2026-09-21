@@ -6,7 +6,7 @@ export const theHumanCosmos = {
   slug: "the-human-cosmos",
   title: "The Human Cosmos",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 69,
   ownProgress: 69,

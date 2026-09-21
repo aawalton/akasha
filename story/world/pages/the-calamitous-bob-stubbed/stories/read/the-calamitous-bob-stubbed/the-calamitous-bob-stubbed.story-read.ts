@@ -14,7 +14,7 @@ export const theCalamitousBobStubbed = {
     },
   ],
   author: "Mecanimus",
-  rank: "A",
+  grade: "A",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

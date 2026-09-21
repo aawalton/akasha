@@ -6,7 +6,7 @@ export const bakingWithTheGlutenFreeGirl = {
   slug: "baking-with-the-gluten-free-girl",
   title: "Baking With the Gluten-Free Girl",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 114.6,
   ownProgress: 114.6,

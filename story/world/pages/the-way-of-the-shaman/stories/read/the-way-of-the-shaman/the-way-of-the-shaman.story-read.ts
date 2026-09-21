@@ -13,7 +13,7 @@ export const theWayOfTheShaman = {
       externalLink: "https://www.amazon.com/dp/B074C9P3YF",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

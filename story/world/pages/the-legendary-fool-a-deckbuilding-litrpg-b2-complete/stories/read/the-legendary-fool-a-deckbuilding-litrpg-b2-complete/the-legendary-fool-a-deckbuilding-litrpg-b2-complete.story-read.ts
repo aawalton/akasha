@@ -14,7 +14,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
         "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

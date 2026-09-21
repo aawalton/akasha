@@ -11,7 +11,7 @@ export const taylorSwift2TheLifeOfAShowgirl = {
   ownProgress: 41.762983,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

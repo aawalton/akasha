@@ -6,7 +6,7 @@ export const figureDrawingAnEssentialGuide = {
   slug: "figure-drawing-an-essential-guide",
   title: "Figure Drawing: An Essential Guide",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 93.6,
   ownProgress: 93.6,

@@ -6,7 +6,7 @@ export const learningItalianStepByStepAndRegionByRegion = {
   slug: "learning-italian-step-by-step-and-region-by-region",
   title: "Learning Italian: Step by Step and Region by Region",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 734.4,
   ownProgress: 734.4,

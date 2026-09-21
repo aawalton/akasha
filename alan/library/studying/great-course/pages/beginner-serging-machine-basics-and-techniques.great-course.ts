@@ -6,7 +6,7 @@ export const beginnerSergingMachineBasicsAndTechniques = {
   slug: "beginner-serging-machine-basics-and-techniques",
   title: "Beginner Serging: Machine Basics and Techniques",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 259.2,
   ownProgress: 259.2,

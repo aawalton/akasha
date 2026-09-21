@@ -11,7 +11,7 @@ export const jessicaBaioSkin = {
   ownProgress: 3.209783,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2021-12-17",
   externalIdentity: [
     {

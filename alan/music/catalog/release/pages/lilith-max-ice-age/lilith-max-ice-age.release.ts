@@ -11,7 +11,7 @@ export const lilithMaxIceAge = {
   ownProgress: 3.141183,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2022-02-11",
   externalIdentity: [
     {

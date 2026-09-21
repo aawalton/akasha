@@ -11,7 +11,7 @@ export const swordArtOnlineAlicizationWarOfUnderworldSeason4 = {
   ownProgress: 552,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-10-12",
   externalIdentity: [
     {

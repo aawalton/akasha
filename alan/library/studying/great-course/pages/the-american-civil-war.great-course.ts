@@ -6,7 +6,7 @@ export const theAmericanCivilWar = {
   slug: "the-american-civil-war",
   title: "The American Civil War",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1461,
   ownProgress: 1461,

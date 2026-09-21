@@ -6,7 +6,7 @@ export const classicCakesFromBakedBakery = {
   slug: "classic-cakes-from-baked-bakery",
   title: "Classic Cakes From Baked Bakery",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 111.616667,
   ownProgress: 111.616667,

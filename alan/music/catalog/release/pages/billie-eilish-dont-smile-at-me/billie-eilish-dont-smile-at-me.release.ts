@@ -9,7 +9,7 @@ export const billieEilishDontSmileAtMe = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2017-12-22",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

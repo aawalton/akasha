@@ -6,7 +6,7 @@ export const perfectState = {
   slug: "perfect-state",
   title: "Perfect State",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 2,

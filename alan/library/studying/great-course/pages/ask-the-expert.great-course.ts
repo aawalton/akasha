@@ -6,7 +6,7 @@ export const askTheExpert = {
   slug: "ask-the-expert",
   title: "Ask the Expert",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 52.8,
   ownProgress: 52.8,

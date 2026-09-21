@@ -6,7 +6,7 @@ export const theWorldOfBiblicalIsrael = {
   slug: "the-world-of-biblical-israel",
   title: "The World of Biblical Israel",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 738.6,
   ownProgress: 738.6,

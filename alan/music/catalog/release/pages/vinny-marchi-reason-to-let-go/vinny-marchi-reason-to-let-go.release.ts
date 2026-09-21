@@ -9,7 +9,7 @@ export const vinnyMarchiReasonToLetGo = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2021-12-10",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

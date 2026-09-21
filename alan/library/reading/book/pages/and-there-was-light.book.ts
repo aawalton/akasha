@@ -6,7 +6,7 @@ export const andThereWasLight = {
   slug: "and-there-was-light",
   title: "And There Was Light",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Jon Meacham",
   unit: "unit/words",
   position: 5,

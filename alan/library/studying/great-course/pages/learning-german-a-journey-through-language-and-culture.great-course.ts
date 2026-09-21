@@ -6,7 +6,7 @@ export const learningGermanAJourneyThroughLanguageAndCulture = {
   slug: "learning-german-a-journey-through-language-and-culture",
   title: "Learning German: A Journey through Language and Culture",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 816,
   ownProgress: 816,

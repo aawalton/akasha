@@ -11,7 +11,7 @@ export const greenDayNimrod25thAnniversaryEdition = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2023-01-27",
   externalIdentity: [
     {

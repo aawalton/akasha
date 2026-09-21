@@ -11,7 +11,7 @@ export const emBeiholdRollerCoastersMakeMeSad = {
   ownProgress: 3.1996,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-02-24",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const bakeYourBestSweetYeastBreadsChallahAndMore = {
   slug: "bake-your-best-sweet-yeast-breads-challah-and-more",
   title: "Bake Your Best: Sweet Yeast Breads, Challah & More",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 135.6,
   ownProgress: 135.6,

@@ -13,7 +13,7 @@ export const earthenContenders = {
       externalLink: "https://www.amazon.com/dp/B0CV85WPH7",
     },
   ],
-  rank: "C",
+  grade: "C",
   following: true,
   tags: ["System Apocalypse"],
   unit: "unit/words",

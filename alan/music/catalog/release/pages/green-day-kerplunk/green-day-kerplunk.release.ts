@@ -11,7 +11,7 @@ export const greenDayKerplunk = {
   ownProgress: 42.10345,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1992-01-17",
   externalIdentity: [
     {

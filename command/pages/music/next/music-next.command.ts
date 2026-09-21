@@ -40,7 +40,8 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type declaring no `rank` is refused rather than read as nothing graded.",
+      statement:
+        "A page type nothing is filed under is refused rather than read as nothing graded.",
     },
     {
       decisionKind: "decision-kind/departure",

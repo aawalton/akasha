@@ -11,7 +11,7 @@ export const snailMailPristine = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "D",
+  grade: "D",
   publishedAt: "2018-03-21",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const lilithMaxBirdsOfAFeather = {
   ownProgress: 2.97585,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-05-10",
   externalIdentity: [
     {

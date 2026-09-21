@@ -6,7 +6,7 @@ export const pilotLectureTheRiseOfNewtonianPhysics = {
   slug: "pilot-lecture-the-rise-of-newtonian-physics",
   title: "Pilot Lecture: The Rise of Newtonian Physics",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 22.2,
   ownProgress: 22.2,

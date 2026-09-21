@@ -6,7 +6,7 @@ export const shopEssentials = {
   slug: "shop-essentials",
   title: "Shop Essentials",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 201.6,
   ownProgress: 201.6,

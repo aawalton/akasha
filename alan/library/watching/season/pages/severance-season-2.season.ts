@@ -11,7 +11,7 @@ export const severanceSeason2 = {
   ownProgress: 538.2,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-01-17",
   externalIdentity: [
     {

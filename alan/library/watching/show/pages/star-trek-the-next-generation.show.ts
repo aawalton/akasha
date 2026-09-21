@@ -11,7 +11,7 @@ export const starTrekTheNextGeneration = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "paused",
-  rank: "B",
+  grade: "B",
   publishedAt: "1987-09-28",
   externalIdentity: [
     {

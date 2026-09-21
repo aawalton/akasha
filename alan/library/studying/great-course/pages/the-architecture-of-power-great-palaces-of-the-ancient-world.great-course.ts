@@ -6,7 +6,7 @@ export const theArchitectureOfPowerGreatPalacesOfTheAncientWorld = {
   slug: "the-architecture-of-power-great-palaces-of-the-ancient-world",
   title: "The Architecture of Power: Great Palaces of the Ancient World",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 777,
   ownProgress: 777,

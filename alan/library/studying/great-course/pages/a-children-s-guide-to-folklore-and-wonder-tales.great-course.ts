@@ -6,7 +6,7 @@ export const aChildrenSGuideToFolkloreAndWonderTales = {
   slug: "a-children-s-guide-to-folklore-and-wonder-tales",
   title: "A Children's Guide to Folklore and Wonder Tales",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 754.8,
   ownProgress: 754.8,

@@ -6,7 +6,7 @@ export const pilotLectureWhatWeKnowAndDonTKnowAboutTheBigBang = {
   slug: "pilot-lecture-what-we-know-and-don-t-know-about-the-big-bang",
   title: "Pilot Lecture: What We Know (and Don’t Know) about the Big Bang",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,

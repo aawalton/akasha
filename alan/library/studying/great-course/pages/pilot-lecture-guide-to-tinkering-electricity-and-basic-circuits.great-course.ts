@@ -6,7 +6,7 @@ export const pilotLectureGuideToTinkeringElectricityAndBasicCircuits = {
   slug: "pilot-lecture-guide-to-tinkering-electricity-and-basic-circuits",
   title: "Pilot Lecture: Guide to Tinkering: Electricity and Basic Circuits",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 18.6,
   ownProgress: 18.6,

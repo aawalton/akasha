@@ -6,7 +6,7 @@ export const wondriumInsightsFindingStrengthInMentalHealthStruggles = {
   slug: "wondrium-insights-finding-strength-in-mental-health-struggles",
   title: "Wondrium Insights: Finding Strength in Mental Health Struggles",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 177.6,
   ownProgress: 177.6,

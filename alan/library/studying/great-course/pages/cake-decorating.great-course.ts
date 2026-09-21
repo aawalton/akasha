@@ -6,7 +6,7 @@ export const cakeDecorating = {
   slug: "cake-decorating",
   title: "Cake Decorating",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 302.4,
   ownProgress: 302.4,

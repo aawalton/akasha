@@ -6,7 +6,7 @@ export const leonardoDaVinciAndTheItalianHighRenaissance = {
   slug: "leonardo-da-vinci-and-the-italian-high-renaissance",
   title: "Leonardo da Vinci and the Italian High Renaissance",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1122,
   ownProgress: 1122,

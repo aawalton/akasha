@@ -6,7 +6,7 @@ export const financialLiteracyFindingYourWayInTheFinancialMarkets = {
   slug: "financial-literacy-finding-your-way-in-the-financial-markets",
   title: "Financial Literacy: Finding Your Way in the Financial Markets",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 711,
   ownProgress: 711,

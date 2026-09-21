@@ -6,7 +6,7 @@ export const whatCanTheJamesWebbTelescopeSee = {
   slug: "what-can-the-james-webb-telescope-see",
   title: "What Can the James Webb Telescope See?",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 47.4,
   ownProgress: 47.4,

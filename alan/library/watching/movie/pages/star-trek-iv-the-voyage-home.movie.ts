@@ -11,7 +11,7 @@ export const starTrekIvTheVoyageHome = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1986-11-26",
   externalIdentity: [
     {

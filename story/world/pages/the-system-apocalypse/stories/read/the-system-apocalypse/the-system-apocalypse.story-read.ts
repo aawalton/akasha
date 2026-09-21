@@ -13,7 +13,7 @@ export const theSystemApocalypse = {
       externalLink: "https://www.amazon.com/dp/B077LNLSZ7",
     },
   ],
-  rank: "B",
+  grade: "B",
   tags: ["System Apocalypse"],
   unit: "unit/words",
 } as const satisfies StoryRead

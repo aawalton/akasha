@@ -6,7 +6,7 @@ export const pilotLectureCharacterAnalysisForActors = {
   slug: "pilot-lecture-character-analysis-for-actors",
   title: "Pilot Lecture: Character Analysis for Actors",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 26.4,
   ownProgress: 26.4,

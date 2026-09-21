@@ -11,7 +11,7 @@ export const greenDayKnowYourEnemy = {
   ownProgress: 8.11575,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-05-01",
   externalIdentity: [
     {

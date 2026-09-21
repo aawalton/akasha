@@ -11,7 +11,7 @@ export const jennaRaineSeeYouLaterTenYears = {
   ownProgress: 3.136,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-09-24",
   externalIdentity: [
     {

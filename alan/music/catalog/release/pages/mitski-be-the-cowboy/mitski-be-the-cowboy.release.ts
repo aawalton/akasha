@@ -11,7 +11,7 @@ export const mitskiBeTheCowboy = {
   ownProgress: 32.577933,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2018-08-17",
   externalIdentity: [
     {

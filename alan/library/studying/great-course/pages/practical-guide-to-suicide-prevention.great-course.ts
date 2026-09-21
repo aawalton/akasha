@@ -6,7 +6,7 @@ export const practicalGuideToSuicidePrevention = {
   slug: "practical-guide-to-suicide-prevention",
   title: "Practical Guide to Suicide Prevention",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 46.2,
   ownProgress: 46.2,

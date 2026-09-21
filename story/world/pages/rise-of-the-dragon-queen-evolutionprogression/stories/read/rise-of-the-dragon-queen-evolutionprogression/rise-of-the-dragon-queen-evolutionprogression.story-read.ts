@@ -14,7 +14,7 @@ export const riseOfTheDragonQueenEvolutionprogression = {
         "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Reincarnation",

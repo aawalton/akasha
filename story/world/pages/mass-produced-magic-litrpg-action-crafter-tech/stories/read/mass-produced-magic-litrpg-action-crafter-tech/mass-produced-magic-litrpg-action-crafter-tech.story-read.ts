@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech = {
   type: "page-type/story-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech",
   ownProgress: 141498,
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Mass Produced Magic",
   world: "world/mass-produced-magic-litrpg-action-crafter-tech",

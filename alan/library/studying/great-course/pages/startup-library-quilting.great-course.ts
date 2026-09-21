@@ -6,7 +6,7 @@ export const startupLibraryQuilting = {
   slug: "startup-library-quilting",
   title: "Startup Library: Quilting",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 337.8,
   ownProgress: 337.8,

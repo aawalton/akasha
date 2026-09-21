@@ -14,7 +14,7 @@ export const levelingUpTheWorld = {
     },
   ],
   author: "Lise Eclaire",
-  rank: "C",
+  grade: "C",
   externalTags: ["GameLit", "Portal Fantasy / Isekai", "Male Lead", "Action", "Adventure"],
   unit: "unit/words",
   prose: "txt",

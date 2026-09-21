@@ -6,7 +6,7 @@ export const moneyManagementSkills = {
   slug: "money-management-skills",
   title: "Money Management Skills",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 370.8,
   ownProgress: 370.8,

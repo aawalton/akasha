@@ -11,7 +11,7 @@ export const greenDayLastOfTheAmericanGirls = {
   ownProgress: 13.752433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2010-03-22",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const finishItBordersBackingBindingAndBeyond = {
   slug: "finish-it-borders-backing-binding-and-beyond",
   title: "Finish It! Borders, Backing, Binding & Beyond",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 171.6,
   ownProgress: 171.6,

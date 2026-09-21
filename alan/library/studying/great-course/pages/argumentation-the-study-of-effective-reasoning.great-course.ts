@@ -6,7 +6,7 @@ export const argumentationTheStudyOfEffectiveReasoning = {
   slug: "argumentation-the-study-of-effective-reasoning",
   title: "Argumentation: The Study of Effective Reasoning",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 732,
   ownProgress: 732,

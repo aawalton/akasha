@@ -11,7 +11,7 @@ export const emBeiholdEggInTheBackseat = {
   ownProgress: 19.249033,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-07-22",
   externalIdentity: [
     {

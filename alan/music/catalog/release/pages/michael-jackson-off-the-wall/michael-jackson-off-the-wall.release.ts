@@ -11,7 +11,7 @@ export const michaelJacksonOffTheWall = {
   ownProgress: 42.41415,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1979-08-10",
   externalIdentity: [
     {

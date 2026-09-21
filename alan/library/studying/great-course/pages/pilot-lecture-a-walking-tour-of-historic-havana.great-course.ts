@@ -6,7 +6,7 @@ export const pilotLectureAWalkingTourOfHistoricHavana = {
   slug: "pilot-lecture-a-walking-tour-of-historic-havana",
   title: "Pilot Lecture: A Walking Tour of Historic Havana",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 40.2,
   ownProgress: 40.2,

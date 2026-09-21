@@ -6,7 +6,7 @@ export const askADogTrainer = {
   slug: "ask-a-dog-trainer",
   title: "Ask a Dog Trainer",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 10.2,
   ownProgress: 10.2,

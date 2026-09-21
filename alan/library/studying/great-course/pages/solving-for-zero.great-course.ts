@@ -6,7 +6,7 @@ export const solvingForZero = {
   slug: "solving-for-zero",
   title: "Solving for Zero",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 68.4,
   ownProgress: 68.4,

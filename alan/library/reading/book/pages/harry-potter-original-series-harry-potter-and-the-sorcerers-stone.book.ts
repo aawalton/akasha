@@ -6,7 +6,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheSorcerersStone = {
   slug: "harry-potter-original-series-harry-potter-and-the-sorcerers-stone",
   title: "Harry Potter Original Series: Harry Potter and the Sorcerer's Stone",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   position: 1,
   ownLength: 78500,

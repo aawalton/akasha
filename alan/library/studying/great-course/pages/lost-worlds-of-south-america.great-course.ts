@@ -6,7 +6,7 @@ export const lostWorldsOfSouthAmerica = {
   slug: "lost-worlds-of-south-america",
   title: "Lost Worlds of South America",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 714,
   ownProgress: 714,

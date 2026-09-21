@@ -76,7 +76,7 @@ const TAG = tag.said
 
 const TAGS = "tags"
 
-const RANK = "rank"
+const GRADE_KEY = "grade"
 
 const SLUG = slugArgument.said
 
@@ -256,7 +256,7 @@ export function taggedOver(was: Value, said: readonly string[]): readonly string
 
 export function valuesFor(was: Value, held: Taken): Value {
   const values: Value = { ...was }
-  if (held.grade !== null) values[RANK] = held.grade
+  if (held.grade !== null) values[GRADE_KEY] = held.grade
   if (held.tags.length > 0) values[TAGS] = taggedOver(was, held.tags)
   for (const one of held.prose.keys()) values[exportedAs(one)] = TXT
   return values

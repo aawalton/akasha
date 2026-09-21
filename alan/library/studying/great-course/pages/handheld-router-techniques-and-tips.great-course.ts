@@ -6,7 +6,7 @@ export const handheldRouterTechniquesAndTips = {
   slug: "handheld-router-techniques-and-tips",
   title: "Handheld Router Techniques and Tips",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 205.2,
   ownProgress: 205.2,

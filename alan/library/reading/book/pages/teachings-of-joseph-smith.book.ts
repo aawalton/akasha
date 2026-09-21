@@ -6,7 +6,7 @@ export const teachingsOfJosephSmith = {
   slug: "teachings-of-joseph-smith",
   title: "Teachings of Joseph Smith",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Joseph Smith, Jr.",
   unit: "unit/words",
   position: 1,

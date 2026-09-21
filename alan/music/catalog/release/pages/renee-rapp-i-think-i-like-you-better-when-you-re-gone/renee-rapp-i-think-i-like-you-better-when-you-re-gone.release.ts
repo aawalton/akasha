@@ -11,7 +11,7 @@ export const reneeRappIThinkILikeYouBetterWhenYouReGone = {
   ownProgress: 2.3883,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-07-31",
   externalIdentity: [
     {

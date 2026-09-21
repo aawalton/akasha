@@ -11,7 +11,7 @@ export const izzyEscobarSunnyInLondon = {
   ownProgress: 20.74235,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

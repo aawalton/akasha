@@ -6,7 +6,7 @@ export const ancientWritingAndTheHistoryOfTheAlphabet = {
   slug: "ancient-writing-and-the-history-of-the-alphabet",
   title: "Ancient Writing and the History of the Alphabet",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 381,
   ownProgress: 381,

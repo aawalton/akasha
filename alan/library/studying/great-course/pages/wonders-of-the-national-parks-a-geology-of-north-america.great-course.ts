@@ -6,7 +6,7 @@ export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
   slug: "wonders-of-the-national-parks-a-geology-of-north-america",
   title: "Wonders of the National Parks: A Geology of North America",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1128,
   ownProgress: 1128,

@@ -9,7 +9,7 @@ export const emeiHoldOnMeRemixes = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2023-12-29",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -6,7 +6,7 @@ export const knitSocksTwoAtATime = {
   slug: "knit-socks-two-at-a-time",
   title: "Knit Socks: Two at a Time!",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 126,
   ownProgress: 126,

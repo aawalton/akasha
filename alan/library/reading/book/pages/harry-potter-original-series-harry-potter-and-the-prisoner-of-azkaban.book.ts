@@ -6,7 +6,7 @@ export const harryPotterOriginalSeriesHarryPotterAndThePrisonerOfAzkaban = {
   slug: "harry-potter-original-series-harry-potter-and-the-prisoner-of-azkaban",
   title: "Harry Potter Original Series: Harry Potter and the Prisoner of Azkaban",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   position: 3,
   ownLength: 109250,

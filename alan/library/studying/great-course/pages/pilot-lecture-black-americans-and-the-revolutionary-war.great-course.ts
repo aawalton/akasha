@@ -6,7 +6,7 @@ export const pilotLectureBlackAmericansAndTheRevolutionaryWar = {
   slug: "pilot-lecture-black-americans-and-the-revolutionary-war",
   title: "Pilot Lecture: Black Americans and the Revolutionary War",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,

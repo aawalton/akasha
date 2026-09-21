@@ -6,7 +6,7 @@ export const scaleAndSeaTrilogySovereignSoul = {
   slug: "scale-and-sea-trilogy-sovereign-soul",
   title: "Scale & Sea Trilogy: Sovereign Soul",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   position: 1,
   ownLength: 170000,

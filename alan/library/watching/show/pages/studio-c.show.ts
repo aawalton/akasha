@@ -11,7 +11,7 @@ export const studioC = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-10-07",
   externalIdentity: [
     {

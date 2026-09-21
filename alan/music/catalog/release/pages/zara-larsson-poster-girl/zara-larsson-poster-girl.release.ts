@@ -9,7 +9,7 @@ export const zaraLarssonPosterGirl = {
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
   publishedAt: "2021-03-05",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -6,7 +6,7 @@ export const mathAndMagic = {
   slug: "math-and-magic",
   title: "Math and Magic",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 388.2,
   ownProgress: 388.2,

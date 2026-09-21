@@ -11,7 +11,7 @@ export const soloLeveling = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-01-06",
   externalIdentity: [
     {

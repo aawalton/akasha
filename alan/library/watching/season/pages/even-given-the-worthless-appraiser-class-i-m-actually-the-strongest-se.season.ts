@@ -11,7 +11,7 @@ export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongestSe = {
   ownProgress: 288,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-01-09",
   externalIdentity: [
     {

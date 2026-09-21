@@ -6,7 +6,7 @@ export const afterTheTraumaLessonsFromMarjoryStonemanDouglas = {
   slug: "after-the-trauma-lessons-from-marjory-stoneman-douglas",
   title: "After the Trauma: Lessons from Marjory Stoneman Douglas",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 43.8,
   ownProgress: 43.8,

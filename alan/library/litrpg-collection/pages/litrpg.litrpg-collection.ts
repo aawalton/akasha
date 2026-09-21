@@ -10,7 +10,7 @@ export const litrpg = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-applicable",
-  rank: "A",
+  grade: "A",
   tags: [
     "Civilization Building",
     "Comedy",

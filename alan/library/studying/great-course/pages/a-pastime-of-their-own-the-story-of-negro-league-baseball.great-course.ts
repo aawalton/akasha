@@ -6,7 +6,7 @@ export const aPastimeOfTheirOwnTheStoryOfNegroLeagueBaseball = {
   slug: "a-pastime-of-their-own-the-story-of-negro-league-baseball",
   title: "A Pastime of Their Own: The Story of Negro League Baseball",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 371.4,
   ownProgress: 371.4,

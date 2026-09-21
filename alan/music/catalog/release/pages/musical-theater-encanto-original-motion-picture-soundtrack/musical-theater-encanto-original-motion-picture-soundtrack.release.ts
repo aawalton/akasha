@@ -11,7 +11,7 @@ export const musicalTheaterEncantoOriginalMotionPictureSoundtrack = {
   ownProgress: 114.716617,
   unit: "unit/minutes",
   status: "completed",
-  rank: "S",
+  grade: "S",
   publishedAt: "2021-11-19",
   externalIdentity: [
     {

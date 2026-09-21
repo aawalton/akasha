@@ -6,7 +6,7 @@ export const redawn = {
   slug: "redawn",
   title: "ReDawn",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson, Janci Patterson",
   unit: "unit/words",
   position: 2,

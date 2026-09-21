@@ -14,7 +14,7 @@ export const sylASlimeMonsterEvolutionLitrpg = {
     },
   ],
   author: "Lunadea",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

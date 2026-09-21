@@ -11,7 +11,7 @@ export const lynLapidDetached = {
   ownProgress: 2.436267,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-10-07",
   externalIdentity: [
     {

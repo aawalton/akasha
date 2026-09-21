@@ -9,7 +9,7 @@ export const billieEilishSixFeetUnder = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2016-11-17",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

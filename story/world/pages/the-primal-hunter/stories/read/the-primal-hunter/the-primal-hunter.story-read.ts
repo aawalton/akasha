@@ -14,7 +14,7 @@ export const thePrimalHunter = {
     },
   ],
   author: "Zogarth",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

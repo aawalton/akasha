@@ -6,7 +6,7 @@ export const secondAgeOfRethraTheDesperateQuest = {
   slug: "second-age-of-rethra-the-desperate-quest",
   title: "Second Age of Rethra: The Desperate Quest",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/words",
   position: 2,
   ownLength: 79500,

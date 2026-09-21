@@ -6,7 +6,7 @@ export const pilotLectureTheStoryOfTheMahabharata = {
   slug: "pilot-lecture-the-story-of-the-mahabharata",
   title: "Pilot Lecture: The Story of the Mahabharata",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

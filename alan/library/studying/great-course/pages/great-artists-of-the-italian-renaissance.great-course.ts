@@ -6,7 +6,7 @@ export const greatArtistsOfTheItalianRenaissance = {
   slug: "great-artists-of-the-italian-renaissance",
   title: "Great Artists of the Italian Renaissance",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1092,
   ownProgress: 1092,

@@ -9,7 +9,7 @@ export const sylviaDaleyRubikSCube = {
   partOfCollections: ["artist/sylvia-daley"],
   position: 0,
   publishedAt: "2025-06-13",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

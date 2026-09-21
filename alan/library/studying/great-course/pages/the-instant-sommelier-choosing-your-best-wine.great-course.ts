@@ -6,7 +6,7 @@ export const theInstantSommelierChoosingYourBestWine = {
   slug: "the-instant-sommelier-choosing-your-best-wine",
   title: "The Instant Sommelier: Choosing Your Best Wine",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 186,
   ownProgress: 186,

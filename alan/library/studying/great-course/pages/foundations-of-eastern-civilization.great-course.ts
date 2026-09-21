@@ -6,7 +6,7 @@ export const foundationsOfEasternCivilization = {
   slug: "foundations-of-eastern-civilization",
   title: "Foundations of Eastern Civilization",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1407,
   ownProgress: 1407,

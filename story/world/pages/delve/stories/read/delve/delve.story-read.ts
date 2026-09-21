@@ -4,7 +4,7 @@ export const delve = {
   id: "01a0657d-ada1-7905-9a2c-47bf2e18b947",
   type: "page-type/story-read",
   slug: "delve",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Delve",
   world: "world/delve",

@@ -6,7 +6,7 @@ export const languageAToZ = {
   slug: "language-a-to-z",
   title: "Language A to Z",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 374.4,
   ownProgress: 374.4,

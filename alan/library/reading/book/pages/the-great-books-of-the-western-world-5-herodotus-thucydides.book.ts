@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld5HerodotusThucydides = {
   slug: "the-great-books-of-the-western-world-5-herodotus-thucydides",
   title: "The Great Books of the Western World 5: Herodotus, Thucydides",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Mortimer J. Adler",
   unit: "unit/words",
   position: 5,

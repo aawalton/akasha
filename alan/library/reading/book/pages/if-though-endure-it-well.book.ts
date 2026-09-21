@@ -6,7 +6,7 @@ export const ifThoughEndureItWell = {
   slug: "if-though-endure-it-well",
   title: "If Though Endure It Well",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Edmund Husserl, Dorion Cairns",
   unit: "unit/words",
   position: 3,

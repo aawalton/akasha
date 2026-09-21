@@ -6,7 +6,7 @@ export const essentialTechniquesForOutstandingPaintings = {
   slug: "essential-techniques-for-outstanding-paintings",
   title: "Essential Techniques for Outstanding Paintings",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 118.8,
   ownProgress: 118.8,

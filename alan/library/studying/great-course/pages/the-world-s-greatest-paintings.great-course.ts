@@ -6,7 +6,7 @@ export const theWorldSGreatestPaintings = {
   slug: "the-world-s-greatest-paintings",
   title: "The World's Greatest Paintings",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 732,
   ownProgress: 732,

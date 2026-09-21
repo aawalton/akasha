@@ -6,7 +6,7 @@ export const customBuiltInShelves = {
   slug: "custom-built-in-shelves",
   title: "Custom Built-In Shelves",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 84.6,
   ownProgress: 84.6,

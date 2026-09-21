@@ -13,7 +13,7 @@ export const sherlyTheMostVirtuousHolyCow = {
       externalLink: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

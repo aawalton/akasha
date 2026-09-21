@@ -6,7 +6,7 @@ export const menAndWomenOfChrist = {
   slug: "men-and-women-of-christ",
   title: "Men and Women of Christ",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 5,

@@ -6,7 +6,7 @@ export const americaAndTheNewGlobalEconomy = {
   slug: "america-and-the-new-global-economy",
   title: "America and the New Global Economy",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1120.2,
   ownProgress: 1120.2,

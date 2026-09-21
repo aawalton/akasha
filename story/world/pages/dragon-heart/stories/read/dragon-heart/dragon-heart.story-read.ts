@@ -13,7 +13,7 @@ export const dragonHeart = {
       externalLink: "https://www.amazon.com/dp/B07TXD7F8V",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["Cultivation", "Dark"],
   unit: "unit/words",
 } as const satisfies StoryRead

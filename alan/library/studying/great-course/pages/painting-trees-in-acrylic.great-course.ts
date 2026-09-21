@@ -6,7 +6,7 @@ export const paintingTreesInAcrylic = {
   slug: "painting-trees-in-acrylic",
   title: "Painting Trees in Acrylic",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 167.4,
   ownProgress: 167.4,

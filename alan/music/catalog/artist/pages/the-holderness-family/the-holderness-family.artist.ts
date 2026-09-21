@@ -8,7 +8,7 @@ export const theHoldernessFamily = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "C",
+  grade: "C",
   status: "following",
   tags: ["Comedy", "Satire"],
   unit: "unit/minutes",

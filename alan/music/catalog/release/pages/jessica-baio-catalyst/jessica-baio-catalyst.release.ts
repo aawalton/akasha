@@ -11,7 +11,7 @@ export const jessicaBaioCatalyst = {
   ownProgress: 17.88575,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-03-10",
   externalIdentity: [
     {

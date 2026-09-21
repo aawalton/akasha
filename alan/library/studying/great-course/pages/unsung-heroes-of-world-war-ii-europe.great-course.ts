@@ -6,7 +6,7 @@ export const unsungHeroesOfWorldWarIiEurope = {
   slug: "unsung-heroes-of-world-war-ii-europe",
   title: "Unsung Heroes of World War II: Europe",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 358.8,
   ownProgress: 358.8,

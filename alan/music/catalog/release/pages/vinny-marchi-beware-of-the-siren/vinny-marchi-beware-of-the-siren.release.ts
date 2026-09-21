@@ -9,7 +9,7 @@ export const vinnyMarchiBewareOfTheSiren = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-06-22",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

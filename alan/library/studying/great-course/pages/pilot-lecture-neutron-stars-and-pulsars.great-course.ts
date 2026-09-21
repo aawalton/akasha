@@ -6,7 +6,7 @@ export const pilotLectureNeutronStarsAndPulsars = {
   slug: "pilot-lecture-neutron-stars-and-pulsars",
   title: "Pilot Lecture: Neutron Stars and Pulsars",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,

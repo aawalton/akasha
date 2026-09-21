@@ -6,7 +6,7 @@ export const eatForYourHealthSimpleScienceAndFantasticFlavor = {
   slug: "eat-for-your-health-simple-science-and-fantastic-flavor",
   title: "Eat for Your Health: Simple Science and Fantastic Flavor",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 420,
   ownProgress: 420,

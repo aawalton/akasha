@@ -6,7 +6,7 @@ export const famousGreeks = {
   slug: "famous-greeks",
   title: "Famous Greeks",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 736.8,
   ownProgress: 736.8,

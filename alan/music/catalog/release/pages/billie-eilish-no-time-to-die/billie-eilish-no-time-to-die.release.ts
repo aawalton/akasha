@@ -9,7 +9,7 @@ export const billieEilishNoTimeToDie = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2020-02-13",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

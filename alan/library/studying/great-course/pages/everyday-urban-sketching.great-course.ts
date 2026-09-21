@@ -6,7 +6,7 @@ export const everydayUrbanSketching = {
   slug: "everyday-urban-sketching",
   title: "Everyday Urban Sketching",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 719.4,
   ownProgress: 719.4,

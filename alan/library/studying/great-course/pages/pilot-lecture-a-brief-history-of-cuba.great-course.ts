@@ -6,7 +6,7 @@ export const pilotLectureABriefHistoryOfCuba = {
   slug: "pilot-lecture-a-brief-history-of-cuba",
   title: "Pilot Lecture: A Brief History of Cuba",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 37.8,
   ownProgress: 37.8,

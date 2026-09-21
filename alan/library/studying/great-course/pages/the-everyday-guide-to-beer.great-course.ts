@@ -6,7 +6,7 @@ export const theEverydayGuideToBeer = {
   slug: "the-everyday-guide-to-beer",
   title: "The Everyday Guide to Beer",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 340.2,
   ownProgress: 340.2,

@@ -6,7 +6,7 @@ export const thePaganWorldAncientReligionsBeforeChristianity = {
   slug: "the-pagan-world-ancient-religions-before-christianity",
   title: "The Pagan World: Ancient Religions before Christianity",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 754.8,
   ownProgress: 754.8,

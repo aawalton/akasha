@@ -145,12 +145,12 @@ test("the progress and the grade a person gave a release outlive the sweep", () 
     artistSlug: "sylvia-daley",
     slug: "sylvia-daley-pixie",
     album: whole(album("a1", "Pixie"), [60_000]),
-    was: { status: "completed", ownProgress: 3.5, rank: "A" },
+    was: { status: "completed", ownProgress: 3.5, grade: "A" },
     today: TODAY,
   })
   expect(values["status"]).toBe("completed")
   expect(values["ownProgress"]).toBe(3.5)
-  expect(values["rank"]).toBe("A")
+  expect(values["grade"]).toBe("A")
 })
 
 test("a release states the day only where Spotify gives a whole day", () => {

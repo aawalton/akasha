@@ -9,7 +9,7 @@ export const alexandriaPixie = {
   partOfCollections: ["artist/alexandria"],
   position: 0,
   publishedAt: "2023-07-21",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

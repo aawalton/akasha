@@ -6,7 +6,7 @@ export const anthropologyAndTheStudyOfHumanity = {
   slug: "anthropology-and-the-study-of-humanity",
   title: "Anthropology and the Study of Humanity",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 720.6,
   ownProgress: 720.6,

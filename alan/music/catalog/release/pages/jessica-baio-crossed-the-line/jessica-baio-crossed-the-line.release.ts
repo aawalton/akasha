@@ -11,7 +11,7 @@ export const jessicaBaioCrossedTheLine = {
   ownProgress: 2.730083,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-06-03",
   externalIdentity: [
     {

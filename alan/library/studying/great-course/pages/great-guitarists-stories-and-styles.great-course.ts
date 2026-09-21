@@ -6,7 +6,7 @@ export const greatGuitaristsStoriesAndStyles = {
   slug: "great-guitarists-stories-and-styles",
   title: "Great Guitarists' Stories and Styles",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 153,
   ownProgress: 153,

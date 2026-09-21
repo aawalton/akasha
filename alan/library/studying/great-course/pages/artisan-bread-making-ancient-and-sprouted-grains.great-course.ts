@@ -6,7 +6,7 @@ export const artisanBreadMakingAncientAndSproutedGrains = {
   slug: "artisan-bread-making-ancient-and-sprouted-grains",
   title: "Artisan Bread Making: Ancient & Sprouted Grains",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 147,
   ownProgress: 147,

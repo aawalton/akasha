@@ -11,7 +11,7 @@ export const greenDayDookie30thAnniversaryDeluxeEdition = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2023-08-17",
   externalIdentity: [
     {

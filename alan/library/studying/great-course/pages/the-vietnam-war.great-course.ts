@@ -6,7 +6,7 @@ export const theVietnamWar = {
   slug: "the-vietnam-war",
   title: "The Vietnam War",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 685.2,
   ownProgress: 685.2,

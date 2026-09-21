@@ -6,7 +6,7 @@ export const historySGreatestVoyagesOfExploration = {
   slug: "history-s-greatest-voyages-of-exploration",
   title: "History's Greatest Voyages of Exploration",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 724.2,
   ownProgress: 724.2,

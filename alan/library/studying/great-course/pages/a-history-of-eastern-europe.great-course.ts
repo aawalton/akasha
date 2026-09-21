@@ -6,7 +6,7 @@ export const aHistoryOfEasternEurope = {
   slug: "a-history-of-eastern-europe",
   title: "A History of Eastern Europe",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 724.8,
   ownProgress: 724.8,

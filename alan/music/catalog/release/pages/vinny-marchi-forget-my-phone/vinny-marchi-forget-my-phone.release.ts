@@ -9,7 +9,7 @@ export const vinnyMarchiForgetMyPhone = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-04-14",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

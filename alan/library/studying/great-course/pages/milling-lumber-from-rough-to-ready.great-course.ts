@@ -6,7 +6,7 @@ export const millingLumberFromRoughToReady = {
   slug: "milling-lumber-from-rough-to-ready",
   title: "Milling Lumber: From Rough to Ready",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 91.8,
   ownProgress: 91.8,

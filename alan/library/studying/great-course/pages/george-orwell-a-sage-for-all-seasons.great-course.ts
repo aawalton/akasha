@@ -6,7 +6,7 @@ export const georgeOrwellASageForAllSeasons = {
   slug: "george-orwell-a-sage-for-all-seasons",
   title: "George Orwell: A Sage for All Seasons",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 622.2,
   ownProgress: 622.2,

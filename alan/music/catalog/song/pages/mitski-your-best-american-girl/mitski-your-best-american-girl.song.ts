@@ -4,7 +4,7 @@ export const mitskiYourBestAmericanGirl = {
   id: "019f0ea1-252b-75e6-8914-27ba7027411b",
   type: "page-type/song",
   slug: "mitski-your-best-american-girl",
-  rank: "B+",
+  grade: "B+",
   externalIdentity: [
     {
       source: "musicbrainz",

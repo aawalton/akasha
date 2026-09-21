@@ -11,7 +11,7 @@ export const michaelJacksonMotownLegendsRockinRobin = {
   ownProgress: 37.05105,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1993-01-01",
   externalIdentity: [
     {

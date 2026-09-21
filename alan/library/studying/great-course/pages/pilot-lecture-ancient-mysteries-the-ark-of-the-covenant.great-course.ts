@@ -6,7 +6,7 @@ export const pilotLectureAncientMysteriesTheArkOfTheCovenant = {
   slug: "pilot-lecture-ancient-mysteries-the-ark-of-the-covenant",
   title: "Pilot Lecture: Ancient Mysteries - The Ark of the Covenant",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 34.2,
   ownProgress: 34.2,

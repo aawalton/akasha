@@ -6,7 +6,7 @@ export const reporting911AndWhyItStillMatters = {
   slug: "reporting-9-11-and-why-it-still-matters",
   title: "Reporting 9/11 and Why It Still Matters",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 121.2,
   ownProgress: 121.2,

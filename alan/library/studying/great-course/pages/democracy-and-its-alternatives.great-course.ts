@@ -6,7 +6,7 @@ export const democracyAndItsAlternatives = {
   slug: "democracy-and-its-alternatives",
   title: "Democracy and Its Alternatives",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 546,
   ownProgress: 546,

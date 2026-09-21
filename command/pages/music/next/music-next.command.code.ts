@@ -26,7 +26,7 @@ const ARTIST = "artist"
 
 const SONG = "song"
 
-const RANK = "rank"
+const GRADE = "grade"
 
 type Held = Record<string, unknown>
 
@@ -53,18 +53,18 @@ function list(held: Held, key: string): readonly string[] {
   return typeof said === "string" && said !== "" ? [said] : []
 }
 
-function rank(held: Held): MusicRating | undefined {
-  const said = text(held, RANK)
+function gradeOf(held: Held): MusicRating | undefined {
+  const said = text(held, GRADE)
   return MUSIC_RATINGS.find((step) => step === said)
 }
 
 export function undeclaredIn(root: string, pageTypeSlug: string): string | null {
   const declared = propertiesIfNamedOf(pageTypeSlug, root, (path) => valueAt(path, root))
   if (declared === null) {
-    return `\`${pageTypeSlug}\` names no page type here, so whether it carries \`${RANK}\` cannot be read`
+    return `\`${pageTypeSlug}\` names no page type here, so whether it carries \`${GRADE}\` cannot be read`
   }
-  if (declared.some((one) => one.key === RANK)) return null
-  return `the \`${pageTypeSlug}\` page type declares no \`${RANK}\`, so every grade would read as none`
+  if (declared.some((one) => one.key === GRADE)) return null
+  return `the \`${pageTypeSlug}\` page type declares no \`${GRADE}\`, so every grade would read as none`
 }
 
 export function gradeAmiss(root: string): string | null {
@@ -72,24 +72,24 @@ export function gradeAmiss(root: string): string | null {
 }
 
 function artistIn(held: Held): CatalogArtist {
-  const graded = rank(held)
+  const graded = gradeOf(held)
   return {
     slug: text(held, "slug") ?? "",
     title: text(held, "title") ?? "",
     genre: list(held, "genre"),
-    ...(graded === undefined ? {} : { rank: graded }),
+    ...(graded === undefined ? {} : { grade: graded }),
   }
 }
 
 function songIn(held: Held): CatalogSong {
-  const graded = rank(held)
+  const graded = gradeOf(held)
   const named = text(held, ARTIST)
   return {
     slug: text(held, "slug") ?? "",
     title: text(held, "title") ?? "",
     artist: named === undefined ? "" : slugOf(named),
     performed: held["performed"] === true,
-    ...(graded === undefined ? {} : { rank: graded }),
+    ...(graded === undefined ? {} : { grade: graded }),
   }
 }
 

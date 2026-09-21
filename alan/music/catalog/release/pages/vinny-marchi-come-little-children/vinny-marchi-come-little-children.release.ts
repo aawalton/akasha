@@ -9,7 +9,7 @@ export const vinnyMarchiComeLittleChildren = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2022-09-18",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

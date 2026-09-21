@@ -6,7 +6,7 @@ export const wheelOfTime = {
   slug: "wheel-of-time",
   title: "Wheel of Time",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   maturityRating: "PG-13",
   externalIdentity: [

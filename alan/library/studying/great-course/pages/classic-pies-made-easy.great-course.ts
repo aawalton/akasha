@@ -6,7 +6,7 @@ export const classicPiesMadeEasy = {
   slug: "classic-pies-made-easy",
   title: "Classic Pies Made Easy",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 163.633333,
   ownProgress: 163.633333,

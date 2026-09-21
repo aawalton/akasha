@@ -6,7 +6,7 @@ export const foodScienceAndTheHumanBody = {
   slug: "food-science-and-the-human-body",
   title: "Food, Science, and the Human Body",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1072.8,
   ownProgress: 1072.8,

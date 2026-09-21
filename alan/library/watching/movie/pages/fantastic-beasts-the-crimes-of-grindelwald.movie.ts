@@ -11,7 +11,7 @@ export const fantasticBeastsTheCrimesOfGrindelwald = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2018-11-16",
   externalIdentity: [
     {

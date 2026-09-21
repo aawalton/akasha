@@ -6,7 +6,7 @@ export const travelsWithDarleySeasons3And4 = {
   slug: "travels-with-darley-seasons-3-and-4",
   title: "Travels with Darley: Seasons 3 & 4",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 668.4,
   ownProgress: 668.4,

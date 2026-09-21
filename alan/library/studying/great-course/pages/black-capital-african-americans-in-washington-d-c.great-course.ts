@@ -6,7 +6,7 @@ export const blackCapitalAfricanAmericansInWashingtonDC = {
   slug: "black-capital-african-americans-in-washington-d-c",
   title: "Black Capital: African Americans in Washington, D.C.",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 54,
   ownProgress: 54,

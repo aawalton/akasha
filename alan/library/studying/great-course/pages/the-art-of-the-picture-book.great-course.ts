@@ -6,7 +6,7 @@ export const theArtOfThePictureBook = {
   slug: "the-art-of-the-picture-book",
   title: "The Art of the Picture Book",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 163.716667,
   ownProgress: 163.716667,

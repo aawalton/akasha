@@ -11,7 +11,7 @@ export const jennaRaineRentFree = {
   ownProgress: 2.427883,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-11-11",
   externalIdentity: [
     {

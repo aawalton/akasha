@@ -6,7 +6,7 @@ export const nationalGeographicPolarExplorations = {
   slug: "national-geographic-polar-explorations",
   title: "National Geographic Polar Explorations",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 669.6,
   ownProgress: 669.6,

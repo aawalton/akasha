@@ -4,7 +4,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons = {
   id: "01a0657d-ada1-7b15-a27b-2ea2c9119660",
   type: "page-type/story-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Blind Chaos",
   world: "world/blind-chaos-tales-beneath-the-dragoneye-moons",

@@ -14,7 +14,7 @@ export const markOfTheFool = {
     },
   ],
   author: "J.M. Clarke (U Juggernaut)",
-  rank: "B",
+  grade: "B",
   externalTags: [
     "GameLit",
     "Progression",

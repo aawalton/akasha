@@ -11,7 +11,7 @@ export const mitskiTheLandIsInhospitableAndSoAreWe = {
   ownProgress: 32.372167,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-09-15",
   externalIdentity: [
     {

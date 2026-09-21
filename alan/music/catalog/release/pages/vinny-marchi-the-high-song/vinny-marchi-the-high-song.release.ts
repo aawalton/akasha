@@ -9,7 +9,7 @@ export const vinnyMarchiTheHighSong = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-05-26",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

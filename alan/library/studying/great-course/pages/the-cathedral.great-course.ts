@@ -6,7 +6,7 @@ export const theCathedral = {
   slug: "the-cathedral",
   title: "The Cathedral",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 739.8,
   ownProgress: 739.8,

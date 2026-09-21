@@ -11,7 +11,7 @@ export const emBeiholdPainfulTruth = {
   ownProgress: 3.481117,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2020-11-20",
   externalIdentity: [
     {

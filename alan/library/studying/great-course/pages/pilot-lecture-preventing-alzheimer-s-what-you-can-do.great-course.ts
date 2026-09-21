@@ -6,7 +6,7 @@ export const pilotLecturePreventingAlzheimerSWhatYouCanDo = {
   slug: "pilot-lecture-preventing-alzheimer-s-what-you-can-do",
   title: "Pilot Lecture: Preventing Alzheimer’s—What You Can Do",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 34.2,
   ownProgress: 34.2,

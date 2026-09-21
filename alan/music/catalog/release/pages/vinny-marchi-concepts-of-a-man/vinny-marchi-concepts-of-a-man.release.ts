@@ -9,7 +9,7 @@ export const vinnyMarchiConceptsOfAMan = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-11-08",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

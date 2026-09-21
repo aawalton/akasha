@@ -6,7 +6,7 @@ export const scientificSecretsForSelfControl = {
   slug: "scientific-secrets-for-self-control",
   title: "Scientific Secrets for Self-Control",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 183,
   ownProgress: 0,

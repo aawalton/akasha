@@ -11,7 +11,7 @@ export const greenDayCastawayDemo = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-10-03",
   externalIdentity: [
     {

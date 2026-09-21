@@ -9,7 +9,7 @@ export const jisooMe = {
   partOfCollections: ["artist/jisoo"],
   position: 0,
   publishedAt: "2023-03-31",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

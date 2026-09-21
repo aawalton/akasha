@@ -13,7 +13,7 @@ export const awakenOnline = {
       externalLink: "https://www.amazon.com/dp/B074CC5NDX",
     },
   ],
-  rank: "A",
+  grade: "A",
   following: true,
   tags: ["VRMMO"],
   unit: "unit/words",

@@ -6,7 +6,7 @@ export const sewingBrasConstructionAndFit = {
   slug: "sewing-bras-construction-and-fit",
   title: "Sewing Bras: Construction & Fit",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 223.2,
   ownProgress: 223.2,

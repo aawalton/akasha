@@ -11,7 +11,7 @@ export const harryPotterAndTheHalfBloodPrince = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2009-07-15",
   externalIdentity: [
     {

@@ -9,7 +9,7 @@ export const alexandriaFireAndIce = {
   partOfCollections: ["artist/alexandria"],
   position: 0,
   publishedAt: "2025-09-19",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

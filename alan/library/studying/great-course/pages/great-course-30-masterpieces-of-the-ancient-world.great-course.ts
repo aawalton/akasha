@@ -6,7 +6,7 @@ export const greatCourse30MasterpiecesOfTheAncientWorld = {
   slug: "great-course-30-masterpieces-of-the-ancient-world",
   title: "30 Masterpieces of the Ancient World",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1117.8,
   ownProgress: 1117.8,

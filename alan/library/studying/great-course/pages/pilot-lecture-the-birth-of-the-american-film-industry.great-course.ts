@@ -6,7 +6,7 @@ export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   slug: "pilot-lecture-the-birth-of-the-american-film-industry",
   title: "Pilot Lecture: The Birth of the American Film Industry",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 30.183333,
   ownProgress: 30.183333,

@@ -11,7 +11,7 @@ export const emBeiholdNumbLittleBug = {
   ownProgress: 2.820617,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2022-01-28",
   externalIdentity: [
     {

@@ -26,7 +26,7 @@ const ARTISTS = [
     slug: "one",
     title: "One",
     status: "following",
-    rank: "A",
+    grade: "A",
     totalLength: 100,
     totalProgress: 70,
   },
@@ -34,7 +34,7 @@ const ARTISTS = [
     slug: "two",
     title: "Two",
     status: "archived",
-    rank: "C",
+    grade: "C",
     totalLength: 10,
     totalProgress: 0,
   },
@@ -42,7 +42,7 @@ const ARTISTS = [
 ]
 
 const RELEASES = [
-  { slug: "a", partOfCollections: ["artist/one"], ownLength: 60, ownProgress: 30, rank: "B" },
+  { slug: "a", partOfCollections: ["artist/one"], ownLength: 60, ownProgress: 30, grade: "B" },
   { slug: "b", partOfCollections: ["one"], ownLength: 40, ownProgress: 40 },
   { slug: "c", partOfCollections: ["artist/two"], ownLength: 10, ownProgress: 0 },
   { slug: "d", partOfCollections: ["artist/nobody"], ownLength: 99, ownProgress: 99 },

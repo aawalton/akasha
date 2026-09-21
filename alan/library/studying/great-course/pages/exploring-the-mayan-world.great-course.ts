@@ -6,7 +6,7 @@ export const exploringTheMayanWorld = {
   slug: "exploring-the-mayan-world",
   title: "Exploring the Mayan World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 205.8,
   ownProgress: 205.8,

@@ -6,7 +6,7 @@ export const wheelOfTimeTheFiresOfHeaven = {
   slug: "wheel-of-time-the-fires-of-heaven",
   title: "Wheel of Time: The Fires of Heaven",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 5,

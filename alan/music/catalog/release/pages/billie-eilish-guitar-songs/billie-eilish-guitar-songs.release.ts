@@ -9,7 +9,7 @@ export const billieEilishGuitarSongs = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2022-07-21",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

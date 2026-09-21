@@ -13,7 +13,7 @@ export const disgardium = {
       externalLink: "https://www.amazon.com/dp/B07Q6M246J",
     },
   ],
-  rank: "B",
+  grade: "B",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

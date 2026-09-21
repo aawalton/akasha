@@ -11,7 +11,7 @@ export const jessicaBaioStartOver = {
   ownProgress: 3.415133,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-12-02",
   externalIdentity: [
     {

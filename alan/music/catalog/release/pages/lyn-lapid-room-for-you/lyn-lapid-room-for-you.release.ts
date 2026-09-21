@@ -11,7 +11,7 @@ export const lynLapidRoomForYou = {
   ownProgress: 3.056217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-07-26",
   externalIdentity: [
     {

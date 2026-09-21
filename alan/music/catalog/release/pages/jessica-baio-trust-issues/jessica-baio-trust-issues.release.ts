@@ -11,7 +11,7 @@ export const jessicaBaioTrustIssues = {
   ownProgress: 2.2377,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-09-30",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const lynLapidMySunnyDay = {
   ownProgress: 2.160683,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-12-10",
   externalIdentity: [
     {

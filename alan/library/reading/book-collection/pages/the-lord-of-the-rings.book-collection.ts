@@ -11,6 +11,6 @@ export const theLordOfTheRings = {
   ownProgress: 0,
   unit: "unit/words",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "1954-07-29",
 } as const satisfies BookCollection

@@ -6,7 +6,7 @@ export const pilotLectureThePirateWarsOf1718 = {
   slug: "pilot-lecture-the-pirate-wars-of-1718",
   title: "Pilot Lecture: The Pirate Wars of 1718",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 33.6,
   ownProgress: 33.6,

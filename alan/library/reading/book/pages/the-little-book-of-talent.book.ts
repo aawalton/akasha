@@ -6,7 +6,7 @@ export const theLittleBookOfTalent = {
   slug: "the-little-book-of-talent",
   title: "The Little Book of Talent",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Daniel Coyle",
   unit: "unit/words",
   ownLength: 27750,

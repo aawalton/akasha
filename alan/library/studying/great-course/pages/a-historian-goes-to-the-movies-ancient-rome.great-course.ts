@@ -6,7 +6,7 @@ export const aHistorianGoesToTheMoviesAncientRome = {
   slug: "a-historian-goes-to-the-movies-ancient-rome",
   title: "A Historian Goes to the Movies: Ancient Rome",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 392.4,
   ownProgress: 392.4,

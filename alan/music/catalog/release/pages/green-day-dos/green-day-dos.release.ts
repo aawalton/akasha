@@ -11,7 +11,7 @@ export const greenDayDos = {
   ownProgress: 39.470383,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-11-13",
   externalIdentity: [
     {

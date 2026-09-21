@@ -11,7 +11,7 @@ export const theXFiles19932002 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "1993-09-11",
   externalIdentity: [
     {

@@ -14,7 +14,7 @@ export const markOfTheCrijik = {
     },
   ],
   author: "ThinkTwice",
-  rank: "C",
+  grade: "C",
   following: true,
   externalTags: [
     "LitRPG",

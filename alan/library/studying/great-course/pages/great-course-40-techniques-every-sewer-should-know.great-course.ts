@@ -6,7 +6,7 @@ export const greatCourse40TechniquesEverySewerShouldKnow = {
   slug: "great-course-40-techniques-every-sewer-should-know",
   title: "40 Techniques Every Sewer Should Know",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 256.2,
   ownProgress: 256.2,

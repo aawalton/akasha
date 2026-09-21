@@ -6,7 +6,7 @@ export const theGreatToursCivilWarBattlefields = {
   slug: "the-great-tours-civil-war-battlefields",
   title: "The Great Tours: Civil War Battlefields",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 453,
   ownProgress: 453,

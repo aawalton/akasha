@@ -11,7 +11,7 @@ export const reneeRappBiteMe = {
   ownProgress: 33.484367,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-08-01",
   externalIdentity: [
     {

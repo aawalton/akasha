@@ -11,7 +11,7 @@ export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5 = {
   ownProgress: 7.678667,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2020-06-16",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const analysisAndCritiqueHowToEngageAndWriteAboutAnything = {
   slug: "analysis-and-critique-how-to-engage-and-write-about-anything",
   title: "Analysis and Critique: How to Engage and Write about Anything",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 712.8,
   ownProgress: 712.8,

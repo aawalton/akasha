@@ -11,7 +11,7 @@ export const michaelJacksonBadRemastered = {
   ownProgress: 48.17465,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1987-08-31",
   externalIdentity: [
     {

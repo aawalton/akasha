@@ -9,7 +9,7 @@ export const auroraSouthernStarFeatAurora = {
   partOfCollections: ["artist/aurora"],
   position: 0,
   publishedAt: "2025-10-23",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

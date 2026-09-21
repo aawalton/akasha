@@ -11,7 +11,7 @@ export const starTrekSpecials = {
   ownProgress: 1461,
   unit: "unit/minutes",
   status: "archived",
-  rank: "B",
+  grade: "B",
   publishedAt: "1988-10-16",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const michaelJacksonMichaelJacksonXMarkRonsonDiamondsAreInvincible = {
   ownProgress: 5.000433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2018-08-29",
   externalIdentity: [
     {

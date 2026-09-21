@@ -11,7 +11,7 @@ export const pentatonixPtx = {
   ownProgress: 60.632783,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2014-09-19",
   externalIdentity: [
     {

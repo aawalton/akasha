@@ -6,7 +6,7 @@ export const theWorldSGreatestGeologicalWonders = {
   slug: "the-world-s-greatest-geological-wonders",
   title: "The World's Greatest Geological Wonders",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1114.2,
   ownProgress: 1114.2,

@@ -13,6 +13,6 @@ export const riseOfTheDevourer = {
       externalLink: "https://www.amazon.com/dp/B0CKZJHF29",
     },
   ],
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
 } as const satisfies StoryRead

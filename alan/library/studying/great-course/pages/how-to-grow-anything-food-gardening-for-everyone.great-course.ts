@@ -6,7 +6,7 @@ export const howToGrowAnythingFoodGardeningForEveryone = {
   slug: "how-to-grow-anything-food-gardening-for-everyone",
   title: "How to Grow Anything: Food Gardening for Everyone",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 363,
   ownProgress: 363,

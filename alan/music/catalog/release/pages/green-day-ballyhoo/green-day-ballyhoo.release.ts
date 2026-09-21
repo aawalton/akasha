@@ -11,7 +11,7 @@ export const greenDayBallyhoo = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-05-02",
   externalIdentity: [
     {

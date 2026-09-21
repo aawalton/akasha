@@ -6,7 +6,7 @@ export const whereforeYeMustPressForward = {
   slug: "wherefore-ye-must-press-forward",
   title: "Wherefore, Ye Must Press Forward",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 2,

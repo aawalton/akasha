@@ -11,7 +11,7 @@ export const theHobbitTheDesolationOfSmaug = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2013-12-13",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const starTrekTheNextGenerationSeason2 = {
   ownProgress: 1011,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "1988-11-22",
   externalIdentity: [
     {

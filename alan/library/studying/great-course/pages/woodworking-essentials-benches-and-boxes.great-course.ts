@@ -6,7 +6,7 @@ export const woodworkingEssentialsBenchesAndBoxes = {
   slug: "woodworking-essentials-benches-and-boxes",
   title: "Woodworking Essentials: Benches & Boxes",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 184.8,
   ownProgress: 184.8,

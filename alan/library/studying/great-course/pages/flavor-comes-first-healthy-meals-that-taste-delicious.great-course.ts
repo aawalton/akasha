@@ -6,7 +6,7 @@ export const flavorComesFirstHealthyMealsThatTasteDelicious = {
   slug: "flavor-comes-first-healthy-meals-that-taste-delicious",
   title: "Flavor Comes First: Healthy Meals That Taste Delicious",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 123,
   ownProgress: 123,

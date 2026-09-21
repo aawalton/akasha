@@ -11,7 +11,7 @@ export const emBeiholdHotGoblin = {
   ownProgress: 5.103633,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-09-05",
   externalIdentity: [
     {

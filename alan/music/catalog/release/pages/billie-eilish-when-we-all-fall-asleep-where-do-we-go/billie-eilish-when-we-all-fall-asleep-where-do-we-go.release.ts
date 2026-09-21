@@ -9,7 +9,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGo = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2019-03-29",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

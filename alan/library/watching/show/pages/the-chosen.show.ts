@@ -11,7 +11,7 @@ export const theChosen = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "S",
+  grade: "S",
   publishedAt: "2019-04-21",
   externalIdentity: [
     {

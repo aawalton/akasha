@@ -17,7 +17,7 @@ export const emBeiholdNumbLittleBug = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rank: "S",
+  grade: "S",
   singability: "S",
   tags: ["masking", "medication"],
   lyrics: "txt",

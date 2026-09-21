@@ -6,7 +6,7 @@ export const pilotLectureWhatIsMoney = {
   slug: "pilot-lecture-what-is-money",
   title: "Pilot Lecture: What Is Money?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 25.8,
   ownProgress: 25.8,

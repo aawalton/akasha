@@ -6,7 +6,7 @@ export const firstborn = {
   slug: "firstborn",
   title: "Firstborn",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Karen Kingsbury",
   unit: "unit/words",
   position: 1,

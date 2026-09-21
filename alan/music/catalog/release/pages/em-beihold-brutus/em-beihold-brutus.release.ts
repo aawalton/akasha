@@ -11,7 +11,7 @@ export const emBeiholdBrutus = {
   ownProgress: 2.467517,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-07-18",
   externalIdentity: [
     {

@@ -14,7 +14,7 @@ export const endsOfMagic = {
     },
   ],
   author: "Alexander Olson",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

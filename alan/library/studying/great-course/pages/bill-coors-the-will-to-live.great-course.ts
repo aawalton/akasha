@@ -6,7 +6,7 @@ export const billCoorsTheWillToLive = {
   slug: "bill-coors-the-will-to-live",
   title: "Bill Coors: The Will to Live",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 126.6,
   ownProgress: 126.6,

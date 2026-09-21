@@ -6,7 +6,7 @@ export const greek101LearningAnAncientLanguage = {
   slug: "greek-101-learning-an-ancient-language",
   title: "Greek 101: Learning an Ancient Language",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1110,
   ownProgress: 1110,

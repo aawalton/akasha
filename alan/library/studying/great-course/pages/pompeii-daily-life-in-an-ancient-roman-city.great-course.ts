@@ -6,7 +6,7 @@ export const pompeiiDailyLifeInAnAncientRomanCity = {
   slug: "pompeii-daily-life-in-an-ancient-roman-city",
   title: "Pompeii: Daily Life in an Ancient Roman City",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 705.6,
   ownProgress: 705.6,

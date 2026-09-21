@@ -6,7 +6,7 @@ export const charlemagneFatherOfEurope = {
   slug: "charlemagne-father-of-europe",
   title: "Charlemagne: Father of Europe",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 387.6,
   ownProgress: 387.6,

@@ -9,7 +9,7 @@ export const billieEilishBored = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2017-03-30",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

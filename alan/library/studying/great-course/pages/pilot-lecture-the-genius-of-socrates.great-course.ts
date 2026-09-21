@@ -6,7 +6,7 @@ export const pilotLectureTheGeniusOfSocrates = {
   slug: "pilot-lecture-the-genius-of-socrates",
   title: "Pilot Lecture: The Genius of Socrates",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 26.4,
   ownProgress: 26.4,

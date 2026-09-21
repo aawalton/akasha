@@ -11,5 +11,5 @@ export const ambrosiaBakery = {
   ownProgress: 6250,
   unit: "unit/words",
   status: "not-started",
-  rank: "B",
+  grade: "B",
 } as const satisfies Restaurant

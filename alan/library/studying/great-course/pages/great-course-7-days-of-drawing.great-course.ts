@@ -6,7 +6,7 @@ export const greatCourse7DaysOfDrawing = {
   slug: "great-course-7-days-of-drawing",
   title: "7 Days of Drawing",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 94.2,
   ownProgress: 94.2,

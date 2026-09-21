@@ -6,7 +6,7 @@ export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
   slug: "pilot-lecture-picturing-the-bible-how-artists-tell-the-story",
   title: "Pilot Lecture: Picturing the Bible—How Artists Tell the Story",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 30.6,
   ownProgress: 30.6,

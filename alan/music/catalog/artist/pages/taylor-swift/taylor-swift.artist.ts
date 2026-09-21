@@ -8,7 +8,7 @@ export const taylorSwift = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "S",
+  grade: "S",
   status: "following",
   tags: ["Indie Pop Storyteller"],
   unit: "unit/minutes",

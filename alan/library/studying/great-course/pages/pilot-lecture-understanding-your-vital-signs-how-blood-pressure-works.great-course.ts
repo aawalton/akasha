@@ -6,7 +6,7 @@ export const pilotLectureUnderstandingYourVitalSignsHowBloodPressureWorks = {
   slug: "pilot-lecture-understanding-your-vital-signs-how-blood-pressure-works",
   title: "Pilot Lecture: Understanding Your Vital Signs—How Blood Pressure Works",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

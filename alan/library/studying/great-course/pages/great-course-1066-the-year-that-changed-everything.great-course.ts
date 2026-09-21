@@ -6,7 +6,7 @@ export const greatCourse1066TheYearThatChangedEverything = {
   slug: "great-course-1066-the-year-that-changed-everything",
   title: "1066: The Year That Changed Everything",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 204,
   ownProgress: 204,

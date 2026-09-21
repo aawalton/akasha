@@ -11,7 +11,7 @@ export const greenDayTheSaintsAreComingLive = {
   ownProgress: 3.45755,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2006-01-01",
   externalIdentity: [
     {

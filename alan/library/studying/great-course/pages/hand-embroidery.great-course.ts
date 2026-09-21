@@ -6,7 +6,7 @@ export const handEmbroidery = {
   slug: "hand-embroidery",
   title: "Hand Embroidery",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 199.2,
   ownProgress: 199.2,

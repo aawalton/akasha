@@ -8,7 +8,7 @@ export const sabrinaCarpenter = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "B",
+  grade: "B",
   status: "following",
   unit: "unit/minutes",
   externalIdentity: [

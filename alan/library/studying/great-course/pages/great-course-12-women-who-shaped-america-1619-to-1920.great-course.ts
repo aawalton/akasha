@@ -6,7 +6,7 @@ export const greatCourse12WomenWhoShapedAmerica1619To1920 = {
   slug: "great-course-12-women-who-shaped-america-1619-to-1920",
   title: "12 Women Who Shaped America: 1619 to 1920",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 336.6,
   ownProgress: 336.6,

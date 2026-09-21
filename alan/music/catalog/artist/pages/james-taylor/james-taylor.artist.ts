@@ -8,7 +8,7 @@ export const jamesTaylor = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "B",
+  grade: "B",
   status: "following",
   tags: ["Classic Rock"],
   unit: "unit/minutes",

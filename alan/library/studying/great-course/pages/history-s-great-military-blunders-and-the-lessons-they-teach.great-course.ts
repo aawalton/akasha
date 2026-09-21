@@ -6,7 +6,7 @@ export const historySGreatMilitaryBlundersAndTheLessonsTheyTeach = {
   slug: "history-s-great-military-blunders-and-the-lessons-they-teach",
   title: "History's Great Military Blunders and the Lessons They Teach",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 735,
   ownProgress: 735,

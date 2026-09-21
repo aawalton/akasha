@@ -11,7 +11,7 @@ export const jessicaBaioLethal = {
   ownProgress: 2.776217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-11-04",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const newApproachesToMixedMediaMaterials = {
   slug: "new-approaches-to-mixed-media-materials",
   title: "New Approaches to Mixed Media Materials",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 165,
   ownProgress: 165,

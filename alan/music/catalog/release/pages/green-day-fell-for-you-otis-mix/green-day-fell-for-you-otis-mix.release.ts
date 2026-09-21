@@ -11,7 +11,7 @@ export const greenDayFellForYouOtisMix = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2017-08-04",
   externalIdentity: [
     {

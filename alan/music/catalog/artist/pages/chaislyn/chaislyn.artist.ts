@@ -8,7 +8,7 @@ export const chaislyn = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "A",
+  grade: "A",
   status: "following",
   tags: ["Indie Pop Storyteller"],
   unit: "unit/minutes",

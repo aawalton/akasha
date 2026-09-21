@@ -6,7 +6,7 @@ export const aNewHistoryOfLife = {
   slug: "a-new-history-of-life",
   title: "A New History of Life",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1069.2,
   ownProgress: 1069.2,

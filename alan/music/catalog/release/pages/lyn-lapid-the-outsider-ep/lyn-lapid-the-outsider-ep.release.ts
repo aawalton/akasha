@@ -11,7 +11,7 @@ export const lynLapidTheOutsiderEp = {
   ownProgress: 23.44375,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-04-15",
   externalIdentity: [
     {

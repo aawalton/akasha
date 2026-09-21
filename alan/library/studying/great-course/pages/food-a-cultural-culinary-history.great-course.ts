@@ -6,7 +6,7 @@ export const foodACulturalCulinaryHistory = {
   slug: "food-a-cultural-culinary-history",
   title: "Food: A Cultural Culinary History",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1114.2,
   ownProgress: 1114.2,

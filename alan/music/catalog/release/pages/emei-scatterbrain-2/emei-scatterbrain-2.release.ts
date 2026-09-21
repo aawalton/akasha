@@ -9,7 +9,7 @@ export const emeiScatterbrain2 = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2023-10-20",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

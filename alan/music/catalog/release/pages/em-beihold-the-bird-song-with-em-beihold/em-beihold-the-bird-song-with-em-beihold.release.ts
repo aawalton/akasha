@@ -11,7 +11,7 @@ export const emBeiholdTheBirdSongWithEmBeihold = {
   ownProgress: 3.884783,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-12-13",
   externalIdentity: [
     {

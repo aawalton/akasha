@@ -6,7 +6,7 @@ export const stackedStitchesKnittingInWildColor = {
   slug: "stacked-stitches-knitting-in-wild-color",
   title: "Stacked Stitches: Knitting in Wild Color",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 136.8,
   ownProgress: 136.8,

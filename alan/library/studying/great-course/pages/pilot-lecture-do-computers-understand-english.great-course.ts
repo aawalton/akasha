@@ -6,7 +6,7 @@ export const pilotLectureDoComputersUnderstandEnglish = {
   slug: "pilot-lecture-do-computers-understand-english",
   title: "Pilot Lecture: Do Computers Understand English?",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 32.4,
   ownProgress: 32.4,

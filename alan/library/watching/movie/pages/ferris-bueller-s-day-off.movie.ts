@@ -11,7 +11,7 @@ export const ferrisBuellerSDayOff = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "1986-06-11",
   externalIdentity: [
     {

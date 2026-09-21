@@ -6,7 +6,7 @@ export const theFabricOfReality2 = {
   slug: "the-fabric-of-reality-2",
   title: "The Fabric of Reality",
   status: "completed",
-  rank: "S",
+  grade: "S",
   author: "David Deutsch",
   unit: "unit/words",
   ownLength: 216450,

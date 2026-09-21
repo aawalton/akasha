@@ -6,7 +6,7 @@ export const creationStoriesOfTheAncientWorld = {
   slug: "creation-stories-of-the-ancient-world",
   title: "Creation Stories of the Ancient World",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 300,
   ownProgress: 300,

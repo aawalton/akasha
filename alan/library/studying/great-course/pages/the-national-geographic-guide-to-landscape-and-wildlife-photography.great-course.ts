@@ -6,7 +6,7 @@ export const theNationalGeographicGuideToLandscapeAndWildlifePhotography = {
   slug: "the-national-geographic-guide-to-landscape-and-wildlife-photography",
   title: "The National Geographic Guide to Landscape and Wildlife Photography",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 721.2,
   ownProgress: 721.2,

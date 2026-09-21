@@ -11,7 +11,7 @@ export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
   ownProgress: 3.914667,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-03-11",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const annalsOfAmericaVolume1 = {
   slug: "annals-of-america-volume-1",
   title: "Annals of America Volume 1",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "WILLIAM BENTON",
   unit: "unit/words",
   position: 1,

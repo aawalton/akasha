@@ -13,7 +13,7 @@ export const dungeonCrawlerCarl = {
       externalLink: "https://www.amazon.com/dp/B08BX5D4LC",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["System Apocalypse"],
   unit: "unit/words",
 } as const satisfies StoryRead

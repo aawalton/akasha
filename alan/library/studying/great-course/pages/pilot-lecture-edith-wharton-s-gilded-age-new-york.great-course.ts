@@ -6,7 +6,7 @@ export const pilotLectureEdithWhartonSGildedAgeNewYork = {
   slug: "pilot-lecture-edith-wharton-s-gilded-age-new-york",
   title: "Pilot Lecture: Edith Wharton’s Gilded Age New York",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

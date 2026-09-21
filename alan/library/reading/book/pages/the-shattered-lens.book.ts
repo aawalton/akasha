@@ -6,7 +6,7 @@ export const theShatteredLens = {
   slug: "the-shattered-lens",
   title: "The Shattered Lens",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Jonathan Alpeyrie",
   unit: "unit/words",
   position: 4,

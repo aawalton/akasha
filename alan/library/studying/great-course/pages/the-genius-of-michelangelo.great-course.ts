@@ -6,7 +6,7 @@ export const theGeniusOfMichelangelo = {
   slug: "the-genius-of-michelangelo",
   title: "The Genius of Michelangelo",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1075.8,
   ownProgress: 1075.8,

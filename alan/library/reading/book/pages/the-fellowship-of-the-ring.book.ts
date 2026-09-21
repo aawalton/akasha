@@ -6,7 +6,7 @@ export const theFellowshipOfTheRing = {
   slug: "the-fellowship-of-the-ring",
   title: "The Fellowship of the Ring",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "J.R.R. Tolkien",
   unit: "unit/words",
   position: 1,

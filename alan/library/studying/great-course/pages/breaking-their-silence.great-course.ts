@@ -6,7 +6,7 @@ export const breakingTheirSilence = {
   slug: "breaking-their-silence",
   title: "Breaking Their Silence",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 135.6,
   ownProgress: 135.6,

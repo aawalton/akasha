@@ -6,7 +6,7 @@ export const cookingAcrossTheAges = {
   slug: "cooking-across-the-ages",
   title: "Cooking across the Ages",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 791.4,
   ownProgress: 791.4,

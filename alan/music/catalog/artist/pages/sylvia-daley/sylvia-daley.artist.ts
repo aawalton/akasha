@@ -8,7 +8,7 @@ export const sylviaDaley = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "A",
+  grade: "A",
   status: "following",
   unit: "unit/minutes",
   externalIdentity: [

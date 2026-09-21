@@ -9,7 +9,7 @@ export const billieEilishOceanEyes = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2016-11-18",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

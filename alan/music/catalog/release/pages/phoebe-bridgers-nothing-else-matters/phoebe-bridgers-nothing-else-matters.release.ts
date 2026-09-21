@@ -11,7 +11,7 @@ export const phoebeBridgersNothingElseMatters = {
   ownProgress: 4.5751,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-08-11",
   externalIdentity: [
     {

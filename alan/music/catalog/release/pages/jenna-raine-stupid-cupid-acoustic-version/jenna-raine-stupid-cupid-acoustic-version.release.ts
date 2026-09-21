@@ -11,7 +11,7 @@ export const jennaRaineStupidCupidAcousticVersion = {
   ownProgress: 5.76985,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-04-14",
   externalIdentity: [
     {

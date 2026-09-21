@@ -11,7 +11,7 @@ export const jessicaBaioSlowDown = {
   ownProgress: 5.15075,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-05-24",
   externalIdentity: [
     {

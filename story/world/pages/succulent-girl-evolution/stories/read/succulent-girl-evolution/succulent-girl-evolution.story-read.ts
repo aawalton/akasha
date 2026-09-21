@@ -13,7 +13,7 @@ export const succulentGirlEvolution = {
       externalLink: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Non-Human Lead",

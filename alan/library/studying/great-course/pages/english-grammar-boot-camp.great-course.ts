@@ -6,7 +6,7 @@ export const englishGrammarBootCamp = {
   slug: "english-grammar-boot-camp",
   title: "English Grammar Boot Camp",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 753,
   ownProgress: 753,

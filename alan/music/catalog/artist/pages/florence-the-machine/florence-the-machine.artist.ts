@@ -8,7 +8,7 @@ export const florenceTheMachine = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "B",
+  grade: "B",
   status: "following",
   tags: ["Indie Pop Storyteller"],
   unit: "unit/minutes",

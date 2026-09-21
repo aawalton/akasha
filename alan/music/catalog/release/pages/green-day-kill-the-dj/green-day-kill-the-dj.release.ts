@@ -11,7 +11,7 @@ export const greenDayKillTheDj = {
   ownProgress: 3.714217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-08-14",
   externalIdentity: [
     {

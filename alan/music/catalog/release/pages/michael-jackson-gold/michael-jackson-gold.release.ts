@@ -11,7 +11,7 @@ export const michaelJacksonGold = {
   ownProgress: 107.475133,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2008-08-26",
   externalIdentity: [
     {

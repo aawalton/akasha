@@ -11,7 +11,7 @@ export const onePieceSeason1 = {
   ownProgress: 1513.8,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "1999-10-20",
   externalIdentity: [
     {

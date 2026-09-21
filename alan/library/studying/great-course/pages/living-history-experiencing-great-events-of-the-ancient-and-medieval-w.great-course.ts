@@ -6,7 +6,7 @@ export const livingHistoryExperiencingGreatEventsOfTheAncientAndMedievalW = {
   slug: "living-history-experiencing-great-events-of-the-ancient-and-medieval-w",
   title: "Living History: Experiencing Great Events of the Ancient and Medieval Worlds",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 761.4,
   ownProgress: 761.4,

@@ -12,7 +12,7 @@ export const theWanderingInn = {
       externalLink: "https://wanderinginn.com/",
     },
   ],
-  rank: "S",
+  grade: "S",
   tags: ["litrpg", "fantasy", "slice-of-life"],
   unit: "unit/words",
   prose: "txt",

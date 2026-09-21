@@ -6,7 +6,7 @@ export const pilotLectureEnderSGamePoliticsAndWarInScienceFiction = {
   slug: "pilot-lecture-ender-s-game-politics-and-war-in-science-fiction",
   title: "Pilot Lecture: Ender’s Game: Politics and War in Science Fiction",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 30.6,
   ownProgress: 30.6,

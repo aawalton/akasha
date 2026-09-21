@@ -6,7 +6,7 @@ export const anIntroductionToFormalLogic = {
   slug: "an-introduction-to-formal-logic",
   title: "An Introduction to Formal Logic",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 742.8,
   ownProgress: 742.8,

@@ -6,7 +6,7 @@ export const booksThatMatterTheCityOfGod = {
   slug: "books-that-matter-the-city-of-god",
   title: "Books That Matter: The City of God",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 766.8,
   ownProgress: 766.8,

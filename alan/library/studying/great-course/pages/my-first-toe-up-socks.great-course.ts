@@ -6,7 +6,7 @@ export const myFirstToeUpSocks = {
   slug: "my-first-toe-up-socks",
   title: "My First Toe-Up Socks",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 117,
   ownProgress: 117,

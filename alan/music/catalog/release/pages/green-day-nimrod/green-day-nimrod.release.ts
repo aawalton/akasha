@@ -11,7 +11,7 @@ export const greenDayNimrod = {
   ownProgress: 49.107683,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1997-10-14",
   externalIdentity: [
     {

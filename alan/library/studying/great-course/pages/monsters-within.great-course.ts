@@ -6,7 +6,7 @@ export const monstersWithin = {
   slug: "monsters-within",
   title: "Monsters Within ...",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 104.4,
   ownProgress: 104.4,

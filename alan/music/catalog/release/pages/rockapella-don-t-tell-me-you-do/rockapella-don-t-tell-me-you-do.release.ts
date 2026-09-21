@@ -11,7 +11,7 @@ export const rockapellaDonTTellMeYouDo = {
   ownProgress: 49.074883,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "1998-03-04",
   externalIdentity: [
     {

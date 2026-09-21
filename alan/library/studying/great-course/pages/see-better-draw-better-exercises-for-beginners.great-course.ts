@@ -6,7 +6,7 @@ export const seeBetterDrawBetterExercisesForBeginners = {
   slug: "see-better-draw-better-exercises-for-beginners",
   title: "See Better, Draw Better: Exercises for Beginners",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 133.8,
   ownProgress: 133.8,

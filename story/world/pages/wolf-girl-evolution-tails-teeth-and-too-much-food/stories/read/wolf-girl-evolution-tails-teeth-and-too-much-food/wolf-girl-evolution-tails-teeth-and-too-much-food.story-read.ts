@@ -4,7 +4,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   id: "01a0657d-ada6-72c0-8787-dfbe49e472e8",
   type: "page-type/story-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Wolf Girl Evolution",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -11,7 +11,7 @@ export const harryPotterAndTheDeathlyHallowsPart2 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2011-07-15",
   externalIdentity: [
     {

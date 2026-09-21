@@ -9,7 +9,7 @@ export const vinnyMarchiLadyOfTheLyre = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-06-14",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

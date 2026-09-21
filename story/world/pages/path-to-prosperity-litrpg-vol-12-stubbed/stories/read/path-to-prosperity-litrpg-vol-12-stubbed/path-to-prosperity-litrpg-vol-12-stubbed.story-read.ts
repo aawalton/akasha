@@ -15,7 +15,7 @@ export const pathToProsperityLitrpgVol12Stubbed = {
     },
   ],
   author: "HideousGrain",
-  rank: "C",
+  grade: "C",
   externalTags: ["LitRPG", "Male Lead", "Action", "Adventure", "Fantasy"],
   unit: "unit/words",
   prose: "txt",

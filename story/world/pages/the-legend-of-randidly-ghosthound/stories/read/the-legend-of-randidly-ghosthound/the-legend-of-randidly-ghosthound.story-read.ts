@@ -14,7 +14,7 @@ export const theLegendOfRandidlyGhosthound = {
     },
   ],
   author: "puddles4263",
-  rank: "C",
+  grade: "C",
   following: true,
   externalTags: ["LitRPG", "Action", "Fantasy"],
   unit: "unit/words",

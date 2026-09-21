@@ -9,7 +9,7 @@ export const emeiSunnyd = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2024-10-11",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

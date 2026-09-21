@@ -6,7 +6,7 @@ export const worldHeritageSitesIi12MoreOfTheWorldSGreatestPlaces = {
   slug: "world-heritage-sites-ii-12-more-of-the-world-s-greatest-places",
   title: "World Heritage Sites II: 12 More of the World’s Greatest Places",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 366,
   ownProgress: 366,

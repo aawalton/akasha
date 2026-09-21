@@ -9,7 +9,7 @@ export const zaraLarssonSoGood = {
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
   publishedAt: "2017-03-17",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

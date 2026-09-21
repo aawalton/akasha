@@ -11,7 +11,7 @@ export const greenDayBoulevardOfBrokenDreams = {
   ownProgress: 4.354433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2004-01-01",
   externalIdentity: [
     {

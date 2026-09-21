@@ -11,7 +11,7 @@ export const jadaFacer = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "archived",
-  rank: "C",
+  grade: "C",
   externalIdentity: [
     {
       source: "spotify",

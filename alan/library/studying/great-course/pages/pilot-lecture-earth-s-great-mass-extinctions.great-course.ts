@@ -6,7 +6,7 @@ export const pilotLectureEarthSGreatMassExtinctions = {
   slug: "pilot-lecture-earth-s-great-mass-extinctions",
   title: "Pilot Lecture: Earth’s Great Mass Extinctions",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 25.8,
   ownProgress: 25.8,

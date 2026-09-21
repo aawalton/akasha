@@ -6,7 +6,7 @@ export const metropolisExaminedGermanExpressionismInFilm = {
   slug: "metropolis-examined-german-expressionism-in-film",
   title: "Metropolis Examined: German Expressionism in Film",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 7.2,
   ownProgress: 7.2,

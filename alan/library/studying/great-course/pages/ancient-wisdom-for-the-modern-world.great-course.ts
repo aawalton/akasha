@@ -6,7 +6,7 @@ export const ancientWisdomForTheModernWorld = {
   slug: "ancient-wisdom-for-the-modern-world",
   title: "Ancient Wisdom for the Modern World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 205.2,
   ownProgress: 205.2,

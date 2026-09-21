@@ -6,7 +6,7 @@ export const theLastTide = {
   slug: "the-last-tide",
   title: "The Last Tide",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Pirateaba, Drew Gilmour, Jade McGilvray, Shane Sandulak, Matias Zanetti",
   unit: "unit/words",
   position: 1,

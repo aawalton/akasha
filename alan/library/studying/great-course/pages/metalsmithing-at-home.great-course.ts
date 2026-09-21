@@ -6,7 +6,7 @@ export const metalsmithingAtHome = {
   slug: "metalsmithing-at-home",
   title: "Metalsmithing at Home",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 404.4,
   ownProgress: 404.4,

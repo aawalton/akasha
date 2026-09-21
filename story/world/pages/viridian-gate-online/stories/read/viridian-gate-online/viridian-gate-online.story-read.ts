@@ -13,7 +13,7 @@ export const viridianGateOnline = {
       externalLink: "https://www.amazon.com/dp/B0753JVZSM",
     },
   ],
-  rank: "B",
+  grade: "B",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

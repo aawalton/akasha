@@ -215,11 +215,11 @@ test("the progress and the grade a person gave a track outlive the sweep", () =>
   const values = valuesFor(track("t7", "Elf", 90_000, 3), {
     status: "completed",
     ownProgress: 1.5,
-    rank: "S",
+    grade: "S",
   })
   expect(values["status"]).toBe("completed")
   expect(values["ownProgress"]).toBe(1.5)
-  expect(values["rank"]).toBe("S")
+  expect(values["grade"]).toBe("S")
 })
 
 function editsOf(filing: Filing, asked: string[], ...items: readonly AlbumTrack[]) {

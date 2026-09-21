@@ -6,7 +6,7 @@ export const cytonic = {
   slug: "cytonic",
   title: "Cytonic",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 3,

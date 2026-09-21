@@ -6,7 +6,7 @@ export const pilotLectureABriefTourOfWesternAustralia = {
   slug: "pilot-lecture-a-brief-tour-of-western-australia",
   title: "Pilot Lecture: A Brief Tour of Western Australia",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 28.2,
   ownProgress: 28.2,

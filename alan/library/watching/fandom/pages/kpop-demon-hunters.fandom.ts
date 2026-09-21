@@ -11,6 +11,6 @@ export const kpopDemonHunters = {
   ownProgress: 0,
   unit: "unit/words",
   status: "following",
-  rank: "S",
+  grade: "S",
   publishedAt: "2025-06-20",
 } as const satisfies Fandom

@@ -11,7 +11,7 @@ export const accelWorld2 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2012-04-06",
   externalIdentity: [
     {

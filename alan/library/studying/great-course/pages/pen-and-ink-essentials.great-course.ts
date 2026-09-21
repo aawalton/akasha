@@ -6,7 +6,7 @@ export const penAndInkEssentials = {
   slug: "pen-and-ink-essentials",
   title: "Pen & Ink Essentials",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 140.4,
   ownProgress: 140.4,

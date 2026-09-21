@@ -6,7 +6,7 @@ export const theGreekWorldAStudyOfHistoryAndCulture = {
   slug: "the-greek-world-a-study-of-history-and-culture",
   title: "The Greek World: A Study of History and Culture",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 770.4,
   ownProgress: 770.4,

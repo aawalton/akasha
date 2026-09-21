@@ -6,7 +6,7 @@ export const pilotLecturePyramidsOfTheWorldAngkorWat = {
   slug: "pilot-lecture-pyramids-of-the-world-angkor-wat",
   title: "Pilot Lecture: Pyramids of the World—Angkor Wat",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

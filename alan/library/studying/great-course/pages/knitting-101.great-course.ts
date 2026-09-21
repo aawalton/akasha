@@ -6,7 +6,7 @@ export const knitting101 = {
   slug: "knitting-101",
   title: "Knitting 101",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 635.4,
   ownProgress: 635.4,

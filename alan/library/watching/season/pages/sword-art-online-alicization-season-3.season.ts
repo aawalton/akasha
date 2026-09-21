@@ -11,7 +11,7 @@ export const swordArtOnlineAlicizationSeason3 = {
   ownProgress: 600,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2018-10-06",
   externalIdentity: [
     {

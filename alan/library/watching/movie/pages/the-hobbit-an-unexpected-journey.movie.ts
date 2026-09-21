@@ -11,7 +11,7 @@ export const theHobbitAnUnexpectedJourney = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2012-12-14",
   externalIdentity: [
     {

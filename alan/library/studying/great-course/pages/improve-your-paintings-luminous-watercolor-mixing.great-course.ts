@@ -6,7 +6,7 @@ export const improveYourPaintingsLuminousWatercolorMixing = {
   slug: "improve-your-paintings-luminous-watercolor-mixing",
   title: "Improve Your Paintings: Luminous Watercolor Mixing",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 119.4,
   ownProgress: 119.4,

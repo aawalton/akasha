@@ -6,7 +6,7 @@ export const pilotLectureHowToThinkLikeAGeneralUlyssesSGrant = {
   slug: "pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
   title: "Pilot Lecture: How to Think like a General—Ulysses S. Grant",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,

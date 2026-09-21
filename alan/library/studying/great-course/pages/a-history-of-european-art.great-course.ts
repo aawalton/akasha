@@ -6,7 +6,7 @@ export const aHistoryOfEuropeanArt = {
   slug: "a-history-of-european-art",
   title: "A History of European Art",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1452,
   ownProgress: 1452,

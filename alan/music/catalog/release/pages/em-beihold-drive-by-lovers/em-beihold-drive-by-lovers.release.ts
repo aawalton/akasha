@@ -11,7 +11,7 @@ export const emBeiholdDriveByLovers = {
   ownProgress: 3.518333,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-01-29",
   externalIdentity: [
     {

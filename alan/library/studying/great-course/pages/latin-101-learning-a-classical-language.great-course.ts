@@ -6,7 +6,7 @@ export const latin101LearningAClassicalLanguage = {
   slug: "latin-101-learning-a-classical-language",
   title: "Latin 101: Learning a Classical Language",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1098,
   ownProgress: 1098,

@@ -6,7 +6,7 @@ export const evenAsIAm = {
   slug: "even-as-i-am",
   title: "Even As I Am",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 2,

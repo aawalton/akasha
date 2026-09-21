@@ -4,7 +4,7 @@ export const fleshEaterDemonEvolutionLitrpg = {
   id: "01a0657d-ada2-781e-be0f-880ef97c51fe",
   type: "page-type/story-read",
   slug: "flesh-eater-demon-evolution-litrpg",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Flesh Eater",
   world: "world/flesh-eater-demon-evolution-litrpg",

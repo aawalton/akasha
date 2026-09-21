@@ -6,7 +6,7 @@ export const childrenOfTheNameless = {
   slug: "children-of-the-nameless",
   title: "Children of the Nameless",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 9,

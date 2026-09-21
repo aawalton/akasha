@@ -6,7 +6,7 @@ export const pilotLectureEthicalHealthCareInTheAgeOfAi = {
   slug: "pilot-lecture-ethical-health-care-in-the-age-of-ai",
   title: "Pilot Lecture: Ethical Health Care in the Age of AI",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 30,

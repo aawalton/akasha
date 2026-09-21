@@ -9,7 +9,7 @@ export const billieEilishGuessFeaturingBillieEilish = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2024-08-01",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

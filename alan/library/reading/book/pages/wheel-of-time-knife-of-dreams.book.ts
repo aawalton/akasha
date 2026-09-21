@@ -6,7 +6,7 @@ export const wheelOfTimeKnifeOfDreams = {
   slug: "wheel-of-time-knife-of-dreams",
   title: "Wheel of Time: Knife of Dreams",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 11,

@@ -11,7 +11,7 @@ export const lynLapidItsyBitsy = {
   ownProgress: 2.950217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-01-29",
   externalIdentity: [
     {

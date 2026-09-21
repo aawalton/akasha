@@ -11,7 +11,7 @@ export const starTrekIiiTheSearchForSpock = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1984-06-01",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const americaSMusicalHeritage = {
   slug: "america-s-musical-heritage",
   title: "America's Musical Heritage",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 355.2,
   ownProgress: 355.2,

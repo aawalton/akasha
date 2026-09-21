@@ -13,7 +13,7 @@ export const forgeOfDestiny = {
       externalLink: "https://www.royalroad.com/fiction/21188/forge-of-destiny",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "Cultivation",
     "Female Lead",

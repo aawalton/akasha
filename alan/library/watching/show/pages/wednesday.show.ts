@@ -11,7 +11,7 @@ export const wednesday = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "A",
+  grade: "A",
   publishedAt: "2022-11-23",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const drawersForCabinetryAndFineFurniture = {
   slug: "drawers-for-cabinetry-and-fine-furniture",
   title: "Drawers for Cabinetry & Fine Furniture",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 202.8,
   ownProgress: 202.8,

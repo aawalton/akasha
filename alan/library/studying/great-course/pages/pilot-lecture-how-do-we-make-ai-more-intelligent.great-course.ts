@@ -6,7 +6,7 @@ export const pilotLectureHowDoWeMakeAiMoreIntelligent = {
   slug: "pilot-lecture-how-do-we-make-ai-more-intelligent",
   title: "Pilot Lecture: How Do We Make AI More Intelligent?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 34.2,
   ownProgress: 34.2,

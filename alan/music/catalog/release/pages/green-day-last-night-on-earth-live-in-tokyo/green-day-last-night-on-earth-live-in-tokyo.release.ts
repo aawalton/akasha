@@ -11,7 +11,7 @@ export const greenDayLastNightOnEarthLiveInTokyo = {
   ownProgress: 23.922433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-05-09",
   externalIdentity: [
     {

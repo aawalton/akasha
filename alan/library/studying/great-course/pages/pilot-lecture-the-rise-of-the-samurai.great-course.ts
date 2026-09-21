@@ -6,7 +6,7 @@ export const pilotLectureTheRiseOfTheSamurai = {
   slug: "pilot-lecture-the-rise-of-the-samurai",
   title: "Pilot Lecture: The Rise of the Samurai",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 36.6,
   ownProgress: 36.6,

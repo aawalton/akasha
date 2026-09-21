@@ -11,7 +11,7 @@ export const starTrekTheAnimatedSeriesSeason1 = {
   ownProgress: 384,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1973-09-08",
   externalIdentity: [
     {

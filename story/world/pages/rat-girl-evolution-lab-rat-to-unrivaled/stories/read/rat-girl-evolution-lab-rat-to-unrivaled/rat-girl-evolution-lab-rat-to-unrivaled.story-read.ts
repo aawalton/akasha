@@ -14,7 +14,7 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
         "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Progression",

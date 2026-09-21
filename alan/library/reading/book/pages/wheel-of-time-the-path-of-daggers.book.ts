@@ -6,7 +6,7 @@ export const wheelOfTimeThePathOfDaggers = {
   slug: "wheel-of-time-the-path-of-daggers",
   title: "Wheel of Time: The Path of Daggers",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 8,

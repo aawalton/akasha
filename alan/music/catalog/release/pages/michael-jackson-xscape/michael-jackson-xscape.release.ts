@@ -11,7 +11,7 @@ export const michaelJacksonXscape = {
   ownProgress: 73.462117,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2014-05-09",
   externalIdentity: [
     {

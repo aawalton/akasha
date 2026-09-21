@@ -11,7 +11,7 @@ export const greenDayFatherOfAll = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2020-02-07",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const pilotLectureExploringHadrianSWall = {
   slug: "pilot-lecture-exploring-hadrian-s-wall",
   title: "Pilot Lecture: Exploring Hadrian’s Wall",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 24.6,
   ownProgress: 24.6,

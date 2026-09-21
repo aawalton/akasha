@@ -4,7 +4,7 @@ export const taylorSwiftYouReOnYourOwnKid = {
   id: "019ea416-45c0-7a33-b208-4ea76c9a24dc",
   type: "page-type/song",
   slug: "taylor-swift-you-re-on-your-own-kid",
-  rank: "A",
+  grade: "A",
   tags: ["independence"],
   externalIdentity: [
     {

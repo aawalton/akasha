@@ -11,7 +11,7 @@ export const michaelJacksonTheDefinitiveCollection = {
   ownProgress: 65.418567,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-01-01",
   externalIdentity: [
     {

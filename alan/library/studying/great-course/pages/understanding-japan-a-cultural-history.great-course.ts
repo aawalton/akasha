@@ -6,7 +6,7 @@ export const understandingJapanACulturalHistory = {
   slug: "understanding-japan-a-cultural-history",
   title: "Understanding Japan: A Cultural History",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 726.6,
   ownProgress: 726.6,

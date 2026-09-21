@@ -8,7 +8,7 @@ export const sia = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "S-",
+  grade: "S-",
   status: "following",
   unit: "unit/minutes",
   externalIdentity: [

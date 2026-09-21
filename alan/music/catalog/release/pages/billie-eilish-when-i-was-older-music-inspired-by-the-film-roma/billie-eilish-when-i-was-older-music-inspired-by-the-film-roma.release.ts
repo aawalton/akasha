@@ -9,7 +9,7 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2019-01-09",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

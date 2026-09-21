@@ -9,7 +9,7 @@ export const billieEilishLovelyWithKhalid = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2018-04-19",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

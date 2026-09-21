@@ -11,7 +11,7 @@ export const lilithMaxAmIFree = {
   ownProgress: 2.380767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-11-03",
   externalIdentity: [
     {

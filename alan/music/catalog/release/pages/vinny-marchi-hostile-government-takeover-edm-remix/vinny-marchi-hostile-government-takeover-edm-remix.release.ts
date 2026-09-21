@@ -9,7 +9,7 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemix = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2025-02-12",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -6,7 +6,7 @@ export const pyresoulsApocalypse = {
   slug: "pyresouls-apocalypse",
   title: "Pyresouls Apocalypse",
   status: "following",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   maturityRating: "R",
   externalIdentity: [

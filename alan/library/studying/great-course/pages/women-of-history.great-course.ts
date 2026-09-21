@@ -6,7 +6,7 @@ export const womenOfHistory = {
   slug: "women-of-history",
   title: "Women of History",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 39,
   ownProgress: 39,

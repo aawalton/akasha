@@ -6,7 +6,7 @@ export const snapshot = {
   slug: "snapshot",
   title: "Snapshot",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 3,

@@ -6,7 +6,7 @@ export const wheelOfTimeTheGatheringStorm = {
   slug: "wheel-of-time-the-gathering-storm",
   title: "Wheel of Time: The Gathering Storm",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan, Brandon Sanderson, Robert Jordan",
   unit: "unit/words",
   position: 12,

@@ -11,7 +11,7 @@ export const swordArtOnlineIiSeason2 = {
   ownProgress: 576,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2014-07-04",
   externalIdentity: [
     {

@@ -13,7 +13,7 @@ export const guardianOfAsterFall = {
       externalLink: "https://www.amazon.com/dp/B09HJCYHT3",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["Crafting", "Dungeon Delver"],
   unit: "unit/words",
 } as const satisfies StoryRead

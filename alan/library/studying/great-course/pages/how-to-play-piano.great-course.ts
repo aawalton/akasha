@@ -6,7 +6,7 @@ export const howToPlayPiano = {
   slug: "how-to-play-piano",
   title: "How to Play Piano",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1118.4,
   ownProgress: 1118.4,

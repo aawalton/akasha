@@ -6,7 +6,7 @@ export const aHistoryOfIndia = {
   slug: "a-history-of-india",
   title: "A History of India",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1105.8,
   ownProgress: 1105.8,

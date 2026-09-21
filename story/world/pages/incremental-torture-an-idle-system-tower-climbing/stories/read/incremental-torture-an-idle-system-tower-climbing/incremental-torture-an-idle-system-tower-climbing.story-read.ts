@@ -14,7 +14,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
         "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Female Lead",

@@ -11,7 +11,7 @@ export const reneeRappEverythingToEveryone = {
   ownProgress: 19.3732,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-11-11",
   externalIdentity: [
     {

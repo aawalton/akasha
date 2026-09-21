@@ -11,7 +11,7 @@ export const greenDayAmericanIdiot20thAnniversaryOnHoliday = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2024-08-09",
   externalIdentity: [
     {

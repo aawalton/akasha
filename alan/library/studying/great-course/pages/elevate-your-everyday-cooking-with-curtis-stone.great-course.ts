@@ -6,7 +6,7 @@ export const elevateYourEverydayCookingWithCurtisStone = {
   slug: "elevate-your-everyday-cooking-with-curtis-stone",
   title: "Elevate Your Everyday Cooking with Curtis Stone",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 276.6,
   ownProgress: 276.6,

@@ -6,7 +6,7 @@ export const didYouKnow = {
   slug: "did-you-know",
   title: "Did You Know?",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 129,
   ownProgress: 129,

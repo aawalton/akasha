@@ -6,7 +6,7 @@ export const fromMonetToVanGoghAHistoryOfImpressionism = {
   slug: "from-monet-to-van-gogh-a-history-of-impressionism",
   title: "From Monet to Van Gogh: A History of Impressionism",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 730.8,
   ownProgress: 730.8,

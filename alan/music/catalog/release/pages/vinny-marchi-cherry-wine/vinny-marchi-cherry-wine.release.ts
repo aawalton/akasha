@@ -9,7 +9,7 @@ export const vinnyMarchiCherryWine = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-06-30",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

@@ -11,7 +11,7 @@ export const severance = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "A",
+  grade: "A",
   publishedAt: "2022-02-18",
   externalIdentity: [
     {

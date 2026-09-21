@@ -14,7 +14,7 @@ export const riseOfTheLivingForge = {
     },
   ],
   author: "Actus",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

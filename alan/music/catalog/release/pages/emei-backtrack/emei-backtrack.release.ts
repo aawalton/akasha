@@ -9,7 +9,7 @@ export const emeiBacktrack = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2022-11-29",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

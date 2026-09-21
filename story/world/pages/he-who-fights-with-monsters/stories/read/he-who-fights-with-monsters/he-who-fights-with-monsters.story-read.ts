@@ -14,7 +14,7 @@ export const heWhoFightsWithMonsters = {
     },
   ],
   author: "Shirtaloon (Travis Deverell)",
-  rank: "A",
+  grade: "A",
   following: true,
   externalTags: [
     "LitRPG",

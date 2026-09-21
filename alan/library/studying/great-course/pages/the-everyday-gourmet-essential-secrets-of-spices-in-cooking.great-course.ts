@@ -6,7 +6,7 @@ export const theEverydayGourmetEssentialSecretsOfSpicesInCooking = {
   slug: "the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
   title: "The Everyday Gourmet: Essential Secrets of Spices in Cooking",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 195.6,
   ownProgress: 195.6,

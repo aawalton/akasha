@@ -6,7 +6,7 @@ export const cutToItStrategiesForSmarterQuilting = {
   slug: "cut-to-it-strategies-for-smarter-quilting",
   title: "Cut to It: Strategies for Smarter Quilting",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 196.8,
   ownProgress: 196.8,

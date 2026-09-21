@@ -11,7 +11,7 @@ export const jennaRaineItIsWhatItIsSpedUp = {
   ownProgress: 4.661533,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-08-11",
   externalIdentity: [
     {

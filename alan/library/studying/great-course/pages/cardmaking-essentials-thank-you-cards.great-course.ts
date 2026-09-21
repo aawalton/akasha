@@ -6,7 +6,7 @@ export const cardmakingEssentialsThankYouCards = {
   slug: "cardmaking-essentials-thank-you-cards",
   title: "Cardmaking Essentials: Thank You Cards",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 131.4,
   ownProgress: 131.4,

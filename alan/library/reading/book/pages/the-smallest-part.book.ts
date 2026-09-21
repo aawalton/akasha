@@ -6,7 +6,7 @@ export const theSmallestPart = {
   slug: "the-smallest-part",
   title: "The Smallest Part",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Amy Harmon",
   unit: "unit/words",
   position: 1,

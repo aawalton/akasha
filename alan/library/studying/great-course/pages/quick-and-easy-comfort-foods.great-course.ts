@@ -6,7 +6,7 @@ export const quickAndEasyComfortFoods = {
   slug: "quick-and-easy-comfort-foods",
   title: "Quick and Easy Comfort Foods",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 80,
   ownProgress: 80,

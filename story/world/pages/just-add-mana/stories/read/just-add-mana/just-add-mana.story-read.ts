@@ -14,7 +14,7 @@ export const justAddMana = {
     },
   ],
   author: "SilverLinings",
-  rank: "B",
+  grade: "B",
   following: true,
   publicationStatus: "ongoing",
   externalTags: [

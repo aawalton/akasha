@@ -6,7 +6,7 @@ export const virtualVenice = {
   slug: "virtual-venice",
   title: "Virtual Venice",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 39.6,
   ownProgress: 39.6,

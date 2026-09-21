@@ -11,5 +11,5 @@ export const problems101200 = {
   ownProgress: 220000,
   unit: "unit/words",
   status: "in-progress",
-  rank: "A",
+  grade: "A",
 } as const satisfies Achievement

@@ -6,7 +6,7 @@ export const medicalSchoolForEveryonePediatricsGrandRounds = {
   slug: "medical-school-for-everyone-pediatrics-grand-rounds",
   title: "Medical School for Everyone: Pediatrics Grand Rounds",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 733.8,
   ownProgress: 733.8,

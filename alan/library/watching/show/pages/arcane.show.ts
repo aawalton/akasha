@@ -11,7 +11,7 @@ export const arcane = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "S",
+  grade: "S",
   publishedAt: "2021-11-06",
   externalIdentity: [
     { source: "trakt", externalLink: "https://trakt.tv/shows/arcane", lastSyncedAt: "2026-01-03" },

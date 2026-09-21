@@ -11,7 +11,7 @@ export const starTrek2 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "1966-09-08",
   externalIdentity: [
     {

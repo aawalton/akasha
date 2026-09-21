@@ -6,7 +6,7 @@ export const joshuaChamberlain = {
   slug: "joshua-chamberlain",
   title: "Joshua Chamberlain",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "John J. Pullen",
   unit: "unit/words",
   position: 4,

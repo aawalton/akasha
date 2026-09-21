@@ -11,7 +11,7 @@ export const katyPerry = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "D",
+  grade: "D",
   externalIdentity: [
     {
       source: "spotify",

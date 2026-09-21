@@ -6,7 +6,7 @@ export const theBarbarianEmpiresOfTheSteppes = {
   slug: "the-barbarian-empires-of-the-steppes",
   title: "The Barbarian Empires of the Steppes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1107,
   ownProgress: 1107,

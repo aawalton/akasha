@@ -6,7 +6,7 @@ export const startupLibraryPaintingWithAcrylic = {
   slug: "startup-library-painting-with-acrylic",
   title: "Startup Library: Painting With Acrylic",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 306.6,
   ownProgress: 306.6,

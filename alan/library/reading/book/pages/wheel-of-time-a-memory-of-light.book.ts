@@ -6,7 +6,7 @@ export const wheelOfTimeAMemoryOfLight = {
   slug: "wheel-of-time-a-memory-of-light",
   title: "Wheel of Time: A Memory of Light",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan, Brandon Sanderson",
   unit: "unit/words",
   position: 14,

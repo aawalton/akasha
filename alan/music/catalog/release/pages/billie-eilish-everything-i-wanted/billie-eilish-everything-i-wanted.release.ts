@@ -9,7 +9,7 @@ export const billieEilishEverythingIWanted = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2019-11-13",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

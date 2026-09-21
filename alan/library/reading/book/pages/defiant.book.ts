@@ -6,7 +6,7 @@ export const defiant = {
   slug: "defiant",
   title: "Defiant",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Lynne Graham",
   unit: "unit/words",
   position: 4,

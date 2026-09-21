@@ -6,7 +6,7 @@ export const theAncientOlympics = {
   slug: "the-ancient-olympics",
   title: "The Ancient Olympics",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,

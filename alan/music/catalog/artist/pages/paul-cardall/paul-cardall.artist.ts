@@ -8,7 +8,7 @@ export const paulCardall = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "B",
+  grade: "B",
   status: "following",
   tags: ["Instrumental"],
   unit: "unit/minutes",

@@ -6,7 +6,7 @@ export const beethovenSPianoSonatas = {
   slug: "beethoven-s-piano-sonatas",
   title: "Beethoven's Piano Sonatas",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1098,
   ownProgress: 1098,

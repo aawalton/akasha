@@ -6,7 +6,7 @@ export const warInTheModernWorld = {
   slug: "war-in-the-modern-world",
   title: "War in the Modern World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 680.4,
   ownProgress: 680.4,

@@ -6,7 +6,7 @@ export const theHobbit = {
   slug: "the-hobbit",
   title: "The Hobbit",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "J.R.R. Tolkien",
   unit: "unit/words",
   position: 1,

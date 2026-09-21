@@ -13,7 +13,7 @@ export const shapeshifterANonHumanLitrpg = {
       externalLink: "https://www.royalroad.com/fiction/123277/shapeshifter-a-non-human-litrpg",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Progression",

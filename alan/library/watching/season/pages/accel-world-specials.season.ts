@@ -11,7 +11,7 @@ export const accelWorldSpecials = {
   ownProgress: 80,
   unit: "unit/minutes",
   status: "archived",
-  rank: "B",
+  grade: "B",
   publishedAt: "2012-07-24",
   externalIdentity: [
     {

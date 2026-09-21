@@ -6,7 +6,7 @@ export const awakenOnline = {
   slug: "awaken-online",
   title: "Awaken Online",
   status: "following",
-  rank: "A",
+  grade: "A",
   unit: "unit/words",
   maturityRating: "R",
   externalIdentity: [

@@ -11,7 +11,7 @@ export const michaelJacksonFarewellMySummerLove = {
   ownProgress: 30.994167,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1984-05-08",
   externalIdentity: [
     {

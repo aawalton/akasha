@@ -1,6 +1,6 @@
-import type { Rank } from "akasha/alan/collection/properties/rank.rank-property.types.ts"
+import type { Grade } from "akasha/page/properties/grade.rank-property.types.ts"
 
-export type MusicRating = Rank
+export type MusicRating = Grade
 
 export const MUSIC_RATINGS = [
   "F",
@@ -19,7 +19,7 @@ export const MUSIC_RATINGS = [
   "S-",
   "S",
   "S+",
-] as const satisfies readonly Rank[]
+] as const satisfies readonly Grade[]
 
 const LIKED_FROM: MusicRating = "B-"
 

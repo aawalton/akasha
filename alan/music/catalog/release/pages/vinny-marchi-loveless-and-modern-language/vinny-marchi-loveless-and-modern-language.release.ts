@@ -9,7 +9,7 @@ export const vinnyMarchiLovelessAndModernLanguage = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-03-31",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

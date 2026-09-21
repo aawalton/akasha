@@ -11,5 +11,5 @@ export const fantasticBeastsMovieSeries = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
 } as const satisfies ShowCollection

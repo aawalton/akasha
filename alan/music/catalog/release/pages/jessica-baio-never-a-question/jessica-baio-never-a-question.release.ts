@@ -11,7 +11,7 @@ export const jessicaBaioNeverAQuestion = {
   ownProgress: 2.744933,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-02-17",
   externalIdentity: [
     {

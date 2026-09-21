@@ -6,7 +6,7 @@ export const theArtOfTravelPhotography = {
   slug: "the-art-of-travel-photography",
   title: "The Art of Travel Photography",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 165,
   ownProgress: 165,

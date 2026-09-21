@@ -5,7 +5,7 @@ export const cinnamonBun = {
   type: "page-type/story-read",
   slug: "cinnamon-bun",
   ownProgress: 746879,
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Cinnamon Bun",
   world: "world/cinnamon-bun",

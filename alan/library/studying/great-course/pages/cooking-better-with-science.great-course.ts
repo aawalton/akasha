@@ -6,7 +6,7 @@ export const cookingBetterWithScience = {
   slug: "cooking-better-with-science",
   title: "Cooking Better with Science",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 357.6,
   ownProgress: 357.6,

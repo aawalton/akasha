@@ -14,7 +14,7 @@ export const librarySystemResetOverdueBookFourStubbed = {
         "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-book-four-stubbed",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

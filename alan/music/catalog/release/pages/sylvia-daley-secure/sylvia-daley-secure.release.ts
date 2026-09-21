@@ -9,7 +9,7 @@ export const sylviaDaleySecure = {
   partOfCollections: ["artist/sylvia-daley"],
   position: 0,
   publishedAt: "2025-07-25",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

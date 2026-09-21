@@ -5,7 +5,7 @@ export const savageDivinity = {
   type: "page-type/story-read",
   slug: "savage-divinity",
   ownProgress: 495270,
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Savage Divinity",
   world: "world/savage-divinity",

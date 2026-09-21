@@ -6,7 +6,7 @@ export const fairIsleFundamentals = {
   slug: "fair-isle-fundamentals",
   title: "Fair Isle Fundamentals",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 116.4,
   ownProgress: 116.4,

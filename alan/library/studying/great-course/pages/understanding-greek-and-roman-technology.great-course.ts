@@ -6,7 +6,7 @@ export const understandingGreekAndRomanTechnology = {
   slug: "understanding-greek-and-roman-technology",
   title: "Understanding Greek and Roman Technology",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 740.4,
   ownProgress: 740.4,

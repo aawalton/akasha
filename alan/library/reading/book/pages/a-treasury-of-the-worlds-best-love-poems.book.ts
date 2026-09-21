@@ -6,7 +6,7 @@ export const aTreasuryOfTheWorldsBestLovePoems = {
   slug: "a-treasury-of-the-worlds-best-love-poems",
   title: "A Treasury of the World's Best Love Poems",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   position: 3,
   ownLength: 44250,

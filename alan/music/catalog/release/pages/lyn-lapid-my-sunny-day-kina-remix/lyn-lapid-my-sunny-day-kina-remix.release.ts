@@ -11,7 +11,7 @@ export const lynLapidMySunnyDayKinaRemix = {
   ownProgress: 1.934217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-03-25",
   externalIdentity: [
     {

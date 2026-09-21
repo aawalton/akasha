@@ -6,7 +6,7 @@ export const theBeginningOfInfinity2 = {
   slug: "the-beginning-of-infinity-2",
   title: "The Beginning of Infinity",
   status: "completed",
-  rank: "S",
+  grade: "S",
   author: "David Deutsch",
   unit: "unit/words",
   ownLength: 300000,

@@ -11,7 +11,7 @@ export const michaelJacksonXscapeTrackByTrackCommentary = {
   ownProgress: 6.422467,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2014-05-09",
   externalIdentity: [
     {

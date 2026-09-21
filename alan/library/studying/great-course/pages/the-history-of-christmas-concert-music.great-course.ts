@@ -6,7 +6,7 @@ export const theHistoryOfChristmasConcertMusic = {
   slug: "the-history-of-christmas-concert-music",
   title: "The History of Christmas Concert Music",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 42,
   ownProgress: 42,

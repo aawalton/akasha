@@ -6,7 +6,7 @@ export const athenianDemocracyAnExperimentForTheAges = {
   slug: "athenian-democracy-an-experiment-for-the-ages",
   title: "Athenian Democracy: An Experiment for the Ages",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 777,
   ownProgress: 777,

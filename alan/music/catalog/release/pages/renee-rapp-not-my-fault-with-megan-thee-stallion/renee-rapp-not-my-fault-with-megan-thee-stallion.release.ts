@@ -11,7 +11,7 @@ export const reneeRappNotMyFaultWithMeganTheeStallion = {
   ownProgress: 2.842133,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-12-15",
   externalIdentity: [
     {

@@ -13,7 +13,7 @@ export const sagewood = {
       externalLink: "https://www.amazon.com/dp/B0D5J7G9ZN",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["Slice-Of-Life"],
   unit: "unit/words",
 } as const satisfies StoryRead

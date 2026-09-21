@@ -6,7 +6,7 @@ export const pilotLecturePowerAndJusticeDoesMightMakeRight = {
   slug: "pilot-lecture-power-and-justice-does-might-make-right",
   title: "Pilot Lecture: Power and Justice—Does Might Make Right?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 30.6,
   ownProgress: 30.6,

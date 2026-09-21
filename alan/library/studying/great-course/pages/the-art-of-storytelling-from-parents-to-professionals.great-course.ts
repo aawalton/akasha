@@ -6,7 +6,7 @@ export const theArtOfStorytellingFromParentsToProfessionals = {
   slug: "the-art-of-storytelling-from-parents-to-professionals",
   title: "The Art of Storytelling: From Parents to Professionals",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 753.6,
   ownProgress: 753.6,

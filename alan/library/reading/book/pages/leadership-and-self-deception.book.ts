@@ -6,7 +6,7 @@ export const leadershipAndSelfDeception = {
   slug: "leadership-and-self-deception",
   title: "Leadership and Self-Deception",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Ivan Scott",
   unit: "unit/words",
   position: 2,

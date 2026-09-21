@@ -6,7 +6,7 @@ export const pilotLectureBibiSahibaFemaleSaintOfTheAfghanEmpire = {
   slug: "pilot-lecture-bibi-sahiba-female-saint-of-the-afghan-empire",
   title: "Pilot Lecture: Bibi Sahiba - Female Saint of the Afghan Empire",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 24.6,
   ownProgress: 24.6,

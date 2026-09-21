@@ -11,7 +11,7 @@ export const lynLapidWhenSheLovedMe = {
   ownProgress: 3.128483,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-05-25",
   externalIdentity: [
     {

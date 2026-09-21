@@ -6,7 +6,7 @@ export const theNealAMaxwellQuoteBook = {
   slug: "the-neal-a-maxwell-quote-book",
   title: "The Neal A. Maxwell Quote Book",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 2,

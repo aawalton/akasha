@@ -6,7 +6,7 @@ export const pilotLectureThinkingAboutIndigenousCulturesOfTheWorld = {
   slug: "pilot-lecture-thinking-about-indigenous-cultures-of-the-world",
   title: "Pilot Lecture: Thinking about Indigenous Cultures of the World",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 32.4,
   ownProgress: 32.4,

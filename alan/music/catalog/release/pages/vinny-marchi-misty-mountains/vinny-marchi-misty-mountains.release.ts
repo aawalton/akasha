@@ -9,7 +9,7 @@ export const vinnyMarchiMistyMountains = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2022-08-27",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

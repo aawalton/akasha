@@ -11,7 +11,7 @@ export const rwbyVolume7 = {
   ownProgress: 232.8,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2019-11-02",
   externalIdentity: [
     {

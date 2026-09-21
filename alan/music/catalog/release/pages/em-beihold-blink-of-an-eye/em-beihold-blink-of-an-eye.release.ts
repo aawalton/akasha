@@ -11,7 +11,7 @@ export const emBeiholdBlinkOfAnEye = {
   ownProgress: 3.28255,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-05-17",
   externalIdentity: [
     {

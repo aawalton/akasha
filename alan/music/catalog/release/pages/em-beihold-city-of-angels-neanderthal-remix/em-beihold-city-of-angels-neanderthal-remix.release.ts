@@ -11,7 +11,7 @@ export const emBeiholdCityOfAngelsNeanderthalRemix = {
   ownProgress: 3.5,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2020-09-25",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const pilotLectureSusanBAnthonyAndSuffragistImages = {
   slug: "pilot-lecture-susan-b-anthony-and-suffragist-images",
   title: "Pilot Lecture: Susan B. Anthony and Suffragist Images",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 26.4,
   ownProgress: 26.4,

@@ -9,7 +9,7 @@ export const emeiCrazyStupidLove = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2025-02-26",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

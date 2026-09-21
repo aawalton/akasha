@@ -6,7 +6,7 @@ export const enlightenmentNow = {
   slug: "enlightenment-now",
   title: "Enlightenment Now",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "Steven Pinker, Pablo Hermida Lazcano",
   unit: "unit/words",
   ownLength: 297300,

@@ -6,7 +6,7 @@ export const pilotLectureBuildingAWebsiteWithHtmlAndCss = {
   slug: "pilot-lecture-building-a-website-with-html-and-css",
   title: "Pilot Lecture: Building a Website with HTML and CSS",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 25.2,
   ownProgress: 25.2,

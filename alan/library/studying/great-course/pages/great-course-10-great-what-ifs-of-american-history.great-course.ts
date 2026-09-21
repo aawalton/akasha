@@ -6,7 +6,7 @@ export const greatCourse10GreatWhatIfsOfAmericanHistory = {
   slug: "great-course-10-great-what-ifs-of-american-history",
   title: "10 Great What-Ifs of American History",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 253.8,
   ownProgress: 253.8,

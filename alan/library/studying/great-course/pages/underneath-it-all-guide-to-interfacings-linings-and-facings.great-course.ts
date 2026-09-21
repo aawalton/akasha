@@ -6,7 +6,7 @@ export const underneathItAllGuideToInterfacingsLiningsAndFacings = {
   slug: "underneath-it-all-guide-to-interfacings-linings-and-facings",
   title: "Underneath It All: Guide to Interfacings, Linings, and Facings",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 193.8,
   ownProgress: 193.8,

@@ -6,7 +6,7 @@ export const customsOfTheWorldUsingCulturalIntelligenceToAdaptWhereverYou = {
   slug: "customs-of-the-world-using-cultural-intelligence-to-adapt-wherever-you",
   title: "Customs of the World: Using Cultural Intelligence to Adapt, Wherever You Are",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 718.2,
   ownProgress: 718.2,

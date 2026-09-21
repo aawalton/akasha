@@ -6,7 +6,7 @@ export const plusPilotTreatingYourPoisonedPet = {
   slug: "plus-pilot-treating-your-poisoned-pet",
   title: "Plus Pilot: Treating Your Poisoned Pet",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

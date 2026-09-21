@@ -11,7 +11,7 @@ export const emBeiholdHouseOnAHillFeatEmBeihold = {
   ownProgress: 6.63265,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-07-21",
   externalIdentity: [
     {

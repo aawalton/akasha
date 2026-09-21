@@ -11,7 +11,7 @@ export const michaelJackson20thCenturyMastersTheMillenniumCollectionBestOfMichae
   ownProgress: 36.086617,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2000-01-01",
   externalIdentity: [
     {

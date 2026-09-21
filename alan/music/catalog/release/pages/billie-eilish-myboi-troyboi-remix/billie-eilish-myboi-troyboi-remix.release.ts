@@ -9,7 +9,7 @@ export const billieEilishMyboiTroyboiRemix = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2018-03-09",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

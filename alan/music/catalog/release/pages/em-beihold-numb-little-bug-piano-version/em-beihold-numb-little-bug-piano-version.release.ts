@@ -11,7 +11,7 @@ export const emBeiholdNumbLittleBugPianoVersion = {
   ownProgress: 2.755333,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2022-03-18",
   externalIdentity: [
     {

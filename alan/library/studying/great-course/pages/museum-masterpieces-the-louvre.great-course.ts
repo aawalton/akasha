@@ -6,7 +6,7 @@ export const museumMasterpiecesTheLouvre = {
   slug: "museum-masterpieces-the-louvre",
   title: "Museum Masterpieces: The Louvre",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 382.8,
   ownProgress: 382.8,

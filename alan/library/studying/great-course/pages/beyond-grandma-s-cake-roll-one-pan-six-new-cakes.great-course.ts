@@ -6,7 +6,7 @@ export const beyondGrandmaSCakeRollOnePanSixNewCakes = {
   slug: "beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
   title: "Beyond Grandma's Cake Roll: One Pan, Six New Cakes",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 157.8,
   ownProgress: 157.8,

@@ -11,7 +11,7 @@ export const lilithMaxBornToDie = {
   ownProgress: 2.277483,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-07-09",
   externalIdentity: [
     {

@@ -14,7 +14,7 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
         "https://www.royalroad.com/fiction/99657/dark-matter-ascension-litrpg-swordmage-mc",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

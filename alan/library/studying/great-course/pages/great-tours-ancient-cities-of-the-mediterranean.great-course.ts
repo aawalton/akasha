@@ -6,7 +6,7 @@ export const greatToursAncientCitiesOfTheMediterranean = {
   slug: "great-tours-ancient-cities-of-the-mediterranean",
   title: "Great Tours: Ancient Cities of the Mediterranean",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 701.4,
   ownProgress: 701.4,

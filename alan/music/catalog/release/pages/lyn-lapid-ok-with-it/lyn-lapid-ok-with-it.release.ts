@@ -11,7 +11,7 @@ export const lynLapidOkWithIt = {
   ownProgress: 2.763217,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-05-19",
   externalIdentity: [
     {

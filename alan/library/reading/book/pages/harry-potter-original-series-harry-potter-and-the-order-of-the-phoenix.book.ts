@@ -6,7 +6,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheOrderOfThePhoenix = {
   slug: "harry-potter-original-series-harry-potter-and-the-order-of-the-phoenix",
   title: "Harry Potter Original Series: Harry Potter and the Order of the Phoenix",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   position: 5,
   ownLength: 219250,

@@ -11,7 +11,7 @@ export const lynLapidCruiseControl = {
   ownProgress: 2.591433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-03-29",
   externalIdentity: [
     {

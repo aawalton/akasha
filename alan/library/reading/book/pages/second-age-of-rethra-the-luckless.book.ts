@@ -6,7 +6,7 @@ export const secondAgeOfRethraTheLuckless = {
   slug: "second-age-of-rethra-the-luckless",
   title: "Second Age of Rethra: The Luckless",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/words",
   position: 1,
   ownLength: 67000,

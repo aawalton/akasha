@@ -11,7 +11,7 @@ export const jessicaBaioWhatAreYouAfraidOf = {
   ownProgress: 10.087917,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-09-13",
   externalIdentity: [
     {

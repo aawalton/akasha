@@ -11,6 +11,6 @@ export const theTwoTowers = {
   ownProgress: 0,
   unit: "unit/words",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "1954-11-11",
 } as const satisfies BookCollection

@@ -11,7 +11,7 @@ export const accelWorldSeason1 = {
   ownProgress: 576,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2012-04-06",
   externalIdentity: [
     {

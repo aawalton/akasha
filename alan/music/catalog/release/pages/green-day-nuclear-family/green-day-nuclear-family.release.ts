@@ -11,7 +11,7 @@ export const greenDayNuclearFamily = {
   ownProgress: 3.052433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2012-09-11",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const handLetteringForBeginners = {
   slug: "hand-lettering-for-beginners",
   title: "Hand-Lettering for Beginners",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 116.4,
   ownProgress: 116.4,

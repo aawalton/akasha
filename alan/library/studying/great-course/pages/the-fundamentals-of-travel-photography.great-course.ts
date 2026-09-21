@@ -6,7 +6,7 @@ export const theFundamentalsOfTravelPhotography = {
   slug: "the-fundamentals-of-travel-photography",
   title: "The Fundamentals of Travel Photography",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 601.2,
   ownProgress: 601.2,

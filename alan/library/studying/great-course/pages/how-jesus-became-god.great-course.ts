@@ -6,7 +6,7 @@ export const howJesusBecameGod = {
   slug: "how-jesus-became-god",
   title: "How Jesus Became God",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 751.8,
   ownProgress: 751.8,

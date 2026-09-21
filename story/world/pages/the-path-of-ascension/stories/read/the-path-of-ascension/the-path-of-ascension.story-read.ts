@@ -14,7 +14,7 @@ export const thePathOfAscension = {
     },
   ],
   author: "C_Mantis",
-  rank: "A",
+  grade: "A",
   following: true,
   externalTags: [
     "LitRPG",

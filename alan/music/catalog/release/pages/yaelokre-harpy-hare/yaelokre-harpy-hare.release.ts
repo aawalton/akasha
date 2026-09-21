@@ -11,7 +11,7 @@ export const yaelokreHarpyHare = {
   ownProgress: 3.015367,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2024-01-04",
   externalIdentity: [
     {

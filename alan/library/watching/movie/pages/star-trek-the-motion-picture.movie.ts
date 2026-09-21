@@ -11,7 +11,7 @@ export const starTrekTheMotionPicture = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1979-12-07",
   externalIdentity: [
     {

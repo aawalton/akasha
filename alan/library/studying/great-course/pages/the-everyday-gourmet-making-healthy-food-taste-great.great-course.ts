@@ -6,7 +6,7 @@ export const theEverydayGourmetMakingHealthyFoodTasteGreat = {
   slug: "the-everyday-gourmet-making-healthy-food-taste-great",
   title: "The Everyday Gourmet: Making Healthy Food Taste Great",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 198.6,
   ownProgress: 198.6,

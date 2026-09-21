@@ -6,7 +6,7 @@ export const greatAncientCivilizationsOfAsiaMinor = {
   slug: "great-ancient-civilizations-of-asia-minor",
   title: "Great Ancient Civilizations of Asia Minor",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 720,
   ownProgress: 720,

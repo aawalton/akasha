@@ -6,7 +6,7 @@ export const elantris = {
   slug: "elantris",
   title: "Elantris",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 6,

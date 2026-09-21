@@ -6,7 +6,7 @@ export const medicalNewsExplained = {
   slug: "medical-news-explained",
   title: "Medical News Explained",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 72,
   ownProgress: 72,

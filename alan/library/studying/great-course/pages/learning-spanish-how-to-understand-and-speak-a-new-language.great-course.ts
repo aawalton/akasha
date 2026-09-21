@@ -6,7 +6,7 @@ export const learningSpanishHowToUnderstandAndSpeakANewLanguage = {
   slug: "learning-spanish-how-to-understand-and-speak-a-new-language",
   title: "Learning Spanish: How to Understand and Speak a New Language",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1293.6,
   ownProgress: 1293.6,

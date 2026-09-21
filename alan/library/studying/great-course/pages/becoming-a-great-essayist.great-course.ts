@@ -6,7 +6,7 @@ export const becomingAGreatEssayist = {
   slug: "becoming-a-great-essayist",
   title: "Becoming a Great Essayist",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 744.6,
   ownProgress: 744.6,

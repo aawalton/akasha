@@ -6,7 +6,7 @@ export const wheelOfTimeACrownOfSwords = {
   slug: "wheel-of-time-a-crown-of-swords",
   title: "Wheel of Time: A Crown of Swords",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 7,

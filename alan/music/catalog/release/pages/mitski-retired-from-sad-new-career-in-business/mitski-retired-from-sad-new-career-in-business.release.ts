@@ -11,7 +11,7 @@ export const mitskiRetiredFromSadNewCareerInBusiness = {
   ownProgress: 23.945083,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2013-08-01",
   externalIdentity: [
     {

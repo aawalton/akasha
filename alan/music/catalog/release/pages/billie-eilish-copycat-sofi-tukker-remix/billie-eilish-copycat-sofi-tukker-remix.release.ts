@@ -9,7 +9,7 @@ export const billieEilishCopycatSofiTukkerRemix = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2018-01-12",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

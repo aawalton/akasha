@@ -11,7 +11,7 @@ export const greenDayGreatestHitsGodSFavoriteBand = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "C",
+  grade: "C",
   publishedAt: "2017-11-17",
   externalIdentity: [
     {

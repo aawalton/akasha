@@ -14,7 +14,7 @@ export const melodyOfMana = {
     },
   ],
   author: "Wandering Agent",
-  rank: "C",
+  grade: "C",
   publicationStatus: "completed",
   externalTags: [
     "Portal Fantasy / Isekai",

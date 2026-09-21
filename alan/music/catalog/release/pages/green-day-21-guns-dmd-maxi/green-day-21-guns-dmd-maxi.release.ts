@@ -11,7 +11,7 @@ export const greenDay21GunsDmdMaxi = {
   ownProgress: 12.6562,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-01-01",
   externalIdentity: [
     {

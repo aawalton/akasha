@@ -6,7 +6,7 @@ export const theGreatToursGermanyAndAustria = {
   slug: "the-great-tours-germany-and-austria",
   title: "The Great Tours: Germany and Austria",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 699.6,
   ownProgress: 699.6,

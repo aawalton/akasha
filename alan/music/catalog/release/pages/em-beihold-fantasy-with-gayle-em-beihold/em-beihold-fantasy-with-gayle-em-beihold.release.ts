@@ -11,7 +11,7 @@ export const emBeiholdFantasyWithGayleEmBeihold = {
   ownProgress: 2.918167,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-04-14",
   externalIdentity: [
     {

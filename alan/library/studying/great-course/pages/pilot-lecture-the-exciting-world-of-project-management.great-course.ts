@@ -6,7 +6,7 @@ export const pilotLectureTheExcitingWorldOfProjectManagement = {
   slug: "pilot-lecture-the-exciting-world-of-project-management",
   title: "Pilot Lecture: The Exciting World of Project Management",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 36.6,
   ownProgress: 36.6,

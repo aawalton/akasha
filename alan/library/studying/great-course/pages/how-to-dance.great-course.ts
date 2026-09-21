@@ -6,7 +6,7 @@ export const howToDance = {
   slug: "how-to-dance",
   title: "How to Dance",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 477,
   ownProgress: 477,

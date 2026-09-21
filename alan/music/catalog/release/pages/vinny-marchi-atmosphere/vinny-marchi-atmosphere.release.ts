@@ -9,7 +9,7 @@ export const vinnyMarchiAtmosphere = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-08-04",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

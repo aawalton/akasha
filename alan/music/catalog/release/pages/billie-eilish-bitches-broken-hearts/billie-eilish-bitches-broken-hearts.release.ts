@@ -9,7 +9,7 @@ export const billieEilishBitchesBrokenHearts = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2018-03-30",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

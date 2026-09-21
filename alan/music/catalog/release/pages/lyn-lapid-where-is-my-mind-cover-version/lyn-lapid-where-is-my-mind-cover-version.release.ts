@@ -11,7 +11,7 @@ export const lynLapidWhereIsMyMindCoverVersion = {
   ownProgress: 1.892283,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-06-13",
   externalIdentity: [
     {

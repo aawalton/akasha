@@ -6,7 +6,7 @@ export const pilotLectureTheHistoryOfTheArchShapingSpaceThroughStrength = {
   slug: "pilot-lecture-the-history-of-the-arch-shaping-space-through-strength",
   title: "Pilot Lecture: The History of the Arch—Shaping Space through Strength",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 35.066667,
   ownProgress: 35.066667,

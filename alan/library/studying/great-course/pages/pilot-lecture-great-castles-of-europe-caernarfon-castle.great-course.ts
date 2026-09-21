@@ -6,7 +6,7 @@ export const pilotLectureGreatCastlesOfEuropeCaernarfonCastle = {
   slug: "pilot-lecture-great-castles-of-europe-caernarfon-castle",
   title: "Pilot Lecture: Great Castles of Europe—Caernarfon Castle",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 30,

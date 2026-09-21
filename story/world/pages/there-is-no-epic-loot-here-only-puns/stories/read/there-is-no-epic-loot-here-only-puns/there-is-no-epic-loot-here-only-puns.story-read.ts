@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns = {
   type: "page-type/story-read",
   slug: "there-is-no-epic-loot-here-only-puns",
   ownProgress: 718536,
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   externalIdentity: [
     {

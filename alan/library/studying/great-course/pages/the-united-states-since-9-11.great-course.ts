@@ -6,7 +6,7 @@ export const theUnitedStatesSince911 = {
   slug: "the-united-states-since-9-11",
   title: "The United States since 9/11",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 73.2,
   ownProgress: 73.2,

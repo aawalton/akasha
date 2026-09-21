@@ -6,7 +6,7 @@ export const airFryerEssentials = {
   slug: "air-fryer-essentials",
   title: "Air Fryer Essentials",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 87.6,
   ownProgress: 87.6,

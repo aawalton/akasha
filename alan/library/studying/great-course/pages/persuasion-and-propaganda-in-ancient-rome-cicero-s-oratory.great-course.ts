@@ -6,7 +6,7 @@ export const persuasionAndPropagandaInAncientRomeCiceroSOratory = {
   slug: "persuasion-and-propaganda-in-ancient-rome-cicero-s-oratory",
   title: "Persuasion and Propaganda in Ancient Rome: Cicero's Oratory",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 36.6,
   ownProgress: 36.6,

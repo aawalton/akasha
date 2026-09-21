@@ -11,5 +11,5 @@ export const theCheesecakeFactory = {
   ownProgress: 0,
   unit: "unit/words",
   status: "in-progress",
-  rank: "B",
+  grade: "B",
 } as const satisfies Restaurant

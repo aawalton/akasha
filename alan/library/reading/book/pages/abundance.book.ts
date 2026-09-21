@@ -6,7 +6,7 @@ export const abundance = {
   slug: "abundance",
   title: "Abundance",
   status: "completed",
-  rank: "A",
+  grade: "A",
   author: "John Green",
   unit: "unit/words",
   ownLength: 108450,

@@ -11,7 +11,7 @@ export const swordArtOnlineAlternativeGunGaleOnline2 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2018-04-07",
   externalIdentity: [
     {

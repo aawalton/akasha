@@ -6,7 +6,7 @@ export const classicCroissantsModernTechniques = {
   slug: "classic-croissants-modern-techniques",
   title: "Classic Croissants, Modern Techniques",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 108,
   ownProgress: 108,

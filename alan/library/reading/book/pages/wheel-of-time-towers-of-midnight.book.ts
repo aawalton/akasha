@@ -6,7 +6,7 @@ export const wheelOfTimeTowersOfMidnight = {
   slug: "wheel-of-time-towers-of-midnight",
   title: "Wheel of Time: Towers of Midnight",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan, Brandon Sanderson",
   unit: "unit/words",
   position: 13,

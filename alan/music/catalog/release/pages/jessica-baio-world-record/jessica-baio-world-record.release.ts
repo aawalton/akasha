@@ -11,7 +11,7 @@ export const jessicaBaioWorldRecord = {
   ownProgress: 3.0238,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2020-01-02",
   externalIdentity: [
     {

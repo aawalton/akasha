@@ -13,7 +13,7 @@ export const salvos = {
       externalLink: "https://www.royalroad.com/fiction/37438/salvos",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

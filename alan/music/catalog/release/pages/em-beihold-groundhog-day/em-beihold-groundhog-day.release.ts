@@ -11,7 +11,7 @@ export const emBeiholdGroundhogDay = {
   ownProgress: 2.89365,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2021-05-28",
   externalIdentity: [
     {

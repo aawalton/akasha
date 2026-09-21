@@ -14,7 +14,7 @@ export const rockFallsEveryoneDies = {
     },
   ],
   author: "zechamp",
-  rank: "C",
+  grade: "C",
   publicationStatus: "completed",
   externalTags: [
     "LitRPG",

@@ -6,7 +6,7 @@ export const startupProjectNatureInWatercolor = {
   slug: "startup-project-nature-in-watercolor",
   title: "Startup Project: Nature in Watercolor",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 132.6,
   ownProgress: 132.6,

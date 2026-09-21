@@ -11,7 +11,7 @@ export const theLordOfTheRingsTheWarOfTheRohirrim = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-12-13",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const pilotLectureExploringVietnamHoiAnAndTheChampaWorld = {
   slug: "pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
   title: "Pilot Lecture: Exploring Vietnam—Hoi An and the Champa World",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 32.35,
   ownProgress: 32.35,

@@ -6,7 +6,7 @@ export const illustratedNatureJournaling = {
   slug: "illustrated-nature-journaling",
   title: "Illustrated Nature Journaling",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 137.4,
   ownProgress: 137.4,

@@ -6,7 +6,7 @@ export const ofOneHeartLookBackAtSodom = {
   slug: "of-one-heart-look-back-at-sodom",
   title: "Of One Heart/Look Back at Sodom",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 5,

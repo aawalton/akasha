@@ -6,7 +6,7 @@ export const knitFasterWithContinentalKnitting = {
   slug: "knit-faster-with-continental-knitting",
   title: "Knit Faster with Continental Knitting",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 149.4,
   ownProgress: 149.4,

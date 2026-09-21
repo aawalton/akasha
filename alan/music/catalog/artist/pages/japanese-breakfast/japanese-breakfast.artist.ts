@@ -11,7 +11,7 @@ export const japaneseBreakfast = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   externalIdentity: [
     {
       source: "spotify",

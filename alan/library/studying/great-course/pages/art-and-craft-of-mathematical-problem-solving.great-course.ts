@@ -6,7 +6,7 @@ export const artAndCraftOfMathematicalProblemSolving = {
   slug: "art-and-craft-of-mathematical-problem-solving",
   title: "Art and Craft of Mathematical Problem Solving",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 734.4,
   ownProgress: 734.4,

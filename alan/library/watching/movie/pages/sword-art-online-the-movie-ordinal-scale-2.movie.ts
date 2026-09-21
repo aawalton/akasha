@@ -11,7 +11,7 @@ export const swordArtOnlineTheMovieOrdinalScale2 = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2017-02-18",
   externalIdentity: [
     {

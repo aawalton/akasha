@@ -6,7 +6,7 @@ export const pilotLectureTheGeneticsOfCancer = {
   slug: "pilot-lecture-the-genetics-of-cancer",
   title: "Pilot Lecture: The Genetics of Cancer",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 30,

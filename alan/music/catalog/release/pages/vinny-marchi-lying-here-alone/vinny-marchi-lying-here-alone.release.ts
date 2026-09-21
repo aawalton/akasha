@@ -9,7 +9,7 @@ export const vinnyMarchiLyingHereAlone = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2022-09-13",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

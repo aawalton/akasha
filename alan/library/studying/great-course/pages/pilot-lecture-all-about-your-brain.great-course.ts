@@ -6,7 +6,7 @@ export const pilotLectureAllAboutYourBrain = {
   slug: "pilot-lecture-all-about-your-brain",
   title: "Pilot Lecture: All about Your Brain",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

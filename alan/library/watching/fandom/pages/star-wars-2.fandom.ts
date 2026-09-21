@@ -11,5 +11,5 @@ export const starWars2 = {
   ownProgress: 0,
   unit: "unit/words",
   status: "paused",
-  rank: "B",
+  grade: "B",
 } as const satisfies Fandom

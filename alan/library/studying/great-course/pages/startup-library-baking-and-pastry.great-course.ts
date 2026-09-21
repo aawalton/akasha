@@ -6,7 +6,7 @@ export const startupLibraryBakingAndPastry = {
   slug: "startup-library-baking-and-pastry",
   title: "Startup Library: Baking & Pastry",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 223.2,
   ownProgress: 223.2,

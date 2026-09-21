@@ -11,7 +11,7 @@ export const emBeiholdInfrared = {
   ownProgress: 19.411017,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2017-05-11",
   externalIdentity: [
     {

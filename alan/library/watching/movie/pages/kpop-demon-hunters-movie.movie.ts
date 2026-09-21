@@ -11,7 +11,7 @@ export const kpopDemonHuntersMovie = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "S",
+  grade: "S",
   publishedAt: "2025-06-20",
   externalIdentity: [
     {

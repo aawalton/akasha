@@ -11,7 +11,7 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   ownProgress: 3.292067,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2024-06-20",
   externalIdentity: [
     {

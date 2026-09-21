@@ -6,7 +6,7 @@ export const evershore = {
   slug: "evershore",
   title: "Evershore",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson, Janci Patterson",
   unit: "unit/words",
   position: 3,

@@ -6,7 +6,7 @@ export const greatBoardGamesOfTheAncientWorld = {
   slug: "great-board-games-of-the-ancient-world",
   title: "Great Board Games of the Ancient World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 382.2,
   ownProgress: 382.2,

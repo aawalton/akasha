@@ -9,7 +9,7 @@ export const vinnyMarchiMyMotherToldMe = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-01-21",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

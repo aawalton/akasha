@@ -6,7 +6,7 @@ export const freelancing101TurningYourSideHustleIntoCash = {
   slug: "freelancing-101-turning-your-side-hustle-into-cash",
   title: "Freelancing 101: Turning your Side Hustle into Cash",
   status: "archived",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 126,
   ownProgress: 0,

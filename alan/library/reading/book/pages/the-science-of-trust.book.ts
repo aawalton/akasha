@@ -6,7 +6,7 @@ export const theScienceOfTrust = {
   slug: "the-science-of-trust",
   title: "The Science of Trust",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "John Mordechai Gottman",
   unit: "unit/words",
   ownLength: 246300,

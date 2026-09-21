@@ -11,7 +11,7 @@ export const musicalTheaterTangled = {
   ownProgress: 55.7928,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2010-01-01",
   externalIdentity: [
     {

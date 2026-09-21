@@ -6,7 +6,7 @@ export const notoriousLondonACityTour = {
   slug: "notorious-london-a-city-tour",
   title: "Notorious London: A City Tour",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 361.8,
   ownProgress: 361.8,

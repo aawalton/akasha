@@ -6,7 +6,7 @@ export const howConversationWorks6LessonsForBetterCommunication = {
   slug: "how-conversation-works-6-lessons-for-better-communication",
   title: "How Conversation Works: 6 Lessons for Better Communication",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 190.2,
   ownProgress: 190.2,

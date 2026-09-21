@@ -6,7 +6,7 @@ export const showStoppingMakeAheadDesserts = {
   slug: "show-stopping-make-ahead-desserts",
   title: "Show-Stopping Make-Ahead Desserts",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 175.8,
   ownProgress: 175.8,

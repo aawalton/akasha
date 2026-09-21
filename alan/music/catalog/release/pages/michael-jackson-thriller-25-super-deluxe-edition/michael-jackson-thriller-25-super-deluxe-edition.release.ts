@@ -11,7 +11,7 @@ export const michaelJacksonThriller25SuperDeluxeEdition = {
   ownProgress: 110.138517,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2008-02-08",
   externalIdentity: [
     {

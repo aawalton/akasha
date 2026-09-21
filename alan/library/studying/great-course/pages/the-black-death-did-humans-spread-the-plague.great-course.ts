@@ -6,7 +6,7 @@ export const theBlackDeathDidHumansSpreadThePlague = {
   slug: "the-black-death-did-humans-spread-the-plague",
   title: "The Black Death: Did Humans Spread the Plague?",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 10.8,
   ownProgress: 10.8,

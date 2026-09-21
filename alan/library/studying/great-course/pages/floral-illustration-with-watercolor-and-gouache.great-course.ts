@@ -6,7 +6,7 @@ export const floralIllustrationWithWatercolorAndGouache = {
   slug: "floral-illustration-with-watercolor-and-gouache",
   title: "Floral Illustration With Watercolor & Gouache",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 82.8,
   ownProgress: 82.8,

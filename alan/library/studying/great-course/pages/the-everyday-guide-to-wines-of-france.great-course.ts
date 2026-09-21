@@ -6,7 +6,7 @@ export const theEverydayGuideToWinesOfFrance = {
   slug: "the-everyday-guide-to-wines-of-france",
   title: "The Everyday Guide to Wines of France",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 213,
   ownProgress: 213,

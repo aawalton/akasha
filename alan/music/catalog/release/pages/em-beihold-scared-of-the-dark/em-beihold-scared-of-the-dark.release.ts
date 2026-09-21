@@ -11,7 +11,7 @@ export const emBeiholdScaredOfTheDark = {
   ownProgress: 8.066767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2025-10-24",
   externalIdentity: [
     {

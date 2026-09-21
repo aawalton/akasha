@@ -11,7 +11,7 @@ export const jessicaBaioIfINever = {
   ownProgress: 2.937467,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-01-15",
   externalIdentity: [
     {

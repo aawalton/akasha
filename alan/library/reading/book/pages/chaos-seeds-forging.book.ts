@@ -6,7 +6,7 @@ export const chaosSeedsForging = {
   slug: "chaos-seeds-forging",
   title: "Chaos Seeds: Forging",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Aleron Kong",
   unit: "unit/words",
   position: 2,

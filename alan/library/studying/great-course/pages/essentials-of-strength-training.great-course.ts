@@ -6,7 +6,7 @@ export const essentialsOfStrengthTraining = {
   slug: "essentials-of-strength-training",
   title: "Essentials of Strength Training",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 219,
   ownProgress: 219,

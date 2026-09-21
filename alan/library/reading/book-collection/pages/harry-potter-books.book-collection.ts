@@ -11,5 +11,5 @@ export const harryPotterBooks = {
   ownProgress: 0,
   unit: "unit/words",
   status: "following",
-  rank: "B",
+  grade: "B",
 } as const satisfies BookCollection

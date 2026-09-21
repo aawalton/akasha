@@ -6,7 +6,7 @@ export const howTheMediciShapedTheRenaissance = {
   slug: "how-the-medici-shaped-the-renaissance",
   title: "How the Medici Shaped the Renaissance",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 366.6,
   ownProgress: 366.6,

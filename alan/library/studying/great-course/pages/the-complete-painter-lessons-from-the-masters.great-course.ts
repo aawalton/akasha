@@ -6,7 +6,7 @@ export const theCompletePainterLessonsFromTheMasters = {
   slug: "the-complete-painter-lessons-from-the-masters",
   title: "The Complete Painter: Lessons from the Masters",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 976.2,
   ownProgress: 976.2,

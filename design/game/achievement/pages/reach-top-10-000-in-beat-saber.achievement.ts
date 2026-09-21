@@ -11,5 +11,5 @@ export const reachTop10000InBeatSaber = {
   ownProgress: 1325175,
   unit: "unit/words",
   status: "completed",
-  rank: "A",
+  grade: "A",
 } as const satisfies Achievement

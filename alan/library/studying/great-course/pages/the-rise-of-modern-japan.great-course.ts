@@ -6,7 +6,7 @@ export const theRiseOfModernJapan = {
   slug: "the-rise-of-modern-japan",
   title: "The Rise of Modern Japan",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 353.4,
   ownProgress: 353.4,

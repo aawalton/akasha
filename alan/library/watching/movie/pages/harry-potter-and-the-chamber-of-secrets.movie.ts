@@ -11,7 +11,7 @@ export const harryPotterAndTheChamberOfSecrets = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2002-11-15",
   externalIdentity: [
     {

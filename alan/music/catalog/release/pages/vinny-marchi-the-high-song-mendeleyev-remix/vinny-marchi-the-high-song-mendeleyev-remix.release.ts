@@ -9,7 +9,7 @@ export const vinnyMarchiTheHighSongMendeleyevRemix = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-07-07",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

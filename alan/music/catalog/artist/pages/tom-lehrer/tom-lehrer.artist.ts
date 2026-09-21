@@ -11,7 +11,7 @@ export const tomLehrer = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   externalIdentity: [
     {
       source: "spotify",

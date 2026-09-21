@@ -14,7 +14,7 @@ export const dungeonOfKnowledgeComplete = {
     },
   ],
   author: "timewalk",
-  rank: "A",
+  grade: "A",
   following: true,
   publicationStatus: "completed",
   externalTags: [

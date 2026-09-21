@@ -6,7 +6,7 @@ export const americanIdealsFoundingARepublicOfVirtue = {
   slug: "american-ideals-founding-a-republic-of-virtue",
   title: 'American Ideals: Founding a "Republic of Virtue"',
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 363.6,
   ownProgress: 363.6,

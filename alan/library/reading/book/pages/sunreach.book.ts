@@ -6,7 +6,7 @@ export const sunreach = {
   slug: "sunreach",
   title: "Sunreach",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson, Janci Patterson",
   unit: "unit/words",
   position: 1,

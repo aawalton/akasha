@@ -11,7 +11,7 @@ export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
   ownProgress: 85.517683,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2009-10-20",
   externalIdentity: [
     {

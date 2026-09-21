@@ -6,7 +6,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheGobletOfFire = {
   slug: "harry-potter-original-series-harry-potter-and-the-goblet-of-fire",
   title: "Harry Potter Original Series: Harry Potter and the Goblet of Fire",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   position: 4,
   ownLength: 185000,

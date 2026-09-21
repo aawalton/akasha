@@ -11,7 +11,7 @@ export const jennaRaineYouCanBlameMe = {
   ownProgress: 3.027767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-10-11",
   externalIdentity: [
     {

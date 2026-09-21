@@ -9,7 +9,7 @@ export const vinnyMarchiHeroInYourStory = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2024-05-24",
-  rank: "A",
+  grade: "A",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

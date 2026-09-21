@@ -6,7 +6,7 @@ export const pilotLectureAlaricTheGothAndTheSackOfRome = {
   slug: "pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
   title: "Pilot Lecture: Alaric the Goth and the Sack of Rome",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 32.4,
   ownProgress: 32.4,

@@ -11,7 +11,7 @@ export const michaelJacksonAnthologyTheBestOfMichaelJackson = {
   ownProgress: 145.80155,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1986-11-14",
   externalIdentity: [
     {

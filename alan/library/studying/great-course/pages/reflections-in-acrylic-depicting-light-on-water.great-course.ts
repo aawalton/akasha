@@ -6,7 +6,7 @@ export const reflectionsInAcrylicDepictingLightOnWater = {
   slug: "reflections-in-acrylic-depicting-light-on-water",
   title: "Reflections in Acrylic: Depicting Light on Water",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 141.6,
   ownProgress: 141.6,

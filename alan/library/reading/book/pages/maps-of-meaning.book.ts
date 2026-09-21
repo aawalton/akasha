@@ -6,7 +6,7 @@ export const mapsOfMeaning = {
   slug: "maps-of-meaning",
   title: "Maps of Meaning",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Jordan B. Peterson",
   unit: "unit/words",
   ownLength: 463050,

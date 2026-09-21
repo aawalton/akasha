@@ -6,7 +6,7 @@ export const theSoftwareEngineersGuidebook = {
   slug: "the-software-engineers-guidebook",
   title: "The Software Engineer's Guidebook",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Gergely Orosz",
   unit: "unit/words",
   position: 4,

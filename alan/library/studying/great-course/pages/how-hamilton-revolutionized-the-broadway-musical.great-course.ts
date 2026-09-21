@@ -6,7 +6,7 @@ export const howHamiltonRevolutionizedTheBroadwayMusical = {
   slug: "how-hamilton-revolutionized-the-broadway-musical",
   title: "How Hamilton Revolutionized the Broadway Musical",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 12.6,
   ownProgress: 12.6,

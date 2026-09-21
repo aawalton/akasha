@@ -6,7 +6,7 @@ export const ancientMesopotamiaLifeInTheCradleOfCivilization = {
   slug: "ancient-mesopotamia-life-in-the-cradle-of-civilization",
   title: "Ancient Mesopotamia: Life in the Cradle of Civilization",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 680.4,
   ownProgress: 680.4,

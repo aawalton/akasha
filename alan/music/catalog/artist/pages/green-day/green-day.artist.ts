@@ -11,7 +11,7 @@ export const greenDay = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "archived",
-  rank: "D",
+  grade: "D",
   externalIdentity: [
     {
       source: "spotify",

@@ -11,7 +11,7 @@ export const gracieAbramsThisIsWhatItFeelsLike = {
   ownProgress: 37.85495,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2021-11-12",
   externalIdentity: [
     {

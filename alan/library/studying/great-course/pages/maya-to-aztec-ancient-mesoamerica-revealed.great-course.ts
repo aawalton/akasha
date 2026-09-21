@@ -6,7 +6,7 @@ export const mayaToAztecAncientMesoamericaRevealed = {
   slug: "maya-to-aztec-ancient-mesoamerica-revealed",
   title: "Maya to Aztec: Ancient Mesoamerica Revealed",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1464,
   ownProgress: 1464,

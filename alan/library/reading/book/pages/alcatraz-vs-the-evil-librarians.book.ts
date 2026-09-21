@@ -6,7 +6,7 @@ export const alcatrazVsTheEvilLibrarians = {
   slug: "alcatraz-vs-the-evil-librarians",
   title: "Alcatraz vs the Evil Librarians",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 1,

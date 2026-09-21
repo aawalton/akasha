@@ -11,7 +11,7 @@ export const michaelJacksonTheOriginalSoulOfMichaelJackson = {
   ownProgress: 40.245267,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1987-10-01",
   externalIdentity: [
     {

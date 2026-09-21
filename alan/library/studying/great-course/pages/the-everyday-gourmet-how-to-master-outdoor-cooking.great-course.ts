@@ -6,7 +6,7 @@ export const theEverydayGourmetHowToMasterOutdoorCooking = {
   slug: "the-everyday-gourmet-how-to-master-outdoor-cooking",
   title: "The Everyday Gourmet: How to Master Outdoor Cooking",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 400.2,
   ownProgress: 400.2,

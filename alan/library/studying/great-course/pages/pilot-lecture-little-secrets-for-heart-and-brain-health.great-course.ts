@@ -6,7 +6,7 @@ export const pilotLectureLittleSecretsForHeartAndBrainHealth = {
   slug: "pilot-lecture-little-secrets-for-heart-and-brain-health",
   title: "Pilot Lecture: Little Secrets for Heart and Brain Health",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 28.2,
   ownProgress: 28.2,

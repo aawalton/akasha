@@ -6,7 +6,7 @@ export const renaissanceTheTransformationOfTheWest = {
   slug: "renaissance-the-transformation-of-the-west",
   title: "Renaissance: The Transformation of the West",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1596.6,
   ownProgress: 1596.6,

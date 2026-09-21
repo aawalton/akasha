@@ -6,7 +6,7 @@ export const storiesAboutGreatStorytellers = {
   slug: "stories-about-great-storytellers",
   title: "Stories about Great Storytellers",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 24,
   ownProgress: 24,

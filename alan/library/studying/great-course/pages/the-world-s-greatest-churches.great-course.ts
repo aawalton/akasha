@@ -6,7 +6,7 @@ export const theWorldSGreatestChurches = {
   slug: "the-world-s-greatest-churches",
   title: "The World's Greatest Churches",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 757.8,
   ownProgress: 757.8,

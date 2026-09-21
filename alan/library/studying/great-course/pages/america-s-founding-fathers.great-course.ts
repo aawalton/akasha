@@ -6,7 +6,7 @@ export const americaSFoundingFathers = {
   slug: "america-s-founding-fathers",
   title: "America's Founding Fathers",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1079.4,
   ownProgress: 1079.4,

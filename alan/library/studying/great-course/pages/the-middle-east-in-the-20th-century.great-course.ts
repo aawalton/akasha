@@ -6,7 +6,7 @@ export const theMiddleEastInThe20thCentury = {
   slug: "the-middle-east-in-the-20th-century",
   title: "The Middle East in the 20th Century",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 663,
   ownProgress: 663,

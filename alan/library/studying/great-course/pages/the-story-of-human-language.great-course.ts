@@ -6,7 +6,7 @@ export const theStoryOfHumanLanguage = {
   slug: "the-story-of-human-language",
   title: "The Story of Human Language",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 1086,
   ownProgress: 1086,

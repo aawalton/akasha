@@ -11,7 +11,7 @@ export const harryPotterAndTheGobletOfFire = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2005-11-18",
   externalIdentity: [
     {

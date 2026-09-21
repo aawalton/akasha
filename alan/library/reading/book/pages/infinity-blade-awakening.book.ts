@@ -6,7 +6,7 @@ export const infinityBladeAwakening = {
   slug: "infinity-blade-awakening",
   title: "Infinity Blade: Awakening",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 1,

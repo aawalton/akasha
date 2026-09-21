@@ -6,7 +6,7 @@ export const pilotLectureHowToUseProbabilityToWinGamesOfStrategy = {
   slug: "pilot-lecture-how-to-use-probability-to-win-games-of-strategy",
   title: "Pilot Lecture: How to Use Probability to Win Games of Strategy",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 34.8,
   ownProgress: 34.8,

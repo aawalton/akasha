@@ -6,7 +6,7 @@ export const decodingTheSecretsOfEgyptianHieroglyphs = {
   slug: "decoding-the-secrets-of-egyptian-hieroglyphs",
   title: "Decoding the Secrets of Egyptian Hieroglyphs",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 753.6,
   ownProgress: 753.6,

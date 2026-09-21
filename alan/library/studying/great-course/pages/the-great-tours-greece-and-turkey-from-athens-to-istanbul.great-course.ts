@@ -6,7 +6,7 @@ export const theGreatToursGreeceAndTurkeyFromAthensToIstanbul = {
   slug: "the-great-tours-greece-and-turkey-from-athens-to-istanbul",
   title: "The Great Tours: Greece and Turkey, from Athens to Istanbul",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 749.4,
   ownProgress: 749.4,

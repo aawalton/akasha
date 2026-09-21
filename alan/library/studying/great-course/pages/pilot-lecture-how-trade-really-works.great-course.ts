@@ -6,7 +6,7 @@ export const pilotLectureHowTradeReallyWorks = {
   slug: "pilot-lecture-how-trade-really-works",
   title: "Pilot Lecture: How Trade Really Works",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,

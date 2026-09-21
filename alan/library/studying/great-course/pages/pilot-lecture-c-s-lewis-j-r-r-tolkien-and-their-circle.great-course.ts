@@ -6,7 +6,7 @@ export const pilotLectureCSLewisJRRTolkienAndTheirCircle = {
   slug: "pilot-lecture-c-s-lewis-j-r-r-tolkien-and-their-circle",
   title: "Pilot Lecture: C. S. Lewis, J. R. R. Tolkien, and Their Circle",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 32.4,
   ownProgress: 32.4,

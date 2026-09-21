@@ -6,7 +6,7 @@ export const howToDraw = {
   slug: "how-to-draw",
   title: "How to Draw",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1087.8,
   ownProgress: 1087.8,

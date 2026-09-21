@@ -6,7 +6,7 @@ export const pilotLectureFiguringOutFats = {
   slug: "pilot-lecture-figuring-out-fats",
   title: "Pilot Lecture: Figuring Out Fats",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 31.316667,
   ownProgress: 31.316667,

@@ -11,7 +11,7 @@ export const mitskiLoveMeMoreClarkRemix = {
   ownProgress: 8.3959,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2022-01-26",
   externalIdentity: [
     {

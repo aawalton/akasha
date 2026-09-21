@@ -9,7 +9,7 @@ export const billieEilishSixFeetUnderTheRemixes = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2017-02-03",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

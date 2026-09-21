@@ -6,7 +6,7 @@ export const anEconomicHistoryOfTheWorldSince1400 = {
   slug: "an-economic-history-of-the-world-since-1400",
   title: "An Economic History of the World since 1400",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1472.4,
   ownProgress: 1472.4,

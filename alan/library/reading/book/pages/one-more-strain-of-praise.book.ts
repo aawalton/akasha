@@ -6,7 +6,7 @@ export const oneMoreStrainOfPraise = {
   slug: "one-more-strain-of-praise",
   title: "One More Strain of Praise",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 4,

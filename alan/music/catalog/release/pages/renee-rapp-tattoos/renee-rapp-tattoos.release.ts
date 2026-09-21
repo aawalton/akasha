@@ -11,7 +11,7 @@ export const reneeRappTattoos = {
   ownProgress: 2.883767,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-06-03",
   externalIdentity: [
     {

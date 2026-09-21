@@ -6,7 +6,7 @@ export const everythingIsTuberculosis = {
   slug: "everything-is-tuberculosis",
   title: "Everything is Tuberculosis",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "John Green",
   unit: "unit/words",
   ownLength: 83700,

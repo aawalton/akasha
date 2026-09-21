@@ -6,7 +6,7 @@ export const pilotLectureWhatIsPain = {
   slug: "pilot-lecture-what-is-pain",
   title: "Pilot Lecture: What Is Pain?",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

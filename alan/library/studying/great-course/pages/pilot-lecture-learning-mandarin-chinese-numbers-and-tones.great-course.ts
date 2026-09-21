@@ -6,7 +6,7 @@ export const pilotLectureLearningMandarinChineseNumbersAndTones = {
   slug: "pilot-lecture-learning-mandarin-chinese-numbers-and-tones",
   title: "Pilot Lecture: Learning Mandarin Chinese—Numbers and Tones",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,

@@ -11,7 +11,7 @@ export const emBeiholdCityOfAngels = {
   ownProgress: 3.238467,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2020-08-14",
   externalIdentity: [
     {

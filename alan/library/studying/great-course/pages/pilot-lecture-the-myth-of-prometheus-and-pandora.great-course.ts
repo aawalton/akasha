@@ -6,7 +6,7 @@ export const pilotLectureTheMythOfPrometheusAndPandora = {
   slug: "pilot-lecture-the-myth-of-prometheus-and-pandora",
   title: "Pilot Lecture: The Myth of Prometheus and Pandora",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

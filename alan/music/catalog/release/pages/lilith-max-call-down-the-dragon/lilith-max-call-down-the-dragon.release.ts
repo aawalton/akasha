@@ -11,7 +11,7 @@ export const lilithMaxCallDownTheDragon = {
   ownProgress: 15.76785,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-05-16",
   externalIdentity: [
     {

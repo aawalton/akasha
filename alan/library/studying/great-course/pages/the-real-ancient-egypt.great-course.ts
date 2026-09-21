@@ -6,7 +6,7 @@ export const theRealAncientEgypt = {
   slug: "the-real-ancient-egypt",
   title: "The Real Ancient Egypt",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 235.2,
   ownProgress: 235.2,

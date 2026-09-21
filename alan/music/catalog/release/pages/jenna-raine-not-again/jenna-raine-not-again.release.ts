@@ -11,7 +11,7 @@ export const jennaRaineNotAgain = {
   ownProgress: 3.611017,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-05-27",
   externalIdentity: [
     {

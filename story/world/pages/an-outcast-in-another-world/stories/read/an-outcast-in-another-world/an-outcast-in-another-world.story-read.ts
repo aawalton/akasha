@@ -13,6 +13,6 @@ export const anOutcastInAnotherWorld = {
       externalLink: "https://www.amazon.com/dp/B09FZ1P41X",
     },
   ],
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
 } as const satisfies StoryRead

@@ -6,7 +6,7 @@ export const ourNightSky = {
   slug: "our-night-sky",
   title: "Our Night Sky",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 386.4,
   ownProgress: 386.4,

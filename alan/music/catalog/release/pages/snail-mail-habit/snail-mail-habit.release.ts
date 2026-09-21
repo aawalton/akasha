@@ -11,7 +11,7 @@ export const snailMailHabit = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
-  rank: "D",
+  grade: "D",
   publishedAt: "2016-07-12",
   externalIdentity: [
     {

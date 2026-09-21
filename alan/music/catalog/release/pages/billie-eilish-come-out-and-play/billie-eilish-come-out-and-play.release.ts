@@ -9,7 +9,7 @@ export const billieEilishComeOutAndPlay = {
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
   publishedAt: "2018-11-20",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

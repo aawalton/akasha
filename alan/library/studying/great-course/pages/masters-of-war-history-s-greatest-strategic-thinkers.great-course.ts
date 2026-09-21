@@ -6,7 +6,7 @@ export const mastersOfWarHistorySGreatestStrategicThinkers = {
   slug: "masters-of-war-history-s-greatest-strategic-thinkers",
   title: "Masters of War: History's Greatest Strategic Thinkers",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 747.6,
   ownProgress: 747.6,

@@ -6,7 +6,7 @@ export const howToGrowAnythingContainerGardeningTipsAndTechniques = {
   slug: "how-to-grow-anything-container-gardening-tips-and-techniques",
   title: "How to Grow Anything: Container Gardening Tips & Techniques",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 185.4,
   ownProgress: 185.4,

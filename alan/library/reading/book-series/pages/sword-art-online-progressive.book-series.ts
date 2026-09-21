@@ -6,7 +6,7 @@ export const swordArtOnlineProgressive = {
   slug: "sword-art-online-progressive",
   title: "Sword Art Online Progressive",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/words",
   maturityRating: "PG-13",
   externalIdentity: [

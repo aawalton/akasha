@@ -6,7 +6,7 @@ export const aBrandCalledYou = {
   slug: "a-brand-called-you",
   title: "A Brand Called You",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 287.4,
   ownProgress: 287.4,

@@ -11,7 +11,7 @@ export const phoebeBridgersKyotoGlitchGumRemix = {
   ownProgress: 2.66355,
   unit: "unit/minutes",
   status: "completed",
-  rank: "D",
+  grade: "D",
   publishedAt: "2021-08-19",
   externalIdentity: [
     {

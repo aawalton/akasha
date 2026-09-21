@@ -6,7 +6,7 @@ export const bannedBooksBurnedBooksForbiddenLiteraryWorks = {
   slug: "banned-books-burned-books-forbidden-literary-works",
   title: "Banned Books, Burned Books: Forbidden Literary Works",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 782.4,
   ownProgress: 782.4,

@@ -6,7 +6,7 @@ export const creativeFlavorsForCakesFillingsAndFrostings = {
   slug: "creative-flavors-for-cakes-fillings-and-frostings",
   title: "Creative Flavors for Cakes, Fillings & Frostings",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 213,
   ownProgress: 213,

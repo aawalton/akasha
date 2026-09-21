@@ -6,7 +6,7 @@ export const simpleAndStunningWatercolorTechniques = {
   slug: "simple-and-stunning-watercolor-techniques",
   title: "Simple and Stunning Watercolor Techniques",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 151.8,
   ownProgress: 151.8,

@@ -6,7 +6,7 @@ export const artGreatCourses = {
   slug: "art-great-courses",
   title: "Art Great Courses",
   status: "following",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   partOfCollections: ["great-courses-collection/great-courses-by-subject"],
   externalIdentity: [{ source: "the-great-courses", externalId: "great-courses-subject-art" }],

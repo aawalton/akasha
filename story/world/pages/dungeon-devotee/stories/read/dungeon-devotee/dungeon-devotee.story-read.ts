@@ -14,7 +14,7 @@ export const dungeonDevotee = {
     },
   ],
   author: "Nixia",
-  rank: "C",
+  grade: "C",
   following: true,
   externalTags: [
     "LitRPG",

@@ -6,7 +6,7 @@ export const booksThatMatterTheHistoryOfTheDeclineAndFallOfTheRomanEmp = {
   slug: "books-that-matter-the-history-of-the-decline-and-fall-of-the-roman-emp",
   title: "Books That Matter: The History of the Decline and Fall of the Roman Empire",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 734.4,
   ownProgress: 734.4,

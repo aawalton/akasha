@@ -13,7 +13,7 @@ export const hellHoundEvolutionLitrpg = {
       externalLink: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-litrpg",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

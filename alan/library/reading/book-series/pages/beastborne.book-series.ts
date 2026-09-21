@@ -6,7 +6,7 @@ export const beastborne = {
   slug: "beastborne",
   title: "Beastborne",
   status: "following",
-  rank: "B",
+  grade: "B",
   unit: "unit/words",
   maturityRating: "R",
   externalIdentity: [

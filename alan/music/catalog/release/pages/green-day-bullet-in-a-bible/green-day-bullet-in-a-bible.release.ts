@@ -11,7 +11,7 @@ export const greenDayBulletInABible = {
   ownProgress: 65.04035,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2005-11-15",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const anIntroductionToInfectiousDiseases = {
   slug: "an-introduction-to-infectious-diseases",
   title: "An Introduction to Infectious Diseases",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 765,
   ownProgress: 765,

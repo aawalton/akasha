@@ -11,7 +11,7 @@ export const imagineDragonsMonicaDemo = {
   ownProgress: 3.304867,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2025-01-27",
   externalIdentity: [
     {

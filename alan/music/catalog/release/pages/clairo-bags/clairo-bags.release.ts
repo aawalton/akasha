@@ -11,7 +11,7 @@ export const clairoBags = {
   ownProgress: 4.341983,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-05-24",
   externalIdentity: [
     {

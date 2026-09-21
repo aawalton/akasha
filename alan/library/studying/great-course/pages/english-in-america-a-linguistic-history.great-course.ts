@@ -6,7 +6,7 @@ export const englishInAmericaALinguisticHistory = {
   slug: "english-in-america-a-linguistic-history",
   title: "English in America: A Linguistic History",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 356.4,
   ownProgress: 356.4,

@@ -11,7 +11,7 @@ export const greenDayAmericanIdiotDeluxe = {
   ownProgress: 65.22195,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2004-09-21",
   externalIdentity: [
     {

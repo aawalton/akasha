@@ -6,7 +6,7 @@ export const danishPastriesFromScratch = {
   slug: "danish-pastries-from-scratch",
   title: "Danish Pastries From Scratch",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 171.15,
   ownProgress: 171.15,

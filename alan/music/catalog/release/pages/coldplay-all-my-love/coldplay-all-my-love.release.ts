@@ -11,7 +11,7 @@ export const coldplayAllMyLove = {
   ownProgress: 11.0588,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-08-22",
   externalIdentity: [
     {

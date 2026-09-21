@@ -11,7 +11,7 @@ export const greenDayAmericanIdiotTheOriginalBroadwayCastRecording = {
   ownProgress: 83.1288,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2010-04-20",
   externalIdentity: [
     {

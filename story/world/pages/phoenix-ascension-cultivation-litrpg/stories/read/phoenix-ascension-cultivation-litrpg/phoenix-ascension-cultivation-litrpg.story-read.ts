@@ -4,7 +4,7 @@ export const phoenixAscensionCultivationLitrpg = {
   id: "01a0657d-ada4-766d-995d-5c6bf82373eb",
   type: "page-type/story-read",
   slug: "phoenix-ascension-cultivation-litrpg",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Phoenix Ascension",
   world: "world/phoenix-ascension-cultivation-litrpg",

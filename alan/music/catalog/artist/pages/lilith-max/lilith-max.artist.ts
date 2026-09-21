@@ -11,7 +11,7 @@ export const lilithMax = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "B",
+  grade: "B",
   externalIdentity: [
     {
       source: "musicbrainz",

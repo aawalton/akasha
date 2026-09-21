@@ -11,7 +11,7 @@ export const theLordOfTheRingsTheFellowshipOfTheRing = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2001-12-19",
   externalIdentity: [
     {

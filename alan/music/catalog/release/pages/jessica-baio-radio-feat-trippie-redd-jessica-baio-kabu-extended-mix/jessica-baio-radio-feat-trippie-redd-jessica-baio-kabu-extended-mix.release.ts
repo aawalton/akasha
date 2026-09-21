@@ -11,7 +11,7 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMix = {
   ownProgress: 2.844433,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-02-28",
   externalIdentity: [
     {

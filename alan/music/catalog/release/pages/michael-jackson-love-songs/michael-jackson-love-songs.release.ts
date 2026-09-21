@@ -11,7 +11,7 @@ export const michaelJacksonLoveSongs = {
   ownProgress: 50.773683,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2002-01-01",
   externalIdentity: [
     {

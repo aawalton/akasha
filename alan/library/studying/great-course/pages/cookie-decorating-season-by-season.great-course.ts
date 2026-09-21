@@ -6,7 +6,7 @@ export const cookieDecoratingSeasonBySeason = {
   slug: "cookie-decorating-season-by-season",
   title: "Cookie Decorating Season by Season",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 123,
   ownProgress: 123,

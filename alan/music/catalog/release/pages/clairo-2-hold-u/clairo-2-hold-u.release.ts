@@ -11,7 +11,7 @@ export const clairo2HoldU = {
   ownProgress: 1.981283,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2017-04-13",
   externalIdentity: [
     {

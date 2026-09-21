@@ -6,7 +6,7 @@ export const goingToTheDevilTheImpeachmentOf1868 = {
   slug: "going-to-the-devil-the-impeachment-of-1868",
   title: "Going to the Devil: The Impeachment of 1868",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 60,
   ownProgress: 60,

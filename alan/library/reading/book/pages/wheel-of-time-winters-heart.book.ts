@@ -6,7 +6,7 @@ export const wheelOfTimeWintersHeart = {
   slug: "wheel-of-time-winters-heart",
   title: "Wheel of Time: Winter's Heart",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 9,

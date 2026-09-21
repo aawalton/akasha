@@ -8,7 +8,7 @@ export const mitski = {
   ownProgress: 0,
   partOfCollections: ["artist-collection/artists"],
   position: 0,
-  rank: "B+",
+  grade: "B+",
   status: "archived",
   tags: ["Indie Pop Storyteller"],
   unit: "unit/minutes",

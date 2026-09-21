@@ -6,7 +6,7 @@ export const gnosticismFromNagHammadiToTheGospelOfJudas = {
   slug: "gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
   title: "Gnosticism: From Nag Hammadi to the Gospel of Judas",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 778.2,
   ownProgress: 778.2,

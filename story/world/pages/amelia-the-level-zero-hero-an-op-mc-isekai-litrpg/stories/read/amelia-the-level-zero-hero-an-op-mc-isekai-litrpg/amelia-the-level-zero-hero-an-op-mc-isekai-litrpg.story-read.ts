@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   id: "01a0657d-ada0-796c-a819-952701a30928",
   type: "page-type/story-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
-  rank: "C",
+  grade: "C",
   unit: "unit/words",
   title: "Amelia the Level Zero Hero",
   world: "world/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",

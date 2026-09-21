@@ -6,7 +6,7 @@ export const experiencingAmericaASmithsonianTourThroughAmericanHistory = {
   slug: "experiencing-america-a-smithsonian-tour-through-american-history",
   title: "Experiencing America: A Smithsonian Tour through American History",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 777,
   ownProgress: 777,

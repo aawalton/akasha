@@ -6,7 +6,7 @@ export const pilotLectureSocialConnectionAndYourHealth = {
   slug: "pilot-lecture-social-connection-and-your-health",
   title: "Pilot Lecture: Social Connection and Your Health",
   status: "completed",
-  rank: "A",
+  grade: "A",
   unit: "unit/minutes",
   ownLength: 35.683333,
   ownProgress: 35.683333,

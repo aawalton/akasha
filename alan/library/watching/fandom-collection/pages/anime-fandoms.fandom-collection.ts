@@ -11,5 +11,5 @@ export const animeFandoms = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-applicable",
-  rank: "B",
+  grade: "B",
 } as const satisfies FandomCollection

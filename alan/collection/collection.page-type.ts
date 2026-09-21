@@ -40,7 +40,6 @@ export const collection = {
     "page-type/sync",
     "page-type/sync-run",
     "page-type/unit",
-    "rank-property/rank",
     "relation-property/collection-type",
     "relation-property/collection-unit",
     "relation-property/part-of-collections",
@@ -74,7 +73,6 @@ export const collection = {
     },
     { pageProperty: "number-property/position", required: false, many: false },
     { pageProperty: "one-of-property/collection-published-at", required: false, many: false },
-    { pageProperty: "rank-property/rank", required: false, many: false },
     { pageProperty: "select-property/status", required: false, many: false },
     {
       pageProperty: "text-property/collection-tags",

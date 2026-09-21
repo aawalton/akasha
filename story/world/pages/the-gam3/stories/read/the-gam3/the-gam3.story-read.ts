@@ -13,7 +13,7 @@ export const theGam3 = {
       externalLink: "https://www.amazon.com/dp/B075V2GXKP",
     },
   ],
-  rank: "B",
+  grade: "B",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

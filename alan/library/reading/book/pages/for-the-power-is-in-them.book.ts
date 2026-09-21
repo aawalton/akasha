@@ -6,7 +6,7 @@ export const forThePowerIsInThem = {
   slug: "for-the-power-is-in-them",
   title: '"For the Power Is in Them..."',
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Neal A. Maxwell",
   unit: "unit/words",
   position: 2,

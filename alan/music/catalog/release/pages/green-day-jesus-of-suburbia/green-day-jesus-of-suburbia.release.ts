@@ -11,7 +11,7 @@ export const greenDayJesusOfSuburbia = {
   ownProgress: 12.2471,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "2005-01-01",
   externalIdentity: [
     {

@@ -14,7 +14,7 @@ export const systemChangeSystemUniverse = {
     },
   ],
   author: "SunriseCV",
-  rank: "B",
+  grade: "B",
   following: true,
   externalTags: [
     "LitRPG",

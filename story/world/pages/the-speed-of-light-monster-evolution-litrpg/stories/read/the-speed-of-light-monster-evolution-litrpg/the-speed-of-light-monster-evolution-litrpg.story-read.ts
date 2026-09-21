@@ -14,7 +14,7 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
         "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Progression",

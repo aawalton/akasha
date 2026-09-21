@@ -6,7 +6,7 @@ export const aMoreExcellentWay = {
   slug: "a-more-excellent-way",
   title: '"...A More Excellent Way"',
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Henry Wright",
   unit: "unit/words",
   position: 1,

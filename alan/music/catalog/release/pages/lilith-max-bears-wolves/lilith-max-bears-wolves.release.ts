@@ -11,7 +11,7 @@ export const lilithMaxBearsWolves = {
   ownProgress: 3.313167,
   unit: "unit/minutes",
   status: "completed",
-  rank: "A",
+  grade: "A",
   publishedAt: "2024-11-15",
   externalIdentity: [
     {

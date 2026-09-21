@@ -6,7 +6,7 @@ export const apollo11LessonsForAllTime = {
   slug: "apollo-11-lessons-for-all-time",
   title: "Apollo 11: Lessons for All time",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 72.6,
   ownProgress: 72.6,

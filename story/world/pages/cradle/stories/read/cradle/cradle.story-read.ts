@@ -13,7 +13,7 @@ export const cradle = {
       externalLink: "https://www.amazon.com/dp/B0753FP6SP",
     },
   ],
-  rank: "A",
+  grade: "A",
   tags: ["Cultivation", "System World"],
   unit: "unit/words",
 } as const satisfies StoryRead

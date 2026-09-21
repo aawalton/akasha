@@ -11,7 +11,7 @@ export const rockapella = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "following",
-  rank: "C",
+  grade: "C",
   externalIdentity: [
     {
       source: "spotify",

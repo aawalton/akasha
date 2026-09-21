@@ -11,7 +11,7 @@ export const emBeiholdPedestal = {
   ownProgress: 3.192583,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-10-12",
   externalIdentity: [
     {

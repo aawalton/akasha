@@ -6,7 +6,7 @@ export const englandFromTheFallOfRomeToTheNormanConquest = {
   slug: "england-from-the-fall-of-rome-to-the-norman-conquest",
   title: "England: From the Fall of Rome to the Norman Conquest",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 723,
   ownProgress: 723,

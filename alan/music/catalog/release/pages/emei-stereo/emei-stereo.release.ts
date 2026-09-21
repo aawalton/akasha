@@ -9,7 +9,7 @@ export const emeiStereo = {
   partOfCollections: ["artist/emei"],
   position: 0,
   publishedAt: "2025-07-11",
-  rank: "B",
+  grade: "B",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

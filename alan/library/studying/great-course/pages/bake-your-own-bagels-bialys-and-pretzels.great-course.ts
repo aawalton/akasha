@@ -6,7 +6,7 @@ export const bakeYourOwnBagelsBialysAndPretzels = {
   slug: "bake-your-own-bagels-bialys-and-pretzels",
   title: "Bake Your Own Bagels, Bialys & Pretzels",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 113.4,
   ownProgress: 113.4,

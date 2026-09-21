@@ -9,7 +9,7 @@ export const vinnyMarchiPoserRemastered = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2023-02-06",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

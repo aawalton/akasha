@@ -11,7 +11,7 @@ export const jennaRaineTechnicolor = {
   ownProgress: 2.908317,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2019-07-19",
   externalIdentity: [
     {

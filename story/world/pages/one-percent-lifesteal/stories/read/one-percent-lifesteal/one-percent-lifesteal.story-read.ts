@@ -13,7 +13,7 @@ export const onePercentLifesteal = {
       externalLink: "https://www.amazon.com/dp/B0DGWCJ6JP",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["Dark"],
   unit: "unit/words",
 } as const satisfies StoryRead

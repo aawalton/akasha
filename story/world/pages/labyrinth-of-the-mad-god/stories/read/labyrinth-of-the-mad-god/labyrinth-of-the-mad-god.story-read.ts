@@ -13,7 +13,7 @@ export const labyrinthOfTheMadGod = {
       externalLink: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god",
     },
   ],
-  rank: "C",
+  grade: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",

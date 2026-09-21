@@ -6,7 +6,7 @@ export const paintingWithWatercolors = {
   slug: "painting-with-watercolors",
   title: "Painting with Watercolors",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 360.6,
   ownProgress: 360.6,

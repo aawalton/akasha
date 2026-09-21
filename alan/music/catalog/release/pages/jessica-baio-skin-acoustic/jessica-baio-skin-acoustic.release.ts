@@ -11,7 +11,7 @@ export const jessicaBaioSkinAcoustic = {
   ownProgress: 3.324533,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-04-22",
   externalIdentity: [
     {

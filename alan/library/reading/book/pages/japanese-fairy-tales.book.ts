@@ -6,7 +6,7 @@ export const japaneseFairyTales = {
   slug: "japanese-fairy-tales",
   title: "Japanese Fairy Tales",
   status: "completed",
-  rank: "C",
+  grade: "C",
   author: "Yei Theodora Ozaki",
   unit: "unit/words",
   position: 5,

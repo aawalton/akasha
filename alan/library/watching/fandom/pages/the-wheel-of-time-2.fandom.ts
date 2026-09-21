@@ -11,5 +11,5 @@ export const theWheelOfTime2 = {
   ownProgress: 0,
   unit: "unit/words",
   status: "not-started",
-  rank: "B",
+  grade: "B",
 } as const satisfies Fandom

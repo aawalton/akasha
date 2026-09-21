@@ -6,7 +6,7 @@ export const dreamer = {
   slug: "dreamer",
   title: "Dreamer",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Laini Taylor",
   unit: "unit/words",
   position: 4,

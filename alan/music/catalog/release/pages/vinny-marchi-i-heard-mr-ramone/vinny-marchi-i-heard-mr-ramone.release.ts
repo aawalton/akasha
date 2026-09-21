@@ -9,7 +9,7 @@ export const vinnyMarchiIHeardMrRamone = {
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   publishedAt: "2025-11-07",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

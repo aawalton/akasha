@@ -6,7 +6,7 @@ export const americaSLongStruggleAgainstSlavery = {
   slug: "america-s-long-struggle-against-slavery",
   title: "America’s Long Struggle against Slavery",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 790.8,
   ownProgress: 790.8,

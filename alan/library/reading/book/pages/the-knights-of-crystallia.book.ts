@@ -6,7 +6,7 @@ export const theKnightsOfCrystallia = {
   slug: "the-knights-of-crystallia",
   title: "The Knights of Crystallia",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Brandon Sanderson",
   unit: "unit/words",
   position: 3,

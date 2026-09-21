@@ -11,7 +11,7 @@ export const greenDay1039SmoothedOutSlappyHours = {
   ownProgress: 63.84495,
   unit: "unit/minutes",
   status: "completed",
-  rank: "C",
+  grade: "C",
   publishedAt: "1991-07-01",
   externalIdentity: [
     {

@@ -6,7 +6,7 @@ export const americaAfterTheColdWarTheFirst30Years = {
   slug: "america-after-the-cold-war-the-first-30-years",
   title: "America after the Cold War: The First 30 Years",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 345,
   ownProgress: 345,

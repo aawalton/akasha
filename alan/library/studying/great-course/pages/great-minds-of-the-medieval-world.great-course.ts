@@ -6,7 +6,7 @@ export const greatMindsOfTheMedievalWorld = {
   slug: "great-minds-of-the-medieval-world",
   title: "Great Minds of the Medieval World",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 722.4,
   ownProgress: 722.4,

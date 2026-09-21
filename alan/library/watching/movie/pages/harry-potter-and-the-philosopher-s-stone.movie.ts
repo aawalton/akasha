@@ -11,7 +11,7 @@ export const harryPotterAndThePhilosopherSStone = {
   ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2001-11-16",
   externalIdentity: [
     {

@@ -11,7 +11,7 @@ export const lynLapidSaturn = {
   ownProgress: 3.5611,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2022-12-02",
   externalIdentity: [
     {

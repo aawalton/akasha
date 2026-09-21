@@ -6,7 +6,7 @@ export const buildingABetterVocabulary = {
   slug: "building-a-better-vocabulary",
   title: "Building a Better Vocabulary",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 1131,
   ownProgress: 1131,

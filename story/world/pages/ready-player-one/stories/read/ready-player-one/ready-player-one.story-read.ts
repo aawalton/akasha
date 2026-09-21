@@ -13,7 +13,7 @@ export const readyPlayerOne = {
       externalLink: "https://www.amazon.com/dp/B083977FTN",
     },
   ],
-  rank: "C",
+  grade: "C",
   tags: ["VRMMO"],
   unit: "unit/words",
 } as const satisfies StoryRead

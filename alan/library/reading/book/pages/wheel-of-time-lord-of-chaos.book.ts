@@ -6,7 +6,7 @@ export const wheelOfTimeLordOfChaos = {
   slug: "wheel-of-time-lord-of-chaos",
   title: "Wheel of Time: Lord of Chaos",
   status: "completed",
-  rank: "B",
+  grade: "B",
   author: "Robert Jordan",
   unit: "unit/words",
   position: 6,

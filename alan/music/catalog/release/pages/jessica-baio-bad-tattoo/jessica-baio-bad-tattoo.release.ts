@@ -11,7 +11,7 @@ export const jessicaBaioBadTattoo = {
   ownProgress: 12.973583,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2023-12-08",
   externalIdentity: [
     {

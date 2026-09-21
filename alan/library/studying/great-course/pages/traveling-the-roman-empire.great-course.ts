@@ -6,7 +6,7 @@ export const travelingTheRomanEmpire = {
   slug: "traveling-the-roman-empire",
   title: "Traveling The Roman Empire",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 290.4,
   ownProgress: 290.4,

@@ -6,7 +6,7 @@ export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
   slug: "pilot-lecture-max-planck-and-the-ultraviolet-catastrophe",
   title: "Pilot Lecture: Max Planck and the Ultraviolet Catastrophe",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 19.8,
   ownProgress: 19.8,

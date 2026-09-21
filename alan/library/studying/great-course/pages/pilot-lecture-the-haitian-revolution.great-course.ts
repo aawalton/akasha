@@ -6,7 +6,7 @@ export const pilotLectureTheHaitianRevolution = {
   slug: "pilot-lecture-the-haitian-revolution",
   title: "Pilot Lecture: The Haitian Revolution",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,

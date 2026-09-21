@@ -6,7 +6,7 @@ export const discoveringWestAfricaGhanaSenegalCameroon = {
   slug: "discovering-west-africa-ghana-senegal-cameroon",
   title: "Discovering West Africa: Ghana, Senegal, Cameroon",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 247.8,
   ownProgress: 247.8,

@@ -9,7 +9,7 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8 = {
   partOfCollections: ["artist/aurora"],
   position: 0,
   publishedAt: "2025-07-18",
-  rank: "C",
+  grade: "C",
   status: "completed",
   unit: "unit/minutes",
   externalIdentity: [

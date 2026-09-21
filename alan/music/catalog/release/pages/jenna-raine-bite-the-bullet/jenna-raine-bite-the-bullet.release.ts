@@ -11,7 +11,7 @@ export const jennaRaineBiteTheBullet = {
   ownProgress: 5.961967,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2025-07-11",
   externalIdentity: [
     {

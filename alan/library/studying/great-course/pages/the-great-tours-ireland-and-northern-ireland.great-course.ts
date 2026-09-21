@@ -6,7 +6,7 @@ export const theGreatToursIrelandAndNorthernIreland = {
   slug: "the-great-tours-ireland-and-northern-ireland",
   title: "The Great Tours: Ireland and Northern Ireland",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 753.6,
   ownProgress: 753.6,

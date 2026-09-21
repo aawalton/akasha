@@ -6,7 +6,7 @@ export const theGreatToursExperiencingMedievalEurope = {
   slug: "the-great-tours-experiencing-medieval-europe",
   title: "The Great Tours: Experiencing Medieval Europe",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 728.4,
   ownProgress: 728.4,

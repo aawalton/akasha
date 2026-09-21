@@ -11,7 +11,7 @@ export const lilithMaxPeasantSThrone = {
   ownProgress: 2.856983,
   unit: "unit/minutes",
   status: "completed",
-  rank: "B",
+  grade: "B",
   publishedAt: "2024-01-19",
   externalIdentity: [
     {

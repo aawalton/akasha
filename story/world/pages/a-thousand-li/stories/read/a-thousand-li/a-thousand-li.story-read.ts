@@ -13,7 +13,7 @@ export const aThousandLi = {
       externalLink: "https://www.amazon.com/dp/B07VXJFRFV",
     },
   ],
-  rank: "B",
+  grade: "B",
   tags: ["Cultivation"],
   unit: "unit/words",
 } as const satisfies StoryRead

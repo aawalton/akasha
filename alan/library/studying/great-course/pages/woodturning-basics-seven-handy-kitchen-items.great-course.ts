@@ -6,7 +6,7 @@ export const woodturningBasicsSevenHandyKitchenItems = {
   slug: "woodturning-basics-seven-handy-kitchen-items",
   title: "Woodturning Basics: Seven Handy Kitchen Items",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 222,
   ownProgress: 222,

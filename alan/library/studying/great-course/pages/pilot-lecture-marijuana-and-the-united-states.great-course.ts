@@ -6,7 +6,7 @@ export const pilotLectureMarijuanaAndTheUnitedStates = {
   slug: "pilot-lecture-marijuana-and-the-united-states",
   title: "Pilot Lecture: Marijuana and the United States",
   status: "completed",
-  rank: "C",
+  grade: "C",
   unit: "unit/minutes",
   ownLength: 31.8,
   ownProgress: 31.8,

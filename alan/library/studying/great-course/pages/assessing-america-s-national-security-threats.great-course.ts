@@ -6,7 +6,7 @@ export const assessingAmericaSNationalSecurityThreats = {
   slug: "assessing-america-s-national-security-threats",
   title: "Assessing America’s National Security Threats",
   status: "completed",
-  rank: "B",
+  grade: "B",
   unit: "unit/minutes",
   ownLength: 282.6,
   ownProgress: 282.6,

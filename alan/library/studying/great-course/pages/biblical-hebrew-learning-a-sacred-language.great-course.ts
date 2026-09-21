@@ -6,7 +6,7 @@ export const biblicalHebrewLearningASacredLanguage = {
   slug: "biblical-hebrew-learning-a-sacred-language",
   title: "Biblical Hebrew: Learning a Sacred Language",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1241.4,
   ownProgress: 1241.4,

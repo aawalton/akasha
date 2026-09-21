@@ -13,7 +13,7 @@ export const soulGuardian = {
       externalLink: "https://www.amazon.com/dp/B0DTGF4TKM",
     },
   ],
-  rank: "B",
+  grade: "B",
   following: true,
   tags: ["Slice-Of-Life"],
   unit: "unit/words",

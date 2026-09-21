@@ -6,7 +6,7 @@ export const adobePhotoshopCcTheCompleteGuide = {
   slug: "adobe-photoshop-cc-the-complete-guide",
   title: "Adobe Photoshop CC: The Complete Guide",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 1509,
   ownProgress: 1509,

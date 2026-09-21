@@ -6,7 +6,7 @@ export const deliciousDishesForEveryTaste = {
   slug: "delicious-dishes-for-every-taste",
   title: "Delicious Dishes for Every Taste",
   status: "completed",
-  rank: "D",
+  grade: "D",
   unit: "unit/minutes",
   ownLength: 131.4,
   ownProgress: 131.4,
