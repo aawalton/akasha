@@ -17,3 +17,7 @@ interface MailSendCurrencyControl extends Control {
   OnBeginInput: () => void
 }
 declare const ZO_MailSendSendCurrency: MailSendCurrencyControl
+
+interface MailInbox {
+  GetOpenMailId: (this: MailInbox) => number | undefined
+}

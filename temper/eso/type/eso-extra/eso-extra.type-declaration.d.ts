@@ -29,3 +29,7 @@ declare const zo_strgmatch: (
 declare const zo_strtrim: (this: void, text: string) => string
 
 declare const SI_COLLECTIBLE_NAME_FORMATTER: number
+
+interface ZoObjectClass {
+  Initialize: (this: void, self: object, ...args: unknown[]) => void
+}

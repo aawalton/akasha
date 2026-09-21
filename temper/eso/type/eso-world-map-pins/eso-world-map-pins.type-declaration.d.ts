@@ -95,3 +95,10 @@ interface WorldMapPinManager {
   ) => void
   customPins: Record<number, WorldMapCustomPinData | undefined>
 }
+
+interface SharedInventoryManager {
+  GetOrCreateBagCache: (
+    this: SharedInventoryManager,
+    bagId: number
+  ) => { [slotKey: number]: { slotIndex: number } }
+}

@@ -233,3 +233,7 @@ interface TooltipControl {
   SetLootItem: (lootId: number, ...rest: unknown[]) => void
   SetTradingHouseItem: (tradingHouseIndex: number, ...rest: unknown[]) => void
 }
+
+interface EsoSystems {
+  RegisterKeyboardObject: (this: EsoSystems, name: string, object: unknown) => void
+}

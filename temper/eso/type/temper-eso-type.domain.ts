@@ -68,7 +68,6 @@ export const temperEsoType = {
     "type-declaration/eso-journal-window",
     "type-declaration/eso-keybindings",
     "type-declaration/eso-lib-sets-dlc",
-    "type-declaration/eso-lib-sets-shapes",
     "type-declaration/eso-lib-sets-shared-globals",
     "type-declaration/eso-lib-sets-strings",
     "type-declaration/eso-lib-sets-strings-2",
