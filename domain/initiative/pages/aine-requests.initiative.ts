@@ -22,6 +22,8 @@ export const aineRequests = {
     {
       statement:
         "A feature request names each contributor backing it and the points committed, most first.",
+      workingMemory:
+        "`page-type/contributor` is live under `product/kofi/contributor`, keyed by a sha-256 `email-hash` and holding a `balance` beside a `transactions` entry file of `at`, `points` and `stripeChargeId`. The route `alan-web-api-stripe-webhook` already appends a transaction and recomputes the balance. Nothing yet takes points out of a balance, so committing points to a request has no transaction of its own.",
     },
   ],
   constraints: [
