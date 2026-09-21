@@ -42,8 +42,14 @@ export const indexAnswersAreLevelWithTheChange = {
       statement: "An answer already holding what the change leaves is judged by nothing here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An answer turned outside the change's own files is judged by nothing here.",
+      decisionKind: "decision-kind/absence",
+      statement:
+        "Nothing here judges whether the settle that turned those answers agrees with the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Whether the answers agree with the pages is `index-is-level-with-the-pages` at audit.",
     },
     {
       decisionKind: "decision-kind/departure",

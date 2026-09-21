@@ -94,6 +94,16 @@ export const relationResolves = {
       statement:
         "That reading is of the edges into that page rather than of every relation property in turn.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "A page a change retargets a property under is judged at audit rather than at change.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Every page of every type declaring a property is more pages than a change may read.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 60 },
