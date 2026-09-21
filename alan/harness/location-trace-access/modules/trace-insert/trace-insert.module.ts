@@ -21,7 +21,7 @@ export const traceInsert = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The error names the finding that settles where a location trace belongs.",
+      statement: "The error says why refusing keeps more than a count of zero would.",
     },
     {
       decisionKind: "decision-kind/departure",
