@@ -161,6 +161,7 @@ export const temper = {
     "rust-crate/watcher-tray",
     "service-workstation/temper-watcher",
     "domain/temper-eso",
+    "domain/temper-addon",
   ],
   decisions: [
     {
