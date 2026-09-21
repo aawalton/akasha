@@ -5,9 +5,9 @@ import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import { asNumber } from "akasha/temper/companions-addon/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "akasha/temper/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
   const settings = FCOCO.settingsVars.settings

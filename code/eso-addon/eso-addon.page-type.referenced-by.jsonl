@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/catalog-addon/temper-catalog-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/collections-addon/temper-collections-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/errors-addon/temper-errors-addon.eso-addon.ts"}
+{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/events-addon/temper-events-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/hud-addon/temper-hud-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-addon-keybinds/temper-lib-addon-keybinds.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.eso-addon.ts"}
@@ -37,7 +38,6 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/companions-addon/temper-companions-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/crafting-addon/temper-crafting-addon.eso-addon.ts"}
-{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/events-addon/temper-events-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/housing-addon/temper-housing-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/interface-addon/temper-interface-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/items-addon/temper-items-addon.eso-addon.ts"}

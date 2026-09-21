@@ -24,7 +24,7 @@ import {
   requestRefreshIfNeeded,
   updateWarning,
 } from "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
-import { parseLuaCapture } from "akasha/temper/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 
 const SLIDER_HANDLER_NAMESPACE = "LAM2_Slider"
 

@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/navigation-addon/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/navigation-addon/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}

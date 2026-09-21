@@ -1,9 +1,9 @@
+import { dropdown } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { DEFAULTS } from "akasha/temper/interface-addon/modules/quiet-defaults/quiet-defaults.module.code.ts"
 import { getSavedVariables } from "akasha/temper/interface-addon/modules/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 import { header } from "akasha/temper/interface-addon/modules/quiet-settings-header/quiet-settings-header.module.code.ts"
 import { STRINGS } from "akasha/temper/interface-addon/modules/quiet-strings/quiet-strings.module.code.ts"
 import { noUniversalStones } from "akasha/temper/interface-addon/modules/quiet-world/quiet-world.module.code.ts"
-import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 export function buildDialogSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()

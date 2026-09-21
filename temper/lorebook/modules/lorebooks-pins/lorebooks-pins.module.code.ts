@@ -1,3 +1,4 @@
+import { isTable } from "akasha/temper/addon/narrow/modules/is-table/is-table.module.code.ts"
 import {
   ICON_LIST_ZONEID,
   LBOOKS_IMMERSIVE_DISABLED,
@@ -29,7 +30,6 @@ import {
 } from "akasha/temper/lorebook/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import { STATE } from "akasha/temper/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
-import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
 
 export interface ShalidorPinTag {
   readonly [SHALIDOR_LOCATION_X]: number

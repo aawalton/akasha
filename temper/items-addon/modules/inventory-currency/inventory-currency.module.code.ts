@@ -1,3 +1,4 @@
+import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import { getCharacterLocationKey } from "akasha/temper/items-addon/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
 import {
   getDatabase,
@@ -7,7 +8,6 @@ import type {
   CurrencyBalances,
   InventoryCurrencies,
 } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import { requireNumericKey } from "akasha/temper/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 
 const CURRENCY_MAP: Record<number, string> = {}
 if (CURT_MONEY !== undefined) CURRENCY_MAP[CURT_MONEY] = "gold"

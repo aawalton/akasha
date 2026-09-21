@@ -1,4 +1,13 @@
 import {
+  type LamDropdownData,
+  valueDropdown,
+} from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
+import {
+  header,
+  type LamHeaderData,
+} from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import {
   ADDON_DISPLAY_NAME,
   ADDON_NAME,
   getAddonAuthor,
@@ -22,15 +31,6 @@ import {
   getDefaults,
   getSavedVars,
 } from "akasha/temper/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
-import {
-  type LamDropdownData,
-  valueDropdown,
-} from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
-import {
-  header,
-  type LamHeaderData,
-} from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const logger = createLogger("settings")
 

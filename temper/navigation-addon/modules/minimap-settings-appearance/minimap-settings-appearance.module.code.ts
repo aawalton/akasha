@@ -1,4 +1,9 @@
 import {
+  dropdown,
+  valueDropdown,
+} from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
+import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
+import {
   asAnyTableMember,
   asBoolean,
   asColorDef,
@@ -8,11 +13,6 @@ import {
 } from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import type { VotansMiniMap } from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import { LOOKUP } from "akasha/temper/navigation-addon/modules/minimap-map-settings/minimap-map-settings.module.code.ts"
-import {
-  dropdown,
-  valueDropdown,
-} from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
-import { header } from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
 
 const async = LibAsync
 

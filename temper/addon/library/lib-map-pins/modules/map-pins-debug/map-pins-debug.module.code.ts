@@ -3,7 +3,7 @@ import {
   type AddonLog,
   createAddonLog,
   type LogType,
-} from "akasha/temper/addon-log/modules/addon-log/addon-log.module.code.ts"
+} from "akasha/temper/addon/log/modules/addon-log/addon-log.module.code.ts"
 
 let LOG: AddonLog | undefined
 

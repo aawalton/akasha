@@ -9,6 +9,9 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/catalog-addon/catalog-config-global/catalog-config-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/collections-addon/collections-addon-declarations/collections-addon-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/events-addon/events-addon-declarations/events-addon-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/events-addon/next-boss-global-declarations/next-boss-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/arkadius-trade-tools/arkadius-trade-tools.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/bui/bui.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.ts"}
@@ -228,9 +231,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/eso-writ/eso-writ.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/lua-length/lua-length.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/events-addon/events-addon-declarations/events-addon-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/events-addon/next-boss-global-declarations/next-boss-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/housing-addon/housing-declarations/housing-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/housing-addon/housing-ptf-publish-declarations/housing-ptf-publish-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/housing-addon/housing-publish-declarations/housing-publish-declarations.type-declaration.ts"}

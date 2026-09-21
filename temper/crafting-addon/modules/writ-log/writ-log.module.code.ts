@@ -1,4 +1,4 @@
-import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/addon/narrow/modules/is-table/is-table.module.code.ts"
 import "akasha/temper/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
 
 interface LogState {

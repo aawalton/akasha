@@ -1,3 +1,4 @@
+import { dropdown } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import {
   disableChatMinimize,
   dontRotateGameCamera,
@@ -13,7 +14,6 @@ import {
   dontReadBooks,
   hookAcceptOfferedQuest,
 } from "akasha/temper/interface-addon/modules/quiet-world/quiet-world.module.code.ts"
-import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 export function buildWorldSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()

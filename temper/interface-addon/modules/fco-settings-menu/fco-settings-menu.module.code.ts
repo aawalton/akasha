@@ -1,3 +1,4 @@
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   noEnlightenedSound,
   noShopAdvertisement,
@@ -41,7 +42,6 @@ import {
 } from "akasha/temper/interface-addon/modules/fco-panel-storage/fco-panel-storage.module.code.ts"
 import { buildTooltipsControls } from "akasha/temper/interface-addon/modules/fco-panel-tooltips/fco-panel-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/interface-addon/modules/fco-state/fco-state.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const FAVORITES_EXCLUDED_LIST_STATUS_ICON = "/esoui/art/buttons/cancel_down.dds"
 const favoritesExcludedListStatusIconText = zo_iconTextFormatNoSpace(

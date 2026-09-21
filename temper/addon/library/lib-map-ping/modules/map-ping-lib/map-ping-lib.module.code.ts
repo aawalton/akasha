@@ -7,7 +7,7 @@ import type {
   InternalState,
   Lib,
 } from "akasha/temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
-import { createLogger } from "akasha/temper/addon-log/modules/library-logger/library-logger.module.code.ts"
+import { createLogger } from "akasha/temper/addon/log/modules/library-logger/library-logger.module.code.ts"
 
 let NEXT_NAMESPACE_ID = 1
 

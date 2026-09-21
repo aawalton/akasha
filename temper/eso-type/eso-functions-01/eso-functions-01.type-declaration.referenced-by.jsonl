@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/capture-sales-addon/modules/sales-addon-entry/sales-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-events/next-boss-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-timers/next-boss-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-builtins/hud-addon-builtins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/bit-codec/modules/base64url/base64url.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/bit-codec/modules/bit-reader/bit-reader.module.code.ts"}
@@ -17,8 +19,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-progress/companions-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/events-addon/modules/next-boss-events/next-boss-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/events-addon/modules/next-boss-timers/next-boss-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/game-catalog-capture-addon/modules/class-catalog-capture/class-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}

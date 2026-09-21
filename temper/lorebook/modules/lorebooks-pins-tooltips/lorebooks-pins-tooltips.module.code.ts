@@ -1,3 +1,4 @@
+import { isTable } from "akasha/temper/addon/narrow/modules/is-table/is-table.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -23,7 +24,6 @@ import {
 import { getQuestLocation } from "akasha/temper/lorebook/modules/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import { gamepadBodyStyle } from "akasha/temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
-import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
 
 export const PIN_TOOLTIP_STATE: { informationTooltip: unknown } = {
   informationTooltip: undefined,

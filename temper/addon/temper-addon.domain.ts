@@ -16,5 +16,9 @@ export const temperAddon = {
     "eso-addon/temper-quests-addon",
     "eso-addon/temper-hud-addon",
     "eso-addon/temper-selector-addon",
+    "eso-addon/temper-events-addon",
+    "domain/temper-addon-log",
+    "domain/temper-narrow",
+    "domain/temper-settings-panel",
   ],
 } as const satisfies Domain

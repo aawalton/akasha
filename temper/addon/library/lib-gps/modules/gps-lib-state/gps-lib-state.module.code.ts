@@ -10,7 +10,7 @@ import type {
   InternalState,
   Lib,
 } from "akasha/temper/addon/library/lib-gps/modules/gps-types/gps-types.module.code.ts"
-import { createLogger } from "akasha/temper/addon-log/modules/library-logger/library-logger.module.code.ts"
+import { createLogger } from "akasha/temper/addon/log/modules/library-logger/library-logger.module.code.ts"
 
 function createChat(this: void): LibChatMessageProxy {
   if (LibChatMessage === undefined) {

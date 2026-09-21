@@ -3,7 +3,7 @@ import type { Internal } from "akasha/temper/addon/library/lib-map-data/modules/
 import {
   createAddonLog,
   type LogType,
-} from "akasha/temper/addon-log/modules/addon-log/addon-log.module.code.ts"
+} from "akasha/temper/addon/log/modules/addon-log/addon-log.module.code.ts"
 
 export function initLogger(this: void): undefined {
   const log = createAddonLog(INTERNAL.loggerName, function (this: void): boolean {

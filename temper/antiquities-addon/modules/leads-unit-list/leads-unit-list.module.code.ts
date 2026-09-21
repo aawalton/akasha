@@ -1,3 +1,4 @@
+import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import {
   DROPDOWN_DATA,
   DROPDOWN_MAJOR_ACTIONABLE,
@@ -42,7 +43,6 @@ import {
   ZONE_TYPE_CHAPTER,
   ZONE_TYPES,
 } from "akasha/temper/antiquities-addon/modules/leads-zones/leads-zones.module.code.ts"
-import { requireNumericKey } from "akasha/temper/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 
 const leadsUnitList = ZO_SortFilterList.Subclass<UnitListClass>()
 leadsUnitList.defaults = {}

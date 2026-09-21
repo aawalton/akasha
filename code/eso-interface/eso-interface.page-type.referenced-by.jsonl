@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/item-browser-layout/item-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/lorebooks-report-layout/lorebooks-report-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/lost-treasure-map-layout/lost-treasure-map-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/events-addon/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/lam-order-list-box-markup/lam-order-list-box-markup.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-media-provider/media-console-backupfont-jp/media-console-backupfont-jp.eso-interface.ts"}
@@ -32,7 +33,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-rune-layout/craft-store-rune-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-style-layout/craft-store-style-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/potion-maker-layout/potion-maker-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/events-addon/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/interface-addon/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/items-addon/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/lib-histoire/histoire-guild-history-cache-controls/histoire-guild-history-cache-controls.eso-interface.ts"}

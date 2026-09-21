@@ -1,6 +1,6 @@
+import { luaStringContains } from "akasha/temper/addon/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/quests-addon/modules/quests-constants/quests-constants.module.code.ts"
 import type { ChatterOptionKind } from "akasha/temper/addon/quests-addon/modules/quests-decide/quests-decide.module.code.ts"
-import { luaStringContains } from "akasha/temper/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 
 const MAD_GODS_BARGAIN_NAME = "the mad god's bargain"
 

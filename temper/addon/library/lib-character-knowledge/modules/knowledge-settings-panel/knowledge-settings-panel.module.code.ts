@@ -8,7 +8,7 @@ import type { SavedVars } from "akasha/temper/addon/library/lib-character-knowle
 import {
   type LamRegistrar,
   registerPanel,
-} from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
+} from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 function asLamRegistrar(value: unknown): LamRegistrar<object, unknown, unknown[]> {
   return value as LamRegistrar<object, unknown, unknown[]>

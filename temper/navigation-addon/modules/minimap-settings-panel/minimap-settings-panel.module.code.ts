@@ -1,3 +1,5 @@
+import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   asAnyTable,
   asBoolean,
@@ -9,8 +11,6 @@ import {
 } from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import { buildAppearanceSettings } from "akasha/temper/navigation-addon/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"
 import { buildLocationSettings } from "akasha/temper/navigation-addon/modules/minimap-settings-location/minimap-settings-location.module.code.ts"
-import { header } from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2
 

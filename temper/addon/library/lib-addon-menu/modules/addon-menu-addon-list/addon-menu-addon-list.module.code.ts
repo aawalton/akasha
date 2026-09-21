@@ -14,7 +14,7 @@ import {
   wm,
 } from "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts"
 import type { AddonListData } from "akasha/temper/addon/library/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
-import { parseLuaCapture } from "akasha/temper/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 
 export function scrollDataIntoView(
   this: void,

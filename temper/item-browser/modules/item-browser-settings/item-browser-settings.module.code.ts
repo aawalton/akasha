@@ -1,3 +1,5 @@
+import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   ADDON_NAME,
   ADDON_URL,
@@ -8,8 +10,6 @@ import {
 } from "akasha/temper/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
 import { refreshCollections } from "akasha/temper/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"
 import { hookExternalTooltips } from "akasha/temper/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
-import { header } from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 export function registerSettingsPanel(this: void): undefined {
   const lam = LibCodesCommonCode.GetLibAddonMenu()

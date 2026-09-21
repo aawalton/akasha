@@ -1,3 +1,4 @@
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
@@ -15,7 +16,6 @@ import type {
   AnyAsyncTask,
   LooseTable,
 } from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const em = EVENT_MANAGER
 const G = asRecord(globalThis)

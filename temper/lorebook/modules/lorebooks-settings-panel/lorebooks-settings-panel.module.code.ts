@@ -1,3 +1,4 @@
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import { addCompassPinOptions } from "akasha/temper/lorebook/modules/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
 import {
   ADDON_PANEL,
@@ -9,7 +10,6 @@ import { addMapPinFilterOptions } from "akasha/temper/lorebook/modules/lorebooks
 import { addPinAppearanceOptions } from "akasha/temper/lorebook/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts"
 import { addPinMenuOptions } from "akasha/temper/lorebook/modules/lorebooks-pin-menus/lorebooks-pin-menus.module.code.ts"
 import { asLamControlDataArray } from "akasha/temper/lorebook/modules/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2
 

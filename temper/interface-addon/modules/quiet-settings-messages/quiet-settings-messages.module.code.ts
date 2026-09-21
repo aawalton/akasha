@@ -1,3 +1,4 @@
+import { dropdown } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { updateRecentMessagesExpiry } from "akasha/temper/interface-addon/modules/quiet-alerts/quiet-alerts.module.code.ts"
 import { DEFAULTS } from "akasha/temper/interface-addon/modules/quiet-defaults/quiet-defaults.module.code.ts"
 import { getSavedVariables } from "akasha/temper/interface-addon/modules/quiet-saved-variables/quiet-saved-variables.module.code.ts"
@@ -7,7 +8,6 @@ import {
   mobImmuneTooltip,
   STRINGS,
 } from "akasha/temper/interface-addon/modules/quiet-strings/quiet-strings.module.code.ts"
-import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 export function buildMessageSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()

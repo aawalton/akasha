@@ -1,11 +1,11 @@
 import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import { requireSavedVariables } from "akasha/temper/addon/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
 import {
   SAVED_VARIABLES_DEFAULTS,
   SAVED_VARIABLES_NAME,
 } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
-import { requireNumericKey } from "akasha/temper/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
-import { requireSavedVariables } from "akasha/temper/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
 export interface SavedCompanionEquipmentSlot {
   displayText: string
   qualityColor: [number, number, number]

@@ -7,7 +7,7 @@ import {
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { MENU_STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
 import { STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const lib = LibSets
 
