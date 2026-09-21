@@ -8,7 +8,7 @@ import type {
 import {
   claimantOf,
   filesClaimedIn,
-  pagingOf,
+  pagingBy,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed, typeSlugIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -22,7 +22,7 @@ export function pagesTouchedBy(
   pageTypes: ReadonlySet<string>,
   shadow: Shadow
 ): readonly string[] {
-  const paging = pagingOf(shadow.index.everyOfType)
+  const paging = pagingBy((folder) => shadow.listed(folder))
   const fileProperties = shadow.index.filePropertiesAt()
   const folders = shadow.index.folderPropertiesAt()
   const extensions = shadow.index.extensionPropertiesAt()
