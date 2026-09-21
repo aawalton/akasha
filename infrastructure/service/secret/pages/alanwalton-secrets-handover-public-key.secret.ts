@@ -9,5 +9,6 @@ export const alanwaltonSecretsHandoverPublicKey = {
     { resourceName: "temper-secrets", resourceKey: "HANDOVER_PUBLIC_KEY" },
     { resourceName: "archive-of-worlds-secrets", resourceKey: "HANDOVER_PUBLIC_KEY" },
     { resourceName: "audhdalan-secrets", resourceKey: "HANDOVER_PUBLIC_KEY" },
+    { resourceName: "smilingjenny-secrets", resourceKey: "HANDOVER_PUBLIC_KEY" },
   ],
 } as const satisfies Secret
