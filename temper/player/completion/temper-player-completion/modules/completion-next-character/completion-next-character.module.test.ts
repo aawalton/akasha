@@ -1,9 +1,13 @@
 import { describe, expect, test } from "bun:test"
-import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import {
+  type CharacterCompletion,
+  emptySkillPointProgress,
+} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   type NextCharacterInput,
   resolveNextCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
+import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import {
   sparseComplete,
   sparseMissingOne,
@@ -63,6 +67,43 @@ describe("resolveNextCharacter — the order the roster is walked in", () => {
       characterId: "solo",
       characterName: "solo",
     })
+  })
+})
+
+const EVERY_STORY_ZONE: Record<string, number> = Object.fromEntries(
+  SKILL_POINT_STORY_ZONE_SOURCES.map((zone) => [zone.key, zone.maxQuests])
+)
+
+function mkSkillPointChar(
+  id: string,
+  sortOrder: number,
+  zoneQuests: Record<string, number>
+): NextCharacterInput {
+  return {
+    id,
+    name: id,
+    sortOrder,
+    completion: { skillPoints: { ...emptySkillPointProgress(), zoneQuests } },
+  }
+}
+
+describe("resolveNextCharacter — skill-points story zone quests", () => {
+  test("skips the character holding every story zone's quest skill points", () => {
+    const done = mkSkillPointChar("done", 1, EVERY_STORY_ZONE)
+    const left = mkSkillPointChar("left", 2, {})
+    const result = resolveNextCharacter([done, left], "skill-points", ["storyZoneQuests"])
+    expect(result?.characterId).toBe("left")
+  })
+
+  test("reads a character holding every story zone as finished, Imperial City or not", () => {
+    const done = mkSkillPointChar("done", 1, EVERY_STORY_ZONE)
+    expect(resolveNextCharacter([done], "skill-points", ["storyZoneQuests"])).toBeNull()
+  })
+
+  test("still owes Imperial City on the whole zone-quest branch", () => {
+    const done = mkSkillPointChar("done", 1, EVERY_STORY_ZONE)
+    const result = resolveNextCharacter([done], "skill-points", ["zoneQuests"])
+    expect(result?.characterId).toBe("done")
   })
 })
 
