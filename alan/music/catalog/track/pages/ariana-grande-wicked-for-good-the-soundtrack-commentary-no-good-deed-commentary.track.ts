@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentar
   id: "01a0a6c5-0aea-7476-ae5e-2145a6832391",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-no-good-deed-commentary",
+  grade: "C",
   ownLength: 1.6851666666666667,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
