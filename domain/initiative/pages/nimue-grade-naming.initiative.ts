@@ -6,12 +6,5 @@ export const nimueGradeNaming = {
   slug: "nimue-grade-naming",
   domain: "domain/naming",
   persona: "persona/nimue",
-  intentStack: [
-    {
-      statement:
-        "One page states the grade ladder, what each rung is called, and each rung's color.",
-      workingMemory:
-        "The ladder is written out twice: `page/properties/grade.grade-property.ts`, which states all sixteen rungs with a color for each, and `singability.grade-property.ts`, which states the rungs and no color. `grade-property.page-type.ts` decides a grade property states the whole ladder as its values, so the second writing is required today. That decision is what changes: a select property stating no values takes the values its page type states.",
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
